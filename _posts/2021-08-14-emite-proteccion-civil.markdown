@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Emite Protección Civil Municipal recomendaciones por lluvias este fin de semana"
-date:   2021-08-14 18:10:19 -0600
-tags:  lluvias "Proteccion Civil"
-author: "Jimena Jimenez"
-description: "El pronóstico se incrementa a partir de las 17:00 horas"
----
+title: Emite Protección Civil Municipal recomendaciones por lluvias este fin de semana
+date: 2021-08-14T18:10:19.000-06:00
+tags:
+- lluvias
+- " Proteccion Civil"
+author: Jimena Jimenez
+description: El pronóstico se incrementa a partir de las 17:00 horas
 
+---
 "La Coordinación Municipal de Protección Civil dio a conocer que para la tarde de este sábado y mañana domingo se prevén lluvias para la capital del estado de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional, por lo cual se exhorta a la comunidad a tomar las debidas precauciones para evitar incidentes.
 
 
