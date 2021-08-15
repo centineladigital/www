@@ -7,7 +7,8 @@ tags:
 - " Proteccion Civil"
 author: Jimena Jimenez
 description: El pronóstico se incrementa a partir de las 17:00 horas
-
+image: "/uploads/2021-08-14-emite-proteccion-civil.jpg"
+alt: "Mensaje de Protección Civil"
 ---
 "La Coordinación Municipal de Protección Civil dio a conocer que para la tarde de este sábado y mañana domingo se prevén lluvias para la capital del estado de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional, por lo cual se exhorta a la comunidad a tomar las debidas precauciones para evitar incidentes.
 

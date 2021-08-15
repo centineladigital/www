@@ -1,0 +1,33 @@
+<!-- Portfolio Grid Section -->
+<section id="portfolio">
+  <div class="container">
+    <div class="row">
+      {% for post in site.posts limit : 9 %}
+      <div class="col-sm-4 portfolio-item">
+        <div class="outside-decoration">
+          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+            <img
+              src="{{ post.image }}"
+              class="img-responsive"
+              alt="{{ post.alt }}"
+            />
+          </a>
+          <div>
+            <h2 class="post-title">{{ post.title }}</h2>
+            <h3 class="post-subtitle">{{ post.description }}</h3>
+          </div>
+          <div>
+            <a
+              href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"
+              alt="{{ post.alt }}"
+              ><p class="go-to-article">
+                <b>Ver Noticia</b>
+              </p>
+            </a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
