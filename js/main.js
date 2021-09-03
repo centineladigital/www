@@ -156,10 +156,10 @@ jQuery(document).ready(function($){
 		}
 	},
 	{
-		transition: true/*,
+		transition: true,
 		wrapper: {
 			classname: "caroufredsel_wrapper caroufredsel_wrapper_slider"
-		}*/
+		}
 	});	
 	$(".slider").sliderControl({
 		appendTo: $(".slider_content_box"),
@@ -217,12 +217,12 @@ jQuery(document).ready(function($){
 					},
 					duration: 750
 				}*/
-			}/*,
+			},
 			{
 				wrapper: {
 					classname: "caroufredsel_wrapper caroufredsel_wrapper_small_slider"
 				}
-			}*/);	
+			});	
 			$(".pr_preloader_ss_" + index + " li img").css("display", "block");
 			$(".pr_preloader_ss_" + index + " li .icon").css("display", "block");
 			$(".pr_preloader_ss_" + index).sliderControl({
