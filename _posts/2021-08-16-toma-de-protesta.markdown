@@ -10,6 +10,7 @@ author: Marakorea Navarro
 description: No habr\u00e1 grandes festejos para la toma de protesta
 image: "/uploads/2021-08-16-toma-de-protesta.jpg"
 alt: "Toma de protesta"
+front: true
 section: Local
 ---
 

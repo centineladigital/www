@@ -894,7 +894,8 @@
   </div>
   <div class="caroufredsel_wrapper caroufredsel_wrapper_slider">
     <ul class="slider">
-      {% for post in site.posts limit : 1 %}
+      {% assign front_posts = site.posts | where_exp: "item", "item.front == true" %}
+      {% for post in front_posts limit: 5 %}
         <li class="slide">
           <img src="{{ post.image }}" class="stretch" alt="{{ post.alt }}" />
           <div class="slider_content_box">
@@ -997,7 +998,7 @@
           <h4 class="box_header">Latest Posts</h4>
           <div class="row">
             <ul class="blog column column_1_2">
-              {% for post in site.posts limit : 2 %}
+              {% for post in site.posts limit : 2, offset: 1 %}
               <li class="post">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
@@ -1039,7 +1040,7 @@
               {% endfor %}
             </ul>
             <ul class="blog column column_1_2">
-              {% for post in site.posts limit : 2 %}
+              {% for post in site.posts limit : 2, offset: 3 %}
               <li class="post">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
@@ -1086,7 +1087,7 @@
             <h4 class="box_header">Posts Carousel</h4>
             <div class="horizontal_carousel_container page_margin_top">
               <ul class="blog horizontal_carousel autoplay-1 scroll-1 navigation-1 easing-easeInOutQuint duration-750">
-                {% for post in site.posts limit : 2 %}
+                {% for post in site.posts limit : 2, offset: 5 %}
                 <li class="post">
                   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                     <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
@@ -1148,7 +1149,7 @@
             <h4 class="box_header">Latest From Health</h4>
             <div class="row">
               <ul class="blog column column_1_2">
-                {% for post in site.posts limit : 1 %}
+                {% for post in site.posts limit : 1, offset: 7 %}
                 <li class="post">
                   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                     <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
@@ -1287,7 +1288,7 @@
               <div id="most-recent">
                 <div class="horizontal_carousel_container page_margin_top">
                   <ul class="blog horizontal_carousel page_margin_top autoplay-0 scroll-1 navigation-1 easing-easeInOutQuint duration-750">
-                  {% for post in site.posts limit : 3 %}
+                  {% for post in site.posts limit : 3, offset: 8 %}
                   <li class="post">
                     <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                         <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
@@ -1478,7 +1479,7 @@
             <div class="column column_1_2">
               <h4 class="box_header">Sports</h4>
               <ul class="blog">
-                {% for post in site.posts limit : 1 %}
+                {% for post in site.posts limit : 1, offset: 11 %}
                 <li class="post">
                   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                     <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
@@ -1502,7 +1503,7 @@
                 {% endfor %}
               </ul>
               <ul class="blog small clearfix">
-                {% for post in site.posts limit : 1 %}
+                {% for post in site.posts limit : 1, offset: 12 %}
                 <li class="post" style="display: flex;">
                   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                     <span class="icon gallery"></span>
@@ -1546,7 +1547,7 @@
             <div class="column column_1_2">
               <h4 class="box_header">Lifestyle</h4>
               <ul class="blog">
-                {% for post in site.posts limit : 1 %}
+                {% for post in site.posts limit : 1, offset: 13 %}
                 <li class="post">
                   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                     <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
@@ -1570,7 +1571,7 @@
                 {% endfor %}
               </ul>
               <ul class="blog small clearfix">
-                {% for post in site.posts limit : 1 %}
+                {% for post in site.posts limit : 1, offset: 14 %}
                 <li class="post" style="display: flex;">
                   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                     <span class="icon gallery"></span>
@@ -1616,7 +1617,7 @@
         <div class="column column_1_3">
           <h4 class="box_header">Recommended</h4>
           <ul class="blog small_margin clearfix">
-            {% for post in site.posts limit : 3 %}
+            {% for post in site.posts limit : 3, offset: 15 %}
             <li class="post">
               <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                 <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
@@ -1636,7 +1637,7 @@
             </li>
             <!-- <li class="post">
               <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-                <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" /> 
+                <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
               </a>
               <div class="post-description">
                 <h5>
@@ -1656,7 +1657,7 @@
           <div class="vertical_carousel_container clearfix">
             <ul
             class="blog small vertical_carousel autoplay-1 scroll-1 navigation-1 easing-easeInOutQuint duration-750">
-            {% for post in site.posts limit : 3 %}
+            {% for post in site.posts limit : 3, offset: 18 %}
               <li class="post" style="display: flex;">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <span class="icon small gallery"></span>
@@ -1743,7 +1744,7 @@
             </ul>
             <div id="sidebar-most-read">
               <ul class="blog rating page_margin_top clearfix">
-                {% for post in site.posts limit : 3 %}
+                {% for post in site.posts limit : 3, offset: 21 %}
                 <li class="post">
                   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                     <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
@@ -1799,7 +1800,7 @@
             </div>
             <div id="sidebar-most-commented">
               <ul class="blog rating page_margin_top clearfix">
-                {% for post in site.posts limit : 1 %}
+                {% for post in site.posts limit : 1, offset: 24 %}
                 <li class="post">
                   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                     <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
@@ -1856,7 +1857,7 @@
           </div>
           <h4 class="box_header page_margin_top_section">Top Authors</h4>
           <ul class="authors rating clearfix">
-            {% for post in site.posts limit : 1 %}
+            {% for post in site.posts limit : 1, offset: 25 %}
             <li class="author">
               <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
               </a>
@@ -1900,7 +1901,7 @@
           </ul>
           <h4 class="box_header page_margin_top_section">Science</h4>
           <ul class="blog small clearfix">
-            {% for post in site.posts limit : 5 %}
+            {% for post in site.posts limit : 5, offset: 26 %}
             <li class="post" style="display: flex;">
               <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                 <span class="icon gallery"></span>
@@ -1983,7 +1984,7 @@
           <h4 class="box_header">Health</h4>
           <div class="vertical_carousel_container clearfix">
             <ul class="blog small vertical_carousel autoplay-1 scroll-1 navigation-1 easing-easeInOutQuint duration-750">
-              {% for post in site.posts limit : 4 %}
+              {% for post in site.posts limit : 4, offset: 31 %}
               <li class="post" style="display: flex;">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <span class="icon small gallery"></span>
@@ -2062,7 +2063,7 @@
           <div class="vertical_carousel_container clearfix">
             <ul
               class="blog small vertical_carousel autoplay-1 scroll-1 navigation-1 easing-easeInOutQuint duration-750">
-              {% for post in site.posts limit : 4 %}
+              {% for post in site.posts limit : 4, offset: 35 %}
               <li class="post" style="display: flex;">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <span class="icon small gallery"></span>
@@ -2140,7 +2141,7 @@
           <h4 class="box_header">Sports</h4>
           <div class="vertical_carousel_container clearfix">
             <ul class="blog small vertical_carousel autoplay-1 scroll-1 navigation-1 easing-easeInOutQuint duration-750">
-              {% for post in site.posts limit : 4 %}
+              {% for post in site.posts limit : 4, offset: 39 %}
               <li class="post" style="display: flex;">
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <span class="icon small gallery"></span>

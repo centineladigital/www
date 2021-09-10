@@ -9,6 +9,7 @@ author: Jimena Jimenez
 description: El pronóstico se incrementa a partir de las 17:00 horas
 image: "/uploads/2021-08-14-emite-proteccion-civil.jpg"
 alt: "Mensaje de Protección Civil"
+front: true
 section: Local
 ---
 

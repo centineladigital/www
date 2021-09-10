@@ -10,6 +10,7 @@ author: Jimena Jimenez
 description: Luis Serrato reiter\u00f3 que ser\u00e1 un evento transmitido por redes sociales y que los medios de comunicaci\u00f3n ser\u00e1n invitados fundamentales para poder llegar a todos los rincones del estado
 image: "/uploads/2021-08-16-toma-protesta-maru.jpg"
 alt: "Maru Campus toma de protesta"
+front: true
 section: Local
 ---
 
