@@ -1,60 +1,5 @@
 <!-- Portfolio Grid Section -->
 <div class="site_container">
-  <!-- <div class="header_top_bar_container clearfix">
-    <div class="header_top_bar">
-      <form class="search" action="search.html" method="get">
-        <input type="text" name="s" placeholder="Search..." value="Search..." class="search_input hint">
-        <input type="submit" class="search_submit" value="">
-      </form>
-      <ul class="social_icons clearfix">
-        <li>
-          <a target="_blank" href="https://facebook.com/QuanticaLabs" class="social_icon facebook" title="facebook">
-            &nbsp;
-          </a>
-        </li>
-        <li>
-          <a target="_blank" href="https://twitter.com/QuanticaLabs" class="social_icon twitter" title="twitter">
-            &nbsp;
-          </a>
-        </li>
-        <li>
-          <a href="mailto:contact@pressroom.com" class="social_icon mail" title="mail">
-            &nbsp;
-          </a>
-        </li>
-        <li>
-          <a href="https://1.envato.market/quanticalabs-portfolio" class="social_icon envato" title="envato">
-            &nbsp;
-          </a>
-        </li>
-      </ul>
-      <div class="latest_news_scrolling_list_container">
-        <ul>
-          <li class="category">LATEST</li>
-          <li class="left"><a href="#"></a></li>
-          <li class="right"><a href="#"></a></li>
-          <li class="posts">
-            <ul class="latest_news_scrolling_list">
-              <li>
-                <a href="post.html" title="">Climate Change Debate While Britain Floods</a>
-              </li>
-              <li>
-                <a href="post.html" title="">The Public Health Crisis Hiding in Our Food</a>
-              </li>
-              <li>
-                <a href="post.html" title="">Nuclear Fusion Closer to Becoming a Reality</a>
-              </li>
-            </ul>
-          </li>
-          <li class="date">
-            <abbr title="04 Apr 2014" class="timeago current">04 Apr 2014</abbr>
-            <abbr title="04 May 2014" class="timeago">04 May 2014</abbr>
-            <abbr title="04 June 2014" class="timeago">04 June 2014</abbr>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div> -->
   <div class="header_container">
     <div class="header clearfix">
       <div class="logo">
@@ -901,7 +846,7 @@
             <ul class="post_details simple">
               <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
               <li class="date">
-                {{ post.date }}
+                {{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
               </li>
             </ul>
             <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ post.alt }}">{{ post.title
@@ -910,81 +855,6 @@
           </div>
         </li>
       {% endfor %}
-      <!-- <li class="slide">
-        <img src='images/slider/image_02.jpg' alt='img'>
-        <div class="slider_content_box">
-          <ul class="post_details simple">
-            <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
-            <li class="date">
-              18:25 PM, Feb 21
-            </li>
-          </ul>
-          <h2><a href="post.html" title="Climate Change Debate While Britain Floods">Climate Change Debate While Britain
-              Floods</a></h2>
-          <p class="clearfix">Maecenas mauris elementum, est morbi interdum cursus at elite imperdiet libero. Proin
-            odios dapibus integer an nulla augue pharetra cursus.</p>
-        </div>
-      </li>
-      <li class="slide">
-        <img src='images/slider/image_03.jpg' alt='img'>
-        <div class="slider_content_box">
-          <ul class="post_details simple">
-            <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
-            <li class="date">
-              10:11 PM, Feb 02
-            </li>
-          </ul>
-          <h2><a href="post.html" title="The Public Health Crisis Hiding in Our Food">The Public Health Crisis Hiding in
-              Our Food</a></h2>
-          <p class="clearfix">Maecenas mauris elementum, est morbi interdum cursus at elite imperdiet libero. Proin
-            odios dapibus integer an nulla augue pharetra cursus.</p>
-        </div>
-      </li>
-      <li class="slide">
-        <img src='images/slider/image_01.jpg' alt='img'>
-        <div class="slider_content_box">
-          <ul class="post_details simple">
-            <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
-            <li class="date">
-              18:25 PM, Feb 21
-            </li>
-          </ul>
-          <h2><a href="post.html" title="Built on Brotherhood, Club Lives Up to Name">Built on Brotherhood, Club Lives
-              Up to Name</a></h2>
-          <p class="clearfix">Maecenas mauris elementum, est morbi interdum cursus at elite imperdiet libero. Proin
-            odios dapibus integer an nulla augue pharetra cursus.</p>
-        </div>
-      </li>
-      <li class="slide">
-        <img src='images/slider/image_02.jpg' alt='img'>
-        <div class="slider_content_box">
-          <ul class="post_details simple">
-            <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
-            <li class="date">
-              10:11 PM, Feb 02
-            </li>
-          </ul>
-          <h2><a href="post.html" title="New Painkiller Rekindles Addiction Concerns">New Painkiller Rekindles Addiction
-              Concerns</a></h2>
-          <p class="clearfix">Maecenas mauris elementum, est morbi interdum cursus at elite imperdiet libero. Proin
-            odios dapibus integer an nulla augue pharetra cursus.</p>
-        </div>
-      </li>
-      <li class="slide">
-        <img src='images/slider/image_03.jpg' alt='img'>
-        <div class="slider_content_box">
-          <ul class="post_details simple">
-            <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
-            <li class="date">
-              10:11 PM, Feb 02
-            </li>
-          </ul>
-          <h2><a href="post.html" title="High Altitudes May Aid Weight Control">High Altitudes May Aid Weight
-              Control</a></h2>
-          <p class="clearfix">Maecenas mauris elementum, est morbi interdum cursus at elite imperdiet libero. Proin
-            odios dapibus integer an nulla augue pharetra cursus.</p>
-        </div>
-      </li> -->
     </ul>
   </div>
 
@@ -1002,12 +872,9 @@
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
                 </a>
-                <!-- <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" /> -->
                 <h2 class="with_number">
                   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ post.alt }}">{{
                     post.title }}</a>
-                  <a class="comments_number" href="post.html#comments_list" title="2 comments">2<span
-                      class="arrow_comments"></span></a>
                 </h2>
                 <ul class="post_details">
                   <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
@@ -1019,23 +886,6 @@
                 <a class="read_more" href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"
                   title="Read more"><span class="arrow"></span><span>LEER MÁS</span></a>
               </li>
-              <!-- <li class="post">
-                <a href="post_quote.html" title="High Altitudes May Aid Weight Control">
-                  <img src='images/samples/330x242/image_02.jpg' alt='img'>
-                </a>
-                <h2 class="with_number">
-                  <a href="post_quote.html" title="High Altitudes May Aid Weight Control">High Altitudes May Aid Weight Control</a>
-                  <a class="comments_number" href="post.html#comments_list" title="2 comments">2<span class="arrow_comments"></span></a>
-                </h2>
-                <ul class="post_details">
-                  <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
-                  <li class="date">
-                    10:11 PM, Feb 02
-                  </li>
-                </ul>
-                <p>Maecenas mauris elementum, est morbi interdum cursus at elite imperdiet libero. Proin odios dapibus integer an nulla augue pharetra cursus.</p>
-                <a class="read_more" href="post_quote.html" title="Read more"><span class="arrow"></span><span>READ MORE</span></a>
-              </li> -->
               {% endfor %}
             </ul>
             <ul class="blog column column_1_2">
@@ -1044,12 +894,9 @@
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                   <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
                 </a>
-                <!-- <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" /> -->
                 <h2 class="with_number">
                   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ post.alt }}">{{
                     post.title }}</a>
-                  <a class="comments_number" href="post.html#comments_list" title="2 comments">2<span
-                      class="arrow_comments"></span></a>
                 </h2>
                 <ul class="post_details">
                   <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
@@ -1061,24 +908,6 @@
                 <a class="read_more" href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"
                   title="Read more"><span class="arrow"></span><span>LEER MÁS</span></a>
               </li>
-              <!-- <li class="post">
-                <a href="post_video.html" title="Struggling Nuremberg Sack Coach Verbeek">
-                  <span class="icon video"></span>
-                  <img src='images/samples/330x242/image_03.jpg' alt='img'>
-                </a>
-                <h2 class="with_number">
-                  <a href="post_video.html" title="Struggling Nuremberg Sack Coach Verbeek">Struggling Nuremberg Sack Coach Verbeek</a>
-                  <a class="comments_number" href="post_video.html#comments_list" title="2 comments">2<span class="arrow_comments"></span></a>
-                </h2>
-                <ul class="post_details">
-                  <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
-                  <li class="date">
-                    10:11 PM, Feb 02
-                  </li>
-                </ul>
-                <p>Maecenas mauris elementum, est morbi interdum cursus at elite imperdiet libero. Proin odios dapibus integer an nulla augue pharetra cursus.</p>
-                <a class="read_more" href="post_video.html" title="Read more"><span class="arrow"></span><span>READ MORE</span></a>
-              </li> -->
               {% endfor %}
             </ul>
           </div>
@@ -1102,44 +931,6 @@
                     </li>
                   </ul>
                 </li>
-                <!-- <li class="post">
-                  <a href="post_soundcloud.html" title="High Altitudes May Aid Weight Control">
-                    <img src='images/samples/330x242/image_01.jpg' alt='img'>
-                  </a>
-                  <h5><a href="post_soundcloud.html" title="High Altitudes May Aid Weight Control">High Altitudes May Aid Weight Control</a></h5>
-                  <ul class="post_details simple">
-                    <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
-                    <li class="date">
-                      10:11 PM, Feb 02
-                    </li>
-                  </ul>
-                </li>
-                <li class="post">
-                  <a href="post_gallery.html" title="Built on Brotherhood, Club Lives Up to Name">
-                    <span class="icon gallery"><span class="info">999</span></span>
-                    <img src='images/samples/330x242/image_03.jpg' alt='img'>
-                  </a>
-                  <h5><a href="post_gallery.html" title="Built on Brotherhood, Club Lives Up to Name">Built on Brotherhood, Club Lives Up to Name</a></h5>
-                  <ul class="post_details simple">
-                    <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
-                    <li class="date">
-                      10:11 PM, Feb 02
-                    </li>
-                  </ul>
-                </li> -->
-                <!-- <li class="post first">
-                  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-                    <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
-                  </a>
-                  <h5><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ post.alt }}">{{
-                      post.title }}</a></h5>
-                  <ul class="post_details simple">
-                    <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
-                    <li class="date">
-                      10:11 PM, Feb 02
-                    </li>
-                  </ul>
-                </li> -->
                 {% endfor %}
               </ul>
             </div>
@@ -1156,8 +947,6 @@
                   <h2 class="with_number">
                     <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ post.alt }}">{{
                       post.title }}</a>
-                    <a class="comments_number" href="post.html#comments_list" title="2 comments">2<span
-                        class="arrow_comments"></span></a>
                   </h2>
                   <ul class="post_details">
                     <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
@@ -1204,59 +993,6 @@
                       </ul>
                     </div>
                   </li>
-                  <!-- <li class="post">
-                    <a href="post.html" title="Seeking the Right Chemistry, Drug Makers Hunt for Mergers">
-                      <img src='images/samples/100x100/image_13.jpg' alt='img'>
-                    </a>
-                    <div class="post_content">
-                      <h5>
-                        <a href="post.html" title="Seeking the Right Chemistry, Drug Makers Hunt for Mergers">Seeking
-                          the Right Chemistry, Drug Makers Hunt for Mergers</a>
-                      </h5>
-                      <ul class="post_details simple">
-                        <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
-                        <li class="date">
-                          10:11 PM, Feb 02
-                        </li>
-                      </ul>
-                    </div>
-                  </li>
-                  <li class="post">
-                    <a href="post_review.html" title="Seeking the Right Chemistry, Drug Makers Hunt for Mergers">
-                      <span class="icon small review"></span>
-                      <img src='images/samples/100x100/image_01.jpg' alt='img'>
-                    </a>
-                    <div class="post_content">
-                      <h5>
-                        <a href="post_review.html" title="Seeking the Right Chemistry, Drug Makers Hunt for Mergers">The
-                          Public Health Crisis Hiding in Our Food</a>
-                      </h5>
-                      <ul class="post_details simple">
-                        <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
-                        <li class="date">
-                          10:11 PM, Feb 02
-                        </li>
-                      </ul>
-                    </div>
-                  </li>
-                  <li class="post">
-                    <a href="post_gallery.html" title="New Painkiller Rekindles Addiction Concerns">
-                      <span class="icon small gallery"></span>
-                      <img src='images/samples/100x100/image_03.jpg' alt='img'>
-                    </a>
-                    <div class="post_content">
-                      <h5>
-                        <a href="post_gallery.html" title="New Painkiller Rekindles Addiction Concerns">New Painkiller
-                          Rekindles Addiction Concerns</a>
-                      </h5>
-                      <ul class="post_details simple">
-                        <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
-                        <li class="date">
-                          10:11 PM, Feb 02
-                        </li>
-                      </ul>
-                    </div>
-                  </li> -->
                   {% endfor %}
                 </ul>
                 <a class="more page_margin_top" href="#">VER MÁS</a>
@@ -1283,7 +1019,6 @@
                   </a>
                 </li>
               </ul>
-              <!-- AQUI -->
               <div id="most-recent">
                 <div class="horizontal_carousel_container page_margin_top">
                   <ul class="blog horizontal_carousel page_margin_top autoplay-0 scroll-1 navigation-1 easing-easeInOutQuint duration-750">
@@ -1305,47 +1040,6 @@
                       </ul>
                     </li>
                     {% endfor %}
-                    <!-- <li class="post">
-                      <a href="post.html" title="Climate Change Debate While Britain Floods">
-                        <img src='images/samples/330x242/image_14.jpg' alt='img'>
-                      </a>
-                      <h5><span class="number">2.</span><a href="post.html"
-                          title="Climate Change Debate While Britain Floods">Climate Change Debate While Britain
-                          Floods</a></h5>
-                      <ul class="post_details simple">
-                        <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
-                        <li class="date">
-                          10:11 PM, Feb 02
-                        </li>
-                      </ul>
-                    </li>
-                    <li class="post">
-                      <a href="post_small_image.html" title="Escape From Planet Earth: The Movie">
-                        <img src='images/samples/330x242/image_02.jpg' alt='img'>
-                      </a>
-                      <h5><span class="number">3.</span><a href="post_small_image.html"
-                          title="Escape From Planet Earth: The Movie">Escape From Planet Earth: The Movie</a></h5>
-                      <ul class="post_details simple">
-                        <li class="category"><a href="category_lifestyle.html" title="LIFESTYLE">LIFESTYLE</a></li>
-                        <li class="date">
-                          10:11 PM, Feb 02
-                        </li>
-                      </ul>
-                    </li>
-                    <li class="post first">
-                      <a href="post.html" title="Built on Brotherhood, Club Lives Up to Name">
-                        <img src='images/samples/330x242/image_09.jpg' alt='img'>
-                      </a>
-                      <h5><span class="number">4.</span><a href="post.html"
-                          title="Built on Brotherhood, Club Lives Up to Name">Built on Brotherhood, Club Lives Up to
-                          Name</a></h5>
-                      <ul class="post_details simple">
-                        <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
-                        <li class="date">
-                          10:11 PM, Feb 02
-                        </li>
-                      </ul>
-                    </li> -->
                   </ul>
                 </div>
               </div>
@@ -1370,45 +1064,6 @@
                       </ul>
                     </li>
                   {% endfor %}
-                    <!-- <li class="post">
-                      <a href="post.html" title="Drug Makers Hunt for Mergers">
-                        <img src='images/samples/330x242/image_07.jpg' alt='img'>
-                      </a>
-                      <h5><span class="number">2.</span><a href="post.html" title="Drug Makers Hunt for Mergers">Drug
-                          Makers Hunt for Mergers</a></h5>
-                      <ul class="post_details simple">
-                        <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
-                        <li class="date">
-                          10:11 PM, Feb 02
-                        </li>
-                      </ul>
-                    </li>
-                    <li class="post">
-                      <a href="post.html" title="Escape From Planet Earth: The Movie">
-                        <img src='images/samples/330x242/image_13.jpg' alt='img'>
-                      </a>
-                      <h5><span class="number">3.</span><a href="post.html"
-                          title="Escape From Planet Earth: The Movie">Escape From Planet Earth: The Movie</a></h5>
-                      <ul class="post_details simple">
-                        <li class="category"><a href="category_lifestyle.html" title="LIFESTYLE">LIFESTYLE</a></li>
-                        <li class="date">
-                          10:11 PM, Feb 02
-                        </li>
-                      </ul>
-                    </li>
-                    <li class="post first">
-                      <a href="post_soundcloud.html" title="High Altitudes May Aid Weight Control">
-                        <img src='images/samples/330x242/image_05.jpg' alt='img'>
-                      </a>
-                      <h5><span class="number">4.</span><a href="post_soundcloud.html"
-                          title="High Altitudes May Aid Weight Control">High Altitudes May Aid Weight Control</a></h5>
-                      <ul class="post_details simple">
-                        <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
-                        <li class="date">
-                          10:11 PM, Feb 02
-                        </li>
-                      </ul>
-                    </li> -->
                   </ul>
                 </div>
               </div>
@@ -1432,48 +1087,11 @@
                       </ul>
                     </li>
                   {% endfor %}
-                    <!-- <li class="post">
-                      <a href="post.html" title="Struggling Nuremberg Sack Coach Verbeek">
-                        <img src='images/samples/330x242/image_06.jpg' alt='img'>
-                      </a>
-                      <h5><span class="number">2.</span><a href="post.html" title="Struggling Nuremberg Sack Coach Verbeek">Struggling Nuremberg Sack Coach Verbeek</a></h5>
-                      <ul class="post_details simple">
-                        <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
-                        <li class="date">
-                          10:11 PM, Feb 02
-                        </li>
-                      </ul>
-                    </li>
-                    <li class="post">
-                      <a href="post_small_image.html" title="Built on Brotherhood, Club Lives Up to Name">
-                        <img src='images/samples/330x242/image_03.jpg' alt='img'>
-                      </a>
-                      <h5><span class="number">3.</span><a href="post_small_image.html" title="Built on Brotherhood, Club Lives Up to Name">Built on Brotherhood, Club Lives Up to Name</a></h5>
-                      <ul class="post_details simple">
-                        <li class="category"><a href="category_lifestyle.html" title="LIFESTYLE">LIFESTYLE</a></li>
-                        <li class="date">
-                          10:11 PM, Feb 02
-                        </li>
-                      </ul>
-                    </li>
-                    <li class="post first">
-                      <a href="post.html" title="High Altitudes May Aid Weight Control">
-                        <img src='images/samples/330x242/image_05.jpg' alt='img'>
-                      </a>
-                      <h5><span class="number">4.</span><a href="post.html" title="High Altitudes May Aid Weight Control">High Altitudes May Aid Weight Control</a></h5>
-                      <ul class="post_details simple">
-                        <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
-                        <li class="date">
-                          10:11 PM, Feb 02
-                        </li>
-                      </ul>
-                    </li> -->
                   </ul>
                 </div>
               </div>
             </div>
           </div>
-          <!-- AAAAAAA -->
           <div class="row page_margin_top_section">
             <div class="column column_1_2">
               <h4 class="box_header">Deportes</h4>
@@ -1486,8 +1104,6 @@
                   <h2 class="with_number">
                     <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ post.alt }}">{{
                       post.title }}</a>
-                    <a class="comments_number" href="post.html#comments_list" title="2 comments">2<span
-                        class="arrow_comments"></span></a>
                   </h2>
                   <ul class="post_details">
                     <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
@@ -1554,8 +1170,6 @@
                   <h2 class="with_number">
                     <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ post.alt }}">{{
                       post.title }}</a>
-                    <a class="comments_number" href="post.html#comments_list" title="2 comments">2<span
-                        class="arrow_comments"></span></a>
                   </h2>
                   <ul class="post_details">
                     <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
@@ -1634,22 +1248,6 @@
                 </ul>
               </div>
             </li>
-            <!-- <li class="post">
-              <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-                <img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
-              </a>
-              <div class="post-description">
-                <h5>
-                  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ post.alt }}">{{ post.title }}</a>
-                </h5>
-                <ul class="post_details simple">
-                  <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
-                  <li class="date">
-                    {{ post.date }}
-                  </li>
-                </ul>
-              </div>
-            </li> -->
             {% endfor %}
           </ul>
           <h4 class="box_header page_margin_top_section">Más Información</h4>
@@ -1676,54 +1274,6 @@
                 </div>
               </li>
             {% endfor %}
-              <!-- <li class="post">
-                <a href="post.html" title="Syrian Civilians Trapped For Months Continue To Be Evacuated">
-                  <img src='images/samples/100x100/image_12.jpg' alt='img'>
-                </a>
-                <div class="post_content">
-                  <h5>
-                    <a href="post.html" title="Syrian Civilians Trapped For Months Continue To Be Evacuated">Syrian Civilians Trapped For Months Continue To Be Evacuated</a>
-                  </h5>
-                  <ul class="post_details simple">
-                    <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
-                    <li class="date">
-                      10:11 PM, Feb 02
-                    </li>
-                  </ul>
-                </div>
-              </li>
-              <li class="post">
-                <a href="post.html" title="Built on Brotherhood, Club Lives Up to Name">
-                  <img src='images/samples/100x100/image_02.jpg' alt='img'>
-                </a>
-                <div class="post_content">
-                  <h5>
-                    <a href="post.html" title="Built on Brotherhood, Club Lives Up to Name">Built on Brotherhood, Club Lives Up to Name</a>
-                  </h5>
-                  <ul class="post_details simple">
-                    <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
-                    <li class="date">
-                      10:11 PM, Feb 02
-                    </li>
-                  </ul>
-                </div>
-              </li>
-              <li class="post">
-                <a href="post.html" title="Nuclear Fusion Closer to Becoming a Reality">
-                  <img src='images/samples/100x100/image_13.jpg' alt='img'>
-                </a>
-                <div class="post_content">
-                  <h5>
-                    <a href="post.html" title="Nuclear Fusion Closer to Becoming a Reality">Nuclear Fusion Closer to Becoming a Reality</a>
-                  </h5>
-                  <ul class="post_details simple">
-                    <li class="category"><a href="category_science.html" title="SCIENCE">SCIENCE</a></li>
-                    <li class="date">
-                      10:11 PM, Feb 02
-                    </li>
-                  </ul>
-                </div>
-              </li> -->
             </ul>
           </div>
           <div class="tabs no_scroll page_margin_top_section clearfix">
@@ -1757,42 +1307,6 @@
                     </ul>
                   </div>
                 </li>
-                <!-- <li class="post">
-                  <div class="post_content">
-                    <span class="number animated_element" data-value="5 062"></span>
-                    <h5><a href="post.html" title="New Painkiller Rekindles Addiction Concerns">New Painkiller Rekindles Addiction Concerns</a></h5>
-                    <ul class="post_details simple">
-                      <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
-                    </ul>
-                  </div>
-                </li>
-                <li class="post">
-                  <div class="post_content">
-                    <span class="number animated_element" data-value="4 778"></span>
-                    <h5><a href="post.html" title="Seeking the Right Chemistry, Drug Makers Hunt for Mergers">Seeking the Right Chemistry, Drug Makers Hunt for Mergers</a></h5>
-                    <ul class="post_details simple">
-                      <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
-                    </ul>
-                  </div>
-                </li>
-                <li class="post">
-                  <div class="post_content">
-                    <span class="number animated_element" data-value="754"></span>
-                    <h5><a href="post_quote_2.html" title="Study Linking Illnes and Salt Leaves Researchers Doubtful">Study Linking Illnes and Salt Leaves Researchers Doubtful</a></h5>
-                    <ul class="post_details simple">
-                      <li class="category"><a href="category_science.html" title="SCIENCE">SCIENCE</a></li>
-                    </ul>
-                  </div>
-                </li>
-                <li class="post">
-                  <div class="post_content">
-                    <span class="number animated_element" data-value="52"></span>
-                    <h5><a href="post_small_image.html" title="Syrian Civilians Trapped for Months Continue to be Evacuated">Syrian Civilians Trapped for Months Continue to be Evacuated</a></h5>
-                    <ul class="post_details simple">
-                      <li class="category"><a href="category_science.html" title="SCIENCE">SCIENCE</a></li>
-                    </ul>
-                  </div>
-                </li> -->
                 {% endfor %}
               </ul>
               <a class="more page_margin_top" href="#">SHOW MORE</a>
@@ -1813,42 +1327,6 @@
                     </ul>
                   </div>
                 </li>
-                <!-- <li class="post">
-                  <div class="post_content">
-                    <span class="number animated_element" data-value="62"></span>
-                    <h5><a href="post.html" title="New Painkiller Rekindles Addiction Concerns">New Painkiller Rekindles Addiction Concerns</a></h5>
-                    <ul class="post_details simple">
-                      <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
-                    </ul>
-                  </div>
-                </li>
-                <li class="post">
-                  <div class="post_content">
-                    <span class="number animated_element" data-value="30"></span>
-                    <h5><a href="post.html" title="Seeking the Right Chemistry, Drug Makers Hunt for Mergers">Seeking the Right Chemistry, Drug Makers Hunt for Mergers</a></h5>
-                    <ul class="post_details simple">
-                      <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
-                    </ul>
-                  </div>
-                </li>
-                <li class="post">
-                  <div class="post_content">
-                    <span class="number animated_element" data-value="25"></span>
-                    <h5><a href="post.html" title="Study Linking Illnes and Salt Leaves Researchers Doubtful">Study Linking Illnes and Salt Leaves Researchers Doubtful</a></h5>
-                    <ul class="post_details simple">
-                      <li class="category"><a href="category_science.html" title="SCIENCE">SCIENCE</a></li>
-                    </ul>
-                  </div>
-                </li>
-                <li class="post">
-                  <div class="post_content">
-                    <span class="number animated_element" data-value="4"></span>
-                    <h5><a href="post_soundcloud.html" title="Syrian Civilians Trapped for Months Continue to be Evacuated">Syrian Civilians Trapped for Months Continue to be Evacuated</a></h5>
-                    <ul class="post_details simple">
-                      <li class="category"><a href="category_science.html" title="SCIENCE">SCIENCE</a></li>
-                    </ul>
-                  </div>
-                </li> -->
                 {% endfor %}
               </ul>
               <a class="more page_margin_top" href="#">SHOW MORE</a>
@@ -1866,36 +1344,6 @@
                 <h6>EDITOR</h6>
               </div>
             </li>
-            <!-- <li class="author">
-              <a class="thumb" href="author.html" title="Anna Shubina">
-                <img src='images/samples/Team_100x100/image_02.jpg' alt='img'>
-                <span class="number animated_element" data-value="25"></span>
-              </a>
-              <div class="details">
-                <h5><a href="author.html" title="Anna Shubina">Anna Shubina</a></h5>
-                <h6>EDITOR</h6>
-              </div>
-            </li>
-            <li class="author">
-              <a class="thumb" href="author.html" title="Liam Holden">
-                <img src='images/samples/Team_100x100/image_03.jpg' alt='img'>
-                <span class="number animated_element" data-value="9"></span>
-              </a>
-              <div class="details">
-                <h5><a href="author.html" title="Liam Holden">Liam Holden</a></h5>
-                <h6>PUBLISHER</h6>
-              </div>
-            </li>
-            <li class="author">
-              <a class="thumb" href="author.html" title="Heather Dale">
-                <img src='images/samples/Team_100x100/image_04.jpg' alt='img'>
-                <span class="number animated_element" data-value="2"></span>
-              </a>
-              <div class="details">
-                <h5><a href="author.html" title="Heather Dale">Heather Dale</a></h5>
-                <h6>ILLUSTRATOR</h6>
-              </div>
-            </li> -->
             {% endfor %}
           </ul>
           <h4 class="box_header page_margin_top_section">Science</h4>
@@ -1919,55 +1367,6 @@
                 </ul>
               </div>
             </li>
-            <!-- <li class="post">
-              <a href="post.html" title="Syrian Civilians Trapped For Months Continue To Be Evacuated">
-                <img src='images/samples/100x100/image_12.jpg' alt='img'>
-              </a>
-              <div class="post_content">
-                <h5>
-                  <a href="post.html" title="Syrian Civilians Trapped For Months Continue To Be Evacuated">Syrian Civilians Trapped For Months Continue To Be Evacuated</a>
-                </h5>
-                <ul class="post_details simple">
-                  <li class="category"><a href="category_science.html" title="SCIENCE">SCIENCE</a></li>
-                  <li class="date">
-                    10:11 PM, Feb 02
-                  </li>
-                </ul>
-              </div>
-            </li>
-            <li class="post">
-              <a href="post_quote.html" title="Built on Brotherhood, Club Lives Up to Name">
-                <img src='images/samples/100x100/image_02.jpg' alt='img'>
-              </a>
-              <div class="post_content">
-                <h5>
-                  <a href="post_quote.html" title="Built on Brotherhood, Club Lives Up to Name">Built on Brotherhood, Club Lives Up to Name</a>
-                </h5>
-                <ul class="post_details simple">
-                  <li class="category"><a href="category_science.html" title="SCIENCE">SCIENCE</a></li>
-                  <li class="date">
-                    10:11 PM, Feb 02
-                  </li>
-                </ul>
-              </div>
-            </li>
-            <li class="post">
-              <a href="post_gallery.html" title="Nuclear Fusion Closer to Becoming a Reality">
-                <span class="icon small gallery"></span>
-                <img src='images/samples/100x100/image_01.jpg' alt='img'>
-              </a>
-              <div class="post_content">
-                <h5>
-                  <a href="post_gallery.html" title="Nuclear Fusion Closer to Becoming a Reality">Nuclear Fusion Closer to Becoming a Reality</a>
-                </h5>
-                <ul class="post_details simple">
-                  <li class="category"><a href="category_science.html" title="SCIENCE">SCIENCE</a></li>
-                  <li class="date">
-                    10:11 PM, Feb 02
-                  </li>
-                </ul>
-              </div>
-            </li> -->
             {% endfor %}
           </ul>
           <a class="more page_margin_top" href="#">MORE FROM SCIENCE</a>
@@ -2002,57 +1401,6 @@
                   </ul>
                 </div>
               </li>
-              <!-- <li class="post">
-                        <a href="post.html" title="Syrian Civilians Trapped For Months Continue To Be Evacuated">
-                          <img src='images/samples/100x100/image_12.jpg' alt='img'>
-                        </a>
-                        <div class="post_content">
-                          <h5>
-                            <a href="post.html" title="Syrian Civilians Trapped For Months Continue To Be Evacuated">Syrian
-                              Civilians Trapped For Months Continue To Be Evacuated</a>
-                          </h5>
-                          <ul class="post_details simple">
-                            <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
-                            <li class="date">
-                              10:11 PM, Feb 02
-                            </li>
-                          </ul>
-                        </div>
-                      </li>
-                      <li class="post">
-                        <a href="post.html" title="Built on Brotherhood, Club Lives Up to Name">
-                          <img src='images/samples/100x100/image_02.jpg' alt='img'>
-                        </a>
-                        <div class="post_content">
-                          <h5>
-                            <a href="post.html" title="Built on Brotherhood, Club Lives Up to Name">Built on Brotherhood, Club
-                              Lives Up to Name</a>
-                          </h5>
-                          <ul class="post_details simple">
-                            <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
-                            <li class="date">
-                              10:11 PM, Feb 02
-                            </li>
-                          </ul>
-                        </div>
-                      </li>
-                      <li class="post">
-                        <a href="post.html" title="Nuclear Fusion Closer to Becoming a Reality">
-                          <img src='images/samples/100x100/image_13.jpg' alt='img'>
-                        </a>
-                        <div class="post_content">
-                          <h5>
-                            <a href="post.html" title="Nuclear Fusion Closer to Becoming a Reality">Nuclear Fusion Closer to
-                              Becoming a Reality</a>
-                          </h5>
-                          <ul class="post_details simple">
-                            <li class="category"><a href="category_science.html" title="SCIENCE">SCIENCE</a></li>
-                            <li class="date">
-                              10:11 PM, Feb 02
-                            </li>
-                          </ul>
-                        </div>
-                      </li> -->
               {% endfor %}
             </ul>
           </div>
@@ -2081,57 +1429,6 @@
                   </ul>
                 </div>
               </li>
-              <!-- <li class="post">
-                <a href="post.html" title="Syrian Civilians Trapped For Months Continue To Be Evacuated">
-                  <img src='images/samples/100x100/image_12.jpg' alt='img'>
-                </a>
-                <div class="post_content">
-                  <h5>
-                    <a href="post.html" title="Syrian Civilians Trapped For Months Continue To Be Evacuated">Syrian
-                      Civilians Trapped For Months Continue To Be Evacuated</a>
-                  </h5>
-                  <ul class="post_details simple">
-                    <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
-                    <li class="date">
-                      10:11 PM, Feb 02
-                    </li>
-                  </ul>
-                </div>
-              </li>
-              <li class="post">
-                <a href="post.html" title="Built on Brotherhood, Club Lives Up to Name">
-                  <img src='images/samples/100x100/image_02.jpg' alt='img'>
-                </a>
-                <div class="post_content">
-                  <h5>
-                    <a href="post.html" title="Built on Brotherhood, Club Lives Up to Name">Built on Brotherhood, Club
-                      Lives Up to Name</a>
-                  </h5>
-                  <ul class="post_details simple">
-                    <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
-                    <li class="date">
-                      10:11 PM, Feb 02
-                    </li>
-                  </ul>
-                </div>
-              </li>
-              <li class="post">
-                <a href="post.html" title="Nuclear Fusion Closer to Becoming a Reality">
-                  <img src='images/samples/100x100/image_13.jpg' alt='img'>
-                </a>
-                <div class="post_content">
-                  <h5>
-                    <a href="post.html" title="Nuclear Fusion Closer to Becoming a Reality">Nuclear Fusion Closer to
-                      Becoming a Reality</a>
-                  </h5>
-                  <ul class="post_details simple">
-                    <li class="category"><a href="category_science.html" title="SCIENCE">SCIENCE</a></li>
-                    <li class="date">
-                      10:11 PM, Feb 02
-                    </li>
-                  </ul>
-                </div>
-              </li> -->
               {% endfor %}
             </ul>
           </div>
@@ -2159,42 +1456,6 @@
                   </ul>
                 </div>
               </li>
-              <!-- <li class="post">
-                <a href="post_gallery.html" title="Built on Brotherhood, Club Lives Up to Name">
-                  <span class="icon gallery"></span>
-                  <img src='images/samples/330x242/image_14.jpg' alt='img'>
-                </a>
-                <h5 class="with_number">
-                  <a href="post_gallery.html" title="Built on Brotherhood, Club Lives Up to Name">Built on Brotherhood,
-                    Club Lives Up to Name</a>
-                  <a class="comments_number" href="post_gallery.html#comments_list" title="2 comments">2<span
-                      class="arrow_comments"></span></a>
-                </h5>
-                <ul class="post_details simple">
-                  <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
-                  <li class="date">
-                    10:11 PM, Feb 02
-                  </li>
-                </ul>
-              </li>
-              <li class="post">
-                <a href="post_gallery.html" title="New Painkiller Rekindles Addiction Concerns">
-                  <span class="icon gallery"></span>
-                  <img src='images/samples/330x242/image_04.jpg' alt='img'>
-                </a>
-                <h5 class="with_number">
-                  <a href="post_gallery.html" title="New Painkiller Rekindles Addiction Concerns">New Painkiller
-                    Rekindles Addiction Concerns</a>
-                  <a class="comments_number" href="post_gallery.html#comments_list" title="2 comments">2<span
-                      class="arrow_comments"></span></a>
-                </h5>
-                <ul class="post_details simple">
-                  <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
-                  <li class="date">
-                    10:11 PM, Feb 02
-                  </li>
-                </ul>
-              </li> -->
               {% endfor %}
             </ul>
           </div>
@@ -2242,36 +1503,3 @@
   <div class="background_overlay"></div>
   {% include js.html %}
 </div>
-
-<!-- <section id="portfolio">
-  <div class="container">
-    <div class="row">
-      {% for post in site.posts limit : 15 %}
-      <div class="col-sm-4 portfolio-item">
-        <div class="outside-decoration">
-          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-            <img
-              src="{{ post.image }}"
-              class="img-responsive"
-              alt="{{ post.alt }}"
-            />
-          </a>
-          <div>
-            <h2 class="post-title">{{ post.title }}</h2>
-            <h3 class="post-subtitle">{{ post.description }}</h3>
-          </div>
-          <div>
-            <a
-              href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"
-              alt="{{ post.alt }}"
-              ><p class="go-to-article">
-                <b>Ver Noticia</b>
-              </p>
-            </a>
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-</section> -->
