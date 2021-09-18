@@ -1242,7 +1242,7 @@ a.slider_control:hover {
 }
 .post .comments_number:hover,
 .footer .post .comments_number:hover {
-  background: #ed1c24;
+  background: #244771;
   color: #fff;
 }
 .post .arrow_comments {
@@ -1340,7 +1340,7 @@ ul.post_details.simple li {
 }
 .post ul.post_details.simple li.date,
 ul.post_details.simple li.date {
-  margin-left: 10px;
+  margin-left: 0px;
   border: none;
 }
 .mega_menu li.post ul.post_details.simple li {
@@ -1589,6 +1589,7 @@ blockquote .author {
   clear: both;
   float: none;
   margin-top: 20px;
+  margin-bottom: 20px;
   padding-top: 15px;
   border-top: 1px solid #e9e9e9;
 }
