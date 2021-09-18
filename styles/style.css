@@ -1340,7 +1340,7 @@ ul.post_details.simple li {
 }
 .post ul.post_details.simple li.date,
 ul.post_details.simple li.date {
-  margin-left: 10px;
+  margin-left: 0px;
   border: none;
 }
 .mega_menu li.post ul.post_details.simple li {
