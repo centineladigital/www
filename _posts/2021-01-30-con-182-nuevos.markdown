@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Con 182 nuevos contagios por COVID-19 llega el estado a 49 mil 996 casos"
+date: 2021-01-30T17:57:00.000-06:00
+tags:
+  
+  - Covid-19
+  
+  - Salud
+  
+  - chihuahua
+  
+author: nil
+description: "Autoridades de Salud reportan además 4 mil 660 personas fallecidas, con 12 nuevos decesos: 4 en Juárez, 5 en Chihuahua, 2 en Meoqui, 1 en Guazapares y 1 en El Tule"
+image: /uploads/2021/images-Diapositiva2.JPG
+video: nil
+audio: nil
+alt: Con 182 nuevos contagios por COVID-19 llega el estado a 49 mil 996 casos
+front: false
+section: Local
+---
+
+La Secretaría de Salud estatal informó que a este día, se tienen en el estado de Chihuahua un total general de 49 mil 996 casos confirmados de COVID a 19, con 182 nuevos contagios.  
+
+Dio a conocer además que el total de personas fallecidas es de 4 mil 660, con 12 nuevos decesos: cuatro en Juárez, cinco en Chihuahua, dos  en Meoqui, uno en Guazapares y uno en El Tule. A la fecha han perdido la vida 2 mil 843 hombres (61%) y mil 817 mujeres (39%).
+
+El total de personas recuperadas suman 37 mil 122, con 604 nuevas altas; 28 mil 061 han sido descartados de las pruebas (+174) y se tienen mil 582 (+31) sospechosos.
+
+Contagios por municipio: Ahumada 77, Aldama 148, Allende 85, Ascensión 66, Aquiles Serdán 160, Bachíniva 16, Batopilas 6, Bocoyna 318, Balleza 15, Buenaventura 39, Camargo 336, Carichí 8, Casas Grandes 33, Chihuahua 11,989, Chínipas 129, Coronado 11, Coyame del Sotol 8, Cuauhtémoc 1,522, Cusihuiriachi 15, Delicias 1,845, Dr. Belisario Domínguez 3, Galeana 7, Gómez Farías 69, Guachochi 303, Gran Morelos 17, Guadalupe 19, Guadalupe y Calvo 39, Guazapares 72, Guerrero 76, Hidalgo del Parral 1,661, Ignacio Zaragoza 13, Janos 18 y Jiménez 266.
+
+Juárez 27,774, Julimes 12, López 13, Madera 39, Manuel Benavides 54, Matachí 2, Meoqui 261, Moris 5, Morelos 1, Namiquipa 72, Nonoava 19, Nuevo Casas Grandes 723, Ocampo 21, Ojinaga 1,056, Praxedis G. Guerrero 16, Riva Palacio 6, Rosales 73, Rosario 3, San Francisco del Oro 24, Santa Bárbara 68, Satevó 5, Saucillo 195, Temósachic 11, Urique 39, Valle de Zaragoza 15, San Francisco de Conchos 11, Santa Isabel 29, La Cruz 23, San Francisco de Borja 9, Maguarichi 1, El Tule 5, Matamoros 14, Uruachi 1 y Huejotitán 2.
+
+La información muestra que el 52% son del sexo masculino (25,659 casos) y 48% del femenino (24,337 casos).
+
+Personas fallecidas por municipio: 2,528 (+4) Juárez, 1,029 (+5) Chihuahua, 247 Delicias, 178 Parral, 155 Cuauhtémoc, 65 Nuevo Casas Grandes, 56 (+2) Meoqui, 53 Camargo, 41 Saucillo, 33 Jiménez, 24 Guerrero, 18 Guachochi, 13 Ascensión, 14 Rosales, 12 Ojinaga, 11 Aldama, 10 Madera, 10 Bocoyna, 10 Ahumada, 9 San Francisco del Oro, 8 Namiquipa, 8 Aquiles Serdán, 7 Buenaventura, 7 Santa Bárbara, 7 Ocampo, 6 Casas Grandes, 5 Allende, 5 Carichí, 5 Temósachi, 5 Julimes y 5 López.
+
+Además, 5 Guadalupe y Calvo, 4 Galeana, 4 Valle de Zaragoza, 4 Urique, 4 Gómez Farías, 4  Guadalupe D.B., 4 San Francisco de Conchos, 3 Balleza, 3 Praxedis G. Guerrero, 3 Manuel Benavides, 3 Riva Palacio, 3 Janos, 3 Coronado, 3 Ignacio Zaragoza, 3 Cusihuiriachi, 3 Santa Isabel, 3 Coyame del Sotol, 2 Dr. Belisario Domínguez, 2 Moris, 2 Nonoava, 2 Bachíniva, 2 Gran Morelos, 2 (+1) Guazapares, 2 (+1) El Tule, 1 Matachí, 1 Huejotitan y 1 Matamoros.
+
+Edades de pacientes fallecidos: 8 casos menores a un año; 4 de 1 a 4; 2 de 5 a 9; 4 de 10 a 14; 2 de 15 a 19; 19 de 20 a 24; 36 de 25 a 29; 75 de 30 a 34; 98 de 35 a 39; 219 de 40 a 44; 322 de 45 a 49; 455 de 50 a 54; 561 de 55 a 59; 642 de 60 a 64; 593 de 65 a 69; 563 de 70 a 74; 480 de 75 a 79; 341 de 80 a 84; 156 de 85 a 89; 59 de 90 a 94; 18 de 95 a 99 y 3 de 100 a 104 años de edad.
+
+Porcentajes de comorbilidad en decesos: 34% hipertensión, 25% diabetes, 15% obesidad, 6% tabaquismo, 6% otra condición, 4% enfermedad cardiaca, 4% insuficiencia renal, inmunosupresión, 1% asma, 3% EPOC, 2% 0.3% VIH/Sida.
+
+Se tienen 293 pacientes hospitalizados: 57% del IMSS; 26% del Sector Salud; 7% Issste, 7% Sedena, 3% IMSS Bienestar. 64 intubados: 47% en el IMSS, 45% en Sector Salud, 6% Issste y 2% Sedena. Con reporte de 29 hospitales.
+
+Muestras de diagnóstico: Laboratorio Estatal 81, acumuladas 34,943; otros laboratorios 116, acumulados otros 115,856; total de muestras 197; total general: 150,799.
+
+El Paso, Tx. al 29 enero: 112,652 confirmados (+368 nuevos, 25 casos con retraso), 1,681 decesos (+6) y 75,188 recuperados (+304).
+
+México: 1,841,893 casos totales (+16,374); 435,343 sospechosos acumulados (+2,226); 2,365,303 negativos (+28,630); 156,579 defunciones (+1,434); 4,642,539 notificadas (+47,230); 110,602 activos estimados 6% ( a 1,614) y 1,390,906 personas recuperadas (+14,833).

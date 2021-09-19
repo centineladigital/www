@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Suma estado 74 mil 318 personas contagiadas por COVID-19 tras confirmarse 133 más"
+date: 2021-08-14T17:24:00.000-06:00
+tags:
+  
+  - Covid-19
+  
+  - Cifras
+  
+  - chihuahua
+  
+author: nil
+description: " A la fecha el número de decesos es de 7 mil 743, de los cuales 4 mil 603 corresponden al sexo masculino y 3 mil 140 al femenino"
+image: /uploads/2021/images-Diapositiva2.JPG
+video: nil
+audio: nil
+alt: Suma estado 74 mil 318 personas contagiadas por COVID-19 tras confirmarse 133 más
+front: false
+section: Local
+---
+
+Un total general de 74 mil 318 casos de COVID-19 registra la Secretaría de Salud luego de que se confirmaran 133 nuevos contagios en el último reporte epidemiológico estatal. El número de fallecimientos continua en 7 mil 743 al no registrarse casos en las últimas horas, de los cuales 4 mil 603 corresponden al sexo masculino y 3 mil 140 al femenino.
+
+Además, el reporte registra 76 personas recuperadas para un total de 63 mil 354 casos, se sumaron 555 contagios descartados para sumar 50 mil 113, y se tienen 79 sospechosos de contagio para un total de 942. Hay hospitalizados 93 pacientes en 26 unidades médicas, de ellos 23 están intubados; del total 56% son derechohabientes del IMSS, 43% del Sector Salud y 1% Issste.
+
+Contagios acumulados por municipio: 33,953 Juárez, 22,202 Chihuahua, 3,268 Hidalgo del Parral, 2,800 Cuauhtémoc, 2,605 Delicias, 1,281 Nuevo Casas Grandes, 1,262 Ojinaga, 774 Camargo, 635 Guachochi, 595 Jiménez, 558 Bocoyna, 419 Meoqui, 296 Saucillo, 291 Aldama, 271 Guerrero, 183 Aquiles Serdán, 181  Allende, 171 Guazapares, 164 Namiquipa, 159 Santa Bárbara, 158 Chínipas, 158 Buenaventura, 153 Gómez Farías, 136 Madera, 123 Ascensión, 118 Rosales, 114 Casas Grandes, 107 Guadalupe y Calvo, 102 Julimes, 96 Ahumada, 70 Ocampo, 65 Urique , 60 Manuel Benavides, 53 San Francisco del Oro, 45 López, 43 Janos, 42 Santa Isabel, 41 Balleza, 40 Matamoros, 36 Nonoava, 34 Ignacio Zaragoza, 33 Valle de Zaragoza, 30 La Cruz, 29 Coronado, 28 Bachíniva, 28 Guadalupe, 28 Galeana, 26 Temósachic, 24 Gran Morelos, 24 Coyame Del Sotol, 23 Praxedis G. Guerrero, 23 Cusihuiriachi, 21 Satevó, 17 San Francisco de Conchos, 16 Batopilas, 14 Carichí, 12 San Francisco de Borja, 10 Dr. Belisario Domínguez, 10 Rosario, 10 Morelos, 9 El Tule, 9 Riva Palacio, 8 Moris, 8 Matachí, 7 Huejotitán, 6 Uruachi y 3 Maguarichi.
+
+La información muestra que el 50% son del sexo masculino (37,346 casos) y 50% del femenino (36,972 casos). El total de personas fallecidas corresponde: 3,827 Ciudad Juárez, 1,940 Ciudad de Chihuahua, 408 Delicias, 286 Parral, 284 Cuauhtémoc, 126 Camargo, 102 Nuevo Casas Grandes, 89 Jiménez, 86 Meoqui, 72 Saucillo, 40 Guerrero, 34 Guachochi, 30 Ojinaga, 26 Rosales, 21 Ascensión, 20 Madera, 19 Bocoyna, 19 Ahumada, 19 Namiquipa, 18 Aldama, 17 San Francisco del Oro, 15 Gómez Farías, 15 Santa Bárbara, 14  Julimes, 14 Casas Grandes, 13 Allende, 13 Guadalupe y Calvo, 12 López, 12 Ocampo, 10 Valle de Zaragoza, 10 Temósachi , 9 Buenaventura, 9 Aquiles Serdán, 8 Bachíniva, 8 Carichí, 8 Urique, 7 San Francisco de Conchos, 6 Ignacio Zaragoza, 6 Balleza, 5 Coyame del Sotol, 5 Janos, 5 Guazapares, 5  Guadalupe D. B., 5 Praxedis G. Guerrero, 4 Galeana, 4 Santa Isabel, 4 Cusihuiriachi, 4 Coronado, 4 Manuel Benavides, 3 Riva Palacio, 3 Gran Morelos, 3 Nonoava, 3 Matamoros, 2 Dr. Belisario Domínguez, 2 El Tule, 2 Matachí, 2 Rosario, 2 Morelos, 1 Moris, 1 Huejotitan, 1 Satevó y 1 Maguarichi.
+
+Los porcentajes de comorbilidad en decesos: 35% hipertensión, 25% diabetes, 15% obesidad, 6% tabaquismo, 5% otra condición, 4% enfermedad cardiaca, 4% insuficiencia renal, 3% EPOC, 2% inmunosupresión, 1% asma, 0.3% VIH/Sida. El Paso, Texas, al 13 de agosto: 139, 551 confirmados (19 nuevos), 2,742 defunciones (+1), 134,527 recuperados (=).
+
+Estadística Nacional: 3,068,329 casos totales (+22,758), 487,839 sospechosos acumulados (+2,265), 5,466,696 negativos (+34,604), 247,414 defunciones (+603), 153,081 activos estimados  (+6,556) , 9,022,864 notificadas (+59,627), 2,405,433 recuperadas (+15,358).

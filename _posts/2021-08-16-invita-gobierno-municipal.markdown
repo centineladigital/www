@@ -1,37 +1,47 @@
 ---
 layout: post
-title: Invita Gobierno Municipal a Jueves Chihuahua Emprende Virtual
-date: 2021-08-16T18:10:19.000-06:00
+title: "Invita Gobierno Municipal a Jueves Chihuahua Emprende Virtual"
+date: 2021-08-16T20:08:00.000-06:00
 tags:
-  - justicia
-  - corrupcion
-author: Jimena Jimenez
-description: Se transmitir\u00e1 en vivo a trav\u00e9s de la p\u00e1gina de Facebook del INCUBECH a partir de las 9:00 horas\r\n\r\n
-image: "/uploads/2021-08-16-invita-gobierno-municipal.jpg"
-alt: "Jueves de emprender virtual"
+  
+  - Emprende virtual
+  
+  - gobierno municipal
+  
+  - chihuahua
+  
+author: nil
+description: "Se transmitirá en vivo a través de la página de Facebook del INCUBECH a partir de las 9:00 horas   "
+image: /uploads/2021/images-unnamed_(1).jpg
+video: nil
+audio: nil
+alt: Invita Gobierno Municipal a Jueves Chihuahua Emprende Virtual
+front: false
 section: Local
 ---
 
-El Gobierno Municipal, a trav\u00e9s de la Direcci\u00f3n de Desarrollo Econ\u00f3mico y Tur\u00edstico, invita el pr\u00f3ximo 19 de agosto al Jueves Chihuahua Emprende Virtual, que se transmitir\u00e1 en vivo a trav\u00e9s de la p\u00e1gina de Facebook del INCUBECH a partir de las 9:00 horas.
+El Gobierno Municipal, a través de la Dirección de Desarrollo Económico y Turístico, invita el próximo 19 de agosto al Jueves Chihuahua Emprende Virtual, que se transmitirá en vivo a través de la página de Facebook del INCUBECH a partir de las 9:00 horas. 
 
-Algunos de los temas de inter\u00e9s en esta edici\u00f3n del Jueves Chihuahua Emprende abordan las nuevas reformas del outsourcing, estrategias empresariales, casos de \u00e9xito y herramientas para desarrollar tu negocio.
+Algunos de los temas de interés en esta edición del Jueves Chihuahua Emprende abordan las nuevas reformas del outsourcing, estrategias empresariales, casos de éxito y herramientas para desarrollar tu negocio. 
+
+
 
 El programa es el siguiente:
 
-- 9:00 \u2013 9:30 \u201c\u00bfY a m\u00ed qu\u00e9 con la reforma del outsourcing?\u201d
+- 9:00 – 9:30 “¿Y a mí qué con la reforma del outsourcing?”
 
-Jorge Alberto R\u00edos, director de R\u00edos R\u00edos y Co.
+Jorge Alberto Ríos, director de Ríos Ríos y Co.
 
-- 9:30 - 10:00 \u201cHerramientas para hacer m\u00e1s eficiente tu negocio\u201d
+- 9:30 - 10:00 “Herramientas para hacer más eficiente tu negocio”
 
 Joel Benavides, de Soluciones Integrales de Desarrollo
 
-- 10:00 \u2013 10:30 \u201cDise\u00f1a la mejor estrategia para tu empresa\u201d
+- 10:00 – 10:30 “Diseña la mejor estrategia para tu empresa”
 
-Humberto Rasc\u00f3n, director Divisi\u00f3n Consultor\u00eda de ASP Corporativo
+Humberto Rascón, director División Consultoría de ASP Corporativo
 
-- 10:30 -11:00: Impulsando a la mujer emprendedora Mar\u00eda Fernanda Hern\u00e1ndez, coordinadora de Innovaci\u00f3n de Emprendiendo Por Chihuahua A.C.
+- 10:30 -11:00: Impulsando a la mujer emprendedora María Fernanda Hernández, coordinadora de Innovación de Emprendiendo Por Chihuahua A.C.
 
-Los requisitos para acceder a estas capacitaciones son: un equipo de c\u00f3mputo o tel\u00e9fono celular con conexi\u00f3n a internet, as\u00ed como el manejo b\u00e1sico de este dispositivo. Cabe mencionar que estas conferencias son gratuitas y abiertas al p\u00fablico en general.
+Los requisitos para acceder a estas capacitaciones son: un equipo de cómputo o teléfono celular con conexión a internet, así como el manejo básico de este dispositivo. Cabe mencionar que estas conferencias son gratuitas y abiertas al público en general.
 
-Esta capacitaci\u00f3n ser\u00e1 transmitida en el grupo de Facebook Jueves Chihuahua Emprende. Tambi\u00e9n puedes seguirlo en la p\u00e1gina @Incubech, en esta misma red social. La liga es: https://www.facebook.com/incubech.
+Esta capacitación será transmitida en el grupo de Facebook Jueves Chihuahua Emprende. También puedes seguirlo en la página @Incubech, en esta misma red social. La liga es: https://www.facebook.com/incubech.

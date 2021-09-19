@@ -1,0 +1,41 @@
+---
+layout: post
+title: "‘Sí se va a vacunar a personal de hospitales privados’"
+date: 2021-01-14T16:10:00.000-06:00
+tags:
+  
+  - Covid
+  
+  - Hugo López-Gatell
+  
+  - Vacuna
+  
+author: nil
+description: "Asegura López Obrador que se atenderá a médicos, enfermeras… del país que enfrentan al Covid-19; Informa López-Gatell que autoridades sanitarias esperan registros para su validación"
+image: /uploads/2021/images-2511745.jpg
+video: nil
+audio: nil
+alt: ‘Sí se va a vacunar a personal de hospitales privados’
+front: false
+section: Nacional
+---
+
+Ante la incertidumbre del personal que labora en hospitales privados que atienden casos de Covid debido a la falta de vacunación, el presidente Andrés Manuel López Obrador aseguró que la dosis de Pfizer/BioNTech también se le aplicará.
+
+En conferencia el mandatario informó que hay acercamiento con el sector privado de la salud para que médicos, enfermeras y más personal que atienden la pandemia sean inmunizados.
+
+“Sí se va a vacunar a todos los médicos, enfermeras, de hospitales públicos y privados que atienden Covid. Se están en comunicación con privados para obtener registros”, aseguró.
+
+Al respecto, el subsecretario de Salud, Hugo López-Gatell, informó que hay comunicación con el vicepresidente de la Asociación Nacional de Hospitales Privados, Olegario Vázquez Aldir, así como con el representante del Consorcio Mexicano de Hospitales, Javier Potes González, para que se integren listas con el personal privado que atiende la pandemia y éstas sean validadas.
+
+“Aquí no se distingue privados o públicos, ambos son colegas de la acción de salud que tienen un riesgo aumentado de exposición al virus. No se trata sólo de médicos, sino de 11 categorías y análogos que están en estancias clínicas”, comentó el funcionario.
+
+Además indicó que la vacunación contra Covid-19 no aplicará para el personal administrativo que no labore en zonas de alto riesgo.
+
+“Sí se va a vacunar a todos los médicos, enfermeras, de hospitales públicos y privados que atienden Covid. Se están en comunicación con privados para obtener registros”, aseguró.
+
+Por lo anterior, afirmó que las autoridades sanitarias federales esperan los registros del personal que atiende la pandemia en nosocomios privados para que, una vez sean validadas, comience la aplicación de la vacuna contra Covid-19.
+
+“Requiere certidumbre. Conforme se logren entregar las listas se van a vacunar. Hay buena intención del gobierno para vacunar a los colegas del sector privado”, comentó.
+
+(Excélsior)

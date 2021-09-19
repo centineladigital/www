@@ -1,0 +1,64 @@
+---
+layout: post
+title: "Acumula estado 63,700 contagios y 6,433 defunciones por COVID-19"
+date: 2021-04-26T17:52:00.000-06:00
+tags:
+  
+  - Covid-19
+  
+  - Salud
+  
+  - chihuahua
+  
+author: nil
+description: "Dan positivo 90 personas más y se confirman 24 decesos en el último reporte epidemiológico; Chihuahua es el municipio que tiene más casos activos con 726, seguido de Juárez con 233"
+image: /uploads/2021/images-Recomienda.jpg
+video: nil
+audio: nil
+alt: Acumula estado 63,700 contagios y 6,433 defunciones por COVID-19
+front: false
+section: Local
+---
+
+En los trece meses que lleva la pandemia por coronavirus en el estado de Chihuahua van  63 mil 700 contagios acumulados y 6 mil 433 defunciones, de acuerdo al último reporte epidemiológico que emite la Secretaría de Salud.
+
+El informe del 26 de abril muestra que se confirmaron 90 nuevos casos y 24 decesos más; del total de muertes 18 corresponden al municipio de Juárez, tres a Chihuahua, dos a Camargo y una a Delicias.
+
+Además, se han recuperado 53 mil 257 personas y 33 mil 450 casos se han descartado; actualmente hay mil 851 contagios sospechosos.
+
+De acuerdo a la tabla de Casos Recuperados por Municipio de Residencia, Juárez está a la cabeza con 26 mil 804 personas, seguido de Chihuahua con 14 mil 348, Parral con 2 mil 291, Delicias con mil 910, Cuauhtémoc mil 834 y Ojinaga con mil 154 casos.
+
+
+Con respecto a la tabla de Casos Confirmados Activos por Municipio de Residencia, registrados del 12 al 25 de abril, Chihuahua es quien tiene más contagios reportados con 726, mientras que Juárez le secunda con 233, Parral con 122 y Cuauhtémoc con 113.
+
+Actualmente, se tienen 267 pacientes hospitalizados: 62% en el IMSS, 23% del Sector Salud, 4% Issste, 9% Sedena y 2% IMSS Bienestar. Del total 73 están intubados: 40% en el Sector Salud, 45% en el IMSS, 12% en el Issste, 3% de la Sedena. Con reporte de 27 hospitales.
+
+El acumulado de casos confirmados por municipio es: 30,740 Juárez, 17,710 Chihuahua, 2,762 Hidalgo del Parral, 2,400 Cuauhtémoc, 2,352 Delicias, 1,210 Ojinaga, 1,122 Nuevo Casas Grandes, 608 Camargo, 494 Jiménez, 446 Bocoyna, 419 Guachochi, 362 Meoqui, 256 Saucillo, 213 Aldama, 177 Guerrero, 168 Aquiles Serdán, 160 Guazapares, 156  Allende, 151 Chínipas, 139 Gómez Farías, 135 Namiquipa, 111 Santa Bárbara, 97 Rosales, 88 Ascensión, 85 Ahumada, 86 Casas Grandes, 88 Madera, 75 Guadalupe y Calvo, 64 Julimes, 58 Manuel Benavides, 54 Buenaventura, 50 Urique, 46 San Francisco del Oro, 42 Santa Isabel, 40 López, 32 Nonoava, 34 Balleza, 32 Janos, 30 Valle de Zaragoza, 30 Ocampo, 28 La Cruz, 26 Bachíniva, 24 Ignacio Zaragoza, 23 Matamoros, 21 Guadalupe, 22 Cusihuiriachi, 21 Praxedis G. Guerrero, 23 Gran Morelos, 18 Coyame del Sotol, 18 Coronado, 18 Satevó, 17 Temósachic, 14 San Francisco de Conchos, 13 Galeana, 12 Carichí, 11 Batopilas, 10 San Francisco de Borja, 9 El Tule, 9 Riva Palacio, 8 Rosario, 8 Matachí, 7 Huejotitán, 7 Morelos, 6 Moris, 5 Dr. Belisario Domínguez, 3 Uruachi y 1 Maguarichi.
+
+La información muestra que el 51% son del sexo masculino con 32 mil 203 casos y el 49% del femenino con 31 mil 497 casos confirmados.
+
+
+
+El número total de personas fallecidas por municipio es de: 3,128 Ciudad Juárez, 1,608 Chihuahua, 358 Delicias, 262 Parral, 244 Cuauhtémoc, 96 Camargo, 91 Nuevo Casas Grandes, 75 Meoqui, 72 Jiménez, 61 Saucillo, 37 Guerrero, 29 Guachochi, 28 Ojinaga, 21 Rosales, 17 Namiquipa, 16 Ascensión, 15 Aldama, 15 Bocoyna, 14 Madera, 14  Julimes, 13 San Francisco del Oro, 12 Gómez Farías, 12 Santa Bárbara, 12 Ahumada, 11 Allende, 11 López, 11 Ocampo, 10 Valle de Zaragoza, 9 Buenaventura, 9 Casas Grandes, 8 Aquiles Serdán, 8 Temósachic, 8 Guadalupe y Calvo, 7 Carichí, 7 Bachíniva, 5 Urique, 5 Coyame del Sotol, 5 San Francisco de Conchos, 5 Balleza, 5 Ignacio Zaragoza, 5 Janos, 4 Galeana, 4  Guadalupe D. B., 4 Santa Isabel, 4 Cusihuiriachi, 4 Coronado, 4 Manuel Benavides, 4 Praxedis G. Guerrero, 4 Guazapares, 3 Riva Palacio, 3 Gran Morelos, 3 Nonoava, 2 Dr. Belisario Domínguez, 2 Moris, 2 El Tule, 2 Matachí, 2 Matamoros, 1 Huejotitán, 1 Morelos y 1 Rosario.
+
+ 
+
+De los pacientes fallecidos: 11 son de menores a un año; 5 casos de 1 a 4 años; 3 casos en el rango de edad de 5 a 9 años; 7 casos de 10 a 14 años; 3 casos de 15 a 19 años; 22 casos de 20 a 24; 46 de 25-29; 95 de 30-34; 134 de 35-39; 278 de 40- 44 años; 420 de 45-49; 599 de 50-54; 759 de 55-59; 867 de 60-64 años; 840 en el de 65-69; 805 en el de 70-74; 685 en el de 75-79 años de edad; 483 en el de 80-84; 252 en el de 85-89 años; 90 de 90-94; 25 de entre 95-99; 4 en el de 100 a 104 años de edad.
+
+ 
+
+Los porcentajes presentados de comorbilidad son: 34% hipertensión, 25% diabetes, 15% obesidad, 6% tabaquismo, 6% otra condición, 4% enfermedad cardiaca, 4% insuficiencia renal, 3% EPOC, 2% inmunosupresión, 1% asma y 0.3% VIH/Sida.
+
+ 
+
+Muestras de diagnóstico: laboratorio estatal 75, acumulado 40,510; otros 93, acumuladas otros 144,741; total de muestras 168, acumuladas 185,344.
+
+ 
+
+El Paso Tx. al 25 abril 2021: 133,336 confirmados (69 nuevos y 27 atrasados); 2,508 defunciones (=); 128,347 recuperados (+125).
+
+ 
+
+El país: 2,328,391 casos totales (+1,653); 433,453 sospechosos acumulados (-2,008); 214,947 defunciones (+94); 6,538,765 notificadas (+6,740); 25,369 activos estimados 1%  (-1,521); 1,850,680 recuperadas (+2,503).
+
+A nivel mundial: 146,054,107 Confirmados (+830,806); 10,761,492 (7%) de los últimos 14 días; 3,092,410 defunciones (+12,940); 2.1% tasa de letalidad.

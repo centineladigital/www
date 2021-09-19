@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Aumenta en 201 casos y 14 personas fallecidas último reporte COVID-19"
+date: 2021-04-01T17:48:00.000-06:00
+tags:
+  
+  - Covid-19
+  
+  - Salud
+  
+  - chihuahua
+  
+author: nil
+description: "Los municipios con más contagios acumulados son: Juárez con 29,723, Chihuahua 15,623, Parral 2,417, Delicias 2,220, Cuauhtémoc 2,026, Ojinaga 1,191, Nuevo Casas Grandes 891, Camargo 512, Jiménez 417 y Guachochi con 392"
+image: /uploads/2021/images-Diapositiva2.JPG
+video: nil
+audio: nil
+alt: Aumenta en 201 casos y 14 personas fallecidas último reporte COVID-19
+front: false
+section: Local
+---
+
+La Secretaría de Salud dio a conocer que en el último reporte COVID-19 se incrementaron en 201 los casos confirmados, para llegar a un total de 58 mil 795 en el estado de Chihuahua.
+
+Además, el número de personas fallecidas aumentó en 14 para alcanzar 5 mil 678. Los últimos decesos ocurrieron en Juárez (2), Chihuahua capital (4), Cuauhtémoc (2),  Camargo (2),  Nuevo Casas Grandes (1), Jiménez (1), Ojinaga (1) e Ignacio Zaragoza (1).
+
+Por otra parte, suman 50 mil 734 los recuperados, ya que se agregaron 126; los descartados con 31 mil 838 con otros 71 y se tienen mil 641  (+17) sospechosos.
+
+Casos acumulados por municipio: 29,723 Juárez, 15,623 Chihuahua, 2,417 Parral, 2,220 Delicias, 2,026 Cuauhtémoc, 1,191 Ojinaga, 891 Nuevo Casas Grandes, 512 Camargo, 417 Jiménez, 392 Guachochi, 368 Bocoyna, 326 Meoqui, 243 Saucillo, 200 Aldama, 166 Aquiles Serdán, 144 Chínipas, 139 Allende, 139 Guazapares, 133 Gómez Farías, 137 Guerrero, 94 Rosales, 91 Santa Bárbara, 94 Namiquipa, 85 Ascensión y 84 Ahumada.
+
+Además, 58 Manuel Benavides, 59 Madera, 60 Guadalupe y Calvo, 54 Buenaventura, 55 Casas Grandes, 49 Urique, 54 Julimes, 39 San Francisco del Oro, 39 Santa Isabel, 32 Nonoava, 27 La Cruz, 25 Balleza, 25 Janos, 23 Ocampo, 23 López, 23 Bachíniva, 20 Guadalupe y 22 Valle de Zaragoza.
+
+Otros: 19 Cusihuiriachi, 19 Praxedis G. Guerrero, 18 Gran Morelos, 19 Matamoros, 22 Ignacio Zaragoza, 17 Coronado, 13 San Francisco de Conchos, 13 Temósachic, 13 Coyame del Sotol, 11 Carichí, 10 San Francisco de Borja, 9 El Tule, 9 Batopilas, 9 Galeana, 7 Huejotitán, 7 Morelos, 6 Moris, 6 Riva Palacio, 5 Rosario, 5 Satevó, 4 Dr. Belisario Domínguez, 3 Uruachi, 3 Matachí y 1 Maguarichi.
+
+La información muestra que el 51% son del sexo masculino con 29,911 casos y 49% del femenino con 28,884 casos.
+
+Los fallecimientos por municipio, son: 2,812 Juárez, 1,382 Chihuahua, 311 Delicias, 237 Parral, 204 Cuauhtémoc, 78 Camargo, 76 Nuevo Casas Grandes, 66 Meoqui, 65 Jiménez, 57 Saucillo, 33 Guerrero, 27 Guachochi, 26 Ojinaga, 20 Rosales, 16 Ascensión, 14 Bocoyna, 13 Aldama, 12 San Francisco del Oro, 12 Madera, 11 Ahumada, 11 Namiquipa, 12  Julimes, 10 López, 10 Santa Bárbara, 10 Gómez Farías, 9 Buenaventura, 9 Casas Grandes, 10 Allende, 8 Ocampo, 8 Aquiles Serdán, 8 Temósachic y 7 Valle de Zaragoza.
+
+También 6 Guadalupe y Calvo, 6 Carichí, 6 Bachíniva, 5 Urique, 5 Coyame del Sotol, 5 San Francisco de Conchos, 4 Galeana, 4  Guadalupe D.B., 4 Janos, 4 Santa Isabel, 4 Cusihuiriachi, 4 Balleza, 4 Coronado, 4 Manuel Benavides, 4 Ignacio Zaragoza, 3 Praxedis G. Guerrero, 3 Riva Palacio, 3 Guazapares, 2 Dr. Belisario Domínguez, 2 Moris, 2 Nonoava, 2 Gran Morelos, 2 El Tule, 1 Matachí, 1 Huejotitán, 1 Matamoros, 1 Morelos y 1 Rosario.
+
+Edades de pacientes fallecidos: 10 menores a un año; 5 de 1 a 4; 2 de 5 a 9; 6 de 10 a 14; 3 de 15 a 19; 22 de 20 a 24, 42 de 25 a 29; 85 de 30 a 34; 117 de 35 a 39; 252 de 40 a 44; 384 de 45 a 49; 526 de 50 a 54; 664 de 55 a 59; 781 de 60 a 64; 731 de 65 a 69; 697 de 70 a 74; 613 de 75 a 79; 419 de 80 a 84; 219 de 85 a 89; 74 de 90 a 94; 22 de 95 a 99 y 4 de 100 a 104 años de edad. La proporción por género es 40% mujeres y 60% hombres.
+
+Porcentajes de comorbilidad: 34% hipertensión, 26% diabetes, 15% obesidad, 6% tabaquismo, 5% otra condición, 5% enfermedad cardiaca, 4% insuficiencia renal, 2% EPOC, 2% inmunosupresión, 1% asma, 0.3% VIH/Sida.
+
+Actualmente se tienen 258 pacientes hospitalizados: 61% derechohabientes del IMSS, 26% del Sector Salud, 3% del Issste, 8% de Sedena y 2% de IMSS Bienestar. Hay 68 intubados: 52% en Sector Salud, 39% en el IMSS, 6% en el Issste y 3% en Sedena. Con reporte de 29 hospitales.
+
+Personal de salud positivo a COVID:
+
+Médicos: Casos confirmados 1,434. Defunciones 51 (3 mujeres y 48 hombres). 1,374 recuperados.
+
+Enfermería: Confirmados 2,585. Defunciones 25 (16 mujeres y 9 hombres). Recuperados 2,542.
+
+Otras áreas: 1,826 casos. Defunciones 37 (13 mujeres y 24 varones). Recuperados 1,741.
+
+Totales: defunciones 113, confirmados 5,845 y recuperados 5,657.
+
+Muestras de diagnóstico: Laboratorio Estatal 109, acumuladas 38,511; otros laboratorios 231, acumuladas 136,113; total muestras 340, acumuladas 174,624.
+
+El Paso, Tx. 129,495 confirmados (+277 nuevos y 9 atrasados), 2,400 defunciones (+17), 124,896 recuperados (+195).
+
+En el país: 2,238,887 casos totales (+5,977), 440,638 sospechosos acumulados (-82), 3,410,106 negativos (+18,828), 203,210 defunciones (+577), 32,775 activos estimados 1%  (+910) y 1,773,236 recuperadas (+3,980).
