@@ -1,21 +1,33 @@
 ---
 layout: post
-title: Toma de protesta no ser\u00e1 p\u00fablica
-date: 2021-08-16T18:10:19.000-06:00
+title: "Toma de protesta de Maru Campos no será evento masivo por pandemia"
+date: 2021-08-16T19:17:00.000-06:00
 tags:
-  - protesta
-  - gobernadora
-  - salud
-author: Marakorea Navarro
-description: No habr\u00e1 grandes festejos para la toma de protesta
-image: "/uploads/2021-08-16-toma-de-protesta.jpg"
-alt: "Toma de protesta"
-front: true
+  
+  - Gobernadora
+  
+  - Maru Campos
+  
+author: nil
+description: "Luis Serrato reiteró que será un evento transmitido por redes sociales y que los medios de comunicación serán invitados fundamentales para poder llegar a todos los rincones del estado"
+image: /uploads/2021/images-2021-06-24_14-27-12_750x500.jpg
+video: nil
+audio: nil
+alt: Toma de protesta de Maru Campos no será evento masivo por pandemia
+front: false
 section: Local
 ---
 
-Debido a la situaci\u00f3n de salud que se vive, no solamente en Chihuahua sino a nivel mundial la toma de protesta de la Gobernadora no se llevar\u00e1 a cabo de forma p\u00fablica, seg\u00fan lo dio a conocer el, coordinador del equipo de Transici\u00f3n del Gobierno del Estado, Luis Serrato Castell.
+Luis Serrato Castell, coordinador del equipo de Transición del Gobierno del Estado de Maru Campos, anunció este lunes que la toma de protesta de la Gobernadora Electa presentará algunos cambios en congruencia con la situación financiera del estado así como, el aumento de contagios de COVID.
 
-Destacando que esta serie de cambios se llevan a cabo en congruencia con la situaci\u00f3n financiera del estado as\u00ed como por el aumento de contagios de COVID. Por lo que el evento no contar\u00e1 con un n\u00famero multitudinario de personas e invitados\u201d explic\u00f3.
+“Como ustedes saben la toma de posesión se llevará a cabo el día 8 de septiembre en la Plaza de la Mexicanidad allá en Ciudad Juárez, a las 7:30 de la tarde; sabemos que estamos pasando por una pandemia, una pandemia compleja que incluso trae una tercera ola y nuevas cepas; por lo mismo y en un afán de responsabilidad, la gobernadora nos ha instruido a que sea un evento básico que no tenga un número multitudinario de personas e invitados” explicó.
 
-Sin embargo, la sede en la que se llevar\u00e1 a cabo ser\u00e1 Ciudad Ju\u00e1rez. Esto en un esquema de acercamiento con a la gente de Ciudad Ju\u00e1rez atendiendo su problem\u00e1tica desde el d\u00eda uno y en este compromiso que desde la campa\u00f1a, a\u00f1adi\u00f3.
+El coordinador detalló que esta decisión se tomó principalmente tomando dos factores: la consideración sanitaria actual del estado, por lo que se busca exponer al mínimo a los asistentes y no generar aglomeraciones; por lo que el aforo será reducido de forma exclusiva a quienes tomará parte en la ceremonia, su producción y cobertura.
+
+Se consideró además el estado actual de las finanzas públicas estatales, por lo que es indispensable ser cuidadosos con el uso de los recursos.
+
+“Por supuesto que será en Ciudad Juárez como la Gobernadora lo ha pedido, en un esquema de acercamiento, de estar ahí junto a la gente de Ciudad Juárez atendiendo su problemática desde el día uno y en este compromiso que desde la campaña hizo de tener desde Juárez una ciudad cercana a la Gobernadora y al Gobierno del Estado”, añadió.
+
+Asimismo, Luis Serrato reiteró que será un evento transmitido por redes sociales y que los medios de comunicación serán invitados fundamentales para poder llegar a todos los rincones del estado.
+
+Con esta misma lógica la Gobernadora Electa ha pedido que se analicen los eventos subsecuentes, principalmente los más próximos para determinar la mejor manera de llevarlos a cabo.

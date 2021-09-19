@@ -1,0 +1,55 @@
+---
+layout: post
+title: "Con 56 nuevos contagios por COVID-19 llega el estado a 52 mil 480 casos"
+date: 2021-02-17T17:39:00.000-06:00
+tags:
+  
+  - Covid-19
+  
+  - Salud
+  
+  - chihuahua
+  
+author: nil
+description: "La Secretaría de Salud reporta 4 mil 885 personas fallecidas, con 11 nuevos decesos: 3 en Chihuahua, 2 en Juárez, 2 en Delicias, 1 en Meoqui, 1 en Saucillo, 1 en Rosales y 1 en Santa Bárbara "
+image: /uploads/2021/images-Diapositiva2.JPG
+video: nil
+audio: nil
+alt: Con 56 nuevos contagios por COVID-19 llega el estado a 52 mil 480 casos
+front: false
+section: Local
+---
+
+La Secretaría de Salud informó que este día se tienen en el estado de Chihuahua un total general de 52 mil 480 casos confirmados de COVID-19, con 56 nuevos contagios.
+
+El reporte diario muestra que el total de personas fallecidas es de 4 mil 885, con 11 nuevos decesos: tres en Chihuahua, dos en Juárez, dos en Delicias y uno en cada uno de los municipios de Meoqui, Saucillo, Rosales y  Santa Bárbara 
+
+Además, indica que a la fecha han perdido la vida 2 mil 945 hombres (60%) y mil 940 mujeres (40%).
+
+Los municipios con nuevos contagios son Juárez con un acumulado total de 28  mil 489 casos, Chihuahua con 12 mil 975, Delicias 1,925, Parral con 1,843, Cuauhtémoc con 1,670, Guachochi con 328, Saucillo con 211, Aldama con 164 y Santa Bárbara con 73.
+
+El total de personas recuperadas suman 42 mil 111, con 54 nuevas altas; 29 mil 466 han sido descartados de las pruebas (+45) y se tienen mil 339 (+16) casos sospechosos.
+
+Hay 205 pacientes hospitalizados en 28 hospitales de la entidad, de los cuales 57 se encuentran intubados; de los hospitalizados 63% son atendidos en IMSS, 31% en Sector Salud 2% en Sedena, 3% en Issste, 1% IMSS Bienestar.
+
+Los contagios por municipios son: Ahumada 78, Aldama 164, Allende 90, Ascensión 67, Aquiles Serdán 160, Bachíniva 17, Batopilas 9, Bocoyna 329, Balleza 22, Buenaventura 42, Camargo 351, Carichí 8, Casas Grandes 35, Chihuahua 12,975, Chínipas 133, Coronado 15, Coyame del Sotol 10, Cuauhtémoc 1,670, Cusihuiriachí 17, Delicias 1,925, Dr. Belisario Domínguez 4, Galeana 7, Gómez Farías 80, Guachochi 328, Gran Morelos 17, Guadalupe 19, Guadalupe y Calvo 44, Guazapares 92, Guerrero 89 y Hidalgo del Parral 1,843.
+
+Además,  Huejotitan 7, Ignacio Zaragoza 13, Janos 24, Jiménez 297, Juárez 28,489, Julimes 14, López 18, Madera 44, Manuel Benavides 58, Matachí 2, Meoqui 278, Moris 6, Morelos 5, Namiquipa 72, Nonoava 25, Nuevo Casas Grandes 748, Ocampo 22, Ojinaga 1,122, Praxedis G. Guerrero 16, Riva Palacio 6, Rosales 80, Rosario 5, San Francisco del Oro 28, Santa Bárbara 73, Satevó 5, Saucillo 211, Temósachic 12, Urique 42, Valle de Zaragoza 16, San Francisco de Conchos 12, Santa Isabel 31, La Cruz 23, San Francisco de Borja 10, Maguarichi 1, El Tule 8, Matamoros 14 y Uruachi 3.
+
+La información muestra que el 51% son del sexo masculino con 26 mil 891 casos y el 49% del femenino con 25 mil 589 casos confirmados.
+
+El número de personas fallecidas es de 2,571 Ciudad Juárez, 1,129 Ciudad de Chihuahua, 262 Delicias, 187 Parral, 171 Cuauhtémoc, 67 Nuevo Casas Grandes, 60 Meoqui, 57 Camargo, 44 Saucillo, 37 Jiménez, 27 Guerrero, 18 Guachochi, 17 Rosales, 15 Ojinaga, 13 Ascensión, 11 Aldama, 11 Madera, 10 Bocoyna, 10 Ahumada, 9 San Francisco del Oro, 9 Namiquipa, 8 Aquiles Serdán, 8 Buenaventura, 8 Santa Bárbara, 8 Ocampo y 6 Casas Grandes.
+
+También, 6 Allende, 5 Carichí, 7 Temósachi, 5  Julimes, 7 López, 6 Guadalupe y Calvo, 4 Galeana, 4 Valle de Zaragoza, 5 Urique, 5 Gómez Farías, 4  Guadalupe D. B., 4 San Francisco de Conchos, 4 Janos, 4 Santa Isabel, 3 Balleza, 3 Praxedis G. Guerrero, 3 Manuel Benavides, 3 Riva Palacio, 3 Coronado, 3 Ignacio Zaragoza, 3 Cusihuiriachi, 4 Coyame del Sotol, 2 Dr. Belisario Domínguez, 2 Moris, 2 Nonoava, 2 Bachíniva, 2 Gran Morelos, 2 Guazapares, 2 El Tule, 1 Matachí, 1 Huejotitan y 1 Matamoros.
+
+Rangos de edad de personas fallecidas: 8 casos menores a un año; 4 de 1 a 4; 2 de 5 a 9; 5 de 10 a 14 años, 3 de 15 a 19; 19 de 20 a 24; 36 de 25 a 29; 76 de 30 a 34; 100 de 35 a 39; 222 de 40 a 44; 329 de 45 a 49; 474 de 50 a 54; 581 de 55 a 59; 680 de 60 a 64; 623 de 65 a 69; 595 de 70 a 74; 506 de 75 a 79; 362 de 80 a 84; 174 de 85 a 89; 64 de 90 a 94; 19 de 95 a 99 y 3 100 a 104 años de edad.
+
+Porcentajes de comorbilidad en decesos: 25% diabetes, 34% hipertensión, 15% obesidad, 2% asma, 4% enfermedad cardiaca, 4% insuficiencia renal, 6% tabaquismo, 2% inmunosupresión, 0.3% VIH/Sida, 2% EPOC, 6% otra condición. La proporción por género es 40% mujeres y 60% hombres.
+
+Las muestras de diagnóstico reportadas por el Laboratorio Estatal (0), acumuladas 35 mil 955; otros laboratorios 15, acumuladas 119 mil 649; total muestras 15, acumuladas 156 mil 459.
+
+Se reportan en El Paso Texas, al 16 de febrero: 119 mil 997 casos confirmados (+150 nuevos, + 73 atrasados), 1,885 decesos (+21) y 109 mil 766 recuperados (+359).
+
+Respecto a la situación de la pandemia en el país, compartió que hay 12,004,575 casos totales (+8,683), 431,301 sospechosos acumulados (2,137), 175,986 defunciones (+1,329), 55,901 activos estimados 3%  (-790) y 1,563,992 recuperadas (+8,069).
+
+A nivel internacional hay 108,822,960 casos confirmados (+192,266), 5,199,196 (5%) de los últimos 14 días, 2,403,641 defunciones (+5,892) y 2.2% tasa de letalidad.

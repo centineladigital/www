@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Suman 68 mil 326 casos y 6 mil 969 defunciones por COVID-19 en el estado"
+date: 2021-06-01T16:44:00.000-06:00
+tags:
+  
+  - Covid-19
+  
+  - Salud
+  
+  - chihuahua
+  
+author: nil
+description: "En el último reporte epidemiológico se confirmaron 44 contagios y un deceso en la capital; además ya son 56,471 recuperados; 35,111 descartados y 1,754 sospechosos"
+image: /uploads/2021/images-Diapositiva2.JPG
+video: nil
+audio: nil
+alt: Suman 68 mil 326 casos y 6 mil 969 defunciones por COVID-19 en el estado
+front: false
+section: Local
+---
+
+En la Conferencia Informativa #421, Virtual #381, la Secretaría de Salud dio a conocer que al día de hoy se tienen en el estado de Chihuahua un total general de 68,326 (+44) casos confirmados y 6,969 defunciones por COVID-19.
+
+ 
+
+Además, suman 56,471 (+39) las personas recuperadas, 35,111 (+5) han sido descartadas y se tienen 1,754  (+7) sospechosos.
+
+ 
+
+En casos acumulados por municipio: 31,704 Juárez, 20,100 Chihuahua, 2,894, Parral, 2,623 Cuauhtémoc, 2,445 Delicias, 1,234 Ojinaga, 1,225 Nuevo Casas Grandes, 653 Camargo, 560 Jiménez, 539 Guachochi, 501 Bocoyna, 393 Meoqui, 268 Saucillo, 250 Aldama, 227 Guerrero, 179 Aquiles Serdán, 166  Allende, 162 Guazapares, 151 Chínipas, 150 Namiquipa, 148 Gómez Farías, 127 Madera, 125 Santa Bárbara, 108 Rosales, 109 Casas Grandes, 107 Ascensión, 91 Ahumada, 89 Buenaventura, 88 Guadalupe y Calvo, 68 Julimes, 60 Manuel Benavides y 53 Urique.
+
+ 
+
+Además, 46 San Francisco del Oro, 42 Santa Isabel, 43 López, 38 Balleza, 35 Janos, 34 Nonoava, 33 Valle de Zaragoza, 32 Ocampo, 31 Ignacio Zaragoza, 29 La Cruz, 28 Bachíniva, 26 Matamoros, 24 Gran Morelos, 24 Coyame, 22 Cusihuiriachi, 22 Guadalupe, 23 Temósachic, 21 Praxedis G. Guerrero, 21 Satevó, 20 Coronado, 16 Galeana, 16 San Francisco de Conchos, 12 Carichí, 11 Batopilas, 11 San Francisco de Borja, 10 Dr. Belisario Domínguez, 9 El Tule, 9 Riva Palacio, 9 Rosario, 8 Moris, 8 Matachí, 7 Huejotitán, 7 Morelos, 3 Uruachi y 1 Maguarichi.
+
+ 
+
+La información muestra que el 50% son del sexo masculino con 34,414 casos y 50% del femenino con 33,912.
+
+ 
+
+El total de personas fallecidas es 6,969 (+1 en Chihuahua), que corresponden a: 3,364 Juárez, 1,795 Chihuahua, 382 Delicias, 266 Parral, 266 Cuauhtémoc, 100 Camargo, 96 Nuevo Casas Grandes, 80 Meoqui, 78 Jiménez, 67 Saucillo, 39 Guerrero, 33 Guachochi, 28 Ojinaga, 25 Rosales, 21 Ascensión, 19 Madera, 18 Namiquipa, 19 Bocoyna, 17 Aldama, 14 Julimes, 14 Gómez Farías, 13 Santa Bárbara, 13 Allende, 11 San Francisco del Oro, 13 Ahumada, 11 López, 10 Valle de Zaragoza, 10 Casas Grandes, 9 Buenaventura, 9 Temósachic, 9 Guadalupe y Calvo y 9 Aquiles Serdán.
+
+ 
+
+Además, 7 Ocampo, 8 Bachíniva, 7 Carichí, 6 San Francisco de Conchos, 6 Ignacio Zaragoza, 6 Urique, 5 Coyame del Sotol, 5 Balleza, 5 Janos, 4 Galeana, 4  Guadalupe D.B., 4 Santa Isabel, 4 Cusihuiriachi, 4 Coronado, 4 Manuel Benavides, 4 Praxedis G. Guerrero, 4 Guazapares, 3 Riva Palacio, 3 Gran Morelos, 3 Nonoava, 2 Dr. Belisario Domínguez, 2 Moris, 2 El Tule, 2 Matachí, 3 Matamoros, 1 Huejotitán, 1 Morelos, 1 Rosario y 1 Satevó.
+
+ 
+
+Edades de pacientes fallecidos: 11 casos menores a un año; 5 de 1 a 4; 3 de 5 a 9; 8 de 10 a 14; 3 de 15 a 19; 23 de 20 a 24; 52 de 25 a 29; 104 de 30 a 34; 141 de 35 a 39; 306 de 40 a 44; 466 de 45 a 49; 667 de 50 a 54; 842 de 55 a 59; 928 de 60 a 64; 902 de 65 a 69; 865 de 70 a 74; 735 de 75 a 79; 514 de 80 a 84; 271 de 85 a 89; 94 de 90 a 94; 25 de 95 a 99; 4 de 100 a 104.
+
+ 
+
+Los porcentajes presentados de comorbilidad son: 35% hipertensión, 26% diabetes, 15% obesidad, 6% tabaquismo, 5% otra condición, 4% enfermedad cardiaca, 4% insuficiencia renal, 2% EPOC, 2% inmunosupresión, 1% asma y 0.3% VIH/Sida. La proporción por género en fallecidos es 40% mujeres y 60% hombres.
+
+ 
+
+De los 114 pacientes hospitalizados: 59% son derechohabientes del IMSS, 37% del Sector Salud, 2% Sedena, 2% IMSS Bienestar, con reporte de 22 hospitales.
+
+ 
+
+Muestras de diagnóstico: Laboratorio Estatal 0, acumuladas 42,511; otros laboratorios 13, acumuladas otros 154,859; total de muestras 13, acumuladas 197,370.
+
+ 
+
+El Paso, Texas, (al 31 de mayo), 136,106 confirmados (20 nuevos), 2,617 defunciones (=) y 132,488 recuperados (+95).
+
+ 
+
+El país: 2,413,742 casos totales (+932), 435,552 sospechosos acumulados (-787), 4,193,522 negativos (+3,654), 223,568 defunciones (+61), 7,042,816 notificadas (+3,799), 17,309 activos estimados .7% (-1,765) y 1,928,467 recuperadas (+2,180).

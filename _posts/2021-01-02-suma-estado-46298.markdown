@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Suma estado 46,298 contagios por Covid-19"
+date: 2021-01-02T20:00:00.000-06:00
+tags:
+  
+  - Covid-19
+  
+  - Salud
+  
+  - chihuahua
+  
+author: nil
+description: "Van ya 4,296 muertes por Covid-19"
+image: /uploads/2021/images-cifras_covid_(1).jpg
+video: nil
+audio: nil
+alt: Suma estado 46,298 contagios por Covid-19
+front: false
+section: Local
+---
+
+La Secretaría de Salud informó que hasta el momento, se han registrado 46 mil 298 contagios por Covid-19 y 4 mil 296 decesos en todo el estado.
+
+De dichas cifras, 246 contagios corresponden a las últimas 24 horas y en este mismo lapso, ocurrieron 31 fallecimientos.
+
+Además, hay 28 mil 847 personas recuperadas; 24 mil 680 descartados y 2 mil 271 casos sospechosos.
+
+Hasta la fecha, Ciudad Juárez acumula 2 mil 652 contagios; Chihuahua, 10 mil 805; Delicias, 1 mil 729; Parral, 1 mil 579 y Cuauhtémoc, 833.
+
+Respecto a las muertes, 2 mil 418 corresponden a Juárez; 908 a Chihuahua; 224 a Delicias; 167 a Parral y 141 a Cuauhtémoc.
+
+Este día, hay 293 personas hospitalizadas y 48 intubados en estado grave.
+
+(El Heraldo de Chihuahua)

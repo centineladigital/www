@@ -1,0 +1,33 @@
+---
+layout: post
+title: "‘Me voy a vacunar, pero no quiero un espectáculo’ -  López Obrador"
+date: 2021-03-31T16:39:00.000-06:00
+tags:
+  
+  - Covid
+  
+  - Vacuna
+  
+  - AMLO
+  
+author: nil
+description: "El presidente anuncia que la próxima semana recibirá dosis contra Covid-19; afirma que es por recomendación de sus médicos; arriban a México 500 mil vacunas Sputnik V"
+image: /uploads/2021/images-2554761.jpg
+video: nil
+audio: nil
+alt: ‘Me voy a vacunar, pero no quiero un espectáculo’ -  López Obrador
+front: false
+section: Nacional
+---
+
+La próxima semana el presidente Andrés Manuel López Obrador se vacunará contra Covid-19; sin embargo, aclaró que “no quiero que se haga un espectáculo”.
+
+En Palacio Nacional el mandatario explicó que tras unos estudios que le fueron realizados se determinó que cuenta con anticuerpos contra SARS-CoV-2; sin embargo, por recomendación de sus médicos se vacunará.
+
+“Me recomiendan los médicos que me vacune. Me vacuno la próxima semana. No quiero que se haga un espectáculo, sólo iré a donde me corresponde y me vacunaré”, afirmó sin mencionar el día, la hora ni el lugar al que acudirá en la Ciudad de México.
+
+López Obrador además destacó los avances que se tienen en cuanto a la vacunación contra Covid-19, ya que sólo el día de ayer se vacunó a 254 mil 821 personas y ya suman 7 millones 404 mil 912 inmunizadas en todo el país.
+
+El anuncio lo dio en el marco de la llegada a México esta mañana de un cargamento más por 500 mil vacunas contra Covid-19, Sputnik V, las cuales servirán para dar continuidad a la jornada de inmunización de personal médico y adultos mayores del país.
+
+(Excélsior)

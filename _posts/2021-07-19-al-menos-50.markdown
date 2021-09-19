@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Al menos 50 personas cercanas a AMLO incluidas en lista de Pegasus -  The Guardian"
+date: 2021-07-19T18:38:00.000-06:00
+tags:
+  
+  - Pegasus
+  
+  - mexico
+  
+author: nil
+description: "La lista a la que tuvieron acceso 16 medios participantes del Pegasus Project, entre ellos The Guardian, incluye 15 mil personas en México consideradas como de interés para espionaje entre 2016 y 2017, durante la administración de Enrique Peña Nieto."
+image: /uploads/2021/images-Sin_título.jpg
+video: nil
+audio: nil
+alt: Al menos 50 personas cercanas a AMLO incluidas en lista de Pegasus -  The Guardian
+front: false
+section: Nacional
+---
+
+Al menos 50 personas cercanas al presidente mexicano, Andrés Manuel López Obrador, incluyendo su esposa e hijos, están incluidas en la lista de números de interés de clientes de la firma israelí NSO para ser espiados a través del spyware Pegasus, revela hoy el diario británico The Guardian.
+
+Además de su esposa e hijos, la lista incluye a colaboradores e incluso a un médico de AMLO, pero también a políticos de todos los partidos, periodistas, activistas, diplomáticos, académicos y hasta sacerdotes.
+
+En total, la lista a la que tuvieron acceso 16 medios participantes del Pegasus Project, entre ellos The Guardian, incluye 15 mil personas en México consideradas como de interés para espionaje entre 2016 y 2017, durante la administración de Enrique Peña Nieto.
+
+México, recuerda The Guardian, fue el primer país del mundo en comprar Pegasus a la NSO. La Secretaría de Defensa fue la primera en adquirir el spyware, en 2011.Otras agencias que compraron u operaron Pegasus incluyen la de la Procuraduría General (hoy Fiscalía General), y el Centro Nacional de Inteligencia (Cisen). 
+
+Decenas de figuras nacionales y locales de Morena también fueron seleccionadas por los clientes mexicanos de la NSO, entre ellos Claudia Sheinbaum, la actual jefa de gobierno de la Ciudad de México, informa The Guardian. 
+
+El diario, como ya hizo el domingo, aclara que el hecho de que los números de teléfono estén incluidos en la lista no significa que en efecto hayan sido hackeados, pero sí muestra que sus dueños eran personas de interés para quienes adquirieron la tecnología de espionaje.
+
+Además, el rotativo británico recuerda que conversaciones privadas del entorno de AMLO, incluyendo una entre su hijo Andrés Manuel López Beltrán y Yeidckol Polevnsky, secretaria general de Morena, en 2017, fueron filtradas a la prensa.
+
+NSO asegura que revisa a profundidad los historiales de sus potenciales clientes -gobiernos de los países-. Sin embargo, The Guardian recuerda que cuando se hizo el trato con México, tanto la policía como el ejército y otras autoridades estaban ya implicadas en denuncias de abusos a los derechos humanos, incluyendo torturas, desapariciones forzadas y asesinatos extrajudiciales.
+
+(el universal)

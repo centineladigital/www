@@ -1,0 +1,45 @@
+---
+layout: post
+title: "‘Si no nos ayudas, no resistiremos’, te suplican médicos del IMSS"
+date: 2021-01-05T17:05:00.000-06:00
+tags:
+  
+  - Covid
+  
+  - Médicos
+  
+  - IMSS
+  
+author: nil
+description: "Lanzan video para solicitar a la sociedad apoyo para quedarse en casa y evitar más contagios por Covid-19; ‘nosotros hemos dado todo por ti’, dicen a mexicanos"
+image: /uploads/2021/images-2506575.jpg
+video: nil
+audio: nil
+alt: ‘Si no nos ayudas, no resistiremos’, te suplican médicos del IMSS
+front: false
+section: Nacional
+---
+
+El personal médico del Instituto Mexicano del Seguro Social lleva meses en su lucha contra el Covid-19 y entre sus filas hay quienes se han contagiado y otros más han fallecido; sin embargo continúan su combate y por ello pidieron a la sociedad ayudarlos a acabar con la pandemia al cuidarse y quedarse en casa.
+
+Mediante un video publicado en el portal web del Sindicato Nacional de los Trabajadores del Seguro Social (SNTSS), los profesionales de la salud lamentaron la falta de empatía y respaldo por parte de varios sectores de la población; además, manifestaron el cansancio físico y emocional que tienen por su lucha contra la pandemia.
+
+“Nosotros hemos dado todo por ti, ahora haz algo muy simple, pero muy valioso para nosotros: ¡quédate en casa! Si te cuidas, nos cuidamos todos”, expresa el personal que atiende a pacientes Covid.
+
+Incluso recordaron el dolor que no sólo pasan ellos al ver gente fallecer a causa del SARS-CoV-2, sino también del sufrimiento y deceso que han pasado otros médicos, médicas, enfermeras, enfermeros… en cumplimiento de su deber.
+
+Por lo anterior urgen a la sociedad a evitar salir de casa si no es necesario, pues esto es una forma de ayudar al personal que combate día a día al Covid y que arriesga su vida e incluso la de sus familiares por salvar a otras personas.
+
+“Ni tú, ni tus seres queridos, ni tus amigos ni un mexicano más merecen perder la vida por el descuido y la indiferencia. Estamos en la última parte de esta batalla monumental y para ganarla te necesitamos, sin ti corremos el riesgo de perderla: ¡Quédate en casa”.
+
+A continuación te presentamos algunas mensajes que el personal del IMSS envía a la sociedad para crear conciencia sobre lo que sucede y para pedir un poco de ayuda:
+
+“Estamos muy cansados, llevamos 10 meses combatiendo al coronavirus y no vemos el final del túnel”
+“Lo que vivimos aquí adentro es una guerra dolorosa y cruel”
+“El rostro del sufrimiento extremo y del dolor no me lo puedo sacudir de mi cabeza”
+“intubar a un paciente en este entorno de pandemia es una experiencia traumática… en muchos casos es la antesala de la muerte”
+“Somos médicos, enfermeras y enfermeros, pero también seres humanos de carne y hueso, que nos cimbramos y nos atrapa el miedo irremediablemente ante lo que estamos viviendo”
+“Nuestros hospitales están llenos y ya no hay camas; quedan pocos ventiladores; terapias intensivas están al tope”
+“Por favor, te lo suplicamos: no te expongas a contagios, no seas transmisor de la enfermedad”.
+
+(Excélsior)
