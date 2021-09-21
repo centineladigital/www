@@ -3535,3 +3535,10 @@ body.lock-position {
   top: 140px;
   padding: 15px 15px 15px;
 }
+
+.square {
+  height: 300px;
+  width: 300px;
+  background-color: #555;
+  margin-top: 50px;
+}
