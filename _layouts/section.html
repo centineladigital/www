@@ -1,0 +1,429 @@
+---
+layout: default
+---
+
+<div class="site_container">
+	<div class="header_container">
+		<div class="header clearfix">
+			<div class="logo">
+				<img src='/uploads/logo.jpeg' alt='img' width="400" height="200">
+				<h4>Noticias desde Chihuahua, Mexico</h4>
+			</div>
+			<div class="placeholder">728 x 90</div>
+		</div>
+	</div>
+	<div class="menu_container clearfix">
+		<nav>
+			<ul class="sf-menu">
+				<li class="submenu">
+					<a href="/local" title="Home">
+						Local
+					</a>
+				</li>
+				<li class="submenu">
+					<a href="nacional.html" title="Pages">
+						Nacional
+					</a>
+				</li>
+				<li class="submenu mega_menu_parent">
+					<a href="deportes.html" title="Mega Menu">
+						Deportes
+					</a>
+				</li>
+				<li class="submenu selected">
+					<a href="buenas_noticias.html" title="Post Formats">
+						Buenas noticias
+					</a>
+				</li>
+				<li class="submenu">
+					<a href="internacional.html" title="Blog">
+						Internacional
+					</a>
+				</li>
+				<li class="submenu">
+					<a href="espectaculos.html" title="Authors">
+						Espectáculos
+					</a>
+				</li>
+				<li class="submenu">
+					<a href="ojinaga.html" title="Contact">
+						Ojinaga
+					</a>
+				</li>
+			</ul>
+		</nav>
+		<div class="mobile_menu_container">
+			<a href="#" class="mobile-menu-switch">
+				<span class="line"></span>
+				<span class="line"></span>
+				<span class="line"></span>
+			</a>
+			<div class="mobile-menu-divider"></div>
+			<nav>
+				<ul class="sf-menu">
+					<li class="submenu">
+						<a href="local.html" title="Home">
+							Local
+						</a>
+					</li>
+					<li class="submenu">
+						<a href="nacional.html" title="Pages">
+							Nacional
+						</a>
+					</li>
+					<li class="submenu mega_menu_parent">
+						<a href="deportes.html" title="Mega Menu">
+							Deportes
+						</a>
+					</li>
+					<li class="submenu selected">
+						<a href="buenas_noticias.html" title="Post Formats">
+							Buenas noticias
+						</a>
+					</li>
+					<li class="submenu">
+						<a href="internacional.html" title="Blog">
+							Internacional
+						</a>
+					</li>
+					<li class="submenu">
+						<a href="espectaculos.html" title="Authors">
+							Espectáculos
+						</a>
+					</li>
+					<li class="submenu">
+						<a href="ojinaga.html" title="Contact">
+							Ojinaga
+						</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+
+	<div class="page">
+		<div class='slider_posts_list_container'>
+		</div>
+		<div class="page_layout page_margin_top clearfix">
+			<div class="row">
+				<div class="column column_2_3">
+					<h4 class="box_header">Más Noticias</h4>
+					<div class="row">
+						<ul class="blog column column_1_2">
+							{% for post in site.posts limit : 2 offset: 1 %}
+							<li class="post">
+								<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+									<img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
+								</a>
+								<h2 class="with_number">
+									<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"
+										alt="{{ post.alt }}">{{
+										post.title }}</a>
+								</h2>
+								<ul class="post_details">
+									<li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
+									<li class="date">
+										{{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
+									</li>
+								</ul>
+								<p>{{ post.description }}</p>
+								<a class="read_more" href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"
+									title="Read more"><span class="arrow"></span><span>LEER MÁS</span></a>
+							</li>
+							{% endfor %}
+						</ul>
+						<ul class="blog column column_1_2">
+							{% for post in site.posts limit : 2 offset: 3 %}
+							<li class="post">
+								<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+									<img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
+								</a>
+								<h2 class="with_number">
+									<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"
+										alt="{{ post.alt }}">{{
+										post.title }}</a>
+								</h2>
+								<ul class="post_details">
+									<li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
+									<li class="date">
+										{{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
+									</li>
+								</ul>
+								<p>{{ post.description }}</p>
+								<a class="read_more" href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"
+									title="Read more"><span class="arrow"></span><span>LEER MÁS</span></a>
+							</li>
+							{% endfor %}
+						</ul>
+					</div>
+					<div class="row page_margin_top_section">
+						<h4 class="box_header">Top Posts</h4>
+						<div class="tabs no_scroll margin_top_10 clearfix">
+							<ul class="tabs_navigation small clearfix">
+								<li>
+									<a href="#most-recent" title="Most Recent">
+										Most Recent
+									</a>
+								</li>
+								<li>
+									<a href="#most-read" title="Most Read">
+										Most Read
+									</a>
+								</li>
+								<li>
+									<a href="#most-commented" title="Most Commented">
+										Most Commented
+									</a>
+								</li>
+							</ul>
+							<div id="most-recent">
+								<div class="horizontal_carousel_container page_margin_top">
+									<ul
+										class="blog horizontal_carousel page_margin_top autoplay-0 scroll-1 navigation-1 easing-easeInOutQuint duration-750">
+										{% for post in site.posts limit : 3 offset: 8 %}
+										<li class="post">
+											<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+												<img src="{{ post.image }}" class="img-responsive"
+													alt="{{ post.alt }}" />
+											</a>
+											<h5 class="with_number">
+												<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"
+													alt="{{ post.alt }}">
+													{{post.title }}
+												</a>
+											</h5>
+											<ul class="post_details simple">
+												<li class="category"><a href="category_health.html"
+														title="HEALTH">HEALTH</a></li>
+												<li class="date">
+													{{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
+												</li>
+											</ul>
+										</li>
+										{% endfor %}
+									</ul>
+								</div>
+							</div>
+							<div id="most-read">
+								<div class="horizontal_carousel_container page_margin_top">
+									<ul
+										class="blog horizontal_carousel page_margin_top autoplay-0 scroll-1 navigation-1 easing-easeInOutQuint duration-750">
+										{% for post in site.posts limit : 0 %}
+										<li class="post">
+											<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+												<img src="{{ post.image }}" class="img-responsive"
+													alt="{{ post.alt }}" />
+											</a>
+											<h5 class="with_number">
+												<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"
+													alt="{{ post.alt }}">{{
+													post.title }}</a>
+											</h5>
+											<ul class="post_details simple">
+												<li class="category"><a href="category_health.html"
+														title="HEALTH">HEALTH</a></li>
+												<li class="date">
+													{{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
+												</li>
+											</ul>
+										</li>
+										{% endfor %}
+									</ul>
+								</div>
+							</div>
+							<div id="most-commented">
+								<div class="horizontal_carousel_container page_margin_top">
+									<ul
+										class="blog horizontal_carousel page_margin_top autoplay-0 scroll-1 navigation-1 easing-easeInOutQuint duration-750">
+										{% for post in site.posts limit : 0 %}
+										<li class="post">
+											<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+												<img src="{{ post.image }}" class="img-responsive"
+													alt="{{ post.alt }}" />
+											</a>
+											<h5><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"
+													alt="{{ post.alt }}">{{
+													post.title }}</a></h5>
+											<ul class="post_details simple">
+												<li class="category"><a href="category_health.html"
+														title="HEALTH">HEALTH</a></li>
+												<li class="date">
+													{{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
+												</li>
+											</ul>
+										</li>
+										{% endfor %}
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="column column_1_3">
+					<h4 class="box_header">Opinión</h4>
+					<ul class="blog small_margin clearfix">
+						{% for post in site.posts limit : 3 offset: 15 %}
+						<li class="post">
+							<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+								<img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
+							</a>
+							<div class="post-description">
+								<h5>
+									<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"
+										alt="{{ post.alt }}">{{
+										post.title }}</a>
+								</h5>
+								<ul class="post_details simple">
+									<li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
+									<li class="date">
+										{{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
+									</li>
+								</ul>
+							</div>
+						</li>
+						{% endfor %}
+					</ul>
+					<div class="square"></div>
+					<div class="square"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="footer_container">
+		<div class="footer clearfix">
+			<div class="row">
+				<div class="column column_1_3">
+					<h4 class="box_header">Local</h4>
+					<div class="vertical_carousel_container clearfix">
+						<ul
+							class="blog small vertical_carousel autoplay-1 scroll-1 navigation-1 easing-easeInOutQuint duration-750">
+							{% for post in site.posts limit : 4 offset: 31 %}
+							<li class="post" style="display: flex;">
+								<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+									<span class="icon small gallery"></span>
+									<img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
+								</a>
+								<div class="post-description" style="margin-left: 1em;">
+									<h5 style="margin-top: 0%; font-size: 1em;">
+										<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"
+											alt="{{ post.alt }}">{{
+											post.title }}</a>
+									</h5>
+									<ul class="post_details simple">
+										<li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a>
+										</li>
+										<li class="date">
+											{{ post.date }}
+										</li>
+									</ul>
+								</div>
+							</li>
+							{% endfor %}
+						</ul>
+					</div>
+				</div>
+				<div class="column column_1_3">
+					<h4 class="box_header">Nacional</h4>
+					<div class="vertical_carousel_container clearfix">
+						<ul
+							class="blog small vertical_carousel autoplay-1 scroll-1 navigation-1 easing-easeInOutQuint duration-750">
+							{% for post in site.posts limit : 4 offset: 35 %}
+							<li class="post" style="display: flex;">
+								<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+									<span class="icon small gallery"></span>
+									<img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
+								</a>
+								<div class="post-description" style="margin-left: 1em;">
+									<h5 style="margin-top: 0%; font-size: 1em;">
+										<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"
+											alt="{{ post.alt }}">{{
+											post.title }}</a>
+									</h5>
+									<ul class="post_details simple">
+										<li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a>
+										</li>
+										<li class="date">
+											{{ post.date }}
+										</li>
+									</ul>
+								</div>
+							</li>
+							{% endfor %}
+						</ul>
+					</div>
+				</div>
+				<div class="column column_1_3">
+					<h4 class="box_header">Internacional</h4>
+					<div class="vertical_carousel_container clearfix">
+						<ul
+							class="blog small vertical_carousel autoplay-1 scroll-1 navigation-1 easing-easeInOutQuint duration-750">
+							{% for post in site.posts limit : 4 offset: 39 %}
+							<li class="post" style="display: flex;">
+								<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+									<span class="icon small gallery"></span>
+									<img src="{{ post.image }}" class="img-responsive" alt="{{ post.alt }}" />
+								</a>
+								<div class="post-description" style="margin-left: 1em;">
+									<h5 style="margin-top: 0%; font-size: 1em;">
+										<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"
+											alt="{{ post.alt }}">{{
+											post.title }}</a>
+									</h5>
+									<ul class="post_details simple">
+										<li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a>
+										</li>
+										<li class="date">
+											{{ post.date | date: "%d de %B de %Y a las %H:%M hrs"}}
+										</li>
+									</ul>
+								</div>
+							</li>
+							{% endfor %}
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="row page_margin_top_section">
+				<div class="column column_3_4">
+					<ul class="footer_menu">
+						<li>
+							<h4><a href="category_world.html" title="World">Local</a></h4>
+						</li>
+						<li>
+							<h4><a href="category_health.html" title="Health">Nacional</a></h4>
+						</li>
+						<li>
+							<h4><a href="category_sports.html" title="Sports">Internacional</a></h4>
+						</li>
+						<li>
+							<h4><a href="category_science.html" title="Science">Deportes</a></h4>
+						</li>
+						<li>
+							<h4><a href="category_lifestyle.html" title="Lifestyle">Buenas Noticias</a></h4>
+						</li>
+					</ul>
+				</div>
+				<div class="column column_1_4">
+					<a class="scroll_top" href="#top" title="Scroll to top">Incio</a>
+				</div>
+			</div>
+			<div class="row copyright_row">
+				<div class="column column_2_3">
+					© 2021 <a href="https://quanticalabs.com" title="QuanticaLabs" target="_blank">Centinela Digital</a>
+					Chihuahua, Chihuahua. México.
+				</div>
+				<div class="column column_1_3">
+					<ul class="footer_menu">
+						<li>
+							<h6><a href="contact.html" title="Contact Us">Contact Us</a></h6>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="background_overlay"></div>
+	{% include js.html %}
+</div>
