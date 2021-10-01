@@ -3542,3 +3542,11 @@ body.lock-position {
   background-color: #555;
   margin-top: 50px;
 }
+
+.square-ad-head {
+  height: 220px;
+  width: 330px;
+  background-color: #555;
+  margin-top: 11px;
+  margin-bottom: 11px;
+}
