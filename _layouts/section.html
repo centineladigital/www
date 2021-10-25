@@ -1,6 +1,45 @@
 ---
 layout: default
+permalink: /section/
+title: Section
 ---
+
+<!-- TODO: VER PORQUE SECTION ESTA VACIO -->
+
+<div id="sections">
+	<p>
+		{{site.post[0].section}}
+	</p>
+	{% for section1 in site.section %}
+	<div class="section-group">
+		{% capture section_name %}{{ section1 | first }}{% endcapture %}
+		<div id="#{{ section_name | slugize }}"></div>
+		<h3 class="section-head">{{ section_name }}</h3>
+		<a name="{{ section_name | slugize }}"></a>
+		{% for post in site.section[section_name] %}
+		<article class="archive-item">
+			<h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+		</article>
+		{% endfor %}
+	</div>
+	{% endfor %}
+</div>
+
+<!-- <ul class="posts-list">
+
+	{% assign sectionName = page.section | default: page.title %}
+	{% for post in site.section[sectionName] %}
+	<li>
+		<h3>
+			<a href="{{ site.baseurl }}{{ post.url }}">
+				{{ post.title }}
+			</a>
+			<small>{{ post.date | date_to_string }}</small>
+		</h3>
+	</li>
+	{% endfor %}
+
+</ul> -->
 
 <div class="site_container">
 	<div class="header_container">

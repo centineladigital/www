@@ -241,7 +241,7 @@ layout: default
                   {{ page.title }}
                 </h1>
                 <ul class="post_details clearfix">
-                  <li class="detail category">En <a href="category_health.html" title="HEALTH">Health</a></li>
+                  <li class="detail category">En <a href="category_health.html" title="HEALTH">{{ page.section }}</a></li>
                   <li class="detail author">Por <a href="author.html" title="Anna Shubina">{{ page.author }}</a></li>
                   <li class="detail date">{{ page.date | date: "%d de %B de %Y a las %H:%M hrs" }}</li>
                 </ul>
@@ -320,7 +320,7 @@ layout: default
               </ul>
               <ul class="taxonomies categories right clearfix">
                 <li>
-                  <a href="category_health.html" title="HEALTH">HEALTH</a>
+                  <a href="category_health.html" title="HEALTH">{{ page.section }}</a>
                 </li>
               </ul>
             </div>
@@ -338,7 +338,7 @@ layout: default
                         post.title }}</a>
                     </h5>
                     <ul class="post_details simple">
-                      <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
+                      <li class="category"><a href="category_health.html" title="HEALTH">{{ post.section }}</a></li>
                       <li class="date">
                         {{ post.date }}
                       </li>
