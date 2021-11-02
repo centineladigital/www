@@ -540,7 +540,23 @@
             </li>
             {% endfor %}
           </ul>
-          <div class="square"></div>
+          <p>ANUNCIOOOOOOO</p>
+          <ul class="blog small_margin clearfix"></ul>
+            {% for ad in site.ads limit : 1, offset: 1 %}
+            <li class="ad" style="display: flex;">
+              <img src="{{ ad.image }}" class="img-responsive" />
+              <div class="ad-description">
+                <h5>{{ ad.title }} </h5>
+                <ul class="post_details simple">
+                  <li class="date">
+                    {{ ad.date | date: "%d de %B de %Y a las %H:%M hrs" }}
+                  </li>
+                </ul>
+              </div>
+            </li>
+            {% endfor%}
+          </ul>
+          <!-- <div class="square"></div> -->
           <h4 class="box_header page_margin_top_section">Más Información</h4>
           <div class="vertical_carousel_container clearfix">
             <ul
