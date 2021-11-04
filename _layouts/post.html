@@ -1,22 +1,18 @@
 ---
 layout: default
 ---
-
-<!-- <div class="container">
-  <div class="row">
-    <div class="col-lg-8 col-md-10 mx-auto post-body">
-      {% if page.image %}
-        <img src="{{ page.image }}" class="img-responsive post-image" alt="img" />
-      {% endif %}
-
-      <h1>{{ page.title }}</h1>
-
-      <h2>{{ page.description }}</h2>
-
-      {{ content }}
-    </div>
-  </div>
-</div> -->
+ 
+  <!-- <div class="post-categories">
+    {% if post %}
+    {% assign categories = post.section %}
+    {% else %}
+    {% assign categories = page.section %}
+    {% endif %}
+    {% for category in categories %}
+    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
+  </div> -->
 
   <div class="site_container">
     <div class="header_top_bar_container clearfix">
@@ -79,22 +75,8 @@ layout: default
     <div class="header_container">
       <div class="header clearfix">
         <div class="logo">
-          <div class="row">
-            <div class="column column_2_3">
-              <ul class="column column_1_2">
-                <div class="square-ad-head"></div>
-              </ul>
-              <ul class="column column_1_2">
-                <img src='/uploads/logo.jpeg' alt='img' width="330" height="220">
-                <h4>Noticias desde Chihuahua, Mexico</h4>
-              </ul>
-            </div>
-            <div class="column column_1_3">
-              <ul class="column column_1_3">
-                <div class="square-ad-head"></div>
-              </ul>
-            </div>
-          </div>
+          <img src='/uploads/logo.jpeg' alt='img' width="400" height="200">
+          <h4>Noticias desde Chihuahua, Mexico</h4>
         </div>
         <div class="placeholder">728 x 90</div>
       </div>
@@ -191,7 +173,7 @@ layout: default
       <div class="page_layout page_margin_top clearfix">
         <div class="row page_margin_top">
           <div class="column column_1_1">
-            <!-- <div class="horizontal_carousel_container small">
+            <div class="horizontal_carousel_container small">
               <ul
                 class="blog horizontal_carousel autoplay-1 scroll-1 visible-3 navigation-1 easing-easeInOutQuint duration-750">
                 {% for post in site.posts limit : 3 offset: 8 %}
@@ -213,23 +195,7 @@ layout: default
                 </li>
                 {% endfor %}
               </ul>
-            </div> -->
-          <!-- ADS -->
-          <div class="row">
-            <div class="column column_2_3">
-              <ul class="column column_1_2">
-                <div class="square-ad-head"></div>
-              </ul>
-              <ul class="column column_1_2">
-                <div class="square-ad-head"></div>
-              </ul>
             </div>
-            <div class="column column_1_3">
-              <ul class="column column_1_3">
-                <div class="square-ad-head"></div>
-              </ul>
-            </div>
-          </div>
           </div>
         </div>
         <hr class="divider page_margin_top">
@@ -241,7 +207,7 @@ layout: default
                   {{ page.title }}
                 </h1>
                 <ul class="post_details clearfix">
-                  <li class="detail category">En <a href="category_health.html" title="HEALTH">{{ page.section }}</a></li>
+                  <li class="detail category">En <a href="category_health.html" title="HEALTH">Health</a></li>
                   <li class="detail author">Por <a href="author.html" title="Anna Shubina">{{ page.author }}</a></li>
                   <li class="detail date">{{ page.date | date: "%d de %B de %Y a las %H:%M hrs" }}</li>
                 </ul>
@@ -320,7 +286,7 @@ layout: default
               </ul>
               <ul class="taxonomies categories right clearfix">
                 <li>
-                  <a href="category_health.html" title="HEALTH">{{ page.section }}</a>
+                  <a href="category_health.html" title="HEALTH">HEALTH</a>
                 </li>
               </ul>
             </div>
@@ -338,7 +304,7 @@ layout: default
                         post.title }}</a>
                     </h5>
                     <ul class="post_details simple">
-                      <li class="category"><a href="category_health.html" title="HEALTH">{{ post.section }}</a></li>
+                      <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
                       <li class="date">
                         {{ post.date }}
                       </li>
