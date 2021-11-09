@@ -27,7 +27,7 @@
     <nav>
       <ul class="sf-menu">
         <li class="submenu">
-          <a href="/local" title="Home">
+          <a href="/section/local" title="Home">
             Local
           </a>
         </li>
@@ -167,7 +167,7 @@
                     post.title }}</a>
                 </h2>
                 <ul class="post_details">
-                  <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
+                  <li class="category"><a href="category_world.html" title="WORLD">{{ post.section }}</a></li>
                   <li class="date">
                     {{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
                   </li>
@@ -189,7 +189,7 @@
                     post.title }}</a>
                 </h2>
                 <ul class="post_details">
-                  <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
+                  <li class="category"><a href="category_world.html" title="WORLD">{{ post.section }}</a></li>
                   <li class="date">
                     {{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
                   </li>
@@ -215,7 +215,7 @@
                       post.title }}</a>
                   </h5>
                   <ul class="post_details simple">
-                    <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
+                    <li class="category"><a href="category_health.html" title="HEALTH">{{ post.section }}</a></li>
                     <li class="date">
                       {{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
                     </li>
@@ -239,7 +239,7 @@
                       post.title }}</a>
                   </h2>
                   <ul class="post_details">
-                    <li class="category"><a href="category_world.html" title="WORLD">WORLD</a></li>
+                    <li class="category"><a href="category_world.html" title="WORLD">{{ post.section }}</a></li>
                     <li class="date">
                       {{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
                     </li>
@@ -260,7 +260,7 @@
                           post.title }}</a>
                       </h5>
                       <ul class="post_details simple">
-                        <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
+                        <li class="category"><a href="category_health.html" title="HEALTH">{{ post.section }}</a></li>
                         <li class="date">
                           {{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
                         </li>
@@ -276,7 +276,7 @@
                           post.title }}</a>
                       </h5>
                       <ul class="post_details simple">
-                        <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
+                        <li class="category"><a href="category_health.html" title="HEALTH">{{ post.section }}</a></li>
                         <li class="date">
                           {{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
                         </li>
@@ -396,7 +396,7 @@
                       post.title }}</a>
                   </h2>
                   <ul class="post_details">
-                    <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
+                    <li class="category"><a href="category_sports.html" title="SPORTS">{{ post.section }}</a></li>
                     <li class="date">
                       {{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
                     </li>
@@ -420,7 +420,7 @@
                         post.title }}</a>
                     </h5>
                     <ul class="post_details simple">
-                      <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
+                      <li class="category"><a href="category_sports.html" title="SPORTS">{{ post.section }}</a></li>
                       <li class="date">
                         {{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
                       </li>
@@ -438,7 +438,7 @@
                         post.title }}</a>
                     </h5>
                     <ul class="post_details simple">
-                      <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
+                      <li class="category"><a href="category_sports.html" title="SPORTS">{{ post.section }}</a></li>
                       <li class="date">
                         {{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
                       </li>
@@ -462,7 +462,7 @@
                       post.title }}</a>
                   </h2>
                   <ul class="post_details">
-                    <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
+                    <li class="category"><a href="category_sports.html" title="SPORTS">{{ post.section }}</a></li>
                     <li class="date">
                       {{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
                     </li>
@@ -486,7 +486,7 @@
                         post.title }}</a>
                     </h5>
                     <ul class="post_details simple">
-                      <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
+                      <li class="category"><a href="category_sports.html" title="SPORTS">{{ post.section }}</a></li>
                       <li class="date">
                         {{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
                       </li>
@@ -504,7 +504,7 @@
                         post.title }}</a>
                     </h5>
                     <ul class="post_details simple">
-                      <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
+                      <li class="category"><a href="category_sports.html" title="SPORTS">{{ post.section }}</a></li>
                       <li class="date">
                         {{ post.date | date: "%d de %B de %Y a las %H:%M hrs"}}
                       </li>
@@ -531,7 +531,7 @@
                     post.title }}</a>
                 </h5>
                 <ul class="post_details simple">
-                  <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
+                  <li class="category"><a href="category_sports.html" title="SPORTS">{{ post.section }}</a></li>
                   <li class="date">
                     {{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
                   </li>
@@ -557,7 +557,7 @@
                       post.title }}</a>
                   </h5>
                   <ul class="post_details simple">
-                    <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
+                    <li class="category"><a href="category_health.html" title="HEALTH">{{ post.section }}</a></li>
                     <li class="date">
                       {{ post.date | date: "%d de %B de %Y a las %H:%M hrs" }}
                     </li>
@@ -595,7 +595,7 @@
                     <h5><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ post.alt }}">{{
                         post.title }}</a></h5>
                     <ul class="post_details simple">
-                      <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
+                      <li class="category"><a href="category_health.html" title="HEALTH">{{ post.section }}</a></li>
                     </ul>
                   </div>
                 </li>
@@ -615,7 +615,7 @@
                     <h5><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ post.alt }}">{{
                         post.title }}</a></h5>
                     <ul class="post_details simple">
-                      <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
+                      <li class="category"><a href="category_health.html" title="HEALTH">{{ post.section }}</a></li>
                     </ul>
                   </div>
                 </li>
@@ -653,9 +653,9 @@
                     post.title }}</a>
                 </h5>
                 <ul class="post_details simple">
-                  <li class="category"><a href="category_sports.html" title="SPORTS">SPORTS</a></li>
+                  <li class="category"><a href="category_sports.html" title="SPORTS">{{ post.section }}</a></li>
                   <li class="date">
-                    {{ post.date }}
+                    {{ post.date | date: "%d de %B de %Y a las %H:%M hrs"}}
                   </li>
                 </ul>
               </div>
@@ -687,9 +687,9 @@
                       post.title }}</a>
                   </h5>
                   <ul class="post_details simple">
-                    <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
+                    <li class="category"><a href="category_health.html" title="HEALTH">{{ post.section }}</a></li>
                     <li class="date">
-                      {{ post.date }}
+                      {{ post.date | date: "%d de %B de %Y a las %H:%M hrs"}}
                     </li>
                   </ul>
                 </div>
@@ -715,9 +715,9 @@
                       post.title }}</a>
                   </h5>
                   <ul class="post_details simple">
-                    <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
+                    <li class="category"><a href="category_health.html" title="HEALTH">{{ post.section }}</a></li>
                     <li class="date">
-                      {{ post.date }}
+                      {{ post.date | date: "%d de %B de %Y a las %H:%M hrs"}}
                     </li>
                   </ul>
                 </div>
@@ -742,7 +742,7 @@
                       post.title }}</a>
                   </h5>
                   <ul class="post_details simple">
-                    <li class="category"><a href="category_health.html" title="HEALTH">HEALTH</a></li>
+                    <li class="category"><a href="category_health.html" title="HEALTH">{{ post.section }}</a></li>
                     <li class="date">
                       {{ post.date | date: "%d de %B de %Y a las %H:%M hrs"}}
                     </li>
