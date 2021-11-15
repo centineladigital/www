@@ -1,5 +1,5 @@
 ---
 layout: section
 title: Local
-permalink: /local/
+permalink: /section/local/
 ---

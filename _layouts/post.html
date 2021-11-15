@@ -1,22 +1,18 @@
 ---
 layout: default
 ---
-
-<!-- <div class="container">
-  <div class="row">
-    <div class="col-lg-8 col-md-10 mx-auto post-body">
-      {% if page.image %}
-        <img src="{{ page.image }}" class="img-responsive post-image" alt="img" />
-      {% endif %}
-
-      <h1>{{ page.title }}</h1>
-
-      <h2>{{ page.description }}</h2>
-
-      {{ content }}
-    </div>
-  </div>
-</div> -->
+ 
+  <!-- <div class="post-categories">
+    {% if post %}
+    {% assign categories = post.section %}
+    {% else %}
+    {% assign categories = page.section %}
+    {% endif %}
+    {% for category in categories %}
+    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
+  </div> -->
 
   <div class="site_container">
     <div class="header_top_bar_container clearfix">
@@ -221,7 +217,7 @@ layout: default
                 </li>
                 {% endfor %}
               </ul>
-            </div> -->
+            </div>  -->
           <!-- ADS -->
           <div class="row">
             <div class="column column_2_3">
@@ -250,7 +246,6 @@ layout: default
                 {% endfor %}
               </ul>
             </div>
-          </div>
           </div>
         </div>
         <hr class="divider page_margin_top">
