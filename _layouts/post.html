@@ -75,8 +75,30 @@ layout: default
     <div class="header_container">
       <div class="header clearfix">
         <div class="logo">
-          <img src='/uploads/logo.jpeg' alt='img' width="400" height="200">
-          <h4>Noticias desde Chihuahua, Mexico</h4>
+          <div class="row">
+            <div class="column column_2_3">
+              <ul class="column column_1_2">
+                {% for ad in site.ads limit: 1%}
+                <li class="ad">
+                  <img src="{{ ad.image }}" class="stretch" />
+                </li>
+                {% endfor %}
+              </ul>
+              <ul class="column column_1_2">
+                <img src='/uploads/logo.jpeg' alt='img' width="330" height="220">
+                <h4>Noticias desde Chihuahua, Mexico</h4>
+              </ul>
+            </div>
+            <div class="column column_1_3">
+              <ul class="column column_1_3">
+                {% for ad in site.ads limit: 1 %}
+                <li class="ad">
+                  <img src="{{ ad.image }}" class="stretch" />
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
         </div>
         <div class="placeholder">728 x 90</div>
       </div>
@@ -173,7 +195,7 @@ layout: default
       <div class="page_layout page_margin_top clearfix">
         <div class="row page_margin_top">
           <div class="column column_1_1">
-            <div class="horizontal_carousel_container small">
+            <!-- <div class="horizontal_carousel_container small">
               <ul
                 class="blog horizontal_carousel autoplay-1 scroll-1 visible-3 navigation-1 easing-easeInOutQuint duration-750">
                 {% for post in site.posts limit : 3 offset: 8 %}
@@ -192,6 +214,34 @@ layout: default
                       {{ post.date}}
                     </li>
                   </ul>
+                </li>
+                {% endfor %}
+              </ul>
+            </div>  -->
+          <!-- ADS -->
+          <div class="row">
+            <div class="column column_2_3">
+              <ul class="column column_1_2">
+                <!-- <div class="square-ad-head"></div> -->
+                {% for ad in site.ads limit: 1 %}
+                <li class="ad">
+                  <img src="{{ ad.image }}" class="stretch" />
+                </li>
+                {% endfor %}
+              </ul>
+              <ul class="column column_1_2">
+                {% for ad in site.ads limit: 1 %}
+                <li class="ad">
+                  <img src="{{ ad.image }}" class="stretch" />
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
+            <div class="column column_1_3">
+              <ul class="column column_1_3">
+                {% for ad in site.ads limit: 1 %}
+                <li class="ad">
+                  <img src="{{ ad.image }}" class="stretch" />
                 </li>
                 {% endfor %}
               </ul>
@@ -378,7 +428,15 @@ layout: default
                 <a class="more page_margin_top" href="#">Ver más</a>
               </div>
             </div>
-            <div class="square"></div>
+            <div class="square">
+              <ul>
+                {% for ad in site.ads limit: 1 %}
+                <li class="ad">
+                  <img src="{{ ad.image }}" class="stretch" />
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
             <h4 class="box_header page_margin_top_section">Recientes</h4>
             <div class="vertical_carousel_container clearfix">
               <ul
@@ -405,7 +463,15 @@ layout: default
                 {% endfor %}
               </ul>
             </div>
-            <div class="square"></div>
+            <div class="square">
+              <ul>
+                {% for ad in site.ads limit: 1 %}
+                <li class="ad">
+                  <img src="{{ ad.image }}" class="stretch" />
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
             <!-- <h4 class="box_header page_margin_top_section">Autores</h4>
             <ul class="authors rating clearfix">
               {% for post in site.posts limit : 1 offset: 25 %}
@@ -524,7 +590,15 @@ layout: default
                 <a href="category_lifestyle.html" title="LIFESTYLE">LIFESTYLE</a>
               </li>
             </ul>
-            <div class="square"></div>
+            <div class="square">
+              <ul>
+                {% for ad in site.ads limit: 1 %}
+                <li class="ad">
+                  <img src="{{ ad.image }}" class="stretch" />
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
             <h4 class="box_header page_margin_top_section">Tags</h4>
             <ul class="taxonomies clearfix page_margin_top">
               <li>

@@ -299,8 +299,15 @@ title: Section
 						</li>
 						{% endfor %}
 					</ul>
-					<div class="square"></div>
-					<div class="square"></div>
+					<div class="square">
+						<ul>
+							{% for ad in site.ads limit: 2 %}
+							<li class="ad">
+								<img src="{{ ad.image }}" class="stretch" />
+							</li>
+							{% endfor %}
+						</ul>
+					</div>
 				</div>
 			</div>
 		</div>
