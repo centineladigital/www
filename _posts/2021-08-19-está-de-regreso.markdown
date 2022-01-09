@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante realizó una transmisión en vivo para compartir más detalles de 'Equals', su próximo álbum inspirado por los cambios que ha sufrido su vida. "
-image: /uploads/2021/images-ed-sheeran-revela-fecha-lanzamiento_3_0_1196_744.jpg
-video: nil
-audio: nil
-alt: ¡Está de regreso! Ed Sheeran revela fecha de lanzamiento de su nuevo álbum
+image: "/uploads/2021/images-ed-sheeran-revela-fecha-lanzamiento_3_0_1196_744.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Está de regreso! Ed Sheeran revela fecha de lanzamiento de su nuevo álbum"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186876
 ---
 
 Ed Sheeran vuelve a la música y los escenarios por lo alto tras un descanso de dos años. El cantante británico sorprendió a sus seguidores al anunciar el lanzamiento de su nuevo álbum de estudio, que llevará por título Equals (Iguales), además reveló la fecha exacta en la que su quinto disco saldrá a la venta y estará disponible en las plataformas de streaming. 

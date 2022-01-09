@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "California reporta saturación hospitalaria mientras suben contagios de coronavirus"
-image: /uploads/2021/images-2505171.jpg
-video: nil
-audio: nil
-alt: Nueva cepa llega a frontera México-EU
+image: "/uploads/2021/images-2505171.jpg"
+video: "nil"
+audio: "nil"
+alt: "Nueva cepa llega a frontera México-EU"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 181821
 ---
 
 La nueva cepa de coronavirus fue localizada en un paciente de California, cerca de la frontera con México.

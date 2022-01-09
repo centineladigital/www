@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Inauguran segunda etapa del Sistema de Video vigilancia Urbana CERI-911."
-image: /uploads/2021/images-CORRAL.jpg
-video: /uploads/2021/videos-ML03_JAVIER_CORRAL.mp4
-audio: nil
-alt: Vigilarán 200 puntos más Ciudad Juárez
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "/uploads/2021/videos-ML03_JAVIER_CORRAL.mp4"
+audio: "nil"
+alt: "Vigilarán 200 puntos más Ciudad Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 186746
 ---
 
 Con la instalación de 200 puntos de monitoreo inteligente en la ciudad fronteriza fue iniciada la segunda etapa del Sistema de Video vigilancia Urbana CERI-911, la inauguración de esta etapa se encuentra dentro del maratón de obras que realiza el Gobernador Javier Corral Jurado.

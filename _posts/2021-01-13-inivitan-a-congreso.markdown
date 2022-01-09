@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Enfocado a áreas relacionadas con el campo y ecología."
-image: /uploads/2021/images-SAUL_LUJAN.jpeg
-video: nil
-audio: /uploads/2021/audio-MW05_SAUL_LUJAN.mp3
-alt: Inivitan a Congreso Internacional de Educación Agrícola 
+image: "/uploads/2021/images-SAUL_LUJAN.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MW05_SAUL_LUJAN.mp3"
+alt: "Inivitan a Congreso Internacional de Educación Agrícola "
 front: false
-section: Local
+section: "Local"
+news_id: 182113
 ---
 
 De forma virtual del 7 al 9 de abril del 2021 se llevará a cabo el Congreso Internacional de Educación Agrícola, esto por parte de la Facultad de Ciencias Agrotecnológicas de la UACH en coordinación con AMEAS. El cual va dirigido a alumnos e investigadores de las ciencias agrícolas y forestales.

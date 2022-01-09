@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este martes Maru Campos Galván, Gobernadora Electa de Chihuahua se reunió con Mónica Vargas, secretaria de la Función Pública Estatal, en donde se acordó iniciar formalmente con los trabajos de entrega-recepción."
-image: /uploads/2021/images-foto.jpeg
-video: /uploads/2021/videos-WhatsApp_Video_2021-06-29_at_14.26.51.mp4
-audio: nil
-alt: Arranca la Gobernadora Maru Campos y su equipo proceso de transición
+image: "/uploads/2021/images-foto.jpeg"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-06-29_at_14.26.51.mp4"
+audio: "nil"
+alt: "Arranca la Gobernadora Maru Campos y su equipo proceso de transición"
 front: false
-section: Local
+section: "Local"
+news_id: 185303
 ---
 
 Arranca Maru Campos y su equipo proceso de transición; se reúne con la Secretaría de Función Pública Estatal

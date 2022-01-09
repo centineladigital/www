@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Resulta que el Cepillo se ha convertido en una especie de policía y guía para los jugadores más jóvenes, a quienes suele aconsejar para que no se vayan tanto de fiesta y descuiden sus carreras"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Oribe Peralta seguiría en Chivas, pero con reducción salarial
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Oribe Peralta seguiría en Chivas, pero con reducción salarial"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187744
 ---
 
 Existe la posibilidad de que el actual no sea el último torneo de Oribe Peralta en el Guadalajara, aunque —si se queda— sería con un considerable descenso en el monto de su salario.

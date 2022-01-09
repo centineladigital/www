@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se invita a la ciudadanía en general a esta plática"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Realizará Gobierno Municipal segundo curso de poda el próximo 5 de febrero
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Realizará Gobierno Municipal segundo curso de poda el próximo 5 de febrero"
 front: false
-section: Local
+section: "Local"
+news_id: 182664
 ---
 
 Tras el éxito obtenido en el primer curso de poda que ofrecido por parte del Gobierno Municipal el pasado 16 de enero, se abrió una segunda fecha, misma a desarrollarse el próximo lunes 8 de febrero a las 10 de la mañana a través de la plataforma Zoom.

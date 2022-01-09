@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Dentro de los próximos días que vienen serán de una de un servicio muy limitado."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-MM07_JAVIER_CORRAL.mp3
-alt: Limitado servicio de gas durante una semana
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM07_JAVIER_CORRAL.mp3"
+alt: "Limitado servicio de gas durante una semana"
 front: false
-section: Local
+section: "Local"
+news_id: 182970
 ---
 
 Durante una semana estará limitado el servicio de gas natural, señaló el Gobernador del Estado, Javier Corral Jurado, esto luego de dar a conocer sector industrial Ciudad Juárez se les ha suspendido el servicio de gas natural. Destacando que se dará prioridad a los hospitales.

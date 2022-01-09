@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El ex mánager de Juan Gabriel sigue asegurando que el cantante sigue vivo y que este 2021 reaparecerá. "
-image: /uploads/2021/images-joaquin-munoz-juan-gabriel-vivo_48_0_1045_650.jpg
-video: nil
-audio: nil
-alt: Reaparecerá este 2021 y está festejando su cumpleaños -  Ex mánager de Juan Gabriel
+image: "/uploads/2021/images-joaquin-munoz-juan-gabriel-vivo_48_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reaparecerá este 2021 y está festejando su cumpleaños -  Ex mánager de Juan Gabriel"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181963
 ---
 
 Este 7 de diciembre Juan Gabriel cumpliría 71 años, desde que murió el Divo de Juárez, mucho se ha especulado, sobre todo que aún sigue vivió, algo que asegura Joaquín Muñoz, ex mánager del cantautor. Muñoz en diversas ocasiones ha mencionado que el intérprete de “Amor eterno” está vivo y que muy pronto reaparecerá. En una entrevista para el programa De Primera Mano, Joaquín Muñoz, aseguró que este día Juan Gabriel está celebrando su cumpleaños y que incluso cuida su salud ahora con la pandemia derivada del coronavirus.

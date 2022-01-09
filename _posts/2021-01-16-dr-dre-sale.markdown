@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Después de 10 días en el hospital, el rapero Dr Dre fue dado de alta después de sufrir una aneurisma."
-image: /uploads/2021/images-el-rapero-ya-fue-dado.jpg
-video: nil
-audio: nil
-alt: Dr Dre sale del hospital tras aneurisma cerebral que sufrió
+image: "/uploads/2021/images-el-rapero-ya-fue-dado.jpg"
+video: "nil"
+audio: "nil"
+alt: "Dr Dre sale del hospital tras aneurisma cerebral que sufrió"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182204
 ---
 
 El rapero Andre Romelle Young, mejor conocido por su nombre artístico Dr Dre, hace 10 días fue hospitalizado después de sufrir una aneurisma, pero afortunadamente el músico ya fue dado de alta y se encuentra en su casa. 

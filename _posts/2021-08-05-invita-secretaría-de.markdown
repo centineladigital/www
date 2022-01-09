@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Todos los jueves del mes de agosto, a partir de hoy, se presentarán libros de escritoras y escritores chihuahuenses en Plaza Cultural Los Laureles"
-image: /uploads/2021/images-WhatsApp_Image_2021-08-05_at_13.08.26.jpeg
-video: nil
-audio: nil
-alt: Invita Secretaría de Cultura  a las Jornadas Bárbaras en la Ciudad de Chihuahua
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-05_at_13.08.26.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Invita Secretaría de Cultura  a las Jornadas Bárbaras en la Ciudad de Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 186360
 ---
 
 La Secretaría de Cultura invita a la ciudadanía a participar en las Jornadas Bárbaras 2021, una serie de presentaciones de libros de la colección Bárbaros ilustrados que publica la dependencia estatal, las cuales en esta edición, se llevarán a cabo todos los jueves del mes de agosto.

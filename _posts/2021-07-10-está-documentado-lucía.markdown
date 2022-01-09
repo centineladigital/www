@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Lucía Méndez contó que supuestamente en una ocasión tuvo un misterioso encuentro con el dios Quetzalcóatl; esto es lo que vivió la actriz. "
-image: /uploads/2021/images-lucia-mendez-conto-contacto-dios.jpg
-video: nil
-audio: nil
-alt: Está documentado -  Lucía Méndez asegura tuvo un encuentro con Quetzalcóatl
+image: "/uploads/2021/images-lucia-mendez-conto-contacto-dios.jpg"
+video: "nil"
+audio: "nil"
+alt: "Está documentado -  Lucía Méndez asegura tuvo un encuentro con Quetzalcóatl"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185538
 ---
 
 Lucía Méndez, aunque mantiene su vida lo más privada posible, en ocasiones le cuenta a los medios de comunicación algunas anécdotas que dejan a muchos sin palabras, ahora la actriz aseguró que en una ocasión tuvo un encuentro con el dios azteca Quetzalcóatl. 

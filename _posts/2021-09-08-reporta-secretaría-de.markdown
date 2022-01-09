@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El reporte estatal Covid-19 de la Secretaría de Salud refleja que al 08 de septiembre se tiene un total de 76 mil 310 casos (+121) casos confirmados de Covid-19."
-image: /uploads/2021/images-WhatsApp_Image_2021-09-08_at_12.34.06.jpeg
-video: nil
-audio: nil
-alt: Reporta Secretaría de Salud 121 nuevos contagios de Covid-19
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-08_at_12.34.06.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Reporta Secretaría de Salud 121 nuevos contagios de Covid-19"
 front: false
-section: Local
+section: "Local"
+news_id: 187545
 ---
 
 Luego de que se confirmaran 121 casos nuevos en Juárez, Chihuahua, Hidalgo del Parral, Cuauhtémoc, Delicias, Ojinaga, Camargo, Guachochi, Jiménez, Bocoyna, Meoqui, Buenaventura, Allende, Guazapares, Santa Bárbara, Rosales, Julimes, Matamoros, San Francisco del Oro, San Francisco de Conchos, Carichí y Morelos.

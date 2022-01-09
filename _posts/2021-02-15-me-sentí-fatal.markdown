@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Danna Paola reveló la vez que en España le pusieron algo en su bebida para querer sobrepasarse. Contó cómo pudo salir de esa situación que la llevó hasta el hospital. "
-image: /uploads/2021/images-danna_drogada.jpg
-video: nil
-audio: nil
-alt: Me sentí fatal -  Danna Paola revela que fue drogada en España; terminó en el hospital
+image: "/uploads/2021/images-danna_drogada.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me sentí fatal -  Danna Paola revela que fue drogada en España; terminó en el hospital"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182932
 ---
 
 Danna Paola, famosa actriz y cantante, rompió el silencio sobre algo fuerte que vivió en España cuando grababa la serie Élite de Netflix. La intérprete de Sodio externó su vivencia para alertar a más mujeres. En un bar la joven fue drogada con una bebida. ¿Qué fue lo que ocurrió? Te contamos lo que reveló Danna Paola y la forma en la que pudo librarse de una situación peor, pues cree que fue un grupo de hombres los que le colocaron algo a su bebida. En entrevista con Yordi Rosado, la famosa contó la vez que sintió que casi no la contaba a raíz de haber sido drogada con su bebida. Episodio de su vidaque muy pocas personas saben, pues le ocurrió mientras grababa Élite de Netflix en España.

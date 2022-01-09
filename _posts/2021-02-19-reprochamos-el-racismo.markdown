@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pedro Gracia, auxiliar técnico, consideró que en el cuadro potosino no tienen esa ideología. “No venismo a atacar”, apunta"
-image: /uploads/2021/images-2532302.jpg
-video: nil
-audio: nil
-alt: Reprochamos el racismo, dicen en San Luis
+image: "/uploads/2021/images-2532302.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reprochamos el racismo, dicen en San Luis"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183035
 ---
 
 El auxiliar técnico del Atlético de San Luis, Pedro Gracia, salió a la conferencia de prensa luego del partido ante Santos, debido a la expulsión del timonel Leonel Rocco y dejó en claro que en el equipo no se comparte la ideología del racismo, esto luego de las acusaciones del capitán de los de Torreón, de que su compañero Félix Torres fue víctima de palabras racistas.

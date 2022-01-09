@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente Andrés Manuel López Obrador manifiesta su gusto por la salud del subsecretario de Salud; lo importante es que ya se recuperó, lo demás tiene que ver con política, dice"
-image: /uploads/2021/images-2545283.jpg
-video: nil
-audio: nil
-alt: López-Gatell vence al Covid y reaparece en reunión de gabinete
+image: "/uploads/2021/images-2545283.jpg"
+video: "nil"
+audio: "nil"
+alt: "López-Gatell vence al Covid y reaparece en reunión de gabinete"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183418
 ---
 
 A unos días de la polémica acerca del subsecretario de Salud, Hugo López-Gatell, a quien se le vio paseando pese a su contagio por Covid-19, el presidente Andrés Manuel López Obrador anunció que éste ya venció la enfermedad y hoy participó en la reunión de gabinete.

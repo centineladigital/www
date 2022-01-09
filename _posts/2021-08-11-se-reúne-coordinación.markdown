@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En 3 diferentes sesiones de trabajo con el equipo de la Gobernadora Electa, aborda temas sobre indicadores de eficiencia y eficacia, lo que le permitió un ahorro de más de 35 mdp, en comparación con la anterior administración estatal"
-image: /uploads/2021/images-REUNIÓN_CRP_ENTREGA_RECEPCIÓN__(3).JPG
-video: nil
-audio: nil
-alt: Se reúne Coordinación de Relaciones Públicas del Estado  con equipo de transición
+image: "/uploads/2021/images-REUNIÓN_CRP_ENTREGA_RECEPCIÓN__(3).JPG"
+video: "nil"
+audio: "nil"
+alt: "Se reúne Coordinación de Relaciones Públicas del Estado  con equipo de transición"
 front: false
-section: Local
+section: "Local"
+news_id: 186571
 ---
 
 Con el objetivo de llevar a cabo un cambio óptimo y planeado para la administración entrante, la Coordinación de Relaciones Públicas encabezada por Alejandra Chavira, junto con su equipo de colaboradores, han recibido durante este mes de agosto al equipo de transición de la Gobernadora Electa.

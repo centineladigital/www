@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Sin embargo pudieran extenderse hasta el viernes."
-image: /uploads/2021/images-IDELFONSO.jpg
-video: nil
-audio: /uploads/2021/audio-ML02_IDELFONSO_DIAS.mp3
-alt: Esperan lluvias hasta el miércoles
+image: "/uploads/2021/images-IDELFONSO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML02_IDELFONSO_DIAS.mp3"
+alt: "Esperan lluvias hasta el miércoles"
 front: false
-section: Local
+section: "Local"
+news_id: 185280
 ---
 
 Según el pronóstico meteorológico se esperan lluvias durante la semana, sin embargo, la mayor posibilidad de precipitaciones será hasta el miércoles según fue dado a conocer por parte del meteorólogo perteneciente a la Unidad Estatal de Protección Civil, Idelfonso Díaz.

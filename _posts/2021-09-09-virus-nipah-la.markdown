@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El estado indio de Kerala busca frenar un posible brote de la enfermedad por Nipah, que ya mató a un niño y tiene en cuarentena a cientos; no existe tratamiento contra el virus y su mortalidad va del 40% al 75%, mucho mayor que el Covid-19 "
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Virus Nipah, la mortal enfermedad que está golpeando a India
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Virus Nipah, la mortal enfermedad que está golpeando a India"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187571
 ---
 
 Nueva Delhi.- El estado de Kerala, en el sur de la India, redobla esfuerzos para frenar un posible brote del letal virus Nipah, incluso en momentos en que la provincia continúa enfrentándose al mayor número de casos de coronavirus en el país.

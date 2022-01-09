@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ingrid Coronado rompió el silencio sobre el acoso que vivió por parte de una revista. Narró que destruyeron su autoestima y dañaron su carrera y rompieron a su familia. "
-image: /uploads/2021/images-ingrid-coronado-expone-sufrio-culpa.jpg
-video: nil
-audio: nil
-alt: Atacada y condenada -  Ingrid Coronado expone el daño que causó la revista que golpeó su imagen
+image: "/uploads/2021/images-ingrid-coronado-expone-sufrio-culpa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Atacada y condenada -  Ingrid Coronado expone el daño que causó la revista que golpeó su imagen"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186877
 ---
 
 Ingrid Coronado, ex conductora de Venga la Alegría de TV Azteca, recientemente dio de qué hablar tras ganar una demanda legal ante la Suprema Corte de Justicia de la Nación (SCJN) contra una revista que vulneró su privacidad y la de sus hijos que tuvo con Charly López y Fernando del Solar. Y es que, según reveló, se sentía acosada por parte de la revista a tal punto que la angustia y el llanto se hicieron presentes en varias ocasiones. 

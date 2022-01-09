@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con su fortuna de mil millones de dólares, Kim Kardashian ingresó a la lista de milmillonarios de Forbes. "
-image: /uploads/2021/images-la-modelo-ha-impuesto-moda_0_20_399_248.jpg
-video: nil
-audio: nil
-alt: Forbes. Kim, una de las más ricas del mundo
+image: "/uploads/2021/images-la-modelo-ha-impuesto-moda_0_20_399_248.jpg"
+video: "nil"
+audio: "nil"
+alt: "Forbes. Kim, una de las más ricas del mundo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183733
 ---
 
 Con su fortuna de mil millones de dólares, Kim Kardashian ingresó a la lista de milmillonarios de Forbes. El éxito en sus negocios de maquillaje y ropa para moldear el cuerpo, KKW Beauty y Skims, la han convertido en una de las mujeres más ricas del mundo. Forbes, que elabora listas sobre las personas más ricas del mundo, indicó que la más famosa de las hermanas Kardashian, de 40 años, debutó en el ránking de milmillonarios también gracias a los ingresos derivados de sus acuerdos publicitarios y "pequeñas inversiones". La protagonista del reality, Keeping Up With The Kardashians, el cual se convirtió en una importante plataforma para ella y su familia, al proyectar sus romances, pleitos, casamientos, alumbramientos y hasta divorcios; creó en 2017 KKW Beauty siguiendo los pasos de su hermanastra Kylie Jenner y el año pasado vendió el 20 % de su propiedad al conglomerado Coty por unos 200 millones de dólares. 

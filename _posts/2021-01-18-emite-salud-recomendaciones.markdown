@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El uso inadecuado de calentones, estufas o líquidos calientes puede provocar distintos accidentes que afectan la salud"
-image: /uploads/2021/images-Temporada_de_frío.JPG
-video: nil
-audio: nil
-alt: Emite Salud recomendaciones para evitar accidentes en temporada invernal
+image: "/uploads/2021/images-Temporada_de_frío.JPG"
+video: "nil"
+audio: "nil"
+alt: "Emite Salud recomendaciones para evitar accidentes en temporada invernal"
 front: false
-section: Local
+section: "Local"
+news_id: 182237
 ---
 
 Durante esta temporada invernal se incrementa el uso de calefactores de leña, gas u otro combustible, por lo que es necesario revisar su instalación y uso adecuado para evitar accidentes dentro de los hogares.

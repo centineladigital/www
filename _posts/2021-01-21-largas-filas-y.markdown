@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Personal de primera línea y administrativos formaron una fila de más de 300 metros desde las cinco de la mañana hasta el mediodía de este jueves para recibir la dosis."
-image: /uploads/2021/images-2516035.jpg
-video: nil
-audio: nil
-alt: Largas filas y desorganización en la segunda fase de vacunación en Oaxaca
+image: "/uploads/2021/images-2516035.jpg"
+video: "nil"
+audio: "nil"
+alt: "Largas filas y desorganización en la segunda fase de vacunación en Oaxaca"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182333
 ---
 
 Una segunda remesa de tres mil 900 vacunas contra el covid-19 llegaron vía aérea a Oaxaca.

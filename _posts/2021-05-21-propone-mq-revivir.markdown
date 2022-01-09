@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se reúne con artirtas que se suman a su proyecto."
-image: /uploads/2021/images-MARCO.jpg
-video: nil
-audio: /uploads/2021/audio-MV02_MARCO_QUEZADA.mp3
-alt: Propone MQ revivir el centro histórico con actividades
+image: "/uploads/2021/images-MARCO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV02_MARCO_QUEZADA.mp3"
+alt: "Propone MQ revivir el centro histórico con actividades"
 front: false
-section: Local
+section: "Local"
+news_id: 184596
 ---
 
 A través de una serie de actividades el candidato de Morena, Marco Adán Quezada Martínez, propuso revivir el centro histórico de la ciudad. Esto tras una reunión con el Colectivo de Arte y Cultura. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El entrenador de la selección Sub 23 reconoció que México no es una de las selecciones favoritas en los Juegos Olímpicos de Tokio "
-image: /uploads/2021/images-mexico-grupo-tokio-2021.jpg
-video: nil
-audio: nil
-alt: Nosotros vamos detrás -  Jaime Lozano descarta al Tri como favorito al oro en Tokio
+image: "/uploads/2021/images-mexico-grupo-tokio-2021.jpg"
+video: "nil"
+audio: "nil"
+alt: "Nosotros vamos detrás -  Jaime Lozano descarta al Tri como favorito al oro en Tokio"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185694
 ---
 
 El próximo 22 de julio la selección mexicana debutará en los Juegos Olímpicos de Tokio. El grupo del Tricolor no es nada sencillo, sobre todo por la presencia de Francia, pero Jaime Lozano, confía plenamente en su equipo, en lo que han trabajado, aunque admitió que en la justa no son uno de los conjuntos favoritos.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La noticia sobre el fallecimiento de MC Kevin conmocionó a la comunidad de Brasil y es que aunque el cantante logró entrar al hospital en estado grave y de que recibió ayuda médica no lograron salvarle la vida."
-image: /uploads/2021/images-fallecio-famoso-cantante-brasileno-mc.jpg
-video: nil
-audio: nil
-alt: Murió MC Kevin, famoso cantante brasileño, tras caer del quinto piso de un hotel
+image: "/uploads/2021/images-fallecio-famoso-cantante-brasileno-mc.jpg"
+video: "nil"
+audio: "nil"
+alt: "Murió MC Kevin, famoso cantante brasileño, tras caer del quinto piso de un hotel"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184518
 ---
 
 MC Kevin, famoso cantante de funk brasileño, murió. ¿Qué fue lo que sucedió? De acuerdo con lo revelado por medios locales e internacionales, el famoso falleció tras caer del quinto piso de un hotel ubicado en Río de Janeiro, pues quería presuntamente lanzarse desde lo alto de su habitación a la piscina. Sin embargo, hay otras versiones que rondan sobre su muerte. Te contamos lo que sabemos sobre este caso. La noticia sobre el fallecimiento de MC Kevin conmocionó a la comunidad de Brasil y es que aunque el cantante logró entrar al hospital en estado grave y de que recibió ayuda médica no lograron salvarle la vida. El diario O Dia, que tuvo acceso a un informe policial, comunicó que la víctima se "habría golpeado la cabeza al intentar saltar hacia la piscina". 

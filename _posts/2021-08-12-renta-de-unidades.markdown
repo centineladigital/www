@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Es solamente un porcentaje, alrededor de 450 unidades las que se encuentran bajo arrendamiento, señaló César Augusto Peniche Espejel"
-image: /uploads/2021/images-p.png
-video: /uploads/2021/videos-MJ05_CESAR_PENICHE.mp4
-audio: nil
-alt: Renta de unidades no afectará servicio -  Fiscalía
+image: "/uploads/2021/images-p.png"
+video: "/uploads/2021/videos-MJ05_CESAR_PENICHE.mp4"
+audio: "nil"
+alt: "Renta de unidades no afectará servicio -  Fiscalía"
 front: false
-section: Local
+section: "Local"
+news_id: 186625
 ---
 
 Debido a que con la conclusión de la administración estatal actual concluyen los contratos de arrendamiento de patrullas dentro de la Físcalia General del Estado, el término de estos contratos no representa que se deje de lado el patrullaje, señaló el titular de la dependencia César Augusto Peniche Espejel. 

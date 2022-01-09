@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Acreditadas 31 muertes en las últimas 24 horas."
-image: /uploads/2021/images-ARTURO1.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01_ARTURO_VALENZUELA.mp3
-alt: Detectan 222 nuevos casos en 24 horas
+image: "/uploads/2021/images-ARTURO1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01_ARTURO_VALENZUELA.mp3"
+alt: "Detectan 222 nuevos casos en 24 horas"
 front: false
-section: Local
+section: "Local"
+news_id: 183276
 ---
 
 En tan sólo 24 horas se han detectado 222 personas que dieron positivo a la prueba PCR, mientras que se confirmaron 31 muertes por causa de este padecimiento. Con lo que se llega a 55 mil 086 casos y 5 mil 352 decesos desde que inició la pandemia, según fue dado a conocer por el Director Médico Zona Norte Arturo Valenzuela Zorrilla.

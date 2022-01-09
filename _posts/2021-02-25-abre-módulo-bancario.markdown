@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Beneficiará a docentes, trabajadores y alumnos."
-image: /uploads/2021/images-LUIS_FIERRO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ03_LUIS_FIERRO.mp3
-alt: Abre Módulo bancario dentro de la UACH
+image: "/uploads/2021/images-LUIS_FIERRO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ03_LUIS_FIERRO.mp3"
+alt: "Abre Módulo bancario dentro de la UACH"
 front: false
-section: Local
+section: "Local"
+news_id: 183164
 ---
 
 Este jueves se dio a conocer la apertura de un módulo bancario dentro de la UACH, con lo que se busca el que trabajadores y alumnos puedan tener una cercanía que facilite los procesos de los trabajadores, según lo dio a conocer el Rector de la Universidad Autónoma de Chihuahua, Luis Fierro.

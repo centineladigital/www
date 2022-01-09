@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El gobernador de Chihuahua sostuvo que la denuncia por un presunto desvío de más de 8 mil millones de pesos está infundada"
-image: /uploads/2021/images-javier-corral-amlo-dispuesto-lograr_0_27_1200_745.jpg
-video: nil
-audio: nil
-alt: Manlio Fabio Beltrones, detrás de la denuncia en mi contra, dice Corral
+image: "/uploads/2021/images-javier-corral-amlo-dispuesto-lograr_0_27_1200_745.jpg"
+video: "nil"
+audio: "nil"
+alt: "Manlio Fabio Beltrones, detrás de la denuncia en mi contra, dice Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 186095
 ---
 
 Tras la denuncia que interpuso el diputado del PRI, Omar Bazán, ante la Fiscalía General de la República por el presunto desvío de 8 mil millones de pesos contra el gobernador de Chihuahua, Javier Corral aseguró que Manlio Fabio Beltrones está detrás de ella. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Si no se da una respuesta puntual de la federación las estrategias serán insuficientes."
-image: /uploads/2021/images-RIGGS.jpg
-video: nil
-audio: /uploads/2021/audio-MV05_MIGEL_RIGGS.mp3
-alt: Necesario fortalecer municipios ante tercera ola COVID
+image: "/uploads/2021/images-RIGGS.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05_MIGEL_RIGGS.mp3"
+alt: "Necesario fortalecer municipios ante tercera ola COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 183793
 ---
 
 Luego de que esta llegando una tercera ola de casos de COVID, es necesario coadyuvar y municipalizar las estrategias contra la pandemia, afirmó el diputado federal Miguel Riggs, quien señaló que buscará que se dé una mejor forma de tratar esta problemática que tanto ha lastimado a la población.

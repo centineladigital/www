@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los hijos de Alejandro Fernández dedicaron unas palabras a El Charro de Huentitán tras ser hospitalizado de emergencia por una caída. "
-image: /uploads/2021/images-los_nietos.jpg
-video: nil
-audio: nil
-alt: Eres un guerrero -  Alex y Camila Fernández mandan mensaje a su abuelo tras ser hospitalizado
+image: "/uploads/2021/images-los_nietos.jpg"
+video: "nil"
+audio: "nil"
+alt: "Eres un guerrero -  Alex y Camila Fernández mandan mensaje a su abuelo tras ser hospitalizado"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186530
 ---
 
 Desde que se dio a conocer que Vicente Fernández fue hospitalizado de emergencia debido a una caída, los medios de comunicación han estado al pendiente del cantante, pero también su familia, es por eso que los hijos de El Potrillo, Alex y Camila decidieron mandarle unos mensajes a su abuelo. 

@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "El presidente recuerda al actor mexicano, así como al tierno gato al que prestó su voz en ‘Don Gato y su Pandilla’; destaca el apoyo que recibió para impulsar la 4T"
-image: /uploads/2021/images-2511811.jpg
-video: nil
-audio: nil
-alt: Recuerda López Obrador al ‘Tata’ Arvizu y a Benito Bodoque
+image: "/uploads/2021/images-2511811.jpg"
+video: "nil"
+audio: "nil"
+alt: "Recuerda López Obrador al ‘Tata’ Arvizu y a Benito Bodoque"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182129
 ---
 
 A casi 7 años del fallecimiento de Jorge Arvizu, El Tata, voz de Benito Bodoque en Don Gato y su Pandilla, el presidente Andrés Manuel López Obrador lo recordó con afectó, destacó su trabajo y agradeció el apoyo a su movimiento.

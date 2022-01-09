@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con tantos de Lucas Rodríguez por parte de la visita y Gabriel Fernández por los locales, Tijuana y Bravos repartieron puntos "
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Con un jugador menos, Xolos resiste empate ante Juárez en la jornada 4 de la Liga MX
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Con un jugador menos, Xolos resiste empate ante Juárez en la jornada 4 de la Liga MX"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186704
 ---
 
 FC Juárez y Xolos de Tijuana no pudieron sacarse diferencia en un Estadio Olímpico Benito Juárez con capacidad reducida y empataron a un gol en uno de los primeros encuentros de la jornada 4 del Apertura 2021 de la Liga MX. 

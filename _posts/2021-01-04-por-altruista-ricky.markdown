@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El reconocimiento será el próximo 17 de enero en el marco de los Premios Internacionales de la Paz. "
-image: /uploads/2021/images-ricky-martin-sony-music.jpg
-video: nil
-audio: nil
-alt: ¡Por altruista! Ricky Martin recibirá un homenaje gracias a su labor filantrópica
+image: "/uploads/2021/images-ricky-martin-sony-music.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Por altruista! Ricky Martin recibirá un homenaje gracias a su labor filantrópica"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181855
 ---
 
 Ricky Martin será reconocido por su trayectoria filantrópica durante la primera entrega de los Premios Internacionales de la Paz. Así lo informó este lunes la organización sin fines de lucro PeaceTech Lab, encargada del evento. El cantante puertorriqueño formará parte de un selecto grupo de líderes de opinión y gestores de cambio, que incluyen a la activista Opal Tometi, cofundadora del movimiento Black Lives Matter, y Antonhy Fauci, jefe epidemiólogo de Estados Unidos. El homenaje será el próximo 17 de enero. 

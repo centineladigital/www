@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Deja la dirigencia Rosa Isela Gaytán."
-image: /uploads/2021/images-monica.jpg
-video: nil
-audio: /uploads/2021/audio-MM06_ALEJANDRO_DOMINGUEZ.mp3
-alt: Encabeza Mónica Meléndez ONMIPRI
+image: "/uploads/2021/images-monica.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM06_ALEJANDRO_DOMINGUEZ.mp3"
+alt: "Encabeza Mónica Meléndez ONMIPRI"
 front: false
-section: Local
+section: "Local"
+news_id: 183527
 ---
 
 Este martes fue tomada la protesta a Mónica Meléndez como dirigente estatal del Organismo Nacional de Mujeres Priistas, denominada ONMPRI por sus siglas, este organismo que busca el generar acciones que propicien la participación de las mujeres.

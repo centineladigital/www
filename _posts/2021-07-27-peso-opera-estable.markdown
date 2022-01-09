@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Conoce el precio del dólar hoy martes en bancos"
-image: /uploads/2021/images-tipo-de-cambio-peso-dolar-23.jpg
-video: nil
-audio: nil
-alt: Peso opera estable, atento a tensiones entre China-EU y reunión de la Fed
+image: "/uploads/2021/images-tipo-de-cambio-peso-dolar-23.jpg"
+video: "nil"
+audio: "nil"
+alt: "Peso opera estable, atento a tensiones entre China-EU y reunión de la Fed"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186011
 ---
 
 Al iniciar operaciones el precio del dólar hoy martes fue de hasta 20.46 pesos en bancos. En tanto, el tipo de cambio interbancario se ubica en 20.00 pesos por dólar, con una pérdida de 0.12 por ciento.Citibanamex vende el dólar hasta en 20.46 pesos, mientras BBVA México lo hace en 20.24, Banorte en 20.30 pesos y Banco Azteca en 20.04 unidades. El peso operaba con pocos cambios ante la cautela de los inversores en medio de las tensiones financieras entre China y Estados Unidos, y a la espera de la decisión de política monetaria de la Reserva Federal mañana. 

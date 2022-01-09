@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Niñas y niños recibieron en premio paquetes de libros, útiles escolares,  juegos de mesa como ajedrez, dominó y acordes a su edad; el evento forma parte de las actividades del primer aniversario de este  portal digital."
-image: /uploads/2021/images-Ganadores_concurso_DiverTT-3.jpg
-video: nil
-audio: nil
-alt: Premia Seech a las y los estudiantes ganadores del concurso  de la revista electrónica DivierTT 
+image: "/uploads/2021/images-Ganadores_concurso_DiverTT-3.jpg"
+video: "nil"
+audio: "nil"
+alt: "Premia Seech a las y los estudiantes ganadores del concurso  de la revista electrónica DivierTT "
 front: false
-section: Local
+section: "Local"
+news_id: 185706
 ---
 
 En las instalaciones de Servicios Educativos del Estado de Chihuahua (Seech), la Secretaría de Educación y Deporte (SEyD), llevó a cabo la entrega de premios a 29 alumnas y alumnos de nivel primaria, ganadores del concurso de la revista electrónica DivierTT.

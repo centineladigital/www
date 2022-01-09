@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El único esfuerzo que el artista colombiano ha tratado de hacer es el de derrumbar el muro que existe entre su vida personal y su vida artística. "
-image: /uploads/2021/images-disco-manos-album-cuidado-detalle.jpg
-video: nil
-audio: nil
-alt: Un reflejo de lo que soy -  Camilo revela qué lo inspira para crear música
+image: "/uploads/2021/images-disco-manos-album-cuidado-detalle.jpg"
+video: "nil"
+audio: "nil"
+alt: "Un reflejo de lo que soy -  Camilo revela qué lo inspira para crear música"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183989
 ---
 
 Durante un encuentro virtual para hablar sobre su segundo disco, Mis manos, Camilo reveló cuál es su inspiración para crear música y señaló que el "único esfuerzo" que ha tratado de hacer en su vida es el de dejar de separar su vida personal y su obra artística para conseguir que sus canciones "sean cada vez un reflejo más honesto y más real" de él mismo. "La inspiración nace en el mejor de los casos sin esfuerzo, mientras más te encargas de empujarla y batallar para que avance, más la frustras", dijo el cantante colombiano. 

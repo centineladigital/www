@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "José es un hombre normal, con alegrías y con pruebas, aseguró el reconocido artista, quien abrió una ventana hacia su vida y salud mental en el documental 'The Boy From Medellin'. "
-image: /uploads/2021/images-j-balvin.jpg
-video: nil
-audio: nil
-alt: A veces se nos olvida lo que José necesita -  J Balvin revela cómo maneja su vida privada
+image: "/uploads/2021/images-j-balvin.jpg"
+video: "nil"
+audio: "nil"
+alt: "A veces se nos olvida lo que José necesita -  J Balvin revela cómo maneja su vida privada"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186554
 ---
 
 Una campaña publicitaria para promocionar la cerveza Miller Lite ha llevado a J Balvin a hablar sobre diversos aspecto de su vida privada, donde se maneja con su nombre de pila, José Álvaro Osorio Balvin. En dicho proyecto, el ganador del premio Grammy conversó, se hizo fotos y compartió tragos con los compradores desprevenidos que entraron en una típica bodega neoyorquina; así pudieron conocer al hombre que valora mucho "pasar tiempo con su familia y amigos cercanos". 

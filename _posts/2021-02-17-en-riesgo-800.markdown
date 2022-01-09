@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ganaderos respaldaron al Gobierno de México en su petición al Departamento de Agricultura de EU para que reclasificar el estatus zoosanitario en Tuberculosis Bovina y Brucelosis en regiones de 11 estados del país"
-image: /uploads/2021/images-2531145.jpg
-video: nil
-audio: nil
-alt: En riesgo 800 mil ganaderos mexicanos ante reclasificación sanitaria de EU
+image: "/uploads/2021/images-2531145.jpg"
+video: "nil"
+audio: "nil"
+alt: "En riesgo 800 mil ganaderos mexicanos ante reclasificación sanitaria de EU"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182991
 ---
 
 Ganaderos respaldaron al Gobierno de México en su petición al Departamento de Agricultura de Estados Unidos (USDA, por sus siglas en inglés), para que reconsidere su decisión de reclasificar, sin revisión previa, el estatus zoosanitario en Tuberculosis Bovina y Brucelosis en regiones de 11 estados del país, lo que a partir del 16 de abril impactaría el comercio exterior.

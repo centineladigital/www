@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Docentes y directivos podrán consultarlo a través de la página Web https://planeaciones.chihuahuaedu.gob.mx/"
-image: /uploads/2021/images-cvr4.jpg
-video: nil
-audio: nil
-alt: Lanza Secretaría de Educación el Centro Virtual de Recursos Académicos
+image: "/uploads/2021/images-cvr4.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lanza Secretaría de Educación el Centro Virtual de Recursos Académicos"
 front: false
-section: Local
+section: "Local"
+news_id: 186684
 ---
 
 Con el objetivo de brindar herramientas de apoyo para docentes y directivos del nivel Medio Superior en busca de mejorar los resultados esperados de aprendizajes en el alumnado, la Secretaría de Educación y Deporte (SEyD), llevó a cabo el lanzamiento del Centro Virtual de Recursos Académicos (CVR), el cual podrá ser consultado a través de la página Web https://planeaciones.chihuahuaedu.gob.mx/.

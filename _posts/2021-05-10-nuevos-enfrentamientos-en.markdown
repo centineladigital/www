@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Alrededor de 300 personas resultan heridas en nuevos choques entre palestinos y policías israelíes en la Explanada de las Mezquitas de Jerusalén, tras un fin de semana de disturbios"
-image: /uploads/2021/images-2576059.jpg
-video: nil
-audio: nil
-alt: Nuevos enfrentamientos en Jerusalén dejan casi 300 heridos
+image: "/uploads/2021/images-2576059.jpg"
+video: "nil"
+audio: "nil"
+alt: "Nuevos enfrentamientos en Jerusalén dejan casi 300 heridos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184369
 ---
 
 Casi 300 personas resultaron heridas este lunes, en su mayoría palestinos, en nuevos choques con policías israelíes en la Explanada de las Mezquitas de Jerusalén tras un fin de semana de disturbios en la Ciudad Santa.

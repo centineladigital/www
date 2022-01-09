@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "David Summers, vocalista de la banda, dio a conocer las fechas en que se presentarán a finales de 2021."
-image: /uploads/2021/images-hombres-haran-gira-mexico-hombres.jpg
-video: nil
-audio: nil
-alt: Hombres G anuncia fechas de gira en México 2021; presentarán su nuevo álbum
+image: "/uploads/2021/images-hombres-haran-gira-mexico-hombres.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hombres G anuncia fechas de gira en México 2021; presentarán su nuevo álbum"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182978
 ---
 
 La banda de rock española Hombres G anunció fechas para tocar en México presentando su álbum próximo a salir: La esquina de Rowland. Monterrey, Puebla, Ciudad de México, Aguascalientes y Guadalajara son las ciudades que recibirán, a finales de 2020, a los intérpretes de Te quiero, Devuélveme a mi chica y otros éxitos. 

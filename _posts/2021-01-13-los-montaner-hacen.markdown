@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La composición que estrenaron hace unas semanas se ha convertido en todo un hit en plataformas como YouTube y Spotify. "
-image: /uploads/2021/images-coincidieron-en-que-es-un_0_1_1200_745.jpg
-video: nil
-audio: nil
-alt: Los Montaner hacen de la fe su nuevo éxito musical
+image: "/uploads/2021/images-coincidieron-en-que-es-un_0_1_1200_745.jpg"
+video: "nil"
+audio: "nil"
+alt: "Los Montaner hacen de la fe su nuevo éxito musical"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182121
 ---
 
 Ricardo Montaner reconoce que haber trabajado con su familia (Ricky, Mau y Evaluna Montaner y Camilo) en la creación del tema “Amén” fue todo “un reto”, pero que los números que registran las plataformas musicales son un indicador de que la experiencia, que además le aportó “situaciones inéditas”, valió la pena. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El canciller reitera que se pone a disposición de autoridades para esclarecer lo sucedido; ‘comparto indignación de ciudadanía’, asegura; se debe conocer la verdad: López Obrador"
-image: /uploads/2021/images-2572723.jpg
-video: nil
-audio: nil
-alt: ‘Quien actúa con integridad no debe temer’ -  Ebrard sobre Línea 12
+image: "/uploads/2021/images-2572723.jpg"
+video: "nil"
+audio: "nil"
+alt: "‘Quien actúa con integridad no debe temer’ -  Ebrard sobre Línea 12"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184260
 ---
 
 El secretario de Relaciones Exteriores (SRE), Marcelo Ebrard, reiteró que está dispuesto a cooperar con las autoridades para esclarecer el desplome de una trabe y dos vagones en la Línea 12 del Metro, el cual ha dejado al momento 23 personas fallecidas.

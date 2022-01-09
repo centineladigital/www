@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La famosa señaló que el usó de pelucas es uno de los precios que pagan todas las actrices de Televisa. "
-image: /uploads/2021/images-allisson-lozz-revela-termino-usando.jpg
-video: nil
-audio: nil
-alt: Tengo tres pelitos -  Allisson Lozz revela por qué terminó usando pelucas en Televisa
+image: "/uploads/2021/images-allisson-lozz-revela-termino-usando.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tengo tres pelitos -  Allisson Lozz revela por qué terminó usando pelucas en Televisa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184807
 ---
 
 Allisson Lozz decidió alejarse de los reflectores y los sets de televisión hace unos 10 años. La actriz protagonizó populares y exitosas producciones de Televisa, entre ellas Al diablo con los guapos y En nombre del amor. Si bien, no suele hablar de su vida privada, en esta ocasión recurrió a sus redes sociales para revelar uno de los "precios" que debió pagar a lo largo de su carrera en las telenovelas. 

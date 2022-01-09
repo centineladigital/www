@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Ocupará el cargo por 7 años a partir de su toma de protesta "
-image: /uploads/2021/images-WhatsApp_Image_2021-01-21_at_1.36.51_PM.jpeg
-video: nil
-audio: /uploads/2021/audio-AJ04_BLANCA_GAMEZ.mp3
-alt: Es Héctor Mario Montoya Estrada titular del Órgano Interno de Control del Congreso por 7 años
+image: "/uploads/2021/images-WhatsApp_Image_2021-01-21_at_1.36.51_PM.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-AJ04_BLANCA_GAMEZ.mp3"
+alt: "Es Héctor Mario Montoya Estrada titular del Órgano Interno de Control del Congreso por 7 años"
 front: false
-section: Local
+section: "Local"
+news_id: 182338
 ---
 
 Con 27 votos a favor, Héctor Mario Montoya Estrada, fue electo como titular del Órgano de Control Interno del Congreso del Estado por un periodo de 7 años. Esto durante la sesión realizada por el ente legislativo. 

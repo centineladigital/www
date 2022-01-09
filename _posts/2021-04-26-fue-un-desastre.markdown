@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz de 'La Mujer Maravilla' contó que durante el confinamiento intentó prepara una ensalada y se cortó un pedazo del dedo tras tomar una que otra bebida. "
-image: /uploads/2021/images-gal-gadot-revela-perdio-dedo_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Fue un desastre -  Gal Gadot revela que perdió parte de un dedo tras sufrir accidente en casa
+image: "/uploads/2021/images-gal-gadot-revela-perdio-dedo_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fue un desastre -  Gal Gadot revela que perdió parte de un dedo tras sufrir accidente en casa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184100
 ---
 
 Gal Gadot se caracteriza por su sinceridad al hablar de su vida privada. Ahora la actriz israelí, reconocida por interpretar a La Mujer Maravilla, sorprendió a todos tras revelar que perdió una parte de un dedo de la mano tras un accidente doméstico que sufrió en pleno confinamiento por la pandemia de covid-19.  La actriz participó de manera virtual en el programa Jimmy Kimmel Live el pasado viernes. Durante la entrevista, Gal Gadot habló de cómo enfrentó la cuarentena aislada en casa junto a su esposo, Jaron Varsano, e hijas. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Autoridades federales reciben cargamentos de 500 mil dosis de la dosis china y 487,500 de la dosis estadunidense; al día de hoy suman 12.4 millones de fármacos contra Covid-19 aplicados"
-image: /uploads/2021/images-2562702.jpg
-video: nil
-audio: nil
-alt: Recibe México casi 1 millón de vacunas de SinoVac y Pfizer
+image: "/uploads/2021/images-2562702.jpg"
+video: "nil"
+audio: "nil"
+alt: "Recibe México casi 1 millón de vacunas de SinoVac y Pfizer"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183900
 ---
 
 Esta mañana México recibió cerca de un millón de vacunas contra Covid-19 con los arribos de cargamentos de dosis de SinoVac y de Pfizer/BioNTech.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que trabaja en el cierre de la presente administración."
-image: /uploads/2021/images-MANQUE.jpg
-video: nil
-audio: /uploads/2021/audio-MM04_MANQUE.mp3
-alt: Estoy trabajando al cien por ciento para cierre de administración -  Alcaldesa
+image: "/uploads/2021/images-MANQUE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04_MANQUE.mp3"
+alt: "Estoy trabajando al cien por ciento para cierre de administración -  Alcaldesa"
 front: false
-section: Local
+section: "Local"
+news_id: 185175
 ---
 
 Al ser cuestionada respecto a si se sumará a la administración estatal, la Alcaldesa en Funciones señaló que por el momento se encuentra trabajando para el cierre de la actual administración ya que se tienen temas como transparencia y otros que se continúa trabajando.

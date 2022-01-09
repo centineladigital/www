@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La periodista ‘presumió su pancita’ durante el estreno del programa 'Faisy Nights'. "
-image: /uploads/2021/images-danielle-dithurbide-presumio-pancita-estreno.jpg
-video: nil
-audio: nil
-alt: ¡Bebé en camino! Danielle Dithurbide está embarazada, así 'presumió' su pancita
+image: "/uploads/2021/images-danielle-dithurbide-presumio-pancita-estreno.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Bebé en camino! Danielle Dithurbide está embarazada, así 'presumió' su pancita"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185080
 ---
 
 La periodista Danielle Dithurbide reveló que está embarazada. La conductora de Noticieros Televisa ‘presumió su pancita’ durante el estreno del programa Faisy Nights al que llegó de forma inesperada para dar a los integrantes, una patada de la buena suerte.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Gobernador Javier Corral destaca la inversión  global de 640.7 millones de pesos, en la megaobra de movilidad urbana que incluye 10 puentes y pasos a desnivel para mejorar la calidad de vida de las y los juarenses"
-image: /uploads/2021/images-_MG_5597.JPG
-video: nil
-audio: nil
-alt: Se entregan los pasos a desnivel de Ejército Nacional y Santiago Troncoso en Corredor Multimodal
+image: "/uploads/2021/images-_MG_5597.JPG"
+video: "nil"
+audio: "nil"
+alt: "Se entregan los pasos a desnivel de Ejército Nacional y Santiago Troncoso en Corredor Multimodal"
 front: false
-section: Local
+section: "Local"
+news_id: 187277
 ---
 
 Como parte del Maratón de Obras, el gobernador Javier Corral entregó en Juárez los pasos a desnivel del Corredor Multimodal Francisco Villarreal Torres en las avenidas Santiago Troncoso y Ejército Nacional, con inversión en las dos obras de 146.2 millones de pesos (mdp).

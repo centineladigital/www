@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Presidente aseguró que Andrés Valles es jefe de un distrito de riego y por eso se oponía a la entrega de agua a los Estados Unidos"
-image: /uploads/2021/images-el-mandatario-aseguro-que-esta_0_0_1200_746.jpg
-video: nil
-audio: nil
-alt: AMLO respalda detención de agricultor que protestó en presa de Chihuahua
+image: "/uploads/2021/images-el-mandatario-aseguro-que-esta_0_0_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "AMLO respalda detención de agricultor que protestó en presa de Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 185937
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que hay pruebas de que el líder campesino Andrés Valles participó e incitó los actos de violencia ocurridos durante las protestas de agricultores en Chihuahua, que se oponían a que México entregara agua a Estados Unidos para cumplir con un acuerdo bilateral. 

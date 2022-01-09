@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El l estado está a punto de vivir cifras como las que se vivieron en el mes de octubre."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ02_ARTURO_VALENZUELA.mp3
-alt: A punto de llegar a mil casos COVID por semana
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01_ARTURO_VALENZUELA.mp3"
+alt: "A punto de llegar a mil casos COVID por semana"
 front: false
-section: Local
+section: "Local"
+news_id: 183773
 ---
 
 “Estamos llegando al punto de disparo” fueron las palabras del Director Médico de la Zona Norte, Arturo Valenzuela Zorrilla, quien dijo que el estado está a punto de vivir cifras como las que se vivieron en el mes de octubre. Esto ya que el promedio semanal era de mil 200 personas y se está a punto de llegar a mil caos.

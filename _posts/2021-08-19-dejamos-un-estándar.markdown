@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Presenta en la ciudad de Chihuahua su Quinto Informe de Gobierno donde destaca que se hizo una inversión que gobiernos  anteriores no hicieron, aun estando en mejores condiciones económicas"
-image: /uploads/2021/images-Informe3.jpg
-video: nil
-audio: nil
-alt: Dejamos un estándar muy alto a las siguientes administraciones -  Javier Corral
+image: "/uploads/2021/images-Informe3.jpg"
+video: "nil"
+audio: "nil"
+alt: "Dejamos un estándar muy alto a las siguientes administraciones -  Javier Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 186863
 ---
 
 Al presentar su Quinto Informe de Gobierno a los chihuahuenses en la capital del estado, el gobernador Javier Corral afirmó que se dejará un estándar muy alto para las próximas administraciones, por los logros alcanzados en estos años.

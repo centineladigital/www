@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hiromi Hayakawa y Carlos Rivera se conocieron cuando los dos participaron en La Academia, sin embargo, ella tuvo una muerte inesperada. "
-image: /uploads/2021/images-carlos-rivera-hiromi-hayakawa-conocieron_34_0_1045_650.jpg
-video: nil
-audio: nil
-alt: ¡Aún la recuerda! Hiromi Hayakawa, el primer amor de Carlos Rivera, quien murió trágicamente
+image: "/uploads/2021/images-carlos-rivera-hiromi-hayakawa-conocieron_34_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Aún la recuerda! Hiromi Hayakawa, el primer amor de Carlos Rivera, quien murió trágicamente"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182745
 ---
 
 Carlos Rivera es uno de los cantantes más exitosos, quien prefiere mantener con bajo perfil su vida privada. Y aunque desde hace varios años tiene un noviazgo con Cynthia Rodríguez, quien recientemente se ha visto en vuelta en la polémica junto con  Toñita, su ex compañera de La Academia, el originario de Huamantla encontró el amor cuando ingresó al reality show de TV Azteca ya que se enamoró de Hiromi Hayakawa. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Sofía Rivera Torres dijo que ha estado negociando con Eduardo Videgaray sobre cuántos hijos les gustaría tener. Esto fue lo que dijo. "
-image: /uploads/2021/images-sofia-rivera-hijos-eduardo-videgaray-1.jpg
-video: nil
-audio: nil
-alt: ¿Más de 3? Sofía Rivera Torres revela cuántos hijos quiere tener con Eduardo Videgaray
+image: "/uploads/2021/images-sofia-rivera-hijos-eduardo-videgaray-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Más de 3? Sofía Rivera Torres revela cuántos hijos quiere tener con Eduardo Videgaray"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182097
 ---
 
 Hace unos días, Sofía Rivera Torres y Eduardo Videgaray anunciaron que tenían covid-19. Sin embargo, todo se trató de una falsa alarma debido a los falsos positivos que arrojaron los resultados de un par de pruebas que se realizaron en un laboratorio. Ahora, la conductora reveló cuántos hijos le gustaría tener con el también presentador de televisión. A través de sus Instagram Stories dijo que ambos lo han estado considerado y sobre todo, negociando, porque no es una decisión que se tome a la ligera. 

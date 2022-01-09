@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Coordinación Estatal de Protección Civil informa que las precipitaciones estarán en la ciudad de Chihuahua; el 12 de mayo se extenderán a Nonoava, Camargo, Coyame, y Manuel Benavides   "
-image: /uploads/2021/images-Lluvia_CCU_AV._Zaragoza.jpg
-video: nil
-audio: nil
-alt: Pronostican lluvias para este martes y miércoles  en centro, sur y noreste de la entidad
+image: "/uploads/2021/images-Lluvia_CCU_AV._Zaragoza.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pronostican lluvias para este martes y miércoles  en centro, sur y noreste de la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 184396
 ---
 
 Para este martes 11 y miércoles 12 de mayo se esperan lluvias para la ciudad de Chihuahua y municipios del centro, sur y noreste de la entidad, informó la Coordinación Estatal de Protección Civil (CEPC).

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se espera que López Obrador hable sobre la votación en San Lázaro; llevar a Centroamérica Sembrando Vida, tema a que planteará a Biden esta tarde en cumbre ambiental"
-image: /uploads/2021/images-2566503.jpg
-video: nil
-audio: nil
-alt: Hoy votan extensión de mandato de Zaldívar e inicia la mañanera
+image: "/uploads/2021/images-2566503.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hoy votan extensión de mandato de Zaldívar e inicia la mañanera"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184036
 ---
 
 El presidente Andrés Manuel López Obrador encabeza su tradicional mensaje en el marco de la votación en la Cámara de Diputados de la extensión por 2 años de la gestión de Arturo Zaldívar al frente de la Corte.

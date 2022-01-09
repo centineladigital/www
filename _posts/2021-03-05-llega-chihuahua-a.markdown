@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "De acuerdo al último informe epidemiológico, subió en 145 los positivos y se confirmaron 31 defunciones"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Llega Chihuahua a los 55 mil 231 casos confirmados de COVID-19
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Llega Chihuahua a los 55 mil 231 casos confirmados de COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 183293
 ---
 
 El Reporte COVID-19 de la Secretaría de Salud muestra que  hay un total general de 55 mil 231 contagios tras haberse confirmado otros 145 nuevos casos, mientras que el número de personas fallecidas incrementó en 31 y suman ya 5 mil 383.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma Salud 66 nuevos casos y 3 fallecimientos en las últimas 24 horas; Chihuahua,  Juárez y Ojinaga son los municipios con más casos activos"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Acumula estado 49 mil 324 contagios y 4 mil 610 defunciones de COVID-19
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Acumula estado 49 mil 324 contagios y 4 mil 610 defunciones de COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 182423
 ---
 
 Con 66 contagios registrados en las últimas 24 horas, el estado de Chihuahua llegó a 49 mil 324 casos confirmados de COVID-19,  informó la Secretaría de Salud en el último reporte epidemiológico correspondiente a este 25 de enero.

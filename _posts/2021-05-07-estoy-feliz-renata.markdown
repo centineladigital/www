@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este jueves la actriz decidió romper el silencio y atendió a los medios de comunicación para hablar sobre su relación con el actor, aunque sus declaraciones fueron muy escuetas. "
-image: /uploads/2021/images-la-pareja-habia-mantenido-su.jpg
-video: nil
-audio: nil
-alt: Estoy feliz -  Renata Notni habla sobre su romance con Diego Boneta
+image: "/uploads/2021/images-la-pareja-habia-mantenido-su.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estoy feliz -  Renata Notni habla sobre su romance con Diego Boneta"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184340
 ---
 
 Luego de que Diego Boneta y Renata Notni fueron captados en un aeropuerto cuando se disponían a viajar juntos, mucho se especuló sobre su probable romance, aunque ninguno de los dos habló al respecto. Pero estos rumores se volvieron una certeza cuando ambas celebridades posaron juntos para la revista Quién un día antes del estreno de la segunda temporada de Luis Miguel, la serie. Y este jueves la actriz decidió romper el silencio y atendió a los medios de comunicación para hablar de su relación con el actor, aunque sus declaraciones fueron muy escuetas. 

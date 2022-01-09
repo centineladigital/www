@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "K.O. es el título del próximo material de Danna Paola. Te contamos los detalles. "
-image: /uploads/2021/images-paola_dana.jpg
-video: nil
-audio: nil
-alt: Danna Paola impacta a sus fans con avance de su nuevo disco -  'K.O.'
+image: "/uploads/2021/images-paola_dana.jpg"
+video: "nil"
+audio: "nil"
+alt: "Danna Paola impacta a sus fans con avance de su nuevo disco -  'K.O.'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182051
 ---
 
 Danna Paola acaba de anunciar el lanzamiento de su nuevo álbum. Tras el exitoso Sie7e +, EP del que se desprenden temas como "Sodio" y "Oye Pablo", y de las múltiples colaboraciones que realizó a lo largo del año pasado, está lista para iniciar el 2021 con música. La cantante y actriz mexicana se encuentra en su mejor momento. Pese a la pandemia de covid-19 triunfó con sencillos como "Sola", "Contigo", "No bailes sola" junto a Sebastián Yatra, estrenó tres canciones navideñas y además, concluyó su participación en Élite, la serie de Netflix. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Para este viernes 5 se espera cielo despejado y temperaturas alrededor de los 20°C, informa la CEPC"
-image: /uploads/2021/images-Parque_Ecoturístico_de_la_Presa_Abraham_González_FOTO_MUNICIPIO_DE_GUERRERO.jpg
-video: nil
-audio: nil
-alt: Prevén rachas de viento de 55 km/h en Juárez, Sueco, Guerrero y Cuauhtémoc
+image: "/uploads/2021/images-Parque_Ecoturístico_de_la_Presa_Abraham_González_FOTO_MUNICIPIO_DE_GUERRERO.jpg"
+video: "nil"
+audio: "nil"
+alt: "Prevén rachas de viento de 55 km/h en Juárez, Sueco, Guerrero y Cuauhtémoc"
 front: false
-section: Local
+section: "Local"
+news_id: 182724
 ---
 
 Para este viernes 5 la masa de aire frío asociada al frente frío número 34, en interacción con la corriente en chorro favorece ambiente de muy frío a frío por la mañana y de templado a cálido por la tarde, informó la Coordinación Estatal de Protección Civil (CEPC).

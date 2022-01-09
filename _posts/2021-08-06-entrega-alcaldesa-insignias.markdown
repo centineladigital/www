@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La Presidenta Municipal felicitó a los elementos que recibieron su promoción señalando que los agentes ponen en alto el nombre y la dignidad de la corporación, recibiendo este acenso en circunstancias muy especiales, con retos importantes e inimaginables como el COVID19  "
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Entrega Alcaldesa insignias de ascenso a 86 elementos de la Policía Municipal
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Entrega Alcaldesa insignias de ascenso a 86 elementos de la Policía Municipal"
 front: false
-section: Local
+section: "Local"
+news_id: 186393
 ---
 
 Durante la tarde de ayer jueves 5 de agosto, la alcaldesa María Angélica Granados Trespalacios encabezó la ceremonia de entrega de insignias a 86 agentes de la Dirección de Seguridad Pública Municipal (DSPM), que participaron en el proceso de promoción y ascenso para obtener un nuevo grado.

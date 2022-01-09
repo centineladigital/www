@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue en sus historias de Instagram en done Bárbara de Regil compartió el momento exacto en el que supuestamente a ‘modo de juego’ lanzó un cabezazo en contra de su madre; usuarios de redes sociales la criticaron. "
-image: /uploads/2021/images-barbara-regil-cabezazo-mama-redes.jpg
-video: nil
-audio: nil
-alt: Tú me diste primero -  Critican a Bárbara de Regil por darle fuerte cabezazo a su mamá
+image: "/uploads/2021/images-barbara-regil-cabezazo-mama-redes.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tú me diste primero -  Critican a Bárbara de Regil por darle fuerte cabezazo a su mamá"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184247
 ---
 
 Bárbara de Regil es una de las actrices e influencers más polémicas del medio. La famosa ha tenido varios problemas por su actitud, por ejemplo, comentarios racistas y clasistas, desencuentros con fans, audios filtrados de supuestas peleas en su matrimonio e incluso críticas por la marca de su proteína. Sin embargo, un reciente acto la ha vuelto a poner en la mira con severos comentarios en contra. ¿Qué hizo ahora la protagonista de Rosario Tijeras? Resulta que Bárbara de Regil dio tremendo cabezazo a su madre durante un video,  mismo que compartió en sus historias de Instagram. ¿Así se llevan? ¿Violenta a su mamá? Te contamos lo que sabemos sobre este nuevo episodio de la también influencer de vida fitness. Fue en sus historias de Instagram en done Bárbara de Regil compartió el momento exacto en el que supuestamente a ‘modo de juego’ lanzó un cabezazo en contra de su madre, mientras pretendían tomarse una foto. 

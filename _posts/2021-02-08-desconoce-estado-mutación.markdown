@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Federación no ha enviado datos afirma epidemiólogo de Chihuahua."
-image: /uploads/2021/images-GUMARO.jpg
-video: nil
-audio: /uploads/2021/audio-ML03_GUMARO_BARRIOS.mp3
-alt: Desconoce Estado mutación COVID
+image: "/uploads/2021/images-GUMARO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML03_GUMARO_BARRIOS.mp3"
+alt: "Desconoce Estado mutación COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 182787
 ---
 
 "Sobre esta mutación no tenemos información" fueron las palabras de Gumaro Barrios Gallegos, Subdirector de Epidemiología, esto luego de que a nivel nacional se diera a conocer una nueva cepa de el COVID dentro del país.

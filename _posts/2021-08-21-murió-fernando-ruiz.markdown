@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fernando Ruiz también estuvo a cargo de diferentes proyectos y dirigió la película Los Tres Reyes Magos. "
-image: /uploads/2021/images-fernando-ruiz-disney-asistente-animacion_21_0_1045_650.jpg
-video: nil
-audio: nil
-alt: Murió Fernando Ruiz, creador de 'Katy la Oruga'
+image: "/uploads/2021/images-fernando-ruiz-disney-asistente-animacion_21_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "Murió Fernando Ruiz, creador de 'Katy la Oruga'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186969
 ---
 
 Fernando Ruiz, quien es considerado el Padre de la animación mexicana, y creador de uno de los personajes más tiernos y queridos, Katy la Oruga, murió a los 79 años. La noticia fue confirmada por Pixelatl, un festival de animación, quienes no mencionaron la causa del fallecimiento del director y animador. A través de Twitter, Pixelatl compartió una imagen de Los Tres Reyes Magos, una película que en 1976 Fernando Ruiz dirigió. 

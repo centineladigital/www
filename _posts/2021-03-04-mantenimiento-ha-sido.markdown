@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se lleva a cabo acciones de forma constante para limpieza de los lugares."
-image: /uploads/2021/images-R2.jpg
-video: nil
-audio: /uploads/2021/audio-MJ05_RICARDO_MARTINEZ.mp3
-alt: Mantenimiento ha sido constante; esto tras reapertura de panteones
+image: "/uploads/2021/images-R2.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ05_RICARDO_MARTINEZ.mp3"
+alt: "Mantenimiento ha sido constante; esto tras reapertura de panteones"
 front: false
-section: Local
+section: "Local"
+news_id: 183279
 ---
 
 Ya que actualmente los panteones municipales se encuentran abiertos se dio a conocer por parte de Ricardo Martínez García, titular de la Dirección de Servicios Públicos, que se encuentran han llevado a cabo acciones para el mantenimiento de los cementerios que pertenecen a la administración.

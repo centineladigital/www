@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "“Tres Cabezas” del artista Javier Marín son esculturas hechas en bronce a la cera perdida, que invitan a la reflexión acerca de lo cíclico y perecedero de las ideas"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Continuarán hasta el mes de agosto Tres Cabezas de Javier Marín en Presa el Rejón
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Continuarán hasta el mes de agosto Tres Cabezas de Javier Marín en Presa el Rejón"
 front: false
-section: Local
+section: "Local"
+news_id: 183661
 ---
 
 Con el propósito de continuar con la promoción cultural en la ciudad y de tomar en consideración las recomendaciones de las autoridades de salud por el COVID19, el Gobierno Municipal a través del Instituto de Cultura del Municipio de Chihuahua informó que la exposición al aire libre “Tres Cabezas” del artista Javier Marín en la Presa el Rejón estará disponible hasta el mes de agosto.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señala que se han tenido reuniones con directivos y choferes de DIDI."
-image: /uploads/2021/images-PENICHE1.jpg
-video: /uploads/2021/videos-MW02_CESAR_PENICHE.mp4
-audio: nil
-alt: Pide Fiscalía a DIDI evitar pagos en efectivo
+image: "/uploads/2021/images-PENICHE1.jpg"
+video: "/uploads/2021/videos-MW02_CESAR_PENICHE.mp4"
+audio: "nil"
+alt: "Pide Fiscalía a DIDI evitar pagos en efectivo"
 front: false
-section: Local
+section: "Local"
+news_id: 186075
 ---
 
 El que no se reciban pagos en efectivo es una de las peticiones que ha presentado la Fiscalía a directivos de DIDI, según señaló el titular de la dependencia estatal César Augusto Peniche Espejel.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La aplicación será de este miércoles 21 al viernes 23, de 7:00 am a 18:00 hrs en Centro de Convenciones, Universidad del Valle de México, Tecnológico de Chihuahua I y II; los módulos vehiculares en UACH Campus II, y el módulo peatonal y vehicular en el Estadio de Beisbol Deportiva Sur"
-image: /uploads/2021/images-VACUNACION_25-39_VEDA_Redes.png
-video: nil
-audio: nil
-alt: Se suman Tec. de Chihuahua I y II a jornada de vacunación para personas de 25 a 39 contra COVID-19
+image: "/uploads/2021/images-VACUNACION_25-39_VEDA_Redes.png"
+video: "nil"
+audio: "nil"
+alt: "Se suman Tec. de Chihuahua I y II a jornada de vacunación para personas de 25 a 39 contra COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 185864
 ---
 
 La Secretaría de Salud, en coordinación con las instituciones que participan en la brigada de vacunación COVID-19, informa que los Institutos Tecnológico de Chihuahua I y II, fueron habilitados para la aplicación de la vacuna a personas de 25 a 39 años, por lo que serán seis sedes las que se tendrán disponibles para este grupo de edad.

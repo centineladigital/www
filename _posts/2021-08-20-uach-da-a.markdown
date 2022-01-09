@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se da a conocer la apertura de la segunda generación de maestría en derechos humanos  "
-image: /uploads/2021/images-UACH.jpg
-video: /uploads/2021/videos-WhatsApp_Video_2021-08-20_at_3.08.50_PM.mp4
-audio: nil
-alt: UACH da a conocer posgrado en derechos humanos
+image: "/uploads/2021/images-UACH.jpg"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-08-20_at_3.08.50_PM.mp4"
+audio: "nil"
+alt: "UACH da a conocer posgrado en derechos humanos"
 front: false
-section: Local
+section: "Local"
+news_id: 186956
 ---
 
 La Universidad Autónoma de Chihuahua mediante la facultad de derecho dio a conocer el posgrado en derechos humanos, esto con el fin de incitar a los egresados de todas las licenciaturas e ingenierías de la UACH a ingresar a esta maestría. 

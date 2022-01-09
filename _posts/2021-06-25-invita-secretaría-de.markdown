@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esta obra literaria muestra la historia y la cultura del pueblo ralámuli, así como las problemáticas a las que se enfrentan las mujeres artesanas en la actualidad por conservar el uso de sus prendas"
-image: /uploads/2021/images-PRESENTACIÓN_DEL_LIBRO_SIPÚCHAKA.jpeg
-video: nil
-audio: nil
-alt: Invita Secretaría de Cultura a la presentación  del libro Sipúchaka -  El vestido rarámuri
+image: "/uploads/2021/images-PRESENTACIÓN_DEL_LIBRO_SIPÚCHAKA.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Invita Secretaría de Cultura a la presentación  del libro Sipúchaka -  El vestido rarámuri"
 front: false
-section: Local
+section: "Local"
+news_id: 185244
 ---
 
 La Secretaría de Cultura de Chihuahua, en conjunto con la Secretaría de Cultura Federal, invitan a la presentación del libro Sipúchaka: El vestido ralámuli, este sábado 27 de junio a las 17:00 horas.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "32 personas positivas a la prueba PCR, mientras que solamente se confirmaron 17 muertes por esta enfermedad"
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-ML05_ARTURO_VALENZUELA.mp3
-alt: Inicia semana con bajas cifras de COVID
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML05_ARTURO_VALENZUELA.mp3"
+alt: "Inicia semana con bajas cifras de COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 183602
 ---
 
 Con bajas cifras inició la semana de casos de coronavirus ya que este lunes reportaron 32 personas positivas a la prueba PCR, mientras que solamente se confirmaron 17 muertes por esta enfermedad, según lo dio a conocer el Director Médico Zona Norte Arturo Valenzuela Zorrilla. 

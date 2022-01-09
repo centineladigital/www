@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto como parte del tratamiento de COVID."
-image: /uploads/2021/images-ADRIANA.jpg
-video: nil
-audio: /uploads/2021/audio-MV03_ADRIANA_RUIZ.mp4
-alt: Gobernadora estará aislada cinco días más
+image: "/uploads/2021/images-ADRIANA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV03_ADRIANA_RUIZ.mp4"
+alt: "Gobernadora estará aislada cinco días más"
 front: false
-section: Local
+section: "Local"
+news_id: 186407
 ---
 
 Luego de que se diera a conocer que este viernes sería dada de alta la Gobernadora María Eugenia Campos Galván, la integrante de su grupo de comunicación Adriana Ruiz, señaló que ésta tendría que estar otros cinco días más aislada.

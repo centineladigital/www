@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Invierte Estado 1 millón 246 mil 560 pesos del Fondo de Reparación Justicia para Chihuahua para apoyar a que la población de 37 municipios disponga de agua potable ante la sequía"
-image: /uploads/2021/images-2.JPG
-video: nil
-audio: nil
-alt: Encabezará Gobernador entrega de tanques nodriza en Casas Grandes este martes
+image: "/uploads/2021/images-2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Encabezará Gobernador entrega de tanques nodriza en Casas Grandes este martes"
 front: false
-section: Local
+section: "Local"
+news_id: 185024
 ---
 
 El Gobierno del Estado de Chihuahua, a través de la Secretaría de Desarrollo Municipal (Sedemun), adquirió 40 tanques nodriza y equipamiento con valor de 1 millón 246 mil 560 pesos, en beneficio de la población de 37 municipios que padecen por la sequía.

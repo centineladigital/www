@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El tiroteo en la Escuela Secundaria Washington es el segundo en Albuquerque en menos de 24 horas. La ciudad se encamina a romper este año su récord de homicidios"
-image: /uploads/2021/images-un-estudiante-murio-y-otro_0_44_1024_637.jpg
-video: nil
-audio: nil
-alt: Detienen a joven por tiroteo en escuela de Albuquerque; hay un estudiante muerto
+image: "/uploads/2021/images-un-estudiante-murio-y-otro_0_44_1024_637.jpg"
+video: "nil"
+audio: "nil"
+alt: "Detienen a joven por tiroteo en escuela de Albuquerque; hay un estudiante muerto"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186701
 ---
 
 Un estudiante murió y otro fue detenido después de un tiroteo a la hora de la comida en una escuela secundaria cercana al centro de Albuquerque, Estados Unidos, indicó la policía.

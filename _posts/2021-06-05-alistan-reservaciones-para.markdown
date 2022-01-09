@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El sector restaurantero puntualiza que en los últimos años este festejo ha tomado popularidad"
-image: /uploads/2021/images-Día_del_padre_restaurantes.jpeg
-video: nil
-audio: nil
-alt: Alistan reservaciones para el Día del Padre
+image: "/uploads/2021/images-Día_del_padre_restaurantes.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Alistan reservaciones para el Día del Padre"
 front: false
-section: Local
+section: "Local"
+news_id: 184860
 ---
 
 Los restaurantes y comercios informan que para el 20 de junio esperan un incremento significativo de la derrama económica, por el festejo del día del padre, pues ya cuentan con reservaciones y apartados.

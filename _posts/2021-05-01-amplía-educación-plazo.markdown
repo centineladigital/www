@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se busca que todos tengan acceso a continuar sus estudios en el nivel medio superior; al 30 de abril el registro es de 40 mil jóvenes en los planteles oficiales y se esperan otros 10 mil en escuelas particulares"
-image: /uploads/2021/images-SED_8289.JPG
-video: nil
-audio: nil
-alt: Amplía Educación plazo para registro de nuevo ingreso en bachillerato al 16 de mayo
+image: "/uploads/2021/images-SED_8289.JPG"
+video: "nil"
+audio: "nil"
+alt: "Amplía Educación plazo para registro de nuevo ingreso en bachillerato al 16 de mayo"
 front: false
-section: Local
+section: "Local"
+news_id: 184231
 ---
 
 La Secretaría de Educación y Deporte (SEyD) informa que el período de registro en línea para la obtención de la ficha de ingreso a los planteles de modalidad escolarizada del nivel medio superior se amplió hasta el 16 de mayo.

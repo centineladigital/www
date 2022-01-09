@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En la entidad 70 escuelas retornaron a clases semipresenciales; los colegios aplican medidas de sanidad ante la pandemia por Covid-19; alumnos también estudiarán desde casa"
-image: /uploads/2021/images-2579851.jpg
-video: nil
-audio: nil
-alt: Regresan a las aulas 19 mil estudiantes de Coahuila
+image: "/uploads/2021/images-2579851.jpg"
+video: "nil"
+audio: "nil"
+alt: "Regresan a las aulas 19 mil estudiantes de Coahuila"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184486
 ---
 
 Con estrictos protocolos de seguridad sanitaria este lunes 17 de mayo poco más de 19 mil alumnos de 70 escuelas de Coahuila, regresaron a clases mediante el sistema semipresencial. En la escuela secundaria Nazario Ortiz Garza, ubicada en la zona centro de Saltillo, se permitió el ingreso de 200 alumnos de una población de 600, en clases de las 8:30 a las 11:25 horas, de lunes a miércoles.

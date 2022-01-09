@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Demi Moore participó en el desfile de Fendi en París, sin embargo, su rostro llamó la atención por lo diferente que luce. "
-image: /uploads/2021/images-demi-moore-desato-criticas-rostro.jpg
-video: nil
-audio: nil
-alt: ¡Irreconocible! Demi Moore participa en desfile de moda y sorprende con cambio en su rostro
+image: "/uploads/2021/images-demi-moore-desato-criticas-rostro.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Irreconocible! Demi Moore participa en desfile de moda y sorprende con cambio en su rostro"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182535
 ---
 
 Demi Moore ha destacado por su participación en producciones de Hollywood, sin embargo, uno de sus sueños siempre había sido formar parte de un desfile de moda y ahora tuvo la oportunidad de hacerlo. La actriz formó parte del elenco de modelos que participaron en el desfile de Fendi en París, pero su rostro acaparó la atención. 

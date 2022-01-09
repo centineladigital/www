@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto cambiará al cambiar la ley."
-image: /uploads/2021/images-SAUL.jpg
-video: nil
-audio: /uploads/2021/audio-ML06.mp3
-alt: Subcontratados más del 60 por ciento de empleados
+image: "/uploads/2021/images-SAUL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML06.mp3"
+alt: "Subcontratados más del 60 por ciento de empleados"
 front: false
-section: Local
+section: "Local"
+news_id: 184906
 ---
 
 Dos terceras partes de la población se encuentran trabajando bajo subcontratación según fue dado a conocer por parte de Saúl Zaragoza Díaz, del grupo KPMG Cárdenas Dosal, esto dentro de una capacitación que se otorgó a integrantes del Colegio de Contadores Públicos de Chihuahua.

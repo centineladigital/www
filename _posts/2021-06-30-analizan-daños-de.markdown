@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Exhortan a denunciar presencia de baches."
-image: /uploads/2021/images-B1.jpg
-video: /uploads/2021/videos-MW02_MANQUE.mp4
-audio: /uploads/2021/audio-MW01.mp3
-alt: Analizan daños de pavimentación tras lluvias
+image: "/uploads/2021/images-B1.jpg"
+video: "/uploads/2021/videos-MW02_MANQUE.mp4"
+audio: "/uploads/2021/audio-MW01.mp3"
+alt: "Analizan daños de pavimentación tras lluvias"
 front: false
-section: Local
+section: "Local"
+news_id: 185319
 ---
 
 Debido a que con las lluvias se presentan una serie de averías dentro de la cinta asfáltica de la ciudad, el titular de la Dirección de Obras Públicas, Carlos Aguilar, señaló que se está revisando los daños que se tienen en éste. Asimismo dio a conocer que hasta que no se tenga humedad será cuando se llevan a cabo las reparaciones.

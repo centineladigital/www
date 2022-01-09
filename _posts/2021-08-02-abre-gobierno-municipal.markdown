@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "A través de la Dirección de Desarrollo Humano y Educación, inició este lunes 2 de agosto la entrega extraordinaria de apoyos del Programa Alimentario para el Adulto Mayor (PAAM)"
-image: /uploads/2021/images-unnamed_(6).jpg
-video: nil
-audio: nil
-alt: Abre Gobierno Municipal periodo extraordinario para el Programa Alimentario para el Adulto Mayor
+image: "/uploads/2021/images-unnamed_(6).jpg"
+video: "nil"
+audio: "nil"
+alt: "Abre Gobierno Municipal periodo extraordinario para el Programa Alimentario para el Adulto Mayor"
 front: false
-section: Local
+section: "Local"
+news_id: 186192
 ---
 
 Esta oportunidad extraordinaria se ofrece con la finalidad de brindar el mayor beneficio a las y los adultos mayores, que por diversas razones no pudieron recibir el apoyo durante el plazo establecido que se llevó a cabo en los domicilios de los beneficiarios, el cual concluyó el pasado 30 de julio.

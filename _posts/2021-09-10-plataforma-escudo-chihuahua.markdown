@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Seguirá el legado de la gobernadora "
-image: /uploads/2021/images-MARCO.png
-video: /uploads/2021/videos-BV04_MARCO_BONILLA.mp4
-audio: nil
-alt: Plataforma escudo Chihuahua seguirá  en esta administración bajo el nombre de escudo centinela 
+image: "/uploads/2021/images-MARCO.png"
+video: "/uploads/2021/videos-BV04_MARCO_BONILLA.mp4"
+audio: "nil"
+alt: "Plataforma escudo Chihuahua seguirá  en esta administración bajo el nombre de escudo centinela "
 front: false
-section: Local
+section: "Local"
+news_id: 187624
 ---
 
 El ahora alcalde del estado de Chihuahua Marco Bonilla, confirmó que se le dará seguimiento la plataforma escudo Chihuahua y será ejemplo para las regiones del Estado,  comentó que la operación escudo centinela como se llamará la anterior escudo Chihuahua, será un modelo que seguirá el legado de la gobernadora.

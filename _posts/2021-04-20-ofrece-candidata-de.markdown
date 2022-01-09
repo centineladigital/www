@@ -6,12 +6,13 @@ tags:
   
 author: nil
 description: "Promete realizar obras para beneficio de los juarenses."
-image: /uploads/2021/images-maru.jpg
-video: nil
-audio: /uploads/2021/audio-MM07_MARU_CAMPOS.mp3
-alt: Ofrece candidata de PAN revisar el proyecto del BRT
+image: "/uploads/2021/images-maru.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM07_MARU_CAMPOS.mp3"
+alt: "Ofrece candidata de PAN revisar el proyecto del BRT"
 front: false
-section: Local
+section: "Local"
+news_id: 184000
 ---
 
 La revisión del proyecto BRT que abarca la movilidad de Ciudad Juárez será revisada con el fin de asegurar que sí sirva a los ciudadanos, fue la propuesta que presentó María Eugenia Campos Galván, esto dentro de su gira por la fronteriza ciudad.

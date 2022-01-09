@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Se registran 291 nuevos casos de COVID-19 para el estado de Chihuahua "
+date: 2021-12-22T21:23:00.000-06:00
+tags:
+  
+  - Covid
+  
+  - Cifras
+  
+  - chihuahua
+  
+author: nil
+description: "Este día se reportan un total de 268 personas hospitalizadas y 73 intubadas, además la ocupación general en los nosocomios es del 53.7 por ciento y de los intubados es de 43.5 por ciento."
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Se registran 291 nuevos casos de COVID-19 para el estado de Chihuahua "
+front: false
+section: "Local"
+news_id: 191121
+---
+
+El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 22 de diciembre el reporte COVID-19, en el cual se registran 90 mil 977 (+291) personas confirmadas en la entidad por este padecimiento, 77 mil 710 (+360) casos recuperados, 87 mil 257 (+350) descartados y 1,133 (+29) casos sospechosos.
+
+El número de personas que han perdido la vida por COVID-19 asciende a 8 mil 658 casos (+33), Juárez (+4), Chihuahua (+4), Parral (+2), Cuauhtémoc (+3), Delicias (+11), Jiménez (+1), Meoqui (+4), Aldama (+1), Namiquipa (+1), Praxedis G. Guerrero (+1) y Satevó (+1)
+Es importante puntualizar que se realizó un ajuste en el registro de una defunción correspondiente al municipio de Delicias (-1) esta se reclasificó al municipio de Juárez.
+
+Hoy se registran 291 nuevos casos que se concentran en los municipios de Juárez (+52), Chihuahua (+141), Parral (+19), Cuauhtémoc (+7), Delicias (+12), Nuevo Casas Grandes (+5), Ojinaga (+7), Camargo (+5), Guachochi (+3), Jiménez (+2), Meoqui (+2), Saucillo (+7), Aldama (+3), Buenaventura (+3), Aquiles Serdán (+1), Allende (+2) Guazapares (+1), Namiquipa (+2) Santa Bárbara (+2), Chínipas (+4), Rosales (+1), Julimes (+1), Guadalupe y Calvo (+2), Ahumada (+1), Matamoros (+2),  San Fco. del Oro (+1), Carichí (+1), Batopilas (+1), Matachí (+1).
+
+Este día se reportan un total de 268 personas hospitalizadas y 73 intubadas, además la ocupación general en los nosocomios es del 53.7 por ciento y de los intubados es de 43.5 por ciento.
+
+Es importante recordar que hasta el próximo domingo 26 de diciembre el estado prevalecerá en semáforo epidemiológico amarillo, por lo que se solicita a la población respetar los aforos marcados en los lineamientos y seguir con la utilización del cubrebocas en todas las actividades.
+ 
+Las autoridades de la Secretaría de Salud reiteran que el frecuente lavado de manos, la sana distancia y el uso del cubrebocas son las mejores herramientas para prevenir los casos de COVID-19.

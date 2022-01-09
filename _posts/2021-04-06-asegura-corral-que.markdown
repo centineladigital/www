@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El gobernador dijo que desde que se registró el ataque se ha desplegado un operativo conjunto para dar con el paradero de los responsables de la agresión"
-image: /uploads/2021/images-agentesemboscados.jpg
-video: nil
-audio: nil
-alt: Asegura Corral que homicidio de los cuatro policías no quedará impune
+image: "/uploads/2021/images-agentesemboscados.jpg"
+video: "nil"
+audio: "nil"
+alt: "Asegura Corral que homicidio de los cuatro policías no quedará impune"
 front: false
-section: Local
+section: "Local"
+news_id: 183718
 ---
 
 Compartimos el dolor al ver segadas las vida de estos cuatro servidores públicos de la Secretaría de Seguridad quienes cumplían con el deber de proteger a los ciudadanos, señaló el gobernador Javier Corral Jurado al encabezar el memorial a los 4 policías caídos tras la emboscada en el municipio de Madera.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El gobierno chino anuncia un pasaporte digital destinado a sus ciudadanos que muestra y verifica el historial de vacunación y los resultados de los test de covid-19 del usuario"
-image: /uploads/2021/images-2541814.jpg
-video: nil
-audio: nil
-alt: Lanza China pasaporte covid para viajes internacionales
+image: "/uploads/2021/images-2541814.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lanza China pasaporte covid para viajes internacionales"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183350
 ---
 
 China lanzó un pasaporte digital destinado a sus ciudadanos con el que podrán demostrar en qué situación sanitaria se encuentran cuando viajen hacia o desde el extranjero, lo que podría contribuir a una mayor apertura de las fronteras chinas.

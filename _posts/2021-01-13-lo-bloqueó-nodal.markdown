@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue durante la transmisión en vivo del programa Venga la Alegría de TV Azteca, en donde El Capi Pérez buscó felicitar a Nodal por su cumpleaños. Sin embargo, descubrió algo que no había notado: Christian Nodal lo eliminó de Instagram. "
-image: /uploads/2021/images-capi-broma-belinda-publicacion-christian.jpg
-video: nil
-audio: nil
-alt: ¿Lo bloqueó? Nodal vuelve a 'ignorar' a 'El Capi' de 'VLA'
+image: "/uploads/2021/images-capi-broma-belinda-publicacion-christian.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Lo bloqueó? Nodal vuelve a 'ignorar' a 'El Capi' de 'VLA'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182095
 ---
 
 Christian Nodal y Belinda siguen siendo foco de atención por su amorío. Sin embargo, no todo ha sido fácil, pues sobre ellos se han creado varios dimes y diretes. Incluso, chistes que no son de su agrado. Para ejemplada esto, que mejor que retomar lo que recienteme le sucedió a El Capi Pérez, conductor de Venga la Alegría. ¿Qué hizo? Resulta que el cantante de regional mexicano lo borró de Instagram, luego de que intentara felicitarlo por su cumpleaños. Fue durante la transmisión en vivo del programa Venga la Alegría de TV Azteca, en donde El Capi Pérez buscó felicitar a Nodal por su cumpleaños. Sin embargo, descubrió algo que no había notado: Christian Nodal lo eliminó de Instagram. 

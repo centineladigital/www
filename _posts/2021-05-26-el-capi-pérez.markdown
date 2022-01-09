@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En la publicación en donde Nodal anunció el compromiso, El Capi Pérez colocó que ya estaba listo para la boda. Esto a pesar de que el conductor de VLA incomodó a la pareja en el pasado por mencionar a Daniela Luján. "
-image: /uploads/2021/images-capi-perez-autoinvita-boda-belinda.jpg
-video: nil
-audio: nil
-alt: ‘El Capi’ Pérez de 'VLA' se autoinvita a boda de Belinda y Nodal tras polémica comparación con Daniela Luján
+image: "/uploads/2021/images-capi-perez-autoinvita-boda-belinda.jpg"
+video: "nil"
+audio: "nil"
+alt: "‘El Capi’ Pérez de 'VLA' se autoinvita a boda de Belinda y Nodal tras polémica comparación con Daniela Luján"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184659
 ---
 
 La noticia más importante de esta semana –quizá– es que Belinda y Christian Nodal se comprometieron: tendrán boda. En medio de los detalles sobre la petición matrimonial, las polémicas, el costo y las felicitaciones, también salieron algunos personajes controversiales que dieron mucho de qué hablar. Tal fue el caso de El Capi Pérez, conductor de Venga la Alegría, que se autoinvitó a la fiesta de los famosos. ¿Qué de malo hay en ello? Aunque el presentador de la Resolana lo hace en forma de broma, quizá para la pareja no lo sea, pues El Capi incomodó a la pareja en el pasado por comparar a Belinda con Daniela Luján. 

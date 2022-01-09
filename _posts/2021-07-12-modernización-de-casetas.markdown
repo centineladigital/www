@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La cifra es superior en mil millones más respecto al 2016; también se modernizaron 21 recaudaciones de rentas en el estado, informa la Subsecretaría de Ingresos."
-image: /uploads/2021/images-_DSC9375.JPG
-video: nil
-audio: nil
-alt: Modernización de casetas de peaje dejará ingresos estatales por 3.4 mil mdp en 2021
+image: "/uploads/2021/images-_DSC9375.JPG"
+video: "nil"
+audio: "nil"
+alt: "Modernización de casetas de peaje dejará ingresos estatales por 3.4 mil mdp en 2021"
 front: false
-section: Local
+section: "Local"
+news_id: 185584
 ---
 
 A fin de controlar y vigilar que lo que se recaude en las casetas de peaje sea cobrado correctamente e ingresado a las arcas estatales, la Secretaría de Hacienda llevó a cabo la modernización de las garitas en 11 sedes.

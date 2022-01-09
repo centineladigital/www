@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Grace se sitúa a unos 200 kilómetros al este de Puerto Príncipe, la capital de Haití, y avanza hacia el oeste a cerca de 24 kilómetros por hora."
-image: /uploads/2021/images-tormenta-tropical-ap_0_43_1000_622.jpeg
-video: nil
-audio: nil
-alt: Ciclón tropical 'Grace' se dirige a Haití; pronostican fuertes lluvias
+image: "/uploads/2021/images-tormenta-tropical-ap_0_43_1000_622.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Ciclón tropical 'Grace' se dirige a Haití; pronostican fuertes lluvias"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186721
 ---
 
 El Centro Nacional de Huracanes de Estados Unidos (NHC), informó que la depresión tropical Grace se dirige a Haití, lugar donde también ha sido víctima de un terremoto de magnitud 7,2 el sábado y donde podría dejar fuertes lluvias en las próximas horas. 

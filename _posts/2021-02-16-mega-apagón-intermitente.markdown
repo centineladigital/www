@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras el apagón ocurrido ayer, usuarios han reportado la intermitencia del servicio en diferentes compañías"
-image: /uploads/2021/images-celular.png
-video: nil
-audio: nil
-alt: Mega apagón -  intermitente el servicio de telefonía celular
+image: "/uploads/2021/images-celular.png"
+video: "nil"
+audio: "nil"
+alt: "Mega apagón -  intermitente el servicio de telefonía celular"
 front: false
-section: Local
+section: "Local"
+news_id: 182944
 ---
 
 Luego del mega apagón registrado en la zona norte del país ayer lunes, los servicios de telefonía celular continúan registrando deficiencias

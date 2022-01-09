@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "En las últimas 24 horas se acreditó la defunción 58 personas y 311 personas dieron positivo a COVID."
-image: /uploads/2021/images-diapositiva3-325.jpg
-video: nil
-audio: /uploads/2021/audio-MJ03_LETICIA_.mp3
-alt: Semana de repunte la última de abril
+image: "/uploads/2021/images-diapositiva3-325.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ03_LETICIA_.mp3"
+alt: "Semana de repunte la última de abril"
 front: false
-section: Local
+section: "Local"
+news_id: 184198
 ---
 
 La última semana de abril se registra un repunte de casos de coronavirus, fueron las palabras de la Directora de Medicina Preventiva y Promoción de la salud, Leticia Ruíz González, al señalar que en las últimas 24 horas se acreditó la defunción 58 personas y 311 personas dieron positivo a COVID.

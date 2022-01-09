@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Autoridades estatales y municipales replantearán el accionar de los grupos de verificación, al permitirse más actividades y aforos con el cambio en el semáforo epidemiológico"
-image: /uploads/2021/images-_DSC0222.JPG
-video: nil
-audio: nil
-alt: Reforzarán Estado y Municipio de Chihuahua acciones de las Células Mixtas en Amarillo Seguro
+image: "/uploads/2021/images-_DSC0222.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reforzarán Estado y Municipio de Chihuahua acciones de las Células Mixtas en Amarillo Seguro"
 front: false
-section: Local
+section: "Local"
+news_id: 182281
 ---
 
 En reunión virtual del secretario general de Gobierno, Luis Fernando Mesta Soulé, con la alcaldesa del Municipio de Chihuahua, Angélica Granados Trespalacios, coincidieron en fortalecer las inspecciones de las Células Mixtas, tras el cambio del semáforo epidemiológico a color Amarillo Seguro.

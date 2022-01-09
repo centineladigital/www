@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A partir del miércoles, el gobierno entregará ayudas de emergencia de al menos 300 millones de euros (unos 350 millones de dólares). "
-image: /uploads/2021/images-autoridades-continuan-trabajando-alemania-inundaciones_0_22_1024_638.jpg
-video: nil
-audio: nil
-alt: Aumenta a 165 el número de muertos por históricas inundaciones en Alemania
+image: "/uploads/2021/images-autoridades-continuan-trabajando-alemania-inundaciones_0_22_1024_638.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aumenta a 165 el número de muertos por históricas inundaciones en Alemania"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185772
 ---
 
 El gobierno de Angela Merkel prometió hoy mejorar el sistema nacional de alerta ante catástrofes, muy criticado durante las devastadoras inundaciones, las que dejaron 165 muertos en Alemania, que son atribuidas por no haber avisado lo suficientemente rápido a la población en peligro.

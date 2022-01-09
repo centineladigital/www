@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Debido a que en los últimos siete días, personal del H. Cuerpo de Bomberos atendió un total de 30 casos relacionados con presencia de abejas en sitios donde representaban un riesgo para la sociedad"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Emite Bomberos recomendaciones por presencia de abejas en la ciudad
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Emite Bomberos recomendaciones por presencia de abejas en la ciudad"
 front: false
-section: Local
+section: "Local"
+news_id: 186631
 ---
 
 Si bien las abejas van de paso y su presencia es temporal, tratar de quitarlas puede irritarlas y derivar en ataques tanto a personas como a mascotas, por eso, de representar un peligro o tratarse de un enjambre de considerable tamaño, se debe reportar su presencia al 9-1-1 para que personal especializado se haga cargo de la situación.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señala Consejero Jurídico que pudiera darse en dos semanas."
-image: /uploads/2021/images-JORGE_ESPINOZA.jpg
-video: nil
-audio: /uploads/2021/audio-MW03_JORGE_ESPINOZA.mp3
-alt: Postergan nuevamente audiencia de extradición de exgobernador
+image: "/uploads/2021/images-JORGE_ESPINOZA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW03_JORGE_ESPINOZA.mp3"
+alt: "Postergan nuevamente audiencia de extradición de exgobernador"
 front: false
-section: Local
+section: "Local"
+news_id: 182111
 ---
 
 Este miércoles la juez que lleva el caso de extradición del exgobernador César Duarte postergó nuevamente la audiencia para llevara cabo el proceso, según fue dado a conocer por parte del Consejero Jurídico Jorge Espinoza Cortés.

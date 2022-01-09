@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Exhorta a la población a evitar aglomeraciones en el actual proceso electoral, no hacerlo podría ocasionar una curva o una oleada de COVID-19 como la de octubre de 2020, advierte directora de Medicina Preventiva"
-image: /uploads/2021/images-Dra._Leticia_Ruiz.jpeg
-video: nil
-audio: nil
-alt: Partidos y candidatos deben ser corresponsables por restricciones sanitarias -  Salud
+image: "/uploads/2021/images-Dra._Leticia_Ruiz.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Partidos y candidatos deben ser corresponsables por restricciones sanitarias -  Salud"
 front: false
-section: Local
+section: "Local"
+news_id: 184195
 ---
 
 La directora de Prevención y Control de Enfermedades de la Secretaría de Salud, Leticia Ruiz González, hizo un exhorto a los candidatos y partidos políticos que participan en el actual proceso electoral, a que realicen sus campañas de una manera responsable y traten de evitar al máximo el aglutinamiento de personas en sus eventos.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La poca organización para que cada una pudiera hablar sobre el certamen de belleza no se hizo visible, pues en más de una ocasión Vanessa Claudio le arrebató la palabra a Alicia Machado. "
-image: /uploads/2021/images-vanessa-claudio-interrumpio-alicia-machado.jpg
-video: nil
-audio: nil
-alt: ¿TV Azteca la regañó? Critican a Vanessa Claudio por interrumpir a Alicia Machado en 'Miss Universo 2021'
+image: "/uploads/2021/images-vanessa-claudio-interrumpio-alicia-machado.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿TV Azteca la regañó? Critican a Vanessa Claudio por interrumpir a Alicia Machado en 'Miss Universo 2021'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184496
 ---
 
 Alicia Machado y Vanessa Claudio protagonizaron un incómodo momento durante la transmisión en vivo de Miss Universo 2021 por TV Azteca. ¿Qué fue lo que pasó? Resulta que ambas condujeron el programa del certamen de belleza que se transmitió desde la señal de Azteca Uno, en donde como expertas hablaron sobre lo que pasaba en el show. Sin embargo, en medio, de este ejercicio televisivo, Alicia Machado se vio interrumpida en varias ocasiones por su compañera Vanessa Claudio. La situación bochornosa se notó a tal punto que los internautas la criticaron en redes sociales, pues su conducción se vio atropellada al no dejar hablar a su compañera Alicia Machado. 

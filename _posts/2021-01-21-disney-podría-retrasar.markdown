@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Esto se debe al ambiente de incertidumbre sobre el avanzar de la pandemia en el mundo. "
-image: /uploads/2021/images-black-widow-instagram.jpg
-video: nil
-audio: nil
-alt: Disney podría retrasar otra vez estreno de Black Widow un año más
+image: "/uploads/2021/images-black-widow-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "Disney podría retrasar otra vez estreno de Black Widow un año más"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182349
 ---
 
 A la industria cinematográfica no le ha ido nada bien en tiempos de covid-19. A pesar de que muchos comienzan a programar fechas de estreno en cines para este año, como en el caso de Guillermo del Toro con Nightmare Alley, otras películas corren el riesgo de ser retrasadas otras vez. Tal es el caso de Black Widow, pues, a pesar de que su estreno es uno de los más esperados de 2021, por el momento, la cinta protagonizada por Scarlett Johansson, que funciona a modo de precuela de Avengers: Endgame, y si las últimas informaciones son ciertas, los fans aún tendrán que esperar más, porque los retrasos del pasado año podrían extenderse hasta 2022 a tenor de la negativa evolución de la pandemia. 

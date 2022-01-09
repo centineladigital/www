@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aseguraron los empresarios que esta reforma es además un detonante de incontables demandas"
-image: /uploads/2021/images-PRINCIPAL_REFORMA.jpg
-video: nil
-audio: nil
-alt: Retroceso y atentado contra la ecología; reprueban empresarios reforma eléctrica
+image: "/uploads/2021/images-PRINCIPAL_REFORMA.jpg"
+video: "nil"
+audio: "nil"
+alt: "Retroceso y atentado contra la ecología; reprueban empresarios reforma eléctrica"
 front: false
-section: Local
+section: "Local"
+news_id: 183262
 ---
 
 Los miembros y representantes de la industria privada en Chihuahua manifestaron que la aprobación de la reforma a la ley de la industria eléctrica es un atentado contra la ecología, un retroceso en materia de energías, un detonante de incontables demandas y un declive para la competitividad.

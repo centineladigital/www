@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La doctora Sarahí Hernández Pacheco dio a conocer que ella junto con otras 11 personas fueron vacunadas el sábado; esperan resolución 130 personas"
-image: /uploads/2021/images-2564787.jpg
-video: nil
-audio: nil
-alt: Gracias a amparo, vacunan a doctora y personal de clínica privada
+image: "/uploads/2021/images-2564787.jpg"
+video: "nil"
+audio: "nil"
+alt: "Gracias a amparo, vacunan a doctora y personal de clínica privada"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183952
 ---
 
 La doctora Sarahí Hernández Pacheco informó que luego de que el 15 de abril se diera a conocer un fallo a favor, fue vacunada el pasado sábado en las instalaciones del Campo Número 22, en Toluca, Estado de México.

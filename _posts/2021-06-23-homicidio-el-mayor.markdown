@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señala que se debe de fomentar las órdenes de cateo."
-image: /uploads/2021/images-EMILIO1.jpg
-video: nil
-audio: /uploads/2021/audio-MW02.mp3
-alt: Homicidio el mayor reto para la próxima administración -  García Ruiz
+image: "/uploads/2021/images-EMILIO1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW02.mp3"
+alt: "Homicidio el mayor reto para la próxima administración -  García Ruiz"
 front: false
-section: Local
+section: "Local"
+news_id: 185207
 ---
 
 El homicidio es el mayor reto que tiene la próxima administración fue la respuesta del titular de la Secretaría de Seguridad en el Estado al ser cuestionado sobre el tema. Afirmando, que este es el principal problema que se atiende.

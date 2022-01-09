@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante compartió una serie de fotografías con las que confirmó la noticia. "
-image: /uploads/2021/images-halsey-anuncia-que-esta-embarazada.jpg
-video: nil
-audio: nil
-alt: ¡Sorpresa! Halsey anuncia su embarazo; así mostró su pancita
+image: "/uploads/2021/images-halsey-anuncia-que-esta-embarazada.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Sorpresa! Halsey anuncia su embarazo; así mostró su pancita"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182503
 ---
 
 La pandemia por coronavirus ha ocasionado que muchas celebridades dentro del espectáculo anuncien el término de su relación. Un caso es el de Michelle Renaud y Danilo Carrera o el de Elliot Page, quien se divorció de su esposa Emma Portner después de tres años de matrimonio. 

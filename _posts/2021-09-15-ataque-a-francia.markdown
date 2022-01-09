@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Salah Abdeslam es el único de los terroristas con vida tras el hecho ocurrido en varios puntos de la capital del país europeo, donde murieron 130 personas."
-image: /uploads/2021/images-audiencia-presento-dibujo-grafica-expuesto-1_0_37_1024_637.jpg
-video: nil
-audio: nil
-alt: Ataque a Francia no fue nada personal, dice acusado por atentados de EI en París en 2015
+image: "/uploads/2021/images-audiencia-presento-dibujo-grafica-expuesto-1_0_37_1024_637.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ataque a Francia no fue nada personal, dice acusado por atentados de EI en París en 2015"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187743
 ---
 
 "Atacamos Francia, a la población, a civiles, pero no fue nada personal",  dijo hoy Salah Abdeslam, el único miembro con vida de los comandos yihadistas que dejaron 130 muertos el 13 de noviembre de 2015 en el país europeo y que desde hace unos días se encuentra enfrentando la justicia en París.. 

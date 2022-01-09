@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue en su cuenta de Facebook en donde Bella de la Vega confirmó la noticia de que el actor José Ángel García había muerto tras no superar la fibrosis pulmonar que lo aquejaba. "
-image: /uploads/2021/images-muere-jose-angel-garcia-papa_1_22_1078_672.jpg
-video: nil
-audio: nil
-alt: Falleció José Ángel García, padre de Gael García Bernal, tras padecer fibrosis pulmonar
+image: "/uploads/2021/images-muere-jose-angel-garcia-papa_1_22_1078_672.jpg"
+video: "nil"
+audio: "nil"
+alt: "Falleció José Ángel García, padre de Gael García Bernal, tras padecer fibrosis pulmonar"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182358
 ---
 
 José Ángel García, actor y padre de Gael García Bernal, falleció a los 62 años tras ser hospitalizado en la Ciudad de México por padecer fibrosis pulmonar. La noticia sobre el deceso del histrión mexicano se dio a conocer, luego de que su actual pareja lo comunicara en Facebook. La actriz Bella de la Vega dedicó una conmovedora publicación. Te contamos lo que sabemos. 

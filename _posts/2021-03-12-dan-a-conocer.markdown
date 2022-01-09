@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se darán conferencias en diversas plataformas."
-image: /uploads/2021/images-ANABEL.jpg
-video: nil
-audio: /uploads/2021/audio-MV05_ANABEL_SOSA.mp3
-alt: Dan a conocer actividades de Normal del Estado
+image: "/uploads/2021/images-ANABEL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05_ANABEL_SOSA.mp3"
+alt: "Dan a conocer actividades de Normal del Estado"
 front: false
-section: Local
+section: "Local"
+news_id: 183404
 ---
 
 Con el nombre de "Los retos de educar en la nueva normalidad" se llevará a cabo la Semana Académica de la Normal del Estado, la cual inicia el 16 de marzo según lo dio a conocer Anabel Sosa Fierro, subdirectora académica de la institución.

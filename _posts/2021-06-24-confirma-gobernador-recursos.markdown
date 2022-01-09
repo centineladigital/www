@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Informa Javier Corral los resultados de la gira de trabajo en la Ciudad de México; también hubo intercambio de información con Santiago Nieto sobre procesos de la Operación justicia para Chihuahua"
-image: /uploads/2021/images-rp_jcj.JPG
-video: nil
-audio: nil
-alt: Confirma Gobernador recursos para obras de infraestructura pendientes en Juárez y Chihuahua
+image: "/uploads/2021/images-rp_jcj.JPG"
+video: "nil"
+audio: "nil"
+alt: "Confirma Gobernador recursos para obras de infraestructura pendientes en Juárez y Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 185223
 ---
 
 El gobernador Javier Corral Jurado informó que en su gira de trabajo por la Ciudad de México se obtuvieron avances muy importantes con el Gobierno Federal, sobre todo en apoyos para obras de infraestructura en Ciudad Juárez y en la capital del estado.

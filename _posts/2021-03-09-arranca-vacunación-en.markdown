@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se instalan cinco módulos en la ciudad."
-image: /uploads/2021/images-WENDY2.jpg
-video: nil
-audio: /uploads/2021/audio-MM03_WENDY_AVILA.mp3
-alt: Arranca vacunación en Delicias esta semana
+image: "/uploads/2021/images-WENDY2.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM03_WENDY_AVILA.mp3"
+alt: "Arranca vacunación en Delicias esta semana"
 front: false
-section: Local
+section: "Local"
+news_id: 183356
 ---
 
 Esta semana dio inicio la campaña de vacunación en Delicias, según lo expresó Wendy Avila Coronado, Subdirectora de Medicina Preventiva y Promoción para la Salud. Esto a partir de este martes, señalando que se instalaron cinco módulos.

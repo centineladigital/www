@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma mandatario que esto es tema de tres años atrás."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-MM03_JAVIER_CORRAL.mp3
-alt: Actuaremos legalmente contra Lebaron -  Corral
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM03_JAVIER_CORRAL.mp3"
+alt: "Actuaremos legalmente contra Lebaron -  Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 184276
 ---
 
 “Nosotros vamos a responder legalmente” fueron las palabras del Gobernador del Estado, Javier Corral Jurado, al afirmar que los señalamientos que se realizan por parte de integrantes de la comunidad de Lebaron se debe a calumnias por cuestiones personales.

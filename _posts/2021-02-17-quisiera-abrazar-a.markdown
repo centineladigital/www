@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz arremetió en contra de aquellos que organizan fiestas en plena pandemia; además expresó su emoción por el inicio de la jornada de vacunación contra el covid-19 . "
-image: /uploads/2021/images-sherlyn-rompe-llanto-situacion-vive_8_0_1184_736.jpg
-video: nil
-audio: nil
-alt: Quisiera abrazar a todos -  Sherlyn rompe en llanto ante situación que se vive por covid-19
+image: "/uploads/2021/images-sherlyn-rompe-llanto-situacion-vive_8_0_1184_736.jpg"
+video: "nil"
+audio: "nil"
+alt: "Quisiera abrazar a todos -  Sherlyn rompe en llanto ante situación que se vive por covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182985
 ---
 
 Sherlyn González se convirtió en mamá en 2020, año en el que dio a luz a su primogénito André. Pese a las dificultades que atravesó durante su embarazo debido a la pandemia de covid-19, la actriz recibió a su bebé en mayo. Sin embargo, la famosa rompió en llanto al hablar de la situación que vive todo el mundo por la crisis sanitaria, pero reconoció que la jornada de vacunación que inicio hace unos días en México "es la luz al final del túnel".  Fue a través de sus historias de Instagram que Sherlyn González reaccionó a las imágenes que se han difundido de los adultos mayores que ya recibieron la vacuna contra el covid-19. 

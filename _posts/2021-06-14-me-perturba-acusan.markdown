@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue en redes sociales en donde comenzaron a señalar a Bárbara de Regil como una victimaria. Esto después del testimonio de un joven que está siendo hostigado al igual que su familia por hablar sobre uno de los productos de la famosa. "
-image: /uploads/2021/images-barbara-regil-responde-criticas-compartir_0_12_968_603.jpg
-video: nil
-audio: nil
-alt: Me perturba -  Acusan a Bárbara de Regil de fraude y hostigamiento tras señalamientos a su proteína
+image: "/uploads/2021/images-barbara-regil-responde-criticas-compartir_0_12_968_603.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me perturba -  Acusan a Bárbara de Regil de fraude y hostigamiento tras señalamientos a su proteína"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185018
 ---
 
 Bárbara de Regil, influencer fitness y actriz en Rosario Tijeras, de nueva cuenta está en polémica, pues ahora la acusan de fraude y de hostigamiento. La controversial figura del espectáculo otra vez está envuelta en críticas, luego de que en las pasadas elecciones violara la veda electoral junto a más famosos que apoyaron al Partido Verde Ecologista de México (PVEM). ¿Por qué ahora la acusan de hostigamiento y fraude? Te contamos lo que sabemos sobre este nuevo episodio de Bárbara de Regil. 

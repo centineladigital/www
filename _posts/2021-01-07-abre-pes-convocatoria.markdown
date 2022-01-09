@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La inscripción a contender 9 al 13 de enero."
-image: /uploads/2021/images-DAVID_MEDINA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01_DAVID_MEDINA.mp3
-alt: Abre PES convocatoria a candidatos
+image: "/uploads/2021/images-DAVID_MEDINA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01_DAVID_MEDINA.mp3"
+alt: "Abre PES convocatoria a candidatos"
 front: false
-section: Local
+section: "Local"
+news_id: 181948
 ---
 
 El Partido Encuentro Solidario dio a conocer este jueves la apertura de sus convocatorias para candidatos a gobernatura, alcaldías, sindicaturas y diputaciones, según lo dio a conocer el dirigente estatal de este organismo político David Medina. 

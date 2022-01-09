@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Inicia la vacunación contra Covid-19 en Chihuahua"
-image: /uploads/2021/images-WhatsApp_Image_2021-01-13_at_8.47.54_AM.jpeg
-video: nil
-audio: nil
-alt: Inicia la vacunación contra Covid-19 en Chihuahua
+image: "/uploads/2021/images-WhatsApp_Image_2021-01-13_at_8.47.54_AM.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Inicia la vacunación contra Covid-19 en Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 182088
 ---
 
 Personal de salud del Hospital Central Dr. Jesús Enrique Grajeda Herrera empezó a vacunarse contra el virus SARS CoV2 que ocasiona la enfermedad Covid-19.

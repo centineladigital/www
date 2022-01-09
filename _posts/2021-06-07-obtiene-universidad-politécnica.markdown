@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: " La certificación se suma a la obtenida para la Licenciatura en Administración y Gestión Empresarial"
-image: /uploads/2021/images-Foto_de_Archivo.jpg
-video: nil
-audio: nil
-alt: Obtiene Universidad Politécnica de Chihuahua acreditación de calidad académica de la Ingeniería en Aeronáutica
+image: "/uploads/2021/images-Foto_de_Archivo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Obtiene Universidad Politécnica de Chihuahua acreditación de calidad académica de la Ingeniería en Aeronáutica"
 front: false
-section: Local
+section: "Local"
+news_id: 184901
 ---
 
 La Universidad Politécnica de Chihuahua (UPCH) obtuvo la acreditación de calidad académica de la Ingeniería en Aeronáutica por parte del Consejo de Acreditación de la Enseñanza de la Ingeniería (Cacei).

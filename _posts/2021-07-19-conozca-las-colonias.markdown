@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los vecinos podrán llevar sus tiliches a los macro contenedores"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Conozca las colonias que atenderá el Destilichadero esta semana
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Conozca las colonias que atenderá el Destilichadero esta semana"
 front: false
-section: Local
+section: "Local"
+news_id: 185790
 ---
 
 El programa Destilichadero continúa realizando labores en distintas zonas de la ciudad, para la eliminación de acumulación de tiliches en viviendas que generan riesgos de salud por presencia de animales ponzoñosos, además las familias pueden deshacerse de los residuos de gran volumen que el camión recolector no retira.

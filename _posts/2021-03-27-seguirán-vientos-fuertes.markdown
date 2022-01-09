@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa Protección Civil estatal que con el ingreso del Frente Frío 46, disminuirán las temperaturas por la mañana de este domingo con mínimas en Chihuahua de 7°C, Juárez y Parral 5°C, Janos 2°C, Madera -1°C, Temósachic -2°C, Cuauhtémoc 1°C, y El Vergel -3°C"
-image: /uploads/2021/images-WhatsApp_Image_2021-03-27_at_11.58.08_AM_(2).jpeg
-video: nil
-audio: nil
-alt: Seguirán vientos fuertes y bajas temperaturas en algunos municipios del estado
+image: "/uploads/2021/images-WhatsApp_Image_2021-03-27_at_11.58.08_AM_(2).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Seguirán vientos fuertes y bajas temperaturas en algunos municipios del estado"
 front: false
-section: Local
+section: "Local"
+news_id: 183584
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) pide tomar medidas preventivas ya que este sábado y domingo se mantendrán las bajas temperaturas por las mañanas y ráfagas de viento de hasta 75 kilómetros por hora (km/) por las tardes.

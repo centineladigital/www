@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Recordamos el primer papel en el cine de la actriz, famosa por la saga de Crepúsculo (2008-2012) y por cintas como La habitación del pánico (2002). "
-image: /uploads/2021/images-kristen-stewart-debuto-cine-anos.jpg
-video: nil
-audio: nil
-alt: ¡Efímero, pero adorable! Así fue el debut en el cine de Kristen Stewart a los 9 años
+image: "/uploads/2021/images-kristen-stewart-debuto-cine-anos.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Efímero, pero adorable! Así fue el debut en el cine de Kristen Stewart a los 9 años"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183782
 ---
 
 Kristen Stewart alcanzó la fama gracias a su papel de Bella Swan, el cual interpretó de 2008 a 2012 en la saga de Crepúsculo. Si bien es cierto que gracias a esas películas su carrera despegó, ya había demostrado su calidad como actriz en cintas como La habitación del pánico (2002) y The Runaways (2010), en la que dio vida a la icónica cantante Joan Jett. Nacida el 9 de abril de 1990, Kristen Jaymes Stewart celebra hoy su cumpleaños número 31. La estrella incursionó en el séptimo arte desde muy pequeñita. Recordamos su primer papel en el cine, cuando apenas tenía 9 años. 

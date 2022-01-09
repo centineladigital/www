@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Contará con una bolsa de 28 millones de pesos."
-image: /uploads/2021/images-CONCEPCION_LANDA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ04_CONCEPCION_LANDA.mp3
-alt: Presentan programa de estímulos fiscales Eka Nawéame
+image: "/uploads/2021/images-CONCEPCION_LANDA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ04_CONCEPCION_LANDA.mp3"
+alt: "Presentan programa de estímulos fiscales Eka Nawéame"
 front: false
-section: Local
+section: "Local"
+news_id: 182150
 ---
 
 Este jueves fue dado a conocer el programa de estímulos fiscales Eka Naweame, donde se busca crear acciones para fomento de la cultura, según lo dio a conocer la titular de la Secretaría de Cultura, Concepción Landa García-Tellez. La cual contará este año con una bolsa de 28 millones de pesos, el cual contará con un tope de 500 mil pesos en cada categoría.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: " En el último reporte epidemiológico se reportaron 288 nuevos contagios y 32 defunciones más; van 148 mil 032 celulares registrados a la aplicación “Salud Digital”"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Supera Chihuahua las 6 mil muertes confirmadas de COVID-19
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Supera Chihuahua las 6 mil muertes confirmadas de COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 183919
 ---
 
 El Reporte COVID-19 de la Secretaría de Salud muestra que hay un total general de 61 mil 494 contagios, tras confirmarse otros 288 nuevos casos; mientras que el número de personas fallecidas incrementó en 32, con lo que  suman ya 6 mil 020 decesos en el estado, a más de un año de la pandemia.

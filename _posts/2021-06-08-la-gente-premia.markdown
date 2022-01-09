@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Destacó que la gran participación electoral que se tuvo en la ciudad lo compromete aún más con los chihuahuenses para cumplir todas las promesas de campaña"
-image: /uploads/2021/images-Bonilla2-Och.jpg
-video: nil
-audio: nil
-alt: La gente premia los buenos resultados -  Marco Bonilla
+image: "/uploads/2021/images-Bonilla2-Och.jpg"
+video: "nil"
+audio: "nil"
+alt: "La gente premia los buenos resultados -  Marco Bonilla"
 front: false
-section: Local
+section: "Local"
+news_id: 184915
 ---
 
 El virtual ganador de la contienda por la presidencia municipal de Chihuahua, Marco Bonilla Mendoza, expresó que los chihuahuenses han premiado los buenos resultados, ya que eligieron a quienes verdaderamente han demostrado su trabajo ante los ciudadanos, que estaban ansiosos por tener nuevos gobiernos, luego de los nulos resultados que han ofrecido los gobiernos estatal y federal.

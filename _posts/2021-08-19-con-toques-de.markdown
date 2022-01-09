@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "James Wan dijo que la segunda parte de Aquaman estará inspirada en la película Planet of the Vampires. "
-image: /uploads/2021/images-aqua1.jpg
-video: nil
-audio: nil
-alt: ¿Con toques de 'El Conjuro'? Aquaman 2 estará inspirada en película de terror
+image: "/uploads/2021/images-aqua1.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Con toques de 'El Conjuro'? Aquaman 2 estará inspirada en película de terror"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186879
 ---
 
 Luego de la buena crítica que tuvo El Escuadrón Suicida 2, los fans están poniendo atención a todo lo que pueda sacar el Universo Cinematográfico de DC Comics en los próximos años y una de estas esperadas cintas sin duda es la segunda parte de Aquaman, la cual es dirigida por James Wan, el responsable de proyectos como El Conjuro.  En una entrevista con la revista de entretenimiento Total Film, James Wan dijo que la segunda parte de Aquaman estará inspirada en la película Planet of the Vampires, cuya esencia de la cinta es que "puedes sacar al chico del horror, pero nunca puedes quitar el horror fuera del chico". 

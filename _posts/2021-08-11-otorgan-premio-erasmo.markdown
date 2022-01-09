@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Informa Secretaría de Cultura que el autor recibirá un estímulo de 50 mil pesos y la publicación de su obra en idioma ralámuli, Bilé Towí Na’táala (Pensamientos de un niño), este sábado 14 en el marco del FICH  "
-image: /uploads/2021/images-Jesús_Manuel_Palma_Batista.jpeg
-video: nil
-audio: nil
-alt: Otorgan Premio Erasmo Palma 2021 a Jesús Manuel Palma Batista
+image: "/uploads/2021/images-Jesús_Manuel_Palma_Batista.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Otorgan Premio Erasmo Palma 2021 a Jesús Manuel Palma Batista"
 front: false
-section: Local
+section: "Local"
+news_id: 186584
 ---
 
 En el marco del Festival Internacional Chihuahua (FICH), el Gobierno del Estado de Chihuahua otorgará el Premio Indígena Literario a Jesús Manuel Palma Batista, que consta de un estímulo de 50 mil pesos y la publicación de su obra en idioma ralámuli, Bilé Towí Na’táala (Pensamientos de un niño).

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Necesario ya que muchos no cuentan con herramientas para el aprovechamiento escolar."
-image: /uploads/2021/images-MB.jpg
-video: nil
-audio: /uploads/2021/audio-MW05_MONICA_BORRUEL.mp3
-alt: Factible regreso a clases -  Borruel
+image: "/uploads/2021/images-MB.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW05_MONICA_BORRUEL.mp3"
+alt: "Factible regreso a clases -  Borruel"
 front: false
-section: Local
+section: "Local"
+news_id: 184802
 ---
 
 Ante la vacunación de la mayor parte de los docentes y el avance a la población en general la regidora presidenta de la Comisión de Educación en el Municipio de Chihuahua, Mónica Borruel Macías, calificó como factible el hecho de que se regrese a clases.

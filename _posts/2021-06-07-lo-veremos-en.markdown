@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Rafael Amaya confirmó que tras su rehabilitación para sus adicciones, volverá a la actuación y ya tiene en puerta varios proyectos."
-image: /uploads/2021/images-rafael-amaya-estuvo-alejado-de.jpg
-video: nil
-audio: nil
-alt: ¡Lo veremos en varios proyectos! Rafael Amaya anuncia que regresa a la actuación
+image: "/uploads/2021/images-rafael-amaya-estuvo-alejado-de.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Lo veremos en varios proyectos! Rafael Amaya anuncia que regresa a la actuación"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184898
 ---
 
 En diciembre del 2020 se informó que Rafael Amaya había estado en una de las clínicas de rehabilitación del boxeador Julio César Chávez para poder superar sus adicciones. Ahora que al parecer está recuperado, el protagonista de El señor de los cielos informó que muy pronto lo veremos en la pantalla chica. A través de un comunicado, se anunció que Rafael Amaya firmó un contrato de múltiples proyectos con Telemundo Global Studios, por lo que es muy probable que en poco tiempo el histrión vuelva a aparecer en la pantalla chica. La información también fue confirmada por el histrión en Instagram. 

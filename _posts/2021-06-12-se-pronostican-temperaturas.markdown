@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Coordinación Estatal de Protección Civil informa que también se podrían presentar rachas de viento de entre 65 y 35 km/h en el estado"
-image: /uploads/2021/images-CALOR_PERSONAS_ADULTAS_MAYORES.JPG
-video: nil
-audio: nil
-alt: Se pronostican temperaturas alrededor de 40°C para varios municipios -  CEPC
+image: "/uploads/2021/images-CALOR_PERSONAS_ADULTAS_MAYORES.JPG"
+video: "nil"
+audio: "nil"
+alt: "Se pronostican temperaturas alrededor de 40°C para varios municipios -  CEPC"
 front: false
-section: Local
+section: "Local"
+news_id: 185009
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que para este sábado se esperan temperaturas máximas de 38°C en Chihuahua, en Juárez de 41°C, en Janos 41°C, Ojinaga 42°C, Delicias 40°C, y Camargo 38°C.

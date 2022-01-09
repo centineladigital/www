@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de prácticas de higiene personal y del hogar, así como del cuidado de mascotas, se puede evitar este padecimiento, que en lo que va del año, ha registrado en la entidad 36 casos confirmados y 10 defunciones"
-image: /uploads/2021/images-5.jpg
-video: nil
-audio: nil
-alt: Emite Secretaría de Salud recomendaciones  para prevenir la rickettsia
+image: "/uploads/2021/images-5.jpg"
+video: "nil"
+audio: "nil"
+alt: "Emite Secretaría de Salud recomendaciones  para prevenir la rickettsia"
 front: false
-section: Local
+section: "Local"
+news_id: 187158
 ---
 
 A través del Programa de Vectores, Rabia y Zoonosis, la Secretaría de Salud, hace un llamado a la población en general, a mantener las prácticas de higiene personal, así como del interior y exterior de sus hogares, además de los cuidados correspondientes a mascotas y animales domésticos, a fin de prevenir los casos de rickettsiosis.

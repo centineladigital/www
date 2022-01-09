@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz compartió unas románticas imágenes a través de sus historias de Instagram para confirmar que retomó su relación amorosa con Osvaldo Benavides. "
-image: /uploads/2021/images-esmeralda-pimentel-comparte-video-osvaldo.jpg
-video: nil
-audio: nil
-alt: ¿Regresaron? Esmeralda Pimentel comparte romántico video con Osvaldo Benavides
+image: "/uploads/2021/images-esmeralda-pimentel-comparte-video-osvaldo.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Regresaron? Esmeralda Pimentel comparte romántico video con Osvaldo Benavides"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184193
 ---
 
 Esmeralda Pimentel y Osvaldo Benavides se convirtieron en una de las parejas más populares de la farándula mexicana en 2018, año en el que hicieron oficial su relación, pero a finales de 2019 la actriz reveló en el programa Sale el Sol que había terminado su romance con el actor sin dar detalles de los motivos; sin embargo, todo indica que los famosos están de nuevo juntos.  Los rumores de que habían retomado su relación comenzaron a circular en marzo cuando Esmeralda Pimentel compartió una fotografía en Instagram, en donde se le ve acompañada de Benavides, pues aunque no se observa su rostro si se alcanza a apreciar el tatuaje que el actor luce en uno de sus brazos.  

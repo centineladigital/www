@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Destacadas figuras de la industria musical compartieron emotivos mensajes para despedir a 'El Rey del Merengue'."
-image: /uploads/2021/images-juan-luis-guerra-despide-emotivo-1_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Por tu música y legado -  Juan Luis Guerra despide con emotivo mensaje a Johnny Ventura
+image: "/uploads/2021/images-juan-luis-guerra-despide-emotivo-1_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Por tu música y legado -  Juan Luis Guerra despide con emotivo mensaje a Johnny Ventura"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186088
 ---
 
 El mundo de la música está de luto: Johnny Ventura, leyenda del merengue dominicano, falleció el pasado miércoles a los 81 años de edad tras sufrir un ataque al corazón. Tras darse a conocer la noticia, destacadas figuras de la industria han expresado su pesar por el deceso del cantante, entre ellas destacan los artistas Juan Luis Guerra, Eddie Palmieri y Héctor Acosta El Torito, quienes compartieron emotivos mensajes en sus redes sociales. 

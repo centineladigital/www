@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La ciudad presenta diferentes planes y escenarios; todo dependerá de la situación de la pandemia en junio y julio"
-image: /uploads/2021/images-2557688.jpg
-video: nil
-audio: nil
-alt: Múnich presenta un plan ‘con público’ para la Eurocopa
+image: "/uploads/2021/images-2557688.jpg"
+video: "nil"
+audio: "nil"
+alt: "Múnich presenta un plan ‘con público’ para la Eurocopa"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183702
 ---
 
 La ciudad de Múnich presentó un plan que contempla la presencia de espectadores en sus partidos de la Eurocopa (11 junio-11 julio), 24 horas antes de la fecha límite fijada por la UEFA a las ciudades-sede para presentar sus escenarios previstos.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El conductor presentó su nuevo programa de comedia con Michelle Rodríguez, con quien será el anfitrión de artistas, cantantes y deportistas."
-image: /uploads/2021/images-el-programa-comenzo-sus-transmisiones_0_138_874_544.jpeg
-video: nil
-audio: nil
-alt: Faisy Nights estrenó su propuesta para relajar y divertir a la audiencia
+image: "/uploads/2021/images-el-programa-comenzo-sus-transmisiones_0_138_874_544.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Faisy Nights estrenó su propuesta para relajar y divertir a la audiencia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185060
 ---
 
 El conductor Faisy estrena nuevo programa, "Faisy Nights" , donde comparte pantalla con una de sus grandes amigas, Michelle Rodríguez, quien será la coprotagonista para ofrecer un rato divertido y cómico a la audiencia. La producción está a cargo de Lalo Suárez, quien fue productor de "Otro Rollo", por lo que quiere combinar la comedia que se hacia hace algunos años con el género que se realiza ahora al show, que tendrá invitados especiales de la música, el deporte, el cine y la televisión. 

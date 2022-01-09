@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El atuendo del Niño Dios Covid, que debido a la pandemia se convirtió en el más vendido, es completamente blanco y está acompañada de un cubrebocas y una careta"
-image: /uploads/2021/images-2522489.jpg
-video: nil
-audio: nil
-alt: Niño Dios Covid y Niño Dios Huachicolero los más vendidos por Día de la Candelaria
+image: "/uploads/2021/images-2522489.jpg"
+video: "nil"
+audio: "nil"
+alt: "Niño Dios Covid y Niño Dios Huachicolero los más vendidos por Día de la Candelaria"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182639
 ---
 
 Comerciantes del Centro Histórico de la Ciudad de México destacan que las vestimentas del Niño Dios Covid y el Niño Dios Huachicolero se encuentran entre las más vendidas por la celebración del Día de la Candelaria.

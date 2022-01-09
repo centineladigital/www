@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cifra de desaparecidos por el derrumbe se ubica hoy en 43, mientras que el número de personas localizadas se elevó a 211. "
-image: /uploads/2021/images-gestiones-busqueda-continuan-escombros-edificio_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Sube a 86 el número muertos por derrumbe de edificio en Surfside, Miami
+image: "/uploads/2021/images-gestiones-busqueda-continuan-escombros-edificio_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sube a 86 el número muertos por derrumbe de edificio en Surfside, Miami"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185532
 ---
 
 Los equipos de búsqueda en derrumbe residencial en Surfside, en el sur de Florida, Estados Unidos, rescataron otros siete cuerpos de entre los escombros, con lo que la cifra provisional de fallecidos por el colapso del edificio se eleva a 86.

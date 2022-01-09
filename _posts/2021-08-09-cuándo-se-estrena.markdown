@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Te decimos todo lo que debes saber sobre 'What If...?', la serie animada que reimagina el Universo Cinematográfico Marvel. "
-image: /uploads/2021/images-what.jpg
-video: nil
-audio: nil
-alt: ¿Cuándo se estrena? Esto lo que debes saber sobre 'What If...?', la serie animada del MCU
+image: "/uploads/2021/images-what.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Cuándo se estrena? Esto lo que debes saber sobre 'What If...?', la serie animada del MCU"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186493
 ---
 
 El Universo Cinematográfico Marvel (MCU, por sus siglas en inglés) recibirá una serie fuera de lo común. De por sí, la sorpresa de la fase 4 del MCU se manifestó en principio con series como 'WandaVision', 'Falcon y el Soldado del Invierno' y recientemente, 'Loki'; sin embargo, ahora llegará la particular 'What If...?'. 

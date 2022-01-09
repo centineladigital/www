@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Las acusaciones penales se ejercieron por medio de un modus operandi"
-image: /uploads/2021/images-AUDITOR.jpg
-video: /uploads/2021/videos-BW04_IRVING_ANCHONDO.mp4
-audio: nil
-alt: Se presentarán acusaciones en contra de magistrados y jueces 
+image: "/uploads/2021/images-AUDITOR.jpg"
+video: "/uploads/2021/videos-BW04_IRVING_ANCHONDO.mp4"
+audio: "nil"
+alt: "Se presentarán acusaciones en contra de magistrados y jueces "
 front: false
-section: Local
+section: "Local"
+news_id: 187557
 ---
 
 Se tiene previstas otras acusaciones en contra de ministerios públicos que supuestamente se prestaron para tratar de mantener preso a Jesús  Esparza ex auditor superior del estado de Chihuahua puesto que se le dictaron 11 causas penales en su contra de 13 que tenía.

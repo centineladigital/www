@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El diplomado tiene como objetivo establecer un proceso de profesionalización y actualización en temas relacionados con la aplicación de diagnósticos para determinar la problemática de las víctimas de violencia familiar y de género, así como derechos humanos de las mujeres   "
-image: /uploads/2021/images-unnamed.png
-video: nil
-audio: nil
-alt: Capacita IMM a su personal sobre violencia extrema
+image: "/uploads/2021/images-unnamed.png"
+video: "nil"
+audio: "nil"
+alt: "Capacita IMM a su personal sobre violencia extrema"
 front: false
-section: Local
+section: "Local"
+news_id: 186509
 ---
 
 Como parte de la capacitación constante a fin de mejorar los servicios de atención el Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM) se encuentra brindando un diplomado para la incorporación de los enfoques de interseccionalidad e interculturalidad en el modelo de atención a la violencia extrema del IMM, impartido por TERFU A.C.

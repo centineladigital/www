@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "No han presupuestado recursos extras a la dependencia."
-image: /uploads/2021/images-GARCIA.jpg
-video: /uploads/2021/videos-MW03_EMILIO_GARCIA.mp4
-audio: nil
-alt: SSPE no ha costado extra a Gobierno
+image: "/uploads/2021/images-GARCIA.jpg"
+video: "/uploads/2021/videos-MW03_EMILIO_GARCIA.mp4"
+audio: "nil"
+alt: "SSPE no ha costado extra a Gobierno"
 front: false
-section: Local
+section: "Local"
+news_id: 185673
 ---
 
 “La Secretaría no nos ha costado ni un peso más de lo que tenía presupuestado la Fiscalía” fueron las palabras del titular del área de Seguridad Pública Estatal, Emilio García Ruiz, al señalar que dentro de lo presupuestado a la dependencia no se cuentan con muchos recursos ya que el ejercicio de esta dependencia es parte de lo que se presupuestó a la Fiscalía.

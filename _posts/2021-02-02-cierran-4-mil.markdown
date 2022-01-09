@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Profeco ha detectado del 22 al 31 de enero, 4 mil 402 establecimientos y portales de internet que han sido cerrados por estar vinculados con el fraude en la venta de oxígeno médico"
-image: /uploads/2021/images-2522545.jpg
-video: nil
-audio: nil
-alt: Cierran 4 mil portales y negocios por fraude en venta-renta de oxígeno
+image: "/uploads/2021/images-2522545.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cierran 4 mil portales y negocios por fraude en venta-renta de oxígeno"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182647
 ---
 
 Con la finalidad de recuperar tanques de oxígeno de personas que ya no los necesiten, la Procuraduría Federal del Consumidor (Profeco) y la Comisión Federal para la Protección contra Riesgos Sanitarios (Cofepris) de la Secretaría de Salud, pusieron en marcha la campaña “Devuelve tu tanque. Por amor a la vida”

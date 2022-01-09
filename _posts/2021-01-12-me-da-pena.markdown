@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La hija menor de Joan Sebastian acusó que sus medios hermanos de robarles su herencia; Maribel Guardia sale en defensa de su hijo. "
-image: /uploads/2021/images-robaron-juliana-figueroa-hija-joan.jpg
-video: nil
-audio: nil
-alt: Me da pena -  hija de Joan Sebastian acusa a medios hermanos de robarle la herencia
+image: "/uploads/2021/images-robaron-juliana-figueroa-hija-joan.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me da pena -  hija de Joan Sebastian acusa a medios hermanos de robarle la herencia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182083
 ---
 
 Ya casi se cumplen seis años de que murió el famoso cantante y compositor Joan Sebastian. Sin embargo, pese a ello, la polémica sobre su nombre sigue. Y es que resulta que su hija Juliana Figueroa hizo uso de sus redes sociales para informar que sus hermanos no son honestos y que no le quieren dar la parte que le toca de herencia. ¿La quieren dejar sin nada? ¿Qué le tocaba a Juliana, hija de Joan Sebastian y Erica Alonso? Te contamos lo que expresó la joven y cómo Maribel Guardia aclara la situación. Fue a través de redes sociales en donde Juliana Figueroa expresó su sentir sobre la herencia de su padre Joan Sebastian. Contó que a seis años de la muerte de su progenitor no ha recibido lo que le toca.  La hija menor del interprete de Tatuajes y Erica Alonso vive en Texas, Estados Unidos, razón por la que no es muy cercana a sus otros hermanos–hijos que el cantante tuvo con otras mujeres–. 

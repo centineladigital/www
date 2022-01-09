@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La obra “tiene un carácter muy expresivo, relacionado con lo heroico y lo militar”, dice el musicólogo Israel Cruz Olalde. "
-image: /uploads/2021/images-expertos-recuperaron-sinfonia-dedicada-maximilano.jpg
-video: nil
-audio: nil
-alt: ¡Nunca fue interpretada! Hallan sinfonía perdida dedicada a Maximiliano de Habsburgo
+image: "/uploads/2021/images-expertos-recuperaron-sinfonia-dedicada-maximilano.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Nunca fue interpretada! Hallan sinfonía perdida dedicada a Maximiliano de Habsburgo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184857
 ---
 
 Debido al fracaso de su aventura imperial en México, generalmente se pasan por alto los aciertos de la administración de Maximiliano de Habsburgo, como fue su interés por las cuestiones sociales y el impulso a la cultura, específicamente la música. El musicólogo Israel Cruz Olalde dice en entrevista que “Maximiliano apoyó la fundación de la Sociedad Filarmónica Mexicana que trabajaba desde años atrás y que en 1866 se convirtió en el Conservatorio Nacional, primera escuela profesional de música en nuestro país”. 

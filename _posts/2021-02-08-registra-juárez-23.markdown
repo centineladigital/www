@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Según el Fiscal de Distrito, la violencia registrada, se debe a las disputas entre las células delictivas por el control de la droga, así como por las divisiones internas"
-image: /uploads/2021/images-homicidios_ciudad_juarez.jpg
-video: nil
-audio: nil
-alt: Registra Juárez 23 homicidios durante fin de semana
+image: "/uploads/2021/images-homicidios_ciudad_juarez.jpg"
+video: "nil"
+audio: "nil"
+alt: "Registra Juárez 23 homicidios durante fin de semana"
 front: false
-section: Local
+section: "Local"
+news_id: 182767
 ---
 
 Lamentablemente, este 2021 no pinta nada bien para Ciudad Juárez, luego de que los índices de violencia se incrementaran de forma descomunal los primeros días de febrero.

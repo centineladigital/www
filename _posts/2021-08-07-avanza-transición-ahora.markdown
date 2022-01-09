@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "El equipo de transición encargado de esta área sostuvieron una sesión de trabajo en la que se solicitó información por escrito de la Coordinación Ejecutiva de Gabinete del Estado de Chihuahua"
-image: /uploads/2021/images-7F3CB57A-EB00-45B2-9A7A-BB448A40B35C.jpeg
-video: /uploads/2021/videos-trim.A6DE5D3C-DB2A-4BAA-A588-1CA6885C8F7F.MOV
-audio: nil
-alt: Avanza transición ahora coordinación ejecutiva
+image: "/uploads/2021/images-7F3CB57A-EB00-45B2-9A7A-BB448A40B35C.jpeg"
+video: "/uploads/2021/videos-trim.A6DE5D3C-DB2A-4BAA-A588-1CA6885C8F7F.MOV"
+audio: "nil"
+alt: "Avanza transición ahora coordinación ejecutiva"
 front: false
-section: Local
+section: "Local"
+news_id: 186418
 ---
 
 En seguimiento a las acciones del proceso de transición del Gobierno Estatal, este viernes se tuvo la primera reunión para conocer el estado de la Coordinación Ejecutiva de Gabinete del Estado de Chihuahua entre el equipo designado por la Gobernadora Electa, Maru Campos y representantes de la administración saliente.

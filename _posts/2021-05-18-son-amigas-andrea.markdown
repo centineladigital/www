@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pese a que múltiples personas abarrotaron sus redes con mensajes y felicitaciones, Andrea Meza le respondió a la cantante Ángela Aguilar en Twitter. ¿Qué le dijo? ¿Son amigas? "
-image: /uploads/2021/images-andrea-meza-miss-universo-responde.jpg
-video: nil
-audio: nil
-alt: ¿Son amigas? Andrea Meza, Miss Universo 2021, envía mensaje a Ángela Aguilar tras felicitación
+image: "/uploads/2021/images-andrea-meza-miss-universo-responde.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Son amigas? Andrea Meza, Miss Universo 2021, envía mensaje a Ángela Aguilar tras felicitación"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184512
 ---
 
 Andrea Meza, quien se coronó como la nueva Miss Universo 2021, gracias a su talento, belleza e inteligencia, sorprendió a sus seguidores por su humildad. La modelo originaria de Chihuahua, de tan sólo 26 años, demostró su admiración por la cantante Ángela Aguilar, cantante e hija de Pepe Aguilar que recientemente se vio envuelta en polémica por cantar el Himno Nacional Mexicano. 

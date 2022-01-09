@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Presidente indicó que ya se iniciaron las investigaciones por el asesinato y que se trabaja para que no haya impunidad"
-image: /uploads/2021/images-lopez-obrador-lamento-asesinato-fiscal_0_2_1200_745.jpeg
-video: nil
-audio: nil
-alt: Asesinato de fiscal en Chiapas podría estar relacionado con conflicto en Pantelhó -  AMLO
+image: "/uploads/2021/images-lopez-obrador-lamento-asesinato-fiscal_0_2_1200_745.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Asesinato de fiscal en Chiapas podría estar relacionado con conflicto en Pantelhó -  AMLO"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186542
 ---
 
 El presidente Andrés Manuel López Obrador consideró que el asesinato del fiscal de Justicia Indígena en Chiapas, Gregorio Pérez Gómez, podría estar relacionado con el conflicto en Pantelhó. En la conferencia mañanera, el mandatario lamentó este crimen y dijo que se está trabajando todos los días para que no haya impunidad. 

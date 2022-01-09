@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La artista debutó con su sencillo Becky from the Block, una versión de la exitosa canción de Jennifer López; así lucía la cantante antes de alcanzar la fama. "
-image: /uploads/2021/images-asi-lucia-becky-g-antes_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¿La reconoces? Así lucía Becky G antes de ser famosa
+image: "/uploads/2021/images-asi-lucia-becky-g-antes_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿La reconoces? Así lucía Becky G antes de ser famosa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183223
 ---
 
 Rebbeca Marie Gómez, mejor conocida como Becky G, es una de las exponentes del género urbano más populares del momento. La cantante estadunidense, quien hoy cumple 24 años, mostró interés por incursionar en la música desde su adolescencia; sin embargo, obtuvo reconocimiento tras abrir un canal en YouTube donde compartía covers de exitosas canciones. La artista debutó de manera oficial en la industria con su sencillo "Becky from the Block", una nueva versión del tema que lanzó Jennifer Lopez en 2002 ("Jenny from the Block"). Por si fuera poco, JLo hace una aparición especial en el video musical de Becky G.  

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con estas acciones, el Gobierno Municipal sigue trabajando para mantener en las mejores condiciones el sistema de alumbrado público de la ciudad."
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Atiende Municipio más de 800 desperfectos en alumbrado público en lo que va de septiembre
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Atiende Municipio más de 800 desperfectos en alumbrado público en lo que va de septiembre"
 front: false
-section: Local
+section: "Local"
+news_id: 187792
 ---
 
 El Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, llevó a cabo la reparación de un total de 863 desperfectos en el sistema de alumbrado público en los primeros 15 días de septiembre.

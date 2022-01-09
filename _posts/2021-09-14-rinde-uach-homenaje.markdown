@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Para cerrar la jornada, la OSUACH participará en conjunto con el trío Amadeus, con un concierto único a través de Facebook Live. "
-image: /uploads/2021/images-WhatsApp_Image_2021-09-14_at_10.45.24.jpeg
-video: nil
-audio: nil
-alt: Rinde UACH homenaje a Dante Alighieri por VII centenario luctuoso
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-14_at_10.45.24.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Rinde UACH homenaje a Dante Alighieri por VII centenario luctuoso"
 front: false
-section: Local
+section: "Local"
+news_id: 187716
 ---
 
 La Universidad Autónoma de Chihuahua, a través de la Facultad de Filosofía y Letras, inauguró el homenaje por el VII centenario luctuoso de Dante Alighieri, ofreciendo conferencias, mesas de análisis y la presentación de libros editados por la misma UACH.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Es conocido por los chihuahuenses como “La Casa de la Asegurada”; está ubicado en un edificio que se construyó de manera exprofeso para su funcionalidad, inaugurado el 17 de septiembre de 1976. "
-image: /uploads/2021/images-Foto_4541-1.jpg
-video: nil
-audio: nil
-alt: Cumple el Centro de Seguridad Social del IMSS en Chihuahua 45 años de impulsar oficios, la cultura, el deporte y estilos de vida activa y saludable 
+image: "/uploads/2021/images-Foto_4541-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cumple el Centro de Seguridad Social del IMSS en Chihuahua 45 años de impulsar oficios, la cultura, el deporte y estilos de vida activa y saludable "
 front: false
-section: Local
+section: "Local"
+news_id: 187820
 ---
 
 El Centro de Seguridad Social (CSS) del Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, conocido como “La Casa de la Asegurada”, cumple este 17 de septiembre 45 años de impulsar y fomentar de manera interrumpida la cultura, las artes, la adquisición de habilidades técnicas, la activación física, el aprendizaje de oficios y la promoción de estilos de vida saludables entre los chihuahuenses.

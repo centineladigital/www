@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante arribó el domingo por la tarde a través de un vuelo comercial, a la capital y después se hospedó en un hotel boutique “Flavia” de la zona de San Felipe del Agua. "
-image: /uploads/2021/images-policia-decidio-grabar-video-maluma_(1).jpg
-video: nil
-audio: nil
-alt: Papi Juancho está en México -  Captan a Maluma de vacaciones en Oaxaca
+image: "/uploads/2021/images-policia-decidio-grabar-video-maluma_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Papi Juancho está en México -  Captan a Maluma de vacaciones en Oaxaca"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186513
 ---
 
 Maluma, el cantante de reguetón de origen colombiano, se encuentra de vacaciones en Oaxaca pese a la pandemia por el covid-19, así lo informaron sus fans en redes sociales, así como el mismo cantante -desde Instagram-, cuenta en la que tiene más de 50 millones de seguidores. 

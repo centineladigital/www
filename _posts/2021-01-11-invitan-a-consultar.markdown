@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Presenta Registro Civil de Chihuahua avance del 60% en las solicitudes presentadas; rebasa por mucho expectativa de interesados para obtener la nacionalidad mexicana"
-image: /uploads/2021/images-soyméxico.jpg
-video: nil
-audio: nil
-alt: Invitan a consultar trámites de acta y CURP del programa Soy México
+image: "/uploads/2021/images-soyméxico.jpg"
+video: "nil"
+audio: "nil"
+alt: "Invitan a consultar trámites de acta y CURP del programa Soy México"
 front: false
-section: Local
+section: "Local"
+news_id: 182036
 ---
 
 La Dirección de Registro Civil del Estado continúa el trabajo de captura de los datos de las personas que enviaron su documentación para obtener la doble nacionalidad a través del programa Soy México.

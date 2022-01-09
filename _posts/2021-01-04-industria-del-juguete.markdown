@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aunque hubo una pérdida de 38 puntos de venta, al cierre de noviembre lograron recuperar 18 puntos, principalmente por la venta vía internet"
-image: /uploads/2021/images-2506174.jpg
-video: nil
-audio: nil
-alt: Industria del juguete busca recuperarse con ayuda de 'Reyes Magos'
+image: "/uploads/2021/images-2506174.jpg"
+video: "nil"
+audio: "nil"
+alt: "Industria del juguete busca recuperarse con ayuda de 'Reyes Magos'"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 181853
 ---
 
 Desde este fin de semana los Reyes Magos se alistaron para adquirir los obsequios de miles de pequeñitos.

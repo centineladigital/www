@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa la Secretaría de Salud estatal que a la fecha suman 52 mil 424 casos y 4 mil 874 decesos desde que inició la pandemia"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Informa la CFE que se ha restablecido 80% de la electricidad en Chihuahua
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Informa la CFE que se ha restablecido 80% de la electricidad en Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 182949
 ---
 
 La Secretaría de Salud estatal informó que a este día, se tienen en el estado de Chihuahua un total general de 52 mil 424 casos confirmados de COVID-19, con 26 nuevos contagios.

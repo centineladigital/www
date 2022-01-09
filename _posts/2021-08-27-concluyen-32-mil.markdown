@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Del 23 al 25 de agosto se efectuó el Consejo Técnico Escolar en el que establecieron las actividades del Programa Escolar de Mejora Continua; el regreso a clases presenciales será en forma gradual"
-image: /uploads/2021/images-SED_6465.JPG
-video: nil
-audio: nil
-alt: Concluyen 32 mil docentes preparación para el inicio de clases este 30 de agosto
+image: "/uploads/2021/images-SED_6465.JPG"
+video: "nil"
+audio: "nil"
+alt: "Concluyen 32 mil docentes preparación para el inicio de clases este 30 de agosto"
 front: false
-section: Local
+section: "Local"
+news_id: 187197
 ---
 
 Con la fase intensiva del Consejo Técnico Escolar, el primero del ciclo 2021-2022, 32 mil maestras y maestros de los niveles preescolar, primaria y secundaria, concluyeron su preparación para el inicio de clases en Educación Básica, las cuales comienzan el próximo lunes 30 de agosto. 

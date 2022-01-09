@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las jóvenes actrices Jenna Ortega y Bailee Madison suenan como candidatas para dar vida a Merlina. "
-image: /uploads/2021/images-christina-ricci-personaje-morticia-addams.jpg
-video: nil
-audio: nil
-alt: ¿De Merlina a matriarca? Christina Ricci podría ser Morticia en serie de 'Los locos Addams'
+image: "/uploads/2021/images-christina-ricci-personaje-morticia-addams.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿De Merlina a matriarca? Christina Ricci podría ser Morticia en serie de 'Los locos Addams'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184153
 ---
 
 Tim Burton se encuentra preparando una nueva serie de Los locos Addams enfocada en Merlina. A la espera de conocer detalles del reparto, los últimos reportes indican que Christina Ricci, quien encarnó a dicho personaje en La familia Addams (1991) y su secuela (1993), podría volver a la saga. Sin embargo, según el portal The Illuminerdi, no lo haría para interpretar a Merlina. De acuerdo con el medio, el director y el equipo de la producción se han fijado en la actriz para el papel de Morticia, matriarca de la familia, aunque no se sabe si ya ha negociado para hacerse con el papel. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Yo imitaba a artistas; imitaba a Rocío Dúrcal, a Thalía, a Alejandra Guzmán, recordó la famosa durante una entrevista en 'Venga la Alegría'. "
-image: /uploads/2021/images-violeta-isfel-instagram-1.jpg
-video: nil
-audio: nil
-alt: Me quedé pasmada -  Violeta Isfel revela cómo llegó a la televisión
+image: "/uploads/2021/images-violeta-isfel-instagram-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me quedé pasmada -  Violeta Isfel revela cómo llegó a la televisión"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183697
 ---
 
 Violeta Isfel es una actriz que está experimentando un 'segundo aire' en su carrera, pues luego de que hace unos meses reveló que debido a la crisis económica por la pandemia estaba vendiendo hamburguesas, se ha vuelto una invitada muy constante en distintos programas televisivos. En esas emisiones ha recordado su pasó por la telenovela infantil Atrévete a soñar, su amistad con Karla Álvarez e incluso se ha pronunciado sobre el covid-19, asegurando que su esposo y ella son inmunes. Pero este lunes en el matutino Venga la Alegría, la famosa dio una entrevista donde habló de algo que no había revelado: cómo llegó a la televisión. 

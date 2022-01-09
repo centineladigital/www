@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Invierte Estado más de 2 millones de pesos en esta obra; destaca Javier Corral la inversión de 242.4 mdp durante su administración para diversos proyectos, cifra muy superior a los 168 mdp anuales de este municipio"
-image: /uploads/2021/images-DSC_7386.JPG
-video: nil
-audio: nil
-alt: Entrega Gobernador Centro Comunitario “Machí” en Madera
+image: "/uploads/2021/images-DSC_7386.JPG"
+video: "nil"
+audio: "nil"
+alt: "Entrega Gobernador Centro Comunitario “Machí” en Madera"
 front: false
-section: Local
+section: "Local"
+news_id: 187104
 ---
 
 Al continuar el Maratón de Obras 2021 en el cierre de su Administración, el gobernador Javier Corral Jurado inauguró en Madera, el Centro Comunitario para Adultos Mayores “Machí”, en que se invirtieron 2 millones 150 mil 754 pesos (mdp).

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El pequeño Thomas, sobrino de Henry Cavill, presumió que su tío era Superman, cosa que no le creyeron y su mamá tuvo que decir que efectivamente, el tío del pequeño trabajaba para el Universo DC. "
-image: /uploads/2021/images-henry-cavill-envia-emotivo-mensaje.jpg
-video: nil
-audio: nil
-alt: ¡Pensaron que mentía! Sobrino de Henry Cavill presumió a su tío Superman en la escuela
+image: "/uploads/2021/images-henry-cavill-envia-emotivo-mensaje.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Pensaron que mentía! Sobrino de Henry Cavill presumió a su tío Superman en la escuela"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185238
 ---
 
 A veces los niños inventan cosas que parecen no ser realidad, y es complicado distinguir entre la ficción y la realidad hablando con un pequeñín. Sin embargo, el sobrino de Henry Cavill, Thomas, no mintió cuando dijo que su tío era Superman; los profesores no le creyeron y tuvieron que llamar a su madre, quien reforzó la historia.

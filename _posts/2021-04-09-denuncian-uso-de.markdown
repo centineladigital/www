@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señalan a Carlos Rivas por uso indebido de recursos."
-image: /uploads/2021/images-antonio.jpg
-video: nil
-audio: /uploads/2021/audio-MV03_ANTONIO_PINEDO.mp3
-alt: Denuncian uso de unidades del CUM para proselitismo
+image: "/uploads/2021/images-antonio.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV03_ANTONIO_PINEDO.mp3"
+alt: "Denuncian uso de unidades del CUM para proselitismo"
 front: false
-section: Local
+section: "Local"
+news_id: 183795
 ---
 
 El uso de unidades para proselitismo es lo que se anunció por parte del área de Consejo de Urbanización Municipal que preside Carlos Rivas, según lo dio a conocer Antonio Piñón Aldana, coordinador de Comunicación Social del candidato de MORENA a la Alcaldía capitalina, Marco Adán Quezada Martínez.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El conjunto de iniciativas para reformar tres leyes y crear una nueva, busca alcanzar la igualdad sustantiva y una vida libre de violencia y de discriminación en Chihuahua; se propone la irreductibilidad y el crecimiento progresivo en los presupuestos para atender estos temas fundamentales"
-image: /uploads/2021/images-FIRMA_PAQUETE_LEGISLATIVO_DERECHOS_MUJERES_2021_(6).JPG
-video: nil
-audio: nil
-alt: Firma y entrega Gobernador Paquete Legislativo de Reformas  sobre los Derechos de las Mujeres
+image: "/uploads/2021/images-FIRMA_PAQUETE_LEGISLATIVO_DERECHOS_MUJERES_2021_(6).JPG"
+video: "nil"
+audio: "nil"
+alt: "Firma y entrega Gobernador Paquete Legislativo de Reformas  sobre los Derechos de las Mujeres"
 front: false
-section: Local
+section: "Local"
+news_id: 184075
 ---
 
 El gobernador Javier Corral firmó y entregó a la presidenta del Congreso del Estado, Blanca Gámez, el Paquete Legislativo de Reformas sobre los Derechos de las Mujeres, para alcanzar la igualdad sustantiva y una vida libre de violencia y de discriminación.

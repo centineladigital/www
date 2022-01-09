@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En broma, Danna dijo que vamos a considerar poner en el aeropuerto un área de rueda de prensa, para que cada vez que lleguemos de un vuelo todos pasemos por ahí. "
-image: /uploads/2021/images-danna1.jpg
-video: nil
-audio: nil
-alt: Me da mucha ansiedad -  Danna Paola huye de los reporteros en el AICM
+image: "/uploads/2021/images-danna1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me da mucha ansiedad -  Danna Paola huye de los reporteros en el AICM"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186765
 ---
 
 Danna Paola llegó a la Ciudad de México hace unos días en compañía del cantante Alex Hoyer, lo que despertó el interés de varios medios de comunicación, quienes fueron a esperar a ambos famosos al aeropuerto capitalino (AICM). Aunque la famosa huyó de esta situación, pues reveló que este tipo de encuentros con la prensa le provocan mucha ansiedad. "A mí me da mucha ansiedad este tipo de situaciones, yo no puedo. Soy una persona que no me gusta que estén encima de uno con el micrófono en el ojo, en la cara y más en pandemia", contó la actriz a través de una serie de historias que compartió en su Instagram. 

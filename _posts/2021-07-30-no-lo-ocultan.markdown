@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Emilio Osorio y Karol Sevilla están muy enamorados. El encargado de confirmar su romance fue el hijo de Niurka, quien no duda en demostrar su amor por su novia. "
-image: /uploads/2021/images-emilio-osorio-publico-video-novia.jpg
-video: nil
-audio: nil
-alt: ¡No lo ocultan más! Emilio Osorio y Karol Sevilla confirman su noviazgo
+image: "/uploads/2021/images-emilio-osorio-publico-video-novia.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡No lo ocultan más! Emilio Osorio y Karol Sevilla confirman su noviazgo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186132
 ---
 
 Después de que Emilio Osorio participara en varias telenovelas producidas por su papá, Juan Osorio, el joven ha empezado su carrera en la música, es por eso que lanzó una canción con Karol Sevilla, desde entonces surgieron rumores que entre ambos había surgido el amor, tras casi un año, los cantantes confirmaron su romance. 

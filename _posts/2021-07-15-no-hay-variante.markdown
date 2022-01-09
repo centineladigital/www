@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Solo se han detectado variantes iglesa y mexicana."
-image: /uploads/2021/images-GUMARO.jpg
-video: /uploads/2021/videos-MJ07_GUMARO_BARRIOS.mp4
-audio: nil
-alt: No hay variante DELTA -  Salud
+image: "/uploads/2021/images-GUMARO.jpg"
+video: "/uploads/2021/videos-MJ07_GUMARO_BARRIOS.mp4"
+audio: "nil"
+alt: "No hay variante DELTA -  Salud"
 front: false
-section: Local
+section: "Local"
+news_id: 185712
 ---
 
 “No tenemos la variante delta” fueron las palabras del titular del área epidemilogica de la Secretaría de Salud en el Estado, Gumaro Barrios Gallegos. Quien dijo que se lleva a cabo una vigilancia para detectar nuevos casos, sin embargo, aún no se registra casos.

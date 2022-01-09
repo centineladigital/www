@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aplaude esfuerzo del heroico personal y pide un minuto de silencio por quienes partieron a consecuencia del COVID-19, en especial por el secretario de Salud, Jesús Enrique Grajeda   "
-image: /uploads/2021/images-CJ_Hospital_Civil_Libertad.jpg
-video: nil
-audio: nil
-alt: Entrega Gobierno de Javier Corral un sistema de Salud Pública fortalecido en Juárez
+image: "/uploads/2021/images-CJ_Hospital_Civil_Libertad.jpg"
+video: "nil"
+audio: "nil"
+alt: "Entrega Gobierno de Javier Corral un sistema de Salud Pública fortalecido en Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 186773
 ---
 
 Tras haber recibido un sistema de Salud Pública colapsado y en quiebra, ahora las y los juarenses cuentan con el nuevo Centro de Salud Todos Somos Mexicanos, gracias a una inversión de 105 millones de pesos, destacó el gobernador Javier Corral Jurado en su Quinto Informe de Gobierno.

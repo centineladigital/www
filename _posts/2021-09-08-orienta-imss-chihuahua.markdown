@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Es una enfermedad hereditaria, causada por un gen defectuoso que produce moco espeso que se acumula en las vías respiratorias"
-image: /uploads/2021/images-Foto_4330-1.jpg
-video: nil
-audio: nil
-alt: Orienta IMSS Chihuahua sobre la fibrosis quística para un diagnóstico y tratamiento oportuno 
+image: "/uploads/2021/images-Foto_4330-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Orienta IMSS Chihuahua sobre la fibrosis quística para un diagnóstico y tratamiento oportuno "
 front: false
-section: Local
+section: "Local"
+news_id: 187543
 ---
 
 En el marco del Día Mundial de la Fibrosis Quística, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua informa sobre esta enfermedad para un diagnóstico y tratamiento oportuno.

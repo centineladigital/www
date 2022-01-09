@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Bajo el título de Voces Migrantes fueron realizados en los idiomas ralámuli–español, mixteco-español y náhuatl- español; se utilizarán como materiales didácticos auxiliares para el mejor aprendizaje intercultural"
-image: /uploads/2021/images-Voces_Migrantes-1.jpg
-video: nil
-audio: nil
-alt:  Graban estudiantes migrantes cuentos y  relatos infantiles en tres lenguas indígenas
+image: "/uploads/2021/images-Voces_Migrantes-1.jpg"
+video: "nil"
+audio: "nil"
+alt: " Graban estudiantes migrantes cuentos y  relatos infantiles en tres lenguas indígenas"
 front: false
-section: Local
+section: "Local"
+news_id: 183635
 ---
 
 Relatos, cuentos y vivencias, narrados por niñas y niños indígenas en sus lenguas maternas, forman parte del proyecto Voces Migrantes, que realizó el Departamento de Educación Indígena y Migrante de Servicios Educativos del Estado de Chihuahua (Seech).

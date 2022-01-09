@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de redes sociales dieron a conocer un nuevo reporte del estado de salud de Vicente Fernández. Aseguran que el cantante cuenta con sedación mínima y que aún tiene debilidad en sus extremidades. "
-image: /uploads/2021/images-repor_vic.jpg
-video: nil
-audio: nil
-alt: Con analgesia y sedación mínima -  dan nuevo reporte de estado de salud de Vicente Fernández
+image: "/uploads/2021/images-repor_vic.jpg"
+video: "nil"
+audio: "nil"
+alt: "Con analgesia y sedación mínima -  dan nuevo reporte de estado de salud de Vicente Fernández"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186678
 ---
 
 Desde hace varios días Vicente Fernández se encuentra hospitalizado debido a que sufrió una caída mientras se encontraba en su habitación. A pesar de que la familia ha sido hermética y que solamente ha compartido a través de redes sociales reportes del estado de salud del cantante, de nueva cuenta dieron a conocer cómo se encuentra el Charro de Huentitán. 

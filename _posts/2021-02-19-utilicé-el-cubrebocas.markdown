@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Lucero reveló que cuando se dio cuenta que había dado positivo al covid-19 sintió miedo y sorpresa, pues siguió todas las medidas necesarias para prevenir el contagio. Aseguró que fue ella quien contagió a su hija Lucero Mijares. "
-image: /uploads/2021/images-lucero-revela-covid-contagio-hija.jpg
-video: nil
-audio: nil
-alt: Utilicé el cubrebocas -  Lucero revela que tuvo covid-19 pese a cuidados; contagió a su hija Lucero Mijares
+image: "/uploads/2021/images-lucero-revela-covid-contagio-hija.jpg"
+video: "nil"
+audio: "nil"
+alt: "Utilicé el cubrebocas -  Lucero revela que tuvo covid-19 pese a cuidados; contagió a su hija Lucero Mijares"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183047
 ---
 
 Lucero, famosa cantante mexicana, reveló que tanto ella como su hija Lucero Mijares, hace tiempo dieron positivo al coronavirus, covid-19. La famosa indicó que deseaba compartirlo con sus seguidores, pues es algo que no tiene razón para ocultarlo. Aseguró que cuando se dio cuenta que había dado positivo sintió miedo y sorpresa, pues siguió todas las medidas necesarias para prevenir el contagio. ¿Estuvo mal? Te contamos lo que expresó la ex pareja de Manuel Mijares. Fue gracias a un adelanto de la sección “Mucho que contar” de su canal de YouTube, en donde la revista TVNotas rescató la confesión de la cantante de Electricidad. Explicó que hace tiempo dio positivo al covid-19 junto a su hija Lucero Mijares. Contó que ambas lograron vencer el contagio. 

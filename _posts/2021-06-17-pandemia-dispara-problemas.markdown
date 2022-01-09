@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El 75% de los clientes en ópticas son estudiantes"
-image: /uploads/2021/images-problemasvisualespablo2.jpg
-video: nil
-audio: nil
-alt: Pandemia dispara problemas visuales
+image: "/uploads/2021/images-problemasvisualespablo2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pandemia dispara problemas visuales"
 front: false
-section: Local
+section: "Local"
+news_id: 185075
 ---
 
 La exposición visual a las pantallas por más de cinco horas diarias, ha provocado el aumento de pacientes que demandan consulta en el servicio de oftalmología con síntomas de visión borrosa, ojo seco, dolor de ojos y cabeza, asociados al esfuerzo ocular que ha sido mayor durante la pandemia, principalmente en estudiantes, señaló el especialista en oftalmología del Instituto Mexicano del Seguro Social, Julio Alejandro Blanco.

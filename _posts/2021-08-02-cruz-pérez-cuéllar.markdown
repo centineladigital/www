@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "“Hoy tenemos la inauguración de un ejercicio democrático del país,  que es algo por lo que debemos estar contentos” "
-image: /uploads/2021/images-428d3546-f610-424e-88d5-735caf36bb02.jpg
-video: nil
-audio: nil
-alt: Cruz Pérez Cuéllar acude a votar en la consulta popular
+image: "/uploads/2021/images-428d3546-f610-424e-88d5-735caf36bb02.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cruz Pérez Cuéllar acude a votar en la consulta popular"
 front: false
-section: Local
+section: "Local"
+news_id: 186178
 ---
 
 Ciudad Juárez. - Cruz Pérez Cuéllar, presidente electo de Ciudad Juárez, llegó a la mesa de votación ubicada en el Colegio del Valle, ubicada en Camino Viejo a San José, igual que millones de mexicanos durante esta jornada en donde se busca tomar acciones legales contra los funcionarios de las pasadas administraciones.

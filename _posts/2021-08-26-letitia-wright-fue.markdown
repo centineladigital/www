@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz Letitia Wright tuvo que ser hospitalizada de emergencia tras sufrir un accidente en la grabación de la secuela de Black Panther; esto sabemos. "
-image: /uploads/2021/images-la-actriz-fue-internada-en.jpg
-video: nil
-audio: nil
-alt: Letitia Wright fue hospitalizada tras sufrir accidente en grabación de 'Black Panther'
+image: "/uploads/2021/images-la-actriz-fue-internada-en.jpg"
+video: "nil"
+audio: "nil"
+alt: "Letitia Wright fue hospitalizada tras sufrir accidente en grabación de 'Black Panther'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187170
 ---
 
 Hace unas semanas se informó que el rodaje de Blank Panther: Wakanda Forever había dado inicio y a poco tiempo de que se esté grabando la secuela de la película que fue protagonizada por Chadwick Boseman, se dio a conocer que la actriz Letitia Wright tuvo que ser hospitalizada de emergencia debido a que sufrió un accidente mientras realizaba una escena. 

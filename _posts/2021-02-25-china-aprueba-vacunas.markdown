@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las vacunas desarrolladas por CanSino Biologics y una unidad de Sinopharm recibieron una autorización condicional, pues se comprobó que protegían contra el Covid"
-image: /uploads/2021/images-2535615.jpg
-video: nil
-audio: nil
-alt: China aprueba vacunas anticovid desarrolladas a nivel nacional
+image: "/uploads/2021/images-2535615.jpg"
+video: "nil"
+audio: "nil"
+alt: "China aprueba vacunas anticovid desarrolladas a nivel nacional"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183149
 ---
 
 El regulador de medicamentos de China anunció este jueves que aprobó otras dos vacunas contra el nuevo coronavirus fabricadas por compañías de ese país.

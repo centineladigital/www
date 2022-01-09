@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Pide apertura para adecuación a la ley."
-image: /uploads/2021/images-AMIN.jpg
-video: nil
-audio: /uploads/2021/audio-MM02_AMIN_ANCHONDO.mp3
-alt: Necesario que OIC sea electo por concurso
+image: "/uploads/2021/images-AMIN.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM02_AMIN_ANCHONDO.mp3"
+alt: "Necesario que OIC sea electo por concurso"
 front: false
-section: Local
+section: "Local"
+news_id: 183523
 ---
 
 Como necesario calificó el Síndico de Chihuahua, Amín Anchondo, que el equipo que integre el Órgano de Control Interno de Control con el fin de que se pueda seleccionar a los mejores perfiles para integrar esta área.

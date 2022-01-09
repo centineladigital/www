@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue en esta semana cuando se dio a conocer que el cantante Remmy Valenzuela había agredido físicamente a su primo Carlos N y a la pareja del joven en uno de sus ranchos. Te contamos lo que sabemos sobre este caso. "
-image: /uploads/2021/images-acusan-agresion-remmy-valenzuela-piden.jpg
-video: nil
-audio: nil
-alt: Estaba matando a mi novia -  Acusan de violencia a Remmy Valenzuela; víctimas piden justicia
+image: "/uploads/2021/images-acusan-agresion-remmy-valenzuela-piden.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estaba matando a mi novia -  Acusan de violencia a Remmy Valenzuela; víctimas piden justicia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184957
 ---
 
 Remmy Valenzuela, cantante de regional mexicano, está entre las menciones más destacadas de esta semana, pues se dio a conocer que presuntamente violentó con brutalidad a su primo Carlos “N” y a la novia del joven de una forma -que de ser cierto que él es el agresor-podría ser analizado el caso como un intento de feminicidio, debido al grado de las agresiones. Las impactantes imágenes provocaron la indignación de varios medios del espectáculo. Además de que recientemente se dio a conocer el testimonio de la presunta víctima. Ante este panorama, los conductores del programa Hoy también reaccionaron y condenaron los hechos. Pidieron prisión para el cantante en dado caso de que sea culpable. 

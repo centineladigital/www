@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esperan que en breve se reinicie la coordinación de los niveles en materia de seguridad."
-image: /uploads/2021/images-principal_7274e6c1-33b6-450b-bff8-679cf012541c.jpeg.crdownload
-video: nil
-audio: /uploads/2021/audio-CESAR_PENICHE.jpg
-alt: Continúa descoordinación estado y federación
+image: "/uploads/2021/images-principal_7274e6c1-33b6-450b-bff8-679cf012541c.jpeg.crdownload"
+video: "nil"
+audio: "/uploads/2021/audio-CESAR_PENICHE.jpg"
+alt: "Continúa descoordinación estado y federación"
 front: false
-section: Local
+section: "Local"
+news_id: 182713
 ---
 
 A nivel mandos aún no se ha tenido acercamiento entre el nivel federal y el estatal, según lo dio a conocer el Fiscal General de Chihuahua, César Augusto Peniche Espejel. Esto luego de que las autoridades dejaran de reunirse dentro de las mesas de trabajo.

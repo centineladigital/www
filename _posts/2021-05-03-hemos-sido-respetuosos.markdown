@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma Francisco Navarro que se ha seguido al pie de la letra peticiones de gobiernos e instituto Electoral."
-image: /uploads/2021/images-NAVARRO.jpg
-video: nil
-audio: /uploads/2021/audio-ML05_FRANCISCO_NAVARRO.mp3
-alt: Hemos sido respetuosos de lineamientos -  PAN
+image: "/uploads/2021/images-NAVARRO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML05_FRANCISCO_NAVARRO.mp3"
+alt: "Hemos sido respetuosos de lineamientos -  PAN"
 front: false
-section: Local
+section: "Local"
+news_id: 184255
 ---
 
 El dirigente del Partido Acción Nacional en el municipio de Chihuahua, Francisco Navarro Pastrana, dio a conocer que como organismo político ha seguido los lineamientos dentro del municipio esto tras acciones tomadas por parte del Estado, dentro de la contingencia sanitaria que se vive por la presencia del coronavirus.

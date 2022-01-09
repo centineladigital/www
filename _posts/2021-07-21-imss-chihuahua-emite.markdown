@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En el estado prolifera la “Viuda Negra” y la “Violinista” "
-image: /uploads/2021/images-Foto_3146-1.jpg
-video: nil
-audio: nil
-alt: IMSS Chihuahua emite recomendaciones para evitar mordedura de arañas en esta temporada de lluvias 
+image: "/uploads/2021/images-Foto_3146-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "IMSS Chihuahua emite recomendaciones para evitar mordedura de arañas en esta temporada de lluvias "
 front: false
-section: Local
+section: "Local"
+news_id: 185873
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua emite recomendaciones para evitar la mordedura de arañas en esta temporada. 

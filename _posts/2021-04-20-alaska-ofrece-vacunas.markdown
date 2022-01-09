@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El gobernador de Alaska anuncia un plan para ofrecer vacunas covid de forma gratuita a los turistas que visiten el estado, en un intento por reactivar el sector"
-image: /uploads/2021/images-2565311.jpg
-video: nil
-audio: nil
-alt: Alaska ofrece vacunas gratis a turistas
+image: "/uploads/2021/images-2565311.jpg"
+video: "nil"
+audio: "nil"
+alt: "Alaska ofrece vacunas gratis a turistas"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183981
 ---
 
 Alaska, que se ha visto muy afectada por la falta de turismo durante la pandemia, está utilizando el excedente de vacunas del estado para atraer turistas al estado más septentrional de Estados Unidos.

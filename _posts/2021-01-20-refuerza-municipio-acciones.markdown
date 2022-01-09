@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Continuarán con acciones para evitar aglomeraciones."
-image: /uploads/2021/images-MANQUE1.jpg
-video: nil
-audio: /uploads/2021/audio-MW04_MARIA_ANGELICA_GRANADOS.mp3
-alt: Refuerza municipio acciones COVID
+image: "/uploads/2021/images-MANQUE1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW04_MARIA_ANGELICA_GRANADOS.mp3"
+alt: "Refuerza municipio acciones COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 182304
 ---
 
 Con el fin de evitar que se dé un incremento de casos con el cambio de semaforización este miércoles fue dado a conocer una serie de acciones por parte del municipio de Chihuahua por la crisis generada por el COVID-19, según declaraciones de la Alcaldesa de Chihuahua María Angélica Granados Trespalacios.

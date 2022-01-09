@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Durante días pasados, Enoé Carrasco, a través del Diario de Juárez, presentó información falsa acerca del manejo de recursos destinados a comunidades indígenas serranas"
-image: /uploads/2021/images-descarga.jpg
-video: nil
-audio: nil
-alt: Falsas, acusaciones de manejo irregular de fideicomiso por la Coepi
+image: "/uploads/2021/images-descarga.jpg"
+video: "nil"
+audio: "nil"
+alt: "Falsas, acusaciones de manejo irregular de fideicomiso por la Coepi"
 front: false
-section: Local
+section: "Local"
+news_id: 185245
 ---
 
 El 23 de junio, El Diario de Juárez publicó una nota en la que acusa a la titular de la Comisión Estatal para los Pueblos Indígenas (Coepi), María Teresa Guerrero Olivares, de “utilizar a la institución para lucrar en su nombre, con beneficio directo para el gobernador del estado”, con recursos de la empresa TransCanada.

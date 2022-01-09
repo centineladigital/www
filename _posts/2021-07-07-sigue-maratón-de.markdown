@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En un esfuerzo conjunto con Educal y el Fondo de Cultura Económica, se inaugura este espacio cuya finalidad es dejar a las y los chihuahuenses espacios que les permitan encontrarse con el libro y la lectura"
-image: /uploads/2021/images-_DSC7494.JPG
-video: nil
-audio: nil
-alt: Sigue Maratón de Obras 2021 -  Entrega Gobierno del Estado la Librería “Enrique Servín”.
+image: "/uploads/2021/images-_DSC7494.JPG"
+video: "nil"
+audio: "nil"
+alt: "Sigue Maratón de Obras 2021 -  Entrega Gobierno del Estado la Librería “Enrique Servín”."
 front: false
-section: Local
+section: "Local"
+news_id: 185435
 ---
 
 El coordinador ejecutivo de Gabinete, Jesús Mesta Fitzmaurice y la secretaria de Cultura, María Concepción Landa García Téllez, entregaron a nombre del gobernador Javier Corral Jurado, la Librería dedicada en homenaje al escritor y poeta Enrique Servín, en la ciudad de Chihuahua.

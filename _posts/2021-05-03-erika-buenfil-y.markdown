@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las famosas grabaron su primer TikTok juntas durante el rodaje de 'Vencer el pasado', su próxima telenovela en Televisa. "
-image: /uploads/2021/images-erika-buenfil-graba-video-angelique.jpg
-video: nil
-audio: nil
-alt: Erika Buenfil y Angelique Boyer 'enloquecen' las redes con su primer video juntas en TikTok
+image: "/uploads/2021/images-erika-buenfil-graba-video-angelique.jpg"
+video: "nil"
+audio: "nil"
+alt: "Erika Buenfil y Angelique Boyer 'enloquecen' las redes con su primer video juntas en TikTok"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184242
 ---
 
 Erika Buenfil se sumó al elenco de la telenovela Vencer el pasado, de la productora Rosy Ocampo, misma en la que comparte escena con Angelique Boyer. Pese a que la actriz está enfocada en el rodaje del melodrama, no descuida su pasión por TikTok, y mientras se encuentra en el set de Televisa aprovecha para convencer a sus compañeros de grabar nuevos videos que se vuelven virales en la red social.  Y es que el carisma, creatividad e imaginación de Erika Buenfil no deja de conquistar a sus fanáticos, quienes se sorprendieron al ver el primer TikTok de la actriz junto a Angelique Boyer, otra de las estrellas mexicanas que disfruta deleitar a sus seguidores con los retos virales y coreografías que circulan en la plataforma de videos. 

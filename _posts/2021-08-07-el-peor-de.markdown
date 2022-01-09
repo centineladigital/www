@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La diva del cine mexicano expresó que venía la revancha de las mujeres contra todas las injusticias de las que ern víctimas. "
-image: /uploads/2021/images-sobrina-maria-felix-identica-fotos.jpg
-video: nil
-audio: nil
-alt: El peor de los males es el machismo -  El día que María Félix convocó a la lucha feminista
+image: "/uploads/2021/images-sobrina-maria-felix-identica-fotos.jpg"
+video: "nil"
+audio: "nil"
+alt: "El peor de los males es el machismo -  El día que María Félix convocó a la lucha feminista"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186431
 ---
 
 María Félix, el icono del cine mexicano, expresó su pensar sobre la urgencia de erradicar el machismo y 'predijo' la llegada de movimientos feministas durante una entrevista con Verónica Castro en 1996, en la que expresó que "en un mundo de hombres como este" llegaría la "revancha de las mujeres".  

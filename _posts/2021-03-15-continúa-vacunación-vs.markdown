@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Estarán aplicando hoy la dosis de 9:00 de la mañana a 5:00 de la tarde, en Cuauhtémoc, Cusihuiriachi, Álvaro Obregón y Anáhuac"
-image: /uploads/2021/images-coviddmunicipios.jpg
-video: nil
-audio: nil
-alt: Continúa vacunación vs Covid-19 en cuatro municipios del estado
+image: "/uploads/2021/images-coviddmunicipios.jpg"
+video: "nil"
+audio: "nil"
+alt: "Continúa vacunación vs Covid-19 en cuatro municipios del estado"
 front: false
-section: Local
+section: "Local"
+news_id: 183416
 ---
 
 La Delegación Estatal de Programas para el Desarrollo del Gobierno Federal, informó que continuarán con la aplicación de la vacunas contra Covid-19 el día de hoy en Cuauhtémoc, Cusihuiriachi, Álvaro Obregón y Anáhuac, la cual se estará dando en un horario de 9:00 am a 5:00 pm en los siguientes puntos:

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se instalaron tres ubicaciones para comodidad de los ciudadanos"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Estarán instalados hasta este domingo centros de acopio de árboles navideños del Gobierno Municipal
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estarán instalados hasta este domingo centros de acopio de árboles navideños del Gobierno Municipal"
 front: false
-section: Local
+section: "Local"
+news_id: 182548
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos tiene instalados tres macro contenedores para el acopio de árboles navideños naturales desde principios del mes, los cuales estarán funcionando hasta este domingo 31 de enero.

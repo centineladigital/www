@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se amplió en su longitud 5 kilómetros y ahora recorre desde Presidencia Municipal hasta Puerto Tarento; fueron rehabilitadas cada una de las 57 estaciones ubicadas en el trayecto."
-image: /uploads/2021/images-Bravobus.jpg
-video: nil
-audio: nil
-alt:  Inaugura Javier Corral ampliación y remodelación de primera ruta troncal (BRT-1) del Bravobus
+image: "/uploads/2021/images-Bravobus.jpg"
+video: "nil"
+audio: "nil"
+alt: " Inaugura Javier Corral ampliación y remodelación de primera ruta troncal (BRT-1) del Bravobus"
 front: false
-section: Local
+section: "Local"
+news_id: 185587
 ---
 
 En el marco del Maratón de Obras 2021, el gobernador Javier Corral inauguró las obras de ampliación y modernización de la primera ruta troncal (BRT-1) del Sistema Integrado de Transporte Bravobus, realizadas con una inversión de 287.5 millones de pesos (mdp).

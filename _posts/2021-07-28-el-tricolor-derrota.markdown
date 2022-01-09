@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "México se impuso 3-0 a al cuadro africano en un duelo que domino ampliamente; Carlos Rodríguez fue expulsado al minuto 66 "
-image: /uploads/2021/images-D3FJQ3KVVNHOVBD22WPVS5RLKQ.jpg
-video: nil
-audio: nil
-alt: El Tricolor derrota a Sudáfrica y está en cuartos de final de Tokio 2020
+image: "/uploads/2021/images-D3FJQ3KVVNHOVBD22WPVS5RLKQ.jpg"
+video: "nil"
+audio: "nil"
+alt: "El Tricolor derrota a Sudáfrica y está en cuartos de final de Tokio 2020"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186049
 ---
 
 El primer objetivo se cumplió. La selección mexicana de futbol se había complicado su permanencia en Tokio, pero en el tercer duelo ante Sudáfrica fue contundente y se impuso 3-0 para concretar su pase a cuartos de final en los Juegos Olímpicos. 

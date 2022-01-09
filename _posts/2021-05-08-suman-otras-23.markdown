@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Salud dio a conocer en su reporte diario, que hay además 187 nuevos contagios y 204 chihuahuenses hospitalizados"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Suman otras 23 personas fallecidas por COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Suman otras 23 personas fallecidas por COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184361
 ---
 
 Con 23 registros más en comparación con el reporte anterior, el estado de Chihuahua llegó a 6 mil 816 personas fallecidas a causa de la pandemia de COVID-19, informó la Secretaría de Salud.

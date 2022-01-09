@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los accidentes ocurren periódicamente en esta región, cuando los niños recogen estos explosivos y piensan que son juguetes"
-image: /uploads/2021/images-granadas-potentes-agresivas-radio-accion.jpeg
-video: nil
-audio: nil
-alt: En Nigeria, cinco niños mueren por explosión de una granada
+image: "/uploads/2021/images-granadas-potentes-agresivas-radio-accion.jpeg"
+video: "nil"
+audio: "nil"
+alt: "En Nigeria, cinco niños mueren por explosión de una granada"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186644
 ---
 
 A las afueras de Ngala, una localidad del noroeste de Nigeria, cinco niños murieron a causa de la explosión de una granada con la que jugaban bajo el control de una insurgencia yihadista, así lo informaron miembros de un grupo de autodefensa. 

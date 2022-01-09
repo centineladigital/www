@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "A nivel nacional se reconoció los esfuerzos que en el estado se han hecho en materia de austeridad."
-image: /uploads/2021/images-CORRAL1.jpg
-video: nil
-audio: /uploads/2021/audio-MM04_JAVIER_CORRAL.mp3
-alt: Apoyará AMLO financieramente a Chihuahua
+image: "/uploads/2021/images-CORRAL1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04_JAVIER_CORRAL.mp3"
+alt: "Apoyará AMLO financieramente a Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 185300
 ---
 
 Un apoyo financiero a Chihuahua es lo que prometió el Presidente de la Republica según fue dado a conocer por parte del Gobernador, Javier Corral Jurado, esto al dar a conocer los resultados de la gira que tuvo en la ciudad de México.

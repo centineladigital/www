@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Reitera López Obrador su confianza en el nuevo presidente estadunidense para atender a mexicanos que laboran en esa nación; espera que anuncie plan migratorio"
-image: /uploads/2021/images-2515143.jpg
-video: nil
-audio: nil
-alt: Espera México que Biden regularice a paisanos en EU
+image: "/uploads/2021/images-2515143.jpg"
+video: "nil"
+audio: "nil"
+alt: "Espera México que Biden regularice a paisanos en EU"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182278
 ---
 
 El presidente Andrés Manuel López Obrador confió en que Joe Biden, con su llegada a la Casa Blanca, anuncie hoy o en los próximos días un plan de migración y la regularización de nuestros paisanos que se comprometió a llevar a cabo en 2012.

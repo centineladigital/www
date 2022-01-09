@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el programa Logros con Valor, el Director de Catastro de Sedue, agradeció el apoyo del gobernador Javier Corral para colocar a Chihuahua con el 100% de actualización cartográfica municipal."
-image: /uploads/2021/images-director_de_Catastro_de_Sedue__Francisco_Olvera_Yáñez.jpeg
-video: nil
-audio: nil
-alt: Llega Chihuahua al 4° lugar en el Índice Nacional de Modernización de Catastros.
+image: "/uploads/2021/images-director_de_Catastro_de_Sedue__Francisco_Olvera_Yáñez.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Llega Chihuahua al 4° lugar en el Índice Nacional de Modernización de Catastros."
 front: false
-section: Local
+section: "Local"
+news_id: 185480
 ---
 
 De 2017 a la fecha, Chihuahua avanzó del lugar 24 al 4 en el Índice Nacional de Modernización de los Catastros de la Secretaría de Desarrollo Agrario, Territorial y Urbano (Sedatu), informó el director de Catastro de Sedue, Francisco Olvera Yáñez, en el programa Logros con Valor.

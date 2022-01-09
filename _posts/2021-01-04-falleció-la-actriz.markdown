@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tanya Roberts había sido hospitalizada el 24 de diciembre tras haberse desplomado mientras caminaba con sus perros; esto sabemos de la 'chica Bond'. "
-image: /uploads/2021/images-actriz-chica-bond-tanya-roberts.jpg
-video: nil
-audio: nil
-alt: Falleció la actriz Tanya Roberts, la 'chica Bond', a los 65 años
+image: "/uploads/2021/images-actriz-chica-bond-tanya-roberts.jpg"
+video: "nil"
+audio: "nil"
+alt: "Falleció la actriz Tanya Roberts, la 'chica Bond', a los 65 años"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181847
 ---
 
 La actriz y "chica Bond" estadunidense Tanya Roberts falleció en Los Ángeles a la edad de 65 años, tras permanecer hospitalizada varios días, informó este lunes la prensa. Roberts, que había sido hospitalizada el 24 de diciembre tras haberse desplomado mientras caminaba con sus perros, murió el domingo, según informó su agente Mike Pingel a The Hollywood Reporter. 

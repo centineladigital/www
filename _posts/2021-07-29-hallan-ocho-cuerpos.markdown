@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Elementos de la Guardia Nacional realizaban recorridos de vigilancia cuando se percataron de varias bolsas sobre la carretera Tijuana- Playas de Rosarito"
-image: /uploads/2021/images-peritos-trabajan-en-la-identificacion.jpg
-video: nil
-audio: nil
-alt: Hallan ocho cuerpos embolsados en carreteras de Tijuana
+image: "/uploads/2021/images-peritos-trabajan-en-la-identificacion.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hallan ocho cuerpos embolsados en carreteras de Tijuana"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186091
 ---
 
 Los cadáveres de ocho personas,  los cuales presentaban heridas de  arma en la cabeza, fueron hallados esta madrugada en Tijuana, Baja California.  

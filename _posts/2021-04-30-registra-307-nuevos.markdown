@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Y se acreditaron 60 defunciones más por COVID-19."
-image: /uploads/2021/images-arton20739.jpg
-video: nil
-audio: /uploads/2021/audio-MV07_GUMARO_BARRIOS.mp3
-alt: Registra 307 nuevos casos COVID
+image: "/uploads/2021/images-arton20739.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV07_GUMARO_BARRIOS.mp3"
+alt: "Registra 307 nuevos casos COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 184224
 ---
 
 En tan sólo 24 horas se registraron 307 nuevos contagios y se acreditaron 60 defunciones más por COVID-19, según fue dado a conocer por parte del titular del área de epidemiología en el Estado, Gumaro Barrios Gallegos. Quien señaló que sigue alza en hospitalizaciones con 301 casos.

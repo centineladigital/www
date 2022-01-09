@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El hijo de Pepe Aguilar se hizo un tatuaje del rostro de su abuela, Flor Silvestre, para honrar su legado y carrera artística. "
-image: /uploads/2021/images-leonardo-aguilar-tatuaje-honor-abuela_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Hermano de Ángela Aguilar se hace tatuaje del rostro de su abuela, Flor Silvestre
+image: "/uploads/2021/images-leonardo-aguilar-tatuaje-honor-abuela_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hermano de Ángela Aguilar se hace tatuaje del rostro de su abuela, Flor Silvestre"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183677
 ---
 
 Los hijos de Pepe Aguilar han puesto en alto el legado familiar, sobre todo la menor de la dinastía, Ángela Aguilar, quien se ha ganado la admiración del público no sólo por su talento musical sino también por su belleza y carisma. Sin embargo, en los últimos años también ha destacado en la industria musical el nombre de Leonardo, que decidió seguir los pasos de su padre, hermana y abuelos. A través de su cuenta de Instagram, Leonardo Aguilar compartió con sus seguidores que se hizo su primer tatuaje, con el cual decidió hacerle honor a su abuela, Flor Silvestre, icónica cantante y diva del cine mexicano -representante de la época de oro-. 

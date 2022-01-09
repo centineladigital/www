@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Tiene como objetivo coadyuvar en la prevención de eventos de violencia e inseguridad y disminuir los índices delictivos"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Entrega Municipio acreditación en seguridad a establecimientos de tratamiento de adicciones
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Entrega Municipio acreditación en seguridad a establecimientos de tratamiento de adicciones"
 front: false
-section: Local
+section: "Local"
+news_id: 186834
 ---
 
 El Gobierno Municipal a través de la Dirección de Seguridad Pública realizó, el pasado martes 18 de agosto, la entrega de acreditaciones en seguridad para establecimientos residenciales especializados en el tratamiento de las adicciones, que tiene como objetivo coadyuvar en la prevención de eventos de violencia e inseguridad y disminuir los índices delictivos.

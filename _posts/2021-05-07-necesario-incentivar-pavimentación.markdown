@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Como diputado se puede gestionar y aprobar recurso para pavimentar calles."
-image: /uploads/2021/images-MARIO.jpg
-video: nil
-audio: /uploads/2021/audio-MV07_MARIO_VAZQUEZ.mp3
-alt: Necesario incentivar pavimentación
+image: "/uploads/2021/images-MARIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV07_MARIO_VAZQUEZ.mp3"
+alt: "Necesario incentivar pavimentación"
 front: false
-section: Local
+section: "Local"
+news_id: 184347
 ---
 
 El reducir o eliminar el rezago en la pavimentación es un tema que urge gestionar, según lo dio a conocer el abanderado del PAN al décimo sexto distrito local, Mario Vázquez Robles. Quien dijo que buscará gestionar recursos para pavimentación de calles en la capital de Chihuahua.

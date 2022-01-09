@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Con la creación de la Subsecretaría de Promoción y Prevención de la Salud se hereda una base jurídica que permitirá operar de una manera más funcional a todos los programas de salud pública, se destaca en el programa “Logros con Valor”"
-image: /uploads/2021/images-Centro_de_Transfusión_Sanguínea_2.jpg
-video: nil
-audio: nil
-alt: Pasó Chihuahua de un enfoque de curación a uno de prevención en Salud
+image: "/uploads/2021/images-Centro_de_Transfusión_Sanguínea_2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pasó Chihuahua de un enfoque de curación a uno de prevención en Salud"
 front: false
-section: Local
+section: "Local"
+news_id: 186326
 ---
 
 Uno de los objetivos prioritarios en el sector fue trabajar con la comunidad en la prevención, a fin de que las y los chihuahuenses eviten enfermar de manera grave, informó el secretario de Salud, Eduardo Fernández Herrera, en el programa “Logros con Valor”.

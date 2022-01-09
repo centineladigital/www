@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Para hacer la reclamación de los bienes se debe acudir a las comandancias Norte o Sur, ubicadas respectivamente en la avenida Homero No. 500 de la colonia Revolución y Pacheco 8800 en la colonia Lealtad, en horario de 09:00 a 14:00 horas"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Recupera Policía Municipal artículos y los pone a disposición de sus dueños
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Recupera Policía Municipal artículos y los pone a disposición de sus dueños"
 front: false
-section: Local
+section: "Local"
+news_id: 183316
 ---
 
 A fin de que personas que sufrieron la pérdida de diversos objetos y fueron recuperados por la Policía Municipal durante recorridos ordinarios de vigilancia, la Dirección de Seguridad Pública informa que se encuentran a disposición de los legítimos propietarios, en las comandancias Norte y Sur, a donde deberán acudir para reclamarlos, con previa presentación de documentos o testigos que acrediten la propiedad de los mismos.

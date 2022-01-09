@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pese a que tres candidatos declinaron a sus candidaturas, en conjunto se reportó un gasto que superan los 7 mdp"
-image: /uploads/2021/images-partidospoliticosgastos.jpg
-video: nil
-audio: nil
-alt: Gastaron candidatos a gubernatura 85 millones de pesos en campañas
+image: "/uploads/2021/images-partidospoliticosgastos.jpg"
+video: "nil"
+audio: "nil"
+alt: "Gastaron candidatos a gubernatura 85 millones de pesos en campañas"
 front: false
-section: Local
+section: "Local"
+news_id: 185028
 ---
 
 Los ocho candidatos a la gubernatura de Chihuahua que inicialmente representaban a las diferentes fuerzas políticas en la entidad, reportaron gastos de campaña por un total de 85 millones 292 mil 690.65 pesos, contra los 79 millones 946 mil 781.97 pesos que fueron reportados en sus ingresos.

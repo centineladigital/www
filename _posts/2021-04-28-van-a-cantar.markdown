@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "'Vax Live: The Concert To Reunite The World' es el nombre de este evento donde también participará el presidente estadunidense, Joe Biden. "
-image: /uploads/2021/images-el-concierto-se-grabara-el.jpg
-video: nil
-audio: nil
-alt: ¿Van a cantar? Meghan y Harry participarán en concierto para fomentar donación de vacunas
+image: "/uploads/2021/images-el-concierto-se-grabara-el.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Van a cantar? Meghan y Harry participarán en concierto para fomentar donación de vacunas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184161
 ---
 
 Luego de su renuncia a la realeza, Harry y Meghan Markle han estado muy activos, pues han brindado varias entrevistas - la más polémica fue la que tuvieron con Oprah - y se han sumado a numerosas causas sociales. En este segundo ámbito, recién se anunció que la pareja participará en un concierto de recaudación de fondos para aumentar la vacunación en el mundo. Vax Live: The Concert To Reunite The World es el nombre de este evento donde, además del presidente estadunidense Joe Biden, también actuarán Jennifer Lopez, Eddie Vedder, J Balvin, el mandatario francés, Emmanuel Macron, y el primer ministro canadiense, Justin Trudeau. 

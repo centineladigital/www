@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de sus redes sociales Conagua y el Servicio Meteorológico Nacional informaron que se esperan lluvias acompañadas de granizo y descargas eléctricas"
-image: /uploads/2021/images-Conagua_y_el_Servicio_Meteorológico_Nacional.jpg
-video: nil
-audio: nil
-alt: En Alerta Chihuahua por intensa actividad eléctrica
+image: "/uploads/2021/images-Conagua_y_el_Servicio_Meteorológico_Nacional.jpg"
+video: "nil"
+audio: "nil"
+alt: "En Alerta Chihuahua por intensa actividad eléctrica"
 front: false
-section: Local
+section: "Local"
+news_id: 184463
 ---
 
 La Comisión Nacional del Agua lanzó una alerta debido a que Chihuahua registrará una intensa actividad eléctrica por la tarde.

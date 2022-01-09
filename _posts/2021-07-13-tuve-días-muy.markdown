@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La youtuber compartió un video donde señaló que las redes sociales se volvieron un lugar poco sano para ella y los motivos por los que decidió retomar su carrera. "
-image: /uploads/2021/images-nath-campos-reaparece-en-youtube_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Tuve días muy oscuros -  Nath Campos reaparece en YouTube tras detención de Rix
+image: "/uploads/2021/images-nath-campos-reaparece-en-youtube_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tuve días muy oscuros -  Nath Campos reaparece en YouTube tras detención de Rix"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185607
 ---
 
 Nath Campos regresó a YouTube con un nuevo video en el que habló del complicado proceso que enfrenta tras denunciar que sufrió de abuso sexual por parte del youtuber Rix. La cantante había decidido alejarse de la plataforma, y por lo tanto, dejó de compartir nuevo contenido por alrededor de cinco meses. Ahora, la famosa retomó su presencia en redes para relatar lo que ha vivido.  

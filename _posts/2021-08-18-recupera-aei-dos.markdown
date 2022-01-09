@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se procedió al aseguramiento correspondiente, quedando ambos vehículos a disposición de Agentes del Ministerio Público"
-image: /uploads/2021/images-Vehículos_recuperados_18.08.jpg
-video: nil
-audio: nil
-alt: Recupera AEI dos vehículos robados
+image: "/uploads/2021/images-Vehículos_recuperados_18.08.jpg"
+video: "nil"
+audio: "nil"
+alt: "Recupera AEI dos vehículos robados"
 front: false
-section: Local
+section: "Local"
+news_id: 186840
 ---
 
 Dentro de los operativos desplegados en la región serrana, Policías de la Agencia Estatal de Investigación recuperaron, en diferentes intervenciones, dos vehículos robados.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esperan este mes para concluir con áreas de salud vacunadas."
-image: /uploads/2021/images-EDUARDO_FERNANDEZ.jpg
-video: nil
-audio: /uploads/2021/audio-ML03_EDUARDO_FERNANDEZ.mp3
-alt: Concluye el viernes primera etapa de vacunación
+image: "/uploads/2021/images-EDUARDO_FERNANDEZ.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML03_EDUARDO_FERNANDEZ.mp3"
+alt: "Concluye el viernes primera etapa de vacunación"
 front: false
-section: Local
+section: "Local"
+news_id: 182224
 ---
 
 Este viernes concluyó la primera etapa de vacunación en contra del coronavirus, concluuyendo este mes con la vacunación de toda las personas del sector salud, según lo dio a conocer Eduardo Fernández Herrera, titular de la Secretaría de Salud.

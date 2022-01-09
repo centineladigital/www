@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Solamente dos de los 30 hospitales se encuentran al cien por ciento."
-image: /uploads/2021/images-ARTURO_VALENZUELA.jpg
-video: nil
-audio: /uploads/2021/audio-MM04_ARTURO_VALENZUELA.mp3
-alt: Baja ocupación hospitalaria en el estado
+image: "/uploads/2021/images-ARTURO_VALENZUELA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04_ARTURO_VALENZUELA.mp3"
+alt: "Baja ocupación hospitalaria en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 182637
 ---
 
 Una baja ocupación hospitalaria se registra en Chihuahua, esto ya que solamente dos de los 30 hospitales que atienden a pacientes de coronavirus se encuentran saturados señaló el Director Médico Zona Norte, Arturo Valenzuela Zorrilla.

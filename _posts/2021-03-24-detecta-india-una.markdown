@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Centro para el Control de Enfermedades de India anuncia el hallazgo de una 'variante doble mutante' del coronavirus en el estado de Maharashtra y en la capital, Nueva Delhi "
-image: /uploads/2021/images-2550379.jpg
-video: nil
-audio: nil
-alt: Detecta India una variante 'doble mutante' del coronavirus
+image: "/uploads/2021/images-2550379.jpg"
+video: "nil"
+audio: "nil"
+alt: "Detecta India una variante 'doble mutante' del coronavirus"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183530
 ---
 
 India detectó una "variante doble mutante" del coronavirus en 206 muestras tomadas en el estado occidental de Maharashtra, informó este miércoles un funcionario del gobierno de alto rango.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Este fin de semana no habrá supercierre."
-image: /uploads/2021/images-GUMARO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ03_GUMARO.mp3
-alt: Hasta dentro de 15 días veremos efectos de supercierre
+image: "/uploads/2021/images-GUMARO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ03_GUMARO.mp3"
+alt: "Hasta dentro de 15 días veremos efectos de supercierre"
 front: false
-section: Local
+section: "Local"
+news_id: 184323
 ---
 
 Hasta dentro de 15 días se verán los efectos de los supercierres, señaló el Subdirector de Epidemiología de la Secretaría de Salud, Gumaro Barrios Gallegos. Esto al ser cuestionado respecto a una baja de los índices en los casos de personas contagiadas de coronavirus.

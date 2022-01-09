@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Luego de que Carlos Loret de Mola reveló un video de Martín Jesús López Obrador en el que se observa cómo el hermano del presidente Andrés Manuel López Obrador recibe 150 mil pesos en efectivo, el periodista señaló que eso ya es un negocio familiar.  "
-image: /uploads/2021/images-amlo_y_loret_de_mola.jpg
-video: nil
-audio: nil
-alt: “Ya es un negocio familiar” -  Loret de Mola sobre videos de hermanos de AMLO
+image: "/uploads/2021/images-amlo_y_loret_de_mola.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Ya es un negocio familiar” -  Loret de Mola sobre videos de hermanos de AMLO"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185522
 ---
 
 En su programa “Así las Cosas con Loret” en W Radio, el columnista de EL UNIVERSAL recordó que también dio a conocer el video del otro hermano del Presidente, Pío López Obrador, en el que se observa que también recibe dinero en efectivo de David León.

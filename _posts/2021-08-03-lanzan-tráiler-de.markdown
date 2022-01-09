@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Una nueva versión del popular cuento que llegará a la plataforma de streaming el próximo 3 de septiembre. "
-image: /uploads/2021/images-esta-nueva-cenicienta-cuenta-como.jpg
-video: nil
-audio: nil
-alt: Lanzan tráiler de la película 'Cenicienta', protagonizada por Camila Cabello; así lo puedes ver
+image: "/uploads/2021/images-esta-nueva-cenicienta-cuenta-como.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lanzan tráiler de la película 'Cenicienta', protagonizada por Camila Cabello; así lo puedes ver"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186265
 ---
 
 Amazon Prime presentó este martes el tráiler de Cenicienta, una película musical que actualiza este famoso cuento y con la que la cantante Camila Cabello debuta como actriz en Hollywood. 

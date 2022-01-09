@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La titular de Segob, Olga Sánchez Cordero anunció que se trabaja en un decreto presidencial para la libertad a personas privadas de su libertad no sentenciadas que se encuentran en penales federales desde hace 10 años y que no sean acusados de delitos graves"
-image: /uploads/2021/images-Sin_título.jpg
-video: nil
-audio: nil
-alt: Alistan decreto para liberar a personas no sentenciadas, torturadas, mayores de 75 años y con enfermedades crónicas
+image: "/uploads/2021/images-Sin_título.jpg"
+video: "nil"
+audio: "nil"
+alt: "Alistan decreto para liberar a personas no sentenciadas, torturadas, mayores de 75 años y con enfermedades crónicas"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186083
 ---
 
 Olga Sánchez Cordero, secretaria de Gobernación (Segob), anunció que se trabaja en un decreto presidencial para la libertad a personas privadas de su libertad no sentenciadas que se encuentran en penales federales desde hace 10 años y que no sean acusados de delitos graves.

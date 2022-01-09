@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con este este fideicomiso se promueve el crecimiento económico del sector productivo y empresarial del estado  "
-image: /uploads/2021/images-1.jpg
-video: nil
-audio: /uploads/2021/audio-7-_CÁPSULA_FIDEAPECH_PROGRAMA_LOGROS_CON_VALOR_SIDE_11-8-21.MP3
-alt: Entregó Fideapech créditos a mil 691 mujeres  para impulsar sus pequeñas y medianas empresas
+image: "/uploads/2021/images-1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-7-_CÁPSULA_FIDEAPECH_PROGRAMA_LOGROS_CON_VALOR_SIDE_11-8-21.MP3"
+alt: "Entregó Fideapech créditos a mil 691 mujeres  para impulsar sus pequeñas y medianas empresas"
 front: false
-section: Local
+section: "Local"
+news_id: 186570
 ---
 
 El titular de la Secretaría de Innovación y Desarrollo Económico (SIDE), Antonio Eduardo Fernández Domínguez, informó que a través del Fideicomiso Estatal para el Fomento de las Actividades Productivas en el Estado de Chihuahua (Fideapech), se apoyó a mil 691 mujeres chihuahuenses en sus actividades económicas.

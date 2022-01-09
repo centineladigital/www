@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Más que el problema de cantidad se enfrentará Chihuahua a la calidad de Agua."
-image: /uploads/2021/images-IBAÑEZ.jpg
-video: /uploads/2021/videos-MV04_OSCAR_IBAÑEZ.mp4
-audio: nil
-alt: Sobreexplotados 44 mantos freáticos
+image: "/uploads/2021/images-IBAÑEZ.jpg"
+video: "/uploads/2021/videos-MV04_OSCAR_IBAÑEZ.mp4"
+audio: "nil"
+alt: "Sobreexplotados 44 mantos freáticos"
 front: false
-section: Local
+section: "Local"
+news_id: 186671
 ---
 
 De los 61 acuíferos que se tienen en el está 44 se encuentran sobreexplotados, señaló Oscar Ibáñez titular de la Junta Central de Agua y Saneamiento, al ser cuestionado sobre el número de años que tiene el estado para colapsar en materia de suministro de agua. Ante lo que señaló más que el problema de cantidad se enfrentará Chihuahua a la calidad de Agua.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se esperan lluvias puntuales muy fuertes, con precipitaciones que podrían estar entre los 50 y los 75 milímetros; para el municipio de Chihuahua se prevén lluvias con intervalos de chubascos durante gran parte de la tarde  "
-image: /uploads/2021/images-Lluvia.jpg
-video: nil
-audio: nil
-alt: Emite Protección Civil alerta por lluvias fuertes en el estado durante las próximas horas
+image: "/uploads/2021/images-Lluvia.jpg"
+video: "nil"
+audio: "nil"
+alt: "Emite Protección Civil alerta por lluvias fuertes en el estado durante las próximas horas"
 front: false
-section: Local
+section: "Local"
+news_id: 186588
 ---
 
 El gobierno del Estado, a través de la Coordinación Estatal de Protección Civil (CEPC), emitió un aviso preventivo ante la aproximación de lluvias fuertes en las regiones norte, centro y noroeste de la entidad para las próximas horas.

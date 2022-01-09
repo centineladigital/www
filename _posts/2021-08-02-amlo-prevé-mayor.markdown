@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Presidente se dijo contento por los resultados, pues nunca había participado tanta gente en una consulta de las que se han registrado, históricamente"
-image: /uploads/2021/images-ñ.jpeg
-video: nil
-audio: nil
-alt: AMLO prevé mayor participación en consulta sobre revocación de mandato
+image: "/uploads/2021/images-ñ.jpeg"
+video: "nil"
+audio: "nil"
+alt: "AMLO prevé mayor participación en consulta sobre revocación de mandato"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186173
 ---
 
 El presidente Andrés Manuel López Obrador estimó mayor participación en la consulta sobre revocación de mandato que se prevé llevar a cabo en marzo de 2022.  

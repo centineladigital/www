@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Algunas de las más de 40 mujeres están embarazadas, mientras que otras llevan a sus niños pequeños a las barricadas"
-image: /uploads/2021/images-2512848.jpg
-video: nil
-audio: nil
-alt: Mujeres en Michoacán toman las armas para defenderse
+image: "/uploads/2021/images-2512848.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mujeres en Michoacán toman las armas para defenderse"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182195
 ---
 
 En el lugar de origen del movimiento de ``autodefensas'' de México, ha emergido un nuevo grupo conformado por puras mujeres, las cuales cargan fusiles de asalto y colocan controles de carretera para ahuyentar lo que dicen es una violenta incursión en el estado de Michoacán por parte del violento Cártel Jalisco Nueva Generación.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el documental Framing Britney Spears se mostró la misoginia que Justin Timberlake, ex novio de la cantante, hizo contra ella, ahora Justin se disculpó. "
-image: /uploads/2021/images-justin-timberlake-acusado-misogino-novia.jpg
-video: nil
-audio: nil
-alt: Justin Timberlake se disculpa con Britney Spears tras ser acusado de misógino
+image: "/uploads/2021/images-justin-timberlake-acusado-misogino-novia.jpg"
+video: "nil"
+audio: "nil"
+alt: "Justin Timberlake se disculpa con Britney Spears tras ser acusado de misógino"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182906
 ---
 
 Tras el estreno del documental Framing Britney Spears, Justin Timberlake fue acusado de misógino por el trato que tuvo hacia la Princesa del pop durante y después de su noviazgo, además de que también lo han acusado de racismo y sexismo tras la “falla de vestuario” de Janet Jackson en el show del medio tiempo del Super Bowl en el 2004. Ante los malos comentarios, el cantante ofreció una disculpa. 

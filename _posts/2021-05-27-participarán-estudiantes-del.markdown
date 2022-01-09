@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La competencia se realizará de manera virtual del 31 de mayo al 4 de junio; los equipos que obtuvieron su pase pertenecen a los planteles Riberas Chihuahua y La Junta"
-image: /uploads/2021/images-CY2.jpg
-video: nil
-audio: nil
-alt: Participarán estudiantes del Cecytech en Concurso Nacional de Creatividad e Innovación Tecnológica 2021
+image: "/uploads/2021/images-CY2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Participarán estudiantes del Cecytech en Concurso Nacional de Creatividad e Innovación Tecnológica 2021"
 front: false
-section: Local
+section: "Local"
+news_id: 184693
 ---
 
 Estudiantes de los planteles Riberas Chihuahua y La Junta del Colegio de Estudios Científicos y Tecnológicos del Estado de Chihuahua (Cecytech), obtuvieron los primeros lugares en el Concurso Estatal de Creatividad e Innovación Tecnológica 2021, con lo que consiguieron su pase a la etapa nacional de esta competencia.

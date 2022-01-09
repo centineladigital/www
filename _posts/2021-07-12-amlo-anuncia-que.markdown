@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente Andrés Manuel López Obrador anunció que le va a pedir al director de Pemex que se implemente la distribución de cilindros de Gas Bienestar al terminar de consolidar el plan en la Ciudad de México. "
-image: /uploads/2021/images-presidente-andres-manuel-lopez-obrador-749.jpeg
-video: nil
-audio: nil
-alt: AMLO anuncia que Gas Bienestar se va a ampliar a Tabasco
+image: "/uploads/2021/images-presidente-andres-manuel-lopez-obrador-749.jpeg"
+video: "nil"
+audio: "nil"
+alt: "AMLO anuncia que Gas Bienestar se va a ampliar a Tabasco"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185551
 ---
 
 El presidente Andrés Manuel López Obrador anunció que le va a pedir al director de Pemex que se implemente la distribución de cilindros de Gas Bienestar al terminar de consolidar el plan en la Ciudad de México.

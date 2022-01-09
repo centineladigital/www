@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Luis Serrato reiteró que será un evento transmitido por redes sociales y que los medios de comunicación serán invitados fundamentales para poder llegar a todos los rincones del estado"
-image: /uploads/2021/images-2021-06-24_14-27-12_750x500.jpg
-video: nil
-audio: nil
-alt: Toma de protesta de Maru Campos no será evento masivo por pandemia
+image: "/uploads/2021/images-2021-06-24_14-27-12_750x500.jpg"
+video: "nil"
+audio: "nil"
+alt: "Toma de protesta de Maru Campos no será evento masivo por pandemia"
 front: false
-section: Local
+section: "Local"
+news_id: 186740
 ---
 
 Luis Serrato Castell, coordinador del equipo de Transición del Gobierno del Estado de Maru Campos, anunció este lunes que la toma de protesta de la Gobernadora Electa presentará algunos cambios en congruencia con la situación financiera del estado así como, el aumento de contagios de COVID.

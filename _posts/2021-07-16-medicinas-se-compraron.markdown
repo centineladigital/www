@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "En la conferencia mañanera, reiteró que la próxima semana se va a dar un informe completo sobre el abasto de medicinas en el país, lo cual va a servir para dar atención gratuita a la población, como lo marca la Constitución. "
-image: /uploads/2021/images-15-07-2021-CONFERENCIA-DE-PRENSA-MATUTINA-FOTO-01-400x266.jpg
-video: nil
-audio: nil
-alt: Medicinas se compraron a precio más bajo que antes, dice AMLO; garantiza abasto
+image: "/uploads/2021/images-15-07-2021-CONFERENCIA-DE-PRENSA-MATUTINA-FOTO-01-400x266.jpg"
+video: "nil"
+audio: "nil"
+alt: "Medicinas se compraron a precio más bajo que antes, dice AMLO; garantiza abasto"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185718
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que la compra de medicamentos a través de la Oficina de las Naciones Unidas de Servicios para Proyectos (Unops) se hizo a un precio más bajo que en gobiernos anteriores, porque ya no hay problemas de corrupción.

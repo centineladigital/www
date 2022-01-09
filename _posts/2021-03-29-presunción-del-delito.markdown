@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El Poder Judicial mantiene una serie de privilegios a los acusados del delito de cohecho del Clan Duartista."
-image: /uploads/2021/images-CASTREJON.jpg
-video: nil
-audio: /uploads/2021/audio-ML04_OSCAR_CASTREJON.mp3
-alt: Presunción del delito es suficiente para vincular a Campos Galván -  Castrejón
+image: "/uploads/2021/images-CASTREJON.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04_OSCAR_CASTREJON.mp3"
+alt: "Presunción del delito es suficiente para vincular a Campos Galván -  Castrejón"
 front: false
-section: Local
+section: "Local"
+news_id: 183601
 ---
 
 El que se tenga presunción del delito es suficiente para vincular a la Alcaldesa con licencia María Eugenia Campos Galván a proceso, señaló el abogado y militante de MORENA Oscar Castrejón, quien señaló que en caso de no llevarse a cabo desaparece la justicia en Chihuahua.

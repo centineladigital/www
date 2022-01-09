@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La unidad de aleación de aluminio de Dengfeng Power Group Co Ltd. explotó precisamente cuando el agua de la inundación ingresó a la planta, así lo informó hoy el gobierno local. "
-image: /uploads/2021/images-china_fabrica.jpg
-video: nil
-audio: nil
-alt: Fábrica de aluminio explota en China tras devastadoras inundaciones
+image: "/uploads/2021/images-china_fabrica.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fábrica de aluminio explota en China tras devastadoras inundaciones"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185839
 ---
 
 Una sorprendente explosión de una fábrica de aluminio en la provincia de Henan, China, fue captada en video e incrementó más la emergencia en ese territorio por la devastadora inundación que ha afectado principalmente a la ciudad de Zhengzhou, donde se trabaja en el rescate de personas por el incremento de las aguas que llegó incluso a vagones del Metro. 

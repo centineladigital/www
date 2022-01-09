@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente electo de EU y su vicepresidenta arriban al Capitolio, acompañados por familiares y amigos, para su toma de posesión"
-image: /uploads/2021/images-2515161.jpg
-video: nil
-audio: nil
-alt: Biden y Harris arriban al Capitolio para su investidura
+image: "/uploads/2021/images-2515161.jpg"
+video: "nil"
+audio: "nil"
+alt: "Biden y Harris arriban al Capitolio para su investidura"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182279
 ---
 
 El presidente electo Joe Biden y la vicepresidenta electa Kamala Harris ya se encuentran en el Capitolio de Estados Unidos para su investidura.

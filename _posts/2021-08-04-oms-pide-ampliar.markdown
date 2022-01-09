@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La solicitud del organismo internacional se da porque aún hay naciones que no han completado o van lento en sus respectivos planes de vacunación por coronavirus"
-image: /uploads/2021/images-vacunacion-anticovid-en-la-laguna.jpg
-video: nil
-audio: nil
-alt: OMS pide ampliar a septiembre el plazo para una nueva dosis de refuerzo por covid-19
+image: "/uploads/2021/images-vacunacion-anticovid-en-la-laguna.jpg"
+video: "nil"
+audio: "nil"
+alt: "OMS pide ampliar a septiembre el plazo para una nueva dosis de refuerzo por covid-19"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186275
 ---
 
 El jefe de la Organización Mundial de la Salud (OMS) pidió hoy una ampliación de tiempo de las dosis de refuerzo de la vacuna contra el covid-19 para ponerlas a disposición de los países que solo inmunizaron a una pequeña parte de su población ante el coronavirus, siendo una solicitud que se ha sumado a la enorme brecha en los planes de inyección de los países. 

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Destaca como uno de los tres estados que cuenta con un programa de estímulo fiscal destinado al desarrollo y fortalecimiento de este sector; en 2020 y 2021 dispuso de un techo presupuestal de 46 mdp para apoyar 128 proyectos en la entidad"
-image: /uploads/2021/images-proyectos_EKA_(4).jpg
-video: nil
-audio: nil
-alt: Con “Eká Nawéame” Chihuahua es ejemplo nacional en financiamiento de proyectos culturales y artísticos
+image: "/uploads/2021/images-proyectos_EKA_(4).jpg"
+video: "nil"
+audio: "nil"
+alt: "Con “Eká Nawéame” Chihuahua es ejemplo nacional en financiamiento de proyectos culturales y artísticos"
 front: false
-section: Local
+section: "Local"
+news_id: 186997
 ---
 
 hihuahua es uno de los tres estados del país en contar con un Programa de Estímulo Fiscal para la Cultura y las Artes, y es además, la entidad que destina mayores recursos para el desarrollo de proyectos culturales bajo esta dinámica.

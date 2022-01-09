@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de un spot, con motivo de su Tercer Informe de Gobierno, López Obrador aseguró aun que se insulte al Presidente no hay represión"
-image: /uploads/2021/images-tercer-informe-de-gobierno-del_100_52_914_569.jpg
-video: nil
-audio: nil
-alt: En spot por tercer informe, AMLO destaca libertad de expresión en su gobierno
+image: "/uploads/2021/images-tercer-informe-de-gobierno-del_100_52_914_569.jpg"
+video: "nil"
+audio: "nil"
+alt: "En spot por tercer informe, AMLO destaca libertad de expresión en su gobierno"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187285
 ---
 
 El presidente Andrés Manuel López Obrador dijo que en su gobierno iba a respetar la libertad de expresión y que ningún periodista sea perseguido o censurado, señalando que aunque se insulta al Presidente, no hay represión. "Ningún periodista es perseguido o censurado, hasta se insulta al presidente pero no hay represión" indicó. 

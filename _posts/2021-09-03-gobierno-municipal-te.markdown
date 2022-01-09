@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se llevará a cabo este viernes 3 de septiembre a las 7:00 pm en el Museo Sebastian"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Gobierno Municipal te invita a la inauguración de la exposición “Trilogía Tren”   
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Gobierno Municipal te invita a la inauguración de la exposición “Trilogía Tren”   "
 front: false
-section: Local
+section: "Local"
+news_id: 187406
 ---
 
 El Gobierno Municipal a través del Instituto de Cultura te invita a la inauguración “Trilogía Tren, entre la tierra como en el cuerpo”, la cual se llevará a cabo este viernes 3 de septiembre a las 7:00 pm en el Museo Sebastian.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Por actos anticipados de campaña, así como buscar el voto."
-image: /uploads/2021/images-ANTONIO_PINEDO.jpg
-video: nil
-audio: /uploads/2021/audio-MV01_ANTONIO_PINEDO.mp3
-alt: Presentan denuncia contra Marco Bonilla ante IEE 
+image: "/uploads/2021/images-ANTONIO_PINEDO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV01_ANTONIO_PINEDO.mp3"
+alt: "Presentan denuncia contra Marco Bonilla ante IEE "
 front: false
-section: Local
+section: "Local"
+news_id: 184076
 ---
 
 Una denuncia por actos anticipados de campaña fue presentada por parte del candidato del Partido Acción Nacional fue presentada por parte de Morena, según fue dado a conocer por parte del vocero de este organismo Antonio Pinedo.

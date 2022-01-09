@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Durante el mes de septiembre las actividades seguirán a distancia y a partir del mes de octubre se incorporarán sesiones de reforzamiento académico en sus instalaciones  "
-image: /uploads/2021/images-IMG_4401.JPG
-video: nil
-audio: nil
-alt: Regresará UTCH a clases presenciales de manera escalonada con el modelo CASA
+image: "/uploads/2021/images-IMG_4401.JPG"
+video: "nil"
+audio: "nil"
+alt: "Regresará UTCH a clases presenciales de manera escalonada con el modelo CASA"
 front: false
-section: Local
+section: "Local"
+news_id: 186893
 ---
 
 En atención a los “Lineamientos Operativos para la Aplicación y Desarrollo de la Estrategia Chihuahua”, emitidos por la Secretaría de Educación y Deporte, la Universidad Tecnológica de Chihuahua (UTCH) desarrolló un programa escalonado y organizado para el regreso a actividades en el cuatrimestre septiembre-diciembre 2021, con el modelo CASA (Centros de Asesoría y Seguimiento Académico).

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tania Rincón regresó a la televisión a poco más de un mes de que trajera al mundo a su segundo bebé. Ante su reaparición y la ausencia de Marisol González, los internautas cuestionaron si la ex conductora de VLA será su reemplazo. "
-image: /uploads/2021/images-tania-rincon-se-integra-al.jpg
-video: nil
-audio: nil
-alt: ¿Reemplaza a Marisol González? Tania Rincón reaparece como conductora en programa 'Hoy'
+image: "/uploads/2021/images-tania-rincon-se-integra-al.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Reemplaza a Marisol González? Tania Rincón reaparece como conductora en programa 'Hoy'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183290
 ---
 
 Tania Rincón está de vuelta, la presentadora de televisión reapareció en el programa Hoy de Televisa. La famosa ex conductora de Guerreros 2020 y de Venga la Alegría de TV Azteca se unió al staff de conductores de la revista matutina. Junto a Andrea Legarreta, Arath de la Torre, Paul Stanley, Raúl Araiza y Andrea Escalona, luego de que el pasado 29 de enero tuviera a su segundo bebé. ¿Ocupará el lugar de Marisol González? La originaria de Michoacán regresó a la televisión a poco más de un mes de que trajera al mundo a su segundo bebé. Con un vestuario azul, la presentadora se mostró contenta de estar de vuelta. Como era de esperarse, los integrantes del programa Hoy la recibieron con alegría. 

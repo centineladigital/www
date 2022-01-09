@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con estos apoyos que brindan especialistas en pediatría, enfermería, nutriología y trabajo social, se busca garantizar el buen desarrollo infantil en las zonas prioritarias del estado"
-image: /uploads/2021/images-Visitas_Chih_Crece_CDJ-37.jpg
-video: nil
-audio: nil
-alt: Más de mil niñas y niños en situación vulnerable recibieron atención médica con Chihuahua Crece Contigo
+image: "/uploads/2021/images-Visitas_Chih_Crece_CDJ-37.jpg"
+video: "nil"
+audio: "nil"
+alt: "Más de mil niñas y niños en situación vulnerable recibieron atención médica con Chihuahua Crece Contigo"
 front: false
-section: Local
+section: "Local"
+news_id: 181938
 ---
 
 El secretario de Desarrollo Social, Luis Aguilar Lozoya, dio a conocer que dentro de las acciones realizadas por el programa Chihuahua Crece Contigo el año pasado en zonas prioritarias de Chihuahua, Juárez, Batopilas y Guadalupe y Calvo, se otorgaron más de mil atenciones médicas a menores de edad, desde recién nacidos y hasta los 5 años con 11 meses.

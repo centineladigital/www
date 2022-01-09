@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Asociación de Mujeres Cineastas y de Medios Audiovisuales rechaza que el festival le otorgue premio a Johnny Depp tras ser acusado de agredir a Amber Heard. "
-image: /uploads/2021/images-directoras-piensan-medidas-tomaran-decision.jpg
-video: nil
-audio: nil
-alt: Directoras españolas condenan que Festival de San Sebastián entregue premio a Johnny Depp
+image: "/uploads/2021/images-directoras-piensan-medidas-tomaran-decision.jpg"
+video: "nil"
+audio: "nil"
+alt: "Directoras españolas condenan que Festival de San Sebastián entregue premio a Johnny Depp"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186510
 ---
 
 Después de que el Festival de San Sebastián anunciara que le otorgará su mayor distinción a Johnny Deep, unas directoras españolas alzaron la voz y dieron a conocer que no les parece correcto que el evento le entregue este premio al actor después de ser acusado de agredir a su ex esposa Amber Heard. 

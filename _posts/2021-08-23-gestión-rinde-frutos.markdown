@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Agradece Javier Corral respuesta del Gobierno de México y explica que el  despliegue forma parte de un operativo especial para combatir la delincuencia organizada y reforzar las estrategias en materia de seguridad "
-image: /uploads/2021/images-11.jpg
-video: nil
-audio: nil
-alt: Gestión rinde frutos  con mil 550 elementos más de Guardia Nacional para Juárez
+image: "/uploads/2021/images-11.jpg"
+video: "nil"
+audio: "nil"
+alt: "Gestión rinde frutos  con mil 550 elementos más de Guardia Nacional para Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 187017
 ---
 
 En atención a una gestión especial, llegaron desde otras partes del país directamente a Ciudad Juárez, mil 300 elementos de la Guardia Nacional y están integrándose otros 250 que se reubican del interior del estado, para reforzar con un total de mil 550 las estrategias en materia de seguridad, informó el gobernador Javier Corral.

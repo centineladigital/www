@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En el programa “Logros con Valor”, informa Secretaría de Desarrollo Municipal sobre el apoyo para la niñez y adolescencia de las distintas comunidades que hoy cuentan con un transporte digno y seguro para ir a la escuela"
-image: /uploads/2021/images-IMG_3055.JPG
-video: nil
-audio: nil
-alt: Llega Ronda Escolar a los 67 municipios con 235 camiones y una inversión de 99 millones de pesos
+image: "/uploads/2021/images-IMG_3055.JPG"
+video: "nil"
+audio: "nil"
+alt: "Llega Ronda Escolar a los 67 municipios con 235 camiones y una inversión de 99 millones de pesos"
 front: false
-section: Local
+section: "Local"
+news_id: 186242
 ---
 
 El Programa Ronda Escolar, por ser prioritario para Gobierno del Estado, recibió una inversión global de 99 millones 305 mil pesos con una destacada participación de la Fundación del Empresariado Chihuahuense, para que más niñas, niños y adolescentes de comunidades lejanas cuentan con un transporte digno y seguro.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Desde el inicio de la pandemia suman 56 mil 235 casos y 5 mil 467 decesos; superan la enfermedad 5 mil 452 integrantes del Sector Salud en la entidad"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporte COVID-19 -  confirman 148 contagios y 18 defunciones más en las últimas horas
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporte COVID-19 -  confirman 148 contagios y 18 defunciones más en las últimas horas"
 front: false
-section: Local
+section: "Local"
+news_id: 183383
 ---
 
 En el último reporte epidemiológico COVID-19, la Secretaría de Salud confirmó un total general de 56 mil 235 casos, con 148 nuevos registros, así como un acumulado de 5 mil 467 personas fallecidas, con 18 decesos más en la entidad.

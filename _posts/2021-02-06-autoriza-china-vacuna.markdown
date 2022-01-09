@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El organismo regulador de China autoriza la comercialización de la vacuna covid CoronaVac, del laboratorio Sinovac, la segunda fabricada en el país"
-image: /uploads/2021/images-2524860.jpg
-video: nil
-audio: nil
-alt: Autoriza China vacuna CoronaVac, la segunda hecha en el país
+image: "/uploads/2021/images-2524860.jpg"
+video: "nil"
+audio: "nil"
+alt: "Autoriza China vacuna CoronaVac, la segunda hecha en el país"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182755
 ---
 
 Las autoridades reguladoras chinas dieron su autorización "con condiciones" para comercializar una segunda vacuna contra el coronavirus, la CoronaVac del laboratorio Sinovac, anunció la firma farmacéutica este sábado.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Ante el regreso a semáforo naranja, no hay ajustes a actividades económicas y la próxima semana inicia la vacunación de personas de 18 a 29 años"
-image: /uploads/2021/images-10c517f849b7e09409528373a59ca927b3a76373-3-scaled-e1623896080120-640x360.jpg
-video: nil
-audio: nil
-alt: CDMX regresa a semáforo epidemiológico naranja
+image: "/uploads/2021/images-10c517f849b7e09409528373a59ca927b3a76373-3-scaled-e1623896080120-640x360.jpg"
+video: "nil"
+audio: "nil"
+alt: "CDMX regresa a semáforo epidemiológico naranja"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185943
 ---
 
 Ante la pandemia por Covid-19, la Ciudad de México regresa a semáforo epidemiológico naranja la próxima semana, del 26 de julio al 1 de agosto.  

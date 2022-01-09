@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Tan sólo en lo que va del año 25 mujeres han sido privadas de la vida por motivo de género."
-image: /uploads/2021/images-wendy.jpg
-video: /uploads/2021/videos-MM04_WENDY_CHAVEZ.mp4
-audio: nil
-alt: Alrededor de 132 mujeres han sido víctimas de feminicidio
+image: "/uploads/2021/images-wendy.jpg"
+video: "/uploads/2021/videos-MM04_WENDY_CHAVEZ.mp4"
+audio: "nil"
+alt: "Alrededor de 132 mujeres han sido víctimas de feminicidio"
 front: false
-section: Local
+section: "Local"
+news_id: 186797
 ---
 
 En lo que va de la administración alrededor de 132 mujeres han sido víctimas de feminicidio en el estado, señaló la Fiscal de la FEM Wendy Chávez Villanueva, quien recordó que el delito de feminicidio no tiene el mismo tiempo que tiene la administración.

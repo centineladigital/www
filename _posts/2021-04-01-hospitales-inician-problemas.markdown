@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Temen por oleada de casos en Chihuahua."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01_ALEJADRO_DOMINGUEZ.mp3
-alt: Hospitales inician problemas de saturación 
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01_ALEJADRO_DOMINGUEZ.mp3"
+alt: "Hospitales inician problemas de saturación "
 front: false
-section: Local
+section: "Local"
+news_id: 183649
 ---
 
 "Hay sospecha de una elevación de casos durante esta semana" aseveró el Director Médico de la Zona Norte, Arturo Valenzuela Zorrilla. Esto al ser cuestionado respecto al incremento de personas que han requerido ser hospitalizadas por complicaciones relacionadas con COVID.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Ventas y producciones se llevan a cabo por parte de artesanos."
-image: /uploads/2021/images-TERESA.jpg
-video: nil
-audio: /uploads/2021/audio-MW06.mp3
-alt: Indígenas cada vez son más autogestivos -  COEPI
+image: "/uploads/2021/images-TERESA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW06.mp3"
+alt: "Indígenas cada vez son más autogestivos -  COEPI"
 front: false
-section: Local
+section: "Local"
+news_id: 185211
 ---
 
 Los indígenas son cada vez más autogestivios, fueron las palabras de la titular de la Comisión Estatal para los Pueblos Indígenas, María Teresa Guerrero Olivares. Esto al dar a conocer las acciones que llevaron a cabo dentro del programa Sekáti Newárame cuyo significado es “hecho a mano”. 

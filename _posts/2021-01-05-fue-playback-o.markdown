@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Bradley Cooper es Jackson en 'Nace una estrella', sin embargo, no se tiene pista de que el actor supiera cantar antes de la película. "
-image: /uploads/2021/images-contamos-cooper-canta-nace-estrella.jpg
-video: nil
-audio: nil
-alt: ¿Fue playback o Bardley Cooper sí canta en 'Nace una estrella'?; aquí te lo decimos
+image: "/uploads/2021/images-contamos-cooper-canta-nace-estrella.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Fue playback o Bardley Cooper sí canta en 'Nace una estrella'?; aquí te lo decimos"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181886
 ---
 
 Hoy es 5 de enero y celebramos el cumpleaños número 46 del actor y director de cine Bradley Cooper, a quien conocimos en la pantalla grande en 2001 con Wet Hot American Summer. Años de éxitos y buenas películas lo llevaron a dirigir, por primera vez, una emblemática película que él mismo protagonizó: 'Nace una estrella' ('A Star Is Born' por su título original) al lado de la cantante pop Lady Gaga, en la que además se estrenó en un nuevo arte: el canto. Ésta fue la cuarta versión de la película Nace una estrella, que saltó a las pantallas en 1937, 1954 y la más reciente de 1976. En 2018 llegó una nueva versión que fue completamente aclamada por la Academia, e incluso fue nominada en 2019 a los Premios Oscar en 8 categorías, pero la única que ganó fue Mejor Canción Original por el tema Shallow de Lady Gaga. 

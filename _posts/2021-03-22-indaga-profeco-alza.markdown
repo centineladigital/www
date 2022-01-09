@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Anuncia la Procuraduría que indagará a estaciones de servicio que se quedan con subsidio y elevan costos por litro; reitera López Obrador compromiso para que no aumenten los precios"
-image: /uploads/2021/images-2549238.jpg
-video: nil
-audio: nil
-alt: Indaga Profeco alza injustificada al precio de las gasolinas
+image: "/uploads/2021/images-2549238.jpg"
+video: "nil"
+audio: "nil"
+alt: "Indaga Profeco alza injustificada al precio de las gasolinas"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183498
 ---
 
 Ante el incremento injustificado en los precios de los combustibles, la Procuraduría Federal del Consumidor (Profeco) ya indaga a las estaciones de servicio que no aplican estímulo fiscal y por ello ofrecen precios elevados.

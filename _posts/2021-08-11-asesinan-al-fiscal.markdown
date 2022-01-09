@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El fiscal, Gregorio Pérez Gómez, estaba a cargo de las investigaciones de los hechos violentos suscitados en el municipio de Pantelhó, participó en las mesas de diálogo entre los autodefensas de 'El Machete' y de las autoridades estatales y federales."
-image: /uploads/2021/images-auto-viajaba-presento-impactos-bala_0_0_960_597.jpeg
-video: nil
-audio: nil
-alt: Asesinan al fiscal de Justicia Indígena de Chiapas
+image: "/uploads/2021/images-auto-viajaba-presento-impactos-bala_0_0_960_597.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Asesinan al fiscal de Justicia Indígena de Chiapas"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186547
 ---
 
 El fiscal de Justicia Indígena, Gregorio Pérez Gómez, fue asesinado la noche de este martes en el municipio de San Cristóbal de las Casas, Chiapas.  

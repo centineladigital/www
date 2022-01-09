@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La alcaldesa de Washington, Muriel Bowser, implementó toque de queda en toda la ciudad después de que partidarios del presidente Donald Trump irrumpieron en el Capitolio"
-image: /uploads/2021/images-2507384.jpg
-video: nil
-audio: nil
-alt: Implementan toque de queda en Washington tras protestas en Capitolio
+image: "/uploads/2021/images-2507384.jpg"
+video: "nil"
+audio: "nil"
+alt: "Implementan toque de queda en Washington tras protestas en Capitolio"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 181929
 ---
 
 La alcaldesa de Washington, Muriel Bowser, ordenó el miércoles un toque de queda en toda la ciudad después de que partidarios del presidente Donald Trump irrumpieran en el Capitolio de Estados Unidos en protesta por la derrota electoral del mandatario.

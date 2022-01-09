@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Santiago Solari prefirió no hablar sobre el arbitraje del Portland-América y se lo dejó a la prensa"
-image: /uploads/2021/images-2570201.jpg
-video: nil
-audio: nil
-alt: Hay dolor moral en el América
+image: "/uploads/2021/images-2570201.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hay dolor moral en el América"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 184182
 ---
 
 Tras el polémico empate entre Portland y América, el técnico Santiago Solari guardó silencio respecto al arbitraje del guatemalteco Mario Escobar y dejó en manos de la prensa la opinión que pueda haber respecto al colegiado.

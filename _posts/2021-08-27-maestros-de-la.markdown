@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "De acuerdo con los normalistas, no se están respetando sus plazas, además de que alegaron condiciones inexistentes para el regreso a clases presenciales"
-image: /uploads/2021/images-manifestantes-impidieron-mandatario-federal-ingresara_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Maestros de la CNTE pintan vehículo de AMLO durante bloqueo en Chiapas
+image: "/uploads/2021/images-manifestantes-impidieron-mandatario-federal-ingresara_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Maestros de la CNTE pintan vehículo de AMLO durante bloqueo en Chiapas"
 front: false
-section: Local
+section: "Nacional"
+news_id: 187175
 ---
 
 Integrantes de la Coordinadora Nacional de Trabajadores de la Educación (CNTE) pintaron mensajes en la camioneta en que se trasladaba el presidente Andrés Manuel López Obrador en Chiapas, acusando represión por parte de las autoridades estatales.

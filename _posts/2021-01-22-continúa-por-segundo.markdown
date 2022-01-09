@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se registran 139 casos de contagios y 20 defunciones en 24 horas."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-MV03_WENDY_AVILA.mp3
-alt: Continúa por segundo día consecutivo cifra de tres dígitos en casos COVID
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV03_WENDY_AVILA.mp3"
+alt: "Continúa por segundo día consecutivo cifra de tres dígitos en casos COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 182376
 ---
 
 Por segundo día consecutivo se supera cien nuevos casos de personas infectadas de coronavirus, esto al detectar 139 nuevos casos de personas que dieron positivo a la prueba PCR y la acreditación de 20 defunciones, según fue dado a conocer por parte de la Subdirectora de Medicina Preventiva Wendy Ávila Coronado.

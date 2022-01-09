@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Roberto Lara, es Licenciado en Derecho por la Universidad Autónoma de Chihuahua y Maestro en Ciencias Políticas por la The London School of Economics and Political Science de Londres, Inglaterra.  "
-image: /uploads/2021/images-WhatsApp_Image_2021-09-16_at_10.45.47.jpeg
-video: nil
-audio: nil
-alt: El Consejo de Administración entrega el nombramiento a Roberto Lara como titular de la JCAS
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-16_at_10.45.47.jpeg"
+video: "nil"
+audio: "nil"
+alt: "El Consejo de Administración entrega el nombramiento a Roberto Lara como titular de la JCAS"
 front: false
-section: Local
+section: "Local"
+news_id: 187789
 ---
 
 El Consejo de Administración de la Junta Central de Agua y Saneamiento (JCAS), conformado por ciudadanos y autoridades de Gobierno, en su IV Sesión Extraordinaria, entregó el nombramiento de director ejecutivo a Roberto Lara Rocha.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El potencial, según el Presidente, se va a ver reflejado en el presupuesto de 2022, ya que no va a faltar dinero para pagar a los trabajadores"
-image: /uploads/2021/images-lopez-obrador-conferencia-mananera-agosto-1_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: México ya es una potencia económica, asegura AMLO
+image: "/uploads/2021/images-lopez-obrador-conferencia-mananera-agosto-1_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "México ya es una potencia económica, asegura AMLO"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186719
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que México ya es una potencia económica, porque se procura la distribución del ingreso entre la población y los potentados pagan impuestos. 

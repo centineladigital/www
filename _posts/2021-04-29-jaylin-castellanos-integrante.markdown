@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La nueva integrante de Acapulco Shore, Jaylin Contreras, denunció que la golpearon y discriminaron en un antro. "
-image: /uploads/2021/images-jaylin-castellanos-conto-sucedieron-hechos.jpg
-video: nil
-audio: nil
-alt: Jaylin Castellanos, integrante de 'Acapulco Shore', denuncia que sufrió discriminación en un antro
+image: "/uploads/2021/images-jaylin-castellanos-conto-sucedieron-hechos.jpg"
+video: "nil"
+audio: "nil"
+alt: "Jaylin Castellanos, integrante de 'Acapulco Shore', denuncia que sufrió discriminación en un antro"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184186
 ---
 
 Jaylin Castellanos, la nueva integrante del reality de MTV, Acapulco Shore, ha causado sensación no sólo entre los demás shores, sino también entre el público ya que es la primera mujer trans que se une al programa. Y a poco de haberse estrenado la octava temporada, la llamada Barbie Mexicana denunció a través de sus redes sociales que fue golpeada y discriminada en un antro. A través de historias en Instagram, la guapa integrante de Acapulco Shore denunció que acudió a un antro y que por ser una mujer trans, personas que se encontraban en el lugar la discriminaron y aprovecharon para golpearla. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A sus 54 años, y una vida de activismo social enfocada en causas de derechos humanos, Cecilia lucha desde hace años para que el Congreso chileno apruebe una ley que legalice la eutanasia sin imaginar que en el camino ella misma la iba a requerir"
-image: /uploads/2021/images-2570841.jpg
-video: nil
-audio: nil
-alt: Amo vivir, pero quiero morir, dice activista que busca legalizar la eutanasia
+image: "/uploads/2021/images-2570841.jpg"
+video: "nil"
+audio: "nil"
+alt: "Amo vivir, pero quiero morir, dice activista que busca legalizar la eutanasia"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184208
 ---
 
 "Amo vivir, pero quiero morir", afirma Cecilia Heyder, una enferma terminal que lidera la discusión sobre el establecimiento de una ley de Eutanasia en Chile que le permita morir de forma digna, en su última gran batalla.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de un comunicado, la Secretaría de Gobernación agradeció a las mexicanas y mexicanos el interés mostrado por el correcto uso de nuestras insignias nacionales. "
-image: /uploads/2021/images-cantante-recibio-criticas-entonar-himno.jpg
-video: nil
-audio: nil
-alt: Fue ejecutada de manera respetuosa -  Segob no sancionará a Ángela Aguilar por entonación del Himno Nacional
+image: "/uploads/2021/images-cantante-recibio-criticas-entonar-himno.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fue ejecutada de manera respetuosa -  Segob no sancionará a Ángela Aguilar por entonación del Himno Nacional"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184379
 ---
 
 Ángela Aguilar causó polémica en redes sociales debido a que varios internautas señalaron que realizó una mala entonación del Himno Nacional antes de la pelea del Canelo Álvarez y Joe Saunders, donde resultó victorioso el mexicano. 

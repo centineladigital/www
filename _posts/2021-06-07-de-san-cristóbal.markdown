@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La película pidió ayuda para confeccionar estos diseños, uno de ellos Impacto, una empresa nacida en San Cristóbal de las Casas. "
-image: /uploads/2021/images-cruella-regreso-triunfar-pantalla-grande.jpg
-video: nil
-audio: nil
-alt: ¡De San Cristóbal de las Casas a Hollywood! Impacto, empresa que ayudó a confeccionar vestidos de 'Cruella'
+image: "/uploads/2021/images-cruella-regreso-triunfar-pantalla-grande.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡De San Cristóbal de las Casas a Hollywood! Impacto, empresa que ayudó a confeccionar vestidos de 'Cruella'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184899
 ---
 
 Cruella ha puesto todas los reflectores en su cinta y al ser una película que se estrenó hace unos días ha recibido buenas críticas por parte de los fans de Disney y de la crítica, pero esta cinta la sigue rompiendo y sorprendiendo cada vez más, pues resulta que los vestidos que aparecen en la pantalla grande fueron encargadas a tres confeccionadoras en Latinoamérica, una de ellas es México. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "PAN y PRD, 196 442; PRI, 29 283; Morena, PT y PANAL, 98 414, siendo estos los tres partidos que obtuvieron los mayores votos "
-image: /uploads/2021/images-oliviafranco.jpg
-video: nil
-audio: nil
-alt: Recibe Olivia Franco su constancia de mayoría, como síndica
+image: "/uploads/2021/images-oliviafranco.jpg"
+video: "nil"
+audio: "nil"
+alt: "Recibe Olivia Franco su constancia de mayoría, como síndica"
 front: false
-section: Local
+section: "Local"
+news_id: 185098
 ---
 
 Oliva Franco, recibió esta noche su constancia de mayoría, la cual la ratifica como síndica electa de laciudad de Chihuahua.

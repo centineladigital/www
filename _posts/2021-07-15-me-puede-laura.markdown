@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de sus redes sociales en donde Laura G reveló cómo ha tomado las críticas en su contra por supuestamente no cantar bien."
-image: /uploads/2021/images-laura-responde-criticaron-cantar-vla.jpg
-video: nil
-audio: nil
-alt: Me puede -  Laura G responde a ataques por cantar 'mal' en reality show de 'VLA'
+image: "/uploads/2021/images-laura-responde-criticaron-cantar-vla.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me puede -  Laura G responde a ataques por cantar 'mal' en reality show de 'VLA'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185692
 ---
 
 Laura G, conductora de Venga la Alegría, rompió el silencio sobre las críticas que han hecho en su contra por su participación en el reality show “A Cantar”, la nueva sección del programa de TV Azteca. Y es que para muchos internautas, la presentadora de televisión no se desempeñó correctamente en su pasada presentación en donde interpretó una canción de Selena Quintanilla –la reina del Tex-Mex–. ¿Le importan los señalamientos?

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La modelo y conductora argentina conoció a Hugo López mientras cubría el Mundial de Futbol de 1986 en México; aquí te contamos qué ha sido de ella.   "
-image: /uploads/2021/images-lucia-miranda-hugo-lopez-manager_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¿Qué fue de Lucía Miranda, viuda de Hugo López? Así luce hoy
+image: "/uploads/2021/images-lucia-miranda-hugo-lopez-manager_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Qué fue de Lucía Miranda, viuda de Hugo López? Así luce hoy"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184374
 ---
 
 La serie de Luis Miguel dejó entrever el importante papel que jugó Hugo López en el ascenso de la carrera del cantante, pero también la estrecha amistad que tuvieron, pues el mánager ayudó al cantante a lidiar con los excesos de la fama y a sobreponerse a la muerte de Luisito Rey y la desaparición de Marcela Basteri. En el capítulo cinco de la segunda temporada, la historia se centra en el argentino, mostrando un poco más de su vida personal.  Hugo López ocultó su enfermedad a Luis Miguel para continuar trabajando sin inconvenientes. Sin embargo, a su lado siempre contó con el apoyo de su esposa, la modelo argentina Lucía Miranda; aquí te contamos que ha sido de ella tras el deceso de López. 

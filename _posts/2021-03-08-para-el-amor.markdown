@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor de 57 años contrajo nupcias en secreto con una mujer de 26 años. Así se llevó a cabo su matrimonio. "
-image: /uploads/2021/images-nicolas-cage-protagonizara-army-of.jpeg
-video: nil
-audio: nil
-alt: ¡Para el amor no hay edad! Nicolas Cage se casa con mujer 30 años más joven; es su quinta boda
+image: "/uploads/2021/images-nicolas-cage-protagonizara-army-of.jpeg"
+video: "nil"
+audio: "nil"
+alt: "¡Para el amor no hay edad! Nicolas Cage se casa con mujer 30 años más joven; es su quinta boda"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183336
 ---
 
 Nicolas Cage, famoso por películas como Un ángel enamorado (1998) y Ghost Rider (2007), se casó por quinta ocasión con su ahora esposa Riko Shibata en una ceremonia pequeña e íntima. El actor estadunidense acaba de cumplir 57 años en enero, mientras que la joven japonesa tiene 26 años. Medios como TMZ y Entertainment Tonight difundieron fotografías de su matrimonio, el cual se llevó a cabo el pasado 16 de febrero en el hotel de cinco estrellas Wynn Las Vegas Resort and Country Club. De acuerdo con los medios en cuestión, la pareja eligió esa fecha para honrar el cumpleaños del difunto padre del actor, August Coppola. 

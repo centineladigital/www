@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Ante la temporada de vacaciones invitan a la ciudadanía a extremar precauciones al momento de conducir en carretera."
-image: /uploads/2021/images-ricardo.jpg
-video: /uploads/2021/videos-ML01_RICARDO_FERNANDEZ.mp4
-audio: nil
-alt: Exhortan a extremar precauciones por motivo vacacional
+image: "/uploads/2021/images-ricardo.jpg"
+video: "/uploads/2021/videos-ML01_RICARDO_FERNANDEZ.mp4"
+audio: "nil"
+alt: "Exhortan a extremar precauciones por motivo vacacional"
 front: false
-section: Local
+section: "Local"
+news_id: 185807
 ---
 
 Un exhorto a un manejo responsable fue lo que se lanzó a la población, esto ya que por motivo de la temporada vacacional se tiene una afluencia de personas en las vías de transporte terrestre, por lo que el área de la Policía Vial de la Secretaría de Seguridad Pública Estatal exhortó a llevar a cabo algunas medidas.

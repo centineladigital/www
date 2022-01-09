@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Con la estrategia “Viaje Seguro” busca fomentar la cultura de la denuncia, y desde la perspectiva de género proteger la seguridad de mujeres y niñas; recomienda a usuarias preferir las unidades blancas "
-image: /uploads/2021/images-ViajeSeguro-pimp_2_-_30x30cm_GNC.jpg
-video: nil
-audio: nil
-alt: Transporte Bowí mantiene vigente su campaña de prevención de delitos   
+image: "/uploads/2021/images-ViajeSeguro-pimp_2_-_30x30cm_GNC.jpg"
+video: "nil"
+audio: "nil"
+alt: "Transporte Bowí mantiene vigente su campaña de prevención de delitos   "
 front: false
-section: Local
+section: "Local"
+news_id: 186413
 ---
 
 El sistema del Transporte Ecológico Bowí mantiene vigente su campaña “Viaje Seguro”, enfocado a prevenir la comisión de delitos a bordo de las unidades e instalaciones de la ruta. Por ello, reiteró el llamado a la población usuaria para que tengan en cuenta los mecanismos y números disponibles para recibir denuncias, en caso de ser víctima de un delito.

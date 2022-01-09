@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Podrían presentarse lluvias en la tarde de este lunes"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Se espera ligero descenso en la temperatura durante la semana
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se espera ligero descenso en la temperatura durante la semana"
 front: false
-section: Local
+section: "Local"
+news_id: 183964
 ---
 
 Esta será una semana con días parcialmente nublados y temperaturas máximas que rondarán los 30 grados Celsius, además para este lunes se esperan ligeros chubascos en algunos puntos de la ciudad, según lo dio a conocer la Coordinación Municipal de Protección Civil y de acuerdo con lo emitido por el Servicio Meteorológico Nacional de CONAGUA.

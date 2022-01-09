@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Comentó que en el tema de Michoacán “hay mucha politización” y que como titular del Ejecutivo debe cuidar la investidura presidencial."
-image: /uploads/2021/images-andres-manuel-lopez-obrador-90.jpg
-video: nil
-audio: nil
-alt: AMLO descarta reunirse con gobernadores de Michoacán y Tamaulipas
+image: "/uploads/2021/images-andres-manuel-lopez-obrador-90.jpg"
+video: "nil"
+audio: "nil"
+alt: "AMLO descarta reunirse con gobernadores de Michoacán y Tamaulipas"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185682
 ---
 
 El presidente Andrés Manuel López Obrador dijo que no puede recibir al gobernador de Michoacán, Silvano Aureoles, quien solicitó nuevamente una audiencia “formal y directa” con el mandatario para “tratar temas de la más alta relevancia" en la entidad. 

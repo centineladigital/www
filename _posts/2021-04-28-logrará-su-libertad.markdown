@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La artista, de 39 años, está bajo tutela desde 2008, pero rara vez participa en las audiencias judiciales y no ha comentado públicamente el acuerdo legal. "
-image: /uploads/2021/images-britney-spears-instagram-4.jpg
-video: nil
-audio: nil
-alt: ¿Logrará su libertad? Britney Spears hablará sobre su tutela ante Corte de Los Ángeles
+image: "/uploads/2021/images-britney-spears-instagram-4.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Logrará su libertad? Britney Spears hablará sobre su tutela ante Corte de Los Ángeles"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184160
 ---
 
  Desde que el papá de Britney Spears tomó la tutela de la cantante hace 13 años, el escrutinio público ante este arreglo legal ha ido creciendo, principalmente bajo el movimiento #FreeBritney. Por eso el anuncio de que la estrella del pop tendrá su primera audiencia ante una Corte de Los Ángeles para hablar sobre su caso, genera la esperanza de que puede lograr su libertad.  La artista, de 39 años, está bajo tutela desde 2008, pero rara vez participa en las audiencias judiciales y no ha comentado públicamente el acuerdo legal. 

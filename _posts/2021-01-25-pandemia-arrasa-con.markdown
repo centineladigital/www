@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Organización Internacional del Trabajo notifica que la pandemia de covid-19 provocó un 'daño masivo' al empleo, con una pérdida equivalente a 255 millones de puestos de trabajo en 2020"
-image: /uploads/2021/images-2517898.jpg
-video: nil
-audio: nil
-alt: Pandemia arrasa con 255 millones de empleos
+image: "/uploads/2021/images-2517898.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pandemia arrasa con 255 millones de empleos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182407
 ---
 
 La pandemia de covid-19 provocó un "daño masivo" al empleo, con una pérdida equivalente a 255 millones de puestos de trabajo en 2020, informó este lunes la Organización Internacional del Trabajo (OIT).

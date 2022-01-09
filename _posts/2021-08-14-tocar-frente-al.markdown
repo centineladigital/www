@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "“Estoy en una etapa de mi vida en que quiero reencontrarme más con los músicos de mi país”, dice el baterista que recientemente realizó una residencia artística en el Cenart."
-image: /uploads/2021/images-antonio-sanchez-toco-bateria-cenart.jpg
-video: nil
-audio: nil
-alt: Tocar frente al público me limpia espiritualmente -  Antonio Sánchez
+image: "/uploads/2021/images-antonio-sanchez-toco-bateria-cenart.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tocar frente al público me limpia espiritualmente -  Antonio Sánchez"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186702
 ---
 
 En 2002, en conferencia de prensa, el guitarrista Pat Metheny se refirió al baterista de su grupo, Antonio Sánchez, en los siguientes términos: “Es maravilloso subir con él al escenario cada noche porque sé que va a tener la misma actitud que yo, es decir, tocar como si fuera la última vez en nuestra vida. Para mí es fundamental esa cualidad, esa pasión, ese deseo de hacer música que tenga impacto hacia dentro de uno mismo”. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Para mañana viernes la aproximación de un nuevo Frente Frío causará un descenso en las temperaturas, con una mínima de 7°C para Chihuahua, Ciudad Juárez 5°C, Madera 0°C, Temósachic -2°C y El Vergel -1°C"
-image: /uploads/2021/images-DAH_0464.JPG
-video: nil
-audio: nil
-alt: Se mantienen rachas de viento de hasta 55 km/h y clima cálido en la entidad
+image: "/uploads/2021/images-DAH_0464.JPG"
+video: "nil"
+audio: "nil"
+alt: "Se mantienen rachas de viento de hasta 55 km/h y clima cálido en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 183463
 ---
 
 Para este jueves 18 se pronostica que habrá rachas de viento de hasta 55 kilómetros por hora (km/h) y una temperatura de cálida a poco calurosa por la tarde, informó la Coordinación Estatal de Protección Civil (CEPC).

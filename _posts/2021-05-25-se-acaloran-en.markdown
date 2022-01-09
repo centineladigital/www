@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Discusiones y reclamos entre los candidatos y candidatas del Partido Revolucionario Institucional luego de que Graciela Ortiz abandonara la reunión privada"
-image: /uploads/2021/images-PRI_elecciones.jpg
-video: nil
-audio: nil
-alt: Se acaloran en el PRI por decisión de Ortiz
+image: "/uploads/2021/images-PRI_elecciones.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se acaloran en el PRI por decisión de Ortiz"
 front: false
-section: Local
+section: "Local"
+news_id: 184646
 ---
 
 Discusiones y reclamos entre los candidatos y candidatas del Partido Revolucionario Institucional (PRI) en el Comité Directivo Estatal, luego de que Graciela Ortiz abandonara la reunión privada en donde les solicitó formar un frente con Acción Nacional para evitar llegar a Morena a la gubernatura.

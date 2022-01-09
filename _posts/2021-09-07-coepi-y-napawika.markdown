@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este colectivo tiene como objetivo promocionar y generar reflexión sobre los derechos de género en las comunidades indígenas urbanas, así como sensibilizar en materia de prevención de la violencia hacia las mujeres indígenas"
-image: /uploads/2021/images-IMG_6089.JPG
-video: nil
-audio: nil
-alt: Coepi y “Napawika U’muki”  conmemoran el Día Internacional de las Mujeres Indígenas
+image: "/uploads/2021/images-IMG_6089.JPG"
+video: "nil"
+audio: "nil"
+alt: "Coepi y “Napawika U’muki”  conmemoran el Día Internacional de las Mujeres Indígenas"
 front: false
-section: Local
+section: "Local"
+news_id: 187510
 ---
 
 En el marco de la conmemoración del Día Internacional de las Mujeres Indígenas,  la Unidad de Género de la Comisión Estatal para los Pueblos Indígenas (Coepi), llevó a cabo un evento para reconocer la importante labor que realizan las integrantes de la Red de Mujeres Indígenas “Napawika U’muki”.

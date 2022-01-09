@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La conductora de TV Azteca interpretó la canción Ovarios, un polémico tema de 'La Diva de la banda'; su presentación generó la molestia del público. "
-image: /uploads/2021/images-critican-laura-cantar-tema-jenni_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Falta de respeto -  Critican a Laura G por cantar tema de Jenni Rivera en reality de 'VLA'
+image: "/uploads/2021/images-critican-laura-cantar-tema-jenni_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Falta de respeto -  Critican a Laura G por cantar tema de Jenni Rivera en reality de 'VLA'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186917
 ---
 
 Laura G continúa en el reality de Quiero cantar. La famosa ha enfrentado en varias ocasiones los duelos de eliminación ante los negativos comentarios que recibe por parte del público y pese a las favorables calificaciones del panel de jueces. La conductora de Venga la Alegría se convirtió en una de las concursantes más mencionadas en redes sociales, donde de nueva a cuenta fue criticada por su presentación. 

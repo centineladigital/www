@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los Dodgers rindieron tributo al pitcher mexicano, a 40 años del inicio de la Fernandomanía"
-image: /uploads/2021/images-2560676.jpg
-video: nil
-audio: nil
-alt: Triunfo especial; realizan homenaje a Fernando Valenzuela
+image: "/uploads/2021/images-2560676.jpg"
+video: "nil"
+audio: "nil"
+alt: "Triunfo especial; realizan homenaje a Fernando Valenzuela"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183813
 ---
 
 Los Dodgers de Los Ángeles le brindaron un homenaje a Fernando Valenzuela, lanzador mexicano que marcó una época en la década de los 80. En el terreno de juego el equipo correspondió con una gran muestra de pitcheo venciendo 3-0 a los Nacionales de Washington.

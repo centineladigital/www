@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Demuestra Arturo Fuentes Vélez que el monto global de la deuda de largo plazo es de 47 mil 982 mdp, no de 60 mil como pretenden hacer creer y que no existen créditos a corto plazo vigentes"
-image: /uploads/2021/images-_DSC3626.JPG
-video: nil
-audio: nil
-alt: Responde Hacienda puntualmente a cada una de las mentiras sobre finanzas estatales
+image: "/uploads/2021/images-_DSC3626.JPG"
+video: "nil"
+audio: "nil"
+alt: "Responde Hacienda puntualmente a cada una de las mentiras sobre finanzas estatales"
 front: false
-section: Local
+section: "Local"
+news_id: 187338
 ---
 
 El secretario de Hacienda, Arturo Fuentes Vélez, desmintió una a una las afirmaciones falsas vertidas por los diputados electos Carlos Olson y Luis Aguilar, en torno a la deuda estatal, la cual es de 47 mil 982 millones de pesos (mdp) y no de 60 mil millones, como se difundió de manera mentirosa ayer.

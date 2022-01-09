@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma Salud estatal 81 personas contagiadas y el deceso de otras 2 en el último reporte epidemiológico; los municipios con más casos activos son Chihuahua con 225 y Juárez con 84   "
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Suman 76,149 contagios y 7,832 decesos por COVID-19 en el estado 
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Suman 76,149 contagios y 7,832 decesos por COVID-19 en el estado "
 front: false
-section: Local
+section: "Local"
+news_id: 187462
 ---
 
 La Secretaría de Salud informó que al 6 de septiembre se tienen en el estado de Chihuahua un total general de 76 mil 149 casos de COVID-19 con 81 nuevos confirmados, así como 7 mil 832 personas fallecidas, 2 más en Ciudad Juárez y Chihuahua.

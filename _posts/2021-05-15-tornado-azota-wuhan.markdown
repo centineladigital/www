@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Al menos 8 personas mueren a causa de un tornado en la ciudad china de Wuhan, epicentro del covid-19, mientras que otras 4 personas fallecen en la localidad de Suzhu por otro tornado"
-image: /uploads/2021/images-2578958.jpg
-video: nil
-audio: nil
-alt: Tornado azota Wuhan y deja al menos 8 muertos
+image: "/uploads/2021/images-2578958.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tornado azota Wuhan y deja al menos 8 muertos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184474
 ---
 
 Dos violentos tornados dejaron al menos 12 muertos y más de 400 heridos a su paso por el centro y el este de China, informaron este sábado las autoridades locales.

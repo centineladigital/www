@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En Toledo y Alcanar los videos de los usuarios han mostrado la angustia por la que pasan los ciudadanos ante la depresión aislada en niveles altos (DANA). "
-image: /uploads/2021/images-alcanar-zonas-afectadas-inundaciones-espana_0_23_1024_637.jpg
-video: nil
-audio: nil
-alt: Con muros derrumbados, autos arrastrados y miedo, lluvias tienen en alerta a España
+image: "/uploads/2021/images-alcanar-zonas-afectadas-inundaciones-espana_0_23_1024_637.jpg"
+video: "nil"
+audio: "nil"
+alt: "Con muros derrumbados, autos arrastrados y miedo, lluvias tienen en alerta a España"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187398
 ---
 
 El muro de una casa derrumbado, autos arrastrados por el agua, calles anegadas y la desesperación de los ciudadanos son algunas de las escenas que se han visto en los numerosos videos sobre las inundaciones que afectan a Toledo, España, ante la depresión aislada en niveles altos (DANA) que azota el territorio. 

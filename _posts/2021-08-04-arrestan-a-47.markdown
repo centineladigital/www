@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Sanción durará entre 12 y 24 horas."
-image: /uploads/2021/images-EMILIO.jpg
-video: /uploads/2021/videos-MW04_EMILIO_GARCIA.mp4
-audio: nil
-alt: Arrestan a 47 tránsitos por festejos en oficinas
+image: "/uploads/2021/images-EMILIO.jpg"
+video: "/uploads/2021/videos-MW04_EMILIO_GARCIA.mp4"
+audio: "nil"
+alt: "Arrestan a 47 tránsitos por festejos en oficinas"
 front: false
-section: Local
+section: "Local"
+news_id: 186300
 ---
 
 Un total de 47 elementos tuvieron arresto administrativo tras darse a conocer un video en el cual los involucrados festejaban un cumpleaños donde al festejado se le lanzaba huevo y harina, situación que dijo el titular de la Secretaría de Seguridad Pública es inadmisible.

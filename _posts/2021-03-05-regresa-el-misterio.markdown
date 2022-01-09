@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras el éxito de la serie francesa, Lupin, Netflix confirmó que muy pronto llegará a su plataforma la segunda parte de la historia de Assane Diop. "
-image: /uploads/2021/images-la-primera-parte-de-la.jpg
-video: nil
-audio: nil
-alt: ¡Regresa el misterio! Netflix confirma la segunda parte de 'Lupin' con teaser
+image: "/uploads/2021/images-la-primera-parte-de-la.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Regresa el misterio! Netflix confirma la segunda parte de 'Lupin' con teaser"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183291
 ---
 
 Netflix se ha destacado por crear series que se han convertido en todo un éxito, como su más reciente producción: Lupin. La serie francesa que se estrenó el 8 de enero y se volvió la favorita de muchos, es por eso que se ha confirmado que la segunda parte de la historia que sigue a Assane Diop, llegará este año. Para los fans de Lupin hay buenas noticias ya que Netflix confirmó a través de un teaser que la segunda temporada de la serie francesa llegará el verano de este 2021, donde podremos ver qué pasará con el hijo del protagonista de la historia protagonizada por el actor Omar Sy. 

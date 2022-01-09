@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Lyn May se une, a partir de este lunes a 'Quiero cantar', el reality de Venga la Alegría, y lo hizo de la mejor forma: mostrando toda su actitud y energía con un split. "
-image: /uploads/2021/images-lyn-may-cuartoscuro.jpg
-video: nil
-audio: nil
-alt: Me valen las calificaciones -  Lyn May sorprende con split en 'Quiero cantar' de VLA
+image: "/uploads/2021/images-lyn-may-cuartoscuro.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me valen las calificaciones -  Lyn May sorprende con split en 'Quiero cantar' de VLA"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186002
 ---
 
 Lyn May sorprendió uniéndose al reality Quiero Cantar de Venga la Alegría, este lunes la actriz sorprendió presentándose en el foro del programa para comenzar a participar en el show de canto, y a sus 68 años realizó un split para terminar su participación en el programa. "¡La gran vedette y actriz @lynmaychi se integra a la competencia en 'Quiero Cantar'!", presumieron en sus redes sociales. 

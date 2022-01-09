@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Autoridades de EU sospechan que un 'desgaste de metal' provocó el incidente ocurrido el fin de semana en un vuelo de United Airlines que tuvo que aterrizar de emergencia"
-image: /uploads/2021/images-2534424.jpg
-video: nil
-audio: nil
-alt: Sospechan que 'desgaste de metal' causó avería en Boeing 777
+image: "/uploads/2021/images-2534424.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sospechan que 'desgaste de metal' causó avería en Boeing 777"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183108
 ---
 
 El ‘desgaste del metal’ es ahora la pista preferida por las autoridades para explicar el incidente ocurrido el sábado en un vuelo de United Airlines en Estados Unidos, que condujo a la inmovilización de parte de la flota mundial de los Boeing 777.

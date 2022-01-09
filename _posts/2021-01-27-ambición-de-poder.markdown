@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El PRI y el PAN quedaron evidenciados, juntos como un matrimonio, en Chihuahua"
-image: /uploads/2021/images-SDGDGGD.jpg
-video: nil
-audio: /uploads/2021/audio-AW03_ULISES_SOTO.mp3
-alt: Ambición de poder llevó a González Mocken a dejar Morena por el PAN -  Ulises García
+image: "/uploads/2021/images-SDGDGGD.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AW03_ULISES_SOTO.mp3"
+alt: "Ambición de poder llevó a González Mocken a dejar Morena por el PAN -  Ulises García"
 front: false
-section: Local
+section: "Local"
+news_id: 182494
 ---
 
 La decisión que tomó Javier González Mocken para solicitar la precandidatura a la Presidencia Municipal de Ciudad Juárez por el Partido Acción Nacional (PAN), dejó al descubierto que su principal interés es la ambición al poder y no los principios de Morena, que dictan una nueva forma de hacer política, expresó el Diputado Federal de este partido por Chihuahua, Ulises García Soto. 

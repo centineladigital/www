@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señala dirigente estatal de Morena que Valles cometió actos de anarquía."
-image: /uploads/2021/images-MARTIN.jpg
-video: nil
-audio: /uploads/2021/audio-ML05_MARTIN_CHAPARRO.mp4
-alt: Valles colaboró con acciones da anarquía -  Chaparro
+image: "/uploads/2021/images-MARTIN.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML05_MARTIN_CHAPARRO.mp4"
+alt: "Valles colaboró con acciones da anarquía -  Chaparro"
 front: false
-section: Local
+section: "Local"
+news_id: 186000
 ---
 
 “No se puede transitar en un ambiente de anarquía” fueron las palabras del dirigente de Morena a nivel local, Martín Chaparro, esto al ser cuestionado sobre la postura del partido a nivel estatal tras la detención del líder de los agricultores Andrés Valles.

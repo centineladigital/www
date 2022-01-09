@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Descartan que se tengan cierres masivos de escuelas."
-image: /uploads/2021/images-MOCKEN.jpg
-video: /uploads/2021/videos-ML01_JORGE_GONZALEZ.mp4
-audio: nil
-alt: Hasta el momento 25 escuelas cerradas por COVID
+image: "/uploads/2021/images-MOCKEN.jpg"
+video: "/uploads/2021/videos-ML01_JORGE_GONZALEZ.mp4"
+audio: "nil"
+alt: "Hasta el momento 25 escuelas cerradas por COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 187688
 ---
 
 Hasta el momento 25 planteles educativos han tenido que regresar a la modalidad virtual, esto ya que se ha registrado algún caso de contagio de coronavirus, según lo dio a conocer el titular de la Secretaría de Educación y Deporte Javier González Mocken.

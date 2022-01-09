@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante le contó a Gustavo Adolfo Infante lo que provocó su distanciamiento con la hija de Luis Miguel y Stephanie Salas. "
-image: /uploads/2021/images-entrevista-hija-alejandra-guzman-gustavo.jpg
-video: nil
-audio: nil
-alt: Nos empezaron a comparar -  Frida Sofía revela por qué se peleó con Michelle Salas
+image: "/uploads/2021/images-entrevista-hija-alejandra-guzman-gustavo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Nos empezaron a comparar -  Frida Sofía revela por qué se peleó con Michelle Salas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183737
 ---
 
 Frida Sofía no se guardó nada en la entrevista que le concedió a Gustavo Adolfo Infante para el programa De primera mano, pues tras hablar del conflicto con su mamá, Alejandra Guzmán, y revelar que su madrina, María Félix, dejó fuera de su bautizo a su abuela, Silvia Pinal, la cantante también abordó de su enemistad con su sobrina, Michelle Salas.   "Por mustia. Y no de repente, llevaban toda la vida las comparaciones: de que Michelle es una dama, de que Frida es el borrego negro de la familia, Frida es la discordia de las Pinal. Y yo de: 'No mames güey'. Es que es lo mismo, a ti te pintan lo que quieras y te lo crees", señalo sobre la pelea que sostuvo con la hija de Stephanie Salas y Luis Miguel. 

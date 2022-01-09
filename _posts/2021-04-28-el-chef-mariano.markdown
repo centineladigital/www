@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El especialista combina la música, la gastronomía y su buena onda en su podcasts."
-image: /uploads/2021/images-chef-preocupado-presentar-invitados-alto_0_24_431_268.jpeg
-video: nil
-audio: nil
-alt: El chef Mariano Sandoval comparte sus pasiones en La SabroZona
+image: "/uploads/2021/images-chef-preocupado-presentar-invitados-alto_0_24_431_268.jpeg"
+video: "nil"
+audio: "nil"
+alt: "El chef Mariano Sandoval comparte sus pasiones en La SabroZona"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184166
 ---
 
 Cumbianchero y profundo son las palabras con las que el chef Mariano Sandoval describe su nuevo podcast titulado La SabroZona, a través del cual cada martes presenta un episodio nuevo sobre gastronomía, los mejores platillos y comparte historia sobre la cocina mexicana. Antes de presentar el proyecto, Mariano reunió a todo un equipo, no solo experto en gastronomía, sino también a creadores de contenidos: así que juntos fueron muy cuidadosos con los detalles, sobre de qué se iba a tratar cada programa, qué tono iba a llevar, la música que saldría en cada uno de los episodios. Y cuando lanzaron el primero, la respuesta del público fue bastante positiva, leyeron comentarios y tomaron sugerencias de los oyentes para generar una mejor conexión.

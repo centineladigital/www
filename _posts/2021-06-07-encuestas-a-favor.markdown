@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "“Me siento muy contenta, muy satisfecha y por supuesto tremendamente agradecida con los chihuahuenses"
-image: /uploads/2021/images-WhatsApp_Image_2021-06-06_at_6.06.34_PM.jpeg
-video: nil
-audio: nil
-alt: Encuestas a favor de Maru Campos
+image: "/uploads/2021/images-WhatsApp_Image_2021-06-06_at_6.06.34_PM.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Encuestas a favor de Maru Campos"
 front: false
-section: Local
+section: "Local"
+news_id: 184886
 ---
 
 La candidata por la gubernatura por la coalición PAN-PRD María Eugenia Campos Galván emitió un mensaje en el que aseguró que los números están a su favor, diciendo sentirse contenta y satisfecha con los chihuahuenses;  “Me siento muy contenta, muy satisfecha y por supuesto tremendamente agradecida con los chihuahuenses, quiero decirles que tanto en datos propios como de casas encuestadoras de prestigio nacional, tenemos una ventaja irreversible .”

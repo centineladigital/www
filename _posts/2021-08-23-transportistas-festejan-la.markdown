@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Rompen piñada de exgobernador"
-image: /uploads/2021/images-SALCIDO.jpg
-video: /uploads/2021/videos-ML01_FRANCISCO_SALCIDO.mp4
-audio: nil
-alt: Transportistas “festejan” la salida de Gobernador
+image: "/uploads/2021/images-SALCIDO.jpg"
+video: "/uploads/2021/videos-ML01_FRANCISCO_SALCIDO.mp4"
+audio: "nil"
+alt: "Transportistas “festejan” la salida de Gobernador"
 front: false
-section: Local
+section: "Local"
+news_id: 187016
 ---
 
 Con piñatas, pastel y dulces transportistas de la Federación de Sindicatos y Organizaciones Independientes de Chihuahua se manifestaron esta mañana frente a Palacio de Gobierno para “despedir” la administración del gobernador Javier Corral Jurado.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Chihuahua entra a “mapa negro” por casos de Covid-19"
-image: /uploads/2021/images-movilidad_chihuahua_centro.jpg
-video: nil
-audio: nil
-alt: Chihuahua entra a “mapa negro” por casos de Covid-19
+image: "/uploads/2021/images-movilidad_chihuahua_centro.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chihuahua entra a “mapa negro” por casos de Covid-19"
 front: false
-section: Local
+section: "Local"
+news_id: 183810
 ---
 
 A más de un año del inicio de la pandemia, Chihuahua se encuentra dentro del “mapa negro” en el que la Secretaría de Salud Federal, ubica a la entidad en quinto lugar con más casos activos de Covid-19, con 928 hasta el día de ayer.

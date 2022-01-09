@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La mujer es el tercer caso de coágulos en Australia vinculado con la vacuna de AstraZeneca desde que comenzó su lanzamiento nacional a inicios de marzo"
-image: /uploads/2021/images-2563324.jpg
-video: nil
-audio: nil
-alt: #Covid -  Primer muerte en Australia por vacuna AstraZeneca
+image: "/uploads/2021/images-2563324.jpg"
+video: "nil"
+audio: "nil"
+alt: "#Covid -  Primer muerte en Australia por vacuna AstraZeneca"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183917
 ---
 
 Australia reportó el viernes su primera muerte vinculada con la vacuna de AstraZeneca contra el coronavirus.

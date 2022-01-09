@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El conductor de espectáculos reveló que fue víctima de la delincuencia durante un viaje a Estados Unidos. "
-image: /uploads/2021/images-pepillo-origel-instagram.jpg
-video: nil
-audio: nil
-alt: Todo nuestro dinero -  'Pepillo' Origel denuncia que fue víctima de robo en Los Ángeles
+image: "/uploads/2021/images-pepillo-origel-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "Todo nuestro dinero -  'Pepillo' Origel denuncia que fue víctima de robo en Los Ángeles"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184188
 ---
 
 Juan José Pepillo Origel relató la desconcertante experiencia que vivió durante su viaje a Los Ángeles, California, esto luego de los señalamientos y críticas que recibió en su contra por aplicarse la vacuna de covid-19 en Estados Unidos pese a no residir en el país. El periodista de espectáculos denunció que fue víctima de la delincuencia, pues le robaron varias de sus pertenencias e, incluso, su pasaporte.  El conductor de Con permiso recurrió a su canal de YouTube para contar que estuvo en Los Ángeles porque será uno de los invitados del programa  de Omar Chaparro, Tu-Night. Sin embargo, durante su estancia en la ciudad un hombre le robó su dinero y otros objetos de valor.  

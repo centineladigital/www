@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La tenista mexicana Giuliana Olmos considera que clasificar a los Juegos Olímpicos de Tokio 2020 es el mejor resultado de su carrera deportiva"
-image: /uploads/2021/images-16134926929992.jpg
-video: nil
-audio: nil
-alt: Tokio es el mejor resultado de mi vida -  Giuliana Olmos
+image: "/uploads/2021/images-16134926929992.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tokio es el mejor resultado de mi vida -  Giuliana Olmos"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185787
 ---
 
 La tenista mexicana Giuliana Olmos considera que clasificar a los Juegos Olímpicos de Tokio 2020 es el mejor resultado de su carrera deportiva debido a que para lograr un espacio en el cuadro principal debe de tener un buen ranking mundial, y el cual se logra teniendo un camino constante en el circuito profesional. 

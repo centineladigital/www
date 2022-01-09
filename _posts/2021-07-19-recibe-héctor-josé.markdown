@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La Presidenta Municipal llevó a cabo la entrega de la medalla al Mérito Ciudadano Benito Juárez al doctor Héctor José Villanueva Clift por sus contribuciones y participaciones con la sociedad."
-image: /uploads/2021/images-unnamed_(3).jpg
-video: nil
-audio: nil
-alt: Recibe Héctor José Villanueva Clift medalla al Mérito Ciudadano Benito Juárez
+image: "/uploads/2021/images-unnamed_(3).jpg"
+video: "nil"
+audio: "nil"
+alt: "Recibe Héctor José Villanueva Clift medalla al Mérito Ciudadano Benito Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 185792
 ---
 
 La Alcaldesa felicitó al galardonado por este reconocimiento y por su gran trayectoria en la lucha por los derechos de las niñas y niños, el cual enfatizó que es uno de los retos más importantes a nivel mundial, ya que se debe garantizar a los menores un vida libre de violencia, explotación o cualquier tipo de abuso, pues son ellos el futuro y presente de la sociedad.

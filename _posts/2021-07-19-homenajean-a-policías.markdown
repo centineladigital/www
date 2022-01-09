@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "​La portavoz dijo que Jesús Flores tenía 13 años de servicio en las filas de la Policía Procesal y César ocho años de antigüedad. "
-image: /uploads/2021/images-los-policias-fueron-asesinados-el.jpeg
-video: nil
-audio: nil
-alt: Homenajean a policías de Chihuahua asesinados en Ciudad Juárez
+image: "/uploads/2021/images-los-policias-fueron-asesinados-el.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Homenajean a policías de Chihuahua asesinados en Ciudad Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 185811
 ---
 
 Con una ceremonia de cuerpo presente, se rindió a los dos agentes de la Policía Procesal dependiente de la Secretaría de Seguridad Pública Estatal (SSPE) que fueron asesinados a balazos el jueves pasado en Ciudad Juárez, Chihuahua.

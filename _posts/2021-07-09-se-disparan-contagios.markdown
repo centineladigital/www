@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Entre el 30 de mayo y el 5 de junio se registró el fin de la meseta en las infecciones, al registrar 16 mil 98 nuevos casos confirmados."
-image: /uploads/2021/images-covid.jpg
-video: nil
-audio: nil
-alt: Se disparan contagios en 12 entidades.
+image: "/uploads/2021/images-covid.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se disparan contagios en 12 entidades."
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185485
 ---
 
 

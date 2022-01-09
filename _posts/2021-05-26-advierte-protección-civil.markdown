@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La dependencia informa que se pronostican lluvias en Santa Bárbara, Parral, Allende, Jiménez y Manuel Benavides; Ojinaga llegará a los 39°C, Delicias 38°C, así como Chihuahua y Juárez 35°C"
-image: /uploads/2021/images-TOLVANERAS_EN_AHUMADA_(2)_(1).jpeg
-video: nil
-audio: nil
-alt:  Advierte Protección Civil posibilidad de torbellinos en norte y noroeste del estado
+image: "/uploads/2021/images-TOLVANERAS_EN_AHUMADA_(2)_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: " Advierte Protección Civil posibilidad de torbellinos en norte y noroeste del estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184672
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) pidió a la población de la zona norte y noroeste de la entidad tomar precauciones frente a la posibilidad de formación de torbellinos, este miércoles 26 de mayo.

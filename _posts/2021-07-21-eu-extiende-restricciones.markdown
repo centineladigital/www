@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La SRE informó que el gobierno de EU le informó sobre su decisión de extender el cierre parcial de la frontera, hasta el 21 de agosto próximo, cuando se hará una nueva revisión"
-image: /uploads/2021/images-frontera.jpg
-video: nil
-audio: nil
-alt: EU extiende restricciones en frontera con México hasta el 21 de agosto
+image: "/uploads/2021/images-frontera.jpg"
+video: "nil"
+audio: "nil"
+alt: "EU extiende restricciones en frontera con México hasta el 21 de agosto"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185859
 ---
 
 A pesar del diálogo permanente que el gobierno mexicano ha tenido con su similar de Estados Unidos, para lograr una reapertura total en la frontera terrestre entre los dos países, esto no se ha logrado.

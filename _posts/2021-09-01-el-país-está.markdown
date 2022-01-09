@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "AMLO tiene datos, nosotros tenemos otros "
-image: /uploads/2021/images-rocio-reza-gallegos-dirigente-pan_0_11_560_348.jpeg
-video: /uploads/2021/videos-BW02_ROCIO_REZA.mp4
-audio: nil
-alt: El país está en crisis 
+image: "/uploads/2021/images-rocio-reza-gallegos-dirigente-pan_0_11_560_348.jpeg"
+video: "/uploads/2021/videos-BW02_ROCIO_REZA.mp4"
+audio: "nil"
+alt: "El país está en crisis "
 front: false
-section: Local
+section: "Local"
+news_id: 187344
 ---
 
 La diputada del PAN Rocío Reza declaró que el gobierno actual de Andrés Manuel López Obrador tiene datos erróneos en la cuestión de cómo se están llevando a cabo todas y cada una de la gestiones del país, la diputada asegura que el país se encuentra en una crisis de pobreza e inseguridad.

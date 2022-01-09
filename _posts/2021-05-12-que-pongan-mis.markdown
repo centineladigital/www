@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante se mostró agradecida tras haber superado las 130 mil reproducciones en el video de su nuevo sencillo. "
-image: /uploads/2021/images-edith-marquez-estreno-single-juez_0_192_1200_746.jpeg
-video: nil
-audio: nil
-alt: Que pongan mis canciones hasta en sus borracheras -  Edith Márquez
+image: "/uploads/2021/images-edith-marquez-estreno-single-juez_0_192_1200_746.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Que pongan mis canciones hasta en sus borracheras -  Edith Márquez"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184419
 ---
 
 Edith Márquez continúa cosechando éxitos a través de su música. Incluso en un momento tan complejo como el que se encuentra atravesando la industria musical. Con el estreno de su sencillo “Olvídalo” la cantante volvió a colocarse en los primeros lugares de reproducción dentro del país, reafirmando la lealtad que le tienen sus seguidores. Esto después de la increíble recepción que tuvo “Entiende que ya”, tema que la cantante compartió a finales de febrero y que ya registra más de 2.2 millones de reproduciones en you tube.

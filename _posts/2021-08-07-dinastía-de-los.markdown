@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Mientras millones de cubanos sufren privaciones impuestas por la revolución comunista, los privilegiados del régimen gozan del glamur y los placeres"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Dinastía de los Castro, los fifís de Cuba
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Dinastía de los Castro, los fifís de Cuba"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186422
 ---
 
 San José. – Los Castro, la poderosa familia que con sus patriarcas—Fidel, comandante en jefe, y Raúl, general de ejército—y militares, ministros, hijas, hijos, nietos y nietas con el privilegio de gobernar como dinastía en Cuba desde 1959, ganaron fama en su país por la vida de lujos que disfrutan dentro y fuera de la isla y son vedados por la revolución comunista para la mayoría de los 11,3 millones de cubanos.

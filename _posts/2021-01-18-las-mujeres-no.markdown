@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante compartió un mensaje en sus redes sociales sobre el aborto, aunque lo borró a los pocos minutos, pero varios usuarios pudieron rescatarlo."
-image: /uploads/2021/images-lupita-d-alessio-instagram-soylupitadalessio.jpg
-video: nil
-audio: nil
-alt: Las mujeres no podemos estar festejando que se legalice -  Lupita D'Alessio se pronuncia contra el aborto
+image: "/uploads/2021/images-lupita-d-alessio-instagram-soylupitadalessio.jpg"
+video: "nil"
+audio: "nil"
+alt: "Las mujeres no podemos estar festejando que se legalice -  Lupita D'Alessio se pronuncia contra el aborto"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182239
 ---
 
 La aprobación de la ley que permite el aborto electivo en Argentina ha provocado muchas reacciones a nivel mundial. En México, los políticos son quienes han tenido más eco en sus opiniones sobre este tema, aunque recientemente la cantante Lupita D'Alessio se pronunció al respecto y genero polémica.  

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se prevé la entrada del Frente Frío 41 para mañana 10 de marzo, con ráfagas aún más intensas; aunque el cielo estará nublado en la mayoría del territorio estatal no se pronostican lluvias"
-image: /uploads/2021/images-tolvanera.jpg
-video: nil
-audio: nil
-alt: Advierte CEPC rachas de viento de 75 km/h  en Janos y Galeana este martes
+image: "/uploads/2021/images-tolvanera.jpg"
+video: "nil"
+audio: "nil"
+alt: "Advierte CEPC rachas de viento de 75 km/h  en Janos y Galeana este martes"
 front: false
-section: Local
+section: "Local"
+news_id: 183353
 ---
 
 Para este martes 9 la aproximación del Frente Frío número 41 provocará rachas de viento de 75 kilómetros por hora (km/h) en el noroeste, principalmente en Janos y Galeana, informó la Coordinación Estatal de Protección Civil (CEPC).

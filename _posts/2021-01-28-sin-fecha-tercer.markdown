@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "No afectará que vacunas sean aplicadas después de los 21 días."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ02_ARTURO_VALENZUELA.mp3
-alt: Sin fecha tercer lote de vacunas
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ02_ARTURO_VALENZUELA.mp3"
+alt: "Sin fecha tercer lote de vacunas"
 front: false
-section: Local
+section: "Local"
+news_id: 182528
 ---
 
 Aún no se ha determinado la fecha del tercer lote de vacunas, señaló el titular de la Dirección Médica Zona Norte, Arturo Valenzuela Zorrillla, esto luego de ser cuestionado respecto a la conclusión del proceso de vacunación del personal de salud que atiende a pacientes de coronavirus.

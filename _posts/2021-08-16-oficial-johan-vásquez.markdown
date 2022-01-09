@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El defensa fue anunciado por el equipo italiano después de su buena participación con México en los Juegos Olímpicos"
-image: /uploads/2021/images-johan-vasquez-anunciado-genoa-italia_0_9_1200_747.jpg
-video: nil
-audio: nil
-alt: ¡Oficial! Johan Vásquez es nuevo jugador del Genoa de Italia
+image: "/uploads/2021/images-johan-vasquez-anunciado-genoa-italia_0_9_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Oficial! Johan Vásquez es nuevo jugador del Genoa de Italia"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186715
 ---
 
 El Genoa, club de la Serie A italiana, fichó este lunes al defensa mexicano Johan Vásquez, que llega procedente de Pumas, informó el equipo genovés en un comunicado oficial. 

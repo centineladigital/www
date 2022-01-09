@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Federación definirá la fecha."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-MM03_WENDY_AVILA.mp3
-alt: Sin fecha vacunación de 40 y más
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM03_WENDY_AVILA.mp3"
+alt: "Sin fecha vacunación de 40 y más"
 front: false
-section: Local
+section: "Local"
+news_id: 185174
 ---
 
 Aún no se cuenta con una fecha para que se dé la vacunación a personas de 40 y más señaló la Subdirectora de Medicina Preventiva Wendy Ávila Coronado. Esto tras ser cuestionada respecto a qué vacunas llegará y las fechas.

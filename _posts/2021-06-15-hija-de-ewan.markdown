@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Clara McGregor apareció en la alfombra roja de la premier de 'The Birthday Cake' con el rostro repleto de heridas, ocasionadas por el perro. "
-image: /uploads/2021/images-hija-ewan-mcgregor-atacada-perro.jpg
-video: nil
-audio: nil
-alt: Hija de Ewan McGregor es atacada por un perro antes de posar en la alfombra roja
+image: "/uploads/2021/images-hija-ewan-mcgregor-atacada-perro.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hija de Ewan McGregor es atacada por un perro antes de posar en la alfombra roja"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185042
 ---
 
 La hija de Ewan McGregor -actor conocido por protagonizar películas como Moulin Rouge, El gran pez y los tres primeros episodios de la saga Star Wars-, sufrió una trágica experiencia minutos antes de posar en una alfombra roja. Y es que la modelo fue atacada por un perro previo a su encuentro con los medios y celebridades; el incidente llevó a la joven a una sala de urgencias.  Tal como contó la misma Clara McGregor en redes sociales, el perro mordió una parte de su rostro 30 minutos antes de la premiere de The Birthday Cake, película en la que ella participó. La también actriz tuvo que ser trasladada de inmediato a un hospital, en Las Vegas, Nevada, pero media hora después regresó al evento y posó frente a las cámaras pese al dolor de las heridas que presentaba por toda su cara.  

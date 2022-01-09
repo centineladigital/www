@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se construyeron con recursos del Fondo de Reparación Justicia para Chihuahua: una pila para almacenamiento de agua potable, sala de velación y parque turístico en beneficio de la población"
-image: /uploads/2021/images-5.jpg
-video: nil
-audio: nil
-alt: En Coyame del Sotol  entrega Estado tres obras con valor de 1.5 mdp
+image: "/uploads/2021/images-5.jpg"
+video: "nil"
+audio: "nil"
+alt: "En Coyame del Sotol  entrega Estado tres obras con valor de 1.5 mdp"
 front: false
-section: Local
+section: "Local"
+news_id: 186521
 ---
 
 Gobierno del Estado, a través de la Secretaría de Desarrollo Municipal (Sedemun) y en coordinación con el Ayuntamiento de Coyame del Sotol, hizo entrega de tres obras que se construyeron  con recursos del Fondo de Reparación Justicia para Chihuahua, el orden de un millón 521 mil 671.75 pesos.

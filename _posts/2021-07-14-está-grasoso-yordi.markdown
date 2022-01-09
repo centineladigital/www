@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El conductor tuvo que enfrentarse a un reto culinario que consistía en comer platillos exóticos; su reacción le provocó una crisis a Itatí Cantoral."
-image: /uploads/2021/images-yordi-rosado-come-taco-rata-1_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Está grasoso -  Yordi Rosado vive polémico momento; come taco de rata y casi vomita
+image: "/uploads/2021/images-yordi-rosado-come-taco-rata-1_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Está grasoso -  Yordi Rosado vive polémico momento; come taco de rata y casi vomita"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185652
 ---
 
 Yordi Rosado está de regreso en la televisión con De noche todo pasa, su nuevo programa de entrevistas que cada semana tiene como invitados a personalidades de la farándula mexicana. Durante la última emisión estuvo presente en el foro Itatí Cantoral, quien sufrió una crisis nerviosa al ser testigo del misterioso reto al que se enfrentó el conductor de Unicable.  

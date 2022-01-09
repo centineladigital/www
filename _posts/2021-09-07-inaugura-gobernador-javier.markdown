@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante el evento el mandatario estatal devela placa y busto del Ing. José Mateos Torres"
-image: /uploads/2021/images-_MG_6315.JPG
-video: nil
-audio: nil
-alt: Inaugura gobernador Javier Corral nuevas instalaciones de Puentes Fronterizos en Juárez   
+image: "/uploads/2021/images-_MG_6315.JPG"
+video: "nil"
+audio: "nil"
+alt: "Inaugura gobernador Javier Corral nuevas instalaciones de Puentes Fronterizos en Juárez   "
 front: false
-section: Local
+section: "Local"
+news_id: 187489
 ---
 
 Como parte del Maratón de Obras 2021 y a nueve meses de la colocación de la primera piedra para la construcción del Centro de Operaciones del Fideicomiso de Puentes Fronterizos de Chihuahua “Ing. José Mateos Torres”, las nuevas instalaciones fueron inauguradas hoy por el gobernador Javier Corral Jurado, acto protocolario que incluyó develación de placa y busto del Ing. José Mateos Torres.

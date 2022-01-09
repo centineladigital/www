@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se apoyará a programas inclusivos y que fomenten acciones de apoyo social. "
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-MW06_JAVIER_CORRAL.mp3
-alt: Continuará apoyos a grupos vulnerables
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW06_JAVIER_CORRAL.mp3"
+alt: "Continuará apoyos a grupos vulnerables"
 front: false
-section: Local
+section: "Local"
+news_id: 182843
 ---
 
 Apoyos a grupos vulnerables es lo que el Gobierno del Estado continuará haciendo, señaló el Gobernador del Estado Javier Corral Jurado, al ser cuestionado respecto a los apoyos a empresarios por motivo de la pandemia, situación que dijo ya fue entregado al cien por ciento.

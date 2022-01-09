@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se analizan crear mesas de trabajo."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-MM02_WENDY_AVILA.mp3
-alt: Sin definir apertura de balnearios
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM02_WENDY_AVILA.mp3"
+alt: "Sin definir apertura de balnearios"
 front: false
-section: Local
+section: "Local"
+news_id: 183234
 ---
 
 Aún no se define la apertura de balnearios, esto pese a la reunión que se sostuvo con personas que se dedican a esto, según lo dio a conocer la Subdirectora de Medicina Preventiva y Promoción de la Salud Wendy Ávila Coronado.

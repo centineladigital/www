@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aunque se sabe que Luis Miguel es muy reservado y que no es fan de las redes sociales, al parecer se está dando una oportunidad de explotarlas al máximo: se unió a TikTok. ¿Ya subió un video? ."
-image: /uploads/2021/images-luis-miguel-abre-tiktok-fans.jpg
-video: nil
-audio: nil
-alt: Luis Miguel abre su cuenta de TikTok; 'El Sol' 'rompe' la app con increíble video
+image: "/uploads/2021/images-luis-miguel-abre-tiktok-fans.jpg"
+video: "nil"
+audio: "nil"
+alt: "Luis Miguel abre su cuenta de TikTok; 'El Sol' 'rompe' la app con increíble video"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184019
 ---
 
 Luis Miguel, mejor conocido como El Sol, sigue en la cúspide de la fama, luego de que su carrera reviviera con Luis Miguel, la serie de Netflix. Con la bioserie, el cantante ha sido tema de conversación en las últimas semanas, por ello, al parecer el famoso decidió unirse a la plataforma de videos cortos, TikTok, y seguir cosechando su popularidad. Así es, Luis Miguel ya tiene cuenta de TikTok. ¿Ya subió un video? ¿El Sol ya estrenó la app? Aunque se sabe que Luis Miguel es muy reservado y que no es fan de las redes sociales, al parecer se está dando una oportunidad de explotarlas al máximo. Por ello, el intérprete de Tengo todo excepto a ti abrió su cuenta de Tiktok en donde casi de inmediato recolectó más de 19 mil seguidores. 

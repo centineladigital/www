@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Piden no automedicarse en caso de coronavirus."
-image: /uploads/2021/images-WENDY_AVILA.jpg
-video: nil
-audio: /uploads/2021/audio-MW04_WENDY_AVILA.mp3
-alt: Exhortan a no consumir dióxido de cloro
+image: "/uploads/2021/images-WENDY_AVILA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW04_WENDY_AVILA.mp3"
+alt: "Exhortan a no consumir dióxido de cloro"
 front: false
-section: Local
+section: "Local"
+news_id: 182999
 ---
 
 Un llamado a no consumir dióxido de cloro, así como de no automedicarse fue el exhorto de la Subdirectora de Medicina Preventiva, Wendy Avila Coronado, quien también pidió a la población que no se automedique por motivo de tratamiento contra el coronavirus.

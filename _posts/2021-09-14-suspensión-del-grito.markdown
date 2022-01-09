@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que no hay alejamiento con el Alcalde de Ciudad Juárez."
-image: /uploads/2021/images-jau.jpg
-video: /uploads/2021/videos-MM03_CESAR_JAUREGUI.mp4
-audio: nil
-alt: Suspensión del grito acorde con realidad -  Jáuregui
+image: "/uploads/2021/images-jau.jpg"
+video: "/uploads/2021/videos-MM03_CESAR_JAUREGUI.mp4"
+audio: "nil"
+alt: "Suspensión del grito acorde con realidad -  Jáuregui"
 front: false
-section: Local
+section: "Local"
+news_id: 187725
 ---
 
 La suspensión que se dio a las actividades por motivo de las fiestas patrias se debe a que se tomaron medidas más acordes a la realidad, fueron las palabras del titular de la Secretaría General de Gobierno, César Jáuregui. Quien negó que este tipo de festividades represente un distanciamiento entre el gobierno estatal y el municipio de Ciudad Juárez.

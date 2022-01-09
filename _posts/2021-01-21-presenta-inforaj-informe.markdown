@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Colocado como uno de los más avanzados."
-image: /uploads/2021/images-JUECES.jpg
-video: nil
-audio: /uploads/2021/audio-MW03_ERICKA_MENDOZA.mp3
-alt: Presenta INFORAJ informe de actividades
+image: "/uploads/2021/images-JUECES.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW03_ERICKA_MENDOZA.mp3"
+alt: "Presenta INFORAJ informe de actividades"
 front: false
-section: Local
+section: "Local"
+news_id: 182345
 ---
 
 Acciones que derivaron en la capacitación del personal de Tribunal Superior de Justicia fue el compendio que presentó Instituto de Formación y Actualización Judicial, esto por parte de Éricka Mendoza García, al presentar su informe de actividades 2020.

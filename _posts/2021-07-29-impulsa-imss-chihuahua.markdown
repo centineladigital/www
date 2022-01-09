@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Para un Verano Seguro, es necesario continuar con las medidas de prevención para evitar contagios de COVID-19 "
-image: /uploads/2021/images-Foto_3563-1.jpg
-video: nil
-audio: nil
-alt: Impulsa IMSS Chihuahua a mantener las medidas de higiene en el transporte público
+image: "/uploads/2021/images-Foto_3563-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Impulsa IMSS Chihuahua a mantener las medidas de higiene en el transporte público"
 front: false
-section: Local
+section: "Local"
+news_id: 186092
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua invita a la población a no bajar la guardia y continuar con las medidas de higiene en el transporte público para romper cadenas de infección. 

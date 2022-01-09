@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Destaca el canciller Marcelo Ebrard anuncia que el domingo llegarán a nuestro país 1.5 millones de dosis de AstraZeneca; México, primer país en recibir vacunas de EU"
-image: /uploads/2021/images-2551335.jpg
-video: nil
-audio: nil
-alt: ‘Vacunas, muestra de buena relación López Obrador-Biden’
+image: "/uploads/2021/images-2551335.jpg"
+video: "nil"
+audio: "nil"
+alt: "‘Vacunas, muestra de buena relación López Obrador-Biden’"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183550
 ---
 
 Este próximo domingo llegarán a México el primer lote de 1.5 millones de 2.7 millones de vacunas de AstraZeneca producto del acuerdo con Estados Unidos, informó el secretario de Relaciones Exteriores, Marcelo Ebrard.

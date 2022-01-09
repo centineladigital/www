@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Así lo anunciaron ambas empresas, quienes llegaron a acuerdo con el grupo Biovac, con el objetivo de cubrir la demanda en África"
-image: /uploads/2021/images-vacuna-pfizer-aprobada-regiones-mundo_0_23_1024_637.jpg
-video: nil
-audio: nil
-alt: Vacuna contra covid-19 de Pfizer y BioNTech será producida en Sudáfrica en 2022
+image: "/uploads/2021/images-vacuna-pfizer-aprobada-regiones-mundo_0_23_1024_637.jpg"
+video: "nil"
+audio: "nil"
+alt: "Vacuna contra covid-19 de Pfizer y BioNTech será producida en Sudáfrica en 2022"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185944
 ---
 
 Las compañías farmacéuticas Pfizer y BioNTech informaron hoy que el grupo Biovac llevará a cabo a partir de principios de 2022 una fase de la producción de su vacuna contra el covid-19 en Sudáfrica, una novedad para África, lo cual planifica que el fármaco que combate el coronavirus se pueda distribuir en ese continente.  

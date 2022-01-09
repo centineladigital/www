@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La conductora mexicana reveló su salida en plena emisión del programa ante la sorpresa de sus compañeras; además explicó los motivos. "
-image: /uploads/2021/images-jacqueline-bracamontes-abandona-netas-divinas_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Jacqueline Bracamontes deja 'Netas divinas'; así se despidió del programa
+image: "/uploads/2021/images-jacqueline-bracamontes-abandona-netas-divinas_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Jacqueline Bracamontes deja 'Netas divinas'; así se despidió del programa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183908
 ---
 
 Jacqueline Bracamontes se unió a Natalia Téllez, Paola Rojas, Consuelo Duval y Daniela Magún para tomar la estafeta de Netas divinas en 2018, a tres años de su incorporación, la conductora mexicana anunció con un nudo en la garganta su salida del programa de Unicable durante la que sería su última emisión. Desde hace varios días comenzaron a surgir los rumores de que la actriz abandonaría el foro de Netas Divinas tras unas declaraciones de la misma Jacqueline Bracamontes; fue hasta este miércoles que confirmó su salida definitiva y explicó los motivos de su decisión, lo que tomó por sorpresa a sus compañeras. 

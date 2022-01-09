@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La medida que se lleva a cabo desde el lunes 19 y hasta el 23 julio en las unidades de salud de la entidad tiene la finalidad de prevenir el cáncer de mama y de cuello uterino en la población femenina mayor de 25 años "
-image: /uploads/2021/images-Jornada_de_Tamizaje._Prevención_de_cáncer_de_mama_y_cuello_uterino.jpg
-video: nil
-audio: nil
-alt: Invita Secretaría de Salud a jornada de detección oportuna de cáncer en la mujer
+image: "/uploads/2021/images-Jornada_de_Tamizaje._Prevención_de_cáncer_de_mama_y_cuello_uterino.jpg"
+video: "nil"
+audio: "nil"
+alt: "Invita Secretaría de Salud a jornada de detección oportuna de cáncer en la mujer"
 front: false
-section: Local
+section: "Local"
+news_id: 185849
 ---
 
 La Secretaría de Salud, a través del Programa de Cáncer de la Mujer, invita a las mujeres mayores de 25 años a la Jornada de Tamizaje de Cáncer en la Mujer, que se lleva  a cabo a partir de este lunes 19 y hasta el viernes 23 julio en las unidades de salud de la entidad que cuentan con el personal especializado para realizar dichos exámenes.

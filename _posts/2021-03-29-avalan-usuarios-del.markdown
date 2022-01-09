@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "“A veces hay que estar en los zapatos de uno, porque la gente que no lo usa, no puede saber en qué condiciones estamos diariamente batallando”, señala beneficiaria del servicio"
-image: /uploads/2021/images-1.jpg
-video: nil
-audio: nil
-alt: Avalan usuarios del transporte público  pre troncal Bravobus en Av. Gómez Morín
+image: "/uploads/2021/images-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Avalan usuarios del transporte público  pre troncal Bravobus en Av. Gómez Morín"
 front: false
-section: Local
+section: "Local"
+news_id: 183595
 ---
 
 Al dar testimonio de la situación que guardan los camiones urbanos, así como del proyecto de ampliación de la ruta troncal sobre la Avenida Gómez Morín, usuarias y usuarios del transporte público en Ciudad Juárez, expresaron que a veces, hay que estar en los zapatos de uno, “porque la gente que no los usa, no puede saber en qué condiciones estamos diariamente, batallando”.

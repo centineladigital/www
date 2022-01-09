@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: " Los oficiales rodearon al hombre y cuando hubo un descuido, le dispararon; la mujer de 20 años fue liberada y no presentó lesiones. "
-image: /uploads/2021/images-E5uG2O9WQAIgmhq.jpg
-video: nil
-audio: nil
-alt: Policías de Brasil matan a hombre que tenía una rehén y testigos les aplauden; video se hace viral
+image: "/uploads/2021/images-E5uG2O9WQAIgmhq.jpg"
+video: "nil"
+audio: "nil"
+alt: "Policías de Brasil matan a hombre que tenía una rehén y testigos les aplauden; video se hace viral"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185541
 ---
 
 Los momentos de tensión en la ciudad de Angra Dos Reis fueron captados en video y difundidos en redes sociales. De acuerdo con información proporcionada por las autoridades, tres delincuentes intentaron asaltar un local, sin embargo, la policía llegó al lugar y dos de los ladrones decidieron entregarse, pero la persona restante intentó escapar, por lo que salió del establecimiento con una mujer de 20 años que tenía como rehén. 

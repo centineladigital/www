@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Destaca director de Transparencia Mexicana los logros alcanzados en Chihuahua por el Gobierno de Javier Corral, que ya es referente nacional  con el esquema de recuperación de activos desplegado por la Operación Justicia"
-image: /uploads/2021/images-MONITOR_CIUDADANO_(1).jpg
-video: nil
-audio: nil
-alt: Abre Estado procesos de prevención y combate a la corrupción  con Monitor Ciudadano
+image: "/uploads/2021/images-MONITOR_CIUDADANO_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Abre Estado procesos de prevención y combate a la corrupción  con Monitor Ciudadano"
 front: false
-section: Local
+section: "Local"
+news_id: 186590
 ---
 
 El gobernador Javier Corral presentó la plataforma digital Monitor Ciudadano, creada con el objetivo de transparentar el ejercicio del Gobierno en la prevención y combate  a la corrupción, además de promover la participación y la vigilancia ciudadana.

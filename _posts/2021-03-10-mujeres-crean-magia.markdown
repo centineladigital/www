@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se tiene que trabajar en acciones para la visibilización de los problemas."
-image: /uploads/2021/images-MARCI¿O1.jpg
-video: nil
-audio: /uploads/2021/audio-mw05.mp3
-alt: Mujeres crean magia transformadora -  Bonilla
+image: "/uploads/2021/images-MARCI¿O1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-mw05.mp3"
+alt: "Mujeres crean magia transformadora -  Bonilla"
 front: false
-section: Local
+section: "Local"
+news_id: 183372
 ---
 
 Dentro de la conmemoración del Día de la Mujer el aspirante a la Alcaldía de Chihuahua por el PAN, Marco Antonio Bonilla Mendoza, señaló que las acciones que llevaron a cabo por parte de las mujeres al pintar las mallas que colocaron por parte del Gobierno Federal en el Zocalo, dan a conocer la magia transformadora de este sector.

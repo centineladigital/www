@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de algunas historias de Instagram en donde Aislinn Derbez mostró su desagrado por los tatuajes de sus hermanos menores. Explicó que pese a que ella tiene dos, ya no le gustan tanto los trazos sobre la piel. "
-image: /uploads/2021/images-aislinn-derbez-burla-jose-eduardo.jpg
-video: nil
-audio: nil
-alt: De carcelero -  Aislinn Derbez se burla y critica los tatuajes de José Eduardo y Vadhir
+image: "/uploads/2021/images-aislinn-derbez-burla-jose-eduardo.jpg"
+video: "nil"
+audio: "nil"
+alt: "De carcelero -  Aislinn Derbez se burla y critica los tatuajes de José Eduardo y Vadhir"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183297
 ---
 
 Aislinn Derbez, modelo e hija de Eugenio Derbez, sorprendió a sus seguidores al mostrar que sí lleva bien su papel de hermana mayor. ¿Qué hizo? La madre de Kailani y ex pareja de Mauricio Ochmann regañó a sus hermanos Vadhir y José Eduardo Derbez por presumir algunos tatuajes, pues según expresó ya tiene mirada de señora y ya no le agradan mucho los trazados sobre la piel. ¿Qué les dijo? Te contamos el divertido momento en el que más de uno se sintió identificado. Fue a través de algunas historias de Instagram en donde Aislinn Derbez mostró su desagrado por los tatuajes de sus hermanos menores. Explicó que pese a que ella tiene dos, ya no le gustan tanto los trazos sobre la piel y que incluso ha pensado en quitar los que tiene sobre su cuerpo. “Les confieso que ya no me gustan los tatuajes... al grado de que me quiero quitar los míos. ¿Será que ya soy señora?”, escribió la hija mayor de Eugenio Derbez en sus videos. 

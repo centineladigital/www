@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En 5 años se realizaron más de medio millón de actos registrales y por primera vez se certificó el Archivo Central, con más de 7 millones de actas   "
-image: /uploads/2021/images-actas_migrantes_(2).png
-video: nil
-audio: nil
-alt: Con “Soy México” logró Registro Civil  entrega de 25 mil actas de doble nacionalidad
+image: "/uploads/2021/images-actas_migrantes_(2).png"
+video: "nil"
+audio: "nil"
+alt: "Con “Soy México” logró Registro Civil  entrega de 25 mil actas de doble nacionalidad"
 front: false
-section: Local
+section: "Local"
+news_id: 187103
 ---
 
 El Registro Civil del Gobierno del Estado de Chihuahua generó e hizo entrega de más de 25 mil actas de doble nacional, con la realización de 45 eventos masivos, destacó la titular de la dependencia,  Inés Aurora Martínez Bernal, en el programa “Logros con Valor”.

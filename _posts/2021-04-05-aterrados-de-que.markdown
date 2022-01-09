@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz británica señaló que la comunidad LGBT necesita un movimiento similar al de MeToo. "
-image: /uploads/2021/images-kate-winslet-shutterstock.jpg
-video: nil
-audio: nil
-alt: Aterrados de que su sexualidad sea revelada -  Kate Winslet arremete contra la homofobia en Hollywood
+image: "/uploads/2021/images-kate-winslet-shutterstock.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aterrados de que su sexualidad sea revelada -  Kate Winslet arremete contra la homofobia en Hollywood"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183679
 ---
 
 Durante una entrevista para la revista dominical del Sunday Times, la actriz británica Kate Winslet señaló que muchos actores homosexuales que trabajan en Hollywood ocultan su inclinación sexual ante el temor de que esto pueda arruinar sus carreras. La estrella de películas como Titanic (1997) y Eterno resplandor de una mente sin recuerdos (2004) dijo que conoce al menos cuatro actores que no quieren revelar su sexualidad ante la posibilidad de que no sean contratados para interpretar personajes heterosexuales. 

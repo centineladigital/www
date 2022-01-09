@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante la pandemia, Tom Hardy comenzó a preparar pan, algo que le gusta y por lo que consideraría dejar la actuación, además de pasar tiempo con sus hijos."
-image: /uploads/2021/images-tom-hardy-dejar-actuacion-hijos.jpg
-video: nil
-audio: nil
-alt: ¿De 'Venom' a abrir una cafetería? Tom Hardy quiere dejar la actuación para ser panadero
+image: "/uploads/2021/images-tom-hardy-dejar-actuacion-hijos.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿De 'Venom' a abrir una cafetería? Tom Hardy quiere dejar la actuación para ser panadero"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186703
 ---
 
 Tom Hardy es uno de los actores que ha ganado renombre en Hollywood principalmente después de protagonizar Venom, de la cual dentro de poco se estrenará la segunda parte. Aunque se podría pensar que el actor está en el mejor momento de su carrera y que podría seguir en la actuación, él mismo ha declarado que desea dejar de trabajar en la industria para dedicarse a una de sus pasiones: preparar pan. 

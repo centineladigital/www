@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El equipo azulcrema se impone como visitante 2-1 al Olimpia en la ida de los octavos de final de la Concachampions"
-image: /uploads/2021/images-2558785.jpg
-video: nil
-audio: nil
-alt: América saca ventaja de su visita a Honduras
+image: "/uploads/2021/images-2558785.jpg"
+video: "nil"
+audio: "nil"
+alt: "América saca ventaja de su visita a Honduras"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183755
 ---
 
 América derrotó 2-1 al Olimpia de Honduras la noche del miércoles en su debut por los octavos de final de la Liga de Campeones de Concacaf, que dejará un clasificado al Mundial de Clubes 2021.

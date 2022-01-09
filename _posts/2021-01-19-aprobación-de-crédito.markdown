@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gobernador señala que es muy factible que el Congreso del Estado apruebe el crédito y destaca que se ha encontrado capacidad y responsabilidad en el Legislativo para entender el momento Chihuahua"
-image: /uploads/2021/images-_DSC3134.JPG
-video: nil
-audio: nil
-alt: Aprobación de crédito permitirá obras conjuntas entre  Estado y municipios
+image: "/uploads/2021/images-_DSC3134.JPG"
+video: "nil"
+audio: "nil"
+alt: "Aprobación de crédito permitirá obras conjuntas entre  Estado y municipios"
 front: false
-section: Local
+section: "Local"
+news_id: 182255
 ---
 
 El gobernador Javier Corral expresó que es muy factible que el Congreso del Estado apruebe el crédito solicitado por el Poder Ejecutivo por mil 898 millones de pesos, que se destinaría a proyectos de obra pública en municipios de todas las regiones de la entidad.

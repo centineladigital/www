@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Te decimos los precios de los combustibles en Ciudad de México, Edomex, Jalisco y Nuevo León. "
-image: /uploads/2021/images-en-aumentara-el-precio-de_0_28_640_399.jpeg
-video: nil
-audio: nil
-alt: Gasolina Premium sube y supera los $25 por litro en México; Magna se acerca a los $24
+image: "/uploads/2021/images-en-aumentara-el-precio-de_0_28_640_399.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Gasolina Premium sube y supera los $25 por litro en México; Magna se acerca a los $24"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185644
 ---
 
 El precio de la gasolina en México mantiene una tendencia a la alza y en entidades como Jalisco cotiza en cerca de 24.00 pesos la Magna y por arriba de 25.00 pesos la Premium, según la información que proporciona el portal PetroIntelligence. 

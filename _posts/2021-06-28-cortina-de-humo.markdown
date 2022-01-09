@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que recursos deben de priorizarse ya que existen otras carencias."
-image: /uploads/2021/images-ALEJANDRO.jpg
-video: nil
-audio: /uploads/2021/audio-ML05_ALEJANDRO_DOMINGUEZ.mp3
-alt: Cortina de humo consulta de AMLO -  PRI
+image: "/uploads/2021/images-ALEJANDRO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML05_ALEJANDRO_DOMINGUEZ.mp3"
+alt: "Cortina de humo consulta de AMLO -  PRI"
 front: false
-section: Local
+section: "Local"
+news_id: 185283
 ---
 
 “La consulta es un asunto electora, es un asunto de posicionamiento y no es un asunto que tiene que ver con un espiritú de justicia, fueron las palabras del Dirigente del Partido Revolucionario Institucional al señala que este acto es un distractor de la situación que atraviesa el país. Ya que según Alejandro Domínguez, el combate a la corrupción se debe de dar solamente presentando una denuncia.

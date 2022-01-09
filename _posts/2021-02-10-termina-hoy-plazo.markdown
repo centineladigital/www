@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Esta fecha es exclusivamente para quienes se inscriben por primera vez en el padrón electoral así como para los jóvenes que cumplan 18 años antes o hasta el 6 de junio"
-image: /uploads/2021/images-ine_3.jpeg
-video: nil
-audio: nil
-alt: Termina hoy plazo para modificaciones en la INE
+image: "/uploads/2021/images-ine_3.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Termina hoy plazo para modificaciones en la INE"
 front: false
-section: Local
+section: "Local"
+news_id: 182823
 ---
 
 Hoy vence el plazo para realizar alguna modificación en la Credencial para Votar, o bien, inscribirse por primera vez en el Padrón Electoral con la finalidad de participar en las elecciones de este año.

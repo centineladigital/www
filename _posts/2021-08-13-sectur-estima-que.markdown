@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El secretario de Turismo, Miguel Torruco Marqués, destacó que la actividad turística en México continúa su recuperación a pesar de la pandemia de coronavirus"
-image: /uploads/2021/images-turistas-pasean-playa-xcalacoco-playa_0_17_750_466.jpg
-video: nil
-audio: nil
-alt: Sectur estima que PIB turístico de México se recupere a niveles precovid a finales de 2022
+image: "/uploads/2021/images-turistas-pasean-playa-xcalacoco-playa_0_17_750_466.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sectur estima que PIB turístico de México se recupere a niveles precovid a finales de 2022"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186643
 ---
 
 El titular de la Secretaría de Turismo (Sectur), Miguel Torruco Marqués, estimó que el Producto Interno Bruto (PIB) turístico de México recuperará a finales de 2022 los niveles previos a la pandemia de covid-19, cuando el indicador se ubicaba en 8.7 por ciento. 

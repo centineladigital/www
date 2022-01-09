@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El personaje más icónico de la película 'Súper Cool' es sin duda McLovin, quien logró salirse con la suya gracias a una identificación falsa y se volvió el más recordado del largometraje. "
-image: /uploads/2021/images-mclovin-sony-pictures-entertainment.jpg
-video: nil
-audio: nil
-alt: ¡Feliz cumpleaños, McLovin!; el personaje de 'Súper Cool' cumple 40 años
+image: "/uploads/2021/images-mclovin-sony-pictures-entertainment.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Feliz cumpleaños, McLovin!; el personaje de 'Súper Cool' cumple 40 años"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184836
 ---
 
 El 3 de junio no es un día muy memorable en el mundo, casi no hay festividades que celebrar o conmemorar, pero por suerte hoy se probó lo contrario y las redes sociales se dedicaron a festejar irónicamente. En la mañana Seth Rogen, actor y guinoista estadunidense, publicó una foto en Twitter (@Sethrogen) mostrando la identificación oficial de un joven estadunidense llamado McLovin y felicitándolo por su cumpleaños. "Feliz cumpleaños 40 McLovin. (Escribimos esta broma cuando teníamos 14 años de edad)". 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Joe Biden llegó hasta la Casa Blanca en una emotiva ceremonia, en el recorrido hasta la Casa Blanca hubo algunos simpatizantes."
-image: /uploads/2021/images-2515430.jpg
-video: nil
-audio: nil
-alt: Joe Biden llega a la Casa Blanca con su familia
+image: "/uploads/2021/images-2515430.jpg"
+video: "nil"
+audio: "nil"
+alt: "Joe Biden llega a la Casa Blanca con su familia"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182300
 ---
 
 Joe Biden y su familia llegaron a la Casa Blanca luego de un recorrido desde el cementerio de Arlington.

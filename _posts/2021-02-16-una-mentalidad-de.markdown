@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante una entrevista sobre su próxima película, 'I care a lot', la actriz señaló que México puede llegar a ser muy religioso y un poco misógino. "
-image: /uploads/2021/images-eiza-gonzalez-instagram-7.jpg
-video: nil
-audio: nil
-alt: Una mentalidad de que la mujer no puede hacer esto o, si lo hace, será una zorra -  Eiza González sobre crecer en México
+image: "/uploads/2021/images-eiza-gonzalez-instagram-7.jpg"
+video: "nil"
+audio: "nil"
+alt: "Una mentalidad de que la mujer no puede hacer esto o, si lo hace, será una zorra -  Eiza González sobre crecer en México"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182971
 ---
 
 Eiza González sigue cosechando logros internacionales, pues ahora forma parte del próximo gran estreno de Netflix, I care a lot, cinta protagonizada por la británica Rosamund Pike donde el papel de la mexicana cae en lo políticamente incorrecto.  "En esta película nada es correcto, hay muchas cosas que están mal. Pero esa mentalidad de mujeres que hacen lo que quieren me gusta, porque hasta ahora muchos papeles siempre entraban en lo políticamente correcto", explica la actriz sobre esta producción que fue adquirida por la plataforma de streaming tras su presentación en la pasada edición del Festival de Toronto. 

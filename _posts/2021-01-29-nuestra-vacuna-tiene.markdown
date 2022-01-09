@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La vacuna, que solo precisa de una inyección, resulta eficaz en un 85% para prevenir las formas graves de la enfermedad, de acuerdo con un extenso ensayo clínico realizado en unas 44 mil personas de ocho países"
-image: /uploads/2021/images-2520479.jpg
-video: nil
-audio: nil
-alt: Nuestra vacuna tiene una eficacia general del 66% -  Johnson & Johnson
+image: "/uploads/2021/images-2520479.jpg"
+video: "nil"
+audio: "nil"
+alt: "Nuestra vacuna tiene una eficacia general del 66% -  Johnson & Johnson"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182551
 ---
 
 Johnson & Johnson anunció el viernes que su vacuna contra el Covid-19 es eficaz en un 66%, pero con una importante salvedad: su eficiencia es menor en Sudáfrica, país donde emergió una variante del coronavirus sospechosa de ser más contagiosa y presente ya en una treintena de países.

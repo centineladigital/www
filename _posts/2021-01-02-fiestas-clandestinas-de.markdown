@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El 911 recibió 171 llamadas para reportar el desarrollo de fiestas en las 16 alcaldías pese a que desde el pasado 19 de diciembre la CDMX se encuentra en semáforo rojo"
-image: /uploads/2021/images-2505287.jpg
-video: nil
-audio: nil
-alt: Fiestas clandestinas de Año Nuevo, hubo 171 pese a semáforo rojo
+image: "/uploads/2021/images-2505287.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fiestas clandestinas de Año Nuevo, hubo 171 pese a semáforo rojo"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 181830
 ---
 
 Durante año nuevo, el 911 de la Ciudad de México 171 llamadas para reportar el desarrollo de fiestas en las 16 alcaldías pese a que desde el pasado 19 de diciembre la Ciudad de México se encuentra en semáforo rojo.

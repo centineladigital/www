@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señaló que es apresurado regresar en los próximos 15 días a las escuelas"
-image: /uploads/2021/images-grgrg.jpg
-video: nil
-audio: /uploads/2021/audio-AJ02_ROCIO_GONZALEZ.mp3
-alt: Existe un abandono en mantenimiento de las escuelas por parte del Estado -  Roció González 
+image: "/uploads/2021/images-grgrg.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AJ02_ROCIO_GONZALEZ.mp3"
+alt: "Existe un abandono en mantenimiento de las escuelas por parte del Estado -  Roció González "
 front: false
-section: Local
+section: "Local"
+news_id: 184692
 ---
 
 La diputada local del PAN, Rocío González comentó que en el municipio hay un abandono en el mantenimiento de las escuelas por parte del Gobierno del Estado, por lo que se debe revisar la lista de alumnos para este regreso a clases presenciales ya que hay grupos con 45 estudiantes de secundaria que han estado encerrados 11 meses.

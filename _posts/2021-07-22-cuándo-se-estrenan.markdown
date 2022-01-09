@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los fans ya esperan ansiosos la próxima serie de Marvel Studios para Disney+; todo apunta a que los siguientes títulos en llegar serán Hawkeye y Ms. Marvel  "
-image: /uploads/2021/images-marvel.jpg
-video: nil
-audio: nil
-alt: ¿Cuándo se estrenan 'Hawkeye' y 'Ms Marvel' en Disney+?
+image: "/uploads/2021/images-marvel.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Cuándo se estrenan 'Hawkeye' y 'Ms Marvel' en Disney+?"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185913
 ---
 
 ¿Cuándo se estrenan Hawkeye y Ms Marvel en Disney+? Foto: marvel

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El costo por sesión supera los 400 pesos en clínicas particulares y algunos pacientes requieren hasta tres horas diarias de tratamiento "
-image: /uploads/2021/images-doctora.png
-video: nil
-audio: nil
-alt: Con la pandemia, aumenta hasta 100% consulta para rehabilitación pulmonar
+image: "/uploads/2021/images-doctora.png"
+video: "nil"
+audio: "nil"
+alt: "Con la pandemia, aumenta hasta 100% consulta para rehabilitación pulmonar"
 front: false
-section: Local
+section: "Local"
+news_id: 183775
 ---
 
 El número de pacientes que acuden a consulta para rehabilitación pulmonar aumentó hasta un 100% por ciento a raíz de la llegada de la pandemia, personas que superan el Covid-19 y cuentan con recursos económicos, recurren a clínicas privadas que ofrecen el servicio especializado para sobreponerse ahora, de las secuelas que dejó la enfermedad; el número de sesiones varía según el estado de salud de cada persona y el costo supera los 400 pesos por cita, destaca Yuridia Rufino, médico especialista con posgrado en rehabilitación pulmonar pediátrica y adultos.

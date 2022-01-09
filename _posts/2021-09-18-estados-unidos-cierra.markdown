@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Unos 12 mil inmigrantes irregulares según las últimas estimaciones, en su mayoría haitianos, están retenidos por las autoridades estadunidenses en un campamento improvisado bajo el puente de Del Río, Texas. "
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Estados Unidos cierra puente fronterizo donde acampan más de 10 mil migrantes
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Estados Unidos cierra puente fronterizo donde acampan más de 10 mil migrantes"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187845
 ---
 
 El gobierno de Joe Biden cerró este viernes el puente fronterizo que une a Del Río (Texas) con Ciudad Acuña, México, debajo del cual se ha instalado un campamento improvisado con cerca de 12 mil inmigrantes irregulares, en su mayoría haitianos. 

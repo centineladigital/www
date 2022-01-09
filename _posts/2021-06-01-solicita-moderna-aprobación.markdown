@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La farmacéutica Moderna inicia los trámites para la aprobación completa en EU de su vacuna covid, que actualmente sólo está autorizada para uso de emergencia"
-image: /uploads/2021/images-2587812.jpg
-video: nil
-audio: nil
-alt: Solicita Moderna aprobación total de su vacuna covid en EU
+image: "/uploads/2021/images-2587812.jpg"
+video: "nil"
+audio: "nil"
+alt: "Solicita Moderna aprobación total de su vacuna covid en EU"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184764
 ---
 
 Moderna anunció este martes que ha iniciado una solicitud para la aprobación completa en Estados Unidos de su vacuna de covid-19, que actualmente sólo está autorizada para uso de emergencia en el país.

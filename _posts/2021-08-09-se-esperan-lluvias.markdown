@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Es importante que los chihuahuenses tomen las medidas necesarias para prevenir incidentes en la vía pública o dentro del hogar"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Se esperan lluvias para toda la semana a partir de mañana martes
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Se esperan lluvias para toda la semana a partir de mañana martes"
 front: false
-section: Local
+section: "Local"
+news_id: 186447
 ---
 
 La Coordinación Municipal de Protección Civil, da a conocer que a partir de mañana martes y el resto de la semana, existen probabilidades altas de que se presenten lluvias en la capital del estado, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional.

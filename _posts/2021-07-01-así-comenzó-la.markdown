@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Desde el 2018 YosStop y Ainara Suárez mantienen una polémica, la cual ya llegó a una instancia legal por la que ahora la youtuber está detenida. "
-image: /uploads/2021/images-comenzo-conocerse-abuso-sexual-vivio_16_0_1044_650.jpg
-video: nil
-audio: nil
-alt: Así comenzó la polémica entre YosStop y Ainara Suárez que llevó a la youtuber a ser detenida
+image: "/uploads/2021/images-comenzo-conocerse-abuso-sexual-vivio_16_0_1044_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "Así comenzó la polémica entre YosStop y Ainara Suárez que llevó a la youtuber a ser detenida"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185329
 ---
 
 En los últimos días el mundo del espectáculo ha prestado atención a Yoseline Hoffman, mejor conocida como YosStop, quien fue detenida el 29 de junio por pornografía infantil. Hasta el momento se sabe que de encontrarse culpable, la influencer podría pasar hasta 14 años en prisión. 

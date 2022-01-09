@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esperan trabajar de manera transversal con las diversas dependencias."
-image: /uploads/2021/images-MARGARITA.jpg
-video: /uploads/2021/videos-MJ05_MARGARITA_BLACKALLER.mp4
-audio: nil
-alt: Necesario trabajar coordinadamente con mujeres -  Blackaller
+image: "/uploads/2021/images-MARGARITA.jpg"
+video: "/uploads/2021/videos-MJ05_MARGARITA_BLACKALLER.mp4"
+audio: "nil"
+alt: "Necesario trabajar coordinadamente con mujeres -  Blackaller"
 front: false
-section: Local
+section: "Local"
+news_id: 187588
 ---
 
 Como necesario calificó la titular del Instituto Chihuahuense de la Mujer el que se trabaje de forma coordinada con las mujeres, esto al cuestionársele si se pudieran aplicar acciones que se llevaron a cabo en el municipio de Chihuahua en todo el estado.

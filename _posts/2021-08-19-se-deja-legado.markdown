@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Presenta Javier Corral su Quinto Informe de Gobierno en la ciudad de Chihuahua; conoce aquí el listado de las más importantes obras de infraestructura que servirán a las actuales y futuras generaciones, en los 67 municipios del estado"
-image: /uploads/2021/images-Chihuahua_Parque_Infantil_Inclusivo_DIF_Estatal.jpg
-video: nil
-audio: nil
-alt: Se deja legado histórico de 10 mil obras con inversión de 30 mil 477 millones de pesos 
+image: "/uploads/2021/images-Chihuahua_Parque_Infantil_Inclusivo_DIF_Estatal.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se deja legado histórico de 10 mil obras con inversión de 30 mil 477 millones de pesos "
 front: false
-section: Local
+section: "Local"
+news_id: 186880
 ---
 
 Durante los cinco años de la Administración, se logró una inversión de 30 mil 477 millones de pesos en 10 mil obras para todo el estado, cifra histórica para un sexenio, destacó el gobernador Javier Corral en la presentación de su Quinto Informe de Gobierno.

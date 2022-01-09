@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Indica líder municipal del PAN que todo está listo para la segunda jornada interna."
-image: /uploads/2021/images-PACO.jpg
-video: nil
-audio: /uploads/2021/audio-MM07_FRANCISCO_NAVARRO.mp3
-alt: No hay acuerdos, tenemos que salir fuertes -  PAN
+image: "/uploads/2021/images-PACO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM07_FRANCISCO_NAVARRO.mp3"
+alt: "No hay acuerdos, tenemos que salir fuertes -  PAN"
 front: false
-section: Local
+section: "Local"
+news_id: 182464
 ---
 
 El Presidente del Comité Municipal del Partido Acción Nacional señaló que no existen acuerdos, esto tras darse a conocer las posturas de los aspirantes a la Alcaldía, esto tras cambiar la fecha de registro dentro del partido.

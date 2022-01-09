@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que hasta que no se tenga el decreto de regularización continuarán los operativos."
-image: /uploads/2021/images-PENICHE.jpg
-video: /uploads/2021/videos-MW04_CESAR_PENICHE.mp4
-audio: nil
-alt: Hasta que se dé regularización continuarán decomisos de “chuecos” -  Fiscal
+image: "/uploads/2021/images-PENICHE.jpg"
+video: "/uploads/2021/videos-MW04_CESAR_PENICHE.mp4"
+audio: "nil"
+alt: "Hasta que se dé regularización continuarán decomisos de “chuecos” -  Fiscal"
 front: false
-section: Local
+section: "Local"
+news_id: 186578
 ---
 
 El decomiso de vehículos extranjeros internados de forma irregular o “chuecos” continuará por parte de la Fiscalía hasta que se formalice regularización de las unidades, señaló el titular de la dependencia estatal César Augusto Peniche Espejel. 

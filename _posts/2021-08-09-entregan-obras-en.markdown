@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Sus habitantes cuentan con un campo santo ampliado y digno para llevar a sus difuntos a su última morada; la unidad deportiva fue remodelada para la práctica del deporte y el sano esparcimiento   "
-image: /uploads/2021/images-4.png
-video: nil
-audio: nil
-alt: Entregan obras en Santa Isabel por 4.6 mdp con Fondo de Reparación Justicia para Chihuahua
+image: "/uploads/2021/images-4.png"
+video: "nil"
+audio: "nil"
+alt: "Entregan obras en Santa Isabel por 4.6 mdp con Fondo de Reparación Justicia para Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 186467
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Desarrollo Municipal en coordinación con el Ayuntamiento de Santa Isabel y con recursos del Fondo de Reparación Justicia para Chihuahua, logró la ampliación del panteón de la cabecera municipal y la remodelación de la unidad deportiva donde fueron invertidos 3 millones 140 mil 598.28 pesos.

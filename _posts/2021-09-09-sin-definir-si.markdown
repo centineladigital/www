@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Necesario recursos para estas acciones."
-image: /uploads/2021/images-FAM.jpg
-video: /uploads/2021/videos-MJ06_FERNANDO_ALVAREZ.mp4
-audio: nil
-alt: Sin definir si continuarán con la vivienda vertical
+image: "/uploads/2021/images-FAM.jpg"
+video: "/uploads/2021/videos-MJ06_FERNANDO_ALVAREZ.mp4"
+audio: "nil"
+alt: "Sin definir si continuarán con la vivienda vertical"
 front: false
-section: Local
+section: "Local"
+news_id: 187586
 ---
 
 El titular de la Comisión Estatal de Vivienda, Suelo e Infraestructura de Chihuahua, Fernando Álvarez Monge, señaló que se revisa si se continuará con fomentar la vivienda vertical dentro del territorio.

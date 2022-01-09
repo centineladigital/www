@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "El doctor Edgar Jesús Zitle García, titular de la Coordinación de Salud en el Trabajo, subrayó que el Instituto ha desarrollado y realizado diferentes mecanismos de protección. "
-image: /uploads/2021/images-Foto_295-1.jpg
-video: nil
-audio: nil
-alt: Fomenta IMSS acciones para tener un entorno saludable en el trabajo y reducir contagios por COVID-19 
+image: "/uploads/2021/images-Foto_295-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fomenta IMSS acciones para tener un entorno saludable en el trabajo y reducir contagios por COVID-19 "
 front: false
-section: Local
+section: "Local"
+news_id: 185583
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) promueve diversas acciones para reducir el riesgo de contraer COVID-19 entre los trabajadores que se incorporan a sus actividades, mediante el desarrollo de cursos de capacitación en línea a través de la plataforma CLIMSS, donde las empresas llevan a cabo la protección de sus empleados, a fin de evitar un mayor número de contagios.

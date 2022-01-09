@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Solo las instancias determinarán si se abren o no las escuelas."
-image: /uploads/2021/images-GUMARO.jpg
-video: nil
-audio: /uploads/2021/audio-MV02_GUMARO.mp3
-alt: Reapertura de escuelas se dará conforme acuerdos de instancias -  Barrios
+image: "/uploads/2021/images-GUMARO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV02_GUMARO.mp3"
+alt: "Reapertura de escuelas se dará conforme acuerdos de instancias -  Barrios"
 front: false
-section: Local
+section: "Local"
+news_id: 183485
 ---
 
 La reapertura de escuelas se dará conforme los acuerdos de las diversas instancias gubernamentales señaló el titular de la Subdirección de Ecología, Gumaro Barrios Gallegos. Esto al ser cuestionado sobre las inquietudes de los padres de familia para que, con la reapertura de actividades económicas se lleve a cabo también la de las instituciones educativas.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este viernes, los usuarios en redes sociales destacaron la referencia a 'El Chapo' Guzmán como parte de 'Falcon y el Soldado del Inverno', la serie de Marvel que se transmite por Disney Plus. "
-image: /uploads/2021/images-falcon-soldado-inverno-referencia-chapo.jpg
-video: nil
-audio: nil
-alt: Con referencia a 'El Chapo' Guzmán, así fue el capítulo 4 de 'Falcon y el Soldado del Inverno'
+image: "/uploads/2021/images-falcon-soldado-inverno-referencia-chapo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Con referencia a 'El Chapo' Guzmán, así fue el capítulo 4 de 'Falcon y el Soldado del Inverno'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183787
 ---
 
 Cada semana, los fanáticos del Universo Marvel reciben una porción de Falcon y el Soldado del Invierno, la serie protagonizada por Sam Wilson y Bucky Barnes. Como ya es costumbre los viernes, disfrutaron del cuarto capítulo de la serie exclusiva de Disney Plus. Esta semana, además de los avances en la interesante trama de los acontecimientos después de Avengers: Endgame, se vivió una curiosa referencia a Joaquín Guzmán Loera, conocido como El Chapo, en la trama. ¿Quieres saber de qué se trata? Aquí te contamos qué pasó y cómo se refirió a El Chapo en Falcon y el Soldado del Invierno. 

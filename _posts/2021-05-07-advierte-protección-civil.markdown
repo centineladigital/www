@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La dependencia estatal señala que las precipitaciones estarán en Ciudad Juárez, Ahumada, Sueco, Cuauhtémoc, Chihuahua, Santa Bárbara, Parral, Jiménez, Coronado, Aldama y Ojinaga, mientras que las ráfagas afectarán principalmente a Ciudad Juárez, Ahumada, Buenaventura, Jiménez y Coyame"
-image: /uploads/2021/images-lluvias-1.jpg
-video: nil
-audio: nil
-alt: Advierte Protección Civil de rachas de hasta 65 km/h y lluvias en parte de la entidad
+image: "/uploads/2021/images-lluvias-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Advierte Protección Civil de rachas de hasta 65 km/h y lluvias en parte de la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 184332
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que para este viernes 7 de mayo se prevén lluvias en el norte, centro, sur, sureste y noreste, así como rachas que podrían superar los 65 kilómetros por hora (km/h).

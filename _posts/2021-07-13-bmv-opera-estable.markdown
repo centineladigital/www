@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El referencial índice S&P/BMV IPC, integrado por las acciones de las 35 firmas más líquidas del mercado, bajaba un marginal 0.03 por ciento a 49 mil 776.46 puntos. "
-image: /uploads/2021/images-bmv-ipc-martes-ciento-mil.jpg
-video: nil
-audio: nil
-alt: BMV opera estable tras dato de inflación en EU y atenta a reportes corporativos
+image: "/uploads/2021/images-bmv-ipc-martes-ciento-mil.jpg"
+video: "nil"
+audio: "nil"
+alt: "BMV opera estable tras dato de inflación en EU y atenta a reportes corporativos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185599
 ---
 
 La Bolsa Mexicana de Valores (BMV) operaba en la apertura del día con una leve pérdida, mientras los inversionistas asimilaban el dato de inflación en Estados Unidos de junio y se mantenían atentos a la temporada de reportes trimestrales corporativos, tanto en Wall Street como en México. 

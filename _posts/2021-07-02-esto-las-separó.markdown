@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Antes de morir, Jenni Rivera y su hija Chiquis protagonizaron una polémica por un supuesto triángulo amoroso con Esteban Loaiza. Así comenzó el rumor. "
-image: /uploads/2021/images-especulo-madre-hija-distanciaron-razon_53_0_1044_650.jpg
-video: nil
-audio: nil
-alt: ¿Esto las separó? El supuesto triángulo amoroso entre Jenni Rivera, Chiquis y Esteban Loaiza
+image: "/uploads/2021/images-especulo-madre-hija-distanciaron-razon_53_0_1044_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Esto las separó? El supuesto triángulo amoroso entre Jenni Rivera, Chiquis y Esteban Loaiza"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185359
 ---
 
 La vida de Jenni Rivera estuvo llena de altas y bajas, así como polémicas en las que su vida amorosa estuvo involucrada. Antes de morir, la Diva de la banda estuvo casado con el ex beisbolista Esteban Loaiza, sin embargo, su amor terminó después de que surgieran rumores que aseguraban que Loaiza tenía una relación con la hija de la cantante, Chiquis Rivera. 

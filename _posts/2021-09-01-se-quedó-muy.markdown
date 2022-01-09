@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor se acercó a Miguel Bosé para contarle cómo fue su lucha contra el virus; señala que espera su historia ayudé a cambiar su opinión sobre las vacunas."
-image: /uploads/2021/images-tono-mauri-convencer-miguel-bose_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Se quedó muy conmovido -  Toño Mauri intenta convencer a Miguel Bosé de vacunarse contra covid-19
+image: "/uploads/2021/images-tono-mauri-convencer-miguel-bose_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se quedó muy conmovido -  Toño Mauri intenta convencer a Miguel Bosé de vacunarse contra covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187327
 ---
 
 Toño Mauri sigue luchando contra las secuelas que le dejó el covid-19, enfermedad por la que debió someterse a un doble trasplante de pulmón en donde recientemente le detectaron una bacteria. Mientras continúa en recuperación, el actor ya prepara su regreso a la televisión con la producción de la bioserie de Miguel Bosé, a quien le contó su experiencia con el virus para hacerlo cambiar de opinión sobre la importancia de vacunarse. 

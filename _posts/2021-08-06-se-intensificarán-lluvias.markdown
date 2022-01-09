@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Aunque en este viernes 6 no se contemplan posibilidades de precipitaciones en Chihuahua y Juárez, para mañana se prevé una concentración de entre  2.1 y 5 mm en la capital chihuahuense, así como en Cuauhtémoc, Parral y Jiménez, informa"
-image: /uploads/2021/images-GUADALUPE_Y_CALVO_AGOSTO_2021.jpeg
-video: nil
-audio: nil
-alt: Se intensificarán lluvias en todo el estado este sábado 7 de agosto -  Protección Civil
+image: "/uploads/2021/images-GUADALUPE_Y_CALVO_AGOSTO_2021.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Se intensificarán lluvias en todo el estado este sábado 7 de agosto -  Protección Civil"
 front: false
-section: Local
+section: "Local"
+news_id: 186389
 ---
 
 Para este sábado 7 de agosto se prevé un incremento en la intensidad de las lluvias en todo el estado, con hasta 75 mm de concentración en municipios del suroeste, principalmente Batopilas, señaló la Coordinación Estatal de Protección Civil (CEPC).

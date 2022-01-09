@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "No existe legislación para consumo aún."
-image: /uploads/2021/images-EMILIO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ06_EMILIO_GARCIA.mp3
-alt: Solo con amparo se puede consumir marihuana -  García Ruiz
+image: "/uploads/2021/images-EMILIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ06_EMILIO_GARCIA.mp3"
+alt: "Solo con amparo se puede consumir marihuana -  García Ruiz"
 front: false
-section: Local
+section: "Local"
+news_id: 185337
 ---
 
 Solamente con amparo se puede consumir marihuana, fueron las palabras del titular de la Secretaría de Seguridad Pública Estatal en Chihuahua Emilio García Ruiz, esto al señalar que la autorización de la Corte para el uso lúdico de la marihuana a para 5 adultos mayores que se ampararon.

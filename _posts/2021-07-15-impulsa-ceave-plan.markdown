@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Conjuntan esfuerzos dependencias integrantes del Sistema Estatal de Atención a Víctimas, para consolidar el retorno seguro a las comunidades de Santa Rita y San Jerónimo en Guadalupe y Calvo."
-image: /uploads/2021/images-2.jpg
-video: nil
-audio: nil
-alt: Impulsa CEAVE plan integral de acompañamiento  a víctimas de Desplazamiento Forzado Interno
+image: "/uploads/2021/images-2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Impulsa CEAVE plan integral de acompañamiento  a víctimas de Desplazamiento Forzado Interno"
 front: false
-section: Local
+section: "Local"
+news_id: 185700
 ---
 
 Como parte de un plan integral de acompañamiento a 127 familias en situación de desplazamiento forzado interno (DFI), autoridades que integran el Sistema Estatal de Atención a Víctimas, se dieron cita en la Zona Sur de la entidad para coordinar labores que impulsen el retorno seguro a las comunidades de Santa Rita y San Jerónimo en el municipio de Guadalupe y Calvo.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Rebasarán los 35 °C en Ojinaga, Juárez y Delicias, la tarde de este miércoles"
-image: /uploads/2021/images-descarga.jpg
-video: nil
-audio: nil
-alt: Advierte Protección Civil sobre rachas mayores a 45 km/h en Ojinaga, Juárez, Parral y Jiménez
+image: "/uploads/2021/images-descarga.jpg"
+video: "nil"
+audio: "nil"
+alt: "Advierte Protección Civil sobre rachas mayores a 45 km/h en Ojinaga, Juárez, Parral y Jiménez"
 front: false
-section: Local
+section: "Local"
+news_id: 187107
 ---
 
 Para este miércoles 25 y jueves 26 de agosto se esperan temperaturas por encima de los 35°C  en Ojinaga, Juárez y Delicias, así como la presencia de fuertes rachas de viento mayores a los 45 kilómetros por hora (km/h), principalmente en Juárez, Bocoyna, Parral, Jiménez y Ojinaga, informó la Coordinación Estatal de Protección Civil (CEPC).

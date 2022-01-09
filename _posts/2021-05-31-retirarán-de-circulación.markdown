@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Anuncia gobierno acciones dentro de la jornada electoral."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-ML07_JAVIER_CORRAL.mp3
-alt: Retirarán de circulación vehículos gubenamentales el viernes
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML07_JAVIER_CORRAL.mp3"
+alt: "Retirarán de circulación vehículos gubenamentales el viernes"
 front: false
-section: Local
+section: "Local"
+news_id: 184752
 ---
 
 

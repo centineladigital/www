@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Participó personal de la Unidad de Operaciones Aéreas con el Halcón I   "
-image: /uploads/2021/images-unnamed_(3).jpg
-video: nil
-audio: nil
-alt: Capacitan a Policías Municipales en rescate vertical aéreo 
+image: "/uploads/2021/images-unnamed_(3).jpg"
+video: "nil"
+audio: "nil"
+alt: "Capacitan a Policías Municipales en rescate vertical aéreo "
 front: false
-section: Local
+section: "Local"
+news_id: 186526
 ---
 
 Como parte de la capacitación y mejora de la Policía Municipal de Chihuahua, personal de la Unidad de Operaciones Aéreas recibió por parte de la Cruz Roja Mexicana, un curso de rescate vertical para personas lesionadas, en el cual se utilizó el helicóptero Halcón I el cual puede ser configurado para realizar este tipo de maniobras.

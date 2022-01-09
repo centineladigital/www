@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Conoce el precio del dólar hoy viernes en bancos "
-image: /uploads/2021/images-SDYGTVTQZJEGXOZESOE5HP4JSM.jpg
-video: nil
-audio: nil
-alt: Precio dólar hoy -  Peso gana tras avance semanal del covid-19 y mensaje de la Fed
+image: "/uploads/2021/images-SDYGTVTQZJEGXOZESOE5HP4JSM.jpg"
+video: "nil"
+audio: "nil"
+alt: "Precio dólar hoy -  Peso gana tras avance semanal del covid-19 y mensaje de la Fed"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185719
 ---
 
 Al iniciar operaciones el precio del dólar hoy viernes fue de hasta 20.31 pesos en bancos. En tanto, el tipo de cambio interbancario se ubica en 19.85 pesos por dólar, con una ganancia de 0.38 por ciento.

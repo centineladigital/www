@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente Andrés Manuel López Obrador anunció que la Guardia Nacional (GN) vigilará y resguardará los camiones que repartan los cilindros de gas de la próxima empresa estatal “Gas Bienestar”.   "
-image: /uploads/2021/images-WhatsApp_Image_2019-06-30_at_09.29.05__1_.jpeg
-video: nil
-audio: nil
-alt: AMLO anuncia vigilancia de la Guardia Nacional a reparto de cilindros de “Gas Bienestar”
+image: "/uploads/2021/images-WhatsApp_Image_2019-06-30_at_09.29.05__1_.jpeg"
+video: "nil"
+audio: "nil"
+alt: "AMLO anuncia vigilancia de la Guardia Nacional a reparto de cilindros de “Gas Bienestar”"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185454
 ---
 
 

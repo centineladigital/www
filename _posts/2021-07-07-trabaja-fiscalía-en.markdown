@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se reunirán esta semana con gerentes de DIDI."
-image: /uploads/2021/images-PENCHE1.jpg
-video: nil
-audio: /uploads/2021/audio-MW04_CESAR_PENICHE.mp3
-alt: Trabaja Fiscalía en esclarecer muertes de choferes 
+image: "/uploads/2021/images-PENCHE1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW04_CESAR_PENICHE.mp3"
+alt: "Trabaja Fiscalía en esclarecer muertes de choferes "
 front: false
-section: Local
+section: "Local"
+news_id: 185431
 ---
 
 Ante la muerte de un segundo chofer de la plataforma DIDI el Fiscal General del Estado señaló que se lleva a cabo las acciones pertinentes para el esclarecimiento de los homicidios, los cuales debido a las investigaciones que se llevan a cabo no pude dar a conocer si existe relación entre ambas muertes.

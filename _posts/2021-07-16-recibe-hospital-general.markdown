@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La donación forma parte de las acciones solidarias hacia el personal médico y de enfermería de este nosocomio."
-image: /uploads/2021/images-Recibe_Hospital_General_de_Camargo_donación_7.jpeg
-video: nil
-audio: nil
-alt: Recibe Hospital General de Camargo insumos médicos de la  Asociación Chihuahuenses en Apoyo A.C.
+image: "/uploads/2021/images-Recibe_Hospital_General_de_Camargo_donación_7.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Recibe Hospital General de Camargo insumos médicos de la  Asociación Chihuahuenses en Apoyo A.C."
 front: false
-section: Local
+section: "Local"
+news_id: 185736
 ---
 
 La Secretaría de Salud, a través del Hospital General de Camargo, recibió la donación de insumos médicos por parte de la Asociación Chihuahuenses en Apoyo A.C., que consistió en cubrebocas KN95 y de triple capa, gorros redondos, guantes, cubrezapatos, gafas de seguridad, overoles, botas quirúrgicas, mascarillas con reservorio, micronebulizadores, gel antibacterial, alcohol, entre otros.

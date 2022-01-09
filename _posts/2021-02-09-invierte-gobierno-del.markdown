@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Reconoce el Gobernador Javier Corral la entrega de las y los Héroes de la Salud"
-image: /uploads/2021/images-CLINICA_TODOS_SOMOS_MEXICANOS_RENDER_-_JUAREZ_02.jpeg
-video: nil
-audio: nil
-alt: Invierte Gobierno del Estado 337.6 mdp en infraestructura de salud en Juárez
+image: "/uploads/2021/images-CLINICA_TODOS_SOMOS_MEXICANOS_RENDER_-_JUAREZ_02.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Invierte Gobierno del Estado 337.6 mdp en infraestructura de salud en Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 182797
 ---
 
 Sólo para la remodelación, equipamiento y construcción de unidades de salud en Ciudad Juárez durante el 2020, el Gobierno del Estado invirtió 337.6 millones de pesos, lo que permite la atención de pacientes con unidades de calidad, informó el gobernador del estado, Javier Corral Jurado.

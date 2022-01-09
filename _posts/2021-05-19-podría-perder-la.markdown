@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La imagen de la supuesta boda se viralizó en redes sociales, pues ésta representaría la primera polémica de la Miss Universo 2021. Y es que supuestamente con ello la ganadora del certamen podría perder la corona. Te contamos la verdad. "
-image: /uploads/2021/images-perder-corona-foto-supuesta-boda.jpg
-video: nil
-audio: nil
-alt: ¿Podría perder la corona? Foto de Andrea Meza, Miss Universo 2021, vestida de novia causa polémica
+image: "/uploads/2021/images-perder-corona-foto-supuesta-boda.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Podría perder la corona? Foto de Andrea Meza, Miss Universo 2021, vestida de novia causa polémica"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184536
 ---
 
 Andrea Meza, mexicana que se coronó como Miss Universo 2021, sigue dando de qué hablar. Recientemente se volvió viral una imagen de la ingeniera de Chihuahua en la que aparece portando un vestido de novia junto a un joven. Por ello, se puso sobre la mesa, el latente peligro de que la mexicana perdiera la corona por supuestamente violar una norma fundamental: estar ‘casada’. ¿Andrea Meza está casada? ¿Podría perder la corona? 

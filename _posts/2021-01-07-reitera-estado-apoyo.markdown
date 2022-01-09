@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "“Consideramos que ni la detención es válida, ni tampoco lo es, mucho menos, la prisión preventiva”, señala secretario general de Gobierno, Luis Fernando Mesta Soulé"
-image: /uploads/2021/images-SGG_APOYO_FAMILIAS_AGRICULTORES_DETENIDOS_(2).JPG
-video: nil
-audio: nil
-alt:  Reitera Estado apoyo a agricultores encarcelados indebidamente por Gobierno Federal
+image: "/uploads/2021/images-SGG_APOYO_FAMILIAS_AGRICULTORES_DETENIDOS_(2).JPG"
+video: "nil"
+audio: "nil"
+alt: " Reitera Estado apoyo a agricultores encarcelados indebidamente por Gobierno Federal"
 front: false
-section: Local
+section: "Local"
+news_id: 181956
 ---
 
 El Gobierno del Estado de Chihuahua mantiene la plena disposición y entereza para apoyar a las familias de los agricultores detenidos y encarcelados indebidamente por el Gobierno Federal en relación al caso de la presa La Boquilla, informó el secretario general de Gobierno, Luis Fernando Mesta Soulé.

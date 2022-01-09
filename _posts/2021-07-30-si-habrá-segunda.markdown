@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La serie cuenta la historia de Gus, un niño ciervo que tendrá que enfrentar y sobrevivir un mundo destruído por un virus. "
-image: /uploads/2021/images-sweet-tooth-netflix_71_73_901_561.jpg
-video: nil
-audio: nil
-alt: ¡Si habrá segunda temporada! Netflix anuncia que renovará la serie apocalíptica 'Sweet Thooth'
+image: "/uploads/2021/images-sweet-tooth-netflix_71_73_901_561.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Si habrá segunda temporada! Netflix anuncia que renovará la serie apocalíptica 'Sweet Thooth'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186136
 ---
 
 Sweet Tooth, la serie de un misterioso virus y un niño-ciervo ha conquistado a los fanáticos de la ciencia ficción, pues luego de su estreno en Netflix permaneció varias semanas en el numero 1 de "lo más visto", y es que la idea de un futuro post apocalíptico resulta cada vez más creíble y cercano para la humanidad, y es un género cada vez más explotado en la industria del cine y la televisión.  

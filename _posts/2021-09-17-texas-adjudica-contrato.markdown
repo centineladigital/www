@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El gobernador de Texas indicó que trabajarán de forma rápida para comenzar con la construcción del muro, pues, según el republicano, estamos tratando de arreglar el fracaso de Joe Biden. "
-image: /uploads/2021/images-muro-fronterizo-cancelado-gobierno-joe_85_76_854_531.jpg
-video: nil
-audio: nil
-alt: Texas adjudica contrato con empresas para supervisar construcción de muro fronterizo
+image: "/uploads/2021/images-muro-fronterizo-cancelado-gobierno-joe_85_76_854_531.jpg"
+video: "nil"
+audio: "nil"
+alt: "Texas adjudica contrato con empresas para supervisar construcción de muro fronterizo"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187815
 ---
 
 El gobierno de Texas adjudicó un contrato de 11 millones de dólares con empresas para supervisar la construcción del muro fronterizo en ese estado, informó el gobernador republicano Greg Abbott. 

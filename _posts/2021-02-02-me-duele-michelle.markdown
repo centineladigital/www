@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los actores aclararon los motivos por los que decidieron terminar y con lágrimas en los ojos aseguraron que están en tiempos diferentes. "
-image: /uploads/2021/images-michelle-renaud-danilo-carrera-aclararon_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Me duele -  Michelle Renaud y Danilo Carrera revelan los motivos de su ruptura amorosa
+image: "/uploads/2021/images-michelle-renaud-danilo-carrera-aclararon_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me duele -  Michelle Renaud y Danilo Carrera revelan los motivos de su ruptura amorosa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182625
 ---
 
 Michelle Renaud y Danilo Carrera confirmaron su separación a finales de enero con un breve mensajes en sus redes sociales. Ahora, los actores, quienes iniciaron su romance en 2019, regresaron a sus redes sociales para desmentir los rumores que se desataron en torno a su relación y aclarar los motivos por los que decidieron terminar, pues afirmaron con lágrimas en los ojos que están "en tiempos diferentes". 

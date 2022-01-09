@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La ONU aseguró que buscará un rápido aumento de la financiación para que las operaciones humanitarias en el país, en el que depende la alimentación de los afganos enormemente de la ayuda internacional"
-image: /uploads/2021/images-afganistan-retorno-talibanes-dependia-ayuda_0_9_1024_637.jpg
-video: nil
-audio: nil
-alt: ONU convocará a reunión en Ginebra sobre situación en Afganistán
+image: "/uploads/2021/images-afganistan-retorno-talibanes-dependia-ayuda_0_9_1024_637.jpg"
+video: "nil"
+audio: "nil"
+alt: "ONU convocará a reunión en Ginebra sobre situación en Afganistán"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187434
 ---
 
 El secretario general de las Naciones Unidas, Antonio Guterres, convocó una conferencia de alto nivel sobre ayuda a Afganistán en Ginebra el 13 de septiembre, informó su vocero Stephane Dujarric este viernes. El país, bajo control de los talibanes después de 20 años de guerra, se enfrenta a una "inminente catástrofe humanitaria", advirtió.  

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aunque Danna Paola es muy hermética en cuanto a su vida amorosa, recientemente la captaron muy cariñosa con Alex Hoyer. "
-image: /uploads/2021/images-danna-paola-desmentido-aceptado-romance_3_0_1044_650.jpg
-video: nil
-audio: nil
-alt: ¿Romance en puerta? Captan a Danna Paola muy cariñosa con Alex Hoyer
+image: "/uploads/2021/images-danna-paola-desmentido-aceptado-romance_3_0_1044_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Romance en puerta? Captan a Danna Paola muy cariñosa con Alex Hoyer"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184896
 ---
 
 Sin duda Danna Paola se ha convertido en una de las jóvenes mexicanas más populares, esto después de que saltó a la fama internacionalmente tras su participación en Élite. Tras su participación en la serie y sacar su disco, la cantante ha cosechado éxito y muchos se preguntan si alguien ya ocupa su corazón, algunos aseguran que quien ocupa este lugar es Alex Hoyer. Hace unos meses una revista captó a Danna Paola y al cantante Alex Hoyer afuera del departamento de la intérprete de “Sodio”, las cuales levantaron la sospecha de que eran algo más que amigos y de nueva cuenta este rumor vuelve a surgir después de que ambos fueron captados muy cariñosos. 

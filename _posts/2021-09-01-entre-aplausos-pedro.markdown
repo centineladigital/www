@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este 1 de septiembre inició el Festival de Cine de Venecia y el encargado de abrir el evento fue Pedro Almodóvar con su película Madres Paralelas. "
-image: /uploads/2021/images-pelicula-pedro-almodovar-presentarse-festival.jpg
-video: nil
-audio: nil
-alt: Entre aplausos, Pedro Almodóvar abre el Festival de Cine de Venecia con 'Madres Paralelas'
+image: "/uploads/2021/images-pelicula-pedro-almodovar-presentarse-festival.jpg"
+video: "nil"
+audio: "nil"
+alt: "Entre aplausos, Pedro Almodóvar abre el Festival de Cine de Venecia con 'Madres Paralelas'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187329
 ---
 
 Este 1 de septiembre dio inicio la 78 edición del Festival de Cine de Venecia, en donde el encargado de abrir el evento fue Pedro Almodóvar con su película Madres Paralelas, la cual hace unos días estuvo en la polémica después de que Instagram censurara el póster y ofreciera disculpas. 

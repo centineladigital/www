@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Vecinos del sector pueden contribuir realizando limpieza profunda en sus viviendas y sacando tiliches"
-image: /uploads/2021/images-unnamed.png
-video: nil
-audio: nil
-alt: Estas colonias atenderá el Destilichadero la próxima semana
+image: "/uploads/2021/images-unnamed.png"
+video: "nil"
+audio: "nil"
+alt: "Estas colonias atenderá el Destilichadero la próxima semana"
 front: false
-section: Local
+section: "Local"
+news_id: 184479
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos sigue implementando cada semana el Destilichadero para apoyar a las familias a deshacerse de los residuos de gran volumen que el camión recolector no puede llevarse.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hoy la inmunización inicia en Rosales"
-image: /uploads/2021/images-Vacunación_covid-19.jpg
-video: nil
-audio: nil
-alt: Inicia aplicación de segunda dosis en 20 municipios
+image: "/uploads/2021/images-Vacunación_covid-19.jpg"
+video: "nil"
+audio: "nil"
+alt: "Inicia aplicación de segunda dosis en 20 municipios"
 front: false
-section: Local
+section: "Local"
+news_id: 183951
 ---
 
 A partir de hoy y hasta el miércoles, los adultos mayores de 20 municipios del estado recibirán la segunda dosis de las vacunas contra el virus SARS CoV2 con la cual se busca disminuir el impacto de la enfermedad Covid 19 y sus formas letales.

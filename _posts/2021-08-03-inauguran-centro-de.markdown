@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se recibe a más de 400 personas para su atención."
-image: /uploads/2021/images-índice.jpg
-video: /uploads/2021/videos-MM06_EDUARDO_FERNANDEZ.mp4
-audio: nil
-alt: Inauguran centro de cancerología
+image: "/uploads/2021/images-índice.jpg"
+video: "/uploads/2021/videos-MM06_EDUARDO_FERNANDEZ.mp4"
+audio: "nil"
+alt: "Inauguran centro de cancerología"
 front: false
-section: Local
+section: "Local"
+news_id: 186258
 ---
 
 Con una inversión total de 164 punto cinco millones de pesos, este martes se inauguró la remodelación Centro Estatal de Cancerología, o CECAN por sus siglas, el cual cuenta con un acelerador lineal de última generación.

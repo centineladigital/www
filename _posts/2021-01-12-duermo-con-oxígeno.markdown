@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Leonardo Daniel contó que lo que vivió con el covid-19 fue tan fuerte que ni a su peor enemigo le desearía un contagio; reveló que vive con secuelas."
-image: /uploads/2021/images-actor-leonardo-daniel-narra-infierno.jpg
-video: nil
-audio: nil
-alt: Duermo con oxígeno -  actor Leonardo Daniel revela que el covid-19 le dejó severas secuelas
+image: "/uploads/2021/images-actor-leonardo-daniel-narra-infierno.jpg"
+video: "nil"
+audio: "nil"
+alt: "Duermo con oxígeno -  actor Leonardo Daniel revela que el covid-19 le dejó severas secuelas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182087
 ---
 
 Leonardo Daniel, actor de Televisa, reapareció para compartir su experiencia con el coronavirus, pues tras dar positivo a covid-19 tuvo que entrar a terapia intensiva para sobrevivir. El actor de El Señor de los Cielos explicó cómo logró salvarse. Narró que vivió un infiero y que ni a su peor enemigo le desea un contagio. Te contamos lo que pasó por culpa del covid-19. En entrevista para Sale el Sol, Leonardo Daniel contó que lo que vivió con el covid-19 fue tan fuerte que ni a su peor enemigo le desearía un contagio: “Ni a mi peor enemigo ni a nadie en el universo le puedo desear que pase por lo que yo pasé, y no pasé por lo peor. No todo el mundo la está contando, yo soy de los afortunados”, dijo Leonardo Daniel.

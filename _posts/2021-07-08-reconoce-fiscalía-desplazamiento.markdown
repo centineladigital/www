@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Trabajan en acciones coordinadas con los diferentes niveles de gobierno para evitar estos hechos."
-image: /uploads/2021/images-PENICHE.jpg
-video: nil
-audio: /uploads/2021/audio-MJ03.mp3
-alt: Reconoce Fiscalía desplazamiento de gente por la violencia
+image: "/uploads/2021/images-PENICHE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ03.mp3"
+alt: "Reconoce Fiscalía desplazamiento de gente por la violencia"
 front: false
-section: Local
+section: "Local"
+news_id: 185475
 ---
 
 El desplazamiento de una comunidad en el municipio de Guadalupe y Calvo fue reconocido por parte del titular de la Fiscalía General del Estado, César Augusto Peniche Espejel. Quien dijo que se tenía información que los ciudadanos acudieron a la cabecera municipal del mismo ayuntamiento.

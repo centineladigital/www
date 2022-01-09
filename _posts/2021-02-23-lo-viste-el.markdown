@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Dakota Fanning inició su carrera desde muy pequeña y en uno de sus primeros trabajos fue en un capítulo de la serie Malcolm el de en medio, ¿lo viste? "
-image: /uploads/2021/images-dakota-fanning-trabajo-en-un_55_0_1045_650.jpg
-video: nil
-audio: nil
-alt: ¿Lo viste? El episodio de 'Malcolm el de en medio' en el que apareció Dakota Fanning
+image: "/uploads/2021/images-dakota-fanning-trabajo-en-un_55_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Lo viste? El episodio de 'Malcolm el de en medio' en el que apareció Dakota Fanning"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183117
 ---
 
 Sin duda Malcolm el de en medio fue una de las series más exitosas en los años 2000, no por nada en uno de los capítulos de WandaVision hicieron un homenaje al programa protagonizado por Frankie Muniz. Además de marcar a una generación, en el show hicieron participaciones especiales algunos famosos, entre ellos Dakota Fanning. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Quería tener algo como de Rita Hayworth, tener esa vibra del glamour de Hollywood, pero con un toque mexicano”, dijo la actriz. "
-image: /uploads/2021/images-eiza-en-la-met-gala.jpg
-video: nil
-audio: nil
-alt: Eiza González 'deslumbra' en la alfombra roja de la MET Gala 2021
+image: "/uploads/2021/images-eiza-en-la-met-gala.jpg"
+video: "nil"
+audio: "nil"
+alt: "Eiza González 'deslumbra' en la alfombra roja de la MET Gala 2021"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187710
 ---
 
 La MET Gala 2021, llevada a cabo este lunes en el Museo Metropolitano de Arte de Nueva York, convocó a celebridades internacionales de diversas disciplinas: desde los cantantes Maluma y Billie Eilish, hasta los deportistas Serena Williams y Stephen Curry, sin olvidar a personalidades de la actuación como Jennifer López y Elliot Page. 

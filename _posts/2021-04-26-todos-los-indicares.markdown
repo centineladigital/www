@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "En 24 horas se detectaron 90 casos de personas que dieron positivo a PCR y se acreditaron 24 muertes."
-image: /uploads/2021/images-diapositiva3-322.jpg
-video: nil
-audio: /uploads/2021/audio-ML08_ARTURO_VALENZUELA.mp4
-alt: Todos los indicares al alza -  Salud
+image: "/uploads/2021/images-diapositiva3-322.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML08_ARTURO_VALENZUELA.mp4"
+alt: "Todos los indicares al alza -  Salud"
 front: false
-section: Local
+section: "Local"
+news_id: 184119
 ---
 
 Todos los indicadores se encuentran a la alza dentro de las cifras que se manejan en la pandemia que ha generado el coronavirus, fueron las palabras del Director Médico Zona Norte, Arturo Valenzuela Zorrilla, esto al afirmar que pese a que solamente se detectaron 90 casos de personas que dieron positivo a PCR y se acreditaron 24 muertes, esto se debió a que fue por fin de semana y es cuando menos pruebas se llevan a cabo.

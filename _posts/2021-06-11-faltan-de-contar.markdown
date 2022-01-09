@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "El avance de los cómputos tiene finalizados 64 municipios entorno a la elección"
-image: /uploads/2021/images-Elecciones-2021-PREP-conteo-rápido.jpg
-video: nil
-audio: nil
-alt: Faltan de contar los votos de Chihuahua y Juárez en elección de gubernatura
+image: "/uploads/2021/images-Elecciones-2021-PREP-conteo-rápido.jpg"
+video: "nil"
+audio: "nil"
+alt: "Faltan de contar los votos de Chihuahua y Juárez en elección de gubernatura"
 front: false
-section: Local
+section: "Local"
+news_id: 184981
 ---
 
 El Instituto Estatal Electoral inició una sesión permanente en donde dio a conocer que para la elección de gobernador o gobernadora, se han computado hasta el momento 3,600 de las 5,500 actas, faltando únicamente los municipios de Chihuahua y Ciudad Juárez.

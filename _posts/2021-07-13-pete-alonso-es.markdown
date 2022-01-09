@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Alonso, de 26 años, se une a Ken Griffey Jr. (1998-99) y a Yoenis Céspedes (2013-14) como los únicos peloteros en ganar el evento en dos años en fila. "
-image: /uploads/2021/images-E6JWPxnXoAALyXO.jpg
-video: nil
-audio: nil
-alt: Pete Alonso es bicampeón del Home Run Derby 2021
+image: "/uploads/2021/images-E6JWPxnXoAALyXO.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pete Alonso es bicampeón del Home Run Derby 2021"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185596
 ---
 
 Pete Alonso, de los Mets de Nueva York, se convirtió el lunes en el tercer toletero en la historia en ganar el Derby de Jonrones en años consecutivos después de vencer a Trey Mancini en la final. 

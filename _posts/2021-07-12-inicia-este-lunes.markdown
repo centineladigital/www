@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las Becas de Transporte para nivel preescolar también se entregarán esta semana."
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Inicia este lunes 12 de julio pago de Becas de Excelencia y de Transporte para nivel superior
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Inicia este lunes 12 de julio pago de Becas de Excelencia y de Transporte para nivel superior"
 front: false
-section: Local
+section: "Local"
+news_id: 185559
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, comienza este lunes 12 de julio la entrega del importe correspondiente a las Becas de Excelencia y de Transporte para estudiantes de nivel superior.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Te presentamos los emocionantes estrenos que llegarán este mes de junio a Disney Plus, seguramente no te querrás despegar de la pantalla. "
-image: /uploads/2021/images-estos-son-los-estrenos-de-2.jpg
-video: nil
-audio: nil
-alt: De 'Loki' a 'Luca'... Estos son los imperdibles estrenos de Disney Plus para junio
+image: "/uploads/2021/images-estos-son-los-estrenos-de-2.jpg"
+video: "nil"
+audio: "nil"
+alt: "De 'Loki' a 'Luca'... Estos son los imperdibles estrenos de Disney Plus para junio"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184766
 ---
 
 Como es costumbre cada mes, Disney Plus nos sorprenderá con nuevos contenido. Este mes, habrá películas, series y algunos especiales imperdibles, por lo que te recomendamos tomar nota y fijar las fechas en tu calendario, para no perder los estrenos que van desde la esperada serie Loki, La misteriosa sociedad Benedict y la nueva película de Disney y Pixar, Luca. ¿Te las piensas perder?

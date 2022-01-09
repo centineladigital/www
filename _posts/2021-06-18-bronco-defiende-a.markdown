@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El grupo regiomontano, que está estrenando el tema “¿Quién dijo yo?”, destacó que hay muchos temas que en realidad deberían quitar y que “cuando un grupo tiene éxito están viendo dónde ponerle la zancadilla."
-image: /uploads/2021/images-agrupacion-iniciara-gira-unidos-presentacion.jpeg
-video: nil
-audio: nil
-alt: Bronco defiende a Los Ángeles Azules
+image: "/uploads/2021/images-agrupacion-iniciara-gira-unidos-presentacion.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Bronco defiende a Los Ángeles Azules"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185107
 ---
 
 Los Ángeles Azules, agrupación musical de cumbia, está envuelta en polémica, pues varios usuarios de las redes sociales piden cancelarlos por presuntamente “romantizar y normalizar la pedofilia”. ¿Los Ángeles Azules reproducen violencia con la canción 17 años? ¿Por qué los acusan de normalizar la pedofilia? Te contamos todo lo que sabemos sobre esta controversia que envuelve a la agrupación musical de grandes éxitos como Amor a Primera Vista y Como te voy a olvidar. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las autoridades belgas ordenan suspender la aplicación de la vacuna covid de Johnson & Johnson a menores de 41 años tras la muerte de una persona que la había recibido"
-image: /uploads/2021/images-2584733.jpg
-video: nil
-audio: nil
-alt: Suspende Bélgica vacuna covid de J&J a menores de 41 años tras muerte
+image: "/uploads/2021/images-2584733.jpg"
+video: "nil"
+audio: "nil"
+alt: "Suspende Bélgica vacuna covid de J&J a menores de 41 años tras muerte"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184658
 ---
 
 Bélgica suspendió el miércoles la aplicación de la vacuna covid de Johnson & Johnson a menores de 41 años debido a la muerte de una persona que la había recibido.

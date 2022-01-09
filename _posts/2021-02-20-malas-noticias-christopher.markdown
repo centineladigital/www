@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras sacar música nueva y ofrecer un show online, Christopher Uckermann confirmó que por el momento RBD no hará más conciertos. "
-image: /uploads/2021/images-el-integrante-de-rbd-descarto.jpg
-video: nil
-audio: nil
-alt: ¡Malas noticias! Christopher Uckermann asegura que RBD no hará más conciertos
+image: "/uploads/2021/images-el-integrante-de-rbd-descarto.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Malas noticias! Christopher Uckermann asegura que RBD no hará más conciertos"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183074
 ---
 
 A finales del 2020 RBD sorprendió a todos al anunciar su regreso a la escena musical, además de que toda su música ahora se encuentra en las plataformas de streaming y publicar un tema nuevo, la agrupación también dio un show en línea, sin embargo, Christopher Uckermann reveló que el grupo no tiene planes de realizar más conciertos. En una entrevista con varios medios, la cual retomó el periodista Edén Dorantes, Christopher Uckmermann fue cuestionado sobre el concierto que ofreció en diciembre del 2020 junto a tres de sus compañeros de RBD.

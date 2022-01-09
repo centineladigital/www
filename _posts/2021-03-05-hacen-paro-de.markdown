@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Exigen mejores condiciones laborales, pues las autoridades delegacionales no hacen caso a sus peticiones"
-image: /uploads/2021/images-WhatsApp_Image_2021-03-05_at_8.49.53_AM.jpeg
-video: nil
-audio: nil
-alt: Hacen paro de labores empleados del IMSS
+image: "/uploads/2021/images-WhatsApp_Image_2021-03-05_at_8.49.53_AM.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Hacen paro de labores empleados del IMSS"
 front: false
-section: Local
+section: "Local"
+news_id: 183285
 ---
 
 Empleados del Instituto Mexicano del Seguro Social realizan un paro de labores para exigir mejores condiciones laborales, pues las autoridades delegacionales no hacen caso a sus peticiones.

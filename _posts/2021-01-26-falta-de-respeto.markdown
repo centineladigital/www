@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Estas acciones ponen en riesgo el proceso constitucional del mes de julio."
-image: /uploads/2021/images-MARCO.jpg
-video: nil
-audio: /uploads/2021/audio-MM06_MARCO_BONILLA.mp3
-alt: Falta de respeto cambios de inscripciones
+image: "/uploads/2021/images-MARCO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM06_MARCO_BONILLA.mp3"
+alt: "Falta de respeto cambios de inscripciones"
 front: false
-section: Local
+section: "Local"
+news_id: 182463
 ---
 
 “Es una falta de respeto” fueron las palabras de Marco Antonio Bonilla Mendoza aspirante a la candidatura para la Alcaldía de Chihuahua el cambio de fecha para la inscripción de candidatos, esto luego de que durante la noche de este lunes se diera un cambio de día en las inscripciones.

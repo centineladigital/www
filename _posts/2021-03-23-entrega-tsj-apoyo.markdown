@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esperan entregar en diversos hospitales más."
-image: /uploads/2021/images-PABLO.jpg
-video: nil
-audio: /uploads/2021/audio-MM01_PABLO_GONZALEZ.mp3
-alt: Entrega TSJ apoyo médico por cuarta ocasión
+image: "/uploads/2021/images-PABLO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM01_PABLO_GONZALEZ.mp3"
+alt: "Entrega TSJ apoyo médico por cuarta ocasión"
 front: false
-section: Local
+section: "Local"
+news_id: 183522
 ---
 
 Por cuarta ocasión el Tribunal Superior de Justicia entrega apoyo a hospitales, esta vez en la ciudad de Parral, según lo dio a conocer el Magistrado Presidente del órgano judicial, Pablo Héctor González Villalobos.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Lupita D’Alessio reveló que su padre le ocasionó una herida que quizá se derivó en la forma en la que se relacionó con los hombres; la Leona Dormida también habló de la vez que tocó fondo: se drogó con uno de sus hijos. "
-image: /uploads/2021/images-lupita-alessio-revela-sintio-heridas.jpg
-video: nil
-audio: nil
-alt: No puedes dañar a tu hija -  Lupita D’Alessio revela que se sintió usada por su propio padre
+image: "/uploads/2021/images-lupita-alessio-revela-sintio-heridas.jpg"
+video: "nil"
+audio: "nil"
+alt: "No puedes dañar a tu hija -  Lupita D’Alessio revela que se sintió usada por su propio padre"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184495
 ---
 
 Lupita D’Alessio, cantante mexicana, se sinceró frente a Yordi Rosado. La Leona Dormida habló un poco sobre los momentos difíciles que ha pasado a lo largo de su vida. Contó el difícil sentimiento que le produjo saber que su papá tenía otra familia. Externó que aunque ama mucho a su padre, en algún momento sintió que le hizo falta más amor de su parte. Incluso, aseguró que en algún momento se sintió usada por él. Asimismo, tocó el tema de las adicciones que enfrentó y que tocó fondo cuando uno de sus hijos consumió droga con ella y se convulsionó. En entrevista con Yordi Rosado, Lupita D’Alessio contó un poco de su pasado como hija de familia. La Leona Dormida expresó que una de las heridas que tuvo en su vida se originaron con la relación con su padre. A pesar de que aseguró que lo amó con toda el alma, externó que a ella le hizo falta. 

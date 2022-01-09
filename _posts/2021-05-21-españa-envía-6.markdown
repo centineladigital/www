@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Por segundo día consecutivo, no se registraron llegadas a Ceuta, una ciudad española de 85 mil habitantes que está en el centro de una disputa diplomática entre Madrid y Rabat"
-image: /uploads/2021/images-2582316.jpg
-video: nil
-audio: nil
-alt: España envía 6 mil 600 migrantes a Marruecos; familias divididas
+image: "/uploads/2021/images-2582316.jpg"
+video: "nil"
+audio: "nil"
+alt: "España envía 6 mil 600 migrantes a Marruecos; familias divididas"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184580
 ---
 
 Más de 6 mil 600 de los más de 8 mil migrantes que saltaron la cerca o llegaron a nada a uno de los enclaves españoles en el norte de África esta semana fueron devueltos ya a Marruecos, informaron las autoridades el viernes.

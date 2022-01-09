@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: " El Presidente Municipal señaló que las y los regidores pueden contar con la disponibilidad y apertura para exponer sus puntos de vistas en cuanto a los diversos temas"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Se reúne Marco Bonilla con regidoras y regidores de los diferentes grupos edilicios
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Se reúne Marco Bonilla con regidoras y regidores de los diferentes grupos edilicios"
 front: false
-section: Local
+section: "Local"
+news_id: 187627
 ---
 
 Con el objetivo de entablar un diálogo y establecer coincidencias para trabajar a favor de Chihuahua, se realizó una reunión entre los regidores electos de los diferentes grupos edilicios, con el alcalde, Marco Bonilla, en las instalaciones del Salón 12 de octubre del Palacio Municipal.

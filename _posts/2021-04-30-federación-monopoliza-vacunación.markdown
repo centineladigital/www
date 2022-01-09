@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Empresarios han buscado comprar la vacuna para los trabajadores, ha sido negada la solicitud."
-image: /uploads/2021/images-AGUSTIN.jpg
-video: nil
-audio: /uploads/2021/audio-MV02_AGUSTIN_GARCIA.mp3
-alt: Federación monopoliza vacunación 
+image: "/uploads/2021/images-AGUSTIN.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV02_AGUSTIN_GARCIA.mp3"
+alt: "Federación monopoliza vacunación "
 front: false
-section: Local
+section: "Local"
+news_id: 184220
 ---
 
 La monopolización de la vacunación es un aspecto que denunció el suplente de diputado por el distrito décimo quinto, Agustín García, quien también es empresario y denunció que la federación no ha permitido que se dé una forma ágil de vacunación. Esto ya que les negó la petición de comprar la vacuna para empleados de diversos negocios en Chihuahua.

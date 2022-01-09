@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Debido a que la está aplicando el nivel federal no cuenta con las cifras de las aplicaciones."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-MM03_WENDY_AVILA.mp3
-alt: Vacunación de personal de hospitales privados ya se está dando -  Salud
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04_WENDY_AVILA.mp3"
+alt: "Vacunación de personal de hospitales privados ya se está dando -  Salud"
 front: false
-section: Local
+section: "Local"
+news_id: 183233
 ---
 
 La vacunación a personal que labora en hospitales privados en la primera línea de covid ya se está dando, señaló la Subdirectora de Medicina Preventiva y Promoción de la Salud Wendy Ávila Coronado. Sin embargo, debido a que la está aplicando el nivel federal no cuenta con las cifras de las aplicaciones.

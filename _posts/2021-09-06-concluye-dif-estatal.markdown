@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de las 68 emisiones, se informó y brindó entretenimiento de calidad a las y los chihuahuenses, a fin de contribuir en la reconstrucción del tejido social y elevar la calidad de vida   "
-image: /uploads/2021/images-WhatsApp_Image_2021-08-28_at_7.34.03_PM.jpeg
-video: nil
-audio: nil
-alt: Concluye DIF Estatal transmisión del programa “Valores Familia”
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-28_at_7.34.03_PM.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Concluye DIF Estatal transmisión del programa “Valores Familia”"
 front: false
-section: Local
+section: "Local"
+news_id: 187458
 ---
 
 El DIF Estatal finalizó las grabaciones y transmisión del programa “Valores Familia” que se difundió todos los viernes por la tarde, por las distintas redes socio digitales de Gobierno del Estado.

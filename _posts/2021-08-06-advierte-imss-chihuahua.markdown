@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El descontrol de la diabetes mellitus es la principal causa de ceguera, amputación no traumática de miembros inferiores y falla renal en todo el mundo"
-image: /uploads/2021/images-Foto_3664-1.jpg
-video: nil
-audio: nil
-alt: Advierte IMSS Chihuahua sobre las complicaciones de la diabetes 
+image: "/uploads/2021/images-Foto_3664-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Advierte IMSS Chihuahua sobre las complicaciones de la diabetes "
 front: false
-section: Local
+section: "Local"
+news_id: 186381
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua hace un recordatorio sobre los factores de riesgo de la diabetes, a fin de concientizar sobre las complicaciones de quienes la padecen.

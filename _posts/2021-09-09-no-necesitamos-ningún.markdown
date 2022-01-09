@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Laura Velázquez Alzúa, coordinadora nacional de Protección Civil, afirmó que debido al compromiso y la coordinación que hay en las diversas instituciones del gobierno federal no se necesita de ningún Fondo de Desastres Naturales"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: No necesitamos ningún Fonden para apoyar a la población ante desastres naturales -  PC
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "No necesitamos ningún Fonden para apoyar a la población ante desastres naturales -  PC"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187567
 ---
 
 Laura Velázquez Alzúa, coordinadora nacional de Protección Civil, afirmó que debido al compromiso y la coordinación que hay en las diversas instituciones del gobierno federal para apoyar en emergencias naturales, en donde hay funcionarios íntegros y comprometidos actuando con transparencia "no se necesita de ningún Fondo de Desastres Naturales (Fonden)”. 

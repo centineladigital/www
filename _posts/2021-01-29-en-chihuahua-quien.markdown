@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa Gobernador que la inversión en infraestructura para seguridad y administración de justicia alcanzó 387.7 millones de pesos, mientras que para el equipamiento de las fuerzas estatales se destinaron 595.7 millones"
-image: /uploads/2021/images-Ciencias_forenses.png
-video: nil
-audio: nil
-alt: En Chihuahua, quien la hace la paga, destaca Javier Corral
+image: "/uploads/2021/images-Ciencias_forenses.png"
+video: "nil"
+audio: "nil"
+alt: "En Chihuahua, quien la hace la paga, destaca Javier Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 182545
 ---
 
 En Chihuahua, quien la hace la paga y la administración de justicia es transparente y eficaz, señaló el gobernador Javier Corral Jurado, en mensaje a las y los chihuahuenses, rumbo al Cuarto Informe de Gobierno.

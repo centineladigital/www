@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Cerraron aproximadamente mil 30 empresas."
-image: /uploads/2021/images-EDIBRAY.jpg
-video: /uploads/2021/videos-MV06_EDIBRAY_GOMEZ.mp4
-audio: nil
-alt: Recupera 80 por ciento empresas que cerraron por pandemia
+image: "/uploads/2021/images-EDIBRAY.jpg"
+video: "/uploads/2021/videos-MV06_EDIBRAY_GOMEZ.mp4"
+audio: "nil"
+alt: "Recupera 80 por ciento empresas que cerraron por pandemia"
 front: false
-section: Local
+section: "Local"
+news_id: 187626
 ---
 
 De la cifra de empresas que cerraron durante la pandemia se ha recuperado un 80 por ciento de las empresas, según lo declaró el Presidente de la CANACO Edibray Gómez. Quien dijo que el primer semestre del 2020 cerrará mucho mejor que el 2020. Sin embargo, comparado con el 2019 se está muy cercano lo que representa “una franca recuperación” en las áreas comercial y turístico.

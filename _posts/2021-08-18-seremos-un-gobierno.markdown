@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "“A las mujeres juarenses les digo que no voy a descansar mientras haya una sola mujer en situación de violencia”"
-image: /uploads/2021/images-d67d2862-35f8-43bd-a968-445e48ee6930.jpg
-video: nil
-audio: nil
-alt: “Seremos un gobierno donde habrá cero tolerancia a la violencia contra las mujeres -  Cruz Pérez Cuéllar”
+image: "/uploads/2021/images-d67d2862-35f8-43bd-a968-445e48ee6930.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Seremos un gobierno donde habrá cero tolerancia a la violencia contra las mujeres -  Cruz Pérez Cuéllar”"
 front: false
-section: Local
+section: "Local"
+news_id: 186835
 ---
 
 Ciudad Juárez.- Cruz Pérez Cuéllar, presidente municipal electo de Juárez, consciente, sensible e informado sobre la deuda histórica que viven las mujeres y niñas, trabajará de manera comprometida y ardua, en el tema de la violencia que se ejerce contra ese importante grupo poblacional.

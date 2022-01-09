@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La noticia sobre la muerte de la actriz de doblaje Diana Pérez se dio a conocer recientemente. Te contamos lo que sabemos sobre la mexicana, su trayectoria, personajes y las reacciones sobre su muerte. "
-image: /uploads/2021/images-murio-diana-perez-actriz-doblaje.jpg
-video: nil
-audio: nil
-alt: Murió Diana Pérez, actriz de doblaje, que dio voz a 'Jessie' de Pokémon
+image: "/uploads/2021/images-murio-diana-perez-actriz-doblaje.jpg"
+video: "nil"
+audio: "nil"
+alt: "Murió Diana Pérez, actriz de doblaje, que dio voz a 'Jessie' de Pokémon"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184163
 ---
 
 Murió Diana Pérez, actriz de doblaje, que con su voz dio vida a personajes tales como el de Jessie de Pokémon, Luffy de One Piece o el de la mamá de Bunny en Toy Story 3. La noticia sobre el fallecimiento del icono en el doblaje mexicano de 51 años se dio a conocer ayer 27 de abril por la noche. ¿De qué murió Diana Pérez? ¿Quién era y cuál era su trayectoria? ¿Qué otros personajes interpretó Diana Pérez? Te contamos lo que sabemos. Fue a través de las redes sociales de Doblaje Mexicano en donde se confirmó la muerte de Diana Pérez de 51 años. La noticia sobre la muerte de la actriz de doblaje que participó en diversos proyectos internacionales conmocionó a los internautas, quienes posicionaron el nombre de la mexicana para hacer honor a su trabajo. “Con profundo dolor informamos que la actriz y directora de doblaje Diana Pérez ha fallecido. La eterna voz de Jessy del equipo Rocket. Descanse en paz”, escribió la página de Doblaje Mexicano. 

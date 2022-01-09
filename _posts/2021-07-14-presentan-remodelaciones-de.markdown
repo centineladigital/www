@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Presentan acciones para crear convivencia familiar."
-image: /uploads/2021/images-MARIA_LUISA.jpg
-video: /uploads/2021/videos-MW06_MARIA_LUISA_ALVAREZ.mp4
-audio: nil
-alt: Presentan remodelaciones de espacios públicos
+image: "/uploads/2021/images-MARIA_LUISA.jpg"
+video: "/uploads/2021/videos-MW06_MARIA_LUISA_ALVAREZ.mp4"
+audio: "nil"
+alt: "Presentan remodelaciones de espacios públicos"
 front: false
-section: Local
+section: "Local"
+news_id: 185668
 ---
 
 Este miércoles se dio a conocer las acciones que se llevaron a cabo dentro del presente año con el fin de recuperar espacios públicos y fomentar la convivencia familiar, según lo dio a conocer María Eugenia Álvarez, directora de Esparcimiento del DIF Estatal.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Presentan 43 proyectos de estudiantes de la UACH."
-image: /uploads/2021/images-01.jpg
-video: nil
-audio: /uploads/2021/audio-MW03_DAMINAN.mp3
-alt: Buscan estudiantes rescate de acuíferos
+image: "/uploads/2021/images-01.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW03_DAMINAN.mp3"
+alt: "Buscan estudiantes rescate de acuíferos"
 front: false
-section: Local
+section: "Local"
+news_id: 184804
 ---
 
 Estudiantes de postgrado prsentaron 43 investigaciones  inédita que tiene como fin el contribuir  a rescatar los acuíferos y a recuperar total o parcialmente un espacio de agua, según fue dado a conocer por parte de Damian Porras, director de la Facultad de Ciencias Agrotecnológicas UACH.

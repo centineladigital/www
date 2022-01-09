@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las precipitaciones pueden estar acompañadas de descargas eléctricas y caída de granizo"
-image: /uploads/2021/images-lluvias.jpg
-video: nil
-audio: nil
-alt: Seguirán las lluvias en la mayor parte del estado informa Protección Civil
+image: "/uploads/2021/images-lluvias.jpg"
+video: "nil"
+audio: "nil"
+alt: "Seguirán las lluvias en la mayor parte del estado informa Protección Civil"
 front: false
-section: Local
+section: "Local"
+news_id: 185796
 ---
 
 La Coordinación Estatal de Protección Civil informó que seguirán presentándose lluvias de moderadas a fuertes (25 a 50 mm) en partes de las zonas occidente y suroeste, como Moris y Morelos, acompañadas de descargas eléctricas y caída de granizo.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El compositor de 79 años, Bob Dylan, ha sido demandado por la viuda del que fuera su colaborador en 1975, Jacques Levy. "
-image: /uploads/2021/images-bob-dylan-vendio-catalogo-musical.jpg
-video: nil
-audio: nil
-alt: Bob Dylan enfrenta demanda millonaria tras vender su catálogo musical; ésta es la razón
+image: "/uploads/2021/images-bob-dylan-vendio-catalogo-musical.jpg"
+video: "nil"
+audio: "nil"
+alt: "Bob Dylan enfrenta demanda millonaria tras vender su catálogo musical; ésta es la razón"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182325
 ---
 
 Un mes después de la adquisición por parte de Universal Music del catálogo musical de 600 canciones de Bob Dylan, el compositor de 79 años ha sido demandado por la viuda del que fuera su colaborador, Jacques Levy, al considerar que sus herederos no han sido compensados de manera justa. 

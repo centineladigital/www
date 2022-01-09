@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se registran 120 nuevos casos y 12 defunciones en las últimas 24 horas."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-ML02_ARTURO_VALENZUELA.mp3
-alt: Reportan descenso de casos de COVID
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML02_ARTURO_VALENZUELA.mp3"
+alt: "Reportan descenso de casos de COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 182788
 ---
 
 Este lunes el Director Médico de la Zona Norte, Arturo Valenzuela Zorrilla señaló que se está registrando un descenso de casos y aplanación de la gráfica de casos de coronavirus, esto ya que se han registrado un promedio de 500 caso por semana de casos.

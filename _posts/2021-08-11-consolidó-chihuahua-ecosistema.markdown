@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el programa Logros con Valor, se informa el alcance del CIITA y el IA Center en Juárez, el Spark en Chihuahua, el Hub Tecnológico Agroindustrial en Delicias y el Cenaltec en construcción en Cuauhtémoc"
-image: /uploads/2021/images-IMG_6997.JPG
-video: nil
-audio: nil
-alt: Consolidó Chihuahua ecosistema de emprendimiento con centros de innovación tecnológica
+image: "/uploads/2021/images-IMG_6997.JPG"
+video: "nil"
+audio: "nil"
+alt: "Consolidó Chihuahua ecosistema de emprendimiento con centros de innovación tecnológica"
 front: false
-section: Local
+section: "Local"
+news_id: 186559
 ---
 
 Los centros de innovación tecnológica construidos con inversión sin precedente en las ciudades de Juárez, Chihuahua, Delicias y Cuauhtémoc, consolidaron en Chihuahua un ecosistema de emprendimiento que democratiza la capacitación, genera valor agregado en los procesos económicos y empleos mejor pagados.

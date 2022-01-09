@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A la fecha suman 66,361 contagios y 6,829 fallecimientos, de los cuales el 41% son mujeres y 59% hombres; Chihuahua capital registró tres defunciones, tres fueron en Cuauhtémoc, mientras que Jiménez y Guerrero reportaron uno"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporta Salud 29 nuevos casos positivos  y ocho decesos por COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporta Salud 29 nuevos casos positivos  y ocho decesos por COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184377
 ---
 
 En el Reporte COVID-19 Conferencia Informativa #405, Virtual #365, la Secretaría de Salud informó que tenemos en el estado de Chihuahua un total general de 66,361 (+29) casos confirmados, así como 54,577 (+62) recuperados, 34,110 (+22) descartados y  1,903 (-96) sospechosos.

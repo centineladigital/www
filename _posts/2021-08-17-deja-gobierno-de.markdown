@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Presenta Gobernador su Quinto Informe y destaca que se le regresó a la frontera lo que en justicia le corresponde; conoce aquí el listado de las grandes obras de infraestructura que mejoran la calidad de vida de las y los juarenses"
-image: /uploads/2021/images-CJ_Edificio_FEM.jpg
-video: nil
-audio: nil
-alt: Deja Gobierno de Javier Corral legado de 1,401 obras en Juárez con inversión de 7 mil 800 mdp
+image: "/uploads/2021/images-CJ_Edificio_FEM.jpg"
+video: "nil"
+audio: "nil"
+alt: "Deja Gobierno de Javier Corral legado de 1,401 obras en Juárez con inversión de 7 mil 800 mdp"
 front: false
-section: Local
+section: "Local"
+news_id: 186771
 ---
 
 El gobernador Javier Corral Jurado presenta a las y los juarenses su Quinto Informe de Gobierno, en el que detalla el alcance de 1,401 obras y acciones con una inversión acumulada de 7 mil 800 millones de pesos, con la que se logró devolverle a Juárez lo que en justicia le corresponde.

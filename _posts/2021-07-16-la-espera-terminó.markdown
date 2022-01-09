@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Shakira lanzó este viernes su nueva canción y video musical de 'Don´t Wait Up', tema que formará parte de un disco que podría salir en 2022. "
-image: /uploads/2021/images-shakira-grabo-video-cancion-isla.jpg
-video: nil
-audio: nil
-alt: ¡La espera terminó! Shakira lanza canción y video de 'Don´t Wait Up'; formará parte de su nuevo disco
+image: "/uploads/2021/images-shakira-grabo-video-cancion-isla.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡La espera terminó! Shakira lanza canción y video de 'Don´t Wait Up'; formará parte de su nuevo disco"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185726
 ---
 
 Hace unas semanas Shakira adelantó en una entrevista que en julio lanzaría una nueva canción y que incluso estaba afinando los últimos detalles del video musical, ahora, la colombiana compartió con sus fans su nuevo tema el cual formará parte de un disco que de acuerdo con la cantante podría salir al mercado el próximo año.

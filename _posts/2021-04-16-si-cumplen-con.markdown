@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Dirección General de Gobierno informó que deberán cumplir con las restricciones del semáforo epidemiológico para prevenir contagios de COVID-19"
-image: /uploads/2021/images-SALONES_FIESTA.jpeg
-video: nil
-audio: nil
-alt: Si cumplen con medidas sanitarias salones de eventos y granjas en Región Chihuahua podrían tener actividad
+image: "/uploads/2021/images-SALONES_FIESTA.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Si cumplen con medidas sanitarias salones de eventos y granjas en Región Chihuahua podrían tener actividad"
 front: false
-section: Local
+section: "Local"
+news_id: 183925
 ---
 
 La Dirección General de Gobierno informó que en la Región Chihuahua se podrán realizar eventos en salones y granjas, siempre y cuando éstos cumplan con las medidas necesarias para prevenir contagios de COVID-19.

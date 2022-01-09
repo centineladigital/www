@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "“De esta manera pudimos apoyar a más de 690 mil beneficiarios, entre personas físicas, familias y empresas, en los 67 municipios del estado”: Javier Corral"
-image: /uploads/2021/images-DAH_2937.jpeg
-video: nil
-audio: nil
-alt:  Con 3 mil 465 mdp, Chihuahua es el estado que más recursos invirtió para hacer frente a COVID-19
+image: "/uploads/2021/images-DAH_2937.jpeg"
+video: "nil"
+audio: "nil"
+alt: " Con 3 mil 465 mdp, Chihuahua es el estado que más recursos invirtió para hacer frente a COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 182658
 ---
 
 Con la implementación del Plan Emergente de Apoyo y Protección a la Salud, Empleo e Ingreso Familiar, que alcanzó la cifra de 3 mil 465 millones de pesos, el Estado de Chihuahua fue el que más recursos propios invirtió para disminuir el impacto económico y de salud generado por la pandemia del COVID-19, como se puede constatar en los datos de la organización México Evalúa.

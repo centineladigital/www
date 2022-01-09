@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El litigante externó los motivos por los que demandará a Sergio Mayer. Aseguró que el político sí está incumpliendo la ley, pues no tenía nada qué ver en la denuncia de Ginny Hoffman y Alexa Parra en contra de Héctor Parra."
-image: /uploads/2021/images-abogado-ginny-hoffman-demandara-sergio.jpg
-video: nil
-audio: nil
-alt: Un stripper -  Ex abogado de Ginny Hoffman demandará a Sergio Mayer por tráfico de influencias
+image: "/uploads/2021/images-abogado-ginny-hoffman-demandara-sergio.jpg"
+video: "nil"
+audio: "nil"
+alt: "Un stripper -  Ex abogado de Ginny Hoffman demandará a Sergio Mayer por tráfico de influencias"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185166
 ---
 
 Sergio Mayer está en la mira, pues próximamente será demandado por Alonso Beceiro, ex abogado de Alexa Parra y Ginny Hoffman por tráfico de influencias. El especialista en leyes arremetió en su contra, luego de que el ex Garibaldi hablara mal de su labor cuando fue representante de la presunta víctima, quien acusó a su padre, Héctor Parra, por presuntamente haber abusado de ella cuando era una niña. Y es que aunque se ha señalado que Sergio Mayer intervino en la detención del actor Héctor Parra, el funcionario público lo ha negado. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Ejercerán más de 86 millones en acciones para mejoras en la infraestructura de la ciudad."
-image: /uploads/2021/images-MANQUE.jpg
-video: nil
-audio: /uploads/2021/audio-MJ04_MARIA_ANGELICA_GRANADOS.mp3
-alt: Toma protesta María Angelica Granados en COPLADEMUN
+image: "/uploads/2021/images-MANQUE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ04_MARIA_ANGELICA_GRANADOS.mp3"
+alt: "Toma protesta María Angelica Granados en COPLADEMUN"
 front: false
-section: Local
+section: "Local"
+news_id: 182530
 ---
 
 Este jueves tomó protesta la como presidente del Comité de Desarrollo Municipal la Alcaldesa de Chihuahua, María Angélica Granados Trespalacios. Esto tras la licencia de María Eugenia Campos Galván.

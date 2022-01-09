@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Desde la Canaco estarán muy atentos en las propuestas"
-image: /uploads/2021/images-EFGEGER.jpg
-video: nil
-audio: /uploads/2021/audio-AW01_EDIBRAY_GOMEZ.mp3
-alt: Insta Canaco a candidatos y partidos se enfoquen en propuestas y dejen las peleas 
+image: "/uploads/2021/images-EFGEGER.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AW01_EDIBRAY_GOMEZ.mp3"
+alt: "Insta Canaco a candidatos y partidos se enfoquen en propuestas y dejen las peleas "
 front: false
-section: Local
+section: "Local"
+news_id: 182676
 ---
 
 En torno al inicio de las campañas políticas en vistas de las elecciones de este año,  el presidente de Canaco Chihuahua, Edibray Gómez Gallegos, insto a todos los participantes y precandidatos a dejar las descalificaciones y peleas y se enfoquen en dar propuestas.

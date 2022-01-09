@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El presidente Andrés Manuel López Obrador aseguró que México está abierto a recibir nuevas inversiones españolas, pero debe quedar claro que el país vive una nueva etapa y ya no se permite robar. "
-image: /uploads/2021/images-mandatario-ofrecio-conferencia-mananera-julio_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: México está abierto a empresas españolas, pero ya no se puede robar -  AMLO
+image: "/uploads/2021/images-mandatario-ofrecio-conferencia-mananera-julio_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "México está abierto a empresas españolas, pero ya no se puede robar -  AMLO"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185648
 ---
 
 

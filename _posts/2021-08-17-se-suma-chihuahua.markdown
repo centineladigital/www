@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La entidad es de las primeras en implementar este modelo de enseñanza surgido en Alemania, que adapta la realidad nacional con la formación empresa-escuela y cuenta con financiamiento de la Sociedad Alemana para la Cooperación Internacional “GIZ” en México y el apoyo de GOPA Worldwide Consultants"
-image: /uploads/2021/images-MME1.jpg
-video: nil
-audio: nil
-alt: Se suma Chihuahua al proyecto  para consolidar Sistema de Educación Dual en México
+image: "/uploads/2021/images-MME1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se suma Chihuahua al proyecto  para consolidar Sistema de Educación Dual en México"
 front: false
-section: Local
+section: "Local"
+news_id: 186782
 ---
 
 La Secretaría de Educación y Deporte (SEyD) se sumó al proyecto “Consolidación y Escalamiento del Sistema de Educación Dual en México”, que lleva a cabo la Secretaría de Educación Pública (SEP), a fin de consolidar el aprendizaje, habilidades y experiencia del alumnado, así como contribuir a mejorar los procesos operativos del sector empresarial.

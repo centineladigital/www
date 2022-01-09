@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Exigieron el esclarecimiento del asesinato de este líder."
-image: /uploads/2021/images-ESTELA_MONDRAGON.jpg
-video: nil
-audio: /uploads/2021/audio-ML06.mp3
-alt: Piden justicia a 11 años de muerte de Ernesto Rábago
+image: "/uploads/2021/images-ESTELA_MONDRAGON.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML06.mp3"
+alt: "Piden justicia a 11 años de muerte de Ernesto Rábago"
 front: false
-section: Local
+section: "Local"
+news_id: 183214
 ---
 
 A once años de la muerte de Ernesto Rábago Martínez este lunes integrantes de la Asociación civil Bowerasa exigieron el esclarecimiento del asesinato de este líder. Según lo declaró Estela Ángeles Mondragón, quien dijo que no se ha hecho nada para dar con los asesinos del defensor de la comunidad.

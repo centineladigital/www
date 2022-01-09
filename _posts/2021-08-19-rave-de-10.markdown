@@ -3,35 +3,36 @@ layout: post
 title: "'Rave' de 10 mil personas en Italia termina con un muerto, un caso covid y denuncias por violación"
 date: 2021-08-19T16:31:00.000-06:00
 tags:
-
+  
   - rave
-
+  
   - Italia
-
+  
 author: nil
 description: "El evento se realizó a orillas del lago Mezzano, en la región del Lacio, donde actualmente continúan 250 personas, pese a que ya no hay actividades"
-image: /uploads/2021/images-rave-inicio-agosto-reunio-mil.jpg
-video: nil
-audio: nil
-alt: Rave de 10 mil personas en Italia termina con un muerto un caso covid y denuncias por violación
+image: "/uploads/2021/images-rave-inicio-agosto-reunio-mil.jpg"
+video: "nil"
+audio: "nil"
+alt: "'Rave' de 10 mil personas en Italia termina con un muerto, un caso covid y denuncias por violación"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186873
 ---
 
-Un rave que se realizó de forma ilegal en una área privada a orillas del lago Mezzano, en la región del Lacio, Italia, y que tuvo la participación de 10 mil personas terminó ayer con un saldo de una persona fallecida, un caso de coronavirus covid-19, tres denuncias por violación y hasta la muerte de varios perros.
+Un rave que se realizó de forma ilegal en una área privada a orillas del lago Mezzano, en la región del Lacio, Italia, y que tuvo la participación de 10 mil personas terminó ayer con un saldo de una persona fallecida, un caso de coronavirus covid-19, tres denuncias por violación y hasta la muerte de varios perros. 
 
-Las autoridades locales indicaron que los miles de jóvenes originarios de varios países europeos, comenzaron abandonar el lugar desde anoche, luego de que los organizadores decidieron terminar con la fiesta que comenzó el 15 de agosto.
+Las autoridades locales indicaron que los miles de jóvenes originarios de varios países europeos, comenzaron abandonar el lugar desde anoche, luego de que los organizadores decidieron terminar con la fiesta que comenzó el 15 de agosto. 
 
 Comentaron que actualmente, cerca de 250 personas continúan en el lugar, pese a que ya concluyeron las actividades, ya que se tenía previsto terminar la fiesta hasta el 23 de agosto. La reunión ilegal había sido duramente criticada por el alcalde de Valentano, Stefano Bigiotti, por "comprometer la seguridad de toda la comunidad local, no sólo por los altísimos riesgos asociados a la emergencia epidemiológica", sino también por los posibles daños ambientales.
 
-El alcalde expresó su deseo de que "los culpables de esta perversa y vergonzosa iniciativa puedan ser identificados y llevados ante la justicia sin demora". La polémica se intensificó tras de la muerte de un joven italo-inglés de 25 años, cuyo cuerpo fue encontrado por buzos en el lago, donde sus amigos afirmaron que se había adentrado durante la noche, según fuentes policiales.
+El alcalde expresó su deseo de que "los culpables de esta perversa y vergonzosa iniciativa puedan ser identificados y llevados ante la justicia sin demora". La polémica se intensificó tras de la muerte de un joven italo-inglés de 25 años, cuyo cuerpo fue encontrado por buzos en el lago, donde sus amigos afirmaron que se había adentrado durante la noche, según fuentes policiales. 
 
-A pesar de su muerte, la fiesta no se detuvo e incluso se reportaron cinco casos de personas hospitalizadas por comas etílicos y consumo de drogas, de los cuales uno dio positivo a coronavirus. De acuerdo con el periódico La Repubblica, durante el rave hubo tres denuncias por violaciones y se han avistado perros que han muerto por el calor e inanición.
+A pesar de su muerte, la fiesta no se detuvo e incluso se reportaron cinco casos de personas hospitalizadas por comas etílicos y consumo de drogas, de los cuales uno dio positivo a coronavirus. De acuerdo con el periódico La Repubblica, durante el rave hubo tres denuncias por violaciones y se han avistado perros que han muerto por el calor e inanición. 
 
 Políticos como el líder de la Liga, Matteo Salvini, han pedido responsabilidades a la ministra del Interior, Luciana Lamorgese, por no haber actuado ante esta situación "totalmente fuera de control".
 
-Sin embargo, el delegado del gobierno en Viterbo, Giancarlo Sant'Elia, explicó que "el desalojo era imposible, pues los miles de participantes están repartidos en una superficie de 30 hectáreas". Aunque ahora, el ayuntamiento tendrá que enfrentarse a la limpieza del terreno y evaluar los daños.
+Sin embargo, el delegado del gobierno en Viterbo, Giancarlo Sant'Elia, explicó que "el desalojo era imposible, pues los miles de participantes están repartidos en una superficie de 30 hectáreas". Aunque ahora, el ayuntamiento tendrá que enfrentarse a la limpieza del terreno y evaluar los daños. 
 
-"La Guardia Forestal nos ha dicho que habría grandes cantidades de basura. Pero, ¿Cómo se encarga un municipio de 3 mil habitantes de la basura que dejan 15 mil? No tenemos los recursos", lamentó el alcalde.
+"La Guardia Forestal nos ha dicho que habría grandes cantidades de basura. Pero, ¿Cómo se encarga un municipio de 3 mil habitantes de la basura que dejan 15 mil? No tenemos los recursos", lamentó el alcalde. 
 
 (Milenio)

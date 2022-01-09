@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El congresista demócrata Bennie Thompson presenta una demanda en la que acusa al expresidente Trump y a su abogado, Rudolph Giuliani, de conspirar para incitar disturbios en el Capitolio"
-image: /uploads/2021/images-2530386.jpg
-video: nil
-audio: nil
-alt: Presentan demanda contra Trump por conspiración
+image: "/uploads/2021/images-2530386.jpg"
+video: "nil"
+audio: "nil"
+alt: "Presentan demanda contra Trump por conspiración"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182952
 ---
 
 Un congresista demócrata presentó este martes una demanda en la que acusa al expresidente Donald Trump y a su abogado, Rudolph Giuliani, de conspirar para incitar un violento disturbio en el Congreso de Estados Unidos el 6 de enero.

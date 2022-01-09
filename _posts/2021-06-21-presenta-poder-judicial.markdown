@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Menores no deben ser tratados como adultos. "
-image: /uploads/2021/images-G1.jpg
-video: nil
-audio: /uploads/2021/audio-ML01_GABRIEL_RUIZ.mp3
-alt: Presenta Poder Judicial protocolos de atención para niñas, niños y adolescentes
+image: "/uploads/2021/images-G1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML01_GABRIEL_RUIZ.mp3"
+alt: "Presenta Poder Judicial protocolos de atención para niñas, niños y adolescentes"
 front: false
-section: Local
+section: "Local"
+news_id: 185153
 ---
 
 Debido a que se debe de fomentar la no discriminación y no afectación de sus derechos por parte del Tribunal Superior de Justicia se llevó a cabo un programa virtual de actualización en derechos humanos y género, el cual fue impartido por el Magistrado Consejero Gabriel Armando Ruiz Gámez, presidente de la Comisión de Carrera Judicial.

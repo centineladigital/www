@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: ""
-image: /uploads/2021/images-MONICA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01_MONICA_VARGAS.mp3
-alt: Pide función pública denunciar uso de recursos en elecciones
+image: "/uploads/2021/images-MONICA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01_MONICA_VARGAS.mp3"
+alt: "Pide función pública denunciar uso de recursos en elecciones"
 front: false
-section: Local
+section: "Local"
+news_id: 184823
 ---
 
 De forma anónima en la plataforma del Gobierno Estatal se pude denunciar el uso de recursos públicos en las elecciones, señalando por parte de la titular de la Secretaría de la Función Pública, Mónica Vazgas Ruiz, quien dijo que se lleva cabo un operativo para asegurar vehículos oficiales, así como el restringir acceso a los edificios públicos.

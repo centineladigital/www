@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Estrena el tema “¿Dónde estoy yo?”, balada creada para ella por el compositor Joss Favela. "
-image: /uploads/2021/images-yuri.jpg
-video: nil
-audio: nil
-alt: Yuri es creativa para no ser del montón
+image: "/uploads/2021/images-yuri.jpg"
+video: "nil"
+audio: "nil"
+alt: "Yuri es creativa para no ser del montón"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182853
 ---
 
 Yuri ha apostado por los nuevos medios digitales y las redes sociales para continuar el desarrollo de su carrera. En TikTok la cantante ha descubierto una nueva herramienta para la distribución musical, así como otra forma de estar cerca de sus seguidores, una plataforma en la que se ha vuelto muy popular con videos que rondan las 5 millones de visualizaciones y para los que, asegura también realiza una producción importante. 

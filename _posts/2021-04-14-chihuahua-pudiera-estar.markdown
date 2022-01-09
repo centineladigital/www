@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Casi 300 casos fueron detectados de personas contagiadas por coronavirus."
-image: /uploads/2021/images-diapositiva3-308.jpg
-video: nil
-audio: /uploads/2021/audio-MW04_WENDY_AVILA.mp3
-alt: Chihuahua pudiera estar en el inicio de otra ola COVID
+image: "/uploads/2021/images-diapositiva3-308.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW04_WENDY_AVILA.mp3"
+alt: "Chihuahua pudiera estar en el inicio de otra ola COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 183895
 ---
 
 “Podemos estar en el inicio de otra ola” fueron las palabras de la Subdirectora de Medicina Preventiva y Promoción de la Salud, Wendy Avila Coronado. Quien señaló que se deben de extremar precauciones ya que se tiene un incremento similar a lo que se vivió en el mes de octubre del año pasado.

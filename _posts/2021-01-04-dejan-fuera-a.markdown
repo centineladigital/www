@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El diario francés L’Equipe elige a Cristiano Ronaldo, Robert Lewandowski y Neymar en el ataque"
-image: /uploads/2021/images-2506050.jpg
-video: nil
-audio: nil
-alt: Dejan fuera a Messi del once ideal 2020
+image: "/uploads/2021/images-2506050.jpg"
+video: "nil"
+audio: "nil"
+alt: "Dejan fuera a Messi del once ideal 2020"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 181834
 ---
 
 El argentino Lionel Messi no figura en el once ideal del 2020 del diario L’Equipe y puso en el ataque a los atacantes Cristiano Ronaldo, Robert Lewandowski y Neymar.

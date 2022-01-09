@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En esta secuela la acompañan Ryan Reynolds, Samuel L. Jackson y Antonio Banderas en la piel de un extravagante villano."
-image: /uploads/2021/images-salma-hayek-instagram-5.jpg
-video: nil
-audio: nil
-alt: Liberador -  Salma Hayek revela cómo fue trabajar con Ryan Reynolds en 'Duro de cuidar 2'
+image: "/uploads/2021/images-salma-hayek-instagram-5.jpg"
+video: "nil"
+audio: "nil"
+alt: "Liberador -  Salma Hayek revela cómo fue trabajar con Ryan Reynolds en 'Duro de cuidar 2'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185074
 ---
 
  Duro de cuidar 2 es una comedia de acción que según Salma Hayek, una de sus protagonistas, hará que muchas mujeres se sientan "reivindicadas" gracias al papel que interpreta: el de una latina salvaje, deslenguada y capaz de darle bofetadas a Ryan Reynolds cuando se las merece.  "Todavía hay mucha discriminación de edad, sobre todo cuando se habla de mujeres. Y eso es una cosa que mi personaje, Sonia, no soporta. (…) Ella es explosiva por naturaleza, pero si la quieres ver explotar más allá de lo concebible, insinúa algo sobre su edad y entonces prepárate", advirtió. 

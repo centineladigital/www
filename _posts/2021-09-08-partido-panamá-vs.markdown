@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El partido entre Panamá y México se adelantó una hora"
-image: /uploads/2021/images-imago-1113939.jpg
-video: nil
-audio: nil
-alt: Partido Panamá vs México de eliminatorias de Concacaf cambia de horario
+image: "/uploads/2021/images-imago-1113939.jpg"
+video: "nil"
+audio: "nil"
+alt: "Partido Panamá vs México de eliminatorias de Concacaf cambia de horario"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187534
 ---
 
 Esta tarde se llevará a cabo la tercera jornada del octagonal de la Concacaf y la Selección Mexicana estará visitando a su similar de Panamá en el estadio Rommel Fernández, partido que sufrió modificaciones a pocas horas de realizarse.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El conductor no pudo ocultar su miedo a los perros y comenzó a temblar cuando la perrita se le acercó; su reacción sorprendió a los conductores de TV Azteca. "
-image: /uploads/2021/images-pedro-sola-se-asusta-al_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Odio a los perros -  Así reaccionó Pedro Sola al ver un chihuahua en foro de 'Ventaneando'
+image: "/uploads/2021/images-pedro-sola-se-asusta-al_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Odio a los perros -  Así reaccionó Pedro Sola al ver un chihuahua en foro de 'Ventaneando'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184702
 ---
 
 Pedro Sola es una de las personalidades más controversiales de la televisión mexicana, pues el conductor suele protagonizar con frecuencia incómodos momentos durante las transmisiones de Ventaneando, como su error al promocionar una marca de mayonesa o su irreverente baile. Ahora, el famoso volvió a causar polémica por su inesperada reacción al ver a un chihuahua en el foro del programa de TV Azteca.  Todo sucedió cuando Mónica Castañeda presentaba una noticia sobre el personaje de Armando Manzanero en la serie de Luis Miguel. Sin embargo, mientras daba la información, la chihuahua que estaba recostada en el sillón de la conductora comenzó a recorrer el foro, lo que llevó a Pedro Sola a confesar que no le gustan los perros.  

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Chayanne sorprendió a todos cuando Alan Tacher lo presentó luego de escuchar una dura crítica de Lolita Cortés.  "
-image: /uploads/2021/images-lolita-cortes-critico-canciones-chayanne.jpg
-video: nil
-audio: nil
-alt: Que fuerte la Lolita; el día en que Chayanne reaccionó a crítica de juez de La Academia
+image: "/uploads/2021/images-lolita-cortes-critico-canciones-chayanne.jpg"
+video: "nil"
+audio: "nil"
+alt: "Que fuerte la Lolita; el día en que Chayanne reaccionó a crítica de juez de La Academia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184735
 ---
 
 Chayanne es uno de los cantantes más queridos, amados y mediáticos de los últimos años y cómo no serlo con sus pasos de baile o sus pegajosas canciones que te invitan a celebrar fiestas en América o inclusive te puede enamorar con sus románticas baladas que van desde pedir perdón hasta confesar un amor; sin embargo, uno de los momentos olvidados en la carrera de este boricua fue cuando participó como juez de La Academia. El cantante puertorriqueño sorprendió a todos cuando el conductor de este programa de televisión, Alan Tacher, lo presentó luego de una dura crítica de la célebre jueza de La Academia, Lolita Cortés, en el que criticó la selección de canciones que les hacían a algunos participantes de aquel reality show. 

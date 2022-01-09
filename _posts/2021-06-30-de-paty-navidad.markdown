@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "TV Azteca reveló la lista oficial de celebridades que participarán en el reality de cocina, el cual será conducido por Rebecca de Alba. "
-image: /uploads/2021/images-ellos-son-los-famosos-que.jpg
-video: nil
-audio: nil
-alt: De Paty Navidad a Stephanie Salas... Ellos son los famosos que estarán en 'MasterChef Celebrity'
+image: "/uploads/2021/images-ellos-son-los-famosos-que.jpg"
+video: "nil"
+audio: "nil"
+alt: "De Paty Navidad a Stephanie Salas... Ellos son los famosos que estarán en 'MasterChef Celebrity'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185321
 ---
 
 TV Azteca anunció el comienzo de las grabaciones de MasterChef Celebrity, una nueva edición del reality show que pondrá a prueba las habilidades culinarias y de invención de más de 15 famosos. Pese a las especulaciones que se generaron en torno a la famosa que estaría al frente de la nueva temporada, por fin se confirmó que Rebecca de Alba será la conductora del programa de la televisora del Ajusco.  

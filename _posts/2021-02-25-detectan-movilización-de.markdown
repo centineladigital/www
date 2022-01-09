@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Pide que no se dé la movilización para evitar conglomeraciones."
-image: /uploads/2021/images-MIRNA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01_MIRNA_BELTRÁN.mp3
-alt: Detectan movilización de personas por vacunación COVID
+image: "/uploads/2021/images-MIRNA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01_MIRNA_BELTRÁN.mp3"
+alt: "Detectan movilización de personas por vacunación COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 183162
 ---
 
 Personas que radican en ciudades se están movilizando con el fin de ser vacunadas contra el coronavirus han sido detectadas, según lo dio a conocer la Subsecretaria de Promoción de la Salud, Mirna Beltrán Arzaga.

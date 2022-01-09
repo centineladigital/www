@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se trata de la casilla 0667 de Guadalupe Victoria, la cual no fue colocada por amenazas que recibieron los funcionarios de casilla"
-image: /uploads/2021/images-2590567.jpg
-video: nil
-audio: nil
-alt: Por amenazas no colocan casilla electoral en Jerez, Zacatecas
+image: "/uploads/2021/images-2590567.jpg"
+video: "nil"
+audio: "nil"
+alt: "Por amenazas no colocan casilla electoral en Jerez, Zacatecas"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184881
 ---
 
 Una casilla no colocada en el municipio de Jerez en Zacatecas es el mayor incidente en la apertura de casillas reportado por la Junta Local Ejecutiva del INE en ese estado. Se trata de la casilla 0667 de Guadalupe Victoria, la cual no fue colocada por amenazas que recibieron sus integrantes.

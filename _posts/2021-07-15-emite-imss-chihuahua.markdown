@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante las vacaciones se registra un incremento considerable en accidentes infantiles, que ocurren principalmente en el hogar."
-image: /uploads/2021/images-Foto_3148-1.jpg
-video: nil
-audio: nil
-alt: Emite IMSS Chihuahua recomendaciones para prevenir riesgos y accidentes más comunes en vacaciones
+image: "/uploads/2021/images-Foto_3148-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Emite IMSS Chihuahua recomendaciones para prevenir riesgos y accidentes más comunes en vacaciones"
 front: false
-section: Local
+section: "Local"
+news_id: 185699
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua exhorta a la población a extremar precauciones y supervisar las actividades de menores, adolescentes y personas de la tercera edad para evitar accidentes durante la temporada vacacional.

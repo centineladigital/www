@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se trata de un ácaro que transmite múltiples enfermedades infeccionas como la ricketsia, el tifus y la enfermedad de Lyme, entre otras; para evitar su propagación se requiere hacer limpieza en patios y frentes de las casas, fumigar, así como asear a las mascotas."
-image: /uploads/2021/images-Prevención_de_rickettsia.jpg
-video: nil
-audio: nil
-alt: Recomienda Secretaría de Salud cuidar higiene en hogares y mascotas  para prevenir picadura de garrapata.
+image: "/uploads/2021/images-Prevención_de_rickettsia.jpg"
+video: "nil"
+audio: "nil"
+alt: "Recomienda Secretaría de Salud cuidar higiene en hogares y mascotas  para prevenir picadura de garrapata."
 front: false
-section: Local
+section: "Local"
+news_id: 185436
 ---
 
 La Secretaría de Salud, a través del Programa Zoonosis, exhorta a las y los ciudadanos a implementar  las medidas de limpieza e higiene necesarias en sus hogares y mascotas,  para prevenir los padecimientos que pueden transmitirse de los animales a los seres humanos. El coordinador estatal del citado programa, Sergio Román Mendoza, indicó que hasta la semana 25 del presente año, se registraron 21 casos, y de éstos, 5 resultaron en defunciones, afectando principalmente a menores de entre 4 y 14 años.

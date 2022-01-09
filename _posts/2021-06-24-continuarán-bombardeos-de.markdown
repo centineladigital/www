@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que esto es para beneficio de zonas de temporal."
-image: /uploads/2021/images-EMILIO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ06.mp3
-alt: Continuarán bombardeos de nubes -  García Ruiz
+image: "/uploads/2021/images-EMILIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ06.mp3"
+alt: "Continuarán bombardeos de nubes -  García Ruiz"
 front: false
-section: Local
+section: "Local"
+news_id: 185226
 ---
 
 Debido a que el bombardeo de nubes fue un éxito, continuarán llevando a cabo estos operativos según lo dio a conocer el titular de la Secretaría de Seguridad Pública, Emilio García Ruiz. Quien dijo que según fue informado esto se lleva a cabo en un polígono controlado, esto asesorado por el Sistema Meteorológico Nacional.

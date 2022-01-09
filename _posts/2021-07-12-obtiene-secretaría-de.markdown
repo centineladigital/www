@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Para fortalecer y dignificar la función policial, se mejoraron las condiciones salariales de las y los elementos de la Fiscalía General del Estado y de la Secretaría de Seguridad Pública Estatal."
-image: /uploads/2021/images-WhatsApp_Image_2021-07-12_at_09.53.34.jpeg
-video: nil
-audio: nil
-alt: Obtiene Secretaría de Hacienda 58 mdp en subastas de bienes que ya no le son útiles
+image: "/uploads/2021/images-WhatsApp_Image_2021-07-12_at_09.53.34.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Obtiene Secretaría de Hacienda 58 mdp en subastas de bienes que ya no le son útiles"
 front: false
-section: Local
+section: "Local"
+news_id: 185579
 ---
 
 Con base en los lineamientos del Decreto de Austeridad, la Secretaría de Hacienda logró ahorros significativos en gastos de comunicación social, contratación de asesorías, telefonía celular, uso de aeronaves y enajenación de bienes, señaló el subsecretario de Administración de la Secretaría de Hacienda, Rodolfo Noble San Román.

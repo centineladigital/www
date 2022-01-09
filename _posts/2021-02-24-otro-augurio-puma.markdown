@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Erik Lira no duda que los Pumas corregirán el camino en este Clausura 2021. No queda satisfecho"
-image: /uploads/2021/images-2534994.jpg
-video: nil
-audio: nil
-alt: Otro augurio puma; garantizan revertir mal momento
+image: "/uploads/2021/images-2534994.jpg"
+video: "nil"
+audio: "nil"
+alt: "Otro augurio puma; garantizan revertir mal momento"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183124
 ---
 
 Así como hace poco más de dos meses, Erik Lira aseguró que los Pumas iban a remontar el 4-0 en contra de las semifinales que afrontaron contra Cruz Azul el torneo pasado, algo a la postre terminó sucediendo, esta vez el mediocampista de los universitarios garantizó que revertirán el mal momento que viven en el presente Guardianes Clausura 2021, certamen en el que marchan en la penúltima posición de la clasificación con cinco puntos después de siete fechas. 

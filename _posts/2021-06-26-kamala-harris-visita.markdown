@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La vicepresidenta estadunidense pidió dejar de politizar la crisis migratoria; llama a atender las causas y efectos de este fenómeno"
-image: /uploads/2021/images-2601617.jpg
-video: nil
-audio: nil
-alt: Kamala Harris visita la frontera; insta a dar prioridad a los niños migrantes
+image: "/uploads/2021/images-2601617.jpg"
+video: "nil"
+audio: "nil"
+alt: "Kamala Harris visita la frontera; insta a dar prioridad a los niños migrantes"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185256
 ---
 
 La vicepresidenta de Estados Unidos, Kamala Harris, pidió dejar de politizar la crisis migratoria y dar prioridad a los niños que llegan a la frontera que comparten con México.

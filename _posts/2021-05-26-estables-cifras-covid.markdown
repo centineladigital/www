@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se acreditaron 4 muertes más y dieron 82 personas positivo a la prueba PCR."
-image: /uploads/2021/images-LETICIA.jpg
-video: nil
-audio: /uploads/2021/audio-MW01_LETICIA_RUIZ.mp3
-alt: Estables cifras COVID
+image: "/uploads/2021/images-LETICIA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW01_LETICIA_RUIZ.mp3"
+alt: "Estables cifras COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 184675
 ---
 
 Como estables calificó la Directora de Medicina Preventiva y Promoción de la Salud las cifras de casos positivos de coronavirus, esperando continúen de esta forma. Esto dentro de la rueda de prensa donde se dio a conocer que se acreditaron 4 muertes más y dieron 82 personas positivo a la prueba PCR.

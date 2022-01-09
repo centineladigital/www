@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Necesario incrementar las medidas de higiene para evitar estos males."
-image: /uploads/2021/images-Foto_2965-1.jpg
-video: nil
-audio: nil
-alt: IMSS Chihuahua exhorta a mantener refrigerados los alimentos para prevenir enfermedades gastrointestinales 
+image: "/uploads/2021/images-Foto_2965-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "IMSS Chihuahua exhorta a mantener refrigerados los alimentos para prevenir enfermedades gastrointestinales "
 front: false
-section: Local
+section: "Local"
+news_id: 185530
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua invita a sus derechohabientes a extremar las medidas de higiene en el consumo y manejo de alimentos durante la temporada de calor, para evitar que se presenten enfermedades gastrointestinales.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante es muy popular en la actualidad y suma más de 21 millones de seguidores en redes sociales. "
-image: /uploads/2021/images-manos-camilo-canta-dueto-eva_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: No me relaciono tanto con esa palabra -  Camilo dice no considerarse un ídolo musical
+image: "/uploads/2021/images-manos-camilo-canta-dueto-eva_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "No me relaciono tanto con esa palabra -  Camilo dice no considerarse un ídolo musical"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183801
 ---
 
 Camilo lidera las listas de popularidad más importantes de la música, cuenta con millones de fanáticos alrededor del mundo y aunque para muchos sea un ídolo, al cantante colombiano no le gusta referirse así mismo con esa descripción, ya que prefiere tocar el corazón de manera honesta con sus audiencias 

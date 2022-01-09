@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto ante el incremento de personas hospitalizadas."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-MW06_ARTURO_VALENZUELA.mp3
-alt: Continúan cirugías rezagadas por pandemia
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW06_ARTURO_VALENZUELA.mp3"
+alt: "Continúan cirugías rezagadas por pandemia"
 front: false
-section: Local
+section: "Local"
+news_id: 183538
 ---
 
 Aún se tiene un rezago en las cirugías, señaló el Director Médico Zona Norte Arturo Valenzuela Zorrilla, quien señaló que no se ha llevado a cabo la reconversión para volver a la atención de otros padecimientos que no son COVID.

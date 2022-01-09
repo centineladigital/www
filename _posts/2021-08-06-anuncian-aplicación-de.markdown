@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Salud informó que la jornada de vacunación inicia el lunes en Parral, el martes en Ciudad Juárez y a partir del miércoles en la capital, en los centros de vacunación acostumbrados"
-image: /uploads/2021/images-WhatsApp_Image_2021-08-06_at_13.23.09_(1).jpeg
-video: nil
-audio: nil
-alt: Anuncian aplicación de segundas dosis a personas de 40-49 años en Chihuahua, Juárez y Parral
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-06_at_13.23.09_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Anuncian aplicación de segundas dosis a personas de 40-49 años en Chihuahua, Juárez y Parral"
 front: false
-section: Local
+section: "Local"
+news_id: 186397
 ---
 
 A partir de la semana entrante en las ciudades de Juárez, Chihuahua y Parral, se realizará la aplicación de las segundas dosis de la vacuna contra COVID-19, a los grupos etarios de 40-49 años, anunció la Secretaría de Salud.

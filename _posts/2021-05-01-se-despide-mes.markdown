@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Municipios como Balleza registraron nieve tras la entrada del frente frío número 54"
-image: /uploads/2021/images-aguanieve.jpg
-video: nil
-audio: nil
-alt: Se despide mes de abril con nevada en la zona serrana de Chihuahua
+image: "/uploads/2021/images-aguanieve.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se despide mes de abril con nevada en la zona serrana de Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 184225
 ---
 
 Este viernes municipios como Balleza, registraron caída de aguanieve, tras la entrada del frente frío número 54, el cual hizo presencia en el estado de Chihuahua, ocasionando lluvias y lloviznas en diferentes zonas de la entidad.

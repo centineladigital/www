@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Los diputados desconocen las obras de las que supuestamente se verán beneficiadas por este recurso"
-image: /uploads/2021/images-DHTJTH.jpg
-video: nil
-audio: /uploads/2021/audio-AM02_MIGUEL_COLUNGA.mp3
-alt: Dejará Corral más deuda que Duarte -  Miguel Colunga
+image: "/uploads/2021/images-DHTJTH.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AM02_MIGUEL_COLUNGA.mp3"
+alt: "Dejará Corral más deuda que Duarte -  Miguel Colunga"
 front: false
-section: Local
+section: "Local"
+news_id: 182269
 ---
 
 El Coordinador de los diputados de Morena en el Congreso del Estado Miguel Ángel Colunga Martínez, votó en contra del dictamen que fue aprobado por tres diputados en la Comisión de Programación, Presupuesto y Hacienda, respecto al crédito solicitado por el gobernador Javier Corral y enfatizó que lo único que se logra con esto es dejar más endeudado al estado que en la administración pasada. 

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Las holandesas se impusieron 10-3 a las africanas y consiguieron la victoria más abultada en la historia del futbol femenil de los Juegos Olímpicos "
-image: /uploads/2021/images-holanda-golea-zambia-futbol-femenil_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Holanda propina histórica goleada a Zambia de Tokio 2020
+image: "/uploads/2021/images-holanda-golea-zambia-futbol-femenil_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Holanda propina histórica goleada a Zambia de Tokio 2020"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185858
 ---
 
 Países Bajos solo sudó por la humedad que hubo en Miyagi (90 por 100) durante su primer su primer partido de los Juegos Olímpicos que ganaron con facilidad ante Zambia (3-10), en una demostración de que ambas selecciones compiten a niveles muy diferentes y que se convirtió en el partido con más goles en la historia de la competición femenina de futbol. 

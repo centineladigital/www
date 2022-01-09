@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La conductora rompió en llanto al escuchar las emotivas palabras de bienvenida que sus compañeros, Carmen Muñoz y Juan Barragán, le ofrecieron. "
-image: /uploads/2021/images-gaby-crassus-vuelve-a-la.jpg
-video: nil
-audio: nil
-alt: Gaby Crassus vuelve a conducir 'Al Extremo' a dos mes de la muerte de su esposo
+image: "/uploads/2021/images-gaby-crassus-vuelve-a-la.jpg"
+video: "nil"
+audio: "nil"
+alt: "Gaby Crassus vuelve a conducir 'Al Extremo' a dos mes de la muerte de su esposo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183824
 ---
 
 Este fin de semana la conductora de televisión Gaby Crassus, volvió al foro de Al Extremo, espacio del que se despidió en febrero pasado tras el fallecimiento de su esposo, el actor Rodrigo Mejía, a causa de complicaciones de covid-19. “¡Dicen que uno siempre vuelve al lugar donde fue feliz! Gracias familia extrema, los amo” escribió la venezolana en en su cuenta de Instagram. 

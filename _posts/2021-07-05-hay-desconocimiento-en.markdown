@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Reuniones de entrega-recepción serán videograbadas."
-image: /uploads/2021/images-CORRAL1.jpg
-video: nil
-audio: /uploads/2021/audio-ML05.mp3
-alt: Hay desconocimiento en las declaraciones de Campos Galván -  Gobernador
+image: "/uploads/2021/images-CORRAL1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML05.mp3"
+alt: "Hay desconocimiento en las declaraciones de Campos Galván -  Gobernador"
 front: false
-section: Local
+section: "Local"
+news_id: 185385
 ---
 
 Al ser cuestionado respecto a las declaraciones de la Gobernadora electa, Javier Corral Jurado, señaló que existe desconocimiento por parte de la virtual gobenadora. Dentro de las declaraciones María Eugenia Campos Galván solicitó que el actual mandatario presente la renuncia al Partido y le pide que haga una entrega recepción transparente.

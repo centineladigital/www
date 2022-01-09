@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Después de que Emir Pabón y su esposa sufrieran un accidente automovilístico tras viajar en un Uber, el cantante interpondrá una demanda para pedir justicia."
-image: /uploads/2021/images-cantante-caso-abogados-unidos-mexico.jpg
-video: nil
-audio: nil
-alt: Que se haga justicia -  Emir Pabón demandará a conductor tras accidente automovilístico
+image: "/uploads/2021/images-cantante-caso-abogados-unidos-mexico.jpg"
+video: "nil"
+audio: "nil"
+alt: "Que se haga justicia -  Emir Pabón demandará a conductor tras accidente automovilístico"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185649
 ---
 
 El pasado mes de junio Emir Pabón y su esposa, Stefanía de Aranda viajaban en un taxi de la aplicación Uber en Houston, Texas en Estados Unidos, cuando el conductor del coche perdió el control, lo que provocó que chocaran y llevará al hospital al cantante y a su esposa, quien estuvo en terapia intensiva. Ahora que fue dada de alta, Pabón ha decidido iniciar una demanda contra el chofer. 

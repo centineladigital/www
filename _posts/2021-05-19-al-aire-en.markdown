@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "'El teacher' narró cómo fue la ocasión en que le jugaron una broma en vivo y en cadena nacional y qué dijo Emilio Azcarraga de la forma en que el periodista reaccionó. "
-image: /uploads/2021/images-joaquin-lopez-doriga-narro-citado.jpg
-video: nil
-audio: nil
-alt: ¡Al aire, en mi primer programa!; el día que alburearon a López Dóriga en televisión
+image: "/uploads/2021/images-joaquin-lopez-doriga-narro-citado.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Al aire, en mi primer programa!; el día que alburearon a López Dóriga en televisión"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184539
 ---
 
 Conducir un programa en vivo siempre implica muchos riesgos y posibilidades de que algo salga mal, hay algunos errores épicos como el de Pedrito Sola que se equivocó de marca y le hizo publicidad a la mayonesa McCormick, cuando quien había pagado el anuncio era Hellman's y qué decir del épico: “Avísenme”, del periodista coahuilense Marcos Martínez Soriano, que pensó que estaba en comerciales durante un noticiero y aprovechó para decir que su programa está por estaba por encima de los de Joaquín López Dóriga y Carlos Loret de Mola. Y precisamente fue Joaquín López Dóriga quien compartió en su programa de YouTube Joaquín Marín de Do pingüe, la anécdota de cuando lo alburearon en vivo en cadena nacional y en su primer día como conductor sustituto del noticiero estelar de Televisa: 24 Horas. 

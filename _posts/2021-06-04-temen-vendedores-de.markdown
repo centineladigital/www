@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Algunos vendedores señalaron que muchas personas se llegan a molestar por este tipo de letreros "
-image: /uploads/2021/images-negociocomidabeto.jpg
-video: nil
-audio: nil
-alt: Temen vendedores de comida a Células Covid; piden a clientes no se aglomeren
+image: "/uploads/2021/images-negociocomidabeto.jpg"
+video: "nil"
+audio: "nil"
+alt: "Temen vendedores de comida a Células Covid; piden a clientes no se aglomeren"
 front: false
-section: Local
+section: "Local"
+news_id: 184840
 ---
 
 "Sea breve, coma, no se quede", es la frase que varios locatarios de puestos de comida colocan en sus negocios con la finalidad de que la gente no se aglomere en estos lugares y no ser multados por las Células Covid-19.

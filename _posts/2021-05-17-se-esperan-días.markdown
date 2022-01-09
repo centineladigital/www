@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Sólo se pronostican nublados para los días martes y viernes"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Se esperan días soleados para esta semana en la ciudad
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se esperan días soleados para esta semana en la ciudad"
 front: false
-section: Local
+section: "Local"
+news_id: 184491
 ---
 
 Días mayormente soleados con nublados que se presentarán sólo el martes y viernes, es lo que se espera para esta semana en la capital del estado, de acuerdo a datos de la Coordinación Municipal de Protección Civil y según el pronóstico climático que emite el Servicio Meteorológico Nacional de la Comisión Nacional del Agua (CONAGUA).

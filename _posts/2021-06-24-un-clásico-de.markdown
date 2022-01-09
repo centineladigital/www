@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Miley Cyrus ha sorprendido con los covers que ha sacado y en ahora realizó una versión de Believe de Cher para un concierto por el Orgullo Gay. "
-image: /uploads/2021/images-miley-cyrus-publicara-concierto-online.jpg
-video: nil
-audio: nil
-alt: ¡Un clásico de Cher! Miley Cyrus hace cover de la canción 'Believe'
+image: "/uploads/2021/images-miley-cyrus-publicara-concierto-online.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Un clásico de Cher! Miley Cyrus hace cover de la canción 'Believe'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185222
 ---
 
 Con motivo del Día del Orgullo Gay, el cual se celebra el 28 de junio, Miley Cyrus grabó un concierto especial para celebrar esta fecha. Para este evento, el cual será transmitido este 25 de junio, la cantante contó con la participación de concursantes del programa RuPaul's Drag Race y para dar un adelanto, la también actriz compartió un video del cover que hizo de “Believe”, tema de Cher. 

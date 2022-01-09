@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En total fueron 21 los trabajadores afectados por el dramático hecho que generó una masiva operación para encontrarlos. "
-image: /uploads/2021/images-derrumbes-minas-china-comunes-falta.jpg
-video: nil
-audio: nil
-alt: Hallan 19 mineros muertos en China tras estar casi un mes atrapados por derrumbe
+image: "/uploads/2021/images-derrumbes-minas-china-comunes-falta.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hallan 19 mineros muertos en China tras estar casi un mes atrapados por derrumbe"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187664
 ---
 
 Las autoridades encontraron los cuerpos de 19 mineros de ese país que quedaron atrapados bajo tierra al derrumbarse una mina de carbón el mes pasado, informaron medios estatales, tras una enorme operación de rescate que fue seguida cuando se reportó que los afectados eran en total 21 trabajadores. 

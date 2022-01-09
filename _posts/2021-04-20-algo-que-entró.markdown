@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Victoria Ruffo externó que el pasado mes de noviembre tuvo covid-19. Contó cuáles fueron los síntomas que presentó y cómo se encuentran sus pulmones. "
-image: /uploads/2021/images-victoria-ruffo-y-jose-eduardo.jpg
-video: nil
-audio: nil
-alt: Algo que entró del súper -  Victoria Ruffo revela que tuvo covid-19; así enfrentó el contagio
+image: "/uploads/2021/images-victoria-ruffo-y-jose-eduardo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Algo que entró del súper -  Victoria Ruffo revela que tuvo covid-19; así enfrentó el contagio"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183997
 ---
 
 Victoria Ruffo, famosa actriz y esposa del gobernador de Hidalgo Omar Fayad , reveló que ya tuvo coronavirus, covid-19. ¿Se contagió recientemente? ¿Cómo está de salud? ¿Se vio muy mal por el contagio? La también mamá de José Eduardo Derbez rompió el silencio y explicó cómo enfrentó este contagio que ha ocasionado la muerte de cientos de miles en el mundo. En entrevista con TVyNovelas, Victoria Ruffo externó que después de que su esposo Omar Fayad se contagiara de covid-19, ella contrajo el virus. 

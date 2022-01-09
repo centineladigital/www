@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Cabe señalar que se tiene un número menor de hechos de privación de la vida que en el 2020."
-image: /uploads/2021/images-PENICHE.jpg
-video: /uploads/2021/videos-MW03_CESAR_PENICHE.mp4
-audio: nil
-alt: Bajarán a 200 homicidios en agosto -  Fiscal
+image: "/uploads/2021/images-PENICHE.jpg"
+video: "/uploads/2021/videos-MW03_CESAR_PENICHE.mp4"
+audio: "nil"
+alt: "Bajarán a 200 homicidios en agosto -  Fiscal"
 front: false
-section: Local
+section: "Local"
+news_id: 186579
 ---
 
 Una disminución a menos de 200 homicidios es lo que espera se registre al concluir el mes de agosto, señaló el Fiscal General del Estado, César Augusto Peniche Espejel. Esto al destacar que en los primeros seis meses se tiene un número menor de hechos de privación de la vida que en el 2020.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de redes sociales en donde quedó al descubierto Eugenio Derbez, quien lanzó el reclamo a su hija Aislinn Derbez por medio de un audio. ¿Por qué se enojó? Te contamos cómo fue este divertido momento. "
-image: /uploads/2021/images-eugenio-derbez-lanza-reclamo-aislinn.jpg
-video: nil
-audio: nil
-alt: Me vas a extrañar; Eugenio Derbez lanza fuerte reclamo a Aislinn Derbez; ella lo exhibe
+image: "/uploads/2021/images-eugenio-derbez-lanza-reclamo-aislinn.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me vas a extrañar; Eugenio Derbez lanza fuerte reclamo a Aislinn Derbez; ella lo exhibe"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183986
 ---
 
 Eugenio Derbez, actor y comediante mexicano, causó furor entre sus seguidores, luego de que lanzara un reclamo a su hija Aislinn Derbez debido a que ya no lo ha visitado, algo que suele pasar en todas las familias. El también productor externó su ‘molestia’ con su hija porque supuestamente la ex pareja de Mauricio Ochmann organiza fiestas sólo cuando él no puede asistir. ¿Le hace el feo? ¿El reclamo es broma? Fue a través de redes sociales en donde quedó al descubierto Eugenio Derbez, quien lanzó el reclamo a su hija Aislinn Derbez por medio de un audio. ¿Por qué se enojó? Al parecer por no visitarlo y ni siquiera considerar su agenda para que acuda a las reuniones que organiza. Con un mensaje dramático, el famoso comediante reclamó que su hija organice reuniones cuando él debe salir a trabajar. 

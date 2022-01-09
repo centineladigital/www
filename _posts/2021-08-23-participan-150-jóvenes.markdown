@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante el evento, se tuvo la participación de bandas locales en las instalaciones del Parque Extremo, desde las 10 de la mañana hasta las 9 de la noche que concluyó con la premiación de los primeros lugares de cada categoría"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Participan 150 jóvenes deportistas en torneo “Pa’ La Cantera”
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Participan 150 jóvenes deportistas en torneo “Pa’ La Cantera”"
 front: false
-section: Local
+section: "Local"
+news_id: 187001
 ---
 
 Como parte de las actividades del mes de la Juventud y con la finalidad de incentivar el deporte, el Gobierno Municipal a través de la Dirección de Desarrollo Humano y Educación, llevó a cabo el torneo de deportes extremos “Pa’La Cantera”, en el que participaron 150 jóvenes de la ciudad.

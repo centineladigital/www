@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto ante el incremento considerable de animales en la calle."
-image: /uploads/2021/images-ALAIN.jpg
-video: /uploads/2021/videos-MJ02_ALAIN_CARMONA.mp4
-audio: nil
-alt: Perros callejeros es un tema en aumento
+image: "/uploads/2021/images-ALAIN.jpg"
+video: "/uploads/2021/videos-MJ02_ALAIN_CARMONA.mp4"
+audio: "nil"
+alt: "Perros callejeros es un tema en aumento"
 front: false
-section: Local
+section: "Local"
+news_id: 187164
 ---
 
 El problema de los perros y gatos callejeros es un tema que va en aumento, señaló Jorge Alain Carmona, encargado del programa de vectores en la Secretaría de Salud. Quien dijo que de forma constante se llevan a cabo retiro de animales de las calles, sin embargo, este problema no concluye.

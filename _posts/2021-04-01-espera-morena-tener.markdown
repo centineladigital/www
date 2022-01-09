@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Contarán con personas para revisar la situación en todas las casillas."
-image: /uploads/2021/images-MARTIN.jpg
-video: nil
-audio: /uploads/2021/audio-MJ03_MARTIN_CHAPARRO.mp3
-alt: Espera Morena tener casillas cubiertas
+image: "/uploads/2021/images-MARTIN.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ03_MARTIN_CHAPARRO.mp3"
+alt: "Espera Morena tener casillas cubiertas"
 front: false
-section: Local
+section: "Local"
+news_id: 183652
 ---
 
 Morena espera tener representantes de casilla en todo el estado, señaló su dirigente estatal Martín Chaparro, con lo que se busca tener la certeza de que ocurre en cada una de las casillas que se instalen en el territorio estatal.

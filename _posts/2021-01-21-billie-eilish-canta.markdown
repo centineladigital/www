@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Billie Eilish y Rosalía acaban de lanzar su tan esperada la colaboración. "
-image: /uploads/2021/images-billie-eilish-rosalia-estrenan-cancion.jpg
-video: nil
-audio: nil
-alt: Billie Eilish canta en español en 'Lo vas a olvidar', su colaboración con Rosalía
+image: "/uploads/2021/images-billie-eilish-rosalia-estrenan-cancion.jpg"
+video: "nil"
+audio: "nil"
+alt: "Billie Eilish canta en español en 'Lo vas a olvidar', su colaboración con Rosalía"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182351
 ---
 
 Hace un par de días, Billie Eilish y Rosalía compartieron el póster oficial de "Lo vas a olvidar", colaboración que habían anunciado desde hace dos años, pues fue en marzo de 2019 cuando la española habló por primera vez sobre esta pista en conjunto. En abril pasado, reveló que ambas habían estado trabajando en la canción durante el encierro. Hoy, por fin, y tras una larga espera, las cantantes han estrenado el tema y el videoclip oficial que formará parte del soundtrack del segundo episodio especial de la serie de HBO MAX: Euphoria, el cual se estrenará este domingo 24 de enero. 

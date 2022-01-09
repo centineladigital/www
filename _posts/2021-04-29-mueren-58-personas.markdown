@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A la fecha suman 64 mil 371 casos positivos y 6 mil 563 defunciones; además se han enfermado de coronavirus 5 mil 994 integrantes del Sector Salud a lo largo de la pandemia"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Mueren 58 personas y 311 más se contagian de COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Mueren 58 personas y 311 más se contagian de COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184187
 ---
 
 En el último reporte epidemiológico COVID-19 la Secretaría de Salud confirmó un total general de 64 mil 371 casos, con 311 nuevos positivos, así como un acumulado de 6 mil 653 personas fallecidas, con 58 más en la entidad.

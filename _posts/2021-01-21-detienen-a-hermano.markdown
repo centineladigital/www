@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El medio hermano de Amandititita fue detenido por supuesto robo; la cantante ya reaccionó a la detención y esto publicó. "
-image: /uploads/2021/images-amandititita-reacciono-al-arresto-de.jpg
-video: nil
-audio: nil
-alt: Detienen a hermano de Amandititita por robo; así reaccionó la cantante
+image: "/uploads/2021/images-amandititita-reacciono-al-arresto-de.jpg"
+video: "nil"
+audio: "nil"
+alt: "Detienen a hermano de Amandititita por robo; así reaccionó la cantante"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182352
 ---
 
 Sin duda Amandititita es una cantante que en algunas ha causado polémica, sin embargo, en esta ocasión se dio a conocer que su hermano Luis fue detenido por robar dinero a una persona, así lo dio a conocer el periodista Carlos Jiménez a través de Twitter. Tras darse a conocer la noticia, Amandititita reaccionó al arresto de su hermano. El periodista Carlos Jiménez publicó en Twitter que Luis, medio hermano de Amandititita, había sido detenido por robar mil pesos. 

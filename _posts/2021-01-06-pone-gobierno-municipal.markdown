@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Frente al contexto de emergencia sanitaria que se vive por el COVID-19, los riesgos de violencia contra las mujeres y niñas han aumentado"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Pone Gobierno Municipal a disposición de la ciudadanía líneas de atención a la violencia familiar y de género
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pone Gobierno Municipal a disposición de la ciudadanía líneas de atención a la violencia familiar y de género"
 front: false
-section: Local
+section: "Local"
+news_id: 181905
 ---
 
 Una de las prioridades del Gobierno Municipal es emprender acciones para eliminar todas las formas de violencia contra las mujeres, niñas y adolescentes, trabajando bajo una perspectiva que atienda a los derechos humanos.

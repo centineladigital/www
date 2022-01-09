@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con su disco 'Metamorfosis', el cantautor chiapaneco retomó su lugar tras superar sus adicciones; en entrevista, habla sobre su apoyo a nuevas generaciones y de su devoción por la composición. "
-image: /uploads/2021/images-reyli-barba-y-su-disco_0_0_1101_685.jpg
-video: nil
-audio: nil
-alt: La pandemia me llevó al éxtasis creativo -  Reyli Barba
+image: "/uploads/2021/images-reyli-barba-y-su-disco_0_0_1101_685.jpg"
+video: "nil"
+audio: "nil"
+alt: "La pandemia me llevó al éxtasis creativo -  Reyli Barba"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182005
 ---
 
 Reyli Barba es un claro ejemplo de los compositores que materializan en canciones una diversidad de emociones. Primero lo hizo como parte del quinteto Elefante, y ahora a través de su faceta solista. El éxito no siempre ha estado de su lado, en el camino ha encontrado obstáculos y “piedras” que ha superado para mantener viva esa vocación que, asegura, se ha convertido en devoción. Con 'Metamorfosis' vuelves a la industria con un gran efecto, fuiste nominado al Grammy Latino; es una producción que surge luego de una experiencia fuerte, difícil… Sí, es un disco que ya hizo efecto y eso es muy bello, viniendo de un gran descalabro saben mejor este tipo de noticias y de reconocimientos. He sido nominado a los Grammy desde que empecé como Elefante y luego como solista, pero esta nominación me emocionó mucho, porque viniendo de donde vengo (problema de adicciones), cada regalo del universo lo valoro un millón de veces más que antes. 

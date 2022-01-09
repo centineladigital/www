@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Como parte de la Operación Justicia para Chihuahua se tienen plenamente identificados 27 Esquemas Agresivos de Evasión Fiscal, de los cuales 19 aún tienen procedimientos fiscales vigentes"
-image: /uploads/2021/images-Diapositiva5.JPG
-video: nil
-audio: nil
-alt: Con exgobernador facturaron 36 mil 366.9 millones de pesos para 519 empresas fantasma
+image: "/uploads/2021/images-Diapositiva5.JPG"
+video: "nil"
+audio: "nil"
+alt: "Con exgobernador facturaron 36 mil 366.9 millones de pesos para 519 empresas fantasma"
 front: false
-section: Local
+section: "Local"
+news_id: 181915
 ---
 
 La Secretaría de Hacienda informó que como resultado de la estrategia fiscal de la Operación Justicia para Chihuahua se detectaron 519 empresas fantasma a través de las cuales se facturaron 36 mil 366.9 millones de pesos (mdp).

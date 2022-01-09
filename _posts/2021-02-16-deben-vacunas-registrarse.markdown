@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto por la densidad de contagios en las zonas."
-image: /uploads/2021/images-IMG_20210216_104239.jpg
-video: nil
-audio: /uploads/2021/audio-MM03_CARLOS_OROZCO.mp4
-alt: Deben vacunas registrarse primero en grandes ciudades
+image: "/uploads/2021/images-IMG_20210216_104239.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM03_CARLOS_OROZCO.mp4"
+alt: "Deben vacunas registrarse primero en grandes ciudades"
 front: false
-section: Local
+section: "Local"
+news_id: 182966
 ---
 
 La campaña de vacunación debería de enfocarse a las grandes ciudades, donde se encuentra la mayor cantidad de personas. Señaló el regidor panista Carlos Orozco Chacón. Esto tras el anuncio de que la campaña de vacunación iniciará en diez municipios de la zona serrana, donde se colocarán 13 puestos de vacunación.

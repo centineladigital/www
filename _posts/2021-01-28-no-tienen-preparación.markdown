@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor Mauricio Martínez dio su opinión sobre los famosos que quieren postularse en las elecciones 2021 y pidió no votar por ellos. "
-image: /uploads/2021/images-el-actor-dio-su-opinion.jpg
-video: nil
-audio: nil
-alt: No tienen preparación -  Mauricio Martínez pide no votar por famosos en próximas elecciones
+image: "/uploads/2021/images-el-actor-dio-su-opinion.jpg"
+video: "nil"
+audio: "nil"
+alt: "No tienen preparación -  Mauricio Martínez pide no votar por famosos en próximas elecciones"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182536
 ---
 
 Desde hace algunas semanas algunos famosos han dado a conocer su interés por conseguir una candidatura como diputado, ya que en nuestro país se llevarán a cabo elecciones 2021, en donde se renovarán algunos cargos. Y ante la postura de actores y cantantes por tener un cargo público, Mauricio Martínez dio su opinión. 

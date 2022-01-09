@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La séptima entrega de Misión Imposible de nueva cuenta retrasa su grabación, ahora se presentó un caso de covid-19. "
-image: /uploads/2021/images-pelicula-protagonizada-tom-cruise-retrasar.jpg
-video: nil
-audio: nil
-alt: ¡Siguen los retrasos! 'Misión Imposible 7' suspende grabación por caso de covid-19
+image: "/uploads/2021/images-pelicula-protagonizada-tom-cruise-retrasar.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Siguen los retrasos! 'Misión Imposible 7' suspende grabación por caso de covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184841
 ---
 
 Una de las películas más esperadas es "Misión Imposible 7'", la nueva entrega de la saga protagonizada por Tom Cruise, sin embargo, su filmación ha sido retrasada en varias ocasiones por la pandemia, ahora se informó que su rodaje en Londres ha sido suspendido hasta el próximo 14 de junio tras detectar un caso positivo por covid-19 dentro del equipo. 

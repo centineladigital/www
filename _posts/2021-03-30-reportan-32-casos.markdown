@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Cifras bajas en detecciones y nuevos casos."
-image: /uploads/2021/images-GUMARO.jpg
-video: nil
-audio: /uploads/2021/audio-MM05_GUMARO_BARRIOS.mp3
-alt: Reportan 32 casos de COVID
+image: "/uploads/2021/images-GUMARO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM05_GUMARO_BARRIOS.mp3"
+alt: "Reportan 32 casos de COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 183614
 ---
 
 En tan sólo 24 horas se detectaron 32 nuevos casos y se acreditaron dos defunciones, sin embargo en la semana 12 del año se han registrado repuntes de casos de coronavirus, según lo dio a conocer el titular de la Subdirección de Epidemiología Gumaro Barrios Gallegos. 

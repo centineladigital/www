@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor Andrew Garfield, famoso por protagonizar al Hombre Araña cumplió 38 años, gracias a este papel alcanzó la fama mundial. "
-image: /uploads/2021/images-el-actor-andrew-garfield-cumplio.jpg
-video: nil
-audio: nil
-alt: ¿Volverá a interpretar al superhéroe? Así fue como Andrew Garfield se convirtió en Spiderman
+image: "/uploads/2021/images-el-actor-andrew-garfield-cumplio.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Volverá a interpretar al superhéroe? Así fue como Andrew Garfield se convirtió en Spiderman"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186963
 ---
 
 Tras la cancelación de Spider man 4 en 2010, Sony puso en marcha una nueva franquicia. Para la difícil tarea contrató a Marc Webb como director mientras que secretamente comenzaban un casting para elegir a los nuevos protagonistas. Dando vida a Peter Parker estaría un joven casi nada conocido llamado Andrew Garfield. Con 27 años de edad, Andrew empezaba a llamar la atención en la industria del cine gracias a su papel de Eduardo Saverin en la película The Social Network, misma que contaba los orígenes de Facebook.

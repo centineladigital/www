@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Los espectáculos dirigidos al público infantil serán de manera virtual, a través de redes sociodigitales; participan artistas de 12 países en la edición XVII del FICH"
-image: /uploads/2021/images-FICH_INFANTIL_(1).jpeg
-video: nil
-audio: nil
-alt: Ofrece Festival Internacional Chihuahua 2021 programación especial  para niñas y niños
+image: "/uploads/2021/images-FICH_INFANTIL_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Ofrece Festival Internacional Chihuahua 2021 programación especial  para niñas y niños"
 front: false
-section: Local
+section: "Local"
+news_id: 186070
 ---
 
 La Secretaría de Cultura invita a disfrutar los espectáculos dirigidos especialmente a niñas y niños dentro de la decimoséptima edición del Festival Internacional Chihuahua (FICH) Trasciende Fronteras, que iniciará el 1 de agosto.

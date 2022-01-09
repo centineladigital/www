@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Llegarán al altar? El programa Ventaneado aseguró que hoy Christian Nodal le propuso matrimonio a Belinda. "
-image: /uploads/2021/images-programa-espectaculos-detalles-pedida-mano.jpg
-video: nil
-audio: nil
-alt: ¿Habrá boda? 'Ventaneando' asegura que Nodal le pidió matrimonio a Belinda
+image: "/uploads/2021/images-programa-espectaculos-detalles-pedida-mano.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Habrá boda? 'Ventaneando' asegura que Nodal le pidió matrimonio a Belinda"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184655
 ---
 
 Desde que iniciaron su romance, Belinda y Christian Nodal han sido una de las parejas favoritas de muchos y no han dudado en gritar su amor a los cuatro vientos. Todo parece indicar que ambos están muy enamorados, razón por la que el intérprete de “Adiós amor” le propuso matrimonio a Belinda en España, esto de acuerdo con Ventaneando. 

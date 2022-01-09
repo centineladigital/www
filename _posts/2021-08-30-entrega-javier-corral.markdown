@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Invierten 70 millones de pesos en la construcción del edificio, 17 en equipamiento y adquieren 8 mdp en 25 vehículos     "
-image: /uploads/2021/images-Gobernador_Javier_Corral__inauguración_edificio_FEM_Juárez_(1).jpeg
-video: nil
-audio: nil
-alt: Entrega Javier Corral edificio de la FEM Juárez y reafirma compromiso con la justicia para las mujeres
+image: "/uploads/2021/images-Gobernador_Javier_Corral__inauguración_edificio_FEM_Juárez_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Entrega Javier Corral edificio de la FEM Juárez y reafirma compromiso con la justicia para las mujeres"
 front: false
-section: Local
+section: "Local"
+news_id: 187259
 ---
 
 El gobernador Javier Corral Jurado inauguró en el marco del Maratón de Obras 2021, el nuevo edificio de la Fiscalía Especializada de la Mujer (FEM) en Juárez, con lo cual refrendó el compromiso de su Administración con la procuración de justicia para las mujeres y la erradicación de la violencia de género.

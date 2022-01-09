@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Ida, degradado de huracán a tormenta tropical, azotó en las últimas horas los estados de Nueva York, Pensilvania, Nueva Jersey y Maryland, donde un joven de 19 años murió y otra persona fue reportada como desaparecida"
-image: /uploads/2021/images-huracan-ida-costoso-historia-indica.jpg
-video: nil
-audio: nil
-alt: Estado de emergencia -  Huracán Ida causó tornados e inundaciones en EU; hay cifra de muertos
+image: "/uploads/2021/images-huracan-ida-costoso-historia-indica.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estado de emergencia -  Huracán Ida causó tornados e inundaciones en EU; hay cifra de muertos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187354
 ---
 
 Lluvias de una violencia inusitada se abatieron sobre Nueva York la noche del miércoles por la tormenta Ida, que dejó siete muertos en el sur de Estados Unidos y provocó tornados e inundaciones en el noreste del país.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los dibujos seleccionados se plasmarán en un mural que se denominará “Alas y Raíces se ilumina de azul por el Autismo”, en las instalaciones del programa de Cultura Infantil de la dependencia; la convocatoria cierra el próximo 3 de marzo"
-image: /uploads/2021/images-AUTISMO.jpg
-video: nil
-audio: nil
-alt: Invita Cultura a niñas, niños y jóvenes con Autismo y Asperger a participar en concurso de dibujo
+image: "/uploads/2021/images-AUTISMO.jpg"
+video: "nil"
+audio: "nil"
+alt: "Invita Cultura a niñas, niños y jóvenes con Autismo y Asperger a participar en concurso de dibujo"
 front: false
-section: Local
+section: "Local"
+news_id: 183176
 ---
 
 Con la finalidad de dar voz sobre la diversidad de visiones de niñas, niños y jóvenes que habitan en Chihuahua, la Secretaría de Cultura, a través del Programa Alas y Raíces, en conjunto con la Asociación Iluminemos de Azul,  realiza el concurso de dibujo dirigido a niños, niñas y jóvenes con Autismo o Síndrome de Asperger.

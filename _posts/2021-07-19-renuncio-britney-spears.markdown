@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante compartió varios mensajes en Instagram para anunciar que renuncia a hacer presentaciones en vivo y criticó el control de su padre sobre sus asuntos personales. "
-image: /uploads/2021/images-britney-spears-regresa-corte-pelear.jpg
-video: nil
-audio: nil
-alt: ¡Renuncio! -  Britney Spears revela que no cantará mientras su padre controle su carrera
+image: "/uploads/2021/images-britney-spears-regresa-corte-pelear.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Renuncio! -  Britney Spears revela que no cantará mientras su padre controle su carrera"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185779
 ---
 
 Britney Spears continúa luchando por su libertad, pues desde hace 13 años su padre, Jamie Spears, se convirtió en su tutor legal, y por lo tanto, tiene en su poder tomar cruciales decisiones que determinan el rumbo de la carrera y vida de la cantante. Mientras su caso sigue disputándose en la corte, la intérprete de "Womanizer" compartió una serie de mensajes a través de su cuenta de Instagram, donde expresó que la tutela "acabó con sus sueños". 

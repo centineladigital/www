@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La secretaria de Salud, Oliva López, comentó que hay cuatro niños hospitalizados por covid-19, sin detectar alguna de las variantes. "
-image: /uploads/2021/images-test-covid-19-obligacion-empresas-cdmx.jpg
-video: nil
-audio: nil
-alt: En CdMx, aumentan pruebas covid en jóvenes y niños; analizan ampliar horarios de kioskos
+image: "/uploads/2021/images-test-covid-19-obligacion-empresas-cdmx.jpg"
+video: "nil"
+audio: "nil"
+alt: "En CdMx, aumentan pruebas covid en jóvenes y niños; analizan ampliar horarios de kioskos"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185543
 ---
 
 La secretaria de Salud de la Ciudad de México, Oliva López Arellano, informó que en los kioscos de pruebas de coronavirus gratuitas aumentó la demanda por parte de jóvenes y niños, ante el incremento de contagios en la capital del país. 

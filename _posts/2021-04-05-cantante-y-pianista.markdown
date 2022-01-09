@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Conocido por su emblemáticos papeles de Iron Man y Sherlock Holmes, el actor también tiene una carrera dentro de la música. "
-image: /uploads/2021/images-faceta-musical-robert-downey-jr.jpg
-video: nil
-audio: nil
-alt: ¡Cantante y pianista! Robert Downey Jr. y su desconocida faceta musical
+image: "/uploads/2021/images-faceta-musical-robert-downey-jr.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Cantante y pianista! Robert Downey Jr. y su desconocida faceta musical"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183674
 ---
 
 Robert Downey Jr. es conocido por interpretar al "genio, millonario, playboy y filántropo" Tony Stark (Iron Man) en las películas del Universo Cinematográfico de Marvel (UCM). Además, destaca por su papel como el detective Sherlock Holmes y por participar en la serie Ally McBeal. Sin embargo, ¿sabías que el actor también se abrió paso en la música? 

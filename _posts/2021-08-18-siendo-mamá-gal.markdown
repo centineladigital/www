@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En Instagram, la famosa mostró que, a pesar del trabajo, no descuida a su bebé, Daniella."
-image: /uploads/2021/images-gal_embarazo.jpg
-video: nil
-audio: nil
-alt: Siendo mamá -  Gal Gadot comparte fotografías utilizando extractor de leche materna
+image: "/uploads/2021/images-gal_embarazo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Siendo mamá -  Gal Gadot comparte fotografías utilizando extractor de leche materna"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186830
 ---
 
 El nacimiento de su tercera bebé, Daniella, ha aumentado el sentimiento materno en Gal Gadot, al grado que este miércoles no dudo en mostrarle a sus seguidores que durante su trabajo actoral no descuida a su pequeña. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Van 7 mil 643 fallecimientos a lo largo de la pandemia, se suma una más al último reporte epidemiológico; la ocupación hospitalaria está por debajo del 75  por ciento en 11 de las 26 unidades especializadas con pacientes con coronavirus."
-image: /uploads/2021/images-covid_chih.JPG
-video: nil
-audio: nil
-alt: Acumula la entidad 71 mil 663 contagios por COVID-19 con 44 nuevos confirmados
+image: "/uploads/2021/images-covid_chih.JPG"
+video: "nil"
+audio: "nil"
+alt: "Acumula la entidad 71 mil 663 contagios por COVID-19 con 44 nuevos confirmados"
 front: false
-section: Local
+section: "Local"
+news_id: 185831
 ---
 
 La Secretaría de Salud dio a conocer que en el último reporte epidemiológico estatal COVID-19 se agregaron 44 contagios, con lo suman un total general de 71 mil 663; mientras que las defunciones son 7 mil 643, al confirmarse una  más en  Guadalupe y Calvo.

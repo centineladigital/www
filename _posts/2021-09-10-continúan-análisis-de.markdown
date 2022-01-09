@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "En pocos días días se determinará la situación real de las finanzas en Chihuahua."
-image: /uploads/2021/images-GRANILLO.jpg
-video: /uploads/2021/videos-MV03_JESUS_GRANILLO.mp4
-audio: nil
-alt: Continúan análisis de las finanzas
+image: "/uploads/2021/images-GRANILLO.jpg"
+video: "/uploads/2021/videos-MV03_JESUS_GRANILLO.mp4"
+audio: "nil"
+alt: "Continúan análisis de las finanzas"
 front: false
-section: Local
+section: "Local"
+news_id: 187629
 ---
 
 Al ser cuestionado respecto a si se solicitará un crédito por parte del actual Gobierno, el titular de la Secretaría de Hacienda, José de Jesús Granillo Vázquez, aseguró que aún se lleva a cabo un diagnóstico para poder determinar el monto de la deuda, señalando que el diagnostico debe de concluir en los próximos días.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Necesario visibilizar acciones a favor de la mujer."
-image: /uploads/2021/images-PABLO.jpg
-video: nil
-audio: /uploads/2021/audio-ML05_PABLO_VILLALOBOS.mp3
-alt: Chihuahua punta de lanza de la justicia electoral
+image: "/uploads/2021/images-PABLO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML05_PABLO_VILLALOBOS.mp3"
+alt: "Chihuahua punta de lanza de la justicia electoral"
 front: false
-section: Local
+section: "Local"
+news_id: 183344
 ---
 
 El estado de Chihuahua ha sido punta de lanza en materia de justicia electora, fueron las palabras del Magistrado Presidente del Tribunal Superior de Justicia, Pablo Héctor Villalobos González, esto dentro del marco de la conmemoración del día de la mujer.

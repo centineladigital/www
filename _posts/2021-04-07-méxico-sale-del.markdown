@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Tricolor desciende dos posiciones en el último ranking dado a conocer"
-image: /uploads/2021/images-2558334.jpg
-video: nil
-audio: nil
-alt: México sale del Top 10 de la FIFA
+image: "/uploads/2021/images-2558334.jpg"
+video: "nil"
+audio: "nil"
+alt: "México sale del Top 10 de la FIFA"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183729
 ---
 
 La Selección Mexicana abandonó el top 10 del ranking FIFA. A mediados del mes de febrero se dio a conocer la clasificación mundial y México ocupaba el lugar número 9 con 1632 unidades, por detrás de España, Argentina y Uruguay. En esta ocasión, el Tri se ubicó en el decimoprimer peldaño con 1629.59.

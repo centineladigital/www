@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Inscripciones serán de forma virtual."
-image: /uploads/2021/images-TERE_ORTUÑO.jpg
-video: nil
-audio: /uploads/2021/audio-MM01_TERE_ORTUÑO.mp3
-alt: Plantel 1 y 10 los más saturados -  COBACH
+image: "/uploads/2021/images-TERE_ORTUÑO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM01_TERE_ORTUÑO.mp3"
+alt: "Plantel 1 y 10 los más saturados -  COBACH"
 front: false
-section: Local
+section: "Local"
+news_id: 182632
 ---
 
 Los planteles uno y diez son los que más solicitudes de nuevo ingreso tienen dentro del Colegio de Bachilleres en el Estado, según lo dio a conocer la Directora General Teresa Ortuño Gurza.

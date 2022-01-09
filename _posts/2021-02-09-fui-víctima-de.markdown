@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor y conductor de 52 años compartió con sus seguidores que fue víctima de piratas informáticos. Esto fue lo que dijo. "
-image: /uploads/2021/images-hector-sandarti-fue-victima-de.jpg
-video: nil
-audio: nil
-alt: Fui víctima de los hackers -  Héctor Sandarti denuncia haber sufrido fraude
+image: "/uploads/2021/images-hector-sandarti-fue-victima-de.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fui víctima de los hackers -  Héctor Sandarti denuncia haber sufrido fraude"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182820
 ---
 
 Cada vez son más los famosos que se ven vulnerables ante los hackers, también conocidos como piratas informáticos. Hace poco, Carmen Salinas dijo que su perfil de Facebook había sido hackeado y que la red social no pudo ayudarla. Ahora, Héctor Sandarti denunció que le ocurrió lo mismo, pero en su cuenta de Instagram. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: ""
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Presidente de Cuba acompaña a AMLO en el desfile militar
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Presidente de Cuba acompaña a AMLO en el desfile militar"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187785
 ---
 
 El presidente Andrés Manuel López Obrador encabeza esta mañana el desfile cívico-militar del Día de la Independencia, y quien es acompañado por el presidente de Cuba, Miguel Díaz-Canel. 

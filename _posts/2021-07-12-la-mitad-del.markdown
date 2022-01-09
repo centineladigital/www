@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "​Ochoa señaló que cada quien ha buscado un camino para salir adelante y creo que eso es lo que está sucediendo con OV7. "
-image: /uploads/2021/images-mariana-ochoa-instagram.jpg
-video: nil
-audio: nil
-alt: La mitad del grupo dejó de contestarme -  Mariana Ochoa revela cómo comenzaron los problemas en OV7
+image: "/uploads/2021/images-mariana-ochoa-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "La mitad del grupo dejó de contestarme -  Mariana Ochoa revela cómo comenzaron los problemas en OV7"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185591
 ---
 
 Luego de darse a conocer los conflictos que existen entre algunos integrantes de OV7, mucho se ha especulado sobre el futuro del grupo, por lo que este lunes una de las integrantes, Mariana Ochoa, decidió contar qué está pasando dentro de la banda. 

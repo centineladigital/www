@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Tras la salida de Miguel Riggs señala que el PAN le dio la oportunidad dentro del servicio público."
-image: /uploads/2021/images-PACO.jpg
-video: nil
-audio: nil
-alt: Califica dirigente panista de “calentura política” deserción de militantes
+image: "/uploads/2021/images-PACO.jpg"
+video: "nil"
+audio: "nil"
+alt: "Califica dirigente panista de “calentura política” deserción de militantes"
 front: false
-section: Local
+section: "Local"
+news_id: 182562
 ---
 
 “Quienes se van del PAN salen aventurándose por calentura política”, fueron las palabras del dirigente del Partido Acción Nacional, Francisco Navarro Pastrana, tras la salida de Miguel Riggs quien buscará ser candidato por Movimiento Ciudadano.

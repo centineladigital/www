@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El primer ministro de Japón niega que los Juegos Olímpicos que se celebran en ese país hayan causado un auge en los contagios"
-image: /uploads/2021/images-tokio-reporta-record-mil-contagios_0_34_800_498.jpeg
-video: nil
-audio: nil
-alt: Tokio reporta récord en medio de Juegos Olímpicos; supera los 5 mil casos de covid-19
+image: "/uploads/2021/images-tokio-reporta-record-mil-contagios_0_34_800_498.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Tokio reporta récord en medio de Juegos Olímpicos; supera los 5 mil casos de covid-19"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186311
 ---
 
 Tokio reportó un nuevo récord de contagios de covid-19, registrando cinco mil 42 contagios en la ciudad que alberga los Juegos Olímpicos, siendo que la variante Delta impulsa el aumento de enfermos. Los nuevos casos elevaron el total en Tokio a 236.138. En todo el país, Japón reportó más de 14 mil casos el miércoles para un total de 970 mil infectados. 

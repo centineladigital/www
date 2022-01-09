@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Supervisa Javier Corral avance de la Ruta Troncal del BRT 2 en la que se invierten más de mil millones de pesos"
-image: /uploads/2021/images-_MG_5907.JPG
-video: nil
-audio: nil
-alt: Sistema BRT de Juárez no es un capricho político ni de intereses económicos -  Coparmex   
+image: "/uploads/2021/images-_MG_5907.JPG"
+video: "nil"
+audio: "nil"
+alt: "Sistema BRT de Juárez no es un capricho político ni de intereses económicos -  Coparmex   "
 front: false
-section: Local
+section: "Local"
+news_id: 187470
 ---
 
 Acompañado por el presidente de Coparmex Juárez, José Mario Sánchez Soledad, el gobernador Javier Corral Jurado supervisó los trabajos de construcción del BRT 2, el cual se entrega con un avance en su conjunto de más del 50 por ciento (%), con algunos tramos al 99% y que se realiza con una coinversión de Fonadin-Banobras y Gobierno del Estado por más de 1000 millones de pesos.

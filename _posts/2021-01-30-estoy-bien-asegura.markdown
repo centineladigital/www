@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Reaparece en videomensaje; sigue trabajando, afirma. El mandatario indicó que prefiere acallar rumores y detalló los avances que hay para la adquisición de más vacunas"
-image: /uploads/2021/images-2520885.jpg
-video: nil
-audio: nil
-alt: Estoy bien, asegura López Obrador
+image: "/uploads/2021/images-2520885.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estoy bien, asegura López Obrador"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182576
 ---
 
 En su primera aparición en un video en el transcurso de la semana, el presidente Andrés Manuel López Obrador agradeció las muestras de solidaridad que le han expresado diversos actores públicos nacionales y extranjeros durante su convalecencia por covid-19.

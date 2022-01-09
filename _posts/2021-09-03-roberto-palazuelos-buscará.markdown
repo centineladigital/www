@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Roberto Palazuelos anunció que un partido político ya lo buscó para ofrecerle ser candidato a la gubernatura de Quintana Roo y que demostrará que está preparado para el puesto. "
-image: /uploads/2021/images-empresario-detallo-demostrara-capacitado-cargo.jpg
-video: nil
-audio: nil
-alt: Roberto Palazuelos buscará candidatura a gobernador de Quintana Roo; partido ya se acercó a él
+image: "/uploads/2021/images-empresario-detallo-demostrara-capacitado-cargo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Roberto Palazuelos buscará candidatura a gobernador de Quintana Roo; partido ya se acercó a él"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187420
 ---
 
 Roberto Palazuelos es un famoso que se mantiene en la mira del público, no sólo por su marca, sino también por sus polémicas con Andrés García, pero ahora, el actor va un paso más en su carrera y buscará una candidatura a la gubernatura de Quintana Roo, estado en donde El diamante negro tiene unos hoteles. 

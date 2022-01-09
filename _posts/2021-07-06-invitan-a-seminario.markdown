@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Tendrá validez de 32 de los 65 puntos que requieren los socios de forma anual."
-image: /uploads/2021/images-JOSE_.jpg
-video: nil
-audio: /uploads/2021/audio-MM01.mp3
-alt: Invitan a seminario de impuestos
+image: "/uploads/2021/images-JOSE_.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM01.mp3"
+alt: "Invitan a seminario de impuestos"
 front: false
-section: Local
+section: "Local"
+news_id: 185404
 ---
 
 En su edición 2021 se dio a conocer las acciones que llevará el Instituto y Colegio de Contadores Públicos de Chihuahua dentro del Seminario de Impuestos, capacitación que se lleva a cabo de forma anual, según lo dio a conocer. Jesús José Barrera Torres, presidente de esta institución.

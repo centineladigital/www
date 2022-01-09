@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Seech y la Fundación Ver Bien para Aprender Mejor invertirán de manera bipartita dos millones 760 mil pesos para dotar de lentes a 10 mil alumnas y alumnos de escuelas de primaria y secundaria en el estado   "
-image: /uploads/2021/images-Entrega_de_Lentes_Ver_Bien-1.jpg
-video: nil
-audio: nil
-alt: Reanudará Servicios Educativos entrega de anteojos  para estudiantes con problema de salud visual
+image: "/uploads/2021/images-Entrega_de_Lentes_Ver_Bien-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reanudará Servicios Educativos entrega de anteojos  para estudiantes con problema de salud visual"
 front: false
-section: Local
+section: "Local"
+news_id: 186897
 ---
 
 Servicios Educativos del Estado de Chihuahua (Seech) cuenta con un fondo de dos millones 760 mil pesos para aplicar este año 2021, con lo cual se podrá reanudar el programa de entrega de lentes a niñas y niños que los requieran, en escuelas públicas de nivel básico.

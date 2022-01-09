@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Con este convenio, el Instituto dejará de erogar mensualmente 45, 514 pesos por arrendamiento, informó Ramírez Pineda."
-image: /uploads/2021/images-WhatsApp_Image_2021-07-13_at_1.19.58_PM_(1).jpeg
-video: nil
-audio: nil
-alt: Optimizar recursos y generar ahorros es parte del plan de acción para consolidar financieramente al ISSSTE -  Ramírez  Pineda  
+image: "/uploads/2021/images-WhatsApp_Image_2021-07-13_at_1.19.58_PM_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Optimizar recursos y generar ahorros es parte del plan de acción para consolidar financieramente al ISSSTE -  Ramírez  Pineda  "
 front: false
-section: Local
+section: "Local"
+news_id: 185623
 ---
 
 El director general del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) y la titular de Caminos y Puentes de Ingresos y Servicios Conexos (CAPUFE), Elsa Veites Arévalo, firmaron un contrato de comodato para la operación de una Estancia de Bienestar y Desarrollo Infantil (EBDI), la cual beneficiará a 249 niñas y niños de ambas dependencias.

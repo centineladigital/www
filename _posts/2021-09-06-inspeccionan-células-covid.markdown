@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Realizaron la verificación este fin de semana de 81 establecimientos de giro restaurant-bar y bares en distintos sectores de la ciudad"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Inspeccionan Células COVID 81 establecimientos en fin de semana   
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Inspeccionan Células COVID 81 establecimientos en fin de semana   "
 front: false
-section: Local
+section: "Local"
+news_id: 187481
 ---
 
 El Gobierno Municipal a través de las células COVID que conforman los Inspectores Gobernación y agentes de la Dirección de Seguridad Pública, realizaron la verificación este fin de semana de 81 establecimientos de giro restaurant-bar y bares en distintos sectores de la ciudad.

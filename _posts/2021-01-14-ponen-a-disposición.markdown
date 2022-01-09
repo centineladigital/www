@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: " El año pasado personal especializado de la Unidad atendió 345 casos"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Ponen a disposición de la ciudadanía la Unidad de Niñas Niños y Adolescentes del Municipio
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Ponen a disposición de la ciudadanía la Unidad de Niñas Niños y Adolescentes del Municipio"
 front: false
-section: Local
+section: "Local"
+news_id: 182143
 ---
 
 Con el objeto de prevenir y evitar la violencia al interior del hogar hacia niñas, niños y adolescentes, la Dirección de Seguridad Pública Municipal pone a disposición de quienes lo requieran la Unidad de Niñas Niños y Adolescentes (UNNA), la cual se especializa en atender este tipo de situaciones, mediante la cual se han logrado resolver cientos de casos desde que fue creada en julio del 2018.

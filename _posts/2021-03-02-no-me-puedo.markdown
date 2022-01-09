@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La modelo, hija de Luis Miguel, se sometió a una cirugía de emergencia tras sufrir una fuerte caída mientras estaba esquiando. "
-image: /uploads/2021/images-michelle-salas-operacion-accidente-nieve.jpg
-video: nil
-audio: nil
-alt: No me puedo parar -  Michelle Salas habla de su operación tras accidente en la nieve
+image: "/uploads/2021/images-michelle-salas-operacion-accidente-nieve.jpg"
+video: "nil"
+audio: "nil"
+alt: "No me puedo parar -  Michelle Salas habla de su operación tras accidente en la nieve"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183221
 ---
 
 Michelle Salas se tomó unas vacaciones en Vail, Colorado, donde sufrió una fuerte caída mientras estaba esquiando a principios de febrero. La hija de Luis Miguel y Stephanie Salas se lastimó una de sus rodillas durante el accidente por lo que debió someterse a una operación de emergencia; a semanas de lo ocurrido, la modelo regresó a sus redes sociales para hablar de lo difícil que ha sido su recuperación.  A través de Instagram, Michelle Salas señaló que tuvo una severa lesión, pues al caer se rompió un ligamento de la rodilla derecha. La influencer tuvo que pasar algunos días internada y no podrá realizar ninguna actividad física durante 9 meses, señaló.  

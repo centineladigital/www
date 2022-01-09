@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La marcha fue pacifica "
-image: /uploads/2021/images-WhatsApp_Image_2021-09-06_at_11.29.35_AM.jpeg
-video: /uploads/2021/videos-BL02_IMELDA_FALOMIR.mp4
-audio: nil
-alt: Se llevo a cabo la manifestación de las asociaciones pro-vida 
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-06_at_11.29.35_AM.jpeg"
+video: "/uploads/2021/videos-BL02_IMELDA_FALOMIR.mp4"
+audio: "nil"
+alt: "Se llevo a cabo la manifestación de las asociaciones pro-vida "
 front: false
-section: Local
+section: "Local"
+news_id: 187477
 ---
 
 La manifestación de los integrantes de las asociaciones pro-vida realizaron una manifestación frente a los juzgados federales del supremo tribunal de justicia en donde alrededor de 70 personas estuvieron alzando la voz en contra de las leyes expuestas por legisladores.

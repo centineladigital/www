@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente felicita a todas las mamás mexicanas, incluso a quienes han fallecido; Eugenia León encabeza el festival con ‘Las Mañanitas’"
-image: /uploads/2021/images-2576000.jpg
-video: nil
-audio: nil
-alt: Convierte López Obrador 'mañanera' en festival de Día de las Madres
+image: "/uploads/2021/images-2576000.jpg"
+video: "nil"
+audio: "nil"
+alt: "Convierte López Obrador 'mañanera' en festival de Día de las Madres"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184370
 ---
 
 En el marco del Día de las Madres, esta mañana el presidente Andrés Manuel López Obrador felicitó a todas las mujeres mexicanas que son mamás y anunció que este día la "mañanera" se convertiría en un festival del Día de las Madres.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Uniformados y vehículos militares ocupan las calles tras el asalto del 6 de enero; el demócrata asume la presidencia de EU mañana"
-image: /uploads/2021/images-2514265.jpg
-video: nil
-audio: nil
-alt: Despliegue para recibir a Biden; toma de protesta en Washington
+image: "/uploads/2021/images-2514265.jpg"
+video: "nil"
+audio: "nil"
+alt: "Despliegue para recibir a Biden; toma de protesta en Washington"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182243
 ---
 
 Mañana, el demócrata Joe Biden se convertirá en el presidente número 46 de Estados Unidos, en una ceremonia en el Capitolio, bajo la sombra del asalto en el que murieron cinco personas.

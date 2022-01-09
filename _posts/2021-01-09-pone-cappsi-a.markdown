@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Es importante realzar que en el campo de la salud mental es un pilar fundamental el realizar acciones preventivas que garantice el equilibrio de la población"
-image: /uploads/2021/images-unnamed.png
-video: nil
-audio: nil
-alt: Pone CAPPSI a disposición de la ciudadanía servicios y número de atención
+image: "/uploads/2021/images-unnamed.png"
+video: "nil"
+audio: "nil"
+alt: "Pone CAPPSI a disposición de la ciudadanía servicios y número de atención"
 front: false
-section: Local
+section: "Local"
+news_id: 182001
 ---
 
 El Gobierno Municipal a través del Centro de Atención y Prevención Psicológicas (CAPPSI), continua con acciones para el fortalecimiento de la salud mental, con diversos servicios de atención y prevención psicológica para la ciudadanía.

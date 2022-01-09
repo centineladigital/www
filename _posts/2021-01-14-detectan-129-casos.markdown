@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Acreditan 17 muertes en ese mismo periodo."
-image: /uploads/2021/images-ARTURO_VALENZUELA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01_ARTURO_VALENZUELA.mp3
-alt: Detectan 129 casos COVID en 24 horas
+image: "/uploads/2021/images-ARTURO_VALENZUELA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01_ARTURO_VALENZUELA.mp3"
+alt: "Detectan 129 casos COVID en 24 horas"
 front: false
-section: Local
+section: "Local"
+news_id: 182147
 ---
 
 En tan sólo 24 horas se han acreditado el contagio de 129 personas y la muerte 17 por COVID, según fue dado a conocer por el Director Médico Zona Norte, Arturo Valenzuela Zorrilla. 

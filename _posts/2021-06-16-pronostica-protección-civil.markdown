@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este miércoles 16 de junio se prevén lluvias aisladas en Guadalupe y Calvo, mientras que el jueves en Chínipas, Guazapares, Morelos, Guadalupe y Calvo y Coronado"
-image: /uploads/2021/images-clima-viento-11469.png
-video: nil
-audio: nil
-alt: Pronostica Protección Civil rachas de viento de 55 km/h  en Ciudad Juárez y Balleza
+image: "/uploads/2021/images-clima-viento-11469.png"
+video: "nil"
+audio: "nil"
+alt: "Pronostica Protección Civil rachas de viento de 55 km/h  en Ciudad Juárez y Balleza"
 front: false
-section: Local
+section: "Local"
+news_id: 185062
 ---
 
 

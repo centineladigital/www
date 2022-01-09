@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se reunió este lunes de manera virtual con líderes, dirigentes y autoridades electas del Partido de la Revolución Democrática"
-image: /uploads/2021/images-WhatsApp_Image_2021-08-17_at_10.14.02.jpeg
-video: nil
-audio: nil
-alt: Pongamos al centro lo que nos mantiene unidos -  la democracia, la lucha contra la pobreza y el bien común”; se reúne Maru Campos con el PRD
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-17_at_10.14.02.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Pongamos al centro lo que nos mantiene unidos -  la democracia, la lucha contra la pobreza y el bien común”; se reúne Maru Campos con el PRD"
 front: false
-section: Local
+section: "Local"
+news_id: 186768
 ---
 
 Estuvieron presentes Jesús Zambrano y Adriana Díaz, presidente y secretaria general del Comité Ejecutivo Nacional del PRD, respectivamente, así como José Luis Acosta y Nohemí Aguilar, dirigentes estatales, Brenda Acosta, presidenta de la mesa directiva del Consejo Estatal, Pavel Aguilar, militante del mismo partido e Ivonne de la Hoya, presidenta municipal Electa de Ascensión, entre otros militantes del partido del Sol Azteca.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Violencia en zona serrana y occidente hicieron avanzar escalafones."
-image: /uploads/2021/images-PENICHE.jpg
-video: /uploads/2021/videos-ML02_CESAR_PENICHE.mp4
-audio: nil
-alt: Cuatro municipios incrementaron incidencia de homicidios -  Fiscal
+image: "/uploads/2021/images-PENICHE.jpg"
+video: "/uploads/2021/videos-ML02_CESAR_PENICHE.mp4"
+audio: "nil"
+alt: "Cuatro municipios incrementaron incidencia de homicidios -  Fiscal"
 front: false
-section: Local
+section: "Local"
+news_id: 186490
 ---
 
 El que Chihuahua se encuentre en el tercer lugar de homicidios a nivel nacional se debe al incremento de este delito en cuatro municipios serranos, aseveró el Fiscal General del Estado, César Peniche Espejel. Destacando que siempre el estado se encuentra en el cuarto o quinto lugar.

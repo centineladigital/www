@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fernando del Solar preocupa a sus seguidores, el conductor fue visto saliendo de un hospital en sillas de ruedas y oxígeno. "
-image: /uploads/2021/images-conductor-revelado-razon-acudio-hospital.jpg
-video: nil
-audio: nil
-alt: Captan a Fernando del Solar saliendo de hospital en silla de ruedas y usando oxígeno
+image: "/uploads/2021/images-conductor-revelado-razon-acudio-hospital.jpg"
+video: "nil"
+audio: "nil"
+alt: "Captan a Fernando del Solar saliendo de hospital en silla de ruedas y usando oxígeno"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185399
 ---
 
 En los últimos meses Fernando del Solar ha compartido en sus redes sociales que tras unos meses donde su salud se vio afectada, ya se está recuperando, sin embargo, recientemente el conductor encendió las alarmas después de que fuera captado saliendo de un hospital en silla de rudas y usando oxígeno. 

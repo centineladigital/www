@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Daniela, hija de Héctor Parra, hizo un llamado a las autoridades ya que asegura no han atendido el caso de su padre con justicia; arremetió contra Sergio Mayer."
-image: /uploads/2021/images-la-joven-tambien-hizo-un_40_0_1044_650.jpg
-video: nil
-audio: nil
-alt: La justicia no está a tu merced -  Daniela, hija de Héctor Parra, arremete contra Sergio Mayer
+image: "/uploads/2021/images-la-joven-tambien-hizo-un_40_0_1044_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "La justicia no está a tu merced -  Daniela, hija de Héctor Parra, arremete contra Sergio Mayer"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185663
 ---
 
 Recientemente el abogado de Héctor Parra, actor que es acusado de supuesto abuso sexual en contra de su hija Alexa, declaró que interpuso una demanda en contra de personal del Ministerio Público por no atender el caso del histrión conforme a justicia. Ahora, la hija mayor de Parra, Daniela, hizo un llamado a las autoridades y volvió a arremeter contra Sergio Mayer. 

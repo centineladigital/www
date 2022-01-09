@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Stefanía de Aranda, esposa de Emir Pabón fue sometida a una cirugía después del accidente que sufrió junto al cantante; la conductora está embarazada."
-image: /uploads/2021/images-emir-pabon-esposa-sufren-aparatoso.jpg
-video: nil
-audio: nil
-alt: Esposa de Emir Pabón se sometió a cirugía de alto riesgo tras accidente; su bebé está bien
+image: "/uploads/2021/images-emir-pabon-esposa-sufren-aparatoso.jpg"
+video: "nil"
+audio: "nil"
+alt: "Esposa de Emir Pabón se sometió a cirugía de alto riesgo tras accidente; su bebé está bien"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185258
 ---
 
 El 11 de junio Emir Pabón y su esposa Stefanía e Aranda tomaron un Uber en Estados Unidos, sin embargo, el conductor sobrepasó el límite de velocidad lo que provocó un accidente en el que el cantante y la conductora salieron lastimados, en especial ella, quien se sometió a una operación de alto riesgo a sus seis meses de embarazo.

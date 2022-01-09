@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Con un valor aproximado de más de 200 de millones de pesos en el mercado ilegal"
-image: /uploads/2021/images-12345.jpeg
-video: nil
-audio: nil
-alt: Incinera Fiscalía Zona Centro más de 5.4 millones de dosis de narcóticos
+image: "/uploads/2021/images-12345.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Incinera Fiscalía Zona Centro más de 5.4 millones de dosis de narcóticos"
 front: false
-section: Local
+section: "Local"
+news_id: 186290
 ---
 
 La Fiscalía de Distrito Zona Centro llevo a cabo la destrucción de 5 millones 480 mil 056, dosis de narcóticos, con un valor aproximado de más de 200 millones de pesos en el mercado ilegal.

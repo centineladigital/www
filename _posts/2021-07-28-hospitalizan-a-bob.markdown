@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor y protagonista de Better Call Saul, Bob Odenkirk, fue hospitalizado tras desplomarse en set de grabación en Nuevo México. "
-image: /uploads/2021/images-bob-odenkirk-better-call-saul.jpg
-video: nil
-audio: nil
-alt: Hospitalizan a Bob Odenkirk, protagonista de 'Better Call Saul', tras desplomarse en set
+image: "/uploads/2021/images-bob-odenkirk-better-call-saul.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hospitalizan a Bob Odenkirk, protagonista de 'Better Call Saul', tras desplomarse en set"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186063
 ---
 
 El actor Bob Odenkirk fue hospitalizado este martes tras desmayarse en el set de la serie de la que es protagonista, 'Better Call Saul', también ubicada como la precuela de la exitosa 'Breaking Bad'.

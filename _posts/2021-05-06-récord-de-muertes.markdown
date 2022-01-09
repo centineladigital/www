@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las muertes contabilizadas por la ONS están relacionadas en su mayoría con problemas de adicción de larga duración"
-image: /uploads/2021/images-2574131.jpg
-video: nil
-audio: nil
-alt: Récord de muertes ligadas al alcohol en Inglaterra durante los confinamientos
+image: "/uploads/2021/images-2574131.jpg"
+video: "nil"
+audio: "nil"
+alt: "Récord de muertes ligadas al alcohol en Inglaterra durante los confinamientos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184308
 ---
 
 El número anual de muertes relacionadas con el alcohol en Inglaterra y Gales alcanzó un récord en 2020, informó este jueves la Oficina de Estadísticas Nacionales (ONS), constatando un muy fuerte aumento desde el primer confinamiento en marzo del año pasado.

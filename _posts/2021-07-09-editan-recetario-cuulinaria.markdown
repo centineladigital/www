@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Invitan a descargarlo en redes sociales y páginas de la dependencia municipal."
-image: /uploads/2021/images-JESUS.jpg
-video: nil
-audio: /uploads/2021/audio-MV06.mp3
-alt: Editan recetario CUUlinaria segunda edición
+image: "/uploads/2021/images-JESUS.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV06.mp3"
+alt: "Editan recetario CUUlinaria segunda edición"
 front: false
-section: Local
+section: "Local"
+news_id: 185519
 ---
 
 De forma virtual la segunda parte de CUUlinaria fue editada y los ciudadanos pueden descargar el libro, esto a través de redes sociales. Por lo que la gente puede tener en su librería virtual este libro que busca fomentar la cultura gastronómica de Chihuahua.

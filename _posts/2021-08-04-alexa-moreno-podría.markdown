@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Gustavo Salazar, presidente de la Federación Mexicana de Gimnasia, mencionó que Moreno está considerando retirarse del deporte, aunque considera que todavía tiene carrera por delante  "
-image: /uploads/2021/images-alexa-moreno-en-la-final.jpg
-video: nil
-audio: nil
-alt: Alexa Moreno podría retirarse de la gimnasia después de Tokio
+image: "/uploads/2021/images-alexa-moreno-en-la-final.jpg"
+video: "nil"
+audio: "nil"
+alt: "Alexa Moreno podría retirarse de la gimnasia después de Tokio"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186276
 ---
 
 La gimnasta Alexa Moreno puso el nombre de México en alto en Tokio 2020 cuando quedó en la cuarta posición en la competencia de salto de caballo. Sin embargo, la atleta estaría considerando retirarse luego de participar en los Juegos Olímpicos, según mencionó el presidente de la Federación Mexicana de Gimnasia. 

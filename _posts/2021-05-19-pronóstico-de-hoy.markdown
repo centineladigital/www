@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa Protección Civil que para el jueves 20 de mayo se prevé la entrada de un nuevo frente frío, que representaría el número 57 de la temporada   "
-image: /uploads/2021/images-descarga.jpg
-video: nil
-audio: nil
-alt: Pronóstico de hoy -  rachas de viento de entre 45 y 35 km/h en el estado
+image: "/uploads/2021/images-descarga.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pronóstico de hoy -  rachas de viento de entre 45 y 35 km/h en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184544
 ---
 
 Para este miércoles 19 de mayo se pronostican ráfagas de viento de entre 45 y 35 kilómetros por hora (km/h), principalmente en partes del norte y noroeste, sobre todo en Ciudad Juárez y Janos, informó la Coordinación Estatal de Protección Civil (CEPC).

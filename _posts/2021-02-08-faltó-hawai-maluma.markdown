@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras la presentación de The Weeknd en el medio tiempo del Super Bowl, Maluma empleó sus redes sociales para decir qué fue lo que faltó."
-image: /uploads/2021/images-maluma-tardo-reaccionar-show-famoso.jpg
-video: nil
-audio: nil
-alt: Faltó 'Hawai'; Maluma reacciona a show de The Weeknd en medio tiempo del Super Bowl
+image: "/uploads/2021/images-maluma-tardo-reaccionar-show-famoso.jpg"
+video: "nil"
+audio: "nil"
+alt: "Faltó 'Hawai'; Maluma reacciona a show de The Weeknd en medio tiempo del Super Bowl"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182782
 ---
 
 Llegó el gran día y The Weeknd desplegó todo su poder en el Raymond James, en Florida, en el show más famoso y esperado de Estados Unidos. Y tras la presentación del canadiense las reacciones no se hicieron esperar y una de las más destacadas fue la de Maluma, quien recurrió a sus redes sociales para dejar su comentario del performance. 

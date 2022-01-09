@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "De acuerdo con el último reporte epidemiológico, el número de contagios aumentó en 112 para totalizar 67,436, de los cuales 33,985 corresponden al sexo masculino y 33,451 al femenino"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Han fallecido 2,763 mujeres y 4,146 hombres por COVID-19 en el estado de Chihuahua
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Han fallecido 2,763 mujeres y 4,146 hombres por COVID-19 en el estado de Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 184561
 ---
 
 La Secretaría de Salud informó en el Reporte COVID-19 Conferencia Informativa #413, Virtual #373, que hasta el último reporte epidemiológico se tienen en el estado de Chihuahua un total acumulado de 67 mil 436 casos confirmados, luego de que se sumaron otros 112.

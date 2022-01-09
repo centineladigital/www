@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "De acuerdo con el canciller Ebrard Casaubón lo que se acordó en la conversación es que ambas naciones deberán apoyarse en todo lo concerniente a la lucha contra la pandemia de Covid-19"
-image: /uploads/2021/images-2522296.jpg
-video: nil
-audio: nil
-alt: López Obrador si solicitó vacunas a EU -  SRE
+image: "/uploads/2021/images-2522296.jpg"
+video: "nil"
+audio: "nil"
+alt: "López Obrador si solicitó vacunas a EU -  SRE"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182622
 ---
 
 El secretario de relaciones exteriores, Marcelo Ebrard confirmó que el presidente Andrés Manuel López Obrador pidió vacunas para aplicar a la población mexicana, a su homólogo estadounidense, Joe Biden.

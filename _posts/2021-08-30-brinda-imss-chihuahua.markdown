@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Si se vive con asma se deben extremar precauciones para reducir el riesgo de contagio de COVID-19, pues la combinación de ambas enfermedades puede favorecer complicaciones que requieran de hospitalización"
-image: /uploads/2021/images-Foto_4030-1.jpg
-video: nil
-audio: nil
-alt: Brinda IMSS Chihuahua recomendaciones para atender asma ante COVID-19
+image: "/uploads/2021/images-Foto_4030-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Brinda IMSS Chihuahua recomendaciones para atender asma ante COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 187245
 ---
 
 El asma es una enfermedad crónica, no contagiosa que se caracteriza por ataques recurrentes de dificultad para respirar y sibilancias, que varían en severidad y frecuencia de una persona a otra. Se presenta inflamación crónica de la vía aérea, a la altura de los bronquios, lo que produce aumento de secreción y tos; esto hace más difícil el acceso del aire y da la sensación de opresión en el pecho indican los especialistas del Instituto Mexicano del Seguro Social (IMSS) en Chihuahua.

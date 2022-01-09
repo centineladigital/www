@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Problema se registra a nivel nacional."
-image: /uploads/2021/images-WENDY_.jpg
-video: nil
-audio: /uploads/2021/audio-MJ02_WENDY_AVILA.mp3
-alt: Sin vacunas contra tuberculosis en Chihuahua
+image: "/uploads/2021/images-WENDY_.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ02_WENDY_AVILA.mp3"
+alt: "Sin vacunas contra tuberculosis en Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 182148
 ---
 
 Tanto en el estado como a nivel nacional no se cuenta con vacunas de tuberculosis la cual se aplica a los neonatos, señaló Wendy Avila Coronado Subdirectora de Medicina Preventiva y Promoción de la Salud.

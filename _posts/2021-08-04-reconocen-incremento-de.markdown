@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Desde el 21 de junio se notan incrementos en los casos."
-image: /uploads/2021/images-informe_tecnico_03_agosto_page-0003.jpg
-video: nil
-audio: /uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp4
-alt: Reconocen incremento de casos COVID
+image: "/uploads/2021/images-informe_tecnico_03_agosto_page-0003.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp4"
+alt: "Reconocen incremento de casos COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 186297
 ---
 
 Desde la semana 25 se ha registrado un incremento de casos por semana, señaló el Director Médico Zona Norte Arturo Valenzuela Zorrilla, quien exhortó a vacunarse y dejar de hacer caso a mitos y desinformación que se maneja en redes, añadiendo que actualmente se tienen estadísticas de muerte en mayor rango a los no vacunados. 

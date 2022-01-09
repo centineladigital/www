@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tania Ruiz dedicó un largo y romántico mensaje en el que felicitó a su novio, Enrique Peña Nieto por su cumpleaños. Esto fue lo que le dijo la modelo al ex presidente. "
-image: /uploads/2021/images-la-modelo-expreso-su-sentir.jpg
-video: nil
-audio: nil
-alt: Encontré a una pareja -  Tania Ruiz dedica romántico mensaje a su novio, Peña Nieto, por su cumpleaños
+image: "/uploads/2021/images-la-modelo-expreso-su-sentir.jpg"
+video: "nil"
+audio: "nil"
+alt: "Encontré a una pareja -  Tania Ruiz dedica romántico mensaje a su novio, Peña Nieto, por su cumpleaños"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185855
 ---
 
 Este 20 de julio Enrique Peña Nieto, ex presidente de México, celebra su 55 cumpleaños, es por eso que su novia Tania Ruiz le dedicó un extenso y romántico mensaje en el que aprovechó para felicitarlo y expresar su sentir por este día, además que recalcó lo enamorada que está del político.

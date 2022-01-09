@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Continúa en 7 mil 812 el número de defunciones en la entidad, al no registrarse casos en el reporte epidemiológico estatal; la ocupación hospitalaria está por debajo del 60 por ciento en 16 de las 23 unidades especializadas con pacientes con coronavirus  "
-image: /uploads/2021/images-Diapositiva2_(1).JPG
-video: nil
-audio: nil
-alt: Suman 75 mil 611 contagios por COVID-19 con 63 nuevos confirmados
+image: "/uploads/2021/images-Diapositiva2_(1).JPG"
+video: "nil"
+audio: "nil"
+alt: "Suman 75 mil 611 contagios por COVID-19 con 63 nuevos confirmados"
 front: false
-section: Local
+section: "Local"
+news_id: 187282
 ---
 
 La Secretaría de Salud dio a conocer que en el último reporte epidemiológico estatal COVID-19 se agregaron 63 contagios, con lo suman un total general de 75 mil 611; mientras que las defunciones son 7 mil 812.

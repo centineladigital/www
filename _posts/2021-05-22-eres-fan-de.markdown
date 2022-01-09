@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Habrá mesas de historietas, conversatorios, así como las presentaciones de los libros “Minotauro” y “El Jilo”"
-image: /uploads/2021/images-PORTADAS_MESA_DE_COMIC_(1).jpg
-video: nil
-audio: nil
-alt: ¿Eres fan de los cómics? Conoce las actividades que la Feria del Libro de la Frontera tiene para ti
+image: "/uploads/2021/images-PORTADAS_MESA_DE_COMIC_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Eres fan de los cómics? Conoce las actividades que la Feria del Libro de la Frontera tiene para ti"
 front: false
-section: Local
+section: "Local"
+news_id: 184604
 ---
 
 Como parte de la Feria del Libro de la Frontera (FELIF), que se realizará del 21 al 30 de mayo de manera virtual, la Secretaría de Cultura de Chihuahua invita al público en general a  disfrutar del segmento “Cómic y novela gráfica”.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Las denominadas conferencias mañaneras, han sido uno de los principales ejercicios de enlace del presidente con los mexicanos"
-image: /uploads/2021/images-y5y55y.jpg
-video: nil
-audio: /uploads/2021/audio-AJ03_BENJAMIN_CARRERA_CHAVEZ.mp3
-alt: “Panistas le tienen miedo a AMLO”, Señala Benjamín Carrera por intento de censura
+image: "/uploads/2021/images-y5y55y.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AJ03_BENJAMIN_CARRERA_CHAVEZ.mp3"
+alt: "“Panistas le tienen miedo a AMLO”, Señala Benjamín Carrera por intento de censura"
 front: false
-section: Local
+section: "Local"
+news_id: 182144
 ---
 
 Luego que el titular del Instituto Nacional Electoral (INE) Lorenzo Córdova manifestara su intención de censurar las conferencias matutinas del Presidente Andrés Manuel López Obrador, donde informa diariamente sobre las acciones y trabajo del gobierno federal a los ciudadanos, el diputado Benjamín Carrera Chávez señaló el temor que tiene la oposición al mandatario por su constante ejercicio de comunicación.

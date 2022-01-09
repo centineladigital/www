@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El retorno a las aulas será de manera gradual, dando prioridad a las prácticas en laboratorios y talleres y cuidando las medidas de seguridad y sanitarias implementadas por el sector Salud con motivo de la pandemia"
-image: /uploads/2021/images-IMG_5834.JPG
-video: nil
-audio: nil
-alt: Regresa Universidad Tecnológica de Chihuahua Sur a clases  bajo el modelo CASA
+image: "/uploads/2021/images-IMG_5834.JPG"
+video: "nil"
+audio: "nil"
+alt: "Regresa Universidad Tecnológica de Chihuahua Sur a clases  bajo el modelo CASA"
 front: false
-section: Local
+section: "Local"
+news_id: 187505
 ---
 
 Con el compromiso de brindar un regreso seguro a clases, la Universidad Tecnológica de Chihuahua Sur (UTCH Sur) inició el cuatrimestre septiembre-diciembre 2021 bajo los lineamientos del modelo de los Centros de Asesoría y Seguimiento Académico (CASA), desarrollado por la Secretaría de Educación y Deporte (SEyD).

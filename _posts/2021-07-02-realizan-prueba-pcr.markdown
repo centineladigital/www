@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Solamente la representante de Chihuahua dio positivo a COVID."
-image: /uploads/2021/images-MESTA.jpg
-video: nil
-audio: /uploads/2021/audio-MV03_FERNADO_MESTA.mp3
-alt: Realizan prueba PCR a organizadores y participantes de Miss Chihuahua
+image: "/uploads/2021/images-MESTA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV03_FERNADO_MESTA.mp3"
+alt: "Realizan prueba PCR a organizadores y participantes de Miss Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 185355
 ---
 
 La prueba PCR fue realizada a todos los integrantes del comité organizador así como a las participantes, señaló el titular de la Secretaría General de Gobierno, esto al señalar que la representante del municipio de Chihuahua dio positivo a COVID.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Beneficidos tres mil 250 personas en la sexta etapa del programa."
-image: /uploads/2021/images-CORRAL.jpg
-video: /uploads/2021/videos-ML02_JAVIER_CORRAL.mp4
-audio: nil
-alt: Presenta programa Soy México 
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "/uploads/2021/videos-ML02_JAVIER_CORRAL.mp4"
+audio: "nil"
+alt: "Presenta programa Soy México "
 front: false
-section: Local
+section: "Local"
+news_id: 185806
 ---
 
 Este lunes fueron entregadas actas dentro del programa “Soy México”, la cual permite que menores nacidos en otros países y de padres mexicanos puedan tramitar la nacionalidad mexicana. Destacando por parte del Gobernador, que en esta sexta edición se beneficiaron tres ml 250 personas.

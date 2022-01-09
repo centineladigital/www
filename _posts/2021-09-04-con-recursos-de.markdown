@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de la Secretaría de Desarrollo Municipal se invierten en este municipio más de 3.6 mdp, mientras que en Gómez Farías entregaron dos canchas con valor de 1 mdp y en Janos una techumbre por 1.3 mdp; destaca la intervención de los Comités de Participación Ciudadana"
-image: /uploads/2021/images-5f49e4cd-89d6-4e0b-8e47-7b4ca2c2b147.jpg
-video: nil
-audio: nil
-alt: Con recursos de la Operación Justicia para Chihuahua inaugura Estado obras en La Cruz
+image: "/uploads/2021/images-5f49e4cd-89d6-4e0b-8e47-7b4ca2c2b147.jpg"
+video: "nil"
+audio: "nil"
+alt: "Con recursos de la Operación Justicia para Chihuahua inaugura Estado obras en La Cruz"
 front: false
-section: Local
+section: "Local"
+news_id: 187441
 ---
 
 El gobierno del Estado, a través de la Secretaría de Desarrollo Municipal (Sedemun), en coordinación el Ayuntamiento de La Cruz, inauguró y supervisó obras pon un monto de 3 millones 674 mil 835.59 pesos.

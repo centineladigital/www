@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el tramo comprendido entre las calles Juárez y Aldama, de las 7:30 a las 10:00 horas"
-image: /uploads/2021/images-WhatsApp_Image_2021-09-10_at_15.47.28.jpeg
-video: nil
-audio: nil
-alt: Este sábado se interrumpirá la circulación sobre la avenida Venustiano Carranza un par de horas
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-10_at_15.47.28.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Este sábado se interrumpirá la circulación sobre la avenida Venustiano Carranza un par de horas"
 front: false
-section: Local
+section: "Local"
+news_id: 187637
 ---
 
 La Secretaría de Educación y Deporte (SEyD) en coordinación con la Dirección de Vialidad y Tránsito informaron que con motivo del ensayo de la ceremonia que se realizará para celebrar el 211 Aniversario de la Independencia Nacional, este sábado 11 de septiembre se cerrará la circulación en ambos sentidos de la avenida Carranza, en el tramo comprendido entre las calles Juárez y Aldama.

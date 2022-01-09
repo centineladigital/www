@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El conjunto dirigido por Jaime Lozano se enfrentará al combinado japonés este viernes 6 de agosto "
-image: /uploads/2021/images-seleccion-mexicana-reuters-1_58_0_1084_674.jpg
-video: nil
-audio: nil
-alt: Tri jugará por el bronce ante Japón; España y Brasil pelearán el oro en Juegos Olímpicos
+image: "/uploads/2021/images-seleccion-mexicana-reuters-1_58_0_1084_674.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tri jugará por el bronce ante Japón; España y Brasil pelearán el oro en Juegos Olímpicos"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186224
 ---
 
 Con un tanto en solitario y en los tiempos extra de Marco Asensio, la selección española se impuso a su similar de Japón, combinado local, y consiguió el boleto a la final de futbol varonil en los Juegos Olímpicos de Tokio 2020. 

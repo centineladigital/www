@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: " 53 mil punto cuatro docentes que se han registrado"
-image: /uploads/2021/images-CORRAL1.jpg
-video: nil
-audio: /uploads/2021/audio-MM02_JAVIER_CORRAL.mp3
-alt: Un 60 por ciento de docentes preinscritos para vacuna
+image: "/uploads/2021/images-CORRAL1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM02_JAVIER_CORRAL.mp3"
+alt: "Un 60 por ciento de docentes preinscritos para vacuna"
 front: false
-section: Local
+section: "Local"
+news_id: 184410
 ---
 
 Un 60 por ciento de los docentes se inscribieron a unas horas de que concluya el pre-registro para la aplicación de las vacunas COVID, según fue dado a conocer por parte del Gobernador del Estado Javier Corral Jurado.

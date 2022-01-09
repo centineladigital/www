@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La edición especial 'Kid A Mnesia' será lanzado en el mes de noviembre. "
-image: /uploads/2021/images-radiohead-hara-entretenida-cuarentena-instagram_0_17_583_363.jpg
-video: nil
-audio: nil
-alt: ¡Están de vuelta! Radiohead lanza nueva canción y anuncia álbum conmemorativo
+image: "/uploads/2021/images-radiohead-hara-entretenida-cuarentena-instagram_0_17_583_363.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Están de vuelta! Radiohead lanza nueva canción y anuncia álbum conmemorativo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187528
 ---
 
 La industria de la música poco a poco está volviendo a la normalidad. Muestra de ello es el regreso de conciertos y festivales a lo largo y ancho del mundo, pero también este regresó trae consigo sorpresas y música nueva. 

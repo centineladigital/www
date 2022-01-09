@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A pesar de que la película se realizará en territorio español, la trama no tratará sobre España, adelantó Tilda Swinton. "
-image: /uploads/2021/images-fichaje-cranston-anunciado-hope-davis.jpg
-video: nil
-audio: nil
-alt: ¡Junto a Scarlett Johansson y Tom Hanks! Bryan Cranston participará en la nueva película de Wes Anderson
+image: "/uploads/2021/images-fichaje-cranston-anunciado-hope-davis.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Junto a Scarlett Johansson y Tom Hanks! Bryan Cranston participará en la nueva película de Wes Anderson"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186829
 ---
 
 La película que Wes Anderson va a rodar en España sigue revelando grandes nombres en su elenco, pues este martes la revista especializada The Hollywood Reporter dio a conocer que el actor que se encumbró con la serie Breaking Bad, Bryan Cranston, también formará parte del filme. El fichaje de Cranston fue anunciado hoy junto a los de Hope Davis, Jeffrey Wright y Liev Schreiber, unas incorporaciones que redondean el mayúsculo reparto anunciado en los últimos días. 

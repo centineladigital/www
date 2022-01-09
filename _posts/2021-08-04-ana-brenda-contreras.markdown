@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aarón Díaz será Eugenio Casasola, un periodista que une fuerzas con la teniente Edith Mondragón, interpretada por la actriz Ana Brenda Contreras. "
-image: /uploads/2021/images-ana-brenda-contreras-aaron-diaz.jpg
-video: nil
-audio: nil
-alt: Ana Brenda Contreras y Aarón Díaz protagonizarán 'Toda la sangre', serie policiaca
+image: "/uploads/2021/images-ana-brenda-contreras-aaron-diaz.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ana Brenda Contreras y Aarón Díaz protagonizarán 'Toda la sangre', serie policiaca"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186289
 ---
 
 Aarón Díaz y Ana Brenda Contreras unirán sus talentos para protagonizar juntos la serie de suspenso criminal mexicana, Toda la Sangre, la adaptación de uno de los libros más vendidos del escritor de novelas policíacas, Bernardo Esquinca, según informó el portal de internet Deadline. 

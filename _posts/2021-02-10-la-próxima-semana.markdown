@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "López Obrador recordó que con el embarque Pfizer que llegará la próxima semana se tendrán suficientes dosis para concluir la vacunación de personal médico y se comenzar con personas de la tercera edad"
-image: /uploads/2021/images-2527028.jpg
-video: nil
-audio: nil
-alt: La próxima semana arranca vacunación de adultos mayores
+image: "/uploads/2021/images-2527028.jpg"
+video: "nil"
+audio: "nil"
+alt: "La próxima semana arranca vacunación de adultos mayores"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182824
 ---
 
 La próxima semana arrancará la vacunación de personas adultas mayores en México con el embarque de dosis provenientes de la India, informó el presidente Andrés Manuel López Obrador.

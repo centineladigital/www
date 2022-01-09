@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El programa contempla capacitación por parte de las empresas del sector; los jóvenes recibirán una beca mensual de cuatro mil 310 pesos mensuales y seguro médico "
-image: /uploads/2021/images-2522569.jpg
-video: nil
-audio: nil
-alt: Reactivarán turismo en CDMX con 'Jóvenes Construyendo el Futuro'
+image: "/uploads/2021/images-2522569.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reactivarán turismo en CDMX con 'Jóvenes Construyendo el Futuro'"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182645
 ---
 
 El Gobierno federal anunció la estrategia de apoyo al turismo de la Ciudad de México en colaboración con el Programa Jóvenes Construyendo el Futuro para que sean capacitados por las empresas del sector, donde recibirán una beca mensual de cuatro mil 310 pesos mensuales y seguro médico. 

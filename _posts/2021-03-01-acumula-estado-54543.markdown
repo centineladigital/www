@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Dan positivo 185 personas más y se confirman 26 decesos en las últimas 24 horas; Chihuahua es el municipio con más casos confirmados activos con 283, seguido de Juárez con 76"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Acumula estado 54,543 contagios y 5,256 defunciones por  COVID-19
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Acumula estado 54,543 contagios y 5,256 defunciones por  COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 183207
 ---
 
 A doce  meses de registrarse el primer caso de COVID-19 en la entidad, suman 54 mil 543 contagios acumulados y 5 mil 256 defunciones, de acuerdo con el reporte que diariamente emite la Secretaría de Salud.

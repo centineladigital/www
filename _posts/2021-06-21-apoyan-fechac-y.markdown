@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Empresarios de la comunidad menonita han estado trabajando en conjunto para combatir los incendios forestales "
-image: /uploads/2021/images-Fechac_incendos_forestales_2.jfif
-video: nil
-audio: nil
-alt: Apoyan Fechac y empresariado a brigadistas de la Sierra Tarahumara
+image: "/uploads/2021/images-Fechac_incendos_forestales_2.jfif"
+video: "nil"
+audio: "nil"
+alt: "Apoyan Fechac y empresariado a brigadistas de la Sierra Tarahumara"
 front: false
-section: Local
+section: "Local"
+news_id: 185138
 ---
 
 La Fundación del Empresariado Chihuahuense, A. C. (FECHAC) en alianza con empresarios de la comunidad menonita apoyan a brigadistas que combaten los incendios forestales ocurridos en municipios de la Zona Serrana, mediante riego aéreo y la entrega de apoyo alimentario.

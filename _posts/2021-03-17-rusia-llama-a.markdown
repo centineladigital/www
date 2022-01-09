@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El gobierno de Rusia convoca a su embajador en EU, Anatoli Antonov, para analizar qué hay que hacer luego de que Joe Biden tachara de 'asesino' a Vladimir Putin"
-image: /uploads/2021/images-2546639.jpg
-video: nil
-audio: nil
-alt: Rusia llama a su embajador en EU tras declaración de Biden
+image: "/uploads/2021/images-2546639.jpg"
+video: "nil"
+audio: "nil"
+alt: "Rusia llama a su embajador en EU tras declaración de Biden"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183450
 ---
 
 Rusia anunció este miércoles que había llamado a su embajador en Washington para consultas, aunque aseguró que quería evitar la "degradación irreversible" de las relaciones con Estados Unidos.

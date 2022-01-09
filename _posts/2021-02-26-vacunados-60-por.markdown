@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Avanza vacunación de primera línea, esto para trabajadores de la salud."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-MV02_WENDY_AVILA.mp3
-alt: Vacunados 60 por ciento del personal de salud
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV02_WENDY_AVILA.mp3"
+alt: "Vacunados 60 por ciento del personal de salud"
 front: false
-section: Local
+section: "Local"
+news_id: 183183
 ---
 
 El 60 por ciento del personal de salud dentro del estado se encuentra vacunado, según lo dio a conocer la Subdirectora de Medicina Preventiva y Promoción de la Salud, Wendy Ávila Coronado. La funcionaria destacó que se espera el cumplir con la meta antes.

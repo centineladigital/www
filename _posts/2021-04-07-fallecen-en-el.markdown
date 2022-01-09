@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma Salud 161 nuevos contagios y 296 pacientes hospitalizados; a la fecha van 59, 325 casos y 5,730 decesos acumulados"
-image: /uploads/2021/images-Diapositiva3.JPG
-video: nil
-audio: nil
-alt: Fallecen en el estado 29 personas más por COVID-19
+image: "/uploads/2021/images-Diapositiva3.JPG"
+video: "nil"
+audio: "nil"
+alt: "Fallecen en el estado 29 personas más por COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 183735
 ---
 
 La Secretaría de Salud de Chihuahua confirmó 161 nuevos casos de COVID-19 y 29 defunciones, lo que representa un acumulado estatal de 59 mil 325 contagios y 5 mil 730 personas fallecidas en lo que va de la pandemia.

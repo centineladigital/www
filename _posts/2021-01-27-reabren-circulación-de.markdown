@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Al recuperarse las condiciones de seguridad, autoridades de Protección Civil permiten la circulación en ambos sentidos; fue cerrada el martes a las 15:00 horas por acumulación de nieve y cristalización de la cinta asfáltica"
-image: /uploads/2021/images-REABRE_JANOS-PTO_SAN_LUIS_(2).jpeg
-video: nil
-audio: nil
-alt: Reabren circulación de carretera en tramo Janos-Puerto San Luis
+image: "/uploads/2021/images-REABRE_JANOS-PTO_SAN_LUIS_(2).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Reabren circulación de carretera en tramo Janos-Puerto San Luis"
 front: false
-section: Local
+section: "Local"
+news_id: 182491
 ---
 
 En punto de las 13:00 horas las autoridades permitieron la reapertura del tráfico en ambos sentidos, de la carretera Janos-Puerto San Luis, que comunica con Agua Prieta, Sonora, informó la Coordinación Estatal de Protección Civil.

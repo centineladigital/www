@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Eduardo 'Lolo' Jiménez participó en el reality show de La Academia Bicentenario de TV Azteca en 2010. "
-image: /uploads/2021/images-murio-lolo-jimenez-academia-culpa.jpg
-video: nil
-audio: nil
-alt: Murió Lolo Jiménez, ex integrante de 'La Academia' de TV Azteca; tenía covid-19
+image: "/uploads/2021/images-murio-lolo-jimenez-academia-culpa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Murió Lolo Jiménez, ex integrante de 'La Academia' de TV Azteca; tenía covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182961
 ---
 
 Eduardo Jiménez, mejor conocido como Lolo Jiménez, ex integrante de La Academia Bicentenario de TV Azteca, murió tras luchar contra el coronavirus, covid-19 por varias semanas. De acuerdo con lo revelado por Chisme No Like, el famoso llevaba varios días internado, luchando, contra el contagio en un hospital de la Ciudad de México.

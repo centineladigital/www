@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los sismos ocurrieron con pocos minutos de diferencia y ambos tuvieron epicentro en el municipio de San Felipe, así como una profundidad de cinco kilómetros"
-image: nil
-video: nil
-audio: nil
-alt: Sismos de magnitud mayor a 4 se sienten en Guanajuato y SLP
+image: "/uploads/2021/images-sismos-guanajuato-ocurrieron-minutos-diferencia_0_0_455_283.png"
+video: "nil"
+audio: "nil"
+alt: "Sismos de magnitud mayor a 4 se sienten en Guanajuato y SLP"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187424
 ---
 
 Dos sismos de magnitud 4.5 y 3.6 se sintieron hoy en Guanajuato, ambos tuvieron epicentro en el norte del municipio de San Felipe y ocurrieron con pocos minutos de diferencia, informó el Servicio Sismológico Nacional (SSN). Además, se reportó otro temblor con de magnitud de 4.4 en Cueramaro. 

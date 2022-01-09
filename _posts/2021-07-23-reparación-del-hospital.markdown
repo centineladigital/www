@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Aclara Eduardo Fernández que el nosocomio sigue en funcionamiento; la Secretaría de Cultura estatal estará a cargo del rescate de los archivos que pudieron resultar dañados"
-image: /uploads/2021/images-WhatsApp_Image_2021-07-23_at_1.00.11_PM.jpeg
-video: nil
-audio: nil
-alt: Reparación del Hospital Central será con base en peritaje del INAH -  Secretario de Salud
+image: "/uploads/2021/images-WhatsApp_Image_2021-07-23_at_1.00.11_PM.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Reparación del Hospital Central será con base en peritaje del INAH -  Secretario de Salud"
 front: false
-section: Local
+section: "Local"
+news_id: 185951
 ---
 
 El secretario de Salud, Eduardo Fernández Herrera, aclaró que el Hospital Central Universitario “Dr. Jesús Enrique Grajeda Herrera”, sigue en funcionamiento, brindado servicios a las y los derechohabientes, incluso el área de Laboratorios suspendió por apenas por un día, luego de los daños ocasionados por fuertes vientos y lluvia el pasado 19 de julio.

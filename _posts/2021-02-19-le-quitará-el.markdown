@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La comediante desató polémica al vestirse de la famosa villana sólo un día después de que el tráiler de la cinta de Emma Stone se hiciera público. "
-image: /uploads/2021/images-rebel-wilson-sorprende-look-cruella.jpg
-video: nil
-audio: nil
-alt: ¿Le quitará el papel a Emma Stone? Rebel Wilson sorprende con 'look' de Cruella de Vil
+image: "/uploads/2021/images-rebel-wilson-sorprende-look-cruella.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Le quitará el papel a Emma Stone? Rebel Wilson sorprende con 'look' de Cruella de Vil"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183041
 ---
 
 La actriz estadunidense, Rebel Wilson, sorprendió a sus fanáticos tras disfrazarse de la famosa villana de Disney, Cruella de Vil. La comediante publicó varias imágenes en su cuenta de Instagram junto a la leyenda,“No seas cruel”, en alusión al nombre del malvado personaje. En las fotografías que compartió con sus casi 10 millones de seguidores y que en poco tiempo superaron los 240 mil likes, la protagonista de Maestras del engaño(2019) vistió un entallado vestido negro de la casa de modas Gucci, labial rojo y la inconfundible cabellera de la icónica de Vil.

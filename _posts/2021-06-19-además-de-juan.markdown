@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue en los municipios de Ascensión, Cuauhtémoc, Parral, Chihuahua y Nuevo Casas Grandes, donde hasta este viernes se habían presentado impugnaciones"
-image: /uploads/2021/images-Loera.jpeg
-video: nil
-audio: nil
-alt: Además de Juan Carlos Loera, hay otras cinco impugnaciones
+image: "/uploads/2021/images-Loera.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Además de Juan Carlos Loera, hay otras cinco impugnaciones"
 front: false
-section: Local
+section: "Local"
+news_id: 185122
 ---
 
 Quien fuera candidato a la Gubernatura abanderado por la coalición integrada por Morena, PT y Panal, Juan Carlos Loera, presentó de manera oficial un medio de impugnación en contra de la elección de gobernador o gobernadora, donde resultó ganadora la abanderada del PAN y PRD, María Eugenia Campos.

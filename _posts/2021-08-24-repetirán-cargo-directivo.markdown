@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Definirá quienes estarán en el gabinete la próxima semana."
-image: /uploads/2021/images-BONILLA.jpg
-video: /uploads/2021/videos-MM05_MARCO_BONILLA.mp4
-audio: nil
-alt: Repetirán cargo directivo -  Bonilla
+image: "/uploads/2021/images-BONILLA.jpg"
+video: "/uploads/2021/videos-MM05_MARCO_BONILLA.mp4"
+audio: "nil"
+alt: "Repetirán cargo directivo -  Bonilla"
 front: false
-section: Local
+section: "Local"
+news_id: 187066
 ---
 
 “Estamos considerando que repitan algunos de los funcionarios del gabinete” fueron las palabras de Marco Antonio Bonilla Mendoza, quien dijo que aún no define que perfiles de los cuales espera que sea la próxima semana cuando lo haga.

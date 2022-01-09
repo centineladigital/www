@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras varias semanas en España, el actor reveló que extraña a Angelique Boyer, a quien le dedicó unas conmovedoras palabras. "
-image: /uploads/2021/images-sebastian-rulli-extrana-angelique-boyer_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Te sueño -  Sebastián Rulli confiesa que extraña a Angelique Boyer; así reaccionó la actriz
+image: "/uploads/2021/images-sebastian-rulli-extrana-angelique-boyer_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Te sueño -  Sebastián Rulli confiesa que extraña a Angelique Boyer; así reaccionó la actriz"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182553
 ---
 
 Sebastián Rulli se encuentra en España, país en donde vive su familia, debido a que su papá sufrió un derrame cerebral a principios de enero. Luego de varias semanas fuera de México, el actor reveló que extraña a Angelique Boyer, con quien mantiene una relación sentimental desde hace más de seis años; de inmediato, la actriz reaccionó a la conmovedora confesión. A través de su cuenta de Instagram, Sebastián Rulli compartió una serie de fotografías en las que aparece a lado de Angelique Boyer, mientras a sus espaldas se observa un romántico paisaje 

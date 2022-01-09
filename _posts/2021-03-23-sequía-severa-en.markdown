@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "El jueves 25 y viernes 26 de marzo se realizará una disminución en el suministro de agua, para regresar al mismo nivel hasta el 15 de mayo"
-image: /uploads/2021/images-2549862.jpg
-video: nil
-audio: nil
-alt: ¡Sequía severa en México! Cutzamala con menos de 50% de almacenamiento
+image: "/uploads/2021/images-2549862.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Sequía severa en México! Cutzamala con menos de 50% de almacenamiento"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183520
 ---
 
 El Sistema Cutzamala cayó a menos de 50 por ciento de almacenamiento, al pasar de 50.4 por ciento a 49.1 por ciento en la última semana.

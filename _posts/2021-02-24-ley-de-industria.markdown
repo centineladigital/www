@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La CFE se vuelve parte del desarrollo económico del país y sobre todo habrá un beneficio para las familias mexicanas, afirmó el líder nacional de Morena"
-image: /uploads/2021/images-2534955.jpg
-video: nil
-audio: nil
-alt: Ley de Industria Eléctrica recuperará patrimonio -  Delgado
+image: "/uploads/2021/images-2534955.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ley de Industria Eléctrica recuperará patrimonio -  Delgado"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183122
 ---
 
 La iniciativa enviada por el presidente de México a la Cámara de Diputados para reformar la Ley de Industria Eléctrica, busca recuperar el patrimonio de la nación y alcanzar la soberanía y seguridad energéticas, aseguró el presidente nacional de Morena, Mario Delgado.

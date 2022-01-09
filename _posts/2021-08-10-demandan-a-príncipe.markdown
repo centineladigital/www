@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Virginia Giuffre, quien ha acusado tanto el empresario, su esposa y el miembro de la realeza británica de haberla abusado sexualmente cuando tenía 16 años, aseguró que no tomó la decisión a la ligera"
-image: /uploads/2021/images-2624731.jpg
-video: nil
-audio: nil
-alt: Demandan a príncipe Andrés por presunto abuso sexual ligado a caso Jeffrey Epstein
+image: "/uploads/2021/images-2624731.jpg"
+video: "nil"
+audio: "nil"
+alt: "Demandan a príncipe Andrés por presunto abuso sexual ligado a caso Jeffrey Epstein"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186504
 ---
 
 Virginia Giuffre, la mujer estadunidense que acusa al miembro de la realeza británica, el príncipe Andrés, de haber abusado de ella cuando era menor de edad a través de la red de tráfico sexual del financiero Jeffrey Epstein presentó una denuncia en su contra en Nueva York, según informaron ella y su abogado.  

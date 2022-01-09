@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Protección Civil advierte también sobre rachas de viento de hasta 55 km/h y tolvaneras en los tramos carreteros Juárez-Ahumada y Janos-Nuevo Casas Grandes"
-image: /uploads/2021/images-LLUVIAS_CUU_30_ABRIL_2021_(4).JPG
-video: nil
-audio: nil
-alt: Se esperan lluvias este jueves para el norte, noreste, centro y sureste del estado
+image: "/uploads/2021/images-LLUVIAS_CUU_30_ABRIL_2021_(4).JPG"
+video: "nil"
+audio: "nil"
+alt: "Se esperan lluvias este jueves para el norte, noreste, centro y sureste del estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184436
 ---
 
 Para este jueves 13 de mayo se pronostican rachas de viento de hasta 55 kilómetros por hora (km/h) y lluvias de dispersas a moderadas en partes de las zonas norte, noroeste, centro y sureste, informó la Coordinación Estatal de Protección Civil (CEPC).

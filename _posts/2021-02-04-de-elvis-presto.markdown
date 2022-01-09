@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Super Bowl ha recibido a grandes artistas, pero no todos cumplieron con las expectativas e, incluso, algunos protagonizaron polémicos episodios frente a las cámaras. "
-image: /uploads/2021/images-los-peores-shows-de-medio_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: De Elvis Presto a Justin Timberlake, los peores shows del medio tiempo del Super Bowl
+image: "/uploads/2021/images-los-peores-shows-de-medio_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "De Elvis Presto a Justin Timberlake, los peores shows del medio tiempo del Super Bowl"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182716
 ---
 
 El show del medio tiempo del Super Bowl es codiciado por artistas de todo el mundo. Este 2021 estará a cargo de The Weeknd, quien ofrecerá un espectáculo muy diferente a los de años anteriores debido a la pandemia de covid-19, pero no por ello menos especial. Sin duda, los fanáticos esperan un concierto lleno de sorpresas y artistas invitados, al estilo de Jennifer Lopez y Shakira. 

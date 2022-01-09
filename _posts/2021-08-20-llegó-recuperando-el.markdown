@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Este proyecto fue diseñado principalmente para Juárez, “sin embargo hemos estado haciendo algunas modificaciones para adaptarlo también a la Sierra Tarahumara”, destacó García Ruiz"
-image: /uploads/2021/images-recuperando_el_barrio2.jpg
-video: nil
-audio: nil
-alt: Llegó “Recuperando el barrio. Barrio seguro”  a colonias más vulnerables en Ciudad Juárez
+image: "/uploads/2021/images-recuperando_el_barrio2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Llegó “Recuperando el barrio. Barrio seguro”  a colonias más vulnerables en Ciudad Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 186946
 ---
 
 El titular de la Secretaría de Seguridad Pública del Estado, Emilio García Ruiz, dio a conocer durante el espacio informativo Logros con Valor, que el programa Recuperando el Barrio, Barrio seguro, implementado en Ciudad Juárez ha atendido a la fecha 6 colonias de Ciudad Juárez, logrando la recuperación de espacios que eran vulnerables al crimen y a la violencia.

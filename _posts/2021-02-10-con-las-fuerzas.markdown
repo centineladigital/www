@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "López Obrador encabeza ceremonia por el 106 aniversario de la Fuerzas Aérea Mexicana; destaca labor de los pilotos de esta institución para la atención de emergencias ambientales, de seguridad y sanitarias"
-image: /uploads/2021/images-2527053.jpg
-video: nil
-audio: nil
-alt: 'Con las Fuerzas Armadas sacamos adelante al país'
+image: "/uploads/2021/images-2527053.jpg"
+video: "nil"
+audio: "nil"
+alt: "'Con las Fuerzas Armadas sacamos adelante al país'"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182835
 ---
 
 Al encabezar la ceremonia por el 106 Aniversario de la Fuerza Aérea Mexicana (FAM), el presidente Andrés Manuel López Obrador afirmó que gracias al trabajo de las Fuerzas Armadas se está impulsado el bienestar el país.

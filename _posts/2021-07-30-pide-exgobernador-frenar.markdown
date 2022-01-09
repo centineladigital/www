@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Pide liberación de productores detenidos por conflicto del agua."
-image: /uploads/2021/images-BAEZA.jpg
-video: nil
-audio: /uploads/2021/audio-MV04_FERNANDO_BAEZA.mp4
-alt: Pide exgobernador frenar persecución a productores
+image: "/uploads/2021/images-BAEZA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV04_FERNANDO_BAEZA.mp4"
+alt: "Pide exgobernador frenar persecución a productores"
 front: false
-section: Local
+section: "Local"
+news_id: 186144
 ---
 
 El cese en a la persecución que se tiene por parte de la federación a productores es lo que solicitó el exgobernador de Chihuahua, Fernando Baeza exigió. Esto luego de dar a conocer en rueda de prensa una serie de posturas entre las que pidió que se indemnice a la familia de la mujer que perdió la vida en un ataque por parte de elementos de la guardia nacional.

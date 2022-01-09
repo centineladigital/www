@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Becarán a jóvenes para trabajo con el fin de buscar la reinserción tras cometer fallas."
-image: /uploads/2021/images-ALCALDE.jpg
-video: nil
-audio: /uploads/2021/audio-MV06.mp3
-alt: Firman convenio TSJ y Secretaría del Trabajo Federal
+image: "/uploads/2021/images-ALCALDE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV06.mp3"
+alt: "Firman convenio TSJ y Secretaría del Trabajo Federal"
 front: false
-section: Local
+section: "Local"
+news_id: 185112
 ---
 
 El Tribunal Superior de Justicia y la Secretaría del Trabajo instaurará el programa Jóvenes Construyendo el Futuro, para lo cual se llevó a cabo la firma por parte de las autoridades federales y el Poder Judicial.

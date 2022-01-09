@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ricardo Montaner habló sobre la posibilidad de que muy pronto su hija Evaluna y Camilo lo conviertan en abuelo. "
-image: /uploads/2021/images-ricardo-montaner-mostro-ansioso-nietos.jpg
-video: nil
-audio: nil
-alt: ¿Será abuelo? Ricardo Montaner revela cuándo Evaluna y Camilo tendrán un bebé
+image: "/uploads/2021/images-ricardo-montaner-mostro-ansioso-nietos.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Será abuelo? Ricardo Montaner revela cuándo Evaluna y Camilo tendrán un bebé"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182714
 ---
 
 Sin duda Ricardo Montaner vive un momento en donde su familia poco a poco ha crecido, hace casi un año su hija menor, Evaluna y el cantante Camilo se casaron y desde entonces se les ha visto muy unidos e igual de enamorados. El cantante de “Me vas a extrañar”, recientemente mencionó que está ansioso porque los integrantes de su familia aumenten, ya que espera convertirse pronto en abuelo. 

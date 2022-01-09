@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La delantera mexicana del Atlas fue una futbolista destacada del torneo Guardianes 2021"
-image: /uploads/2021/images-alison-gonzalez-delantera-del-atlas_0_23_1200_746.jpg
-video: nil
-audio: nil
-alt: Alison González, entre las 100 mujeres más poderosas del 2021
+image: "/uploads/2021/images-alison-gonzalez-delantera-del-atlas_0_23_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "Alison González, entre las 100 mujeres más poderosas del 2021"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185838
 ---
 
 Alison González continúa escribiendo su nombre con mayúsculas. Ahora, la delantera del Atlas Femenil apareció en la lista de las 100 mujeres más poderosas del 2021 que publicó la revista Forbes.

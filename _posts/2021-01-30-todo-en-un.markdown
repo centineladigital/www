@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tomateros de Culiacán obligó el séptimo encuentro de la Final de la Liga Mexicana del Pacífico"
-image: /uploads/2021/images-2520844.jpg
-video: nil
-audio: nil
-alt: Todo en un juego; hoy definen al campeón
+image: "/uploads/2021/images-2520844.jpg"
+video: "nil"
+audio: "nil"
+alt: "Todo en un juego; hoy definen al campeón"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182578
 ---
 
 La rivalidad entre los equipos más ganadores de la Liga Mexicana del Pacífico necesitará de siete juegos para definir un campeón. Efrén Navarro dio un triple productor de dos carreras al jardín izquierdo y los Tomateros de Culiacán vencieron 6-2 a los Naranjeros de Hermosillo para empatar 3-3 la Serie Final.

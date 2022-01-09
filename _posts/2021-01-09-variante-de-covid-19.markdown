@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Centro para el control de las enfermedades de EU reporta que la nueva variante del covid-19 ha sido detectada ya en al menos ocho estados del país"
-image: /uploads/2021/images-2508867.jpg
-video: nil
-audio: nil
-alt: Variante de covid-19 llega a 8 estados de EU
+image: "/uploads/2021/images-2508867.jpg"
+video: "nil"
+audio: "nil"
+alt: "Variante de covid-19 llega a 8 estados de EU"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 181996
 ---
 
 La nueva y más contagiosa variante británica del coronavirus ha sido detectada ya en al menos ocho estados de Estados Unidos, donde se registran en estos días récords diarios de infecciones y fallecidos.

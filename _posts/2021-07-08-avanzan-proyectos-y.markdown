@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: " Para estos dos sitios emblemáticos se ejercen recursos y se cuenta ya con la aprobación para recibir inversión federal que permita recuperar zonas recreativas, culturales  y deportivas, con una visión ambientalista."
-image: /uploads/2021/images-PARQUE_CENTRAL_6.jpg
-video: /uploads/2021/videos-3-_ENLACE_DELEGADO_SDUE_EN_JUAREZ_ISALVADOR_BARRAGÁN_PROGRAMA_LOGROS_CON_VALOR_SDUE_8-7-21.MP3
-audio: nil
-alt:  Avanzan proyectos y obras para mejoras  del  Parque Central y El Chamizal en Juárez
+image: "/uploads/2021/images-PARQUE_CENTRAL_6.jpg"
+video: "/uploads/2021/videos-3-_ENLACE_DELEGADO_SDUE_EN_JUAREZ_ISALVADOR_BARRAGÁN_PROGRAMA_LOGROS_CON_VALOR_SDUE_8-7-21.MP3"
+audio: "nil"
+alt: " Avanzan proyectos y obras para mejoras  del  Parque Central y El Chamizal en Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 185471
 ---
 
 Los proyectos de obra pública que se ejecutan y se tienen contemplados para el Parque Central y El Chamizal, en Ciudad Juárez, fueron dados a conocer a detalle por el secretario de Desarrollo Urbano y Ecología, Luis Felipe Siqueiros Falomir  y el delegado regional de Sedue, Salvador Barragán Flores, en el programa Logros con Valor.

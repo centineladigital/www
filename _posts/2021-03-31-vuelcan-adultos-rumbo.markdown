@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Al rodar sobre la grava, el conductor perdió el control del automóvil, siendo proyectados a poca distancia de llegar a su destino"
-image: /uploads/2021/images-Volcadura_4.jpg
-video: nil
-audio: nil
-alt: Vuelcan adultos rumbo a la UVM; iban a vacunarse
+image: "/uploads/2021/images-Volcadura_4.jpg"
+video: "nil"
+audio: "nil"
+alt: "Vuelcan adultos rumbo a la UVM; iban a vacunarse"
 front: false
-section: Local
+section: "Local"
+news_id: 183633
 ---
 
 Una volcadura se registró en la avenida Prolongación Teófilo Borunda, a la altura de la Universidad Politécnica de Chihuahua, resultando con lesiones leves dos adultos mayores.

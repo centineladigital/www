@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma Gobernador que médicos deben de participar en Consejo de Salud Estatal, así como que se tiene revisar otra serie de factores."
-image: /uploads/2021/images-CORRAL.jpg
-video: /uploads/2021/videos-MM02_JAVIER_CORRAL.mp4
-audio: nil
-alt: Necesario también valorar efectos psicológicos en menores ante el regreso a clases
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "/uploads/2021/videos-MM02_JAVIER_CORRAL.mp4"
+audio: "nil"
+alt: "Necesario también valorar efectos psicológicos en menores ante el regreso a clases"
 front: false
-section: Local
+section: "Local"
+news_id: 186533
 ---
 
 Tras los señalamientos que se tienen por parte del colegio de médicos en contra del regreso presencial de clases, el Gobernador de Chihuahua Javier Corral Jurado señaló que se debe de revisar otros factores como los efectos psicológicos que tienen los menores que no asisten.

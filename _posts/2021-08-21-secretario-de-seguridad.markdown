@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Departamento de Seguridad Interior aseguró que se pondrán en marcha esfuerzos para garantizar que las separaciones familiares nunca vuelvan a ocurrir"
-image: /uploads/2021/images-alejandro-mayorkas-secretario-seguridad-eu.jpg
-video: nil
-audio: nil
-alt: Secretario de Seguridad de EU se reúne con familias migrantes separadas en gobierno de Trump
+image: "/uploads/2021/images-alejandro-mayorkas-secretario-seguridad-eu.jpg"
+video: "nil"
+audio: "nil"
+alt: "Secretario de Seguridad de EU se reúne con familias migrantes separadas en gobierno de Trump"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186974
 ---
 
 El secretario de Seguridad Interior de Estados Unidos, Alejandro Mayorkas, se reunió este viernes con familias migrantes que fueron separadas durante la administración del presidente Donald Trump como una consecuencia de la política “cero tolerancia” implementada por el republicano. 

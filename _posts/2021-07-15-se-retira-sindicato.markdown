@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Luego de más de tres horas de trabajo, los integrantes del SutCecytech abandonaron la reunión, negándose a firmar la minuta de acuerdos."
-image: /uploads/2021/images-CECYTECH.jpg
-video: nil
-audio: nil
-alt: Se retira Sindicato de mesa de diálogo con la Dirección General del Cecytech
+image: "/uploads/2021/images-CECYTECH.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se retira Sindicato de mesa de diálogo con la Dirección General del Cecytech"
 front: false
-section: Local
+section: "Local"
+news_id: 185714
 ---
 
 El Colegio de Estudios Científicos y Tecnológicos del Estado de Chihuahua (Cecytech), informó que el Sindicato Único (SutCecytech) se retiró de la mesa de diálogo establecida para atender las demandas de las y los trabajadores de este subsistema educativo.

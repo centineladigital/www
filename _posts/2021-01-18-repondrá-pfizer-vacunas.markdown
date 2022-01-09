@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente acepta que se reduzcan envíos de dosis para que se entreguen a la ONU para países pobres; médicos vacunados tienen garantizada la segunda dosis, asegura"
-image: /uploads/2021/images-2513813.jpg
-video: nil
-audio: nil
-alt: Repondrá Pfizer vacunas a México, afirma López Obrador
+image: "/uploads/2021/images-2513813.jpg"
+video: "nil"
+audio: "nil"
+alt: "Repondrá Pfizer vacunas a México, afirma López Obrador"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182207
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que México aceptó recibir menos vacunas, de las más de 400 mil programadas, por parte de Pfizer/BioNTech con el objetivo de que se entreguen dosis a países pobres; sin embargo, aclaró que habrá una reposición.

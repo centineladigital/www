@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Este miércoles se dará a conocer situación financiera del Estado."
-image: /uploads/2021/images-MARU1.jpg
-video: /uploads/2021/videos-MM02_MARU.mp4
-audio: nil
-alt: Reciben administración con deuda de más de 72 mil millones
+image: "/uploads/2021/images-MARU1.jpg"
+video: "/uploads/2021/videos-MM02_MARU.mp4"
+audio: "nil"
+alt: "Reciben administración con deuda de más de 72 mil millones"
 front: false
-section: Local
+section: "Local"
+news_id: 187516
 ---
 
 Al iniciar la administración María Eugenia Campos Galván dio a conocer que recibirá el estado con una deuda de 72 mil millones de pesos. Sin embargo, señaló que daría a conocer los detalles este 8 de septiembre.

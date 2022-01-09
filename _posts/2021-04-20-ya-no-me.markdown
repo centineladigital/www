@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En ese tiempo su estado anímico se reflejó en su trabajo, pues “muchos decían: ‘A Faisy ya se le subió’, pero la verdad es que era cansancio”. "
-image: /uploads/2021/images-faisy-instagram.jpg
-video: nil
-audio: nil
-alt: “Ya no me estaba divirtiendo” -  Faisy revela que intentó renunciar a ‘Me caigo de risa’
+image: "/uploads/2021/images-faisy-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Ya no me estaba divirtiendo” -  Faisy revela que intentó renunciar a ‘Me caigo de risa’"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183992
 ---
 
 Me caigo de risa es un programa de Televisa que se ha vuelto muy popular entre los televidentes, pues además de los divertidos retos que presenta, su elenco resulta tan variopinto que siempre provoca situaciones hilarantes en la pantalla chica. También el ingenio de su conductor, Faisy, gusta mucho a los espectadores. Aunque en alguna ocasión el también locutor de radio consideró renunciar al programa, así se lo contó en una entrevista a Mara Patricia Castañeda. Aunque primero reveló por qué Diego de Erice salió de la producción: “De repente hubo cosas que no coincidían con varios de los personajes del elenco, que hablándolo se podían resolver. Además, surge la invitación para que él haga la conducción de Inseparables, un proyecto al que le fue muy bien y más a él”. 

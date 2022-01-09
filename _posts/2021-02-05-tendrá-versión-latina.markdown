@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El encargado de dirigir la película es Gaz Alazraki, quien dirigió el exitoso filme de Nosotros los nobles. "
-image: /uploads/2021/images-el-padre-de-la-novia.jpg
-video: nil
-audio: nil
-alt: ¡Tendrá versión latina! Gaz Alazraki dirigirá el remake de 'El padre de la novia'
+image: "/uploads/2021/images-el-padre-de-la-novia.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Tendrá versión latina! Gaz Alazraki dirigirá el remake de 'El padre de la novia'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182727
 ---
 
 Hace unos años se estrenó la versión latina de la exitosa película La boda de mi mejor amigo y ahora se prepara el remake de El padre de la novia, producción que fue protagonizada por Steve Martin. El encargado de dirigir el filme será Gaz Alazraki, quien trabajó en Nosotros los nobles y en la serie de Netflix Club de Cuervos. 

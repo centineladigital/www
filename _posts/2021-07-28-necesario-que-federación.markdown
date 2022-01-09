@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Proceso de extradición se aletarga por rezago de juzgados federales."
-image: /uploads/2021/images-PENICHE.jpg
-video: /uploads/2021/videos-MW03_CESAR_PENICHE.mp4
-audio: nil
-alt: Necesario que federación agilice amparos en caso Duarte -  Fiscal
+image: "/uploads/2021/images-PENICHE.jpg"
+video: "/uploads/2021/videos-MW03_CESAR_PENICHE.mp4"
+audio: "nil"
+alt: "Necesario que federación agilice amparos en caso Duarte -  Fiscal"
 front: false
-section: Local
+section: "Local"
+news_id: 186073
 ---
 
 “Es fundamental que el Poder Judicial de la Federación ya le dé tramite a todos los amparos que están impidiendo que se pueda pasar a la etapa intermedia del juicio oral” fue la respuesta del Fiscal General de Chihuahua, César Augusto Peniche Espejel al ser cuestionado respecto a la situación del exgobernador, luego de que su defensa señalara que pudiera quedar en libertad.

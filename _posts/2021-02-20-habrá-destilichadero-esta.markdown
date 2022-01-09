@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se invita a los vecinos a que realicen limpieza profunda en sus casas y lleven los tiliches a los contendores"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Habrá Destilichadero esta semana en las colonias Jardines de Oriente, Revolución y Riberas del Sacramento
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Habrá Destilichadero esta semana en las colonias Jardines de Oriente, Revolución y Riberas del Sacramento"
 front: false
-section: Local
+section: "Local"
+news_id: 183064
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos realiza cada semana en distintas colonias de la ciudad, el programa de Destilichadero, un operativo de limpieza que coadyuva a la recolección de basura habitacional, al proporcionar un servicio a los chihuahuenses para que puedan deshacerse de objetos de gran volumen que el camión recolector no puede retirar.

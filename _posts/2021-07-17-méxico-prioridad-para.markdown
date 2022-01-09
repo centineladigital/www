@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Para la empresa china de electrónica el país es el tercero en importancia global, pues entre 20 y 25 por ciento de su producción se vende de forma local, dice Antonio Hidalgo, director de Operaciones de la firma."
-image: /uploads/2021/images-hisense-foto-especial.jpg
-video: nil
-audio: nil
-alt: México, prioridad para el crecimiento de Hisense
+image: "/uploads/2021/images-hisense-foto-especial.jpg"
+video: "nil"
+audio: "nil"
+alt: "México, prioridad para el crecimiento de Hisense"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185752
 ---
 
 En 2011 Hisense, compañía china fabricante de electrónicos y electrodomésticos, llegó a México y a una década de ello, el país se convirtió en una de sus prioridades en ventas y producción. 

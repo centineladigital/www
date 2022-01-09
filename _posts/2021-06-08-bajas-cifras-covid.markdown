@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Menos de 100 internados, solamente 55 nuevos casos y no se acreditaron muertes."
-image: /uploads/2021/images-diapositiva3-361.jpg
-video: nil
-audio: /uploads/2021/audio-MM05_.mp3
-alt: Bajas cifras COVID en tres indicadores
+image: "/uploads/2021/images-diapositiva3-361.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM05_.mp3"
+alt: "Bajas cifras COVID en tres indicadores"
 front: false
-section: Local
+section: "Local"
+news_id: 184933
 ---
 
 Los indicadores de nuevos casos, muertes y personas hospitalizadas están bajas, señaló la Directora de Medicina Preventiva y Promoción de la Salud, Leticia Ruiz González. Luego de señalar que en las últimas 24 horas no se registraron defunciones, sin embargo 5 se encuentran pendientes, en los casos nuevos solamente se detectaron 55 casos.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Thomas Bach, presidente del organismo, señala que China les ofreció dosis adicionales de vacunas para la cita olímpica de este año y para los de Invierno de Pekín en 2022"
-image: /uploads/2021/images-2543315.jpg
-video: nil
-audio: nil
-alt: COI comprará vacunas para Juegos de Tokio
+image: "/uploads/2021/images-2543315.jpg"
+video: "nil"
+audio: "nil"
+alt: "COI comprará vacunas para Juegos de Tokio"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183380
 ---
 
 El Comité Olímpico Internacional va a comprar a China vacunas para facilitar la organización de los Juegos de Tokio este año, pero también los de invierno de Pekín en 2022, anunció el presidente del COI, Thomas Bach.

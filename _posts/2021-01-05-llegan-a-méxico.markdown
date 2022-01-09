@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente Andrés Manuel López Obrador destaca que ya inició el Plan Nacional de Vacunación; al vacunar a adultos mayores se reduciría 80% la mortalidad: López-Gatell"
-image: /uploads/2021/images-2506541.jpg
-video: nil
-audio: nil
-alt: Llegan a México lote de más de 53 mil vacunas contra Covid
+image: "/uploads/2021/images-2506541.jpg"
+video: "nil"
+audio: "nil"
+alt: "Llegan a México lote de más de 53 mil vacunas contra Covid"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 181868
 ---
 
 Desde Palacio Nacional el presidente Andrés Manuel López Obrador fue testigo de la llegada del cuarto lote de vacunas contra Covid-19 de Pfizer/BioNTech, el cual consta de 53 mil 605 dosis.

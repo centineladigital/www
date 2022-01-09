@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "El Gran Premio de Australia se correrá el 21 de noviembre, mientras que el de China está con fecha por determinar. El circuito de Imola entra en el calendario"
-image: /uploads/2021/images-2510224.jpg
-video: nil
-audio: nil
-alt: La F1 aplaza Australia y China; México se mantiene
+image: "/uploads/2021/images-2510224.jpg"
+video: "nil"
+audio: "nil"
+alt: "La F1 aplaza Australia y China; México se mantiene"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182055
 ---
 
 Los Grandes Premios de Fórmula 1 de Australia y China, previstos el 21 de marzo y el 11 de abril, se aplazaron al 21 de noviembre y a una fecha por determinar, mientras que el circuito de Imola entra en el calendario, anunció este martes la organización. Por su parte, el Gran Premio de México se mantiene en la fecha estimada.

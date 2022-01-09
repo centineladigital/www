@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Biden va contra el ministro de Defensa; “sólo es el principio”, advierte. Buque partirá de Veracruz con jeringas, oxígeno y otros insumos"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: EU castiga al gobierno de Cuba; México envía ayuda
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "EU castiga al gobierno de Cuba; México envía ayuda"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185930
 ---
 
 Washington/La Habana.— Mientras Estados Unidos imponía sanciones financieras contra el régimen cubano por la “represión” de las protestas, México prepara el envío de ayuda humanitaria a la isla.

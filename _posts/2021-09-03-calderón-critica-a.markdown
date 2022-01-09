@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El expresidente de México declaró que el acuerdo con VOX demuestra que la dirigencia de Acción Nacional “hace buen rato que está extraviada”"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Calderón critica a dirigencia “extraviada” del PAN por encuentro con ultraderechista de VOX
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Calderón critica a dirigencia “extraviada” del PAN por encuentro con ultraderechista de VOX"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187396
 ---
 
 Luego de que este jueves senadores del PAN se reunieron con Santiago Abascal, presidente del partido español de ultraderecha VOX, y firmaron la “Carta Madrid” con la que se busca detener el avance del comunismo en la “Iberoesfera”, el expresidente Felipe Calderón criticó el encuentro. 

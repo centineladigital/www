@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Para actualizar la metodología y aumentar el nivel competitivo en las nuevas generaciones"
-image: /uploads/2021/images-unnamed.png
-video: nil
-audio: nil
-alt: Invita Gobierno Municipal a curso de certificación como Director Técnico de Fútbol Infantil
+image: "/uploads/2021/images-unnamed.png"
+video: "nil"
+audio: "nil"
+alt: "Invita Gobierno Municipal a curso de certificación como Director Técnico de Fútbol Infantil"
 front: false
-section: Local
+section: "Local"
+news_id: 186947
 ---
 
 Con el objetivo de seguir profesionalizando a entrenadores, promotores y personas afines al fútbol, el Instituto Municipal de Cultura Física y Deporte en colaboración con el Centro de Formación de Fútbol Vikingos, invitan a inscribirse a la certificación para Director Técnico especialista en fútbol infantil que se llevará a cabo los días 28 y 29 de agosto.

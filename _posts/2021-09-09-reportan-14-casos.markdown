@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma educación que situación no es generalizada."
-image: /uploads/2021/images-G4.jpg
-video: nil
-audio: /uploads/2021/audio-MJ03_JAVIER_MOCKEN.mp4
-alt: Reportan 14 casos de contagios COVID en escuelas
+image: "/uploads/2021/images-G4.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ03_JAVIER_MOCKEN.mp4"
+alt: "Reportan 14 casos de contagios COVID en escuelas"
 front: false
-section: Local
+section: "Local"
+news_id: 187592
 ---
 
 En dos semanas se reportan 14 casos de contagios de coronavirus, esto de las más de cuatro mil escuelas que se tienen en la ciudad, según lo dio a conocer Javier González Mocken. Donde los casos se han reportado solamente en la ciudad de Chihuahua, no en todo el estado.

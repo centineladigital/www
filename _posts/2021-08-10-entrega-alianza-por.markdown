@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con un donativo de 1 millón 249 mil 132 pesos en insumos médicos"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Entrega alianza “Por ti por todos” más de 1 mdp en insumos médicos al Hospital Central
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Entrega alianza “Por ti por todos” más de 1 mdp en insumos médicos al Hospital Central"
 front: false
-section: Local
+section: "Local"
+news_id: 186523
 ---
 
 Personal médico y de apoyo del Hospital Central, que funge como hospital COVID ante la pandemia, fue beneficiado por la alianza “Por ti por todos” entre el Gobierno Municipal y la Fundación del Empresariado Chihuahuense (FECHAC), con un donativo de 1 millón 249 mil 132 pesos en insumos médicos.

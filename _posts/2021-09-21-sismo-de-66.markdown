@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Sismo de 6.6 sacude centro y sur de Chile; descartan alerta de tsunami"
+date: 2021-09-21T15:52:00.000-06:00
+tags:
+  
+  - Chile
+  
+  - sismo
+  
+author: nil
+description: "El Centro Sismológico Nacional de la Universidad de Chile detalló que el sismo tuvo epicentro en el municipio de Lebu y hasta el momento no hay daños o lesionados. "
+image: "/uploads/2021/images-sismo-magnitud-sacude-sonora-epicentro.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sismo de 6.6 sacude centro y sur de Chile; descartan alerta de tsunami"
+front: false
+section: "Internacional"
+news_id: 187904
+---
+
+Un sismo de magnitud 6.6, con epicentro en el municipio Lebu, sacudió las zonas centro y sur de Chile, sin que hasta el momento se reporten personas lesionadas o daños materiales, informó el Centro Sismológico Nacional de la Universidad de Chile.
+
+El organismo detalló que el sismo tuvo una profundidad de 10 kilómetros y se generó a 159 kilómetros al noroeste del municipio costero de Lebu, en la región del Biobío, más de 500 kilómetros al sur de Santiago. 
+
+La Oficina Nacional de Emergencia del Ministerio del Interior (Onemi) agregó que continúa evaluando daños a personas, infraestructura y servicios básicos tras el sismo. El movimiento telúrico se sintió en la región del Biobío y también en la región de Ñuble, en la zona centro, donde se registraron intensidades de entre tres y cinco grados, en escala de Mercalli. 
+
+En la Región Metropolitana, que alberga la capital, no se reportaron signos del movimiento telúrico. El Servicio Hidrográfico y Oceanográfico de la Armada (Shoa) indicó que las características del terremoto no reúnen las condiciones necesarias para generar un tsunami en las costas de Chile. Chile es uno de los países más proclives a sufrir terremotos porque está ubicado justo al límite de la placa tectónica de Nazca, que choca contra la placa sudamericana. 
+
+Según datos del CSN, el organismo técnico oficial encargado de monitorear la actividad sísmica en el país, el año pasado se registraron 7 mil 826 sismos en total, de los cuales 667 tuvieron una magnitud perceptible. Desde la época de la colonia, el país, de 19 millones de habitantes, ha tenido al menos 80 grandes terremotos, que solo en los últimos 60 años han causado 40 mil 735 muertos. 
+
+(Milenio) 

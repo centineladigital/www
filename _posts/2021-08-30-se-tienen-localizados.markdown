@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "No pudieron ingresar por desinterés.  "
-image: /uploads/2021/images-NORMA_LEDEZMA.jpg
-video: /uploads/2021/videos-BL03_NORMA_LEDEZMA.mp4
-audio: nil
-alt: Se tienen localizados más de 300 restos en el caso mina Santo Domingo
+image: "/uploads/2021/images-NORMA_LEDEZMA.jpg"
+video: "/uploads/2021/videos-BL03_NORMA_LEDEZMA.mp4"
+audio: "nil"
+alt: "Se tienen localizados más de 300 restos en el caso mina Santo Domingo"
 front: false
-section: Local
+section: "Local"
+news_id: 187271
 ---
 
 Se tiene más de trece meses sin poder ingresar a la mina Santo domingo en el municipio de Aquiles  Serdán  en el cual se tiene localizados más de 300 restos humanos según declaraciones de la fundadora de la asociación “Justicia para nuestras hija” Norma Ledezma.

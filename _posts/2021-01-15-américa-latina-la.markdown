@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Esta degradación se debe especialmente a la expansión de los territorios destinados a la agricultura y la ganadería, pero también a otras causas como la construcción de carreteras, la actividad minera y los incendios forestales"
-image: /uploads/2021/images-2512424.jpg
-video: nil
-audio: nil
-alt: América Latina, la región más golpeada por los mayores focos de deforestación
+image: "/uploads/2021/images-2512424.jpg"
+video: "nil"
+audio: "nil"
+alt: "América Latina, la región más golpeada por los mayores focos de deforestación"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182167
 ---
 
 Los 24 principales focos de deforestación en el mundo provocaron la pérdida de una superficie equivalente al tamaño de Paraguay en menos de una década, según un informe de WWF, que destaca que estos frentes se concentran especialmente en América Latina.

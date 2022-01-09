@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Plan continuará trabajándose dentro de la misma campaña."
-image: /uploads/2021/images-LOERA.jpg
-video: nil
-audio: /uploads/2021/audio-MW05_JUAN_CARLOS_LOERA.mp3
-alt: Presenta Loera su plan de Gobierno
+image: "/uploads/2021/images-LOERA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW05_JUAN_CARLOS_LOERA.mp3"
+alt: "Presenta Loera su plan de Gobierno"
 front: false
-section: Local
+section: "Local"
+news_id: 183745
 ---
 
 Buscando una cercanía con la sociedad este miércoles fue presentado el plan de trabajo de Juan Carlos Loera, candidato de Morena a la gubernatura, el cual señaló es un proyecto que tomó en cuenta las necesidades de la población y continuarán trabajando en el mismo.

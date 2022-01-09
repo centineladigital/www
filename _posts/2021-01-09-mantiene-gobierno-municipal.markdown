@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se atendieron un total de 365 espacios públicos"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Mantiene Gobierno Municipal operativo diario de limpieza en parques y vialidades
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Mantiene Gobierno Municipal operativo diario de limpieza en parques y vialidades"
 front: false
-section: Local
+section: "Local"
+news_id: 181998
 ---
 
 El Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, mantiene un constante operativo de limpieza en los diversos parques y vialidades de la ciudad, con el objetivo de tenerlos en buenas condiciones.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se pide a la ciudadanía denunciar al 911 si ven personas ajenas manipulando el sistema de alumbrado"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Trabaja Gobierno Municipal en reparación de alumbrado vandalizado en parque El Palomar
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Trabaja Gobierno Municipal en reparación de alumbrado vandalizado en parque El Palomar"
 front: false
-section: Local
+section: "Local"
+news_id: 186790
 ---
 
 El Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, trabaja en la reparación del sistema de alumbrado público ubicado en el parque El Palomar, tras haberse presentado vandalismo y robo de cableado.

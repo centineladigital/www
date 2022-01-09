@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La chihuahuense de 26 años es la nueva Miss Universo, tras imponerse a India, República Dominicada, Perú y Brasil en el certamen de belleza más importante del mundo. "
-image: /uploads/2021/images-mexicana-andrea-meza-miss-universo.jpg
-video: nil
-audio: nil
-alt: ¡Orgullo mexicano! Andrea Meza es la nueva Miss Universo
+image: "/uploads/2021/images-mexicana-andrea-meza-miss-universo.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Orgullo mexicano! Andrea Meza es la nueva Miss Universo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184490
 ---
 
 Andrea Meza se coronó como Miss Universo 2021. La originaria de Chihuahua es la tercera mexicana en ganar el certamen; la primera fue Lupita Jones en 1991 y la segunda fue Ximena Navarrete, en 2018. La mexicana de 26 años se impuso a Julia Gama, de Brasil, quien quedó en segundo lugar; a Janick Maceta (Perú) que quedó en tercer lugar, a  Adline Castelino (India), que se fue con el cuarto lugar y a Kimberly Jiménez (República Dominicana) que quedó en quinto lugar. 

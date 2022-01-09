@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Espacios cerrados, con poca ventilación y sin cubrebocas, son el peor escenario para convivir por un tiempo muy prolongado, como el que dura el evento de este domingo"
-image: /uploads/2021/images-d4fdf498-6d60-48e1-ba8d-fd34d6c12607.jpg
-video: nil
-audio: nil
-alt: Pide secretario de Salud no relajar medidas sanitarias ante Súper Tazón y el 14 de Febrero
+image: "/uploads/2021/images-d4fdf498-6d60-48e1-ba8d-fd34d6c12607.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pide secretario de Salud no relajar medidas sanitarias ante Súper Tazón y el 14 de Febrero"
 front: false
-section: Local
+section: "Local"
+news_id: 182758
 ---
 
 El Secretario de Salud, Eduardo Fernández Herrera, solicitó a la población chihuahuense no relajar las medidas preventivas ante las festividades próximas  del Súper Tazón y el 14 de Febrero.

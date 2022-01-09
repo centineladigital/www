@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "No te pierdas los detalles del encuentro entre el rebaño Sagrado y los tuneros en el arranque del Apertura 2021"
-image: /uploads/2021/images-agenda-liga-mx-chivas-vs.jpg
-video: nil
-audio: nil
-alt: Chivas vs San Luis -  Horario y dónde ver EN VIVO la jornada 1 de la Liga MX
+image: "/uploads/2021/images-agenda-liga-mx-chivas-vs.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chivas vs San Luis -  Horario y dónde ver EN VIVO la jornada 1 de la Liga MX"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185977
 ---
 
 El pasado jueves arrancó el Torneo Apertura 2021 de la Liga MX y este sábado continúan las hostilidades con dos encuentros, destacando el que enfrentará a Chivas ante Atlético San Luis y culminará las actividades sabatinas. 

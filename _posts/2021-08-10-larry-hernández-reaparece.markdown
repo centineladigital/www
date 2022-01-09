@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante del regional mexicano compartió su actual de estado de salud tras dar positivo a covid-19. "
-image: /uploads/2021/images-larry.jpg
-video: nil
-audio: nil
-alt: Larry Hernández reaparece sin poder hablar y con 10 kilos menos tras contagio de covid-19
+image: "/uploads/2021/images-larry.jpg"
+video: "nil"
+audio: "nil"
+alt: "Larry Hernández reaparece sin poder hablar y con 10 kilos menos tras contagio de covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186514
 ---
 
 Larry Hernández, cantante de música regional mexicana, reapareció en redes sociales luego de confirmar el pasado 6 de agosto que su estado de salud era grave tras dar positivo a covid-19. A días de luchar contra el nuevo coronavirus, el intérprete de "Dame tu amor" sorprendió a sus seguidores al revelar su actual estado de salud y proceso de recuperación. 

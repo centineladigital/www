@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hasta el momento se han recibido más de 100 solicitudes para hacer marchas de mujeres este próximo 7 y 8 de marzo."
-image: /uploads/2021/images-2539881.jpg
-video: nil
-audio: nil
-alt: España prohíbe marchas feministas para el próximo 8M
+image: "/uploads/2021/images-2539881.jpg"
+video: "nil"
+audio: "nil"
+alt: "España prohíbe marchas feministas para el próximo 8M"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183302
 ---
 
 El Gobierno español prohibió el jueves las marchas para conmemorar el Día Internacional de la Mujer convocadas para el próximo 8 de marzo en Madrid, después de que las del año pasado suscitaran una agria polémica sobre si fueron el origen de un alto números de contagios por coronavirus.

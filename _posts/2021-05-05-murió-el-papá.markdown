@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor Luis Ernesto Franco informó sobre el fallecimiento de su papá y le dedicó un emotivo mensaje. "
-image: /uploads/2021/images-actor-dedico-mensaje-papa-despedirse.jpg
-video: nil
-audio: nil
-alt: Murió el papá de Luis Ernesto Franco; actor le dedica emotivo mensaje
+image: "/uploads/2021/images-actor-dedico-mensaje-papa-despedirse.jpg"
+video: "nil"
+audio: "nil"
+alt: "Murió el papá de Luis Ernesto Franco; actor le dedica emotivo mensaje"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184285
 ---
 
 Luis Ernesto Franco dio a conocer a través de sus redes sociales que su papá falleció. El actor no dio detalles sobre la causa de la muerte de su padre, sin embargo, compartió unas fotos a través de Instagram en donde posa junto a él, además también le dedicó un mensaje en el que lo recordó y se despidió de su padre. A través de Instagram, Luis Ernesto Franco subió varias fotos de su padre, así como unas en donde posa junto a él, dichas imágenes fueron acompañadas de un emotivo mensaje en donde le dedicó unas palabras a su papá. 

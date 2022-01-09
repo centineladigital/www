@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Actualmente se encuentran detenidos 30 exfuncionarios de la pasada administración."
-image: /uploads/2021/images-FERNANDO_MESTA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ07_JORGE_ESPINOZA.mp3
-alt: Ningún detenido relacionado con exgobernador ha muerto
+image: "/uploads/2021/images-FERNANDO_MESTA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ07_JORGE_ESPINOZA.mp3"
+alt: "Ningún detenido relacionado con exgobernador ha muerto"
 front: false
-section: Local
+section: "Local"
+news_id: 181955
 ---
 
 Ninguno de los detenidos dentro del Operativo Justicia para Chihuahua ha perdido la vida, esto pese a que se tienen 30 personas bajo esta medida en el estado, fueron las palabras del Secretario General de Gobierno Fernando Mesta Soulé.

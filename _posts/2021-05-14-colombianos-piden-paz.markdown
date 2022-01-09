@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señalan que situación de violencia no ha parado."
-image: /uploads/2021/images-JEISON.jpg
-video: nil
-audio: /uploads/2021/audio-MV05_JEISON_HERNANDEZ.mp4
-alt: Colombianos piden paz para su país
+image: "/uploads/2021/images-JEISON.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05_JEISON_HERNANDEZ.mp4"
+alt: "Colombianos piden paz para su país"
 front: false
-section: Local
+section: "Local"
+news_id: 184466
 ---
 
 Colombianos que radican en Chihuahua se manifestaron este viernes con el fin de dar a conocer la situación que se vive en su país, así como el apoyar a sus familiares y amigos que viven en una situación difícil, según fue dicho por Jeison Herrera García, colombiano radicado en Chihuahua desde hace tres años.

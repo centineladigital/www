@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El técnico de Tigres se va descontento tras el empate 2-2 con San Luis y considera que al cuadro local no le quedaba de otra que “aventarse para adelante”"
-image: /uploads/2021/images-2536170.jpg
-video: nil
-audio: nil
-alt: No debo hacer drama, dice ‘El Tuca’
+image: "/uploads/2021/images-2536170.jpg"
+video: "nil"
+audio: "nil"
+alt: "No debo hacer drama, dice ‘El Tuca’"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183172
 ---
 
 Pese a haber dejado puntos sobre el camino tras un agónico empate ante Atlético de San Luis, el estratega de Tigres, Ricardo Ferretti, se va tranquilo con el accionar de su equipo, pero descontento con el resultado. El 'Tuca' señaló que a los potosinos ya no les quedaba de otra que ir por el empate y apuntó que no debe de hacer dramas.

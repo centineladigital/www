@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Desde el inicio de la pandemia suman 62 mil 817 casos y 6 mil 268 defunciones; además han perdido la vida 117 Héroes de la Salud en la lucha frontal contra el coronavirus "
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Confirma Salud 309 nuevos contagios y el deceso de 57 personas más en el último reporte epidemiológico
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Confirma Salud 309 nuevos contagios y el deceso de 57 personas más en el último reporte epidemiológico"
 front: false
-section: Local
+section: "Local"
+news_id: 184047
 ---
 
 En el último reporte epidemiológico COVID-19, la Secretaría de Salud confirmó un total general de 62 mil 817 casos, con 309 nuevos positivos, así como un acumulado de 6 mil 268 personas fallecidas, con 57 decesos más en la entidad.

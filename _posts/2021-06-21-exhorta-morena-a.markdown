@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se debe contemplar el garantizar el derecho a la alimentación de los pueblos originarios"
-image: /uploads/2021/images-Imagen2.jpg
-video: nil
-audio: /uploads/2021/audio-AL02_MIGUEL_ANGEL_COLUNGA.mp3
-alt: Exhorta Morena a gobierno federal y estatal atender sequía con estrategia conjunta
+image: "/uploads/2021/images-Imagen2.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AL02_MIGUEL_ANGEL_COLUNGA.mp3"
+alt: "Exhorta Morena a gobierno federal y estatal atender sequía con estrategia conjunta"
 front: false
-section: Local
+section: "Local"
+news_id: 185143
 ---
 
 El diputado de Morena Miguel Ángel Colunga Martínez presentó una iniciativa de urgente resolución, para exhortar al gobierno federal y estatal, para que de manera coordinada realicen una estrategia integral para atender de forma emergente la sequía que afecta la entidad.

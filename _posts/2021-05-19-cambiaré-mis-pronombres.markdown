@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Cómo se dio cuenta que es persona no binaria? ¿Qué dijo? ¿Qué significa ser género no binario? Así fue como Demi Lovato reveló que se identifica como género no binario."
-image: /uploads/2021/images-demi-lovato-revela-identifica-genero_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Cambiaré mis pronombres -  Demi Lovato revela que se identifica como género no binario
+image: "/uploads/2021/images-demi-lovato-revela-identifica-genero_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cambiaré mis pronombres -  Demi Lovato revela que se identifica como género no binario"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184538
 ---
 
 Demi Lovato, figura importante en el mundo de la música, sorprendió a sus seguidores, pues a través de un video dio a conocer que no se identifica con el género femenino sino con el género no binario. Expresó en sus redes sociales que sentía mucho orgullo de haber llegado a este cambio después de tanta autorreflexión. ¿Cómo se dio cuenta que es persona no binaria? ¿Qué dijo? ¿Qué significa ser género no binario? A través de un video que compartió en su cuenta de Instagram, Demi Lovato expresó que sentía mucho orgullo de haber tomado la decisión de nombrarse persona no binaria, pues va más acorde con su expresión de género. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En la próxima edición del Festival de San Sebastián, la actriz francesa Marion Cotillard será galardonada con el Premio Donostia. "
-image: /uploads/2021/images-marion-cotillard-tambien-sera-reconocida.jpg
-video: nil
-audio: nil
-alt: ¡No sólo Johnny Depp! Marion Cotillard también será galardona en Festival de San Sebastián
+image: "/uploads/2021/images-marion-cotillard-tambien-sera-reconocida.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡No sólo Johnny Depp! Marion Cotillard también será galardona en Festival de San Sebastián"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187062
 ---
 
 El festival de Cine de San Sebastián se llevará a cabo del próximo 17 al 25 de septiembre y a pocas semanas de que comience, se dio a conocer que además de Johnny Deep, la actriz francesa, Marion Cotillard, será reconocida por su carrera en uno de los eventos del séptimo arte más importantes.

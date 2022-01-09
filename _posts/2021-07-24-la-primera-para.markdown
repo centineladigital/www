@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los arqueros le dieron la primera presea a la delegación mexicana en los Juegos Olímpicos de Tokio 2020"
-image: /uploads/2021/images-xxhfyqxisfbefrtrkfeu.jpg
-video: nil
-audio: nil
-alt: ¡La primera para México! Alejandra Valencia y Luis Álvarez ganan medalla de bronce en tiro con arco
+image: "/uploads/2021/images-xxhfyqxisfbefrtrkfeu.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡La primera para México! Alejandra Valencia y Luis Álvarez ganan medalla de bronce en tiro con arco"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185971
 ---
 
 En el primer día de actividades de los Juegos Olímpicos de Tokio 2020, México ya hizo presencia en el podio luego de que los arqueros Alejandra Valencia y Luis Álvarez consiguieran el bronce en la modalidad mixta.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Alicia Machado hizo uso de sus redes sociales para informar que aún no cuenta toda la verdad sobre Donald Trump; además dijo que confía en la justicia divina. (FOTOS/VIDEOS) "
-image: /uploads/2021/images-alicia-machado-asegura-falta-contar.jpg
-video: nil
-audio: nil
-alt: La justicia es implacable -  Alicia Machado arremete contra Trump; aún no cuenta 'toda la verdad'
+image: "/uploads/2021/images-alicia-machado-asegura-falta-contar.jpg"
+video: "nil"
+audio: "nil"
+alt: "La justicia es implacable -  Alicia Machado arremete contra Trump; aún no cuenta 'toda la verdad'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182191
 ---
 
 Alicia Machado, empresaria, actriz y concursante de Miss Universo (1996), volvió a arremeter contra el presidente Donald Trump. La famosa venezolana hizo uso de sus redes sociales para expresar que aún le queda mucho por decir sobre el estadunidense. Expresó que la justicia “divina es implacable” y que “a todos nos llega el juicio”. Esto a raíz de haberse sentido expuesta y violentada por el mandatario. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante actuará en la próxima película de David O. Russell. "
-image: /uploads/2021/images-taylor-swift-shutterstock_0_1_1200_745.jpg
-video: nil
-audio: nil
-alt: Taylor Swift volverá al cine; actuará a lado de Robert De Niro y Christian Bale
+image: "/uploads/2021/images-taylor-swift-shutterstock_0_1_1200_745.jpg"
+video: "nil"
+audio: "nil"
+alt: "Taylor Swift volverá al cine; actuará a lado de Robert De Niro y Christian Bale"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184795
 ---
 
 Taylor Swift volverá a la actuación en la próxima película de David O. Russell, que protagonizarán Margot Robbie y Christian Bale y contará con la participación de Robert De Niro. La cantante, que ya formó parte del fallido musical Cats, sumará así otra aparición en Hollywood, después de estrenar su propio documental en Netflix, realizar varios cameos y dirigir el videoclip de la canción The Man. 

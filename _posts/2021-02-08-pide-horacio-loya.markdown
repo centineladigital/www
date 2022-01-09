@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La idea seria retomar el asunto para que se cumpla todo lo que se prometió en las reuniones, con los directivos estatales."
-image: /uploads/2021/images-276068imagen_2021-02-07_144305.png
-video: nil
-audio: nil
-alt: Pide Horacio Loya no dejar de presionar al IMSS por servicio
+image: "/uploads/2021/images-276068imagen_2021-02-07_144305.png"
+video: "nil"
+audio: "nil"
+alt: "Pide Horacio Loya no dejar de presionar al IMSS por servicio"
 front: false
-section: Local
+section: "Local"
+news_id: 182777
 ---
 
 Horacio Loya, regidor de Obras Publicas comentó que desde la ultima vez que los directivos del Instituto Mexicano del Seguro Social visitaron Madera, ya no se ha tenido acceso a la misma atención, faltando incluso medicinas básicas, por lo que dijo que es necesario seguir insistiendo para que las gestiones hechas hasta ahora fueran en vano.

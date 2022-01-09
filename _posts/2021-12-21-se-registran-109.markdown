@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Se registran 109 nuevos casos de COVID-19 para el estado de Chihuahua "
+date: 2021-12-21T20:04:00.000-06:00
+tags:
+  
+  - Covid
+  
+  - Cifras
+  
+  - chihuahua
+  
+author: nil
+description: "El número de personas que han perdido la vida por COVID-19 asciende a 8 mil 625 (+1), el último registro corresponde al municipio de Juárez (+1)."
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Se registran 109 nuevos casos de COVID-19 para el estado de Chihuahua "
+front: false
+section: "Local"
+news_id: 191081
+---
+
+El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 21 de diciembre el reporte COVID-19, en el cual se registran  90,686 (+109) casos confirmados, 77 mil 350 (+82) casos recuperados, 86 mil 907 (+43) descartados y 1,104 (-4) casos sospechosos.
+
+El número de personas que han perdido la vida por COVID-19 asciende a 8 mil 625 (+1), el último registro corresponde al municipio de Juárez (+1).
+
+Hoy se registran 109 nuevos casos que se concentran en los municipios de Juárez (+100), Chihuahua (+5), Buenaventura (+2), Ahumada (+1) y Janos (+1).  
+
+La tasa de incidencia de casos activos por cada 100 mil habitantes es de 42.9 por ciento, por lo cual el estado de Chihuahua se posiciona en el lugar número 3 de casos activos en el país. 
+
+Este martes se tiene un registro de 211 personas hospitalizadas, de las cuales 51 están intubadas, lo que arroja un porcentaje de ocupación hospitalaria general por el 50.1 por ciento y un 31.2 por ciento de personas hospitalizadas en la entidad. 
+
+Ante las fiestas navideñas y de fin de año, la Secretaría de Salud exhorta a la población a evitar aglomeraciones, usar cubrebocas en todas las actividades, mantener sana distancia. 
+
+En caso de presentar algún síntoma como pérdida del olfato, dolor de cabeza, fiebre superior a 38 grados, cuerpo cortado, escurrimiento nasal o dolor de garganta, es importante acudir a realizarse una prueba para descartar o confirmar COVID-19.

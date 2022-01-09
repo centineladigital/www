@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "América está en busca de su último refuerzo para el Apertura 2021, y un jugador de León es la opción "
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: América va por figura del León
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "América va por figura del León"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185900
 ---
 
 Aunque está sobregirado en cuanto a futbolistas no formados en México, el América todavía busca a un último refuerzo para el torneo que está por iniciar. Ya lo dijo Santiago Solari... Y el que le agrada es Ángel Mena.

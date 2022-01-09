@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras el inicio de clases presenciales en Jalisco, el gobernador Enrique Alfaro informó que este lunes regresaron a las aulas más de 1 millón 610 mil alumnos de educación básica "
-image: /uploads/2021/images-enrique-alfaro-gobernador-de-jalisco-20.jpg
-video: nil
-audio: nil
-alt: Jalisco reporta 90 escuelas dañadas por huracán 'Nora'; pide apoyo del gobierno
+image: "/uploads/2021/images-enrique-alfaro-gobernador-de-jalisco-20.jpg"
+video: "nil"
+audio: "nil"
+alt: "Jalisco reporta 90 escuelas dañadas por huracán 'Nora'; pide apoyo del gobierno"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187238
 ---
 
 El gobernador de Jalisco, Enrique Alfaro pidió apoyo al presidente Andrés Manuel López Obrador ya que 90 escuelas resultaron dañadas por el impacto del huracán Nora, lo que impidió que en estos planteles iniciara el ciclo escolar. 

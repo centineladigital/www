@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El registro de aspirantes cierra esta semana, informa Seech; esta nueva carrera forma especialistas en la atención a menores de 3 años y se imparte en Chihuahua y Juárez por el Centro de Actualización del Magisterio"
-image: /uploads/2021/images-CAM.jpeg
-video: nil
-audio: nil
-alt: Convocan a inscribirse en la Licenciatura en Educación Inicial antes del viernes 21 de mayo
+image: "/uploads/2021/images-CAM.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Convocan a inscribirse en la Licenciatura en Educación Inicial antes del viernes 21 de mayo"
 front: false
-section: Local
+section: "Local"
+news_id: 184546
 ---
 
 Este viernes 21 de mayo concluye el plazo para el registro de aspirantes a ingresar a la licenciatura en Educación Inicial, impartida en Chihuahua y Ciudad Juárez por el Centro de Actualización del Magisterio (CAM), informó Servicios Educativos del Estado de Chihuahua (Seech).

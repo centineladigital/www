@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se desembocaron problemas económicos en el sector agropecuario de Chihuahua"
-image: /uploads/2021/images-ERACLIO_.jpeg
-video: /uploads/2021/videos-BV02_ERACLIO_RODRIGUEZ.mp4
-audio: nil
-alt: El quinquenio de Javier Corral trajo problemas en el sector agropecuario 
+image: "/uploads/2021/images-ERACLIO_.jpeg"
+video: "/uploads/2021/videos-BV02_ERACLIO_RODRIGUEZ.mp4"
+audio: "nil"
+alt: "El quinquenio de Javier Corral trajo problemas en el sector agropecuario "
 front: false
-section: Local
+section: "Local"
+news_id: 187206
 ---
 
 El diputado de desarrollo y conservación agrícola y autosuficiencia alimentaria  Eraclio Rodríguez Gómez  aseguró que respecto al desempeño del quinquenio de Javier Corral durante su administración se desembocaron problemas económicos en el sector agropecuario de Chihuahua, ya que hubo una caída en la producción  gracias a las condiciones climatológicas del ciclo agrícola anterior en donde asegura perdieron toda la producción.

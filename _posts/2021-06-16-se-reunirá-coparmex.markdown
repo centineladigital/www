@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "No cree que vaya existir problemas en la entrega de administración, por lo que ve que será una transición tranquila"
-image: /uploads/2021/images-FEFFEWF.jpg
-video: nil
-audio: /uploads/2021/audio-AW01_JORGE_CRUZ_CAMBEROS.mp3
-alt: Se reunirá Coparmex con nuevas administraciones de gobierno
+image: "/uploads/2021/images-FEFFEWF.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AW01_JORGE_CRUZ_CAMBEROS.mp3"
+alt: "Se reunirá Coparmex con nuevas administraciones de gobierno"
 front: false
-section: Local
+section: "Local"
+news_id: 185064
 ---
 
 El presidente de Coparmex Chihuahua, Jorge Cruz Camberos, destacó que esta semana se reunirán con las nuevas admiraciones gubernamentales, tanto del próximo alcalde de la capital del estado, como con el de la gobernadora electa. 

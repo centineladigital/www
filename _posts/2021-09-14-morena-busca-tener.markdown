@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Proporcionalmente les estarían tocando 9 presidencias "
-image: /uploads/2021/images-descarga.jpg
-video: /uploads/2021/videos-BM03_EDIN__ESTRADA.mp4
-audio: nil
-alt: Morena busca tener injerencia en algunas comisiones
+image: "/uploads/2021/images-descarga.jpg"
+video: "/uploads/2021/videos-BM03_EDIN__ESTRADA.mp4"
+audio: "nil"
+alt: "Morena busca tener injerencia en algunas comisiones"
 front: false
-section: Local
+section: "Local"
+news_id: 187730
 ---
 
 El diputado de Morena  EdÍn Estrada aseguró que morena espera tener alguna fiscalización en las comisiones de presupuestos de gobernación ya que representa una gran importancia a nivel estado, mencionó que los intereses de morena también están involucrados en educación y desarrollo social.

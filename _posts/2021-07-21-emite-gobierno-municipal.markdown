@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con el fin de que la ciudadanía adopte prácticas ecológicas para mejorar el medio ambiente   "
-image: /uploads/2021/images-unnamed_(3).jpg
-video: nil
-audio: nil
-alt: Emite Gobierno Municipal consejos útiles para separar la basura
+image: "/uploads/2021/images-unnamed_(3).jpg"
+video: "nil"
+audio: "nil"
+alt: "Emite Gobierno Municipal consejos útiles para separar la basura"
 front: false
-section: Local
+section: "Local"
+news_id: 185877
 ---
 
 La Dirección de Servicios Públicos Municipales recuerda a la ciudadanía que hay 15 estaciones de reciclaje instaladas en la ciudad, en donde los ciudadanos pueden ir a depositar los residuos que separen en casa cualquier día de la semana, las 24 horas del día, esto con el fin de fomentar la educación ambiental en los hogares chihuahuenses.

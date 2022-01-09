@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esperará los resultados preliminares de IEE, para reafirmar el gane"
-image: /uploads/2021/images-Loera.jpg
-video: nil
-audio: nil
-alt: Juan Carlos Loera emite mensaje
+image: "/uploads/2021/images-Loera.jpg"
+video: "nil"
+audio: "nil"
+alt: "Juan Carlos Loera emite mensaje"
 front: false
-section: Local
+section: "Local"
+news_id: 184887
 ---
 
 En estos momentos, el candidato a Gobernador, Juan Carlos Loera, dio un mensaje donde indico que las encuestas que han realizado favorecen al movimiento de regeneración nacional, por lo que destacó que es casi un hecho que ellos han ganado la gubernatura.

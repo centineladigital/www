@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Ganadores de premios nacionales, estatales y municipales."
-image: /uploads/2021/images-BYANCA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ07_BYANCA_RODRIGUEZ.mp3
-alt: 13 deportistas se adhieren a propuestas de Acción Nacional
+image: "/uploads/2021/images-BYANCA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ07_BYANCA_RODRIGUEZ.mp3"
+alt: "13 deportistas se adhieren a propuestas de Acción Nacional"
 front: false
-section: Local
+section: "Local"
+news_id: 184058
 ---
 
 Un total de 13 figuras del deporte a nivel nacional se sumaron este jueves a los trabajos de la campaña del Partido Acción Nacional, según lo dio a conocer el dirigente de este organismo político a nivel municipal, Francisco Navarro.

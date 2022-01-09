@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En el sitio www.meyad.mx, las y los pequeños lectores podrán encontrar información diversa sobre el país del “Sol Naciente”, su historia, costumbres, comida, vestimentas tradicionales, además de datos sobre la esperada justa olímpica"
-image: /uploads/2021/images-DivierTT-1.jpg
-video: nil
-audio: nil
-alt: Publica revista DivierTT número especial sobre Japón y Olimpiadas Tokio 2020
+image: "/uploads/2021/images-DivierTT-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Publica revista DivierTT número especial sobre Japón y Olimpiadas Tokio 2020"
 front: false
-section: Local
+section: "Local"
+news_id: 185800
 ---
 
 Circula ya una edición especial de la revista electrónica DivierTT, dedicada a Japón y a los Juegos Olímpicos de Tokio 2020, evento deportivo que se pospuso un año debido a la pandemia por COVID-19.

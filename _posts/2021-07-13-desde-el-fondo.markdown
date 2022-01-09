@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz señaló que mantuvo un romance con Jorge Salinas sabiendo que él estaba casado y reconoció que hizo algunas declaraciones desafortunadas que le lastimaron a terceras personas. "
-image: /uploads/2021/images-andrea-noli-disculpa-esposa-jorge_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Desde el fondo de mi corazón -  Andrea Noli pide perdón a Fátima Boggio, ex de Jorge Salinas
+image: "/uploads/2021/images-andrea-noli-disculpa-esposa-jorge_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Desde el fondo de mi corazón -  Andrea Noli pide perdón a Fátima Boggio, ex de Jorge Salinas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185637
 ---
 
 Andrea Noli está en el ojo del huracán tras revelar que Jorge Salinas nunca quiso ver ni se hizo cargo de su hija, Valentina, quien actualmente tiene 15 años de edad. La actriz relató en una entrevista con Gustavo Adolfo Infante que conoció al actor por medio de Alexis Ayala y reconoció que mantuvo dicho romance con Salinas sabiendo que él estaba casado con Fátima Boggio. "No es que hubiera una relación en realidad, era una amistad. Siempre salíamos en grupo a divertirnos y demás. Él es un hombre seductor y yo una chavita encandilada y así se dio", contó en el programa El minuto que cambió mi destino.

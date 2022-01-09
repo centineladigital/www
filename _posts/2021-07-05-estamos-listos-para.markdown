@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Evita tratar tema de venta de concesiones."
-image: /uploads/2021/images-CORRAL2.jpg
-video: nil
-audio: /uploads/2021/audio-ML06.mp3
-alt: Estamos listos para recibir denuncias -  Corral
+image: "/uploads/2021/images-CORRAL2.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML06.mp3"
+alt: "Estamos listos para recibir denuncias -  Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 185386
 ---
 
 Al ser cuestionado de presuntas irregularidades que integren el gabinete fueron las palabras del Gobernador de Chihuahua, Javier Corral Jurado, al ser cuestionado respecto a señalamientos de obras. Destacando que esto se recibe en un ambiente que calificó de “politiquería”.

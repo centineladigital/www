@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La conductora de 'Ventaneando' contó que la actriz se porto de forma grosera con ella durante una entrevista para promocionar la película 'El exorcismo de Carmen Farías'. "
-image: /uploads/2021/images-conductora-ventaneando-conto-mala-experiencia.jpg
-video: nil
-audio: nil
-alt: Soberbia -  Linet Puente arremete contra Camila Sodi por mala actitud durante entrevista
+image: "/uploads/2021/images-conductora-ventaneando-conto-mala-experiencia.jpg"
+video: "nil"
+audio: "nil"
+alt: "Soberbia -  Linet Puente arremete contra Camila Sodi por mala actitud durante entrevista"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184314
 ---
 
 Luego de que Camila Sodi preocupó a sus fans debido a que fue hospitalizada la noche del martes por un malestar estomacal, este miércoles la actriz volvió a dar la nota, pues durante la promoción de la película El exorcismo de Carmen Farías, la famosa no tuvo una buena actitud con Linet Puente, conductora de Ventaneando. "A mí me molesta mucho que todavía existen actores o personalidades que no se saben conducir con los periodistas; que si les haces una pregunta que tantito se sale de lo que ellos están esperando, luego luego te atacan de que estás haciendo mal las preguntas, en lugar de darle la vuelta", dijo la periodista sobre el desencuentro que tuvo con la actriz durante una entrevista. 

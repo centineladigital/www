@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Falta de atención, problemas de memoria, cansancio excesivo e irritabilidad, son algunas de las consecuencias por no descansar bien durante la noche"
-image: /uploads/2021/images-Foto_4160-1.jpg
-video: nil
-audio: nil
-alt: Insomnio, el trastorno del sueño más frecuente -  IMSS Chihuahua
+image: "/uploads/2021/images-Foto_4160-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Insomnio, el trastorno del sueño más frecuente -  IMSS Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 187095
 ---
 
 A causa del agitado ritmo de vida que llevamos actualmente, así como algunos factores externos, tales como presiones laborales o estado socioeconómico, se ha observado un incremento de casos con trastornos del sueño, señaló la coordinadora de Salud Pública, doctora Brenda Ramírez Vega del Instituto Mexicano del Seguro Social (IMSS) en Chihuahua.

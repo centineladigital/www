@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma Salud estatal 18 personas más contagiadas y el deceso de otras 14 en el último reporte epidemiológico;  los principales municipios con casos activos son Chihuahua  con 279 y Juárez con 149"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Suman 74,994 contagios y 7,792 fallecimientos por COVID-19 en la entidad
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Suman 74,994 contagios y 7,792 fallecimientos por COVID-19 en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 186994
 ---
 
 La Secretaría de Salud informó que al 23 de agosto se tienen en el estado de Chihuahua un total general de 74 mil 994 casos de COVID-19 con 18 nuevos confirmados, así como 7 mil 792 personas fallecidas, 14 más en Ciudad Juárez (+10), Delicias (+3) y Rosales (+1).

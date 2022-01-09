@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hoy se dio a conocer que el peleador mexicano regresará al MGM Grand para enfrentar a Caleb Plant por el cinturón indiscutido de la división "
-image: /uploads/2021/images-cinturon-llevara-ganador-pelea-canelo-2_1_0_1198_747.jpg
-video: nil
-audio: nil
-alt: Pelea 'Canelo' Álvarez vs Caleb Plant será en Las Vegas; estrenarán cinturón
+image: "/uploads/2021/images-cinturon-llevara-ganador-pelea-canelo-2_1_0_1198_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pelea 'Canelo' Álvarez vs Caleb Plant será en Las Vegas; estrenarán cinturón"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187747
 ---
 
 A dos años de su última presentación en el legendario MGM Grand Garden Arena, el peleador mexicano Saúl Álvarez regresará para ir por uno de los logros más grandes de su carrera. El 6 de noviembre se enfrentará al campeón estadunidense Caleb Plant por el último cinturón que le falta para convertirse en indiscutido en peso supermedio. 

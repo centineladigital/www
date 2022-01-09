@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El público asistente tuvo la libertad de moverse y expresarse con libertad, en el primer  evento de formato relajado realizado en el Teatro de Cámara Fernando Saavedra bajo la batuta de la Banda Sinfónica Umbral en el marco del 4to Foro de Inclusión   "
-image: /uploads/2021/images-concierto_menores_autismo__(4).jpeg
-video: nil
-audio: nil
-alt: Ofrece Cultura concierto para niñas, niños y adolescentes con autismo
+image: "/uploads/2021/images-concierto_menores_autismo__(4).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Ofrece Cultura concierto para niñas, niños y adolescentes con autismo"
 front: false
-section: Local
+section: "Local"
+news_id: 187341
 ---
 
 Por primera vez en Chihuahua, la Banda sinfónica Umbral ofreció un concierto en formato relajado, el cual inició en el Reino Unido y se ha extendido a través del mundo con la finalidad de visibilizar e integrar a personas con discapacidad.

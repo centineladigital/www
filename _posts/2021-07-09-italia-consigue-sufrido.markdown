@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: ""
-image: /uploads/2021/images-Deportes.jpg
-video: nil
-audio: nil
-alt: Italia consigue sufrido pase a cuartos de final de la Eurocopa tras vencer a Austria
+image: "/uploads/2021/images-Deportes.jpg"
+video: "nil"
+audio: "nil"
+alt: "Italia consigue sufrido pase a cuartos de final de la Eurocopa tras vencer a Austria"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185486
 ---
 
 El atacante de la Juventus, salido del banquillo como oxígeno para la prórroga, se vistió del Fabio Grosso de 2006 y de su padre Enrico, que marcó en la Euro de 1996. Cazó un balón dentro del área, lanzó un amago mágico y definió con la mejor volea de su vida. 

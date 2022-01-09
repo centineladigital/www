@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Vacunas llegarían hasta el próximo año según el Gobernador de Chihuahua."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-ML07_CORRAL.mp3
-alt: No adquirirá Gobierno vacunas; esperará campaña federal
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML07_CORRAL.mp3"
+alt: "No adquirirá Gobierno vacunas; esperará campaña federal"
 front: false
-section: Local
+section: "Local"
+news_id: 183098
 ---
 
 No habrá compra de vacunas por parte del Gobierno Estatal, esto ya que esperarán a que en el mes de junio concluya la campaña de vacunación nacional, esto según lo dio a conocer el mandatario Javier Corral Jurado.

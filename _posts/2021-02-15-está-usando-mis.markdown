@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El conductor de 'Venga la Alegría' compartió con sus seguidores que una persona usa sus fotografías para ligar en una app de citas. "
-image: /uploads/2021/images-william-valdes-denuncia-robo-identidad_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Está usando mis fotos -  William Valdés denuncia robo de su identidad en app de citas
+image: "/uploads/2021/images-william-valdes-denuncia-robo-identidad_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Está usando mis fotos -  William Valdés denuncia robo de su identidad en app de citas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182933
 ---
 
 William Valdés ha estado envuelto en la polémica por su discusión con Ana Lago, ex participante de Exatlón México 2020, en plena emisión del programa Venga la Alegría. En esta ocasión, el conductor de TV Azteca denunció por medio de sus redes sociales que una persona robo su identidad para ligar en una aplicación de citas.  A través de sus historias de Instagram, William Valdés compartió con sus seguidores que una persona cercana a él le advirtió que un usuario de una famosa app para encontrar pareja estaba usando su identidad para conseguir citas.  

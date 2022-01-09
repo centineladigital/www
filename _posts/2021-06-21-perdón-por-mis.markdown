@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de su cuenta de Instagram en donde Carlos Baute reconoció a su hijo, quien por años en tribunales exigía el reconocimiento. "
-image: /uploads/2021/images-carlos-baute-reconocio-publicamente-hijo.jpg
-video: nil
-audio: nil
-alt: Perdón por mis errores -  Carlos Baute reconoce a su hijo José Daniel en pleno Día del Padre
+image: "/uploads/2021/images-carlos-baute-reconocio-publicamente-hijo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Perdón por mis errores -  Carlos Baute reconoce a su hijo José Daniel en pleno Día del Padre"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185139
 ---
 
 Carlos Baute, famoso cantante, generó impacto entre sus seguidores, al reconocer por fin a su hijo que por años peleó en los tribunales. El intérprete de Colgando en tus manos reconoció como hijo a José Daniel Arellán, el joven que nació de su pasada relación con Nallera Zerimar Arellán Castilllo cuando él tenía apenas 15 años y ella 13 años de edad. Con una imagen y palabras de perdón el cantante lo hizo visible.

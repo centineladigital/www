@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz reconoce que ha sido en la televisión uno de los espacios donde ha encontrado más ventajas para la exploración profunda de sus personajes. "
-image: /uploads/2021/images-helena-rojo-instagram.jpg
-video: nil
-audio: nil
-alt: México no es un país donde se recuerden mucho las trayectorias -  Helena Rojo reflexiona sobre su carrera actoral
+image: "/uploads/2021/images-helena-rojo-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "México no es un país donde se recuerden mucho las trayectorias -  Helena Rojo reflexiona sobre su carrera actoral"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186191
 ---
 
 Helena Rojo, icónica actriz que a sus 76 años sigue activa en diversos formatos audiovisuales y al día en nuevas alternativas de las redes sociales, considera que "México no es un país donde se recuerden mucho las trayectorias, como decía una vieja compañera: 'Aquí parece que tenemos que meter un gol todos los días para que nos hagan caso'". 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Registran 22 nuevos casos y un muerto."
-image: /uploads/2021/images-gum.jpg
-video: nil
-audio: /uploads/2021/audio-MM03.mp3
-alt: Buena evolución de casos COVID -  Barrios
+image: "/uploads/2021/images-gum.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM03.mp3"
+alt: "Buena evolución de casos COVID -  Barrios"
 front: false
-section: Local
+section: "Local"
+news_id: 185046
 ---
 
 Una tendencia positiva es lo que se marca de la estadística de casos de coronavirus, esto luego de que en tan sólo 24 horas se detectaron 22 nuevos casos y se acreditó solamente una muerte, según lo dio a conocer el titular de la Subdirección de Epidemiología, Gumaro Barrios Gallegos.

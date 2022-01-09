@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Para este sábado 20 de febrero se prevén rachas de viento de hasta 75 km/h en la zona norte y tolvaneras en el tramo carretero Juárez-Ascensión; pide Protección Civil extremar precauciones"
-image: /uploads/2021/images-Janos_mega_letras.jpg
-video: nil
-audio: nil
-alt: Ingresa este domingo el Frente Frío 37 con temperaturas moderadas
+image: "/uploads/2021/images-Janos_mega_letras.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ingresa este domingo el Frente Frío 37 con temperaturas moderadas"
 front: false
-section: Local
+section: "Local"
+news_id: 183068
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que este domingo ingresará el Frente Frío número 37, por el noroeste de la entidad y traerá un moderado descenso de la temperatura para el lunes 22.

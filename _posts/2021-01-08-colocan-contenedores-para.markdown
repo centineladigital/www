@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Estarán instalados en Soriana Mirador, Juventud y Homero."
-image: /uploads/2021/images-ARB3.jpeg
-video: nil
-audio: /uploads/2021/audio-MV06_RICARDO_MARTINEZ.mp3
-alt: Colocan contenedores para arbolitos navideños
+image: "/uploads/2021/images-ARB3.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MV06_RICARDO_MARTINEZ.mp3"
+alt: "Colocan contenedores para arbolitos navideños"
 front: false
-section: Local
+section: "Local"
+news_id: 181987
 ---
 
 Arboles naturales que fueron utilizados esta navidad podrán ser llevados a contenedores los cuales fueron puestos en tres puntos de la ciudad, según lo declaró el titular de la Dirección de Servicios Públicos Municipales Ricardo Martínez García.

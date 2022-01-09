@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Registran solamente 24 defunciones en las últimas 24 horas."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-ML01_WENDY_AVILA.mp3
-alt: Continúa Chihuahua con más del 100 casos diarios
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML01_WENDY_AVILA.mp3"
+alt: "Continúa Chihuahua con más del 100 casos diarios"
 front: false
-section: Local
+section: "Local"
+news_id: 182609
 ---
 
 En los últimos días se ha continuado detectando más de 100 casos de personas que han dado positivo a la prueba PCR, según fue dado a conocer este lunes. Esto luego de que en las últimas 24 horas 177 personas dieron positivo a COVID y se acreditaron defunciones.

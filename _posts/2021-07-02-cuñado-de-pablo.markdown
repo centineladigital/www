@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras el altercado que tuvo Pablo Lyle en Miami con un hombre que murió por las presuntas agresiones del actor, ahora el cuñado de Lyle busca deslindarse del caso. "
-image: /uploads/2021/images-el-cunado-del-actor-tambien.jpg
-video: nil
-audio: nil
-alt: Cuñado de Pablo Lyle busca deslindarse del caso de supuesto homicidio; postergan juicio
+image: "/uploads/2021/images-el-cunado-del-actor-tambien.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cuñado de Pablo Lyle busca deslindarse del caso de supuesto homicidio; postergan juicio"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185362
 ---
 
 Desde hace más de dos años Pablo Lyle está bajo arresto domiciliario en Miami después de ser acusado de supuesto homicidio por haber agredido físicamente a Juan Ricardo Hernández, cubano con el que tuvo una disputa por un problema de tránsito. Ahora, el cuñado del actor, Lucas Delfino busca deslindarse del caso, ya que él también estuvo en el momento en el que ocurrió el incidente. 

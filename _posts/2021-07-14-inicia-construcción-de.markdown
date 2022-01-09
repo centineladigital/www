@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La obra eliminará los constantes problemas de enlodamientos y baches, así como prevendrá posibles accidentes de turistas y prestadores de servicio."
-image: /uploads/2021/images-Parque_Barrancas.jpeg
-video: nil
-audio: nil
-alt: Inicia construcción de camino de concreto en acceso a Parque de Aventura Barrancas del Cobre
+image: "/uploads/2021/images-Parque_Barrancas.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Inicia construcción de camino de concreto en acceso a Parque de Aventura Barrancas del Cobre"
 front: false
-section: Local
+section: "Local"
+news_id: 185681
 ---
 
 Para mejorar el acceso al Parque de Aventura Barrancas del Cobre, se inició la construcción del camino con concreto hidráulico, por lo que se habilitó una vía alterna temporal para comodidad de los visitantes.

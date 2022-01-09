@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Cereales no aportan muchos nutrientes a la dieta."
-image: /uploads/2021/images-JAVIER_CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-ML05_JAVIER_CORRAL.mp3
-alt: Menores no deberían de consumir cereales procesados
+image: "/uploads/2021/images-JAVIER_CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML05_JAVIER_CORRAL.mp3"
+alt: "Menores no deberían de consumir cereales procesados"
 front: false
-section: Local
+section: "Local"
+news_id: 183976
 ---
 
 Debido a la entrada en vigor de la norma 051, es momento en que los padres piensen en que es lo que consumen los menores, esto ya que con la norma que entró en vigor y trata de que mascotas y superhéroes no aparezcan en la publicidad de cereales, con el fin de inhibir problemas de salud.

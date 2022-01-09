@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "No hay un estado democrático sin la garantía de dos derechos sociales fundamentales para el desarrollo de las personas: el derecho a la cultura y el derecho a la información, como piedras angulares del desarrollo democrático de un país, expresó Javier Corral."
-image: /uploads/2021/images-DSC_9950.JPG
-video: nil
-audio: nil
-alt: Reúne Chihuahua a secretarios en II Encuentro Interestatal de Cultura; les da Gobernador bienvenida
+image: "/uploads/2021/images-DSC_9950.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reúne Chihuahua a secretarios en II Encuentro Interestatal de Cultura; les da Gobernador bienvenida"
 front: false
-section: Local
+section: "Local"
+news_id: 185702
 ---
 
 Al inaugurar el II Encuentro Interestatal de Cultura de la asociación a la que pertenecen 22 secretarios y titulares del área en los gobiernos estatales, el gobernador Javier Corral Jurado compartió que en Chihuahua la cultura se practica y desarrolla en absoluta libertad.

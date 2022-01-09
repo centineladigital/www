@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Matthew McConaughey se sinceró y reveló que durante su adolescencia fue víctima de abuso sexual; el actor contó este episodio en su biografía. "
-image: /uploads/2021/images-actor-conto-episodio-vida-biografia.jpg
-video: nil
-audio: nil
-alt: Matthew McConaughey revela que fue víctima de abuso sexual en su adolescencia
+image: "/uploads/2021/images-actor-conto-episodio-vida-biografia.jpg"
+video: "nil"
+audio: "nil"
+alt: "Matthew McConaughey revela que fue víctima de abuso sexual en su adolescencia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184919
 ---
 
 El actor estadunidense Matthew McConaughey se sinceró en su biografía "Greenlights", la cual lleva este nombre debido a que se trata de una historia sobre cómo se pueden "obtener más luces verdes de la vida", según lo cuenta en estas páginas en las que echa un "vistazo" a sus últimos 50 años, además en donde reveló que fue víctima de abuso sexual en su adolescencia. 

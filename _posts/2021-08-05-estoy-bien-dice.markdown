@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Envía mensaje gobernadora electa de Chihuahua desde su confinamiento"
-image: /uploads/2021/images-foto_maru.jpeg
-video: /uploads/2021/videos-JGJ01_MARU_CAMPOS.mp4
-audio: nil
-alt: Estoy bien dice Maru Campos
+image: "/uploads/2021/images-foto_maru.jpeg"
+video: "/uploads/2021/videos-JGJ01_MARU_CAMPOS.mp4"
+audio: "nil"
+alt: "Estoy bien dice Maru Campos"
 front: false
-section: Local
+section: "Local"
+news_id: 186322
 ---
 
 La gobernadora electa de Chihuahua, Maru Campos Galván, envió un mensaje desde su confinamiento para informar a los chihuahuenses que sigue recuperándose de COVID-19 y para agradecer el respaldo del personal de salud y de la gente que ha enviado mensajes de apoyo. Campos Galván señaló que los médicos han hecho buenas proyecciones sobre la evolución de la enfermedad y actualmente sólo ha sentido algunas molestias comunes como dolor de cabeza y cansancio. Finalmente, Maru pidió a la población que mantenga los cuidados necesarios para no contagiarse de coronavirus y dijo que pronto espera estar de vuelta una vez que deje su aislamiento.

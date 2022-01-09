@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Mujeres gestantes con coronavirus tienen cinco veces mayor riesgo de caer en terapia intensiva y 1.5 veces más de tener parto prematuro"
-image: /uploads/2021/images-ISSSTE_01.jpeg
-video: nil
-audio: nil
-alt: Representa el ISSSTE a Mexico en investigación multinacional relativa a embarazo y COVID-19
+image: "/uploads/2021/images-ISSSTE_01.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Representa el ISSSTE a Mexico en investigación multinacional relativa a embarazo y COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 186895
 ---
 
 Especialistas del Hospital Regional “Lic. Adolfo López Mateos” del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), representaron a México en una investigación multinacional liderada por médicos ingleses, sobre el estudio de morbilidad y mortalidad relacionada a COVID-19 en mujeres embarazadas y sus recién nacidos, informó la ginecobstetra y neonatóloga, Perla Karina García-May.

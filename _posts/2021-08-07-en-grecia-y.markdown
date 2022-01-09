@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se han emitido órdenes de evacuación para decenas de pueblos de la zona continental y de la cercana isla de Eubea, así como para los asentamientos periféricos en la franja boscosa de Atenas"
-image: /uploads/2021/images-ocho-personas-han-muerto-por_0_45_1024_637.jpg
-video: nil
-audio: nil
-alt: En Grecia y Turquía, miles de personas huyen por tierra y mar de los incendios
+image: "/uploads/2021/images-ocho-personas-han-muerto-por_0_45_1024_637.jpg"
+video: "nil"
+audio: "nil"
+alt: "En Grecia y Turquía, miles de personas huyen por tierra y mar de los incendios"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186430
 ---
 
 Los incendios forestales ardieron nuevamente sin control este viernes en Grecia y Turquía, obligando a miles de personas a huir por tierra y por mar. Un bombero voluntario murió en las afueras de Atenas en un enorme incendio que amenazaba el parque nacional más importante de la capital griega. Ocho personas han muerto por las conflagraciones de Turquía, descritas como las peores en décadas, que han arrasado franjas de la costa sur durante los últimos 10 días. 

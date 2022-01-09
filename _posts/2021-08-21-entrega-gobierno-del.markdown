@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se invirtió un millón 655 mil 928 pesos del Fondo de Reparación Justicia para Chihuahua; con el programa Desarrollo Paz y Reencuentro de 2019 a 2021 se han aplicado 2 millones 784 mil 004 pesos en diversas obras"
-image: /uploads/2021/images-b69bb429-7dee-4c59-91bd-66030e94691f.jpg
-video: nil
-audio: nil
-alt: Entrega Gobierno del Estado salón de usos múltiples y estadio de béisbol en Manuel Benavides
+image: "/uploads/2021/images-b69bb429-7dee-4c59-91bd-66030e94691f.jpg"
+video: "nil"
+audio: "nil"
+alt: "Entrega Gobierno del Estado salón de usos múltiples y estadio de béisbol en Manuel Benavides"
 front: false
-section: Local
+section: "Local"
+news_id: 186983
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Desarrollo Municipal (Sedemun), en coordinación con el Ayuntamiento de Manuel Benavides, inauguró la rehabilitación y ampliación del salón de usos múltiples, así como la remodelación del parque de béisbol, en los que se invirtieron un millón 655 mil 928.01 pesos.

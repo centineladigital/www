@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Revocan inspectores municipales permiso para evento final del Certamen Miss México"
-image: /uploads/2021/images-012E631D-6CB2-4925-9BCD-EA70D70A54D8.jpeg
-video: nil
-audio: nil
-alt: Cancelan Miss México por posibles casos COVID
+image: "/uploads/2021/images-012E631D-6CB2-4925-9BCD-EA70D70A54D8.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Cancelan Miss México por posibles casos COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 185343
 ---
 
 *Revocan inspectores municipales permiso para evento final del Certamen Miss México*

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto ya que no considera que sea un tema de congelamiento de ductos como lo han querido ver."
-image: /uploads/2021/images-AD1.jpg
-video: nil
-audio: /uploads/2021/audio-MJ08_ALEJANDRO_DOMINGUEZ.mp3
-alt: Ineficiencia falta de luz en México
+image: "/uploads/2021/images-AD1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ08_ALEJANDRO_DOMINGUEZ.mp3"
+alt: "Ineficiencia falta de luz en México"
 front: false
-section: Local
+section: "Local"
+news_id: 183029
 ---
 
 Los apagones que se registraron esta semana en todo el país reflejan la ineficiencia por parte del Gobierno Federal, fueron las palabras del dirigente estatal del PRI Alejandro Domínguez. Esto ya que no considera que sea un tema de congelamiento de ductos como lo han querido ver.

@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Jairo Méndez Rico, asesor en Enfermedades Virales Emergentes de la OPS, señaló que la variante detectada en India se encuentra ya en 95 países."
-image: /uploads/2021/images-variante-delta-plus.jpg
-video: nil
-audio: nil
-alt: Detectan la variante Delta en 3 estados del país
+image: "/uploads/2021/images-variante-delta-plus.jpg"
+video: "nil"
+audio: "nil"
+alt: "Detectan la variante Delta en 3 estados del país"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185326
 ---
 
 La Organización Panamericana de la Salud (OPS) confirmó la presencia de la variante Delta de COVID-19 en México.

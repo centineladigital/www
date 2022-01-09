@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante reaccionó a las críticas que recibió por parte de María Conchita Alonso por exigir a sus trabajadores que se pusieran la vacuna contra el covid-19. "
-image: /uploads/2021/images-maria-conchita-alonso-explota-pepe_0_0_1200_747_(1).jpg
-video: nil
-audio: nil
-alt: Dios la bendiga -  Pepe Aguilar responde a María Conchita Alonso por llamarlo ignorante
+image: "/uploads/2021/images-maria-conchita-alonso-explota-pepe_0_0_1200_747_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Dios la bendiga -  Pepe Aguilar responde a María Conchita Alonso por llamarlo ignorante"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187484
 ---
 
 María Conchita Alonso sigue envuelta en la polémica debido a sus declaraciones sobre la pandemia de covid-19 y su negación a aplicarse la vacuna.  Esto sumado a las críticas que hizo a Pepe Aguilar, a quien llamó "ignorante" por exigir a sus trabajadores inmunizarse frente al nuevo coronavirus, es ahora el papá de Ángela Aguilar quien responde a las acusaciones de la cantante.  

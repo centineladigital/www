@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El desbordamiento de la presa San Aparicio causó daños en un puente vehicular que conecta a las comunidades San Fernando y Salto Prieto, así como en tres puentes peatonales "
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Reportan primeros daños por desbordamiento de la presa San Aparicio en Zacatecas
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Reportan primeros daños por desbordamiento de la presa San Aparicio en Zacatecas"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187810
 ---
 
 Zacatecas.- Derivado de las afectaciones ocasionadas por el desbordamiento de la presa San Aparicio, en la comunidad Monte Grande, en el municipio de Genaro Codina, así como en Cuauhtémoc, se trasladaron a los albergues a poco más de 80 personas, habilitados en ambos municipios, según la información de las autoridades de Protección Civil del gobierno de Zacatecas.

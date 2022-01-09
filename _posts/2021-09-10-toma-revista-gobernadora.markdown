@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Ratifica el compromiso de la nueva administración con elementos de seguridad."
-image: /uploads/2021/images-MARU.jpg
-video: /uploads/2021/videos-MV02_MARU_CAMPOS.mp4
-audio: nil
-alt: Toma revista Gobernadora a elementos de seguridad
+image: "/uploads/2021/images-MARU.jpg"
+video: "/uploads/2021/videos-MV02_MARU_CAMPOS.mp4"
+audio: "nil"
+alt: "Toma revista Gobernadora a elementos de seguridad"
 front: false
-section: Local
+section: "Local"
+news_id: 187630
 ---
 
 Como parte de las acciones protocolarias, este viernes la Gobernadora María Eugenia Campos Galván llevó a cabo el pase de lista a elementos de seguridad estatal y municipal, donde ratificó el compromiso que tiene dentro de su administración con las fuerzas encargadas de la seguridad.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se atiende a 8 mil 794 estudiantes con rezago educativo y socioemocional en 146 planteles de preescolar, primaria y secundaria"
-image: /uploads/2021/images-SED_2427.JPG
-video: nil
-audio: nil
-alt: En operación modelo CASA en planteles de Educación Básica
+image: "/uploads/2021/images-SED_2427.JPG"
+video: "nil"
+audio: "nil"
+alt: "En operación modelo CASA en planteles de Educación Básica"
 front: false
-section: Local
+section: "Local"
+news_id: 185172
 ---
 
 La Secretaría de Educación y Deporte (SEyD) informó que esta semana inició la operación de los Centros de Asesoría y Seguimiento Académico (CASA) en 146 planteles públicos del nivel básico, donde se brindará atención a 8 mil 794 alumnas y alumnas por parte de 936 trabajadoras y trabajadores del sector educativo.

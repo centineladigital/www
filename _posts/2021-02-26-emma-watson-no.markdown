@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Emma Watson está inactiva en sus redes sociales, pero eso no quiere decir que lo mismo pase en la actuación. "
-image: /uploads/2021/images-emma-watson-1_0_1_354_220.jpg
-video: nil
-audio: nil
-alt: Emma Watson no se retirará de la actuación -  representante
+image: "/uploads/2021/images-emma-watson-1_0_1_354_220.jpg"
+video: "nil"
+audio: "nil"
+alt: "Emma Watson no se retirará de la actuación -  representante"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183180
 ---
 
 Los fans de Emma Watson pueden estar tranquilos, la actriz de Las Ventajas de Ser Invisible, no se retirará de la actuación, pese a la información que difundió el diario británico Daily Mail. Watson se encuentra inactiva en redes sociales, pero eso no indica que dejará su trabajo, informó su manager. De acuerdo con la revista Entertainment Weekly, Jason Weinber, manager de la actriz en Untitled Entertainment, comentó que Emma Watson está inactiva en sus redes sociales, pero eso no quiere decir que lo mismo pase en la actuación y descartó que la actriz, conocida por su papel de Hermione en Harry Potter, se retire. 

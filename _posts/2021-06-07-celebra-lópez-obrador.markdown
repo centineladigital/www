@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Asegura que la mayoría de Morena y aliados permitirá garantizar el presupuesto para los programas sociales; reconoce que las elecciones de este 6 de junio fueron limpias y libres"
-image: /uploads/2021/images-2591025.jpg
-video: nil
-audio: nil
-alt: Celebra López Obrador triunfo de 4T en Cámara de Diputados
+image: "/uploads/2021/images-2591025.jpg"
+video: "nil"
+audio: "nil"
+alt: "Celebra López Obrador triunfo de 4T en Cámara de Diputados"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184893
 ---
 
 El presidente Andrés Manuel López Obrador celebró que los partidos afines a la Cuarta Transformación conserven la mayoría simple en la Cámara de Diputados, ya que, aseguró, esto garantiza los recursos necesarios para los programas sociales.

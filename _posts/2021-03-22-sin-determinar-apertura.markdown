@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto lo determinaría la secretaría de salud y educación."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-ML03_ARTURO_VALENZUELA.mp3
-alt: Sin determinar apertura de escuelas y balnearios
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML03_ARTURO_VALENZUELA.mp3"
+alt: "Sin determinar apertura de escuelas y balnearios"
 front: false
-section: Local
+section: "Local"
+news_id: 183511
 ---
 
 La apertura de escuelas y balnearios aún se encuetra en analisis, según declaraciones del Director Médico de la Zona Norte, Arturo Valenzuela Zorrilla. Esto ya que aún no se tiene un lineamiento determinado para la iniciación de ambas esto por la situación que genera el coronavirus.

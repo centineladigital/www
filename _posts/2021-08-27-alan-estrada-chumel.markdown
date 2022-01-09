@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los tres coinciden en que su participación en la obra en el teatro Aldama ha sido una experiencia aleccionadora."
-image: /uploads/2021/images-alan-estrada-chumel-torres-alex.jpeg
-video: nil
-audio: nil
-alt: Alan Estrada, Chumel Torres y Alex Fernández celebran 100 representaciones de Agotados
+image: "/uploads/2021/images-alan-estrada-chumel-torres-alex.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Alan Estrada, Chumel Torres y Alex Fernández celebran 100 representaciones de Agotados"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187214
 ---
 
 Tras la pandemia, el teatro también ha sido una de las industrias más golpeadas en todos los sentidos y que una obra llegue a 100 representaciones es un gran éxito, "Agotados" lo logró y esta noche lo celebra con sus talentos Chumel Torres, Alex Fernández y Alan Estrada, quienes están orgullosos por el resultado de todo el esfuerzo que hay detrás, dirigidos por Joserra Zúñiga. 

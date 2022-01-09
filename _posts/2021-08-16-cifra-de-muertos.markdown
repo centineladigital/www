@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En el lugar se declaró estado de emergencia; los rescatistas continúan trabajando, mientras el país recibe ayuda humanitaria"
-image: /uploads/2021/images-construccion-derrumbada-sismo-sucedido-haiti.jpeg
-video: nil
-audio: nil
-alt: Cifra de muertos tras terremoto en Haití sube a mil 419
+image: "/uploads/2021/images-construccion-derrumbada-sismo-sucedido-haiti.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Cifra de muertos tras terremoto en Haití sube a mil 419"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186750
 ---
 
 La cifra de muertos tras el terremoto de 7.2 que sacudió el sábado al suroeste de Haití aumentó a poco más de mil 400, mientras que se contabilizan 6 mil 900 heridos, de acuerdo con datos de Protección Civil del país. Asimismo, en cuestión de daños estructurales se han registrado más de 37 mil viviendas afectadas, detallan informes.

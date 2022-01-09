@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Una de las finalidades de presentar la iniciativa es con el objetivo de convocar al titular del Ejecutivo Estatal garantice a las y los habitantes de las comunidades con alto y muy alto grado de marginación "
-image: /uploads/2021/images-htrhtr.jpg
-video: nil
-audio: /uploads/2021/audio-AM01_ROCIO_SARMIENTO.mp3
-alt: Promueve Rocío Sarmiento energía eléctrica para comunidades altamente marginadas
+image: "/uploads/2021/images-htrhtr.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AM01_ROCIO_SARMIENTO.mp3"
+alt: "Promueve Rocío Sarmiento energía eléctrica para comunidades altamente marginadas"
 front: false
-section: Local
+section: "Local"
+news_id: 182453
 ---
 
 La diputada local de Movimiento Ciudadano, Roció Sarmiento Rufino, presentó iniciativa para exhortar a diversas autoridades estatales con la finalidad de solicitarles cumplir con el objeto de prestar el servicio público de distribución e instalación de energía eléctrica, a las viviendas y centros escolares de las comunidades rurales y zonas urbanas marginadas del Estado de Chihuahua. 

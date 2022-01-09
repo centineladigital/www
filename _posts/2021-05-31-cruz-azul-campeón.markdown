@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Máquina empató 1-1 en el Azteca y con global de 2-1 superó a Santos para levantar su noveno título de liga"
-image: /uploads/2021/images-2587184.jpg
-video: nil
-audio: nil
-alt: Cruz Azul campeón; La Máquina reencuentra su grandeza
+image: "/uploads/2021/images-2587184.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cruz Azul campeón; La Máquina reencuentra su grandeza"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 184743
 ---
 
 Las gradas del Estadio Azteca se llenaron de júbilo, llegó el momento que estaban esperando los aficionados de Cruz Azul, debido que después de 23 años el equipo cementero por fin levantó su noveno trofeo de campeón de liga y rompió con una larga lista de fracasos, tras imponerse en la final del Guardianes 2021 a la escuadra de Santos Laguna por marcador global de 2-1 haciendo explotar de felicidad al público congregado en el Coloso de Santa Úrsula.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La conductora fue comparada con 'La bruja del 71' en redes sociales por su fallida presentación musical en la que interpretó 'No me quiero bañar', de Tatiana. "
-image: /uploads/2021/images-laura-canta-quiero-banar-reality.jpg
-video: nil
-audio: nil
-alt: Laura G canta 'No me quiero bañar' en reality de 'VLA'; la comparan con Doña Clotilde
+image: "/uploads/2021/images-laura-canta-quiero-banar-reality.jpg"
+video: "nil"
+audio: "nil"
+alt: "Laura G canta 'No me quiero bañar' en reality de 'VLA'; la comparan con Doña Clotilde"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186111
 ---
 
 Laura G volvió a encabezar las críticas de los internautas tras su presentación en vivo durante el reality de canto de Venga la Alegría. La conductora de TV Azteca volvió a los escenarios para interpretar una popular canción de Tatiana que revivió en TikTok durante la pandemia; sin embargo, la actuación de la famosa no logró convencer al público y los memes no se hicieron esperar.  

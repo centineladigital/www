@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Acreditadas cuatro muertes por la enfermedad."
-image: /uploads/2021/images-diapositiva3-341.jpg
-video: nil
-audio: /uploads/2021/audio-ML01_ARTURO_VALENZUELA.mp3
-alt: Inicia semana con sólo 23 casos COVID
+image: "/uploads/2021/images-diapositiva3-341.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML01_ARTURO_VALENZUELA.mp3"
+alt: "Inicia semana con sólo 23 casos COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 184501
 ---
 
 Con 23 nuevos casos y la acreditación de 4 defunciones es como inició la semana la actualización de casos de coronavirus, con lo que se llega a 67 mil 132 pacientes que dieron positivo a la prueba PCR, así como seis mil 893 personas han perdido la vida desde el inicio de la pandemia.

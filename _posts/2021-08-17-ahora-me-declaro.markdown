@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En su mensaje final desde Ciudad Juárez, pide al Pueblo de Chihuahua que no se conforme con menos y no permita que regrese la corrupción, en cualquier nivel de gobierno o institución"
-image: /uploads/2021/images-DSC_5641.JPG
-video: nil
-audio: nil
-alt: Ahora me declaro libre de rencores y resabios -  Javier Corral
+image: "/uploads/2021/images-DSC_5641.JPG"
+video: "nil"
+audio: "nil"
+alt: "Ahora me declaro libre de rencores y resabios -  Javier Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 186761
 ---
 
 En su mensaje final del Quinto Informe que presentó en Ciudad Juárez, el gobernador Javier Corral destacó que al final de su Administración se declara libre de rencores y resabios que le impidan la honda satisfacción de desear lo mejor para su tierra y su gente.

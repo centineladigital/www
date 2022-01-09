@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La titular de la Segob, Olga Sánchez Cordero, espera la pronta recuperación del presidente; destaca videomensaje del mandatario, de quien afirmó ‘avanza en su recuperación’"
-image: /uploads/2021/images-2521708.jpg
-video: nil
-audio: nil
-alt: Esperan que López Obrador retome el lunes las ‘mañaneras’
+image: "/uploads/2021/images-2521708.jpg"
+video: "nil"
+audio: "nil"
+alt: "Esperan que López Obrador retome el lunes las ‘mañaneras’"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182594
 ---
 
 La secretaria de Gobernación, Olga Sánchez Cordero, confió que el próximo lunes el presidente Andrés Manuel López Obrador se incorpore a sus tradicionales conferencias mañaneras, una vez que se recupere plenamente del Covid-19 que padeció.

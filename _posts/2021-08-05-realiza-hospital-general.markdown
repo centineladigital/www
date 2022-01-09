@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se brinda asesoría a las pacientes para que conozcan sobre las técnicas de lactancia materna   "
-image: /uploads/2021/images-SMLM_Hospital_General_Chihuahua_2.jpg
-video: nil
-audio: nil
-alt: Realiza Hospital General de Chihuahua pláticas y actividades para promover la lactancia materna
+image: "/uploads/2021/images-SMLM_Hospital_General_Chihuahua_2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Realiza Hospital General de Chihuahua pláticas y actividades para promover la lactancia materna"
 front: false
-section: Local
+section: "Local"
+news_id: 186366
 ---
 
 En el marco de la Semana Mundial de Lactancia Materna, el Hospital General Salvador Zubirán Anchondo lleva a cabo distintas actividades y sesiones informativas acerca de los beneficios, cuidados e importancia de esta práctica, enfocadas para las futuras madres y las mujeres que están en período de amamantar.

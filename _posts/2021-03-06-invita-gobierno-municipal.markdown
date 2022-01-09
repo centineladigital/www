@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El programa de Destilichadero visitará cuatro colonias la próxima semana"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Invita Gobierno Municipal a eliminar tiliches de las viviendas con Destilichadero
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Invita Gobierno Municipal a eliminar tiliches de las viviendas con Destilichadero"
 front: false
-section: Local
+section: "Local"
+news_id: 183322
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos apoya a los chihuahuenses con el programa Destilichadero, el cual sigue prestando sus servicios cada semana, en las distintas colonias de la ciudad.

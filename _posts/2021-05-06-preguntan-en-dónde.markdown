@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz adoptó a Alejandro y Ana Sofía -entre 2008 y 2009- a través del DIF. Como muestra de amor por ellos, Laura Flores está dispuesta a buscar a los padres biológicos, pues ahora que pasan por la adolescencia y preguntan sobre el tema. "
-image: /uploads/2021/images-laura-flores-conto-lo-que.jpg
-video: nil
-audio: nil
-alt: Preguntan en dónde están -  Laura Flores busca a los papás biológicos de sus hijos adoptivos
+image: "/uploads/2021/images-laura-flores-conto-lo-que.jpg"
+video: "nil"
+audio: "nil"
+alt: "Preguntan en dónde están -  Laura Flores busca a los papás biológicos de sus hijos adoptivos"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184310
 ---
 
 Laura Flores, famosa actriz, sorprendió a sus seguidores al revelar que está dispuesta a encontrar a los padres biológicos de sus dos hijos adoptivos. Esto debido a que los pequeños preguntan mucho por ellos. Quiere que sus hijos encuentren la paz que necesitan ante dichas dudas. ¿Ya ha emprendido su búsqueda? ¿Qué piensa hacer para encontrarlos?  La actriz adoptó a Alejandro y Ana Sofía -entre 2008 y 2009- a través del DIF. Como muestra de amor por ellos, la famosa está dispuesta a buscar a los padres biológicos, pues ahora que pasan por la adolescencia le preguntan en dónde están sus progenitores.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Te contamos lo que dijo Sabo Romo sobre su salud; el bajista de Caifanes externó cómo se encuentra tras el ataque que vivió el año pasado por un hombre. "
-image: /uploads/2021/images-sabo-romo-revela-perdio-vista_23_21_1110_691.jpg
-video: nil
-audio: nil
-alt: Estoy vivo -  Sabo Romo revela que perdió la vista de un ojo tras ataque de transeúnte
+image: "/uploads/2021/images-sabo-romo-revela-perdio-vista_23_21_1110_691.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estoy vivo -  Sabo Romo revela que perdió la vista de un ojo tras ataque de transeúnte"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186078
 ---
 
 Sabo Romo, bajista de Caifanes, contó que perdió la vista del ojo izquierdo, luego de que el año pasado viviera un ataque por parte de un transeúnte que fue detenido por tentativa de homicidio calificado. Y es que el músico emprendió su lucha por recuperar su salud y a la par el proceso legal para obtener justicia.  

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hubo en la semana epidemiológica #1 del 2021, 69 fallecimientos y 537 contagios; desde el inicio de la pandemia se acumulan 48 mil 838 casos y 4 mil 570 decesos en el estado"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Registra Salud 139 nuevos enfermos y 20 defunciones por COVID-19 en las últimas 24 horas
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Registra Salud 139 nuevos enfermos y 20 defunciones por COVID-19 en las últimas 24 horas"
 front: false
-section: Local
+section: "Local"
+news_id: 182365
 ---
 
 Los registros de contagios y defunciones por COVID-19 mostraron un ligero aumento en la semana epidemiológica #1 del 2021 al confirmar 69 decesos y 537 nuevos casos, por lo que las autoridades de Salud insistieron en la importancia de que la población respete las medidas de higiene y sana distancia establecidas para evitar posibles repuntes de la enfermedad en la entidad.

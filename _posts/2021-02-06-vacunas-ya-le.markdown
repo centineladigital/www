@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A un año del surgimiento del virus, al menos una decena de biológicos se comercializan y aplican en todo el mundo; decenas más están en desarrollo"
-image: /uploads/2021/images-2524760.jpg
-video: nil
-audio: nil
-alt: Vacunas ya le sacan ventaja al SARS-CoV-2; combate a covid-19 avanza en tiempo récord
+image: "/uploads/2021/images-2524760.jpg"
+video: "nil"
+audio: "nil"
+alt: "Vacunas ya le sacan ventaja al SARS-CoV-2; combate a covid-19 avanza en tiempo récord"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182754
 ---
 
 Los ensayos de las vacunas contra el coronavirus avanzan en tiempo récord en todo el mundo.

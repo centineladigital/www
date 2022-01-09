@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Eiza González sigue dando de que hablar, ahora han surgido rumores que muy pronto la actriz podría llegar al altar con su novio Paul Rabil. "
-image: /uploads/2021/images-paul_y_eiza.jpg
-video: nil
-audio: nil
-alt: ¿Dará el sí? Aseguran que Eiza González se casará con su novio Paul Rabil
+image: "/uploads/2021/images-paul_y_eiza.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Dará el sí? Aseguran que Eiza González se casará con su novio Paul Rabil"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187306
 ---
 
 En los últimos meses Eiza González ha cosechado éxito no sólo en el cine, sino que también que se ha convertido en la imagen para la marca Bvlgari y de Louis Vuitton, pero además, hace poco sorprendió al ser captada con su nuevo novio Paul Rabil. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Lety Calderón acudió ya recibió la primera dosis de la vacuna anticovid, sin embargo, tuvo varias reacciones. "
-image: /uploads/2021/images-lety-calderon-tuvo-nauseas-y.jpg
-video: nil
-audio: nil
-alt: Tenía miedo por la taquicardia -  Lety Calderón tuvo varias reacciones por la vacuna anticovid
+image: "/uploads/2021/images-lety-calderon-tuvo-nauseas-y.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tenía miedo por la taquicardia -  Lety Calderón tuvo varias reacciones por la vacuna anticovid"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184720
 ---
 
 En México se está llevando a cabo la vacunación para que por ahora, las personas de 50 a 59 años, reciban la vacuna anticovid, es por eso que Lety Calderón publicó hace unos días un video en Instagram en donde le informó a sus seguidores que ya recibió la primera dosis de dicha vacuna, sin embargo, tuvo varias reacciones. 

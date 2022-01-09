@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Jolette salió en defensa de Cynthia Rodríguez tras la acusación de Toñita sobre presuntamente frenar su carrera en TV Azteca; así demostró su apoyo. "
-image: /uploads/2021/images-jolette-sale-defensa-cynthia-rodriguez.jpg
-video: nil
-audio: nil
-alt: No fue por ella -  Jolette defiende a Cynthia Rodríguez de Toñita tras acusación sobre TV Azteca
+image: "/uploads/2021/images-jolette-sale-defensa-cynthia-rodriguez.jpg"
+video: "nil"
+audio: "nil"
+alt: "No fue por ella -  Jolette defiende a Cynthia Rodríguez de Toñita tras acusación sobre TV Azteca"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182696
 ---
 
 Tras la polémica que envuelve a Cynthia Rodríguez por las acusaciones de Toñita, quien la señaló como la culpable de frenar su carrera en TV Azteca, otra de las ex integrantes de La Academia rompió el silencio, pues fue involucrada en este conflicto: Jolette. Y es que la famosa en el pasado insinuó que la actual conductora de Venga la Alegría sostenía una relación con un alto ejecutivo de Azteca. ¿Por qué se expresó mal de Cynthia Rodríguez? ¿Jolette se lleva mal con Cynthia Rodríguez? ¿Toñita dijo la verdad? Te contamos lo que expresó la ex académica. 

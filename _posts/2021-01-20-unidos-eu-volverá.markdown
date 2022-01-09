@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente Joe Biden hace un llamado a la unidad para que EU 'sea una vez más la fuerza principal del mundo', y promete servir a todos los ciudadanos por igual"
-image: /uploads/2021/images-2515218.jpg
-video: nil
-audio: nil
-alt: Unidos, EU volverá a ser la fuerza principal del mundo -  Biden
+image: "/uploads/2021/images-2515218.jpg"
+video: "nil"
+audio: "nil"
+alt: "Unidos, EU volverá a ser la fuerza principal del mundo -  Biden"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182293
 ---
 
 En su primer discurso como presidente, Joe Biden hizo un llamado a la unidad para que Estados Unidos “sea una vez más la fuerza principal del mundo”.

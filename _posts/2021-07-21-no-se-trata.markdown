@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Además, pidió no ser tan egocentrista, olvídate de los ridículos videos de conspiración que ves en YouTube. "
-image: /uploads/2021/images-ricky-martin-instagram-2.jpg
-video: nil
-audio: nil
-alt: No se trata de ti, se trata de todos -  Ricky Martin pide vacunarse contra el covid-19
+image: "/uploads/2021/images-ricky-martin-instagram-2.jpg"
+video: "nil"
+audio: "nil"
+alt: "No se trata de ti, se trata de todos -  Ricky Martin pide vacunarse contra el covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185862
 ---
 
 Ricky Martin ha estado muy activo en redes sociales en un ámbito social, pues tras el mensaje que compartió hace algunas semanas pidiendo respeto para la comunidad LGBT+, este martes se pronunció a favor de la vacuna contra el covid-19. 

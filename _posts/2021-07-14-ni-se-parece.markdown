@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La famosa conductora aparece en la revista 'Vanidades' en un especial por su cumpleaños numero 50. "
-image: /uploads/2021/images-andrea-legarreta-reacciono-rumores-torno.jpg
-video: nil
-audio: nil
-alt: Ni se parece -  Critícan portada de revista donde aparece Andrea Legarreta y la señalan por pasarse de Photoshop
+image: "/uploads/2021/images-andrea-legarreta-reacciono-rumores-torno.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ni se parece -  Critícan portada de revista donde aparece Andrea Legarreta y la señalan por pasarse de Photoshop"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185651
 ---
 
 Andrea Legarreta es una de las personalidades del mundo del espectáculo más populares en nuestro país, y esto se debe a su gran carrera en el mundo de la actuación, pero especialmente a los años que lleva como conductora principal del programa Hoy. Por tal motivo no es raro que sea centro de polémicas entre sus fans.

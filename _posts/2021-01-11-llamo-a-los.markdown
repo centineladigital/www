@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente urge a la población a aplicarse las dosis en el momento en el que le corresponda a cada uno; afirma que dosis crean defensas ante nuevas cepas de SARS-CoV-2, indica"
-image: /uploads/2021/images-2509751.jpg
-video: nil
-audio: nil
-alt: ‘Llamo a los mexicanos a vacunarse contra Covid’ -  López Obrador
+image: "/uploads/2021/images-2509751.jpg"
+video: "nil"
+audio: "nil"
+alt: "‘Llamo a los mexicanos a vacunarse contra Covid’ -  López Obrador"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182015
 ---
 
 Para enfrentar la crisis sanitaria por Covid-19, el presidente Andrés Manuel López Obrador llamó a los mexicanos a vacunarse contra esta enfermedad y a respetar las fechas en las que se les asignará el medicamento.

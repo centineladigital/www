@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ben Affleck trabajará junto a Disney y dirigirá la primera entrega de la saga 'Keeper of the Lost Cities', basada en los libros escritos por Shannon Messenger. "
-image: /uploads/2021/images-disney-eligio-actor-dirigir-pelicula_(1).jpg
-video: nil
-audio: nil
-alt: ¡Trabajará con Disney! Ben Affleck dirigirá primera entrega de saga 'Keeper of the Lost Cities'
+image: "/uploads/2021/images-disney-eligio-actor-dirigir-pelicula_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Trabajará con Disney! Ben Affleck dirigirá primera entrega de saga 'Keeper of the Lost Cities'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182069
 ---
 
 Ben Affleck, quien hace un tiempo interpretó a Batman y que además de destacar como actor también lo hace como director, ahora se ha unido a Disney para trabajar y dirigir la primera entrega de la saga Keeper of the Lost Cities, la cual está basada en los libros escritos por Shannon Messenger. El actor y su productora Pearl Street Films, son los elegidos por Disney para hacerse cargo de la adaptación cinematográfica de Keeper of the Lost Cities, la saga de fantasía basada en los libros de Shannon Messenger, este trabajo se suma a la ajetreada agenda como director de Ben Affleck. 

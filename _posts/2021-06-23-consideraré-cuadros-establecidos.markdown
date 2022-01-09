@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Revisarán perfiles de funcionarios."
-image: /uploads/2021/images-MARCO.jpg
-video: nil
-audio: /uploads/2021/audio-MW05_.mp3
-alt: Consideraré cuadros establecidos -  Bonilla
+image: "/uploads/2021/images-MARCO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW05_.mp3"
+alt: "Consideraré cuadros establecidos -  Bonilla"
 front: false
-section: Local
+section: "Local"
+news_id: 185210
 ---
 
 Al ser cuestionado si considera que integrantes del gabinete continúen dentro de su cargo en la próxima administración, el Alcalde electo Marco Antonio Bonilla Mendoza, no descartó considerar lo que llamó “cuadros establecidos”.

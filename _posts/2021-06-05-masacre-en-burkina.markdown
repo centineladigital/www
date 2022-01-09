@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hombres armados asesinan a un centenar de civiles en un ataque nocturno a una aldea del norte de Burkina Faso, en el ataque más mortífero en el país en los últimos años"
-image: /uploads/2021/images-2589853.jpg
-video: nil
-audio: nil
-alt: Masacre en Burkina Faso deja al menos 100 muertos
+image: "/uploads/2021/images-2589853.jpg"
+video: "nil"
+audio: "nil"
+alt: "Masacre en Burkina Faso deja al menos 100 muertos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184855
 ---
 
 Asaltantes armados mataron a un centenar de civiles en un ataque nocturno a una aldea del norte de Burkina Faso, dijo el gobierno este sábado, mientras la región se enfrenta a una ola de violencia yihadista que se agrava.

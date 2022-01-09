@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En los últimos meses, Ana había estado pasando más tiempo con Affleck y sus hijos, nacidos de su matrimonio con la también actriz Jennifer Garner. "
-image: /uploads/2021/images-la-pareja-estuvo-junta-en.jpg
-video: nil
-audio: nil
-alt: Su relación era complicada -  Reportan que Ben Affleck y Ana de Armas terminaron su romance
+image: "/uploads/2021/images-la-pareja-estuvo-junta-en.jpg"
+video: "nil"
+audio: "nil"
+alt: "Su relación era complicada -  Reportan que Ben Affleck y Ana de Armas terminaron su romance"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182240
 ---
 
 Ben Affleck ha dado mucho de qué hablar recientemente, pues luego de que hace unos días reveló detalles de la relación que tuvo con Jennifer Lopez del 2001 al 2004, este lunes varias fuentes cercanas al famoso reportaron que se separó de Ana de Armas tras casi un año de relación.

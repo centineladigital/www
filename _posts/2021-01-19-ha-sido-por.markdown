@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Galilea Montijo gana millones de pesos? ¿Es millonaria gracia a su sueldo en 'Hoy' de Televisa? La conductora rompe el silencio y aclara los rumores sobre su salario. Además defiende a su esposo tras acusación de abuso de poder. "
-image: /uploads/2021/images-millonaria-galilea-montijo-aclara-gana.jpg
-video: nil
-audio: nil
-alt: Ha sido por mi trabajo -  Galilea Montijo aclara si gana sueldo millonario en 'Hoy' de Televisa
+image: "/uploads/2021/images-millonaria-galilea-montijo-aclara-gana.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ha sido por mi trabajo -  Galilea Montijo aclara si gana sueldo millonario en 'Hoy' de Televisa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182248
 ---
 
 Galilea Montijo, conductora del programa Hoy, en repetidas ocasiones se ha visto envuelta en dimes y diretes. Esta vez, la presentadora de Televisa fue catalogada como una de las mejor pagadas por la empresa con cifras completamente exorbitantes. ¿Galilea Montijo es millonaria? Además fue cuestionada sobre la acusación que su marido enfrenta sobre presunto abuso de poder. 

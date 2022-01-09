@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Indica Protección Civil que serán de moderadas con intervalos de chubascos a puntuales fuertes"
-image: /uploads/2021/images-unnamed_(3).jpg
-video: nil
-audio: nil
-alt: Tendrán Ignacio Zaragoza y Temósachic  las lluvias más fuertes este sábado
+image: "/uploads/2021/images-unnamed_(3).jpg"
+video: "nil"
+audio: "nil"
+alt: "Tendrán Ignacio Zaragoza y Temósachic  las lluvias más fuertes este sábado"
 front: false
-section: Local
+section: "Local"
+news_id: 186712
 ---
 
 Para este sábado 14 de agosto un canal de baja presión en interacción con una divergencia en altura y el ingreso de humedad procedente del Océano Pacífico favorecerá ambiente de fresco a templado por la mañana y de cálido a caluroso por la tarde.

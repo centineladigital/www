@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante un encuentro con varios medios de comunicación, la cubana habló del nuevo romance de su ex pareja con una actriz casi 40 años menor que él. "
-image: /uploads/2021/images-la-cubana-hablo-sobre-su.jpg
-video: nil
-audio: nil
-alt: Ella le da frescura -  Niurka apoya el noviazgo de Juan Osorio con Eva Daniela
+image: "/uploads/2021/images-la-cubana-hablo-sobre-su.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ella le da frescura -  Niurka apoya el noviazgo de Juan Osorio con Eva Daniela"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185698
 ---
 
 La nueva relación amorosa de Juan Osorio con Eva Daniela ha generado mucho polémica, pues el productor le lleva casi 40 años a la joven actriz, con quien trabajó en la telenovela ¿Qué le pasa a mi familia?, donde también actuó Emilio Osorio. 

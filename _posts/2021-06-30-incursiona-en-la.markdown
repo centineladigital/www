@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "The Weeknd confirmó la noticia a través de Instagram. El cantante no sólo actuará en la serie, también está realizando el guión. "
-image: /uploads/2021/images-serie-participara-titulo-the-idol.jpg
-video: nil
-audio: nil
-alt: ¡Incursiona en la TV! The Weeknd protagonizará serie de HBO
+image: "/uploads/2021/images-serie-participara-titulo-the-idol.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Incursiona en la TV! The Weeknd protagonizará serie de HBO"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185310
 ---
 
 The Weeknd es un cantante muy versátil, su estilo musical lo ha llevado a alcanzar los primeros lugares en las listas de popularidad y ahora el originario de Canadá dará otro giro a su carrera ya que protagonizará una serie que será transmitida por HBO. Además de actuar, el intérprete de “Blinding Lights” también está detrás de la producción, 

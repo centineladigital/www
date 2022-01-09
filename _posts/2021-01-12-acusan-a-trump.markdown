@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "El actual presidente de EU será el primer gobernante en enfrentar dos juicios políticos"
-image: /uploads/2021/images-2510208.jpg
-video: nil
-audio: nil
-alt: Acusan a Trump por incitar a la rebelión; primer paso del impeachment
+image: "/uploads/2021/images-2510208.jpg"
+video: "nil"
+audio: "nil"
+alt: "Acusan a Trump por incitar a la rebelión; primer paso del impeachment"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182054
 ---
 
 A nueve días de que deje la presidencia de Estados Unidos, los demócratas del Congreso acusaron al presidente Donald Trump de incitación a la insurrección.

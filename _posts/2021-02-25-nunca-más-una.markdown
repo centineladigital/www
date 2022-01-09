@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Molesta, chicos, porque les dije que les daba la entrevista una vez y están persiguiendo, y molesta, o sea, no respetan nada, pesados, externó el actor, visiblemente enojado. "
-image: /uploads/2021/images-el-actor-no-tolero-los.jpg
-video: nil
-audio: nil
-alt: Nunca más una entrevista -  Horacio Pancheri 'explota' contra reporteros en aeropuerto
+image: "/uploads/2021/images-el-actor-no-tolero-los.jpg"
+video: "nil"
+audio: "nil"
+alt: "Nunca más una entrevista -  Horacio Pancheri 'explota' contra reporteros en aeropuerto"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183158
 ---
 
 Como ya le ocurrió en diversas ocasiones a su colega Eduardo Yáñez, el actor argentino Horacio Pancheri , quien recientemente participó en la telenovela La Mexicana y El Güero, 'explotó' en el aeropuerto contra varios reporteros que lo cuestionaron sobre su nueva relación y su ex pareja, Marimar Vega. Este momento fue captado por los integrantes de la prensa, que encontraron al actor a la salida del recinto aeroportuario junto a su nueva novia. Pero Horacio no tomó de buena manera que lo persiguieran.

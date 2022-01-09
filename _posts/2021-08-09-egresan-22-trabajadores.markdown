@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Concluye la quinta generación del programa Formare en la que participaron 23 estudiantes de preparatoria"
-image: /uploads/2021/images-g3.jpeg
-video: nil
-audio: nil
-alt: Egresan 22 trabajadores de la empresa Maxion Wheels de diversos niveles educativos   
+image: "/uploads/2021/images-g3.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Egresan 22 trabajadores de la empresa Maxion Wheels de diversos niveles educativos   "
 front: false
-section: Local
+section: "Local"
+news_id: 186469
 ---
 
 Como parte de la estrategia de vinculación con el sector empresarial que impulsa y promueve la Secretaría de Educación y Deporte de Gobierno del Estado, un total de 22 trabajadoras y trabajadores de la empresa Maxion Wheels finalizaron sus estudios en diversos niveles académicos.

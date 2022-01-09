@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Es curiosa la reacción de la gente porque, aunque llevo tapabocas, se me quedan viendo: '¿Tú eres el actor?', reveló el famoso. "
-image: /uploads/2021/images-hector-parra-instagram.jpg
-video: nil
-audio: nil
-alt: Lo hago con mucho gusto -  Héctor Parra reparte tamales ante crisis económica por la pandemia
+image: "/uploads/2021/images-hector-parra-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lo hago con mucho gusto -  Héctor Parra reparte tamales ante crisis económica por la pandemia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182650
 ---
 
 La crisis económica debido a la pandemia de covid-19 ha afectado gravemente a las celebridades nacionales, al grado que varias han tenido que ejercer trabajos alejados de los reflectores para seguir generando dinero.  

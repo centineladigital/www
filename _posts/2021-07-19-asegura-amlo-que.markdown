@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El presidente López Obrador recordó que su gobierno ya no espía, no reprime y no combate a sus opositores"
-image: /uploads/2021/images-amlo.jpg
-video: nil
-audio: nil
-alt: Asegura AMLO que su gobierno ya no espía a periodistas
+image: "/uploads/2021/images-amlo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Asegura AMLO que su gobierno ya no espía a periodistas"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185776
 ---
 
 Ante el reclamo de casos de periodistas desaparecidos y desplazados en Guerrero, el presidente Andrés Manuel López Obrador dijo su gobierno brindará protección a todos, en especialmente los que se dedican al periodismo de denuncia. 

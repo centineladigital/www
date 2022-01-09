@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La hija de Alejandro Fernández, Camila, confirmó que está embarazada y que muy pronto le dará la bienvenida a su primogénito. "
-image: /uploads/2021/images-camila-fernandez-caso-francisco-barba.jpg
-video: nil
-audio: nil
-alt: ¡'El Potrillo' será abuelo! Camila Fernández confirma que está embarazada
+image: "/uploads/2021/images-camila-fernandez-caso-francisco-barba.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡'El Potrillo' será abuelo! Camila Fernández confirma que está embarazada"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182693
 ---
 
 La familia Fernández ha estado envuelta en la polémica, sobre todo después de que Vicente Fernández fuera acusado de abuso por una joven, sin embargo, no todas son malas noticias para la dinastía, ya que Camila Fernández, la hija de El Potrillo confirmó que está embarazada. 

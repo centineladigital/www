@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "‘Es un dineral el que estamos gastando, yo no sé el precio oficial del oxígeno, pero notamos que en unos lugares nos cobran 150 en otros 200’ dijo el familiar de un enfermo de covid"
-image: /uploads/2021/images-2506617.jpg
-video: nil
-audio: nil
-alt: Más de mil pesos gastan al día por llenado de tanques de oxígeno
+image: "/uploads/2021/images-2506617.jpg"
+video: "nil"
+audio: "nil"
+alt: "Más de mil pesos gastan al día por llenado de tanques de oxígeno"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 181885
 ---
 
 Familiares de pacientes con problemas respiratorios principalmente generados por la enfermedad covid-19 tiene que regresar a reabastecer oxígeno hasta 5 o 6 veces al día.  

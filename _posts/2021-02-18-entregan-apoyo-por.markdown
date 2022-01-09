@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Entregarán 13 toneladas de frijol y maíz."
-image: /uploads/2021/images-RAMON.jpg
-video: nil
-audio: /uploads/2021/audio-MJ02_RAMON_GALINDO.mp3
-alt: Entregan apoyo por contingencia en tres municipios
+image: "/uploads/2021/images-RAMON.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ02_RAMON_GALINDO.mp3"
+alt: "Entregan apoyo por contingencia en tres municipios"
 front: false
-section: Local
+section: "Local"
+news_id: 183023
 ---
 
 Frijol a granel, maíz y atún son los tres productos que se distribuirán en tres municipios del estado según lo dio a conocer el titular de la Secretaría de Desarrollo Social, Ramón Galindo Noriega. Esto por la contingencia que se vive por el descenso de temperaturas.

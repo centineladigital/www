@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El director general del IMSS señaló que ya se estableció contacto directo con los deudos de la persona que perdió la vida a las puertas del hospital"
-image: /uploads/2021/images-2523200.jpg
-video: nil
-audio: nil
-alt: Muerte de persona afuera de hospital no fue por saturación -  Robledo
+image: "/uploads/2021/images-2523200.jpg"
+video: "nil"
+audio: "nil"
+alt: "Muerte de persona afuera de hospital no fue por saturación -  Robledo"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182679
 ---
 
 Luego del video que circula en redes sociales, donde se observa el cuerpo de un hombre que falleció -sin recibir atención médica-, afuera de la puerta de acceso de la  Unidad Médica de Alta Especialidad de Traumatología, Ortopedia y Rehabilitación "Dr. Victorio de la Fuente Narváez" del Instituto Mexicano del Seguro Social,  Zoé Robledo, director general del IMSS, señaló que el suceso no es resultado de una saturación de los hospitales.

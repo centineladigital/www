@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: ""
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Invita Municipio a pláticas sobre la accesibilidad como derecho para personas con discapacidad
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Invita Municipio a pláticas sobre la accesibilidad como derecho para personas con discapacidad"
 front: false
-section: Local
+section: "Local"
+news_id: 186286
 ---
 
 Dentro de las acciones del Gobierno Municipal para mejorar la calidad de vida de las y los chihuahuenses invita a participar en tres pláticas que darán expertos acerca de la accesibilidad como derecho humano de las personas con discapacidad.

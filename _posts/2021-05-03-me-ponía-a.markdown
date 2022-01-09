@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz contó que la tensión en el set e imposiciones de Stanley Kubrick le llevaron a tener ataques de pánico y pérdida de cabello. "
-image: /uploads/2021/images-shelley-duvall-actriz-de-el_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Me ponía a llorar -  Shelley Duvall revela que quedó traumatizada tras filmar 'El resplandor'
+image: "/uploads/2021/images-shelley-duvall-actriz-de-el_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me ponía a llorar -  Shelley Duvall revela que quedó traumatizada tras filmar 'El resplandor'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184237
 ---
 
 El resplandor es una de las películas de terror psicológico más importantes de las últimas décadas. Basada en la novela del mismo nombre de Stephen King, la cinta se ganó un papel clave en la historia del cine por sus aportaciones, la actuación estelar de Jack Nicholson y el impacto que tuvo en la audiencia; sin embargo, no todo marchó bien para los actores del filme, en especial para Shelley Duvall.  La actriz estadunidense se unió al elenco de El resplandor en donde interpretó a Wendy Torrance, la esposa del perturbado escritor Jack. Lo que pocos saben es que Shelley Duvall vivió un martirio durante la filmación, debido a la presión y las exigencias del director Stanley Kubrick, así lo reveló la ex actriz en una entrevista para el programa Dr. Phil y el medio The Hollywood Reporter. 

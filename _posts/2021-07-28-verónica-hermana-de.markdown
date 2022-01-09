@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Verónica del Castillo dio a conocer que acudió a una marcha en donde varias personas expresaron que no creen en la pandemia y tampoco en la vacuna anticovid. "
-image: /uploads/2021/images-hija-eric-castillo-cubrio-evento_1_0_1045_650.jpg
-video: nil
-audio: nil
-alt: Verónica, hermana de Kate del Castillo, acude a marcha contra vacuna anticovid
+image: "/uploads/2021/images-hija-eric-castillo-cubrio-evento_1_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "Verónica, hermana de Kate del Castillo, acude a marcha contra vacuna anticovid"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186069
 ---
 
 En los últimos años la familia de Eric del Castillo ha estado envuelta en la polémica y ahora, su hija mayor, Verónica, llamó la atención al asistir a una marcha que fue organizada por personas que no creen en la pandemia y están en contra de la vacuna anticovid. La periodista contó qué es lo que vivió en este evento. 

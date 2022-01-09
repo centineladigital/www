@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "En total han asesinado a 84 litigantes en el territorio estatal."
-image: /uploads/2021/images-CASTREJON.jpg
-video: /uploads/2021/videos-MW05_OSCAR_CASTREJON.mp4
-audio: nil
-alt: Menos del 4 por ciento de homicidios de abogados esclarecidos -  Castrejón
+image: "/uploads/2021/images-CASTREJON.jpg"
+video: "/uploads/2021/videos-MW05_OSCAR_CASTREJON.mp4"
+audio: "nil"
+alt: "Menos del 4 por ciento de homicidios de abogados esclarecidos -  Castrejón"
 front: false
-section: Local
+section: "Local"
+news_id: 185671
 ---
 
 Solamente el tres punto seis por ciento de los homicidios de abogados han sido esclarecidos, señaló Oscar Castrejón, abogado e integrante de Morena, destacando que lamentablemente no se llevan a cabo avances en los 84 casos de litigantes que han sido asesinados.

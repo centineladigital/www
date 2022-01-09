@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los comerciantes que manejan precederos buscan alternativas para rescatar sus productos debido a la falta de clientes"
-image: /uploads/2021/images-Comercios_Centro.jpg
-video: nil
-audio: nil
-alt: Pega severamente mega apagón a negocios del Centro
+image: "/uploads/2021/images-Comercios_Centro.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pega severamente mega apagón a negocios del Centro"
 front: false
-section: Local
+section: "Local"
+news_id: 182925
 ---
 
 “En torno a las afectaciones que hemos sufrido hasta el momento por el mega apagón, habrá de imaginar considerando que la mayoría o el cien por ciento de los necios están sin luz”, indicó Ricardo Perea, presidente de la Asociación de Comerciantes del Centro.

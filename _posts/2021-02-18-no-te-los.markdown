@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pese a la pandemia de covid-19, una larga lista de artistas subirán al escenario de los Premios Lo Nuestro para deleitar a sus fans con la interpretación de sus éxitos. "
-image: /uploads/2021/images-premios-lo-nuestro_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¡No te los puedes perder! Estos artistas cantarán en los Premios Lo Nuestro 2021
+image: "/uploads/2021/images-premios-lo-nuestro_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡No te los puedes perder! Estos artistas cantarán en los Premios Lo Nuestro 2021"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183012
 ---
 
 Los Premios lo Nuestro ofrecerán una noche de sorpresas, baile y mucha música. Esta edición 2021 no contará con público debido a la pandemia de covid-19, pero ofrecerá presentaciones en vivo de artistas de talla internacional. Si bien, la ceremonia debe cumplir con las medidas sanitarias, los organizadores ya anunciaron que más de 15 cantantes subirán al escenario. 

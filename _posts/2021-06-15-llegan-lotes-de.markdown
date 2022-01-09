@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El primer lote con un millón 350 mil dosis arribó al aeropuerto de Toluca; el segundo lote con dosis de Pfizer-Biontech llegó al AICM"
-image: /uploads/2021/images-2595314.jpg
-video: nil
-audio: nil
-alt: Llegan lotes de vacunas contra covid de Johnson & Johnson y Pfizer
+image: "/uploads/2021/images-2595314.jpg"
+video: "nil"
+audio: "nil"
+alt: "Llegan lotes de vacunas contra covid de Johnson & Johnson y Pfizer"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185029
 ---
 
 Esta mañana a las 6:52 am arribó el primer embarque de vacunas Johnson & Johnson contra Covid-19 a México, un millón 350 mil dosis al aeropuerto de Toluca, Estado de México.

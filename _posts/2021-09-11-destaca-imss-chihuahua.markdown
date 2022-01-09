@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Son una práctica de solidaridad y una capacidad de respuesta ante emergencias cotidianas"
-image: /uploads/2021/images-Foto_4293-1.jpg
-video: nil
-audio: nil
-alt: Destaca IMSS Chihuahua la importancia de los primeros auxilios 
+image: "/uploads/2021/images-Foto_4293-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Destaca IMSS Chihuahua la importancia de los primeros auxilios "
 front: false
-section: Local
+section: "Local"
+news_id: 187654
 ---
 
 En el marco del Día Internacional de los Primeros Auxilios, a celebrarse este 12 de septiembre, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua destaca la importancia de tener los conocimientos básicos para atender una situación de emergencia.

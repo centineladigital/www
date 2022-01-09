@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Este martes se vio trabajando a los empleados del cine, quienes confirmaron que se reanudarían las exhibiciones de películas"
-image: /uploads/2021/images-cine.jpg
-video: nil
-audio: nil
-alt: Reabrirá Cinemex salas en Delicias
+image: "/uploads/2021/images-cine.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reabrirá Cinemex salas en Delicias"
 front: false
-section: Local
+section: "Local"
+news_id: 185216
 ---
 
 Después de cuatro meses de permanecer cerradas al público, este miércoles serán reabiertas las salas de Cinemex en el centro comercial Oasis con el estreno de la película "Rápidos y furiosos 9".

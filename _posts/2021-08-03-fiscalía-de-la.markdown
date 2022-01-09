@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se aseguró una osamenta femenina y una masculina, así como diversos fragmentos óseos"
-image: /uploads/2021/images-Operativo_FEM_(1).jpeg
-video: nil
-audio: nil
-alt: Fiscalía de la Mujer asegura osamentas y restos óseos en Valle de Juárez
+image: "/uploads/2021/images-Operativo_FEM_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Fiscalía de la Mujer asegura osamentas y restos óseos en Valle de Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 186234
 ---
 
 Como parte de las indagatorias que sigue el Grupo Especial de Investigación de Valle de Juárez, la Fiscalía de la Mujer aseguró dos osamentas y diversos restos óseos de origen humano a la altura del kilómetro 20 del camino que conduce al arroyo “El Mimbre”.

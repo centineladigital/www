@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Gobernador encabeza ceremonia en explanada del parque El Palomar acompañado de autoridades militares y civiles"
-image: /uploads/2021/images-DÍA_DE_LA_BANDERA_2021_(1).jpg
-video: nil
-audio: nil
-alt: El Día de la Bandera convoca a defender  los avances alcanzados -  Javier Corral
+image: "/uploads/2021/images-DÍA_DE_LA_BANDERA_2021_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "El Día de la Bandera convoca a defender  los avances alcanzados -  Javier Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 183135
 ---
 
 El gobernador Javier Corral Jurado encabezó la celebración del Día de la Bandera Nacional, acompañado de autoridades militares y civiles en la explanada del parque El Palomar, en la ciudad de Chihuahua.

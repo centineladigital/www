@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los fans apuntan a que todo se trata del dueto de la cantante con Travis Scott, padre de Stormi. "
-image: /uploads/2021/images-rosalia-y-kylie-jenner-instagram.jpg
-video: nil
-audio: nil
-alt: Por qué Kylie Jenner dejó de seguir a Rosalía en Instagram
+image: "/uploads/2021/images-rosalia-y-kylie-jenner-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "Por qué Kylie Jenner dejó de seguir a Rosalía en Instagram"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181939
 ---
 
 Apenas han transcurrido siete días de 2021 y el mundo parece estar en llamas. Además del desastre político que tuvo lugar ayer en Estados Unidos, los internautas no podían dejar de hablar de otro suceso que, si bien parece poco prioritario, y hasta cómico en comparación y que, sin embargo, logró acaparar la atención en redes sociales.  En Twitter, los nombres de Rosalía y Kylie Jenner se volvieron tendencia pues dieron de qué hablar cuando sus seguidores se dieron cuenta de que la menor del clan Kardashian había dejado de seguir a la cantante española en Instagram, aun cuando en el pasado habían demostrado ser grandes amigas.  

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La película de Matthew Heineman sigue los preparativos del astro del reggaetón para su primer concierto en solitario, mientras estudiantes se manifestaban por el descontento social en Colombia. "
-image: /uploads/2021/images-j-balvin-estrenara-un-documental.jpeg
-video: nil
-audio: nil
-alt: Colombia, depresión y ansiedad -  los 'actores' en documental de J Balvin; se estrenará en Prime Video
+image: "/uploads/2021/images-j-balvin-estrenara-un-documental.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Colombia, depresión y ansiedad -  los 'actores' en documental de J Balvin; se estrenará en Prime Video"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184342
 ---
 
 ¡¿Y dónde está mi gente?! el cantante colombiano estrenará un nuevo documental que promete abrir las puertas de su recámara y acercar a todos sus fans a sus momentos más íntimos con The Boy From Medellín, que se estrenará el viernes en la plataforma de streaming de Amazon Prime Video. 

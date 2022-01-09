@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente chino, Xi Jinping, advierte en el Foro Económico de Davos sobre una 'nueva Guerra Fría', e insta a la unidad mundial frente a la pandemia de coronavirus"
-image: /uploads/2021/images-2518070.jpg
-video: nil
-audio: nil
-alt: Presidente de China advierte sobre 'nueva Guerra Fría'
+image: "/uploads/2021/images-2518070.jpg"
+video: "nil"
+audio: "nil"
+alt: "Presidente de China advierte sobre 'nueva Guerra Fría'"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182424
 ---
 
 El presidente chino, Xi Jinping, advirtió este lunes en el Foro Económico de Davos que se celebra de manera virtual sobre una "nueva Guerra Fría", e instó a la unidad mundial frente a la pandemia de coronavirus.

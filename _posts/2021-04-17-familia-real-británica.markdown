@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Sale del castillo de Windsor el cortejo que acompaña al féretro del príncipe Felipe hacia la capilla de San Jorge, donde será enterrado"
-image: /uploads/2021/images-2563856.jpg
-video: nil
-audio: nil
-alt: Familia real británica encabeza cortejo fúnebre del príncipe Felipe
+image: "/uploads/2021/images-2563856.jpg"
+video: "nil"
+audio: "nil"
+alt: "Familia real británica encabeza cortejo fúnebre del príncipe Felipe"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183941
 ---
 
 El cortejo que acompaña al féretro del príncipe Felipe salió este sábado del patio del castillo de Windsor, la residencia real del oeste de Londres donde murió hace ocho días el marido de Isabel II, hacia la capilla de San Jorge, donde será enterrado.

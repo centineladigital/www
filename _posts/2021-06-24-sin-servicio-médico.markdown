@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Entre los grupos más vulnerables al tema de seguridad sanitaria o de servicios médicos, se encuentran los adultos mayores"
-image: /uploads/2021/images-prostata_archivo_oem.jpg
-video: nil
-audio: nil
-alt: Sin servicio médico más de un millón de chihuahuenses
+image: "/uploads/2021/images-prostata_archivo_oem.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sin servicio médico más de un millón de chihuahuenses"
 front: false
-section: Local
+section: "Local"
+news_id: 185213
 ---
 
 Cerca de la tercera parte de la población en el estado no cuenta con servicios médicos o sanitarios, pues de acuerdo al Informe de Pobreza en Chihuahua 2020, elaborado por el Consejo Nacional de Evaluación de la Política de Desarrollo Social (Coneval), de 4 millones 742 mil habitantes en la entidad, un millón 136 mil refirió carecer de este tipo de seguridad social.

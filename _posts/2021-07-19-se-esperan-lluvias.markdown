@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los primeros tres días de esta semana habrá nublados intermitentes y que es probable que se presenten precipitaciones, con temperaturas máximas de entre los 28 y 32 grados Celsius y mínimas de entre los 18 y 20 grados."
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Se esperan lluvias para este lunes, martes y miércoles en la ciudad
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se esperan lluvias para este lunes, martes y miércoles en la ciudad"
 front: false
-section: Local
+section: "Local"
+news_id: 185788
 ---
 
 Una probabilidad de lluvias de hasta el 70 por ciento es lo que se espera para el lunes, martes y miércoles de esta semana, así lo informó la Coordinación Municipal de Protección Civil, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional de CONAGUA, por lo cual es importante seguir acatando las recomendaciones al respecto y evitar incidentes.

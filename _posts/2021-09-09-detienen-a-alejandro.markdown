@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Agentes de la Policía de Investigación ejecutaron una orden de aprehensión en contra el empresario por su probable participación en la comisión del delito de fraude genérico"
-image: /uploads/2021/images-alejandro-del-valle.jpg
-video: nil
-audio: nil
-alt: Detienen a Alejandro del Valle, presidente del Consejo de Administración de Interjet
+image: "/uploads/2021/images-alejandro-del-valle.jpg"
+video: "nil"
+audio: "nil"
+alt: "Detienen a Alejandro del Valle, presidente del Consejo de Administración de Interjet"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187570
 ---
 
 La Policía de Investigación (PDI), de la Fiscalía General de Justicia de la Ciudad de México, detuvo a Alejandro del Valle, presidente del Consejo de Administración de Interjet y socio del vicepresidente de esta compañía, Miguel Alemán Magnani, éste último contra quien existe una orden de aprehensión por su presunta responsabilidad en el delito de defraudación fiscal por 66 millones 285 mil pesos. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Recomendó que los menores usen de forma adecuada el cubrebocas durante todo el día"
-image: /uploads/2021/images-IMG-20210828-WA0012.jpg
-video: nil
-audio: nil
-alt: En regreso a clases recomienda IMSS reforzar hábitos de higiene y buena alimentación en niñas, niños y adolescentes
+image: "/uploads/2021/images-IMG-20210828-WA0012.jpg"
+video: "nil"
+audio: "nil"
+alt: "En regreso a clases recomienda IMSS reforzar hábitos de higiene y buena alimentación en niñas, niños y adolescentes"
 front: false
-section: Local
+section: "Local"
+news_id: 187230
 ---
 
 En el próximo regreso a clases, el Instituto Mexicano del Seguro Social (IMSS) recomienda reforzar hábitos de higiene y buena alimentación mediante el plato del bien comer, a fin de cuidar la salud de niñas, niños y adolescentes.

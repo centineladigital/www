@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La titular de la SSPC, Rosa Icela Rodríguez, informa que los homicidios disminuyeron 2.9% entre enero y mayo respecto a 2020; violaciones y trata de personas también incrementan"
-image: /uploads/2021/images-2598463.jpg
-video: nil
-audio: nil
-alt: Bajan homicidios, pero violaciones, feminicidios… se disparan
+image: "/uploads/2021/images-2598463.jpg"
+video: "nil"
+audio: "nil"
+alt: "Bajan homicidios, pero violaciones, feminicidios… se disparan"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185130
 ---
 
 Aunque el delito de homicidio doloso ha sido contenido y registró una baja de 2.9 por ciento en los últimos cinco meses, ilícitos como el feminicidio, la trata de personas y las violaciones registraron un incremento.

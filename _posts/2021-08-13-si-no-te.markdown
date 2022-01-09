@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue durante las grabaciones de 'Montse y Joe' en el año 2019 cuando las conductoras tuvieron roces por la actitud de la peruana. "
-image: /uploads/2021/images-pleito-yolanda-andrade-laura-bozzo_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Si no te sientes cómoda te puedes ir -  Así fue el día que Yolanda Andrade 'corrió' a Laura Bozzo de su programa
+image: "/uploads/2021/images-pleito-yolanda-andrade-laura-bozzo_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Si no te sientes cómoda te puedes ir -  Así fue el día que Yolanda Andrade 'corrió' a Laura Bozzo de su programa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186658
 ---
 
 Laura Bozzo, quien enfrenta un proceso legal en su contrapor delitos fiscales, es uno de los personajes más polémicos de la televisión mexicana y ha tenido varios roces con personalidades del entretenimiento; por ejemplo, el día que Yolanda Andrade 'la corrió' de su programa. Fue durante una dinámica en el programa Montse y Joe en el año 2019 cuando Laura Bozzo intentó abandonar el foro luego de sentirse "incómoda" por actitudes de Shanik Berman y Pepillo Origel, por lo que Yolanda Andrade le expresó que se podía ir. 

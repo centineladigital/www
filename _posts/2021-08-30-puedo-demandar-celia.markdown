@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Celia Lora acusa a producción de 'La Casa de los Famosos' de censurarla por su forma de vestir y por sus tatuajes. Además aseguró, la producción entró a su casa sin autorización. Pide salir del reality show. "
-image: /uploads/2021/images-celia-lora-denuncia-censura-casa.jpg
-video: nil
-audio: nil
-alt: Puedo demandar -  Celia Lora acusa a 'La Casa de los Famosos' de censura; exige salir del reality show
+image: "/uploads/2021/images-celia-lora-denuncia-censura-casa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Puedo demandar -  Celia Lora acusa a 'La Casa de los Famosos' de censura; exige salir del reality show"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187248
 ---
 
 Celia Lora, famosa influencer por su participación en varios programas de televisión, causó tremenda polémica en el reality show de Telemundo ‘La Casa de los Famosos’, pues se mostró molesta con la producción porque le han pedido que se cubra más –usar ropa manga–, además de que al parecer entraron a su casa sin consentimiento por ropa. 

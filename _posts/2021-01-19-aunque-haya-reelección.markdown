@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La reelección es un mecanismo para rendir cuentas y el aval de la ciudadanía"
-image: /uploads/2021/images-EWGETEE.jpg
-video: nil
-audio: /uploads/2021/audio-AM01_ULISES_GARCIA.mp3
-alt: Aunque haya reelección, ciudadanos son quienes decidirán candidaturas de morena -  Ulises García Soto
+image: "/uploads/2021/images-EWGETEE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AM01_ULISES_GARCIA.mp3"
+alt: "Aunque haya reelección, ciudadanos son quienes decidirán candidaturas de morena -  Ulises García Soto"
 front: false
-section: Local
+section: "Local"
+news_id: 182268
 ---
 
 Ante cuestionamientos periodísticos con relación a la reelección en puestos públicos, el diputado federal de Morena por Chihuahua, Ulises García Soto, declaró que las candidaturas a las diputaciones federales en Ciudad Juárez para las próximas elecciones serán definidas por los juarenses a través de una encuesta. 

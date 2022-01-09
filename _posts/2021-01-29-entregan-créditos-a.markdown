@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Reducen intereses y buscan que se dé más apoyo a las mujeres."
-image: /uploads/2021/images-IMG_20210129_112540.jpg
-video: nil
-audio: /uploads/2021/audio-MV04_LUIS_AGUILAR.mp3
-alt: Entregan créditos a empresarios
+image: "/uploads/2021/images-IMG_20210129_112540.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV04_LUIS_AGUILAR.mp3"
+alt: "Entregan créditos a empresarios"
 front: false
-section: Local
+section: "Local"
+news_id: 182564
 ---
 
 Este viernes fueron entregados 25 créditos a empresarios dentro del programa de Financiamientos del programa de Inclusión Productiva que lleva a cabo la Secretaría de Desarrollo Social, esto con un monto de más de 915 mil pesos que se entregaron a emprendedores de todo el estado.

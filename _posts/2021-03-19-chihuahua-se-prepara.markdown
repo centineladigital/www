@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se deben de tomar medidas con el fin de que el estado se siga retrasando y se dé un rezago en términos de calidad educativa."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-MV05_JAVIER.mp3
-alt: Chihuahua se prepara para regreso a aulas -  Gobernador 
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05_JAVIER.mp3"
+alt: "Chihuahua se prepara para regreso a aulas -  Gobernador "
 front: false
-section: Local
+section: "Local"
+news_id: 183488
 ---
 
 El estado de Chihuahua se prepara para que alumnos regresen a las aulas, señaló el Gobernador del Estado, Javier Corral Jurado. Quien dijo que se deben de tomar medidas con el fin de que el estado se siga retrasando y se dé un rezago en términos de calidad educativa.

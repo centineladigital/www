@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "A la fecha suman 46,486 inspecciones; 794 desalojos por incumplimiento de medidas; 733 clausuras y se han levantado 1,644 actas administrativas"
-image: /uploads/2021/images-Sello_de_clausura.jpeg
-video: nil
-audio: nil
-alt: Clausuran Células Mixtas 4 establecimientos el fin de semana por incumplir medidas anti COVID
+image: "/uploads/2021/images-Sello_de_clausura.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Clausuran Células Mixtas 4 establecimientos el fin de semana por incumplir medidas anti COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 185022
 ---
 
 La Dirección General de Gobierno informó que del 11 al 13 de junio, las Células Mixtas encargadas de realizar los operativos para vigilar el cumplimiento de las medidas sanitarias y evitar contagios por COVID-19, ejecutaron cuatro clausuras de establecimientos en la entidad.

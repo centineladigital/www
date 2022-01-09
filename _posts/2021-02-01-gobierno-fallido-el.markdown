@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Los últimos 10 años del estado han sido una década perdida"
-image: /uploads/2021/images-GREGEG.jpg
-video: nil
-audio: /uploads/2021/audio-AL01_BENJAMIN_CARRERA.mp3
-alt: Gobierno fallido el de Corral -  Benjamín Carrera; ante informe de gobierno 
+image: "/uploads/2021/images-GREGEG.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AL01_BENJAMIN_CARRERA.mp3"
+alt: "Gobierno fallido el de Corral -  Benjamín Carrera; ante informe de gobierno "
 front: false
-section: Local
+section: "Local"
+news_id: 182600
 ---
 
 Ante la entrega del cuarto informe de Gobierno del gobernador, Javier Corral Jurado; el diputado local de Morena, Benjamín Carrera Chávez, comento que si bien necesitan revisar bien el informe, puede adelantar que la realidad es que el gobernador no ha hecho nada y donde es tangible y se pude percibir una falta de avance y desarrollo, incluso un retroceso en el estado.   

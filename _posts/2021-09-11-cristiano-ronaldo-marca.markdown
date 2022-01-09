@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "CR7 volvió a la Premier League con un instinto goleador "
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Cristiano Ronaldo marca doblete en su regreso con el Manchester United
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Cristiano Ronaldo marca doblete en su regreso con el Manchester United"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187652
 ---
 
 Cristiano Ronaldo regresó al Manchester United, arrancó como titular y ya anotó un doblete en Old Trafford. 

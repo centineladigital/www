@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Dan a conocer acciones en obras dentro del plan de desarrollo urbano en la capital de Chihuahua."
-image: /uploads/2021/images-MANQUE.jpg
-video: /uploads/2021/videos-MW01_MANQUE.mp4
-audio: nil
-alt: Sesiona Comité de Planeación por segunda vez
+image: "/uploads/2021/images-MANQUE.jpg"
+video: "/uploads/2021/videos-MW01_MANQUE.mp4"
+audio: "nil"
+alt: "Sesiona Comité de Planeación por segunda vez"
 front: false
-section: Local
+section: "Local"
+news_id: 186854
 ---
 
 Dentro de la Segunda Sesión Ordinaria 2021 del Comité de Planeación del Municipio de Chihuahua en el trabajo que se lleva a cabo dentro de la administración 2018-2021 se llevó a cabo la evaluación del plan municipal de desarrollo, sesión que contó con la presencia del Alcalde electo Marco Antonio Bonilla Mendoza, así como la Alcaldesa en funciones María Angelica Granados Tres Palacios.

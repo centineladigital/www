@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En tanto el Banco Nacional de Obras realizará este 12 de marzo la subasta de 13 helicópteros y seis aviones; se espera una recaudación de hasta 520 mdp"
-image: /uploads/2021/images-2539814.jpg
-video: nil
-audio: nil
-alt: Mantenimiento de avión presidencial ha costado 110 millones
+image: "/uploads/2021/images-2539814.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mantenimiento de avión presidencial ha costado 110 millones"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183298
 ---
 
 Dar mantenimiento al avión presidencial José María Morelos, sin usarlo, ha costado 110 millones de pesos al erario del país, aseguró el presidente Andrés Manuel López Obrador.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La directora general del Cobach, María Teresa Ortuño Gurza, señaló que existe un documento donde la revisión es bianual y la vigencia es hasta el mes de enero del año 2022"
-image: /uploads/2021/images-COBACH.jpg
-video: nil
-audio: nil
-alt: Sindicato de Cobach decreta paro de labores, exigen revisión salarial 
+image: "/uploads/2021/images-COBACH.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sindicato de Cobach decreta paro de labores, exigen revisión salarial "
 front: false
-section: Local
+section: "Local"
+news_id: 183559
 ---
 
 Los agremiados al Sindicato de Trabajadores Académicos y Administrativos del Colegio de Bachilleres del Estado de Chihuahua emprendieron un paro de labores por 48 horas para exigir la revisión salarial y la respuesta al pliego petitorio, ello a pesar de que existe un convenio firmado con vigencia hasta enero del 2022.

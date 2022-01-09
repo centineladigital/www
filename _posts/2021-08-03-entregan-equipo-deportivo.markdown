@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Dona Ichijuv 40 uniformes deportivos, 12 balones y 2 pelotas, a fin de fomentar entre los jóvenes internos, el deporte y la sana convivencia"
-image: /uploads/2021/images-ajedrez_(3).jpeg
-video: nil
-audio: nil
-alt: Entregan equipo deportivo al Centro de Reinserción Social para Adolescentes Infractores de Chihuahua capital
+image: "/uploads/2021/images-ajedrez_(3).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Entregan equipo deportivo al Centro de Reinserción Social para Adolescentes Infractores de Chihuahua capital"
 front: false
-section: Local
+section: "Local"
+news_id: 186263
 ---
 
 Para contribuir a fomentar las actividades deportivas y recreativas de la población juvenil que se encuentra interna en el Centro de Reinserción Social para Adolescentes Infractores de la ciudad de Chihuahua (Cersai), el Instituto Chihuahuense de la Juventud (Ichijuv) llevó a cabo la donación de 40 uniformes deportivos, 13 balones y 2 pelotas.

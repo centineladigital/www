@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de redes sociales en donde el grupo de Molotov compartió que ayer presentaron una denuncia en contra de Arturo Ávila, candidato de Morena a presidente municipal de Aguascalientes.  "
-image: /uploads/2021/images-oficial-molotov-denuncio-arturo-avila.jpg
-video: nil
-audio: nil
-alt: ¿Fue plagio? Molotov denuncia a candidato de Morena por alterar canción “Voto Latino” sin permiso
+image: "/uploads/2021/images-oficial-molotov-denuncio-arturo-avila.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Fue plagio? Molotov denuncia a candidato de Morena por alterar canción “Voto Latino” sin permiso"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184839
 ---
 
 Molotov, agrupación musical, hizo de conocimiento público que ya presentaron una denuncia en contra del candidato de Morena a presidente municipal de Aguascalientes, Arturo Ávila. Esto luego de que externaran que el político violó los derechos de sus canciones sin previa autorización. ¿El candidato cometió un error al modificar una canción de Molotov y pedir voto masivo para Morena? ¿Qué dijo la agrupación? Te contamos lo que sabemos. 

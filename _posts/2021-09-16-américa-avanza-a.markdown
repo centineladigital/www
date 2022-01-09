@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Las Águilas aplastaron en marcador global al Philadelphia Union para instalarse en la final de la Liga de Campeones "
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: América avanza a la final de la Concachampions
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "América avanza a la final de la Concachampions"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187786
 ---
 
 Memo Ochoa se lanza sobre la pelota, el disparo, el penalti, despertaría al Philadelphia Union, lo metería al juego, pero… El mundialista mexicano alcanza a tocar la pelota, la manda al poste, en el rebote se recupera y también, con valiente achique salva al América. Y las Águilas, vuelven a una final de la Liga de Campeones de la Concacaf.

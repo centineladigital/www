@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Indicó que la supuesta venta de aeronaves, solo es una “llamarada de petate”, pues busca ponerle un parche a su mala gestión de  finanzas"
-image: /uploads/2021/images-WEWEGE.jpg
-video: nil
-audio: /uploads/2021/audio-AV01_ULISES_SOTO.mp3
-alt: Espero que por lo menos el gobernador pague la nómina -  Ulises Soto 
+image: "/uploads/2021/images-WEWEGE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AV01_ULISES_SOTO.mp3"
+alt: "Espero que por lo menos el gobernador pague la nómina -  Ulises Soto "
 front: false
-section: Local
+section: "Local"
+news_id: 184568
 ---
 
 El diputado federal de Morena Ulises García, celebró que el gobernador Javier Corral vaya a terminar su mandato, y agregó que espera que este por lo menos pague la nómina de sus trabajadores antes de irse. 

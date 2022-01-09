@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "500 transportistas de todas las modalidades."
-image: /uploads/2021/images-WhatsApp_Image_2021-08-23_at_3.09.23_PM.jpeg
-video: /uploads/2021/videos-WhatsApp_Video_2021-08-23_at_3.05.19_PM.mp4
-audio: nil
-alt: Alrededor de 500 transportistas frente a palacio de gobierno
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-23_at_3.09.23_PM.jpeg"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-08-23_at_3.05.19_PM.mp4"
+audio: "nil"
+alt: "Alrededor de 500 transportistas frente a palacio de gobierno"
 front: false
-section: Local
+section: "Local"
+news_id: 187021
 ---
 
  El Lic Edgar Olivas vicepresidente de la Confederación Nacional de Transportistas Mexicanos, A.C. (CONATRAM) afirmó que durante la manifestación que se presento ante palacio de gobierno se presentaron aproximadamente 500 transportistas de todas las modalidades.

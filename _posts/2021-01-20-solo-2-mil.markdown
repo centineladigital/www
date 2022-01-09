@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un recuento anual de Xerces Society registró apenas 2 mil mariposas, lo que representa una declinación masiva respecto a las decenas de miles contadas en años recientes"
-image: /uploads/2021/images-2515308.jpg
-video: nil
-audio: nil
-alt: Solo 2 mil mariposas Monarca llegaron este año a California
+image: "/uploads/2021/images-2515308.jpg"
+video: "nil"
+audio: "nil"
+alt: "Solo 2 mil mariposas Monarca llegaron este año a California"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182298
 ---
 
 La cantidad de mariposas monarcas que pasan el invierno en las costas de California bajó pronunciadamente, a niveles sin precedentes, y el hermoso insecto negro y anaranjado corre más peligro de extinción que nunca en esta región, según investigadores.

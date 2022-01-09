@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los cambios realizados por el gobierno de México consolidan sus políticas proteccionistas de energía y limita severamente el acceso de las empresas estadunidenses a los mercados de hidrocarburos y de fuentes renovables. "
-image: /uploads/2021/images-eu-denuncia-obstruccion-gobierno-mexico.jpg
-video: nil
-audio: nil
-alt: Congresistas de EU piden a Biden hablar con AMLO sobre violaciones a T-MEC en ramo energético
+image: "/uploads/2021/images-eu-denuncia-obstruccion-gobierno-mexico.jpg"
+video: "nil"
+audio: "nil"
+alt: "Congresistas de EU piden a Biden hablar con AMLO sobre violaciones a T-MEC en ramo energético"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185857
 ---
 
 Congresistas de Estados Unidos enviaron al presidente Joe Biden una carta en la cual le solicitaron participar en conversaciones diplomáticas con el mandatario de México, Andrés Manuel López Obrador, sobre supuestas violaciones al T-MEC en materia energética que afectan las inversiones. 

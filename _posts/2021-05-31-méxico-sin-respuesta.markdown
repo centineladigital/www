@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Lamenta López Obrador que no se haya tomado en serio el reclamo diplomático de su administración; cuestiona que asociaciones no hayan renunciado a financiamiento de EU"
-image: /uploads/2021/images-2587329.jpg
-video: nil
-audio: nil
-alt: México, sin respuesta de EU por financiamiento de organizaciones
+image: "/uploads/2021/images-2587329.jpg"
+video: "nil"
+audio: "nil"
+alt: "México, sin respuesta de EU por financiamiento de organizaciones"
 front: false
-section: Local
+section: "Local"
+news_id: 184741
 ---
 
 El presidente Andrés Manuel López Obrador reprobó que el gobierno de Estados Unidos de América "no haya tomado en serio" el reclamo diplomático del gobierno de la república en el que se demandó retirar el financiamiento a la asociación civil Mexicanos contra la Corrupción, la cual a juicio del jefe del Ejecutivo federal, se dedica a atacar a su administración y por lo tanto se convierte en un grupo de presión y activismo político.

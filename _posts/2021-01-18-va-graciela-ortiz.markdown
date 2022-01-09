@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Manifestó que abanderará con honro dicha precandidatura"
-image: /uploads/2021/images-sdffdsdsffd.jpg
-video: nil
-audio: /uploads/2021/audio-AL04_GRACIELA_ORTIZ.mp3
-alt: Va Graciela Ortiz como precandidata a la gubernatura del PRI 
+image: "/uploads/2021/images-sdffdsdsffd.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AL04_GRACIELA_ORTIZ.mp3"
+alt: "Va Graciela Ortiz como precandidata a la gubernatura del PRI "
 front: false
-section: Local
+section: "Local"
+news_id: 182234
 ---
 
 El dirigente del Comité Directivo Estatal del PRI, Alejandro Domínguez, anunció que el miércoles se registrará Graciela Ortiz como precandidata a la gubernatura del Revolucionario Institucional (PRI).

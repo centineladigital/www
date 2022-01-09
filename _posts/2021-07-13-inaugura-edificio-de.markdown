@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esta obra reafirma la voluntad, disposición y compromiso que se ha tenido con las mujeres en materia de género. "
-image: /uploads/2021/images-wendy.jpg
-video: nil
-audio: /uploads/2021/audio-MM03.mp3
-alt: Inaugura edificio de Fiscalía de la Mujer en Parral
+image: "/uploads/2021/images-wendy.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM03.mp3"
+alt: "Inaugura edificio de Fiscalía de la Mujer en Parral"
 front: false
-section: Local
+section: "Local"
+news_id: 185628
 ---
 
 Con una inversión de 4 millones 618 mil 799 pesos este día fue inaugurado el edificio de la Fiscalía de la Mujer en Parral, según lo dio a conocer la Fiscal Especializada en Atención a del Delito por Razones de Género, Wendy Paola Chávez Villanueva. 

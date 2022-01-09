@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El reconocido actor ha participado en películas como Mujer Bonita, Siempre a tu lado y Chicago. "
-image: /uploads/2021/images-richard-gere-cumple-anos.jpg
-video: nil
-audio: nil
-alt: ¡De Mujer Bonita a Hachiko! Richard Gere cumple 72 años y éstas son sus mejores películas
+image: "/uploads/2021/images-richard-gere-cumple-anos.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡De Mujer Bonita a Hachiko! Richard Gere cumple 72 años y éstas son sus mejores películas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187308
 ---
 
 Uno de los actores más reconocidos de Hollywood se encuentra de fiesta, Richard Gere cumple 72 años. Saltando a la fama gracias a la película American Gigolo en 1980, ha logrado destacar en distintas producciones gracias a su carisma y talento. 

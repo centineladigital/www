@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Oscar Castejón encabezó una manifestación que se llevó a cabo frente al Tribunal Superior de Justicia"
-image: /uploads/2021/images-CASTREJON.jpg
-video: /uploads/2021/videos-WhatsApp_Video_2021-09-07_at_2.00.04_PM.mp4
-audio: nil
-alt: Se llevo a cabo manifestación frente al Tribunal Superior de Justicia 
+image: "/uploads/2021/images-CASTREJON.jpg"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-09-07_at_2.00.04_PM.mp4"
+audio: "nil"
+alt: "Se llevo a cabo manifestación frente al Tribunal Superior de Justicia "
 front: false
-section: Local
+section: "Local"
+news_id: 187521
 ---
 
 El diputado Oscar Castejón encabezó una manifestación que se llevó a cabo frente al Tribunal Superior de Justicia, la cual tuvo como fin llamar a las autoridades de la suprema corte ya que en un lapso de 2 horas se llevaría  a cabo la presunta  abolición de la denuncia en contra de la gobernadora electa Maru Campos en donde en palabras del diputado pretenden revocar la vinculación a proceso  de los cargos de corrupción en contra de Campos.

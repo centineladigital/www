@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante defendió su cuerpo luego de que recibiera críticas tras salir a correr al parque."
-image: /uploads/2021/images-camila-cabello-hablo-criticas-cuerpo_0_187_1080_672.jpg
-video: nil
-audio: nil
-alt: Somos mujeres reales con curvas, celulitis y estrías -  Camila Cabello ante comentarios sobre su cuerpo
+image: "/uploads/2021/images-camila-cabello-hablo-criticas-cuerpo_0_187_1080_672.jpg"
+video: "nil"
+audio: "nil"
+alt: "Somos mujeres reales con curvas, celulitis y estrías -  Camila Cabello ante comentarios sobre su cuerpo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185854
 ---
 
 Camila Cabello defendió su cuerpo ante críticas luego de que en algunos medios de comunicación se difundiera una imagen de la cantante cuando daba su habitual paseo matutino con el estómago descubierto, por lo que muchos tomaron las redes sociales para opinar sobre el cuerpo de la ex integrante de Fifth Harmony.  

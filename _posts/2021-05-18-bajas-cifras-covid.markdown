@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Solamente dos defunciones se acreditaron y 59 personas dieron positivo a PCR."
-image: /uploads/2021/images-diapositiva3-342.jpg
-video: nil
-audio: /uploads/2021/audio-MM01.mp3
-alt: Bajas cifras COVID
+image: "/uploads/2021/images-diapositiva3-342.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM01.mp3"
+alt: "Bajas cifras COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 184530
 ---
 
 Solamente dos defunciones se acreditaron y 59 personas dieron positivo a PCR, según fue dado a conocer dentro de la rueda de prensa de actualización de casos de coronavirus, con lo que se llega a 67 mil 191 personas contagiadas de las cuales han perdido la vida 6 mil 895.

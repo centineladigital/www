@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A nosotros nos toca cumplir nuestro deber y nunca traicionar al Pueblo de Chihuahua de combatir la corrupción, caiga quien caiga: Javier Corral"
-image: /uploads/2021/images-Gobernador_Javier_Corral_-_Nadie_por_encima_de_la_ley_3.jpg
-video: nil
-audio: nil
-alt: Ninguna candidatura blindará a ningún candidato de responder ante la justicia -  Gobernador
+image: "/uploads/2021/images-Gobernador_Javier_Corral_-_Nadie_por_encima_de_la_ley_3.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ninguna candidatura blindará a ningún candidato de responder ante la justicia -  Gobernador"
 front: false
-section: Local
+section: "Local"
+news_id: 182254
 ---
 
 “Ninguna candidatura de ningún partido va a blindar a nadie de responder por sus actos ante la justicia y nosotros vamos a cumplir nuestro compromiso de combatir la corrupción, caiga quien caiga”, indicó el gobernador Javier Corral Jurado, ante los medios de comunicación.

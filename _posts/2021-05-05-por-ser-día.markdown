@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Por motivo de la conmemoración de la Batalla de Puebla, las operaciones se retomarán el jueves 6 de mayo"
-image: /uploads/2021/images-juntadeaguas.jpg
-video: nil
-audio: nil
-alt: Por ser día inhábil, dependencias de gobierno permanecerán cerradas
+image: "/uploads/2021/images-juntadeaguas.jpg"
+video: "nil"
+audio: "nil"
+alt: "Por ser día inhábil, dependencias de gobierno permanecerán cerradas"
 front: false
-section: Local
+section: "Local"
+news_id: 184294
 ---
 
 Este miércoles 5 de mayo por ser un día inhábil, las oficinas de la Junta Municipal de Agua y Saneamiento, así como todas las dependencias de gobierno permanecerán cerradas, sin embargo podrá realizar el pago de su servicio a través de los cajeros automáticos.

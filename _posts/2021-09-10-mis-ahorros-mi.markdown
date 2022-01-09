@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El divertido video suma más de 350 mil likes en la red social y aquí te mostramos por qué. "
-image: /uploads/2021/images-sylvia-pasquel-llega-tiktok-audio.jpg
-video: nil
-audio: nil
-alt: ¡Mis ahorros!, ¡Mi dinero! -  Sylvia Pasquel recrea icónica escena de telenovela 17 años después y causa furor en TikTok
+image: "/uploads/2021/images-sylvia-pasquel-llega-tiktok-audio.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Mis ahorros!, ¡Mi dinero! -  Sylvia Pasquel recrea icónica escena de telenovela 17 años después y causa furor en TikTok"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187617
 ---
 
 TikTok es la red social del momento, y ello se debe a los millones de videos que se suben día con día, que van desde los más impresionantes hasta los más divertidos; por esta razón, no es de soprenderse que cada vez más famosos incursionen en la plataforma para seguir en contacto con sus fans, y así lo hizo Sylvia Pasquel, quien usó la red social para recrear a uno de sus personajes de telenovela más memorables. Pasquel hizo estallar TikTok luego de recrear una escena de Isaura, de Amarte es mi pecado, y es que el audio de esa escena se ha vuelto viral y ha sido replicado una y otra vez por los usuarios. 

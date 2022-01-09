@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor forma parte del elenco de “El padrino”, el primer capítulo del programa unitario “Un día para vivir” que transmite Azteca 7, a partir de hoy."
-image: /uploads/2021/images-pedro_sicard.jpeg
-video: nil
-audio: nil
-alt: Pedro Sicard pondrá a reflexionar al público
+image: "/uploads/2021/images-pedro_sicard.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Pedro Sicard pondrá a reflexionar al público"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187675
 ---
 
 Pedro Sicard, quien participa en el nuevo programa original que estrena hoy Azteca Siete, “Un día para vivir”, protagonizado por María José Magán, se refirió a la importancia de ser parte del equipo que busca la reflexión de la audiencia a partir de la ficción que se aborda en la trama. “Es un formato muy padre, tiene algo novedoso con este personaje de ‘La muerte’ que va enlazando un capítulo con el otro, se me hizo muy atractivo desde que me lo propusieron. Yo formo parte de uno de esos capítulos, en los que ‘La muerte’ decide si vivo o muero dependiendo de cómo me haya portado en la vida y lo que haya hecho. Eso se me hace muy interesante, porque aparte deja una gran lección de vida para el público”, explicó el actor en entrevista con M2. 

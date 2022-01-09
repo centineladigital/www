@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "De los 17 mil 700, trabajadores de Salud que existen en Oaxaca, alrededor de 12 mil han recibido su primera dosis de la vacuna contra Covid-19, por lo que aún están pendientes casi seis mil"
-image: /uploads/2021/images-c46111a8-e69c-492a-bcd9-5fcdba32345c.tmp
-video: nil
-audio: nil
-alt: Casi seis mil trabajadores de la Salud en Oaxaca aún esperan vacuna contra COVID
+image: "/uploads/2021/images-c46111a8-e69c-492a-bcd9-5fcdba32345c.tmp"
+video: "nil"
+audio: "nil"
+alt: "Casi seis mil trabajadores de la Salud en Oaxaca aún esperan vacuna contra COVID"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182945
 ---
 
 De los 17 mil 700, trabajadores de Salud que existen en Oaxaca, de acuerdo con datos de autoridades sanitarias, alrededor de 12 mil han recibido su primera dosis de la vacuna contra Covid-19, por lo que aún están pendientes casi seis mil, mientras que el resto aún espera completar la segunda dosis del biológico.

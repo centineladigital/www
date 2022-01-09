@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Exhorta a ciudadanos a salir a votar."
-image: /uploads/2021/images-PACO.jpg
-video: nil
-audio: /uploads/2021/audio-ML07_FRANCISCO_NAVARRO.mp3
-alt: Confiamos en el voto ciudadano -  Navarro
+image: "/uploads/2021/images-PACO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML07_FRANCISCO_NAVARRO.mp3"
+alt: "Confiamos en el voto ciudadano -  Navarro"
 front: false
-section: Local
+section: "Local"
+news_id: 184630
 ---
 
 El dirigente del Partido Acción Nacional, Francisco Navarro Pastrana, dijo confiar en el voto ciudadano, esto luego de afirmar que se esta trabajando en conjunto con el Instituto Estatal Electoral con el fin de que se dé una positiva votación este 6 de julio.

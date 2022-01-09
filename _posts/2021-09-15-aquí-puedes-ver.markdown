@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de redes sociales en donde Pepe Aguilar –en compañía de sus hijos Ángela Aguilar y Leonardo Aguilar– anunció que este 15 de septiembre ofrecerá un concierto gratuito en línea. Te decimos en dónde lo podrás ver en vivo. "
-image: /uploads/2021/images-vivo-concierto-pepe-aguilar-angela.jpg
-video: nil
-audio: nil
-alt: Aquí puedes ver en vivo el concierto gratis de Ángela, Leonardo y Pepe Aguilar de hoy 15 de septiembre
+image: "/uploads/2021/images-vivo-concierto-pepe-aguilar-angela.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aquí puedes ver en vivo el concierto gratis de Ángela, Leonardo y Pepe Aguilar de hoy 15 de septiembre"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187760
 ---
 
 ¡Es hoy, es hoy! La dinastía Aguilar hoy dará un concierto en vivo en línea a modo conmemoración por el 15 y 16 de septiembre -Día de la Independencia en México-. Pepe Aguilar y sus hijos Ángela Aguilar y Leonardo Aguilar cantarán a todo pulmón para celebrar a la población mexicana. El concierto será completamente gratis. ¿Dónde lo podrás disfrutar? Te contamos cómo y dónde puedes disfrutar del concierto gratis y en vivo de la familia Aguilar.

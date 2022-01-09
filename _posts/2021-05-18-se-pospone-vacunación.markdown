@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Sin especificar fecha para aplicación de vacunas."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-MM05.mp3
-alt: Se pospone vacunación a docentes
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM05.mp3"
+alt: "Se pospone vacunación a docentes"
 front: false
-section: Local
+section: "Local"
+news_id: 184526
 ---
 
 La vacunación a personal docente ha sido pospuesta, afirmó el Gobernador de Chihuahua Javier Corral Jurado. Esto tras señalar que fue por parte de la federación se dio esta orden sin dar a conocer que fecha será aplicada la inmunización a los docentes.

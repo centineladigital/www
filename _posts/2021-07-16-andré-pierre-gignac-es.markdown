@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La selección de Francia tuvo un amistoso ante Corea del Sur -el cual le sirvió de preparación antes de tener que enfrentar a México- en donde el delantero de Tigres, André-Pierre Gignac, fue nombrado como capitán."
-image: /uploads/2021/images-andre-pierre-gignac-afp_0_56_1024_637.jpg
-video: nil
-audio: nil
-alt: André-Pierre Gignac es nombrado el capitán de la selección olímpica de Francia
+image: "/uploads/2021/images-andre-pierre-gignac-afp_0_56_1024_637.jpg"
+video: "nil"
+audio: "nil"
+alt: "André-Pierre Gignac es nombrado el capitán de la selección olímpica de Francia"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185731
 ---
 
 Previo al arranque de los Juegos Olímpicos de Tokio, la selección de Francia tuvo un amistoso ante Corea del Sur -el cual le sirvió de preparación antes de tener que enfrentar a México- en donde el delantero de Tigres, André-Pierre Gignac, fue nombrado como capitán.

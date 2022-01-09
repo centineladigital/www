@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Desconoce Fernando Mesta avance en reparación de nosocomios."
-image: /uploads/2021/images-MESTA.jpg
-video: /uploads/2021/videos-MV01_FERNANDO_MESTA.mp4
-audio: /uploads/2021/audio-MV02_FERNANDO_MESTA.mp4
-alt: Prioritarias reparaciones en el hospital
+image: "/uploads/2021/images-MESTA.jpg"
+video: "/uploads/2021/videos-MV01_FERNANDO_MESTA.mp4"
+audio: "/uploads/2021/audio-MV02_FERNANDO_MESTA.mp4"
+alt: "Prioritarias reparaciones en el hospital"
 front: false
-section: Local
+section: "Local"
+news_id: 186949
 ---
 
 Como prioritarios calificó el Secretario General de Gobierno, Fernando Mesta Soulé, las reparaciones que se llevaran a cabo en los nosocomios afectados por las lluvias, esto cuestionándosele sobre las afectaciones que pudieron sufrir durante las lluvias de este jueves, donde dijo, la cantidad de agua fue enorme, por lo que aún se tiene que calificar los daños de forma total.

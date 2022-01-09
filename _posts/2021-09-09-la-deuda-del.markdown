@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Incluyen pasivos de organismos centralizados y desconcentrados "
-image: /uploads/2021/images-Mario_Vázquez.jpeg
-video: /uploads/2021/videos-BJ04_MARIO_VAZQUEZ.mp4
-audio: nil
-alt:  La deuda del estado creció a 75mil millones de pesos  en el gobierno de Javier Corral 
+image: "/uploads/2021/images-Mario_Vázquez.jpeg"
+video: "/uploads/2021/videos-BJ04_MARIO_VAZQUEZ.mp4"
+audio: "nil"
+alt: " La deuda del estado creció a 75mil millones de pesos  en el gobierno de Javier Corral "
 front: false
-section: Local
+section: "Local"
+news_id: 187587
 ---
 
 El presidente de Congreso del Estado Mario Vázquez declaró sobre el tema de la deuda que tiene el estado de Chihuahua en donde confirmó que se decidió solicitar a la Auditoria Superior Del Estado un referente respecto a la deuda en la que se mencionó  existen de pasivos totales de deuda pública y otros compromisos 75 mil millones de pesos.

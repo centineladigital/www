@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esta cifra en cuatro años de gobierno."
-image: /uploads/2021/images-monito.jpg
-video: nil
-audio: /uploads/2021/audio-ML05.mp3
-alt: Aumenta recaudación en el Estado 18 mil millones de pesos
+image: "/uploads/2021/images-monito.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML05.mp3"
+alt: "Aumenta recaudación en el Estado 18 mil millones de pesos"
 front: false
-section: Local
+section: "Local"
+news_id: 185580
 ---
 
 Un incremento de 18 mil millones de pesos es lo que ha percibido el Gobierno del Estado en cuatro años, cifra que representa un 33 por ciento de crecimiento en comparación del 2016.Según lo dio a conocer el subsecretario de Ingresos de la Secretaría de Hacienda, Juan Pablo García Delgado.

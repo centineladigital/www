@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este día es importante por una extraña coincidencia entre estas emblemáticas figuras de México. Esta fecha relaciona a Xavier López ‘Chabelo’, Vicente Fernández y a José José. Te decimos por qué. "
-image: /uploads/2021/images-fecha-febrero-une-vicente-fernandez.jpg
-video: nil
-audio: nil
-alt: ¿Una coincidencia? La fecha que une a Vicente Fernández, Chabelo y José José
+image: "/uploads/2021/images-fecha-febrero-une-vicente-fernandez.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Una coincidencia? La fecha que une a Vicente Fernández, Chabelo y José José"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182989
 ---
 
 Hoy 17 de febrero es una fecha importante para mundo del espectáculo. ¿Qué hay con este día? Resulta que este día es importante por una extraña coincidencia entre algunas emblemáticas figuras de México. Esta fecha relaciona a Xavier López ‘Chabelo’, Vicente Fernández y a José José.  Un día como hoy, pero en diferentes fechas, los tres famosos nacieron. Es una coincidencia que muy pocas personas conocen. ¿Hoy es un día especial para el talento? ¿Hay relación entre los tres? 

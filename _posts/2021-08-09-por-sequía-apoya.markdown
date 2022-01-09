@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se benefició a 20 productores con una inversión de más de 321 mil pesos"
-image: /uploads/2021/images-unnamed_(6).jpg
-video: nil
-audio: nil
-alt: Por sequía, apoya Gobierno Municipal a productores de miel con 15 toneladas de azúcar
+image: "/uploads/2021/images-unnamed_(6).jpg"
+video: "nil"
+audio: "nil"
+alt: "Por sequía, apoya Gobierno Municipal a productores de miel con 15 toneladas de azúcar"
 front: false
-section: Local
+section: "Local"
+news_id: 186480
 ---
 
 El Gobierno Municipal a través de la Dirección de Desarrollo Rural hizo entrega de 15 toneladas de azúcar a 20 productores de miel de Chihuahua capital.

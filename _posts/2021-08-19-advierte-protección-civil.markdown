@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Este jueves las precipitaciones tendrán una acumulación de entre 50.1 y 75 mm en esa región, informa la dependencia; este día en Chihuahua serán de dispersas a moderadas con intervalos de chubascos y se intensificarán el viernes 20"
-image: /uploads/2021/images-Lluvia_centro_Chihuahua.JPG
-video: nil
-audio: nil
-alt: Advierte Protección Civil por lluvias muy fuertes en el suroeste del estado
+image: "/uploads/2021/images-Lluvia_centro_Chihuahua.JPG"
+video: "nil"
+audio: "nil"
+alt: "Advierte Protección Civil por lluvias muy fuertes en el suroeste del estado"
 front: false
-section: Local
+section: "Local"
+news_id: 186889
 ---
 
 Para este jueves 19 se prevén lluvias de fuertes a puntuales muy fuertes (50.1 a 75 mm de acumulación) en parte del suroeste, principalmente en Balleza, y aunque de menor intensidad, también se registrarán en al menos otros 32 municipios, entre ellos la ciudad de Chihuahua, informó la Coordinación Estatal de Protección Civil (CEPC).

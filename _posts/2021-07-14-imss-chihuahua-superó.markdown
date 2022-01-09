@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Lo anterior se realizó en el marco de la estrategia “100 días para mover al IMSS”."
-image: /uploads/2021/images-Foto_3282-2.jpg
-video: nil
-audio: nil
-alt: IMSS Chihuahua superó la meta, al realizar 470 cirugías en Jornada Oftalmológica realizada este fin de semana en el Hospital Morelos
+image: "/uploads/2021/images-Foto_3282-2.jpg"
+video: "nil"
+audio: "nil"
+alt: "IMSS Chihuahua superó la meta, al realizar 470 cirugías en Jornada Oftalmológica realizada este fin de semana en el Hospital Morelos"
 front: false
-section: Local
+section: "Local"
+news_id: 185646
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua benefició a 470 derechohabientes en la jornada especial de cirugía de catarata (aplicación de lente intraocular), que se realizó este fin de semana en el Hospital General Regional (HGR) No. 01 “Morelos”.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esta presentación fue por una agencia de la embajada de Estados Unidos"
-image: /uploads/2021/images-J1.jpg
-video: nil
-audio: /uploads/2021/audio-MM05_JAVIER_TALAMANTES.mp3
-alt: Participa Poder Judicial en conferencia ante la ONU
+image: "/uploads/2021/images-J1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM05_JAVIER_TALAMANTES.mp3"
+alt: "Participa Poder Judicial en conferencia ante la ONU"
 front: false
-section: Local
+section: "Local"
+news_id: 183720
 ---
 
 De forma internacional el Magistrado Héctor Javier Talamantes Abe presentó una conferencia ante la Organización de las Naciones Unidas, esto el tema de Ciberdelincuencia, en conjunto con representantes de seguridad pública estatal.

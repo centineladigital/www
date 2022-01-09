@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se utilizarán las redes para llevar a cabo la campaña."
-image: /uploads/2021/images-ROCIO.jpg
-video: nil
-audio: /uploads/2021/audio-ML04_ROCIO_REZA.mp3
-alt: No es sencillo hacer campaña con semáforo naranja -  PAN
+image: "/uploads/2021/images-ROCIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04_ROCIO_REZA.mp3"
+alt: "No es sencillo hacer campaña con semáforo naranja -  PAN"
 front: false
-section: Local
+section: "Local"
+news_id: 184114
 ---
 
 “No es sencillo hacer campaña” fueron las palabras de la dirigente del PAN a nivel estatal al ser cuestionada sobre las medidas que se tomarán en los municipios que se ven más afectados como Parral, donde se tiene una problemática más grande por motivo de la pandemia.

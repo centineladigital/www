@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El equipo multidisciplinario realizó la prospección, el rastreo en superficie y sondeo; acciones que concluyeron sin novedad; no obstante, las labores de seguimiento a los casos vigentes son permanentes.   "
-image: /uploads/2021/images-Rastreo_Allende_17_(2).jpeg
-video: nil
-audio: nil
-alt: Realizan rastreo de búsqueda de personas desaparecidas en Allende   
+image: "/uploads/2021/images-Rastreo_Allende_17_(2).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Realizan rastreo de búsqueda de personas desaparecidas en Allende   "
 front: false
-section: Local
+section: "Local"
+news_id: 187837
 ---
 
 Como parte de los trabajos efectuados para localizar a personas que permanecen en calidad de ausentes o desaparecidas; la Fiscalía de Distrito Zona Sur en coordinación con la Comisión Estatal de Búsqueda realizó un rastreo en Allende.

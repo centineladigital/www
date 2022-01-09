@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A fin de garantizar el desarrollo del proceso electoral, por lo cual se exhorta a cumplir con esta disposición"
-image: /uploads/2021/images-Cerveza_alcohol_ley_seca_3.jpg
-video: nil
-audio: nil
-alt: Habrá ley seca el domingo 6 de junio por elecciones
+image: "/uploads/2021/images-Cerveza_alcohol_ley_seca_3.jpg"
+video: "nil"
+audio: "nil"
+alt: "Habrá ley seca el domingo 6 de junio por elecciones"
 front: false
-section: Local
+section: "Local"
+news_id: 184773
 ---
 
 El Director General de Gobierno, Joel Gallegos Legarreta, dio a conocer que el próximo domingo 6 de junio, se decretará ley seca en el estado de Chihuahua, a fin de garantizar el desarrollo del proceso electoral, por lo cual quedará suspendida la venta de alcohol a partir de las 0 horas a las 9 de la mañana del día lunes 7 de junio.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de SIPINNA se establecieron instrumentos, políticas, procedimientos, servicios y acciones a favor de la protección de derechos de NNA"
-image: /uploads/2021/images-Participación_Red_Jóvenes_ado_(2).jpeg
-video: nil
-audio: nil
-alt: Impulsó Chihuahua 7 investigaciones  sobre derechos de Niñas, Niños y Adolescentes
+image: "/uploads/2021/images-Participación_Red_Jóvenes_ado_(2).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Impulsó Chihuahua 7 investigaciones  sobre derechos de Niñas, Niños y Adolescentes"
 front: false
-section: Local
+section: "Local"
+news_id: 187100
 ---
 
 Para trabajar en favor de los derechos de las y los menores de edad, a través de la Secretaría Ejecutiva del Sistema de Protección Integral de Niñas, Niños y Adolescentes (SIPINNA) en el estado, se impulsaron 7 investigaciones sobre la situación que guardan estos derechos, lo que dio como resultado que ahora Chihuahua cuente con un diagnóstico integrado con información nacional, estatal y municipal.

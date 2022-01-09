@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los municipios con más contagios acumulados son: Juárez con 32,089, Chihuahua 20,517, Parral 2,920, Cuauhtémoc 2,644 y Delicias 2,465; a la fecha han fallecido por coronavirus 126 integrantes del Sector Salud"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Aumenta en 178 contagios y 12 defunciones último reporte COVID-19
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Aumenta en 178 contagios y 12 defunciones último reporte COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 184971
 ---
 
 La Secretaría de Salud estatal dio a conocer que en el último reporte COVID-19 se incrementaron en 178 los contagios confirmados, para llegar a 69 mil 352 casos acumulados en la entidad.

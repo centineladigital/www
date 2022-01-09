@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Se registran 347 nuevos casos de COVID-19 para el estado de Chihuahaua "
+date: 2021-12-02T22:57:00.000-06:00
+tags:
+  
+  - Covid
+  
+  - Cifras
+  
+  - chihuahua
+  
+author: nil
+description: "El número de personas que han perdido la vida por COVID-19 se incrementó en la cantidad de 8 mil 379 casos (+11), y se presento en el municipio de Juárez (+3), Cuauhtémoc (+3), NCG (+1), Ojinaga (+2), Ascensión (+1) y  Matamoros (+1)."
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Se registran 347 nuevos casos de COVID-19 para el estado de Chihuahaua "
+front: false
+section: "Local"
+news_id: 190449
+---
+
+El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 2 de diciembre el reporte COVID-19, en el cual se registran 86 mil 514 (+347) personas confirmadas en la entidad por este padecimiento, 73 mil 389 (+62) casos recuperados, 81 mil 747 (+392) descartados y 1,033 (+4) casos sospechosos.
+
+El número de personas que han perdido la vida por COVID-19 se incrementó en la cantidad de 8 mil 379 casos (+11), y se presento en el municipio de Juárez (+3), Cuauhtémoc (+3), NCG (+1), Ojinaga (+2), Ascensión (+1) y  Matamoros (+1).
+
+Es importante señalar que se realizó una corrección en el registro de un caso a defunción, correspondiente al municipio de Chihuahua (-1).
+
+Hoy se registran 347 nuevos casos que se concentran en los municipios de Juárez (+80), Chihuahua (+128), Parral (+14), Cuauhtémoc (+11), Delicias (+17), NCG (+6), Ojinaga (+7), Camargo (+3), Guachochi (+6), Jiménez (+12), Bocoyna (+1), Meoqui (+2), Saucillo (+8), Guerrero (+3), Aldama (+10), Buenaventura (+2), Aquiles Serdán (+2), Allende (+1), Guazapares (+4), Santa Bárbara (+2), Namiquipa (+2), Chínipas (+7), Gómez Farías (+2)  Madera (+1), Rosales (+1), Julimes (+1), Casas Grandes (+1), Ahumada (+2), Urique (+1), Janos (+1), López (+1), Santa Isabel (+1), Balleza (+1), Guadalupe (+1), Praxedis G. Guerrero (+2), Cusihuiriachi (+1), Satevó (+1) y  Morelos (+2). 
+
+Respecto a la gráfica del comportamiento de los casos de COVID-19 por grupo edad, se desglosa de la siguiente forma:
+
+De la totalidad de casos confirmados durante la pandemia, el 4.3 por ciento corresponde a personas de 0 a 17 años, el 20.8 por ciento al grupo de 18 a 29 años, el 22.5 por ciento a personas de 30 a 39 años, el 19.9 por ciento al grupo 
+
+de 40 a 49 años, el 15.7 por ciento al rango de 50 a 59 años y el 16.7 por ciento en personas mayores de 60 años.
+
+En el caso de las personas que han perdido la vida, de acuerdo con la información presentada los fallecimientos de 0 a 17 años representan un 0.5 por ciento, en personas de 18 a 29 años 1.3 por ciento, de 30 a 39 años de edad un 4.1 por ciento, de 40 a 49 años un 11.6 por ciento, de 50 a 59 un 21.5 por ciento y en las personas de 60 años y más se concentra la mayoría de los decesos con un 61.0 por ciento. 
+
+La Secretaría de Salud exhorta a toda la ciudadanía a no relajar las medidas preventivas, como son: lavado frecuente de manos o el uso de gel antibacterial, mantener la sana distancia de 1.5 metros entre personas, así como portar el cubrebocas en todas las actividades. 
+
+Recordar que el semáforo de riesgo epidemiologico vigente, es en color amarillo.

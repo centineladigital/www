@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Realizaron cinco eventos con la participación de productoras y productores indígenas de 17 municipios; en años anteriores constituían una festividad que aglutinaba a cientos de personas pero ante la pandemia se reinventó el modelo de reunión para prevenir la propagación del virus"
-image: /uploads/2021/images-1IMG_0405.JPG
-video: nil
-audio: nil
-alt: Celebran Coepi y pueblos Warijó, Ralámuli y Ódami Encuentros del Maíz
+image: "/uploads/2021/images-1IMG_0405.JPG"
+video: "nil"
+audio: "nil"
+alt: "Celebran Coepi y pueblos Warijó, Ralámuli y Ódami Encuentros del Maíz"
 front: false
-section: Local
+section: "Local"
+news_id: 183435
 ---
 
 En búsqueda de fortalecer la agricultura familiar, el intercambio de semillas y las prácticas campesinas, el Gobierno del Estado de Chihuahua a través de la Comisión Estatal para los Pueblos Indígenas (Coepi), desarrolló cinco Encuentros del Maíz con población originaria de los pueblos Ralámuli, Ódami y Warijó.

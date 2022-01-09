@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aunque no dejaron de dar servicio durante la pandemia, las EBDI’s del Instituto reforzaron los protocolos y medidas de seguridad para recibir a los derechohabientes más pequeños, dijo el director general.  "
-image: /uploads/2021/images-WhatsApp_Image_2021-08-23_at_3.30.31_PM.jpeg
-video: nil
-audio: nil
-alt: Listas de las estancias infantiles del ISSSTE para el regreso a clases -   Ramírez Pineda
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-23_at_3.30.31_PM.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Listas de las estancias infantiles del ISSSTE para el regreso a clases -   Ramírez Pineda"
 front: false
-section: Local
+section: "Local"
+news_id: 187022
 ---
 
 En el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) estamos listos para el próximo regreso a clases, reforzamos los protocolos sanitarios en las 222 Estancias de Bienestar y Desarrollo Infantil (EBDI’s) de todo el país, implementamos los mejores programas de prevención, para que los padres derechohabientes tengan la confianza y seguridad de regresar a los infantes en las aulas, por el bien de sus familias y de México, informó el director general, Luis Antonio Ramírez Pineda.

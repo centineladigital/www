@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un matemático británico estima que hay alrededor de dos trillones de partículas del virus del SARS-CoV-2 en el mundo y que todas caben en una lata de refresco"
-image: /uploads/2021/images-2527037.jpg
-video: nil
-audio: nil
-alt: Todas las partículas de covid dispersas en el mundo caben en una lata
+image: "/uploads/2021/images-2527037.jpg"
+video: "nil"
+audio: "nil"
+alt: "Todas las partículas de covid dispersas en el mundo caben en una lata"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182825
 ---
 
 Todo el virus de covid-19 que circula en el mundo podría caber fácilmente dentro de una sola lata de refresco, según un cálculo realizado por un matemático británico que pone de manifiesto cuánta devastación causan las minúsculas partículas víricas.

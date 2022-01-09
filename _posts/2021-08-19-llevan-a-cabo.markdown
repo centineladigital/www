@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Participan grupos que viven en en todo el estado, así como migrantes."
-image: /uploads/2021/images-TERESA.jpg
-video: /uploads/2021/videos-MJ02_TERESA_GUERRERO.mp4
-audio: nil
-alt: Llevan a cabo foro de pueblos indígenas
+image: "/uploads/2021/images-TERESA.jpg"
+video: "/uploads/2021/videos-MJ02_TERESA_GUERRERO.mp4"
+audio: "nil"
+alt: "Llevan a cabo foro de pueblos indígenas"
 front: false
-section: Local
+section: "Local"
+news_id: 186907
 ---
 
 Buscando tener una ley que permita la consulta entre los pueblos originarios, así como el ver el rumbo que se llevó esta administración en materia indígena este jueves se llevó a cabo un foro que contó con la participación de diversos pueblos entre los que se encuentran también pueblos migrantes ya establecidos en Chihuahua y Juárez como son los mazahuas, huicholes, huicholes, entre otros.

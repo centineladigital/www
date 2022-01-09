@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Luisito Comunica y Berth Oh grabaron con Vicente Fox un podcast; los involucrados aseguraron que la pasaron muy bien, pero los usuarios de redes sociales lanzaron severas opiniones en su contra: ¿Luisito Comunica se vendió? "
-image: /uploads/2021/images-vicente-fox-graba-podcast-luisito.jpg
-video: nil
-audio: nil
-alt: Gran malo -  Critican a Luisito Comunica por grabar podcast con Vicente Fox
+image: "/uploads/2021/images-vicente-fox-graba-podcast-luisito.jpg"
+video: "nil"
+audio: "nil"
+alt: "Gran malo -  Critican a Luisito Comunica por grabar podcast con Vicente Fox"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184064
 ---
 
 Luisito Comunica, youtuber mexicano, desató severas críticas en su contra, pues apareció a lado del ex presidente de México Vicente Fox, así como con el influencer Berth Oh. El ex funcionario panista participó en el podcast ‘En Cortinas con Luisito’ del creador de contenido. Sin embargo, aunque ellos se llenaron de halagos, el momento no fue bien recibido por el público. Los internautas se lanzaron en su contra. Este encuentro se da después de que el ex presidente Vicente Fox Quesada dijera abiertamente que quería participar junto a Luisito comunica. Es decir su deseo se cumplió. Luisito Comunica, Berth Oh y hasta el propio ex presidente publicaron en sus redes sociales imágenes juntos.

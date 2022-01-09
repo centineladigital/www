@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El debate será transmitido por www.facebook.com/CoparmexChihuahua"
-image: /uploads/2021/images-90d7e5a0-5212-4a67-a7d3-ceb0c341236e.jpg
-video: nil
-audio: /uploads/2021/audio-AM01_EDUARDO_VALLES_BAEZA.mp3
-alt:  Sortea Coparmex orden de participación de candidatos a la alcaldía para el debate
+image: "/uploads/2021/images-90d7e5a0-5212-4a67-a7d3-ceb0c341236e.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AM01_EDUARDO_VALLES_BAEZA.mp3"
+alt: " Sortea Coparmex orden de participación de candidatos a la alcaldía para el debate"
 front: false
-section: Local
+section: "Local"
+news_id: 184524
 ---
 
 La Confederación Patronal de la República Mexicana (Coparmex) realizó el sorteo del orden de participación de los candidatos a la alcaldía para las cuatro etapas del Debate Ciudadano que se realizará mañana a las 7:00 pm en la Torre de la Humanidad de la Universidad La Salle (Ulsa).

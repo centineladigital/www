@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante quedó varada en medio de una avenida mientras viajaba en su automóvil debido a las inundaciones que han afectado a la Ciudad de México. "
-image: /uploads/2021/images-alejandra-guzman-.jpg
-video: nil
-audio: nil
-alt: Alejandra Guzmán se queda atrapada en inundación; policía la rescata
+image: "/uploads/2021/images-alejandra-guzman-.jpg"
+video: "nil"
+audio: "nil"
+alt: "Alejandra Guzmán se queda atrapada en inundación; policía la rescata"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185871
 ---
 
 Alejandra Guzmán experimentó una situación de riesgo en medio de las intensas lluvias que se vivieron en los últimos días y que provocaron inundaciones en varias partes de la Ciudad de México. La intérprete de "Mala hierba" fue víctima de los estragos que han causado las tormentas en las vialidades, pues se quedó atrapada "en una laguna". La hija de Silvia Pinal y Enrique Guzmán recurrió a sus redes sociales para compartir con sus seguidores imágenes del momento en el que se quedó varada en una avenida, mientras viajaba en su automóvil, esto debido a que el nivel del agua aumentó de tal forma que el vehículo no pudo continuar avanzando.  

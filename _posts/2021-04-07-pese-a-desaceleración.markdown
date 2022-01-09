@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La OPS expresó que pese a que los contagios de COVID-19 presentan una desaceleración en México y EU, la pandemia va al alza en la mayoría de los países de América del Sur y Canadá"
-image: /uploads/2021/images-2558476.jpg
-video: nil
-audio: nil
-alt: Pese a desaceleración de COVID en México y EU, alerta OPS alza en Sudamérica
+image: "/uploads/2021/images-2558476.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pese a desaceleración de COVID en México y EU, alerta OPS alza en Sudamérica"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183742
 ---
 
 A pesar de que los contagios de COVID-19 presentan una desaceleración en México y Estados Unidos, la pandemia sigue creciendo con un comportamiento irregular debido al “preocupante” aumento de casos en la mayoría de los países de América del Sur y en Canadá, advirtió Carissa F. Etienne, directora de la Organización Panamericana de la Salud (OPS).

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Sin móvil muerte de chófer de plataforma DIDI."
-image: /uploads/2021/images-CESAR2.jpg
-video: nil
-audio: /uploads/2021/audio-MV01_CESAR_PENICHE.mp3
-alt: Venta de narcóticos principales móviles de muertes en el municipio de Chihuahua
+image: "/uploads/2021/images-CESAR2.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV01_CESAR_PENICHE.mp3"
+alt: "Venta de narcóticos principales móviles de muertes en el municipio de Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 185354
 ---
 
 Luego de que se presentarán seis asesinatos el titular de la Fiscalía señaló que la mayor parte de éstos se encuentran relacionados con la venda de narcóticos. Sin embargo, destacó que aún no se tiene un móvil del chofer de la plataforma de DIDI que fue asesinado este mismo día.

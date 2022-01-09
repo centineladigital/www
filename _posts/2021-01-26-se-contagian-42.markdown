@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A 10 meses del inicio de la pandemia se han confirmado en el estado de Chihuahua 49 mil 366 casos y 4 mil 614 defunciones; a la fecha siguen al 100% de su capacidad tres hospitales con pacientes SARS-CoV-2,  el resto está por debajo del 75%"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Se contagian 42 personas y cuatro más fallecen por COVID-19 en las últimas 24 horas
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Se contagian 42 personas y cuatro más fallecen por COVID-19 en las últimas 24 horas"
 front: false
-section: Local
+section: "Local"
+news_id: 182450
 ---
 
 La Secretaría de Salud dio a conocer que en las últimas 24 horas se confirmaron en la entidad 42 nuevos contagios por SARS-CoV-2 y cuatro fallecimientos más en Chihuahua (2), Camargo (1) y Manuel Benavides (1),  de acuerdo al Reporte COVID-19 Conferencia Informativa #233 y Virtual #293.

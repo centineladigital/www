@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En un viaje de la Ciudad de México a Texas, alguien robó dos celulares de Luisito Comunica´, los cuales cuestan alrededor de 40 mil pesos, a cambio le dejaron uno de aproximadamente 3 mil 500. "
-image: /uploads/2021/images-luisito-comunica-detallo-equipos-costaban.jpg
-video: nil
-audio: nil
-alt: ¡Ratero asqueroso! Roban celulares a Luisito Comunica... le dejan uno viejo de ‘consuelo’
+image: "/uploads/2021/images-luisito-comunica-detallo-equipos-costaban.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Ratero asqueroso! Roban celulares a Luisito Comunica... le dejan uno viejo de ‘consuelo’"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182761
 ---
 
 Luisito Comunica ha vuelto a ser víctima de la delincuencia; el famoso youtuber, denunció que durante un vuelo de la Ciudad de México a Dallas, Texas, alguien abrió su maleta y se robó los celulares que llevaba guardados. Sin embargo, el hurto tiene tintes de comedia, pues el ladrón se llevó los equipos que el comunicador tenía reservados en caso de perder el que actualmente usa y de broma o en consideración, le dejó un equipo viejo de ‘consolación’. 

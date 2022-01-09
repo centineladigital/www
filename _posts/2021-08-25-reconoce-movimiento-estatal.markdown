@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Muestran secretario general de Gobierno y coordinadora del Centro de Derechos Humanos de las Mujeres, en Logros con Valor, avances de las Mesas Mensuales de Trabajo desde donde se dirigieron mejoras en los Cejum y se emitieron iniciativas de ley que están pendientes de aprobación"
-image: /uploads/2021/images-Movimiento_Estatal_mujeres_(2).jpeg
-video: nil
-audio: nil
-alt: Reconoce Movimiento Estatal de Mujeres combate de Javier Corral a desigualdad de género
+image: "/uploads/2021/images-Movimiento_Estatal_mujeres_(2).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Reconoce Movimiento Estatal de Mujeres combate de Javier Corral a desigualdad de género"
 front: false
-section: Local
+section: "Local"
+news_id: 187101
 ---
 
 La coordinadora general del Centro de Derechos Humanos de las Mujeres e integrante del Movimiento Estatal de Mujeres, Ruth Fierro Pineda, reconoció la disposición del gobernador Javier Corral Jurado para atender y combatir la desigualdad de género durante su Administración.

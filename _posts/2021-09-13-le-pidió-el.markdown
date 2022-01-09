@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante abandonó el reality tras los rumores de infidelidad que circularon por unas polémicas imágenes en las que aparece junto a Roberto Romano. "
-image: /uploads/2021/images-kimberly-flores-sale-casa-famosos_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¿Le pidió el divorcio? Kimberly Flores sale de 'Casa de los famosos' tras visita de Edwin Luna
+image: "/uploads/2021/images-kimberly-flores-sale-casa-famosos_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Le pidió el divorcio? Kimberly Flores sale de 'Casa de los famosos' tras visita de Edwin Luna"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187673
 ---
 
 Kimberly Flores está envuelta en la polémica desde que se sumó a la lista de polémicas celebridades que participan en La casa de los famosos, un reality show inspirado en el formato de Big Brother. La famosa generó revuelo durante las primeras semanas del programa, luego de que se difundieran polémicas imágenes de la esposa de Edwin Luna junto a Roberto Romano.  

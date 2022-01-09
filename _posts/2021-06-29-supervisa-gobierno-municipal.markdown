@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Gobierno Municipal a través de la Dirección de Obras Públicas, realizó los trabajos de supervisión en calles y avenidas principales,"
-image: /uploads/2021/images-foto_calles.jpg
-video: nil
-audio: /uploads/2021/audio-Audio_Carlos_Aguilar_-_director_Obras_Públicas.mp3
-alt: Supervisa Gobierno Municipal daños en calles y avenidas por lluvias
+image: "/uploads/2021/images-foto_calles.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-Audio_Carlos_Aguilar_-_director_Obras_Públicas.mp3"
+alt: "Supervisa Gobierno Municipal daños en calles y avenidas por lluvias"
 front: false
-section: Local
+section: "Local"
+news_id: 185294
 ---
 
 Debido a las lluvias que se han presentado en los últimos días en la ciudad, el Gobierno Municipal a través de la Dirección de Obras Públicas, realizó los trabajos de supervisión en calles y avenidas principales, para realizar un diagnóstico de los daños que se pudieron haber producido sobre la carpeta asfáltica, detectando un total de 600 baches, mismos que serán reparados una vez que mejore el clima. 

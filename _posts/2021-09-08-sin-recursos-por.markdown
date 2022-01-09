@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Alerta de genero no viene con recursos."
-image: /uploads/2021/images-WhatsApp_Image_2021-09-08_at_2.42.10_PM_(3).jpeg
-video: /uploads/2021/videos-MM02_MARGARITA_BLACKALLER.mp4
-audio: nil
-alt: Sin recursos por alerta de género
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-08_at_2.42.10_PM_(3).jpeg"
+video: "/uploads/2021/videos-MM02_MARGARITA_BLACKALLER.mp4"
+audio: "nil"
+alt: "Sin recursos por alerta de género"
 front: false
-section: Local
+section: "Local"
+news_id: 187552
 ---
 
 "No hay recurso asignado a la fecha" fueron las palabras de la recién nombrada titular del Instituto Chihuahuense de la Mujer, Margarita Blackaller, esto al ser cuestionada sobre el cuánto sería el monto de recursos que pudieran llegar a Chihuahua por motivo de la Alerta de Genero.

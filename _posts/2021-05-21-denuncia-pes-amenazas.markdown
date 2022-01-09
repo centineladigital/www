@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Simulan persona encobijada frente a casa de diputada."
-image: /uploads/2021/images-índice1.jpg
-video: nil
-audio: /uploads/2021/audio-MV03_DAVID_MEDINA.mp3
-alt: Denuncia PES amenazas contra candidata
+image: "/uploads/2021/images-índice1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV03_DAVID_MEDINA.mp3"
+alt: "Denuncia PES amenazas contra candidata"
 front: false
-section: Local
+section: "Local"
+news_id: 184595
 ---
 
 Ante la autoridad correspondiente el Partido Encuentro Solidario presentó una demanda, esto luego de que su candidata a diputada federal por el 4 distrito Julieta Castillo fuera amenazada por su lucha en la búsqueda de mujeres desaparecidas. 

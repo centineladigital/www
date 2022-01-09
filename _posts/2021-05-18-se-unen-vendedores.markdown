@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Buscan crear proyecto de unificación de estos negocios."
-image: /uploads/2021/images-PACO.jpg
-video: nil
-audio: /uploads/2021/audio-MM02.mp3
-alt: Se unen vendedores de autopartes a proyecto del Acción Nacional
+image: "/uploads/2021/images-PACO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM02.mp3"
+alt: "Se unen vendedores de autopartes a proyecto del Acción Nacional"
 front: false
-section: Local
+section: "Local"
+news_id: 184529
 ---
 
 Yonkeros y vendedores de autopartes al proyecto del Partido Acción Nacional, según fue dado a conocer por parte del dirigente de este organismo a nivel municipal, Francisco Navarro Pastrana. Esto en una rueda de prensa donde se dio a conocer que los empresarios dedicados a este ramo comercial buscarán que se lleve a cabo la creación de una zona comercial exclusiva para la venta de sus productos.

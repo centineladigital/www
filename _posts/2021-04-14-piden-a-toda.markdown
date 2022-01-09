@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Salud alerta tanto a la Región Chihuahua como a la Región Juárez por el aumento en ambas zonas de casos confirmados y hospitalizaciones; llama a cumplir enfáticamente los lineamientos del semáforo epidemiológico"
-image: /uploads/2021/images-MIRNA_BELTRÁN_subsecretaria_Salud_Chihuahua.jpeg
-video: nil
-audio: nil
-alt: Piden a toda la población estatal reforzar prevención  por alza de contagios de COVID
+image: "/uploads/2021/images-MIRNA_BELTRÁN_subsecretaria_Salud_Chihuahua.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Piden a toda la población estatal reforzar prevención  por alza de contagios de COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 183892
 ---
 
 La subsecretaria de Prevención y Promoción de la Salud, Mirna Beltrán Arzaga, llamó a la población a reforzar poner énfasis en el cumplimiento de las medidas de prevención de COVID-19, debido al aumento de contagios que se ha registrado en los últimos días tanto en la Región Chihuahua como en la Región Juárez.

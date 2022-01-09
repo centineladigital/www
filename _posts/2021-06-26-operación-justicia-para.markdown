@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La aplicación de créditos y la recuperación de recursos (ya en cuentas de Gobierno del Estado) es el resultado de un  novedoso modelo fiscal que se sumó a la investigación penal y siguió la ruta del dinero de la red de corrupción que encabezó el exgobernador"
-image: /uploads/2021/images-Diapositiva4.JPG
-video: nil
-audio: nil
-alt: Operación Justicia para Chihuahua ha recuperado más de 712 millones de pesos
+image: "/uploads/2021/images-Diapositiva4.JPG"
+video: "nil"
+audio: "nil"
+alt: "Operación Justicia para Chihuahua ha recuperado más de 712 millones de pesos"
 front: false
-section: Local
+section: "Local"
+news_id: 185265
 ---
 
 Como resultado de la Operación Justicia, hasta el último corte se han recuperado a favor del Pueblo de Chihuahua un total de 712 millones 005 mil 312 pesos, gracias a los procedimientos fiscales y a las sentencias penales condenatorias logradas por el Gobierno del Estado.

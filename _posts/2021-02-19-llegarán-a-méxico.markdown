@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Marcelo Ebrard, titular de la Secretaría de Relaciones Exteriores, destacó que el cargamento llegará en las primeras horas de este sábado a la Ciudad de México"
-image: /uploads/2021/images-2532402.jpg
-video: nil
-audio: nil
-alt: Llegarán a México 200 mil vacunas anticovid Sinovac
+image: "/uploads/2021/images-2532402.jpg"
+video: "nil"
+audio: "nil"
+alt: "Llegarán a México 200 mil vacunas anticovid Sinovac"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183046
 ---
 
 El canciller Marcelo Ebrard informó que 200 mil dosis de la vacuna Sinovac salieron de Hong Kong rumbo a la Ciudad de México.

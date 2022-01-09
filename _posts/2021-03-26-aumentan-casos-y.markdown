@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La tercera oleada epidémica ha llevado a las tres principales economías de la zona euro a imponer nuevas restricciones, cuando se pensaba, en realidad, que se iban a suavizar las medidas"
-image: /uploads/2021/images-2551879.jpg
-video: nil
-audio: nil
-alt: Aumentan casos y disminuye recuperación económica en UE
+image: "/uploads/2021/images-2551879.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aumentan casos y disminuye recuperación económica en UE"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183560
 ---
 
 El nuevo aumento de contagios de covid-19, el endurecimiento de las restricciones para frenar la propagación del virus y la demora en la vacunación retrasarán todavía más la recuperación económica en Europa, advierten cada vez más economistas.

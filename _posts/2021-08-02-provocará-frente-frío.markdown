@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Traerá lluvias de moderadas e intervalos de chubascos a puntuales fuertes en el occidente, suroeste y sureste del estado"
-image: /uploads/2021/images-Balleza_LLUVIAS_JULIO_2021_EN_MUNICIPIO_(2).jpeg
-video: nil
-audio: nil
-alt: Provocará Frente Frío fuertes lluvias  en occidente, suroeste y sureste este lunes
+image: "/uploads/2021/images-Balleza_LLUVIAS_JULIO_2021_EN_MUNICIPIO_(2).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Provocará Frente Frío fuertes lluvias  en occidente, suroeste y sureste este lunes"
 front: false
-section: Local
+section: "Local"
+news_id: 186193
 ---
 
 Los municipios con mayores probabilidades de precipitaciones son Moris, Uruachi, Chínipas, Urique, Batopilas, Morelos, Guadalupe y Calvo Namiquipa, Temósachic, Ocampo, Bocoyna, Carichí, Guazapares, Guachochi, Balleza, Cuauhtémoc, Chihuahua, Parral, Coronado, Jiménez, Manuel Benavides, Ciudad Juárez, Janos, Madera, Aldama y Ojinaga, informa Protección Civil

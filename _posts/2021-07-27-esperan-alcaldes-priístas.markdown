@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Dirigente priísta acudirá en caso de ser invitado."
-image: /uploads/2021/images-ALEX.jpg
-video: /uploads/2021/videos-MM04_ALEJANDRO_DOMINGUEZ.mp4
-audio: nil
-alt: Esperan alcaldes priístas reunión con Gobernadora electa
+image: "/uploads/2021/images-ALEX.jpg"
+video: "/uploads/2021/videos-MM04_ALEJANDRO_DOMINGUEZ.mp4"
+audio: "nil"
+alt: "Esperan alcaldes priístas reunión con Gobernadora electa"
 front: false
-section: Local
+section: "Local"
+news_id: 186034
 ---
 
 Será el 10 de agosto cuando los alcaldes electos se reúnan con la Gobernadora electa María Eugenia Campos Galván, señaló el dirigente estatal del Partido Tricolor Alejandro Domínguez Domínguez, al ser interrogado respeto a si harían algo por la toma de protesta por parte del partido el cual al final impulsó el triunfo de la entonces candidata. 

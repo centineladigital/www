@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue durante el programa de ‘Mimí Contigo’ de TV Azteca en donde Mhoni Vidente habló sobre la polémica que envuelve a Enrique Guzmán tras las acusaciones de abuso sexual que hizo en su contra la hija de Alejandra Guzmán. "
-image: /uploads/2021/images-mhoni-vidente-revela-frida-sofia.jpg
-video: nil
-audio: nil
-alt: Más acusaciones -  Mhoni Vidente revela que Frida Sofía dice la verdad; Enrique Guzmán miente
+image: "/uploads/2021/images-mhoni-vidente-revela-frida-sofia.jpg"
+video: "nil"
+audio: "nil"
+alt: "Más acusaciones -  Mhoni Vidente revela que Frida Sofía dice la verdad; Enrique Guzmán miente"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183843
 ---
 
 Frida Sofía rompió la cadena de abusos en la familia Pinal-Guzmán, así lo han reconocido diferentes usuarios de redes sociales que le han mostrado su apoyo ante los ataques que ha recibido de su familia. Y es que al denunciar que su abuelo Enrique Guzmán abusó de ella cuando tan sólo era una niña de cinco años, la dinastía Pinal-Guzmán se tambaleó. Por ello, Mhoni Vidente hizo uso de su presencia en diferentes programas de televisión para revelar lo que ella ve desde sus cartas. La vidente aseguró que Frida Sofía cuenta la verdad. ¿Qué pasará con Enrique y Alejandra Guzmán? Fue durante el programa de ‘Mimí Contigo’ de TV Azteca en donde Mhoni Vidente habló sobre la polémica que envuelve a Enrique Guzmán tras las acusaciones de abuso sexual que hizo en su contra la hija de Alejandra Guzmán. 

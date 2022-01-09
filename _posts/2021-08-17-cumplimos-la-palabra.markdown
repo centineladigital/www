@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Al presentar su Quinto Informe, el gobernador Javier Corral se dijo sumamente satisfecho de haber cumplido con la palabra empeñada, para devolver a Ciudad Juárez lo que en justicia le corresponde"
-image: /uploads/2021/images-DSC_5581.JPG
-video: nil
-audio: nil
-alt: Cumplimos la palabra empeñada para devolverle a Juárez lo que en justicia le corresponde -  Gobernador
+image: "/uploads/2021/images-DSC_5581.JPG"
+video: "nil"
+audio: "nil"
+alt: "Cumplimos la palabra empeñada para devolverle a Juárez lo que en justicia le corresponde -  Gobernador"
 front: false
-section: Local
+section: "Local"
+news_id: 186772
 ---
 
 “Cumplimos con la palabra empeñada y como ningún otro gobierno, dirigimos la mirada y la acción gubernamental a esta extraordinaria frontera para devolverle lo que en justicia le corresponde, dado el tamaño de su población y el peso de su participación económica”, expresó.

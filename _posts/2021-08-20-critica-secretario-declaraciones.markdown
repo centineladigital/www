@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que como empresario debe de entender, esto por pasivos a proveedores."
-image: /uploads/2021/images-MESTA.jpg
-video: /uploads/2021/videos-MV03_FERNANDO_MESTA.mp4
-audio: nil
-alt: Critica Secretario declaraciones de Santini
+image: "/uploads/2021/images-MESTA.jpg"
+video: "/uploads/2021/videos-MV03_FERNANDO_MESTA.mp4"
+audio: "nil"
+alt: "Critica Secretario declaraciones de Santini"
 front: false
-section: Local
+section: "Local"
+news_id: 186950
 ---
 
 El Secretario General de Gobierno, Fernando Mesta Soulé, criticó la postura del presidente del Consejo Coordinador Empresarial Francisco Santini, esto luego de que el empresario pidiera al gobierno pagar a los proveedores.

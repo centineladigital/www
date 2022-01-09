@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A la fecha suman 74,493 casos confirmados y 7,754 personas fallecidas en el estado de Chihuahua"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporta Salud 8 nuevos contagios y cero defunciones por COVID-19
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporta Salud 8 nuevos contagios y cero defunciones por COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 186779
 ---
 
 Al cierre del informe epidemiológico de las últimas 24 horas, la Secretaría de Salud reportó ocho casos confirmados de COVID-19, cero defunciones, la cifra de recuperados se incrementó en 36, los casos descartados fueron 121 y decrecieron en 29 los sospechosos.

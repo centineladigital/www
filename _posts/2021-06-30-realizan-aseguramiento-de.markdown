@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El funcionario manifestó que gracias a esta acción también hubo detenciones y se iniciarán las carpetas de investigación correspondientes."
-image: /uploads/2021/images-Lupe.jpeg
-video: nil
-audio: nil
-alt: Realizan aseguramiento de armas y explosivos en la sierra
+image: "/uploads/2021/images-Lupe.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Realizan aseguramiento de armas y explosivos en la sierra"
 front: false
-section: Local
+section: "Local"
+news_id: 185305
 ---
 
 El secretario de Seguridad Pública Estatal, Emilio García Ruiz, informó que las autoridades locales lograron asegurar explosivos así como diversas armas en un operativo desplegado en Guadalupe y Calvo.

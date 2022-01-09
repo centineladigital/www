@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "De un total de 29 suspensiones definitivas a favor de diversas empresas que han considerado inconstitucionales las modificaciones"
-image: /uploads/2021/images-WhatsApp_Image_2021-03-24_at_9.10.03_AM.jpeg
-video: nil
-audio: nil
-alt: Celebra Graciela Ortiz unión de Iniciativa Privada para frenar ley eléctrica
+image: "/uploads/2021/images-WhatsApp_Image_2021-03-24_at_9.10.03_AM.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Celebra Graciela Ortiz unión de Iniciativa Privada para frenar ley eléctrica"
 front: false
-section: Local
+section: "Local"
+news_id: 183528
 ---
 
 Graciela Ortiz González celebró el otorgamiento, hasta este miércoles 24 de marzo, de un total de 29 suspensiones definitivas a favor de diversas empresas que han considerado inconstitucionales las modificaciones a la denominada “ley eléctrica”, que impulsa Morena.

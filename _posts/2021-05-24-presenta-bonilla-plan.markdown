@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Destaca acciones como construcción de áreas deportivas."
-image: /uploads/2021/images-MARCO.jpg
-video: nil
-audio: /uploads/2021/audio-ML04_MARCO_BONILLA.mp3
-alt: Presenta Bonilla plan de obras municipales
+image: "/uploads/2021/images-MARCO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML05_MARCO_BONILLA.mp3"
+alt: "Presenta Bonilla plan de obras municipales"
 front: false
-section: Local
+section: "Local"
+news_id: 184632
 ---
 
 Obras para benefico de las ciudadanía, pero sobre todo en materia deportiva es la propuesta del candidato a la alcaldía por el PAN, Marco Bonilla Mendoza, esto según fue dado a conocer este lunes.

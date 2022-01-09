@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Agencia Británica del Medicamento notifica 30 casos de coágulos sanguíneos, 7 de ellos fatales, tras aplicar más de 18 millones de dosis de la vacuna AstraZeneca"
-image: /uploads/2021/images-2556387.jpg
-video: nil
-audio: nil
-alt: Reporta Reino Unido 7 muertes por coágulos tras vacuna AstraZeneca
+image: "/uploads/2021/images-2556387.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reporta Reino Unido 7 muertes por coágulos tras vacuna AstraZeneca"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183657
 ---
 
 Siete personas que recibieron la vacuna anticovid AstraZeneca murieron de coágulos sanguíneos en Reino Unido, sobre un total de 30 casos identificados hasta ahora, tras más de 18 millones de dosis administradas, indicó el sábado la Agencia Británica del Medicamento (MHRA).

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de sus redes sociales en donde Rayito -Ryan Hoffman- reaccionó a la polémica que envuelve a su hermana YosStop, con quien años atrás había tenido roces por sus diferentes personalidades. "
-image: /uploads/2021/images-ryan-hoffman-conocido-rayito-reacciono.jpg
-video: nil
-audio: nil
-alt: No tengo palabras -  Rayito, hermano de YosStop, reacciona a la detención de la youtuber
+image: "/uploads/2021/images-ryan-hoffman-conocido-rayito-reacciono.jpg"
+video: "nil"
+audio: "nil"
+alt: "No tengo palabras -  Rayito, hermano de YosStop, reacciona a la detención de la youtuber"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185312
 ---
 
 YosStop sigue siendo tema de conversación, luego de que se diera a conocer que la noche de ayer fue detenida por el delito de posesión de pornografía infantil en el caso de Ainara Suárez, quien fue abusada sexualmente mientras estaba tomada. En medio de esta nueva polémica que envuelve a la creadora de contenido, su hermano -el también youtuber-Ryan Hoffman, mejor conocido como Rayito o DebRyanShow, ya se posicionó ante el tema. Reveló cómo se encuentra ante este conflicto que empaña su normalidad familiar. ¿Qué dijo? 

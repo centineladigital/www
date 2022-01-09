@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Está diseñado para reunir un conjunto de empresas y contará con profesionales administrativos y de producción altamente calificados, científicos, ingenieros y técnicos"
-image: /uploads/2021/images-_DSC9086.JPG
-video: nil
-audio: nil
-alt:  Inaugura Gobernador hoy el Parque Tecnológico Spark con el Maratón de Obras 2021
+image: "/uploads/2021/images-_DSC9086.JPG"
+video: "nil"
+audio: "nil"
+alt: " Inaugura Gobernador hoy el Parque Tecnológico Spark con el Maratón de Obras 2021"
 front: false
-section: Local
+section: "Local"
+news_id: 185055
 ---
 
 El Parque Tecnológico Spark ubicado en el Parque Industrial Sur de la ciudad de Chihuahua, será inaugurado hoy a las 18:00 horas por el gobernador Javier Corral Jurado, en el marco del Maratón de Obras 2021 con el que cerrará su administración.

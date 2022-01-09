@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Luego de las lluvias registradas la noche de este jueves en la ciudad de Chihuahua, se tomaron las medidas pertinentes para garantizar la seguridad de los pacientes, personal y del equipo médico"
-image: /uploads/2021/images-hosp_central.jpg
-video: nil
-audio: nil
-alt:  Opera con normalidad Hospital Central Universitario
+image: "/uploads/2021/images-hosp_central.jpg"
+video: "nil"
+audio: "nil"
+alt: " Opera con normalidad Hospital Central Universitario"
 front: false
-section: Local
+section: "Local"
+news_id: 186965
 ---
 
 La Secretaría de Salud Chihuahua informa que el Hospital Central Universitario “Dr. Jesús Enrique Grajeda Herrera”, opera con normalidad tras la lluvia registrada durante la noche del pasado jueves.

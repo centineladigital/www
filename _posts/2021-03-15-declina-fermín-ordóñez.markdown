@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se suma a la propuesta de Marco Adán Quezada."
-image: /uploads/2021/images-FERMIN.jpeg
-video: nil
-audio: /uploads/2021/audio-ML04_FERMIN_ORDOÑEZ.mp3
-alt: Declina Fermín Ordóñez a candidatura para alcalde
+image: "/uploads/2021/images-FERMIN.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04_FERMIN_ORDOÑEZ.mp3"
+alt: "Declina Fermín Ordóñez a candidatura para alcalde"
 front: false
-section: Local
+section: "Local"
+news_id: 183427
 ---
 
 Este lunes dio a conocer que Fermín Ordóñez Arana a favor de Marco Quezada, esto mediante un comunicado dónde señaló que se sumaría a la campaña de el ahora abanderado de Morena a la presidencia municipal.

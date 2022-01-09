@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señaló que la intención es que en un primer acercamiento buscar alrededor de 150 mil a 200 dosis d vacunas"
-image: /uploads/2021/images-RHHE.jpg
-video: /uploads/2021/videos-AL04_PATRICIO_MARTINEZ.mp4
-audio: /uploads/2021/audio-AL04_PATRICIO_MARTINEZ.mp4
-alt: Proyecta Canaco adquirir alrededor de 200  mil vacunas contra Covid 
+image: "/uploads/2021/images-RHHE.jpg"
+video: "/uploads/2021/videos-AL04_PATRICIO_MARTINEZ.mp4"
+audio: "/uploads/2021/audio-AL04_EDIBRAY_GOMEZ.mp3"
+alt: "Proyecta Canaco adquirir alrededor de 200  mil vacunas contra Covid "
 front: false
-section: Local
+section: "Local"
+news_id: 182431
 ---
 
 La Cámara Nacional de Comercio (Canaco) se alista para coadyuvar en el blindaje de salud y luego económico con la aplicación de alrededor de 200  mil vacunas contra Covid19 a los socios, sus familias y colaboradores, informó Edibray Gómez Gallegos, presidente del Organismo. 

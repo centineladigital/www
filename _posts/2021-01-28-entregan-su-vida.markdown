@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El director médico de la Zona Norte Arturo Valenzuela Zorrilla informa que 22 mujeres y 64 hombres del personal médico, enfermería y otros servicios han fallecido al cuidar a chihuahuenses con COVID-19: “les debemos todo, nuestro aprecio y recuerdo por siempre” "
-image: /uploads/2021/images-DEFUNCIONES_PERSONAL_DE_SALUD__(1).jpeg
-video: nil
-audio: nil
-alt: Entregan su vida 86 Heroínas y Héroes de la Salud  en lucha contra la pandemia
+image: "/uploads/2021/images-DEFUNCIONES_PERSONAL_DE_SALUD__(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Entregan su vida 86 Heroínas y Héroes de la Salud  en lucha contra la pandemia"
 front: false
-section: Local
+section: "Local"
+news_id: 182515
 ---
 
 Un total de 86 elementos del personal de salud en el estado han perdido la vida en su lucha contra la enfermedad COVID-19, informó la Secretaría de Salud Chihuahua.

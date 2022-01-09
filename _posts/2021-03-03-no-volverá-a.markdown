@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La dejé (la actuación) después de que mi madre falleció, porque con su muerte murieron muchas ideas suyas en mi vida, reveló la famosa. "
-image: /uploads/2021/images-jennette-mccurdy-instagram.jpg
-video: nil
-audio: nil
-alt: ¡No volverá a 'iCarly'! Jennette McCurdy revela que la avergüenza su pasado actoral
+image: "/uploads/2021/images-jennette-mccurdy-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡No volverá a 'iCarly'! Jennette McCurdy revela que la avergüenza su pasado actoral"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183250
 ---
 
 Aunque su papel como Sam en la serie infantil iCarly - que ya prepara nuevos episodios - le brindó fama mundial, Jennette McCurdy no se siente feliz al recordar sus participaciones en la pantalla chica. Así lo reveló durante una charla con Anna Faris para el podcast Empty Inside. "Estoy tan avergonzada de mi pasado actoral. Resentí mi carrera de muchas maneras. Me siento tan insatisfecha con los roles que interpreté y sentí que eran de lo más cursi", reveló la famosa, que también participó en programas como Malcolm el de en medio y Zoey 101. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Jorge Espinoza informa que ya no hay impedimento legal para que se realice audiencia de formulación de imputación; también podrán presentar cargos en contra del secretario del Ayuntamiento"
-image: /uploads/2021/images-DAH_3823.JPG
-video: nil
-audio: nil
-alt: Juzgado de Distrito negó amparo definitivo a alcaldesa en caso de nómina secreta -  Consejería
+image: "/uploads/2021/images-DAH_3823.JPG"
+video: "nil"
+audio: "nil"
+alt: "Juzgado de Distrito negó amparo definitivo a alcaldesa en caso de nómina secreta -  Consejería"
 front: false
-section: Local
+section: "Local"
+news_id: 182837
 ---
 
 El Juzgado Cuarto de Distrito negó nuevamente la suspensión definitiva a los amparos solicitados por la alcaldesa con licencia y el secretario del Ayuntamiento capitalino, para evitar la audiencia de formulación de imputación por beneficiarse de la “nómina secreta” del  exgobernador de Chihuahua.

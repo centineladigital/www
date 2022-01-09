@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La dependencia garantiza un espacio para todas y todos aquellos estudiantes que no fueron asignados en su primera opción   "
-image: /uploads/2021/images-resultados_(3).JPG
-video: nil
-audio: nil
-alt: Pública Educación resultados de nuevo ingreso a secundaria
+image: "/uploads/2021/images-resultados_(3).JPG"
+video: "nil"
+audio: "nil"
+alt: "Pública Educación resultados de nuevo ingreso a secundaria"
 front: false
-section: Local
+section: "Local"
+news_id: 186736
 ---
 
 El Gobierno del Estado a través de la Secretaría de Educación y Deporte (SEyD) informó que este lunes 16 de agosto fueron publicados los resultados de ubicación de estudiantes de nuevo ingreso a primer grado secundaria.

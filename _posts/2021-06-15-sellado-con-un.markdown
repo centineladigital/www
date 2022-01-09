@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "No importa el tiempo, no importa la distancia… dónde hubo fuego cenizas quedan y JLo lo ha confirmado dándole un tierno beso al actor Ben Affleck. "
-image: /uploads/2021/images-fotos-instagram-jlo-y-benaffleck.jpg
-video: nil
-audio: nil
-alt: ¡Sellado con un beso! Así confirmaron su relación Jennifer López y Ben Affleck
+image: "/uploads/2021/images-fotos-instagram-jlo-y-benaffleck.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Sellado con un beso! Así confirmaron su relación Jennifer López y Ben Affleck"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185038
 ---
 
 Después de 17 años de haber terminado su noviazgo parece que el ship ‘Bennifer’ vuelve a nuestras vidas, es como vivir el 2001 una vez más. Aunque ya se habían hecho ciertas especulaciones sobre su posible regreso en redes sociales por fin podemos confirmar que la relación es lo que sospechábamos: real. 

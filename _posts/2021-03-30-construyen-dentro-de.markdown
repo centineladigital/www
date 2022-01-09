@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Inversión fue al cien por ciento de la junta municipal de Delicias."
-image: /uploads/2021/images-OSCAR_IBAÑEZ.jpg
-video: nil
-audio: /uploads/2021/audio-MM04_OSCAR_IBAÑEZ.mp3
-alt: Construyen dentro de la pandemia planta tratadora
+image: "/uploads/2021/images-OSCAR_IBAÑEZ.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04_OSCAR_IBAÑEZ.mp3"
+alt: "Construyen dentro de la pandemia planta tratadora"
 front: false
-section: Local
+section: "Local"
+news_id: 183615
 ---
 
 Con una inversión de 60 millones de pesos la planta tratadora de aguas residuales que se ubica en la Ciudad de Delicias fue construida dentro de la pandemia, según lo dio a conocer el titular de la Junta Central de Agua y Saneamiento Oscar Ibañez. 

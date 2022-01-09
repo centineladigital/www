@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La secretaria general del Sindicato, Sofía Calzadillas, entregó el documento al secretario de Salud, Eduardo Fernández; ambos destacaron la coordinación alcanzada durante este último año de trabajo"
-image: /uploads/2021/images-LIBRO_SINDICATO_ICHISAL_(1).jpeg
-video: nil
-audio: nil
-alt: Entrega Sindicato de Ichisal libro sobre Condiciones Generales de Trabajo del Instituto Chihuahuense de la Salud   
+image: "/uploads/2021/images-LIBRO_SINDICATO_ICHISAL_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Entrega Sindicato de Ichisal libro sobre Condiciones Generales de Trabajo del Instituto Chihuahuense de la Salud   "
 front: false
-section: Local
+section: "Local"
+news_id: 186377
 ---
 
 El secretario de Salud, Eduardo Fernández Herrera, recibió del Sindicato Único de Trabajadores del Instituto Chihuahuense de la Salud (Sutichs), el libro que reúne las Condiciones Generales de Trabajo del Instituto Chihuahuense de la Salud (Ichisal).

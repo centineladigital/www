@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante mexicana considera que en medio de la devastadora pandemia de covid-19 hay cierta hipocresía hacia los inmigrantes a los que se mantiene trabajando en puestos esenciales en plena pandemia. "
-image: /uploads/2021/images-lila-downs-pide-reconocimiento-inmigrantes_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Hay cierta hipocresía -  Lila Downs pide reconocimiento a inmigrantes en EU
+image: "/uploads/2021/images-lila-downs-pide-reconocimiento-inmigrantes_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hay cierta hipocresía -  Lila Downs pide reconocimiento a inmigrantes en EU"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182584
 ---
 
 Lila Downs tacha de "hipocresía" la actitud de Estados Unidos hacia los inmigrantes a los que se mantiene trabajando en puestos esenciales en medio de la pandemia del coronavirus sin darles nada a cambio. La cantautora mexicana también reflexiona sobre la idea que dio luz a su nuevo sencillo, "Dark Eyes", que se estrena este viernes. En entrevista telefónica con Efe desde Oaxaca, México, Lila Downs opina que en medio de la devastadora pandemia de covid-19 "hay cierta hipocresía de los gobiernos, especialmente en Estados Unidos, donde hay una doble razón para mantener a los migrantes en estos trabajadores esenciales". 

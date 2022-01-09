@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Continuará Alejandro Domínguez como dirigente del PRI."
-image: /uploads/2021/images-ALEJANDRO.jpg
-video: /uploads/2021/videos-ML02_ALEJANDRO_DOMINGUEZ.mp4
-audio: /uploads/2021/audio-ALEJANDRO.jpg
-alt: Alargarán 90 días más dirigencia estatal del PRI
+image: "/uploads/2021/images-ALEJANDRO.jpg"
+video: "/uploads/2021/videos-ML02_ALEJANDRO_DOMINGUEZ.mp4"
+audio: "/uploads/2021/audio-ALEJANDRO.jpg"
+alt: "Alargarán 90 días más dirigencia estatal del PRI"
 front: false
-section: Local
+section: "Local"
+news_id: 185997
 ---
 
 Un plazo de 90 días es lo que se alargará la dirigencia Estatal del Partido Revolucionario Institucional, según lo dio a conocer el líder tricolor Alejandro Domínguez Domínguez, quien señaló que esto se da tras un acuerdo emitido por el dirigente nacional Alejandro Moreno.

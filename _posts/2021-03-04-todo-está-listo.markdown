@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "'La Voz Kids' arrancará este mes de marzo: fecha y coaches ya están listos para dar inicio a una producción más del programa de televisión. "
-image: /uploads/2021/images-anuncian-fecha-estreno-voz-kids.jpg
-video: nil
-audio: nil
-alt: ¡Todo está listo! La Voz Kids 2021 tiene fecha de estreno y coaches preparados para arrancar
+image: "/uploads/2021/images-anuncian-fecha-estreno-voz-kids.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Todo está listo! La Voz Kids 2021 tiene fecha de estreno y coaches preparados para arrancar"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183283
 ---
 
 La Voz es uno de los programas más populares de la televisión mexicana, y su edición Kids, donde participan niños con auténtico talento, no es la excepción. Hace poco conocimos a los coaches que formarán parte de esta edición, y ahora la producción dio a conocer la fecha de arranque a través de redes sociales. Después de que en la edición 2020 acompañaran Ricardo Montaner, María José, Christian Nodal y Belinda como coaches, en esta edición repetirán sólo 'Beli' y María José, para que se incorporen Camilo y los hermanos Mau y Ricky, hijos de Montaner. 

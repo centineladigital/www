@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Debido a los daños en la estructura es necesaria la demolición total"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Será demolida vivienda siniestrada en Villas del Real -  Protección Civil Municipal
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Será demolida vivienda siniestrada en Villas del Real -  Protección Civil Municipal"
 front: false
-section: Local
+section: "Local"
+news_id: 182332
 ---
 
 La Coordinación Municipal de Protección Civil trabaja de forma conjunta con la Dirección de Obras Públicas para proceder, entre hoy y mañana, a la demolición de la vivienda siniestrada el pasado martes en la colonia Villas del Real a causa de una explosión que dejó en el probable responsable quemaduras en algunas partes de su cuerpo.

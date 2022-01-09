@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los actores cumplen siete años como pareja y tras convertirse en padres, celebraron con emotivos mensajes. "
-image: /uploads/2021/images-fernanda-castillo-erik-hayser-celebran.jpg
-video: nil
-audio: nil
-alt: “Te amo con el alma; el emotivo mensaje de Fernanda Castillo y Erik Hayser por su aniversario
+image: "/uploads/2021/images-fernanda-castillo-erik-hayser-celebran.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Te amo con el alma; el emotivo mensaje de Fernanda Castillo y Erik Hayser por su aniversario"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185342
 ---
 
 Fernanda Castillo y Erik Hayser son una de las parejas consentidas del medio del espectáculo y con la llegada de su pequeño Liam la familia ha crecido y se ha consolidado. A inicios de año las complicaciones de la actriz encendieron las alertas entre sus fans, pues incluso tuvo que ser hospitalizada de emergencia ante los problemas presentados tras el nacimiento de su primer hijo. 

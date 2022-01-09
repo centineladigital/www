@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Al iniciar operaciones el precio del dólar hoy jueves fue de hasta 20.47 pesos en bancos. En tanto, el tipo de cambio interbancario se ubica en 20.05 pesos por dólar, con una pérdida de 0.65 por ciento. "
-image: /uploads/2021/images-tipo-de-cambio-peso-dolar-77.jpg
-video: nil
-audio: nil
-alt: Precio del dólar hoy -  Peso baja tras minuta de la Fed y preocupación por variante Delta.
+image: "/uploads/2021/images-tipo-de-cambio-peso-dolar-77.jpg"
+video: "nil"
+audio: "nil"
+alt: "Precio del dólar hoy -  Peso baja tras minuta de la Fed y preocupación por variante Delta."
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185457
 ---
 
 En tanto, el tipo de cambio interbancario se ubica en 20.05 pesos por dólar, con una pérdida de 0.65 por ciento. Citibanamex vende el dólar hasta en 20.47 pesos, mientras Banorte lo hace en 20.30 pesos, BBVA México en 20.09 y Banco Azteca en 20.09 unidades.

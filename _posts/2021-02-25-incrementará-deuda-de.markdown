@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Universidad Autónoma de Chihuahua espera recibir 260 millones de pesos para abonarle a Pensiones Civiles del Estado"
-image: /uploads/2021/images-Uach.jpg
-video: nil
-audio: nil
-alt: Incrementará deuda de UACH a pensiones mientras no se reforme la ley
+image: "/uploads/2021/images-Uach.jpg"
+video: "nil"
+audio: "nil"
+alt: "Incrementará deuda de UACH a pensiones mientras no se reforme la ley"
 front: false
-section: Local
+section: "Local"
+news_id: 183147
 ---
 
 El maestro Luis Alberto Fierro Ramírez, rector de la universidad, mencionó que la Secretaría de Hacienda les adeuda una gran cantidad de millones, los cuales serán canalizados a Pensiones Civiles del Estado.

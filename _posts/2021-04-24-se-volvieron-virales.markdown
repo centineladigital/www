@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante desde hace algún tiempo ha generado polémica en redes sociales por las fotos que ha compartido en Instagram. "
-image: /uploads/2021/images-alejandro-fernandez-criticado-volviera-viral_54_288_691_430.jpg
-video: nil
-audio: nil
-alt: ¡Se volvieron virales! Las fotos con las que Alejandro Fernández ha causado polémica
+image: "/uploads/2021/images-alejandro-fernandez-criticado-volviera-viral_54_288_691_430.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Se volvieron virales! Las fotos con las que Alejandro Fernández ha causado polémica"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184086
 ---
 
 Además de ser hijo de uno de los grandes cantantes de México, Alejandro Fernández es conocido por tener un gran talento. Sus canciones, ya sean del género pop, ranchera o balada, están dentro del playlist de más de uno.  Durante su trayectoria se ha visto en vuelto en varias polémicas.  Aunque es un cantante muy exitoso, su vida privada ha hecho que se hable de él en redes sociales, sobre todo si se difunden fotografías que lo comprometen. A continuación, te mostramos algunas de sus fotos más polémicas y la historia detrás de ellas 

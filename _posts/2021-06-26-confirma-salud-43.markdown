@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Suman 70  mil 233 contagios y 7 mil 346 fallecimientos; a la fecha se han recuperado de la enfermedad 59 mil 224 personas"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Confirma Salud 43 casos y 12 decesos por COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Confirma Salud 43 casos y 12 decesos por COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 185263
 ---
 
 Un total general de 70 mil 233 de casos de COVID-19 registra la Secretaría de Salud luego de que se confirmaran 43 nuevos contagios en el último reporte epidemiológico estatal.

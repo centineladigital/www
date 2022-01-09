@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "A la fecha el proyecto del Tren Maya ha generado 77 mil 637 empleos en el sureste de México"
-image: /uploads/2021/images-sociedad-mexicana-realice-proyectos-afecten.jpg
-video: nil
-audio: nil
-alt: Tren Maya contará con 107 pasos ganaderos a lo largo de la ruta
+image: "/uploads/2021/images-sociedad-mexicana-realice-proyectos-afecten.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tren Maya contará con 107 pasos ganaderos a lo largo de la ruta"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186737
 ---
 
 El Fondo Nacional de Fomento al Turismo (Fonatur) informó que el Tren Maya contará con 107 pasos ganadores, que ayudarán a las comunidades a mantener la conexión y permeabilidad a lo largo de la ruta. El Fonatur indicó que una de estas infraestructuras se edificará en la carretera Kantunil – Cancún. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Privar a los aficionados procedentes de Italia y de España de asistir a la semifinal de la Eurocopa es muy injusto. "
-image: /uploads/2021/images-roberto-mancini-en-conferencia-de_0_27_1200_746.jpeg
-video: nil
-audio: nil
-alt: Roberto Mancini, inconforme por ausencia de aficionados en la semifinal Italia vs España
+image: "/uploads/2021/images-roberto-mancini-en-conferencia-de_0_27_1200_746.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Roberto Mancini, inconforme por ausencia de aficionados en la semifinal Italia vs España"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185458
 ---
 
 Privar a los aficionados procedentes de Italia y de España de asistir a la semifinal de la Eurocopa es "muy injusto", lamentó el seleccionador italiano, Roberto Mancini, este lunes, víspera del partido jugado bajo alta vigilancia sanitaria. 

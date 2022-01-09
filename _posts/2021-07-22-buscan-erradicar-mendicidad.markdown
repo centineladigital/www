@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Menores son expuestos a trata de personas."
-image: /uploads/2021/images-M2.jpg
-video: nil
-audio: /uploads/2021/audio-MJ06_MARISELA_TERRAZAS.mp4
-alt: Buscan erradicar mendicidad en menores
+image: "/uploads/2021/images-M2.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ06_MARISELA_TERRAZAS.mp4"
+alt: "Buscan erradicar mendicidad en menores"
 front: false
-section: Local
+section: "Local"
+news_id: 185917
 ---
 
 Con la reforma de la ley de protección de niños, niñas y adolescentes se busca de proteger a la infancia de acciones de mendicidad, según fue dado a conocer por parte de Marisela Terrazas, diputada panista.

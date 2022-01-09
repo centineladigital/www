@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Natti Natasha reveló lo que tuvo que pasar para convertirse en mamá, desde depresión hasta tratamiento hormonal. "
-image: /uploads/2021/images-natti-natasha-aparece-golpe-cara_0_77_958_596.jpg
-video: nil
-audio: nil
-alt: Tú no puedes tener hijos; Natti Natasha será mamá, narra lo difícil que fue embarazarse
+image: "/uploads/2021/images-natti-natasha-aparece-golpe-cara_0_77_958_596.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tú no puedes tener hijos; Natti Natasha será mamá, narra lo difícil que fue embarazarse"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183038
 ---
 
 Desde niña, Natti Natasha tenía claro un objetivo: convertirse en mamá, era uno de sus deseos o como ella dice "siempre lo vi como algo que iba a pasar"; sin embargo, debido a que sufrió de quistes en su matriz a la cantante le tuvieron que quitar una trompa uterina, lo que le complicó su pasó a ser madre. En entrevista con People, Natti Natasha reveló lo que tuvo que pasar para convertirse en mamá, desde depresión y ansiedad hasta tratamientos hormonales que en un principio no le funcionaron debido a que no producía los suficientes óvulos. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Pide licencia José Alfredo Chávez Madrid."
-image: /uploads/2021/images-protesta1.jpg
-video: nil
-audio: /uploads/2021/audio-MW05_MARIA_ANGELICA_GRANADOS.mp3
-alt: Toman protesta a regidor 
+image: "/uploads/2021/images-protesta1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW05_MARIA_ANGELICA_GRANADOS.mp3"
+alt: "Toman protesta a regidor "
 front: false
-section: Local
+section: "Local"
+news_id: 182347
 ---
 
 La aprobación de licencia para separarse del cargo por parte de José Alfredo Chávez Madrid, integrante de la fracción edilicia del Partido Acción Nacional. Una vez autorizada de forma unánime se llevó a cabo la toma de protesta por parte de su suplente.

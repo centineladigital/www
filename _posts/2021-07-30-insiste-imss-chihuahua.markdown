@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Para un Verano Seguro, es necesario continuar con las medidas de prevención para evitar contagios de COVID-19 "
-image: /uploads/2021/images-Foto_3562-1.jpg
-video: nil
-audio: nil
-alt: Insiste IMSS Chihuahua en romper cadenas de infección en esta temporada vacacional
+image: "/uploads/2021/images-Foto_3562-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Insiste IMSS Chihuahua en romper cadenas de infección en esta temporada vacacional"
 front: false
-section: Local
+section: "Local"
+news_id: 186133
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua invita a la población a romper las cadenas de infección en esta temporada, para tener un verano seguro. 

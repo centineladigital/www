@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Las presas del estado aun no alcanzan su capacidad de captación  "
-image: /uploads/2021/images-SOLIS.jpeg
-video: /uploads/2021/videos-MARTIN_SOLIS.mp4
-audio: nil
-alt: Se lleva captado solo el 35% de la capacidad de las presas  del estado
+image: "/uploads/2021/images-SOLIS.jpeg"
+video: "/uploads/2021/videos-MARTIN_SOLIS.mp4"
+audio: "nil"
+alt: "Se lleva captado solo el 35% de la capacidad de las presas  del estado"
 front: false
-section: Local
+section: "Local"
+news_id: 186959
 ---
 
 El ingeniero Martín Solís Bustamante  director de fomento agropecuario M.V.Z  manifestó  que pese a las incesantes lluvias aun no se ha logrado llenar las presas a su máxima capacidad, según el reporte de fomento agropecuario  la capacidad de captación en las 10 presas  del estado es de 3mil 861 millones de metros cúbicos de los cuales solo se llevan captados mil 366 millones lo que corresponde a 35% de su capacidad.

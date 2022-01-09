@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las perdidas, solo en ventas, ascienden a 17 mil millones de dólares"
-image: /uploads/2021/images-Rodolfo_Vázquez_Traina.jpg
-video: nil
-audio: nil
-alt: La industria registra pérdidas millonarias debido carencia de gas
+image: "/uploads/2021/images-Rodolfo_Vázquez_Traina.jpg"
+video: "nil"
+audio: "nil"
+alt: "La industria registra pérdidas millonarias debido carencia de gas"
 front: false
-section: Local
+section: "Local"
+news_id: 183003
 ---
 
 Se calcula que las perdidas en el sector industrial asciende a más de 17 mil millones de dólares, solo en ventas, señaló Rodolfo Vázquez Traina, Secretario de Innovación y Desarrollo Económico en Chihuahua.

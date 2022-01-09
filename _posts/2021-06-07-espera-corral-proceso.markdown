@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señala que no puede defenderse por su investidura."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-ML04.mp3
-alt: Espera Corral proceso de expulsión
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04.mp3"
+alt: "Espera Corral proceso de expulsión"
 front: false
-section: Local
+section: "Local"
+news_id: 184908
 ---
 
 El mandatario de Chihuahua, Javier Corral Jurado, señaló que espera el proceso de expulsión en su contra, esto luego de que el presidente del Directivo Municipal en Chihuahua diera a conocer que la solicitud se encuentra en la ciudad de México.

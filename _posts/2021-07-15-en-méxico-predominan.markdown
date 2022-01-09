@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En México hay 3 mil 758 casos confirmados con las variantes de preocupación, que debido a su mayor transmisibilidad pueden tener un cambio perjudicial en la epidemiología, incluso de una mayor virulencia, pero hasta el momento no se ha comprobado. "
-image: /uploads/2021/images-1624312967_220090_1624313149_noticia_normal_recorte1.jpg
-video: nil
-audio: nil
-alt: En México predominan variantes ‘Gamma’, ‘Delta’ y ‘Alpha’
+image: "/uploads/2021/images-1624312967_220090_1624313149_noticia_normal_recorte1.jpg"
+video: "nil"
+audio: "nil"
+alt: "En México predominan variantes ‘Gamma’, ‘Delta’ y ‘Alpha’"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185705
 ---
 
 Las variantes covid-19 de preocupación que circulan, predominantemente en México, con un 70 por ciento de prevalencia son Gamma (linaje P.1, P.1.1 y P.1.2 conocida también como brasileña), Delta (detectada en la India B1.617.2), y Alpha (B.1.1.7, detectada en el Reino Unido), informó Ernesto Ramírez González, titular de la Unidad de Desarrollo Tecnológico e Investigación Molecular del Instituto de Diagnóstico y Referencia Epidemiológicos (InDRE). 

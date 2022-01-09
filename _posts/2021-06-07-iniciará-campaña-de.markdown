@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Será para jóvenes de 18 a 39 años."
-image: /uploads/2021/images-CORRAL1.jpg
-video: nil
-audio: /uploads/2021/audio-ML02.mp3
-alt: Iniciará campaña de vacunación a jóvenes en la frontera
+image: "/uploads/2021/images-CORRAL1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML02.mp3"
+alt: "Iniciará campaña de vacunación a jóvenes en la frontera"
 front: false
-section: Local
+section: "Local"
+news_id: 184910
 ---
 
 Con la donación de un millón de vacunas por parte del Gobierno de Estados Unidos, se aplicarán vacunas a jóvenes de entre 18 y 39 años que radican en Ciudad Juárez, según lo dio a conocer el Gobernador del Estado, Javier Corral Jurado.

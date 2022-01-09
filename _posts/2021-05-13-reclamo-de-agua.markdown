@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Buscará las medidas para que se dé una aplicación e implementación de líneas moradas."
-image: /uploads/2021/images-PEDRO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ02_PEDRO_BERISTAIN.mp3
-alt: Reclamo de agua el más sentido -  Beristain
+image: "/uploads/2021/images-PEDRO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ02_PEDRO_BERISTAIN.mp3"
+alt: "Reclamo de agua el más sentido -  Beristain"
 front: false
-section: Local
+section: "Local"
+news_id: 184450
 ---
 
 El candidato del PRI por el distrito VII federal, Pedro Beristain, destacó que dentro de los reclamos más sentidos de la población se encuentra el contar con agua potable. Es por ello que dentro de sus propuestas se enfocó a darle importancia al tema.

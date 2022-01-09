@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Reporte epidemiológico registra 2 fallecimientos más en Juárez para un acumulado de 7,710 "
-image: /uploads/2021/images-Informe_tecnico_04_agosto_page-0002.jpg
-video: nil
-audio: nil
-alt:  Confirma Secretaría de Salud 108 nuevos contagios de COVID-19 para un total de 73,402
+image: "/uploads/2021/images-Informe_tecnico_04_agosto_page-0002.jpg"
+video: "nil"
+audio: "nil"
+alt: " Confirma Secretaría de Salud 108 nuevos contagios de COVID-19 para un total de 73,402"
 front: false
-section: Local
+section: "Local"
+news_id: 186328
 ---
 
 La Secretaría de Salud confirmó 108 contagios de COVID-19 en el último reporte para un total general de 73 mil 410 casos, mientras que los fallecimientos aumentaron a 7 mil 710 luego del deceso de 2 personas en el municipio de Juárez. Además, documentó que hay 62 mil 648 pacientes recuperados (+82), así como 45 mil 912 casos descartados (+493)  y 734 sospechosos (+76).

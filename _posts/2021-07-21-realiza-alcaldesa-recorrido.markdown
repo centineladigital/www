@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La Presidenta Municipal realizó un recorrido por las zonas afectadas de la ciudad con motivo de las lluvias que se registraron el pasado lunes 19 de julio"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Realiza Alcaldesa recorrido en zonas afectadas por lluvias
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Realiza Alcaldesa recorrido en zonas afectadas por lluvias"
 front: false
-section: Local
+section: "Local"
+news_id: 185860
 ---
 
 Durante el recorrido verificó las afectaciones y zonas que se inundaron; asimismo entregó tramos de hule, despensas e insumos COVID, así como láminas a quién lo solicitó.

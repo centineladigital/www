@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La abogada de Jamie Spears insiste en que la única intención del padre -que controla todos los bienes y decisiones de Britney - es proteger a su hija. "
-image: /uploads/2021/images-britney-spears-demuestra-gusta-regueton.jpg
-video: nil
-audio: nil
-alt: Depende de ella -  Papá de Britney Spears asegura que le encantaría terminar su tutela
+image: "/uploads/2021/images-britney-spears-demuestra-gusta-regueton.jpg"
+video: "nil"
+audio: "nil"
+alt: "Depende de ella -  Papá de Britney Spears asegura que le encantaría terminar su tutela"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183269
 ---
 
 Tras la salida del documental Framing Britney Spears, que cuestiona varios aspectos de la tutela legal de Britney Spears, el padre de la cantante, Jamie Spears, aseguró a través de su abogada que "nada le gustaría más" que ver a su hija sin necesidad de esta situación legal.  "El fin o no de la tutela realmente depende de ella. Si quiere terminar su tutela, puede presentar una petición para terminarla", dijo en una entrevista con CNN la representante legal del padre, Vivian Lee Thoreen. 

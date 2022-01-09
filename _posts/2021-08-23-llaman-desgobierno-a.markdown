@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Es el peor gobernador del país"
-image: /uploads/2021/images-WhatsApp_Image_2021-08-23_at_2.32.16_PM.jpeg
-video: /uploads/2021/videos-WhatsApp_Video_2021-08-23_at_1.36.58_PM_(1).mp4
-audio: nil
-alt: Llaman desgobierno a la administración de Javier Corral
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-23_at_2.32.16_PM.jpeg"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-08-23_at_1.36.58_PM_(1).mp4"
+audio: "nil"
+alt: "Llaman desgobierno a la administración de Javier Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 187023
 ---
 
 “Es un festejo que estamos haciendo los transportistas  donde le estamos diciendo a Javier Corral que se va, que se termina su desgobierno”, estas fueron las palabras del líder de transportistas de la federación de sindicatos e independientes de Chihuahua  Francisco Salcido Lozoya ante la manifestación en palacio de gobierno.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Presidente dijo que el establecer precios máximos para la venta es una medida de emergencia y transitoria para evitar abusos"
-image: /uploads/2021/images-5063551.jpg
-video: nil
-audio: nil
-alt: Gobierno no será rehén; AMLO descarta quitar tope de precios a gas LP ante protestas
+image: "/uploads/2021/images-5063551.jpg"
+video: "nil"
+audio: "nil"
+alt: "Gobierno no será rehén; AMLO descarta quitar tope de precios a gas LP ante protestas"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186273
 ---
 
 El presidente Andrés Manuel López Obrador descartó retirar los precios máximos para la venta de gas LP, a pesar de las protestas de los distribuidores en el Valle de México, pues aseguró que "el gobierno no será rehén de quienes buscan aprovecharse". 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "“Nunca un Gobierno estatal tuvo esta presencia, y eso que empezamos quebrados. Vamos a invertir en Morelos más de 90 millones de pesos en toda la administración”: Javier Corral"
-image: /uploads/2021/images-_DSC2959.JPG
-video: nil
-audio: nil
-alt: Entrega Gobernador obras sociales por 5.3 mdp a los habitantes de Morelos
+image: "/uploads/2021/images-_DSC2959.JPG"
+video: "nil"
+audio: "nil"
+alt: "Entrega Gobernador obras sociales por 5.3 mdp a los habitantes de Morelos"
 front: false
-section: Local
+section: "Local"
+news_id: 182190
 ---
 
 El gobernador Javier Corral Jurado, acompañado por su esposa y presidenta del DIF Estatal, Cinthia Aidé Chavira de Corral, entregó en Morelos obras por 5 millones 353 mil pesos, con recursos provenientes del Fondo de Reparación Justicia para Chihuahua.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los descubrimientos fueron realizados a raíz de la presentación de una denuncia a cargo de la Secretaría de Hacienda de la actual administración"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Simularon contratos por 542.3 mdp para cubrir desvíos de nómina secreta
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Simularon contratos por 542.3 mdp para cubrir desvíos de nómina secreta"
 front: false
-section: Local
+section: "Local"
+news_id: 181994
 ---
 
 En el marco de la Operación Justicia para Chihuahua, se detectó que en los ejercicios fiscales del 2012 al 2015 de la administración estatal, se emitieron 103 cheques a favor del Gobierno del Estado y/o Secretaría de Hacienda, por un total de 542 millones 365 mil 800 pesos, informó la secretaria de la Función Pública, Mónica Vargas Ruiz.

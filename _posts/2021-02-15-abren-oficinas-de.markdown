@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Inviertesm 500 mil pesos en la edifiación de las oficinas,"
-image: /uploads/2021/images-WENDYC.jpg
-video: nil
-audio: /uploads/2021/audio-ML04.mp3
-alt: Abren oficinas de Fiscalía de la Mujer en Crel
+image: "/uploads/2021/images-WENDYC.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04.mp3"
+alt: "Abren oficinas de Fiscalía de la Mujer en Crel"
 front: false
-section: Local
+section: "Local"
+news_id: 182940
 ---
 
 Con una inversión de medio millón de pesos fueron abiertas las oficinas de Fiscalía de la Mujer inaugura oficina de Creel Bocoyna, según lo dio a conocer la Fiscal Especializada de la Mujer, Wendy Paola Chávez Villanueva.

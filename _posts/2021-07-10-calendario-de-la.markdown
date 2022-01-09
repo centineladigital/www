@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Este sábado 10 de julio arranca la Copa Oro 2021 con la fase de grupos, competición en la que la selección mexicana parte como favorita para conquistar el título debido a su gran historial que tienen en la Concacaf."
-image: /uploads/2021/images-CALENDARIO-COPA-ORO_17952051.jpg
-video: nil
-audio: nil
-alt: Calendario de la Copa Oro 2021 -  fechas, horarios, sedes y grupos
+image: "/uploads/2021/images-CALENDARIO-COPA-ORO_17952051.jpg"
+video: "nil"
+audio: "nil"
+alt: "Calendario de la Copa Oro 2021 -  fechas, horarios, sedes y grupos"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185542
 ---
 
 Al igual que cualquier competencia deportiva, este torneo se estará celebrando en medio de la pandemia del coronavirus, por lo que varias de las sedes no podrán contar con el 100 por ciento del aforo total debido a las restricciones. 

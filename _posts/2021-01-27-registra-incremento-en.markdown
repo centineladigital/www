@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se confirman 209 personas que dieron positivo a la prueba PCR y 10 defunciones."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp3
-alt: Registra incremento en casos COVID
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp3"
+alt: "Registra incremento en casos COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 182497
 ---
 
 Tras registrarse varios días con casos menores a cien este miércoles se dio a conocer el incremento de casos de personas contagiadas por coronavirus al registrarse 209 personas que dieron positivo a la prueba PCR, según fue dado a conocer por parte del Director Médico de la Zona Norte, Arturo Valenzuela Zorrilla.

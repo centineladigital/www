@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un grupo de mujeres guardianes del bosque luchan incansablemente para combatir conflagraciones por horas y hasta por semanas"
-image: /uploads/2021/images-_DSC2701.JPG
-video: nil
-audio: nil
-alt: Son heroínas y combaten las llamas en los bosques de Chihuahua
+image: "/uploads/2021/images-_DSC2701.JPG"
+video: "nil"
+audio: "nil"
+alt: "Son heroínas y combaten las llamas en los bosques de Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 185109
 ---
 
 En las brigadas de Gobierno del Estado de Chihuahua refulgen, más que el fuego, pequeñas grandes mujeres que trabajan hasta cinco días continuos en el combate de los incendios.

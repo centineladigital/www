@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Será una semana agradable con vientos moderados, excepto el martes"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Se esperan fuertes vientos de hasta 77 kilómetros por hora para el martes en la ciudad
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se esperan fuertes vientos de hasta 77 kilómetros por hora para el martes en la ciudad"
 front: false
-section: Local
+section: "Local"
+news_id: 183420
 ---
 
 A pesar de que esta semana las temperaturas se tornarán relativamente agradables, en víspera de la entrada de la primavera, aún se esperan noches y madrugadas frías, por cuya razón es importante tomar las debidas precauciones para evitar problemas de salud, así lo informó la Coordinación Municipal de Protección Civil, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional.

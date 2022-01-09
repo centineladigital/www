@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Según un sondeo en CDMX, Edomex, Tlaxcala, Guanajuato, Querétaro, Tabasco, Nuevo León, Jalisco e Hidalgo; dejan a la fuerza de mercado el ajuste a precios: Anpec"
-image: /uploads/2021/images-2580349.jpg
-video: nil
-audio: nil
-alt: Alertan por aumentos en precios de jitomate, chile, tortilla…
+image: "/uploads/2021/images-2580349.jpg"
+video: "nil"
+audio: "nil"
+alt: "Alertan por aumentos en precios de jitomate, chile, tortilla…"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184511
 ---
 
 La Alianza Nacional de Pequeños Comerciantes (Anpec) reportó la variación de precios de los productos de la canasta básica de acuerdo a un sondeo de mercado hecho del 15 abril al 15 de mayo en la Ciudad de México, el Estado de México, Tlaxcala, Guanajuato, Querétaro, Tabasco, Nuevo León, Jalisco e Hidalgo.

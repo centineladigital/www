@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La gobernadora electa de Chihuahua, Maru Campos, ha demostrado que para ella la cultura chihuahuense ha sido una prioridad, desde su gobierno en el municipio de Chihuahua y permanecerá de tal forma en el Gobierno del Estado que está próxima a encabezar"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Escucha Maru Campos voces de los sectores culturales; permanecerá Cultura como Secretaría
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Escucha Maru Campos voces de los sectores culturales; permanecerá Cultura como Secretaría"
 front: false
-section: Local
+section: "Local"
+news_id: 187099
 ---
 
 César Jáuregui, del equipo de transición del gobierno entrante, dio a conocer que por instrucciones de la gobernadora electa, Maru Campos, se ha tomado la decisión de retirar la propuesta de convertir la Secretaría de Cultura en un organismo desconcentrado y en ese mismo sentido que el Instituto del Deporte y Cultura Física permanezca como organismo descentralizado.

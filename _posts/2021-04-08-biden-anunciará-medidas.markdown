@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente anunciará seis medidas para hacer frente a la epidemia sanitaria vinculada a la violencia de las armas de fuego, adelantó un funcionario de la Casa Blanca que pidió el anonimato"
-image: /uploads/2021/images-2558893.jpg
-video: nil
-audio: nil
-alt: Biden anunciará medidas para controlar las armas en EU
+image: "/uploads/2021/images-2558893.jpg"
+video: "nil"
+audio: "nil"
+alt: "Biden anunciará medidas para controlar las armas en EU"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183754
 ---
 
 El presidente de Estados Unidos, Joe Biden, anunciará este jueves medidas para limitar las armas de fuego, en particular para prevenir la propagación de las "armas fantasma", imposibles de rastrear.

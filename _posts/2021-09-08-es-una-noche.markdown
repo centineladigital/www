@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El chileno debutó con Raya2 en el empate sin goles frente a Tampico Madero "
-image: /uploads/2021/images-humberto-suazo-debuto-raya-liga_0_53_1200_746.jpg
-video: nil
-audio: nil
-alt: Es una noche histórica -  Aldo De Nigris tras debut de 'Chupete' Suazo
+image: "/uploads/2021/images-humberto-suazo-debuto-raya-liga_0_53_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "Es una noche histórica -  Aldo De Nigris tras debut de 'Chupete' Suazo"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187535
 ---
 
 Raya2 empató a cero goles ante el invicto Tampico Madero, pero fuera de jugarle al tú por tú a este experimentado rival, la noche del martes en Guadalupe fue histórica, luego de que Humberto Suazo sumó sus primeros minutos en su retorno al balompié regio en esta Liga de Expansión, ante esto, Aldo De Nigris, estratega del conjunto Rayado, habló sobre cómo vio a su ex compañero de equipo. 

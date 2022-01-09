@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El presidente destaca que es un derecho constitucional que establece se puede acceder a este apoyo a partir de los 65 años; Luis Cresencio Sandoval no recibe pensión, aclara"
-image: /uploads/2021/images-2600554.jpg
-video: nil
-audio: nil
-alt: ‘Recibiré mi tarjeta de pensión del adulto mayor’ -  López Obrador
+image: "/uploads/2021/images-2600554.jpg"
+video: "nil"
+audio: "nil"
+alt: "‘Recibiré mi tarjeta de pensión del adulto mayor’ -  López Obrador"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185215
 ---
 
 Al desmentir que el secretario de la Defensa Nacional (Sedena), Luis Cresencio Sandoval, recibe la pensión de adulto mayor, el presidente Andrés Manuel López Obrador anunció que pronto accederá a este apoyo como lo dicta la constitución y porque “es universal”.

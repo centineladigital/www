@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gloria Calzada recordó la ocasión en que Chayanne coqueteó con ella, pero lo rechazó. La conductora contó cómo fue ese especial momento. "
-image: /uploads/2021/images-la-conductora-conto-por-que_20_0_1045_650.jpg
-video: nil
-audio: nil
-alt: Me hablaba muy cerquita -  Gloria Calzada recuerda la ocasión que rechazó a Chayanne
+image: "/uploads/2021/images-la-conductora-conto-por-que_20_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me hablaba muy cerquita -  Gloria Calzada recuerda la ocasión que rechazó a Chayanne"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187212
 ---
 
 Chayanne es uno de los cantantes más reconocidos en México y no por nada, muchos aseguran que es su padre, esto debido a que la mayoría de las mujeres caen rendidas antes el puertorriqueño, pero al parecer alguien que se resistió a los encantos del intérprete de “Torero” fue Gloria Calzada, quien lo rechazó. 

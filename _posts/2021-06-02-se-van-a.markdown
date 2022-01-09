@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Martha Figueroa se lanzó en contra de Alessandra Rosaldo por presuntamente ‘tratar mal’ a Eugenio Derbez. La famosa respondió y explicó si hay problemas en su relación. ¿Se llevan mal? ¿Ya no se aguantan? ¿Pronto se van a divorciar? "
-image: /uploads/2021/images-alessandra-rosaldo-eugenio-derbez-divorciar.jpg
-video: nil
-audio: nil
-alt: ¿Se van a divorciar? Martha Figueroa critica a Alessandra Rosaldo por tratar mal a Eugenio Derbez
+image: "/uploads/2021/images-alessandra-rosaldo-eugenio-derbez-divorciar.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Se van a divorciar? Martha Figueroa critica a Alessandra Rosaldo por tratar mal a Eugenio Derbez"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184797
 ---
 
 Eugenio Derbez y Alessandra Rosaldo dieron mucho de qué hablar, luego de que se emitiera la segunda temporada de su serie De viaje con los Derbez 2. Y es que además de destapar algunos detalles sobre cada integrante, algunos conductores y especialistas de espectáculoslanzaron críticas hacia el contenido de la producción que se transmite por Amazon. Sin embargo, no faltó quien apuntó que quizá pronto se viene el divorcio entre Eugenio Derbez y Alessandra Rosaldo. Tal es el caso de Martha Figueroa, quien se lanzó en contra de Rosaldo por presuntamente ‘tratar mal’ a Eugenio Derbez. ¿Se llevan mal? ¿Ya no se aguantan? ¿Pronto se van a divorciar?  

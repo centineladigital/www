@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Promueve la Secretaría de Educación y Deporte fechas cívicas para fortalecer el sentido de civismo entre estudiantes"
-image: /uploads/2021/images-SEC_3775.JPG
-video: nil
-audio: nil
-alt: Conmemoran 104 Aniversario de la Promulgación  de la Constitución de 1917
+image: "/uploads/2021/images-SEC_3775.JPG"
+video: "nil"
+audio: "nil"
+alt: "Conmemoran 104 Aniversario de la Promulgación  de la Constitución de 1917"
 front: false
-section: Local
+section: "Local"
+news_id: 182735
 ---
 
 Con una ofrenda florar y guardia en honor a los constituyentes de 1917, autoridades educativas de la Secretaría de Educación y Deporte (SEyD) del Gobierno del Estado de Chihuahua conmemoraron el 104 Aniversario de la Promulgación de la Constitución Política de los Estados Unidos Mexicanos de 1917.

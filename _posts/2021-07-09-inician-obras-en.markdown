@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ponen  en marcha la reconstrucción de un parque en Vicente Guerrero (Copetes) e inician la primera etapa de rehabilitación de la red de distribución de agua potable. "
-image: /uploads/2021/images-1.JPG
-video: nil
-audio: nil
-alt: Inician obras en Belisario Domínguez  con recursos del Fondo de Operación Justicia para Chihuahua
+image: "/uploads/2021/images-1.JPG"
+video: "nil"
+audio: "nil"
+alt: "Inician obras en Belisario Domínguez  con recursos del Fondo de Operación Justicia para Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 185508
 ---
 
 Inicia Gobierno del Estado con inversión de un millón 306 mil 511.26 pesos, la primera etapa de los trabajos de rehabilitación del sistema de la red de distribución de agua potable en la comunidad de Santa Rosalía de Cuevas, municipio de Belisario Domínguez.

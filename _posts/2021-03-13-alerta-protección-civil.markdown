@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se prevé que la temperatura oscile entre los 25 y 7 grados Celsius"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Alerta Protección Civil Municipal por vientos que podrían superar los 80 kilómetros por hora
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Alerta Protección Civil Municipal por vientos que podrían superar los 80 kilómetros por hora"
 front: false
-section: Local
+section: "Local"
+news_id: 183410
 ---
 
 La Coordinación Municipal de Protección Civil alerta a la población en general ante el pronóstico de fuertes rachas de viento, que podrían superar los 80 kilómetros por hora, por lo cual exhorta a tomar en cuenta algunas recomendaciones con la intención de evitar incidentes que puedan poner en riesgo la integridad física o provocar daños materiales.

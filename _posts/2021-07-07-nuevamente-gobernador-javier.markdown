@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Después de haberse aislado en su domicilio al registrar fiebre la noche del martes, Laboratorio Estatal notifica resultado de la prueba molecular aplicada hoy; el mandatario estatal retomará su agenda pública."
-image: /uploads/2021/images-Javier_Corral.png
-video: nil
-audio: nil
-alt:  Nuevamente Gobernador Javier Corral da negativo a prueba de COVID-19.
+image: "/uploads/2021/images-Javier_Corral.png"
+video: "nil"
+audio: "nil"
+alt: " Nuevamente Gobernador Javier Corral da negativo a prueba de COVID-19."
 front: false
-section: Local
+section: "Local"
+news_id: 185437
 ---
 
 La prueba PCR para COVID-19 resultó negativa para el gobernador Javier Corral Jurado, quien retomará su agenda pública luego de que hoy trabajó desde su domicilio al registrar fiebre la noche del martes 6 de julio.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Juez Delia Valentina, fue la que instruyó a ambas partes a encontrarse en la Fiscalía General del Estado, para revisar las carpetas de investigación de las 30 mil fojas que le han entregado en distintas ocasiones"
-image: /uploads/2021/images-WhatsApp_Image_2021-03-10_at_9.03.52_AM.jpeg
-video: nil
-audio: nil
-alt: Llegan abogados de Maru para comparar carpeta en FGE
+image: "/uploads/2021/images-WhatsApp_Image_2021-03-10_at_9.03.52_AM.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Llegan abogados de Maru para comparar carpeta en FGE"
 front: false
-section: Local
+section: "Local"
+news_id: 183362
 ---
 
 Los abogados de María Eugenia Campos, María Ávila Serna y Rodrigo de la Rosa, acudieron esta mañana a las instalaciones de la Fiscalía General del Estado para realizar la comparación de la carpeta de investigación, con el fin de verificar que cuentan con los mismos documentos para dar paso a la audiencia inicial.

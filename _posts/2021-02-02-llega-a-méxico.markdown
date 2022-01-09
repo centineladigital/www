@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El canciller Marcelo Ebrard dio a conocer que será procesada por laboratorios Liomont; se estima que para fines de marzo principios ya se tenga la vacuna"
-image: /uploads/2021/images-2522260.jpg
-video: nil
-audio: nil
-alt: Llega a México segundo embarque de activo de AstraZeneca
+image: "/uploads/2021/images-2522260.jpg"
+video: "nil"
+audio: "nil"
+alt: "Llega a México segundo embarque de activo de AstraZeneca"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182614
 ---
 
 El canciller  Marcelo Ebrard informó que durante la madrugada de este martes llegó desde Argentina a México el segundo embarque de principio activo para las vacunas contra covid-19 de AstraZeneca.

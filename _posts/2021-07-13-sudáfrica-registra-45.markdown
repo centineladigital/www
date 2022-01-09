@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las autoridades provinciales confirmaron que fueron 10 las personas murieron en una estampida durante saqueos en un centro comercial de Soweto, al sudoeste de Johannesburgo. "
-image: /uploads/2021/images-saqueo-registrado-sudafrica-ocurrio-soweto_0_0_1024_637.jpg
-video: nil
-audio: nil
-alt: Sudáfrica registra 45 muertos y más de 700 detenidos por ola de violencia y saqueos
+image: "/uploads/2021/images-saqueo-registrado-sudafrica-ocurrio-soweto_0_0_1024_637.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sudáfrica registra 45 muertos y más de 700 detenidos por ola de violencia y saqueos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185594
 ---
 
 Los saqueos y la violencia que sacuden a Sudáfrica desde hace varios días tras la detención del ex presidente Jacob Zuma provocaron hoy 10 muertos, llegando a un total de 45 fallecidos en una serie de inusitados hechos que se generan a pesar del inicio del despliegue de soldados en las provincias afectadas. 

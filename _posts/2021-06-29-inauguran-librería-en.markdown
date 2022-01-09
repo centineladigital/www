@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esta librería llevará al nombre “Dolores Batista” reconociendo la trayectoria y obra de la escritora indígena."
-image: /uploads/2021/images-LANDA.jpg
-video: nil
-audio: /uploads/2021/audio-MM01.mp3
-alt: Inauguran librería en Ciudad Juárez
+image: "/uploads/2021/images-LANDA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM01.mp3"
+alt: "Inauguran librería en Ciudad Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 185298
 ---
 
 Una de las dos librerías que se construirán en Ciudad Juárez fue abierta este martes, esto como parte del maratón de obras que lleva a cabo la administración estatal. Esta obra será una forma en la que accesen los ciudadanos fronterizos a la lectura enriqueciendo la oferta de libros, ya que la falta de acceso de materiales de lectura es una de las principales problemas.

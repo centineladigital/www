@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con el fin de promover y fortalecer el sector turístico se tendrá la participación de 42 expositores"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Invitan Municipio y CANACO a celebrar Día Mundial del Turismo en Ex Hacienda del Torreón
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Invitan Municipio y CANACO a celebrar Día Mundial del Turismo en Ex Hacienda del Torreón"
 front: false
-section: Local
+section: "Local"
+news_id: 187719
 ---
 
 El Gobierno Municipal en coordinación con la Cámara Nacional de Comercio en Chihuahua (CANACO), invitan al público en general a celebrar el Día Mundial de Turismo el próximo 18 y 19 de septiembre en la Ex Hacienda del Torreón.

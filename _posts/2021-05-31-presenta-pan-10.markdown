@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto principalmente por acciones de Morena."
-image: /uploads/2021/images-PACO.jpg
-video: nil
-audio: /uploads/2021/audio-ML04_PACO_NAVARRO.mp3
-alt: Presenta PAN 10 denuncias ante IEE
+image: "/uploads/2021/images-PACO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04_PACO_NAVARRO.mp3"
+alt: "Presenta PAN 10 denuncias ante IEE"
 front: false
-section: Local
+section: "Local"
+news_id: 184755
 ---
 
 Más de 10 denuncias han sido presentadas ante el Instituto Estatal Electoral han sido presentadas por parte del Partido Acción Nacional en contra de Morena, según fue dado a conocer por parte del dirigente del partido albiazul a nivel municipal, Francisco Navarro Pastrana.

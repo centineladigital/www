@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El magistrado José Luis Vargas externó sus quejas alegando que no ha recibido respuesta a su solicitud de que la sesión convocada de manera privada sea pública. "
-image: /uploads/2021/images-el-tepjf-ha-demostrado-que.jpg
-video: nil
-audio: nil
-alt: Tribunal Electoral sesiona para definir a su presidente
+image: "/uploads/2021/images-el-tepjf-ha-demostrado-que.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tribunal Electoral sesiona para definir a su presidente"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187360
 ---
 
 Las y los magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación (TEPJF) dieron inicio a la sesión convocada para esta mañana en la que elegirán a su nuevo presidente, aunque previo al voto, el magistrado José Luis Vargas pidió una pausa para definir que la votación se realice de manera pública pues hasta ahora, no existe un consenso para votar de manera unánime a uno de sus integrantes.

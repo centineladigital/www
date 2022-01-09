@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Temas delicados como los de la Fiscalía y Hacienda se pondrían en riesgo y las autoridades electas y salientes también."
-image: /uploads/2021/images-ESPINOZA1.jpg
-video: nil
-audio: /uploads/2021/audio-MJ02.mp3
-alt: Por seguridad transición debe de llevarse en recintos oficiales -  Consejero Jurídico
+image: "/uploads/2021/images-ESPINOZA1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ02.mp3"
+alt: "Por seguridad transición debe de llevarse en recintos oficiales -  Consejero Jurídico"
 front: false
-section: Local
+section: "Local"
+news_id: 185474
 ---
 
 Por seguridad los temas de la transición deben de tratarse dentro de los recintos oficiales, esto ya que garantiza tanto la integridad de las personas como de la información, señaló el Consejero Jurídico del Estado, Jorge Espinoza Cortés.

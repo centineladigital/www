@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante recordó cómo consiguió un lugar en la agrupación; señaló que sus compañeros le hacían la vida de cuadros y la llamaban chapulinsote."
-image: /uploads/2021/images-edith-marquez-revela-paso-timbiriche.jpg
-video: nil
-audio: nil
-alt: Me hicieron el feo -  Edith Márquez revela lo mal que lo pasó en sus inicios en Timbiriche
+image: "/uploads/2021/images-edith-marquez-revela-paso-timbiriche.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me hicieron el feo -  Edith Márquez revela lo mal que lo pasó en sus inicios en Timbiriche"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187772
 ---
 
 Edith Márquez, quien formó parte de la más reciente edición de La Voz México, habló de sus inicios en la escena musical, su incorporación al grupo Timbiriche y los momentos más dolorosos que ha enfrentado a lo largo de su vida, como su divorcio de Alberto Sánchez -quien dijo fue "el amor de su vida"-,en una entrevista para el canal de YouTube de Yordi Rosado.  

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se cavaron tres pozos de sondeo para descartar la presencia de inhumaciones clandestinas"
-image: /uploads/2021/images-Infografía_Carrizalillo_.jpeg
-video: nil
-audio: nil
-alt: Comisión de Búsqueda avanza con inspecciones aéreas y terrestres en Carrizalillo
+image: "/uploads/2021/images-Infografía_Carrizalillo_.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Comisión de Búsqueda avanza con inspecciones aéreas y terrestres en Carrizalillo"
 front: false
-section: Local
+section: "Local"
+news_id: 187008
 ---
 
 Con el fin de continuar con la inspección por cuadrantes, la Comisión de Búsqueda de Chihuahua en conjunto con la organización Justicia Para Nuestras Hijas, realizó un nuevo operativo de búsqueda generalizada en el lugar conocido como Carrizalillo. 

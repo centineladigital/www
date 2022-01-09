@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Presidente comentó que “se deslinden responsabilidades, sin afán de venganza”"
-image: /uploads/2021/images-andres-manuel-lopez-obrador-cortesia-32.jpg
-video: nil
-audio: nil
-alt: AMLO recomienda a gobernadores entrantes hacer auditorías a gobiernos previos
+image: "/uploads/2021/images-andres-manuel-lopez-obrador-cortesia-32.jpg"
+video: "nil"
+audio: "nil"
+alt: "AMLO recomienda a gobernadores entrantes hacer auditorías a gobiernos previos"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186713
 ---
 
 El presidente Andrés Manuel López Obrador recomendó a los próximos gobernadores de los diferentes estados del país que hagan auditorías a las administraciones salientes y “se deslinden responsabilidades, sin afán de venganza”. 

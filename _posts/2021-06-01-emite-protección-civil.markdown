@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Recomienda limpiar drenajes de las viviendas para evitar acumulación de agua, evitar cruzar por vados y partes bajas de caminos; también pide a la ciudadanía mantenerse hidratada por las altas temperaturas donde Juárez alcanzará 35°C"
-image: /uploads/2021/images-PRONÓSTICO_MIÉRCOLES_2_DE_JUNIO.jpeg
-video: nil
-audio: nil
-alt: Emite Protección Civil aviso preventivo por 4 días continuos de lluvia en el estado
+image: "/uploads/2021/images-PRONÓSTICO_MIÉRCOLES_2_DE_JUNIO.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Emite Protección Civil aviso preventivo por 4 días continuos de lluvia en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184777
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) emitió un aviso preventivo por las lluvias que continuarán durante el resto de la semana, principalmente desde el miércoles 2 hasta el sábado 5 de junio, en la mayoría del territorio chihuahuense.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El delantero brasileño compartió en sus redes un video de los mejores momentos que tuvo junto a La Pulga cuando jugaron en el Barcelona."
-image: /uploads/2021/images-lionel-messi-neymar-estaran-juntos_1_85_1198_746.jpg
-video: nil
-audio: nil
-alt: Juntos de nuevo, Neymar celebra la llegada de Messi al PSG
+image: "/uploads/2021/images-lionel-messi-neymar-estaran-juntos_1_85_1198_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "Juntos de nuevo, Neymar celebra la llegada de Messi al PSG"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186503
 ---
 
 El delantero brasileño del París Saint-Germain, Neymar Jr, ex compañero de Leo Messi en el Barcelona, dio la bienvenida a la capital francesa al astro argentino a través de su cuenta de Instagram, en la que publicó un vídeo en sus 'stories' donde se leía el mensaje "Juntos de nuevo". 

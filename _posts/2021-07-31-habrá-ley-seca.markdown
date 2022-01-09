@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aplica a partir de las cero horas del domingo, hasta las cero horas del lunes 2 de agosto; se publica este sábado en el Periódico Oficial del Estado"
-image: /uploads/2021/images-descarga.jpg
-video: nil
-audio: nil
-alt: Habrá ley seca este domingo primero de agosto -  Secretaría General de Gobierno
+image: "/uploads/2021/images-descarga.jpg"
+video: "nil"
+audio: "nil"
+alt: "Habrá ley seca este domingo primero de agosto -  Secretaría General de Gobierno"
 front: false
-section: Local
+section: "Local"
+news_id: 186155
 ---
 
 La Secretaría General de Gobierno, por conducto de la Dirección General, dio a conocer que este domingo primero de agosto aplicará la prohibición de venta de bebidas embriagantes en cualquiera de sus modalidades.

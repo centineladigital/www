@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Maribel Guardia reveló si ella fue testigo de cómo Joan Sebastián pretendió a la hija de Jenni Rivera; esto dijo la actriz. "
-image: /uploads/2021/images-maribel-guardia-aclara-joan-sebastian_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Era muy amigo de la mamá -  Maribel Guardia aclara si Joan Sebastián coqueteó con Chiquis Rivera
+image: "/uploads/2021/images-maribel-guardia-aclara-joan-sebastian_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Era muy amigo de la mamá -  Maribel Guardia aclara si Joan Sebastián coqueteó con Chiquis Rivera"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185387
 ---
 
 Maribel Guardia reaccionó por primera vez a las polémicas declaraciones de Chiquis Rivera, quien aseguró durante el programa Tú-Night Show con Omar Chaparro que Joan Sebastián la pretendió pese a que tenía pareja. Tras esta confesión, la actriz aclaró si El Poeta del Pueblo intentó conquistar a la hija de Jenni Rivera.  

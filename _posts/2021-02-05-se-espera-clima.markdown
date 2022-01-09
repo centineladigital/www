@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las temperaturas máximas oscilarán entre los 19 y 25 grados Celsius"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Se espera clima agradable para el fin de semana -  Protección Civil Municipal
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Se espera clima agradable para el fin de semana -  Protección Civil Municipal"
 front: false
-section: Local
+section: "Local"
+news_id: 182736
 ---
 
 Según datos de la Coordinación Municipal de Protección Civil, este fin de semana será relativamente agradable para la capital del estado, con temperaturas máximas que oscilarán entre los 19 y 25 grados Celsius, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional de CONAGUA.

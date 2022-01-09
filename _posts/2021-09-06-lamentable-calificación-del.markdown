@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma dirigente priísta que es lamentable que se den este tipo de acciones."
-image: /uploads/2021/images-ALEJANDRO.jpg
-video: /uploads/2021/videos-ML04_ALEX_DOMINGUEZ.mp4
-audio: nil
-alt: Lamentable calificación del gobernador; afecta Chihuahua
+image: "/uploads/2021/images-ALEJANDRO.jpg"
+video: "/uploads/2021/videos-ML04_ALEX_DOMINGUEZ.mp4"
+audio: "nil"
+alt: "Lamentable calificación del gobernador; afecta Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 187475
 ---
 
 El dirigente del PRI a nivel estatal, Alejandro Domínguez Domínguez, lamentó la valoración del peor gobernador en la historia de Chihuahua es muestra de cómo se encuentra Chihuahua.  Esto tras darse a conocer por parte de la encuestadora Mitofsky, un estudio que arrojó que el mandatario se encuentra entre los más bajos del país.

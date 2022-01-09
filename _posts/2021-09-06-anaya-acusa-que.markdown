@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El panista señaló tres de los récords del Presidente son mentira, tres no tienen nada que ver con su gobierno y uno fue propuesta de todos los partidos; por favor ya deja de hablar y mejor ponte a trabajar, dijo. "
-image: /uploads/2021/images-fgr-entrega-defensa-ricardo-anaya.jpg
-video: nil
-audio: nil
-alt: Anaya acusa que 3 récords históricos que 'presumió' AMLO en informe son mentira
+image: "/uploads/2021/images-fgr-entrega-defensa-ricardo-anaya.jpg"
+video: "nil"
+audio: "nil"
+alt: "Anaya acusa que 3 récords históricos que 'presumió' AMLO en informe son mentira"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187452
 ---
 
 Ricardo Anaya, ex candidato presidencial del Partido Acción Nacional (PAN) en 2018, acusó que al menos tres récords históricos que mencionó el presidente Andrés Manuel López Obrador en su Tercer Informe de Gobierno son mentira. Además, pidió al titular del Ejecutivo: "por favor ya deja de hablar y mejor ponte a trabajar". 

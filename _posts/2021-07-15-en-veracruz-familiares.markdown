@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Después de 16 días de plantón, en Veracruz, padres de familia de niños con cáncer levantaron el campamento y liberaron la circulación vehicular frente al Hospital de Alta Especialidad de Veracruz y el hospital Infantil. "
-image: /uploads/2021/images-familias-ninos-cancer-levantan-planton_76_9_1017_634.jpeg
-video: nil
-audio: nil
-alt: En Veracruz, familiares de niños con cáncer levantan plantón para exigir medicamentos
+image: "/uploads/2021/images-familias-ninos-cancer-levantan-planton_76_9_1017_634.jpeg"
+video: "nil"
+audio: "nil"
+alt: "En Veracruz, familiares de niños con cáncer levantan plantón para exigir medicamentos"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185688
 ---
 
 Tras una reunión en la Ciudad de México con autoridades del Instituto de Salud para el Bienestar (Insabi), en la Secretaría de Salud, este jueves las familias de pacientes oncológicos retiraron el plantón que habían instalado frente a la Torre Pediátrica. 

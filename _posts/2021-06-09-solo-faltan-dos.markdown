@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Vacunarán contra coronavirus a ocho mil 700 internos en todo el estado."
-image: /uploads/2021/images-EMILIO1.jpg
-video: nil
-audio: /uploads/2021/audio-MW05.mp3
-alt: Solo faltan dos CERESOS para concluir primera fase de vacunación
+image: "/uploads/2021/images-EMILIO1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW05.mp3"
+alt: "Solo faltan dos CERESOS para concluir primera fase de vacunación"
 front: false
-section: Local
+section: "Local"
+news_id: 184952
 ---
 
 Solamente dos Centros de Reinserción Social son los que faltan para ser vacunados, señaló el titular de la Secretaría de Seguridad, Emilio García Ruiz. Esto dentro de la primera fase de aplicación de la vacuna en contra del coronavirus.

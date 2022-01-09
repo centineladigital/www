@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Cubrebocas obligatorio, sin apretones de manos ni abrazos, no deben acudir a gimnasios, zonas turísticas, comercios, restaurantes, bares…"
-image: /uploads/2021/images-2526262.jpg
-video: nil
-audio: nil
-alt: Estas son las restricciones para deportistas de Tokio 2020
+image: "/uploads/2021/images-2526262.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estas son las restricciones para deportistas de Tokio 2020"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182796
 ---
 
 Mascarilla obligatoria, nada de apretones de manos y, sobre todo, de abrazos: eso es lo que se espera de los participantes en los Juegos Olímpicos de Tokio aplazados a este año (23 de julio-8 de agosto) debido al coronavirus, según una guía destinada a los deportistas, publicada por los organizadores.

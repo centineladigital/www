@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La convocatoria estará abierta a partir del 15 de enero y las inscripciones podrán realizarse de manera virtual a través del portal de internet del Congreso del Estado"
-image: /uploads/2021/images-GGGRGR.jpg
-video: nil
-audio: /uploads/2021/audio-AW01_ROSA_ISELA_GAYTAN.mp3
-alt: Presenta Congreso del Estado convocatoria a la chihuahuense destacada 2021
+image: "/uploads/2021/images-GGGRGR.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AW01_ROSA_ISELA_GAYTAN.mp3"
+alt: "Presenta Congreso del Estado convocatoria a la chihuahuense destacada 2021"
 front: false
-section: Local
+section: "Local"
+news_id: 182108
 ---
 
 La comisión de igualdad del Congreso del Estado, encabezada por la diputada Rosa Isela Gaytán, presentó la convocatoria al reconocimiento a la Chihuahuense Destacada 2021.

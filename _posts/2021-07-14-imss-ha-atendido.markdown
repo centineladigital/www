@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La doctora Norma Magdalena Palacios Jiménez, jefa de Área Médica en la Dirección de Prestaciones Médicas, indicó que se estima crecer a 106 Unidades y Servicios con Rehabilitación Integral durante el 2021 a nivel nacional.  "
-image: /uploads/2021/images-Foto_299-6.jpg
-video: nil
-audio: nil
-alt:  IMSS ha atendido a más de 177 mil derechohabientes recuperados de COVID-19 en Unidades y Servicios de Rehabilitación
+image: "/uploads/2021/images-Foto_299-6.jpg"
+video: "nil"
+audio: "nil"
+alt: " IMSS ha atendido a más de 177 mil derechohabientes recuperados de COVID-19 en Unidades y Servicios de Rehabilitación"
 front: false
-section: Local
+section: "Local"
+news_id: 185658
 ---
 
 Más de 177 mil derechohabientes recuperados de COVID-19 han mejorado su salud y calidad de vida a través de las Unidades y Servicios de Rehabilitación del Instituto Mexicano del Seguro Social (IMSS), donde los pacientes reciben apoyo psicológico, terapias físicas integrales y capacitación personalizada para realizar ejercicios en casa.

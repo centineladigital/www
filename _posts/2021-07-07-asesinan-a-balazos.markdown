@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente de Haití, Jovenel Moise, fue asesinado este miércoles por hombres armados que perpetraron un asalto a su residencia la pasada madrugada en el barrio de Pelerin de Puerto Príncipe, informó el primer ministro, Claude Joseph. "
-image: /uploads/2021/images-PRESIDENTE_HAITI.jpg
-video: nil
-audio: nil
-alt: Asesinan a balazos al presidente de Haití, Jovenel Moise.
+image: "/uploads/2021/images-PRESIDENTE_HAITI.jpg"
+video: "nil"
+audio: "nil"
+alt: "Asesinan a balazos al presidente de Haití, Jovenel Moise."
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185415
 ---
 
 El asesinato se produce dos meses antes de las elecciones presidenciales y legislativas convocadas para el próximo 26 de septiembre, unos comicios en los que Moise no podía ser candidato. 

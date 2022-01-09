@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La mañana de este viernes, se confirmó la muerte de DMX por parte de su familia. "
-image: /uploads/2021/images-muere-dmx-en-nueva-york.jpg
-video: nil
-audio: nil
-alt: Tras una semana de hospitalización, muere el rapero DMX a los 50 años
+image: "/uploads/2021/images-muere-dmx-en-nueva-york.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tras una semana de hospitalización, muere el rapero DMX a los 50 años"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183786
 ---
 
 La mañana de este viernes 9 de abril se confirmó la muerte del rapero y actor estadunidense Earl Simmons, mejor conocido como DMX, en el hospital White Plans de Nueva York. Así lo dieron a conocer medios como Pitchfork, que revelaron un comunicado difundido por la familia del músico. "Nos entristece profundamente anunciar hoy que nuestro ser querido, DMX, cuyo nombre de nacimiento es Earl Simmons, falleció a los 50 años en White Plains Hospital con su familia a su lado después de haber sido sometido a soporte vital durante los últimos días", comunican. 

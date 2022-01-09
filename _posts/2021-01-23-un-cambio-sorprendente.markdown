@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La película Chicas pesadas se convirtió en todo un éxito y uno de los personajes más queridos es Janis Ian interpretado por Lizzy Caplan. "
-image: /uploads/2021/images-lizzy-caplan-dio-vida-a.jpg
-video: nil
-audio: nil
-alt: ¡Un cambio sorprendente! Así luce hoy Janis Ian de 'Chicas Pesadas'
+image: "/uploads/2021/images-lizzy-caplan-dio-vida-a.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Un cambio sorprendente! Así luce hoy Janis Ian de 'Chicas Pesadas'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182397
 ---
 
 Sin duda una de las películas más exitosas de los años 2000 fue Chicas Pesadas, protagonizada por Lindsay Lohan y Rachel McAdams. Además de ser un éxito en taquillas, la producción se volvió parte de la cultura pop tanto por su temática, frases y personajes entre los que destacó Janis Ian el cual fue interpretado por la actriz Lizzy Caplan. El personaje de Janis fue una de las piezas claves dentro de Chicas Pesadas, ya que es ella quien planea una venganza en contra de Regina George, esto con la ayuda de Cady. A continuación, te contamos qué ha pasado con Lizzy Caplan después de interpretar a la rebelde Janis. 

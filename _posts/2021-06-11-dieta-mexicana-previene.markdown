@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Tortilla, chile y frijoles los mejores para combatir enfermedades."
-image: /uploads/2021/images-T1.jpg
-video: nil
-audio: /uploads/2021/audio-MV06.mp3
-alt: Dieta mexicana previene enfermedades gastrointestinales
+image: "/uploads/2021/images-T1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV06.mp3"
+alt: "Dieta mexicana previene enfermedades gastrointestinales"
 front: false
-section: Local
+section: "Local"
+news_id: 184991
 ---
 
 El consumo de alimentos tradicionales en México previene enfermedades gastrointestinales, según lo dio a conocer Paola Núñez, docente de la Facultad de Enfermería y Nutriología, UACh. Entre los elementos que consumimos que son buenos se encuentran: tortilla, chile y frijoles.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¡Seguiremos viendo a La Doña! Se ha confirmado que se planean realizar varias producciones de María Félix entre ellas una película. "
-image: /uploads/2021/images-planea-obra-teatro-maria-felix.jpg
-video: nil
-audio: nil
-alt: ¡Habrá más de 'La Doña'! Preparan documental, película y obra de teatro de María Félix
+image: "/uploads/2021/images-planea-obra-teatro-maria-felix.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Habrá más de 'La Doña'! Preparan documental, película y obra de teatro de María Félix"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183883
 ---
 
 A pesar de que María Félix murió en el 2002, aún se habla mucho sobre una de las divas más importantes en el cine mexicano, es por eso que se está planeando realizar varias producciones en torno a ella como una película que contaría la vida de la actriz que fue una de las más reconocidas. El abogado Guillermo Pous, representante legal del heredero de María Félix, Luis Martínez de Anda, contó en una entrevista a De Primera Mano que se ha llegado a un acuerdo para poder tener los derechos de imagen de la actriz para así poder crear varios contenidos de su vida. 

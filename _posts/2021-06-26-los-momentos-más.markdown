@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aunque su carrera es muy exitosa, Ariana Grande ha atravesado por momentos difíciles que han marcado su vida."
-image: /uploads/2021/images-ariana-grande-enfrento-muerte-novio_1_0_1046_649.jpg
-video: nil
-audio: nil
-alt: Los momentos más difíciles que ha vivido Ariana Grande
+image: "/uploads/2021/images-ariana-grande-enfrento-muerte-novio_1_0_1046_649.jpg"
+video: "nil"
+audio: "nil"
+alt: "Los momentos más difíciles que ha vivido Ariana Grande"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185255
 ---
 
 Ariana Grande es una de las cantantes más talentosas, a pesar de que empezó actuando en series de televisión como Victorious y Sam & Cat, ahora consolida su carrera como cantante. A lo largo de los años, Ariana ha pasado por grandes momentos que comparte con sus fans en redes sociales, sin embargo, también ha atravesado por situaciones difíciles.  

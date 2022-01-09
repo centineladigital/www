@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante Rosalía habló del papel de las mujeres en la escena musical actual."
-image: /uploads/2021/images-la-rosalia-pide-mas-oportunidades.jpg
-video: nil
-audio: nil
-alt: ¡Las mujeres mandan! La Rosalía exige equidad de oportunidades en la industria musical
+image: "/uploads/2021/images-la-rosalia-pide-mas-oportunidades.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Las mujeres mandan! La Rosalía exige equidad de oportunidades en la industria musical"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186604
 ---
 
 La cantante Rosalía se ha convertido, sin duda, en un icono de la cultura pop en los últimos años. Sus colaboraciones con artistas como J Balvin, Bad Bunny, Ozuna y Sech la ha puesto entre las mujeres más exitosas del momento en la escena musical. 

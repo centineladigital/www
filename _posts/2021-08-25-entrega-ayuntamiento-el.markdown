@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Resultaron galardonados tres jóvenes chihuahuenses"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Entrega Ayuntamiento el Premio a la Juventud “Agustín Melgar” 2021
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Entrega Ayuntamiento el Premio a la Juventud “Agustín Melgar” 2021"
 front: false
-section: Local
+section: "Local"
+news_id: 187096
 ---
 
 Los miembros del Ayuntamiento realizaron Sesión Solemne para la entrega del Premio a la Juventud “Agustín Melgar” 2021 a tres jóvenes chihuahuenses, por su trayectoria al realizar actos que motivan y causan un impacto positivo a la sociedad.

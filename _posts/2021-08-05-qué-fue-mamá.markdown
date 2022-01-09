@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La mamá del cantante sorprendió a la pareja con un regalo muy personalizado por su primer año como novios. "
-image: /uploads/2021/images-mama_cristian.jpg
-video: nil
-audio: nil
-alt: ¿Qué fue? Mamá de Nodal sorprende a Christian y a Belinda con regalo por primer aniversario
+image: "/uploads/2021/images-mama_cristian.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Qué fue? Mamá de Nodal sorprende a Christian y a Belinda con regalo por primer aniversario"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186330
 ---
 
 Belinda y Nodal siguen celebrando su primer aniversario como novios, rodeados del amor que se profesan y del de sus seres queridos, que están más que felices con su relación y compromiso de matrimonio. Luego de que la pareja sorprendiera a sus fans con algunos vistazos de su romántica celebración, ahora llegó el turno de Cristy Nodal, la suegra de la intérprete de Egoísta, quien impactó a los enamorados con un regalo muy especial. 

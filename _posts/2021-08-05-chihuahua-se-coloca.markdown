@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Con la adquisición del nuevo acelerador lineal, el servicio público de Salud estará a la altura de los mejores hospitales privados del mundo, reporta la Secretaría de Salud en el programa “Logros con Valor”  "
-image: /uploads/2021/images-e.JPG
-video: nil
-audio: /uploads/2021/audio-5-_MARTIN_TORRES_DONACION_ACELERADOR_LINEAL_ONCOLOGÍA_LOGROS_CON_VALOR_SRIA_SALUD_5-8-21.MP3
-alt: Chihuahua se coloca a la vanguardia en tratamientos contra el cáncer
+image: "/uploads/2021/images-e.JPG"
+video: "nil"
+audio: "/uploads/2021/audio-5-_MARTIN_TORRES_DONACION_ACELERADOR_LINEAL_ONCOLOGÍA_LOGROS_CON_VALOR_SRIA_SALUD_5-8-21.MP3"
+alt: "Chihuahua se coloca a la vanguardia en tratamientos contra el cáncer"
 front: false
-section: Local
+section: "Local"
+news_id: 186321
 ---
 
 En el estado de Chihuahua, los pacientes con cáncer accederán a tratamientos que solo pueden encontrar en los mejores hospitales a nivel mundial, con la adquisición del nuevo acelerador lineal que en breve entrará en operaciones en el Centro Estatal de Cancerología (Cecan).

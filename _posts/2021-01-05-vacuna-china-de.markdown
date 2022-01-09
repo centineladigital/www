@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Desarrolladores de la vacuna china contra covid-19 de Sinopharm, la primera aprobada oficialmente en China, aseguran que es efectiva contra las nuevas variantes del coronavirus"
-image: /uploads/2021/images-2506527.jpg
-video: nil
-audio: nil
-alt: Vacuna china de Sinopharm, efectiva contra variantes de covid-19
+image: "/uploads/2021/images-2506527.jpg"
+video: "nil"
+audio: "nil"
+alt: "Vacuna china de Sinopharm, efectiva contra variantes de covid-19"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 181869
 ---
 
 La primera vacuna china aprobada oficialmente contra el covid-19 es efectiva contra las nuevas variantes del virus, dijo uno de sus creadores este martes.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En la pandemia van  68  mil 207 casos positivos y 6 mil 958 defunciones; los últimos decesos se registraron en Juárez (+2) y Guachochi (+1)"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Confirman 95 contagios y 3 fallecimientos por COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Confirman 95 contagios y 3 fallecimientos por COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184734
 ---
 
 La Secretaría de Salud informó que el último reporte epidemiológico de COVID-19 aumentó en 95 contagios y 3 fallecimientos, por lo que el total general de casos positivos en el estado de Chihuahua es de 68 mil 207 y 6 mil 958 decesos.

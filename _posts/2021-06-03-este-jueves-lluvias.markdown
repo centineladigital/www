@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "También tienen mayores probabilidades Ojinaga, Janos, Buenaventura, Guachochi y Jiménez; las precipitaciones pueden estar acompañadas de actividad eléctrica y caída de granizo"
-image: /uploads/2021/images-lluvia_chihuahua_carros.jpg
-video: nil
-audio: nil
-alt: Este jueves, lluvias para Ciudad Juárez, Chihuahua, Delicias, Cuauhtémoc y Parral -  Protección Civil
+image: "/uploads/2021/images-lluvia_chihuahua_carros.jpg"
+video: "nil"
+audio: "nil"
+alt: "Este jueves, lluvias para Ciudad Juárez, Chihuahua, Delicias, Cuauhtémoc y Parral -  Protección Civil"
 front: false
-section: Local
+section: "Local"
+news_id: 184819
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) dio a conocer que para este jueves 3 de junio se prevén lluvias de aisladas a dispersas en toda la entidad, pero con mayor incidencia en Ciudad Juárez, Janos, Buenaventura, Guachochi, Cuauhtémoc, Chihuahua, Parral, Jiménez, Delicias y Ojinaga.

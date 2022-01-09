@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Conferencia del Episcopado Mexicano hizo un llamado al gobierno a mantener una postura de absoluto rechazo ante la reactivación del programa Quédate en México. "
-image: /uploads/2021/images-caravana-migrantes-partio-tapachula-conformada_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Obispos de México expresan preocupación por nuevas medidas migratorias
+image: "/uploads/2021/images-caravana-migrantes-partio-tapachula-conformada_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Obispos de México expresan preocupación por nuevas medidas migratorias"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187356
 ---
 
 La Conferencia del Episcopado Mexicano (CEM) externó su preocupación ante reactivación del Protocolo de Protección a Migrantes, conocido como "Quédate en México", resultado de una orden de la Corte Suprema de Estados Unidos. En una carta dirigida al presidente Andrés Manuel López Obrador, el canciller Marcelo Ebrard y al subsecretario de Derechos Humanos, Alejandro Encinas, los obispos de México llamaron al gobierno a mantener una postura de absoluto rechazo ante la reactivación de este programa migratorio. 

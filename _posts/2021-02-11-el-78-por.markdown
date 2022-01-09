@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A diciembre de 2020, los adeudos de Pensiones Civiles del Estado con proveedores de diversos municipios  ascendía a 842 millones 980 mil 580 pesos, de éstos el 78 por ciento se debe a proveedores"
-image: /uploads/2021/images-farmacia_(3).jpeg
-video: nil
-audio: nil
-alt: El 78 por ciento de la deuda de PCE, a proveedores a farmacias y hospitales 
+image: "/uploads/2021/images-farmacia_(3).jpeg"
+video: "nil"
+audio: "nil"
+alt: "El 78 por ciento de la deuda de PCE, a proveedores a farmacias y hospitales "
 front: false
-section: Local
+section: "Local"
+news_id: 182846
 ---
 
 Pensiones Civiles del Estado adeuda más de 850 millones de pesos a proveedores, de medicamentos y material de curación se adeudan 388 millones 814 mil 409 pesos.

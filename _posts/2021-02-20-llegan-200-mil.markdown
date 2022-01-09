@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El canciller Marcelo Ebrard informó que esta mañana arribaron a México 200 mil dosis de la vacuna Sinovac contra covid-19"
-image: /uploads/2021/images-2532831.jpg
-video: nil
-audio: nil
-alt: Llegan 200 mil dosis de la vacuna Sinovac desde Hong Kong
+image: "/uploads/2021/images-2532831.jpg"
+video: "nil"
+audio: "nil"
+alt: "Llegan 200 mil dosis de la vacuna Sinovac desde Hong Kong"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183061
 ---
 
 El titular de la Secretaría de Relaciones Exteriores (SRE), Marcelo Ebrard, informó que esta mañana arribaron a México las 200 mil dosis de la vacuna Sinovac contra covid-19, enviadas desde Hong Kong.

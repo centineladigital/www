@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aprovechó para supervisar el funcionamiento adecuado de unidades que atienden la zona"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Alcaldesa visita a las cuadrillas que mantienen limpio el Centro Histórico
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Alcaldesa visita a las cuadrillas que mantienen limpio el Centro Histórico"
 front: false
-section: Local
+section: "Local"
+news_id: 184716
 ---
 
 La Alcaldesa capitalina visitó a las cuadrillas encargadas de la limpieza e imagen urbana del Centro Histórico con el fin de reconocer su trabajo y exhortarlos a no bajar la guardia para continuar garantizando el cuidado de los espacios públicos.

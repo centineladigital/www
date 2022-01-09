@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Infartos ocupa el primer lugar y en tercer lugar le siguen los homicidios"
-image: /uploads/2021/images-arch.jpeg
-video: nil
-audio: nil
-alt: Covid-19, segunda causa de muerte de los chihuahuenses
+image: "/uploads/2021/images-arch.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Covid-19, segunda causa de muerte de los chihuahuenses"
 front: false
-section: Local
+section: "Local"
+news_id: 181831
 ---
 
 A ocho meses de que se presentara el primer contagio de Covid-19 en el estado, la enfermedad se ha posicionado como la segunda causa de muerte de los chihuahuenses, con 3 mil 497 defunciones, pero aún no ha superado las enfermedades del corazón o infartos, que al cierre del año 2020 contabilizó 4 mil 500 muertes.

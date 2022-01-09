@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que habrá cambio de medir la semaforización a nivel nacional."
-image: /uploads/2021/images-MESTA.jpg
-video: /uploads/2021/videos-MV01_FERNANDO_MESTA.mp4
-audio: /uploads/2021/audio-MV02_FERNANDO_MESTA.mp4
-alt: Resiste repunte de casos COVID -  Mesta
+image: "/uploads/2021/images-MESTA.jpg"
+video: "/uploads/2021/videos-MV01_FERNANDO_MESTA.mp4"
+audio: "/uploads/2021/audio-MV02_FERNANDO_MESTA.mp4"
+alt: "Resiste repunte de casos COVID -  Mesta"
 front: false
-section: Local
+section: "Local"
+news_id: 185748
 ---
 
 Un ligero repunte en los casos de coronavirus es lo que se vive en el Estado, señaló el Secretario General de Gobierno Luis Fernando Mesta Soulé. El funcionario fue cuestionado respecto al cambio de semaforización, ante lo que señaló que se llevaría a cabo una reingeniería en la forma en la cual habrá cambios a nivel nacional en la forma en la que se llevará a cabo la categorización de las acciones dentro de la pandemia.

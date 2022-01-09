@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Registran 147 nuevos casos en las últimas horas."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-MW02_WENDY.mp3
-alt: Supera siete mil cifra de muertos por COVID
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW02_WENDY.mp3"
+alt: "Supera siete mil cifra de muertos por COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 184806
 ---
 
 Con la suma de 39 muertes que se acreditaron en solamente 24 horas, se llega a siete mil ocho casos de personas que han perdido la vida a causa de coronavirus, según fue dado a conocer por parte de Wendy Avila Coronado, Subidrectora de Medicina Preventiva y Promoción de la Salud.

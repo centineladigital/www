@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El pan es una institución solida y se debe de tener respeto. "
-image: /uploads/2021/images-LA_TORRE.jpg
-video: nil
-audio: /uploads/2021/audio-MW06_MIGUEL_LA_TORRE.mp3
-alt: Salidas son naturales -  La Torre
+image: "/uploads/2021/images-LA_TORRE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW06_MIGUEL_LA_TORRE.mp3"
+alt: "Salidas son naturales -  La Torre"
 front: false
-section: Local
+section: "Local"
+news_id: 182670
 ---
 
 Tras las renuncias de integrantes de la familia Borruel y Miguel Riggs el diputado Miguel la Torre Sáenz dijo que este proceso es natural, esta situación la vivió como presidente del Comité Municipal, recordando que este organismo es un institución que tiene la puerta abierta para recibir y dejar ir a la gente.

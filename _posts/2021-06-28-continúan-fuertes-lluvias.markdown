@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "CEPC da a conocer que luego de atender varias incidencias durante este domingo, actualmente todas las vías de comunicación están abiertas; se registra un deslave en la vía corta a Chihuahua-Parral y se circula con precaución"
-image: /uploads/2021/images-LLUVIAS_MEOQUI_JUNIO_2021_(3).jpeg
-video: nil
-audio: nil
-alt: Continúan fuertes lluvias en el estado  durante lunes y martes -  Protección Civil
+image: "/uploads/2021/images-LLUVIAS_MEOQUI_JUNIO_2021_(3).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Continúan fuertes lluvias en el estado  durante lunes y martes -  Protección Civil"
 front: false
-section: Local
+section: "Local"
+news_id: 185278
 ---
 
 Para este lunes 28 y martes 29 continuarán las lluvias en el territorio chihuahuense, informó la Coordinación Estatal de Protección Civil (CEPC) y pidió a la población tomar precauciones así como no intentar atravesar ríos, arroyos o avenidas de agua.

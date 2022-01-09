@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Registran más de cien muertes en comparación con el promedio estatal."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-MV02.mp3
-alt: Superan dos municipios caso por un cien por ciento índice de defunciones
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV02.mp3"
+alt: "Superan dos municipios caso por un cien por ciento índice de defunciones"
 front: false
-section: Local
+section: "Local"
+news_id: 183310
 ---
 
 El índice de defunciones por municipio es superado en dos de éstos por casi un cien por ciento, esto ya que de 141 casos por cada cien mil habitantes que mueren en el estado, en estos municipios registran 241 muertes por cada cien mil.

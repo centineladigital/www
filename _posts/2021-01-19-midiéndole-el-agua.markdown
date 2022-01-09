@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Benito Castro reveló que atraviesa por una crisis económica, sin embargo, cuenta con la ayuda de varios actores. "
-image: /uploads/2021/images-benito-castro-conto-actores-ayudado.jpg
-video: nil
-audio: nil
-alt: “Midiéndole el agua a los camotes” -  Benito Castro revela que pasa por mala situación económica
+image: "/uploads/2021/images-benito-castro-conto-actores-ayudado.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Midiéndole el agua a los camotes” -  Benito Castro revela que pasa por mala situación económica"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182276
 ---
 
 Debido a la pandemia derivada del coronavirus que se vive en México y en el mundo, muchos lugares han tenido que cerrar, entre ellos los teatros, un sitio que ha logrado entretener a muchas personas, además que varios actores obtienen ingresos de éste, sin embargo, debido a que han permanecido cerrados algunos famosos se han visto afectados económicamente como Benito Castro. 

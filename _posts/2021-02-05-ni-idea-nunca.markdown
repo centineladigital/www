@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de redes sociales en donde se retomó un test que le hicieron a Camilo, en donde reconoció que no conoce a Selena Quintanilla, lo que le valió un cúmulo de críticas."
-image: /uploads/2021/images-camilo-asegura-conoce-selena-quintanilla.jpg
-video: nil
-audio: nil
-alt: Ni idea, nunca la escuché -  Camilo asegura no saber quién es Selena Quintanilla; lo critican
+image: "/uploads/2021/images-camilo-asegura-conoce-selena-quintanilla.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ni idea, nunca la escuché -  Camilo asegura no saber quién es Selena Quintanilla; lo critican"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182729
 ---
 
 Camilo, cantante de reguetón conocido por su canción Favorito, causó polémica en redes sociales, pues el también esposo de la hija de Ricardo Montaner –en el pasado– aseguró que no conoce a Selena Quintanilla, la Reina del Tex-Mex. Fue durante una prueba en donde el cantante admitió que no conoce a la intérprete de Si una vez, pero sí conoce de Eva Luna –su pareja sentimental–. Por este hecho, el joven ha recibido severas críticas en redes sociales. 

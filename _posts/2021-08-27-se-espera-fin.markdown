@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Habrá nublados parciales los próximos tres días, es poco probable que se presenten lluvias"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Se espera fin de semana soleado en la capital del estado -  Protección Civil Municipal
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se espera fin de semana soleado en la capital del estado -  Protección Civil Municipal"
 front: false
-section: Local
+section: "Local"
+news_id: 187189
 ---
 
 Para este fin de semana la capital del estado espera días mayormente soleados, con nubosidades escasas y temperaturas que no rebasarán los 32 grados Celsius, informó la Coordinación Municipal de Protección Civil de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional de CONAGUA.

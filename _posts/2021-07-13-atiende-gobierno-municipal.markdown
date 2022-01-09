@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En esta ocasión se atendieron Cumbres de Majalca, Huerachi, Soledad de Majalca y Nuevo Majalca, donde se recolectó un macro contenedor de basura de gran volumen."
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Atiende Gobierno Municipal con programa Destilichadero a zona rural
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Atiende Gobierno Municipal con programa Destilichadero a zona rural"
 front: false
-section: Local
+section: "Local"
+news_id: 185635
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos acudió a la zona rural para llevar el programa de Destilichadero, en esta ocasión se atendieron Cumbres de Majalca, Huerachi, Soledad de Majalca y Nuevo Majalca, donde se recolectó un macro contenedor de basura de gran volumen.

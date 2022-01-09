@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El ex integrante de 'La Academia' señaló que en muchas ocasiones sus fans le han tocado los glúteos a su paso por el aeropuerto o tras un evento público. "
-image: /uploads/2021/images-yahir-revela-fans-agarrado-pompis_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Para eso son, pero se piden -  Yahir revela que muchas fans le han agarrado las pompis
+image: "/uploads/2021/images-yahir-revela-fans-agarrado-pompis_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Para eso son, pero se piden -  Yahir revela que muchas fans le han agarrado las pompis"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183827
 ---
 
 El cantante Yahir, quien saltó a la fama tras su participación en el reality show La Academia, señaló que algunas de sus fans han reaccionado de manera polémica cuando lo ven en el aeropuerto o tras un evento público. El intérprete de "Entre nosotros dos" señaló que en varias ocasiones sus seguidoras le "han agarrado las pompis".  Durante una entrevista con el programa Ventaneando, Yahir, que regresa a los escenarios con la puesta en escena Hoy no me puedo levantar, compartió que en más de una ocasión algunas seguidoras se han propasado con él.

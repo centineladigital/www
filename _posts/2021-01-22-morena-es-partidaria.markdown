@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señaló que no minimizan las expresiones de la población, sin embargo, desde el partido que encabeza se prioriza la paz y la tranquilidad"
-image: /uploads/2021/images-GEGGSGD.jpg
-video: nil
-audio: /uploads/2021/audio-AV04_MARTIN_CHAPARRO.mp3
-alt: Morena es partidaria de la paz -  Martin Chaparro; por incidente de Loera en Rosales 
+image: "/uploads/2021/images-GEGGSGD.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AV04_MARTIN_CHAPARRO.mp3"
+alt: "Morena es partidaria de la paz -  Martin Chaparro; por incidente de Loera en Rosales "
 front: false
-section: Local
+section: "Local"
+news_id: 182371
 ---
 
 Luego del incidente en contra del precandidato de Morena a la gubernatura, Juan Carlos Loera de la Rosa, en el municipio de Rosales, donde algunos manifestantes lo agredieron lanzándole huevos y piedras, el dirigente del partido, Martín Chaparro Payán, aseguró que los actos violentos no afectarán el avance de la Cuarta Transformación en Chihuahua.

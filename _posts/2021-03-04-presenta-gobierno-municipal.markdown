@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Para acceder a la interfaz, se debe ingresar a la página oficial del Gobierno Municipal www.municipiochihuahua.gob.mx y buscar el logotipo de Experta Chihuahua, que los llevará a la plataforma."
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Presenta Gobierno Municipal Plataforma Experta a cámaras de comercio, clústers y organismos empresariales
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Presenta Gobierno Municipal Plataforma Experta a cámaras de comercio, clústers y organismos empresariales"
 front: false
-section: Local
+section: "Local"
+news_id: 183274
 ---
 
 El Gobierno Municipal a través de la Dirección de Desarrollo Económico y Turístico, en conjunto con el Órgano Interno de Control, presentó la Plataforma Experta a las distintas cámaras de comercio y organismos empresariales. Esta interfaz tiene como objetivo modernizar ciertos trámites municipales, los cuales podrán realizarse en su totalidad de manera virtual.

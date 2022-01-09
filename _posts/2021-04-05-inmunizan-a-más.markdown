@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Desde temprana hora, el personal de salud del Hospital General “Salvador Zubirán Anchondo”, realizaron una fila para ser parte de los beneficiarios"
-image: /uploads/2021/images-heroesvacunados.jpg
-video: nil
-audio: nil
-alt: Inmunizan a más de 200 héroes de la salud
+image: "/uploads/2021/images-heroesvacunados.jpg"
+video: "nil"
+audio: "nil"
+alt: "Inmunizan a más de 200 héroes de la salud"
 front: false
-section: Local
+section: "Local"
+news_id: 183682
 ---
 
 Esta mañana inició la aplicación de la segunda dosis para el personal de salud que labora en los hospitales de la red IRAG (Infección Respiratoria Aguda Grave).

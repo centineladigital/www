@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Turbas protestantes provocan incendios y lanzan bombas incendiarias contra la policía, en la tercera noche de disturbios en Irlanda del Norte"
-image: /uploads/2021/images-2557237.jpg
-video: nil
-audio: nil
-alt: Tercera noche de disturbios en Irlanda del Norte
+image: "/uploads/2021/images-2557237.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tercera noche de disturbios en Irlanda del Norte"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183683
 ---
 
 Las autoridades de Irlanda del Norte llamaron a la calma estelunes tras una tercera noche de disturbios en que turbas protestantes provocaron incendios y lanzaron ladrillos y bombas Molotov contra la policía.

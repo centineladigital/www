@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "auguró que este año será un poco mejor dado a que ya se tiene la vacuna contra el Covid 19 "
-image: /uploads/2021/images-RGRG.jpg
-video: nil
-audio: /uploads/2021/audio-AL01_EDIBRAY_GOMEZ_GALLEGOS.mp3
-alt: Debe Estado pagos a socios de Canaco por proveedurías  
+image: "/uploads/2021/images-RGRG.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AL01_EDIBRAY_GOMEZ_GALLEGOS.mp3"
+alt: "Debe Estado pagos a socios de Canaco por proveedurías  "
 front: false
-section: Local
+section: "Local"
+news_id: 182038
 ---
 
 El presidente de Canaco en Chihuahua, Edibray Gómez Gallegos, comento que este año trae secuelas en el tema de adeudos incluso de aquellos socios que son proveedores de Gobierno del Estado, dado que aún quedan pago a deber del año pasado. 

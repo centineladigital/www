@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que sería un retroceso el que ganara el PAN."
-image: /uploads/2021/images-QUINTANA.jpg
-video: nil
-audio: /uploads/2021/audio-MV02_VICTOR_QUINTANA.mp3
-alt: PAN quiere hacer una involución
+image: "/uploads/2021/images-QUINTANA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV02_VICTOR_QUINTANA.mp3"
+alt: "PAN quiere hacer una involución"
 front: false
-section: Local
+section: "Local"
+news_id: 184726
 ---
 
 Las acciones que está llevando a cabo por parte del Partido Acción Nacional, es el llevar a cabo una “involución” fueron las palabras del candidato del distrito décimo segundo del Congreso Local, Víctor Quintana Silveira.

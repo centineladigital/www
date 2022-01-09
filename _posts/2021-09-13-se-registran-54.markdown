@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El número de personas fallecidas es de 7,878 (+1) que corresponde al municipio de Juárez."
-image: /uploads/2021/images-WhatsApp_Image_2021-09-13_at_11.38.15.jpeg
-video: /uploads/2021/videos-WhatsApp_Video_2021-09-13_at_10.29.30.3gpp
-audio: nil
-alt: Se registran 54 nuevos contagios de COVID-19 para el estado de Chihuahua
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-13_at_11.38.15.jpeg"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-09-13_at_10.29.30.3gpp"
+audio: "nil"
+alt: "Se registran 54 nuevos contagios de COVID-19 para el estado de Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 187677
 ---
 
 De acuerdo al Informe Técnico Covid-19 de la Secretaría de Salud con corte a las 7:00 horas del 13 de septiembre del 2021, suman un total de 76,729 (+54) casos confirmados de Covid-19, 65,851 (+18) recuperados, 62,780 (+224) descartados y 854 (-25) sospechosos.

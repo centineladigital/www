@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Bad Bunny defiende el reguetón; compara el odio que algunos sienten hacia el género musical con el racismo y la homofobia. "
-image: /uploads/2021/images-bad-bunny-anuncia-proyectos-dejara.jpg
-video: nil
-audio: nil
-alt: Bad Bunny compara el odio hacia el reguetón con el racismo y homofobia
+image: "/uploads/2021/images-bad-bunny-anuncia-proyectos-dejara.jpg"
+video: "nil"
+audio: "nil"
+alt: "Bad Bunny compara el odio hacia el reguetón con el racismo y homofobia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181974
 ---
 
 ¿Te gusta el reguetón? ¿Lo odias? Bad Bunny, famoso cantante reggaetonero, rompió el silencio sobre las constantes críticas que recibe por ser una figura de este género musical al igual que otros cantantes. El intérprete de Dakiti comparó el rechazo por el reguetón con la homofobia y el racismo. Te explicamos cómo lo expresó el mejor cantante del año 2020. Y es que a pesar de que cuenta con millones de reproducciones en sus canciones y álbumes completos, Bad Bunny es constantemente señalado por pertenecer y lograr el crecimiento en la industria musical el género reguetón. Esto en medio de opiniones que señalan y critican dicha música al considerarla poco digna, sin educación y más prejuicios. 

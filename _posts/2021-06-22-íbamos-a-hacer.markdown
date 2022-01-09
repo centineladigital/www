@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante una entrevista en el programa 'Ventaneando', Danna también opinó sobre la coincidencia de vestuario que tuvieron hace unos días. "
-image: /uploads/2021/images-cantante-amor-ordinario-opino-colega.jpg
-video: nil
-audio: nil
-alt: Íbamos a hacer una canción -  Danna Paola revela que Belinda no quiso colaborar con ella
+image: "/uploads/2021/images-cantante-amor-ordinario-opino-colega.jpg"
+video: "nil"
+audio: "nil"
+alt: "Íbamos a hacer una canción -  Danna Paola revela que Belinda no quiso colaborar con ella"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185162
 ---
 
 Hace unos días Danna Paola lució un vestuario que previamente había utilizado Belinda, lo que provocó una gran polémica en torno a una rivalidad entre ambas cantantes. Pero para disipar estos rumores, Danna habló de esta peculiar coincidencia durante una entrevista en Ventaneando, donde también reveló que Beli no quiso hacer una canción con ella.  "¿Qué te digo? Se le ve muy bonito. ¿Sabes cuál es el problema? Que justo cuando no pides explicaciones, ahí está, o sea yo.... fuck, es que a mí me da mucha risa. Yo digo: '¡Joder! ¿Pero cuál es el afán de querer competir?'", le dijo la intérprete de "Amor ordinario" a Linet Puente sobre el vestuario con las que ambas coincidieron. 

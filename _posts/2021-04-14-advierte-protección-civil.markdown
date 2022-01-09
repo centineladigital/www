@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La CEPC informa que los fuertes vientos tendrán mayor incidencia en Chihuahua, Janos, Madera, Cuauhtémoc, Parral y Satevó, así como la región de Sueco"
-image: /uploads/2021/images-Satevó.jpg
-video: nil
-audio: nil
-alt:  Advierte Protección Civil rachas de 55 km/h en zona noroeste, centro y sur
+image: "/uploads/2021/images-Satevó.jpg"
+video: "nil"
+audio: "nil"
+alt: " Advierte Protección Civil rachas de 55 km/h en zona noroeste, centro y sur"
 front: false
-section: Local
+section: "Local"
+news_id: 183873
 ---
 
 Para este miércoles 14 el Frente Frío número 50, con características de estacionario, traerá rachas de viento de 55 kilómetros por hora (km/h) en municipios como Chihuahua, Janos, Madera, Cuauhtémoc, Parral y Satevó, así como la región de Sueco, informó la Coordinación Estatal de Protección Civil (CEPC).

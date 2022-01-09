@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ante el incremento de la matrícula, amplían instalaciones de la Universidad Pedagógica Nacional del Estado de Chihuahua, con recursos del programa Escuelas al Cien; además se rehabilitará la red eléctrica"
-image: /uploads/2021/images-CONSTRUCCIÓN_2.JPG
-video: nil
-audio: nil
-alt: Inicia construcción de aulas en Upnech campus Guachochi
+image: "/uploads/2021/images-CONSTRUCCIÓN_2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Inicia construcción de aulas en Upnech campus Guachochi"
 front: false
-section: Local
+section: "Local"
+news_id: 181852
 ---
 
 En el campus Guachochi de la Universidad Pedagógica Nacional del Estado de Chihuahua (Upnech) inició la construcción de cuatro aulas y la rehabilitación de la red eléctrica.

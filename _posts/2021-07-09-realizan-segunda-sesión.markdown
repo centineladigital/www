@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Tocan temas de vital importancia, según palabras del Alcalde electo."
-image: /uploads/2021/images-BONILLA.jpg
-video: nil
-audio: /uploads/2021/audio-MV01.mp3
-alt: Realizan segunda sesión de transición en el ayuntamiento de Chihuahua
+image: "/uploads/2021/images-BONILLA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV01.mp3"
+alt: "Realizan segunda sesión de transición en el ayuntamiento de Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 185515
 ---
 
 La segunda reunión del proceso de transición a nivel municipal se llevó a cabo este viernes, donde se tocaron temas relacionados a los servicios que presta el municipio de forma pública, destacando dentro de la misma el interés de la próxima administración en renovar el relleno sanitario.

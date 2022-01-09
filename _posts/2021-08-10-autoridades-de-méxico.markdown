@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El canciller Marcelo Ebrard informó que el Presidente se reunirá con el consejero de Seguridad Nacional de Estados Unidos, Jake Sullivan, en Palacio Nacional"
-image: /uploads/2021/images-entrevista-especial-marcelo-ebrard-secretario.jpg
-video: nil
-audio: nil
-alt: Autoridades de México se reunirán hoy con funcionarios de EU
+image: "/uploads/2021/images-entrevista-especial-marcelo-ebrard-secretario.jpg"
+video: "nil"
+audio: "nil"
+alt: "Autoridades de México se reunirán hoy con funcionarios de EU"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186496
 ---
 
 El secretario de Relaciones Exteriores (SRE), Marcelo Ebrard, informó que hoy habrá una reunión entre funcionarios de alto nivel de México y Estados Unidos para dialogar sobre la reapertura de la frontera y el envío de vacunas contra el coronavirus. 

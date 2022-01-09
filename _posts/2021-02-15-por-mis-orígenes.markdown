@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Toñita aseguró que los ejecutivos sí hicieron todo lo posible para que Cynthia Rodríguez ganara en ‘Desafío de Estrellas’; aseguró que fue discriminada por el color de piel y por sus orígenes en TV Azteca. "
-image: /uploads/2021/images-tonita-asegura-vivio-discriminacion-color_(1).jpg
-video: nil
-audio: nil
-alt: Por mis orígenes -  Toñita revela que sufrió de racismo en TV Azteca
+image: "/uploads/2021/images-tonita-asegura-vivio-discriminacion-color_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Por mis orígenes -  Toñita revela que sufrió de racismo en TV Azteca"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182929
 ---
 
 Toñita, ex concursante de La Academia en TV Azteca, volvió a dar de qué hablar. Reiteró su conflicto con Cynthia Rodríguez y detalló que su carrera no despuntó con ayuda de la televisora, pues presuntamente la discriminaron por el color de su piel. ¿Fue víctima de racismo? Te contamos cómo la cantante volvió a prender la polémica. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz, arrepentida del diseño que se hizo de joven, buscó ayuda profesional para eliminarlo y compartió el proceso en Instagram. "
-image: /uploads/2021/images-eiza-gonzalez-instagram-6.jpg
-video: nil
-audio: nil
-alt: No tomen y se tatúen cuando son jóvenes -  Eiza González se borra uno de sus tatuajes
+image: "/uploads/2021/images-eiza-gonzalez-instagram-6.jpg"
+video: "nil"
+audio: "nil"
+alt: "No tomen y se tatúen cuando son jóvenes -  Eiza González se borra uno de sus tatuajes"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182414
 ---
 
 Quién no sea arrepiente de algo que hizo en su juventud? La borrachera en esa fiesta, la persona con la que te diste tu primer beso, el outfit que escogiste para una ocasión especial y, por supuesto, lo más clásico, aquel tatuaje que marcaste permanentemente en tu piel luego de un mala decisión cuando traías encima unas copitas de más. Eiza González fue víctima de esto último y, recientemente compartió en sus redes sociales lo arrepentida que estaba de haberse tatuado el pie con un diseño que ahora encontraba bastante vergonzoso, a tal grado que, en sus historias de Instagram terminó por mostrar el proceso al que se sometió para eliminarse el tatuaje, dejando a su vez una enseñanza para aquellos jóvenes que la siguen. 

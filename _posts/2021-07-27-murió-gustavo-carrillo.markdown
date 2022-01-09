@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gustavo Carrillo era un actor de doblaje que destacó por doblar a Jack Black en Escuela de Rock, además de prestar su voz a personajes de Los Simpson."
-image: /uploads/2021/images-el-actor-se-contagio-de.jpg
-video: nil
-audio: nil
-alt: Murió Gustavo Carrillo, actor de doblaje que dio voz a Jack Black en 'Escuela de Rock'
+image: "/uploads/2021/images-el-actor-se-contagio-de.jpg"
+video: "nil"
+audio: "nil"
+alt: "Murió Gustavo Carrillo, actor de doblaje que dio voz a Jack Black en 'Escuela de Rock'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186030
 ---
 
 En este 2021 se ha dado a conocer la muerte de varios actores de doblaje, lamentablemente, Gustavo Carrillo, quien también ejercía esta profesión murió este 26 de julio, así lo dio a conocer la cuenta de Twitter Doblaje Mexicano en la que se informó el fallecimiento del también músico, quien se contagió de covid-19. Doblaje Mexicano dio a conocer la muerte de Gustavo Carrillo junto con una imagen en blanco y negro en donde se ve al actor de doblaje junto a algunos de los actores a los que dobló para las películas en América latina. 

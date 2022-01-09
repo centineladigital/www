@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un análisis en 30 campus de Estados Unidos destaca que más de la mitad de las instituciones tenían picos que estaban muy por encima de mil casos de covid-19 por cada 100 mil personas"
-image: /uploads/2021/images-2511335.jpg
-video: nil
-audio: nil
-alt: Universidades serían superpropagadores de covid
+image: "/uploads/2021/images-2511335.jpg"
+video: "nil"
+audio: "nil"
+alt: "Universidades serían superpropagadores de covid"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182118
 ---
 
 Los campus universitarios corren el riesgo de convertirse en superpropagadores de covid-19 para toda su área de influencia, según un nuevo estudio realizado en Estados Unidos, que muestra el peligro de las dos primeras semanas de clase en particular.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hace 4 años y medio fueron rescatadas dos hembras de jaguar en Calakmul, Campeche; hoy lucen así"
-image: /uploads/2021/images-2543933.jpg
-video: nil
-audio: nil
-alt: Huérfanas y deshidratadas así estaban jaguares, hoy corren libres en la selva
+image: "/uploads/2021/images-2543933.jpg"
+video: "nil"
+audio: "nil"
+alt: "Huérfanas y deshidratadas así estaban jaguares, hoy corren libres en la selva"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183396
 ---
 
 A cuatro años y medio de su rescate en Calakmul, Campeche, las hembras de jaguar bautizadas como Nicté Ha y Celestún Petén, volvieron a correr libres en la selva, luego de ser sometidas a un ambicioso programa de crianza, rehabilitación y adaptación.

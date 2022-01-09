@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Juan Ferrara, hermano de Lucía Guilmáin, explicó que la actriz murió a causa del covid-19 a tan sólo horas de que se hiciera la prueba. Te contamos lo que reveló el también primer actor. "
-image: /uploads/2021/images-juan-ferrara-revela-causas-muerte.jpg
-video: nil
-audio: nil
-alt: Fue repentino -  Juan Ferrera revela que Lucía Guilmáin murió sin saber que tenía covid-19
+image: "/uploads/2021/images-juan-ferrara-revela-causas-muerte.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fue repentino -  Juan Ferrera revela que Lucía Guilmáin murió sin saber que tenía covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182972
 ---
 
 La primera actriz Lucía Guilmáin murió el día de ayer. La noticia de su fallecimiento impactó al mundo del espectáculo debido a su larga permanencia en el medio. Con muestras de cariño para su familia y reconocimiento a su enorme trayectoria artística, las razones de muerte no se comunicaron. Sin embargo, su hermano Juan Ferrara recién explicó que la famosa murió a causa del coronavirus, covid-19, esto sin siquiera saberlo, pues aún no recibía los resultados de una prueba y no tenía síntomas fuertes del virus. 

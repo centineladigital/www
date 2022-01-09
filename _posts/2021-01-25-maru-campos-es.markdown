@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Mariana Lachica, presidenta de la COE, resaltó que “la tendencia es irreversible”, con 55 de los 61 actas computadas, participando el 85% de los militantes panistas."
-image: /uploads/2021/images-maru.jpeg
-video: nil
-audio: nil
-alt: Maru Campos es a candidata del PAN
+image: "/uploads/2021/images-maru.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Maru Campos es a candidata del PAN"
 front: false
-section: Local
+section: "Local"
+news_id: 182404
 ---
 
 La Comisión Organizadora Electoral del PAN oficializó los resultados de la elección interna para elegir candidato a la gubernatura, en donde Maru Campos obtuvo la victoria.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Además de JLo, el espectáculo contará con la participación de artistas como Billie Eilish, Shawn Mendes, Ed Sheeran, Lizzo, Metallica, Lorde, The Weeknd, entre otros. "
-image: /uploads/2021/images-jenifer.jpg
-video: nil
-audio: nil
-alt: ¡Repleto de estrellas! Jennifer López se suma al concierto Global Citizen
+image: "/uploads/2021/images-jenifer.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Repleto de estrellas! Jennifer López se suma al concierto Global Citizen"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186532
 ---
 
 Jennifer López continúa acaparando los reflectores tras su romántico viaje a lado de Ben Affleck, con quien retomó su relación 17 años después de su mediática ruptura. Ahora, la cantante confirmó que se suma a la lista de artistas que se presentarán en el concierto solidario Global Citizen que se llevará a cabo en Nueva York, una actuación con la que JLo volverá a su ciudad natal. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Exhortan a continuar con los esquemas de vacunación."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-MV03.mp3
-alt: Continúa campaña de vacunación de sarampión y rubiola
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV03.mp3"
+alt: "Continúa campaña de vacunación de sarampión y rubiola"
 front: false
-section: Local
+section: "Local"
+news_id: 184847
 ---
 
 Será hasta el 25 de junio cuando concluya la campaña de vacunación contra sarampión y rubiola, señaló la Subdirectora de Medicina Preventiva, Wendy Ávila Coronado. La cual inició en el mes de mayo.

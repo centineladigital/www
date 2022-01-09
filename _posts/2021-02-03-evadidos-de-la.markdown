@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Algunas de estas se localizaron en Estados Unidos."
-image: /uploads/2021/images-PENICHE.jpg
-video: nil
-audio: /uploads/2021/audio-MW04_CESAR_PENICHE.mp3
-alt: Evadidos de la justicia 12 exfuncionarios
+image: "/uploads/2021/images-PENICHE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW04_CESAR_PENICHE.mp3"
+alt: "Evadidos de la justicia 12 exfuncionarios"
 front: false
-section: Local
+section: "Local"
+news_id: 182672
 ---
 
 Dentro del Operativo Justicia para Chihuahua aún se encuentran 12 personas sustraídas de la justicia, algunos de ellos se encuentran en Estados Unidos, señaló el Fiscal General de Chihuahua César Augusto Peniche Espejel. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de su cuenta de Instagram, Ángela Aguilar presumió un hermoso regalo que Vicente Fernández le dio. Según la famosa, decidió ‘hacer uso’ de él en honor al cantante que cumplió años ayer. "
-image: /uploads/2021/images-regalo-angela-aguilar.jpg
-video: nil
-audio: nil
-alt: ¿Sí le gustó? Ángela Aguilar presume hermoso regalo que le dio Vicente Fernández
+image: "/uploads/2021/images-regalo-angela-aguilar.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Sí le gustó? Ángela Aguilar presume hermoso regalo que le dio Vicente Fernández"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183010
 ---
 
 Ángela Aguilar, cantante e hija de Pepe Aguilar, mandó una felicitación para Vicente Fernández –por su cumpleaños que se celebró ayer–. La famosa hizo uso de redes sociales para unirse al festejo del intérprete de Estos Celos; además de que presumió un regalo que Don Chente le hizo. ¿Qué le obsequió el padre de Alejandro Fernández? 

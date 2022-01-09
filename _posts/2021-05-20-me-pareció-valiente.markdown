@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tinieblas Jr expresó que se siente mal por la actitud que tuvo ante la legítima indignación de Macky, pues no esperaba ser tocada –con nalgadas– sin su consentimiento durante la emisión matutina del programa Hoy.   "
-image: /uploads/2021/images-tinieblas-jr-disculpo-frente-macky.jpg
-video: nil
-audio: nil
-alt: Me pareció valiente -  Tinieblas Jr reaparece tras polémica de acoso en 'Hoy'; pide perdón a Macky
+image: "/uploads/2021/images-tinieblas-jr-disculpo-frente-macky.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me pareció valiente -  Tinieblas Jr reaparece tras polémica de acoso en 'Hoy'; pide perdón a Macky"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184563
 ---
 
 Tras la polémica de violencia de género que se llevó a cabo en el programa Hoy de Televisa durante la sección Las Estrellas bailan en Hoy en donde el luchador Tinieblas Jr. acosó sexualmente a Macky mientras mostraban su coreografía, la pareja se reencontró y lanzaron un video para limar asperezas y quedar en buenos términos. Mediante un video, el luchador salió a dar la cara y se disculpó con Macky por haber dicho que no era profesional tras reaccionar ante el acoso sexual. En el video, el luchador Tinieblas Jr salió para afrontar la polémica en la que se vio envuelto. El deportista ofreció disculpas a Macky. Explicó que se arrepiente de los comentarios que hizo sobre su compañera al mostrarse molesta por ser tocada sin su consentimiento durante la transmisión en vivo del show. 

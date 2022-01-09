@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Checa los horarios y la programación de todos los cotejos de la séptima fecha del futbol mexicano "
-image: /uploads/2021/images-donde-ver-y-transmisiones-de.jpg
-video: nil
-audio: nil
-alt: Dónde ver los partidos de la Jornada 7 del Apertura 2021 de la LIGA MX
+image: "/uploads/2021/images-donde-ver-y-transmisiones-de.jpg"
+video: "nil"
+audio: "nil"
+alt: "Dónde ver los partidos de la Jornada 7 del Apertura 2021 de la LIGA MX"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187437
 ---
 
 Este viernes 27 de agosto inicia la jornada 7 del Apertura 2021 de la Liga MX con tres duelos que prometen dar un arranque entretenido en la nueva fecha del futbol mexicano. 

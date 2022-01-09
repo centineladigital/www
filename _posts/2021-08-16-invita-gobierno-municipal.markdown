@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se transmitirá en vivo a través de la página de Facebook del INCUBECH a partir de las 9:00 horas   "
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Invita Gobierno Municipal a Jueves Chihuahua Emprende Virtual
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Invita Gobierno Municipal a Jueves Chihuahua Emprende Virtual"
 front: false
-section: Local
+section: "Local"
+news_id: 186743
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Económico y Turístico, invita el próximo 19 de agosto al Jueves Chihuahua Emprende Virtual, que se transmitirá en vivo a través de la página de Facebook del INCUBECH a partir de las 9:00 horas. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Por cuestiones climatologicas no se llevaron a cabo servicios como la recolección de basura."
-image: /uploads/2021/images-MANQUE.jpg
-video: nil
-audio: /uploads/2021/audio-MM05.mp3
-alt: Servicios se reestablecerán paulatinamente
+image: "/uploads/2021/images-MANQUE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM05.mp3"
+alt: "Servicios se reestablecerán paulatinamente"
 front: false
-section: Local
+section: "Local"
+news_id: 182968
 ---
 
 Los servicios del municipio se reestablecerán de forma paulatina, señaló la Alcaldesa en funciones María Angélica Granados Tres Palacios, al ser cuestionada respecto a la situación que vivieron los funcionarios públicos por motivo de la novena temporada invernal.

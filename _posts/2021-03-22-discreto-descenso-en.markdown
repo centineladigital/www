@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Exhortan a llevar a cabo acciones para frenar casos."
-image: /uploads/2021/images-ARTUR.jpg
-video: nil
-audio: /uploads/2021/audio-ML02_ARTURO_VALENZUELA.mp3
-alt: Discreto descenso en casos COVID -  Valenzuela
+image: "/uploads/2021/images-ARTUR.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML02_ARTURO_VALENZUELA.mp3"
+alt: "Discreto descenso en casos COVID -  Valenzuela"
 front: false
-section: Local
+section: "Local"
+news_id: 183512
 ---
 
 Un discreto descenso en casos de coronavirus fue lo que dio a conocer el Director Médico de la Zona Norte, Arturo Valenzuela Zorrilla, al igual que descensos en las defunciones de forma discreta, señalando que por fortuna no se ha detectado un repunte dentro de las gráficas.

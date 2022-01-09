@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los legisladores aprobaron el proyecto de ley en general con 316 votos a favor y 127 en contra; ahora, el Senado debe revisar y aprobar el proyecto de ley"
-image: /uploads/2021/images-2543383.jpg
-video: nil
-audio: nil
-alt: ¿Qué permite y qué prohíbe el uso lúdico de mariguana?
+image: "/uploads/2021/images-2543383.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Qué permite y qué prohíbe el uso lúdico de mariguana?"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183382
 ---
 
 La cámara baja del Congreso de México aprobó el miércoles un proyecto de ley que despenalizaría el cannabis para usos recreativos, médicos y científicos, acercándolo un paso más a la creación de uno de los mercados más grandes del mundo para la planta.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Danna Paola regresa al doblaje de la mano de Disney, en esta ocasión la cantante prestará su voz a la protagonista de Raya y el Último Dragón. "
-image: /uploads/2021/images-paola-trabajo-con-disney.jpg
-video: nil
-audio: nil
-alt: ¡Regresa al doblaje! Danna Paola prestará su voz a protagonista de 'Raya y el último dragón'
+image: "/uploads/2021/images-paola-trabajo-con-disney.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Regresa al doblaje! Danna Paola prestará su voz a protagonista de 'Raya y el último dragón'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183059
 ---
 
 Desde hace algunos años Danna Paola ha logrado colocarse en el gusto del público, no sólo por su música, sino también en la actuación, esto después de su participación en la serie Élite. Ahora la intérprete de “Sodio” sorprendió al revelar que regresa al doblaje después de algunos años y lo hará por segunda voz de la mano de Disney en la película Raya y el último dragón. 

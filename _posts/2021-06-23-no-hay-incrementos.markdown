@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Incendios son similares en el mes de junio del año anterior."
-image: /uploads/2021/images-JOEL.jpg
-video: nil
-audio: /uploads/2021/audio-MW04.mp3
-alt: No hay incrementos significativos en incendios -  Estrada
+image: "/uploads/2021/images-JOEL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW04.mp3"
+alt: "No hay incrementos significativos en incendios -  Estrada"
 front: false
-section: Local
+section: "Local"
+news_id: 185209
 ---
 
 No hay incrementos de forma significativa en incendios, señaló Joel Estrata titular del área de Bomberos en el Municipio de Chihuahua. Quien dijo que principalmente se tiene registro de estos sucesos dentro de la mancha urbana en áreas no habitadas siendo pastizal y basura los más comunes.

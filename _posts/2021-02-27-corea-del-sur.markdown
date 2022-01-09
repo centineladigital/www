@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Autoridades de salud de Corea del Sur permiten al personal sanitario a obtener dosis extra de los viales de las vacunas covid de AstraZeneca-Oxford y de Pfizer-BioNTech"
-image: /uploads/2021/images-2536631.jpg
-video: nil
-audio: nil
-alt: Corea del Sur autoriza extraer más dosis de viales de vacunas
+image: "/uploads/2021/images-2536631.jpg"
+video: "nil"
+audio: "nil"
+alt: "Corea del Sur autoriza extraer más dosis de viales de vacunas"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183190
 ---
 
 La Agencia para el Control y Prevención de Enfermedades de Corea del Sur autorizó este sábado al personal sanitario a obtener dosis extra de los viales de las vacunas contra el coronavirus desarrolladas por AstraZeneca y la Universidad de Oxford y por Pfizer-BioNTech.

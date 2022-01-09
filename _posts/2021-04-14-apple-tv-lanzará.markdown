@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Esta producción, donde Mark Ronson será el anfitrión, se estrenará en todo el mundo el 30 de julio con seis episodios iniciales. "
-image: /uploads/2021/images-paul-mccartney-mike-beastie-boys.jpg
-video: nil
-audio: nil
-alt: Apple TV+ lanzará serie sobre la historia de la música; Paul McCartney y 'Mike D' serán los invitados
+image: "/uploads/2021/images-paul-mccartney-mike-beastie-boys.jpg"
+video: "nil"
+audio: "nil"
+alt: "Apple TV+ lanzará serie sobre la historia de la música; Paul McCartney y 'Mike D' serán los invitados"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183879
 ---
 
 Watch the Sound with Mark Ronson es la nueva serie de la plataforma Apple TV+ que, con el músico y productor británico Mark Ronson como anfitrión, narrará la evolución de la música con invitados como Paul McCartney, Charli XCX y Mike D, de los Beastie Boys. Esta producción  se estrenará en todo el mundo el 30 de julio con seis episodios iniciales, donde el músico tendrá que componer una pieza musical siguiendo una técnica concreta en cada uno, anunció la compañía tecnológica.

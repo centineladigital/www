@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La finalidad de este evento es enaltecer el patrimonio gastronómico chihuahuense y reactivar la economía del Municipio"
-image: /uploads/2021/images-unnamed_(4).jpg
-video: nil
-audio: nil
-alt: Invitan Gobierno Municipal y City Express Plus a cena temática en Ex Hacienda del Torreón
+image: "/uploads/2021/images-unnamed_(4).jpg"
+video: "nil"
+audio: "nil"
+alt: "Invitan Gobierno Municipal y City Express Plus a cena temática en Ex Hacienda del Torreón"
 front: false
-section: Local
+section: "Local"
+news_id: 186400
 ---
 
 En coordinación con el hotel City Epress Plus, el Gobierno Municipal a través de la Dirección de Desarrollo Económico y Turístico invita a su cena temática mensual el próximo 13 de agosto en la Ex Hacienda del Torreón.

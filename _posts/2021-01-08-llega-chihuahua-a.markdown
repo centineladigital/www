@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Llega a cuatro mil 364 muertes detectadas desde el inicio de la pandemia."
-image: /uploads/2021/images-LETICIA_RUIZ_(3).jpg
-video: nil
-audio: /uploads/2021/audio-MV02_LETICIA_RUIZ.mp3
-alt: Llega Chihuahua a 47 mil contagios
+image: "/uploads/2021/images-LETICIA_RUIZ_(3).jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV02_LETICIA_RUIZ.mp3"
+alt: "Llega Chihuahua a 47 mil contagios"
 front: false
-section: Local
+section: "Local"
+news_id: 181984
 ---
 
 Un total de 47 mil 092 casos confirmados de COVID-19 es lo que registró este viernes las autoridades estatales en el área de salud, mientras que se han confirmado la muerte de cuatro mil 364 muertes, según lo dio a conocer la Directora de Medicina Preventiva Leticia Ruiz González.

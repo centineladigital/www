@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Integrantes del Frente Nacional Obradorista acusan al INE de intervenir en los procesos electorales y exigen la renuncia y juicio político de Lorenzo Córdova y Ciro Murayama"
-image: /uploads/2021/images-2557751.jpg
-video: nil
-audio: nil
-alt: Manifestantes exigen que INE regrese candidatura de Félix Salgado
+image: "/uploads/2021/images-2557751.jpg"
+video: "nil"
+audio: "nil"
+alt: "Manifestantes exigen que INE regrese candidatura de Félix Salgado"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183713
 ---
 
 Simpatizantes de Félix Salgado Macedonio continúan con su campamento instalado ayer lunes afuera de las instalaciones del Instituto Nacional Electoral, demandan su restitución a la candidatura como gobernador al estado de Guerrero.

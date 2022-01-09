@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La joven actriz Millie Bobby Brown, protagonista de la serie Stranger Things, presumió su caracterización como Enola Holmes al tiempo que Netflix confirmó la secuela de la película. "
-image: /uploads/2021/images-millie-bobby-brown-presume-outfit.jpg
-video: nil
-audio: nil
-alt: ¡Millie Bobby Brown ya presume 'look'! Netflix confirma la película 'Enola Holmes 2'
+image: "/uploads/2021/images-millie-bobby-brown-presume-outfit.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Millie Bobby Brown ya presume 'look'! Netflix confirma la película 'Enola Holmes 2'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184443
 ---
 
 Netflix confirmó que habrá una segunda de Enola Holmes. Así lo dio a conocer la productora y plataforma de entretenimiento, mientras la joven actriz y protagonista de la película, Millie Bobby Brown, subió una foto en su cuenta de Instagram caracterizada con su personaje. "La secuela está en marcha", confirmó Netflix en redes sociales acompañado por una animación donde se conforma el título de la película: Enola Holmes 2.

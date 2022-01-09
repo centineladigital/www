@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Perfiles foráneos y locales son revisados."
-image: /uploads/2021/images-BONILLA.jpg
-video: /uploads/2021/videos-MM05_MARCO_BONILLA.mp4
-audio: nil
-alt: Definirán a titular de DSPM con cinco perfiles
+image: "/uploads/2021/images-BONILLA.jpg"
+video: "/uploads/2021/videos-MM05_MARCO_BONILLA.mp4"
+audio: "nil"
+alt: "Definirán a titular de DSPM con cinco perfiles"
 front: false
-section: Local
+section: "Local"
+news_id: 187067
 ---
 
 La titularidad de la Dirección de Seguridad Pública Municipal se definirá antes de que concluya el mes de agosto, señaló el Alcalde electo, Marco Antonio Bonilla Mendoza, quien señaló que se tienen perfiles tanto locales como foráneos.

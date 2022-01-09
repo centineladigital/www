@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En Chihuahua y Juárez la intensidad prevista es de aislada a dispersa, lo que significa una acumulación de entre 2.1 y 5 mm; precipitaciones podrían estar acompañadas de granizo y descargas eléctricas  "
-image: /uploads/2021/images-LLUVIAS_JULIO_2021_EN_MUNICIPIO_(3).jpeg
-video: nil
-audio: nil
-alt: Se mantendrán lluvias en varios municipios del estado viernes y sábado -  CEPC
+image: "/uploads/2021/images-LLUVIAS_JULIO_2021_EN_MUNICIPIO_(3).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Se mantendrán lluvias en varios municipios del estado viernes y sábado -  CEPC"
 front: false
-section: Local
+section: "Local"
+news_id: 186131
 ---
 
 Para este viernes 30 se pronostican lluvias desde moderadas e intervalos de chubascos a fuertes (25.1 a 50 mm) en partes de las zonas noroeste y suroeste, mientras que en Chihuahua y Ciudad Juárez serán de aisladas a dispersas (de 2.1 a 5 mm), informó la Coordinación Estatal de Protección Civil (CEPC).

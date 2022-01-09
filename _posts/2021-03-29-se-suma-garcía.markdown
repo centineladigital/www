@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que busca acciones que beneficien a los mexicanos."
-image: /uploads/2021/images-ELOY.jpg
-video: nil
-audio: /uploads/2021/audio-ML01_ELOY_GARCIA.mp3
-alt: Se suma García Tarín a proyecto de Marco Bonilla
+image: "/uploads/2021/images-ELOY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML01_ELOY_GARCIA.mp3"
+alt: "Se suma García Tarín a proyecto de Marco Bonilla"
 front: false
-section: Local
+section: "Local"
+news_id: 183598
 ---
 
 El exsecretario de la administración de Marco Adán Quezada, Eloy García Tarín, dio a conocer su adhesión al proyecto de Marco Antonio Bonilla a la alcaldía de Chihuahua, esto ya que por motivos personales el país se encuentra en peligro.

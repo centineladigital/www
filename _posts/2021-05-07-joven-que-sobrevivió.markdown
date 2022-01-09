@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Miguel Córdova Córdova, joven en situación de calle que sobrevivió a la tragedia de la Línea 12 del Metro, contó que en el pasado Ana Bárbara lo ayudó. Incluso dijo que la veía como una madre; la cantante se enteró y así respondió. "
-image: /uploads/2021/images-ana-barbara-ayudo-miguel-cordova.jpg
-video: nil
-audio: nil
-alt: Joven que sobrevivió a tragedia del Metro reveló que Ana Bárbara lo ayudó en el pasado; ella responde
+image: "/uploads/2021/images-ana-barbara-ayudo-miguel-cordova.jpg"
+video: "nil"
+audio: "nil"
+alt: "Joven que sobrevivió a tragedia del Metro reveló que Ana Bárbara lo ayudó en el pasado; ella responde"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184338
 ---
 
 Tras la tragedia que se suscitó en la Línea 12 de Metro de la Ciudad de México, han salido muchas historias que por la premura de la vida cotidiana no prestamos atención. Tal es el caso del joven en situación de calle -Miguel Córdova Córdova- que sobrevivió al accidente, pues dormía debajo del puente que se derrumbó. Gracias a su testimonio, miles han prestado atención a las personas en situación de calle que día con día sobreviven al sistema en el que vivimos. Después de hacerse viral por su testimonio, su historia de vida fue escarbada con profundidad a tal punto que además de narrar cómo es que sobrevive con cinco pesos en la bolsa, también salió a flote que el protagonista de esta historia conoció a la cantante Ana Bárbara, a quien con respeto, señaló como una figura materna. Por ello, la famosa decidió mandarle un mensaje después de tiempo sin saber de él. 

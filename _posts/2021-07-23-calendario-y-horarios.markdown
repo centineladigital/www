@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Conoce cuándo y a qué hora estará participando cada uno de los integrantes de la delegación mexicana en la justa veraniega"
-image: /uploads/2021/images-agenda-de-mexicanos-en-tokio-1_1_0_1198_747.jpg
-video: nil
-audio: nil
-alt: Calendario y horarios de los mexicanos en los Juegos Olímpicos de Tokio
+image: "/uploads/2021/images-agenda-de-mexicanos-en-tokio-1_1_0_1198_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Calendario y horarios de los mexicanos en los Juegos Olímpicos de Tokio"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185945
 ---
 
 Aunque la inauguración de los Juegos Olímpicos de Tokio 2020 será el viernes 23 de julio, la actividad en esta justa veraniega ya comenzó desde este miércoles 21 con el softbol y futbol femenil

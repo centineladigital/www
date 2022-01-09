@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante puertorriqueño Bad Bunny interpretará 'Booker T' en Royal Rumble 2021, uno de los eventos más importantes de la WWE. "
-image: /uploads/2021/images-bad-bunny-presentara-evento-estelar.jpg
-video: nil
-audio: nil
-alt: Es un sueño de la infancia -  Bad Bunny sobre su presentación en evento estelar de la WWE
+image: "/uploads/2021/images-bad-bunny-presentara-evento-estelar.jpg"
+video: "nil"
+audio: "nil"
+alt: "Es un sueño de la infancia -  Bad Bunny sobre su presentación en evento estelar de la WWE"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182442
 ---
 
 Bad Bunny cumplirá uno de sus sueños el próximo domingo, cuando participe en el legendario evento de lucha libre Royal Rumble, de la World Wrestling Entertainment (WWE). La participación del puertorriqueño será específicamente para interpretar la canción "Booker T", titulada así en honor al ex luchador estadunidense. El tema forma parte de El último tour del mundo, el álbum más reciente del artista urbano lanzado en noviembre del año pasado. Será la primera vez que el cantante interprete en vivo el sencillo. Por medio de una publicación en Instagram, la cuenta oficial de la WWE confirmó la noticia.

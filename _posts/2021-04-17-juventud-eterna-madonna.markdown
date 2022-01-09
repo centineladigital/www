@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hace un par de días, Madonna sorprendió con su cambio de look, lo que algunos consideran sirvió para verse más joven. "
-image: /uploads/2021/images-madonna-caracterizado-cambiar-estilo-constantemente_0_11_1000_622.jpg
-video: nil
-audio: nil
-alt: ¿Juventud eterna? Madonna sorprende en redes con cambio de look; fans reaccionan
+image: "/uploads/2021/images-madonna-caracterizado-cambiar-estilo-constantemente_0_11_1000_622.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Juventud eterna? Madonna sorprende en redes con cambio de look; fans reaccionan"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183948
 ---
 
 Madonna, La Reina del Pop es una de las artistas que han revolucionado el mundo de la música desde sus inicios con Like a Virgin o Material Girl hasta sus últimos sencillos que no han tenido el éxito esperado como Medellín o God Control, en donde ha cambiado de ritmos hasta tener algunos toques de la música urbana, pero no sólo es en sus canciones es en las que la cantante se renueva, pues su imagen también se ha visto transformada. Y es que la Madonna que conocimos con Like a Virgin no es la misma que canta Bitch I'm Madonna con Nicki Minaj, su aspecto se ha transformado y hace un par de días la diva del pop sorprendió con su cambio que algunos consideran lo hizo para verse más joven; en donde La Reyna del Pop tiene labios más pronunciados y luce ropa de colores estrafalarios. 

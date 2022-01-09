@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La salud mental es tarea de todas y de todos"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Conmemora Gobierno Municipal Día Mundial de la Lucha Contra la Depresión
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Conmemora Gobierno Municipal Día Mundial de la Lucha Contra la Depresión"
 front: false
-section: Local
+section: "Local"
+news_id: 182099
 ---
 
 El Gobierno Municipal a través del Centro de Atención y Prevención Psicológicas (CAPPSI), se une a la conmemoración del “Dia Mundial de la Lucha Contra la Depresión” que se celebra cada 13 de enero, con acciones de atención y prevención para atender este trastorno.

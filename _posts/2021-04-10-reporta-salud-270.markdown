@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A la fecha suman 60 mil 185 casos y 5 mil 798 decesos; actualmente 295 personas se encuentran hospitalizadas y 65 intubadas en 28 unidades médicas en la entidad"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporta Salud 270 nuevos contagios y 28 defunciones por COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporta Salud 270 nuevos contagios y 28 defunciones por COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 183806
 ---
 
 Un total general de 60 mil 185 de casos de COVID-19 registra la Secretaría de Salud luego de que se confirmaran 270 nuevos contagios en el último reporte epidemiológico de la pandemia en la entidad.

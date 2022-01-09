@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Asimismo, estará preparado para brindar servicio de nuevo en caso de ser necesario"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Concluye operaciones refugio temporal Mármol III a partir de este lunes
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Concluye operaciones refugio temporal Mármol III a partir de este lunes"
 front: false
-section: Local
+section: "Local"
+news_id: 186995
 ---
 
 El Gobierno Municipal informa a la ciudadanía que el refugio temporal Mármol III concluye el día de hoy la atención al público, asimismo estará preparado para brindar servicio de nuevo en caso de ser necesario.

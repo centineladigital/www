@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "“Los caminos del diálogo están abiertos”, puntualizó el titular de la dependencia, Carlos González Herrera"
-image: /uploads/2021/images-UTCH.jpeg
-video: nil
-audio: nil
-alt:  Recibe el Secretario de Educación y Deporte  a autoridades sindicales de la UTCH
+image: "/uploads/2021/images-UTCH.jpeg"
+video: "nil"
+audio: "nil"
+alt: " Recibe el Secretario de Educación y Deporte  a autoridades sindicales de la UTCH"
 front: false
-section: Local
+section: "Local"
+news_id: 182526
 ---
 
 El titular de la Secretaría de Educación y Deporte, Carlos González Herrera, sostuvo un diálogo con el secretario general del Sindicato de Trabajadores de la Universidad Tecnológica de Chihuahua, Ricardo Abraham Pacheco Delgado, en el cual se dio a la atenta escucha de los puntos planteados en un ambiente de respeto y de conciliación en beneficio de las y los  trabajadores y de la propia comunidad universitaria.

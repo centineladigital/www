@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La serie protagonizada por Patrick J. Adams, Jake McDorman, Colin O’Donoghue y Eloise Mumford relata la llegada de los primeros hombres al espacio. "
-image: /uploads/2021/images-historia-producen-jennifer-davisson-mark.jpg
-video: nil
-audio: nil
-alt: Leonardo DiCaprio presenta “Los elegidos de la gloria”
+image: "/uploads/2021/images-historia-producen-jennifer-davisson-mark.jpg"
+video: "nil"
+audio: "nil"
+alt: "Leonardo DiCaprio presenta “Los elegidos de la gloria”"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182683
 ---
 
 La nueva apuesta de Warner Bros. y Disney para su parrilla de contenidos originales nos lleva a los primeros pasos del hombre en el espacio. La serie Los elegidos de la gloria (The Right Stuff), protagonizada por Patrick J. Adams, Jake McDorman, Colin O’Donoghue y Eloise Mumford, cuenta la historia del grupo de personas que se unió, en un tiempo en el que un acto así se creía imposible, para crear al grupo de astronautas Mercury Seven, que serían los pioneros dentro del Programa Espacial de Estados Unidos. 

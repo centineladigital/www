@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Realiza Estado 26 mil 280 inspecciones del 26 de marzo de 2020 a la fecha; “No queremos clausurar ni imponer multas, pero sí estamos aquí para asegurarnos de que quienes incumplen, tengan la sanción correspondiente”: Mesta Soulé"
-image: /uploads/2021/images-3.jpg
-video: nil
-audio: nil
-alt: Por incumplimiento de medidas ante COVID-19  aplica SGG 723 actas administrativas, 436 clausuras y 67 decomisos
+image: "/uploads/2021/images-3.jpg"
+video: "nil"
+audio: "nil"
+alt: "Por incumplimiento de medidas ante COVID-19  aplica SGG 723 actas administrativas, 436 clausuras y 67 decomisos"
 front: false
-section: Local
+section: "Local"
+news_id: 182214
 ---
 
 “Como una de las autoridades competentes para la aplicación de este acuerdo, la Secretaría General de Gobierno ha efectuado a la fecha 26 mil 280 inspecciones, 478 acciones de desalojo por incumplimiento de medidas, dos mil 600 desalojos por actividad no esencial”, informó el secretario general de Gobierno, Luis Fernando Mesta Soulé.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A partir de este viernes a 15:00 horas se comenzará a colocar los sellos de resguardo; solo permanecerán en circulación unidades de Protección Civil y Dirección de Gobierno por su participación en las Células Mixtas"
-image: /uploads/2021/images-IMG_2404_(1).jpg
-video: nil
-audio: nil
-alt: Cerrarán inmuebles de la Secretaría General de Gobierno por jornada electoral
+image: "/uploads/2021/images-IMG_2404_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Cerrarán inmuebles de la Secretaría General de Gobierno por jornada electoral"
 front: false
-section: Local
+section: "Local"
+news_id: 184843
 ---
 
 En cumplimiento a los lineamientos del Blindaje Electoral 2021 que realiza la Secretaría de la Función Pública del Estado de Chihuahua, este fin de semana cerrarán las oficinas de la Secretaría General de Gobierno (SGG) y sus direcciones dependientes, en todo el estado.

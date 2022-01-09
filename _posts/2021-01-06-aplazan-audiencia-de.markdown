@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El abogado de Stephanie Valenzuela, ex de Eleazar Gómez, habló sobre la situación legal que enfrentan los famosos. "
-image: /uploads/2021/images-eleazar-gomez-instagram-1_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Aplazan audiencia de Eleazar Gómez; seguirá en el reclusorio Norte
+image: "/uploads/2021/images-eleazar-gomez-instagram-1_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aplazan audiencia de Eleazar Gómez; seguirá en el reclusorio Norte"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181928
 ---
 
 Eleazar Gómez se encuentra en el Reclusorio Varonil Norte por agredir físicamente a su ex novia, Stephanie Valenzuela. El actor continuará detenido en prisión, pues la audiencia que se llevaría a cabo este miércoles para definir si continuaría su proceso legal en libertad fue aplazada debido a la pandemia de covid-19.  En una entrevista con Ventaneando, Adolfo González, el abogado de Stephanie Valenzuela, habló sobre la situación legal que enfrentan los famosos. Indicó que aún desconocen la nueva fecha para la audiencia. 

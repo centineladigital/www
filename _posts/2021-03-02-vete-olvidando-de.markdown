@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de redes sociales, el momento de Nodal cantándole a su novia de la época de secundaria se ha vuelto viral, pues al parecer desde antes destacaba por su romanticismo. "
-image: /uploads/2021/images-filtran-video-nodal-pareja-belinda_60_1_1137_707.jpg
-video: nil
-audio: nil
-alt: Vete olvidando de los besos que te di -  viralizan video de Nodal en secundaria; así le cantaba a su novia
+image: "/uploads/2021/images-filtran-video-nodal-pareja-belinda_60_1_1137_707.jpg"
+video: "nil"
+audio: "nil"
+alt: "Vete olvidando de los besos que te di -  viralizan video de Nodal en secundaria; así le cantaba a su novia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183222
 ---
 
 Christian Nodal, cantante de regional mexicano y novio de Belinda, se ha vuelto uno de los personajes del espectáculo más queridos. El cantante saltó a la fama en 2016 por su sencillo 'Adiós Amor'; sin embargo, pese al reconocimiento en México y Estados Unidos, el famoso llegó a más público con su participación en La Voz de TV Azteca en donde se enamoró de Belinda. Por ello, el contenido sobre su pasado sigue saliendo a flote en redes sociales, el cual casi de inmediato se vuelve viral. Por ejemplo, un video en donde el intérprete aparece cantándole a quien aseguran era su novia de secundaria. A través de redes sociales, el video de Nodal cantándole a su novia de la época de secundaria se ha vuelto viral, pues al parecer desde antes destacaba por su romanticismo con las mujeres con las que tenía una relación. 

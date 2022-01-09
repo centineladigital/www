@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Premio se entregará el 18 de julio señala Flor Navarro Pastrana."
-image: /uploads/2021/images-FLOR.jpg
-video: nil
-audio: /uploads/2021/audio-MW03_FLOR_NAVARRO.mp3
-alt: Convocan a premio Bento Juárez
+image: "/uploads/2021/images-FLOR.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW03_FLOR_NAVARRO.mp3"
+alt: "Convocan a premio Bento Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 183374
 ---
 
  Este miércoles fue dado a conocer la apertura de la recepción de propuestas para el Premio Benito Juárez, esto por parte de la regidora presidente de la Comisión de Cultura del Ayuntamiento de Chihuahua,  Flor Navarro Pastrana.

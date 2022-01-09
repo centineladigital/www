@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El servicio se restableció hasta pasadas las 10 de la mañana, lo cual afectó a cientos e familias que no cuentan con rotoplas y a comerciantes de alimentos "
-image: /uploads/2021/images-Ahumada_sin_agua.jpg
-video: nil
-audio: nil
-alt: Ahumada se queda sin agua por 14 horas; indican falla de CFE
+image: "/uploads/2021/images-Ahumada_sin_agua.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ahumada se queda sin agua por 14 horas; indican falla de CFE"
 front: false
-section: Local
+section: "Local"
+news_id: 183845
 ---
 
 Nuevas supuestas fallas de CFE provocaron desabasto de agua en toda la zona urbana, desde la noche del domingo hasta las 10 de la mañana del lunes lo cual afectó a cientos e familias que no cuentan con rotoplas y a comerciantes de alimentos.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Por ser mujer no quisieron registro de candidatos."
-image: /uploads/2021/images-ALEJANDRO1.jpg
-video: nil
-audio: /uploads/2021/audio-MM04.mp3
-alt: Cinco municipios no contendió el PRI a alcaldías.
+image: "/uploads/2021/images-ALEJANDRO1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04.mp3"
+alt: "Cinco municipios no contendió el PRI a alcaldías."
 front: false
-section: Local
+section: "Local"
+news_id: 184934
 ---
 
 En cinco de los 67 municipios el PRI no contendió por las alcaldías señaló el dirigente de este organismo político, Alejandro Domínguez Domínguez. Esto debido a motivos como inseguridad y equidad de género.

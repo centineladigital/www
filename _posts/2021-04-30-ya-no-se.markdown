@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aquellos que violen la normatividad, serán sancionados con una pena de 2 a 7 años de prisión y multa equivalente de 17 mil 924 pesos a 179 mil 240 pesos"
-image: /uploads/2021/images-2570891.jpg
-video: nil
-audio: nil
-alt: Ya no se podrá experimentar en animales para productos cosméticos
+image: "/uploads/2021/images-2570891.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ya no se podrá experimentar en animales para productos cosméticos"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184207
 ---
 
 La Cámara de Diputados aprobó prohibir las pruebas de productos cosméticos en animales.

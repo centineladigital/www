@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El conductor señaló que fue muy evidente que la tribu Jaguar acordó perder la competencia y habló de los rumores que apuntan a que la modelo no quiso continuar en la competencia. "
-image: /uploads/2021/images-warrior-molesto-kristal-silva-dejarse.jpg
-video: nil
-audio: nil
-alt: Me molestó -  Warrior 'explota' contra Kristal Silva por dejarse ganar en 'Survivor México'
+image: "/uploads/2021/images-warrior-molesto-kristal-silva-dejarse.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me molestó -  Warrior 'explota' contra Kristal Silva por dejarse ganar en 'Survivor México'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185274
 ---
 
 Kristal Silva salió de Survivor México tras perder el duelo de eliminación en el que se enfrentó a Alejandra Toussaint, su compañera de la tribu Jaguares. Sin embargo, su salida del reality encendió las redes sociales en donde usuarios aseguraron que se dejó ganar e, incluso, señalaron que su eliminación fue planeada por la producción. Tras lo sucedido fue el conductor del programa, Carlos Guerrero Warrior, quien expresó su molestia por la forma en la que participó la modelo en la batalla final. 

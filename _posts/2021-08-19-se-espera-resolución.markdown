@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La Procuraduría Fiscal de la Federación como la Procuraduría General de la República han concluido que no hubo afectación al Gobierno Federal en el caso de desvío de 250 mdp   "
-image: /uploads/2021/images-Presenta_Gobernador_Javier_Corral_documentos_del_caso_Alejandro_Gutiérrez_(15).jpeg
-video: nil
-audio: nil
-alt: Se espera resolución favorable de la Corte para reconocer a Chihuahua como víctima en desvío de Operación Safiro
+image: "/uploads/2021/images-Presenta_Gobernador_Javier_Corral_documentos_del_caso_Alejandro_Gutiérrez_(15).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Se espera resolución favorable de la Corte para reconocer a Chihuahua como víctima en desvío de Operación Safiro"
 front: false
-section: Local
+section: "Local"
+news_id: 186912
 ---
 
 El gobernador Javier Corral Jurado informó que la Suprema Corte de Justicia de la Nación difirió para este 25 de agosto, la resolución al amparo para considerar o no a Chihuahua como víctima en el caso del desfalco cometido por 250 millones de pesos (mdp) a través de la llamada Operación Safiro para financiar campañas del PRI.

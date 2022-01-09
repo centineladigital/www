@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Springsteen es citado tres meses después de ser detenido, esto tras participar en el evento nocturno el día investidura del presidente Biden y protagonizar publicidad de Jeep en el Super Bowl. "
-image: /uploads/2021/images-bruce-springsteen-afp.jpg
-video: nil
-audio: nil
-alt: Bruce Springsteen fue detenido en noviembre; recibe tres citatorios por conducir ebrio
+image: "/uploads/2021/images-bruce-springsteen-afp.jpg"
+video: "nil"
+audio: "nil"
+alt: "Bruce Springsteen fue detenido en noviembre; recibe tres citatorios por conducir ebrio"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182844
 ---
 
 El cantante, músico y compositor estadunidense, Bruce Springsteen, recibió tres citatorios judiciales por parte de las autoridades de su país tras ser arrestado el pasado 14 de noviembre al conducir en estado de ebriedad en Nueva Jersey, según informó el servicio nacional de parques. 

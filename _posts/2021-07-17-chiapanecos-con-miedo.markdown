@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Las creencias religiosas y la falta de información han frenado la inoculación en las comunidades indígenas, donde aseguran que todo está tranquilo porque toman su bebida ancestral."
-image: /uploads/2021/images-1366_2000.jpg
-video: nil
-audio: nil
-alt: Chiapanecos, con miedo a vacunarse; “nuestro posh mata el covid”, dicen
+image: "/uploads/2021/images-1366_2000.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chiapanecos, con miedo a vacunarse; “nuestro posh mata el covid”, dicen"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185757
 ---
 
 Chiapas es el estado con el menor número de población vacunada contra el covid-19 debido a las creencias religiosas y a la poca información que llega a las comunidades de la sierra chiapaneca. En algunas, como San Juan Chamula, el tema es delicado y si un extraño lo menciona entre los habitantes puede ser arrestado, llevado a la plaza con soga al cuello y multado con entre 100 y 200 mil pesos. 

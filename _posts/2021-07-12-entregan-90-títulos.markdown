@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Algunos de ellos se inscribieron en el registro público de la propiedad."
-image: /uploads/2021/images-JESUS.jpg
-video: nil
-audio: /uploads/2021/audio-ML03.mp3
-alt: Entregan 90 títulos de propiedad
+image: "/uploads/2021/images-JESUS.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML03.mp3"
+alt: "Entregan 90 títulos de propiedad"
 front: false
-section: Local
+section: "Local"
+news_id: 185577
 ---
 
 Una entrega de títulos de propiedad y escrituras se llevó a cabo este lunes por parte del Ayuntamiento de Chihuahua, en el cual se hizo la entrega de 90 documentos a sendas familias, con lo que se da certeza jurídica a estas familias.

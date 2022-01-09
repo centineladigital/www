@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Lanza el WWF campaña para que 18 gobiernos de América protejan a esta especie en peligro de extinción; se busca reestablecer corredores de la especie; participan influencers"
-image: /uploads/2021/images-2523159.jpg
-video: nil
-audio: nil
-alt: Buscan proteger al Rey Jaguar desde México hasta la Patagonia
+image: "/uploads/2021/images-2523159.jpg"
+video: "nil"
+audio: "nil"
+alt: "Buscan proteger al Rey Jaguar desde México hasta la Patagonia"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182678
 ---
 
 Con el fin de que el Rey Jaguar vuelva a rugir con toda su fuerza en 18 países de América, desde el norte de México hasta la Patagonia, en Argentina, el Fondo Mundial para la Naturaleza (WWF, por sus siglas en inglés), lanzó una campaña para recabar firmas y pedirles a los gobiernos de la región que cumpla con la hoja de ruta establecida en 2018 para proteger a la especie en peligro de extinción y su hábitat, que a tres años de distancia reporta mínimos avances.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Analizarán caso de titular de la Función Pública."
-image: /uploads/2021/images-LS2.jpg
-video: nil
-audio: /uploads/2021/audio-MV05_LUIS_SERRATO.mp4
-alt: Revisará equipo de transición irregularidades reportadas por la ASE
+image: "/uploads/2021/images-LS2.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05_LUIS_SERRATO.mp4"
+alt: "Revisará equipo de transición irregularidades reportadas por la ASE"
 front: false
-section: Local
+section: "Local"
+news_id: 186405
 ---
 
 “Será sin duda una situación que debemos de revisar a fondo” fueron las palabras Luis Serrato Castell, coordinador del equipo de transición de la próxima administración al ser cuestionado respecto a las diversas irregularidades detectadas en el gobierno estatal por la Auditoría Superior del Estado.

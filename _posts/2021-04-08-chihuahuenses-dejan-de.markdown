@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Covid-19 está latente no deje el cubreboca, no se confie el virus sigue entre nosotros proteja a los suyos"
-image: /uploads/2021/images-Ciudadanos_dejan_el_cubrebocas.jpg
-video: nil
-audio: nil
-alt: Chihuahuenses dejan de lado las medidas preventivas
+image: "/uploads/2021/images-Ciudadanos_dejan_el_cubrebocas.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chihuahuenses dejan de lado las medidas preventivas"
 front: false
-section: Local
+section: "Local"
+news_id: 183765
 ---
 
 Los ciudadanos empiezan a confiarse, dejan de usar el cubrebocas y ello representa un gran riesgo para llegar a una sala de hospital Covid y peor aun, de colapsar el sistema sanitario ante la alta incidencia de casos.

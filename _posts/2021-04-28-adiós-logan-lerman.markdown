@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Rick Riordan, el autor de la saga literaria, señaló que el casting de la serie está en sus primeras etapas. "
-image: /uploads/2021/images-percy-jackson-interpretado-logan-lerman_26_0_616_383.png
-video: nil
-audio: nil
-alt: ¡Adiós Logan Lerman! Buscan a nuevo actor para protagonizar Percy Jackson
+image: "/uploads/2021/images-percy-jackson-interpretado-logan-lerman_26_0_616_383.png"
+video: "nil"
+audio: "nil"
+alt: "¡Adiós Logan Lerman! Buscan a nuevo actor para protagonizar Percy Jackson"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184155
 ---
 
 ¡Habrá nuevo semidios! Rick Riordan, el escritor de la afamada serie de libros de Percy Jackson, dio a conocer que habrá un casting preliminar para la próxima serie de televisión de este héroe mitológico y que aparecerá en Disney + en los próximos años. En una entrada de su blog, Riordan señaló que el casting de la serie está en sus primeras etapas, además, el autor de la novela compartió que ya trabaja con el servicio de streaming para una adaptación televisiva desde mayo de 2020.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz incluso pidió que todo el mundo deje de llamarla Anne. "
-image: /uploads/2021/images-anne-hathaway-shutterstock.jpg
-video: nil
-audio: nil
-alt: Anne Hathaway revela que odia su nombre y esta es la razón
+image: "/uploads/2021/images-anne-hathaway-shutterstock.jpg"
+video: "nil"
+audio: "nil"
+alt: "Anne Hathaway revela que odia su nombre y esta es la razón"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182172
 ---
 
 ¿Tú estás satisfecho con tu nombre? La verdad, es que parece de lo más complicado estar contentos con algo tan importante que no fuimos capaces de elegir nosotros mismos y, generalmente solemos tener bastantes problemas con la manera en la que los demás se refieren a nosotros. Esto es lo que le sucede a Anne Hathaway quien recientemente reveló durante una entrevista en el Tonight Show de Jimmy Fallon que odia que todo el mundo la llame "Anne" (aunque ella sí tubo oportunidad de escoger su nombre, por lo menos el artístico) y que prefiere que la gente se refiera a ella por su apodo, "Annie".

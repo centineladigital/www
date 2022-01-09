@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante colombiano reveló que ya quiere ser papá. ¿Será que este año le den un nieto a Ricardo Montaner? "
-image: /uploads/2021/images-camilo-evaluna-montaner-llevan-ano.jpg
-video: nil
-audio: nil
-alt: Sí quiero ya ser; Camilo confiesa que ya quiere convertirse en papá
+image: "/uploads/2021/images-camilo-evaluna-montaner-llevan-ano.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sí quiero ya ser; Camilo confiesa que ya quiere convertirse en papá"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183751
 ---
 
 a Voz Kids sigue revelando mucho sobre los concursantes y sobre todo acerca de los coaches, que en cada emisión dejan al descubierto un poco más sobre su pasado, presente o sus anhelos para el futuro, en esta ocasión fue Camilo, quien a corazón abierto dejó en claro cuál es su ilusión actual: ser padre. Durante la emisión de este martes, el intérprete de Favorito, se enfrascó en una batalla por tener el talento de Edgar, uno de los pequeños que audicionó y que con su voz provocó que todos los jueces se dieran la vuelta para sumarlo a su equipo. 

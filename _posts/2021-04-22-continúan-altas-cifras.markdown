@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Registran 309 casos positivos y 57 muertes en 24 horas."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-MJ02_WENDY_AVILA.mp3
-alt: Continúan altas cifras de COVID
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ02_WENDY_AVILA.mp3"
+alt: "Continúan altas cifras de COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 184054
 ---
 
 Cifras altas tanto en nuevos casos como en defunciones fueron dadas a conocer en la actualización de estadísticas dentro de la pandemia que ha generado el coronavirus, esto ya que en tan sólo 24 horas se detectaron 309 casos de personas contagiadas y que dieron positivo a la prueba PCR así como se acreditaron 57 muertes por esta enfermedad.

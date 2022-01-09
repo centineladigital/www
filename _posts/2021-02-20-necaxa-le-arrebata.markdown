@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los Rayos consiguieron igualar en los últimos 10 minutos del encuentro frente a Monterrey y lograron sumar un punto en el estadio Victoria"
-image: /uploads/2021/images-2532680.jpg
-video: nil
-audio: nil
-alt: Necaxa le arrebata el triunfo a Rayados
+image: "/uploads/2021/images-2532680.jpg"
+video: "nil"
+audio: "nil"
+alt: "Necaxa le arrebata el triunfo a Rayados"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183063
 ---
 
 El Necaxa rescató un empate sobre la recta final, con gol de Martín Barragán, para igualar 1-1 ante Rayados de Monterrey en el estadio Victoria, dentro del marco de la jornada 7 del torneo Guard1anes 2021.

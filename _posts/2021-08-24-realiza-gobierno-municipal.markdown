@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En la que se dio a conocer a los 17 participantes que competirán en la gran final este próximo 29 de agosto"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Realiza Gobierno Municipal semifinal de Expresa tu Talento 2021 
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Realiza Gobierno Municipal semifinal de Expresa tu Talento 2021 "
 front: false
-section: Local
+section: "Local"
+news_id: 187076
 ---
 
 El Gobierno Municipal a través de la Dirección de Desarrollo Humano y Educación, llevó a cabo la semifinal de “Expresa tu Talento, Época de Oro”, en la que dio a conocer a los 17 participantes que competirán en la gran final este próximo 29 de agosto.

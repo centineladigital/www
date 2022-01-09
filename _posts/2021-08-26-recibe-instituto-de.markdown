@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Estarán expuestas próximamente en el Museo Sebastián Casa Siglo XIX"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Recibe Instituto de Cultura Municipal 19 obras del acervo pictórico estatal
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Recibe Instituto de Cultura Municipal 19 obras del acervo pictórico estatal"
 front: false
-section: Local
+section: "Local"
+news_id: 187141
 ---
 
 El Gobierno Municipal a través del Instituto de Cultura, recibió 19 obras de arte del acervo pictórico por parte de la Secretaría de Cultura, las cuales estarán expuestas próximamente en el Museo Sebastián Casa Siglo XIX.

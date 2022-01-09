@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El consejero jurídico, Jorge Espinoza, informó que presentarán un incidente de exceso por parte de la jueza Delia Valentina Jiménez, ya que no debió haber suspendido por los 3 imputados, sino exclusivamente por uno"
-image: /uploads/2021/images-DAH_0115.JPG
-video: nil
-audio: nil
-alt: Se excede jueza en suspensión de audiencia de alcaldesa con licencia por “nómina secreta”
+image: "/uploads/2021/images-DAH_0115.JPG"
+video: "nil"
+audio: "nil"
+alt: "Se excede jueza en suspensión de audiencia de alcaldesa con licencia por “nómina secreta”"
 front: false
-section: Local
+section: "Local"
+news_id: 183369
 ---
 
 La jueza de Control, Delia Valentina Jiménez, se excedió en el cumplimiento de la suspensión de audiencia concedida a la alcaldesa con licencia en el caso de la “nómina secreta”, señaló Jorge Espinoza Cortés, consejero jurídico del Gobierno del Estado.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señalan que no se ha hecho nada por esclarecer el crimen."
-image: /uploads/2021/images-JULIAN.jpg
-video: nil
-audio: /uploads/2021/audio-ML06_JULIAN_LEBARON.mp3
-alt: Pide comunidad Lebaron destitución de Gobernador
+image: "/uploads/2021/images-JULIAN.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML06_JULIAN_LEBARON.mp3"
+alt: "Pide comunidad Lebaron destitución de Gobernador"
 front: false
-section: Local
+section: "Local"
+news_id: 184116
 ---
 
 A través de una marcha que concluyó con el cierre de calles del primer cuadro de la ciudad de Chihuahua, este lunes integrantes de la comunidad de Lebaron solicitaron que se destituyan a integrantes del gabinete así como al mismo Gobernador de Chihuahua, según lo expresó Julián Lebaron.

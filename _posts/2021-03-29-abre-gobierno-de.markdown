@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Explica SEyD que el apoyo es para las vertientes de Materiales y Equipo Técnico, Inscripción, y Titulación y Servicio Social para las cuales se dispone de un total de 7 millones 596 mil pesos que beneficiarán a 2 mil 532 alumnas y alumnos"
-image: /uploads/2021/images-CONVOCATORIA_BECAS_UNIVERSITARIAS_(1).jpg
-video: nil
-audio: nil
-alt:  Abre Gobierno de Chihuahua convocatoria para Becas Universitarias 2021
+image: "/uploads/2021/images-CONVOCATORIA_BECAS_UNIVERSITARIAS_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: " Abre Gobierno de Chihuahua convocatoria para Becas Universitarias 2021"
 front: false
-section: Local
+section: "Local"
+news_id: 183596
 ---
 
 En apoyo a estudiantes de instituciones públicas de Educación Superior, en situación de vulnerabilidad económica para continuar su formación académica, el Gobierno del Estado de Chihuahua a través de la Secretaría de Educación y Deporte (SEyD) abrió la convocatoria para las Becas Universitarias 2021.

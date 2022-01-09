@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con la leyenda Amalia Pérez y Diego López como los abanderados, nuestro país desfiló en la ceremonia de inauguración de los Juegos"
-image: /uploads/2021/images-mexico-en-los-paralimpicos-reuters-1.jpg
-video: nil
-audio: nil
-alt: México desfila en los Paralímpicos de Tokio con la mira puesta en las 300 medallas
+image: "/uploads/2021/images-mexico-en-los-paralimpicos-reuters-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "México desfila en los Paralímpicos de Tokio con la mira puesta en las 300 medallas"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187038
 ---
 
 Este martes se celebró la inauguración de los Juegos Paralímpicos de Tokio 2020, donde como cada edición, desde 1972, la delegación de México formó parte de ella, una justa que se nos da bastante bien y que, incluso, se buscará superar en esta ocasión la barrera de las 300 medallas. 

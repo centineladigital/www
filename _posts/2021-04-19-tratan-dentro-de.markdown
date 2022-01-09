@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Tocan temas relacionados a violencia de género y visualizan nuevas acciones para evitar esto."
-image: /uploads/2021/images-JAVIER_CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-ML04_JAVIER_CORRAL.mp3
-alt: Tratan dentro de Mesa de seguridad delitos por razones de género
+image: "/uploads/2021/images-JAVIER_CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04_JAVIER_CORRAL.mp3"
+alt: "Tratan dentro de Mesa de seguridad delitos por razones de género"
 front: false
-section: Local
+section: "Local"
+news_id: 183974
 ---
 
 Dentro de la agenda de trabajo se tocarán temas de delitos por razones de género según fue dado a conocer por parte del Gobernador de Chihuahua, quien dijo que este lunes se tocaron temas como casos emblemáticos como Riveras del Braro y otros que han conocido como el seguimiento y avances al modelo integral para prevenir y promover la violencia de género.

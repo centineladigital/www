@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Efectúa una profunda investigación para identificar y proceder en contra de él y/o los probables responsables del envenenamiento de 30 perros y gatos"
-image: /uploads/2021/images-animales_muertos_4.jpg
-video: nil
-audio: nil
-alt: Investiga FGE muerte de animales en Los Arcos
+image: "/uploads/2021/images-animales_muertos_4.jpg"
+video: "nil"
+audio: "nil"
+alt: "Investiga FGE muerte de animales en Los Arcos"
 front: false
-section: Local
+section: "Local"
+news_id: 184483
 ---
 
 La Fiscalía de Distrito Zona Centro, efectúa una profunda investigación para identificar y proceder en contra de él y/o los probables responsables del envenenamiento de 30 perros y gatos en la colonia Los Arcos de esta ciudad de Chihuahua.

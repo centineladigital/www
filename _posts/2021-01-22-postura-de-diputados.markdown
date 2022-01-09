@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señala que decisión de Rocío González y Jorge Soto es respetable."
-image: /uploads/2021/images-MARIO_VAZQUEZ.jpg
-video: nil
-audio: /uploads/2021/audio-MV02_MARIO_VAZQUEZ.mp3
-alt: Postura de diputados en crédito es respetable -  MVR
+image: "/uploads/2021/images-MARIO_VAZQUEZ.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV02_MARIO_VAZQUEZ.mp3"
+alt: "Postura de diputados en crédito es respetable -  MVR"
 front: false
-section: Local
+section: "Local"
+news_id: 182375
 ---
 
 La postura de los diputados que se dio para la negación del crédito que ha solicitado el Gobernador del Estado es respetable, fueron las palabras del ex coordinador de gabinete en el Municipio de Chihuahua, Mario Vázquez Robles.

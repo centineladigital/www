@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El gobierno de Emiratos Árabes Unidos anuncia que concederá la nacionalidad a algunos extranjeros que 'contribuyan al desarrollo y prosperidad del país'"
-image: /uploads/2021/images-2520968.jpg
-video: nil
-audio: nil
-alt: Emiratos Árabes Unidos lanza 'oferta' de nacionalización
+image: "/uploads/2021/images-2520968.jpg"
+video: "nil"
+audio: "nil"
+alt: "Emiratos Árabes Unidos lanza 'oferta' de nacionalización"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182577
 ---
 
 Las autoridades de Emiratos Árabes Unidos anunciaron este sábado que concederán la nacionalidad a algunos extranjeros que "contribuyan al desarrollo y prosperidad del país", una medida poco común en la región del Golfo.

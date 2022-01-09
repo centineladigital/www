@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Se registran 313 nuevos casos de COVID-19 para el estado de Chihuahua"
+date: 2021-12-30T21:09:00.000-06:00
+tags:
+  
+  - Covid
+  
+  - Cifras
+  
+  - chihuahua
+  
+author: nil
+description: "El número de personas que han perdido la vida por COVID-19 ascendió a 8 mil 759 casos"
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Se registran 313 nuevos casos de COVID-19 para el estado de Chihuahua"
+front: false
+section: "Local"
+news_id: 191358
+---
+
+El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 30 de diciembre el reporte COVID-19, en el cual se registran 92 mil 641 (+313) personas confirmadas en la entidad por este padecimiento, 79 mil 888 (+528) casos recuperados, 88 mil 771 (+185) descartados y mil 271 (+65) casos sospechosos.
+
+El número de personas que han perdido la vida por COVID-19 ascendió a 8 mil 759 casos (+27) y las defunciones que se añaden al registro corresponden a los municipios de Juárez (+4), Chihuahua (+17), Cuauhtémoc (+3), Delicias (+1), Jiménez (+1) y Batopilas (+1).
+
+El número de personas confirmadas asciende a 92 mil 641 (+313) y los casos confirmados corresponden a los municipios de Juárez (+57), Chihuahua (+167), Parral (+10), Cuauhtémoc (+7), Delicias (+6), Nuevo Casas Grandes (+1), Ojinaga (+10), Camargo (+4), Guachochi (+3), Bocoyna (+6), Meoqui (+2), Saucillo (+3), Guerrero (+8), Buenaventura (+9), Allende (+1), Santa Bárbara (+11), Gómez Farías (+1), Manuel Benavides (+1), Balleza (+1), Temósachic (+2), Guadalupe (+1), Satevó (+1) y Riva Palacio (+1).
+
+Además se reporta una tasa de incidencia de casos activos de los últimos 14 días de 42.6 por 100 mil habitantes y a nivel nacional se han registrado 4,426 casos nuevos, de modo que Chihuahua se posiciona en el lugar 6 de casos activos en el país.
+
+El número de personas hospitalizadas es de 274, de los cuales 194 son hospitalizados en general y 80 son intubados, respecto a la ocupación general se registra 59.33 por ciento y la ocupación de intubados es de 41.88 por ciento.
+
+La Secretaría de Salud exhorta a la ciudadanía a mantener las medidas preventivas durante las fiestas y reuniones decembrinas, con el fin de evitar el incremento de contagios, es importante realizar adecuadamente el lavado frecuente de manos o el uso de gel antibacterial, aplicar la sana distancia de 1.5 metros entre personas, portar el cubrebocas en todas las actividades, así como limpiar y desinfectar los espacios y objetos de uso común.
+
+Para reducir el riesgo de contagio es esencial evitar estar en aglomeraciones y tener contacto con personas por medio del abrazo y el saludo de mano o beso.
+
+Ante la presencia de algún síntoma como la pérdida del olfato, dolor de cabeza o de garganta, fiebre superior a 38 grados, sensación de cuerpo cortado o escurrimiento nasal, es importante no automedicarse y debe realizarse una prueba para descartar o confirmar el padecimiento de COVID-19.

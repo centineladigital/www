@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Shawn Mendes fue criticado en redes sociales tras declarar haberle gritado a Camila Cabello, su novia, por haber dejar un yogurt afuera del refirgerador. "
-image: /uploads/2021/images-acusan-shawn-mendes-violencia-domestica.jpg
-video: nil
-audio: nil
-alt: Acusan a Shawn Mendes de violencia doméstica por gritarle a Camila Cabello
+image: "/uploads/2021/images-acusan-shawn-mendes-violencia-domestica.jpg"
+video: "nil"
+audio: "nil"
+alt: "Acusan a Shawn Mendes de violencia doméstica por gritarle a Camila Cabello"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185301
 ---
 
 El compositor canadiense, Shwan Mendes, fue señalada de violencia doméstica por gritarle a Camila Cabello, su novia formal desde hace algún tiempo. Según relata el cantante, le habría reclamado por haber dejado un envase de yogurt afuera del refrigerador, causando polémica en redes sociales. Así lo contó durante un capítulo del pódcast The Man Enough, en el que Shwan tuvo una conversación con los tres presentadores del programa, y se abrió a hablar sobre su vida personal, su espiritualidad e incluso problemas del modelo de masculinidad dominante. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que no sólo buscan tener conocimiento de los expedientes x, sino de toda la fiscalía."
-image: /uploads/2021/images-ROBERTO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01.mp3
-alt: Inicia transición en materia de Justicia
+image: "/uploads/2021/images-ROBERTO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01.mp3"
+alt: "Inicia transición en materia de Justicia"
 front: false
-section: Local
+section: "Local"
+news_id: 185333
 ---
 
 En materia de justicia este jueves inició el proceso de transición, esto al aducir a las instalaciones de la Fiscalía General del Estado. Antes de iniciar la reunión con el titular de la dependencia el equipo de la gobernadora electa María Eugenia Campos Galván, encabezado por Roberto Fierro.

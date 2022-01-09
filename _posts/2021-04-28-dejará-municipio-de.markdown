@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Adquieren más de 200 patrullas que eran arrendadas."
-image: /uploads/2021/images-CARLOS.jpg
-video: nil
-audio: /uploads/2021/audio-MW05_CARLOS_OROZCO.mp3
-alt: Dejará municipio de arrendar patrullas
+image: "/uploads/2021/images-CARLOS.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW05_CARLOS_OROZCO.mp3"
+alt: "Dejará municipio de arrendar patrullas"
 front: false
-section: Local
+section: "Local"
+news_id: 184177
 ---
 
 Debido a que no es viable el arrendamiento, el municipio de Chihuahua adquirirá patrullas que fueron arrendadas en administraciones pasadas, según lo señaló el regidor de la Comisión de Hacienda Carlos Orozco Chacón.

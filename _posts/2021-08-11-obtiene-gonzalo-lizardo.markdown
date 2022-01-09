@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Los  jueces calificadores decidieron elegir la obra “Memorias de un basilisco” por  la habilidad del escritor zacatecano para construir un relato novelesco y apasionante;  la premiación se llevará a cabo el próximo 25 de agosto   "
-image: /uploads/2021/images-WhatsApp_Image_2021-08-11_at_12.42.46.jpeg
-video: nil
-audio: nil
-alt: Obtiene Gonzalo Lizardo el Premio Nacional de Novela Histórica Ignacio Solares
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-11_at_12.42.46.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Obtiene Gonzalo Lizardo el Premio Nacional de Novela Histórica Ignacio Solares"
 front: false
-section: Local
+section: "Local"
+news_id: 186587
 ---
 
 La Secretaría de Cultura dio a conocer que el ganador de la convocatoria del Premio Nacional de Novela Histórica Ignacio Solares 2021, es la obra literaria “Memorias de un basilisco”, del autor Gonzalo Lizardo.

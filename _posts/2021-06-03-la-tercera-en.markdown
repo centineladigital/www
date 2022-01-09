@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Maite Perroni demandará con ayuda del abogado Guillermo Pous a quien resulte responsable por el supuesto de que ella ocasionó la separación entre Claudia Martin y el productor Andrés Tovar.  "
-image: /uploads/2021/images-maite-perroni-demandara-resulte-responsable.jpg
-video: nil
-audio: nil
-alt: ¿La tercera en discordia? Maite Perroni demandará por difamación en caso Andrés Tovar y Claudia Martin
+image: "/uploads/2021/images-maite-perroni-demandara-resulte-responsable.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿La tercera en discordia? Maite Perroni demandará por difamación en caso Andrés Tovar y Claudia Martin"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184813
 ---
 
 Maite Perroni, actriz y cantante de Rebelde (RBD), se vio envuelta en polémica, luego de que crecieran rumores en su contra por presuntamente ser la tercera en discordia entre la relación de Claudia Martin y el productor Andrés Tovar. Mediante una revista se indicó que la cantante Maite Perroni fue amante del productor y razón por la que se originó la separación entre la pareja. Ante esta controversia, la cantante no se posicionó directamente sobre el tema; sin embargo, recientemente se informó –mediante el programa Hoy– que la integrante de Rebelde iniciará un proceso legal en contra de quien resulte responsable por supuesta difamación. 

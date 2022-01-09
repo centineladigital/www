@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Giovanni Medina, ex pareja de Ninel Conde, habló sobre la detención de Larry Ramos, esposo de la cantante y la ausencia de la famosa al juzgado. "
-image: /uploads/2021/images-giovanni-medina-hablo-detencion-larry.jpg
-video: nil
-audio: nil
-alt: Tiene prioridades -  Giovanni Medina sobre ausencia de Ninel Conde a audiencia por custodia de su hijo
+image: "/uploads/2021/images-giovanni-medina-hablo-detencion-larry.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tiene prioridades -  Giovanni Medina sobre ausencia de Ninel Conde a audiencia por custodia de su hijo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184044
 ---
 
 Tras darse a conocer que Larry Ramos, esposo de Ninel Conde, había sido detenido por un fraude millonario y que gracias a pagar una fianza ya está libre, pero esperando un juicio en su contra, es ahora Giovanni Medina, ex pareja de El bombón asesino, quien reaccionó a la detención del supuesto empresario y a la ausencia de Ninel a una audiencia por la custodia de su hijo Emmanuel.  Giovanni acudió esta tarde a los juzgados de lo familiar para saber confrontar a Ninel Conde, quien no se presentó. Ambos buscan la custodia de Emmanuel, hijo que procrearon y a quien El bombón asesino no ve desde hace más de un año más que por videollamadas. 

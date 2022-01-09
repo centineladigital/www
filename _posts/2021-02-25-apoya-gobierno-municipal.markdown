@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "También se brinda apoyo para los juegos Paraolímpicos de este año"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Apoya Gobierno Municipal a deportistas en proceso clasificatorio para Juegos Olímpicos
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Apoya Gobierno Municipal a deportistas en proceso clasificatorio para Juegos Olímpicos"
 front: false
-section: Local
+section: "Local"
+news_id: 183168
 ---
 
 A meses de realizarse los Juegos Olímpicos y Paraolímpicos de este año, el Gobierno Municipal de Chihuahua a través del Instituto Municipal de Cultura Física y Deporte celebró diversos convenios con deportistas que se encuentran en su proceso de preparación para asegurar su pase al evento más importante del deporte amateur.

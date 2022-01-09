@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Rusia anuncia que probará una versión 'Sputnik-Light' de una dosis de su vacuna contra el coronavirus Sputnik V, como una solución temporal para ayudar a los países con altas tasas de infección"
-image: /uploads/2021/images-2509720.jpg
-video: nil
-audio: nil
-alt: Presentan la Sputnik-Light, versión de una dosis de vacuna Sputnik V
+image: "/uploads/2021/images-2509720.jpg"
+video: "nil"
+audio: "nil"
+alt: "Presentan la Sputnik-Light, versión de una dosis de vacuna Sputnik V"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182016
 ---
 
 Rusia realizará un ensayo clínico de una versión 'Sputnik-Light' de una dosis de su vacuna contra el coronavirus, dijeron las autoridades este lunes, describiéndolo como una posible solución "temporal" para ayudar a que los países con altas tasas de infección puedan aprovecharla más.

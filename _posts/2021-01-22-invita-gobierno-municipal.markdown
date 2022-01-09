@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se llevará a cabo un proceso de selección, siendo la cantidad de becas limitadas a 100 usuarios. La duración del proceso de incubación es del 01 de febrero al 31 de mayo del 2021."
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Invita Gobierno Municipal a emprendedores a participar en el programa “INCUBECH 2021”
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Invita Gobierno Municipal a emprendedores a participar en el programa “INCUBECH 2021”"
 front: false
-section: Local
+section: "Local"
+news_id: 182360
 ---
 
 El Gobierno Municipal de Chihuahua, a través de la Dirección de Desarrollo Económico y Turístico, invita a los emprendedores que tengan una idea de negocio y empresas locales que necesiten mejorar su planeación y la toma de decisiones a participar en el programa Incubadora de Empresas de Chihuahua 2021 (INCUBECH).

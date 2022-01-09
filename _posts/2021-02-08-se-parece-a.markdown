@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En redes sociales se retomó el video en el que Aracely Arámbula mostró el rostro del hijo menor de Luis Miguel. ¿Se parece a 'El Sol'? Te contamos lo que sabemos."
-image: /uploads/2021/images-aracely-arambula-mostro-daniel-hijo.jpg
-video: nil
-audio: nil
-alt: ¿Se parece a 'El Sol'? Aracely Arámbula mostró cómo luce el hijo menor de Luis Miguel
+image: "/uploads/2021/images-aracely-arambula-mostro-daniel-hijo.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Se parece a 'El Sol'? Aracely Arámbula mostró cómo luce el hijo menor de Luis Miguel"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182775
 ---
 
 Aracely Arámbula, La Chule, siempre ha sido muy cuidadosa con su vida privada. Sobre todo después de la ruptura amorosa que tuvo con Luis Miguel, El Sol, con quien tuvo dos hijos. Por ello, un video que recientemente se ha compartido en redes sociales ha dado mucho de qué hablar, pues la famosa aparece sonriente y relajada junto al menor de sus hijos. Es decir, mostró cómo luce uno de los hijos que tuvo con Luis Miguel. ¿Se parece a El Sol? Te contamos lo que sabemos.

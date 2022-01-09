@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La relación amorosa entre Cristian Zuárez y Laura Bozzo terminó hace tiempo y no de la mejor forma. Sin embargo, ante los malos momentos que pasa la peruana su ex salió a defenderla. Lanza advertencia por si llega a pisar la cárcel. "
-image: /uploads/2021/images-cristian-zuarez-defiende-novia-laura_(1).jpg
-video: nil
-audio: nil
-alt: Estaríamos matándola -  Cristian Zuárez defiende a su ex Laura Bozzo; advierte lo que pasará si entra a prisión
+image: "/uploads/2021/images-cristian-zuarez-defiende-novia-laura_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Estaríamos matándola -  Cristian Zuárez defiende a su ex Laura Bozzo; advierte lo que pasará si entra a prisión"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186915
 ---
 
 Laura Bozzo, conductora de polémicos programas de televisión, sigue en la mira tras cometer presuntamente un delito de evasión fiscal, por lo que la FGR ordenó la búsqueda para su detención. Y es que la peruana no se presentó ante las autoridades para hacer frente a la justicia. En medio de esta polémica, en donde algunos famosos se han mofado de su situación e incluso han ofrecido una recompensa para dar con su paradero, en su defensa salió su ex pareja Cristian Zuárez -con quien duró muchos años–. El ex novio de la señorita Laura expresó que si encarcelan a la famosa podría morir. 

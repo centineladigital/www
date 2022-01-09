@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se ofrecerán tres presentaciones, los días 5, 20 y 27 de agosto en punto de las 19:00 horas"
-image: /uploads/2021/images-OFECH_PALACIO_GOBIERNO_1.jpg
-video: nil
-audio: nil
-alt:    Invita Ofech a Temporada Verano 2021 con conciertos   en Palacio de Gobierno
+image: "/uploads/2021/images-OFECH_PALACIO_GOBIERNO_1.jpg"
+video: "nil"
+audio: "nil"
+alt: "   Invita Ofech a Temporada Verano 2021 con conciertos   en Palacio de Gobierno"
 front: false
-section: Local
+section: "Local"
+news_id: 186295
 ---
 
 La Orquesta Filarmónica del Estado de Chihuahua (Ofech) invitó a la Temporada Verano 2021, en el patio central del Palacio de Gobierno, que ofrecerá tres conciertos los días 5, 20 y 27 de agosto, en punto de las 19:00 horas.

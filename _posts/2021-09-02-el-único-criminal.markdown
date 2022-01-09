@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Afirma que el nunca dijo eso ni lo pensó "
-image: /uploads/2021/images-Victor_Quintana__(2).jpg
-video: /uploads/2021/videos-BJ02VICTOR_QUINTANA.mp4
-audio: nil
-alt: “El único criminal organizado que conozco personalmente se llama Cesar Duarte” -  Quintana
+image: "/uploads/2021/images-Victor_Quintana__(2).jpg"
+video: "/uploads/2021/videos-BJ02VICTOR_QUINTANA.mp4"
+audio: "nil"
+alt: "“El único criminal organizado que conozco personalmente se llama Cesar Duarte” -  Quintana"
 front: false
-section: Local
+section: "Local"
+news_id: 187381
 ---
 
 El ex diputado Víctor quintana Silveyra afirmo que el nunca pensó ni dijo nada sobre las acusaciones que el ex gobernador Cesar Duarte informó mediante una carta dedicada a Javier Corral en la que lo incrimina como intermediario entre un sacerdote y Javier Corral con el fin de hacer arreglos con la delincuencia organizada.

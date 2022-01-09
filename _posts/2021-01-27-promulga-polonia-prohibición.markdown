@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El gobierno de Polonia anuncia la promulgación de una sentencia del Tribunal Constitucional que prácticamente prohíbe el aborto en el país"
-image: /uploads/2021/images-2519341.jpg
-video: nil
-audio: nil
-alt: Promulga Polonia prohibición casi total del aborto
+image: "/uploads/2021/images-2519341.jpg"
+video: "nil"
+audio: "nil"
+alt: "Promulga Polonia prohibición casi total del aborto"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182487
 ---
 
 El gobierno de Polonia anuncia la promulgación de una sentencia del Tribunal Constitucional que prácticamente prohíbe el aborto en el paísEl Tribunal Constitucional, reformado por los conservadores, en el poder, se pronunció en octubre en contra de la interrupción voluntaria del embarazo en caso de malformación grave del feto, alegando que esta era "incompatible" con la Constitución, lo que conduce a la prohibición del aborto salvo en caso de violación o incesto, o cuando la vida de la madre corre en peligro.

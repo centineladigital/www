@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los pacientes continúan siendo personas mayores de 50 años que incluso han requerido de oxígeno en casa"
-image: /uploads/2021/images-medico_en_casa.jpg
-video: nil
-audio: nil
-alt: Repunta atención de enfermos por Covid en casa
+image: "/uploads/2021/images-medico_en_casa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Repunta atención de enfermos por Covid en casa"
 front: false
-section: Local
+section: "Local"
+news_id: 184095
 ---
 
 La atención de pacientes con Covid-19 en Ciudad Juárez está actualmente repuntando y causando crisis, no sólo en los hospitales y clínicas privadas, sino también en casa.

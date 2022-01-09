@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Recientemente Brian May contó a sus fans que está pensando en la posibilidad de realizar una segunda parte de la película 'Bohemian Rhapsody'. "
-image: /uploads/2021/images-pelicula-biografica-freddie-mercury-estreno_16_0_1044_650.jpg
-video: nil
-audio: nil
-alt: ¿Otro Oscar para Rami Malek? Brian May asegura que podría haber secuela de 'Bohemian Rhapsody'
+image: "/uploads/2021/images-pelicula-biografica-freddie-mercury-estreno_16_0_1044_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Otro Oscar para Rami Malek? Brian May asegura que podría haber secuela de 'Bohemian Rhapsody'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186551
 ---
 
 Una de las películas más exitosas en 2018 fue Bohemian Rhapsody, la cual es una producción que contó la vida del vocalista de Queen, Freddie Mercury, que fue interpretado por el actor Rami Malek, quien ganó un Oscar gracias a su trabajo. A varios años del éxito conseguido con el filme, Brian May considera una segunda parte. 

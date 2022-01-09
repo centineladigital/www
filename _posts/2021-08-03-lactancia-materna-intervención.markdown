@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se inauguró el foro “Por una infancia libre de obesidad en México”"
-image: /uploads/2021/images-PHOTO-2021-08-02-17-15-47.jpg
-video: nil
-audio: nil
-alt: Lactancia materna, intervención de menor costo y mayor impacto en salud que previene obesidad y sobrepeso -  IMSS
+image: "/uploads/2021/images-PHOTO-2021-08-02-17-15-47.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lactancia materna, intervención de menor costo y mayor impacto en salud que previene obesidad y sobrepeso -  IMSS"
 front: false
-section: Local
+section: "Local"
+news_id: 186223
 ---
 
 La lactancia materna es la intervención en salud de menor costo, con mayor impacto, está disponible las 24 horas del día, es sustentable, sostenible para el medio ambiente, la economía familiar y comunitaria, por ello el Instituto Mexicano del Seguro Social (IMSS) refuerza su compromiso con las derechohabientes y la infancia a través de la promoción de este vital alimento.  

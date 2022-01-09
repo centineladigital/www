@@ -6,12 +6,13 @@ tags:
   
 author: nil
 description: "Las autoridades podrían ser sancionadas "
-image: /uploads/2021/images-julio.jpg.crdownload
-video: /uploads/2021/videos-BL03_JULIO_SALAS.mp4
-audio: nil
-alt: Se tomarán las medidas pertinentes respecto al arresto del reportero de EL DIARIO 
+image: "/uploads/2021/images-julio.jpg.crdownload"
+video: "/uploads/2021/videos-BL03_JULIO_SALAS.mp4"
+audio: "nil"
+alt: "Se tomarán las medidas pertinentes respecto al arresto del reportero de EL DIARIO "
 front: false
-section: Local
+section: "Local"
+news_id: 187687
 ---
 
 Tras el arresto que sufrió el reportero Jorge Ibarra de EL DIARIO  tras estar grabando en un accidente automovilístico el 11 de septiembre  Julio César Salas González  director  de seguridad pública municipal  afirmó que se están tomando las medidas necesarias para entender la parte en la que la policía esto fallando y poderla corregir.

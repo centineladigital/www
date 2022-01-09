@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A partir de este lunes 18 de enero, giros anteriormente suspendidos inician operaciones con restricciones, los que ya operaban tienen permitido aumentar aforo y/o horarios"
-image: /uploads/2021/images-3.jpg
-video: nil
-audio: nil
-alt: Pide Salud responsabilidad a ciudadanía para no volver al semáforo rojo
+image: "/uploads/2021/images-3.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pide Salud responsabilidad a ciudadanía para no volver al semáforo rojo"
 front: false
-section: Local
+section: "Local"
+news_id: 182222
 ---
 
 El secretario de Salud del Estado, Eduardo Fernández Herrera, detalló en el programa Chihuahua Adelante, los lineamientos para las actividades que permite el semáforo Amarillo Seguro, con respectivos ajustes en aforos y horarios.

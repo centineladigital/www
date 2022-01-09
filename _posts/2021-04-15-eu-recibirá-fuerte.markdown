@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Estados Unidos no está listo a aceptar la realidad objetiva de un mundo multipolar, señaló la portavoz de la diplomacia rusa, Maria Zajárova"
-image: /uploads/2021/images-2562700.jpg
-video: nil
-audio: nil
-alt: EU ‘recibirá fuerte respuesta’, advierte Rusia sobre sanciones
+image: "/uploads/2021/images-2562700.jpg"
+video: "nil"
+audio: "nil"
+alt: "EU ‘recibirá fuerte respuesta’, advierte Rusia sobre sanciones"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183901
 ---
 
 Rusia prometió este jueves una respuesta "inevitable" a las sanciones decretadas por Estados Unidos en su contra, y convocó al embajador estadounidense en Moscú para una "conversación difícil".

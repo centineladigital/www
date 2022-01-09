@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que escuchará al público."
-image: /uploads/2021/images-1.jpeg
-video: nil
-audio: /uploads/2021/audio-MW07_ALFREDO_CHAVEZ.mp3
-alt: Debe tener contrapreso 4T
+image: "/uploads/2021/images-1.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MW07_ALFREDO_CHAVEZ.mp3"
+alt: "Debe tener contrapreso 4T"
 front: false
-section: Local
+section: "Local"
+news_id: 184429
 ---
 
 La Cuarta transformación debe de tener contrapeso, señaló el candidato del PAN a diputado por el distrito 15 Alfredo Chávez. Esto al señalar que como legislador trabajará por la reactivación económica y en temas de salud. Esto sumado a que será la voz de quienes piensan distinto al gobierno federal.

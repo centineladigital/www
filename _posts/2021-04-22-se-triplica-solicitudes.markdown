@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto por la pandemia que se vive."
-image: /uploads/2021/images-PARROCO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ05_JOSE_PORRAS.mp3
-alt: Se triplica solicitudes de apoyo alimentario
+image: "/uploads/2021/images-PARROCO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ06_JOSE_PORRAS.mp3"
+alt: "Se triplica solicitudes de apoyo alimentario"
 front: false
-section: Local
+section: "Local"
+news_id: 184057
 ---
 
 La asociación Cáritas de Chihuahua triplicó las solicitudes de alimento según fue dado a conocer por parte de José Porras, presidente del Patronato. Esto por la situación precaria que ha dejado la pandemia.

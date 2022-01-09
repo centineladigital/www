@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con una inversión de 120.9 millones de pesos se convierte en la unidad médica más grande del estado que beneficiará a 70 mil usuarias y usuarios, incluyendo a personas migrantes"
-image: /uploads/2021/images-Corte_de_listón.jpeg
-video: nil
-audio: nil
-alt: Inaugura Javier Corral Centro de Salud “Todos Somos Mexicanos” en Juárez
+image: "/uploads/2021/images-Corte_de_listón.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Inaugura Javier Corral Centro de Salud “Todos Somos Mexicanos” en Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 183568
 ---
 
 El gobernador Javier Corral Jurado inauguró el Centro de Salud “Todos somos mexicanos”, será el más grande de la entidad y se construyó con una inversión de 120 millones 974 mil pesos, para sustituir a la antigua unidad “Bellavista”, en Ciudad Juárez.

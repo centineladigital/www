@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las sorpresivas manifestaciones de ayer han desatado punto de ebullición en la isla ante las decisiones del presidente Miguel Díaz-Canel."
-image: /uploads/2021/images-cuba-2.jpg
-video: nil
-audio: nil
-alt: Economía, medicinas y cortes de internet; ¿Por qué hay protestas contra el gobierno de Cuba?
+image: "/uploads/2021/images-cuba-2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Economía, medicinas y cortes de internet; ¿Por qué hay protestas contra el gobierno de Cuba?"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185653
 ---
 
 "¡Libertad!" y "¡abajo la dictadura!", fueron los gritos más escuchados en  Cuba mientras ocurría una manifestación que se reportó primero en San Antonio de los Baños y que rápidamente se extendió por varios rincones del país, incluyendo La Habana, considerándose un hecho que tomó por sorpresa a todos, especialmente al gobierno de Miguel Díaz-Canel. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pedimos que no vincule a proceso a ninguno de mis representados, no hay elementos suficientes, puntualizó el abogado de Maru Campos "
-image: /uploads/2021/images-Manifestantes_TSJ_2.jpg
-video: nil
-audio: nil
-alt: Cumplen 25 horas manifestantes en el Tribunal Superior de Justicia
+image: "/uploads/2021/images-Manifestantes_TSJ_2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cumplen 25 horas manifestantes en el Tribunal Superior de Justicia"
 front: false
-section: Local
+section: "Local"
+news_id: 183642
 ---
 
 Los manifestantes que acudieron a las afueras del Tribunal Superior de Justicia del Estado, cumplieron 25 horas de haber iniciado un plantón en el exterior, esto tras solicitar a las autoridades judiciales que vinculen a proceso a los ex diputados locales que se encuentran involucrados en el caos de la nómina secreta.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Detectan 19 muertes, esto tras darse a conocer los resultados de protocolos para la acreditación de las mismas."
-image: /uploads/2021/images-WENDY_AVILA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01_WENDY_AVILA.mp3
-alt: Registran 182 nuevos casos de coronavirus
+image: "/uploads/2021/images-WENDY_AVILA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01_WENDY_AVILA.mp3"
+alt: "Registran 182 nuevos casos de coronavirus"
 front: false
-section: Local
+section: "Local"
+news_id: 182703
 ---
 
 Un total de 188 casos nuevos que dieron positivo a la prueba PCR y 19 muertes se acreditaron dentro de las últimas 24 horas, esto al darse a conoce la actualización de cifras de cos dentro de la pandemia.

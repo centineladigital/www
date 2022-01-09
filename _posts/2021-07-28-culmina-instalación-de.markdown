@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Con el objetivo de mejorar la iluminación del lugar y de ese modo brindar mayor seguridad a los conductores que transitan por el tramo"
-image: /uploads/2021/images-unnamed_(10).jpg
-video: nil
-audio: nil
-alt: Culmina instalación de iluminación en túnel de la Independencia
+image: "/uploads/2021/images-unnamed_(10).jpg"
+video: "nil"
+audio: "nil"
+alt: "Culmina instalación de iluminación en túnel de la Independencia"
 front: false
-section: Local
+section: "Local"
+news_id: 186071
 ---
 
 Luego de varios días de labores, se logró la conclusión de la colocación de reflectores en el túnel ubicado en la avenida Independencia, con el objetivo de mejorar la iluminación del lugar y de ese modo brindar mayor seguridad a los conductores que transitan por el tramo.

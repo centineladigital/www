@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "No todos los de la comunidad están de acuerdo con las acciones realizadas, afirmó Javier Corral."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-ML07_JAVIER_CORRAL.mp3
-alt: Señala Gobernador lucro político en tragedia Lebaron
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML07_JAVIER_CORRAL.mp3"
+alt: "Señala Gobernador lucro político en tragedia Lebaron"
 front: false
-section: Local
+section: "Local"
+news_id: 184118
 ---
 
 El Gobernador de Chihuahua lamentó que se esté lucrando con el caso de muertes de mujeres y niños pertenecientes a la comunidad de Lebaron, destacando que en los próximos días se dará a conocer avances por parte de la Fiscalía de Chihuahua en el caso y toda la colaboración del Gobierno del Estado para el esclarecimiento de los hechos.

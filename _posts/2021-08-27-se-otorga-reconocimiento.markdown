@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se ha desempeñado de una manera intachable en el apoyo de las necesidades del transporte público."
-image: /uploads/2021/images-CONATRAM.jpeg
-video: /uploads/2021/videos-BV01_EDGAR_OLIVAS.mp4
-audio: nil
-alt:  Se otorga reconocimiento al coordinador de la policía vial 
+image: "/uploads/2021/images-CONATRAM.jpeg"
+video: "/uploads/2021/videos-BV01_EDGAR_OLIVAS.mp4"
+audio: "nil"
+alt: " Se otorga reconocimiento al coordinador de la policía vial "
 front: false
-section: Local
+section: "Local"
+news_id: 187205
 ---
 
 La Confederación Nacional de Trasportistas Mexicanos A.C. otorgó un reconocimiento al Lic. Gabriel Hernández Borja coordinador operativo de la división de policía vial, en palabras del Lic. Edgar Olivas líder de CONATRAM se está terminando un gobierno de corrupción encabezado por Javier Corral jurado, en donde el coordinador Hernández se ha desempeñado de una manera intachable en el apoyo de las necesidades del transporte público.

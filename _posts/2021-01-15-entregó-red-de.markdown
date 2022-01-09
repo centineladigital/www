@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los recursos eran del Gobierno Federal, del Gobierno del Estado y de particulares; se trata de una compañía del ramo de autopartes"
-image: /uploads/2021/images-Diapositiva16.JPG
-video: nil
-audio: nil
-alt: Entregó red de corrupción de exgobernador 99 mdp a fondo perdido a empresa de Parral
+image: "/uploads/2021/images-Diapositiva16.JPG"
+video: "nil"
+audio: "nil"
+alt: "Entregó red de corrupción de exgobernador 99 mdp a fondo perdido a empresa de Parral"
 front: false
-section: Local
+section: "Local"
+news_id: 182161
 ---
 
 Uno de los Esquemas Agresivos de Evasión Fiscal que escapa a lo común, como parte de la red de corrupción del exgobernador, es el de los recursos por 99 millones de pesos (mdp) que fueron entregados como apoyo a fondo perdido a una empresa de autopartes con domicilio en Hidalgo del Parral.

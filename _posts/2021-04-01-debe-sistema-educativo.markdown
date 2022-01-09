@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Buscan crear herramientas para niños de educación básica."
-image: /uploads/2021/images-CARLOS.jpg
-video: nil
-audio: /uploads/2021/audio-MJ04_CARLOS_GONZALEZ.mp3
-alt: Debe sistema educativo crear un plan multianual
+image: "/uploads/2021/images-CARLOS.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ04_CARLOS_GONZALEZ.mp3"
+alt: "Debe sistema educativo crear un plan multianual"
 front: false
-section: Local
+section: "Local"
+news_id: 183651
 ---
 
 Debido a que la pandemia ha generado problemáticas en materia educativa, se tiene que buscar crear un plan multianual, según lo dio a conocer el Secretario de Educación y Deporte, Carlos González Herrera.

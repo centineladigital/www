@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Los módulos se instalarán en el Campus II de la UACH la jornada será de 9:00 a 15:00 horas y habrá otros módulos de vacunación en los centros de salud San Felipe, Nogales y Villa Juárez."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-MJ03_WENDY_AVILA.mp3
-alt: Vacunarán a menores en Drive Thru
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ03_WENDY_AVILA.mp3"
+alt: "Vacunarán a menores en Drive Thru"
 front: false
-section: Local
+section: "Local"
+news_id: 184571
 ---
 
 Con el fin de que menores completen su vacunación se llevará a cabo una campaña para que los padres puedan llevarlos a la aplicación de sarampión y rubéola a niñas, por lo que este domingo menores de 1 a 4 años pueden ser llevado a los diversos módulos instalados en Chihuahua, según lo dio a conocer la Subdirectora de Medicina Preventiva y Promoción de la Salud, Wendy Avila Coroonado.

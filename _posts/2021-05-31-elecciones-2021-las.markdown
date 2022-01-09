@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Desde septiembre del 2020 el INE aprobó ampliar la vigencia de dichas credenciales"
-image: /uploads/2021/images-credencial_de_elector.jpg
-video: nil
-audio: nil
-alt: Elecciones 2021 -  Las credenciales con vigencia 2019 y 2020 sí podrán votar
+image: "/uploads/2021/images-credencial_de_elector.jpg"
+video: "nil"
+audio: "nil"
+alt: "Elecciones 2021 -  Las credenciales con vigencia 2019 y 2020 sí podrán votar"
 front: false
-section: Local
+section: "Local"
+news_id: 184740
 ---
 
 Existen dudas de si las credenciales de elector que vencieron el 2019 y el 2020 podrán ser utilizadas para votar en las elecciones del 6 de junio del presente año, por tal motivo el Instituto Nacional Electoral desde el mes de septiembre del año pasado aprobó ampliar la vigencia de dichas credenciales.

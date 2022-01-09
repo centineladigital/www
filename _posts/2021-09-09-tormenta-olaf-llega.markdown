@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El SMN informó que la tormenta ocasionará lluvias fuertes en Baja California Sur, Jalisco, Nayarit y Sinaloa, así como chubascos en Baja California, Colima y Sonora"
-image: /uploads/2021/images-tormenta-tropical-olaf-desplaza-kilometros_0_115_1118_695.jpg
-video: nil
-audio: nil
-alt: Tormenta 'Olaf' llega a Los Cabos; prevén que hoy se convierta en huracán categoría 1
+image: "/uploads/2021/images-tormenta-tropical-olaf-desplaza-kilometros_0_115_1118_695.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tormenta 'Olaf' llega a Los Cabos; prevén que hoy se convierta en huracán categoría 1"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187565
 ---
 
 La tormenta tropical Olaf  se ubicó a 300 kilómetros al sureste de Cabo San Lucas, Baja California Sur, desde las 07:00 horas  y se prevé que en las próximas horas se intensifique a huracán categoría 1, en la escala Saffir-Simpson, informó el Servicio Meteorológico Nacional (SMN). 

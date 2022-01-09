@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "En tan sólo 24 horas se detentan 257 casos y 9 defunciones son acreditadas."
-image: /uploads/2021/images-arton21150.jpg
-video: nil
-audio: /uploads/2021/audio-MW01.mp3
-alt: Baja registro de casos COVID por semana
+image: "/uploads/2021/images-arton21150.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW01.mp3"
+alt: "Baja registro de casos COVID por semana"
 front: false
-section: Local
+section: "Local"
+news_id: 184956
 ---
 
 Solamente 353 casos nuevos de coronavirus se han registrado en la semana 21 fueron las palabras del Director Médico Zona Norte, Arturo Valenzuela Zorrilla, esto dentro de la actualización de cifras donde destacó que en 24 horas se acreditaron 9 muertes y 257 personas dieron positivo a la prueba PCR.

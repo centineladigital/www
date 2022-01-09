@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los Diablos Rojos se impusieron por 3-1 sobre las Águilas y se afianzaron en los puestos de repechaje, negándole la cima a los azulcremas"
-image: /uploads/2021/images-2568236.jpg
-video: nil
-audio: nil
-alt: Toluca despierta y hace la diablura al América
+image: "/uploads/2021/images-2568236.jpg"
+video: "nil"
+audio: "nil"
+alt: "Toluca despierta y hace la diablura al América"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 184098
 ---
 
 Los Diablos Rojos del Toluca despertaron en el momento más oportuno del torneo y se impusieron por 3-1 sobre las Águilas del América en la jornada 16 del Guard1anes 2021, afianzándose en puestos de repechaje y negándole un posible liderato a los azulcremas.

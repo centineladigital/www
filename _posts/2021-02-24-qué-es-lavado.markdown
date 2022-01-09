@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Leticia Calderón reveló que la relación entre sus hijos Luciano y Carlo con Juan “N” es buena. Contó cómo habla con ellos sobre el proceso legal que afronta desde prisión. "
-image: /uploads/2021/images-leticia-calderon-recuerda-juan-collado.jpg
-video: nil
-audio: nil
-alt: “¿Qué es lavado de dinero?” -  Leticia Calderón revela cómo habla con sus hijos de Juan Collado
+image: "/uploads/2021/images-leticia-calderon-recuerda-juan-collado.jpg"
+video: "nil"
+audio: "nil"
+alt: "“¿Qué es lavado de dinero?” -  Leticia Calderón revela cómo habla con sus hijos de Juan Collado"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183127
 ---
 
 Leticia Calderón, famosa actriz, reveló cómo afronta que su hijos tengan acceso a la información que hay en internet sobre el caso de su ex pareja Juan Collado, quien afronta un proceso legal desde el Reclusorio Norte de la Ciudad de México por presunto lavado de dinero. ¿La actriz es transparente a la hora de hablar con sus hijos?¿No oculta lo que sucede legalmente con el abogado, quien actualmente es pareja de Yadhira Carrillo? Te contamos cómo habla de este tema.  En entrevista con Ventaneando, Leticia Calderón reveló que la relación entre sus hijos Luciano y Carlo con Juan “N” es buena. Comentó que su relación ha sido más cercana desde que la actriz tuvo covid-19 

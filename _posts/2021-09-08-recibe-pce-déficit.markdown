@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esperan subsanarlo antes de concluir la presente administracion."
-image: /uploads/2021/images-WhatsApp_Image_2021-09-08_at_2.42.10_PM.jpeg
-video: /uploads/2021/videos-MM01_FRANCISCO_GUTIERREZ.mp4
-audio: nil
-alt: Recibe PCE déficit de más de 4 mil mdp
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-08_at_2.42.10_PM.jpeg"
+video: "/uploads/2021/videos-MM01_FRANCISCO_GUTIERREZ.mp4"
+audio: "nil"
+alt: "Recibe PCE déficit de más de 4 mil mdp"
 front: false
-section: Local
+section: "Local"
+news_id: 187550
 ---
 
 Un déficit que supera los cuatro mil millones de pesos es lo que  se tiene registrado dentro de Pensiones Civiles del Estado, el cual espera pueda subsanar durante antes de que concluya la presente administración.  

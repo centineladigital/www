@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los directores tendrán que revisar su presupuesto"
-image: /uploads/2021/images-índice.jpg
-video: /uploads/2021/videos-BV02_MARCO_BONILLA.mp4
-audio: nil
-alt: Existe prioridad en seguridad por presupuesto municipal 
+image: "/uploads/2021/images-índice.jpg"
+video: "/uploads/2021/videos-BV02_MARCO_BONILLA.mp4"
+audio: "nil"
+alt: "Existe prioridad en seguridad por presupuesto municipal "
 front: false
-section: Local
+section: "Local"
+news_id: 187830
 ---
 
 Existe prioridad en seguridad por presupuesto municipal el alcalde Marco Bonilla, manifestó, que los directores de las diversas dependencias de gobierno tendrán que revisar su presupuesto para iniciar con el trabajo que requiere el municipio, los compromisos más importantes de la administración son en materia de seguridad pública, en donde e buscará la sustitución de patrullas ya que se tiene un aproximado de 70 patrullas semanalmente en el taller municipal.

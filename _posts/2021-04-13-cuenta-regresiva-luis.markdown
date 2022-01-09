@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La segunda temporada de la serie de Netflix se estrena este 18 de abril, pero antes podrás asistir a la premier. "
-image: /uploads/2021/images-temporada-luis-miguel-serie-estrena_116_0_1083_675.jpg
-video: nil
-audio: nil
-alt: ¡Cuenta regresiva! 'Luis Miguel, la serie' llega esta semana y así puedes asistir al preestreno
+image: "/uploads/2021/images-temporada-luis-miguel-serie-estrena_116_0_1083_675.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Cuenta regresiva! 'Luis Miguel, la serie' llega esta semana y así puedes asistir al preestreno"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183851
 ---
 
 La segunda temporada de Luis Miguel, la serie, se estrena este domingo 18 de abril, pero el furor por conocer los detalles sobre la vida y las canciones emblemáticas de El Sol de México, ya empezó a aumentar. Y ahora, Netflix ha dado una sorpresa a los miles de seguidores del intérprete de La Incondicional, pues anunció una premier virtual en la que los fans también podrán participar. Así que aquí te contamos todos los detalles. 

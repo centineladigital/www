@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La esposa de Pablo Lyle compartió que el mayor deseo de su hijo es que su padre sea libre y regrese a Mazatlán. "
-image: /uploads/2021/images-actor-acusado-supuestamente-matado-hombre.jpg
-video: nil
-audio: nil
-alt: Hijo de Pablo Lyle conmueve al revelar que su deseo es que su papá regrese a México
+image: "/uploads/2021/images-actor-acusado-supuestamente-matado-hombre.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hijo de Pablo Lyle conmueve al revelar que su deseo es que su papá regrese a México"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182627
 ---
 
 Desde hace más de dos años Pablo Lyle está en vuelto en la polémica después de que atacara a un hombre con el que tuvo una discusión tras un malentendido mientras ambos se encontraban transitando en las calles de Miami. Después de los golpes que el hombre recibió por parte del actor éste murió y ahora que enfrenta a la ley de Estados Unidos, el hijo de Pablo compartió uno de sus más grandes deseos. 

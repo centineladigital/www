@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Encabeza titular del Sistema, Ricardo Buccio, reunión para definir las acciones prioritarias 2021 que garanticen la integridad de este grupo de edad"
-image: /uploads/2021/images-SESIÓN_SIPINNA_(2).jpeg
-video: nil
-audio: nil
-alt: Reconoce Secretariado Ejecutivo de Sipinna labor de Chihuahua en favor de la niñez y la adolescencia
+image: "/uploads/2021/images-SESIÓN_SIPINNA_(2).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Reconoce Secretariado Ejecutivo de Sipinna labor de Chihuahua en favor de la niñez y la adolescencia"
 front: false
-section: Local
+section: "Local"
+news_id: 182152
 ---
 
 El Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes (Sipinna) llevó a cabo una reunión de preparación para la Onceava Sesión Ordinaria, en donde se presentaron los avances institucionales y las acciones prioritarias para 2021.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La Selección Nacional de México Olímpica arribó a Tokio y ya se encuentra en la Villa Olímpica, la cual será su sede durante la participación en Juegos Olímpicos que iniciará con el encuentro ante Francia el próximo 22 de julio."
-image: /uploads/2021/images-E6bSVnmXIAMf-Lu.jpg
-video: nil
-audio: nil
-alt: La selección de México ya se encuentra en la Villa Olímpica de Tokio
+image: "/uploads/2021/images-E6bSVnmXIAMf-Lu.jpg"
+video: "nil"
+audio: "nil"
+alt: "La selección de México ya se encuentra en la Villa Olímpica de Tokio"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185733
 ---
 
 La selección mexicana sub-23, que representará al país en los Juegos Olímpicos de Tokio, ha llegado a la prefectura japonesa para concentrarse previo a su debut ante Francia el próximo jueves 22 de julio a las 3:00, tiempo del centro de México. 

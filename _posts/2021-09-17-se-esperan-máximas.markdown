@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "También se pronostican cielos medio nublados y poca probabilidad de lluvias   "
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Se esperan máximas de 33°C para este fin de semana en la ciudad   
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se esperan máximas de 33°C para este fin de semana en la ciudad   "
 front: false
-section: Local
+section: "Local"
+news_id: 187819
 ---
 
 La Coordinación Municipal de Protección Civil informa que para este fin de semana existe poca probabilidad de lluvias, con nublados que ayudarán a mitigar las altas temperaturas; esto, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional de CONAGUA.

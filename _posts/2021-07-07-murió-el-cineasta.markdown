@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La noticia sobre la muerte del actor se confirmó con la publicación que hizo su hijo, el actor Robert Downey Jr, en Instagram. "
-image: /uploads/2021/images-murio-cineasta-robert-downey-sr.jpg
-video: nil
-audio: nil
-alt: Murió el cineasta Robert Downey Sr, padre del actor Robert Downey Jr
+image: "/uploads/2021/images-murio-cineasta-robert-downey-sr.jpg"
+video: "nil"
+audio: "nil"
+alt: "Murió el cineasta Robert Downey Sr, padre del actor Robert Downey Jr"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185438
 ---
 
 Robert Downey Sr, el cineasta estadunidense, falleció durante la madrugada de este miércoles cuando dormía en su domicilio ubicado en Nueva York. La noticia sobre el fallecimiento del padre del actor Robert Downey Jr –quien da vida a Iron Man– se dio a conocer mediante Daily News. Más tarde se confirmó lo revelado por el integrante de los Avengers, quien en Instagram dedicó unas palabras. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "James Wan compartió una foto en sus redes sociales en la que se puede leer el título: Aquaman and The Lost Kingdom."
-image: /uploads/2021/images-aquaman-tendra-segunda-parte-foto_0_185_933_581.jpg
-video: nil
-audio: nil
-alt: ¡Atlantis está de regreso! James Wan revela nombre de secuela de 'Aquaman'
+image: "/uploads/2021/images-aquaman-tendra-segunda-parte-foto_0_185_933_581.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Atlantis está de regreso! James Wan revela nombre de secuela de 'Aquaman'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184999
 ---
 
 A pocas semanas del inicio de la producción de la segunda película del superhéroe de Atlantis, el director James Wan reveló al fin el título oficial del atlante, la cual se llamará Aquaman and The Lost Kingdom, lo que podría revelar parte de lo que podremos encontrar próximamente en esta secuela. James Wan  compartió una foto en sus redes sociales en la que se puede leer el título: Aquaman and The Lost Kingdom. "La marea está subiendo", escribió junto a la imagen.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Algunos usuarios celebraron que la plataforma ya está disponible en México, pero muchos otros expresaron su molestia por la falta de títulos y contenidos."
-image: /uploads/2021/images-hbo-max-llega-mexico-memes_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¡Bienvenido a casa! Estos son los mejores memes de la llegada de HBO Max a México
+image: "/uploads/2021/images-hbo-max-llega-mexico-memes_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Bienvenido a casa! Estos son los mejores memes de la llegada de HBO Max a México"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185291
 ---
 
 HBO Max ya está disponible en México después de meses de espera e incertidumbre. Y aunque algunos usuarios han compartido su felicidad porque por fin disfrutarán de contenidos exclusivos de la plataforma, otros más expresaron con tristeza que el dinero en el bolsillo no es suficiente para contratar nuevos servicios de entretenimiento. Las diversas opiniones desataron memes y burlas en redes sociales.  

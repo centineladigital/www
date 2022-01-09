@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El registro puede realizarse a través de la página https://sie.chihuahua.gob.mx/publico/preinscripciones"
-image: /uploads/2021/images-SED_6228.JPG
-video: nil
-audio: nil
-alt: Concluye el 26 de marzo proceso de preinscripción a Educación Básica
+image: "/uploads/2021/images-SED_6228.JPG"
+video: "nil"
+audio: "nil"
+alt: "Concluye el 26 de marzo proceso de preinscripción a Educación Básica"
 front: false
-section: Local
+section: "Local"
+news_id: 183537
 ---
 
 Gobierno del Estado, a través de la Secretaría de Educación y Deporte (SEyD) informa que el próximo viernes 26 de marzo concluye el proceso de preinscripción a Educación Básica, correspondiente al ciclo escolar 2021-2022.

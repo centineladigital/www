@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Reconocen acción de menor"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Nombran policía honoraria a menor que guío a policías tras parto de su madre
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Nombran policía honoraria a menor que guío a policías tras parto de su madre"
 front: false
-section: Local
+section: "Local"
+news_id: 185916
 ---
 
 La Presidenta Municipal visitó el domicilio de la señora María Velia para hacer entrega de un reconocimiento como policía honoraria a su hija de 3 años, ya que ella fue el medio para que elementos de Seguridad Pública pudieran auxiliarla luego de tener a su segundo hijo en su casa ubicada en la colonia Punta Oriente el pasado 17 de mayo.

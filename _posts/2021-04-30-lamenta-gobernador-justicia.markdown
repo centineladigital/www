@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto en el tema del desafuero de Cruz Pérez Cuellar."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-MV05_JAVIER_CORRAL.mp3
-alt: Lamenta Gobernador justicia selectiva en México
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05_JAVIER_CORRAL.mp3"
+alt: "Lamenta Gobernador justicia selectiva en México"
 front: false
-section: Local
+section: "Local"
+news_id: 184223
 ---
 
 El Gobernador de Chihuahua, Javier Corral Jurado, lamentó en México se dé una justicia selectiva en el tema del desafuero a Cruz Pérez Cuellar, el cual fue detenido. Mientras que se continuo con el proceso del gobernador Francisco García Cabeza de Vaca. Destacando que las acusaciones en contra del gobernador son un “copy-paste” de las acusaciones que el gobierno de Chihuahua emitió en contra del senador morenista.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "También que se reanudo la sesión de la Comisión de Hacienda para revisar un anteproyecto de dictamen "
-image: /uploads/2021/images-dsdsdgds.jpg
-video: nil
-audio: /uploads/2021/audio-AL03_MIGUEL_COLUNGA.mp3
-alt: Buscan diputados que comparezca secretario de hacienda por crédito del gobernador
+image: "/uploads/2021/images-dsdsdgds.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AL03_MIGUEL_COLUNGA.mp3"
+alt: "Buscan diputados que comparezca secretario de hacienda por crédito del gobernador"
 front: false
-section: Local
+section: "Local"
+news_id: 182231
 ---
 
 El coordinador de los legisladores de Morena, Miguel Colunga, informo que la Comisión de Hacienda del Congreso del Estado buscara comparezca el titular de Hacienda, Arturo Fuentes Vélez en relación a la solicitud de crédito del gobernador Javier Corral por mil 898 millones de pesos a pagarse a 20 años.

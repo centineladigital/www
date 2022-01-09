@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "“Del análisis que tenemos de las finanzas estatales, la deuda global está llegando a los 60 mil millones de pesos ya no es controlable”, señaló."
-image: /uploads/2021/images-GRHRHRE.jpg
-video: nil
-audio: /uploads/2021/audio-AV02_MIGUEL_COLUNGA.mp3
-alt: Gobierno de Corral ya gastó 2 mil mdp que adelantó la Federación -  Miguel Colunga
+image: "/uploads/2021/images-GRHRHRE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AV02_MIGUEL_COLUNGA.mp3"
+alt: "Gobierno de Corral ya gastó 2 mil mdp que adelantó la Federación -  Miguel Colunga"
 front: false
-section: Local
+section: "Local"
+news_id: 182369
 ---
 
 La dirigencia estatal de Morena y la coordinación de diputados, informó que el gobierno de Javier Corral ya se gastó los 2 mil millones de pesos de adelanto de participaciones federales, el freno al endeudamiento es un triunfo de la ciudadanía.

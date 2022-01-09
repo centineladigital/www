@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Se registran 308 nuevos casos de COVID-19 para el estado de Chihuahua "
+date: 2021-12-29T20:11:00.000-06:00
+tags:
+  
+  - Covid
+  
+  - Cifras
+  
+  - chihuahua
+  
+author: nil
+description: "El número de personas que han perdido la vida por COVID-19 ascendió a 8 mil 732 casos"
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Se registran 308 nuevos casos de COVID-19 para el estado de Chihuahua "
+front: false
+section: "Local"
+news_id: 191316
+---
+
+El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 29 de diciembre el reporte COVID-19, en el cual se registran 92 mil 328 (+308) personas confirmadas en la entidad por este padecimiento, 79 mil 360 (+330) casos recuperados, 88 mil 586 (+272) descartados y mil 206 (16) casos sospechosos.
+
+El número de personas que han perdido la vida por COVID-19 ascendió a 8 mil 732 casos (+21) y las defunciones que se añaden al registro corresponden a los municipios de Juárez (+11), Chihuahua (+1), Camargo (+1), Meoqui (+3), Saucillo (+1), Buenaventura (+1), Ascensión (+1), Casas Grandes (+1) y Cusihuiriachi (+1).
+
+Cabe señalar que se realizó un ajuste en el registro de fallecimientos de un caso en el municipio de Ojinaga, el cual posee actualmente 45.
+
+El número de personas confirmadas asciende a 92 mil 328 (+308) y los casos confirmados corresponden a los municipios de Juárez (+126), Chihuahua (+56), Parral (+19), Cuauhtémoc (+19), Delicias (+7), Nuevo Casas Grandes (+4), Ojinaga (+6), Camargo (+8), Guachochi (+4), Jiménez (+2), Saucillo (+1), Guerrero (+2), Aldama (+1), Buenaventura (+11), Allende (+2), Santa Bárbara (+8), Madera (+1), Ascensión (+4), Ahumada (+7), San Francisco del Oro (+5), López (+5), Galeana (+1), Balleza (+2), Coronado (+1), Praxedis G. Guerrero (+1), Cusihuiriachi (+1), Gran Morelos (+3) y Uruachi (+1).
+
+Además se reporta una tasa de incidencia de casos activos de los últimos 14 días de 40.2 por 100 mil habitantes y a nivel nacional se han registrado 943 casos nuevos, de modo que Chihuahua se posiciona en el lugar 4 de casos activos en el país.
+
+El número de personas hospitalizadas es de 217, se tiene el registro de 55 intubados, lo que representa una ocupación general 50.7 por ciento y una ocupación de intubados de 33.7 por ciento.
+
+La Secretaría de Salud exhorta a la ciudadanía a aplicar adecuadamente las medidas preventivas durante estas fiestas decembrinas, como son el lavado frecuente de manos o el uso de gel antibacterial, conservar la sana distancia de 1.5 metros entre personas, portar el cubrebocas en todas las actividades, así como realizar la limpieza y desinfección de los espacios y objetos de uso común.
+
+Es importante para reducir el riesgo de contagio, evitar estar en aglomeraciones y tener contacto con personas por medio del abrazo y el saludo de mano o beso.
+
+Ante la presencia de algún síntoma como la pérdida del olfato, dolor de cabeza o de garganta, fiebre superior a 38 grados, sensación de cuerpo cortado o escurrimiento nasal, es importante no automedicarse y realizarse una prueba para descartar o confirmar el padecimiento de COVID-19.

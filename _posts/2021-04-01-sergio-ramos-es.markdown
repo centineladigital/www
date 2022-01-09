@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El capitán del Real Madrid tiene una lesión muscular en el gemelo interno de la pierna izquierda"
-image: /uploads/2021/images-2555308.jpg
-video: nil
-audio: nil
-alt: Sergio Ramos es duda para el Clásico
+image: "/uploads/2021/images-2555308.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sergio Ramos es duda para el Clásico"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183644
 ---
 
 El jugador del Real Madrid, Sergio Ramos, se lesionó en el gemelo interno izquierdo y es baja indefinida, tras participar con la selección española, para los próximos encuentros del equipo.

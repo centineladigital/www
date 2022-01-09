@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Esto fue revelado en el documento “Finanzas públicas y deuda pública a mayo 2021“, dado a conocer este jueves por la Secretaría de Hacienda."
-image: /uploads/2021/images-dinero.jpg
-video: nil
-audio: nil
-alt: Supera gasto de gobierno federal sus ingresos
+image: "/uploads/2021/images-dinero.jpg"
+video: "nil"
+audio: "nil"
+alt: "Supera gasto de gobierno federal sus ingresos"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185327
 ---
 
 Un informe de la Secretaría de Hacienda y Crédito Público reveló que el gasto del Gobierno superó a los ingresos presupuestarios en los primeros cinco meses del 2021.

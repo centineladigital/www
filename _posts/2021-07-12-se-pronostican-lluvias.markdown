@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Emite Protección Civil aviso preventivo para este lunes y martes por precipitaciones que pueden estar acompañadas de descargas eléctricas y caída de granizo."
-image: /uploads/2021/images-_DSC5727.JPG
-video: nil
-audio: nil
-alt: Se pronostican lluvias de moderadas a fuertes en occidente y  noroeste del estado
+image: "/uploads/2021/images-_DSC5727.JPG"
+video: "nil"
+audio: "nil"
+alt: "Se pronostican lluvias de moderadas a fuertes en occidente y  noroeste del estado"
 front: false
-section: Local
+section: "Local"
+news_id: 185571
 ---
 
 La Coordinación Estatal de Protección Civil informó que para este lunes 12 y martes 13 de julio se prevén precipitaciones en la mayor parte del estado, que pueden ir de fuertes a dispersas y estar acompañadas de descargas eléctricas y caída de granizo.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Debido al incremento de casos positivos en algunas regiones de Oaxaca, el titular del ISSSTE recomendó cumplir los protocolos de protección y acudir a vacunarse"
-image: /uploads/2021/images-_111083333_060312069-1.jpg
-video: nil
-audio: nil
-alt: Exhorta Ramírez Pineda a no bajar la guardia ante el covid-19 en todo el país 
+image: "/uploads/2021/images-_111083333_060312069-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Exhorta Ramírez Pineda a no bajar la guardia ante el covid-19 en todo el país "
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185789
 ---
 
 Ante el aumento de los casos de COVID-19 en diversas regiones del estado de Oaxaca y en todo el país, el director general del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), Luis Antonio Ramírez Pineda, exhortó a la población a no bajar la guardia y respetar todas las medidas sanitarias establecidas como el uso permanente del cubreboca, lavado de manos frecuente, y evitar aglomeraciones.

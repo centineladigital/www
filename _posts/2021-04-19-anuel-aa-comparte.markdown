@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante recibió críticas en Instagram tras compartir varias fotografías en las que presume su fortuna. "
-image: /uploads/2021/images-anuel-aa-instagram_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Anuel AA comparte fotos rodeado de billetes de dólares; lo critican en redes sociales
+image: "/uploads/2021/images-anuel-aa-instagram_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Anuel AA comparte fotos rodeado de billetes de dólares; lo critican en redes sociales"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183955
 ---
 
 Anuel AA volvió a generar debate en redes sociales, en medio de los rumores que apuntan su ruptura amorosa con Karol G. Y es que el intérprete de "Hasta que Dios diga" compartió varias fotografías en las que aparece rodeado de fajos de billetes de dólares; sin embargo, las imágenes no fueron bien recibidas por los internautas, que criticaron al artista por presumir su fortuna.  El cantante puertorriqueño publicó las polémicas imágenes a través de su cuenta de Instagram, donde en poco tiempo se volvieron virales y le ganaron los señalamientos de decenas de internautas por su falta de "humildad" 

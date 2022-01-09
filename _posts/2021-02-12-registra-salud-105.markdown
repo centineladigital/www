@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En la semana epidemiológica #3 del 2021 se confirman 64 fallecimientos y 635 contagios; desde el inicio de la pandemia suman en total 52 mil 169 casos y 4 mil 847 decesos"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Registra Salud 105 nuevos enfermos y 10 defunciones por COVID-19 en la entidad  
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Registra Salud 105 nuevos enfermos y 10 defunciones por COVID-19 en la entidad  "
 front: false
-section: Local
+section: "Local"
+news_id: 182892
 ---
 
 De acuerdo con el último reporte epidemiológico COVID-19 emitido por la Secretaría de Salud hay un total general de 52 mil 169 contagios tras haberse confirmado otros 105 nuevos casos, mientras que el número de personas fallecidas incrementó en 10 y suman ya 4 mil 847.

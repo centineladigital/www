@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "'Allen v. Farrow' consta de cuatro capítulos que se transmitirán cada semana por HBO; en ellos se hablará de la polémica relación entre Woody Allen y Mia Farrow."
-image: /uploads/2021/images-farrow-actrices-colaboraron-cineasta-aparicion.jpeg
-video: nil
-audio: nil
-alt: Documental de HBO sobre relación entre Woody Allen y Mia Farrow ya tiene fecha de estreno
+image: "/uploads/2021/images-farrow-actrices-colaboraron-cineasta-aparicion.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Documental de HBO sobre relación entre Woody Allen y Mia Farrow ya tiene fecha de estreno"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182760
 ---
 
 

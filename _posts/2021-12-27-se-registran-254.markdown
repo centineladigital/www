@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Se registran 254 nuevos casos de COVID-19 para el estado de Chihuahua "
+date: 2021-12-27T20:12:00.000-06:00
+tags:
+  
+  - Covid
+  
+  - Cifras
+  
+  - chihuahua
+  
+author: nil
+description: "El número de personas que han perdido la vida por COVID-19 ascendió a 8 mil 702 casos (+11) y las defunciones que se añaden al registro corresponden a los municipios de Juárez (+1), Chihuahua (+9) y Uruachi (+1)."
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Se registran 254 nuevos casos de COVID-19 para el estado de Chihuahua "
+front: false
+section: "Local"
+news_id: 191243
+---
+
+El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 27 de diciembre el reporte COVID-19, en el cual se registran 91 mil 808 (+254) personas confirmadas en la entidad por este padecimiento, 78 mil 466 (+319) casos recuperados, 88 mil 126 (+218) descartados y mil 228 (+46) casos sospechosos.
+
+El número de personas que han perdido la vida por COVID-19 ascendió a 8 mil 702 casos (+11) y las defunciones que se añaden al registro corresponden a los municipios de Juárez (+1), Chihuahua (+9) y Uruachi (+1).
+
+El número de personas confirmadas asciende a 91 mil 808 (+254) y los casos confirmados corresponden a los municipios de Juárez (+51), Chihuahua (+120), Parral (+14), Cuauhtémoc (+7), Delicias (+6), Nuevo Casas Grandes (+9), Ojinaga (+1), Camargo (+10), Jiménez (+4), Saucillo (+2), Guerrero (+3), Aldama (+3), Buenaventura (+8), Allende (+2), Chínipas (+2), Ascensión (+1), Guadalupe y Calvo (+2), Casas Grandes (+2), Ahumada (+1), Matamoros (+2), López (+2) y Praxedis G. Guerrero (+2).
+
+Además se reporta una tasa de incidencia de casos activos de los últimos 14 días de 50.1 por 100 mil habitantes y a nivel nacional se han registrado 3,363 casos nuevos, de modo que Chihuahua se posiciona en el lugar 3 de casos activos en el país.
+
+El número de personas hospitalizadas es de 250, se tiene el registro de 77 intubados, lo que representa una ocupación general 49.5 por ciento y una ocupación de intubados de 41 por ciento.
+
+La Secretaría de Salud informa que el semáforo epidemiológico actual es amarillo, el cual estará vigente del 27 de diciembre al 9 de enero de 2021, por lo cual exhorta a la ciudadanía a mantener las medidas preventivas de lavado frecuente de manos o el uso de gel antibacterial, conservar la sana distancia de 1.5 metros entre personas, portar el cubrebocas en todas las actividades, así como evitar las aglomeraciones durante estas celebraciones decembrinas.
+
+En caso de presentar algún síntoma como la pérdida del olfato, dolor de cabeza, fiebre superior a 38 grados, sensación de cuerpo cortado, escurrimiento nasal o dolor de garganta, es importante acudir a realizarse una prueba para descartar o confirmar el padecimiento de COVID-19.

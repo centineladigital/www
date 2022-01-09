@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Solamente se acreditaron 4 defunciones en el mismo lapso."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-MM01_ARTURO_VALENZUELA.mp3
-alt: Sólo 42 casos COVID confirmados en las últimas 24 horas
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM01_ARTURO_VALENZUELA.mp3"
+alt: "Sólo 42 casos COVID confirmados en las últimas 24 horas"
 front: false
-section: Local
+section: "Local"
+news_id: 182459
 ---
 
 Solamente 42 casos han sido detectados en las últimas horas y cuatro defunciones fueron acreditadas en ese mismo lapso, según fue dado a conocer por el Director Médico Zona Norte Arturo Valenzuela Zorrilla.

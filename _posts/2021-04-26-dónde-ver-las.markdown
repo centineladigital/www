@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "'Nomadland' fue la gran ganadora de la edición 93 del Oscar, pero también hubo otros cortometrajes y películas que resaltaron durante la ceremonia; aquí te compartimos dónde verlas. "
-image: /uploads/2021/images-donde-ver-las-peliculas-ganadoras_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¿Dónde ver las películas y cortos ganadores del Oscar 2021? Aquí te decimos
+image: "/uploads/2021/images-donde-ver-las-peliculas-ganadoras_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Dónde ver las películas y cortos ganadores del Oscar 2021? Aquí te decimos"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184120
 ---
 
 Los Premios Oscar 2021 se llevaron a cabo este domingo bajo estrictas medidas sanitarias y homenajes a los trabajadores de la salud. Durante la edición número 93 la sorpresas no se hicieron esperar, y aunque Glenn Close no se coronó con el galardón de la Academia -pese a sumar ocho nominaciones-, sí se llevó la noche con su singular baile. Dejando de un lado las dificultades que enfrentaron los organizadores debido a la pandemia de covid-19, el evento regaló algunos icónicos momentos.  Nomadland fue la gran ganadora de la ceremonia, además de llevarse el premio a la Mejor película del año, Frances McDormand se llevó el galardón a Mejor actriz y Chloé Zhao recibió el reconocimiento a Mejor directora. Si aún no viste las películas y cortometrajes ganadores del Oscar; aquí te compartimos dónde puedes verlos.  

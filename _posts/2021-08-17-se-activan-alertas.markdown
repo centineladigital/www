@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La compañía, Chubu Electric Power, también ha indicado que se trata del segundo suceso de este tipo en la planta en la última semana"
-image: /uploads/2021/images-saltan-alarmas-incendio-central-nuclear_0_52_923_574.jpg
-video: nil
-audio: nil
-alt: Se activan alertas de incendio en central nuclear japonesa por presencia de humo
+image: "/uploads/2021/images-saltan-alarmas-incendio-central-nuclear_0_52_923_574.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se activan alertas de incendio en central nuclear japonesa por presencia de humo"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186756
 ---
 
 Las alarmas de incendio en una planta nuclear que opera en Hamaoka, al suroeste de Tokio se activaron este martes debido a la presencia de humo en el edificio de una de las turbinas de los reactores, tras estar suspendida desde 2011. 

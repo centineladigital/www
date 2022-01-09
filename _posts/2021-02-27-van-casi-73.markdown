@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El centro para el Control y la Prevención de Enfermedades de EU informa que se han administrado 72 millones 806 mil 180 dosis de vacunas contra el covid-19"
-image: /uploads/2021/images-2536733.jpg
-video: nil
-audio: nil
-alt: Van casi 73 millones de vacunas aplicadas en Estados Unidos
+image: "/uploads/2021/images-2536733.jpg"
+video: "nil"
+audio: "nil"
+alt: "Van casi 73 millones de vacunas aplicadas en Estados Unidos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183200
 ---
 
 El centro para el Control y la Prevención de Enfermedades de Estados Unidos (CDC) informó que se habían administrado 72 millones 806 mil 180 dosis de vacunas contra el covid-19 en el país hasta este sábado por la mañana, y que se habían distribuido 96 millones 402 mil 290 de dosis.

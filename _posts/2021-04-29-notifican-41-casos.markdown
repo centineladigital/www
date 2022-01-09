@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La vacuna de AstraZeneca ha sido objeto de escrutinio público por la cuestión de los trombos, los cuales se han detectado en un número muy reducido del total de inyecciones aplicadas"
-image: /uploads/2021/images-2570268.jpg
-video: nil
-audio: nil
-alt: Notifican 41 casos más de trombos tras la vacuna de AstraZeneca
+image: "/uploads/2021/images-2570268.jpg"
+video: "nil"
+audio: "nil"
+alt: "Notifican 41 casos más de trombos tras la vacuna de AstraZeneca"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184181
 ---
 
 El organismo regulador de medicamentos de Reino Unido informó el jueves de que se han registrado otros 41 casos de trombos tras la aplicación de la vacuna contra la Covid de AstraZeneca, pero insistió en que los beneficios de la inyección siguen siendo mayores que los riesgos para la mayoría de las personas.

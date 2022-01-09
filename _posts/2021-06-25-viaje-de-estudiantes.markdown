@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hay cientos de personas infectadas y miles aisladas en siete regiones del país, Madrid es la más afectada con 320 jóvenes diagnosticados y más de 2 mil en cuarentena"
-image: /uploads/2021/images-2601168.jpg
-video: nil
-audio: nil
-alt: Viaje de estudiantes desencadena enorme brote de covid en España
+image: "/uploads/2021/images-2601168.jpg"
+video: "nil"
+audio: "nil"
+alt: "Viaje de estudiantes desencadena enorme brote de covid en España"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185237
 ---
 
 Un viaje de estudiantes españoles al turístico archipiélago de las islas Baleares desencadenó un enorme brote de covid-19, con cientos de personas infectadas y miles aisladas en siete regiones del país.

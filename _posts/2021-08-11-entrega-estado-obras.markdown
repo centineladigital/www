@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Con recursos del Fondo de Reparación Justicia para Chihuahua rehabilitan parque recreativo, pavimentan circuito con concreto hidráulico e instalan letras turísticas monumentales con el nombre del municipio"
-image: /uploads/2021/images-1_(1).jpg
-video: nil
-audio: nil
-alt: Entrega Estado obras en San Francisco del Oro con valor de 1.7 mdp
+image: "/uploads/2021/images-1_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Entrega Estado obras en San Francisco del Oro con valor de 1.7 mdp"
 front: false
-section: Local
+section: "Local"
+news_id: 186575
 ---
 
 Gobierno del Estado, a través de la Secretaría de Desarrollo Municipal (Sedemun) y en coordinación con el Ayuntamiento de San Francisco del Oro, entregó a las y los habitantes del municipio, tres obras que se construyeron  con recursos del Fondo de Reparación Justicia para Chihuahua, con inversión de un millón 751 mil 484.08 pesos.

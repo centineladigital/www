@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Inicia la penúltima etapa de desconfinamiento en Francia con la reapertura de gimnasios, la reducción del toque de queda y la posibilidad de acceder a los interiores de cafés y restaurantes"
-image: /uploads/2021/images-2592202.jpg
-video: nil
-audio: nil
-alt: Francia entra en penúltima etapa de desconfinamiento
+image: "/uploads/2021/images-2592202.jpg"
+video: "nil"
+audio: "nil"
+alt: "Francia entra en penúltima etapa de desconfinamiento"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184939
 ---
 
 Los franceses recuperaron este miércoles pequeños placeres que habían olvidado con la pandemia, como tomar algo en el interior de un café o hacer deporte en un gimnasio, gracias a la flexibilización de las restricciones contra el covid-19.

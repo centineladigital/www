@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Destaca Joel Gallegos Legarreta en el programa “Logros con Valor” que las acciones realizadas ante la crisis sanitaria, tuvieron carácter preventivo; se efectuaron 3 mil 759 desalojos y 796 clausuras de establecimientos"
-image: /uploads/2021/images-Células_Mixtas_(1).jpeg
-video: nil
-audio: nil
-alt: Coordinó Dirección General de Gobierno más de 50 mil operativos de Células Anticovid
+image: "/uploads/2021/images-Células_Mixtas_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Coordinó Dirección General de Gobierno más de 50 mil operativos de Células Anticovid"
 front: false
-section: Local
+section: "Local"
+news_id: 187098
 ---
 
 Para hacer frente a la pandemia, desde marzo del año pasado y en cumplimiento del Acuerdo 0049/2020, las Células Anticovid de la Dirección General de Gobierno en conjunto con otras dependencias, han realizado en la entidad 50 mil 85 operativos de carácter preventivo.

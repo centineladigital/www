@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El integrante del Movimiento de Regeneración Nacional señaló que PAN se está hundiendo en sus mentiras."
-image: /uploads/2021/images-PIÑON.jpg
-video: nil
-audio: /uploads/2021/audio-MM06_ANTONIO_PIÑON.mp3
-alt: Irrisorio respuestas del PAN -  Piñón
+image: "/uploads/2021/images-PIÑON.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM06_ANTONIO_PIÑON.mp3"
+alt: "Irrisorio respuestas del PAN -  Piñón"
 front: false
-section: Local
+section: "Local"
+news_id: 184146
 ---
 
 Como irrisorio calificó el vocero de Morena, Antonio Piñón, respecto a los señalamientos de la dirigencia del Partido Acción Nacional en la denuncia en contra de las actividades anticipadas de campaña. 

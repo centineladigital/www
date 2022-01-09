@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "'The Medium' es la película de terror asiática a la que incluso entran con tapones de oídos y las luces prendidas. "
-image: /uploads/2021/images-the-medium-especial.jpg
-video: nil
-audio: nil
-alt: Luces prendidas y tapones de oídos -  así proyectan la película de terror 'The Medium'
+image: "/uploads/2021/images-the-medium-especial.jpg"
+video: "nil"
+audio: "nil"
+alt: "Luces prendidas y tapones de oídos -  así proyectan la película de terror 'The Medium'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187379
 ---
 
 La película de terror 'The Medium', una coproducción entre gente de Corea del Sur y Tailandia, está causando furor en las salas de cine de Asia. Y es que el grado de la película ha llegado a los extremos de preparar funciones con tapones de oídos y las luces encendidas para personas que no soporten la sangre y tensión psicológica que provoca.

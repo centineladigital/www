@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Arranca mañana vacunación para adultos de 50 y más en Chihuahua"
-image: /uploads/2021/images-vacunacionpocaafluencia3.jpg
-video: nil
-audio: nil
-alt: La próxima semana se aplicarán dosis vs Covid al sector educativo
+image: "/uploads/2021/images-vacunacionpocaafluencia3.jpg"
+video: "nil"
+audio: "nil"
+alt: "La próxima semana se aplicarán dosis vs Covid al sector educativo"
 front: false
-section: Local
+section: "Local"
+news_id: 184509
 ---
 
 El presidente Andrés Manuel López Obrador informó que está programada la vacunación para la próxima semana, con ello se culmina la inmunización al sector educativo con miras a que el último mes de clases del ciclo escolar 2020-2021 sea de manera presencial.

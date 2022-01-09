@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En conferencia de prensa virtual diversas autoridades estatales y municipales actualizan las afectaciones por la lluvia puntualmente fuerte; se registran hasta 59 mm de acumulación pluvial, 80 puntos inundados y se cierran 29 calles"
-image: /uploads/2021/images-Felipe_Olivas.jpeg
-video: nil
-audio: nil
-alt: Se atendieron 83 servicios de emergencia por tormenta en la ciudad de Chihuahua
+image: "/uploads/2021/images-Felipe_Olivas.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Se atendieron 83 servicios de emergencia por tormenta en la ciudad de Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 186935
 ---
 
 Autoridades de Protección Civil y de Seguridad Pública informaron mediante una conferencia de prensa virtual, que la tormenta registrada la noche de este jueves 19 de agosto, en la ciudad de Chihuahua, ameritó la prestación de 83 servicios de auxilio, y causó 80 inundaciones, el cierre de 29 calles, 2 incendios, así como la caída de árboles.

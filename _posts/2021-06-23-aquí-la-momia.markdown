@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de Instagram con un video en donde Laura Bozzo se mostró segura de su físico y con traje de baño demostró que poco le importa lo que digan sobre ella. ¿Cómo le respondió a los haters? "
-image: /uploads/2021/images-laura-bozzo-responde-haters-momia.jpg
-video: nil
-audio: nil
-alt: Aquí la momia, Mumm-Ra -  Laura Bozzo 'explota' contra haters; dice que ama su cuerpo
+image: "/uploads/2021/images-laura-bozzo-responde-haters-momia.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aquí la momia, Mumm-Ra -  Laura Bozzo 'explota' contra haters; dice que ama su cuerpo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185195
 ---
 
 Laura Bozzo, conocida conductora de polémicos talk shows en Televisa, puso alto a las personas que la juzgan por su aspecto físico. La peruana respondió a los haters que se la pasan criticando por su rostro y cuerpo. Con el humor que la caracteriza, se dijo orgullosa de cómo luce y expresó lo mucho que se ama. Y es que la ex participante de las Estrellas Bailan en Hoy hasta ocupó insultos que ha recibido para portarlos sin mayor importancia. Te decimos cómo se defendió la famosa por su frase “qué pase el desgraciado”. Fue a través de Instagram con un video en donde Laura Bozzo se mostró segura de su físico y con traje de baño demostró que poco le importa lo que digan sobre ella. 

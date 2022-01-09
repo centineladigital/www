@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se contará con elementos y puntos de inspección que se encargarán de orientar a los usuarios "
-image: /uploads/2021/images-WhatsApp_Image_2021-09-15_at_09.12.49.jpeg
-video: nil
-audio: nil
-alt: Rutas del transporte público modifican su recorrido por conmemoración del Día de la Independencia
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-15_at_09.12.49.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Rutas del transporte público modifican su recorrido por conmemoración del Día de la Independencia"
 front: false
-section: Local
+section: "Local"
+news_id: 187741
 ---
 
 La Secretaría de Desarrollo Urbano a través de la Dirección de Transporte informa que, con motivo de la conmemoración del inicio de la Independencia de México, a partir de las 17:00 horas del 15 de septiembre y hasta las 10:00 de la mañana del día 16, las rutas que transitan el Centro Histórico, presentarán modificaciones temporales en sus recorridos.

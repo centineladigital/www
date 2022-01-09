@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Tri subió dos posiciones en el ranking de FIFA y se colocó en la novena posición después de su actuación en la Copa Oro "
-image: /uploads/2021/images-unidos-superar-mexico-fifa-instagram_0_32_1200_746.jpeg
-video: nil
-audio: nil
-alt: Estados Unidos está a nada de superar a México según FIFA
+image: "/uploads/2021/images-unidos-superar-mexico-fifa-instagram_0_32_1200_746.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Estados Unidos está a nada de superar a México según FIFA"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186600
 ---
 
 La Federación Internacional de Futbol Asociación (FIFA) dio a conocer el día de hoy la clasificación mundial de selecciones nacionales, en la cual la Selección Nacional de México ocupa la novena posición con una suma de 1658 puntos, avanzando dos posiciones en relación al mes de mayo. 

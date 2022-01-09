@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Pide candidato del PAN apertura de lugares para beneficio de este sector."
-image: /uploads/2021/images-MARIO.jpg
-video: nil
-audio: /uploads/2021/audio-MW05_MARIO_VAZQUEZ.mp3
-alt: Adultos mayores requieren respaldo -  Vazquez
+image: "/uploads/2021/images-MARIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW05_MARIO_VAZQUEZ.mp3"
+alt: "Adultos mayores requieren respaldo -  Vazquez"
 front: false
-section: Local
+section: "Local"
+news_id: 184427
 ---
 
 El visualizar que se den más espacios es lo que se requiere para beneficio de los adultos mayores ya que muchos de ellos no tienen familia o los integrantes de esta no tienen recursos para cuidarlos, por lo que es necesario buscar crear espacios para beneficio de este sector, fueron las palabras del candidato del Partido Acción Nacional diputado local por el distrito 16, Mario Vázquez Robles.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "George W. Bush destacó que, tras el atentado en 2001, observó fortaleza y unidad en la población estadunidense"
-image: /uploads/2021/images-presidente-george-bush-resalto-unidad_0_27_1200_746.jpg
-video: nil
-audio: nil
-alt: “Horror fue lo que existió”, dice ex presidente George W. Bush durante homenaje del 11-S
+image: "/uploads/2021/images-presidente-george-bush-resalto-unidad_0_27_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Horror fue lo que existió”, dice ex presidente George W. Bush durante homenaje del 11-S"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187651
 ---
 
 George W. Bush, ex presidente de Estados Unidos, dedicó un mensaje a las víctimas del atentado del 11 de septiembre en las Torres Gemelas, además de destacar la fortaleza y unidad que ha observado en la población desde entonces. 

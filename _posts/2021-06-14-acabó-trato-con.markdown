@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue durante la emisión matutina del programa Hoy en Televisa en donde Anette Michel apareció para remplazar a Galilea Montijo. ¿Se une al elenco? ¿La remplazará para siempre? Te contamos lo que sabemos, "
-image: /uploads/2021/images-anette-michel-conductora-tv-azteca.jpg
-video: nil
-audio: nil
-alt: ¿Acabó trato con TV Azteca? Anette Michel se une al elenco del programa 'Hoy'; remplaza a Galilea Montijo
+image: "/uploads/2021/images-anette-michel-conductora-tv-azteca.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Acabó trato con TV Azteca? Anette Michel se une al elenco del programa 'Hoy'; remplaza a Galilea Montijo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185014
 ---
 
 Anette Michel, una de las conductoras de televisión más queridas en México, llegó a Televisa, luego de varios años en exclusividad en TV Azteca. La famosa apareció en la emisión matutina del programa Hoy junto a Andrea Legarreta, Raúl Araiza, Andrea Escalona, Arath de la Torre y Paul Stanley. La presentadora remplazó a la tapatía Galilea Montijo, quien se ausentó hoy de los reflectores. ¿Se quedará en lugar de la famosa? ¿Galilea Montijo ya no regresará? Te contamos lo que sabemos. 

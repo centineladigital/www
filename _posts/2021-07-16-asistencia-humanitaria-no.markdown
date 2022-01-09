@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Durante su intervención, el secretario de Relaciones Exteriores, Marcelo Ebrard, sostuvo que la asistencia humanitaria “no puede, ni debe ser rehén de consideraciones políticas, puesto que lo que está en juego es la vida y el bienestar de las personas”. "
-image: /uploads/2021/images-canciller-sesion-consejo-seguridad-onu_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Asistencia humanitaria no puede ser rehén de la política -  Ebrard ante Consejo de la ONU
+image: "/uploads/2021/images-canciller-sesion-consejo-seguridad-onu_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Asistencia humanitaria no puede ser rehén de la política -  Ebrard ante Consejo de la ONU"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185727
 ---
 
 México refrendó su compromiso con el derecho internacional humanitario durante la reunión del Consejo de Seguridad de la Organización de las Naciones Unidas (ONU), como adelantó en exclusiva para MILENIO el embajador, Juan Ramón de la Fuente. 

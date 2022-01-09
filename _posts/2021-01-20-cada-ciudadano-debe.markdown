@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La deuda total asiente a  $ 59,844,403,064, casi 60 mil millones de pesos,"
-image: /uploads/2021/images-egrege.jpg
-video: nil
-audio: /uploads/2021/audio-egrege.jpg
-alt: Cada ciudadano debe $16, 367.00 sin haber acudido a una institución financiera -  Colunga 
+image: "/uploads/2021/images-egrege.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-egrege.jpg"
+alt: "Cada ciudadano debe $16, 367.00 sin haber acudido a una institución financiera -  Colunga "
 front: false
-section: Local
+section: "Local"
+news_id: 182305
 ---
 
 El coordinador de los diputados de Morena, Miguel Ángel Colunga Martínez, envío 32 cartas a sus compañeros del congreso a fin de argumentar de manera técnica y no política los motivos por los que la solicitud de crédito aprobada por la Comisión de Programación y Presupuesto y que se votará en el pleno del Congreso del Estado de Chihuahua, el próximo jueves en sesión extraordinaria debe ser rechazada. 

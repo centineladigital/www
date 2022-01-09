@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Expertos tienen previsto que las temperaturas sigan descendiendo con posibilidad de más nevadas "
-image: /uploads/2021/images-nevadas_brasil.jpg
-video: nil
-audio: nil
-alt: Ola de frío cubre de nieve ciudades al sur de Brasil; suceso que no ocurría desde 1957
+image: "/uploads/2021/images-nevadas_brasil.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ola de frío cubre de nieve ciudades al sur de Brasil; suceso que no ocurría desde 1957"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186122
 ---
 
 Una ola de frío provocó nevadas en el sur de Brasil, y la nieve se acumuló en las calles de ciudades donde el fenómeno invernal es muy raro. Por lo menos 43 ciudades registraron nevadas o lluvia helada el miércoles por la noche, de acuerdo con información de Climatempo, un servicio meteorológico.

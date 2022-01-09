@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En las últimas 24 horas se reportaron 11 decesos a causa del virus"
-image: /uploads/2021/images-coronavirus_traslado.jpg
-video: nil
-audio: nil
-alt: Rebasa Chihuahua las 4 mil 800 muertes por Covid-19
+image: "/uploads/2021/images-coronavirus_traslado.jpg"
+video: "nil"
+audio: "nil"
+alt: "Rebasa Chihuahua las 4 mil 800 muertes por Covid-19"
 front: false
-section: Local
+section: "Local"
+news_id: 182811
 ---
 
 La Secretaría de Salud del Estado, informó que con el reporte de 11 decesos en las últimas 24 horas, se han registrado 4 mil 803 fallecimientos por Covid-19 en lo que va de la pandemia.

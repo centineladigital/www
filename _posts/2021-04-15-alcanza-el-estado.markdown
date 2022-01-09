@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Además se registran 47 personas fallecidas, 18 de ellas en Ciudad Juárez, 17 en Chihuahua capital, una en Parral, 9 en Cuauhtémoc, una en Nuevo Casas Grandes y una en Guerrero, con lo que suman 5 mil 988 decesos desde que inició la pandemia"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Alcanza el estado 61 mil 206 casos de COVID-19  tras confirmarse 300 más
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Alcanza el estado 61 mil 206 casos de COVID-19  tras confirmarse 300 más"
 front: false
-section: Local
+section: "Local"
+news_id: 183905
 ---
 
 En la Conferencia Informativa #389 y #349 Virtual del Reporte COVID-19, la Secretaría de Salud informó que al día de hoy se tiene un total general de 61 mil 206 casos en el estado, luego de confirmarse otros 300 con las pruebas de laboratorio.

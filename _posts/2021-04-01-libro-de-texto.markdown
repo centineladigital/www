@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El funcionario estatal dijo que la fuerza que tienen los libros y los cuadernillos es sorprendente, dejando un mensaje alentador."
-image: /uploads/2021/images-CARLOS.jpg
-video: nil
-audio: /uploads/2021/audio-MJ05_CARLOS_GONZALEZ.mp3
-alt: Libro de texto lo más utilizado en la pandemia
+image: "/uploads/2021/images-CARLOS.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ05_CARLOS_GONZALEZ.mp3"
+alt: "Libro de texto lo más utilizado en la pandemia"
 front: false
-section: Local
+section: "Local"
+news_id: 183650
 ---
 
 El libro de texto y los complementos son los que más se utilizaron dentro de la etapa de educación a distancia, señaló el Secretario de Educación y Deporte, Carlos González Herrera. Quien dijo que si algo ha influido en la educación son los trabajos de las comunidades y posteriormente el trabajo de los docentes.

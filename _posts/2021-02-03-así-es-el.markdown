@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ana Pau y su 'roomie' Pablo viven en acogedor departamento, el cual está decorado con un estilo minimalista y colores fríos. "
-image: /uploads/2021/images-moderno-departamento-ana-pau-capetillo.jpg
-video: nil
-audio: nil
-alt: Así es el moderno departamento de Ana Pau Capetillo, la hija de Biby Gaytán
+image: "/uploads/2021/images-moderno-departamento-ana-pau-capetillo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Así es el moderno departamento de Ana Pau Capetillo, la hija de Biby Gaytán"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182661
 ---
 
 La mayor de las hermanas Capetillo, Ana Paula, compartió con los 125 mil subscriptores de su canal de youtube Pau y Ale Capetillo, la rutina matutina que lleva ha cabo durante sus últimas semanas de vacaciones, antes de volver a clases en línea.  

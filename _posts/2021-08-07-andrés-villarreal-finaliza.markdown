@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pese a presentarse con equipo completo, la Selección Nacional de clavados regresará de los XXXII Juegos Olímpicos con una cosecha de metales pobre: un bronce"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Andrés Villarreal finaliza 12; México cierra los clavados de Tokio 2020 con sólo una medalla
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Andrés Villarreal finaliza 12; México cierra los clavados de Tokio 2020 con sólo una medalla"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186421
 ---
 
 Pese a presentarse con equipo completo (dos representantes en cada competencia), la Selección Nacional de clavados regresará de los XXXII Juegos Olímpicos con una cosecha de metales pobre: un bronce. Esa medalla fue lograda por Alejandra Orozco y Gabriela Agúndez en la plataforma sincronizada.

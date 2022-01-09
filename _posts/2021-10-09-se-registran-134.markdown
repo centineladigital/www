@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Se registran 134 nuevos casos de COVID-19 para el estado de Chihuahua "
+date: 2021-10-09T16:47:00.000-06:00
+tags:
+  
+  - Covid-19
+  
+  - Cifras
+  
+  - chihuahua
+  
+author: nil
+description: "También se reportaron 8 defunciones, las cuales alcanzan las 8 mil 021; en recuperados suman 68 mil 155"
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Se registran 134 nuevos casos de COVID-19 para el estado de Chihuahua "
+front: false
+section: "Local"
+news_id: 188563
+---
+
+El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 9 de octubre se tiene un total general de 79 mil 134 contagios en el estado, luego de confirmarse otros 129 en Ciudad Juárez, Chihuahua, Parral, Cuauhtémoc, Delicias, Nuevo Casas Grandes, Ojinaga, Camargo, Guachochi, Jiménez, Bocoyna, Meoqui, Saucillo, Guerrero, Chínipas, Allende, Guazapares, Ascensión, Guadalupe y Calvo, Urique, Nonoava y Carichi. 
+
+También se reportaron 8 defunciones, las cuales alcanzan las 8 mil 021; en recuperados suman 68 mil 155 (+130) recuperados, descartados son 70 mil 937 (+360) y contabiliza en 782 (-63) los casos sospechosos.
+
+Se tiene 114 pacientes hospitalizados, de los cuales son derechohabientes del IMSS el 46%, del Sector Salud 43%, ISSSTE 5% e IMSS Bienestar 6%. 
+
+De ese total, 32 están intubados: 63% en SSA, 28% en el IMSS y 9% Issste, con reporte de 26 unidades médicas especializadas.
+
+Los casos acumulados municipio son: Juárez 34,898, Chihuahua 23,426, Parral 3,533, Cuauhtémoc 3,238, Delicias 2,810, Nuevo Casas Grandes 1,358, Ojinaga 1,313, Camargo 820, Guachochi 735, Jiménez 694, Bocoyna 693, Meoqui 575, Saucillo 372, Guerrero 360, Aldama 314, Buenaventura 245,  Chínipas 222, Allende 212, Guazapares 205, Ascensión 199, Aquiles Serdán 189, Santa Bárbara 183, Namiquipa 172, Madera 159, Rosales 160, Gómez Farías 157, Guadalupe y Calvo 148, Urique 127, Casas Grandes 123, Ocampo 123, Julimes 123, Ahumada 97, Manuel Benavides 79, Matamoros 66, Janos 61, San Francisco del Oro 57, Nonoava 54, Galeana 52, Morelos 52, López 48, Balleza 46, Santa Isabel 44, Temósachic 44, Valle de Zaragoza 39, Ignacio Zaragoza 37, La Cruz 37, Batopilas 34, Carichí 34, Guadalupe 30, Coronado 30, Bachíniva 30, Praxedis G. Guerrero 29, Cusihuiriachi 28, San Francisco de Conchos 25, Gran Morelos 24, Coyame del Sotol 24, Satevó 23, Moris 20, San Francisco de Borja 14 , El Tule 14, Dr. Belisario Domínguez 11, Rosario 10, Riva Palacio 10, Huejotitán 9, Matachí 9, Uruachi 9 y Maguarichi 7.
+
+La información muestra que el 50% son del sexo masculino (39,589 casos) y 50% del femenino (39,565 casos).
+
+Acumulado de defunciones por municipio: Ciudad Juárez 3,912, Ciudad de Chihuahua 1,984, Delicias 427, Cuauhtémoc 317, Parral 308, Camargo 132, Nuevo Casas Grandes 106, Jiménez 97, Meoqui 95, Saucillo 78, Guerrero 41, Ojinaga 35, Guachochi 34, Rosales 30, Ascensión 23, Madera 22, Bocoyna 22, Namiquipa 20, Ahumada 19, Aldama 18, San Francisco del Oro 17, Santa Bárbara 16, Gómez Farías 15, Allende 15, Casas Grandes 15, Julimes 14, Guadalupe y Calvo 14, López 12, Ocampo 12, Temósachic 12, Buenaventura 11, Valle de Zaragoza 10, Carichí 9, Aquiles Serdán 9, Bachíniva 8, Urique 8, Janos 8, San Francisco de Conchos 7, Praxedis G. Guerrero 7, Balleza 7, Guazapares 7, Ignacio Zaragoza 6, Coyame del Sotol 5, Manuel Benavides 5, Guadalupe D. B. 5, Galeana 5, Santa Isabel 4, Cusihuiriachi 4, Nonoava 4, Coronado 4, Matamoros 4, Riva Palacio 3, Gran Morelos 3, Dr. Belisario Domínguez 3, El Tule 2, Matachí 2, Rosario 2, Morelos 2, Moris 1, Huejotitán1 , Satevó 1 y Maguarichi 1.
+
+Edades de pacientes fallecidos: 12 casos menores a un año; 5 de 1 a 4; 3 de 5 a 9; 9 de 10 a 14; 6 de 15 a 19; 30 de 20 a 24; 67 de 25 a 29; 132 de 30 a 34; 197 de 35 a 39; 363 de 40 a 44; 581 de 45 a 49; 774 de 50 a 54; 973 de 55 a 59; 1,076 de 60 a 64 años; 1,010 de 65 a 69; 950 de 70 a 74; 817 de 75 a 79;      581 de 80 a 84; 293 de 85 a 89; 111 de 90 a 94; 27 de 95 a 99 y 4 de 100 a 104 años de edad.
+
+Los porcentajes de morbilidad en decesos: 35% hipertensión, 25% diabetes, 14% obesidad, 6% tabaquismo, 6% otra condición, 4% enfermedad cardiaca, 4% insuficiencia renal, 3% EPOC, 2% inmunosupresión, 1% asma, 0.3% VIH/Sida.
+
+En cuanto a las muestras de diagnóstico: el Laboratorio Estatal reportó 90, acumuladas 51,913; otros laboratorios 115, acumuladas 278,565; total de muestras 205, acumuladas 226,652.
+
+El Paso, Texas, al 8 de octubre: 146,056 confirmados (+116), 2,803 defunciones (+3), 140,629 recuperados.
+Estadística Nacional: 3,714,392 casos totales (+7,158), 525,355 sospechosos acumulados (+1,700), 6,629,700 negativos (+21,892), 281,610 defunciones (+489), 48,235 activos estimados (-471), 10,869,447 notificadas (+30,750), 3,070,469 recuperadas (+6,747).
+
+Estadística Internacional: 236,599,025 casos confirmados (+450,970), 4,831,486 defunciones (+7,880), 2% tasa de letalidad.

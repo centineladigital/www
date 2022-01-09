@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Más de dos mil alumnos asistieron a cursos, solamente del plantel uno."
-image: /uploads/2021/images-CAPPSI2.jpeg
-video: nil
-audio: /uploads/2021/audio-MV03_ROSA_HERNANDEZ.mp3
-alt: Reconocen acciones de salud mental en COBACH
+image: "/uploads/2021/images-CAPPSI2.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MV03_ROSA_HERNANDEZ.mp3"
+alt: "Reconocen acciones de salud mental en COBACH"
 front: false
-section: Local
+section: "Local"
+news_id: 182179
 ---
 
 Un reconocimiento fue entregado al Colegio de Bachilleres debido a la labor de este organismo en materia de salud mental, por lo que la Alcaldesa del Municipio de Chihuahua María Angélica Granados Trespalacios hizo entrega del mismo. 

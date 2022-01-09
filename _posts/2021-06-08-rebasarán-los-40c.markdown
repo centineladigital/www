@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pide tomar precauciones debido a que Ojinaga alcanzará llegará a los 43°C, mientras que Chihuahua llegarán a los 38°C; también se esperan lluvias para Chihuahua, San Francisco de Borja, El Tule, Cuauhtémoc, Nonoava, Guadalupe y Calvo, y Balleza"
-image: /uploads/2021/images-283292calors.jpg
-video: nil
-audio: nil
-alt: Rebasarán los 40°C martes y miércoles  en algunos municipios -  Protección Civil
+image: "/uploads/2021/images-283292calors.jpg"
+video: "nil"
+audio: "nil"
+alt: "Rebasarán los 40°C martes y miércoles  en algunos municipios -  Protección Civil"
 front: false
-section: Local
+section: "Local"
+news_id: 184925
 ---
 
 Para este martes 8 de junio se pronostican lluvias aisladas en partes del centro y sur, principalmente en los municipios de Chihuahua, San Francisco de Borja y El Tule, así como la región de Sueco, que podrían estar acompañadas de descargas eléctricas y caída de granizo, informó la Coordinación Estatal de Protección Civil (CEPC).

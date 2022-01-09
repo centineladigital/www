@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: " Afectaría principalmente las regiones de Chihuahua, Juárez, Ahumada y Parral con tolvaneras en la frontera; se pronostican lluvias en la mayor parte de la entidad"
-image: /uploads/2021/images-viento-1.jpg
-video: nil
-audio: nil
-alt:  Emite Protección Civil aviso preventivo por ráfagas de viento hasta de 55 km/h y chubascos
+image: "/uploads/2021/images-viento-1.jpg"
+video: "nil"
+audio: "nil"
+alt: " Emite Protección Civil aviso preventivo por ráfagas de viento hasta de 55 km/h y chubascos"
 front: false
-section: Local
+section: "Local"
+news_id: 185978
 ---
 
 La Coordinación Estatal de Protección Civil informa que derivado de un canal de baja presión en interacción con una divergencia en niveles altos de la atmósfera y el ingreso de humedad procedente del Océano Pacífico, se esperan vientos de 5 a 20 kilómetros por hora (km/h) con ráfagas hasta de 55 km/h en algunas zonas del estado principalmente Juárez, Ahumada, Chihuahua y Parral.

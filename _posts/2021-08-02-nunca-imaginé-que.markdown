@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En la nueva entrega de la serie se hablan de temas incluyentes como la diversidad sexual, las nuevas concepciones de la familia, el matrimonio y los fracasos. "
-image: /uploads/2021/images-miranda-cosgrove-instagram.jpg
-video: nil
-audio: nil
-alt: Nunca imaginé que sería una estrella -  Miranda Cosgrove recuerda cómo comenzó 'iCarly'
+image: "/uploads/2021/images-miranda-cosgrove-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "Nunca imaginé que sería una estrella -  Miranda Cosgrove recuerda cómo comenzó 'iCarly'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186214
 ---
 
 El regreso de iCarly a la televisión, casi diez años después de que terminara la serie en su etapa infantil (2007-2012), trajo nuevos retos para su protagonista, Miranda Cosgrove, pues decidió reinventar la historia a través de experiencias personales y también sumarse como productora ejecutiva. 

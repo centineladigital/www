@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Las campañas deberán ser por la televisión, radio y redes sociales"
-image: /uploads/2021/images-GGREGRE.jpg
-video: nil
-audio: /uploads/2021/audio-AJ03_MARISELA_TERRAZAS.mp3
-alt: Propone Marisela Terrazas impulsar campañas permanentes contra al abuso infantil
+image: "/uploads/2021/images-GGREGRE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AJ03_MARISELA_TERRAZAS.mp3"
+alt: "Propone Marisela Terrazas impulsar campañas permanentes contra al abuso infantil"
 front: false
-section: Local
+section: "Local"
+news_id: 182711
 ---
 
 La diputada del APN y Presidente de la comisión de Juventud y Niñez, Marisela Terrazas, explicó que el abuso infantil suele ser efectuada por una persona adulta cercana, donde al menor se le presiona para que participe en el acto sexual. Todas estas personas que dañen a los niños llevan una condena de seis meses a seis años de prisión, donde la pena se puede elevar  hasta catorce años.

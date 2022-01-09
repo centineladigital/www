@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La nueva producción se centrará en el concierto que celebró el cantante a finales del 2020 en Los Ángeles; aquí te decimos cuándo llegará a la plataforma de streaming. "
-image: /uploads/2021/images-justin-bieber-unio-medicos-enfermeras.jpg
-video: nil
-audio: nil
-alt: Documental sobre Justin Bieber llega a Amazon Prime; ésta es su fecha de estreno
+image: "/uploads/2021/images-justin-bieber-unio-medicos-enfermeras.jpg"
+video: "nil"
+audio: "nil"
+alt: "Documental sobre Justin Bieber llega a Amazon Prime; ésta es su fecha de estreno"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187538
 ---
 
 Justin Bieber regresa a la pantalla chica con una nueva producción en la que los fans podrán ser testigos de una reciente etapa de su carrera musical. El cantante -quien está dentro de los artistas más escuchados de Spotify con más de 83 millones de oyentes mensuales- celebró su próximo proyecto y compartió un adelanto a través de sus redes sociales. Se trata de un documental que llegará a Amazon Prime lleva por título Justin Bieber: Our World, el cual estará centrado en la vida del cantante canadiense, de 27 años, y en un concierto que ofreció en Nochevieja en 2020 que se realizó en la azotea del Hotel Beverly Hilton de Los Ángeles y se transmitió de manera virtual. 

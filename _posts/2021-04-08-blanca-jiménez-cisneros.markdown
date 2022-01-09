@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Al ser una profesional de primer orden y gozar de toda su confianza, argumentó López Obrador, es que en breve tiempo remitirá la propuesta al Senado de la República"
-image: /uploads/2021/images-2558967.jpg
-video: nil
-audio: nil
-alt: Blanca Jiménez Cisneros saldrá de Conagua; la proponen para embajada en Francia
+image: "/uploads/2021/images-2558967.jpg"
+video: "nil"
+audio: "nil"
+alt: "Blanca Jiménez Cisneros saldrá de Conagua; la proponen para embajada en Francia"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183761
 ---
 
 La titular de la Comisión Nacional del Agua (Conagua) Blanca Jiménez Cisneros será propuesta para ocupar la embajada de México en Francia.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Detectan nueve defunciones más por coronavirus."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-MV01_ARTURO_VALENZUELA.mp3
-alt: Detectan 120 nuevos casos COVID
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV01_ARTURO_VALENZUELA.mp3"
+alt: "Detectan 120 nuevos casos COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 182567
 ---
 
 Un total de 120 nuevos casos y 9 defunciones acreditadas es el saldo que se dio por parte del Director Médico Zona Norte, Arturo Valenzuela Zorrilla. Con lo que se llega a un total de cuatro mil 648 pérdidas de vidas en el estado desde el inicio de la crisis que ha generado el coronavirus.

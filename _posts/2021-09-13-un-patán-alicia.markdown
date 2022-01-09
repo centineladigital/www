@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "De repente un día la terminaba y delante de ella se empezaba a besuquear con otra, y aquella muchachita era un mar de lágrimas; se lo hacía para lastimarla, para molestarla”, reveló la ex Miss Universo."
-image: /uploads/2021/images-miss-universo-participo-atrevete-sonar.jpg
-video: nil
-audio: nil
-alt: Un patán -  Alicia Machado asegura que Eleazar Gómez maltrató a Danna Paola cuando eran novios
+image: "/uploads/2021/images-miss-universo-participo-atrevete-sonar.jpg"
+video: "nil"
+audio: "nil"
+alt: "Un patán -  Alicia Machado asegura que Eleazar Gómez maltrató a Danna Paola cuando eran novios"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187693
 ---
 
 Alicia Machado es una de las integrantes más polémicas del reality show de Telemundo, La casa de los famosos, pues durante el programa la ex Miss Universo ha revelado varios aspectos poco conocidos tanto de su vida como de otras personas con las que ha coincidido artísticamente.

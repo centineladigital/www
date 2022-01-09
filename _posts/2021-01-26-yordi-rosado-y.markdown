@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los nuevos conductores se suman tras la salida de Mauricio Mancera y Eduardo Santamarina. "
-image: /uploads/2021/images-yordi-rosado-jose-eduardo-suman_6_0_1073_668_(1).jpg
-video: nil
-audio: nil
-alt: Yordi Rosado y José Eduardo Derbez son los nuevos integrantes de ‘Miembros al aire’
+image: "/uploads/2021/images-yordi-rosado-jose-eduardo-suman_6_0_1073_668_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Yordi Rosado y José Eduardo Derbez son los nuevos integrantes de ‘Miembros al aire’"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182448
 ---
 
 Luego de la salida de Mauricio Mancera y Eduardo Santamarina de Miembros al aire, el porgrama anunció que sus nuevos conductores serán Yordi Rosado y José Eduardo Derbez. En sus redes sociales, el programa transmitido por Unicable, detalló que además de sus nuevos integrantes, que se sumarán a Paul Stanley, Jorge El Burro Van Rankin, Raúl El Negro, estrenarán escenografía. 

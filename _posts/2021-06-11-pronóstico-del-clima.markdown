@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Advierte Protección Civil que este día Ojinaga marcará 44°C; además del calor el sábado habrá rachas de viento de 65 km/h, mientras que durante el fin de semana se prevén lluvias en varios municipios"
-image: /uploads/2021/images-ALERTA_CALOR.jpeg
-video: nil
-audio: nil
-alt: Pronóstico del clima -  sube temperatura a 39°C en la capital de Chihuahua, este viernes 11
+image: "/uploads/2021/images-ALERTA_CALOR.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Pronóstico del clima -  sube temperatura a 39°C en la capital de Chihuahua, este viernes 11"
 front: false
-section: Local
+section: "Local"
+news_id: 184984
 ---
 
 Durante el fin de semana se mantendrán temperaturas elevadas en el estado, que este viernes llegarán a 39°C en la capital chihuahuense y a 44°C en Ojinaga, advirtió la Coordinación Estatal de Protección Civil (CEPC).

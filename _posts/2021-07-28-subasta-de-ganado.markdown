@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se subastaron 181 cabezas divididas en 20 lotes a razón de $9,862 pesos por animal; califica el Gobernador Javier Corral el hecho como una excelente venta"
-image: /uploads/2021/images-_DSC9451.JPG
-video: nil
-audio: nil
-alt: Subasta de ganado incautado a César D.J. en el Rancho Santa Rita permite recuperar 1.78 mdp
+image: "/uploads/2021/images-_DSC9451.JPG"
+video: "nil"
+audio: "nil"
+alt: "Subasta de ganado incautado a César D.J. en el Rancho Santa Rita permite recuperar 1.78 mdp"
 front: false
-section: Local
+section: "Local"
+news_id: 186077
 ---
 
 En el marco de la Operación Justicia para Chihuahua, el Gobierno del Estado realizó el pasado 26 de julio, en la Asociación Ganadera Local, la subasta de 181 cabezas de ganado que fuera asegurado en el rancho Santa Rita, propiedad del exgobernador César D.J.

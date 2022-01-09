@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Los dibujos animados del Gobierno del Estado explican en su último episodio la relevancia que dejará como precedente, el proyecto creado por el gobernador Javier Corral para que todo Chihuahua tenga acceso a Internet gratuito de alta calidad"
-image: /uploads/2021/images-Edubrijes_Hiperconvergentes_(5).jpeg
-video: nil
-audio: nil
-alt: Edubrijes explican a la niñez el Plan Hiperconvergente de Conectividad
+image: "/uploads/2021/images-Edubrijes_Hiperconvergentes_(5).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Edubrijes explican a la niñez el Plan Hiperconvergente de Conectividad"
 front: false
-section: Local
+section: "Local"
+news_id: 186349
 ---
 
 Appi, personaje femenino de Edubrijes explica a niñas, niños y adolescentes, de forma muy sencilla y comprensible, los beneficios que el Plan Hiperconvergente de Conectividad creará en materia de telecomunicaciones.

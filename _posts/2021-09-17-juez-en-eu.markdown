@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El juez Emmet Sullivan dictaminó que el gobierno de Joe Biden ha tomado medidas efectivas contra el coronavirus, las cuales no afectan los procesos en la frontera. "
-image: /uploads/2021/images-migracion-unidos-tema-polemico-gobierno_0_27_1200_746.jpg
-video: nil
-audio: nil
-alt: Juez en EU impide expulsión de familias migrantes mediante ley de salud pública
+image: "/uploads/2021/images-migracion-unidos-tema-polemico-gobierno_0_27_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "Juez en EU impide expulsión de familias migrantes mediante ley de salud pública"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187808
 ---
 
 Un juez federal de Estados Unidos ordenó hoy a la administración del presidente Joe Biden que no utilice la ley de salud pública impulsada por la pandemia del covid-19 para expulsar a las familias migrantes con niños de la frontera que llegan a ese país tras cruzar la frontera con México, según revelan medios estadunideneses. 

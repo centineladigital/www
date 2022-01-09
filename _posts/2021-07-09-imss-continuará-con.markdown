@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El doctor Enrique López Aguilar, coordinador Nacional de Oncología, señaló que esta acción es para mejorar la atención y el servicio dirigido a pacientes pediátricos oncológicos."
-image: /uploads/2021/images-Foto_291-3.jpg
-video: nil
-audio: nil
-alt: IMSS continuará con fase de seguimiento a Centros de Referencia tras concluir implementación nacional
+image: "/uploads/2021/images-Foto_291-3.jpg"
+video: "nil"
+audio: "nil"
+alt: "IMSS continuará con fase de seguimiento a Centros de Referencia tras concluir implementación nacional"
 front: false
-section: Local
+section: "Local"
+news_id: 185503
 ---
 
 Después de concluir con la fase de implementación de los Centros de Referencia Estatal para la Atención del Niño y la Niña con Cáncer (ONCOCREAN) en todo el país, el Instituto Mexicano del Seguro Social (IMSS) continuará con el periodo de seguimiento en estas unidades a fin de mejorar la atención de los pacientes pediátricos oncológicos.

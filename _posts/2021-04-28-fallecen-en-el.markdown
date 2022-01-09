@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma Salud 258 nuevos contagios y 298 pacientes hospitalizados; a la fecha van 64,060 casos positivos y 6,505 muertes acumuladas   "
-image: /uploads/2021/images-Diapositiva3.JPG
-video: nil
-audio: nil
-alt: Fallecen en el estado 48 personas más por COVID-19
+image: "/uploads/2021/images-Diapositiva3.JPG"
+video: "nil"
+audio: "nil"
+alt: "Fallecen en el estado 48 personas más por COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 184159
 ---
 
 La Secretaría de Salud confirmó 258 casos positivos del virus SARS-CoV-2 y 48 defunciones más, lo que representa un acumulado estatal de 64 mil 060 contagios y 6 mil 505 personas fallecidas en lo que va de la pandemia en el estado de Chihuahua.

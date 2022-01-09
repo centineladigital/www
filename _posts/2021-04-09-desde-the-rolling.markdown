@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En uno de los videoclips, la actriz actúa junto a Anne Hathaway (El diablo viste a la moda, 2006) y Brie Larson, (Capitana Marvel, 2019). "
-image: /uploads/2021/images-kristen-stewart-en-un-video.jpg
-video: nil
-audio: nil
-alt: Desde The Rolling Stones hasta Interpol -  los videos musicales en los que aparece Kristen Stewart
+image: "/uploads/2021/images-kristen-stewart-en-un-video.jpg"
+video: "nil"
+audio: "nil"
+alt: "Desde The Rolling Stones hasta Interpol -  los videos musicales en los que aparece Kristen Stewart"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183785
 ---
 
 Kristen Stewart, quien próximamente dará vida a la princesa Diana en la película Spencer (2021), ha sabido destacar en el séptimo arte durante los últimos años, dejando atrás la imagen adolescente con la que se dio a conocer de 2008 a 2012 en la criticada saga de Crepúsculo. Con La habitación del pánico (2002), Blancanieves y la leyenda del cazador (2012), Café Society (2016) y recientemente Amenaza en lo profundo (2020), ha demostrado que su trayectoria va más allá que unas películas sobre vampiros y hombres lobo. Para celebrar su cumpleaños número 31, te presentamos todos los videos musicales en los que ha participado la actriz 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las actrices Claudia Salas y Martina Cariddi fueron las encargadas de confirmar la quinta temporada con un divertido video. "
-image: /uploads/2021/images-netflix-confirma-quinta-temporada-elite.jpg
-video: nil
-audio: nil
-alt: Netflix anuncia quinta temporada de 'Élite'; así lo confirmó elenco de la serie
+image: "/uploads/2021/images-netflix-confirma-quinta-temporada-elite.jpg"
+video: "nil"
+audio: "nil"
+alt: "Netflix anuncia quinta temporada de 'Élite'; así lo confirmó elenco de la serie"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183155
 ---
 
 Élite está de regreso. Netflix sorprendió a sus seguidores al confirmar la quinta temporada de la serie española. Las actrices Claudia Salas y Martina Cariddi fueron las encargadas de dar a conocer la noticia a través de un divertido video, el anuncio causó revuelo en redes sociales, pues aún se desconoce la fecha de estreno de la cuarta parte de la producción, cuyo rodaje terminó en diciembre de 2020. A través de un video publicado en Twitter, el gigante de streaming anunció que ya comenzó el rodaje de la quinta temporada de Élite. En el clip, Claudia Salas, quien interpreta a Rebeca en la serie, y Martina Cariddi preparan un pastel con los colores distintivos de la producción mientras confirman la noticia. 

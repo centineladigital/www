@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Busca equipo de transición una recepción con datos precisos de la SSPE en materia de seguridad"
-image: /uploads/2021/images-transición.jpeg
-video: /uploads/2021/videos-WhatsApp_Video_2021-07-02_at_12.27.29.mp4
-audio: nil
-alt: Inicia transición en SSPE
+image: "/uploads/2021/images-transición.jpeg"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-07-02_at_12.27.29.mp4"
+audio: "nil"
+alt: "Inicia transición en SSPE"
 front: false
-section: Local
+section: "Local"
+news_id: 185361
 ---
 
 La mañana de este viernes continuaron las actividades de las mesas temática de la transición del Gobierno Estatal, en esta ocasión, el equipo encargado  de la mesa de seguridad encabezado por Sergio Ochoa, presidente de FICOSEC, sostuvo una reunión con Emilio García Ruíz, Secretario de Seguridad Pública Estatal (SSPE) de la administración saliente.

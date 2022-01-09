@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En pleno programa en vivo de 'Hoy', Lolita Cortés protagonizó una acalorada pelea con un coreógrafo de la emisión; además criticó fuerte a Tania Rincón y Paul Stanley por baile de reguetón. "
-image: /uploads/2021/images-lolita-cortes-lanza-coreografo-programa.jpg
-video: nil
-audio: nil
-alt: Baja de peso -  Lolita Cortés explota contra Tania Rincón y Paul Stanley en programa 'Hoy'
+image: "/uploads/2021/images-lolita-cortes-lanza-coreografo-programa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Baja de peso -  Lolita Cortés explota contra Tania Rincón y Paul Stanley en programa 'Hoy'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184017
 ---
 
 El programa Hoy de Televisa busca reinventarse y ganar rating, luego de que la producción televisa se viera envuelta entre dimes y diretes ante una posible baja de audiencia. Por ello, estrenaron “Las estrellas bailan en Hoy” en donde algunos famosos ejecutan pasos de baile a lado de algunos conductores. La sección ha sido bien recibida por el público. Había transcurrido sin problema hasta que ayer Lolita Cortés –una de las juezas del reality– explotara en pleno programa en vivo contra el coreógrafo de Paul Stanley y Tania Rincón, pues para ella su presentación parecía una tabla gimnástica. ¿Qué fue lo que pasó? Fue en pleno programa en vivo de Hoy en donde Lolita Cortés arremetió contra el coreógrafo y contra la pareja de baile conformada por Paul Stanley y Tania Rincón, pues el reguetón que presentaron pareció más una “tabla gimnástica”. 

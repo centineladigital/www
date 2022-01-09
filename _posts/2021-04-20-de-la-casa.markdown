@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Emilia Clarke se unirá al elenco del que Disney informó anteriormente: Samuel L. Jackson, Ben Mendelsohn, Kingsley Ben-Adir y Olivia Colman. "
-image: /uploads/2021/images-emilia-clarke-interpreto-daenerys-targaryen_0_13_1000_622.jpg
-video: nil
-audio: nil
-alt: ¡De la Casa Targaryen a Marvel! Emilia Clarke se une a 'Secret Invasion', la próxima serie del UCM
+image: "/uploads/2021/images-emilia-clarke-interpreto-daenerys-targaryen_0_13_1000_622.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡De la Casa Targaryen a Marvel! Emilia Clarke se une a 'Secret Invasion', la próxima serie del UCM"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184007
 ---
 
 De interpretar a Daenerys Targaryen a estar próximamente en el Universo Cinematográfico de Marvel interpretando a un personaje del cual todavía se desconoce, Emilia Clarke está en las últimas negociaciones para unirse a Secret Invasion, la próxima serie de Marvel Studios que pronto verá la luz en Disney +. De acuerdo con la revista Variety, el papel de la cabeza de Juego de Tronos es un secreto y marca su primera incursión en el universo de Marvel, hay que recordar que la actriz interpretó a Qi'ra en la película de Star Wars, Han Solo: una historia de Star Wars, por lo que no sería su primera aparición en una película de Disney. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Cámara Nacional de Comercio de Cancún, alertó que la cifra representa el 50% de los negocios afiliados a la agrupación, los cuales son cada vez más difíciles de sostener ante la crisis económica"
-image: /uploads/2021/images-2588948.jpg
-video: nil
-audio: nil
-alt: Endurecimiento de medidas sanitarias pone en riesgo a comercios en Cancún
+image: "/uploads/2021/images-2588948.jpg"
+video: "nil"
+audio: "nil"
+alt: "Endurecimiento de medidas sanitarias pone en riesgo a comercios en Cancún"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184810
 ---
 
 Mil 800 comercios en Cancún se encuentran en riesgo de ser cerrados ante el endurecimiento de las medidas sanitarias en Quintana Roo por el incremento de casos de Covid-19.

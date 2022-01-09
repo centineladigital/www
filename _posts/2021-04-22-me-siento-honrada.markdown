@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz interpretará a Sophie, una joven mamá que contará a su hijo la historia sobre cómo conoció a su papá. "
-image: /uploads/2021/images-hilary-duff-protagonizara-secuela-how.jpg
-video: nil
-audio: nil
-alt: Me siento honrada -  Hilary Duff protagonizará secuela de 'How I Met Your Mother'
+image: "/uploads/2021/images-hilary-duff-protagonizara-secuela-how.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me siento honrada -  Hilary Duff protagonizará secuela de 'How I Met Your Mother'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184049
 ---
 
 Hilary Duff ya tiene un nuevo proyecto en puerta tras la cancelación del reboot de Lizzie McGuire debido a diferencias creativas con Disney Plus. Ahora, la actriz confirmó que protagonizará la secuela de la exitosa serie How I Met Your Mother que llegará muy pronto a la plataforma de streaming Hulu.  Cómo conocía tu padre, es el título de esta nueva serie que abordará la vida de Sophie (Hilary Duff), una joven mamá que cuenta a su hijo la historia sobre su relación con su papá, así lo dio a conocer el medio estadunidense Variety. Isaac Aptaker y Elizabeth Berger (This is us y Love, Victor), serán los escritores y productores ejecutivos del programa. 

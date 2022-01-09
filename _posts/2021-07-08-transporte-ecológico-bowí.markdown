@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se creó un centro de control con pantallas y equipos de cómputo, además de la adquisición de 25 unidades de combustión de gas comprimido.  "
-image: /uploads/2021/images-BOWIQ.jpg
-video: nil
-audio: nil
-alt: Transporte Ecológico Bowí mejoró con nuevas unidades  y sistema GPS para monitoreo de recorridos.
+image: "/uploads/2021/images-BOWIQ.jpg"
+video: "nil"
+audio: "nil"
+alt: "Transporte Ecológico Bowí mejoró con nuevas unidades  y sistema GPS para monitoreo de recorridos."
 front: false
-section: Local
+section: "Local"
+news_id: 185472
 ---
 
 El funcionamiento de la Ruta Troncal 1 del Transporte  Ecológico Bowí de la ciudad de Chihuahua, se mejoró con nuevas unidades y la implementación de un sistema GPS de monitoreo de los recorridos, a través de un centro de control con pantallas y equipos de cómputo, informó el secretario de Desarrollo Urbano y Ecología (Sedue), Luis Felipe Siqueiros Falomir.

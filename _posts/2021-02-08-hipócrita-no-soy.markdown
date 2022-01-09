@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las polémicas más grandes del actor se han originado tras tratar de forma agresiva a reporteros de espectáculos. "
-image: /uploads/2021/images-el-actor-no-ha-tenido.jpg
-video: nil
-audio: nil
-alt: Hipócrita no soy -  Eduardo Yáñez habla sobre su conflictiva relación con la prensa
+image: "/uploads/2021/images-el-actor-no-ha-tenido.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hipócrita no soy -  Eduardo Yáñez habla sobre su conflictiva relación con la prensa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182792
 ---
 
 Las grandes polémicas de Eduardo Yáñez se han originado debido al carácter explosivo que ha mostrado en un par de encuentros con la prensa: el primero ocurrió en 2017, cuando golpeó a un reportero de Univisión, y el más reciente tuvo lugar a principios de este año, cuando 'explotó' contra un periodista del programa Venga la Alegría.  

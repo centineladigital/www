@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Bajarán los índices de delincuencia gracias al trabajo que se realizará"
-image: /uploads/2021/images-Sin_título.png
-video: /uploads/2021/videos-BV05_MARCO_BONILLA.mp4
-audio: nil
-alt: Marco Bonilla se compromete a reducir actos delictivos en el Estado 
+image: "/uploads/2021/images-Sin_título.png"
+video: "/uploads/2021/videos-BV05_MARCO_BONILLA.mp4"
+audio: "nil"
+alt: "Marco Bonilla se compromete a reducir actos delictivos en el Estado "
 front: false
-section: Local
+section: "Local"
+news_id: 187625
 ---
 
 Durante la reunión con  los mandos de Seguridad Pública Municipal Marco Bonilla aseguró que diariamente se estarán revisando los indicadores de delincuencia para poco a poco reducir actos delictivos en el Estado.

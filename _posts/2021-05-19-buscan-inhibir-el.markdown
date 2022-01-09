@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Con miedo buscan inhibir votación, señala Laura Contreras."
-image: /uploads/2021/images-LAURA.jpg
-video: nil
-audio: /uploads/2021/audio-MW07_LAURA_CONTRERAS.mp3
-alt: Buscan inhibir el voto a través de la pandemia
+image: "/uploads/2021/images-LAURA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW07_LAURA_CONTRERAS.mp3"
+alt: "Buscan inhibir el voto a través de la pandemia"
 front: false
-section: Local
+section: "Local"
+news_id: 184555
 ---
 
 Votar es más seguro que formarte en la fila del súper o en un expendio, fueron las palabras de Laura Contreras, candidata por el sexto distrito federal. Esto al ser cuestionada respecto a la posible falta de votantes dentro de la contienda por el tema del coronavirus. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Alerta a la población para que tome las medidas preventivas ante las ráfagas de viento de hasta 105/km que habrá en la zona noroeste"
-image: /uploads/2021/images-frio.jpg
-video: nil
-audio: nil
-alt: Ingresa frente frío 33 este viernes, informa Protección Civil
+image: "/uploads/2021/images-frio.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ingresa frente frío 33 este viernes, informa Protección Civil"
 front: false
-section: Local
+section: "Local"
+news_id: 182546
 ---
 
 La Coordinación Estatal de Protección Civil dio a conocer el pronóstico para este fin de semana, en el cual se prevén rachas de viento de hasta 105 km/h para este viernes y sábado, principalmente en la zona noreste y centro sur de la entidad, por lo que la dependencia exhorta a tomar medidas preventivas.

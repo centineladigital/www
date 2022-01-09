@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En programa “Logros con Valor” se informa que la restructura en la planeación de sus servicios desde el inicio de esta administración, transformó la visión de curación a una parte preventiva tan necesaria en los sistemas de salud"
-image: /uploads/2021/images-equipo.jpg
-video: nil
-audio: nil
-alt: Avanzó Secretaría de Salud 8 lugares en escalafón de Caminando a la Excelencia
+image: "/uploads/2021/images-equipo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Avanzó Secretaría de Salud 8 lugares en escalafón de Caminando a la Excelencia"
 front: false
-section: Local
+section: "Local"
+news_id: 186323
 ---
 
 La Secretaría de Salud de Chihuahua avanzó ocho lugares en el ranking nacional de Caminando a la Excelencia, debido a la restructuración en la planeación de servicios de prevención de salud que efectuó desde un inicio la actual Administración.

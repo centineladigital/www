@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El sospechoso, originario de Marruecos, habría sido uno de los encargados del barco que los trasladó por el Mediterráneo"
-image: /uploads/2021/images-zona-islas-canarias-lugares-llegan_0_27_1200_746.jpg
-video: nil
-audio: nil
-alt: España detiene a hombre acusado de la muerte de 14 migrantes africanos
+image: "/uploads/2021/images-zona-islas-canarias-lugares-llegan_0_27_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "España detiene a hombre acusado de la muerte de 14 migrantes africanos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186871
 ---
 
 La policía de España anunció hoy la detención de un hombre de 43 años, originario de Marruecos, por su presunta responsabilidad en la muerte de 14 migrantes africanos que fallecieron en el Atlántico intentando llegar a las islas Canarias, en medio de la ola de extranjeros que han intentado llegar al país europeo ante las complicadas condiciones que enfrentan en sus naciones.

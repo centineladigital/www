@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Acumula estado 69 mil 927 contagios y 7,242 defunciones en 15 meses de la pandemia"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Dan positivo 54 personas y se confirman 33 decesos en el último reporte epidemiológico COVID-19
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Dan positivo 54 personas y se confirman 33 decesos en el último reporte epidemiológico COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 185125
 ---
 
 En los 15 meses que lleva la pandemia por coronavirus en el estado de Chihuahua van 69 mil 927 contagios acumulados y 7 mil 242 defunciones, de acuerdo al último reporte epidemiológico que emite la Secretaría de Salud.

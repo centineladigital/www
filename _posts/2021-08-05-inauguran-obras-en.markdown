@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Reciben comunidades salones de usos múltiples, ampliación y remodelación de parques destacan para infraestructura social; en el quinquenio a cargo de Javier Corral Jurado se invirtieron 10.8 mdp en el municipio, señala Sedemun"
-image: /uploads/2021/images-DEPARE_FRJPCH_EN_CUSIHUIRIACHI_(1).jpg
-video: nil
-audio: nil
-alt: Inauguran obras en Cusihuiriachi por 4.7 mdp  con Fondo de Reparación Justicia para Chihuahua
+image: "/uploads/2021/images-DEPARE_FRJPCH_EN_CUSIHUIRIACHI_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Inauguran obras en Cusihuiriachi por 4.7 mdp  con Fondo de Reparación Justicia para Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 186345
 ---
 
 A través del Fondo de Reparación Justicia para Chihuahua, el Gobierno del Estado de Chihuahua en coordinación con el Ayuntamiento de Cusihuiriachi inauguró seis obras por 4 millones 735 mil 924.66 pesos.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La colombiana es una de las personalidades más importantes en el mundo de la música actual. "
-image: /uploads/2021/images-shakira-en-girl-like-me_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¿Por qué lo hizo? Shakira vende los derechos de más de 100 de sus canciones
+image: "/uploads/2021/images-shakira-en-girl-like-me_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Por qué lo hizo? Shakira vende los derechos de más de 100 de sus canciones"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182103
 ---
 
 La cantante colombiana Shakira, quien actualmente es una de las mujeres más influyentes en la música a nivel mundial, vendió los derechos de 145 canciones a la firma de inversiones Hipgnosis Songs Fund, con sede en Londres, tal y como ha anunciado la compañía en un comunicado. La tres veces ganadora del Grammy vendió más de 80 millones de sencillos y álbumes y, entre sus mayores éxitos, se incluye "Hips Don't Lie" o "Underneath Your Clothes".  

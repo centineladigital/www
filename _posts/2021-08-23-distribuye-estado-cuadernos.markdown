@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se imprimieron 260 mil volúmenes con los aprendizajes esperados para el periodo de septiembre a noviembre del nuevo ciclo escolar; este material representa un apoyo importante para el alumnado que carece de conectividad en sus hogares"
-image: /uploads/2021/images-Materiales_didácticos.jpg
-video: nil
-audio: nil
-alt: Distribuye Estado cuadernos de trabajo para estudiantes de primarias federales
+image: "/uploads/2021/images-Materiales_didácticos.jpg"
+video: "nil"
+audio: "nil"
+alt: "Distribuye Estado cuadernos de trabajo para estudiantes de primarias federales"
 front: false
-section: Local
+section: "Local"
+news_id: 187007
 ---
 
 La Secretaría de Educación y Deporte (SEyD) a través de Servicios Educativos del Estado de Chihuahua (Seech) lleva a cabo la distribución de cuadernos didácticos de apoyo a todo el alumnado de las escuelas primarias federalizadas en la entidad. Estos contenidos son elaborados por personal especializado de la oficina de Materiales Educativos y Apoyos Didácticos (MEyAD), de la Dirección de Educación Primaria de Seech.

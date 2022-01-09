@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Instituto cuenta con personal capacitado para orientar de manera personalizada sobre los métodos anticonceptivos, dijo el director general, Luis Antonio Ramírez Pineda."
-image: /uploads/2021/images-ISSSTE_01.jpeg
-video: nil
-audio: nil
-alt: Otorga el ISSTE acceso universal a planificación familiar 
+image: "/uploads/2021/images-ISSSTE_01.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Otorga el ISSTE acceso universal a planificación familiar "
 front: false
-section: Local
+section: "Local"
+news_id: 186351
 ---
 
 Como parte de la transformación que se aplica en el modelo preventivo de salud, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) brinda  a toda la población acceso universal a servicios de planificación familiar, respetando la equidad, derechos humanos, reproductivos y la libre determinación de quienes desean tener hijos, informó el director general, Luis Antonio Ramírez Pineda.

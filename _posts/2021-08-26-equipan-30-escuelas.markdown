@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Dotan a centros escolares de 19 municipios del estado con mobiliario como minisplits, libros, escritorios, estantes, sillas, pupitres, tinacos, lámparas, calentones y materiales diversos para reparación y mantenimiento"
-image: /uploads/2021/images-Equipamiento_a_escuelas_de_niños_migrantes.jpg
-video: nil
-audio: nil
-alt: Equipan 30 escuelas para estudiantes migrantes agrícolas
+image: "/uploads/2021/images-Equipamiento_a_escuelas_de_niños_migrantes.jpg"
+video: "nil"
+audio: "nil"
+alt: "Equipan 30 escuelas para estudiantes migrantes agrícolas"
 front: false
-section: Local
+section: "Local"
+news_id: 187151
 ---
 
 La Secretaría de Educación y Deporte, a través de Servicios Educativos del Estado de Chihuahua (Seech), entregó mobiliario, materiales didácticos y para mantenimiento y reparación, a 30 centros educativos para estudiantes de familias jornaleras agrícolas migrantes.

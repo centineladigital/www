@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Niurka reveló que vivió un momento preocupante ya que a su hija Romina tuvieron que reconstruirle los senos después de que le colocaron mal implantes. "
-image: /uploads/2021/images-la-hija-de-niurka-tuvo.jpg
-video: nil
-audio: nil
-alt: Se los reconstruyeron -  Niurka revela que su hija tuvo complicaciones tras implante de senos
+image: "/uploads/2021/images-la-hija-de-niurka-tuvo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se los reconstruyeron -  Niurka revela que su hija tuvo complicaciones tras implante de senos"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183042
 ---
 
 Niurka protagoniza una polémica con la actriz Lupita Castro, esto después de que la cubana defendiera a Vicente Fernández de las acusaciones de abuso sexual en contra de Castro, pero dejando a un lado este tema, la bailarina contó que su hija Romina pasó por un momento complicado después de que le colocaran implantes de senos. Niurka contó en entrevista para el programa De Primera Mano que su hija Romina hace 5 años se sometió a una operación de implante de senos, sin embargo, se los colocaron mal, por lo que tuvo varias complicaciones y decidió retirárselos. 

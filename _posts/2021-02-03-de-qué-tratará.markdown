@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Samuel L. Jackson, Joseph Gordon-Levitt y Yara Shahidi también aparecerán en este programa que aún no tiene fecha de estreno. "
-image: /uploads/2021/images-actores-participaran-serie-amend-the.jpg
-video: nil
-audio: nil
-alt: ¿De qué tratará? Netflix prepara serie documental con Will Smith y Pedro Pascal
+image: "/uploads/2021/images-actores-participaran-serie-amend-the.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿De qué tratará? Netflix prepara serie documental con Will Smith y Pedro Pascal"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182681
 ---
 
 Netflix prepara una serie documental de 6 episodios que tendrá como presentador a uno de los actores estadunidenses más entrañables: Will Smith. Además, en el programa, titulado Amend: the fight for America, aparecerá como invitado el chileno Pedro Pascal. 

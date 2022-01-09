@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pese a las multas para quien quien no use cubrebocas, la gente ha abarrotado las playas principales y Zicatela"
-image: /uploads/2021/images-2021-05-05_09-05-02___9701.jpg
-video: nil
-audio: nil
-alt: Oaxaca, con playas saturadas pese a repunte de covid-19
+image: "/uploads/2021/images-2021-05-05_09-05-02___9701.jpg"
+video: "nil"
+audio: "nil"
+alt: "Oaxaca, con playas saturadas pese a repunte de covid-19"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185868
 ---
 
 En Oaxaca, las playas se encuentra saturadas con una alta afluencia de turistas, tanto nacionales como locales. Además, se reporta una ocupación hotelera global de entre el 55 y 70 por ciento, confirmaron las organizaciones hoteleras de las zonas. 

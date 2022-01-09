@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se protegieron los derechos de trabajadoras y trabajadores y se combatió el trabajo infantil, se informa en programa Logros con Valor"
-image: /uploads/2021/images-Inspección_a_centro_laboral_060720.jpg-3.jpg
-video: nil
-audio: nil
-alt: Realizó Secretaría del Trabajo 16 mil 394 inspecciones laborales en zonas urbanas y rurales
+image: "/uploads/2021/images-Inspección_a_centro_laboral_060720.jpg-3.jpg"
+video: "nil"
+audio: "nil"
+alt: "Realizó Secretaría del Trabajo 16 mil 394 inspecciones laborales en zonas urbanas y rurales"
 front: false
-section: Local
+section: "Local"
+news_id: 186663
 ---
 
 Comprometidos en acompañar a los centros de trabajo en el cumplimiento de la legislación laboral, así como vigilar los derechos de las personas trabajadoras, desde octubre de 2016, la dirección de Inspección del Trabajo de la Secretaría del Trabajo y Previsión Social (STPS) realizó 16 mil 394 inspecciones (15,665 urbanas y 729 rurales), informó el subsecretario Marco Antonio Gaytán González.

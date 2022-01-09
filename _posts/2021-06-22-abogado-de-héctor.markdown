@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El abogado de Héctor Parra mencionó en conferencia de prensa que el actor sabe que es inocente; asegura temen por la salud del histrión."
-image: /uploads/2021/images-abogado-hector-parra-pidio-justicia.jpg
-video: nil
-audio: nil
-alt: Abogado de Héctor Parra asegura que actor sabe que es inocente; están preocupados por su salud
+image: "/uploads/2021/images-abogado-hector-parra-pidio-justicia.jpg"
+video: "nil"
+audio: "nil"
+alt: "Abogado de Héctor Parra asegura que actor sabe que es inocente; están preocupados por su salud"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185185
 ---
 
 Hace unos días un juez decidió que Héctor Parra fuera vinculado a proceso por el supuesto delito de abuso sexual contra su hija Alexa Parra, de inmediato, la defensa del actor aseguró que buscará apelar ya que hay irregularidades en el caso. Ahora, en conferencia de prensa el abogado dio más detalles al respecto. 

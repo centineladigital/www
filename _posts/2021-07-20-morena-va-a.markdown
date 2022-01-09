@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Ahora morena no contará con mayoría calificada."
-image: /uploads/2021/images-PACO.jpg
-video: /uploads/2021/videos-MM04_PACO_NAVARRO.mp4
-audio: nil
-alt: Morena va a la baja, no cuentan con mayoría simple -  PAN
+image: "/uploads/2021/images-PACO.jpg"
+video: "/uploads/2021/videos-MM04_PACO_NAVARRO.mp4"
+audio: "nil"
+alt: "Morena va a la baja, no cuentan con mayoría simple -  PAN"
 front: false
-section: Local
+section: "Local"
+news_id: 185845
 ---
 
 El gobierno de Morena va a la baja, fueron las palabras del dirigente del Partido Acción Nacional a nivel municipal Francisco Navarro Pastrana. Esto tras ser cuestionado respecto a las declaraciones del excandidato del partido del cual emanó el Presidente de la República.

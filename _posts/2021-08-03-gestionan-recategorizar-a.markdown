@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Su reclasificación es para que docentes de Educación Indígena que imparten clases de primaria y preescolar mejoren sus ingresos, ya que cuentan con título de Licenciatura en Educación  "
-image: /uploads/2021/images-Docentes_indígenas-2.jpg
-video: nil
-audio: nil
-alt: Gestionan recategorizar a 93 promotores educativos como maestros y maestras
+image: "/uploads/2021/images-Docentes_indígenas-2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Gestionan recategorizar a 93 promotores educativos como maestros y maestras"
 front: false
-section: Local
+section: "Local"
+news_id: 186255
 ---
 
 La Secretaría de Educación y Deporte (SEyD), a través de los Servicios Educativos del Estado de Chihuahua (Seech) integró un primer grupo de 93 docentes de Educación Indígena, que ya cuentan con título en Licenciatura en Educación, para gestionar su recategorización como maestras y maestros, ante la Secretaría de Educación Pública (SEP).

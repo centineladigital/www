@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se cumplimenta orden de aprehensión con base en los tratados de colaboración internacionales"
-image: /uploads/2021/images-WhatsApp_Image_2021-09-13_at_09.09.15.jpeg
-video: nil
-audio: nil
-alt: Captura Fiscalía a residente de Cuauhtémoc que es reclamado por la DEA
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-13_at_09.09.15.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Captura Fiscalía a residente de Cuauhtémoc que es reclamado por la DEA"
 front: false
-section: Local
+section: "Local"
+news_id: 187663
 ---
 
 Con base en los tratados de colaboración internacionales, personal de la Agencia Estatal de Investigación de la Fiscalía General del Estado, llevó a cabo la detención de una persona identificada como Pedro W. N., quien dijo pertenecer  a un grupo delictivo y la cual es requerida por la Agencia Antidrogas de Estados Unidos (DEA), a través de la Interpol.

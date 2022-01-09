@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se llevará a cabo de forma virtual."
-image: /uploads/2021/images-FIERROO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ06_LUIS_FIERRO.mp3
-alt: Llevará UACH foro virtual de desarrollo sostenible
+image: "/uploads/2021/images-FIERROO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ06_LUIS_FIERRO.mp3"
+alt: "Llevará UACH foro virtual de desarrollo sostenible"
 front: false
-section: Local
+section: "Local"
+news_id: 184326
 ---
 
 Con el nombre de “Perspectivas universitarias. Chihuahua a través de los Objetivos para el Desarrollo Sostenible (ODS)”, la universidad de Chihuahua llevará a cabo un foro virtual con el fin de que universitarios presenten soluciones a problemas de Chihuahua. Según fue dado a conocer por parte del Rector de la máxima casa de estudios, Luis Fierro Ramírez.

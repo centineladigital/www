@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Compartió y dio a conocer a los integrantes del Cabildo las actividades y acciones realizadas por el Gobierno Municipal en el presente año, las cuales se llevaron a cabo dentro de los 7 ejes del Plan Municipal de Desarrollo"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Entrega Alcaldesa Tercer Informe de Actividades de la Administración 2018-2021
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Entrega Alcaldesa Tercer Informe de Actividades de la Administración 2018-2021"
 front: false
-section: Local
+section: "Local"
+news_id: 187380
 ---
 
 La presidenta municipal María Angélica Granados Trespalacios en sesión solemne de Cabildo hizo entrega de la glosa del Tercer Informe de Actividades de la Administración 2018 – 2021; en su mensaje la Edil agradeció la colaboración y trabajo de los empelados e integrantes del Ayuntamiento para hacer de Chihuahua un municipio más justo, solidario y competitivo. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Necesario más persona de la Guardia Nacional."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-MM06_JAVIER_CORRAL.mp3
-alt: Piden reforzar seguridad a Guardia Nacional
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM06_JAVIER_CORRAL.mp3"
+alt: "Piden reforzar seguridad a Guardia Nacional"
 front: false
-section: Local
+section: "Local"
+news_id: 184775
 ---
 
 Que la Guardia Nacional refuerce la seguridad dentro del estado es lo que ha pedido la administración que encabeza Javier Corral Jurado, esto al ser cuestionado sobre la violencia que se ha vivido en el mes de mayo, lo que origina que sea el mes más violento.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La serie seguirá a Gaston y LeFou mientras parten con la hermanastra de LeFou, Tilly, después de que salga a la luz una sorprendente revelación de su pasado. "
-image: /uploads/2021/images-luke-evans-volvera-a-ser_0_98_650_404.jpg
-video: nil
-audio: nil
-alt: ¡Regresa Gaston y LeFou! Disney prepara serie precuela de 'La Bella y La Bestia'; tendrá ocho episodios
+image: "/uploads/2021/images-luke-evans-volvera-a-ser_0_98_650_404.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Regresa Gaston y LeFou! Disney prepara serie precuela de 'La Bella y La Bestia'; tendrá ocho episodios"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185059
 ---
 
 ¡Habrá precuela de La Bella y La Bestia! Claro, sin Emma Watson. Disney retomará el éxito de la película para continuarlo en la pantalla chica acompañado de Luke Evans y Josh Gad, quienes volverían a interpretar los papeles de Gaston y LeFou respectivamente, además Briana Middleton se unirá al programa como Tilly, la hermanastra de Louie. 

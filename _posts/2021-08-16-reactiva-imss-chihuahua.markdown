@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los líderes de la CROC serán promotores de las acciones de este programa en los centros de trabajo"
-image: /uploads/2021/images-Foto_3926-2.jpg
-video: nil
-audio: nil
-alt: Reactiva IMSS Chihuahua el programa “PrevenIMSS en tu Empresa” con CROC en Juárez
+image: "/uploads/2021/images-Foto_3926-2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reactiva IMSS Chihuahua el programa “PrevenIMSS en tu Empresa” con CROC en Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 186735
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua realizó una reunión con líderes sindicales de la Confederación Revolucionaria de Obreros y Campesinos (CROC) en Ciudad Juárez para continuar con la estrategia del programa “PrevenIMSS en tu Empresa”, tras estar en pausa con motivo de la emergencia sanitaria por COVID-19. 

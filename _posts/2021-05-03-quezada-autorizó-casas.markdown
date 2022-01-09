@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Acusa candidato del PAN a su homologo de Morena."
-image: /uploads/2021/images-BONILLA.jpg
-video: nil
-audio: /uploads/2021/audio-ML08_MARCO_BONILLA.mp3
-alt: Quezada autorizó casas a menos de un kilómetro del relleno -  Bonilla
+image: "/uploads/2021/images-BONILLA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML08_MARCO_BONILLA.mp3"
+alt: "Quezada autorizó casas a menos de un kilómetro del relleno -  Bonilla"
 front: false
-section: Local
+section: "Local"
+news_id: 184252
 ---
 
 Marco Quezada autorizó la construcción de viviendas a menos de un kilómetro del relleno sanitario, fueron las palabras del candidato del PAN a la Alcaldía de Chihuahua. Esto al momento de ser cuestionado respecto a la situación que vive el relleno sanitario.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La fatiga crónica ocasionada por el estrés es también causante de malestares, como irritabilidad, dermatitis, caída de cabello e inmunodepresión"
-image: /uploads/2021/images-Foto_4159-1.jpg
-video: nil
-audio: nil
-alt: Emite IMSS Chihuahua recomendaciones para evitar que el estrés laboral perjudique la salud 
+image: "/uploads/2021/images-Foto_4159-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Emite IMSS Chihuahua recomendaciones para evitar que el estrés laboral perjudique la salud "
 front: false
-section: Local
+section: "Local"
+news_id: 187144
 ---
 
 El estrés es un fenómeno que ya se ha convertido en un problema a nivel mundial, y del cual tenemos que hacer conciencia y tomar medidas preventivas para no desencadenar enfermedades irreversibles en el organismo, advierte el coordinador de Prevención y Atención a la Salud, doctor Adrián Rodríguez Pacheco del Instituto Mexicano del Seguro Social (IMSS).

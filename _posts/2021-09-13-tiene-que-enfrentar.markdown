@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue en el programa ‘Hoy’ de Televisa en donde Galilea Montijo habló sobre el proceso legal que enfrenta su amiga Inés Gómez Mont por presunto lavado de dinero. Te decimos lo que dijo la tapatía."
-image: /uploads/2021/images-galilea-montijo-ines-gomez-mont.jpg
-video: nil
-audio: nil
-alt: Tiene que enfrentar a la justicia -  Galilea Montijo reacciona a orden de aprehensión contra Inés Gómez Mont
+image: "/uploads/2021/images-galilea-montijo-ines-gomez-mont.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tiene que enfrentar a la justicia -  Galilea Montijo reacciona a orden de aprehensión contra Inés Gómez Mont"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187698
 ---
 
 Inés Gómez Mont, famosa conductora de televisión, está envuelta en polémica junto a su esposo Víctor Manuel Álvarez Puga por supuesto lavado de dinero. Y es que este fin de semana se dio a conocer que la ex presentadora de TV Azteca podría enfrentar una orden de aprehensión por dicho delito. Por ello, su entrañable amiga Galilea Montijo se posicionó sobre el tema y salió en su defensa durante el programa Hoy. ¿Qué dijo? Te contamos lo que expresó la tapatía en el programa de Televisa. Fue en el programa ‘Hoy’ de Televisa en donde Galilea Montijo habló sobre el proceso legal que enfrenta su amiga Inés Gómez Mont por presunto lavado de dinero. La famosa presentadora y compañera de Andrea Legarreta dijo que ha tenido contacto con la ex conductora de TV Azteca. Aseguró que se encuentra muy tranquila en espera que todo se resuelva. 

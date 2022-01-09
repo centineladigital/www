@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Puedo decirles que el edificio tiene doce pisos; toda la parte trasera del edificio se ha derrumbado, dijo la sargento de la policía de Surfside Marian Cruz"
-image: /uploads/2021/images-2600511.jpg
-video: nil
-audio: nil
-alt: Un muerto y vecinos atrapados deja derrumbe de edificio en Miami
+image: "/uploads/2021/images-2600511.jpg"
+video: "nil"
+audio: "nil"
+alt: "Un muerto y vecinos atrapados deja derrumbe de edificio en Miami"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185214
 ---
 
 El lado con vistas al mar de una torre de apartamentos en Surfside, Miami, se derrumbó la madrugada del jueves, matando a una persona, informaron autoridades. El siniestro dejó vecinos atrapados entre escombros y hierros, y levantó una nube de polvo que cubrió los autos estacionados a dos cuadras de distancia.

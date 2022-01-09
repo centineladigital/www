@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se retiraron más de 2 mil toneladas de basura, escombro, tiliches y residuos diversos   "
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Atendió Gobierno Municipal más de 142 mil metros cuadrados de terrenos baldíos en agosto
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Atendió Gobierno Municipal más de 142 mil metros cuadrados de terrenos baldíos en agosto"
 front: false
-section: Local
+section: "Local"
+news_id: 187544
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos, llevó a cabo actividades de limpieza en 142 mil 300 metros cuadrados de terrenos baldíos municipales y tiraderos clandestinos de basura durante el mes de agosto.

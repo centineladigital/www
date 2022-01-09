@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: ""
-image: /uploads/2021/images-unnamed_(4).jpg
-video: nil
-audio: nil
-alt: Entregan 300 tarjetas de Mi apoyo Mi bienestar en la 5ta Zona Militar
+image: "/uploads/2021/images-unnamed_(4).jpg"
+video: "nil"
+audio: "nil"
+alt: "Entregan 300 tarjetas de Mi apoyo Mi bienestar en la 5ta Zona Militar"
 front: false
-section: Local
+section: "Local"
+news_id: 186855
 ---
 
  El Gobierno Municipal, a través del Instituto Municipal de las Mujeres entregó 300 tarjetas de descuento Mi apoyo, Mi bienestar personal femenil de la 5ta Zona Militar y a las esposas de los militares con el objetivo de apoyar su economía.

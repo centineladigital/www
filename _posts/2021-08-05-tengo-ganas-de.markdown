@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Consuelo Duval explicó por qué siente algo negativo hacia Karla Panini. Explicó lo que haría si se la llega a encontrar. "
-image: /uploads/2021/images-consuelo-duval-recuerda-sentimiento-negativo.jpg
-video: nil
-audio: nil
-alt: “Tengo ganas de partirle la madr...” -  Consuelo Duval revela por qué siente coraje hacia Karla Panini
+image: "/uploads/2021/images-consuelo-duval-recuerda-sentimiento-negativo.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Tengo ganas de partirle la madr...” -  Consuelo Duval revela por qué siente coraje hacia Karla Panini"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186338
 ---
 
 Consuelo Duval, famosa conductora y comediante, lanzó fuertes declaraciones en contra de Karla Panini, quien fue compañera de Karla Luna y que se involucró con el marido de ésta Américo Garza –actual pareja que es acusada por los familiares de Karla Luna de no dejar ver a las niñas de la ya fallecida comediante víctima de cáncer–. ¿Qué dijo Consuelo Duval sobre Karla Panini? ¿No la soporta? La famosa integrante de La Familia P. Luche reveló que cada que escucha su nombre surge una emoción negativa. Contó lo que haría si se la llegase a encontrar. ¿Llegaría a los golpes? 

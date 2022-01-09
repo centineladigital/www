@@ -16,12 +16,13 @@ tags:
   
 author: nil
 description: "El comité de vacunación del país emitió un comunicado y señaló que “de acuerdo con los resultados actuales de los estudios”, la respuesta inmune de una combinación de AstraZeneca con una vacuna ARN mensajero fue “considerablemente superior”"
-image: /uploads/2021/images-vacunas.jpg
-video: nil
-audio: nil
-alt: Mezclan en Alemania vacunas
+image: "/uploads/2021/images-vacunas.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mezclan en Alemania vacunas"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185365
 ---
 
 Las autoridades de Alemania están recomendando a toda la población que haya recibido la primera dosis de la vacuna de AstraZeneca contra el coronavirus cambiar a un tipo diferente de vacuna para la segunda dosis. Con ello se pretende aumentar la velocidad y efectividad de la inoculación al tiempo que se propaga la variante delta de mayor contagio.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Alan Tacher y Giovanni Medina, ex pareja de Ninel Conde, pelearon en un programa. Te contamos la razón de la discusión. "
-image: /uploads/2021/images-alan-tacher-defendio-declaraciones-giovanni_32_0_1045_650.jpg
-video: nil
-audio: nil
-alt: No eres periodista -  Alan Tacher pelea con ex pareja de Ninel Conde en pleno programa
+image: "/uploads/2021/images-alan-tacher-defendio-declaraciones-giovanni_32_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "No eres periodista -  Alan Tacher pelea con ex pareja de Ninel Conde en pleno programa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183058
 ---
 
 Ninel Conde acudió como invitada al programa Despierta América, en donde reveló que congeló sus óvulos. Ante la visita del Bombón asesino al matutino, Giovanni Medina, ex pareja de la cantante, se fue en contra de los conductores, en especial Alan Tacher.  Todo comenzó porque Giovanni Medina se molestó con el programa ya que en ningún momento le cuestionaron a Ninel Conde sobre la situación legal que mantiene con ella ni de su esposo, Larry Ramos. Tras esto, Medina dio una entrevista a Chisme No Like en donde se lanzó en contra de Despierta América y llamó cobarde a Alan Tacher.  

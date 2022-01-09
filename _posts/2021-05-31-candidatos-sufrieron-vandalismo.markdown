@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los aspirantes a diversos puestos de elección popular en Chihuahua han sido víctimas de una serie de agresiones"
-image: /uploads/2021/images-MIGRANTES..._ILUSTRACION.jpg
-video: nil
-audio: nil
-alt: Candidatos sufrieron vandalismo, amenazas y hasta un asesinato
+image: "/uploads/2021/images-MIGRANTES..._ILUSTRACION.jpg"
+video: "nil"
+audio: "nil"
+alt: "Candidatos sufrieron vandalismo, amenazas y hasta un asesinato"
 front: false
-section: Local
+section: "Local"
+news_id: 184744
 ---
 
 A lo largo y ancho del estado de Chihuahua los candidatos a diversos puestos de elección popular han sido víctimas de diferentes formas de violencia durante el actual proceso electoral, desde vandalismo en sus propiedades, amenazas telefónicas, hasta el asesinato del precandidato del Revolucionario Institucional, Yuriel González, en Nuevo Casas Grandes.

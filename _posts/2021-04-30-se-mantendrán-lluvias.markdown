@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se prevé aguanieve y nieve en las partes altas de la Sierra Tarahumara, mientras que en la zona semidesértica pueden estar acompañadas de caída de granizo"
-image: /uploads/2021/images-LLUVIAS_CUU_30_ABRIL_2021_(7).JPG
-video: nil
-audio: nil
-alt: Se mantendrán lluvias en casi todo el estado  este fin de semana -  Protección Civil
+image: "/uploads/2021/images-LLUVIAS_CUU_30_ABRIL_2021_(7).JPG"
+video: "nil"
+audio: "nil"
+alt: "Se mantendrán lluvias en casi todo el estado  este fin de semana -  Protección Civil"
 front: false
-section: Local
+section: "Local"
+news_id: 184216
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que se prevén lluvias en varias zonas del estado durante este viernes 30 de abril y sábado 1 de mayo, mientras que el domingo se presentarán rachas de viento que podrían superar los 95 kilómetros por hora (km/h).

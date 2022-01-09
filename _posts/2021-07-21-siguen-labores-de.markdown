@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Debido a las lluvias registradas el pasado lunes 19 de julio, el Gobierno Municipal continúa con labores de limpieza en diversas partes de la ciudad a fin de mantener en buenas condiciones las calles y avenidas."
-image: /uploads/2021/images-unnamed_(4).jpg
-video: nil
-audio: nil
-alt: Siguen labores de dependencias municipales en retiro de arrastres y árboles caídos por lluvias
+image: "/uploads/2021/images-unnamed_(4).jpg"
+video: "nil"
+audio: "nil"
+alt: "Siguen labores de dependencias municipales en retiro de arrastres y árboles caídos por lluvias"
 front: false
-section: Local
+section: "Local"
+news_id: 185880
 ---
 
 

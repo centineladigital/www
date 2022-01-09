@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los industriales se han alineado a las estrategias desde inicios de la pandemia, pero eso no quita el gran impacto económico que se tiene y a lo que se suma esta parálisis por la falta de gas"
-image: /uploads/2021/images-Rodolfo_Vázquez_Traina.jpg
-video: nil
-audio: nil
-alt: Reconoce Gobierno del Estado esfuerzo del sector industrial ante la contingencia
+image: "/uploads/2021/images-Rodolfo_Vázquez_Traina.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reconoce Gobierno del Estado esfuerzo del sector industrial ante la contingencia"
 front: false
-section: Local
+section: "Local"
+news_id: 183019
 ---
 
 El subsecretario de Innovación y Desarrollo Económico (SIDE), Rodolfo Vázquez Triana, reconoció el esfuerzo del sector industrial de Ciudad Juárez ante la contingencia y la suspensión del suministro de gas, en una estrategia de balance planteada para permitir atender a la población.

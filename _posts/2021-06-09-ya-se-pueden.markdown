@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En caso de hacer el registro para el estado de Chihuahua, los municipios donde se aplicará la dosis son Ascensión, Guadalupe, Janos, Juárez, Manuel Benavides, Ojinaga y Praxedis G. Guerrero  "
-image: /uploads/2021/images-Vacunación.jpg
-video: nil
-audio: nil
-alt: Ya se pueden registrar personas de 18 a 39 años para vacuna vs Covid, en la frontera
+image: "/uploads/2021/images-Vacunación.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ya se pueden registrar personas de 18 a 39 años para vacuna vs Covid, en la frontera"
 front: false
-section: Local
+section: "Local"
+news_id: 184937
 ---
 
 La Secretaría de Salud Federal habilitó en su página de internet el registro de vacunación para las personas que viven en los municipios fronterizos y vayan a vacunarse con el biológico de Johnson & Johnson que otorgará Estados Unidos a México para personas de 18 a 39 años de edad.

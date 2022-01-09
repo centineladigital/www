@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Reiteraron la intención de continuar trabajando de manera coordinada, a fin de garantizar la presencia en las calles y disminución de índices delictivos"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Coordina esfuerzos alcaldesa María Angélica Granados en Mesa Regional de Seguridad
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Coordina esfuerzos alcaldesa María Angélica Granados en Mesa Regional de Seguridad"
 front: false
-section: Local
+section: "Local"
+news_id: 182446
 ---
 
 La alcaldesa capitalina María Angélica Granados Trespalacios, participó en la Mesa Regional Chihuahua para la Construcción de la Paz, en donde se reunió con autoridades federales y representantes de la V Zona Militar, a fin de conjuntar esfuerzos en materia de seguridad así como por la contingencia sanitaria a raíz del COVID-19.

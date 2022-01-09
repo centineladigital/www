@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El atacante del Inter de Miami llegará a Phoenix, en donde México enfrentará a Honduras por los cuartos de final de esta competencia"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt:  Confirman llegada de Rodolfo Pizarro a la Selección Mexicana para Copa Oro
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: " Confirman llegada de Rodolfo Pizarro a la Selección Mexicana para Copa Oro"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185906
 ---
 
 La dirección de Selecciones Nacionales confirmó que Rodolfo Pizarro se unirá al equipo tricolor que disputa la Copa Oro para suplir al lesionado Hirving Lozano. El atacante del Inter de Miami llegará a Phoenix, en donde México enfrentará a Honduras por los cuartos de final de esta competencia.

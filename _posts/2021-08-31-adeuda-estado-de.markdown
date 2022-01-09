@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ante medios de comunicación se explicó que la deuda esta compuesta de tres partes: la deuda de largo plazo y bursátil, deuda bancaria de corto plazo y deudas con proveedores "
-image: /uploads/2021/images-WhatsApp_Image_2021-08-31_at_13.33.07.jpeg
-video: nil
-audio: nil
-alt: Adeuda Estado de Chihuahua a proveedores más de 10,820 millones de pesos
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-31_at_13.33.07.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Adeuda Estado de Chihuahua a proveedores más de 10,820 millones de pesos"
 front: false
-section: Local
+section: "Local"
+news_id: 187297
 ---
 
 Este martes en rueda de prensa Luis Aguilar y Carlos Olson, diputados electos e integrantes representantes del equipo de transición de la Gobernadora Electa, Maru Campos, dieron a conocer datos sobre la realidad de las finanzas del Estado de Chihuahua en que entrega el gobierno de Javier Corral, en donde se destacó que el adeudo de proveedores es por más de 10,820 millones de pesos.

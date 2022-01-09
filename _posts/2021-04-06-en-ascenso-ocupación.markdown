@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hay 291 personas internadas en nosocomios debido a esta enfermedad"
-image: /uploads/2021/images-hospital_covid_central_1.jpg
-video: nil
-audio: nil
-alt: En ascenso, ocupación hospitalaria por Covid-19
+image: "/uploads/2021/images-hospital_covid_central_1.jpg"
+video: "nil"
+audio: "nil"
+alt: "En ascenso, ocupación hospitalaria por Covid-19"
 front: false
-section: Local
+section: "Local"
+news_id: 183712
 ---
 
 La cifra de personas hospitalizadas por Covid-19 hasta este día, es de 291 en los distintos hospitales de la RED IRAG, y se espera un mayor repunte en los próximos días, informó el director médico de la Zona Norte, Arturo Valenzuela Zorrilla.

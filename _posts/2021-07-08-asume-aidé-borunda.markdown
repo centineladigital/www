@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La que fuera coordinadora del Centro de Patrimonio Cultural, Linda Miranda, fue nombrada coordinadora de Casa Redonda Museo de Arte Contemporáneo."
-image: /uploads/2021/images-Aide_Borunda.jpg
-video: nil
-audio: nil
-alt: Asume Aidé Borunda coordinación operativa del Museo Casa Chihuahua.
+image: "/uploads/2021/images-Aide_Borunda.jpg"
+video: "nil"
+audio: "nil"
+alt: "Asume Aidé Borunda coordinación operativa del Museo Casa Chihuahua."
 front: false
-section: Local
+section: "Local"
+news_id: 185484
 ---
 
 Con la finalidad de atender áreas de oportunidad para mejorar los servicios que se brindan en el Museo Casa Chihuahua Centro de Patrimonio Cultural y Casa Redonda Museo de Arte Contemporáneo, la secretaria de Cultura, Concepción Landa García Téllez, realizó nuevos nombramientos en ambas coordinaciones.

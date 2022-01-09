@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue en entrevista con distintos medios de comunicación en donde el cantante se mostró molesto, luego de que lo cuestionaran sobre su identidad sexual. ¿Qué le preguntaron?   "
-image: /uploads/2021/images-samo-explota-reporteros-cuestionarle-trans.jpg
-video: nil
-audio: nil
-alt: Preguntas estúpidas -  Samo 'explota' contra reporteros por preguntas sobre si quiere ser trans
+image: "/uploads/2021/images-samo-explota-reporteros-cuestionarle-trans.jpg"
+video: "nil"
+audio: "nil"
+alt: "Preguntas estúpidas -  Samo 'explota' contra reporteros por preguntas sobre si quiere ser trans"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184970
 ---
 
 Samo, famoso cantante y ex integrante de Camila, dio mucho de qué hablar en las últimas horas, pues explotó contra un reportero que lo cuestionó sobre su identidad. ¿Qué le preguntaron? Resulta que al famoso lo cuestionaron bajo la premisa de que si hay posibilidad de que sea “como el caso de Felicia Garza”, mujer trans, así como si ha pensado en este camino. Esto debido a que el famoso participa en una obra teatral en la que utiliza algunas prendas y maquillaje que son erróneamente  considerados sólo para las mujeres. ¿Se enojó? Te contamos cómo reaccionó el cantante y la forma en la que respondió. 

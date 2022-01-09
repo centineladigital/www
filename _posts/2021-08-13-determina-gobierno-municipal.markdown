@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se determinó que no existen las condiciones para poder efectuar este evento con la garantía de que se evite la propagación del virus"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Determina Gobierno Municipal no otorgar permiso para el concierto de Christian Nodal
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Determina Gobierno Municipal no otorgar permiso para el concierto de Christian Nodal"
 front: false
-section: Local
+section: "Local"
+news_id: 186649
 ---
 
 El secretario del Ayuntamiento, Oscar González Luna, dio a conocer que se ha determinado no otorgar el permiso para la realización de un concierto con el artista Christian Nodal el próximo 28 de agosto, tras una solicitud efectuada en días pasados.

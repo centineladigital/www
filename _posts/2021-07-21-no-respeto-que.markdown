@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Y qué me van a decir? ¿Es anticonstitucional? Ni madres, es mi casa, my rules (mis reglas), mi espectáculo, dijo el cantante en una transmisión de Instagram respecto a las medidas que sigue para evitar enfermarse. "
-image: /uploads/2021/images-pepe-aguilar-instagram-1.jpg
-video: nil
-audio: nil
-alt: No respeto que no respeten -  Pepe Aguilar exige a sus empleados vacunarse contra el covid-19
+image: "/uploads/2021/images-pepe-aguilar-instagram-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "No respeto que no respeten -  Pepe Aguilar exige a sus empleados vacunarse contra el covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185865
 ---
 
 Pepe Aguilar volvió a dar de qué hablar en redes sociales debido a un video que compartió en su cuenta de Instagram; en dicha grabación, primero pidió a sus fans tener cuidado ante los rumores exagerados sobre su familia y luego los exhortó a seguirse cuidando contra el covid-19, cosa que él está haciendo de forma rigurosa. “Respeto mucho la decisión de cada quien, pero la respeto siempre y cuando esas decisiones no afecten a terceros. No nos vamos a poner a hablar de teorías de conspiración, es la misma tarugada. (…) El hecho es que la gente se sigue muriendo y no digan tarugadas de que es una conspiración mundial". 

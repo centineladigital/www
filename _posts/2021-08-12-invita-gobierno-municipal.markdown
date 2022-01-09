@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El evento tendrá lugar el próximo viernes 13 de agosto, de las 11:00 a 18:00 horas, en el Centro Cultural Carlos Montemayor (ubicado en el campus número 1 de la UACH)"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Invita Gobierno Municipal a jóvenes a participar en Festejo al Ajedrez 2021
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Invita Gobierno Municipal a jóvenes a participar en Festejo al Ajedrez 2021"
 front: false
-section: Local
+section: "Local"
+news_id: 186611
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, invita a las y los jóvenes chihuahuenses, que quieran poner a prueba sus habilidades intelectuales a participar en el Festejo al Ajedrez 2021.

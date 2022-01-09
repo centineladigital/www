@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Necesario hacer análisis para poder saber si es reacción a vacuna."
-image: /uploads/2021/images-GUMARO.jpg
-video: nil
-audio: /uploads/2021/audio-MM02_GUMARO_BARRIOS.mp3
-alt: Aún en estudio personas que reaccionaron a vacuna
+image: "/uploads/2021/images-GUMARO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM02_GUMARO_BARRIOS.mp3"
+alt: "Aún en estudio personas que reaccionaron a vacuna"
 front: false
-section: Local
+section: "Local"
+news_id: 183358
 ---
 
 Aún no se tiene un diagnóstico de que personas hayan reaccionado a la vacuna, fueron las palabras del Subdirector de área de Epidemiología, Gumaro Barrios Gallegos. Esto luego de ser cuestionado respecto a que el área de salud a nivel federal diera a conocer que personas reportaron una reacción adversa a la vacuna de COVID-19.

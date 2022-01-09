@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "No se vale que a estas alturas, después de tanto prestigio y tantos años, de una carrera donde ha llevado la música mexicana a nivel mundial, salgan estas cosas, señaló la ex esposa del 'Potrillo'. "
-image: /uploads/2021/images-la-ex-esposa-del-potrillo.jpg
-video: nil
-audio: nil
-alt: No se lo merece -  América Guinart, ex esposa del 'Potrillo', defiende a Vicente Fernández de acusaciones de acoso
+image: "/uploads/2021/images-la-ex-esposa-del-potrillo.jpg"
+video: "nil"
+audio: "nil"
+alt: "No se lo merece -  América Guinart, ex esposa del 'Potrillo', defiende a Vicente Fernández de acusaciones de acoso"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183248
 ---
 
 Los señalamientos que enfrenta Vicente Fernández por presuntos actos de acoso sexual han dividido a las celebridades, pues mientras algunos famosos, como Merle Uribe, José Luis Rodríguez El Puma y Laura Bozzo, han defendido al cantante, otros no han dudado en reprobar  las actitudes de Fernández con varias fans. Y este martes, América Guinart, ex esposa de Alejandro Fernández El Potrillo, se sumó al bando que respalda al interprete de "Mujeres divinas" y "Acá entre nos" 

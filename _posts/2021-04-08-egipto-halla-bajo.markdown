@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Data del reinado del rey Amenofis III y que continuó siendo utilizada por el rey Tutankamón, es decir, hace 3,000 años"
-image: /uploads/2021/images-2559059.jpg
-video: nil
-audio: nil
-alt: Egipto halla bajo arena ‘ciudad perdida’ de Luxor
+image: "/uploads/2021/images-2559059.jpg"
+video: "nil"
+audio: "nil"
+alt: "Egipto halla bajo arena ‘ciudad perdida’ de Luxor"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183767
 ---
 
 Una misión arqueológica egipcia descubrió la "ciudad antigua más grande de Egipto", de más de 3,000 años, cerca de Luxor (sur), anunció el jueves su director, el arqueólogo Zahi Hawass.

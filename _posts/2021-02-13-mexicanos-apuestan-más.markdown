@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En 63% de las separaciones un miembro de la pareja es quien quiere finalizar el matrimonio"
-image: /uploads/2021/images-2528771.jpg
-video: nil
-audio: nil
-alt: Mexicanos apuestan más por la unión libre; crecen los divorcios, destaca INEGI
+image: "/uploads/2021/images-2528771.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mexicanos apuestan más por la unión libre; crecen los divorcios, destaca INEGI"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182909
 ---
 
 Cada año, menos parejas mexicanas optan por el matrimonio y apuestan por la unión libre, además de que los divorcios se han multiplicado, y la mayoría de las veces son a petición de una de las partes.

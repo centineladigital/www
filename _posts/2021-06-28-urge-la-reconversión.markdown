@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Producción varía según la región, afirma Secretario de Desarrollo Rural."
-image: /uploads/2021/images-ALMEIDA.jpg
-video: nil
-audio: /uploads/2021/audio-ML04_RENE_ALMEIDA.mp3
-alt: Urge la reconversión productiva
+image: "/uploads/2021/images-ALMEIDA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04_RENE_ALMEIDA.mp3"
+alt: "Urge la reconversión productiva"
 front: false
-section: Local
+section: "Local"
+news_id: 185282
 ---
 
 La reconversión de cultivos en Chihuahua es una urgente necesidad debido a las condiciones climáticas, señaló el titular de la Secretaría de Desarrollo Rural, René Almeida, quien puso como ejemplo la plantación de aguacate ha sido un éxito. 

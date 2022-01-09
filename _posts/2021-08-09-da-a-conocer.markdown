@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se fusionarán diversas dependencias dentro del área de salud."
-image: /uploads/2021/images-BONILLA.jpg
-video: /uploads/2021/videos-ML03_MARCO_BONILLA.mp4
-audio: nil
-alt: Da a conocer Marco Bonilla fusión de dependencias
+image: "/uploads/2021/images-BONILLA.jpg"
+video: "/uploads/2021/videos-ML03_MARCO_BONILLA.mp4"
+audio: "nil"
+alt: "Da a conocer Marco Bonilla fusión de dependencias"
 front: false
-section: Local
+section: "Local"
+news_id: 186489
 ---
 
 En el marco de la reunión de transición este lunes se dio a conocer por parte del Presidente Municipal electo, Marco Bonilla Mendoza anunció la creación del Instituto de Prevención a la Salud; el cual se llevará a cabo una fusión con el CAPPSI.

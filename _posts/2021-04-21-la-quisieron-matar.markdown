@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gabriel Cuevas, periodista de VLA, reveló en programa de Flor Rubio que Ximena Navarrete, ex Miss Universo, sufrió dos intentos de homicidio en un lujoso hotel: pusieron vidrios en su comida y en bebida. "
-image: /uploads/2021/images-ximena-navarrete-sufrio-intentos-homicidio.jpg
-video: nil
-audio: nil
-alt: La quisieron matar -  Revelan que Ximena Navarrete, ex Miss Universo, sufrió dos intentos de homicidio
+image: "/uploads/2021/images-ximena-navarrete-sufrio-intentos-homicidio.jpg"
+video: "nil"
+audio: "nil"
+alt: "La quisieron matar -  Revelan que Ximena Navarrete, ex Miss Universo, sufrió dos intentos de homicidio"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184014
 ---
 
 Ximena Navarrete, ex Miss Universo, fue víctima de dos intentos de homicidio, pues con trozos de vidrio en su comida y en una bebida quisieron acabar con su vida en Tampico, Tamaulipas, así lo dio a conocer el periodista y conductor de espectáculos Gabriel Cuevas. ¿Hubo alguna persona detenida? ¿Qué fue lo que pasó? Te contamos lo que reveló el colaborador de Venga la Alegría.  Fue durante el programa Fórmula Espectacular, en donde Gabriel Cuevas reveló que intentaron asesinar a Ximena Navarrete. Explicó que a la ex Miss Universo le pusieron trozos de vidrios dentro de una pechuga de pollo mientras se disponía a cenar.

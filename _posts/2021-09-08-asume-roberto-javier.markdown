@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Para dar cumplimiento a las acciones de seguridad y justicia, cumpliendo con las instrucciones expresas de la Lic. María Eugenia Campos Galván, Gobernadora.  "
-image: /uploads/2021/images-foto_1_(1).jpg
-video: nil
-audio: nil
-alt: Asume Roberto Javier Fierro Duarte el mando de la Fiscalía General del Estado
+image: "/uploads/2021/images-foto_1_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Asume Roberto Javier Fierro Duarte el mando de la Fiscalía General del Estado"
 front: false
-section: Local
+section: "Local"
+news_id: 187562
 ---
 
 A las cero horas de este miércoles 8 de septiembre, el Mtro. Roberto Javier Fierro Duarte, tomó posesión del mando de la Fiscalía General del Estado y de la Agencia Estatal de Investigación, para dar cumplimiento a las acciones de seguridad y justicia, cumpliendo con las instrucciones expresas de la Lic. María Eugenia Campos Galván, Gobernadora.

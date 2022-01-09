@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Es la fecha en que se conmemora del 210 aniversario del fusilamiento del Padre de la Patria ocurrido en la capital del estado; la Secretaría de Cultura realiza un proceso de renovación museográfica"
-image: /uploads/2021/images-_DSC8742.JPG
-video: nil
-audio: nil
-alt: Reabre sus puertas el Museo Miguel Hidalgo el próximo 30 de julio
+image: "/uploads/2021/images-_DSC8742.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reabre sus puertas el Museo Miguel Hidalgo el próximo 30 de julio"
 front: false
-section: Local
+section: "Local"
+news_id: 185809
 ---
 
 Tras un proceso de renovación museográfica, el Museo Miguel Hidalgo y Costilla reabrirá sus puertas para conmemorar el 210 aniversario del fusilamiento del Padre de la Patria, ocurrido a pocos metros de este recinto, el 30 de julio de 1811.

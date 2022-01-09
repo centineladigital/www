@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La candidata a la gubernatura estuvo acompañada por el profesor Macario Hermosillo, candidato a alcalde y Rosario Sarmiento candidata a diputada por el distrito 13"
-image: /uploads/2021/images-Maru_campos_evento.jpg
-video: nil
-audio: nil
-alt: Respalda municipio de Bocoyna a Maru Campos en cierre de campaña
+image: "/uploads/2021/images-Maru_campos_evento.jpg"
+video: "nil"
+audio: "nil"
+alt: "Respalda municipio de Bocoyna a Maru Campos en cierre de campaña"
 front: false
-section: Local
+section: "Local"
+news_id: 184707
 ---
 
 Maru Campos Galván, candidata por la coalición “Nos Une Chihuahua” del PAN-PRD a la gubernatura de Chihuahua, participó este jueves en el cierre de campaña en el poblado de San Juanito, municipio de Bocoyna.

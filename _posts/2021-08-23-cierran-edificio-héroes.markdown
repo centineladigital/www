@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "No pagan a proveedores de diversos programas.  Campesinos piden que se les apoye, tienen opciones de siembra y no lo pueden hacer."
-image: /uploads/2021/images-EMILIO.jpg
-video: /uploads/2021/videos-ML02_EMILIO_GARCIA.mp4
-audio: nil
-alt: Cierran edificio Héroes de Reforma por adeudo de 6mdp
+image: "/uploads/2021/images-EMILIO.jpg"
+video: "/uploads/2021/videos-ML02_EMILIO_GARCIA.mp4"
+audio: "nil"
+alt: "Cierran edificio Héroes de Reforma por adeudo de 6mdp"
 front: false
-section: Local
+section: "Local"
+news_id: 187015
 ---
 
 Ante la poca atención que se ha dado al campo y la deuda de 6 millones de pesos estos lunes integrantes de la Unión Campesina Democrática cerraron las puertas del edificio Héroes de Reforma, negando el acceso a las personas en cualquiera de las puertas de este edificio gubernamental.

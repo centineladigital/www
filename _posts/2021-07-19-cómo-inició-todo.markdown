@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Según 'The Hollywood Reporter', la precuela de 'John Wick' se llamará 'The Continental'; se trata de una serie con capítulos de larga duración. "
-image: /uploads/2021/images-the-continental-precuela-john-wick.jpg
-video: nil
-audio: nil
-alt: ¿Cómo inició todo? John Wick tendrá precuela de tres episodios, se llamará 'The Continental'
+image: "/uploads/2021/images-the-continental-precuela-john-wick.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Cómo inició todo? John Wick tendrá precuela de tres episodios, se llamará 'The Continental'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185795
 ---
 
 El universo de John Wick, protagonizado por el actor Keanu Reeves, tendrá una precuela; se llamará The Continental, como el hotel que aparece en las películas, y se trata de una serie de tres episodios de larga duración y que se centrará en los orígenes del universo.

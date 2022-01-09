@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "“Jamás permitiríamos que el Estado de Chihuahua vaya a enfrentar, otra vez, un saqueo por parte de Duarte. No sería más que la reiteración de lo que hizo a lo largo de 5 de 6 años”, afirma"
-image: /uploads/2021/images-CONFERENCIA_PRENSA_EN_CUU_GOBERNADOR__(1).JPG
-video: nil
-audio: nil
-alt: Solo la participación ciudadana evitará que personas corruptas se salgan con la suya -  Gobernador
+image: "/uploads/2021/images-CONFERENCIA_PRENSA_EN_CUU_GOBERNADOR__(1).JPG"
+video: "nil"
+audio: "nil"
+alt: "Solo la participación ciudadana evitará que personas corruptas se salgan con la suya -  Gobernador"
 front: false
-section: Local
+section: "Local"
+news_id: 186901
 ---
 
 El gobernador Javier Corral Jurado exhortó a la ciudadanía a organizarse, articularse y comunicarse para mantener una vigilancia permanente sobre el proceso jurídico en contra del exgobernador, su extradición y el conjunto de los casos de la Operación Justicia para Chihuahua.

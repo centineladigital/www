@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con un doblete del delantero argentino, el conjunto culé se impuso 3-2 al Athletic de Bilbao para colocarse tercero en la clasificación"
-image: /uploads/2021/images-2507399.jpg
-video: nil
-audio: nil
-alt: Messi coloca al Barcelona en puestos de Champions
+image: "/uploads/2021/images-2507399.jpg"
+video: "nil"
+audio: "nil"
+alt: "Messi coloca al Barcelona en puestos de Champions"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 181935
 ---
 
 El FC Barcelona siguió escalando en la clasificación y se colocó tercero, entrando así en la zona de Liga de Campeones, tras vencer por 3 a 2 en su visita al Athletic de Bilbao, este miércoles en un partido que había sido aplazado en la segunda jornada de LaLiga española.

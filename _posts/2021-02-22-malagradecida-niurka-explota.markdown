@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Niurka externó que no le quedó a deber nada a su ex empleada María Inés. Comentó que ella no la amenazó, pues sigue sosteniendo que sí “la aplastará” como cucaracha."
-image: /uploads/2021/images-niurka-arremete-empleada-acuso-despido.jpg
-video: nil
-audio: nil
-alt: Malagradecida -  Niurka 'explota' contra ex empleada que la acusó; admite que sacrifica animales
+image: "/uploads/2021/images-niurka-arremete-empleada-acuso-despido.jpg"
+video: "nil"
+audio: "nil"
+alt: "Malagradecida -  Niurka 'explota' contra ex empleada que la acusó; admite que sacrifica animales"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183099
 ---
 
 Niurka, mejor conocida como La Mujer Escándalo, sigue envuelta en polémica, luego de que su ex empleada del hogar la acusara de despedirla injustificadamente y que revelara que le tenía miedo, pues la había amenazado. Además de que compartió que la cubana sacrificaba animales para hacer brujería. Ante estas acusaciones, la vedette rompió el silencio y se defendió. Admitió que sí sacrifica a animales para “darles de comer a sus santos”. En entrevista con el programa Hoy, Niurka externó que no le quedó a deber nada a su ex empleada María Inés. Comentó que ella no la amenazó, pues sigue sosteniendo que sí “la aplastará” como cucaracha,

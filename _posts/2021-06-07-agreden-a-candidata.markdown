@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La aspirante a diputada federal fue trasladada al Hospital Fortaleza, a fin de ser sometida a una valoración"
-image: /uploads/2021/images-Agresión_candidata_pri_delicias.jpeg
-video: nil
-audio: nil
-alt: Agreden a candidata del PRI en Delicias
+image: "/uploads/2021/images-Agresión_candidata_pri_delicias.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Agreden a candidata del PRI en Delicias"
 front: false
-section: Local
+section: "Local"
+news_id: 184885
 ---
 
 La candidata del PRI a la diputación local por el XIX distrito, Jessica Jurado Cueto, fue agredida esta tarde por individuos que le causaron lesiones en diferentes partes del cuerpo.

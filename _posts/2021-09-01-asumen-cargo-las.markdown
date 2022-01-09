@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La asignación de 28 direcciones y 36 subdirecciones se llevó a cabo de acuerdo a los resultados del concurso de oposición para la promoción de cargos  "
-image: /uploads/2021/images-cobach_(7).jpeg
-video: nil
-audio: nil
-alt: Asumen cargo las y los nuevos directores y subdirectores de planteles Cobach en todo el estado
+image: "/uploads/2021/images-cobach_(7).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Asumen cargo las y los nuevos directores y subdirectores de planteles Cobach en todo el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 187333
 ---
 
 El Colegio de Bachilleres del Estado de Chihuahua (Cobach) dio posesión de su nuevo cargo a 28 directoras y directores, así como a 36 subdirectores de planteles en la entidad, como resultado del concurso que realizó la Unidad del Sistema para la Carrera de las Maestras y Maestros (USICAMM), para cubrir dichas plazas.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante compartió que la composición que formará parte de su nueva producción y está estrenando con un video, lo escribió hace 17 años."
-image: /uploads/2021/images-ana-barbara-presentar-fruta-prohibida_0_137_960_597_(1).jpeg
-video: nil
-audio: nil
-alt: Ana Bárbara estrena su “Fruta Prohibida”
+image: "/uploads/2021/images-ana-barbara-presentar-fruta-prohibida_0_137_960_597_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Ana Bárbara estrena su “Fruta Prohibida”"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183949
 ---
 
 Después de protagonizar los Latin American Music Awards como conductora, Ana Bárbara anunció el estreno de su nueva canción “Fruta Prohibida”, tema que escribió hace más de 17 años y que interpreta Ángela Aguilar, quien hizo una versión que se encuentra en sus redes sociales. La cantante compartió que, a pesar de que habían pasado muchos años desde que compuso el tema, hasta ahora se sintió con la necesidad de compartirlo con su público. Además, atribuye esto a su madurez como artista y a la fuerza con ha adquirido con el pasar de los años. 

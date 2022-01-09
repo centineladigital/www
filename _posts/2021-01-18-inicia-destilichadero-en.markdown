@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Dos acciones de destilichadero, el tradicional y la recolección de árboles de navidad."
-image: /uploads/2021/images-RICARDO_MARTINEZ.jpg
-video: nil
-audio: /uploads/2021/audio-ML06_RICARDO_MARTINEZ.mp3
-alt: Inicia Destilichadero en Chihuahua
+image: "/uploads/2021/images-RICARDO_MARTINEZ.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML06_RICARDO_MARTINEZ.mp3"
+alt: "Inicia Destilichadero en Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 182228
 ---
 
 Dos eventos de destilichadero se llevarán a cabo dentro del municipio de Chihuahua esto luego de ser suspendido en el mes de diciembre, según fue dado a conocer por parte del titular de la Dirección de Servicios Públicos Municipales, Ricardo Martínez García.

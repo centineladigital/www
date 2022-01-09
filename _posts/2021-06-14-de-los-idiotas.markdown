@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El músico reveló que Mark Zuckerberg le propuso comprar una canción de Pink Floyd por una enorme cantidad de dinero; señaló que su respuesta al empresario fue un ¡Vete a la mierda!. "
-image: /uploads/2021/images-roger-waters-insulta-mark-zuckerberg.jpg
-video: nil
-audio: nil
-alt: De los idiotas más poderosos -  Roger Waters insulta a Mark Zuckerberg por intentar comprar canción
+image: "/uploads/2021/images-roger-waters-insulta-mark-zuckerberg.jpg"
+video: "nil"
+audio: "nil"
+alt: "De los idiotas más poderosos -  Roger Waters insulta a Mark Zuckerberg por intentar comprar canción"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185027
 ---
 
 Roger Waters, cofundador de Pink Floyd -una de las bandas de rock más influyentes y exitosas en la historia de la música-, declaró que su música no está en venta con un polémico mensaje dirigido a Mark Zuckerberg, director ejecutivo de Facebook, quien pretendía adquirir los derechos de una de las canciones de la agrupación británica. Durante una conferencia que se llevó a cabo el viernes en apoyo a Julian Assange, fundador y portavoz de WikiLeaks, Roger Waters reveló que el creador de Facebook le había enviado una carta en la que expresaba sus deseos de comprar por una "enorme cantidad de dinero" una de las canciones más populares de Pink Floyd, pero ¿qué tema musical era y para qué quería los derechos Zuckerberg?  

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Federación no se ha incorporado en la mesa de trabajo del Estado."
-image: /uploads/2021/images-ESPINOZA.jpg
-video: nil
-audio: /uploads/2021/audio-MV06_JORGE_ESPINOZA.mp3
-alt: Estado interpondrá queja contra la Federación por mesa de seguridad
+image: "/uploads/2021/images-ESPINOZA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV06_JORGE_ESPINOZA.mp3"
+alt: "Estado interpondrá queja contra la Federación por mesa de seguridad"
 front: false
-section: Local
+section: "Local"
+news_id: 183187
 ---
 
 El Estado interpondrá queja por simulación de la Federación en regreso a Mesa de Seguridad, fueron las palabras del Consejero Jurídico, Jorge Espinoza Cortés, esto luego de que se giró un oficio en el sentido de que representantes del Estado asistan a reuniones. 

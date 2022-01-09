@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "También clausuraron tres eventos por exceder el número de asistentes"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Atendieron Células COVID del Municipio 38 fiestas en fin de semana
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Atendieron Células COVID del Municipio 38 fiestas en fin de semana"
 front: false
-section: Local
+section: "Local"
+news_id: 183423
 ---
 
 Un total de 38 fiestas y reuniones escandalosas, así como tres clausuras por exceder el aforo de personas, entre ellas bares y restaurantes, fue el saldo reportado de los operativos realizados por las Células COVID del Municipio durante el pasado fin de semana en la capital del estado, mismos que continuarán para prevenir más contagios por el coronavirus.

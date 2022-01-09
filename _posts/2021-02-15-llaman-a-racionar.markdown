@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Usos de agua para la preparación de alimentos, higiene y salud. "
-image: /uploads/2021/images-OSCAR.jpg
-video: nil
-audio: /uploads/2021/audio-ML07.mp3
-alt: Llaman a racionar el agua
+image: "/uploads/2021/images-OSCAR.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML07.mp3"
+alt: "Llaman a racionar el agua"
 front: false
-section: Local
+section: "Local"
+news_id: 182942
 ---
 
 Una racionalización de agua es lo que exhortó el titular de la Junta Central de Agua y Saneamiento, Oscar Ibañez, ya que aún no se tiene conocimiento de cuando se normalizará el suministro de agua. Esto ante la problemática que se registró en la Comisión de Electricidad en todo el estado.

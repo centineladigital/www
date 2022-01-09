@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El entrenador del PSG ilusionó con la posible convocatoria de sus tres figuras para el duelo de la jornada 4 de la Ligue 1 contra el Reims "
-image: /uploads/2021/images-messi-mbappe-jugar-juntos-reims_0_14_1200_747.jpeg
-video: nil
-audio: nil
-alt: El tridente de Europa -  Neymar, Mbappé y Messi podrían jugar contra el Reims
+image: "/uploads/2021/images-messi-mbappe-jugar-juntos-reims_0_14_1200_747.jpeg"
+video: "nil"
+audio: "nil"
+alt: "El tridente de Europa -  Neymar, Mbappé y Messi podrían jugar contra el Reims"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187225
 ---
 
 El entrenador del París Saint-Germain (PSG), el argentino Mauricio Pochettino, avanzó este sábado que Kylian Mbappé y Leo Messi estarán "seguramente" dentro de los convocados para el encuentro de liga de mañana ante el Reims, aunque no precisó si jugarán. 

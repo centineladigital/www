@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ichife está a cargo de instalar 4 aulas, embanquetado y alumbrado en beneficio de 461 estudiantes, así como el personal de la institución pedagógica"
-image: /uploads/2021/images-CONSTRUCCIÓN_2.jpg
-video: nil
-audio: nil
-alt: Comienza construcción del segundo edificio del Campus Creel de Upnech
+image: "/uploads/2021/images-CONSTRUCCIÓN_2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Comienza construcción del segundo edificio del Campus Creel de Upnech"
 front: false
-section: Local
+section: "Local"
+news_id: 182032
 ---
 
 Con el objetivo de habilitar espacios para el óptimo desarrollo de alumnado y personal, la Universidad Pedagógica Nacional del Estado de Chihuahua (Upnech) inició la construcción de un segundo edificio en el Campus Creel, en Bocoyna.

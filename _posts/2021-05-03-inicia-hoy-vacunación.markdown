@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Hospitales militares serán sede."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-ML04_JAVIER_CORRAL.mp3
-alt: Inicia hoy vacunación a personal de salud privado
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04_JAVIER_CORRAL.mp3"
+alt: "Inicia hoy vacunación a personal de salud privado"
 front: false
-section: Local
+section: "Local"
+news_id: 184256
 ---
 
 Este lunes dio inicio al programa de vacunación de personal de salud del área privada, señaló el Gobernador del Estado, Javier Corral Jurado. Esto luego de que se realizó un censo a través de las diferentes enlaces dentro de cada una de las instalaciones privadas.

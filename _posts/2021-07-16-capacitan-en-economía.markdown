@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El investigador y consultor en normatividad cultural y administrativa, José Manuel Hermosillo,  impartió la conferencia “¿Cómo incorporar y vincular la actividad cultural a nuestro modelo de competencia económico?” "
-image: /uploads/2021/images-IMG_0052.JPG
-video: nil
-audio: nil
-alt: Capacitan en “economía naranja” a gestores turísticos  en el II Encuentro Interestatal de Cultura
+image: "/uploads/2021/images-IMG_0052.JPG"
+video: "nil"
+audio: "nil"
+alt: "Capacitan en “economía naranja” a gestores turísticos  en el II Encuentro Interestatal de Cultura"
 front: false
-section: Local
+section: "Local"
+news_id: 185735
 ---
 
 Como parte del II Encuentro Interestatal de Cultura, organizado por la Secretaría de Cultura, las y los empresarios y gestores turísticos locales, participaron en la conferencia “¿Cómo incorporar y vincular la actividad cultural a nuestro modelo de competencia económico?”, en la que se abordaron temas en torno a la actividad financiera de la cultura inmersa en el sector público y privado, denominada “economía naranja”.

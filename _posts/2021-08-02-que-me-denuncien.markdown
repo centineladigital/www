@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Horacio Villalobos acosó sexualmente a compañeros de TV Azteca? En Chisme No Like revelaron que el conductor había cometido acoso sexual."
-image: /uploads/2021/images-horacio-villalobos-responde-a-criticas.jpg
-video: nil
-audio: nil
-alt: “Que me denuncien” -  Horacio Villalobos de 'VLA' responde tras acusación en su contra por acoso sexual
+image: "/uploads/2021/images-horacio-villalobos-responde-a-criticas.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Que me denuncien” -  Horacio Villalobos de 'VLA' responde tras acusación en su contra por acoso sexual"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186184
 ---
 
 Horacio Villalobos, conductor de Venga la Alegría, rompió el silencio sobrelas recientes acusaciones que hicieron en su contra sobre presunto acoso sexual. El presentador de televisión respondió a los señalamiento que hicieron en el programa Chisme No Like en su pasada emisión del 30 de julio. ¿Horacio Villalobos acosó sexualmente a compañeros de TV Azteca?  Y es que de acuerdo con el programa Chisme No Like, Horacio Villalobos de Venga la Alegría acosó a Dennis Arana, ex participante de “La Academia” y “Survivor México” y a Robbie Mora ex Wapayaso. 

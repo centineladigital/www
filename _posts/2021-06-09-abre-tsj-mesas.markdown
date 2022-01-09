@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Presenta el Poder Judicial esquemas para implementación de la reforma laboral en el estado"
-image: /uploads/2021/images-TSJ2.jpeg
-video: nil
-audio: /uploads/2021/audio-MW06_ISRAEL_RIVERA.mp3
-alt: Abre TSJ mesas de trabajo
+image: "/uploads/2021/images-TSJ2.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MW06_ISRAEL_RIVERA.mp3"
+alt: "Abre TSJ mesas de trabajo"
 front: false
-section: Local
+section: "Local"
+news_id: 184951
 ---
 
 Debido al inicio de las acciones de la reforma entra en vigor en mayo del año 2022 el Tribunal Superior de Justicia lleva a cabo acciones para la capacitación de su personal, por lo que el Poder Judicial realizará mesas de trabajo para escuchar a los sectores afines al tema, para construir un proyecto consensado y funcional.

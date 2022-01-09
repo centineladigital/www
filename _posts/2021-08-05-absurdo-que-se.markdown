@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "“La defensa de Duarte da cachetadas en una pelea de box señala Jorge Espinoza."
-image: /uploads/2021/images-ESPINOZA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ04_JORGE_ESPINOZA.mp4
-alt: Absurdo que se caiga extradición -  Consejero
+image: "/uploads/2021/images-ESPINOZA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ04_JORGE_ESPINOZA.mp4"
+alt: "Absurdo que se caiga extradición -  Consejero"
 front: false
-section: Local
+section: "Local"
+news_id: 186356
 ---
 
 Como absurdo calificó el Consejero Jurídico el comunicado donde asevera la defensa de César Duarte al señalar que no habrá extradición, esto ya que no es posible que se “caiga” este proceso, afirmando que “la defensa de Duarte da cachetadas en una pelea de box”.

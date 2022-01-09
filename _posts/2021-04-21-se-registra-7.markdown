@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: " Si no se controla, la crisis de salud puede incrementarse más en comparación con la segunda ola de hace 7 meses: Gilberto Aquino"
-image: /uploads/2021/images-IMG_1242.JPG
-video: nil
-audio: nil
-alt: Se registra 7% más de movilidad que cuando se dio el máximo pico de contagios, alerta investigador
+image: "/uploads/2021/images-IMG_1242.JPG"
+video: "nil"
+audio: "nil"
+alt: "Se registra 7% más de movilidad que cuando se dio el máximo pico de contagios, alerta investigador"
 front: false
-section: Local
+section: "Local"
+news_id: 184026
 ---
 
 El estado de Chihuahua registra actualmente una movilidad del 7 por ciento mayor a la que se registró en octubre, lo cual es crítico porque si no se controla este aspecto la crisis de salud puede ser mayor a la que se presentó en hace siete meses, expresó Gilberto Aquino, investigador de la Universidad Autónoma de Chihuahua (UACh).

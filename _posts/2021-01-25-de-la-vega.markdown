@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Realiza dos nombramientos Javier Corral por cuestiones de salud del anterior subcoordinador ejecutivo de Gabinete, Mario Dena"
-image: /uploads/2021/images-DSC_1161.JPG
-video: nil
-audio: nil
-alt: De la Vega es nueva representante del Gobernador en Juárez; Antonio Fernández en SIDE
+image: "/uploads/2021/images-DSC_1161.JPG"
+video: "nil"
+audio: "nil"
+alt: "De la Vega es nueva representante del Gobernador en Juárez; Antonio Fernández en SIDE"
 front: false
-section: Local
+section: "Local"
+news_id: 182426
 ---
 
 El gobernador Javier Corral tomó protesta a Alejandra De la Vega como su representante en Juárez y nueva subcoordinadora ejecutiva de Gabinete Zona Norte, mientras que para ocupar el cargo que la juarense deja en la Secretaría de Innovación y Desarrollo Económico (SIDE), fue nombrado Antonio Eduardo Fernández Domínguez.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "ASí como se acreditaron 12 muertes de personas que vivian en Chihuahua y Juárez."
-image: /uploads/2021/images-diapositiva3-332.jpg
-video: nil
-audio: /uploads/2021/audio-MV03_GUMARO_BARRIOS._.mp3
-alt: Detectan 158 nuevos casos de coronavirus
+image: "/uploads/2021/images-diapositiva3-332.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV03_GUMARO_BARRIOS._.mp3"
+alt: "Detectan 158 nuevos casos de coronavirus"
 front: false
-section: Local
+section: "Local"
+news_id: 184351
 ---
 
 Un total de 158 nuevos casos de coronavirus fueron detectados en tan sólo 24 horas, mientras que se acreditaron 12 muertes dentro del estado, según fue dado a conocer por parte del Subdirector de Epidemiología Gumaro Barrios Gallegos.

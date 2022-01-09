@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Estos servicios habían disminuido debido a la pandemia por Covid-19; se priorizaron procesos para fortalecer cirugía y medicina de alta especialidad, precisa"
-image: /uploads/2021/images-68d1ed47-a1e9-4548-b233-8877375ec3d8.tmp
-video: nil
-audio: nil
-alt: Reabre IMSS atención general, ginecológica, oncológica…
+image: "/uploads/2021/images-68d1ed47-a1e9-4548-b233-8877375ec3d8.tmp"
+video: "nil"
+audio: "nil"
+alt: "Reabre IMSS atención general, ginecológica, oncológica…"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184009
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) reabrió el fin de semana atenciones en cirugía general, oncología, ginecología, oftalmología, entre otros, con lo cual comenzó la recuperación de sus servicios médicos que fueron disminuidos a causa de la pandemia de COVID-19.

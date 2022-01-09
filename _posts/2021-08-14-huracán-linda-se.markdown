@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El centro del Huracán Linda categoría 3 se localiza al suroeste de las costas de Baja California Sur, y a 10 km al noroeste de Isla Clarión, Colima"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt:  Huracán Linda se intensifica a categoría 3 en el Pacífico
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: " Huracán Linda se intensifica a categoría 3 en el Pacífico"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186692
 ---
 
 El huracán "Linda" se intensificó a categoría 3 en la escala Saffir-Simpson en las últimas horas, informó el Servicio Meteorológico Nacional (SMN).

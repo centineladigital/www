@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La titular de la Segob asegura que calificación de Transparencia Internacional es buena noticia para el país, la población y el gobierno; avanza el país al lugar 124 de 180 naciones calificadas"
-image: /uploads/2021/images-2519860.jpg
-video: nil
-audio: nil
-alt: Celebra Sánchez Cordero mejoría de México en ranking de corrupción
+image: "/uploads/2021/images-2519860.jpg"
+video: "nil"
+audio: "nil"
+alt: "Celebra Sánchez Cordero mejoría de México en ranking de corrupción"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182510
 ---
 
 La secretaria de Gobernación (Segob), Olga Sánchez Cordero, calificó como una buena noticia que mejore seis lugares la percepción de corrupción del país, de acuerdo con Transparencia Internacional.

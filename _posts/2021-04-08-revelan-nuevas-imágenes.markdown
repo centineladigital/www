@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Salieron a la luz nuevas fotos del rodaje de la serie 'live action' en las que se observa a las actrices que darán vida a las chicas superpoderosas portar los icónicos trajes. "
-image: /uploads/2021/images-revelan-fotos-rodaje-live-action_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Revelan nuevas imágenes del 'live action' de 'Las chicas superpoderosas'; así lucen
+image: "/uploads/2021/images-revelan-fotos-rodaje-live-action_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Revelan nuevas imágenes del 'live action' de 'Las chicas superpoderosas'; así lucen"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183763
 ---
 
 Las chicas superpoderosas son una de las caricaturas clave de la infancia de muchos, por lo que el anuncio de que estaba en marcha una serie live action no sólo despertó la nostalgia de los fans, también generó grandes expectativas. A tan sólo unas semanas de que se revelara al elenco, por fin, se compartieron las primeras imágenes de la nueva producción que llegará muy pronto a la pantalla chica.  La nueva serie seguirá las aventuras y vida de las versiones adultas de las tres protagonistas. La trama tendrá lugar 20 años después del estreno de la caricatura en 1998, cuando Bombón, Burbuja y Bellota ya tienen alrededor de 25 años de edad, informó el medio The Hollywood Reporter. 

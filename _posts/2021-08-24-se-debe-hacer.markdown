@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se tiene que hacer un esfuerzo mayúsculo en el área de las unidades deportivas aclaró."
-image: /uploads/2021/images-HYGBYH.jpg
-video: /uploads/2021/videos-WhatsApp_Video_2021-08-24_at_2.39.14_PM.mp4
-audio: nil
-alt: Se debe hacer esfuerzo en las unidades deportivas 
+image: "/uploads/2021/images-HYGBYH.jpg"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-08-24_at_2.39.14_PM.mp4"
+audio: "nil"
+alt: "Se debe hacer esfuerzo en las unidades deportivas "
 front: false
-section: Local
+section: "Local"
+news_id: 187073
 ---
 
 Juan José  Abdo Fierro regidor de la comisión del deporte confía en que su sucesor tenga un perfil de seguimiento ante los trabajos realizados por parte de esta administración en la comisión de deporte, "se tiene que hacer un esfuerzo mayúsculo en el área de las unidades deportivas" aclaró, ya que existe mucha infraestructura pero se ha dejado a un lado algunos lugares con mucha rentabilidad.

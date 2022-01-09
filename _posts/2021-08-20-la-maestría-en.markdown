@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: " Debido a la contingencia continuará la UACH con clases por medio de plataformas virtuales "
-image: /uploads/2021/images-UACH.jpg
-video: /uploads/2021/videos-enrique_villalobos.mp4
-audio: nil
-alt: La maestría en derechos humanos será virtual 
+image: "/uploads/2021/images-UACH.jpg"
+video: "/uploads/2021/videos-enrique_villalobos.mp4"
+audio: "nil"
+alt: "La maestría en derechos humanos será virtual "
 front: false
-section: Local
+section: "Local"
+news_id: 186958
 ---
 
 Para esta segunda generación del posgrado en derechos humanos  el doctor Enrique Villalobos Lozano confirmó que por motivos de contingencia continuarán con esta maestría de manera virtual, ya que de esta manera se estuvo trabajando en la primera generación de este posgrado.

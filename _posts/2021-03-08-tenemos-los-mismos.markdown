@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En esta familia pensamos que el rosa no es exclusivo de niñas, ni el azul de los niños, señaló la conductora a través de su cuenta en Instagram. "
-image: /uploads/2021/images-conductora-compartio-mensaje-proposito-internacional.jpg
-video: nil
-audio: nil
-alt: Tenemos los mismos derechos -  Tania Rincón se pronuncia contra la violencia hacia las mujeres
+image: "/uploads/2021/images-conductora-compartio-mensaje-proposito-internacional.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tenemos los mismos derechos -  Tania Rincón se pronuncia contra la violencia hacia las mujeres"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183347
 ---
 
 Este lunes 8 de marzo, Día Internacional de la Mujer, varias celebridades mexicanas se han pronunciado contra la violencia que viven las féminas en el país, tal es el caso de Danna Paola, quien criticó que el gobierno cuida más a los monumentos que a las mujeres, y Natalia Téllez, quien exigió un alto a la violencia de género.  A estos mensajes que piden respeto, equidad y seguridad, también se sumó la conductora Tania Rincón, pues a través de su cuenta de Instagram compartió unas palabras de reflexión con sus seguidores. 

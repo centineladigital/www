@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En audiencia final desestima la juez intento de la defensa de introducir los audios del exsecretario de Hacienda en el caso y se declara lista para la resolución final"
-image: /uploads/2021/images-DAH_1617.JPG
-video: nil
-audio: nil
-alt: Es clara la causa probable para extradición de exgobernador; jueza decidirá en breve y por escrito
+image: "/uploads/2021/images-DAH_1617.JPG"
+video: "nil"
+audio: "nil"
+alt: "Es clara la causa probable para extradición de exgobernador; jueza decidirá en breve y por escrito"
 front: false
-section: Local
+section: "Local"
+news_id: 182456
 ---
 
 Por lo ocurrido en la audiencia de presentación de argumentos finales, se puede adelantar que hay una causa probable para la extradición del exgobernador de Chihuahua, preso en Miami acusado de peculado y asociación delictuosa, informó el consejero jurídico de Gobierno del Estado Jorge Espinoza Cortés.

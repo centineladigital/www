@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa Protección Civil que las lluvias podrían estar acompañadas de descargas eléctricas y caída de granizo"
-image: /uploads/2021/images-postal_calor_cuu.JPG
-video: nil
-audio: nil
-alt: Pronostican clima caluroso y lluvias en el estado para este viernes 4
+image: "/uploads/2021/images-postal_calor_cuu.JPG"
+video: "nil"
+audio: "nil"
+alt: "Pronostican clima caluroso y lluvias en el estado para este viernes 4"
 front: false
-section: Local
+section: "Local"
+news_id: 184838
 ---
 
 Este viernes 4 de junio se pronostica un clima muy caluroso en la mayoría de los municipios del estado, así como lluvias acompañadas de descargas eléctricas y granizo en Ciudad Juárez, Chihuahua, Parral, Cuauhtémoc, Madera, Guerrero, Bocoyna, Guachochi, Camargo y Delicias, informó la Coordinación Estatal de Protección Civil (CEPC).

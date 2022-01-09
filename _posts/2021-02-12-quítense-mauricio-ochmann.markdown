@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Mauricio Ochmann, actor y ex pareja de Aislinn Derbez, armó una persecución a su llegada al Aeropuerto de la Ciudad de México debido a que no encontraba a su hija. "
-image: /uploads/2021/images-mauricio-ochmann-pierde-vista-hija.jpg
-video: nil
-audio: nil
-alt: Quítense -  Mauricio Ochmann arma zafarrancho en aeropuerto al perder de vista a su hija
+image: "/uploads/2021/images-mauricio-ochmann-pierde-vista-hija.jpg"
+video: "nil"
+audio: "nil"
+alt: "Quítense -  Mauricio Ochmann arma zafarrancho en aeropuerto al perder de vista a su hija"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182905
 ---
 
 Mauricio Ochmann, ex pareja de Aislinn Derbez, causó tremendo zafarrancho a su llegada al Aeropuerto Internacional de la Ciudad de México (AICM). Visiblemente preocupado, pidió a los reporteros que se quitaran de su paso, pues el famoso había perdido de su vista a una de sus hijas. Te contamos lo que sucedió. 

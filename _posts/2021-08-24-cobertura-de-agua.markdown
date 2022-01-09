@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En el programa Logros con Valor destaca el director ejecutivo de la JCAS casos de éxito de juntas municipales de Chihuahua que recibieron el reconocimiento de la Embajada de Israel en México  "
-image: /uploads/2021/images-Planta_tratadora.jpg
-video: nil
-audio: nil
-alt: Cobertura de agua potable al 100% en Camargo es ejemplo a nivel nacional
+image: "/uploads/2021/images-Planta_tratadora.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cobertura de agua potable al 100% en Camargo es ejemplo a nivel nacional"
 front: false
-section: Local
+section: "Local"
+news_id: 187057
 ---
 
 El director ejecutivo de Junta Central de Agua y Saneamiento (JCAS), Óscar Ibáñez Hernández, dio a conocer que el sistema gestor de presiones que opera la Junta Municipal de Agua y Saneamiento de Camargo es ejemplo a nivel nacional y fue reconocido por la Embajada de Israel en México.

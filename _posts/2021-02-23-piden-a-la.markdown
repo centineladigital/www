@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto ya que el ejército es quien lleva a cabo la vacunación."
-image: /uploads/2021/images-wendy.jpg
-video: nil
-audio: /uploads/2021/audio-MM04_WENDY_AVILA.mp3
-alt: Piden a la población no moverse de sus municipios
+image: "/uploads/2021/images-wendy.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04_WENDY_AVILA.mp3"
+alt: "Piden a la población no moverse de sus municipios"
 front: false
-section: Local
+section: "Local"
+news_id: 183112
 ---
 
 Debido a que las vacunas están destinadas para una población específica, ya que el listado se maneja con nombre y apellido. La Subdirectora de Medicina Preventiva, Wendy Ávila Coronado, exhortó a la población a no moverse de sus municipios.

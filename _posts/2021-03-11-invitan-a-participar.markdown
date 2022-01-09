@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esta feria, se llevará a cabo del 24 al 26 de marzo y tiene como objetivo el llevar a cabo actividades que recalquen la importancia de la producción de las mujeres"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Invitan a participar a Feria Virtual de empleo
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Invitan a participar a Feria Virtual de empleo"
 front: false
-section: Local
+section: "Local"
+news_id: 183389
 ---
 
 Con el fin de que empleadores y personas puedan contactarse, este jueves fue dado a conocer la convocatoria para que empresas puedan participar dentro de la Feria del Empleo Virtual para Mujeres, esto en el marco de la conmemoración del día de la Mujer. 

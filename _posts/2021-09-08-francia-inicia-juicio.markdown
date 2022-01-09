@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Entre los investigados está Salah Abdeslam, un francomarroquí que es el único atacante con vida luego de que su explosivo no se activó"
-image: /uploads/2021/images-instancia-calificada-historica-ataques-murieron_0_23_1024_637.jpg
-video: nil
-audio: nil
-alt: Francia inicia juicio contra los 20 acusados por ataques terroristas de 2015 en París
+image: "/uploads/2021/images-instancia-calificada-historica-ataques-murieron_0_23_1024_637.jpg"
+video: "nil"
+audio: "nil"
+alt: "Francia inicia juicio contra los 20 acusados por ataques terroristas de 2015 en París"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187530
 ---
 
 En un complejo de seguridad ubicado dentro de un tribunal histórico de Francia del Siglo XIII, comenzó hoy el maratónico juicio a 20 hombres acusados por su participación en los ataques del grupo Estado Islámico en París en 2015, en los que murieron 130 personas y quedó con vida uno de los atacantes. 

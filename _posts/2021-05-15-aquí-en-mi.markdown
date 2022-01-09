@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz compartió una imagen de cuando su tío era niño, a la que reaccionaron personalidades como Andrea Legarreta dando el pésame a la familia. "
-image: /uploads/2021/images-mariana-y-jaime-garza-especial_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Aquí en mi corazón -  Así recuerda la ex Timbiriche Mariana Garza a su tío, el actor Jaime Garza
+image: "/uploads/2021/images-mariana-y-jaime-garza-especial_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aquí en mi corazón -  Así recuerda la ex Timbiriche Mariana Garza a su tío, el actor Jaime Garza"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184477
 ---
 
 Luego de que el actor Jaime Garza falleciera este viernes a los 67 años, víctima de diversos padecimientos como la diabetes, su sobrina, la también actriz y ex Timbiriche Mariana Garza, conmovió a sus seguidores al compartir una fotografía de su tío cuando era niño, acompañada de un emotivo mensaje de despedida. A la publicación reaccionaron personalidades del espectáculo como Andrea Legarreta, quienes lamentaron la muerte de quien fuera esposo de Rosita Pelayo.

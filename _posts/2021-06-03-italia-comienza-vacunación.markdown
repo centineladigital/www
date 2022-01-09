@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Casi 12,4 millones de personas han sido inmunizadas, lo que corresponde al 22,85% de la población de más de 12 años"
-image: /uploads/2021/images-2588945.jpg
-video: nil
-audio: nil
-alt: Italia comienza vacunación contra Covid a adolescentes de 12 a 15 años
+image: "/uploads/2021/images-2588945.jpg"
+video: "nil"
+audio: "nil"
+alt: "Italia comienza vacunación contra Covid a adolescentes de 12 a 15 años"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184811
 ---
 
 Italia, el país europeo más afectado por la pandemia después del Reino Unido, inició este jueves la campaña de vacunación contra el Covid para todos los grupos de edad a partir de los 12 años.

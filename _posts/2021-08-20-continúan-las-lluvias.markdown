@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se pronostican lluvias para este viernes por la tarde con mayor intensidad"
-image: /uploads/2021/images-Lluvia.jpeg
-video: nil
-audio: nil
-alt: Continúan las lluvias para este fin de semana 
+image: "/uploads/2021/images-Lluvia.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Continúan las lluvias para este fin de semana "
 front: false
-section: Local
+section: "Local"
+news_id: 186928
 ---
 
 Las temperaturas registradas en la Entidad son (°C máx/min): Chihuahua 32/18.8, Juárez 32.5/22.4, Ahumada 33.8/20.9, Janos 31/15.2, Nuevo Casas Grandes 30.1/16.9, Madera 24.6/11.9, Temósachic 29.2/12.2, Cuauhtémoc 26.8/13.7, Majalca 25.8/13, Ojinaga 37/22.8, Delicias 36.1/21.5, Camargo 34.2/21.1, Jiménez 31.2/18.6, Parral 27.4/17.4, Balleza 30.8/18.3, San Juanito 25.1/9.8, Creel 24.9/10.7, Maguarichi 27.9/17.6, Chínipas 34.6/22.6, Urique 34.7/21.8, Guachochi 24.3/11.3, Chinatú 26.7/13.4, El Vergel 21/7.9. 

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se brinda también de manera virtual y/o presencial"
-image: /uploads/2021/images-unnamed_(3).jpg
-video: nil
-audio: nil
-alt: Invita Gobierno Municipal a ser parte de los grupos terapéuticos del CAPPSI
+image: "/uploads/2021/images-unnamed_(3).jpg"
+video: "nil"
+audio: "nil"
+alt: "Invita Gobierno Municipal a ser parte de los grupos terapéuticos del CAPPSI"
 front: false
-section: Local
+section: "Local"
+news_id: 187511
 ---
 
 El Gobierno Municipal a través del Centro de Atención y Prevención Psicológicas (CAPPSI) hace extensa la invitación a las y los ciudadanos para formar parte de los diversos grupos terapéuticos que se realizan cada semana en formato virtual o presencial.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las altas temperaturas amenazan varias zonas del mediterráneo, donde ya se han vivido trágicos episodios especialmente en Turquía y Grecia"
-image: /uploads/2021/images-italia-enfrenta-serie-incendios-ola_0_27_1200_746.jpg
-video: nil
-audio: nil
-alt: Bomberos enfrentan más 500 incendios en Italia; alertan riesgo para España y Portugal
+image: "/uploads/2021/images-italia-enfrenta-serie-incendios-ola_0_27_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "Bomberos enfrentan más 500 incendios en Italia; alertan riesgo para España y Portugal"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186595
 ---
 
 Los bomberos combatieron desde anoche a hoy más de 500 incendios que azotan Italia y que esta semana ya provocaron cuatro decesos, siendo este territorio otro foco de afectaciones por las llamas, sumándose a lo ocurrido hace unos días en zonas como Grecia, Turquía y España, dejando a esta última nación, junto con Portugal, nuevamente preocupada ante el riesgo por la ola de calor. 

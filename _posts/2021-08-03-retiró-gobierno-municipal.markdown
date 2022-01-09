@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se intensificaron labores de vigilancia y mantenimiento en la presente temporada de lluvias"
-image: /uploads/2021/images-unnamed_(14).jpg
-video: nil
-audio: nil
-alt: Retiró Gobierno Municipal más de 900 toneladas de basura en arroyos durante julio
+image: "/uploads/2021/images-unnamed_(14).jpg"
+video: "nil"
+audio: "nil"
+alt: "Retiró Gobierno Municipal más de 900 toneladas de basura en arroyos durante julio"
 front: false
-section: Local
+section: "Local"
+news_id: 186243
 ---
 
 La limpieza de los cauces naturales de agua es una labor indispensable que realiza el Gobierno Municipal, antes y durante la temporada de lluvias, para brindar tranquilidad y seguridad a la población; por lo cual, en el mes de julio, la Dirección de Servicios Públicos retiró 964 toneladas de residuos (maleza, basura y escombro), de cauces urbanos ubicados al norte de la ciudad.

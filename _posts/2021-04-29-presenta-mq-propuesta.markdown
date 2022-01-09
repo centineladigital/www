@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Apoyar a empresarios punto importante."
-image: /uploads/2021/images-MARCO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ06_MARCO_QUEZADA.mp3
-alt: Presenta MQ propuesta de gobierno
+image: "/uploads/2021/images-MARCO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ06_MARCO_QUEZADA.mp3"
+alt: "Presenta MQ propuesta de gobierno"
 front: false
-section: Local
+section: "Local"
+news_id: 184201
 ---
 
 La plataforma de gobierno del partido de Movimiento de Regeneración Nacional para el periodo 2021-2024 fue presentada por parte del abanderado de este organismo, Marco Adán Quezada Martínez.

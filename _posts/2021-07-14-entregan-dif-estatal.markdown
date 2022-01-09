@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La entrega de estos apoyos se realizó luego de que la producción de autoconsumo de maíz se vio afectada por la sequía."
-image: /uploads/2021/images-image00004.jpeg
-video: nil
-audio: nil
-alt: Entregan DIF Estatal y Desarrollo Rural paquetes alimentarios a 220 familias en Guagueyvo
+image: "/uploads/2021/images-image00004.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Entregan DIF Estatal y Desarrollo Rural paquetes alimentarios a 220 familias en Guagueyvo"
 front: false
-section: Local
+section: "Local"
+news_id: 185678
 ---
 
 La Secretaría de Desarrollo Rural a través de la Dirección de Alimentación y Desarrollo Comunitario del DIF Estatal, en vinculación con el Ayuntamiento de Urique, llevaron a cabo la entrega de 220 paquetes alimentarios en beneficio de igual número de familias de la comunidad de Guagueyvo, en Urique.

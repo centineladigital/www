@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El trayecto de la roca espacial sorprendió a los habitantes de varias zonas del país europeo, donde incluso se reportaron estallidos tras la situación"
-image: /uploads/2021/images-usuarios-vieron-paso-meteoro-noruega_5_0_1190_740.jpg
-video: nil
-audio: nil
-alt: Esto es raro; meteoro sorprende a Noruega e ilumina por completo el cielo
+image: "/uploads/2021/images-usuarios-vieron-paso-meteoro-noruega_5_0_1190_740.jpg"
+video: "nil"
+audio: "nil"
+alt: "Esto es raro; meteoro sorprende a Noruega e ilumina por completo el cielo"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185983
 ---
 
 Algunos miraron por sus ventanas, otros lo observaron en sus cámaras de seguridad y hubo quienes incluso estaban grabando videos para TikTok, aún así el paso de un meteoro por los cielos de Noruega no dejó de sorprender a sus habitantes, que vieron cómo la roca espacial se desplazaba provocando un inusual destello de luz en el territorio. 

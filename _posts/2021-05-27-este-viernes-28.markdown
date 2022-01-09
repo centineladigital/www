@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La jornada se realiza exclusivamente en el museo La Rodadora; también se atenderá a grupos rezagados como personas de 60 años y más que no han recibido la primera dosis, y del grupo de 50 a 59 que no pudo acudir en días previos, informa la Secretaría Estatal de Salud"
-image: /uploads/2021/images-VACUNACIÓN_EMBARAZADAS_COVID_(2).jpeg
-video: nil
-audio: nil
-alt: Este viernes 28 reciben embarazadas vacuna contra COVID-19 en Ciudad Juárez
+image: "/uploads/2021/images-VACUNACIÓN_EMBARAZADAS_COVID_(2).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Este viernes 28 reciben embarazadas vacuna contra COVID-19 en Ciudad Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 184690
 ---
 
 La Secretaría Estatal de Salud invitó a las mujeres embarazadas que viven en Ciudad Juárez, a acudir por su vacuna contra COVID-19 al museo La Rodadora, este viernes 28 de mayo en un horario de 8:00 a 18:00 horas.

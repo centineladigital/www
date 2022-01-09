@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se han invertido más de 100 millones de pesos en la adquisición de camiones y camionetas tipo van, para el traslado seguro de estudiantes"
-image: /uploads/2021/images-IMG_2918.JPG
-video: nil
-audio: nil
-alt: Cumple Gobierno del Estado la meta del programa Ronda Escolar
+image: "/uploads/2021/images-IMG_2918.JPG"
+video: "nil"
+audio: "nil"
+alt: "Cumple Gobierno del Estado la meta del programa Ronda Escolar"
 front: false
-section: Local
+section: "Local"
+news_id: 181851
 ---
 
 Durante el año pasado, el programa Ronda Escolar cumplió con la meta trazada por el gobernador Gobernador Javier Corral, de llegar a los 67 municipios del estado en apoyo a estudiantes de bajos recursos, que tienen problemas para trasladarse a sus centros escolares.

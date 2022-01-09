@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Según se informó en el Chiringuito, el estratega del conjunto merengue buscaría repatriar al astro portugués en La Liga "
-image: /uploads/2021/images-cristiano-ronaldo-paso-real-madrid_0_9_557_346.jpg
-video: nil
-audio: nil
-alt: Carlo Ancelotti habría pedido a Cristiano Ronaldo de regreso en el Real Madrid
+image: "/uploads/2021/images-cristiano-ronaldo-paso-real-madrid_0_9_557_346.jpg"
+video: "nil"
+audio: "nil"
+alt: "Carlo Ancelotti habría pedido a Cristiano Ronaldo de regreso en el Real Madrid"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186762
 ---
 
 El mercado de fichajes en el futbol europeo continúa dando de qué hablar y ahora es Cristiano Ronaldo quien suena para salir de la Juventus, aunque no sería para fichar con el PSG, sino con el Real Madrid. 

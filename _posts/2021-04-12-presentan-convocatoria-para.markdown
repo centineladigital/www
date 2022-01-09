@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se llevará a cabo registro único, podrán acceder a diversos planteles escolares."
-image: /uploads/2021/images-LILIANA.jpg
-video: nil
-audio: /uploads/2021/audio-ML07_LILIANA_ROJERO.mp3
-alt: Presentan convocatoria para fichas de educación media superior
+image: "/uploads/2021/images-LILIANA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML07_LILIANA_ROJERO.mp3"
+alt: "Presentan convocatoria para fichas de educación media superior"
 front: false
-section: Local
+section: "Local"
+news_id: 183838
 ---
 
 Este lunes inició el proceso de inscripción en el nivel medio superior, esto en un registro único que permitirá conocer la demanda de jóvenes que ingresan al primer semestre de bachillerato y preparatorias pertenecientes al sistema y subsistema de la Secretaría de Educación y Deporte.

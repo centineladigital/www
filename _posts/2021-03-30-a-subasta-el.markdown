@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un trabajador del estadio recogió el cintillo tras el empate 2-2 con Serbia y se lo dio a una organización de caridad que busca fondos para la cirugía de un bebé de seis meses con atrofia muscular espinal"
-image: /uploads/2021/images-1204df60-bc63-4a19-af34-7c71a3223d34.tmp
-video: nil
-audio: nil
-alt: A subasta el brazalete que Cristiano aventó al césped
+image: "/uploads/2021/images-1204df60-bc63-4a19-af34-7c71a3223d34.tmp"
+video: "nil"
+audio: "nil"
+alt: "A subasta el brazalete que Cristiano aventó al césped"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183607
 ---
 
 El brazalete de capitán de Portugal que Cristiano Ronaldo azotó al piso luego que le anularon un gol que hubiera significado la victoria en el partido contra Serbia por las eliminatorias mundialistas fue puesto en subasta.

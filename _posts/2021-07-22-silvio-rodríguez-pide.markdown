@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Al grito de tenemos hambre, abajo la dictadura y libertad, miles de cubanos protestaron el 11 y 12 de julio en más de 40 ciudades del país  "
-image: /uploads/2021/images-silvio.jpg
-video: nil
-audio: nil
-alt: Silvio Rodríguez pide libertad para los detenidos en Cuba
+image: "/uploads/2021/images-silvio.jpg"
+video: "nil"
+audio: "nil"
+alt: "Silvio Rodríguez pide libertad para los detenidos en Cuba"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185908
 ---
 
 Las estrofas de sus canciones son citadas con frecuencia por el presidente Miguel Díaz-Canel en sus discursos.

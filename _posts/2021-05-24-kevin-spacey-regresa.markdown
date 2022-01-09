@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor Spacey, de 61 años, interpretará un pequeño papel como detective. Al respecto, el director de la cinta, refirió que se encuentra feliz de que el famoso esté de vuelta."
-image: /uploads/2021/images-kevin-spacey-foto-ap.jpg
-video: nil
-audio: nil
-alt: Kevin Spacey regresa al cine pese acusaciones de abuso sexual en su contra
+image: "/uploads/2021/images-kevin-spacey-foto-ap.jpg"
+video: "nil"
+audio: "nil"
+alt: "Kevin Spacey regresa al cine pese acusaciones de abuso sexual en su contra"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184617
 ---
 
 Kevin Spacey, actor estadunidense, regresará al cine con un papel en una película italiana tras estar años alejado de la gran pantalla por varias acusaciones de abuso sexual, así lo señalaron este lunes los medios estadunidenses. El actor Spacey, de 61 años, interpretará un pequeño papel como detective. Al respecto, el director de la cinta, refirió que se encuentra feliz de que el famoso esté de vuelta. "Estoy muy contento de que Kevin aceptase participar en mi película", indicó Franco Nero, director de la cinta, en declaraciones a la cadena ABC. 

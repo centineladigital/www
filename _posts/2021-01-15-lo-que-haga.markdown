@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Para Andrea Escalona, lo que su ex Daniel Bisogno haga en la cama no tiene importancia y es que el presentador de Ventaneando se ha visto envuelto en rumores sobre su sexualidad. Así lo defendió la conductora de Hoy. "
-image: /uploads/2021/images-andrea-escalona-defiende-daniel-bisogno.jpg
-video: nil
-audio: nil
-alt: Lo que haga en su cama es de él -  Andrea Escalona defiende a Daniel Bisogno tras rumores sobre su sexualidad
+image: "/uploads/2021/images-andrea-escalona-defiende-daniel-bisogno.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lo que haga en su cama es de él -  Andrea Escalona defiende a Daniel Bisogno tras rumores sobre su sexualidad"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182165
 ---
 
 Andrea Escalona, conductora del programa Hoy, defendió a su ex pareja Daniel Bisogno, conductor de Ventaneando, debido a los múltiples rumores que hay sobre su sexualidad. Y es que aunque llevan varios años separados, la hija de Magda Rodríguez sostiene una buena relación con el polémico presentador de televisión. Te contamos cómo Escalona defendió a quien detalló amó mucho. 

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "A su llegada al aeropuerto de El Prat, Jorge Messi contestó con un lacónico sí, cuando una periodista de Atresmedia la preguntó si su hijo iba a fichar hoy por el conjunto parisino"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Lionel Messi jugará en el PSG, confirma su padre
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Lionel Messi jugará en el PSG, confirma su padre"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186497
 ---
 
 Jorge Messi, padre y representante de Leo Messi, confirmó este martes, antes de embarcarse en un vuelo privado a París, que el astro argentino jugará con el PSG esta temporada.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esta exhibición es la primera en su tipo y refleja los sentires, historias y deseos de resarcir la cultura del pueblo o’oba"
-image: /uploads/2021/images-3IMG_3073.jpg
-video: nil
-audio: nil
-alt: Inauguran exposición de textiles “El pueblo pima está aquí” en Arte Popular Chihuahua
+image: "/uploads/2021/images-3IMG_3073.jpg"
+video: "nil"
+audio: "nil"
+alt: "Inauguran exposición de textiles “El pueblo pima está aquí” en Arte Popular Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 186961
 ---
 
 La Comisión Estatal para los Pueblos Indígenas (Coepi), en conjunto con el Fomento y Desarrollo Artesanal del Estado de Chihuahua (Fodarch), inauguró la muestra de textiles del pueblo o’oba, titulada Oixkama o’óba aantim dara ia’i, “El pueblo pima está aquí", en las instalaciones de Arte Popular Chihuahua.

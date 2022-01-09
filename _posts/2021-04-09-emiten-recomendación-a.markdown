@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Por detención ilegal a una pareja, tortura y agresión sexual."
-image: /uploads/2021/images-t1.png
-video: nil
-audio: /uploads/2021/audio-MV06_TANIA_SERRANO.mp3
-alt: Emiten recomendación a policías de Ciudad Juárez
+image: "/uploads/2021/images-t1.png"
+video: "nil"
+audio: "/uploads/2021/audio-MV06_TANIA_SERRANO.mp3"
+alt: "Emiten recomendación a policías de Ciudad Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 183792
 ---
 
 Por detención ilegal a una pareja, tortura y agresión sexual la Comisión Estatal de los Derechos Humanos de Chihuahua emitió la Recomendación 04/21 al Presidente Municipal de Juárez, Carlos Ponce Torres, según fue dado a conocer por parte de la titular del área de comunicación de este organismo, Tania Serrano.

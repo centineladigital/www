@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Central Campesina Independiente lanzó la voz de alerta ante el bajo nivel que registran las 16 presas de uso agrícola en México, lo que limitará la producción de maíz"
-image: /uploads/2021/images-2550568.jpg
-video: nil
-audio: nil
-alt: Bajo nivel de presas impactará producción de maíz en México
+image: "/uploads/2021/images-2550568.jpg"
+video: "nil"
+audio: "nil"
+alt: "Bajo nivel de presas impactará producción de maíz en México"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183536
 ---
 
 La Central Campesina Independiente (CCI), lanzó la voz de alerta ante el bajo nivel que registran las 16 presas de uso agrícola en México, lo que limitará la producción de maíz y provocará un aumento en las importaciones del grano.

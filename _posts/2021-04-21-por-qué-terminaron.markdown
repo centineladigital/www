@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Qué fue lo que pasó? ¿Por qué terminaron? Con una transmisión en vivo y un mensaje por Instagram, Anuel AA y Karol G confirmaron la noticia de que terminaron su relación amorosa. "
-image: /uploads/2021/images-medios-aseguran-cantantes-llevan-meses.jpg
-video: nil
-audio: nil
-alt: ¿Por qué terminaron? Anuel AA y Karol G anuncian ruptura amorosa
+image: "/uploads/2021/images-medios-aseguran-cantantes-llevan-meses.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Por qué terminaron? Anuel AA y Karol G anuncian ruptura amorosa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184020
 ---
 
 Karol G y el cantante Anuel AA hicieron oficial su ruptura amorosa. La pareja de cantantes de reguetón revelaron que ya no son novios, esto luego de que se especulara sobre el tema y que los rumores aumentaran. ¿Qué fue lo que pasó? ¿Por qué terminaron? A través de una transmisión en vivo se dio a conocer la ruptura, así como desde un mensaje desde Instagram. Para poner fin a los dimes y diretes sobre la relación amorosa, Karol G y el cantante Anuel AA hicieron oficial que ya no son pareja. En una transmisión en vivo, Anuel reveló que llevan casi cuatro meses de que tomaron esta decisión, aunque reiteró que su amor por la cantante de Bichota sigue estando presente. “Karol y yo como 4 meses que no estamos juntos y no tenemos mala relación ni mala comunicación”, explicó Anuel AA. 

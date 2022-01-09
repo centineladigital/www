@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Estudio de Coneval indica que de 2018 a 2020 avanzó 4 posiciones a nivel nacional y se ubica con mejores resultados para atender la pobreza, el rezago educativo, el acceso a la seguridad social y a una alimentación nutritiva y de calidad  "
-image: /uploads/2021/images-Pobreza_2018-2020_CHIH.jpg
-video: nil
-audio: nil
-alt: Chihuahua mejora y ocupa el 3er lugar con menor porcentaje de población en situación de pobreza
+image: "/uploads/2021/images-Pobreza_2018-2020_CHIH.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chihuahua mejora y ocupa el 3er lugar con menor porcentaje de población en situación de pobreza"
 front: false
-section: Local
+section: "Local"
+news_id: 186419
 ---
 
 Chihuahua se convirtió en el tercer estado del país con el menor porcentaje de población en situación de pobreza, sólo superado por Nuevo León y Baja California, de acuerdo al último informe del Consejo Nacional de Evaluación de la Política de Desarrollo Social (Coneval). Apenas en 2018, el estado se ubicaba en el lugar número siete en ese indicador relacionado a la atención de la pobreza, por lo que solo en dos años correspondientes a la actual Administración estatal de Javier Corral, avanzó cuatro posiciones.

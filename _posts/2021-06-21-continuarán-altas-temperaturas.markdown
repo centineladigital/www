@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "No se esperan precipitaciones para esta semana"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Continuarán altas temperaturas en la ciudad -  Protección Civil Municipal
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Continuarán altas temperaturas en la ciudad -  Protección Civil Municipal"
 front: false
-section: Local
+section: "Local"
+news_id: 185132
 ---
 
 Altas temperaturas que podrían alcanzar los 39 grados Celsius es lo que se espera para esta semana en la capital del estado, de acuerdo a datos de la Coordinación Municipal de Protección Civil, según el pronóstico que emite el Servicio Meteorológico Nacional, por ello es importante continuar acatando las recomendaciones que emite la autoridad para prevenir deshidrataciones y enfermedades derivadas del calor.

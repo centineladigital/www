@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los trastornos de ansiedad aumentaron con la pandemia y son los más comunes en la población mexicana."
-image: /uploads/2021/images-Foto_301-3.jpeg
-video: nil
-audio: nil
-alt: Los problemas de salud mental a consecuencia de la pandemia son atendidos por el IMSS
+image: "/uploads/2021/images-Foto_301-3.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Los problemas de salud mental a consecuencia de la pandemia son atendidos por el IMSS"
 front: false
-section: Local
+section: "Local"
+news_id: 185715
 ---
 
 Ante el aumento de casos de derechohabientes con trastornos de ansiedad y estrés a causa de la pandemia por COVID-19, el Instituto Mexicano del Seguro Social (IMSS) brinda atención integral en salud mental a través de sus servicios de Psicología y Psiquiatría. 

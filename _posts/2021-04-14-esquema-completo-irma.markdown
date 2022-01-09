@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz compartió que recibió la segunda dosis de la vacuna de Pfizer. "
-image: /uploads/2021/images-irma-serrano-recibio-dosis-marzo.jpg
-video: nil
-audio: nil
-alt: ¡Esquema completo! Irma Serrano, 'La Tigresa', se aplica segunda dosis de vacuna anticovid
+image: "/uploads/2021/images-irma-serrano-recibio-dosis-marzo.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Esquema completo! Irma Serrano, 'La Tigresa', se aplica segunda dosis de vacuna anticovid"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183878
 ---
 
 Hace un mes Irma Serrano, mejor conocida como La Tigresa, sorprendió a sus seguidores con la buena noticia de que ya había recibido la primera dosis de la vacuna anticovid y hoy compartió en sus redes sociales que ya tiene el esquema completo, pues recibió la segunda dosis del reactivo de Pfizer. Fue en su cuenta de Instagram donde la actriz publicó un mensaje acompañado de la imagen del momento en que le aplicaron la segunda dosis. “Gracias a Dios hoy tuve la oportunidad de recibir la 2da vacuna Pfizer, por favor Cuídense y a vacunarse”. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La clavadista canadiense protagonizó un error similar al de la mexicana Arantxa Chávez "
-image: /uploads/2021/images-pamela-ware-clavadista-canadiense-afp_14_0_1172_729.jpg
-video: nil
-audio: nil
-alt: Pamela Ware realiza clavado de cero y se pierde oportunidad de medalla olímpica
+image: "/uploads/2021/images-pamela-ware-clavadista-canadiense-afp_14_0_1172_729.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pamela Ware realiza clavado de cero y se pierde oportunidad de medalla olímpica"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186162
 ---
 
 Los Juegos Olímpicos de Tokio 2020 continúan dando momentos que quedaran marcados en la historia, aunque no del todo positivas; la canadiense Pamela Ware realizó un clavado que recibió 0 como calificación.  

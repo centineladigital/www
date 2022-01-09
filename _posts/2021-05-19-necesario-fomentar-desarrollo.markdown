@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Madres solicitan apoyo, esto ante situación difícil por la pandemia."
-image: /uploads/2021/images-PEDRO1.jpg
-video: nil
-audio: /uploads/2021/audio-MW05_PEDRO_BERISTAIN.mp3
-alt: Necesario fomentar desarrollo económico
+image: "/uploads/2021/images-PEDRO1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW05_PEDRO_BERISTAIN.mp3"
+alt: "Necesario fomentar desarrollo económico"
 front: false
-section: Local
+section: "Local"
+news_id: 184553
 ---
 
 Es necesario gestionar acciones para fomentar el desarrollo económico, fueron las palabras del candidato del Partido Revolucionario Institucional, Pedro Beristain por el Distrito 08 federal, dentro de su recorrido por la colonia de Villa Juárez.

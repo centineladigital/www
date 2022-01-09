@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La dependencia estatal pide a la población extremar precauciones y seguir las recomendaciones de las autoridades; en Temósachic, Ocampo, Guerrero, Urique, Guachochi, Cuauhtémoc y Cusihuiriachi se prevé una acumulación de entre 50.1 a 75 mm, mientras que en Chihuahua serán de 5.1 a 25 mm"
-image: /uploads/2021/images-lluvias_estado.jpeg
-video: nil
-audio: nil
-alt: Emite Protección Civil alerta preventiva por posibilidad de lluvias fuertes   
+image: "/uploads/2021/images-lluvias_estado.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Emite Protección Civil alerta preventiva por posibilidad de lluvias fuertes   "
 front: false
-section: Local
+section: "Local"
+news_id: 186984
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) emitió una alerta preventiva por lluvias fuertes la tarde de este sábado 21 de agosto, tanto en la ciudad de Chihuahua como en varios municipios. Detalló que se esperan precipitaciones de fuertes a puntuales muy fuertes (de 50.1 a 75 mm) en partes del occidente, suroeste y centro, que incluye a Temósachic, Ocampo, Guerrero, Urique, Guachochi, Cuauhtémoc y Cusihuiriachi.

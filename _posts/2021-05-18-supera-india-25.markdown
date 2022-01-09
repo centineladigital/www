@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Ministerio de Salud de India notifica más de 25 millones de casos de covid-19 desde el inicio de la pandemia, y reporta un récord de 4 mil 329 muertes en las últimas 24 horas"
-image: /uploads/2021/images-2580412.jpg
-video: nil
-audio: nil
-alt: Supera India 25 millones de contagios y registra nuevo récord de muertes
+image: "/uploads/2021/images-2580412.jpg"
+video: "nil"
+audio: "nil"
+alt: "Supera India 25 millones de contagios y registra nuevo récord de muertes"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184510
 ---
 
 India superó este martes los 25 millones de casos de coronavirus desde el inicio de la pandemia tras sumar más de 260 mil nuevas infecciones en las últimas 24 horas y batió un nuevo récord con 4 mil 329 fallecidos.

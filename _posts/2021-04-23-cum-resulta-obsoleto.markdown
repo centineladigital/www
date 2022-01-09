@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Ejerce más gasto corriente que obra, sumado a que cuentas no cuadran según Amín Anchondo"
-image: /uploads/2021/images-s2.jpg
-video: nil
-audio: /uploads/2021/audio-MV06_AMIN_ANCHONDO.mp3
-alt: CUM resulta obsoleto -  Síndico
+image: "/uploads/2021/images-s2.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV06_AMIN_ANCHONDO.mp3"
+alt: "CUM resulta obsoleto -  Síndico"
 front: false
-section: Local
+section: "Local"
+news_id: 184081
 ---
 
 El fucionamiento del Consejo de Urbanización Municipal resulta obsoleto, fueron las palabras del Síndico de Chihuahua, Amín Anchondo, al ser cuestionado respecto a las acciones y denuncias que se presentaron en torno al funcionamiento y malos manejos de este organismo. Destacando que entre este organismo tiene más presupuesto para gasto corriente que para obra.

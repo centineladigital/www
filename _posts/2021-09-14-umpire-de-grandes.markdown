@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El umpire recibió un pelotazo que provocó que terminara con el rostro ensangrentado "
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Umpire de Grandes Ligas sufre brutal pelotazo en el rostro durante el Cardinals vs Mets
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Umpire de Grandes Ligas sufre brutal pelotazo en el rostro durante el Cardinals vs Mets"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187707
 ---
 
 El juego entre los Cardinals de Saint Louis y los Mets de Nueva York en el Citi Field de Nueva York tuvo una acción dramática luego de que uno de los umpires sufrió un brutal pelotazo que provocó que cayera al suelo con el rostro ensangrentado.

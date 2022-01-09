@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Sostuvo una reunión con el Secretario responsable de la Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Alimentación Víctor Manuel Villalobos Arámbula."
-image: /uploads/2021/images-MARCO.jpg
-video: nil
-audio: /uploads/2021/audio-ML01_MARCO_QUEZADA.mp3
-alt: Urge un plan para combatir sequía -  Quezada
+image: "/uploads/2021/images-MARCO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML01_MARCO_QUEZADA.mp3"
+alt: "Urge un plan para combatir sequía -  Quezada"
 front: false
-section: Local
+section: "Local"
+news_id: 183696
 ---
 
 Urge que se tenga un plan para combatir la sequía en Chihuahua, señaló el candidato de Morena a la presidencia municipal, Marco Adán Quezada Martínez. Destacando que sostuvo una reunión con el Secretario responsable de la Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Alimentación Víctor Manuel Villalobos Arámbula, para tratar este tema.

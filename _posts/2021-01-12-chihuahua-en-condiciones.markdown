@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Destaca Javier Corral que los indicadores de transmisión, de contagio y baja ocupación hospitalaria, permitirán próximamente plantear en el Consejo Estatal de Salud un regreso a un amarillo con mucho cuidado pero con más actividades"
-image: /uploads/2021/images-Gobernador_Javier_Corral_en_Juárez.jpeg
-video: nil
-audio: nil
-alt: Chihuahua en condiciones de aplicar un semáforo amarillo con restricciones -  Gobernador
+image: "/uploads/2021/images-Gobernador_Javier_Corral_en_Juárez.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Chihuahua en condiciones de aplicar un semáforo amarillo con restricciones -  Gobernador"
 front: false
-section: Local
+section: "Local"
+news_id: 182086
 ---
 
 Chihuahua podría transitar próximamente a un nuevo semáforo epidemiológico que se situaría en un amarillo seguro, con restricciones de naranja, “un color mostaza”, anunció el gobernador del estado, Javier Corral Jurado.

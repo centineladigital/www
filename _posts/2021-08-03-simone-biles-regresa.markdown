@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La gimnasta estadunidense conquistó el tercer lugar en la barra de equilibrio, quedando por detrás de las chinas Tang Xijing y Sunisa Lee"
-image: /uploads/2021/images-simone-biles-medalla-bronce-barra_1_56_1198_746.jpg
-video: nil
-audio: nil
-alt: Simone Biles regresa a competir y gana el bronce en viga de equilibrio en Tokio 2020
+image: "/uploads/2021/images-simone-biles-medalla-bronce-barra_1_56_1198_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "Simone Biles regresa a competir y gana el bronce en viga de equilibrio en Tokio 2020"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186249
 ---
 
 Doble viaje de regreso, a la competición y al podio: exactamente una semana después de retirarse de la final por equipos, la estadunidense Simone Biles volvió a pisar el gimnasio Ariake y, con la excelencia que exhibe desde hace ocho años, ganó la medalla de bronce en la final de barra de equilibrio, la única en la que ha participado en los Juegos Olímpicos de Tokio 2020. 

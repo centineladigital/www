@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Hasta que determine la federación se aplicará una dosis más."
-image: /uploads/2021/images-WENDY.jpg
-video: /uploads/2021/videos-MV05_WENDY_AVILA.mp4
-audio: nil
-alt: Estado no aplicará tercera dosis de vacunas COVID
+image: "/uploads/2021/images-WENDY.jpg"
+video: "/uploads/2021/videos-MV05_WENDY_AVILA.mp4"
+audio: "nil"
+alt: "Estado no aplicará tercera dosis de vacunas COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 186672
 ---
 
 Debido a que se ha manejado la versión de que se requiere una tercera dosis para que se dé una mayor inmunidad en coronavirus, en Chihuahua no se aplicará una tercera dosis aún, según lo aseveró la subdirectora de Medicina Preventiva de la Secretaría de Salud, Wendy Ávila Coronado.

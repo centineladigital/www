@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La actual administración estatal, encabezada por el panista Javier Corral Jurado, tiene endeudada a la entidad"
-image: /uploads/2021/images-RHRHREH.jpg
-video: /uploads/2021/videos-AL05_ULISES_GARCIA.mp4
-audio: /uploads/2021/audio-AL05_ULISES_GARCIA.mp3
-alt: Maru Campos será un rival fácil de vencer -  Ulises García 
+image: "/uploads/2021/images-RHRHREH.jpg"
+video: "/uploads/2021/videos-AL05_ULISES_GARCIA.mp4"
+audio: "/uploads/2021/audio-AL05_ULISES_GARCIA.mp3"
+alt: "Maru Campos será un rival fácil de vencer -  Ulises García "
 front: false
-section: Local
+section: "Local"
+news_id: 182432
 ---
 
 El diputado federal por Morena, Ulises García Soto, aseguró que la candidata del Partido Acción Nacional (PAN) a la gubernatura por el estado de Chihuahua, Maru Campos Galván, es un rival fácil de vencer.

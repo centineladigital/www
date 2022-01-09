@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto ya que adicciones generan puntos de desintegración social."
-image: /uploads/2021/images-MARIO.jpg
-video: nil
-audio: /uploads/2021/audio-MW03_MARIO_VAZQUEZ.mp3
-alt: Necesario fomentar prevención de adicciones
+image: "/uploads/2021/images-MARIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW03_MARIO_VAZQUEZ.mp3"
+alt: "Necesario fomentar prevención de adicciones"
 front: false
-section: Local
+section: "Local"
+news_id: 184551
 ---
 
 El respaldo a las Organizaciones de la Sociedad Civil, así como el buscar crear mecanismos para prevenir las adicciones es lo que buscará el candidato del PAN al distrito décimo sexto local, Mario Vázquez Robles con el fin de trabajar en el área de la prevención y rehabilitación de adicciones.

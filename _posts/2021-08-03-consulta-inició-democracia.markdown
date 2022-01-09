@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Lamenta mandatario poca participación de la ciudadanía en consulta."
-image: /uploads/2021/images-CORRAL.jpg
-video: /uploads/2021/videos-MM05_JAVIER_CORRAL.mp4
-audio: nil
-alt: Consulta inició democracia participativa
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "/uploads/2021/videos-MM05_JAVIER_CORRAL.mp4"
+audio: "nil"
+alt: "Consulta inició democracia participativa"
 front: false
-section: Local
+section: "Local"
+news_id: 186259
 ---
 
 Pese a que la consulta fue mal planteada desde el inicio, con ella se inició la vida participativa del país, aseveró el Gobernador del Estado, Javier Corral Jurado, al ser cuestionado sobre la participación de Chihuahua dentro de este ejercicio que se llevó a cabo el domingo, lamentando por parte del mandatario la poca participación de los chihuahuenses.

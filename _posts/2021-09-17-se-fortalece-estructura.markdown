@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En seguimiento a la conformación de la estructura gubernamental del Estado para la administración 2021-2027, se convocó a más perfiles para que conformen el equipo de trabajo."
-image: /uploads/2021/images-palacio_de_gobierno.jpg
-video: nil
-audio: nil
-alt: Se fortalece estructura gubernamental con nuevos nombramientos
+image: "/uploads/2021/images-palacio_de_gobierno.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se fortalece estructura gubernamental con nuevos nombramientos"
 front: false
-section: Local
+section: "Local"
+news_id: 187821
 ---
 
 En seguimiento a la conformación de la estructura gubernamental del Estado para la administración 2021-2027, se convocó a más perfiles para que conformen el equipo de trabajo.

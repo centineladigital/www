@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa la SRE del arribo este jueves de 585 mil dosis de la farmacéutica Pfizer; el total de dosis que han llegado al país provienen de diversos países y farmacéuticas"
-image: /uploads/2021/images-2592842.jpg
-video: nil
-audio: nil
-alt: Suma México un total de 44.8 millones de vacunas recibidas
+image: "/uploads/2021/images-2592842.jpg"
+video: "nil"
+audio: "nil"
+alt: "Suma México un total de 44.8 millones de vacunas recibidas"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184961
 ---
 
 La Secretaría de Relaciones Exteriores (SRE) anunció este jueves la llegada de un cargamento de vacunas contra el Covid-19 de la farmacéutica Pfizer.

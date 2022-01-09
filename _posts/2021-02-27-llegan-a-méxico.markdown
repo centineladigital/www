@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El canciller Marcelo Ebrard acudió al Aeropuerto Internacional de la Ciudad de México acompañado del embajador de China, Zhu Qingqiao"
-image: /uploads/2021/images-2536587.jpg
-video: nil
-audio: nil
-alt: Llegan a México 800 mil vacunas Sinovac desde China
+image: "/uploads/2021/images-2536587.jpg"
+video: "nil"
+audio: "nil"
+alt: "Llegan a México 800 mil vacunas Sinovac desde China"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183189
 ---
 
 Este sábado, llegaron a México 800 mil dosis de vacunas contra covid Sinovac, informó el canciller Marcelo Ebrard.

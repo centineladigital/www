@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante habló de su parte oscura y reveló que su vida estuvo marcada por un periodo de drogas, sexo a la bestia, tabaco, sustancias y hampa. "
-image: /uploads/2021/images-miguel-bose-instagram.jpg
-video: nil
-audio: nil
-alt: He llegado a consumir dos gramos diarios -  Miguel Bosé revela cómo dejó las drogas
+image: "/uploads/2021/images-miguel-bose-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "He llegado a consumir dos gramos diarios -  Miguel Bosé revela cómo dejó las drogas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183818
 ---
 
 Miguel Bosé concedió una entrevista en el programa de Jordi Évole luego de más de cinco años de mantenerse alejado de las cámaras de la televisión española. Durante su charla con el periodista, el cantante habló a detalle de su vida privada y puso sobre la mesa su lado más vulnerable, además relató episodios de una etapa de su carrera que estuvo marcada por los excesos. 

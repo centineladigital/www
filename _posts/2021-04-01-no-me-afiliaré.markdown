@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Busca solamente lo mejor para Chihuahua."
-image: /uploads/2021/images-ELOY.jpg
-video: nil
-audio: /uploads/2021/audio-MJ02_ELOY_GARCIA.mp3
-alt: No me afiliaré al PAN -  García Tarín
+image: "/uploads/2021/images-ELOY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ02_ELOY_GARCIA.mp3"
+alt: "No me afiliaré al PAN -  García Tarín"
 front: false
-section: Local
+section: "Local"
+news_id: 183653
 ---
 
 El exsecretario del ayuntamiento en la administración de Marco Adán Quezada, Eloy García Tarín, señaló que no se afiliaría al Partido Acción Nacional, esto luego de sumarse a la campaña de Marco Antonio Bonilla a la Alcaldía por Chihuahua.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Califican como patadas de ahogado acciones de defensa de exgobernador."
-image: /uploads/2021/images-JORGE_ESPINOZA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ07_JORGE_ESPINOZA.mp3
-alt: Acciones sin fundamento defensa de exgobernador -  Consejero 
+image: "/uploads/2021/images-JORGE_ESPINOZA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ07_JORGE_ESPINOZA.mp3"
+alt: "Acciones sin fundamento defensa de exgobernador -  Consejero "
 front: false
-section: Local
+section: "Local"
+news_id: 181954
 ---
 
 Como "patadas de ahogado" calificó el Consejero Jurídico del Estado los señalamientos del exgobernador al afirmar por parte de la defensa que César Duarte corre peligro en caso de ser trasladado a Chihuahua, situación que descartó y señaló son medidas que ejercen al momento de no contar con fundamentos en sus alegatos.

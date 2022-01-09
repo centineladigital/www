@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El meteoro provocará lluvias intensas en estos estados"
-image: /uploads/2021/images-olaf-trayectoria-en-vivo-10-sept_optimized.jpg
-video: nil
-audio: nil
-alt: Así es la trayectoria de Olaf en BCS
+image: "/uploads/2021/images-olaf-trayectoria-en-vivo-10-sept_optimized.jpg"
+video: "nil"
+audio: "nil"
+alt: "Así es la trayectoria de Olaf en BCS"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187608
 ---
 
 La Comisión Nacional del Agua (Conagua) informó que a las las 04:00 horas, tiempo del centro de México, "Olaf" salió al Océano Pacífico y su centro se localizó aproximadamente a 70 kilómetros al suroeste de La Paz, Baja California Sur. Se mantiene como huracán categoría 1 en la escala Saffir-Simpson, con vientos máximos sostenidos de 140 km/h y rachas de 165 km/h.

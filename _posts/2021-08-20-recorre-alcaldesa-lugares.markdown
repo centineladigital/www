@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Entregan apoyos como hules y despensas."
-image: /uploads/2021/images-MANQUE.jpg
-video: /uploads/2021/videos-MV05_MANQUE.mp4
-audio: /uploads/2021/audio-MV06_BIANCA_NEVAREZ.mp4
-alt: Recorre Alcaldesa lugares afectados 
+image: "/uploads/2021/images-MANQUE.jpg"
+video: "/uploads/2021/videos-MV05_MANQUE.mp4"
+audio: "/uploads/2021/audio-MV06_BIANCA_NEVAREZ.mp4"
+alt: "Recorre Alcaldesa lugares afectados "
 front: false
-section: Local
+section: "Local"
+news_id: 186952
 ---
 
 “Estamos haciendo un levantamiento de las necesidades” fueron las palabras de la Alcaldesa en funciones, María Angélica Granados Tres Palacios, quien llevó a cabo una serie de recorridos en colonias afectadas entre las que se encuentran Barrio de Londres, Centro, Girasoles, entre otras, donde se han registrado afectaciones.

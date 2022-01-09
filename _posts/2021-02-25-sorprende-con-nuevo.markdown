@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante Lady Gaga está lista para filmar su segundo papel protagonista en el cine, tras la exitosa Nace una estrella (2018). "
-image: /uploads/2021/images-lady-gaga-presenta-novio-michael_0_98_958_595.jpg
-video: nil
-audio: nil
-alt: ¡Sorprende con nuevo look! Lady Gaga ya está en Roma para comenzar el rodaje de 'Gucci'
+image: "/uploads/2021/images-lady-gaga-presenta-novio-michael_0_98_958_595.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Sorprende con nuevo look! Lady Gaga ya está en Roma para comenzar el rodaje de 'Gucci'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183153
 ---
 
 Lady Gaga, quien el mes pasado impactó con su interpretación del himno nacional de Estados Unidos durante la investidura de Joe Biden, se encuentra en Roma para empezar el rodaje de Gucci, la próxima película de Ridley Scott en la que interpretará a Patrizia Reggiani, la viuda de Maurizio Gucci, jefe de la mítica casa de moda al que ella ordenó asesinar en 1995. De acuerdo con el diario británico Daily Mail, la cantante de 34 años nominada al Óscar en su debut como protagonista en la exitosa Nace una estrella (2018), se ha dejado ver por las calles de la capital con un vestido de leopardo, gafas de sol, mascarilla negra y cabello castaño, alejándose del rubio al que nos tenía acostumbrados.

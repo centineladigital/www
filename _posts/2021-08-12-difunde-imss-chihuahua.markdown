@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Es el procedimiento médico para obtener de manera individualizada una visión general de cada paciente para establecer la prioridad de su atención"
-image: /uploads/2021/images-Foto_3720-1.jpg
-video: nil
-audio: nil
-alt: Difunde IMSS Chihuahua la importancia del “Triage”
+image: "/uploads/2021/images-Foto_3720-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Difunde IMSS Chihuahua la importancia del “Triage”"
 front: false
-section: Local
+section: "Local"
+news_id: 186610
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua destaca la importancia de que la población derechohabiente conozca el sistema “Triage” para la atención médica.

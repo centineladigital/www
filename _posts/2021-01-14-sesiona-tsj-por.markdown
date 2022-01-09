@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Establecen calendario con el fin de programar actividades judiciales."
-image: /uploads/2021/images-PABLO_HECTOR_(2).jpg
-video: nil
-audio: /uploads/2021/audio-MJ05_PABLO_GONZALEZ.mp3
-alt: Sesiona TSJ por periodo vacacional
+image: "/uploads/2021/images-PABLO_HECTOR_(2).jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ05_PABLO_GONZALEZ.mp3"
+alt: "Sesiona TSJ por periodo vacacional"
 front: false
-section: Local
+section: "Local"
+news_id: 182151
 ---
 
 En sesión este jueves el Tribunal Superior de Justicia llevó a cabo una sesión con el fin de establecer los periodos vacacionales, así como los días festivos con el fin de determinar la agenda de este órgano judicial, según lo dio a conocer el Magistrado Presidente Pablo Héctor González Villalobos.

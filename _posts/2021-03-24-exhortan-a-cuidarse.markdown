@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se detectó en 24 horas 184 nuevos casos, mientras que se dio a conocer la defunción de 16 chihuahuenses."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp3
-alt: Exhortan a cuidarse por nuevas cepas de COVID
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp3"
+alt: "Exhortan a cuidarse por nuevas cepas de COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 183543
 ---
 
 Debido a que se han registrado otras cepas de coronavirus, se exhortó a la población a continuar cuidándose, esto ya que con la presencia de las vacunas muchos de los ciudadanos han relajado las medidas de seguridad, según lo declaró Arturo Valenzuela Zorrilla Director Médico Zona Norte en Chihuahua.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Robaban automotores y la plataforma se encontraba vulnerable."
-image: /uploads/2021/images-PENICHE.jpg
-video: nil
-audio: /uploads/2021/audio-MM04.mp3
-alt: Asesinos de DIDI robaban vehículos por encargo -  Fiscal 
+image: "/uploads/2021/images-PENICHE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04.mp3"
+alt: "Asesinos de DIDI robaban vehículos por encargo -  Fiscal "
 front: false
-section: Local
+section: "Local"
+news_id: 185627
 ---
 
 La muerte de los dos choferes de la plataforma DIDI se debió a que José Miguel Torres Gardea y Brayán González Carmona, los presuntos responsables de estos hechos, se dedicaban al robo de unidades por pedido y vieron en esta plataforma un sector vulnerable según lo dio a conocer el titular de la Fiscalía General del Estado.

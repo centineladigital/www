@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Publica SEyD lista de beneficiarias y beneficiarios de cuatro diferentes becas, en la página web oficial de la dependencia: http://educacion.chihuahua.gob.mx/"
-image: /uploads/2021/images-FOTOS_DE_ARCHIVO__(4).JPG
-video: nil
-audio: nil
-alt: Destinará Estado más de 6.6 millones de pesos para becas de 2,133 estudiantes
+image: "/uploads/2021/images-FOTOS_DE_ARCHIVO__(4).JPG"
+video: "nil"
+audio: "nil"
+alt: "Destinará Estado más de 6.6 millones de pesos para becas de 2,133 estudiantes"
 front: false
-section: Local
+section: "Local"
+news_id: 182339
 ---
 
 Con una inversión de 6 millones 647 mil pesos, el Gobierno del Estado a través de la Secretaría de Educación y Deporte (SEyD), beneficiará a dos mil 133 estudiantes de distintos niveles educativos, correspondientes a cuatro diferentes convocatorias de becas.

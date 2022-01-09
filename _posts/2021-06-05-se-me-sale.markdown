@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ana Bárbara compartió un momento vergonzoso que vivió gracias a que accidente que tuvo con un vestido; esto pasó. "
-image: /uploads/2021/images-ana-barbara-ensena-culpa-vestido.jpg
-video: nil
-audio: nil
-alt: Se me sale 'tocho morocho' -  Ana Bárbara sufre accidente con su vestido y enseña de más
+image: "/uploads/2021/images-ana-barbara-ensena-culpa-vestido.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se me sale 'tocho morocho' -  Ana Bárbara sufre accidente con su vestido y enseña de más"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184852
 ---
 
 Ana Bárbara es una de las cantantes que ha demostrado que tiene buen humor y que incluso sus errores los toma como anécdotas divertidas que puede compartir con sus seguidores, es por eso que la intérprete de “Lo busqué” subió un video en el que se ve que enseña de más todo gracias a su vestido. 

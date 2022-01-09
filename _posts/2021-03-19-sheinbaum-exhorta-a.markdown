@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La jefa de Gobierno señaló que para que la vacuna alcance su efectividad, se requiere que los adultos mayores acudan a aplicarse la segunda dosis"
-image: /uploads/2021/images-2548047.jpg
-video: nil
-audio: nil
-alt: Sheinbaum exhorta a aplicarse segunda dosis de vacuna anticovid
+image: "/uploads/2021/images-2548047.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sheinbaum exhorta a aplicarse segunda dosis de vacuna anticovid"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183483
 ---
 
 La jefa de Gobierno de la Ciudad de México, Claudia Sheinbaum, informó que la mayoría de los adultos mayores de las alcaldías Iztacalco, Tláhuac y Xochimilco que recibieron su primera dosis de la vacuna Sputnik V, han acudido a recibir la segunda aplicación del biológico.

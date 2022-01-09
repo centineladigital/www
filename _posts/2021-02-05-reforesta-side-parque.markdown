@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Inicia plantación de 68 encinos, por medio de la administradora Promotora para el Desarrollo Económico"
-image: /uploads/2021/images-REFORESTACIÓN_PARQUE_INDUSTRIAL_(3).jpeg
-video: nil
-audio: nil
-alt: Reforesta SIDE Parque Industrial Norte en la ciudad de Chihuahua
+image: "/uploads/2021/images-REFORESTACIÓN_PARQUE_INDUSTRIAL_(3).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Reforesta SIDE Parque Industrial Norte en la ciudad de Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 182741
 ---
 
 El Gobierno del Estado de Chihuahua, a través de SIDE y la administradora del Parque Industrial Promotora para el Desarrollo Económico, inició la plantación de 68 árboles de encino en el complejo ubicado en las avenidas Rudyard Kiplilng y Víctor Hugo, al norte de la ciudad de Chihuahua.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cinta Those Who Wish Me Dead nos permite vivir la historia que literalmente confronta sus infiernos, M2 platicó con la al respecto."
-image: /uploads/2021/images-angelina-jolie-protagoniza-nueva-pelicula.jpg
-video: nil
-audio: nil
-alt: “Esta cinta será catártica para todos˝ -  Angelina Jolie sobre 'Those Who Wish Me Dead'
+image: "/uploads/2021/images-angelina-jolie-protagoniza-nueva-pelicula.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Esta cinta será catártica para todos˝ -  Angelina Jolie sobre 'Those Who Wish Me Dead'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184362
 ---
 
 Aquellos que desean mi muerte es un muy buen titulo para describir la experiencia de brincar directo a un bosque ardiente con Angelina Jolie (AJ), quien tan espectacular como siempre, saca adelante este thriller del director Tony Sheridan (Sicario) junto con un elenco que funciona a la perfección para guiarnos a través de una persecución de vida y muerte durante el drama de los que son los grandes incendios, cada vez más comunes, en los bosques del mundo. Medina Seghnore (MS) es también una actriz, clásicamente entrenada, que logra hacer del rol de las mujeres ante el demonio, ya sea el que llega en forma de la naturaleza o del hombre, uno de resiliencia y voluntad. 

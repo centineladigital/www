@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El gobierno de Joe Biden considera aplicar nuevas sanciones a Corea del Norte y a Rusia, asegura el secretario de Estado Anthony Blinken"
-image: /uploads/2021/images-2521700.jpg
-video: nil
-audio: nil
-alt: Evalúa Biden aplicar más sanciones a Corea del Norte y Rusia
+image: "/uploads/2021/images-2521700.jpg"
+video: "nil"
+audio: "nil"
+alt: "Evalúa Biden aplicar más sanciones a Corea del Norte y Rusia"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182591
 ---
 
 El gobierno del presidente Joe Biden consideraría aplicar nuevas sanciones a Corea del Norte y otras a Rusia, dijo el secretario de Estado estadunidense, Anthony Blinken, quien criticó con dureza a Moscú por la represión contra los manifestantes que apoyan al opositor Alexei Navalni.

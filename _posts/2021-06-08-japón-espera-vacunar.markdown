@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confían que las dosis de vacunas no afecten el plan de inmunización general para el resto de la población"
-image: /uploads/2021/images-2591556.jpg
-video: nil
-audio: nil
-alt: Japón espera vacunar a 70 mil voluntarios de Olímpicos
+image: "/uploads/2021/images-2591556.jpg"
+video: "nil"
+audio: "nil"
+alt: "Japón espera vacunar a 70 mil voluntarios de Olímpicos"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 184918
 ---
 
 Las autoridades de Japón estudian la posible vacunación contra la covid-19 de 70 mil personas que participarán como voluntarias en los Juegos Olímpicos y Paralímpicos, en aras de dotar de la mayor seguridad posible a una cita deportiva que debía haberse celebrado en 2020 y que este año está envuelta también en dudas de tipo sanitario.

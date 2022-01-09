@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se crea Plan Especial Juárez para combatir los delitos en ese municipio, tanto jurídica como socialmente a través de la participación ciudadana"
-image: /uploads/2021/images-Grupo_de_coordinación_para_la_paz_(3).JPG
-video: nil
-audio: nil
-alt: Logra 330 acuerdos Grupo de Coordinación  para la Construcción de la Paz
+image: "/uploads/2021/images-Grupo_de_coordinación_para_la_paz_(3).JPG"
+video: "nil"
+audio: "nil"
+alt: "Logra 330 acuerdos Grupo de Coordinación  para la Construcción de la Paz"
 front: false
-section: Local
+section: "Local"
+news_id: 187120
 ---
 
 Con el Grupo de la Coordinación para la Construcción de la Paz se lograron 330 acuerdos en 240 reuniones a las que asistieron autoridades de seguridad pública y justicia, de los tres órdenes de Gobierno, informó el titular de la Secretaría General de Gobierno, Luis Fernando Mesta Soulé, en el programa “Logros con Valor”.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Al mes de la muerte del primer actor Héctor Suárez, su hijo se clavó por ocho meses a escribir sobre su padre y la relación que tenían; a un año de su partida, el libro está listo. "
-image: /uploads/2021/images-hector-suarez-gomis-dedico-libro.jpg
-video: nil
-audio: nil
-alt: Siempre me hablaba claro y muy amoroso -  Héctor Suárez Gomís recuerda a su padre en libro
+image: "/uploads/2021/images-hector-suarez-gomis-dedico-libro.jpg"
+video: "nil"
+audio: "nil"
+alt: "Siempre me hablaba claro y muy amoroso -  Héctor Suárez Gomís recuerda a su padre en libro"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184730
 ---
 
 El libro empieza con tres testimonios muy importantes para el autor: los de sus hijos Pablo y Ximena, y el de su mamá, Pepita Gomís. Basta leer esas primeras páginas para iniciar un viaje de la mano de un padre y un hijo que se hablan con malas palabras, pero se besan y abrazan a la menor provocación. 

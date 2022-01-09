@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Indica Protección Civil que además de en la capital del estado, Buenaventura, Namiquipa, Matachí, Temósachic y Guerrero tendrán precipitaciones moderadas e intervalos de chubascos; pide seguir recomendaciones preventivas"
-image: /uploads/2021/images-MAPA_SATELITAL.jpeg
-video: nil
-audio: nil
-alt: Alertan por lluvias intensas esta tarde en Chihuahua y 5 municipios más
+image: "/uploads/2021/images-MAPA_SATELITAL.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Alertan por lluvias intensas esta tarde en Chihuahua y 5 municipios más"
 front: false
-section: Local
+section: "Local"
+news_id: 186541
 ---
 
 La Coordinación Estatal de Protección Civil pidió tomar precauciones frente a las lluvias intensas que se registrarán en las próximas horas tanto en la ciudad de Chihuahua como en otros cinco municipios.  

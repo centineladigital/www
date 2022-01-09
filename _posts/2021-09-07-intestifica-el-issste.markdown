@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El director general, Luis Antonio Ramírez Pineda, llamó a la población a no confiarse, especialmente en zonas endémicas, como Colima, Guerrero, Oaxaca y Veracruz"
-image: /uploads/2021/images-ISSSTE_02.jpeg
-video: nil
-audio: nil
-alt: Intestifica el ISSSTE prevencion y detección de dengue en temporada de lluvias 
+image: "/uploads/2021/images-ISSSTE_02.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Intestifica el ISSSTE prevencion y detección de dengue en temporada de lluvias "
 front: false
-section: Local
+section: "Local"
+news_id: 187513
 ---
 
 Durante la actual temporada de lluvias, periodo en el que aumenta la reproducción del mosquito Aedes aegypti que transmite el dengue, el director general del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), Luis Antonio Ramírez Pineda, instruyó al personal de unidades médicas a intensificar su vigilancia, prevención y detección, para evitar la pérdida de vidas, especialmente en infecciones cruzadas con COVID-19.

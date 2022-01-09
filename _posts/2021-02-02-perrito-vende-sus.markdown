@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La dueña de Hunter, Denise Lo, permite al perro hacer su trabajo y luego publica las obras en línea, y se venden a un costo de 64 dólares por pieza"
-image: /uploads/2021/images-2522283.jpg
-video: nil
-audio: nil
-alt: Perrito vende sus obras de arte y ya ha ganado 17 mil dólares
+image: "/uploads/2021/images-2522283.jpg"
+video: "nil"
+audio: "nil"
+alt: "Perrito vende sus obras de arte y ya ha ganado 17 mil dólares"
 front: false
-section: Buenas Noticias
+section: "Buenas Noticias"
+news_id: 182621
 ---
 
 Los insondables caminos del arte.

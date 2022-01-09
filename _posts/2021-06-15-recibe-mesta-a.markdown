@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Solamente fue un acercamiento entre ambos."
-image: /uploads/2021/images-mesta.jpg
-video: nil
-audio: /uploads/2021/audio-MM01.mp3
-alt: Recibe Mesta a titular de transición
+image: "/uploads/2021/images-mesta.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM01.mp3"
+alt: "Recibe Mesta a titular de transición"
 front: false
-section: Local
+section: "Local"
+news_id: 185044
 ---
 
 El Secretario General de Gobierno, Fernando Mesta Soulé, recibió este martes a Luis Serrato. La reunión de acercamiento dirigirá la agenda y coordinación para poder llevar a cabo una transición coordinada, afirmó el representante de María Eugenia Campos Galván.

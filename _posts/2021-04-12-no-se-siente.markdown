@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de su cuenta de Instagram, el actor José Ron contó que fue hospitalizado tras haber sufrido una picadura de alacrán. Te contamos cómo se encuentra el famoso de Televisa. "
-image: /uploads/2021/images-hospitalizan-jose-ron-picadura-alacran.jpg
-video: nil
-audio: nil
-alt: No se siente chido -  José Ron, actor de Televisa, fue hospitalizado tras picadura de alacrán
+image: "/uploads/2021/images-hospitalizan-jose-ron-picadura-alacran.jpg"
+video: "nil"
+audio: "nil"
+alt: "No se siente chido -  José Ron, actor de Televisa, fue hospitalizado tras picadura de alacrán"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183820
 ---
 
 José Ron, actor de Televisa, preocupó a sus seguidores, luego de que informara en sus redes sociales que fue hospitalizado tras sufrir una picadura de un alacrán. El famoso de la telenovela La Desalmada compartió una imagen desde la cama de un hospital, ubicado en el Estado de México, para compartir este inesperado suceso. ¿Cómo se encuentra? ¿Está estable? Te contamos lo que dijo el famoso. A través de su cuenta de Instagram, el actor José Ron contó que fue hospitalizado tras haber sufrido una picadura de alacrán y de inmediato preocupó a sus seguidores; sin embargo, aclaró cuál es su estado de salud. ¿Regresará a grabar La Desalmada? 

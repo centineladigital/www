@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hasta el momento autoridades de Protección Civil y de seguridad no han reportado personas lesionadas o afectaciones en el estado de Chiapas tras el sismo. "
-image: /uploads/2021/images-sismo-en-chiapas-especial_30_645_682_424.jpg
-video: nil
-audio: nil
-alt: Sismo de magnitud 4.6 se siente al sureste de Mapastepec, Chiapas
+image: "/uploads/2021/images-sismo-en-chiapas-especial_30_645_682_424.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sismo de magnitud 4.6 se siente al sureste de Mapastepec, Chiapas"
 front: false
-section: Local
+section: "Local"
+news_id: 187780
 ---
 
 Esta tarde, un sismo de magnitud 4.6 se registró al sureste del municipio de Mapastepec, en el estado de Chiapas, informó el Servicio Sismológico Nacional en su cuenta de Twitter. 

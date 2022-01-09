@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Definirá próxima administración en que invertirá monto."
-image: /uploads/2021/images-ESPINOZA.jpg
-video: /uploads/2021/videos-BL01_JORGE_ESPINOZA.mp4
-audio: nil
-alt: Fondo de reparación llegara a la próxima administración.
+image: "/uploads/2021/images-ESPINOZA.jpg"
+video: "/uploads/2021/videos-BL01_JORGE_ESPINOZA.mp4"
+audio: "nil"
+alt: "Fondo de reparación llegara a la próxima administración."
 front: false
-section: Local
+section: "Local"
+news_id: 186749
 ---
 
 Jorge Alberto Espinoza Cortés, Consejero Jurídico del Estado, declaró que monto que se tiene recabado del fondo de reparación de daño se le otorgará a la próxima administración, quien deberá definir las acciones que llevará a cabo con el recurso.

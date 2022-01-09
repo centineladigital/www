@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "López Obrador considera un exceso la decisión del TEPJF de quitar candidaturas a precandidatos de Guerrero y Michoacán; pide no caer en la violencia y sustituir a aspirantes"
-image: /uploads/2021/images-2569597.jpg
-video: nil
-audio: nil
-alt: Caso Félix Salgado y Raúl Morón, ‘un golpe antidemocrático’
+image: "/uploads/2021/images-2569597.jpg"
+video: "nil"
+audio: "nil"
+alt: "Caso Félix Salgado y Raúl Morón, ‘un golpe antidemocrático’"
 front: false
-section: Local
+section: "Local"
+news_id: 184149
 ---
 
 Luego de que ayer el Tribunal Electoral del Poder Judicial de la Federación (TEPJF) ratificara la decisión de quitar sus candidaturas a Félix  Salgado Macedonio, en Guerrero, y a Raúl Morón, en Michoacán, el presidente Andrés Manuel López Obrador calificó la decisión como “un exceso” y “un golpe a la democracia".

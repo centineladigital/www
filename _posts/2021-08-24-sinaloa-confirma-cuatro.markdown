@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El secretario de Salud, Efrén Encinas Torres, aseguró que esta información se guardó en reserva para no alarmar a la población"
-image: /uploads/2021/images-hongo-negro-shutterstock.jpg
-video: nil
-audio: nil
-alt: Sinaloa confirma cuatro casos de hongo negro; hay dos muertos
+image: "/uploads/2021/images-hongo-negro-shutterstock.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sinaloa confirma cuatro casos de hongo negro; hay dos muertos"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187031
 ---
 
 El Secretario de Salud en Sinaloa, Efrén Encinas Torres, reconoció finalmente que en Sinaloa se tienen confirmados 4 casos de mucormicosis, mejor conocido como "hongo negro», de los cuales, dos pacientes lamentablemente ya fallecieron. 

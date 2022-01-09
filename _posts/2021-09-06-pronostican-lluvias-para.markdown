@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se esperan días mayormente soleados el resto de la semana"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Pronostican lluvias para este lunes -  Protección Civil Municipal   
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pronostican lluvias para este lunes -  Protección Civil Municipal   "
 front: false
-section: Local
+section: "Local"
+news_id: 187456
 ---
 
 Esta semana sólo se esperan lluvias para el lunes en la capital del estado, en tanto los próximos días permanecerán soleados, con nubosidades que ayudarán a mitigar la intensidad de los rayos del sol, así lo informó la Coordinación Municipal de Protección Civil, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional de CONAGUA.

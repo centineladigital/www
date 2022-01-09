@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Tienen como finalidad incentivar el arte, el deporte y la cultura entre las y los jóvenes chihuahuenses"
-image: /uploads/2021/images-unnamed_(7).jpg
-video: nil
-audio: nil
-alt: Invita Gobierno Municipal a participar en actividades por mes de la Juventud
+image: "/uploads/2021/images-unnamed_(7).jpg"
+video: "nil"
+audio: "nil"
+alt: "Invita Gobierno Municipal a participar en actividades por mes de la Juventud"
 front: false
-section: Local
+section: "Local"
+news_id: 186363
 ---
 
 Comprometidos con el apoyo y desarrollo de las y los jóvenes de la ciudad, el Gobierno Municipal a través de la Dirección de Desarrollo Humano y Educación, realizará diversas actividades culturales, deportivas y artísticas para celebrar durante agosto el mes de la Juventud.

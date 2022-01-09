@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Consejo Estatal de Población promueve una política que contribuya al desarrollo sostenido y equitativo de nuestra entidad"
-image: /uploads/2021/images-migrantes_(8).jpeg
-video: nil
-audio: nil
-alt: Conjunta Coespo esfuerzos para atender a más de 50 mil migrantes y repatriados
+image: "/uploads/2021/images-migrantes_(8).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Conjunta Coespo esfuerzos para atender a más de 50 mil migrantes y repatriados"
 front: false
-section: Local
+section: "Local"
+news_id: 187119
 ---
 
 El Consejo Estatal de Población (Coespo) a través de la Red Integral de Atención al Migrante, ha atendido a más de 50 mil personas originarias de diversos países, que llegan al estado de Chihuahua con la intención de cruzar la frontera hacia Estados Unidos o que son repatriados desde ese país.

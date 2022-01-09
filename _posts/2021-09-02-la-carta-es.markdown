@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "No le permiten ni un lápiz "
-image: /uploads/2021/images-descarga.jpg
-video: /uploads/2021/videos-BJ03_JORGE_ESPARZA.mp4
-audio: nil
-alt: La carta es falsa asegura Jorge Cortez 
+image: "/uploads/2021/images-descarga.jpg"
+video: "/uploads/2021/videos-BJ03_JORGE_ESPARZA.mp4"
+audio: "nil"
+alt: "La carta es falsa asegura Jorge Cortez "
 front: false
-section: Local
+section: "Local"
+news_id: 187384
 ---
 
 El consejero de gobierno Jorge Espinoza Cortez habla sobre la carta dirigida al ex gobernador Cesar Duarte afirmando que la carda es falsa ya que Cesar Duarte ya que “en la prisión  federal en donde se encuentra no le permiten ni un lápiz” dijo.

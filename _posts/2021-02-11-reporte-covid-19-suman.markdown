@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se confirman 108 personas enfermas y 19 más fallecidas en el último reporte epidemiológico de la Secretaría de Salud"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporte COVID-19 -  Suman 52 mil 064 contagios y 4 mil 837 defunciones en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporte COVID-19 -  Suman 52 mil 064 contagios y 4 mil 837 defunciones en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 182854
 ---
 
 La Secretaría de Salud confirma en su último reporte epidemiológico que se tienen en el estado un total general de 52 mil 064 casos de COVID-19 con 108 nuevos registros, así como un acumulado de 4 mil 837 personas fallecidas, con 19 decesos en las últimas 24 horas.

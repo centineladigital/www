@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Ofrecen orientación sobre los cinco ejes más importantes para la salud"
-image: /uploads/2021/images-Foto_3542-1.jpg
-video: nil
-audio: nil
-alt: Promueve IMSS Chihuahua la atención en Módulos PrevenIMSS 
+image: "/uploads/2021/images-Foto_3542-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Promueve IMSS Chihuahua la atención en Módulos PrevenIMSS "
 front: false
-section: Local
+section: "Local"
+news_id: 186057
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua exhorta a los derechohabientes acudir a los Módulos PrevenIMSS, ubicados en las Unidades de Medicina Familiar (UMF), en donde se promueve la cultura de la prevención. 

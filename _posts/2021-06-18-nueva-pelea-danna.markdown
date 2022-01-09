@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Belinda y Danna Paola se llevan mal? ¿Hay rivalidad? De nueva cuenta las dudas surgieron debido a que las famosas aparecieron con un mismo atuendo. Además de que un comentario de Nodal lo 'empeoró' todo. "
-image: /uploads/2021/images-belinda-danna-paola-llevan-atuendo.jpg
-video: nil
-audio: nil
-alt: ¿Nueva pelea? Danna Paola 'copia' atuendo de Belinda; Nodal opina y las redes critican
+image: "/uploads/2021/images-belinda-danna-paola-llevan-atuendo.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Nueva pelea? Danna Paola 'copia' atuendo de Belinda; Nodal opina y las redes critican"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185104
 ---
 
 ¿Belinda y Danna Paola se llevan mal? ¿Hay una rivalidad? Son las preguntas que se han hecho sobre las famosas a lo largo del tiempo, pues ambas tienen una carrera parecida: iniciaron en la actuación y en el canto en Televisa desde que eran niñas. Pese a los dimes y diretes sobre la supuesta rivalidad, hace algún tiempo posaron juntas en una imagen que cautivó a sus fans. Sin embargo, la polémica de nueva cuenta surgió, pues Belinda lució un atuendo que más tarde usó Danna Paola. ¿Se copiaron? Además de que Nodal opinó y empeoró la controversial comparación que hicieron algunos internautas.  La primera en usar el conjunto completo de colores fue Belinda, quien subió en Instagram una foto y un videopara anunciar su nuevo éxito musical a lado de Tini Stoessel y Lola Índigo.

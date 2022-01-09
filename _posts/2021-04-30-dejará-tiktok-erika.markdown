@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La 'Reina de TikTok' volverá a la pantalla chica. ¡Conoce de qué se trata su nuevo proyecto! "
-image: /uploads/2021/images-actriz-aire-carrera-impacto-genero.jpg
-video: nil
-audio: nil
-alt: ¿Dejará TikTok? Erika Buenfil anuncia nuevo proyecto en Televisa
+image: "/uploads/2021/images-actriz-aire-carrera-impacto-genero.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Dejará TikTok? Erika Buenfil anuncia nuevo proyecto en Televisa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184210
 ---
 
 Erika Buenfil sigue cosechando logros a nivel profesional, pues tras el impacto que ha tenido con su incursión en TikTok, donde es una de las cuentas con mayor número de seguidores (11.9 millones), la actriz volverá a la televisión para integrarse al elenco de la telenovela Vencer el Pasado, así lo informó la productora Rosy Ocampo. "¡Mi querida Erika Buenfil dará vida al personaje de Carmen en #VencerElPasado! ¿Ya estás ansiosos por saber más de su personaje?", compartió la showrunner y productora ejecutiva de Televisa a través de su Twitter. 

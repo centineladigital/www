@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La banda y el equipo permanecerán en casa y se aislarán durante los próximos 10 días, señaló Kiss en un comunicado que compartió en sus redes sociales. "
-image: /uploads/2021/images-la-banda-dio-a-conocer.jpg
-video: nil
-audio: nil
-alt: Gene Simmons, bajista de 'Kiss', da positivo a covid-19; la banda pospone gira
+image: "/uploads/2021/images-la-banda-dio-a-conocer.jpg"
+video: "nil"
+audio: "nil"
+alt: "Gene Simmons, bajista de 'Kiss', da positivo a covid-19; la banda pospone gira"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187321
 ---
 
 La banda de rock Kiss anunció a través de sus redes sociales que han decidido posponer su gira titulada End of the road debido a que su bajista, Gene Simmons, dio positivo a covid-19. 

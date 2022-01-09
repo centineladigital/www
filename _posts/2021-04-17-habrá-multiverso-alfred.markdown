@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Alfred Molina regresará de nueva cuenta como uno de los villanos más emblemáticos del Hombre Araña. "
-image: /uploads/2021/images-doctor-octopus-regresa-spiderman-way_0_13_1200_747.jpg
-video: nil
-audio: nil
-alt: ¡Habrá multiverso! Alfred Molina aparecerá en 'Spiderman -  No Way Home' como Doctor Octopus
+image: "/uploads/2021/images-doctor-octopus-regresa-spiderman-way_0_13_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Habrá multiverso! Alfred Molina aparecerá en 'Spiderman -  No Way Home' como Doctor Octopus"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183946
 ---
 
 Los rumores eran ciertos y el multiverso estará presente en la nueva entrega de la cinta del arácnico, pues Alfred Molina regresará de nueva cuenta como uno de los villanos del Hombre Araña en la próxima tercera entrega de Spiderman: No Way Home, una de las películas de Marvel Cinematic Universe, la cual es protagonizada por Tom Holland. "Cuando lo estábamos filmando, todos teníamos órdenes de no hablar de ello, porque se suponía que era un gran secreto", dijo Molina entre risas durante una entrevista con Variety . “Pero, ya sabes, está en Internet. ¡De hecho, me describí a mí mismo como el secreto peor guardado de Hollywood! 

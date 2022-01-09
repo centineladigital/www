@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El guerrerense fue presidente nacional, consejero, diputado, senador, gobernador y alcalde por el PRI"
-image: /uploads/2021/images-5eed2ea2bfe25.jpeg
-video: nil
-audio: nil
-alt: Fallece René Juárez, expresidente del PRI
+image: "/uploads/2021/images-5eed2ea2bfe25.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Fallece René Juárez, expresidente del PRI"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185986
 ---
 
 El gobernador de Guerrero, Héctor Astudillo, lamentó el fallecimientos del expresidente nacional del PRI, René Juárez.

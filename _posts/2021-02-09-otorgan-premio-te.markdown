@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Este reconocimiento fortalece la práctica de acceso a la información pública y el combate a la corrupción e impunidad."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-MM04_JAVIER_CORRAL.mp3
-alt: Otorgan premio te innovación y transparencia al Estado
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04_JAVIER_CORRAL.mp3"
+alt: "Otorgan premio te innovación y transparencia al Estado"
 front: false
-section: Local
+section: "Local"
+news_id: 182817
 ---
 
 A nivel nacional el estado de Chihuahua recibió reconocimiento en materia innovación y transparencia en Portal de Trámites y Servicios del INAI. Este reconocimiento distingue con el tercer puesto de la categoría estatal, el compromiso con la rendición de cuentas y la participación ciudadana.

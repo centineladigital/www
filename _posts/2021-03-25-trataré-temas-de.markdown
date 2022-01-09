@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que asistirá a gira con AMLO."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-MJ05_JAVIER_CORRAL.mp3
-alt: Trataré temas de salud con AMLO -  Corral
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ04_JAVIER_CORRAL.mp3"
+alt: "Trataré temas de salud con AMLO -  Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 183555
 ---
 
 “Le insistiré al presidente que este apoyo es primordial para nosotros” fueron las palabras del Gobernador del Estado, Javier Corral Jurado, luego de dar a conocer que dentro de la reunión que tendrá este viernes con el Presidente de la República Andrés Manuel López Obrador, esto dentro de la gira que tendrá en Ciudad Juárez.

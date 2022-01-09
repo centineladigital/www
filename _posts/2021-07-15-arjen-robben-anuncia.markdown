@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El extremo holandés decidió ponerle punto final a su carrera después de una temporada atípica donde las lesiones le impidieron jugar."
-image: /uploads/2021/images-deportes.jpg
-video: nil
-audio: nil
-alt: Arjen Robben anuncia su retiro definitivo del futbol
+image: "/uploads/2021/images-deportes.jpg"
+video: "nil"
+audio: "nil"
+alt: "Arjen Robben anuncia su retiro definitivo del futbol"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185685
 ---
 
 El extremo internacional holandés Arjen Robben ha anunciado este jueves su retiro del futbol profesional, cerrando una exitosa carrera de dos décadas que vivió sus momentos álgidos en grandes clubes como Chelsea, Real Madrid, Bayern y también con la selección holandesa. "La decisión de dejar el futbol es justa y realista. 

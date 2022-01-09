@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz señaló que si las leyes mexicanas no la apoyan, sabe que la gente va a respaldarla y ayudarla a que se haga justica. "
-image: /uploads/2021/images-daniela-berriel-razon-juez-libero.jpg
-video: nil
-audio: nil
-alt: Me siento dolida -  Daniela Berriel tras la liberación de hombre que denunció por abuso
+image: "/uploads/2021/images-daniela-berriel-razon-juez-libero.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me siento dolida -  Daniela Berriel tras la liberación de hombre que denunció por abuso"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183829
 ---
 
 Daniela Berriel denunció en marzo que Eduardo Ojeda, amigo del actor Gonzalo Peña -conocido por su papel en ¿Qué le pasa a mi familia?- abusó de ella mientras se encontraban en Acapulco. Tras darse a conocer que un juez puso en libertad al hombre, la actriz señaló la decisión de la autoridades la tomó por sorpresa.  La también conductora asistió este lunes al foro del programa Venga la Alegría para hablar del caso legal tras la liberación de Eduardo Ojeda el pasado viernes.

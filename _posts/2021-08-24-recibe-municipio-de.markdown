@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Alcaldesa comentó que el Gobierno Municipal siempre ha trabajado de la mano con la ciudadanía para brindar bienestar y calidad de vida, dando como resultado un municipio saludable"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Recibe Municipio de Chihuahua certificación como promotor de la salud
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Recibe Municipio de Chihuahua certificación como promotor de la salud"
 front: false
-section: Local
+section: "Local"
+news_id: 187064
 ---
 
 La presidenta municipal María Angélica Granados Trespalacios recibió la certificación al Municipio de Chihuahua como promotor de la salud del programa estatal “Entonos y Comunidades Saludables”, esto por 17 programas que se ejercieron durante la administración 2018-2021 en pro de la salud de los chihuahuenses.   

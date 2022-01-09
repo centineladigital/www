@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Se registran 287 nuevos casos de COVID-19 para el estado de Chihuahua "
+date: 2021-12-24T20:28:00.000-06:00
+tags:
+  
+  - Covid
+  
+  - Cifras
+  
+  - chihuahua
+  
+author: nil
+description: "El número de personas que han perdido la vida por COVID-19 asciende a 8 mil 691 (+14) y las defunciones que se agregan este día al registro corresponden a los municipios de Juárez (+8), Chihuahua (+1), Cuauhtémoc (+1), Delicias (+1), Ojinaga (+1), Camargo (+1), Meoqui (+1)."
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Se registran 287 nuevos casos de COVID-19 para el estado de Chihuahua "
+front: false
+section: "Local"
+news_id: 191213
+---
+
+El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 24 de diciembre el reporte COVID-19, en el cual se registran 91 mil 554 (+287) casos confirmados, 78 mil 147  recuperados 78,147(+218)  y 1,182 (-8) casos sospechosos.
+
+El número de personas que han perdido la vida por COVID-19 asciende a 8 mil 691 (+14) y las defunciones que se agregan este día al registro corresponden a los municipios de Juárez (+8), Chihuahua (+1), Cuauhtémoc (+1), Delicias (+1), Ojinaga (+1), Camargo (+1), Meoqui (+1).
+
+El número de personas confirmadas asciende a 91 mil 554 (+287) y los casos confirmados corresponden a los municipios de Juárez (+74), Chihuahua (+117), Parral (+36), Cuauhtémoc (+6), Delicias (+6), Nuevo Casas Grandes (+5), Ojinaga (+9), Camargo (+8), Meoqui (+1), Guerrero (+1), Aldama (+4), Buenaventura (+1), Allende (+2), Santa Bárbara (+1), Namiquipa (+1), Rosales (+1), Ascención (+1), Guadalupe y Calvo (+2), Matamoros (2), San Francisco del Oro (+1), Nonoava (+1), Carichí (+2), Praxedis G. Guerrero (+1), Gran Morelos (+3) y Huejotitán (+1). 
+
+Además se reporta una tasa de incidencia de casos activos de los últimos 14 días de 48.0 por 100,000 habitantes y a nivel nacional se han registrado 3,319 casos nuevos, y Chihuahua se posiciona en el lugar 3 de casos activos en el país. 
+
+El número de personas hospitalizadas es de 249, se tiene un reporte de 71 intubados, lo que representa una ocupación general 51.9 por ciento y una ocupación de intubados de 41.5 por ciento. 
+
+Ante las fiestas navideñas y de fin de año, la Secretaría de Salud exhorta a la población a evitar aglomeraciones, usar cubrebocas en todas las actividades, mantener sana distancia. 
+
+En caso de presentar algún síntoma como pérdida del olfato, dolor de cabeza, fiebre superior a 38 grados, cuerpo cortado, escurrimiento nasal o dolor de garganta, es importante acudir a realizarse una prueba para descartar o confirmar COVID-19.

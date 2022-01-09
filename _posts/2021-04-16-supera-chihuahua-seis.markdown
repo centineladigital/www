@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se legó a la cifra de seis mil 30 personas que han perdido la vida por causa del COVID-19."
-image: /uploads/2021/images-diapositiva2-247.jpg
-video: nil
-audio: /uploads/2021/audio-MV02.mp3
-alt: Supera Chihuahua seis mil muertes
+image: "/uploads/2021/images-diapositiva2-247.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV02.mp3"
+alt: "Supera Chihuahua seis mil muertes"
 front: false
-section: Local
+section: "Local"
+news_id: 183932
 ---
 
 Al acreditarse 32 decesos por el coronavirus este viernes el estado llegó a la cifra de seis mil 30 personas que han perdido la vida por causa del COVID-19, según lo dio a conocer Wendy Ávila Coronado, Subdirectora de Medicina Preventiva y Promoción para la Salud.

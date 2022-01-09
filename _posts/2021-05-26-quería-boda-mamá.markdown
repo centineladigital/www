@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de su cuenta de Instagram en donde la mamá de Christian Nodal envió una felicitación a la pareja que pronto se unirá en matrimonio. ¿Lo tomó a bien? ¿Le parece apresurado o dio el visto bueno que su hijo se case con Belinda? "
-image: /uploads/2021/images-cristy-nodal-reacciona-compromiso-belinda.jpg
-video: nil
-audio: nil
-alt: ¿Quería boda? Mamá de Nodal reacciona al compromiso de su hijo con Belinda
+image: "/uploads/2021/images-cristy-nodal-reacciona-compromiso-belinda.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Quería boda? Mamá de Nodal reacciona al compromiso de su hijo con Belinda"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184666
 ---
 
 ¡Belinda y Christian Nodal se van a casar! Luego de que los famosos hicieran oficial la noticia, las redes sociales se volcaron en felicitaciones. Famosos y amigos celebraron que pronto habrá boda, pues en un inicio pocos creían que su amor se consumaría de tal forma de querer pasar el resto de sus vidas juntos. En medio del furor que causó esta noticia, no pudo faltar la felicitación de la mamá del cantante de regional mexicano, quien envió un emotivo mensaje para la pareja. 

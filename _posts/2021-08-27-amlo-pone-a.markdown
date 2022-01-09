@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Sánchez Cordero renuncia; regresa al Senado y se perfila para presidirlo; el Presidente nombra a Adán Augusto López al frente de la dependencia"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: AMLO pone a operador político en Gobernación
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "AMLO pone a operador político en Gobernación"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187181
 ---
 
 Tras un intenso diálogo entre el presidente Andrés Manuel López Obrador y Ricardo Monreal, líder de Morena en el Senado, Olga Sánchez Cordero dejó su cargo al frente de la Secretaría de Gobernación para regresar al Poder Legislativo y perfilarse como próxima presidenta de la Cámara Alta a partir del 1 de septiembre.

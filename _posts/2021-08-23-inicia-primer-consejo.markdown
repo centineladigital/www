@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Durante cinco días 32 mil profesoras y profesores trabajarán para analizar lo que será el arranque de clases en preescolar, primaria y secundaria   "
-image: /uploads/2021/images-SED_6383.JPG
-video: nil
-audio: nil
-alt: Inicia primer Consejo Técnico Escolar del ciclo 2021-2022 en Educación Básica
+image: "/uploads/2021/images-SED_6383.JPG"
+video: "nil"
+audio: "nil"
+alt: "Inicia primer Consejo Técnico Escolar del ciclo 2021-2022 en Educación Básica"
 front: false
-section: Local
+section: "Local"
+news_id: 187004
 ---
 
 Para dar continuidad a la preparación del inicio de clases, el próximo 30 de agosto, docentes y directivos de todo el estado comenzaron con la fase intensiva del Consejo Técnico Escolar del ciclo 2021-2022 en Educación Básica, que tiene el propósito que los colectivos organicen las actividades de cada plantel, enmarcadas en el Programa Escolar de Mejora Continua (PEMC).

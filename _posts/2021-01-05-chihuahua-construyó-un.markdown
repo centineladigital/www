@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A partir de este mes se iniciará por etapas la vacunación de 16 mil 070 integrantes del Sistema Estatal de Salud"
-image: /uploads/2021/images-DSC_8204.jpg
-video: nil
-audio: nil
-alt: Chihuahua construyó un control de la pandemia que enorgullece
+image: "/uploads/2021/images-DSC_8204.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chihuahua construyó un control de la pandemia que enorgullece"
 front: false
-section: Local
+section: "Local"
+news_id: 181871
 ---
 
 “Hemos construido entre todos un control de la pandemia en Chihuahua que nos debe enorgullecer”, señaló el gobernador Javier Corral Jurado, en la primera conferencia de prensa de este año que ofrece a los medios de comunicación.

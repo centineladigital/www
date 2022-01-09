@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Necesario dar incentivos a las empresas para que tengan lugar de cuidado de menores."
-image: /uploads/2021/images-LAURA.jpg
-video: nil
-audio: /uploads/2021/audio-MW02_LAURA_CONTRERAS.mp3
-alt: Necesario voltear a ver necesidades de madres
+image: "/uploads/2021/images-LAURA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW02_LAURA_CONTRERAS.mp3"
+alt: "Necesario voltear a ver necesidades de madres"
 front: false
-section: Local
+section: "Local"
+news_id: 184676
 ---
 
 Como necesario calificó la candidata a diputación federal por el Partido Acción Nacional, el que se dé una serie de acciones que beneficien a las madres de familia. Esto ya que tras el reingreso de las madres a la vida laboral habrá la necesidad de renovar la forma en la que se rigen las casas de cuidado.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que información se encuentra en línea de forma transparente."
-image: /uploads/2021/images-ALEJANDRA.jpg
-video: /uploads/2021/videos-ML07_ALEJANDRA_DE_LA_VEGA.mp4
-audio: nil
-alt: Concesiones se determinaron por licitación
+image: "/uploads/2021/images-ALEJANDRA.jpg"
+video: "/uploads/2021/videos-ML07_ALEJANDRA_DE_LA_VEGA.mp4"
+audio: "nil"
+alt: "Concesiones se determinaron por licitación"
 front: false
-section: Local
+section: "Local"
+news_id: 187010
 ---
 
 Las concesiones de la ruta BTR en ciudad Juárez se hicieron por licitación, fueron las palabras de la representante del Gobierno del Estado en aquel municipio, Alejandra de la Vega Arizpe. Esto ante la pregunta de inconformidades de concesionarios en el sentido de que los permisos se dieron sin considerar a quienes ya tenían algún tipo de permiso para el transporte.

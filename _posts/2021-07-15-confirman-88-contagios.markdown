@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El total de casos acumulados es de 71 mil 357 y  7 mil 638 personas fallecidas; los nuevos decesos son en Juárez, (+1), Chihuahua (+2),  Cuauhtémoc (+1), Nuevo Casas Grandes (+1) y San Francisco del Oro (+1)."
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Confirman 88 contagios y 6 defunciones  por  COVID-19 en la entidad
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Confirman 88 contagios y 6 defunciones  por  COVID-19 en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 185693
 ---
 
 La Secretaría de Salud estatal informó que se registraron 88 nuevos contagios y 6 decesos por COVID-19, con lo que el acumulado total es de 71 mil 357 casos y 7 mil 638 defunciones.

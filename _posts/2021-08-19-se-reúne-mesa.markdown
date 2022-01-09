@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Con el fin de darle el debido seguimiento al proceso de entrega recepción que le fue encomendado en esta importante materia por la Gobernadora Electa, Maru Campos"
-image: /uploads/2021/images-WhatsApp_Image_2021-08-19_at_10.52.49.jpeg
-video: nil
-audio: nil
-alt: Se reúne mesa de educación de Maru Campos con autoridades de Ciudad Juárez
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-19_at_10.52.49.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Se reúne mesa de educación de Maru Campos con autoridades de Ciudad Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 186886
 ---
 
 Javier González Mocken, encabezó una reunión del equipo de transición de la mesa de educación con autoridades educativas de Ciudad Juárez con el fin de darle el debido seguimiento al proceso de entrega recepción que le fue encomendado en esta importante materia por la Gobernadora Electa, Maru Campos.

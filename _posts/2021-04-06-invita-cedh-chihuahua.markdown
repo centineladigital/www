@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Este concurso es para alumnos de quinto y sexto grado de primaria, y tiene como temática “Los Derechos de la Niñez durante la pandemia”."
-image: /uploads/2021/images-TANIA1.jpg
-video: nil
-audio: /uploads/2021/audio-MM03_TANIA_SERRANO.mp3
-alt: Invita CEDH Chihuahua  a concurso de dibujo digital
+image: "/uploads/2021/images-TANIA1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM03_TANIA_SERRANO.mp3"
+alt: "Invita CEDH Chihuahua  a concurso de dibujo digital"
 front: false
-section: Local
+section: "Local"
+news_id: 183722
 ---
 
 Con premios de cinco, tres y dos mil pesos este martes fue dado a conocer la convocatoria de dibujo digital “Madonnari 2021” por parte de la Comisión Estatal de Derechos Humanos, según lo declaró la vocera de este organismo Tania Serrano.

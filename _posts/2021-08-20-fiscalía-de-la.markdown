@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se trata de un personaje virtual que ayuda a l@s niños a contar sus historias de violencia sin generar revictimización"
-image: /uploads/2021/images-Foto_archivo_1.jpeg
-video: nil
-audio: nil
-alt: Fiscalía de la Mujer lleva al personaje “Antenas” a Ciudad Juárez 
+image: "/uploads/2021/images-Foto_archivo_1.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Fiscalía de la Mujer lleva al personaje “Antenas” a Ciudad Juárez "
 front: false
-section: Local
+section: "Local"
+news_id: 186939
 ---
 
 Con el fin de ampliar la atención especializada para niñas y niños víctimas de delitos, la Fiscalía Especializada de la Mujer instalará la operación del personaje “Antenas” a Ciudad Juárez, Chihuahua.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Exhortan a continuar con las medidas de precaución."
-image: /uploads/2021/images-arton21548.jpg
-video: nil
-audio: /uploads/2021/audio-MW01_LETICIA_RUIZ.mp3
-alt: Descenso paulatino en muertes y contagios en Chihuahua
+image: "/uploads/2021/images-arton21548.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW01_LETICIA_RUIZ.mp3"
+alt: "Descenso paulatino en muertes y contagios en Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 185434
 ---
 
 Un descenso paulatino en muertes y casos nuevos de coronavirus es lo que se vive en Chihuahua, esto pese a que se avizora una nueva ola de contagios, según fue dado a conocer por parte de la Directora de Medicina Preventiva y Promoción de la Salud Leticia Ruiz González. Esto al dar a conocer la actualización de casos donde en las últimas horas se registraron 65 nuevos casos y se acreditaron 32 muertes.

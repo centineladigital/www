@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue en plena transmisión en vivo del programa Hoy en donde Galilea Montijo expresó que por culpa de la prensa, Sebastián Rulli se molestó con ella. Acusa que ahora la toman como la nueva Carmelita Salinas. "
-image: /uploads/2021/images-galilea-montijo-toman-carmelita-salinas-2.jpg
-video: nil
-audio: nil
-alt: Me agarraron como Carmelita Salinas -  Galilea Montijo culpa a la prensa de pelea con Sebastián Rulli
+image: "/uploads/2021/images-galilea-montijo-toman-carmelita-salinas-2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me agarraron como Carmelita Salinas -  Galilea Montijo culpa a la prensa de pelea con Sebastián Rulli"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184980
 ---
 
 Galilea Montijo, conductora del programa Hoy, habló sobre la polémica que le causó severas críticas en su contra en los últimos días, luego de defender a Raúl Araiza por estar involucrado en la violación de la veda electoral 2021 con el Partido Verde Ecologista de México (PVEM) y de expresar que Sebastián Rulli no tenía que opinar sobre el tema, pues no es mexicano. ¿Se arrepiente? ¿Aceptó su responsabilidad? La tapatía acusó a la prensa de ser responsable de que Sebastián Rulli se molestara con ella. Además, expresó que ahora ya la toman como la nueva Carmelita Salinas. ¿Tiene la culpa la prensa? 

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Son 35 enfermeras y enfermeros quienes concluyeron su servicio social en las diferentes unidades y que fortalecerán el recurso humano requerido tanto en la pandemia como para cubrir otras necesidades hospitalarias"
-image: /uploads/2021/images-PCE_pasantesenfermeria_2021_(6).jpeg
-video: nil
-audio: nil
-alt: Reconoce Pensiones Civiles a pasantes de Enfermería que se integraron durante la pandemia
+image: "/uploads/2021/images-PCE_pasantesenfermeria_2021_(6).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Reconoce Pensiones Civiles a pasantes de Enfermería que se integraron durante la pandemia"
 front: false
-section: Local
+section: "Local"
+news_id: 186128
 ---
 
 Pensiones Civiles del Estado (PCE) entregó un reconocimiento a las y los 35 pasantes de Enfermería que realizaron su servicio social en las unidades de la Delegación Chihuahua, en el periodo de agosto del 2020 a julio del 2021. Las autoridades de Pensiones Civiles encabezadas por su director general, el director médico, la delegada en Chihuahua y la jefa de Enfermería, hicieron entrega de los reconocimientos.

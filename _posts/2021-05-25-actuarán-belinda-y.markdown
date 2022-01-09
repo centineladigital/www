@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Belinda y Christian Nodal pronto deleitarán a sus fans al unir su talento, ya que muy pronto ambos cantantes formarán parte de la producción de una telenovela. "
-image: /uploads/2021/images-belinda-christian-nodal-uniran-talento.jpg
-video: nil
-audio: nil
-alt: ¿Actuarán? Belinda y Christian Nodal participarán en una telenovela
+image: "/uploads/2021/images-belinda-christian-nodal-uniran-talento.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Actuarán? Belinda y Christian Nodal participarán en una telenovela"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184640
 ---
 
 Belinda y Christian Nodal han demostrado que su amor es verdadero, tanto que en unos meses la pareja cumplirá un año desde que iniciaron su relación. A pesar de que trabajaron como coaches de La Voz, programa donde inició su noviazgo, ahora los cantantes trabajarán juntos de nuevo, esta vez en una telenovela. Hace tan sólo unas semanas Christian Nodal dio un adelanto de una canción que grabó junto a Belinda y tal parece que los fans de “Nodeli”, nombre que se le ha dado a la pareja, podrán escuchar a los famosos en una canción que sin duda es un clásico: “Si nos dejan”, tema de José Alfredo Jiménez.

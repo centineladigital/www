@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pronostican un movimiento continuado hacia el oeste hasta el jueves, seguido de un cambio gradual hacia el oeste-noroeste la próxima semana"
-image: /uploads/2021/images-preve-larry-convierta-viernes-huracan.jpg
-video: nil
-audio: nil
-alt: ¿Más peligroso? Pronostican que Larry se convertirá hoy en un huracán de categoría mayor
+image: "/uploads/2021/images-preve-larry-convierta-viernes-huracan.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Más peligroso? Pronostican que Larry se convertirá hoy en un huracán de categoría mayor"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187392
 ---
 
 ¿Un nuevo huracán? El huracán Larry sigue fortaleciéndose al sur de las islas de Cabo Verde, en África, y se espera que se convierta en huracán de categoría mayor el viernes en su avance hacia el oeste por aguas abiertas del Atlántico. 

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Actualmente son mil 150 en todo el estado"
-image: /uploads/2021/images-Foto_4069-1.jpg
-video: nil
-audio: nil
-alt: Reconoce IMSS Chihuahua labor de las asistentes médicas 
+image: "/uploads/2021/images-Foto_4069-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reconoce IMSS Chihuahua labor de las asistentes médicas "
 front: false
-section: Local
+section: "Local"
+news_id: 186891
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua cuenta mil 150 Asistentes Médicas, quienes desempeñan un papel relevante como integrantes del grupo multidisciplinario de la salud en la institución. Lo anterior lo dio a conocer la titular del IMSS en la entidad, doctor Arturo Daniel Bonilla y Calderón, en el marco del Día del Asistente Médica, a celebrado este 18 de agosto. 

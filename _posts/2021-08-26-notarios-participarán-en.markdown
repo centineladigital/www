@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto para evitar problemas y señalamientos."
-image: /uploads/2021/images-villegas.jpg
-video: /uploads/2021/videos-MJ05_LUIS_VILLEGAS.mp4
-audio: nil
-alt: Notarios participarán en selección de jueces -  Villegas
+image: "/uploads/2021/images-villegas.jpg"
+video: "/uploads/2021/videos-MJ05_LUIS_VILLEGAS.mp4"
+audio: "nil"
+alt: "Notarios participarán en selección de jueces -  Villegas"
 front: false
-section: Local
+section: "Local"
+news_id: 187161
 ---
 
 Tras darse a conocer que se abrirán 18 plazas de jueces y juezas para la reforma laboral, el magistrado Luis Villegas Montes señaló que serán notarios quienes participen en la selección de quienes ocuparán estos espacios.

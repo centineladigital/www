@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El frente frío 35 acumuló una pulgada de nieve en la frontera; se mantiene vigilancia preventiva en la Janos-Agua Prieta "
-image: /uploads/2021/images-WhatsApp_Image_2021-02-14_at_10.48.58_AM.jpeg
-video: nil
-audio: nil
-alt: Deja nevada accidentes vehiculares y cierre carretero en Madera
+image: "/uploads/2021/images-WhatsApp_Image_2021-02-14_at_10.48.58_AM.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Deja nevada accidentes vehiculares y cierre carretero en Madera"
 front: false
-section: Local
+section: "Local"
+news_id: 182927
 ---
 
 El paso del frente frío 35 y la masa de aire polar asociada, en tránsito por la entidad, provocaron el descenso de temperatura hasta de -5.4 grados centígrados en Ciudad Juárez, lo que ocasionó un acumulamiento de nieve de una pulgada con varios accidentes automovilísticos por derrape debido al congelamiento del pavimento sin consecuencias graves, informó la Coordinación Estatal de Protección Civil.

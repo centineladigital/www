@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue internada en la unidad de terapia intensiva de un hospital público en Nuevo León, luego de que presentó erupción cutánea, crisis convulsivas y dificultad para respirar"
-image: /uploads/2021/images-2505232.jpg
-video: nil
-audio: nil
-alt: Estudian caso de doctora hospitalizada tras recibir vacuna anticovid
+image: "/uploads/2021/images-2505232.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estudian caso de doctora hospitalizada tras recibir vacuna anticovid"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 181820
 ---
 
 Autoridades de México dijeron que analizaban el caso de una doctora de 32 años que fue hospitalizada tras presentar una reacción clínica poco después de recibir la vacuna contra el COVID-19 de las farmacéuticas Pfizer y BioNTech.

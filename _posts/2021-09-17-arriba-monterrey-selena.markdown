@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante estrenó el miércoles “Selena Gomez: Artist Spotlight Stories”, de la serie de videos especiales de YouTube; fue así que reveló que tiene raíces mexicanas: de Monterrey. "
-image: /uploads/2021/images-orgullo-mexicano-selena-gomez-confirma.jpg
-video: nil
-audio: nil
-alt: ¡Arriba Monterrey! Selena Gómez revela que sus raíces son mexicanas; ésta es su historia
+image: "/uploads/2021/images-orgullo-mexicano-selena-gomez-confirma.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Arriba Monterrey! Selena Gómez revela que sus raíces son mexicanas; ésta es su historia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187813
 ---
 
 Orgullosa de tener raíces mexicanas! ¡Arriba Monterrey! Selena Gómez celebra el Mes de la Herencia Hispana con un conmovedor relato en primera persona acerca de sus orígenes. La cantante reveló que sus padres son originarios de Monterrey. Te contamos todo lo que sabemos sobre la vida de la cantante. La cantante estrenó el miércoles “Selena Gomez: Artist Spotlight Stories”, de la serie de videos especiales de YouTube en la que artistas como J Balvin, Bad Bunny y Camila Cabello han contado sus propias historias. 

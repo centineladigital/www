@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Pese a no ser su función como diputado, buscará que se promuevan y creen lugares para que se de forma constante estos métodos de control de fauna domestica."
-image: /uploads/2021/images-QUINTANA.jpg
-video: nil
-audio: /uploads/2021/audio-MM02_VICTOR_QUINTANA.mp3
-alt: Busca Quintana promover campañas de esterilización masiva
+image: "/uploads/2021/images-QUINTANA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM02_VICTOR_QUINTANA.mp3"
+alt: "Busca Quintana promover campañas de esterilización masiva"
 front: false
-section: Local
+section: "Local"
+news_id: 184780
 ---
 
 Como necesario es como calificó el candidato del distrito décimo segundo local, Víctor Quintana Silveira, el que se promuevan las campañas. Esto al señalar que, pese a no ser su función como diputado, buscará que se promuevan y creen lugares para que se de forma constante estos métodos de control de fauna domestica.

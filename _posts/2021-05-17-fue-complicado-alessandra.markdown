@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Entre los nuevos integrantes para esta temporada, que se estrenará el 20 de mayo, se encuentra Fiona, la perrita bulldog de Eugenio Derbez. "
-image: /uploads/2021/images-viaje-plena-pandemia-llevaron-cabo.jpg
-video: nil
-audio: nil
-alt: Fue complicado -  Alessandra Rosaldo revela dificultades en segunda temporada del reality 'De viaje con los Derbez'
+image: "/uploads/2021/images-viaje-plena-pandemia-llevaron-cabo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fue complicado -  Alessandra Rosaldo revela dificultades en segunda temporada del reality 'De viaje con los Derbez'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184493
 ---
 
 Después de haber viajado a Marruecos en la primera temporada de De viaje con los Derbez, la familia de Eugenio Derbez fue "al otro extremo" y se adentró a parques nacionales del noroeste de Estados Unidos para una segunda entrega del reality, donde todos vivieron un viaje más "íntimo" y menos conflictivo. "Fue complicado ponernos de acuerdo porque después de la primera temporada, la mitad de la familia dijo 'Yo nunca más', y la otra mitad dijimos 'Yo sí le entro'. Fue difícil lograr que todos dijeran 'Va'", explicó Alessandra Rosaldo, pareja de Eugenio, sobre la serie que se estrenará en Latinoamérica el 20 de mayo por Amazon Prime Video. 

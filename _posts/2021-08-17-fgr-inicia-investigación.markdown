@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Personal pericial especializado y de investigación policiaca federal se trasladará de inmediato a Yucatán para iniciar las diligencias que sean procedentes"
-image: /uploads/2021/images-jose-eduardo-ravelo-especial.jpg
-video: nil
-audio: nil
-alt: FGR inicia investigación por muerte José Eduardo Ravelo, joven asesinado en Mérida
+image: "/uploads/2021/images-jose-eduardo-ravelo-especial.jpg"
+video: "nil"
+audio: "nil"
+alt: "FGR inicia investigación por muerte José Eduardo Ravelo, joven asesinado en Mérida"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186791
 ---
 
 La Fiscalía General de la República (FGR) inició una carpeta de investigación por la muerte del joven José Eduardo Ravelo Echavarría, quien se presume fue golpeado y violado por policías municipales de Mérida, Yucatán.

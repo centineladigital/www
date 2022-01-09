@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto ya que aún no se ha ratificado al Fiscal."
-image: /uploads/2021/images-R2.jpeg
-video: nil
-audio: /uploads/2021/audio-MJ01_ROBERTO_FIERRO.mp4
-alt: Fiscales de zona continúan trabajando -  Fierro
+image: "/uploads/2021/images-R2.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01_ROBERTO_FIERRO.mp4"
+alt: "Fiscales de zona continúan trabajando -  Fierro"
 front: false
-section: Local
+section: "Local"
+news_id: 187595
 ---
 
 "Hay personal que ya tomó el área" fueron las palabras de Roberto Fierro, próximo Fiscal de Chihuahua al ser cuestionado respecto a sus actividades, esto luego de que está a punto de tomar el puesto esto una vez que el congreso ratifique su nombramiento como titular de la Fiscalía General de Chihuahua.

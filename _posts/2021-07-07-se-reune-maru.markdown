@@ -16,12 +16,13 @@ tags:
   
 author: nil
 description: "Seguridad, desarrollo social y recursos: coincidencias de Maru y AMLO para Chihuahua"
-image: /uploads/2021/images-maru_amlo.jpeg
-video: /uploads/2021/videos-MARU_AFUERA.mp4
-audio: nil
-alt: Se reune Maru Campos con el Presidente López Obrador 
+image: "/uploads/2021/images-maru_amlo.jpeg"
+video: "/uploads/2021/videos-MARU_AFUERA.mp4"
+audio: "nil"
+alt: "Se reune Maru Campos con el Presidente López Obrador "
 front: false
-section: Local
+section: "Local"
+news_id: 185408
 ---
 
 Este martes la Gobernadora Electa de Chihuahua, Maru Campos Galván sostuvo una reunión con el Presidente de la República, Andrés Manuel López Obrador en Palacio Nacional, en donde se abordaron diversos temas de interés para Chihuahua como seguridad, desarrollo social y la importancia de mantener una relación de comunicación y de confianza.

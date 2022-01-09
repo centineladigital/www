@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Personas que se encuentran aplicando la vacuna no tienen a donde acudir para hacer de sus necesidades, pues las instalaciones universitarias permanecen cerradas  "
-image: /uploads/2021/images-vacunas_3.jpg
-video: nil
-audio: nil
-alt: Voluntarios de vacunación en Campus II no tienen acceso a un sanitario
+image: "/uploads/2021/images-vacunas_3.jpg"
+video: "nil"
+audio: "nil"
+alt: "Voluntarios de vacunación en Campus II no tienen acceso a un sanitario"
 front: false
-section: Local
+section: "Local"
+news_id: 184534
 ---
 
 El personal de salud que labora en el punto de vacunación del Campus II de la Universidad Autónoma de Chihuahua no cuenta con baños portátiles, en esta ocasión no rentaron, ni tampoco les abrieron los que se encuentran en un edificio aledaño.

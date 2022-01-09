@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras cambiar la letra del Himno Nacional, Pablo Montero asegura que ofreció una disculpa a Segob a pocas horas de haberse equivocado en la final del futbol. "
-image: /uploads/2021/images-cantante-cometio-error-cantar-himno.jpg
-video: nil
-audio: nil
-alt: Pablo Montero asegura se disculpó con Segob por cambiar letra del Himno Nacional
+image: "/uploads/2021/images-cantante-cometio-error-cantar-himno.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pablo Montero asegura se disculpó con Segob por cambiar letra del Himno Nacional"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185295
 ---
 
 Hace un mes se llevó a cabo la final de ida entre Santos vs Cruz Azul en la que antes de dar inicio, Pablo Montero interpretó el Himno Nacional, sin embargo, se equivocó y cambió la letra, por lo que de inmediato comenzaron a criticarlo en redes sociales y se aseguró que el cantante debía pagar una multa. 

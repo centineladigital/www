@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El legendario miembro de los Stones se había sometido recientemente a una operación"
-image: /uploads/2021/images-68fc42c9-ee05-495a-8772-1bba853fcb50.jpg
-video: nil
-audio: nil
-alt: Murió Charlie Watts, baterista de 'The Rolling Stones', a los 80 años
+image: "/uploads/2021/images-68fc42c9-ee05-495a-8772-1bba853fcb50.jpg"
+video: "nil"
+audio: "nil"
+alt: "Murió Charlie Watts, baterista de 'The Rolling Stones', a los 80 años"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187044
 ---
 
 El legendario baterista de la banda británica The Rolling Stones, Charlie Watts, murió a los 80 años de edad, así lo informó este martes Bernard Doherty, publicista del músico. El legendario miembro de los "Stones" se había sometido recientemente a una operación, lo que forzó su retirada de la próxima gira planeada por el grupo en EU. 

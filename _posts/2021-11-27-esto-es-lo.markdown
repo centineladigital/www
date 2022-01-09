@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Esto es lo que sabemos acerca de Omicron, la nueva variante de coronavirus"
+date: 2021-11-27T17:04:00.000-06:00
+tags:
+  
+  - Omicron
+  
+  - Variante
+  
+  - Covid-19
+  
+author: nil
+description: "La OMS calificó esta nueva variante como un virus altamente transmisible y preocupante; tras su anuncio, Omicron provocó incertidumbre global y un “viernes negro” para los mercados "
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Esto es lo que sabemos acerca de Omicron, la nueva variante de coronavirus"
+front: false
+section: "Internacional"
+news_id: 190271
+---
+
+Científicos sudafricanos registraron el pasado 24 de noviembre una nueva variante de coronavirus, potencialmente "más contagiosa" y con "múltiples mutaciones". 
+
+Autoridades sanitarias indicarón la detección de cerca de 22 casos principalmente de jóvenes, según el Instituto Nacional de Enfermedades Transmisibles (NICD, por sus siglas en inglés). También se registraron casos en el vecino Botsuana y en Hong Kong, en una persona que regresó de un viaje a Sudáfrica.  
+
+De acuerdo el virólogo Tulio de Oliveira, la variante B.1.1.529 que recibió el nombre de Omicron tiene un número “extremadamente elevado” de mutaciones y “podemos ver que tiene un potencial muy alto de propagación”, indicó.
+
+Por ahora, los científicos sudafricanos desconocen si las vacunas existentes son eficaces contra esta nueva forma del virus.
+
+OMS alerta nueva variante Covid
+El Organismo Mundial de la Salud (OMS), alertó la tarde de este viernes, como un virus altamente "transmisible y preocupante", la nueva variante de coronavirus B.1.1.529. A la que denominó con el nombre de "Omicron".
+
+El organismo internacional declaró que la evidencia preliminar sugiere que Omicron conlleva un mayor riesgo de reinfección que otras variantes preocupantes, y el número de casos parece estar aumentando en casi todas las provincias de Sudáfrica.
+
+De acuerdo con la OMS, "en las últimas semanas, las infecciones han aumentado considerablemente, coincidiendo con la detección de la variante B.1.1.529. La primera infección confirmada conocida por B.1.1.529 fue de una muestra recolectada el 9 de noviembre de 2021".
+
+(El Universal) 

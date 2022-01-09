@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se tiene que tomar en cuenta estas variantes ya que cada una de ellas tiene diversas características."
-image: /uploads/2021/images-ARTURO.jpg
-video: /uploads/2021/videos-MV07_ARTURO_VALENZUELA.mp4
-audio: nil
-alt: Reportan 21 casos Delta en la semana dos de agosto
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "/uploads/2021/videos-MV07_ARTURO_VALENZUELA.mp4"
+audio: "nil"
+alt: "Reportan 21 casos Delta en la semana dos de agosto"
 front: false
-section: Local
+section: "Local"
+news_id: 186674
 ---
 
 De la semana del 8 al 14 de agosto 21 nuevos casos coronavirus de la variante Delta fueron detectados en el territorio estatal, señaló señaló el Director Médico Zona Norte Arturo Valenzuela Zorrilla.

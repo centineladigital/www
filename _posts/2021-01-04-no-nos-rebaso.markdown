@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Destaca López Obrador programa para ampliación de camas, de hospitales, de especialistas…; confía que en primer trimestre del año se recuperarán la economía y los empleos"
-image: /uploads/2021/images-2506027.jpg
-video: nil
-audio: nil
-alt: ‘No nos rebaso situación de Covid-19 en CDMX y Edomex’
+image: "/uploads/2021/images-2506027.jpg"
+video: "nil"
+audio: "nil"
+alt: "‘No nos rebaso situación de Covid-19 en CDMX y Edomex’"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 181837
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que la grave situación de la pandemia de Covid-19 en la Ciudad de México y el Estado de México “no nos rebasó” debido al programa de atención que se llevó a cabo para contener su avance.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente de Rusia firma la ley que le permite presentarse a dos nuevos mandatos presidenciales de seis años, allanando el camino a su permanencia en el poder hasta 2036"
-image: /uploads/2021/images-2557230.jpg
-video: nil
-audio: nil
-alt: Putin promulga ley que le permite reelegirse hasta 2036
+image: "/uploads/2021/images-2557230.jpg"
+video: "nil"
+audio: "nil"
+alt: "Putin promulga ley que le permite reelegirse hasta 2036"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183672
 ---
 
 El presidente ruso, Vladimir Putin, de 68 años, firmó este lunes la ley que le permite presentarse a dos nuevos mandatos presidenciales de seis años, abriendo la puerta a su continuidad en el Kremlin hasta 2036.

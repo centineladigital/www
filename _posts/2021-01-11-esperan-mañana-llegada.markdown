@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Llegarán más de 14 mil vacunas al Estado"
-image: /uploads/2021/images-MIRNA_BELTRAN_(4).jpg
-video: nil
-audio: /uploads/2021/audio-ML05_MIRNA_BELTRAN.mp3
-alt: Esperan mañana llegada de vacuna
+image: "/uploads/2021/images-MIRNA_BELTRAN_(4).jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML05_MIRNA_BELTRAN.mp3"
+alt: "Esperan mañana llegada de vacuna"
 front: false
-section: Local
+section: "Local"
+news_id: 182044
 ---
 
 Entre el 12 y 18 de enero esperan que se reciba la vacuna en el estado de Chihuahua, señaló la Subsecretaria de Salud Mirna Beltrán Arzaga. Esto al dar a conocer la forma en la que se llevará a cabo la primera etapa de vacunación contra el COVID.

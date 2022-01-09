@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Con el objetivo de informar y orientar a las mujeres en el cuidado de la salud y prevención de distintas enfermedades"
-image: /uploads/2021/images-unnamed_(7).jpg
-video: nil
-audio: nil
-alt: Invitan a conferencia virtual sobre lactancia materna   
+image: "/uploads/2021/images-unnamed_(7).jpg"
+video: "nil"
+audio: "nil"
+alt: "Invitan a conferencia virtual sobre lactancia materna   "
 front: false
-section: Local
+section: "Local"
+news_id: 186061
 ---
 
 Como parte de las actividades realizadas en el marco del ciclo de conferencias “1, 2, 3 de la salud de la mujer”, el Instituto Municipal de las Mujeres (IMM) en colaboración con el Comité de Salud de Grupo Index, invitan a la plática “Lactancia materna” el próximo martes 03 de agosto a las 9:00 horas.

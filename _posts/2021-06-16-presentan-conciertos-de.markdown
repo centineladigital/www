@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se presentarán el 25 y 26 de junio."
-image: /uploads/2021/images-IVAN.jpg
-video: nil
-audio: /uploads/2021/audio-MW05.mp3
-alt: Presentan conciertos de la Orquesta Filarmónica
+image: "/uploads/2021/images-IVAN.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW05.mp3"
+alt: "Presentan conciertos de la Orquesta Filarmónica"
 front: false
-section: Local
+section: "Local"
+news_id: 185067
 ---
 
 De forma presencial la Orquesta Filarmónica de Chihuahua volverá a los escenarios, esto tras más de un año de estar de forma virtual, por lo que el día 25 y 26 interpretarán obras de Beethoven en Chihuahua y Juárez, respectivamente.

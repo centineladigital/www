@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El mandatario confesó que existe la probabilidad de que el grupo terrorista conocido como ISIS-K ataque a las tropas estadounidenses mientras realizan tareas de evacuación en el aeropuerto de Kabul"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Biden advierte sobre posible ataque terrorista del Estado Islámico en Afganistán
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Biden advierte sobre posible ataque terrorista del Estado Islámico en Afganistán"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187083
 ---
 
 El presidente Joe Biden dijo el martes que el puente aéreo de evacuación liderado por Estados Unidos desde Afganistán tiene que terminar pronto debido a la creciente amenaza del brazo afgano del grupo Estado Islámico. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En conferencia de prensa, explica Javier Corral los detalles del inicio del ciclo escolar 2021-2022 para el lunes 30 de agosto, en un modelo que ante todo será flexible, frente a posibles ajustes de las autoridades de Salud   "
-image: /uploads/2021/images-CONFERENCIA_DE_PRENSA_REGRESO_A_CLASES_PRESENCIALES_2.JPG
-video: nil
-audio: nil
-alt: Apoyamos impulso para el regreso presencial escalonado a clases -  Javier Corral
+image: "/uploads/2021/images-CONFERENCIA_DE_PRENSA_REGRESO_A_CLASES_PRESENCIALES_2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Apoyamos impulso para el regreso presencial escalonado a clases -  Javier Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 187020
 ---
 
 El Gobierno del Estado de Chihuahua está firme en el lineamiento para regresar a clases presenciales, con base en un modelo escalonado, limitado al 50 por ciento de aforo, fuertes controles sanitarios y la flexibilidad para ajustarse a nuevos dictámenes del sector Salud, señaló el gobernador Javier Corral.

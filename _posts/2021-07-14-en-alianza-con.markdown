@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Por medio de la Dirección de Fortalecimiento Familiar se apoyaron 453 proyectos con una inversión de más de 111.8 mdp."
-image: /uploads/2021/images-caravana_familias_3.jpg
-video: nil
-audio: nil
-alt: En alianza con 188 OSC atendió DIF Estatal a más de 495 mil personas en todo el estado
+image: "/uploads/2021/images-caravana_familias_3.jpg"
+video: "nil"
+audio: "nil"
+alt: "En alianza con 188 OSC atendió DIF Estatal a más de 495 mil personas en todo el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 185657
 ---
 
 A través de la Dirección de Fortalecimiento Familiar, el DIF Estatal diseñó y operó una estrategia de vinculación con las Organizaciones de la Sociedad Civil (OSC) para que los beneficios llegaran a más personas en todos los rincones del estado, se informó en el programa Logros con Valor del Gobierno del Estado.

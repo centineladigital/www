@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pueden realizar el pago en Alsuper, Oxxo, Smart, Bancomer, Banamex, Banorte, HSBC, Santander, Scotiabank y Banbajio"
-image: /uploads/2021/images-unnamed.png
-video: nil
-audio: nil
-alt: Invita Gobierno Municipal a aprovechar descuento del 8% en el Impuesto Predial
+image: "/uploads/2021/images-unnamed.png"
+video: "nil"
+audio: "nil"
+alt: "Invita Gobierno Municipal a aprovechar descuento del 8% en el Impuesto Predial"
 front: false
-section: Local
+section: "Local"
+news_id: 182780
 ---
 
 El Gobierno Municipal a través de la Tesorería, invita a la ciudadanía a aprovechar el descuento del 8 por ciento en el impuesto predial durante el mes de febrero, cuyo trámite pueden pagar desde casa vía internet. 

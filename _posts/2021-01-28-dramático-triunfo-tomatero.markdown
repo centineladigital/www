@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La novena de Culiacán dejó en el terreno a Naranjeros para forzar un sexto encuentro en la Final"
-image: /uploads/2021/images-2519815.jpg
-video: nil
-audio: nil
-alt: Dramático triunfo tomatero; alargan la serie
+image: "/uploads/2021/images-2519815.jpg"
+video: "nil"
+audio: "nil"
+alt: "Dramático triunfo tomatero; alargan la serie"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182512
 ---
 
 Los Tomateros respiran.  Michael Wing estuvo apunto de enterrar las aspiraciones de Culiacán con su guante, pero con el bat respondió y  pegó  el batazo que le dio el triunfo 4-3 sobre los Naranjeros de Hermosillo  para acercarse 3-2 en la Serie Final de la Liga Mexicana del Pacífico.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Llevarán camiones de Chihuahua a Ciudad Juárez."
-image: /uploads/2021/images-DAVID_HOLGUIN.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01_DAVID_HOLGUIN.mp3
-alt: Falta de gas afectará transporte en Ciudad Juárez
+image: "/uploads/2021/images-DAVID_HOLGUIN.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01_DAVID_HOLGUIN.mp3"
+alt: "Falta de gas afectará transporte en Ciudad Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 183022
 ---
 
 La falta de gas afectará en Ciudad Juárez principalmente, esto ya que el 80 por ciento del transporte público se maneja de esta forma, según lo dio a conocer el titular del área de transporte David Holguín.

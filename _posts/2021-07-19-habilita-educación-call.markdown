@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Atenderá de lunes a viernes en horario de 9:00 a 15:00 horas en el número telefónico (614) 4293300, extensiones 21012, 21013 y 21061."
-image: /uploads/2021/images-CHIHUAHUA_2021.jpg
-video: nil
-audio: nil
-alt: Habilita Educación call center para informar sobre espacios disponibles en bachillerato
+image: "/uploads/2021/images-CHIHUAHUA_2021.jpg"
+video: "nil"
+audio: "nil"
+alt: "Habilita Educación call center para informar sobre espacios disponibles en bachillerato"
 front: false
-section: Local
+section: "Local"
+news_id: 185785
 ---
 
 Con el objetivo de brindar asesoría e información sobre los planteles de nivel medio superior con disponibilidad de espacio, la Secretaría de Educación y Deporte (SEyD) habilitó a partir de este lunes 19 de julio, un call center en el número telefónico (614) 4293300, extensiones 21012, 21013 y 21061 en horario de 9:00 a 15:00 horas.

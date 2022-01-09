@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La titular del Ejecutivo fue recibida por el doctor Uriel Oswaldo Duarte Román, director del Hospital Infantil, con quien visitó las diversas áreas con las que cuenta este sanatorio."
-image: /uploads/2021/images-WhatsApp_Image_2021-09-14_at_13.39.54.jpeg
-video: /uploads/2021/videos-WhatsApp_Video_2021-09-14_at_13.39.55.mp4
-audio: nil
-alt: Visita Gobernadora el Hospital Infantil de Especialidades para conocer condiciones 
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-14_at_13.39.54.jpeg"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-09-14_at_13.39.55.mp4"
+audio: "nil"
+alt: "Visita Gobernadora el Hospital Infantil de Especialidades para conocer condiciones "
 front: false
-section: Local
+section: "Local"
+news_id: 187734
 ---
 
 La gobernadora Maru Campos Galván realizó una visita, así como un recorrido por el Hospital Infantil de Especialidades de Chihuahua, para conocer la realidad que se vive actualmente en él, así como las necesidades que existen a fin de trazar los mejores proyectos para este nosocomio.

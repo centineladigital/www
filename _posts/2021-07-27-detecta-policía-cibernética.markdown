@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La Policía Cibernética del Municipio, emite recomendaciones que serán útiles al momento de contratar este tipo de servicios en línea, toda vez que detectó 47 agencias fraudulentas"
-image: /uploads/2021/images-unnamed_(5).jpg
-video: nil
-audio: nil
-alt: Detecta Policía Cibernética 47 agencias de viajes fraudulentas
+image: "/uploads/2021/images-unnamed_(5).jpg"
+video: "nil"
+audio: "nil"
+alt: "Detecta Policía Cibernética 47 agencias de viajes fraudulentas"
 front: false
-section: Local
+section: "Local"
+news_id: 186033
 ---
 
 Debido a la temporada vacacional y con el objetivo de evitar que quienes compran viajes o paquetes vacacionales a través de Internet, sean víctimas de defraudadores que se anuncian en páginas falsas, la Policía Cibernética del Municipio, emite recomendaciones que serán útiles al momento de contratar este tipo de servicios en línea, toda vez que detectó 47 agencias fraudulentas.

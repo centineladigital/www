@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Presidente rechazó que las modificaciones a la Ley de la Industria Eléctrica aprobadas por el Congreso caigan en la ilegalidad, por lo que confió en que las impugnaciones de la oposición no prosperen"
-image: /uploads/2021/images-2539151.jpg
-video: nil
-audio: nil
-alt: López Obrador -  Corte avalará la reforma eléctrica; confía en revés legal a opositores
+image: "/uploads/2021/images-2539151.jpg"
+video: "nil"
+audio: "nil"
+alt: "López Obrador -  Corte avalará la reforma eléctrica; confía en revés legal a opositores"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183263
 ---
 
 La reforma a la Ley de la Industria Eléctrica aprobada en el Congreso de la Unión resistirá el escrutinio de la Suprema Corte, aseguró el presidente Andrés Manuel López Obrador.

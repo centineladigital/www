@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La estrategia recuperó 643 millones 968 mil 557 pesos, permitió ejercer acción penal en contra de 41 exservidores públicos y empresarios, dictaminar 16 sentencias condenatorias penales y la captura del exgobernador en Miami, Florida, en espera de ser extraditado"
-image: /uploads/2021/images-RANCHOS__(8).JPG
-video: nil
-audio: nil
-alt: Quita Chihuahua mega rancho a exgobernador para entregarlo al Pueblo
+image: "/uploads/2021/images-RANCHOS__(8).JPG"
+video: "nil"
+audio: "nil"
+alt: "Quita Chihuahua mega rancho a exgobernador para entregarlo al Pueblo"
 front: false
-section: Local
+section: "Local"
+news_id: 182656
 ---
 
 Instancias judiciales decretaron el abandono en favor del Gobierno del Estado, de dos predios adquiridos de manera irregular por el exgobernador, por lo que pasarán a ser propiedad del Pueblo de Chihuahua, anunció el gobernador Javier Corral Jurado durante su 4° Informe de Gobierno.

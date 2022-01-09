@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "No descarta presencia de actores de diversos partidos."
-image: /uploads/2021/images-SERRATO.jpg
-video: nil
-audio: /uploads/2021/audio-MM02_LUIS_SERRATO.mp3
-alt: Sin definir gabinete, será de forma paulatina elección
+image: "/uploads/2021/images-SERRATO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM02_LUIS_SERRATO.mp3"
+alt: "Sin definir gabinete, será de forma paulatina elección"
 front: false
-section: Local
+section: "Local"
+news_id: 185045
 ---
 
 Aún no se tiene definido quien integrará el gabinete de forma oficial, sin embargo, será la misma María Eugenia Campos Galván quien defina esta situación según dijo el representante y encargado de la trasncisión, Luis Serrato.

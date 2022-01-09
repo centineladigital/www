@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Funcionarios con liciencia, uno de ellos regidor suplente."
-image: /uploads/2021/images-s1.jpg
-video: nil
-audio: /uploads/2021/audio-MV05_FERMIN_ORDOÑEZ.mp3
-alt: Denuncian fraude en el CUM
+image: "/uploads/2021/images-s1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05_FERMIN_ORDOÑEZ.mp3"
+alt: "Denuncian fraude en el CUM"
 front: false
-section: Local
+section: "Local"
+news_id: 184080
 ---
 
 Por un monto de 400 mil pesos es el desfalco fueron denunciados dos panistas, uno de ellos suplente a regidor en la plantilla del Partido Acción Nacional, según fue dado a conocer por parte del candidato a diputado por el distrito 18, Fermín Ordoñez.

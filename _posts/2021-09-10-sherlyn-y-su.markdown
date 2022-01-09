@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Sherlyn, quien vacaciona en Los Cabos, compartió con sus seguidores que tuvo que resguardarse del huracán Olaf en el hotel en el que se encuentra. "
-image: /uploads/2021/images-sherlyn_cabos.jpg
-video: nil
-audio: nil
-alt: Sherlyn y su hijo quedan atrapados en Los Cabos por llegada de huracán 'Olaf'
+image: "/uploads/2021/images-sherlyn_cabos.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sherlyn y su hijo quedan atrapados en Los Cabos por llegada de huracán 'Olaf'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187615
 ---
 
 Sherlyn de nueva cuenta se ve atrapada por el paso de un huracán, en esta ocasión “Olaf”, que tocó tierra en Los Cabos, lugar en donde la actriz se encuentra vacacionando junto a su hijo Andrés y sus padres. A través de redes sociales, Sherlyn contó a sus seguidores a través de historias en Instagram que debido a que se esperaba que el huracán “Olaf” tocará tierra en Los Cabos, el hotel donde se encuentra tuvo que realizar medidas para proteger a sus huéspedes.

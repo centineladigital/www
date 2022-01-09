@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Lo califican como una falta de disciplina financiera"
-image: /uploads/2021/images-GFD.jpg
-video: /uploads/2021/videos-BM05_LUIS_AGUILAR.mp4
-audio: nil
-alt: La deuda del estado es de 64 mil 514 millones de pesos 
+image: "/uploads/2021/images-GFD.jpg"
+video: "/uploads/2021/videos-BM05_LUIS_AGUILAR.mp4"
+audio: "nil"
+alt: "La deuda del estado es de 64 mil 514 millones de pesos "
 front: false
-section: Local
+section: "Local"
+news_id: 187305
 ---
 
 Los diputados electos, Luis Aguilar y Carlos Olson, dieron un informe de la finanzas del estado de Chihuahua, afirmaron que las finanzas están en un momento muy complicado, en donde explicaron que la deuda que se tiene actualmente es de 64 mil 514 millones de pesos.

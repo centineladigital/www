@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Estos reportes se atienden las 24 horas del día, los 7 días de la semana, para poder responder lo más pronto posible los mismos."
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Invitan a reportar desperfectos de alumbrado público al 072
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Invitan a reportar desperfectos de alumbrado público al 072"
 front: false
-section: Local
+section: "Local"
+news_id: 183909
 ---
 
 Con el objetivo de brindar el mantenimiento adecuado a la iluminación en las calles y avenidas de la ciudad, se invita a la población a reportar las fallas y desperfectos que se pudieran observar en el sistema de alumbrado público al número 072.

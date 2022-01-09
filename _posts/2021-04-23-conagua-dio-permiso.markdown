@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el 2018 obtuvo permiso para descargar arsénico, cobre, cromo y demás elementos hasta por 300 mil metros cúbicos al año"
-image: /uploads/2021/images-aguasresiduales.jpg
-video: nil
-audio: nil
-alt: Conagua dio permiso a Bafar para descargar aguas residuales en Chuvíscar
+image: "/uploads/2021/images-aguasresiduales.jpg"
+video: "nil"
+audio: "nil"
+alt: "Conagua dio permiso a Bafar para descargar aguas residuales en Chuvíscar"
 front: false
-section: Local
+section: "Local"
+news_id: 184059
 ---
 
 El director de Relaciones Institucionales del Grupo Bafar, Alfonso Lechuga de la Peña, dio a conocer que la empresa cuenta con un permiso de la Comisión Nacional del Agua desde el año 2018 para hacer descargas que cumplen con requerimientos de Semarnat, de mil metros cúbicos de aguas residuales al día en el río Chuvíscar, en la ciudad de Chihuahua.

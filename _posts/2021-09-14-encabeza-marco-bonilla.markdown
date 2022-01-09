@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con el fin de dar a conocer la comisión de los programas del IMPLAN, así como aspectos financieros del instituto  "
-image: /uploads/2021/images-WhatsApp_Image_2021-09-14_at_16.27.09.jpeg
-video: nil
-audio: nil
-alt: Encabeza Marco Bonilla sesión ordinaria de la Comisión Ejecutiva del IMPLAN
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-14_at_16.27.09.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Encabeza Marco Bonilla sesión ordinaria de la Comisión Ejecutiva del IMPLAN"
 front: false
-section: Local
+section: "Local"
+news_id: 187739
 ---
 
 El presidente municipal Marco Bonilla Mendoza encabezó su primera sesión ordinaria de la Comisión Ejecutiva del Instituto de Planeación Integral del Municipio de Chihuahua (IMPLAN), para integrarse y atender las acciones de trabajo de esta comisión en materia de planeación urbana. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Elizabeth Olsen siguió los pasos de sus hermanas mayores Mary-Kate y Ashley Olsen en la actuación y desde pequeña participó con ellas en un video musical. "
-image: /uploads/2021/images-elizabeth-olsen-pequena-aparicion-video_55_0_1045_650.jpg
-video: nil
-audio: nil
-alt: ¡Adorable! El video musical que grabó Elizabeth Olsen junto a sus hermanas Mary-Kate y Ashley
+image: "/uploads/2021/images-elizabeth-olsen-pequena-aparicion-video_55_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Adorable! El video musical que grabó Elizabeth Olsen junto a sus hermanas Mary-Kate y Ashley"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182960
 ---
 
 Durante los años 90 las gemelas Mary-Kate y Ashley Olsen causaron sensación cuando aparecieron en la serie Full House. Poco a poco comenzaron a aparecer en otras producciones como Campeonas por igual, Pasaporte a París o Un Instante en Nueva York, películas que protagonizaron, sin embargo, desde hace ya algunos años su hermana menor, Elizabeth Olsen ha destacado en la actuación. 

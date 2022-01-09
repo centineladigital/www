@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cuadro mexicano viene de atrás para doblegar 2-1 al Ulsan Hyundai de Corea, con un doblete de Gignac. Va contra Palmeiras el próximo domingo. Un golazo del cuadro asiático fue anulado"
-image: /uploads/2021/images-2523676.jpg
-video: nil
-audio: nil
-alt: Remontada de Tigres; a semis del Mundial de Clubes
+image: "/uploads/2021/images-2523676.jpg"
+video: "nil"
+audio: "nil"
+alt: "Remontada de Tigres; a semis del Mundial de Clubes"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182689
 ---
 
 Tal y como ha sucedido en otros momentos importantes desde su llegada al equipo en 2015, André-Pierre Gignac volvió a llevar a los Tigres al éxito. Los regiomontanos empezaron perdiendo los cuartos de final del Mundial de Clubes, ante el Ulsan Hyundai de Corea del Sur, pero terminaron ganando 2-1 con dos goles del jugador francés. Los regiomontanos se medirán al Palmeiras de Brasil en las semifinales del torneo internacional.

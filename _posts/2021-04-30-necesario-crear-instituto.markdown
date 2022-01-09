@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Necesario incentivar la economía de Chihuahua."
-image: /uploads/2021/images-ALFREDO.jpg
-video: nil
-audio: /uploads/2021/audio-MV01_ALFREDO_CHAVEZ.mp3
-alt: Necesario crear Instituto Estatal del Emprendedor
+image: "/uploads/2021/images-ALFREDO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV01_ALFREDO_CHAVEZ.mp3"
+alt: "Necesario crear Instituto Estatal del Emprendedor"
 front: false
-section: Local
+section: "Local"
+news_id: 184219
 ---
 
 La creación del Instituto Estatal del Emprendedor es primordial para el estado, esto por la situación que ha generado la pandemia, aseveró el candidato del distrito décimo quinto Alfredo Chávez, quien tiene la titularidad de la formula panista y el suplente Agustín García dieron a conocer la postura que como fórmula tienen en relación a las acciones que llevarán a cabo por al momento de ocupar un curul dentro del Congreso del Estado.

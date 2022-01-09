@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Es solo para adultos mayores de 60 años originarios de Aldama, Belisario Domínguez, Gran Morelos, Namiquipa, Santa Isabel, Julimes, Meoqui, Saucillo, Guerrero, Guadalupe, Praxedis G. Guerrero, Casas Grandes, Nuevos Casas Grandes, Ojinaga, Coyame, Manuel Benavides, Ahumada, Janos y Galeana"
-image: /uploads/2021/images-Aplicación_de_vacuna_anti_COVID-19_(2).jpeg
-video: nil
-audio: nil
-alt: Se extiende vacunación contra COVID-19 a otros 19 municipios
+image: "/uploads/2021/images-Aplicación_de_vacuna_anti_COVID-19_(2).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Se extiende vacunación contra COVID-19 a otros 19 municipios"
 front: false
-section: Local
+section: "Local"
+news_id: 183479
 ---
 
 Las instituciones públicas de salud federales y estatales, en conjunto con la Delegación Estatal de Programas para el Desarrollo del Gobierno Federal, informaron que los días 19 y 20 de marzo continúa la aplicación de la vacuna contra COVID-19 en otros 19 municipios que se enlistan a continuación:

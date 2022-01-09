@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Actualmente continúa en el área de terapia intensiva bajo estrecha vigilancia médica, señaló el reporte de salud del cantante."
-image: /uploads/2021/images-vche.jpg
-video: nil
-audio: nil
-alt: Tras 30 días hospitalizado, Vicente Fernández se encuentra estable con una evolución estacionaria
+image: "/uploads/2021/images-vche.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tras 30 días hospitalizado, Vicente Fernández se encuentra estable con una evolución estacionaria"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187499
 ---
 
 Este lunes Vicente Fernández cumplió 30 días hospitalizado, por lo que el personal médico que lo atiende y sus familiares dieron a conocer su reporte de salud ya no a través de una conferencia, sino por un comunicado que se difundió en redes sociales. "En forma general, se ha mantenido estable con una evolución estacionaria, principalmente en relación a su condición neurológica y a su movilidad", señaló el texto. 

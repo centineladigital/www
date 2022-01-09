@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Advierte de fuertes vientos con rachas que superarían los 65 km/h este martes 7, principalmente en el noroeste de la entidad"
-image: /uploads/2021/images-LLUVIOSO_GUADALUPE_Y_CALVO_AGOSTO_2021.jpeg
-video: nil
-audio: nil
-alt: Tendrán Morelos y Guadalupe y Calvo las lluvias más intensas de este lunes 6
+image: "/uploads/2021/images-LLUVIOSO_GUADALUPE_Y_CALVO_AGOSTO_2021.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Tendrán Morelos y Guadalupe y Calvo las lluvias más intensas de este lunes 6"
 front: false
-section: Local
+section: "Local"
+news_id: 187465
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que para este lunes 6 de septiembre se pronostican lluvias de moderadas e intervalos de chubascos a puntuales fuertes (de 25.1 a 50 mm) en el suroeste del estado, principalmente en Morelos y Guadalupe y Calvo.

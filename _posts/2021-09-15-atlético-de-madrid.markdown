@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Héctor Herrera y Jesús Tecatito Corona se podrían enfrentaren el partido entre Atlético de Madrid y el FC Porto"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Atlético de Madrid vs Porto, duelo de mexicanos en la Champions League
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Atlético de Madrid vs Porto, duelo de mexicanos en la Champions League"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187755
 ---
 
 La actividad de la primera jornada de la UEFA Champions League continuará este miércoles con partidos de gran calibre. Uno de ellos será el duelo entre el Atlético de Madrid y el Porto, en el que es especial para los mexicanos por la presencia de los futbolistas Héctor Herrera y Jesús ‘Tecatito’ Corona.

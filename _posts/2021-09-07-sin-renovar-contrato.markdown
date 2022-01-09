@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Trabajadores del albergues y otras instancias."
-image: /uploads/2021/images-EMMA.jpg
-video: nil
-audio: /uploads/2021/audio-MM04_EMMA_SALDAÑA.mp4
-alt: Sin renovar contrato a 124 trabajadores de ICHmujeres
+image: "/uploads/2021/images-EMMA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04_EMMA_SALDAÑA.mp4"
+alt: "Sin renovar contrato a 124 trabajadores de ICHmujeres"
 front: false
-section: Local
+section: "Local"
+news_id: 187518
 ---
 
 Trabadores del Instituto Chihuahuense de las Mujeres no se les renovará el contrato según lo dio a conocer la titular de este organismo dentro de la administración de Javier Corral, Emma Saldaña Lobera, con lo que 124 trabajadores de refugios y Cavim dejarán de estar dentro de la nómina oficial.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Es clave para la prevención del contagio de COVID-19"
-image: /uploads/2021/images-Foto_4333-1_(2).jpg
-video: nil
-audio: nil
-alt: Recomienda IMSS Chihuahua gel antibacterial para la higiene de manos en este regreso a clases
+image: "/uploads/2021/images-Foto_4333-1_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Recomienda IMSS Chihuahua gel antibacterial para la higiene de manos en este regreso a clases"
 front: false
-section: Local
+section: "Local"
+news_id: 187581
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua recuerda a las y los estudiantes el uso del gel antibacterial para la higiene de manos para evitar contagios de COVID-19 en este regreso a clases.  

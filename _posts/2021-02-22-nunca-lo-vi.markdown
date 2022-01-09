@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz recordó que nunca tuvo la oportunidad de cargar ni ver a su hijo; reveló que se despidió de su bebé junto a su esposo con un ritual en el mar."
-image: /uploads/2021/images-jacky-bracamontes-revela-esposo-oculto_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Nunca lo vi -  Jacky Bracamontes revela que su esposo ocultó que guardó cenizas de su hijo
+image: "/uploads/2021/images-jacky-bracamontes-revela-esposo-oculto_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Nunca lo vi -  Jacky Bracamontes revela que su esposo ocultó que guardó cenizas de su hijo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183096
 ---
 
 Jacqueline Bracamontes recordó uno de los momentos más dolorosos de su vida: el deceso de su hijo Martín, quien falleció dentro de su vientre tres días antes de nacer. La conductora de Netas Divinas señaló que perder a su bebé fue una de las "lecciones más grandes" que ha enfrentado; reveló que su esposo, Martín Fuentes, le ocultó por años que había conservado las cenizas de su hijo.  En una entrevista para el programa Hoy día, Jacqueline Bracamontes rompió en llanto al hablar de la pérdida de su bebé hace casi ocho años. Señaló que no entendía los motivos por los que ella y su esposo tuvieron que enfrentar ese episodio tan complicado. 

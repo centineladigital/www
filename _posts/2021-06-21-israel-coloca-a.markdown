@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Ministerio de Salud de Israel incluye a México en su lista de países de mayor riesgo por coronavirus, junto a Argentina, Brasil, India, Rusia y Sudáfrica"
-image: /uploads/2021/images-2598511.jpg
-video: nil
-audio: nil
-alt: Israel coloca a México entre países de 'máximo riesgo' por covid-19
+image: "/uploads/2021/images-2598511.jpg"
+video: "nil"
+audio: "nil"
+alt: "Israel coloca a México entre países de 'máximo riesgo' por covid-19"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185131
 ---
 
 Israel colocó a México en la lista de países de máximo riesgo por covid-19, lo que se traduce en restricciones de viaje para cualquier persona que pretenda visitar el país o proceda del mismo.

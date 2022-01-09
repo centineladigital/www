@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "“Hay eventos de fuerza mayor que en muchas ocasiones sirven de una manera legal para evitar multas, pero depende de los clientes"
-image: /uploads/2021/images-INDUSTRIAS...maquilas..._CARLOS_VILLALOBOS.jpg
-video: nil
-audio: nil
-alt: Temen Industriales multas de clientes
+image: "/uploads/2021/images-INDUSTRIAS...maquilas..._CARLOS_VILLALOBOS.jpg"
+video: "nil"
+audio: "nil"
+alt: "Temen Industriales multas de clientes"
 front: false
-section: Local
+section: "Local"
+news_id: 183075
 ---
 
 Román Rivas Hong, presidente de Index Chihuahua, previó que “seguramente” empresas que estuvieron sin electricidad durante la crisis energética en el estado pudieran llegar a tener alguna cuestión de impacto financiero con sus clientes, derivado de multas y/o sanciones por incumplimientos de contratos.

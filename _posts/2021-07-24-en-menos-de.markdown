@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Cuatro hombres fueron asesinados en una barbería, mientras que otros dos recibieron disparos mientras circulaban en la avenida Lázaro Cárdenas, en el municipio de Guadalupe"
-image: /uploads/2021/images-los-hechos-ocurrieron-en-el-5_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: En menos de 15 minutos, hombres armados asesinan a 6 personas en Zacatecas
+image: "/uploads/2021/images-los-hechos-ocurrieron-en-el-5_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "En menos de 15 minutos, hombres armados asesinan a 6 personas en Zacatecas"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185966
 ---
 
 Anoche, en menos de 15 minutos, fueron asesinados seis hombres durante ataques armados en dos lugares distintos del municipio de Guadalupe, Zacatecas. La primer agresión ocurrió sobre la avenida que lleva a a la comunidad Sauceda de la Borda, casi frente a un centro comercial. 

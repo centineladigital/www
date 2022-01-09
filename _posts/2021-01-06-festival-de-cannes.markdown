@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Si la situación no mejora, la idea es desplazarlo al verano para encajarlo entre finales de junio y finales de julio, precisó una portavoz del evento. "
-image: /uploads/2021/images-festival-de-cannes-instagram.jpg
-video: nil
-audio: nil
-alt: Festival de Cannes podría posponer su edición 2021 por pandemia
+image: "/uploads/2021/images-festival-de-cannes-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "Festival de Cannes podría posponer su edición 2021 por pandemia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181930
 ---
 
 Debido a que la pandemia de coronavirus sigue causando estragos en Francia, la edición 2021 del Festival de Cannes, que está programada del 11 al 22 de mayo, podría aplazarse hasta el verano. Pero en todo caso no volverá a suspenderse, según la organización. "El Festival de Cannes se celebrará en 2021 en su forma habitual", afirmó este miércoles una portavoz. 

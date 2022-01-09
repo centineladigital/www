@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Esas dietas pueden ocasionar una descompensación metabólica con efectos desfavorables"
-image: /uploads/2021/images-salud2019091701.jpg
-video: nil
-audio: nil
-alt: Advierte IMSS sobre riesgo de dietas peligrosas
+image: "/uploads/2021/images-salud2019091701.jpg"
+video: "nil"
+audio: "nil"
+alt: "Advierte IMSS sobre riesgo de dietas peligrosas"
 front: false
-section: Local
+section: "Local"
+news_id: 182014
 ---
 
 El Instituto Mexicano del Seguro Social advirtió sobre el riesgo de ciertos regímenes alimenticios para bajar de peso rápidamente.

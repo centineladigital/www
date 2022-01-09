@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Con estudios de Tomografía Computada se corrobora el diagnóstico de afectación en etapas iniciales y moderadas sobre todo en lóbulos inferiores de los pulmones."
-image: /uploads/2021/images-Foto_410-3_(1).jpg
-video: nil
-audio: nil
-alt: Atiende IMSS daño pulmonar y dificultad respiratoria causadas por COVID-19
+image: "/uploads/2021/images-Foto_410-3_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Atiende IMSS daño pulmonar y dificultad respiratoria causadas por COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 187835
 ---
 
 Especialistas del Instituto Mexicano del Seguro Social (IMSS) atienden las secuelas que ocasiona el daño por el virus SARS-CoV-2 en los pulmones, como las que dejan las de vidrio esmerilado, que en etapas avanzadas se consolidan y traducen una reacción inflamatoria en los alvéolos que afecta el funcionamiento de los pulmones y provoca dificultad respiratoria.

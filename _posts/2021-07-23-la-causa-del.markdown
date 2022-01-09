@@ -16,12 +16,13 @@ tags:
   
 author: nil
 description: "La Gobernadora Electa reconoció que se trata de un tema que ha sido factor de polarización y división, aseguró que su administración será para sumar y para unir."
-image: /uploads/2021/images-maru.jpeg
-video: nil
-audio: /uploads/2021/audio-maru1.mp4
-alt: La causa del agua es fundamental -  Maru
+image: "/uploads/2021/images-maru.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-maru1.mp4"
+alt: "La causa del agua es fundamental -  Maru"
 front: false
-section: Local
+section: "Local"
+news_id: 185962
 ---
 
 Ante los recientes conflictos surgidos por el tema del agua en el estado, la Gobernadora Electa, Maru Campos llamó a la unidad y a buscar los mejores mecanismos para atender las necesidades de los chihuahuenses. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Buscan que se genere acciones positivas a favor de las víctimas de violencia en la frontera."
-image: /uploads/2021/images-TSJ2.jpg
-video: nil
-audio: /uploads/2021/audio-MJ06.mp3
-alt: Firma TSJ convenio para atención a víctimas en Juárez
+image: "/uploads/2021/images-TSJ2.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ06.mp3"
+alt: "Firma TSJ convenio para atención a víctimas en Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 184978
 ---
 
 Con el fin de poder llevar a cabo una mejor atención a víctimas de violencia en Ciudad Juárez, este jueves se llevó a cabo una firma entre el Poder Judicial y Secretaria General de Gobierno, en donde se busca capacitar al personal con el fin de garantizar el respeto a la dignidad, integridad e igualdad jurídica y al derecho a una vida libre de violencia y discriminación de mujeres, adolescentes y niñas.

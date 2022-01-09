@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El señor Jaime Ordiales ha tomado la decisión de dejar su puesto de director general deportivo."
-image: /uploads/2021/images-cruz_azul.jpg
-video: nil
-audio: nil
-alt: Jaime Ordiales deja de ser director deportivo de Cruz Azul.
+image: "/uploads/2021/images-cruz_azul.jpg"
+video: "nil"
+audio: "nil"
+alt: "Jaime Ordiales deja de ser director deportivo de Cruz Azul."
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185426
 ---
 
 Lo último que olía a Guillermo Álvarez, ya salió de Cruz Azul. El directiva cementera anunció la salida de Jaime Ordiales, quién actuaba como director deportivo, a pesar de que tenía aún, un año de contrato.

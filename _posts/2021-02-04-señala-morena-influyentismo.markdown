@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Piden integrantes este partido que se trate a este caso sin influencias."
-image: /uploads/2021/images-COLUNGA.jpeg
-video: nil
-audio: /uploads/2021/audio-MJ04_MIGUEL_COLUNGA.mp3
-alt: Señala MORENA influyentismo en el caso de Alcaldesa
+image: "/uploads/2021/images-COLUNGA.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ04_MIGUEL_COLUNGA.mp3"
+alt: "Señala MORENA influyentismo en el caso de Alcaldesa"
 front: false
-section: Local
+section: "Local"
+news_id: 182707
 ---
 
 Influyentismo y una serie de irregularidades es lo que señalan integrantes del partido Movimiento de Regeneración Nacional en el caso de la Alcaldesa con licencia María Eugenia Campos Galván. Esto ya que según palabras del diputado Miguel Colunga el gobierno “busca prescribir los delitos de Maru Campos con influencias desde el Poder Judicial”.

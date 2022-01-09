@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La producción de Netflix compartió un adelanto de lo que se verá en la nueva serie de los creadores de 'Dark' y que contará con un elenco internacional. "
-image: /uploads/2021/images-la-nueva-serie-de-misterio_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Arranca rodaje de '1899', la nueva serie de los creadores de 'Dark'; lanzan adelanto
+image: "/uploads/2021/images-la-nueva-serie-de-misterio_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Arranca rodaje de '1899', la nueva serie de los creadores de 'Dark'; lanzan adelanto"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184244
 ---
 
 Netflix anunció que ya comenzó el rodaje de 1899, una nueva serie histórica de misterio de los creadores de Dark, que promete convertirse en un fenómeno de la pantalla chica y sumergir a la audiencia en una trama repleta de pesadillas y secretos. La producción cuenta con un elenco internacional, en el que figura el actor español Miguel Bernardeau, conocido por interpretar a Guzmán en Élite. Los creadores y productores Jantje Friese y Baran bo Odar han reunido a un numeroso reparto internacional con la ambición de hacer "una serie verdaderamente europea, con personajes de diferentes países que hablan en su lengua natal", señaló Friese. La noticia se dio a conocer este lunes a través de un comunicado que compartió Netflix y la productora alemana Dark Ways, junto a un adelanto de la serie.  

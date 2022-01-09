@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor no pudo evitar ponerse nervioso tras ser cuestionado sobre que le vuelve loco de Renata Notni; además habló de las críticas a 'Luis Miguel, la serie'. "
-image: /uploads/2021/images-captan-diego-boneta-renata-notni.jpg
-video: nil
-audio: nil
-alt: ¡No ocultan su amor! Captan a Diego Boneta con Renata Notni; actor habla de su romance
+image: "/uploads/2021/images-captan-diego-boneta-renata-notni.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡No ocultan su amor! Captan a Diego Boneta con Renata Notni; actor habla de su romance"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184403
 ---
 
 Diego Boneta es el actor del momento tras el éxito de la segunda temporada de Luis Miguel, la serie en donde da vida de nueva a cuenta a El Sol. Tras unas vacaciones en las playas mexicanas, el famoso regresó a la ciudad y en su paso por el aeropuerto fue captado por los medios de comunicación a lado de Renata Notni, pues los famosos ya no ocultan más su romance.  Ambos actores lucían cubrebocas y gorras en un intento para despistar a la prensa; sin embargo, no pudieron evitar ser grabados juntos por primera vez. A lo que Diego Boneta respondió a los cuestionamientos de los medios, desde las críticas a la serie de Luis Miguel y su relación con Renata Notni.  

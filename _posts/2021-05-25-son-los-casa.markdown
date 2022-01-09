@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa Javier Corral ante la secretaria de Educación, Delfina Gómez Álvarez que con el regreso al semáforo amarillo, habrá en Chihuahua más Centros de Asesoría y Seguimiento Académico"
-image: /uploads/2021/images-_DSC6101.JPG
-video: nil
-audio: nil
-alt: Son los CASA ejercicio propedéutico para el regreso a clases presenciales en Chihuahua
+image: "/uploads/2021/images-_DSC6101.JPG"
+video: "nil"
+audio: "nil"
+alt: "Son los CASA ejercicio propedéutico para el regreso a clases presenciales en Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 184638
 ---
 
 Los Centros de Asesoría y Seguimiento Académico (CASA) serán ejercicios propedéuticos y preparatorios para el regreso presencial a clases en Chihuahua y son la estrategia correcta, explicó el gobernador Javier Corral Jurado en presencia de la secretaria de Educación Pública (SEP), Delfina Gómez Álvarez.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La nadadora mexicana ganó la presea de bronce en la gran final de los 100 m dorso, clasificación S2. "
-image: /uploads/2021/images-fabiola-ramirez-gana-medalla-bronce_161_169_842_524.jpg
-video: nil
-audio: nil
-alt: Fabiola Ramírez conquista la primera medalla para México en los Juegos Paralímpicos
+image: "/uploads/2021/images-fabiola-ramirez-gana-medalla-bronce_161_169_842_524.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fabiola Ramírez conquista la primera medalla para México en los Juegos Paralímpicos"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187084
 ---
 
 La delegación mexicana obtuvo su primera medalla en los Juegos Paralímpicos de Tokio 2020 luego de que la nadadora Fabiola Ramírez ganara el bronce en la final de los 100 m dorso, clasificación S2. 

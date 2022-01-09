@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Noruega alerta sobre varios casos de hemorragias cutáneas en personas relativamente jóvenes que recibieron vacunas de AstraZeneca, cuyo uso ha sido suspendido en varios países de Europa"
-image: /uploads/2021/images-2544431.jpg
-video: nil
-audio: nil
-alt: Casos de hemorragias con vacuna AstraZeneca causan alerta en Europa
+image: "/uploads/2021/images-2544431.jpg"
+video: "nil"
+audio: "nil"
+alt: "Casos de hemorragias con vacuna AstraZeneca causan alerta en Europa"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183415
 ---
 
 Las autoridades sanitarias noruegas manifestaron su preocupación este sábado por varios casos de hemorragias cutáneas en personas relativamente jóvenes que fueron vacunadas con una dosis del inmunizante anticovid de AstraZeneca.

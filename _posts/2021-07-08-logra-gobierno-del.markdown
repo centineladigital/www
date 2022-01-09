@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Como parte de los logros en movilidad urbana de la actual Administración estatal, se consolidó el Sistema Integrado de Transporte Bravobus en Ciudad Juárez, con la ampliación y mejora de la primera ruta troncal (BRT-1) y la construcción de la nueva ruta troncal Tecnológico (BRT-2)."
-image: /uploads/2021/images-BRT_1.jpg
-video: nil
-audio: nil
-alt: Logra Gobierno del Estado consolidación del Sistema Integrado de Transporte Bravobus en Ciudad Juárez
+image: "/uploads/2021/images-BRT_1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Logra Gobierno del Estado consolidación del Sistema Integrado de Transporte Bravobus en Ciudad Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 185459
 ---
 
 

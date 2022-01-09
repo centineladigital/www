@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En TikTok circulo un video en donde una mujer menciona que tiene un hijo de José Eduardo Derbez; así reaccionó el actor ante este rumor. "
-image: /uploads/2021/images-un-video-en-tiktok-inicio.jpg
-video: nil
-audio: nil
-alt: ¿Es papá? Así reaccionó José Eduardo Derbez a rumores de hijo no reconocido
+image: "/uploads/2021/images-un-video-en-tiktok-inicio.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Es papá? Así reaccionó José Eduardo Derbez a rumores de hijo no reconocido"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182469
 ---
 
 El actor José Eduardo Derbez hace unos días se vio envuelto en la polémica, esto después de que en la red social TikTok circulara un video en donde se escucha la voz de una mujer que menciona que el bebé que aparece en el clip es hijo del nuevo conductor de Miembros al aire. Ante esto, José Eduardo no tardó en reaccionar. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Rosie Rivera, tía de Chiquis Rivera, confirmó que se realiza una auditoría para que se investigue a ella por manejar la empresa de su hermana, Jenni Rivera. "
-image: /uploads/2021/images-rosie-rivera-conto-que-no.jpg
-video: nil
-audio: nil
-alt: ¿Lo pidió Chiquis? Rosie Rivera confirma que hay una auditoria contra ella por herencia de Jenni Rivera
+image: "/uploads/2021/images-rosie-rivera-conto-que-no.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Lo pidió Chiquis? Rosie Rivera confirma que hay una auditoria contra ella por herencia de Jenni Rivera"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184792
 ---
 
 Hace unos días Rosie Rivera, hermana de Jenni Rivera, anunció que renunciaba a su puesto como albacea de los bienes que dejó la Diva de la banda y que elegiría a un nuevo director de Jenni Rivera Enterprises, razón por la que supuestamente Chiquis Rivera pidió una auditoria para investigar a su tía, así como a su tío Juan Rivera, algo que publicó la revista TV y Novelas. Tras la información que hizo publica la revista, Rosie Rivera otorgó una entrevista a De Primera Mano en donde confirmó que sí se está realizando una auditoria, sin embargo, aclaró que es la segunda auditoria que se lleva a cabo y no la primera como mencionaron en la publicación. 

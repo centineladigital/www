@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Falleció en casa alrededor de las seis de la mañana y será velada en el auditorio municipal ubicado en el zócalo de la cabecera de Mazatepec."
-image: /uploads/2021/images-fallece-presidenta-municipal-de-mazatepec.jpeg
-video: nil
-audio: nil
-alt: Murió Trinidad Pérez Coria, alcaldesa de Mazatepec, Morelos
+image: "/uploads/2021/images-fallece-presidenta-municipal-de-mazatepec.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Murió Trinidad Pérez Coria, alcaldesa de Mazatepec, Morelos"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185835
 ---
 
 Trinidad Perez Coria, presidenta municipal de Mazatepec, en Morelos,  murió esta mañana por complicaciones de salud relacionadas con una enfermedad terminal; personas de su círculo cercano confirmaron el fallecimiento. 

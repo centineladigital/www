@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El representante de Unicef en México, Luis Fernando Carrera Castro señaló que 37 millones de niños mexicanos no han regresado a clases presenciales"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Regreso a clases presenciales necesario por salud mental de niñas y niños -  Unicef
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Regreso a clases presenciales necesario por salud mental de niñas y niños -  Unicef"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186870
 ---
 
 Luis Fernando Carrera Castro, representante en México del Fondo de las Naciones Unidas para la Infancia (Unicef), respaldó el regreso a clases presenciales en el país al señalar que no solo es necesario recuperar los aprendizajes perdidos, sino también la salud mental de niñas y niños.

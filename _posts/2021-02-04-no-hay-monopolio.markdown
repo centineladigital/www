@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La titular de la Segob rechaza que iniciativa preferente en materia eléctrica busque monopolizar el suministro de electricidad; hay participación de la IP, destaca"
-image: /uploads/2021/images-2523651.jpg
-video: nil
-audio: nil
-alt: ‘No hay monopolio, hay rectoría del Estado’ -  Sánchez Cordero
+image: "/uploads/2021/images-2523651.jpg"
+video: "nil"
+audio: "nil"
+alt: "‘No hay monopolio, hay rectoría del Estado’ -  Sánchez Cordero"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182687
 ---
 
 Ante diversos cuestionamientos acerca de la iniciativa preferente para reformar la Ley de la Industria Eléctrica, la secretaria de Gobernación (Segob), Olga Sánchez Cordero, aclaró que ésta no promueve el monopolio, sino la rectoría del Estado.

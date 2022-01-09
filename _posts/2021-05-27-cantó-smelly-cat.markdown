@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante interpretó junto a Lisa Kudrow uno de los temas musicales más famosos del programa; el encuentro entre las famosas se ganó los aplausos en redes sociales. "
-image: /uploads/2021/images-lady-gaga-canta-smelly-cat_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¡Cantó 'Smelly Cat'! Así fue la participación de Lady Gaga en 'Friends -  The Reunion'
+image: "/uploads/2021/images-lady-gaga-canta-smelly-cat_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Cantó 'Smelly Cat'! Así fue la participación de Lady Gaga en 'Friends -  The Reunion'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184687
 ---
 
 Friends: The Reunion no sólo provocó algunas lágrimas entre los protagonistas, también revivió icónicas escenas de mano de los artistas que estuvieron presentes en el reencuentro, que marcó el regresó de Jennifer Aniston, Lisa Kudrow, Matt LeBlanc, Matthew Perry, Courtney Cox y David Schwimmer a los foros de grabación del programa de televisión, el cual dejó huella en más de una generación.

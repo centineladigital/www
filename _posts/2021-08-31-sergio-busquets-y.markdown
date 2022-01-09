@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Barcelona informó que los dos capitanes apoyaron la situación económica del club para poder registrar al argentino "
-image: /uploads/2021/images-espanoles-busquets-alba-rebajan-sueldo_253_28_901_561.jpeg
-video: nil
-audio: nil
-alt: Sergio Busquets y Jordi Alba se rebajan el sueldo para inscribir al 'Kun' Agüero
+image: "/uploads/2021/images-espanoles-busquets-alba-rebajan-sueldo_253_28_901_561.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Sergio Busquets y Jordi Alba se rebajan el sueldo para inscribir al 'Kun' Agüero"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187289
 ---
 
 El Barcelona hizo oficial la rebaja salarial de dos de los capitanes del primer equipo, Sergio Busquets y Jordi Alba, lo que permitió que Sergio 'Kun' Agüero haya podido ser inscrito finalmente en LaLiga y ampliar el límite del 'fair play' financiero. 

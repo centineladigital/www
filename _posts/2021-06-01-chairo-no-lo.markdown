@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de redes sociales en donde Regina Orozco y Damián Alcázar marcaron postura sobre Morena y las próximas elecciones. Usuarios de redes sociales reaccionaron a la petición. "
-image: /uploads/2021/images-regina-orozco-damian-alcazar-piden.jpg
-video: nil
-audio: nil
-alt: Chairo no, lo que sigue -  Regina Orozco y Damián Alcázar piden voto masivo para Morena
+image: "/uploads/2021/images-regina-orozco-damian-alcazar-piden.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chairo no, lo que sigue -  Regina Orozco y Damián Alcázar piden voto masivo para Morena"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184783
 ---
 
 Sin duda, cada vez hay más famosos que se involucran en temas de política. Tal es el caso de Regina Orozco y Damián Alcázar, quienes lanzaron un llamado a realizar voto masivo para Morena en las próximas elecciones que se llevarán a cabo el 6 de junio. Con un video, los famosos externaron la razón por la que México “está mejor” en la actualidad a diferencia de pasadas administraciones. Fue a través de redes sociales en donde Regina Orozco y Damián Alcázar marcaron postura sobre Morena y las próximas elecciones. El actor admitió que él es “chairo” y lo que le sigue. “¿Es cierto que te dicen chairo?”, cuestionó Regina Orozco a Damián Alcázar. 

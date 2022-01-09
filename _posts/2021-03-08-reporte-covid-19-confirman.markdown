@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: " A la fecha suman 55 mil 761 casos y 5 mil 419 decesos desde que inició la pandemia"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporte COVID-19 -  confirman 149 contagios y una defunción más en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporte COVID-19 -  confirman 149 contagios y una defunción más en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 183339
 ---
 
 La Secretaría de Salud confirmó un total general de 55 mil 761 contagios por COVID-19, con 149 nuevos casos, así como un acumulado de 5 mil 419 personas fallecidas, con un deceso más en la entidad.

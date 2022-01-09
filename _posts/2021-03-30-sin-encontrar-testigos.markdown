@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Posponen nuevamente audiencia contra Alcaldesa con licencia."
-image: /uploads/2021/images-FRANCISCO_MOLINA1.jpg
-video: nil
-audio: /uploads/2021/audio-MM01_FRANCISCO_MOLINA.mp3
-alt: Sin encontrar testigos protegidos en caso Maru
+image: "/uploads/2021/images-FRANCISCO_MOLINA1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM01_FRANCISCO_MOLINA.mp3"
+alt: "Sin encontrar testigos protegidos en caso Maru"
 front: false
-section: Local
+section: "Local"
+news_id: 183618
 ---
 
 Aún no ha sido posible notificar a los testigos protegidos que fueron llamados a comparecer en la audiencia de vinculación o no a proceso de María Eugenia Campos, María Ávila y Rodrigo de la Rosa, esto porque no han sido localizados, según fue dado a conocer Francisco Molina Ruiz, abogado defensor de Alcaldesa con Licencia.

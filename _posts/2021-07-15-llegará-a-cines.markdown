@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "'Madame X' es el nombre de la nueva producción que se sumergirá en la vida y carrera de 'La Reina del pop'; conoce todos los detalles aquí."
-image: /uploads/2021/images-revelan-fecha-estreno-documental-madonna_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¿Llegará a cines o 'streaming'? Anuncian fecha de estreno del documental de Madonna
+image: "/uploads/2021/images-revelan-fecha-estreno-documental-madonna_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Llegará a cines o 'streaming'? Anuncian fecha de estreno del documental de Madonna"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185695
 ---
 
 Madonna ha revolucionado el mundo de la música desde sus inicios con éxitos como "Like a Virgin" o "Material Girl", aunque también se ha visto involucrada en una serie de polémicas. Tres décadas después de Truth or Dare, un nuevo documental sobre los momentos clave de la vida La Reina del Pop y su trabajo en la industria llegará este año a Paramount Plus. El servicio de streaming de ViacomCBS dijo el jueves que Madame X se estrenará en Estados Unidos, América Latina, Australia, los países nórdicos y Canadá a partir del 8 de octubre. 

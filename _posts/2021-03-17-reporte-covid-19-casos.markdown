@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Registra la Secretaría de Salud 1 deceso y 38 contagios en el reporte epidemiológico de la entidad"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporte COVID-19 -  casos confirmados 56,882 y fallecimientos 5,505
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporte COVID-19 -  casos confirmados 56,882 y fallecimientos 5,505"
 front: false
-section: Local
+section: "Local"
+news_id: 183449
 ---
 
 El último reporte de la Secretaría de Salud registra 38 contagios de COVID-19 y un deceso, por lo que las cifras acumuladas en lo que va de la pandemia suman 56 mil 882 casos confirmados y 5 mil 505 fallecimientos.

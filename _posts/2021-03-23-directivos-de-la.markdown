@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Buscan replicar el modelo de UTEP"
-image: /uploads/2021/images-directivos_UACH_1.jpg
-video: nil
-audio: nil
-alt: Directivos de la UACH conocen clínica de vacunación contra Covid
+image: "/uploads/2021/images-directivos_UACH_1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Directivos de la UACH conocen clínica de vacunación contra Covid"
 front: false
-section: Local
+section: "Local"
+news_id: 183514
 ---
 
 A fin de conocer el proceso de vacunación contra el Covid-19 que se realiza en la Universidad Estatal de El Paso, Texas (UTEP) directivos de la Universidad Autónoma de Chihuahua visitaron el centro de inoculación. El programa de UTEP servirá de modelo para la inmunización en Chihuahua.

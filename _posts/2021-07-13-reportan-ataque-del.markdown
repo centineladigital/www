@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los informes señalan que la organización criminal intentó irrumpir en Tepalcatepec por dos puntos diferentes, provenientes del estado de Jalisco."
-image: /uploads/2021/images-ataque-armados.jpg
-video: nil
-audio: nil
-alt: Reportan ataque del CJNG en Tepalcatepec, Michoacán  
+image: "/uploads/2021/images-ataque-armados.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reportan ataque del CJNG en Tepalcatepec, Michoacán  "
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185598
 ---
 
 Habitantes y autoridades de Seguridad Pública, reportaron que grupos armados del Cártel Jalisco Nueva Generación (CJNG) atacaron esta madrugada la cabecera municipal de Tepalcatepec, Michoacán.

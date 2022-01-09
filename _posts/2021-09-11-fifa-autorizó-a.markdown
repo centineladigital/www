@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las federaciones nacionales han quitado la petición de sanción por no haber comparecido en la última fecha internacional "
-image: /uploads/2021/images-jugador-del-manchester-city-reuters_0_52_1200_747.jpeg
-video: nil
-audio: nil
-alt: FIFA autorizó a los futbolistas sudamericanos jugar con sus clubes ingleses
+image: "/uploads/2021/images-jugador-del-manchester-city-reuters_0_52_1200_747.jpeg"
+video: "nil"
+audio: "nil"
+alt: "FIFA autorizó a los futbolistas sudamericanos jugar con sus clubes ingleses"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187650
 ---
 
 Los futbolistas sudamericanos y mexicanos que disputan el campeonato inglés podrán jugar con sus clubes este fin de semana después de que sus federaciones nacionales hayan retirado al petición de sanción por no haber comparecido en la última ventana internacional, anunció la FIFA este sábado. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que vacunación ha influido en el tema."
-image: /uploads/2021/images-MESTA.jpg
-video: /uploads/2021/videos-MW04_FERNANDO_MESTA.mp4
-audio: nil
-alt: Positivos indicadores en semaforización -  Mesta
+image: "/uploads/2021/images-MESTA.jpg"
+video: "/uploads/2021/videos-MW04_FERNANDO_MESTA.mp4"
+audio: "nil"
+alt: "Positivos indicadores en semaforización -  Mesta"
 front: false
-section: Local
+section: "Local"
+news_id: 186074
 ---
 
 En el estado se tienen indicadores positivos de semaforización señaló el Secretario General de Gobierno, Luis Fernando Mesta Soulé. Entre los puntos que se encuentran siendo analizados es el de la hospitalización y contagios.

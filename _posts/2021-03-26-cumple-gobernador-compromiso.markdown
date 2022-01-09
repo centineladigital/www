@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El proyecto incluye la construcción de los vasos 1 y 2 Norte y Sur para una capacidad de captación de agua de lluvia de casi 40 mil m3 y la rehabilitación de la red de alcantarillado con una inversión de 95 mdp, además de la sustitución de 245 metros de tubería del Colector Ejército Nacional"
-image: /uploads/2021/images-Corte_de_listón.jpeg
-video: nil
-audio: nil
-alt: Cumple Gobernador compromiso con Pradera Dorada y entrega mega obra vs inundaciones
+image: "/uploads/2021/images-Corte_de_listón.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Cumple Gobernador compromiso con Pradera Dorada y entrega mega obra vs inundaciones"
 front: false
-section: Local
+section: "Local"
+news_id: 183564
 ---
 
 Al hacer entrega de la obra de drenaje sanitario y los vasos de captación de agua de lluvia en Pradera Dorada, en la que se conjuntaron recursos por más de 95 millones de pesos, el gobernador Javier Corral Jurado, destacó que este mega proyecto viene a resolver en toda la zona un añejo problema de inundaciones.

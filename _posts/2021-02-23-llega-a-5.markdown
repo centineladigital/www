@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se registran 63 decesos y 143 nuevos casos."
-image: /uploads/2021/images-GRAF.jpg
-video: nil
-audio: /uploads/2021/audio-MM01_ARTURO_VALENZUELA.mp3
-alt: Llega a 5 mil muertes en el estado por COVID
+image: "/uploads/2021/images-GRAF.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM01_ARTURO_VALENZUELA.mp3"
+alt: "Llega a 5 mil muertes en el estado por COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 183110
 ---
 
 El estado llega a cinco mil defunciones acreditadas dentro del estado, esto tras acreditarse en las últimas 24 horas 33 muertes dentro del estado, mientras que en materia de casos activos se acreditaron 143 personas que dieron positivo a PCR.

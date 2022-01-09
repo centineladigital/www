@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Te decimos todo lo que debes saber para ver 'El Conjuro 3: El diablo me obligó a hacerlo', la nueva película de terror y suspenso. "
-image: /uploads/2021/images-estrenan-avance-conjuro-diablo-obligo.jpg
-video: nil
-audio: nil
-alt: ¿Dónde ver 'El Conjuro 3'? Todo lo que debes saber sobre el estreno de la película de terror
+image: "/uploads/2021/images-estrenan-avance-conjuro-diablo-obligo.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Dónde ver 'El Conjuro 3'? Todo lo que debes saber sobre el estreno de la película de terror"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184747
 ---
 
 Los amantes de las películas de terror ya pueden ir preparando sus mejores gritos para ver El Conjuro 3: El diablo me obligó a hacerlo. Y es que la película llega como uno de los primeros estrenos para este mes de junio, con un extraño caso de posesión demoniaca llena de suspenso que Ed y Lorraine Warren intentarán revolver. La tercera entrega de la popular saga El Conjuro, y parte de una serie que incluye memorables películas como Anabelle o La Monja llegará a México y Estados Unidos, aquí te decimos todo lo que debes saber sobre la película: fecha de estreno, dónde verla, quiénes son los actores y cuáles son las otras películas del universo y dónde verlas, para llegar bien documentado. 

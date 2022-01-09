@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de una transmisión en su cuenta de Instagram, la actriz y conductora reveló cómo se contagió de coronavirus y qué síntomas tiene. "
-image: /uploads/2021/images-la-actriz-dio-la-noticia-1.jpg
-video: nil
-audio: nil
-alt: Luz Elena González da positivo a covid-19; culpa a empleada doméstica por contagio
+image: "/uploads/2021/images-la-actriz-dio-la-noticia-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Luz Elena González da positivo a covid-19; culpa a empleada doméstica por contagio"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181811
 ---
 
 En el último día de 2020, la conductora y actriz Luz Elena González se suma a la lista de famosos que este año dieron positivo al covid-19, donde figuran Andrea Legarreta, Flor Rubio, Ana María Alvarado, Alfredo Adame y Camila Sodi.  "Quería platicarles que tengo covid-19, me contagiaron en mi casa. Una de las personas del servicio doméstico llegó enferma y no avisó que se sentía mal; a los dos días nos dimos cuenta y desafortunadamente en esos dos días contagió a otras dos personas del personal de casa, y esas personas me contagiaron a mí, contagiaron a mis suegros que sólo los veíamos por cuidado", contó la también directora de la agencia de publicidad Byle360 a través de su cuenta de Instagram.  

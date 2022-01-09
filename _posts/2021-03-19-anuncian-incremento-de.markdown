@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se dio a conocer que las últimas 24 horas se detectaron 147 personas contagiadas."
-image: /uploads/2021/images-GUMARO.jpg
-video: nil
-audio: /uploads/2021/audio-MV01_GUMARO.mp3
-alt: Anuncian incremento de casos en dos semanas
+image: "/uploads/2021/images-GUMARO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV01_GUMARO.mp3"
+alt: "Anuncian incremento de casos en dos semanas"
 front: false
-section: Local
+section: "Local"
+news_id: 183484
 ---
 
 Durante las dos últimas semanas el estado ha registrado un incremento de casos, según lo dio a conocer el titular de la Subdirección de Ecología, Gumaro Barrios Gallegos. Esto dentro de la actualización de los datos donde también se dio a conocer que las últimas 24 horas se detectaron 147 personas contagiadas, mientras que se acreditaron 7 defunciones más.

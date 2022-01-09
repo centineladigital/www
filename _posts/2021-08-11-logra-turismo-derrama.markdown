@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En el programa “Logros con Valor”, destaca Nathalie Desplas el alcance del Festival Internacional Turismo de Aventura, con 90 mil participantes y más de 300 mil visitantes durante cinco años"
-image: /uploads/2021/images-Barrancas_4.jpg
-video: nil
-audio: /uploads/2021/audio-11-_NATHALIE_DESPLAS_DIR_TURISMO_PROGRAMA_LOGROS_CON_VALOR_SIDE_11-8-21.MP3
-alt: Logra Turismo derrama económica de 35 mil 064 millones de pesos  en todo el estado
+image: "/uploads/2021/images-Barrancas_4.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-11-_NATHALIE_DESPLAS_DIR_TURISMO_PROGRAMA_LOGROS_CON_VALOR_SIDE_11-8-21.MP3"
+alt: "Logra Turismo derrama económica de 35 mil 064 millones de pesos  en todo el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 186566
 ---
 
 Con el programa “Chihuahua es para ti”, la implementación de 26 distintas rutas y la promoción en plataformas digitales, se reactivó el turismo local y regional, con estrategias muy fuertes incluso durante la pandemia, para generar una derrama económica de 35 mil 64 millones de pesos, señaló Nathalie Desplas Puel, directora de Turismo de Gobierno del Estado.

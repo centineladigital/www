@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Desconoce denuncias en contra de extitular de la comisión."
-image: /uploads/2021/images-WhatsApp_Image_2021-09-08_at_2.42.10_PM_(2).jpeg
-video: /uploads/2021/videos-MM03_FERNANDO_ALVAREZ.mp4
-audio: nil
-alt: Se investigará lo que se deba -  COESVI
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-08_at_2.42.10_PM_(2).jpeg"
+video: "/uploads/2021/videos-MM03_FERNANDO_ALVAREZ.mp4"
+audio: "nil"
+alt: "Se investigará lo que se deba -  COESVI"
 front: false
-section: Local
+section: "Local"
+news_id: 187553
 ---
 
 Lo que se tenga que investigar es lo que se investigará, fueron las palabras del titular de la Comisión Estatal de Vivienda, Suelo e Infraestructura, o COESVI por sus siglas, Fernando Álvarez Monge. Esto luego de ser cuestionado respecto a las denuncias en contra de un extitular de la comisión las cuales pueden llegar hasta el ámbito penal.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El conjunto de la Comarca Lagunera se impuso por 2-0 sobre los Tigres de la UANL en la segunda jornada del Guard1anes Clausura 2021"
-image: /uploads/2021/images-2513633.jpg
-video: nil
-audio: nil
-alt: Santos logra su segundo triunfo del torneo
+image: "/uploads/2021/images-2513633.jpg"
+video: "nil"
+audio: "nil"
+alt: "Santos logra su segundo triunfo del torneo"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182209
 ---
 
 Los Tigres pagaron caro sus errores al ataque y terminaron cayendo 2-0 ante Santos Laguna, en partido correspondiente a la fecha 2 del Guard1anes Clausura 2021, siguiendo así con su racha de diez años sin ganar en el TSM Corona.

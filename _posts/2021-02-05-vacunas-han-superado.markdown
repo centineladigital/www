@@ -3,21 +3,22 @@ layout: post
 title: "'Vacunas han superado a infecciones covid', asegura la OMS"
 date: 2021-02-05T21:44:00.000-06:00
 tags:
-
+  
   - variantes
-
+  
   - vacunas
-
+  
   - OMS
-
+  
 author: nil
 description: "La OMS advirtió nuevamente que es necesario que las vacunas lleguen a todos los países para evitar posibles mutaciones del virus."
-image: /uploads/2021/images-2524374.jpg
-video: nil
-audio: nil
-alt: Vacunas han superado a infecciones covid asegura la OMS
+image: "/uploads/2021/images-2524374.jpg"
+video: "nil"
+audio: "nil"
+alt: "'Vacunas han superado a infecciones covid', asegura la OMS"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182742
 ---
 
 Las vacunas han superado a las infecciones por covid’, asegura el director de la Organización Mundial de la Salud Tedros Adhanom Ghebreyesus.

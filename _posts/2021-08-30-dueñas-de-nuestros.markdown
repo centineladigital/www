@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Podemos sentirnos dueñas de nuestros cuerpos y de nuestra sensualidad, de nuestra piel y mostrarla como se nos hinche la gana, porque eso es parte del poder, de lo que somos”, dijo la cantante en entrevista con 'De primera mano'. "
-image: /uploads/2021/images-maria-leon-instagram-2.jpg
-video: nil
-audio: nil
-alt: Dueñas de nuestros cuerpos -  María León responde si abrirá una cuenta en OnlyFans
+image: "/uploads/2021/images-maria-leon-instagram-2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Dueñas de nuestros cuerpos -  María León responde si abrirá una cuenta en OnlyFans"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187246
 ---
 
 Además de su talento musical, María León es una celebridad que ha destacado por incentivar a sus seguidores a mantenerse saludables a través de la actividad física, por lo que constantemente comparte contenido en sus redes haciendo ejercicio, por ejemplo pole dance.

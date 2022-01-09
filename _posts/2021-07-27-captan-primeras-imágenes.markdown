@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El doble del Batman de Ben Affleck fue captado grabando algunas escenas como parte de The Flash, sin embargo, el actor no se ha visto en el set."
-image: /uploads/2021/images-batman-de-snyder-s-cut.jpg
-video: nil
-audio: nil
-alt: Captan primeras imágenes de Batman de Ben Affleck en set de grabación de 'The Flash'
+image: "/uploads/2021/images-batman-de-snyder-s-cut.jpg"
+video: "nil"
+audio: "nil"
+alt: "Captan primeras imágenes de Batman de Ben Affleck en set de grabación de 'The Flash'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186019
 ---
 
 The Flash es una de las películas más esperadas para los fanáticos del Universo DC, y ahora los fans se pueden comenzar a deleitar con el Batman de Ben Affleck, el cual fue captado por las calles de Glasgow, Escocia este lunes, cuando comenzó la grabación, en esta sede, de la nueva película protagonizada por Ezra Miller. 

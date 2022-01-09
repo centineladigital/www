@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La alcaldesa, María Angelica Granados Trespalacios, encabezó una rueda de prensa para recibir a la chihuahuense Andrea Meza, ganadora de la edición de Miss Universo 2021."
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Da Alcaldesa bienvenida a Chihuahua a Andrea Meza Miss Universo 2021
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Da Alcaldesa bienvenida a Chihuahua a Andrea Meza Miss Universo 2021"
 front: false
-section: Local
+section: "Local"
+news_id: 185523
 ---
 
 Durante su intervención la Presidenta Municipal mencionó que el logro de Andrea es un claro ejemplo del carácter y espíritu que los chihuahuenses han demostrado a través de la historia, reconociendo el esfuerzo y preparación que llevó a cabo para poder alcanzar la meta máxima, la cual dijo es fuente de inspiración para todas y todos.

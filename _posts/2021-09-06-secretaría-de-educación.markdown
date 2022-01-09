@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El portal cuenta con un registro de 3 mil 032 candidatas y candidatos de carreras técnicas, 194 empresas, 4 subsistemas de carreras técnicas, dos Universidades Tecnológicas y la Universidad Politécnica"
-image: /uploads/2021/images-T1.jpg
-video: nil
-audio: nil
-alt: Secretaría de Educación y Deporte anuncia relanzamiento  de plataforma “Fuerza Técnica Chihuahua”
+image: "/uploads/2021/images-T1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Secretaría de Educación y Deporte anuncia relanzamiento  de plataforma “Fuerza Técnica Chihuahua”"
 front: false
-section: Local
+section: "Local"
+news_id: 187467
 ---
 
 La Secretaría de Educación y Deporte (SEyD) llevó a cabo el relanzamiento de la plataforma “Fuerza Técnica Chihuahua”, una herramienta a través de la cual las empresas pueden consultar los datos de estudiantes y egresados de las diferentes carreras técnicas de instituciones de educación media superior y superior.

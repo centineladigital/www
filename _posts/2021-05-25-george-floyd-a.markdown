@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se conmemora en EU el primer aniversario del asesinato del afroamericano George Floyd a manos de un policía blanco, un crimen que desató las mayores protestas contra el racismo en décadas"
-image: /uploads/2021/images-2584083.jpg
-video: nil
-audio: nil
-alt: George Floyd -  a un año del crimen racista que convulsionó a EU
+image: "/uploads/2021/images-2584083.jpg"
+video: "nil"
+audio: "nil"
+alt: "George Floyd -  a un año del crimen racista que convulsionó a EU"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184637
 ---
 
 Los estadunidenses conmemoran este martes el primer aniversario del asesinato de George Floyd bajo las rodillas de un policía blanco de Minneapolis, que catalizó el mayor movimiento de protesta en Estados Unidos en décadas contra la brutalidad policial hacia las personas afroamericanas.

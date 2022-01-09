@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Los que estén bien hechos se dará continuidad, afirmó el funcionario estatal."
-image: /uploads/2021/images-SERRATO.jpg
-video: /uploads/2021/videos-MV02_LUIS_SERRATO.mp4
-audio: nil
-alt: Habrá seguimiento a los expedientes X -  Serrato
+image: "/uploads/2021/images-SERRATO.jpg"
+video: "/uploads/2021/videos-MV02_LUIS_SERRATO.mp4"
+audio: "nil"
+alt: "Habrá seguimiento a los expedientes X -  Serrato"
 front: false
-section: Local
+section: "Local"
+news_id: 187827
 ---
 
 “Los expedientes que estén bien hechos continuarán” fueron las palabras del Coordinador de Gabinete Estatal, Luis Serrato Castell, al ser cuestionado sobre el seguimiento que se dará a los archivos de investigación que dejó la pasada administración.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Son novios de nuevo? Captan a Jennifer López y Ben Affleck juntos, a 17 años después de se separaran. "
-image: /uploads/2021/images-jennifer-lopez-ben-affleck-retoman.jpg
-video: nil
-audio: nil
-alt: ¿Son novios? Captan a Jennifer López y Ben Affleck juntos -  la química es increíble
+image: "/uploads/2021/images-jennifer-lopez-ben-affleck-retoman.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Son novios? Captan a Jennifer López y Ben Affleck juntos -  la química es increíble"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184399
 ---
 
 ¿Jennifer López y Ben Affleck retomaron su relación amorosa? Recientemente se dio a conocer que al parecer los famosos se están dando otra oportunidad, pues fueron captados juntos a tan sólo 17 años de que cancelaran su boda. ¿El amor jamás se acabó? ¿Son novios de nuevo? ¿Sólo son amigos? De acuerdo con medios estadunidenses, JLO y Ben Affleck se fueron de viaje y pasaron tiempo de romance. Incluso fueron captados de la mano. Luego de años separados y de que reencontraran –por separado– en el concierto solidario VAX LIVE, en Los Ángeles, Jennifer López y Ben Affleck fueron captados juntos en una estación de esquí en Montana. Así lo informó el sitio E! News, quien también aseguró que los famosos se encontraban “solos”. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La delegación de Bienestar solo informó que se avisará sobre la nueva fecha de vacunación a adultos mayores, y aseguró que en breve arribarán a la entidad más dosis"
-image: /uploads/2021/images-2543363.jpg
-video: nil
-audio: nil
-alt: 11 municipios de Oaxaca sin vacunas, tras cancelación de último minuto
+image: "/uploads/2021/images-2543363.jpg"
+video: "nil"
+audio: "nil"
+alt: "11 municipios de Oaxaca sin vacunas, tras cancelación de último minuto"
 front: false
-section: Local
+section: "Nacional"
+news_id: 183378
 ---
 
 Adultos mayores de 11 municipios del Valle Central de Oaxaca se quedaron sin vacunas, luego de que la delegación de Bienestar en Oaxaca canceló, de último minuto la jornada de vacunación que se realizaba en esos lugares.

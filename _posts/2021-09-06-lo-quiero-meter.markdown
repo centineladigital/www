@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En entrevista con el programa 'Hoy', el actor estalló contra el presidente de la Asociación Nacional de Intérpretes (ANDI) por presuntos malos manejos. "
-image: /uploads/2021/images-actor-mostro-enojo-entrevista-programa.jpg
-video: nil
-audio: nil
-alt: Lo quiero meter a la cárcel -  Andrés García arremete contra José Elías Moreno, presidente de la ANDI
+image: "/uploads/2021/images-actor-mostro-enojo-entrevista-programa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lo quiero meter a la cárcel -  Andrés García arremete contra José Elías Moreno, presidente de la ANDI"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187486
 ---
 
 En los últimos días, Andrés García ha protagonizado varias polémicas relacionadas con discusiones: primero estalló contra Roberto Palazuelos debido a la probable venta de una propiedad llamada El Castillo. Y ahora arremetió contra José Elías Moreno, presidente de la Asociación Nacional de Intérpretes (ANDI), por presuntos malos manejos. 

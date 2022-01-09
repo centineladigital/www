@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Será de forma virtual y gratuita"
-image: /uploads/2021/images-unnamed.png
-video: nil
-audio: nil
-alt: Invita Gobierno Municipal a curso de “Creación de Contenidos Digitales”
+image: "/uploads/2021/images-unnamed.png"
+video: "nil"
+audio: "nil"
+alt: "Invita Gobierno Municipal a curso de “Creación de Contenidos Digitales”"
 front: false
-section: Local
+section: "Local"
+news_id: 181969
 ---
 
 El Gobierno Municipal, en alianza con Fundación Telefónica, hace una invitación al curso de “Creación de Contenidos Digitales". El cual tiene como objetivo brindar conocimientos y estrategias creativas para modificar, generar y compartir materiales en los diferentes medios digitales.??Las inscripciones se encuentran abiertas desde el pasado 4 de enero y cierran el día 17 de enero.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el último reporte epidemiológico se confirmaron 72 casos nuevos y 9 decesos  más; a la fecha hay 9 mil 284 personas certificadas como Monitor COVID"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Suma Chihuahua 6,955 defunciones por Coronavirus en la pandemia
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Suma Chihuahua 6,955 defunciones por Coronavirus en la pandemia"
 front: false
-section: Local
+section: "Local"
+news_id: 184709
 ---
 
 El Reporte COVID-19 de la Secretaría de Salud muestra que hay un total general de 68 mil 112 contagios, tras confirmarse otros 72 nuevos positivos; mientras que el número de personas fallecidas incrementó en 9, con lo que suman ya 6 mil 955 en los 14 meses de haber iniciado la pandemia en el estado.

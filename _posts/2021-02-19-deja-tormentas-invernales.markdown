@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Atienden 145 incidentes entre ellos un incendio con dos personas dentro."
-image: /uploads/2021/images-DALIA.jpg
-video: nil
-audio: /uploads/2021/audio-MV06_DALIA_PINEDA.mp3
-alt: Deja tormentas invernales un muerto
+image: "/uploads/2021/images-DALIA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV06_DALIA_PINEDA.mp3"
+alt: "Deja tormentas invernales un muerto"
 front: false
-section: Local
+section: "Local"
+news_id: 183053
 ---
 
 Un muerto es el saldo que dejó las dos tormentas que se registraron dentro del estado, así como 145 accidentes entre los que se encuentran choques en motocicleta, incendios y un caso de hipotermia que terminó con la vida de una persona.

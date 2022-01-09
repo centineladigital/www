@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Scott Stuber, jefe del área de películas de Netflix, afirmó a 'Variety' que ya se encuentran en negociaciones con el director. "
-image: /uploads/2021/images-cristopher-nolan-trabajara-con-netflix_101_0_732_456.jpg
-video: nil
-audio: nil
-alt: Es necesario tener cero ego -  Netflix hará 'todo lo posible' por grabar una película con el director Cristopher Nolan
+image: "/uploads/2021/images-cristopher-nolan-trabajara-con-netflix_101_0_732_456.jpg"
+video: "nil"
+audio: "nil"
+alt: "Es necesario tener cero ego -  Netflix hará 'todo lo posible' por grabar una película con el director Cristopher Nolan"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186130
 ---
 
 Tras firmar un acuerdo con Steven Spielberg, Netflix ahora ha puesto sus ojos en otro de los grandes cineastas que renegaban del streaming. Se trata de Christopher Nolan, el director de filmes como Memento, Origen, El caballero oscuro o Interstellar por el que el que la plataforma está dispuesta a hacer "todo lo posible". 

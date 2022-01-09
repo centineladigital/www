@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "la iniciativa se establece que dicho crédito solamente podrá invertirse para financiar el costo de inversiones públicas productivas"
-image: /uploads/2021/images-EGRRGE.jpg
-video: nil
-audio: /uploads/2021/audio-AL03_MIGUEL_COLUNGA.mp3
-alt: Crédito sólo para desarrollo productivo de usarlo en otro rubro seria peculado -  Colunga
+image: "/uploads/2021/images-EGRRGE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AL03_MIGUEL_COLUNGA.mp3"
+alt: "Crédito sólo para desarrollo productivo de usarlo en otro rubro seria peculado -  Colunga"
 front: false
-section: Local
+section: "Local"
+news_id: 182039
 ---
 
 El coordinador de los diputados de Morena, Miguel Ángel Colunga Martínez, aseguró que no existe transparencia por parte de gobierno del estado en el uso de los recursos que pretenden adquirir con la autorización del crédito a 20 años por más de mil 600 millones de pesos.

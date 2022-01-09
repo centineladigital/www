@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Diez veces más caro llevar agua a comunidades rurales."
-image: /uploads/2021/images-ISMAEL.jpg
-video: nil
-audio: /uploads/2021/audio-MM03_ISMAEL_RODRIGUEZ.mp3
-alt: Aún sin atender más de 16 mil familias para abastecimiento de agua
+image: "/uploads/2021/images-ISMAEL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM03_ISMAEL_RODRIGUEZ.mp3"
+alt: "Aún sin atender más de 16 mil familias para abastecimiento de agua"
 front: false
-section: Local
+section: "Local"
+news_id: 183616
 ---
 
 Aún no se ha atendido a 16 mil 392 familias que no tienen agua en la zona serrana, esto dentro del programa "Agua para los excluidos", según fue dado a conocer Ismael Rodríguez, Presidente del Consejo de la Junta Central de Agua y Saneamiento. Señalando que en la presente administración se invertirán 187 millones de pesos, de la cual parte de ello es de organizaciones civiles. 

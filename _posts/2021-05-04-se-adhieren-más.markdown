@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gustavo Quezada, presidente estatal de atletismo, informó que pese a la campaña de guerra sucia contra María Eugenia Campos, los deportistas conocen su trabajo"
-image: /uploads/2021/images-deportistas_con_maru.jpg
-video: nil
-audio: nil
-alt: Se adhieren más deportistas a Maru Campos
+image: "/uploads/2021/images-deportistas_con_maru.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se adhieren más deportistas a Maru Campos"
 front: false
-section: Local
+section: "Local"
+news_id: 184262
 ---
 
 Deportistas y entrenadores de diversas disciplinas deportivas en Ciudad Juárez, se unieron a la campaña de la candidata del PAN y PRD por la gubernatura, María Eugenia Campos.

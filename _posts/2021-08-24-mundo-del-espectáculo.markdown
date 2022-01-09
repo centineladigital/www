@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este 24 de agosto se dio a conocer la muerte de Charlie Watts, baterista de The Rolling Stones y el mundo del espectáculo ha reaccionado a su fallecimiento."
-image: /uploads/2021/images-paul-mccartney-publico-emotivo-video.jpg
-video: nil
-audio: nil
-alt: Mundo del espectáculo reacciona a muerte de Charlie Watts, baterista de The Rolling Stones
+image: "/uploads/2021/images-paul-mccartney-publico-emotivo-video.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mundo del espectáculo reacciona a muerte de Charlie Watts, baterista de The Rolling Stones"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187053
 ---
 
 Charlie Watts, baterista de The Rolling Stones falleció a los 80 años este 24 de agosto, así lo dio a conocer su representante a través de un comunicado publicado por la banda liderada por Mick Jagger. Hasta el momento se desconoce la causa de la muerte del músico, pero desde hace unos meses se había sometido a una cirugía por la que se anunció se ausentaría de la gira por Estados Unidos. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "“Lejos de sumar aritméticamente, resta esa adhesión”."
-image: /uploads/2021/images-MARCO.jpg
-video: nil
-audio: /uploads/2021/audio-MV01_MARCO_QUEZADA.mp3
-alt: Decisiones Priístas no sumarán al PAN
+image: "/uploads/2021/images-MARCO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV01_MARCO_QUEZADA.mp3"
+alt: "Decisiones Priístas no sumarán al PAN"
 front: false
-section: Local
+section: "Local"
+news_id: 184727
 ---
 
 “Lejos de sumar aritméticamente, resta esa adhesión” fueron las palabras del candidato de Morena a la Alcaldía al ser cuestionado sobre la reacción que pudiera tener el voto a favor del proyecto que encabeza el que dirigencias como Fernando Baeza y Graciela Ortiz señalara que es mejor apoyar al PAN a la gubernatura.

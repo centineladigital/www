@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Así es el nuevo álbum de Metallica, donde colaboran artistas como J Balvin, Mon Laferte y Juanes."
-image: /uploads/2021/images-asi-es-el-nuevo-album.jpg
-video: nil
-audio: nil
-alt: ¡J Balvin, Mon Laferte y hasta Juanes! Metallica anuncia álbum con 53 artistas
+image: "/uploads/2021/images-asi-es-el-nuevo-album.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡J Balvin, Mon Laferte y hasta Juanes! Metallica anuncia álbum con 53 artistas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185183
 ---
 
 Metallica es una de las bandas de rock más aclamadas de toda la historia, sin embargo, parece que no tienen miedo a diversificarse y trabajar con músicos de otros órdenes, esto después de anunciar The Metallica Blacklist, un increíble álbum en el que colaborarán con 53 artistas, incluyendo a otros grupos de rock, estrellas pop y hasta músicos mexicanos. 

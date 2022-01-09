@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Quienes instruirán a los ciudadanos que serán funcionarios de casilla en la próxima jornada electoral"
-image: /uploads/2021/images-Asistentes_y_supervisores_INE.jpg
-video: nil
-audio: nil
-alt: Capacitan a asistentes y supervisores electorales
+image: "/uploads/2021/images-Asistentes_y_supervisores_INE.jpg"
+video: "nil"
+audio: "nil"
+alt: "Capacitan a asistentes y supervisores electorales"
 front: false
-section: Local
+section: "Local"
+news_id: 183708
 ---
 
 Inició el sábado la segunda etapa de capacitación para los asistentes y supervisores electorales, quienes instruirán a los ciudadanos que serán funcionarios de casilla en la próxima jornada electoral; el jueves se tendrá la segunda insaculación para determinar quiénes ocuparán los diferentes cargos para el día de la elección.

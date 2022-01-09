@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las y los participantes del evento cívico, llevaron a cabo los honores al Lábaro Patrio, entonaron el Himno Nacional Mexicano y el Himno del Heroico Colegio Militar."
-image: /uploads/2021/images-WhatsApp_Image_2021-09-13_at_13.15.51.jpeg
-video: nil
-audio: nil
-alt: Asiste Gobernadora a conmemoración de Gesta Heroica de los Niños Héroes de Chapultepec
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-13_at_13.15.51.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Asiste Gobernadora a conmemoración de Gesta Heroica de los Niños Héroes de Chapultepec"
 front: false
-section: Local
+section: "Local"
+news_id: 187679
 ---
 
 En el marco del 174 Aniversario de la Gesta Heroica de los Niños Héroes de Chapultepec, la gobernadora Maru Campos Galván y el General Federico Eduardo Solórzano Barragán, comandante de la 5/a. Zona Militar, acompañados por autoridades civiles y militares, rindieron guardia de honor y colocaron una ofrenda floral.

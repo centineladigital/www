@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Participó un equipo de al menos 20 trabajadores de la salud en esta intervención exitosa"
-image: /uploads/2021/images-Foto_373-1.jpg
-video: nil
-audio: nil
-alt: Realizan médicos del Hospital de Cardiología No. 34 del IMSS en Nuevo León trasplante de corazón a joven regiomontano
+image: "/uploads/2021/images-Foto_373-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Realizan médicos del Hospital de Cardiología No. 34 del IMSS en Nuevo León trasplante de corazón a joven regiomontano"
 front: false
-section: Local
+section: "Local"
+news_id: 187105
 ---
 
 Gracias a una exitosa cirugía de trasplante de corazón, realizada en la Unidad Médica de Alta Especialidad (UMAE) Hospital de Cardiología No. 34 del Instituto Mexicano del Seguro Social (IMSS) en Nuevo León, un joven de 16 años que sufría una enfermedad cardiaca congénita ahora cuenta con un nuevo órgano que mejorará no sólo su esperanza, sino también su calidad de vida.

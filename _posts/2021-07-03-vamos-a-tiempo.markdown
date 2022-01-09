@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El hijo de Eugenio Derbez y Victoria Rufo también contó cómo fue que él y Paola Dalay se conocieron. "
-image: /uploads/2021/images-novia-jose-eduardo-derbez-defiende_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Vamos a tiempo -  ¿Habrá boda? José Eduardo Derbez revela si planea casarse pronto con su novia
+image: "/uploads/2021/images-novia-jose-eduardo-derbez-defiende_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Vamos a tiempo -  ¿Habrá boda? José Eduardo Derbez revela si planea casarse pronto con su novia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185371
 ---
 
 José Eduardo Derbez forma parte de una de las familias más populares de la farándula mexicana, por lo que sus millones de seguidores suelen estar pendientes de todos los detalles de la vida del hijo de Eugenio Derbez y Victoria Rufo, quien respondió durante el programa Miembros al aire si tiene planes de boda próximos con su novia Paola Dalay. 

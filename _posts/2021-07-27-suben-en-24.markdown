@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Salud informa que el número de fallecimientos por Sars-Cov2 se mantiene igual por segundo día consecutivo en la semana"
-image: /uploads/2021/images-COVID_INFORME_27_JULIO_2021_(1).jpeg
-video: nil
-audio: nil
-alt:  Suben en 24 los contagios confirmados de COVID-19  para un acumulado de 72,323
+image: "/uploads/2021/images-COVID_INFORME_27_JULIO_2021_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: " Suben en 24 los contagios confirmados de COVID-19  para un acumulado de 72,323"
 front: false
-section: Local
+section: "Local"
+news_id: 186020
 ---
 
 Con la confirmación de 24 nuevos casos de COVID-19 la Secretaría de Salud de Chihuahua informó que hay un acumulado general de 72 mil 323 contagios, mientras que el número de fallecimientos sigue en 7 mil 675.

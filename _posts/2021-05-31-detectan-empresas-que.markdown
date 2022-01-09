@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Otras amenazas con retirarse de México en caso de que gane Morena."
-image: /uploads/2021/images-VICTOR.jpg
-video: nil
-audio: /uploads/2021/audio-ML05_VICTOR_QUINTANA.mp3
-alt: Detectan empresas que darán dinero por no votar por Morena
+image: "/uploads/2021/images-VICTOR.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML05_VICTOR_QUINTANA.mp3"
+alt: "Detectan empresas que darán dinero por no votar por Morena"
 front: false
-section: Local
+section: "Local"
+news_id: 184754
 ---
 
 Dos empresas fueron detectadas por parte del candidato a la diputación por el distrito 12, Víctor Quintana Silveira, quién no quiso dar el nombre de las mismas debido a que se llevan a cabo las averiguaciones pertinentes. 

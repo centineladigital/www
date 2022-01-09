@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "De acuerdo con el INEGI, en 2020 perdieron la vida 108 mil 658 de mexicanos por el SARS-CoV-2; rechaza su presidente Julio Santaella que Ssa altere esquema de conteo"
-image: /uploads/2021/images-2519205.jpg
-video: nil
-audio: nil
-alt: Se apunta Covid a ser la causa #2 de muertes en México
+image: "/uploads/2021/images-2519205.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se apunta Covid a ser la causa #2 de muertes en México"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182480
 ---
 
 El Instituto Nacional de Estadística y  Geografía (INEGI) reveló que de enero a agosto de 2020 fallecieron 108 mil 658 mexicanos por Covid-19, que sería la segunda causa de muerte en el país después de las enfermedades del corazón.

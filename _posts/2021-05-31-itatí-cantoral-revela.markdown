@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Itatí Cantoral y Eduardo Santamarina terminaron por infidelidad? ¿Fue culpa de Susana Gonzáles? ¿Ella también le fue infiel? Te contamos lo que dijo la famosa actriz. "
-image: /uploads/2021/images-itati-cantoral-explica-infiel-eduardo.jpg
-video: nil
-audio: nil
-alt: Itatí Cantoral revela que también le fue infiel a Eduardo Santamarina; defiende a Susana González
+image: "/uploads/2021/images-itati-cantoral-explica-infiel-eduardo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Itatí Cantoral revela que también le fue infiel a Eduardo Santamarina; defiende a Susana González"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184761
 ---
 
 Itatí Cantoral, actriz mexicana, lanzó fuertes declaraciones sobre su pasado amoroso con Eduardo Santamarina –su ex esposo y padre de dos de sus hijos–. Y es que sobre la ex pareja –en su momento–se habló mucho sobre su separación. Esto luego de que trascendiera que su ruptura amorosa se había dado a causa de una infidelidad del actor con Susana González. ¿Esa fue la verdadera causa de su ruptura amorosa? ¿Por qué terminaron? ¿Fue la infidelidad? ¿Ella también le fue infiel? Te contamos lo que expresó la famosa intérprete. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Buscará Laura Contreras beneficios para el campo."
-image: /uploads/2021/images-LAURA3.jpg
-video: nil
-audio: /uploads/2021/audio-MM05_LAURA_CONTRERAS.mp3
-alt: Necesario fomentar programas de beneficio al campo
+image: "/uploads/2021/images-LAURA3.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM05_LAURA_CONTRERAS.mp3"
+alt: "Necesario fomentar programas de beneficio al campo"
 front: false
-section: Local
+section: "Local"
+news_id: 184407
 ---
 
 Es necesario que se den programas para beneficio del campo, fueron las palabras de Laura Contreras, quien dijo que es urgente el buscar la forma de proteger acciones primarias como lo es la agricultura.

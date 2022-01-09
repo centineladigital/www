@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "De concederse, en un lapso de entre 30 y 60 días el exgobernador sería enviado a México"
-image: /uploads/2021/images-cesar_duarte_3.jpg
-video: nil
-audio: nil
-alt: Hoy se resuelve la extradición de César D. J.
+image: "/uploads/2021/images-cesar_duarte_3.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hoy se resuelve la extradición de César D. J."
 front: false
-section: Local
+section: "Local"
+news_id: 182433
 ---
 
 Hoy en punto de las 11 horas del día se celebrará la audiencia final en contra del exgobernador César Horacio D. J., quien se encuentra detenido desde hace más de seis meses en Florida, donde se espera que se resuelva la extradición o no hacia la República Mexicana por la investigación que se mantiene en su contra.

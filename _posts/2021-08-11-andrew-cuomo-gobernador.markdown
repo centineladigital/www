@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El gobernador de Nueva York anuncia su renuncia, en medio de un escándalo de acoso sexual que llevó al mismo presidente a pedirle dar “un paso al costado”"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Andrew Cuomo, gobernador de NY -  la caída de una estrella demócrata
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Andrew Cuomo, gobernador de NY -  la caída de una estrella demócrata"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186546
 ---
 
 Washington.— La presión pudo con el gobernador de Nueva York, Andrew Cuomo, incapaz de frenar su caída en desgracia después de que hace una semana se le acusara de haber acosado sexualmente a 11 mujeres, hasta el punto que ayer, de sorpresa, anunció que dimitía de su cargo.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Exhorta a denunciar acciones que se lleven a cabo por parte de los integrantes de Morena."
-image: /uploads/2021/images-LAURA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ06_LAURA_CONTRERAS.mp3
-alt: Pide Contreras no temer amenazas del Morena
+image: "/uploads/2021/images-LAURA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ06_LAURA_CONTRERAS.mp3"
+alt: "Pide Contreras no temer amenazas del Morena"
 front: false
-section: Local
+section: "Local"
+news_id: 184695
 ---
 
 Debido a que se han registrado amenazas por parte de representantes de Morena, la candidata por el sexto distrito, Laura Contreras invitó a denunciar este hecho y no caer en intimidaciones por parte de ningún candidato.

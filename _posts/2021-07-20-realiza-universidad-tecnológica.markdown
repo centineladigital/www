@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Empresas locales y nacionales expusieron su trabajo con la finalidad de que las y los estudiantes seleccionen la que más se acerque a sus expectativas laborales"
-image: /uploads/2021/images-Boletin_15-2.JPG
-video: nil
-audio: nil
-alt: Realiza Universidad Tecnológica de Chihuahua Sur feria de estadías
+image: "/uploads/2021/images-Boletin_15-2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Realiza Universidad Tecnológica de Chihuahua Sur feria de estadías"
 front: false
-section: Local
+section: "Local"
+news_id: 185842
 ---
 
 Empresas locales y nacionales participaron en la feria de estadías de la Universidad Tecnológica de Chihuahua Sur (UTCH Sur), en la que se presentó el trabajo que se lleva a cabo en cada una de ellas, con el fin de que las y los estudiantes puedan aportar proyectos e ideas innovadoras para trabajarlos en conjunto.

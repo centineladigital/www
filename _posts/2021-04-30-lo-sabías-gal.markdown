@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con apenas 18 años y para su sorpresa, la actriz se coronó Miss Israel 2004 y ese mismo año representó a su país en Miss Universo. "
-image: /uploads/2021/images-gal-gadot-fue-miss-israel.jpg
-video: nil
-audio: nil
-alt: ¿Lo sabías? Gal Gadot fue Miss Israel y se autosaboteó para no ganar Miss Universo
+image: "/uploads/2021/images-gal-gadot-fue-miss-israel.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Lo sabías? Gal Gadot fue Miss Israel y se autosaboteó para no ganar Miss Universo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184211
 ---
 
 Gal Gadot es famosa por interpretar a Diana Prince, mejor conocida como Wonder Woman o La Mujer Maravilla, personaje que este año apareció en La Liga de la Justicia de Zack Snyder. Aunque ya desde antes se había dado a conocer por su papel de Gisele Yashar en la saga de Rápidos y Furiosos. Sin embargo, ¿sabías que antes de dedicarse a la actuación, la actriz israelí nacida el 30 de abril de 1985 formó parte del ejército de su país y años atrás fue reina de belleza? En el marco de su cumpleaños número 36, recordamos el día que fue Miss Israel y cómo se autosaboteó para no ganar Miss Universo. 

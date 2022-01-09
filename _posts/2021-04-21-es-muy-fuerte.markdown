@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El productor recordó que estuvo con Alejandra Guzmán en la misma clínica de rehabilitación; aseguró que la vida le ha cobrado muchas facturas a la cantante. "
-image: /uploads/2021/images-juan-osorio-revela-rehabilitacion-alejandra_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Es muy fuerte -  Juan Osorio revela que estuvo en rehabilitación con Alejandra Guzmán
+image: "/uploads/2021/images-juan-osorio-revela-rehabilitacion-alejandra_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Es muy fuerte -  Juan Osorio revela que estuvo en rehabilitación con Alejandra Guzmán"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184016
 ---
 
 Juan Osorio reaccionó a las últimas declaraciones que hizo Alejandra Guzmán sobre el caso de su hija Frida Sofía, quien reveló haber sufrido de abuso sexual por parte de su abuelo Enrique Guzmán cuando tenía cinco años. El productor de Televisa comentó que la intérprete de "Mala hierba" es una persona a la que "la vida le ha cobrado muchas facturas" y recordó que ambos estuvieron en la misma clínica de rehabilitación.  En un encuentro con los medios, Juan Osorio lamentó la complicada situación por la que atraviesa la familia Guzmán en estos momentos. El productor fue cuestionado si estaría dispuesto a realizar una bioserie sobre la vida de Frida Sofía, a lo que contestó con un rotundo "no".

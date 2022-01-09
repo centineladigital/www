@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El organismo indicó que se esperan afectaciones por el fenómeno entre el miércoles y jueves, además, informó que se alistan los refugios temporales para la población"
-image: /uploads/2021/images-esperan-mayores-afectaciones-grace-yucatan_0_1_1200_746.jpeg
-video: nil
-audio: nil
-alt: Grace impactará en Tulum, Playa del Carmen, Cozumel y Cancún -  SMN
+image: "/uploads/2021/images-esperan-mayores-afectaciones-grace-yucatan_0_1_1200_746.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Grace impactará en Tulum, Playa del Carmen, Cozumel y Cancún -  SMN"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186807
 ---
 
 La tormenta tropical Grace se aproxima rápidamente a la Península de Yucatán, se prevé que se intensifique a huracán categoría 1 y toque tierra durante la del miércoles o primeras horas del jueves sobre la costa norte de Quintana Roo, informó el Servicio Meteorológico Nacional (SMN).

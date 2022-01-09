@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Con el fin de mantener esta zona de importante actividad económica, turística y de servicios, en excelentes condiciones"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Continúa Gobierno Municipal con operativo de limpieza permanente en Centro Histórico
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Continúa Gobierno Municipal con operativo de limpieza permanente en Centro Histórico"
 front: false
-section: Local
+section: "Local"
+news_id: 187324
 ---
 
 De manera diaria, el Gobierno Municipal a través de la Dirección de Servicios Públicos Municipales lleva a cabo operativos de limpieza en el Centro Histórico, con el fin de mantener esta zona de importante actividad económica, turística y de servicios, en excelentes condiciones.

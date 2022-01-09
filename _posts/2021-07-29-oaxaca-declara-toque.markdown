@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los habitantes del lugar únicamente podrán salir si es para conseguir oxigeno o medicinas y comprueben que tienen a un paciente enfermo de coronavirus"
-image: /uploads/2021/images-declaran-toque-queda-oaxaca-alza_0_92_720_448.jpeg
-video: nil
-audio: nil
-alt: Oaxaca declara toque de queda en Tequisistlán por alza de contagios de covid-19
+image: "/uploads/2021/images-declaran-toque-queda-oaxaca-alza_0_92_720_448.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Oaxaca declara toque de queda en Tequisistlán por alza de contagios de covid-19"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186081
 ---
 
 El presidente municipal de Magdalena Tequisistlán en Oaxaca, aplicará toque de queda a los habitantes por alza de casos positivos de covid-19 y así reducir los contagios. 

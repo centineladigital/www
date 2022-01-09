@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de sus redes sociales, Bárbara de Regil demostró que el amor con su pareja sigue presente y para prueba compartió la forma romántica en la que su esposo Fernando Schoenwald le volvió a pedir que se case con él. "
-image: /uploads/2021/images-barbara-regil-tremenda-sorpresa-esposo.jpg
-video: nil
-audio: nil
-alt: Mi corazón habla -  Bárbara de Regil se volverá a casar; esposo le pide matrimonio
+image: "/uploads/2021/images-barbara-regil-tremenda-sorpresa-esposo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mi corazón habla -  Bárbara de Regil se volverá a casar; esposo le pide matrimonio"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184212
 ---
 
 Bárbara de Regil, actriz e influencer fitness, cautivó a sus seguidores, pues de nueva cuenta se comprometió con su ya esposo Fernando Schoenwald. La famosa compartió el emotivo momento con un video en el que aparece sorprendida, pues su pareja se arrodilló frente a ella y le volvió a pedir que se casara con él. ¿Cómo ha sido su relación? La influencer dejó entrever un poco de su relación amorosa y dedicó unas palabras para quien dice es su gran amor. Fue a través de sus redes sociales en donde Bárbara de Regil demostró que el amor con su pareja sigue presente y para prueba de ello es la forma romántica en la que su esposo Fernando Schoenwald le volvió a pedir que se case con él. 

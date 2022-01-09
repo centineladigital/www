@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En entrevista con el 'Escorpión Dorado', la cantante también reveló que sufrió bullying, pues era la chamaquita famosa que molestaban. "
-image: /uploads/2021/images-sarinana-invitada-programa-youtube-escorpion.jpg
-video: nil
-audio: nil
-alt: Ella cuenta una historia -  Ximena Sariñana revela si se peleó con Danna Paola
+image: "/uploads/2021/images-sarinana-invitada-programa-youtube-escorpion.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ella cuenta una historia -  Ximena Sariñana revela si se peleó con Danna Paola"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186860
 ---
 
 Ximena Sariñana acudió al programa en YouTube del Escorpión Dorado y polémica no faltó, pues en los primeros minutos del video la cantante bromeó sobre un presunto desencuentro que tuvo con su colega musical, Danna Paola, cuando eran niñas. "Ya tenías ganas de conocerte, porque yo te veía en los videos, en tus películas siempre muy agresiva, siempre con esa actitud medio agreste. ¿Te agarrabas a chingadazos cuando eras más morra?", le preguntó el youtuber el principio del video. 

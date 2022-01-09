@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¡Por fin! 'WandaVision' llegó a Disney Plus y no te la vas a querer perder; aquí te decimos cómo la puedes ver y las reacciones tras su estreno. "
-image: /uploads/2021/images-wandavision-ya-esta-disponible-en.jpg
-video: nil
-audio: nil
-alt: ¡WandaVision ya está disponible en Disney Plus!; así reaccionaron los fans de Marvel
+image: "/uploads/2021/images-wandavision-ya-esta-disponible-en.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡WandaVision ya está disponible en Disney Plus!; así reaccionaron los fans de Marvel"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182163
 ---
 
 El final de la segunda temporada de The Mandalorian dejó con un hueco en el corazón de los aficionados a las series. Sin embargo, por fin llegó WandaVision, la nueva serie de Disney Plus, producida por Marvel Studios y que tendrá como protagonistas a Paul Bettany (Vision) y Elizabeth Olsen (Wanda Maximoff - La Bruja Escarlata). Los primeros dos capítulos de la prometedora serie ya están disponibles en la plataforma y desde luego, los fans del Universo Marvel no tardaron en reaccionar a las primeras imágenes de WandaVision. En ella, todo parecerá aparentemente normal: los dos son una feliz pareja que vive una vida urbana de ensueño... con la diferencia de que tienen superpoderes, todo con un formato de sitcom clásico; sin embargo, ambos personajes parecen perdidos en su propia realidad, pero lo disimulan. 

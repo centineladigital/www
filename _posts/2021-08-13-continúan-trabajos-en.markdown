@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "A la fecha la obra registra un avance del 65 por ciento"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Continúan trabajos en Paso Superior de carretera Aldama – Chihuahua
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Continúan trabajos en Paso Superior de carretera Aldama – Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 186666
 ---
 
 El Gobierno Municipal a través de la Dirección de Obras Públicas, sigue trabajando en la construcción del Paso Superior sobre la carretera Aldama - Chihuahua y avenida Romanzza, obra que beneficiará el cruce seguro de la zona habitacional al sur oriente de la ciudad, y que a la fecha registra un avance del 65 por ciento.

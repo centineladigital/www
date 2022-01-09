@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Comisión de Fiscalización del INE alega realizó el PRI acto de precampaña cuándo se anunció no abría tal"
-image: /uploads/2021/images-Graciela_Ortiz_5.jfif
-video: nil
-audio: nil
-alt: INE podría cancelar registro de Chela Ortíz
+image: "/uploads/2021/images-Graciela_Ortiz_5.jfif"
+video: "nil"
+audio: "nil"
+alt: "INE podría cancelar registro de Chela Ortíz"
 front: false
-section: Local
+section: "Local"
+news_id: 183544
 ---
 
 La Comisión de Fiscalización del Instituto Nacional Electoral definió que se deben cancelar 59 registros de 16 estados del país, entre ellos el de la candidata a la gubernatura del Partido Revolucionario Institucional, Graciela Ortiz González.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Protección Civil informa que este martes se registró la caída de granizo en comunidades de los municipios de Santa Isabel, Camargo y Chihuahua"
-image: /uploads/2021/images-LLUVIA_NUBLADO_CUU_(3).JPG
-video: nil
-audio: nil
-alt: Se pronostican lluvias para varios municipios del estado durante este miércoles
+image: "/uploads/2021/images-LLUVIA_NUBLADO_CUU_(3).JPG"
+video: "nil"
+audio: "nil"
+alt: "Se pronostican lluvias para varios municipios del estado durante este miércoles"
 front: false
-section: Local
+section: "Local"
+news_id: 184798
 ---
 
 Para este miércoles 2 de junio se pronostican lluvias en Coronado, Jiménez, Manuel Benavides, Ojinaga, Ciudad Juárez, Guadalupe, Nuevo Casas Grandes, Janos, Madera, Guerrero, Chihuahua, Parral, Camargo, Delicias y Coyame, informó la Coordinación Estatal de Protección Civil (CEPC).

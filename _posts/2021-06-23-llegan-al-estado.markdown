@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Compra fue hecha en el 2018."
-image: /uploads/2021/images-EMILIO.jpg
-video: nil
-audio: /uploads/2021/audio-MW01.mp3
-alt: Llegan al estado armas adquiridas en el 2018
+image: "/uploads/2021/images-EMILIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW01.mp3"
+alt: "Llegan al estado armas adquiridas en el 2018"
 front: false
-section: Local
+section: "Local"
+news_id: 185206
 ---
 
 Armas que se habían comprado en el 2018 llegan a Chihuahua, según lo dio a conocer el titular de la Secretaría de Seguridad Emilio García Ruiz. Quien dijo que en un operativo poco común fue la misma dependencia estatal quien traslado las armas, cargadores y municiones al estado.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afectará a la sustentabilidad alimenticia señala dirigente de tortilleros."
-image: /uploads/2021/images-JUAN.jpg
-video: /uploads/2021/videos-MV01_JUAN_DAVILA.mp4
-audio: nil
-alt: A punto de colapsar industria de la tortilla
+image: "/uploads/2021/images-JUAN.jpg"
+video: "/uploads/2021/videos-MV01_JUAN_DAVILA.mp4"
+audio: "nil"
+alt: "A punto de colapsar industria de la tortilla"
 front: false
-section: Local
+section: "Local"
+news_id: 186147
 ---
 
 La industria de la tortilla se encuentra a punto de colapsar, señaló Juan Carlos Davila, presidente Nacional de la Unión de la Masa y la Tortilla A.C., afirmando que debido a los altos costos que se tienen en los insumos a los empresarios, destacando el incremento de los precios del maíz superando los ocho mil pesos la tonelada.

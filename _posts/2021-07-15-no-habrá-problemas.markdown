@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El mandatario hizo un llamado a los padres de familia para que se organicen y empiecen a prepararse para el regreso a las aulas, porque las escuelas se quedaron abandonadas por mucho tiempo. "
-image: /uploads/2021/images-amlo.jpg
-video: nil
-audio: nil
-alt: No habrá problemas de contagios en regreso a clases presenciales, asegura AMLO
+image: "/uploads/2021/images-amlo.jpg"
+video: "nil"
+audio: "nil"
+alt: "No habrá problemas de contagios en regreso a clases presenciales, asegura AMLO"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185684
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que no se van a tener problemas de contagios en el regreso a clases presenciales para el siguiente ciclo escolar, porque el riesgo es menor para los menores si se llegasen a enfermar de covid-19. Además, recordó que el plan de vacunación está avanzando para los mayores de 18 años. 

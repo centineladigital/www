@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto ante el fallo se la Suprema Corte."
-image: /uploads/2021/images-FERNANDO_MESTA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ06_FERNANDO_MESTA.mp3
-alt: Invitación a mesa de seguridad a federación es permanente -  Mesta
+image: "/uploads/2021/images-FERNANDO_MESTA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ06_FERNANDO_MESTA.mp3"
+alt: "Invitación a mesa de seguridad a federación es permanente -  Mesta"
 front: false
-section: Local
+section: "Local"
+news_id: 183167
 ---
 
 La invitación a la federación para que participen de forma permanente no se ha dejado de enviar, señaló el Secretario General de Gobierno, Fernando Mesta Soulé al ser cuestionado sobre el fallo  de la Suprema Corte de Justicia de la Nación regresen a sesionar.

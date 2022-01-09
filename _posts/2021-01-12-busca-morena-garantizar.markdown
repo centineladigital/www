@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Los derechohabientes han tenido que recurrir a hospitales privados para obtener las dosis de vacunas que los recién nacidos requieren"
-image: /uploads/2021/images-fgrggrg.jpg
-video: nil
-audio: /uploads/2021/audio-AM01_HUMBERTO_CHAVEZ.mp3
-alt: Busca Morena garantizar abasto de vacunas del esquema básico para recién nacidos
+image: "/uploads/2021/images-fgrggrg.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AM01_HUMBERTO_CHAVEZ.mp3"
+alt: "Busca Morena garantizar abasto de vacunas del esquema básico para recién nacidos"
 front: false
-section: Local
+section: "Local"
+news_id: 182076
 ---
 
 En Sesión de la Diputación Permanente, el Congreso de Chihuahua aprobó de manera urgente, la iniciativa presentada por el diputado de Morena, Francisco Humberto Chávez Herrera, mediante la cual se exhortó al titular del Poder Ejecutivo Federal, para que por conducto de la Secretaría de Salud, se garantice el abasto de unidades de vacunación del esquema básico, para la atención de recién nacidos.

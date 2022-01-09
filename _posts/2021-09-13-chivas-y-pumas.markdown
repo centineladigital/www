@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Rebaño tuvo las dos oportunidades más claras del partido y no logró concretarlas, por lo que la crisis de ambos equipos empeoró. Los felinos se mantienen en el fondo de la general "
-image: /uploads/2021/images-pumas-chivas-empatan-goles-ciudad_1_27_1198_746.jpg
-video: nil
-audio: nil
-alt: Chivas y Pumas aburren en el 67 aniversario del conjunto universitario
+image: "/uploads/2021/images-pumas-chivas-empatan-goles-ciudad_1_27_1198_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chivas y Pumas aburren en el 67 aniversario del conjunto universitario"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187665
 ---
 
 El duelo que por tradición e importancia de los equipos que se medían en el Olímpico Universitario parecía ser el encuentro de la semana, pero como de costumbre nos quedó a deber. 

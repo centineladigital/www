@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Inexistente obras dentro del territorio estatal por parte de la federación."
-image: /uploads/2021/images-DOMINGUEZ.jpg
-video: /uploads/2021/videos-MW05_ALEJANDRO_DOMINGUEZ.mp4
-audio: nil
-alt: En tres años no se ha realizado obras importantes de la federación -  PRI
+image: "/uploads/2021/images-DOMINGUEZ.jpg"
+video: "/uploads/2021/videos-MW05_ALEJANDRO_DOMINGUEZ.mp4"
+audio: "nil"
+alt: "En tres años no se ha realizado obras importantes de la federación -  PRI"
 front: false
-section: Local
+section: "Local"
+news_id: 186072
 ---
 
 Como decepcionante calificó el dirigente del Partido Revolucionario Institucional el desempeño de la federación, esto ya que en tres años no se ha edificado una obra importante en el territorio estatal.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "De forma virtual realizan la toma de protesta."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-MM07_JAVIER_CORRAL.mp3
-alt: Reinstalan Comité de Bioética del Estado de Chihuahua
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM07_JAVIER_CORRAL.mp3"
+alt: "Reinstalan Comité de Bioética del Estado de Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 183230
 ---
 
 Esta martes el fue tomada, de forma virtual, la protesta a los integrantes del Comité de Bioética del Estado. El cual se había suspendido debido a la muerte del Secretario de Salud Enrique Grajeda. Dentro del evento se llevó a cabo la firma para la conformación de este ámbito. 

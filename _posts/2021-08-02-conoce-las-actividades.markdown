@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se llevará acabo del 6 al 28 de agosto"
-image: /uploads/2021/images-unnamed_(5).jpg
-video: nil
-audio: nil
-alt: Conoce las actividades artísticas y culturales del “Encuentro FOMAC 3”
+image: "/uploads/2021/images-unnamed_(5).jpg"
+video: "nil"
+audio: "nil"
+alt: "Conoce las actividades artísticas y culturales del “Encuentro FOMAC 3”"
 front: false
-section: Local
+section: "Local"
+news_id: 186190
 ---
 
 El Gobierno Municipal a través del Instituto de Cultura invita a la comunidad chihuahuense al programa de actividades artísticas y culturales “Encuentro FOMAC 3” donde las y los beneficiarios presentarán el resultado de cada uno de sus proyectos, el cual se desarrollará del 6 al 28 de agosto.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor del programa 'That 70s Show', Danny Masterson, será enjuicio por tres cargos de violacion."
-image: /uploads/2021/images-el-actor-se-ha-declarado_238_45_785_488.jpg
-video: nil
-audio: nil
-alt: Danny Masterson, actor de 'That 70s Show' enfrentará juicio por tres cargos de abuso sexual
+image: "/uploads/2021/images-el-actor-se-ha-declarado_238_45_785_488.jpg"
+video: "nil"
+audio: "nil"
+alt: "Danny Masterson, actor de 'That 70s Show' enfrentará juicio por tres cargos de abuso sexual"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184605
 ---
 
 Hace unos meses el actor Danny Masterson, quien saltó a la fama después de participar en el programa That 70s Show, fue arrestado por acusaciones en su contra por abuso sexual, ahora, tras varias investigaciones, Masterson enfrenta tres cargos de violación por los cuales será enjuiciado. Una jueza señaló que Danny Masterson deberá ser enjuiciado por tres cargos de violación después de escuchar días de testimonios emotivos de tres mujeres que dijeron que él las atacó en 2001 y 2003. 

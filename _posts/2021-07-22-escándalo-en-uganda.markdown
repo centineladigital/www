@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el fraude participaron médicos y enfermeras, quienes diluían las vacunas con agua"
-image: /uploads/2021/images-uganda_vacunas_falsas.jpg
-video: nil
-audio: nil
-alt: Escándalo en Uganda -  cientos de personas recibieron vacunas falsas contra el Covid-19
+image: "/uploads/2021/images-uganda_vacunas_falsas.jpg"
+video: "nil"
+audio: "nil"
+alt: "Escándalo en Uganda -  cientos de personas recibieron vacunas falsas contra el Covid-19"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185898
 ---
 
 Cerca de 800 personas recibieron una o más inyecciones de vacunas falsas contra el Covid-19 en Uganda, una estafa llevada a cabo por médicos y enfermeras "sin escrúpulos", anunciaron el miércoles las autoridades. 

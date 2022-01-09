@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Emilio Osorio preocupó a sus seguidores después de que ingresó al hospital, afortunadamente ya salió y se incorporó a las grabaciones de la telenovela en la que participa."
-image: /uploads/2021/images-emilio-osorio-compartio-que-tuvo.jpg
-video: nil
-audio: nil
-alt: ¡Regresa a trabajar! Emilio Osorio sale del hospital tras fuerte dolor de estómago
+image: "/uploads/2021/images-emilio-osorio-compartio-que-tuvo.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Regresa a trabajar! Emilio Osorio sale del hospital tras fuerte dolor de estómago"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185000
 ---
 
 El pasado 10 de junio Emilio Osorio, hijo de Juan Osorio y Niurka Marcos, compartió con sus seguidores que se encontraba hospitalizado, aunque no quiso dar muchos detalles de la razón por la que se encontraba en el nosocomio, éstas ya fueron reveladas y afortunadamente el actor ya fue dado de alta. 

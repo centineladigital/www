@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con el objetivo de proteger, avisar y  socorrer en caso de emergencia por accidentes"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Capacita DIF Municipal a todo su personal en primeros auxilios
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Capacita DIF Municipal a todo su personal en primeros auxilios"
 front: false
-section: Local
+section: "Local"
+news_id: 187460
 ---
 
 El personal del DIF Municipal tomó curso intensivo de primeros auxilios, que incluyó simulacros de evacuación de edificios, práctica para extinción de fuego, rescate y apoyo para salvar personas atrapadas.

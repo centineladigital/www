@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante una entrevista con Gustavo Adolfo Infante, el cantante recordó las parrandas que se aventaba con su colega musical Pancho Barraza. "
-image: /uploads/2021/images-julio-preciado-instagram.jpg
-video: nil
-audio: nil
-alt: “Fui atascado” -  Julio Preciado revela cómo superó sus adicciones
+image: "/uploads/2021/images-julio-preciado-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Fui atascado” -  Julio Preciado revela cómo superó sus adicciones"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184137
 ---
 
 Julio Preciado es un cantante de música regional muy popular en América Latina gracias a su etapa como vocalista de la Banda El Recodo en los años 90, además de sus éxitos en solitario, por ejemplo: “Dos hojas sin rumbo”, “Aunque no sea conmigo” y “Como este loco”. Pero el cantante nacido en Mazatlán, Sinaloa en su momento también dio de qué hablar debido a sus adicciones, que afortunadamente ya logró superar. Y durante una entrevista con Gustavo Adolfo Infante contó cómo salió de este bache que pusó en peligro su vida. 

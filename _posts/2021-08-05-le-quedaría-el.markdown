@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En entrevista el mexicano admitió que le gustaría ser un villano en el Universo Cinematográfico Marvel. "
-image: /uploads/2021/images-eugenio-derbez-propone-villano-universo.jpg
-video: nil
-audio: nil
-alt: ¿Le quedaría el papel? Eugenio Derbez se propone como villano para Universo Marvel
+image: "/uploads/2021/images-eugenio-derbez-propone-villano-universo.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Le quedaría el papel? Eugenio Derbez se propone como villano para Universo Marvel"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186365
 ---
 
 Los actores mexicanos, si algo saben hacer, es triunfar en Hollywood. Ahora, Eugenio Derbez apunta a convertirse en un personaje del prestigioso Universo Cinematográfico de Marvel (MCU, por sus siglas en inglés), por lo menos es lo que desea hacer. 

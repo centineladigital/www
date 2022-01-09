@@ -16,12 +16,13 @@ tags:
   
 author: nil
 description: "Existen dos reportes recientes en Infonavit nacional y Vistas cerro grande "
-image: /uploads/2021/images-gilberto_loya.jpg
-video: /uploads/2021/videos-BV04_GILBERTO_LOYA_.mp4
-audio: nil
-alt: Cerca de 30 escuelas con reporte de robo 
+image: "/uploads/2021/images-gilberto_loya.jpg"
+video: "/uploads/2021/videos-BV04_GILBERTO_LOYA_.mp4"
+audio: "nil"
+alt: "Cerca de 30 escuelas con reporte de robo "
 front: false
-section: Local
+section: "Local"
+news_id: 187417
 ---
 
 El ingeniero Gilberto Loya director de la Policía Municipal habló de sobre los  reportes de robos en la escuelas de la Infonavit nacional y Vistas cerro grande en donde se ha hurtado parte del cableado  donde aseguró se están atendiendo diligentemente ya que son cerca de 30 escuelas las cuales han presentado este tipo de delito.

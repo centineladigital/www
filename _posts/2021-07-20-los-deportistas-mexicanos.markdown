@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Son un total de 100 plazas olímpicas las que se obtuvieron, en las cuales estarán participando 163 deportistas, 97 hombres y 66 mujeres"
-image: /uploads/2021/images-mexico_juegos_olimpicos.jpg
-video: nil
-audio: nil
-alt: Los deportistas mexicanos calificados a los Juegos Olímpicos de Tokio
+image: "/uploads/2021/images-mexico_juegos_olimpicos.jpg"
+video: "nil"
+audio: "nil"
+alt: "Los deportistas mexicanos calificados a los Juegos Olímpicos de Tokio"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185837
 ---
 
 Quedó definida la delegación mexicana que competirá en los Juegos Olímpicos de Tokio 2020, justa que iniciará el próximo viernes 23 de julio y que concluirá el domingo 8 de agosto. 

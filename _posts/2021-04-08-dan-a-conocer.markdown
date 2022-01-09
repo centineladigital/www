@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Empresarios deportivos piensan que el PAN es la mejor opción."
-image: /uploads/2021/images-PACO_Y_MARCO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ06_MARCO_BONILLA.mp3
-alt: Dan a conocer adhesiones de deportistas a Acción Nacional
+image: "/uploads/2021/images-PACO_Y_MARCO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ05_PACO_NAVARRO.mp3"
+alt: "Dan a conocer adhesiones de deportistas a Acción Nacional"
 front: false
-section: Local
+section: "Local"
+news_id: 183770
 ---
 
 Dentro de las actividades proselitistas del Partido Acción Nacional, este jueves se dio a conocer que dueños de equipos deportivos profesionales se adhieren al proyecto de panista tanto a nivel estatal como municipal. Lo anterior fue dado a conocer por parte del dirigente del partido a nivel municipal, Francisco Navarro Pastrana.

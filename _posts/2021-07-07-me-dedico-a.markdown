@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El video ha vuelto a dar de qué hablar en redes sociales y aquí te decimos por qué. "
-image: /uploads/2021/images-carlos-rivera-revelo-algunos-de.jpg
-video: nil
-audio: nil
-alt: Me dedico a admirarte -  Así fue el día que un participante pidió matrimonio a Carlos Rivera en 'La Voz'
+image: "/uploads/2021/images-carlos-rivera-revelo-algunos-de.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me dedico a admirarte -  Así fue el día que un participante pidió matrimonio a Carlos Rivera en 'La Voz'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185445
 ---
 
 Carlos Rivera es una de las personalidades más influyentes en la música mexicana en la actualidad, esto luego de interpretar la exitosa canción "Recuérdame" de la película Coco, y de participar como juez en varias emisiones del reality La Voz... México, en donde fue centro de varias polémicas. Uno de los momentos más memorables en La Voz fue cuando un participante le declaró "su amor" y le "pidió matrimonio" al cantante. Aquí te compartimos el divertido video que ha vuelto a dar de qué hablar en redes sociales durante los últimos días. 

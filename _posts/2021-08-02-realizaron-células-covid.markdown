@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con el fin de dar continuidad a las inspecciones para que se acaten las medidas sanitarias y prevenir contagios por la actual pandemia tanto en establecimientos nocturnos y en domicilios particulares de la ciudad"
-image: /uploads/2021/images-unnamed_(9).jpg
-video: nil
-audio: nil
-alt: Realizaron Células COVID 69 inspecciones a bares y domicilios este fin de semana
+image: "/uploads/2021/images-unnamed_(9).jpg"
+video: "nil"
+audio: "nil"
+alt: "Realizaron Células COVID 69 inspecciones a bares y domicilios este fin de semana"
 front: false
-section: Local
+section: "Local"
+news_id: 186198
 ---
 
 Las Células COVID Municipales realizaron un recorrido en 69 lugares donde se llevó a cabo la clausura de un bar en el que fue necesario el desalojo de los presentes.

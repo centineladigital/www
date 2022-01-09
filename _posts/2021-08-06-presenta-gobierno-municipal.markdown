@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La presidenta municipal, María Angélica Granados informó que esta mesa de trabajo plantea los temas que encuentran su raíz en la relación gobierno-ciudadanía"
-image: /uploads/2021/images-unnamed_(5).jpg
-video: nil
-audio: nil
-alt: Presenta Gobierno Municipal logros en transparencia y gobernabilidad en proceso de transición
+image: "/uploads/2021/images-unnamed_(5).jpg"
+video: "nil"
+audio: "nil"
+alt: "Presenta Gobierno Municipal logros en transparencia y gobernabilidad en proceso de transición"
 front: false
-section: Local
+section: "Local"
+news_id: 186412
 ---
 
 Al dar por iniciados los trabajos de transición de la mesa técnica del área de gobierno, la presidenta municipal, María Angélica Granados informó que esta mesa de trabajo plantea los temas que encuentran su raíz en la relación gobierno - ciudadanía, como lo son: el Órgano Interno de Control, Transparencia y Gobierno Abierto, la Secretaría del Ayuntamiento y la Dirección de Desarrollo Económico y Turístico.

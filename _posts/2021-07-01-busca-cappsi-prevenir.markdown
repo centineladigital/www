@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Trabaja CAPPSI en la prevención del riesgo de suicidio en la población; ha brindado más de 2 mil consultas"
-image: /uploads/2021/images-cappsi.jpg
-video: nil
-audio: nil
-alt: Busca CAPPSi prevenir suicidios
+image: "/uploads/2021/images-cappsi.jpg"
+video: "nil"
+audio: "nil"
+alt: "Busca CAPPSi prevenir suicidios"
 front: false
-section: Local
+section: "Local"
+news_id: 185324
 ---
 
 La salud mental es tan importante como la salud física, y consciente de esto, el Gobierno Municipal a través del Centro de Atención y Prevención Psicológicas (CAPPSI), pone a disposición de la población la atención psicoterapéutica, en donde profesionales de la salud mental ayudan a detectar y prevenir situaciones de riesgo de suicidio.

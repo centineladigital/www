@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "  Este miércoles 30 de junio, la Secretaría de Cultura dará a conocer,  a  través de sus redes sociales, la programación oficial que este año será en formato híbrido del 1 al 22 de agosto"
-image: /uploads/2021/images-WhatsApp_Image_2021-06-28_at_12.33.59.jpeg
-video: nil
-audio: nil
-alt: Presentan festival internacional Chihuahua
+image: "/uploads/2021/images-WhatsApp_Image_2021-06-28_at_12.33.59.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Presentan festival internacional Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 185306
 ---
 
 Con la participación de 12 países y más de 70 actividades de forma virtual y presencial, se llevará a cabo la edición 2021 del Festival Internacional Chihuahua, Trasciende Fronteras, el cual será presentado por la Secretaría de Cultura de Chihuahua, este miércoles 30 de junio.

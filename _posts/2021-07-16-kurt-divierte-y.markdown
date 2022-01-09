@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante compartió detalles sobre su próximo concierto en Ciudad de México."
-image: /uploads/2021/images-kurt-regresara-ciudad-mexico-ofrecer_0_240_1200_747.jpg
-video: nil
-audio: nil
-alt: Kurt divierte y enamora a sus seguidores con el nuevo sencillo “Contigo”
+image: "/uploads/2021/images-kurt-regresara-ciudad-mexico-ofrecer_0_240_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Kurt divierte y enamora a sus seguidores con el nuevo sencillo “Contigo”"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185734
 ---
 
 El cantautor sinaloense, Kurt, quien se diera a conocer por temas como “La mujer perfecta” y “Sonreír”, canciones que juntas han conseguido más de 250 millones de reproducciones en las plataformas de distribución, aparece con su nuevo sencillo “Contigo”, que marca el último paso antes de lanzar su más reciente compilado musical. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Evita tratar temas de disputa entre Cruz Pérez Cuellar y Fiscal."
-image: /uploads/2021/images-mesta.jpg
-video: /uploads/2021/videos-MJ04_FERNANDO_MESTA.mp4
-audio: nil
-alt: “No tengo vela en el entierro” -  Mesta
+image: "/uploads/2021/images-mesta.jpg"
+video: "/uploads/2021/videos-MJ04_FERNANDO_MESTA.mp4"
+audio: "nil"
+alt: "“No tengo vela en el entierro” -  Mesta"
 front: false
-section: Local
+section: "Local"
+news_id: 187162
 ---
 
 “No tengo vela en el entierro, mejor que se desgreñen” fue la respuesta del Secretario General de Gobierno, Luis Fernando Mesta Soulé, al ser cuestionado respecto a la postura que tomó el nuevo Alcalde de Ciudad Juárez en contra del Fiscal General de Chihuahua.

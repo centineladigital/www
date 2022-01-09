@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Se registran 145 nuevos casos de COVID-19 para el estado de Chihuahua "
+date: 2021-11-03T17:51:00.000-06:00
+tags:
+  
+  - Covid-19
+  
+  - Cifras
+  
+  - chihuahua
+  
+author: nil
+description: "El número de personas que han perdido la vida por COVID-19, asciende a 8 mil 146 (+11) y las nuevas defunciones registradas corresponden a los municipios de Juárez (+1), Chihuahua (+3), Cuauhtémoc (+3), Jiménez (+1), Meoqui (+2), Guerrero (+1).   "
+image: "/uploads/2021/images-WhatsApp_Image_2021-11-03_at_10.57.45.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Se registran 145 nuevos casos de COVID-19 para el estado de Chihuahua "
+front: false
+section: "Local"
+news_id: 189503
+---
+
+El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 3 de noviembre el reporte COVID-19, en el cual se registran 81 mil 753 (+145) personas confirmadas en la entidad por este padecimiento, 70 mil 730 (+111) casos recuperados, 75 mil 429 (+168) descartados y 783 (-17) casos sospechosos.
+
+El número de personas que han perdido la vida por COVID-19, asciende a 8 mil 146 (+11) y las nuevas defunciones registradas corresponden a los municipios de Juárez (+1), Chihuahua (+3), Cuauhtémoc (+3), Jiménez (+1), Meoqui (+2), Guerrero (+1).
+
+Hoy se registran 145 nuevos casos que se concentran en los municipios de Juárez (+65) Chihuahua (+50), Parral (+2), Cuauhtémoc (+7), Delicias (+6), Bocoyna (+6), Meoqui (+3), Aldama (+1), Janos (+2), Nonoava (+1), Batopilas (+1) y Uruachi (+1).
+
+Es importante indicar que se realizó una corrección en el registro de 1 caso correspondiente al municipio de Madera, por lo que dicho municipio pasó de tener 165 a 164 casos confirmados.    
+
+Respecto a la gráfica del comportamiento de los casos de COVID-19 por grupo edad, se desglosa de la siguiente forma:
+
+De la totalidad de casos confirmados durante la pandemia, el 3.8 por ciento corresponde a personas de 0 a 17 años, el 20.9 por ciento al grupo de 18 a 29 años, el 22.7 por ciento a personas de 30 a 39 años, el 20.2 por ciento al grupo de 40 a 49 años, el 15.9 por ciento al rango de 50 a 59 años y el 16.6 por ciento en personas mayores de 60 años.
+
+En el caso de las personas que han perdido la vida, de acuerdo con la información presentada los fallecimientos de 0 a 17 años representan un 0.4 por ciento, en personas de 18 a 29 años 1.3 por ciento, de 30 a 39 años de edad un 4.1 por ciento, de 40 a 49 años un 11.7 por ciento, de 50 a 59 un 21.7 por ciento y en las personas de 60 años y más se concentra la mayoría de los decesos con un 60.8 por ciento.
+
+La Secretaría de Salud exhorta a toda la ciudadanía a no relajar las medidas preventivas, como son: lavado frecuente de manos o el uso de gel antibacterial, mantener la sana distancia de 1.5 metros entre personas, así como portar el cubrebocas en todas las actividades.
+
+En caso de presentar síntomas como: pérdida del olfato, tos, fiebre mayor a 38 grados, dolor de cabeza y dolor en las articulaciones, es importante realizarse una prueba COVID-19.

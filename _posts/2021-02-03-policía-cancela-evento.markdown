@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los seguidores de Maluma se dirigieron al barrio de Wynwood poco después de que el cantante anunció en Instagram que haría una aparición allí. "
-image: /uploads/2021/images-maluma_maluma.jpg
-video: nil
-audio: nil
-alt: Policía cancela evento de Maluma en Miami por incumplir medidas sanitarias
+image: "/uploads/2021/images-maluma_maluma.jpg"
+video: "nil"
+audio: "nil"
+alt: "Policía cancela evento de Maluma en Miami por incumplir medidas sanitarias"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182680
 ---
 
 Para celebrar el lanzamiento de su nuevo disco, #7DJ (7 días en Jamaica), Maluma organizó un encuentro con sus fans de Miami con algunas medidas de sana distancia, pero debido a que los seguidores del colombiano se congregaron en gran número, algo riesgoso en esta época de pandemia, las autoridades decidieron cancelar el evento.  

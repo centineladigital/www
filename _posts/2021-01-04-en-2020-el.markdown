@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Como parte del programa Desarrollo, Paz y Reencuentro, de 2018 a 2020 se realizaron en total 418 obras en beneficio de 62 municipios, con inversión de 370.3 mdp"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: En 2020 el Estado realizó obras en 55 municipios,  por 52.4 mdp del Fondo de Operación Justicia
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "En 2020 el Estado realizó obras en 55 municipios,  por 52.4 mdp del Fondo de Operación Justicia"
 front: false
-section: Local
+section: "Local"
+news_id: 181850
 ---
 
 Gobierno del Estado, a través de la Secretaría de Desarrollo Municipal (Sedemun) benefició en 2020 a 55 municipios, como parte del programa Desarrollo, Paz y Reencuentro al invertir 52.4 millones de pesos del Fondo de Operación Justicia para Chihuahua, en 113 obras.

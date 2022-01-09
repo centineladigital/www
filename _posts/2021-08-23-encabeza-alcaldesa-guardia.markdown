@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A quince años del trágico deceso de los elementos Humberto Acosta Seañez y Remedios Jorge Guzmán López, el Gobierno Municipal rindió homenaje a estos héroes que dieron su vida por las y los chihuahuenses. "
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Encabeza Alcaldesa guardia de honor y entrega de ofrenda en Memorial al Bombero Caído
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Encabeza Alcaldesa guardia de honor y entrega de ofrenda en Memorial al Bombero Caído"
 front: false
-section: Local
+section: "Local"
+news_id: 186998
 ---
 
 En el marco de la celebración del Día del Bombero, la alcaldesa, María Angélica Granados Trespalacios, encabezó una guardia de honor y entrega de ofrenda en el Memorial al Bombero Caído. 

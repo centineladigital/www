@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Agradece Javier Corral empatía al Gobierno Estatal."
-image: /uploads/2021/images-CORRAL.jpg
-video: /uploads/2021/videos-ML05_JAVIER_CORRAL.mp4
-audio: nil
-alt: Cerca del 76 por ciento de la población vacunada en Chihuahua
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "/uploads/2021/videos-ML05_JAVIER_CORRAL.mp4"
+audio: "nil"
+alt: "Cerca del 76 por ciento de la población vacunada en Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 186487
 ---
 
 Actualmente se tiene un avance de un 76 por ciento de vacunación de la población, señaló el Gobernador de Chihuahua, Javier Corral Jurado, esto dentro de la gira del Presidente de la República Andrés Manuel López Obrador.

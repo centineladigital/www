@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Confederación Patronal de la República Mexicana de la Ciudad de México (Coparmex-CdMx) afirmó que existe el temor de que se llegue a un nuevo cierre de empresas si no se controla nuevamente la pandemia, lo que se convertiría en una “catástrofe” para la economía."
-image: /uploads/2021/images-negocios-cerrados-contingencia-volver-abrir_1_27_1198_746.jpeg
-video: nil
-audio: nil
-alt: IP en CdMx teme que tercera ola de covid-19 provoque nuevo cierre de actividades
+image: "/uploads/2021/images-negocios-cerrados-contingencia-volver-abrir_1_27_1198_746.jpeg"
+video: "nil"
+audio: "nil"
+alt: "IP en CdMx teme que tercera ola de covid-19 provoque nuevo cierre de actividades"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185863
 ---
 
 Ante la tercera ola de contagios de coronavirus en la capital del país, la Confederación Patronal de la República Mexicana de la Ciudad de México (Coparmex-CdMx) afirmó que existe el temor de que se llegue a un nuevo cierre de empresas si no se controla nuevamente la pandemia, lo que se convertiría en una “catástrofe” para la economía. 

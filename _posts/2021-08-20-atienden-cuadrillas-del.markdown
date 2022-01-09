@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Al momento se están atendiendo los siguientes puntos: Yucatán y Sacramento, calles 19 y 20 de Noviembre, calles aledañas al cerro Coronel, así como cruce 39 y 20 de Noviembre, y el arroyo que se encuentra en el parque conocido como Los Tronquitos"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Atienden cuadrillas del Gobierno Municipal calles y avenidas afectadas por las lluvias
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Atienden cuadrillas del Gobierno Municipal calles y avenidas afectadas por las lluvias"
 front: false
-section: Local
+section: "Local"
+news_id: 186936
 ---
 
 El Gobierno Municipal atiende las avenidas y calles principales de la ciudad que se vieron afectadas por las lluvias ayer jueves 19 de agosto, con cuadrillas de limpieza para retirar la basura y materiales de arrastres generados por las precipitaciones, las cuales se encuentra laborando desde la noche anterior a través de la Dirección de Servicios Públicos. 

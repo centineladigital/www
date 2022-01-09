@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "HBO Max ha anunciado que la serie de televisión retornará en agosto por la plataforma de streaming. "
-image: /uploads/2021/images-blackfire-enfrentara-starfire-temporada-hbo_55_33_628_390.jpeg
-video: nil
-audio: nil
-alt: ¡Titanes al ataque! La tercera temporada se estrenará en agosto por HBO Max
+image: "/uploads/2021/images-blackfire-enfrentara-starfire-temporada-hbo_55_33_628_390.jpeg"
+video: "nil"
+audio: "nil"
+alt: "¡Titanes al ataque! La tercera temporada se estrenará en agosto por HBO Max"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184598
 ---
 
 Titanes al ataque! Luego de dos temporadas en donde conocimos más de cerca a los Titans, la serie regresará con nuevos personajes y uno que otro cambio luego de un cierre espectacular en su última temporada y a pesar de que no se esperaba mucho de este programa de televisión ha cautivado a varios fans de la serie. Y ahora más que nunca el fandom podría celebrar su regreso, pues HBO Max ha anunciado que la serie de televisión retornará en agosto por la plataforma de streaming, que para esa fecha ya estará en varios sitios de Latinoamérica y en donde conoceremos más de Nightwing, Red Hood, Starfire, Superboy, entre otros. 

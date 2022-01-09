@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La temperatura durante noches y madrugadas podrían llegar a los 2°C"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Se prevén lluvias para sábado y domingo -  pide Protección Civil tomar precauciones
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se prevén lluvias para sábado y domingo -  pide Protección Civil tomar precauciones"
 front: false
-section: Local
+section: "Local"
+news_id: 182891
 ---
 
 De acuerdo a datos proporcionados por la Coordinación Municipal de Protección Civil, para este fin de semana se prevén lluvias en la capital del estado, además de noches y madrugadas frías, esto según el pronóstico que emite el Servicio Meteorológico Nacional, por lo cual se exhorta a la comunidad a tomar las debidas precauciones para evitar incidentes.

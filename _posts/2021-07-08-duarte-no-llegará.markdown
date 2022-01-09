@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Defensa de exgobernador ha perdido más de 80 amparos."
-image: /uploads/2021/images-ESPINOZA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01.mp3
-alt: Duarte no llegará antes de concluir administración
+image: "/uploads/2021/images-ESPINOZA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01.mp3"
+alt: "Duarte no llegará antes de concluir administración"
 front: false
-section: Local
+section: "Local"
+news_id: 185473
 ---
 
 La extradición del exgobernador de Chihuahua no se dará durante la presente administración, ya que esperan que se dé la resolución en los meses de julio o agosto, según fue dado a conocer por parte del Consejero Jurídico del Estado Jorge Espinoza Cortés.

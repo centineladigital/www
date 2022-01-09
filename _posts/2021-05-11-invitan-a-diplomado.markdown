@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Invitan a capacitarse en el tema."
-image: /uploads/2021/images-JESUS.jpg
-video: nil
-audio: /uploads/2021/audio-MM04_JESUS_BARRERA.mp3
-alt: Invitan a diplomado de lavado de dinero y seminario de precios de transferencia
+image: "/uploads/2021/images-JESUS.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04_JESUS_BARRERA.mp3"
+alt: "Invitan a diplomado de lavado de dinero y seminario de precios de transferencia"
 front: false
-section: Local
+section: "Local"
+news_id: 184408
 ---
 
 Ponentes de talla nacional serán participes de los diplomados y seminarios que llevan a cabo por parte del Colegio de Contadores Públicos de Chihuahua, según lo dio a conocer el Presidente de este organismo Jesús José Barrera Torres. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A la fecha suman 47 mil 092 casos confirmados y 4 mil 364 fallecimientos; llaman autoridades a mantener las medidas de higiene y de sana distancia"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Confirma Salud 14 nuevas defunciones y 123 contagios más de COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Confirma Salud 14 nuevas defunciones y 123 contagios más de COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 181977
 ---
 
 La Secretaría de Salud informó que al día de hoy se tienen en el estado de Chihuahua un total general de 47 mil 092 casos confirmados de COVID-19 con 123 confirmados más, así como 14 nuevos fallecimientos para alcanzar 4 mil 364.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Recomendable seguir la prescripción médica, realizarse estudios periódicos para controlar los niveles de azúcar, llevar buena alimentación y ejercitarse  "
-image: /uploads/2021/images-Foto_4332-1.jpg
-video: nil
-audio: nil
-alt: Advierte IMSS Chihuahua sobre daños que causa la diabetes en riñones, piel, vista, corazón y vasos sanguíneos 
+image: "/uploads/2021/images-Foto_4332-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Advierte IMSS Chihuahua sobre daños que causa la diabetes en riñones, piel, vista, corazón y vasos sanguíneos "
 front: false
-section: Local
+section: "Local"
+news_id: 187614
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua advirtió que una diabetes descontrolada o mal tratada, puede generar problemas en ojos, riñones, nervios, piel, corazón y vasos sanguíneos.

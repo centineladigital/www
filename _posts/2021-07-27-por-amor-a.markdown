@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Gobierno Municipal en conjunto con 20 organismos empresariales de la ciudad, inició la campaña “Por amor a Chihuahua, sigamos cuidándonos”, en una suma de esfuerzos ante el posible cambio en el semáforo epidemiológico"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: “Por amor a Chihuahua, sigamos cuidándonos”; Gobierno Municipal y empresarios lanzan campaña de concientización
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "“Por amor a Chihuahua, sigamos cuidándonos”; Gobierno Municipal y empresarios lanzan campaña de concientización"
 front: false
-section: Local
+section: "Local"
+news_id: 186025
 ---
 
 Con la finalidad de concientizar a la población sobre la importancia de continuar con las medidas de prevención frente al COVID19, el Gobierno Municipal en conjunto con 20 organismos empresariales de la ciudad, inició la campaña “Por amor a Chihuahua, sigamos cuidándonos”, en una suma de esfuerzos ante el posible cambio en el semáforo epidemiológico.

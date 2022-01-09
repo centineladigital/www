@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las autoridades no han informado de momentos de víctimas ni de daños materiales por el seísmo. Te contamos lo que sabemos"
-image: /uploads/2021/images-terremoto-magnitud-sacude-vanuatu-activa.jpg
-video: nil
-audio: nil
-alt: Terremoto de magnitud 6.8 sacude Vanuatu; activan alerta de tsunami
+image: "/uploads/2021/images-terremoto-magnitud-sacude-vanuatu-activa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Terremoto de magnitud 6.8 sacude Vanuatu; activan alerta de tsunami"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186820
 ---
 
 Un terremoto de magnitud 6.8 sacudió este miércoles las aguas del archipiélago de Vanuatu, en el Pacífico Sur, y activó una alerta de amenaza de tsunami para las zonas cercanas. 

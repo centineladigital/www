@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Al hablar de que se ha logrado el 96 por ciento de efectividad en ordenes de aprehensión ejecutadas por la AEI"
-image: /uploads/2021/images-WhatsApp_Image_2021-02-12_at_8.36.01_AM_(1).jpeg
-video: nil
-audio: nil
-alt: Resalta Corral los resultados de la FGE
+image: "/uploads/2021/images-WhatsApp_Image_2021-02-12_at_8.36.01_AM_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Resalta Corral los resultados de la FGE"
 front: false
-section: Local
+section: "Local"
+news_id: 182881
 ---
 
 Vive la Fiscalía General del Estado una mejor etapa aseguró Javier Corral Jurado, gobernador del Estado de Chihuahua, al hablar de que se ha logrado el 96 por ciento de efectividad en ordenes de aprehensión ejecutadas por la AEI.

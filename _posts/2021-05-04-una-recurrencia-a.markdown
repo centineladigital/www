@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este martes el actor originario de Veracruz cumple 51 años, por lo que vale la pena conocer cómo vivió este episodio tan lúgubre en su vida. "
-image: /uploads/2021/images-hoy-cumple-anos-instagram.jpg
-video: nil
-audio: nil
-alt: Una recurrencia a estar pensando en la muerte -  Así fue la depresión que sufrió Sergio Basáñez
+image: "/uploads/2021/images-hoy-cumple-anos-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "Una recurrencia a estar pensando en la muerte -  Así fue la depresión que sufrió Sergio Basáñez"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184278
 ---
 
 Catalina y Sebastián, Cuando seas mía, La Heredera y Amor en custodia son telenovelas que encumbraron a Sergio Basáñez como uno de los rostros más estimados por los televidentes, aunque la vida del famoso fuera de la pantalla chica no ha sido fácil, prueba de esto es la depresión que sufrió hace algunos años. Entonces, aprovechando que este martes el actor originario de Veracruz cumple 51 años, vale la pena conocer cómo vivió este episodio tan lúgubre en su vida, del que ha hablado en numerosas ocasiones. 

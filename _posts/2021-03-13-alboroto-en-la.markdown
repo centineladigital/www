@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Cinco países miembros de la UE se quejan de las 'enormes disparidades' en el reparto de vacunas covid y reclaman la celebración de una cumbre interna"
-image: /uploads/2021/images-2544336.jpg
-video: nil
-audio: nil
-alt: Alboroto en la Unión Europea por reparto injusto de vacunas
+image: "/uploads/2021/images-2544336.jpg"
+video: "nil"
+audio: "nil"
+alt: "Alboroto en la Unión Europea por reparto injusto de vacunas"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183408
 ---
 
 Austria, República Checa, Eslovenia, Bulgaria y Letonia pidieron la celebración de una cumbre de la Unión Europea (UE) para debatir sobre las "enormes disparidades" existentes, según estos países, en la distribución de vacunas anticovid, según una carta divulgada este sábado.

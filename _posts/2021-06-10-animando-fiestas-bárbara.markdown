@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante una entrevista con 'Sale el sol', la actriz argentina también contó que cuando llegó a México no conocía el trabajo de Eugenio Derbez. "
-image: /uploads/2021/images-la-comediante-tambien-conto-como.jpg
-video: nil
-audio: nil
-alt: Animando fiestas -  Bárbara Torres revela cómo surgió su personaje de 'Excelsa'
+image: "/uploads/2021/images-la-comediante-tambien-conto-como.jpg"
+video: "nil"
+audio: "nil"
+alt: "Animando fiestas -  Bárbara Torres revela cómo surgió su personaje de 'Excelsa'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184963
 ---
 
 Cuando se habla de La Familia P. Luche, además de recordar a los personajes interpretados por Eugenio Derbez (Ludovico) y Consuelo Duval (Federica), también resalta el que encarnó la comediante Bárbara Torres: Excelsa. Esto debido a que la interpretación que hizo la comediante argentina de una trabajadora del hogar fue muy bien recibida por los televidentes mexicanos. Pero, ¿cómo surgió este personaje? La propia Bárbara lo reveló este miércoles durante una entrevista en Sale el sol. 

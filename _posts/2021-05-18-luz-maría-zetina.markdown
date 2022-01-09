@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El pasado mes de febrero se anunció que la conductora y reina de belleza sería parte del nuevo proyecto del cineasta mexicano. "
-image: /uploads/2021/images-luz-maria-zetina-instagram.jpg
-video: nil
-audio: nil
-alt: Luz María Zetina revela por qué rechazó participar en la próxima película de Iñárritu
+image: "/uploads/2021/images-luz-maria-zetina-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "Luz María Zetina revela por qué rechazó participar en la próxima película de Iñárritu"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184521
 ---
 
 Luego de que Alejandro González Iñárritu fue captado en el rodaje de su próxima película, Limbo, se dieron a conocer los nombres de algunos actores considerados por el director en esta producción, tal es el caso de la actriz mexicana Luz María Zetina. Aunque recientemente la famosa reveló por qué decidió no formar parte de la cinta. "Se cambiaron las fechas, me adelantaron mi llamado para ingresarme a una cuarentena dos semanas y con muchísimo dolor en mi corazón tuve que rechazar esta propuesta, porque sabemos la grandísima oportunidad que era y el gran cineasta que es (Iñárritu)", dijo en conferencia de prensa. 

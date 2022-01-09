@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Beneficiará a alumnas y trabajadoras que necesitan de un espacio para cubrir esa necesidad"
-image: /uploads/2021/images-utch_(1).jpg
-video: nil
-audio: nil
-alt: Inaugura Universidad Tecnológica de Chihuahua sala de lactancia en sus instalaciones
+image: "/uploads/2021/images-utch_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Inaugura Universidad Tecnológica de Chihuahua sala de lactancia en sus instalaciones"
 front: false
-section: Local
+section: "Local"
+news_id: 186477
 ---
 
 Como parte del compromiso con alumnas y trabajadoras de la institución, la Universidad Tecnológica de Chihuahua (UTCH), llevó a cabo la inauguración de una sala de lactancia materna, que brindará un espacio confortable y seguro donde las madres podrán amamantar o extraer su leche en el centro de trabajo, almacenarla adecuadamente y al término de su jornada laboral llevarla a su casa para alimentar a su hijo o hija.

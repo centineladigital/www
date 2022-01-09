@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se exhorta a mantener hábitos saludables y realizar actividad física para mantener el sistema inmunológico en condiciones inmejorables"
-image: /uploads/2021/images-Foto_3847-1.jpg
-video: nil
-audio: nil
-alt: Pone IMSS Chihuahua a disposición de la población la Cartera de alimentación correcta y actividad física 
+image: "/uploads/2021/images-Foto_3847-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pone IMSS Chihuahua a disposición de la población la Cartera de alimentación correcta y actividad física "
 front: false
-section: Local
+section: "Local"
+news_id: 186475
 ---
 
 La obesidad es uno de los factores que pueden generar complicaciones ante el virus SARS-CoV-2; además de que se considera un factor de riesgo para otras enfermedades, como la diabetes tipo 2 y la hipertensión; por lo tanto, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua pone a disposición de la población la Cartera de alimentación correcta y actividad física 

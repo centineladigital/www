@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En entrevista con Mara Patricia Castañeda, María Sorté habló sobre la incertidumbre que ha sentido por su hijo Omar García Harfuch; recordó aquel día en el que vivió un atentado. "
-image: /uploads/2021/images-entero-maria-sorte-atentado-hijo.jpg
-video: nil
-audio: nil
-alt: No te asustes” -  María Sorté revela cómo se enteró que su hijo Omar García Harfuch sufrió atentado
+image: "/uploads/2021/images-entero-maria-sorte-atentado-hijo.jpg"
+video: "nil"
+audio: "nil"
+alt: "No te asustes” -  María Sorté revela cómo se enteró que su hijo Omar García Harfuch sufrió atentado"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184768
 ---
 
 María Sorté, actriz mexicana, habló sobre la forma en la que se enteró que su hijo Omar García Harfuch, secretario de Seguridad Ciudadana de la Ciudad de México, había sufrido un atentado. La famosa expresó lo que vivió en esos momentos y confesó que aún se siente intranquila con el trabajo que realiza el funcionario. ¿Le ha pedido que se retire? ¿Quiere que cambie de profesión?  

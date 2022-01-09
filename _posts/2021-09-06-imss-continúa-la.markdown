@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Del 3 al 5 de septiembre se realizaron 564 cirugías, 6 mil 632 consultas de Medicina Familiar y 4 mil 335 de especialidad, así como acciones en materia de prevención"
-image: /uploads/2021/images-Foto_392-7.jpg
-video: nil
-audio: nil
-alt: IMSS continúa la recuperación de servicios ordinarios mediante jornadas médicas
+image: "/uploads/2021/images-Foto_392-7.jpg"
+video: "nil"
+audio: "nil"
+alt: "IMSS continúa la recuperación de servicios ordinarios mediante jornadas médicas"
 front: false
-section: Local
+section: "Local"
+news_id: 187488
 ---
 
 Durante tres días el Instituto Mexicano del Seguro Social (IMSS) fortaleció su estrategia de recuperación de servicios médicos ordinarios a través de las jornadas monotemáticas en 13 Representaciones Estatales y cinco Unidades Médicas de Alta Especialidad (UMAE), con diversas atenciones médicas en consultas de Medicina Familiar, de Especialidad y cirugías.

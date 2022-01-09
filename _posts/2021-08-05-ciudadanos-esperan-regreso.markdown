@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Ven positivo el regreso a los salones de clases."
-image: /uploads/2021/images-f608x342-109646_139369_0.jpg
-video: /uploads/2021/videos-MJ05_SONDEO.mp4
-audio: nil
-alt: Ciudadanos esperan regreso a clases
+image: "/uploads/2021/images-f608x342-109646_139369_0.jpg"
+video: "/uploads/2021/videos-MJ05_SONDEO.mp4"
+audio: "nil"
+alt: "Ciudadanos esperan regreso a clases"
 front: false
-section: Local
+section: "Local"
+news_id: 186355
 ---
 
 En su mayoría los ciudadanos esperan el regreso a clases, esto mientras que los alumnos señalan que no se obtuvo un aprendizaje similar al que se tiene en las aulas. Las madres de familia declaran que es lo mejor, esto ya que muchos padres de familia traen en la calle a los menores.

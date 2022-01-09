@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante y actriz protagonizará la serie 'Hungry', una comedia producida por la cadena NBC que abordará temas como los trastornos alimenticios. "
-image: /uploads/2021/images-demi-lovato-origenes_0_70_1200_747.jpg
-video: nil
-audio: nil
-alt: Demi Lovato regresa a la televisión con la serie 'Hungry'
+image: "/uploads/2021/images-demi-lovato-origenes_0_70_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Demi Lovato regresa a la televisión con la serie 'Hungry'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182521
 ---
 
 Demi Lovato arrancó el 2021 con un nuevo proyecto que marcará su regreso a la televisión. La cantante estadunidense, quien sorprendió con su participación en el evento Celebrando a América, protagonizará la serie Hungry, una comedia producida por la cadena NBC que abordará temas como los trastornos alimenticios.  La intérprete de "Cool for the Summer" también será productora ejecutiva de la serie, la cual seguirá la vida de unos amigos que forman parte de un grupo de apoyo para personas con problemas alimenticios, al mismo tiempo que buscan cumplir sus sueños, luchan por encontrar el amor y conseguir el éxito, informó el medio estadunidense The Hollywood Reporter.  

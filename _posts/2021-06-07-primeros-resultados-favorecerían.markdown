@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con un promedio computado del 10% de las casillas"
-image: /uploads/2021/images-resultados.jpg
-video: nil
-audio: nil
-alt: Primeros resultados favorecerían al PAN en Cuauhtémoc
+image: "/uploads/2021/images-resultados.jpg"
+video: "nil"
+audio: "nil"
+alt: "Primeros resultados favorecerían al PAN en Cuauhtémoc"
 front: false
-section: Local
+section: "Local"
+news_id: 184891
 ---
 
 Con 10% de casillas computadas, tendencia favorece al PAN en Cuauhtémoc. De acuerdo a la captura de las actas de escrutinio enviadas por representantes del partido a Casa de Campaña.

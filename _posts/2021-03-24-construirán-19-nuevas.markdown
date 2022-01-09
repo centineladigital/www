@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esperan concluir de que finalice administración estatal"
-image: /uploads/2021/images-luevano.jpg
-video: nil
-audio: /uploads/2021/audio-MW03_JOSE_LUEVANO.mp3
-alt: Construirán 19 nuevas escuelas
+image: "/uploads/2021/images-luevano.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW03_JOSE_LUEVANO.mp3"
+alt: "Construirán 19 nuevas escuelas"
 front: false
-section: Local
+section: "Local"
+news_id: 183541
 ---
 
 Un total de 19 escuelas serán concluidas antes de que se entregue la administración según lo dio a conocer José Lluévano Rodríguez, director del Instituto Chihuahuense de Infraestructura Física Educativa.

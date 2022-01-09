@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se registran 13 personas fallecidas, con lo que suman 5 mil 988 decesos desde que inició la pandemia;  además han perdido la vida por coronavirus 123 integrantes del Sector Salud, 6,049 se han enfermado y 5,780 son los recuperados"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Alcanza el estado 66 mil 582 positivos de COVID-19 tras confirmarse 140 más
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Alcanza el estado 66 mil 582 positivos de COVID-19 tras confirmarse 140 más"
 front: false
-section: Local
+section: "Local"
+news_id: 184440
 ---
 
 En la Conferencia Informativa #408 y #368 Virtual del Reporte COVID-19, la Secretaría de Salud informó que al día de hoy se tiene un total general de 66 mil 582 casos en el estado, luego de confirmarse otros 140 con las pruebas de laboratorio.

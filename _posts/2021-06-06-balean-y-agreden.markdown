@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Mientras tanto las corporaciones policiacas buscan a los agresores y se desata persecución en las calles de Parral"
-image: /uploads/2021/images-lopez_portillo.jpeg
-video: nil
-audio: nil
-alt: Balean y agreden a ciudadanos en casilla de Parral
+image: "/uploads/2021/images-lopez_portillo.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Balean y agreden a ciudadanos en casilla de Parral"
 front: false
-section: Local
+section: "Local"
+news_id: 184868
 ---
 
 Una persona herida y una camioneta con impactos de bala, son reportados en la colonia José López Portillo, las corporaciones policiacas señalan que están investigando el origen de la agresión.

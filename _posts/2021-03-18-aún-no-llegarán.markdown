@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Sin dar a conocer nombres de municipios a los que llegarán."
-image: /uploads/2021/images-mirna.jpg
-video: nil
-audio: /uploads/2021/audio-MJ02_MIRNA_BELTRAN.mp3
-alt: Aún no llegarán vacunas a Chihuahua y Juárez
+image: "/uploads/2021/images-mirna.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ02_MIRNA_BELTRAN.mp3"
+alt: "Aún no llegarán vacunas a Chihuahua y Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 183472
 ---
 
 Aún no llegarán vacunas a los municipios de Chihuahua y Juárez, esto luego de que se anunció la llegada de una nueva remesa en el Estado, sin embargo, no se quiso dar a conocer a cuantos y cuales municipios serían los que se distribuirían.

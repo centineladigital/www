@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Activistas de derechos humanos acogieron con satisfacción la idea de dar a los cubanos un internet sin restricciones"
-image: /uploads/2021/images-images.jpg
-video: nil
-audio: nil
-alt: ¿Puede Estados Unidos restaurar internet en Cuba como lo sugiere Biden?
+image: "/uploads/2021/images-images.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Puede Estados Unidos restaurar internet en Cuba como lo sugiere Biden?"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185760
 ---
 
 La sugerencia del presidente Joe Biden de que Estados Unidos brinde a Cuba acceso total a internet podría abrir nuevos caminos en los derechos digitales, pero enfrenta importantes obstáculos técnicos y geopolíticos.

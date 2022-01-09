@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Fomento y Desarrollo Artesanal del Estado de Chihuahua consolidó siete tiendas de Arte Popular en el estado; junto con puntos de venta y una plataforma en línea, se logró comercializar 497 mil 075 piezas artesanales de los pueblos originarios  "
-image: /uploads/2021/images-ARTE_Popular.JPG
-video: nil
-audio: /uploads/2021/audio-9-_CÁPSULA_FODARCH_PROGRAMA_LOGROS_CON_VALOR_SIDE_11-8-21.MP3
-alt: Apoyó Fodarch a 2 mil 400 artesanas y artesanos chihuahuenses para evitar intermediarios
+image: "/uploads/2021/images-ARTE_Popular.JPG"
+video: "nil"
+audio: "/uploads/2021/audio-9-_CÁPSULA_FODARCH_PROGRAMA_LOGROS_CON_VALOR_SIDE_11-8-21.MP3"
+alt: "Apoyó Fodarch a 2 mil 400 artesanas y artesanos chihuahuenses para evitar intermediarios"
 front: false
-section: Local
+section: "Local"
+news_id: 186564
 ---
 
 Por medio de Fomento y Desarrollo Artesanal del Estado de Chihuahua (Fodarch) se benefició a 2 mil 400 artesanos, dándole mayor valor a sus productos para llevarlos directamente al mercado, sin intermediarios, informó el titular de la Secretaría de Innovación y Desarrollo Económico (SIDE), Antonio Fernández.

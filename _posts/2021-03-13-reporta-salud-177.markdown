@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A la fecha suman 56 mil 601 casos y 5 mil 493 decesos; los últimos fallecimientos se confirmaron en: Juárez (3), Chihuahua capital (3), Cuauhtémoc (1), Camargo (1), Jiménez (2), Saucillo (1) y Casas Grandes (1)"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporta Salud 177 nuevos contagios y 12 defunciones por COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporta Salud 177 nuevos contagios y 12 defunciones por COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 183411
 ---
 
 La Secretaría de Salud informó que el último reporte epidemiológico de COVID-19 aumentó en 177 casos y 12 defunciones, por lo que el total general de contagios en el estado de Chihuahua es de 56 mil 601 y 5 mil 493 decesos.

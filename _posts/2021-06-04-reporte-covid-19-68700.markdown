@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma Salud 94 nuevos casos y 5 defunciones las cuales se confirmaron en Juárez (+1), Chihuahua (+2), Cuauhtémoc (+1) y Aldama (+1)"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporte COVID-19 -  68,700 contagios y 7,022 personas fallecidas en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporte COVID-19 -  68,700 contagios y 7,022 personas fallecidas en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184837
 ---
 
 La Secretaría de Salud dio a conocer que al cierre del informe epidemiológico del 03 de junio, se confirmaron 94 nuevos casos, 5 decesos, la cifra de recuperados se incrementó en 19, se descartaron otros 39 y disminuyeron en 31 los sospechosos por COVID-19 en el estado.

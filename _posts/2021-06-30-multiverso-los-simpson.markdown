@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Disney Plus hizo oficial la llegada de un cortometraje de Los Simpson con temática de Marvel; así sería. "
-image: /uploads/2021/images-disney-plus-oficial-llegada-simpson.jpg
-video: nil
-audio: nil
-alt: ¿Multiverso? Los Simpson anuncian corto con temática de Marvel para Disney Plus
+image: "/uploads/2021/images-disney-plus-oficial-llegada-simpson.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Multiverso? Los Simpson anuncian corto con temática de Marvel para Disney Plus"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185308
 ---
 
 Los Simpson lanzarán un especial con temática de Marvel, reviviendo lo más épico del Universo pero con personajes de la gustada ciudad de Springfield. The Good, the Bart, and the Loki ('El Bueno, el Bart y el Loki') es el nombre del cortometraje que anunció Disney Plus. "La travesura llega a Springfield, bueno, más travesura, de todos modos. Comience a transmitir el corto Los Simpson: El bueno, el Bart y el Loki", anunció la cuenta oficial de Disney Plus. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Invita a no realizar eventos masivos de ninguna índole, incluyendo políticos y a mantener las medidas de sanidad, sana distancia y a seguirse comportando responsablemente"
-image: /uploads/2021/images-DR_VALENZUELA1.jpg
-video: nil
-audio: nil
-alt: Llama Salud a la población a no descuidarse ante riesgo de retroceder en el semáforo
+image: "/uploads/2021/images-DR_VALENZUELA1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Llama Salud a la población a no descuidarse ante riesgo de retroceder en el semáforo"
 front: false
-section: Local
+section: "Local"
+news_id: 182558
 ---
 
 “Chihuahua está en el filo entre el amarillo y el naranja, e incluso existe la posibilidad de volver al rojo como ocurrió en octubre, por lo cual es preciso que cada chihuahuense se cuide y cuide a los demás”, advirtió el director médico de la Zona Norte, Arturo Valenzuela Zorrilla.

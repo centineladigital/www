@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma Salud 11 nuevos contagios y 3 defunciones más en las últimas horas; Chihuahua es el municipio con más casos activos con 463 confirmados, seguido de Parral con 132"
-image: /uploads/2021/images-Diapositiva4.JPG
-video: nil
-audio: nil
-alt: Hay 260 hospitalizados por COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva4.JPG"
+video: "nil"
+audio: "nil"
+alt: "Hay 260 hospitalizados por COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 183681
 ---
 
 El último reporte epidemiológico correspondiente a este 5 de abril, confirma 11 contagios y 3 defunciones más por COVID-19 en las últimas horas, con lo que el estado de Chihuahua llegó a 59 mil 143 casos confirmados y 5 mil 696 decesos.

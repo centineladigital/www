@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "María Antonieta de la Nieves, 'La Chilindrina', portó un bikini de color negro. Aseguró que estaba disfrutando de la naturaleza con su familia, luego de no estar con ellos por casi ocho meses. "
-image: /uploads/2021/images-orgullosa-maria-antonieta-nieves-chilindrina.jpg
-video: nil
-audio: nil
-alt: Hace mucho no usaba bikini -  'La Chilindrina' muestra su increíble figura a los 70 años
+image: "/uploads/2021/images-orgullosa-maria-antonieta-nieves-chilindrina.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hace mucho no usaba bikini -  'La Chilindrina' muestra su increíble figura a los 70 años"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183011
 ---
 
 María Antonieta de las Nieves, mejor conocida como “La Chilindrina” por su personaje en El Chavo del 8, impactó a sus seguidores de las redes sociales al mostrarse orgullosa de sí con una imagen en la que aparece en bikini a sus 70 años. La actriz y comediante compartió la fotografía y casi de inmediato recolecto múltiples comentarios y likes. 

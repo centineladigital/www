@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El elenco de El diablo viste a la moda se reunió tras quince años del estreno de la película y Meryl Streep hizo una revelación que nadie esperaba. "
-image: /uploads/2021/images-actriz-conto-razon-paso-grababa.jpg
-video: nil
-audio: nil
-alt: Meryl Streep revela que fue horrible grabar 'El diablo viste a la moda'
+image: "/uploads/2021/images-actriz-conto-razon-paso-grababa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Meryl Streep revela que fue horrible grabar 'El diablo viste a la moda'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185066
 ---
 
 Meryl Streep es una de las actrices más conocidas y nominadas a los premios Oscar. A lo largo de su carrera ha trabajado en muchas películas, sin embargo, una que muchos recuerdan y que ganó gran popularidad es El diablo viste a la moda en donde interpretó a la estricta Miranda Priestly, quien era la editora de la revista de moda Runway en donde trabajaba Andy, personaje interpretado por Anne Hathaway. 

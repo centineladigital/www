@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Las actividades están enfocadas en prevenir enfermedades entre la población rarámuri, combate a la violencia intrafamiliar, así como la atención de casos de uso y consumo de drogas"
-image: /uploads/2021/images-unnamed_(4).jpg
-video: nil
-audio: nil
-alt: Realiza Gobierno Municipal jornadas de Salud y Atención Familiar en asentamientos tarahumaras
+image: "/uploads/2021/images-unnamed_(4).jpg"
+video: "nil"
+audio: "nil"
+alt: "Realiza Gobierno Municipal jornadas de Salud y Atención Familiar en asentamientos tarahumaras"
 front: false
-section: Local
+section: "Local"
+news_id: 186617
 ---
 
 El Gobierno Municipal a través del DIF ha realizado durante la presente semana, jornadas de salud y atención familiar en cuatro asentamientos rarámuris: el Oasis, Nepawika, Pájaro Azul y Carlos Arroyo.

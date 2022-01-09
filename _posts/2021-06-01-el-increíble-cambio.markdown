@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La galardonada actriz es considerada una de las musas de Hollywood y aquí te compartimos cómo ha cambiado en los últimos 20 años. "
-image: /uploads/2021/images-nicole-kidman-shutterstock.jpg
-video: nil
-audio: nil
-alt: El increíble cambio de Nicole Kidman; así lucía hace 20 años en 'Moulin Rouge'
+image: "/uploads/2021/images-nicole-kidman-shutterstock.jpg"
+video: "nil"
+audio: "nil"
+alt: "El increíble cambio de Nicole Kidman; así lucía hace 20 años en 'Moulin Rouge'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184770
 ---
 
 Nicole Kidman es una de las actrices más consagradas en Hollywood en la actualidad, y es que el gran talento actoral, así como el carísma y belleza de la actriz son innegables, por eso ha tenido participaciones exitosas en películas como Los otros, Embrujada y Moulin Rouge, además de haber participado como productora. Un día antes de los 20 años del estreno de Moulin Rouge, la actriz compartió en sus redes sociales fotografías de la película y los fans enloquecieron por el cambio que ha tenido Kidman desde entonces. 

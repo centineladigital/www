@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa Javier Corral que se han efectuado también auditorías a 14 contratos de los megaproyectos que se realizan en Juárez"
-image: /uploads/2021/images-_MG_6725.jpeg
-video: nil
-audio: nil
-alt: Realiza Función Pública 87 auditorías de obra pública en Zona Norte
+image: "/uploads/2021/images-_MG_6725.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Realiza Función Pública 87 auditorías de obra pública en Zona Norte"
 front: false
-section: Local
+section: "Local"
+news_id: 182800
 ---
 
 El gobernador Javier Corral Jurado señaló que en compromiso con la legalidad, en el transcurso de su administración, la Secretaría de la Función Pública ha realizado 87 auditorías de obra pública en los 12 municipios de la Zona Norte de la entidad.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Chihuahua es el municipio con más contagios activos con 641 confirmados, seguido de Juárez con 267, Parral con 127 y Cuauhtémoc con 118; en las últimas horas se registraron 73 nuevos casos y 24 defunciones más"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Hay 290 hospitalizados y 71 intubados por COVID-19 en la entidad
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Hay 290 hospitalizados y 71 intubados por COVID-19 en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 183959
 ---
 
 El último reporte epidemiológico COVID-19 de la Secretaría de Salud correspondiente a este 19 de abril confirmó 73 contagios y 24 defunciones más, con lo que el estado de Chihuahua llegó a 62 mil 169 casos positivos y 6 mil 142 muertes.

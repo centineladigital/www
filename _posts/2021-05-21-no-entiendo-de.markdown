@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El emotivo video suena miles de reproducciones en redes sociales y aquí te mostramos por qué. "
-image: /uploads/2021/images-gerard-pique-y-shakira-efe.jpg
-video: nil
-audio: nil
-alt: No entiendo de fútbol -  El día que Shakira cambió la letra de una de sus canciones para Piqué
+image: "/uploads/2021/images-gerard-pique-y-shakira-efe.jpg"
+video: "nil"
+audio: "nil"
+alt: "No entiendo de fútbol -  El día que Shakira cambió la letra de una de sus canciones para Piqué"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184599
 ---
 
 Shakira es una de las mujeres más exitosas del mundo, pues la cantante lleva años triunfado en el mundo de la música, y esto se debe a su inigualable estilo de cantar y bailar, así como por su gran belleza y carisma, y así lo demuestra en cada uno de sus conciertos, como uno del año 2011, cuando la colombiana conmovió a sus fans al cambiar la letra de una de sus canciones para poder dedicarla a su esposo, el futbolista Gerard Piqué. Y es que el tema de "Inevitable" es uno de los más populares en toda la carrera de la cantante aún en la actualidad, a más de 25 años del inicio de su carrera. Te compartimos el encantador video que ha dado de qué hablar en redes sociales. 

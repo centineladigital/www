@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los 220 árboles plantados fueron donados por la Comisión Nacional Forestal (Conafor)"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Apoyó Gobierno Municipal en forestación de 220 árboles en parque Los Frailes
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Apoyó Gobierno Municipal en forestación de 220 árboles en parque Los Frailes"
 front: false
-section: Local
+section: "Local"
+news_id: 186471
 ---
 
 El Gobierno Municipal a través de la Dirección de Mantenimiento Urbano brindó apoyo en la campaña de forestación del parque Los Frailes, ubicado en las calles República de Bolivia y calle Fray Tomas Ortiz de la colonia Los Frailes, el pasado viernes 6 de agosto.

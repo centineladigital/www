@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Conoce los siete megaproyectos impulsados por el Gobierno del Estado para cambiar el rostro de esta ciudad fronteriza, rumbo al Cuarto Informe de Gobierno de Javier Corral"
-image: /uploads/2021/images-Puente_Chihuahua_Adelante.jpg
-video: nil
-audio: nil
-alt: Cumple Estado con Juárez e invierte 6 mil 780 mdp en obras de infraestructura
+image: "/uploads/2021/images-Puente_Chihuahua_Adelante.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cumple Estado con Juárez e invierte 6 mil 780 mdp en obras de infraestructura"
 front: false
-section: Local
+section: "Local"
+news_id: 182437
 ---
 
 La administración estatal encabezada por Javier Corral Jurado, cumplió con el compromiso contraído con las y los juarenses, de regresarle a Ciudad Juárez lo que en justicia le corresponde.

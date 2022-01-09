@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El 8 de marzo de 2011 se inauguró en la capital del estado el Centro de Justicia para las Mujeres, primero en su tipo en todo el país;  a la fecha ha brindado atención a un total de 142 mil 957 personas"
-image: /uploads/2021/images-WhatsApp_Image_2021-03-05_at_12.26.22_(1).jpeg
-video: nil
-audio: nil
-alt: Conmemora Cejum Chihuahua 10 años de trabajo por las mujeres
+image: "/uploads/2021/images-WhatsApp_Image_2021-03-05_at_12.26.22_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Conmemora Cejum Chihuahua 10 años de trabajo por las mujeres"
 front: false
-section: Local
+section: "Local"
+news_id: 183338
 ---
 
 En el marco del Día Internacional de las Mujeres, el Centro de Justicia para las Mujeres (Cejum) “Paloma Angélica Escobar Ledezma” conmemora este 8 de marzo su décimo aniversario de atención profesional y acompañamiento a mujeres, adolescentes y niñas, víctimas de violencia familiar y de género, en aras a facilitar su acceso a la justicia.

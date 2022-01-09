@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La Guardia Nacional recomendó evitar zonas afectadas y extremar precauciones. Además, se puso a disposición el número 088 en caso de emergencia"
-image: /uploads/2021/images-en-alerta-ante-llegada-de.jpg
-video: nil
-audio: nil
-alt: En Campeche, Guardia Nacional activa plan de apoyo por huracán 'Grace'
+image: "/uploads/2021/images-en-alerta-ante-llegada-de.jpg"
+video: "nil"
+audio: "nil"
+alt: "En Campeche, Guardia Nacional activa plan de apoyo por huracán 'Grace'"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186934
 ---
 
 En Campeche se activó un plan liderado por la Guardia Nacional para garantizar la seguridad de los habitantes, derivado de las condiciones climatológicas provocadas por paso del huracán Grace y se colabora con autoridades de los tres niveles de gobierno para brindar auxilio. 

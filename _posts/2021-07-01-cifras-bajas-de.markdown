@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Trabajan en la disminución de esta problemática. "
-image: /uploads/2021/images-GIL.jpg
-video: nil
-audio: /uploads/2021/audio-MJ05.mp3
-alt: Cifras bajas de robo y homicidios
+image: "/uploads/2021/images-GIL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ05.mp3"
+alt: "Cifras bajas de robo y homicidios"
 front: false
-section: Local
+section: "Local"
+news_id: 185336
 ---
 
 En el mes de junio terminaron con cifras bajas en materia de robo a vehículos y homicidios, señaló el titular de la Dirección de Seguridad Pública Estatal, Gilberto Loya Chávez, quien fue cuestionado por la disminución de homicidios y el incremento de robo de unidades automotoras, situación que negó.

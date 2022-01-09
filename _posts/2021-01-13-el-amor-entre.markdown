@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor Orlando Bloom y la cantante Katy Perry se conocieron en 2016. Te contamos cómo comenzó su historia de amor. "
-image: /uploads/2021/images-la-pareja-inicio-su-romance.jpg
-video: nil
-audio: nil
-alt: El amor entre Orlando Bloom y Katy Perry que inició por... una hamburguesa
+image: "/uploads/2021/images-la-pareja-inicio-su-romance.jpg"
+video: "nil"
+audio: "nil"
+alt: "El amor entre Orlando Bloom y Katy Perry que inició por... una hamburguesa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182122
 ---
 
 Orlando Bloom y Katy Perry se han convertido en una de las parejas favoritas dentro del espectáculo. El romance comenzó hace más de cuatro años y, como la mayoría de las relaciones, ésta también ha tenido altibajos, como terminar temporalmente. A pesar de ello, ahora están juntos y más felices que nunca. 

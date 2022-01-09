@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente Andrés Manuel López Obrador lamenta que el mecanismo COVAX aún ha entregado dosis contra Covid-19; 10 naciones acaparan el 80% de los fármacos, cuestiona"
-image: /uploads/2021/images-2534275.jpg
-video: nil
-audio: nil
-alt: ‘ONU debe intervenir sobre vacunas, parece florero’
+image: "/uploads/2021/images-2534275.jpg"
+video: "nil"
+audio: "nil"
+alt: "‘ONU debe intervenir sobre vacunas, parece florero’"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183101
 ---
 
 Al lamentar que el mecanismo creado en la ONU para el acceso de las naciones a las vacunas contra Covid-19 aún no funciona y no se ha evitado el acaparamiento de dosis, el presidente Andrés Manuel López Obrador urgió a dicho organismo a tomar cartas en el asunto y a no estar de adorno.

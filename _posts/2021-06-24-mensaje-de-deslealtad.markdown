@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Los leyeron a quienes estaban dedicados."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-MJ02.mp3
-alt: Mensaje de deslealtad tiene dedicatoria -  Corral
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ02.mp3"
+alt: "Mensaje de deslealtad tiene dedicatoria -  Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 185230
 ---
 
 El mensaje que el Gobernador, Javier Corral Jurado, señaló que los mensajes de sus redes sociales en los cuales señala que existe deslealtad dentro de su administración tienen una dedicatoria, esto sin especificar quienes son los destinatarios.

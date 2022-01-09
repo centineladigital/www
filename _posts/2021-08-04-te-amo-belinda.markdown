@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de redes sociales en donde Belinda y Christian Nodal compartieron un poco de la celebración por el primer año de novios. "
-image: /uploads/2021/images-aniversario-novios.jpg
-video: nil
-audio: nil
-alt: ¡Te amo! -  Belinda y Nodal cumplen un año de novios; así fue su romántica celebración
+image: "/uploads/2021/images-aniversario-novios.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Te amo! -  Belinda y Nodal cumplen un año de novios; así fue su romántica celebración"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186287
 ---
 
 Christian Nodal y Belinda, una de las parejas más famosas en México, cumplieron un año de novios. Esto en medio de su compromiso para casarse, en lo que ya es la boda más esperada y voces de quienes especularon y siguen haciéndolo sobre que presuntamente no duraría el idilio de su amor. Sin embargo, pese a todo esto nada ha impedido que los famosos sigan construyendo su relación y sigan demostrado lo mucho que se aman. Ejemplo de ello, es la reciente celebración que los famosos hicieron para celebrar su amor. Con una cena romántica festejaron su primer aniversario. 

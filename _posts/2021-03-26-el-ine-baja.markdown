@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Por siete votos contra cuatro, el Consejo General determinó que el aspirante morenista a la gubernatura de Guerrero no entregó sus informes de ingreso y gasto de precampaña"
-image: /uploads/2021/images-2551840.jpg
-video: nil
-audio: nil
-alt: El INE baja al ‘Toro’ de la candidatura; aprobó cancelar registro de Félix Salgado
+image: "/uploads/2021/images-2551840.jpg"
+video: "nil"
+audio: "nil"
+alt: "El INE baja al ‘Toro’ de la candidatura; aprobó cancelar registro de Félix Salgado"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183561
 ---
 
 El INE le quitó a Félix Salgado Macedonio el registro como candidato de Morena a la gubernatura de Guerrero.

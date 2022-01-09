@@ -1,0 +1,44 @@
+---
+layout: post
+title: "¡No eres el único! Usuarios reportan fallas en servicio de Facebook, WhatsApp e Instagram"
+date: 2021-10-04T16:27:00.000-06:00
+tags:
+  
+  - Instagram
+  
+  - facebook
+  
+author: nil
+description: "A través de redes sociales, usuarios reportaron las caídas de WhatsApp, Instagram y Facebook. "
+image: "/uploads/2021/images-se-cae-facebook-y-whatsapp.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡No eres el único! Usuarios reportan fallas en servicio de Facebook, WhatsApp e Instagram"
+front: false
+section: "Internacional"
+news_id: 188337
+---
+
+Este lunes 4 de octubre, usuarios reportaron la caída del servicio de mensajería WhatsApp, así como las plataformas de Instagram y Facebook. A través de redes sociales y otras vías, dieron a conocer que los servicios de Mark Zuckerberg estaban sufriendo problemas para operar con normalidad.
+
+​De acuerdo con el portal Downdetector, las fallas en WhatsApp comenzaron a partir de las 10:30 horas de la Ciudad de México; la falla fue tan generalizada que se dieron a conocer más de 5 mil casos tan sólo en esa hora.  
+
+Facebook también presentó disfuncionalidad, después de tener más de 1.8 mil casos de reportes. Por si fuera poco, las aplicaciones de las redes sociales Instagram y Facebook Messenger, periférica para mensajería, se vieron afectadas por esta caída. Problemas como 5xx Server Error o simplemente la leyenda "Algo fue mal" no permiten que los usuarios ingresen, o que lo hagan con dificultades. 
+
+De acuerdo con The Verge, Facebook no se ha manifestado, pero se especula que puede ser un problema con el DNS, es decir, en el sistema encargado de traducir las IP (serie de números y puntos) a las direcciones como las conocemos. 
+
+El portal Tech Crunch, por su lado, valida la versión del DNS, y explica que esto hace que los navegadores no encuentren correctamente la dirección de 'facebook.com', así como las URL de Instagram o de los demás servicios, causando que no se puedan usar con normalidad. 
+
+Envío de mensajes, aplicación y conexión con el servidor fueron algunos de los principales problemas que se presentaron, según el mismo Downdetector. Este problema no sólo se dio en México, sino que medios de comunicación y usuarios de redes sociales en todo el mundo también aseguraron que experimentaron problemas con las redes sociales que son propiedad de Facebook. 
+
+Facebook se pronuncia sobre fallas en sus plataformas La voz oficial de Facebook llegó gracias al encargado de comunicación de la empresa, Andy Stone, pero no dio a conocer cuáles son las causas oficiales del fallo de WhatsApp, Instagram y sus aplicaciones homólogas. 
+
+"Somos conscientes de que algunas personas tienen problemas para acceder a nuestras aplicaciones y productos. Estamos trabajando para que todo vuelva a la normalidad lo antes posible y pedimos disculpas por cualquier inconveniente", escribió en Twitter. 
+
+Facebook se pronuncia sobre fallas en sus plataformas 
+
+La voz oficial de Facebook llegó gracias al encargado de comunicación de la empresa, Andy Stone, pero no dio a conocer cuáles son las causas oficiales del fallo de WhatsApp, Instagram y sus aplicaciones homólogas. 
+
+"Somos conscientes de que algunas personas tienen problemas para acceder a nuestras aplicaciones y productos. Estamos trabajando para que todo vuelva a la normalidad lo antes posible y pedimos disculpas por cualquier inconveniente", escribió en Twitter. 
+
+(Milenio) 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "George R.R Martin aseguró que está arrepentido de no haber escrito antes el final de sus libros, por eso, ahora escribirá un final distinto al de la serie. "
-image: /uploads/2021/images-el-final-de-la-serie.jpg
-video: nil
-audio: nil
-alt: ¿Será mejor que el de la serie? George R.R Martin escribirá nuevo final para 'Game of Thrones' en libro
+image: "/uploads/2021/images-el-final-de-la-serie.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Será mejor que el de la serie? George R.R Martin escribirá nuevo final para 'Game of Thrones' en libro"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185296
 ---
 
 En el 2019 llegó a su fin la serie Game of Thrones, la cual está basada en Canción de hielo y fuego, saga literaria escrita por George R.R Martin. Aunque durante su transmisión la producción de HBO mantenía al borde del asiento a los fans, el final no fue tan convincente para algunos, es por eso que el escritor aseguró que realizará un final diferente al que se ve en la serie. George R.R Martin, que ha dejado pasar muchos años entre la publicación de cada entrega, ha prometido de nuevo un final "diferente" al visto en televisión y también ha confesado estar arrepentido de no haberse dado más prisa en escribir para que la historia de las novelas no se viera superada por la adaptación televisiva.

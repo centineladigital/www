@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los aficionados de La Máquina, molestos por el resultado, empezaron a agraviar a Esteban Andrada con cada despeje "
-image: /uploads/2021/images-bryan-angulo-imago-2_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Suspenden el Cruz Azul vs Monterrey por reiterados gritos homofóbicos
+image: "/uploads/2021/images-bryan-angulo-imago-2_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Suspenden el Cruz Azul vs Monterrey por reiterados gritos homofóbicos"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187806
 ---
 
 Durante la semifinal de vuelta de la Concachampions, durante el Cruz Azul vs Monterrey, el árbitro central del partido -César Arturo Ramos- decidió suspender momentáneamente el encuentro por diversos gritos homofóbicos que bajaron de las tribunas del Estadio Azteca. 

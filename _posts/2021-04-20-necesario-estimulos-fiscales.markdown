@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Ofrece beneficios en caso de llegar a la diputación federal."
-image: /uploads/2021/images-Ganadería2.jpg
-video: nil
-audio: /uploads/2021/audio-MM04_LAURA_CONTRERAS.mp3
-alt: Necesario estimulos fiscales a productores
+image: "/uploads/2021/images-Ganadería2.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04_LAURA_CONTRERAS.mp3"
+alt: "Necesario estimulos fiscales a productores"
 front: false
-section: Local
+section: "Local"
+news_id: 184003
 ---
 
 La candidata del PAN por el VI distrito a nivel federal, Laura Contreras, señaló que es necesario que se proponga de otorgue estímulos fiscales a ganaderos, así como facilidades para establecer lazos comerciales con EU y oros países.

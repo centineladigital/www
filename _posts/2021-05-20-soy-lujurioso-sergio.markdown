@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor celebró su cumpleaños 55 con el anuncio de su nuevo espectáculo erótico 'Sie7e'; durante la presentación, habló del romance que tuvo Issabela Camil con Luis Miguel. "
-image: /uploads/2021/images-sergio-mayer-celebra-cumpleanos-issabela_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Soy lujurioso -  Sergio Mayer celebra su cumpleaños a lado de Issabela Camil
+image: "/uploads/2021/images-sergio-mayer-celebra-cumpleanos-issabela_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Soy lujurioso -  Sergio Mayer celebra su cumpleaños a lado de Issabela Camil"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184576
 ---
 
 Sergio Mayer celebró su cumpleaños número 55 con un espectacular evento en el que anunció su nuevo proyecto, el espectáculo erótico Sie7e, el cual tendrá como eje principal los siete pecados capitales. Además estuvieron presentes Issabela Camil, y su amigos más cercanos. Durante el show, el político habló del pasado amoroso de su esposa con Luis Miguel. Frente a las cámaras del programa Venga la Alegría, Sergio Mayer confesó que se siente identificado con uno de los pecados capitales. "Con la lujuria. Soy lujurioso", dijo riendo el actor, quien también aclaró si está dispuesto a realizarse alguna cirugía plástica. 

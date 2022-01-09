@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto para agilizar los ya que la pandemia debe de cambiar la forma de llevar a cabo las cosas."
-image: /uploads/2021/images-RIGGS.jpg
-video: nil
-audio: /uploads/2021/audio-MW03_MIGUEL_RIGGS.mp3
-alt: Urge digitalización de trámites -  Riggs
+image: "/uploads/2021/images-RIGGS.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW03_MIGUEL_RIGGS.mp3"
+alt: "Urge digitalización de trámites -  Riggs"
 front: false
-section: Local
+section: "Local"
+news_id: 183639
 ---
 
 Que los trámites se lleven a cabo de forma digital y se agilicen dentro del gobierno es necesario, señaló el diputado federal Miguel Riggs. Esto para agilizar los ya que la pandemia debe de cambiar la forma de llevar a cabo las cosas.

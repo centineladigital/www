@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Agencia Europea del Medicamento confirma que existe un vínculo entre la vacuna covid de AstraZeneca y unos inusuales coágulos en el cerebro, pero aún se desconocen las posibles causas"
-image: /uploads/2021/images-2557649.jpg
-video: nil
-audio: nil
-alt: Confirman vínculo de vacuna AstraZeneca con coágulos cerebrales
+image: "/uploads/2021/images-2557649.jpg"
+video: "nil"
+audio: "nil"
+alt: "Confirman vínculo de vacuna AstraZeneca con coágulos cerebrales"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183701
 ---
 
 Un funcionario de la Agencia Europea del Medicamento (EMA) confirmó "un vínculo" entre la vacuna de AstraZeneca y las trombosis registradas entre personas que recibieron esa vacuna, aseguró este martes en una entrevista al diario italiano Il Messaggero.

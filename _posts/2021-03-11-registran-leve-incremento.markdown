@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El funcionario exhortó a continuar con las medidas"
-image: /uploads/2021/images-Diapositiva3.JPG
-video: nil
-audio: nil
-alt: Registran leve incremento en personas hospitalizadas por COVID
+image: "/uploads/2021/images-Diapositiva3.JPG"
+video: "nil"
+audio: "nil"
+alt: "Registran leve incremento en personas hospitalizadas por COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 183388
 ---
 
 Tras varios días en los que no se había reportado un número mayor a 200 personas hospitalizadas, este jueves se dio a conocer que 231 chihuahuenses se encuentran hospitalizados por COVID, mientras que 59 se encuentran intubados por la gravedad de la enfermedad, según fue dado a conocer por parte del Director Médico Zona Norte, Arturo Valenzuela Zorrilla. 

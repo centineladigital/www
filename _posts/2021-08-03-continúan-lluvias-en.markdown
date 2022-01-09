@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Para este martes 3 el Frente Frío 62 traerá lluvias de dispersas a moderadas con intervalos de chubascos en partes del noroeste, occidente, suroeste, sur y sureste del estado "
-image: /uploads/2021/images-RECOMENDACIONES_POR_LLUVIAS_1_(1).jpeg
-video: nil
-audio: nil
-alt: Continúan lluvias en el estado -  en Chihuahua y Ciudad Juárez se prevé sean dispersas
+image: "/uploads/2021/images-RECOMENDACIONES_POR_LLUVIAS_1_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Continúan lluvias en el estado -  en Chihuahua y Ciudad Juárez se prevé sean dispersas"
 front: false
-section: Local
+section: "Local"
+news_id: 186246
 ---
 
 La mayor intensidad se pronostica para Ocampo, Uruachi, Chínipas, Morelos, Guadalupe y Calvo, Balleza, Matamoros, Parral, Coronado y Jiménez, aunque también habrá precipitaciones considerables en Janos, Buenaventura, Cuauhtémoc, Chihuahua, Delicias, Ahumada, Aldama y Manuel Benavides, informa Protección Civil.

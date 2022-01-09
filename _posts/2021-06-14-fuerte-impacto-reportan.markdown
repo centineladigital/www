@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Mediante un comunicado se dio a conocer que Emir Pabón y su esposa sufrieron un accidente automovilístico. "
-image: /uploads/2021/images-emir-pabon-esposa-sufren-aparatoso.jpg
-video: nil
-audio: nil
-alt: Fuerte impacto -  reportan que Emir Pabón y su esposa embarazada sufrieron accidente automovilístico
+image: "/uploads/2021/images-emir-pabon-esposa-sufren-aparatoso.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fuerte impacto -  reportan que Emir Pabón y su esposa embarazada sufrieron accidente automovilístico"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185019
 ---
 
 Emir Pabón, integrante de la agrupación musical Cañaveral, sufrió un accidente automovilístico, en compañía de su esposa embarazada, Stefanía de Aranda, en Houston, Texas. El incidente ocurrió hace unos días –viernes 11 de junio– sin embargo, debido a la gravedad, el grupo musical lanzó un comunicado para aclarar cuál es el estado de salud de la pareja. 

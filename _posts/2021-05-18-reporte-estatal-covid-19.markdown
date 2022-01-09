@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Salud agrega dos fallecimientos más, así como 59 nuevos contagios"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporte estatal COVID-19 -  6,895 defunciones y 67,191 casos confirmados
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporte estatal COVID-19 -  6,895 defunciones y 67,191 casos confirmados"
 front: false
-section: Local
+section: "Local"
+news_id: 184519
 ---
 
 La Secretaría de Salud estatal dio a conocer que en el último reporte epidemiológico, se agregaron 59 contagios y dos decesos, con lo suman un total general de 67 mil 191 casos confirmados y 6 mil 895 defunciones por COVID-19 en la entidad.

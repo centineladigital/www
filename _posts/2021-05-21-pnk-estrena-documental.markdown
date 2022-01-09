@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante estrena hoy en Amazon Prime este material con el que abre su corazón de madre."
-image: /uploads/2021/images-disponible-plataforma-amazon-prime-video.jpg
-video: nil
-audio: nil
-alt: P!nk estrena documental sobre su vida durante una gira; así lo puedes ver
+image: "/uploads/2021/images-disponible-plataforma-amazon-prime-video.jpg"
+video: "nil"
+audio: "nil"
+alt: "P!nk estrena documental sobre su vida durante una gira; así lo puedes ver"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184585
 ---
 
 El trabajo duro y las responsabilidades de artista y de mamá se verán a profundidad en el documental P!nk: All I Know So Far, que llega hoy a la plataforma Amazon Prime Video. Acompañaremos a la cantante estadunidense en la gira mundial Beatiful Trauma, que realizó en 2019 y a la que se llevó a toda su familia. Ahí estaban su hija Willow Sage de nueve años, el pequeño Jameson Moon, de cuatro años, y su esposo, Carey Hart, testigos de todo lo que requiere una cantante para sus conciertos, entregarse a sus fans, los ensayos y todo lo que hay detrás de una producción. Bajo la dirección de Michael Gracey —quien además la convenció para documentar todo—, llega un episodio completo de una hora con 40 minutos para disfrutar de los triunfos de P!nk. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Claude Joseph, quien ha dirigido Haití como primer ministro en funciones desde el asesinato del presidente Jovenel Moise."
-image: /uploads/2021/images-claude-joseph-ministro-interino-haiti_0_22_1024_638.jpg
-video: nil
-audio: nil
-alt: Claude Joseph dimitirá como primer ministro interino en Haití
+image: "/uploads/2021/images-claude-joseph-ministro-interino-haiti_0_22_1024_638.jpg"
+video: "nil"
+audio: "nil"
+alt: "Claude Joseph dimitirá como primer ministro interino en Haití"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185778
 ---
 
 Claude Joseph, quien ha dirigido Haití como primer ministro en funciones desde el asesinato del presidente Jovenel Moise, dijo en una entrevista en el Washington Post que ha accedido a dimitir, cediendo el poder a un aspirante respaldado por la comunidad internacional y que, según fuentes, es Ariel Henry, quien había sido nombrado para el cargo por el mandatario. 

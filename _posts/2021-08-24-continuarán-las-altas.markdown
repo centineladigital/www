@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las máximas esperadas para esta tarde son: Ojinaga 37°C, Juárez 36°C, Janos 33°C, Delicias 35°C, Camargo 34°C, Jiménez 33°C, Chihuahua 32°C y Parral 30°C"
-image: /uploads/2021/images-clima-temperatura-calor.jpg
-video: nil
-audio: nil
-alt: Continuarán las altas temperaturas durante este martes y miércoles -  CEPC
+image: "/uploads/2021/images-clima-temperatura-calor.jpg"
+video: "nil"
+audio: "nil"
+alt: "Continuarán las altas temperaturas durante este martes y miércoles -  CEPC"
 front: false
-section: Local
+section: "Local"
+news_id: 187056
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) indicó que para este martes 24 y miércoles 25 de agosto se esperan temperaturas de hasta  37°C, acompañadas de rachas de viento que pueden superar los 45 kilómetros por hora (km/h), principalmente en zonas del sureste y noreste, así como lluvias de aisladas  a dispersas en el occidente, suroeste y noreste de la entidad.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Manuel Bartlett reportó que la falla se debió a falta de suministro de gas, por congelamiento, lo que afectó la alimentación de las plantas generadoras"
-image: /uploads/2021/images-de_veg.jpg
-video: nil
-audio: nil
-alt: Gobernador se comunica con director de CFE ante corte de suministro de energía en Chihuahua
+image: "/uploads/2021/images-de_veg.jpg"
+video: "nil"
+audio: "nil"
+alt: "Gobernador se comunica con director de CFE ante corte de suministro de energía en Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 182935
 ---
 
 El gobernador Javier Corral se comunicó con Manuel Bartlett, director general de la Comisión Federal de Electricidad, para conocer las fallas en el suministro de energía eléctrica en el estado de Chihuahua.

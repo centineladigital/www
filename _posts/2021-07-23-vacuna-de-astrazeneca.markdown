@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El estudio indicó que la vacuna tiene 82 % de eficacia, después de un pinchazo, ante la hospitalización o fallecimiento causados por la variante beta/gamma, identificada por primera vez en Sudáfrica"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Vacuna de AstraZeneca es altamente eficaz ante variantes beta y delta del Covid -  estudio
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Vacuna de AstraZeneca es altamente eficaz ante variantes beta y delta del Covid -  estudio"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185935
 ---
 
 La farmacéutica anglo-sueca AstraZeneca informó este viernes de que su vacuna Vaxzevria es, después de una dosis, "altamente eficaz" para prevenir casos graves de covid y hospitalizaciones causadas por las variantes beta y delta del coronavirus.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gaby se ha consolidado como la mejor golfista mexicana al tener ya dos títulos del Tour LPGA."
-image: /uploads/2021/images-gaby_lopez.jpg
-video: nil
-audio: nil
-alt: Quiero regresar a México con una medalla -  Gaby López de cara a los Juegos Olímpicos
+image: "/uploads/2021/images-gaby_lopez.jpg"
+video: "nil"
+audio: "nil"
+alt: "Quiero regresar a México con una medalla -  Gaby López de cara a los Juegos Olímpicos"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185506
 ---
 
 Hace cinco años, Gaby López compitió en Río de Janeiro 2016, donde se quedó en el lugar número 31; ahora, en Tokio 2020 quiere mejorar esa participación y tiene como meta subirse al podio.

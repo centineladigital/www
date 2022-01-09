@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Eduin Cazares contó que antes de empezar con el espectáculo, una abeja lo picó en la frente. Sin embargo, durante el concierto comenzó a sentirse mal. Tuvo que ser atendido de emergencia. "
-image: /uploads/2021/images-eduin-caz-vocalista-grupo-firme.jpg
-video: nil
-audio: nil
-alt: De la fregada -  Eduin Caz de 'Grupo Firme' sufre ataque de abeja en pleno concierto; lo atienden de emergencia
+image: "/uploads/2021/images-eduin-caz-vocalista-grupo-firme.jpg"
+video: "nil"
+audio: "nil"
+alt: "De la fregada -  Eduin Caz de 'Grupo Firme' sufre ataque de abeja en pleno concierto; lo atienden de emergencia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187121
 ---
 
 Eduin Cazares, vocalista de Grupo Firme, vivió un momento incómodo mientras ofrecía un concierto. ¿Qué ocurrió? Resulta que el intérprete de ‘Ya Supérame’ tuvo que bajarse inesperadamente del escenario para ser atendido por médicos, luego de ser picado por una avispa. ¿Se sintió mal? Te contamos lo que ocurrió con el cantante Eduin Cazares. 

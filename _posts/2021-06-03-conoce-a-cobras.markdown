@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Mauricio Barcelata y Tania Rincón serán de nuevo los conductores del reality show que estrenará en cuestión de días su segunda temporada. "
-image: /uploads/2021/images-ellos-son-los-participantes-de-1_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¡Conoce a Cobras y Leones! Ellos son los participantes del reality 'Guerreros 2021'
+image: "/uploads/2021/images-ellos-son-los-participantes-de-1_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Conoce a Cobras y Leones! Ellos son los participantes del reality 'Guerreros 2021'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184821
 ---
 
 El reality Guerreros está de regreso con una nueva entrega que promete más competencias y pruebas de alto nivel, pues ya tan sólo en la primera temporada varios de los participantes sufrieron serias lesiones, incluso algunos tuvieron que dejar el programa. Televisa alista los últimos detalles para el estreno de los capítulos que llegarán a la pantalla chica el próximo 7 de junio. Mauricio Barcelata y Tania Rincón serán de nuevo los conductores del reality show, que estarán a cargo de moderar los enfrentamientos y disputas entre los equipos. La segunda temporada estará dedicada a la productora Magda Rodríguez, quien falleció en noviembre de 2020.

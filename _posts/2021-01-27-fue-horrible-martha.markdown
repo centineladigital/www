@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Martha Higareda recordó el momento vergonzoso que vivió frente a Chris Evans y Keanu Reeves. "
-image: /uploads/2021/images-martha-higareda-trabajo-con-los.jpg
-video: nil
-audio: nil
-alt: “Fue horrible” -  Martha Higareda recuerda momento vergonzoso que pasó frente a Chris Evan y Keanu Reeves
+image: "/uploads/2021/images-martha-higareda-trabajo-con-los.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Fue horrible” -  Martha Higareda recuerda momento vergonzoso que pasó frente a Chris Evan y Keanu Reeves"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182485
 ---
 
 Martha Higareda es una actriz quien inició su carrera en México, pero poco a poco se ha abierto paso en Estados Unidos, es por eso que ha participado en producciones de este país, entre ellas la película Reyes de la calle donde compartió créditos con los actores Chris Evans y Keanu Reeves, con los que vivió un momento vergonzoso. En el 2008 se estrenó la película Reyes de la calle en donde Martha Higareda trabajó junto a Chris Evans y Keanu Reeves, y aunque fue una gran oportunidad para la actriz, recientemente recordó que en una ocasión vivió un momento vergonzoso frente a estos actores.

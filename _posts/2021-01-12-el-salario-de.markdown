@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con sólo 10 episodios de la nueva serie de HBO Max 'And Just Like That...' las actrices se llevarán a la bolsa una millonaria suma con la que muchos sólo podemos soñar. "
-image: /uploads/2021/images-sex-and-the-city-especial-1.jpg
-video: nil
-audio: nil
-alt: El salario de las actrices que participarán en nueva serie de 'Sex and The City'
+image: "/uploads/2021/images-sex-and-the-city-especial-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "El salario de las actrices que participarán en nueva serie de 'Sex and The City'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182061
 ---
 
 Seguramente todos recordamos como en Sex and The City, el personaje principal, Carrie Bradshaw, interpretado por Sarah Jessica Parker, escribiendo unos cuántos textos para la revista Vogue, era capaz de costearse un armario lleno de pares de zapatos Manolo Blahnink, lo cual,  sin duda y si lo pensamos bien, es de lo más irreal. Sin embargo, esto hubiera sido posible para la columnista de haber recibido aunque sea la mitad del salario que percibirá la actriz que le da vida sólo por interpretar ese papel.  Ahora que HBO Max anunció el regreso de la Sex and The City  con una nueva producción titulada And Just Like That..., que contará con las presencia de sólo tres de las cuatro protagonistas de la serie original, la historia de estas mujeres vuelve a estar en boca de todos y, por supuesto, salió a relucir la cantidad de dinero que recibirían por esta nueva participación. ¿Quieres saber de cuánto estamos hablando? 

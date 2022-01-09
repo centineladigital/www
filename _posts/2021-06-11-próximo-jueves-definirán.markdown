@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Para ello se deberá revisar la situación ya que dentro de los cierres de campaña se registraron aglomeraciones."
-image: /uploads/2021/images-FERNANDO_MESTA.jpg
-video: nil
-audio: /uploads/2021/audio-MV02.mp3
-alt: Próximo jueves definirán cambio de semáforo -  Secretario 
+image: "/uploads/2021/images-FERNANDO_MESTA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV02.mp3"
+alt: "Próximo jueves definirán cambio de semáforo -  Secretario "
 front: false
-section: Local
+section: "Local"
+news_id: 184995
 ---
 
 Será hasta el próximo jueves cuando definan los cambios de semáforo, señaló el titular de la Secretaría General de Gobierno Fernando Mesta Soulé. Esto luego de que en días pasados el Gobernador del Estado afirmará que pudiéramos pasar a verde.

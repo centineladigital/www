@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Gobierno Municipal a través del DIF se encuentra realizando un ciclo de conferencias relacionadas a atender problemáticas familiares en temas de impacto social   "
-image: /uploads/2021/images-unnamed_(4).jpg
-video: nil
-audio: nil
-alt: Invita DIF Municipal ciclo de conferencias enfocadas a la atención familiar
+image: "/uploads/2021/images-unnamed_(4).jpg"
+video: "nil"
+audio: "nil"
+alt: "Invita DIF Municipal ciclo de conferencias enfocadas a la atención familiar"
 front: false
-section: Local
+section: "Local"
+news_id: 186343
 ---
 
 La primera conferencia se realiza este jueves 5 de agosto, a las 7 de la tarde, a través de la liga https://videoconferencia.telmex.com/j/1248348964, ID: 1248348964, por lo cual los interesados deberán registrarse en el siguiente link: https://docs.google.com/forms/d/e/1FAIpQLSc79lOlLd2UwiAj0xfus-NXrJOPJayU8R9DIhr29-M4wLGQ5g/viewform, con  el tema: “Enseñar a Nuestros Hijos de Decir No” por Abril Gutiérrez Acosta. La segunda conferencia será el día 10 de agosto en la misma plataforma a las 6:00 de la tarde, que estará a cargo de Ruth Armida Bustillos Fontes con el tema “Habilidades de Comunicación Familiar”. Para concluir esta jornada de conferencias, el día 12 de agosto a las 7:00 pm se brindará una plática con el tema “Habilidades para la Vida”, que estará a cargo de Ana Luisa Tarango Flores.

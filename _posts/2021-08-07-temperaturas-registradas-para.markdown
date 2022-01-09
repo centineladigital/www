@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se espera un agradable clima caluroso y lluvias en algunas zonas de nuestro estado "
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Temperaturas registradas para este fin de semana
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Temperaturas registradas para este fin de semana"
 front: false
-section: Local
+section: "Local"
+news_id: 186436
 ---
 
 Las temperaturas registradas en la Entidad son (°C máx/min): Chihuahua 32.2/20.3, Juárez 34.6/23.1, Ahumada 36/18.7, Janos 35.3/17.5, Nuevo Casas Grandes 32.9/17.4, Madera 27.6/12.4, Temósachic 30.3/12.6, Cuauhtémoc 25.8/13.8, Majalca 27.3/10.4, Ojinaga 36.9/24.8, Delicias 33.8/20.5, Camargo 32/20, Jiménez 30.1/18.7, Parral 28/15.9, Balleza 27.3/16.6, Creel 23.8/12, Maguarichi 26.3/17.8, Chínipas 33.9/21.8, Urique 32.9/21.6, Guachochi 22.8/11.4, Chinatú 23.5/14.7, El Vergel 17.8/7.3. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Vicente Fernández Jr contó que la salud de su papá, Vicente Fernández, evoluciona positivamente y que el Charro de Huentitán toma dos veces al día terapia. "
-image: /uploads/2021/images-hijo-vicente-fernandez-conto-papa.jpg
-video: nil
-audio: nil
-alt: Está respondiendo muy bien -  Vicente Fernández Jr da detalles del estado de salud de su papá
+image: "/uploads/2021/images-hijo-vicente-fernandez-conto-papa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Está respondiendo muy bien -  Vicente Fernández Jr da detalles del estado de salud de su papá"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186926
 ---
 
 El mundo del espectáculo en México sigue muy al pendiente del estado de salud de Vicente Fernández, quien hace unos días fue hospitalizado y operado de emergencia debido a una caída que le provocó la pérdida momentánea de la movilidad en las cuatro extremidades. Quien ha informado a los medios sobre la evolución del Charro de Huentitán es Vicente Fernández Jr.

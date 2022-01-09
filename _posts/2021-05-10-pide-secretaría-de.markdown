@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En esta pandemia siempre que hay festividades, hay riesgo; quienes no lo toman en serio, ponen en peligro a festejadores y festejada, que en este caso es la mamá"
-image: /uploads/2021/images-valenz_.jpg
-video: nil
-audio: nil
-alt: Pide Secretaría de Salud evitar reuniones este Día de la Madre
+image: "/uploads/2021/images-valenz_.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pide Secretaría de Salud evitar reuniones este Día de la Madre"
 front: false
-section: Local
+section: "Local"
+news_id: 184380
 ---
 
 El director Médico de la Zona Norte de la Secretaría de Salud, Arturo Valenzuela Zorrilla, recomendó a los chihuahuenses a no reunirse con motivo del 10 de Mayo, porque aún persiste el riesgo de contagio por la pandemia de COVID-19 y el aglutinamiento de personas puede desencadenar que los adultos mayores enfermen e incluso puedan morir.

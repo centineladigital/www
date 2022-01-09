@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se otorgaron reconocimientos a 123 trabajadoras y trabajadores de todos los planteles, con 5, 10, 15, 20, 25, 30 y 35 años de servicio     "
-image: /uploads/2021/images-CO1.JPG
-video: nil
-audio: nil
-alt: Entrega Conalep estímulos por antigüedad  al personal administrativo
+image: "/uploads/2021/images-CO1.JPG"
+video: "nil"
+audio: "nil"
+alt: "Entrega Conalep estímulos por antigüedad  al personal administrativo"
 front: false
-section: Local
+section: "Local"
+news_id: 187264
 ---
 
 El Colegio Nacional de Educación Profesional Técnica (Conalep) llevó a cabo la entrega de estímulos por antigüedad a 123 trabajadoras y trabajadores administrativos que cuentan con 5, 10, 15, 20, 25, 30 y 35 años de servicio en la institución.

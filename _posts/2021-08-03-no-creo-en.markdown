@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Luego de que Lucía Méndez revelara que tuvo un encuentro con Quetzalcóatl, Carmen Salinas y Galilea Montijo lanzaron tremenda burla contra la diva. "
-image: /uploads/2021/images-galilea-montijo-carmen-salinas-burlan.jpg
-video: nil
-audio: nil
-alt: No creo en brujos -  Galilea Montijo y Carmen Salinas se burlan de Lucía Méndez por 'Quetzalcóatl'
+image: "/uploads/2021/images-galilea-montijo-carmen-salinas-burlan.jpg"
+video: "nil"
+audio: "nil"
+alt: "No creo en brujos -  Galilea Montijo y Carmen Salinas se burlan de Lucía Méndez por 'Quetzalcóatl'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186229
 ---
 
 Lucía Méndez dio mucho de qué hablar luego de que asegurara que tuvo un encuentro con La Serpiente Emplumada: Quetzalcóatl –dios de la cultura mexica–. La diva del mundo del espectáculo aseguró que recibió un mensaje con ayuda de un especialista, por ello, en medio de estas revelaciones la famosa recibió varias burlas, entre ellas Carmen Salinas y algunos conductores -entre ellos Galilea Montijo- del programa Hoy de Televisa. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Edith Márquez, Alex Midi, de Moenia; Apio Quijano, de Kabah, y Rozalén destacan la importancia de adaptarse a la evolución de la industria con el fin de mantenerse vigentes. "
-image: /uploads/2021/images-kabah-ha-trascendido-desde-los.jpg
-video: nil
-audio: nil
-alt: Música -  consumo efímero no debe sacrificar la calidad
+image: "/uploads/2021/images-kabah-ha-trascendido-desde-los.jpg"
+video: "nil"
+audio: "nil"
+alt: "Música -  consumo efímero no debe sacrificar la calidad"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182003
 ---
 
 Cantantes de larga trayectoria como Edith Márquez y agrupaciones como Kabah y Moenia coinciden en que el ritmo de vida y las nuevas tecnologías han provocado un acelere en la música; hoy en día el consumo es inmediato y efímero en las plataformas musicales, por lo que el nivel de producción también se tiene que incrementar y los creativos generar más canciones. 

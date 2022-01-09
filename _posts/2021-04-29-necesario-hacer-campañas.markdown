@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Es necesario que se lleven a cabo campañas de propuesta; solución y no discusión ."
-image: /uploads/2021/images-MARIO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ05_MARIO_VAZQUEZ.mp3
-alt: Necesario hacer campañas propositivas -  Vázquez
+image: "/uploads/2021/images-MARIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ05_MARIO_VAZQUEZ.mp3"
+alt: "Necesario hacer campañas propositivas -  Vázquez"
 front: false
-section: Local
+section: "Local"
+news_id: 184200
 ---
 
 Es necesario que se lleven a cabo campañas de propuesta; solución y no discusión fueron las palabras del candidato del distrito décimo sexto Mario Vázquez, esto dentro del primer día de la contienda electoral.

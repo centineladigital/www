@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La ciudad de Tokio se ve afectada desde este lunes por un nuevo estado de emergencia sanitaria por el aumento de casos de covid-19 en el territorio, que estará vigente durante todo el período en el que se celebrarán los inminentes Juegos Olímpicos. "
-image: /uploads/2021/images-tokio.jpg
-video: nil
-audio: nil
-alt: Tokio entra en nuevo estado de emergencia por covid-19; se mantendrá en Olímpicos Tokio 2020
+image: "/uploads/2021/images-tokio.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tokio entra en nuevo estado de emergencia por covid-19; se mantendrá en Olímpicos Tokio 2020"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185549
 ---
 
 La alerta, que durará en principio hasta el 22 de agosto, está destinada a limitar el flujo de personas en la metrópolis durante el verano y el evento deportivo que, como consecuencia, no tendrá espectadores en los estadios de la ciudad ni en la mayoría de sedes para competiciones repartidas por el resto del archipiélago. 

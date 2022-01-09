@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Destaca el Gobernador Javier Corral en su Quinto Informe que se aprobó el reglamento de la Ley de Igualdad entre Mujeres y Hombres del Estado con una perspectiva de género transversal"
-image: /uploads/2021/images-DSC_5704.JPG
-video: nil
-audio: nil
-alt: Sentamos un precedente de Gobierno en la pluralidad y de la mano con la ciudadanía
+image: "/uploads/2021/images-DSC_5704.JPG"
+video: "nil"
+audio: "nil"
+alt: "Sentamos un precedente de Gobierno en la pluralidad y de la mano con la ciudadanía"
 front: false
-section: Local
+section: "Local"
+news_id: 186780
 ---
 
 Al rendir cuentas ante las y los juarenses, el gobernador Javier Corral Jurado destacó que en esta administración el empeño fue en dejar huella: “quisimos hacer un gobierno que hiciera la diferencia, que dignificara el servicio público y sentara un precedente de que con voluntad se puede gobernar en la pluralidad y de la mano de la ciudadanía”.

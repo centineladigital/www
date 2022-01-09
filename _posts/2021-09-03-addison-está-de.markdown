@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Kate Walsh está aparecerá en múltiples episodios de la serie de televisión que ya cuenta con 18 temporadas. "
-image: /uploads/2021/images-kate-walsh-regresara-greys-anatomy_0_43_639_397.jpg
-video: nil
-audio: nil
-alt: ¡Addison está de regreso! Kate Walsh anuncia su participación en 'Grey's Anatomy'
+image: "/uploads/2021/images-kate-walsh-regresara-greys-anatomy_0_43_639_397.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Addison está de regreso! Kate Walsh anuncia su participación en 'Grey's Anatomy'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187400
 ---
 
 ¿Le hará la vida de cuadritos a Meredith Grey? Kate Walsh volverá a Grey's Anatomy retomando al personaje que vimos hace algunas temporadas, Addison Forbes Montgomery en la próxima temporada de esta serie de televisión que no para de sorprendernos con algunas de sus revelaciones.

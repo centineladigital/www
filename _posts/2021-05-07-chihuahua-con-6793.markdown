@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el último reporte epidemiológico se reportaron 158 nuevos contagios y 12 defunciones más; van 151 mil 549 celulares registrados a la aplicación “Salud Digital”"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Chihuahua con 6,793 decesos por COVID-19 al 7 de mayo
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Chihuahua con 6,793 decesos por COVID-19 al 7 de mayo"
 front: false
-section: Local
+section: "Local"
+news_id: 184344
 ---
 
 El Reporte COVID-19 de la Secretaría de Salud muestra que hay un total general de 65 mil 987 contagios, tras confirmarse otros 158 nuevos positivos; mientras que el número de personas fallecidas incrementó en 12, con lo que suman ya 6 mil 793 muertes en los 14 meses de haber iniciado la pandemia en el estado.

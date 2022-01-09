@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Analizará COFEPRIS vacunas rusas, por intereses económicos FDA no autoriza algunos medicamentos."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-MW03_ARTURO_VALENZUELA.mp3
-alt: Piden confianza en vacuna rusa
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW03_ARTURO_VALENZUELA.mp3"
+alt: "Piden confianza en vacuna rusa"
 front: false
-section: Local
+section: "Local"
+news_id: 182500
 ---
 
 Un voto de confianza a la vacuna rusa es lo que solicitó el del Director Médico de la Zona Norte, Arturo Valenzuela Zorrilla, a las acciones que lleva a cabo la COFEPRIS al ser cuestionado respecto a la compra de este medicamento por parte del Gobierno Estatal.

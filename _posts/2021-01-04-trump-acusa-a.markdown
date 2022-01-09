@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En un mensaje publicado en su cuenta de Twitter y sin pruebas que lo respalden, Trump acusó al organismo federal de adscribir sin motivo un número de fallecimientos por Covid"
-image: /uploads/2021/images-2506019.jpg
-video: nil
-audio: nil
-alt: Trump acusa a los CDC de exagerar los números de la pandemia en EU
+image: "/uploads/2021/images-2506019.jpg"
+video: "nil"
+audio: "nil"
+alt: "Trump acusa a los CDC de exagerar los números de la pandemia en EU"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 181833
 ---
 
 El presidente de Estados Unidos, Donald Trump, ha acusado este domingo a los Centros de Control y Prevención de Enfermedades de Estados Unidos (CDC) de proporcionar datos exagerados sobre el

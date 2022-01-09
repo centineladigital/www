@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "*La gente echa brasas en los contenedores que llegan hasta el lugar en camiones recolectores "
-image: /uploads/2021/images-incendiocuau2.jpg
-video: nil
-audio: nil
-alt: Responsabilizan a ciudadanos de incendios en basurero de Cuauhtémoc
+image: "/uploads/2021/images-incendiocuau2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Responsabilizan a ciudadanos de incendios en basurero de Cuauhtémoc"
 front: false
-section: Local
+section: "Local"
+news_id: 184148
 ---
 
 En lo que va del año se han atendido 4 incendios en el basurero municipal. La población es irresponsable y echa brasas en los contenedores que llegan hasta el lugar en los camiones recolectores. Los vientos de la temporada generaron un incendio el fin de semana que arrasó con 200 toneladas de basura y al menos 300 llantas.

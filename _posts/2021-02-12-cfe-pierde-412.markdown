@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La luz generada por independientes no es más barata y se subsidia con 90 mil mdp anuales, lo que afecta la competencia, señaló la empresa"
-image: /uploads/2021/images-2528294.jpg
-video: nil
-audio: nil
-alt: CFE pierde 412 mil mdp por la energía privada; no hay piso parejo en el mercado, acusa
+image: "/uploads/2021/images-2528294.jpg"
+video: "nil"
+audio: "nil"
+alt: "CFE pierde 412 mil mdp por la energía privada; no hay piso parejo en el mercado, acusa"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182882
 ---
 
 Los contratos con Productores Independientes de Energía le han dejado a la CFE un daño de 412 mil 410 millones de pesos debido a subsidios, riesgo cambiario o inflación.

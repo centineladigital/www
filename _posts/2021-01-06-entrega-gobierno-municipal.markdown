@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ernesto Hinojos Sandoval y Luis Ismael Corrales Chaparro fueron los beneficiados con la entrega de sillas de ruedas"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Entrega Gobierno Municipal sillas de ruedas a usuarios del Gimnasio del Deporte Adaptado
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Entrega Gobierno Municipal sillas de ruedas a usuarios del Gimnasio del Deporte Adaptado"
 front: false
-section: Local
+section: "Local"
+news_id: 181911
 ---
 
 En días pasados, el Gobierno Municipal de Chihuahua a través del Instituto Municipal de Cultura Física y Deporte realizó la entrega de sillas de ruedas a usuarios del Gimnasio del Deporte Adaptado con discapacidad física.

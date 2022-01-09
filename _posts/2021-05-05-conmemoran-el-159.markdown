@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Colocan ofrendas florales al monumento erigido en honor al general Ignacio Zaragoza en la Plaza San Francisco, que se ubica en el centro histórico de la ciudad de Chihuahua"
-image: /uploads/2021/images-Z2.jpeg
-video: nil
-audio: nil
-alt: Conmemoran el 159 aniversario de la Batalla de Puebla
+image: "/uploads/2021/images-Z2.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Conmemoran el 159 aniversario de la Batalla de Puebla"
 front: false
-section: Local
+section: "Local"
+news_id: 184291
 ---
 
 En el marco del 159 aniversario de la Batalla de Puebla, autoridades de los tres niveles de gobierno colocaron ofrendas florales en el monumento erigido en honor al general Ignacio Zaragoza

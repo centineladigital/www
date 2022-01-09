@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La vacunación se llevará a cabo a través de la inicial del apellido y se aplicarán en los cuatro puntos antes establecidos"
-image: /uploads/2021/images-VACUNA_FOTO_LUIS.jpg
-video: nil
-audio: nil
-alt: Aplicarán del 21 al 24, segunda dosis para personas de 50 a 59 años
+image: "/uploads/2021/images-VACUNA_FOTO_LUIS.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aplicarán del 21 al 24, segunda dosis para personas de 50 a 59 años"
 front: false
-section: Local
+section: "Local"
+news_id: 185108
 ---
 
 A partir del lunes 21 y hasta el 24 de junio, se llevará a cabo la segunda dosis de la vacuna contra el Covid19, para personas de 50 a 59 años de edad, así como personas embarazadas, en la ciudad de Chihuahua, según dio a conocer la Secretaría del Bienestar en la entidad.

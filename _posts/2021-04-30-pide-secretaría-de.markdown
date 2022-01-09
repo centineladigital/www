@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ante el incremento en contagios de COVID-19, el secretario Eduardo Fernández llamó a ser responsables y solidarios respetando las medidas sanitarias establecidas; recordó además que este sábado y domingo no se pueden realizar ninguna clase de eventos   "
-image: /uploads/2021/images-Mensaje_a_candidatas_y_candidatos_Secretario_de_Salud_30-04-2021_(1).jpeg
-video: nil
-audio: nil
-alt: Pide Secretaría de Salud a candidatos y candidatas respeto al Semáforo Naranja y al súper-cierre
+image: "/uploads/2021/images-Mensaje_a_candidatas_y_candidatos_Secretario_de_Salud_30-04-2021_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Pide Secretaría de Salud a candidatos y candidatas respeto al Semáforo Naranja y al súper-cierre"
 front: false
-section: Local
+section: "Local"
+news_id: 184209
 ---
 
 Ante el aumento de contagios de COVID-19 y que Chihuahua se encuentra en primer lugar nacional en transmisión, el secretario de Salud, Eduardo Fernández Herrera, dirigió un mensaje a las y los candidatos, así como a sus equipos de trabajo y personas que acuden a los mítines, para que respeten las medidas establecidas en el semáforo naranja.

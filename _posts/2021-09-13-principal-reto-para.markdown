@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto pese a ser un municipio tranquilo."
-image: /uploads/2021/images-MIRIAM.jpg
-video: /uploads/2021/videos-ML05_MIRIAM_SOTO.mp4
-audio: nil
-alt: Principal reto para Meoqui salud y seguridad
+image: "/uploads/2021/images-MIRIAM.jpg"
+video: "/uploads/2021/videos-ML05_MIRIAM_SOTO.mp4"
+audio: "nil"
+alt: "Principal reto para Meoqui salud y seguridad"
 front: false
-section: Local
+section: "Local"
+news_id: 187682
 ---
 
 El mantener la seguridad y el continuar con las acciones de salud son los principales puntos que tiene pendiente la administración del municipio de Meoqui, según lo manifestó la Alcaldesa de aquel municipio Miriam Soto Ornelas.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Carmen Salina contó el terrible momento que vivió en su familia tras enterarse que su sobrina fue víctima de abuso cuando era niña por parte de su propio tío; la actriz pide que no se deje a las niñas con los tíos, pero menos con los abuelos. "
-image: /uploads/2021/images-carmen.jpg
-video: nil
-audio: nil
-alt: Es pecado -  Carmen Salinas revela que su sobrina fue víctima de abuso sexual; la violó su tío
+image: "/uploads/2021/images-carmen.jpg"
+video: "nil"
+audio: "nil"
+alt: "Es pecado -  Carmen Salinas revela que su sobrina fue víctima de abuso sexual; la violó su tío"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183924
 ---
 
 Carmen Salinas, famosa actriz, rompió el silencio sobre las agresiones sexuales que viven las mujeres –muchas veces– dentro del círculo familiar. En medio de la polémica que envuelve a Frida Sofía, quien acusó a su abuelo Enrique Guzmán de abuso cuando era una niña, la actriz reveló que una integrante de su familia, su sobrina, también vivió abuso sexual cuando tenía cinco años. 

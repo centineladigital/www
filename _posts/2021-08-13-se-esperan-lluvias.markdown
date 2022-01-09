@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se esperan lluvias intermitentes para este fin de semana, por ello es importante continuar acatando las recomendaciones, a fin de prevenir incidentes"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Se esperan lluvias intermitentes para este fin de semana en la ciudad
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Se esperan lluvias intermitentes para este fin de semana en la ciudad"
 front: false
-section: Local
+section: "Local"
+news_id: 186660
 ---
 
 La Coordinación Municipal de Protección Civil informó que de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional, se esperan lluvias intermitentes para este fin de semana, por ello es importante continuar acatando las recomendaciones, a fin de prevenir incidentes. 

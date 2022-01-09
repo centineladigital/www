@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El fenómeno entra con temperaturas gélidas para la mayoría del territorio estatal, y este jueves provocará una mínima de 0°C para la ciudad de Chihuahua, -2°C en Juárez y -3°C en Cuauhtémoc; Madera y Temósachic llegarán a -7°C y -8°C, respectivamente"
-image: /uploads/2021/images-clima.jpeg
-video: nil
-audio: nil
-alt: Trae frente frío 25 bajas temperaturas para el fin de semana
+image: "/uploads/2021/images-clima.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Trae frente frío 25 bajas temperaturas para el fin de semana"
 front: false
-section: Local
+section: "Local"
+news_id: 181903
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que a partir de este fin de semana comenzarán a bajar las temperaturas, debido al ingreso del frente frío número 25 a la entidad.

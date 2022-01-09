@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La película está disponible desde el 15 de septiembre en la plataforma Vimeo."
-image: /uploads/2021/images-la-nueva-pelicula-de-harry.jpg
-video: nil
-audio: nil
-alt: Estrenan nueva película de Harry Potter 'The House of Gaunt' hecha por fans y redes sociales 'enloquecen'; así la puedes ver gratis
+image: "/uploads/2021/images-la-nueva-pelicula-de-harry.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estrenan nueva película de Harry Potter 'The House of Gaunt' hecha por fans y redes sociales 'enloquecen'; así la puedes ver gratis"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187834
 ---
 
 Los fanáticos de Harry Potter llevan años esperando el gran estreno de The House of Gaunt, la nueva película de la saga hecha por fans y que narrará los origenes de Voldemort, y por fin la espera terminó. Te decimos cómo podrás verla completamente gratis y todo lo que tienes que saber de esta cinta dirigida por Joris Faucon Grimaud. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La secretaria de Salud de Colima, Leticia Delgado Carrillo, señaló que derivado de la investigación epidemiológica y seguimiento de casos, se asegura que ninguno se originó dentro del plantel educativo. "
-image: /uploads/2021/images-padres-familia-hijos-realizan-limpieza_0_52_1200_746.jpeg
-video: nil
-audio: nil
-alt: En Colima, 12 alumnos y 22 maestros han dado positivo a covid-19 tras regreso a clases
+image: "/uploads/2021/images-padres-familia-hijos-realizan-limpieza_0_52_1200_746.jpeg"
+video: "nil"
+audio: "nil"
+alt: "En Colima, 12 alumnos y 22 maestros han dado positivo a covid-19 tras regreso a clases"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187609
 ---
 
 La secretaria de Salud del estado de Colima, Leticia Delgado Carrillo, confirmó que 12 alumnos y 22 maestros han dado positivo a covid-19 en planteles escolares, desde el regreso a clases presenciales.  

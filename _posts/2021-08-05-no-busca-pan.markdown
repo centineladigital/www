@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Irán por tres etapas la expulsión de personas que apoyaron a otros partidos dentro de la contienda."
-image: /uploads/2021/images-JQ1.jpg
-video: nil
-audio: /uploads/2021/audio-MJ04_JOOB_FLORES.mp4
-alt: No busca PAN expulsión de Corral -  Flores Silva
+image: "/uploads/2021/images-JQ1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ04_JOOB_FLORES.mp4"
+alt: "No busca PAN expulsión de Corral -  Flores Silva"
 front: false
-section: Local
+section: "Local"
+news_id: 186357
 ---
 
 Tras anunciarse que se buscará la expulsión de panistas por parte del Comité Directivo Municipal del PAN en Ciudad Juárez, dentro de esta lista no se encuentra el Gobernador Javier Corral Jurado, según lo dio a conocer el dirigente municipal albiazul Joob Quintín Flores Silva.

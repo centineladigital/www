@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Representantes de distintos municipios dan testimonio del alcance de la obra carretera, hospitalaria, hidráulica, deportiva, educativa y de conectividad, que mejora su calidad de vida"
-image: /uploads/2021/images-Screenshot_2021-02-04_(8)_Facebook(2).png
-video: nil
-audio: nil
-alt: Obras estatales de infraestructura  transforman sus vidas y sus comunidades
+image: "/uploads/2021/images-Screenshot_2021-02-04_(8)_Facebook(2).png"
+video: "nil"
+audio: "nil"
+alt: "Obras estatales de infraestructura  transforman sus vidas y sus comunidades"
 front: false
-section: Local
+section: "Local"
+news_id: 182723
 ---
 
 Al dotar a las regiones y comunidades de todo el estado de más y mejor infraestructura carretera, hospitalaria, hidráulica, deportiva, de transporte, educativa y de conectividad, se contribuye a elevar la calidad de vida de la sociedad en general, motivo por el cual personas beneficiarias dan testimonio y agradecen los compromisos cumplidos.

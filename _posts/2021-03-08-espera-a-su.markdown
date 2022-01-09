@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Espera a su primer hijo? Kuno Becker anunció que será papá "
-image: /uploads/2021/images-espera-hijo-kuno-becker-anuncio-1.jpg
-video: nil
-audio: nil
-alt: ¿Espera a su primer hijo? Kuno Becker anunció que será papá
+image: "/uploads/2021/images-espera-hijo-kuno-becker-anuncio-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Espera a su primer hijo? Kuno Becker anunció que será papá"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183346
 ---
 
 Este fin de semana, el actor Kuno Becker reveló a través de sus redes sociales que muy pronto se convertirá en papá, noticia de la que se enteró hace apenas dos días, y que lo tiene muy emocionado y feliz. "Quiero decirles a ustedes que voy a ser papá y trataré de pasarle los mejores valores. No se jugar bien fútbol, o sea que eso no lo podré hacer con él, pero si lo enseñaré a alcanzar sus objetivos y a cuidar la lana, eso si”, escribió en Twitter. 

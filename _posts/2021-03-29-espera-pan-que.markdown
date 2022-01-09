@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Estarán vigilantes a cómo se lleva a cabo las acciones en la campaña de vacunación."
-image: /uploads/2021/images-PACO.jpg
-video: nil
-audio: /uploads/2021/audio-ML03_FRANCISCO_NAVARRO.mp3
-alt: Espera PAN que lleguen todas las vacunas
+image: "/uploads/2021/images-PACO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML03_FRANCISCO_NAVARRO.mp3"
+alt: "Espera PAN que lleguen todas las vacunas"
 front: false
-section: Local
+section: "Local"
+news_id: 183600
 ---
 
 El Partido Acción Nacional espera que lleguen todas las vacunas que se aplicarán en la ciudad de Chihuahua, según lo declaró el dirigente del Partido Acción Nacional dentro del municipio de Chihuahua, Francisco Navarro Pastrana.

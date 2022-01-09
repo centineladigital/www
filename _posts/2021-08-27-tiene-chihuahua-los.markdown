@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "“Por el acuerdo que tenemos con la Secretaría de Salud federal, la próxima semana lo más probable es que el estado ya se vaya a verde, totalmente”, anuncia  "
-image: /uploads/2021/images-Gobernador_Javier_Corral.jpeg
-video: nil
-audio: nil
-alt: Tiene Chihuahua los indicadores de riesgo COVID-19 más bajo en el país
+image: "/uploads/2021/images-Gobernador_Javier_Corral.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Tiene Chihuahua los indicadores de riesgo COVID-19 más bajo en el país"
 front: false
-section: Local
+section: "Local"
+news_id: 187195
 ---
 
 Chihuahua ha sido clasificado como el estado con la puntuación más baja en el semáforo de riesgo COVID-19 a nivel nacional, informó el gobernador Javier Corral Jurado, y reiteró que hay condiciones adecuadas para el regreso escalonado presencial a las aulas.

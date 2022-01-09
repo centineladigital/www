@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantautor continúa presentando las composiciones que forman parte del disco que estrenará en abril y reflejan el aprendizaje que ha tenido durante la pandemia "
-image: /uploads/2021/images-joss-favela-estrena-sencillo-produccion_0_51_1200_747.jpeg
-video: nil
-audio: nil
-alt: Joss Favela estrena el tema “Alguien especial” de su nuevo disco “Llegando al rancho”
+image: "/uploads/2021/images-joss-favela-estrena-sencillo-produccion_0_51_1200_747.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Joss Favela estrena el tema “Alguien especial” de su nuevo disco “Llegando al rancho”"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183320
 ---
 
 Joss Favela, multipremiado cantautor y orgulloso exponente del regional mexicano, sigue presentando sus nuevas interpretaciones, las cuales dan forma a su disco “Llegando al rancho”, ahora toca el turno a “Alguien especial”, una canción con la que dice acompaña a los corazones rotos, a través del videoclip que está lanzando y realizó en el desierto de Nuevo León, en la famosa Ex Hacienda del Muerto. “Esta canción es con la que quería empezar la presentación del disco. Ahora me tiene expectante, quiero ver si me equivoqué o no me equivoqué. Hay que hablar antes y esa canción, para mí, es algo importante”, declaró Joss Favela. 

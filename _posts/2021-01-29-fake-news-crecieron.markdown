@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los contenidos engañosos de fuentes que se hacían pasar por medios de comunicación crecieron en las plataformas sociales Twitter y Facebook el pasado año"
-image: /uploads/2021/images-2520613.jpg
-video: nil
-audio: nil
-alt: Fake news crecieron en Twitter y Facebook pese a nuevas medidas
+image: "/uploads/2021/images-2520613.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fake news crecieron en Twitter y Facebook pese a nuevas medidas"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182569
 ---
 
 Los contenidos engañosos de fuentes que se hacían pasar por medios de comunicación crecieron en las plataformas sociales Twitter y Facebook el pasado año en Estados Unidos, pese a las medidas implementadas por las dos compañías para evitar su proliferación.

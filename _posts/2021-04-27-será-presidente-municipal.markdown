@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El integrante del reality decía ser un humilde joven de campo y en realidad era modelo. "
-image: /uploads/2021/images-paolo-botti-ha-cambiado-mucho_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¿Será presidente municipal? Qué fue de Paolo Botti, el polémico alumno de 'La Academia'
+image: "/uploads/2021/images-paolo-botti-ha-cambiado-mucho_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Será presidente municipal? Qué fue de Paolo Botti, el polémico alumno de 'La Academia'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184129
 ---
 
 La Academia ha dado grandes talentos a la música y el espectáculo mexicanos a lo largo de sus casi 20 años de existencia; sin embargo, no todas las carreras de sus alumnos han sido exitosas, tal es el caso del ex alumno de la sexta generación Paolo Botti, quien ha sido uno de los integrantes más polémicos del reality. Aquí te mostramos qué ha sido de Luis Armando desde que se alzara con el tercer lugar de la sexta emisión del concurso musical. No podrás creer cuánto ha cambiado desde entonces, pues ahora podría llegar a ser alcalde de su natal Paso de Ovejas, en Veracruz.

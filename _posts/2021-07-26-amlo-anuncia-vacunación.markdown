@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Presidente explicó que se aplicará la vacuna de Cansino, pues estos municipios son de los más alejados del país"
-image: /uploads/2021/images-en-mexico-continua-vacunacion-contra_0_143_1200_747.jpeg
-video: nil
-audio: nil
-alt: AMLO anuncia vacunación contra covid para mayores de 18 años en municipios de 5 estados
+image: "/uploads/2021/images-en-mexico-continua-vacunacion-contra_0_143_1200_747.jpeg"
+video: "nil"
+audio: "nil"
+alt: "AMLO anuncia vacunación contra covid para mayores de 18 años en municipios de 5 estados"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185981
 ---
 
 El presidente Andrés Manuel López Obrador anunció que el gobierno federal aplicará vacunación universal contra covid-19 para mayores de 18 años en alrededor de 800 municipios de Veracruz, Oaxaca, Guerrero, Chiapas y Puebla.

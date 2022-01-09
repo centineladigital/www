@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Lamentablemente no fue un buen fin de semana, hubo afectaciones y lo que duele más, pérdida de vidas, expresó el presidente Andrés Manuel López Obrador"
-image: /uploads/2021/images-incendio-plataforma-ku-alfa-campeche_0_0_958_595.jpg
-video: nil
-audio: nil
-alt: Murió un trabajador de Pemex por incendio en plataforma de Campeche
+image: "/uploads/2021/images-incendio-plataforma-ku-alfa-campeche_0_0_958_595.jpg"
+video: "nil"
+audio: "nil"
+alt: "Murió un trabajador de Pemex por incendio en plataforma de Campeche"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186986
 ---
 
 Un trabajador de Petróleos Mexicanos (Pemex) murió por el incendio en la plataforma E-Ku A2 del Centro de Proceso Ku-A, en la Sonda de Campeche, registrado ayer por la tarde, el cual dejó tres trabajadores de la petrolera lesionados y tres heridos de la empresa Cotemar, además de diversos desaparecidos.

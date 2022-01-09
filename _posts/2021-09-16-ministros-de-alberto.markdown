@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Al menos cinco ministro, entre ellos el de Interior Wado de Pedro, presentaron su renuncia tras la derrota del oficialismo en las elecciones primarias en Argentina. "
-image: /uploads/2021/images-presidente-alberto-fernandez-ministro-interior_0_30_1200_747.jpg
-video: nil
-audio: nil
-alt: Ministros de Alberto Fernández disponen su renuncia tras derrota electoral en Argentina
+image: "/uploads/2021/images-presidente-alberto-fernandez-ministro-interior_0_30_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ministros de Alberto Fernández disponen su renuncia tras derrota electoral en Argentina"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187784
 ---
 
 Al menos cinco ministro, entre ellos el de Interior Wado de Pedro, presentaron su renuncia tras la derrota del oficialismo en las elecciones primarias en Argentina. 

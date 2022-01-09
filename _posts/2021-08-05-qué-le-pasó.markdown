@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor publicó una fotografía en la que aparece con una intravenosa en un hospital; así reaccionó Biby Gaytán. "
-image: /uploads/2021/images-eduardo-capetillo-publica-foto-hospital_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¿Qué le pasó? Eduardo Capetillo preocupa a sus seguidores por foto en un hospital
+image: "/uploads/2021/images-eduardo-capetillo-publica-foto-hospital_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Qué le pasó? Eduardo Capetillo preocupa a sus seguidores por foto en un hospital"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186336
 ---
 
 Eduardo Capetillo está retomando su carrera actoral con la telenovela Donde hubo fuego, producción de Netflix, tras años de haberse alejado de la pantalla chica. En medio del anuncio de su regreso a la televisión, el actor preocupó a sus seguidores tras compartir una fotografía en la que aparece internado en un hospital.  

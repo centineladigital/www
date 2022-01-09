@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este es el primer sencillo que formará parte del tan esperado segundo álbum de la cantante, quien es de las más nominadas en los Premios Lo Nuestro 2021. "
-image: /uploads/2021/images-natti-natasha-y-prince-royce_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Natti Natasha y Prince Royce encienden las redes con su nuevo video musical
+image: "/uploads/2021/images-natti-natasha-y-prince-royce_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Natti Natasha y Prince Royce encienden las redes con su nuevo video musical"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182185
 ---
 
 Con un tema compuesto por Natti Natasha y Prince Royce, el tan esperado video de "Antes que Salga el Sol" ha causado furor en redes sociales, pues además del peajoso ritmo de la canción, los artistas protagonizan la historia de deseo entre dos amantes, ganando miles de likes y casi dos millones de reproducciones en su primer hora de lanzamiento. 

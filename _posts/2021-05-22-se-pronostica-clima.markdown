@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Protección Civil pide tomar precauciones por tolvaneras en los tramos carreteros Juárez-Janos, Jiménez-Parral, y Jiménez a Camargo"
-image: /uploads/2021/images-282247pronosticamesta.jpg
-video: nil
-audio: nil
-alt: Se pronostica clima caluroso y lluvias para sábado y domingo
+image: "/uploads/2021/images-282247pronosticamesta.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se pronostica clima caluroso y lluvias para sábado y domingo"
 front: false
-section: Local
+section: "Local"
+news_id: 184608
 ---
 
 La Coordinación Estatal de Protección Civil pidió a la población tomar precauciones frente a rachas de viento en el estado, que podrían rebasar los 65 kilómetros por hora (km/h) y ocasionar tolvaneras en tramos carreteros.

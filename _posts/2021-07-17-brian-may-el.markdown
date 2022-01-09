@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El guitarrista, astrofísico y activista regresa con una versión Back to the Light, su primer álbum como solista. "
-image: /uploads/2021/images-bryan-may-regresa-con-un.jpg
-video: nil
-audio: nil
-alt: Brian May, el guitarrista de Queen regresa con más luz
+image: "/uploads/2021/images-bryan-may-regresa-con-un.jpg"
+video: "nil"
+audio: "nil"
+alt: "Brian May, el guitarrista de Queen regresa con más luz"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185759
 ---
 
 Brian May es considerado por muchos la mente más completa en el mundo de la música, ya que nunca se ha limitado solo a ser el guitarrista y compositor de Queen, una de las bandas más importantes de todos los tiempos. Ahora, con la reedición de su álbum casi 30 años después de su lanzamiento, deslumbra con su propia luz y la intensidad de su conocimiento sobre el universo contrastándolo con sus emociones. Platicamos con él y nos abrió su corazón. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Recuperan edificio histórico."
-image: /uploads/2021/images-concha.jpg
-video: /uploads/2021/videos-MM05_CONCEPCIÓN_LANDA.mp4
-audio: nil
-alt: Inauguran biblioteca en Ciudad Juárez
+image: "/uploads/2021/images-concha.jpg"
+video: "/uploads/2021/videos-MM05_CONCEPCIÓN_LANDA.mp4"
+audio: "nil"
+alt: "Inauguran biblioteca en Ciudad Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 187520
 ---
 
 Con una inversión de 30 millones de pesos este martes se hizo la apertura de forma oficial de la Gobernador Biblioteca Regional El Correo “Miguel Ángel Granados Chapa” en Juárez, con lo que también se logró recuperar el edificio postal de Ciudad Juárez, icónico para el municipio.

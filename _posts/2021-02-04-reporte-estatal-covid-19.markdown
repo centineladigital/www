@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Mueren 19 y se confirman 182 casos en el estado en las últimas 24 horas"
-image: /uploads/2021/images-Informe_tecnico_03_febrero_page-0002.jpg
-video: nil
-audio: nil
-alt: Reporte estatal COVID-19 -  fallecimientos 4,714 y casos confirmados 50,966
+image: "/uploads/2021/images-Informe_tecnico_03_febrero_page-0002.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reporte estatal COVID-19 -  fallecimientos 4,714 y casos confirmados 50,966"
 front: false
-section: Local
+section: "Local"
+news_id: 182695
 ---
 
 Diecinueve chihuahuenses fallecieron y se confirmaron 182 casos por COVID-19 en las últimas 24 horas, según el reporte de la Secretaría de Salud.

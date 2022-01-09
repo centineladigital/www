@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Existe un mito sobre el origen de la canción Hey güera, el cual menciona que Alejandra Guzmán se lo dedicó a Paulina Rubio. Guzmán resolvió la incógnita. "
-image: /uploads/2021/images-cantantes-estuvieron-enamoradas-erik-rubin.jpg
-video: nil
-audio: nil
-alt: ¿Por Erik Rubín? Alejandra Guzmán revela la razón por la que le dedicó 'Hey güera' a Paulina Rubio
+image: "/uploads/2021/images-cantantes-estuvieron-enamoradas-erik-rubin.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Por Erik Rubín? Alejandra Guzmán revela la razón por la que le dedicó 'Hey güera' a Paulina Rubio"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182646
 ---
 
 Hace varios años surgió el rumor que entre Paulina Rubio y Alejandra Guzmán existía una enemistad y no precisamente por quien de las dos era más talentosa o con más éxito, sino que todo se originó por un triángulo amoroso en el que estaba involucrado el ahora esposo de Andrea Legarreta, Erik Rubín. 

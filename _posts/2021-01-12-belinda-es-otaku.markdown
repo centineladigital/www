@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Belinda ha develado su gusto por universos del mundo otaku como One Piece, Death Note y Pokémon, por lo que ya levanta sospechas en redes sociales de ser otaku. "
-image: /uploads/2021/images-usuarios-redes-sociales-creen-belinda.jpg
-video: nil
-audio: nil
-alt: ¿Belinda es otaku?; esto dicen los 'belifans' en redes sociales
+image: "/uploads/2021/images-usuarios-redes-sociales-creen-belinda.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Belinda es otaku?; esto dicen los 'belifans' en redes sociales"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182063
 ---
 
 Belinda y Christian Nodal son, sin lugar a dudas, una de las parejas más famosas de hoy en día en México. Ambos cantantes han establecido una relación donde no importa la diferencia de edad ni el 'qué dirán', y lo dejaron claro este 11 de enero, durante el cumpleaños de Nodal, donde 'Beli' lo sorprendió con pasteles de los animes One Piece y Death Note, los que afirma, son los favoritos de ambos. 

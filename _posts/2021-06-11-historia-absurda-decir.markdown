@@ -3,19 +3,20 @@ layout: post
 title: "'Historia absurda' decir que covid salió de laboratorio -  Máximo diplomático chino"
 date: 2021-06-11T15:54:00.000-06:00
 tags:
-
+  
   - Covid. Laboratorio
-
+  
   - china
-
+  
 author: nil
 description: "El diplomático dijo que Pekín se opone firmemente a lo que calificó como ‘acciones abominables’ sobre la pandemia, sostuvo que eso se está utilizando para difamar a China"
-image: /uploads/2021/images-2593434.jpg
-video: nil
-audio: nil
-alt: Historia absurda decir que covid salió de laboratorio Máximo diplomático chino
+image: "/uploads/2021/images-2593434.jpg"
+video: "nil"
+audio: "nil"
+alt: "'Historia absurda' decir que covid salió de laboratorio -  Máximo diplomático chino"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184983
 ---
 
 El principal diplomático de China, Yang Jiechi, expresó al secretario de Estado, Antony Blinken, la seria preocupación de Pekín de que algunas personas en Estados Unidos estén difundiendo la "historia absurda" de que el coronavirus salió de un laboratorio de Wuhan.

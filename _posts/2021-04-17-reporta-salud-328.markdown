@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A la fecha suman 61 mil 822 casos y 6 mil 065 defunciones; las últimas muertes se confirmaron en: Juárez, Chihuahua, Cuauhtémoc, Camargo, Nuevo Casas Grandes, Parral, Delicias, Meoqui, Guerrero, Guachochi, Ojinaga, Aldama, Bachíniva y Nonoava"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporta Salud 328 nuevos contagios y 45 decesos por COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporta Salud 328 nuevos contagios y 45 decesos por COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 183943
 ---
 
 La Secretaría de Salud informó que el último reporte epidemiológico de COVID-19 aumentó en 328 contagios  y 45 defunciones, por lo que el total general de casos positivos en el estado de Chihuahua es de 61 mil 822 y 6 mil 065 decesos.

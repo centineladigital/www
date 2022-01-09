@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los actores Mario Lopez y Tiffani Thiessen lamentaron el fallecimiento de Dustin Diamond. "
-image: /uploads/2021/images-elenco-salvados-campana-lamentan-muerte_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: La vida es frágil -  Elenco de 'Salvados por la campana' tras muerte de Dustin Diamond
+image: "/uploads/2021/images-elenco-salvados-campana-lamentan-muerte_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "La vida es frágil -  Elenco de 'Salvados por la campana' tras muerte de Dustin Diamond"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182626
 ---
 
 El mundo del entretenimiento está de luto: Dustin Diamond, conocido por interpretar a Screech en Salvados por la campana, falleció este lunes a los 44 años de edad debido al cáncer terminal que padecía. Tras darse a conocer el fallecimiento, el elenco de la popular serie de televisión dedicaron unas emotivas palabras al actor y mandaron sus condolencias a su familia. 

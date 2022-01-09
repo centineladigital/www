@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La persona de aproximadamente 20 años fue localizada en el kilómetro 105 de la carretera de Ojinaga - Las Bombas; inicialmente fue referida del Hospital Integral de Ojinaga"
-image: /uploads/2021/images-Paciente_ralámuli_Hospital_General_Chihuahua.jpeg
-video: nil
-audio: nil
-alt: Se solicita apoyo para localizar a familiares de paciente ralámuli internada en Hospital General de Chihuahua
+image: "/uploads/2021/images-Paciente_ralámuli_Hospital_General_Chihuahua.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Se solicita apoyo para localizar a familiares de paciente ralámuli internada en Hospital General de Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 186507
 ---
 
 La Secretaría de Salud solicita el apoyo de la ciudadanía para localizar a familiares de una mujer de origen ralámuli que aún no ha podido ser identificada y quien actualmente está internada en el Hospital General “Salvador Zubirán Anchondo”.

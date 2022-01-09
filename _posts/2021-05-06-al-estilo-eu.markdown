@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La película de 2013 dirigida y coescrita por Gaz Alazraki sigue a tres jóvenes superficiales y a su padre millonario que finge estar en bancarrota para darles una lección."
-image: /uploads/2021/images-peliculas-nobles-copia-descarada-cine_0_17_1000_622.jpeg
-video: nil
-audio: nil
-alt: ¡Al estilo EU! 'Nosotros los nobles' será adaptado al inglés
+image: "/uploads/2021/images-peliculas-nobles-copia-descarada-cine_0_17_1000_622.jpeg"
+video: "nil"
+audio: "nil"
+alt: "¡Al estilo EU! 'Nosotros los nobles' será adaptado al inglés"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184312
 ---
 
 ¡Como olvidar a nuestro mirrey favorito, Javi Noble! Pues al parecer podríamos seguirlo viendo, pero ahora en su versión estadunidense, pues la comedia mexicana Nosotros Los Nobles será adaptada a un largometraje en inglés en Netflix por los productores Chris Columbus, Michael Barnathan y Mark Radcliffe para 26th Street Pictures como parte de su acuerdo general con la plataforma de streaming. La película de 2013 dirigida y coescrita por Gaz Alazraki sigue a tres jóvenes superficiales y a su padre millonario que finge estar en bancarrota para darles una lección y los obliga a hacer lo impensable: conseguir un trabajo. 

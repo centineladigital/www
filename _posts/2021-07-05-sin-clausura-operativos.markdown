@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Solamente se llevó a cabo un citatorio."
-image: /uploads/2021/images-KOMABA.jpg
-video: nil
-audio: /uploads/2021/audio-ML03.mp3
-alt: Sin clausura operativos anticovid de fin de semana
+image: "/uploads/2021/images-KOMABA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML03.mp3"
+alt: "Sin clausura operativos anticovid de fin de semana"
 front: false
-section: Local
+section: "Local"
+news_id: 185383
 ---
 
 Saldo blanco dejó el operativo de inspectores de la Subdirección de Gobernación ya que no se detectaron irregularidades en las revisiones que se llevan a cabo por parte de inspectores de la Subdirección de Gobernación y elementos de la Dirección de Seguridad Pública.

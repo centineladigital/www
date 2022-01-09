@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Después de dos años de ausencia, a causa de la pandemia de Covid-19, la NFL ya trabaja en el regreso a México para 2022"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: La NFL quiere regresar a México con un equipo muy popular
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "La NFL quiere regresar a México con un equipo muy popular"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187705
 ---
 
 Después de dos años de ausencia, a causa de la pandemia de Covid-19, la NFL ya trabaja en el regreso a México para 2022, si las condiciones sanitarias lo permiten, y le agradaría hacerlo con un equipo que tenga alto poder de convocatoria dentro del país.

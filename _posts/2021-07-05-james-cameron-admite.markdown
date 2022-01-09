@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En entrevista, el director de cine, James Cameron, admitió crear a John Connor bajo efectos de drogas. "
-image: /uploads/2021/images-james-cameron-historia-creacion-john.jpg
-video: nil
-audio: nil
-alt: James Cameron admite haber estado drogado cuando creó a John Connor de 'Terminator 2'
+image: "/uploads/2021/images-james-cameron-historia-creacion-john.jpg"
+video: "nil"
+audio: "nil"
+alt: "James Cameron admite haber estado drogado cuando creó a John Connor de 'Terminator 2'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185377
 ---
 
 El 1 de julio de 1991 se lanzó Terminator 2: el juicio final, una película que secundaría el gran fenómeno de la primera película creada por James Cameron y protagonizada por los actor es Arnold Schwarzenegger y Linda Hamilton.

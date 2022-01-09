@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma Secretario de Salud que sintomas son psicológicos."
-image: /uploads/2021/images-EDUARDO.jpg
-video: /uploads/2021/videos-MV02_EDUARDO_FERNANDEZ.mp4
-audio: nil
-alt: Menos del uno por ciento presentaron reacciones
+image: "/uploads/2021/images-EDUARDO.jpg"
+video: "/uploads/2021/videos-MV02_EDUARDO_FERNANDEZ.mp4"
+audio: "nil"
+alt: "Menos del uno por ciento presentaron reacciones"
 front: false
-section: Local
+section: "Local"
+news_id: 185958
 ---
 
 Menos del uno por ciento de la población que fue vacunada con AstraZeneca presentaron algún tipo de reacción, afirmó el titular de la Secretaría de Salud estatal, Eduardo Fernández Herrera. El funcionario destacó que dentro de las estadísticas de personas que han sido atendidas dentro de los hospitales estatales, así como los pertenecientes al IMSS no se tienen registros de casos graves de secuelas de la vacuna.

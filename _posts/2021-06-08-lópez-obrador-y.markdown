@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El mandatario de México y la vicepresidenta de EU signan en Palacio Nacional memorándum de entendimiento; se reúnen para abordar la atención a problemática migratoria"
-image: /uploads/2021/images-2591558.jpg
-video: nil
-audio: nil
-alt: López Obrador y Kamala Harris, testigos de memorándum entre México y EU
+image: "/uploads/2021/images-2591558.jpg"
+video: "nil"
+audio: "nil"
+alt: "López Obrador y Kamala Harris, testigos de memorándum entre México y EU"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184916
 ---
 
 El presidente Andrés Manuel López Obrador y la vicepresidenta de Estados Unidos, Kamala Harris, firmaron en Palacio Nacional el Memorándum de entendimiento sobre la cooperación internacional entre los gobiernos de México y Estados Unidos.

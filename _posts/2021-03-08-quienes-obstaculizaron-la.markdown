@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el Antiguo Palacio del Ayuntamiento, la jefa de Gobierno presentó la Estrategia Mujeres SOS: Red de Mujeres en Alerta por ti"
-image: /uploads/2021/images-2541315.jpg
-video: nil
-audio: nil
-alt: Quienes obstaculizaron la democracia, no están con las mujeres -  Sheinbaum
+image: "/uploads/2021/images-2541315.jpg"
+video: "nil"
+audio: "nil"
+alt: "Quienes obstaculizaron la democracia, no están con las mujeres -  Sheinbaum"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183337
 ---
 
 Los que se opusieron al desarrollo de la democracia y optaron por la guerra como solución a los problemas del país "no están con los derechos de las mujeres", afirmó la jefa de gobierno, Claudia Sheinbaum, en el Día Internacional de la Mujer.

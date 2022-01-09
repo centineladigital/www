@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Detectan 36 caso, la mayoría de esta en Chihuahua."
-image: /uploads/2021/images-WENDY.jpg
-video: /uploads/2021/videos-MJ01_WENDY_AVILA.mp4
-audio: nil
-alt: Mueren 10 personas en Chihuahua por rickettsia
+image: "/uploads/2021/images-WENDY.jpg"
+video: "/uploads/2021/videos-MJ01_WENDY_AVILA.mp4"
+audio: "nil"
+alt: "Mueren 10 personas en Chihuahua por rickettsia"
 front: false
-section: Local
+section: "Local"
+news_id: 187166
 ---
 
 En lo que va del año 10 personas han muerto por rickettsia y 36 han sido contagiados, según fue dado a conocer por parte de la subdirectora de Medicina Preventiva, Wendy Ávila Coronado. Esta enfermedad se produce por la picadura de una garrapata, por lo que exhortó a la población a extremar precauciones en el cuidado de las mascotas.

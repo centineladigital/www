@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Anuncian López Obrador y Ebrard Casaubon que ese día se informará de características y disposiciones de dosis; platica México con farmacéuticas para Fase 3 de vacunas para niños"
-image: /uploads/2021/images-2545838.jpg
-video: nil
-audio: nil
-alt: El viernes EU dará respuesta a México sobre vacunas
+image: "/uploads/2021/images-2545838.jpg"
+video: "nil"
+audio: "nil"
+alt: "El viernes EU dará respuesta a México sobre vacunas"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183430
 ---
 
 El presidente Andrés Manuel López Obrador reveló que el próximo viernes el gobierno de Estados Unidos estará en condiciones de informar el número de vacunas, procedentes de esa nación, que podrán ser adquiridas por nuestro país.

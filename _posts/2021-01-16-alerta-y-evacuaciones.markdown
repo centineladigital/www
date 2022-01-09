@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un incendio forestal fuera de control amenaza viviendas en la ciudad de Perth, obligando a las autoridades a ordenar la evacuación de residentes ante la proximidad de las llamas"
-image: /uploads/2021/images-2512834.jpg
-video: nil
-audio: nil
-alt: Alerta y evacuaciones en Australia por incendio fuera de control
+image: "/uploads/2021/images-2512834.jpg"
+video: "nil"
+audio: "nil"
+alt: "Alerta y evacuaciones en Australia por incendio fuera de control"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182197
 ---
 
 Los bomberos australianos indicaron este sábado que seguían luchando contra un incendio forestal fuera de control que amenaza viviendas en la ciudad de Perth, en la costa oeste del país.

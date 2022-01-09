@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Desinfectan en minutos una facultad, se están llevando a cabo procesos cada 21 días."
-image: /uploads/2021/images-UACH.jpeg
-video: nil
-audio: /uploads/2021/audio-MW05_DAMIAN_PORRAS.mp3
-alt: Sanitiza UACH con tecnología de quinta generación 
+image: "/uploads/2021/images-UACH.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MW05_DAMIAN_PORRAS.mp3"
+alt: "Sanitiza UACH con tecnología de quinta generación "
 front: false
-section: Local
+section: "Local"
+news_id: 182307
 ---
 
 Un equipo que desinfecta en minutos áreas grandes fue adquirido por parte de la Facultad de Ciencias Agrotecnológicas, el cual se pone también a la disposición de la comunidad chihuahuense, según lo expresó Damián Porras, director de esta área de la Universidad Autónoma de Chihuahua.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz ha estado envuelta en el centro de la polémica con su esposo en la cárcel y sus peleas con Leticia Calderón. "
-image: /uploads/2021/images-yadhira-carrillo-oportunidad-ocasiones-hollywood_(1).jpg
-video: nil
-audio: nil
-alt: Naces o no naces con elegancia -  Así fue el día que Yadhira Carrillo confesó que le gustaría ir de compras a Tepito
+image: "/uploads/2021/images-yadhira-carrillo-oportunidad-ocasiones-hollywood_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Naces o no naces con elegancia -  Así fue el día que Yadhira Carrillo confesó que le gustaría ir de compras a Tepito"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187419
 ---
 
 A pesar de atravesar por momentos difíciles después de que su esposo, Juan Collado fuera encarcelado, Yadhira Carrillo trata de mantenerse optimista y ha buscado la forma para continuar con su labor de rescatar perros en situación de calle y concientizar sobre el maltrato animal, pero también se ha envuelto en polémica por varias declaraciones hechas en los últimos años, comosus peleas con Leticia Calderón y por la vez que dijo que quería ir a Tepito de compras.

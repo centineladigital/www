@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Ministerio de Salud de Sudáfrica suspende sus planes de vacunación con las dosis de AstraZeneca debido a que brinda una protección 'limitada' contra la variante detectada en el país"
-image: /uploads/2021/images-2525812.jpg
-video: nil
-audio: nil
-alt: Sudáfrica suspende aplicación de vacuna AstraZeneca
+image: "/uploads/2021/images-2525812.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sudáfrica suspende aplicación de vacuna AstraZeneca"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182769
 ---
 
 Sudáfrica suspendió sus planes de inocular a su personal médico de primera línea con la vacuna de Oxford-AstraZeneca después de que un pequeño estudio dejara entrever que es ineficaz para impedir la enfermedad leve o moderada de la variante que predomina en el país.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se implementó un operativo para cortar el pasto que comenzó a crecer en diversos camellones de avenidas y parques"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Trabaja Gobierno Municipal en limpieza y corte de hierba de espacios públicos tras lluvias
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Trabaja Gobierno Municipal en limpieza y corte de hierba de espacios públicos tras lluvias"
 front: false
-section: Local
+section: "Local"
+news_id: 186335
 ---
 
 El Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, trabaja en la limpieza y corte de hierba de las principales avenidas y de los espacios púbicos de la ciudad, tras las fuertes lluvias que se han venido registrando en las últimas semanas.  

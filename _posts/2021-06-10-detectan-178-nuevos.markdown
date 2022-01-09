@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se están manejando números bastante bajos."
-image: /uploads/2021/images-diapositiva3-362.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01.mp3
-alt: Detectan 178 nuevos casos
+image: "/uploads/2021/images-diapositiva3-362.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01.mp3"
+alt: "Detectan 178 nuevos casos"
 front: false
-section: Local
+section: "Local"
+news_id: 184973
 ---
 
 En las últimas 24 horas se detectaron 178 nuevos casos de personas contagiadas de coronavirus y 12 muertes fueron acreditados, señaló el titular de la Dirección Médica Zona Norte Arturo Valenzuela Zorrilla, quien dijo que afortunadamente se están manejando números bastante bajos, afirmando que si bien no se han eliminado el problema es positivo.

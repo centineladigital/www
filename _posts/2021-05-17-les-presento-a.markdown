@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Adrián Uribe se casó con la modelo en una íntima ceremonia por el civil que se llevó a cabo en un jardín. "
-image: /uploads/2021/images-drian-uribe-y-thuany-martins.jpg
-video: nil
-audio: nil
-alt: Les presento a mi esposa -  Adrián Uribe y Thuany Martins se casan; así fue la boda
+image: "/uploads/2021/images-drian-uribe-y-thuany-martins.jpg"
+video: "nil"
+audio: "nil"
+alt: "Les presento a mi esposa -  Adrián Uribe y Thuany Martins se casan; así fue la boda"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184508
 ---
 
 Este fin de semana las bodas de los famosos acapararon las cámaras, desde la unión matrimonial de Saúl El Canelo Álvarez y Fernanda Gómez hasta la de Alex Fernández -hijo de El Potrillo- con su prometida Alexia en Guadalajara. A estos personajes de la farándula también se sumó Adrián Uribe, quien se casó con la modelo brasileña Thuany Martins.  

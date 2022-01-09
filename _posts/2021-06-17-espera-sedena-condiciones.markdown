@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La aeronave se encuentra resguardada y está en posibilidades de que se active la nubosidad del ambiente."
-image: /uploads/2021/images-BOMABRDEO1.jpg
-video: nil
-audio: /uploads/2021/audio-MJ05_VICTOR_TORRES.mp3
-alt: Espera SEDENA condiciones propicias para bombardeo de nubes
+image: "/uploads/2021/images-BOMABRDEO1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ05_VICTOR_TORRES.mp3"
+alt: "Espera SEDENA condiciones propicias para bombardeo de nubes"
 front: false
-section: Local
+section: "Local"
+news_id: 185089
 ---
 
 Pudiera ser hasta el próximo domingo cuando se lleve a cabo el bombardeo de nubes en el estado, según lo dio a conocer Víctor Alfonso Torres Sánchez, el Teniente de Fuerza Aérea Piloto Aviador encargado de este operativo. El integrante de las fuerzas castrenses señaló que el aeronave se encuentra resguardada y está en posibilidades de que se active la nubosidad del ambiente.

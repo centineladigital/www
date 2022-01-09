@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El judoca Zurab Zviadauri y otro hombre no identificados fueron arrestados como los presuntos autores de un asesinato múltiple "
-image: /uploads/2021/images-zurab-zviadauri-campeon-olimpico-georgia_1_0_1198_747.jpg
-video: nil
-audio: nil
-alt: Detienen al primer campeón olímpico de Georgia como sospechoso de un asesinato
+image: "/uploads/2021/images-zurab-zviadauri-campeon-olimpico-georgia_1_0_1198_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Detienen al primer campeón olímpico de Georgia como sospechoso de un asesinato"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186759
 ---
 
 El primer campeón olímpico de Georgia como país independiente, el judoca Zurab Zviadauri, ha sido detenido como sospechoso de asesinato múltiple, informó este martes el Ministerio de Interior. 

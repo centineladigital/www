@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Vacacionistas en Acapulco señalaron que sintieron el movimiento telúrico que ocurrió a las 9:12 de la mañana de este sábado "
-image: /uploads/2021/images-2556389.jpg
-video: nil
-audio: nil
-alt: Se registra sismo en Guerrero, epicentro muy cerca de Acapulco
+image: "/uploads/2021/images-2556389.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se registra sismo en Guerrero, epicentro muy cerca de Acapulco"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183659
 ---
 
 La mañana de este sábado se registró un sismo leve en el estado de Guerrero, vacacionista que permanecen en Acapulco reportan que sí lo sintieron.

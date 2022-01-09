@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La mayoría de los municipios tendrán precipitaciones en ese lapso, aunque la mayor intensidad se prevé en Janos, Casas Grandes, Madera, Batopilas, Morelos, Guadalupe y Calvo, Ocampo, Uruachi, Temósachic y Moris; en Chihuahua se pronostica que sean de entre 5.1 y 25 mm de concentración"
-image: /uploads/2021/images-Lluvias_en_Chínipas_agosto_2021_(1).jpeg
-video: nil
-audio: nil
-alt: Emite Protección Civil aviso preventivo  por lluvias intensas en los siguientes 4 días
+image: "/uploads/2021/images-Lluvias_en_Chínipas_agosto_2021_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Emite Protección Civil aviso preventivo  por lluvias intensas en los siguientes 4 días"
 front: false
-section: Local
+section: "Local"
+news_id: 187368
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) emitió un aviso preventivo por las lluvias intensas que se presentarán durante al menos los próximos cuatro días en el estado.

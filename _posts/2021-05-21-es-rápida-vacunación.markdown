@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Mañana sábado a partir de las 14:00 horas pueden acudir las mujeres embarazadas en novena semana de gestación, así como adultos mayores de 60 que no hayan recibido ninguna otra dosis"
-image: /uploads/2021/images-Diapositiva3.JPG
-video: nil
-audio: nil
-alt:  Es rápida vacunación para personas de 50 a 59 años en los cuatro puntos de la ciudad de Chihuahua
+image: "/uploads/2021/images-Diapositiva3.JPG"
+video: "nil"
+audio: "nil"
+alt: " Es rápida vacunación para personas de 50 a 59 años en los cuatro puntos de la ciudad de Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 184588
 ---
 
 Las autoridades de la Secretaría de Salud reportaron baja afluencia de personas de 50 a 59 años en los puntos de vacunación de la ciudad de Chihuahua, por lo que hicieron un llamado a que acudan a recibir la primera dosis de la vacuna Pfizer.

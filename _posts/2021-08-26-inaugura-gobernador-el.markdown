@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Al continuar la gira de entrega de Obras con Valor 2021, Javier Corral informó que se trata del centro de estudios más grande de la región centro-sur del estado que atenderá a más de 10 estudiantes"
-image: /uploads/2021/images-DSC_7764.JPG
-video: nil
-audio: nil
-alt: Inaugura Gobernador el Centro de Estudios Manuel Gómez Morín en Camargo
+image: "/uploads/2021/images-DSC_7764.JPG"
+video: "nil"
+audio: "nil"
+alt: "Inaugura Gobernador el Centro de Estudios Manuel Gómez Morín en Camargo"
 front: false
-section: Local
+section: "Local"
+news_id: 187146
 ---
 
 El gobernador Javier Corral Jurado, inauguró el Centro de Estudios Manuel Gómez Morín en el municipio de Camargo, el cual se convierte en el más grande y moderno de la región centro sur y en el que se invirtieron 11 millones 158 mil 778 pesos.

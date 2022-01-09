@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El FBI cuenta con información de que grupos afines a Donald Trump planean protestas armadas en las 50 capitales estatales y en el Capitolio el día de la investidura de Joe Biden"
-image: /uploads/2021/images-2509882.jpg
-video: nil
-audio: nil
-alt: Alerta FBI sobre protestas armadas durante investidura de Biden
+image: "/uploads/2021/images-2509882.jpg"
+video: "nil"
+audio: "nil"
+alt: "Alerta FBI sobre protestas armadas durante investidura de Biden"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182037
 ---
 
 El FBI advirtió que se están planeando protestas armadas en las 50 capitales estatales y en el Capitolio de Estados Unidos el día de la investidura del presidente electo Joe Biden, informa este lunes ABC News.

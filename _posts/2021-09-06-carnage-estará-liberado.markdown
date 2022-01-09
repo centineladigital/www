@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de redes sociales, se anunció que 'Venom 2: Let There Be Carnage' se adelanta en salas de cine. "
-image: /uploads/2021/images-venom-adelanta-su-estreno-sony.jpg
-video: nil
-audio: nil
-alt: ¡Carnage estará liberado antes de tiempo! 'Venom 2' adelanta su fecha de estreno
+image: "/uploads/2021/images-venom-adelanta-su-estreno-sony.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Carnage estará liberado antes de tiempo! 'Venom 2' adelanta su fecha de estreno"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187485
 ---
 
 La esperada película 'Venom: Let There Be Carnage' ('Venom: Carnage Liberado' en español) se estrenará antes de lo previsto. La película producida por Sony Pictures en colaboración con Marvel Studios adelantó su fecha de lanzamiento exclusivo para salas de cines. 

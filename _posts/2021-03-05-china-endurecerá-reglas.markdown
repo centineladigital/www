@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pekín está especialmente preocupado por el creciente peso de los gigantes privados, en detrimento de los bancos tradicionales y cuyos préstamos suponen un riesgo para el sistema financiero del país"
-image: /uploads/2021/images-2539733.jpg
-video: nil
-audio: nil
-alt: China endurecerá reglas a los gigantes tecnológicos
+image: "/uploads/2021/images-2539733.jpg"
+video: "nil"
+audio: "nil"
+alt: "China endurecerá reglas a los gigantes tecnológicos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183287
 ---
 
 China endurecerá la regulación de las empresas de tecnología para luchar más eficazmente contra las prácticas monopolísticas y los flujos financieros que representan un riesgo para el sistema financiero, anunció este viernes el primer ministro, Li Keqiang.

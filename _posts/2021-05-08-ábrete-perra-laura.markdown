@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Laura Bozzo creó polémica en 'Hoy'. Se burló de Lolita Cortés al ser salvada por el público y permanecer en la competencia de baile. Visiblemente furiosa lanzó un insulto contra la 'juez de hierro' y se volvió tendencia en redes. "
-image: /uploads/2021/images-laura-bozzo-lolita-cortes-pelean.jpg
-video: nil
-audio: nil
-alt: Ábrete, perra -  Laura Bozzo insulta a Lolita Cortés en programa en vivo de 'Hoy'; redes reaccionan
+image: "/uploads/2021/images-laura-bozzo-lolita-cortes-pelean.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ábrete, perra -  Laura Bozzo insulta a Lolita Cortés en programa en vivo de 'Hoy'; redes reaccionan"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184366
 ---
 
 Laura Bozzo y Lolita Cortés de nueva cuenta protagonizaron una pelea en pleno programa en vivo en Hoy de Televisa. Y es que aunque se sabe que al parecer las famosas no se llevan bien desde que se encontraron en la sección Las Estrellas bailan en Hoy, las discusiones han aumentado a tal punto que durante la emisión de este día, la conductora peruana lanzó un fuerte insulto contra Cortés. ¿Qué le dijo? Laura Bozzo usó la frase –modificada– de una de las canciones de Gloria Trevi para lanzarse contra la juez de hierro.  

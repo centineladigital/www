@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hace algunos años Luis Miguel tuvo problemas con su oído, pero ¿aún sigue con estos malestares? Te lo contamos. "
-image: /uploads/2021/images-cantante-revelado-ocasiones-problemas-oidos.jpg
-video: nil
-audio: nil
-alt: ¿Luis Miguel aún tiene problemas en el oído que afectan su audición?
+image: "/uploads/2021/images-cantante-revelado-ocasiones-problemas-oidos.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Luis Miguel aún tiene problemas en el oído que afectan su audición?"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183958
 ---
 
 Por fin se estrenó la segunda temporada de Luis Miguel, la serie en donde además de ver los problemas personales que tiene El Sol como la desaparición de su madre, Marcela Basteri, hasta el momento en el que decide hacerse cargo de su hermano menor, Sergio, también nos contaron que el cantante sufrió un accidente en uno de sus conciertos por el que tuvo un problema en uno de sus oídos. En la serie se muestra que tras este incidente, Luis Miguel tiene problemas con su audición los cuales están relacionados con una condición llamada tinnitus. A continuación, te contamos si es que en la vida real El Sol presenta estos malestares en sus oídos. 

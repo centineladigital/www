@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Colonia modelo por sus labores de coordinación y estrategias de vigilancia"
-image: /uploads/2021/images-unnamed_(9).jpg
-video: nil
-audio: nil
-alt: Reconocen a vecinos de Quintas del Sol por implementar acciones de justicia cívica
+image: "/uploads/2021/images-unnamed_(9).jpg"
+video: "nil"
+audio: "nil"
+alt: "Reconocen a vecinos de Quintas del Sol por implementar acciones de justicia cívica"
 front: false
-section: Local
+section: "Local"
+news_id: 186068
 ---
 
 La Alcaldesa se reunió y encabezó un recorrido con vecinos de la colonia Quintas del Sol por las instalaciones de la Comandancia Norte, a quienes entregó un reconocimiento por implementar de manera exitosa acciones de justicia cívica y seguridad.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Javier Aguirre enfrentará en Monterrey a las Águilas por primera vez desde la eliminación en 2001"
-image: /uploads/2021/images-2511699.jpg
-video: nil
-audio: nil
-alt: Aguirre hizo llorar al Azteca
+image: "/uploads/2021/images-2511699.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aguirre hizo llorar al Azteca"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182126
 ---
 
 Una de las más dolorosas derrotas para el americanismo se dio hace casi 20 años ante un equipo dirigido por un elemento formado en las fuerzas básicas de los cremas: Javier Aguirre. Las Águilas habían terminado como líderes del Verano 2001, pero en su objetivo de llevarse el título se cruzó el Pachuca.

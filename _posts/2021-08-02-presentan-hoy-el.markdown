@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La obra teatral autoría de Pilo Galindo está dirigida a público adolescente y adulto"
-image: /uploads/2021/images-caimán.jpg
-video: nil
-audio: nil
-alt: Presentan hoy El Caimán y los Sapos en el Festival Internacional Chihuahua
+image: "/uploads/2021/images-caimán.jpg"
+video: "nil"
+audio: "nil"
+alt: "Presentan hoy El Caimán y los Sapos en el Festival Internacional Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 186202
 ---
 
 Hoy en punto de las 20:00 horas en el Teatro de los Héroes, bajo la dirección de Luis Bizarro con la compañía Teatro Bárbaro; la obra teatral autoría de Pilo Galindo está dirigida a público adolescente y adulto.

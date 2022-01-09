@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A la fecha suman 69 mil 743 casos y 7 mil 157 decesos; actualmente 92 personas se encuentran hospitalizadas y 25 intubadas en 26 unidades médicas"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporta Salud 88 contagios y 25 defunciones más por COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporta Salud 88 contagios y 25 defunciones más por COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 185061
 ---
 
 El estado de Chihuahua suma 69 mil 743 contagios acumulados y 7 mil 157 defunciones por COVID-19, de acuerdo con el reporte epidemiológico de este 16 de junio que emite la Secretaría de Salud.

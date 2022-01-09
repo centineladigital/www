@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Podría generar daños significativos de una difícil o imposible reparación, señaló en un comunicado; se debe limitar al máximo la recolección de datos biométricos, agregó"
-image: /uploads/2021/images-2562047.jpg
-video: nil
-audio: nil
-alt: Advierte Inai de riesgos en recolección de datos biométricos
+image: "/uploads/2021/images-2562047.jpg"
+video: "nil"
+audio: "nil"
+alt: "Advierte Inai de riesgos en recolección de datos biométricos"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183869
 ---
 
 El registro de datos biométricos en el Padrón Nacional de Usuarios de Telefonía Móvil (PNUTM) para fines de identificación de la población, podría representar riesgos para la protección de los datos personales, advierte el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (Inai).

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Jóvenes de todo el estado podrán disfrutar de estos eventos."
-image: /uploads/2021/images-LUCERO_NIETO.jpg
-video: nil
-audio: /uploads/2021/audio-MV04_LUCERO_NIETO.mp3
-alt: Presentan Back to Zoom
+image: "/uploads/2021/images-LUCERO_NIETO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV04_LUCERO_NIETO.mp3"
+alt: "Presentan Back to Zoom"
 front: false
-section: Local
+section: "Local"
+news_id: 182182
 ---
 
 Jóvenes de 12 a 29 años pertenecientes de todo el estado podrán acceder a las diversas actividades que se llevarán a cabo dentro evento Back to zoom que organiza el Instituto de la Juventud.

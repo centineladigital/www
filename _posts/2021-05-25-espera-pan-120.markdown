@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que no habrá mayoría para Morena."
-image: /uploads/2021/images-JORGE.jpg
-video: nil
-audio: /uploads/2021/audio-MM04_JORGE_ROMERO.mp3
-alt: Espera pan 120 diputados federales 
+image: "/uploads/2021/images-JORGE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04_JORGE_ROMERO.mp3"
+alt: "Espera pan 120 diputados federales "
 front: false
-section: Local
+section: "Local"
+news_id: 184650
 ---
 
 El vicecoordinador del Grupo Parlamentario del PAN en la Cámara de Diputados, Jorge Romero, señaló que la configuración de las próxima Cámara de Diputados a nivel nacional se conformará por lo menos con 120 curules azules.

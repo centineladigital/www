@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Vacunación en el Gran Estadio se mueve este sábado al Poliforo"
-image: /uploads/2021/images-vacunas_2.jpg
-video: nil
-audio: nil
-alt: Aplicaron ayer casi 6 mil vacunas en Cuauhtémoc
+image: "/uploads/2021/images-vacunas_2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aplicaron ayer casi 6 mil vacunas en Cuauhtémoc"
 front: false
-section: Local
+section: "Local"
+news_id: 183406
 ---
 
 Con gran éxito concluyó el primer día de la jornada de aplicación de 5 mil 786 vacunas contra el COVID-19 a personas mayores de 60 años en los cuatro puntos que se habilitaron en la ciudad para ello.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En “Logros con Valor” el secretario general de Gobierno destacó el trabajo desempeñado por la Dirección de Normatividad, que presentó 132 iniciativas por parte del Ejecutivo, ante el Congreso del Estado y prestó un servicio eficiente a la ciudadanía durante la presente Administración"
-image: /uploads/2021/images-Funcionario_Segegob.JPG
-video: nil
-audio: nil
-alt: Avance ejemplar en iniciativas de ley a favor de la ciudadanía -  Luis Fernando Mesta
+image: "/uploads/2021/images-Funcionario_Segegob.JPG"
+video: "nil"
+audio: "nil"
+alt: "Avance ejemplar en iniciativas de ley a favor de la ciudadanía -  Luis Fernando Mesta"
 front: false
-section: Local
+section: "Local"
+news_id: 187091
 ---
 
 Durante la emisión del programa Logros con Valor, el secretario general de Gobierno, Luis Fernando Mesta Soulé, señaló que el trabajo desempeñado en la Dirección de Normatividad durante la presente Administración, fue ejemplar para avanzar y lograr las grandes iniciativas de ley que aprobó el Congreso del Estado.

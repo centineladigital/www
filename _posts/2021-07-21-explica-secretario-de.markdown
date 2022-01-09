@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Destaca Arturo Fuentes que créditos a corto plazo fueron liquidados al 31 de mayo, se disminuyeron las sobretasas y que la próxima administración tendrá más de 19 mil mdp para operar los primeros meses, durante la comparecencia virtual ante los integrantes de la Junta de Coordinación Política"
-image: /uploads/2021/images-Secretario_de_Hacienda_y_su_equipo_comparecencia_Jucopo_6.jpg
-video: nil
-audio: nil
-alt: Explica secretario de Hacienda a legisladores el estado de las finanzas públicas
+image: "/uploads/2021/images-Secretario_de_Hacienda_y_su_equipo_comparecencia_Jucopo_6.jpg"
+video: "nil"
+audio: "nil"
+alt: "Explica secretario de Hacienda a legisladores el estado de las finanzas públicas"
 front: false
-section: Local
+section: "Local"
+news_id: 185869
 ---
 
 El secretario de Hacienda, Arturo Fuentes Vélez, explicó ante los diputados integrantes de la Junta de Coordinación Política, la situación de las finanzas públicas estatales y respondió las inquietudes de las y los legisladores.

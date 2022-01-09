@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa JCAS en Chihuahua Adelante sobre el alcance de la integración de Consejos de Administración con mayoría ciudadana en las Juntas de Agua, y los avances en transparencia y rendición de cuentas"
-image: /uploads/2021/images-DAH_3372.jpeg
-video: nil
-audio: nil
-alt: Logró Chihuahua gobernanza en manejo del agua con la participación ciudadana
+image: "/uploads/2021/images-DAH_3372.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Logró Chihuahua gobernanza en manejo del agua con la participación ciudadana"
 front: false
-section: Local
+section: "Local"
+news_id: 183612
 ---
 
 La participación ciudadana se colocó en el centro de los procesos de planeación, administración y ejecución desarrollados por la Junta Central de Agua y Saneamiento (JCAS) y los organismos operadores y fue fundamental para lograr una verdadera Gobernanza del agua, señaló el presidente del Consejo de Administración, Ismael Rodríguez.

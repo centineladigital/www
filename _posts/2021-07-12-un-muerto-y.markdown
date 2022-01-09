@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Un hombre de 22 años murió en un accidente automovilístico en Caltagirone, en Sicilia, cuando se dirigía al centro de la ciudad para unirse a los festejos de la victoria, dijo la policía. "
-image: /uploads/2021/images-festejos-en-italia-tras-ganar.jpg
-video: nil
-audio: nil
-alt: Un muerto y varios heridos en Italia durante las celebraciones de la Eurocopa
+image: "/uploads/2021/images-festejos-en-italia-tras-ganar.jpg"
+video: "nil"
+audio: "nil"
+alt: "Un muerto y varios heridos en Italia durante las celebraciones de la Eurocopa"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185569
 ---
 
 Una persona ha muerto y varias resultaron heridas durante las celebraciones que tuvieron lugar en Italia tras el triunfo de su selección de futbol sobre Inglaterra en la final de la Eurocopa del domingo.

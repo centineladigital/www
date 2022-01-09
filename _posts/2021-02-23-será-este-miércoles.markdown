@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Será este miércoles cuando se lleve a cabo audiencia de vinculación."
-image: /uploads/2021/images-ESPINOZA.jpg
-video: nil
-audio: /uploads/2021/audio-MM05_JORGE_ESPINOZA.mp3
-alt: Será este miércoles audiencia de Alcaldesa -  Consejero
+image: "/uploads/2021/images-ESPINOZA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM05_JORGE_ESPINOZA.mp3"
+alt: "Será este miércoles audiencia de Alcaldesa -  Consejero"
 front: false
-section: Local
+section: "Local"
+news_id: 183113
 ---
 
 Será este 24 de febrero la audiencia para la Alcaldesa con licencia, señaló el Consejero Jurídico de Gobierno del Estado, Jorge Espinoza Cortés. Esto, dijo, ya que no existen obstáculos legales para que se realice.

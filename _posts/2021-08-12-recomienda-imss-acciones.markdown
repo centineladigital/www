@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El IMSS cuenta con programas para brindar atención psicológica que ayuden a resolver y controlar estos problemas"
-image: /uploads/2021/images-Foto_353-3.jpeg
-video: nil
-audio: nil
-alt: Recomienda IMSS acciones para evitar violencia intrafamiliar generada durante el confinamiento por COVID-19
+image: "/uploads/2021/images-Foto_353-3.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Recomienda IMSS acciones para evitar violencia intrafamiliar generada durante el confinamiento por COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 186630
 ---
 
 Para contrarrestar y evitar casos de violencia intrafamiliar como consecuencia del confinamiento generado por la pandemia de COVID-19, especialistas del Instituto Mexicano del Seguro Social (IMSS) recomendaron realizar actividades de esparcimiento que disminuyan tensión, generen bienestar y emociones positivas como juegos en familia, pláticas durante la comida o sesiones de películas.

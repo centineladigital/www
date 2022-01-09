@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "José Eduardo Derbez lanzó un reclamo contra su padrino Fernando Colunga y puso punto final sobre sus preferencias sexuales. "
-image: /uploads/2021/images-jose-eduardo-derbez-reclamo-padrino.jpg
-video: nil
-audio: nil
-alt: Nunca me pela -  José Eduardo Derbez lanza fuerte reclamo a su padrino Fernando Colunga
+image: "/uploads/2021/images-jose-eduardo-derbez-reclamo-padrino.jpg"
+video: "nil"
+audio: "nil"
+alt: "Nunca me pela -  José Eduardo Derbez lanza fuerte reclamo a su padrino Fernando Colunga"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185761
 ---
 
 José Eduardo Derbez, hijo de Eugenio Derbez y Victoria Ruffo, de nueva cuenta decidió aclarar si es verdad que sus preferencias sexuales salen de la heternorma, pues los rumores sobre si es gay o bisexual continúan a pesar de que esto no debería ser tema de interés sobre cualquier persona. Además lanzó un ‘reclamó’ para su padrino Fernando Colunga, pues según reveló no ha estado muy al pendiente de él. ¿Se enojó el hermano de Vadhir y Aislinn Derbez? Te contamos lo que dijo el conductor de Miembros al Aire. 

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El boxeador culminó su participación en Tokio 2020 con la satisfacción de haber peleado en una justa olímpica, aunque admitió que le hizo falta experiencia"
-image: /uploads/2021/images-rogelio-romero-reuters_0_15_1200_747.jpg
-video: nil
-audio: nil
-alt: Rogelio Romero cae eliminado de los Juegos Olímpicos; culmina la participación de México
+image: "/uploads/2021/images-rogelio-romero-reuters_0_15_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Rogelio Romero cae eliminado de los Juegos Olímpicos; culmina la participación de México"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186114
 ---
 
 El boxeador mexicano Rogelio Romero se quedó a un paso de lograr una medalla para México en el boxeo de los Juegos Olímpicos de Tokio 2020, ya que el cubano Arlen López le impidió lograr ese objetivo. 

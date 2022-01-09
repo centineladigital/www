@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En unidades médicas se informa a las mujeres derechohabientes sobre los beneficios de transmitir anticuerpos a los bebés, dijo el director general, Luis Antonio Ramírez Pineda"
-image: /uploads/2021/images-ISSSTE_01.jpeg
-video: nil
-audio: nil
-alt: Lactancia materna y vacunación, mejor escudo contra el covid-19 -  ISSTE
+image: "/uploads/2021/images-ISSSTE_01.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Lactancia materna y vacunación, mejor escudo contra el covid-19 -  ISSTE"
 front: false
-section: Local
+section: "Local"
+news_id: 186250
 ---
 
 La lactancia materna y la vacunación a mujeres embarazadas son el mejor escudo contra el COVID-19, ya que transmiten a sus bebés anticuerpos contra esta enfermedad que le confieren protección, aún si está activa la infección por SARS-CoV2 en la madre, por ello el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) fomenta este hábito en todas las unidades médicas durante la pandemia.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa la Secretaría de Salud que las cifras siguen a la baja pero se debe ser muy cautelosos; los nuevos contagios fueron 65 para sumar 48 mil 481"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Sin registro confirmado de decesos en último reporte de COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Sin registro confirmado de decesos en último reporte de COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 182247
 ---
 
 En la Conferencia Informativa 328, Virtual 288 del Reporte COVID-19, la Secretaría de Salud dio a conocer que se tienen en el estado de Chihuahua un total general de 48 mil 481 contagios y 4 mil 499 personas fallecidas, sin que se confirmaran nuevos decesos.

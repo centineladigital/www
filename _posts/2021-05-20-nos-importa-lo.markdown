@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Lo que importa es el apoyo por parte de los ciudadanos en los 67 municipios."
-image: /uploads/2021/images-MARU.jpg
-video: nil
-audio: /uploads/2021/audio-MJ07_MARU.mp3
-alt: Nos importa lo que piensen los Chihuahuenses -  Campos Galván
+image: "/uploads/2021/images-MARU.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ07_MARU.mp3"
+alt: "Nos importa lo que piensen los Chihuahuenses -  Campos Galván"
 front: false
-section: Local
+section: "Local"
+news_id: 184575
 ---
 
 “No nos importa lo que piensen los demás candidatos, nos importa lo que piensen los chihuahuenses”, fueron las palabras de María Eugenia Campos Galván al ser cuestionada respecto a los ataques que se darían en el debate de los candidatos a gobernar Chihuahua.

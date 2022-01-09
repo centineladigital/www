@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Se registran 212 nuevos casos de COVID-19 para el estado de Chihuahua "
+date: 2021-12-28T20:59:00.000-06:00
+tags:
+  
+  - Covid
+  
+  - Cifras
+  
+  - chihuahua
+  
+author: nil
+description: "El número de personas que han perdido la vida a causa de la pandemia de SARS CoV-2 ascendió a 8 mil 712 casos."
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Se registran 212 nuevos casos de COVID-19 para el estado de Chihuahua "
+front: false
+section: "Local"
+news_id: 191283
+---
+
+Gobierno del Estado a través de la Secretaría de Salud de Chihuahua, presenta este 28 de diciembre el reporte COVID-19, que registra 92 mil 020 (+212) personas confirmadas en la entidad, 79 mil 030 (+564) casos recuperados, 88 mil 314 (+188) descartados y 1,190 (-38) sospechosos.
+
+El número de personas que han perdido la vida a causa de la pandemia de SARS CoV-2 ascendió a 8 mil 712 casos (+10) y de las defunciones que se agregan al registro, corresponden a los municipios de Chihuahua (+9) y Delicias (+1).
+
+El número de personas confirmadas asciende a 92 mil 020 (+212) y los casos confirmados corresponden a los municipios de Juárez (+59), Chihuahua (+99), Parral (+16), Cuauhtémoc (+6), Delicias (+1), Nuevo Casas Grandes (+3), Ojinaga (+6), Camargo (+2), Bocoyna (+1), Meoqui (+1), Aldama (+1), Allende (+2), Santa Bárbara (+4), Gómez Farías (+1), Ascensión (+2), Ahumada (+1), Matamoros (+1), San Francisco del Oro (+1), López (+2), Balleza (+1) y Uruachi (+2).
+
+Además se reporta una tasa de incidencia de casos activos de los últimos 14 días de 48.7 por cada 100 mil habitantes; a nivel nacional se han registrado 3 mil 520 casos nuevos, de modo que Chihuahua se posiciona en el lugar 3 de casos activos en el país.
+
+El número de personas hospitalizadas es de 242 y se tiene el registro de 74 intubados, lo que representa una ocupación general 49 por ciento y una ocupación de intubados de 41.1 por ciento.
+
+La Secretaría de Salud exhorta a la ciudadanía a continuar con las medidas preventivas durante estas fiestas decembrinas, como el lavado frecuente de manos o el uso de gel antibacterial, mantener la sana distancia de 1.5 metros entre personas, emplear el cubrebocas en todas las actividades, realizar la limpieza y desinfección de espacios y objetos de uso común.
+
+Para reducir el riesgo de contagio es importante evitar las aglomeraciones y el contacto con personas por medio de abrazos, saludos de mano o de beso.
+
+En caso de presentar algún síntoma como la pérdida del olfato, dolor de cabeza o de garganta, fiebre superior a 38 grados, sensación de cuerpo cortado o escurrimiento nasal, es importante no automedicarse y realizarse una prueba para descartar o confirmar el padecimiento de COVID-19.

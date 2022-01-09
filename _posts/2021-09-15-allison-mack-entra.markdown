@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Allison Mack ingresó dos semanas antes de lo previsto a prisión para cumplir una condena de tres años."
-image: /uploads/2021/images-allison-mack-entro-esperado-prision.jpg
-video: nil
-audio: nil
-alt: Allison Mack entra a prisión tras sentencia de tres años por caso de secta NXIVM
+image: "/uploads/2021/images-allison-mack-entro-esperado-prision.jpg"
+video: "nil"
+audio: "nil"
+alt: "Allison Mack entra a prisión tras sentencia de tres años por caso de secta NXIVM"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187776
 ---
 
 La actriz de la serie de televisión "Smallville" Allison Mack ingresó en prisión dos semanas antes de lo previsto para cumplir tres años de sentencia por su implicación en el caso de la secta NXIVM, cuyo fundador, Keith Raniere, fue condenado a 120 años de cárcel por tráfico sexual y otros cargos. Según unos documentos publicados este miércoles por medios de comunicación locales, Mack llegó el pasado lunes a la prisión de la localidad californiana de Dublin (cerca de San Francisco), donde también cumplieron condena las actrices Lori Loughlin y Felicity Huffman por un caso de fraude en el sistema de admisión a universidades estadounidenses.  El ingreso de la actriz estaba programado para el 29 de septiembre. 

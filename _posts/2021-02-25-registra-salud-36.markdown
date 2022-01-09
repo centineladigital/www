@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma también 206 contagios para sumar un total de 53 mil 687 personas enfermas a lo largo de la pandemia; en la lucha contra el coronavirus 101 trabajadores de la Salud han perdido la vida"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Registra Salud 36 nuevas defunciones por COVID-19 para sumar 5 mil 111 en la entidad
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Registra Salud 36 nuevas defunciones por COVID-19 para sumar 5 mil 111 en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 183156
 ---
 
 Con la suma de 36 fallecimientos confirmados en las últimas 24 horas por la Secretaría de Salud, aumentó a 5 mil 111 el número de muertes por COVID-19 en la entidad.

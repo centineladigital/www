@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La revista Líderes Mexicanos incluye a Oscar Ibáñez Hernández, director ejecutivo de JCAS, a Carmen Julia Navarro, de la JMAS Chihuahua y Kamel Athié Flores, por su labor en el fomento al uso adecuado del agua"
-image: /uploads/2021/images-Chihuahuenses_entre_los_50_líderes_del_sector_agua_3.jpg
-video: nil
-audio: nil
-alt: Integran a 3 chihuahuenses en la lista de 50 Líderes del Sector Agua en México
+image: "/uploads/2021/images-Chihuahuenses_entre_los_50_líderes_del_sector_agua_3.jpg"
+video: "nil"
+audio: "nil"
+alt: "Integran a 3 chihuahuenses en la lista de 50 Líderes del Sector Agua en México"
 front: false
-section: Local
+section: "Local"
+news_id: 186050
 ---
 
 En las condiciones desérticas de nuestra entidad, un recurso tan escaso, valioso y estratégico como el agua, está en manos de profesionales reconocidos por su experiencia y capacidades.

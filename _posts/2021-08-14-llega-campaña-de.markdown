@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Debido a la pandemia de COVID-19, un importante número de recién nacidos no fueron registrados, por lo que con esta campaña se busca garantizar su derecho a la identidad  "
-image: /uploads/2021/images-_DSC0424.JPG
-video: nil
-audio: nil
-alt: Llega campaña de registro de niñas y niños a las ciudades de Chihuahua y Juárez
+image: "/uploads/2021/images-_DSC0424.JPG"
+video: "nil"
+audio: "nil"
+alt: "Llega campaña de registro de niñas y niños a las ciudades de Chihuahua y Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 186706
 ---
 
 Este fin de semana en las ciudades de Juárez y Chihuahua, se realizarán registros de niñas y niños que no cuentan con su acta de nacimiento, como parte de una campaña del Registro Civil del Estado.

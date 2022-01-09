@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Critica a quienes han dejado el partido."
-image: /uploads/2021/images-ALEX.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01_ALEJADRO_DOMINGUEZ.mp3
-alt: Deben candidatos al PRI conocimiento político
+image: "/uploads/2021/images-ALEX.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01_ALEJADRO_DOMINGUEZ.mp3"
+alt: "Deben candidatos al PRI conocimiento político"
 front: false
-section: Local
+section: "Local"
+news_id: 183654
 ---
 
 Los candidatos que se fueron del PRI deben a este partido lo adquirido dentro del mimos, el cual va desde conocimiento política, conocimiento de la administración pública y patrimonio personal, afirmó el Dirigente del PRI a nivel estatal Alejandro Domínguez Domínguez.

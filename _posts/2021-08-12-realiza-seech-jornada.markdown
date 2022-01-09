@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Brindan a personal de supervisiones y jefaturas de enseñanza lineamientos a implementar, a fin de evitar contagios por COVID-19 y mejorar la calidad del proceso de enseñanza-aprendizaje"
-image: /uploads/2021/images-CAPACITACIÓN_(1).jpeg
-video: nil
-audio: nil
-alt: Realiza Seech jornada de capacitación  para regreso seguro a clases en escuelas secundarias técnicas
+image: "/uploads/2021/images-CAPACITACIÓN_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Realiza Seech jornada de capacitación  para regreso seguro a clases en escuelas secundarias técnicas"
 front: false
-section: Local
+section: "Local"
+news_id: 186619
 ---
 
 Con el objetivo de que la estructura educativa se encuentre preparada para un regreso a clases seguro con el inicio del ciclo escolar 2021-2022, Servicios Educativos del Estado de Chihuahua (Seech), puso en marcha una jornada de capacitación para personal de las escuelas secundarias federales de la entidad.

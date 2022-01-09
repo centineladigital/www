@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Deberán de esperar ocho meses para el refuerzo."
-image: /uploads/2021/images-WENDY.jpg
-video: /uploads/2021/videos-MM01_WENDY_AVILA.mp4
-audio: nil
-alt: Sin definir una tercera dosis de vacunación en el Estado
+image: "/uploads/2021/images-WENDY.jpg"
+video: "/uploads/2021/videos-MM01_WENDY_AVILA.mp4"
+audio: "nil"
+alt: "Sin definir una tercera dosis de vacunación en el Estado"
 front: false
-section: Local
+section: "Local"
+news_id: 187070
 ---
 
 La tercera dosis de vacunación aún no ha sido definida, señaló la Subdirectora de Medicina Preventiva y Promoción de la Salud, Wendy Ávila Coronado. Esto por dos motivos uno que será la federación quien determine la aplicación o no.

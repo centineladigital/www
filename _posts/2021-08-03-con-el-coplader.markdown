@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Surge un nuevo proyecto económico destinado a fortalecer las vocaciones productivas locales y regionales, con la participación de 12 ayuntamientos "
-image: /uploads/2021/images-COPLADER_SEDEMUN_(2).JPG
-video: nil
-audio: nil
-alt: Con el Coplader se escuchó a municipios y a sus habitantes  para obras de impacto regional
+image: "/uploads/2021/images-COPLADER_SEDEMUN_(2).JPG"
+video: "nil"
+audio: "nil"
+alt: "Con el Coplader se escuchó a municipios y a sus habitantes  para obras de impacto regional"
 front: false
-section: Local
+section: "Local"
+news_id: 186241
 ---
 
 El Comité de Planeación para el Desarrollo Regional (Coplader), coordinado por la Secretaría de Desarrollo Municipal (SDM) consolida la estrategia del gobernador Javier Corral Jurado para trabajar en conjunto con  la sociedad y las instituciones académicas, en beneficio de los municipios.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Cuerpos de emergencia acudieron al inmueble ubicado en avenida Coyoacán esquina con Universidad, colonia Xoco"
-image: /uploads/2021/images-cdmx-reportan-explosion-acumulacion-gas.jpeg
-video: nil
-audio: nil
-alt: En CdMx, explosión por gas en edificio en Benito Juárez deja al menos 22 lesionados
+image: "/uploads/2021/images-cdmx-reportan-explosion-acumulacion-gas.jpeg"
+video: "nil"
+audio: "nil"
+alt: "En CdMx, explosión por gas en edificio en Benito Juárez deja al menos 22 lesionados"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186738
 ---
 
 Una explosión por acumulación de gas se generó en un edificio de avenida Coyoacán, esquina con Universidad, colonia Xoco, en la alcaldía Benito Juárez. Las autoridades de Protección Civil de la Ciudad de México indicaron que los hechos ocurrieron en el departamento 207 y hasta el momento no se reportan personas muertas por estos hechos.  

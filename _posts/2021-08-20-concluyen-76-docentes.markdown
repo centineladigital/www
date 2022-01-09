@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El secretario de Educación y Deporte reconoció a las y los graduandos por refrendar la vocación, la voluntad y el destino de dedicar y entregar su vida a la formación de las niñas, niños y jóvenes"
-image: /uploads/2021/images-SED_6053.jpg
-video: nil
-audio: nil
-alt: Concluyen 76 docentes su maestría en el Centro Chihuahuense de Estudios de Posgrado
+image: "/uploads/2021/images-SED_6053.jpg"
+video: "nil"
+audio: "nil"
+alt: "Concluyen 76 docentes su maestría en el Centro Chihuahuense de Estudios de Posgrado"
 front: false
-section: Local
+section: "Local"
+news_id: 186938
 ---
 
 El Centro Chihuahuense de Estudios de Posgrado (Cchep) realizó la entrega de constancias a 76 alumnas y alumnos que concluyeron sus estudios de maestría; 44 de ellos en el programa académico de Competencias para la Docencia y 32 en Desarrollo Educativo.

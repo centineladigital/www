@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En programa “Logros con Valor”, también se informa del alcance en la certificación de competencias laborales para generar buenas prácticas gubernamentales"
-image: /uploads/2021/images-Autoridades_Electas_2.jpg
-video: nil
-audio: /uploads/2021/audio-6-_TEMA_CAPACITACIÓN_A_FUNC_MPALES_PROGRAMA_LOGROS_CON_VALOR_SRIA_DES_MPAL_3-8-21.MP3
-alt: Capacitó Gobierno del Estado a más de 4 mil funcionarias y funcionarios de los 67 municipios
+image: "/uploads/2021/images-Autoridades_Electas_2.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-6-_TEMA_CAPACITACIÓN_A_FUNC_MPALES_PROGRAMA_LOGROS_CON_VALOR_SRIA_DES_MPAL_3-8-21.MP3"
+alt: "Capacitó Gobierno del Estado a más de 4 mil funcionarias y funcionarios de los 67 municipios"
 front: false
-section: Local
+section: "Local"
+news_id: 186240
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Desarrollo Municipal, implementó desde el inicio de la administración, un programa continuo de capacitación para funcionarias y funcionarios municipales de los 67 ayuntamientos, además de que 142 titulares de secretarías del ayuntamiento, tesorerías y Obras Públicas, obtuvieron su certificación de competencias laborales.

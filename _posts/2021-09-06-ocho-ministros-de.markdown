@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "“Todos estamos a favor de la vida, lo único que sucede es que unos estamos a favor de que la vida para las mujeres sea una en la que se respete su dignidad, que puedan ejercer con plenitud sus derechos”, dijo Arturo Zaldívar"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Ocho ministros de la Corte se pronuncian por declarar inconstitucional criminalización del aborto
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Ocho ministros de la Corte se pronuncian por declarar inconstitucional criminalización del aborto"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187468
 ---
 
 En la discusión sobre la propuesta de declarar inconstitucional la criminalización del aborto en Coahuila, establecida aún para casos de violación, ocho ministros de la Suprema Corte de Justicia de la Nación (SCJN) se pronunciaron por invalidar esta disposición.

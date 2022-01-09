@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor compartió un video en el aparece cantando una canción de 'Moana' en honor a Indy Llew Jones, una niña de 4 años que padece cáncer. "
-image: /uploads/2021/images-dwayne-the-rock-johnson-expresa_0_0_1200_747_(1).jpg
-video: nil
-audio: nil
-alt: Dwayne 'The Rock' Johnson manda mensaje de apoyo a niña con cáncer; le dedica canción
+image: "/uploads/2021/images-dwayne-the-rock-johnson-expresa_0_0_1200_747_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Dwayne 'The Rock' Johnson manda mensaje de apoyo a niña con cáncer; le dedica canción"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184309
 ---
 
 Dwayne Johnson, mejor conocido como The Rock (La Roca), es una de las estrellas de Hollywood más exitosas del momento que se ha ganado el cariño del público por su carisma, sencillez y compromiso con sus fans. El actor de Rápidos y furiosos 8 siempre está al pendiente de sus seguidores, así lo demostró tras enviarle un emotivo mensaje de apoyo a Indy Llew Jones.  El ex luchador recurrió a sus redes sociales para cumplir el sueño de una niña de cuatro años que tiene síndrome de Down y padece cáncer, su nombre es Indy Llew Jones y es una admiradora de Moana, película en la que Dwayne Johnson prestó su voz para el personaje de Maui, un semidiós que se sumerge en un aventura junto a la princesa Vaiana para salvar su hogar.

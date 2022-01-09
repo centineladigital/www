@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La jefa de la célula técnica anticovid de la OMS, María Von Kerkhove, dijo que la OMS está siguiendo esta variante y el resto de variantes identificadas en colaboración con una red internacional de expertos"
-image: /uploads/2021/images-oms-razones-clasificar-lambda-variante.jpg
-video: nil
-audio: nil
-alt: ¿Es más resistente? La OMS se enfoca en la nueva variante de covid-19 Lambda; esto debes saber
+image: "/uploads/2021/images-oms-razones-clasificar-lambda-variante.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Es más resistente? La OMS se enfoca en la nueva variante de covid-19 Lambda; esto debes saber"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186374
 ---
 
 ¿Qué se sabe de la variante lambda del coronavirus?  

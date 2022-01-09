@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El hijo del productor Juan Osorio, Emilio Osorio, compartió un poco de cómo lo corregía Niurka cuando la regaba. Esto debido a que la cubana indicó que si ella fuera madre de Frida Sofía le hubiera acomodado un izquierdazo. "
-image: /uploads/2021/images-emilio-osorio-revelo-niurka-rompio.jpg
-video: nil
-audio: nil
-alt: Me rompió el labio -  Emilio Osorio confiesa que Niurka le dio izquierdazo por grosería
+image: "/uploads/2021/images-emilio-osorio-revelo-niurka-rompio.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me rompió el labio -  Emilio Osorio confiesa que Niurka le dio izquierdazo por grosería"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184832
 ---
 
 Emilio Osorio, hijo de Juan Osorio y de Niurka, hizo fuertes declaraciones frente a diferentes medios de comunicación. Y es que el actor –que muy pronto se retirará de los reflectores para estudiar una carrera– contó que su madre sin duda lo ha educado de una forma contundente. Externó que en una ocasión la cubana le rompió el labio inferior de una cachetada, pues el joven había dicho una “fuerte” grosería. ¿Cada persona es libre de ‘educar’ a sus hijos? ¿Niurka maltrató a su hijo Emilio Osorio? 

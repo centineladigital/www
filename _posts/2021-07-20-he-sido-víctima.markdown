@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Presidente dijo que “es realmente una vergüenza y es una prueba irrefutable que imperaba un gobierno autoritario."
-image: /uploads/2021/images-amlo-jul-15.jpg
-video: nil
-audio: nil
-alt: “He sido víctima de espionaje desde Salinas”, dice AMLO; descarta demanda por Pegasus
+image: "/uploads/2021/images-amlo-jul-15.jpg"
+video: "nil"
+audio: "nil"
+alt: "“He sido víctima de espionaje desde Salinas”, dice AMLO; descarta demanda por Pegasus"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185830
 ---
 
 El presidente Andrés Manuel López Obrador dijo que ha sido víctima de espionaje desde el sexenio del priista Carlos Salinas de Gortari, pero descartó presentar una denuncia por el uso del sistema Pegasus en su contra.  

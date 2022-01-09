@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La primera temporada de 'Luis Miguel, la serie' concluyó en julio de 2018 y tras una larga espera está de vuelta en Netflix. Te decimos todo lo que debes saber para el gran estreno. "
-image: /uploads/2021/images-entrega-luis-miguel-serie-concluyo.jpg
-video: nil
-audio: nil
-alt: ¿Dónde ver y cuándo se estrena la segunda temporada de 'Luis Miguel, la serie'?
+image: "/uploads/2021/images-entrega-luis-miguel-serie-concluyo.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Dónde ver y cuándo se estrena la segunda temporada de 'Luis Miguel, la serie'?"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183874
 ---
 
 El estreno de la segunda temporada de Luis Miguel, la serie está en cuenta regresiva. Y los miles de fans de El Sol ya se preparan para retomar las intrigas, polémicas y desde luego las canciones que envuelven la vida del intérprete de Por debajo de la mesa. Y ante el nervio y la intriga que hay en torno a la desaparición de Marcela Basteri, el papel que jugará el recuerdo de Luis Rey y los amores de Luis Miguel que se revelarán en la segunda entrega de la popular serie de Netflix, te dejamos todos los datos que tienes que saber antes de que vuelva a salir el sol en tu televisor. 

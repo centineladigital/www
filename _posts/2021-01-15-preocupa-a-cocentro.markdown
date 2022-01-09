@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Eso ha llevado a que tengan reuniones y una serie de actividades en donde a todas luces se incurre en faltas a los protocolos y reglamentos generados en el marco de la pandemia para evitar contagio"
-image: /uploads/2021/images-GRGRGR.jpg
-video: nil
-audio: /uploads/2021/audio-AV05_RICARDO_PEREA.mp3
-alt: Preocupa a Cocentro falta de precaución en precampañas electorales
+image: "/uploads/2021/images-GRGRGR.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AV05_RICARDO_PEREA.mp3"
+alt: "Preocupa a Cocentro falta de precaución en precampañas electorales"
 front: false
-section: Local
+section: "Local"
+news_id: 182181
 ---
 
 La Asociación de Comerciantes del Centro de Chihuahua, señalaron su preocupación por el desarrollo de las precampañas electorales, en donde a todas luces, no se cumple con la sana distancia, hay aglomeración de personas, abrazos y besos, por lo que no se cumple con los decretos de las autoridades de Salud y del mismo Instituto Estatal Electoral.

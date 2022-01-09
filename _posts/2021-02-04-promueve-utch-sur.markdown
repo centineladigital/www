@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actividad se realiza en coordinación con el Centro Estatal de Transfusión Sanguínea"
-image: /uploads/2021/images-D2_-_copia.jpg
-video: nil
-audio: nil
-alt: Promueve UTCH Sur campaña de donación de sangre “Sé un Héroe”
+image: "/uploads/2021/images-D2_-_copia.jpg"
+video: "nil"
+audio: "nil"
+alt: "Promueve UTCH Sur campaña de donación de sangre “Sé un Héroe”"
 front: false
-section: Local
+section: "Local"
+news_id: 182700
 ---
 
 Como cada año, la Universidad Tecnológica de Chihuahua Sur (UTCH Sur) en coordinación con el Centro Estatal de Transfusión Sanguínea (CETS) realiza la campaña de donación voluntaria de sangre.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Daniela Berriel contó que un magistrado no decidió girar orden de aprehensión en contra de su supuesto agresor, por lo que llevará su casi a instancias federales. "
-image: /uploads/2021/images-la-familia-del-agresor-le.jpg
-video: nil
-audio: nil
-alt: Daniela Berriel llevará su caso a instancias federales; hombre que abusó de ella sigue libre
+image: "/uploads/2021/images-la-familia-del-agresor-le.jpg"
+video: "nil"
+audio: "nil"
+alt: "Daniela Berriel llevará su caso a instancias federales; hombre que abusó de ella sigue libre"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185479
 ---
 
 Hace unos días Daniela Berriel tuvo una audiencia virtual con el hombre que abusó sexualmente de ella, Eduardo Ojeda, un magistrado decidiría si levantaría una orden de aprehensión en contra de Ojeda este miércoles, sin embargo, esto no sucedió por lo que la actriz llevará su caso a instancias federales. 

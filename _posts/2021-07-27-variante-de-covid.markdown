@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En el Valle esta variante del covid-19 predomina con un 96 por ciento de las muestras secuencias en la capital, mientras que posee un 86 por ciento en las del Estado"
-image: /uploads/2021/images-continuan-acciones-mitigacion-covid-mexico.jpg
-video: nil
-audio: nil
-alt: Variante de covid Delta, presente en 31 entidades; domina en Edomex y CdMx
+image: "/uploads/2021/images-continuan-acciones-mitigacion-covid-mexico.jpg"
+video: "nil"
+audio: "nil"
+alt: "Variante de covid Delta, presente en 31 entidades; domina en Edomex y CdMx"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186012
 ---
 
 Delta ya se extendió a 31 entidades del país, con excepción de Nayarit, con un total de mil 600 casos confirmados con dicha variante de covid-19, informó Alberto Cedro Tanda, investigador en Ciencias Médicas y coordinador del proyecto de secuenciación de SARS-CoV-2 en el Instituto Nacional de Medicina Genómica (Inmegen).

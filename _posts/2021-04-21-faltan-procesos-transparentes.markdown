@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Pide mejor calidad de vida para elementos "
-image: /uploads/2021/images-mr.jpg
-video: nil
-audio: /uploads/2021/audio-MW05_MIGUEL_RIGGS.mp3
-alt: Faltan procesos transparentes en selección de policías
+image: "/uploads/2021/images-mr.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW05_MIGUEL_RIGGS.mp3"
+alt: "Faltan procesos transparentes en selección de policías"
 front: false
-section: Local
+section: "Local"
+news_id: 184032
 ---
 
 Una falta de procesos transparentes para la selección de elementos de las policías municipales es lo que criticó Miguel Riggs, Diputado Federal, quien dijo que es necesario darle solución a la seguridad y mantener buenos elementos dentro de las corporaciones.

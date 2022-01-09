@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En las últimas horas han circulado en diversas redes, especialmente en redes cerradas como WhatsApp, versiones que buscan desinformar por riesgos que podría tener la ciudadanía"
-image: /uploads/2021/images-INE.jpeg
-video: nil
-audio: nil
-alt: Desmiente INE noticias falsas sobre Jornada Electoral
+image: "/uploads/2021/images-INE.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Desmiente INE noticias falsas sobre Jornada Electoral"
 front: false
-section: Local
+section: "Local"
+news_id: 184416
 ---
 
 En las últimas horas han circulado en diversas redes, especialmente en redes cerradas como WhatsApp, versiones que buscan desinformar sobre el proceso electoral y los supuestos riesgos que podría tener la ciudadanía el día de la Jornada Electoral del 6 de junio próximo, por lo que el Instituto Nacional Electoral (INE) informó a la ciudadanía las especificaciones de la jornada.

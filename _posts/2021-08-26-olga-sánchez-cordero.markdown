@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La ex magistrada de la Suprema Corte de Justicia de la Nación fue la primera mujer en dirigir la Segob"
-image: /uploads/2021/images-8CFF127F-36A4-492F-992E-F1AFF71A50CE.jpeg
-video: nil
-audio: nil
-alt: Olga Sánchez Cordero deja la Secretaría de Gobernación para volver al Senado
+image: "/uploads/2021/images-8CFF127F-36A4-492F-992E-F1AFF71A50CE.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Olga Sánchez Cordero deja la Secretaría de Gobernación para volver al Senado"
 front: false
-section: Local
+section: "Local"
+news_id: 187173
 ---
 
 Olga Sánchez Cordero deja la Secretaría de Gobernación para reincorporarse a sus actividades legislativas en el Senado; incluso, podría llegar como presidenta de la Mesa Directiva de la cámara alta para poder sacar los temas pendientes de la agenda Presidencial. 

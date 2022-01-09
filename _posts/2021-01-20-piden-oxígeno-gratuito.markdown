@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La diputada Gabriela Osorio detalló consiste en que los alcaldes implementen de manera urgente un programa de préstamo gratuito de tanques de oxígeno y su recarga"
-image: /uploads/2021/images-2515299.jpg
-video: nil
-audio: nil
-alt: Piden oxígeno gratuito para enfermos de covid en CDMX
+image: "/uploads/2021/images-2515299.jpg"
+video: "nil"
+audio: "nil"
+alt: "Piden oxígeno gratuito para enfermos de covid en CDMX"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182295
 ---
 
 Debido al incremento en el número de enfermos de covid-19 en la Ciudad de México, la diputada Gabriela Osorio exhortó a la alcaldía de Tlalpan a implementar un programa de préstamo gratuito de tanques de oxígeno a los tlalpenses afectados por esta pandemia. 

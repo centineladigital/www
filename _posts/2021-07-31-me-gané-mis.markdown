@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La conductora de MasterChef Celebrity destacó la importancia de la comida en su vida, aunque confiesa que no es buena en la cocina. "
-image: /uploads/2021/images-masterchef-celebrity-llegara-pantallas-mexicanas.jpg
-video: nil
-audio: nil
-alt: Me gané mis primeros pesos vendiendo pasteles -  Rebecca de Alba
+image: "/uploads/2021/images-masterchef-celebrity-llegara-pantallas-mexicanas.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me gané mis primeros pesos vendiendo pasteles -  Rebecca de Alba"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186165
 ---
 
 Rebecca de Alba ha cambiado su rutina. Ahora, como en su niñez y adolescencia, cuando pasaba largo tiempo con su familia en la casa de su abuela, la cocina se ha convertido en parte de su día a día desde que inició las grabaciones de la nueva temporada de MasterChef, en la que diversas celebridades mostrarán sus habilidades para la gastronomía. La grabación del programa tiene un receso, y así se da la oportunidad de hablar con la zacatecana, quien se escucha emocionada ante la nueva experiencia; aunque en el terreno de la conducción ha estado en coberturas muy importantes, como la muerte de Lady Di, los 50 años de la reina Isabel, eventos deportivos, concursos de belleza y destacados conciertos, jamás había hecho un programa relacionado con la gastronomía. 

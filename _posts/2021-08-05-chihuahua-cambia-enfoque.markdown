@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "De combate a prevención es como se lleva a cabo acciones dentro de pandemia."
-image: /uploads/2021/images-MIRNA.jpg
-video: /uploads/2021/videos-MJ06_MIRNA_BELTRAN.mp4
-audio: nil
-alt: Chihuahua cambia enfoque de salud a prevención
+image: "/uploads/2021/images-MIRNA.jpg"
+video: "/uploads/2021/videos-MJ06_MIRNA_BELTRAN.mp4"
+audio: "nil"
+alt: "Chihuahua cambia enfoque de salud a prevención"
 front: false
-section: Local
+section: "Local"
+news_id: 186354
 ---
 
 En materia de combate a la pandemia que originó el COVID-19, el estado cambió el enfoque de combate a prevención, logrando evitar que se incrementen las olas de contagio y muertes, según lo dio a conocer la la Subsecretaría de Promoción y Prevención de la Salud, a cargo de Mirna Beltrán Arzaga.

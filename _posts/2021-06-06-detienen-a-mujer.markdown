@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La mujer fue trasladada a los separos de la Policía"
-image: /uploads/2021/images-images_(2).jpeg
-video: nil
-audio: nil
-alt: Detienen a mujer con boletas marcadas de MORENA
+image: "/uploads/2021/images-images_(2).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Detienen a mujer con boletas marcadas de MORENA"
 front: false
-section: Local
+section: "Local"
+news_id: 184866
 ---
 
 Elementos de la Policía Municipal de Ciudad Juárez detuvieron a una mujer, a la que se le sorprendió con cinco boletas marcas a favor de MORENA fuera de la casilla.

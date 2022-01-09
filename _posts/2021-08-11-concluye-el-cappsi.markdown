@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El evento consistió en una sesión en vivo en donde tres psicoterapeutas especializados del CAPPSI, brindaron a la población información relevante en materia de salud mental, específicamente en temas relacionados con la prevención de la violencia, las adicciones y el suicidio"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Concluye el CAPPSI segunda edición de “Rodadas por la vida”
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Concluye el CAPPSI segunda edición de “Rodadas por la vida”"
 front: false
-section: Local
+section: "Local"
+news_id: 186589
 ---
 
 El Gobierno Municipal a través del Centro de Atención y Prevención Psicológicas (CAPPSI), llevó a cabo la segunda edición virtual "Rodadas por la vida" este 11 de agosto por medio de Facebook.

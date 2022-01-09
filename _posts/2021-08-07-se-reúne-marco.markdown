@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Compartió De la Torre a Bonilla historia sobre como el ex presidente Miguel de la Madrid regresó al pueblo de Chihuahua, los edificios laterales de la Presidencia Municipal"
-image: /uploads/2021/images-WhatsApp_Image_2021-08-07_at_09.57.20.jpeg
-video: nil
-audio: nil
-alt: Se reúne Marco Bonilla con exalcalde Mario de la Torre
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-07_at_09.57.20.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Se reúne Marco Bonilla con exalcalde Mario de la Torre"
 front: false
-section: Local
+section: "Local"
+news_id: 186435
 ---
 
 El alcalde electo de Chihuahua Marco Bonilla sostuvo una reunión con Don Mario de la Torre Hernández quien fue alcalde de la ciudad de Chihuahua en el trienio 1986-1989.

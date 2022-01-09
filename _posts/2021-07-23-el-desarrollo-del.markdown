@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El Vicepresidente y Director General de la NBA en México señaló que buscan que el deporte tome mayor relevancia alrededor del mundo "
-image: /uploads/2021/images-raul-zarraga-director-nba-mexico_0_33_1200_746.jpg
-video: nil
-audio: nil
-alt: El desarrollo del basquetbol es una de nuestras prioridades -  Raúl Zárraga
+image: "/uploads/2021/images-raul-zarraga-director-nba-mexico_0_33_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "El desarrollo del basquetbol es una de nuestras prioridades -  Raúl Zárraga"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185942
 ---
 
 De parte de la NBA, surge la primera Basketball School en México, donde Horacio Llamas participará como entrenador invitado en el Primer Campamento que se realizará del 26 al 30 de julio en La Loma Centro Deportivo en San Luis Potosí. Con antecedentes de éxito en países como Brasil, China, Grecia, India y Emiratos Árabes, ahora jugadoras y jugadores mexicanos de entre 6 a 18 años podrán participar en la primera actividad del programa de desarrollo, que además tendrá a lo largo del año otros eventos relacionados. 

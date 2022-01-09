@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Eiza González interpretará a 'La Doña' y también producirá la película junto a Dana Harris y Nicole King. "
-image: /uploads/2021/images-eiza-gonzalez-dara-vida-pantalla.jpg
-video: nil
-audio: nil
-alt: ¡Dará vida a ‘La Doña’! Eiza González interpretará a María Félix en película biográfica
+image: "/uploads/2021/images-eiza-gonzalez-dara-vida-pantalla.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Dará vida a ‘La Doña’! Eiza González interpretará a María Félix en película biográfica"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186231
 ---
 
 La mexicana Eiza González dará vida en la pantalla grande a María Félix, la diva del cine mexicano, originaria de Álamos Sonora. La protagonista de Baby Driver fue la encargada de dar en anuncio en sus redes sociales. “Este es uno de los momentos más emocionantes de mi vida. Siempre he querido contar una historia que presenta a mujeres, a saber, mujeres latinas”, escribió la actriz en su cuenta de Instagram para compartir la noticia. 

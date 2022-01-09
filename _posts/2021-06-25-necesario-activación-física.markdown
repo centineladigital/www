@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Exhorta a ir al médico en caso de ser necesario."
-image: /uploads/2021/images-R3.jpg
-video: nil
-audio: /uploads/2021/audio-MV04_SILVIA_MAYNEZ.mp3
-alt: Necesario activación física para evitar retención de líquidos -  UACH
+image: "/uploads/2021/images-R3.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV04_SILVIA_MAYNEZ.mp3"
+alt: "Necesario activación física para evitar retención de líquidos -  UACH"
 front: false
-section: Local
+section: "Local"
+news_id: 185247
 ---
 
 Con el fin de evitar la retención de líquidos la Universidad Autónoma de Chihuahua exhortó a la población a realizar acciones de reactivación según lo dio a conocer Silvia Berenice Maynez Ocón, Facultad de Medicina y Ciencias Biomédicas UACH.

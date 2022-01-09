@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantautor colombiano fusiona su sensibilidad con el rapero puertorriqueño Mike Towers, con quien interpreta Pareja del año, tema del que anoche estrenaron video "
-image: /uploads/2021/images-yatra-une-mike-towers-continuar_0_128_1200_747.jpg
-video: nil
-audio: nil
-alt: Sebastián Yatra revela su gusto por la música urbana al lado de Mike Towers
+image: "/uploads/2021/images-yatra-une-mike-towers-continuar_0_128_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sebastián Yatra revela su gusto por la música urbana al lado de Mike Towers"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183937
 ---
 
 Sebastián Yatra y Mike Towers se han convertido en la “Pareja del año”, como lo revela el video que estrenaron anoche, donde el cantautor colombiano y el rapero puertorriqueño combinan sus estilos y pasión por la música. El material con el que ambos experimentan al combinar sus ritmos y sensibilidad fue realizado en el teatro Adrienne Arsht de Miami y fue dirigido por Daniel Duran. Y al hablar de la experiencia, Sebastián Yatra expresó: “’Pareja del año’ representa dónde estoy actualmente musicalmente, mezclando los géneros pop y urbano. Todo lo que Mike Towers hace es fuera de este mundo, por lo que me siento emocionado de colaborar con él en mi nuevo sencillo”, dijo al referirse a la canción que está presentando y se acompaña del video que se estrenó anoche. Tema que además proyecta la evolución que sigue proyectando en sus propuestas musicales. Ahora en mancuerna con el rapero.

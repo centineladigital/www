@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Dirección de Seguridad Pública y la Dirección de Desarrollo Humano y Educación se están llevando las"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Continúa Gobierno Municipal atendiendo necesidades de familias en asentamiento tarahumara
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Continúa Gobierno Municipal atendiendo necesidades de familias en asentamiento tarahumara"
 front: false
-section: Local
+section: "Local"
+news_id: 183608
 ---
 
 El Gobierno Municipal continúa brindando atención y servicios a 63 familias del asentamiento tarahumara Oasis, Kali Resácame, con la participación de diversas dependencias se dio inicio a esta intervención.

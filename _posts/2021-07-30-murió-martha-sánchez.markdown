@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La activista fue parte de la revista Forbes como una de las 100 mujeres más poderosas de México en 2017; murió por complicaciones de covid-19 "
-image: /uploads/2021/images-activista-sanchez-nestor-inicio-lucha_0_1_1200_745.jpg
-video: nil
-audio: nil
-alt: Murió Martha Sánchez, activista indígena de Guerrero; colectivos lamentan fallecimiento
+image: "/uploads/2021/images-activista-sanchez-nestor-inicio-lucha_0_1_1200_745.jpg"
+video: "nil"
+audio: "nil"
+alt: "Murió Martha Sánchez, activista indígena de Guerrero; colectivos lamentan fallecimiento"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186141
 ---
 
 Martha Sánchez Néstor, activista feminista y defensora de los derechos de los indígenas, murió a causa de complicaciones derivadas el covid-19. Al respecto, activistas y colectivos feministas lamentaron en redes sociales el fallecimiento de guerrerense. 

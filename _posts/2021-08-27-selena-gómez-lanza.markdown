@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El videoclip, filmado en Los Ángeles (California), presenta al dúo en un entorno visualmente natural. "
-image: /uploads/2021/images-una-colaboracion-muy-esperada-por.jpg
-video: nil
-audio: nil
-alt: Selena Gómez lanza '999', su nueva canción junto a Camilo; así la puedes escuchar
+image: "/uploads/2021/images-una-colaboracion-muy-esperada-por.jpg"
+video: "nil"
+audio: "nil"
+alt: "Selena Gómez lanza '999', su nueva canción junto a Camilo; así la puedes escuchar"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187187
 ---
 
 Selena Gómez lanzo este jueves "999", canción y video en colaboración con Camilo. "Camilo es un compositor y cantante fantástico que lleva con orgullo exponer sus verdaderas emociones y sentimientos, con lo que conectamos de inmediato", dijo en un comunicado la también actriz. 

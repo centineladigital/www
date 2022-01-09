@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se resguardaron 562 unidades y solo quedaron en excepción para su uso, aquellas que resultan indispensables"
-image: /uploads/2021/images-Blindaje_electoral_2.jpeg
-video: nil
-audio: nil
-alt: Resguardan parque vehicular y oficinas por blindaje electoral
+image: "/uploads/2021/images-Blindaje_electoral_2.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Resguardan parque vehicular y oficinas por blindaje electoral"
 front: false
-section: Local
+section: "Local"
+news_id: 184861
 ---
 
 La Secretaría de Salud del Estado en coordinación con la Secretaría de la Función Pública, llevó a cabo el cierre de las oficinas administrativas y el resguardo de la mayor parte del parque vehicular.

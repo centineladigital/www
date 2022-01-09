@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El hermano de Arath de la Torre habló de los motivos de su distanciamiento. "
-image: /uploads/2021/images-hermano-arath-torre-distanciamiento-actor_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Está en esa postura -  Ulises de la Torre habla de su distanciamiento con su hermano Arath
+image: "/uploads/2021/images-hermano-arath-torre-distanciamiento-actor_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Está en esa postura -  Ulises de la Torre habla de su distanciamiento con su hermano Arath"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183675
 ---
 
 Arath de la Torre ha hablado en algunas ocasiones de la complicada relación que mantiene con su hermano menor, Ulises, quien también tiene una carrera en televisión como actor y presentador. Fue durante una entrevista con Yordi Rosado que el conductor del programa Hoy reconoció que mantienen "una relación intermitente", situación que dijo "no ha sido fácil". Tras las declaraciones del conductor de Televisa, su hermano Ulises se sinceró con la prensa y habló por primera vez de los motivos de su distanciamiento. Señaló que su relación ha sido complicada por "decisión" del mismo Arath de la Torre. 

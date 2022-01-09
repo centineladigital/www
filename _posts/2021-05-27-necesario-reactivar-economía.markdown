@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Trata temas de viviendas verticales."
-image: /uploads/2021/images-BONILLA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ07_MARCO_BONILLA.mp3
-alt: Necesario reactivar economía del municipio -  Bonilla
+image: "/uploads/2021/images-BONILLA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ07_MARCO_BONILLA.mp3"
+alt: "Necesario reactivar economía del municipio -  Bonilla"
 front: false
-section: Local
+section: "Local"
+news_id: 184694
 ---
 
 Como necesario calificó el candidato a la Alcaldía de Chihuahua, Marco Bonilla, el reactivar la economía en el municipio de Chihuahua, esto al sostener una reunión con integrantes de la Asociación de los Comerciantes del Centro, o COCENTRO por sus siglas.

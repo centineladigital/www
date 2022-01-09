@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz se llevó la noche en los Oscar 2021 tras bailar frente a todos los asistentes."
-image: /uploads/2021/images-glenn-close-nominada-oscar-ocasiones_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: No soy una perdedora -  Glenn Close habla de qué siente tras haber estado nominada al Oscar 8 veces y no ganar
+image: "/uploads/2021/images-glenn-close-nominada-oscar-ocasiones_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "No soy una perdedora -  Glenn Close habla de qué siente tras haber estado nominada al Oscar 8 veces y no ganar"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184343
 ---
 
 Aunque Glenn Close ha sido nominada a ocho Oscar, sin ganar ninguno, la famosa actriz quiere dejar algo en claro: no es una perdedora. Esto luego de haber sido nominada a mejor actriz en cuatro ocasiones y competir por cuarta ocasión al premio de mejor actriz de reparto en los Premios de la Academia del mes pasado.  Cuando la estrella de “Minari” Youn Yuh-jung ganó el premio, el diario The Los Angeles Times publicó un artículo con el encabezado, “Después de 8 derrotas en los Oscar, Glenn Close está empatada como la actriz con más nominaciones sin un triunfo”. Esto llevó a que la actriz galardonada con el Emmy Sarah Paulson tuiteara en defensa de Close, “desearía que cesara esta conversación. Ella es brillante y sigue teniendo una carrera extraordinaria y envidiable. Buenas noches a esta búsqueda de clics hacia ninguna parte”. 

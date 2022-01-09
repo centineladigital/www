@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El jueves 29 habrá escenificación teatral y el viernes 30 una guardia de honor en el Altar a la Patria; además, se hará la reapertura del museo dedicado al prócer, en el Palacio de Gobierno"
-image: /uploads/2021/images-INVITACIÓN_210_ANIVERSARIO_FUSILAMIENTO_HIDALGO.jpeg
-video: nil
-audio: nil
-alt: Conoce la programación por el 210 Aniversario del Fusilamiento de Hidalgo
+image: "/uploads/2021/images-INVITACIÓN_210_ANIVERSARIO_FUSILAMIENTO_HIDALGO.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Conoce la programación por el 210 Aniversario del Fusilamiento de Hidalgo"
 front: false
-section: Local
+section: "Local"
+news_id: 186024
 ---
 
 Como parte de la conmemoración del Bicentenario de la Consumación de la Independencia y el 210 Aniversario del Fusilamiento de Miguel Hidalgo y Costilla, la Secretaría de Cultura de Chihuahua invita a disfrutar las actividades presenciales que se realizarán este jueves 29 y viernes 30 de julio.

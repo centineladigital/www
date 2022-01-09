@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Luego de la llegada del astro argentino al Parque de los Príncipes, su proceso de adaptación al equipo ha sido favorable, así lo reconoció el entrenador del PSG "
-image: /uploads/2021/images-pochetino-hablo-sobre-el-astro_0_1_1200_746.jpeg
-video: nil
-audio: nil
-alt: Se ha adaptado muy rápido -  Mauricio Pochettino elogia a Lionel Messi
+image: "/uploads/2021/images-pochetino-hablo-sobre-el-astro_0_1_1200_746.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Se ha adaptado muy rápido -  Mauricio Pochettino elogia a Lionel Messi"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186865
 ---
 
 El entrenador del París Saint-Germain (PSG), Mauricio Pochettino, señaló este jueves que Lionel Messi se ha adaptado "muy bien y muy rápido" al equipo y destacó que todo lo que aporta "es positivo". 

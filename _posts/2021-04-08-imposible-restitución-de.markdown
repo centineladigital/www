@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Irreversible situación de juez."
-image: /uploads/2021/images-ESPINOZA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ07_JORGE_ESPINOZA.mp3
-alt: Imposible restitución de Juez Ramírez -  Consejero
+image: "/uploads/2021/images-ESPINOZA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ07_JORGE_ESPINOZA.mp3"
+alt: "Imposible restitución de Juez Ramírez -  Consejero"
 front: false
-section: Local
+section: "Local"
+news_id: 183769
 ---
 
 Por el proceso penal Jorge Abraham R.A no puede ser restituido como magistrado, señaló el Consejero Jurídico, Jorge Espinoza Cortés, señaló que esta suspensión le concedió el colegiado es de “imposible cumplimiento jurídico”, por lo que no puede volver.

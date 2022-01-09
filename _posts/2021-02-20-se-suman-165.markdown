@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "De acuerdo al reporte epidemiológico de la Secretaría de Salud se confirmaron también 14 decesos para alcanzar 4 mil 914 defunciones en el estado"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt:  Se suman 165 personas contagiadas para llegar a 52,824 casos de COVID-19
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: " Se suman 165 personas contagiadas para llegar a 52,824 casos de COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 183067
 ---
 
 El reporte diario de la pandemia por COVID-19 emitido por la Secretaría de Salud muestra que al 20 de febrero van 52 mil 824 contagios acumulados, con 165 confirmados en las últimas horas.

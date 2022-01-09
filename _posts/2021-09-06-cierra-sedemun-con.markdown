@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La coordinación entre autoridades estatales y municipales, así como la participación activa de la sociedad, fueron fundamentales para atender a las comunidades más apartadas"
-image: /uploads/2021/images-OBRAS_JUSTICIA_SEDEMUN_(1).jpg
-video: nil
-audio: nil
-alt: Cierra Sedemun con obras por casi 17 mdp en 5 municipios
+image: "/uploads/2021/images-OBRAS_JUSTICIA_SEDEMUN_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Cierra Sedemun con obras por casi 17 mdp en 5 municipios"
 front: false
-section: Local
+section: "Local"
+news_id: 187469
 ---
 
 Este fin de semana, el Maratón de Obras llegó a otros cinco municipios en donde se inauguró infraestructura social, se supervisaron los avances de diversos trabajos y se dio el banderazo de arranque a otros más, con una inversión de 16 millones 917 mil 414.34 pesos, informó la Secretaría de Desarrollo Municipal (Sedemun) del Gobierno del Estado de Chihuahua.

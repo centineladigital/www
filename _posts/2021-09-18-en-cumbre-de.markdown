@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Presidente propuso crear un acuerdo con Estados Unidos y Canadá para fortalecer mercado interno en el continente. "
-image: /uploads/2021/images-amlo-propuso-firmar-tratado-eu.jpg
-video: nil
-audio: nil
-alt: En cumbre de la Celac, AMLO llama a integración económica con EU y Canadá
+image: "/uploads/2021/images-amlo-propuso-firmar-tratado-eu.jpg"
+video: "nil"
+audio: "nil"
+alt: "En cumbre de la Celac, AMLO llama a integración económica con EU y Canadá"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187842
 ---
 
 El presidente Andrés Manuel López Obrador hizo un llamado a la integración económica con Estados Unidos y Canadá, "en un marco de respeto a las soberanías", así como a terminar con bloqueos económicos y malos tratos. 

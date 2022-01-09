@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Recuperación se dio debido a la forma de llevar a cabo estrategias dentro de la pandemia."
-image: /uploads/2021/images-EDIBRAY.jpg
-video: nil
-audio: /uploads/2021/audio-ML05_EDIBRAY_GOMEZ.mp3
-alt: Anuncia CANACO recuperación pese a pandemia
+image: "/uploads/2021/images-EDIBRAY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML05_EDIBRAY_GOMEZ.mp3"
+alt: "Anuncia CANACO recuperación pese a pandemia"
 front: false
-section: Local
+section: "Local"
+news_id: 182605
 ---
 
 Pese a que se han tenido pérdidas dentro de la economía la Cámara Nacional de Comercio en Chihuahua señala que se ha dado una “pequeña recuperación”, esto según palabras de Edibray Gómez, presidente de este organismo a nivel estatal.

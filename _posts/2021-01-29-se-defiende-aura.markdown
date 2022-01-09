@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un empresario acusó a Aura Cristina Geithner de defraudarlo; antes estas declaraciones, la actriz respondió y pondrá una demanda. "
-image: /uploads/2021/images-actriz-buscara-resolver-polemica-ley.jpg
-video: nil
-audio: nil
-alt: ¡Se defiende! Aura Cristina Geithner asegura que no realizó fraude a empresario
+image: "/uploads/2021/images-actriz-buscara-resolver-polemica-ley.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Se defiende! Aura Cristina Geithner asegura que no realizó fraude a empresario"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182571
 ---
 
 Hace unos días se dio a conocer que un empresario supuestamente había sido víctima de fraude por parte de la actriz Aura Cristina Geithner, esto después de que le diera una cantidad de dinero para ayudarla a cumplir su sueño de consolidar su carrera como cantante, sin embargo, el empresario aseguró que la colombiana nunca le regresó las ganancias, acuerdo que habían establecido. El empresario Néstor Mendoza aseguró que le realizó un préstamo de 200 mil pesos a Aura Cristina Geithner, esto con el fin de que la actriz buscara personas que la apoyaran con su carrera musical y una vez que sacara a la venta su disco, le daría algunas de las ganancias al empresario. 

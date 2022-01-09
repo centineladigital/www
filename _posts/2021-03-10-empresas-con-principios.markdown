@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de la materialización de riesgos y estrategias para mitigarlos, Deloitte México busca mejorar la imagen de las empresas frente a clientes y consumidores, mostrándolas como una opción atractiva de inversión"
-image: /uploads/2021/images-2542349.jpg
-video: nil
-audio: nil
-alt: Empresas con principios ASG son más resilientes ante crisis sociales y ambientales
+image: "/uploads/2021/images-2542349.jpg"
+video: "nil"
+audio: "nil"
+alt: "Empresas con principios ASG son más resilientes ante crisis sociales y ambientales"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183363
 ---
 
 Acontecimientos como la pandemia y los desastres naturales han dejado al descubierto la fortaleza y madurez de las empresas que en su ADN integran los principios ambientales, sociales y de gobernanza, también conocidos como ASG o ESG, por sus siglas en inglés.

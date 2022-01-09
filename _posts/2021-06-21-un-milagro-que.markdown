@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un vehículo se impactó contra la casa del conductor la madrugada del viernes; Alan reveló ya hay una investigación en proceso."
-image: /uploads/2021/images-alan-tacher-instagram.jpg
-video: nil
-audio: nil
-alt: “Un milagro que no nos haya matado -  Vehículo se estrella contra la casa de Alan Tacher
+image: "/uploads/2021/images-alan-tacher-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Un milagro que no nos haya matado -  Vehículo se estrella contra la casa de Alan Tacher"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185157
 ---
 
 Alan Tacher vivió un gran susto este fin de semana, pues durante la emisión de este lunes del programa Despierta América, donde es el conductor titular, contó que sufrió un accidente la madrugada del viernes: un vehículo se estrelló contra su casa.   

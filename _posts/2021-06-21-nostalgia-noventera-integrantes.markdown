@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Lance Bass y Joey Fatone, de NSYNC, y AJ McLean y Nick Carter, de Backstreet Boys, forman parte de este talentoso ensamble. "
-image: /uploads/2021/images-proyecto-une-boy-bands-importantes.jpg
-video: nil
-audio: nil
-alt: ¡Nostalgia noventera! Integrantes de Backstreet Boys y NSYNC forman una nueva banda, Back-Sync
+image: "/uploads/2021/images-proyecto-une-boy-bands-importantes.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Nostalgia noventera! Integrantes de Backstreet Boys y NSYNC forman una nueva banda, Back-Sync"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185141
 ---
 
 Integrantes de las boy bands más famosas de los años 90, Backstreet Boys y NSYNC, sorprendieron a sus seguidores al reunirse para formar un nuevo proyecto: Back-Sync, donde rescatan los éxitos que consagraron a ambas agrupaciones a nivel mundial, por ejemplo "I Want It That Way" y "Bye Bye Bye".  Lance Bass y Joey Fatone, de NSYNC, y AJ McLean y Nick Carter, de Backstreet Boys, forman parte de este talentoso ensamble que hace unos días ofreció un concierto en Los Ángeles a favor de la comunidad LGBT.

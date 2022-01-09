@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La canciller de Alemania, Angela Merkel, fue a otra zona afectada por el frente climático y defendió el sistema de alerta y las instituciones de emergencias. "
-image: /uploads/2021/images-alemania-fue-el-pais-mas_0_39_1024_637.jpg
-video: nil
-audio: nil
-alt: Aumentan a 200 el número de muertos por las históricas inundaciones en Europa
+image: "/uploads/2021/images-alemania-fue-el-pais-mas_0_39_1024_637.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aumentan a 200 el número de muertos por las históricas inundaciones en Europa"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185827
 ---
 
 El balance de muertos por las devastadoras inundaciones en Europa superó las 200 personas, luego que los servicios de socorro de Alemania anunciaron haber contabilizado 169 fallecidos tras la reciente tragedia que es considerada como una de las más graves en la historia reciente para esas zonas.

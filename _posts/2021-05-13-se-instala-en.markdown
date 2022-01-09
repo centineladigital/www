@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gobernador Javier Corral le toma la protesta a integrantes del Consejo y destaca que se brindará seguridad jurídica, tanto a los profesionales del sector como a las y los chihuahuenses que requieren de sus servicios para adquirir o vender bienes inmuebles"
-image: /uploads/2021/images-INTEGRACIÓN_CONSEJO_ESTATAL_SERVICIOS_INMOBILIARIOS_(1).jpg
-video: nil
-audio: nil
-alt: Se instala en Chihuahua Consejo Estatal de Servicios Inmobiliarios
+image: "/uploads/2021/images-INTEGRACIÓN_CONSEJO_ESTATAL_SERVICIOS_INMOBILIARIOS_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Se instala en Chihuahua Consejo Estatal de Servicios Inmobiliarios"
 front: false
-section: Local
+section: "Local"
+news_id: 184441
 ---
 
 El gobernador Javier Corral declaró formalmente instalado el Consejo Estatal de Servicios Inmobiliarios del Estado de Chihuahua y tomó la protesta a los integrantes del organismo que regulará esta actividad económica y brindará seguridad y certeza jurídica en la adquisición y venta de propiedades.

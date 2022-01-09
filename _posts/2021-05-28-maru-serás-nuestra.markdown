@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La candidata por la coalición Nos Une Chihuahua a la gubernatura, cerró filas con simpatizantes y candidatos perredistas, de cara a la próxima elección del 6 de junio"
-image: /uploads/2021/images-Maru_cierre_en_cuauhtémoc.jpg
-video: nil
-audio: nil
-alt: Maru, serás nuestra próxima gobernadora -  PRD Cuauhtémoc
+image: "/uploads/2021/images-Maru_cierre_en_cuauhtémoc.jpg"
+video: "nil"
+audio: "nil"
+alt: "Maru, serás nuestra próxima gobernadora -  PRD Cuauhtémoc"
 front: false
-section: Local
+section: "Local"
+news_id: 184718
 ---
 
 Finalizando su gira de cierre de campaña por la región de Cuauhtémoc, Maru Campos ,la candidata por la coalición Nos Une Chihuahua a la gubernatura, cerró filas con simpatizantes y candidatos perredistas, de cara a la próxima elección del 6 de junio.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Lionel Messi firmaría con el Barcelona por cinco años más."
-image: /uploads/2021/images-16120506719034.jpg
-video: nil
-audio: nil
-alt: Lionel Messi ya tendría un principio de acuerdo para renovar con el Barcelona
+image: "/uploads/2021/images-16120506719034.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lionel Messi ya tendría un principio de acuerdo para renovar con el Barcelona"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185647
 ---
 
 El Barcelona y Leo Messi habrían llegado a un principio de acuerdo para que el astro argentino continúe cinco años más vistiendo la camiseta azulgrana, asegura este miércoles la prensa española.

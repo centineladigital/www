@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Human Rights First explica que la administración estadunidense está ampliando el uso de vuelos de expulsión para transportar migrantes; también se estima que se está poniendo en peligro a los trabajadores humanitarios y abogados "
-image: /uploads/2021/images-joe-biden-referencia-restablecer-internet.jpg
-video: nil
-audio: nil
-alt: Gobierno de Biden rechaza migrantes que necesitan asilo, advierte organización
+image: "/uploads/2021/images-joe-biden-referencia-restablecer-internet.jpg"
+video: "nil"
+audio: "nil"
+alt: "Gobierno de Biden rechaza migrantes que necesitan asilo, advierte organización"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187221
 ---
 
 La administración del presidente Joe Biden continúa rechazando y bloqueando a personas migrantes que solicitan asilo en Estados Unidos, al igual que hacía su predecesor Donald Trump, advirtió la organización Human Rights First.  De acuerdo con la organización internacional de derechos humanos, la administración demócrata está dando continuidad a la política de expulsión, la cual “viola flagrantemente” las leyes y tratados de asilo de Estados Unidos, así como su constitución misma.

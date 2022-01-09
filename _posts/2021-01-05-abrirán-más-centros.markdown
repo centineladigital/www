@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "‘Estamos esperando hacerlo a finales de esta semana, a principios de la próxima’ dijo la jefa de Gobierno, Claudia Sheinbaum"
-image: /uploads/2021/images-2506637.jpg
-video: nil
-audio: nil
-alt: Abrirán más centros de recarga gratuita de tanques de oxígeno
+image: "/uploads/2021/images-2506637.jpg"
+video: "nil"
+audio: "nil"
+alt: "Abrirán más centros de recarga gratuita de tanques de oxígeno"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 181881
 ---
 
 La jefa de gobierno de la Ciudad de México, Claudia Sheinbaum, informó que a la fecha 35 mil 282 integrantes del sector salud en la capital han recibido la primera dosis de la vacuna contra la Covid-19 de la farmacéutica Pfizer.

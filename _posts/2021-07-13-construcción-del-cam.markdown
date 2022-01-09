@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El proyecto tuvo una inversión superior a los 26 mdp; cuenta con dos edificios para el área académica y laboral, además de equipo especializado para terapia física y aula sensorial."
-image: /uploads/2021/images-1.jpg
-video: nil
-audio: nil
-alt: Construcción del CAM “Juan Jacobo Rousseau”  marca un parteaguas en la atención a estudiantes con discapacidad
+image: "/uploads/2021/images-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Construcción del CAM “Juan Jacobo Rousseau”  marca un parteaguas en la atención a estudiantes con discapacidad"
 front: false
-section: Local
+section: "Local"
+news_id: 185624
 ---
 
 Como parte de las acciones para la inclusión de niñas, niños y jóvenes con alguna discapacidad, la Secretaría de Educación y Deporte (SEyD), a través del Instituto Chihuahuense de Infraestructura Física Educativa (Ichife), llevó a cabo la construcción de las nuevas instalaciones del Centro de Atención Múltiple (CAM) “Juan Jacobo Rousseau”.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La escasa inversión en ciencias en relación a los países desarrollados complica la producción de vacunas en una región que está rezagada en sus campañas de vacunación por las dificultades de acceso a las dosis"
-image: /uploads/2021/images-2568468.jpg
-video: nil
-audio: nil
-alt: 'América Latina debe invertir más en ciencia para superar la pandemia'
+image: "/uploads/2021/images-2568468.jpg"
+video: "nil"
+audio: "nil"
+alt: "'América Latina debe invertir más en ciencia para superar la pandemia'"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184097
 ---
 
 América Latina y el Caribe deben invertir más en ciencia y tecnología para fortalecer sus precarios sistemas de salud y superar la pandemia de COVID-19, que dejó al descubierto las brechas que existen en la región más desigual del planeta, dijo una destacada representante de la UNESCO en la región.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Como entidad especializada en la materia, requiere “asumir ni más ni menos la función que tiene en competencia directa”, señala el Gobernador en conferencia de prensa desde Ciudad Juárez"
-image: /uploads/2021/images-JAVIER_CORRAL_GOBERNADOR.JPG
-video: nil
-audio: nil
-alt: Se requiere mayor trabajo y presencia de la Seido  contra delincuencia organizada -  Javier Corral
+image: "/uploads/2021/images-JAVIER_CORRAL_GOBERNADOR.JPG"
+video: "nil"
+audio: "nil"
+alt: "Se requiere mayor trabajo y presencia de la Seido  contra delincuencia organizada -  Javier Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 184498
 ---
 
 El gobernador Javier Corral Jurado señaló que es necesario que el Gobierno Federal refuerce su presencia a través de la Seido (Subprocuraduría Especializada en Investigación de Delincuencia Organizada), para apoyar al Gobierno del Estado a inhibir los delitos de este tipo.

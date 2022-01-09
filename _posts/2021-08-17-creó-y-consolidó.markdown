@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Chihuahua se ocupó de asignar recursos públicos hacia infraestructura productiva, señala el gobernador Javier Corral"
-image: /uploads/2021/images-inauguración_CIITA_JZ.jpg
-video: nil
-audio: nil
-alt: Creó y consolidó Estado ecosistema de innovación, ciencia y desarrollo tecnológico
+image: "/uploads/2021/images-inauguración_CIITA_JZ.jpg"
+video: "nil"
+audio: "nil"
+alt: "Creó y consolidó Estado ecosistema de innovación, ciencia y desarrollo tecnológico"
 front: false
-section: Local
+section: "Local"
+news_id: 186778
 ---
 
 En su Quinto Informe de Gobierno, en Ciudad Juárez, el gobernador Javier Corral Jurado compartió que el Gobierno del Estado creó y consolidó un ecosistema de innovación, ciencia y desarrollo tecnológico, basado en una estrategia para vigorizar y explotar al máximo las ventajas competitivas.

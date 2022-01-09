@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El partido es competitivo y está presente, contrario a lo que muchos piensan"
-image: /uploads/2021/images-ERYERER.jpg
-video: nil
-audio: /uploads/2021/audio-AV01_ROSA_ISELA_GAYTAN.mp3
-alt: Buscaría diputada Rosa Isela Gaytán reelegirse 
+image: "/uploads/2021/images-ERYERER.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AV01_ROSA_ISELA_GAYTAN.mp3"
+alt: "Buscaría diputada Rosa Isela Gaytán reelegirse "
 front: false
-section: Local
+section: "Local"
+news_id: 182368
 ---
 
 La diputada local del PRI, Rosa Isela Gaytán refirió que está lista para el encargo que su partido le convoque a participar en las elecciones de este año, sin embargo, evalúa la reelección.

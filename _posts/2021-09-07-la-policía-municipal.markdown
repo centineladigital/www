@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Es preciso denunciar situaciones de acoso "
-image: /uploads/2021/images-manque.jpg
-video: /uploads/2021/videos-WhatsApp_Video_2021-09-07_at_2.09.55_PM.mp4
-audio: nil
-alt: La policía municipal actúa  de manera coadyuvante para resolver casos de acoso en el BOWI 
+image: "/uploads/2021/images-manque.jpg"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-09-07_at_2.09.55_PM.mp4"
+audio: "nil"
+alt: "La policía municipal actúa  de manera coadyuvante para resolver casos de acoso en el BOWI "
 front: false
-section: Local
+section: "Local"
+news_id: 187519
 ---
 
 La alcaldesa Manque Granados aseguró que la policía municipal actúa de manera coadyuvante con las autoridades estatales y judiciales  respecto a los casos mencionados de acoso en las instalaciones del BOWI.

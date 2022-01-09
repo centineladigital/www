@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Espacios públicos y laborales deben de aperturarse."
-image: /uploads/2021/images-MARIO.jpg
-video: nil
-audio: /uploads/2021/audio-MM03_MARIO_VAZQUEZ.mp3
-alt: Necesario espacios accesibles y oportunidades laborales para personas discapacitadas -  Vázquez
+image: "/uploads/2021/images-MARIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM03_MARIO_VAZQUEZ.mp3"
+alt: "Necesario espacios accesibles y oportunidades laborales para personas discapacitadas -  Vázquez"
 front: false
-section: Local
+section: "Local"
+news_id: 184779
 ---
 
 Como necesario calificó el candidato del distrito décimo sexto señaló que es necesario generar igualdad de condiciones y desarrollo. Esto al afirmar que es necesario el que se creen espacios y oportunidad laboral.

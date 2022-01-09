@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "A familias que viven en situación de vulnerabilidad."
-image: /uploads/2021/images-uach1.jpg
-video: nil
-audio: /uploads/2021/audio-MV05_LUIS_RIVERA.mp3
-alt: Apoyan estudiantes de la UACH a personas de escasos recursos
+image: "/uploads/2021/images-uach1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05_LUIS_RIVERA.mp3"
+alt: "Apoyan estudiantes de la UACH a personas de escasos recursos"
 front: false
-section: Local
+section: "Local"
+news_id: 182563
 ---
 
 Con medicamentos y víveres personas que viven en situación de vulnerabilidad fueron apoyadas por parte de alumnos y docentes de la Facultad de Derecho, siendo colonias como: División del Norte y granjas Cerro Grande, Punta Oriente, Mármol 3, Ladrilleras y Las Torres, algunas de las colonias beneficiadas.

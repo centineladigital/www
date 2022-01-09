@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El servicio de Detilichadero es gratuito y se lleva a cabo de 8 de la mañana a 3 de la tarde en cada sector"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Este es el programa del Destilichadero para la última semana de julio
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Este es el programa del Destilichadero para la última semana de julio"
 front: false
-section: Local
+section: "Local"
+news_id: 185973
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos continúa realizando labores de Destilichadero en distintas zonas de la ciudad.

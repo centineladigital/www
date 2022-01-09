@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pati Chapoy reveló en su programa Ventaneando que Ninel Conde también fue detenida junto a Larry Ramos, pero que después un abogado pagó la fianza del Bobón Asesino. ¿Es verdad? "
-image: /uploads/2021/images-ninel-conde-larry-ramos-huyen.jpg
-video: nil
-audio: nil
-alt: Los pescan a los dos -  Pati Chapoy asegura que Ninel Conde también fue detenida junto a Larry Ramos
+image: "/uploads/2021/images-ninel-conde-larry-ramos-huyen.jpg"
+video: "nil"
+audio: "nil"
+alt: "Los pescan a los dos -  Pati Chapoy asegura que Ninel Conde también fue detenida junto a Larry Ramos"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184018
 ---
 
 ¿Ninel Conde fue detenida junto a Larry Ramos? La noticia sobre la detención del esposo de Ninel Conde, Larry Ramos, por fraude millonario en Estados Unidos causó conmoción en el mundo del espectáculo. Y es que aunque ya se sabía de los problemas que tenía la pareja del Bombón Asesino, no se esperaba que la FBI lo detuviera. El tema ha dado mucho de qué hablar, pues a tan sólo unas horas de que circuló la noticia de su detención, se comunicó que el implicado ya había sido liberado. Sin embargo, lo más controversial fue lo que informaron en el programa Ventaneando de TV Azteca, pues aseguraron que Ninel Conde también había sido detenida y que había pagado una fianza para quedar libre. ¿Es verdad? Te contamos lo que sabemos sobre este polémico caso.

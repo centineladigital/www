@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Justin Lin será el director de la penúltima película de la saga de 'Rápidos y furiosos'; conoce aquí todos los detalles de la nueva entrega. "
-image: /uploads/2021/images-10_rapidos.jpg
-video: nil
-audio: nil
-alt: ¡El final se acerca! Revelan fecha de estreno de 'Rápidos y furiosos 10'
+image: "/uploads/2021/images-10_rapidos.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡El final se acerca! Revelan fecha de estreno de 'Rápidos y furiosos 10'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186827
 ---
 
 Rápidos y furiosos 9 llegó a las salas de cine hace menos de dos meses, pero si te quedaste con ganas de más Dominic Toretto, autos 'voladores' y arriesgadas carreras, no te preocupes, porque ya hay fecha de estreno para la décima y penúltima entrega de una de las sagas más exitosas de la historia del cine, protagonizada por Vin Diesel.  La revista Entertainment Weekly informó este martes en primicia de esta fecha de lanzamiento que, posteriormente, fue confirmada por medios especializados en Hollywood como Variety o Deadline. Esto después de que Rápidos y furiosos 9 se convirtiera en la película más taquillera desde que comenzó la pandemia del coronavirus en 2019, tras superar los 600 millones de dólares. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante una entrevista, Verdú contó que llegó a tener un juicio por un caso de acoso en los comienzos de su carrera, pero “entonces no se hablaba de esto”. "
-image: /uploads/2021/images-maribel-verdu-instagram.jpg
-video: nil
-audio: nil
-alt: Dan asco y tanta rabia -  Maribel Verdú revela que sufrió acoso sexual
+image: "/uploads/2021/images-maribel-verdu-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "Dan asco y tanta rabia -  Maribel Verdú revela que sufrió acoso sexual"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184760
 ---
 
 Durante una entrevista para un programa de televisión español, la actriz Maribel Verdú, que cobró notoriedad en México por su protagónico en la cinta Y tu mamá también (2001), reveló que a lo largo de su carrera ha sufrido situaciones desagradables, como el acoso sexual "de gente muy influyente". “No conozco a ninguna mujer a la que no le haya pasado, que no hayamos tenido que soportar barbaridades”, manifestó la española, quien luego detalló que en el trabajo llegó "gente muy influyente" a llamar a su camerino y tuvo que decirles "puede salir usted de aquí” 

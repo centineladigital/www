@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "La mañana de este miércoles, César Jáuregui integrante del equipo de transición, tuvo un encuentro con el Secretario General de Gobierno del Estado, Luis Fernando Mesta para el intercambio de información correspondiente a esta secretaria."
-image: /uploads/2021/images-WhatsApp_Image_2021-06-30_at_14.43.00.jpeg
-video: /uploads/2021/videos-WhatsApp_Video_2021-06-30_at_14.43.30.mp4
-audio: nil
-alt: Sigue proceso de entrega recepción
+image: "/uploads/2021/images-WhatsApp_Image_2021-06-30_at_14.43.00.jpeg"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-06-30_at_14.43.30.mp4"
+audio: "nil"
+alt: "Sigue proceso de entrega recepción"
 front: false
-section: Local
+section: "Local"
+news_id: 185320
 ---
 
 En seguimiento a las actividades de la agenda de transición del Gobierno Estatal, la mañana de este miércoles, César Jáuregui integrante del equipo de transición, tuvo un encuentro con el Secretario General de Gobierno del Estado, Luis Fernando Mesta para el intercambio de información correspondiente a esta secretaria.

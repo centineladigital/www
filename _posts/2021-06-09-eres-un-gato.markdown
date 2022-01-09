@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de redes sociales en donde después de una severa crítica en contra de Laura G, Héctor Marquéz, Jiots, recibió una serie de groserías en su contra. "
-image: /uploads/2021/images-laura-ensena-vivo-sudor-axilas_0_84_1080_672.jpg
-video: nil
-audio: nil
-alt: Eres un gato -  Jiots exhibe insultos de Laura G tras críticas por PVEM; la conductora de VLA se defiende
+image: "/uploads/2021/images-laura-ensena-vivo-sudor-axilas_0_84_1080_672.jpg"
+video: "nil"
+audio: "nil"
+alt: "Eres un gato -  Jiots exhibe insultos de Laura G tras críticas por PVEM; la conductora de VLA se defiende"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184945
 ---
 
 Laura G, conductora de Venga la Alegría, también se vio involucrada en la lista de famosos e influencers que apoyaron al Partido Verde Ecologista de México (PVEM) en plena veda electoral. En medio de críticas en su contra, la presentadora se vio involucrada en una supuesta pelea que sostuvo con Héctor Marquéz, mejor conocido como Jiots, quien la exhibió en redes sociales. ¿Fue cierto? ¿Laura G lo insultó? ¿Qué fue lo que ocurrió? Te contamos lo que sabemos sobre esta supuesta pelea y la forma en la que la famosa se defendió. 

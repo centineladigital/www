@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El diputado morenista señaló que el partido ha detectado y denunciado ante las autoridades electorales estas incidencias "
-image: /uploads/2021/images-miguel_colunga.jpeg
-video: nil
-audio: nil
-alt: Denuncia Miguel Colunga irregularidades en proceso electoral
+image: "/uploads/2021/images-miguel_colunga.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Denuncia Miguel Colunga irregularidades en proceso electoral"
 front: false
-section: Local
+section: "Local"
+news_id: 184872
 ---
 
 Miguel Colunga, diputado de Morena, indicó que funcionarios del ayuntamiento en la capital agredieron a representantes del partido en una casilla ubicada en el distrito 12, en donde resultaron 3 heridos, además denunció el intento de compra de votos en Ciudad Juárez, como parte de las irregularidades que el partido ha detectado en esta jornada.

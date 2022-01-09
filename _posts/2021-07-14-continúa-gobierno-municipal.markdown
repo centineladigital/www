@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través del jurídico gratuito del Instituto Municipal de las Mujeres (IMM)."
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Continúa Gobierno Municipal brindando asesoría legal en casos de pensiones alimenticias
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Continúa Gobierno Municipal brindando asesoría legal en casos de pensiones alimenticias"
 front: false
-section: Local
+section: "Local"
+news_id: 185654
 ---
 
 El Gobierno Municipal, a través del jurídico gratuito del Instituto Municipal de las Mujeres (IMM), continúa brindando asesoría legal en materia de divorcios voluntarios, pensiones alimenticias, guardas y custodias, rectificación de actas y medidas cautelares, así como orientación en casos de violencia.

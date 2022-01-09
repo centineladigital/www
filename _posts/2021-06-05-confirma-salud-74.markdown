@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Suman 68 mil 774 contagios y 7 mil 026 fallecimientos; actualmente 97 personas se encuentran hospitalizadas y 31 intubadas en 28 unidades médicas"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Confirma Salud 74 casos y 4 defunciones por COVID-19 en la entidad
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Confirma Salud 74 casos y 4 defunciones por COVID-19 en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 184859
 ---
 
 Un total general de 68 mil 774 de casos de COVID-19 registra la Secretaría de Salud luego de que se confirmaran 74 nuevos contagios en el último reporte epidemiológico en el estado.

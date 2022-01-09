@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Respuesta de Chihuahua ante la pandemia de COVID-19, cooperación canadiense con las comunidades del estado y oportunidades de educación internacional para los chihuahuenses, los temas tratados en el encuentro con Graeme C. Clark"
-image: /uploads/2021/images-Reunión_del_Gobernador_Javcier_Corral_con_el_Embajador_de_Canadá_Greame_C._Clark.jpg
-video: nil
-audio: nil
-alt: Sostiene Javier Corral videoconferencia con embajador de Canadá en México
+image: "/uploads/2021/images-Reunión_del_Gobernador_Javcier_Corral_con_el_Embajador_de_Canadá_Greame_C._Clark.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sostiene Javier Corral videoconferencia con embajador de Canadá en México"
 front: false
-section: Local
+section: "Local"
+news_id: 183391
 ---
 
 El gobernador Javier Corral sostuvo una videoconferencia con el embajador de Canadá en México, Graeme C. Clark, en la que  se trataron temas de interés mutuo, como la respuesta de Chihuahua ante la pandemia de COVID-19 y la cooperación canadiense con las comunidades del estado.

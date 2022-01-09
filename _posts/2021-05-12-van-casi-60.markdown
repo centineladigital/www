@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Casi 60 personas han muerto a causa de los enfrentamientos entre Israel y la milicia palestina Hamas, un conflicto que hace temer una 'guerra a gran escala'"
-image: /uploads/2021/images-2577231.jpg
-video: nil
-audio: nil
-alt: Van casi 60 muertos por enfrentamientos entre Israel y Hamas
+image: "/uploads/2021/images-2577231.jpg"
+video: "nil"
+audio: "nil"
+alt: "Van casi 60 muertos por enfrentamientos entre Israel y Hamas"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184413
 ---
 
 Los enfrentamientos entre los grupos armados palestinos, que lanzaron más de mil cohetes hacia territorio israelí, e Israel, que bombardea intensamente la Franja de Gaza, dejaron 58 muertos y hacían temer este miércoles una "guerra a gran escala".

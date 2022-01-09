@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los Jefes, actuales campeones de la NFL, volverán a estar presentes en el juego por el campeonato tras vencer por 38-24 a los Bills de Buffalo"
-image: /uploads/2021/images-2517802.jpg
-video: nil
-audio: nil
-alt: Kansas City vuelve al Super Bowl a revalidar su título
+image: "/uploads/2021/images-2517802.jpg"
+video: "nil"
+audio: "nil"
+alt: "Kansas City vuelve al Super Bowl a revalidar su título"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182408
 ---
 
 Los Jefes de Kansas City, comandados por Patrick Mahomes, se impusieron por 38-24 sobre los Bills de Buffalo de Josh Allen en la final de la Conferencia Americana, para sellar de esa manera su boleto al Super Bowl LV, donde buscarán revalidar su campeonato de la NFL.

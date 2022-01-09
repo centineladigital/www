@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En Sídney, la población se manifestó para pedir libertad, pues suman un mes en confinamiento por coronavirus"
-image: /uploads/2021/images-policia-reconocia-derechos-libertad-expresion_0_4_1137_706.jpg
-video: nil
-audio: nil
-alt: En Australia, protestan a cuatro semanas de confinamiento por covid-19
+image: "/uploads/2021/images-policia-reconocia-derechos-libertad-expresion_0_4_1137_706.jpg"
+video: "nil"
+audio: "nil"
+alt: "En Australia, protestan a cuatro semanas de confinamiento por covid-19"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185967
 ---
 
 Miles de personas salieron a las calles de Sydney y otras ciudades en Australia para protestar contra las restricciones sanitarias de encierro por el coronavirus. La policía realizó varios arrestos luego que muchedumbres derribaron barreras y lanzaron botellas de plástico y plantas.

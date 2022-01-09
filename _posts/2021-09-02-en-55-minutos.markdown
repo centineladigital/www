@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras el Tercer Informe de Gobierno del presidente Andrés Manuel López Obrador, Luis Estrada, director general de la consultora SPIN, dio a conocer que el discurso contiene 88 afirmaciones falsas, engañosas o no comprobables"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: En 55 minutos de mensaje, AMLO lanzó 88 afirmaciones falsas o no comprobables -  consultora SPIN
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "En 55 minutos de mensaje, AMLO lanzó 88 afirmaciones falsas o no comprobables -  consultora SPIN"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187353
 ---
 
 Tras el Tercer Informe de Gobierno del presidente Andrés Manuel López Obrador, Luis Estrada, director general de la consultora SPIN, dio a conocer mediante su cuenta de Twitter que dicho informe contiene 88 afirmaciones falsas, engañosas o no comprobables. 

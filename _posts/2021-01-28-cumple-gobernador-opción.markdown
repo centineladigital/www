@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: " “Abatimos las causas de la pobreza de manera integral, con igualdad de oportunidades desde la primera infancia” destaca Javier Corral, rumbo al 4º Informe de Gobierno"
-image: /uploads/2021/images-Entrega_de_útiles_escolares.jpg
-video: nil
-audio: nil
-alt: Cumple Gobernador opción preferencial por los pobres; se entregan 124 mil 420 becas
+image: "/uploads/2021/images-Entrega_de_útiles_escolares.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cumple Gobernador opción preferencial por los pobres; se entregan 124 mil 420 becas"
 front: false
-section: Local
+section: "Local"
+news_id: 182513
 ---
 
 Rumbo al 4º Informe, el gobernador Javier Corral señaló que su Gobierno cumplió el compromiso de optar preferencialmente por los más pobres, sin clientelismos y con programas de alimentación saludable, nuevas becas, pensiones económicas y apoyos directos a estancias y organizaciones civiles.

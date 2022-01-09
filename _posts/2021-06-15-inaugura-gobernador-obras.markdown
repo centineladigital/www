@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Centro de salud y otras dentro del programa de inauguración de obras."
-image: /uploads/2021/images-JAVIER_CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-MM04.mp3
-alt: Inaugura Gobernador Obras en Casas Grandes
+image: "/uploads/2021/images-JAVIER_CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04.mp3"
+alt: "Inaugura Gobernador Obras en Casas Grandes"
 front: false
-section: Local
+section: "Local"
+news_id: 185047
 ---
 
 Dentro de la gira de trabajo al municipio de Casas Grandes el Gobernador de Chihuahua, Javier Corral Jurado, hizo entrega de dos obras. Una de ellas es la inauguración de las nuevas instalaciones del Centro de Salud de aquel municipio y la otra cinco tanques nodriza para llevar agua potable a comunidades apartadas de Casas Grandes, Ignacio Zaragoza, Galeana, Gómez Farías y Ascensión.

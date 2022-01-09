@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Salud confirmó un total de 171 casos en las últimas 24 horas"
-image: /uploads/2021/images-Arturo_Valenzuela_Zorrilla.jpg
-video: nil
-audio: nil
-alt: Acumula estado 50 mil 629 casos de Covid-19
+image: "/uploads/2021/images-Arturo_Valenzuela_Zorrilla.jpg"
+video: "nil"
+audio: "nil"
+alt: "Acumula estado 50 mil 629 casos de Covid-19"
 front: false
-section: Local
+section: "Local"
+news_id: 182623
 ---
 
 Con 171 casos confirmados en las últimas 24 horas, el total de personas contagiadas con SARS-COV-2, asciende a 50 mil 629, informó esta mañana, el director médico de la Zona Norte, Arturo Valenzuela Zorrilla.

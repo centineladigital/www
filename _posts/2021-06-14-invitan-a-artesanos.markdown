@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Hay una bolsa de 200 mil pesos en premios para creadores de las mejores piezas, el principal es de 26 mil pesos; registro inicia el 21 de junio y finaliza el 24 del mismo mes"
-image: /uploads/2021/images-Mata_Ortiz_(4).jpeg
-video: nil
-audio: nil
-alt: Invitan a artesanos a participar en el 24° Concurso de Cerámica Mata Ortiz
+image: "/uploads/2021/images-Mata_Ortiz_(4).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Invitan a artesanos a participar en el 24° Concurso de Cerámica Mata Ortiz"
 front: false
-section: Local
+section: "Local"
+news_id: 185023
 ---
 
 Para celebrar la excelencia de la cerámica chihuahuense, la Secretaría de Innovación y Desarrollo Económico (Side) por medio de Fomento al Desarrollo Artesanal de Chihuahua (Fodarch) realizará la edición 24 del Concurso de Cerámica Mata Ortiz.

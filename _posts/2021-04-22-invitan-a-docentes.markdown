@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Unicef y la Secretaría de Educación y Deporte hacen un llamado a los docentes para que participen en este evento"
-image: /uploads/2021/images-clases_presenciales_cuartoscuro.png
-video: nil
-audio: nil
-alt: Invitan a docentes a capacitación psicosocial para regreso a clases
+image: "/uploads/2021/images-clases_presenciales_cuartoscuro.png"
+video: "nil"
+audio: "nil"
+alt: "Invitan a docentes a capacitación psicosocial para regreso a clases"
 front: false
-section: Local
+section: "Local"
+news_id: 184035
 ---
 
 Miedo al contagio e incertidumbre, Estrés por el regreso a la socialización, Resiliencia y empatía para la readaptación, además de Violencia y maltrato contra niñas y niños, serán los temas que se abordarán en el curso de “Apoyo Psicosocial y Docencia en Preparación para el Regreso a Clases”.

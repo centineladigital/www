@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente López Obrador realizó una conexión en vivo para recibir el reporte por parte de Murat Hinojosa y atestiguar la aplicación de la primera dosis de la vacuna"
-image: /uploads/2021/images-2569009.jpg
-video: nil
-audio: nil
-alt: Arranca vacunación de personal docente en Oaxaca
+image: "/uploads/2021/images-2569009.jpg"
+video: "nil"
+audio: "nil"
+alt: "Arranca vacunación de personal docente en Oaxaca"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184124
 ---
 
 Este martes arrancó la jornada de vacunación al personal educativo en Oaxaca en medio de un ambiente de orden y cordialidad que el gobernador del estado, Alejandro Murat, supervisó desde el Centro Cultural y de Convenciones en Santa Lucía del Camino.

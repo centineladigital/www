@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "The Offspring decidió que Pete Parada, su baterista, no esté más en la banda debido a que no se pondrá la vacuna anticovid; el músico emitió un comunicado. "
-image: /uploads/2021/images-el-baterista-dijo-que-respeta_10_0_1045_650.jpg
-video: nil
-audio: nil
-alt: The Offspring expulsa a su baterista por negarse a poner la vacuna anticovid
+image: "/uploads/2021/images-el-baterista-dijo-que-respeta_10_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "The Offspring expulsa a su baterista por negarse a poner la vacuna anticovid"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186288
 ---
 
 The Offspring, una banda que durante la década de los 90 tuvo su mayor éxito con temas como “Why Don´t You Get A Job” o “The Kids Aren´t Alright”, está en la polémica después de que los miembros de la agrupación decidieron despedir al baterista, Pete Parada, debido a que no está dispuesto a ponerse la vacuna contra el covid-19. 

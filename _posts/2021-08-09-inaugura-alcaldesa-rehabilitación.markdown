@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Con una inversión de 3 millones 650 mil pesos que beneficiarán a mil 500 personas que hacen uso de estas instalaciones"
-image: /uploads/2021/images-unnamed_(4).jpg
-video: nil
-audio: nil
-alt: Inaugura Alcaldesa rehabilitación de cancha deportiva en parque Lomas Karike
+image: "/uploads/2021/images-unnamed_(4).jpg"
+video: "nil"
+audio: "nil"
+alt: "Inaugura Alcaldesa rehabilitación de cancha deportiva en parque Lomas Karike"
 front: false
-section: Local
+section: "Local"
+news_id: 186474
 ---
 
 María Angélica Granados Trespalacios, alcaldesa de Chihuahua, encabezó el corte de listón a la rehabilitación de la cancha deportiva ubicada en el parque Lomas Karike, cuya obra forma parte del Presupuesto Participativo del año 2020.

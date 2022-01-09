@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Juan Rivera, hermano de Jenni Rivera, recordó la ocasión en que surgió un rumor que iban a secuestrar a la Diva de la banda. "
-image: /uploads/2021/images-jenni-rivera-murio-en-diciembre.jpg
-video: nil
-audio: nil
-alt: Qué valor -  Hermano de Jenni Rivera recuerda cómo reaccionaba cantante ante rumores de secuestro
+image: "/uploads/2021/images-jenni-rivera-murio-en-diciembre.jpg"
+video: "nil"
+audio: "nil"
+alt: "Qué valor -  Hermano de Jenni Rivera recuerda cómo reaccionaba cantante ante rumores de secuestro"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182314
 ---
 
 Jenni Rivera, también conocida como la Diva de la banda murió el 9 de diciembre del 2012 tras un accidente en su avioneta en donde ella y sus acompañantes perdieron la vida. Durante muchos años han surgido rumores que su fallecimiento fue planeado, sin embargo, nada de ha confirmado, lo cierto es que la cantante sí recibió amenazas, algo que confirmó su hermano Juan. 

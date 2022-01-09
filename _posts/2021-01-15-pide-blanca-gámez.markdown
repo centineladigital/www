@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Puso como ejemplo los logros que han tenido instituciones como el INAI que ha resuelto más de 100,000 quejas"
-image: /uploads/2021/images-EGEE.jpg
-video: nil
-audio: /uploads/2021/audio-AV03_BLANCA_GAMEZ.mp3
-alt: Pide Blanca Gámez al gobierno federal no eliminar organismos autónomos
+image: "/uploads/2021/images-EGEE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AV03_BLANCA_GAMEZ.mp3"
+alt: "Pide Blanca Gámez al gobierno federal no eliminar organismos autónomos"
 front: false
-section: Local
+section: "Local"
+news_id: 182178
 ---
 
 Por tratarse de una propuesta que vulnera los Derechos Humanos y frena el desarrollo económico y social del país, la diputada Blanca Gámez Gutiérrez exhortó al gobierno federal para que desista en su intención de eliminar los organismos autónomos. 

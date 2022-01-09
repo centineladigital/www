@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Añadió que la intención de estas Mesas era conocer la opinión de expertos"
-image: /uploads/2021/images-DGGR.jpg
-video: nil
-audio: /uploads/2021/audio-AV03_DEYANITA_OZAETA.mp3
-alt: Mayoría contra el Pin Parental en Mesas Técnicas del Congreso -  Deyanira Ozaeta
+image: "/uploads/2021/images-DGGR.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AV03_DEYANITA_OZAETA.mp3"
+alt: "Mayoría contra el Pin Parental en Mesas Técnicas del Congreso -  Deyanira Ozaeta"
 front: false
-section: Local
+section: "Local"
+news_id: 182557
 ---
 
  La diputada local del PT,  Deyanira Ozaeta Díaz, precisó que durante las Mesas Técnicas de las Comisiones Unidas de Juventud y Niñez y de Educación y Cultura referentes al Pin Parental 94 expertos se pronunciaron en contra de su aprobación mientras que solo 38 a favor.

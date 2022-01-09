@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se registran dos vuelos (uno procedente de Los Ángeles y el otro de Abu Dabi) con personas que dieron positivo a coronavirus, ninguno es de los jugadores. Se someterán a cuarentena"
-image: /uploads/2021/images-2512836.jpg
-video: nil
-audio: nil
-alt: Impiden entrenar a 47 tenistas en Australia
+image: "/uploads/2021/images-2512836.jpg"
+video: "nil"
+audio: "nil"
+alt: "Impiden entrenar a 47 tenistas en Australia"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182199
 ---
 
 El aterrizaje en Melbourne ha sido brutal para 47 tenistas que deben participar en el Abierto de Australia (8-21 febrero): no podrán entrenar durante dos semanas por haber viajado en uno de los dos vuelos en los que otros pasajeros dieron positivo al covid-19.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se recomienda combinar ejercicios de fuerza y cardiovascular en espacios abiertos, con sana distancia, higiene de manos y uso de cubrebocas.  "
-image: /uploads/2021/images-Foto_351-5.jpeg
-video: nil
-audio: nil
-alt: Con estrategia NutrIMSS el Seguro Social orienta para reducir kilos  acumulados por confinamiento de COVID-19
+image: "/uploads/2021/images-Foto_351-5.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Con estrategia NutrIMSS el Seguro Social orienta para reducir kilos  acumulados por confinamiento de COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 186522
 ---
 
 Para seguir un plan de alimentación saludable y reducir la masa corporal que en el marco de la emergencia sanitaria se incrementó cuatro kilos en promedio, el Instituto Mexicano del Seguro Social (IMSS) cuenta con la estrategia NutrIMSS “Aprendiendo a comer bien”.

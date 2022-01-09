@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Cemento, varilla y otros con créditos de 15 mil pesos."
-image: /uploads/2021/images-VICTOR.jpg
-video: nil
-audio: /uploads/2021/audio-MW05_VICTOR_LASO.mp3
-alt: Abre COESVI programa de materiales
+image: "/uploads/2021/images-VICTOR.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW05_VICTOR_LASO.mp3"
+alt: "Abre COESVI programa de materiales"
 front: false
-section: Local
+section: "Local"
+news_id: 183539
 ---
 
 En el ejercicio 2021 fue abierta la convocatoria de Microcréditos 2021 por parte de la Comisión Estatal de Vivienda, Suelo e Infraestructura, o COESVI por sus siglas. Este programa ofrece a personas que no tienen créditos de vivienda con el fin de que personas puedan acceder a paquetes de materiales.

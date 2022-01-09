@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Los equipos ganadores representarán a México en el evento “WER United Kingdom” que se realizará en Inglaterra"
-image: /uploads/2021/images-DSC01411.JPG
-video: nil
-audio: nil
-alt: Clasifican estudiantes de la UT de la Babícora a etapa nacional de Torneo Mundial de Robótica Educativa
+image: "/uploads/2021/images-DSC01411.JPG"
+video: "nil"
+audio: "nil"
+alt: "Clasifican estudiantes de la UT de la Babícora a etapa nacional de Torneo Mundial de Robótica Educativa"
 front: false
-section: Local
+section: "Local"
+news_id: 185882
 ---
 
 Estudiantes de la Universidad Tecnológica de la Babícora (UTB) lograron clasificar a la etapa nacional del Torneo Mundial de Robótica Educativa “WER México”, que tiene el propósito de estimular el desarrollo intelectual, la competitividad y una visión actual de la globalización en estudiantes.

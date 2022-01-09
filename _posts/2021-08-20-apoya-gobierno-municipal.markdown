@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Cuatro vehículos quedaron varados y  fueron arrastrados por la corriente debido a la fuerte lluvia del jueves"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Apoya Gobierno Municipal con retiro de vehículos arrastrados en parque Los Tronquitos
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Apoya Gobierno Municipal con retiro de vehículos arrastrados en parque Los Tronquitos"
 front: false
-section: Local
+section: "Local"
+news_id: 186955
 ---
 
 El Gobierno Municipal brindó apoyo en el retiro de dos vehículos que fueron arrastrados, por la corriente debido a la fuerte lluvia del jueves, en el parque Los Tronquitos, donde cuatro vehículos quedaron varados. 

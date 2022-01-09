@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Una anotación del “Tecatito” Corona rescató un punto para la Selección Mexicana en el Rommel Fernández"
-image: /uploads/2021/images-mexico-panama-seleccion_(1).jpg
-video: nil
-audio: nil
-alt: México sufre en su visita a Panamá
+image: "/uploads/2021/images-mexico-panama-seleccion_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "México sufre en su visita a Panamá"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187568
 ---
 
 Un ambiente hostil y la intensidad de Panamá hicieron sufrir a la Selección Mexicana en el tercer partido del octagonal de la Concacaf, en el que México se mantiene como líder tras empatar 1-1.

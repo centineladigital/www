@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Monterrey y América comenzaron con victorias el torneo en la presentación de sus entrenadores, por lo que se espera sea el mejor duelo de la Jornada 2"
-image: /uploads/2021/images-2512283.jpg
-video: nil
-audio: nil
-alt: Águilas y Rayados con inicio prometedor
+image: "/uploads/2021/images-2512283.jpg"
+video: "nil"
+audio: "nil"
+alt: "Águilas y Rayados con inicio prometedor"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182158
 ---
 
 Aunque ganó en su debut con Rayados, Javier Aguirre dijo que todavía había mucho que mejorar, por lo que espera que, en su presentación en casa y frente al América, pueda encontrar el funcionamiento ideal.

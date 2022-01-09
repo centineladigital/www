@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: " Protección Civil pide tomar precauciones frente a las altas temperaturas que seguirán este fin de semana; registraron Urique y Chínipas 40°C este viernes 28 de mayo"
-image: /uploads/2021/images-lluvias.jpg
-video: nil
-audio: nil
-alt: Se esperan lluvias para este sábado 29 y domingo 30 de mayo  en varios municipios del estado
+image: "/uploads/2021/images-lluvias.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se esperan lluvias para este sábado 29 y domingo 30 de mayo  en varios municipios del estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184738
 ---
 
 Para este sábado 29 y domingo 30 de mayo se pronostican lluvias en varios municipios, así como la posibilidad de tolvaneras en los tramos carreteros Juárez-Janos, Sueco-Ahumada y Jiménez-Parral, informó la Coordinación Estatal de Protección Civil (CEPC).

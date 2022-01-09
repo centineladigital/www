@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Lily Collins sorprendió a sus fans al revelar que este fin de semana se casó con Charlie McDowell; así habló la actriz sobre su boda. "
-image: /uploads/2021/images-lily_collins.jpg
-video: nil
-audio: nil
-alt: ¡Un cuento de hadas! Lily Collins anuncia que se casó con Charlie McDowell
+image: "/uploads/2021/images-lily_collins.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Un cuento de hadas! Lily Collins anuncia que se casó con Charlie McDowell"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187526
 ---
 
 Fue hace casi un año cuando Lily Collins anunció a sus seguidores en Instagram que su entonces novio, Charlie McDowell, le había propuesto matrimonio. En todo este tiempo la actriz se había mantenido al margen y no había revelado cuando llegaría al altar, sin embargo, sorpresivamente la protagonista de Emily en París publicó unas fotos de su boda. A través de Instagram, Lily Collins reveló a sus seguidores que fue este fin de semana que dio el sí a su ahora esposo, Charlie McDowell. En varias publicaciones, la actriz compartió unas románticas fotos que al parecer fueron tomadas en un espectacular lugar cerca de una pequeña cascada. 

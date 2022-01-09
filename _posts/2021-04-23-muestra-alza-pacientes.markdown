@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Salud confirmó 260 contagios y 49 defunciones más; a la fecha 149 mil 734 usuarios se han atendido a través de la App Salud Digital"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Muestra alza pacientes intubados por COVID-19 con 84 casos, de 308 hospitalizados en la entidad
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Muestra alza pacientes intubados por COVID-19 con 84 casos, de 308 hospitalizados en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 184074
 ---
 
 El reporte epidemiológico de la pandemia de COVID-19 en el estado de Chihuahua muestra que al 23 de abril hay 63 mil 077 contagios acumulados tras sumarse 260 nuevos casos, mientras que el número de fallecimientos se incrementó a 6 mil 317 al confirmarse 49 decesos más.

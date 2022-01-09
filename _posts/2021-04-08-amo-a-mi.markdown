@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El candidato a diputado federal habló sobre la relación amorosa de Belinda y Christian Nodal. "
-image: /uploads/2021/images-nacho-peregrin-hermano-belinda-expresa_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Amo a mi cuñado -  Nacho Peregrín, hermano de Belinda, expresa su admiración por Nodal
+image: "/uploads/2021/images-nacho-peregrin-hermano-belinda-expresa_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Amo a mi cuñado -  Nacho Peregrín, hermano de Belinda, expresa su admiración por Nodal"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183774
 ---
 
 Belinda y Christian Nodal siguen en el ojo del huracán desde que se juraron amor eterno frente a miles de seguidores en Instagram, tras celebrar su aniversario por ocho meses de noviazgo. Ahora, es Ignacio Peregrín Schüll, hermano de la intérprete de "Bella traición", quien habló por primera vez de la relación amorosa que mantiene la cantante con el intérprete de música regional mexicana. Durante una entrevista con el reportero Eden Dorantes, Nachito señaló si Belinda y Christian Nodal podrían convertirse en padres muy pronto. El famoso aprovechó la oportunidad para demostrar el cariño que le tiene al cantante mexicano. 

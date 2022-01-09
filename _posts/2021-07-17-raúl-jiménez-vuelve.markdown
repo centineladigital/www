@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Luego de no haber disputado ningún partido durante los 8 meses por la fractura de cráneo que sufrió."
-image: /uploads/2021/images-raul.jpg
-video: nil
-audio: nil
-alt: Raúl Jiménez vuelve a jugar con los Wolves, tras 8 meses
+image: "/uploads/2021/images-raul.jpg"
+video: "nil"
+audio: "nil"
+alt: "Raúl Jiménez vuelve a jugar con los Wolves, tras 8 meses"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185762
 ---
 
 El delantero mexicano, Raúl Jiménez, volvió a tener actividad con su equipo Wolverhampton de la Premier League, luego de no haber disputado ningún partido durante 8 meses por la fractura de cráneo que sufrió. 

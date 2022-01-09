@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La vedette arremetió en contra de Thalía y Laura Zapata por no cuidar a su abuela en casa y dejarla en un asilo, donde no recibió los cuidados necesarios. "
-image: /uploads/2021/images-niurka-critica-thalia-laura-zapata_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Teniendo tanto billete -  Niurka critica a Thalía y Laura Zapata por dejar a su abuela en asilo
+image: "/uploads/2021/images-niurka-critica-thalia-laura-zapata_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Teniendo tanto billete -  Niurka critica a Thalía y Laura Zapata por dejar a su abuela en asilo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182979
 ---
 
 La abuela de Laura Zapata ya abandonó la casa de retiro en donde sufrió de maltrato y descuido por parte del personal médico, según declaraciones de la actriz mexicana. Tras lo sucedido, Niurka Marcos expresó su opinión sobre la situación que vive Eva Mange, de 103 años, y arremetió en contra de Thalía y Zapata por no cuidar en casa a su familiar, pues aseguró que la señora "necesita una atención demasiado personalizada". 

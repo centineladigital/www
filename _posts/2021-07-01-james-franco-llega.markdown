@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los ex estudiantes de James Franco afirman que en su extinta escuela, el actor les obligaba a realizar escenas sexuales cada vez más explícitas en cámara en un “set tipo orgía”. "
-image: /uploads/2021/images-james-franco-queda-carrera-rumbo_0_9_1050_653.jpeg
-video: nil
-audio: nil
-alt: James Franco llega a un acuerdo de 2.2 mdd para cerrar una demanda por delito sexual
+image: "/uploads/2021/images-james-franco-queda-carrera-rumbo_0_9_1050_653.jpeg"
+video: "nil"
+audio: "nil"
+alt: "James Franco llega a un acuerdo de 2.2 mdd para cerrar una demanda por delito sexual"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185328
 ---
 
 James Franco accedió a pagar 2.2 millones de dólares en un acuerdo por una demanda que afirma que intimidó a estudiantes en una escuela de teatro y cine que fundó, llevándolos a situaciones injustificadas y abusivas; los alumnos señalaron que la academia le permia al actor obtener situaciones sexuales gratuitas, de acuerdo con los documentos judiciales que se hicieron públicos este miércoles.

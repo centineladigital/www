@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Cynthia Klitbo celebró haber llegado a medio millón de seguidores. Para hacerlo a lo grande, posó al natural frente a un espejo. "
-image: /uploads/2021/images-cynthia-klitbo-impacta-seguidores-foto.jpg
-video: nil
-audio: nil
-alt: Para mis amados -  Cynthia Klitbo posa al natural para celebrar medio millón de seguidores
+image: "/uploads/2021/images-cynthia-klitbo-impacta-seguidores-foto.jpg"
+video: "nil"
+audio: "nil"
+alt: "Para mis amados -  Cynthia Klitbo posa al natural para celebrar medio millón de seguidores"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182287
 ---
 
 Cynthia Klitbo, actriz de Televisa, causó revuelo en redes sociales al mostrarse al natural. Para celebrar que llegó a medio millón de seguidores de Instagram la actual pareja del Rey Grupero posó al natural. En una fotografía al natural –desnuda frente al espejo– celebró su crecimiento en la red y agradeció a sus fans por el apoyo. Fue en la misma cuenta de Instagram, en donde Cynthia Klitbo celebró haber llegado a medio millón de seguidores. Para hacerlo a lo grande, posó con un desnudo artístico frente a un espejo. Orgullosa de su figura y haciendo uso de su propia decisión la actriz –que actualmente radica en Perú– . 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Inconforme con cambio de fecha para registro a contender para la Alcaldía."
-image: /uploads/2021/images-ROBERTO_LARA.jpg
-video: nil
-audio: /uploads/2021/audio-MM04_ROBERTO_LARA.mp3
-alt: “Candidaturas no son moneda de cambio” -  Lara
+image: "/uploads/2021/images-ROBERTO_LARA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04_ROBERTO_LARA.mp3"
+alt: "“Candidaturas no son moneda de cambio” -  Lara"
 front: false
-section: Local
+section: "Local"
+news_id: 182461
 ---
 
 “La capital del estado de Chihuahua no es una moneda de cambio” fueron las palabras de Roberto Lara, aspirante a candidatura por la Alcaldía del Partido Acción Nacional, esto luego de manifestar sus inconformidades por la cancelación de su registro durante la mañana de este martes.  

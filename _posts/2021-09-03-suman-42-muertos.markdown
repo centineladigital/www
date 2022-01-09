@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El gobernador de Nueva Jersey, Phil Murphy, dijo que el número de muertos en ese estado ha aumentado a 23. "
-image: /uploads/2021/images-durante-la-madrugada-se-reportaron_47_0_926_576.jpg
-video: nil
-audio: nil
-alt: Suman 42 muertos en noreste de EU tras paso de 'Ida'; NY contabiliza 12 decesos
+image: "/uploads/2021/images-durante-la-madrugada-se-reportaron_47_0_926_576.jpg"
+video: "nil"
+audio: "nil"
+alt: "Suman 42 muertos en noreste de EU tras paso de 'Ida'; NY contabiliza 12 decesos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187394
 ---
 
 El número de muertos por las inundaciones causadas en el noreste de Estados Unidos por los remanentes del huracán Ida aumentaron a 42, después de que el gobernador de Nueva Jersey, Phil Murphy, anunciara que sólo en esa región habían muerto 23 personas. 

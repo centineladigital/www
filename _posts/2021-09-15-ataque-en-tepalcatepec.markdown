@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El ataque fue perpetrado a la altura de la comunidad de La Estanzuela, donde converge el municipio de Tepalcatepec con el estado de Jalisco "
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Ataque en Tepalcatepec deja dos elementos de GN y un poblador lesionados
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Ataque en Tepalcatepec deja dos elementos de GN y un poblador lesionados"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187740
 ---
 
 Tepalcatepec, Michoacán.- El saldo de un ataque de un grupo criminal en el municipio de Tepalcatepec, Michoacán, fue de dos elementos de Guardia Nacional y un poblador, lesionados.

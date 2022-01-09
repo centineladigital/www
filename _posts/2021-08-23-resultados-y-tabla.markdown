@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Te dejamos todos los marcadores de la jornada seis y la tabla general del campeonato mexicano, donde el América se mantiene como el único líder general "
-image: /uploads/2021/images-tabla-general-de-la-liga-15.jpg
-video: nil
-audio: nil
-alt: Resultados y tabla general de la liga MX tras la jornada 6 del Apertura 2021
+image: "/uploads/2021/images-tabla-general-de-la-liga-15.jpg"
+video: "nil"
+audio: "nil"
+alt: "Resultados y tabla general de la liga MX tras la jornada 6 del Apertura 2021"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186991
 ---
 
 Se terminó la jornada 6 de la Liga MX dentro del torneo Apertura 2021. Donde después de todos los resultados de los partidos, el América se coloca como el líder de la tabla general con 16 puntos, esto después de imponerse a Xolos de Tijuana en el Estadio Azteca en un duelo que también marcó el polémico regreso de Renato Ibarra con las Águilas, quien además anotó un gol.

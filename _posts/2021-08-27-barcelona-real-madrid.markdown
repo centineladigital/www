@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Regresó la polémica con la SuperLiga su objetivo es ganar el apoyo de asociaciones, políticos europeos y periodistas"
-image: /uploads/2021/images-real-madrid-barcelona-juventus-siguen_0_69_1200_747.jpeg
-video: nil
-audio: nil
-alt: Barcelona, Real Madrid y la Juventus planean otra ofensiva contra la UEFA por la Superliga
+image: "/uploads/2021/images-real-madrid-barcelona-juventus-siguen_0_69_1200_747.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Barcelona, Real Madrid y la Juventus planean otra ofensiva contra la UEFA por la Superliga"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187179
 ---
 
 Tres de los clubes impulsores de la Superliga europea, el Real Madrid, el Barcelona y la Juventus de Turín, planean una nueva ofensiva contra la UEFA y han contratado para ello a la consultora de asuntos públicos Flint, publica este viernes Spiegel. 

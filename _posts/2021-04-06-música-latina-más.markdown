@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El dj, quien ha puesto a bailar al mundo con su composición “Mambo”, destaca lo valioso que ha sido el aislamiento para su proceso creativo."
-image: /uploads/2021/images-pinchadiscos-destaco-musica-lazo-union.jpg
-video: nil
-audio: nil
-alt: Música latina, más fuerte que pop de EU -  Steve Aoki
+image: "/uploads/2021/images-pinchadiscos-destaco-musica-lazo-union.jpg"
+video: "nil"
+audio: "nil"
+alt: "Música latina, más fuerte que pop de EU -  Steve Aoki"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183710
 ---
 
 Para el dj y productor estadunidense Steve Aoki, el paro que provocó la pandemia fue una oportunidad para reevaluar su trabajo y redireccionar su objetivo como artista y creador. Por eso “Mambo”, el tema que compartió a finales de enero y que ya supera las 6.1 millones de visualizaciones, se convirtió en el himno con el que Aoki espera reactivar a la gente alrededor del mundo y entregarles un mensaje claro: “todos somos uno”. “Lo que queríamos explicar con “Mambo” es que aunque existan tantos colores y tantas cosas únicas dentro de las culturas, todos somos uno, y cada una de ellas puede añadir sus características a esta unión global. Eso es lo más maravilloso de la música, que realmente une a la gente, aunque suene cursi, eso es lo que hace la música y lo hace muy bien”, dijo en entrevista con M2. 

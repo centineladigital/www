@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Pudiera visitar el municipio de Madera."
-image: /uploads/2021/images-EMILIO.jpg
-video: /uploads/2021/videos-ML06_EMILIO_GARCIA.mp4
-audio: nil
-alt: Esperan a AMLO este fin de semana en Juárez
+image: "/uploads/2021/images-EMILIO.jpg"
+video: "/uploads/2021/videos-ML06_EMILIO_GARCIA.mp4"
+audio: "nil"
+alt: "Esperan a AMLO este fin de semana en Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 186001
 ---
 
 Será hasta el próximo fin de semana cuando el Presidente López Obrador realice una visita para inaugurar los 12 cuarteles de Chihuahua, según lo dio a conocer el titular de la Secretaría de Seguridad Pública en el Estado, Emilio García Ruiz.

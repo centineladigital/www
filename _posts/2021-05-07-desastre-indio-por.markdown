@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "India ha sufrido una ola catastrófica de contagios desde que su primer ministro se jactó de haber vencido a la pandemia y se permitieron varios eventos masivos con grandes multitudes"
-image: /uploads/2021/images-2574730.jpg
-video: nil
-audio: nil
-alt: Desastre indio por Covid, una advertencia para otros países
+image: "/uploads/2021/images-2574730.jpg"
+video: "nil"
+audio: "nil"
+alt: "Desastre indio por Covid, una advertencia para otros países"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184330
 ---
 
 Los países del mundo que se debaten con nuevas oleadas del coronavirus tratan de evitar que caiga sobre ellos un desastre como el de India. Enfrentan riesgos parecidos: grandes poblaciones que han evadido las restricciones y sistemas de salud frágiles remecidos por la presión.

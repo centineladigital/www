@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un sismo de magnitud 6.2, según el Centro Sismológico Euromediterráneo, sacude el centro de Grecia, causando pánico entre la población y numerosos daños materiales"
-image: /uploads/2021/images-2538623.jpg
-video: nil
-audio: nil
-alt: Sismo de magnitud 6.2 en Grecia causa pánico y daños
+image: "/uploads/2021/images-2538623.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sismo de magnitud 6.2 en Grecia causa pánico y daños"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183247
 ---
 
 Un sismo de intensidad 6.2, según el Centro Sismológico Euromediterráneo (CSEM), sacudió este miércoles el centro de Grecia, causando pánico entre la población y numerosos daños materiales.

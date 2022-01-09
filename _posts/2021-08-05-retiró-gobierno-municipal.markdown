@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se atendieron los reportes ciudadanos y de los Guardianes Ecológicos"
-image: /uploads/2021/images-unnamed_(5).jpg
-video: nil
-audio: nil
-alt: Retiró Gobierno Municipal más de 2 mil toneladas de basura en terrenos baldíos durante julio
+image: "/uploads/2021/images-unnamed_(5).jpg"
+video: "nil"
+audio: "nil"
+alt: "Retiró Gobierno Municipal más de 2 mil toneladas de basura en terrenos baldíos durante julio"
 front: false
-section: Local
+section: "Local"
+news_id: 186346
 ---
 
 Durante el mes de julio, el Gobierno Municipal llevó a cabo la limpieza de 121 mil 700 metros de áreas municipales en terrenos baldíos y tiraderos, donde retiraron 2 mil 103 toneladas de escombros, basura y tiliches.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Da gobernador bienvenida a asistentes a la competencia de vinos y bebidas espirituosas, que se llevará a cabo del 24 al 26 de febrero en la capital del estado, con la presencia de catadores de países como Reino Unido, España y Bélgica, y productores de todo el país"
-image: /uploads/2021/images-DAH_6068.JPG
-video: nil
-audio: nil
-alt: Con la sede del concurso México Selection, confirma Chihuahua potencial vitivinícola
+image: "/uploads/2021/images-DAH_6068.JPG"
+video: "nil"
+audio: "nil"
+alt: "Con la sede del concurso México Selection, confirma Chihuahua potencial vitivinícola"
 front: false
-section: Local
+section: "Local"
+news_id: 183104
 ---
 
 Al encabezar en patio central de Palacio de Gobierno, la ceremonia de bienvenida a participantes de la cuarta edición del concurso México Selection, by Concours Mondial de Bruxelles, el gobernador Javier Corral destacó el crecimiento del estado de Chihuahua en la producción de vid en los últimos años.

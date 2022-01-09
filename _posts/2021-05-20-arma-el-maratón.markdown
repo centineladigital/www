@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Además de tener una carrera como cantante, Cher ha participado en diversas películas. Éstas son las que puedes encontrar en Netflix y Amazon. "
-image: /uploads/2021/images-cher-gano-oscar-globo-oro_1_0_911_566.jpg
-video: nil
-audio: nil
-alt: ¡Arma el maratón! Películas de Cher que puedes ver en Netflix y Amazon
+image: "/uploads/2021/images-cher-gano-oscar-globo-oro_1_0_911_566.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Arma el maratón! Películas de Cher que puedes ver en Netflix y Amazon"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184562
 ---
 
 Cher es una de las cantantes más exitosas, su extensa carrera no sólo ha dejado grandes canciones, sino que también películas. Cher ha demostrado que es multifacética y llena de talento, por lo que ha participado en más de 15 películas, gracias a una de ellas se hizo acreedora a un Oscar como mejor actriz en 1988. La última película en la que participó fue Mamma Mia: Here We Go Again en la que interpretó a Ruby Sheridan, pero si te interesa ver más películas de ella y conocer su carrera actoral, a continuación, te presentamos unas películas que puedes ver en plataformas de streaming. 

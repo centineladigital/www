@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El gobierno chino invitó subsecretaria de Estado, Wendy Sherman, que Estados Unidos regrese a una política racional y pragmática sobre China y evite la confrontación"
-image: /uploads/2021/images-subsecretaria-wendy-sherman-ministro-exteriores_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: China exige a enviada de Biden que EU retire sanciones, aranceles y el bloqueo tecnológico
+image: "/uploads/2021/images-subsecretaria-wendy-sherman-ministro-exteriores_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "China exige a enviada de Biden que EU retire sanciones, aranceles y el bloqueo tecnológico"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186015
 ---
 
 China ha pedido a Estados Unidos que retire "todas las sanciones unilaterales, los altos aranceles, la jurisdicción de manos largas, y el bloqueo tecnológico" que afectan al país asiático, informó hoy la agencia estatal de noticias Xinhua. 

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se inmuniza a un ritmo de 20 mil dosis cada hora en ambos lados de la frontera; en el primer día en Baja California fueron atendidas 198 mil 964 personas"
-image: /uploads/2021/images-2597684.jpg
-video: nil
-audio: nil
-alt: Aceleran vacunación en BC; reapertura de la frontera, prioridad
+image: "/uploads/2021/images-2597684.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aceleran vacunación en BC; reapertura de la frontera, prioridad"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185123
 ---
 
 Autoridades de Salud de ambos lados de la frontera entre California y Baja California sostienen una intensa campaña de vacunación, al ritmo de 20 mil dosis cada hora, con el objetivo de reabrir cuanto antes.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Debido al periodo vacacional de verano en las que las familias aprovechan para salir de la ciudad dejando sus viviendas solas, la Dirección de Seguridad Pública recomienda tomar algunas medidas preventivas."
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Emite Municipio recomendaciones al dejar casas solas por periodo vacacional
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Emite Municipio recomendaciones al dejar casas solas por periodo vacacional"
 front: false
-section: Local
+section: "Local"
+news_id: 185743
 ---
 
 Si bien, la Policía Municipal realiza operativos preventivos por las diferentes colonias de la ciudad, es recomendable tomar medidas de precaución adicionales.

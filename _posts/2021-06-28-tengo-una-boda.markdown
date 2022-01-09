@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La conductora de 'Venga la Alegría' señaló que decidió abandonar el reality porque perdía más posponiendo la boda; comentó que los jaguares sí sabían de que se dejaría ganar. "
-image: /uploads/2021/images-kristal-silva-llora-criticas-polemica_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Tengo una boda -  Kristal Silva llora tras críticas por su polémica salida de 'Survivor México'
+image: "/uploads/2021/images-kristal-silva-llora-criticas-polemica_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tengo una boda -  Kristal Silva llora tras críticas por su polémica salida de 'Survivor México'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185287
 ---
 
 Kristal Silvia sigue envuelta en la polémica tras su salida de Survivor México el pasado domingo, esto después de que internautas criticaron a la conductora por "dejarse ganar" y acusaran a la producción de planear su eliminación del reality. En medio de los señalamientos en su contra, la conductora de Venga la Alegría reconoció que perdió a propósito pues ya no quería continuar en el programa de TV Azteca. 

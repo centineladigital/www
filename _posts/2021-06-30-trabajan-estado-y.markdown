@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "A través de Plataforma Escudo Chihuahua se presentó información."
-image: /uploads/2021/images-GIL.jpg
-video: nil
-audio: /uploads/2021/audio-MW06.mp3
-alt: Trabajan estado y municipio en búsqueda de joven DIDI
+image: "/uploads/2021/images-GIL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW06.mp3"
+alt: "Trabajan estado y municipio en búsqueda de joven DIDI"
 front: false
-section: Local
+section: "Local"
+news_id: 185315
 ---
 
 De forma coordinada llevan a cabo acciones para buscar a un joven chofer de la plataforma DIDI, según fue dado a conocer por el titular de la Dirección de Seguridad Pública Municipal, Gilberto Loya Chávez.

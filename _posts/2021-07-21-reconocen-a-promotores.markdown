@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Por promover el deporte como medida de prevención a la violencia y erradicación a las adicciones en las juventudes, fueron reconocidos promotores deportivos de la ciudad de Chihuahua a través de la Comisión Estatal de Atención a las Adicciones. "
-image: /uploads/2021/images-unnamed_(5).jpg
-video: nil
-audio: nil
-alt: Reconocen a promotores deportivos locales por trabajo de prevención de adicciones
+image: "/uploads/2021/images-unnamed_(5).jpg"
+video: "nil"
+audio: "nil"
+alt: "Reconocen a promotores deportivos locales por trabajo de prevención de adicciones"
 front: false
-section: Local
+section: "Local"
+news_id: 185888
 ---
 
 Gracias al trabajo que han desempeñado a lo largo de los años en atención a población chihuahuense de diversas edades, Gregorio Carrillo Orozco y Jesús Marín del gimnasio de box municipal en la colonia Riberas de Sacramento y Jaime Macías Reyes del gimnasio municipal ‘Díaz Ordaz’ en la colonia Rosario, recibieron el reconocimiento en el marco del evento ‘Noquea las Adicciones’.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Como se hizo hace cinco años, el documento se presentará ante los candidatos para que incluyan en su plan de trabajo las propuestas del empresariado"
-image: /uploads/2021/images-fefewfewf.jpg
-video: nil
-audio: /uploads/2021/audio-AM05_FRANSISCO_SANTINI_RAMOS.mp3
-alt: Inicia IP mesa para propuestas para candidatos a la alcaldía y gubernatura
+image: "/uploads/2021/images-fefewfewf.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AM05_FRANSISCO_SANTINI_RAMOS.mp3"
+alt: "Inicia IP mesa para propuestas para candidatos a la alcaldía y gubernatura"
 front: false
-section: Local
+section: "Local"
+news_id: 182075
 ---
 
 El Consejo Coordinador Empresarial (CCE), Desarrollo Económico del Estado de Chihuahua, A.C. (Desec) y el Consejo de Desarrollo Económico Chihuahua-Centro (Coder) dieron inicio a las mesas "Pacto para la Economía y Crecimiento" en las que se construye el documento con las propuestas del sector privado que será entregado a los candidatos a la alcaldía y gubernatura, informó Francisco Santini Ramos, presidente del CCE.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con el objetivo de promover la reactivación del talento local en donde podrás conocer el trabajo y trayectoria de los artistas chihuahuenses"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Disfruta de la programación de ReactivArte ahora en canales de ICM
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Disfruta de la programación de ReactivArte ahora en canales de ICM"
 front: false
-section: Local
+section: "Local"
+news_id: 186567
 ---
 
 Si te perdiste de las transmisiones en vivo de ReactivArte no te preocupes, el Gobierno Municipal a través del Instituto de Cultura anunció que la programación ya está disponible en su canal de Youtube ICM Chihuahua.

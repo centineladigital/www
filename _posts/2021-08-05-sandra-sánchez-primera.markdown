@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La española se impuso a la japonesa Kiyou Shimizu y ganó el primer metal dorado en la historia de este deporte en los Juegos Olímpicos"
-image: /uploads/2021/images-sandra-sanchez-gana-presea-dorada_0_11_1200_747.jpeg
-video: nil
-audio: nil
-alt: Sandra Sánchez, primera campeona olímpica en karate; gana el oro en Tokio 2020
+image: "/uploads/2021/images-sandra-sanchez-gana-presea-dorada_0_11_1200_747.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Sandra Sánchez, primera campeona olímpica en karate; gana el oro en Tokio 2020"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186312
 ---
 
 La española Sandra Sánchez se convirtió este jueves en la primera campeona olímpica de karate de la historia al imponerse en la modalidad de Kata, superando a la japonesa Kiyou Shimizu en la final, en el Nippon Budokan de Tokio. 

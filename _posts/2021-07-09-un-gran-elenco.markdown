@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gal Gadot, Dwayne Johnson y Ryan Reynolds protagonizarán la nueva película de Netflix Alerta Roja, la cual llegará a la plataforma en noviembre. "
-image: /uploads/2021/images-alerta-roja-pelicula-unira-talento.jpg
-video: nil
-audio: nil
-alt: ¡Un gran elenco! Gal Gadot, Ryan Reynolds y Dwayne Johnson protagonizarán 'Alerta Roja', película de Netflix
+image: "/uploads/2021/images-alerta-roja-pelicula-unira-talento.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Un gran elenco! Gal Gadot, Ryan Reynolds y Dwayne Johnson protagonizarán 'Alerta Roja', película de Netflix"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185510
 ---
 
 Netflix apuesta cada vez más a realizar series y películas con temas y actores que sin duda hacen que de inmediato queramos ver el contenido, es por eso que ahora la plataforma anunció que Gal Gadot, Dwayne Johnson y Ryan Reynolds son los protagonistas de su nueva película que llegará en noviembre de este año. 

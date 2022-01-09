@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Irina Baeva recibió un comentario ofensivo en Instagram por lo que la actriz no se quedó callada y así le respondió a su hater. "
-image: /uploads/2021/images-la-actriz-no-se-quedo.jpg
-video: nil
-audio: nil
-alt: Una rompe hogares -  Irina Baeva responde a comentario ofensivo en Instagram
+image: "/uploads/2021/images-la-actriz-no-se-quedo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Una rompe hogares -  Irina Baeva responde a comentario ofensivo en Instagram"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184083
 ---
 
 Hace tan sólo unos meses Irina Baeva y Gabriel Soto dieron a conocer que se habían comprometido en octubre del 2020 e incluso la rusa ya contó algunos detalles sobre su boda con el actor, sin embargo, Baeva aún sigue recibiendo malos comentarios de personas que aseguran que ella fue la culpable de la separación de Gabriel y Geraldine Bazán. A través de Instagram, Irina Baeva recibió un comentario ofensivo, esto después de que decidiera hacer una dinámica con sus seguidores en donde ellos debían de hacerle algunas preguntas con el fin de conocer más sobre la actriz.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Te decimos fecha de estreno, dónde ver y de qué trata 'Luca', la nueva película de Disney y Pixar que todos esperan con ansias."
-image: /uploads/2021/images-donde-ver-luca-de-disney.jpg
-video: nil
-audio: nil
-alt: ¿Quieres ver 'Luca'? Todo lo que debes saber sobre la película; fecha de estreno y dónde ver
+image: "/uploads/2021/images-donde-ver-luca-de-disney.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Quieres ver 'Luca'? Todo lo que debes saber sobre la película; fecha de estreno y dónde ver"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185070
 ---
 
 Luca es la próxima película de Disney y Pixar que ya emociona a todos los aficionados de los estudios. El efecto para convertirse en un personaje en Snapchat está rompiendo las redes sociales mientras esperamos por la película, es por ello que aquí te contamos cuándo sale la película, de qué trata y desde luego, dónde ver. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El objetivo de las sesiones es informar y orientar a las colaboradoras en el cuidado de la salud y prevención de distintas enfermedades como el cáncer de mama"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Orientarán a mujeres del sector manufacturero sobre el cuidado de la salud
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Orientarán a mujeres del sector manufacturero sobre el cuidado de la salud"
 front: false
-section: Local
+section: "Local"
+news_id: 183915
 ---
 
 Una serie de conferencias mensuales dirigidas a las mujeres que trabajan en el sector manufacturero se llevará a cabo, por parte del Instituto Municipal de las Mujeres en colaboración con el Comité de Salud de Grupo Index, que anunciaron el lanzamiento del programa “1, 2,3 de la Salud de la Mujer”.

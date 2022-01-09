@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente de México agradeció a su homólogo en EU que se comprometiera a buscar la regularización de millones de migrantes sin papeles"
-image: /uploads/2021/images-2516934.jpg
-video: nil
-audio: nil
-alt: Biden destinará 4 mil mdd a centroamérica -  López Obrador
+image: "/uploads/2021/images-2516934.jpg"
+video: "nil"
+audio: "nil"
+alt: "Biden destinará 4 mil mdd a centroamérica -  López Obrador"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182403
 ---
 
 El presidente Andrés Manuel López Obrador dijo este sábado que su par estadounidense, Joe Biden, le informó que destinará 4 mil millones de dólares en ayudas para Guatemala, El Salvador y Honduras.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En medio de una crisis socioeconómica acumulada, agravada por la pandemia, miles toman las calles; “esto apenas empieza”, dicen."
-image: /uploads/2021/images-estallan_en_cuba_contra_regimen_de_diaz-canel.jpg
-video: nil
-audio: nil
-alt:  Estallan en Cuba contra el gobierno y exigen “libertad”
+image: "/uploads/2021/images-estallan_en_cuba_contra_regimen_de_diaz-canel.jpg"
+video: "nil"
+audio: "nil"
+alt: " Estallan en Cuba contra el gobierno y exigen “libertad”"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185552
 ---
 
 El estallido sin precedentes desde 1959 contra la revolución en nueve de las 14 provincias de Cuba, exhibió una creciente inconformidad social luego de más de 62 años de dominio del Partido Comunista de Cuba (PCC) y mostró la debilidad de Díaz-Canel, quien tras asumir la presidencia en 2018, apenas el 19 de abril pasado asumió el control del PCC (con su antecesor, Raúl Castro, vigilante).

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Es el mayor monto destinado a mejora de infraestructura en universidades pedagógicas, señala mandatario estatal   "
-image: /uploads/2021/images-RECORRIDO_UPN_DELICIAS_GOBERNADOR_(7).JPG
-video: nil
-audio: nil
-alt: Alcanza 98% avance de obras en UPN Delicias  
+image: "/uploads/2021/images-RECORRIDO_UPN_DELICIAS_GOBERNADOR_(7).JPG"
+video: "nil"
+audio: "nil"
+alt: "Alcanza 98% avance de obras en UPN Delicias  "
 front: false
-section: Local
+section: "Local"
+news_id: 187373
 ---
 
 El gobernador Javier Corral Jurado encabezó un recorrido de supervisión por las obras de construcción y remodelación de la Universidad Pedagógica Nacional (UPN) Campus Delicias, que llevan un 98 por ciento de avance gracias a una inversión estatal de 25.2 millones de pesos.

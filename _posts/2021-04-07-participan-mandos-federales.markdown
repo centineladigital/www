@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Acuden representantes de las distintas corporaciones y del Ejército a reunión del Grupo de Coordinación para la Construcción de la Paz convocada por el gobernador Javier Corral, en la capital del estado"
-image: /uploads/2021/images-DSC_3621.jpg
-video: nil
-audio: nil
-alt: Participan mandos federales en Mesa de Seguridad realizada en Palacio de Gobierno
+image: "/uploads/2021/images-DSC_3621.jpg"
+video: "nil"
+audio: "nil"
+alt: "Participan mandos federales en Mesa de Seguridad realizada en Palacio de Gobierno"
 front: false
-section: Local
+section: "Local"
+news_id: 183738
 ---
 
 El gobernador Javier Corral Jurado recibió esta mañana en el Palacio de Gobierno a los jefes y comandantes de las diversas fuerzas federales como el Ejército, la Guardia Nacional, el delegado de la Fiscalía General de la República y la delegada de Programas del Desarrollo, Bertha Alcalde Luján, en la reunión del Grupo de Coordinación para la Construcción de la Paz.

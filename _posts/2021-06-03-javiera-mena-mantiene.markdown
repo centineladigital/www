@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantautora presenta “Diva” y “Pasión AKA Ilusión” de su EP “Entusiasmo” y prepara nuevos temas para integrar el resto de su producción."
-image: /uploads/2021/images-cantautora-chilena-regresar-escenarios-presentaciones_0_45_852_530.jpeg
-video: nil
-audio: nil
-alt: Javiera Mena mantiene su entusiasmo por la música a pesar de la pandemia
+image: "/uploads/2021/images-cantautora-chilena-regresar-escenarios-presentaciones_0_45_852_530.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Javiera Mena mantiene su entusiasmo por la música a pesar de la pandemia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184814
 ---
 
 Javiera Mena, una de las artistas latinoamericanas más celebradas de los últimos años, presenta “Diva” y “Pasión AKA Ilusión”, dos nuevos sencillos que se encargan de completar su EP “Entusiasmo”, una primera entrega de un nuevo álbum que planea estrenar a principios del próximo año. Este EP también cuenta con las canciones “Flashback”, “Corazón Astral” y “Dos”, cinco canciones que forman parte de un disco con el cual la cantautora chilena busca mantenerse activa y hacerle frente a este momento histórico de la mano de su música. “El sentimiento que une a todas las canciones en “Entusiasmo” es la pasión, el fuego, son canciones engendradas previas a la pandemia y al estallido social en Chile”, detalló Javiera en conferencia de prensa virtual. 

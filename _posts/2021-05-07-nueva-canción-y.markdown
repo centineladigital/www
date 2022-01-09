@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Coldplay estrenó este viernes su canción Higher Power y como parte del lanzamiento, la banda habló con el astronauta Thomas Pesquet. "
-image: /uploads/2021/images-banda-britanica-lanzo-cancion-viernes.jpg
-video: nil
-audio: nil
-alt: ¡Nueva canción y video! Coldplay estrena 'Higher Power' en la Estación Espacial Internacional
+image: "/uploads/2021/images-banda-britanica-lanzo-cancion-viernes.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Nueva canción y video! Coldplay estrena 'Higher Power' en la Estación Espacial Internacional"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184334
 ---
 
 Hace unos días Coldplay anunció que su nueva canción “Higher Power” llegaría a las diferentes plataformas este 7 de mayo, así como el video musical del tema y como parte del lanzamiento de la canción, la banda realizó una videollamada con el astronauta Thomas Pesquet quien se encuentra en la Estación Espacial Internacional (EEI).  Chris Martin, líder de Coldplay, le mencionó al astronauta francés Thomas Pasquet que “Higher Power” habla de "tratar de encontrar al astronauta que todos llevamos dentro, a la persona que puede hacer cosas increíbles". 

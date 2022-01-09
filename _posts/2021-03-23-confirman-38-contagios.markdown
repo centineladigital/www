@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Suman 57 mil 477 casos y 5 mil 584 decesos de acuerdo al reporte epidemiológico de la Secretaría de Salud "
-image: /uploads/2021/images-General-Motors-Cubrebocas-13-640x360.jpg
-video: nil
-audio: nil
-alt: Confirman 38 contagios y tres defunciones más por COVID-19 en la entidad
+image: "/uploads/2021/images-General-Motors-Cubrebocas-13-640x360.jpg"
+video: "nil"
+audio: "nil"
+alt: "Confirman 38 contagios y tres defunciones más por COVID-19 en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 183519
 ---
 
 La Secretaría de Salud reportó un total general de 57 mil 477 casos confirmados de COVID-19, luego que se sumaran 38 contagios, de acuerdo al último reporte epidemiológico de la situación de la pandemia en la entidad.

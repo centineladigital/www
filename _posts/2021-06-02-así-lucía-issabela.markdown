@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz ha participado en varias telenovelas y protagonizó un episodio de la serie 'Mujeres asesinas' junto a Belinda. "
-image: /uploads/2021/images-issabela-camil-habla-de-la_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Así lucía Issabela Camil cuando apareció en 'La fea más bella' junto a su hermano
+image: "/uploads/2021/images-issabela-camil-habla-de-la_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Así lucía Issabela Camil cuando apareció en 'La fea más bella' junto a su hermano"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184808
 ---
 
 Erika Ellice Sotres Starr es conocida por su nombre artístico Issabela Camil, el cual adoptó en honor al cariño y amor a Jaime Camil Garza, quien fue como un padre para ella a pesar de que no compartían lazos sanguíneos.  Si bien es una figura pública, la actriz ha mantenido un bajo perfil y prefiere no hablar de su vida privada; sin embargo, la serie de Luis Miguel ha puesto bajo la lupa algunos detalles de su carrera artística que pocos conocían, como la vez que apareció en La fea más bella; no podrás creer cómo lucía entonces. 

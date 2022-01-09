@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor Mark Wahlberg sorprendió a todos, ya que luce totalmente irreconocible debido a que subió más de 10 kilos para su nueva película. "
-image: /uploads/2021/images-mark-wahlberg-sorprendio-radical-aspecto.jpg
-video: nil
-audio: nil
-alt: ¡Irreconocible! Mark Wahlberg sube más de 10 kilos para una película; así luce el actor
+image: "/uploads/2021/images-mark-wahlberg-sorprendio-radical-aspecto.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Irreconocible! Mark Wahlberg sube más de 10 kilos para una película; así luce el actor"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184644
 ---
 
 Mark Wahlberg es uno de los actores de Hollywood que es reconocido no sólo por sus películas en donde participa, la mayoría de ellas de acción, sino que también por su escultural figura, no por nada en su cuenta de Instagram no duda en subir videos o fotos de sus entrenamientos y los resultados, sin embargo, el histrión ha sorprendido a todos por cambiar de imagen y subir más de 10 kilos. 

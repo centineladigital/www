@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Medicamentos y vacunas COVID no han sufrido daños."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-mm02.mp3
-alt: Sin daños vacunas por falta de luz
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-mm02.mp3"
+alt: "Sin daños vacunas por falta de luz"
 front: false
-section: Local
+section: "Local"
+news_id: 182965
 ---
 
 No se tiene previsto que el lote de las vacunas que llegó se viera afectado por la falta de luz, señaló Arturo Zorrilla Valenzuela, Director Médico de la Zona Norte en el Estado, quien dijo que se tiene plantas para el cuidado de medicamentos en los diversos hospitales.

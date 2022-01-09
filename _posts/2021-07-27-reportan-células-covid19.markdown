@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: " Siguen pidiendo el apoyo de la ciudadanía en general a seguir sumando esfuerzos y no bajar la guardia"
-image: /uploads/2021/images-unnamed_(3).jpg
-video: nil
-audio: nil
-alt: Reportan Células COVID19 fin de semana sin clausuras
+image: "/uploads/2021/images-unnamed_(3).jpg"
+video: "nil"
+audio: "nil"
+alt: "Reportan Células COVID19 fin de semana sin clausuras"
 front: false
-section: Local
+section: "Local"
+news_id: 186027
 ---
 
 Durante el recorrido que realizaron las Células COVID19, integradas por inspectores de la Subdirección de  Gobernación en conjunto con agentes de la Dirección de Seguridad Pública Municipal, se realizó un recorrido por 46 locales comerciales establecidos entre bares, restaurant- bar  y cantinas de distintos sectores de la ciudad, sin encontrar novedad alguna en la revisión de documentos, aforo o cualquier otra situación que pudiera derivar en una sanción o clausura.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Inexistentes lineamientos para productores."
-image: /uploads/2021/images-IMG_20210730_103801.jpg
-video: /uploads/2021/videos-MV02_ERACLIO_RODRIGUEZ.mp4
-audio: nil
-alt: No tenemos proyecto de nación alimentaria -  Eraclio
+image: "/uploads/2021/images-IMG_20210730_103801.jpg"
+video: "/uploads/2021/videos-MV02_ERACLIO_RODRIGUEZ.mp4"
+audio: "nil"
+alt: "No tenemos proyecto de nación alimentaria -  Eraclio"
 front: false
-section: Local
+section: "Local"
+news_id: 186145
 ---
 
 En el país no se cuenta con un proyecto real en materia alimentaria, señaló el Diputado Federal, Eraclio Rodríguez Gómez. Esto al ser cuestionado respecto a que tema quedará pendiente con el cambio de integrantes dentro de este órgano a nivel federal, señalando que por su parte se dejó de lado una iniciativa en materia de reforma a beneficios del campo.

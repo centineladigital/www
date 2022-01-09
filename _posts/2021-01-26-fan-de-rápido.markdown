@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un BMW M1 modificado por AHG que perteneció a Paul Walker está en subasta; actualmente, ofrecen 390 mil dólares. "
-image: /uploads/2021/images-bmw-m-de-que-pertenecio.jpg
-video: nil
-audio: nil
-alt: ¿Fan de 'Rápido y Furioso'?, subastan en internet BMW M1 que perteneció a Paul Walker
+image: "/uploads/2021/images-bmw-m-de-que-pertenecio.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Fan de 'Rápido y Furioso'?, subastan en internet BMW M1 que perteneció a Paul Walker"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182468
 ---
 
 Si eres fan de los automóviles, esto te interesa: el portal web Bring a Trailer subasta un BMW M1 de 1980 del que sólo fabricaron 400 unidades. ¿Quieres un plus simbólico para animarte mucho más? Pues tienes que saber que este precioso vehículo perteneció al actor Paul Walker, quien se hizo popular en la industria del cine por interpretar a Brian O'Conner en la saga de películas Rápido y Furioso. 

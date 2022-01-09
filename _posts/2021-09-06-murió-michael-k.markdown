@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Williams saltó a la fama como el carismático ladrón y narcotraficante Omar Little de 'The Wire' (2002-2008), una de las series más prestigiosas de la historia de la televisión. "
-image: /uploads/2021/images-periodico-new-york-post-apunta.jpg
-video: nil
-audio: nil
-alt: Murió Michael K. Williams, actor de 'The Wire' y 'Lovecraft Country', a los 54 años
+image: "/uploads/2021/images-periodico-new-york-post-apunta.jpg"
+video: "nil"
+audio: "nil"
+alt: "Murió Michael K. Williams, actor de 'The Wire' y 'Lovecraft Country', a los 54 años"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187487
 ---
 
 Los fanáticos de la serie The Wire están de luto, pues el actor Michael K. Williams, conocido por dar vida al personaje de Omar Little en dicho programa, fue encontrado muerto este lunes en su departamento ubicado en Brooklyn, Nueva York, así lo informó su representante, Marianna Shafran, al sitio The Hollywood Reporter.

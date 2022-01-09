@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Zona centro donde más casos se registran, abren linea de apoyo."
-image: /uploads/2021/images-V5.jpeg
-video: nil
-audio: /uploads/2021/audio-ML06_ALONSO_DOMINGUEZ.mp4
-alt: Detecta FICOSEG robo y delitos sexuales en estaciones de transporte
+image: "/uploads/2021/images-V5.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-ML06_ALONSO_DOMINGUEZ.mp4"
+alt: "Detecta FICOSEG robo y delitos sexuales en estaciones de transporte"
 front: false
-section: Local
+section: "Local"
+news_id: 186205
 ---
 
 Robos y delitos sexuales es lo que el Observatorio Ciudadano de FICOSEG ha detectado en los diversas puntos del sistema de transporte en la capital de Chihuahua, según dio a conocer Alonso Domínguez Álvarez, coordinador de esta asociación.

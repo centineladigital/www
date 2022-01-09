@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "'Estamos retrasando la fecha en la que los usuarios tendrán que revisar y aceptar los términos', dijo la compañía en una publicación de blog."
-image: /uploads/2021/images-2512474.jpg
-video: nil
-audio: nil
-alt: WhatsApp retrasa nuevas políticas tras rechazo de los usuarios
+image: "/uploads/2021/images-2512474.jpg"
+video: "nil"
+audio: "nil"
+alt: "WhatsApp retrasa nuevas políticas tras rechazo de los usuarios"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182192
 ---
 
 WhatsApp retrasó la llegada de sus nuevas políticas ante la negativa generada entre sus usuarios, mismos que crearon iniciativas para migrar a otras plataformas.

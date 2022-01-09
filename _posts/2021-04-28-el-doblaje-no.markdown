@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Arianna López es la voz oficial de Timmy Turner para América Latina, seguramente la reconocerás al escucharla. "
-image: /uploads/2021/images-voz-timmy-turner-padrinos-magicos.jpg
-video: nil
-audio: nil
-alt: ¡El doblaje no tiene género! Ellas dieron voz a Timmy Turner de 'Los Padrinos Mágicos'
+image: "/uploads/2021/images-voz-timmy-turner-padrinos-magicos.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡El doblaje no tiene género! Ellas dieron voz a Timmy Turner de 'Los Padrinos Mágicos'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184171
 ---
 
 Durante algún tiempo, Nickelodeon transmitió algunos programas que se volvieron clásicos de la televisión y emblemas para la generación del año 2000, como Bob Esponja y series como Drake y Josh o Zoey 101. Sin embargo, algo ciertamente curioso es que la voz de Timmy Turner, un personaje masculino de Los Padrinos Mágicos era mujer tanto en español como en inglés. ¿Te habías percatado de esto? Aquí te decimos quiénes eran las voces de Timmy Turner, quizás también las reconozcas de algunos otros programas, pues suelen estar muy activas en el medio. 

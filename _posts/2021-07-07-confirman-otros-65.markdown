@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El número de personas fallecidas es de 7 mil 569 con 32 más, con registros en Juárez, Chihuahua, Guadalupe y Calvo, y Urique"
-image: /uploads/2021/images-Diapositiva5.JPG
-video: nil
-audio: nil
-alt: Confirman otros 65 casos de COVID-19 para llegar a 70 mil 763 en el estado.
+image: "/uploads/2021/images-Diapositiva5.JPG"
+video: "nil"
+audio: "nil"
+alt: "Confirman otros 65 casos de COVID-19 para llegar a 70 mil 763 en el estado."
 front: false
-section: Local
+section: "Local"
+news_id: 185424
 ---
 
 La Secretaría de Salud informó que se registraron 65 nuevos casos y 32 defunciones de COVID-19 en el estado, con lo que el acumulado total es de 70 mil 763 contagios y 7 mil 569 decesos. Del total de personas fallecidas 27 corresponden a Juárez, 5 a Chihuahua, una a Guadalupe y Calvo y una más a Urique.

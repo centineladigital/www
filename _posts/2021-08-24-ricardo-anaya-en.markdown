@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En 2018, la Seido integró una carpeta de investigación contra Anaya Cortés por presunto delito de operaciones con recursos de procedencia ilícita, a raíz de la compra-venta de una nave industrial en el estado de Querétaro"
-image: /uploads/2021/images-semana-ricardo-anaya-anuncio-regreso.jpg
-video: nil
-audio: nil
-alt: Ricardo Anaya, en la mira del Ministerio Público desde hace tres años
+image: "/uploads/2021/images-semana-ricardo-anaya-anuncio-regreso.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ricardo Anaya, en la mira del Ministerio Público desde hace tres años"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187034
 ---
 
 Desde hace tres años la Representación Social de la Federación como procuraduría y hoy como Fiscalía General de la República (FGR) ha puesto la mira en el panista Ricardo Anaya Cortés, iniciando investigaciones, esto después de manifestar sus intenciones de buscar ser presidente de México. 

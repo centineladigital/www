@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "No registró disminución significativa la construcción en el municipio de Chihuahua."
-image: /uploads/2021/images-GABRIEL_VALDEZ.jpg
-video: nil
-audio: /uploads/2021/audio-MV05_GABRIEL_VALDES.mp3
-alt: Incentivan construcción condonando 25 mdp
+image: "/uploads/2021/images-GABRIEL_VALDEZ.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05_GABRIEL_VALDES.mp3"
+alt: "Incentivan construcción condonando 25 mdp"
 front: false
-section: Local
+section: "Local"
+news_id: 181986
 ---
 
 Dentro de los incentivos que manejó la Dirección de Desarrollo Urbano y Ecología en el municipio de Chihuahua condonó un total de 25 millones de pesos en descuentos, según lo dio a conocer el titular de esta dependencia Gabriel Valdez.

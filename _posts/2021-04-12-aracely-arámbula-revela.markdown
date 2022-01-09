@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Luis Miguel, El Sol, no podrá usar la imagen ni mencionar a Aracely Arámbula en la serie biográfica sobre su vida de Netflix: la realidad contada desde la fuente y no por terceros ajenos a ella, ni de manera parcial o tendenciosa”.  "
-image: /uploads/2021/images-aracely-arambula-hablo-aparicion-serie_1_0_1045_650.jpg
-video: nil
-audio: nil
-alt: Aracely Arámbula revela que no saldrá en serie de Luis Miguel; anuncia que ya escribe sus memorias
+image: "/uploads/2021/images-aracely-arambula-hablo-aparicion-serie_1_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aracely Arámbula revela que no saldrá en serie de Luis Miguel; anuncia que ya escribe sus memorias"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183816
 ---
 
 La segunda temporada de Luis Miguel: La Serie está próxima a estrenarse. Sobre la producción vía streaming se espera que se cuente qué fue lo que pasó con la mamá de El Sol, así como algunos detalles sobre sus amoríos entre los que se encuentra el que tuvo con Aracely Arámbula. Ante las expectativas, La Chule, rompió el silencio y reveló que la producción de Netflix no podrá mencionarla ni en la segunda, tercera o cuarta temporada, pues logró cuidar su imagen. ¿Ella contará su verdad? ¿Por qué no quiere participar en la historia del padre de sus hijos? La noticia sobre esta decisión se dio a conocer a través de un comunicado en donde Aracely Arámbula explicó que Luis Miguel La Serie no podrá mencionarla para nada. Reveló que desde el inicio de ésta ella pidió no usar su imagen por ningún motivo.

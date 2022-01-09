@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El senador representante del PAN ante el INE, Juan Antonio Martín del Campo, exigió que se realice una investigación a fondo y se sancione con todo el peso de la ley a quienes resulten responsables. "
-image: /uploads/2021/images-AMLO-2-1.jpg
-video: nil
-audio: nil
-alt: Denuncian en INE caso de hermano de AMLO en el que recibió 150 mil pesos
+image: "/uploads/2021/images-AMLO-2-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Denuncian en INE caso de hermano de AMLO en el que recibió 150 mil pesos"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185547
 ---
 
 Tras la difusión de los videos donde se ve a Martín Jesús López Obrador, hermano del Presidente, recibir 150 mil pesos en efectivo de David León, excoordinador nacional de Protección Civil, el Partido Acción Nacional (PAN) interpuso una queja ante el Instituto Nacional Electoral (INE) contra Morena, los implicados en el caso y quien resulte responsable por delitos electorales.

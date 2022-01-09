@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Presidente dijo que se aplicaría la dosis contra covid-19 si organismos internacionales así lo aprueban"
-image: /uploads/2021/images-andres-manuel-lopez-obrador-92_0_26_1200_746.jpg
-video: nil
-audio: nil
-alt: AMLO no descarta vacunación anticovid para menores de edad con problemas de salud
+image: "/uploads/2021/images-andres-manuel-lopez-obrador-92_0_26_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "AMLO no descarta vacunación anticovid para menores de edad con problemas de salud"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186219
 ---
 
 El presidente Andrés Manuel López Obrador informó que no se descarta en México vacunar contra covid-19 a menores de edad con problemas de salud. En conferencia matutina, el mandatario explicó que la aplicación de las dosis a ese sector de la población sería si los organismos internacionales de salud lo aprueban.  

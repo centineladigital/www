@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En caso de que la cinta fuera distribuida a través de HBO Max, el actor recibirá una cuantiosa cantidad económica. "
-image: /uploads/2021/images-aquaman-tendra-segunda-parte-foto_0_185_933_581.jpg
-video: nil
-audio: nil
-alt: Jason Momoa blinda su contrato con Warner para 'Aquaman 2' ante un posible estreno en streaming
+image: "/uploads/2021/images-aquaman-tendra-segunda-parte-foto_0_185_933_581.jpg"
+video: "nil"
+audio: "nil"
+alt: "Jason Momoa blinda su contrato con Warner para 'Aquaman 2' ante un posible estreno en streaming"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186814
 ---
 
 Aquaman and the Lost Kingdom, la segunda entrega del superhéroe interpretado por Jason Momoa, se encuentra actualmente en producción y, a la vista de la inestable situación del mercado cinematográfico, el artista no ha esperado a concluir la película para salvaguardar sus intereses en caso de un estreno simultáneo en cines y en streaming. 

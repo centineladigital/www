@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La agrupación tendrá como invitados especiales a Jorge El Coque Muñiz, Alejandra Ávalos, Sheyla y Mane de la Parra para su baile del 29 de mayo. "
-image: /uploads/2021/images-la-sonora-santanera-instagram.jpg
-video: nil
-audio: nil
-alt: ¡Bailongo! La Sonora Santanera volverá a las presentaciones presenciales en La Maraka
+image: "/uploads/2021/images-la-sonora-santanera-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Bailongo! La Sonora Santanera volverá a las presentaciones presenciales en La Maraka"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184624
 ---
 
 Ansiosos por volver a disfrutar de su público, La Sonora Santanera prepara un espectáculo musical para el próximo 29 de mayo que se llevará a cabo de forma presencial y vía streaming. Durante este evento, la agrupación tropical interpretará sus temas más icónicos en el escenario de La Maraka. "Estamos muy contentos por este evento en el que vamos a compartir escenario, es una buena oportunidad para que todo el público venga a divertirse, a disfrutar ahora que tenemos un poquito más de libertad", declaró La Sonora Santanera en la conferencia que se realizó de forma híbrida. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Realizadas dentro de la Operación Justicia para Chihuahua que combate el saqueo de las arcas públicas realizado durante la administración anterior"
-image: /uploads/2021/images-WhatsApp_Image_2021-01-08_at_8.15.56_AM.jpeg
-video: nil
-audio: nil
-alt: Recupera el estado más de 577 millones en Operación justicia
+image: "/uploads/2021/images-WhatsApp_Image_2021-01-08_at_8.15.56_AM.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Recupera el estado más de 577 millones en Operación justicia"
 front: false
-section: Local
+section: "Local"
+news_id: 181964
 ---
 
 El Gobierno del Estado ha recuperado hasta el momento 577 millones 881 mil 987 pesos, producto de créditos fiscales y las auditorías fiscales realizadas dentro de la Operación Justicia para Chihuahua que combate el saqueo de las arcas públicas realizado durante la administración anterior.

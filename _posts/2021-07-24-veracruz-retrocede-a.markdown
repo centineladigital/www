@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Las cifras de contagios activos y ocupación hospitalaria aumentaron en el estado, sin embargo, los sitios turísticos lucen abarrotados "
-image: /uploads/2021/images-cambio-semaforo-epidemiologico-afluencia-sitios_0_1_1024_636.jpeg
-video: nil
-audio: nil
-alt: Veracruz retrocede a semáforo naranja por covid-19
+image: "/uploads/2021/images-cambio-semaforo-epidemiologico-afluencia-sitios_0_1_1024_636.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Veracruz retrocede a semáforo naranja por covid-19"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185969
 ---
 
 Veracruz regresó a semáforo epidemiológico naranja por covid-19 tras el incremento en la ocupación hospitalaria, de contagios activos y los 4 mil 158 casos confirmados, aunado a la detección de más de mil sospechosos. 

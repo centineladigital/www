@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un grupo de los padres de familia que han organizado el boteo para recolectar el dinero suficiente para traer el medicamento para los niños oncológicos"
-image: /uploads/2021/images-Boteo_cáncer_infantil.jpg
-video: nil
-audio: nil
-alt: Botean para conseguir quimios de niños con cáncer
+image: "/uploads/2021/images-Boteo_cáncer_infantil.jpg"
+video: "nil"
+audio: "nil"
+alt: "Botean para conseguir quimios de niños con cáncer"
 front: false
-section: Local
+section: "Local"
+news_id: 184739
 ---
 
 “Si está fuerte el sol, si está fuerte el calor, pero más aguantan nuestros niños y sin medicamento, créame que esto no es nada” aseveró Alejandra Ramírez, una de las madres de familia de la organización “Todos contra el cáncer infantil Chihuahua”, grupo de los padres de familia que han organizado el boteo para recolectar el dinero suficiente para traer el medicamento para los niños oncológicos.

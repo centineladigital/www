@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Informe integro se encuentra en la página del órgano judicial."
-image: /uploads/2021/images-VERONICA.jpg
-video: nil
-audio: /uploads/2021/audio-ML06_VERONICA_RODRIGUEZ.mp3
-alt: Presenta informe de equidad y derechos humanos en TSJ
+image: "/uploads/2021/images-VERONICA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML06_VERONICA_RODRIGUEZ.mp3"
+alt: "Presenta informe de equidad y derechos humanos en TSJ"
 front: false
-section: Local
+section: "Local"
+news_id: 182604
 ---
 
 El informe anual en la Dirección de Derechos Humanos e Igualdad de Género del Poder Judicial su informe de actividades 2020, fue presentado por parte de la titular de este órgano Verónica Rodríguez López.

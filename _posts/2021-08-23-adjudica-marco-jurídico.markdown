@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante la actual Administración estatal se promulgaron seis leyes que sustentan su quehacer y se modificó el Decreto 57 para la creación y operación del Programa de Estímulos Fiscales para la Cultura y las Artes “Eká Nawéame”"
-image: /uploads/2021/images-museos_y_recintos_(6).jpg
-video: nil
-audio: nil
-alt: Adjudica marco jurídico facultad a la Secretaría de Cultura para impulsar la cultura y las artes en la entidad
+image: "/uploads/2021/images-museos_y_recintos_(6).jpg"
+video: "nil"
+audio: "nil"
+alt: "Adjudica marco jurídico facultad a la Secretaría de Cultura para impulsar la cultura y las artes en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 187000
 ---
 
 Con la creación de la Secretaría de Cultura, que surgió por el interés de la presente Administración de darle el peso y protagonismo que merece el quehacer cultural chihuahuense, el Gobierno del Estado elaboró el marco jurídico pertinente que le brinda las facultades y los alcances que tiene hoy por hoy la institución.

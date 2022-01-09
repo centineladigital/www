@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Comisión Europea presenta su proyecto de pasaporte sanitario para facilitar los viajes en la UE y tratar de salvar la temporada turística del verano"
-image: /uploads/2021/images-2546568.jpg
-video: nil
-audio: nil
-alt: Lanza UE proyecto de pasaporte sanitario para reactivar turismo
+image: "/uploads/2021/images-2546568.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lanza UE proyecto de pasaporte sanitario para reactivar turismo"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183446
 ---
 
 La Comisión Europea presentó este miércoles su proyecto de pasaporte sanitario para facilitar los viajes en la UE y tratar de salvar la temporada turística del verano boreal, una iniciativa que no está libre de cuestionamientos y aún tendrá que ser aprobada por todas las partes.

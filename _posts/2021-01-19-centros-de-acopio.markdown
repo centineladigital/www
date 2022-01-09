@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hay tres ubicaciones para comodidad de los chihuahuenses"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Centros de acopio de arbolitos navideños estarán disponibles hasta el 31 de enero
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Centros de acopio de arbolitos navideños estarán disponibles hasta el 31 de enero"
 front: false
-section: Local
+section: "Local"
+news_id: 182256
 ---
 
 El Gobierno Municipal a través de las direcciones de Servicios Públicos y de Mantenimiento ubicó tres macro contenedores para el acopio de árboles navideños naturales.

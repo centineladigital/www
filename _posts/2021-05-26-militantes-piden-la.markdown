@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Además de pedir la salida de la candidata a la gubernatura, también pidieron que se expulse a Alejandro Domínguez y Fernando Baeza"
-image: /uploads/2021/images-denuncia_pri.jpg
-video: nil
-audio: nil
-alt: Militantes piden la expulsión de Chela Ortiz del PRI
+image: "/uploads/2021/images-denuncia_pri.jpg"
+video: "nil"
+audio: "nil"
+alt: "Militantes piden la expulsión de Chela Ortiz del PRI"
 front: false
-section: Local
+section: "Local"
+news_id: 184673
 ---
 
 Mas de 350 militantes del Partido Revolucionario Institucional (PRI) solicitaron la expulsión de Graciela Ortiz, Alejandro Domínguez y Fernando Baeza del partido, por violentar los estatutos y el código de ética del Partido, a través de una denuncia que fue presentada en las instalaciones del Comité Directivo Estatal.

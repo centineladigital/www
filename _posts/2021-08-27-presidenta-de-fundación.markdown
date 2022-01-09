@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Monifa Bandele ocupará el puesto de liderazgo de Time's Up de manera temporal; el ex gobernador de Nueva York dejó su cargo por supuestamente acosar a más de una decena de empleadas"
-image: /uploads/2021/images-tina-tchen-presidenta-fundacion-creada_0_0_400_249.jpg
-video: nil
-audio: nil
-alt: Presidenta de fundación Time's Up renuncia tras ser vinculada con Andrew Cuomo
+image: "/uploads/2021/images-tina-tchen-presidenta-fundacion-creada_0_0_400_249.jpg"
+video: "nil"
+audio: "nil"
+alt: "Presidenta de fundación Time's Up renuncia tras ser vinculada con Andrew Cuomo"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187183
 ---
 
 Tras conocerse sus vínculos con el ex gobernador de Nueva York, Andrew Cuomo, Tina Tchen, la presidenta de la fundación creada para combatir el acoso sexual de las mujeres Time's Up, renunció, ya que el político fue acusado de acosar a más de una decena de empleadas. 

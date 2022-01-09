@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La suspensión lograda por el exmandatario que se encuentra preso en Miami, Fl., lo que establece de manera clara y precisa es el efecto de que cuando sea ingresado a territorio nacional, sea puesto a inmediata disposición del juez de control que lo está requiriendo"
-image: /uploads/2021/images-DAH_0117.JPG
-video: nil
-audio: nil
-alt: Exgobernador deberá ser presentado ante juez estatal una vez extraditado, aclara Consejero
+image: "/uploads/2021/images-DAH_0117.JPG"
+video: "nil"
+audio: "nil"
+alt: "Exgobernador deberá ser presentado ante juez estatal una vez extraditado, aclara Consejero"
 front: false
-section: Local
+section: "Local"
+news_id: 183367
 ---
 
 “El amparo de fondo promovido por el exgobernador de Chihuahua ya le fue negado por parte de la jueza del Cuarto Juzgado de Distrito en materia penal en la Ciudad de México y está pronto a que se confirme por parte de un Tribunal Colegiado que va resolver el recurso de revisión de la negativa del mismo”, informó el consejero jurídico de Gobierno del Estado, Jorge Espinoza Cortés.

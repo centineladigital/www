@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Coordinación Estatal de Protección Civil informa que este sábado 20 de marzo ingresa un nuevo frente frío por el noroeste del país, lo cual traerá temperaturas bajas por la mañana en Chihuahua"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Se esperan rachas de viento de 45 y 35 km/h para este viernes en la entidad
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se esperan rachas de viento de 45 y 35 km/h para este viernes en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 183478
 ---
 
 Para este viernes 19 la masa de aire frío que impulsó al Frente Frío número 43 y la aproximación de uno nuevo provocarán rachas de viento de hasta 45 kilómetros por hora, informó la Coordinación Estatal de Protección Civil.

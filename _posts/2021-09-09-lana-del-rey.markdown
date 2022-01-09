@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hay buenas noticias para los fans de Lana del Rey, la cantante por fin anunció la nueva fecha en que su disco 'Blue Banisters' saldrá a la venta. "
-image: /uploads/2021/images-lana_rey.jpg
-video: nil
-audio: nil
-alt: Lana del Rey anuncia la fecha en que lanzará su nuevo disco 'Blue Banisters'
+image: "/uploads/2021/images-lana_rey.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lana del Rey anuncia la fecha en que lanzará su nuevo disco 'Blue Banisters'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187576
 ---
 
 Lana del Rey ha desvelado a través de las redes sociales que la fecha en la que finalmente se publicará su álbum "Blue Banisters" será el 22 de octubre, casi cinco meses después de lo anunciado inicialmente. 

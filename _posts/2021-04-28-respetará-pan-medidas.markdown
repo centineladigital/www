@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Continuarán acciones de sanidad dentro de las campañas."
-image: /uploads/2021/images-ROCIO.jpg
-video: nil
-audio: /uploads/2021/audio-MW04_ROCIO_REZA.mp3
-alt: Respetará PAN medidas de sanidad -  Reza
+image: "/uploads/2021/images-ROCIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW04_ROCIO_REZA.mp3"
+alt: "Respetará PAN medidas de sanidad -  Reza"
 front: false
-section: Local
+section: "Local"
+news_id: 184176
 ---
 
 “No vamos ni un día a ceder” fueron las palabras de la dirigente del Partido Acción Nacional, Rocío Reza, al señalar que dentro del partido sus candidatos y candidatas buscarán respetar la forma de actuar respetando medidas sanitarias.

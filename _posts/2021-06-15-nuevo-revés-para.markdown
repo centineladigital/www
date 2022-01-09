@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La farmacéutica AstraZeneca anuncia que su tratamiento experimental contra el covid-19 basado en anticuerpos, que se encontraba en fase 3 de ensayos, no dio resultado"
-image: /uploads/2021/images-2595269.jpg
-video: nil
-audio: nil
-alt: Nuevo revés para AstraZeneca -  falla tratamiento con anticuerpos para covid-19
+image: "/uploads/2021/images-2595269.jpg"
+video: "nil"
+audio: "nil"
+alt: "Nuevo revés para AstraZeneca -  falla tratamiento con anticuerpos para covid-19"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185030
 ---
 
 El grupo farmacéutico anglo-sueco AstraZeneca anunció este martes que sufrió un revés en el desarrollo de un tratamiento contra el covid-19, cuya eficacia en personas expuestas al virus no ha sido probada.

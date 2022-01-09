@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Deberán dar atención a aire libre, cinco días a la semana, con descanso obligatorio los domingos y lunes, a excepción de comercios esenciales"
-image: /uploads/2021/images-2520635.jpg
-video: nil
-audio: nil
-alt: CDMX permite apertura de comercios, atenderán al aire libre
+image: "/uploads/2021/images-2520635.jpg"
+video: "nil"
+audio: "nil"
+alt: "CDMX permite apertura de comercios, atenderán al aire libre"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182560
 ---
 
 El Gobierno de la Ciudad de México informó este viernes que a partir de la próxima semana podrán abrir todos los comercios esenciales y no esenciales, con excepción de las plazas y centro comerciales, los cuales iniciarán actividades el 8 de febrero.

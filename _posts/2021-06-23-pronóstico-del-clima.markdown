@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Coordinación Estatal de Protección Civil informa que además del intenso calor, para este miércoles se esperan precipitaciones"
-image: /uploads/2021/images-e463f5cf98c8612005acb5103a91b655.jpg
-video: nil
-audio: nil
-alt: Pronóstico del clima -  hasta 41°C en Ojinaga y rachas de viento de 55 km/h en Juárez
+image: "/uploads/2021/images-e463f5cf98c8612005acb5103a91b655.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pronóstico del clima -  hasta 41°C en Ojinaga y rachas de viento de 55 km/h en Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 185197
 ---
 
 Para este miércoles 23 de junio, se pronostican temperaturas de 41°C en Ojinaga, 38°C en Ciudad Juárez y 36°C en Chihuahua, así como rachas de viento de hasta 55 kilómetros por hora (km/h) y lluvias en varias zonas del estado, informó la Coordinación Estatal de Protección Civil (CEPC).

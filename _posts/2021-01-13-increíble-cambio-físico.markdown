@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de su cuenta de Instagram, en donde la intérprete de “10 minutos” compartió su antes y después. La famosa demostró que sí se puede perder peso con dedicación y compromiso. "
-image: /uploads/2021/images-como-lo-hizo-el-increible.jpg
-video: nil
-audio: nil
-alt: Increíble cambio físico -  Dalú impacta con foto del antes y después tras perder peso
+image: "/uploads/2021/images-como-lo-hizo-el-increible.jpg"
+video: "nil"
+audio: "nil"
+alt: "Increíble cambio físico -  Dalú impacta con foto del antes y después tras perder peso"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182117
 ---
 
 Dalú, ganadora de la última edición de La Academia en TV Azteca, sorprendió a sus seguidores tras compartir una imagen de su antes y después. Y es que la cantante demostró que sí se pueden cambiar los hábitos para llegar a una meta. Mostró cómo en 2018 tenía sobrepeso y cómo ahora luce una figura atlética. Te contamos cómo la ganadora de La Academia demostró que sí se puede. Fue a través de su cuenta de Instagram, en donde la intérprete de “10 minutos” compartió su antes y después. Y es que en 2018 lucía con sobrepeso –aspecto físico que ella misma decidió cambiar por una mejor alimentación y ejercicio– junto a una imagen en la que aparece delgada y ejercitada. 

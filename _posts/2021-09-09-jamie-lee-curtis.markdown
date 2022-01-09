@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Festival de Venecia, que concluirá el próximo sábado con la asignación del León de Oro y el resto de premios, este año también ha laureado a Roberto Benigni. "
-image: /uploads/2021/images-jamie-lee-curtis-acompanada-ceremonia.jpg
-video: nil
-audio: nil
-alt: Jamie Lee Curtis recibe el León de Oro honorífico en el Festival de Cine de Venecia
+image: "/uploads/2021/images-jamie-lee-curtis-acompanada-ceremonia.jpg"
+video: "nil"
+audio: "nil"
+alt: "Jamie Lee Curtis recibe el León de Oro honorífico en el Festival de Cine de Venecia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187574
 ---
 
 La edición 2021 del Festival de Cine de Venecia entregó hoy el León de Oro honorifico a la actriz estadunidense Jamie Lee Curtis, quien lo dedicó, emocionada, a las víctimas de violencia y discriminación racial, sexual o ideológica. "Gracias de nuevo por este gran honor. Lo dedico a las víctimas y supervivientes a la violencia de todo tipo, ya sea física, política, espiritual, sexual, psicológica, cultural, emotiva, doméstica", proclamó en la gala. 

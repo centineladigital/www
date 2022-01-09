@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que pese a que se dio a conocer licitación de modernización esta no ha sido llevada a cabo."
-image: /uploads/2021/images-MIGUEL_RIGGS.jpg
-video: nil
-audio: /uploads/2021/audio-MJ04_MIGUEL_RIGGS.mp3
-alt: CFE sin procesos de modernización -  Riggs
+image: "/uploads/2021/images-MIGUEL_RIGGS.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ04_MIGUEL_RIGGS.mp3"
+alt: "CFE sin procesos de modernización -  Riggs"
 front: false
-section: Local
+section: "Local"
+news_id: 181951
 ---
 
 El proceso de modernización no se tiene desde el inicio de la administración de Andrés Manuel López Obrador, señaló el Senador por Chihuahua Miguel Riggs, quien condenó el apagón eléctrico que se vivió en algunos estados del país.

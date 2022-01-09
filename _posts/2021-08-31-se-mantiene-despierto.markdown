@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El director del hospital, Ever Arturo Rodríguez, negó la noticia que se difundió hace unos días respecto a que un hombre desconocido violó la seguridad del nosocomio y entró al cuarto del cantante. "
-image: /uploads/2021/images-cantante-internado-hospital-country-ubicado.jpg
-video: nil
-audio: nil
-alt: Se mantiene despierto -  nuevo reporte de salud de Vicente Fernández; hospital niega fallas en su seguridad
+image: "/uploads/2021/images-cantante-internado-hospital-country-ubicado.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se mantiene despierto -  nuevo reporte de salud de Vicente Fernández; hospital niega fallas en su seguridad"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187279
 ---
 
 Vicente Fernández sigue internado en el hospital Country 2000, ubicado en Guadalajara Jalisco, aunque presenta una mejoría constante, así lo informó este lunes su doctor de cabecera, Arturo Gómez, en el reporte médico que comparte semanalmente el nosocomio con los medios de comunicación. "Cabe señalar que el día viernes por la noche, derivado de las secuelas de su enfermedad y la incapacidad para realizar una deglución efectiva, fue necesario realizar la colocación de una sonda de alimentación especial denominada gastrostomía; es una sonda que se coloca directamente sobre el estomago por mínima invasión. Un procedimiento que se llevó a cabo sin ninguna complicación", dijo el galeno. 

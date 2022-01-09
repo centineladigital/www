@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Después de cinco días, dos cartas y varias llamadas, el magistrado destituido sostendrá una reunión con el ministro presidente del máximo tribunal del país"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Magistrado José Luis Vargas se reúne con Arturo Zaldívar, presidente de la Corte
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Magistrado José Luis Vargas se reúne con Arturo Zaldívar, presidente de la Corte"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186450
 ---
 
 El magistrado José Luis Vargas Valdez llegó a la Suprema Corte de Justicia de la Nación (SCJN), para reunirse con el ministro presidente de ésta, Arturo Zaldívar. 

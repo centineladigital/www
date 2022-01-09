@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se cuenta con el 100 por ciento de material didáctico en preescolar y telesecundaria, y se espera que esta semana se reciba el total para primaria y secundaria     "
-image: /uploads/2021/images-R2.JPG
-video: nil
-audio: nil
-alt: Avanza recepción de libros de texto gratuitos para escuelas del nivel básico
+image: "/uploads/2021/images-R2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Avanza recepción de libros de texto gratuitos para escuelas del nivel básico"
 front: false
-section: Local
+section: "Local"
+news_id: 187028
 ---
 
 La Secretaría de Educación y Deporte (SEyD) dio a conocer que al momento, tiene un avance del 87 por ciento en la recepción de libros de texto gratuitos para el nivel básico, correspondientes al ciclo escolar 2021-2022. Durante el proceso de recepción se ha cumplido con todas las medidas sanitarias.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se brindaron 300 mil 996 consultas médicas de primer nivel y de especialidades, en la modalidad de presencial y no presencial, 6 mil 847 más en comparación con el mismo periodo del año anterior"
-image: /uploads/2021/images-FOTOS_CITAS_PCE_(4).JPG
-video: nil
-audio: nil
-alt:  Otorga Pensiones más de 300 mil consultas médicas en primer semestre de 2021
+image: "/uploads/2021/images-FOTOS_CITAS_PCE_(4).JPG"
+video: "nil"
+audio: "nil"
+alt: " Otorga Pensiones más de 300 mil consultas médicas en primer semestre de 2021"
 front: false
-section: Local
+section: "Local"
+news_id: 186677
 ---
 
 Durante el primer semestre del año, Pensiones Civiles del Estado otorgó 300 mil 996 citas médicas a sus derechohabientes, un incremento del 2.2 por ciento en comparación con el mismo periodo del año anterior.

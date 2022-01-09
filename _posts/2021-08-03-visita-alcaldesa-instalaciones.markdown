@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La presidenta municipal María Angélica Granados Trespalacios realizó una vista a la empresa local Walking Solutions, donde conoció la trayectoria y los planes de expansión que se tienen de la compañía"
-image: /uploads/2021/images-unnamed_(18).jpg
-video: nil
-audio: nil
-alt: Visita Alcaldesa instalaciones de la empresa Walking Solutions
+image: "/uploads/2021/images-unnamed_(18).jpg"
+video: "nil"
+audio: "nil"
+alt: "Visita Alcaldesa instalaciones de la empresa Walking Solutions"
 front: false
-section: Local
+section: "Local"
+news_id: 186268
 ---
 
 La Alcaldesa señaló que debido al trabajo conjunto con la academia, sector productivo y sociedad organizada se han logrado generar condiciones para tener mejores empleos y para ayudar a la recuperación de estos durante la pandemia a nivel local, como se ve reflejado en Walking Solutions y en sus planes de crecimiento.

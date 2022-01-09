@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Coordinación Estatal de Protección Civil pide tomar precauciones por ráfagas de hasta 55 km/h el viernes y de hasta 65 km/h el sábado"
-image: /uploads/2021/images-clima-lluvia-1.jpeg
-video: nil
-audio: nil
-alt: Prevén fuertes rachas de viento y lluvias aisladas en el norte este fin de semana
+image: "/uploads/2021/images-clima-lluvia-1.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Prevén fuertes rachas de viento y lluvias aisladas en el norte este fin de semana"
 front: false
-section: Local
+section: "Local"
+news_id: 183921
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) pide a la ciudadanía tomar precauciones por la aproximación del Frente Frío 51, ya que ocasionará rachas de hasta 55 kilómetros por hora (km/h) este viernes 16 y de hasta 65 km/h el sábado 17 de abril.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante aclaró si le molestaron las bromas que hizo 'El Capi' Pérez sobre su relación con Belinda. "
-image: /uploads/2021/images-christian-nodal-revela-bloqueo-capi_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Christian Nodal revela por qué bloqueó a 'El Capi' Pérez; así reaccionó el conductor
+image: "/uploads/2021/images-christian-nodal-revela-bloqueo-capi_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Christian Nodal revela por qué bloqueó a 'El Capi' Pérez; así reaccionó el conductor"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182852
 ---
 
 Christian Nodal y Belinda comenzaron a acaparar los reflectores tras dar a conocer su romance en medio de las grabaciones de La Voz. Pese a sus intentos de mantenerse alejados de la prensa, su relación ha dado pie a rumores y chistes que no son de su agrado, tal cual sucedió con El Capi Pérez, a quien el cantante eliminó de Instagram por hacer una broma sobre la supuesta rivalidad entre la intérprete de "Bella traición" y Daniela Luján.  Ahora, Christian Nodal reveló los motivos por los que bloqueó al conductor de Venga la Alegría en la red social. Aclaró si le molestaron las bromas hechas por El Capi Pérez sobre su relación con Belinda, con quien hace unos días celebró seis meses de noviazgo.

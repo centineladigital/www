@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La intérprete de La Guadalupana reveló que tuvo un encontronazo con Angélica Rivera en los inicios de su carrera. "
-image: /uploads/2021/images-itati-cantoral-encuentro-angelica-rivera.jpg
-video: nil
-audio: nil
-alt: Pensé que me sacarían del país -  Itatí Cantoral recuerda cuando se peleó con Angélica Rivera
+image: "/uploads/2021/images-itati-cantoral-encuentro-angelica-rivera.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pensé que me sacarían del país -  Itatí Cantoral recuerda cuando se peleó con Angélica Rivera"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184912
 ---
 
 Itatí Cantoral es una de las actrices más queridas por el público debido a su simpática personalidad, nos ha conquistado con su interpretación de La Guadalupana, pero también gritándole a Nandito qué estaba haciendo con la maldita lisiada, pero la actriz también se ha tenido que enfrentar a los desplantes de algunas de sus compañeras como fue el caso de Angélica Rivera, ex primera dama de México. En entrevista para el programa de YouTube de Yordi Rosado, la actriz reveló que tuvo un encontronazo con Angélica Rivera en los inicios de su carrera luego de que la ex primera dama la bajó del camper y la maquillista sólo la arregló a ella. 

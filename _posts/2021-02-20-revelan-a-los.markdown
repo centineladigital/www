@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El México Selections by Concours Mondial de Bruxelles se realizará del 24 al 26 de febrero en Chihuahua; contará con la visita de periodistas gastronómicos, enólogos, sommeliers y expertos en vino y bebidas"
-image: /uploads/2021/images-Mexico_selections_2_(1).jpg
-video: nil
-audio: nil
-alt: Revelan a los jueces que decidirán los mejores vinos de México
+image: "/uploads/2021/images-Mexico_selections_2_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Revelan a los jueces que decidirán los mejores vinos de México"
 front: false
-section: Local
+section: "Local"
+news_id: 183072
 ---
 
 El concurso más importante de vinos y bebidas del país, México Selections by Concours Mondial de Bruxelles que se realizará en Chihuahua, contará con la presencia de los mejores jueces, enólogos, sommeliers y periodistas especializados.

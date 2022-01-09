@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Califica regidor como una ofensa este tipo de acciones."
-image: /uploads/2021/images-tomatito.jpg
-video: nil
-audio: /uploads/2021/audio-MW06_LUIS_TERRAZAS.mp3
-alt: Lamentable decisión de CONAGUA al desmantelar delegación del Chihuahua
+image: "/uploads/2021/images-tomatito.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW06_LUIS_TERRAZAS.mp3"
+alt: "Lamentable decisión de CONAGUA al desmantelar delegación del Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 183141
 ---
 
 Como una clara ofensa a los chihuahuenses, pero sobre todo a los productores, el desmantelamiento de CONAGUA. Destacando que esta es la forma en la que el presidente “se desquita” de la defensa que se hizo de Chihuahua, fueron las palabras del regidor panista Luis Terrazas Fraga, al ser cuestionado respecto al cambio de CONAGUA a la ciudad de Monterrey.

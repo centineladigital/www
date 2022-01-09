@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Detectan menos de 50 casos por tercer día consecutivo."
-image: /uploads/2021/images-diapositiva3-336.jpg
-video: nil
-audio: /uploads/2021/audio-MW01_GUMARO_BARRIOS.mp3
-alt: Continúan cifras bajas de COVID
+image: "/uploads/2021/images-diapositiva3-336.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW01_GUMARO_BARRIOS.mp3"
+alt: "Continúan cifras bajas de COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 184424
 ---
 
 Por tercer día consecutivo las cifras de pruebas positivas a coronavirus fueron bajas al igual que las muertes, esto ya que en tan sólo 24 horas dieron positivo 46 personas a la prueba PCR. Acreditándose por otro lado la muerte de 6 personas por coronavirus según lo dio a conocer el Subdirector del Área de Epidemiología Gumaro Barrios Gallegos.

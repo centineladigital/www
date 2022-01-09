@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Para hacer de las calles y vialidades un espacio más seguro tanto para los automovilistas como para los peatones, este año invertimos más de 30 millones de pesos en la rehabilitación de 24 avenidas principales de la ciudad"
-image: /uploads/2021/images-unnamed.png
-video: nil
-audio: nil
-alt: Destinamos 25 millones al bacheo prioritario para mejorar las avenidas de la ciudad
+image: "/uploads/2021/images-unnamed.png"
+video: "nil"
+audio: "nil"
+alt: "Destinamos 25 millones al bacheo prioritario para mejorar las avenidas de la ciudad"
 front: false
-section: Local
+section: "Local"
+news_id: 187255
 ---
 
 A través del programa de bacheo prioritario e intensivo, invertimos casi 25 millones de pesos en este último año de la administración 2018-2021 con un total de 5 mil 650 metros cúbicos atendidos, dando respuesta a uno de los principales motivos de denuncia ciudadana mediante la aplicación “Marca el Cambio” y/o reportes al Centro de Respuesta Ciudadana (CRC), así como del inventario del departamento de Mejoramiento Vial.

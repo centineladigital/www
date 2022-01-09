@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En las últimas horas se confirmaron 12 fallecimientos y 158 nuevos casos"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporte COVID-19 -  Suman 48 mil 996 contagios y 4 mil 582 defunciones en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporte COVID-19 -  Suman 48 mil 996 contagios y 4 mil 582 defunciones en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 182400
 ---
 
 La Secretaría de Salud informó que se confirmaron 158 nuevos contagios y 12 personas fallecidas, con lo que se tienen en la entidad un acumulado total de 48 mil 996 casos y 4 mil 582 decesos por COVID-19.

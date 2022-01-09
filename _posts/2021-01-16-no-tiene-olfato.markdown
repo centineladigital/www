@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El productor de Televisa indicó que está al pendiente de su saluda y le lleva todos los días sus alimentos a Emilio Osorio. "
-image: /uploads/2021/images-juan-osorio-cuida-hijo-emilio.jpg
-video: nil
-audio: nil
-alt: No tiene olfato -  Juan Osorio cuida de su hijo Emilio tras contagiarse de covid-19
+image: "/uploads/2021/images-juan-osorio-cuida-hijo-emilio.jpg"
+video: "nil"
+audio: "nil"
+alt: "No tiene olfato -  Juan Osorio cuida de su hijo Emilio tras contagiarse de covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182202
 ---
 
 Juan Osorio confirmó que su hijo, Emilio, dio positivo a covid-19, razón por la que permanece confinado y alejado de su familia. El productor de Televisa indicó que está al pendiente del estado de salud del joven cantante, quien perdió los sentidos del olfato y el gusto tras contagiarse del virus.  

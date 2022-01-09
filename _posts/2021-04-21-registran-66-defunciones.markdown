@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Registran 319 casos en 24 horas de personas contagiadas de coronavirus."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-MW02_ARTURO_VALENZUELA.mp3
-alt: Registran 66 defunciones en 24 horas
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW02_ARTURO_VALENZUELA.mp3"
+alt: "Registran 66 defunciones en 24 horas"
 front: false
-section: Local
+section: "Local"
+news_id: 184030
 ---
 
 En tan solamente 24 horas se acreditaron 66 defunciones así como se 319 personas dieron positivo a la prueba PCR, según fue dado a conocer por parte del Director Médico Zona Norte, Arturo Valenzuela Zorrilla.

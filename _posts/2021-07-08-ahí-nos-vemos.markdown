@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Julión Álvarez contó que aún sigue enfrentado el pleito legal en el que se vio involucrado por supuesto lavado de dinero. ¿Por eso terminó su amistad con Nodal y El Canelo? "
-image: /uploads/2021/images-julion-alvarez-termino-amistad-canelo.jpg
-video: nil
-audio: nil
-alt: “Ahí nos vemos” -  Julión Álvarez revela por qué se acabó la amistad con 'El Canelo' y Nodal
+image: "/uploads/2021/images-julion-alvarez-termino-amistad-canelo.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Ahí nos vemos” -  Julión Álvarez revela por qué se acabó la amistad con 'El Canelo' y Nodal"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185463
 ---
 
 Julión Álvarez, cantante de regional mexicano, rompió el silencio sobre aquellos amigos con los que se distanció debido a la polémica que lo envolvió en el pasado, pues fue acusado de lavado de dinero, logrando que varias compañías y proyectos que tenía en puerta se vinieran abajo. Aunque no ha sido fácil, el intérprete toma a bien su vivencia y comprende por qué algunos famosos se alejaron. ¿El Canelo también se alejó de él? ¿Haría un dueto con Christian Nodal? Te contamos lo que respondió el famoso. 

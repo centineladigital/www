@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Personal municipal realiza reuniones con los comités de vecinos y atiende solicitudes   "
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Gobierno Municipal suma esfuerzos con comités vecinos para mantener seguras y limpias las colonias
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Gobierno Municipal suma esfuerzos con comités vecinos para mantener seguras y limpias las colonias"
 front: false
-section: Local
+section: "Local"
+news_id: 186614
 ---
 
 El Gobierno Municipal a través de las Direcciones de Seguridad Pública y de Servicios Públicos se encuentra realizando actividades de acercamiento con los distintos Comités de Vecinos, a fin de trabajar en conjunto y resolver las necesidades que hay en seguridad y limpieza en las distintas zonas de la ciudad.

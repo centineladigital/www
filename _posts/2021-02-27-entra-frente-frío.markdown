@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La CEPC informa que este sábado 27 habrá rachas de viento de hasta por encima de 75 km/h, así como lluvias, aguanieve y nieve en las partes altas de la Sierra Tarahumara"
-image: /uploads/2021/images-descarga.jpg
-video: nil
-audio: nil
-alt: Entra Frente Frío 39 a la entidad mañana domingo
+image: "/uploads/2021/images-descarga.jpg"
+video: "nil"
+audio: "nil"
+alt: "Entra Frente Frío 39 a la entidad mañana domingo"
 front: false
-section: Local
+section: "Local"
+news_id: 183195
 ---
 
 Mañana domingo entrará el Frente Frío 39, por lo que este sábado habrá rachas de viento de hasta por encima de 75 kilómetros por hora (km/h), así como lluvias, aguanieve y nieve en las partes altas de la Sierra Tarahumara, informó la Coordinación Estatal de Protección Civil (CEPC).

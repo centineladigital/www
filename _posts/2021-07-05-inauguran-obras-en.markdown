@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Llevan a cabo inauguración de diversas obras en Ciudad Juárez."
-image: /uploads/2021/images-ELIZONDO.jpg
-video: nil
-audio: /uploads/2021/audio-ML02.mp3
-alt: Inauguran obras en Ciudad Juárez
+image: "/uploads/2021/images-ELIZONDO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML02.mp3"
+alt: "Inauguran obras en Ciudad Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 185382
 ---
 
 Este lunes se dio el banderazo oficial para la apertura de dos puentes en Ciudad Juárez, el primero de ellos es el paso inferior “Paso de la Liberación”, ubicado en la intersección que forman las calles Francisco Villarreal y Las Aldabas. Donde el gobierno estatal invirtió 41 punto siete millones de pesos. Así como el puente “Justicia para Chihuahua”, ubicado en la Teófilo Borunda y Francisco Villarreal.

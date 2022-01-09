@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Francia regresa como un destino para turistas internacionales que han sido vacunados contra el Covid"
-image: /uploads/2021/images-2589464.jpg
-video: nil
-audio: nil
-alt: Francia abre puertas a turistas vacunados de algunos países
+image: "/uploads/2021/images-2589464.jpg"
+video: "nil"
+audio: "nil"
+alt: "Francia abre puertas a turistas vacunados de algunos países"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184833
 ---
 
 Un paseo siguiendo los pasos de Pablo Picasso en Montmartre; aspirar los aromas de Provenza; una caminata por las históricas playas del Día D: estos y los otros atractivos de Francia volverán a ser fácilmente accesibles para la mayoría de los turistas a partir de la próxima semana, siempre y cuando estén vacunados.

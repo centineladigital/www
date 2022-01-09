@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El choque provocó un incendio en la carretera federal 140 Veracruz-Xalapa"
-image: /uploads/2021/images-choque-provoco-incendio-paro-circulacion.jpeg
-video: nil
-audio: nil
-alt: Choque de dos tractocamiones deja un muerto y un lesionado en Veracruz
+image: "/uploads/2021/images-choque-provoco-incendio-paro-circulacion.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Choque de dos tractocamiones deja un muerto y un lesionado en Veracruz"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187290
 ---
 
 Dos tractocamiones chocaron y luego se incendiaron en la carretera federal 140 Veracruz-Xalapa, lo cual provocó la muerte de una persona y otra más resultó herida.

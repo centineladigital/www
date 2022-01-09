@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Anya Taylor-Joy es una de las actrices que ha llamado la atención debido a su papel en Gambito de dama, pero ¿sabías que habla español a la perfección? "
-image: /uploads/2021/images-esta-es-la-razon-por-4.jpg
-video: nil
-audio: nil
-alt: ¡Lo habla a la perfección! Así fue como Anya Taylor-Joy aprendió español
+image: "/uploads/2021/images-esta-es-la-razon-por-4.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Lo habla a la perfección! Así fue como Anya Taylor-Joy aprendió español"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183922
 ---
 
 En octubre del 2020 se estrenó la miniserie Gambito de Dama, una producción que se convirtió en una de las más exitosas en Netflix. La protagonista de la historia, Anya Taylor-Joy, logró llamar la atención gracias a su actuación, además que varias personas se interesaron en su vida y descubrieron que la actriz habla español. Anya Taylor-Joy es una joven que nació en Argentina, ya que su padre es de este país, por lo que no es raro que la actriz sepa hablar a la perfección el español. En una entrevista en el 2016 con el programa argentino CN5 contó cómo fue que aprendió español. 

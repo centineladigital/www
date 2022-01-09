@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Recuerdan enfrentamiento entre fuerzas estadounidenses y cadetes del Colegio Militar."
-image: /uploads/2021/images-GH1.jpg
-video: nil
-audio: /uploads/2021/audio-ML03_FEDERICO_SOLORZANO.mp4
-alt: Conmemoran a Niños Heores en su CLXXIV
+image: "/uploads/2021/images-GH1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML03_FEDERICO_SOLORZANO.mp4"
+alt: "Conmemoran a Niños Heores en su CLXXIV"
 front: false
-section: Local
+section: "Local"
+news_id: 187685
 ---
 
 En el marco del CLXXIV aniversario de la Batalla del Castillo de Chapultepec, donde jóvenes cadetes perdieran la vida se llevó a cabo la conmemoración de este hecho con la presencia de autoridades civiles y militares. En donde se contó con la presencia de la Gobernadora Maru Campos Galván y el General Federico Eduardo Solórzano Barragán, comandante de la V Zona Militar quienes rindieron guardia de honor y colocaron una ofrenda floral.

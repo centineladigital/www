@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto por la baja captación de agua."
-image: /uploads/2021/images-SOLIS.jpg
-video: /uploads/2021/videos-MV07_MARTIN_SOLIS.mp4
-audio: nil
-alt: Sin garantizar segundo ciclo agrícola
+image: "/uploads/2021/images-SOLIS.jpg"
+video: "/uploads/2021/videos-MV07_MARTIN_SOLIS.mp4"
+audio: "nil"
+alt: "Sin garantizar segundo ciclo agrícola"
 front: false
-section: Local
+section: "Local"
+news_id: 186953
 ---
 
 Aún no se tiene garantía que el segundo ciclo agrícola se lleve a cabo, esto por la falta de agua en la entidad, señaló el Director De Agronegocios Martín Solís, esto ya que pese a las precipitaciones que se han registrado desde el inicio de la temporada, solamente se ha logrado captar un 36 por ciento en las presas del Estado.

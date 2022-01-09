@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los candidatos a la gubernatura fueron los que más adquirieron este tipo de espacios, al alquilar 647 espectaculares que representan un total de 32 millones de pesos"
-image: /uploads/2021/images-espe.jpg
-video: nil
-audio: nil
-alt: Candidatos se gastaron más de 82 mdp en espectaculares
+image: "/uploads/2021/images-espe.jpg"
+video: "nil"
+audio: "nil"
+alt: "Candidatos se gastaron más de 82 mdp en espectaculares"
 front: false
-section: Local
+section: "Local"
+news_id: 184762
 ---
 
 Los candidatos a la gubernatura fueron los que más adquirieron este tipo de espacios, al alquilar 647 espectaculares que representan un total de 32 millones de pesos que destinaron del presupuesto de campañas para promocionar su imagen en algunos municipios como Chihuahua y Juárez.

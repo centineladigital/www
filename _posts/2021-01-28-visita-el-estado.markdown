@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El PES se encuentra en pláticas con diversos personajes de la vida pública estatal"
-image: /uploads/2021/images-RGRGRR.jpg
-video: /uploads/2021/videos-AJ02_Hugo_Eric_Flores_Cervantes.mp4
-audio: /uploads/2021/audio-AJ02_Hugo_Eric_Flores_Cervantes.mp3
-alt: Visita el estado Presidente Nacional del PES y se reúne con aspirantes
+image: "/uploads/2021/images-RGRGRR.jpg"
+video: "/uploads/2021/videos-AJ02_Hugo_Eric_Flores_Cervantes.mp4"
+audio: "/uploads/2021/audio-AJ02_Hugo_Eric_Flores_Cervantes.mp3"
+alt: "Visita el estado Presidente Nacional del PES y se reúne con aspirantes"
 front: false
-section: Local
+section: "Local"
+news_id: 182524
 ---
 
 Hugo Eric Flores Cervantes Presidente Nacional del Partido Encuentro Solidario durante su visita al estado grande, anunció que el PES está listo para definir en los próximos días las candidaturas de los diferentes puestos de elección popular en Chihuahua.

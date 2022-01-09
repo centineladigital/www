@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras más de 25 horas de alegatos, el juez decretó un receso para que la audiencia se reanudara desde temprana hora"
-image: /uploads/2021/images-Manifestantes_TSJ_2.jpg
-video: nil
-audio: nil
-alt: Esperan simpatizantes de Morena vinculación de Maru Campos
+image: "/uploads/2021/images-Manifestantes_TSJ_2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Esperan simpatizantes de Morena vinculación de Maru Campos"
 front: false
-section: Local
+section: "Local"
+news_id: 183646
 ---
 
 Los simpatizantes de Morena que esperan la vinculación o no a proceso de María Eugenia C. G, por el caso de la nómina secreta salieron de su campamento para desayunar.

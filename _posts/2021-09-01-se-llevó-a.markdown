@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "33 diputados representaran el congreso del estado"
-image: /uploads/2021/images-WhatsApp_Image_2021-09-01_at_2.16.19_PM.jpeg
-video: /uploads/2021/videos-BW03_MARIO_VAZQUEZ.mp4
-audio: nil
-alt: Se llevó a cabo la toma de protesta de los diputados electos para la Sexagésima séptima legislatura
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-01_at_2.16.19_PM.jpeg"
+video: "/uploads/2021/videos-BW03_MARIO_VAZQUEZ.mp4"
+audio: "nil"
+alt: "Se llevó a cabo la toma de protesta de los diputados electos para la Sexagésima séptima legislatura"
 front: false
-section: Local
+section: "Local"
+news_id: 187346
 ---
 
 Se encontraron presentes los 33 diputados que representaran el congreso del estado y así mismo tomaron protesta para salvaguardar los intereses y  prosperidad de la república y del estado, el diputado presidente Mario Humberto Vázquez Robles tomó protesta para esta nueva legislatura.

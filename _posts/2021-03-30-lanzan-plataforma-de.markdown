@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Dotará de capacitación según palabras de la Secretaria Ana Luisa Herrera."
-image: /uploads/2021/images-ANA_HERRERA.jpg
-video: nil
-audio: /uploads/2021/audio-MM06_ANA_HERRERA.mp3
-alt: Lanzan Plataforma de talento Chihuahua
+image: "/uploads/2021/images-ANA_HERRERA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM06_ANA_HERRERA.mp3"
+alt: "Lanzan Plataforma de talento Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 183613
 ---
 
 Con el fin de garantizar una mejor forma de reclutamiento y a la vez fomentar la reactivación económica este martes se presentó el lanzamiento de la Plataforma Talento Chihuahua, la cual tiene como finalidad el ser un puente entre empleadores y posibles trabajadores.

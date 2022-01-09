@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A partir del lunes 1 de marzo se podrán retomar las fiestas en los salones de eventos y granjas, con consumo de alcohol, siempre y cuando haya previo aviso a las autoridades de Gobernación y la reunión no exceda de 3 horas. En fiestas sin alcohol, no aplica esa restricción horaria."
-image: /uploads/2021/images-PASE_A_SEMÁFORO_AMARILLO_(1).jpeg
-video: nil
-audio: nil
-alt: Todo Chihuahua en semáforo amarillo
+image: "/uploads/2021/images-PASE_A_SEMÁFORO_AMARILLO_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Todo Chihuahua en semáforo amarillo"
 front: false
-section: Local
+section: "Local"
+news_id: 183201
 ---
 
 Los indicadores con los que se mide el semáforo epidemiológico tuvieron buenos resultados por lo que las dos regiones en que se divide el estado quedan en color amarillo a partir del lunes 1 de marzo, con la apertura de nuevas actividades económicas, informó el secretario de Salud, Eduardo Fernández Herrera.

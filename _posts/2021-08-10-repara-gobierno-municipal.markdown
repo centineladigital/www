@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se invita a denunciar al 911 o 072 si detectan a personas que hagan daño al patrimonio"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Repara Gobierno Municipal bancas vandalizadas en parque Agustín Melgar
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Repara Gobierno Municipal bancas vandalizadas en parque Agustín Melgar"
 front: false
-section: Local
+section: "Local"
+news_id: 186524
 ---
 
 El Gobierno Municipal a través de la Dirección de Mantenimiento Urbano llevó a cabo la reposición de tablas a 22 bancas del parque Agustín Melgar, ubicado en las calles Rosales y 33, debido a que fueron vandalizadas.

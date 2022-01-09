@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El reality show que sigue las alocadas aventuras de los 'shore' está de vuelta con una nueva temporada que promete más romances, fiesta y aventuras. "
-image: /uploads/2021/images-cuando-y-donde-ver-acapulco_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Cuándo y dónde ver la temporada 8 de 'Acapulco Shore'
+image: "/uploads/2021/images-cuando-y-donde-ver-acapulco_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cuándo y dónde ver la temporada 8 de 'Acapulco Shore'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184117
 ---
 
 Acapulco Shore, el polémico reality que sigue las alocadas vacaciones de un grupo de jóvenes mexicanos, regresa a la televisión tras una polémica temporada en las playas de Mazatlán, marcada por la pandemia de covid-19 y las diputas entre Dania y Mane. Ahora, el programa está por estrenar una octava temporada que promete más aventuras, romances, intrigas, peleas y nuevos integrantes. De nueva a cuenta la audiencia podrá seguir cada paso de los shore, quienes vuelven a Acapulco por más diversión, baile y uno que otro trago de tequila. Sin duda, esta será una temporada renovada, pues varios de los integrantes originales no participarán en los nuevos capítulos; sin embargo, la disputa por el trono pondrá a temblar las cámaras. 

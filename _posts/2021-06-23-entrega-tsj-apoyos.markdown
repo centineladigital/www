@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se llevarán a dos municipios, uno de ellos es Guachochi."
-image: /uploads/2021/images-CARLOS.jpg
-video: nil
-audio: /uploads/2021/audio-MW03.mp3
-alt: Entrega TSJ apoyos a combatientes de incendios
+image: "/uploads/2021/images-CARLOS.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW03.mp3"
+alt: "Entrega TSJ apoyos a combatientes de incendios"
 front: false
-section: Local
+section: "Local"
+news_id: 185208
 ---
 
 Víveres y utensilios para los combatientes de los incendios fue parte del donativo que entregó el Tribunal Superior de Justicia, según fue dado a conocer por parte de titular del área de Dirección General de Administración a la licenciada Sandra Zulema Palma Sáenz.

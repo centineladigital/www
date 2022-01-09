@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En tono de burla, Salinas dijo que el contagio de la actual participante de 'MasterChef' es un regalo de la humanidad. "
-image: /uploads/2021/images-conductora-productora-teatral-hablo-actriz.jpg
-video: nil
-audio: nil
-alt: A ver si así cree -  Carmen Salinas reacciona al presunto contagio de covid-19 de Paty Navidad
+image: "/uploads/2021/images-conductora-productora-teatral-hablo-actriz.jpg"
+video: "nil"
+audio: "nil"
+alt: "A ver si así cree -  Carmen Salinas reacciona al presunto contagio de covid-19 de Paty Navidad"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186236
 ---
 
 Carmen Salinas suele tener una opinión sobre todo lo que acontece en el mundo del espectáculo, por eso durante un evento teatral en honor a una obra de Rosita Pelayo, los reporteros cuestionaron a la también productora sobre el presunto contagio de covid-19 de Paty Navidad. 

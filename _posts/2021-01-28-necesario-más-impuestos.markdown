@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto para dotar de infraestructura a los organismos municipales."
-image: /uploads/2021/images-JORGE_CRUZ.jpg
-video: nil
-audio: /uploads/2021/audio-MJ03_JORGE_CRUZ.mp3
-alt: Necesario más impuestos -  CDR
+image: "/uploads/2021/images-JORGE_CRUZ.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ03_JORGE_CRUZ.mp3"
+alt: "Necesario más impuestos -  CDR"
 front: false
-section: Local
+section: "Local"
+news_id: 182529
 ---
 
 "Necesitamos empleos mejor pagados y necesitamos más impuestos" fueron las palabras de Jorge Cruz Camberos, Presidente del Consejo de Desarrollo Regional Zona Centro en el municipio y perteneciente a Comité de Desarrollo Municipal.

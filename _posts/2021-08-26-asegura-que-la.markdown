@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El trato que se tiene entre el municipio y la guardia nacional es una coordinación muy estrecha. "
-image: /uploads/2021/images-manque.jpg
-video: /uploads/2021/videos-manque_granados.mp4
-audio: nil
-alt: Asegura que la guardia nacional tiene una coordinación estrecha con municipio 
+image: "/uploads/2021/images-manque.jpg"
+video: "/uploads/2021/videos-manque_granados.mp4"
+audio: "nil"
+alt: "Asegura que la guardia nacional tiene una coordinación estrecha con municipio "
 front: false
-section: Local
+section: "Local"
+news_id: 187169
 ---
 
 Respecto a las acusaciones del alcalde de Cuauhtémoc a la guardia nacional en las que asegura una falta de apoyo hacia el municipio la alcaldesa María Angélica Granados Trespalacios aseguró que el trato que se tiene entre el municipio y la guardia nacional es una coordinación muy estrecha.

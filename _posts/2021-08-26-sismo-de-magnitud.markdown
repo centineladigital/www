@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El archipiélago indonesio se encuentra en la región conocida como Anillo de Fuego del Pacífico y registra unos 7 mil temblores al año "
-image: /uploads/2021/images-sismo-magnitud-sacude-sonora-epicentro_24_0_462_287.jpg
-video: nil
-audio: nil
-alt: Sismo de magnitud 5.5 sacude isla de Célebes en Indonesia
+image: "/uploads/2021/images-sismo-magnitud-sacude-sonora-epicentro_24_0_462_287.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sismo de magnitud 5.5 sacude isla de Célebes en Indonesia"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187131
 ---
 
 Un terremoto de magnitud 5.5 sacudió este jueves la isla de Célebes, en Indonesia, sin que las autoridades informaran de momento sobre daños materiales o víctimas. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La CNTE afirmó que estará en otros actos del Presidente en su gira por Chiapas"
-image: /uploads/2021/images-estuve-en-protesta-para-no.jpg
-video: nil
-audio: nil
-alt: Tras bloqueo de CNTE, colocan vallas en zona cercana a evento de AMLO en Chiapas
+image: "/uploads/2021/images-estuve-en-protesta-para-no.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tras bloqueo de CNTE, colocan vallas en zona cercana a evento de AMLO en Chiapas"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187226
 ---
 
 La Coordinadora Nacional de Trabajadores de la Educación (CNTE) se presentó nuevamente en un acto del presidente Andrés Manuel López Obrador en Chiapas; sin embargo, con la colocación de vallas en numerosas calles de Comitán se logró evitar cualquier bloqueo. 

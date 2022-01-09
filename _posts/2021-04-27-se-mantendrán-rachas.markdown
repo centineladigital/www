@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se prevén lluvias dispersas en Ascensión, Madera, Namiquipa, y la región de Sueco, así como tolvaneras en los tramos carreteros Juárez-Janos, Sueco-Ahumada, Jiménez-Parral y Jiménez-Camargo"
-image: /uploads/2021/images-ambiente_conagua.jpg
-video: nil
-audio: nil
-alt: Se mantendrán rachas de 95 km/h durante los próximos 2 días -  CEPC
+image: "/uploads/2021/images-ambiente_conagua.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se mantendrán rachas de 95 km/h durante los próximos 2 días -  CEPC"
 front: false
-section: Local
+section: "Local"
+news_id: 184133
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que para este martes 27 de abril se pronostica el ingreso del Frente Frío 54 a la entidad, el cual traerá ráfagas de viento que podrían superar los 95 km/h principalmente en las zonas noroeste, occidente y suroeste durante los próximos dos días. 

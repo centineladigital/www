@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En todo momento es importante lavar constantemente las manos, usar cubrebocas y evitar aglomeraciones"
-image: /uploads/2021/images-Foto_308-1.jpg
-video: nil
-audio: nil
-alt: Romper cadenas de contagio de COVID-19 en vacaciones de verano con medidas de higiene y sana distancia -  IMSS
+image: "/uploads/2021/images-Foto_308-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Romper cadenas de contagio de COVID-19 en vacaciones de verano con medidas de higiene y sana distancia -  IMSS"
 front: false
-section: Local
+section: "Local"
+news_id: 185801
 ---
 
 Para romper cadenas de contagio de COVID-19 en las vacaciones de verano, el Instituto Mexicano del Seguro Social (IMSS) recomendó a la población no realizar viajes, a menos que sea estrictamente necesario, reforzar las medidas de higiene y mantener la sana distancia.

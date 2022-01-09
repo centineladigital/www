@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Todas las personas fueron aisladas de inmediato y la Concacaf se ha asegurado de que a ellos y a la Federación Haitiana de Futbol se les haya ofrecido el apoyo necesario. "
-image: /uploads/2021/images-reportan-casos-de-covid-en_0_22_1024_637.jpg
-video: nil
-audio: nil
-alt: Cinco jugadores y un entrenador de Haití dan positivo a covid-19 en plena Copa Oro
+image: "/uploads/2021/images-reportan-casos-de-covid-en_0_22_1024_637.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cinco jugadores y un entrenador de Haití dan positivo a covid-19 en plena Copa Oro"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185557
 ---
 
 La selección de Haití, que esta noche se medirá con Estados Unidos en la primera jornada del Grupo B de la Copa Oro 2021, no podrá contar con cinco jugadores y un entrenador que dieron positivo a la prueba de la covid-19 y se encuentran en cuarentena. 

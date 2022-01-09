@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Kuno Becker declaró que tras el contagio de covid-19 de Paty Navidad decidió ponerse la vacuna anticovid, además le deseo una pronta recuperación a la actriz. "
-image: /uploads/2021/images-kuno.jpg
-video: nil
-audio: nil
-alt: Kuno Becker revela que recapacitó y decidió ponerse la vacuna anticovid tras contagio de Paty Navidad
+image: "/uploads/2021/images-kuno.jpg"
+video: "nil"
+audio: "nil"
+alt: "Kuno Becker revela que recapacitó y decidió ponerse la vacuna anticovid tras contagio de Paty Navidad"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186634
 ---
 
 Hace unos días se dio a conocer que Paty Navidad dio positivo a covid-19, esto causó mucho revuelo, ya que la actriz desde el 2020 había mencionado que no creía en las vacunas anticovid. Ahora que se sabe que la también cantante se contagió, Kuno Becker habló sobre el tema y reveló que desde hace tiempo había tomado la decisión de posponer su inoculación, pero que gracias a Paty decidió irse a vacunar. 

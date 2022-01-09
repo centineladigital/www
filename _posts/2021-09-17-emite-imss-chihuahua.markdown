@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ante signos de alarma (fiebre, dolor en el pecho o sensación de falta de aire) se debe solicitar atención médica inmediata"
-image: /uploads/2021/images-Foto_4483-1.jpg
-video: nil
-audio: nil
-alt: Emite IMSS Chihuahua consejos PrevenIMSS contra el COVID-19
+image: "/uploads/2021/images-Foto_4483-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Emite IMSS Chihuahua consejos PrevenIMSS contra el COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 187822
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua emite recomendaciones del programa PrevenIMSS para fortalecer la prevención en esta contingencia contra el COVID-19.

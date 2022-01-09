@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Con este anuncio se retirará la querella interpuesta ante la Suprema Corte de Justicia de la Nación."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-ML04_JAVIER_CORRAL.mp3
-alt: Vuelve federación a mesas de seguridad
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04_JAVIER_CORRAL.mp3"
+alt: "Vuelve federación a mesas de seguridad"
 front: false
-section: Local
+section: "Local"
+news_id: 183692
 ---
 
 Las organizaciones de seguridad a nivel federal volverán a trabajar en las mesas de seguridad, según fue dado a conocer por parte del Gobernador de Chihuahua, Javier Corral Jurado. Quien dijo que con este anuncio se retirará la querella interpuesta ante la Suprema Corte de Justicia de la Nación.

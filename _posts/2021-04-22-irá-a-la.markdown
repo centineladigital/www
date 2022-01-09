@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante colombiana expresa que ella no debía pagar impuestos en el país europeo, pues no residía de forma fija ahí. "
-image: /uploads/2021/images-shakira-acusada-defraudar-hacienda-espana.jpg
-video: nil
-audio: nil
-alt: ¿Irá a la cárcel? Shakira acusada de fraude a Hacienda por 350 millones de pesos en España
+image: "/uploads/2021/images-shakira-acusada-defraudar-hacienda-espana.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Irá a la cárcel? Shakira acusada de fraude a Hacienda por 350 millones de pesos en España"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184045
 ---
 
 La Agencia Tributaria española remitió un nuevo informe al juzgado en el que ratifica que la cantante Shakira defraudó 14,5 millones de euros (350 millones de pesos) a Hacienda entre los años 2012 y 2014, simulando que no residía en España y ocultando sus ingresos mediante un entramado de sociedades. Según informaron a Efe fuentes jurídicas este miércoles, en su informe adicional sobre el caso, los técnicos de Hacienda española contradicen los argumentos dela defensa de la cantante colombiana, que esgrime su agenda de conciertos y televisiva para tratar de demostrar que permaneció menos de 184 días en España y, por lo tanto, no tenía obligación de tributar en este país.

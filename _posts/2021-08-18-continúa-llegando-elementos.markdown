@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Mas de diez mil elementos de la Guardia Nacional realizarán acciones preventivas en el territorio estatal."
-image: /uploads/2021/images-emilio.jpg
-video: /uploads/2021/videos-MW03_EMILIO_GARCÍA.mp4
-audio: nil
-alt: Continúa llegando elementos de la Guardia Nacional
+image: "/uploads/2021/images-emilio.jpg"
+video: "/uploads/2021/videos-MW03_EMILIO_GARCÍA.mp4"
+audio: "nil"
+alt: "Continúa llegando elementos de la Guardia Nacional"
 front: false
-section: Local
+section: "Local"
+news_id: 186852
 ---
 
 Aún no concluye la llegada de elementos de la Guardia Nacional, señaló Emilio García Ruiz Secretario de Seguidad Pública Estatal, esto tras ser cuestonado sobre las declaraciones del Alcalde de Ciudad Juárez que confirmó la llegada de más elementos.

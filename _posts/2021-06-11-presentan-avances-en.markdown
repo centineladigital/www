@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Dan a conocer avances en materia de igualdad hombres y mujeres."
-image: /uploads/2021/images-emma.jpg
-video: nil
-audio: /uploads/2021/audio-MV03.mp3
-alt: Presentan avances en el reglamento de ley de igualdad
+image: "/uploads/2021/images-emma.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV03.mp3"
+alt: "Presentan avances en el reglamento de ley de igualdad"
 front: false
-section: Local
+section: "Local"
+news_id: 184994
 ---
 
 Este viernes se presentaron avances en materia del reglamento de la ley de igualdad, así como el informe anual 2020 del Eistema Estatal para la Igualdad entre Hombres y Mujeres. Esto dentro de la primera sesión ordinaria la cual contó con la participación de Nadine Gasman Zylbermann, presidenta del Instituto Nacional de las Mujeres. 

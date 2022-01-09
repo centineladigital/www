@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Coordinación Estatal de Protección Civil informa que los municipios más afectados por el viento fuertes serán Ciudad Juárez, Ascensión, Janos, Carichí, Cuauhtémoc, Nonoava, Santa Bárbara, y Parral, por calor Ojinaga, Delicias"
-image: /uploads/2021/images-IMG_7129.JPG
-video: nil
-audio: nil
-alt: Se mantiene probabilidad de lluvias, tolvaneras, calor y torbellinos para este jueves 27
+image: "/uploads/2021/images-IMG_7129.JPG"
+video: "nil"
+audio: "nil"
+alt: "Se mantiene probabilidad de lluvias, tolvaneras, calor y torbellinos para este jueves 27"
 front: false
-section: Local
+section: "Local"
+news_id: 184689
 ---
 
 Para este jueves 27 de mayo se mantiene la probabilidad de lluvias para el sureste y este de la entidad, formación de torbellinos en el norte y noreste, y tolvaneras en el tramo carretero Juárez-Ascensión, informó la Coordinación Estatal de Protección Civil (CEPC).

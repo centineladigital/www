@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Camila Sodi empezó desde muy pequeña su carrera, ahora también se dedica a la actuación y a lo largo de los años, así ha cambiado. "
-image: /uploads/2021/images-camila-sodi-instagram-3_0_191_958_595.jpg
-video: nil
-audio: nil
-alt: ¿La reconoces? Así lucía Camila Sodi al inicio de su carrera
+image: "/uploads/2021/images-camila-sodi-instagram-3_0_191_958_595.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿La reconoces? Así lucía Camila Sodi al inicio de su carrera"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184464
 ---
 
 Camila Sodi, es conocida por formar parte de la familia Sodi integrada por su mamá, Ernestina, así como sus tías Gabriela, Federica y Thalía. Sin duda, Camila ha estado rodeada desde pequeña por el mundo del entretenimiento, por lo que no era de extrañar que terminará en él.  Camila empezó su carrera como modelo desde que era una niña y tiempo después decidió abrirse paso en la actuación. En la actualidad, interpreta a Erika en Luis Miguel, la serie, pero su carrera comenzó cuando era una niña.  

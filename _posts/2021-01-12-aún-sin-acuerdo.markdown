@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "En realidad no hay un límite de tiempo para aprobar o desaborar la petición, sin embargo al gobierno estatal le urge el dinero"
-image: /uploads/2021/images-efgegegegw.jpg
-video: nil
-audio: /uploads/2021/audio-AM03_MIGUEL_COLUNGA.mp3
-alt: Aún sin acuerdo en congreso para crédito de gobierno estatal -  Colunga 
+image: "/uploads/2021/images-efgegegegw.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AM03_MIGUEL_COLUNGA.mp3"
+alt: "Aún sin acuerdo en congreso para crédito de gobierno estatal -  Colunga "
 front: false
-section: Local
+section: "Local"
+news_id: 182073
 ---
 
 El coordinador de la bancada de Morena Miguel Colunga Martínez, informó que durante las reuniones con la Comisión de Presupuesto y Hacienda Pública para buscar aprobar o no el crédito de mil 633. 8 millones de pesos para el gobierno estatal, no se ha podido llegar un acuerdo, por lo que continuaran con las discusiones esta semana.

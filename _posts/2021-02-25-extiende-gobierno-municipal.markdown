@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este programa consiste en un apoyo económico de hasta 10 mil pesos en proyectos de reciente creación o de fortalecimiento para la compra de mobiliario, equipo y maquinaria menor necesarios para la actividad por la cual se solicita el apoyo"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Extiende Gobierno Municipal Convocatoria de Proyectos Productivos
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Extiende Gobierno Municipal Convocatoria de Proyectos Productivos"
 front: false
-section: Local
+section: "Local"
+news_id: 183160
 ---
 
 El Gobierno Municipal de Chihuahua extendió el plazo de la convocatoria del programa de apoyo a Proyectos Productivos para Sectores Vulnerables, recibiendo documentación los días 25 y 26 de febrero en un horario de 10:00 a 14:00 horas.

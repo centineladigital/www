@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Buscan incentivar ventas vía online."
-image: /uploads/2021/images-plataforma.jpg
-video: nil
-audio: /uploads/2021/audio-MM03_ANTONIO_FERNANDEZ.mp3
-alt: Presentan Plataforma Chihuahua Digital
+image: "/uploads/2021/images-plataforma.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM03_ANTONIO_FERNANDEZ.mp3"
+alt: "Presentan Plataforma Chihuahua Digital"
 front: false
-section: Local
+section: "Local"
+news_id: 183524
 ---
 
 Con el fin de que cientos de micro, pequeños y medianos empresarios se integren en los mercados digitales e integren a procesos de exportación y ventas se ha creado la plataforma Chihuahua Digital, según fue dado a conocer por parte de Antonio Fernández, titular de la Secretaría de Innovación y Economía. 

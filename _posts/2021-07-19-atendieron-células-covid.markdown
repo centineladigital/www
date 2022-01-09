@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Tanto en establecimientos comerciales, bares, cantinas y salones de eventos, así como fiestas escandalosas en domicilios particulares"
-image: /uploads/2021/images-unnamed_(5).jpg
-video: nil
-audio: nil
-alt: Atendieron Células COVID 25 reportes este fin de semana
+image: "/uploads/2021/images-unnamed_(5).jpg"
+video: "nil"
+audio: "nil"
+alt: "Atendieron Células COVID 25 reportes este fin de semana"
 front: false
-section: Local
+section: "Local"
+news_id: 185808
 ---
 
 Inspectores de la Subdirección de Gobernación en conjunto con agentes de la Dirección de Seguridad Pública Municipal que conforman las Células COVID, atendieron el pasado fin de semana 25 reportes, tanto en establecimientos comerciales, bares, cantinas y salones de eventos, así como fiestas escandalosas en domicilios particulares.

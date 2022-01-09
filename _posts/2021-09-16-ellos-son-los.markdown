@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Los dos hombres y las dos mujeres a bordo de la cápsula Dragon pretenden pasar tres días dando la vuelta al mundo; aquí te decimos de quiénes se trata"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Ellos son los civiles que pasarán tres días en el espacio en un vuelo de SpaceX
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Ellos son los civiles que pasarán tres días en el espacio en un vuelo de SpaceX"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187787
 ---
 
 El primer vuelo espacial privado de SpaceX despegó el miércoles por la noche con dos ganadores de un concurso, a una trabajadora del sector salud y a su rico patrocinador, en el salto más ambicioso hasta ahora en el turismo espacial.

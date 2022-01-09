@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Invita a continuar trabajando por el bienestar de la ciudadanía."
-image: /uploads/2021/images-LOERA.jpg
-video: /uploads/2021/videos-MM06_JUAN_CARLOS_LOERA.mp4
-audio: nil
-alt: Hay que votar para juicio a expresidentes -  Loera
+image: "/uploads/2021/images-LOERA.jpg"
+video: "/uploads/2021/videos-MM06_JUAN_CARLOS_LOERA.mp4"
+audio: "nil"
+alt: "Hay que votar para juicio a expresidentes -  Loera"
 front: false
-section: Local
+section: "Local"
+news_id: 185843
 ---
 
 “Hay que salir todos a votar para que se enjuicie a los expresidentes” fueron las del excandidato a Gobernador y diputado federal, Juan Carlos Loera de la Rosa, esto al señalar que continuará trabajando porque Morena sea un partido fuerte.

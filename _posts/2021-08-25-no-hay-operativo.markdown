@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Empresa no ha solicitado operativo especial tras muerte de sexto conductor."
-image: /uploads/2021/images-emilio.jpg
-video: /uploads/2021/videos-MW05_EMILIO_GARCIA.mp4
-audio: nil
-alt: No hay operativo de SSPE en relación a DIDI
+image: "/uploads/2021/images-emilio.jpg"
+video: "/uploads/2021/videos-MW05_EMILIO_GARCIA.mp4"
+audio: "nil"
+alt: "No hay operativo de SSPE en relación a DIDI"
 front: false
-section: Local
+section: "Local"
+news_id: 187109
 ---
 
 Tras ser encontrado el sexto muerto chofer de la plataforma DIDI en menos de dos meses, el titular de la Secretaría de Seguridad Pública, Emilio García Ruiz, señaló que no se esta llevando a cabo un operativo especial por parte de la dependencia que él encabeza.

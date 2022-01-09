@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Desde hace años se sabía que presuntamente Alfonso Zayas había tenido un amorío con la famosa costarricense. Sin embargo, todo quedaba en rumores, nada se confirmaba hasta que Maribel Guardia rompió el silencio. "
-image: /uploads/2021/images-maribel-guardia-alfonso-zayas-novios.jpg
-video: nil
-audio: nil
-alt: Fue un gusto -  reviven romance entre Maribel Guardia y el actor Alfonso Zayas
+image: "/uploads/2021/images-maribel-guardia-alfonso-zayas-novios.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fue un gusto -  reviven romance entre Maribel Guardia y el actor Alfonso Zayas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185501
 ---
 
 El mundo del espectáculo está de luto, pues el actor icónico de cine de ficheras Alfonso Zayas murió a los 80 años, así lo dio a conocer su familia mediante una publicación de Instagram. Como era de esperarse, las reacciones de famosos salieron a flote, algunos retomaron partes importantes de su trayectoria y también algunos aspectos de su vida privada. Sobre esto último, por ejemplo la relación amorosa que tuvo con Maribel Guardia. ¿Si fueron novios?

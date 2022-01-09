@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los organizadores anuncian la medida que aplicará para los Juegos Olímpicos y Paralímpicos. El COI y CPI respetan la decisión. Prevén que sea difícil que acudan los familiares de los deportistas"
-image: /uploads/2021/images-2548357.jpg
-video: nil
-audio: nil
-alt: Juegos Olímpicos de Tokio sin público extranjero
+image: "/uploads/2021/images-2548357.jpg"
+video: "nil"
+audio: "nil"
+alt: "Juegos Olímpicos de Tokio sin público extranjero"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183493
 ---
 
 Los aficionados de otros países no podrán acudir a los Juegos Olímpicos de Tokio, que se disputan este año entre el 23 de julio y el 8 de agosto, debido a los riesgos sanitarios ligados al covid, anunciaron los organizadores."En orden de ofrecer claridad a los poseedores de entradas que viven en el extranjero y permitirles que puedan ajustar sus planes de viaje en este momento, las partes desde el lado japonés han llegado a la conclusión de que esas personas no podrán entrar en Japón en ese tiempo de los Juegos Olímpicos y Paralímpicos", anunciaron. 

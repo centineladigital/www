@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Recibirá denuncias de la ciudadanía en general, sobre irregularidades y/o posibles delitos de este tipo, que presencie durante las votaciones del domingo 6 de junio, bajo mecanismos anónimos y seguros"
-image: /uploads/2021/images-FUNCIÓN_PÚBLICA.jpg
-video: nil
-audio: nil
-alt: Permanecerán abiertas oficinas de Función Pública para recibir denuncias en jornada electoral
+image: "/uploads/2021/images-FUNCIÓN_PÚBLICA.jpg"
+video: "nil"
+audio: "nil"
+alt: "Permanecerán abiertas oficinas de Función Pública para recibir denuncias en jornada electoral"
 front: false
-section: Local
+section: "Local"
+news_id: 184844
 ---
 
 La Secretaría de la Función Pública (SFP) informó que durante la jornada electoral de este domingo 6 de junio, sus oficinas permanecerán abiertas y a disposición de la ciudadanía en general, para que puedan denunciar de manera anónima y segura las irregularidades y/o posibles delitos electorales que presencie.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Estaba cerrada por pandemia, pero ahora esperan que pasto termine su proceso."
-image: /uploads/2021/images-Imagen1.jpg
-video: nil
-audio: /uploads/2021/audio-MV03.mp3
-alt: En breve abrirán la plaza de armas
+image: "/uploads/2021/images-Imagen1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV03.mp3"
+alt: "En breve abrirán la plaza de armas"
 front: false
-section: Local
+section: "Local"
+news_id: 185517
 ---
 
 Debido a que por semaforización se colocó una línea para cerrar la Plaza de Armas, esperan que la tercer semana de julio esta pueda ser abierta, así lo señaló el titular de la Dirección de Mantenimiento Urbano, Federico Muruato Rocha.

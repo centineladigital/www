@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las Águilas podrían evitar que La Máquina fijara la marca histórica de triunfos en fila y que los celestes superen los 43 puntos que el ave logró en el Apertura 2002"
-image: /uploads/2021/images-2563721.jpg
-video: nil
-audio: nil
-alt: Cruz Azul busca hoy el récord de 13 victorias al hilo ante el América
+image: "/uploads/2021/images-2563721.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cruz Azul busca hoy el récord de 13 victorias al hilo ante el América"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183942
 ---
 
 El peruano Juan Reynoso no podrá estar en la banca hoy cuando sus muchachos, a los que ha guiado a 12 victorias consecutivas, luego de iniciar con dos reveses, busquen el récord absoluto en el futbol mexicano que comparten con el León (Clausura 2019) y el Necaxa (1934-35). La cita más esperada y ante el acérrimo rival, el América.

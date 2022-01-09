@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Presentan pruebas periciales de que recibos son falsos."
-image: /uploads/2021/images-PERITO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ06_SERGIO_GARCIA.mp3
-alt: Presentan peritajes de falsedad en recibos de nómina secreta
+image: "/uploads/2021/images-PERITO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ06_SERGIO_GARCIA.mp3"
+alt: "Presentan peritajes de falsedad en recibos de nómina secreta"
 front: false
-section: Local
+section: "Local"
+news_id: 184574
 ---
 
 A través de peritajes este jueves se dio a conocer que los recibos que demuestran que la presunta firma de la candidata a la gubernatura de Chihuahua es falsa, según fue dado a conocer por un perito mexicano y uno argentino dentro de una rueda de prensa.

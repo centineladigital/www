@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Salud Chihuahua confirmó 10 casos más de COVID-19 para un total general de 73 mil 816, mientras que el número de personas fallecidas por esta enfermedad se mantuvo en 7 mil 721"
-image: /uploads/2021/images-REPORTE_COVID_10_AGOSTO_(1)_(1).jpeg
-video: nil
-audio: nil
-alt: Confirma Salud 10 casos nuevos de COVID-19 para un acumulado de 73,816
+image: "/uploads/2021/images-REPORTE_COVID_10_AGOSTO_(1)_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Confirma Salud 10 casos nuevos de COVID-19 para un acumulado de 73,816"
 front: false
-section: Local
+section: "Local"
+news_id: 186512
 ---
 
 El informe epidemiológico señaló que hay 62 mil 952 (+34) pacientes recuperadas y recuperados, así como 47 mil 942 (+201) descartados y 731 (-46) sospechosos.

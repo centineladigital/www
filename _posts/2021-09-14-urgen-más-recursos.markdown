@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: " El ejército no ha dado resultados, los índices delictivos siguen a la alza y son los más altos de las últimas dos administraciones”, aseguró Geo Bujanda"
-image: /uploads/2021/images-WhatsApp_Image_2021-09-14_at_13.39.35.jpeg
-video: nil
-audio: nil
-alt: “Urgen más recursos a policías locales; AMLO insiste en militarizar al país” -  Geo Bujanda 
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-14_at_13.39.35.jpeg"
+video: "nil"
+audio: "nil"
+alt: "“Urgen más recursos a policías locales; AMLO insiste en militarizar al país” -  Geo Bujanda "
 front: false
-section: Local
+section: "Local"
+news_id: 187733
 ---
 
 La diputada por el Distrito 12 de Chihuahua, Georgina Bujanda Rios, exhortó al Congreso de la Unión para que reconsidere la asignación del presupuesto destinado a la seguridad pública para el año 2022. Señaló que desde el inicio de su administración, el gobierno de Andrés Manuel López Obrador, ha fortalecido con recursos a las instancias militares y debilitado a los cuerpos de seguridad más cercanos a la ciudadanía. 

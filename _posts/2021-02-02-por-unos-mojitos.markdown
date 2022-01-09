@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los famosos se conocieron en Madrid, ciudad a la que viajó la cantante por su participación en Rock in Rio 2010. "
-image: /uploads/2021/images-comenzo-historia-amor-shakira-pique_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¡Por unos mojitos! Así comenzó la historia de amor de Shakira y Gerard Piqué
+image: "/uploads/2021/images-comenzo-historia-amor-shakira-pique_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Por unos mojitos! Así comenzó la historia de amor de Shakira y Gerard Piqué"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182648
 ---
 
 Shakira y Gerard Piqué es una de las parejas más populares y mediáticas del mundo del entretenimiento. La cantante colombiana confirmó su noviazgo con el futbolista español a principios de 2011, desde entonces los fans y la prensa siguen de cerca cada paso de su relación sentimental; sin embargo su historia de amor comenzó de manera inesperada por unos mojitos.  

@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Educación registrará a niños, niñas y adolescentes que ingresan por primera vez a educación básica para el periodo escolar 2021-2022"
-image: /uploads/2021/images-Campaña_inscripciones.jpg
-video: nil
-audio: nil
-alt: Inscripciones del 4 al 17 de febrero para preescolar y primaria y preinscripción a secundaria
+image: "/uploads/2021/images-Campaña_inscripciones.jpg"
+video: "nil"
+audio: "nil"
+alt: "Inscripciones del 4 al 17 de febrero para preescolar y primaria y preinscripción a secundaria"
 front: false
-section: Local
+section: "Local"
+news_id: 181849
 ---
 
 La Secretaría de Educación y Deporte (SEyD) llevará a cabo en el mes de febrero del presente año, la campaña de inscripción y preinscripción en educación básica, para el ciclo escolar 2021-2022.

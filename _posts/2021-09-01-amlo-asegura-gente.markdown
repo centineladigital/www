@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Presidente reiteró que en su sexenio no quedará ningún pendiente y cuando entregue la banda presidencial dirá misión cumplida. "
-image: /uploads/2021/images-amlo_reformas_legales.png_368234985.png
-video: nil
-audio: nil
-alt: AMLO asegura gente votará para que continúe hasta 2024
+image: "/uploads/2021/images-amlo_reformas_legales.png_368234985.png"
+video: "nil"
+audio: "nil"
+alt: "AMLO asegura gente votará para que continúe hasta 2024"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187330
 ---
 
 El presidente Andrés Manuel López Obrador confió en que durante la consulta de revocación de mandato prevista para marzo próximo, la gente votará para que continúe su periodo hasta finales de 2024.  

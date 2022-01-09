@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La presencia de virus, bacterias y parásitos incrementa el riesgo de contraer enfermedades en el aparato digestivo y desarrollar gastroenteritis, salmonelosis, entre otros padecimientos "
-image: /uploads/2021/images-Foto_3981-1.jpg
-video: nil
-audio: nil
-alt: Recomienda IMSS Chihuahua adecuada higiene de manos como método de prevención contra enfermedades diarreicas
+image: "/uploads/2021/images-Foto_3981-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Recomienda IMSS Chihuahua adecuada higiene de manos como método de prevención contra enfermedades diarreicas"
 front: false
-section: Local
+section: "Local"
+news_id: 186783
 ---
 
 Algunos de los síntomas de las infecciones gastrointestinales son: fiebre, dolor intestinal o abdominal, náuseas o vómito, diarrea y fatiga, los cuales deben ser atendidos inmediatamente para evitar complicaciones, como la deshidratación, indica el coordinador de Prevención y Atención a la Salud, doctor Adrián Rodriguez Pacheco.

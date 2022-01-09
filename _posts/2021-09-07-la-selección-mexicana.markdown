@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "México jugará el próximo miércoles 8 de septiembre a Panamá en el estadio Rommel Fernández"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: La Selección Mexicana llegó a Panamá para enfrentar su tercer juego eliminatorio
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "La Selección Mexicana llegó a Panamá para enfrentar su tercer juego eliminatorio"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187495
 ---
 
 La Selección Mexicana arribó a Panamá para enfrentar su tercer partido del octagonal de la Concacaf en donde buscará cerrar esta Fecha FIFA en los más alto de la clasificación con 9 unidades.

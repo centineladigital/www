@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Presidente reiteró que hay buena relación entre ambos países e informó que invitó a su homólogo de Estados Unidos, Joe Biden, a una reunión en septiembre"
-image: /uploads/2021/images-amlo-reitero-mexico-relacion-eu.jpeg
-video: nil
-audio: nil
-alt: Reunión con funcionarios de EU fue muy provechosa; llegamos a acuerdos -  AMLO
+image: "/uploads/2021/images-amlo-reitero-mexico-relacion-eu.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Reunión con funcionarios de EU fue muy provechosa; llegamos a acuerdos -  AMLO"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186545
 ---
 
 El presidente Andrés Manuel López Obrador dijo que la reunión de ayer con funcionarios de alto nivel de Estados Unidos fue muy provechosa para ambos gobiernos, en la que se llegaron a acuerdos en temas de migración, economía y desarrollo. En La Mañanera, López Obrador reiteró que México tiene buena relación con el gobierno de Estados Unidos y detalló que en la reunión se habló sobre tener un plan en conjunto para el crecimiento económico de América del Norte.

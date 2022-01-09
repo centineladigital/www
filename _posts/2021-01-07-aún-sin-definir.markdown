@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Será tras análisis definirán si se da el cambio del semáforo. "
-image: /uploads/2021/images-LETICIA_RUIZ1.jpg
-video: nil
-audio: /uploads/2021/audio-MJ03_LETICIA_RUIZ.mp3
-alt: Aún sin definir fecha de análisis de semáforo
+image: "/uploads/2021/images-LETICIA_RUIZ1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ03_LETICIA_RUIZ.mp3"
+alt: "Aún sin definir fecha de análisis de semáforo"
 front: false
-section: Local
+section: "Local"
+news_id: 181950
 ---
 
 Aún no se ha definido una fecha en la que se lleve a cabo una sesión con el fin de determinar la situación que permanecerán en Chihuahua con motivo del cambio de semáforo, señaló la Directora de Medicina Preventiva y Promoción de la Salud Leticia Ruiz González.

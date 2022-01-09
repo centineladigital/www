@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz señaló que un productor no le quiso dar un personaje por la forma de su boca; expresó su apoyo a la actriz Fátima Molina. "
-image: /uploads/2021/images-fabiola-guajardo-revela-razon-perdio_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Por la forma de mi boca -  Fabiola Guajardo revela la razón por la que perdió un papel
+image: "/uploads/2021/images-fabiola-guajardo-revela-razon-perdio_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Por la forma de mi boca -  Fabiola Guajardo revela la razón por la que perdió un papel"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183136
 ---
 
 Fabiola Guajardo reveló que se quedó fuera de un proyecto porque a un productor no le gustó la forma de su boca, esto después de que la actriz Fátima Molina, protagonista de la telenovela Te acuerdas de mí, denunciara en redes sociales haber recibido comentarios discriminatorios y críticas por su apariencia física. En una entrevista con la prensa, Fabiola Guajardo habló sobre la polémica que enfrenta Fátima Molina, a quien le expresó su apoyo. La actriz reconoció que también enfrentó una situación similar, pues fue rechazada en una producción por su aspecto físico.  

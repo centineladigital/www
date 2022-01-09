@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El informe epidemiológico señala que el número de fallecimientos por esta enfermedad en el estado, se mantiene en 7 mil 700"
-image: /uploads/2021/images-REPORTE_COVID_2_AGOSTO_2021_(9).jpeg
-video: nil
-audio: nil
-alt: Con 26 nuevos contagios de COVID-19 confirmados  sube a 73,130 los casos acumulados
+image: "/uploads/2021/images-REPORTE_COVID_2_AGOSTO_2021_(9).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Con 26 nuevos contagios de COVID-19 confirmados  sube a 73,130 los casos acumulados"
 front: false
-section: Local
+section: "Local"
+news_id: 186183
 ---
 
 La Secretaría de Salud de Chihuahua confirmó 26 nuevos contagios de COVID-19 para un acumulado de 73 mil 130, mientras que el número de personas fallecidas se mantuvo en 7 mil 700.

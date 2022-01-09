@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Pese a que no descarta crédito la Gobernadora electa será hasta tener conocimiento de las finanzas."
-image: /uploads/2021/images-M1.jpeg
-video: nil
-audio: /uploads/2021/audio-MM02_MARU.mp3
-alt: No habrá crédito hasta que no se conozcan las finanzas del estado -  Campos Galván
+image: "/uploads/2021/images-M1.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MM02_MARU.mp3"
+alt: "No habrá crédito hasta que no se conozcan las finanzas del estado -  Campos Galván"
 front: false
-section: Local
+section: "Local"
+news_id: 185299
 ---
 
 “No hasta que no conozcamos las finanzas del Estado” fueron las palabras de la Secretaría de la Función Pública donde María Eugenia Campos Galván, luego de acudir este martes con el equipo de transición a las oficinas de la Secretaría de la Función Pública.

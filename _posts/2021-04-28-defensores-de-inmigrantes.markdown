@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La campaña busca en parte asegurar que los demócratas 'provoquen cambios concretos en la vida de la gente'"
-image: /uploads/2021/images-2569581.jpg
-video: nil
-audio: nil
-alt: Defensores de inmigrantes lanzan campaña de apoyo a Biden
+image: "/uploads/2021/images-2569581.jpg"
+video: "nil"
+audio: "nil"
+alt: "Defensores de inmigrantes lanzan campaña de apoyo a Biden"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184150
 ---
 
 Una coalición de grupos promotores de los derechos de los inmigrantes anunció una campaña de 50 millones de dólares para apoyar al presidente Joe Biden en materia de inmigración y presionar a los legisladores de ambos partidos para que aprueben un camino hacia la ciudadanía.

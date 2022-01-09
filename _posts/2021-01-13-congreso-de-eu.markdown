@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Inician los debates en el Congreso de EU sobre la apertura de un nuevo juicio político al presidente Donald Trump"
-image: /uploads/2021/images-2511070.jpg
-video: nil
-audio: nil
-alt: Congreso de EU abre debates sobre juicio político a Trump
+image: "/uploads/2021/images-2511070.jpg"
+video: "nil"
+audio: "nil"
+alt: "Congreso de EU abre debates sobre juicio político a Trump"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182101
 ---
 
 El Congreso de Estados Unidos inició este miércoles por la mañana los debates sobre la apertura de un nuevo juicio político al presidente Donald Trump, señalado de haber alentado el asalto al Capitolio en Washington que dejó cinco muertos.

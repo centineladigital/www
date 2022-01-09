@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Concluye Secretaría de Hacienda convocatoria para la venta de la flota aérea al no presentarse propuestas"
-image: /uploads/2021/images-IMG_6008.JPG
-video: nil
-audio: nil
-alt: Declaran desierta subasta pública de aeronaves de Gobierno del Estado
+image: "/uploads/2021/images-IMG_6008.JPG"
+video: "nil"
+audio: "nil"
+alt: "Declaran desierta subasta pública de aeronaves de Gobierno del Estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184549
 ---
 
 El director de Bienes Muebles y Mantenimiento de la Secretaría de Hacienda, Heriberto González Andujo, declaró desierta la subasta de cinco aeronaves usadas del Gobierno del Estado.

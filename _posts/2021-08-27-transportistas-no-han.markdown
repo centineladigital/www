@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "CTM en Chihuahua no ha instalado equipos GPS."
-image: /uploads/2021/images-MESTA.jpg
-video: /uploads/2021/videos-MV04_FERNANDO_MESTA.mp4
-audio: nil
-alt: Transportistas no han querido colocar GPS
+image: "/uploads/2021/images-MESTA.jpg"
+video: "/uploads/2021/videos-MV04_FERNANDO_MESTA.mp4"
+audio: "nil"
+alt: "Transportistas no han querido colocar GPS"
 front: false
-section: Local
+section: "Local"
+news_id: 187201
 ---
 
 Al ser cuestionado respecto a las tarifas del transporte público el Secretario General de Gobierno, Luis Fernando Mesta Soulé señaló que los transportistas no han querido colocar dentro de las unidades GPS, por lo que no se hablará del tema.

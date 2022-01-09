@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "And Just Like That... es el título de esta nueva aventura televisiva de Sex and the City cuya principal novedad respecto a la serie original será la ausencia de Kim Cattrall, que interpretaba a Samantha.   "
-image: /uploads/2021/images-cast-sex-and-the-city_82_0_1085_675.jpg
-video: nil
-audio: nil
-alt: ¿Por Sarah Jessica Parker? 'Sex and the City' regresa con 'HBO Max' sin Kim Cattrall (Samantha)
+image: "/uploads/2021/images-cast-sex-and-the-city_82_0_1085_675.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Por Sarah Jessica Parker? 'Sex and the City' regresa con 'HBO Max' sin Kim Cattrall (Samantha)"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182026
 ---
 
 "Sex and the City" regresará a la televisión con una serie de HBO Max que contará como protagonistas con Sarah Jessica Parker, Cynthia Nixon y Kristin Davis pero en la que no estará Kim Cattrall. "And Just Like That..." es el título de esta nueva aventura televisiva de "Sex and the City" cuya principal novedad respecto a la serie original será la ausencia de Kim Cattrall, que interpretaba a Samantha pero que no aparecerá en estos nuevos episodios.

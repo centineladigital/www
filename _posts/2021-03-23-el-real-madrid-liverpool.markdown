@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Gobierno levanta las restricciones de vuelos procedentes del Reino Unido, por lo que el partido de ida se podrá disputar en el Alfredo di Stéfano"
-image: /uploads/2021/images-2549783.jpg
-video: nil
-audio: nil
-alt: El Real Madrid-Liverpool se jugará en España
+image: "/uploads/2021/images-2549783.jpg"
+video: "nil"
+audio: "nil"
+alt: "El Real Madrid-Liverpool se jugará en España"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183517
 ---
 
 El Real Madrid-Liverpool, partido de ida de los cuartos de final de la Champions League, podrá disputarse finalmente en el Alfredo Di Stéfano, después de que el Consejo de Ministros acordase levantar las restricciones de vuelos procedentes de Reino Unido en vigor desde finales de diciembre para frenar la llegada de la variante británica del coronavirus, una medida que también permitirá jugarse el Granada-Manchester United de Liga Europa en el Nuevo Los Cármenes.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hay 15 en naranja, nueve en amarillo y sólo una en verde; reporta Ssa en un día 21 mil 563 contagios por Covid"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt:  En semáforo rojo, siete entidades del país
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: " En semáforo rojo, siete entidades del país"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186420
 ---
 
 En pleno ascenso por la tercera ola de la pandemia por Covid-19, la Secretaría de Salud (Ssa) reportó que en las últimas dos semanas 12 de las 32 entidades del país modificaron su color en el semáforo epidemiológico, con lo cual siete están en rojo (riesgo máximo).

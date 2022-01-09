@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Nunca bajes la guardia ante el COVID-19"
-image: /uploads/2021/images-IMSS_B_3445.jpeg
-video: nil
-audio: nil
-alt: El riesgo es latente y tu salud lo más importante -  IMSS Chihuahua 
+image: "/uploads/2021/images-IMSS_B_3445.jpeg"
+video: "nil"
+audio: "nil"
+alt: "El riesgo es latente y tu salud lo más importante -  IMSS Chihuahua "
 front: false
-section: Local
+section: "Local"
+news_id: 185990
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua exhorta a la población a continuar con las medidas de prevención para evitar contagios de COVID-19, tras destacar que lo más importante es la salud de todas y todos los chihuahuenses. 

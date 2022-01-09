@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Es la primera película de Marvel en tener a un actor asiático como protagonista y en estar vinculada con las artes marciales. Te decimos cuándo se estrena. "
-image: /uploads/2021/images-poster-oficial-shang-chi-leyenda.jpg
-video: nil
-audio: nil
-alt: ¡El 'Maestro del Kung Fu'! Marvel presenta tráiler de 'Shang-Chi y la leyenda de los diez anillos'
+image: "/uploads/2021/images-poster-oficial-shang-chi-leyenda.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡El 'Maestro del Kung Fu'! Marvel presenta tráiler de 'Shang-Chi y la leyenda de los diez anillos'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183967
 ---
 
 Iron Man, Capitán América y Spider-Man son sólo algunos de los personajes más conocidos del Universo Cinematográfico de Marvel (UCM). Sin embargo, en esta ocasión, el estudio fílmico acaba de presentar el primer tráiler oficial de Shang-Chi, también conocido como el Maestro del Kung Fu. Artes marciales, escenas de acción y muchas peleas es lo que se observa en el fascinante adelanto de Shang-Chi y la leyenda de los diez anillos. Se trata de la primera película del UCM en estar vinculada con las mencionadas artes marciales y en tener a un actor asiático como protagonista 

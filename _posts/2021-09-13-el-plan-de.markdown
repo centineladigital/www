@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El presidente afirmó que este plan de 100 días debe definirse"
-image: /uploads/2021/images-MARCO_BONILLA.jpeg
-video: /uploads/2021/videos-BL05_MARCO_BONILLA.mp4
-audio: nil
-alt: El plan de los 100 días de marco Bonilla se debe definir respecto a la alineación financiera
+image: "/uploads/2021/images-MARCO_BONILLA.jpeg"
+video: "/uploads/2021/videos-BL05_MARCO_BONILLA.mp4"
+audio: "nil"
+alt: "El plan de los 100 días de marco Bonilla se debe definir respecto a la alineación financiera"
 front: false
-section: Local
+section: "Local"
+news_id: 187690
 ---
 
 Marco Bonilla comentó que se está trabajando con la definición del plan de los primeros 100 días de gobierno de la presidencia municipal, el presidente afirmó que este plan de 100 días debe definirse.

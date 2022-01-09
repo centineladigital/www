@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Decenas de seguidores del presidente Donald Trump irrumpen con violencia en el Capitolio, sede del Congreso de EU, mientras tenía lugar la certificación del triunfo de Joe Biden"
-image: /uploads/2021/images-2507286.jpg
-video: nil
-audio: nil
-alt: Caos y violencia, así asaltan el Capitolio los seguidores de Trump
+image: "/uploads/2021/images-2507286.jpg"
+video: "nil"
+audio: "nil"
+alt: "Caos y violencia, así asaltan el Capitolio los seguidores de Trump"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 181916
 ---
 
 La situación es caótica al interior del Capitolio, sede del Congreso de Estados Unidos, luego de que decenas de seguidores del presidente Donald Trump irrumpieran con violencia en las instalaciones mientras tenía lugar la certificación del triunfo de Joe Biden en las elecciones de noviembre.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz y cantante ya suma más de 100 mil seguidores en la red social en tan solo unos días. "
-image: /uploads/2021/images-susana-zavaleta-niega-escupido-trabajador_0_1_958_596.jpg
-video: nil
-audio: nil
-alt: Nunca he tenido choféres -  Susana Zavaleta llega a TikTok con divertida historia y se hace viral
+image: "/uploads/2021/images-susana-zavaleta-niega-escupido-trabajador_0_1_958_596.jpg"
+video: "nil"
+audio: "nil"
+alt: "Nunca he tenido choféres -  Susana Zavaleta llega a TikTok con divertida historia y se hace viral"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184415
 ---
 
 La actriz y cantante Susana Zavaleta ha sorprendido a miles de sus fans luego de unirse a la red social TikTok con una divertida historia que rápidamente se volvió viral, y es que la Zavaleta compartió una extraña nota que le dejaron sus vecinos en el buzón de su casa, reclamándole por sus choféres. El divertido video con el que la cantante inauguró su cuenta de TikTok ya suma más de 130 mil likes en la red social y aquí te mostramos por qué. 

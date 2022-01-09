@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de sus redes sociales, en donde Christina Aguilera se posicionó sobre el caso de Britney Spears. Aseguró que desde hace unos días ha estado pensando en la famosa. Pidió por los derechos de la princesa del pop."
-image: /uploads/2021/images-christina-aguilera-apoya-britney-spears-1.jpg
-video: nil
-audio: nil
-alt: Merece toda la libertad -  Christina Aguilera apoya a Britney Spears; dedica poderosas palabras
+image: "/uploads/2021/images-christina-aguilera-apoya-britney-spears-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Merece toda la libertad -  Christina Aguilera apoya a Britney Spears; dedica poderosas palabras"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185297
 ---
 
 Britney Spears, la princesa del Pop, sigue dando de qué hablar, luego de que en la última audiencia contra su padre pidiera su libertad y contara escalofriantes momentos a lado de su progenitor, psiquiatras y managers. Por ello, ante este panorama, Christina Aguilera mostró su apoyo a Britney Spears, con quien supuestamente había tenido rivalidad en el pasado. 

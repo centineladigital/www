@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Para beneficio de productores pecuarios."
-image: /uploads/2021/images-ALMEIDA1.jpg
-video: nil
-audio: /uploads/2021/audio-ML01_RENE_ALMEIDA.mp3
-alt: Culminan 5 mil obras hídricas en el estado
+image: "/uploads/2021/images-ALMEIDA1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML01_RENE_ALMEIDA.mp3"
+alt: "Culminan 5 mil obras hídricas en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 185279
 ---
 
 Un total de cinco mil obras se han edificado en el estado esto en la administración actual, las cuales servirán para retener agua en el estado, según lo dio a conocer el titular de la Secretaría de Desarrollo Rural, René Almeida Grajeda. Quien señaló que son obras para dos vertientes una de ellas es el abastecer al sector pecuario.

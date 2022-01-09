@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A la fecha suman 55 mil 086 casos y 5 mil 352 decesos desde que inició la pandemia; superan la enfermedad del coronavirus 5 mil 345 integrantes del Sector Salud a lo largo de la pandemia"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporte COVID-19 -  confirman 222 contagios y 31 defunciones más en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporte COVID-19 -  confirman 222 contagios y 31 defunciones más en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 183270
 ---
 
 En el último reporte epidemiológico COVID-19, la Secretaría de Salud confirmó un total general de 55 mil 086 casos, con 222 nuevos registros, así como un acumulado de 5 mil 352 personas fallecidas, con 31 decesos más en la entidad.

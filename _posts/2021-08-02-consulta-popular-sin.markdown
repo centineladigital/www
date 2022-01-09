@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La consejera Claudia Zavala aseguró que el cómputo de los resultados de la consulta popular avanza de manera muy rápida"
-image: /uploads/2021/images-claudia-zavala-perez-consejera-electoral.jpg
-video: nil
-audio: nil
-alt: Consulta popular, sin casillas especiales porque no se asignaron recursos -  consejera del INE
+image: "/uploads/2021/images-claudia-zavala-perez-consejera-electoral.jpg"
+video: "nil"
+audio: "nil"
+alt: "Consulta popular, sin casillas especiales porque no se asignaron recursos -  consejera del INE"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186177
 ---
 
 La consejera del Instituto Nacional Electoral (INE), Claudia Zavala, dijo que durante la consulta popular sobre actores políticos del pasado no se instalaron mesas de votación especiales debido a la falta de recursos.  

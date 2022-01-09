@@ -3,21 +3,22 @@ layout: post
 title: "'Nuestros corazones están con México' -  Trudeau tras accidente del Metro"
 date: 2021-05-04T15:37:00.000-06:00
 tags:
-
+  
   - Justin Trudeau
-
+  
   - Metro
-
+  
   - México
-
+  
 author: nil
 description: "El primer ministro de Canadá dedica un mensaje de apoyo a México tras el accidente del metro que dejó al menos 23 muertos y 79 heridos en la CDMX"
-image: /uploads/2021/images-2572729.jpg
-video: nil
-audio: nil
-alt: Nuestros corazones están con México Trudeau tras accidente del Metro
+image: "/uploads/2021/images-2572729.jpg"
+video: "nil"
+audio: "nil"
+alt: "'Nuestros corazones están con México' -  Trudeau tras accidente del Metro"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184261
 ---
 
 El primer ministro de Canadá, Justin Trudeau, expresó sus condolencias a México tras el accidente del metro que dejó al menos 23 muertos y 79 heridos en la CDMX.

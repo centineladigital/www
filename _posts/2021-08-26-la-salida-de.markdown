@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La tensión se fue agrandando, las protestas de la afición provocó que la situación llegara al límite y Chucho se dio cuenta que uno de los dos sobraba"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: La salida de Chucho Ramírez, el inicio del plan para encumbrar a Lillini en Pumas
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "La salida de Chucho Ramírez, el inicio del plan para encumbrar a Lillini en Pumas"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187132
 ---
 
 Dicen que la salida de Jesús Ramírez de la presidencia deportiva de los Pumas de la Universidad, es el comienzo de un plan perfectamente planeado.

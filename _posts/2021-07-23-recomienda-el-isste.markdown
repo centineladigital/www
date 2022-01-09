@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Gestión emocional eficiente, crucial para la salud del aparato mental, afirmó neurocirujano Manuel Hernández"
-image: /uploads/2021/images-ISSSTE_01.jpeg
-video: nil
-audio: nil
-alt: Recomienda el ISSTE ejercitar el cerebro con activación mental y física 
+image: "/uploads/2021/images-ISSSTE_01.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Recomienda el ISSTE ejercitar el cerebro con activación mental y física "
 front: false
-section: Local
+section: "Local"
+news_id: 185961
 ---
 
 Para estimular la buena salud y funcionamiento mental, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) recomienda realizar actividades físicas y mentales para evitar el riesgo de deterioro cerebral relacionados con diversos trastornos psiquiátricos como esquizofrenia, autismo, alteración del estado de ánimo y Alzheimer.

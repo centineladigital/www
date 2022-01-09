@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El actor que forma parte del melodrama “Diseñando tu amor”, asegura que su abuela Lucía Guilmaín le dio los mejores consejos para desarrollar un personaje."
-image: /uploads/2021/images-actor-disenando-amor-comparte-planes_0_1_854_531.jpeg
-video: nil
-audio: nil
-alt: Raúl Orvañanos hereda la pasión por la actuación
+image: "/uploads/2021/images-actor-disenando-amor-comparte-planes_0_1_854_531.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Raúl Orvañanos hereda la pasión por la actuación"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184458
 ---
 
 El joven actor Raúl Orvañanos desde muy pequeño supo que quería dedicarse a la actuación, porque viene de una familia de talentos, pues es bisnieto de Ofelia Gulmain, la legendaria actriz de la época de oro; y nieto de Lucía Guilmaín. 

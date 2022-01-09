@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El gobernador Javier Corral, cerró con broche de oro el programa Tu Colonia con Valor en el fraccionamiento Urbivillas, donde en conjunto con los vecinos, personal de dependencias de los tres órdenes de gobierno realizó distintas intervenciones para la recuperación del espacio público "
-image: /uploads/2021/images-WhatsApp_Image_2021-08-23_at_20.56.35_(1).jpeg
-video: nil
-audio: nil
-alt: Unen esfuerzos para recuperar el entorno en Urbivillas a Todo Color
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-23_at_20.56.35_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Unen esfuerzos para recuperar el entorno en Urbivillas a Todo Color"
 front: false
-section: Local
+section: "Local"
+news_id: 187042
 ---
 
 El gobernador Javier Corral encabezó el cierre del programa Tu Colonia Con Valor en el fraccionamiento Urbivillas del Prado, en Ciudad Juárez, que consiste en promover la participación de los vecinos para cambiar el entorno de la comunidad.

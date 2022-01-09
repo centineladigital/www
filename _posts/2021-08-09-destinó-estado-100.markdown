@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Otorgan al personal un incremento salarial, mayores prestaciones y mejoras en las condiciones laborales, y se les dota de modernas herramientas de trabajo"
-image: /uploads/2021/images-4e88b40b-c4f5-4ba9-aac5-16d8619999c5.jpg
-video: nil
-audio: /uploads/2021/audio-4-_FORTALECIM_INSTITUCIONAL_PROGRAMA_LOGROS_CON_VALOR_FGE_9-8-21.MP3
-alt: Destinó Estado 100 millones de pesos  para mejora salarial de personal de Fiscalía
+image: "/uploads/2021/images-4e88b40b-c4f5-4ba9-aac5-16d8619999c5.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-4-_FORTALECIM_INSTITUCIONAL_PROGRAMA_LOGROS_CON_VALOR_FGE_9-8-21.MP3"
+alt: "Destinó Estado 100 millones de pesos  para mejora salarial de personal de Fiscalía"
 front: false
-section: Local
+section: "Local"
+news_id: 186481
 ---
 
 Mediante el Programa de Fortalecimiento al Personal Policial y Sustantivo implementado por la actual administración estatal, se logró dignificar y fortalecer institucionalmente al personal de policías, ministerios públicos, peritos e investigadores, informó César Augusto Peniche Espejel, titular de la Fiscalía General del Estado (FGE).

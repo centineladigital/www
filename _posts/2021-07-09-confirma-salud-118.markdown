@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el último reporte epidemiológico de la Secretaría de Salud, suman 70 mil 969 y de 7 mil 625 defunciones.  "
-image: /uploads/2021/images-Diapositiva5.JPG
-video: nil
-audio: nil
-alt: Confirma Salud 118 nuevos casos positivos y 27 defunciones por COVID-19.
+image: "/uploads/2021/images-Diapositiva5.JPG"
+video: "nil"
+audio: "nil"
+alt: "Confirma Salud 118 nuevos casos positivos y 27 defunciones por COVID-19."
 front: false
-section: Local
+section: "Local"
+news_id: 185498
 ---
 
 La Secretaría de Salud informó que en el último reporte epidemiológico se confirmaron un total general de 70 mil 969 casos de COVID-19 en el estado de Chihuahua con el registro de 118 nuevos.

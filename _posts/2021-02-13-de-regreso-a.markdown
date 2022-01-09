@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Bárbara Mori está de regreso en la pantalla chica y en esta ocasión la actriz protagoniza la serie La negociadora. "
-image: /uploads/2021/images-barbara-mori-participa-serie-negociadora.jpg
-video: nil
-audio: nil
-alt: ¡De regreso a la televisión! Bárbara Mori protagoniza la serie 'La negociadora'
+image: "/uploads/2021/images-barbara-mori-participa-serie-negociadora.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡De regreso a la televisión! Bárbara Mori protagoniza la serie 'La negociadora'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182914
 ---
 
 Después de protagonizar la telenovela Rubí, Bárbara Mori se alejó de la pantalla chica para comenzar a trabajar en el cine, sin embargo, aunque en el 2014 realizó la serie Dos Lunas, de nueva cuenta la paraguaya prepara su regreso a la televisión ya que protagoniza la serie La negociadora. El regreso de Bárbara Mori es con La negociadora, un proyecto del que se enamoró tras leer los guiones y conocer a directores y elenco, explicó la actriz a EFE. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Juan Osorio está muy enamorado de su novia Eva Daniela, quien es casi 40 años menor que él, es por eso que Gustavo Adolfo Infante criticó el romance. "
-image: /uploads/2021/images-periodista-cree-eva-daniela-ama_55_0_1045_650.jpg
-video: nil
-audio: nil
-alt: No te ama -  Gustavo Adolfo Infante cree que novia de Juan Osorio está con él por interés
+image: "/uploads/2021/images-periodista-cree-eva-daniela-ama_55_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "No te ama -  Gustavo Adolfo Infante cree que novia de Juan Osorio está con él por interés"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185680
 ---
 
 En los últimos meses Juan Osorio ha gritado a los cuatro vientos que se encuentra muy enamorado tras iniciar un romance con Eva Daniela, quien participa en la telenovela ¿Qué le pasa a mi familia?, producida por el padre de Emilio Osorio. Aunque existen varios años diferencia entre la pareja esto no impidió que el amor surgiera, pero Gustavo Adolfo Infante aseguró que la actriz está con Osorio por interés.

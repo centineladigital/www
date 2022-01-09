@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Aún no se cuantifica áreas beneficiadas."
-image: /uploads/2021/images-MESTA.jpg
-video: nil
-audio: /uploads/2021/audio-ML04.mp3
-alt: Lluvias benéficas para áreas de temporales
+image: "/uploads/2021/images-MESTA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04.mp3"
+alt: "Lluvias benéficas para áreas de temporales"
 front: false
-section: Local
+section: "Local"
+news_id: 185384
 ---
 
 Pese a que aún no se ha cuantificado o el titular de la Secretaría General de Gobierno no tiene conocimiento de cuánta es la superficie de temporal que se beneficiará con las lluvias, las precipitaciones tempranas han favorecido a la entidad.

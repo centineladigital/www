@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Será este próximo jueves cuando la Corte Federal del Distrito Sur de Florida, determine la procedencia de la solicitud para traer al exmandatario a México y que sea presentado ante los tribunales de Chihuahua"
-image: /uploads/2021/images-descarga.jpg
-video: nil
-audio: nil
-alt: Faltan dos días para audiencia final de extradición del exgobernador de Chihuahua
+image: "/uploads/2021/images-descarga.jpg"
+video: "nil"
+audio: "nil"
+alt: "Faltan dos días para audiencia final de extradición del exgobernador de Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 182058
 ---
 
 Este próximo jueves 14 de enero la Corte Federal Distrito del Sur de Florida, Estados Unidos, celebrará la audiencia final del proceso de extradición que se lleva en contra del exgobernador de Chihuahua, acusado por la justicia de Chihuahua de delitos relacionados con actos de corrupción.

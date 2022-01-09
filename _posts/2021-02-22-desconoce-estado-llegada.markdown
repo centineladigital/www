@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "No llegarán estas vacunas al estado, afirmó Wendy Ávila Coronado."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-ML03_WENDY.mp3
-alt: Desconoce Estado llegada de Sputnik V
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML03_WENDY.mp3"
+alt: "Desconoce Estado llegada de Sputnik V"
 front: false
-section: Local
+section: "Local"
+news_id: 183094
 ---
 
 El área de salud dentro del Estado desconoce si llegarán las vacunas Sputnik V a Chihuahua, esto tras la compra a nivel nacional de 200 mil unidades para vacunar a personas de la tercera edad. Según fue dado a conocer la Subdirectora de Medicina Preventiva y Promoción para la Salud Wendy Ávila Coronado.

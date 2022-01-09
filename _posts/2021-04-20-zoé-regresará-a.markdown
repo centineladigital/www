@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aquí te decimos cuáles serán las fechas y sedes de sus presentaciones, así como la forma para adquirir tus boletos. "
-image: /uploads/2021/images-zoe-prepara-gira-internacional-twitter-1_181_26_819_510.jpg
-video: nil
-audio: nil
-alt: Zoé regresará a los escenarios con asombrosa gira internacional en medio de la pandemia
+image: "/uploads/2021/images-zoe-prepara-gira-internacional-twitter-1_181_26_819_510.jpg"
+video: "nil"
+audio: "nil"
+alt: "Zoé regresará a los escenarios con asombrosa gira internacional en medio de la pandemia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183994
 ---
 
 Luego de que la pandemia de coronavirus cambiara nuestras vidas para siempre, los músicos fueron unos de los grandes afectados, pues los conciertos y festivales musicales se suspendieron en la mayor parte del mundo; sin embargo la banda mexicana Zoé está de regreso con una gira a lo grande por Estados Unidos y aquí te damos los detalles. La agrupación liderada por León Larregui anunció a través de sus redes sociales su nueva gira en el país vecino con motivo de celebración de su séptimo álbum Sonidos de Karmática Resonancia, la cuál constará de 26 fechas a lo largo y ancho de ese país, a pesar de que la pandemia aún se encuentra en punto crítico. 

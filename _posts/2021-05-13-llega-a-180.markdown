@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "En las últimas 24 horas se acreditaron13 defunciones y 140 personas dieron positivas a la PCR."
-image: /uploads/2021/images-diapositiva3-337.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01_GUMARO_BARRIOS.mp3
-alt: Llega a 180 muertes por cada cien mil habitantes
+image: "/uploads/2021/images-diapositiva3-337.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01_GUMARO_BARRIOS.mp3"
+alt: "Llega a 180 muertes por cada cien mil habitantes"
 front: false
-section: Local
+section: "Local"
+news_id: 184451
 ---
 
 La estadística de muertes llega a 180 muertes por cada cien mil habitantes, según fue dado a conocer por parte del Subdirector de Epidemiología, Gumaro Barrios Gallegos, al dar a conocer que en las últimas 24 horas se acreditaron13 defunciones y 140 personas dieron positivas a la PCR. Cifra que se suma a las ya acreditadas llegando a 55 mil 682 personas que han dado positivo a la prueba de coronavirus.

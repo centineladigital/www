@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En 2030 la temperatura global puede subir más de +1.5 ºC, lo que ocasionaría desastres sin precedentes, alerta informe del organismo"
-image: /uploads/2021/images-cambio_climatico.jpg
-video: nil
-audio: nil
-alt: Cambio climático, peor y más rápido de lo esperado -  ONU
+image: "/uploads/2021/images-cambio_climatico.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cambio climático, peor y más rápido de lo esperado -  ONU"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186500
 ---
 
 Ginebra.— El cambio climático es peor y más rápido de lo temido. Para 2030 —10 años antes de lo estimado— se puede alcanzar el umbral de +1.5 ºC, con riesgos de desastres “sin precedentes” para la humanidad, sacudida por canículas e inundaciones.

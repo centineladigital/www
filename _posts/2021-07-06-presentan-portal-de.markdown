@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Subirán de forma quincenal información de transición."
-image: /uploads/2021/images-MONICA.jpg
-video: nil
-audio: /uploads/2021/audio-MM04.mp3
-alt: Presentan portal de transparencia de proceso de transición
+image: "/uploads/2021/images-MONICA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04.mp3"
+alt: "Presentan portal de transparencia de proceso de transición"
 front: false
-section: Local
+section: "Local"
+news_id: 185401
 ---
 
 A través de un portal web la Secretaría de la Función Pública dará a conocer de forma transparente el proceso de la transición, según fue dado a conocer por parte de la titular de esta dependencia Mónica Vargas Ruiz. Con lo que se anunció la implementación de la figura del Testigo Social para enmarcar la participación ciudadana.

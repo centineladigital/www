@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Autoría de la historiadora Nithia Castorena Sáenz, la obra relata una década de retos, planeación y entrada en vigor de estas instancias enfocadas a combatir la violencia contra las mujeres; en los próximos días se podrá descargar gratuitamente por medio de internet"
-image: /uploads/2021/images-PRESENTACIÓN_LIBRO_CEJUM_ICHMUJERES_(4).JPG
-video: nil
-audio: nil
-alt: Presenta Ichmujeres libro sobre historia de los Centros de Justicia  para las Mujeres en Chihuahua
+image: "/uploads/2021/images-PRESENTACIÓN_LIBRO_CEJUM_ICHMUJERES_(4).JPG"
+video: "nil"
+audio: "nil"
+alt: "Presenta Ichmujeres libro sobre historia de los Centros de Justicia  para las Mujeres en Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 186197
 ---
 
 El Instituto Chihuahuense de las Mujeres (Ichmujeres) presentó el libro “Centro de Justicia para las Mujeres en Chihuahua: su historia”, autoría de la historiadora Nithia Castorena Sáenz.

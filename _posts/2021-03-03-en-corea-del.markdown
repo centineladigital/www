@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las drásticas medidas anticovid implementadas en Corea del Norte están provocando muertes por inanición y mayor represión, denuncia la ONU"
-image: /uploads/2021/images-2538550.jpg
-video: nil
-audio: nil
-alt: En Corea del Norte hay muertes por hambre debido a cuarentena -  ONU
+image: "/uploads/2021/images-2538550.jpg"
+video: "nil"
+audio: "nil"
+alt: "En Corea del Norte hay muertes por hambre debido a cuarentena -  ONU"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183239
 ---
 
 Las drásticas medidas adoptadas por Corea del Norte para contener el coronavirus han exacerbado los abusos de los derechos humanos y las dificultades económicas de sus ciudadanos, incluidos los informes de inanición, denunció un investigador de las Naciones Unidas.

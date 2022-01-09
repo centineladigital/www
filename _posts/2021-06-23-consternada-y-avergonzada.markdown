@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En TikTok se viralizó un video donde aparece la cantante estadunidense a los 14 años presuntamente mofándose del acento asiático. "
-image: /uploads/2021/images-trabajado-duro-plataforma-luchar-inclusion.jpg
-video: nil
-audio: nil
-alt: Consternada y avergonzada -  Billie Eilish se disculpa por burla racista contra comunidad asiática
+image: "/uploads/2021/images-trabajado-duro-plataforma-luchar-inclusion.jpg"
+video: "nil"
+audio: "nil"
+alt: "Consternada y avergonzada -  Billie Eilish se disculpa por burla racista contra comunidad asiática"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185193
 ---
 
 Luego de que se viralizó un video donde aparece Billie Eilish burlándose de la comunidad asiática, la cantante estadunidense se disculpó y señaló que estaba "consternada y avergonzada" por este suceso, que dijo era de cuando tenía 13 o 14 años. "Estoy consternada y avergonzada, y quiero vomitar por haber dicho alguna vez esa palabra (chink, un término despectivo)", dijo la famosa, ahora de 19 años. 

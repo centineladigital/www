@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "De acuerdo al Servicio Meteorológico Nacional, el huracán 'Larry' disminuyó a categoría 2, lejos de costas mexicanas"
-image: /uploads/2021/images-huracan-larry-convierte-categoria-camino_50_78_1023_637.jpg
-video: nil
-audio: nil
-alt: Huracán 'Larry' disminuye a categoría 2; no hay riesgos para México, informa Conagua
+image: "/uploads/2021/images-huracan-larry-convierte-categoria-camino_50_78_1023_637.jpg"
+video: "nil"
+audio: "nil"
+alt: "Huracán 'Larry' disminuye a categoría 2; no hay riesgos para México, informa Conagua"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187542
 ---
 
 El huracán Larry disminuyó a categoría 2 en la escala Saffir-Simpson, localizándose lejos de costas mexicanas en el Océano Atlántico, de acuerdo con el Servicio Meteorológico Nacional (SMN).

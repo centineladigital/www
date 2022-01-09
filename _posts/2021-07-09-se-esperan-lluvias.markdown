@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Otros municipios con probabilidades de precipitaciones, pero en menor intensidad son Ocampo, Bocoyna, Guachochi, Balleza, Sueco y Matamoros."
-image: /uploads/2021/images-BASASEACHI__LLUVIAS_POSTALES_2021_(4).jpeg
-video: nil
-audio: nil
-alt: Se esperan lluvias para Moris, Guazapares y  Guadalupe y Calvo este viernes 9.
+image: "/uploads/2021/images-BASASEACHI__LLUVIAS_POSTALES_2021_(4).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Se esperan lluvias para Moris, Guazapares y  Guadalupe y Calvo este viernes 9."
 front: false
-section: Local
+section: "Local"
+news_id: 185492
 ---
 
 Para este viernes 9 de julio se pronostican lluvias de aisladas a dispersas (2 a 5 mm) en el occidente y suroeste del estado, principalmente en Moris, Guazapares y Guadalupe y Calvo, informó la Coordinación Estatal de Protección Civil (CEPC).

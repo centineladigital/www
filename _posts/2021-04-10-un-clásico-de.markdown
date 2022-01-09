@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Una de las canciones más famosas de My Chemical Romance es Helena, escrita por Gerard Way, Te contamos la inspiración detrás del tema. "
-image: /uploads/2021/images-helena-forma-disco-my-chemical.jpg
-video: nil
-audio: nil
-alt: ¡Un clásico de My Chemical Romance! Ésta fue la inspiración de Gerard Way para escribir 'Helena'
+image: "/uploads/2021/images-helena-forma-disco-my-chemical.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Un clásico de My Chemical Romance! Ésta fue la inspiración de Gerard Way para escribir 'Helena'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183802
 ---
 
 A mediados de los años 2000 surgió un género musical llamado Emo, del cual también apareció una tribu urbana con el mismo nombre. Los adolescentes que vestían de negro, usaban delineador y unos pronunciados flecos que tapaba la mitad de su rostro escuchaban agrupaciones como Fall Out Boy, Good Charlotte, Simple Plan, así comoMy Chemical Romance, banda liderada por Gerard Way. En el 2004, My Chemical Romance lanzó su segundo disco titula Three Cheers For Sweet Revenge, el cual logró colocarlos en el gusto de los adolescentes por temas como “I´m not okay (I promise)”, pero en especial por “Helena”, sin duda, la canción más conocida y exitosa de la agrupación. 

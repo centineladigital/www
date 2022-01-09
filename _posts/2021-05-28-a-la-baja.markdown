@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Durante cinco semanas va a la baja ídices."
-image: /uploads/2021/images-índice.jpg
-video: nil
-audio: /uploads/2021/audio-MV04_GUMARO_BARRIOS.mp3
-alt: A la baja tendencia de casos COVID
+image: "/uploads/2021/images-índice.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV04_GUMARO_BARRIOS.mp3"
+alt: "A la baja tendencia de casos COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 184724
 ---
 
 Una tendencia a la baja es lo que el Subdirector de Epidemiología, Gumaro Barrios Gallegos, señaló que se tiene en las cifras COVID en las últimas cinco semanas, esto al dar a conocer las cifras de actualización en las cuales se acreditaron 9 defunciones y 72 nuevos casos que dieron positivo a prueba PCR.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto ya que se deben de tratar todas las enfermedades."
-image: /uploads/2021/images-wendy.jpg
-video: nil
-audio: /uploads/2021/audio-MW03_WENDY_AVILA.mp3
-alt: Exhortan a vacunar a menores 
+image: "/uploads/2021/images-wendy.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW04_WENDY_AVILA.mp3"
+alt: "Exhortan a vacunar a menores "
 front: false
-section: Local
+section: "Local"
+news_id: 184426
 ---
 
 Debido a que los menores deben de contar con el esquema de vacunas completo, la Subdirectora de Medicina Preventiva y Promoción a la Salud, Wendy Ávila Coronado, exhortó a la población a llevar a los menores a vacunar y complementar el esquema de inmunizaciones que deben de tener de acuerdo a cada edad.

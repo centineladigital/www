@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa SGG que en la entidad, del 1 al 7 de febrero también se retuvieron 20 unidades de transporte y se desalojaron 5 negocios por incumplir las medidas preventivas de COVID-19"
-image: /uploads/2021/images-OPERATIVOS_CÉLULAS_ANTI_COVID_(1).jpeg
-video: nil
-audio: nil
-alt: Clausuran Células Mixtas 14 establecimientos en una semana
+image: "/uploads/2021/images-OPERATIVOS_CÉLULAS_ANTI_COVID_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Clausuran Células Mixtas 14 establecimientos en una semana"
 front: false
-section: Local
+section: "Local"
+news_id: 182783
 ---
 
 La Secretaría General de Gobierno (SGG) informó que del 1 al 7 de febrero en la entidad, las Células Mixtas encargadas de los operativos para vigilar el cumplimiento de las medidas sanitarias contra COVID-19 realizaron 14 clausuras de establecimientos, desalojaron cinco de ellos y retuvieron 20 unidades de transporte.

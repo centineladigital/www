@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La transmisión de la segunda edición de “Rodadas por la Vida” se llevará a cabo el próximo 11 de agosto a las 10 de la mañana a través de Facebook Live en la página del CAPPSI"
-image: /uploads/2021/images-unnamed_(12).jpg
-video: nil
-audio: nil
-alt: Invita Municipio a participar en la segunda edición virtual de “Rodadas por la Vida”
+image: "/uploads/2021/images-unnamed_(12).jpg"
+video: "nil"
+audio: "nil"
+alt: "Invita Municipio a participar en la segunda edición virtual de “Rodadas por la Vida”"
 front: false
-section: Local
+section: "Local"
+news_id: 186235
 ---
 
 El Gobierno Municipal a través del Centro de Atención y Prevención Psicológicas (CAPPSI), realizará un evento de manera virtual para continuar con las labores de prevención en materia de salud mental.

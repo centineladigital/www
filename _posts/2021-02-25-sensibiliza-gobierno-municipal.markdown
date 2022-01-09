@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La charla fue impartida vía Zoom, contando con una afluencia de 178 personas, entre servidores públicos, madres y padres de familia, docentes y público en general."
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Sensibiliza Gobierno Municipal sobre trata de personas con casi 180 asistentes en plática virtual
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Sensibiliza Gobierno Municipal sobre trata de personas con casi 180 asistentes en plática virtual"
 front: false
-section: Local
+section: "Local"
+news_id: 183161
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM), impartió la plática titulada “¿Sabes qué es la trata de personas? Abordaje básico del delito” a fin de visibilizar la problemática y brindar elementos para su prevención.

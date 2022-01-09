@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Busca contender por el décimo sexto distrito a nivel estatal."
-image: /uploads/2021/images-MARIO_VAZQUEZ.jpg
-video: nil
-audio: /uploads/2021/audio-MV01_MARIO_VAZQUEZ.mp3
-alt: Renuncia Coordinador de Gabinete
+image: "/uploads/2021/images-MARIO_VAZQUEZ.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV01_MARIO_VAZQUEZ.mp3"
+alt: "Renuncia Coordinador de Gabinete"
 front: false
-section: Local
+section: "Local"
+news_id: 182374
 ---
 
 Municipal para contender en elecciones 

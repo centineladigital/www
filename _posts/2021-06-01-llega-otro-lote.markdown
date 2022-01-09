@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hasta el momento se cuenta con más de 40 millones de vacunas contra el coronavirus en México, informó el canciller Marcelo Ebrard"
-image: /uploads/2021/images-2587836.jpg
-video: nil
-audio: nil
-alt: Llega otro lote con 288,990 dosis de Pfizer contra covid
+image: "/uploads/2021/images-2587836.jpg"
+video: "nil"
+audio: "nil"
+alt: "Llega otro lote con 288,990 dosis de Pfizer contra covid"
 front: false
-section: Local
+section: "Local"
+news_id: 184763
 ---
 
 El canciller Marcelo Ebrard informó que esta mañana llegó otro lote con de dosis de Pfizer. “Aterrizó vuelo con 288 990 dosis de  Pfizer”, indicó.

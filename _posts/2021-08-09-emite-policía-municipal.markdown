@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Por la alta afluencia de visitantes en cerros se invita a ir preparados para evitar incidentes"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Emite Policía Municipal recomendaciones para quienes acuden a cerros   
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Emite Policía Municipal recomendaciones para quienes acuden a cerros   "
 front: false
-section: Local
+section: "Local"
+news_id: 186466
 ---
 
 Debido a la temporada de calor y al incremento de chihuahuenses que visitan sitios para practicar deporte o recreación en los cerros, presas y parques alejados de la mancha urbana, muchas veces en compañía de niños y desconociendo los riesgos a los que se exponen, la Dirección de Seguridad Pública Municipal emite recomendaciones para evitar incidentes que además suelen acrecentarse con la entrada de la temporada lluviosa.

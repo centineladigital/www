@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los casos de Covid-19 aumentan cada día y la ocupación de camas en terapia intensiva se encuentra saturada"
-image: /uploads/2021/images-2569001.jpg
-video: nil
-audio: nil
-alt: La pandemia dispara la miseria en las afueras de Buenos Aires
+image: "/uploads/2021/images-2569001.jpg"
+video: "nil"
+audio: "nil"
+alt: "La pandemia dispara la miseria en las afueras de Buenos Aires"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184125
 ---
 
 ntes de la pandemia de covid-19, Daisy García, de 26 años, atendía a unas ochenta personas por día en un comedor comunitario de la provincia de Buenos Aires. Ahora, son cerca de 1.000.

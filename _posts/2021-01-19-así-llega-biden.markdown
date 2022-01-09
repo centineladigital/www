@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Joe Biden llegó a la base aérea de Andrews, en Washington, para la ceremonia de juramento como presidente 46° de Estados Unidos."
-image: /uploads/2021/images-2514686.jpg
-video: nil
-audio: nil
-alt: Así llega Biden a Washington para asumir presidencia de EU
+image: "/uploads/2021/images-2514686.jpg"
+video: "nil"
+audio: "nil"
+alt: "Así llega Biden a Washington para asumir presidencia de EU"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182271
 ---
 
 Joe Biden aterrizó en la base aérea de Andrews, cerca a Washington, en víspera la ceremonia el miércoles en la que jurará como 46º presidente de Estados Unidos.

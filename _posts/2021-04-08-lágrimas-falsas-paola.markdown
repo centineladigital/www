@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de varias historias de Instagram, Paola Rolex –hija del propietario que tenía al elefante Big Boy– reveló que Arturo Islas no está contando la verdad de los hechos: ¿mintió? Esto sabemos. "
-image: /uploads/2021/images-arturo-islas-desmentido-paola-rolex.jpg
-video: nil
-audio: nil
-alt: Lágrimas falsas -  Paola Rolex desmiente a Arturo Islas sobre maltrato a elefante 'Big Boy'
+image: "/uploads/2021/images-arturo-islas-desmentido-paola-rolex.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lágrimas falsas -  Paola Rolex desmiente a Arturo Islas sobre maltrato a elefante 'Big Boy'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183766
 ---
 
 Arturo Islas, activista por la protección de animales y que recientemente salvó al elefante Big Boy después de que la ley en México prohibiera el uso de animales en los circos, está en medio de controversia. ¿Qué hizo? Y es que luego de que criticara a Eugenio Derbez y a Luisito Comunica por supuestamente no ser conscientes del maltrato animal y de sólo apoyar leyes para quedar bien, ahora es señalado por la hija del propietario del Circo Rolex. ¿Arturo Islas quiere explotar al elefante salvado? ¿Lo compró para hacer fama? A través de varias historias de Instagram, Paola Rolex –hija del propietario que tenía al elefante Big Boy– reveló que Arturo Islas no está contando la verdad de los hechos, pues reiteró que ellos tenían al elefante en buenas condiciones .

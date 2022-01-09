@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este martes no se confirman personas fallecidas por Covid-19, por lo que el número de personas de decesos es de 7 mil 878 y los municipios que encabezan la lista son Juárez y Chihuahua"
-image: /uploads/2021/images-WhatsApp_Image_2021-09-14_at_11.23.13.jpeg
-video: /uploads/2021/videos-WhatsApp_Video_2021-09-14_at_10.44.14.3gpp
-audio: nil
-alt: Se registran 96 nuevos contagios de COVID-19 para el estado de Chihuahua 
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-14_at_11.23.13.jpeg"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-09-14_at_10.44.14.3gpp"
+audio: "nil"
+alt: "Se registran 96 nuevos contagios de COVID-19 para el estado de Chihuahua "
 front: false
-section: Local
+section: "Local"
+news_id: 187715
 ---
 
 Hasta el corte de las 7 horas del día 14 de septiembre del 2021, la Secretaría de Salud del Estado de Chihuahua reporta un total de 76,825 (+96) casos confirmados de Covid-19, 65,894 (+43) recuperados. 63,012 (+232) descartados y 802 (-52) sospechosos. 

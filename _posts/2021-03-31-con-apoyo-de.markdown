@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las jóvenes empresarias Paola y Mayté comparten cómo su negocio familiar nace prácticamente con la pandemia"
-image: /uploads/2021/images-La_Tezonera_3.jpeg
-video: nil
-audio: nil
-alt: Con apoyo de Fideapech Salsa “La Tezonera” se convierte en producto nacional
+image: "/uploads/2021/images-La_Tezonera_3.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Con apoyo de Fideapech Salsa “La Tezonera” se convierte en producto nacional"
 front: false
-section: Local
+section: "Local"
+news_id: 183631
 ---
 
 Gracias al apoyo del Fideicomiso Estatal para el Fomento de las Actividades Productivas en el Estado de Chihuahua (Fideapech), a través de un crédito por 100 mil pesos, Paola y Mayté Chávez lograron extender el mercado de la Salsa “La Tezonera”, desde ciudad Cuauhtémoc a diversas partes del país.

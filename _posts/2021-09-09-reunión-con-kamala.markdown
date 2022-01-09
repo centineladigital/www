@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ebrard indicó que ya se tiene previsto un encuentro este año entre el presidente Andrés Manuel López Obrador y su homólogo estadunidense Joe Biden, aunque no adelantó alguna fecha. "
-image: /uploads/2021/images-conferencia-prensa-funcionarios-mexicanos-alejandro_42_18_1143_711_(1).jpg
-video: nil
-audio: nil
-alt: Reunión con Kamala Harris fue exitosa -  Ebrard; estamos optimistas, dice
+image: "/uploads/2021/images-conferencia-prensa-funcionarios-mexicanos-alejandro_42_18_1143_711_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Reunión con Kamala Harris fue exitosa -  Ebrard; estamos optimistas, dice"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187597
 ---
 
 Marcelo Ebrard, secretario de Relaciones Exteriores, indicó que el Diálogo Económico de Alto Nivel entre México y Estados Unidos, en la que estuvo Kamala Karris, vicepresidenta de ese país, fue exitosa. "Fue una reunión exitosa, fue un dialogo de muy buen nivel, con muy buen ánimo, hace mucho tiempo que no estábamos en una reunión así (...)", afirmó Ebrard.   

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Salud de Veracruz reconoció que en el estado ya se tienen registrados casos de cinco de las variantes de covid-19 identificadas hasta el momento."
-image: /uploads/2021/images-pruebas-covid-tania-contreras-1_0_0_1200_747.jpeg
-video: nil
-audio: nil
-alt: En Veracruz, confirman casos de 5 variantes de covid-19
+image: "/uploads/2021/images-pruebas-covid-tania-contreras-1_0_0_1200_747.jpeg"
+video: "nil"
+audio: "nil"
+alt: "En Veracruz, confirman casos de 5 variantes de covid-19"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185696
 ---
 
 Sin decir cuántos casos se han presentado, el secretario de salud, Roberto Ramos Alor, manifestó que el Instituto de Diagnóstico y Referencia Epidemiológicos (InDRE) confirmó mediante los estudios enviados por el Laboratorio Estatal de Salud Pública, que hay pacientes con las variantes Alpha, Gamma, Delta, Épsilon y Lambda.

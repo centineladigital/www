@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Entrarían a análisis tema de casinos, representan peligro por ser lugares cerrados."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-MW02_ARTURO_VALENZUELA.mp3
-alt: Reapertura económica dependerá del semáforo -  Valenzuela
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW02_ARTURO_VALENZUELA.mp3"
+alt: "Reapertura económica dependerá del semáforo -  Valenzuela"
 front: false
-section: Local
+section: "Local"
+news_id: 181925
 ---
 
 La reapertura económica dependerá del semáforo señaló el Director Médico Zona Norte Arturo Valenzuela Zorrilla, esto al ser cuestionado respecto al posible inicio de actividades de bares y centros nocturnos.

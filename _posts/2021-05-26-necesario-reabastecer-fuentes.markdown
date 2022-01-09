@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma Mario Vázquez fomentará acciones hidrícas."
-image: /uploads/2021/images-MARIO.jpg
-video: nil
-audio: /uploads/2021/audio-MW04_MARIO_VAZQUEZ.mp3
-alt: Necesario reabastecer fuentes de agua
+image: "/uploads/2021/images-MARIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW04_MARIO_VAZQUEZ.mp3"
+alt: "Necesario reabastecer fuentes de agua"
 front: false
-section: Local
+section: "Local"
+news_id: 184678
 ---
 
 Como necesario calificó el candidato a diputado por el distrito décimo sexto el que se dé las medidas para fomentar la tecnología con el fin de que se rabastesca el agua, esto ya que colonias no cuentan con el servicio o bien tienen un tandeo que deja solamente tres horas de abastecimiento del vital líquido.

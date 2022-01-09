@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los funcionarios de la localidad de Izumisano notaron la ausencia del levantador de pesas Julius Ssekitoleko, de 20 años, cuando no se presentó hoy a entregar el test diario de covid-19 requerido. "
-image: /uploads/2021/images-desaparece-atleta-equipo-olimpico-uganda_30_25_1159_721.jpg
-video: nil
-audio: nil
-alt: Desaparece atleta de Uganda que participaría en los Juegos Olímpicos
+image: "/uploads/2021/images-desaparece-atleta-equipo-olimpico-uganda_30_25_1159_721.jpg"
+video: "nil"
+audio: "nil"
+alt: "Desaparece atleta de Uganda que participaría en los Juegos Olímpicos"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185717
 ---
 
 Un atleta del equipo olímpico de Uganda, que se encontraba entrenando en una ciudad del oeste de Japón antes del arranque de los Juegos Olímpicos dentro de una semana, está en paradero desconocido, según confirmaron este viernes a Efe las autoridades locales. 

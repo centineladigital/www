@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Bajo la batuta del director internacional Lanfranco Marcelletti, se presentará la interpretación musical Beethoven: Sinfonía Pastoral"
-image: /uploads/2021/images-209317737_1792137557613780_8115956500087478544_n.jpg
-video: nil
-audio: nil
-alt: Con magno concierto arranca mañana la Temporada Otoño de la OFECH
+image: "/uploads/2021/images-209317737_1792137557613780_8115956500087478544_n.jpg"
+video: "nil"
+audio: "nil"
+alt: "Con magno concierto arranca mañana la Temporada Otoño de la OFECH"
 front: false
-section: Local
+section: "Local"
+news_id: 187371
 ---
 
 La Secretaría de Cultura a través de la Orquesta Filarmónica del Estado de Chihuahua (Ofech) iniciará este viernes 3 de septiembre en punto de las 20:00 horas su tradicional Temporada Otoño 2021, con el concierto Beethoven: Sinfonía Pastoral,  en las instalaciones del Teatro de los Héroes en la ciudad de Chihuahua.

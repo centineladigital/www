@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Pagarán a acreedores y aguinaldos de funcionarios."
-image: /uploads/2021/images-JAVIER_CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-ML06_JAVIER_CORRAL.mp3
-alt: Necesario recursos para pago de proveedores y aguinaldos -  Corral
+image: "/uploads/2021/images-JAVIER_CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML06_JAVIER_CORRAL.mp3"
+alt: "Necesario recursos para pago de proveedores y aguinaldos -  Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 181859
 ---
 
 Luego de que durante el mes de diciembre el Gobernador señalara que pedirían un adelanto en las participaciones federales, este lunes en para pagar aguinaldos y adeudos diversos de gobierno. 

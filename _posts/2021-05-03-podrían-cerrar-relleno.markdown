@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma Quezada que Bonilla esta desinformado, esto tras acusarlo de que su administración autorizó construcción de fraccionamientos."
-image: /uploads/2021/images-QUEZADA.jpg
-video: nil
-audio: /uploads/2021/audio-ML06_MARCO_QUEZADA.mp3
-alt: Podrían cerrar relleno sanitario en un año y medio
+image: "/uploads/2021/images-QUEZADA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML06_MARCO_QUEZADA.mp3"
+alt: "Podrían cerrar relleno sanitario en un año y medio"
 front: false
-section: Local
+section: "Local"
+news_id: 184254
 ---
 
 En un plazo de año y medio el relleno sanitario pudiera estar cerrado, según palabras del candidato a la Alcaldía de Chihuahua, Marco Adán Quezada, esto luego de que en rueda de prensa en la que estuvo acompañado de vecinos del fraccionamiento Romanza, se comprometió a ayudar en el problema que representa para varias colonias de Chihuahua.

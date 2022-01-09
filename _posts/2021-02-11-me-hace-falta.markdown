@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante sinaloense estrenará su nuevo álbum el próximo 12 de febrero. "
-image: /uploads/2021/images-falta-espinoza-paz-remodelarse-cara.jpg
-video: nil
-audio: nil
-alt: ¿Me hace falta? -  Espinoza Paz quiere hacerse arreglitos para quedar como Brad Pitt
+image: "/uploads/2021/images-falta-espinoza-paz-remodelarse-cara.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Me hace falta? -  Espinoza Paz quiere hacerse arreglitos para quedar como Brad Pitt"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182855
 ---
 
 En los últimos días el cantante sinaloense, Espinoza Paz, ha generado revuelo en su cuenta de Instagram, donde compartió con sus más de un millón 300 mil seguidores, que estaría dispuesto a hacerse unos "arreglitos" en la cara para parecerse a Brad Pitt. El músico subió una fotografía en la que aparece él y a un lado el actor estadounidense con la leyenda “Así estoy ahorita." con una flecha en dirección a su rostro y  "Después de la recomendación facial, espero quedar así”, haciendo referencia al protagonista de Érase una vez en Hollywood. 

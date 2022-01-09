@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Desconocen regidores forma en la que se distribuyeron las vacunas."
-image: /uploads/2021/images-ADRIANA.jpg
-video: nil
-audio: /uploads/2021/audio-MW01_ADRIANA_DIAZ.mp3
-alt: Sin logistica vacunacion COVID -  Díaz
+image: "/uploads/2021/images-ADRIANA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW01_ADRIANA_DIAZ.mp3"
+alt: "Sin logistica vacunacion COVID -  Díaz"
 front: false
-section: Local
+section: "Local"
+news_id: 182996
 ---
 
 "No sabemos ni como se están manejando" fueron las palabras de la coordinadora de la bancada panista en el Ayuntamiento, Adriana Díaz, al ser cuestionada respecto al tema de la vacunación de coronavirus y que se aplicará a municipios de la zona serrana.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La modelo y empresaria reveló que sufre de trastorno de estrés postraumático tras la filtración sin su consentimiento de dicha grabación. "
-image: /uploads/2021/images-paris-hilton-vuelve-tendencia-redes_0_0_1000_622.jpg
-video: nil
-audio: nil
-alt: La gente fue muy mala conmigo -  Paris Hilton habla de filtración de su video íntimo
+image: "/uploads/2021/images-paris-hilton-vuelve-tendencia-redes_0_0_1000_622.jpg"
+video: "nil"
+audio: "nil"
+alt: "La gente fue muy mala conmigo -  Paris Hilton habla de filtración de su video íntimo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183960
 ---
 
 Paris Hilton habló por primera vez de los estragos psicológicos que le dejó la filtración de su video íntimo en 2004. La empresaria reveló que tras lo sucedido debió enfrentar el acoso mediático y lidiar con los comentarios misóginos, situación similar a la que vivió Britney Spears y que fue abordada en el documental Framing Britney Spears, en el que se demostró cómo el sexismo afectó la vida y carrera artística de La Princesa del Pop. 

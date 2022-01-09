@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "De acuerdo con la SSPC, entre enero y mayo se registró un alza de 7.1% de este delito respecto a 2020; Segob, Conavim e Inmujeres destacan acciones para atender violencia de género"
-image: /uploads/2021/images-2602485.jpg
-video: nil
-audio: nil
-alt: En lo que va de 2021, en México han sido asesinadas 423 mujeres
+image: "/uploads/2021/images-2602485.jpg"
+video: "nil"
+audio: "nil"
+alt: "En lo que va de 2021, en México han sido asesinadas 423 mujeres"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185267
 ---
 
 Entre enero y mayo de 2021 en el país se registraron 423 feminicidios, lo que representó un 7.1 por ciento más que en el mismo periodo de 2020, informó la secretaria de Seguridad Pública y Protección Ciudadana (SSPC), Rosa Icela Rodríguez.

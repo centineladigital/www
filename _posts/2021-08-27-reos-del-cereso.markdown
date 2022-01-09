@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se dañó sistema pero fue reparado inmediatamente."
-image: /uploads/2021/images-emilio.jpg
-video: nil
-audio: /uploads/2021/audio-MV03_EMILIO_GARCIA.mp4
-alt: Reos del CERESO no están incomunicados -  García Ruiz
+image: "/uploads/2021/images-emilio.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV03_EMILIO_GARCIA.mp4"
+alt: "Reos del CERESO no están incomunicados -  García Ruiz"
 front: false
-section: Local
+section: "Local"
+news_id: 187202
 ---
 
 Los reos del CERESO de Aquiles Serdán no se encuentran incomunicados, señaló el titular de la Secretaría de Salud Emilio García Ruiz. Esto tras las quejas de familiares de internos que señalan que no se han podido comunicar de forma telefónica.

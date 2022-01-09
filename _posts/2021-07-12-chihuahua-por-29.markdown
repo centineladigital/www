@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "En área de cobro virtual también el Estado es líder en el tema."
-image: /uploads/2021/images-monito.jpg
-video: nil
-audio: /uploads/2021/audio-ML06.mp3
-alt: Chihuahua por 29 meses consecutivos en líder en fiscalización
+image: "/uploads/2021/images-monito.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML06.mp3"
+alt: "Chihuahua por 29 meses consecutivos en líder en fiscalización"
 front: false
-section: Local
+section: "Local"
+news_id: 185581
 ---
 
 Por 29 meses consecutivos el estado de Chihuahua se ha colocado en el primer lugar en materia de fiscalización, según lo dio a conocer el subsecretario de Ingresos de la Secretaría de Hacienda, Juan Pablo García Delgado. Quien dijo que los ingresos por auditorías fiscales representan 11 mil 449 millones de pesos adicionales.

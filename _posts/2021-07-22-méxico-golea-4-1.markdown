@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "México jugó bien, aguantó cuando tuvo que hacerlo, fue creativo para elaborar jugadas y fueron certeros en el momento indicado"
-image: /uploads/2021/images-E6477epXMAMCl8y.jpg
-video: nil
-audio: nil
-alt: México golea 4-1 a Francia en Tokio e ilusiona con medalla en Juegos Olímpicos
+image: "/uploads/2021/images-E6477epXMAMCl8y.jpg"
+video: "nil"
+audio: "nil"
+alt: "México golea 4-1 a Francia en Tokio e ilusiona con medalla en Juegos Olímpicos"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185894
 ---
 
 La selección mexicana tuvo el debut soñado en los Juegos Olímpicos, pese a todos los pronósticos. México jugó bien, aguantó cuando tuvo que hacerlo, fue creativo para elaborar jugadas y fueron certeros en el momento indicado, y el 4-1 ante Francia fue reflejo de lo que ocurrió en el terreno de juego; sin duda ilusiona la actuación de este equipo.

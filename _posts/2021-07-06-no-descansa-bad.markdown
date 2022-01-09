@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Bad Bunny sigue trabajando y ahora el cantante lanzó su nueva canción De Museo con la que sorprendió a sus seguidores. "
-image: /uploads/2021/images-museo-tercer-tema-bad-bunny.jpg
-video: nil
-audio: nil
-alt: ¡No descansa! Bad Bunny lanza su nueva canción 'De Museo'
+image: "/uploads/2021/images-museo-tercer-tema-bad-bunny.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡No descansa! Bad Bunny lanza su nueva canción 'De Museo'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185392
 ---
 
 Sin duda Bad Bunny es uno de los artistas más populares, esto a pesar de que puede dividir opiniones. Ahora el reguetonero sorprendió a su seguidores con una nueva canción titulada "De Museo", su tema más reciente desde "Yonaguni", que presentó a principios de junio pasado.   

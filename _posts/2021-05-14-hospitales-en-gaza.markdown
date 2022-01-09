@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los enfrentamientos de esta semana entre Israel y los gobernantes de Hamas en Gaza han dejado 103 palestinos muertos, entre ellos 27 niños y 530 personas heridas en el territorio empobrecido"
-image: /uploads/2021/images-2578501.jpg
-video: nil
-audio: nil
-alt: Hospitales en Gaza ahora lidian con heridos por bombardeos
+image: "/uploads/2021/images-2578501.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hospitales en Gaza ahora lidian con heridos por bombardeos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184454
 ---
 
 Hace apenas unas semanas, el frágil sistema de salud de la Franja de Gaza enfrentaba con dificultades un aumento incontrolado de casos de Covid-19. Las autoridades desalojaron quirófanos, suspendieron la atención médica no esencial y asignaron los doctores a los pacientes con dificultad para respirar.

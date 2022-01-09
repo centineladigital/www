@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante su Cuarto Informe de Gobierno, destaca el gobernador Javier Corral el apoyo primordial a personas con alguna discapacidad y el compromiso con la erradicación de la violencia de género"
-image: /uploads/2021/images-1.jpg
-video: nil
-audio: nil
-alt: Se atendió a los sectores más vulnerables  y se garantizó el derecho a la inclusión
+image: "/uploads/2021/images-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se atendió a los sectores más vulnerables  y se garantizó el derecho a la inclusión"
 front: false
-section: Local
+section: "Local"
+news_id: 182655
 ---
 
 “Una de las políticas de la que más orgullosos nos sentimos, es la atención que hemos dado a las personas con alguna discapacidad, para beneficiarlas como ningún otro gobierno lo había hecho antes”, destacó el gobernador Javier Corral Jurado al presentar su Cuarto Informe de Gobierno.

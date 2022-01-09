@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz compartió con sus seguidores de Instagram cómo se encuentra de salud y reveló que se contagió de covid-19 pese a que ya se había vacuna contra el virus. "
-image: /uploads/2021/images-michelle-rodriguez-dio-positivo-a_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Me vacuné y aún así me contagié -  Michelle Rodríguez revela que dio positivo a covid-19
+image: "/uploads/2021/images-michelle-rodriguez-dio-positivo-a_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me vacuné y aún así me contagié -  Michelle Rodríguez revela que dio positivo a covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185441
 ---
 
 Michelle Rodríguez, actriz y comediante conocida por interpretar a Toña en el programa de televisión 40 y 20, dio positivo a covid-19, así lo reveló a través de su cuenta de Instagram en donde compartió con sus seguidores su estado de salud y reveló que se contagió del virus pese a que ya se había aplicado la vacuna. 

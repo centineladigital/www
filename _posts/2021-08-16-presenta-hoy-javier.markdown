@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El evento se transmitirá a las 19:00 horas por todas las plataformas digitales de Gobierno del Estado; también habrá acto de rendición de cuentas en la ciudad de Chihuahua el miércoles 18"
-image: /uploads/2021/images-Invitación_V_Informe.jpg
-video: nil
-audio: nil
-alt: Presenta hoy Javier Corral su Quinto Informe de Gobierno en Ciudad Juárez
+image: "/uploads/2021/images-Invitación_V_Informe.jpg"
+video: "nil"
+audio: "nil"
+alt: "Presenta hoy Javier Corral su Quinto Informe de Gobierno en Ciudad Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 186725
 ---
 
 Hoy a las 19:00 horas, el gobernador Javier Corral rendirá cuentas a las y los juarenses, antes quienes presentará el Quinto Informe de Gobierno y detallará el legado de los 5 años de su Administración.

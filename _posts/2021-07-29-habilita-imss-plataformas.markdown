@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "A través de la página http://www.imss.gob.mx/covid-19/permiso, o la app IMSS Digital, el paciente podrá tramitar su permiso COVID"
-image: /uploads/2021/images-cropw431h282imss-focus-min0.36-min0.19-940-615.jpg
-video: nil
-audio: nil
-alt: Habilita IMSS plataformas electrónicas para tramitar incapacidad por COVID-19 para reducir traslados y evitar contagios
+image: "/uploads/2021/images-cropw431h282imss-focus-min0.36-min0.19-940-615.jpg"
+video: "nil"
+audio: "nil"
+alt: "Habilita IMSS plataformas electrónicas para tramitar incapacidad por COVID-19 para reducir traslados y evitar contagios"
 front: false
-section: Local
+section: "Local"
+news_id: 186100
 ---
 
 Para reducir la movilidad y prevenir riesgos de contagios por COVID-19, el Instituto Mexicano del Seguro Social (IMSS) habilitó desde marzo de 2020 plataformas electrónicas para tramitar en línea el Permiso COVID-19, el cual es homologable a una incapacidad temporal para el trabajo.

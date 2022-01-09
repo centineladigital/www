@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La futbolista se enfrentó a Cecilia 'Wushu' Álvarez y a Doris del Moral en la ronda final. "
-image: /uploads/2021/images-la-futbolista-salio-del-programa.jpg
-video: nil
-audio: nil
-alt: Samara Alcalá es eliminada de 'Exatlón'; así salió del programa
+image: "/uploads/2021/images-la-futbolista-salio-del-programa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Samara Alcalá es eliminada de 'Exatlón'; así salió del programa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182419
 ---
 
 Samara Alcalá fue la expulsada esta noche de eliminación en Exatlón. Antes de la ronda final, Titanes se coronó en la ronda regular al acumular 10 victorias en el circuito, contra las 5 que lograron los Héroes.  Samara fue la primera competidora en acceder a la ronda decisiva, pues fue la que menos puntos acumuló por parte de los azules. La segunda con el puntaje más bajo fue Cecilia Wushu Álvarez. Mientras que la tercera chica en la eliminación fue Doris del Moral, elegida por Casandra Ascencio, la competidora con más puntos del equipo. 

@@ -6,12 +6,13 @@ tags:
   
 author: nil
 description: "Según CONEVAL el PIB debería estar en 25% de inversión "
-image: /uploads/2021/images-ALFREDO_CHAVEZ.jpeg
-video: /uploads/2021/videos-BV03_ALFREDO_CHAVEZ.mp4
-audio: nil
-alt: Se tiene una baja en inversión de programas sociales en el país -  Alfredo Chávez 
+image: "/uploads/2021/images-ALFREDO_CHAVEZ.jpeg"
+video: "/uploads/2021/videos-BV03_ALFREDO_CHAVEZ.mp4"
+audio: "nil"
+alt: "Se tiene una baja en inversión de programas sociales en el país -  Alfredo Chávez "
 front: false
-section: Local
+section: "Local"
+news_id: 187623
 ---
 
  Alfredo Chávez diputado por el PAN en el estado declaró que en el tema social del país según  el CONEVAL afirma que se siguen teniendo bajas de inversión siendo los ideal 25% de PIB en inversión pública y privada.

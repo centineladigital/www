@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto en el marco de los festejos del día del policía."
-image: /uploads/2021/images-GILBERTO_LOYA.jpg
-video: nil
-audio: /uploads/2021/audio-ML04_GILBERTO_LOYA.mp3
-alt: Inaguran galería del Policía
+image: "/uploads/2021/images-GILBERTO_LOYA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04_GILBERTO_LOYA.mp3"
+alt: "Inaguran galería del Policía"
 front: false
-section: Local
+section: "Local"
+news_id: 181861
 ---
 
 De manera virtual se inauguró este lunes una Galería con el fin de dar a conocer la historia que ha tenido la dependencia del municipio de Chihuahua, esta inauguración se llevó a cabo por parte del director de la Dirección de Seguridad Pública Municipal, Gilberto Loya.

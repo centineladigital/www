@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "No me lo han puesto de frente, tráiganmelo y van a ver que plática tan interesante vamos a tener, sentenció el hijo de Anel Noreña. "
-image: /uploads/2021/images-hijo-anel-norena-entrevista-programa.jpg
-video: nil
-audio: nil
-alt: No vales nada -  José Joel arremete contra Manuel José por decir que es hijo de José José
+image: "/uploads/2021/images-hijo-anel-norena-entrevista-programa.jpg"
+video: "nil"
+audio: "nil"
+alt: "No vales nada -  José Joel arremete contra Manuel José por decir que es hijo de José José"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187077
 ---
 
 José Joel, hijo de José José, ofreció una entrevista al programa Sale en sol en la que arremetió contra Manuel José, nombre artístico del cantante Brayan Farnier, quien lleva años diciendo que su padre era el Príncipe de la canción. 

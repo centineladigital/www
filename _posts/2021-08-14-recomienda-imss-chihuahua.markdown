@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Lo ideal es acudir de tres a seis meses previos a la fecha en que se dese intentar la concepción"
-image: /uploads/2021/images-Foto_3925-1.jpg
-video: nil
-audio: nil
-alt: Recomienda IMSS Chihuahua asistir a consulta preconcepcional para un embarazo saludable
+image: "/uploads/2021/images-Foto_3925-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Recomienda IMSS Chihuahua asistir a consulta preconcepcional para un embarazo saludable"
 front: false
-section: Local
+section: "Local"
+news_id: 186705
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, a través de la Coordinación de Salud Pública, exhorta a la población que quiera tener hijos a acudir a la consulta con el médico familiar o especialista para que se efectúe una revisión clínica tanto de la mujer que planea embarazarse, como de su pareja.

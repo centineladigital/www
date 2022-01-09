@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante nacido en Örebro, Suecia, quien está estrenando el tema Cuando hay amor, afirma que la música es el mejor aliado del ser humano."
-image: /uploads/2021/images-compositor-trabajado-importantes-interpretes-barbra.jpg
-video: nil
-audio: nil
-alt: Jonas Myrin desnuda su sensibilidad a través de sus letras
+image: "/uploads/2021/images-compositor-trabajado-importantes-interpretes-barbra.jpg"
+video: "nil"
+audio: "nil"
+alt: "Jonas Myrin desnuda su sensibilidad a través de sus letras"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186154
 ---
 
 El cantautor sueco Jonas Myrin, creador de temas para personaliades como Barbra Streisand, Idina Menzel, Andrea Bocelli, Celine Dion por mencionar algunos de ellas, se encuentra de visita en México para promocionar su más reciente sencillo “Cuando hay amor”, una versión en español de su tema “For the Ones We Love”, que llega en un momento donde es necesario dejar un mensaje a la humanidad a través de la música. 

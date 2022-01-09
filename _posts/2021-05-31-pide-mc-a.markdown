@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto al ser cuestionado sobre acciones contra candidato de Nuevo León. "
-image: /uploads/2021/images-DANTE.jpg
-video: nil
-audio: /uploads/2021/audio-ML01_DANTE_DELGADO.mp3
-alt: Pide MC a Presidente que saque las manos de proceso
+image: "/uploads/2021/images-DANTE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML01_DANTE_DELGADO.mp3"
+alt: "Pide MC a Presidente que saque las manos de proceso"
 front: false
-section: Local
+section: "Local"
+news_id: 184758
 ---
 
 Que el Presidente deje de intervenir en el proceso es lo que ha solicitado el dirigente nacional de Movimiento Ciudadano, Dante Delgado Rannauro. Esto dentro de la gira de trabajo que lleva a cabo por motivo del cierre de campañas del partido Movimiento Ciudadano, el cual él encabeza.

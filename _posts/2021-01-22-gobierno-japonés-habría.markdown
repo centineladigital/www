@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El diario inglés The Times asegura que las autoridades japonesas, buscarán garantizar la sede para Tokio en el año 2032"
-image: /uploads/2021/images-2516222.jpg
-video: nil
-audio: nil
-alt: Gobierno japonés habría decidido cancelar los JO
+image: "/uploads/2021/images-2516222.jpg"
+video: "nil"
+audio: "nil"
+alt: "Gobierno japonés habría decidido cancelar los JO"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182356
 ---
 
 EEl gobierno de Japón ha tomado la determinación de que los Juegos Olímpicos de Tokio que deberían realizarse este verano, sean cancelados a causa de la pandemia del coronavirus. Así lo adelanta el diario británico The Times en su versión digital.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Manifestó que espera que sea un éxito en la participación del campeonato “sigamos juntos en el softbol”"
-image: /uploads/2021/images-SOFTBOL.jpg
-video: /uploads/2021/videos-BJ01CARLOS_DURAN.mp4
-audio: nil
-alt: Se espera que sea un éxito el campeonato “sigamos juntos en el softbol”
+image: "/uploads/2021/images-SOFTBOL.jpg"
+video: "/uploads/2021/videos-BJ01CARLOS_DURAN.mp4"
+audio: "nil"
+alt: "Se espera que sea un éxito el campeonato “sigamos juntos en el softbol”"
 front: false
-section: Local
+section: "Local"
+news_id: 187165
 ---
 
 Carlos Durán Terreros secretario en el comité municipal de softbol manifestó que espera que sea un éxito en la participación del campeonato “sigamos juntos en el softbol” ya que en la edición anterior de  2019 asistieron  21 equipos, aclaró que la secretaria de salud pública municipal está encargada del apoyo hacia la comunidad respecto a la pandemia de covid 19.

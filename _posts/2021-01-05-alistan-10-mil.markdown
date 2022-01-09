@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Anuncia López Obrador que participarán 120 mil servidores públicos y voluntarios; cada grupo vacunaría a 300 personas de la tercera edad a la semana; llama a acabar con ‘influyentismos"
-image: /uploads/2021/images-2506637.jpg
-video: nil
-audio: nil
-alt: Alistan 10 mil brigadas para vacunar a adultos mayores
+image: "/uploads/2021/images-2506637.jpg"
+video: "nil"
+audio: "nil"
+alt: "Alistan 10 mil brigadas para vacunar a adultos mayores"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 181882
 ---
 
 En la segunda etapa del plan nacional de vacunación contra el covid19, el gobierno de la república buscará que la inmunización de la farmacéutica Cansino se aplique en las comunidades más apartadas del país a las personas de la tercera edad y bajo la vigilancia de las fuerzas armadas y la Guardia Nacional para evitar "influyentismo o abusos" y que nadie se meta a la fila.

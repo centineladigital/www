@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cinta Reminiscencia nos recuerda cómo son los thrillers que también nos dejan pensando; M2 habló con el actor australiano al respecto. "
-image: /uploads/2021/images-hugh-jackman-estelariza-pelicula-reminiscencia.jpg
-video: nil
-audio: nil
-alt: Estar presentes y ver las cosas como si fuera la primera vez -  Hugh Jackman sobre 'Reminiscencia'
+image: "/uploads/2021/images-hugh-jackman-estelariza-pelicula-reminiscencia.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estar presentes y ver las cosas como si fuera la primera vez -  Hugh Jackman sobre 'Reminiscencia'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186972
 ---
 
 Nick Bannister (Hugh Jackman) es un científico que encontró el modo de hacer que la gente pueda revisitar su pasado en tiempos de absoluta desesperanza. Todo inicia como una muy buena idea hasta que descubre a un posible amor del pasado, Mae (Rebecca Ferguson), quien lo lleva por una intensa travesía en la que se tiene que cuestionar absolutamente todo lo que está dispuesta a hacer para revelar una conspiración oculta en el tiempo. La cinta es escrita y dirigida por Lisa Joy (WestWorld) y nuevamente une a Hugh y a Rebecca, quienes tuvieron una química explosiva y, sí, problemática en The Greatest Showman, cinta completamente distinta a esta, pero en la que hay un solo elemento en común: un canto repentino.

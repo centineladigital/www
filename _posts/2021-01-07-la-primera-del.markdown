@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Estoy bien, gracias por preocuparse, compartió la conductora en su cuenta de Instagram ante su desafortunado accidente. "
-image: /uploads/2021/images-los-companeros-de-la-famosa.jpg
-video: nil
-audio: nil
-alt: ¡La primera del año! Cynthia Rodríguez sufre caída en transmisión en vivo de 'Venga la Alegría'
+image: "/uploads/2021/images-los-companeros-de-la-famosa.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡La primera del año! Cynthia Rodríguez sufre caída en transmisión en vivo de 'Venga la Alegría'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181958
 ---
 
 Cynthia Rodríguez, la popular conductora de Venga la Alegría, sufrió un accidente mientras participaba en una dinámica en vivo del programa. Destaca que el bochornoso momento lo compartió la también cantante en su cuenta de Instagram.   El incidente sucedió mientras los titulares del matutino estaban en la sección Sin Palabras, que consiste en un juego donde uno hace uso de mímica para dar a conocer el titulo de una película mientras el otro se esfuerza en adivinarlo.

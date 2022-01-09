@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Invita la Secretaría de Salud a tomar la decisión de pre-registrarse si se es mayor de 18 años y se está en la novena semana de gestación, en la plataforma: https://mivacuna.salud.gob.mx/index.php"
-image: /uploads/2021/images-vacuna-embarazo.jpg
-video: nil
-audio: nil
-alt: Vacunación vs COVID-19 a mujeres embarazadas tiene más beneficios que riesgos
+image: "/uploads/2021/images-vacuna-embarazo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Vacunación vs COVID-19 a mujeres embarazadas tiene más beneficios que riesgos"
 front: false
-section: Local
+section: "Local"
+news_id: 184422
 ---
 
 La subdirectora de Medicina Preventiva de la Secretaría de Salud, Wendy Ávila Coronado, afirmó que la vacunación contra COVID-19 en mujeres embarazadas tiene más beneficios que riesgos.

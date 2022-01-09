@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Inicia el 1º de agosto con la participación de 12 países; en la capital del estado se ofrecerán seis obras de teatros, conciertos y lecturas dramatizadas, todas presenciales"
-image: /uploads/2021/images-Fich_presenciales.jpg
-video: nil
-audio: nil
-alt:  Tendrá Festival Internacional Chihuahua 2021 eventos presenciales y virtuales
+image: "/uploads/2021/images-Fich_presenciales.jpg"
+video: "nil"
+audio: "nil"
+alt: " Tendrá Festival Internacional Chihuahua 2021 eventos presenciales y virtuales"
 front: false
-section: Local
+section: "Local"
+news_id: 185840
 ---
 
 La Secretaría de Cultura invita a las y los chihuahuenses a disfrutar de los eventos presenciales que formarán parte de la decimoséptima edición del Festival Internacional Chihuahua, Trasciende Fronteras, la cual iniciará con sus actividades a partir del primero de agosto.

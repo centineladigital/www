@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Alcanza entidad un acumulado de 66 mil 793 casos positivos y 6 mil 859 decesos; a la fecha 9,239 chihuahuenses vigilan que se cumplan las disposiciones sanitarias como Monitores COVID"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Registra Salud  211 nuevos contagios y 10 muertes más por COVID-19 en las últimas horas
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Registra Salud  211 nuevos contagios y 10 muertes más por COVID-19 en las últimas horas"
 front: false
-section: Local
+section: "Local"
+news_id: 184460
 ---
 
 La Secretaría de Salud informó que se tienen en el estado de Chihuahua un total general de 66 mil 793 casos positivos de COVID-19, al confirmar 211 nuevos contagios, así como 10 defunciones más, para alcanzar un acumulado de 6 mil 859 muertes.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La dependencia pide extremar precauciones frente a las tolvaneras que podrían afectar los tramos carreteros Juárez-Janos, Sueco-Ahumada, Jiménez-Parral, y Jiménez-Camargo"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt:  Alerta de Protección Civil -  rachas de viento pueden superar los 75 km/h este jueves y viernes
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: " Alerta de Protección Civil -  rachas de viento pueden superar los 75 km/h este jueves y viernes"
 front: false
-section: Local
+section: "Local"
+news_id: 184050
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) pide tomar precauciones frente a las ráfagas de viento que este jueves y viernes podrían superar los 75 kilómetros por hora (km/h) en la entidad.

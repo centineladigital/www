@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El Presidente indicó que esta empresa pública comenzará en el Valle de México porque fue donde se presentó un mayor descontrol en el incremento del precio del combustible"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: En dos meses iniciará la distribución de gas LP en el Valle de México -  AMLO
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "En dos meses iniciará la distribución de gas LP en el Valle de México -  AMLO"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185929
 ---
 
 El presidente Andrés Manuel López Obrador informó que ya se tienen los terrenos para las centrales de distribución en la Ciudad de México de “Gas Bienestar”, la próxima empresa pública que se encargará de distribuir cilindros de gas LP, además de que ya se cuentan con los cilindros y los camiones repartidores y adelantó que la distribución de esos cilindros iniciará en dos meses en la capital y algunos municipios del Estado de México.

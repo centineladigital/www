@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El conjunto universitario llegó con todas las combinaciones a su favor, sin embargo, terminó cayendo por la mínima diferencia ante las Águilas"
-image: /uploads/2021/images-2571980.jpg
-video: nil
-audio: nil
-alt: América deja a Pumas sin reclasificación
+image: "/uploads/2021/images-2571980.jpg"
+video: "nil"
+audio: "nil"
+alt: "América deja a Pumas sin reclasificación"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 184236
 ---
 
 En una edición más del Clásico Capitalino, las Águilas del América se impusieron por marcador de 1-0 a los Pumas de la UNAM con gol de Henry Martin en duelo correspondiente a la jornada 17 del Guard1anes 2021 disputado en el Estadio Olímpico Universitario, para así, dejar a los universitarios sin oportunidad de jugar el repechaje.

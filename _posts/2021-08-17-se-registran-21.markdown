@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esperan cifra similar al mes de julio."
-image: /uploads/2021/images-GIL.jpg
-video: /uploads/2021/videos-MM05_GILBERTO_LOYA.mp4
-audio: nil
-alt: Se registran 21 homicidios en Chihuahua durante agosto de 2021
+image: "/uploads/2021/images-GIL.jpg"
+video: "/uploads/2021/videos-MM05_GILBERTO_LOYA.mp4"
+audio: "nil"
+alt: "Se registran 21 homicidios en Chihuahua durante agosto de 2021"
 front: false
-section: Local
+section: "Local"
+news_id: 186798
 ---
 
 Durante la primer quincena de agosto se registraron 21 homicidios en el municipio de Chihuahua, según declaración del titular de la Dirección de Seguridad Pública Municipal, Gilberto Loya Chávez. Cifra que es similar a la del mes de julio de presente año, afirmó el funcionario.

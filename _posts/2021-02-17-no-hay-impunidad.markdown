@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Afirma el presidente que se castigará a quien se le demuestre su colusión con el lavado de dinero, clonación de tarjetas bancarias…; urge a UIF informar acerca de este caso"
-image: /uploads/2021/images-2531140.jpg
-video: nil
-audio: nil
-alt: ‘No hay impunidad’ -  López Obrador sobre mafia rumana
+image: "/uploads/2021/images-2531140.jpg"
+video: "nil"
+audio: "nil"
+alt: "‘No hay impunidad’ -  López Obrador sobre mafia rumana"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182988
 ---
 
 El Gobierno de la República no encubrirá a nadie ni permitirá la corrupción, aseveró el presidente Andrés Manuel López Obrador al abordar el caso de la operación de la mafia rumana en el país y de su posible colusión con funcionarios federales y locales en lavado de dinero, clonación de tarjetas bancarias y hackeo de cajeros automáticos.

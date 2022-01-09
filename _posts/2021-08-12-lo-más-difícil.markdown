@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor que protagoniza la serie 'Hasta que te conocí', cuya retransmisión iniciará el próximo sábado por las Estrellas, comparte que en un principio Juan Gabriel rechazó su participación."
-image: /uploads/2021/images-colombiano-julian-roman-interpreto-juan.jpg
-video: nil
-audio: nil
-alt: “Lo más difícil fue interpretar a Alberto Aguilera, no a Juan Gabriel” -  Julián Román
+image: "/uploads/2021/images-colombiano-julian-roman-interpreto-juan.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Lo más difícil fue interpretar a Alberto Aguilera, no a Juan Gabriel” -  Julián Román"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186605
 ---
 
 Este sábado 14, la bioserie Hasta que te conocí sobre la vida de Juan Gabriel vuelve a la pantalla por las Estrellas, y Julián Román, el actor colombiano que dio vida al cantautor michoacano, recuerda que tras realizar el casting fue rechazado por el artista, quien posteriormente le dio el visto bueno para interpretarlo. “Cuando hago la audición y la mando, me dicen: ‘Nos encantó, pero Juan Gabriel quiere que sea mexicano’. Y yo dije: ‘Ah, ok, perfecto’, y me desentendí como 15 días. Después me llaman y me dicen: ‘¿Qué crees?, seguimos buscando al actor, pero Juan Gabriel y nosotros consideramos que no pasa nada si el protagonista no es mexicano’. Y después: ‘Ya nos dio luz verde contigo’. Eso fue un lunes, y me dicen: ‘Te necesitamos el viernes, a más tardar, en Ciudad de México’”. 

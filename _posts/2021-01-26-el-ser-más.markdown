@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Además, ante la pandemia de covid-19, la famosa dijo que espera que todos se puedan poner alguna vacuna contra el virus para que nos podamos abrazar y besar. "
-image: /uploads/2021/images-itati-cantoral-instagram-2.jpg
-video: nil
-audio: nil
-alt: El ser más importante de mi vida -  Itatí Cantoral habla sobre la muerte de su mamá
+image: "/uploads/2021/images-itati-cantoral-instagram-2.jpg"
+video: "nil"
+audio: "nil"
+alt: "El ser más importante de mi vida -  Itatí Cantoral habla sobre la muerte de su mamá"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182467
 ---
 
 El trabajo ha ayudado a que la pandemia de covid-19 no resulte tan pesada para Itatí Cantoral. Así lo reveló la actriz durante una entrevista en el programa Sale el sol, donde además recordó a su mamá, Itatí Zucchi, quien falleció el pasado mes de agosto, y contó que el final de la telenovela que actualmente protagoniza a lado de Juan Soler, La mexicana y el güero, llegará el 7 de febrero. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Acreditan 17 muertes en tan sólo 24 horas."
-image: /uploads/2021/images-WENDY_AVILA.jpg
-video: nil
-audio: /uploads/2021/audio-MV01_WENDI_AVILA.mp3
-alt: Registran 180 nuevos casos COVID
+image: "/uploads/2021/images-WENDY_AVILA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV01_WENDI_AVILA.mp3"
+alt: "Registran 180 nuevos casos COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 182743
 ---
 
 Un total de 180 nuevos casos de personas infectadas por COVID se registró en las últimas 24 horas, así como la acreditación de 17 muertes por esta enfermedad, las cuales se registraron 6 municipios del estado. Según lo dio a conocer Wendy Ávila Coronado, Subdirectora de Medicina Preventiva.

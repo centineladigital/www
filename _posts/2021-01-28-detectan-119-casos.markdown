@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Piden continuar con medidas de sanidad."
-image: /uploads/2021/images-ARTURO_VALENZUELA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01_ARTURO_VALENZUELA.mp3
-alt: Detectan 119 casos COVID en 24 horas
+image: "/uploads/2021/images-ARTURO_VALENZUELA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01_ARTURO_VALENZUELA.mp3"
+alt: "Detectan 119 casos COVID en 24 horas"
 front: false
-section: Local
+section: "Local"
+news_id: 182527
 ---
 
 En las últimas 24 horas detectaron 119 casos de personas que dieron positivo al coronavirus y 15 defunciones fueron acreditadas con lo que se llega a cuatro mil 639 casos de personas fallecidas, mientras que en su totalidad de casos de personas contagiadas son 49 mil 694 que han dado positivo a la prueba PCR.

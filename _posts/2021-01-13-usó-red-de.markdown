@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Una sola empresa fantasma de Ciudad Juárez facturó 107. 4 millones de pesos, aunque el agresivo esquema de evasión se documentó en contratos por un total de 242. 9 millones"
-image: /uploads/2021/images-Diapositiva17.JPG
-video: nil
-audio: nil
-alt: Usó red de corrupción de exgobernador constructoras y alcaldías para evadir impuestos
+image: "/uploads/2021/images-Diapositiva17.JPG"
+video: "nil"
+audio: "nil"
+alt: "Usó red de corrupción de exgobernador constructoras y alcaldías para evadir impuestos"
 front: false
-section: Local
+section: "Local"
+news_id: 182092
 ---
 
 La administración del exgobernador utilizó cinco empresas constructoras con asentamiento en Parral, una facturadora con domicilio en Ciudad Juárez, así como a 15 ayuntamientos, para evadir impuestos fiscales en contratos por 242.9 millones de pesos, informó la Secretaría de Hacienda del Gobierno del Estado.

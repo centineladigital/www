@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El partido de la selección mexicana de futbol por el tercer lugar cambió de horario; conoce cuándo y a qué hora se jugará"
-image: /uploads/2021/images-mexico-vs-japon-tercer-cambia_1_25_1022_637.jpg
-video: nil
-audio: nil
-alt: Partido México vs Japón por la medalla de bronce cambia de horario
+image: "/uploads/2021/images-mexico-vs-japon-tercer-cambia_1_25_1022_637.jpg"
+video: "nil"
+audio: "nil"
+alt: "Partido México vs Japón por la medalla de bronce cambia de horario"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186317
 ---
 
 El partido entre la selección mexicana de futbol y su similar de Japón por la medalla de bronce en los Juegos Olímpicos de Tokio 2020 cambió de horario, así lo informaron los organizadores de la justa veraniega a través de un comunicado.

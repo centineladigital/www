@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma Salud 277 casos positivos y el deceso de 22 personas más en el último reporte epidemiológico"
-image: /uploads/2021/images-Diapositiva3.JPG
-video: nil
-audio: nil
-alt: Aumentan contagios y defunciones por COVID-19 en la entidad
+image: "/uploads/2021/images-Diapositiva3.JPG"
+video: "nil"
+audio: "nil"
+alt: "Aumentan contagios y defunciones por COVID-19 en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 183762
 ---
 
 En el último reporte epidemiológico COVID-19, la Secretaría de Salud confirmó un total general de 59 mil 602 casos positivos, con 277 nuevos registros, así como un acumulado de 5 mil 752 defunciones, con 22 personas más fallecidas en la entidad.

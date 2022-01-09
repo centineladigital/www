@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Las consecuencias del huracán Ida afectan a Luisiana y Misisipi, comunidades que podrían estar sin luz por semanas"
-image: /uploads/2021/images-zonas-mississippi-luisiana-vieron-afectadas.jpeg
-video: nil
-audio: nil
-alt: En EU, miles podrían pasar semanas sin luz tras el paso del huracán 'Ida'
+image: "/uploads/2021/images-zonas-mississippi-luisiana-vieron-afectadas.jpeg"
+video: "nil"
+audio: "nil"
+alt: "En EU, miles podrían pasar semanas sin luz tras el paso del huracán 'Ida'"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187288
 ---
 
 Las comunidades azotadas por el huracán Ida en Luisiana comenzaron el martes a limpiar los escombros y reparar los daños provocados por este evento meteorológico, enfrentando la posibilidad de pasar semanas sin electricidad en el sofocante calor del verano. 

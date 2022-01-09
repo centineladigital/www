@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor estadunidense Johnny Depp denunció boicot de Hollywood tras asuntos legales que ha enfrentado. "
-image: /uploads/2021/images-johnny-depp-dpa.jpg
-video: nil
-audio: nil
-alt: Tras problemas legales, Johnny Depp denuncia boicot de Hollywood hacia él
+image: "/uploads/2021/images-johnny-depp-dpa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tras problemas legales, Johnny Depp denuncia boicot de Hollywood hacia él"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186777
 ---
 
 Johnny Depp denunció boicot de Hollywood hacia él. El actor en los últimos tiempos ha estado inmiscuido en una serie de escándalos y asuntos legales, tanto con su ex esposa Amber Heard, así como contra un medio de comunicación, al que acusó de difamación.

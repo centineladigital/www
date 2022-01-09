@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Javier Corral, utilizó mil 800 millones de pesos los cuales correspondían al gobierno de la Gobernadora Electa, Maru Campos, dejando una deuda extra de 800 millones de pesos, por su parte."
-image: /uploads/2021/images-WhatsApp_Image_2021-08-31_at_13.33.42.jpeg
-video: nil
-audio: nil
-alt: Utilizó Gobierno Saliente 1,800 millones de pesos destinados a la Administración Entrante
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-31_at_13.33.42.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Utilizó Gobierno Saliente 1,800 millones de pesos destinados a la Administración Entrante"
 front: false
-section: Local
+section: "Local"
+news_id: 187299
 ---
 
 En rueda de prensa, Carlos Olson y Luis Aguilar, integrantes del equipo de transición de la Gobernadora Electa Maru Campos y diputados electos, informaron que el Gobierno saliente utilizó 1,800 millones de pesos de participaciones del Gobierno Federal, los cuales estaban destinados para el Gobierno de la administración entrante.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El número de personas fallecidas es de 7 mil 017 con otras 9, de las cuales una se registró en Juárez, 4 en Chihuahua, 1 en Camargo, 1 en Jiménez y 2 en Ahumada"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Confirma Salud otros 133 casos de COVID-19 para llegar a 68,606 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Confirma Salud otros 133 casos de COVID-19 para llegar a 68,606 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184817
 ---
 
 La Secretaría de Salud informó que se registraron 133 nuevos casos y nueve defunciones de COVID-19 en el estado, con lo que el acumulado total es de 68 mil 606 contagios y 7 mil 017 decesos.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fueron tres días de actividades para el análisis de Educación en la Primera Infancia en el Contexto de la Pandemia en las que nueve exponentes abordaron temas sobre Educación Infantil en el Ámbito Formal y No Formal, Neuroeducación y Neurociencia Infantil   "
-image: /uploads/2021/images-ZOOM_2.jpeg
-video: nil
-audio: nil
-alt: Participan más de 600 personas de México, Latinoamérica y Europa en encuentro virtual de Upnech
+image: "/uploads/2021/images-ZOOM_2.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Participan más de 600 personas de México, Latinoamérica y Europa en encuentro virtual de Upnech"
 front: false
-section: Local
+section: "Local"
+news_id: 187466
 ---
 
 La Universidad Pedagógica Nacional del Estado de Chihuahua (Upnech), a través de la Red Estatal de Educación Infantil (Redei), organizó el Primer Encuentro Internacional de Educación en la Primera Infancia en el Contexto de la Pandemia, celebrado de manera virtual.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El ex presidente de Estados Unidos, el magnate republicano Donald Trump, anunció hoy que interpondrá una demanda conjunta contra Facebook, Twitter y Google, intensificando su batalla por la presunta censura de la que asegura ser víctima por parte de los gigantes tecnológicos. "
-image: /uploads/2021/images-trump.jpg
-video: nil
-audio: nil
-alt: Trump demandará a Facebook, Google y Twitter tras suspensión de su cuenta.
+image: "/uploads/2021/images-trump.jpg"
+video: "nil"
+audio: "nil"
+alt: "Trump demandará a Facebook, Google y Twitter tras suspensión de su cuenta."
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185423
 ---
 
  En una rueda de prensa retransmitida desde Bedminster (Nueva Jersey), Trump dijo que buscará probar la ilegalidad del veto de sus cuentas, pero también defender la Primera Enmienda de la Constitución y que las "Big Tech" dejen de "silenciar", "poner en una lista negra" y "cancelar" a los estadunidenses. 

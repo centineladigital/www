@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gustavo Adolfo Infante externó la razón por la que Michelle Rubalcava salió del programa De Primera Mano. Aseguró que él no tuvo que ver en su salida. Aseguró que el presentador no aprendía y que si se quedó sin la oportunidad de ser conductor de la."
-image: /uploads/2021/images-gustavo-adolfo-infante-salida-rubalcava.jpg
-video: nil
-audio: nil
-alt: Por inepto -  Gustavo Adolfo Infante revela por qué salió Michelle Rubalcava de 'DPM'
+image: "/uploads/2021/images-gustavo-adolfo-infante-salida-rubalcava.jpg"
+video: "nil"
+audio: "nil"
+alt: "Por inepto -  Gustavo Adolfo Infante revela por qué salió Michelle Rubalcava de 'DPM'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182803
 ---
 
 Gustavo Adolfo Infante es sin duda uno de los conductores más polémicos del mundo del espectáculo. Sobre el presentador de televisión se han señalado peleas con otros conductores y con artistas. Tal fue el caso de Michelle Rubalcava, quien fue su compañero en De Primera Mano. Sin embargo, tras su salida del programa -que fue de momento a otro-, pues supuestamente habían pedido su salida de la emisión, señaló como responsable a Infante. Por ello, ahora Gustavo Adolfo rompió el silencio y reveló los motivos por los que salió Michelle Rubalcava de DPM. El periodista arremetió en su contra y lo catalogó como “un inepto”. Te contamos la nueva polémica del mundo de la televisión. 

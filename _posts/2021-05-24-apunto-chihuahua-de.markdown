@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Registran tres muertes más y 24 nuevos casos en tan sólo 24 horas."
-image: /uploads/2021/images-diapositiva3-349.jpg
-video: nil
-audio: /uploads/2021/audio-ML01_LETICIA_RUIZ.mp3
-alt: Apunto Chihuahua de llegar a 7 mil muertes por COVID
+image: "/uploads/2021/images-diapositiva3-349.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML02_LETICIA_RUIZ.mp3"
+alt: "Apunto Chihuahua de llegar a 7 mil muertes por COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 184634
 ---
 
 Chihuahua se encuentra a punto de llegar a la cifra de siete mil personas que han perdido la vida por coronavirus, esto ya que al inicio de la semana se reportaron 3 muertes más acreditadas, con lo que se llega a una cifra de seis mil 929 fallecidos por esta causa según fue dado a conocer por parte de la Directora de Medicina y Promoción de la salud, Leticia Ruiz González.

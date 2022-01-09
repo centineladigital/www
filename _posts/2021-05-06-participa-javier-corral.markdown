@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En encuentro vía Zoom, analizan con secretarios de Salud y Educación Pública, los indicadores de la pandemia de COVID-19 y la estrategia general de regreso a clases presencial"
-image: /uploads/2021/images-segob.jpg
-video: nil
-audio: nil
-alt: Participa Javier Corral en reunión de secretaria de Gobernación con mandatarios de todo el país
+image: "/uploads/2021/images-segob.jpg"
+video: "nil"
+audio: "nil"
+alt: "Participa Javier Corral en reunión de secretaria de Gobernación con mandatarios de todo el país"
 front: false
-section: Local
+section: "Local"
+news_id: 184320
 ---
 
 El gobernador Javier Corral participó este jueves en reunión convocada por la secretaria de Gobernación, Olga Sánchez Cordero, con integrantes del gabinete federal y mandatarios de todo el país.

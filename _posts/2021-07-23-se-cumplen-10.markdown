@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante cumple 10 años de haberse unido al 'Club de los 27' pero su legado musical continua hasta nuestros días. "
-image: /uploads/2021/images-amy-winehouse-murio-anos-julio_0_33_380_236.jpg
-video: nil
-audio: nil
-alt: Se cumplen 10 años de la muerte de Amy Winehouse; así cambió durante su carrera musical
+image: "/uploads/2021/images-amy-winehouse-murio-anos-julio_0_33_380_236.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se cumplen 10 años de la muerte de Amy Winehouse; así cambió durante su carrera musical"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185938
 ---
 
 Hoy se cumple un año más de la muerte de Amy Winehouse, quien curiosamente murió a la edad de 27 años, como Robert Johnson, Brian Jones, Jim Morrison, Jimi Hendrix, Janis Joplin y Kurt Cobain; el denominado 'Club de los 27'. 

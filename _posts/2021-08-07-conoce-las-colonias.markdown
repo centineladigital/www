@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Destilichadero se puede solicitar al teléfono 072 o en la aplicación Marca el Cambio"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Conoce las colonias que visitará el Destilichadero la próxima semana
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Conoce las colonias que visitará el Destilichadero la próxima semana"
 front: false
-section: Local
+section: "Local"
+news_id: 186434
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos sigue implementando cada semana el programa de Destilichadero en distintas colonias, con el objetivo de apoyar a los ciudadanos a que tengan una opción para deshacerse de los residuos de gran volumen que el camión recolector no puede retirar.

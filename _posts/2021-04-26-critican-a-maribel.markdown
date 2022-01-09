@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de redes sociales, los usuarios criticaron a Maribel Guardia por aparecer junto a su mascota -un perrito- aparentemente descuidado. "
-image: /uploads/2021/images-acusan-maribel-guardia-aparecer-perrito.jpg
-video: nil
-audio: nil
-alt: Critican a Maribel Guardia por foto con perrito descuidado; redes hacen memes
+image: "/uploads/2021/images-acusan-maribel-guardia-aparecer-perrito.jpg"
+video: "nil"
+audio: "nil"
+alt: "Critican a Maribel Guardia por foto con perrito descuidado; redes hacen memes"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184111
 ---
 
 Maribel Guardia, actriz y conductora de Televisa, sigue cautivando a sus fans al compartir distintas imágenes en sus redes sociales. Recientemente, la ex pareja de Joan Sebastián se volvió tendencia en Twitter, aunque esta vez no por su cuidado personal y portar su edad con orgullo. Esta vez las menciones sobre ella no fueron del todo positivas, pues en una imagen quedó al descubierto la falta de cuidado hacia una de sus mascotas. En una fotografía apareció la famosa junto a su perrito que al parecer no ha recibido un baño ni un corte de pelo. Fue a través de su Instagram, en donde Maribel Guardia compartió una imagen en donde apareció –como es costumbre– luciendo espectacular. En la postal, la famosa aparece con un vestido negro con blanco y su cabellera recogida. 

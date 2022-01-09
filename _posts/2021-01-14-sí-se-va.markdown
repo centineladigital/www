@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Asegura López Obrador que se atenderá a médicos, enfermeras… del país que enfrentan al Covid-19; Informa López-Gatell que autoridades sanitarias esperan registros para su validación"
-image: /uploads/2021/images-2511745.jpg
-video: nil
-audio: nil
-alt: ‘Sí se va a vacunar a personal de hospitales privados’
+image: "/uploads/2021/images-2511745.jpg"
+video: "nil"
+audio: "nil"
+alt: "‘Sí se va a vacunar a personal de hospitales privados’"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182124
 ---
 
 Ante la incertidumbre del personal que labora en hospitales privados que atienden casos de Covid debido a la falta de vacunación, el presidente Andrés Manuel López Obrador aseguró que la dosis de Pfizer/BioNTech también se le aplicará.

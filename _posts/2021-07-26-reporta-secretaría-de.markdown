@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El número de defunciones se mantiene en 7 mil 675 defunciones, indica el reporte epidemiológico"
-image: /uploads/2021/images-REPORTE_COVID_26_JULIO_2021_(14).jpeg
-video: nil
-audio: nil
-alt: Reporta Secretaría de Salud 19 contagios más de COVID-19  y un acumulado de 72,299 casos en el estado
+image: "/uploads/2021/images-REPORTE_COVID_26_JULIO_2021_(14).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Reporta Secretaría de Salud 19 contagios más de COVID-19  y un acumulado de 72,299 casos en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 185991
 ---
 
 La Secretaría de Salud de Chihuahua informó que se registraron 19 contagios más de COVID-19 en el estado y un acumulado general de 72 mil 299, así como de 7 mil 675 defunciones en lo que va de la pandemia.

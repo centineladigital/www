@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En total son ya 16 unidades certificadas"
-image: /uploads/2021/images-Foto_4292-1.jpg
-video: nil
-audio: nil
-alt: Recibe IMSS Chihuahua certificación de “Edificio libre de humo de tabaco” en tres unidades médicas y administrativas 
+image: "/uploads/2021/images-Foto_4292-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Recibe IMSS Chihuahua certificación de “Edificio libre de humo de tabaco” en tres unidades médicas y administrativas "
 front: false
-section: Local
+section: "Local"
+news_id: 187366
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua recibió por parte de la Comisión Estatal para la Protección contra Riesgos Sanitarios (COESPRIS) y la Comisión Estatal de Atención a las Adicciones (CEAADIC) la certificación como Edificio Libre de Humo de Tabaco para tres de sus unidades médicas y administrativas.

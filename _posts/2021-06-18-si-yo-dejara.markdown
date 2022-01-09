@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Solamente fue la respuesta a cuestionamientos del medio afirmó el Gobernador."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-MV03.mp3
-alt: “Si yo dejara el PAN no pienso entrar a otro partido” -  Corral
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV03.mp3"
+alt: "“Si yo dejara el PAN no pienso entrar a otro partido” -  Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 185115
 ---
 
 “Si yo dejará el PAN no pienso entrar otro partido fueron las palabras del Gobernador de Chihuahua, Javier Corral Jurado, esto al ser cuestionado respecto a la publicación a nivel nacional que pudiera emitir un voto a favor de Movimiento Ciudadano.

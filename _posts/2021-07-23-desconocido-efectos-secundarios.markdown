@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Exhortan a vacunarse con el biológico que se tenga al alcance."
-image: /uploads/2021/images-MIRNA.jpg
-video: /uploads/2021/videos-MV05_MIRNA_BELTRAN.mp4
-audio: nil
-alt: Desconocido efectos secundarios de combinación de vacunas
+image: "/uploads/2021/images-MIRNA.jpg"
+video: "/uploads/2021/videos-MV05_MIRNA_BELTRAN.mp4"
+audio: "nil"
+alt: "Desconocido efectos secundarios de combinación de vacunas"
 front: false
-section: Local
+section: "Local"
+news_id: 185955
 ---
 
 Aún no se tiene identificado cuales son los efectos secundarios que pudieran generar la combinación de vacunas por el tema del COVID, señaló la Subsecretaria de Salud Mirna Beltán Arzaga.

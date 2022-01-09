@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Enviaron una carta al líder del cártel del Golfo en la comunidad para tener acceso al campo de exterminio La Bartolina; “apelamos a su compasión para exhumar restos”, dicen"
-image: /uploads/2021/images-el-predio-se-encuentra-a_0_180_689_429.jpg
-video: nil
-audio: nil
-alt: Colectivos piden tregua al 'narco' en Tamaulipas para buscar a desaparecidos
+image: "/uploads/2021/images-el-predio-se-encuentra-a_0_180_689_429.jpg"
+video: "nil"
+audio: "nil"
+alt: "Colectivos piden tregua al 'narco' en Tamaulipas para buscar a desaparecidos"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186163
 ---
 
 La Unión de Colectivos de Madres Buscadoras de Tamaulipas pidió una tregua al líder de la facción del cártel del Golfo para que les permitan el ingreso al campo de exterminio La Bartolina, en Matamoros, para buscar restos de sus familiares desaparecidos. 

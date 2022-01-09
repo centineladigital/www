@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue durante en su reality familiar, en donde Eugenio Derbez volvió a hablar sobre la pelea constante que tiene con Victoria Ruffo, ex pareja y madre de José Eduardo Derbez. Admitió que le tiene rencor. "
-image: /uploads/2021/images-eugenio-derbez-revela-rencor-victoria.jpg
-video: nil
-audio: nil
-alt: Me odiarías -  Eugenio Derbez confiesa que siente rencor contra Victoria Ruffo; piden que olvide
+image: "/uploads/2021/images-eugenio-derbez-revela-rencor-victoria.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me odiarías -  Eugenio Derbez confiesa que siente rencor contra Victoria Ruffo; piden que olvide"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184784
 ---
 
 Eugenio Derbez, actor y comediante, no suelta el tema de Victoria Ruffo y los roces que tuvo con la actriz en el pasado, pues desde hace tiempo asegura que ella fue la causante de que no pudiera ver a su hijo José Eduardo Derbez por muchos años. En este sentido, recientemente de nueva cuenta dejó claro el rencor que siente contra Ruffo y recordó la vez que “secuestró” a su hijo cuando era apenas un niño. 

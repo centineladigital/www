@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Resalta Javier Corral el trabajo de la Comisión de Derechos Humanos en el Estado, esto pese a recomendaciones emitidas por el organismo."
-image: /uploads/2021/images-JAVIER_CORRAL1.jpg
-video: nil
-audio: /uploads/2021/audio-MJ05_JAVIER_CORRAL.mp3
-alt: Gobierno no es contraparte de los Derechos Humanos
+image: "/uploads/2021/images-JAVIER_CORRAL1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ05_JAVIER_CORRAL.mp3"
+alt: "Gobierno no es contraparte de los Derechos Humanos"
 front: false
-section: Local
+section: "Local"
+news_id: 182531
 ---
 
 El Gobierno no es contraparte de los Derechos Humanos, fueron las palabras del Gobernador de Chihuahua,  Javier Corral Jurado, dentro del informe anual que presentó el titular de la Comisión Estatal de Derechos Humanos.

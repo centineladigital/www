@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con goles de Roger Martínez y Álvaro Fidalgo, en su segundo partido al hilo como visitantes, las Águilas se impusieron a los fronterizos "
-image: /uploads/2021/images-jugadores-america-festejando-gol-juarez_0_26_1200_747.jpg
-video: nil
-audio: nil
-alt: América vence a Juárez y sigue como líder del Apertura 2021
+image: "/uploads/2021/images-jugadores-america-festejando-gol-juarez_0_26_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "América vence a Juárez y sigue como líder del Apertura 2021"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186868
 ---
 
 América defiende su liderato, lo hace por lo civil o por lo criminal, cuando se ve en la necesidad de ir a remolque demuestra que tiene los recursos para ofender. Se impuso por 1-2 a FC Juárez, segundo partido como visitante sumando de a tres y eso lo tiene en la cima de la clasificación. 

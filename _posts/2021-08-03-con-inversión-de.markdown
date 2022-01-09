@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La Alcaldesa encabezó el arranque de obra"
-image: /uploads/2021/images-unnamed_(17).jpg
-video: nil
-audio: nil
-alt: Con inversión de 5 mdp inicia 2da etapa de rehabilitación en parque de Villas del Real
+image: "/uploads/2021/images-unnamed_(17).jpg"
+video: "nil"
+audio: "nil"
+alt: "Con inversión de 5 mdp inicia 2da etapa de rehabilitación en parque de Villas del Real"
 front: false
-section: Local
+section: "Local"
+news_id: 186267
 ---
 
 A fin de fomentar la sana convivencia y el deporte entre los vecinos de Villas del Real el Gobierno Municipal dio inicio a la segunda etapa de rehabilitación del parque ubicado en la avenida Paseos del Real y calle Mina Candelaria, espacio que es ejemplo de participación social ya que fue uno de los proyectos ganadores del Presupuesto Participativo 2020 y 2021.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto como resultado de los súper-cierrres que se dieron los últimos dos fines de semana."
-image: /uploads/2021/images-EDUARDO_FERNANDEZ.jpg
-video: nil
-audio: /uploads/2021/audio-MV02_EDUARDO_FERNANDEZ.mp4.mp3
-alt: Chihuahua continuará en naranja
+image: "/uploads/2021/images-EDUARDO_FERNANDEZ.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV02_EDUARDO_FERNANDEZ.mp4.mp3"
+alt: "Chihuahua continuará en naranja"
 front: false
-section: Local
+section: "Local"
+news_id: 184352
 ---
 
 Este viernes el Secretario de Salud dio a conocer que el estado continuará en naranja, esto tras darse a conocer que como resultado de los súper-cierres que se registró durante los dos pasados fines de semana, se logró contener la estadística de casos, la cual bajó 5 puntos en 15 días. Sin embargo, dijo, esto no quiere decir que vamos en buen camino.

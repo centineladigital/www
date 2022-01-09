@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Autoridades de Estados Unidos revelaron que varios manuales para hacer bombas fueron encontrados dentro de una casa que pertenece al grupo 'Proud Boys' y que participó en el asalto al Capitolio."
-image: /uploads/2021/images-2520675.jpg
-video: nil
-audio: nil
-alt: Hallan 'manuales para fabricar bombas' en casa de grupo que asaltó Capitolio
+image: "/uploads/2021/images-2520675.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hallan 'manuales para fabricar bombas' en casa de grupo que asaltó Capitolio"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182570
 ---
 
 Agentes policiales estadunidenses encontraron instrucciones para hacer bombas dentro de la casa de un miembro del grupo extremista Proud Boys, que fue acusado de participar en el asedio del Capitolio el 6 de enero, dijeron los fiscales en un expediente judicial el viernes.

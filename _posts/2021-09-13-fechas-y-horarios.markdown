@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Esta semana regresa el torneo más importante del mundo a nivel de clubes"
-image: /uploads/2021/images-siu.jpg
-video: nil
-audio: nil
-alt: Fechas y horarios de todos los partidos de la J1 de la Champions League
+image: "/uploads/2021/images-siu.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fechas y horarios de todos los partidos de la J1 de la Champions League"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187668
 ---
 
 La Champions League regresa este martes a la actividad y grandes duelos nos esperan esta semana. Los grupos se definieron en el sorteo el 26 de agosto y por fin llegó el momento de ver a los mejores equipos de Europa en acción. 

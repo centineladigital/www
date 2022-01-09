@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Niurka enseñó los senos en plena entrevista en De Primera Mano; así reaccionaron los conductores del programa. "
-image: /uploads/2021/images-niurka-entrevista_42_0_1045_650.jpg
-video: nil
-audio: nil
-alt: Niurka enseña los senos en 'De Primera Mano'; así reaccionaron los conductores
+image: "/uploads/2021/images-niurka-entrevista_42_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "Niurka enseña los senos en 'De Primera Mano'; así reaccionaron los conductores"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184543
 ---
 
 Sin duda Niurka Marcos es una de las mujeres más polémicas del espectáculo, ya que ha demostrado que no tiene “pelos en la lengua” al momento de arremeter contra alguien o defenderse, además que tampoco tiene tapujos en cuanto a su cuerpo, es por eso que en plena entrevista en De Primera Mano, la cubana decidió enseñar los senos. En dicha entrevista, Niurka fue cuestionada sobre las últimas fotos que subió a Instagram que se tomó en Zipolite, Oaxaca en donde enseñó los senos, los cuales fueron tapados con la leyenda de “Censored”, ante esto, a la cubana se le hizo buena idea enseñar sus atributos en vivo. 

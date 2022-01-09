@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ambos conductores aceptaron que rompieron la veda electoral; mientras Echeverría señaló que asumirá las consecuencias de su error, Lambda pidió un alto a los ataques en su contra. "
-image: /uploads/2021/images-lambda-garcia-mariana-echeverria-disculpan_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: No nos agredamos -  Lambda García y Mariana Echeverría se disculpan por violar veda electoral
+image: "/uploads/2021/images-lambda-garcia-mariana-echeverria-disculpan_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "No nos agredamos -  Lambda García y Mariana Echeverría se disculpan por violar veda electoral"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184946
 ---
 
 Mariana Echeverría y Lambda García reaparecieron en redes sociales tras verse involucrados en la polémica que se armó en medio de las elecciones que se llevaron el pasado domingo 6 de junio. Y es que los conductores fueron señalados en la lista de influencers, actores y otras personalidades del espectáculo mexicano que violaron la veda electoral por compartir mensajes a través de sus redes sociales en apoyo al Partido Verde Ecologista de México (PVEM).  

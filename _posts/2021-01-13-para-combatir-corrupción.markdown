@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Encabeza gobernador Javier Corral la entrega del equipo de video en el que se invirtió 2 millones de pesos"
-image: /uploads/2021/images-DSC_9066.jpg
-video: nil
-audio: nil
-alt: Para combatir corrupción, reciben 400 agentes de la Policía vial cámaras de solapa
+image: "/uploads/2021/images-DSC_9066.jpg"
+video: "nil"
+audio: "nil"
+alt: "Para combatir corrupción, reciben 400 agentes de la Policía vial cámaras de solapa"
 front: false
-section: Local
+section: "Local"
+news_id: 182120
 ---
 
 El gobernador Javier Corral encabezó la entrega de 400 cámaras de video de solapa a igual número de agentes de la Policía Vial, que forman parte de la Secretaría de Seguridad Pública Estatal con inversión de 2 millones de pesos.

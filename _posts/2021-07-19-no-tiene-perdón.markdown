@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante señaló a su ex esposa en redes por permitir que sus hijos vieran a Alfonso Ponce, pareja de Mayeli Alonso, bajarse los pantalones en una fiesta. "
-image: /uploads/2021/images-lupillo-rivera-explota-mayeli-alonso.jpg
-video: nil
-audio: nil
-alt: No tiene perdón -  Lupillo Rivera 'explota' contra Mayeli Alonso por exponer a sus hijos
+image: "/uploads/2021/images-lupillo-rivera-explota-mayeli-alonso.jpg"
+video: "nil"
+audio: "nil"
+alt: "No tiene perdón -  Lupillo Rivera 'explota' contra Mayeli Alonso por exponer a sus hijos"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185812
 ---
 
 Lupillo Rivera, conocido como El Toro del Corrido, y Mayeli Alonso están de nuevo envueltos en la polémica luego de que el hermano de Jenni Rivera acusara a su ex esposa de exponer a sus hijos, Lupita y LRey, durante una fiesta en donde Alfonso Ponce, actual pareja de la famosa, se bajó los pantalones y realizó un supuesto striptease delante de los menores de edad. 

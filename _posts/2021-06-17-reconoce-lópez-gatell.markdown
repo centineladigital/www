@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Gobernador participa en reunión de mandatarios estatales con el gabinete federal"
-image: /uploads/2021/images-Reunión_nacional_de_salud_con_gobenadores_y_gabinete_federal.jpg
-video: nil
-audio: nil
-alt: Reconoce López Gatell manejo del Gobierno de Chihuahua para frenar contagios de COVID-19
+image: "/uploads/2021/images-Reunión_nacional_de_salud_con_gobenadores_y_gabinete_federal.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reconoce López Gatell manejo del Gobierno de Chihuahua para frenar contagios de COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 185086
 ---
 
 El subsecretario de Prevención y Promoción de la Salud del Gobierno de México, Hugo López Gatell, hizo un reconocimiento explícito al Gobierno del Estado por la manera en que se enfrentó el aumento de casos de contagios de COVID-19 en meses pasados, con medidas estrictas y muy criticadas en su momento, pero a la postre muy efectivas, informó el gobernador Javier Corral Jurado.

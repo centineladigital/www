@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Anuncian que continuará de la misma forma."
-image: /uploads/2021/images-jauregui.jpg
-video: /uploads/2021/videos-MW01_CESAR_JAUREGUI.mp4
-audio: nil
-alt: No desaparecerá Secretaría de Cultura
+image: "/uploads/2021/images-jauregui.jpg"
+video: "/uploads/2021/videos-MW01_CESAR_JAUREGUI.mp4"
+audio: "nil"
+alt: "No desaparecerá Secretaría de Cultura"
 front: false
-section: Local
+section: "Local"
+news_id: 187113
 ---
 
 El área de cultura permanecerá como secretaría, esto tras enviar por parte de la Gobernadora electa María Eugenia Campos Galván una iniciativa que fusionaría de nueva cuenta el área educativa con el área cultural.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En Texas termina oficialmente una orden local de usar cubrebocas de forma obligatoria, además de las restricciones de ocupación de los negocios por la pandemia de covid-19"
-image: /uploads/2021/images-2542619.jpg
-video: nil
-audio: nil
-alt: Texas despierta 'libre' del cubrebocas y de restricciones por covid
+image: "/uploads/2021/images-2542619.jpg"
+video: "nil"
+audio: "nil"
+alt: "Texas despierta 'libre' del cubrebocas y de restricciones por covid"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183364
 ---
 
 El estado de Texas en Estados Unidos puso fin este miércoles a una orden local de usar cubrebocas de forma obligatoria y a las restricciones de ocupación de los negocios, una medida que algunos han defendido como un acto de libertad y que otros han descrito como estupidez.

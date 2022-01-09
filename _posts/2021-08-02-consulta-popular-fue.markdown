@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Presidente destacó que nunca había participado tanta gente en una consulta de las que se han registrado históricamente"
-image: /uploads/2021/images-andres-manuel-lopez-obrador-ariel.jpg
-video: nil
-audio: nil
-alt: Consulta popular fue un triunfo; estoy contento -  AMLO
+image: "/uploads/2021/images-andres-manuel-lopez-obrador-ariel.jpg"
+video: "nil"
+audio: "nil"
+alt: "Consulta popular fue un triunfo; estoy contento -  AMLO"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186180
 ---
 
 El presidente Andrés Manuel López Obrador calificó como un triunfo la consulta popular para enjuiciar a actores políticos del pasado, pese a que en ésta sólo participaron casi 7 millones de personas porque marca el inicio formal y legal de la democracia participativa en México; "estoy contento", dijo.  

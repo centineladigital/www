@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Gobierno del Estado de Chihuahua a través de la Coordinación Estatal de Protección Civil pide extremar precauciones, ya que se mantendrán los fuertes vientos durante la semana"
-image: /uploads/2021/images-SISTEMA_METEOROLÓGICO_(2).jpeg
-video: nil
-audio: nil
-alt: Emiten aviso preventivo por ingreso del Frente Frío 40 este jueves
+image: "/uploads/2021/images-SISTEMA_METEOROLÓGICO_(2).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Emiten aviso preventivo por ingreso del Frente Frío 40 este jueves"
 front: false
-section: Local
+section: "Local"
+news_id: 183220
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) advirtió sobre fuertes vientos que podrían superar los 75 kilómetros por hora (km/h) este jueves, debido al ingreso del Frente Frío 40 a la entidad.

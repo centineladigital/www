@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Los trabajos ganadores, escritos en lenguas warijó y ralámuli por Nahomí Rascón, Roberto Cruz, así como Julio y Luis Ernesto Quimare Quimare, se publicarán en una antología de esta edición"
-image: /uploads/2021/images-WhatsApp_Image_2021-08-09_at_15.49.08_(5).jpeg
-video: nil
-audio: nil
-alt: Entregan premio Enrique Servín 2021  a niña y niños de comunidades indígenas
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-09_at_15.49.08_(5).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Entregan premio Enrique Servín 2021  a niña y niños de comunidades indígenas"
 front: false
-section: Local
+section: "Local"
+news_id: 186517
 ---
 
 En el marco del Día Internacional de los Pueblos Indígenas, la Secretaría de Cultura hizo entrega del premio Enrique Servín, a las y los ganadores de este certamen, mediante el cual se busca promover entre niñas, niños y adolescentes indígenas, la escritura creativa en lenguas originarias.

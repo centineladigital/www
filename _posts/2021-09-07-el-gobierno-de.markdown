@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Mencionó que la siguiente administración tiene obligación moral y política de juzgar al ex gobernador Cesar Duarte "
-image: /uploads/2021/images-CHAVEZ.jpg
-video: /uploads/2021/videos-WhatsApp_Video_2021-09-07_at_1.36.21_PM_(1).mp4
-audio: nil
-alt: El gobierno de Maru Campos debe juzgar a Cesar Duarte 
+image: "/uploads/2021/images-CHAVEZ.jpg"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-09-07_at_1.36.21_PM_(1).mp4"
+audio: "nil"
+alt: "El gobierno de Maru Campos debe juzgar a Cesar Duarte "
 front: false
-section: Local
+section: "Local"
+news_id: 187522
 ---
 
  El diputado por el PAN Alfredo Chávez mencionó que la siguiente administración tiene obligación moral y política de juzgar al ex gobernador Cesar Duarte por los actos de corrupción de los cuales es acusado.

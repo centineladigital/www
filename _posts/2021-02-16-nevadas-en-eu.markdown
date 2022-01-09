@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Esta tarde llegará parte de las dosis contra Covid-19 programas para nuestro país; llega a Monterrey, Nuevo León, avión con 5 mil unidades del inmunológico"
-image: /uploads/2021/images-2530350.jpg
-video: nil
-audio: nil
-alt: Nevadas en EU retrasan envío de vacunas de Pfizer a México
+image: "/uploads/2021/images-2530350.jpg"
+video: "nil"
+audio: "nil"
+alt: "Nevadas en EU retrasan envío de vacunas de Pfizer a México"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182954
 ---
 
 Después de las 12:30 horas de este martes aterrizará el vuelo de carga de la aerolínea Cargo Jet, con un cargamento de 491 mil 400 vacunas de Pfizer BioNtech contra el Covid-19, que se retrasó debido a las malas condiciones del clima en Estados Unidos.

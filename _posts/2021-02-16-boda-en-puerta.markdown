@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor, conocido por dar vida a Nicolás en 'Rebelde', dio a conocer que se comprometió y muy pronto llegará al altar. "
-image: /uploads/2021/images-rodrigo-nehme-actor-rebelde-anuncia_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¡Boda en puerta! Rodrigo Nehme, actor de 'Rebelde', anuncia su compromiso
+image: "/uploads/2021/images-rodrigo-nehme-actor-rebelde-anuncia_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Boda en puerta! Rodrigo Nehme, actor de 'Rebelde', anuncia su compromiso"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182973
 ---
 
 Rodrigo Nehme, conocido por interpretar a Nicolás en la telenovela Rebelde, anunció que pronto llegará al altar con su novia, Denise Thuss. El actor, de 38 años, aprovechó este 14 de febrero, Día de los enamorados, para pedirle a su pareja matrimonio, así lo dio a conocer en sus redes sociales, donde también compartió los detalles de cómo le entregó el anillo de compromiso. A través de su cuenta de Instagram, Rodrigo Nehme compartió fotografías del momento exacto en el que pidió a su novia matrimonio. Señaló que antes consideraba San Valentín una fecha sin gran importancia, pero que ahora representa el inicio de una nueva etapa de su vida con Denise Thuss. 

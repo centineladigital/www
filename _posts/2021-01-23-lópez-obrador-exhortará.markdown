@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente se congratuló de que su homólogo aceptara su postura de que es necesario impulsar la cooperación para el desarrollo en Centroamérica"
-image: /uploads/2021/images-2517112.jpg
-video: nil
-audio: nil
-alt: López Obrador exhortará a legisladores de EU para aprobar iniciativa de Biden
+image: "/uploads/2021/images-2517112.jpg"
+video: "nil"
+audio: "nil"
+alt: "López Obrador exhortará a legisladores de EU para aprobar iniciativa de Biden"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182402
 ---
 
 La iniciativa de reforma migratoria que el presidente de los Estados Unidos Joe Biden envió al congreso de ese país fue agradecida por el presidente Andrés Manuel López Obrador en la llamada telefónica que tuvieron el viernes, aseguró Andrés Manuel López Obrador.

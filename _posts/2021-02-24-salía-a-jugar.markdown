@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "También (conocí) a Alex, su hermano, y Sergio era un bebé. Y Marcela Basteri, su mamá, los sacaba al parque en su carreolita y siempre estaba sola, recordó la conductora. "
-image: /uploads/2021/images-vecina_luis_miguel.jpg
-video: nil
-audio: nil
-alt: Salía a jugar con nosotros -  Mónica Noguera recuerda cómo fue ser vecina de Luis Miguel
+image: "/uploads/2021/images-vecina_luis_miguel.jpg"
+video: "nil"
+audio: "nil"
+alt: "Salía a jugar con nosotros -  Mónica Noguera recuerda cómo fue ser vecina de Luis Miguel"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183132
 ---
 
 Netflix anunció la fecha de estreno de la segunda temporada de la serie que cuenta la vida de Luis Miguel y las reacciones no se hicieron esperar: en todos los programas de espectáculos, los conductores comentaron lo que probablemente podrá verse en estos capítulos. Aunque en la emisión Qué Chulada, la conductora Mónica Noguera agregó una anécdota muy especial al momento de abordar esta noticia: contó cómo fue ser vecina de Luis Miguel cuando ella era niña y él comenzaba su carrera artística a los 12 años 

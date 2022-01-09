@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Autoridad Meteorológica de Sudán advirtió que la temporada de lluvias ha llegado a su punto máximo de intensidad y que podría mantenerse en este nivel hasta mediados de septiembre"
-image: /uploads/2021/images-inundaciones-sudan-dejan-muertos-derrumbes-1_0_47_1024_638.jpg
-video: nil
-audio: nil
-alt: Inundaciones en Sudán dejan al menos 24 muertos y más de 30 heridos
+image: "/uploads/2021/images-inundaciones-sudan-dejan-muertos-derrumbes-1_0_47_1024_638.jpg"
+video: "nil"
+audio: "nil"
+alt: "Inundaciones en Sudán dejan al menos 24 muertos y más de 30 heridos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186442
 ---
 
 El Consejo de Defensa Civil sudanés informó que por la temporada de lluvias durante el verano, han causado este año 24 muertes, más de treinta heridos y derrumbe de más de dos mil viviendas en distintos puntos del país. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ghani dijo que los talibanes no cumplieron con las condiciones acordadas en su pacto de febrero de 2020 con Estados Unidos de reducir sus ataques en en el país y romper sus vínculos de larga duración con Al Qaeda"
-image: /uploads/2021/images-2520623.jpg
-video: nil
-audio: nil
-alt: Presidente de Afganistán insta a Biden a presionar a los talibanes
+image: "/uploads/2021/images-2520623.jpg"
+video: "nil"
+audio: "nil"
+alt: "Presidente de Afganistán insta a Biden a presionar a los talibanes"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182568
 ---
 
 El presidente de Afganistán, Ashraf Ghani, instó el viernes a la nueva administración de Estados Unidos a que aumente la presión sobre los talibanes y a que no se precipite para retirar más tropas.

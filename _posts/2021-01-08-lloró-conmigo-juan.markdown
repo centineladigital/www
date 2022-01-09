@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Después de haberse contagiado de covid-29 y ponerse muy mal, Juan Osorio reveló que durante este tiempo su ex pareja, Niurka, estuvo al pendiente de él. "
-image: /uploads/2021/images-niurka-apoyo-a-juan-osorio_48_0_1045_650.jpg
-video: nil
-audio: nil
-alt: “Lloró conmigo” -  Juan Osorio revela que Niurka se preocupó tras contagio de covid-19
+image: "/uploads/2021/images-niurka-apoyo-a-juan-osorio_48_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Lloró conmigo” -  Juan Osorio revela que Niurka se preocupó tras contagio de covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181992
 ---
 
 Hace unas semanas se informó que Juan Osorio se había contagiado de covid-19, razón por la que estuvo delicado de salud. Y ahora que se está recuperando y que está de vuelta en los foros de Televisa, aunque de manera parcial, el productor habló sobre los días en que estuvo enfermo y reveló que su ex pareja, Niurka, estuvo al pendiente de él en todo momento. En una entrevista con varios medios, la cual fue retomada por el programa De Primera Mano, Juan Osorio mencionó todo lo que vivió cuando se contagió de coronavirus y los cuidados que tuvo. 

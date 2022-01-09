@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pese a despedirse sin medalla, el clavadista no cree que se le puede reprochar algo en su carrera y ya piensa en su etapa como diputado federal "
-image: /uploads/2021/images-rommel-pacheco-quedo-fuera-del_7_0_1010_628.jpg
-video: nil
-audio: nil
-alt: Me voy feliz, lo di todo -  Rommel Pacheco tras retirarse de los clavados
+image: "/uploads/2021/images-rommel-pacheco-quedo-fuera-del_7_0_1010_628.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me voy feliz, lo di todo -  Rommel Pacheco tras retirarse de los clavados"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186544
 ---
 
 Después de 28 años, Rommel Pacheco puso fin a su carrera en Tokio, con la espinita de no ganar medalla, pero no considera que haya ido con una deuda sin cumplir, pues su trayectoria fue ejemplar y lo ganó casi todo. 

@@ -11,13 +11,14 @@ tags:
   - chihuahua
   
 author: nil
-description: "Resultaron ganadores cinco jóvenes artistas y una banda de cinco integrantes  "
-image: /uploads/2021/images-unnamed_(6).jpg
-video: nil
-audio: nil
-alt: Culminan actividades del mes de la Juventud con final de “Expresa tu Talento, Época de Oro”
+description: "En la que resultaron ganadores cinco jóvenes artistas y una banda de cinco integrantes  "
+image: "/uploads/2021/images-unnamed_(6).jpg"
+video: "nil"
+audio: "nil"
+alt: "Culminan actividades del mes de la Juventud con final de “Expresa tu Talento, Época de Oro”"
 front: false
-section: Local
+section: "Local"
+news_id: 187262
 ---
 
 Como parte de los festejos por el mes de la Juventud, el Gobierno Municipal a través de la Dirección de Desarrollo Humano y Educación realizó la final del concurso “Expresa tu Talento, Época de Oro”, en la que resultaron ganadores cinco jóvenes artistas y una banda de cinco integrantes.

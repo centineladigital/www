@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma Salud 7 mil 259 decesos en el último reporte epidemiológico; sigue el municipio de Chihuahua con el mayor número de casos activos en las últimas dos semanas con 141, seguido de Juárez con 64"
-image: /uploads/2021/images-Diapositiva3.JPG
-video: nil
-audio: nil
-alt: Supera  el estado de Chihuahua los 70 mil contagios por COVID-19
+image: "/uploads/2021/images-Diapositiva3.JPG"
+video: "nil"
+audio: "nil"
+alt: "Supera  el estado de Chihuahua los 70 mil contagios por COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 185136
 ---
 
 En los 15 meses de pandemia por COVID-19 suman en la entidad 70 mil 008 contagios acumulados y 7 mil 259 defunciones confirmadas, de acuerdo al último reporte epidemiológico que emite la Secretaría de Salud.

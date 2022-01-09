@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Programa Mundial de Alimentos de la ONU clama por ayuda para El Salvador, Guatemala, Honduras y Nicaragua, azotados por hambrunas causadas por la pandemia y los desastres naturales"
-image: /uploads/2021/images-2534249.jpg
-video: nil
-audio: nil
-alt: Centroamérica sufre grave crisis por hambruna, alerta ONU
+image: "/uploads/2021/images-2534249.jpg"
+video: "nil"
+audio: "nil"
+alt: "Centroamérica sufre grave crisis por hambruna, alerta ONU"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183102
 ---
 
 El Programa Mundial de Alimentos (PMA) lanzó este martes un llamado urgente para ayudar a cuatro países de Centroamérica (El Salvador, Guatemala, Honduras y Nicaragua) azotados por graves hambrunas causadas por la crisis económica desata por el covid-19 y los desastres naturales.

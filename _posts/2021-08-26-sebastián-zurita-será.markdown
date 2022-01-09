@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Netflix dio a conocer los actores que se unen a la tercera temporada de la bioserie de Luis Miguel, la cuál llegará a su fin con esta entrega. "
-image: /uploads/2021/images-aun-no-se-revela-la.jpg
-video: nil
-audio: nil
-alt: ¡Sebastián Zurita será Alex! Revelan actores que se unen a tercera temporada de 'Luis Miguel, la serie'
+image: "/uploads/2021/images-aun-no-se-revela-la.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Sebastián Zurita será Alex! Revelan actores que se unen a tercera temporada de 'Luis Miguel, la serie'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187140
 ---
 
 Apenas hace unos meses se estrenó la segunda temporada de Luis Miguel: la serie, la cual estuvo llena de controversia, a pesar de esto, los fans de El Sol esperan con ansías la tercera entrega; es por eso que Netflix ya anunció quiénes serán los actores que se unen a la última temporada, en donde conoceremos más secretos sobre la vida del cantante. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pese a que Interjet descartó que el empresario fuera detenido por adeudos fiscales de la aerolínea, la jefa del SAT, Raquel Buenrostro, aseguró que Del Valle sí es el responsable directo"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Alejandro del Valle sí es responsable del adeudo fiscal de Interjet -  SAT
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Alejandro del Valle sí es responsable del adeudo fiscal de Interjet -  SAT"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187605
 ---
 
 Si bien la detención del presidente del consejo de administración de Interjet, Alejandro del Valle, fue por otros motivos, es responsable solidario del adeudo fiscal de Interjet, puntualizó la jefa del Servicio de Administración Tributaria (SAT), Raquel Buenrostro Sánchez.

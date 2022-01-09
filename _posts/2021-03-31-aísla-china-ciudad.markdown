@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Autoridades chinas aplican un confinamiento en la ciudad de Ruili, cerca de la frontera con Myanmar, tras reportarse seis casos de covid-19"
-image: /uploads/2021/images-2554802.jpg
-video: nil
-audio: nil
-alt: Aísla China ciudad en frontera con Myanmar por foco de covid-19
+image: "/uploads/2021/images-2554802.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aísla China ciudad en frontera con Myanmar por foco de covid-19"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183624
 ---
 
 China confinó a una ciudad cercana a la frontera con Birmania (Myanmar), después que este miércoles se notificaran seis casos de coronavirus, el primer foco significativo de covid-19 revelado en casi dos meses.

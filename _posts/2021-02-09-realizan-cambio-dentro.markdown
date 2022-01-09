@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Nombran a nuevo titular de COESVI y Secretaría de Desarrollo Social."
-image: /uploads/2021/images-protesta.jpg
-video: nil
-audio: /uploads/2021/audio-MM03_JAVIER_CORRAL.mp3
-alt: Realizan cambio dentro de gabinete
+image: "/uploads/2021/images-protesta.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM03_JAVIER_CORRAL.mp3"
+alt: "Realizan cambio dentro de gabinete"
 front: false
-section: Local
+section: "Local"
+news_id: 182816
 ---
 
 Este martes se llevaron a cabo cambios dentro del Gabinete Estatal, esto con la toma de protesta de Ramón Galindo como titular de la Secretaría de Desarrollo Social, esto en sustitución de Luis Alberto Aguilar Lozoya.

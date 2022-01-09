@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Podrán participar en mesas panel, conferencias virtuales y talleres presenciales"
-image: /uploads/2021/images-unnamed_(5).jpg
-video: nil
-audio: nil
-alt: Invitan a participar en conferencias y pláticas de Semana COPREV 2021
+image: "/uploads/2021/images-unnamed_(5).jpg"
+video: "nil"
+audio: "nil"
+alt: "Invitan a participar en conferencias y pláticas de Semana COPREV 2021"
 front: false
-section: Local
+section: "Local"
+news_id: 186809
 ---
 
 Del 23 al 27 de agosto, con el objetivo de promover diversas actividades basadas en evidencia y encaminadas a la prevención de la violencia, se invita a la ciudadanía a participar en la Semana COPREV 2021, "Conozco, dialogo y actúo por un municipio seguro".

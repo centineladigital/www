@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Son 15 millones de pesos que buscan impulsar a la nueva generación de creadores para la pantalla grande; el proyecto se especializará en cineastas de pueblos originarios y afrodescendientes."
-image: /uploads/2021/images-idea-buscar-cineastas-diversas-comunidades_.jpg
-video: nil
-audio: nil
-alt: Ambulante y Netflix apoyan cine indígena
+image: "/uploads/2021/images-idea-buscar-cineastas-diversas-comunidades_.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ambulante y Netflix apoyan cine indígena"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183965
 ---
 
 México y Centroamérica será impulsado con el Fondo #Miradas, el cual surge de la colaboración entre Ambulante y Netflix para beneficiar a una nueva generación de cineastas de estas comunidades que se vieron afectados por la pandemia. Los organizadores anunciaron que serán 15 millones de pesos que se entregarán a partir de este mes  como apoyo financiero.  “Netflix se acercó a nosotros por la experiencia que tiene Ambulante con cineastas de comunidades indígenas y afrodescendientes para lanzar este fondo. Para Ambulante es un placer diseñar este esquema de convocatoria para que realmente se otorgue un apoyo que permita continuar con rodajes y procesos de postproducción”, comentó a M2 Paulina Suárez, directora de Ambulante.  

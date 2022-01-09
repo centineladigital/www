@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El instituto biomédico Butantan de Brasil reporta una nueva variante del covid-19 que es similar a la que se identificó primero en Sudáfrica"
-image: /uploads/2021/images-2554887.jpg
-video: nil
-audio: nil
-alt: Detecta Brasil una segunda variante covid; es similar a la de Sudáfrica
+image: "/uploads/2021/images-2554887.jpg"
+video: "nil"
+audio: "nil"
+alt: "Detecta Brasil una segunda variante covid; es similar a la de Sudáfrica"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183632
 ---
 
 Brasil detectó una nueva variante del covid-19 en el estado de Sao Paulo, que es similar a la que se identificó primero en Sudáfrica, informó el miércoles el presidente del instituto biomédico Butantan.

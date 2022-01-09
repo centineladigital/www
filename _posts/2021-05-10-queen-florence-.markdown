@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Te compartimos el soundtrack de la cinta protagonizada por Emma Stone, el cual se podrá escuchar a partir del 21 de mayo. "
-image: /uploads/2021/images-parte-de-la-banda-sonora.jpg
-video: nil
-audio: nil
-alt: ¡Queen, Florence + the Machine y más! Disney presenta banda sonora de 'Cruella'
+image: "/uploads/2021/images-parte-de-la-banda-sonora.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Queen, Florence + the Machine y más! Disney presenta banda sonora de 'Cruella'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184390
 ---
 
 Uno de los elementos más importantes en una película es la música. Las canciones son el ingrediente perfecto para provocar diversos sentimientos en los espectadores. Consciente de ello, Disney acaba de presentar la banda sonora de Cruella, con piezas de Queen, Blondie, Bee Gees y más. La banda Florence + The Machine interpretará "Call me Cruella", el tema principal de la cinta en la que Emma Stone dará vida a la emblemática villana de 101 dálmatas y que estrenará el próximo 28 de mayo tanto en cines como en Disney Plus. 

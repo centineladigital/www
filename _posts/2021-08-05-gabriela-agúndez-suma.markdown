@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gabriela Agúndez culminó en el cuarto lugar en la final de clavados de plataforma de 10 metros; Alejandra Orozco quedó en la sexta posición"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Gabriela Agúndez suma otro cuarto lugar para México, ahora en clavados
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Gabriela Agúndez suma otro cuarto lugar para México, ahora en clavados"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186319
 ---
 
 La maldición de los cuartos lugares en los XXXII Juegos Olímpicos no deja a la delegación mexicana. El séptimo cuarto sitio para los atletas tricolores llegó en el Centro Acuático de Tokio, donde se han dado cuatro de estos siete cuartos puestos.

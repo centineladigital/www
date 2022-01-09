@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Sin fecha de aplicación de vacunas en el municipio de Chihuahua."
-image: /uploads/2021/images-LETICIA.jpg
-video: nil
-audio: /uploads/2021/audio-MM02.mp3
-alt: Esperan lote de vacunas para el 18 de marzo
+image: "/uploads/2021/images-LETICIA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM02.mp3"
+alt: "Esperan lote de vacunas para el 18 de marzo"
 front: false
-section: Local
+section: "Local"
+news_id: 183443
 ---
 
 Para los días 17 o 18 de marzo espera que lleguen vacunas señaló la Directora de Medicina Preventiva y Promoción de la Salud, Leticia Ruiz González. Quien dijo que ante esto no se podía decir que día iniciarán la siguiente fase de vacunación, esto ya que aún no tienen bien definido los puntos de vacunación.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los resultados respaldan el éxito en el combate frontal a la corrupción encomendada por el Gobernador Javier Corral Jurado: acción penal contra 49 exfuncionarios"
-image: /uploads/2021/images-RP_Consejero_Jurídico_Operación_Justicia_(4).jpeg
-video: nil
-audio: nil
-alt: En Operación Justicia se deja todo ganado -  Consejería Jurídica del Estado
+image: "/uploads/2021/images-RP_Consejero_Jurídico_Operación_Justicia_(4).jpeg"
+video: "nil"
+audio: "nil"
+alt: "En Operación Justicia se deja todo ganado -  Consejería Jurídica del Estado"
 front: false
-section: Local
+section: "Local"
+news_id: 186739
 ---
 
 Luego de calificar como un éxito la Operación Justicia para Chihuahua, el consejero jurídico del Gobierno del Estado, Jorge Espinoza Cortés, señaló que todas las actuaciones realizadas hasta ahora se dejan ganadas, no hay ningún proceso que se haya caído y lo demás es puro show mediático de parte de los equipos de defensa de los acusados.

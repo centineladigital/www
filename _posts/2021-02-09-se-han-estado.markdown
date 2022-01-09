@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Dentro de estos establecimientos no se pueden ingerir bebidas alcohólicas, además el horario es permitido hasta la 1.00 am."
-image: /uploads/2021/images-2021-02-08_13-28-04.jpg
-video: nil
-audio: nil
-alt: Se han estado revisando salones de eventos -  Elco Hernández
+image: "/uploads/2021/images-2021-02-08_13-28-04.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se han estado revisando salones de eventos -  Elco Hernández"
 front: false
-section: Ojinaga
+section: "Ojinaga"
+news_id: 182807
 ---
 
 El director de Gobernación Municipal, Elco Hernández, dio a conocer que se ha estado trabajando en las revisiones a salones de eventos para que estos respeten el aforo que deben de tener que es del 30%.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Son cinco los aspirantes a la gubernatura quienes estarán contestando a las preguntas del sector empresarial"
-image: /uploads/2021/images-foro_de_candidatos_a_gobernador_del_cce.jpg
-video: nil
-audio: nil
-alt: Inicia foro de candidatos a gobernador, en Ciudad Juárez
+image: "/uploads/2021/images-foro_de_candidatos_a_gobernador_del_cce.jpg"
+video: "nil"
+audio: "nil"
+alt: "Inicia foro de candidatos a gobernador, en Ciudad Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 184305
 ---
 
 Las reglas del encuentro en formato conversatorio empresarial con preguntas directas del sector empresarial, previamente se les pidió a los socios plantearan preguntas en cuanto a desarrollo económico y finanzas.

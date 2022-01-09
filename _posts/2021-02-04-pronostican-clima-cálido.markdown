@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las temperaturas máximas esperadas para esta tarde son (°C): Chihuahua 25, Juárez 22, Janos 21, Madera 15, Temósachic 16, Cuauhtémoc 20, Ojinaga 27, Delicias 28, Camargo 28, Jiménez 27, Parral 25, y El Vergel 16"
-image: /uploads/2021/images-clima-del-8-de-enero-en-cdmx-1200x600.jpg
-video: nil
-audio: nil
-alt: Pronostican clima cálido para la tarde de este jueves
+image: "/uploads/2021/images-clima-del-8-de-enero-en-cdmx-1200x600.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pronostican clima cálido para la tarde de este jueves"
 front: false
-section: Local
+section: "Local"
+news_id: 182690
 ---
 
 Para este jueves 4 de febrero, el desplazamiento del frente frío número 34 sobre la entidad traerá temperaturas cálidas durante la tarde, como en Chihuahua 25°C y 28° en los municipios del sureste, informó la Coordinación Estatal de Protección Civil (CEPC).

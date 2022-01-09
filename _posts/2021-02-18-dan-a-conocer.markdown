@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Misael Nuñez será el candidato a Gobernador."
-image: /uploads/2021/images-A3.jpg
-video: nil
-audio: /uploads/2021/audio-MJ07_MARIA_AVILA.mp3
-alt: Dan a conocer aspirante a gobernador por PVEM
+image: "/uploads/2021/images-A3.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ07_MARIA_AVILA.mp3"
+alt: "Dan a conocer aspirante a gobernador por PVEM"
 front: false
-section: Local
+section: "Local"
+news_id: 183028
 ---
 
 Este jueves se dio a conocer el nombre del aspirante a la candidatura por el gobierno estatal por parte del Partido Verde Ecologista de México, así como la coalición con la organización Chihuahua Líder, esto por parte de María Ávila Serna dirigente del PVEM.

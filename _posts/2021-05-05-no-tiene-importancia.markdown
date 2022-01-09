@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante se negó a interpretar su canción infantil y les reprochó a Yahir y Ricardo Montaner que sacaran ese tema en pleno programa.  "
-image: /uploads/2021/images-belinda-molesta-yahir-referirse-sapito_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: No tiene importancia -  Belinda se molesta con Yahir por hablar de 'El Sapito' en 'La Voz'
+image: "/uploads/2021/images-belinda-molesta-yahir-referirse-sapito_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "No tiene importancia -  Belinda se molesta con Yahir por hablar de 'El Sapito' en 'La Voz'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184290
 ---
 
 Belinda se unió La Voz Senior 2021 como coach luego de que su equipo, conformado por Randy, se llevó el primer lugar en la edición infantil del programa de TV Azteca. En la más reciente emisión del reality show, la cantante volvió a dar de qué hablar, pues se molestó con Yahir y Ricardo Montaner por hablar de "El sapito", tema musical que lanzó cuando era niña. Todo comenzó durante la participación del concursante Juan José Castillo, quien señaló que es un fiel seguidor de la música infantil pues interpreta a un personaje para niños en televisión. Esto llevó a Belinda a afirmar que se identificaba con el participante porque ella comenzó su carrera artística desde muy pequeña, pero lo que desató su enojo fueron los comentarios de Yahir y Montaner.  

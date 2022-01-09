@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El titular de la Profeco, Ricardo Sheffield, destaca que también se bajaron 130 páginas web fraudulentas; llama a la sociedad a devolver los cilindros para salvar vidas"
-image: /uploads/2021/images-2521719.jpg
-video: nil
-audio: nil
-alt: Tiran 1,200 perfiles de FB por lucrar con tanques de oxígeno
+image: "/uploads/2021/images-2521719.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tiran 1,200 perfiles de FB por lucrar con tanques de oxígeno"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182593
 ---
 
 ante el desabasto de tanques de oxígeno para la atención de pacientes con coronavirus, el titular de la Procuraduría Federal del Consumidor, Ricardo Sheffield, hizo un llamado a las personas a devolver los equipos que ya no se ocupan para que las personas que sí lo requieran tengan acceso de manera eficiente.

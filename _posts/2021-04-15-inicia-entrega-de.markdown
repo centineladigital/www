@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A los seleccionados se les impartirá un curso a nivel nacional por medio de Internet para reforzar sus conocimientos "
-image: /uploads/2021/images-INE_Delicias.jpg
-video: nil
-audio: nil
-alt: Inicia entrega de nombramientos a funcionarios de casilla en Delicias
+image: "/uploads/2021/images-INE_Delicias.jpg"
+video: "nil"
+audio: "nil"
+alt: "Inicia entrega de nombramientos a funcionarios de casilla en Delicias"
 front: false
-section: Local
+section: "Local"
+news_id: 183899
 ---
 
 Comenzó ayer la entrega de los nombramientos para más de cinco mil ciudadanos que serán funcionarios de casilla y suplentes, después que la semana pasada se llevara a cabo la segunda insaculación en las oficinas de la Junta Distrital del Instituto Nacional Electoral en esta ciudad.

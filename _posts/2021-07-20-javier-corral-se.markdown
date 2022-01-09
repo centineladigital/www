@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El gobernador de Chihuahua señaló que del 20 al 25 de julio al parecer ya se van a abrir las fronteras” entre ambas naciones."
-image: /uploads/2021/images-C48B2BF2-A819-4C41-8D2E-9D70DA294F92.jpeg
-video: nil
-audio: nil
-alt: Javier Corral se reúne con cónsul general de EU
+image: "/uploads/2021/images-C48B2BF2-A819-4C41-8D2E-9D70DA294F92.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Javier Corral se reúne con cónsul general de EU"
 front: false
-section: Local
+section: "Local"
+news_id: 185818
 ---
 
 El gobernador de Chihuahua, Javier Corral, se reunió en Ciudad Juárez con Eric Cohan, cónsul general de Estados Unidos para abordar diversos temas fronterizos, esto en el contexto de la expectativa de que la frontera entre ambos países se abra esta semana para actividades no esenciales.

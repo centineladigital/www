@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Seguro Social reitera el llamado a la población a no acudir a sucursales o cajeros automáticos para evitar posibles contagios de COVID-19"
-image: /uploads/2021/images-Sin_título.jpg
-video: nil
-audio: nil
-alt: Desde este 30 de julio pensionados del IMSS cuentan con pago del mes de agosto 
+image: "/uploads/2021/images-Sin_título.jpg"
+video: "nil"
+audio: "nil"
+alt: "Desde este 30 de julio pensionados del IMSS cuentan con pago del mes de agosto "
 front: false
-section: Local
+section: "Local"
+news_id: 186139
 ---
 
 A partir de este viernes 30 de julio, los casi cuatro millones de pensionados del Instituto Mexicano del Seguro Social (IMSS) cuentan con el pago correspondiente al mes de agosto. 

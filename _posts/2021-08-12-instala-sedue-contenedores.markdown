@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En coordinación con la iniciativa privada diseña el programa “Verde” para hacer consciencia sobre la cultura ecológica entre personas usuarias y trabajadoras; canjearán los residuos recolectados por insumos de papelería"
-image: /uploads/2021/images-reciclaje3.jpeg
-video: nil
-audio: nil
-alt: Instala Sedue contenedores para basura reciclable en oficinas de Gobierno
+image: "/uploads/2021/images-reciclaje3.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Instala Sedue contenedores para basura reciclable en oficinas de Gobierno"
 front: false
-section: Local
+section: "Local"
+news_id: 186626
 ---
 
 La Secretaría de Desarrollo Urbano y Ecología (Sedue) y la iniciativa privada comenzaron a implementar la estrategia “Verde”, creada para hacer conciencia en las personas usuarias y el personal del Gobierno del Estado de Chihuahua acerca del destino final de los residuos sólidos como papel, vidrio, metal y PET.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Andrea Legarreta, Galilea Montijo, Paul Stanley, Raúl Araiza, Andrea Escalona, Lambda García, Martha Figueroa son los conductores que seguirán en la emisión matutina; remodelaron el set y anunciaron al nuevo presentador de TV. "
-image: /uploads/2021/images-nuevos-cambios-en-el-programa-1_181_239_847_527.jpg
-video: nil
-audio: nil
-alt: ¿Quién es? Programa 'Hoy' estrena increíble set; presentan a nuevo conductor
+image: "/uploads/2021/images-nuevos-cambios-en-el-programa-1_181_239_847_527.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Quién es? Programa 'Hoy' estrena increíble set; presentan a nuevo conductor"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181844
 ---
 
 El programa Hoy de Televisa cambió su imagen y renovó su foro, el cual lució con combinaciones de colores vivos y cálidos. Andrea Legarreta, Galilea Montijo, Paul Stanley, Raúl Araiza, Andrea Escalona, Lambda García, Martha Figueroa son los conductores que seguirán en la emisión matutina. Además de que se incorporó un nuevo presentador ¿quién es? Te contamos lo que sabemos sobre los cambios 2021 en la revista matutina. Desde el inicio de la transmisión del programa matutino de Televisa, los conductores hicieron un pequeño tour en el nuevo foro. Esta vez, el set se caracterizó por la combinación de colores cálidos con llamativos. De fondo utilizaron imágenes florales. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Era como ellos querían, las obras que ellos querían, los tiempos que ellos querían "
-image: /uploads/2021/images-SDGDGDSD.jpg
-video: nil
-audio: /uploads/2021/audio-AL03_ROCIO_GONZALEZ.mp3
-alt: Buscará Roció González que NO vuelvan a plantear crédito disfrazado para el estado 
+image: "/uploads/2021/images-SDGDGDSD.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AL03_ROCIO_GONZALEZ.mp3"
+alt: "Buscará Roció González que NO vuelvan a plantear crédito disfrazado para el estado "
 front: false
-section: Local
+section: "Local"
+news_id: 182430
 ---
 
 Debido a las declaraciones del secretario general del gobierno de Chihuahua, en relación a replantear el crédito que  busca el gobierno, la diputada panista Rocío González manifestó que de ser así, analizarán la viabilidad del nuevo proyecto para evitar que esté "disfrazado".

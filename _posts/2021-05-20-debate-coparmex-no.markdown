@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Lamentó la ausencia del candidato a la presidencia municipal por Morena"
-image: /uploads/2021/images-rereerh.jpg
-video: nil
-audio: /uploads/2021/audio-AV01_ULISES_SOTO.mp3
-alt: Debate Coparmex no fue un debate de descalificación sino propositivo -  CCE 
+image: "/uploads/2021/images-rereerh.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AV01_ULISES_SOTO.mp3"
+alt: "Debate Coparmex no fue un debate de descalificación sino propositivo -  CCE "
 front: false
-section: Local
+section: "Local"
+news_id: 184569
 ---
 
 El presidente del Consejo Coordinador Empresarial (CCE), Francisco Santini Ramos, celebró que el debate ciudadano, organizado por Coparmex,  haya contado con la participación de diversos sectores de la sociedad, dado que no fue un actividad de descalificaciones, de pelea o de hablar de los errores del otro, si no fue propositivo y funcional. 

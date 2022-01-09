@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Los esquemas en los que se podría mejorar es buscar una mayor participación del sector productivo"
-image: /uploads/2021/images-Imagen1.jpg
-video: nil
-audio: /uploads/2021/audio-AW02_JORGE_CRUZ.mp3
-alt: Nuevo gobierno debe reestructurarse en los primeros 100 días -  Coparmex 
+image: "/uploads/2021/images-Imagen1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AW02_JORGE_CRUZ.mp3"
+alt: "Nuevo gobierno debe reestructurarse en los primeros 100 días -  Coparmex "
 front: false
-section: Local
+section: "Local"
+news_id: 184950
 ---
 
 El presidente de Coparmex en Chihuahua Jorge Cruz Camberos, consideró que para hacer frente a la grave situación financiera del estado de Chihuahua la hoy virtual gobernadora electa, María Eugenia Campos, tendrá de frente un gran reto en donde deberá contemplar, junto con su equipo de trabajo, el reordenar la estructura del gobierno e incluso considerar el regreso de algunos impuestos como la tenencia, lo cual debe implementar en los primeros 100 días de gobierno.

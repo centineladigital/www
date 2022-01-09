@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El funcionario señaló que se continúa con un gran número de casos."
-image: /uploads/2021/images-ARTURO.jpg
-video: /uploads/2021/videos-MM03_ARTURO_VALENZUELA.mp4
-audio: /uploads/2021/audio-MM04_ARTURO_VALENZUELA.mp4
-alt: Incrementa al triple hospitalización 
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "/uploads/2021/videos-MM03_ARTURO_VALENZUELA.mp4"
+audio: "/uploads/2021/audio-MM04_ARTURO_VALENZUELA.mp4"
+alt: "Incrementa al triple hospitalización "
 front: false
-section: Local
+section: "Local"
+news_id: 186534
 ---
 
 Un incremento de la hospitalización se incrementó dentro del estado, según fue dado a conocer por parte de Arturo Valenzuela Zorrilla, Director Médico Zona Norte de la Secretaría de Salud. Quien dijo que desde que inició la presencia de la cepa Delta se incrementó al triple la hospitalización.

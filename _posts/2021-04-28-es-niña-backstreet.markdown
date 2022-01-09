@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Backstreet Boys expresaron que están muy emocionados de la llegada de la cuarta chica a este grupo musical. "
-image: /uploads/2021/images-hija-nick-carter-nacio-pandemia_0_198_960_598.jpg
-video: nil
-audio: nil
-alt: ¡Es niña! Backstreet Boys dan la bienvenida a hija de Nick Carter y Lauren Kitt
+image: "/uploads/2021/images-hija-nick-carter-nacio-pandemia_0_198_960_598.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Es niña! Backstreet Boys dan la bienvenida a hija de Nick Carter y Lauren Kitt"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184158
 ---
 
 Luego de que el integrante de la banda Backstreet Boys, Nick Carter, compartió que el parto de su esposa, Lauren Kitt, no fue lo que esperaba, hoy la boyband publicó una fotografía en sus redes sociales donde le dan la bienvenida a la hija del cantante y dijeron estar muy emocionados con su llegada. En una publicación de Facebook, los chicos de la banda de pop de los 90 expresaron que están muy emocionados de dar la bienvenida a la cuarta chica de este grupo musical a su gran familia y que no podían estar más agradecidos de tenerla con ellos y no esperan a conocerla pronto, luego de un parto complicado. 

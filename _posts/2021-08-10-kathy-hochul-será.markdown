@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Kathy Hochul, quien fue miembro del Congreso en Washington, tiene una presencia política discreta en el estado, al ser la vicegobernadora"
-image: /uploads/2021/images-vicegobernadora-democrata-york-kathy-hochul_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Kathy Hochul será la primera mujer en gobernar Nueva York, tras salida de Cuomo
+image: "/uploads/2021/images-vicegobernadora-democrata-york-kathy-hochul_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Kathy Hochul será la primera mujer en gobernar Nueva York, tras salida de Cuomo"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186516
 ---
 
 La vicegobernadora Kathy Hochul, una demócrata de 62 años y ex congresista del área de Buffalo, se convertirá en la gobernadora número 57 de Nueva York y la primera mujer en ocupar el cargo. 

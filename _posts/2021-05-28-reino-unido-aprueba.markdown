@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aprobada el viernes por el regulador británico MHRA, la vacuna se unirá a las de Pfizer, AstraZeneca y Moderna que ya se utilizan en el país"
-image: /uploads/2021/images-2585958.jpg
-video: nil
-audio: nil
-alt: Reino Unido aprueba cuarta vacuna del Covid, la dosis única de Janssen
+image: "/uploads/2021/images-2585958.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reino Unido aprueba cuarta vacuna del Covid, la dosis única de Janssen"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184705
 ---
 
 El Reino Unido aprobó el viernes la vacuna de dosis única de Janssen (Johnson & Johnson) contra el coronavirus, añadiendo un cuarto suero a su arsenal en la lucha contra la pandemia, anunció el ministerio de Sanidad.

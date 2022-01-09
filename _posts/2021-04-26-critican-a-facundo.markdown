@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Ahora qué dijo? En redes sociales critican a Facundo por comentario desafortunado contra Chadwick Boseman. ¿Se burló de su muerte? Te contamos lo que sucedió durante la transmisión de los Oscar 2021 por TV Azteca. "
-image: /uploads/2021/images-facundo-burla-muerte-chadwick-boseman.jpg
-video: nil
-audio: nil
-alt: Critican a Facundo por burlarse de muerte de Chadwick Boseman en plena transmisión de los Oscar 2021
+image: "/uploads/2021/images-facundo-burla-muerte-chadwick-boseman.jpg"
+video: "nil"
+audio: "nil"
+alt: "Critican a Facundo por burlarse de muerte de Chadwick Boseman en plena transmisión de los Oscar 2021"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184103
 ---
 
 Facundo condujo la transmisión de los Premios Oscar 2021 en TV Azteca. Esto a pesar de que el año pasado fue criticado por sus comentarios considerado racistas y ‘bromas’ que le realizó al director surcoreano Bong Joon Ho por su trabajo en la película Parásitos.  ¿Ahora por qué lo criticaron? Resulta que de acuerdo con los usuarios de las redes sociales, Facundo lanzó un comentario poco afortunado sobre el actor Chadwick Boseman, quien ya murió, pero que pese a ello fue nominado en los premios Oscar. ¿Facundo lanzó comentario discriminatorio? Te contamos por qué lo criticaron los usuarios de la red. A través de redes sociales, los usuarios lanzaron críticas en contra de Facundo por su participación en la transmisión de los Premios Oscar 2021 en TV Azteca, pues aseguraron que el conductor se ‘burló’ de Chadwick Boseman. ¿Qué dijo? 

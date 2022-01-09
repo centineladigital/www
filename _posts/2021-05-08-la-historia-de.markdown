@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Antes de ser una madre dura y estricta, Lois era una mujer suave que consentía demasiado a su primer hijo, Francis. "
-image: /uploads/2021/images-madre-malcolm-capitulo-lois-jamie.jpg
-video: nil
-audio: nil
-alt: La historia de Lois de 'Malcolm el de en medio' -  la madre amorosa que se volvió estricta
+image: "/uploads/2021/images-madre-malcolm-capitulo-lois-jamie.jpg"
+video: "nil"
+audio: "nil"
+alt: "La historia de Lois de 'Malcolm el de en medio' -  la madre amorosa que se volvió estricta"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184365
 ---
 
 En los últimos meses, la fiebre por Malcolm el de en medio volvió a surgir en nosotros, lo que ha quedado demostrado en las redes sociales gracias a videos y memes que hacen alusión a las aventuras (¿o desventuras?) de la familia Wilkerson, con la que es tan fácil identificarse.  Pero de entre todos los personajes de la fabulosa serie de televisión, existe uno a quien queremos mucho, pero también llegamos a respetar y a temer, debido a su dura forma de ser para poder controlar a una familia de cinco hijos que parecen tener una fascinación especial por meterse en problemas. Por supuesto, hablamos de Lois, quien no siempre tuvo un carácter tan fuerte: ¿recuerdas cómo fue que se volvió estricta? Pues aquí te refrescaremos la memoria contándote la historia.

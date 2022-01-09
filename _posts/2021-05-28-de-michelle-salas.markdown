@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La película será más una comedia romántica que las versiones anteriores de la película. "
-image: /uploads/2021/images-macarena-achaga-interpreta-michelle-salas_41_55_919_572.jpg
-video: nil
-audio: nil
-alt: ¡De Michelle Salas a madrastra! Macarena Achaga se une a remake de 'El Padre de la Novia'
+image: "/uploads/2021/images-macarena-achaga-interpreta-michelle-salas_41_55_919_572.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡De Michelle Salas a madrastra! Macarena Achaga se une a remake de 'El Padre de la Novia'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184712
 ---
 
 Macarena Achaga, quien interpreta a Michelle Salas en Luis Miguel: la serie, se unirá al remake de El Padre de la Novia, la película dirigida por el director de Club de Cuervos, sí, otra serie de Netflix, Gaz Alazraki, la cual gira en torno a una familia cubanoamericana que protagonizará Andy García y Adria Arjona. 

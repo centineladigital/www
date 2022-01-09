@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "The Weeknd será el encargado del show de medio tiempo; aquí te contamos quiénes se unirán al cantante en el escenario del Super Bowl LV. "
-image: /uploads/2021/images-super_bool.jpg
-video: nil
-audio: nil
-alt: ¿Daft Punk y Ariana Grande? Estos artistas cantarán en el Super Bowl 2021
+image: "/uploads/2021/images-super_bool.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Daft Punk y Ariana Grande? Estos artistas cantarán en el Super Bowl 2021"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182692
 ---
 
 Super Bowl LV, uno de los eventos deportivos más importante del año, está a la vuelta de la esquina. Sin duda, el show del medio tiempo es uno de los más esperados y comentados del momento; las expectativas son altas para este 2021, luego del extraordinario espectáculo que entregaron Shakira y Jennifer Lopez el año pasado, pues las artistas hicieron historia al llevar el ritmo y la cultura latina al escenario.  

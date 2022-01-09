@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El ex participante de 'Exatlón' fue detenido junto a un grupo de amigos el pasado miércoles, en entrevista con 'Venga la Alegría, el atleta relató lo sucedido."
-image: /uploads/2021/images-ernesto-cazares-habla-de-su_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Me puse muy nervioso -  Ernesto Cázares, de 'Exatlón', habla de su detención en Veracruz
+image: "/uploads/2021/images-ernesto-cazares-habla-de-su_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me puse muy nervioso -  Ernesto Cázares, de 'Exatlón', habla de su detención en Veracruz"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183016
 ---
 
 Ernesto Cázares causó revuelo en redes sociales al compartir un video de su detención el pasado miércoles por la noche en Veracruz. Ante los cuestionamientos de sus seguidores, el ex participante de Exatlón México relató lo sucedido y habló de los motivos por los que las autoridades lo detuvieron a él y a sus amigos mientras cenaban en una pizzería. En entrevista con Venga la Alegría, Ernesto Cázares señaló que los policías registraron su automóvil, pese a que no había cometido ningún acto delictivo. El practicante de parkour aseguró que todo fue una confusión, pues las autoridades buscaban a un hombre que supuestamente había asaltado en una tienda. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Entrega de paquetes sanitizantes, entre otras acciones."
-image: /uploads/2021/images-LUIS_AGUILAR.jpeg
-video: nil
-audio: /uploads/2021/audio-MV04_LUIS_AGUILAR.mp3
-alt: Da a conocer SDS acciones preventivas
+image: "/uploads/2021/images-LUIS_AGUILAR.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MV04_LUIS_AGUILAR.mp3"
+alt: "Da a conocer SDS acciones preventivas"
 front: false
-section: Local
+section: "Local"
+news_id: 182748
 ---
 
 Tres acciones son las que la Secretaría de Desarrollo Social esta realizando con el fin de minimizar los efectos de la pandemia, según lo dio a conocer el titular de la dependencia Luis Aguilar Lozoya.

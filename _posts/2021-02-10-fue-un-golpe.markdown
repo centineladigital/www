@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz confesó que se sintió decepcionada por no ser nominada a los prestigiosos premios por su trabajo en 'Hustlers'. "
-image: /uploads/2021/images-jennifer-lopez-nominada-premios-oscar_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Fue un golpe -  Jennifer Lopez revela cómo se sintió tras ser ignorada en los premios Oscar
+image: "/uploads/2021/images-jennifer-lopez-nominada-premios-oscar_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fue un golpe -  Jennifer Lopez revela cómo se sintió tras ser ignorada en los premios Oscar"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182830
 ---
 
 Jennifer Lopez se sinceró con el público y reveló lo que sintió tras ser ignorada por la Academia de las Artes y las Ciencias Cinematográficas al no recibir una nominación a los premios Oscar 2020 por su actuación en Hustlers (Estafadoras de Wall Street), lo cual generó polémica en la industria del cine, pues la actriz había recibido excelentes críticas por parte de los medios especializados. 

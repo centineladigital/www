@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Covid-19 afectaría el conocimiento; daño parecido a persona con alzheimer leve"
-image: /uploads/2021/images-2559883.jpg
-video: nil
-audio: nil
-alt: Covid-19 afectaría el conocimiento; daño parecido a persona con alzheimer leve
+image: "/uploads/2021/images-2559883.jpg"
+video: "nil"
+audio: "nil"
+alt: "Covid-19 afectaría el conocimiento; daño parecido a persona con alzheimer leve"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183800
 ---
 
 Viene un triple reto: la desesperanza, la pobreza y la violencia, afirma directora de la Facultad de Psicología

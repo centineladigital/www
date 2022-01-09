@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Desde el inicio de la contingencia sanitaria se conformó el Comité de Seguridad Sanitaria para generar las condiciones óptimas y dar cumplimiento a los protocolos de salud   "
-image: /uploads/2021/images-3.jpg
-video: nil
-audio: nil
-alt: Mantiene UTCH estándares en seguridad e higiene para regreso a las aulas 
+image: "/uploads/2021/images-3.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mantiene UTCH estándares en seguridad e higiene para regreso a las aulas "
 front: false
-section: Local
+section: "Local"
+news_id: 185947
 ---
 
 La Universidad Tecnológica de Chihuahua (UTCH) conformó a mediados de abril de 2020 el Comité de Seguridad Sanitaria, presidido por un presidente, un secretario y cinco vocales, con la finalidad de adoptar las mejores medidas para salvaguardar la salud de la comunidad universitaria.

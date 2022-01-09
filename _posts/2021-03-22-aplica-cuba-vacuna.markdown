@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las autoridades de Cuba anuncian que 150 mil trabajadores de la salud recibirán la vacuna Soberana 2, para evaluar los efectos directos e indirectos del antídoto"
-image: /uploads/2021/images-2549257.jpg
-video: nil
-audio: nil
-alt: Aplica Cuba vacuna Soberana 2 a 150 mil trabajadores sanitarios
+image: "/uploads/2021/images-2549257.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aplica Cuba vacuna Soberana 2 a 150 mil trabajadores sanitarios"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183502
 ---
 
 Cerca de 150 mil trabajadores de la salud recibirán a partir de este lunes la vacuna Soberana 2, el antígeno experimental más avanzado de Cuba, informaron autoridades locales.

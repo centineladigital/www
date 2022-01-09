@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La joven originaria de Guadalajara protagonizó varias peleas con la juez Lolita Cortéz."
-image: /uploads/2021/images-jolette-la-concursante-mas-polemica_0_42_845_525.jpg
-video: nil
-audio: nil
-alt: ¿Sí cantaba bien? Así fue la audición de Jolette para entrar a 'La Academia' hace 16 años
+image: "/uploads/2021/images-jolette-la-concursante-mas-polemica_0_42_845_525.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Sí cantaba bien? Así fue la audición de Jolette para entrar a 'La Academia' hace 16 años"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186583
 ---
 
 Corría el año 2005 cuando Erasmo Catarino se alzó como ganador de la exitosa cuarta generación de La Academia, la cuál fue sumante popular entre los televidentes por la increíble voz de Yuridia, así como por las peleas entre Jolette y Lolita Cortéz, y de la cuál se dieron a conocer personalidades como Cynthia Rodríguez.  

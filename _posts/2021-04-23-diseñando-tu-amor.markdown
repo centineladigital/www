@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La nueva telenovela de Televisa protagonizada por Gala Montes y Juan Diego Covarrubias se transmitirá por Las Estrellas y Univisión a partir del lunes 26.  "
-image: /uploads/2021/images-la-nueva-telenovela-de-televisa-1_0_44_932_579.jpeg
-video: nil
-audio: nil
-alt: “Diseñando tu amor” retoma el clásico melodrama familiar
+image: "/uploads/2021/images-la-nueva-telenovela-de-televisa-1_0_44_932_579.jpeg"
+video: "nil"
+audio: "nil"
+alt: "“Diseñando tu amor” retoma el clásico melodrama familiar"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184063
 ---
 
 amor" para ofrecer un producto familiar. En conferencia de prensa virtual, el elenco de la telenovela compartió detalles sobre la nueva producción, la historia y sus personajes; la cual está basada en la telenovela portuguesa “Meu Amor”, escrita por António Barreira. “Elegimos esta historia porque cumplía con todos los requisitos que nosotros estábamos buscando en una historia de las 16:30”, explicó el productor Pedro Ortíz de Pinedo.

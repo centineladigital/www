@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En entrevista para el programa de YouTube Pinky Promise, Michelle Renaud detalló que el día de su boda, Irina Baeva fue como invitada. Sin embargo, en un día tan especial, la rusa se robó foco."
-image: /uploads/2021/images-irina-baeva-opaco-michelle-renaud.jpg
-video: nil
-audio: nil
-alt: ¿La opacó? Michelle Renaud revela que no invitaría de nuevo a Irina Baeva a su boda
+image: "/uploads/2021/images-irina-baeva-opaco-michelle-renaud.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿La opacó? Michelle Renaud revela que no invitaría de nuevo a Irina Baeva a su boda"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184537
 ---
 
 Michelle Renaud, actriz de Televisa, reveló que en si en algún momento de su vida se vuelve casar no invitará a su compañera Irina Baeva. ¿Por qué la dejará fuera de su lista de invitados? La protagonista de Quererlo todo hizo una polémica declaración sobre su amiga Irina Baeva, actual pareja de Gabriel Soto. Sin ponerle arreglos a su sentir, frente a frente, Michelle Renaud confesó que la rusa se robó las miradas justo en un día tan especial. Explicó por qué no la volvería a invitar en dado caso de que se vuelva a casar. 

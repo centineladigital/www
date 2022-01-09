@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En este momento tanto los observadores como los involucrados están a la espera de la resolución de las autoridades"
-image: /uploads/2021/images-melchor_ocampo.jpg
-video: nil
-audio: nil
-alt: Omiten entregar boletas para elegir alcalde en la casilla 0569
+image: "/uploads/2021/images-melchor_ocampo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Omiten entregar boletas para elegir alcalde en la casilla 0569"
 front: false
-section: Local
+section: "Local"
+news_id: 184873
 ---
 
 Observadores electorales acreditados e identificados por el INE han recibido inconformidades de votantes que acuden a la casilla 0569 de la secundaria Melchor Ocampo en la colonia Ladrilleros en relación a que los funcionarios de casilla no les han otorgado boleta de votación para presidente municipal.

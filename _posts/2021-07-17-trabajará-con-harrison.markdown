@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Antonio Banderas realizará un nuevo trabajo en su carrera, por primera vez trabajará en una de las sagas más reconocidas: Indiana Jones. "
-image: /uploads/2021/images-desconoce-personaje-interpretara-antonio-banderas.jpg
-video: nil
-audio: nil
-alt: ¡Trabajará con Harrison Ford! Antonio Banderas se une a 'Indiana Jones 5'
+image: "/uploads/2021/images-desconoce-personaje-interpretara-antonio-banderas.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Trabajará con Harrison Ford! Antonio Banderas se une a 'Indiana Jones 5'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185756
 ---
 
 Una de las sagas más importantes en el cine continúa: Indiana Jones. Y para su quinta entrega, la película dirigida por James Mangold contará con la partición de Antonio Banderas, quien trabajará al lado de Harrison Ford. Aunque el rodaje ya arrancó ya hace varias semanas, el filme sigue reforzando su elenco con nuevos fichajes de altura. 

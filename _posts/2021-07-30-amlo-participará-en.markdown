@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Presidente reiteró que, en caso de participar, votará en contra en la consulta sobre actores políticos"
-image: /uploads/2021/images-lopez-obrador-pidio-ciudadania-participar_0_49_1200_746.jpeg
-video: nil
-audio: nil
-alt: AMLO participará en consulta popular si hay casilla durante gira de trabajo en Nayarit
+image: "/uploads/2021/images-lopez-obrador-pidio-ciudadania-participar_0_49_1200_746.jpeg"
+video: "nil"
+audio: "nil"
+alt: "AMLO participará en consulta popular si hay casilla durante gira de trabajo en Nayarit"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186119
 ---
 
 El presidente Andrés Manuel López Obrador indicó que podría participar en la consulta popular del domingo, en caso de encontrar una casilla durante su gira de trabajo por Nayarit; de hacerlo, dijo, votará en contra.  

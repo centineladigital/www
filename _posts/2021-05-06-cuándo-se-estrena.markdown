@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En el primer adelanto aparecen Tommy Pickles, Carlitos, Susie, los hermanitos Fili y Lili, Susie, Firulais, Angélica y el icónico dinosaurio Reptar. "
-image: /uploads/2021/images-poster-oficial-reboot-rugrats-paramount-1.jpg
-video: nil
-audio: nil
-alt: ¿Cuándo se estrena? Paramount Plus lanza tráiler oficial del reboot de 'Rugrats'
+image: "/uploads/2021/images-poster-oficial-reboot-rugrats-paramount-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Cuándo se estrena? Paramount Plus lanza tráiler oficial del reboot de 'Rugrats'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184319
 ---
 
 En octubre del año pasado se dio a conocer que Nickelodeon estaba preparando reboots animados de algunas caricaturas, entre ellas Bob Esponja. Ahora, Paramount Plus, la plataforma de streaming, compartió el tráiler oficial de Rugrats (Aventuras en pañales), en el que se puede ver un gran cambio en la animación. Se trata de una serie que presenta nuevas versiones en 3D de Tommy Pickles, Carlitos, Susie y los hermanitos Fili y Lili, quienes viajan por mundos asombrosos a través de su increíble imaginación. Angélica, el perrito de la familia Pickles, Firulais y el icónico dinosaurio Reptar, también aparecen en el adelanto.

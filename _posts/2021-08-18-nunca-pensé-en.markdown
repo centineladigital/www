@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El delantero mexicano siempre pensó que volvería a hacer lo que le gustaba, pese al fuerte golpe que tuvo en la cabeza, por el que tuvo una fractura de cráneo"
-image: /uploads/2021/images-raul-jimenez-regresa-canchas-partido_1_28_1198_747.jpg
-video: nil
-audio: nil
-alt: Nunca pensé en terminar mi carrera -  Raúl Jiménez
+image: "/uploads/2021/images-raul-jimenez-regresa-canchas-partido_1_28_1198_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Nunca pensé en terminar mi carrera -  Raúl Jiménez"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186824
 ---
 
 El delantero mexicano del Wolverhampton, Raúl Jiménez, dijo el martes en una entrevista con The Guardian que nunca pensó que su carrera hubiera terminado a pesar de fracturarse el cráneo en un fuerte choque de cabezas con el brasileño David Luiz hace nueve meses. 

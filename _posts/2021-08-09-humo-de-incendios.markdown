@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un informe señala que la humanidad es indiscutiblemente responsable del cambio climático y no tiene más remedio que reducir drásticamente las emisiones de gases de efecto invernadero"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Humo de incendios forestales en Siberia llega al Polo Norte
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Humo de incendios forestales en Siberia llega al Polo Norte"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186446
 ---
 
 Los incendios forestales que azotan a Siberia siguen empeorando este lunes, indicaron las autoridades rusas, una catástrofe que ha alcanzado tal magnitud que incluso el humo ha llegado al Polo Norte, según constató la NASA.

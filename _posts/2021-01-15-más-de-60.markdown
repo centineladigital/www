@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El municipio de Chihuahua registra el 31 por ciento de los casos. "
-image: /uploads/2021/images-YESICA_RENTERIA.jpeg
-video: nil
-audio: /uploads/2021/audio-MV05_YESICA_RENTERIA.mp3
-alt: Más de 60 por ciento de los delitos contra la mujer en Juárez 
+image: "/uploads/2021/images-YESICA_RENTERIA.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05_YESICA_RENTERIA.mp3"
+alt: "Más de 60 por ciento de los delitos contra la mujer en Juárez "
 front: false
-section: Local
+section: "Local"
+news_id: 182183
 ---
 
 De las más de 300 carpetas que investigó la Fiscalía Especializada de la Mujer inició por delitos de género el 61 por ciento de estos delitos se atendieron en Ciudad Juárez, según lo dio a conocer la vocero de esta dependencia Yesica Rentería Moreno.

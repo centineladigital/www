@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Salud explicará la decisión este sábado, luego de que el Gobierno Federal definió que el estado cambie a naranja en el semáforo epidemiológico"
-image: /uploads/2021/images-Ama.jpeg
-video: nil
-audio: nil
-alt: Conservará Chihuahua actividades económicas permitidas en lineamientos del Amarillo Seguro
+image: "/uploads/2021/images-Ama.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Conservará Chihuahua actividades económicas permitidas en lineamientos del Amarillo Seguro"
 front: false
-section: Local
+section: "Local"
+news_id: 182580
 ---
 
 La Secretaría de Salud del Estado de Chihuahua informa que esta tarde, la Subsecretaría de Prevención y Promoción de la Salud de Gobierno Federal anunciará el cambio de semáforo a color naranja para el estado de Chihuahua, no obstante, se mantendrán las actividades económicas permitidas en los lineamientos del Amarillo Seguro.

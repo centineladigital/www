@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El jurado calificador eligió este texto titulado “Memorias de un basilisco”, debido a la habilidad del autor para construir un relato novelesco y apasionante; recibe premio único e indivisible de 150 mil pesos"
-image: /uploads/2021/images-ignacio.jpg
-video: nil
-audio: nil
-alt: Entregan a escritor de Zacatecas, Gonzalo Lizardo  Premio de Novela Histórica Ignacio Solares 2021
+image: "/uploads/2021/images-ignacio.jpg"
+video: "nil"
+audio: "nil"
+alt: "Entregan a escritor de Zacatecas, Gonzalo Lizardo  Premio de Novela Histórica Ignacio Solares 2021"
 front: false
-section: Local
+section: "Local"
+news_id: 187145
 ---
 
 La Secretaría de Cultura entregó el Premio de Novela Histórica Ignacio Solares 2021 al escritor Gonzalo Lizardo, quien por decisión del jurado calificador resultó ganador de este certamen, por su obra literaria “Memorias de un basilisco: la vida de Guillén Lombardo”, haciéndose acreedor a un premio único e indivisible de 150 mil pesos.

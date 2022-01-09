@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Colunga expresó su rechazo ante la iniciativa del gobernador"
-image: /uploads/2021/images-COLUNGA_COLUNGA_MIGUEL.jpg
-video: /uploads/2021/videos-BW03_MIGUEL_COLUNGA.mp4
-audio: /uploads/2021/audio-colunga
-alt: Es ilógico que Corral haya quitado escoltas a ex funcionarios y ahora las pida -  Colunga
+image: "/uploads/2021/images-COLUNGA_COLUNGA_MIGUEL.jpg"
+video: "/uploads/2021/videos-BW03_MIGUEL_COLUNGA.mp4"
+audio: "/uploads/2021/audio-colunga"
+alt: "Es ilógico que Corral haya quitado escoltas a ex funcionarios y ahora las pida -  Colunga"
 front: false
-section: Local
+section: "Local"
+news_id: 187117
 ---
 
 Miguel Ángel Colunga Martínez coordinador de la fracción parlamentaria de morena en el congreso del estado, juzgó la propuesta del gobernador Javier Corral la cual propone, se impongan escoltas a ex funcionarios de gobierno, asegurando que es una acción incongruente de su parte solicitar escoltas para el término de su mandato ya que fue el mismo gobernador quien retiro esta protección hacia los ex funcionarios de gobierno.

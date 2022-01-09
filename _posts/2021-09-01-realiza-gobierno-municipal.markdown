@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Buscarán añadir a los servicios del Deporte Adaptado estos juegos"
-image: /uploads/2021/images-unnamed_(1).png
-video: nil
-audio: nil
-alt: Realiza Gobierno Municipal encuentro de juegos y deportes autóctonos
+image: "/uploads/2021/images-unnamed_(1).png"
+video: "nil"
+audio: "nil"
+alt: "Realiza Gobierno Municipal encuentro de juegos y deportes autóctonos"
 front: false
-section: Local
+section: "Local"
+news_id: 187326
 ---
 
 Con la participación de 37 niñas, niños y jóvenes de los comunidades indígenas urbanas Pájaro Azul y Carlos Arroyo, se celebró el encuentro de “Juegos y Deportes Autóctonos” en las instalaciones del Gimnasio del Deporte Adaptado del Instituto Municipal de Cultura Física y Deporte.

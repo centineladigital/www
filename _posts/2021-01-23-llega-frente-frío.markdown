@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Coordinación Estatal de Protección Civil pide precaución a la ciudadanía ante las fuertes ráfagas que afectarán tanto a las ciudades como a los tramos carreteros"
-image: /uploads/2021/images-VIENTOS_FUERTES.jpeg
-video: nil
-audio: nil
-alt: Llega frente frío 31 y Séptima Tormenta Invernal  con vientos de 105 km/h
+image: "/uploads/2021/images-VIENTOS_FUERTES.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Llega frente frío 31 y Séptima Tormenta Invernal  con vientos de 105 km/h"
 front: false
-section: Local
+section: "Local"
+news_id: 182401
 ---
 
 A partir de este sábado 23 de enero, la entrada de la Séptima Tormenta Invernal de la Temporada y el frente frío 31 traerá intensos vientos con velocidades superiores a los 105 kilómetros por hora (km/h), así como lluvias, caída de aguanieve y nieve en la zona serrana durante el domingo 24 y el lunes 25.

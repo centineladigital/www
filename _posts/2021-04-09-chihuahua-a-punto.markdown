@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Debido a la alta incidencia en casos de infección por el Covid, el gobernador informó que se anunciarán nuevas medidas"
-image: /uploads/2021/images-semafororojo.jpg
-video: nil
-audio: nil
-alt: Chihuahua a punto de llegar al semáforo rojo
+image: "/uploads/2021/images-semafororojo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chihuahua a punto de llegar al semáforo rojo"
 front: false
-section: Local
+section: "Local"
+news_id: 183783
 ---
 
 Empiezan a delinearse medidas restrictivas fuertes para la región Chihuahua debido a que se ha disparado la incidencia de casos de infección del virus SARS CoV2.

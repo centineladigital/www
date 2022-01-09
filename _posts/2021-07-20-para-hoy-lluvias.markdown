@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Últimas precipitaciones en la capital fueron: zona de la Potabilizadora Chihuahua 26 mm, Observatorio Chihuahua 6.8 mm, Majalca 8 mm"
-image: /uploads/2021/images-Reporte_de_lluvias_(1).jpeg
-video: nil
-audio: nil
-alt: Para hoy lluvias de moderadas a fuertes en la entidad -  Protección Civil
+image: "/uploads/2021/images-Reporte_de_lluvias_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Para hoy lluvias de moderadas a fuertes en la entidad -  Protección Civil"
 front: false
-section: Local
+section: "Local"
+news_id: 185826
 ---
 
 Un canal de baja presión en interacción con inestabilidad atmosférica superior y la entrada de humedad proveniente del Océano Pacífico así como la aproximación de un sistema frontal fuera de temporada a la frontera norte, favorecerá lluvias de moderadas a fuertes en la mayor parte del estado, informó la Coordinadora Estatal de Protección Civil.

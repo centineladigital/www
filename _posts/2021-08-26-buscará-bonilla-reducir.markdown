@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Único delito que no ha sido contenido dentro del municipio."
-image: /uploads/2021/images-BONILLA.jpg
-video: /uploads/2021/videos-MJ06_MARCO_BONILLA.mp4
-audio: nil
-alt: Buscará Bonilla reducir cifras de homicidios
+image: "/uploads/2021/images-BONILLA.jpg"
+video: "/uploads/2021/videos-MJ06_MARCO_BONILLA.mp4"
+audio: "nil"
+alt: "Buscará Bonilla reducir cifras de homicidios"
 front: false
-section: Local
+section: "Local"
+news_id: 187160
 ---
 
 En coordinación con el Gobierno estatal el Alcalde electo, Marco Antonio Bonilla Mendoza, señaló que buscará reducir las cifras de homicidios en el municipio. Esto ya que dentro de las acciones que se llevan a cabo es el que menos se ha reducido de todos los incidentes delictivos.

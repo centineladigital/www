@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Sería algo muy vil, el utilizar esta tragedia con el fin político, es despreciable, señaló abanderado morenista."
-image: /uploads/2021/images-MARCO_QUEZADA1.jpg
-video: nil
-audio: /uploads/2021/audio-MV02_MARCO_QUEZADA.mp3
-alt: Advierten guerra sucia contra MQ
+image: "/uploads/2021/images-MARCO_QUEZADA1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV02_MARCO_QUEZADA.mp3"
+alt: "Advierten guerra sucia contra MQ"
 front: false
-section: Local
+section: "Local"
+news_id: 183573
 ---
 
 Marco Adán Quezada Martínez advirtió tener conocimiento de una guerra sucia en contra de la candidatura que él encabeza a la Alcaldía del Municipio de Chihuahua, esto ya que se dará a conocer el breve videos relacionados con el Aeroshow.

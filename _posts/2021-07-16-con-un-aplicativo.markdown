@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El funcionamiento del aplicativo se expuso durante la cuadragésima cuarta reunión entre autoridades del Seguro Social y padres y madres de pacientes pediátricos oncológicos."
-image: /uploads/2021/images-Foto_302-4.jpeg
-video: nil
-audio: nil
-alt: Con un aplicativo se dará seguimiento al proceso de donación-transfusión de sangre en menores con cáncer en el IMSS
+image: "/uploads/2021/images-Foto_302-4.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Con un aplicativo se dará seguimiento al proceso de donación-transfusión de sangre en menores con cáncer en el IMSS"
 front: false
-section: Local
+section: "Local"
+news_id: 185739
 ---
 
 Autoridades del Instituto Mexicano del Seguro Social (IMSS) informaron que para mejorar la atención de pacientes pediátricos oncológicos, dentro de la plataforma digital se trabaja en un apartado adicional para llevar el control y seguimiento de Banco de Sangre, cuya primera fase comprende la programación de citas.

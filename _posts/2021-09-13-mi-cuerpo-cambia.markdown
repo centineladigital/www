@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La influencer compartió una fotografía que acompañó con un mensaje sobre la importancia de amar nuestro cuerpo tal y como es. "
-image: /uploads/2021/images-romina-marcos-comparte-foto-defender_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Mi cuerpo cambia -  Romina Marcos, hija de Niurka, comparte foto en ropa interior contra el 'body shaming'
+image: "/uploads/2021/images-romina-marcos-comparte-foto-defender_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mi cuerpo cambia -  Romina Marcos, hija de Niurka, comparte foto en ropa interior contra el 'body shaming'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187671
 ---
 
 Romina, hija de la vedette Niurka Marcos -conocida como La Mujer Escándalo-, se ha sumado a la lista de famosas que luchan contra los estereotipos de género y los estándares de belleza. La joven se ha ganado el apoyo del público por compartir mensajes a favor de los cuerpos reales, y en contra de los falsos modelos que suelen circular en los anuncios publicitarios, la televisión o el cine.  En esta ocasión, Romina Marcos recurrió a su cuenta de Instagram para publicar una foto en ropa interior en defensa de su apariencia física, una instantánea que acompañó con un texto sobre la importancia de amar y proteger nuestros cuerpos tal y como son. 

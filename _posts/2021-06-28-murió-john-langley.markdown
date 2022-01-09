@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El productor estadunidense sufrió un ataque cardíaco durante la carrera todoterreno Coast to Coast Ensenada-San Felipe 250."
-image: /uploads/2021/images-john-langley-creador-serie-cops.jpg
-video: nil
-audio: nil
-alt: Murió John Langley, creador de la serie 'Cops', en carrera automovilística en México
+image: "/uploads/2021/images-john-langley-creador-serie-cops.jpg"
+video: "nil"
+audio: "nil"
+alt: "Murió John Langley, creador de la serie 'Cops', en carrera automovilística en México"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185285
 ---
 
 John Langley, creador de la longeva serie televisiva Cops, murió a los 78 años durante una competencia automovilística en México, informó Pam Golum, vocera de la familia. El productor falleció el sábado en Baja California, de un aparente ataque cardíaco durante la carrera todoterreno Coast to Coast Ensenada-San Felipe 250.  

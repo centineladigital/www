@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "“Se está paralizando. Alguna gente no la quiere”, dijo una enfermera del departamento de salud del distrito rural de Decatur, Kansas "
-image: /uploads/2021/images-2567079.jpg
-video: nil
-audio: nil
-alt: Baja interés de estadunidenses por vacunarse
+image: "/uploads/2021/images-2567079.jpg"
+video: "nil"
+audio: "nil"
+alt: "Baja interés de estadunidenses por vacunarse"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184061
 ---
 
 Luisiana ha dejado de reclamar al gobierno federal toda su asignación de la vacuna contra el COVID-19. Tres de cada cuatro condados de Kansas han rechazado nuevos envíos de la vacuna al menos una vez en el último mes. En Mississippi, las autoridades pidieron al gobierno federal que envíen los frascos en paquetes más pequeños para evitar que haya sobrantes que se echen a perder.

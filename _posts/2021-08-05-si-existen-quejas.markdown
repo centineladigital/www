@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Recibe Secretaría de Seguridad quejas de forma anonima, afirma el titular de la dependencia."
-image: /uploads/2021/images-EMILIO.jpg
-video: /uploads/2021/videos-MJ01_EMILIO_GARCIA.mp4
-audio: nil
-alt: Si existen quejas que denuncien -  Secretario de Seguridad
+image: "/uploads/2021/images-EMILIO.jpg"
+video: "/uploads/2021/videos-MJ01_EMILIO_GARCIA.mp4"
+audio: "nil"
+alt: "Si existen quejas que denuncien -  Secretario de Seguridad"
 front: false
-section: Local
+section: "Local"
+news_id: 186359
 ---
 
 Emilio García Ruiz, titular de la Secretaría de Seguridad Pública Estatal, exhortó a agentes de vialidad a que presenten sus quejas, esto luego de que elementos hicieran señalamientos a diversos medios sobre presuntas irregularidades dentro de la dependencia.

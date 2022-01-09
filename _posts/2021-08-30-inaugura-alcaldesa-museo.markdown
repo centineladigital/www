@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: " El cual cuenta con dos salas con información histórica de los procesos y exhibición del producto vitivinícola y del sotol"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Inaugura Alcaldesa Museo del Vino y del Sotol en la Ex Hacienda San José del Torreón
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Inaugura Alcaldesa Museo del Vino y del Sotol en la Ex Hacienda San José del Torreón"
 front: false
-section: Local
+section: "Local"
+news_id: 187252
 ---
 
 La presidenta municipal María Angélica Granados Trespalacios encabezó la inauguración el Museo del Vino y del Sotol en la Ex Hacienda San José del Torreón, el cual cuenta con dos salas con información histórica de los procesos y exhibición del producto vitivinícola y del sotol.  

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Estrategia Correcaminos no esta determinada por el estado."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-MW03_ARTURO_VALENZUELA.mp3
-alt: A estado no corresponde logística de vacunas
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW03_ARTURO_VALENZUELA.mp3"
+alt: "A estado no corresponde logística de vacunas"
 front: false
-section: Local
+section: "Local"
+news_id: 184175
 ---
 
 Debido a que la estrategia “Correcaminos” pertenece a la federación el estado no puede definir ni la fecha ni el grupo etario de personas que se vacunarán señaló el titular de la Dirección de la Zona Norte, Arturo Valenzuela Zorrilla. 

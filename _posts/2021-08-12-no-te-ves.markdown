@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz de teatro musical protagonizó innumerables polémicas en las emisiones del reality en las que participó. "
-image: /uploads/2021/images-lolita.jpg
-video: nil
-audio: nil
-alt: No te ves, estás gris -  Así fue el día que Lolita Cortés le paró el show a una alumna en 'La Academia'
+image: "/uploads/2021/images-lolita.jpg"
+video: "nil"
+audio: "nil"
+alt: "No te ves, estás gris -  Así fue el día que Lolita Cortés le paró el show a una alumna en 'La Academia'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186606
 ---
 
 Lolita Cortés es sin duda uno de los personajes más polémicos de la televisión mexicana, esto debido a sus diversas participaciones como juez en diversos concursos de talento, especialmente La Academia, donde protagonizó una gran cantidad de peleas con jueces y participantes generación tras generación. 

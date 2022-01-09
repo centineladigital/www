@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se llevarán a cabo talleres virtuales y otras acciones."
-image: /uploads/2021/images-ADRIANA.jpg
-video: /uploads/2021/videos-MM02_ADRIANA_GARCIA.mp4
-audio: nil
-alt: Presentan actividades del Encuentro Juventudes
+image: "/uploads/2021/images-ADRIANA.jpg"
+video: "/uploads/2021/videos-MM02_ADRIANA_GARCIA.mp4"
+audio: "nil"
+alt: "Presentan actividades del Encuentro Juventudes"
 front: false
-section: Local
+section: "Local"
+news_id: 186261
 ---
 
 En el marco del día Internacional de la Juventud se llevará a cabo la quinta edición del encuentro Juventudes, esto del 7 al 27 de agosto presentando eventos como reforestación, eventos deportivos, al igual que eventos virtuales entre los que se encuentran obras de teatro, así como conferencias y talleres.

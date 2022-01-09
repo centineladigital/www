@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor estadunidense comentó que si le preguntaran con quién quiere trabajar, aseguró que pondría a Iñárritu arriba en la lista. "
-image: /uploads/2021/images-sean-penn-confiesa-que-quiere.jpg
-video: nil
-audio: nil
-alt: Uno de los mejores -  Sean Penn confiesa que quiere trabajar con Alejandro González Iñárritu
+image: "/uploads/2021/images-sean-penn-confiesa-que-quiere.jpg"
+video: "nil"
+audio: "nil"
+alt: "Uno de los mejores -  Sean Penn confiesa que quiere trabajar con Alejandro González Iñárritu"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185564
 ---
 
 Sean Penn causó revuelo este domingo durante su participación en el Festival de Cannes 2021, cuya edición número 64 se lleva a cabo en Francia. Y es que el cineasta estadunidense afirmó este domingo que le gustaría trabajar con el mexicano Alejandro González Iñárritu, a quien considera "uno de los mejores directores del mundo actualmente". 

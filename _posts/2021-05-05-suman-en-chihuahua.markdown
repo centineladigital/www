@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Salud reportó el deceso de otros 30 chihuahuenses en las últimas 24 horas y 244 nuevos casos confirmados"
-image: /uploads/2021/images-Diapositiva2.jpeg
-video: nil
-audio: nil
-alt: Suman en Chihuahua 6 mil 768 defunciones por COVID-19   
+image: "/uploads/2021/images-Diapositiva2.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Suman en Chihuahua 6 mil 768 defunciones por COVID-19   "
 front: false
-section: Local
+section: "Local"
+news_id: 184283
 ---
 
 El estado de Chihuahua registró en las últimas 24 horas, el deceso de otras 30 personas a causa de la pandemia de COVID-19, con los que suman un total de 6 mil 768, de acuerdo con el reporte dado a conocer por la Secretaría de Salud.

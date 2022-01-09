@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En la pandemia la función de esta unidad ha sido más relevante, ya que con los chequeos evitamos complicaciones a la salud, aseguró su titular, Luis Raúl Meza "
-image: /uploads/2021/images-ISSSTE_02.jpeg
-video: nil
-audio: nil
-alt: Refuerza el ISSSTE la prevención de enfermedades, a través de clínica de detención y diagnostico automatizados 
+image: "/uploads/2021/images-ISSSTE_02.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Refuerza el ISSSTE la prevención de enfermedades, a través de clínica de detención y diagnostico automatizados "
 front: false
-section: Local
+section: "Local"
+news_id: 186540
 ---
 
 Ante la urgencia de reforzar la prevención de enfermedades y promover el autocuidado entre las y los servidores públicos, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) dispone de la Clínica de Detección y Diagnóstico Automatizados (CLIDDA), modelo médico único en el país para el análisis y monitoreo del estado de salud, informó el director general, Luis Antonio Ramírez Pineda.

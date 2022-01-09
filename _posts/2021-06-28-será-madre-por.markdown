@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La rapera, compositora y actriz estadounidense, Cardi B, anunció que está embarazada; espera su segundo bebé con Offset. "
-image: /uploads/2021/images-cardi-b-anuncio-su-segundo.jpg
-video: nil
-audio: nil
-alt: ¡Será madre por segunda ocasión! Cardi B anuncia que está embarazada
+image: "/uploads/2021/images-cardi-b-anuncio-su-segundo.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Será madre por segunda ocasión! Cardi B anuncia que está embarazada"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185286
 ---
 
 La rapera, compositora y actriz estadounidense, Cardi B, anunció que está embarazada por medio de sus redes sociales. Así lo dio a conocer a través de tres publicaciones diferentes, donde ya deja ver lo avanzado del bebé que espera con el rapero Offset.

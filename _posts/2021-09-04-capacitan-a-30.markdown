@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los elementos fueron capacitados por instructores que recibieron el debido adiestramiento por colegas del vecino país del norte, debido a que, resulta necesaria una especialización especifica"
-image: /uploads/2021/images-unnamed_(6).jpg
-video: nil
-audio: nil
-alt: Capacitan a 30 bomberos en manejo especializado de Unidad Torre para atención de incidentes de altura
+image: "/uploads/2021/images-unnamed_(6).jpg"
+video: "nil"
+audio: "nil"
+alt: "Capacitan a 30 bomberos en manejo especializado de Unidad Torre para atención de incidentes de altura"
 front: false
-section: Local
+section: "Local"
+news_id: 187439
 ---
 
 A fin de brindar un servicio especializado en el combate a incendios y otros incidentes de altura donde se requiere la utilización de la bombera “Unidad Torre”, con la cual cuenta el Heroico Cuerpo de Bomberos del municipio de Chihuahua; 30 elementos fueron capacitados en el manejo y funcionamiento de la misma, debido a su grado de complejidad y dimensiones.

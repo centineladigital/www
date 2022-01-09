@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "El doctor Dicky Budiman, de la Universidad Griffith en Australia, señaló que las autoridades están aplicando insuficientes medidas para frenar los brotes provocados por la variante delta, identificada primero en India y más contagiosa. "
-image: /uploads/2021/images-familiares-fallecidos-covid-visitan-seres_thumb_591_348.jpg
-video: nil
-audio: nil
-alt: Indonesia se convierte en un nuevo epicentro de la pandemia de covid-19 en Asia
+image: "/uploads/2021/images-familiares-fallecidos-covid-visitan-seres_thumb_591_348.jpg"
+video: "nil"
+audio: "nil"
+alt: "Indonesia se convierte en un nuevo epicentro de la pandemia de covid-19 en Asia"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185783
 ---
 
 En medio de una ola de la covid-19 que está asolando casi todo el Sudeste Asiático, Indonesia se ha convertido en el epicentro de la pandemia en Asia por el aumento en el número de contagios diarios, superando a Reino Unido.

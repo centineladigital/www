@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un tiroteo en las afueras de un hospital en París deja un hombre muerte y una mujer herida, en un presunto ajuste de cuentas, según la policía "
-image: /uploads/2021/images-2560941.jpg
-video: nil
-audio: nil
-alt: Tiroteo afuera de hospital deja un muerto y un herido en París
+image: "/uploads/2021/images-2560941.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tiroteo afuera de hospital deja un muerto y un herido en París"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183832
 ---
 
 Un hombre murió y una mujer resultó herida de bala este lunes afuera de un hospital en París, en un presunto ajuste de cuentas perpetrado por un encapuchado que huyó a bordo de una motocicleta.

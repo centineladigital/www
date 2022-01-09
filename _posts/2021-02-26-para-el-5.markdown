@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Secretario General de Gobierno señala que aparte del caso de la “nómina secreta” sigue programada la audiencia para formulación de cargos en un expediente por cohecho ya judicializado por la Fiscalía Anticorrupción"
-image: /uploads/2021/images-WhatsApp_Image_2021-02-26_at_11.55.14_AM.jpeg
-video: nil
-audio: nil
-alt: Para el 5 de marzo audiencia sobre el otro caso de corrupción de alcaldesa de Chihuahua -  SGG
+image: "/uploads/2021/images-WhatsApp_Image_2021-02-26_at_11.55.14_AM.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Para el 5 de marzo audiencia sobre el otro caso de corrupción de alcaldesa de Chihuahua -  SGG"
 front: false
-section: Local
+section: "Local"
+news_id: 183181
 ---
 
 Para el viernes 5 de marzo está programada la otra audiencia de formulación de imputación contra la alcaldesa con licencia, derivada de la investigación de la Fiscalía Anticorrupción de Chihuahua, informó el secretario general de Gobierno, Luis Fernando Mesta Soulé.

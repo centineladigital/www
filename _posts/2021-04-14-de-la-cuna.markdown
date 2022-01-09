@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el centro Li Xiaoshuang cambiaron aquellos entrenamientos casi militares, ahora tratan de disfrutar del deporte. “Es más relajado”, dicen"
-image: /uploads/2021/images-2562054.jpg
-video: nil
-audio: nil
-alt: De la cuna a Tokio 2020, los gimnastas chinos
+image: "/uploads/2021/images-2562054.jpg"
+video: "nil"
+audio: "nil"
+alt: "De la cuna a Tokio 2020, los gimnastas chinos"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183871
 ---
 
 Se entrenan sin descanso desde la infancia: los mejores gimnastas chinos cumplirán su sueño este año de participar en unos Juegos Olímpicos, después de una vida pasada entre aparatos gimnásticos y repetición sin fin de ejercicios.

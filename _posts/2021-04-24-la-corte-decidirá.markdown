@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Luego de que la Cámara de Diputados aprobó ampliar dos años su presidencia, el ministro dijo que respetará lo que determinen sus demás compañeros integrantes del máximo tribunal; “tengo que anteponer el bien del país, incluso frente al costo político”, afirmó"
-image: /uploads/2021/images-ss.jpg
-video: nil
-audio: nil
-alt: “La Corte decidirá” -  ministro Arturo Zaldívar
+image: "/uploads/2021/images-ss.jpg"
+video: "nil"
+audio: "nil"
+alt: "“La Corte decidirá” -  ministro Arturo Zaldívar"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184087
 ---
 
 El ministro Arturo Zaldívar dijo que continuará ejerciendo su cargo como presidente de la Suprema Corte por el plazo para el cual fue electo por los demás ministros.

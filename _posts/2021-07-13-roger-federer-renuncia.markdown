@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras una lesión en la rodilla, motivo por el cual no podrá participar en la justa que inicia el próximo viernes 23 de julio. "
-image: /uploads/2021/images-XG2GHTREZFDNZAB4ANWFZHK25I.jpg
-video: nil
-audio: nil
-alt: Roger Federer renuncia a los Juegos Olímpicos de Tokio
+image: "/uploads/2021/images-XG2GHTREZFDNZAB4ANWFZHK25I.jpg"
+video: "nil"
+audio: "nil"
+alt: "Roger Federer renuncia a los Juegos Olímpicos de Tokio"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185606
 ---
 
 Roger Federer, quien lideraba la delegación suiza para ir a los Juegos Olímpicos, decidió renunciar a Tokio 2020 tras una lesión en la rodilla, motivo por el cual no podrá participar en la justa que inicia el próximo viernes 23 de julio. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Advierte Coordinación Estatal de Protección Civil de lluvias aisladas y tolvaneras en tramos carreteros, para este martes y miércoles"
-image: /uploads/2021/images-VIENTO_CUU_(3).JPG
-video: nil
-audio: nil
-alt: Permiten fuertes rachas de viento ligera disminución  de las elevadas temperaturas
+image: "/uploads/2021/images-VIENTO_CUU_(3).JPG"
+video: "nil"
+audio: "nil"
+alt: "Permiten fuertes rachas de viento ligera disminución  de las elevadas temperaturas"
 front: false
-section: Local
+section: "Local"
+news_id: 185033
 ---
 
 Para este martes 15 de enero las rachas de viento de hasta 55 kilómetros por hora (km/h) permitirán una ligera disminución de las elevadas temperaturas que se registraron la semana pasada, cuando Ojinaga llegó hasta los 44°C, informó la Coordinación Estatal de Protección Civil (CEPC).

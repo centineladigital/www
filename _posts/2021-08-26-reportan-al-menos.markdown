@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Pentágono confirmó que “un ataque al complejo” resultó en “un número” de víctimas estadounidenses y civiles"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Reportan al menos 13 muertos tras ataque cerca del aeropuerto de Kabul
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Reportan al menos 13 muertos tras ataque cerca del aeropuerto de Kabul"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187136
 ---
 
 Kabul.- Al menos 13 personas perdieron la vida después de dos ataques cerca del aeropuerto de Kabul ocurridos esta tarde. El Pentágono confirmó que “un ataque al complejo” resultó en “un número” de víctimas estadounidenses y civiles.

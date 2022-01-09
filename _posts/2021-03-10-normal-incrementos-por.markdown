@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "En tan sólo 24 horas 186 personas dieron positivo mientras que se acreditó 29 muertes."
-image: /uploads/2021/images-arton20128.jpg
-video: nil
-audio: /uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp3
-alt: Normal incrementos por apertura -  Valenzuela
+image: "/uploads/2021/images-arton20128.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp3"
+alt: "Normal incrementos por apertura -  Valenzuela"
 front: false
-section: Local
+section: "Local"
+news_id: 183376
 ---
 
 El incremento que se encuentra registrándose en la pandemia es normal por la apertura dentro de la economía, fueron las palabras del Director Médico Zona Norte, Arturo Valenzuela Zorrilla, esto al dar a conocer la actualización de cifras dentro de la crisis sanitaria que ha dejado el coronavirus. En tan sólo 24 horas 186 personas dieron positivo mientras que se acreditó 29 muertes.

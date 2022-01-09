@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma Salud 15 nuevos contagios y 3 fallecimientos en el estado; sigue municipio de Chihuahua con el mayor número de casos activos en las últimas dos semanas con 689 positivos confirmados, seguido de Juárez con 192"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Acumula Chihuahua 6,738 decesos y 65,240 casos positivos por COVID-19
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Acumula Chihuahua 6,738 decesos y 65,240 casos positivos por COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 184240
 ---
 
 A lo largo de la pandemia suman en la entidad 65 mil 240 contagios acumulados y 6 mil 738 mayo  que emite la Secretaría de Salud.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "JJ Macías ya fue presentado de forma oficial como nuevo futbolista del Getafe."
-image: /uploads/2021/images-deportes.png
-video: nil
-audio: nil
-alt: JJ Macías fue presentado con el Getafe, tendré grandes actuaciones y haré goles.
+image: "/uploads/2021/images-deportes.png"
+video: "nil"
+audio: "nil"
+alt: "JJ Macías fue presentado con el Getafe, tendré grandes actuaciones y haré goles."
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185427
 ---
 
 

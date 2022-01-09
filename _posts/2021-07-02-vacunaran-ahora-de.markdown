@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Del cinco al ocho de julio inicia la vacunación en sus primeras dosis contra el Covid-19, para personas de 40 a 49 años"
-image: /uploads/2021/images-vuna.jpeg
-video: nil
-audio: nil
-alt: Vacunaran ahora de 40 a 49 años
+image: "/uploads/2021/images-vuna.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Vacunaran ahora de 40 a 49 años"
 front: false
-section: Local
+section: "Local"
+news_id: 185345
 ---
 
 La Delegación Estatal de Programas para el Desarrollo del Gobierno Federal y la coordinación de Salud para la vacunación en el estado de Chihuahua informan que del cinco al ocho de julio inicia la vacunación en sus primeras dosis contra el Covid-19, para personas de 40 a 49 años y mujeres embarazadas, mayores de 18 años, en su novena semana de gestación, para la ciudad de Chihuahua.

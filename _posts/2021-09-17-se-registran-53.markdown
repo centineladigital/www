@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ya suman 77,046 casos acumulados en todo lo que va de la pandemia "
-image: /uploads/2021/images-2624875.jpg
-video: /uploads/2021/videos-WhatsApp_Video_2021-09-17_at_10.42.24.3gpp
-audio: nil
-alt: Se registran 53 nuevos casos de COVID-19 para el estado de Chihuahua 
+image: "/uploads/2021/images-2624875.jpg"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-09-17_at_10.42.24.3gpp"
+audio: "nil"
+alt: "Se registran 53 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
-section: Local
+section: "Local"
+news_id: 187818
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 17 de septiembre se tiene un total general de 77 mil 046 contagios en el estado, luego de confirmarse otros 53 más en Juárez, Chihuahua, Parral, Cuauhtémoc, Delicias, Meoqui, Guachochi, Saucillo, Guazapares, Madera, Rosales, Ascension, Manuel Benavides, Matamoros, Janos, Galenana, Temosachi, Carichi, Praxedis G. Guerrero y Moris.

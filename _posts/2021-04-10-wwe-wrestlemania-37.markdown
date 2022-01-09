@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La empresa de lucha libre más reconocida a nivel mundial celebrará su magno evento en el Raymond James Stadium de Tampa, Florida"
-image: /uploads/2021/images-2559892.jpg
-video: nil
-audio: nil
-alt: WWE Wrestlemania 37 -  Cartelera y dónde verlo
+image: "/uploads/2021/images-2559892.jpg"
+video: "nil"
+audio: "nil"
+alt: "WWE Wrestlemania 37 -  Cartelera y dónde verlo"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183804
 ---
 
 La World Wrestling Entertainment (WWE) celebrará una edición más de su magno evento, Wrestlemania 37 se llevará a cabo en el Raymond James Stadium, casa de los actuales monarcas de la NFL, los Bucaneros de Tampa Bay y por primera vez tras poco más de un año, contará con la presencia de público.

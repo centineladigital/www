@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente Andrés Manuel López Obrador pidió aprovechar las temporadas de estiaje para adelantar la construcción del Tren Maya y de la carretera que corre paralela en el tramo de Izamal a Cancún"
-image: /uploads/2021/images-2540152.jpg
-video: nil
-audio: nil
-alt: Piden adelantar obras del Tren Maya
+image: "/uploads/2021/images-2540152.jpg"
+video: "nil"
+audio: "nil"
+alt: "Piden adelantar obras del Tren Maya"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183313
 ---
 
 El presidente Andrés Manuel López Obrador pidió aprovechar las temporadas de estiaje para adelantar la construcción del Tren Maya y de la carretera que corre paralela en el tramo de Izamal a Cancún.

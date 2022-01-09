@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se reconoció al metodólogo deportivo Adolfo Irineo del Corral Morales"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Realizan entrega de material deportivo al Gimnasio del Deporte Adaptado
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Realizan entrega de material deportivo al Gimnasio del Deporte Adaptado"
 front: false
-section: Local
+section: "Local"
+news_id: 187546
 ---
 
 El Gobierno Municipal de Chihuahua a través del Instituto Municipal de Cultura Física y Deporte (IMCFD) hizo la entrega de material didáctico y deportivo a usuarios del Gimnasio del Deporte Adaptado, con lo que se verán beneficiados cerca de 200 personas.

@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "El PAN siempre apoya la vida "
-image: /uploads/2021/images-CARLA.jpg
-video: /uploads/2021/videos-BW01_CARLA_RIVAS.mp4
-audio: nil
-alt: Se presentara un posicionamiento pro- vida -  Carla Rivas (PAN)
+image: "/uploads/2021/images-CARLA.jpg"
+video: "/uploads/2021/videos-BW01_CARLA_RIVAS.mp4"
+audio: "nil"
+alt: "Se presentara un posicionamiento pro- vida -  Carla Rivas (PAN)"
 front: false
-section: Local
+section: "Local"
+news_id: 187549
 ---
 
 La diputada Carla Rivas afirmó que se presentará un posicionamiento para hacerle ver a la suprema corte de justicia que tome a consideración la postura que tiene el Partido Acción Nacional en contra del aborto.

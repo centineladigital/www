@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante originario de Tlaxcala considera que es el disco más importante de su carrera."
-image: /uploads/2021/images-carlos-rivera-viajo-miami-grabar.jpg
-video: nil
-audio: nil
-alt: Carlos Rivera presenta 'Leyendas', su disco homenaje a Manzanero, Raphael, Roberto Carlos y más
+image: "/uploads/2021/images-carlos-rivera-viajo-miami-grabar.jpg"
+video: "nil"
+audio: "nil"
+alt: "Carlos Rivera presenta 'Leyendas', su disco homenaje a Manzanero, Raphael, Roberto Carlos y más"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184668
 ---
 
 Carlos Rivera estaba sentado en el escenario del Auditorio Nacional con las butacas rojas y vacías a sus espaldas. Desde ahí dio la conferencia de prensa virtual, en la que aseguró que a pesar de sus logros, fans y tendencias, aún no se considera una leyenda, para ello le faltan muchos años. “Una leyenda tiene que tener mucho tiempo en la música, por lo menos 40 de carrera”, destacó el cantante nacido en Tlaxcala hace 35 años. 

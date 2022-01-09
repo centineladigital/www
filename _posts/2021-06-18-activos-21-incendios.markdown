@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: ""
-image: /uploads/2021/images-manuel.jpg
-video: nil
-audio: /uploads/2021/audio-MV05.mp3
-alt: Activos 21 incendios en el estado
+image: "/uploads/2021/images-manuel.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05.mp3"
+alt: "Activos 21 incendios en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 185113
 ---
 
 En total se tienen registro de 21 incendios forestales que son activos, de esta cifra 9 se está trabajando en el control y 12 de estos están sofocados y controlados arriba del 80 por ciento, según fue dado a conocer por parte del representante de la Comisión Nacional Forestal, Manuel Chávez.

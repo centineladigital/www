@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Lamenta César Peniche que por decisiones de jueces se dé sentencia absolutoria."
-image: /uploads/2021/images-PENICHE1.jpg
-video: /uploads/2021/videos-MM03_CESAR_PENICHE.mp4
-audio: nil
-alt: Deja Poder Judicial libres a detenidos -  Fiscal 
+image: "/uploads/2021/images-PENICHE1.jpg"
+video: "/uploads/2021/videos-MM03_CESAR_PENICHE.mp4"
+audio: "nil"
+alt: "Deja Poder Judicial libres a detenidos -  Fiscal "
 front: false
-section: Local
+section: "Local"
+news_id: 185846
 ---
 
 “Lamentablemente en algunas ocasiones que hemos ejercido alguna acción penal, no hemos contado con la opinión favorable del poder judicial y no se dicta prisión preventiva” fueron las palabras del Fiscal General de Chihuahua, César Augusto Peniche Espejel al ser cuestionado respecto al incremento en los casos de robos. 

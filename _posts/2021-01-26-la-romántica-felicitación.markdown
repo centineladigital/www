@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ester Expósito está cumpliendo 20 años. "
-image: /uploads/2021/images-ester-y-alejandro-instagram.jpg
-video: nil
-audio: nil
-alt: La romántica felicitación de Alejandro Speitzer a Ester Expósito por su cumpleaños
+image: "/uploads/2021/images-ester-y-alejandro-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "La romántica felicitación de Alejandro Speitzer a Ester Expósito por su cumpleaños"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182466
 ---
 
 Por si a algún despistado todavía le quedaba la duda de si la relación entre el mexicano Alejandro Speitzer y la española Ester Expósito iba en serio, lo que pudimos ver hoy en las redes sociales nos dejó muy en claro que el amor es real y muy fuerte, y que además, ninguno de los dos tiene ganas de esconderlo, por lo que van por ahí tirando miel y despertando la envidia de muchos y muchas.  

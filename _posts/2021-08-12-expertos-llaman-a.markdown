@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Así como ocurre con el dióxido de carbono, el importante número en las emisiones de esas partículas ha contribuido al calentamiento global, según especialistas"
-image: /uploads/2021/images-1365_1320_effects-image.jpg
-video: nil
-audio: nil
-alt: Expertos llaman a reducir el gas metano si se quiere salvar al planeta ante cambio climático
+image: "/uploads/2021/images-1365_1320_effects-image.jpg"
+video: "nil"
+audio: "nil"
+alt: "Expertos llaman a reducir el gas metano si se quiere salvar al planeta ante cambio climático"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186601
 ---
 
 El gas metano se ha vuelto de gran preocupación para la comunidad científica, la cual ha pedido al mundo reducirlo a números importantes, al igual que ocurre con las partículas de dióxido de carbono (CO2), debido a que su alto nivel en la atmósfera terrestre es riesgoso para el planeta ante un calentamiento global catastrófico. 

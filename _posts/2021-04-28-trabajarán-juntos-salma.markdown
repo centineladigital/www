@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Salma Hayek subió un video con Anthony Hopkins para celebrar que el actor ganó este 25 de abril su segundo Oscar. "
-image: /uploads/2021/images-salma-hayek-reunio-anthony-hopkins_44_0_1045_650.jpg
-video: nil
-audio: nil
-alt: ¿Trabajarán juntos? Salma Hayek comparte video con Anthony Hopkins; celebran el Oscar del actor
+image: "/uploads/2021/images-salma-hayek-reunio-anthony-hopkins_44_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Trabajarán juntos? Salma Hayek comparte video con Anthony Hopkins; celebran el Oscar del actor"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184157
 ---
 
 Este 25 de abril se llevaron a cabo los Premios Oscar, en donde Anthony Hopkins se alzó con la estatuilla por Mejor Actor gracias a su trabajo en The Father. Y tras su triunfo, recibió la visita de la mexicana Salma Hayek con quien celebró haber ganado su segundo Premio Oscar en su carrera actoral. Durante la ceremonia de los Premios Oscar, Anthony Hopkins no estuvo presente, por lo que no pudo recibir la estatuilla. Un día después, el actor de The Father reveló que debido a la diferencia de horas entre Gales y Los Ángeles prefirió ir a dormir, ya que también pensó que no ganaría. 

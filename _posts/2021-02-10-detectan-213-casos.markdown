@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Llega Chihuahua a 51 mil 956 casos de personas infectadas en total."
-image: /uploads/2021/images-LETICIA.jpg
-video: nil
-audio: /uploads/2021/audio-MW02_LETICIA_RUIZ.mp3
-alt: Detectan 213 casos de COVID en 24 horas
+image: "/uploads/2021/images-LETICIA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW02_LETICIA_RUIZ.mp3"
+alt: "Detectan 213 casos de COVID en 24 horas"
 front: false
-section: Local
+section: "Local"
+news_id: 182839
 ---
 
 En solo 24 horas la cifra total de personas contagiadas llegó a 51,956 al registrarse 213 nuevos casos de personas que dieron positivo a la prueba PCR, así como la acreditación de cinco fallecimientos con lo que se llega a un total de cuatro mil 818 en todo el estado, según lo dio a conocer la Directora de Prevención y Control de enfermedades Leticia Ruiz González.

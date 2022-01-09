@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Por medio de este portal al que se puede acceder en la dirección https://entregarecepcion.chihuahua.gob.mx/ se podra seguir el proceso de entrega recepción anuncio la secretaria."
-image: /uploads/2021/images-monic.jpg
-video: nil
-audio: nil
-alt: Detalla Secretaría de la Función entrega recepción
+image: "/uploads/2021/images-monic.jpg"
+video: "nil"
+audio: "nil"
+alt: "Detalla Secretaría de la Función entrega recepción"
 front: false
-section: Local
+section: "Local"
+news_id: 185397
 ---
 
 La Secretaría de la Función Pública del Gobierno del Estado de Chihuahua informa que para transparentar el proceso de entrega-recepción, se puso a disposición del público un portal web, que se irá actualizando conforme se desarrolle la transición de la administración 2016-2021 a la 2021-2027,

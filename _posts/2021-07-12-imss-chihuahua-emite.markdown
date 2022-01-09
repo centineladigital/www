@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, informa a la población qué hacer ante una quemadura por el sol y un “golpe de calor”."
-image: /uploads/2021/images-Foto_2842-1.jpg
-video: nil
-audio: nil
-alt: IMSS Chihuahua emite recomendaciones para prevenir quemaduras por el sol y “golpe de calor”
+image: "/uploads/2021/images-Foto_2842-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "IMSS Chihuahua emite recomendaciones para prevenir quemaduras por el sol y “golpe de calor”"
 front: false
-section: Local
+section: "Local"
+news_id: 185556
 ---
 
 El enlace médico de la Jefatura de Prestaciones Médicas, doctor Arturo Talamás Terrazas, enfatizó que lo primero es no exponerse en esta temporada por largos periodos al sol. 

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Forma parte de las 15 zonas que se encuentran en la ciudad"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Inaugura Alcaldesa Zona Naranja en planta Batesville
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Inaugura Alcaldesa Zona Naranja en planta Batesville"
 front: false
-section: Local
+section: "Local"
+news_id: 186334
 ---
 
 En el marco del convenio de colaboración entre el Gobierno Municipal a través del Instituto de la Mujer e Index Chihuahua “IMM en tu empresa”, la alcaldesa María Angélica Granados Trespalacios, encabezó el lanzamiento del programa Zona Naranja en la empresa Batesville, el cual busca adaptar espacios seguros para las mujeres, contribuyendo a la prevención y erradicación de la violencia familiar y de género.

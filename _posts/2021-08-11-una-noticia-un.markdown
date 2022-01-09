@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante reveló los motivos por los que decidió cambiar la fecha de su concierto en la Arena México para celebrar sus 10 años de carrera. "
-image: /uploads/2021/images-identicas-angela-aguilar-tiene-una_0_0_958_596.jpg
-video: nil
-audio: nil
-alt: Una noticia un poco triste -  Ángela Aguilar revela por qué canceló su concierto en CdMx
+image: "/uploads/2021/images-identicas-angela-aguilar-tiene-una_0_0_958_596.jpg"
+video: "nil"
+audio: "nil"
+alt: "Una noticia un poco triste -  Ángela Aguilar revela por qué canceló su concierto en CdMx"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186585
 ---
 
 Ángela Aguilar estaba alistando los últimos detalles del concierto que ofrecería en la Arena Ciudad de México el próximo 21 de agosto para celebrar sus diez años de carrera; sin embargo, los planes de la hija del cantante Pepe Aguilar se vieron frustrados y anunció la cancelación de su presentación, lo que sorprendió a sus fans.  

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pide CEPC extremar precauciones ante la presencia de fuertes vientos en la mayoría del territorio estatal"
-image: /uploads/2021/images-vientos-chih.jpg
-video: nil
-audio: nil
-alt: Pronostican ráfagas de hasta 85 km/h  con entrada del Frente Frío 38 a la entidad
+image: "/uploads/2021/images-vientos-chih.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pronostican ráfagas de hasta 85 km/h  con entrada del Frente Frío 38 a la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 183151
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que durante las primeras horas de este jueves 25 de febrero entró el Frente Frío número 38 a la entidad, por lo que pidió extremar precauciones ante la presencia de rachas de viento que podrían rebasar hasta los 85 kilómetros por hora (km/h).

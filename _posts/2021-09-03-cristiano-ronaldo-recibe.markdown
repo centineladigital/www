@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Cristiano Ronaldo se convirtió en el máximo goleador a nivel de selección"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Cristiano Ronaldo recibe Récord Guiness por los 111 goles con Portugal
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Cristiano Ronaldo recibe Récord Guiness por los 111 goles con Portugal"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187397
 ---
 
 El delantero Cristiano Ronaldo el miércoles llegó a 111 goles con la selección de Portugal, convirtiéndose en el máximo goleador a nivel de selecciones y por ello fue reconocido por los Guiness World Récords.

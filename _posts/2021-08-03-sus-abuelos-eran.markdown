@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Muchos aseguran que Elvis Presley murió debido a sus adicciones junto con algunos problemas de salud, sin embargo, ha surgido la teoría a que el cantante falleció joven por sus malos genes."
-image: /uploads/2021/images-historiadora-sally-hoedel-asegura-elvis.jpg
-video: nil
-audio: nil
-alt: ¿Sus abuelos eran hermanos? Aseguran Elvis Presley murió por 'malos genes' y no por adicciones
+image: "/uploads/2021/images-historiadora-sally-hoedel-asegura-elvis.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Sus abuelos eran hermanos? Aseguran Elvis Presley murió por 'malos genes' y no por adicciones"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186264
 ---
 
 Elvis Presley fue uno de los cantantes que destacó durante los 50 y 60, sin embargo, el intérprete de “Hound Dog” murió a los 42 años después de a travesar varios problemas de salud y adicciones, pero una nueva investigación hecha por una historiadora podría revelar la verdadera casusa del fallecimiento de El rey del rock. 

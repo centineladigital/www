@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Tienen más de dos días tratando de recibir atención por medio de las personas encargadas"
-image: /uploads/2021/images-WhatsApp_Image_2021-09-14_at_10.06.18_AM.jpeg
-video: /uploads/2021/videos-BM05_MANIFESTACION.mp4
-audio: nil
-alt: Motín en el banco de bienestar 
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-14_at_10.06.18_AM.jpeg"
+video: "/uploads/2021/videos-BM05_MANIFESTACION.mp4"
+audio: "nil"
+alt: "Motín en el banco de bienestar "
 front: false
-section: Local
+section: "Local"
+news_id: 187732
 ---
 
 Algunos solicitantes se amotinaron afuera de las oficinas del banco del bienestar ubicado en la calle Aldama  alegando que no se les respeta su tiempo de llegada ya que al parecer la mayoría de las personas formadas no reciben la ayuda aunque ya hayan ido 3 veces seguidas.

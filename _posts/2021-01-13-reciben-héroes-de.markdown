@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Inicia aplicación con la primera remesa de 14 mil 625 dosis que llegó para distribuirse en los 30 hospitales de la plataforma IRAG en la entidad"
-image: /uploads/2021/images-VACUNACIÓN_COVID_(4).jpeg
-video: nil
-audio: nil
-alt: Reciben Héroes de la Salud de Chihuahua primeras vacunas contra COVID-19
+image: "/uploads/2021/images-VACUNACIÓN_COVID_(4).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Reciben Héroes de la Salud de Chihuahua primeras vacunas contra COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 182105
 ---
 
 Este miércoles 13 de enero comenzó en Chihuahua la aplicación de la vacuna COVID-19, al personal del sector salud que atiende directamente a pacientes con esta enfermedad, informó la Secretaría de Salud Estatal.

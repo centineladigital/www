@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Dicha institución enfrenta una deuda a proveedores cercanos a los 900 millones de pesos"
-image: /uploads/2021/images-jXusqCwrD1xKWmBG.jpeg
-video: nil
-audio: /uploads/2021/audio-AW02_MANIFESTACION.mp3
-alt: Sección 42 exige solución en tema de salud en PCE 
+image: "/uploads/2021/images-jXusqCwrD1xKWmBG.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-AW02_MANIFESTACION.mp3"
+alt: "Sección 42 exige solución en tema de salud en PCE "
 front: false
-section: Local
+section: "Local"
+news_id: 182677
 ---
 
 Cientos de docentes de la Sección 42 del Snte provenientes de diversos municipios de la entidad cerraron las calles del primer cuadro de la capital para exigir que se resuelva a la brevedad, la crisis financiera en Pensiones Civiles del Estado que desde el pasado viernes, ha derivado en la suspensión del servicio en 3 hospitales privados.

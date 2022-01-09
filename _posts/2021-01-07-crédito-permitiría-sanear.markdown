@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se inyectarán 300 mdp para saldar los adeudos que tiene Pensiones con hospitales privados, por la subrogación que realiza."
-image: /uploads/2021/images-CHIHUAHUA-ADELANTE-GOBERNADOR-JAVIER-CORRAL-696x392-1.jpg
-video: nil
-audio: nil
-alt: Crédito permitiría sanear Pensiones Civiles y hacer obras como la ampliación del Bowí
+image: "/uploads/2021/images-CHIHUAHUA-ADELANTE-GOBERNADOR-JAVIER-CORRAL-696x392-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Crédito permitiría sanear Pensiones Civiles y hacer obras como la ampliación del Bowí"
 front: false
-section: Local
+section: "Local"
+news_id: 181936
 ---
 
 En su programa en Línea Directa con el Gobernador, Javier Corral, reitera a diputadas y diputados la necesidad de la aprobación de este crédito, como un favor al pueblo de Chihuahua, no a hacia su persona

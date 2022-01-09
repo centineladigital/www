@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se trabajó en conjunto con los 67 Sistemas DIF Municipales para  entregar becas, despensas, útiles escolares, pañales, material para construcción, medicamentos, estudios clínicos y gastos de hospitalización, cirugía o defunción, detalla Atención Ciudadana en programa Logros con Valor."
-image: /uploads/2021/images-red_de_fortalecimiento_familiar_8.jpg
-video: nil
-audio: nil
-alt: Otorgó DIF Estatal más de 14 mil apoyos directos a personas en situación de vulnerabilidad
+image: "/uploads/2021/images-red_de_fortalecimiento_familiar_8.jpg"
+video: "nil"
+audio: "nil"
+alt: "Otorgó DIF Estatal más de 14 mil apoyos directos a personas en situación de vulnerabilidad"
 front: false
-section: Local
+section: "Local"
+news_id: 185650
 ---
 
 La Dirección de Atención Ciudadana del DIF Estatal logró gestionar en 5 años más de 14 mil apoyos directos en efectivo o en especie consistentes en despensas, becas, útiles escolares, pañales, material para construcción, medicamentos, estudios clínicos y gastos de hospitalización, cirugía o defunción.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "A fin de visibilizar esta problemática y brindar elementos para su prevención y denuncia"
-image: /uploads/2021/images-unnamed.png
-video: nil
-audio: nil
-alt: Imparte Instituto Municipal de las Mujeres plática virtual sobre trata de personas
+image: "/uploads/2021/images-unnamed.png"
+video: "nil"
+audio: "nil"
+alt: "Imparte Instituto Municipal de las Mujeres plática virtual sobre trata de personas"
 front: false
-section: Local
+section: "Local"
+news_id: 186134
 ---
 
 En el marco del Día Mundial contra la Trata de Personas, el Instituto Municipal de las Mujeres (IMM) impartió la charla titulada “¿Sabes qué es la trata de personas? Abordaje básico del delito”, a fin de visibilizar esta problemática y brindar elementos para su prevención y denuncia.

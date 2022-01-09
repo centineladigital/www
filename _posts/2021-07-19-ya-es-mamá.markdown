@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante compartió una emotiva imagen familiar junto a su pareja, Alev Aydin, para presentar a su primer bebé. "
-image: /uploads/2021/images-halsey-anuncia-el-nacimiento-de_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¡Ya es mamá! Halsey anuncia el nacimiento de su bebé con tierna foto
+image: "/uploads/2021/images-halsey-anuncia-el-nacimiento-de_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Ya es mamá! Halsey anuncia el nacimiento de su bebé con tierna foto"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185815
 ---
 
 Halsey se volvió tendencia en redes sociales luego de anunciar el nacimiento de su primer bebé con una tierna fotografía. La intérprete de "Without me" se sumó a la lista de celebridades, entre ellas Hilary Duff, Natti Natasha y Scarlett Johansson, que decidieron aumentar los miembros de su familia en plena pandemia de covid-19. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Irina Baeva y Gabriel Soto anunciaron su compromiso matrimonial. ¿Cuándo se casarán? ¿En dónde se celebrará la boda? Te contamos lo que sabemos sobre eta noticia que le está dando la vuelta a las rede sociales. "
-image: /uploads/2021/images-irina-baeva-gabriel-soto-casaran-1.jpg
-video: nil
-audio: nil
-alt: ¡Habrá boda! Gabriel Soto e Irina Baeva se unirán en matrimonio -  ella dijo que sí
+image: "/uploads/2021/images-irina-baeva-gabriel-soto-casaran-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Habrá boda! Gabriel Soto e Irina Baeva se unirán en matrimonio -  ella dijo que sí"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182292
 ---
 
 Irina Baeva y Gabriel Soto se comprometen para ser marido y mujer. La pareja de famosos compartió que muy pronto se unirán en matrimonio con una boda. Detallaron cuándo fue la petición matrimonial y la forma en la que se hizo. Te contamos lo que sabemos sobre esta polémica pareja y su próxima unión matrimonial. Fue en entrevista exclusiva para la revista ¡HOLA! en donde la pareja anunció la noticia. Próximamente se casarán. Junto a imágenes inéditas –en donde se dio la petición del compromiso – la pareja explicó que se comprometieron para llevar su amor al altar el pasado mes de octubre 2020.

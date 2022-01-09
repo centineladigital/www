@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "México es reconocido mundialmente por su gran tradición telenovelera; sin embargo muchas de las grandes ideas vienen de otros países. "
-image: /uploads/2021/images-telenovelas-mexicanas-que-son-remakes_20_0_1059_660.jpg
-video: nil
-audio: nil
-alt: Telenovelas mexicanas que fueron muy exitosas pero son 'refritos' de otros países
+image: "/uploads/2021/images-telenovelas-mexicanas-que-son-remakes_20_0_1059_660.jpg"
+video: "nil"
+audio: "nil"
+alt: "Telenovelas mexicanas que fueron muy exitosas pero son 'refritos' de otros países"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184127
 ---
 
 México es reconocido a nivel mundial por ser un país con una gran tradición telenovelera, pues muchas de las grandes producciones nacionales han triunfado al grado de ser transmitidas en otros países; sin embargo, varias de las telenovelas que alcanzaron un gran éxito en nuestro país, en realidad fueron adaptaciones de grandes producciones extranjeras. Seguramente en tu vida has visto por lo menos una telenovela de la que te has enganchado de principio a fin. Por ese motivo, aquí te presentamos algunos de los títulos de telenovelas que triunfaron en México pero que en realidad fueron versiones "a la mexicana" de grandes éxitos de otros países, ¿las conoces todas?, ¿cuál agregarías a la lista? 

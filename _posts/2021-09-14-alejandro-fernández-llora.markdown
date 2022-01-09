@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Potrillo y su hijo, Alejandro Fernández Jr, dieron unos conciertos en Estados Unidos, fue en uno de ellos que el cantante no pudo evitar llorar al recordar a su papá. "
-image: /uploads/2021/images-alejandro-fernandez-dedico-concierto-papa.jpg
-video: nil
-audio: nil
-alt: Alejandro Fernández llora en concierto dedicado a su papá, Vicente Fernández
+image: "/uploads/2021/images-alejandro-fernandez-dedico-concierto-papa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Alejandro Fernández llora en concierto dedicado a su papá, Vicente Fernández"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187712
 ---
 
 Desde más de un mes Vicente Fernández se encuentra hospitalizado debido a una caída, tras varios estudios se descubrió que tiene el Síndrome de Guillain-Barré, por lo que aún se encuentra en recuperación. A pesar del difícil momento por el que pasa la dinastía, Alejandro Fernández y su hijo retomaron sus actividades, es por eso que empezaron una gira en Estados Unidos, fue en uno de estos conciertos que El Potrillo no pudo contener las lágrimas. Fue este 11 de septiembre que Alejandro Fernández se presentó junto con su hijo con la gira Hecho en México Tour 2021. La primera fecha se realizó en Sacramento, California. Fue durante un momento de esta presentación, padre e hijo dedicaron una canción a Vicente Fernández.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A la fecha la Secretaría de Salud reporta 6 mil 836 decesos y 66 mil 442 casos, de ellos 33 mil 537 son hombres y 32 mil 905 son mujeres"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Se contagian 46 personas y 6 más fallecen por COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Se contagian 46 personas y 6 más fallecen por COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184418
 ---
 
 La Secretaría de Salud dio a conocer que en las últimas horas se confirmaron en la entidad 46 nuevos contagios por SARS-CoV-2 y 6 fallecimientos más, de los cuales 5 corresponden a Chihuahua y uno a Bocoyna.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el uniforme alternativo predomina el azul marino, la playera es cuello tipo polo y en el pecho se aprecian detalles de la bandera del Rebaño"
-image: /uploads/2021/images-2508307.jpg
-video: nil
-audio: nil
-alt: Chivas presenta elegante playera alternativa
+image: "/uploads/2021/images-2508307.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chivas presenta elegante playera alternativa"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 181967
 ---
 
 Las Chivas dieron a conocer su nueva playera alternativa que usarán para el Torneo Guard1anes Clausura 2021 de la Liga MX.

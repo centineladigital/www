@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La película del director mexicano será protagonizada por Bradley Cooper y, si todo sale bien, podremos disfrutarla en la pantalla grande a final de año. "
-image: /uploads/2021/images-guillermo-del-toro-shutterstock-1.jpg
-video: nil
-audio: nil
-alt: Nightmare Alley de Guillermo del Toro se estrenará en cines en diciembre de 2021
+image: "/uploads/2021/images-guillermo-del-toro-shutterstock-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Nightmare Alley de Guillermo del Toro se estrenará en cines en diciembre de 2021"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182350
 ---
 
 La pandemia de covid-19 detuvo muchas de nuestras actividades favoritas, afectando también a la industria del cine, que tuvo que retrasar grabaciones y estrenos. Sin embargo, es momento de recibir algunas buenas noticias, pues Guillermo del Toro estrenará en los cines la película Nightmare Alley, con Bradley Cooper como protagonista, el próximo 3 de diciembre, informó este jueves el portal Deadline. Del Toro escribió junto a Kim Morgan el guión de este nuevo filme en el que también será productor y que supondrá el primer trabajo del cineasta mexicano tras The Shape of Water (2017), que se llevó cuatro Óscar: mejor película, mejor director, mejor diseño de producción y mejor banda sonora. 

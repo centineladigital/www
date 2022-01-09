@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Con lo que se busca el trabajar de la mano con el fin de fortalecer las campañas que abanderará el partido en la capital del estado."
-image: /uploads/2021/images-pan.jpg
-video: nil
-audio: /uploads/2021/audio-MV04.mp3
-alt: Expertos en área electoral se suman al PAN
+image: "/uploads/2021/images-pan.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV04.mp3"
+alt: "Expertos en área electoral se suman al PAN"
 front: false
-section: Local
+section: "Local"
+news_id: 183185
 ---
 
 Esta semana expertos en ingeniería electoral y estructura se adhirieron al Partido Acción Nacional en Chihuahua capital, esto según fue dado a conocer por parte del titular del organismo político, Francisco Navarro Pastrana. Con lo que se busca el trabajar de la mano con el fin de fortalecer las campañas que abanderará el partido en la capital del estado.

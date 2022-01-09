@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Una solitaria anotación de Diego Reyes en los minutos finales del duelo ante Gallos, le valió a los regiomontanos para llevarse los tres puntos"
-image: /uploads/2021/images-2557032.jpg
-video: nil
-audio: nil
-alt: Tigres triunfa sobre la hora en Querétaro
+image: "/uploads/2021/images-2557032.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tigres triunfa sobre la hora en Querétaro"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183673
 ---
 
 En un partido de pocas emociones, los Tigres de la UANL consiguieron imponerse por 1-0 sobre los Gallos de Querétaro en el estadio La Corregidora, gracias al tanto tardío de Diego Reyes, dentro de la actividad correspondiente a la jornada 13 del torneo Guard1anes 2021 de la Liga MX.

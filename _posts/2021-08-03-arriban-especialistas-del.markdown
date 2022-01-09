@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La infraestructura a construir fortalecerá la atención médica de un millón 186 mil 236 derechohabientes de la región y acrecentará el patrimonio inmobiliario de la institución en la entidad"
-image: /uploads/2021/images-Foto_3002-4.jpg
-video: nil
-audio: nil
-alt: Arriban especialistas del IMSS para iniciar proyecto hospitalario en el hipódromo y galgódromo de Juárez
+image: "/uploads/2021/images-Foto_3002-4.jpg"
+video: "nil"
+audio: "nil"
+alt: "Arriban especialistas del IMSS para iniciar proyecto hospitalario en el hipódromo y galgódromo de Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 186245
 ---
 
 Especialistas de diversas áreas y jefaturas de distintas direcciones normativas del Instituto Mexicano del Seguro Social (IMSS) arribaron a ciudad Juárez para iniciar con la planeación del proyecto hospitalario que se construirá en 7.5 hectáreas del antiguo Hipódromo y Galgódromo, ubicado en la avenida Vicente Guerrero número 8830, del fraccionamiento Las Quintas. 

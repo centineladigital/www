@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El recién nombrado embajador de Estados Unidos en México, Kenneth Lee Salazar, presentó sus credenciales ante el presidente López Obrador"
-image: /uploads/2021/images-kenneth-salazar-jura-embajador-unidos_(1).jpg
-video: nil
-audio: nil
-alt: Biden quiere un trato de iguales con México, asegura embajador de EU
+image: "/uploads/2021/images-kenneth-salazar-jura-embajador-unidos_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Biden quiere un trato de iguales con México, asegura embajador de EU"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187754
 ---
 
 El nuevo embajador de Estados Unidos en México, Kenneth Lee Salazar, reveló que en Washington están listos para dar inicio a una nueva era en la relación bilateral con México, y que el presidente Joe Biden pretende un trato de iguales entre ambos países. 

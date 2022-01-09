@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se otorgaron 290 créditos especiales por un total de 31.5 mdp  y 114 mdp más en subsidios; mezcla de apoyos económicos con capacitación fue la forma en que el Estado rescató esa cantidad de empresas, informó Antonio Fernández"
-image: /uploads/2021/images-Srio_de_Innovación_y_Desarrollo_Económico__Antonio_Fernández.jpeg
-video: nil
-audio: nil
-alt: Rescate de más de 5 mil 800 Mipymes ante la pandemia ascendió a 150 mdp -  SIDE
+image: "/uploads/2021/images-Srio_de_Innovación_y_Desarrollo_Económico__Antonio_Fernández.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Rescate de más de 5 mil 800 Mipymes ante la pandemia ascendió a 150 mdp -  SIDE"
 front: false
-section: Local
+section: "Local"
+news_id: 183630
 ---
 
 Apoyos económicos a través de créditos y subsidios, así como capacitación, han sido la mezcla con la que el Gobierno del Estado ha impulsado y rescatado a más de 5 mil 800 micro, pequeñas y medianas empresas durante el último año en medio de la pandemia.

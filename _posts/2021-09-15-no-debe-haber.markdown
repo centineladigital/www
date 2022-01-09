@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Cero impuestos ni nuevos impuestos "
-image: /uploads/2021/images-WhatsApp_Image_2021-09-14_at_1.51.46_PM_(1).jpeg
-video: /uploads/2021/videos-BW04_OSCAR_CASTREJON.mp4
-audio: nil
-alt: No debe haber condonación de impuestos
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-14_at_1.51.46_PM_(1).jpeg"
+video: "/uploads/2021/videos-BW04_OSCAR_CASTREJON.mp4"
+audio: "nil"
+alt: "No debe haber condonación de impuestos"
 front: false
-section: Local
+section: "Local"
+news_id: 187773
 ---
 
 El diputado de MORENA, Oscar Castejón, se manifestó en contra del incremento propuesto en materia de Impuesto sobre nómina esto con el fin de que la actual administración logre recabar recursos.

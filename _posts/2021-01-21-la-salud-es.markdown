@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hace un mes, el festival solicitó un apoyo financiero al gobierno británico para llevar a cabo el evento en junio de este año. "
-image: /uploads/2021/images-festival-glastonbury-cancelado-ano-consecutivo.jpg
-video: nil
-audio: nil
-alt: ¡La salud es primero! Festival Glastonbury se suspende por segundo año consecutivo
+image: "/uploads/2021/images-festival-glastonbury-cancelado-ano-consecutivo.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡La salud es primero! Festival Glastonbury se suspende por segundo año consecutivo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182324
 ---
 
 La pandemia de covid-19 ha ocasionado que conciertos a nivel global hayan sido cancelados con el fin de evitar la propagación del virus. Un ejemplo es el Festival Glastonbury, considerado el más grande del mundo. Hace un mes, los organizadores pidieron apoyo financiero al gobierno y al primer ministro británico Boris Johnson, para la edición planeada en junio de este año. 

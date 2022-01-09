@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que se trabaja pese a acciones delincuenciales."
-image: /uploads/2021/images-MESTA.jpg
-video: /uploads/2021/videos-MW01_FERNANDO_MESTA.mp4
-audio: nil
-alt: Descarta Mesta problemas de ingobernabilidad
+image: "/uploads/2021/images-MESTA.jpg"
+video: "/uploads/2021/videos-MW01_FERNANDO_MESTA.mp4"
+audio: "nil"
+alt: "Descarta Mesta problemas de ingobernabilidad"
 front: false
-section: Local
+section: "Local"
+news_id: 185676
 ---
 
 El titular de la Secretaría de Gobierno, Fernando Mesta Soulé, descartó que se tengan problemas de ingobernabilidad, esto tras señalamientos de actores políticos de MORENA, situación que se tiene que revisar ya que el combate ha sido no solamente del Gobierno Estatal, sino de los diferentes actores.

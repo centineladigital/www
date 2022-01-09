@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa gobernador Javier Corral que las restricciones horarias de fin de semana son medidas de prevención más que de contención, con todo y lo molesto que puedan ser; coordinará Grupo para la Construcción de la Paz sanitización de 3 mil 501 casillas que estarán ubicadas en centros escolares"
-image: /uploads/2021/images-DSC_5699.jpg
-video: nil
-audio: nil
-alt: Súper cierre es preventivo; busca evitar el rojo y regresar en julio al semáforo amarillo
+image: "/uploads/2021/images-DSC_5699.jpg"
+video: "nil"
+audio: "nil"
+alt: "Súper cierre es preventivo; busca evitar el rojo y regresar en julio al semáforo amarillo"
 front: false
-section: Local
+section: "Local"
+news_id: 184218
 ---
 
 “El súper cierre lo hemos determinado con todo y la molestia que sabemos que esto significa para evitar el rojo y les puedo anticipar que por los datos preliminares que tenemos, estamos logrando que Chihuahua pueda mantenerse en semáforo naranja todo este mes de mayo y muy probablemente en junio y julio regresar al amarillo”, expresó esta mañana el gobernador Javier Corral Jurado.

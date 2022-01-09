@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa CEPC que mientras las mañanas seguirán frías, por la tarde habrá un ambiente caluroso y rachas de viento de hasta 55 kilómetros por hora; pide tomar precauciones por tolvaneras en tramos carreteros"
-image: /uploads/2021/images-lluvia_3.png
-video: nil
-audio: nil
-alt: Se prevén lluvias y granizo en Coronado, Manuel Benavides y Jiménez este sábado y domingo
+image: "/uploads/2021/images-lluvia_3.png"
+video: "nil"
+audio: "nil"
+alt: "Se prevén lluvias y granizo en Coronado, Manuel Benavides y Jiménez este sábado y domingo"
 front: false
-section: Local
+section: "Local"
+news_id: 183665
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que se prevén lluvias acompañadas de caída de granizo para este sábado y domingo en las zonas sureste y este, principalmente en los municipios de Coronado, Manuel Benavides y Jiménez.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Javier Corral, gobernador de Chihuahua, aseguró que César Duarte tiene 20 órdenes de aprehensión, otro número igual de investigaciones sin judicializar y una más por lavado de dinero"
-image: /uploads/2021/images-javier-corral-gobernador-chihuahua-ariel-1.jpg
-video: nil
-audio: nil
-alt: Demanda de Duarte por daño moral, ofensa al pueblo de Chihuahua -  Javier Corral
+image: "/uploads/2021/images-javier-corral-gobernador-chihuahua-ariel-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Demanda de Duarte por daño moral, ofensa al pueblo de Chihuahua -  Javier Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 186828
 ---
 
 Tras la demanda del ex gobernador de Chihuahua, César Duarte, actualmente preso en Estados Unidos, contra Javier Corral por supuesto daño moral, el actual mandatario estatal aseguró que ésta es una"ofensa al pueblo de Chihuahua".  

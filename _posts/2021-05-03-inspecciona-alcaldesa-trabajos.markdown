@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La alcaldesa dio un recorrido de inspección"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Inspecciona Alcaldesa trabajos de alcantarillado en la colonia Ejidal
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Inspecciona Alcaldesa trabajos de alcantarillado en la colonia Ejidal"
 front: false
-section: Local
+section: "Local"
+news_id: 184251
 ---
 
 Este día la Presidenta Municipal realizó un recorrido de inspección de los trabajos de alcantarillado en la colonia Ejidal.

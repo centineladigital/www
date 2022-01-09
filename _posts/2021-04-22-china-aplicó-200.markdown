@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "No está claro de inmediato qué porcentaje de la población está totalmente inmunizada tras recibir todas las dosis necesarias"
-image: /uploads/2021/images-2566565.jpg
-video: nil
-audio: nil
-alt: China aplicó 200 millones de vacunas contra covid
+image: "/uploads/2021/images-2566565.jpg"
+video: "nil"
+audio: "nil"
+alt: "China aplicó 200 millones de vacunas contra covid"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184037
 ---
 
 China ha aplicado alrededor de 200 millones de dosis de vacunas contra el COVID-19 en su territorio, especialmente entre trabajadores de primera línea, estudiantes universitarios y residentes en zonas fronterizas, dijeron las autoridades.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Mandatario estatal acude a vacunarse al Hospital Militar Regional y destaca el encomiable esfuerzo de la Secretaría de la Defensa Nacional para lograr la cobertura nacional"
-image: /uploads/2021/images-Gobernador_aplicacación_2da._dosis_vacuna_COVID_(1).jpg
-video: nil
-audio: nil
-alt: Recibe Gobernador Javier Corral segunda dosis de vacuna contra COVID-19
+image: "/uploads/2021/images-Gobernador_aplicacación_2da._dosis_vacuna_COVID_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Recibe Gobernador Javier Corral segunda dosis de vacuna contra COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 185225
 ---
 
 El gobernador Javier Corral recibió la segunda dosis de la vacuna contra COVID-19 en las instalaciones del Hospital Militar Regional de la ciudad de Chihuahua.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El municipio de San Miguel el Grande anunció medidas de precaución para evitar posibles contagios; la entidad suma 10 ediles fallecidos a causa del virus"
-image: /uploads/2021/images-2511077.jpg
-video: nil
-audio: nil
-alt: Ante crisis por Covid suspenden Carnaval y fiestas en Oaxaca
+image: "/uploads/2021/images-2511077.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ante crisis por Covid suspenden Carnaval y fiestas en Oaxaca"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182102
 ---
 
 Por acuerdo de Cabildo, la autoridad municipal de San Miguel el Grande, dispuso la suspensión del carnaval, del próximo 20 de enero, y tampoco se celebrarán las festividades de Semana Santa, para detener probables contagios del coronavirus en esa comunidad de la región Mixteca.

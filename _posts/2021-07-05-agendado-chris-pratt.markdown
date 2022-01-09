@@ -6,12 +6,13 @@ tags:
   
 author: nil
 description: "Chris Pratt, actor, pronunció cuándo comenzará a grabarse 'Guardianes de la Galaxia 3', la esperada película de James Gunn. "
-image: /uploads/2021/images-guardianes-galaxia-comenzara-grabaciones-ano.jpg
-video: nil
-audio: nil
-alt: ¡Agendado! Chris Pratt revela cuándo iniciará el rodaje de 'Guardianes de la Galaxia 3'
+image: "/uploads/2021/images-guardianes-galaxia-comenzara-grabaciones-ano.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Agendado! Chris Pratt revela cuándo iniciará el rodaje de 'Guardianes de la Galaxia 3'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185379
 ---
 
 Guardianes de la Galaxia 3 es una de las películas más esperadas por parte de los aficionados al Universo Marvel, y ahora la película, cuya tercera parte seguirá bajo la dirección de James Gunn, ya proyecta fecha para iniciar grabaciones, según palabras del protagonista, Chris Pratt. 

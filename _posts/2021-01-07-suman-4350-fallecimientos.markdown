@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Salud reporta 15 decesos en las últimas 24 horas; hubo 184 contagios y ya van 46 mil 969 casos confirmados"
-image: /uploads/2021/images-1.jpg
-video: nil
-audio: nil
-alt: Suman 4,350 fallecimientos por COVID-19 en la entidad
+image: "/uploads/2021/images-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Suman 4,350 fallecimientos por COVID-19 en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 181943
 ---
 
 La Secretaría de Salud informó que el número de fallecimientos por COVID-19 en la entidad alcanzó la cifra de 4 mil 350, luego de que murieran 15 personas (7 en Juárez y 4 Cuauhtémoc; Chihuahua, Delicias, Parral y Bocoyna con un deceso en cada municipio) en el registro de las últimas 24 horas.

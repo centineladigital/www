@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz recordó cómo fue su relación amorosa con Rafael Amaya, quien fue su pareja durante cuatro años y las razones de su ruptura. "
-image: /uploads/2021/images-ana-layevska-romance-rafael-amaya_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Fue mi primer novio -  Ana Layevska revela por qué terminó su romance con Rafael Amaya
+image: "/uploads/2021/images-ana-layevska-romance-rafael-amaya_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fue mi primer novio -  Ana Layevska revela por qué terminó su romance con Rafael Amaya"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185466
 ---
 
 Rafael Amaya volvió a los escenarios y foros de televisión luego del periodo que pasó en una clínica de rehabilitación, de Julio César Chávez, debido a sus problemas de adicción. El actor mexicano, de 44 años, regresó al ojo del huracán tras las declaraciones de Ana Layevska, quien recordó el noviazgo que mantuvieron por alrededor de cuatro años y reveló los motivos de su ruptura.  La actriz, de origen ucraniano, ofreció una entrevista para el canal de YouTube de Mara Patricia Castañeda, con quien habló de sus comienzos en la televisión y recordó cómo fue su relación amorosa con Rafael Amaya, ex integrante del grupo Garibaldi y conocido por protagonizar la serie El señor de los cielos.

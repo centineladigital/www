@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un juez confirma la condena del principal opositor ruso, Alexei Navalni, quien podría ser trasladado a un campo de trabajo"
-image: /uploads/2021/images-2532839.jpg
-video: nil
-audio: nil
-alt: Justicia rusa confirma cárcel para Navalni; podría ir campo a trabajo
+image: "/uploads/2021/images-2532839.jpg"
+video: "nil"
+audio: "nil"
+alt: "Justicia rusa confirma cárcel para Navalni; podría ir campo a trabajo"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183062
 ---
 
 Un tribunal de apelación ruso confirmó este sábado la condena de cárcel del principal adversario del presidente Vladimir Putin, Alexei Navalni, que es objeto de varias causas judiciales y podría cumplir su condena en un campo de trabajo.

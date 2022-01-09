@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Sabrina Sabrok ha experimentado una serie de operaciones estéticas, razón por la que ha cambiado a propósito a lo largo del tiempo. "
-image: /uploads/2021/images-asi-lucia-sabrina-sabrok-a.jpg
-video: nil
-audio: nil
-alt: ¡Vaya cambios! Así lucía Sabrina Sabrok cuando tenía 3, 17 y 20 años
+image: "/uploads/2021/images-asi-lucia-sabrina-sabrok-a.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Vaya cambios! Así lucía Sabrina Sabrok cuando tenía 3, 17 y 20 años"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183282
 ---
 
 Sabrina Sabrok es una modelo, cantante, actriz y conductora argentina famosa en México gracias a producciones como La Hora Pico. Uno de los aspectos que la distinguen es la gran cantidad de operaciones que tiene, pues a Sabrok no le importa gastar en su apariencia. “Me hice aumento de labios, mucho, me hice pómulos, me marcaron la mandíbula, me hicieron ojos de gato que es lo que yo quería, usaron mucho relleno y mucho bótox. Como a mí me gusta en mucha cantidad, pues la cara me quedó diferente, me gusta”, dijo tras algunas de las últimas operaciones que se realizó, apenas el mes pasado 

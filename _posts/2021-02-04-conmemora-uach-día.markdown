@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma Armando Villanueva importancia de este concepto dentro de la máxima casa de estudios."
-image: /uploads/2021/images-ARMANDO.jpeg
-video: nil
-audio: /uploads/2021/audio-MJ03_ARMANDO_VILLANUEVA.mp3
-alt: Conmemora UACH día de Fraternidad Humana
+image: "/uploads/2021/images-ARMANDO.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ03_ARMANDO_VILLANUEVA.mp3"
+alt: "Conmemora UACH día de Fraternidad Humana"
 front: false
-section: Local
+section: "Local"
+news_id: 182705
 ---
 
 La Universidad Autónoma de Chihuahua ha contribuido en generar la  fraternidad humana con educación y cultura para la paz, fueron las palabras de Armando Villanueva Ledezma, Director de la Facultad de Filosofía y Letras. Esto dentro de la conmemoración que lleva a cabo la Asamblea General de las Naciones Unidades cada 04 de febrero.

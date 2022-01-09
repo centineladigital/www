@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Las mexicana están felices por su logro en los Juegos Olímpicos. La tapatía dejó en entredicho su continuidad y clavadista de Baja California quiere más medallas en su historial "
-image: /uploads/2021/images-alejandra-orozco-gabriela-agundez-tonatiuh.jpg
-video: nil
-audio: nil
-alt: Ale Orozco y Gaby Agúndez regresan a México con el bronce de Tokio 2020 Tokio 2020
+image: "/uploads/2021/images-alejandra-orozco-gabriela-agundez-tonatiuh.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ale Orozco y Gaby Agúndez regresan a México con el bronce de Tokio 2020 Tokio 2020"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186424
 ---
 
 Luego de conquistar la medalla de bronce en la categoría de clavado sincronizado en plataforma de 10 metros en los Juegos Olímpicos de Tokio 2020, Alejandra Orozco y Gabriela Agúndez arribaron al aeropuerto de Ciudad de México, donde familiares, amigos y fanáticos las recibieron como verdaderas heroínas. 

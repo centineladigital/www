@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Así resumió el martes el presidente Andrés Manuel López Obrador el encuentro virtual que mantuvo la víspera con su homólogo estadounidense Joe Biden en el que trataron casi todos los temas de la relación bilateral"
-image: /uploads/2021/images-2537889.jpg
-video: nil
-audio: nil
-alt: Estados Unidos dispuesto a analizar plan de visas y vacunas
+image: "/uploads/2021/images-2537889.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estados Unidos dispuesto a analizar plan de visas y vacunas"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183217
 ---
 
 Sin discrepancias, con disposición para analizar dos de las principales propuestas de México -importar vacunas desde Estados Unidos y diseñar un plan de visas temporales de trabajo- y el compromiso del vecino del norte de invertir 4.000 millones de dólares para el desarrollo de Centroamérica y el sur mexicano.

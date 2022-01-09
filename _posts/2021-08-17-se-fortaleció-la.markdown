@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se puso en operación la segunda etapa del proyecto de videovigilancia con 200 puntos de monitoreo inteligente y se destinaron 70 millones de pesos para la construcción de la Fiscalía de la Mujer"
-image: /uploads/2021/images-DSC_5648.JPG
-video: nil
-audio: nil
-alt: Se fortaleció la seguridad pública en Juárez con más equipo y agentes
+image: "/uploads/2021/images-DSC_5648.JPG"
+video: "nil"
+audio: "nil"
+alt: "Se fortaleció la seguridad pública en Juárez con más equipo y agentes"
 front: false
-section: Local
+section: "Local"
+news_id: 186776
 ---
 
 Durante la presentación de su Quinto Informe de Gobierno en Ciudad Juárez, el gobernador Javier Corral Jurado, resaltó que uno de los grandes retos de esta administración fue el de la seguridad pública y la procuración de justicia, que siempre ha sido una de las demandas más sentidas de la sociedad juarense, razón por la cual fue un rubro de atención prioritaria.

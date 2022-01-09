@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La modelo Meadow Walker, hija del actor que interpretó a Brian O'Conner en la franquicia de Rápidos y Furiosos, subió una tierna foto con el actor Vin Diesel. "
-image: /uploads/2021/images-meadow-walker-vin-diesel-llaman.jpg
-video: nil
-audio: nil
-alt: Familia -  Meadow, hija de Paul Walker, sube foto con Vin Diesel previo a estreno de 'RyF9'
+image: "/uploads/2021/images-meadow-walker-vin-diesel-llaman.jpg"
+video: "nil"
+audio: "nil"
+alt: "Familia -  Meadow, hija de Paul Walker, sube foto con Vin Diesel previo a estreno de 'RyF9'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184782
 ---
 
 Los fanáticos de las películas de acción esperan con cada vez más ansias Rápidos y Furiosos 9, una película que sufrió múltiples retrasos por la pandemia de covid-19. A unas semanas del estreno, Meadow Rain, hija del actor Paul Walker quien en vida interpretó a Brian O'Conner, presumió una foto con Vin Diesel y su hija. "Familia", escribió la modelo en la foto en blanco y negro en la que posan ambas chicas abrazando al famoso actor. 

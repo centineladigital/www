@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La intensidad de las rachas podría afectar principalmente a Ahumada, Janos y Madera, y los 55 km/h en Juárez, Sueco y Ascensión; advierte sobre tolvaneras en los tramos carreteros Sueco-Ahumada y Ascensión-Juárez"
-image: /uploads/2021/images-PRONÓSTICO_3_DE_FEBRERO_2021.jpeg
-video: nil
-audio: nil
-alt: Emite CEPC aviso preventivo por vientos de hasta 65km/h por entrada de frente frío 34
+image: "/uploads/2021/images-PRONÓSTICO_3_DE_FEBRERO_2021.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Emite CEPC aviso preventivo por vientos de hasta 65km/h por entrada de frente frío 34"
 front: false
-section: Local
+section: "Local"
+news_id: 182662
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) emitió un aviso preventivo por la entrada del frente frío número 34 este miércoles 3 de febrero por la tarde, el cual traerá vientos de hasta 65 kilómetros por hora (km/h) principalmente en la zona norte.

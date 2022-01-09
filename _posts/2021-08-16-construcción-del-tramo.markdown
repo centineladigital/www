@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El uso del Tren Interurbano brindará mayor seguridad, comodidad y menor tiempo de traslado a más de 2.5 millones de habitantes en el Valle de Toluca y CdMx"
-image: /uploads/2021/images-tren-interurbano-mexico-toluca-octavio_0_27_1200_746.jpeg
-video: nil
-audio: nil
-alt: Construcción del tramo uno del Tren México-Toluca llega al 100% -  SCT
+image: "/uploads/2021/images-tren-interurbano-mexico-toluca-octavio_0_27_1200_746.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Construcción del tramo uno del Tren México-Toluca llega al 100% -  SCT"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186716
 ---
 
 La construcción del Tren Interurbano México-Toluca del tramo uno llegó al 100 por ciento, tramo que tiene una longitud de 36 kilómetros y va de Zinacantepec, Estado de México, al túnel, que es donde comienza Ciudad de México, indicó la Secretaría de Comunicaciones y Transportes (SCT) en la conferencia matutina del presidente Andrés Manuel López Obrador. 

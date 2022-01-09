@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En la imagen Will Smith aparece en calzoncillos y una sudadera deportiva abierta, ésta última la responsable de que el famoso mostrara cómo luce actualmente."
-image: /uploads/2021/images-will-smith-mostro-cuerpo-subio.jpg
-video: nil
-audio: nil
-alt: Estoy peor que nunca” -  Will Smith muestra su cuerpo al natural; subió de peso durante pandemia
+image: "/uploads/2021/images-will-smith-mostro-cuerpo-subio.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estoy peor que nunca” -  Will Smith muestra su cuerpo al natural; subió de peso durante pandemia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184295
 ---
 
 Will Smith, famosa estrella internacional, causó furor entre sus seguidores una vez más debido a su humor e ironía. ¿Qué hizo el actor? Resulta que la estrella de famosos filmes y de Hollywood se mostró al natural. Will compartió una fotografía con poca ropa en donde demostró que subió un poco de peso. ¿Está inconforme con su peso? ¿Con qué fin lo compartió? Fue a través de su cuenta de Instagram en donde Will Smith compartió con su más de 52 millones de seguidores una fotografía en la que luce con un poco de exceso de peso. La imagen la utilizó para reírse un poco de ello. ¿Qué dijo? ¿Por qué se mostró al natural? 

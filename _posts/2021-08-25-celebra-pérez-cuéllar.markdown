@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se reúnen alcalde y gobernadora electos para hablar sobre proyectos de Cd. Juárez"
-image: /uploads/2021/images-DSC_1304.JPG
-video: nil
-audio: nil
-alt: Celebra Pérez Cuéllar plena disposición de próxima gobernadora para trabajar coordinados
+image: "/uploads/2021/images-DSC_1304.JPG"
+video: "nil"
+audio: "nil"
+alt: "Celebra Pérez Cuéllar plena disposición de próxima gobernadora para trabajar coordinados"
 front: false
-section: Local
+section: "Local"
+news_id: 187089
 ---
 
 Chihuahua, Chih.-El presidente municipal electo de ciudad Juárez, Cruz Pérez Cuéllar, se reunió este martes con la gobernadora electa, María Eugenia Campos Galván, en un encuentro donde prevaleció la buena disposición de ambas partes para lograr acuerdos en beneficio de los habitantes de la frontera. 

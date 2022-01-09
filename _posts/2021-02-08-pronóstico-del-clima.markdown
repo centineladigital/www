@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa la CEPC que otras máximas esperadas para esta tarde son (°C): Chihuahua 23, Juárez 22, Janos 22, Madera 16, Temósachic 17, Cuauhtémoc 20, Delicias 25, Jiménez 25, Parral 24 y El Vergel 16"
-image: /uploads/2021/images-Cañón_del_Pegüis_Ojinaga.jpg
-video: nil
-audio: nil
-alt: Pronóstico del clima -  tendrán Ojinaga y Camargo 26°C
+image: "/uploads/2021/images-Cañón_del_Pegüis_Ojinaga.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pronóstico del clima -  tendrán Ojinaga y Camargo 26°C"
 front: false
-section: Local
+section: "Local"
+news_id: 182778
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que la tarde de este lunes 8 de febrero tendrá clima de templado a cálido, con temperaturas de hasta 26°C en Ojinaga y Camargo.

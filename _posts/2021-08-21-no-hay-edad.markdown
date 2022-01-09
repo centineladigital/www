@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "'Cochobis', una abuelita de 97 años, desde hace varios meses lanzó su perfil en la famosa red social TikTok, donde comparte videos de sus gustos. "
-image: /uploads/2021/images-ya-cuenta-con-un-millon_0_0_871_542.jpg
-video: nil
-audio: nil
-alt: ¡No hay edad para la tecnología! Abuelita de 97 años da consejos, baila y cuenta chistes en TikTok
+image: "/uploads/2021/images-ya-cuenta-con-un-millon_0_0_871_542.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡No hay edad para la tecnología! Abuelita de 97 años da consejos, baila y cuenta chistes en TikTok"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186977
 ---
 
 No cabe duda que la tecnología ya alcanzó a la humanidad, y todas las generaciones están usando las plataformas digitales para presumir su vida y hasta algunos gustos culposos.  

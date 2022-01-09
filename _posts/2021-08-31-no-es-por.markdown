@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante aseguró que prefiere ser conocida únicamente por su nombre artístico sin el apellido Rivera, pues quiere forjar su propia carrera. "
-image: /uploads/2021/images-chiquis-no-quiere-ser-conocida_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: No es por faltarle al respeto a nadie -  Chiquis se deslinda del apellido Rivera
+image: "/uploads/2021/images-chiquis-no-quiere-ser-conocida_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "No es por faltarle al respeto a nadie -  Chiquis se deslinda del apellido Rivera"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187303
 ---
 
 Janney Marín Rivera, mejor conocida como Chiquis, comenzó su carrera artística con el lanzamiento de "Paloma Blanca"; sin embargo, la hija de Jenni Rivera se ha mantenido envuelta en la polémica a raíz de varios problemas familiares, entre ellos la última disputa por la herencia de su mamá. Ahora, la cantante está promocionando su nueva canción y sus declaraciones ya están dando de qué hablar. 

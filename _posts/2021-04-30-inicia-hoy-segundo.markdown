@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "“Partidos políticos y candidatos, deben ser responsables”: Salud  "
-image: /uploads/2021/images-NORMAS_SANITARIAS_COVID_PANDEMIA_MASCARILLA.jpg
-video: nil
-audio: nil
-alt: Inicia hoy, segundo “supercierre” para frenar contagios de Covid-19
+image: "/uploads/2021/images-NORMAS_SANITARIAS_COVID_PANDEMIA_MASCARILLA.jpg"
+video: "nil"
+audio: "nil"
+alt: "Inicia hoy, segundo “supercierre” para frenar contagios de Covid-19"
 front: false
-section: Local
+section: "Local"
+news_id: 184206
 ---
 
 Hoy a las 23:59 horas inicia el segundo súper cierre en el estado, por lo que serán cerradas al público tiendas departamentales, supermercados y comercio no esencial, mientras que los restaurantes, y restaurantes-bar sólo podrán operar con servicio a domicilio, de acuerdo a la instrucción emitida el pasado 23 de abril, por el Consejo Estatal de Salud.

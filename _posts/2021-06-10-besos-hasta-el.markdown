@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El parecido es espectacular de Elissa Marie Soto con su abuela, llamó la atención de las fans de Gabriel Soto. "
-image: /uploads/2021/images-gabriel-soto-obra-homofobia-cosa.jpg
-video: nil
-audio: nil
-alt: Besos hasta el cielo; Gabriel Soto recuerda a su mamá con foto; impacta parecido con su hija
+image: "/uploads/2021/images-gabriel-soto-obra-homofobia-cosa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Besos hasta el cielo; Gabriel Soto recuerda a su mamá con foto; impacta parecido con su hija"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184967
 ---
 
 El actor y modelo mexicano Gabriel Soto, publicó el día de ayer una imagen de su madre conmemorando su partida y las respuestas en redes de sus conocidos y seguidores es la misma, les parece sorprendente el parecido que tiene con su nieta, Elissa Marie Soto Bazán. 

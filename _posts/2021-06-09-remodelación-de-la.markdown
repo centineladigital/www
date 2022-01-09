@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se modernizan explanadas, áreas infantiles, zona de frontones, se repara la arcilla en los 1.8 kilómetros de pista de trotar y se sustituyen 789 luminarias por LED, entre otros trabajos, informó Obras Públicas"
-image: /uploads/2021/images-deportiva_(2).jpeg
-video: nil
-audio: nil
-alt: Remodelación de la Cd. Deportiva con inversión de 60 mdp, la más importante en décadas
+image: "/uploads/2021/images-deportiva_(2).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Remodelación de la Cd. Deportiva con inversión de 60 mdp, la más importante en décadas"
 front: false
-section: Local
+section: "Local"
+news_id: 184940
 ---
 
 La Secretaría de Comunicaciones y Obras Públicas del Gobierno del Estado dio a conocer que para beneficio de las más de 10 mil personas que acuden diariamente a la Ciudad Deportiva, se realizan obras de modernización que serán las más notables en las siete décadas de vida del emblemático parque.

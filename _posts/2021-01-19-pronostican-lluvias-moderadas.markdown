@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las precipitaciones se esperan con mayor presencia en Bachíniva, Guerrero, Bocoyna, Chínipas, Carichí, Guachochi, Guadalupe y Calvo, Cuauhtémoc, Chihuahua y San Francisco de Borja; se prevé caída de aguanieve y nieve en las partes altas de la Sierra Tarahumara  "
-image: /uploads/2021/images-lluvia_para_la_entidad.jpg
-video: nil
-audio: nil
-alt: Pronostican lluvias moderadas en occidente, suroeste y centro de la entidad
+image: "/uploads/2021/images-lluvia_para_la_entidad.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pronostican lluvias moderadas en occidente, suroeste y centro de la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 182246
 ---
 
 El pronóstico del clima para este martes 19 de enero indica que habrá precipitaciones por la tarde, noche y madrugada del miércoles, así como ráfagas de viento superiores a 65 kilómetros por hora (km/h) y tolvaneras en tramos carreteros, informó la Coordinación Estatal de Protección Civil (CEPC).  

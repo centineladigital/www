@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los fans de Laura León, mejor conocida como La Tesorito, notaron un cierto parecido con la cantante estadunidense. "
-image: /uploads/2021/images-laura-leon-agradece-fans-comparacion_0_9_1200_747.jpeg
-video: nil
-audio: nil
-alt: ¿Miley Cyrus, eres tú? ‘La Tesorito’ agradece a fans por comparación
+image: "/uploads/2021/images-laura-leon-agradece-fans-comparacion_0_9_1200_747.jpeg"
+video: "nil"
+audio: "nil"
+alt: "¿Miley Cyrus, eres tú? ‘La Tesorito’ agradece a fans por comparación"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182669
 ---
 
 ¿Te imaginas a La Tesorito cantando a todo pulmón 'I came in like a wrecking ball, I never hit so hard in love' mientras se balancea en una bola de concreto y se oye una cumbia de fondo? Pues los fans de Laura León no dejaron dudas de que la cantante de We Cant Stop podría tener un cierto parecido con la intérprete de Suavecito. 

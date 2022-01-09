@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Este tema no es competencia de la administración estatal, recordando que están en espera de recibir una remesa más de vacunas que son enviadas por parte de la federación."
-image: /uploads/2021/images-WEN.jpg
-video: nil
-audio: /uploads/2021/audio-MW02_WEN.mp3
-alt: Sin definir vacunación a resto de personal de salud
+image: "/uploads/2021/images-WEN.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW02_WEN.mp3"
+alt: "Sin definir vacunación a resto de personal de salud"
 front: false
-section: Local
+section: "Local"
+news_id: 183457
 ---
 
 Aún no se tiene definido cuando se vacunará al resto del personal de salud, según lo dio a conocer la Subdirectora de Medicina Preventiva y Promoción de la Salud, Wendy Ávila Coronado. Al ser cuestionada respecto a las inconformidades que se dieron a conocer por parte de personal que no trabaja en la primera línea y no ha sido vacunado.

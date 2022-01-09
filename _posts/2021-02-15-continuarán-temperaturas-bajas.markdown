@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Hasta el martes continuarán bajas temperaturas."
-image: /uploads/2021/images-IDELFONSO.jpg
-video: nil
-audio: /uploads/2021/audio-ML06.mp3
-alt: Continuarán temperaturas bajas hasta este martes
+image: "/uploads/2021/images-IDELFONSO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML06.mp3"
+alt: "Continuarán temperaturas bajas hasta este martes"
 front: false
-section: Local
+section: "Local"
+news_id: 182941
 ---
 
 Las temperaturas bajas continuarán durante la tarde y noche de este lunes, según lo dio a conocer el meteorólogo estatal Idelfonso Díaz, recalcando que con la entrada del frente frío número 35 ocasionó un descenso de temperaturas.

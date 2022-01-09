@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Alerta por incremento de casos y muertes por coronavirus."
-image: /uploads/2021/images-diapositiva3-314.jpg
-video: nil
-audio: /uploads/2021/audio-MM01_ARTURO_VALENZUELA.mp3
-alt: Ya estamos en la tercera oleada -  Valenzuela
+image: "/uploads/2021/images-diapositiva3-314.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM01_ARTURO_VALENZUELA.mp3"
+alt: "Ya estamos en la tercera oleada -  Valenzuela"
 front: false
-section: Local
+section: "Local"
+news_id: 184005
 ---
 
 “Vamos en un ascenso vertiginoso” fueron las palabras del Director Médico Zona Norte al señalar que ya se encuentra una tercera oleada dentro del estado, recalcando que el hecho de que se haya vacunado no representa que se tenga inmunidad. Destacando por parte de Arturo Valenzuela Zorrilla se encuentra un ascenso marcado.

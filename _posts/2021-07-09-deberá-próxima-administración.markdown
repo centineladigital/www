@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto se llevará a cabo en conformidad con los requerimientos."
-image: /uploads/2021/images-RICARDO.jpg
-video: nil
-audio: /uploads/2021/audio-MV02.mp3
-alt: Deberá próxima administración arrancar proyecto de nuevo relleno
+image: "/uploads/2021/images-RICARDO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV02.mp3"
+alt: "Deberá próxima administración arrancar proyecto de nuevo relleno"
 front: false
-section: Local
+section: "Local"
+news_id: 185516
 ---
 
 Debido a que el tiempo de vida útil del relleno sanitario esta por terminar, deberá de ser la próxima administración la que defina el lugar donde se deberá de instalar el nuevo lugar en el que se dará tratamiento a los residuos de la ciudad.

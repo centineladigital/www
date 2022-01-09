@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Danna Paola habló sobre su supuesto noviazgo con Alex Hoyer, después de que fueran captados muy cariñosos en España. "
-image: /uploads/2021/images-danna-paola-halago-alex-hoyer.jpg
-video: nil
-audio: nil
-alt: ¿Son más que amigos? Danna Paola habla del supuesto romance con Alex Hoyer
+image: "/uploads/2021/images-danna-paola-halago-alex-hoyer.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Son más que amigos? Danna Paola habla del supuesto romance con Alex Hoyer"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185180
 ---
 
 Hace unos días salieron a la luz unas fotos en donde se ve a Danna Paola y Alex Hoyer en España en una actitud muy cariñosa, en una de las imágenes se observa que ambos están a punto de besarse, por lo que desató los rumores sobre un posible romance entre los cantantes, sin embargo, ninguno había hablado al respecto, hasta ahora. 

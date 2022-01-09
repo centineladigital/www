@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En ‘Cuéntamelo ya!’, Cynthia Urías defendió a Fátima Molina tras ser discriminada y acusada de ser la responsable de la baja de rating en la telenovela 'Te acuerdas de mí'. "
-image: /uploads/2021/images-cynthia-urias-siente-reflejada-fatima.jpg
-video: nil
-audio: nil
-alt: Orgullo verte reflejada -  Cynthia Urías 'explota' por discriminación a Fátima Molina por ser morena
+image: "/uploads/2021/images-cynthia-urias-siente-reflejada-fatima.jpg"
+video: "nil"
+audio: "nil"
+alt: "Orgullo verte reflejada -  Cynthia Urías 'explota' por discriminación a Fátima Molina por ser morena"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183178
 ---
 
 Cynthia Urías, conductora de Cuéntamelo Ya, salió en defensa de la actriz Fátima Molina de Te acuerdas de mí, luego de ser discriminada por su color de piel, su lunar y por tener características que no entran en la convencional belleza impuesta. La presentadora de televisión se mostró molesta contra las personas que ejercen odio por el simple hecho de tener un tono de piel. Aseguró que se sintió identificada con la actriz que participa junto a Gabriel Soto en Televisa. Fue durante la transmisión en vivo de ‘Cuéntamelo ya!’ cuando Cynthia Urías decidió emitir su opinión sobre la polémica que generó un estudio sobre la baja de rating de la telenovela Te acuerdas de mí, en donde Fátima Molina fue discriminada por su color de piel, tener un lunar, ser bajita y ser muy mexicana. 

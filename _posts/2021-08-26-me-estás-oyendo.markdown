@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante mexicana será reconocida por su “trayectoria excepcional en los Premios Billboard 2021. "
-image: /uploads/2021/images-paquita-barrio-homenajeada-premios-billboard.jpg
-video: nil
-audio: nil
-alt: ¿Me estás oyendo, inútil? -  Paquita la del Barrio recibirá homenaje en 'Premios Billboard'
+image: "/uploads/2021/images-paquita-barrio-homenajeada-premios-billboard.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Me estás oyendo, inútil? -  Paquita la del Barrio recibirá homenaje en 'Premios Billboard'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187142
 ---
 
 Paquita la del Barrio será galardonada con el premio Billboard Trayectoria Artística en la próxima ceremonia de los Premios Billboard de la Música Latina. Te contamos lo que sabemos sobre este anuncio que enaltece a la mexicana.  

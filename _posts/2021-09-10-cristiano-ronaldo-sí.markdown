@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los Red Devils es tercer lugar de la Premier League con 7 puntos"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Cristiano Ronaldo sí jugará con el Manchester United este sábado
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Cristiano Ronaldo sí jugará con el Manchester United este sábado"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187607
 ---
 
 Ole Gunnar Solskjaer, técnico del Manchester United, confirmó que Cristiano Ronaldo tendrá minutos en el enfrentamiento contra Newcastle.

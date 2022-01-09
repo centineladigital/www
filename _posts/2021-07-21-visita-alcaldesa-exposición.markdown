@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La Presidenta Municipal realizó un recorrido para conocer la exposición “2020 y otras catástrofes” del artista Abraham Chacón, que está disponible al público en general en el Centro de Desarrollo Cultural hasta el 22 de agosto   "
-image: /uploads/2021/images-unnamed_(6).jpg
-video: nil
-audio: nil
-alt: Visita Alcaldesa exposición “2020 y otras catástrofes” en el Centro de Desarrollo Cultural
+image: "/uploads/2021/images-unnamed_(6).jpg"
+video: "nil"
+audio: "nil"
+alt: "Visita Alcaldesa exposición “2020 y otras catástrofes” en el Centro de Desarrollo Cultural"
 front: false
-section: Local
+section: "Local"
+news_id: 185889
 ---
 
 En compañía del artista, la Directora del Instituto Municipal de Cultura y la Coordinadora de los Museos Municipales, la Alcaldesa recorrió las obras que tienen un formato tridimensional, por lo que se debe descargar la aplicación Artivive para disfrutar de mejor manera esta exposición.

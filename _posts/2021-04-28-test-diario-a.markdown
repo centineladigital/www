@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los participantes deberán de someterse a pruebas de covid cada día. La decisión de tener público durante la cita olímpica se aplaza hasta junio"
-image: /uploads/2021/images-2569580.jpg
-video: nil
-audio: nil
-alt: Test diario a deportistas durante Juegos Olímpicos
+image: "/uploads/2021/images-2569580.jpg"
+video: "nil"
+audio: "nil"
+alt: "Test diario a deportistas durante Juegos Olímpicos"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 184151
 ---
 
 Los organizadores de los Juegos Olímpicos de Tokio aplazaron a junio su decisión sobre la presencia o no de espectadores locales, un símbolo suplementario de la incertidumbre que continúa acompañando a la preparación del evento (23 de julio - 8 de agosto) en plena pandemia del covid-19. 

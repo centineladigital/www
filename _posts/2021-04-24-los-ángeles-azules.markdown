@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El puertorriqueño y la agrupación iztapalapense buscaron dar un mensaje de unión e inclusión a través de la música ."
-image: /uploads/2021/images-video-oficial-cumbia-gente-conto_31_0_806_501.jpeg
-video: nil
-audio: nil
-alt: Los Ángeles Azules y Guaynaa fusionan sus ritmos para cantar Cumbia a la gente
+image: "/uploads/2021/images-video-oficial-cumbia-gente-conto_31_0_806_501.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Los Ángeles Azules y Guaynaa fusionan sus ritmos para cantar Cumbia a la gente"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184084
 ---
 
 Los Ángeles Azules continúan explorando los límites de la creación musical y en esta ocasión respondieron al llamado de uno de los jóvenes artistas latinos más destacados de los últimos años, Guaynaa. El popular cantante puertorriqueño buscó a Los Ángeles Azules para colaborar juntos en “Cumbia a la gente”, un tema con toda el alma de la banda de Iztapalapa y la fuerza y creatividad de Guaynaa. “¿Quién se hubiera imaginado que de aquí yo saliera a hacer música para el mundo? y hubiese llegado a la estación del metro Iztapalapa y de Iztapalapa para el mundo con Los Ángeles Azules. La vida da 500 vueltas y yo estoy súper contento, todavía me pongo a pensarlo y no me lo creo”, explicó el cantante en entrevista virtual para M2. 

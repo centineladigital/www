@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Registran solamente 26 casos y se acreditan 5 muertes."
-image: /uploads/2021/images-wendy1.jpg
-video: nil
-audio: /uploads/2021/audio-mm01.mp3
-alt: Por segundo día consecutivo se registran menos de 50 casos
+image: "/uploads/2021/images-wendy1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-mm01.mp3"
+alt: "Por segundo día consecutivo se registran menos de 50 casos"
 front: false
-section: Local
+section: "Local"
+news_id: 182964
 ---
 
 Por segundo día consecutivo se han registrado menos de 50 casos de personas que dieron positivo a PCR, esto ya que durante las últimas 24 horas se registraron 26 casos de personas contagiadas, mientras que el día anterior se registraron 36 casos, según fue dado a conocer por parte del Titular de la Dirección Médica Zona Norte, Arturo Valenzuela Zorrilla.

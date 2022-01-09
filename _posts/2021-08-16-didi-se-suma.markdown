@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Con el fin de brindar seguridad a los pasajeros y conductores."
-image: /uploads/2021/images-MANQUE.jpg
-video: /uploads/2021/videos-ML05_MANQUE.mp4
-audio: nil
-alt: Didi se suma a escudo Chihuahua
+image: "/uploads/2021/images-MANQUE.jpg"
+video: "/uploads/2021/videos-ML05_MANQUE.mp4"
+audio: "nil"
+alt: "Didi se suma a escudo Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 186748
 ---
 
 A través de la firma de convenio la plataforma Didi será parte de la plataforma escudo Chihuahua esto buscando reforzar la seguridad de los conductores y los usuarios en la ciudad. Dentro del evento la alcaldesa, María Angélica Granados Trespalacios, habló de la importancia de contar con más seguridad y sobre todo la prevención del delito.

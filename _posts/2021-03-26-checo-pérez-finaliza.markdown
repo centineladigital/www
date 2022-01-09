@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El piloto mexicano no pudo mejorar su registro de la primera sesión. Su coequipero Max Verstappen comandó los dos ensayos"
-image: /uploads/2021/images-2551936.jpg
-video: nil
-audio: nil
-alt: ‘Checo’ Pérez finaliza décimo en segundas prácticas
+image: "/uploads/2021/images-2551936.jpg"
+video: "nil"
+audio: "nil"
+alt: "‘Checo’ Pérez finaliza décimo en segundas prácticas"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183562
 ---
 
 El mexicano Sergio ‘Checo’ Pérez finalizó en el décimo puesto en la segunda sesión de entrenamientos del Gran Premio de Bahréin de la F1.

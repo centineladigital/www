@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El guion de la adaptación será escrito posiblemente por Josh Cooley, guionista responsable de Toy Story 4 e Intensamente. "
-image: /uploads/2021/images-scarlett-johansson-foto-via-marvel.jpg
-video: nil
-audio: nil
-alt: ¿Scarlett Johansson protagonizará 'Tower of Terror'? Disney podría estár trabajando en la cinta
+image: "/uploads/2021/images-scarlett-johansson-foto-via-marvel.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Scarlett Johansson protagonizará 'Tower of Terror'? Disney podría estár trabajando en la cinta"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185232
 ---
 
 Desde tiempos memorables Disney ha coqueteado mucho con la idea de una película de The Tower of Terror, emblemática atracción dentro de los parques de Disney, pero ahora parece que esa adaptación finalmente podría ser verdad.  Según Collider, Scarlett Johansson se ha asociado con Disney para producir y protagonizar un largometraje inspirado en la icónica atracción del parque de diversiones. Fuentes internas revelan que todavía no hay ningún director adjunto al proyecto. Sin embargo, la actriz ha contratado al director de Toy Story 4 (2019) y al escritor de Intensamente (2015), Josh Cooley, para escribir el guion basado en la Tower of Terror en Disneyland. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Chocan palestinos con la policía israelí en Jerusalén tras las últimas oraciones del Ramadán en torno a la Explanada de las Mezquitas; se reportan más de 200 heridos"
-image: /uploads/2021/images-2575189.jpg
-video: nil
-audio: nil
-alt: Enfrentamientos en Jerusalén dejan más de 200 heridos
+image: "/uploads/2021/images-2575189.jpg"
+video: "nil"
+audio: "nil"
+alt: "Enfrentamientos en Jerusalén dejan más de 200 heridos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184356
 ---
 
 Jerusalén se prepara para nuevas protestas este sábado, tras los enfrentamientos entre palestinos y la policía y el ejército israelíes en torno a la Explanada de las Mezquitas, que dejaron más de 200 heridos y provocaron llamados a la calma de Estados Unidos, la Unión Europea y potencias regionales.

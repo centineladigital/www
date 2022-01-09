@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La población debe tomar medidas preventivas y evitar conducir por tramos carreteros donde haya tolvaneras, como Ascensión-Juárez, Sueco-Ahumada, Jiménez-Parral y Jiménez-Saucillo"
-image: /uploads/2021/images-RECOMENDACIONES_POR_VIENTOS_IMAGEN.jpg
-video: nil
-audio: nil
-alt: Se mantiene intensidad del viento en todo el estado, indica Protección Civil
+image: "/uploads/2021/images-RECOMENDACIONES_POR_VIENTOS_IMAGEN.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se mantiene intensidad del viento en todo el estado, indica Protección Civil"
 front: false
-section: Local
+section: "Local"
+news_id: 183518
 ---
 
 Este martes 23 continuarán las fuertes rachas de viento en el estado, con velocidades de hasta 85 kilómetros por hora (km/h) y 65 km/h en Ciudad Juárez y Chihuahua, por lo que la Coordinación Estatal de Protección Civil (CEPC) pide a la población extremar precauciones.  

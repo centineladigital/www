@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En un enlace desde su casa en VLA, Sergio Sepúlveda dio a conocer la noticia. Contó que se siente bien porque se cuidó mucho. "
-image: /uploads/2021/images-sergio-sepulveda-confirma-contagio-covid.jpg
-video: nil
-audio: nil
-alt: Estoy enojado -  Sergio Sepúlveda de 'VLA' revela que tiene covid-19
+image: "/uploads/2021/images-sergio-sepulveda-confirma-contagio-covid.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estoy enojado -  Sergio Sepúlveda de 'VLA' revela que tiene covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182019
 ---
 
 Sergio Sepúlveda, conductor de Venga la Alegría de TV Azteca, informó que dio positivo al coronavirus. Tiene covi-19. El presentador de televisión contó que se siente bien, pues sabe que se cuidó y sólo salió de casa para ir al trabajo. Comunicó que se encontrará aislado en su casa. ¿Cómo se enteró que tiene covid? En un enlace desde su casa, Sergio Sepúlveda dio a conocer la noticia. Contó que se siente bien con su conciencia, pues “solo –sale– al trabajo, no hago nada más”.  

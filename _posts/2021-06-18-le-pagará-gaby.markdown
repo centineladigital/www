@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gaby Spanic demandó a Gustavo Adolfo Infante por difamación, sin embargo, perdió el caso y deberá pagarle al periodista más de 300 mil pesos. "
-image: /uploads/2021/images-gaby-spanic-aun-no-le.jpg
-video: nil
-audio: nil
-alt: ¿Le pagará? Gaby Spanic asegura perdió caso contra Gustavo Adolfo Infante por ser famosa
+image: "/uploads/2021/images-gaby-spanic-aun-no-le.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Le pagará? Gaby Spanic asegura perdió caso contra Gustavo Adolfo Infante por ser famosa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185119
 ---
 
 Desde hace algunos meses se notificó que Gaby Spanic había perdido la demanda que interpuso en contra de Gustavo Adolfo Infante por difamación, por lo que la venezolana tendrá que pagarle al periodista cerca de 374 mil pesos, cantidad que será donada a una organización de niños con cáncer, algo que ha asegurado el conductor. 

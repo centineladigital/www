@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se desarrolló la cuadragésima novena reunión entre autoridades del Seguro Social y padres de menores con cáncer en modalidad virtual"
-image: /uploads/2021/images-Foto_366-3.jpg
-video: nil
-audio: nil
-alt: Fortalece IMSS servicios y procesos de atención a pacientes pediátricos oncológicos
+image: "/uploads/2021/images-Foto_366-3.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fortalece IMSS servicios y procesos de atención a pacientes pediátricos oncológicos"
 front: false
-section: Local
+section: "Local"
+news_id: 186960
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) ha avanzado en el fortalecimiento de los servicios que ofrece a los pacientes pediátricos oncológicos, y con ello ha cumplido con el compromiso institucional de brindar servicios de calidad y mejorar los procesos de atención.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "En revisiones y operativos no se ha detenido a conductores que pudieran vender droga."
-image: /uploads/2021/images-EMILIO.jpg
-video: /uploads/2021/videos-MJ03_EMILIO_GARCIA.mp4
-audio: nil
-alt: SSPE no tiene reporte de DIDI con droga
+image: "/uploads/2021/images-EMILIO.jpg"
+video: "/uploads/2021/videos-MJ03_EMILIO_GARCIA.mp4"
+audio: "nil"
+alt: "SSPE no tiene reporte de DIDI con droga"
 front: false
-section: Local
+section: "Local"
+news_id: 186105
 ---
 
 La Secretaria de Seguridad Pública Estatal dijo no tener reporte dentro de sus revisiones de que choferes de plataforma conocida como DIDI se dediquen al narcomenudeo. Esto tras el asesinato de tres choferes de esta aplicación que se dedica al servicio del transporte. 

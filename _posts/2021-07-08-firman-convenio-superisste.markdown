@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El objetivo es ampliar los beneficios de las tiendas del ISSSTE a toda la población, principalmente a los más vulnerables: Roberto Revilla Ostos."
-image: /uploads/2021/images-ISSSTE_01.jpeg
-video: nil
-audio: nil
-alt: Firman convenio SUPERISSTE y la JAP CDMX para ofrecer descuentos a mas de 360 instituciones de asistencia privada. 
+image: "/uploads/2021/images-ISSSTE_01.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Firman convenio SUPERISSTE y la JAP CDMX para ofrecer descuentos a mas de 360 instituciones de asistencia privada. "
 front: false
-section: Local
+section: "Local"
+news_id: 185482
 ---
 
 El director de SuperISSSTE, Roberto Revilla Ostos, y el Presidente de la Junta de Asistencia Privada de la Ciudad de México (JAP), Fernando Balzaretti Ramírez, firmaron un convenio, el cual permitirá ofrecer descuentos especiales a más de 360 Instituciones de Asistencia Privada (IAP) de la capital.

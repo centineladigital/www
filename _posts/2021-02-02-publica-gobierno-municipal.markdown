@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Podrán participar con actividades realizadas y eventos asistidos de enero 2019 a la fecha"
-image: /uploads/2021/images-unnamed.png
-video: nil
-audio: nil
-alt:  Publica Gobierno Municipal convocatoria para el Programa de Becas al Fomento Deportivo
+image: "/uploads/2021/images-unnamed.png"
+video: "nil"
+audio: "nil"
+alt: " Publica Gobierno Municipal convocatoria para el Programa de Becas al Fomento Deportivo"
 front: false
-section: Local
+section: "Local"
+news_id: 182634
 ---
 
 Con la adición de nuevas categorías para beneficiar a deportistas y promotores de la comunidad deportiva, el Gobierno Municipal de Chihuahua a través del Instituto Municipal de Cultura Física y Deporte presentó la convocatoria del Programa de Becas de Fomento Deportivo, el cuál el próximo lunes 8 de febrero dará inicio la recepción de documentos.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Acreditan 48 muertes y 258 contagiados."
-image: /uploads/2021/images-diapositiva3-324.jpg
-video: nil
-audio: /uploads/2021/audio-MW02_ARTURO_VALENZUELA.mp3
-alt: Continúan altos indicadores de casos COVID
+image: "/uploads/2021/images-diapositiva3-324.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW02_ARTURO_VALENZUELA.mp3"
+alt: "Continúan altos indicadores de casos COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 184174
 ---
 
 Aún continúan altos diversos indicadores de casos do coronavirus, según lo expresó el titular de la Dirección de la Zona Norte, Arturo Valenzuela Zorrilla, quien señaló que 9 municipios reportaron 48 muertes acreditadas y se registraron un total de 258 casos positivos a PCR en 26 municipios. 

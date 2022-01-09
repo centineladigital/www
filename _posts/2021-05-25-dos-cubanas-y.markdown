@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Según la vedette, Lyn May, ya está protegida contra los contagios de covid-19, pues ya le pusieron dos vacunas cubanas y una “belga”. "
-image: /uploads/2021/images-lyn-may-protegida-covid-puso.jpg
-video: nil
-audio: nil
-alt: Dos cubanas y la belga -  Lyn May asegura que se aplicó tres vacunas contra el covid-19
+image: "/uploads/2021/images-lyn-may-protegida-covid-puso.jpg"
+video: "nil"
+audio: "nil"
+alt: "Dos cubanas y la belga -  Lyn May asegura que se aplicó tres vacunas contra el covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184642
 ---
 
 Lyn May, famosa vedette de 69 años, causó locura entre sus fans. ¿Qué hizo? Resulta que Lyn May reveló que ya está vacunada contra el coronavirus, covid-19. ¿Qué de malo hay en ello? La bailarina externó que está volviendo a la Nueva Normalidad, pues ya recibió no una ni dos dosis del concentrado para evitar muertes por covid-19, sino tres. ¿A Lyn May le aplicaron tres dosis de vacuna contra el covid-19? Te decimos lo que dijo la famosa. 

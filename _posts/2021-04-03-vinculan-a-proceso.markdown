@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los procesados son Verónica “V”, Miguel “C”, Juan “C” y Raúl “L”, se desempeñaban como policías de Tulum"
-image: /uploads/2021/images-2556468.jpg
-video: nil
-audio: nil
-alt: Vinculan a proceso a policías que asesinaron a Victoria Esperanza
+image: "/uploads/2021/images-2556468.jpg"
+video: "nil"
+audio: "nil"
+alt: "Vinculan a proceso a policías que asesinaron a Victoria Esperanza"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183666
 ---
 
 La Fiscalía General del Estado de Quintana Roo informó que fiscales adscritos a esa representación social obtuvieron de un juez de control la vinculación a proceso de Verónica “V”, Miguel “C”, Juan “C” y Raúl “L”, quienes se desempeñaban como policías de Tulum, por el delito de feminicidio en agravio de Victoria Esperanza Salazar Arriaza.

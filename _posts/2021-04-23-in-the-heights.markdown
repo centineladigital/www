@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El tan esperado musical de Lin-Manuel Miranda llega a la pantalla grande en junio. M2 los acompaño set de Washington Heights."
-image: /uploads/2021/images-cinta-lin-manuel-miranda-llegara.jpeg
-video: nil
-audio: nil
-alt: In the Heights. “Un musical que siempre quiso ser más grande de lo que tenía derecho a ser”
+image: "/uploads/2021/images-cinta-lin-manuel-miranda-llegara.jpeg"
+video: "nil"
+audio: "nil"
+alt: "In the Heights. “Un musical que siempre quiso ser más grande de lo que tenía derecho a ser”"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184067
 ---
 
 El 25 de julio de 2019, hace otra vida, visitamos el set donde se estaba acabando de filmar el musical In The Heights, en Nueva York. Vimos a las increíbles Daphne Rubin-Vega (Rent), a Dascha Polanco (Orange is the New Black), Stephanie Beatriz (Brooklyn Nine-Nine) y a nuestra propia Melissa Barrera interpretar “No me diga”, una de las canciones más divertidas del musical que en 2008 se llevó cuatro premios Tony en Broadway y que en junio se apoderará de la pantalla grande. 

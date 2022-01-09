@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La titular del programa Ventaneando, felicitó a su esposo, recién nombrado presidente Ejecutivo del Cruz Azul. "
-image: /uploads/2021/images-pati-chapoy-felicito-alvaro-davila.jpg
-video: nil
-audio: nil
-alt: ¡Presume a su esposo! Pati Chapoy publica foto de Álvaro Dávila ya con los colores del Cruz Azul
+image: "/uploads/2021/images-pati-chapoy-felicito-alvaro-davila.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Presume a su esposo! Pati Chapoy publica foto de Álvaro Dávila ya con los colores del Cruz Azul"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181972
 ---
 
 Aunque Pati Chapoy es toda una institución en el mundo del espectáculo y tiene detalles desconocidos de muchos famosos, siempre ha sido muy reservada sobre su familia y vida personal, salvo contadas excepciones como la de ayer, tras el nombramiento de su esposo, Álvaro Dávila, como nuevo presidente Ejecutivo del Cruz Azul. Luego del anuncio oficial, que se volvió tendencia en redes sociales, la conductora compartió una foto en su cuenta de Instagram y una historia en la misma red social en la que, con mucha mesura, felicitó a su esposo por el logro. 

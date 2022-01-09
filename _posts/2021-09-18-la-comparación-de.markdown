@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El atacante de las Águilas recalcó la obligación que tienen de ganar; considera que el juego más importante de los rivales es ante el América"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: La comparación de Álvaro Fidalgo entre América y Real Madrid
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "La comparación de Álvaro Fidalgo entre América y Real Madrid"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187854
 ---
 
 De acuerdo con Álvaro Fidalgo, jugador del América, en las Águilas no hay otro resultado aceptable que no sea ganar. Para el español, ante los azulcrema es el duelo más importante de la temporada para cada equipo.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Thalía cumple 50 años y los celebra con sesión de fotos y emotivo mensaje para ella misma en Instagram."
-image: /uploads/2021/images-thalia-celebra-sus-anos-instagram.jpg
-video: nil
-audio: nil
-alt: ¡Está 'arrasando'! Thalía celebra sus 50 años con sesión de fotos y mensaje en Instagram
+image: "/uploads/2021/images-thalia-celebra-sus-anos-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Está 'arrasando'! Thalía celebra sus 50 años con sesión de fotos y mensaje en Instagram"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187157
 ---
 
 Este 26 de agosto, la cantante, actriz y empresaria mexicana Thalía está 'arrasando', al tiempo que cumple 50 años, y no pudo dejar pasar la oportunidad para presumir cómo luce a su edad y mandar mensaje usando la frase "sin-cuenta", de aspectos de su vida. 

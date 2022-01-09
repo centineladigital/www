@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Respecto a si la pareja planea tener un bebé pronto, el cantante señaló que no está en planes, todavía hay muchas cosas que vamos a hacer primero. "
-image: /uploads/2021/images-camilo_y_eva.jpg
-video: nil
-audio: nil
-alt: ¿Por un shampoo? Camilo revela cómo conoció a Evaluna Montaner
+image: "/uploads/2021/images-camilo_y_eva.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Por un shampoo? Camilo revela cómo conoció a Evaluna Montaner"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183913
 ---
 
 Debido a su participación como coach en La Voz Kids, Camilo ha aparecido en varios medios nacionales hablando de su carrera musical, su participación en el reality show de TV Azteca y su relación con su esposa Evaluna, hija de Ricardo Montaner. "Mi suegro es una figura muy importante para mí", dijo el cantante durante una entrevista para el programa Ventaneando. Y en esa misma charla con Pati Chapoy, que fue breve, el colombiano reveló cómo conoció a su actual pareja.

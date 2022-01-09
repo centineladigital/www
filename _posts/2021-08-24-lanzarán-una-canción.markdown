@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A pesar de que se ha especulado que Belinda y Christian Nodal terminaron su relación, se ha filtrado un video de los cantantes en donde se les ve juntos. "
-image: /uploads/2021/images-rumora-cantantes-sacar-cancion-juntos.jpg
-video: nil
-audio: nil
-alt: ¿Lanzarán una canción? Filtran supuesto video de Belinda y Nodal juntos tras rumores de ruptura
+image: "/uploads/2021/images-rumora-cantantes-sacar-cancion-juntos.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Lanzarán una canción? Filtran supuesto video de Belinda y Nodal juntos tras rumores de ruptura"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187058
 ---
 
 A pocos meses de haber cumplido su primer año de novios, Belinda y Christian Nodal están en la polémica y han encendido las alarmas después de que el intérprete de “Adiós amor” archivara la mayoría de sus publicaciones en Instagram y que ambos cantantes se dejaran de seguir, por lo que se rumora terminaron su relación, sin embargo, circula un video que podría mostrar lo contrario. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de la plataforma de la Ibycenech, se ofrece un recorrido los días 22 y 23 de abril, a las y los jóvenes interesados en cursar las licenciaturas en Educación Preescolar, en Educación Primaria, o  en Inclusión Educativa"
-image: /uploads/2021/images-DSC_0002.JPG
-video: nil
-audio: nil
-alt: Invita Escuela Normal del Estado  a su Open House Virtual
+image: "/uploads/2021/images-DSC_0002.JPG"
+video: "nil"
+audio: "nil"
+alt: "Invita Escuela Normal del Estado  a su Open House Virtual"
 front: false
-section: Local
+section: "Local"
+news_id: 184028
 ---
 
 La Institución Benemérita y Centenaria Escuela Normal del Estado de Chihuahua “Profr. Luis Urías Belderráin” (Ibycenech) abrirá sus puertas los días 22 y 23 de abril, para recibir a cientos de alumnas y alumnos de instituciones de educación media superior, durante el Open House Virtual: la Normal a solo un clic.

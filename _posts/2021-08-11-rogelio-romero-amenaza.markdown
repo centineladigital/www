@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El boxeador dio un ultimátum para recibir el apoyo rumbo a dos eventos mundiales en lo que resta del año, en caso contrario ya no peleará en amateur"
-image: /uploads/2021/images-rogelio-romero-boxeador-amateur-imago_0_27_1200_746.jpg
-video: nil
-audio: nil
-alt: Rogelio Romero amenaza con irse al box profesional si no hay apoyo de la Conade
+image: "/uploads/2021/images-rogelio-romero-boxeador-amateur-imago_0_27_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "Rogelio Romero amenaza con irse al box profesional si no hay apoyo de la Conade"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186552
 ---
 
 Después de quedar fuera en los cuartos de final de los Juegos Olímpicos de Tokio 2020, el boxeador Rogelio Romero mencionó que no llegó al evento con el suficiente fogueo internacional para enfrentar ese torneo de alto nivel, y ahora el mexicano quiere continuar con el ciclo olímpico rumbo a París 2024, pero de no encontrar ese impulso de las autoridades deportivas mejor optará por el profesionalismo. 

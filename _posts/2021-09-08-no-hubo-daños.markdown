@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Presidente indicó que se avanza en el restablecimiento de la energía eléctrica tras el sismo, principalmente en Acapulco, Guerrero"
-image: /uploads/2021/images-amlo-informo-que-no-hay.jpeg
-video: nil
-audio: nil
-alt: No hubo daños graves por sismo, informa AMLO; debemos salir adelante, dice
+image: "/uploads/2021/images-amlo-informo-que-no-hay.jpeg"
+video: "nil"
+audio: "nil"
+alt: "No hubo daños graves por sismo, informa AMLO; debemos salir adelante, dice"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187529
 ---
 
 El presidente Andrés Manuel López Obrador informó que no se reportaron daños graves por el sismo de magnitud 7.1, que se sintió anoche en varios estados; sin embargo, reiteró que en Guerrero hubo derrumbes y una persona falleció. 

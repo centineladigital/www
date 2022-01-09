@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante colombiano tuvo un aparatoso accidente mientras baila su más reciente sencillo 'Sobrio'; video se vuelve viral en redes sociales. "
-image: /uploads/2021/images-maluma-sufre-aparatosa-caida-baila-1_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¿Se pasó de copas? Maluma sufre aparatosa caída mientras baila
+image: "/uploads/2021/images-maluma-sufre-aparatosa-caida-baila-1_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Se pasó de copas? Maluma sufre aparatosa caída mientras baila"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186457
 ---
 
 Maluma regresará a los grandes escenarios con el  masivo concierto por la reapertura de Nueva York en donde compartirá escena con artistas de la talla de Carlos Santana, Bruce Springsteen y el grupo The Killers. Además el cantante ya prepara una gira mundial "con besos en el escenario y todo", declaró el intérprete de "Hawái" generando duras críticas en redes sociales. 

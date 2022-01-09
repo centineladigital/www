@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que el se dedica a gobernar Chihuahua."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-MV01_JAVIER_CORRAL.mp3
-alt: No busco diputación -  Corral
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV01_JAVIER_CORRAL.mp3"
+alt: "No busco diputación -  Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 182895
 ---
 
 "Por ningún partido estoy buscando una diputación, son puras mentiras" fueron las palabras del Gobernador del Estado, Javier Corral Jurado, al ser cuestionado sobre versiones de que estaría en pláticas para poder ser diputado federal de forma plurinominal.

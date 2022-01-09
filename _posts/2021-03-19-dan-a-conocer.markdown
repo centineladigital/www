@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Dan a conocer los pro y contras que tiene la Miscelánea Fiscal 2021."
-image: /uploads/2021/images-PINEMTEL.jpeg
-video: nil
-audio: /uploads/2021/audio-MV06_FRANCISCO_PIMENTEL.mp3
-alt: Dan a conocer pros y contras de la miscelánea fiscal
+image: "/uploads/2021/images-PINEMTEL.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MV06_FRANCISCO_PIMENTEL.mp3"
+alt: "Dan a conocer pros y contras de la miscelánea fiscal"
 front: false
-section: Local
+section: "Local"
+news_id: 183489
 ---
 
 Con el fin de capacitar a sus agremiados este viernes el Colegio de Contadores Públicos presentó una ponencia con el fin de conocer los pro y contras que tiene la Miscelánea Fiscal 2021, la cual cuanta con más de mil 100 reglas de operación, según fue dado a conocer por el Abogado y Contador Público, Fernando Pimentel.

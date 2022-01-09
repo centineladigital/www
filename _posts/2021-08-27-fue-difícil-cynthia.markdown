@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La dolorosa ruptura amorosa de Cynthia Rodríguez se dio en medio del torbellino de ‘La Academia’. ¿Por qué terminó con José Luis Díaz? "
-image: /uploads/2021/images-cynthia-rodriguez-instagram-2.jpg
-video: nil
-audio: nil
-alt: “Fue difícil” -  Cynthia Rodríguez de 'VLA' revela que sufrió mucho tras romper con su ex de 'La Academia'
+image: "/uploads/2021/images-cynthia-rodriguez-instagram-2.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Fue difícil” -  Cynthia Rodríguez de 'VLA' revela que sufrió mucho tras romper con su ex de 'La Academia'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187184
 ---
 
 Cynthia Rodríguez, famosa conductora de Venga la Alegría y ex integrante del reality musical ‘La Academia’,  habló más a detalle sobre su pasado amoroso con José Luis Díaz, quien también fue integrante de la emisión televisiva.  ¿Fue difícil su separación? ¿Por qué fue tan dolorosa? La actual pareja de Carlos Rivera externó lo complicado fue pasar por este proceso de separación. ¿Fue una relación tormentosa? 

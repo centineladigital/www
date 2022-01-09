@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Lejos de los dictados de la moda, trazaba su propio camino, que después era copiado por otros. "
-image: /uploads/2021/images-a-cinco-anos-de-la_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: A cinco años de la partida de David Bowie, 'El Camaleón del rock'
+image: "/uploads/2021/images-a-cinco-anos-de-la_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "A cinco años de la partida de David Bowie, 'El Camaleón del rock'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182002
 ---
 
 Y cuando despertemos el 10 de enero, quinto aniversario de la muerte de David Bowie, nos daremos cuenta de que, aunque ya no está entre nosotros, tampoco ha acabado por dejarnos. Su legado musical nos acompaña, como lo hizo a lo largo de más de medio siglo de una intensa y camaleónica carrera. Bowie se cruzó en nuestras vidas con una trayectoria siempre cambiante. Alguna vez aspirante a mimo y saxofonista de jazz, terminó por encarnar en el rock –y en el cine– a tantos personajes que ahora resulta difícil elegir al favorito. Todos tenían su encanto. En un mundo plagado de músicos que siguen los dictados de la moda, él trazaba su propio camino, que muchos no dudaban en copiar. 

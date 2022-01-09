@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los equipos de rescate buscan a desaparecidos, entre los que hay niños"
-image: /uploads/2021/images-las-inundaciones-en-tennessee-se_0_22_1024_638.jpg
-video: nil
-audio: nil
-alt: Reportan al menos 21 muertos por históricas inundaciones en Tennessee
+image: "/uploads/2021/images-las-inundaciones-en-tennessee-se_0_22_1024_638.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reportan al menos 21 muertos por históricas inundaciones en Tennessee"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187039
 ---
 
 Unas devastadoras inundaciones en Tennessee, al sur de Estados Unidos, han dejado al menos 21 muertos y decenas de desaparecidos, según el último balance de funcionarios locales, quienes además han advertido que la cifra era preliminar ante un frente climático que ha sido considerado como "histórico" por los expertos.

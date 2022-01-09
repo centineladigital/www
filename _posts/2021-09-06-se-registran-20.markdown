@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La coordinación municipal de Protección Civil de San Felipe, exhortó a la población a guardar la calma, ante “rumores” de un supuesto colapso en la presa “La Chirimoya”"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Se registran 20 sismos en Guanajuato; 4.6 grados el de mayor magnitud
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Se registran 20 sismos en Guanajuato; 4.6 grados el de mayor magnitud"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187444
 ---
 
 León, Gto.- La noche del domingo se registraron dos nuevos sismos en el municipio de San Felipe, Guanajuato, de una intensidad de 4.4 y 4.6 grados en la escala de Richter, que también se sintieron en la ciudades de León y Guanajuato.

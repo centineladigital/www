@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Aún no se definen medidas o si se llegará a rojo."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-MJ03_WENDY_AVILA.mp3
-alt: Sin definir “supercierres” en Chihuahua
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ03_WENDY_AVILA.mp3"
+alt: "Sin definir “supercierres” en Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 184055
 ---
 
 Debido a que aún no se lleva a cabo la reunión del consejo sanitario, no se ha definido ningún supercierre o las medidas que se tomarán dentro del estado por los próximos 15 días, según lo dio a conocer Wendy Avila Coronado, Subdirectora de Medicina Preventiva y Promoción de la Salud.

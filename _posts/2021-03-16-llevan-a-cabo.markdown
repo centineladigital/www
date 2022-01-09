@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esta conferencia puede ser disfrutada dentro de la página https://www.facebook.com/fcpysuach/."
-image: /uploads/2021/images-ESTRES3.jpg
-video: nil
-audio: /uploads/2021/audio-ML06_IMELDA_ALCALA.mp3
-alt: Llevan a cabo conferencia contra el estrés
+image: "/uploads/2021/images-ESTRES3.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML06_IMELDA_ALCALA.mp3"
+alt: "Llevan a cabo conferencia contra el estrés"
 front: false
-section: Local
+section: "Local"
+news_id: 183439
 ---
 
 Con el nombre “Salud mental, elementos para evitar el estrés” este martes se presentó una ponencia con el fin de que alumnos y docentes de la Universidad Autónoma de Chihuahua pudieron contar con una serie de herramientas para su beneficio. Esto en el marco de la Primer jornada de la semana de salud y el deporte “Corriendo de una sala a otra”.

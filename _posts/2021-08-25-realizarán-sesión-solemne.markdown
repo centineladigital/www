@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La sesión se celebrará a las 10:00 hora el próximo jueves 2 de septiembre así lo dio a conocer el secretario del Ayuntamiento Óscar González Luna"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Realizarán sesión Solemne para presentar Tercer Informe de actividades de la administración 2018-2021
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Realizarán sesión Solemne para presentar Tercer Informe de actividades de la administración 2018-2021"
 front: false
-section: Local
+section: "Local"
+news_id: 187118
 ---
 
 En sesión Ordinaria de Cabildo las y los integrantes del Ayuntamiento aprobaron celebrar una sesión Solemne para que la presidenta municipal María Angélica Granados Trespalacios, presente el Tercer Informe de actividades de la administración 2018-2021.

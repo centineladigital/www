@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con el propósito de disminuir el riesgo de contagios por COVID-19"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Mantiene Gobierno Municipal desinfección en exterior de hospitales y clínicas
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Mantiene Gobierno Municipal desinfección en exterior de hospitales y clínicas"
 front: false
-section: Local
+section: "Local"
+news_id: 186731
 ---
 
 El Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, mantiene las labores de desinfección en exteriores de diversos hospitales y clínicas de la capital del estado con el propósito de disminuir el riesgo de contagios por COVID-19.

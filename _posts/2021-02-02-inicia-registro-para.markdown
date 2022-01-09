@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de la página https://mivacuna.salud.gob.mx podrán registrarse; deben de contar con la CURP para dar inicio al proceso"
-image: /uploads/2021/images-2522195.jpg
-video: nil
-audio: nil
-alt: Inicia registro para vacunar contra covid a adultos mayores
+image: "/uploads/2021/images-2522195.jpg"
+video: "nil"
+audio: "nil"
+alt: "Inicia registro para vacunar contra covid a adultos mayores"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182619
 ---
 
 El gobierno federal dio a conocer el inicio de la Fase II de vacunación con el registro de adultos mayores de 60 años de edad o más.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En 4 años se certificaron con el distintivo Chihuahua Market 103 empresas, se creó la tienda móvil Chihuahua Market, una aplicación web y la tienda virtual www.chihuahuamarket.mx   "
-image: /uploads/2021/images-_dsc9904-3.jpg
-video: nil
-audio: /uploads/2021/audio-6-_GRACIELA_GOMEZ_DIR_COMERCIO_PROGRAMA_LOGROS_CON_VALOR_SIDE_11-8-21.MP3
-alt: Asesoró y capacitó Estado a 24 mil empresas; Chihuahua es punta de lanza con su marca estatal
+image: "/uploads/2021/images-_dsc9904-3.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-6-_GRACIELA_GOMEZ_DIR_COMERCIO_PROGRAMA_LOGROS_CON_VALOR_SIDE_11-8-21.MP3"
+alt: "Asesoró y capacitó Estado a 24 mil empresas; Chihuahua es punta de lanza con su marca estatal"
 front: false
-section: Local
+section: "Local"
+news_id: 186574
 ---
 
 Para fomentar y propiciar  la generación y crecimiento de las MiPyMEs en el estado de Chihuahua, la Dirección de Comercio de la Secretaría de Innovación y Desarrollo Económico (SIDE) creó el distintivo Chihuahua Market, asesoró y capacitó a más de 24 mil empresas de todos los sectores, realizó 9 encuentros de negocios y 15 ferias nacionales.

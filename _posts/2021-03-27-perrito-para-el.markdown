@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "'Clover', un perro de un año y medio de edad, se convierte en héroe al ayudar a su humana a sobrevivir a una emergencia médica durante un paseo, parando el tráfico para pedir auxilio"
-image: /uploads/2021/images-2552468.jpg
-video: nil
-audio: nil
-alt: Perrito para el tráfico para salvar a su dueña, que se desmayó
+image: "/uploads/2021/images-2552468.jpg"
+video: "nil"
+audio: "nil"
+alt: "Perrito para el tráfico para salvar a su dueña, que se desmayó"
 front: false
-section: Buenas Noticias
+section: "Buenas Noticias"
+news_id: 183579
 ---
 
 Un  perro llamado Clover está siendo aclamado como un héroe en Canadá por ayudar a su humana, Haley Moore, a sobrevivir a una emergencia médica durante un paseo.

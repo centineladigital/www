@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: ""
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Sostiene Alcalde primera reunión del Gabinete de Seguridad
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Sostiene Alcalde primera reunión del Gabinete de Seguridad"
 front: false
-section: Local
+section: "Local"
+news_id: 187713
 ---
 
 En las instalaciones de la Comandancia Norte de la Dirección de Seguridad Pública Municipal (DSPM), el alcalde, Marco Bonilla, en compañía del titular de la corporación, Julio César Salas, sostuvo la primera reunión del Gabinete de Seguridad, con los mandos y coordinadores de las diferentes áreas.

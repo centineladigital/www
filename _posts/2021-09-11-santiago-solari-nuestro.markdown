@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "América buscará mantener su fortaleza en el Estadio Azteca, mañana ante el Mazatlan FC"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Santiago Solari -  Nuestro cupo de extranjeros está cubierto
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Santiago Solari -  Nuestro cupo de extranjeros está cubierto"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187647
 ---
 
 Santiago Solari y el América quieren mantener el buen paso en el Estadio Azteca y mañana por la noche expondrán el invicto contra el Mazatlán FC. Las Águilas no caen en su fuerte desde diciembre del año anterior. 

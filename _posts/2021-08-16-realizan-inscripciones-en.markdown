@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El registro para preescolar, primaria y secundaria se desarrollará de manera presencial; consulta de escuelas secundarias con espacios disponibles en: http://sie.chihuahua.gob.mx/ y  http://educacion.chihuahua.gob.mx/"
-image: /uploads/2021/images-SED_5647.JPG
-video: nil
-audio: nil
-alt: Realizan inscripciones en educación básica  del 16 de agosto al 10 de septiembre
+image: "/uploads/2021/images-SED_5647.JPG"
+video: "nil"
+audio: "nil"
+alt: "Realizan inscripciones en educación básica  del 16 de agosto al 10 de septiembre"
 front: false
-section: Local
+section: "Local"
+news_id: 186741
 ---
 
 La Secretaría de Educación y Deporte (SEyD) informó que este lunes 16 de agosto inició el proceso de inscripciones para el ciclo escolar 2021-2022 en planteles de educación básica.

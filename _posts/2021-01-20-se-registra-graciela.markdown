@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "En el evento de registro estuvieron varios priistas reconocidos, incluyendo el ex gobernador José Reyes Baeza"
-image: /uploads/2021/images-afdafsfsa.jpg
-video: nil
-audio: /uploads/2021/audio-AW05_GRACIELA_ORTIZ.mp3
-alt: Se registra Graciela Ortiz como precandidata a la gubernatura por el PRI
+image: "/uploads/2021/images-afdafsfsa.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AW05_GRACIELA_ORTIZ.mp3"
+alt: "Se registra Graciela Ortiz como precandidata a la gubernatura por el PRI"
 front: false
-section: Local
+section: "Local"
+news_id: 182310
 ---
 
 Graciela Ortiz acompañada del ex gobernador Patricio Martínez, presentó su registro como precandidata a la gubernatura de Chihuahua, por el Partido Revolucionario Institucional (PRI), ante la Comisión Estatal de Procesos Internos.

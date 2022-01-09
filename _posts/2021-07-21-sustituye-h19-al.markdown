@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Detectan al cabecilla del grupo nuevo cártel de Juárez."
-image: /uploads/2021/images-EMILIO.jpg
-video: /uploads/2021/videos-MW04_EMILIO_GARCIA.mp4
-audio: nil
-alt: Sustituye H19 al H7 -  SSPE
+image: "/uploads/2021/images-EMILIO.jpg"
+video: "/uploads/2021/videos-MW04_EMILIO_GARCIA.mp4"
+audio: "nil"
+alt: "Sustituye H19 al H7 -  SSPE"
 front: false
-section: Local
+section: "Local"
+news_id: 185885
 ---
 
 Tras la detención de Juan Romero Manjarrez Alonso alias “H7 del  nuevo cártel de Juárez fue detectado que Roy Manjarrez Daniels es quien ocupa el lugar del detenido, afirmó el titular de la Secretaría de Seguridad Pública Estatal Emilio García Ruiz.

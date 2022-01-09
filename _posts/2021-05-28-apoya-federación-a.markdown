@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señala truinfo contundente de el partido de Morena."
-image: /uploads/2021/images-ramon.jpg
-video: nil
-audio: /uploads/2021/audio-MV03_RAMON_ENRIQUEZ.mp3
-alt: Apoya federación a siete de cada 10 familias
+image: "/uploads/2021/images-ramon.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV03_RAMON_ENRIQUEZ.mp3"
+alt: "Apoya federación a siete de cada 10 familias"
 front: false
-section: Local
+section: "Local"
+news_id: 184725
 ---
 
 Siete de cada 10 familias de chihuahua son apoyadas por federación, fueron las palabras del Delegado Nacional de Morena en el estado, Ramón Enríquez. Esto dentro de la rueda de prensa en la cual se conjuntaron diversos actores políticos de este partido.

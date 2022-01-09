@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "En tan sólo 24 horas se acreditaron 38 defunciones y 92 nuevos casos."
-image: /uploads/2021/images-LETICIA.jpg
-video: nil
-audio: /uploads/2021/audio-MM01_LETICIA_RUIZ.mp3
-alt: Supera Chihuahua mil casos en una semana
+image: "/uploads/2021/images-LETICIA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM01_LETICIA_RUIZ.mp3"
+alt: "Supera Chihuahua mil casos en una semana"
 front: false
-section: Local
+section: "Local"
+news_id: 183866
 ---
 
 A un total de mil 102 casos de contagios en la semana 14 es lo que se registró en todo el estado de Chihuahua, lo cual representa una alarma y se trabaja para contener esta situación y evitar que se tenga un nuevo pico como el que se sufrío en el mes de octubre. Según fue dado a conocer por parte de la Directora de Medicina Preventiva y Promoción de la Salud, Leticia Ruiz González.

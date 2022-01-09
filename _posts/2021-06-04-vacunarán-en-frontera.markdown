@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El millón de vacunas que el gobierno de Estados Unidos obsequiará a México serán aplicadas a la población de la frontera norte"
-image: /uploads/2021/images-2589486.jpg
-video: nil
-audio: nil
-alt: Vacunarán en frontera norte para plantear su reapertura
+image: "/uploads/2021/images-2589486.jpg"
+video: "nil"
+audio: "nil"
+alt: "Vacunarán en frontera norte para plantear su reapertura"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184831
 ---
 
 El millón de vacunas que el gobierno de Estados Unidos obsequiará a México serán aplicadas a la población de la frontera norte con el fin de reabrir la frontera con ese país, adelantó el presidente Andrés Manuel López Obrador. 

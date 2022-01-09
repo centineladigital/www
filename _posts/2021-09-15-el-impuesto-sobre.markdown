@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Se debe acordar este tema con el gremio empresarial  "
-image: /uploads/2021/images-olson.jpg
-video: nil
-audio: nil
-alt: El impuesto sobre la nomina debe ser acordada con los empresarios
+image: "/uploads/2021/images-olson.jpg"
+video: "nil"
+audio: "nil"
+alt: "El impuesto sobre la nomina debe ser acordada con los empresarios"
 front: false
-section: Local
+section: "Local"
+news_id: 187771
 ---
 
 El diputado Carlos Olson comentó que el impuesto sobre la nomina de los empresarios es un tema que se debe acordar con el comité de presupuestal  ya que es algo que paga directamente el empresario, esto sacaría al estado de baches financieros.

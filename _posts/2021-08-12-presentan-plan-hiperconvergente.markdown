@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El coordinador de Política Digital del Gobierno del Estado de Chihuahua, Gustavo Ríos, destaca que se trata de un plan visionario que en lugar de implicar un gasto, se convertirá en un bien público de beneficio colectivo y no solo gubernamental  "
-image: /uploads/2021/images-Presentan_PHC_(2).jpeg
-video: nil
-audio: nil
-alt: Presentan Plan Hiperconvergente de Conectividad a Asociación Mexicana de Internet
+image: "/uploads/2021/images-Presentan_PHC_(2).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Presentan Plan Hiperconvergente de Conectividad a Asociación Mexicana de Internet"
 front: false
-section: Local
+section: "Local"
+news_id: 186613
 ---
 
 A través de una reunión virtual, Gustavo Ríos Alcazar, titular de la Coordinación de Política Digital del Gobierno del Estado de Chihuahua, presentó el Plan Hiperconvergente de Conectividad a las y los miembros de la Asociación de Internet MX.

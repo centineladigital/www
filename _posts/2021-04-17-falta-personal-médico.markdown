@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El nosocomio cuenta con trece camas equipadas en el área Covid, pero la capacidad real es de seis de acuerdo con el personal de que se dispone actualmente "
-image: /uploads/2021/images-hospitaldeliciassaul.jpg
-video: nil
-audio: nil
-alt: Falta personal médico en el Hospital Regional de Delicias -  director
+image: "/uploads/2021/images-hospitaldeliciassaul.jpg"
+video: "nil"
+audio: "nil"
+alt: "Falta personal médico en el Hospital Regional de Delicias -  director"
 front: false
-section: Local
+section: "Local"
+news_id: 183939
 ---
 
 Es la falta de personal médico y de enfermería para atender el área Covid, no de camas, la razón por la cual el Hospital Regional aparece saturado de pacientes infectados con coronavirus en los informes de la Secretaría de Salud, aclaró Jorge Aldana Bustamante, director de la institución.

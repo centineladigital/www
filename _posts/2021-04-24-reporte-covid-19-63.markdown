@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se sumaron 297 casos positivos y 53 fallecimientos, los cuales ocurrieron en Juárez (24), Chihuahua (11), Delicias (3), Camargo (1), Nuevo Casas Grandes (5), Jiménez (2), Saucillo (2), Ahumada (1), Ocampo (1), Valle de Zaragoza, (1), Guadalupe y Calvo (1) y Matamoros (1)"
-image: /uploads/2021/images-Diapositiva3.JPG
-video: nil
-audio: nil
-alt: Reporte COVID-19 -  63 mil 374 contagios y 6 mil 370 decesos en el estado
+image: "/uploads/2021/images-Diapositiva3.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporte COVID-19 -  63 mil 374 contagios y 6 mil 370 decesos en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184091
 ---
 
 La Secretaría de Salud informó que al día de hoy tenemos en el estado de Chihuahua un total general de 63 mil 374 casos confirmados de COVID-19 ya que se sumaron otros 297, mientras que van 53 mil 072 (+115) recuperados, 33 mil 268 (+80) descartados y se tienen mil 999 (+4) sospechosos.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Acto en el que el reconocido abogado y ex secretario de gobernación  federal Fernando Gomez Mont, fungió como testigo"
-image: /uploads/2021/images-WhatsApp_Image_2021-09-08_at_09.25.05.jpeg
-video: /uploads/2021/videos-MARU_VIDEO.mp4
-audio: nil
-alt: Encabeza Gobernadora mesas de entrega-recepción con Gobierno Estatal Saliente
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-08_at_09.25.05.jpeg"
+video: "/uploads/2021/videos-MARU_VIDEO.mp4"
+audio: "nil"
+alt: "Encabeza Gobernadora mesas de entrega-recepción con Gobierno Estatal Saliente"
 front: false
-section: Local
+section: "Local"
+news_id: 187532
 ---
 
 En el primer minuto del día 8 de septiembre, la gobernadora del Estado de Chihuahua, Maru Campos Galván, ofreció un mensaje a los chihuahuenses desde Palacio de Gobierno, a fin de informar que se efectuó la firma del acta de entrega-recepción con el exgobernador e instruyó a los nuevos funcionarios a que desde este miércoles den comienzo a las mesas de trabajo correspondientes.

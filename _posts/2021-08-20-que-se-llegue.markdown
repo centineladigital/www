@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La mandataria capitalina felicitó a la Fiscalía General de Justicia y la Policía de Investigación por el trabajo realizado en el caso del diputado de Morena"
-image: /uploads/2021/images-sheinbaum-negativa-clases-presenciales-tema.jpeg
-video: nil
-audio: nil
-alt: Que se llegue a las últimas consecuencias -  Sheinbaum sobre detención de Saúl Huerta
+image: "/uploads/2021/images-sheinbaum-negativa-clases-presenciales-tema.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Que se llegue a las últimas consecuencias -  Sheinbaum sobre detención de Saúl Huerta"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186923
 ---
 
 La jefa de Gobierno de la Ciudad de México, Claudia Sheinbaum, celebró la detención esta madrugada de Saúl Huerta, diputado separado de Morena, acusado de abuso sexual contra un menor, y se pronunció porque la investigación llegue a las últimas consecuencias. “Pues qué bueno, felicito a Fiscalía General de Justicia que hizo un excelente trabajo, a la Policía de Investigación, a la fiscal. 

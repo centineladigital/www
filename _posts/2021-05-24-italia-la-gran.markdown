@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los rockeros del grupo Måneskin conquistaron el gran festival de música europeo, mientras que en segundo lugar quedó la francesa Barbara Pravi. "
-image: /uploads/2021/images-eurovision-llego-a-su-final_0_1_1200_746.jpg
-video: nil
-audio: nil
-alt: ¡Italia, la gran vencedora! Todo lo que tienes que saber sobre Eurovisión 2021
+image: "/uploads/2021/images-eurovision-llego-a-su-final_0_1_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Italia, la gran vencedora! Todo lo que tienes que saber sobre Eurovisión 2021"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184623
 ---
 
 Después de un año de pausa por la pandemia, Italia ganó el Festival de la Canción de Eurovisión con los rockeros del grupo Måneskin, que conquistaron en Países Bajos a un público muy restringido por las medidas contra el covid-19. Con "Voila", una canción sobre la autoafirmación, un tema íntimo que espera le sirva de tarjeta de visita para conquistar a una audiencia, la francesa Barbara Pravi, a menudo comparada con Edith Piaf, ha quedado en el segundo puesto, seguida de Suiza. 

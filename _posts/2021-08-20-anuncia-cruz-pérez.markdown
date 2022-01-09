@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "“Vamos a empezar el lunes con la Secretaría del ayuntamiento, Secretaría particular, Oficialía mayor y tesorería”, informó Pérez Cuellar. Añadió que la dinámica se repetirá el lunes 23, el 30 de agosto y el 6 de septiembre "
-image: /uploads/2021/images-8929a37c-ce1e-4410-a53d-95eb5bbb7e44.jpg
-video: nil
-audio: nil
-alt: Anuncia Cruz Pérez Cuéllar fechas para dar a conocer los primeros nombramientos
+image: "/uploads/2021/images-8929a37c-ce1e-4410-a53d-95eb5bbb7e44.jpg"
+video: "nil"
+audio: "nil"
+alt: "Anuncia Cruz Pérez Cuéllar fechas para dar a conocer los primeros nombramientos"
 front: false
-section: Local
+section: "Local"
+news_id: 186937
 ---
 
 Ciudad Juárez.- Cruz Pérez Cuéllar, presidente municipal electo de Juárez, anunció que el próximo lunes se convocará a rueda de prensa para dar a conocer los primeros nombramientos de los funcionarios que lo acompañarán en su administración.

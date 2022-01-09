@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El Gobierno del Estado contará con dinero suficiente en las cuentas para cubrir los compromisos más inmediatos que enfrentará a su llegada"
-image: /uploads/2021/images-Arturo_Fuentes_Vélez__secretario_de_Hacienda.jpg
-video: nil
-audio: nil
-alt: Recibirá administración entrante finanzas estables -  Fuentes Vélez
+image: "/uploads/2021/images-Arturo_Fuentes_Vélez__secretario_de_Hacienda.jpg"
+video: "nil"
+audio: "nil"
+alt: "Recibirá administración entrante finanzas estables -  Fuentes Vélez"
 front: false
-section: Local
+section: "Local"
+news_id: 185190
 ---
 
 Al tomar posesión el siguiente gobierno recibirá una administración financiera estable, con recursos suficientes para cumplir con los compromisos más inmediatos que enfrentará en su llegada, informó el secretario de Hacienda, Arturo Fuentes Vélez.

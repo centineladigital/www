@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se esperan precipitaciones de 9 milímetros para este viernes"
-image: /uploads/2021/images-unnamed_(3).jpg
-video: nil
-audio: nil
-alt: Continuarán lluvias las próximas 48 horas en la ciudad
+image: "/uploads/2021/images-unnamed_(3).jpg"
+video: "nil"
+audio: "nil"
+alt: "Continuarán lluvias las próximas 48 horas en la ciudad"
 front: false
-section: Local
+section: "Local"
+news_id: 186945
 ---
 
 La Coordinación Municipal de Protección Civil, informó que de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional, se espera que continúen las lluvias las próximas 48 horas, por ello es importante continuar acatando las recomendaciones emitidas a fin de prevenir incidentes que puedan poner en riesgo la integridad y bienes de la ciudadanía.

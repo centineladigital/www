@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Ofrece apoyo en cuanto logre la gubernatura."
-image: /uploads/2021/images-LOERA.jpg
-video: nil
-audio: /uploads/2021/audio-MM06_JUAN_LOERA.mp3
-alt: Promete Loera solución a problemas mineros
+image: "/uploads/2021/images-LOERA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM06_JUAN_LOERA.mp3"
+alt: "Promete Loera solución a problemas mineros"
 front: false
-section: Local
+section: "Local"
+news_id: 183719
 ---
 
 El candidato a Gobernador de la Coalición Juntos Haremos Historia en Chihuahua, Juan Carlos Loera, prometió interceder para resolver los problemas en materia de minería en Santa Bárbara con representantes de mineros y ex mineros.

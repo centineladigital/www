@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El jefe de la OMS advierte que el mundo está al borde de un 'fracaso moral catastrófico' en compartir la distribución de vacunas y reclama mayor equidad en su distribución"
-image: /uploads/2021/images-2513769.jpg
-video: nil
-audio: nil
-alt: La OMS regaña al mundo por acaparamiento de vacunas
+image: "/uploads/2021/images-2513769.jpg"
+video: "nil"
+audio: "nil"
+alt: "La OMS regaña al mundo por acaparamiento de vacunas"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182208
 ---
 
 El jefe de la Organización Mundial de la Salud dijo este lunes que el mundo estaba al borde de un "fracaso moral catastrófico" en compartir la distribución de vacunas, instando a los países y fabricantes a distribuir las dosis de inyecciones contra el covid-19 de manera más justa.

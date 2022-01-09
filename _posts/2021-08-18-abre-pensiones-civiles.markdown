@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se solicita personal con título y cédula profesional, en las especialidades de endocrinología, urgenciología, medicina interna, neumología, oftalmología con subespecialidad en oculoplastia y retinología  "
-image: /uploads/2021/images-IMG_3127.JPG
-video: nil
-audio: nil
-alt: Abre Pensiones Civiles convocatoria  para la contratación de 5 médicos especialistas
+image: "/uploads/2021/images-IMG_3127.JPG"
+video: "nil"
+audio: "nil"
+alt: "Abre Pensiones Civiles convocatoria  para la contratación de 5 médicos especialistas"
 front: false
-section: Local
+section: "Local"
+news_id: 186838
 ---
 
 Pensiones Civiles del Estado (PCE), convoca a personal médico con especialidad en endocrinología, urgenciología, medicina interna, neumología y  oftalmología con subespecialidad en oculoplastia y retinología.

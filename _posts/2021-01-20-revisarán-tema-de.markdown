@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Analizarán forma en la que entraron y videos; detienen a 4 por fiesta escandalosa."
-image: /uploads/2021/images-GIL_LOYA.jpg
-video: nil
-audio: /uploads/2021/audio-MW03_GILBERTO_LOYA.mp3
-alt: Revisarán tema de policías que entraron a fiesta 
+image: "/uploads/2021/images-GIL_LOYA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW03_GILBERTO_LOYA.mp3"
+alt: "Revisarán tema de policías que entraron a fiesta "
 front: false
-section: Local
+section: "Local"
+news_id: 182303
 ---
 
 Tras circular en las redes un video de elementos que irrumpen en una fiesta, el director de Seguridad Pública Municipal, Gilberto Loya Chávez, señaló que se analiza el caso. Esto ya que a los elementos se les abrió la puerta para entrar al departamento donde se estaba llevando a cabo una fiesta ruidosa.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Todo parece indicar que el hijo de 'El Potrillo' está reservando su traje de mariachi para su llegada al altar. "
-image: /uploads/2021/images-alex-fernandez-caso-viernes-novia.jpg
-video: nil
-audio: nil
-alt: ¡Ya son marido y mujer! Alex Fernández se casó con su novia Alexia en Guadalajara
+image: "/uploads/2021/images-alex-fernandez-caso-viernes-novia.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Ya son marido y mujer! Alex Fernández se casó con su novia Alexia en Guadalajara"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184480
 ---
 
 La familia Fernández sigue creciendo, primero fue la boda de Camila Fernández con Francisco Barba y luego la llegada de la pequeña Cayetana, la primera nieta de El Potrillo, y ahora su hijo Alex ha sorprendido al confirmarse que ya se casó con su novia Alexia Hernández. El feliz recién casado confirmó la boda mediante sus redes sociales en las que desde temprano compartió imágenes de cómo se preparaba para un evento muy especial, sin revelar que se trataba de su enlace civil. 

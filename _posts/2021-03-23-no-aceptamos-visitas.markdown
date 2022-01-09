@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Rechaza que comisión de ‘alto nivel’ de EU enviada por Joe Biden sea para regañar a México por migrantes; destaca buena relación; hoy hay reunión para atender plan migratorio"
-image: /uploads/2021/images-2549790.jpg
-video: nil
-audio: nil
-alt: ‘No aceptamos visitas de supervisión’ -  López Obrador
+image: "/uploads/2021/images-2549790.jpg"
+video: "nil"
+audio: "nil"
+alt: "‘No aceptamos visitas de supervisión’ -  López Obrador"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183515
 ---
 
 El presidente Andrés Manuel López Obrador rechazó que la visita de una comisión de alto nivel del gobierno de Estados Unidos sea para supervisar las medidas en la frontera sur de nuestro país, pues aseguró que el país es soberano y hay buena relación con su homólogo Joe Biden.

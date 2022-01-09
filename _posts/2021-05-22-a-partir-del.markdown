@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Son 15 entidades las que estarán en color amarillo, 16 en color verde y únicamente una entidad -Quintana Roo- permanecerá en semáforo naranja"
-image: /uploads/2021/images-semáforo.jpg
-video: nil
-audio: nil
-alt: A partir del 24 de mayo, Chihuahua pasará a semáforo amarillo -  Salud  
+image: "/uploads/2021/images-semáforo.jpg"
+video: "nil"
+audio: "nil"
+alt: "A partir del 24 de mayo, Chihuahua pasará a semáforo amarillo -  Salud  "
 front: false
-section: Local
+section: "Local"
+news_id: 184601
 ---
 
 El estado de Chihuahua pasará a semáforo amarillo a partir del 24 de mayo y hasta el 06 de junio, informó esta tarde na Secretaría de Salud Federal.

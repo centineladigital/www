@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ramón Rivas asume como presidente"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Alcaldesa María Angélica Granados toma protesta al nuevo Consejo Directivo INDEX Chihuahua
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Alcaldesa María Angélica Granados toma protesta al nuevo Consejo Directivo INDEX Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 182392
 ---
 
 Esta tarde se llevó a cabo el cambio de Consejo Directivo de la Industria Maquiladora y Manufacturera de Exportación, INDEX Chihuahua, en donde la alcaldesa María Angélica Granados, efectuó la toma de protesta al nuevo consejo para el periodo 2021-2022, presidido por Ramón Rivas Hong.

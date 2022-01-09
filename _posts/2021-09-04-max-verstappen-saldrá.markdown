@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los Mercedes completan el top 3 en el orden de salida para la carrera de este domingo "
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Max Verstappen saldrá en pole position en el GP de Países Bajos; Pérez en el 16
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Max Verstappen saldrá en pole position en el GP de Países Bajos; Pérez en el 16"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187426
 ---
 
 El holandés Max Verstappen (Red Bull) saldrá primero este domingo en el Gran Premio de los Países Bajos, el decimotercero del Mundial de Fórmula Uno, que se disputa en el circuito de Zandvoort. 

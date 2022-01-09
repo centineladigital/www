@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pide Protección Civil Municipal seguir recomendaciones para evitar incidentes y enfermedades"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Continuarán los vientos y bajas temperaturas en la ciudad esta semana
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Continuarán los vientos y bajas temperaturas en la ciudad esta semana"
 front: false
-section: Local
+section: "Local"
+news_id: 182412
 ---
 
 Continuarán los vientos fuertes que podrán rebasar los 64  kilómetros por hora para este lunes y martes en la ciudad de Chihuahua, aunado a bajas temperaturas que se presentarán durante las noches y madrugadas, ocasionadas por el frente frío número 31, así lo informó la Coordinación Municipal de Protección Civil y el pronóstico que emite el Servicio Meteorológico Nacional.

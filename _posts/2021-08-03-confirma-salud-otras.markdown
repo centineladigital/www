@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se suman también 2 fallecimientos en Juárez, para un acumulado de 7,702 en todo el estado"
-image: /uploads/2021/images-Informe_tecnico_02_agosto_page-0002.jpg
-video: nil
-audio: nil
-alt: Confirma Salud otras 31 personas contagiadas por COVID-19 para un total de 73,161 casos
+image: "/uploads/2021/images-Informe_tecnico_02_agosto_page-0002.jpg"
+video: "nil"
+audio: "nil"
+alt: "Confirma Salud otras 31 personas contagiadas por COVID-19 para un total de 73,161 casos"
 front: false
-section: Local
+section: "Local"
+news_id: 186226
 ---
 
 El último reporte de la Secretaría de Salud arroja el contagio de 31 personas y 2 fallecimientos en la entidad por COVID-19, los cuales ocurrieron en el municipio de Juárez. Este registro indica que desde que inició la pandemia se contabilizan un total de 73 mil 161 casos confirmados y 7 mil 702 decesos. La dependencia informa que 62 mil 423 (+10) personas se han recuperado de la enfermedad; 44 mil 872 (+201) casos se han descartado y hay 651 (-76) sospechosos.

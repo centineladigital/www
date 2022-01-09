@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Seguirán los diálogos con comerciantes "
-image: /uploads/2021/images-descarga_(1).jpg
-video: /uploads/2021/videos-BJ04_RICARDO_PEREA.mp4
-audio: /uploads/2021/audio-BJ05_MARCO_BONILLA.mp4
-alt: El alcalde le está dando prioridad al comercio informal 
+image: "/uploads/2021/images-descarga_(1).jpg"
+video: "/uploads/2021/videos-BJ04_RICARDO_PEREA.mp4"
+audio: "/uploads/2021/audio-BJ05_MARCO_BONILLA.mp4"
+alt: "El alcalde le está dando prioridad al comercio informal "
 front: false
-section: Local
+section: "Local"
+news_id: 187803
 ---
 
 Ricardo Peréa afirmó que el alcalde Marco Bonilla le está dando prioridad al comercio informal ya que en palabras del presidente de COCENTRO se está tratando de dar un orden al comercio informal y darle también lugar al comercio formal.

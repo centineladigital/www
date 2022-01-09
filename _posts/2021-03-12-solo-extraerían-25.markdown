@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Debido al bajo almacenamiento, es probable que en este próximo arranque del ciclo agrícola, que iniciará el lunes 15 de marzo"
-image: /uploads/2021/images-WhatsApp_Image_2021-03-12_at_9.13.28_AM.jpeg
-video: nil
-audio: nil
-alt: Solo extraerían 25 m3 por segundo de la presa La Boquilla
+image: "/uploads/2021/images-WhatsApp_Image_2021-03-12_at_9.13.28_AM.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Solo extraerían 25 m3 por segundo de la presa La Boquilla"
 front: false
-section: Local
+section: "Local"
+news_id: 183392
 ---
 
 Debido al bajo almacenamiento, es probable que en este próximo arranque del ciclo agrícola, que iniciará el lunes 15 de marzo, se extraiga solamente un volumen de 25 metros cúbicos por segundo de la presa La Boquilla, cuando en los años anteriores el gasto llegaba hasta el doble.

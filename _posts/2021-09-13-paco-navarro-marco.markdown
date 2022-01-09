@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Bonilla contara con todo el respaldo del PAN "
-image: /uploads/2021/images-PACO.jpg.crdownload
-video: /uploads/2021/videos-BL01_PACO_NAVARRO.mp4
-audio: nil
-alt: Paco Navarro -  Marco Bonilla mostró tener la capacidad para liderar el municipio
+image: "/uploads/2021/images-PACO.jpg.crdownload"
+video: "/uploads/2021/videos-BL01_PACO_NAVARRO.mp4"
+audio: "nil"
+alt: "Paco Navarro -  Marco Bonilla mostró tener la capacidad para liderar el municipio"
 front: false
-section: Local
+section: "Local"
+news_id: 187680
 ---
 
 Paco Navarro presidente del comité del PAN  en el estado de Chihuahua comentó que Marco Bonilla antes de ser presidente del municipio de Chihuahua mostró toda la capacidad para poder enfrentar este reto gracias a que estuvo frente la dirección de Desarrollo Humano y Educación así como haber sido  como presidente interino apoyando a Maru Campos.

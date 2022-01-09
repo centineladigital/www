@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Una severa tormenta de nieve deja al menos 3 muertos en España y paraliza la capital, Madrid, donde el aeropuerto fue cerrado y decenas de personas salieron a esquiar en las calles"
-image: /uploads/2021/images-2508899.jpg
-video: nil
-audio: nil
-alt: Tormenta 'Filomena' sepulta a España bajo la nieve; hay 3 muertos
+image: "/uploads/2021/images-2508899.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tormenta 'Filomena' sepulta a España bajo la nieve; hay 3 muertos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182010
 ---
 
 Una tormenta de nieve que ha dejado al menos tres muertos paralizaba este sábado parte de España, especialmente Madrid, con cientos de automovilistas bloqueados, el aeropuerto cerrado y esquiadores o trineos en las calles, mientras no se vislumbra  una mejora de las condiciones meteorológicas.

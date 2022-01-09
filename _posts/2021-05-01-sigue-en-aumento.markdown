@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma Salud 328 nuevos positivos y el deceso de 57 personas más en el último reporte epidemiológico; llega a 65 mil los enfermos de coronavirus y 6 mil 680 muertos"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Sigue en aumento contagios y defunciones por COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Sigue en aumento contagios y defunciones por COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184230
 ---
 
 En el último reporte epidemiológico COVID-19, la Secretaría de Salud confirmó un total general de 65 mil 006 casos positivos, con 328 nuevos contagios y un acumulado de 6 mil 680 defunciones, con 57 personas más fallecidas en la entidad.

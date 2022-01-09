@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se puede marcar al 070 de todo el estado, en un horario de 9:00 am a 3:00 pm"
-image: /uploads/2021/images-Centro3.jpg
-video: nil
-audio: nil
-alt:    Cuenta Educación con Centro Telefónico de Orientación para proceso de preinscripciones
+image: "/uploads/2021/images-Centro3.jpg"
+video: "nil"
+audio: "nil"
+alt: "   Cuenta Educación con Centro Telefónico de Orientación para proceso de preinscripciones"
 front: false
-section: Local
+section: "Local"
+news_id: 183227
 ---
 
 Con el objetivo de atender dudas y brindar toda la información sobre el proceso de preinscripciones para ingresar a cualquiera de los tres grados de Preescolar, o bien al primer año de Primaria y Secundaria, para el ciclo escolar 2021-2022, la Secretaría de Educación y Deporte instaló un Centro de Telefónico de Orientación.

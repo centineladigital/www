@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "'We Can Be Heroes' tiene en su reparto a figuras muy consolidadas como Pedro Pascal, Priyanka Chopra o Christian Slater. "
-image: /uploads/2021/images-saga-we-can-be-heroes.jpg
-video: nil
-audio: nil
-alt: ¿Aparecerán Sharkboy y Lavagirl? Robert Rodríguez prepara secuela de 'We Can Be Heroes' para Netflix
+image: "/uploads/2021/images-saga-we-can-be-heroes.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Aparecerán Sharkboy y Lavagirl? Robert Rodríguez prepara secuela de 'We Can Be Heroes' para Netflix"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181908
 ---
 
 We Can Be Heroes, película dirigida por Robert Rodríguez que funciona como continuación de Las aventuras de Sharkboy y Lavagirl, tendrá una secuela en Netflix, plataforma que estrenó su primera parte el pasado 25 de diciembre. "¡Los Heroicos regresarán para un segundo asalto! ¡Estoy ya en pleno desarrollo de la secuela con Netflix!", aseguró el realizador en Twitter. Esta noticia se da luego de que, según las estimaciones proporcionadas por el gigante digital, 44 millones de cuentas de Netflix vieron We Can Be Heroes en las primeras cuatro semanas desde su lanzamiento. 

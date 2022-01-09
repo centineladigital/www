@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gobernador Javier Corral participa en reunión plenaria en Saltillo, donde se acuerda solicitar que de inmediato se convoque al Consejo Nacional de Vacunación para hacer una revisión del esquema y criterios de la aplicación de la vacuna"
-image: /uploads/2021/images-DSC_0217.jpg
-video: nil
-audio: nil
-alt: Pide Alianza Federalista no entregar vacunación contra COVID a “Siervos de la Nación”
+image: "/uploads/2021/images-DSC_0217.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pide Alianza Federalista no entregar vacunación contra COVID a “Siervos de la Nación”"
 front: false
-section: Local
+section: "Local"
+news_id: 182391
 ---
 
 El gobernador Javier Corral y sus colegas mandatarios estatales que integran la Alianza Federalista, solicitaron al Gobierno Federal que el esquema de vacunación anti COVID-19 a nivel nacional quede en manos del Sector Salud, pues son ellos quienes tienen décadas de experiencia en la materia.

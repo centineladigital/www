@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Donald Trump había sacado a Estados Unidos del acuerdo climático y era una promesa de campaña de Biden reintegrarse."
-image: /uploads/2021/images-2515499.jpg
-video: nil
-audio: nil
-alt: Biden firma decretos para que EU vuelva al Acuerdo de París
+image: "/uploads/2021/images-2515499.jpg"
+video: "nil"
+audio: "nil"
+alt: "Biden firma decretos para que EU vuelva al Acuerdo de París"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182311
 ---
 
 El presidente Joe Biden firmó los acuerdos para que Estados Unidos regrese al Acuardo de París contra el cambio climático.

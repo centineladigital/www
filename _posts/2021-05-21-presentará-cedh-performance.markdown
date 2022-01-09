@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se presentará a través de sus redes sociales."
-image: /uploads/2021/images-índice.jpg
-video: nil
-audio: /uploads/2021/audio-MV05_TANIA_SERRANO.mp3
-alt: Presentará CEDH performance para el día del estudiante
+image: "/uploads/2021/images-índice.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05_TANIA_SERRANO.mp3"
+alt: "Presentará CEDH performance para el día del estudiante"
 front: false
-section: Local
+section: "Local"
+news_id: 184593
 ---
 
 Con el fin de promover la cultura de inclusión y no discriminación de forma virtual la Comisión Estatal de los Derechos Humanos de Chihuahua lanzará el performance “Yo no discrimino”, en el que a través del arte, el personal de este organismo, promoverá entre la juventud temas de derechos humanos, principalmente la inclusión y no discriminación.

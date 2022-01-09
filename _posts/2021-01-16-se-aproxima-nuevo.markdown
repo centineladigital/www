@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La CEPC informa que este fenómeno afecta sobre todo a Ciudad Juárez, Ahumada, Janos, Cuauhtémoc, Chihuahua, Satevó y Parral; podría causar tolvaneras en los tramos carreteros Juárez-Ascensión, Sueco-Ahumada y Parral-Jiménez"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Se aproxima nuevo frente frío con ráfagas de viento de 55 km/h
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se aproxima nuevo frente frío con ráfagas de viento de 55 km/h"
 front: false
-section: Local
+section: "Local"
+news_id: 182200
 ---
 
 Para hoy sábado 16 de enero se espera la aproximación de un nuevo frente frío a la frontera norte, lo que provocará ráfagas de viento que podrían superar los 55 kilómetros por hora (km/h), informó la Coordinación Estatal de Protección Civil (CEPC).

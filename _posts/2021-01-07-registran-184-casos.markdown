@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Confirmadas 15 defunciones, esto tras la acreditación protocolaria de la muerte."
-image: /uploads/2021/images-GUMARO_BARRIO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ02_GUMARO_BARRIOS.mp3
-alt: Registran 184 casos COVID en 24 horas
+image: "/uploads/2021/images-GUMARO_BARRIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ02_GUMARO_BARRIOS.mp3"
+alt: "Registran 184 casos COVID en 24 horas"
 front: false
-section: Local
+section: "Local"
+news_id: 181949
 ---
 
 Un total de 184 nuevos casos fueron detectados en las últimas 24 horas mientras que se acreditaron 15 defunciones en ese mismo lapso, según lo dio a conocer el titular de área epidemiológica Gumaro Barrios Gallegos.

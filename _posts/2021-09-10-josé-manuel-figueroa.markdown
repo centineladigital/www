@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Farina Chaparro, ex novia de José Manuel Figueroa, aseguró que están buscando una pena de seis años contra el cantante por violencia física."
-image: /uploads/2021/images-farina-chaparro-acuso-cantante-agresion.jpg
-video: nil
-audio: nil
-alt: José Manuel Figueroa podría pasar seis años en prisión si se encuentra culpable de agredir a ex novia
+image: "/uploads/2021/images-farina-chaparro-acuso-cantante-agresion.jpg"
+video: "nil"
+audio: "nil"
+alt: "José Manuel Figueroa podría pasar seis años en prisión si se encuentra culpable de agredir a ex novia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187635
 ---
 
 La polémica entre José Manuel Figueroa y su ex novia, Farina Chaparro, no termina, ya que hay que recordar que la modelo interpuso una demanda contra el cantante debido a que supuestamente fue agredida físicamente por él. El proceso legal continúa, es por eso que la ex pareja del hijo de Joan Sebastian acudió a la fiscalía a realizarse pruebas psicológicas. En entrevista con varios medios, la cual fue retomada por Sale el Sol, Farina Chaparro quien se sometió a siete horas de pruebas psicológicas, contó ante los medios de comunicación cómo fue el proceso que pasó tras el largo tiempo que estuvo en la fiscalía. 

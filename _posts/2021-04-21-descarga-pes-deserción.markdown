@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Mentiras son por crecimiento de candidatos."
-image: /uploads/2021/images-david.jpg
-video: nil
-audio: /uploads/2021/audio-MW06_DAVID_MEDINA.mp3
-alt: Descarga PES deserción de candidato
+image: "/uploads/2021/images-david.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW06_DAVID_MEDINA.mp3"
+alt: "Descarga PES deserción de candidato"
 front: false
-section: Local
+section: "Local"
+news_id: 184033
 ---
 
 Tras las versiones de que Luis Carlos “El Capi” Arrieta, dejaría la candidatura del Partido Encuentro Solidario, el dirigente a nivel estatal de este organismo David Medina descartó que esto sea cierto, afirmando que esto es una estrategia debido a que el aspirante a gobernador ha incrementado la popularidad.

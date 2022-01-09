@@ -3,28 +3,31 @@ layout: post
 title: "¿A ti ya te cayó el 20?; la frase de Año Nuevo de Danna Paola que se volvió tendencia"
 date: 2021-01-02T16:42:00.000-06:00
 tags:
+  
   - musica
-
+  
   - actriz
-
+  
   - cantante
-
+  
 author: nil
 description: "La cantante mexicana se hizo tendencia con un simple y sencillo mensaje con el que se despidió del 2020. "
-image: /uploads/2021/images-danna-paola-responde-criticas-comparaciones.jpg
-video: nil
-audio: nil
-alt: ¿A ti ya te cayó el 20?; la frase de Año Nuevo de Danna Paola que se volvió tendencia
+image: "/uploads/2021/images-danna-paola-responde-criticas-comparaciones.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿A ti ya te cayó el 20?; la frase de Año Nuevo de Danna Paola que se volvió tendencia"
 front: false
-categories: Espectaculos
+section: "Espectáculos"
+news_id: 181814
 ---
 
-No importa lo que haga, Danna Paola siempre causa furor en redes. Hace unos días aprovechó sus días de descanso luego de un año de arduo trabajo, para hacerse un tatuaje familiar con su mamá y hermana. Ahora, su nombre se convirtió en tendencia gracias a un simple tuit. A pocas horas de que terminara el 2020, la actriz que interpretó a Lucrecia 'Lu' Montesinos en Élite, la serie de Netflix, ha demostrado, una vez más, que su existencia es suficiente para hacerse trending topic. La razón es un corto mensaje con el que terminó el año.
+No importa lo que haga, Danna Paola siempre causa furor en redes. Hace unos días aprovechó sus días de descanso luego de un año de arduo trabajo, para hacerse un tatuaje familiar con su mamá y hermana. Ahora, su nombre se convirtió en tendencia gracias a un simple tuit. A pocas horas de que terminara el 2020, la actriz que interpretó a Lucrecia 'Lu' Montesinos en Élite, la serie de Netflix, ha demostrado, una vez más, que su existencia es suficiente para hacerse trending topic. La razón es un corto mensaje con el que terminó el año. 
 
-"No me cae el 20 que ya se acabó el 2020. Danna Paola 2020", fue el tuit con el que la cantante causó revuelo. Para sus seguidores mexicanos, el mensaje es bastante claro, pues la frase 'caer el veinte' significa que alguien ha entendido algo. No obstante, sus fans de otros países como Argentina y Brasil no entendieron lo que trató de decir.
+"No me cae el 20 que ya se acabó el 2020. Danna Paola 2020", fue el tuit con el que la cantante causó revuelo. Para sus seguidores mexicanos, el mensaje es bastante claro, pues la frase 'caer el veinte' significa que alguien ha entendido algo. No obstante, sus fans de otros países como Argentina y Brasil no entendieron lo que trató de decir. 
 
-"Thank you, next": el poderoso mensaje de Danna Paola para arrancar el 2021 Sin embargo, ahí no terminó su despedida para el 2020, pues a través de su cuenta de Instagram, la mexicana compartió una fotografía en blanco y negro en la que sostiene una una copa vino o sidra. A diferencia de su publicación en Twitter, la imagen está acompañada con un largo texto en el cual expresa lo que significó para ella el caótico año. "2020. Solo me queda agradecerte... por más difícil y loco que te hayas puesto, has sido el mejor año de mi vida hasta ahora. Te viví al 100% conectada con cada una de mis emociones, re organizando mis prioridades y re conectándome con mis creencias, aceptando mi ansiedad , mis fantasmas, mis locuras, miedos, caídas, risas, insomnios y tantas horas conmigo drenando a través de mi música, en poemas, conversaciones, melodías y letras... Reconociendo cada una de mis caras, y terminar de encontrarme por fin", aseguró. "GRACIAS A CADA UNO DE USTEDES, por escuchar mi música, por acompañarme y salvar mi año, todo todo todo valió la pena. So, estoy muy feliz. WE FUCKIN DID IT. Thank you next, 2020. I’m fuckin ready 2021", finalizó.
+"Thank you, next": el poderoso mensaje de Danna Paola para arrancar el 2021 Sin embargo, ahí no terminó su despedida para el 2020, pues a través de su cuenta de Instagram, la mexicana compartió una fotografía en blanco y negro en la que sostiene una una copa vino o sidra. A diferencia de su publicación en Twitter, la imagen está acompañada con un largo texto en el cual expresa lo que significó para ella el caótico año. "2020. Solo me queda agradecerte... por más difícil y loco que te hayas puesto, has sido el mejor año de mi vida hasta ahora. Te viví al 100% conectada con cada una de mis emociones, re organizando mis prioridades y re conectándome con mis creencias, aceptando mi ansiedad , mis fantasmas, mis locuras, miedos, caídas, risas, insomnios y tantas horas conmigo drenando a través de mi música, en poemas, conversaciones, melodías y letras... Reconociendo cada una de mis caras, y terminar de encontrarme por fin", aseguró. "GRACIAS A CADA UNO DE USTEDES, por escuchar mi música, por acompañarme y salvar mi año, todo todo todo valió la pena. So, estoy muy feliz. WE FUCKIN DID IT. Thank you next, 2020. I’m fuckin ready 2021", finalizó. 
 
 2020, un año exitoso para Danna Paola Pese a la pandemia de covid-19, con canciones como "Sola", "Contigo", "No bailes sola" junto a Sebastián Yatra, tres canciones navideñas, concluir su participación en Élite y participar en la banda sonora de la película animada Más allá de la Luna, sin duda 2020 fue un gran año para la estrella de 25 años.
 
-(milenio)
+(milenio) 
+

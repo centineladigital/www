@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Britney Spears fue captada disfrutando de un día soleado en Hawái junto a su novio tras la audiencia que tuvo por su tutela. "
-image: /uploads/2021/images-britney-spears-novio-llegaron-hawai.jpg
-video: nil
-audio: nil
-alt: ¡Disfruta de la playa! Captan a Britney Spears en Hawái tras audiencia por tutela
+image: "/uploads/2021/images-britney-spears-novio-llegaron-hawai.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Disfruta de la playa! Captan a Britney Spears en Hawái tras audiencia por tutela"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185260
 ---
 
 Este 23 de junio Britney Spears estuvo presente vía virtual en una audiencia por su tutela, en ella habló sobre lo que ha vivido estos trece años en los que su papá ha tenido control no sólo de su carrera y sus finanzas, así como su salud y hasta de su vida. Tras enfrentarse a su padre en la audiencia, la cantante fue captada disfrutando del sol en Hawái. 

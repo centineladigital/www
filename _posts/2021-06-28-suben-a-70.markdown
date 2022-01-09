@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se agregaron 9 contagios y un deceso, este en el municipio de Chihuahua; se tienen 38 hospitalizados y de ellos, 7 intubados"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Suben a 70 mil 287 los casos confirmados de COVID-19 y van 7 mil 362 defunciones en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Suben a 70 mil 287 los casos confirmados de COVID-19 y van 7 mil 362 defunciones en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 185272
 ---
 
 La Secretaría de Salud dio a conocer 9 nuevos casos de COVID-19 en su último reporte epidemiológico, así como un fallecimiento en el municipio de Chihuahua.

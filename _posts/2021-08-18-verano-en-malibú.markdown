@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de Instagram, Avril Lavigne enamoró a sus seguidores posando en sus vacaciones en Malibú, California."
-image: /uploads/2021/images-avril-lavigne-presume-fotos-redes.jpg
-video: nil
-audio: nil
-alt: Verano en Malibú -  Avril Lavigne impacta en redes con sesión de fotos en traje de baño
+image: "/uploads/2021/images-avril-lavigne-presume-fotos-redes.jpg"
+video: "nil"
+audio: "nil"
+alt: "Verano en Malibú -  Avril Lavigne impacta en redes con sesión de fotos en traje de baño"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186825
 ---
 
 La cantante, diseñadora de modas y actriz Avril Lavigne encendió las redes después de subir una foto en pequeño bikini verde, posando en la playa de Malibú, California. La cantante de ya 36 años parece no haber sufrido los efectos del tiempo, y posa sin miedo para su Instagram. "Verano en Malibú", escribió junto con una serie de fotos donde presume un pequeño bikini. 

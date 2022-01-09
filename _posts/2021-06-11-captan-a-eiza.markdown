@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Eiza González fue captada por los paparazzis al lado de Paul Rabil, aseguran que es su novio. "
-image: /uploads/2021/images-eiza-gonzalez-captada-jugador-calles.jpg
-video: nil
-audio: nil
-alt: Captan a Eiza González con el jugador Paul Rabil, aseguran es su novio
+image: "/uploads/2021/images-eiza-gonzalez-captada-jugador-calles.jpg"
+video: "nil"
+audio: "nil"
+alt: "Captan a Eiza González con el jugador Paul Rabil, aseguran es su novio"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184998
 ---
 
 Eiza González es una de las mexicanas que se está abriendo paso en Hollywood, no por nada es considerada una de las estrellas más taquilleras en esa industria. Y ahora, los reflectores están sobre ella después de que fuera captada paseando junto al jugador de lacrosse, Paul Rabil, quien se rumora es su novio. 

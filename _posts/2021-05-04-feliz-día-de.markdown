@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Te decimos el orden en que ocurren las películas de Star Wars y también en el que salieron; también cómo verlas en la plataforma de streaming Disney Plus. "
-image: /uploads/2021/images-orden-ocurren-peliculas-star-wars.jpg
-video: nil
-audio: nil
-alt: ¡Feliz Día de Star Wars! En qué orden y dónde ver las películas y series de la franquicia
+image: "/uploads/2021/images-orden-ocurren-peliculas-star-wars.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Feliz Día de Star Wars! En qué orden y dónde ver las películas y series de la franquicia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184267
 ---
 
 Star Wars es una de ésas sagas que levantan pasiones dentro de sus aficionados, y es que el universo formado en torno a la franquicia tiene motivados a los fanáticos, a quienes no puede faltar su suscripción a Disney Plus, plataforma que tiene los derechos de prácticamente todos sus contenidos, en este Día de Star Wars. Sin embargo, algo que quizás muchos no saben es que no sólo pueden ver The Mandalorian y la recientemente estrenada The Bad Batch en Disney Plus, sino que hay una serie de contenidos de Star Wars que puedes disfrutar como parte de tu suscripción a la plataforma de streaming, y las puedes revirir cuantas veces puedas. 

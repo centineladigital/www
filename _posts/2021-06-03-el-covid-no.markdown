@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El ex participante de 'Exatlón México' dedicó unas emotivas palabras en honor a Steph Gómez durante la emisión del matutino de TV Azteca. "
-image: /uploads/2021/images-aristeo-cazares-reacciona-muerte-steph_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: El covid no pregunta -  Aristeo Cázares reacciona a muerte de Steph Gómez en 'Venga la Alegría'
+image: "/uploads/2021/images-aristeo-cazares-reacciona-muerte-steph_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "El covid no pregunta -  Aristeo Cázares reacciona a muerte de Steph Gómez en 'Venga la Alegría'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184827
 ---
 
 El fallecimiento de Steph Gómez conmocionó al mundo del deporte y la televisión. Amigos, compañeros y conductores han compartido en los últimos días anécdotas que vivieron junto a la atleta, quien destacó por su desempeño en el Jiu-jitsu brasileño y su participación en Exatlón México. Al igual que Mati Álvarez y Casandra Ascencio, Aristeo Cázares recordó a la deportista en Venga la Alegría. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Boris Johnson, primer ministro del Reino Unido, advirtió que la variante del coronavirus detectada en el país podría ser más mortal que la que originó la actual pandemia."
-image: /uploads/2021/images-2516596.jpg
-video: nil
-audio: nil
-alt: Variante británica del covid sería más mortal que original -  Boris Johnson
+image: "/uploads/2021/images-2516596.jpg"
+video: "nil"
+audio: "nil"
+alt: "Variante británica del covid sería más mortal que original -  Boris Johnson"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182367
 ---
 
 La variante británica del coronavirus, considerada mucho más contagiosa que las anteriores, también puede estar asociada a una mayor mortalidad, advirtió el viernes el primer ministro Boris Johnson, basándose en datos iniciales aún por precisar. 

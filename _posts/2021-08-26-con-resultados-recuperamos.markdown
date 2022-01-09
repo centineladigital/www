@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Con acciones como éstas, mejoramos la percepción ciudadana hacia la Policía Municipal a un 65.7% en la medición del índice de confianza"
-image: /uploads/2021/images-unnamed_(3).jpg
-video: nil
-audio: nil
-alt: Con resultados, recuperamos a un 65.7% la confianza de la ciudadanía en la Policía Municipal   
+image: "/uploads/2021/images-unnamed_(3).jpg"
+video: "nil"
+audio: "nil"
+alt: "Con resultados, recuperamos a un 65.7% la confianza de la ciudadanía en la Policía Municipal   "
 front: false
-section: Local
+section: "Local"
+news_id: 187148
 ---
 
 Con el firme compromiso de garantizar la seguridad de las familias chihuahuenses, hemos fortalecido el equipo y las herramientas de inteligencia policial para el combate a la delincuencia, logrando en este tercer año de gobierno importantes resultados, entre los que destacan la recuperación de más de 145 vehículos robados; aseguramiento de más de 2 mil porciones de diversas drogas y 630 armas de fuego, tanto en la zona urbana como rural.

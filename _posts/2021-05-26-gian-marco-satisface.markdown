@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante estrena mañana su disco “Mandarina”, el cual realizó durante el aislamiento en compañía de sus amigos."
-image: /uploads/2021/images-manana-estrena-su-nueva-produccion.jpeg
-video: nil
-audio: nil
-alt: Gian Marco satisface su necesidad creativa sin prejuicios en su nuevo disco Mandarina
+image: "/uploads/2021/images-manana-estrena-su-nueva-produccion.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Gian Marco satisface su necesidad creativa sin prejuicios en su nuevo disco Mandarina"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184661
 ---
 
 Impulsado por la convicción de que la carrera del artista es interminable y que permanece en constante desarrollo, Gian Marco creó “Mandarina”, su decimosexto álbum, una compilación musical que proyecta la reflexión que vive como efecto de la pandemia. “Uno cuando empieza esta carrera nunca se va a imaginar que va a grabar tantos discos. Eso es lo primero que pienso cuando digo: ‘Mi álbum número 16’. 16 discos, 16 proyectos, 16 momentos en los que está la intriga y el nervio de saber qué es lo que va a pensar la gente, un montón de preguntas, pero el cuestionamiento ahora es: ¿cuándo lo voy a presentar en vivo?”, dijo en entrevista con M2. 

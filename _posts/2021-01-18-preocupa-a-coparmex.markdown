@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señaló que uno de los indicadores que ha presentado un incremento es el de la violencia intrafamiliar "
-image: /uploads/2021/images-Xk5fcwbhLUp8.jpg
-video: nil
-audio: /uploads/2021/audio-AL05_IGNACIO_MANJARREZ.mp3
-alt: Preocupa a Coparmex incremento del 90% en cifra negra de delitos
+image: "/uploads/2021/images-Xk5fcwbhLUp8.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AL05_IGNACIO_MANJARREZ.mp3"
+alt: "Preocupa a Coparmex incremento del 90% en cifra negra de delitos"
 front: false
-section: Local
+section: "Local"
+news_id: 182235
 ---
 
 El presidente de la Comisión de Seguridad y Justicia de Coparmex nacional, Ignacio Manjarrez Ayub, expresó que existe una grave preocupación en el sector productivo ya que en el país se padece una cifra negra de incidencia delictiva del 90%.

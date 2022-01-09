@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Esto es lo que sabemos del primer paciente con la variante ómicron en EU"
+date: 2021-12-02T15:56:00.000-06:00
+tags:
+  
+  - Omicron
+  
+  - Variante
+  
+  - EUA
+  
+author: nil
+description: "Se trata de una persona que regresó a California luego de viajar a Sudáfrica. Esto es lo que se sabe acerca de sus síntomas..."
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Esto es lo que sabemos del primer paciente con la variante ómicron en EU"
+front: false
+section: "Internacional"
+news_id: 190414
+---
+
+Estados Unidos detectó hoy su primer caso de la variante ómicron del coronavirus: se trata de una persona que regresó a California luego de viajar a Sudáfrica. Esto es lo que se sabe:
+
+-El paciente llegó al Aeropuerto Internacional de San Francisco el 22 de noviembre, según los datos de los Centros para el Control y Prevención de Enfermedades (CDC).
+
+-Pocos días después, comenzó a sentirse mal y se hizo una prueba. El lunes pasado recibió el resultado, positivo. 
+
+-El centro médico de la Universidad de California en San Francisco (UCSF) realizó la secuencia genómica del virus y hoy se reveló que se trata de la nueva variante, ómicron, que fue detectada primero en Sudáfrica y Zumbabue.
+
+-Por cuestión de privacidad, no se reveló la identidad del paciente. El gobernador de California, Gavin Newsom, dijo que se trata de una persona de entre 18 y 49 años de edad.
+
+-El paciente tiene su esquema de vacunación completo con Moderna, aunque no se ha puesto aún el refuerzo, y los síntomas que ha presentado son leves, por lo que no requirió hospitalización.
+
+-Hasta ahora, ninguno de sus contactos cercanos ha dado positivo al virus, aunque las autoridades siguen haciendo pruebas de Covid-19.
+
+-Las autoridades de San Francisco no prevén implementar nuevas restricciones sanitarias por ahora, aunque la detección de este caso podría retrasar el relajamiento de las medidas actuales, que incluyen uso de cubrebocas en la mayoría de los espacios cerrados y prueba de vacunación para poder entrar a restaurantes y bares.
+
+(El Universal) 

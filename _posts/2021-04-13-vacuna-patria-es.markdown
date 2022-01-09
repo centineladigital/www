@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Destaca que la vacuna mexicana contra Covid-19 se prevé sea económica y efectiva; ya inicia la búsqueda de 100 voluntarios para iniciar ensayos de Fase 1"
-image: /uploads/2021/images-2561311.jpg
-video: nil
-audio: nil
-alt: Vacuna ‘Patria’ es para México y el mundo -  López Obrador
+image: "/uploads/2021/images-2561311.jpg"
+video: "nil"
+audio: "nil"
+alt: "Vacuna ‘Patria’ es para México y el mundo -  López Obrador"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183840
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que la vacuna mexicana contra Covid-19 llamada “Patria” será para nuestro país y para todo el mundo, pues se compartirá a otras naciones.

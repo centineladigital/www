@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Una competencia que México está obligado a ganar porque no deja de ser la liga más avanzada en esta parte del mundo futbolístico. "
-image: /uploads/2021/images-copa-oro-torneo-sabor-mexicano.jpg
-video: nil
-audio: nil
-alt: La Copa Oro, un torneo con sabor mexicano
+image: "/uploads/2021/images-copa-oro-torneo-sabor-mexicano.jpg"
+video: "nil"
+audio: "nil"
+alt: "La Copa Oro, un torneo con sabor mexicano"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185525
 ---
 
 Este sábado inicia la Copa Oro, el torneo de selecciones de la Concacaf que siempre levanta comentarios para bien y para mal, por el nivel futbolístico que existe en la zona y que siempre deja a los mismos equipos en la terna de candidatos. 

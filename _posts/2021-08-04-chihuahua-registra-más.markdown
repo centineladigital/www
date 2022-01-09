@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En Chihuahua, 88 mil 749 personas manifestaron su opinión a favor del Sí en la consulta popular; 8 mil 740 ciudadanos participaron como funcionarios de las mesas receptoras"
-image: /uploads/2021/images-chihuahua-registra-mil-votos-consulta_0_27_1200_746.jpg
-video: nil
-audio: nil
-alt: Chihuahua registra más de 90 mil votos en la consulta popular
+image: "/uploads/2021/images-chihuahua-registra-mil-votos-consulta_0_27_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chihuahua registra más de 90 mil votos en la consulta popular"
 front: false
-section: Local
+section: "Local"
+news_id: 186272
 ---
 
 Luego de finalizar el conteo de la consulta popular que se realizó el pasado domingo en Chihuahua, el Instituto Nacional Electoral (INE) informó que en esta jornada participaron más de 90 mil personas en los nueve distritos electorales de la entidad. 

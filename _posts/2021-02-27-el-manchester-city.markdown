@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Del 15 de diciembre a la fecha, los “citizens” acumulan triunfos en todas las competiciones. Este día derrotaron 2-1 al West Ham"
-image: /uploads/2021/images-2536609.jpg
-video: nil
-audio: nil
-alt: El Manchester City encadena 20 victorias
+image: "/uploads/2021/images-2536609.jpg"
+video: "nil"
+audio: "nil"
+alt: "El Manchester City encadena 20 victorias"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183191
 ---
 
 El Manchester City venció por 2-1 a la revelación West Ham en el primer partido de la fecha 26 de la Premier League inglesa que lidera con mano de hierro y firmó su victoria 20 al hilo contando todas las competiciones, su 14ª en el campeonato inglés.

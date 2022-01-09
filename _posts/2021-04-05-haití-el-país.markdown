@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Más de un año después del inicio de la pandemia, Haití no tiene una sola vacuna para ofrecer a sus más de 11 millones de habitantes, mientras se agudiza la violencia y la inestabilidad política"
-image: /uploads/2021/images-2557253.jpg
-video: nil
-audio: nil
-alt: Haití, el país que afronta la pandemia sin vacunas covid
+image: "/uploads/2021/images-2557253.jpg"
+video: "nil"
+audio: "nil"
+alt: "Haití, el país que afronta la pandemia sin vacunas covid"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183676
 ---
 
 haití no tiene una sola vacuna para ofrecer a sus más de 11 millones de habitantes más de un año después de que comenzara la pandemia, lo que genera preocupación entre los expertos en salud de que el bienestar de los haitianos se está dejando de lado a medida que se profundiza la violencia y la inestabilidad política en todo el país.

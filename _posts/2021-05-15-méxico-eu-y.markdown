@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Estados Unidos solicitó esta semana a México que investigue presuntos abusos en una fábrica de General Motors"
-image: /uploads/2021/images-2578947.jpg
-video: nil
-audio: nil
-alt: México, EU y Canadá tendrán conversaciones formales sobre T-MEC
+image: "/uploads/2021/images-2578947.jpg"
+video: "nil"
+audio: "nil"
+alt: "México, EU y Canadá tendrán conversaciones formales sobre T-MEC"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184475
 ---
 
 Estados Unidos, México y Canadá sostendrán la próxima semana sus primeras conversaciones formales sobre su reciente pacto comercial, con un enfoque particular en las obligaciones laborales y ambientales, dijo el viernes 14 de mayo Washington.

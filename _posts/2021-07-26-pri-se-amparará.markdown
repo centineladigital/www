@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Abogados trabajan en presentar queja de asignación de regidores."
-image: /uploads/2021/images-ALEJANDRO.jpg
-video: /uploads/2021/videos-ML03_ALEJANDRO_DOMINGUEZ.mp4
-audio: nil
-alt: PRI se amparará por sobre-representación de MORENA
+image: "/uploads/2021/images-ALEJANDRO.jpg"
+video: "/uploads/2021/videos-ML03_ALEJANDRO_DOMINGUEZ.mp4"
+audio: "nil"
+alt: "PRI se amparará por sobre-representación de MORENA"
 front: false
-section: Local
+section: "Local"
+news_id: 185998
 ---
 
 Un amparo es lo que busca el PRI llevar a cabo en materia de asignación de regidores, afirmó el dirigente del PRI a nivel Estatal Alejandro Domínguez Domínguez. Esto tras ser cuestionado respecto de que a la la coalición “Juntos Haremos Historia en Chihuahua”, se les otorgaron siete de nueve regidores que son electos con la representación proporcional.

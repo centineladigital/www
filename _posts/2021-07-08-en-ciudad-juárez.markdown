@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el cruce fronterizo entre Ciudad Juárez y El Paso se aplicarán, a partir de hoy, hasta 50 mil vacunas contra covid-19, informó el consulado general de México en dicha ciudad al sur de Texas. "
-image: /uploads/2021/images-vacunas_covid.jpg
-video: nil
-audio: nil
-alt: En Ciudad Juárez, aplicarán 50 mil vacunas anticovid donadas por Texas
+image: "/uploads/2021/images-vacunas_covid.jpg"
+video: "nil"
+audio: "nil"
+alt: "En Ciudad Juárez, aplicarán 50 mil vacunas anticovid donadas por Texas"
 front: false
-section: Local
+section: "Local"
+news_id: 185450
 ---
 
 El programa piloto de vacunación transfronterizo, como se le ha llamado a la campaña, está dirigido principalmente a los trabajadores de la industria maquiladora y se realizará hasta fin de mes en un espacio neutral en el Puente Fronterizo Marcelino Serna (Tornillo).

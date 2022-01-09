@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto desde el 2016 hasta el 2021."
-image: /uploads/2021/images-SERGIO.jpg
-video: nil
-audio: /uploads/2021/audio-ML05_SERGIO_RUIZ.mp3
-alt: Sanciona FP a funcionarios por 623 mdp
+image: "/uploads/2021/images-SERGIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML05_SERGIO_RUIZ.mp3"
+alt: "Sanciona FP a funcionarios por 623 mdp"
 front: false
-section: Local
+section: "Local"
+news_id: 185149
 ---
 
 Un total de 623 millones de pesos es lo que la Secretaría de la Función Pública ha aplicado en materia de sanciones económicas a funcionarios, según fue dado a conocer por parte del Subsecretario de Asuntos Jurídicos, Sergio Alejandro Ruiz. 

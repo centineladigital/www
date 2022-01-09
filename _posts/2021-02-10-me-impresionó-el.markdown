@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El técnico del Bayern Múnich destaca el juego intenso y de calidad que tuvo el cuadro mexicano en la semifinal del Mundial de Clubes. Un grupo especial del cuadro bávaro ya analizó a los felinos"
-image: /uploads/2021/images-2526962.jpg
-video: nil
-audio: nil
-alt: Me impresionó el juego de Tigres, admite Flick
+image: "/uploads/2021/images-2526962.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me impresionó el juego de Tigres, admite Flick"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182826
 ---
 
 Hansi Flick, técnico del Bayern Múnich, quedó impresionado del futbol que desplegó Tigres ante Palmeiras en las semifinales del Mundial de Clubes y auguró un duro encuentro contra el cuadro mexicano en la final del torneo.

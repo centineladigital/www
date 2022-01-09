@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Juan Osorio dio reveló que su hijo Emilio Osorio podría trabajar pronto con el productor musical Emilio Estefan. "
-image: /uploads/2021/images-juan-osorio-adelanto-hijo-ira_26_0_1045_650.jpg
-video: nil
-audio: nil
-alt: ¡Va en grande! Emilio Osorio está en pláticas con Emilio Estefan para que sea su mánager
+image: "/uploads/2021/images-juan-osorio-adelanto-hijo-ira_26_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Va en grande! Emilio Osorio está en pláticas con Emilio Estefan para que sea su mánager"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185322
 ---
 
 Emilio Osorio, hijo de Niurka y Juan Osorio, desde muy pequeño ha participado en las producciones de su papá y a pesar de que comenzó su carrera como actor, también se sabe que busca abrirse paso en el mundo de la música, es por eso que dentro de poco se irá a Inglaterra a estudiar. 

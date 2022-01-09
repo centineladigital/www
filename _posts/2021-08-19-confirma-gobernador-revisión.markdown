@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Estado esperar una resolución favorable para Chihuahua."
-image: /uploads/2021/images-CORRAL.jpg
-video: /uploads/2021/videos-MJ03_JAVIER_CORRAL.mp4
-audio: nil
-alt: Confirma Gobernador revisión de amparo de Alejandro Gutiérrez
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "/uploads/2021/videos-MJ03_JAVIER_CORRAL.mp4"
+audio: "nil"
+alt: "Confirma Gobernador revisión de amparo de Alejandro Gutiérrez"
 front: false
-section: Local
+section: "Local"
+news_id: 186905
 ---
 
 El amparo de Alejandro Gutiérrez Gutiérrez se reagendó para el 25 de agosto, según lo dio a conocer el Gobernador de Chihuahua, Javier Corral Jurado. Esto luego de que la Primera Sala de la Suprema Corte de Justicia de la Nación determinara.

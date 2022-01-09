@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gaby está agradecida con la formación que tuvo en el equipo mexicano de tiro con arco, al que dedica su presea olímpica"
-image: /uploads/2021/images-gabriela-schloesse-afp_0_1_1200_746.jpg
-video: nil
-audio: nil
-alt: “Mi medalla es parte de México -  Gabriela Bayardo sobre su plata en Tokio 2020
+image: "/uploads/2021/images-gabriela-schloesse-afp_0_1_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Mi medalla es parte de México -  Gabriela Bayardo sobre su plata en Tokio 2020"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186053
 ---
 
 El tiro con arco femenil de Países Bajos no tenía presencia en Juegos Olímpicos desde Atlanta 1996; ahora, con Gabriela Schloesser –atleta nacida en Tijuana, México– este deporte culminó con su ausencia olímpica; además, Gaby le dio a ese país la primera medalla olímpica en la disciplina. 

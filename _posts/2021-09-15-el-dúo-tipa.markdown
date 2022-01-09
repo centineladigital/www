@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El dueto integrado por Adele Fournet y Felipe Wurst, que está presentando su tema “Morir bailando”, destaca que no desea la popularidad efímera, sino hacer historia."
-image: /uploads/2021/images-duo-peruano-luchar-banalidad-contemporanea_0_101_1200_747.jpeg
-video: nil
-audio: nil
-alt: El dúo Tipa Tipo busca conectar su pasión por la música al ritmo de soft rock pop e indie folk
+image: "/uploads/2021/images-duo-peruano-luchar-banalidad-contemporanea_0_101_1200_747.jpeg"
+video: "nil"
+audio: "nil"
+alt: "El dúo Tipa Tipo busca conectar su pasión por la música al ritmo de soft rock pop e indie folk"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187750
 ---
 
 El dúo Tipa Tipo es una mezcla de fusiones y sabores musicales que se entremezclan con el retro pop y mantiene una esencia de soft rock de los años 70, además se distinguen por tener un estilo muy único con producción análoga moderna; así que para todos aquellos que escuchen su música encontrarán algo distinto y muy adictivo. El dueto peruano es conformado por la pareja: Adele Fournet, quien está a cargo de las voces, teclados, la producción musical; y por Felipe Wurst, quien también está en las voces y producción, pero le agrega su guitarra; y ambos toman de inspiración de artistas del indie pop como Buscabulla, Vanessa Zamora, Tennis; aunque en su música también influyen bandas de soft rock como Hall & Oates, Supertramp y Fleetwood Mac. 

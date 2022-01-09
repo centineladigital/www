@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Enrique Iglesias se ha abierto paso en la música, aunque en un principio tuvo una pele con su padre Julio Iglesias por querer ser cantante. Esto fue lo que pasó. "
-image: /uploads/2021/images-julio-iglesias-discutio-hijo-entero_45_0_1045_650.jpg
-video: nil
-audio: nil
-alt: ¡Se dejaron de hablar! Así ha sido la difícil relación entre Enrique Iglesias y su papá, Julio Iglesias
+image: "/uploads/2021/images-julio-iglesias-discutio-hijo-entero_45_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Se dejaron de hablar! Así ha sido la difícil relación entre Enrique Iglesias y su papá, Julio Iglesias"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184359
 ---
 
 Enrique Iglesias es un cantante, que muchos aseguran ya sobre pasó el éxito que en su momento obtuvo su padre, Julio Iglesias, quien destacó primero en su país natal, España, y después conquistó con su voz países como México en donde alcanzó los primeros lugares en las listas de popularidad con sus canciones. Tiempo después, su hijo Enrique siguió sus pasos. Fue en la década de los 90 cuando Enrique Iglesias incursionó en la música con temas como “Experiencia religiosa”, poco a poco comenzó a consolidar su carrera musical y hoy su música se escucha incluso en países que no hablan español. Sin embargo, Enrique tuvo que ocultar sus intenciones de lanzarse al estrellato de su papá, Julio Iglesias. 

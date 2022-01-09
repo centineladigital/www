@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Es indicador de que vamos por buen camino y de que la ciudadanía ha hecho un gran trabajo al acatar las medidas instruidas por el Gobierno del Estado, señala el titular de la Secretaría de Salud, Eduardo Fernández Herrera"
-image: /uploads/2021/images-PASE_A_SEMÁFORO_AMARILLO_(2).jpeg
-video: nil
-audio: nil
-alt: Avanza todo el estado a Semáforo Amarillo el lunes 1° de marzo
+image: "/uploads/2021/images-PASE_A_SEMÁFORO_AMARILLO_(2).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Avanza todo el estado a Semáforo Amarillo el lunes 1° de marzo"
 front: false
-section: Local
+section: "Local"
+news_id: 183198
 ---
 
 Los indicadores con los que se mide el semáforo epidemiológico tuvieron buenos resultados por lo que las dos regiones en que se divide el estado quedan en color amarillo a partir del lunes 1 de marzo, con la apertura de nuevas actividades económicas, informó el secretario de Salud, Eduardo Fernández Herrera.

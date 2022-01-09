@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa la Secretaría de Salud de Chihuahua que la inmunización para el personal en primera línea de batalla, se llevará lleva a cabo en los 30 hospitales de la Red IRAG"
-image: /uploads/2021/images-2A_VACUNACIÓN_COVID_PERSONAL_SALUD_EN_JZ_(5).jpeg
-video: nil
-audio: nil
-alt: Reciben segunda vacuna contra COVID Heroínas y Héroes  de la Salud en todo el estado
+image: "/uploads/2021/images-2A_VACUNACIÓN_COVID_PERSONAL_SALUD_EN_JZ_(5).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Reciben segunda vacuna contra COVID Heroínas y Héroes  de la Salud en todo el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 183020
 ---
 
 La Secretaría de Salud de Chihuahua inició en todo el estado la aplicación de la segunda dosis de la vacuna contra COVID-19 a las Heroínas y Héroes de la Salud que enfrenta la pandemia, informó Wendy Ávila Coronado, subdirectora de Medicina Preventiva y Promoción de la Salud.

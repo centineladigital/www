@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Invitan a acudir a embarazadas a revisión."
-image: /uploads/2021/images-WENDY1.jpg
-video: nil
-audio: /uploads/2021/audio-MJ04_WENDY_AVILA.mp3
-alt: Exhortan a embarazadas a realizarse examen periódicamente
+image: "/uploads/2021/images-WENDY1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ04_WENDY_AVILA.mp3"
+alt: "Exhortan a embarazadas a realizarse examen periódicamente"
 front: false
-section: Local
+section: "Local"
+news_id: 182880
 ---
 
 Con el fin de llevar un control este jueves se exhortó a las mujeres que se encuentren en estado de gestación a no deja de ir al médico, esto ya que pese a que se está en pandemia se tiene que dar el seguimiento permanente.

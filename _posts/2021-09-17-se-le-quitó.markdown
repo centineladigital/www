@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Marc Anthony contó que durante su niñez era tartamudo, pero que gracias a la música logró superar este problema. "
-image: /uploads/2021/images-marc-anthony-recordo-nino-costaba.jpg
-video: nil
-audio: nil
-alt: ¡Se le quitó cantando! El día que Marc Anthony reveló que era tartamudo
+image: "/uploads/2021/images-marc-anthony-recordo-nino-costaba.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Se le quitó cantando! El día que Marc Anthony reveló que era tartamudo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187812
 ---
 
 Marc Anthony es considerado uno de los mejores exponentes del género salsa, no cabe duda que es un gran cantante y que ha logrado consolidar su carrera con temas como “Ahora Quien”, y sobre todo hay que mencionar que el español no es su idioma materno, sin embargo, lo aprendió y ahora lo habla con gran fluidez, pero hubo unos años en los que el ex esposo de JLo se enfrentó a otro problema: era tartamudo. 

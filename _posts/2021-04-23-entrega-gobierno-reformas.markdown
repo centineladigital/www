@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Buscan dar más libertades a organismos para defensa de mujeres."
-image: /uploads/2021/images-fernando.jpg
-video: nil
-audio: /uploads/2021/audio-MV04_FERNANDO_MESTA.mp3
-alt: Entrega Gobierno reformas para beneficio de género
+image: "/uploads/2021/images-fernando.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV04_FERNANDO_MESTA.mp3"
+alt: "Entrega Gobierno reformas para beneficio de género"
 front: false
-section: Local
+section: "Local"
+news_id: 184079
 ---
 
 Este viernes fue firmado y entregado un paquete de reformas sobre los derechos de las mujeres, esto presentando un conjunto de iniciativas para reformar tres leyes y crear una nueva, dentro del evento el Secretario General de Gobierno, Fernando Mesta Soulé, detalló la importancia d que en Chihuahua se logre alcanzar la igualdad sustantiva y una vida libre de violencia y de discriminación para la mujer.

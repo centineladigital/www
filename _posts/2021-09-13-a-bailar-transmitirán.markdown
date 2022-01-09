@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La plataforma de video revivirá el último show musical que realizó 'La Reina del Tex- Mex'; aquí te contamos todos los detalles. "
-image: /uploads/2021/images-selena-quintanilla-instagram_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¡A bailar! Transmitirán último concierto de Selena Quintanilla en TikTok; así lo puedes ver
+image: "/uploads/2021/images-selena-quintanilla-instagram_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡A bailar! Transmitirán último concierto de Selena Quintanilla en TikTok; así lo puedes ver"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187694
 ---
 
 Selena Quintanilla se consolidó como una de las mejores artistas latinas de todos los tiempos con tan sólo 22 años tras ganar el Grammy, un año antes de su trágica muerte. Pero La Reina del Tex Mex no sólo dejó un legado en la escena musical, también se convirtió en una referente de la moda y un símbolo de la cultura latina. A tal punto que la cantante continúa conquistando las nuevas generaciones.  

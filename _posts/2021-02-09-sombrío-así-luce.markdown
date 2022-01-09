@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Zack Snyder mostró nuevas imágenes de Jared Leto como Joker para su versión de la La liga de la justicia, que se estrenará el próximo 18 de marzo. "
-image: /uploads/2021/images-jared-leto-joker-aspecto-vanity.jpg
-video: nil
-audio: nil
-alt: ¡Sombrío! Así luce el Joker de Jared Leto en 'La liga de la justicia' de Zack Snyder
+image: "/uploads/2021/images-jared-leto-joker-aspecto-vanity.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Sombrío! Así luce el Joker de Jared Leto en 'La liga de la justicia' de Zack Snyder"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182805
 ---
 
 Hace unos días, el cineasta Zack Snyder reveló la primera imagen de Jared Leto como el Joker. El personaje aparecerá en una nueva versión extendida de La liga de la justicia, que saldrá en exclusiva por HBO Max y cuyo estreno está previsto para el próximo mes de marzo. 

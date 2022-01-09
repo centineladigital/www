@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue durante esta semana cuando Ninel Conde reapareció en el programa Hoy de Televisa. Ahora los usuarios de las redes sociales la señalan por supuestamente abusar del botox, incluso la relacionaron con los reptilianos. "
-image: /uploads/2021/images-critican-rostro-ninel-conde-rostro.jpg
-video: nil
-audio: nil
-alt: ¿Es culpa del botox? Redes critican a Ninel Conde por aparecer con cambio en rostro; crean memes
+image: "/uploads/2021/images-critican-rostro-ninel-conde-rostro.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Es culpa del botox? Redes critican a Ninel Conde por aparecer con cambio en rostro; crean memes"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185087
 ---
 
 Ninel Conde, cantante y actriz mexicana, causó revuelo en redes sociales luego de reaparecer hace unos días en el programa Hoy de Televisa. ¿Por qué generó controversia? Resulta que el Bombón Asesino recién se volvió tendencia en redes sociales por su rostro. ¿Se operó? ¿Se puso botox? De acuerdo con los internautas, la famosa apareció con un rostro completamente distinto al natural, por lo que lanzaron críticas en su contra y hasta hicieron memes sobre su relación con los 'reptilianos'. 

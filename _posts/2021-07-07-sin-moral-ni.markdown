@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante una conferencia en el Festival de Cannes, el presidente del jurado también criticó la brutalidad contra los afroamericanos en Estados Unidos."
-image: /uploads/2021/images-es-el-presidente-del-jurado.jpg
-video: nil
-audio: nil
-alt: Sin moral ni escrúpulos -  Spike Lee arremete contra Trump, Bolsonaro y Putin
+image: "/uploads/2021/images-es-el-presidente-del-jurado.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sin moral ni escrúpulos -  Spike Lee arremete contra Trump, Bolsonaro y Putin"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185422
 ---
 
 En la rueda de prensa previa a la apertura del Festival de Cannes, el director estadunidense Spike Lee, presidente del jurado en el evento cinematográfico, señaló que el "mundo está gobernado por gánsters", en alusión a Donald Trump, Jair Bolsonaro y Vladimir Putin. "Este mundo está gobernado por gánsters. El agente naranja (en alusión a Trump), ese tipo en Brasil (Bolsonaro) y Putin son gánsters. Sin moral ni escrúpulos. Es el mundo en el que vivimos", declaró el director estadunidense, asegurando que el jurado de Cannes no sólo debe "criticar las películas, sino al mundo y los gánsters".

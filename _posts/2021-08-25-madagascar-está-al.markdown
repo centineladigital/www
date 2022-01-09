@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los niveles de crisis alimentaria, producida principalmente por las sequías, han afectado a familias que han tenido que comer insectos y hojas de cactus"
-image: /uploads/2021/images-la-sequia-esta-afectando-a_0_26_1200_747.jpg
-video: nil
-audio: nil
-alt: Madagascar está al borde de la hambruna por el cambio climático, reporta la ONU
+image: "/uploads/2021/images-la-sequia-esta-afectando-a_0_26_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Madagascar está al borde de la hambruna por el cambio climático, reporta la ONU"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187079
 ---
 
 Madagascar está a un paso de ser la primera "hambruna del cambio climático" en todo el planeta, donde la falta de comida se está dando en niveles "catastróficos" en sus habitantes, afirma un informe de la Organización de las Naciones Unidas (ONU), el cual alerta sobre la inseguridad alimentaria tras cuatro años sin reportar lluvias en el país africano. 

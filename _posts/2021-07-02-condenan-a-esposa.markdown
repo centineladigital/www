@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La ahora sentenciada, esposa de un exdirectivo, participó como intermediaria para triangular el recurso desviado de la ASE"
-image: /uploads/2021/images-ASE.jfif
-video: nil
-audio: nil
-alt: Condenan a esposa de ex funcionario de la ASE
+image: "/uploads/2021/images-ASE.jfif"
+video: "nil"
+audio: "nil"
+alt: "Condenan a esposa de ex funcionario de la ASE"
 front: false
-section: Local
+section: "Local"
+news_id: 185349
 ---
 
 Esta semana el área penal de la Auditoría Superior del Estado (ASE) en coordinación con el Ministerio Público de la Fiscalía General de Chihuahua lograron una sentencia condenatoria en contra de Maricruz L.O., quien fuera parte de la red de corrupción implementada en la ASE entre los años 2015 y 2016, por un grupo de directivos que desviaron para lo menos 5 millones de pesos mediante la simulación de cursos y servicios varios.

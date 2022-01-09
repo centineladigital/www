@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Anette Michel recordó su relación amorosa con Israel Jaitovich y explicó la razón por la que su noviazgo terminó. "
-image: /uploads/2021/images-anette-michel-nego-enganado-comediante.jpg
-video: nil
-audio: nil
-alt: No le puse el cuerno -  Anette Michel recuerda su noviazgo con Israel Jaitovich
+image: "/uploads/2021/images-anette-michel-nego-enganado-comediante.jpg"
+video: "nil"
+audio: "nil"
+alt: "No le puse el cuerno -  Anette Michel recuerda su noviazgo con Israel Jaitovich"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182382
 ---
 
 La conductora de MasterChef México, Anette Michel, es una las mujeres más guapas, es por eso que se le han conocido varias relaciones, entre ellas el noviazgo que mantuvo con Israel Jaitovich. La actriz y el comediante estuvieron juntos cuando la carrera de Anette Michel apenas comenzaba, sin embargo, muchos aseguran que Anette engañó al conductor. En una entrevista con la periodista Mara Patricia Castañeda, Anette Michel recordó su noviazgo con Israel Jaitovich y mencionó que cuando dejó Guadalajara y se fue a la Ciudad de México vivió con el comediante. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El ex candidato presidencial publicó un video en el que aseguró que es parte de una persecución política, para excluirlo de la carrera por la Presidencia en 2024"
-image: /uploads/2021/images-anaya-acuso-amlo-busca-meterlo.jpeg
-video: nil
-audio: nil
-alt: Estaré fuera una temporada; Ricardo Anaya acusa que AMLO busca meterlo a la cárcel
+image: "/uploads/2021/images-anaya-acuso-amlo-busca-meterlo.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Estaré fuera una temporada; Ricardo Anaya acusa que AMLO busca meterlo a la cárcel"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186975
 ---
 
 Ricardo Anaya, ex candidato presidencial y ex dirigente nacional del PAN, acusó que el presidente Andrés Manuel López Obrador busca  meterlo a la cárcel, por "el testimonio de dos testigos balines" del caso de Emilio Lozoya. 

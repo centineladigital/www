@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Analizarán información para trabajar en materia de seguridad."
-image: /uploads/2021/images-SERGIO.jpg
-video: nil
-audio: /uploads/2021/audio-MV05_SERGIO_OCHOA.mp3
-alt: Se reúne equipo de transición con SSPE
+image: "/uploads/2021/images-SERGIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05_SERGIO_OCHOA.mp3"
+alt: "Se reúne equipo de transición con SSPE"
 front: false
-section: Local
+section: "Local"
+news_id: 185357
 ---
 
 Este viernes los integrantes de la mesa de transición para la Secretaría de Seguridad Pública sostuvieron este viernes la primer reunión en relación a la transición según lo dio a conocer por parte de Sergio Ochoa, presidente de FICOSEG.

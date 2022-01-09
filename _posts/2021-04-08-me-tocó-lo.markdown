@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz y modelo relató cómo conoció a Luis Miguel, su primera cita y sus vacaciones en Acapulco. "
-image: /uploads/2021/images-alicia-machado-revela-detalles-romance_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Me tocó lo mejor -  Alicia Machado revela detalles de su romance con Luis Miguel
+image: "/uploads/2021/images-alicia-machado-revela-detalles-romance_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me tocó lo mejor -  Alicia Machado revela detalles de su romance con Luis Miguel"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183757
 ---
 
 Alicia Machado se sinceró con la prensa y habló de cómo fue su romance con Luis Miguel, a quien conoció a finales de la década de 1990, época en la que se coronó como Miss Universo. La modelo reveló detalles de su mediática relación amorosa con el cantante e, incluso, señaló que le "tocó lo mejor", más que a Aracely Arámbula. En una entrevista con TVyNovelas, Alicia Machado relató que fue el mismo Luis Miguel quien acudió a una sesión de fotografía, que ella estaba realizando tras su participación en Miss Universo 1996, con el único objetivo de conocerla.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El combinado dirigido por Roberto Mancini sucedió al equipo campeón de 1968 que ganó la Eurocopa tras superar en la final 2-0 a Yugoslavia. 53 años después, Italia se proclamó campeona. "
-image: /uploads/2021/images-italia-campeon-eurocopa-172015.jpg
-video: nil
-audio: nil
-alt: Italia, campeón de la Eurocopa tras vencer a Inglaterra en penales
+image: "/uploads/2021/images-italia-campeon-eurocopa-172015.jpg"
+video: "nil"
+audio: "nil"
+alt: "Italia, campeón de la Eurocopa tras vencer a Inglaterra en penales"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185548
 ---
 
 Italia ganó su segunda Eurocopa tras derrotar a Inglaterra en los penaltis (1-1 al final del partido) con los fallos de Saka, Jadon Sancho y Marcus Rashford desde los once pasos. 

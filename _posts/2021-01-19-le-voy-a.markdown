@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Conozco a Paquita desde que vivía en Chile, había oído su música y me gustaba mucho, le dijo la interprete de Antes de ti al programa 'Ventaneando'."
-image: /uploads/2021/images-chilena-admiradora-cantante-rata-patas.jpg
-video: nil
-audio: nil
-alt: Le voy a mandar mi disco -  Mon Laferte asegura que no se rendirá hasta colaborar con Paquita la del Barrio
+image: "/uploads/2021/images-chilena-admiradora-cantante-rata-patas.jpg"
+video: "nil"
+audio: "nil"
+alt: "Le voy a mandar mi disco -  Mon Laferte asegura que no se rendirá hasta colaborar con Paquita la del Barrio"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182252
 ---
 
 Uno de los mayores deseos de Mon Laferte es hacer un dueto con Paquita la del Barrio. Y aunque la cantante de "Rata de dos patas" ya dijo que no conoce la música de Mon, la chilena afirmó que no descansará hasta lograr su cometido. 

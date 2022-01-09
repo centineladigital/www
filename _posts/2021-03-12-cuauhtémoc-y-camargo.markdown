@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Colocan cuatro módulos en el municipio manzanero."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-MV04_WENDY_AVILA.mp3
-alt: Cuauhtémoc y Camargo los siguientes municipios para recibir vacunas 
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV04_WENDY_AVILA.mp3"
+alt: "Cuauhtémoc y Camargo los siguientes municipios para recibir vacunas "
 front: false
-section: Local
+section: "Local"
+news_id: 183403
 ---
 
 Los municipios de Camargo y Cuauhtémoc iniciaron este viernes con la campaña de vacunación de COVID, la cual se hará por fases según el alfabeto del apellido, según lo dio a  conocer la Subdirectora de Medicina Preventiva y Promoción de la Salud, Wendy Avila Coronado.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el adelanto de una entrevista con el periodista español Jordi Évole, Bosé habló de la muerte de su madre, ocurrida en marzo de 2020. "
-image: /uploads/2021/images-miguel-bose-hablo-muerte-madre.jpg
-video: nil
-audio: nil
-alt: Mi madre no se murió de covid -  Miguel Bosé reaparece; habla de su mamá y la pérdida de voz
+image: "/uploads/2021/images-miguel-bose-hablo-muerte-madre.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mi madre no se murió de covid -  Miguel Bosé reaparece; habla de su mamá y la pérdida de voz"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183711
 ---
 
 Miguel Bosé rompió el silencio. Tras meses de mantener sus redes sociales inactivas e incluso de borrar la información de ellas, el cantante español ha vuelto al ciberespacio a propósito de su cumpleaños número 65, para dejar claro que tenía mucho que contar, pero no había encontrado a quien contarlo. En el adelanto de una entrevista con el periodista español Jordi Évole, Bosé habló de la muerte de su madre, ocurrida en marzo de 2020 que marcó el inicio de su retiro de redes sociales, que se concretó en agosto del año pasado. 

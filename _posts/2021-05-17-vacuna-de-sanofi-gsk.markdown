@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Sanofi y GlaxoSmithKline reportan que su candidata a vacuna covid provocó una fuerte respuesta inmune en los ensayos de fase 2, abriendo la posibilidad de que pueda estar lista este año"
-image: /uploads/2021/images-2579840.jpg
-video: nil
-audio: nil
-alt: Vacuna de Sanofi-GSK provoca fuerte respuesta inmune -  ensayo fase 2
+image: "/uploads/2021/images-2579840.jpg"
+video: "nil"
+audio: "nil"
+alt: "Vacuna de Sanofi-GSK provoca fuerte respuesta inmune -  ensayo fase 2"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184487
 ---
 
 La candidata a vacuna contra el covid-19 de Sanofi y GlaxoSmithKline provocó una fuerte respuesta inmune en todos los grupos de edad adulta en los ensayos preliminares, lo que avivó el optimismo porque el fármaco pueda sumarse este año a la batalla contra la pandemia.

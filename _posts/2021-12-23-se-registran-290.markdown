@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Se registran 290 nuevos casos de COVID-19 para el estado de Chihuahua "
+date: 2021-12-23T19:36:00.000-06:00
+tags:
+  
+  - Covid
+  
+  - Cifras
+  
+  - chihuahua
+  
+author: nil
+description: "El número de personas que han perdido la vida por COVID-19 asciende a 8 mil 677 (+19)"
+image: "/uploads/2021/images-Sin_título.png"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-12-23_at_12.27.43.3gpp"
+audio: "nil"
+alt: "Se registran 290 nuevos casos de COVID-19 para el estado de Chihuahua "
+front: false
+section: "Local"
+news_id: 191161
+---
+
+El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 23 de diciembre el reporte COVID-19, en el cual se registran 91 mil 627 (+290) casos confirmados, 77 mil 929 (+219) casos recuperados, 87 mil 577 (+320) descartados y 1,190 (+57) casos sospechosos.
+
+El número de personas que han perdido la vida por COVID-19 asciende a 8 mil 677 (+19) y las defunciones que se agregan este día al registro corresponden a los municipios de Juárez (+6), Chihuahua (+7), Cuauhtémoc (+1), Delicias (+1), Nuevo Casas Grandes (+1), Camargo (+1), Meoqui (+1), Rosales (+1). 
+
+El número de personas confirmadas asciende a 91 mil 627 (+290) y los casos confirmados corresponden a los municipios de Juárez (+59), Chihuahua (+146), Parral (+10), Cuauhtémoc (+1), Delicias (+10), Nuevo Casas Grandes (+2), Ojinaga (+7), Camargo (+8), Guachochi (+1), Bocoyna (+1), Meoqui (+1), Saucillo (+1), Guerrero (+2), Aldama (+5), Buenaventura (+16), Aquiles Serdán (+1), Allende (+1), Santa Bárbara (+1), Namiquipa (+1), Guadalupe y Calvo (+2), San Fco. Del Oro (+4), López (+4), Galeana (+1), Santa Isabel (+1), La Cruz (+1), Gran Morelos (+2), Moris (+1).  
+
+La tasa de incidencia de casos activos por cada 100 mil habitantes es de 45.7 por ciento, por lo cual el estado de Chihuahua se posiciona en el lugar número 3 de casos activos en el país. 
+
+Este martes se tiene un registro de 264 personas hospitalizadas, de los cuales 69 están intubados, lo que arroja un porcentaje de ocupación hospitalaria general por el 54.5 por ciento y un 39.7 por ciento de personas hospitalizadas en la entidad. 
+
+Ante las fiestas navideñas y de fin de año, la Secretaría de Salud exhorta a la población a evitar aglomeraciones, usar cubrebocas en todas las actividades, mantener sana distancia. 
+
+En caso de presentar algún síntoma como pérdida del olfato, dolor de cabeza, fiebre superior a 38 grados, cuerpo cortado, escurrimiento nasal o dolor de garganta, es importante acudir a realizarse una prueba para descartar o confirmar COVID-19.

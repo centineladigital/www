@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El ganador de 22 premios Grammy reveló el martes en un comercial durante las finales de la NBA que lanzará su esperado álbum el viernes  "
-image: /uploads/2021/images-kenye.jpg
-video: nil
-audio: nil
-alt: Kanye West lanzará álbum 'Donda' en gran evento en Atlanta
+image: "/uploads/2021/images-kenye.jpg"
+video: "nil"
+audio: "nil"
+alt: "Kanye West lanzará álbum 'Donda' en gran evento en Atlanta"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185901
 ---
 
 Kanye West sabe cómo causar sensación incluso con un evento para escuchar nueva música.

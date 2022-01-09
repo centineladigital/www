@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los conductores del programa de TV Azteca aseguraron que Sergio Mayer sólo quiere foco y se aprovecha de la situación para hacer proselitismo político. "
-image: /uploads/2021/images-critican-a-sergio-mayer-en_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Es una vergüenza -  Critican a Sergio Mayer en 'Ventaneando' por meterse en caso de Héctor Parra
+image: "/uploads/2021/images-critican-a-sergio-mayer-en_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Es una vergüenza -  Critican a Sergio Mayer en 'Ventaneando' por meterse en caso de Héctor Parra"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185164
 ---
 
 Sergio Mayer fue acusado de tráfico de influencias por el abogado e hija de Héctor Parra, esto luego de que se dio a conocer que el político está apoyando a Ginny Hoffman y Alexa Parra en el proceso legal que enfrentan en contra del actor, a quien denunciaron por los delitos de abuso sexual y corrupción de menores. Ahora, los conductores de Ventaneando también criticaron al esposo de Issabela Camil por involucrarse en el caso.  

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En una confusa votación, el Senado de EU decide proseguir el juicio político del expresidente Donald Trump sin la presencia de testigos, tal y como estaba planeado inicialmente"
-image: /uploads/2021/images-2528973.jpg
-video: nil
-audio: nil
-alt: Juicio a Trump proseguirá sin testigos, tras confusa votación
+image: "/uploads/2021/images-2528973.jpg"
+video: "nil"
+audio: "nil"
+alt: "Juicio a Trump proseguirá sin testigos, tras confusa votación"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182922
 ---
 
 Los senadores de Estados Unidos acordaron este sábado omitir el testimonio de testigos y proseguir el juicio político del expresidente Donald Trump, como estaba planeado.

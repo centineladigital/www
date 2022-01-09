@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Banco Mundial advierte que unos 4 millones en este país y Centroamérica podrían tener que migrar por el calentamiento global; crece la violencia contra ambientalistas  "
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Crisis climática forzará a huir a millones de mexicanos -  BM
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Crisis climática forzará a huir a millones de mexicanos -  BM"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187706
 ---
 
 Cerca de 4 millones de personas en Centroamérica y México se verán obligadas a abandonar sus hogares para 2050 debido a los efectos del cambio climático, advirtió ayer el Banco Mundial (BM) en un informe en el que señaló que a nivel mundial 216 millones de habitantes se verían forzados a migrar en sus países por este fenómeno. 

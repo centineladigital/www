@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de las redes sociales en donde la pareja demostró cómo son sus dulces mañanas. En esta ocasión, Belinda le cocinó a Nodal, hecho que el cantante de regional mexicano presumió. "
-image: /uploads/2021/images-belinda-prepara-desayuno-nodal-chef.jpg
-video: nil
-audio: nil
-alt: Quiero que salga perfecto -  Belinda prepara desayuno para Nodal
+image: "/uploads/2021/images-belinda-prepara-desayuno-nodal-chef.jpg"
+video: "nil"
+audio: "nil"
+alt: "Quiero que salga perfecto -  Belinda prepara desayuno para Nodal"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183154
 ---
 
  Belinda y Christian Nodal siguen generando furor en las redes sociales, al posicionarse como una de las parejas más sólidas del mundo del espectáculo, esto a pesar de que en un inicio aseguraban que la pareja era inventada para ganar publicidad. Por ello, todas las pruebas de amor derriten a sus seguidores e incluso a quienes en un inicio se colocaron como detractores. Esta vez, Nodeli –como les llaman– protagonizaron una escena romántica de pareja –en donde a veces alguno de los dos cocina–. En esta ocasión le tocó a Belinda, quien le preparó el desayuno a su amado.  Fue a través de las redes sociales en donde la pareja demostró cómo son sus dulces mañanas.  En esta ocasión, Belinda le cocinó a Nodal, hecho que el cantante de regional mexicano presumió. 

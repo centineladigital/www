@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Clave para frenar la propagación del virus, la vacunación es muy desigual en el planeta, y la mayor parte de las 217 millones de dosis administradas se concentran en los países más desarrollados"
-image: /uploads/2021/images-2536163.jpg
-video: nil
-audio: nil
-alt: EU y UE aseguran que campañas de vacunación avanzan a buen ritmo
+image: "/uploads/2021/images-2536163.jpg"
+video: "nil"
+audio: "nil"
+alt: "EU y UE aseguran que campañas de vacunación avanzan a buen ritmo"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183171
 ---
 
 Estados Unidos defendió avances en su campaña de vacunación contra el covid-19, que Hong Kong y Corea del Sur iniciaron este viernes, en tanto los líderes de la Unión Europea aseguraron que el despliegue del inmunizante, que registró retrasos, marcha según lo previsto.

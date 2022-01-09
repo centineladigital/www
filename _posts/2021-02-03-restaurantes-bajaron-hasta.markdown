@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Por otro lado hubo cadenas de comida que incrementaron sus servicios a domicilio y/o autoservicio hasta en un 45%"
-image: /uploads/2021/images-Repartidor_de_comida.jpg
-video: nil
-audio: nil
-alt: Restaurantes bajaron hasta 75% sus ventas, a pesar de servicio para llevar
+image: "/uploads/2021/images-Repartidor_de_comida.jpg"
+video: "nil"
+audio: "nil"
+alt: "Restaurantes bajaron hasta 75% sus ventas, a pesar de servicio para llevar"
 front: false
-section: Local
+section: "Local"
+news_id: 182651
 ---
 
 “En Chihuahua capital, si hacemos un balance desde que empezó la pandemia, la mayoría de los restaurantes formalmente establecidos, se han visto afectados en diferentes porcentajes, en sus operaciones y por consiguiente en sus ventas”, declaró Andrés Nava, presidente de la sección especializada de restaurantes de Canaco.

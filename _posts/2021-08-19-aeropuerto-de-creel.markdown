@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Contará con todas las medidas para la llegada de vuelos."
-image: /uploads/2021/images-ARMANDO.jpg
-video: /uploads/2021/videos-MJ04_ARMANDO_CARDENAS.mp4
-audio: nil
-alt: Aeropuerto de Creel podrá recibir vuelos nocturnos
+image: "/uploads/2021/images-ARMANDO.jpg"
+video: "/uploads/2021/videos-MJ04_ARMANDO_CARDENAS.mp4"
+audio: "nil"
+alt: "Aeropuerto de Creel podrá recibir vuelos nocturnos"
 front: false
-section: Local
+section: "Local"
+news_id: 186904
 ---
 
 El helipuerto de Creel podrá recibir vuelos de forma nocturna, esto ya que cuenta con lo necesario para que se dé la recepción de vuelos sin importar la hora, señaló Armando Cárdenas Gámez, director de Administradora de Servicios Aeroportuarios de Chihuahua o ASACH por sus siglas.

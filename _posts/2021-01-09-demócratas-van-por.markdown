@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los demócratas planean lanzar un segundo juicio de destitución contra Donald Trump, aunque no está claro si lograrán completar el proceso a pocos días de la transición presidencial"
-image: /uploads/2021/images-2508918.jpg
-video: nil
-audio: nil
-alt: Demócratas van por segundo juicio político a Trump
+image: "/uploads/2021/images-2508918.jpg"
+video: "nil"
+audio: "nil"
+alt: "Demócratas van por segundo juicio político a Trump"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182009
 ---
 
 Los demócratas se alistaban este sábado para lanzar un segundo juicio de destitución contra Donald Trump, un hecho inédito en la historia de Estados Unidos, mientras el presidente saliente no da señales de dejar el cargo tras la cruenta asonada de sus partidarios contra el Capitolio.

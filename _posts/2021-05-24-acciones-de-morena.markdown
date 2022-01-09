@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Como pirotecnia política calificó el dirigente del Partido Acción Nacional actos de abanderado morenista."
-image: /uploads/2021/images-PACO1.jpg
-video: nil
-audio: /uploads/2021/audio-ML06_FRANCISCO_NAVARRO.mp3
-alt: Acciones de Morena son actos desesperados -  PAN
+image: "/uploads/2021/images-PACO1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML06_FRANCISCO_NAVARRO.mp3"
+alt: "Acciones de Morena son actos desesperados -  PAN"
 front: false
-section: Local
+section: "Local"
+news_id: 184631
 ---
 
 Como pirotecnia política calificó el dirigente del Partido Acción Nacional las acciones que se llevan a cabo dentro de Morena, esto tras las acusaciones por parte de Lucía Chavira quien interpuso una denuncia de violencia política por parte del abanderado albiazul a la Alcaldía de Chihuahua.

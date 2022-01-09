@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor mexicano protagoniza su primer filme de terror en Exorcismo en el séptimo día."
-image: /uploads/2021/images-vadhir-derbez-comparte-creditos-importantes.jpg
-video: nil
-audio: nil
-alt: Vadhir Derbez. Exorcismo en el séptimo día lo reta a trabajar en Hollywood
+image: "/uploads/2021/images-vadhir-derbez-comparte-creditos-importantes.jpg"
+video: "nil"
+audio: "nil"
+alt: "Vadhir Derbez. Exorcismo en el séptimo día lo reta a trabajar en Hollywood"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184564
 ---
 
 “Trabajo jala trabajo”, comentó Vadhir Derbez en entrevista con M2 en relación a su persistente actitud proactiva en relación a su carrera y al protagónico en la película “Exorcismo en el séptimo día” (2021), filme que llega hoy a las salas mexicanas y que promete mostrar al actor en uno de sus proyectos más complejos hasta la fecha. “Esto es algo que tengo clavado como meta de carrera y que he estado persiguiendo –explicó el actor–, para mí está padrísimo ver cómo mi carrera actoral va creciendo hacia ese rumbo. Compartir créditos y set con Guy Pearce, Stephen Lang, Keith David, que son monstruos en la actuación, fue maravilloso y muy divertido” 

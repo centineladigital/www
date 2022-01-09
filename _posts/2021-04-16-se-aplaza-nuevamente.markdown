@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Aún falta entregar más de 30 mil fojas del expediente."
-image: /uploads/2021/images-FRANCISCO.jpg
-video: nil
-audio: /uploads/2021/audio-MV05.mp3
-alt: Se aplaza nuevamente audiencia contra Campos Galván
+image: "/uploads/2021/images-FRANCISCO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05.mp3"
+alt: "Se aplaza nuevamente audiencia contra Campos Galván"
 front: false
-section: Local
+section: "Local"
+news_id: 183930
 ---
 
 Nuevamente la audiencia para vinculación a proceso contra María Eugenia Campos Galván fue aplazada nuevamente, esto según su abogado Francisco Molina porque Ministerio Público no hace su tarea a tiempo.

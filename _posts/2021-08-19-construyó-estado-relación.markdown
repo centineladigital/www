@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Preside el gobernador Javier Corral el Foro de Autoridades Indígenas de Chihuahua; el líder warijó, Belén Talla señala que es el primer gobierno que los apoya  "
-image: /uploads/2021/images-_DSC2834.JPG
-video: nil
-audio: nil
-alt: Construyó Estado relación de confianza con autoridades de Pueblos Originarios
+image: "/uploads/2021/images-_DSC2834.JPG"
+video: "nil"
+audio: "nil"
+alt: "Construyó Estado relación de confianza con autoridades de Pueblos Originarios"
 front: false
-section: Local
+section: "Local"
+news_id: 186899
 ---
 
 El gobernador Javier Corral encabezó el Foro de Autoridades Indígenas de Chihuahua, que tuvo lugar en el Salón 25 de Marzo de Palacio de Gobierno y al que asistieron representantes de los pueblos ralamuli de las regiones de Cuiteco, Guachochi y Batopilas, de Loreto y Moris el pueblo Warijó, de Yepachi y Madera el pueblo Óbame, así como asistentes de las comunidades urbanas ralámuli, mazahua, purépecha y Chinalteca de las ciudades de Juárez y Chihuahua.

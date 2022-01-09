@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En la pandemia han enfermado 35 mil 812 hombres y 35 mil 351 mujeres; la ocupación hospitalaria está por debajo del 60 por ciento en 12 unidades médicas especializadas"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Acumula estado 71 mil 163 contagios  y 7 mil 631 defunciones por COVID-19 en la entidad
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Acumula estado 71 mil 163 contagios  y 7 mil 631 defunciones por COVID-19 en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 185612
 ---
 
 La Secretaría de Salud dio a conocer que en el último reporte epidemiológico estatal COVID-19 se agregaron 5 contagios, con lo suman un total general de 71 mil 163; mientras que las defunciones continúan en 7 mil 631, al no confirmarse nuevos casos.

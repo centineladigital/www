@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La CEPC informa que las temperaturas máximas esperadas para la tarde de hoy martes 9 de febrero oscilarán entre 17°C y 28°C"
-image: /uploads/2021/images-principal_copia-de-vientochihuahua.jpg.crdownload
-video: nil
-audio: nil
-alt:  Prevén fuertes vientos en Chihuahua, Parral, Janos, Guerrero y Guachochi
+image: "/uploads/2021/images-principal_copia-de-vientochihuahua.jpg.crdownload"
+video: "nil"
+audio: "nil"
+alt: " Prevén fuertes vientos en Chihuahua, Parral, Janos, Guerrero y Guachochi"
 front: false
-section: Local
+section: "Local"
+news_id: 182801
 ---
 
 El pronóstico del clima para hoy martes 9 de febrero señala que habrá rachas de viento por encima de los 45 kilómetros por hora (km/h) en Chihuahua y Parral, y podrían rebasar los 35 km/h en Janos, Guerrero y Guachochi, informó la Coordinación Estatal de Protección Civil (CEPC).

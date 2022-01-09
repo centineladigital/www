@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El agua alcanzó casi un metro de altura y ocasionó una falla eléctrica, por lo que el oxígeno no pudo ser suministrado y derivó en la muerte de seis pacientes contagiados de Covid-19"
-image: /uploads/2021/images-hidalgo.jpeg
-video: nil
-audio: nil
-alt: Reportan muerte de 10 personas en IMSS de Tula tras lluvias e inundaciones
+image: "/uploads/2021/images-hidalgo.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Reportan muerte de 10 personas en IMSS de Tula tras lluvias e inundaciones"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187493
 ---
 
 Hidalgo.- Las autoridades municipales de Tula, Hidalgo, reportan la muerte de 10 personas en el Instituto Mexicano del Seguro Social (IMSS) a causa de una falla en el sistema de oxígeno por corte de energía eléctrica, ocasionado por las lluvias que se registraron durante la noche.

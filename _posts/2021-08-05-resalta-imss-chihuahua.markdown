@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Existen cuatro diferentes leches maternas: calostro, de transición, madura y leche del “destete”"
-image: /uploads/2021/images-Foto_3717-1.jpg
-video: nil
-audio: nil
-alt: Resalta IMSS Chihuahua que la leche materna es nutrición completa para el recién nacido 
+image: "/uploads/2021/images-Foto_3717-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Resalta IMSS Chihuahua que la leche materna es nutrición completa para el recién nacido "
 front: false
-section: Local
+section: "Local"
+news_id: 186331
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua invita a las madres a alimentar a sus hijos recién nacidos con leche materna, tras destacar que es una nutrición completa para el menor.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Esta prueba diagnostica de manera oportuna los cambios en las células del cuello uterino, precursoras del cáncer"
-image: /uploads/2021/images-Foto_4162-1.jpg
-video: nil
-audio: nil
-alt: Exhorta IMSS Chihuahua a derechohabientes a realizarse el estudio del Papanicolaou 
+image: "/uploads/2021/images-Foto_4162-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Exhorta IMSS Chihuahua a derechohabientes a realizarse el estudio del Papanicolaou "
 front: false
-section: Local
+section: "Local"
+news_id: 187404
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, a través de la Jefatura de Prestaciones Médicas, exhorta a las derechohabientes a realizarse el estudio del papanicolaou, que permite detectar y atender en etapas tempranas el cáncer cervicouterino. 

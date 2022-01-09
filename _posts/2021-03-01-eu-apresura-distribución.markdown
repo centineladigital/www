@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Alrededor de 4 millones de dosis de la vacuna contra covid-19 de Johnson & Johnson son enviadas a los estados de EU para ser aplicadas a partir del martes"
-image: /uploads/2021/images-2537429.jpg
-video: nil
-audio: nil
-alt: EU apresura distribución de vacunas de Johnson & Johnson
+image: "/uploads/2021/images-2537429.jpg"
+video: "nil"
+audio: "nil"
+alt: "EU apresura distribución de vacunas de Johnson & Johnson"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183204
 ---
 
 Casi cuatro millones de dosis de la vacuna contra covid-19 de Johnson & Johnson (J&J) se están enviando a los estados de Estados Unidos para ser aplicadas a partir del martes.

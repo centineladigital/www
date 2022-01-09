@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El último reporte epidemiológico muestra que van 74 mil 650 personas enfermas,  7 mil 764 fallecidas y 63 mil 830 recuperadas en 17 meses de la pandemia"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Confirma Salud otros 65 contagios y dos decesos por COVID-19 en el estado 
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Confirma Salud otros 65 contagios y dos decesos por COVID-19 en el estado "
 front: false
-section: Local
+section: "Local"
+news_id: 186884
 ---
 
 La Secretaría de Salud informó que se registraron 65 nuevos contagios y dos  decesos por COVID-19 en el estado, con lo que el acumulado total es de 74 mil 650 casos y 7 mil 764 defunciones.

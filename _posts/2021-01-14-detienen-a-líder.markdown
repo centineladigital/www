@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Detenido en Parral en operativo realizado de forma coordinada con la SEDENA."
-image: /uploads/2021/images-PENICHE.jpg
-video: nil
-audio: nil
-alt: Detienen a líder del cártel de Sinaloa
+image: "/uploads/2021/images-PENICHE.jpg"
+video: "nil"
+audio: "nil"
+alt: "Detienen a líder del cártel de Sinaloa"
 front: false
-section: Local
+section: "Local"
+news_id: 182149
 ---
 
  La detención de Héctor Manuel M. M. alias “El Chapo Monárrez” o “El 302”, quien forma parte del “Cártel de Sinaloa”, fue dada a conocer este jueves por parte del titular de la Fiscalía General del Estado, César Augusto Peniche Espejel.

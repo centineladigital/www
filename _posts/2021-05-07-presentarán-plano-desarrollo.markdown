@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Dicho plan deberá ser sometido a consulta ciudadana como lo indica la reglamentación."
-image: /uploads/2021/images-MANQUE.jpg
-video: nil
-audio: /uploads/2021/audio-MV05_MANQUE_.mp3
-alt: Presentarán plano desarrollo urbano en mayo -  Alcaldesa
+image: "/uploads/2021/images-MANQUE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05_MANQUE_.mp3"
+alt: "Presentarán plano desarrollo urbano en mayo -  Alcaldesa"
 front: false
-section: Local
+section: "Local"
+news_id: 184349
 ---
 
 A más tardar el 15 de mayo será presentado el Plan de Desarrollo Urbano según lo dio a conocer la Alcaldesa de Chihuahua, María Angélica Granados Trespalacios. Esto al ser cuestionada respecto a la presentación del mismo.

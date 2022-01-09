@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Esta manifestación por parte de los juarenses, se ha hecho de manera pacífica, por eso exijo su pronta liberación de la candidata, expresó el dirigente estatal del PRI, Alejandro Domínguez"
-image: /uploads/2021/images-Arresto_candidata_Adriana_Fuentes_Téllez.jpg
-video: nil
-audio: nil
-alt: Exigen priistas se libere de inmediato a la candidata Adriana Fuentes
+image: "/uploads/2021/images-Arresto_candidata_Adriana_Fuentes_Téllez.jpg"
+video: "nil"
+audio: "nil"
+alt: "Exigen priistas se libere de inmediato a la candidata Adriana Fuentes"
 front: false
-section: Local
+section: "Local"
+news_id: 183814
 ---
 
 El presidente del Comité Directivo Estatal del Partido Revolucionario Institucional, César Alejandro Domínguez Domínguez, exigió la liberación de la candidata a la presidencia municipal de Ciudad Juárez, Adriana Fuentes Téllez, y de Jaime Cano, dirigente municipal del PRI, ya que fueron arrestados de manera arbitraria por acompañar a manifestantes de esa frontera para solicitar que no se construya el carril confinado.

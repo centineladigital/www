@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El miércoles, la ciudad de Siracusa, en la isla de Sicilia (sur), alcanzó los 48.8 grados, según el Servicio Informativo Agrometeorológico (SIAS)"
-image: /uploads/2021/images-italia-registra-record-calor-plusmarca.jpg
-video: nil
-audio: nil
-alt: ¡Emergencia climática! Ola de calor asfixia a Italia con temperaturas históricas mayores a 48°C
+image: "/uploads/2021/images-italia-registra-record-calor-plusmarca.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Emergencia climática! Ola de calor asfixia a Italia con temperaturas históricas mayores a 48°C"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186599
 ---
 
 La ola de calor que se registra en el Mediterráneo está provocando en Italia la semana más cálida del año y las zonas sur y centro-oeste del país se encuentran en alerta al menos hasta el fin de la semana con temperaturas históricas que superan los 45 grados. 

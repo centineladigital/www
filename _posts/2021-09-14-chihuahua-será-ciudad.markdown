@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Acciones demuestran trabajo realizado por Gobernadora y Alcalde actual."
-image: /uploads/2021/images-paco.jpg
-video: /uploads/2021/videos-MM05_FRANCISCO_NAVARRO.mp4
-audio: nil
-alt: Chihuahua será ciudad de primer mundo -  AN
+image: "/uploads/2021/images-paco.jpg"
+video: "/uploads/2021/videos-MM05_FRANCISCO_NAVARRO.mp4"
+audio: "nil"
+alt: "Chihuahua será ciudad de primer mundo -  AN"
 front: false
-section: Local
+section: "Local"
+news_id: 187722
 ---
 
 Con la toma de protesta de la Gobernadora y el Alcalde de Chihuahua el dirigente de Partido Acción Nacional a nivel municipal, Francisco Navarro Pastrana, señaló que se buscará que se llegue a un nivel de vida mejor para la ciudadanía.

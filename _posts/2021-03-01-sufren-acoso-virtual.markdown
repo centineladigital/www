@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Soledad, aislamiento, depresión e insomnio, son algunas de las consecuencias que padecen las víctimas cuya edad osclina entre los 12 y 17 años"
-image: /uploads/2021/images-ciberacoso.jpg
-video: nil
-audio: nil
-alt: Sufren acoso virtual cuatro de cada diez menores
+image: "/uploads/2021/images-ciberacoso.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sufren acoso virtual cuatro de cada diez menores"
 front: false
-section: Local
+section: "Local"
+news_id: 183202
 ---
 
 Cuatro de cada diez menores de 18 años en el estado, dijeron haber sufrido acoso virtual al menos una vez en el último año, de acuerdo al Módulo de Violencia Cibernética del INEGI.

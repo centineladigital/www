@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "No podrás creer cómo lucía la actriz antes de alcanzar la fama mundial en Hollywood. "
-image: /uploads/2021/images-salma-hayek-instagram-4_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¡Un cambio increíble! Así lucía Salma Hayek en su primera audición para Televisa en 1988
+image: "/uploads/2021/images-salma-hayek-instagram-4_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Un cambio increíble! Así lucía Salma Hayek en su primera audición para Televisa en 1988"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184203
 ---
 
 Salma Hayek es una de las actrices mexicanas más exitosas en todo el mundo, pues ha protagonizado grandes producciones del cine, teatro y televisión, tanto en México como en Hollywood, además de ser empresaria y productora. Un video de la primera audición de Salma para Televisa en el año 1988 ha dado de qué hablar en redes sociales por el asombroso cambio de la talentosa actriz, y aquí te mostramos por qué.

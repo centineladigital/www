@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El albergue, en el municipio Zumpango de Ocampo, tiene capacidad para dar cobijo hasta a 50 perros que recibirán atención médica y alimentación. "
-image: /uploads/2021/images-5ed0e341215b1.jpeg
-video: nil
-audio: nil
-alt: ¡Amor por México! Perritos callejeros encuentran hogar tras ser rescatados por el Ejército
+image: "/uploads/2021/images-5ed0e341215b1.jpeg"
+video: "nil"
+audio: "nil"
+alt: "¡Amor por México! Perritos callejeros encuentran hogar tras ser rescatados por el Ejército"
 front: false
-section: Buenas Noticias
+section: "Buenas Noticias"
+news_id: 185725
 ---
 
 ¿Te enoja ver a los perritos en las calles? ¿Quisieras ayudarlos? El cambio en forma de ayuda siempre puede ser posible desde donde podamos. Ejemplo de ello, son algunos integrantes del Ejército que rescatan a perritos callejeros y los llevan a un albergue. 

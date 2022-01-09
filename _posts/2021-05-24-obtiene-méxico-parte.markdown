@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Asegura López Obrador que el documento se obtuvo gracias a una solicitud a la vicepresidenta estadunidense, Kamala Harris; refrenda compromiso para que se conozca la verdad"
-image: /uploads/2021/images-2583570.jpg
-video: nil
-audio: nil
-alt: Obtiene México parte de expediente de EU sobre caso Ayotzinapa
+image: "/uploads/2021/images-2583570.jpg"
+video: "nil"
+audio: "nil"
+alt: "Obtiene México parte de expediente de EU sobre caso Ayotzinapa"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184611
 ---
 
 Al refrendar el compromiso de su gobierno para esclarecer el caso de la desaparición de los 43 estudiantes de Ayotzinapa, el presidente Andrés Manuel López Obrador dio a conocer que México ha obtenido parte de un expediente de Estados Unidos sobre este hecho.

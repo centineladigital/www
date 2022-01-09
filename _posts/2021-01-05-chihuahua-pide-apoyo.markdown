@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El paso de la Cuarta Tormenta Invernal de la temporada y del Frente Frío No. 24, ocurrido el miércoles 30 y jueves 31 de diciembre de 2020, causó diversas afectaciones en un centenar de comunidades"
-image: /uploads/2021/images-2506718.jpg
-video: nil
-audio: nil
-alt: Chihuahua pide apoyo emergente por nevadas
+image: "/uploads/2021/images-2506718.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chihuahua pide apoyo emergente por nevadas"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 181892
 ---
 
 El Gobierno de Chihuahua, envió al Gobierno Federal la solicitud de Declaratoria de Emergencia por nevada y helada severa para 48 municipios de la entidad que resultaron afectados.

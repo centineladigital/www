@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Castillo se convirtió en la primera gimnasta rítmica en representar a México en una justa veraniega pero no logró acceder a la disputa por las medallas "
-image: /uploads/2021/images-rut-castillo-represento-mexico-gimnasia_0_17_1200_746.jpg
-video: nil
-audio: nil
-alt: Mexicana Rut Castillo termina en el lugar 22 del all around en gimnasia artística
+image: "/uploads/2021/images-rut-castillo-represento-mexico-gimnasia_0_17_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mexicana Rut Castillo termina en el lugar 22 del all around en gimnasia artística"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186428
 ---
 
 La gimnasta rítmica Rut Castillo se convirtió en la primera mexicana en pisar un escenario olímpico en esta modalidad, y la deportista nacional lo hizo consiguiendo el sitio 22 del all around con una puntuación total de 82.750. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Alto número en comparación con la cantidad poblacional."
-image: /uploads/2021/images-gustavo.jpg
-video: nil
-audio: /uploads/2021/audio-MV02_GUSTAVO_DE_LA_ROSA.mp3
-alt: En la administración se cometieron 130 feminicidios -   De la Rosa
+image: "/uploads/2021/images-gustavo.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV02_GUSTAVO_DE_LA_ROSA.mp3"
+alt: "En la administración se cometieron 130 feminicidios -   De la Rosa"
 front: false
-section: Local
+section: "Local"
+news_id: 185249
 ---
 
 Un promedio de 27 feminicidios se han cometido de forma anual desde el inicio de la administración estatal, señaló el diputado de Morena Gustavo de la Rosa Hickerson. Quien destacó que es una cifra de 130 mujeres que perdieron la vida en manos de sus parejas. 

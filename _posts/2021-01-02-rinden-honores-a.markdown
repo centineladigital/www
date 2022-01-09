@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El evento forma parte de la semana del policía, organizada por la DSPM para conmemorar el trabajo de los elementos"
-image: /uploads/2021/images-Dirección_de_Seguridad_Pública_Municipal.jpg
-video: nil
-audio: nil
-alt: Rinden honores a oficiales caídos en el cumplimiento del deber
+image: "/uploads/2021/images-Dirección_de_Seguridad_Pública_Municipal.jpg"
+video: "nil"
+audio: "nil"
+alt: "Rinden honores a oficiales caídos en el cumplimiento del deber"
 front: false
-section: Local
+section: "Local"
+news_id: 181818
 ---
 
 La Dirección de Seguridad Pública Municipal rindió este sábado honores a los oficiales caídos en el cumplimiento del deber durante los últimos años.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Promete Marco Quezada reabrir espacios públicos que tienen costos onerosos."
-image: /uploads/2021/images-MARCO2.jpg
-video: nil
-audio: /uploads/2021/audio-MV06_MARCO_QUEZADA.mp3
-alt: Necesario recuperar espacios públicos -  Morena
+image: "/uploads/2021/images-MARCO2.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV06_MARCO_QUEZADA.mp3"
+alt: "Necesario recuperar espacios públicos -  Morena"
 front: false
-section: Local
+section: "Local"
+news_id: 184348
 ---
 
 Necesario recuperar espacios púbicos, sobre todo el Gimnasio de las colonia Vistas Cerro Grande, señaló Marco Adán Quezada Martínez, candidato de Morena a la Alcandía al visitar esta colonia. En la que lamentó el incremento de las cuotas para el uso de las intalaciones.

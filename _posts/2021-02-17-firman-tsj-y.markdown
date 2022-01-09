@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Con esta firma se busca promover y defender los derechos de las mujeres."
-image: /uploads/2021/images-firma.jpeg
-video: nil
-audio: /uploads/2021/audio-MW03_ARTURO_VALENZUELA.mp3
-alt: Firman TSJ y DSPM convenio de equidad de género
+image: "/uploads/2021/images-firma.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MW03_ARTURO_VALENZUELA.mp3"
+alt: "Firman TSJ y DSPM convenio de equidad de género"
 front: false
-section: Local
+section: "Local"
+news_id: 182997
 ---
 
 Con el find e promover y defender los derechos de las mujeres se llevó a cabo una firma entre el Tribunal Superior de Justicia y la Dirección de Seguridad Pública Municipal de Chihuahua, con lo que se busca la profesionalización de los jueces, magistrados y personal que labora en el órgano judicial.

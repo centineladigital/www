@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El biológico se aplicará hoy y mañana en Meoqui y de miércoles a sábado en Chihuahua; llegan a la entidad casi 100 mil vacunas para su aplicación en estos dos municipios: Gobernador "
-image: /uploads/2021/images-DSC_3802.JPG
-video: nil
-audio: nil
-alt: Continúa esta semana vacunación contra COVID a personas de 50 a 59 años
+image: "/uploads/2021/images-DSC_3802.JPG"
+video: "nil"
+audio: "nil"
+alt: "Continúa esta semana vacunación contra COVID a personas de 50 a 59 años"
 front: false
-section: Local
+section: "Local"
+news_id: 184500
 ---
 
 El gobernador Javier Corral dio a conocer que se concluyó la vacunación de personas de 50 a 59 años en 22 municipios y esta semana se realizará este proceso en Meoqui y Chihuahua capital, para este mismo segmento de la población.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Eres fan de Muse? La banda anunció que para celebrar el 20 aniversario de  Origin of Symmetry lanzará una edición remasterizada. "
-image: /uploads/2021/images-la-banda-celebrara-el-aniversario.jpg
-video: nil
-audio: nil
-alt: Muse celebrará el 20 aniversario de su disco 'Origin of Symmetry' con edición remasterizada
+image: "/uploads/2021/images-la-banda-celebrara-el-aniversario.jpg"
+video: "nil"
+audio: "nil"
+alt: "Muse celebrará el 20 aniversario de su disco 'Origin of Symmetry' con edición remasterizada"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184578
 ---
 
 El trío británico Muse celebra el 20 aniversario de su mítico álbum "Origin of symmetry" con el lanzamiento de una nueva edición remasterizada y remezclada que, bajo el título "XX Anniversary RemiXX", se publicará en edición digital el 18 de junio y en vinilo el 9 de julio. Con la colaboración del productor Rich Costey y de Alex Wharton en los Abbey Road Studios, la banda que lidera Matt Bellamy ha querido "aportar al disco una claridad renovada con un sonido más abierto y dinámico", señala la compañía Warner Music en un comunicado. 

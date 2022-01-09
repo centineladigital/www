@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Pese a que existe un aparente descenso de casos por semana, aún se encuentran pendientes algunos casos en dar positivo. "
-image: /uploads/2021/images-arton20769.jpg
-video: nil
-audio: /uploads/2021/audio-MM01_ARTURO_VALENZUELA.mp3
-alt: Esperan repunte de casos COVID
+image: "/uploads/2021/images-arton20769.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM01_ARTURO_VALENZUELA.mp3"
+alt: "Esperan repunte de casos COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 184277
 ---
 
 Un repunte de casos espera el área de salud en el Estado, según fue dado a conocer por parte de Arturo Valenzuela Zorrilla, quien dijo que pese a que existe un aparente descenso de casos por semana, aún se encuentran pendientes algunos casos en dar positivo. 

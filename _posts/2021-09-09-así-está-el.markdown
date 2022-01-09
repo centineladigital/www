@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La liga de futbol americana más importante del mundo se pone en marcha este jueves"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Así está el calendario y horarios de la semana 1 de la NFL 2021
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Así está el calendario y horarios de la semana 1 de la NFL 2021"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187572
 ---
 
 Este jueves inicia la temporada de la NFL 2021, después de casi 7 meses de espera. Los campeones, Tampa Bay Buccaneers del legendario Tom Brady abren la actividad de esta temporada ante los Cowboys de Dallas, partido que dará inicio a las 19:20 horas (hora del centro de México).

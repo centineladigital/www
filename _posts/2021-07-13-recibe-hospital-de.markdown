@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se entregó material con un valor de 436 mil 191 pesos al hospital Hospital General del municipio de Camargo."
-image: /uploads/2021/images-JOSE.jpg
-video: nil
-audio: /uploads/2021/audio-MM01.mp3
-alt: Recibe hospital de Camargo insumos médicos por parte del TSJ
+image: "/uploads/2021/images-JOSE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM01.mp3"
+alt: "Recibe hospital de Camargo insumos médicos por parte del TSJ"
 front: false
-section: Local
+section: "Local"
+news_id: 185631
 ---
 
 Con un valor de 436 mil 191 pesos el hospital Hospital General del municipio de Camargo, recibió diversos insumos para enfrentar de manera segura por parte de integrantes del Tribunal Superior de Justicia, la actual contingencia  de Covid 19. Según lo dio a conocer José Alfredo Fierro Beltán, magistrado integrante del poder legislativo.

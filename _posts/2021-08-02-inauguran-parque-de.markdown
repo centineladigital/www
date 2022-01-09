@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Un sitio ubicado al margen del río, con bancas, palapas y banquetas para pasear y relajarse; se crea una imagen renovada del lugar, lo que y atraerá a más visitantes y contribuirá al sano esparcimiento"
-image: /uploads/2021/images-7.jpg
-video: nil
-audio: nil
-alt: Inauguran parque de descanso en Batopilas  con Fondo de Reparación Justicia para Chihuahua
+image: "/uploads/2021/images-7.jpg"
+video: "nil"
+audio: "nil"
+alt: "Inauguran parque de descanso en Batopilas  con Fondo de Reparación Justicia para Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 186196
 ---
 
 Con recursos provenientes del Fondo de Reparación Justicia para Chihuahua, Gobierno del Estado, a través de la Secretaría de Desarrollo Municipal (Sedemun), en coordinación con autoridades del Ayuntamiento de Batopilas de Manuel Gómez Morín, se inauguró un parque de descanso, con inversión de un millón 984 mil 589.00 pesos.

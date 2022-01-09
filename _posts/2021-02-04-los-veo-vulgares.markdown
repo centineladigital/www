@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Alberto Vázquez dio su opinión sobre los videos que se realizan en TikTok; esto fue lo que dijo el cantante. "
-image: /uploads/2021/images-alberto_vazquez.jpg
-video: nil
-audio: nil
-alt: “Los veo vulgares” -  Alberto Vázquez critica videos que se realizan en TikTok
+image: "/uploads/2021/images-alberto_vazquez.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Los veo vulgares” -  Alberto Vázquez critica videos que se realizan en TikTok"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182718
 ---
 
 Sin duda TikTok se ha convertido una de las redes sociales más usadas, su popularidad incrementó sobre todo con la pandemia derivada del coronavirus. Lo divertido de esta plataforma es que miles de personas pueden crear diferentes videos bailando, realizando parodias o explicando algún tema de forma rápida y sencilla, sin embargo, hay personas que no dudan en criticar TikTok, entre ellos Alberto Vázquez. 

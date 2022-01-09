@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se tienen dentro de este periodo contemplado un operativo por parte de Protección Civil un operativo de vigilancia."
-image: /uploads/2021/images-LETICIA.jpg
-video: nil
-audio: /uploads/2021/audio-MM03.mp3
-alt: No descartan que se dé repunte en semana santa
+image: "/uploads/2021/images-LETICIA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM03.mp3"
+alt: "No descartan que se dé repunte en semana santa"
 front: false
-section: Local
+section: "Local"
+news_id: 183442
 ---
 
 No se descarta que se registre un repunte en vacaciones durante esta Semana Santa, según declaraciones de la Directora de Medicina Preventiva y Promoción de la Salud, Leticia Ruiz González. Esto al señalar que se tienen dentro de este en periodo contemplado un operativo por parte de Protección Civil un operativo de vigilancia.

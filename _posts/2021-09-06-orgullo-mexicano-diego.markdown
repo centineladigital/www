@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor mexicano es, con solo 41 años, uno de los máximos exponentes de la industria audiovisual iberoamericana en todo el mundo, ha señalado la organización de los Platino en un comunicado. "
-image: /uploads/2021/images-diego-luna-genera-debate-programa.jpg
-video: nil
-audio: nil
-alt: ¡Orgullo mexicano! Diego Luna recibirá Premio Platino de Honor del Cine Iberoamericano
+image: "/uploads/2021/images-diego-luna-genera-debate-programa.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Orgullo mexicano! Diego Luna recibirá Premio Platino de Honor del Cine Iberoamericano"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187459
 ---
 
 Diego Luna será galardonado con el Premio de Honor en la VIII edición de los Premios Platino del Cine Iberoamericano, con el que se reconoce "su intensa carrera en el audiovisual iberoamericano" y "su labor de difusión de la cultura de habla hispana y portuguesa". 

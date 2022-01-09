@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con el objetivo de informar y orientar a las mujeres en el cuidado de la salud y prevención de distintas enfermedades"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Invitan a plática virtual sobre salud reproductiva de las mujeres
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Invitan a plática virtual sobre salud reproductiva de las mujeres"
 front: false
-section: Local
+section: "Local"
+news_id: 187331
 ---
 
 Como parte de las actividades realizadas en el marco del ciclo de conferencias “1, 2, 3 de la salud de la mujer”, el Instituto Municipal de las Mujeres (IMM) en colaboración con el Comité de Salud de Grupo Index, invitan a la plática “Salud Reproductiva” el próximo martes 07 de septiembre a las 9:30 horas.

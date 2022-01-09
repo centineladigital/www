@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Liam Payne terminó su relación con la modelo Maya Henry, con quien estaba comprometida desde hace 10 meses. "
-image: /uploads/2021/images-liam-payne-confirmo-termino-relacion.jpg
-video: nil
-audio: nil
-alt: ¿Fue su culpa? Liam Payne, ex One Direction, rompe relación con su prometida Maya Henry
+image: "/uploads/2021/images-liam-payne-confirmo-termino-relacion.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Fue su culpa? Liam Payne, ex One Direction, rompe relación con su prometida Maya Henry"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184926
 ---
 
 Liam Payne terminó su relación con la modelo texana de 21 años Maya Henry, quien era su prometida desde hace 10 meses; el músico, ex integrante de la boy band One Direction, se echó la culpa de la ruptura de la relación y asegura haber lastimado a quien fuera su pareja por más de año y medio. Así lo lo reportaron medios como Page Six después de que el artista de 27 años lo dijera en el podcast A Diary of a CEO del autor y ejectivo Steven Bartlett. 

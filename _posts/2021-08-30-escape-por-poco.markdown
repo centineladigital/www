@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor recordó que sufrió una caída de un tercer piso que le aplastó la columna vertebral y casi le cuesta la vida. "
-image: /uploads/2021/images-orlando-bloom-revive-tragico-accidente_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Escape por poco de la muerte y de la parálisis -  Orlando Bloom revive trágico accidente
+image: "/uploads/2021/images-orlando-bloom-revive-tragico-accidente_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Escape por poco de la muerte y de la parálisis -  Orlando Bloom revive trágico accidente"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187267
 ---
 
 Orlando Bloom se convirtió en una estrella de Hollywood por su participación en taquilleras y grandes producciones como El señor de los anillos y Piratas del Caribe. El actor se ha mantenido un poco alejado de la industria en los últimos dos años, mientras disfruta de su vida a lado de Katy Perry y su hija, Daisy; sin embargo, continúa muy activo en redes sociales, donde revive impactantes momentos de su carrera. 

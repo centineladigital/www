@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Acciones oportunas en coordinación con otras instancias, evitaron contagios masivos y se salvaguardó la salud en los 11 centros"
-image: /uploads/2021/images-vacunacion_cereso3_(1).jpg
-video: nil
-audio: /uploads/2021/audio-3-_SIST_PENITENCIARIO_PROG_LOGROS_CON_VALOR_SRIA_SEG_PBLICA_20-8-21.MP3
-alt: Vacunada toda la población penitenciaria contra COVID-19 -  SSPE
+image: "/uploads/2021/images-vacunacion_cereso3_(1).jpg"
+video: "nil"
+audio: "/uploads/2021/audio-3-_SIST_PENITENCIARIO_PROG_LOGROS_CON_VALOR_SRIA_SEG_PBLICA_20-8-21.MP3"
+alt: "Vacunada toda la población penitenciaria contra COVID-19 -  SSPE"
 front: false
-section: Local
+section: "Local"
+news_id: 186942
 ---
 
 El titular de la Secretaría de Seguridad Pública Estatal (SSPE), Emilio García Ruiz, informó que en estos momentos, toda la población de los 11 centros penitenciarios de la entidad se ha sido vacunada contra el COVID-19.

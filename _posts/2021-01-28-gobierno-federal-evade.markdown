@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "De acuerdo al Plan Nacional de Vacunación hasta el momento se han aplicado poco más de 560,000 dosis"
-image: /uploads/2021/images-EWGRGGRGREGR.jpg
-video: /uploads/2021/videos-AJ01_JORGE_CRUZ_CAMBAEROS.mp4
-audio: /uploads/2021/audio-AJ01_JORGE_CRUZ_CAMBAEROS.mp3
-alt: Gobierno Federal evade su responsabilidad de vacunación al no poner reglas cumplibles -  Coparmex
+image: "/uploads/2021/images-EWGRGGRGREGR.jpg"
+video: "/uploads/2021/videos-AJ01_JORGE_CRUZ_CAMBAEROS.mp4"
+audio: "/uploads/2021/audio-AJ01_JORGE_CRUZ_CAMBAEROS.mp3"
+alt: "Gobierno Federal evade su responsabilidad de vacunación al no poner reglas cumplibles -  Coparmex"
 front: false
-section: Local
+section: "Local"
+news_id: 182523
 ---
 
 Ante el anuncio de que cualquier empresa o gobierno local que quiera adquirir vacunas para aplicarlas en México tiene autorización, el presidente de Coparmex Chihuahua Jorge Cruz Cambreros, señaló que el gobierno podría usar este tema como asunto político, pues está evadiendo su propia responsabilidad de vacunar a la población al no poner reglas claras y cumplibles a gobiernos e IP.

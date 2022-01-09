@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Si algo ha caracterizado a Azalia Ojeda desde que saltó a la fama como integrante de la primera generación de Big Brother, eso ha sido la polémica. "
-image: /uploads/2021/images-participo-en-la-primera-edicion.jpg
-video: nil
-audio: nil
-alt: De 'La Negra' a 'Lady Polanco', ella es Azalia Ojeda, la ex integrante de Big Brother detenida
+image: "/uploads/2021/images-participo-en-la-primera-edicion.jpg"
+video: "nil"
+audio: "nil"
+alt: "De 'La Negra' a 'Lady Polanco', ella es Azalia Ojeda, la ex integrante de Big Brother detenida"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184586
 ---
 
 Si algo ha caracterizado a Azalia Ojeda desde que saltó a la fama como integrante de la primera generación de Big Brother, eso ha sido la polémica. Tras dejar la famosa casa, La Negra, se ha visto envuelta en escándalos que incluso le dieron el mote de Lady Polanco. 

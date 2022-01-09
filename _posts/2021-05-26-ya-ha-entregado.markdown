@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este miércoles arribó al AICM el cargamento 35 con 585 mil dosis; desde diciembre pasado, el país ha recibido más de 30 millones vacunas de distintos laboratorios"
-image: /uploads/2021/images-2584743.jpg
-video: nil
-audio: nil
-alt: Ya ha entregado Pfizer 14 millones de vacunas a México
+image: "/uploads/2021/images-2584743.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ya ha entregado Pfizer 14 millones de vacunas a México"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184657
 ---
 
 El cargamento número 35, con 585 mil dosis de vacunas contra el Covid-19 desarrollada por el laboratorio Pfizer/ BioNTech, arribó este miércoles al Aeropuerto Internacional de la Ciudad de México (AICM), procedente de Cincinnati, Estados Unidos.

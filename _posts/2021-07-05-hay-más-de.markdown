@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El director de obras publicas afirma que hasta el momento la ciudadania ha deuncioa do"
-image: /uploads/2021/images-2111.jpg
-video: nil
-audio: nil
-alt: Hay más de 2000 baches ya en la ciudad
+image: "/uploads/2021/images-2111.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hay más de 2000 baches ya en la ciudad"
 front: false
-section: Local
+section: "Local"
+news_id: 185376
 ---
 
 El arquitecto, Carlos Aguilar hablo sobre los baches en la ciudad después de las lluvias que se han presentado y afirmo que en los próximos días se realizara un programa intensivo de bacheo en la ciudad para el cual hay los recursos suficientes para llevarlo a cabo en las siguientes semanas y hasta el término de la actual administración, enfatizo que hasta el momento los ciudadanos han denunciado la presencia de 2000 a 2500 baches en las calles de la ciudad, pero que conforme para los días con seguridad surgirán más para lo que se han destinado por lo menos 10 cuadrillas de trabajadores que repararan la calles iniciando por las Ave. Principales.

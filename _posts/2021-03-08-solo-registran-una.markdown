@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Dan positivo 146 personas a coronavirus."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-ML02_WENDY_AVILA.mp3
-alt: Solo registran una defunción en 24 horas
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML02_WENDY_AVILA.mp3"
+alt: "Solo registran una defunción en 24 horas"
 front: false
-section: Local
+section: "Local"
+news_id: 183341
 ---
 
 En tan sólo 24 horas se acredito de forma oficial solamente una defunción dentro del estado, así como 149 personas dieron positivo a la prueba PCR que detecta el coronavirus, según fue dado a conocer por parte de la Subdirectora de Medicina Preventiva, Wendy Ávila Coronado. 

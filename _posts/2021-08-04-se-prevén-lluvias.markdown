@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Informa Protección Civil que Guadalupe y Calvo, Allende y Coronado tendrán las precipitaciones con mayor intensidad durante este miércoles 4 de agosto; en Chihuahua y Ciudad Juárez serán aisladas     "
-image: /uploads/2021/images-899a41566cac146e4a03078f9aa3e151.jpg
-video: nil
-audio: nil
-alt: Se prevén lluvias de hasta 50 mm de concentración en occidente, suroeste y sureste del estado   
+image: "/uploads/2021/images-899a41566cac146e4a03078f9aa3e151.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se prevén lluvias de hasta 50 mm de concentración en occidente, suroeste y sureste del estado   "
 front: false
-section: Local
+section: "Local"
+news_id: 186284
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que para este miércoles 4 y jueves 5 de agosto se pronostican lluvias fuertes en el occidente, suroeste y sureste del estado, aunque con un clima caluroso por las tardes. Además, se prevén vientos con rachas que pudieran rebasar los 45 kilómetros por hora (km/h), advirtió la dependencia.

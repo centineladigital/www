@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La famosa recurrió a sus redes para celebrar la última voluntad de 'El Príncipe de la Canción'; señaló que es heredera de un legado que construimos juntos. "
-image: /uploads/2021/images-anel-norena-celebra-voluntad-jose.jpg
-video: nil
-audio: nil
-alt: Heredera universal -  así celebró Anel Noreña tras lectura del testamento de José José
+image: "/uploads/2021/images-anel-norena-celebra-voluntad-jose.jpg"
+video: "nil"
+audio: "nil"
+alt: "Heredera universal -  así celebró Anel Noreña tras lectura del testamento de José José"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183715
 ---
 
 José Joel y Marysol Sosa dieron a conocer el pasado lunes frente a los juzgados de la Ciudad de México que por fin se dio lectura al testamento de José José, en el que se señala a Anel Noreña como heredera universal de El Príncipe de la Canción. Tras sus declaraciones, la famosa recurrió a sus redes sociales para celebrar la última voluntad del cantante. Hasta el momento Sarita Sosa, hija de José José, no ha dado declaraciones al respecto, pese a que había asegurado la existencia de otro testamento. Mientras tanto, Anel Noreña reveló sentirse feliz de ser la beneficiaria de todos los bienes de José José y compartió varias fotografías en su cuenta de Instagram para festejar lo sucedido.

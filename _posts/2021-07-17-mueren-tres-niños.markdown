@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Las autoridades de Salud expusieron que se tuvo un aumento a 675 de nuevos contagios, con los que suman cuatro mil 58 el número de pacientes que se tienen activos, concentrados en los municipios de Ahome, Culiacán, Escuinapa, Guasave, Elota, Rosario Navolato y Mazatlán. "
-image: /uploads/2021/images-55683500_303.jpg
-video: nil
-audio: nil
-alt: Mueren tres niños por Covid-19 en Sinaloa; el más pequeño tenía un año de edad
+image: "/uploads/2021/images-55683500_303.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mueren tres niños por Covid-19 en Sinaloa; el más pequeño tenía un año de edad"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185755
 ---
 
 A causa de los contagios de Covid-19 que se han expandido con mayor fuerza en ocho municipios de Sinaloa, 20 nuevos fallecimientos fueron registrados en la plataforma de la Secretaría de Salud, entre las nuevas víctimas, se encuentran tres menores de edad, el más pequeño de un año de edad.

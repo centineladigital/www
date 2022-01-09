@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El reporte técnico sobre la situación de la pandemia, reporta 34 decesos más por esta enfermedad y acumulan ya 4,335"
-image: /uploads/2021/images-DR_VALENZUELA2.jpg
-video: nil
-audio: nil
-alt:  Registra Salud otros 183 contagios de COVID-19 para un total de 46,785
+image: "/uploads/2021/images-DR_VALENZUELA2.jpg"
+video: "nil"
+audio: "nil"
+alt: " Registra Salud otros 183 contagios de COVID-19 para un total de 46,785"
 front: false
-section: Local
+section: "Local"
+news_id: 181907
 ---
 
 La Secretaría de Salud informó que se tienen en el estado de Chihuahua un total general de 46 mil 785 casos de COVID-19, con 183 nuevos contagios, mientras que la cantidad de personas fallecidas llegó a 4 mil 335, al confirmarse 34 decesos más por esta enfermedad.

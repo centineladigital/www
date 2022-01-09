@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se tiene que analizar la situación para que los próximos gobiernos se tomen en cuenta las finanzas y el déficit que existe de ingresos en el estado"
-image: /uploads/2021/images-geggrgr.jpg
-video: nil
-audio: /uploads/2021/audio-AM04_FRANSISCO_SANTINI_RAMOS.mp3
-alt: Necesario crédito para terminar correctamente administración de gobierno -  CCE 
+image: "/uploads/2021/images-geggrgr.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AM04_FRANSISCO_SANTINI_RAMOS.mp3"
+alt: "Necesario crédito para terminar correctamente administración de gobierno -  CCE "
 front: false
-section: Local
+section: "Local"
+news_id: 182074
 ---
 
 En torno al tema del préstamo que pretende solicitar el gobierno estatal el cual se debate en congreso, el presidente del Consejo Coordinador Empresarial (CCE), Francisco Santini Ramos, comentó que ellos analizaron junto con el secretario de hacienda la necesidad de dicho crédito, dado a que las finanzas del estado están en uno de sus peores momentos.

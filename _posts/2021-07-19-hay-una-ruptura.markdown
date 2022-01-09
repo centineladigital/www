@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante comentó que el distanciamiento entre los integrantes surgió a raíz de la cancelación de la gira para celebrar los 30 años de trayectoria de la banda."
-image: /uploads/2021/images-lidia-avila-revela-surgio-pelea_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Hay una ruptura; me cansé de ser mediadora -  Lidia Ávila revela cómo surgió la pelea de OV7
+image: "/uploads/2021/images-lidia-avila-revela-surgio-pelea_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hay una ruptura; me cansé de ser mediadora -  Lidia Ávila revela cómo surgió la pelea de OV7"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185786
 ---
 
 Los integrantes de OV7 continúan en la polémica desde que se dieron a conocer los problemas que existen al interior de la agrupación mexicana, que iniciaron luego de que Kalimba se alejó del resto de sus compañeros y que varios de ellos no quisieron sumarse a la gira, según relató Mariana Ochoa. Ahora, fue el turno de Lidia Ávila, quien rompió el silencio sobre la situación de la banda y aseguró estar cansada de ser "la mediadora".

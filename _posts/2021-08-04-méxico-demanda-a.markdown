@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En conferencia, la SRE aclaró que la demanda no es contra el gobierno de Estados Unidos, al que le reconocieron los esfuerzos contra el tráfico ilícito de armas "
-image: /uploads/2021/images-trafico-ilegal-armas-mexico-afecta.jpg
-video: nil
-audio: nil
-alt: México demanda a fabricantes de armas en EU por comercio negligente e ilícito
+image: "/uploads/2021/images-trafico-ilegal-armas-mexico-afecta.jpg"
+video: "nil"
+audio: "nil"
+alt: "México demanda a fabricantes de armas en EU por comercio negligente e ilícito"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186277
 ---
 
 El gobierno de México demandó a varios fabricantes de armas ante la Corte de Estados Unidos por comercio negligente e ilícito “que contribuye al tráfico de armas a México y ocasiona daño directo”, informó la Secretaría de Relaciones Exteriores (SRE). 

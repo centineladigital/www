@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La ‘Canarinha’ se mantiene en lo más alto de la clasificación rumbo al Mundial de Qatar 2022 luego de imponerse por 2-0 sobre la selección de Ecuador, con gol y asistencia del ‘10’"
-image: /uploads/2021/images-2589756.jpg
-video: nil
-audio: nil
-alt: Neymar comanda el triunfo de Brasil en la eliminatoria
+image: "/uploads/2021/images-2589756.jpg"
+video: "nil"
+audio: "nil"
+alt: "Neymar comanda el triunfo de Brasil en la eliminatoria"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 184856
 ---
 
 Neymar, con asistencia y gol, le dio la victoria 2-0 al superlíder Brasil sobre un aguerrido Ecuador este viernes en Porto Alegre, en el cierre de la séptima fecha del clasificatorio sudamericano hacia Qatar 2022.

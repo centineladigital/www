@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La serie llamada Nautilus , producida por Moonriver TV y Seven Stories, propiedad de All3Media, dará un nuevo giro a la famosa novela del siglo XIX. "
-image: /uploads/2021/images-nautilus-sera-el-nombre-de_0_49_1200_747.jpeg
-video: nil
-audio: nil
-alt: ¡Julio Verne regresa! Disney + estrenará serie basada en '20 mil leguas de viaje submarino'
+image: "/uploads/2021/images-nautilus-sera-el-nombre-de_0_49_1200_747.jpeg"
+video: "nil"
+audio: "nil"
+alt: "¡Julio Verne regresa! Disney + estrenará serie basada en '20 mil leguas de viaje submarino'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187097
 ---
 
 La clásica aventura submarina de Julio Verne, 20 mil leguas de viaje submarino, tendrá una serie live action en la plataforma de streaming de Disney, la cual contará con 10 episodios, según lo informó la revista de entretenimiento The Hollywood Reporter. 

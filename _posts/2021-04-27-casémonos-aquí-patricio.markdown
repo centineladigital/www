@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras la muerte de Patricio Castillo, actor de Televisa, recién se dio a conocer que se casó días antes de morir en el hospital y que incluso los médicos fueron testigos de su compromiso con Haunani Ruíz. "
-image: /uploads/2021/images-patricio-castillo-caso-morir-hospital.jpg
-video: nil
-audio: nil
-alt: Casémonos aquí -  Patricio Castillo tuvo boda en el hospital antes de morir; médicos fueron testigos
+image: "/uploads/2021/images-patricio-castillo-caso-morir-hospital.jpg"
+video: "nil"
+audio: "nil"
+alt: "Casémonos aquí -  Patricio Castillo tuvo boda en el hospital antes de morir; médicos fueron testigos"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184130
 ---
 
 La muerte del actor Patricio Castillo sigue dando de qué hablar, pues luego de que se informara su repentina partida a consecuencia de unos problemas pulmonares y de que sus hijos protagonizaran una pelea con la viuda del intérprete de Televisa, ahora se dio a conocer que Pato se casó días antes de morir en el hospital y que incluso los médicos fueron testigos de su compromiso con Haunani Ruíz. En entrevista con TVyNovelas, Haunani Ruíz contó que el actor Patricio Castillo decidió unirse en matrimonio con ella a pesar de estar en el hospital. 

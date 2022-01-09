@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El director de la policía municipal en Cárdenas informó que ya investigan la agresión; los oficiales implicados podrían ser separados de su cargo"
-image: /uploads/2021/images-agresion-captada-video-viralizo-redes_0_1_1200_745.jpg
-video: nil
-audio: nil
-alt: Policías municipales golpean a mujer detenida y esposada en Tabasco
+image: "/uploads/2021/images-agresion-captada-video-viralizo-redes_0_1_1200_745.jpg"
+video: "nil"
+audio: "nil"
+alt: "Policías municipales golpean a mujer detenida y esposada en Tabasco"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185933
 ---
 
 Policías municipales de Cárdenas, Tabasco, golpearon a una mujer que había sido detenida y esposada. La agresión fue captada en video y compartida en redes sociales, donde se viralizó. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Presidente reiteró que el conflicto al interior del Tribunal Electoral debe ser resuelto por los magistrados, dado que se trata de una institución autónoma"
-image: /uploads/2021/images-presidente-andres-manuel-lopez-obrador-777_1_27_1198_746.jpeg
-video: nil
-audio: nil
-alt: Presidente de la Corte no tiene facultad legal para intervenir en conflicto del TEPJF -  AMLO
+image: "/uploads/2021/images-presidente-andres-manuel-lopez-obrador-777_1_27_1198_746.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Presidente de la Corte no tiene facultad legal para intervenir en conflicto del TEPJF -  AMLO"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186368
 ---
 
 El presidente Andrés Manuel López Obrador dijo que el presidente de la Suprema Corte de Justicia de la Nación (SCJN), Arturo Zaldívar, carece de facultad legal para intervenir en el conflicto del Tribunal Electoral del Poder Judicial de la Federación (TEPJF), mismo que deben resolver los propios magistrados.  

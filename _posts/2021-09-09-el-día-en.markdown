@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Adam Sandler se caracteriza por su sencillez y espontaneidad. Te contamos la historia del día que su perrito fue su 'padrino de boda'. "
-image: /uploads/2021/images-adam-sandler-jackie-titone-boda.jpg
-video: nil
-audio: nil
-alt: El día en que el tierno perrito de Adam Sandler fue su 'padrino de boda'
+image: "/uploads/2021/images-adam-sandler-jackie-titone-boda.jpg"
+video: "nil"
+audio: "nil"
+alt: "El día en que el tierno perrito de Adam Sandler fue su 'padrino de boda'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187602
 ---
 
 Adam Sandler es uno de los actores más conocidos del cine de comedio de Hollywood. Sin embargo, se caracteriza por su sencillez, ya que pocas veces se le ve con extravagancias o excentricidades, y suele andar por la vida con bermudas, playera y tenis. Otro aspecto que le caracteriza es su amor por sus mascotas, ya que su importancia es tal que incluso nombró a su perro como 'padrino de boda' en 2003.

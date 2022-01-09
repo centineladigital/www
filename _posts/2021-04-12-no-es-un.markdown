@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Semaforización cambia según las acciones de la sociedad, no a gusto del mandatario, según el mismo Gobernador."
-image: /uploads/2021/images-corral1.jpg
-video: nil
-audio: /uploads/2021/audio-ML04_JAVIER_CORRAL.mp3
-alt: No es un juego el semáforo -  Corral
+image: "/uploads/2021/images-corral1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04_JAVIER_CORRAL.mp3"
+alt: "No es un juego el semáforo -  Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 183835
 ---
 
 “No es un juego, ni un asunto que este en la discrecionalidad política” fueron las palabras del Gobernador, Javier Corral Jurado, al ser cuestionado respecto a las inconformidades que expresaron empresarios al volver a semáforo naranja. Destacando que actualmente se vive una pandemia en el país y en el mundo, ya que la semaforización depende mucho de la conducta social de las personas.

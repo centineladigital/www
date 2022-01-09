@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hace unos días, un internauta logró sacar a J Balvin de sus casillas; así le respondió el artista colombiano. "
-image: /uploads/2021/images-j-balvin-instagram-1.jpg
-video: nil
-audio: nil
-alt: Gente como tú jode más al mundo -  J Balvin arremete contra usuario de Instagram; ésta fue la razón
+image: "/uploads/2021/images-j-balvin-instagram-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Gente como tú jode más al mundo -  J Balvin arremete contra usuario de Instagram; ésta fue la razón"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184023
 ---
 
 Luego de que anunció que está esperando a su primer bebé junto a su pareja Valentina Ferrer, además de dar a conocer que el documental sobre su vida ya tiene fecha de estreno en Amazon, parecía que todo iba bien para J Balvin. Pero un usuario de Instagram logró sacarlo de sus casillas hace unos días, pues dicho internauta le escribió que gente como él "está jodiendo este mundo", a lo que el artista colombiano respondió de inmediato. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Acompañada de algunas amigas y su hermana, la hija de Alejandro Fernández celebró su 'baby shower'"
-image: /uploads/2021/images-camila-fernandez-celebra-baby-shower_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¡Dosis de ternura! Así celebró Camila Fernández su 'baby shower'
+image: "/uploads/2021/images-camila-fernandez-celebra-baby-shower_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Dosis de ternura! Así celebró Camila Fernández su 'baby shower'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182773
 ---
 
 Camila Fernández y su esposo, Francisco Barba, sorprendieron a todos al anunciar que están esperando a su primer bebé, esto tras su polémica boda que celebraron en agosto en medio de la pandemia de covid-19. Ahora, la hija de Alejandro Fernández alista los últimos detalles para darle la bienvenida a su primogénita.  

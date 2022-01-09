@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de Instagram en donde Sharon Stone reveló su preocupación por su sobrino de tan sólo 11 meses de edad. Con una fotografía en la que apareció el bebé rodeado de equipo médico, la famosa actriz pidió que rezaran por él. "
-image: /uploads/2021/images-sharon-stone-bloqueada-aplicacion-citas_0_83_958_596.jpg
-video: nil
-audio: nil
-alt: Tiene falla orgánica total -  Sharon Stone pide oraciones para su sobrino de 11 meses que fue hospitalizado
+image: "/uploads/2021/images-sharon-stone-bloqueada-aplicacion-citas_0_83_958_596.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tiene falla orgánica total -  Sharon Stone pide oraciones para su sobrino de 11 meses que fue hospitalizado"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187180
 ---
 
 Sharon Stone, famosa actriz internacional, compartió una imagen y una fuerte noticia que ha dado mucho de qué hablar, pues su sobrino River Stone de tan sólo 11 meses se encuentra grave tras ser diagnosticado con una falla orgánica total. La famosa explicó que están en espera de un milagro. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La clausura se debió a la falta de permiso"
-image: /uploads/2021/images-pEIRyjOXfh8U2vzm.jpeg
-video: nil
-audio: nil
-alt: Clausuran carreras de caballos y baile en Tomochi
+image: "/uploads/2021/images-pEIRyjOXfh8U2vzm.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Clausuran carreras de caballos y baile en Tomochi"
 front: false
-section: Local
+section: "Local"
+news_id: 182776
 ---
 
 Autoridades clausuran evento de 200 personas en La Sierrita Centro Hípico Tomochi, donde se llevaban a cabo carreras de caballos, peleas de gallos, baile y venta de bebidas alcohólicas.

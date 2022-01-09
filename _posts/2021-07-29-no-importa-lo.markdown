@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Presidente insistió en que es indispensable reanudar las clases presenciales y llamó al sindicato de maestros a apoyar el regreso a las aulas"
-image: /uploads/2021/images-amlo-insistio-reanudar-clases-presenciales_0_0_1200_747.jpeg
-video: nil
-audio: nil
-alt: No importa lo que piense la mayoría, se debe volver a clases presenciales, dice AMLO
+image: "/uploads/2021/images-amlo-insistio-reanudar-clases-presenciales_0_0_1200_747.jpeg"
+video: "nil"
+audio: "nil"
+alt: "No importa lo que piense la mayoría, se debe volver a clases presenciales, dice AMLO"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186079
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que mantendrá su postura sobre el regreso de las clases presenciales el 30 de agosto, a pesar de la pandemia de coronavirus covid-19, pues insistió en que son indispensables, sin importar que la mayoría de la población esté en contra de la medida. 

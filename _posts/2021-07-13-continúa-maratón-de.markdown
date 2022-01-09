@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Destaca Javier Corral que durante su gestión se entregaron en el municipio de Parral, obras de infraestructura por 826 millones de pesos, incluyendo los 286 millones que (aparte del equipamiento) se ejercerán en el Hospital de Ginecobstetricia."
-image: /uploads/2021/images-_DSC2709.JPG
-video: nil
-audio: nil
-alt: Continúa Maratón de Obras y entrega Gobernador edificio de Fiscalía de la Mujer en Parral
+image: "/uploads/2021/images-_DSC2709.JPG"
+video: "nil"
+audio: "nil"
+alt: "Continúa Maratón de Obras y entrega Gobernador edificio de Fiscalía de la Mujer en Parral"
 front: false
-section: Local
+section: "Local"
+news_id: 185622
 ---
 
 Dentro del Maratón de Obras, el gobernador Javier Corral inauguró en Hidalgo del Parral el nuevo Edificio de la Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género (FEM), con una inversión estatal de 4 millones 618 mil 799 pesos.

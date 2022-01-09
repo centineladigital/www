@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En redes sociales comenzaron a circular varios videos en donde se dio a conocer que el cantante de regional mexicano, hijo de Joan Sebastián, violentó a su pareja –Farina Chaparro–. "
-image: /uploads/2021/images-filtran-pruebas-jose-manuel-figueroa.jpg
-video: nil
-audio: nil
-alt: Mis fans se van a burlar -  Acusan a José Manuel Figueroa de golpear a su ex pareja; filtran pruebas
+image: "/uploads/2021/images-filtran-pruebas-jose-manuel-figueroa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mis fans se van a burlar -  Acusan a José Manuel Figueroa de golpear a su ex pareja; filtran pruebas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185878
 ---
 
 José Manuel Figueroa, hijo de Joan Sebastián, fue señalado por presuntamente golpear y violentar a una de sus parejas –Farina Chaparro–. Y es que mediante un video filtrado se puede ver cómo la mujer afectada llora y expone todo lo que ha vivido a lado del cantante. Además muestra algunas marcas que le dejó en el cuello y asegura que está cansada de ser humillada por éste. ¿José Manuel Figueroa, ex de Ninel Conde, ya habló sobre el tema? Te contamos lo que sabemos sobre esta nueva polémica. 

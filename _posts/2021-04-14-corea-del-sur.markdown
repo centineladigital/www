@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente de Corea del Sur ordena explorar la opción de presentar una queja ante un tribunal internacional por la decisión de Japón de liberar agua radiactiva hacia el mar"
-image: /uploads/2021/images-2562016.jpg
-video: nil
-audio: nil
-alt: Corea del Sur se lanza contra Japón por agua de Fukushima
+image: "/uploads/2021/images-2562016.jpg"
+video: "nil"
+audio: "nil"
+alt: "Corea del Sur se lanza contra Japón por agua de Fukushima"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183870
 ---
 
 El presidente de Corea del Sur ordenó este miércoles a funcionarios explorar la opción de presentar una petición ante un tribunal internacional sobre la decisión de Japón de liberar agua contaminada de su dañada planta nuclear de Fukushima hacia el mar, en medio de protestas de grupos pesqueros y ambientales.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Aseguró que Chihuahua cuenta con un gobierno caro y lleno de excesos en el gasto corriente"
-image: /uploads/2021/images-REGREHRHR.jpg
-video: nil
-audio: /uploads/2021/audio-AJ02_MIGUEL_COLUNGA.mp3
-alt: Morena y PES arremeten contra crédito en pleno de sesión de congreso 
+image: "/uploads/2021/images-REGREHRHR.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AJ02_MIGUEL_COLUNGA.mp3"
+alt: "Morena y PES arremeten contra crédito en pleno de sesión de congreso "
 front: false
-section: Local
+section: "Local"
+news_id: 182336
 ---
 
 El diputado Miguel Colunga, coordinador de los diputados de Morena, así como la diputada local del PES, Marisela Sáenz Muriel, emitieron su posicionamiento en el pleno del Congreso del Estado en relación al crédito que busca el ejecutivo, por lo cual se mostraron en contra de este, dado que pone en riesgo la economía de los chihuahuenses. 

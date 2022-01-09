@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Para muchos, el uso de piezas de un diseñador con raíces latinas por la futura primera dama estadunidense, es un mensaje positivo."
-image: /uploads/2021/images-jill-biden-viste-prendas-disenador.jpg
-video: nil
-audio: nil
-alt: Jill Biden viste prendas de diseñador de origen mexicano previo a la toma de protesta
+image: "/uploads/2021/images-jill-biden-viste-prendas-disenador.jpg"
+video: "nil"
+audio: "nil"
+alt: "Jill Biden viste prendas de diseñador de origen mexicano previo a la toma de protesta"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182297
 ---
 
 La futura Primera Dama de los Estados Unidos, Jill Biden disfruta de vestir prendas de diseñadores latinos, pues en varias ocasiones se le ha visto portar piezas de firmas como Carolina Herrera y Oscar de la Renta y este martes no fue la excepción cuando lució un atuendo hecho por un creador con raíces mexicanas. 

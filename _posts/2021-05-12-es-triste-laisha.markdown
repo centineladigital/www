@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de sus redes sociales en donde Laisha Wilkins compartió el momento. Explicó que tuvo que viajar a Estados Unidos para hacerlo realidad. Lamentó que no haya podido recibir una dosis contra el covid-19 en México. "
-image: /uploads/2021/images-laisha-wilkins-critica-gobierno-mexico.jpg
-video: nil
-audio: nil
-alt: Es triste -  Laisha Wilkins critica vacunación en México; viaja a EU y recibe vacuna contra covid-19
+image: "/uploads/2021/images-laisha-wilkins-critica-gobierno-mexico.jpg"
+video: "nil"
+audio: "nil"
+alt: "Es triste -  Laisha Wilkins critica vacunación en México; viaja a EU y recibe vacuna contra covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184421
 ---
 
 Laisha Wilkins, actriz y conductora, compartió que ya recibió la vacuna contra el coronavirus, covid-19. Explicó que a más de un año de estar encerrada por la pandemia tuvo que viajar a Estados Unidos para que le aplicaran el concentrado que previene de muertes a causa del contagio. Lamentó haber tenido que viajar para sentirse protegida. ¿Está en contra del gobierno mexicano? Fue a través de sus redes sociales en donde Laisha Wilkins compartió el momento. Explicó que tuvo que viajar a Estados Unidos para hacerlo realidad. Lamentó que no haya podido recibir una dosis contra el covid-19 en México. 

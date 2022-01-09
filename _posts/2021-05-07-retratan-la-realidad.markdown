@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Jenni Kivistö y Jussi Rastas, cineastas y documentalistas finlandeses, investigaron sobre el conflicto armado entre la guerrilla de la FARC y el gobierno colombiano en 2016 para llevarlo a la pantalla."
-image: /uploads/2021/images-documentalistas-finlandeses-filmaron-colombia-ano.jpeg
-video: nil
-audio: nil
-alt: Retratan la realidad colombiana en el documental “Colombia fue nuestra”
+image: "/uploads/2021/images-documentalistas-finlandeses-filmaron-colombia-ano.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Retratan la realidad colombiana en el documental “Colombia fue nuestra”"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184333
 ---
 
 Para Jenni Kivistö y Jussi Rastas, cineastas y documentalistas finlandeses, su experiencia personal de vida en Colombia fue suficiente para inspirarlos para realizar el documental “Colombia fue nuestra” sobre la polarización del país durante 2016, fecha en que se firmaron los acuerdos de paz entre las FARC y el estado colombiano. Durante un año y medio se inmiscuyeron con distintos personajes, algunos miembros de las FARC, ciudadanos y miembros del gobiernos. De esta forma, poco a poco fueron consiguiendo la evidencia audiovisual que detalla uno de los conflictos sociales más complejos de Colombia. “Como somos extranjeros, todos nos percibían como neutrales, no éramos parte del conflicto colombiano. Era muy fácil para la gente en general hablar con nosotros y lograr conseguir su confianza”, explicó Jussi Rastas en entrevista para M2. 

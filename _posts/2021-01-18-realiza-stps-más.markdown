@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Llevan a cabo acciones para sancionar a empresas que no cumplen los lineamientos. "
-image: /uploads/2021/images-ANA_HERRERA.jpg
-video: nil
-audio: /uploads/2021/audio-ML04_ANA_LUISA_HERRERA.mp3
-alt: Realiza STPS más de cinco mil inspecciones
+image: "/uploads/2021/images-ANA_HERRERA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04_ANA_LUISA_HERRERA.mp3"
+alt: "Realiza STPS más de cinco mil inspecciones"
 front: false
-section: Local
+section: "Local"
+news_id: 182226
 ---
 
 Un total de 5 mil 614 visitas de vigilancia sanitaria a 3 mil 622 centros laborales se realizaron por parte de la Secretaria del Trabajo y Previsión Social, según lo dio a conocer la titular Ana Luisa Herrera Laso.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señala que es por la buena fiscalización."
-image: /uploads/2021/images-14.jpeg
-video: nil
-audio: /uploads/2021/audio-ML06_OSCAR_CASTELLANOS.mp4
-alt: Incrementa IMSS recaudación
+image: "/uploads/2021/images-14.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-ML06_OSCAR_CASTELLANOS.mp4"
+alt: "Incrementa IMSS recaudación"
 front: false
-section: Local
+section: "Local"
+news_id: 185802
 ---
 
 Un incremento en nivel de recaudación del Instituto Mexicano del Seguro Social un 22 por ciento nominal por fiscalización y cobranza, según lo dio a conocer el contador Oscar Castellanos Varela, dentro del último Módulo del Seminario de Seguridad Social, el cual realizó el Colegio de Contadores de Chihuahua. 

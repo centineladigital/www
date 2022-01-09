@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Destaca que tampoco han aumentado los costos de las gasolinas y diésel; tarifas de luz eléctrica no incrementaron más que la inflación, destaca director de CFE SSB, Martín Mendoza"
-image: /uploads/2021/images-2560751.jpg
-video: nil
-audio: nil
-alt: Se ha cumplido con no subir precios de luz -  López Obrador
+image: "/uploads/2021/images-2560751.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se ha cumplido con no subir precios de luz -  López Obrador"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183811
 ---
 
 Al presentar un informe sobre la actualización de las tarifas de luz eléctrica al índice inflacionario, el presidente Andrés Manuel López Obrador destacó que se ha cumplido con el compromiso de no elevar los costos de las gasolinas, el diésel y la energía eléctrica.

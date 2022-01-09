@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Actividad que se extenderá este domingo y cerrará el lunes 17 de mayo, Día Mundial del Reciclaje, con una plantación de árboles en la plaza del Ferrocarril"
-image: /uploads/2021/images-Reciclaje_Delicias.jpg
-video: nil
-audio: nil
-alt: Arrancó la colecta de basura electrónica
+image: "/uploads/2021/images-Reciclaje_Delicias.jpg"
+video: "nil"
+audio: "nil"
+alt: "Arrancó la colecta de basura electrónica"
 front: false
-section: Local
+section: "Local"
+news_id: 184484
 ---
 
 Con la cooperación decidida de los ciudadanos delicienses, este sábado arrancó la colecta de basura electrónica organizada por los socios del Club de Leones, actividad que se extenderá este domingo y cerrará el lunes 17 de mayo, Día Mundial del Reciclaje, con una plantación de árboles en la plaza del Ferrocarril.

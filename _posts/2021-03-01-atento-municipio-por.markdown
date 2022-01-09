@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto ya que con el cambio de actividades se tendrán que hacer modificaciones al trabajo que se llevaba a cabo por motivo de la pandemia."
-image: /uploads/2021/images-MANQUE.jpg
-video: nil
-audio: /uploads/2021/audio-ML04.mp3
-alt: Atento municipio por cambio en el semáforo COVID -  Alcaldesa
+image: "/uploads/2021/images-MANQUE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04.mp3"
+alt: "Atento municipio por cambio en el semáforo COVID -  Alcaldesa"
 front: false
-section: Local
+section: "Local"
+news_id: 183212
 ---
 
 Con el cambio de semáforo las estrategias de revisión por parte del municipio cambiarán, según lo destacó la Alcaldesa en funciones María Angélica Granados Trespalacios. Esto ya que con el cambio de actividades se tendrán que hacer modificaciones al trabajo que se llevaba a cabo por motivo de la pandemia.

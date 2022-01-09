@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La vedette compartió fotos a lado de su nuevo novio; hace poco más de una semana, la vedette aseguraba tener una relación con Marko Peña, ¿terminó su romance con el cantante? "
-image: /uploads/2021/images-niurka-presenta-a-su-nuevo_(1).jpg
-video: nil
-audio: nil
-alt: ¿Y Marko Peña? Niurka Marcos presenta a su nuevo novio en redes; así presume romance
+image: "/uploads/2021/images-niurka-presenta-a-su-nuevo_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Y Marko Peña? Niurka Marcos presenta a su nuevo novio en redes; así presume romance"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183688
 ---
 
 Niurka Markos, conocida como La mujer escándalo, es una de las famosas más polémicas de la farándula mexicana, pues la vedette ha protagonizado mediáticas peleas con celebridades como Ninel Conde y Laura Zapata. Ahora, la actriz volvió al ojo del huracán tras compartir fotos en las que aparece junto a su nuevo novio, esto días después de que había confirmado su relación Marko Peña.  Los rumores sobre un posible romance entre Niurka y Marko Peña comenzaron luego de que la bailarina participó en el más reciente video musical del cantante, "Porque no te mueres"; sin embargo, algunos internautas señalaron de falsa su relación amorosa y criticaron a la vedette de ser parte de un truco publicitario, situación que en su momento desmintió en el programa Hoy.

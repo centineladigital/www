@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En la ceremonia de entrega de actas de doble nacionalidad realizada en Ciudad Juárez, destacó que el cumplimiento al derecho a la identidad, brinda certeza y seguridad jurídica a las familias"
-image: /uploads/2021/images-DSC_0493.JPG
-video: nil
-audio: nil
-alt: Encabeza Gobernador la Sexta Edición del Programa “Soy México”
+image: "/uploads/2021/images-DSC_0493.JPG"
+video: "nil"
+audio: "nil"
+alt: "Encabeza Gobernador la Sexta Edición del Programa “Soy México”"
 front: false
-section: Local
+section: "Local"
+news_id: 185810
 ---
 
 Al encabezar la sexta edición del programa “Soy México”, el gobernador Javier Corral Jurado, resaltó que se trata de un proyecto muy importante que contribuye a brindar certeza y seguridad jurídica a las familias y se les garantiza el derecho fundamental a la identidad.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En entrevista con varios medios de comunicación, Arturo Peniche expresó que lejos de reconquistar a su esposa está cuidando todo lo conquistado a lo largo de su matrimonio. "
-image: /uploads/2021/images-arturo-peniche-regreso-esposa-actor.jpg
-video: nil
-audio: nil
-alt: ¿Arturo Peniche regresó con su esposa? Esto dijo el actor sobre su matrimonio
+image: "/uploads/2021/images-arturo-peniche-regreso-esposa-actor.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Arturo Peniche regresó con su esposa? Esto dijo el actor sobre su matrimonio"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184040
 ---
 
 ¿Arturo Peniche, actor de Televisa, recuperó su matrimonio? El famoso padre de Brandon Peniche al parecer tiene una sólida relación con su esposa Gabriela Ortiz, luego de que se separaran durante esta pandemia por coronavirus, covid-19, tras 39 años de matrimonio. ¿Cómo lograron recuperarse? ¿Logró reconquistarla? Y es que desde hace unos meses la noticia sobre la ruptura se dio a conocer por el mismo actor. Incluso, algunos famosos reaccionaron y hasta enviaron sus buenos deseos para que la pareja arreglara sus problemas. Sin embargo, no faltaron los dimes y diretes sobre la pareja tras el distanciamiento. En entrevista con varios medios de comunicación, Arturo Peniche expresó que lejos de reconquistar a su esposa está cuidando todo lo conquistado a lo largo de su matrimonio. Aseguró que en esta ‘crisis’, tanto él como su pareja han madurando.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los militares también anunciaron la sustitución de los gobernadores y prefectos regionales por militares"
-image: /uploads/2021/images-grupo-fuerzas-especiales-ejercito-guinea_84_1_1091_679.jpg
-video: nil
-audio: nil
-alt: Militares en Guinea anuncian toque de queda en todo el país hasta nuevo aviso
+image: "/uploads/2021/images-grupo-fuerzas-especiales-ejercito-guinea_84_1_1091_679.jpg"
+video: "nil"
+audio: "nil"
+alt: "Militares en Guinea anuncian toque de queda en todo el país hasta nuevo aviso"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187448
 ---
 
 Los oficiales de las fuerzas especiales que capturaron al presidente de Guinea, Alpha Condé, y proclamaron la disolución de las instituciones este domingo anunciaron un toque de queda en todo el país "hasta nuevo aviso". 

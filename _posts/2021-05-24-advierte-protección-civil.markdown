@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La dependencia pide tomar precauciones frente a tales fenómenos meteorológicos; se prevén lluvias para Parral, Jiménez, Manuel Benavides, Coyame, y Ojinaga, con actividad eléctrica y granizo"
-image: /uploads/2021/images-vientos-ciudad-juarez.png
-video: nil
-audio: nil
-alt: Advierte Protección Civil por tolvaneras y torbellinos en el norte y noroeste de la entidad
+image: "/uploads/2021/images-vientos-ciudad-juarez.png"
+video: "nil"
+audio: "nil"
+alt: "Advierte Protección Civil por tolvaneras y torbellinos en el norte y noroeste de la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 184613
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) pidió a la población tomar precauciones frente a fuertes ráfagas de viento, tolvaneras en tramos carreteros, así como a la posible formación de torbellinos o tornados en las zonas norte y noreste de la entidad.

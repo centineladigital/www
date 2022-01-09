@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La agrupación destacó su capacidad de adaptación a las necesidades del mundo musical para mantenerse en el gusto del público."
-image: /uploads/2021/images-reik-maluma-aseguran-exito-combinacion.jpg
-video: nil
-audio: nil
-alt: Reik vuelve a unir su voz con Maluma al interpretar Perfecta
+image: "/uploads/2021/images-reik-maluma-aseguran-exito-combinacion.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reik vuelve a unir su voz con Maluma al interpretar Perfecta"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184733
 ---
 
 Replicando la exitosa fórmula Reik + Maluma, la agrupación de Mexicali presenta “Perfecta”, su nuevo sencillo en el que volvieron a colaborar con el cantante colombiano. Reik asegura que ahora es mucho más evidente la recepción positiva de la industria a las alternativas más arriesgadas. Para ellos, el género urbano, y su flexibilidad llegó para demostrar la facilidad con la que los artistas pueden adaptarse a los cambios y cómo, apoyados por su propia originalidad, mientras se mantengan honestos a su música, continuarán siendo del gusto del público. “Estamos muy contentos con esta colaboración”, explicó Julio Ramírez en conferencia de prensa virtual. 

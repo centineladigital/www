@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "De dos sube a tres dígitos casos nuevos de coronavirus."
-image: /uploads/2021/images-GUMARO.jpg
-video: nil
-audio: /uploads/2021/audio-MW01_GUMARO_BARRIOS.mp3
-alt: Incrementan de 21 a 161 nuevos casos COVID
+image: "/uploads/2021/images-GUMARO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW01_GUMARO_BARRIOS.mp3"
+alt: "Incrementan de 21 a 161 nuevos casos COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 183748
 ---
 
 Un incremento de 21 casos a 161 se registró entre la actualización de datos de casos de coronavirus, esto según fue dado a conocer por parte del titular de la Subdirección de Epidemiología Gumaro Barrios.  Mientras que en casos de defunciones se acreditaron 29 dentro del estado.

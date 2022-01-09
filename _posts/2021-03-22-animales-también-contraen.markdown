@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Animales también contraen Covid; ya tienen una vacuna"
-image: /uploads/2021/images-2549289.jpg
-video: nil
-audio: nil
-alt: Animales también contraen Covid; ya tienen una vacuna
+image: "/uploads/2021/images-2549289.jpg"
+video: "nil"
+audio: "nil"
+alt: "Animales también contraen Covid; ya tienen una vacuna"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183505
 ---
 
 La tos de los gorilas del Zoológico del Safari Park de San Diego fueron el primer aviso. Pronto se confirmó lo que muchos temían: Un grupo de gorilas fueron los primeros simios que dieron positivo en pruebas del coronavirus.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Federica Quijano, integrante de Kabah, preocupó a sus fans al compartir imágenes desde el hospital con tanque de oxígeno; la operaron de emergencia. "
-image: /uploads/2021/images-operaron-emergencia-federica-quijano-kabah.jpg
-video: nil
-audio: nil
-alt: Federica Quijano de Kabah aparece con tanque de oxígeno desde hospital; la operaron de emergencia
+image: "/uploads/2021/images-operaron-emergencia-federica-quijano-kabah.jpg"
+video: "nil"
+audio: "nil"
+alt: "Federica Quijano de Kabah aparece con tanque de oxígeno desde hospital; la operaron de emergencia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181980
 ---
 
 Federica Quijano, integrante del grupo musical Kabah, tuvo que ser operada de emergencia debido a algunos problemas de salud. Fue a través de Instagram, en donde la famosa compartió una serie de fotografías en donde apareció usando tanque de oxígeno desde una cama de hospital. ¿Qué le pasó? Te contamos lo que dijo la cantante. La integrante de Kabah explicó que enfrenta un problema en el esófago tras venir arrastrando algunos problemas en su garganta. Su problema de salud estaba afectando sus cuerdas vocales debido a reflujo. 

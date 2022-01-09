@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Además, a la fecha se han contabilizado 131 mil 356 chihuahuenses que a través de la app Salud Digital reciben asesoría o atención médica "
-image: /uploads/2021/images-Dra_Avila1.jpg
-video: nil
-audio: nil
-alt: Suman 6 mil 369 chihuahuenses registrados como Monitor COVID
+image: "/uploads/2021/images-Dra_Avila1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Suman 6 mil 369 chihuahuenses registrados como Monitor COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 182372
 ---
 
 La subdirectora de Medicina Preventiva de la Secretaría de Salud, Wendy Ávila Coronado, informó que a la fecha se han registrado y están activos 6 mil 369 chihuahuenses como Monitor COVID, para vigilar en su entorno de influencia que se cumplan las medidas de prevención del coronavirus.

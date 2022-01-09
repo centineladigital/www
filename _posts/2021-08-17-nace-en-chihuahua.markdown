@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Celebra Gobernador Javier Corral que el acto de conformación se desarrolló en este estado, por tratarse de un mecanismo que nació en 2003 en Ciudad Juárez, ante los constantes reportes de desaparición de mujeres  "
-image: /uploads/2021/images-DSC_5497.JPG
-video: nil
-audio: nil
-alt: Nace en Chihuahua la Coordinación Nacional Técnica del Protocolo Alba
+image: "/uploads/2021/images-DSC_5497.JPG"
+video: "nil"
+audio: "nil"
+alt: "Nace en Chihuahua la Coordinación Nacional Técnica del Protocolo Alba"
 front: false
-section: Local
+section: "Local"
+news_id: 186815
 ---
 
 El gobernador Javier Corral encabezó  la ceremonia de conformación de la Coordinación Nacional Técnica del Protocolo Alba, por medio de la cual, autoridades de los tres órdenes de gobierno e instituciones de la sociedad civil, se coordinarán para consolidar la homologación de los procesos de búsqueda de mujeres desaparecidas.

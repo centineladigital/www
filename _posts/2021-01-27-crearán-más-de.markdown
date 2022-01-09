@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Dan a conocer la apertura de este programa para empresarios que radiquen dentro del municipio."
-image: /uploads/2021/images-JESUS.jpg
-video: nil
-audio: /uploads/2021/audio-MW05_JESUS_GARCIA.mp3
-alt: Crearán más de 100 apoyos dentro del programa de INCUBECH
+image: "/uploads/2021/images-JESUS.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW05_JESUS_GARCIA.mp3"
+alt: "Crearán más de 100 apoyos dentro del programa de INCUBECH"
 front: false
-section: Local
+section: "Local"
+news_id: 182501
 ---
 
 Este miércoles fue dada a conocer la convocatoria de INCUBECH, el cual es un programa de apoyo para microempresas y empresas donde se darán herramientas y apoyo a desarrollo económico, según fue dado a conocer por parte del titular de la Dirección de Desarrollo Económico en el municipio de Chihuahua, Jesús García López.

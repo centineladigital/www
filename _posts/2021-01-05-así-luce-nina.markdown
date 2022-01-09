@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Legarreta sorprendió a sus seguidores al publicar una fotografía de su hija menor para felicitarla por su cumpleaños, en donde luce verdaderamente hermosa. "
-image: /uploads/2021/images-andrea-legarreta-hija-nina-anos.jpg
-video: nil
-audio: nil
-alt: Así luce Nina, la hija menor de Andrea Legarreta que cumple 14 años
+image: "/uploads/2021/images-andrea-legarreta-hija-nina-anos.jpg"
+video: "nil"
+audio: "nil"
+alt: "Así luce Nina, la hija menor de Andrea Legarreta que cumple 14 años"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181873
 ---
 
 ¡Cómo pasa el tiempo! Hoy, Andrea Legarreta decidió compartir una fotografía de su hija menor, Nina Rubín, para escribirle una tierna felicitación por su cumpleaños ¡número 14! y por supuesto, dejó con la boca abierta a todos sus seguidores, pues la niña ha crecido mucho y es evidente que heredó toda la belleza de su madre.  Por supuesto, la fotografía que compartió Legarreta también provocó la ternura de sus seguidores, quienes no pudieron pasar por alto el amor con el que la actriz y conductora del programa Hoy hablaba de su hija pequeña mientras recordaba el día en que nació.  

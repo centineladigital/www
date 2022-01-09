@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La conferencia tuvo lugar en el marco de la Semana Mundial de la Lactancia materna que se celebra todos los años del 1 al 7 de agosto a fin de fomentar la lactancia y mejorar la salud de las mujeres y sus hijas e hijos"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Imparte Gobierno Municipal conferencia virtual sobre Lactancia materna
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Imparte Gobierno Municipal conferencia virtual sobre Lactancia materna"
 front: false
-section: Local
+section: "Local"
+news_id: 186281
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM) en conjunto con el Comité de Salud de Grupo Index, impartió vía Zoom la plática titulada “Lactancia materna” como parte del ciclo de conferencias “1, 2, 3 de la salud de la mujer” que se lleva a cabo con el objetivo de informar y orientar a las mujeres en el cuidado de la salud y prevención de distintas enfermedades.

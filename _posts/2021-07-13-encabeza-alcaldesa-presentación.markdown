@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El SIGMUN es la fuente oficial de datos espaciales del municipio, la cual almacena información, representada geográficamente; a través de ella, se organizan, analizan y comunican datos, para conocer y comprender el entorno municipal. Asimismo, cuenta con más de 150 temas.  "
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Encabeza Alcaldesa presentación del Sistema de Información Geográfica del Municipio
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Encabeza Alcaldesa presentación del Sistema de Información Geográfica del Municipio"
 front: false
-section: Local
+section: "Local"
+news_id: 185636
 ---
 
 María Angélica Granados Trespalacios, presidenta municipal, encabezó la presentación del Sistema de Información Geográfica del Municipio (SIGMUN), además de tomar protesta a los integrantes que conforman el consejo de este sistema.

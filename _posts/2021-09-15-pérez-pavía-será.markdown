@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Estará en tres comisiones más como vocal "
-image: /uploads/2021/images-unnamed.jpg
-video: /uploads/2021/videos-BW05_ISMAEL_PEREZ.mp4
-audio: nil
-alt:  Pérez Pavía será presidente de la comisión de municipalismo en el Congreso
+image: "/uploads/2021/images-unnamed.jpg"
+video: "/uploads/2021/videos-BW05_ISMAEL_PEREZ.mp4"
+audio: "nil"
+alt: " Pérez Pavía será presidente de la comisión de municipalismo en el Congreso"
 front: false
-section: Local
+section: "Local"
+news_id: 187775
 ---
 
 El legislador local declaró que asume esta responsabilidad con el mayor de los compromisos: mencionó que fue alcalde durante 5 años, y que conoce a la perfección las necesidades que día a día tienen los municipios;  su prioridad será buscar una iniciativa de ley para que se aumente el presupuesto de los municipios y se establezcan nuevos parámetros para la obtención de los fondos y aportaciones de la federación y del estado. 

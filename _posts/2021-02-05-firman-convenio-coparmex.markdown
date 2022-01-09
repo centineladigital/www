@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Capacitarán en diversos puntos a empresas con más de cien empleados."
-image: /uploads/2021/images-MONTOYA.jpg
-video: nil
-audio: /uploads/2021/audio-MV06_MAURICIO_MONTEMAYOR.mp3
-alt: Firman convenio COPARMEX y Aucutus México
+image: "/uploads/2021/images-MONTOYA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV06_MAURICIO_MONTEMAYOR.mp3"
+alt: "Firman convenio COPARMEX y Aucutus México"
 front: false
-section: Local
+section: "Local"
+news_id: 182750
 ---
 
 Con el fin de capacitar y ofrecer servicios de planeación este viernes se llevó a cabo la firma de un convenció entre la COPARMEX y la empresa Auctus Business Consulting, en el cual según lo detalló el director de este organismo en México, Mauricio Montemayor, busca que se tenga una mejor táctica de gastos, comercial de gestión y ventas de los empresarios en el estado.

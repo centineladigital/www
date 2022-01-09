@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Estas declaraciones provocaron reacciones variadas entre los internautas: algunos alabaron sus dotes actorales mientras otros señalaron que es muy arrogante. "
-image: /uploads/2021/images-lucia-mendez....jpg
-video: nil
-audio: nil
-alt: No puedo hacer cualquier cosa -  Lucía Méndez revela por qué no ha vuelto a las telenovelas
+image: "/uploads/2021/images-lucia-mendez....jpg"
+video: "nil"
+audio: "nil"
+alt: "No puedo hacer cualquier cosa -  Lucía Méndez revela por qué no ha vuelto a las telenovelas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186462
 ---
 
 Lucía Méndez ha aprovechado la pandemia de covid-19 para generar contenido en redes sociales, al grado que su programa de entrevistas en YouTube ya tiene más de 150 mil suscriptores, aunque esto ha ocasionado que sus fans se pregunten si la famosa volverá alguna vez a la televisión. 

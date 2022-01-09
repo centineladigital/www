@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Destaca acciones de combate a la corrupción y acciones dentro de la pandemia."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-ML03_JAVIER_CORRAL.mp3
-alt: Entrega Corral IV Informe
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML03_JAVIER_CORRAL.mp3"
+alt: "Entrega Corral IV Informe"
 front: false
-section: Local
+section: "Local"
+news_id: 182607
 ---
 
 Este lunes el Gobernador de Chihuahua, Javier Corral Jurado, hizo entrega de su IV Informe de actividades esto ante el Congreso del Estado. En un evento que se dio a conocer virtualmente donde el mandatario recalcó acciones importantes en su administración en especifico en el combate y castigo a la corrupción.

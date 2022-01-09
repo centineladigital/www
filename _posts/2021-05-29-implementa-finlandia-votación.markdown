@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las autoridades de Finlandia aplican un sistema de votación desde el automóvil de cara a las elecciones locales, para evitar un rebrote de covid-19"
-image: /uploads/2021/images-2586442.jpg
-video: nil
-audio: nil
-alt: Implementa Finlandia votación en auto para evitar rebrote de covid
+image: "/uploads/2021/images-2586442.jpg"
+video: "nil"
+audio: "nil"
+alt: "Implementa Finlandia votación en auto para evitar rebrote de covid"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184729
 ---
 
 La fila se alarga sobre las pistas de un aeropuerto abandonado de los suburbios de Helsinki, donde, para evitar un rebrote de covid-19, se aplica un sistema de votación desde el automóvil de cara a las elecciones locales finlandesas.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Juan Osorio se sinceró y contó que hace unos años agredió físicamente a sus papás, esto cuando tenía problemas de adicciones. "
-image: /uploads/2021/images-juan-osorio-conto-golpeo-papas.jpg
-video: nil
-audio: nil
-alt: Estoy arrepentidísimo -  Juan Osorio revela que agredió físicamente a sus padres
+image: "/uploads/2021/images-juan-osorio-conto-golpeo-papas.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estoy arrepentidísimo -  Juan Osorio revela que agredió físicamente a sus padres"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184315
 ---
 
 Juan Osorio es un productor que cada que tiene contacto con los medios de comunicación no duda en hablar con ellos y contestar casi todo lo que le preguntan, en esta ocasión, el papá de Emilio Osorio reveló que hace un tiempo agredió físicamente a sus padres, esto cuando él tenía problemas de adicciones. En una entrevista con varios medios, la cual fue retomada por De Primera Mano, Juan Osorio habló sobre las declaraciones que dio anteriormente sobre que podría darle trabajo a Eleazar Gómez ahora que salió de la cárcel tras ser detenido por agredir a Tefi Valenzuela. 

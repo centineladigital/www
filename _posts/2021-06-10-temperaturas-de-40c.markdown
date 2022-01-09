@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ojinaga llegará a 43°C, Jiménez 38°C, Janos 39°C, Delicias 41°C, Camargo 40°C y Parral 36°C, informa la dependencia estatal; se prevén lluvias para Buenaventura, Namiquipa, Guerrero, Bocoyna y Cuauhtémoc"
-image: /uploads/2021/images-CALOR_CUU_MUJER_SOMBRILLA.JPG
-video: nil
-audio: nil
-alt: Temperaturas de 40°C en Juárez y 38°C en la capital -  Protección Civil
+image: "/uploads/2021/images-CALOR_CUU_MUJER_SOMBRILLA.JPG"
+video: "nil"
+audio: "nil"
+alt: "Temperaturas de 40°C en Juárez y 38°C en la capital -  Protección Civil"
 front: false
-section: Local
+section: "Local"
+news_id: 184966
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) alertó a la población por las elevadas temperaturas que se registrarán este jueves 10 de junio en varios municipios, como Ojinaga a 43°C, Chihuahua y Jiménez 38°C, Juárez 40°C, Janos 39°C, Delicias 41°C, Camargo 40°C, y Parral 36°C.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La reunión surgió para poder aprovechar y generar las relaciones con las transiciones de gobierno para poder llevar una buena relación y coadyuvar en sus futuras administraciones. "
-image: /uploads/2021/images-WhatsApp_Image_2021-08-17_at_13.38.51.jpeg
-video: /uploads/2021/videos-WhatsApp_Video_2021-08-17_at_15.29.59.mp4
-audio: nil
-alt: Recibe Maru Campos a Alejandro Encinas para revisión de agenda de Derechos Humanos
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-17_at_13.38.51.jpeg"
+video: "/uploads/2021/videos-WhatsApp_Video_2021-08-17_at_15.29.59.mp4"
+audio: "nil"
+alt: "Recibe Maru Campos a Alejandro Encinas para revisión de agenda de Derechos Humanos"
 front: false
-section: Local
+section: "Local"
+news_id: 186792
 ---
 
 En seguimiento a las acciones del proceso de transición del Gobierno Estatal, la Gobernadora Electa del Estado de Chihuahua, Maru Campos, recibió esta mañana a Alejandro Encinas, Subsecretario de Derechos Humanos del Gobierno Federal con el objetivo de atender la agenda de Derechos Humanos de nuestra entidad.

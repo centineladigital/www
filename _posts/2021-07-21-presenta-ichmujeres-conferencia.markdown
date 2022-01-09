@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La plática fue dirigida a personal de los CAVIM en el marco del Día Internacional del Trabajo Doméstico que se conmemora cada 22 de julio  "
-image: /uploads/2021/images-FOTO_005.jpg
-video: nil
-audio: nil
-alt: Presenta Ichmujeres conferencia sobre dignificación de los derechos de las trabajadoras del hogar
+image: "/uploads/2021/images-FOTO_005.jpg"
+video: "nil"
+audio: "nil"
+alt: "Presenta Ichmujeres conferencia sobre dignificación de los derechos de las trabajadoras del hogar"
 front: false
-section: Local
+section: "Local"
+news_id: 185879
 ---
 
 El departamento de Educación y Sensibilización en Género del Instituto Chihuahuense de las Mujeres (Ichmujeres) organizó una conferencia virtual con personal de los Centros de Atención a la Violencia contra las Mujeres  (CAVIM) sobre la dignificación de los derechos de las trabajadoras del hogar, en el marco del Día Internacional del Trabajo Doméstico, que se conmemora el 22 de julio.

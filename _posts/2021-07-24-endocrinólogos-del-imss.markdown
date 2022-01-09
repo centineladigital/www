@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Atienden hipotiroidismo, hipertiroidismo, nódulos, bocios y disfunciones hormonales en recién nacidos y adultos mayores"
-image: /uploads/2021/images-PHOTO-2021-07-24-12-17-45.jpg
-video: nil
-audio: nil
-alt: Endocrinólogos del IMSS, expertos en atender alteraciones hormonales y prevenir tumoraciones malignas
+image: "/uploads/2021/images-PHOTO-2021-07-24-12-17-45.jpg"
+video: "nil"
+audio: "nil"
+alt: "Endocrinólogos del IMSS, expertos en atender alteraciones hormonales y prevenir tumoraciones malignas"
 front: false
-section: Local
+section: "Local"
+news_id: 185979
 ---
 
 Endocrinólogos del Instituto Mexicano del Seguro Social (IMSS) atienden en Hospitales Generales de Zona y Unidades Médicas de Alta Especialidad a pacientes recién nacidos y adultos mayores con alteraciones hormonales en Tiroides y otros órganos, a fin de evitar complicaciones como tumores malignos.

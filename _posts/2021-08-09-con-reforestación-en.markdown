@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En el marco del Día Internacional de la Juventud, conmemorado el 12 de agosto, el Ichijuv invita a participar en las actividades presenciales y virtuales, al registrarse en el enlace bit.ly/EncuentrodeJuv21   "
-image: /uploads/2021/images-IMG_6478.jpg
-video: nil
-audio: nil
-alt: Con reforestación en Aldama, inicia Encuentro de Juventudes 2021
+image: "/uploads/2021/images-IMG_6478.jpg"
+video: "nil"
+audio: "nil"
+alt: "Con reforestación en Aldama, inicia Encuentro de Juventudes 2021"
 front: false
-section: Local
+section: "Local"
+news_id: 186494
 ---
 
 El Instituto Chihuahuense de la Juventud (Ichijuv) inició el Encuentro de Juventudes 2021 (EJ2021) este 7 de agosto en Aldama, con la reforestación del corredor en la carretera de entrada a la ciudad y el reto basura challenge en el libramiento.

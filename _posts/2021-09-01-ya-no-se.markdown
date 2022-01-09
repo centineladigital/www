@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz y cantante fue invitada al programa en YouTube del 'Escorpión Dorado'. "
-image: /uploads/2021/images-actriz-cantante-invitada-programa-escorpion.jpg
-video: nil
-audio: nil
-alt: Ya no se acordaban que estaba aquí -  Maribel Guardia recuerda el día que la corrieron de Televisa
+image: "/uploads/2021/images-actriz-cantante-invitada-programa-escorpion.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ya no se acordaban que estaba aquí -  Maribel Guardia recuerda el día que la corrieron de Televisa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187352
 ---
 
 Maribel Guardia es una de las celebridades más populares en México, esto debido a lo versátil de su carrera, que se ha nutrido principalmente de la actuación, la música y el modelaje. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En un operativo, la Sedena, el INM y la Policía Estatal de Tamaulipas, lograron liberar a 110 migrantes de origen centroamericano que se localizaban en una casa de seguridad"
-image: /uploads/2021/images-2585398.jpg
-video: nil
-audio: nil
-alt: Liberan a 110 migrantes de casa de seguridad en Tamaulipas
+image: "/uploads/2021/images-2585398.jpg"
+video: "nil"
+audio: "nil"
+alt: "Liberan a 110 migrantes de casa de seguridad en Tamaulipas"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184682
 ---
 
 A través de un operativo integrado por personal de la Secretaría de la Defensa Nacional (Sedena), Instituto Nacional de Migración y Policía Estatal de Tamaulipas, lograron liberar a 110 migrantes de origen centroamericano que se localizaban en una casa de seguridad y entre los cuales había siete menores de edad.

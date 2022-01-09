@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Están citando a los titulares de varias instituciones, pues es un proceso para discutir la falta de pago a Pensiones por parte de algunos entes"
-image: /uploads/2021/images-FDFGGN.jpg
-video: nil
-audio: /uploads/2021/audio-AM04_RENE_FRIAS_BENCOMO.mp3
-alt: Analizarán diputados y el rector deuda con Pensiones Civiles -  Rene Frías 
+image: "/uploads/2021/images-FDFGGN.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AM04_RENE_FRIAS_BENCOMO.mp3"
+alt: "Analizarán diputados y el rector deuda con Pensiones Civiles -  Rene Frías "
 front: false
-section: Local
+section: "Local"
+news_id: 182272
 ---
 
 El diputado de Nueva Alianza, René Frías informó  que este miércoles 20 de enero se reunirá la Comisión Especial para el Fortalecimiento de Pensiones Civiles del Estado (PCE) con el Rector de la Universidad Autónoma de Chihuahua (UACH), Luis Alberto Fierro Ramírez.

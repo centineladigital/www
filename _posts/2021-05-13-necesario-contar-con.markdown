@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El objetivo de proteger a la población que se encuentra desempleado y tardan semanas en poder volver a acomodarse en el mercado laboral."
-image: /uploads/2021/images-AMERICA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ03_AMERICA_AGUILAR.mp3
-alt: Necesario contar con seguro de desempleo -  PT
+image: "/uploads/2021/images-AMERICA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ03_AMERICA_AGUILAR.mp3"
+alt: "Necesario contar con seguro de desempleo -  PT"
 front: false
-section: Local
+section: "Local"
+news_id: 184449
 ---
 
 Dentro de las propuestas para obtener el triunfo la candidata al distrito 17 por la coalición Juntos Haremos Historia, América Aguilar Gil, señaló que es necesario contar con un seguro de desempleo. 

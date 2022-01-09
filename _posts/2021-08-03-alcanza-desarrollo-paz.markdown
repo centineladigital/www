@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Desarrollo Municipal logró la integración de 360 Comités de Participación Ciudadana en 62 municipios; muchas de las obras se realizaron con recursos del Fondo de Reparación Justicia para Chihuahua "
-image: /uploads/2021/images-IMG_0606.JPG
-video: nil
-audio: /uploads/2021/audio-7-_CÁPSULA_PROG_DES_PAZ_Y_REENCUENTRO_PROGRAMA_LOGROS_CON_VALOR_SRIA_DES_MPAL_3-8-21.MP3
-alt: Alcanza Desarrollo, Paz y Reencuentro 507 obras  con inversión de 454.4 mdp
+image: "/uploads/2021/images-IMG_0606.JPG"
+video: "nil"
+audio: "/uploads/2021/audio-7-_CÁPSULA_PROG_DES_PAZ_Y_REENCUENTRO_PROGRAMA_LOGROS_CON_VALOR_SRIA_DES_MPAL_3-8-21.MP3"
+alt: "Alcanza Desarrollo, Paz y Reencuentro 507 obras  con inversión de 454.4 mdp"
 front: false
-section: Local
+section: "Local"
+news_id: 186247
 ---
 
 Con el objetivo de reactivar a la sociedad y hacerla partícipe de su desarrollo, el gobernador Javier Corral creó el Programa Desarrollo, Paz y Reencuentro, que permitió la realización de 507 obras en 62 municipios, con una inversión global entre Estado, municipios y beneficiarios, de 454.4 millones de pesos (mdp).

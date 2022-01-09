@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente Andrés Manuel López Obrador dijo en conferencia de prensa que el estado de Campeche cuenta con condiciones para volver a las aulas"
-image: /uploads/2021/images-2539728.jpg
-video: nil
-audio: nil
-alt: López Obrador propone regreso a clases en Campeche para abril
+image: "/uploads/2021/images-2539728.jpg"
+video: "nil"
+audio: "nil"
+alt: "López Obrador propone regreso a clases en Campeche para abril"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183286
 ---
 
 El presidente Andrés Manuel López Obrador ofreció su tradicional conferencia de prensa desde Palacio Nacional la mañana de este viernes.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La falta de atención médica para los agremiados ha generado la inconformidad, lo que ha desatado una serie de acciones por parte de estos a fin de exigir que se les respeten sus derechos"
-image: /uploads/2021/images-maestros_inconformes.jpeg
-video: nil
-audio: nil
-alt: Cierran calles los docentes inconformes
+image: "/uploads/2021/images-maestros_inconformes.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Cierran calles los docentes inconformes"
 front: false
-section: Local
+section: "Local"
+news_id: 182668
 ---
 
 Gran caos vial armaron los docentes agremiados a la Sección 42 del SNTE quienes para exigir respeto derecho a la salud bloquearon las principales calles de la zona centro.

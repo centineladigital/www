@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La platilla albiceleste regresó a Argentina este domingo por la mañana luego de la consagración de anoche en el Maracaná como campeón de su 15º Copa América ante el anfitrión Brasil y fue recibido por miles de fanáticos. "
-image: /uploads/2021/images-argentina-campeon-de-la-copa_0_53_1100_683.jpg
-video: nil
-audio: nil
-alt: ¡Una locura! Una multitud recibe a Argentina en su regreso a Buenos Aires con el título de la Copa América
+image: "/uploads/2021/images-argentina-campeon-de-la-copa_0_53_1100_683.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Una locura! Una multitud recibe a Argentina en su regreso a Buenos Aires con el título de la Copa América"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185554
 ---
 
 Pese a las restricciones por la pandemia del coronavirus vigentes, muchos hinchas se volcaron a las calles para saludar el paso de los campeones que en dos micros recorrieron los casi dos kilómetros que separa el Aeropuerto internacional del Predio de la Asociación del Futbol Argentino (AFA), ambos en la localidad bonaerense de Ezeiza. 

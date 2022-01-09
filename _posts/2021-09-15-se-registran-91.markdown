@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El número de personas que han perdido la vida por Covid-19 suma 7,889 (+11), qué corresponden a los municipios dd Juárez (+3), Chihuahua (+ 1), Delicias (+4), Camargo (+1) y Rosales (+2)."
-image: /uploads/2021/images-WhatsApp_Image_2021-09-15_at_12.28.29.jpeg
-video: nil
-audio: nil
-alt: Se registran 91 nuevos casos de COVID - 19  en el estado de Chihuahua 
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-15_at_12.28.29.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Se registran 91 nuevos casos de COVID - 19  en el estado de Chihuahua "
 front: false
-section: Local
+section: "Local"
+news_id: 187759
 ---
 
 Hasta las 7 hrs del 14 de Septiembre del 2021, el tenemos en el estado de Chihuahua un total general de 76,916 (+91) casos confirmados de Covid-19, 66,009 (+115) recuperados, 63,605 (+593) descartados y 756 (-46) sospechosos.

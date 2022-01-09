@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se trabajará de la misma forma en la realización de las elecciones ya que las decisiones son colegiadas."
-image: /uploads/2021/images-MESTA1.jpg
-video: nil
-audio: /uploads/2021/audio-MV03_FERNANDO_MESTA.mp3
-alt: Cambios en IEE no afectan elecciones -  Mesta
+image: "/uploads/2021/images-MESTA1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV03_FERNANDO_MESTA.mp3"
+alt: "Cambios en IEE no afectan elecciones -  Mesta"
 front: false
-section: Local
+section: "Local"
+news_id: 184468
 ---
 
 Los cambios que se registraron dentro del Instituto Estatal Electoral o IEE, por sus siglas, no afectan la realización de las elecciones, fueron las palabras del Secretario General de Gobierno, Fernando Mesta Soulé.

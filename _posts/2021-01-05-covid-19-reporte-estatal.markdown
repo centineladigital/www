@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Salud informa de un fallecimiento y 125 nuevos contagios en las últimas 24 horas"
-image: /uploads/2021/images-1.jpg
-video: nil
-audio: nil
-alt: COVID-19 reporte estatal -  46,602 casos confirmados y 4,301 decesos
+image: "/uploads/2021/images-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "COVID-19 reporte estatal -  46,602 casos confirmados y 4,301 decesos"
 front: false
-section: Local
+section: "Local"
+news_id: 181880
 ---
 
 La Secretaría de Salud informó que en las últimas 24 horas se tienen en el estado un total general de 46 mil 602 casos confirmados de COVID-19 con 125 nuevos contagios, mientras que el número de personas fallecidas es de 4 mil 301, ya que en ese lapso se sumó un deceso.

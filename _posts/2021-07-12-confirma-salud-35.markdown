@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El registro total es de 71 mil 158 positivos y 7 mil 631 defunciones en la pandemia; el municipio de Juárez está a la cabeza en casos activos con 203, seguido de Chihuahua con 170."
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Confirma Salud  35 contagios y 5 decesos en el último reporte epidemiológico COVID-19
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Confirma Salud  35 contagios y 5 decesos en el último reporte epidemiológico COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 185563
 ---
 
 La pandemia por coronavirus en el estado de Chihuahua lleva un acumulado de 71 mil 158 contagios y 7 mil 631 decesos, de acuerdo al último reporte epidemiológico que emite la Secretaría de Salud.

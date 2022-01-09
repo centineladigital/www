@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Manelyk González, participante de Acapulco Shore mostró sus estrías con una foto en bikini; mandó un mensaje a todas las mujeres. "
-image: /uploads/2021/images-manelyk-rodriguez-mostro-sus-estrias.jpg
-video: nil
-audio: nil
-alt: Es cómo las portes -  En bikini, Manelyk González muestra orgullosa sus estrías
+image: "/uploads/2021/images-manelyk-rodriguez-mostro-sus-estrias.jpg"
+video: "nil"
+audio: "nil"
+alt: "Es cómo las portes -  En bikini, Manelyk González muestra orgullosa sus estrías"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181827
 ---
 
 La integrante más popular de Acapulco Shore, Manelyk González, es una de las participantes de dicho programa que no tiene tapujos para decir y mostrar su opinión y aunque siempre se ha caracterizado por tener una figura escultural, Mane publicó hace poco una foto de ella en bikini en donde mostró sus estrías. Muchas mujeres prefieres ocultar que tienen estas marcas en la piel, pero Manelyk González decidió dejar atrás estos complejos  y subió una foto en donde muestra orgullosa las estrías que tiene. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Harvey Weinstein será trasladado de Nueva York a California en donde enfrenta once casos en su contra; su defensa trató de evitar su extradición."
-image: /uploads/2021/images-espera-productor-cine-trasladado-semanas.jpg
-video: nil
-audio: nil
-alt: Harvey Weinstein será trasladado a Los Ángeles para enfrentar más cargos de acoso y abuso sexual
+image: "/uploads/2021/images-espera-productor-cine-trasladado-semanas.jpg"
+video: "nil"
+audio: "nil"
+alt: "Harvey Weinstein será trasladado a Los Ángeles para enfrentar más cargos de acoso y abuso sexual"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185058
 ---
 
 Las acusaciones en contra de Harvey Weinstein aún no terminan, un juez federal dictaminó este martes que el productor de cine será trasladado durante las dos primeras semanas de julio a California, estado en el que enfrenta otros cargos similares de los que ha sido ya condenado en Nueva York. 

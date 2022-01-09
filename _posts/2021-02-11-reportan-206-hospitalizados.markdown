@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Intubados 56 personas, piden continuar con medidas sanitarias."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-MJ03_WENDY_AVILA.mp3
-alt: Reportan 206 hospitalizados
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ03_WENDY_AVILA.mp3"
+alt: "Reportan 206 hospitalizados"
 front: false
-section: Local
+section: "Local"
+news_id: 182879
 ---
 
 Solamente 206 personas se encuentran hospitalizadas, de estas 56 han tenido que ser intubados, según lo dio a conocer la Subdirectora de Medicina Preventiva y Promoción de la Salud Wendy Ávila Coronado. Esto con un reporte de 28 de los 30 hospitales que tratan esta enfermedad.

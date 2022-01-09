@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se extiende un día más plazo para aplicar la primera dosis del biológico en Ciudad Juárez"
-image: /uploads/2021/images-DSC_3140.JPG
-video: nil
-audio: nil
-alt: Exhorta Salud a mayores de 60 años acudir a La Rodadora para vacunarse
+image: "/uploads/2021/images-DSC_3140.JPG"
+video: "nil"
+audio: "nil"
+alt: "Exhorta Salud a mayores de 60 años acudir a La Rodadora para vacunarse"
 front: false
-section: Local
+section: "Local"
+news_id: 183920
 ---
 
 La Secretaría de Salud exhorta a los adultos mayores juarenses a asistir al Museo Interactivo “La Rodadora”, toda vez que se decidió extender un día más la aplicación de la primera dosis de la vacunación anti-COVID en esa frontera.

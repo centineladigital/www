@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Siempre va a contar con nosotros, en cualquier circunstancia, por ser un hombre de ideas y una persona honesta, que es lo que yo estimo más importante en mi vida y en la vida pública, destaca Andrés Manuel López Obrador   "
-image: /uploads/2021/images-DSC_3681.JPG
-video: nil
-audio: nil
-alt: Reconoce Presidente de México buen Gobierno y honestidad de Javier Corral
+image: "/uploads/2021/images-DSC_3681.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reconoce Presidente de México buen Gobierno y honestidad de Javier Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 186463
 ---
 
 En su gira de trabajo por Ciudad Juárez, el presidente Andrés Manuel López Obrador hizo un reconocimiento público al gobernador de Chihuahua, Javier Corral Jurado y destacó que siempre contará con su apoyo por ser un hombre de ideas y una persona honesta.

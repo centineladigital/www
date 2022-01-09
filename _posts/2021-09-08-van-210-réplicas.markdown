@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Sismológico explicó que el número de las réplicas puede variar desde unos cuantos hasta cientos de eventos en los próximos días o semanas"
-image: /uploads/2021/images-informados-acerca-fenomenos-naturales-utilidad_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Van 210 réplicas por sismo de 7.1 de ayer -  SSN
+image: "/uploads/2021/images-informados-acerca-fenomenos-naturales-utilidad_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Van 210 réplicas por sismo de 7.1 de ayer -  SSN"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187539
 ---
 
 El Servicio Sismológico Nacional (SSN) informó que hasta las 11:00 horas del miércoles, se han registrado 210 réplicas del sismo de magnitud 7.1, ocurrido ayer a 11 kilómetros al sureste de Acapulco, Guerrero. La más grande fue de magnitud 5.2, a las 21:18 horas. 

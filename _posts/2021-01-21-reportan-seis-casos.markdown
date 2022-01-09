@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Liga MX reveló los resultados de las pruebas de coronavirus aplicadas en el club azulcrema"
-image: /uploads/2021/images-2516129.jpg
-video: nil
-audio: nil
-alt: Reportan seis casos positivos de covid-19 en América
+image: "/uploads/2021/images-2516129.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reportan seis casos positivos de covid-19 en América"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182342
 ---
 
 Poco después de que la Liga MX diera a conocer la reprogramación del partido entre América y FC Juárez, también reveló los resultados de las pruebas de Covid-19 aplicadas en Coapa, mismas que arrojaron un total de seis positivos, tal como el comunicado detalló.

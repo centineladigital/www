@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se confirman 58 nuevos fallecimientos en el último reporte epidemiológico del sector Salud; a la fecha suman 53 mil 934 casos y 5 mil 169 defunciones en el estado"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Muestra alza registro de contagios de COVID-19 con 247 nuevos casos
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Muestra alza registro de contagios de COVID-19 con 247 nuevos casos"
 front: false
-section: Local
+section: "Local"
+news_id: 183173
 ---
 
 La Secretaría de Salud informó que se tienen en el estado de Chihuahua un total general de 53 mil 934 casos confirmados de COVID-19, mientras que el número de personas fallecidas es 5 mil 169.

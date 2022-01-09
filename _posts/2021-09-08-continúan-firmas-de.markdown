@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A las 10:00 de la mañana se celebró la entrega del Despacho del Gobernador en el Salón Rojo"
-image: /uploads/2021/images-WhatsApp_Image_2021-09-08_at_12.45.19.jpeg
-video: nil
-audio: nil
-alt: Continúan firmas de actas de entrega-recepción en Palacio de Gobierno
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-08_at_12.45.19.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Continúan firmas de actas de entrega-recepción en Palacio de Gobierno"
 front: false
-section: Local
+section: "Local"
+news_id: 187547
 ---
 
 Como parte del inicio de la gestión de Maru Campos Galván al frente del Gobierno del Estado, este día en Palacio de Gobierno se desarrollaron los actos de firma de actas de la entrega-recepción de las diversas dependencias de la estructura gubernamental.

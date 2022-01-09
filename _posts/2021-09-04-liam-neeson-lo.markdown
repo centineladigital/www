@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El director Jonathan Hensleigh charló con M2 sobre su nueva cinta, la cual admite que estaba pensada para alguien “un poco más joven”. "
-image: /uploads/2021/images-liam-neeson-protagoniza-riesgo-cero.jpg
-video: nil
-audio: nil
-alt: ¡Liam Neeson lo hace de nuevo! Con acción y clima extremo, sorprende en 'Riesgo Bajo Cero'
+image: "/uploads/2021/images-liam-neeson-protagoniza-riesgo-cero.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Liam Neeson lo hace de nuevo! Con acción y clima extremo, sorprende en 'Riesgo Bajo Cero'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187428
 ---
 
 Más allá de la saga de Star Wars, Liam Neeson logró una marca personal dentro del cine de acción, con decenas de historias que lo consagraron como uno de los favoritos del público y, por ende, un imán en la taquilla. Estas cualidades no podían ser ignoradas cuando el actor de 69 años pidió al cineasta Jonathan Hensleigh que lo colocara a la cabeza del elenco de Riesgo bajo cero, un thriller de acción que tomó forma en las llamadas rutas de hielo, en Canadá. 

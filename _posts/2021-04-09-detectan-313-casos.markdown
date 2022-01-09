@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se incrementan de forma considerable nuevos casos de pacientes de coronavirus."
-image: /uploads/2021/images-arturo.jpg
-video: nil
-audio: /uploads/2021/audio-MV01_ARTURO_VALENZUELA.mp3
-alt: Detectan 313 casos COVID
+image: "/uploads/2021/images-arturo.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV01_ARTURO_VALENZUELA.mp3"
+alt: "Detectan 313 casos COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 183797
 ---
 
 Un total de 313 casos de personas que dieron positivo a PCR, fueron detectadas en las últimas horas, mientras que se concluyó con la acreditación de 18 defunciones por motivo de coronavirus según dio a conocer el Director Médico Zona Norte, Arturo Valenzuela Zorrilla.

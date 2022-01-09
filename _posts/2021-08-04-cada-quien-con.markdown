@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aunque en ocasiones ha causado polémica por sus comentarios, Carmen Salinas ha asegurado que no volverá a opinar sobre otros famosos."
-image: /uploads/2021/images-carmen-salinas-caracterizado-opinion-famosos.jpg
-video: nil
-audio: nil
-alt: Cada quien con su problema -  Carmen Salinas asegura ya no opinará sobre la vida de los famosos
+image: "/uploads/2021/images-carmen-salinas-caracterizado-opinion-famosos.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cada quien con su problema -  Carmen Salinas asegura ya no opinará sobre la vida de los famosos"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186306
 ---
 
 En entrevista con varios medios, la cual fue retomada por De Primera Mano, Carmen Salinas declaró que ahora cada que la prensa se acerque a ella no hablará sobre los escándalos o problemas que tengan sus compañeros actores o conductores. 

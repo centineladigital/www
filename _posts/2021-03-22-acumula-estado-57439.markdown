@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Dan positivo 32 personas más y se confirma un deceso en el municipio de Camargo; a lo largo de la pandemia 49,740 personas se han recuperado, de ellos 26,124 corresponden a Juárez y 12,976 a Chihuahua"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Acumula estado 57,439 contagios y 5,581 defunciones por COVID-19
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Acumula estado 57,439 contagios y 5,581 defunciones por COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 183501
 ---
 
 A lo largo de la pandemia suman en la entidad 54 mil 543 contagios acumulados y 5 mil 256 defunciones por COVID-19, de acuerdo con el reporte epidemiológico de este 22 de marzo que emite la Secretaría de Salud.

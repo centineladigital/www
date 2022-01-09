@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las autoridades han decretado confinamientos y la aplicación de pruebas masivas en China; los nuevos focos se localizan en la región de Fujian y la municipalidad de Chongqing"
-image: /uploads/2021/images-china-decretado-confinamientos-masivos-aumento_0_38_1024_637.jpg
-video: nil
-audio: nil
-alt: China atribuye repunte a variante Delta del covid; registra dos nuevos focos de contagio
+image: "/uploads/2021/images-china-decretado-confinamientos-masivos-aumento_0_38_1024_637.jpg"
+video: "nil"
+audio: "nil"
+alt: "China atribuye repunte a variante Delta del covid; registra dos nuevos focos de contagio"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186161
 ---
 
 China atribuyó a la variante Delta el peor repunte de coronavirus registrado en el país durante los últimos meses. Además, indicó que registra dos nuevos focos de contagio en la región de Fujian y la municipalidad de Chongqing. 

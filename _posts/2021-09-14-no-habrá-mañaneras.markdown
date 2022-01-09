@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El presidente López Obrador aseguró que la ceremonia del Grito de Independencia va a ser una va a ser una sorpresa, un un espectáculo cívico de primer orden, dijo. "
-image: /uploads/2021/images-amlo-en-la-mananera-hoy_108_121_1091_679.jpeg
-video: nil
-audio: nil
-alt: No habrá mañaneras el 15 y 16 de septiembre por fiestas patrias, informó AMLO
+image: "/uploads/2021/images-amlo-en-la-mananera-hoy_108_121_1091_679.jpeg"
+video: "nil"
+audio: "nil"
+alt: "No habrá mañaneras el 15 y 16 de septiembre por fiestas patrias, informó AMLO"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187703
 ---
 
 El presidente Andrés Manuel López Obrador informó que por motivo de las fiestas patrias, no habrá Mañaneras el 15 y 16 de septiembre, ya que está haciendo los preparativos de los actos cívicos, donde aseguró que sera una ceremonia excepcional, "va a ser un espectáculo cívico de primer orden, una gran sorpresa", dice. 

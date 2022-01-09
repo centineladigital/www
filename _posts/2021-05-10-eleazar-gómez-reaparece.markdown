@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A poco más de un mes de salir de la cárcel, el actor reapareció en redes sociales donde compartió imágenes de la reunión que celebró con su familia. "
-image: /uploads/2021/images-eleazar-gomez-reaparece-fiesta-hermana_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Eleazar Gómez reaparece en fiesta con su hermana Zoraida tras salir de prisión
+image: "/uploads/2021/images-eleazar-gomez-reaparece-fiesta-hermana_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Eleazar Gómez reaparece en fiesta con su hermana Zoraida tras salir de prisión"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184382
 ---
 
 Eleazar Gómez recurrió a sus redes sociales para compartir imágenes de la fiesta que tuvo en compañía de su familia, a poco más de un mes de haber obtenido libertad condicional por tres años luego de pasar cinco meses detenido en el Reclusorio Varonil Norte por agredir físicamente a su ex pareja, la modelo peruana Tefi Valenzuela. 

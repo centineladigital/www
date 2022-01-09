@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Mantiene Secretaría de Educación y Deporte Estado importante vinculación con la Embajada Británica; ofrecen además, Becas Chevening para estudiar una maestría de un año en aquel país europeo. Mayores informes en https://www.chevening.org/ o en redes sociodigitales @cheveningfcdo   "
-image: /uploads/2021/images-O1.jpg
-video: nil
-audio: nil
-alt: Dan a conocer oportunidades educativas  en el Reino Unido
+image: "/uploads/2021/images-O1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Dan a conocer oportunidades educativas  en el Reino Unido"
 front: false
-section: Local
+section: "Local"
+news_id: 186843
 ---
 
 La Secretaría de Educación y Deporte (SEyD) organizó una reunión virtual en la que personal de la Embajada Británica en México expuso las oportunidades educativas en el Reino Unido, así como el trabajo realizado en conjunto con el Estado de Chihuahua para el desarrollo del Estudio de Habilidades de la Fuerza Laboral del Sector Automotriz.

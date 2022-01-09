@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Tratan temas por parte de personal de Centros de Integración Juvenil"
-image: /uploads/2021/images-AD1.jpeg
-video: nil
-audio: /uploads/2021/audio-MJ05_ADRIAN_RIOS.mp3
-alt: Capacitan a personal de TSJ en depresión y consumo de drogas
+image: "/uploads/2021/images-AD1.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ05_ADRIAN_RIOS.mp3"
+alt: "Capacitan a personal de TSJ en depresión y consumo de drogas"
 front: false
-section: Local
+section: "Local"
+news_id: 183469
 ---
 
 De forma virtual se lleva a cabo una conferencia sobre sobre depresión y consumo de drogas, la cual fue impartida por parte del director de la Unidad de Hospitalización de Centro de Integración Juvenil,  Adrián Ríos Mendoza.

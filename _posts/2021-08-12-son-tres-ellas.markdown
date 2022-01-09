@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aunque Lyn May siempre ha hablado de su vida privada, muy poco se sabe sobre quiénes son las hijas que tuvo la vedette. "
-image: /uploads/2021/images-lyn-may-padre-hijas-mayores.jpg
-video: nil
-audio: nil
-alt: ¡Son tres! Ellas son las poco conocidas hijas de Lyn May
+image: "/uploads/2021/images-lyn-may-padre-hijas-mayores.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Son tres! Ellas son las poco conocidas hijas de Lyn May"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186602
 ---
 
 Recientemente Lyn May causó revuelo después de anunciar que supuestamente tenía tres meses de embarazo, sin embargo, todo se trató de una broma, pero sin duda esta noticia causó que muchas personas se preguntaran si la vedette tenía hijos y la respuesta es sí. Lyn May ha contado que tiene tres hijas. 

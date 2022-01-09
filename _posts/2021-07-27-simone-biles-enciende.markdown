@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La figura estadunidense abandonó el escenario con el médico del equipo y regresó unos minutos después; aunque se anunció que no disputaría la final"
-image: /uploads/2021/images-simone-biles-reuters-2_3_0_1017_634.jpg
-video: nil
-audio: nil
-alt: Simone Biles enciende las alarmas; abandona la final de gimnasia por equipos en Tokio 2020
+image: "/uploads/2021/images-simone-biles-reuters-2_3_0_1017_634.jpg"
+video: "nil"
+audio: "nil"
+alt: "Simone Biles enciende las alarmas; abandona la final de gimnasia por equipos en Tokio 2020"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186022
 ---
 
 La estadunidense Simone Biles fue reemplazada durante la final por equipos de los Juegos Olímpicos de Tokio 2020 "por razones médicas" y es duda para el resto del evento, indicó a la AFP la Federación Estadunidense de Gimnasia. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El mexicano se reincorporará a los entrenamientos del Atlético de Madrid, luego que presentó un nivel de anticuerpos en la última prueba de coronavirus que se le practicó"
-image: /uploads/2021/images-2535550.jpg
-video: nil
-audio: nil
-alt: LaLiga autoriza a Héctor Herrera volver a jugar
+image: "/uploads/2021/images-2535550.jpg"
+video: "nil"
+audio: "nil"
+alt: "LaLiga autoriza a Héctor Herrera volver a jugar"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183150
 ---
 
 El centrocampista mexicano del Atlético de Madrid, Héctor Herrera, recibió la autorización de LaLiga para reincorporarse al trabajo junto con el resto de sus compañeros tras haber superado el coronavirus.

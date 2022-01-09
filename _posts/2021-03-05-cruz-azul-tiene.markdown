@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El técnico Andrés Lillini descarta que tenga peso actualmente la remontada de las semifinales de la temporada pasada"
-image: /uploads/2021/images-2539730.jpg
-video: nil
-audio: nil
-alt: Cruz Azul tiene el mejor plantel de México, dicen en Pumas
+image: "/uploads/2021/images-2539730.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cruz Azul tiene el mejor plantel de México, dicen en Pumas"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183288
 ---
 
 Andrés Lillini, técnico de los Pumas, descartó que el pasado triunfo 4-0 ante Cruz Azul en las semifinales del Guard1anes 2020 de la Liga MX, influya en su siguiente duelo de la Jornada 10, además aprovechó para resaltar la calidad del plantel de la Noria al catalogarlo como el mejor del futbol nacional. 

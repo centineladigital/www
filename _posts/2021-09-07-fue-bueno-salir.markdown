@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz y cantautora, al igual que Matisse y Piso 21 pondrá el ambiente musical a la fiesta de los Kid's Choice Awards, que se celebran hoy; también está en competencia como 'Creadora más top'."
-image: /uploads/2021/images-entrevista-karol-escucha-contenta-incursion.jpg
-video: nil
-audio: nil
-alt: Fue bueno salir de mi zona de confort para enfrentar un reto en la música -  Karol Sevilla
+image: "/uploads/2021/images-entrevista-karol-escucha-contenta-incursion.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fue bueno salir de mi zona de confort para enfrentar un reto en la música -  Karol Sevilla"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187501
 ---
 
 Mientras se prepara para su participación musical (con el tema “Nadie te entiende”) en la fiesta de los Kid´s Choice Awards (KCA) - que se realizará hoy 7 de septiembre desde la Riviera Maya -, en la que además está nominada en la categoría Creadora más top,  Karol Sevilla hace una pausa para compartir sus emociones y lo que ha representado salir de la zona de confort, que vivía gracias al trabajo que había hecho en la actuación, para enfrentar el reto de probarse en el medio musical. 

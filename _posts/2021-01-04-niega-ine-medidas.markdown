@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los consejeros integrantes de la comisión consideraron que no es un tema de precampañas y se retoma la campaña federal de vacunación"
-image: /uploads/2021/images-2506076.jpg
-video: nil
-audio: nil
-alt: Niega INE medidas al PAN en contra de spot de Morena
+image: "/uploads/2021/images-2506076.jpg"
+video: "nil"
+audio: "nil"
+alt: "Niega INE medidas al PAN en contra de spot de Morena"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 181839
 ---
 
 La comisión de Quejas y Denuncias del INE decidió no otorgar las medidas cautelares al PAN que se quejó del spot de Morena en el dice que donará el 50% de su financiamiento como partido para aportar en la campaña de vacunación contra el Covid-19, por considerar que este contenido no es pertinente para el tiempo de precampañas.

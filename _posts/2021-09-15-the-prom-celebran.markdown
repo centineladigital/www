@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gerardo González, Samantha Salgado, Óscar Carapia, Marien Caballero y Mauricio Salas festejan las Fiestas Patrias degustando un chile en nogada, y comparten su emoción por regresar al escenario."
-image: /uploads/2021/images-elenco-the-prom-festejo-partida.jpeg
-video: nil
-audio: nil
-alt: The Prom. Celebran regresar al teatro con versión muy mexicana
+image: "/uploads/2021/images-elenco-the-prom-festejo-partida.jpeg"
+video: "nil"
+audio: "nil"
+alt: "The Prom. Celebran regresar al teatro con versión muy mexicana"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187753
 ---
 
 El elenco de la obra comparte la experiencia de volver al escenario tras la pandemia, ya llevan varias semanas de ensayos; tiempo suficiente para empatar la emoción, felicidad y orgullo que les representa ser parte de esa compañía. La alegría que se dibuja en sus rostros y las frases que usan para hablar del musical son elocuentes, durante el festejo espontáneo por las fiestas patrias en el restaurante Casa Mila. El tricolor del chile en nogada se suma al festejo, en el que, para estar a tono, destacan que la versión The Prom que protagonizarán “es muy mexicana”. 

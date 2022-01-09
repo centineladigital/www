@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Por el momento la aplicación se dará de forma gratuita."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-MJ06_WENDY_AVILA.mp3
-alt: Exhortan a denunciar ventas de vacuna COVID
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ06_WENDY_AVILA.mp3"
+alt: "Exhortan a denunciar ventas de vacuna COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 183027
 ---
 
 Con el fin de evitar que se den acciones irregulares en la aplicación de las vacunas este jueves se exhortó a la población a denunciar venta de vacunas, esto ya que por el momento la aplicación se dará de forma gratuita, sumado a que solamente las puede adquirir el gobierno.

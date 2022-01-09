@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Secretaría de Salud agrega un deceso más en su último reporte; se suman 140 contagios"
-image: /uploads/2021/images-Informe_tecnico_08_marzo_page-0002.jpg
-video: nil
-audio: nil
-alt: Reporte estatal COVID-19 -  5,420 fallecimientos y 55,901 casos confirmados
+image: "/uploads/2021/images-Informe_tecnico_08_marzo_page-0002.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reporte estatal COVID-19 -  5,420 fallecimientos y 55,901 casos confirmados"
 front: false
-section: Local
+section: "Local"
+news_id: 183352
 ---
 
 Con 140 contagios y un deceso que reporta la Secretaría de Salud en las últimas 24 horas, suman un total general de 55 mil 901 casos confirmados y 5 mil 420 fallecimientos por COVID-19 en la entidad.

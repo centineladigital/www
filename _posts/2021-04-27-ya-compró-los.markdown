@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Según una exclusiva publicada por el diario especializado Deadline, el actor también tiene interés en protagonizar el largometraje. "
-image: /uploads/2021/images-productora-appian-way-adquirio-derechos.jpg
-video: nil
-audio: nil
-alt: ¡Ya compró los derechos! Leonardo DiCaprio prepara nueva versión de 'Another Round', cinta ganadora del Oscar
+image: "/uploads/2021/images-productora-appian-way-adquirio-derechos.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Ya compró los derechos! Leonardo DiCaprio prepara nueva versión de 'Another Round', cinta ganadora del Oscar"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184135
 ---
 
 Another Round, la producción danesa dirigida por Thomas Vinterberg y protagonizada por Mads Mikkelsen, logró la estatuilla como Mejor Película Internacional en la reciente edición de los Premios Oscar. Además, captó la atención de Leonardo DiCaprio, quien a través de su productora, Appian Way, adquirió los derechos de la cinta para rodar una versión estadunidense. Según una exclusiva publicada por el diario especializado Deadline, el actor también tiene interés en protagonizar el largometraje, que trata sobre un grupo de maestros frustrados que decide vivir su día a día con un nivel constante de alcohol en la sangre. 

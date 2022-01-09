@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Secretaría de Salud confirma 121 contagios  y 11 defunciones más;  a la fecha se han atendido 141 mil 403 casos a través de la App Salud Digital"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Muestra alza hospitalizaciones por COVID-19 con 224 casos en la entidad
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Muestra alza hospitalizaciones por COVID-19 con 224 casos en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 183563
 ---
 
 El reporte epidemiológico de la pandemia de COVID-19 en la entidad muestra que hay 57 mil 960 contagios acumulados tras sumarse  121 casos más, mientras que el número de fallecimientos se incrementó a 5 mil 626 al confirmarse 11 decesos.

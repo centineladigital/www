@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Shakira fue acusada de fraude a Hacienda por 350 millones de pesos en España, ante esto, la defensa de la cantante asegura que no cometió ducho delito."
-image: /uploads/2021/images-defensa-shakira-asegura-vivia-espana.jpg
-video: nil
-audio: nil
-alt: ¡Se defiende! Shakira asegura que no cometió fraude fiscal en España
+image: "/uploads/2021/images-defensa-shakira-asegura-vivia-espana.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Se defiende! Shakira asegura que no cometió fraude fiscal en España"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185496
 ---
 
 La cantante Shakira es acusada de fraude fiscal en España, algo trascendió hace unos meses, pero ahora trata de desmontar esta acusación a través de su defensa, aduciendo que disponía de un certificado de residencia permanente en Bahamas y que hasta 2015 su presencia en España no superó el plazo que la obliga a tributar. 

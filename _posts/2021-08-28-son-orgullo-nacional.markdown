@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Presidente aseguró que en México estamos contentos por el triunfo de los cinco atletas que han ganado tres medallas de bronce y dos de oro"
-image: /uploads/2021/images-amlo-niega-persecucion-politica-ricardo.jpg
-video: nil
-audio: nil
-alt: Son orgullo nacional -  AMLO felicita a medallistas mexicanos en Paralímpicos
+image: "/uploads/2021/images-amlo-niega-persecucion-politica-ricardo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Son orgullo nacional -  AMLO felicita a medallistas mexicanos en Paralímpicos"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187222
 ---
 
 El presidente Andrés Manuel López Obrador felicitó a los cinco atletas mexicanos que hasta el momento han ganado medallas en los Juegos Paralímpicos de Tokio 2020, a quienes consideró que "son orgullo nacional".

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Albergará juzgados para mejora de justicia an Chihuahua."
-image: /uploads/2021/images-ANDRES.jpeg
-video: nil
-audio: /uploads/2021/audio-MW04_ISRAEL_HERNANDEZ.mp3
-alt: Construyen juzgados en Delicias
+image: "/uploads/2021/images-ANDRES.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MW04_ISRAEL_HERNANDEZ.mp3"
+alt: "Construyen juzgados en Delicias"
 front: false
-section: Local
+section: "Local"
+news_id: 182112
 ---
 
 Juzgados civiles y familiares serán construidos en le municipio de Delicias, esto con el fin de poder implementar acciones para acciones dentro del Programa de Dignificación Judicial.

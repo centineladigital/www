@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se espera que a más tardar el mes de abril se tenga vacunados a todos los adultos mayores."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-ML03_JAVIER_CORRAL.mp3
-alt: Anuncia Gobernador 400 mil dosis para Chihuahua y Juárez
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML03_JAVIER_CORRAL.mp3"
+alt: "Anuncia Gobernador 400 mil dosis para Chihuahua y Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 183509
 ---
 
 Una remesa de 400 mil dosis para Chihuahua y Juárez de vacunas contra de coronavirus fue anunciada por parte del Gobernador del Estado, Javier Corral Jurado. Afirmando que se espera que a más tardar el mes de abril se tenga vacunados a todos los adultos mayores.

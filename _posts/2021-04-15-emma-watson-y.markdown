@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz es una de las voces feministas más poderosas en Hollywood que busca la igualdad de condiciones y oportunidades para las mujeres. "
-image: /uploads/2021/images-emma-watson-lucha-favor-derechos_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Emma Watson y su férrea lucha a favor de la equidad de género
+image: "/uploads/2021/images-emma-watson-lucha-favor-derechos_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Emma Watson y su férrea lucha a favor de la equidad de género"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183906
 ---
 
 

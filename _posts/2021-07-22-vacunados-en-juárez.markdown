@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "En tan solo dos semanas se vacunaron a más de 600 mil personas en Ciudad Juárez."
-image: /uploads/2021/images-MIRNA.jpg
-video: /uploads/2021/videos-MJ02_MIRNA_BELTRÁN.mp4
-audio: nil
-alt: Vacunados en Juárez el 80 por ciento de la población 
+image: "/uploads/2021/images-MIRNA.jpg"
+video: "/uploads/2021/videos-MJ02_MIRNA_BELTRÁN.mp4"
+audio: "nil"
+alt: "Vacunados en Juárez el 80 por ciento de la población "
 front: false
-section: Local
+section: "Local"
+news_id: 185921
 ---
 
 Un 80 por ciento es el porcentaje de personas vacunadas en el municipio de Juárez, esto en población mayor de 18 años, señaló la Subsecretaria de Prevención y Promoción de la Salud, Mirna Beltrán Arzaga. 

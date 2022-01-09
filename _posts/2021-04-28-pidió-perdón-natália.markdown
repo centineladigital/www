@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La modelo brasileña negó que Sergio Mayer Mori fuera menor de edad cuando fueron pareja; además, reveló que el papá de su ex novio le ofreció una disculpa por sus declaraciones. "
-image: /uploads/2021/images-natalia-subtil-niega-acusacion-abuso.jpg
-video: nil
-audio: nil
-alt: Pidió perdón -  Natália Subtil niega acusación de abuso; revela que Sergio Mayer se disculpó
+image: "/uploads/2021/images-natalia-subtil-niega-acusacion-abuso.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pidió perdón -  Natália Subtil niega acusación de abuso; revela que Sergio Mayer se disculpó"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184167
 ---
 
 Hace unas semanas, Sergio Mayer habló de la relación amorosa que mantuvo su hijo, Sergio Mayer Mori, con Natália Subtil, quien es 10 años mayor que él; un romance que generó polémica en su momento, ya que en ese entonces el actor tenía 17 años; sin embargo, el político se vio envuelto en la controversia tras declarar que la modelo brasileña habría abusado de su primogénito que "era menor de edad"durante dicho noviazgo. En una entrevista con los medios, que recuperó el programa Venga la Alegría, Natália Subtil se defendió de las acusaciones y aclaró si aún mantiene una buena relación con Sergio Mayer, abuelo de la niña que procreó con Sergio Mayer Mori -Mila-, tras sus declaraciones.  

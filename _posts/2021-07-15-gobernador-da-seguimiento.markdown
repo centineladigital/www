@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Viaja Javier Corral este viernes a la Ciudad de México; se espera concretar el apoyo para el cierre de Administración que confirmó el Presidente de la República."
-image: /uploads/2021/images-_DSC8440.JPG
-video: nil
-audio: nil
-alt: Gobernador da seguimiento a solicitud de apoyo financiero ante funcionarios federales
+image: "/uploads/2021/images-_DSC8440.JPG"
+video: "nil"
+audio: "nil"
+alt: "Gobernador da seguimiento a solicitud de apoyo financiero ante funcionarios federales"
 front: false
-section: Local
+section: "Local"
+news_id: 185704
 ---
 
 El gobernador Javier Corral informó que este viernes 16  viajará a la Ciudad de México para reunirse con funcionarios federales a quienes el propio presidente Andrés Manuel López Obrador ha pedido atender la solicitud de apoyo financiero para el cierre de la presente administración pública estatal.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Por culpa de Mauricio Ochman se peleó con su padre Eugenio Derbez? Te contamos lo que sabemos sobre la pelea que se dio en un viaje en familia. "
-image: /uploads/2021/images-razon-peleo-jose-eduardo-derbez.jpg
-video: nil
-audio: nil
-alt: Ni estabas invitado -  José Eduardo Derbez revela que explotó contra Eugenio Derbez por Mauricio Ochman
+image: "/uploads/2021/images-razon-peleo-jose-eduardo-derbez.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ni estabas invitado -  José Eduardo Derbez revela que explotó contra Eugenio Derbez por Mauricio Ochman"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185271
 ---
 
 José Eduardo Derbez, hijo de Eugenio Derbez y Victoria Ruffo, recientemente dio mucho de qué hablar al recordar la vez que se enojó con su ex cuñado Mauricio Ochman –ex pareja de Aislinn Derbez– y que terminara peleando con su padre en un restaurante. ¿Por qué se enojaron? ¿Hubo algún problema? ¿Se enfrentaron? Te contamos lo que reveló el joven.  Fue en una entrevista con Mara Patricia Castañeda, en donde José Eduardo destapó un episodio no tan grato con su familia y con el ex esposo de su hermana –Aislinn Derbez–. De acuerdo con el joven conductor, el polémico roce se dio en la primera temporada de De viaje con los Derbez.

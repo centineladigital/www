@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor confesó que desde el inicio de la crisis sanitaria abrió un negocio de paletas de hielo junto a su hermana. "
-image: /uploads/2021/images-carlos-ferro-revela-vende-paletas_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Carlos Ferro revela que vende paletas de hielo por pandemia de covid-19
+image: "/uploads/2021/images-carlos-ferro-revela-vende-paletas_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Carlos Ferro revela que vende paletas de hielo por pandemia de covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186018
 ---
 
 La pandemia de covid-19 dejó fuertes estragos en la industria del entretenimiento debido a que se pospusieron múltiples producciones de cine y televisión, además de la cancelación de eventos o conciertos, situación que afectó a cantantes y actores, tal es el caso de Lolita Cortés, Angélica María o Ricardo Hill, a ellos se suma Carlos Ferro, quien incursionó en la venta de paletas de hielo. 

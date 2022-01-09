@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La producción llega a los cines de México rodeada del misticismo oriental y con gran expectativa."
-image: /uploads/2021/images-shang-chi-superheroe-asiatico-marvel.jpg
-video: nil
-audio: nil
-alt: Shang-Chi, el nuevo héroe asiático que se unirá al Universo Cinematográfico de Marvel
+image: "/uploads/2021/images-shang-chi-superheroe-asiatico-marvel.jpg"
+video: "nil"
+audio: "nil"
+alt: "Shang-Chi, el nuevo héroe asiático que se unirá al Universo Cinematográfico de Marvel"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187217
 ---
 
 Shang-Chi es el nuevo personaje que se integra al Universo Cinematográfico Marvel (MCU) este 3 de septiembre. Aunque ya es un viejo conocido de los cómics (se publicó por primera vez en 1973, creado por el escritor y guionista Steve Englehart y el dibujante Jim Starlin), ahora llega la nueva cinta Shang-Chi y la leyenda de los Diez Anillos.

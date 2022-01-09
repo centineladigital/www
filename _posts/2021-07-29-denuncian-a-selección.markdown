@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las boxeadoras Brianda Cruz y Esmeralda Falcón acusaron a las jugadoras de la selección de sóftbol de tirar sus uniformes a la basura  "
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Denuncian a selección mexicana de Sóftbol de tirar uniformes a la basura
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Denuncian a selección mexicana de Sóftbol de tirar uniformes a la basura"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186084
 ---
 
 Pidieron que todo México las apoyara... Y lo consiguieron, aunque da la impresión de que no valoran tanto el uniforme que portaron. Según las boxeadoras mexicanas Brianda Cruz y Esmeralda Falcón, las integrantes de la Selección Nacional de Softbol Femenil, que concluyó su participación en Tokio 2020 en el cuarto lugar, tiraron a la basura de la Villa Olímpica los uniformes con los que jugaron, lo que causó molestia a las púgiles.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La noticia sorprendió al cantante colombiano, quien compartió un mensaje a través de sus redes sociales para agradecer a sus fans de Puerto Rico por el apoyo. "
-image: /uploads/2021/images-entradas-concierto-camilo-agotan-media.jpg
-video: nil
-audio: nil
-alt: Entradas para concierto de Camilo se agotan en media hora; así reaccionó el cantante
+image: "/uploads/2021/images-entradas-concierto-camilo-agotan-media.jpg"
+video: "nil"
+audio: "nil"
+alt: "Entradas para concierto de Camilo se agotan en media hora; así reaccionó el cantante"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184979
 ---
 
 Camilo es un ícono de la música a nivel internacional, cuya popularidad aumentó tras su participación como coach en La Voz México. El cantante ya alista su regreso a los escenarios, luego de una pausa por la pandemia. Sin duda, es uno de los artistas más esperados, pues las entradas para el concierto programado para el viernes 3 de diciembre, que ofrecerá en Puerto Rico, se agotaron en media hora, lo que llevó a la organización del evento a abrir una segunda función. 

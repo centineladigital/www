@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Autoridades chinas aprueban una quinta vacuna contra el covid-19 desarrollada conjuntamente por Anhui Zhifei Longcom Biopharmaceutical Co. Ltd. y la Academia de Ciencias de China"
-image: /uploads/2021/images-2545836.jpg
-video: nil
-audio: nil
-alt: Aprueba China su quinta vacuna contra covid-19
+image: "/uploads/2021/images-2545836.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aprueba China su quinta vacuna contra covid-19"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183431
 ---
 
 China autorizó el uso de emergencia de una nueva vacuna contra el covid-19, la quinta de su arsenal, informó el Instituto de Microbiología de la Academia de Ciencias.

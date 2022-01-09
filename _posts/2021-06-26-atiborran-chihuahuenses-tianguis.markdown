@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Una gran número de vendedores se encuentra instalado en el tianguis ubicado sobre la avenida al sur de la ciudad"
-image: /uploads/2021/images-Tianguis_Equus.jpg
-video: nil
-audio: nil
-alt: Atiborran chihuahuenses tianguis de la Equus
+image: "/uploads/2021/images-Tianguis_Equus.jpg"
+video: "nil"
+audio: "nil"
+alt: "Atiborran chihuahuenses tianguis de la Equus"
 front: false
-section: Local
+section: "Local"
+news_id: 185261
 ---
 
 En este punto de la ciudad, los tianguistas se instalaron desde temprana hora, para colocar todo tipo de "chácharas" que ponen a la venta principalmente a habitantes de las colonias que colindan con la avenida.

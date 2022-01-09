@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pese ala victoria, los felinos perdieron a cuatro jugadores por lesión, quienes salieron de cambio"
-image: /uploads/2021/images-jugadores-de-tigres-festejando-gol_194_54_926_577.jpg
-video: nil
-audio: nil
-alt: Con doblete de Nico López, Tigres golea a Mazatlán en el inicio de la jornada 6
+image: "/uploads/2021/images-jugadores-de-tigres-festejando-gol_194_54_926_577.jpg"
+video: "nil"
+audio: "nil"
+alt: "Con doblete de Nico López, Tigres golea a Mazatlán en el inicio de la jornada 6"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186976
 ---
 
 El uruguayo Nicolás López anotó este viernes un doblete con el que lideró la goleada de los Tigres UANL por 0-3 sobre el Mazatlán FC en el inicio de la sexta jornada del torneo Apertura 2021 del fútbol mexicano. 

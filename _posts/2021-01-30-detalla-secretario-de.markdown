@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Chihuahua tiene una ponderación de 17 puntos en los indicadores oficiales, es decir, más cerca del amarillo que del naranja y por ello se determinó mantener el protocolo actual de vigilancia epidemiológica"
-image: /uploads/2021/images-DAH_2209.JPG
-video: nil
-audio: nil
-alt:  Detalla secretario de Salud por qué se mantendrán medidas de Amarillo Seguro
+image: "/uploads/2021/images-DAH_2209.JPG"
+video: "nil"
+audio: "nil"
+alt: " Detalla secretario de Salud por qué se mantendrán medidas de Amarillo Seguro"
 front: false
-section: Local
+section: "Local"
+news_id: 182587
 ---
 
 Las medidas implementadas en el semáforo epidemiológico Amarillo Seguro, son tan rigurosas que corresponden a las sugeridas en el color naranja y buscando no afectar más la economía y a los ciudadanos, se mantendrán vigentes, señaló el secretario de Salud, Eduardo Fernández Herrera.

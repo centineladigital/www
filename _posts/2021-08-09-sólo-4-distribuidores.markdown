@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Estamos muy agradecidos todo el gobierno federal con los empresarios, todos los trabajadores y todo el equipo del gas LP, por que han cumplido, expresó. "
-image: /uploads/2021/images-ricardo-sheffield-titular-profeco-conferencia.jpg
-video: nil
-audio: nil
-alt: Sólo 4 distribuidores no respetaron precios máximos del gas LP en México -  Profeco
+image: "/uploads/2021/images-ricardo-sheffield-titular-profeco-conferencia.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sólo 4 distribuidores no respetaron precios máximos del gas LP en México -  Profeco"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186445
 ---
 
 La Procuraduría Federal del Consumidor (Profeco) informó que en México sólo se presentaron cuatro casos en los que no se respetaron los precios máximos de gas LP, por lo que se llevaron a cabo las acciones necesarias para que se respeten los derechos de los consumidores de este combustible.  

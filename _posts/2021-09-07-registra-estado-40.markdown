@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se confirma la defunción de una persona en el municipio de Allende, con lo que suman en total  7 mil 833 decesos en los 18 meses de pandemia"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Registra estado 40 contagios por COVID-19 para un acumulado de 76 mil 189 casos
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Registra estado 40 contagios por COVID-19 para un acumulado de 76 mil 189 casos"
 front: false
-section: Local
+section: "Local"
+news_id: 187509
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 7 de septiembre se tiene un total general de 76 mil 189 contagios en el estado, luego de confirmarse otros 40 más en Juárez, Parral, Cuauhtémoc, Meoqui, Allende, Rosales y Ocampo.

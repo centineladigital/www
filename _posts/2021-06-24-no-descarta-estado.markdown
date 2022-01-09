@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Este es un tema que trabajará las dependencias encargadas del área de seguridad."
-image: /uploads/2021/images-FERNANDO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01.mp3
-alt: No descarta Estado acciones tras detención del “Tolteca”
+image: "/uploads/2021/images-FERNANDO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01.mp3"
+alt: "No descarta Estado acciones tras detención del “Tolteca”"
 front: false
-section: Local
+section: "Local"
+news_id: 185231
 ---
 
 “Cuando hay esos temas existen esos riesgos” fueron las palabras del Secretario General de Gobierno, Fernando Mesta Soulé. Esto tras cuestionársele si se considera que tras la detención de Leonel ‘N’, alias ‘El Tolteca’, el cual está relacionado con las muertes de integrantes de la comunidad de Lebaron en el año 2019.

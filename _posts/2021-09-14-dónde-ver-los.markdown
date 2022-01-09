@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Comienza una nueva temporada de la UEFA Champions League y también una nueva forma para sintonizar los partidos en México"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: ¿Dónde ver los partidos de la Champions League en México?
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "¿Dónde ver los partidos de la Champions League en México?"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187702
 ---
 
 Comienza una nueva temporada del torneo más prestigioso del mundo a nivel clubes, la UEFA Champions League. Competición que comienza este martes 14 de septiembre, pero que en México tendrá un gran cambio en las transmisiones de sus partidos.

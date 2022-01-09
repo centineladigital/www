@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Leticia De Nigris habló sobre la polémica que envuelve a Poncho de Nigris, pues aseguró que su hijo siempre trató bien a las empleadas del hogar. Sin embargo, replicó un comentario discriminatorio."
-image: /uploads/2021/images-madre-poncho-nigris-discrimina-empleadas.jpg
-video: nil
-audio: nil
-alt: Las chachas renunciaron -  Mamá de Poncho De Nigris lo defiende tras acusación de empleadas
+image: "/uploads/2021/images-madre-poncho-nigris-discrimina-empleadas.jpg"
+video: "nil"
+audio: "nil"
+alt: "Las chachas renunciaron -  Mamá de Poncho De Nigris lo defiende tras acusación de empleadas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185352
 ---
 
 Poncho De Nigris sigue siendo tema de conversación, luego de que sus ex empleadas del hogar lo acusaran de malos tratos y que destaparan que el influencer descuidó a sus hijos por fumar mariguana durante las vacaciones que tuvieron en Cancún. Y es que aunque el ex Big Brother se defendió de las acusaciones, su madre Leticia De Nigris también salió en su defensa. Sin embargo, no le fue del todo bien, pues se refirió a las trabajadoras como ‘chachas’, palabra que es despectiva para quienes laboran en el hogar. 

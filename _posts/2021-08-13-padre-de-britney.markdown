@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este 12 de agosto la abogada del padre de Britney Spears entregó documentos a la Corte Superior de Los Ángeles para confirmar que está de acuerdo en dejar de ser el tutor. "
-image: /uploads/2021/images-padre_britny.jpg
-video: nil
-audio: nil
-alt: Padre de Britney Spears renuncia a ser el tutor de la cantante tras trece años
+image: "/uploads/2021/images-padre_britny.jpg"
+video: "nil"
+audio: "nil"
+alt: "Padre de Britney Spears renuncia a ser el tutor de la cantante tras trece años"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186648
 ---
 
 Después de que en los últimos meses Britney Spears enfrentara a la justicia de Estados Unidos para pedir que su padre, Jamie Spears, ya no fuera su tutor, todo dio un giro en el caso a favor de la intérprete de "Toxic", ya que el papá de la cantante decidió renunciar como tutor legal de Britney.  Desde hace 13 años, Jamie Spears ejercía como el tutor legal de Britney Spears, con esto, el padre de la cantante podía controlar todos los aspectos de su vida, así como su fortuna. 

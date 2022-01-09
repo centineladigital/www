@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Acreditan 17 muertes más por contagio de coronavirus."
-image: /uploads/2021/images-GUMARO_BARRIO.jpg
-video: nil
-audio: /uploads/2021/audio-MV02_GUMARO_BARRIOS.mp3
-alt: Registran 107 nuevos casos de coronavirus
+image: "/uploads/2021/images-GUMARO_BARRIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV02_GUMARO_BARRIOS.mp3"
+alt: "Registran 107 nuevos casos de coronavirus"
 front: false
-section: Local
+section: "Local"
+news_id: 182176
 ---
 
 En las últimas 24 horas se registró un total de 107 nuevos casos de personas que dieron positivas a la prueba PCR de coronavirus y se acreditaron 15 defunciones con lo que se llega a una cifra de cuatro mil 470 muertos desde el inicio de la pandemia.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Paty Navidad reaparece en la televisión abierta. Aclaró si es verdad que estuvo intubada; contó que ha sido víctima de ataques. En medio del llanto contó lo que ha pasado tras su contagio por covid-19. "
-image: /uploads/2021/images-paty-navidad-reaparece-llora-tv.jpg
-video: nil
-audio: nil
-alt: No me morí, lo siento -  Paty Navidad reaparece y llora en TV tras superar covid-19; pide no más ataques
+image: "/uploads/2021/images-paty-navidad-reaparece-llora-tv.jpg"
+video: "nil"
+audio: "nil"
+alt: "No me morí, lo siento -  Paty Navidad reaparece y llora en TV tras superar covid-19; pide no más ataques"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187281
 ---
 
 Paty Navidad, famosa actriz mexicana e integrante del reality show MasterChef Celebrity, reapareció en televisión abierta tras haberse contagiado y superado el covid-19. La polémica figura del espectáculo contó si es verdad que estuvo intubada y en medio del llanto habló del hostigamiento que vive en redes sociales por pensar diferente con respecto a la pandemia por covid-19. 

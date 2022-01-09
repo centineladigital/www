@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Conoce cuándo y a qué hora será la carrera de la Fórmula 1, donde el piloto mexicano  Sergio Pérez saldrá desde la última posición."
-image: /uploads/2021/images-gp-de-gran-bretana-donde.jpg
-video: nil
-audio: nil
-alt: GP de Gran Bretaña -  horario y dónde ver EN VIVO la carrera de 'Checo' Pérez en F1
+image: "/uploads/2021/images-gp-de-gran-bretana-donde.jpg"
+video: "nil"
+audio: "nil"
+alt: "GP de Gran Bretaña -  horario y dónde ver EN VIVO la carrera de 'Checo' Pérez en F1"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185768
 ---
 
 Esta semana volvió la actividad en la Fórmula 1, donde no fue un gran fin de semana para el piloto mexicano Sergio Pérez, quien buscará enmendarlo para la carrera del GP de Gran Bretaña, en la que saldrá en la última posición, mientras que su compañero Max Verstappen consiguió la pole position. 

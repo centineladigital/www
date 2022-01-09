@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se han fortalecido las estrategias implementadas para garantizar el acceso a la salud de manera ordenada y segura para los derechohabientes"
-image: /uploads/2021/images-IMG_9999.jpeg
-video: nil
-audio: nil
-alt: Con más de 6 mil consultas y 153 cirugías en nueve entidades IMSS fortalece recuperación de servicios de salud
+image: "/uploads/2021/images-IMG_9999.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Con más de 6 mil consultas y 153 cirugías en nueve entidades IMSS fortalece recuperación de servicios de salud"
 front: false
-section: Local
+section: "Local"
+news_id: 187342
 ---
 
 Del 27 al 29 de agosto del 2021, se lograron 153 Cirugías, en consultas se realizaron mil 283 de Especialidad y 5 mil 488 de Medicina Familiar, mil 576 Mastografías, 66 Exploraciones Clínicas de Mama, y en cuanto a detecciones se efectuaron 390 de Diabetes Mellitus, 408 de Hipertensión Arterial y 46 de Cáncer Cervicouterino en unidades médicas del Instituto Mexicano del Seguro Social (IMSS). 

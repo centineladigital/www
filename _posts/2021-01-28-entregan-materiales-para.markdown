@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Calentones y láminas inversión superior a los 115 mil pesos."
-image: /uploads/2021/images-L1.jpeg
-video: nil
-audio: /uploads/2021/audio-MJ07_LUIS_AGUILAR.mp3
-alt: Entregan materiales para protección climatica en Ciudad Juárez
+image: "/uploads/2021/images-L1.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ07_LUIS_AGUILAR.mp3"
+alt: "Entregan materiales para protección climatica en Ciudad Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 182534
 ---
 
 Calentones y láminas para mejorar la calidad de vida de las personas que viven en Juárez fueron entregados a familias de escasos recursos, esto por parte de la Secretaría de Desarrollo Social.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante finalizó con un agradecimiento a todos sus seguidores por estar presentes y acompañarlos durante esta etapa. "
-image: /uploads/2021/images-bose.jpg
-video: nil
-audio: nil
-alt: Hasta aquí este tramo de viaje -  Miguel Bosé se va un tiempo; terminará autobiografía
+image: "/uploads/2021/images-bose.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hasta aquí este tramo de viaje -  Miguel Bosé se va un tiempo; terminará autobiografía"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186720
 ---
 
 Miguel Bosé se despidió por un tiempo de sus redes sociales y lo dio a conocer a sus seguidores, ya que pretende trabajar por un tiempo en proyectos que le piden poner atención para ser lanzados y anunció que regresará antes de octubre. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Miércoles 10 de febrero último día para tramitar credencial del INE"
-image: /uploads/2021/images-60826c94-020d-4092-9721-c9301ad07eb1.tmp
-video: nil
-audio: nil
-alt: Miércoles 10 de febrero último día para tramitar credencial del INE
+image: "/uploads/2021/images-60826c94-020d-4092-9721-c9301ad07eb1.tmp"
+video: "nil"
+audio: "nil"
+alt: "Miércoles 10 de febrero último día para tramitar credencial del INE"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182794
 ---
 
 Este 10 de febrero es el último día para que los ciudadanos que por primera vez se inscriban en el padrón electoral puedan acudir a los módulos del INE para realizar su trámite.

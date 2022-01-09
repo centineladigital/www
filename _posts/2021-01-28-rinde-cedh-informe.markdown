@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Durante el 2020 se presentaron un total de 863 quejas contra autoridades y servidores públicos"
-image: /uploads/2021/images-Imagen1.jpg
-video: /uploads/2021/videos-AJ03_NESTOR_ARMENDARIZ.mp4
-audio: /uploads/2021/audio-AJ03_NESTOR_ARMENDARIZ.mp3
-alt: Rinde CEDH informe de actividades ante congreso  
+image: "/uploads/2021/images-Imagen1.jpg"
+video: "/uploads/2021/videos-AJ03_NESTOR_ARMENDARIZ.mp4"
+audio: "/uploads/2021/audio-AJ03_NESTOR_ARMENDARIZ.mp3"
+alt: "Rinde CEDH informe de actividades ante congreso  "
 front: false
-section: Local
+section: "Local"
+news_id: 182525
 ---
 
 En Congreso del Estado el presidente de la Comisión Estatal de Derechos Humanos (CEDH), Néstor Armendáriz González, rindió el informe de actividades realizadas en el periodo comprendido del primero de enero al 31 de diciembre del 2020.

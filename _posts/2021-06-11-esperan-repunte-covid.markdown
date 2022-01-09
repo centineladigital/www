@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Cifras de ese cierre se verán reflejadas en esa fecha."
-image: /uploads/2021/images-WENDY.jpg
-video: nil
-audio: /uploads/2021/audio-MV05.mp3
-alt: Esperan repunte COVID el 20 de junio
+image: "/uploads/2021/images-WENDY.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05.mp3"
+alt: "Esperan repunte COVID el 20 de junio"
 front: false
-section: Local
+section: "Local"
+news_id: 184992
 ---
 
 Será hasta el día 20 de junio cuando se refleje la situación que generó la presencia de personas en acciones masivas por motivo de los cierres electorales, señaló la Subdirectora de Medicina Preventiva y Promoción de la Salud, Wendy Ávila Coronado.

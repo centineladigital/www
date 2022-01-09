@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El funcionario destacó que se ha cubierto el 53 por ciento de la población adulta en México, y llamó al resto a vacunase en cuanto sea su turno"
-image: /uploads/2021/images-subsecretario-salud-conferencia-mananera-palacio-1_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: El 97% de hospitalizados por covid-19, sin vacuna -  López Gatell
+image: "/uploads/2021/images-subsecretario-salud-conferencia-mananera-palacio-1_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "El 97% de hospitalizados por covid-19, sin vacuna -  López Gatell"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186221
 ---
 
 El subsecretario de Prevención y Promoción de la Salud, Hugo López-Gatell Ramírez, resaltó que el 97 por cierto de las personas hospitalizadas por covid-19 no han sido vacunadas contra dicha enfermedad, por lo que reiteró su llamado a aplicarse el biológico en cuanto sea su turno. 

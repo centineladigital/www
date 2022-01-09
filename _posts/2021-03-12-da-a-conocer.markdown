@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Tras dar a conocer que no contaban con candidato, este viernes dan a conocer le nombre."
-image: /uploads/2021/images-pes.jpeg
-video: nil
-audio: /uploads/2021/audio-MV01_DAVID_MEDINA.mp3
-alt: Da a conocer PES su candidato a Gobernador
+image: "/uploads/2021/images-pes.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-MV01_DAVID_MEDINA.mp3"
+alt: "Da a conocer PES su candidato a Gobernador"
 front: false
-section: Local
+section: "Local"
+news_id: 183399
 ---
 
 Luego de que se había declarado como desierta la candidatura para gobernador, este viernes el Partido Encuentro Solidario dio a conocer el nombre del abanderado para contender a este puesto de elección popular a Luis Carlos Arrieta Lavenant, mejor conocido como "El Capi".

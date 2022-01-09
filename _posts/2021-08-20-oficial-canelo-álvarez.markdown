@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El boxeador mexicano confirmó el pleito a través de sus redes sociales, donde irá por el cinturón que le falta para unificar los títulos de las 168 libras "
-image: /uploads/2021/images-saul-canelo-alvarez-instagram-canelo-6_0_1_898_559.jpg
-video: nil
-audio: nil
-alt: ¡Oficial! Canelo Álvarez vs Caleb Plant se confirma para el 6 de noviembre
+image: "/uploads/2021/images-saul-canelo-alvarez-instagram-canelo-6_0_1_898_559.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Oficial! Canelo Álvarez vs Caleb Plant se confirma para el 6 de noviembre"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186930
 ---
 
 Es oficial. El boxeador mexicano Saúl Canelo Álvarez subirá de nuevo al ring para medirse al estadunidense Caleb Plant el próximo seis de noviembre, así lo confirmó el pugilista tapatío en sus redes sociales. 

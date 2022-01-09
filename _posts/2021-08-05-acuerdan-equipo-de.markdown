@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Continuaron las acciones correspondientes al proceso de entrega-recepción del Gobierno Estatal"
-image: /uploads/2021/images-unnamed_(8).jpg
-video: nil
-audio: nil
-alt: Acuerdan equipo de transición y Consejería Jurídica del Estado agenda de trabajo para entrega-recepción
+image: "/uploads/2021/images-unnamed_(8).jpg"
+video: "nil"
+audio: "nil"
+alt: "Acuerdan equipo de transición y Consejería Jurídica del Estado agenda de trabajo para entrega-recepción"
 front: false
-section: Local
+section: "Local"
+news_id: 186364
 ---
 
 La mañana de este jueves continuaron las acciones correspondientes al proceso de entrega-recepción del Gobierno Estatal con la primera reunión del equipo de transición designado por la Gobernadora Electa, Maru Campos para la Consejería Jurídica del Estado.

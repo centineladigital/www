@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Llega a cuatro mil 803 personas que han perdido la vida por contingencia."
-image: /uploads/2021/images-informe_tecnico_08_febrero_page-0003.jpg
-video: nil
-audio: /uploads/2021/audio-MM02_WENDY_AVILA.mp3
-alt: Registran 121 casos COVID y 11 defunciones
+image: "/uploads/2021/images-informe_tecnico_08_febrero_page-0003.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM02_WENDY_AVILA.mp3"
+alt: "Registran 121 casos COVID y 11 defunciones"
 front: false
-section: Local
+section: "Local"
+news_id: 182815
 ---
 
 En las últimas 24 horas se han registrado 121 nuevos casos de personas contagiadas de coronavirus y se 11 muertes pasaron el protocolo para considerar este tipo de muertes según lo dio a conocer la Subdirectora de Medicina Preventiva y Promoción para la Salud Wendy Ávila Coronado.

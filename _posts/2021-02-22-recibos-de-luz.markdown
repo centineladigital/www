@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Algunos usuarios reciben facturas de luz por más de 5 mil dólares en Texas luego de los apagones masivos de la semana pasada provocados por una tormenta invernal"
-image: /uploads/2021/images-2533758.jpg
-video: nil
-audio: nil
-alt: Recibos de luz por hasta 5 mil dólares en Texas tras apagón masivo
+image: "/uploads/2021/images-2533758.jpg"
+video: "nil"
+audio: "nil"
+alt: "Recibos de luz por hasta 5 mil dólares en Texas tras apagón masivo"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183077
 ---
 
 Facturas de luz de más de 5 mil dólares sorprendieron a los residentes de Texas luego de los apagones masivos de la semana pasada provocados por una ola polar.

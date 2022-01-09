@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: " Siniestro fue provocado intencionalmente en zona de tala ilegal que afecta 100 hectáreas de bosque entre los municipios de Guerrero y Bocoyna; colaboran elementos de Protección Civil de Creel"
-image: /uploads/2021/images-2512834.jpg
-video: nil
-audio: nil
-alt: Participan brigadistas de Gobierno del Estado y Sedena en sofocación de incendio en San Juanito
+image: "/uploads/2021/images-2512834.jpg"
+video: "nil"
+audio: "nil"
+alt: "Participan brigadistas de Gobierno del Estado y Sedena en sofocación de incendio en San Juanito"
 front: false
-section: Local
+section: "Local"
+news_id: 183668
 ---
 
 

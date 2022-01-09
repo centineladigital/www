@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los beneficiados reciben láminas, cobijas, despensas y víveres de higiene como parte del Programa Nacional de Protección Civil"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: Entregan Protección Civil Municipal, Estatal y SEDENA apoyos a familias tras Declaratoria de Emergencia por nevada
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Entregan Protección Civil Municipal, Estatal y SEDENA apoyos a familias tras Declaratoria de Emergencia por nevada"
 front: false
-section: Local
+section: "Local"
+news_id: 182451
 ---
 
 Como parte del programa de ayuda a 17 municipios del estado, entre ellos el de Chihuahua, tras la Declaratoria de Emergencia que emitió la Coordinación Nacional de Protección Civil, después de las pasadas nevadas y heladas, familias de escasos recursos están siendo beneficiadas gracias a la entrega de apoyos que realizan Protección Civil Municipal, Protección Civil Estatal y el Ejercito Mexicano.

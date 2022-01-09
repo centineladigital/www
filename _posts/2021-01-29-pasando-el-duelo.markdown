@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Horacio Pancheri habló sobre su relación con Marimar Vega y le deseó lo mejor a la actriz. "
-image: /uploads/2021/images-horacio-pancheri-anuncio-termino-noviazgo.jpg
-video: nil
-audio: nil
-alt: Pasando el duelo -  Horacio Pancheri tras terminar su relación con Marimar Vega
+image: "/uploads/2021/images-horacio-pancheri-anuncio-termino-noviazgo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pasando el duelo -  Horacio Pancheri tras terminar su relación con Marimar Vega"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182572
 ---
 
 Hace unos días Marimar Vega informó que había terminado su relación con Horacio Pancheri, algo que el actor también confirmó a través de un video que publicó en sus redes sociales. Y ahora que se dio a conocer que los actores terminaron, Horacio Pancheri habló de cómo se siente tras su separación. 

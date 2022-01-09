@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hace más de un año Juan Soler y Maki anunciaron su divorcio, tras un tiempo, la famosa contó la razón por la que decidió separarse del padre de sus hijas. "
-image: /uploads/2021/images-divorciados-maki-juan-soler-mantiene_47_0_1045_650.jpg
-video: nil
-audio: nil
-alt: Maki revela que tuvo una crisis que la hizo tomar la decisión de divorciarse de Juan Soler
+image: "/uploads/2021/images-divorciados-maki-juan-soler-mantiene_47_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "Maki revela que tuvo una crisis que la hizo tomar la decisión de divorciarse de Juan Soler"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185964
 ---
 
 Maki y Juan Soler anunciaron su separación hace más de un año, a pesar de esto, los actores mantienen una buena relación por sus hijas, además que en diferentes ocasiones han declarado que su divorcio se dio en buenos términos. Ahora que cada uno está rehaciendo su vida, Maki contó una de las razones por las que decidió separarse del histrión. En su más reciente participación en el programa Netas Divinas, Maki, quien se quitó el apellido de su ex esposo por petición del actor, contó que a los 40 atravesó por una crisis que la hizo pensar muchas cosas, entre ellas su divorcio. 

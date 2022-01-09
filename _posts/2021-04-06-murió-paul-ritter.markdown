@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Paul Ritter, quien también participó en la comedia “Friday Night Dinner”, murió en su hogar. Toda su familia lo acompañó en sus últimos momentos. "
-image: /uploads/2021/images-muere-paul-ritter-actor-harry.jpg
-video: nil
-audio: nil
-alt: Murió Paul Ritter, actor de 'Harry Potter' y 'Chernobyl', por tumor cerebral
+image: "/uploads/2021/images-muere-paul-ritter-actor-harry.jpg"
+video: "nil"
+audio: "nil"
+alt: "Murió Paul Ritter, actor de 'Harry Potter' y 'Chernobyl', por tumor cerebral"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183707
 ---
 
 Paul Ritter, actor británico de “Harry Potter”, “Quantum of Solace” y “Chernobyl” murió ayer a los 54 años debido a un tumor cerebral, así lo confirmó su agente al diario The Guardian. El famoso, según detalló quien lo representaba, falleció mientras su familia estaba a su lado. Te contamos lo que sabemos. Paul Ritter, quien también participó en la comedia “Friday Night Dinner”, murió en su hogar. Toda su familia lo acompañó en sus últimos momentos. “Con gran tristeza podemos confirmar que Paul Ritter falleció anoche. Murió en paz en casa con su esposa Polly y sus hijos Frank y Noah a su lado”, contó el representante al medio citado. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Destaca el canciller que entre febrero y marzo el país accederá a este medicamento contra Covid-19; en la ‘mañanera’ de este martes se dará más información"
-image: /uploads/2021/images-2521677.jpg
-video: nil
-audio: nil
-alt: Por Covax, México recibirá vacunas de AstraZeneca -  Ebrard
+image: "/uploads/2021/images-2521677.jpg"
+video: "nil"
+audio: "nil"
+alt: "Por Covax, México recibirá vacunas de AstraZeneca -  Ebrard"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 182590
 ---
 
 El secretario de Relaciones Exteriores (SRE), Marcelo Ebrard, informó que entre febrero y marzo México accederá a las vacunas contra Covid-19 de AstraZeneca/Oxford.

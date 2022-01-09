@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante confirmó la fecha de estreno de su nuevo tema musical que realizó con Ariana Grande; conoce aquí los detalles. "
-image: /uploads/2021/images-the-weeknd-confirma-colaboracion-ariana.jpg
-video: nil
-audio: nil
-alt: ¡Otro éxito! The Weeknd confirma nueva colaboración con Ariana Grande
+image: "/uploads/2021/images-the-weeknd-confirma-colaboracion-ariana.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Otro éxito! The Weeknd confirma nueva colaboración con Ariana Grande"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184070
 ---
 
 The Weeknd confirmó a través de sus redes sociales el lanzamiento mañana viernes 23 de abril de una remezcla de su tema "Save Your Tears" junto a Ariana Grande, en la que será su más reciente colaboración entre ambos artistas desde el exitoso "Off the table", que salió a la luz en octubre de 2020. El compositor e intérprete estadunidense ratifica así lo que hace dos días era una fuerte sospecha, después de que publicara un brevísimo fragmento del tema en su cuenta de Instagram en el que podía escucharse una voz femenina de fondo y de que etiquetara a su compatriota en el mismo.

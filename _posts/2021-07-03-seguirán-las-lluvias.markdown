@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Este fin de semana continuarán las tormentas con intervalos soleados en la capital del estado, por lo que se pide a los ciudadanos tomar precauciones."
-image: /uploads/2021/images-lluvias.jpg
-video: nil
-audio: nil
-alt: Seguirán las lluvias el fin de semana
+image: "/uploads/2021/images-lluvias.jpg"
+video: "nil"
+audio: "nil"
+alt: "Seguirán las lluvias el fin de semana"
 front: false
-section: Local
+section: "Local"
+news_id: 185364
 ---
 
 La Coordinación Municipal de Protección Civil, de acuerdo al pronóstico del Servicio Meteorológico Nacional de CONAGUA, informó que este fin de semana continuarán las tormentas con intervalos soleados en la capital del estado, por lo cual es importante que los chihuahuenses sigan acatando las debidas precauciones para evitar incidentes tanto en el hogar como en la vía pública.

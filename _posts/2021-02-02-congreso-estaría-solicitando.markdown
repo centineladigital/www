@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El sistema de salud se debe de atender mejor, ya que con la pandemia se evidenció que se tiene un sistema de salud débi"
-image: /uploads/2021/images-ERHR.jpg
-video: nil
-audio: /uploads/2021/audio-AM02_MIGUEL_COLUNGA.mp3
-alt: Congreso estaría solicitando auditoria a gobierno por recursos destinados a combatir Covid,  -  Miguel Colunga 
+image: "/uploads/2021/images-ERHR.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AM02_MIGUEL_COLUNGA.mp3"
+alt: "Congreso estaría solicitando auditoria a gobierno por recursos destinados a combatir Covid,  -  Miguel Colunga "
 front: false
-section: Local
+section: "Local"
+news_id: 182630
 ---
 
 El coordinador de la bancada de Morena, Miguel Ángel Colunga Martínez, señaló que en torno a la entrega del 4 informe del Gobernador Javier Corral, un punto muy importante es revisar que se hizo con los 3 mil 400 millones que se implementaron en marzo y abril de año pasado, los cuales estaban destinados a combatir la pandemia del Covid19, sin embargo se desconocer exactamente en donde se invirtieron esos recursos, por lo que se está solicitando una auditoria al 70 por ciento de los recursos.

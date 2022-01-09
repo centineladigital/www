@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El tenista serbio tendrá que conformarse con buscar la presea de bronce tras perder 1-6, 6-3 y 6-1 ante Alexander Zverev "
-image: /uploads/2021/images-novak-djokovic-reuters-17_0_29_1200_747.jpg
-video: nil
-audio: nil
-alt: Novak Djokovic queda fuera de la final de tenis en Juegos Olímpicos
+image: "/uploads/2021/images-novak-djokovic-reuters-17_0_29_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Novak Djokovic queda fuera de la final de tenis en Juegos Olímpicos"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186118
 ---
 
 El tenista alemán Alexander Zverev dio la campanada este viernes al derrotar en semifinales por 1-6, 6-3 y 6-1 al número uno del mundo y hasta ahora favorito para ganar el oro olímpico, el serbio Novak Djokovic, que buscará su segundo bronce. Este resultado termina con las opciones de Dkjokovic de ganar el 'Golden Slam': necesitaba imponerse en los Juegos y en el Abierto de Estados Unidos para sumar esos títulos a los de Australia, Roland Garros y Wimbledon que ya ha ganado este año. 

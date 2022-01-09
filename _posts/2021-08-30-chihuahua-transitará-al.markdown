@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Estamos listos, reitera el Gobernador Javier Corral; se revisarán implicaciones del cambio en el semáforo de riesgo, en acuerdo con la Secretaría de Salud federal"
-image: /uploads/2021/images-JAVIER_CORRAL_GOBERNADOR_ENTREVISTA_JZ.jpeg
-video: nil
-audio: nil
-alt: Chihuahua transitará al verde con algunas medidas y ajustes al semáforo
+image: "/uploads/2021/images-JAVIER_CORRAL_GOBERNADOR_ENTREVISTA_JZ.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Chihuahua transitará al verde con algunas medidas y ajustes al semáforo"
 front: false
-section: Local
+section: "Local"
+news_id: 187272
 ---
 
 El próximo viernes, Chihuahua transitará al semáforo verde de riesgo epidemiológico por COVID-19, anunció el gobernador Javier Corral Jurado, al ser entrevistado por medios de comunicación en Ciudad Juárez.

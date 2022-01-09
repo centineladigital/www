@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La SEyD en colaboración con el DIF Estatal impartió el taller “Provención, Educando en y para el Conflicto”, dirigido a maestras y maestros del nivel medio superior   "
-image: /uploads/2021/images-T2.jpg
-video: nil
-audio: nil
-alt: Capacitan a docentes para promover ambientes escolares armónicos
+image: "/uploads/2021/images-T2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Capacitan a docentes para promover ambientes escolares armónicos"
 front: false
-section: Local
+section: "Local"
+news_id: 186788
 ---
 
 La Secretaría de Educación y Deporte (SEyD), en colaboración con el DIF Estatal, impartió el taller denominado “Provención, Educando en y para el Conflicto”, dirigido a 120 docentes de los trece subsistemas de Educación Media Superior en el estado.

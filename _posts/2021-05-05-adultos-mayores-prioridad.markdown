@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Presentó la propuesta en base a tres ejes."
-image: /uploads/2021/images-MARIO.jpg
-video: nil
-audio: /uploads/2021/audio-MW01_MARIO_VAZQUEZ.mp3
-alt: Adultos mayores prioridad del AN -  Vázquez
+image: "/uploads/2021/images-MARIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW01_MARIO_VAZQUEZ.mp3"
+alt: "Adultos mayores prioridad del AN -  Vázquez"
 front: false
-section: Local
+section: "Local"
+news_id: 184297
 ---
 
 Dentro de la presentación de sus propuestas la cuales giran en tres ejes, este miércoles el candidato al distrito décimo sexto por el Partido Acción Nacional, Mario Vázquez Robles, señaló como prioridad la atención a adultos mayores.

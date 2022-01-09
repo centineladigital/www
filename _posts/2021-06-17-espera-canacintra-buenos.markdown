@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esperan buenos tiempos para los organismos empresariales así como para el estado"
-image: /uploads/2021/images-egegewgg.jpg
-video: nil
-audio: /uploads/2021/audio-egegewgg.jpg
-alt: Espera Canacintra buenos tiempos para Chihuahua con nueva admiración 
+image: "/uploads/2021/images-egegewgg.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-egegewgg.jpg"
+alt: "Espera Canacintra buenos tiempos para Chihuahua con nueva admiración "
 front: false
-section: Local
+section: "Local"
+news_id: 185085
 ---
 
 El presidente de la Canacintra, Antonio Valadez García señaló que estar satisfecho con las elecciones pasadas, así como comprometerse a continuar trabajando con el gobierno el cual en unos meses será representado por María Eugenia Campos, ante esto enfatizó que se pretende seguir con los proyectos que se tenían en municipio pero ahora a nivel estatal.

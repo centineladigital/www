@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Riesgo de infección reporta un aumento en la tasa de incidencia y complicaciones en niños, destaca médico de la UACh"
-image: /uploads/2021/images-NINOS-uach9.jpeg
-video: nil
-audio: nil
-alt: Covid-19 es capaz de infectar desde niños hasta adultos mayores
+image: "/uploads/2021/images-NINOS-uach9.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Covid-19 es capaz de infectar desde niños hasta adultos mayores"
 front: false
-section: Local
+section: "Local"
+news_id: 184123
 ---
 
 El virus SARS-CoV-2, que produce la enfermedad de Covid-19, es capaz de infectar a toda la población, desde niños pequeños hasta adultos mayores.

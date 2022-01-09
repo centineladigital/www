@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gobierno del Estado se une a las actividades conmemorativas celebradas a nivel mundial cada 2 de abril; el próximo viernes inaugurará mural “Alas y Raíces se ilumina de azul por el Autismo” en la ciudad de Chihuahua "
-image: /uploads/2021/images-IMG_1283_copy.jpg
-video: nil
-audio: nil
-alt: Iluminarán edificios de azul para crear conciencia sobre autismo
+image: "/uploads/2021/images-IMG_1283_copy.jpg"
+video: "nil"
+audio: "nil"
+alt: "Iluminarán edificios de azul para crear conciencia sobre autismo"
 front: false
-section: Local
+section: "Local"
+news_id: 183620
 ---
 
 En el marco del Día Mundial de la Concienciación sobre el Autismo, del 1 al 3 de abril se iluminarán de color azul diversos edificios de gobierno, inmuebles y monumentos de la ciudad de Chihuahua.

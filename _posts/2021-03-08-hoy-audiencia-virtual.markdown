@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Comparecerán hoy por presuntamente haber recibido dinero del exgobernador César D."
-image: /uploads/2021/images-6c66bbdf-7b9a-4937-98df-356e564104c4.jpg
-video: nil
-audio: nil
-alt: Hoy audiencia virtual vs Maru por caso nómina secreta
+image: "/uploads/2021/images-6c66bbdf-7b9a-4937-98df-356e564104c4.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hoy audiencia virtual vs Maru por caso nómina secreta"
 front: false
-section: Local
+section: "Local"
+news_id: 183323
 ---
 
 A las 9 horas de este día, el Tribunal Superior de Justicia agendó una nueva audiencia en contra de María Eugenia Campos Galván, Rodrigo de la Rosa y María Ávila Serna, quienes deberán comparecer de forma Virtual por presuntamente haber recibido recursos ilegales cuando eran diputados locales, por instrucción del exgobernador César Horacio D. J.

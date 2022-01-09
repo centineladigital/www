@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Habrá 570 vacantes esto vía internet."
-image: /uploads/2021/images-ana.jpg
-video: nil
-audio: /uploads/2021/audio-MW04_ANA_LUISA_HERRERA.mp3
-alt: Inicia feria de empleo para la mujer
+image: "/uploads/2021/images-ana.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW04_ANA_LUISA_HERRERA.mp3"
+alt: "Inicia feria de empleo para la mujer"
 front: false
-section: Local
+section: "Local"
+news_id: 183540
 ---
 
 Del 24 al 26 de marzo se llevará a cabo de forma virtual la Feria Nacional de Empleo “Mujeres Chihuahua 2021”, donde se contará con 570 ofertas de trabajo, la cual estará disponible dentro a través de la liga: www.stpschihuahua.com/feria2021.

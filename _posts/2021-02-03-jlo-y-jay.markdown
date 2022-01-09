@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Una vez al mes ‘Coach Conversations’ reunirá a dos personajes famosos en cada episodio, en un diálogo virtual que gira alrededor de las cosas que impactan la mente y la vida de los protagonistas. "
-image: /uploads/2021/images-campana-publicitaria-aparecen-michael-jordan.jpg
-video: nil
-audio: nil
-alt: JLo y Jay Shetty, primeros invitados a 'Coach' en YouTube
+image: "/uploads/2021/images-campana-publicitaria-aparecen-michael-jordan.jpg"
+video: "nil"
+audio: "nil"
+alt: "JLo y Jay Shetty, primeros invitados a 'Coach' en YouTube"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182684
 ---
 
 A través de su canal de YouTube, la firma de moda Coach presentó la serie Coach Conversations, un programa mensual en el que se reúnen en pares, durante unos 20 minutos, celebridades en amenas charlas sobre cultura, creatividad, comunidad y sociedad, temas que para Stuart Vevers, director creativo de la marca, deben formar parte de los valores e ideas que quieren expresar y resaltar en su campaña 2021. 

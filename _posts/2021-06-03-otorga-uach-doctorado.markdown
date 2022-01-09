@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El evento se llevó a cabo de forma virtual."
-image: /uploads/2021/images-HONORIS.jpg
-video: nil
-audio: /uploads/2021/audio-MJ04_LUIS_FIERRO.mp3
-alt: Otorga UACH Doctorado Honoris Causa a Edgar Morín
+image: "/uploads/2021/images-HONORIS.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ04_LUIS_FIERRO.mp3"
+alt: "Otorga UACH Doctorado Honoris Causa a Edgar Morín"
 front: false
-section: Local
+section: "Local"
+news_id: 184826
 ---
 
 Edgar Morín recibió este jueves un Doctorado Honoris Causa por parte de la Universidad Autónoma de Chihuahua, esto por ser filósofo impulsor de la transformación de la educación en el mundo.

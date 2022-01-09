@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Joseph Siravo falleció el 11 de abril a causa de cáncer, enfermedad con la que vivía desde 2017. "
-image: /uploads/2021/images-murio-joseph-siravo-actor-soprano-1.jpg
-video: nil
-audio: nil
-alt: Murió Joseph Siravo, actor de 'Los Soprano', a los 64 años
+image: "/uploads/2021/images-murio-joseph-siravo-actor-soprano-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Murió Joseph Siravo, actor de 'Los Soprano', a los 64 años"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183854
 ---
 
 Joseph Siravo conocido por dar vida a Johnny Soprano’ en la serie Los Soprano de HBO, murió el domingo 11 de abril, tras perder la lucha contra el cáncer de próstata a los 64 años. El actor Garry Pastore, su amigo y agente, fue el encargado de confirmar la noticia a través de las redes sociales, en donde lo definió como “un gran hombre” 

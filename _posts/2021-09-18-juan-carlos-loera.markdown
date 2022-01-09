@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Actualmente, 200 mil niñas, niños y adolescentes reciben este apoyo en el estado. "
-image: /uploads/2021/images-WhatsApp_Image_2021-09-18_at_10.57.47.jpeg
-video: nil
-audio: nil
-alt: Juan Carlos Loera participa en Batopilas en censo para ampliar becas Benito Juárez
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-18_at_10.57.47.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Juan Carlos Loera participa en Batopilas en censo para ampliar becas Benito Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 187858
 ---
 
 El delegado de Programas para el Desarrollo en Chihuahua, Juan Carlos Loera realizó una gira de trabajo en la lejana comunidad de Sorichique, en el municipio de Batopilas, para apoyar en la tarea del levantamiento del censo a fin de ampliar el número de niñas, niños y adolescentes beneficiarios del Programa de Becas Benito Juárez, en zonas indígenas y de muy alta marginación.

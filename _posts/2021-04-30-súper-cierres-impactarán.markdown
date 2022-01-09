@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Continuaremos en naranja otro mes, probablemente regresará a amarillo para junio."
-image: /uploads/2021/images-CORRAL1.jpg
-video: nil
-audio: /uploads/2021/audio-MV05_JAVIER_CORRAL.mp3
-alt: Súper cierres impactarán en contener aumento de COVID -  Gobernador
+image: "/uploads/2021/images-CORRAL1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV04_JAVIER_CORRAL.mp3"
+alt: "Súper cierres impactarán en contener aumento de COVID -  Gobernador"
 front: false
-section: Local
+section: "Local"
+news_id: 184222
 ---
 
 “Si va a impactar, como lo habíamos previsto” fueron las palabras del Gobernador del Estado, Javier Corral Jurado, al ser cuestionado respecto a los supercierres que se dieron durante dos fines de semana, destacando que estos fueron realizados para evitar el rojo. Sin embargo, debido a lo positivo de éstos, es poco probable que se repliquen otro fin de semana más.

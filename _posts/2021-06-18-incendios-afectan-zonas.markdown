@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Participan 370 brigadistas en el combate a incendios."
-image: /uploads/2021/images-ALMEIDA.jpg
-video: nil
-audio: /uploads/2021/audio-MV04_ALMEIDA.mp3
-alt: Incendios afectan zonas boscosas, no solamente arbustos
+image: "/uploads/2021/images-ALMEIDA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV04_ALMEIDA.mp3"
+alt: "Incendios afectan zonas boscosas, no solamente arbustos"
 front: false
-section: Local
+section: "Local"
+news_id: 185114
 ---
 
 Los incendios se están dando en zonas arboladas, señaló el titular de la Secretaría de Desarrollo Rural, Rene Almeida Grajeda, quien afirmó que anteriormente se había registrado incendios en la zona de pastizales o bien de áreas que tienen vegetación de matrorrales.

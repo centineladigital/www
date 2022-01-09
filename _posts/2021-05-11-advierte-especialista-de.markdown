@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Señala que este arácnido es de hábitos nocturnos y su mordedura no produce dolor"
-image: /uploads/2021/images-Araña_Violinista.jpg
-video: nil
-audio: nil
-alt: Advierte especialista de la UACH sobre mordedura araña violinista
+image: "/uploads/2021/images-Araña_Violinista.jpg"
+video: "nil"
+audio: "nil"
+alt: "Advierte especialista de la UACH sobre mordedura araña violinista"
 front: false
-section: Local
+section: "Local"
+news_id: 184401
 ---
 
 “Chihuahua es considerado como uno de los estados que más casos de mordedura de araña Violinista presenta, por lo que hay que reconocerla perfectamente como un arácnido café y en el dorso una mancha en forma de violín invertido; es de hábitos nocturnos y sin dolor en la mordedura, causa destrucción en la piel”, informó el Dr. Mario Alberto Rojas Alanís, catedrático de la Facultad de Medicina y Ciencias Biomédicas de la Universidad Autónoma de Chihuahua.

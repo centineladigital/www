@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esta administración se han construido 18 nuevos puentes."
-image: /uploads/2021/images-elizondo.jpg
-video: nil
-audio: /uploads/2021/audio-MW02_GUSTAVO_ELIZONDO.mp3
-alt: Invirtieron 7 mil mdp en carreteras en cuatro años
+image: "/uploads/2021/images-elizondo.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW02_GUSTAVO_ELIZONDO.mp3"
+alt: "Invirtieron 7 mil mdp en carreteras en cuatro años"
 front: false
-section: Local
+section: "Local"
+news_id: 183542
 ---
 
 Desde 2016 al 2020 se ha invertido por parte de la administración estatal un más de inversión superior a los 7 mil millones de pesos, según lo dio a conocer Gustavo Elizondo titular de la Secretaría de Comunicaciones y Obras Públicas.

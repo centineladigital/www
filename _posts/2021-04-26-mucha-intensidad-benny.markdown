@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Cómo fue la relación entre Benny Ibarra y Sasha Sokol? El ex Timbiriche rompió el silencio sobre este romance y explicó cómo fue que duraron más de tres años. Además contó su pasado con otras ex integrantes de la banda musical."
-image: /uploads/2021/images-intenso-romance-sasha-sokol-benny.jpg
-video: nil
-audio: nil
-alt: Mucha intensidad -  Benny Ibarra recuerda romance con Sasha Sokol en su paso por Timbiriche
+image: "/uploads/2021/images-intenso-romance-sasha-sokol-benny.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mucha intensidad -  Benny Ibarra recuerda romance con Sasha Sokol en su paso por Timbiriche"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184105
 ---
 
 Benny Ibarra, ex integrante de la banda Timbiriche, rompió el silencio sobre su pasado romance con Sasha Sokol, quien además de haber sido su compañera por años en la agrupación musical, actualmente sigue siendo parte importante en su vida. Tienen una buena amistad. ¿Cómo inició su romance? En entrevista con Yordi Rosado, Benny Ibarra contó detalles sobre su amorío con la famosa, además de que explicó si es verdad que también tuvo alguna relación afectiva con Thalía, Paulina Rubio o Mariana Garza –ex integrantes de Timbiriche–. En entrevista con el programa de YouTube de Yordi Rosado, Benny Ibarra recordó cómo fue su relación amorosa que tuvo con su ex compañera de Timbiriche Sasha Sokol. De acuerdo con lo revelado por el famoso, desde que la vio por primera vez sintió la química.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Eduardo Fernández, titular de SIDE, informa en “Logros con Valor que ese fue uno de los propósitos al crear la Dirección de Economía Social: promover una movilidad igualadora"
-image: /uploads/2021/images-Mipymes_2018.JPG
-video: nil
-audio: nil
-alt: Apostó Estado por la economía social y apoyó a 108 sociedades cooperativas
+image: "/uploads/2021/images-Mipymes_2018.JPG"
+video: "nil"
+audio: "nil"
+alt: "Apostó Estado por la economía social y apoyó a 108 sociedades cooperativas"
 front: false
-section: Local
+section: "Local"
+news_id: 186568
 ---
 
 A través de la Dirección de Economía Social, la Secretaría de Innovación y Desarrollo Económico (SIDE) dio apoyo para la creación de 108 sociedades cooperativas y a quienes se brindaron subsidios para la compra de maquinaria, de equipo y para capital de trabajo.

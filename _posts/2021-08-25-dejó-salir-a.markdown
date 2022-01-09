@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el caso de mi esposo, no hay nada físico, pero verbalmente sus palabras, su forma de reaccionar, de contestar, es igual abusivo, dijo la cantante en entrevista con 'Sale el sol'. "
-image: /uploads/2021/images-hizo-honor-a-su-apodo.jpg
-video: nil
-audio: nil
-alt: ¡Dejó salir a 'La dama de hierro'! Marisela corre a su esposo durante concierto; revela que sufrió abuso verbal
+image: "/uploads/2021/images-hizo-honor-a-su-apodo.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Dejó salir a 'La dama de hierro'! Marisela corre a su esposo durante concierto; revela que sufrió abuso verbal"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187087
 ---
 
 La cantante Marisela hizo valer su apodo, La dama de hierro, durante un concierto que tuvo lugar el pasado fin de semana, pues corrió a su esposo, Shuki Amar, durante el evento, situación que fue captada y difundida por sus fans en redes sociales. 

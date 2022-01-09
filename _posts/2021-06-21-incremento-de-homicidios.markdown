@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Víctimas principalmente se relacionan con el narcomenudeo."
-image: /uploads/2021/images-PENICHE.jpg
-video: nil
-audio: /uploads/2021/audio-ML03_CESAR_PENICHE.mp3
-alt: Incremento de homicidios se relaciona con el crimen organizado
+image: "/uploads/2021/images-PENICHE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML03_CESAR_PENICHE.mp3"
+alt: "Incremento de homicidios se relaciona con el crimen organizado"
 front: false
-section: Local
+section: "Local"
+news_id: 185151
 ---
 
 El incremento de homicidios en la capital del Estado se encuentra relacionado a acciones del crimen organizado, señaló el titular de la Fiscalía General de Chihuahua César Augusto Peniche Espejel.

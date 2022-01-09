@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras la salida de Jacky Bracamontes se ha especulado mucha acerca de la entrada de una conductora nueva. "
-image: /uploads/2021/images-michelle-renaud-podria-ser-la.jpg
-video: nil
-audio: nil
-alt: Michelle Renaud podría ser la nueva integrante de Netas Divinas
+image: "/uploads/2021/images-michelle-renaud-podria-ser-la.jpg"
+video: "nil"
+audio: "nil"
+alt: "Michelle Renaud podría ser la nueva integrante de Netas Divinas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183245
 ---
 
 A raíz de la salida de Jacqueline Bracamontes de Netas Divinas, uno de los programas más vistos de Unicable, se ha especulado acerca de la nueva conductora que podría integrarse al proyecto.  Los nombres de las ex integrantes Martha Figueroa e Isabel Lascurain son algunos de los que más han sonado a gracias a su participación en emisiones recientes, sin embargo Juan josé Origel reveló que Michelle Renaud podría ser una de las opciones más viables. 

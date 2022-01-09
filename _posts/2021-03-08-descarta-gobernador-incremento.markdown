@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Deben concesionarios cumplir con lineamientos antes de hablar de tarifas."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-ML03_JAVIER_CORRAL.mp3
-alt: Descarta Gobernador incremento en tarifa
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML03_JAVIER_CORRAL.mp3"
+alt: "Descarta Gobernador incremento en tarifa"
 front: false
-section: Local
+section: "Local"
+news_id: 183342
 ---
 
 “Yo no veo, realmente por ahora, posibilidades de incremento” fueron las palabras del Gobernador de Chihuahua, Javier Corral Jurado, al ser cuestionado sobre la petición que se hizo por parte de los concesionarios para que se dé un incremento a la tarifa del transporte publico.

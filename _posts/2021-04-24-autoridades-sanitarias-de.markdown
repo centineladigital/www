@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Estados Unidos dio luz verde para seguir con las vacunas covid de Johnson & Johnson."
-image: /uploads/2021/images-2567439.jpg
-video: nil
-audio: nil
-alt: Autoridades sanitarias de EU dan luz verde a vacunación covid con Johnson & Johnson
+image: "/uploads/2021/images-2567439.jpg"
+video: "nil"
+audio: "nil"
+alt: "Autoridades sanitarias de EU dan luz verde a vacunación covid con Johnson & Johnson"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184088
 ---
 
 Las autoridades sanitarias estadunidenses dieron luz verde el viernes a la reanudación de la inmunización contra el covid con la vacuna de Johnson & Johnson en Estados Unidos, que se suspendió el 13 de abril tras unos raros casos de trombosis.

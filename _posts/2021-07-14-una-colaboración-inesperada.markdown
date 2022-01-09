@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Camilo y Shawn Mendes sorprendieron a sus fans al lanzar su colaboración en el remix del tema Kesi; el canadiense canta en español. "
-image: /uploads/2021/images-shawn-mendes-sorprende-cantar-espanol_52_0_1044_650.jpg
-video: nil
-audio: nil
-alt: ¡Una colaboración inesperada! Shawn Mendes y Camilo lanzan el remix de 'Kesi'
+image: "/uploads/2021/images-shawn-mendes-sorprende-cantar-espanol_52_0_1044_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Una colaboración inesperada! Shawn Mendes y Camilo lanzan el remix de 'Kesi'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185675
 ---
 
 No cabe duda que muchos artistas, sean del mismo género musical o no, han apostado por unir sus talentos, algo que sin duda favorece no sólo a la industria musical sino que también a los fans quienes se deleitan con la música. Ahora, Camilo y Shawn Mendes han hecho una canción junta que pinta para ser un éxito. 

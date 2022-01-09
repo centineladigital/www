@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Se llevará a cabo de forma digital, invitan a jóvenes a buscar la mejor opción en página Dando el Brinco"
-image: /uploads/2021/images-LILIANA.jpg
-video: nil
-audio: /uploads/2021/audio-MW04_LILI.mp3
-alt: Fichas de ingreso a educación media serán del 12 al 30 de abril
+image: "/uploads/2021/images-LILIANA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW04_LILI.mp3"
+alt: "Fichas de ingreso a educación media serán del 12 al 30 de abril"
 front: false
-section: Local
+section: "Local"
+news_id: 183455
 ---
 
 Del 12 al 30 de abril se efectuará el registro en línea para la obtención de la ficha de ingreso en el área de educación media superior, según fue dado a conocer este miércoles por parte de la subsecretaria de Educación Media Superior y Superior, Liliana Rojero Luévano.

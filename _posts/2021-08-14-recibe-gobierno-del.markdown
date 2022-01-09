@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de la estrategia Mexicanos Sembrando la empresa entregó fresnos, huizaches, palmas abanico, palo verde y pino piñonero para reforestar la ciudad de Chihuahua, informa la Coordinación de Relaciones Públicas; las especies serán distribuidas por el Ayuntamiento de Chihuahua"
-image: /uploads/2021/images-Reforestación_(1).jpeg
-video: nil
-audio: nil
-alt: Recibe Gobierno del Estado donativo de 8,974 árboles  de Grupo México
+image: "/uploads/2021/images-Reforestación_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Recibe Gobierno del Estado donativo de 8,974 árboles  de Grupo México"
 front: false
-section: Local
+section: "Local"
+news_id: 186708
 ---
 
 El Gobierno del Estado recibió 8 mil  974 árboles para reforestar la ciudad de Chihuahua, donados por la Fundación Grupo México mediante la estrategia Mexicanos Sembrando, informó la Coordinación de Relaciones Públicas.

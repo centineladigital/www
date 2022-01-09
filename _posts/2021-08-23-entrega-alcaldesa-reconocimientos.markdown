@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En la cual se reconoció a 36 elementos jubilados de la Dirección de Seguridad Pública Municipal (DSPM) que cumplieron 30 años de servicio dentro de la corporación"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Entrega Alcaldesa reconocimientos a policías y bomberos jubilados
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Entrega Alcaldesa reconocimientos a policías y bomberos jubilados"
 front: false
-section: Local
+section: "Local"
+news_id: 187027
 ---
 
 La presidenta municipal, María Angélica Granados Trespalacios, encabezó la “Ceremonia de Reconocimiento por el Deber Cumplido 2019-2020”, en la cual se reconoció a 36 elementos jubilados de la Dirección de Seguridad Pública Municipal (DSPM) que cumplieron 30 años de servicio dentro de la corporación.

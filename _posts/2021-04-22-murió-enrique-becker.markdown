@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Asociación Nacional de Intérpretes (ANDI) dio a conocer la triste noticia; el actor comenzó su carrera en la televisión en la década de los 60. "
-image: /uploads/2021/images-enrique-becker-twitter.jpg
-video: nil
-audio: nil
-alt: Murió Enrique Becker, actor de 'La casa de las flores' y 'Como dice el dicho'
+image: "/uploads/2021/images-enrique-becker-twitter.jpg"
+video: "nil"
+audio: "nil"
+alt: "Murió Enrique Becker, actor de 'La casa de las flores' y 'Como dice el dicho'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184043
 ---
 
 El gremio actoral de México está de luto, pues este miércoles se anunció que Enrique Becker, quien participó en producciones televisivas como La casa de las flores y Como dice el dicho, falleció. Así lo dio a conocer la Asociación Nacional de Intérpretes (ANDI). "ANDI México comunica el sensible fallecimiento del socio intérprete Enrique Becker. Se le recuerda por su participación en Mundo de juguete”, Lazos de amor y, recientemente, por La casa de las flores. A sus familiares y amigos les mandamos nuestras condolencias", informó la institución en Twitter. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La serie 'And Just Like That...', llegará a la pantalla chica a mediados de este año a través de HBO Max. "
-image: /uploads/2021/images-sarah-jessica-parker-serie-sex.jpg
-video: nil
-audio: nil
-alt: “Mencionará la pandemia” -  Sarah Jessica Parker sobre la nueva serie de 'Sex and the City'
+image: "/uploads/2021/images-sarah-jessica-parker-serie-sex.jpg"
+video: "nil"
+audio: "nil"
+alt: "“Mencionará la pandemia” -  Sarah Jessica Parker sobre la nueva serie de 'Sex and the City'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182666
 ---
 
 A principios de este año se anunció que HBO Max traerá de vuelta la icónica serie Sex and the City, a través de un un nuevo programa titulado  And Just Like That..., que contará con Sarah Jessica Parker en su famoso personaje de Carrie Bradshaw, Cynthia Nixon como Miranda Hobbes y Kristin Davis como Charlotte York. 

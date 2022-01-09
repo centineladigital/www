@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Erik Rubín recordó cómo surgió el triángulo amoroso que protagonizó con Paulina Rubio y Alejandra Guzmán, y, a quien de lados eligió. "
-image: /uploads/2021/images-erik-rubin-recordo-romance-cantantes_(1).jpg
-video: nil
-audio: nil
-alt: Erik Rubín relata cómo fue el triángulo amoroso con Paulina Rubio y Alejandra Guzmán
+image: "/uploads/2021/images-erik-rubin-recordo-romance-cantantes_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Erik Rubín relata cómo fue el triángulo amoroso con Paulina Rubio y Alejandra Guzmán"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183244
 ---
 
 Mucho se ha hablado sobre el triángulo amoroso que protagonizaron Paulina Rubio, Alejandra Guzmán y Erik Rubín, razón por la que las cantantes crearon los éxitos "Hey güera", de Alejandra, mientras que la Chica Dorada lanzó el tema "Mío". El único que no se había pronunciado al respecto sobre este tema era el ex integrante de Timbiriche, hasta ahora. En una entrevista con el Escorpión Dorada, Erik Rubín fue cuestionado sobre las relaciones amorosas que mantuvo con Paulina Rubio y Alejandra Guzmán, el ahora esposo de Andrea Legarretacontó detalles que muy pocos sabían. 

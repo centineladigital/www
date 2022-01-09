@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Fueron dos primeros lugares obtenidos en equipos en las categorías: Inicial e Infantil, mientras que obtuvo un segundo lugar para la categoría de Pasarela.   "
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Premian a Dorados Academy como la mejor delegación en copa de básquetbol
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Premian a Dorados Academy como la mejor delegación en copa de básquetbol"
 front: false
-section: Local
+section: "Local"
+news_id: 185040
 ---
 
 Este fin de semana Dorados Academy de básquetbol arrasó en la sexta Copa COACH, celebrada en la ciudad de Saltillo, Coahuila, donde obtuvieron el reconocimiento como la mejor delegación por ser la academia con más lugares premiados en la competencia.

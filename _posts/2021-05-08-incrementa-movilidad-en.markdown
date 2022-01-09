@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Luego de dos jornadas con supercierres en Chihuahua, los habitantes se han hecho cita en dichos lugares para disfrutar de un fin de semana"
-image: /uploads/2021/images-restaurantes4.jpg
-video: nil
-audio: nil
-alt: Incrementa movilidad en plazas comerciales y restaurantes
+image: "/uploads/2021/images-restaurantes4.jpg"
+video: "nil"
+audio: "nil"
+alt: "Incrementa movilidad en plazas comerciales y restaurantes"
 front: false
-section: Local
+section: "Local"
+news_id: 184367
 ---
 
 Un incremento de movilidad en las plazas comerciales y restaurantes de la ciudad se registró este fin de semana, posterior a las dos jornadas de supercierre, que en conjunto suman 4 días de restricciones.

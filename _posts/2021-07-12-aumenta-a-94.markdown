@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cifra provisional de fallecidos por derrumbe de edificio residencial en Surfside, en el sur de Florida, Estados Unidos, se eleva 94 este lunes, ya que equipos de búsqueda rescataron otros cuatro cuerpos."
-image: /uploads/2021/images-victimas_derrumbe_colapso.jpg
-video: nil
-audio: nil
-alt: Aumenta a 94 la cifra de muertos en Miami por derrumbe de edificio
+image: "/uploads/2021/images-victimas_derrumbe_colapso.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aumenta a 94 la cifra de muertos en Miami por derrumbe de edificio"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185561
 ---
 
 La alcaldesa del condado Miami-Dade, Daniella Levine Cava, informó en su rueda de prensa diaria que la cifra de desaparecidos por el derrumbe del edificio Champlain Towers South se ubica hoy en 22, mientras que el número de personas localizadas es de 222. 

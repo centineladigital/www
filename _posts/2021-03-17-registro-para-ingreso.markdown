@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las y los aspirantes deberán ingresar al enlace: https://sie.chihuahua.gob.mx/publico/mediasuperior/ para obtener su ficha, la evaluación diagnóstica será el 25 de junio y la publicación de resultados el 16 de julio"
-image: /uploads/2021/images-SED_8072.JPG
-video: nil
-audio: nil
-alt:  Registro para ingreso a media superior será del 12 al 30 de abril
+image: "/uploads/2021/images-SED_8072.JPG"
+video: "nil"
+audio: "nil"
+alt: " Registro para ingreso a media superior será del 12 al 30 de abril"
 front: false
-section: Local
+section: "Local"
+news_id: 183452
 ---
 
 La Secretaría de Educación y Deporte (SEyD) informó que del 12 al 30 de abril se efectuará el registro en línea para la obtención de la ficha de ingreso en los centros escolares de modalidad escolarizada incorporados a los 13 subsistemas de educación media superior que operan en la entidad.

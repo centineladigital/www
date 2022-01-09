@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En total suman 69 mil 174 acumulados y 7 mil 039 fallecimientos; el número pacientes hospitalizados se mantuvo en 96, al igual que las personas intubadas con 24"
-image: /uploads/2021/images-Diapositiva3.JPG
-video: nil
-audio: nil
-alt: Reporta Salud otros 257 casos confirmados de COVID-19 y 9 decesos en la entidad
+image: "/uploads/2021/images-Diapositiva3.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporta Salud otros 257 casos confirmados de COVID-19 y 9 decesos en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 184944
 ---
 
 La Secretaría de Salud estatal informó en su reporte epidemiológico que se confirmaron 257 casos de COVID-19 así como nueve decesos, los cuales se registraron en Juárez (5) y el resto en Ahumada, Allende, Temósachic y Carichí.

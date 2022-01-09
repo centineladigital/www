@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El comportamiento colectivo es lo que va a permitir mantener y mejorar la situación, así como avanzar hacia la reapertura gradual, segura y constante, sin tener que retroceder en el semáforo epidemiológico: Javier Corral"
-image: /uploads/2021/images-Arranque_del_semaforo_Amarillo_Seguro__Gobernador_Javier_Corral_18_ene_(1).jpeg
-video: nil
-audio: nil
-alt: Acuerdos amplían las medidas para cuidar la salud de las y los chihuahuenses -  Gobernador
+image: "/uploads/2021/images-Arranque_del_semaforo_Amarillo_Seguro__Gobernador_Javier_Corral_18_ene_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Acuerdos amplían las medidas para cuidar la salud de las y los chihuahuenses -  Gobernador"
 front: false
-section: Local
+section: "Local"
+news_id: 182213
 ---
 
 En el arranque del semáforo Amarillo Seguro a partir de este lunes, el gobernador Javier Corral Jurado, indicó que ante la evolución de la pandemia de COVID-19, el objetivo de los nuevos acuerdos es el de ampliar las medidas sanitarias impuestas, dando prioridad en todo momento a la salud de las y los chihuahuenses.

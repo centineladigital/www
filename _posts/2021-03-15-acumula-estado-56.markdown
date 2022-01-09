@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma Salud 61 nuevos casos en las últimas 24 horas sin ninguna defunción;  los municipios con más contagios activos son Chihuahua con 300, Juárez con 112 y Parral con 86 "
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Acumula estado 56 mil 807 contagios y 5 mil 498 defunciones de COVID-19
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Acumula estado 56 mil 807 contagios y 5 mil 498 defunciones de COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 183421
 ---
 
 Con 61 contagios registrados en las últimas 24 horas, el estado de Chihuahua llegó a 56 mil 807 casos confirmados de COVID-19, informó la Secretaría de Salud en el último reporte epidemiológico correspondiente a este 15 de marzo.

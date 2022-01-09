@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Corral les prometió un nuevo amanecer el cual nunca llegó"
-image: /uploads/2021/images-NORMA_LEDEZMA.jpg
-video: /uploads/2021/videos-BL02_NORMA_LEDEZMA.mp4
-audio: nil
-alt: La administración de Javier corral tuvo una justicia selectiva -  Norma Ledezma  
+image: "/uploads/2021/images-NORMA_LEDEZMA.jpg"
+video: "/uploads/2021/videos-BL02_NORMA_LEDEZMA.mp4"
+audio: "nil"
+alt: "La administración de Javier corral tuvo una justicia selectiva -  Norma Ledezma  "
 front: false
-section: Local
+section: "Local"
+news_id: 187270
 ---
 
 Norma Ledezma fundadora de la asociación” Justicia para nuestras hija” afirmó que el gobierno de Javier Corral les quedó debiendo respecto a las carpetas de investigación de la fundación ,las cuales en palabras de la misma Norma en palacio de gobierno  se encuentran oficios desde hace 3 años los cuales jamás tuvieron resolución.

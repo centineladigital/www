@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Autoridades electorales de Quintana Roo revelaron que tres capacitadores asistentes electorales contratados para hacer trabajo temporal en el proceso 2020-2021, dieron positivo a Covid-19"
-image: /uploads/2021/images-2558320.jpg
-video: nil
-audio: nil
-alt: Reportan contagios por COVID de trabajadores electorales en Cancún
+image: "/uploads/2021/images-2558320.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reportan contagios por COVID de trabajadores electorales en Cancún"
 front: false
-section: Local
+section: "Local"
+news_id: 183727
 ---
 
 Autoridades electorales de Quintana Roo revelaron que tres capacitadores asistentes electorales (CAES), contratados para hacer trabajo temporal en el proceso 2020-2021, dieron positivo a Covid-19.

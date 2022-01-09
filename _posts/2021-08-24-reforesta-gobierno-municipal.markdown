@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los parques reforestados están ubicados en la colonia Lomas Karike, en la calle 30 y Justiniani, y en calle La Paz en colonia La Junta, donde se colocaron un total de 53 árboles"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Reforesta Gobierno Municipal seis espacios públicos con 114 árboles
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Reforesta Gobierno Municipal seis espacios públicos con 114 árboles"
 front: false
-section: Local
+section: "Local"
+news_id: 187048
 ---
 
 El Gobierno Municipal a través de la Dirección de Mantenimiento Urbano, llevó a cabo la reforestación de seis espacios públicos en diferentes puntos de la ciudad, donde se plantaron un total de 114 árboles y arbustos.

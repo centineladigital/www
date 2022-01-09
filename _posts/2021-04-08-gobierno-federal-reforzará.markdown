@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "López Obrador aseguró que se reforzará el plan de vacunación contra COVID y vacunar a la población lo más pronto posible; aún esperan los efectos del relajamiento por Semana Santa"
-image: /uploads/2021/images-2558956.jpg
-video: nil
-audio: nil
-alt: Gobierno federal reforzará plan nacional de vacunación contra COVID
+image: "/uploads/2021/images-2558956.jpg"
+video: "nil"
+audio: "nil"
+alt: "Gobierno federal reforzará plan nacional de vacunación contra COVID"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183760
 ---
 
 El presidente Andrés Manuel López Obrador informó que se reforzará el plan nacional de vacunación contra el Covid-19 para que en el menor tiempo posible se cumpla con el compromiso de inmunizar a todos los adultos mayores de 60 años.

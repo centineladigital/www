@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras la polémica que rodeó al actor como un abuso sexual, Armie Hammer decidió ingresar a una clínica de rehabilitación para tratar sus adicciones. "
-image: /uploads/2021/images-actor-acusado-abuso-sexual-canibalismo.jpg
-video: nil
-audio: nil
-alt: Armie Hammer ingresa a clínica de rehabilitación por problemas de alcohol, sexo y drogas
+image: "/uploads/2021/images-actor-acusado-abuso-sexual-canibalismo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Armie Hammer ingresa a clínica de rehabilitación por problemas de alcohol, sexo y drogas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184958
 ---
 
 Desde hace varios meses Armie Hammer ha estado involucrado en la polémica, esto después de que se le acusara de ser caníbal y que se destapara una ola de acusaciones de abuso y acoso sexual en su contra. Ahora, ha trascendido que el protagonista de Call me by your name ingresó a una clínica de rehabilitación por sus adicciones. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El mandatario recordó que se trata de un proceso, y poco a poco se incorporarán más estudiantes presencialmente a las escuelas"
-image: /uploads/2021/images-presidente-enlace-autoridades-educativas-regreso_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: SEP y AMLO agradecen a maestros y padres de familia por apoyo en regreso a clases
+image: "/uploads/2021/images-presidente-enlace-autoridades-educativas-regreso_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "SEP y AMLO agradecen a maestros y padres de familia por apoyo en regreso a clases"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187234
 ---
 
 El presidente Andrés Manuel López Obrador y la titular de la Secretaría de Educación Pública (SEP), Delfina Gómez Álvarez, agradecieron a los padres de familia, así como a todo el personal educativo por el apoyo que recibieron para llevar a cabo el regreso a clases presenciales en todo el país. 

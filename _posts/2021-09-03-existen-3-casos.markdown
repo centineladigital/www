@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "2 en el estado de Chihuahua y 1 en ciudad Jiménez "
-image: /uploads/2021/images-eva_trujillo.jpg
-video: /uploads/2021/videos-BV03_EVA_TRUJILLO_.mp4
-audio: nil
-alt: Existen 3 casos sospechosos de covid en el rubro educativo 
+image: "/uploads/2021/images-eva_trujillo.jpg"
+video: "/uploads/2021/videos-BV03_EVA_TRUJILLO_.mp4"
+audio: "nil"
+alt: "Existen 3 casos sospechosos de covid en el rubro educativo "
 front: false
-section: Local
+section: "Local"
+news_id: 187416
 ---
 
 La coordinadora de la Secretaria de Educación Pública Eva Trujillo mencionó que sobre el tema de los casos de covid presentados en docentes en este reingreso a clases presenciales, se tienen 3 casos sospechosos.

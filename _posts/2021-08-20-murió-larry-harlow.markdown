@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El músico trabajó con los grandes íconos del género, tales como Celia Cruz, Hector Lavoe, Richie Ray, Eddie Palmieri y Papo Lucca, entre muchos otros. "
-image: /uploads/2021/images-murio-larry-harlow-a-los_16_0_948_590.jpeg
-video: nil
-audio: nil
-alt: Murió Larry Harlow, uno de los mayores exponentes de la salsa en el mundo, a los 82 años
+image: "/uploads/2021/images-murio-larry-harlow-a-los_16_0_948_590.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Murió Larry Harlow, uno de los mayores exponentes de la salsa en el mundo, a los 82 años"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186931
 ---
 
 Larry Harlow, uno de los mayores exponentes de la salsa en el mundo, murió este viernes a los 82 años en un hospital de Nueva York, Estados Unidos, luego de padecer una enfermedad renal, según informaron sus familiares. "A todos los Salseros del Mundo les informo con profundo dolor que luego de 32 días hospitalizado mi amado Larry falleció a las 12:30 de la madrugada del 21 de agosto de 2021 a causa de complicaciones como paciente renal que debilitaron su ya agotado corazón", expresó su esposa en las redes sociales de uno de los fundadores de la Fania. 

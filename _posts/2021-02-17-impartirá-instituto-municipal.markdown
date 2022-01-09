@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Una de las prioridades del Gobierno Municipal es emprender acciones para eliminar todas las formas de violencia contra las mujeres, niñas, niños y adolescentes trabajando bajo una perspectiva que atienda a los derechos humanos."
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Impartirá Instituto Municipal de las Mujeres plática virtual para conocer más sobre la trata de personas
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Impartirá Instituto Municipal de las Mujeres plática virtual para conocer más sobre la trata de personas"
 front: false
-section: Local
+section: "Local"
+news_id: 182992
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM), hace una atenta invitación a la plática “¿Sabes qué es la trata de personas? Abordaje básico del delito” que será impartida el jueves 25 de febrero a las 9:30 horas vía Zoom.

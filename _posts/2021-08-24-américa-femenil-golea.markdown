@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Las Águilas se mantienen en la parte alta de la tabla y en casa retomaron el camino de la victoria"
-image: /uploads/2021/images-E9hHLeVX0AEjyR8.jpg
-video: nil
-audio: nil
-alt: América Femenil golea al Atlético de San Luis
+image: "/uploads/2021/images-E9hHLeVX0AEjyR8.jpg"
+video: "nil"
+audio: "nil"
+alt: "América Femenil golea al Atlético de San Luis"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187041
 ---
 
 Con el primer tercio del torneo concluido, el América Femenil mantiene el pulso, gestiona sus partidos y logra los puntos con un estilo que poco a poco se va asentando. El cuadro de Craig Harrington sigue aferrado a los primeros lugares, venció al Atlético de San Luis por 4-0 en el estadio Azteca y se aferra a las primeras plazas. 

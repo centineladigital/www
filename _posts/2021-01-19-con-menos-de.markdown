@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Solamente dos hospitales se encuentran al cien por ciento."
-image: /uploads/2021/images-LETICIA_RUIZ_(1).jpg
-video: nil
-audio: /uploads/2021/audio-MM02_LETICIA_RUIZ.mp3
-alt: Con menos de un 50 por ciento de capacidad 24 hostpiales IRAG
+image: "/uploads/2021/images-LETICIA_RUIZ_(1).jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM02_LETICIA_RUIZ.mp3"
+alt: "Con menos de un 50 por ciento de capacidad 24 hostpiales IRAG"
 front: false
-section: Local
+section: "Local"
+news_id: 182261
 ---
 
 El 73 por ciento de los hospitales que tratan enfermedades respiratorias se encuentran con menos de un 50 por ciento de ocupación, según lo dio a conocer la Subdirectora de Medicina Preventiva Leticia Ruiz González.

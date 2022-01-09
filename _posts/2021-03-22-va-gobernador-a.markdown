@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa Javier Corral que este martes acudirán mandatarios estatales a Palacio Nacional; considera que también hay que blindar del manejo político-electoral el tema de la vacunación contra COVID-19"
-image: /uploads/2021/images-Red_de_Fortalecimiento_Familiar_Juárez_9.jpeg
-video: nil
-audio: nil
-alt:  Va Gobernador a reunión sobre blindaje electoral con Presidente de la República
+image: "/uploads/2021/images-Red_de_Fortalecimiento_Familiar_Juárez_9.jpeg"
+video: "nil"
+audio: "nil"
+alt: " Va Gobernador a reunión sobre blindaje electoral con Presidente de la República"
 front: false
-section: Local
+section: "Local"
+news_id: 183504
 ---
 
 El gobernador Javier Corral y sus homólogos de otros estados se reunirán este martes con el presidente Andrés Manuel López Obrador (AMLO) en Palacio Nacional, para dialogar sobre el acuerdo de blindaje del proceso electoral 2021.

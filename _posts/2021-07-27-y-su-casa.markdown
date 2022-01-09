@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un representante del artista reveló que West planea permanecer dentro del estadio Mercedes-Benz."
-image: /uploads/2021/images-proyecto-west-llega-album-gospel.jpg
-video: nil
-audio: nil
-alt: ¿Y su casa? Kanye West vive actualmente en un estadio de Atlanta; ésta es la razón
+image: "/uploads/2021/images-proyecto-west-llega-album-gospel.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Y su casa? Kanye West vive actualmente en un estadio de Atlanta; ésta es la razón"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186045
 ---
 
 Tras su separación de Kim Kardashian, Kanye West ha dado mucho de qué hablar, pues luego de ser captado junto a la modelo Irina Shayk en Francia y su visita a la ciudad de Oaxaca junto a su hija North, el rapero se puso a trabajar en un nuevo disco que lo llevó a un proceso creativo muy inusual, pues ha estado viviendo dentro de un estadio de Atlanta. Un representante del artista reveló que West planea permanecer dentro del estadio Mercedes-Benz hasta terminar Donda, su decimo álbum de estudio; destaca que dicha persona dio a conocer esta información bajo condición de permanecer en anonimato, porque no tenía autorizado hacer declaraciones públicas sobre el tema. 

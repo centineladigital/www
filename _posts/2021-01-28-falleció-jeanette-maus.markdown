@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La noticia de su muerte la confirmó Capcom junto a emotivo mensaje; la actriz tenía 39 años. Te contamos lo que sabemos sobre su muerte. "
-image: /uploads/2021/images-fallecio-jeanette-maus-actriz-interpreto.jpg
-video: nil
-audio: nil
-alt: Falleció Jeanette Maus, actriz de 'Resident Evil Village'
+image: "/uploads/2021/images-fallecio-jeanette-maus-actriz-interpreto.jpg"
+video: "nil"
+audio: "nil"
+alt: "Falleció Jeanette Maus, actriz de 'Resident Evil Village'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182516
 ---
 
 Jeanette Maus, actriz que prestó su voz para varios personajes de Resident Evil Village murió. La noticia que rápido ha conmocionado al mundo del entretenimiento se dio a conocer desde la cuenta oficial de Capcom. Te contamos lo que informaron tras el fallecimiento de la mujer de 39 años. Las muestras de afecto hacia la actriz se han hecho visibles en las redes sociales, en donde la recuerdan como una mujer profesional y apasionada por su carrera.

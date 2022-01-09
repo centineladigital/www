@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A un año del inicio de la pandemia suman 56 mil 087 casos y 5 mil 449 decesos"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Se contagian 186 personas y 29 más fallecen por COVID-19 en la entidad
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Se contagian 186 personas y 29 más fallecen por COVID-19 en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 183368
 ---
 
 La Secretaría de Salud dio a conocer que en las últimas 24 horas se confirmaron en la entidad 186 nuevos contagios por SARS-CoV-2 y 29 fallecimientos más, de los cuales 12 corresponden a  Chihuahua, 5 a Juárez,  2 a Cuauhtémoc y uno en cada uno de los municipios de Delicias, Parral, Camargo,  Jiménez,  Ojinaga, Bocoyna, San Francisco del Oro, Ahumada, Manuel Benavides y Bachíniva.

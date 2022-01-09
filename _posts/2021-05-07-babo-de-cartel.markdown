@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El vocalista de Cartel de Santa reveló que hace unos años se colocó unas perlas en su miembro para darle más placer a sus parejas sexuales. "
-image: /uploads/2021/images-el-cantante-conto-de-que.jpg
-video: nil
-audio: nil
-alt: Babo de 'Cartel de Santa' revela que se implantó perlas en su miembro para satisfacer a su pareja
+image: "/uploads/2021/images-el-cantante-conto-de-que.jpg"
+video: "nil"
+audio: "nil"
+alt: "Babo de 'Cartel de Santa' revela que se implantó perlas en su miembro para satisfacer a su pareja"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184346
 ---
 
 Babo, el vocalista de Cartel de Santa se ha caracterizado por mostrar en redes sociales algunos aspectos de su vida como el amor que tiene por su singular mascota, una pantera negra. Ahora, Eduardo Dávalos, verdadero nombre del cantante reveló que hace unos años se sometió a un procedimiento para que le colocarán perlas en su miembro. El pearling, práctica que se aplicó Babo consiste en que las personas con pene se coloquen en su miembro perlas o canicas, esto con la finalidad de que al momento de tener relaciones sexuales, su parejas tengan más placer. 

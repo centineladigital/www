@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Además, personas acreditadas para el Grand Slam también fueron aisladas. Se sometieron a un test este día, luego que un trabajador de uno de los hoteles diera positivo a coronavirus"
-image: /uploads/2021/images-2522966.jpg
-video: nil
-audio: nil
-alt: Aíslan a cientos de tenistas tras caso de covid en Australia
+image: "/uploads/2021/images-2522966.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aíslan a cientos de tenistas tras caso de covid en Australia"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182654
 ---
 
 Entre 500 y 600 tenistas y otras personas acreditadas en Melbourne para el Abierto de Australia fueron aislados y pasaron un test este miércoles, después de que un trabajador de uno de los hoteles en los que se alojan diera positivo al covid-19, anunciaron las autoridades del estado de Victoria.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Líder criminal era parte del grupo de Los Salgueiro.  Dan a conocer por menores de su captura dentro de la mesa de seguridad."
-image: /uploads/2021/images-EMILIO.jpg
-video: /uploads/2021/videos-MW02_EMILIO_GARCIA.mp4
-audio: nil
-alt: Detienen al 13 junto con otros 3 
+image: "/uploads/2021/images-EMILIO.jpg"
+video: "/uploads/2021/videos-MW02_EMILIO_GARCIA.mp4"
+audio: "nil"
+alt: "Detienen al 13 junto con otros 3 "
 front: false
-section: Local
+section: "Local"
+news_id: 186577
 ---
 
 La detención de “El 13” Melquiades D. M., alias “El 13” o “Chapo Calín”, lideraba al grupo de Los Salgueiro, fue confirmada por parte del Secretario de Seguridad Pública Estatal, Emilio García Ruiz, quien dijo que este detenido pertenece a grupo de los Salgueiro.

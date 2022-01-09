@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Señala la dependencia estatal que las precipitaciones serán de aisladas a dispersas en Ahumada, Guerrero, Bocoyna, Nonoava, Guachochi, Guadalupe y Calvo, Balleza, Cuauhtémoc, Chihuahua, Satevó, Parral, Jiménez, Camargo, Delicias, Coyame y Ojinaga"
-image: /uploads/2021/images-LLUVIA_NUBLADO_CUU_(9).JPG
-video: nil
-audio: nil
-alt: Pronostica Protección Civil lluvias, calor y rachas de viento de hasta 55 km/h
+image: "/uploads/2021/images-LLUVIA_NUBLADO_CUU_(9).JPG"
+video: "nil"
+audio: "nil"
+alt: "Pronostica Protección Civil lluvias, calor y rachas de viento de hasta 55 km/h"
 front: false
-section: Local
+section: "Local"
+news_id: 184423
 ---
 
 Para este miércoles 12 de mayo se pronostican lluvias de aisladas a dispersas en Ahumada, Guerrero, Bocoyna, Nonoava, Guachochi, Guadalupe y Calvo, Balleza, Cuauhtémoc, Chihuahua, Satevó, Parral, Jiménez, Camargo, Delicias, Coyame, y Ojinaga, informó la Coordinación Estatal de Protección Civil (CEPC).

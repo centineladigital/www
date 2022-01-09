@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor de 25 años será el protagonista de una nueva cinta centrada en la juventud del dulcero antes de convertiste en dueño de la fábrica. "
-image: /uploads/2021/images-timothee-chalamet-sera-willy-wonka.jpg
-video: nil
-audio: nil
-alt: ¡El origen del chocolatero! Timothée Chalamet será un joven Willy Wonka en nueva película
+image: "/uploads/2021/images-timothee-chalamet-sera-willy-wonka.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡El origen del chocolatero! Timothée Chalamet será un joven Willy Wonka en nueva película"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184627
 ---
 
 A principios del año se confirmó que la historia de Willy Wonka, el chocolatero más famoso del mundo, tendría una película. La cinta se titulará Wonka y estará dirigida por Paul King, director de la trilogía de Paddington. Ahora, el portal Deadline acaba de confirmar que Timothée Chalamet será el protagonista. El actor franco-estadunidense de 25 años dará vida a un joven Willy Wonka en el largometraje a cargo de la casa productora Warner Bros., cuya fecha de estreno está prevista para el 17 de marzo de 2023 y se centrará centrada en la juventud del dulcero antes de convertiste en dueño de la fábrica. 

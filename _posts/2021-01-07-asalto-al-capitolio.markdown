@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En un ataque inédito, seguidores de Trump tomaron el Congreso e interrumpieron la certificación del triunfo de Biden, que se reanudó horas mas tarde"
-image: /uploads/2021/images-2507668.jpg
-video: nil
-audio: nil
-alt: Asalto al Capitolio; día de furia dejó cuatro muertos y 52 detenidos
+image: "/uploads/2021/images-2507668.jpg"
+video: "nil"
+audio: "nil"
+alt: "Asalto al Capitolio; día de furia dejó cuatro muertos y 52 detenidos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 181934
 ---
 
 Donald Trump prometió a sus seguidores que el miércoles sería un día “salvaje” y lo cumplió.

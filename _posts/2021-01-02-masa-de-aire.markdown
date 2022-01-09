@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Coordinación Estatal de Protección Civil dio a conocer que se esperan mínimas de hasta -10 grados centígrados en municipios de la zona noroeste y de -3 en la capital"
-image: /uploads/2021/images-WhatsApp_Image_2021-01-01_at_15.50.44.jpeg
-video: nil
-audio: nil
-alt: Masa de aire polar mantendrá bajas temperaturas en gran parte del estado
+image: "/uploads/2021/images-WhatsApp_Image_2021-01-01_at_15.50.44.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Masa de aire polar mantendrá bajas temperaturas en gran parte del estado"
 front: false
-section: Local
+section: "Local"
+news_id: 181823
 ---
 
 Una masa de aire polar que permanece sobre gran parte del estado de Chihuahua, mantendrá ambiente de gélido a muy frío durante el próximo fin de semana, de acuerdo con el pronóstico del Servicio Meteorológico Nacional, dio a conocer la Coordinación Estatal de Protección Civil (CEPC).

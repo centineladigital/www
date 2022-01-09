@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz regresa a la saga del 'Rey de los siete mares' para dar vida de nuevo a la madre del superhéroe, interpretado por Jason Momoa. "
-image: /uploads/2021/images-nicole-kidman-vuelve-secuela-aquaman_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Nicole Kidman volverá a interpretar a la reina Atlanna en 'Aquaman 2'
+image: "/uploads/2021/images-nicole-kidman-vuelve-secuela-aquaman_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Nicole Kidman volverá a interpretar a la reina Atlanna en 'Aquaman 2'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187525
 ---
 
 Uno de los triunfos de la primera entrega de Aquaman fue construir una historia llena de acción sin olvidar su parte más emotiva. Para ello fue fundamental el personaje de la reina Atlanna, a quien dio vida la actriz ganadora del Oscar Nicole Kidman y que regresará en la secuela inspirada en el superhéroe de DC Comics. 

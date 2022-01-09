@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Después de los Juegos Olímpicos, te decimos cuándo serán los próximos grandes eventos deportivos en todo el mundo "
-image: /uploads/2021/images-el-mundial-de-qatar-se_17_0_530_330.jpg
-video: nil
-audio: nil
-alt: Después de Tokio 2020, ¿cuáles son los próximos eventos deportivos?
+image: "/uploads/2021/images-el-mundial-de-qatar-se_17_0_530_330.jpg"
+video: "nil"
+audio: "nil"
+alt: "Después de Tokio 2020, ¿cuáles son los próximos eventos deportivos?"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186453
 ---
 
 Este domingo terminaron los Juegos Olímpicos de Tokio 2020, después de 19 días oficiales de actividades, medallas, historias y muchas emociones, la justa veraniega baja su cortina dejando un sentimiento de nostalgia entre deportistas y sobre todo en los aficionados, quienes sin importar la hora, seguían a sus disciplinas o deportistas favoritos para estar al tanto de todo lo que ocurría desde Japón. 

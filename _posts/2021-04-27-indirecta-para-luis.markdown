@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El mensaje de Alejandro Basteri causó controversia entre sus seguidores, pues recientemente en el tercer capítulo de Luis Miguel, la serie se expuso una fuerte pelea entre ambos. "
-image: /uploads/2021/images-hermanos-traiciones-peleas-legales-luis_0_0_958_596.jpg
-video: nil
-audio: nil
-alt: ¿Indirecta para Luis Miguel? Alejandro Basteri, hermano de 'El Sol', desata polémica con mensaje
+image: "/uploads/2021/images-hermanos-traiciones-peleas-legales-luis_0_0_958_596.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Indirecta para Luis Miguel? Alejandro Basteri, hermano de 'El Sol', desata polémica con mensaje"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184128
 ---
 
 Luis Miguel está en pleno apogeo gracias a la segunda temporada de Luis Miguel, la serie que se transmite por Netflix. Con ella, han quedado al descubierto temas escabrosos de su vida y supuestas versiones que contradicen lo que por años se habían dado a conocer. En el tercer capítulo de la serie se ventiló una pelea que tuvo presuntamente El Sol con su hermano Alejandro Basteri, hecho que al parecer prendió la alarma en el familiar del cantante y marcó su postura. ¿Se enojó? ¿Qué dijo Bateri? Fue a través de Instagram en donde Alejandro Basteri al parecer lanzó una indirecta contra Luis Miguel, al menos así lo dejaron entrever los comentarios de sus seguidores e incluso de fanáticos que siguen la carrera de El Sol. 

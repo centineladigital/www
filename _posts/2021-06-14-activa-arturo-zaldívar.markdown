@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El ministro presidente de la Corte dio inicio al proceso para que el Pleno del órgano determine la constitucionalidad de la ampliación del mandatado por dos años"
-image: /uploads/2021/images-2594746.jpg
-video: nil
-audio: nil
-alt: Activa Arturo Zaldívar consulta sobre ampliación de mandato en SCJN
+image: "/uploads/2021/images-2594746.jpg"
+video: "nil"
+audio: "nil"
+alt: "Activa Arturo Zaldívar consulta sobre ampliación de mandato en SCJN"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185012
 ---
 
 El ministro presidente de la Suprema Corte de Justicia de la Nación (SCJN), Arturo Zaldívar, presentó este lunes el documento con el que se activa el procedimiento para que el Pleno del órgano determine la constitucionalidad de la ampliación del mandatado por dos años.

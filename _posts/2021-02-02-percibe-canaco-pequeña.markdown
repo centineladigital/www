@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto lo manifestó, durante la celebración del 134 aniversario de la cámara"
-image: /uploads/2021/images-RERGRE.jpg
-video: nil
-audio: /uploads/2021/audio-AM03_EDIBRAY_GOMEZ.mp3
-alt: Percibe Canaco pequeña recuperación económica en comercios locales durante el mes de diciembre 
+image: "/uploads/2021/images-RERGRE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AM03_EDIBRAY_GOMEZ.mp3"
+alt: "Percibe Canaco pequeña recuperación económica en comercios locales durante el mes de diciembre "
 front: false
-section: Local
+section: "Local"
+news_id: 182631
 ---
 
 El presidente de la Cámara Nacional de Comercio (Canaco) en Chihuaha, Edibray Gómez manifestó que durante diciembre tuvieron una recuperación en cuanto a venta, la cual representan entre el 35% y 40% de la venta anual.

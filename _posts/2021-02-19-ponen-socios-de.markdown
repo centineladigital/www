@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Accede a la suspensión estratégica de actividades por la escasez de gas para garantizar el abasto domiciliario; industria manufacturera genera 320 mil empleos y se calcula la afectación en 60 millones de dólares diarios"
-image: /uploads/2021/images-FABIOLA_LUNA.jpg
-video: nil
-audio: nil
-alt: Ponen socios de Index su granito de arena solidario ante la contingencia
+image: "/uploads/2021/images-FABIOLA_LUNA.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ponen socios de Index su granito de arena solidario ante la contingencia"
 front: false
-section: Local
+section: "Local"
+news_id: 183039
 ---
 
 La presidenta de la Industria Manufacturera de Ciudad Juárez (Index), Fabiola Luna, informó que solidariamente, los socios han accedido a poner su granito de arena ante la contingencia por las condiciones climáticas, paralizando sus actividades para garantizar el abastecimiento de gas en los hogares.

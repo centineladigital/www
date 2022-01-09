@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En su carrera, Poncho Herrera tuvo la oportunidad de trabajar al lado de Belinda en una telenovela juvenil, ¿ te acuerdas de ella?"
-image: /uploads/2021/images-la-telenovela-fue-el-regreso.jpg
-video: nil
-audio: nil
-alt: ¡Fueron pareja en la pantalla chica! La telenovela que protagonizó Poncho Herrera junto a Belinda
+image: "/uploads/2021/images-la-telenovela-fue-el-regreso.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Fueron pareja en la pantalla chica! La telenovela que protagonizó Poncho Herrera junto a Belinda"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187223
 ---
 
 Las telenovelas juveniles tuvieron su auge a principios de los años 2000, fue ahí en donde Poncho Herrera se dio a conocer, sin embargo, el mayor éxito lo alcanzó cuando participó en Rebelde y posteriormente estuvo en el grupo RBD. Tras terminar este proyecto musical, el actor protagonizó Camaleones, una producción con la que compartió créditos al lado de Belinda. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se busca contribuir a la seguridad de la comunidad al conectarse a la Plataforma Escudo Chihuahua (PECUU), que cubre toda la ciudad"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt:  Firman Gobierno Municipal y DiDi convenio de interconexión a la Plataforma Escudo Chihuahua
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: " Firman Gobierno Municipal y DiDi convenio de interconexión a la Plataforma Escudo Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 186742
 ---
 
 El Gobierno Municipal llevó a cabo la firma de un convenio de colaboración con la plataforma de movilidad DiDi, por medio del cual se busca contribuir a la seguridad de la comunidad al conectarse a la Plataforma Escudo Chihuahua (PECUU), que cubre toda la ciudad.

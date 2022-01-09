@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Explica el mandatario cómo en el caso de la alcaldesa con licencia, se trató de distorsionar un hecho jurídico, cuando se dijo que no se había entregado la carpeta y realmente sucedió todo lo contrario"
-image: /uploads/2021/images-DAH_1954.JPG
-video: nil
-audio: nil
-alt: Ante campañas de mentiras ya vendrá la verdad jurídica en Operación Justicia -  Gobernador
+image: "/uploads/2021/images-DAH_1954.JPG"
+video: "nil"
+audio: "nil"
+alt: "Ante campañas de mentiras ya vendrá la verdad jurídica en Operación Justicia -  Gobernador"
 front: false
-section: Local
+section: "Local"
+news_id: 182505
 ---
 
 “Ya vendrá la verdad jurídica. Punto”, dijo el gobernador Javier Corral respecto a las campañas de mentiras y distorsiones en torno al proceso que se le sigue a su antecesor para que pueda ser extraditado conforme a las investigaciones de la Operación Justicia para Chihuahua.

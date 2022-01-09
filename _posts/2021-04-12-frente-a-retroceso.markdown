@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Presidenta Municipal señaló que este retroceso es un llamado a la reflexión del comportamiento individual"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Frente a retroceso a semáforo naranja Gobierno Municipal reforzará recorridos y operativos de Células COVID
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Frente a retroceso a semáforo naranja Gobierno Municipal reforzará recorridos y operativos de Células COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 183831
 ---
 
 Tras el anuncio realizado por autoridades sanitarias y el Estado referente al retroceso en la semaforización por COVID en el municipio de Chihuahua, la Alcaldesa, dio a conocer que desde el Gobierno Municipal se reforzarán los recorridos y operativos de las Células COVID para vigilar el cumplimiento de los protocolos y recomendaciones sanitarias.

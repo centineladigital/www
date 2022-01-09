@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que se debe de construir mediante acciones."
-image: /uploads/2021/images-MARIO.jpg
-video: nil
-audio: /uploads/2021/audio-MV07_MARIO_VAZQUEZ.mp3
-alt: Pide MVR unidad en Acción Nacional
+image: "/uploads/2021/images-MARIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV07_MARIO_VAZQUEZ.mp3"
+alt: "Pide MVR unidad en Acción Nacional"
 front: false
-section: Local
+section: "Local"
+news_id: 182561
 ---
 
 “No se trata de ganar elecciones, no se trata de que el PAN salga adelante y victorioso” fueron las palabras de Mario Vázquez Robles, al llamar a la unidad dentro del partido, esto tras la renuncia de las dirigencias.

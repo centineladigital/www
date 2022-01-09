@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ricardo, Mau, Ricky, Evaluna Montaner y Camilo compartirán aspectos íntimos y reales de su relación de familia. "
-image: /uploads/2021/images-mau-ricky-ricardo-evaluna-montaner.jpg
-video: nil
-audio: nil
-alt: ¡Siguiendo los pasos de los Derbez! Familia Montaner tendrá su propia serie
+image: "/uploads/2021/images-mau-ricky-ricardo-evaluna-montaner.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Siguiendo los pasos de los Derbez! Familia Montaner tendrá su propia serie"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183978
 ---
 
 Al igual que la familia del comediante Eugenio Derbez, los Montaner:  Ricardo, Mau, Ricky, Evaluna y Camilo, tendrán su propio reality familiar. La producción promete ser internacional, pues seguirá los pasos de la famosos cantantes en sus viajes por distintas latitudes. De acuerdo con la agencia AP, se trata de una serie documental sin libreto en la que la cineasta Marlene Rodríguez Miranda, esposa de Ricardo Montaner; Sara Escobar, esposa de Mau, y Stefi Roitman, prometida de Ricky, también participarán.

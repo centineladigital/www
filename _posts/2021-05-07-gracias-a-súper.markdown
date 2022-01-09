@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: " Pide celebrar a las mamás con prudencia y solo con los de casa para no ponerlas en riesgo"
-image: /uploads/2021/images-IMG_4575.JPG
-video: nil
-audio: nil
-alt: Gracias a “súper cierres” el estado de Chihuahua permanecerá en semáforo naranja
+image: "/uploads/2021/images-IMG_4575.JPG"
+video: "nil"
+audio: "nil"
+alt: "Gracias a “súper cierres” el estado de Chihuahua permanecerá en semáforo naranja"
 front: false
-section: Local
+section: "Local"
+news_id: 184345
 ---
 
 El Secretario de Salud, Eduardo Fernández Herrera, anunció que durante los próximos 15 días el estado de Chihuahua permanecerá en semáforo naranja y explicó que este fin de semana no se llevará a cabo un nuevo “súper cierre”, pero exhortó a la población a seguir las medidas preventivas y a reducir la movilidad.

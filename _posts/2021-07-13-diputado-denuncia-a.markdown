@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Por el probable delito de malversación en el manejo de recursos públicos por más de 8 mil millones de pesos que le detectó la Auditoría Superior de la Federación (ASF)."
-image: /uploads/2021/images-omar-bazan-denuncia-javier-corral_0_416_827_515.jpeg
-video: nil
-audio: nil
-alt: Diputado denuncia a Javier Corral por mal manejo de 8 mil mdp en Chihuahua
+image: "/uploads/2021/images-omar-bazan-denuncia-javier-corral_0_416_827_515.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Diputado denuncia a Javier Corral por mal manejo de 8 mil mdp en Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 185611
 ---
 
 En Chihuahua, el diputado Omar Bazán denunció penalmente ante la Fiscalía General de la República (FGR), al gobernador Javier Corral.

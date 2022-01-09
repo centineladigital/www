@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "No existen zonas en donde se pudiera determinar la imposibilidad de instalar casillas o por la inseguridad no sea posible desarrollarse: Comisión de Seguridad en el Instituto Estatal Electoral "
-image: /uploads/2021/images-proceso_electoral_2020-2021.jpg
-video: nil
-audio: nil
-alt: Chihuahua sin focos rojos de inseguridad para jornada electoral -  IEE
+image: "/uploads/2021/images-proceso_electoral_2020-2021.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chihuahua sin focos rojos de inseguridad para jornada electoral -  IEE"
 front: false
-section: Local
+section: "Local"
+news_id: 184751
 ---
 
 El consejero electoral Gerardo Macías, titular de la Comisión de Seguridad en el Instituto Estatal Electoral, dio a conocer que en el estado de Chihuahua no se cuenta con municipios calificados como focos rojos, en donde se pudiera determinar la imposibilidad de instalar casillas o que por la inseguridad no sea posible desarrollar de manera pacífica la jornada electoral.

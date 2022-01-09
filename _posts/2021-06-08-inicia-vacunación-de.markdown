@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se pide a la población registrarse e imprimir el formato en www.mivacuna.salud.gob.mx/index.php y cumplir los requisitos, además de mantenerse debidamente informada"
-image: /uploads/2021/images-Aplicación_primera_dosis_40_y_más__(3).jpeg
-video: nil
-audio: nil
-alt: Inicia vacunación de personas de 40 a 49 años contra COVID-19 en 17 municipios
+image: "/uploads/2021/images-Aplicación_primera_dosis_40_y_más__(3).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Inicia vacunación de personas de 40 a 49 años contra COVID-19 en 17 municipios"
 front: false
-section: Local
+section: "Local"
+news_id: 184930
 ---
 
 La Secretaría de Salud del estado de Chihuahua, en coordinación con las instituciones que participan en la campaña de vacunación contra el COVID-19, arrancó este martes 8 de junio la jornada dirigida a la población de 40 a 49 años de edad en un total de 17 municipios.

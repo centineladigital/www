@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La y el ganador son: Leticia María Gámez Casillas, en la categoría Rogelio Treviño de Poesía, por su trabajo Bitácora del Yeso”; y Javier Armendáriz Gómez, en la de Cuento Nellie Campobello, por “Golpes al aire en una habitación vacía; declaran desierto el Premio Federico Ferro Gay de Ensayo"
-image: /uploads/2021/images-a.JPG
-video: nil
-audio: nil
-alt: Entregan premios de Literatura Joven 2021
+image: "/uploads/2021/images-a.JPG"
+video: "nil"
+audio: "nil"
+alt: "Entregan premios de Literatura Joven 2021"
 front: false
-section: Local
+section: "Local"
+news_id: 186632
 ---
 
 La Secretaría de Cultura entregó los Premios de Literatura Joven 2021 en las categorías "Rogelio Treviño" de Poesía, a Leticia María Gámez Casillas, por su trabajo "Bitácora del Yeso”; y "Nellie Campobello" de Cuento, a Javier Armendáriz Gómez, por “Golpes al aire en una habitación vacía"; ambos escritores son originarios de Parral.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En programa “Logros con Valor” se destacó la ocupación y preocupación del Estado por generar alianzas estratégica y vínculos con instituciones para beneficio de las víctimas de violencia de género   "
-image: /uploads/2021/images-Compromiso_STJ_(3).jpeg
-video: nil
-audio: nil
-alt: Protegió red de Cejum a mujeres y garantizó su derecho a una vida libre de violencia
+image: "/uploads/2021/images-Compromiso_STJ_(3).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Protegió red de Cejum a mujeres y garantizó su derecho a una vida libre de violencia"
 front: false
-section: Local
+section: "Local"
+news_id: 187106
 ---
 
 La Administración que encabeza el gobernador Javier Corral Jurado asumió la responsabilidad, como ninguna otra, de defender los derechos de las mujeres y particularmente contra la violencia de género a través del Centro de Justicia para las Mujeres (Cejum), señaló el secretario general de Gobierno, Luis Fernando Mesta Soulé.

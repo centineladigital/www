@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presentador australiano Kyle Sandilands, amigo cercano de Zac Efron, habló de la nueva apariencia del actor; aclaró si se sometió a una cirugía plástica.   "
-image: /uploads/2021/images-zac-efron-cirugia-estetica-rostro.jpg
-video: nil
-audio: nil
-alt: ¿Cirugía plástica? Locutor revela la verdad detrás del rostro de Zac Efron -  Un Picasso
+image: "/uploads/2021/images-zac-efron-cirugia-estetica-rostro.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Cirugía plástica? Locutor revela la verdad detrás del rostro de Zac Efron -  Un Picasso"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184241
 ---
 
 Zac Efron es una de las estrellas de Hollywood más populares del momento, por ello no es extraño que los internautas sigan cada uno de sus pasos. Hace unos días, el actor se volvió tendencia en Twitter luego de que circulara una fotografía en la que aparece completamente diferente, esto desató rumores de que se sometió a una cirugía estética. Ahora, uno de sus amigos más cercanos, el locutor Kyle Sandilands, aclaró por qué el rostro del famoso lucen tan distinto. Los memes y los comentarios sobre el "nuevo rostro" de Zac Efron surgieron después de que el también activista participó en un video de Facebook con motivo del Día de la Tierra. En medio de la polémica, Kyle Sandilands habló de la nueva imagen del actor.  

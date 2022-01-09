@@ -16,12 +16,13 @@ tags:
   
 author: nil
 description: " Obrador, ha fortalecido a las instancias militares debilitando a los cuerpos de seguridad "
-image: /uploads/2021/images-WhatsApp_Image_2021-09-15_at_2.20.55_PM.jpeg
-video: /uploads/2021/videos-BW01_GEO_BUJANDA.mp4
-audio: nil
-alt: Propone reconsiderar el presupuesto destinado a seguridad pública 
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-15_at_2.20.55_PM.jpeg"
+video: "/uploads/2021/videos-BW01_GEO_BUJANDA.mp4"
+audio: "nil"
+alt: "Propone reconsiderar el presupuesto destinado a seguridad pública "
 front: false
-section: Local
+section: "Local"
+news_id: 187765
 ---
 
 Georgina  Bujanda diputada del Congreso del Estado, manifestó ante congreso reconsiderar la asignación del presupuesto destinado a la seguridad pública para el año 2022,  señaló Andrés Manuel López Obrador, ha fortalecido a las instancias militares debilitando a los cuerpos de seguridad más cercanos a la comunidad. 

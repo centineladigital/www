@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La obra registra un avance del 60 por ciento; se le aplica una inversión estatal de 284.1 millones de pesos."
-image: /uploads/2021/images-_DSC2955.JPG
-video: nil
-audio: nil
-alt: Supervisa Javier Corral construcción del Hospital de Ginecobstetricia de Parral   
+image: "/uploads/2021/images-_DSC2955.JPG"
+video: "nil"
+audio: "nil"
+alt: "Supervisa Javier Corral construcción del Hospital de Ginecobstetricia de Parral   "
 front: false
-section: Local
+section: "Local"
+news_id: 185634
 ---
 
 Durante la gira de trabajo por Hidalgo del Parral, el gobernador Javier Corral Jurado, supervisó la construcción del Hospital de Ginecobstetricia, el cual presenta un avance del 60 por ciento y se edifica con una inversión total de 284 millones 114 mil 686 pesos.

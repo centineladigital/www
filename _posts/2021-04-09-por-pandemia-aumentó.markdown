@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Subió para esta institución porque fue necesario adoptar métodos de atención que cumplieran con las normas sanitarias"
-image: /uploads/2021/images-cruzroja.jpg
-video: nil
-audio: nil
-alt: Por pandemia aumentó 400% costo de servicios de la Cruz Roja
+image: "/uploads/2021/images-cruzroja.jpg"
+video: "nil"
+audio: "nil"
+alt: "Por pandemia aumentó 400% costo de servicios de la Cruz Roja"
 front: false
-section: Local
+section: "Local"
+news_id: 183780
 ---
 
 Los costos de los servicios proporcionados por la delegación de la Cruz Roja se incrementaron en un 400% durante el año, debido a los cambios que obligó a realizar la pandemia, por lo cual se solicitó a la ciudadanía su apoyo a la colecta anual que arrancó la mañana de ayer.

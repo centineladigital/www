@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A finales de mayo solo había 28 casos, pero la cifra se elevó a 223 para el 18 de junio y llegó a 482 en las primeras semanas de julio."
-image: /uploads/2021/images-delta.jpg
-video: nil
-audio: nil
-alt: Variante Delta ya circula en 20 entidades
+image: "/uploads/2021/images-delta.jpg"
+video: "nil"
+audio: "nil"
+alt: "Variante Delta ya circula en 20 entidades"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185526
 ---
 
 En México se han detectado 485 casos positivos de la variante delta del covid-19 en 20 entidades, principalmente en Baja California Sur, Ciudad de México, Quintana Roo, Tabasco, Yucatán y Sinaloa, con un acelerado proceso de transmisión.  

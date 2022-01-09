@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Será hasta el próximo 15 de febrero que permanecerá abierto el plazo para la recepción de papelería"
-image: /uploads/2021/images-unnamed_(1).jpg
-video: nil
-audio: nil
-alt: ¿Eres escritora o escritor?, aún puedes participar en la convocatoria PECH
+image: "/uploads/2021/images-unnamed_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Eres escritora o escritor?, aún puedes participar en la convocatoria PECH"
 front: false
-section: Local
+section: "Local"
+news_id: 182168
 ---
 
 El Gobierno Municipal a través del Instituto de Cultura del Municipio recuerda que la convocatoria del “Programa Editorial Chihuahua” (PECH) continúa abierta, por lo que reiteró la invitación a las y los escritores a participar en la edición 2020.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En su mensaje al exterior de las instalaciones del Instituto, Campos Galván agradeció a las y los chihuahuenses que caminaron con ella en el proyecto, a quienes la acompañaron desde la alcaldía "
-image: /uploads/2021/images-maru_campos.jpg
-video: nil
-audio: nil
-alt: Recibe Maru Campos, constancia como gobernadora electa
+image: "/uploads/2021/images-maru_campos.jpg"
+video: "nil"
+audio: "nil"
+alt: "Recibe Maru Campos, constancia como gobernadora electa"
 front: false
-section: Local
+section: "Local"
+news_id: 185011
 ---
 
 María Eugenia Campos Galván recibió la constancia que la acredita como gobernadora electa por parte del Instituto Estatal Electoral (IEE) luego de que finalizará el cómputo electoral en el que las actas de los paquetes electorales reflejaron más de 570 mil sufragios a su favor ejercidos por la ciudadanía.

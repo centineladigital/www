@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En los próximos días se espera la alta de Ibarra en la Liga para poder jugar"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: El América intentará evitar crítica por registrar a Renato Ibarra
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "El América intentará evitar crítica por registrar a Renato Ibarra"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186767
 ---
 
 A menos que suceda un inesperado cambio de última hora, el América registrará a Renato Ibarra para jugar en el Apertura 2021, tras la lesión en un tobillo de Leonardo Suárez, pero la directiva azulcrema sabe bien que esta decisión será muy polémica, porque el atacante ecuatoriano estuvo a punto de ir a la cárcel por golpear a su pareja cuando estaba embarazada.

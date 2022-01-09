@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Provocaron una afectación de 4 mil 806 hectáreas de superficie "
-image: /uploads/2021/images-incendio_forestal.jpg
-video: nil
-audio: nil
-alt: Cierra la semana con 21 incendios forestales en Chihuahua
+image: "/uploads/2021/images-incendio_forestal.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cierra la semana con 21 incendios forestales en Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 184862
 ---
 
 La Comisión Nacional Forestal informó en el reporte semanal de incendios forestales que en el estado de Chihuahua se registraron un total de 21 siniestros del 28 de mayo al 3 de junio, los cuales consumieron 3 mil 709 hectáreas de superficie herbácea, 114 hectáreas de arbolado adulto, 122 has. de renuevo y 862 de arbustos, con un total de 4 mil 806 hectáreas de superficie arbórea afectada.

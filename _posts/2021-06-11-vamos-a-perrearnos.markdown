@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La intérprete de 'Tusa' y 'Bichota' dará un concierto en línea para celebrar el éxito arrasador de su disco 'KG0516' "
-image: /uploads/2021/images-karol-g-dara-concierto-este.jpg
-video: nil
-audio: nil
-alt: Vamos a perrearnos este éxito; Karol G dará concierto gratuito en línea este jueves
+image: "/uploads/2021/images-karol-g-dara-concierto-este.jpg"
+video: "nil"
+audio: "nil"
+alt: "Vamos a perrearnos este éxito; Karol G dará concierto gratuito en línea este jueves"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184986
 ---
 
 Karol G se ha colocado entre las cantantes más populares del momento; con temas como Tusa y Bichota, la cantante colombiana está más que presente en redes sociales y sobre todo, en el gusto del público latino. Recientemente, sus vacaciones en México se volvieron muy polémicas, pues la intérprete de Ay Dios mío presumió en redes sociales imágenes de una fiesta que celebró a bordo de un yate, en el que viajó acompañada de un grupo de amigos y donde el elemento estrella fue el tequila. 

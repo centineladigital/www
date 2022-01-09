@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras volverse viral una foto en donde se ve a Salma Hayek comiendo tacos en la calle, la actriz ya reaccionó; esto fue lo que dijo. "
-image: /uploads/2021/images-foto-salma-hayek-tomada-natal.jpg
-video: nil
-audio: nil
-alt: La pasión que nunca me abandona -  Salma Hayek reacciona a su foto comiendo tacos en la calle
+image: "/uploads/2021/images-foto-salma-hayek-tomada-natal.jpg"
+video: "nil"
+audio: "nil"
+alt: "La pasión que nunca me abandona -  Salma Hayek reacciona a su foto comiendo tacos en la calle"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185234
 ---
 
 En redes sociales hace unos días se volvió viral una foto de Salma Hayek cuando la actriz todavía vivía en México y comenzaba su carrera. Dicha imagen llamó la atención debido a que la veracruzana se encontraba comiendo tacos, al parecer en una de las calles de Coatzacoalcos, lugar de donde es originaria. 

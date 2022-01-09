@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El músico británico Elton John sorprendió a comensales de un restaurante en Cannes después de cantar un 'palomazo' de reciente colaboración con Dua Lipa. "
-image: /uploads/2021/images-elton-john-sorprende-palomazo-cannes.jpg
-video: nil
-audio: nil
-alt: ¿Y Dua Lipa? Elton John sorprende con 'palomazo' en restaurante de Cannes
+image: "/uploads/2021/images-elton-john-sorprende-palomazo-cannes.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Y Dua Lipa? Elton John sorprende con 'palomazo' en restaurante de Cannes"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186859
 ---
 
 Elton John sorprendió en la ciudad de Cannes, después de que decidiera cantar de forma improvisada, 'palomazo', en vivo en un restaurante el tema 'Cold Heart', una colaboración recientemente lanzada la semana pasada con la estrella pop británica Dua Lipa. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Este diplomado inicia a partir del 13 de abril y concluirá el 7 de mayo."
-image: /uploads/2021/images-CONTADORES.jpg
-video: nil
-audio: /uploads/2021/audio-MW04_JESUS_BARRERA.mp3
-alt: Ofrecen diplomado en Normas Mexicanas
+image: "/uploads/2021/images-CONTADORES.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW04_JESUS_BARRERA.mp3"
+alt: "Ofrecen diplomado en Normas Mexicanas"
 front: false
-section: Local
+section: "Local"
+news_id: 183746
 ---
 
 Un diplomado virtual en Normas de Información Financiera, será otorgado por parte del Instituto y Colegio de Contadores Públicos de Chihuahua y la Asociación Index Chihuahua, esto en coordinación con INDEX, según lo dio a conocer el Presidente del Colegio, Jesús José Barrera Torres.

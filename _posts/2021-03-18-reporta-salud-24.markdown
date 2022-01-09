@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Suman un total de 5 mil 529 los decesos y 56 mil 990 los casos confirmados"
-image: /uploads/2021/images-Informe_tecnico_17_marzo_page-0002.jpg
-video: nil
-audio: nil
-alt: Reporta Salud 24 fallecimientos por COVID-19 y 108 nuevos contagios en la entidad
+image: "/uploads/2021/images-Informe_tecnico_17_marzo_page-0002.jpg"
+video: "nil"
+audio: "nil"
+alt: "Reporta Salud 24 fallecimientos por COVID-19 y 108 nuevos contagios en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 183464
 ---
 
 En las últimas horas la Secretaría de Salud reporta 24 decesos por COVID-19, por lo cual la suma total de fallecimientos llegó a 5 mil 529 en la entidad.

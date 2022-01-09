@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Natanael Cano se presenta en la Ciudad de México y Monterrey; te decimos todo lo que sabemos sobre los conciertos. "
-image: /uploads/2021/images-natanael-cano-presenta-cdmx-monterrey.jpg
-video: nil
-audio: nil
-alt: ¡Regresan los 'corridos tumbados'! Natanael Cano anuncia fechas en CdMx y Monterrey
+image: "/uploads/2021/images-natanael-cano-presenta-cdmx-monterrey.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Regresan los 'corridos tumbados'! Natanael Cano anuncia fechas en CdMx y Monterrey"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185184
 ---
 
 Tras algunas polémicas de Natanael Cano y una serie de colaboraciones con personajes como Snoop Dogg y Nathan Apodaca, el cantautor regional mexicano anunció dos fechas, tanto en la Ciudad de México como en Monterrey para el próximo mes de septiembre. A través de su cuenta oficial de Instagram, el artista compartió los flayers para sus próximas actuaciones en sus Historias, mientras que Apodaca, la organizadora de los eventos, posteó en su feed. 

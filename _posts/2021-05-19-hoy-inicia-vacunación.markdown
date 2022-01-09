@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Esta jornada comprenderá cuatro días, para ello se cuenta con suficientes dosis para dar cobertura a este grupo de edad"
-image: /uploads/2021/images-Vacunación_UACH.jpg
-video: nil
-audio: nil
-alt: Hoy inicia vacunación para embarazadas y adultos de 50 y más
+image: "/uploads/2021/images-Vacunación_UACH.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hoy inicia vacunación para embarazadas y adultos de 50 y más"
 front: false
-section: Local
+section: "Local"
+news_id: 184531
 ---
 
 La Jornada de Vacunación contra el virus SARS-CoV-2 para el municipio de Chihuahua iniciará este miércoles para los adultos de 50 a 59 años, a quienes se les aplicará la primera dosis de la vacuna Pfizer que busca disminuir el impacto de la Covid-19. Se pide a la ciudadanía respetar los horarios asignados por apellido a fin de disminuir los tiempos de espera.

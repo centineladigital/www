@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Presidente aseguró que durante su gobierno se detuvo el incremento en los homicidios y en los delitos en general, del fuero común y del federal"
-image: /uploads/2021/images-amlo-destaco-disminucion-homicidios-gobierno.jpeg
-video: nil
-audio: nil
-alt: AMLO presume disminución en homicidios; delito ha bajado 3.5% durante 2021, dice
+image: "/uploads/2021/images-amlo-destaco-disminucion-homicidios-gobierno.jpeg"
+video: "nil"
+audio: "nil"
+alt: "AMLO presume disminución en homicidios; delito ha bajado 3.5% durante 2021, dice"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186113
 ---
 
 El presidente Andrés Manuel López Obrador reiteró que durante su gobierno se detuvo el incremento de homicidios, además de que el delito tuvo una "pequeña" disminución del 3.5 por ciento en lo que va del 2021. En su conferencia mañanera, López Obrador aseguró que en su administración han disminuido los delitos en general, tanto del fuero federal como del fuero común.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Establece juez federal que no se han violado sus derechos ni el debido proceso, toda vez que debe ser enterada de los cargos en audiencia de imputación"
-image: /uploads/2021/images-Lic._Jorge_Espinoza.jpg
-video: nil
-audio: nil
-alt: Niega Juzgado Cuarto nuevo amparo a la alcaldesa con licencia
+image: "/uploads/2021/images-Lic._Jorge_Espinoza.jpg"
+video: "nil"
+audio: "nil"
+alt: "Niega Juzgado Cuarto nuevo amparo a la alcaldesa con licencia"
 front: false
-section: Local
+section: "Local"
+news_id: 183049
 ---
 
 El consejero jurídico del Gobierno del Estado, Jorge Espinoza Cortés, informó que el día de hoy, el juez Cuarto de Distrito, con residencia en Ciudad Juárez, dictó sentencia en el amparo 542/2020 promovido por la alcaldesa con licencia de la capital del estado.

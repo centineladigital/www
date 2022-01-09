@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El festival de cántaros o 'Kumbh Mela' reúne a un millón de devotos en India para tomar un baño sagrado en el río Ganges, pese al agravamiento de la pandemia de coronavirus"
-image: /uploads/2021/images-2560775.jpg
-video: nil
-audio: nil
-alt: Un millón de personas abarrota festival en India sin medidas covid
+image: "/uploads/2021/images-2560775.jpg"
+video: "nil"
+audio: "nil"
+alt: "Un millón de personas abarrota festival en India sin medidas covid"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183812
 ---
 
 Cientos de miles de devotos hindúes acudieron en masa este lunes para tomar un baño sagrado en el río Ganges de la India, que ya superó a Brasil como el segundo país con más contagios de covid-19 a nivel mundial.

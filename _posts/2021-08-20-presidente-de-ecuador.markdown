@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Presidente indicó que estará en Palenque, donde buscará escribir su discurso sobre los tratados de Córdoba y revisar su informe del 1 de septiembre"
-image: /uploads/2021/images-amlo-informo-que-estara-en_0_1_1200_746.jpeg
-video: nil
-audio: nil
-alt: Presidente de Ecuador visitará México el 24 de agosto, informa AMLO
+image: "/uploads/2021/images-amlo-informo-que-estara-en_0_1_1200_746.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Presidente de Ecuador visitará México el 24 de agosto, informa AMLO"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186919
 ---
 
 El presidente Andrés Manuel López Obrador informó que su homólogo de Ecuador, Guillermo Lasso, visitará México el martes 24 de agosto, mismo día en el que dará un discurso sobre los Tratados de Córdoba.  

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "EU, la Unión Europea, Alemania, Reino Unido, Francia, entre otros países y organismos, reclaman la liberación inmediata del opositor ruso Alexei Navalni"
-image: /uploads/2021/images-2522469.jpg
-video: nil
-audio: nil
-alt: Lanzan llamado mundial por liberación de opositor ruso Navalni
+image: "/uploads/2021/images-2522469.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lanzan llamado mundial por liberación de opositor ruso Navalni"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182635
 ---
 
 Estados Unidos, la Unión Europea (UE), Alemania, Reino Unido, Francia, entre otros, reclamaron hoy la liberación inmediata del opositor ruso Alexei Navalni, quien fue condenado este martes a tres años y de medio de prisión por un tribunal de Moscú.

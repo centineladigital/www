@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de redes sociales en donde comenzó a hacerse viral la imagen de Verónica Castro en su plena etapa como estudiante en la máxima casa de estudio: la UNAM. "
-image: /uploads/2021/images-veronica-castro-estudio-fcpys-unam.jpg
-video: nil
-audio: nil
-alt: ¿Qué estudió? Filtran inédita imagen de Verónica Castro como estudiante de la UNAM; foto viral
+image: "/uploads/2021/images-veronica-castro-estudio-fcpys-unam.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Qué estudió? Filtran inédita imagen de Verónica Castro como estudiante de la UNAM; foto viral"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186333
 ---
 
 Verónica Castro, famosa conductora de televisión y madre de Cristian Castro, volvió a estar presente en las menciones de las redes sociales, pues compartieron algunas imágenes inéditas de la presentadora de televisión cuando estudiada en la Facultad de Ciencias Políticas y Sociales (FCPyS) de la Universidad Nacional Autónoma de México (UNAM). ¿Cuál fue la carrera que estudió Vero Castro en la UNAM? ¿Terminó su carrera? Te contamos lo que sabemos sobre el pasado de la famosa. 

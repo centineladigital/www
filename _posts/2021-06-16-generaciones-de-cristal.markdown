@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La conductora del matutino también aprovechó para respaldar al comediante Paco de Miguel, quien hace varios días enfrentó críticas en plataformas como Twitter y Facebook. https://www.milenio.com/espectaculos/famosos/angeles-azules-andrea-legarreta-defiende-banda-cancelacion"
-image: /uploads/2021/images-la-conductora-salio-en-defensa.jpg
-video: nil
-audio: nil
-alt: Generaciones de cristal -  Andrea Legarreta defiende a 'Los Ángeles Azules' de cancelación
+image: "/uploads/2021/images-la-conductora-salio-en-defensa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Generaciones de cristal -  Andrea Legarreta defiende a 'Los Ángeles Azules' de cancelación"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185057
 ---
 
 Andrea Legarreta decidió pronunciarse durante la sección Las Calientitas, en la emisión de este martes del programa Hoy, contra la polémica petición de cancelación hacia Los Ángeles Azules, pues ayer lunes varios usuarios de redes sociales señalaron que la canción "17 años" fomenta la pedofilia.  

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "En tan sólo 24 horas se detectaron 133 personas contagiadas."
-image: /uploads/2021/images-arton20916.jpg
-video: nil
-audio: /uploads/2021/audio-MW02_GUMARO_BARRIOS.mp3
-alt: Casos están más bajos comparados con el 2020
+image: "/uploads/2021/images-arton20916.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW02_GUMARO_BARRIOS.mp3"
+alt: "Casos están más bajos comparados con el 2020"
 front: false
-section: Local
+section: "Local"
+news_id: 184550
 ---
 
 En comparación a los resultados del mes de mayo y el incremento que se registró en esa temporada, este año ha sido menor según fue dado a conocer por parte de Gumaro Barrios Gallegos, titular del área de epidemiología del Gobierno Estatal al dar a conocer la actualización de cifras de casos de coronavirus.

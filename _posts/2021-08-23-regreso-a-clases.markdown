@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Continuarán medidas de sanidad en las escuelas."
-image: /uploads/2021/images-CORRAL.jpg
-video: /uploads/2021/videos-ML03_JAVIER_CORRAL.mp4
-audio: nil
-alt: Regreso a clases será con un aforo de 50 por ciento
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "/uploads/2021/videos-ML03_JAVIER_CORRAL.mp4"
+audio: "nil"
+alt: "Regreso a clases será con un aforo de 50 por ciento"
 front: false
-section: Local
+section: "Local"
+news_id: 187014
 ---
 
 “Podrá ser menos, pero nunca más del 50 por ciento” fueron las palabras del Gobernador de Chihuahua al señalar que dará arranque de forma coordinada con el Presidente de la República, destacando por parte de Javier Corral el estar de acuerdo con el mandatario nacional.

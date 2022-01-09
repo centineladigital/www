@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Específicamente en el delito de violación hubo una tasa de 28.6 denuncias por cada 100 mil habitantes, ocupando el segundo sitio en el país"
-image: /uploads/2021/images-delitos1_foto_archivo_sol_de_leon.jpg
-video: nil
-audio: nil
-alt: Chihuahua ocupó el sexto sitio en delitos de alto impacto
+image: "/uploads/2021/images-delitos1_foto_archivo_sol_de_leon.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chihuahua ocupó el sexto sitio en delitos de alto impacto"
 front: false
-section: Local
+section: "Local"
+news_id: 182753
 ---
 
 Al cierre de 2020, el estado de Chihuahua se posicionó en el sexto lugar en el contexto nacional en el “Semáforo de Alto Impacto”, al tener un cinco de calificación. Específicamente en el delito de violación hubo una tasa de 28.6 denuncias por cada 100 mil habitantes, ocupando el segundo sitio en el país.

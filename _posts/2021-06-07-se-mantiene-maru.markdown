@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El candidato de Morena, Juan Carlos Loera, se encuentra por debajo con 30.57 por ciento de los sufragios contados"
-image: /uploads/2021/images-Maru_campos_ventaja_1.jpeg
-video: nil
-audio: nil
-alt: Se mantiene Maru Campos a la delantera
+image: "/uploads/2021/images-Maru_campos_ventaja_1.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Se mantiene Maru Campos a la delantera"
 front: false
-section: Local
+section: "Local"
+news_id: 184892
 ---
 
 Al corte de las 8:07 am de la plataforma PREP Maru Campos, abanderada de la coalición formada por Acción Nacional y Revolución Democrática, con 426, 792 votos, mantiene su ventaja sobre Juan Carlos Loera de la Rosa, de la coalición formada por Morena, PT y Nueva Alianza.

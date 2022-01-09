@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Aprovechó para hacer una invitación a la ciudadanía y actores políticos del estado a integrarse a este gran esfuerzo por defender la Vida"
-image: /uploads/2021/images-SDFDSFSFS.jpg
-video: nil
-audio: /uploads/2021/audio-AW05_MARISELA_SAENZ.mp3
-alt: Vuelve la Diputada Marisela Sáenz al el PES, anuncia su salida del PRI
+image: "/uploads/2021/images-SDFDSFSFS.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AW05_MARISELA_SAENZ.mp3"
+alt: "Vuelve la Diputada Marisela Sáenz al el PES, anuncia su salida del PRI"
 front: false
-section: Local
+section: "Local"
+news_id: 182115
 ---
 
 La Diputada Local Marisela Sáenz Moriel anunció que ya hizo llegar su renuncia a la fracción parlamentaria del PRI para enlistarse a las filas del Partido Encuentro Solidario, anteriormente Encuentro Ciudadano.

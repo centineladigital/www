@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Hasta el momento son al menos 15 los negocios que han recibido las llamadas"
-image: /uploads/2021/images-TT4T43.jpg
-video: nil
-audio: /uploads/2021/audio-AL05_RICARDO_PEREA.mp3
-alt: Alerta COCENTRO Extorsiones en el Centro de la ciudad
+image: "/uploads/2021/images-TT4T43.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AL05_RICARDO_PEREA.mp3"
+alt: "Alerta COCENTRO Extorsiones en el Centro de la ciudad"
 front: false
-section: Local
+section: "Local"
+news_id: 182041
 ---
 
 El presidente de la Asociación de Comerciantes del Centro Cocentro, Ricardo Perea García alertó al gremio de vendedores que se ha registrado una serie de llamadas de extorsión a los negocios, motivó por el cual pide a los Comerciantes estar alerta a este tipo de acciones por parte de los delincuentes. 

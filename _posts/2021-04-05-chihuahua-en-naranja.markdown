@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Arturo Valenzuela, indicó que las vacaciones no son precisamente la causa de otra oleada de contagios, si no que en el mundo se aprecia una tercera embestida de la pandemia"
-image: /uploads/2021/images-covid.jpeg
-video: nil
-audio: nil
-alt: Chihuahua en naranja hasta que lo dispongan las personas -  Salud
+image: "/uploads/2021/images-covid.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Chihuahua en naranja hasta que lo dispongan las personas -  Salud"
 front: false
-section: Local
+section: "Local"
+news_id: 183686
 ---
 
 La Secretaría de Salud dijo en el último reporte epidemiológico informó que Parral registró tres casos positivos nuevos en un lapso de 24 horas, llegando a un total de 907 contagios en lo que va del año; afortunadamente no se registraron decesos manteniéndose en un total de 73 defunciones a causa del Sars-CoV2.

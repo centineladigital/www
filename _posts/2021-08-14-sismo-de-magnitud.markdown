@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Sismo de magnitud 7.2 sacude Haití; autoridades reportan daño en viviendas"
-image: /uploads/2021/images-reporta-personas-atrapadas-escombros-sismo.jpg
-video: nil
-audio: nil
-alt: Sismo de magnitud 7.2 sacude Haití; autoridades reportan daño en viviendas
+image: "/uploads/2021/images-reporta-personas-atrapadas-escombros-sismo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sismo de magnitud 7.2 sacude Haití; autoridades reportan daño en viviendas"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186689
 ---
 
 Un sismo de magnitud 7.2 se sintió hoy en Haití, con epicentro a 160 kilómetros del centro de Puerto Príncipe, por lo que se activó por un momento la alerta de tsunami, informó el Servicio Geológico de Estados Unidos.  

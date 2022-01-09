@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Gobierno del Estado a través de la Secretaría de Hacienda salda en parte el adeudo vencido para que el servicio se brinde nuevamente con normalidad"
-image: /uploads/2021/images-275896ta.jpg
-video: nil
-audio: nil
-alt: Se reanuda servicio de hospitales Ángeles y Christus Muguerza para derechohabientes de Pensiones Civiles
+image: "/uploads/2021/images-275896ta.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se reanuda servicio de hospitales Ángeles y Christus Muguerza para derechohabientes de Pensiones Civiles"
 front: false
-section: Local
+section: "Local"
+news_id: 182706
 ---
 
 El Gobierno del Estado logró que desde esta mañana se reanudara el servicio a los derechohabientes de Pensiones Civiles del Estado (PCE), en los hospitales del grupo Ángeles, tanto en la ciudad de Chihuahua como en la ciudad de Cuauhtémoc.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz fue la invitada dominical del programa en YouTube de Yordi Rosado."
-image: /uploads/2021/images-erika-buenfil-instagram-2.jpg
-video: nil
-audio: nil
-alt: Se alejó pero no me chingó la vida -  Erika Buenfil recuerda su relación con Ernesto Zedillo Jr., el padre de su hijo
+image: "/uploads/2021/images-erika-buenfil-instagram-2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se alejó pero no me chingó la vida -  Erika Buenfil recuerda su relación con Ernesto Zedillo Jr., el padre de su hijo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185378
 ---
 
 Erika Buenfil, actriz que se ha convertido en la reina de TikTok, pues tiene una gran cantidad de fanáticos en dicha red social, fue la invitada dominical del programa en YouTube de Yordi Rosado. Ahí habló de su impacto actual en el panorama virtual, aunque también relató cómo fue criar a su hijo Nicolás como madre soltera, sin el apoyo del padre, Ernesto Zedillo Jr.  

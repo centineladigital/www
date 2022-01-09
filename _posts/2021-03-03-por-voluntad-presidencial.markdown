@@ -3,21 +3,22 @@ layout: post
 title: " 'Por voluntad presidencial', disminuyen impuestos a Pemex en 73 mil mdp"
 date: 2021-03-03T16:35:00.000-06:00
 tags:
-
+  
   - impuestos
-
+  
   - AMLO
-
+  
   - Pemex
-
+  
 author: nil
 description: "Este apoyo que por tercer año consecutivo da el gobierno a Pemex es como agua de mayo, dijo Romero Oropeza; el Presidente reitera que no habrá gasolinazo"
-image: /uploads/2021/images-2538593.jpg
-video: nil
-audio: nil
-alt:  Por voluntad presidencial disminuyen impuestos a Pemex en 73 mil mdp
+image: "/uploads/2021/images-2538593.jpg"
+video: "nil"
+audio: "nil"
+alt: " 'Por voluntad presidencial', disminuyen impuestos a Pemex en 73 mil mdp"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183238
 ---
 
 l director general de Petróleos Mexicanos, Octavio Romero Oropeza dijo que “por voluntad presidencial se apoya a Pemex con disminución de impuestos”, que será del orden de “73 mil mdp”.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se les proporcionan herramientas y un protocolo de actuación para atender situaciones de violencia sexual a bordo de las unidades"
-image: /uploads/2021/images-5.JPG
-video: nil
-audio: nil
-alt: Capacitan a operadores de transporte Bowí contra la violencia de género
+image: "/uploads/2021/images-5.JPG"
+video: "nil"
+audio: "nil"
+alt: "Capacitan a operadores de transporte Bowí contra la violencia de género"
 front: false
-section: Local
+section: "Local"
+news_id: 185924
 ---
 
 Personal del Departamento de Operaciones de la Ruta Troncal del Transporte Ecológico Bowí, recibió este día una capacitación en materia de violencia sexual contra las mujeres en las unidades de transporte público.

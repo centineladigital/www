@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Voy a darle la bienvenida, siempre será bienvenido el Presidente a Chihuahua, señala el mandatario estatal"
-image: /uploads/2021/images-GOBERNADOR_DE_CHIHUAHUA_JAVIER_CORRAL.jpg
-video: nil
-audio: nil
-alt: Acompañará Javier Corral a Presidente de la República en gira por Ciudad Juárez
+image: "/uploads/2021/images-GOBERNADOR_DE_CHIHUAHUA_JAVIER_CORRAL.jpg"
+video: "nil"
+audio: "nil"
+alt: "Acompañará Javier Corral a Presidente de la República en gira por Ciudad Juárez"
 front: false
-section: Local
+section: "Local"
+news_id: 183551
 ---
 
 El gobernador Javier Corral Jurado informó que fue convocado a acompañar al presidente de la República, Andrés Manuel López Obrador, este viernes 26 de marzo durante su gira por Ciudad Juárez.

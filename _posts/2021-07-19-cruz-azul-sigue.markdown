@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Campeón de Campeones de la temporada 2020-21, al derrotar a León 2-1."
-image: /uploads/2021/images-E6n3Sr0WEAQSDS9.jpg
-video: nil
-audio: nil
-alt: Cruz Azul sigue imparable y se lleva el Campeón de Campeones ante León
+image: "/uploads/2021/images-E6n3Sr0WEAQSDS9.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cruz Azul sigue imparable y se lleva el Campeón de Campeones ante León"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 185777
 ---
 
 Cruz Azul sigue en gran momento, al llevarse el título de Campeón de Campeones de la temporada 2020-21, al derrotar a León 2-1, con gran actuación de quien fue considerado el mejor jugador del Guardianes 2021: Jonathan Rodríguez.

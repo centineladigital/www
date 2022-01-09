@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "prefirió no mencionar un calificativo respecto a las acusaciones "
-image: /uploads/2021/images-Mario_Vázquez.jpeg
-video: /uploads/2021/videos-BJ04_MARIO_VAZQUEZ_.mp4
-audio: nil
-alt: Duarte no tiene la calidad moral para establecer criterios; Mario Vázquez
+image: "/uploads/2021/images-Mario_Vázquez.jpeg"
+video: "/uploads/2021/videos-BJ04_MARIO_VAZQUEZ_.mp4"
+audio: "nil"
+alt: "Duarte no tiene la calidad moral para establecer criterios; Mario Vázquez"
 front: false
-section: Local
+section: "Local"
+news_id: 187385
 ---
 
 El presidente del congreso del estado Mario Vázquez prefirió no mencionar un calificativo respecto a las acusaciones que se expidieron en la carta dirigida al gobernador Javier corral, esto al ser cuestionado sobres su opinión respecto al tema. 

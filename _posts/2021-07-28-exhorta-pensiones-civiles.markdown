@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Recibir la dosis de inmunización debe reforzarse con el uso de cubrebocas, lavado frecuentemente de manos y sana distancia; la nueva cepa Delta ha infectado más a juventudes que no se han vacunado, advierte"
-image: /uploads/2021/images-PCE_filtros_4.jpg
-video: nil
-audio: nil
-alt: Exhorta Pensiones Civiles a continuar con medidas preventivas   aun con vacuna contra COVID-19
+image: "/uploads/2021/images-PCE_filtros_4.jpg"
+video: "nil"
+audio: "nil"
+alt: "Exhorta Pensiones Civiles a continuar con medidas preventivas   aun con vacuna contra COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 186065
 ---
 
 Frente al incremento de contagios de COVID-19 en su derechohabiencia de entre 18 y 39 años de edad, Pensiones Civiles del Estado (PCE) exhortó a completar el esquema de vacunación contra el SARS-CoV-2, actualmente disponible.

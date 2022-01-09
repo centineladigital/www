@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Norma Deirdré Bazán, aseguró que los otros partidos están difundiendo encuestas de salida en donde supuestamente aparecen arriba"
-image: /uploads/2021/images-Norma_Deirdré_Bazán.jpg
-video: nil
-audio: nil
-alt: Adversarios difunden encuestas falsas -  coordinadora de Loera
+image: "/uploads/2021/images-Norma_Deirdré_Bazán.jpg"
+video: "nil"
+audio: "nil"
+alt: "Adversarios difunden encuestas falsas -  coordinadora de Loera"
 front: false
-section: Local
+section: "Local"
+news_id: 184884
 ---
 
 Norma Deirdré Bazán, coordinadora de la campaña del candidato la gubernatura de Chihuahua, Juan Carlos Loera de la Rosa, aseguró que la desesperación de los adversarios es clara hasta el grado que están llegando a límites inimaginables, incluso, están difundiendo encuestas de salida en donde supuestamente aparecen arriba.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se aprovechó del vínculo de confianza para cometer el ilícito"
-image: /uploads/2021/images-Edgar_Adrián_S._M..jpg
-video: nil
-audio: nil
-alt: Imponen sentencia de 36 años a agresor sexual 
+image: "/uploads/2021/images-Edgar_Adrián_S._M..jpg"
+video: "nil"
+audio: "nil"
+alt: "Imponen sentencia de 36 años a agresor sexual "
 front: false
-section: Local
+section: "Local"
+news_id: 186390
 ---
 
 En un Juicio Oral, la Fiscalía Especializada de la Mujer acreditó la responsabilidad penal del imputado Edgar Adrián S. M., por los delitos de violación agravada y contra la correcta formación de personas menores cometidos contra su hijastra. 

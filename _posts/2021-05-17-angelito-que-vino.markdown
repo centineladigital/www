@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue durante una transmisión en vivo en donde Marco Antonio Regil contó que su perrito Bernie murió de forma inesperada. "
-image: /uploads/2021/images-marco-antonio-regil-llora-revelar.jpg
-video: nil
-audio: nil
-alt: Angelito que vino a ayudarme -  Marco Antonio Regil llora al anunciar la muerte de su perrito
+image: "/uploads/2021/images-marco-antonio-regil-llora-revelar.jpg"
+video: "nil"
+audio: "nil"
+alt: "Angelito que vino a ayudarme -  Marco Antonio Regil llora al anunciar la muerte de su perrito"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184499
 ---
 
 Marco Antonio Regil, conductor de televisión y ferviente activista por el medio ambiente y la protección animal, rompió en llanto al compartir con sus seguidores que estaba pasando por un duro momento: su perrito Bernie –con quien era inseparable– murió. El famoso contó la razón de su partida y explicó que su muerte fue repentina. En medio del llanto realizó una transmisión en vivo para expresar el dolor que sentía por la pérdida de su amigo que adoptó de la calle. Fue durante una transmisión en vivo en donde Marco Antonio Regil contó que su perrito Bernie murió. Y es que desde hace unos meses, el conductor había revelado que su amigo fiel había sido sometido a una operación por una afección cardíaca, hecho que lo dejó débil. 

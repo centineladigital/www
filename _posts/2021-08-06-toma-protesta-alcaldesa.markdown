@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "La alcaldesa, María Angélica Granados Trespalacios, participó y tomó protesta a la nueva mesa directiva de la Alianza Empresarial Centauros del Norte, la cual es integrada por 46 empresarios quienes representan diversos giros y sectores productivos de la capital."
-image: /uploads/2021/images-unnamed_(3).jpg
-video: nil
-audio: nil
-alt: Toma protesta Alcaldesa a la nueva mesa directiva de la Alianza Empresarial Centauros del Norte   
+image: "/uploads/2021/images-unnamed_(3).jpg"
+video: "nil"
+audio: "nil"
+alt: "Toma protesta Alcaldesa a la nueva mesa directiva de la Alianza Empresarial Centauros del Norte   "
 front: false
-section: Local
+section: "Local"
+news_id: 186396
 ---
 
 Desde sus inicios, el objetivo del grupo ha sido generar referencias de negocios a los integrantes, a través de la creación de networking, basándose en la confiabilidad y profesionalismo de los mismos, validando y recomendando su trabajo; midiendo el valor de la referencia, visitas empresariales y la colaboración para alcanzar los objetivos grupales de la alianza.

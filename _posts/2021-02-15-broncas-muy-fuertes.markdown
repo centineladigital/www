@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz aseguró que el elenco de 'Me caigo de risa' ha tenido varios pleitos entre ellos, incluso, contó que tuvo un problema con Ricardo Fastlicht. "
-image: /uploads/2021/images-mariana-echeverria-revela-pleitos-elenco_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Broncas muy fuertes -  Mariana Echeverría revela pleitos entre elenco de 'Me caigo de risa'
+image: "/uploads/2021/images-mariana-echeverria-revela-pleitos-elenco_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Broncas muy fuertes -  Mariana Echeverría revela pleitos entre elenco de 'Me caigo de risa'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182943
 ---
 
 Me caigo de risa acaba de estrenar su séptima temporada con nuevas dinámicas y retos que ponen en jaque a la llamada "familia disfuncional", a la que pertenece Mariana Echeverría. La actriz y comediante fue la invitada especial de Miembros al aire, en donde confesó que el elenco del reality de Televisa ha tenido varios pleitos entre ellos, incluso, contó que tuvo un problema con Ricardo Fastlicht.  En su visita al programa de Unicable, Mariana Echeverría relató los conflictos que han surgido entre los integrantes de Me caigo de risa, pues señaló que después de siete años juntos, es normal que tengan algunos problemas. Recordemos que Fiasy, Ricardo Margaleff, Ricardo Fastlicht y Mariana Echeverría son parte del reality desde su estreno hace siete años.

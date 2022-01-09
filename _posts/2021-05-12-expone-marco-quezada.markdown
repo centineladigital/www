@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Afirma que se tienen que tomar medidas."
-image: /uploads/2021/images-MARCO.jpg
-video: nil
-audio: /uploads/2021/audio-MW06_MARCO_QUEZADA.mp3
-alt: Expone Marco Quezada temas de ante Canaco Servytur
+image: "/uploads/2021/images-MARCO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW06_MARCO_QUEZADA.mp3"
+alt: "Expone Marco Quezada temas de ante Canaco Servytur"
 front: false
-section: Local
+section: "Local"
+news_id: 184428
 ---
 
 Beneficios fiscales y otras acciones fueron presentadas por parte del candidato a la alcaldía de Chihuahua por MORENA, Marco Adán Quezada Martínez, en la reunión con directivos e integrantes de la Cámara Nacional de Comercio, Servicios y Turismo de Chihuahua, o Canaco Servytur. 

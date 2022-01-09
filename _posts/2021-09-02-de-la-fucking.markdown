@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue a través de su cuenta oficial de Instagram, en donde Thalía, quien recientemente cumplió 50 años de edad, mostró cómo quedó su casa tras las fuertes lluvias en Nueva York por el paso del huracán Ida. "
-image: /uploads/2021/images-thalia-muestra-casa-inundada-huracan.jpg
-video: nil
-audio: nil
-alt: De la fucking angustia -  Se inunda lujosa casa de Thalía en Nueva York tras paso del huracán 'Ida'
+image: "/uploads/2021/images-thalia-muestra-casa-inundada-huracan.jpg"
+video: "nil"
+audio: "nil"
+alt: "De la fucking angustia -  Se inunda lujosa casa de Thalía en Nueva York tras paso del huracán 'Ida'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187377
 ---
 
 Thalía, cantante y actriz mexicana, fue otra de las víctimas del huracán “Ida”, pues su lujosa casa de Nueva York terminó inundada. Así lo compartió la famosa en su cuenta de Instagram con varios videos en donde se mostró impactada por lo sucedido. Te contamos lo que vivió la intérprete de Amor a la Mexicana con este fenómeno natural. 

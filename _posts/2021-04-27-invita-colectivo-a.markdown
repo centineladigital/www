@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "A las 10:30 horas se entregarán de cubrebocas y ese mismo día a las 20:00 horas se llevará a cabo la manifestación en la misma zona."
-image: /uploads/2021/images-PS1.jpg
-video: nil
-audio: /uploads/2021/audio-MM05_JUAN_MENDOZA.mp3
-alt: Invita colectivo a manifestación nacional
+image: "/uploads/2021/images-PS1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM05_JUAN_MENDOZA.mp3"
+alt: "Invita colectivo a manifestación nacional"
 front: false
-section: Local
+section: "Local"
+news_id: 184145
 ---
 
 Una manifestación nacional es lo que inivta el Colectivo Nacional Con Amor Por Nuestros Hijos, a llevar a cabo este próximo 29 de abril, desde las instalaciones del Tribunal Superior de Justicia según fue dado a conocer Juan Carlos Mendoza Irene, integrante de esta agrupación. A las 10:30 horas se entregarán de cubrebocas y ese mismo día a las 20:00 horas se llevará a cabo la manifestación en la misma zona.

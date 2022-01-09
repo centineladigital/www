@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Antes que Robert Pattinson fuera el elegido para protagonizar la saga de vampiros y hombres lobo, Henry Cavill era el preferido de la escritora Stephenie Meyer. "
-image: /uploads/2021/images-henry-cavill-robert-pattinson-edward_(1).jpg
-video: nil
-audio: nil
-alt: ¿Lo imaginas? Henry Cavill pudo ser Edward Cullen en 'Crepúsculo'; era el favorito de la autora
+image: "/uploads/2021/images-henry-cavill-robert-pattinson-edward_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Lo imaginas? Henry Cavill pudo ser Edward Cullen en 'Crepúsculo'; era el favorito de la autora"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184438
 ---
 
 Henry Cavill es famoso por interpretar a Clark Kent, mejor conocido como Superman, personaje que este año apareció en La Liga de la Justicia de Zack Snyder. Sin embargo, ya desde antes se había dado a conocer por su papel de Charles Brandon en Los Tudor (2007-2010). Nacido el 5 de mayo de 1983 como Henry William Dalgliesh Cavill, el actor británico celebra hoy su cumpleaños número 38. ¿Sabias que a su trayectoria se se le pudo haber sumado la interpretación de Edward Cullen en la criticada saga de Crepúsculo? 

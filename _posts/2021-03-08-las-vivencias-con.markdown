@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz prepara las nuevas temporadas de la serie Se rentan cuartos, que se transmite por Comedy Central, y habla de la experiencia de aprendizaje y dolor que le ha dejado el covid-19, tras perder a su progenitora. "
-image: /uploads/2021/images-en-esta-fecha-la-reconoce_0_25_308_191.jpg
-video: nil
-audio: nil
-alt: ‘Las vivencias con mi madre me fortalecieron’ -  Itatí Cantoral
+image: "/uploads/2021/images-en-esta-fecha-la-reconoce_0_25_308_191.jpg"
+video: "nil"
+audio: "nil"
+alt: "‘Las vivencias con mi madre me fortalecieron’ -  Itatí Cantoral"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183332
 ---
 
 Para Itatí Cantoral, la pandemia ha sido una etapa “de mucho aprendizaje”: en el aspecto profesional se ha adaptado a las nuevas dinámicas de grabación; y en el terreno personal ha padecido la muerte de su mamá, Itatí Zucchi. Sin embargo, mantenerse activa y recurrir al cúmulo de vivencias que tiene con ella, “me han dado la fortaleza para salir adelante”. Apenas terminó su intervención en La mexicana y el güero, Itatí cambió de vestuario, de caracterización y de género, pues aunque reconoce que haber grabado en plena pandemia “fue un trabajo complejo por todas las medidas de seguridad” a las que tuvo que adaptarse en el melodrama que protagonizó con Juan Soler, “no tendré tiempo de descansar, ya que empiezo Se rentan cuartos, de Comedy Central, en su cuarta y quinta temporada; entró Regina Orozco y los libretos están padrísimos”, dice en entrevista con M2. 

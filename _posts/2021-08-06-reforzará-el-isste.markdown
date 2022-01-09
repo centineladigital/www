@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El director general, Luis Antonio Ramírez Pineda, realiza una gira de trabajo por Pinotepa Nacional, Santa Rosa de Lima, Río Grande, Puerto Escondido, San Pedro Pochutla y Huatulco.  "
-image: /uploads/2021/images-ISSSTE_02.jpeg
-video: nil
-audio: nil
-alt: Reforzará el ISSTE unidades médicas de la costa de Oaxaca 
+image: "/uploads/2021/images-ISSSTE_02.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Reforzará el ISSTE unidades médicas de la costa de Oaxaca "
 front: false
-section: Local
+section: "Local"
+news_id: 186399
 ---
 
 El director general del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), Luis Antonio Ramírez Pineda, inició una intensa gira de trabajo por la costa del estado de Oaxaca, con el objetivo de revisar, analizar y supervisar la infraestructura de las unidades médicas para resolver las necesidades prioritarias en beneficio de la derechohabiencia.

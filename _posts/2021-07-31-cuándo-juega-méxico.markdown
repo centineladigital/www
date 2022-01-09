@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Conoce la fecha y horario del partido entre el Tri y la Verdeamarela por el boleto a la final de los Juegos Olímpicos"
-image: /uploads/2021/images-seleccion-mexicana-de-futbol-en_1_30_1198_747.jpg
-video: nil
-audio: nil
-alt: ¿Cuándo juega México vs Brasil las semifinales de Juegos Olímpicos en Tokio?
+image: "/uploads/2021/images-seleccion-mexicana-de-futbol-en_1_30_1198_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Cuándo juega México vs Brasil las semifinales de Juegos Olímpicos en Tokio?"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186164
 ---
 
 La selección mexicana de futbol está a un partido de poder conquistar una medalla en los Juegos Olímpicos de Tokio 2020, luego de golear a su similar de Corea del Sur en los cuartos de final, consiguiendo su boleto a semifinales, fase en la que enfrentará a Brasil. 

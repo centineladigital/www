@@ -16,12 +16,13 @@ tags:
   
 author: nil
 description: "Planteó contratar una empresa externa para dar claridad a los chihuahuenses"
-image: /uploads/2021/images-KJHGFD.jpg
-video: /uploads/2021/videos-BW04_ALEJANDRO_DOMINGUEZ.mp4
-audio: nil
-alt: Se debería hacer una auditoria de los gastos de la administración de Javier Corral 
+image: "/uploads/2021/images-KJHGFD.jpg"
+video: "/uploads/2021/videos-BW04_ALEJANDRO_DOMINGUEZ.mp4"
+audio: "nil"
+alt: "Se debería hacer una auditoria de los gastos de la administración de Javier Corral "
 front: false
-section: Local
+section: "Local"
+news_id: 187347
 ---
 
 Alejandro Domínguez diputado por el Partido Revolucionario Institucional en el congreso del estado, planteó contratar una empresa externa para dar claridad a los chihuahuenses respecto a los gastos administrativos del gobierno de Javier corral.

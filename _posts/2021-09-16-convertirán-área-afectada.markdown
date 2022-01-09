@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esperan ayuda de FECHAC para adecuar el área."
-image: /uploads/2021/images-FELIPE.jpg
-video: /uploads/2021/videos-MJ06_FELIPE_SANDOVAL.mp4
-audio: nil
-alt: Convertirán área afectada del hospital en oficinas
+image: "/uploads/2021/images-FELIPE.jpg"
+video: "/uploads/2021/videos-MJ06_FELIPE_SANDOVAL.mp4"
+audio: "nil"
+alt: "Convertirán área afectada del hospital en oficinas"
 front: false
-section: Local
+section: "Local"
+news_id: 187799
 ---
 
 El área que se dañó dentro de las lluvias se convertirá en oficinas administrativas, señaló el titular de la Secretaría de Salud Felipe Fernando Sandoval Magallanes, esto al afirmar que debido a que el contratista salió de la ciudad no se ha podido llevar a cabo la edificación.

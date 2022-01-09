@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el 2004 Lindsay Lohan comenzó su carrera como cantante, fue así que sacó a la venta dos discos Speak y A Little More Personal. "
-image: /uploads/2021/images-lindsay-lohan-publico-su-primer_0_94_1200_746.jpg
-video: nil
-audio: nil
-alt: Lindsay Lohan y su faceta como cantante con la que no tuvo éxito
+image: "/uploads/2021/images-lindsay-lohan-publico-su-primer_0_94_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lindsay Lohan y su faceta como cantante con la que no tuvo éxito"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185348
 ---
 
 La actriz Lindsay Lohan se dio a conocer desde que era muy pequeña, sin duda, la película que catapultó su carrera fue Juego de gemelas y años más tarde, participó en Un viernes de locos, Golpe de suerte y la favorita de muchos: Chicas pesadas. Aunque la actriz también ha sido modelo, hay una faceta que tal vez pocos recuerden: la de cantante. 

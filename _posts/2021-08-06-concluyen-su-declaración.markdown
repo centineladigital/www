@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Gobierno Municipal alcanza cifra histórica de cumplimiento del 98%   "
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Concluyen su declaración patrimonial empleados municipales de todos los niveles
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Concluyen su declaración patrimonial empleados municipales de todos los niveles"
 front: false
-section: Local
+section: "Local"
+news_id: 186391
 ---
 
 El titular del Órgano Interno de Control del Gobierno Municipal,  Juan Olague Barraza, dio a conocer que ha concluido la presentación en tiempo y forma de la Declaración de Situación Patrimonial y de Intereses, por parte de los empleados municipales de todos los niveles, alcanzando un nivel de cumplimiento del 98%.

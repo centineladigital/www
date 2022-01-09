@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de redes sociales se viralizó una foto de Sofía Castro en un módulo del INE; aseguran que se saltó la fila para hacer su trámite. "
-image: /uploads/2021/images-el-ine-respondio-a-dicha.jpg
-video: nil
-audio: nil
-alt: ¿Preferencia? Acusan a Sofía Castro, hija de Angélica Rivera, de no hacer fila para entrar al INE
+image: "/uploads/2021/images-el-ine-respondio-a-dicha.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Preferencia? Acusan a Sofía Castro, hija de Angélica Rivera, de no hacer fila para entrar al INE"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184545
 ---
 
 A través de redes sociales, sobre todo Twitter, se ha difundido una foto en donde se observa a Sofía Castro, hija mayor de Angélica Rivera, quien acudió a realizar un trámite a un módulo del INE, sin embargo, se ha asegurado que la actriz, quien aparecerá en la serie Malverde, que se saltó la fila y entró sin esperar un turno. El encargado de difundir la foto de Sofía Castro en Twitter y denunciar que la joven llegó y que no hizo fila fue el periodista Hernán Gómez Bruera, quien mencionó que la actriz de 24 años llegó a un módulo ubicado en Reforma. 

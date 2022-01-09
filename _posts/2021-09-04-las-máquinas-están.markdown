@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "“La música intenta ser un oasis dentro de esta situación en la que está el mundo”, dice en entrevista."
-image: /uploads/2021/images-kiko-veneno-presento-disco-hambre.jpg
-video: nil
-audio: nil
-alt: Las máquinas están colonizando nuestro cerebro -  Kiko Veneno presenta su nuevo disco
+image: "/uploads/2021/images-kiko-veneno-presento-disco-hambre.jpg"
+video: "nil"
+audio: "nil"
+alt: "Las máquinas están colonizando nuestro cerebro -  Kiko Veneno presenta su nuevo disco"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187433
 ---
 
 En 1981, año en que publicó su primer disco solista, Seré mecánico por ti (Epic), Kiko Veneno, un músico que se mueve entre el flamenco, el rock, la electrónica y otros géneros, se convirtió en una figura fundamental de la Movida Madrileña, ese rico movimiento contracultural surgido en el periodo de transición de la España posfranquista, en el que la cultura tuvo un papel preponderante. Cuatro décadas después, en plena pandemia, el músico nacido en Figueras, Cataluña, entrega su nuevo disco, Hambre, que es como una secuela de su álbum anterior, Sombrero roto, editado en 2019. Y, de paso, empieza a retomar sus presentaciones en público.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las personas se reunieron con el fin de manifestar su descontento por la tragedia ocurrida en la colonia Los Arcos, al norte de la ciudad"
-image: /uploads/2021/images-Marcha_40_lomitos.jpg
-video: nil
-audio: nil
-alt: Se manifiestan en glorieta de Pancho Villa por tragedia de 40 mascotas
+image: "/uploads/2021/images-Marcha_40_lomitos.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se manifiestan en glorieta de Pancho Villa por tragedia de 40 mascotas"
 front: false
-section: Local
+section: "Local"
+news_id: 184473
 ---
 
 Decenas de simpatizantes del movimiento "nos faltan 40 lomitos" se reunieron la mañana de este sábado en las inmediaciones de la glorieta de Pancho Villa, ubicada en el cruce de la avenida División del Norte y Universidad.

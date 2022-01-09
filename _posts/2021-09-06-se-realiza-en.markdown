@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Gracias al programa estatal dedicado a atender este padecimiento, se brinda atención y rehabilitación a niñas y a niños a quienes se fue detectada alguna discapacidad auditiva"
-image: /uploads/2021/images-Implante_coclear.jpg
-video: nil
-audio: nil
-alt: Se realiza en Hospital Infantil de Especialidades de Chihuahua  implante coclear número 100
+image: "/uploads/2021/images-Implante_coclear.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se realiza en Hospital Infantil de Especialidades de Chihuahua  implante coclear número 100"
 front: false
-section: Local
+section: "Local"
+news_id: 187482
 ---
 
 En el Hospital Infantil de Especialidades de Chihuahua se llevó a cabo la centésima cirugía de implante coclear, la cual contribuye a la calidad de vida de pacientes con alguna discapacidad auditiva, informó la Secretaría de Salud Estatal.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Organizaciones criminales han amenazado al titular de la Fiscalía."
-image: /uploads/2021/images-PENICHE.jpg
-video: /uploads/2021/videos-MM02_CESAR_PENICHE.mp4
-audio: nil
-alt: Reconoce Fiscal recibir amenazas
+image: "/uploads/2021/images-PENICHE.jpg"
+video: "/uploads/2021/videos-MM02_CESAR_PENICHE.mp4"
+audio: "nil"
+alt: "Reconoce Fiscal recibir amenazas"
 front: false
-section: Local
+section: "Local"
+news_id: 185847
 ---
 
 “Si, si las ha habido” es la forma en la que el Fiscal General de Chihuahua, César Agusto Peniche Espejel reconoció que ha recibido amenazas directas por parte de organismos delincuenciales. Señalando que estas no son solamente para él sino que ha tenido personal de custodia de los diversos actores políticos.

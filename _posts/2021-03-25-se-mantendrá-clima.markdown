@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este jueves 25 la ciudad de Chihuahua registró una mínima de 2.8°C y en Madera -7.5°C; permanece la advertencia por rachas de viento de 75 km/h"
-image: /uploads/2021/images-tolvanera.jpg
-video: nil
-audio: nil
-alt: Se mantendrá clima helado por las mañanas y fuertes rachas de viento -  CEPC
+image: "/uploads/2021/images-tolvanera.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se mantendrá clima helado por las mañanas y fuertes rachas de viento -  CEPC"
 front: false
-section: Local
+section: "Local"
+news_id: 183549
 ---
 
 Para este jueves 25 prevalecerán las rachas de viento de hasta 75 kilómetros por hora (km/h) y temperaturas muy frías por las mañanas, debido a la presencia del Frente Frío 45 informó la Coordinación Estatal de Protección Civil (CEPC).

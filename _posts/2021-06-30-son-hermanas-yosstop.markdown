@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Yoseline Hoffman y Ginny Hoffman son familia? Es la duda que salió a flote, luego de que se revelara la detención de YosStop. "
-image: /uploads/2021/images-hermanas-yosstop-ginny-hoffman-envueltas.jpg
-video: nil
-audio: nil
-alt: ¿Son hermanas? YosStop y Ginny Hoffman en polémica por casos de abuso; los lazos que las unen
+image: "/uploads/2021/images-hermanas-yosstop-ginny-hoffman-envueltas.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Son hermanas? YosStop y Ginny Hoffman en polémica por casos de abuso; los lazos que las unen"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185311
 ---
 
 ¿YosStop y Ginny Hoffman son hermanas? La youtuber y la actriz están envueltas en polémica por delitos sexuales. Mientras la influencer es acusada de posesión de pornografía infantil, la ex pareja de Héctor Parra se encuentra luchando para que éste –padre de su hija Alexa Parra– se quede en prisión por supuestamente haber abusado de ella cuando era una niña. En medio de este panorama, las dudas han salido a flote ¿Yoseline Hoffman y Ginny Hoffman son familia? Te contamos lo que sabemos. 

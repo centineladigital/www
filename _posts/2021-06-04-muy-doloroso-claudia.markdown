@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Claudia Martin reaccionó a la demanda que presuntamente habrá en su contra por parte de Maite Perroni por una publicación que la señaló como la tercera en discordia en su matrimonio con Andrés Tovar.  "
-image: /uploads/2021/images-demandara-claudia-martin-reacciona-demanda.jpg
-video: nil
-audio: nil
-alt: Muy doloroso -  Claudia Martin reacciona a demanda de Maite Perroni tras escándalo de 'infidelidad'
+image: "/uploads/2021/images-demandara-claudia-martin-reacciona-demanda.jpg"
+video: "nil"
+audio: "nil"
+alt: "Muy doloroso -  Claudia Martin reacciona a demanda de Maite Perroni tras escándalo de 'infidelidad'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184829
 ---
 
 Maite Perroni sigue envuelta en polémica, luego de que la involucraran en la separación de Claudia Martin y el productor Andrés Tovar. Ante los dimes y diretes y de que se informara que Maite Perroni accionará legalmente contra la Martin, la revista que publicó la noticia y contra su ex pareja Koko, Claudia Martin ya reaccionó. ¿También demandará a Maite Perroni? Fue en el programa Hoy en donde dieron a conocer las palabras de Claudia Martin. Fue en la emisión del programa Hoy de Televisa en donde se dio a conocer el posicionamiento de Claudia Martin sobre las acciones legales que emprendió Maite Perroni en su contra, luego de que se rumorara que ella era la tercera en discordia en su matrimonio con Andrés Tovar. 

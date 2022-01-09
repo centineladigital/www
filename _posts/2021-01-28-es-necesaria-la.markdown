@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pacientes pueden presentar desde palpitaciones hasta problemas de memoria"
-image: /uploads/2021/images-MOB66Q45VBDYPHHMFQEMATZK5Y.jpg
-video: nil
-audio: nil
-alt: Es necesaria la revisión médica post Covid
+image: "/uploads/2021/images-MOB66Q45VBDYPHHMFQEMATZK5Y.jpg"
+video: "nil"
+audio: "nil"
+alt: "Es necesaria la revisión médica post Covid"
 front: false
-section: Local
+section: "Local"
+news_id: 182508
 ---
 
 Las personas que contraen el SARS-COV-2 requieren una valoración especializada luego de superar la etapa de infección, para determinar si hay una o más secuelas, y dar tratamiento oportuno, afirmó la doctora Susana Olimpia Sáenz, presidenta del Colegio de Medicina Física y Rehabilitación, perteneciente al Colegio de Médicos de Chihuahua.

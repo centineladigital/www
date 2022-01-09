@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Una de las prioridades del Gobierno Municipal es emprender acciones para eliminar todas las formas de violencia contra las mujeres, niñas, niños y adolescentes."
-image: /uploads/2021/images-unnamed.png
-video: nil
-audio: nil
-alt: Atienden 300 personas plática virtual sobre detección y atención de abuso sexual infantil
+image: "/uploads/2021/images-unnamed.png"
+video: "nil"
+audio: "nil"
+alt: "Atienden 300 personas plática virtual sobre detección y atención de abuso sexual infantil"
 front: false
-section: Local
+section: "Local"
+news_id: 182701
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM) y el DIF Municipal llevó a cabo la plática “Detección y atención de abuso sexual infantil”, con el objetivo de brindar información pertinente para la identificación y prevención en este tema, la cual fue impartida vía Zoom por la doctora Cristina Limas, contando con una afluencia de 300 personas, entre servidores públicos, padres de familia, docentes y público en general.

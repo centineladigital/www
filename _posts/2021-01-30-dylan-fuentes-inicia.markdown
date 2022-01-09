@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantautor colombiano presenta su nueva interpretación al lado de Cazzu, en la cual aborda el lado oscuro de una relación."
-image: /uploads/2021/images-dylan-fuentes-disponible-plataformas-digitales_0_304_853_531.jpeg
-video: nil
-audio: nil
-alt: Dylan Fuentes inicia el año cantando Tu verdad
+image: "/uploads/2021/images-dylan-fuentes-disponible-plataformas-digitales_0_304_853_531.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Dylan Fuentes inicia el año cantando Tu verdad"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182579
 ---
 
 Para mantener el buen curso que adoptó el año pasado, Dylan Fuentes inicia el año estrenando su canción, "Tu verdad", la cual presenta en mancuerna con la rapera argentina Cazzu. "Haber trabajado con Dylan fue super cool. Nos conocimos cuando los dos colaboramos con Tainy en su primer EP. Dylan tiene un flow y look muy único, además de un talento increible. Estoy agradecida por este unión en  "Tu Verdad", expreso Cazzu. 

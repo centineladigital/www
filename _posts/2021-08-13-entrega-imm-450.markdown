@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Durante la Semana de la Salud de la compañía se llevó a cabo esta entrega"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Entrega IMM 450 tarjetas Mi apoyo, Mi bienestar a empleadas de empresa Emerson Termotec
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Entrega IMM 450 tarjetas Mi apoyo, Mi bienestar a empleadas de empresa Emerson Termotec"
 front: false
-section: Local
+section: "Local"
+news_id: 186657
 ---
 
 El Instituto Municipal de las Mujeres (IMM) llevó sus servicios a las instalaciones de Emerson Termotec, como parte de las actividades programadas dentro de la Semana de la Salud organizada por la empresa.

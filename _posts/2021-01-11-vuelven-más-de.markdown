@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Continúan actividades del ciclo escolar 2020-2021; en febrero inician inscripciones para preescolar y primaria, así como preinscripción a secundaria"
-image: /uploads/2021/images-rc_(1).jpeg
-video: nil
-audio: nil
-alt: Vuelven más de 734 mil estudiantes a clases a distancia de Educación Básica
+image: "/uploads/2021/images-rc_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Vuelven más de 734 mil estudiantes a clases a distancia de Educación Básica"
 front: false
-section: Local
+section: "Local"
+news_id: 182029
 ---
 
 Tras concluir el periodo vacacional de diciembre, alrededor de 734 mil estudiantes de preescolar, primaria y secundaria en la entidad, regresaron a clases bajo la modalidad a distancia, para completar el ciclo 2020-2021 en el marco de la contingencia sanitaria.

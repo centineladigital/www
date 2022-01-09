@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La conductora recordó los conflictos que tuvo con Galilea Montijo; señaló que sellarán su amistad tomando una botella de tequila. "
-image: /uploads/2021/images-laura-bozzo-reconcilia-galilea-montijo_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Fui la causante -  Laura Bozzo se reconcilia con Galilea Montijo; admite que pelea fue su culpa
+image: "/uploads/2021/images-laura-bozzo-reconcilia-galilea-montijo_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Fui la causante -  Laura Bozzo se reconcilia con Galilea Montijo; admite que pelea fue su culpa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184102
 ---
 
 Laura Bozzo se sumó al programa Hoy para demostrar su talento en la pista de en la sección Las estrellas bailan en Hoy, donde aceptó ser la pareja de Carlos Benavides, luego de que Anel Noreña se ausentara del matutino. Sin embargo, lo que más llamó la atención fue su encuentro con Galilea Montijo, con quien ha tenido mediáticos conflictos en el pasado; sin embargo, la conductora peruana aseguró que ya limaron asperezas y sellarán su amistad tomándose "una botella de tequila". La presentadora de televisión aseguró en un encuentro con los medios que su pelea con Galilea Montijo está en el pasado. Reconoció que los conflictos iniciaron por su culpa y asumió su responsabilidad tras lo sucedido.  

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Las autoridades están aplicando planes de acción donde laboran para despejar los caminos en el territorio. "
-image: /uploads/2021/images-clima-pakistan-provocado-afectaciones-habitantes_0_10_1024_638.jpg
-video: nil
-audio: nil
-alt: Lluvias y aludes arrasan viviendas provocando 17 muertos en Pakistán
+image: "/uploads/2021/images-clima-pakistan-provocado-afectaciones-habitantes_0_10_1024_638.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lluvias y aludes arrasan viviendas provocando 17 muertos en Pakistán"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187667
 ---
 
 Las lluvias torrenciales de monzón y deslaves que afectaron hoy el noroeste de Pakistán han destruido viviendas y dejado al menos 17 muertos, dijo el oficial de la policía, Mohammad Nawaz, quien afirmó que 11 cadáveres fueron recuperados de entre los escombros de lo que fueron casas de ladrillo tras un alud de lodo en el distrito de Tor Ghar. 

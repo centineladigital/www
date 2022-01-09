@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor se suma al elenco de la serie basada en la vida del bandido mexicano Jesús Malverde, considerado 'El Santo de los narcos'."
-image: /uploads/2021/images-rafael-amaya-estuvo-alejado-de_(1).jpg
-video: nil
-audio: nil
-alt: ¡Regresa a la televisión! Revelan primera imagen de Rafael Amaya en la serie 'Malverde'
+image: "/uploads/2021/images-rafael-amaya-estuvo-alejado-de_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Regresa a la televisión! Revelan primera imagen de Rafael Amaya en la serie 'Malverde'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185133
 ---
 
 Rafael Amaya retoma su carrera en la televisión luego de más de tres años alejado de los set de grabación debido a los problemas con el alcohol y las drogas que enfrentó tras interpretar Aurelio Casillas en El señor de los cielos. El actor, quien estuvo internado en una de las clínicas de rehabilitación de Julio César Chávez, vuelve a la pantalla chica con la serie Malverde: El santo patrón.  

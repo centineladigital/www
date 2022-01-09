@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A la fecha la Secretaría de Salud reporta 67 mil 932 casos y 6 mil 936 defunciones; hay 136 hospitalizados y 44 intubados en 25 unidades médicas "
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Se contagian 82 personas y 4 más fallecen por COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Se contagian 82 personas y 4 más fallecen por COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 184669
 ---
 
 La Secretaría de Salud dio a conocer que en el último reporte epidemiológico se confirmaron en la entidad 82 nuevos positivos al SARS-CoV-2 y 4 fallecimientos más, de los cuales 3 corresponden a Chihuahua, uno a Meoqui y otro a Ahumada.

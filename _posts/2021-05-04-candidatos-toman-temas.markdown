@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "“No hemos tomado ninguna decisión con carácter político”."
-image: /uploads/2021/images-MESTA.jpg
-video: nil
-audio: /uploads/2021/audio-MM06_FERNANDO_MESTA.mp3
-alt: Candidatos toman temas de salud para mejorar sus campañas -  Secretario
+image: "/uploads/2021/images-MESTA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM06_FERNANDO_MESTA.mp3"
+alt: "Candidatos toman temas de salud para mejorar sus campañas -  Secretario"
 front: false
-section: Local
+section: "Local"
+news_id: 184274
 ---
 
 “Hay candidatos que pretenden utilizar hasta temas de salud para mejorar las campañas”, fueron las palabras del Secretario General de Gobierno, Fernando Mesta Soulé. Esto al ser cuestionado respecto a los señalamientos de que el supercierre no ha funcionado. Afirmando que se ha tomado la decisión en base a diversos indicadores, los cuales son manejados por la federación.

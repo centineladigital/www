@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Las nueve instituciones tecnológicas en el estado y la Universidad Politécnica de Chihuahua cuentan con la Norma ISO 9001:2015; más 35 licenciaturas e ingenierías avaladas por órganos nacionales e internacionales certificados."
-image: /uploads/2021/images-1.JPG
-video: nil
-audio: nil
-alt: Logran universidades tecnológicas y UPCH  acreditación de sus programas
+image: "/uploads/2021/images-1.JPG"
+video: "nil"
+audio: "nil"
+alt: "Logran universidades tecnológicas y UPCH  acreditación de sus programas"
 front: false
-section: Local
+section: "Local"
+news_id: 185608
 ---
 
 Como parte de un proceso de profesionalización constante, en busca de alcanzar los mejores estándares de calidad de servicio, en beneficio de miles de estudiantes de las diversas regiones de la entidad, las nueve universidades tecnológicas y la politécnica en el Estado de Chihuahua, cuentan con la certificación de la Norma ISO 9001:2015.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Unas fotos de The Weeknd y Angelina Jolie saliendo de un restaurante desataron los rumores de un romance entre ellos. "
-image: /uploads/2021/images-los-famosos-se-reunieron-en_37_0_1045_650.jpg
-video: nil
-audio: nil
-alt: ¿Romance en puerta? Captan a The Weeknd y Angelina Jolie juntos
+image: "/uploads/2021/images-los-famosos-se-reunieron-en_37_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Romance en puerta? Captan a The Weeknd y Angelina Jolie juntos"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185360
 ---
 
 Cada que se ve a unos famosos pasear por las calles de alguna ciudad desatan rumores de un posible romance, esto es lo que ha pasado recientemente entre The Weeknd y Angelina Jolie, quienes salieron de un restaurante exclusivo en Los Ángeles, esto de inmediato encendió las alarmas y se especuló un noviazgo entre ambos famosos. 

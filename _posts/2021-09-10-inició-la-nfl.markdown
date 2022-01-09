@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los Buccaneers de Tampa Bay consiguieron un agónico triunfo de 31-29 contra los Vaqueros de Dallas"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Inició la NFL y los Buccaneers lograron un sufrido triunfo ante los Cowboys
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Inició la NFL y los Buccaneers lograron un sufrido triunfo ante los Cowboys"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187610
 ---
 
 Los jugadores de los Cowboys de Dallas estaban furiosos. Chris Godwin pareció empujar al defensivo del equipo de la Estrella Solitaria en la recepción que marcó la diferencia, pero los árbitros no tiraron el pañuelo y los campeones siguieron con la ofensiva que terminó con el gol de campo de 36 yardas conectado por Ryan Succop, ese que dio a los Buccaneers un agónico triunfo (31-29).

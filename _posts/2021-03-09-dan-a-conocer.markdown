@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Desarrolla a un profesional técnico bachiller, por lo que en caso de desear continuar con los estudios lo podrán hacer."
-image: /uploads/2021/images-LEONOR.jpg
-video: nil
-audio: /uploads/2021/audio-MM04_LEONOR_GARZON.mp3
-alt: Dan a conocer carrera mecatrónica en CONALEP
+image: "/uploads/2021/images-LEONOR.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM04_LEONOR_GARZON.mp3"
+alt: "Dan a conocer carrera mecatrónica en CONALEP"
 front: false
-section: Local
+section: "Local"
+news_id: 183355
 ---
 
 El Colegio Nacional de Educación Profesional Técnica o CONALEP, por sus siglas, dio a conocer este martes la implementación en su curricular de la carrera de mecatrónica, según lo destacó la directora del Plantel 1, Leonor Garzón.

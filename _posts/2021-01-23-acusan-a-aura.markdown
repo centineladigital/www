@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Un emprendedor acusa a la actriz Aura Cristina Geithner de estafarlo y quedarse con 200 mil pesos."
-image: /uploads/2021/images-aseguran-que-la-actriz-se.jpg
-video: nil
-audio: nil
-alt: Acusan a Aura Cristina Geithner de fraude; se quedó con 200 mil pesos
+image: "/uploads/2021/images-aseguran-que-la-actriz-se.jpg"
+video: "nil"
+audio: "nil"
+alt: "Acusan a Aura Cristina Geithner de fraude; se quedó con 200 mil pesos"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182396
 ---
 
 La actriz Aura Cristina Geithner protagoniza una polémica, esto debido a que un emprendedor de nombre Néstor acusa a la colombiana de haberlo estafado y haberse quedado con cerca de 200 mil pesos. El hombre asegura que Aura Cristina le pidió ayuda para poder invertir en su carrera como cantante. En una entrevista con el programa De Primera Mano, Néstor aseguró que decidió ayudar a Aura Cristina Geithner a comenzar su proyecto musical debido a que es su sueño. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Presidenta Municipal destacó la importancia de permanecer alertas y evitar conducir o salir de casa mientras exista pronóstico de lluvia"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Recorre alcaldesa María Angélica Granados zonas afectadas por lluvias
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Recorre alcaldesa María Angélica Granados zonas afectadas por lluvias"
 front: false
-section: Local
+section: "Local"
+news_id: 186964
 ---
 
 Con la finalidad de conocer de primera mano algunos de los estragos causados por la fuerte lluvia del jueves en la ciudad, la alcaldesa María Angélica Granados Trespalacios efectuó recorridos por varias colonias.

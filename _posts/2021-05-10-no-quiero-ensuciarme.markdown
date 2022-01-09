@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Silvia Pinal reapareció para hablar de la polémica que envuelve a su familia. Esto luego de que Frida Sofía revelara que su abuelo Enrique Guzmán había abusado de ella cuando apenas era una niña. ¿No le cree? "
-image: /uploads/2021/images-silvia-pinal-reaparece-polemica-abuso.jpg
-video: nil
-audio: nil
-alt: No quiero ensuciarme -  Silvia Pinal da espalda a Frida Sofía; defiende a Enrique Guzmán
+image: "/uploads/2021/images-silvia-pinal-reaparece-polemica-abuso.jpg"
+video: "nil"
+audio: "nil"
+alt: "No quiero ensuciarme -  Silvia Pinal da espalda a Frida Sofía; defiende a Enrique Guzmán"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184372
 ---
 
 Silvia Pinal, madre de Alejandra Guzmán, por fin rompió el silencio sobre la polémica que envuelve a Frida Sofía y a Enrique Guzmán. La primera actriz y ex conductora de Casos de la Vida Real por fin reapareció para hablar sobre la acusación que hizo su nieta en contra de su ex esposo por abuso sexual cuando era niña. Y es que anteriormente sólo se había lanzado un comunicado en el que pedía hablar con su nieta. Sin embargo, al parecer cambió de opinión, pues reveló que ella no le cree a Frida Sofía. Abiertamente defendió a Enrique Guzmán. ¿Qué dijo? Te contamos lo que expresó la famosa. 

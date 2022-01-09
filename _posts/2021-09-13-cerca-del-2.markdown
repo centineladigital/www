@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "No hay afectación debido a que no hay gran afluencia en clases presenciales."
-image: /uploads/2021/images-MOCKEN.jpg
-video: /uploads/2021/videos-ML02_JAVIER_GONZALEZ.mp4
-audio: nil
-alt: Cerca del 2 por ciento de grupos sin maestro
+image: "/uploads/2021/images-MOCKEN.jpg"
+video: "/uploads/2021/videos-ML02_JAVIER_GONZALEZ.mp4"
+audio: "nil"
+alt: "Cerca del 2 por ciento de grupos sin maestro"
 front: false
-section: Local
+section: "Local"
+news_id: 187686
 ---
 
 Del total de grupos que se encuentran dentro del ciclo escolar cerca del dos por ciento de los grupos se encuentran sin docente, afirmó el titular de la Secretaría de Educación y Deporte Javier González Mocken.

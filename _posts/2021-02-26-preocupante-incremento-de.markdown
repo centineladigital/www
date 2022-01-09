@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Registran 247 personas dieron positivo a la prueba PCR, acreditándose 57 muertes por esta enfermedad."
-image: /uploads/2021/images-GRA.jpg
-video: nil
-audio: /uploads/2021/audio-MJ01_MIRNA_BELTRÁN.mp3
-alt: Preocupante incremento de casos COVID -  Salud
+image: "/uploads/2021/images-GRA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ01_MIRNA_BELTRÁN.mp3"
+alt: "Preocupante incremento de casos COVID -  Salud"
 front: false
-section: Local
+section: "Local"
+news_id: 183182
 ---
 
 De preocupante fue como calificó el Director Médico de la Zona Norte el incremento de casos de coronavirus, esto ya que por segundo día consecutivo se registraron más de doscientos casos de personas infectadas. Afirmando por parte del funcionario que de continuar así pudiera darse un retroceso en el semáforo.

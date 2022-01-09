@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Patricia Fernández es uno de los personajes más emblemáticos de la telenovela gracias a su frase Yo hice seis semestres de finanzas."
-image: /uploads/2021/images-patricia-fernandez-encargo-hacerle-vida.jpg
-video: nil
-audio: nil
-alt: Se resuelve un misterio de 'Betty la fea' -  ¿La Universidad de San Marino donde estudió 'La Peliteñida' existe?
+image: "/uploads/2021/images-patricia-fernandez-encargo-hacerle-vida.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se resuelve un misterio de 'Betty la fea' -  ¿La Universidad de San Marino donde estudió 'La Peliteñida' existe?"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185290
 ---
 
 El gran éxito que mantiene a Betty la fea entre lastelenovelas favoritas del público a más 20 años de su estreno, se debe en gran medida a lo divertido de sus personajes, tal es el caso de la singular villana Patricia Fernández o La Peliteñida, quien durante toda la trama se encarga de hacerle la vida imposible a Betty, y aún así ha conseguido robar los corazones de miles de fans alrededor del mundo.  

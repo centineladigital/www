@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Secuelas como dificultad para respirar, cansancio, tos, fiebre, dolor muscular, en articulaciones, entre otros, son atendidos por un equipo multidisciplinario de salud "
-image: /uploads/2021/images-Foto_360-1.JPG
-video: nil
-audio: nil
-alt: IMSS ha atendido a casi 178 mil derechohabientes con secuelas de COVID-19
+image: "/uploads/2021/images-Foto_360-1.JPG"
+video: "nil"
+audio: "nil"
+alt: "IMSS ha atendido a casi 178 mil derechohabientes con secuelas de COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 186752
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) fortalece los Servicios de Rehabilitación en unidades médicas de primero, segundo y tercer nivel para atender a pacientes con secuelas de COVID-19, a la fecha casi 178 mil personas con diversas complicaciones o secuelas han recibido intervenciones, además de rehabilitación pulmonar por esta enfermedad.

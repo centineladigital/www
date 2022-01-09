@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "A través de esta serie de fotografías se busca reconocer la pluralidad y autodeterminación que conlleva “lo femenino” desde el cuerpo"
-image: /uploads/2021/images-WhatsApp_Image_2021-08-24_at_13.08.59.jpeg
-video: nil
-audio: nil
-alt: Invita Secretaría de Cultura a la exposición fotográfica  “Habitando la piel”
+image: "/uploads/2021/images-WhatsApp_Image_2021-08-24_at_13.08.59.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Invita Secretaría de Cultura a la exposición fotográfica  “Habitando la piel”"
 front: false
-section: Local
+section: "Local"
+news_id: 187074
 ---
 
 “Habitando la piel”, es el nombre de la exposición colectiva que se presentará a partir de este miércoles 25 de agosto en punto de las 18:00 horas en Plaza Cultural Los Laureles, y en la que a través de la fotografía se reconocerán la pluralidad y autodeterminación que conlleva “lo femenino” desde el cuerpo.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Caudillos será un colaborador para promover entre sus beneficiarios, orientar a quienes vivan este problema y canalizarlos a la Unidad de Atención a la Violencia Familiar"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Suman esfuerzos Gobierno Municipal y Caudillos contra la violencia familiar
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Suman esfuerzos Gobierno Municipal y Caudillos contra la violencia familiar"
 front: false
-section: Local
+section: "Local"
+news_id: 183087
 ---
 
 Con la finalidad de contribuir a la disminución de los casos de violencia familiar y de género que se registran en la ciudad capital, el Gobierno Municipal y la Fundación Caudillos, llevaron a cabo la firma de un convenio de colaboración, por medio del cual suman esfuerzos para canalizar los casos de violencia familiar que se detecten en las diferentes colonias.

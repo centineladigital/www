@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz recordó que Danna Paola y Eleazar Gómez se escapaban durante las grabaciones de la telenovela 'Atrévete a soñar'."
-image: /uploads/2021/images-violeta-isfel-recuerda-noviazgo-danna.jpg
-video: nil
-audio: nil
-alt: Se escapaban -  Violeta Isfel recuerda noviazgo de Danna Paola y Eleazar Gómez
+image: "/uploads/2021/images-violeta-isfel-recuerda-noviazgo-danna.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se escapaban -  Violeta Isfel recuerda noviazgo de Danna Paola y Eleazar Gómez"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182507
 ---
 
 Violeta Isfel habló de la relación sentimental que tuvo Danna Paola con Eleazar Gómez, con quienes coincidió en la telenovela Atrévete a soñar en 2010; el polémico noviazgo volvió al ojo público luego de que el actor fuera detenido en el Reclusorio Varonil Norte en noviembre de 2020 por agredir físicamente a su ex novia, Stephanie Valenzuela.

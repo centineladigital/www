@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Alex Kaffie de nuevo causó polémica después de que en Sale el Sol hablara sobre el aspecto físico de Laura Bozzo. "
-image: /uploads/2021/images-alex-kaffie-critico-cuerpo-laura_44_0_1045_650.jpg
-video: nil
-audio: nil
-alt: Lombriz de agua puerca -  Alex Kaffie critica el aspecto físico de Laura Bozzo
+image: "/uploads/2021/images-alex-kaffie-critico-cuerpo-laura_44_0_1045_650.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lombriz de agua puerca -  Alex Kaffie critica el aspecto físico de Laura Bozzo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185304
 ---
 
 Algo que caracteriza a Alex Kaffie es que es un conductor que no tiene "pelos en la lengua", por lo que no tiene piedad para realizar ciertos comentarios que en ocasiones muchos consideran ofensivos. En esta ocasión el periodista de espectáculos arremetió contra Laura Bozzo y criticó su aspecto físico. 

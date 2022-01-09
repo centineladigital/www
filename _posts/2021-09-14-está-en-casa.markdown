@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Emir Pabón y su esposa compartieron la noticia que su hijo, Matías de Jesús, ya se encuentra en su casa después de haber estado un mes en el hospital. "
-image: /uploads/2021/images-emir-pabon-mostro-rostro-hijo.jpg
-video: nil
-audio: nil
-alt: ¡Está en casa! Hijo de Emir Pabón ya salió del hospital tras un mes en incubadora
+image: "/uploads/2021/images-emir-pabon-mostro-rostro-hijo.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Está en casa! Hijo de Emir Pabón ya salió del hospital tras un mes en incubadora"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187737
 ---
 
 Hace unos meses lamentablemente Emir Pabón y su esposa, Stefanía de Aranda, quien en ese momento estaba embarazada, tuvieron un accidente automovilístico en Estados Unidos el cual fue provocado por el conductor de la plataforma Uber. Tras esto, la esposa del cantante fue la más afectada y hace tan sólo un mes su hijo nació prematuramente. El pequeño Matías de Jesús, nombre del bebé, tuvo que permanecer en el hospital en una incubadora por un mes, afortunadamente ya fue dado de alta y ya se encuentra en casa junto a sus papás, quienes atravesaron por momentos muy difíciles tras el accidente que sufrieron. 

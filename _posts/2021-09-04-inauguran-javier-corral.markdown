@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con el cambio a semáforo verde podrá recibir un aforo hasta del 50% de familias y niños   "
-image: /uploads/2021/images-DSC_0395.JPG
-video: nil
-audio: nil
-alt: Inauguran Javier Corral y Cinthia Chavira el Parque Infantil Colibrí del DIF Estatal
+image: "/uploads/2021/images-DSC_0395.JPG"
+video: "nil"
+audio: "nil"
+alt: "Inauguran Javier Corral y Cinthia Chavira el Parque Infantil Colibrí del DIF Estatal"
 front: false
-section: Local
+section: "Local"
+news_id: 187427
 ---
 
 “Hoy es un día muy especial, de gran emoción e ilusión que habíamos estado esperando, para reinaugurar un parque que es icónico en Chihuahua, que es muy simbólico y al que desde hace más de 25 años no se le invertía en su remodelación”, expresó esta tarde el gobernador Javier Corral Jurado, al cortar el listón con el que el Parque Infantil Colibrí del DIF Estatal reabre sus puertas.

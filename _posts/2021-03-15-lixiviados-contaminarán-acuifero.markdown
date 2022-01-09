@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Necesario remover relleno sanitario de lugar, señala regidor del Partido Verde."
-image: /uploads/2021/images-JUAN_RIOS.jpg
-video: nil
-audio: /uploads/2021/audio-ML01_JUAN_RIOS.mp3
-alt: Lixiviados contaminarán acuifero de no retiar el basurero municipal
+image: "/uploads/2021/images-JUAN_RIOS.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML01_JUAN_RIOS.mp3"
+alt: "Lixiviados contaminarán acuifero de no retiar el basurero municipal"
 front: false
-section: Local
+section: "Local"
+news_id: 183424
 ---
 
 Los líquidos lixiviados contaminarán un acuífero importante que se tiene en el municipio si no se retira el relleno sanitario de este lugar, señaló el regidor que preside la comisión de ecología en Chihuahua, Juan Pablo Ríos Prieto.

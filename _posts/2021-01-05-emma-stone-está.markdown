@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Emma Stone está embarazada? Fotos que filtraron en redes sociales podrían destapar que la famosa actriz espera un bebé junto a su pareja Dave McCary. "
-image: /uploads/2021/images-emma-stone-shutterstock_(1).jpg
-video: nil
-audio: nil
-alt: ¿Emma Stone está embarazada? Fotos desatan sospechas de que la actriz será mamá
+image: "/uploads/2021/images-emma-stone-shutterstock_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Emma Stone está embarazada? Fotos desatan sospechas de que la actriz será mamá"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181876
 ---
 
 ¿Emma Stone está embarazada? La noticia de que la famosa está esperando a su primer hijo junto a su pareja Dave McCary se dio a conocer mediante la revista People, luego de que se filtraran imágenes en donde supuestamente la famosa lució una panza de varios meses de embarazo. La noticia se dio a conocer gracias a una fuente, que según la revista People, confirmó que la pareja está embarazada. Esto luego de que se filtraran en redes sociales imágenes en donde la actriz Emma Stone paseaba por las calles con su panza de embarazo. 

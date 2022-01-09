@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Gobierno del condado de Orange ha señalado que las instalaciones serán el primer punto de vacunación y ha hecho hincapié en el papel de Disneylandia para hacer frente a una tarea monumental en el proceso de distribución de vacunas"
-image: /uploads/2021/images-2510383.jpg
-video: nil
-audio: nil
-alt: California convertirá Disneyland en un centro de vacunación
+image: "/uploads/2021/images-2510383.jpg"
+video: "nil"
+audio: "nil"
+alt: "California convertirá Disneyland en un centro de vacunación"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182070
 ---
 
 Las autoridades de Estados Unidos han anunciado que el parque de atracciones de Disneylandia, situado en el estado de California (suroeste), se convertirá en un centro de vacunación contra el coronavirus, tras el cierre de las instalaciones en marzo a causa de la pandemia.

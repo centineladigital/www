@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Te decimos todo lo que debes saber sobre 'Jungle Cruise', la nueva película de Disney con Dwayne Johnson y Emily Blunt. "
-image: /uploads/2021/images-todo-lo-que-debes-saber-12.jpg
-video: nil
-audio: nil
-alt: ¿Cuándo se estrena? Te decimos dónde ver y todo lo que debes saber sobre 'Jungle Cruise'
+image: "/uploads/2021/images-todo-lo-que-debes-saber-12.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Cuándo se estrena? Te decimos dónde ver y todo lo que debes saber sobre 'Jungle Cruise'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186110
 ---
 
 ¡Cada vez falta menos! Ya podemos ver a 'estribor' el estreno de la nueva película de Disney, 'Jungle Cruise'. Se trata de nada menos que un filme inspirado en la atracción homónima en Disneylandia, y que estará protagonizada por Emily Blunt y Dwayne Johnson, 'The Rock'. 

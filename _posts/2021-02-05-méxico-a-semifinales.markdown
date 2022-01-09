@@ -16,12 +16,13 @@ tags:
   
 author: nil
 description: "Los Tomateros de Culiacán vienen de atrás para ganar 4-3 a los Caribes de Anzoátegui de Venezuela, en extra innings. Se enfrentará a Puerto Rico por el pase a la final"
-image: /uploads/2021/images-2524322.jpg
-video: nil
-audio: nil
-alt: México, a semifinales de la Serie del Caribe 2021
+image: "/uploads/2021/images-2524322.jpg"
+video: "nil"
+audio: "nil"
+alt: "México, a semifinales de la Serie del Caribe 2021"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182722
 ---
 
 Juan Carlos Gamboa respondió con un sencillo remolcador con dos fuera y las bases llenas en el fondo de la décima entrada, y los Tomateros de Culiacán, de México, se anotaron en la madrugada del viernes una dramática victoria por 4-3 ante los Caribes de Anzoátegui, de Venezuela, y avanzaron a las semifinales de la Serie del Caribe 2021.

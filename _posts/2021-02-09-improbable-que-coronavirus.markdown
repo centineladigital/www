@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Es poco probable que el coronavirus se filtrase desde un laboratorio chino, y lo más probable es que haya pasado a los humanos a través de una especie intermediaria"
-image: /uploads/2021/images-2526183.jpg
-video: nil
-audio: nil
-alt: Improbable que coronavirus saliese de laboratorio chino -  OMS
+image: "/uploads/2021/images-2526183.jpg"
+video: "nil"
+audio: "nil"
+alt: "Improbable que coronavirus saliese de laboratorio chino -  OMS"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 182795
 ---
 
 Es poco probable que el coronavirus se filtrase desde un laboratorio chino, y lo más probable es que haya pasado a los humanos a través de una especie intermediaria, dijo un experto de la Organización Mundial de la Salud.

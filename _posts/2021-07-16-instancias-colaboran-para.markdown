@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Piden vacunarse en lugares oficiales."
-image: /uploads/2021/images-GUMARO.jpg
-video: /uploads/2021/videos-MV06_GUMARO_BARRIOS.mp4
-audio: /uploads/2021/audio-MV06_GUMARO_BARRIOS.mp4
-alt: Instancias colaboran para atender denuncias de vacunas falsas
+image: "/uploads/2021/images-GUMARO.jpg"
+video: "/uploads/2021/videos-MV06_GUMARO_BARRIOS.mp4"
+audio: "/uploads/2021/audio-MV06_GUMARO_BARRIOS.mp4"
+alt: "Instancias colaboran para atender denuncias de vacunas falsas"
 front: false
-section: Local
+section: "Local"
+news_id: 185744
 ---
 
 Diversas instancias se encuentran colaborando en investigar denuncias referentes a la venta y/o aplicación de vacunas apócrifas, señaló el Subdirector de Epidemiología de la Secretaría de Salud, Gumaro Barrios Gallegos.

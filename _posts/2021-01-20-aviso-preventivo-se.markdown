@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El pronóstico de la CEPC señala que la mayor intensidad se presentará en Chínipas, Bocoyna, Guazapares, Urique, Batopilas, Morelos, Guachochi y Guadalupe y Calvo; Ciudad Juárez y Chihuahua tendrán precipitaciones dispersas"
-image: /uploads/2021/images-274853blao.jpg
-video: nil
-audio: nil
-alt: Aviso preventivo -  se mantienen lluvias en la mayor parte del estado
+image: "/uploads/2021/images-274853blao.jpg"
+video: "nil"
+audio: "nil"
+alt: "Aviso preventivo -  se mantienen lluvias en la mayor parte del estado"
 front: false
-section: Local
+section: "Local"
+news_id: 182283
 ---
 
 Para el miércoles 20 el pronóstico del clima señala que se mantendrán las precipitaciones en todo el territorio estatal, mientras que fuertes ráfagas de viento podrían superar los 55 km/h en el noroeste y suroeste, informó la Coordinación Estatal de Protección Civil (CEPC).

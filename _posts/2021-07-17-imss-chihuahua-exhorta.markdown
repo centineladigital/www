@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Son padecimientos que muchas veces no presentan síntomas evidentes."
-image: /uploads/2021/images-IMSS_B_3145.jpeg
-video: nil
-audio: nil
-alt: IMSS Chihuahua exhorta a consumir menos grasas, más verduras y agua para cuidar los riñones 
+image: "/uploads/2021/images-IMSS_B_3145.jpeg"
+video: "nil"
+audio: "nil"
+alt: "IMSS Chihuahua exhorta a consumir menos grasas, más verduras y agua para cuidar los riñones "
 front: false
-section: Local
+section: "Local"
+news_id: 185753
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, a través de la Coordinación de Salud Pública, emitió una serie de recomendaciones para el adecuado cuidado de los riñones. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "ICHISAL es uno de los organismos que solicitó créditos."
-image: /uploads/2021/images-MARU1.jpg
-video: /uploads/2021/videos-MV01_MARU_CAMPOS.mp4
-audio: nil
-alt: Descentralizados pidieron préstamos de forma ilegal -  Gobernadora
+image: "/uploads/2021/images-MARU1.jpg"
+video: "/uploads/2021/videos-MV01_MARU_CAMPOS.mp4"
+audio: "nil"
+alt: "Descentralizados pidieron préstamos de forma ilegal -  Gobernadora"
 front: false
-section: Local
+section: "Local"
+news_id: 187631
 ---
 
 Fuera de la ley es como los organismos descentralizados pidieron préstamos, señaló la Gobernadora de Chihuahua María Eugenia Campos Galván, esto violando la ley ya que como dependencia no se puede solicitar un empréstito sin tomar en cuenta al poder ejecutivo.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La conductora no pudo evitar romper en llanto durante su presentación en 'Quiero cantar'; en redes sociales la acusaron de intentar ocultar que se le olvidó la letra de la canción. "
-image: /uploads/2021/images-lau_g.jpg
-video: nil
-audio: nil
-alt: Lágrimas como pretexto -  Critican a Laura G por 'fingir' llanto en su show musical de 'VLA'
+image: "/uploads/2021/images-lau_g.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lágrimas como pretexto -  Critican a Laura G por 'fingir' llanto en su show musical de 'VLA'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186636
 ---
 
 Laura G se convirtió en una de las participantes más controversiales del reality Quiero cantar de Venga la Alegría, pues el público ha criticado sus presentaciones musicales por las múltiples desafinaciones e, incluso, acusaron de favoritismo a la producción por las altas calificaciones que le otorgan a la conductora. Sin embargo, este jueves las críticas se desataron en redes luego de que la famosa llorara en pleno show.  

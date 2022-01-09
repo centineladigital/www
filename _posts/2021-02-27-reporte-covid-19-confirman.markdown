@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Suman 54 mil 142 contagios y 5 mil 195 defunciones en el estado de acuerdo al último reporte epidemiológico de la Secretaría de Salud"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporte COVID-19 -  confirman 208 contagios y 26 fallecimientos más
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporte COVID-19 -  confirman 208 contagios y 26 fallecimientos más"
 front: false
-section: Local
+section: "Local"
+news_id: 183193
 ---
 
 La Secretaría de Salud estatal informó que a este día, se tienen en el estado de Chihuahua un total general de 54 mil 142 casos confirmados de COVID-19, con 208 nuevos contagios.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Durante el gobierno de Javier Corral se terminaron los centros de salud que la pasada administración dejó inconclusos y se construyeron nuevos para garantizar la atención médica a la población, se informa en el programa “Logros con Valor”"
-image: /uploads/2021/images-Centro_de_Salud_en_Gran_Morelos_1.jpg
-video: nil
-audio: nil
-alt: Se construyeron 6 nuevos centros de salud, 1 hospital  y se mejoraron otros 20
+image: "/uploads/2021/images-Centro_de_Salud_en_Gran_Morelos_1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se construyeron 6 nuevos centros de salud, 1 hospital  y se mejoraron otros 20"
 front: false
-section: Local
+section: "Local"
+news_id: 186313
 ---
 
 De recibir una infraestructura médica deficiente, con unidades médicas a medio terminar, pero que sí fueron inauguradas, en 5 años de la actual Administración se hicieron las correcciones debidas, pero además se lograron obras de gran envergadura para la ciudadanía.

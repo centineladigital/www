@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Incrementan patrullaje por parte de la dependencia estatal."
-image: /uploads/2021/images-GIL.jpg
-video: /uploads/2021/videos-MJ05_GIIL_LOYA.mp4
-audio: nil
-alt: Trabaja SSPE estrategia de seguridad en zona occidente
+image: "/uploads/2021/images-GIL.jpg"
+video: "/uploads/2021/videos-MJ05_GIIL_LOYA.mp4"
+audio: "nil"
+alt: "Trabaja SSPE estrategia de seguridad en zona occidente"
 front: false
-section: Local
+section: "Local"
+news_id: 187798
 ---
 
 Debido a que se vive una situación de violencia en la zona occidente la Secretaría de Seguridad Pública está llevando a cabo acciones con el disminuir la inseguridad, afirmó el titular de la dependencia Gilberto Loya Chávez.

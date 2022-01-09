@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La alcaldesa electa de Álvaro Obregón acusó que un policía capitalino la golpeó con un escudo "
-image: /uploads/2021/images-lia_limon_1.jpg
-video: nil
-audio: nil
-alt: Golpeada y sangrando, Lía Limón denuncia agresión afuera del Congreso CDMX
+image: "/uploads/2021/images-lia_limon_1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Golpeada y sangrando, Lía Limón denuncia agresión afuera del Congreso CDMX"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187239
 ---
 
 Ocho alcaldes de oposición –salvo Margarita Saldaña Hernández de Azcapotzalco--, quienes conforman la Unión de Alcaldes de la Ciudad de México (UNE-CDMX), fueron golpeados y agredidos por policías, quienes les impidieron llegar al Congreso local, donde a las 10:00 horas se realizaría la sesión extraordinaria.

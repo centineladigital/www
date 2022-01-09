@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Marco Chacón, asesor legal de Julián Figueroa, reveló que el cantante dejó sólo propiedades, las cuales representan deudas para la familia debido a los gastos que implican. "
-image: /uploads/2021/images-sombrero-joan-sebastian_0_25_448_279.jpg
-video: nil
-audio: nil
-alt: Ni un sólo peso -  Esposo de Maribel Guardia revela detalles de la herencia de Joan Sebastian
+image: "/uploads/2021/images-sombrero-joan-sebastian_0_25_448_279.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ni un sólo peso -  Esposo de Maribel Guardia revela detalles de la herencia de Joan Sebastian"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185182
 ---
 
 A casi seis años de la muerte de Joan Sebastián, la polémica entorno a su herencia continúa, esto debido a que el cantante no dejó ningún testamento lo que ha complicado la repartición de los bienes entre sus hijos. Ante esta situación Marco Chacón, esposo de Maribel Guardia y asesor legal de Julián Figueroa, reveló detalles de la sucesión de propiedades que dejó El Poeta del Pueblo. 

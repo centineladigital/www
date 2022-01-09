@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Buscan dar solución al problema de contagio de coronavirus."
-image: /uploads/2021/images-LEPOLDO.jpg
-video: /uploads/2021/videos-MW01_LEOPOLDO_MARES.mp4
-audio: nil
-alt: Necesario dar más seguimiento a los viajeros que llegan a Chihuahua
+image: "/uploads/2021/images-LEPOLDO.jpg"
+video: "/uploads/2021/videos-MW01_LEOPOLDO_MARES.mp4"
+audio: "nil"
+alt: "Necesario dar más seguimiento a los viajeros que llegan a Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 186076
 ---
 
 Debido a que actualmente el 80 por ciento de quienes arriban al aeropuerto internacional Roberto Fierro son viajeros, Leopoldo Mares, presidente de Cámara de Propietarios de Bienes Inmuebles o CAPRIN por sus siglas, señaló que se tiene que llevar a cabo acciones con el fin evitar que se continúe propagando la enfermedad de coronavirus.

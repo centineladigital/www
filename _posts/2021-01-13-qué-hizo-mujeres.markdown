@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Esta nueva polémica surgió luego de que se creara una cuenta en Instagram bajo el nombre de ‘Cristian Castro Maltratador’. En ésta se publicaron varios audios y supuestas conversaciones en las que el cantante violentaba a mujeres. "
-image: /uploads/2021/images-cantante-hablo-declaraciones-yolanda-andrade_0_68_642_400.jpg
-video: nil
-audio: nil
-alt: ¿Qué hizo? Mujeres acusan a Cristian Castro de violencia; tras polémica cierra sus redes
+image: "/uploads/2021/images-cantante-hablo-declaraciones-yolanda-andrade_0_68_642_400.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Qué hizo? Mujeres acusan a Cristian Castro de violencia; tras polémica cierra sus redes"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182098
 ---
 
 Cristian Castro está envuelto en polémica, pues después de presumir su nueva relación amorosa surgieron una serie de acusaciones en su contra por maltrato hacia las mujeres. La controversia subió de tono y lo orilló a borrar sus publicaciones de Instagram. ¿Qué hizo el hijo de Verónica Castro? ¿De qué lo acusan? Te contamos. Resulta que esta nueva polémica surgió luego de que se creara una cuenta en Instagram bajo el nombre de ‘Cristian Castro Maltratador’. En ésta se publicaron varios audios y supuestas conversaciones en las que el cantante violentaba a mujeres. 

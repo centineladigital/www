@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Explicó que el accidente ocurrió a las 5:00 am cuando el responsable conducía sin luces y alcoholizado"
-image: /uploads/2021/images-DFGRGR.jpg
-video: nil
-audio: /uploads/2021/audio-AW02_MANIFESTANTES.mp3
-alt: Exigen justicia para Alain Yael, perdió sus piernas tras ser atropellado
+image: "/uploads/2021/images-DFGRGR.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AW02_MANIFESTANTES.mp3"
+alt: "Exigen justicia para Alain Yael, perdió sus piernas tras ser atropellado"
 front: false
-section: Local
+section: "Local"
+news_id: 182493
 ---
 
 A las afueras de Palacio de Gobierno, familiares y amigos de Alain Yael Márquez Rentería se manifestaron en para exigir justicia luego de que el joven perdió sus piernas tras ser atropellado por una persona que conducía en estado de ebriedad el pasado 15 de enero. 

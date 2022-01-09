@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Registra Salud 136 nuevos casos y cinco defunciones; hay 105 pacientes hospitalizados y 23 intubados en 27 unidades especializadas"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporte COVID -  74 mil 185 contagios y 7 mil 743 personas fallecidas en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporte COVID -  74 mil 185 contagios y 7 mil 743 personas fallecidas en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 186655
 ---
 
 La Secretaría de Salud dio a conocer que al cierre del informe epidemiológico del 13 de agosto se confirmaron cinco decesos en Chihuahua capital y 136 nuevos casos en la entidad; mientras que la cifra de recuperados se incrementó en 126, se descartaron otros 630 y aumentaron en 83 los sospechosos por COVID-19 en el estado.

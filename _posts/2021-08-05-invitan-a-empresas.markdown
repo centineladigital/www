@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Pueden realizar su registro mediante el enlace https://bit.ly/PreRegistroEmpresa;deben ofrecer todas las prestaciones de Ley y contar con vacantes orientadas a nivel técnico o profesional"
-image: /uploads/2021/images-Banner_Feria.jpg
-video: nil
-audio: nil
-alt: Invitan a empresas chihuahuenses a formar parte de la Feria de Empleo para Jóvenes 2021
+image: "/uploads/2021/images-Banner_Feria.jpg"
+video: "nil"
+audio: "nil"
+alt: "Invitan a empresas chihuahuenses a formar parte de la Feria de Empleo para Jóvenes 2021"
 front: false
-section: Local
+section: "Local"
+news_id: 186350
 ---
 
 En el marco del mes de la juventud, el Gobierno del Estado de Chihuahua, a través de la Secretaría del Trabajo y Previsión Social (STPS), y en colaboración con la Dirección de Desarrollo Humano y Educación del Municipio de Chihuahua invita al empresariado chihuahuense a participar los próximos 16, 17 y 18 de agosto en la Feria de Empleo Virtual para Jóvenes 2021.

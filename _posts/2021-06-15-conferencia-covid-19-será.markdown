@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Solo será un cambio de formato en la transmisión de información"
-image: /uploads/2021/images-wendy_avila.jpg
-video: nil
-audio: nil
-alt: Conferencia Covid-19 será solo los martes
+image: "/uploads/2021/images-wendy_avila.jpg"
+video: "nil"
+audio: "nil"
+alt: "Conferencia Covid-19 será solo los martes"
 front: false
-section: Local
+section: "Local"
+news_id: 185035
 ---
 
 La conferencia sobre la situación del Covid-19 en Chihuahua, finalizará una vez que la entidad pase a semáforo verde, informó esta mañana la Secretaría de Salud.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Invierten 25 millones de pesos en la obra."
-image: /uploads/2021/images-TERRAZA.jpg
-video: nil
-audio: /uploads/2021/audio-MM05.mp3
-alt: Arranca prolongación de vialidad Tomás Valles
+image: "/uploads/2021/images-TERRAZA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM05.mp3"
+alt: "Arranca prolongación de vialidad Tomás Valles"
 front: false
-section: Local
+section: "Local"
+news_id: 185048
 ---
 
 Este martes dio inicio la construcción de la obra en Prolongación de la vialidad Tomás Valles Vivar en el fraccionamiento Lomas del Valle, según fue dado a conocer por parte del el Regidor presidente de la Comisión de Vialidad y Transporte Ing. Luis Terrazas Fraga.

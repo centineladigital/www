@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Es temporada de “ambrosía”, planta cuyo polen afecta a gran porcentaje de la población desde mediados de agosto hasta fines de septiembre"
-image: /uploads/2021/images-Foto_3980-1.jpg
-video: nil
-audio: nil
-alt: Alergias no tratadas, causantes de múltiples problemas a la salud -  IMSS Chihuahua
+image: "/uploads/2021/images-Foto_3980-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Alergias no tratadas, causantes de múltiples problemas a la salud -  IMSS Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 186999
 ---
 
 La alergia es una respuesta exagerada anormal del organismo ante partículas externas tales como polen, ácaros, picaduras de insectos, alimentos y medicinas, por lo que el Instituto Mexicano del Seguro Social en Chihuahua aplica tratamientos de regulación del sistema inmune para provocar la tolerancia a estos agentes, indicó la coordinadora de Salud Pública, doctora Brenda Ramírez Vega.

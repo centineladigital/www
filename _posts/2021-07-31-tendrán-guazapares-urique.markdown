@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Alerta Protección Civil que el domingo 1 de agosto se intensificarán, sobre todo en Temósachic, Ocampo, Moris y Guazapares; Chihuahua y Juárez también registrarán precipitaciones, aunque de menor intensidad"
-image: /uploads/2021/images-LLUVIAS_EN_URIQUE_JUNIO_2021.jpeg
-video: nil
-audio: nil
-alt: Tendrán Guazapares, Urique, Batopilas, Morelos y Guadalupe y Calvo  lluvias fuertes este sábado
+image: "/uploads/2021/images-LLUVIAS_EN_URIQUE_JUNIO_2021.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Tendrán Guazapares, Urique, Batopilas, Morelos y Guadalupe y Calvo  lluvias fuertes este sábado"
 front: false
-section: Local
+section: "Local"
+news_id: 186172
 ---
 
 Este día habrá lluvias en la mayoría de los municipios del estado, aunque con mayor intensidad en Guazapares, Urique, Batopilas, Morelos y Guadalupe y Calvo, informó la Coordinación Estatal de Protección Civil (CEPC).

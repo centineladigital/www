@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Con el objetivo de acercar los servicios de la dependencia a la ciudadanía"
-image: /uploads/2021/images-unnamed_(11).jpg
-video: nil
-audio: nil
-alt: Llevarán servicios de IMM en tu comunidad a la colonia Juan Güereca este mes
+image: "/uploads/2021/images-unnamed_(11).jpg"
+video: "nil"
+audio: "nil"
+alt: "Llevarán servicios de IMM en tu comunidad a la colonia Juan Güereca este mes"
 front: false
-section: Local
+section: "Local"
+news_id: 186201
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres, reanuda las actividades del programa “IMM en tu comunidad” con el objetivo de acercar los servicios de la dependencia a la ciudadanía. Esta iniciativa tiene como finalidad extender los servicios de atención a víctimas de violencia, apoyo psicológico, asesoría y acompañamiento jurídico, gestiones, así como el programa de capacitación en oficios “Superación en acción” y entrega de la tarjeta de descuentos “Mi apoyo, Mi bienestar”, entre otros. 

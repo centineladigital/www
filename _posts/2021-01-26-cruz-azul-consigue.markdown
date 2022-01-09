@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El conjunto de La Máquina se impuso por la mínima diferencia en su visita a los Tuzos del Pachuca correspondiente a la fecha 3"
-image: /uploads/2021/images-2518334.jpg
-video: nil
-audio: nil
-alt: Cruz Azul consigue su primer triunfo en la era Reynoso
+image: "/uploads/2021/images-2518334.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cruz Azul consigue su primer triunfo en la era Reynoso"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 182436
 ---
 
 Sin desplegar un gran accionar de juego y sufriendo en la recta final del encuentro, Cruz Azul logró llevarse la victoria por marcador de 1-0 ante los Tuzos del Pachuca en duelo correspondiente a la jornada 3, para obtener sus primeros tres puntos en la temporada bajo el mando del técnico Juan Reynoso.

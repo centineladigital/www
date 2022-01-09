@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Maluma compartió con sus seguidores que ya recibió la primera dosis de la vacuna anticovid. "
-image: /uploads/2021/images-maluma-se-une-a-los.jpg
-video: nil
-audio: nil
-alt: ¡Listo para seguir cantando! Maluma recibe la vacuna anticovid
+image: "/uploads/2021/images-maluma-se-une-a-los.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Listo para seguir cantando! Maluma recibe la vacuna anticovid"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183863
 ---
 
 Varios famosos han compartido a través de sus redes sociales que ya fueron vacunados contra el covid-19 y uno que se une a la lista es Maluma. El colombiano compartió con sus seguidores que ya recibió la vacuna anticovid, razón por la que se mostró contento ante este hecho. Fue a través de Instagram que el intérprete de “Felices los 4”, quien recientemente anunció su línea de ropa junto a Balmain, dio a conocer que, al parecer, este 13 de abril recibió la primera dosis de la vacuna anticovid.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Exhorta a llevar a cabo una caravana pacifica."
-image: /uploads/2021/images-M1.jpg
-video: nil
-audio: /uploads/2021/audio-MM03_MARTA_HOLGUIN.mp4
-alt: Buscarán demostrar inocencia de Andrés Valles
+image: "/uploads/2021/images-M1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM03_MARTA_HOLGUIN.mp4"
+alt: "Buscarán demostrar inocencia de Andrés Valles"
 front: false
-section: Local
+section: "Local"
+news_id: 186035
 ---
 
 La esposa del líder campesino Andrés , el cual se encuentra detenido, dio a conocer que buscará demostrar la inocencia de su esposo, esto dentro de la caravana que busca el que se dé libertad al líder campesiono Andrés Valles.

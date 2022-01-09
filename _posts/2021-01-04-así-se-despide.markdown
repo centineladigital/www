@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Para darle el último adiós a la ex modelo se realizó una ceremonia a las afueras de una iglesia. "
-image: /uploads/2021/images-emotiva-despedida-ximena-hita-miss.jpg
-video: nil
-audio: nil
-alt: Así se despide a una reina -  Dan último adiós a Ximena Hita, Miss Aguascalientes 2019
+image: "/uploads/2021/images-emotiva-despedida-ximena-hita-miss.jpg"
+video: "nil"
+audio: "nil"
+alt: "Así se despide a una reina -  Dan último adiós a Ximena Hita, Miss Aguascalientes 2019"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181842
 ---
 
 2021 inició con una lamentable noticia: el fallecimiento de Ximena Hita, quien ganó Miss Aguascalientes en 2019 e iba a participar en Miss México. Precisamente esta organización fue la que confirmó la muerte de la joven de 21 años. Pese a que aún continúan las investigaciones en torno a las causas del deceso, los primeros informes indican que se trató de un suicidio. Para darle el último adiós se realizó una ceremonia en la que familiares, amigos y compañeros de la universidad se despidieron de ella. 

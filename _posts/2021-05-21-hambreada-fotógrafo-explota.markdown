@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "¿Por qué arremetió en su contra? El fotógrafo Antonio Tizoc explotó en contra de Belinda y Christian Nodal por un tema económico. Sin embargo, al lanzar su severa crítica fue señalado por usar un discurso discriminatorio. "
-image: /uploads/2021/images-fotografo-lanza-belinda-christian-nodal.jpg
-video: nil
-audio: nil
-alt: Hambreada -  Fotógrafo 'explota' contra Belinda e insulta a Nodal; desea que tengan un hijo
+image: "/uploads/2021/images-fotografo-lanza-belinda-christian-nodal.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hambreada -  Fotógrafo 'explota' contra Belinda e insulta a Nodal; desea que tengan un hijo"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184600
 ---
 
 Belinda y Christian Nodal siguen siendo una de las parejas más queridas en el mundo del espectáculo. Sin embargo, pese a que tienen una fuerte comunidad de fans, también cuentan con gran número de haters. Y es que desde el inicio de su relación amorosa, sobre la pareja se han depositado juicios e incluso muestras de discriminación. Sin embargo, los famosos no habían recibido señalamiento tan severo como el que recientemente hizo un fotógrafo, quien usó las palabras “feo” y “hambreada” para referirse a ellos. ¿Por qué los insultó? ¿Le hicieron algo malo? Te contamos lo que sabemos sobre esta nueva polémica que desató el fotógrafo Antonio Tizoc.

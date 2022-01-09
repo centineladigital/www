@@ -6,12 +6,13 @@ tags:
   
 author: nil
 description: "Conoce todos los detalles que necesitas saber para no perderte el encuentro entre Cañoneros y Felinos "
-image: /uploads/2021/images-mazatlan-vs-pumas.jpg
-video: nil
-audio: nil
-alt: Dónde ver Mazatlán vs Pumas EN VIVO partido de la jornada 9 del Apertura 2021
+image: "/uploads/2021/images-mazatlan-vs-pumas.jpg"
+video: "nil"
+audio: "nil"
+alt: "Dónde ver Mazatlán vs Pumas EN VIVO partido de la jornada 9 del Apertura 2021"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187846
 ---
 
 La jornada 9 nos presentará un duelo entre dos equipos que no han tenido un buen torneo y, rebasando la mitad del Apertura 2021, buscarán enderezar su camino para intentar pelear por el repechaje: Mazatlán y Pumas serán los encargados de brindarnos un encuentro atractivo. 

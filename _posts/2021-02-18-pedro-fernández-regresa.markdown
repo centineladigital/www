@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Tras la renuncia de Fernando Colunga a la serie Malverde: el santo patrón, Pedro Fernández confirma que ahora él es el protagonista."
-image: /uploads/2021/images-pedro-fernandez-reemplaza-fernando-colunga.jpg
-video: nil
-audio: nil
-alt: Pedro Fernández regresa a la televisión como 'Malverde'; sustituye a Colunga en narcoserie
+image: "/uploads/2021/images-pedro-fernandez-reemplaza-fernando-colunga.jpg"
+video: "nil"
+audio: "nil"
+alt: "Pedro Fernández regresa a la televisión como 'Malverde'; sustituye a Colunga en narcoserie"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183013
 ---
 
 Hace unos días, te informamos que Fernando Colunga, uno de los galanes más queridos y representativos de la televisión mexicana, ya no formaría parte de Malverde: el santo patrón, una serie producida por Telemundo, debido a que la estrella de 54 años renunció al papel principal. Ahora, ya se conoce la identidad de quien dará vida a Jesús Malverde, considerado un santo, sobre todo de los narcotraficantes. Se trata del actor y cantante Pedro Fernández, quien confirmó la noticia a través de una entrevista con la cadena productora del proyecto. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Realiza Gobernador entrega virtual de documentos en beneficio de más de 4 mil chihuahuenses de los municipios de Delicias, Jiménez, Camargo, Meoqui, Saucillo, Rosales, Parral, Nuevo Casas Grandes, Madera, Cuauhtémoc, Chihuahua y Juárez"
-image: /uploads/2021/images-entrega_de_escrituras__(3).jpeg
-video: nil
-audio: nil
-alt: Avanza Estado en inclusión social y da certeza jurídica con escrituras a 1,178 familias
+image: "/uploads/2021/images-entrega_de_escrituras__(3).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Avanza Estado en inclusión social y da certeza jurídica con escrituras a 1,178 familias"
 front: false
-section: Local
+section: "Local"
+news_id: 182504
 ---
 
 Mediante un enlace virtual a diversos municipios, el gobernador Javier Corral encabezó la entrega de mil 178 escrituras en beneficio de 4 mil cinco personas, quienes ahora tienen certidumbre jurídica de su patrimonio, luego de 15 o más años en espera del documento que avale su propiedad.

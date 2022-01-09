@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Otros 5 mil 674 médicos, enfermeras, enfermeros y personal administrativo se han recuperado de la enfermedad; exhortan autoridades a la población a respetar medidas sanitarias para evitar una tercera oleada del virus"
-image: /uploads/2021/images-Diapositiva11.JPG
-video: nil
-audio: nil
-alt: Pierden la batalla 113 Héroes de la Salud por COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva11.JPG"
+video: "nil"
+audio: "nil"
+alt: "Pierden la batalla 113 Héroes de la Salud por COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 183768
 ---
 
 El director médico de la Secretaría de Salud en la Zona Norte, Arturo Valenzuela Zorrilla, informó que a la fecha han dado positivo al COVID-19 un total de 5 mil 874 Héroes de la Salud, entre los cuales se contabilizan 113 defunciones, pero afortunadamente 5 mil 674 casos han vencido a la enfermedad.

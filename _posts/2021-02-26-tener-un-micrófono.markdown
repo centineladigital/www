@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante aprovechará su proyección para compartir temáticas y problemáticas actuales con diversos especialistas en su revista televisiva "
-image: /uploads/2021/images-mimi-iniciara-programa-mimi-conversara_0_46_853_531.jpeg
-video: nil
-audio: nil
-alt: “Tener un micrófono en la mano es una gran responsabilidad” -  Mimí
+image: "/uploads/2021/images-mimi-iniciara-programa-mimi-conversara_0_46_853_531.jpeg"
+video: "nil"
+audio: "nil"
+alt: "“Tener un micrófono en la mano es una gran responsabilidad” -  Mimí"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183177
 ---
 
 Azteca Uno continúa apostando por la creación de contenido televisivo original y desde el primero de marzo comenzará con las transmisiones de su nuevo programa “Mimí Contigo”, conducido por la ex-integrante de Flans, Mimí, en el que se realizarán conversatorios sobre temas de relevancia contemporánea entre la conductora e invitados especiales. “Este programa es el sueño de cualquier conductor”, comentó Mimí en entrevista con M2. “Tenían muchas ganas de entrar en el horario de las tardes con un proyecto. Me llamaron para hacerlo y comenzamos a trabajar sobre el formato y todo lo demás. Es un programa muy orgánico, donde vamos a tener temas de la actualidad, temas que a la gente le interese oír tocados desde el punto de vista positivo y propositivo y con el objetivo de acompañar a la gente en sus procesos de salir adelante” 

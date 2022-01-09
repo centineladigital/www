@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "No estaba completo el expediente en contra de María Eugenia Campos Galván."
-image: /uploads/2021/images-MARU.jpg
-video: nil
-audio: /uploads/2021/audio-MM06_MARU_CAMPOS.mp3
-alt: Difiere fecha de audiencia de Alcaldesa con licencia
+image: "/uploads/2021/images-MARU.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM06_MARU_CAMPOS.mp3"
+alt: "Difiere fecha de audiencia de Alcaldesa con licencia"
 front: false
-section: Local
+section: "Local"
+news_id: 182640
 ---
 
 La audiencia que se celebraría este martes a la Alcaldesa con licencia y pre-candidata a la Gobernatura, María Eugenia Campos Galván, fue pospuesta por parte del Tribunal Superior de Justicia del Estado.

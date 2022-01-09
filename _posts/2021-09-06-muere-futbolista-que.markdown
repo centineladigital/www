@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Adams fue ingresado en el hospital para una cirugía de rodilla en marzo de 1982, pero nunca recuperó el conocimiento después de un error con el suministro de anestésico"
-image: /uploads/2021/images-jean-pierre_adams.jpg
-video: nil
-audio: nil
-alt: Muere futbolista que pasó 39 años en coma
+image: "/uploads/2021/images-jean-pierre_adams.jpg"
+video: "nil"
+audio: "nil"
+alt: "Muere futbolista que pasó 39 años en coma"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 187449
 ---
 
 El exfutbolista francés Jean-Pierre Adams, que había estado en coma durante 39 años, murió a los 73 años.

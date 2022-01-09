@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Boeing anuncia que sus 128 aviones de pasajeros modelo 777 fueron inmovilizados luego del peligroso incidente durante un vuelo en EU en el que uno de los motores se incendió"
-image: /uploads/2021/images-2533774.jpg
-video: nil
-audio: nil
-alt: Boeing paraliza su flota de aviones 777 tras incidente en EU
+image: "/uploads/2021/images-2533774.jpg"
+video: "nil"
+audio: "nil"
+alt: "Boeing paraliza su flota de aviones 777 tras incidente en EU"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183082
 ---
 
 Los 128 aviones de pasajeros Boeing 777, equipados con el modelo de motor implicado en un peligroso incidente de un avión que despegó de Colorado, fueron inmovilizados en tierra, afirmó este lunes una portavoz de la compañía.

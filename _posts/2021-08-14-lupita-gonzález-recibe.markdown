@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El periodo de suspensión comenzará el próximo 16 de noviembre de 2022"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Lupita González recibe nueva sanción y se pierde París 2024
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Lupita González recibe nueva sanción y se pierde París 2024"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186695
 ---
 
 La marchista mexicana Guadalupe González es suspendida por cuatro años más, por lo que se perderá los Juegos Olímpicos de París 2024.

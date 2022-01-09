@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma Salud 13 defunciones, 12 en Chihuahua y uno en Ascensión; a la fecha suman 67 mil 324 casos positivos y 6 mil 908 decesos acumulados"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Se contagian en el estado 133 personas más por COVID-19
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Se contagian en el estado 133 personas más por COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 184540
 ---
 
 La Secretaría de Salud de Chihuahua confirmó 133 nuevos contagios y 13 defunciones más por la enfermedad COVID-19, lo que representa un acumulado estatal de 67 mil 324 casos positivos y 6 mil 908 personas fallecidas en lo que va de la pandemia.

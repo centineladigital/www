@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "“También son victimarios y usan el tema para distraer u ocultar, señalamientos de chihuahuense de varias comunidades que han sido objeto de abusos y despojos de estos pseudo-líderes”  "
-image: /uploads/2021/images-Atención_a_medios_del_Gobernador_Javier_Corral_26_abril_(1).jpeg
-video: nil
-audio: nil
-alt: Deplora Gobernador lucro político que dan los LeBaron a la tragedia de Bavispe
+image: "/uploads/2021/images-Atención_a_medios_del_Gobernador_Javier_Corral_26_abril_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Deplora Gobernador lucro político que dan los LeBaron a la tragedia de Bavispe"
 front: false
-section: Local
+section: "Local"
+news_id: 184110
 ---
 
 “Duele muchísimo que una tragedia de esta dimensión sea usada para medrar políticamente e incluso para distraer la atención de otros problemas o de otras víctimas”, expresó esta mañana el gobernador Javier Corral Jurado, al ser cuestionado por los medios de comunicación sobre la manifestación encabezada por Julián y Adrián LeBaron.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Es necesario el buscar fomentar acciones para beneficio de grupos vulnerables."
-image: /uploads/2021/images-ROCIO.jpg
-video: nil
-audio: /uploads/2021/audio-MM07_ROCIO_GONZALEZ_(online-audio-converter.com).mp3
-alt: Necesario fomentar acciones para beneficio de personas discapacitadas -  González
+image: "/uploads/2021/images-ROCIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM07_ROCIO_GONZALEZ_(online-audio-converter.com).mp3"
+alt: "Necesario fomentar acciones para beneficio de personas discapacitadas -  González"
 front: false
-section: Local
+section: "Local"
+news_id: 184147
 ---
 
 Dentro del Congreso de la Unión es necesario el buscar fomentar acciones para beneficio de grupos vulnerables como los discapacitados, fueron las palabras de la candidata al octavo distrito, Rocío González.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El informe epidemiológico de la Secretaría de Salud señala que otras tres personas fallecieron por esta enfermedad y hay un acumulado de 7,678 decesos"
-image: /uploads/2021/images-COVID_INFORME_27_JULIO_2021_(1).jpeg
-video: nil
-audio: nil
-alt: Registran 172 nuevos casos confirmados de COVID-19  para un total de 72,495
+image: "/uploads/2021/images-COVID_INFORME_27_JULIO_2021_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Registran 172 nuevos casos confirmados de COVID-19  para un total de 72,495"
 front: false
-section: Local
+section: "Local"
+news_id: 186058
 ---
 
 La Secretaría de Salud de Chihuahua registró 172 nuevos contagios confirmados de COVID-19 en el estado para un acumulado de 72 mil 495 casos en lo que va de la pandemia.

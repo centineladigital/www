@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En el intervalo de la primera y la segunda ola de contagios; hoy se tiene menos del 20 por ciento de ocupación hospitalaria   "
-image: /uploads/2021/images-jornadas_de_vacunación_contra_COVID19_1.jpg
-video: nil
-audio: nil
-alt: Logró Chihuahua estabilidad y contención de la pandemia
+image: "/uploads/2021/images-jornadas_de_vacunación_contra_COVID19_1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Logró Chihuahua estabilidad y contención de la pandemia"
 front: false
-section: Local
+section: "Local"
+news_id: 186339
 ---
 
 Las acciones de prevención, seguimiento epidemiológico y atención médica, así como las campañas de difusión implementadas por Gobierno del Estado, permitieron la contención de la pandemia  por COVID-19 en la entidad, destacó la titular de la Subsecretaría de Promoción y Prevención de la Salud, de la Secretaría de Salud,  Mirna Beltrán Arzaga.

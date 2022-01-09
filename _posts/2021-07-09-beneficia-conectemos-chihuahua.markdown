@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Gobierno del Estado, a través de la Coordinación de Política Digital y en sinergia con Redes por la Diversidad, Equidad y Sustentabilidad A.C., presentó  resultados de las mesas de trabajo “Conectemos Chihuahua” del Plan Estratégico de Conectividad."
-image: /uploads/2021/images-Conectemos_Chihuahua_(5).jpg
-video: nil
-audio: nil
-alt: Beneficia Conectemos Chihuahua a zonas rurales más segregadas del estado
+image: "/uploads/2021/images-Conectemos_Chihuahua_(5).jpg"
+video: "nil"
+audio: "nil"
+alt: "Beneficia Conectemos Chihuahua a zonas rurales más segregadas del estado"
 front: false
-section: Local
+section: "Local"
+news_id: 185505
 ---
 
 El evento denominado “Diseño, implementación y evaluación de una estrategia de cobertura para el estado de Chihuahua”, efectuado en las inmediaciones del Museo Semilla, fue presidido por el titular de la Coordinación de Política Digital, Gustavo Ríos Alcazar, en conjunto con Erick Huerta y Carlos Baca, de Redes A.C.

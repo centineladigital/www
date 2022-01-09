@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La presentación musical estará a cargo de la Orquestrina Femenil Chihuahua y se transmitirá por redes sociales de SEyD y CEM"
-image: /uploads/2021/images-CEM_(3).jpg
-video: nil
-audio: nil
-alt: Prepara Música en mi Escuela video especial  por el Día Internacional de la Mujer
+image: "/uploads/2021/images-CEM_(3).jpg"
+video: "nil"
+audio: "nil"
+alt: "Prepara Música en mi Escuela video especial  por el Día Internacional de la Mujer"
 front: false
-section: Local
+section: "Local"
+news_id: 183292
 ---
 
 En el marco del Día Internacional de la Mujer, la Secretaría de Educación y Deporte (SEyD), a través del modelo educativo Música en mi Escuela, prepara un video musical especial, el cual se presentará el próximo lunes 8 de marzo a las 17:00 horas a través de las redes sociales de la dependencia.

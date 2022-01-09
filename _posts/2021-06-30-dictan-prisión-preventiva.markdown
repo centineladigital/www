@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El próximo lunes a las 10:00 horas se definirá si el juez la vincula a proceso por el delito de pornografía infantil. "
-image: /uploads/2021/images-dictan-prision-preventiva-oficiosa-youtuber.jpg
-video: nil
-audio: nil
-alt: Dictan prisión preventiva oficiosa a YosStop tras denuncia de posesión de pornografía infantil
+image: "/uploads/2021/images-dictan-prision-preventiva-oficiosa-youtuber.jpg"
+video: "nil"
+audio: "nil"
+alt: "Dictan prisión preventiva oficiosa a YosStop tras denuncia de posesión de pornografía infantil"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185313
 ---
 
 ¿YosStop saldrá de prisión? Es la pregunta que se han hecho sus fans y compañeros de la aplicación de YouTube desde que se dio a conocer su detención. Sin embargo, un juez de la Ciudad de México dictó prisión preventiva oficiosa contra Yoseline Hoffman, mejor conocida como YosStop, por su presunta responsabilidad en el delito de pornografía infantil. Esto luego de que la presunta víctima Ainara Suárez la acusara por difundir el video de la violencia y su caso en redes sociales.  

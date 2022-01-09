@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Monterrey llegará con ventaja al Estadio Azteca, para buscar su boleto a la final de la Liga de Campeones"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Rayados vence a Cruz Azul en la semifinal de ida de la Concachampions
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Rayados vence a Cruz Azul en la semifinal de ida de la Concachampions"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186593
 ---
 
 Desde que Juan Reynoso tomó al Cruz Azul, no había existido un equipo que lo superara como lo hizo Monterrey en el juego de ida por las semifinales de la Liga de Campeones de la Concacaf.

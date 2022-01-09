@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma Salud 86 nuevos casos y 3 fallecimientos que  corresponden a Chihuahua  y Cuauhtémoc"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Reporte COVID-19 -  75,361 contagios y 7,804 defunciones en la entidad
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Reporte COVID-19 -  75,361 contagios y 7,804 defunciones en la entidad"
 front: false
-section: Local
+section: "Local"
+news_id: 187193
 ---
 
 La Secretaría de Salud dio a conocer que al cierre del informe epidemiológico del 27 de agosto, se confirmaron 86 nuevos casos, 3 decesos más, 132  recuperados, 513 descartados y otros 25 sospechosos de contagio por  COVID-19 en el estado.

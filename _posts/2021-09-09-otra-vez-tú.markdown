@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El influencer cuenta actualmente con más de 11 millones de seguidores en Instagram."
-image: /uploads/2021/images-juanpa-zurita-adidas.jpg
-video: nil
-audio: nil
-alt: ¿Otra vez tú? Juanpa Zurita vuelve a ser blanco de críticas por publicidad para Adidas
+image: "/uploads/2021/images-juanpa-zurita-adidas.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Otra vez tú? Juanpa Zurita vuelve a ser blanco de críticas por publicidad para Adidas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187598
 ---
 
 De nueva cuenta, Juanpa Zurita se encuentra en la mira de las redes sociales esta vez, por su participación presentando los nuevos tenis de Adidas. Esto se da después de que el influencer fuera tendencia luego del sismo que sacudió a la ciudad de México el pasado 7 de septiembre, ya que fue recordado por presuntamente robarse dinero destinado para damnificados del siniestro de 2017. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Pues los contagios siguen en aumento y se prevé un repunte de pacientes, principalmente en la Región Chihuahua, que se compone de 57 municipios, incluida la capital del estado"
-image: /uploads/2021/images-._--_.jpg
-video: nil
-audio: nil
-alt: Comienza reconversión de hospitales Covid-19
+image: "/uploads/2021/images-._--_.jpg"
+video: "nil"
+audio: "nil"
+alt: "Comienza reconversión de hospitales Covid-19"
 front: false
-section: Local
+section: "Local"
+news_id: 183887
 ---
 
 La subsecretaria de Salud, Myrna Beltrán, informó que hoy se comenzó con la reconversión de hospitales Covid-19, pues los contagios siguen en aumento y se prevé un repunte de pacientes.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El lunes la temperatura máxima llegará a los 28 grados Celsius y la mínima a los 8"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Se esperan temperaturas agradables y días mayormente nublados para esta semana
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Se esperan temperaturas agradables y días mayormente nublados para esta semana"
 front: false
-section: Local
+section: "Local"
+news_id: 183594
 ---
 
 Días medianamente nublados y temperaturas agradables que no rebasarán los 31 grados Celsius es lo que se espera para esta semana en la capital del estado, según datos de la Coordinación Municipal de Protección Civil, de acuerdo al pronóstico general que emite el Servicio Meteorológico Nacional de CONAGUA.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El canadiense reveló que en unos días se estrenará su disco 'Certified Lover Boy', lo que reavivó su pelea con Kanye West. "
-image: /uploads/2021/images-drake-anuncia-lanzamiento-de-su_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: ¿Rivales? Drake anuncia lanzamiento de nuevo disco a días del estreno de 'Donda', de Kanye West
+image: "/uploads/2021/images-drake-anuncia-lanzamiento-de-su_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Rivales? Drake anuncia lanzamiento de nuevo disco a días del estreno de 'Donda', de Kanye West"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187244
 ---
 
 Drake reveló la fecha de lanzamiento de su nuevo disco Certified Lover Boy (CLB) a tan sólo unos días del estreno de Donda, el décimo álbum de estudio de Kanye West. Sin duda, el canadiense busca posicionarse entre los primeros lugares de las listas de reproducción, tal como lo hizo su adversario el domingo, lo que reavivó su mediática rivalidad y pelea con el rapero estadunidense. 

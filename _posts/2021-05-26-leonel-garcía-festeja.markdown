@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El octavo álbum de estudio de Leonel García como solista integra duetos con Nicole Zignago, Ximena Sariñana, Pedro Capó, Dani Martín, Sabino. "
-image: /uploads/2021/images-leonel-garcia-estrena-nuevo-disco_0_329_1000_622.jpg
-video: nil
-audio: nil
-alt: Leonel García festeja sus 45 años de vida con la música
+image: "/uploads/2021/images-leonel-garcia-estrena-nuevo-disco_0_329_1000_622.jpg"
+video: "nil"
+audio: "nil"
+alt: "Leonel García festeja sus 45 años de vida con la música"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184667
 ---
 
 Leonel García quiso combinar la nostalgia y la nueva era musical, plasmar las melodías que disfrutaba de niño con los nuevos artistas que están surgiendo; en su más reciente álbum “45 RPM” , rinde una especie de homenaje a los tiempos y la música, en el cual también integró varias colaboraciones. “Es una combinación balanceada entre mis 45 años, la música que me gusta, la que escuchaba de niño y los músicos que están en sus veintes; contiene boleros, música brasileña, algo parecido al R&B, es una especie de puente que se tiende de años con un mix de lo que ahora está pasando, estamos en la era digital y la música se hace diferente en medio de todo”, destacó Leonel a M2, durante una entrevista virtual. 

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Entre los casi 'un millón de alumnos' que retomaron sus actividades, prevalece un entorno de alegría y bienestar por la necesidad de reencontrarse, dijo Delfina Gómez titular de la SEP"
-image: /uploads/2021/images-2593958.jpg
-video: nil
-audio: nil
-alt: Ya es recomendable regresar a las aulas -  SEP
+image: "/uploads/2021/images-2593958.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ya es recomendable regresar a las aulas -  SEP"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185002
 ---
 
 La secretaria de Educación Pública, Delfina Gómez, convocó a la comunidad escolar a continuar con los esfuerzos para que más estudiantes regresen a las clases presenciales en sus planteles.

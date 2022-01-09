@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de su cuenta de Instagram, Julio Camejo expresó cómo se siente tras la muerte de su madre. Inició su narración en forma de homenaje. Compartió quién fue doña Gladys González. "
-image: /uploads/2021/images-julio-camejo-rompe-llanto-recordar.jpg
-video: nil
-audio: nil
-alt: Hay un vacío -  Julio Camejo rompe en llanto tras la muerte de su madre; así la recuerda
+image: "/uploads/2021/images-julio-camejo-rompe-llanto-recordar.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hay un vacío -  Julio Camejo rompe en llanto tras la muerte de su madre; así la recuerda"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182131
 ---
 
 Julio Camejo, actor mexicano, informó que su madre murió. Gladys González, madre del famoso, falleció ayer a causa de un infarto a los 83 años. Sin poder contener el llanto, el famoso externó unas palabras para su mamá a quien recordó como una gran mujer, pues le dejó grandes enseñanzas para ser un mejor ser humano. Te contamos lo que expresó el actor de Televisa ante la pérdida de su progenitora. A través de su cuenta de Instagram, Julio Camejo expresó cómo se siente tras la muerte de su madre. Inició su narración en forma de homenaje. Compartió quién fue doña Gladys González. “Les voy a contar cómo vivió esta gran mujer; Juana María Gladis Camejo; mi madre. Su último mensaje fue ayer y me dijo: ‘di una clase en línea’, porque ella era profesora del Tec de Monterrey, a sus 83 años y dijo, ‘di una clase y a los muchachos les gustó. Hoy en la mañana me incitó para que saliera a correr”, recordó Julio Camejo. 

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Las autoridades están en alerta por la ciudad de Nanjing, que ha reportado 184 casos de coronavirus; el repunte se ha expandido a cinco provincias chinas"
-image: /uploads/2021/images-infecciones-china-vinculadas-repunte-ciudad_0_39_1024_636.jpg
-video: nil
-audio: nil
-alt: China enfrenta el peor repunte de covid-19 desde Wuhan
+image: "/uploads/2021/images-infecciones-china-vinculadas-repunte-ciudad_0_39_1024_636.jpg"
+video: "nil"
+audio: "nil"
+alt: "China enfrenta el peor repunte de covid-19 desde Wuhan"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186115
 ---
 
 La variante Delta del coronavirus amenaza el éxito de China para controlar la pandemia, pues un repunte de casos en la ciudad de Nanjing se ha expandido a cinco provincias y a Pekín. Las autoridades han decretado confinamiento para cientos de miles de personas, mientras tratan de contener la peor situación por covid-19 desde Wuhan.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "A partir del ciclo escolar 2020-2021, el corte, confección, bordado y empaquetado se realizó al 100 por ciento en el estado de Chihuahua para apoyar la economía de las comunidades."
-image: /uploads/2021/images-ROY_2077.JPG
-video: nil
-audio: nil
-alt:    Logros con Valor -  634 mil alumnas y alumnos recibieron uniformes escolares
+image: "/uploads/2021/images-ROY_2077.JPG"
+video: "nil"
+audio: "nil"
+alt: "   Logros con Valor -  634 mil alumnas y alumnos recibieron uniformes escolares"
 front: false
-section: Local
+section: "Local"
+news_id: 185605
 ---
 
 En apoyo a la economía de las familias chihuahuenses y como parte de las acciones en materia de inclusión, el Gobierno del Estado, a través de la Secretaría de Educación y Deporte, creó el programa de entrega gratuita de uniformes escolares.

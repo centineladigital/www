@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fernando Colunga es considerado un galán de telenovelas, sin embargo, antes de aparecer en ellas, el actor comenzó en el cine realizando este trabajo. "
-image: /uploads/2021/images-fernando-colunga-conto-inicio-actuacion.jpg
-video: nil
-audio: nil
-alt: ¿Hacía escenas peligrosas? En esto trabajaba Fernando Colunga antes de aparecer en telenovelas
+image: "/uploads/2021/images-fernando-colunga-conto-inicio-actuacion.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Hacía escenas peligrosas? En esto trabajaba Fernando Colunga antes de aparecer en telenovelas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183254
 ---
 
 En la televisión mexicana, durante muchos años las telenovelas fueron los programas preferidos para divertirse y olvidar un poco la rutina. Gracias a ellas se dieron a conocer varias actrices, sin embargo, muchos actores también acapararon la atención y se convirtieron en los galanes, entre ellos Fernando Colunga. Aunque por ahora Fernando Colunga no ha aparecido de nuevo en alguna telenovela y se canceló su participación en la serie Malverde, muchos recuerdan el gran trabajo que realizó como el protagonista de ciertas historias como en María la del barrio, Amor real, Mañana es para siempre, entre otras. 

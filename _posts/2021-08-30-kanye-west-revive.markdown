@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El rapero recurrió a sus redes sociales para denunciar que su casa discográfica lanzó sin su autorización su nuevo disco. "
-image: /uploads/2021/images-kanye-west-acusa-universal-publicar_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Kanye West revive su polémica con Universal por publicar 'Donda' sin permiso
+image: "/uploads/2021/images-kanye-west-acusa-universal-publicar_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Kanye West revive su polémica con Universal por publicar 'Donda' sin permiso"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187265
 ---
 
 El sorpresivo lanzamiento en plataformas de streaming en las últimas horas de Donda, el décimo álbum de estudio del rapero Kanye West, podría haber sido inesperado incluso para el propio artista, que ha acusado a través de las redes sociales a su casa discográfica de hacerlo sin su permiso. 

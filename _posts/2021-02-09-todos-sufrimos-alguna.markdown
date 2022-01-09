@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor mexicano reflexiona sobre las pérdidas de seres queridos en su nueva película 'Land'. "
-image: /uploads/2021/images-demian-bichir-habla-de-la_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Todos sufrimos alguna pérdida -  Demián Bichir habla de la muerte de su esposa
+image: "/uploads/2021/images-demian-bichir-habla-de-la_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Todos sufrimos alguna pérdida -  Demián Bichir habla de la muerte de su esposa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182802
 ---
 
 Demián Bichir perdió trágicamente a su esposa, la actriz y modelo canadiense Stefanie Sherk, quien falleció el 20 de abril de 2019 a los 37 años de edad. Poco después, ese mismo año, Robin Wright le preguntó al actor mexicano si estaría interesado en protagonizar con ella su ópera prima, la película Land. 

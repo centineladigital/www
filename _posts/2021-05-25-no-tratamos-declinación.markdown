@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señala que no hay pláticas al respecto."
-image: /uploads/2021/images-ROCIO.jpg
-video: nil
-audio: /uploads/2021/audio-MM03_ROCIO_REZA.mp3
-alt: No tratamos declinación de Ortiz -  PAN
+image: "/uploads/2021/images-ROCIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM03_ROCIO_REZA.mp3"
+alt: "No tratamos declinación de Ortiz -  PAN"
 front: false
-section: Local
+section: "Local"
+news_id: 184651
 ---
 
 La dirigente del Partido Acción Nacional a Nivel Estatal, Rocío Reza Gallegos, señaló que hasta la mañana de este martes no se había tocado el tema de la declinación de la candidata del PRI a gobernar Chihuahua a favor de la abanderada del partido Albiazul.

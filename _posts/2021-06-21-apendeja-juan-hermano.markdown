@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue en su cuenta de Instagram, en donde Shanik Berman evidenció el momento. De forma contundente, la conductora de espectáculos se posicionó en contra de Juan Rivera por asegurar que hay mujeres más bellas que Belinda en Culiacán. "
-image: /uploads/2021/images-critican-hermano-lupillo-rivera-asegurar.jpg
-video: nil
-audio: nil
-alt: Apendeja -  Juan, hermano de Lupillo Rivera, opina que hay mujeres más bellas que Belinda; lo critican
+image: "/uploads/2021/images-critican-hermano-lupillo-rivera-asegurar.jpg"
+video: "nil"
+audio: "nil"
+alt: "Apendeja -  Juan, hermano de Lupillo Rivera, opina que hay mujeres más bellas que Belinda; lo critican"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185135
 ---
 
 Belinda y Christian Nodal siguen siendo motivo de señalamientos, dimes y diretes, que no buscaron. Esto debido a que se volvió una de las parejas más queridas y apoyadas del medio del espectáculo. El fin de semana fue Lupillo Rivera quien desató la polémica al decirle a Nodal que “él comió primero de la mesa” –es decir como si Belinda fuese objeto –. Ahora fue el turno del hermano del toro del corrido, Juan Rivera, quien aseguró que en Culiacán encuentra “100 de esas –mujeres– y mejores” a Belinda. ¿Más machismo de la familia Rivera contra Belinda? Como era de esperarse, las declaraciones han desatado severas críticas en su contra y hasta Shanik Berman le recordó a su hermano Lupillo Rivera. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Por primera vez se tiene el registro de 28 equipos a participar, provenientes de municipios de ciudad Juárez, Nuevo Casas Grandes, Ojinaga, Cuauhtémoc y Parral."
-image: /uploads/2021/images-SOFTBOL.jpg
-video: /uploads/2021/videos-BJ02_CARLOS_DURAN.mp4
-audio: nil
-alt: Se hace  presentación del campeonato “sigamos juntos en el softbol”
+image: "/uploads/2021/images-SOFTBOL.jpg"
+video: "/uploads/2021/videos-BJ02_CARLOS_DURAN.mp4"
+audio: "nil"
+alt: "Se hace  presentación del campeonato “sigamos juntos en el softbol”"
 front: false
-section: Local
+section: "Local"
+news_id: 187167
 ---
 
  La modalidad del campeonato será pitcheo lento, categoría libre en la rama varonil así lo hizo saber    Carlos Durán Terreros secretario en el comité municipal de softbol que también  aclaró que los eventos serán totalmente gratuitos para la comunidad Chihuahuense los cuales  se realizarán  durante los días 27, 28 y 29, el viernes 27 de agosto a las 17:00 horas en los Campos Luis Fuentes Molinar.

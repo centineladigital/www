@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los policías municipales atendían un reporte ingresado al número de emergencia en torno a un caso de violencia familiar provocado por un hombre que agredía a su pareja y que estaba armado"
-image: /uploads/2021/images-imputado.png
-video: nil
-audio: nil
-alt: Inician proceso penal contra imputado por tentativa de homicidio de dos policías 
+image: "/uploads/2021/images-imputado.png"
+video: "nil"
+audio: "nil"
+alt: "Inician proceso penal contra imputado por tentativa de homicidio de dos policías "
 front: false
-section: Local
+section: "Local"
+news_id: 186562
 ---
 
 La Fiscalía de Distrito Zona Centro obtuvo un auto de vinculación a proceso en contra de Jesús Daniel D. M., por el delito de Homicidio Calificado en Grado de Tentativa, en perjuicio de dos policías municipales. 

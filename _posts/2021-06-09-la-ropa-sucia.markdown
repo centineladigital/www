@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El actor criticó a Luis Miguel por exponer la vida privada de su hija, Michelle; además habló de la demanda de Kate del Castillo en contra del gobierno mexicano. "
-image: /uploads/2021/images-eric-castillo-desaprueba-serie-luis_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: La ropa sucia se lava en casa -  Eric del Castillo desaprueba serie de Luis Miguel; apoya a Michelle Salas
+image: "/uploads/2021/images-eric-castillo-desaprueba-serie-luis_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "La ropa sucia se lava en casa -  Eric del Castillo desaprueba serie de Luis Miguel; apoya a Michelle Salas"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184942
 ---
 
 La serie de Luis Miguel continúa generando debate entre los famosos, luego de que Michelle Salas acusara a la producción de sexualizar su personaje y exponer su romance con Alejandro Asensi en el último capítulo de la segunda temporada. A raíz de las críticas, Eric del Castillo apoyo los reclamos de la hija de Stephanie Salas y desaprobó que el cantante sacara a la luz la vida privada de su familia.  El primer actor acudió este domingo a votar junto a su esposa, Kate Trillo. Tras presentarse en la casilla Eric del Castillo fue interceptado por los medios de comunicación, a quienes compartió su opinión sobre Luis Miguel, la serie y habló de su hija, Kate del Castillo. 

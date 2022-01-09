@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Javier Corral corre en la modalidad de 5 kilómetros en la Deportiva Sur y señala que desde el inicio de su administración promovió el deporte para que todos pudieran participar en carreras convocadas por él"
-image: /uploads/2021/images-_DSC3161.JPG
-video: nil
-audio: nil
-alt: Participa Gobernador en Carrera Matétera Ba a beneficio de artesanos indígenas
+image: "/uploads/2021/images-_DSC3161.JPG"
+video: "nil"
+audio: "nil"
+alt: "Participa Gobernador en Carrera Matétera Ba a beneficio de artesanos indígenas"
 front: false
-section: Local
+section: "Local"
+news_id: 187247
 ---
 
 El gobernador Javier Corral participó en la Carrera Pedestre Matétera Ba, organizada por Fomento y Desarrollo Artesanal del Estado de Chihuahua (Fodarch) y que se realizó a beneficio de los artesanos de Chihuahua.

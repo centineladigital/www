@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El pronóstico señala que Chihuahua amanecerá a 5°C y Ciudad Juárez a 2°C; alcanzan rachas de viento en las últimas 24 horas hasta 87.8 km/h en Janos"
-image: /uploads/2021/images-frio-ASC_3752-696x464.jpg
-video: nil
-audio: nil
-alt: Advierte Protección Civil Estatal descenso de temperaturas  para este domingo
+image: "/uploads/2021/images-frio-ASC_3752-696x464.jpg"
+video: "nil"
+audio: "nil"
+alt: "Advierte Protección Civil Estatal descenso de temperaturas  para este domingo"
 front: false
-section: Local
+section: "Local"
+news_id: 182585
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que el desplazamiento del frente frío número 33 ocasionará un ligero descenso en las temperaturas de hoy sábado 30 a mañana domingo 31 de enero.

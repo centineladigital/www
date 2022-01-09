@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A Elvis Presley se le recuerda como cantante y actor, pero también era aficionado a las artes marciales, como karate y taekwondo. "
-image: /uploads/2021/images-elvis-presley-y-su-pasion.jpg
-video: nil
-audio: nil
-alt: Cantante, actor y... ¿cinta negra? El karate, la poco conocida pasión de Elvis Presley
+image: "/uploads/2021/images-elvis-presley-y-su-pasion.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cantante, actor y... ¿cinta negra? El karate, la poco conocida pasión de Elvis Presley"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181991
 ---
 
 Elvis Presley, cuya trayectoria abarcó desde los años 50 hasta los 70, es uno de los referentes más importantes del rock y uno de los íconos más populares del siglo XX gracias a su potente rango vocal, particular movimiento de cadera, carisma en el escenario, peinado y porte. Nacido el 8 de enero de 1935 como Elvis Aaron Presley, el emblemático Rey del Rock and Roll hubiera celebrado hoy su cumpleaños número 86. Con apenas 19 años, el cantante inició una carrera fructífera no sólo en la música, sino también dentro de la actuación, el baile y hasta el karate, una de sus grandes pasiones. 

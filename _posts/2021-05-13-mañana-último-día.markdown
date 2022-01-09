@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Examen de Admisión a Licenciatura será en modalidad virtual el 18 de junio"
-image: /uploads/2021/images-Fichas_laboratorio_uach_1.jpg
-video: nil
-audio: nil
-alt: Mañana, último día para tramitar ficha aspirantes a la UACH
+image: "/uploads/2021/images-Fichas_laboratorio_uach_1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mañana, último día para tramitar ficha aspirantes a la UACH"
 front: false
-section: Local
+section: "Local"
+news_id: 184442
 ---
 
 Este 14 de mayo, es el último día para tramitar la ficha para el examen de admisión a la Universidad Autónoma de Chihuahua, correspondiente al ciclo escolar agosto-diciembre del 2021.

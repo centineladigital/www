@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Toñita acusó a Cynthia Rodríguez, conductora de VLA, de frenar su carrera en TV Azteca, inventó que la participante de La Academia la había amenazado de muerte. Te contamos lo que sabemos sobre esta nueva revelación. "
-image: /uploads/2021/images-tonita-acusa-cynthia-rodriguez-frenar.jpg
-video: nil
-audio: nil
-alt: Me fui llorando -  Toñita acusa a Cynthia Rodríguez de frenar su carrera en TV Azteca
+image: "/uploads/2021/images-tonita-acusa-cynthia-rodriguez-frenar.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me fui llorando -  Toñita acusa a Cynthia Rodríguez de frenar su carrera en TV Azteca"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182685
 ---
 
 Al parecer aún siguen existiendo rivalidades entre quienes participaron en La Academia de TV Azteca. Recientemente salió a la luz, la pelea que hubo entre dos ex académicas que participaron en el reality show de 2003. ¿Qué pasó? Resulta que Toñita, mejor conocida como ‘La Negra’, acusó a Cynthia Rodríguez, actual conductora de Venga la Alegría, de frenar su carrera artística frente a los directivos de TV Azteca. ¿Cómo lo hizo? Después de una discusión, la presentadora de televisión inventó que Toñita la había amenazado de muerte a ella y a su familia. Te contamos lo que sabemos sobre esta nueva pelea. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante señaló que Alejandra Guzmán sí redactó el comunicado, en el que acusó a un programa de haberla emboscado en su intento por reconciliarla con Frida Sofía. "
-image: /uploads/2021/images-frida-sofia-envia-tierno-mensaje_0_0_1603_997.jpg
-video: nil
-audio: nil
-alt: Me la creí -  Frida Sofía revela cómo se lleva con Alejandra Guzmán tras 'reconciliación'
+image: "/uploads/2021/images-frida-sofia-envia-tierno-mensaje_0_0_1603_997.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me la creí -  Frida Sofía revela cómo se lleva con Alejandra Guzmán tras 'reconciliación'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183709
 ---
 
 Frida Sofía rompió el silencio y habló por primera vez de lo que realmente sucedió con la supuesta reconciliación que tuvo con su mamá, Alejandra Guzmán, durante una emisión de Despierta América, esto después de que la hija de Enrique Guzmán asegurara a través de un comunicado que todo fue una trampa del programa e, incluso, describió el episodio como una "emboscada".  Semanas después del polémico reencuentro, Frida Sofía reveló que el intentó de reconciliación que preparó la producción del matutino también la tomó por sorpresa, pues ella creía que Alejandra Guzmán no contestaría la llamada, pue la cantante estaba recuperándose en casa tras contagiarse de covid-19. 

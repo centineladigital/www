@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Alrededor de 11 mil personas disfrutan del Festival de Música de Fresas de Wuhan, donde se originó el covid-19, sin utilizar cubrebocas ni mantener sana distancia"
-image: /uploads/2021/images-2572102.jpg
-video: nil
-audio: nil
-alt: En Wuhan miles abarrotan festival de música sin medidas covid
+image: "/uploads/2021/images-2572102.jpg"
+video: "nil"
+audio: "nil"
+alt: "En Wuhan miles abarrotan festival de música sin medidas covid"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184235
 ---
 
 Miles de personas asistieron este fin de semana a un festival de música en Wuhan, donde surgió por primera vez el covid-19, sin utilizar cubrebocas ni mantener sana distancia.

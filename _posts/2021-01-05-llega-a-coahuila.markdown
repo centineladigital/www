@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se trata de 8 mil 775 dosis que este mismo martes se empezarán a distribuir entre el personal de salud, para completar las 17 mil 500 que ofreció el gobierno federal"
-image: /uploads/2021/images-2506749.jpg
-video: nil
-audio: nil
-alt: Llega a Coahuila segundo lote de vacunas contra COVID-19
+image: "/uploads/2021/images-2506749.jpg"
+video: "nil"
+audio: "nil"
+alt: "Llega a Coahuila segundo lote de vacunas contra COVID-19"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 181896
 ---
 
 El secretario de Salud de Coahuila, Roberto Bernal Gómez, recibió un nuevo cargamento de vacunas de la empresa Pfizer contra el COVID-19 que serán distribuidas en las cuatro regiones de la entidad donde se aplica el biológico.

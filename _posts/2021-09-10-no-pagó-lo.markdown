@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante una entrevista en el programa 'Primer Impacto', la cantante señaló que su ex representante y pareja hizo demasiado daño a varias personas. "
-image: /uploads/2021/images-trevi.jpg
-video: nil
-audio: nil
-alt: No pagó lo que debía haber pagado -  Gloria Trevi habla sobre Sergio Andrade
+image: "/uploads/2021/images-trevi.jpg"
+video: "nil"
+audio: "nil"
+alt: "No pagó lo que debía haber pagado -  Gloria Trevi habla sobre Sergio Andrade"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187618
 ---
 
 Gloria Trevi está preparando una serie sobre su vida que no dejará ninguno de sus escándalos fuera, así lo aseguró durante una entrevista con el programa Primer Impacto, donde también habló de su ex representante y pareja, Sergio Andrade. "Va a ser algo hecho desde el amor, no desde el odio, no desde el rencor, porque mi historia es una historia de amor desde el principio; desde la niña que soñó con ser artista, y que, por amor a la música, al arte... Me aventé a las calles al ruedo, a luchar y a tocar las puertas, a alcanzar mis sueños", dijo sobre su bioserie. 

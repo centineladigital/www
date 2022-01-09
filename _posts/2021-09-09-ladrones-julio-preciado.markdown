@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El cantante manifestó su molestia luego de que los piratas informáticos le quitaron su cuenta, donde tenía más de 80 mil seguidores. "
-image: /uploads/2021/images-julio-preciado-cuartoscuro.jpg
-video: nil
-audio: nil
-alt: Ladrones -  Julio Preciado denuncia hackeo de su cuenta en Instagram
+image: "/uploads/2021/images-julio-preciado-cuartoscuro.jpg"
+video: "nil"
+audio: "nil"
+alt: "Ladrones -  Julio Preciado denuncia hackeo de su cuenta en Instagram"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187601
 ---
 
 Julio Preciado fue víctima de los hackers de redes sociales, pues reveló que el perfil que manejaba en Instagram, donde tenía más de 80 mil seguidores, le fue robado por piratas informáticos. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Luego de haber rendido protesta el día de ayer en Ciudad Juárez, la Gobernadora visitó el municipio de Delicias por primera vez como mandataria estatal para ser testigo de la toma de protesta del Ayuntamiento deliciense"
-image: /uploads/2021/images-WhatsApp_Image_2021-09-10_at_08.49.37.jpeg
-video: nil
-audio: nil
-alt: Asiste Gobernadora a toma de protesta del Ayuntamiento de Delicias
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-10_at_08.49.37.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Asiste Gobernadora a toma de protesta del Ayuntamiento de Delicias"
 front: false
-section: Local
+section: "Local"
+news_id: 187603
 ---
 
 Ciudad Delicias.- En seguimiento a su gira de trabajo, la gobernadora Maru Campos Galván, estuvo presente en la toma de protesta de Jesús Alberto Valenciano García como presidente municipal de Delicias, así como de los miembros del Ayuntamiento de este municipio.

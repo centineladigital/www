@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Con Plan Emergente de Ocupación Temporal para aminorar los estragos económicos de la pandemia, se concretaron 339 proyectos que beneficiaron a 18 mil 951 en todos los municipios del estado"
-image: /uploads/2021/images-4.jpg
-video: nil
-audio: nil
-alt: Colocó el Servicio Estatal de Empleo a 27 mil 129 personas en esta Administración
+image: "/uploads/2021/images-4.jpg"
+video: "nil"
+audio: "nil"
+alt: "Colocó el Servicio Estatal de Empleo a 27 mil 129 personas en esta Administración"
 front: false
-section: Local
+section: "Local"
+news_id: 186659
 ---
 
 En la actual Administración se logró colocar en un empleo a 27 mil 129 personas y en la atención de los servicios de vinculación laboral se puso énfasis en el apoyo a grupos vulnerables como mujeres, jóvenes, personas con discapacidad, indígenas y migrantes, informó la directora del Servicio Estatal de Empleo, Ana Roció Escobar Rivero.

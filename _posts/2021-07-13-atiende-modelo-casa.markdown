@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Como parte central de la Estrategia Chihuahua, se consolidan como la alternativa viable para el regreso a clases en el siguiente ciclo escolar; participaron 450 planteles y cerca de 2 mil docentes."
-image: /uploads/2021/images-Modelo_casa_3.jpg
-video: nil
-audio: nil
-alt: Atiende Modelo CASA a 15 mil 514 estudiantes de Educación Básica
+image: "/uploads/2021/images-Modelo_casa_3.jpg"
+video: "nil"
+audio: "nil"
+alt: "Atiende Modelo CASA a 15 mil 514 estudiantes de Educación Básica"
 front: false
-section: Local
+section: "Local"
+news_id: 185597
 ---
 
 Con la Estrategia Chihuahua y el modelo de los Centros de Asesoría y Seguimiento Académico (CASA), la entidad hace frente al enorme reto de la recuperación de las y los estudiantes en rezago educativo provocado por la pandemia del coronavirus.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Winslet explicó que devolvió el cartel al departamento gráfico en dos ocasiones hasta que se aseguró de que su rostro no estuviera retocado en exceso. "
-image: /uploads/2021/images-kate-winslet-shutterstock_(1).jpg
-video: nil
-audio: nil
-alt: Ni se te ocurra -  Actriz Kate Winslet exigió que no le quitaran las arrugas en publicidad de serie HBO
+image: "/uploads/2021/images-kate-winslet-shutterstock_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Ni se te ocurra -  Actriz Kate Winslet exigió que no le quitaran las arrugas en publicidad de serie HBO"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184796
 ---
 
 Kate Winslet exigió que su cara no tuviera ningún retoque en el cartel promocional de la serie de HBO "Mare of Easttown", a pesar de la resistencia del equipo de publicidad. "Ellos me decían 'no puedes' y yo les respondía 'gente, sé cuantas arrugas tienen mis ojos, por favor pónganlas de nuevo'", aseguró la actriz en una entrevista con el diario The New York Times horas antes de que se emitiera el final de la miniserie. 

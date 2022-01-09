@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Después de 60 días de campañas, candidatos deberán abstenerse de llevar a cabo actos públicos, difundir propaganda o resultados de encuestas o sondeos electorales"
-image: /uploads/2021/images-voto_(1).jpg
-video: nil
-audio: nil
-alt: Inicia hoy la veda electoral
+image: "/uploads/2021/images-voto_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Inicia hoy la veda electoral"
 front: false
-section: Local
+section: "Local"
+news_id: 184809
 ---
 
 Ayer concluyeron las actividades proselitistas, luego de 60 días de campañas electorales para los candidatos a la gubernatura y diputaciones federales, así como 35 días para quienes aspiran a un puesto de elección popular local, por lo que hoy inicia el periodo de reflexión del voto para que la ciudadanía decida por qué candidatos habrá de emitir su voto este domingo 6 de junio.

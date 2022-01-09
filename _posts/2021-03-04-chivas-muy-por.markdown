@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El técnico acepta que no están contentos con el accionar y con los puntos, por lo que tendrán que buscar alternativas de solución. “Estamos teniendo confusiones”, dice"
-image: /uploads/2021/images-2539159.jpg
-video: nil
-audio: nil
-alt: Chivas muy por debajo de nivel, admite Vucetich
+image: "/uploads/2021/images-2539159.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chivas muy por debajo de nivel, admite Vucetich"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 183265
 ---
 
 Víctor Manuel Vucetich, técnico de Chivas, admitió que el Rebaño estuvo muy por debajo de su nivel tras empatar 2-2 ante Gallos de Querétaro en la jornada 9 del Torneo Guard1anes 2021 de la Liga MX.

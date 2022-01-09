@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Considerado uno de los nombres más importantes de la música latina, J Balvin suele entregarle a sus fans propuestas artísticas innovadoras y Jose no es la excepción. "
-image: /uploads/2021/images-j-balvin-instagram-2.jpg
-video: nil
-audio: nil
-alt: Estoy totalmente desnudo -  J Balvin estrena disco bajo su nombre real 'Jose' y redes 'estallan'
+image: "/uploads/2021/images-j-balvin-instagram-2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estoy totalmente desnudo -  J Balvin estrena disco bajo su nombre real 'Jose' y redes 'estallan'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187616
 ---
 
 José Álvaro Osorio Balvin o "Jose", sin tilde, para los amigos, publica este viernes su primer disco homónimo. En realidad es su sexto álbum de estudio como J Balvin, pero es el primero en el que se presenta tal y como es. "Es mi trabajo más personal, más vulnerable", dice en entrevista con Efe el músico colombiano. "En mi nuevo disco, 'Jose' estoy totalmente desnudo. Las canciones cuentan quién soy, lo que estoy viviendo. Incluso, hay una para mi familia y lo que representan, hay otra que le escribí a mi mejor amigo, mi hijo Río. Por eso cuando llegó la hora de escoger el nombre decidí darle el mío. No J Balvin, sino Jose", afirma. 

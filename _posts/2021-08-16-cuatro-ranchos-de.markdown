@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Propiedades están en escrituración."
-image: /uploads/2021/images-ESPINOZA1.jpg
-video: /uploads/2021/videos-ML02_JORGE_ESPINOZA.mp4
-audio: nil
-alt: Cuatro ranchos de Duarte ya forman parte de patrimonio estatal
+image: "/uploads/2021/images-ESPINOZA1.jpg"
+video: "/uploads/2021/videos-ML02_JORGE_ESPINOZA.mp4"
+audio: "nil"
+alt: "Cuatro ranchos de Duarte ya forman parte de patrimonio estatal"
 front: false
-section: Local
+section: "Local"
+news_id: 186744
 ---
 
 Entre tres y cuatro ranchos del exgobernador César Duarte Jáquez son propiedad del estado y su estatus se encuentra en escrituración en favor del Gobierno del Estado, afirmó el Consejero Jurídico Jorge Espinoza Cortés.

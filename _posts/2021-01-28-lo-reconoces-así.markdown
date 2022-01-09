@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Maluma es uno de los cantantes del género urbano más populares, pero desde muy pequeño comenzó su carrera. Así lucía el colombiano antes de ser famoso. "
-image: /uploads/2021/images-maluma-comenzo-su-carrera-a.jpg
-video: nil
-audio: nil
-alt: ¿Lo reconoces? Así lucía Maluma antes de ser famoso
+image: "/uploads/2021/images-maluma-comenzo-su-carrera-a.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Lo reconoces? Así lucía Maluma antes de ser famoso"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182539
 ---
 
 En el género urbano hay muchos cantantes que poco a poco han destacado, sin embargo, uno de los que tiene mayor éxito es el colombiano Maluma, quien a sus 27 años es considerado uno de los famosos que más ha acaparado la atención, no sólo en países latinoamericanos sino también en algunos de Europa. 

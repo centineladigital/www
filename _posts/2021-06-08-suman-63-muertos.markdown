@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Autoridades paquistaníes reportan la muerte de al menos 63 personas por el choque de dos trenes ocurrido en la provincia de Sindh"
-image: /uploads/2021/images-2591561.jpg
-video: nil
-audio: nil
-alt: Suman 63 muertos por choque de trenes en Pakistán
+image: "/uploads/2021/images-2591561.jpg"
+video: "nil"
+audio: "nil"
+alt: "Suman 63 muertos por choque de trenes en Pakistán"
 front: false
-section: Local
+section: "Local"
+news_id: 184917
 ---
 
 Al menos 63 personas murieron en el doble accidente ferroviario que tuvo lugar el lunes en un lugar remoto de la provincia de Sindh, en el sur de Pakistán, anunció este martes un responsable del gobierno local.

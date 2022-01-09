@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Impulsado por el aumento en el precio de los energéticos, el indicador anual rebasó en marzo la meta del Banxico y se ubicó en 4.67%, su mayor nivel desde diciembre de 2018"
-image: /uploads/2021/images-2559385.jpg
-video: nil
-audio: nil
-alt: Gasolinas y gas LP presionan al bolsillo; inflación se perfila para subir aún más en abril
+image: "/uploads/2021/images-2559385.jpg"
+video: "nil"
+audio: "nil"
+alt: "Gasolinas y gas LP presionan al bolsillo; inflación se perfila para subir aún más en abril"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183776
 ---
 
 La inflación anual se mantuvo al alza por tercer mes al hilo, impulsada por incrementos a gasolinas y gas LP.

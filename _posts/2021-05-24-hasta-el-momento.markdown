@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Instituto Estatal Electoral aún no contempla las declinaciones de los aspirantes a la gubernatura, Alejandro Díaz, de FxM, ni María Eugenia Baeza, de RSP"
-image: /uploads/2021/images-IEE1.jpg
-video: nil
-audio: nil
-alt: Hasta el momento, se han avalado 29 renuncias de candidatos
+image: "/uploads/2021/images-IEE1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Hasta el momento, se han avalado 29 renuncias de candidatos"
 front: false
-section: Local
+section: "Local"
+news_id: 184609
 ---
 
 

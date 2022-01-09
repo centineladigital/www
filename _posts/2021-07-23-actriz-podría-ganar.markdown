@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los actores buscan quedarse con la custodia de sus hijos y ahora todo podría estar a favor de Angelina Jolie para ganar la batalla legal contra su ex esposo. "
-image: /uploads/2021/images-angelina-brad-pitt-pelean-custodia.jpg
-video: nil
-audio: nil
-alt: ¡Actriz podría ganar la batalla legal! Descalifican a juez privado en divorcio de Angelina Jolie y Brad Pitt
+image: "/uploads/2021/images-angelina-brad-pitt-pelean-custodia.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Actriz podría ganar la batalla legal! Descalifican a juez privado en divorcio de Angelina Jolie y Brad Pitt"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185960
 ---
 
 Desde hace varios meses Angelina Jolie y Brad Pitt están en una batalla legal por la custodia de sus hijos después de iniciar el proceso de divorcio, sin embargo, todo podría cambiar a favor de la actriz ya que una corte de apelaciones de California descalificó el viernes a un juez privado a cargo del divorcio de los actores, lo que le dio a Jolie una importante victoria en el caso. 

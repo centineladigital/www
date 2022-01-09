@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Sin embargo, se continúa con la alarma de incremento de casos."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-ML03_ARTURO_VALENZUELA.mp3
-alt: Detectan 11 nuevos casos y 3 defunciones
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML03_ARTURO_VALENZUELA.mp3"
+alt: "Detectan 11 nuevos casos y 3 defunciones"
 front: false
-section: Local
+section: "Local"
+news_id: 183694
 ---
 
 Debido a que son días festivos solamente se detectaron 11 nuevos casos vía PCR y 3 muertes fueron acreditadas en 24 horas, según se dio a conocer dentro de la rueda de prensa de actualización de casos de COVID. Sin embargo, se continúa con la alarma de incremento de casos, señaló el titular de la Dirección Médica Zona Norte, Arturo Valenzuela Zorrilla.

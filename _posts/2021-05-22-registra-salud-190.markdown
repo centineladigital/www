@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ascienden acumulado de casos positivos a 67 mil 721 y 6 mil 921 las defunciones a nivel estatal"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Registra Salud 190 contagios y cinco decesos en el último reporte epidemiológico 
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Registra Salud 190 contagios y cinco decesos en el último reporte epidemiológico "
 front: false
-section: Local
+section: "Local"
+news_id: 184607
 ---
 
 El estado de Chihuahua llegó a los 67 mil 721 contagios por COVID-19, al registrar 190 nuevos casos de acuerdo al último epidemiológico emitido por la Secretaría de Salud.   

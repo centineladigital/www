@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Paty Navidad aseguró que las personas que se vacunen contra el covid-19 entenderán lo que ella trató de decir por mucho tiempo. "
-image: /uploads/2021/images-navidad_paty.jpg
-video: nil
-audio: nil
-alt: Confío en el plan divino -  Paty Navidad ofrece su ayuda para quien se vacune contra covid-19
+image: "/uploads/2021/images-navidad_paty.jpg"
+video: "nil"
+audio: "nil"
+alt: "Confío en el plan divino -  Paty Navidad ofrece su ayuda para quien se vacune contra covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182212
 ---
 
 Paty Navidad volvió a aparecer en sus redes sociales, tras la decisión de Twitter de cerrar su cuenta por tercera ocasión. Ahora, la actriz conspirativa se mostró cabizbaja, con “fe en Dios”, reiterando su postura frente a la vacuna contra el coronavirus, covid-19. ¿Qué fue lo que dijo esta vez? Te contamos lo que expresó la también cantante. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Galilea Montijo confirmó la muerte de su padre. Explicó que falleció a causa del covid-19. Sin embargo, admitió que no tiene muchos recuerdos junto a su progenitor y que sólo lo aceptó por la felicidad de su madre. "
-image: /uploads/2021/images-galilea-montijo-rompe-llanto-confirmar.jpg
-video: nil
-audio: nil
-alt: Lo acepté por mi mamá -  Galilea Montijo llora en 'Hoy' al anunciar que su padre murió de covid-19
+image: "/uploads/2021/images-galilea-montijo-rompe-llanto-confirmar.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lo acepté por mi mamá -  Galilea Montijo llora en 'Hoy' al anunciar que su padre murió de covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186382
 ---
 
 Galilea Montijo, conductora del programa Hoy de Televisa, está de luto por la muerte de su padre Gustavo Montijo Talamantes, así lo confirmó durante la emisión en vivo matutina. En medio del llanto, la tapatía expresó que su padre murió a causa del coronavirus, covid-19 y que a pesar de no tener muchos recuerdos junto a él, le duele su partida y le preocupa la situación que afronta su madre. Te decimos lo que expresó la famosa.  

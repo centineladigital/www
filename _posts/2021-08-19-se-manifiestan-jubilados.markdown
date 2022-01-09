@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Exigen pagos basándose en salario mínimo y no en UMA."
-image: /uploads/2021/images-MANIFESTACION.jpg
-video: /uploads/2021/videos-MJ01_MANIFESTANTE.mp4
-audio: nil
-alt: Se manifiestan jubilados para exigir que no se pague su pensión en UMAs
+image: "/uploads/2021/images-MANIFESTACION.jpg"
+video: "/uploads/2021/videos-MJ01_MANIFESTANTE.mp4"
+audio: "nil"
+alt: "Se manifiestan jubilados para exigir que no se pague su pensión en UMAs"
 front: false
-section: Local
+section: "Local"
+news_id: 186908
 ---
 
 Docentes jubilados se manifestaron dentro de una caravana exigiendo que no se les pagara sus pensiones basados en la Unidad de Medida y Administración. Señalando que el salario mínimo es como lo marca la ley, no como se les paga.

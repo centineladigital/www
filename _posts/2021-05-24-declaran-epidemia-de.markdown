@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Las autoridades del estado indio de Jammu y Cachemira declaran a la mucormicosis, una rara infección mortal conocida como 'hongo negro', como una enfermedad epidémica en la región"
-image: /uploads/2021/images-2583567.jpg
-video: nil
-audio: nil
-alt: Declaran epidemia de 'hongo negro' en India
+image: "/uploads/2021/images-2583567.jpg"
+video: "nil"
+audio: "nil"
+alt: "Declaran epidemia de 'hongo negro' en India"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184610
 ---
 
 El ‘hongo negro’, una rara infección mortal, ya es una epidemia en un estado de India, alertaron este lunes autoridades del país asiático.

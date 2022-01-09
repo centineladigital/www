@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Te dejamos lo más relevante de la delegación mexicana que aconteció en las primeras horas de este jueves   "
-image: /uploads/2021/images-jorge-orozco-tirador-mexicano-tokio.jpg
-video: nil
-audio: nil
-alt: Los Olímpicos mientras dormías -  resumen de la madrugada del 29 de julio en Tokio 2020
+image: "/uploads/2021/images-jorge-orozco-tirador-mexicano-tokio.jpg"
+video: "nil"
+audio: "nil"
+alt: "Los Olímpicos mientras dormías -  resumen de la madrugada del 29 de julio en Tokio 2020"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186082
 ---
 
 La madrugada de este jueves 29 de julio estuvo llena de polémica y muy agridulce para la delegación mexicana en los Juegos Olímpicos de Tokio 2020, pues nuevamente nos quedamos cerca de sumar una medalla de bronce más. 

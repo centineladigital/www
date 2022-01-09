@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El objetivo de esta iniciativa es apoyar a la Fundación George Clooney para la Justicia, asociación que lucha por los derechos de humanos. "
-image: /uploads/2021/images-amal-y-george-clooney_0_1_800_498.jpeg
-video: nil
-audio: nil
-alt: George Clooney te invita a Italia y cenar con él en su mansión; así puedes concursar por viaje
+image: "/uploads/2021/images-amal-y-george-clooney_0_1_800_498.jpeg"
+video: "nil"
+audio: "nil"
+alt: "George Clooney te invita a Italia y cenar con él en su mansión; así puedes concursar por viaje"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184376
 ---
 
 George Clooney es una de las estrellas de Hollywood más populares y mejor pagadas de la industria. El actor, ganador de dos premios Oscar, preparó una sorpresa para todos sus seguidores o amantes de las aventuras, pues lanzó una convocatoria para participar en un increíble sorteo, el ganador viajará a una exclusiva zona en Italia con alojamiento de lujo incluido.  Si bien, las restricciones y medidas sanitarias por la pandemia continúan, algunos aún conservan el deseo de subirse a un avión para disfrutar de unas relajadas vacaciones, y para asombro de muchos la oportunidad está a la vuelta de la esquina, pero la mejor parte es que podrás viajar a lado de George Clooney; aquí te contamos cómo puedes concursar.  

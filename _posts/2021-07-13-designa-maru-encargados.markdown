@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "Luis Serrato, Coordinador del equipo de transición, hizo pública la lista de quienes estarán al frente de las mesas en las que se abordarán temas de suma importancia para los chihuahuenses."
-image: /uploads/2021/images-luis.jpeg
-video: /uploads/2021/videos-ve.mp4
-audio: nil
-alt: Designa Maru encargados para entrega-recepción
+image: "/uploads/2021/images-luis.jpeg"
+video: "/uploads/2021/videos-ve.mp4"
+audio: "nil"
+alt: "Designa Maru encargados para entrega-recepción"
 front: false
-section: Local
+section: "Local"
+news_id: 185633
 ---
 
 Por encargo de la Gobernadora Electa del Estado de Chihuahua, Maru Campos, la mañana de este martes fueron anunciadas las personas encargadas de las mesas temáticas para continuar con el proceso de transición del Gobierno Estatal.

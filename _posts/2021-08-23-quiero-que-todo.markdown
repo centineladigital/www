@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La también actriz se presentó en el Autódromo Hermanos Rodríguez el pasado fin de semana. "
-image: /uploads/2021/images-d_paola.jpg
-video: nil
-audio: nil
-alt: Quiero que todo vuelva a la normalidad -  Danna Paola rompe en llanto durante su regreso a los escenarios
+image: "/uploads/2021/images-d_paola.jpg"
+video: "nil"
+audio: "nil"
+alt: "Quiero que todo vuelva a la normalidad -  Danna Paola rompe en llanto durante su regreso a los escenarios"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187050
 ---
 
 El concierto que Danna Paola ofreció el pasado 20 de agosto en el Autódromo Hermanos Rodríguez fue muy emotivo, pues significó el regreso de la también actriz a los escenarios tras 18 meses sin shows debido a la pandemia de covid-19. 

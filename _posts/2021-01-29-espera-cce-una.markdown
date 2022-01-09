@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Existen obras a medias, las cuales deben de ser terminadas o de lo contrario sería dinero tirado a la basura"
-image: /uploads/2021/images-Imagen2.jpg
-video: nil
-audio: /uploads/2021/audio-AV01_SANTINI_RAMOS.mp3
-alt: Espera CCE una modificación en petición de crédito de gobierno para que se apruebe 
+image: "/uploads/2021/images-Imagen2.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AV01_SANTINI_RAMOS.mp3"
+alt: "Espera CCE una modificación en petición de crédito de gobierno para que se apruebe "
 front: false
-section: Local
+section: "Local"
+news_id: 182556
 ---
 
 El presidente del Consejo Coordinador Empresarial, Francisco Santini Ramos, señaló que esperan y se modifique el proyecto de crédito que había buscado el Gobierno Estatal, y el cual fue rechazado hace algunas semanas por el Congreso del Estado, dado a la necesidad que tiene este gobierno para cerrar bien su administración.

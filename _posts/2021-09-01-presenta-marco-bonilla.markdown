@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El presidente municipal electo dio a conocer de manera oficial el nombramiento de su nuevo gabinete "
-image: /uploads/2021/images-WhatsApp_Image_2021-09-01_at_16.31.17.jpeg
-video: /uploads/2021/videos-JGW05_MARCO_BONILLA.mp4
-audio: nil
-alt: Presenta Marco Bonilla su gabinete
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-01_at_16.31.17.jpeg"
+video: "/uploads/2021/videos-JGW05_MARCO_BONILLA.mp4"
+audio: "nil"
+alt: "Presenta Marco Bonilla su gabinete"
 front: false
-section: Local
+section: "Local"
+news_id: 187351
 ---
 
 El presidente electo de Chihuahua, Marco Bonilla a escasos días de rendir protesta como alcalde capitalino, presentó la primera parte de su gabinete 2021-2024. Estos fueron los nombramientos para la próxima administración municipal:

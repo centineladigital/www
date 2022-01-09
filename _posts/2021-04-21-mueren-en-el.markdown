@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirman 319 nuevos contagios y 307 pacientes hospitalizados; a la fecha van 62,508 casos positivos y 6,211 defunciones acumuladas"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Mueren en el estado 66 personas más por COVID-19
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Mueren en el estado 66 personas más por COVID-19"
 front: false
-section: Local
+section: "Local"
+news_id: 184021
 ---
 
 La Secretaría de Salud de Chihuahua confirmó 319 nuevos contagios de COVID-19 y 66 fallecimientos, lo que representa un acumulado estatal de 62 mil 508 casos positivos y 6 mil 211 personas fallecidas en lo que va de la pandemia.

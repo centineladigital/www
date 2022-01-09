@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Será hasta semáforo verde el retorno a aulas."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-MM03_WENDY_AVILA.mp3
-alt: Sin fecha retorno a aulas
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM02_ARTURO_VALENZUELA.mp3"
+alt: "Sin fecha retorno a aulas"
 front: false
-section: Local
+section: "Local"
+news_id: 183111
 ---
 
 Aun no se tiene fecha para el regreso a las aulas, esto luego de que escuelas particulares dieran a conocer que se daría un retorno a partir del primero de marzo. Según fue dado a conocer por parte del Director Médico de la Zona Norte, Arturo Valenzuela Zorrilla.

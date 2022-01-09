@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ante la pandemia, se lanzó el Decálogo del Voto Responsable por parte del INE"
-image: /uploads/2021/images-voto_(1).jpg
-video: nil
-audio: nil
-alt: Las 10 cosas que debes hacer para votar de forma segura
+image: "/uploads/2021/images-voto_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Las 10 cosas que debes hacer para votar de forma segura"
 front: false
-section: Local
+section: "Local"
+news_id: 184812
 ---
 
 Ante la situación de la pandemia y las elecciones, el Instituto Nacional Electoral (INE) dio a conocer un decálogo de comportamiento responsable para ejercer de manera segura el voto en la elección del 6 de junio, donde en Chihuahua habremos de elegir gobernador, 67 presidentes municipales, 67 síndicos, 22 diputados locales y 9 diputados federales.

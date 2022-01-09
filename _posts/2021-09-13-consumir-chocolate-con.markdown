@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Contiene antioxidantes que previenen el envejecimiento prematuro, mejora el estado de ánimo y es un aliado contra el estrés "
-image: /uploads/2021/images-Foto_4396-1_(1).jpg
-video: nil
-audio: nil
-alt:  Consumir chocolate con moderación ofrece beneficios -  IMSS Chihuahua
+image: "/uploads/2021/images-Foto_4396-1_(1).jpg"
+video: "nil"
+audio: "nil"
+alt: " Consumir chocolate con moderación ofrece beneficios -  IMSS Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 187678
 ---
 
 En el marco del Día Internacional del Chocolate, a celebrarse este 13 de septiembre, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua destaca los beneficios que este alimento tiene para la salud.

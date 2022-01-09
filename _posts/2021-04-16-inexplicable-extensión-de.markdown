@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Pide panista no votar por Morena."
-image: /uploads/2021/images-RIGGS.jpg
-video: nil
-audio: /uploads/2021/audio-MV06.mp3
-alt: Inexplicable extensión de presidente de la suprema corte
+image: "/uploads/2021/images-RIGGS.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV06.mp3"
+alt: "Inexplicable extensión de presidente de la suprema corte"
 front: false
-section: Local
+section: "Local"
+news_id: 183927
 ---
 
 No se entiende el por qué se hizo extensiva por dos años más el periodo de trabajo del Presidente de la Suprema Corte, según lo dio a conocer Miguel Riggs Baeza, diputado federal a nivel nacional. Quien recalcó que para esto se llevó a cabo la modificación constitución.

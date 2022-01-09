@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Vecinos de las colonias Melchor Ocampo, Continental, San Jorge, Valle Escondido y Cafetales entre los beneficiados "
-image: /uploads/2021/images-WhatsApp_Image_2021-09-18_at_09.49.41.jpeg
-video: nil
-audio: nil
-alt: Conozca las colonias que atenderá el Destilichadero la próxima semana
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-18_at_09.49.41.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Conozca las colonias que atenderá el Destilichadero la próxima semana"
 front: false
-section: Local
+section: "Local"
+news_id: 187856
 ---
 
 Con el objetivo de prevenir enfermedades por la acumulación de “tiliches”, así como evitar la aparición de fauna nociva para los humanos, el Gobierno Municipal a través de la Dirección de Servicios Públicos programó dos eventos de Destilichadero para la próxima semana.

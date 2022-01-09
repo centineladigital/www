@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este mural es en agradecimiento al personal de salud y a toda la población, por medio del cual se busca mantener vivo el recuerdo, espíritu, amor y libertad de quienes ya no están con nosotros"
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Con memorial honra Gobierno Municipal a víctimas del COVID19
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Con memorial honra Gobierno Municipal a víctimas del COVID19"
 front: false
-section: Local
+section: "Local"
+news_id: 187213
 ---
 
 Con la finalidad de dar un mensaje de aliento a la ciudadanía y agradecimiento al sector médico que ha estado en la primera línea de batalla ante la pandemia por el COVID19, el Gobierno Municipal realizó un memorial en la concha acústica de El Palomar, para honrar a quienes han sido víctimas de este virus en el municipio.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El jurista de la hija de El Príncipe de la Canción afirmó que el testamento que presentaron José Joel y Marysol Sosa es irrelevante. "
-image: /uploads/2021/images-abogado-sarita-sosa-lanzo-mensaje.jpg
-video: nil
-audio: nil
-alt: Abogado de Sarita Sosa rechaza testamento mexicano de José José; envía mensaje a Anel Noreña
+image: "/uploads/2021/images-abogado-sarita-sosa-lanzo-mensaje.jpg"
+video: "nil"
+audio: "nil"
+alt: "Abogado de Sarita Sosa rechaza testamento mexicano de José José; envía mensaje a Anel Noreña"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183756
 ---
 
 Hace un par de días, José Joel y Marysol Sosa dieron a conocer frente a los juzgados de la Ciudad de México que el testamento de José José señala a Anel Noreña como heredera universal de El Príncipe de la Canción. Sin embargo, de acuerdo con el abogado de Sarita Sosa, el escrito no tiene validez legal. Según el jurista, la razón se debe a que José Rómulo Sosa Ortiz, nombre real del intérprete de "El triste", murió en Estados Unidos, exactamente en Miami, y no en México, por lo que las leyes que entrarían en vigor son las de Florida. Esto fue lo que dijo. 

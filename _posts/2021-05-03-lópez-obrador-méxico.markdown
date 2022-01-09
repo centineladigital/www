@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El presidente afirma que no hay motivos para rechazar pruebas para que mejore la calidad de la enseñanza; asegura todo lo que sea para mejorar la educación es respaldado"
-image: /uploads/2021/images-2572110.jpg
-video: nil
-audio: nil
-alt: López Obrador -  México va a continuar con la Prueba PISA
+image: "/uploads/2021/images-2572110.jpg"
+video: "nil"
+audio: "nil"
+alt: "López Obrador -  México va a continuar con la Prueba PISA"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 184234
 ---
 
 Tras la información difundida acerca de que México dejaría de participar en el Programa para la Evaluación Internacional de Alumnos (PISA), el presidente Andrés Manuel López Obrador rechazó esto y aseguró que ésta continuará, pues consideró que esto es para que mejore la calidad educativa.

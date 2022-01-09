@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa la CEPC que la mayor intensidad del viento se presentará en el occidente del estado, principalmente en Carichí, así como en las rutas Juárez-Janos, Sueco-Ahumada y Jiménez-Parral; se aproxima un nuevo frente frío"
-image: /uploads/2021/images-VIENTO_CUU_(3).JPG
-video: nil
-audio: nil
-alt: Advierte Protección Civil por rachas de 85 km/h y tolvaneras en tramos carreteros
+image: "/uploads/2021/images-VIENTO_CUU_(3).JPG"
+video: "nil"
+audio: "nil"
+alt: "Advierte Protección Civil por rachas de 85 km/h y tolvaneras en tramos carreteros"
 front: false
-section: Local
+section: "Local"
+news_id: 184238
 ---
 
 Para este lunes 3 la aproximación del Frente Frío número 55 traerá rachas de viento que pudieran rebasar los 85 kilómetros por hora (km/h), así como tolvaneras en tramos carreteros, informó la Coordinación Estatal de Protección Civil (CEPC).

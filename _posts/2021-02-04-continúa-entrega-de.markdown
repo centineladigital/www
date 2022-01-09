@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se otorgaron de manera extraordinaria apoyos a 148 mil 001 familias,"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Continúa entrega de apoyos alimentarios ante contingencia sanitaria
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Continúa entrega de apoyos alimentarios ante contingencia sanitaria"
 front: false
-section: Local
+section: "Local"
+news_id: 182702
 ---
 
 Con el fin de evitar que falten alimentos a las familias chihuahuenses, y derivado de la crisis que se ha generado por la pandemia del COVID19, el Gobierno Municipal a través de la Dirección de Desarrollo Humano y Educación, ha entregado despensas y apoyos alimentarios a 210 mil 248 familias que tienen su domicilio en la ciudad de Chihuahua.

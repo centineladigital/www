@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Rosalba Ortíz, madre de Geraldine Bazán, arremetió contra su ex yerno, Gabriel Soto, quien tiene una relación con Irina Baeva. "
-image: /uploads/2021/images-suegra-gabriel-soto-aclara-filtro.jpg
-video: nil
-audio: nil
-alt: Rosalba Ortíz, madre de Gerladine Bazán, manda indirecta a ex yerno, Gabriel Soto
+image: "/uploads/2021/images-suegra-gabriel-soto-aclara-filtro.jpg"
+video: "nil"
+audio: "nil"
+alt: "Rosalba Ortíz, madre de Gerladine Bazán, manda indirecta a ex yerno, Gabriel Soto"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186004
 ---
 
 Todavía se habla sobre la relación que hubo entre Geraldine Bazán y Gabriel Soto. Ahora la madre de la actriz, Doña Rosalba Ortíz, mandó indirecta a su ex yerno, ahora pareja Irina Baeva, y habló sobre la nueva relación que tiene su hija. 

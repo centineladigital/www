@@ -14,12 +14,13 @@ tags:
   
 author: nil
 description: "La Agencia de Salud de Canadá aprueba el uso de la vacuna Pfizer-BioNTech a partir de los 12 años, convirtiéndose en el primer país en autorizarla para personas tan jóvenes"
-image: /uploads/2021/images-79e6434e-f590-4b47-b110-a2430dbd075e.tmp
-video: nil
-audio: nil
-alt: Canadá, primer país que autoriza vacuna de Pfizer para adolescentes
+image: "/uploads/2021/images-79e6434e-f590-4b47-b110-a2430dbd075e.tmp"
+video: "nil"
+audio: "nil"
+alt: "Canadá, primer país que autoriza vacuna de Pfizer para adolescentes"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 184281
 ---
 
 Las autoridades de Canadá aprobaron este miércoles el uso de la vacuna Pfizer-BioNTech a partir de los 12 años, convirtiéndose en el primer país en autorizarla para personas tan jóvenes.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Este sábado 10 de abril será el último día para ir por su documento, pues con el tendrán derecho a participar en el proceso electoral del 6 de junio"
-image: /uploads/2021/images-Credenciales_para_votar.jpg
-video: nil
-audio: nil
-alt: Por vencer plazo para recoger credenciales para votar
+image: "/uploads/2021/images-Credenciales_para_votar.jpg"
+video: "nil"
+audio: "nil"
+alt: "Por vencer plazo para recoger credenciales para votar"
 front: false
-section: Local
+section: "Local"
+news_id: 183736
 ---
 
 Este sábado 10 de abril vence el plazo para recoger las credenciales para votar solicitadas al mes de febrero, por lo que los módulos de atención ciudadana INE abrirán de 8:00 a 20:00 horas.

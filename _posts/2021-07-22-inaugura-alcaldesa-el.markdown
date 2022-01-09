@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "El cual convoca al fortalecimiento de la comunidad empresarial para hacer frente a los retos comunes que marca la industria competitiva en la actualidad, a través de diversas estrategias"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Inaugura Alcaldesa el Switch Industrial 2021 de la Cámara Nacional de la Industria de Transformación
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Inaugura Alcaldesa el Switch Industrial 2021 de la Cámara Nacional de la Industria de Transformación"
 front: false
-section: Local
+section: "Local"
+news_id: 185911
 ---
 
 La Presidenta Municipal inauguró el evento Switch Industrial 2021 de la Cámara Nacional de la Industria de Transformación (CANACINTRA), en el Centro de Convenciones; el cual convoca al fortalecimiento de la comunidad empresarial para hacer frente a los retos comunes que marca la industria competitiva en la actualidad, a través de diversas estrategias.

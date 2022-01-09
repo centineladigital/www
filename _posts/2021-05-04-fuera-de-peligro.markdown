@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Gobernador Javier Corral informa que la funcionaria sufrió accidente en carretera Juárez-Chihuahua sin consecuencias mayores"
-image: /uploads/2021/images-ban-jc.JPG
-video: nil
-audio: nil
-alt: Fuera de peligro y en recuperación subsecretaria de Ejecución de Penas, Nora Balderrama Cano
+image: "/uploads/2021/images-ban-jc.JPG"
+video: "nil"
+audio: "nil"
+alt: "Fuera de peligro y en recuperación subsecretaria de Ejecución de Penas, Nora Balderrama Cano"
 front: false
-section: Local
+section: "Local"
+news_id: 184271
 ---
 
 La subsecretaria del Sistema Penitenciario, Ejecución de Penas y Medidas Judiciales, Nora Balderrama Cano, se recupera favorablemente en su domicilio de las lesiones sufridas en el accidente carretero que sufrió ayer en la carretera Ciudad Juárez a Chihuahua, informó el gobernador Javier Corral Jurado.

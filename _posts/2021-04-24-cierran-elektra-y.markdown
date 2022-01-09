@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La célula covid en la capital del estado, ha realizado el desalojo y clausura de dos establecimientos que no respetaron los acuerdos, para reducir la movilidad ante el incremento de contagios por Covid19"
-image: /uploads/2021/images-Elektra.jpg
-video: nil
-audio: nil
-alt: Cierran Elektra y First Cash por no respetar “super cierre”
+image: "/uploads/2021/images-Elektra.jpg"
+video: "nil"
+audio: "nil"
+alt: "Cierran Elektra y First Cash por no respetar “super cierre”"
 front: false
-section: Local
+section: "Local"
+news_id: 184094
 ---
 
 La célula covid en la capital del estado, ha realizado el desalojo y clausura de dos establecimientos que no respetaron los acuerdos que decretó el estado de Chihuahua, para reducir la movilidad ante el incremento de contagios por Covid19, según las últimas revisiones que ha realizados los integrantes de dicha célula.

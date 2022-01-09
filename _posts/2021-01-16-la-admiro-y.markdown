@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Después de que la ex pareja de Laura Bozzo asegurara que la conductora armó una escena de celos frente a Rebecca de Alba, ella se defiende. "
-image: /uploads/2021/images-laura-bozzo-defendio-declaraciones-pareja.jpg
-video: nil
-audio: nil
-alt: La admiro y la amo -  Laura Bozzo asegura que no ofendió a Rebecca de Alba
+image: "/uploads/2021/images-laura-bozzo-defendio-declaraciones-pareja.jpg"
+video: "nil"
+audio: "nil"
+alt: "La admiro y la amo -  Laura Bozzo asegura que no ofendió a Rebecca de Alba"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182193
 ---
 
 Después de que Cristian Zuárez, ex pareja de Laura Bozzo, asegurara que la conductora había armado una escena de celos y que incluso había ofendido a Rebecca de Alba, ahora es la peruana quien se defendió y mencionó que nunca ha tenido un problema con la ex novia de Ricky Martin. 

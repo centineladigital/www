@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante habló abiertamente sobre su bisexualidad en una entrevista para un podcast. "
-image: /uploads/2021/images-miley-cyrus-instagram-8.jpg
-video: nil
-audio: nil
-alt: Las chicas son más sexys -  Miley Cyrus explica por qué prefiere salir con mujeres
+image: "/uploads/2021/images-miley-cyrus-instagram-8.jpg"
+video: "nil"
+audio: "nil"
+alt: "Las chicas son más sexys -  Miley Cyrus explica por qué prefiere salir con mujeres"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182344
 ---
 
 Aunque cada vez se vuelve más fácil que las personas se expresen sobre sus preferencias sexuales a medida que las nuevas generaciones abren más sus mentes y acaban con la discriminación, todavía muchos siguen viendo el tema como tabú y prefieren no compartir sus experiencias para evitar generar polémica y ponerse en el centro de las habladurías para así también proteger su intimidad, como es el caso de muchos famosos.  Sin embargo, Miley Cyrus no es uno de ellos y está dispuesta a hablar sobre sus preferencias y poner su granito de arena para que la homosexualidad, la bisexualidad y en general toda la diversidad sea tratada abiertamente como lo abordó ella, quien se proclamó abiertamente bisexual.  

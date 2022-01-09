@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Hizo un llamado a la militancia para que una vez concluidas las elecciones internas y se hayan definido las candidaturas, salgan todos unidos a trabajar"
-image: /uploads/2021/images-maru_campos.jpg
-video: nil
-audio: nil
-alt: Me presentaré ante el Poder Judicial cuanto sea necesario -  Maru Campos
+image: "/uploads/2021/images-maru_campos.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me presentaré ante el Poder Judicial cuanto sea necesario -  Maru Campos"
 front: false
-section: Local
+section: "Local"
+news_id: 182589
 ---
 
 La candidata del PAN por la gubernatura, María Eugenia Campos, dio a conocer que el proceso interno del partido, registra más del 80 por ciento de la participación del padrón de militantes en esta ciudad.

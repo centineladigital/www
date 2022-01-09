@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El gobernador destaca en su última conferencia de prensa realizada en la frontera que uno de los rubros que causa satisfacción a la Administración que está por concluir, es el nuevo modelo de hacer política y de gobernar para la sociedad"
-image: /uploads/2021/images-Atención_a_medios__(1).jpg
-video: nil
-audio: nil
-alt: Dejamos una vara muy alta en inversión  para Ciudad Juárez -  Javier Corral
+image: "/uploads/2021/images-Atención_a_medios__(1).jpg"
+video: "nil"
+audio: "nil"
+alt: "Dejamos una vara muy alta en inversión  para Ciudad Juárez -  Javier Corral"
 front: false
-section: Local
+section: "Local"
+news_id: 187504
 ---
 
 “Estamos dejando una vara muy alta en inversión para Ciudad Juárez, es que nosotros invertimos al final de nuestro Gobierno ya 8 mil millones de pesos en esta frontera, viniendo de un gobierno que arrancó con finanzas totalmente quebradas, la cuestión realmente era de latrocinio, de bancarrota y aun con eso, pudimos generar mucha inversión”, expresó el gobernador Javier Corral.

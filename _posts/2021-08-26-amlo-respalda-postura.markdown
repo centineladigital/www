@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El Presidente aseguró que en materia migratoria se está atendiendo el problema de fondo para que se invierta en empleos y bienestar en países de Centroamérica"
-image: /uploads/2021/images-frontera-mexico-unidos-meses-cerrada_0_19_900_560.jpg
-video: nil
-audio: nil
-alt: AMLO respalda postura de SRE sobre programa “Quédate en México”
+image: "/uploads/2021/images-frontera-mexico-unidos-meses-cerrada_0_19_900_560.jpg"
+video: "nil"
+audio: "nil"
+alt: "AMLO respalda postura de SRE sobre programa “Quédate en México”"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 187129
 ---
 
 El presidente Andrés Manuel López Obrador respaldó la postura de la Secretaría de Relaciones Exteriores (SRE) sobre la orden de la Corte de Estados Unidos para restaurar el programa "Quédate en México" ante le flujo de migrantes. 

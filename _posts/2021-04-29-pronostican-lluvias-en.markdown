@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Informa Protección Civil que las precipitaciones estarán en Ciudad Juárez, Janos, Galeana, Gómez Farías, Buenaventura, Guachochi, Guadalupe y Calvo, y Balleza; podrían estar acompañadas de caída de aguanieve y nieve en las partes altas de la Sierra Tarahumara"
-image: /uploads/2021/images-LLUVIA_EL_TULE_(1).jpeg
-video: nil
-audio: nil
-alt: Pronostican lluvias en el norte del estado y parte de la Sierra para este jueves
+image: "/uploads/2021/images-LLUVIA_EL_TULE_(1).jpeg"
+video: "nil"
+audio: "nil"
+alt: "Pronostican lluvias en el norte del estado y parte de la Sierra para este jueves"
 front: false
-section: Local
+section: "Local"
+news_id: 184183
 ---
 
 Para este jueves 29 la Décimo Cuarta Tormenta Invernal sobre el estado de Chihuahua en interacción con el Frente Frío 54 mantendrá el clima frío por las siguientes mañanas, así como lluvias para Ciudad Juárez, Janos, Galeana, Gómez Farías, Buenaventura, Guachochi, Guadalupe y Calvo, Balleza, y Jiménez, informó la Coordinación Estatal de Protección Civil (CEPC).

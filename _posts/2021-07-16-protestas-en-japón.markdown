@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El nuevo repunte de contagios de covid-19 en Tokio ha reavivado la inquietud sobre los Juegos Olímpicos cuando resta sólo una semana para la cita deportiva, que también sigue generando descontento y protestas entre la ciudadanía nipona.."
-image: /uploads/2021/images-protestas-en-japon-por-juegos_0_19_1200_745.jpg
-video: nil
-audio: nil
-alt:  Protestas en Japón a una semana del arranque de los Juegos Olímpicos
+image: "/uploads/2021/images-protestas-en-japon-por-juegos_0_19_1200_745.jpg"
+video: "nil"
+audio: "nil"
+alt: " Protestas en Japón a una semana del arranque de los Juegos Olímpicos"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 185720
 ---
 
 La región capitalina registró este viernes mil 271 nuevos contagios, lo que supone el tercer día consecutivo por encima del millar de infecciones y después de que en la víspera se rebasaran los mil 300 casos, la mayor cifra en seis meses. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Juan Gabriel escribió y compuso varias canciones para José José. Sin embargo, hubo una en específico que se convirtió en la más significativa. "
-image: /uploads/2021/images-jose-romulo-sosa-ortiz-jose.jpg
-video: nil
-audio: nil
-alt: ¿Sabes cuál es? La canción que Juan Gabriel le compuso y dedicó a José José
+image: "/uploads/2021/images-jose-romulo-sosa-ortiz-jose.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Sabes cuál es? La canción que Juan Gabriel le compuso y dedicó a José José"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182984
 ---
 
 Han pasado casi cinco años de la partida de Juan Gabriel y su muerte sigue doliendo. Nacido el 7 de enero de 1950 como Alberto Aguilera Valadez, el eterno Divo de Juárez hubiera celebrado el mes pasado su cumpleaños número 71. 

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Reciben asesoría gratuita sobre cómo atender los posibles síntomas de Sars-Cov2, informa el director médico Arturo Valenzuela Zorrilla; hay ya 7 mil 594 monitores COVID, destaca"
-image: /uploads/2021/images-MONITOR_COVID.jpeg
-video: nil
-audio: nil
-alt: Registra Salud Digital del Gobierno del Estado 136 mil personas usuarias
+image: "/uploads/2021/images-MONITOR_COVID.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Registra Salud Digital del Gobierno del Estado 136 mil personas usuarias"
 front: false
-section: Local
+section: "Local"
+news_id: 183175
 ---
 
 A la fecha, 136 mil personas se han registrado en la aplicación Salud Digital, creada por la Secretaría de Salud del Estado de Chihuahua como un esfuerzo para asesorar a la población sobre cómo atender la sintomatología de la enfermedad COVID-19.

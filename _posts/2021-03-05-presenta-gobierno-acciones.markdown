@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Destaca Javier Corral acciones para beneficio de las mujeres dentro de su administración."
-image: /uploads/2021/images-CORRAL.jpg
-video: nil
-audio: /uploads/2021/audio-MV05_CORRAL.mp3
-alt: Presenta Gobierno acciones a favor de la equidad de género
+image: "/uploads/2021/images-CORRAL.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV05_CORRAL.mp3"
+alt: "Presenta Gobierno acciones a favor de la equidad de género"
 front: false
-section: Local
+section: "Local"
+news_id: 183307
 ---
 
 En el marco de la conmemoración del día Internacional de la Mujer que se conmemora este 8 de marzo, el Gobernador de Chihuahua, Javier Corral Jurado, presentó los avances en diferentes áreas.

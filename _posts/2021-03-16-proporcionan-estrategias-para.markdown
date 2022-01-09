@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La conferencia fue dirigida a personal educativo que labora en contextos de vulnerabilidad y estuvo a cargo de Frida Díaz Barriga Arceo, catedrática de la UNAM; secretario de Educación destaca convenio de colaboración con la máxima casa de estudios"
-image: /uploads/2021/images-C1.jpg
-video: nil
-audio: nil
-alt: Proporcionan estrategias para mejorar clases virtuales en educación básica
+image: "/uploads/2021/images-C1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Proporcionan estrategias para mejorar clases virtuales en educación básica"
 front: false
-section: Local
+section: "Local"
+news_id: 183438
 ---
 
 En el marco del cierre de los trabajos académicos del Programa para el Desarrollo Profesional Docente (Prodep), se impartió la conferencia magistral “Estrategias para impartir clases virtuales”, dirigida al personal educativo del nivel básico.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Se les obliga a cumplir los lineamientos adicionales que se publican en Semáforo Amarillo Seguro; consumo y venta de bebidas alcohólicas está estrictamente prohibido en estos espacios"
-image: /uploads/2021/images-SALÓN_DE_EVENTOS.jpeg
-video: nil
-audio: nil
-alt: Deben salones de eventos y granjas avisar a Gobernación sobre actividades que albergarán
+image: "/uploads/2021/images-SALÓN_DE_EVENTOS.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Deben salones de eventos y granjas avisar a Gobernación sobre actividades que albergarán"
 front: false
-section: Local
+section: "Local"
+news_id: 182559
 ---
 
 La Dirección General de Gobierno dio a conocer el procedimiento para que salones de eventos y granjas informen sobre las actividades que albergarán, en cumplimiento de lo establecido en el Amarillo Seguro del semáforo de riesgo COVID-19.

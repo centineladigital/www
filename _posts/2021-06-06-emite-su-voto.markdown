@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Da a conocer asalto a representante de casilla panista."
-image: /uploads/2021/images-BONILLA.jpg
-video: nil
-audio: /uploads/2021/audio-MD01_MARCO_BONILLA.mp3
-alt: Emite su voto Marco Bonilla
+image: "/uploads/2021/images-BONILLA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MD01_MARCO_BONILLA.mp3"
+alt: "Emite su voto Marco Bonilla"
 front: false
-section: Local
+section: "Local"
+news_id: 184870
 ---
 
 El candidato del Partido Acción Nacional a la Alcaldía de Chihuahua, Marco Antonio Bonilla Mendoza, emitió su voto a las 12:30 horas en la colonia Campobello. Donde dio a conocer que dentro de las incidencias reportadas se tiene el robo a un representante de casilla, el cual fue agredido pero no de gravedad.

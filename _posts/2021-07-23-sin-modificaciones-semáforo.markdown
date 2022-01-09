@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Tomarán más en cuenta hospitalizados que nuevos casos."
-image: /uploads/2021/images-EDUARDO.jpg
-video: /uploads/2021/videos-MV01_EDUARDO_FERNANDEZ.mp4
-audio: nil
-alt: Sin modificaciones semáforo en Chihuahua
+image: "/uploads/2021/images-EDUARDO.jpg"
+video: "/uploads/2021/videos-MV01_EDUARDO_FERNANDEZ.mp4"
+audio: "nil"
+alt: "Sin modificaciones semáforo en Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 185959
 ---
 
 Hasta el momento el semáforo en Chihuahua continúa en amarillo con tendencias a verdes, fueron las palabras del Secretario de Salud, Eduardo Fernández. Esto al señalar que la entidad no será de los estados castigados en la nueva forma de que se lleve a cabo la semaforización de Chihuahua, el funcionario dijo que debido a se están tomando otros lineamientos para poder pasar o no.

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Se efectuará en las modalidades de 3, 5 y 10 kilómetros. Las inscripciones se pueden realizar en las tiendas Arte Popular Chihuahua de la capital, Parral, Creel y Juárez, con un costo de 350 pesos   "
-image: /uploads/2021/images-Matétera_Bá.jpeg
-video: nil
-audio: nil
-alt: Anuncian carrera pedestre “Matétera Bá” en apoyo a artesanos afectados por pandemia
+image: "/uploads/2021/images-Matétera_Bá.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Anuncian carrera pedestre “Matétera Bá” en apoyo a artesanos afectados por pandemia"
 front: false
-section: Local
+section: "Local"
+news_id: 186303
 ---
 
 La Secretaría de Innovación y Desarrollo Económico, a través de Fomento y Desarrollo Artesanal del Estado de Chihuahua (Fodarch), en coordinación con el Instituto Chihuahuense del Deporte y Cultura Física (ICHD), anunció la carrera “Matétera Bá”, cuyos fondos serán destinados en apoyo a artesanos chihuahuenses afectados por la pandemia de SARS CoV-2.

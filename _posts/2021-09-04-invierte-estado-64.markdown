@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El gobernador Javier Corral hizo un recorrido por las instalaciones, en las cuales se hizo la renovación del sistema de iluminación, que era una de las peticiones más sentidas de los usuarios"
-image: /uploads/2021/images-DSC_0357.JPG
-video: nil
-audio: nil
-alt: Invierte Estado 64 mdp en rehabilitación de la Ciudad Deportiva en la capital
+image: "/uploads/2021/images-DSC_0357.JPG"
+video: "nil"
+audio: "nil"
+alt: "Invierte Estado 64 mdp en rehabilitación de la Ciudad Deportiva en la capital"
 front: false
-section: Local
+section: "Local"
+news_id: 187421
 ---
 
 El gobernador Javier Corral recorrió las instalaciones de la Ciudad Deportiva, donde se realizan obras de remodelación con una inversión superior a los 64 millones de pesos, en beneficio de más de 10 mil usuarios que diariamente la visitan.

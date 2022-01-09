@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El mexicano, quien participó en el espectáculo de The Weeknd, en Tampa Bay, es un ejemplo de fortaleza, al llegar a trabajar junto a grandes de la música como Ricky Martin, Nicky Jam y J Balvin. "
-image: /uploads/2021/images-mexiquense-dificil-historia-exito-llevado.jpg
-video: nil
-audio: nil
-alt: Mike Bautista -  El baile lo llevó al Super Bowl
+image: "/uploads/2021/images-mexiquense-dificil-historia-exito-llevado.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mike Bautista -  El baile lo llevó al Super Bowl"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182936
 ---
 
 Mike Bautista es el bailarín mexicano que brilló en el medio tiempo del Super Bowl junto al cantante canadiense The Weeknd, pero para llegar a cumplir muchos de sus sueños, contó a M2, pasó años de entrenamiento, audiciones, esfuerzo y la realidad es que también tuvo que emigrar a Estados Unidos. Nacido en Ixtapaluca, Estado de México, Bautista aprendió desde muy joven artes marciales y ni siquiera sabía que se dedicaría a la danza, hasta que un día su mamá le dijo que tendría que ser bailarín para los quince años de su prima; esto revolucionó su mente y cuerpo y se dio cuenta de que algo tenía que hacer con ese espíritu indomable que salía cada vez que sus pasos lo llevaban por los ritmos musicales. 

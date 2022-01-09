@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Albergará la editorial Educa."
-image: /uploads/2021/images-LANDA.jpg
-video: nil
-audio: /uploads/2021/audio-MW06_CONCEPCIÓN_LANDA.mp3
-alt: Abre puerta Librería Enrique Servín 
+image: "/uploads/2021/images-LANDA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW06_CONCEPCIÓN_LANDA.mp3"
+alt: "Abre puerta Librería Enrique Servín "
 front: false
-section: Local
+section: "Local"
+news_id: 185429
 ---
 
 Este miércoles la Librería Enrique Servín abrió sus puertas, la cual tiene como fin el acercar la cultura a los chihuahuenses. Esto ya que anteriormente en el municipio tan sólo existían nueve espacios similares según fue dado a conocer por parte de la titular de la Secretaría de Cultura Concepción Landa García-Tellez.

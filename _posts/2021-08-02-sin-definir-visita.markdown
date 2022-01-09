@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esperan que inaugure los cuarteles militares."
-image: /uploads/2021/images-EMILIO.jpg
-video: /uploads/2021/videos-ML02_EMILIO_GARCIA.mp4
-audio: nil
-alt: Sin definir visita de AMLO
+image: "/uploads/2021/images-EMILIO.jpg"
+video: "/uploads/2021/videos-ML02_EMILIO_GARCIA.mp4"
+audio: "nil"
+alt: "Sin definir visita de AMLO"
 front: false
-section: Local
+section: "Local"
+news_id: 186209
 ---
 
 Aún no se define el día de la visita del Presidente de la República a Chihuahua, sin embargo, dentro de la agenda se tendrá la reunión de la mesa de trabajo para la construcción de la paz, afirmó el titular de la Secretaría de Seguridad Pública Estatal, Emilio García Ruiz.

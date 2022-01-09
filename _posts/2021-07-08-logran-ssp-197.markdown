@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto en año y medio de trabajo según declaró Emilio García Ruiz."
-image: /uploads/2021/images-EMILIO.jpg
-video: nil
-audio: /uploads/2021/audio-MJ04_EMILIO.mp3
-alt: Logran SSP 197 detenidos relacionados con la organización del Jaguar
+image: "/uploads/2021/images-EMILIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ04_EMILIO.mp3"
+alt: "Logran SSP 197 detenidos relacionados con la organización del Jaguar"
 front: false
-section: Local
+section: "Local"
+news_id: 185476
 ---
 
 En diversos hechos se ha logrado la detención de 197 personas relacionadas con la organización que encabeza Francisco Javier A.M. , alías “El Jaguar”. Estas detenciones se llevaron a cabo por parte de la Secretaría de Seguridad Pública, según lo dio a conocer el titular de esta dependencia Emilio García Ruiz.

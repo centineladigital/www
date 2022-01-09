@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Presentan campaña Yo Lucho por México para promover a los deportistas mexicanos que competirán en Tokio"
-image: /uploads/2021/images-2579732.jpg
-video: nil
-audio: nil
-alt: A 100 días de los juegos paralímpicos; motivación a tope
+image: "/uploads/2021/images-2579732.jpg"
+video: "nil"
+audio: "nil"
+alt: "A 100 días de los juegos paralímpicos; motivación a tope"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 184488
 ---
 
 El esfuerzo que hace un atleta con capacidades diferentes para llegar a unos Juegos Paralímpicos es comparable al que realizaron las autoridades olímpicas y japonesas para llevar a cabo esta justa, con un año de retraso debido a la pandemia de covid-19.

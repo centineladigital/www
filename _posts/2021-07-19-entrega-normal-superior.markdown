@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "En la ceremonia de graduación se otorgaron documentos a 463 licenciados en Educación Secundaria y 334 maestros en Educación para el Desarrollo Profesional Docente"
-image: /uploads/2021/images-N2.jpg
-video: nil
-audio: nil
-alt: Entrega Normal Superior “Profr. José E. Medrano R.” 797 cartas de pasante
+image: "/uploads/2021/images-N2.jpg"
+video: "nil"
+audio: "nil"
+alt: "Entrega Normal Superior “Profr. José E. Medrano R.” 797 cartas de pasante"
 front: false
-section: Local
+section: "Local"
+news_id: 185794
 ---
 
 La Escuela Normal Superior “Profr. José E. Medrano R.” llevó a cabo la ceremonia de graduación de 797 estudiantes que concluyeron sus estudios de Licenciatura y Maestría en las unidades académicas de Chihuahua, Juárez, Parral y Nuevo Casas Grandes, así como en las extensiones de Cuauhtémoc y Creel.

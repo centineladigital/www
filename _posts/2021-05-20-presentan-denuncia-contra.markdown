@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Por declaraciones dentro del debate en contra de la ex aspirante a la alcaldía de Chihuahua."
-image: /uploads/2021/images-lucia.jpg
-video: nil
-audio: /uploads/2021/audio-MJ05_LUCIA_CHAVIRA_.mp3
-alt: Presentan denuncia contra Bonilla por violencia de género
+image: "/uploads/2021/images-lucia.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ05_LUCIA_CHAVIRA_.mp3"
+alt: "Presentan denuncia contra Bonilla por violencia de género"
 front: false
-section: Local
+section: "Local"
+news_id: 184573
 ---
 
 Una denuncia por violencia en contra de la mujer fue puesta en contra de Marco Antonio Bonilla ante el Instituto Estatal Electoral, esto por parte de Lucía Chavira Acosta. Señalando que la razón es ejercer una conducta constitutiva de violencia política en razón de género.

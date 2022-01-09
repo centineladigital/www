@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Con esta estrategia se ciudadaniza la toma de decisiones y se orienta el logro de objetivos e inversiones; en alianza con alcaldes, alcaldesas y comités ciudadanos, cada Junta Rural o Municipal de Agua y Saneamiento determina obras, planeación y programación, informa la JCAS en “Logros con Valor”"
-image: /uploads/2021/images-4.jpg
-video: nil
-audio: nil
-alt: Es Plan Estatal Hídrico 2040  poderosa herramienta reconocida a nivel nacional
+image: "/uploads/2021/images-4.jpg"
+video: "nil"
+audio: "nil"
+alt: "Es Plan Estatal Hídrico 2040  poderosa herramienta reconocida a nivel nacional"
 front: false
-section: Local
+section: "Local"
+news_id: 187052
 ---
 
 El Plan Estatal Hídrico 2040 ha sido puesto ya como una referencia a nivel nacional por la manera en cómo se elaboró, con la participación de todos los sectores y foros en todo el estado, además de su esquema de seguimiento, señaló el director ejecutivo de la Junta Central de Agua y Saneamiento (JCAS), Oscar Ibáñez Hernández.

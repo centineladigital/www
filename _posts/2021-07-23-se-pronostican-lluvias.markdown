@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Es importante continuar acatando las recomendaciones para evitar incidentes dentro del hogar o en la vía pública"
-image: /uploads/2021/images-unnamed_(4).jpg
-video: nil
-audio: nil
-alt: Se pronostican lluvias para el sábado en la ciudad
+image: "/uploads/2021/images-unnamed_(4).jpg"
+video: "nil"
+audio: "nil"
+alt: "Se pronostican lluvias para el sábado en la ciudad"
 front: false
-section: Local
+section: "Local"
+news_id: 185941
 ---
 
 La Coordinación Municipal de Protección Civil, dio a conocer que para el sábado existe alta probabilidad de que se presenten lluvias en la capital del estado, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional, por lo cual es importante continuar acatando las recomendaciones para evitar incidentes dentro del hogar o en la vía pública.

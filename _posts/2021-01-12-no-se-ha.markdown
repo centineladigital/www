@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Continúan los casos de forma estable aún no se registra repunte."
-image: /uploads/2021/images-LETICIA_RUIZ.jpg
-video: nil
-audio: /uploads/2021/audio-MM01_LETICIA_RUIZ.mp3
-alt: No se ha salido de proporción contagios COVID
+image: "/uploads/2021/images-LETICIA_RUIZ.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM01_LETICIA_RUIZ.mp3"
+alt: "No se ha salido de proporción contagios COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 182078
 ---
 
 No hay un incremento considerable en los casos de contagios de coronavirus, esto luego de que en las últimas 24 horas se detectaron solamente 145 nuevos casos y se acreditaron solamente 2 defunciones, según lo dio a conocer la Directora de Medicina Preventiva Leticia Ruiz González.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz señaló que ninguna pareja está diseñada para permanecer junta tantos años; habló de los proyectos que hizo a lado de Alejandro Camacho. "
-image: /uploads/2021/images-rebecca-jones-revela-divorcio-alejandro_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: Muy difícil -  Rebecca Jones revela por qué se divorció de Alejandro Camacho
+image: "/uploads/2021/images-rebecca-jones-revela-divorcio-alejandro_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "Muy difícil -  Rebecca Jones revela por qué se divorció de Alejandro Camacho"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186635
 ---
 
 Rebecca Jones es una de estrella de las telenovelas mexicanas. Ha protagonizado legendarios melodramas de la pantalla chica, entre ellas Cuna de lobos, Imperio de cristal, Para volver a amar y El ángel caído. La actriz se casó con Alejandro Camacho en 1986, y durante años fue considerado uno de los matrimonios más sólidos del espectáculo nacional hasta que anunciaron su divorcio en 2011. 

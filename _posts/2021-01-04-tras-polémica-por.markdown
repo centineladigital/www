@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En una entrevista para el programa matutino 'Hoy', el actor habló de su próximo proyecto televisivo que sale al aire el 18 de enero. "
-image: /uploads/2021/images-gabriel-soto-instagram-1.jpg
-video: nil
-audio: nil
-alt: Tras polémica por video filtrado, Gabriel Soto protagonizará telenovela '¿Te acuerdas de mí?'
+image: "/uploads/2021/images-gabriel-soto-instagram-1.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tras polémica por video filtrado, Gabriel Soto protagonizará telenovela '¿Te acuerdas de mí?'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181864
 ---
 
 Luego de la polémica que vivió Gabriel Soto por la filtración de un video íntimo, que le trajo criticas por parte de su ex esposa, Geraldine Bazán, parece que el actor ya 'pasó página', pues actualmente se encuentra enfocado en su siguiente proyecto televisivo. Fue a través de una entrevista en el programa Hoy donde el también galán de Irina Baeva contó más detalles de la telenovela donde tendrá un rol protagónico, ¿Te acuerdas de mí?. Destaca que esta ficción comenzará a transmitirse el próximo 18 de enero.  

@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "A fin de incentivar el consumo local y difundir lo que se hace y se produce en Chihuahua desde el sector agropecuario."
-image: /uploads/2021/images-unnamed_(6).jpg
-video: nil
-audio: nil
-alt: Promueven el consumo y turismo local a través del recetario “Consume Chihuahua”
+image: "/uploads/2021/images-unnamed_(6).jpg"
+video: "nil"
+audio: "nil"
+alt: "Promueven el consumo y turismo local a través del recetario “Consume Chihuahua”"
 front: false
-section: Local
+section: "Local"
+news_id: 185814
 ---
 
 A fin de incentivar el consumo local y difundir lo que se hace y se produce en Chihuahua desde el sector agropecuario, se llevó a cabo el lanzamiento del segundo recetario “Consume Chihuahua” en un esfuerzo coordinado entre Gobierno Municipal, el Consejo Estatal Agropecuario (CEACH), la Dirección de Desarrollo Rural y Estado.

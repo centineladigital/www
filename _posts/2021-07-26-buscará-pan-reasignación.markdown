@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señalan numerosos errores en la repartición de regidurías."
-image: /uploads/2021/images-PACO.jpg
-video: nil
-audio: /uploads/2021/audio-ML01_PACO_NAVARRO.mp4
-alt: Buscará PAN reasignación de regidores
+image: "/uploads/2021/images-PACO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML01_PACO_NAVARRO.mp4"
+alt: "Buscará PAN reasignación de regidores"
 front: false
-section: Local
+section: "Local"
+news_id: 185996
 ---
 
 El Partido Acción Nacional buscará ante la Asamblea Municipal de IEE la revisión de criterios tras favorecer a MORENA en asignación de regidores, según lo expresó el dirigente de este organismo político a nivel municipal, Francisco Navarro Pastrana.

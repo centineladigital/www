@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Aunque en un inicio habían revelado que todo estaba bien, hoy se confirma que la pareja se separa, pues según mencionaron funcionan mejor como “amigos”. "
-image: /uploads/2021/images-jennifer-lopez-separa-alex-rodriguez_0_53_900_560.jpg
-video: nil
-audio: nil
-alt: Somos mejores como amigos; Jennifer López y Alex Rodríguez terminan su relación amorosa
+image: "/uploads/2021/images-jennifer-lopez-separa-alex-rodriguez_0_53_900_560.jpg"
+video: "nil"
+audio: "nil"
+alt: "Somos mejores como amigos; Jennifer López y Alex Rodríguez terminan su relación amorosa"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183911
 ---
 
 Jennifer López y Alex Rodríguez se han visto en polémica en las últimas semanas tras varios rumores sobre si habría una separación en puerta, luego de que aseguraran que había un tema de infidelidad que los distanciaba. Aunque en un inicio habían revelado que todo estaba bien, hoy se confirma que la pareja se separa, pues según mencionaron funcionan mejor como “amigos”. La noticia la dieron a conocer en el programa Today, en éste aseguraron que esperan seguir manteniendo su lazo de amistad, pues funcionan mejor así que en el plano amoroso. Esto luego de que se rumorara de que Alex Rodríguez había engañado a JLO. “Nos hemos dado cuenta de que somos mejores como amigos y esperamos seguir siéndolo”, dijeron al programa Today. 

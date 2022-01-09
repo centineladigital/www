@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Dempsey también volverá a la pantalla grande con la secuela de 'Encantada' este 2021. "
-image: /uploads/2021/images-patrick-dempsey-regreso-temporada-grey.jpg
-video: nil
-audio: nil
-alt: ¿Será un ángel? Así será el regreso de Patrick Dempsey a 'Grey's Anatomy'
+image: "/uploads/2021/images-patrick-dempsey-regreso-temporada-grey.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Será un ángel? Así será el regreso de Patrick Dempsey a 'Grey's Anatomy'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182154
 ---
 
 Hace un par de semanas el actor estadunidense Patrick Dempsey confirmó su regreso a la exitosa serie Grey's Anatomy para interpretar al neurocirujano Derek Shepherd, personaje al que dio vida durante diez años, desde la primera temporada que se entrenó en 2005 hasta el trágico accidente en el que el medico falleció atropellado en el capítulo “Salvar una vida”. El drama medico escrito por Shonda Rhimes regresará con su una nueva entrega el próximo 4 de marzo tras seis años de ausencia. 

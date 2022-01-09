@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los equipos de transición de llevaron a cabo el último encuentro oficial para la entrega de información del estado en que se encuentran las diferentes dependencias municipales; en esta quinta y última reunión el Gobierno Municipal expuso los temas del gabinete social"
-image: /uploads/2021/images-unnamed_(10).jpg
-video: nil
-audio: nil
-alt: Informa Gobierno Municipal estado del gabinete social en última reunión de transición
+image: "/uploads/2021/images-unnamed_(10).jpg"
+video: "nil"
+audio: "nil"
+alt: "Informa Gobierno Municipal estado del gabinete social en última reunión de transición"
 front: false
-section: Local
+section: "Local"
+news_id: 186495
 ---
 
 En esta mesa se presentaron informes relativos al estado que guardan la Dirección de Desarrollo Humano y Educación, el DIF Municipal, la Dirección de Desarrollo Rural, el Instituto Municipal de las Mujeres, el Instituto de Cultura Municipal, el Instituto Municipal de Pensiones y el Instituto Municipal de Cultura Física y Deporte.  

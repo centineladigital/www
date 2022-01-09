@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El Tri se impuso 3-1 a los nipones y con ello le dio a la delegación nacional su cuarta medalla de bronce en lo que va de la justa veraniega   "
-image: /uploads/2021/images-mexico-gano-medalla-bronce-tokio_0_45_1024_637.jpg
-video: nil
-audio: nil
-alt: México vence a Japón y gana medalla de bronce en Juegos Olímpicos de Tokio 2020
+image: "/uploads/2021/images-mexico-gano-medalla-bronce-tokio_0_45_1024_637.jpg"
+video: "nil"
+audio: "nil"
+alt: "México vence a Japón y gana medalla de bronce en Juegos Olímpicos de Tokio 2020"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186369
 ---
 
 Guillermo Ochoa se hincó, empuñó las manos y festejó el bronce que obtuvo la selección mexicana, tras ganarle a Japón 3-1. Mientras tanto, Jesús Ángulo y Luis Romo trataron de levantar a Takefusa Kubo, quien tras el silbatazo del árbitro se tiró en el césped ,al igual que varios de sus compañeros. 

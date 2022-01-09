@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La familia del músico dio a conocer la triste noticia a través de un comunicado."
-image: /uploads/2021/images-baterista-reconocido-mundo-metal-instagram.jpg
-video: nil
-audio: nil
-alt: Joey Jordison, baterista y fundador de 'Slipknot', murió a los 46 años
+image: "/uploads/2021/images-baterista-reconocido-mundo-metal-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "Joey Jordison, baterista y fundador de 'Slipknot', murió a los 46 años"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186055
 ---
 
 El gremio de la música, sobre todo enfocado en el metal, está de luto, pues Joey Jordison, quien fue baterista y fundador de Slipknot, banda estadunidense formada en 1995, falleció a los 46 años, así lo dio a conocer su familia. "Estamos desconsolados al compartir la noticia de que Joey Jordison, prolífico baterista, músico y artista, falleció pacíficamente mientras dormía el 26 de julio de 2021. Tenía 46 años", se lee en un comunicado emitido por los parientes de Jordison.

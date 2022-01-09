@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto en colaboración con la Universidad Autónoma de Chihuahua."
-image: /uploads/2021/images-ROBERTO_DIAZ.jpeg
-video: nil
-audio: /uploads/2021/audio-ML04_ROBERTO_DIAZ.mp3
-alt: Difunden sistema de justicia penal con universidades
+image: "/uploads/2021/images-ROBERTO_DIAZ.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-ML04_ROBERTO_DIAZ.mp3"
+alt: "Difunden sistema de justicia penal con universidades"
 front: false
-section: Local
+section: "Local"
+news_id: 182789
 ---
 
 Dentro de los trabajos para difundir el el sistema de justicia penal en diversos sectores de la sociedad, el Poder Judicial lleva a cabo una serie de actividades con el fin de tener más  vinculación con las universidades a través del Centro Estatal para la Consolidación del Sistema de Justicia Penal, según lo dio a conocer el del Secretario Proyectista de la Quinta Sala Penal, Roberto Díaz Serrano. 

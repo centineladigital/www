@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Ante una baja de reservas de recursos  y que no se están produciendo los impuestos que se tiene que pagar dado a la situación económica actual"
-image: /uploads/2021/images-EFEFEF.jpg
-video: nil
-audio: /uploads/2021/audio-AW01_JORGE_CRUZ.mp3
-alt: Necesario estar pendientes ante propuestas que atenten contra los ahorros de los trabajadores -  Coparmex 
+image: "/uploads/2021/images-EFEFEF.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AW01_JORGE_CRUZ.mp3"
+alt: "Necesario estar pendientes ante propuestas que atenten contra los ahorros de los trabajadores -  Coparmex "
 front: false
-section: Local
+section: "Local"
+news_id: 184547
 ---
 
 Ante la propuesta del diputado Edelmiro Santiago de nacionalizar las Administradoras de Fondos para el Retiro (Afore) de los trabajadores mexicanos para usar este dinero en las obras y programas que impulsa el gobierno, el presidente de Coparmex, Jorge Cruz, destacó que si bien sólo fue una propuesta, es necesario estar al pendiente de cualquier situación que agreda o le paga a los ahorros de los trabajadores. 

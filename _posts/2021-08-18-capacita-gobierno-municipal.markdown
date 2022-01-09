@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los certificados fueron entregados por las autoridades a los 20 elementos que completaron su formación, pertenecientes a la empresa grupo OMEGA"
-image: /uploads/2021/images-unnamed.jpg
-video: nil
-audio: nil
-alt: Capacita Gobierno Municipal a personal de seguridad del Parque Metropolitano Tres Presas
+image: "/uploads/2021/images-unnamed.jpg"
+video: "nil"
+audio: "nil"
+alt: "Capacita Gobierno Municipal a personal de seguridad del Parque Metropolitano Tres Presas"
 front: false
-section: Local
+section: "Local"
+news_id: 186857
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM) y la Dirección de Seguridad Pública Municipal (DSPM) hicieron entrega de certificados de capacitación a personal de seguridad privada que presta servicios al Parque Metropolitano Tres Presas.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La Coordinación Estatal de Protección Civil informa que varios municipios reportaron afectaciones como el colapso de árboles y cables, al igual que desprendimiento de techos por fuertes rachas de viento; cae nieve en Madera y se prevé que se extienda a Temósachic hoy miércoles 17  "
-image: /uploads/2021/images-7.jpg
-video: nil
-audio: nil
-alt: Alerta por caída de aguanieve en Chihuahua, Delicias  y Ojinaga esta noche
+image: "/uploads/2021/images-7.jpg"
+video: "nil"
+audio: "nil"
+alt: "Alerta por caída de aguanieve en Chihuahua, Delicias  y Ojinaga esta noche"
 front: false
-section: Local
+section: "Local"
+news_id: 182983
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que durante este miércoles 17 de febrero se presentarán lluvias en el occidente, noroeste, centro y noreste de la entidad, mientras que por la noche se prevé aguanieve en Chihuahua, Delicias y Ojinaga.

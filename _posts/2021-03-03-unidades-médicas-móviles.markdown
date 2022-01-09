@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Comparece Eduardo Fernández Herrera ante la Comisión Especial de Análisis de los Informes del Poder Ejecutivo en el Congreso del Estado y destaca incremento en atención de las brigadas médicas"
-image: /uploads/2021/images-ATENCION_SALUD_3.JPG
-video: nil
-audio: nil
-alt: Unidades Médicas Móviles de Salud lograron 52 mil consultas en comunidades del estado
+image: "/uploads/2021/images-ATENCION_SALUD_3.JPG"
+video: "nil"
+audio: "nil"
+alt: "Unidades Médicas Móviles de Salud lograron 52 mil consultas en comunidades del estado"
 front: false
-section: Local
+section: "Local"
+news_id: 183252
 ---
 
 En el último año la Secretaría de Salud incrementó la atención médica a distancia a través de los servicios que ejercen las Unidades Médicas Móviles, destacó el secretario  Eduardo Fernández Herrera, en el marco de su comparecencia ante la Comisión Especial de Análisis de los Informes del Poder Ejecutivo en el Congreso del Estado.

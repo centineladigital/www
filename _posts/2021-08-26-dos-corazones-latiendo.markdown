@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante afina los últimos detalles de su próxima gira musical, la cual realizará mientras disfruta de su embarazo. "
-image: /uploads/2021/images-mon_dos_corazones.jpg
-video: nil
-audio: nil
-alt: Dos corazones latiendo -  Mon Laferte habla de cómo el embarazo cambió su vida
+image: "/uploads/2021/images-mon_dos_corazones.jpg"
+video: "nil"
+audio: "nil"
+alt: "Dos corazones latiendo -  Mon Laferte habla de cómo el embarazo cambió su vida"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187159
 ---
 
 Mon Laferte se convertirá en madre muy pronto, pero mientras disfruta de la dulce espera la cantante chilena ya alista su próxima gira por Estados Unidos. La intérprete de "Mi buen amor" expresó la inmensa felicidad que le ha dado su embarazo y señaló que esta nueva etapa de su carrera promete ser mágica y muy conmovedora con el futuro nacimiento de su primer bebé. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto ya que en Chihuahua se encuentra la recuperación del país."
-image: /uploads/2021/images-MARIO.jpg
-video: nil
-audio: /uploads/2021/audio-MM06_MARIO_VAZQUEZ.mp3
-alt: Momento de revelaciónes -  Vazquez
+image: "/uploads/2021/images-MARIO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM06_MARIO_VAZQUEZ.mp3"
+alt: "Momento de revelaciónes -  Vazquez"
 front: false
-section: Local
+section: "Local"
+news_id: 184648
 ---
 
 Es el momento de las grandes decisiones, fueron las palabras del candidato del PAN al distrito décimo sexto, Mario Vázquez Robles. Quien dijo que la suma de Fernando Baeza, así como la versión de que se sumaría Graciela Ortiz representa un mensaje de resistencia al avance del populismo.

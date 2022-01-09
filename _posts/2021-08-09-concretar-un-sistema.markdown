@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "El presidente instruyó que junto con el IMSS e INSABI busquemos la manera de ampliar la atención médica, agregó. "
-image: /uploads/2021/images-ISSSTE_06.jpeg
-video: nil
-audio: nil
-alt: Concretar un sistema universal de salud, objetivo del gobierno federal -  Ramírez Pineda
+image: "/uploads/2021/images-ISSSTE_06.jpeg"
+video: "nil"
+audio: "nil"
+alt: "Concretar un sistema universal de salud, objetivo del gobierno federal -  Ramírez Pineda"
 front: false
-section: Local
+section: "Local"
+news_id: 186461
 ---
 
 El Gobierno de México avanza en el objetivo de concretar un sistema universal de salud en todo el país, a través del aprovechamiento de los recursos humanos y materiales, espacios físicos y equipos médicos de todo el sector salud, señaló el director general del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), Luis Antonio Ramírez Pineda.  

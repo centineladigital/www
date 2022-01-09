@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Los mexicanos tuvieron una buena actuación, pero no les alcanzó para subir al podio"
-image: /uploads/2021/images-E7XTBzQWYAMFnY_.jpg
-video: nil
-audio: nil
-alt: Yahel Castillo y Juan Celaya pierden el bronce en clavados de Tokio 2020
+image: "/uploads/2021/images-E7XTBzQWYAMFnY_.jpg"
+video: "nil"
+audio: "nil"
+alt: "Yahel Castillo y Juan Celaya pierden el bronce en clavados de Tokio 2020"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186056
 ---
 
 Los clavadistas Yahel Castillo y Juan Celaya se quedaron con el cuarto lugar en los Juegos Olímpicos de Tokio 2020 luego de fallar el último clavado y cuando ya tenían prácticamente asegurado ese metal, el cual se quedó Alemania. 

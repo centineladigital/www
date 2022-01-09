@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Confirma Salud 37 casos y 6 nuevos decesos en las últimas horas en Chihuahua (1), Parral (1), Cuauhtémoc (2), Camargo(1) y ciudad Madera (1)"
-image: /uploads/2021/images-Diapositiva2.JPG
-video: nil
-audio: nil
-alt: Suman 56,844 contagios y 5,504 fallecimientos por COVID-19 en el estado
+image: "/uploads/2021/images-Diapositiva2.JPG"
+video: "nil"
+audio: "nil"
+alt: "Suman 56,844 contagios y 5,504 fallecimientos por COVID-19 en el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 183434
 ---
 
 La Secretaría de Salud reportó un total general de 56 mil 844 casos confirmados de COVID-19, luego que se sumaran 37 contagios, de acuerdo al último reporte epidemiológico de la situación de la pandemia en la entidad.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En el reality 'La Casa de los Famosos', la actitud de Kimberly Flores y Roberto Romano ha dado mucho de qué hablar, pues pareciera haber una tensión amorosa. Alicia Machado explotó y recalcó que es una falta de respeto para Edwin Luna."
-image: /uploads/2021/images-infiel-edwin-luna-alicia-machado.jpg
-video: nil
-audio: nil
-alt: Es casada -  Alicia Machado 'explota' contra Kimberly Flores por coqueteo con Romano en reality show
+image: "/uploads/2021/images-infiel-edwin-luna-alicia-machado.jpg"
+video: "nil"
+audio: "nil"
+alt: "Es casada -  Alicia Machado 'explota' contra Kimberly Flores por coqueteo con Romano en reality show"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 187284
 ---
 
 ‘La Casa de los Famosos’ de Telemundo ha dado mucho de qué hablar, pues los integrantes del reality show han causado polémicas de diferente tipo. Sobre todo Kimberly Flores, esposa de Edwin Luna, cantante de regional mexicano, pues aparentemente ha tenido un clic romántico con Roberto Romano. Por ello, las redes sociales explotaron ante una posible infidelidad por parte de la famosa. Incluso, Alicia Machado arremetió en contra de Kimberly Flores, pues asegura que no está respetando su matrimonio. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Espera el partido lograr un candidato de unidad."
-image: /uploads/2021/images-ROCIO_REZA.jpg
-video: nil
-audio: /uploads/2021/audio-ML05_ROCIO_REZA.mp3
-alt: Afirma PAN unión dentro de contienda
+image: "/uploads/2021/images-ROCIO_REZA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML05_ROCIO_REZA.mp3"
+alt: "Afirma PAN unión dentro de contienda"
 front: false
-section: Local
+section: "Local"
+news_id: 181860
 ---
 
 "Llegaremos unidos" fueron las palabras de la Dirigente del Partido Acción Nacional en el Estado, Rocío Reza Gallegos, esto al presentar a los aspirantes a la candidatura quienes presentaron su posicionamiento referente a la contienda interna del Partido. 

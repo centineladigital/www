@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La cantante Lady Gaga es la encargada de entonar el himno nacional de Estados Unidos en el marco de la toma de posesión de Joe Biden. "
-image: /uploads/2021/images-lady-gaga-primeras-mostrar-apoyo.jpg
-video: nil
-audio: nil
-alt: Es un honor para mí -  Lady Gaga sobre su participación cantando el himno en la investidura de Biden
+image: "/uploads/2021/images-lady-gaga-primeras-mostrar-apoyo.jpg"
+video: "nil"
+audio: "nil"
+alt: "Es un honor para mí -  Lady Gaga sobre su participación cantando el himno en la investidura de Biden"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182286
 ---
 
 Hoy es el gran para Joe Biden, pues asumirá el cargo como presidente de Estados Unidos después de una serie de eventos desafortunados en el Capitolio, a principios de este año. Al respecto, Lady Gaga escribió un mensaje en torno a su participación durante la ceremonia de transición. La cantante de 34 años, quien fue una de las primeras celebridades en festejar la victoria del ex senador de Delaware, será la encargada de cantar el himno nacional del país vecino. Es por eso que a través de su cuenta de Twitter, la también actriz mencionó que entonar el himno es un honor para ella y que cantará con el corazón. 

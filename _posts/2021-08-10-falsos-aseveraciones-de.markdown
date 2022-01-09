@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Mesta Soulé, calificó como falsos las declaraciones de Luis Serrato en materia del déficit que se tiene dentro de la presente administración. "
-image: /uploads/2021/images-FERNANDO.jpg
-video: /uploads/2021/videos-MM05_FERNANDO_MESTA.mp4
-audio: nil
-alt: Falsos aseveraciones de déficit -  Mesta 
+image: "/uploads/2021/images-FERNANDO.jpg"
+video: "/uploads/2021/videos-MM05_FERNANDO_MESTA.mp4"
+audio: "nil"
+alt: "Falsos aseveraciones de déficit -  Mesta "
 front: false
-section: Local
+section: "Local"
+news_id: 186535
 ---
 
 El Secretario General de Gobierno, Fernando Mesta Soulé, calificó como falsos las declaraciones de Luis Serrato en materia del déficit que se tiene dentro de la presente administración. Esto ya que pese a que no se ha negado que se tengan problemas dentro de las finanzas estatales.

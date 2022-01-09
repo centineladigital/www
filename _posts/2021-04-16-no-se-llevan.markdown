@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante el funeral de Patricio Castillo sus hijos y viuda protagonizaron un malentendido enfrente de los medios. Esto fue lo qué pasó. "
-image: /uploads/2021/images-hijos-viuda-actor-dejaron-llevan.jpg
-video: nil
-audio: nil
-alt: ¿No se llevan bien? Hijos y viuda de Patricio Castillo tienen malentendido en funeral del actor
+image: "/uploads/2021/images-hijos-viuda-actor-dejaron-llevan.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿No se llevan bien? Hijos y viuda de Patricio Castillo tienen malentendido en funeral del actor"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 183926
 ---
 
 Este 15 de abril se informó que el actor Patricio Castillo falleció a los 81 años después de haber estado hospitalizado varios días como consecuencia de unos problemas pulmonares. Ayer mismo en la noche se llevó a cabo su funeral en donde diversas personalidades el espectáculo acudieron para despedirse del chileno, pero lo que llamó la atención es el conflicto que protagonizaron los hijos de Castillo y su viuda. A través de una entrevista que dio a varios medios, la cual fue retomada por Sale el Sol, Haunani Ruíz, viuda de Patricio Castillo, habló sobre el fallecimiento de su esposo después de tener problemas en los pulmones.

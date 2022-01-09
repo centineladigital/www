@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Los números bajos tanto en personas contagiadas como defunciones se debe a que el lunes fue día festivo."
-image: /uploads/2021/images-arturo.jpg
-video: nil
-audio: /uploads/2021/audio-MM01.mp3
-alt: Solo 37 casos COVID detectados en 24 horas
+image: "/uploads/2021/images-arturo.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM01.mp3"
+alt: "Solo 37 casos COVID detectados en 24 horas"
 front: false
-section: Local
+section: "Local"
+news_id: 183444
 ---
 
 Solamente 37 casos fueron detectados vía PCR durante las últimas 24 horas, según lo dio a conocer el Subdirector Médico Zona Norte, Arturo Valenzuela Zorrilla. Esto al dar a conocer las cifras de actualización de la pandemia, donde en este mismo periodo se acreditaron 6 muertes por este mismo padecimiento.

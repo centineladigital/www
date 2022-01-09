@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En noviembre del año pasado, Dolly Parton ayudó a financiar un ensayo clínico inicial de la vacuna de Moderna. "
-image: /uploads/2021/images-dolly-parton-considerada-mejores-cantantes_0_67_800_497.jpg
-video: nil
-audio: nil
-alt: Dolly Parton revela por qué no ha recibido vacuna anticovid, pese a donar 1 mdd para su investigación
+image: "/uploads/2021/images-dolly-parton-considerada-mejores-cantantes_0_67_800_497.jpg"
+video: "nil"
+audio: "nil"
+alt: "Dolly Parton revela por qué no ha recibido vacuna anticovid, pese a donar 1 mdd para su investigación"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182644
 ---
 
 En noviembre del año pasado se dio a conocer que Dolly Parton financió la investigación de la vacuna contra el covid-19 de Moderna con un millón de dólares. La artista figura en el informe preliminar como uno de los principales inversores de la investigación científica. 

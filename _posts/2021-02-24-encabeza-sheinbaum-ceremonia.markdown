@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "la jefa de Gobierno dio cumplimiento a lo establecido en el artículo 25 de la Ley sobre el Escudo, la Bandera y el Himno Nacional, que trata sobre la entrega oficial del lábaro patrio a organizaciones o instituciones civiles"
-image: /uploads/2021/images-2535051.jpg
-video: nil
-audio: nil
-alt: Encabeza Sheinbaum ceremonia del Día de la Bandera
+image: "/uploads/2021/images-2535051.jpg"
+video: "nil"
+audio: "nil"
+alt: "Encabeza Sheinbaum ceremonia del Día de la Bandera"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 183130
 ---
 
 En el marco de la conmemoración del Día de la Bandera, la jefa de Gobierno de la Ciudad de México, Claudia Sheinbaum, tomó protesta de bandera a titulares de diversas dependencias capitalinas y planteles escolares.

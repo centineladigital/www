@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "No hay claridad en el artículo 3 transitorio"
-image: /uploads/2021/images-gfeewg.jpg
-video: nil
-audio: /uploads/2021/audio-AL02_MIGUEL_COLUNGA.mp3
-alt: Aumentan a casi 1,900 mdp crédito solicitado por el gobernador 
+image: "/uploads/2021/images-gfeewg.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AL02_MIGUEL_COLUNGA.mp3"
+alt: "Aumentan a casi 1,900 mdp crédito solicitado por el gobernador "
 front: false
-section: Local
+section: "Local"
+news_id: 182232
 ---
 
 El coordinador de los legisladores de Morena, Miguel Colunga, dio a conocer que en vez de mil 634 millones de pesos de crédito, se están solicitando mil 898 millones de pesos, lo cual representa un incremento de 264 millones de pesos más, además de autorizar la modificación del presupuesto de egresos para pagos de adeudos y reorientación de montos. 

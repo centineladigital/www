@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Fue durante la inauguración de la tienda de ropa en la plaza Mundo E, en donde Galilea Montijo fue captada presuntamente por pasarse de copas. ¿Estaba borracha durante su festejo? "
-image: /uploads/2021/images-galilea-montijo-pleito-sebastian-rulli.jpg
-video: nil
-audio: nil
-alt: Galilea Montijo revive polémica con Sebastián Rulli; la critican por estar 'tomada'
+image: "/uploads/2021/images-galilea-montijo-pleito-sebastian-rulli.jpg"
+video: "nil"
+audio: "nil"
+alt: "Galilea Montijo revive polémica con Sebastián Rulli; la critican por estar 'tomada'"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185233
 ---
 
 Galilea Montijo, conductora del programa Hoy, inauguró su boutique de ropa ayer en el Estado de México, logrando así cumplir el sueño que tenía antes de ser famosa. Durante el evento acudieron varios famosos y varios medios de comunicación. Como era de esperarse, emitió varias declaraciones sobre su nuevo negocio y retomó algunas polémicas recientes, por ejemplo la de Sebastián Rulli, luego de que el actor criticara a los famosos que pidieron voto por el PVEM. ¿No están enojados? Sin embargo, no todo salió bien para la tapatía, pues internautas comenzaron a señalarla y criticarla por presuntamente aparecer un poco tomada. ¿Estaba borracha? Te contamos lo que sabemos sobre esta nueva polémica. Fue durante la inauguración de la tienda de ropa en la plaza Mundo E, en donde Galilea Montijo fue captada presuntamente con unas copas de más. ¿Estaba borracha durante su festejo? 

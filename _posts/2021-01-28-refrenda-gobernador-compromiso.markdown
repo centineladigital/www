@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Felicita Javier Corral al presidente de la Comisión Estatal de Derechos Humanos, Néstor Armendáriz, por su Informe de Actividades 2020"
-image: /uploads/2021/images-NESTOR_ARMENDARIZ_2_.jpg
-video: nil
-audio: nil
-alt: Refrenda Gobernador compromiso con promoción y defensa de los Derechos Humanos
+image: "/uploads/2021/images-NESTOR_ARMENDARIZ_2_.jpg"
+video: "nil"
+audio: "nil"
+alt: "Refrenda Gobernador compromiso con promoción y defensa de los Derechos Humanos"
 front: false
-section: Local
+section: "Local"
+news_id: 182537
 ---
 
 Al participar virtualmente en el Informe de Actividades 2020 del titular de la CEDH, Néstor Armendáriz Loya, el gobernador Javier Corral Jurado refrendó el compromiso del Gobierno del Estado en la promoción y defensa de los Derechos Humanos.

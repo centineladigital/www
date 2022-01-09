@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Los hermanos pueden ser los mejores amigos y confidentes, siempre que se respete la individualidad, se escuche el consejo y se acepte la corrección, se promueva la competencia sana y enfocada a la mejora continua y el trabajo en equipo por un bien colectivo"
-image: /uploads/2021/images-WhatsApp_Image_2021-09-11_at_11.54.57.jpeg
-video: nil
-audio: /uploads/2021/audio-WhatsApp_Audio_2021-09-11_at_11.55.17.mp4
-alt: Tener hermanos impacta en el desarrollo cognitivo, el lenguaje y relaciones sociales -  Especialista UACH
+image: "/uploads/2021/images-WhatsApp_Image_2021-09-11_at_11.54.57.jpeg"
+video: "nil"
+audio: "/uploads/2021/audio-WhatsApp_Audio_2021-09-11_at_11.55.17.mp4"
+alt: "Tener hermanos impacta en el desarrollo cognitivo, el lenguaje y relaciones sociales -  Especialista UACH"
 front: false
-section: Local
+section: "Local"
+news_id: 187658
 ---
 
 Así lo afirmó el maestro Andrés Octavio Pérez Estrada, responsable de la Unidad de Programas y Proyectos Especiales del Departamento de Atención Integral al Estudiante (DAIE) de la UACH, en el marco del Día Mundial del Hermano que se conmemoró en diversos países el pasado 5 de septiembre.

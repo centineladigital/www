@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señala acciones negativas para el campo."
-image: /uploads/2021/images-carlostp1.jpg
-video: nil
-audio: /uploads/2021/audio-MM07_CARLOS_MANJARREZ.mp3
-alt: Toma protesta nuevo dirigente de la LCA en Chihuahua
+image: "/uploads/2021/images-carlostp1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM07_CARLOS_MANJARREZ.mp3"
+alt: "Toma protesta nuevo dirigente de la LCA en Chihuahua"
 front: false
-section: Local
+section: "Local"
+news_id: 183115
 ---
 
 Este martes Carlos Manjarrez Domínguez tomó protesta como Presidente de la Liga de Comunidades Agrarias y Sindicatos Campesinos en el Estado, perteneciente a la Confederación Nacional Campesina.

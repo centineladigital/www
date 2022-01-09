@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Utilizaron figuras de plastilina para grabar cuadro por cuadro, La leyenda del gigante Kanoko, una antigua narración ralámuli (rarámuri), que presentaron en el Festival Virtual Indígena, informa Seech"
-image: /uploads/2021/images-Kanoko.jpg
-video: nil
-audio: nil
-alt: Producen estudiantes de primaria indígena video en técnica stop motion
+image: "/uploads/2021/images-Kanoko.jpg"
+video: "nil"
+audio: "nil"
+alt: "Producen estudiantes de primaria indígena video en técnica stop motion"
 front: false
-section: Local
+section: "Local"
+news_id: 183996
 ---
 
 Niñas y niños de una primaria de Educación Indígena en Cuauhtémoc elaboraron un video con la técnica denominada “stop motion”, para relatar una antigua narración ralámuli (rarámuri), La leyenda del gigante Kanoko.

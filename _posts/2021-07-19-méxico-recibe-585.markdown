@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con la llegada de este lote, México ha recibido un total de 74 millones 284 mil 175 vacunas anticovid en 110 vuelos y 96 embarques, informó Birmex a través de redes sociales. "
-image: /uploads/2021/images-Sin_título.jpg
-video: nil
-audio: nil
-alt: México recibe 585 mil vacunas anticovid de Pfizer
+image: "/uploads/2021/images-Sin_título.jpg"
+video: "nil"
+audio: "nil"
+alt: "México recibe 585 mil vacunas anticovid de Pfizer"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 185770
 ---
 
 Un nuevo lote de vacunas contra el covid-19 llegó a las 3:56 horas a la Terminal 1 del Aeropuerto Internacional de la Ciudad de México (AICM) con 585 mil dosis de la farmacéutica Pfizer y BioNTech. 

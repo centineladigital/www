@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Sin pena, el famoso comunicó la sorprendente noticia. Esto luego de que el domingo pasado compartiera que tenía varias ronchas en su piel sobre todo en manos, brazos, orejas y cabeza. "
-image: /uploads/2021/images-andrea_erick.jpg
-video: nil
-audio: nil
-alt: Chinches en su cama -  Erik Rubín y Andrea Legarreta descubren lo que ocasionó ronchas en su piel
+image: "/uploads/2021/images-andrea_erick.jpg"
+video: "nil"
+audio: "nil"
+alt: "Chinches en su cama -  Erik Rubín y Andrea Legarreta descubren lo que ocasionó ronchas en su piel"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182288
 ---
 
 Andrea Legarreta y su esposo Erik Rubín vivieron momentos de tensión en su hogar, pues se llevaron una desagradable sorpresa: tenían chinches en su cama. La pareja de famosos se dio cuenta, luego de que despertaran con numerosas ronchas sobre la piel. ¿Qué fue lo que pasó? Fue a través de la cuenta de Instagram de Erik Rubín en donde se dio a conocer la noticia. Sin pena, el famoso comunicó la sorprendente noticia. Esto luego de que el domingo pasado compartiera –por la misma red social– que tenía varias ronchas en su piel sobre todo en manos, brazos, orejas y cabeza. 

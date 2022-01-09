@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La actriz y cantante reveló que se puso tan grave y pensó lo peor, que hasta consideró hacer su testamento. "
-image: /uploads/2021/images-maribel-guardia-recupero-dicha-enfermedad.jpg
-video: nil
-audio: nil
-alt: No es un juego -  Maribel Guardia pensó hacer su testamento tras tener covid-19
+image: "/uploads/2021/images-maribel-guardia-recupero-dicha-enfermedad.jpg"
+video: "nil"
+audio: "nil"
+alt: "No es un juego -  Maribel Guardia pensó hacer su testamento tras tener covid-19"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 181877
 ---
 
 Maribel Guardia cerró el 2020 contando que tanto ella como su esposo Marco Chacón tuvieron covid-19. Ayer por la tarde, la actriz y cantante compartió una fotografía en la playa, acompaña de un texto en el que daba gracias a Dios por estar viva. Ahora, la costarricense reveló que se puso tan grave y pensó lo peor, que hasta consideró hacer su testamento, pues presentó síntomas como escalofríos, mala circulación, mucho cansancio, además de dolores de cuerpo y cabeza. 

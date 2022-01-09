@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Evita tratar guerra sucia exalcalde capitalino."
-image: /uploads/2021/images-MARCO.jpg
-video: nil
-audio: /uploads/2021/audio-ML07_MARCO_QUEZADA.mp3
-alt: Ataques tienen que ver con facilidad del PAN para ganar -  Quezada
+image: "/uploads/2021/images-MARCO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML07_MARCO_QUEZADA.mp3"
+alt: "Ataques tienen que ver con facilidad del PAN para ganar -  Quezada"
 front: false
-section: Local
+section: "Local"
+news_id: 183977
 ---
 
 “Los ataques tienen que ver con la preocupación que hay” fueron las palabras del candidato de Morena a la Alcaldía de Chihuahua, Marco Adán Quezada, quien señaló que los videos que se han dado a conocer por parte del partido albiazul quienes señalan que el exalcalde ha cometido actos anticipados de campaña.

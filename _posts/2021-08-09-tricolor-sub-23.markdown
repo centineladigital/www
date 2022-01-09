@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Entre mariachis, besos, abrazos, flores y muchos empujones fue recibido el combinado azteca que subió al podio en los Juegos Olímpicos de Tokio 2020 "
-image: /uploads/2021/images-seleccion-mexicana-gano-bronce-juegos_0_53_1200_746.jpg
-video: nil
-audio: nil
-alt: Tricolor Sub 23 regresa a México con el bronce de los Juegos Olímpicos
+image: "/uploads/2021/images-seleccion-mexicana-gano-bronce-juegos_0_53_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "Tricolor Sub 23 regresa a México con el bronce de los Juegos Olímpicos"
 front: false
-section: Deportes
+section: "Deportes"
+news_id: 186449
 ---
 
 Luego de conseguir la medalla de bronce al vencer al anfitrión, Japón en los Juegos Olímpicos de Tokio 2020, la Selección Mexicana encabezada por el técnico, Jaime Lozano, regresó a suelo azteca, y fueron recibidos cómo verdaderos campeones por un centenar de aficionados que se dieron cita en el aeropuerto internacional de la Ciudad de México. 

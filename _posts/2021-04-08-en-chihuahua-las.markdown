@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "No descartan que se viva una tercera oleada de casos de coronavirus."
-image: /uploads/2021/images-ARTURO1.jpg
-video: nil
-audio: /uploads/2021/audio-MJ03_ARTURO_VALENZUELA.mp3
-alt: En chihuahua las tres cepas COVID
+image: "/uploads/2021/images-ARTURO1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MJ03_ARTURO_VALENZUELA.mp3"
+alt: "En chihuahua las tres cepas COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 183772
 ---
 
 Ya se tienen detectadas tres cepas dentro del territorio estatal señaló el titular de la Dirección Médica Zona Norte, Arturo Valenzuela Zorrilla. Esto al ser cuestionado respecto a si en Chihuahua se sufrirá una tercera oleada de coronavirus.

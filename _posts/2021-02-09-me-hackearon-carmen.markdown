@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "A través de Twitter, la famosa externó que su cuenta de Facebook había sido hackeada. Expresó que nadie la escucha y que no le hacen caso. "
-image: /uploads/2021/images-carmen-salinas-conto-como-sucedio_0_166_1200_746.jpg
-video: nil
-audio: nil
-alt: Me hackearon -  Carmen Salinas anuncia que se quedó sin Facebook; pide ayuda
+image: "/uploads/2021/images-carmen-salinas-conto-como-sucedio_0_166_1200_746.jpg"
+video: "nil"
+audio: "nil"
+alt: "Me hackearon -  Carmen Salinas anuncia que se quedó sin Facebook; pide ayuda"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 182806
 ---
 
 Carmen Salinas preocupó a sus seguidores, pues aseguró que su cuenta de Facebook fue hackeada. Por ello, la actriz pidió ayuda. Externó que la red social sólo castiga a lo tonto, pero no muestra apoyo en un caso de hackeo. ¿ Qué hizo la famosa? ¿Por qué le hackearon su cuenta? Te contamos lo que sabemos.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El uruguayo es uno de los antagonistas de la segunda temporada de 'Luis Miguel, la serie'; conoce aquí más de su relación en la vida real con el cantante. "
-image: /uploads/2021/images-jose-perez-provoco-ruptura-luis_0_0_1200_747.jpg
-video: nil
-audio: nil
-alt: José Pérez, el asistente que provocó la ruptura de Luis Miguel y 'El Burro' Van Rankin
+image: "/uploads/2021/images-jose-perez-provoco-ruptura-luis_0_0_1200_747.jpg"
+video: "nil"
+audio: "nil"
+alt: "José Pérez, el asistente que provocó la ruptura de Luis Miguel y 'El Burro' Van Rankin"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184614
 ---
 
 La ausencia de Luisito Rey en la segunda temporada de Luis Miguel, la serie dio paso a que otros personajes tomaran el rol antagonista de la trama, uno de ellos es José Pérez, quien sí existió en la vida real e, incluso, formó parte del grupo de personas que eran de la total confianza de El Sol; sin embargo, la producción de Netflix mostró que el uruguayo cometió desfalcos y terminó traicionando al cantante. Pero, ¿quién era en la vida real José Pérez? Fue el asistente personal de Luis Miguel por alrededor de 10 años. Además de los conflictos que se muestran en la serie, Jorge El Burro Van Rankin también reveló que José Pérez provocó que su amistad con el cantante se fracturara. 

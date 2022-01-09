@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La conductora del programa matutino 'Hoy' publicó en Instagram una imagen donde presume el regalo que recibió de parte del reguetonero. "
-image: /uploads/2021/images-andrea-escalona-recibe-flores-jbalvin.jpg
-video: nil
-audio: nil
-alt: “¿Ya vieron quién mandó flores?”; J Balvin le envía regalo de cumpleaños a Andrea Escalona
+image: "/uploads/2021/images-andrea-escalona-recibe-flores-jbalvin.jpg"
+video: "nil"
+audio: "nil"
+alt: "“¿Ya vieron quién mandó flores?”; J Balvin le envía regalo de cumpleaños a Andrea Escalona"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186555
 ---
 
 Andrea Escalona, la famosa actriz de televisa y conductora del programa Hoy, cumplió 35 años el 06 de agosto, y celebró a lo grande con una maravillosa fiesta en el puerto de Acapulco. La propia actriz compartió diversos momentos de la celebración en la que participó su familia y amigos. 

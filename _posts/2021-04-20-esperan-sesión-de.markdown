@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esperan dar a conocer acciones tras la reunión."
-image: /uploads/2021/images-mirna.jpg
-video: nil
-audio: /uploads/2021/audio-MM02_MIRNA_BELTRAN.mp3
-alt: Esperan sesión de consejo de salud en 24 horas ante incremento de casos
+image: "/uploads/2021/images-mirna.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM02_MIRNA_BELTRAN.mp3"
+alt: "Esperan sesión de consejo de salud en 24 horas ante incremento de casos"
 front: false
-section: Local
+section: "Local"
+news_id: 184004
 ---
 
 Será en un lapso de 24 horas cuando el Consejo de Salud se reúna con el fin de tomar acciones relacionadas con la contingencia y la tercer ola que se avecina en el estado por la presencia de coronavirus, según fue dado a conocer por Mirna Beltrán Arzaga, Subsecretaria de Medicina Preventiva y Promoción de la Salud.

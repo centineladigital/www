@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esperan tener entre tres y cinco reuniones más, asegura César Peniche."
-image: /uploads/2021/images-CESAR1.jpg
-video: nil
-audio: /uploads/2021/audio-MV01_CESAR_PENICHE.mp3
-alt: No se tocaron temas de expedientes X en reunión -  Fiscal
+image: "/uploads/2021/images-CESAR1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MV01_CESAR_PENICHE.mp3"
+alt: "No se tocaron temas de expedientes X en reunión -  Fiscal"
 front: false
-section: Local
+section: "Local"
+news_id: 185353
 ---
 
 Tras llevarse a cabo la primera reunión en materia de seguridad con el equipo de transición no se tocó el tema de los expedientes X, según fue dado a conocer por parte del Fiscal General del Estado, César Augusto Peniche Espejel.

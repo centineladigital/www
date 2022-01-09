@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "En entrevista, Justin Lin aseguró que el personaje que interpretó Paul Walker, Brian O'Conner, sigue con vida dentro del universo de las películas protagonizadas por Vin Diesel. "
-image: /uploads/2021/images-brian-conner-interpretado-paul-walker.jpg
-video: nil
-audio: nil
-alt: Director de 'Rápidos y Furiosos 9' asegura que Brian O'Conner sigue vivo en la franquicia
+image: "/uploads/2021/images-brian-conner-interpretado-paul-walker.jpg"
+video: "nil"
+audio: "nil"
+alt: "Director de 'Rápidos y Furiosos 9' asegura que Brian O'Conner sigue vivo en la franquicia"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184046
 ---
 
 Después del estreno del segundo tráiler oficial de Rápidos y Furiosos 9, surgieron muchas dudas y teorías al respecto. Y es que Dom Toretto (Vin Diesel) aparecía en algunas ocasiones observando fotos de Brian O'Conner, quien era interpretado por el emblemático actor Paul Walker, quien murió el 30 de noviembre de 2013 en un accidente automovilístico. Sin embargo, el director Justin Lin admitió que Brian sigue vivo dentro del universo de las películas. 

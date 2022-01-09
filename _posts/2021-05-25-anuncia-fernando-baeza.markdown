@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Señala que no se dará de forma incondicional la confianza."
-image: /uploads/2021/images-FERNANDO.jpg
-video: nil
-audio: /uploads/2021/audio-MM02_FERNANDO_BAEZA.mp3
-alt: Anuncia Fernando Baeza apoyo a Maru Campos
+image: "/uploads/2021/images-FERNANDO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM02_FERNANDO_BAEZA.mp3"
+alt: "Anuncia Fernando Baeza apoyo a Maru Campos"
 front: false
-section: Local
+section: "Local"
+news_id: 184652
 ---
 
 El exgobernador de Chihuahua, Fernando Baeza Meléndez, anunció la suma al proyecto de la abanderada del PAN, María Eugenia Campos Galván. Señalando que este apoyo no es incondicional ya que se tienen que cumplir diversas acciones como el buscar generar empleos, al igual que la creación de acciones para generar obras públicas.

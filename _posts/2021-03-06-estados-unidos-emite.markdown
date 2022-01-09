@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "La embajada de Estados Unidos recomendó a sus ciudadanos reconsiderar su viaje no esencial a México en periodo de vacaciones de Semana Santa debido a la emergencia sanitaria"
-image: /uploads/2021/images-2540155.jpg
-video: nil
-audio: nil
-alt: Estados Unidos emite alerta de viaje para México
+image: "/uploads/2021/images-2540155.jpg"
+video: "nil"
+audio: "nil"
+alt: "Estados Unidos emite alerta de viaje para México"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 183314
 ---
 
 El Departamento de Estado estadunidense emitió ayer una alerta de viaje para sus ciudadanos, a quienes instó a no visitar México durante Semana Santa, debido al alto nivel de contagios en el país.

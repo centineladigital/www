@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Laisha Wilkins escribió su opinión sobre que el programa Hoy de Televisa haya llegado a 23 años de transmitirse en vivo. ¿No le parece sano para la televisión? ¿Cuál fue la molestia? "
-image: /uploads/2021/images-laisha-wilkins-arremete-programa-televisa.jpg
-video: nil
-audio: nil
-alt: Lo mismo -  Laisha Wilkins arremete contra el programa 'Hoy' de Televisa tras cumplir 23 años al aire
+image: "/uploads/2021/images-laisha-wilkins-arremete-programa-televisa.jpg"
+video: "nil"
+audio: "nil"
+alt: "Lo mismo -  Laisha Wilkins arremete contra el programa 'Hoy' de Televisa tras cumplir 23 años al aire"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186337
 ---
 
 Laisha Wilkins, actriz y conductora de televisión que recientemente ha salido a flote por ser crítica del gobierno federal actual en México, hizo uso de sus redes sociales para opinar sobre el programa Hoy de Televisa –en donde participan los conductores Andrea Legarreta, Galilea Montijo, Raúl Araiza, Andrea Escalona, Paul Stanley, Arath de la Torre y Lambda García–. Y es que recientemente cumplieron 23 años interrumpidos de transmitir en vivo. ¿Le parece un buen producto televisivo? ¿El programa Hoy le parece de calidad? Te contamos lo que expresó Laisha Wilkins sobre la emisión matutina de Televisa. 

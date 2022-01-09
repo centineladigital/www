@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Esto en tan sólo 24 horas. "
-image: /uploads/2021/images-ARTURO_VALENZUELA.jpg
-video: nil
-audio: /uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp3
-alt: Acreditados 62 casos y 29 muertes por COVID en 24 horas
+image: "/uploads/2021/images-ARTURO_VALENZUELA.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp3"
+alt: "Acreditados 62 casos y 29 muertes por COVID en 24 horas"
 front: false
-section: Local
+section: "Local"
+news_id: 182301
 ---
 
 Pese a que este martes no se acreditó ningún caso de personas fallecidas por coronavirus, este miércoles se acreditaron 29 muertes por esta enfermedad y 62 personas dieron positivo a la prueba PCR, según lo dio a conocer el Director Médico de la Zona Norte Arturo Valenzuela Zorrilla.

@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "“Detonamos el desarrollo económico regional con obras públicas que perduran”, destaca Javier Corral rumbo al 4º Informe"
-image: /uploads/2021/images-_DSC0095.JPG
-video: nil
-audio: nil
-alt: Obra carretera alcanza inversión de 7 mil 507 millones de pesos en todo el estado
+image: "/uploads/2021/images-_DSC0095.JPG"
+video: "nil"
+audio: "nil"
+alt: "Obra carretera alcanza inversión de 7 mil 507 millones de pesos en todo el estado"
 front: false
-section: Local
+section: "Local"
+news_id: 182617
 ---
 
 Con la  inversión de 7 mil 507 millones de pesos en la construcción, ampliación y conservación de tramos carreteros y caminos, así como los más de 3 mil millones de pesos destinados a infraestructura educativa, la Administración estatal ha detonado el desarrollo regional de Chihuahua.

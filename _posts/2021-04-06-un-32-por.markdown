@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Solamente un hospital se encuentra al cien por ciento de su capacidad."
-image: /uploads/2021/images-ARTURO.jpg
-video: nil
-audio: /uploads/2021/audio-MM02_ARTURO_VALENZUELA.mp3
-alt: Un 32 por ciento es la ocupación hospitalaria por COVID
+image: "/uploads/2021/images-ARTURO.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-MM02_ARTURO_VALENZUELA.mp3"
+alt: "Un 32 por ciento es la ocupación hospitalaria por COVID"
 front: false
-section: Local
+section: "Local"
+news_id: 183723
 ---
 
 Un total de un 32 por ciento es la ocupación hospitalaria que tiene el estado dentro de los hospitales COVID, esto ya que solamente se tiene un hospital al cien por ciento y seis más se encuentran al cien por ciento. 

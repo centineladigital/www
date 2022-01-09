@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "A partir del primer minuto de este domingo 8 de agosto, los capitalinos amanecerán con la noticia de que el precio del gas LP, tanto para tanques estacionarios como en cilindro metálicos, tendrán incrementos"
-image: /uploads/2021/images-Sin_título.png
-video: nil
-audio: nil
-alt: Estos son los precios del gas LP que aumenta mañana en CDMX y Edomex pese a estrategia
+image: "/uploads/2021/images-Sin_título.png"
+video: "nil"
+audio: "nil"
+alt: "Estos son los precios del gas LP que aumenta mañana en CDMX y Edomex pese a estrategia"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 186423
 ---
 
 La estrategia del Gobierno del presidente Andrés Manuel López Obrador para regular los precios máximos de gas licuado de petróleo como directriz de emergencia, “con la finalidad de proteger los intereses de los usuarios finales”, tuvo su primer descalabro.

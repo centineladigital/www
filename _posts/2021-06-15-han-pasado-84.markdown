@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "El youtuber será parte de una expedición que permitirá a menos de 50 viajeros conocer los restos del Titanic. "
-image: /uploads/2021/images-julio-alan-estrada-viajara-metros.jpg
-video: nil
-audio: nil
-alt: ¡Han pasado 84 años! Alan Estrada viajará al fondo del mar, a visitar los restos del Titanic
+image: "/uploads/2021/images-julio-alan-estrada-viajara-metros.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Han pasado 84 años! Alan Estrada viajará al fondo del mar, a visitar los restos del Titanic"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 185039
 ---
 
 Luego de semanas de anunciar una aventura secretar, peros in revelar el destino, Ala Estrada ha anunciado el destino que visitará en su próximo viaje por el mundo. El youtuber seguirá los pasos de Rose en la película Titanic, dirigida por James Cameron y viajará a las profundidades del océano para explorar los restos del famoso barco que se hundió en 1912. 

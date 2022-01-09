@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Ariana Grande se casó el pasado 15 de mayo y fue hasta ahora que la cantante lo confirmó con unas románicas fotos de su boda con Dalton Gomez. "
-image: /uploads/2021/images-ariana-grande-caso-dalton-gomez.jpg
-video: nil
-audio: nil
-alt: ¡Uno de los días más importantes! Ariana Grande comparte románticas fotos de su boda
+image: "/uploads/2021/images-ariana-grande-caso-dalton-gomez.jpg"
+video: "nil"
+audio: "nil"
+alt: "¡Uno de los días más importantes! Ariana Grande comparte románticas fotos de su boda"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184671
 ---
 
 Hace unos días el representante de Ariana Grande confirmó a la revista People que Ariana Grande y Dalton Gomez se habían casado, sin embargo, no especificó el día en que la pareja contrajo nupcias, hasta ahora que la misma cantante decidió compartir con sus seguidores fotos del día de su boda. A través de Instagram, Ariana Grande compartió varias fotografías del día de su boda en tres publicaciones. En la primera se ve una foto que fue tomada desde arriba en donde se ve a los recién casados dándose un beso. 

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "La gran sorpresa la dio el gobernador Javier Corral, al mostrar madurez política"
-image: /uploads/2021/images-Imagen1.jpg
-video: nil
-audio: /uploads/2021/audio-AW01_JORGE_CRUZ.mp3
-alt: Ofrece Coparmex felicitaciones por resultados de elecciones y a quienes los aceptan 
+image: "/uploads/2021/images-Imagen1.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AW01_JORGE_CRUZ.mp3"
+alt: "Ofrece Coparmex felicitaciones por resultados de elecciones y a quienes los aceptan "
 front: false
-section: Local
+section: "Local"
+news_id: 184949
 ---
 
 Ante los comentarios hechos, tanto por quien fue el candidato de Morena a la gubernatura, Juan Carlos Loera y el propio gobernador Javier Corral, en cuanto a los resultados de la jornada electoral. El presidente de la Coparmex Chihuahua, Jorge Cruz Camberos, dijo que esto dejó ver el nivel de política de cada actor, así como el respeto de la decisión de la ciudadanía.

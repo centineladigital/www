@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Informó que el próximo miércoles se reunirá en las instalaciones de este Organismo Empresarial"
-image: /uploads/2021/images-dgdsgdsgd.jpg
-video: nil
-audio: /uploads/2021/audio-AV04_EDIBRAY_GOMEZ.mp3
-alt: Establece Secretario de Salud con Canaco Chihuahua acuerdos para cambio de semáforo
+image: "/uploads/2021/images-dgdsgdsgd.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-AV04_EDIBRAY_GOMEZ.mp3"
+alt: "Establece Secretario de Salud con Canaco Chihuahua acuerdos para cambio de semáforo"
 front: false
-section: Local
+section: "Local"
+news_id: 184591
 ---
 
 Canaco Chihuahua a través de Consejeros y Presidentes de Secciones Especializadas, se reunieron virtualmente con el Secretario de Salud Estatal Eduardo Fernández Herrera con el fin de dar seguimiento a las problemáticas del sector comercio y establecer acuerdos y lineamientos en el próximo cambio de semáforo.

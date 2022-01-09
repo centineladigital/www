@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Son tres señalamientos que Maru Campos tendrá que aclarar"
-image: /uploads/2021/images-mADERO.jpg
-video: nil
-audio: nil
-alt: Mi precampaña es de propuestas y no descalificaciones -  Gustavo Madero
+image: "/uploads/2021/images-mADERO.jpg"
+video: "nil"
+audio: "nil"
+alt: "Mi precampaña es de propuestas y no descalificaciones -  Gustavo Madero"
 front: false
-section: Local
+section: "Local"
+news_id: 182241
 ---
 
 El precandidato del PAN por la gubernatura, Gustavo Madero, dio a conocer que su contrincante María Eugenia Campos en su momento tendrá el derecho de defenderse de las tres acusaciones que se le han realizado, sin embargo, dijo, también deberá explicar.

@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Cada evento recibe apoyo hasta por 41 mil pesos."
-image: /uploads/2021/images-NATHALIE.jpg
-video: nil
-audio: /uploads/2021/audio-ML05_NATHALIE_DESPLAS.mp3
-alt: Derrama FITA genera un retorno de 40 veces la inversión -  Desplas
+image: "/uploads/2021/images-NATHALIE.jpg"
+video: "nil"
+audio: "/uploads/2021/audio-ML05_NATHALIE_DESPLAS.mp3"
+alt: "Derrama FITA genera un retorno de 40 veces la inversión -  Desplas"
 front: false
-section: Local
+section: "Local"
+news_id: 183428
 ---
 
 La derrama económica que recibe cada municipio en el Festival de Turismo de Aventura se retorna en cada área con 40 veces más lo que se invierte, señaló la titular de Turismo perteneciente a la Secretaría de Economía, Nathalie Desplás Puel.

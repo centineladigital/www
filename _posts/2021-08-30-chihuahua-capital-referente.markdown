@@ -10,12 +10,13 @@ tags:
   
 author: nil
 description: "Con el objetivo de mitigar los efectos económicos ocasionados por el COVID-19, impulsamos el Plan de Reactivación Económica “A Jalar Juntos”."
-image: /uploads/2021/images-unnamed_(2).jpg
-video: nil
-audio: nil
-alt: Chihuahua Capital, referente en desarrollo económico y competitividad al norte del país
+image: "/uploads/2021/images-unnamed_(2).jpg"
+video: "nil"
+audio: "nil"
+alt: "Chihuahua Capital, referente en desarrollo económico y competitividad al norte del país"
 front: false
-section: Local
+section: "Local"
+news_id: 187253
 ---
 
 Somos un Gobierno Municipal convencido de la importancia del desarrollo económico, brindando un ambiente atractivo para los inversionistas, promoviendo y posicionando a Chihuahua Capital como ciudad modelo al norte del país en materia económica y de competitividad.

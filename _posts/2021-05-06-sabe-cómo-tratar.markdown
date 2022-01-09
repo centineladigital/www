@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Durante una entrevista en 'Ventaneando', la empresaria colombiana habló del amorío que tuvo en 2018 con el intérprete de Qué nivel de mujer. "
-image: /uploads/2021/images-zurek-tuvo-un-romance-con.jpg
-video: nil
-audio: nil
-alt: Sabe cómo tratar a una mujer -  Alessandra Zurek recuerda su romance con Luis Miguel
+image: "/uploads/2021/images-zurek-tuvo-un-romance-con.jpg"
+video: "nil"
+audio: "nil"
+alt: "Sabe cómo tratar a una mujer -  Alessandra Zurek recuerda su romance con Luis Miguel"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184313
 ---
 
 Desde que se estrenó la segunda temporada de la serie sobre Luis Miguel, que se transmite cada domingo en Netflix, varias famosas han recordado sus romances con El Sol; desde Lucía Méndez, quien aseguró que el cantante le dijo que era el amor de su vida, hasta Merle Uribe, que reveló que el artista la besó en alguna ocasión. Y este miércoles fue la empresaria colombiana Alessandra Zurek quien habló del amorío que tuvo en 2018 con el intérprete de "Qué nivel de mujer" durante una entrevista en el programa Ventaneando. 

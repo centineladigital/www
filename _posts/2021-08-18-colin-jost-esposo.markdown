@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Desde hace semanas se ha rumorado que Scarlett Johansson podría estar esperando a su segundo hijo, el primero con su esposo Colin Jost. "
-image: /uploads/2021/images-colin-jost-scarlett-johansson-casaron.jpg
-video: nil
-audio: nil
-alt: ¿Colin Jost, esposo de Scarlett Johansson, confirmó que la actriz está embarazada? Esto sabemos
+image: "/uploads/2021/images-colin-jost-scarlett-johansson-casaron.jpg"
+video: "nil"
+audio: "nil"
+alt: "¿Colin Jost, esposo de Scarlett Johansson, confirmó que la actriz está embarazada? Esto sabemos"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 186823
 ---
 
 Aunque en los últimos días Scarlett Johansson ha atravesado por una polémica que involucra a Disney, en cuanto a su vida personal todo parece ir “viento en popa” para la actriz, ya que desde hace poco surgió el rumor de que podría estar embarazada por segunda vez, algo que su propio esposo, Colin Jost, habría confirmado. 

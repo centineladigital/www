@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "Con 70% de la población inmunizada se diseñará una estrategia de recuperación, dice el secretario de Hacienda"
-image: /uploads/2021/images-2508760.jpg
-video: nil
-audio: nil
-alt: Crecimiento del 2021 depende de la vacuna; advertencia de Arturo Herrera
+image: "/uploads/2021/images-2508760.jpg"
+video: "nil"
+audio: "nil"
+alt: "Crecimiento del 2021 depende de la vacuna; advertencia de Arturo Herrera"
 front: false
-section: Nacional
+section: "Nacional"
+news_id: 181995
 ---
 
 Una mayor efectividad en el despliegue y aplicación de la vacuna contra el covid-19 determinará las condiciones de la economía en 2021, aseguró el titular de la Secretaría de Hacienda, Arturo Herrera.

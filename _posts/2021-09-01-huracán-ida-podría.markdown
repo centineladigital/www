@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "'Ida' causó menos de media docena de muertes, según un balance provisional de las autoridades estadunidenses, pero dañó gravemente la red eléctrica "
-image: /uploads/2021/images-huracan-ida-costoso-historia-indica.jpg
-video: nil
-audio: nil
-alt: Huracán 'Ida' podría ser el más costoso de toda la historia -  ONU
+image: "/uploads/2021/images-huracan-ida-costoso-historia-indica.jpg"
+video: "nil"
+audio: "nil"
+alt: "Huracán 'Ida' podría ser el más costoso de toda la historia -  ONU"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 187319
 ---
 
 El huracán Ida, que arrasó Luisiana este fin de semana, podría ser el desastre meteorológico más costoso de la historia, dijo la ONU el miércoles, pero se congratuló de que las medidas de prevención hayan permitido limitar el número de víctimas. Ida causó menos de media docena de muertes, según un balance provisional de las autoridades estadunidenses, pero dañó gravemente la red eléctrica. 

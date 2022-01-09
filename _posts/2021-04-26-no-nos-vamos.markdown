@@ -12,12 +12,13 @@ tags:
   
 author: nil
 description: "“Las relaciones son muy raras el día de hoy: uno quiere comprometerse, la otra persona también quiere comprometerse, pero al final no embonan ciertos engranes, dijo el conductor en el programa 'Miembros al Aire'. "
-image: /uploads/2021/images-lambda-garcia-instagram.jpg
-video: nil
-audio: nil
-alt: “No nos vamos a morir de un corazón roto” -  Lambda García revela por qué rompió con Luja Duhart
+image: "/uploads/2021/images-lambda-garcia-instagram.jpg"
+video: "nil"
+audio: "nil"
+alt: "“No nos vamos a morir de un corazón roto” -  Lambda García revela por qué rompió con Luja Duhart"
 front: false
-section: Espectáculos
+section: "Espectáculos"
+news_id: 184121
 ---
 
 Aunque Lambda García casi siempre tiene una sonrisa frente a la cámara, recordar su más reciente ruptura amorosa lo pone con un semblante serio y reflexivo. Así ocurrió en una emisión del programa Miembros al Aire, donde el conductor del matutino Hoy reveló por qué rompió con Luja Duhart. Aunque primero, García le contó a Paul Stanley, Yordi Rosado, El Burro Van Rankin y José Eduardo Derbez que lo que vivió con el cantante “fue una relación muy bonita, una relación padre. Entre que sí y que no, fueron casi un año y tantito”. 

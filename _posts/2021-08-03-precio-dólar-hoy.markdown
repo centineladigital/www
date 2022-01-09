@@ -8,12 +8,13 @@ tags:
   
 author: nil
 description: "Conoce el precio del dólar hoy martes en bancos"
-image: /uploads/2021/images-tipo-de-cambio-peso-dolar-34.jpg
-video: nil
-audio: nil
-alt: Precio dólar hoy -  Peso gana tras dos jornadas de pérdidas; atento a casos de covid-19
+image: "/uploads/2021/images-tipo-de-cambio-peso-dolar-34.jpg"
+video: "nil"
+audio: "nil"
+alt: "Precio dólar hoy -  Peso gana tras dos jornadas de pérdidas; atento a casos de covid-19"
 front: false
-section: Internacional
+section: "Internacional"
+news_id: 186222
 ---
 
 Al iniciar operaciones el peso registra hoy martes fue de hasta 20.32 pesos en bancos. En tanto, el tipo de cambio interbancario se ubica en 19.84 pesos por dólar, con una ganancia de apenas 0.28 por ciento. Citibanamex vende el dólar  hasta en 20.32 pesos, mientras BBVA México lo hace en 20.11, Banorte en 20.10 pesos y Banco Azteca en 19.94 unidades. 
