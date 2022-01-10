@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras terminar su relación con Marimar Vega, Horacio Pancheri publicó unas fotos con una misteriosa mujer, ¿es su novia? "
 image: "/uploads/2021/images-horacio-pancheri-publico-fotos-misteriosa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Es su novia? Horacio Pancheri publica fotos con misteriosa mujer"
 front: false
 section: "Espectáculos"
-news_id: 182904
+redirect_from: /news/182904
 ---
 
 Hace unos días Horacio Pancheri y Marimar Vega anunciaron que habían terminado su relación de un año, tras esta noticia se especuló que el argentino mantenía un romance con su compañera de trabajo, Gala Montes, sin embargo, esto fue negado por ambos y tal parece que el actor ya encontró el amor y podría tener novia.

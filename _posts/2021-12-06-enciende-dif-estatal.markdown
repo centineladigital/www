@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las niñas y niños de la Casa Cuna recibieron este apoyo de manos de la presidenta del DIF Estatal, María Eugenia Galván, el director Gabriel Eguiarte Fruns y titulares de los diversos departamentos de esta dependencia.   "
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Enciende DIF Estatal árbol navideño con entrega de chamarras, juguetes y dulces para niños de la Casa Cuna"
 front: false
 section: "Local"
-news_id: 190562
+redirect_from: /news/190562
 ---
 
 El Gobierno del Estado, a través del DIF Estatal, llevó a cabo la entrega de chamarras, juguetes y dulces a niñas y niños albergados en la Casa Cuna del DIF Estatal, así como el encendido del árbol de esta dependencia en el parque El Colibrí de la ciudad de Chihuahua.

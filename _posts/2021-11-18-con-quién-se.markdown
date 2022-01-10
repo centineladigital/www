@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La pareja anunció a través de sus redes sociales que terminaba su relación, pero que seguirán siendo amigos."
 image: "/uploads/2021/images-shawn-mendes-anuncio-rompimiento-cantante-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Con quién se queda el perro? Shawn Mendes y Camila Cabello anuncian su separación"
 front: false
 section: "Espectáculos"
-news_id: 189958
+redirect_from: /news/189958
 ---
 
 ¡Shawn Mendes y Camila Cabello ya no serán pareja! Hace unos días, veíamos a los dos tórtolos pasear por las calles del céntrico y cultural Oaxaca, es más hasta los seguidores los perseguían y querían tomarse fotografías con la cantante de Don't Go Yet e incluso veíamos al cantante canadiense molesto. Aunque nunca hubo rumores de su separación y de hecho todo parecía marchar bastante bien, la pareja anunció a través de sus historias de Instagram que no estarían juntos como pareja, pero que ellos siempre iban a mantener la comunicación como amigos.

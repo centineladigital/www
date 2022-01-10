@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El fuego comenzó a primera hora de la tarde en el World Trade Center de la Gloucester Road, en el popular distrito comercial de Causeway Bay, según un aviso del gobierno. En el edificio de 38 plantas había oficinas y un centro comercial "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Al menos 3 heridos y 10 intoxicados tras incendio en Hong Kong"
 front: false
 section: "Internacional"
-news_id: 190867
+redirect_from: /news/190867
 ---
 
 Hong Kong.- Cientos de personas estaban atrapadas el miércoles en la azotea de un rascacielos de Hong Kong en el que ardía un gran incendio, mientras los bomberos organizaban una compleja operación de rescate y sofocaban las llamas.

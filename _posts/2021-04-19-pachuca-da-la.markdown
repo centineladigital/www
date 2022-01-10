@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los Tuzos se impusieron por la mínima diferencia en su visita a Monterrey y mantiene vivas sus esperanzas de un boleto a la reclasificación"
 image: "/uploads/2021/images-2564646.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pachuca da la campanada ante Rayados"
 front: false
 section: "Deportes"
-news_id: 183954
+redirect_from: /news/183954
 ---
 
 El Pachuca aprovechó la expulsión de Jesús Gallardo en el primer tiempo y un penal fallado por Rogelio Funes Mori, para vencer 1-0 a Rayados de Monterrey como visitantes y mantenerse en la pelea por un boleto para el repechaje del torneo Guard1anes Clausura 2021. 

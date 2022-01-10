@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El retrato enterneció a todos sus fans; ya tiene más de 640 mil Me gusta y ha recibido 6 mil 642 comentarios. "
 image: "/uploads/2021/images-mon-laferte-instagram-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es un bebé y unas pizzas -  Mon Laferte comparte tierna foto de su embarazo"
 front: false
 section: "Espectáculos"
-news_id: 189232
+redirect_from: /news/189232
 ---
 
 Aunque la cantante chilena Mon Laferte está en plena gira por Estados Unidos, se dio tiempo para sorprender a sus seguidores en Instagram con una foto donde mostró cómo va su embarazo. "5 meses. Les juro que sólo es un bebé y unas pizzas", escribió la intérprete de "Tu falta de querer" en la publicación, a la que le adjuntó una foto mostrando su enorme pancita.

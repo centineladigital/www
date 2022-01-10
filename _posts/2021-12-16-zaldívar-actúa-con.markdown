@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente destacó el trabajo del ministro presidente al frente de la SCJN, pues confía que es un hombre íntegro y honrado. "
 image: "/uploads/2021/images-lopez-obrador-insto-combatir-corrupcion_0_1_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Zaldívar actúa con responsabilidad, pero hace falta limpiar el Poder Judicial -  AMLO"
 front: false
 section: "Nacional"
-news_id: 190913
+redirect_from: /news/190913
 ---
 
 El presidente Andrés Manuel López Obrador consideró que hace falta seguir limpiando al Poder Judicial porque el ministro presidente de la Suprema Corte Arturo Zaldívar es honesto, pero no se puede decir lo mismo de otros ministros y magistrados. 

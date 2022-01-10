@@ -16,11 +16,11 @@ author: nil
 description: "El plan estratégico que estará enfocado en la seguridad "
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BW03_JULIO_SALAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "El EXPOGAN contará con 40 policías diarios "
 front: false
 section: "Local"
-news_id: 188990
+redirect_from: /news/188990
 ---
 
 El director de Seguridad Pública Municipal, Julio Salas aseguró que se estará contando con 40 policías diarios para la seguridad de las personas que asistirán al expongan 2021, señaló que el plan estratégico que estará enfocado en la seguridad tendrá lugar en los estacionamientos, en los alrededores  interior entre otros.

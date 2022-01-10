@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Será prioridad fomentar acuerdos mediante la conciliación en beneficio de las personas trabajadoras y empleadoras"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Agilizará nueva Reforma Laboral la solución de conflictos laborales en el estado"
 front: false
 section: "Local"
-news_id: 190965
+redirect_from: /news/190965
 ---
 
 Con la implementación de la Reforma Laboral se pondrá en marcha el Centro de Conciliación Laboral del Estado de Chihuahua, así mismo serán eliminadas las Juntas Locales de Conciliación y Arbitraje (JLCA) y aparecerán los Tribunales Laborales dependientes del Poder Judicial, informó Diódoro Siller Argüello, titular de la Secretaria de Trabajo y Previsión Social.

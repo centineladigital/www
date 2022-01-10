@@ -10,11 +10,11 @@ author: nil
 description: "Integrantes de colectivos recuerdan la muerte de activista."
 image: "/uploads/2021/images-GRACIELA.jpg"
 video: "/uploads/2021/videos-MJ01_GRACIELA_RAMOS.mp4"
-audio: "nil"
+audio: nil
 alt: "Conmemoran aniversario luctuoso de Marisela Escobedo "
 front: false
 section: "Local"
-news_id: 190937
+redirect_from: /news/190937
 ---
 
 Organismos y asociaciones civiles conmemoraron este jueves el décimo primer aniversario luctuoso de la activista Maricela Escobedo, el cual se perpetró fuera de Palacio de Gobierno. Dentro de la ofrenda se recordó por parte de la activista Graciela Ramos las acciones que llevó a cabo la mujer que se convirtió en activista a raíz del asesinato de su hija.

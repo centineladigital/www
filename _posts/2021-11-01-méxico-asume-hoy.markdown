@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Prioridades: combate a corrupción, tráfico de armas, seguridad y paz internacional. Perfila dar especial atención a agenda de la mujer"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México asume hoy Consejo de Seguridad de ONU"
 front: false
 section: "Nacional"
-news_id: 189422
+redirect_from: /news/189422
 ---
 
 Con el impulso a tres temas prioritarios: combate a la corrupción, tráfico de armas y labor preventiva para la paz y seguridad internacionales, México asumirá este lunes la presidencia rotativa del Consejo de Seguridad de la Organización de las Naciones Unidas (ONU).

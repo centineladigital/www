@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue en entrevista con Yordi Rosado en donde María León contó una de las fracturas familiares que tuvo con un integrante de su familia por el simple hecho de ser libre y hacer uso de su derecho a elegir lo que quería para su vida artística. "
 image: "/uploads/2021/images-maria-leon-recuerda-peleo-abuelo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Eres una golfa -  María León confiesa que recibió insulto machista de su abuelo; esto pasó"
 front: false
 section: "Espectáculos"
-news_id: 188335
+redirect_from: /news/188335
 ---
 
 María León, famosa cantante, dio mucho de qué hablar en su reciente entrevista con Yordi Rosado. Sobre todo después de confesar la vez que su propio abuelo la tachó de ‘golfa’ –insulto machista– por el simple hecho de dedicarse a la música que ella hace y no al género de regional mexicano. Recordó cómo se peleó con él por creencias misóginas. 

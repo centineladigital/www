@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Esta estrategia de digitalización contribuye a evitar desplazamientos personales, aglomeraciones en oficinas o subdelegaciones del Instituto y, de este modo, a disminuir el riesgo de contagio por COVID-19."
 image: "/uploads/2021/images-Foto_506-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El IMSS ofrece más de 50 trámites y servicios digitales en materia de incorporación y recaudación"
 front: false
 section: "Local"
-news_id: 189703
+redirect_from: /news/189703
 ---
 
 En los últimos dos años, la Dirección de Incorporación y Recaudación del Instituto Mexicano del Seguro Social (DIR; IMSS) ha fortalecido la estrategia de digitalización de trámites y servicios; de este modo, se ofrece la opción de realizar más de 50 gestiones en línea, facilitando así el cumplimiento de obligaciones patronales y el ejercicio de derechos de las personas aseguradas y beneficiarias.

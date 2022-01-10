@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Informa secretario Eduardo Fernández, que en un mes todos los trabajadores del Sector Salud estarán vacunados para iniciar la segunda fase con población abierta"
 image: "/uploads/2021/images-SECRETARIO_VACUNACIÓN.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cumple Chihuahua vacunación para todo el personal de salud en primera línea contra COVID-19"
 front: false
 section: "Local"
-news_id: 182225
+redirect_from: /news/182225
 ---
 
 Este fin de semana todo el personal en la primera línea de atención a COVID-19 quedó vacunada contra esta enfermedad, informó el secretario de Salud, Eduardo Fernández Herrera.

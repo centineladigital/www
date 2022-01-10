@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La NHL y su sindicato de jugadores anunciaron este martes que la temporada se detendrá el miércoles, dos días antes de las vacaciones de Navidad"
 image: "/uploads/2021/images-nhl-anuncia-detiene-temporada-covid.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Liga Nacional de Hockey sobre hielo anuncia que se detiene la temporada por covid-19"
 front: false
 section: "Deportes"
-news_id: 191106
+redirect_from: /news/191106
 ---
 
 La Liga Nacional de Hockey sobre hielo (NHL) y su sindicato de jugadores anunciaron este martes que la temporada se detendrá el miércoles, dos días antes de las vacaciones de Navidad, que ya estaban programadas, debido a preocupaciones por el covid-19. 

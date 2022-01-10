@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El lote de 2,925 dosis se aplica este jueves desde las 8:00 al personal de salud en la primera línea de batalla en la pandemia"
 image: "/uploads/2021/images-VACUNACIÓN_SEGUNDA_REMESA_(4).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llega a Chihuahua segunda remesa de vacuna contra COVID-19"
 front: false
 section: "Local"
-news_id: 182331
+redirect_from: /news/182331
 ---
 
 Este miércoles 20 de enero llegó la segunda remesa de vacunas contra COVID-19 de la empresa Pfizer, con un lote de 2 mil 925 dosis, informó la subdirectora de Medicina Preventiva de la Secretaría de Salud Chihuahua, Wendy Ávila Coronado.

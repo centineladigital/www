@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A personal de la primera línea de batalla contra el COVID-19   "
 image: "/uploads/2021/images-unnamed_(10).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconoce Maru Campos incansable labor del Sector Salud; entrega boletos para el pre-clasificatorio de la Copa del Mundo de Baloncesto FIBA 2023"
 front: false
 section: "Local"
-news_id: 190161
+redirect_from: /news/190161
 ---
 
 Como una manera de hacer patente el reconocimiento al personal médico que está en la primera línea de batalla contra el COVID.19, la gobernadora Maru Campo Galván entregó al Sector Salud boletos para asistir al Clasificatorio Internacional que se celebrará en Chihuahua este fin de semana, rumbo a la Copa del Mundo de Baloncesto FIBA 2023.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La política normativa de la UTT establece la importancia de proteger contra la exposición del humo de tabaco a la población fumadora y no fumadora que labora y estudia en la institución educativa."
 image: "/uploads/2021/images-UTT2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Certifican a Universidad Tecnológica de la Tarahumara como Espacio 100% Libre de Humo de Tabaco"
 front: false
 section: "Local"
-news_id: 190479
+redirect_from: /news/190479
 ---
 
 La Universidad Tecnológica de la Tarahumara (UTT) recibió la certificación como Espacio 100% Libre de Humo de Tabaco por la Comisión Nacional contra las Adicciones (CONADIC) y la Comisión Estatal de Atención a las Adicciones (CEAADIC).

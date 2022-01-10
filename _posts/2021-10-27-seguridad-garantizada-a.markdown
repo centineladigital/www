@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Por fiesta patronal, se suman bomberos, agentes de la Policía Municipal con conocimientos en primeros auxilios, en caballos y cuatrimotos  "
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Seguridad garantizada a fieles de San Judas Tadeo; refuerzan operativo"
 front: false
 section: "Local"
-news_id: 189258
+redirect_from: /news/189258
 ---
 
 Agentes de la Policía Municipal aumentaron el patrullaje en la capilla de San Judas Tadeo y alrededores, como parte del operativo desplegado por el Gobierno Municipal de Chihuahua a través de la Dirección de Seguridad Pública, para resguardar la seguridad de los miles de visitantes  que caminan a este recinto por la fiesta patronal.

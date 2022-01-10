@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Gobernadora recibió a autoridades del orden federal por parte de la Fiscalía General de la República, el Ejercito Mexicano y la Guardia Nacional donde en compañía del presidente municipal de Ciudad Juárez, Cruz Pérez Cuéllar"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atiende Gobernadora necesidades de seguridad de los juarenses en Mesa Estatal de Seguridad"
 front: false
 section: "Local"
-news_id: 190232
+redirect_from: /news/190232
 ---
 
 Durante su gira de trabajo en Ciudad Juarez, la gobernadora Maru Campos Galván asistió a la Mesa Estatal de Seguridad realizada en la ciudad fronteriza, con el fin de conocer las acciones más relevantes ejecutadas en materia de seguridad en la Zona Norte y así mantener el bienestar de las y los chihuahuenses como uno de los ejes principales de atención del Gobierno del Estado.

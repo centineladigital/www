@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante la transmisión en vivo del programa Hoy de Televisa se armó tremenda trifulca; Galilea Montijo y Andrea Legarreta corrieron al luchador Pirata Morgán del foro tras agresiones: este programucho."
 image: "/uploads/2021/images-pleno-programa-vivo-armo-trifulca.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es programa familiar -  se arma trifulca en 'Hoy'; Galilea Montijo y Legarreta corren a luchador del set"
 front: false
 section: "Espectáculos"
-news_id: 184141
+redirect_from: /news/184141
 ---
 
 Galilea Montijo y Andrea Legarreta vivieron momentos de tensión durante el programa Hoy, pues durante la sección Las Estrellas Bailan en Hoy llegó el luchador Pirata Morgan para enfrentar a Latin Lover –uno de los jueces de la sección–. Sin embargo, en medio de este suceso se armó tremenda trifulca, pues el deportista aseguró que Latin dejó de luchar para irse al “programucho” matutino, hecho que desató la furia del juez y comenzaron a pelear. En medio de los golpes también resultó lastimado Lambda García, razón por la que las conductoras estelares explotaron en su contra y lo corrieron del foro. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Alicia Machado parece haber llegado a su límite, pues arremetió contra Celia Lora, quien presuntamente sigue hablando mal de la modelo. "
 image: "/uploads/2021/images-alicia-machado-estalla-celia-lora.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Voy a darle una cachetada” -  Alicia Machado explota contra Celia Lora en show; así trató de tranquilizarse"
 front: false
 section: "Espectáculos"
-news_id: 188132
+redirect_from: /news/188132
 ---
 
 Alicia Machado, ex reina de belleza, volvió a arremeter en contra de Celia Lora, su compañera en el reality show ‘La Casa de los Famosos’. Sin embargo, en esta ocasión su controversia no quedó en algo superficial, pues por varios minutos trató de tranquilizarse ya que aseguró que estaba a dos de golpear a la hija de Alex Lora. Pidió que la ‘deje en paz’ y hasta recordó el caso por el que encarcelaron a Celia Lora. ¿Qué fue lo que ocurrió? De nueva cuenta Celia Lora y Alicia Machado son punto de menciones en el reality show ‘La Casa de los Famosos’, pues ambas han forjado una rivalidad que todos los días parece aumentar. 

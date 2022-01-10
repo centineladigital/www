@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Sin identificarlos, el secretario general de la ONU, Antonio Guterres, criticó que ciertos países están buscando acuerdos paralelos, incluso comprando más allá de las necesidades"
 image: "/uploads/2021/images-2512476.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "ONU critica falta de solidaridad tras 2 millones de muertos por Covid"
 front: false
 section: "Internacional"
-news_id: 182189
+redirect_from: /news/182189
 ---
 
 El secretario general de la ONU, Antonio Guterres, calificó el viernes como "un hito desgarrador" el anuncio de que la pandemia de covid-19 ha dejado más de 2 millones de muertos, lamentando el "fracaso de la solidaridad" frente a la vacunación.

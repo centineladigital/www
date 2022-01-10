@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Un ambiente de emoción se vivió cuando las y los alumnos, siguiendo las estrictas medidas de seguridad e higiene, fueron ingresando nuevamente al campus."
 image: "/uploads/2021/images-IMG_1623.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizan prueba del modelo híbrido en el ITSNCG para el regreso a clases el siguiente año"
 front: false
 section: "Local"
-news_id: 191055
+redirect_from: /news/191055
 ---
 
 Con el entusiasmo de revivir el sentimiento de tomar de nuevo clases en un aula, el Tecnológico Nacional de México Campus Superior de Nuevo Casas Grandes (ITSNCG), se implementó a modo de programa piloto el modelo híbrido de Clases.

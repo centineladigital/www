@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras un acuerdo con la Fiscalía capitalina, el abogado Rafael Castillo dijo que uno de los puntos establecidos es no revelar el lugar ni la hora en la que el diputado se presentará ante las autoridades"
 image: "/uploads/2021/images-catean-casa-saul-huerta-alistan_144_18_1055_657.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Saúl Huerta se entregará este jueves a FGJ CdMx, asegura su abogado"
 front: false
 section: "Nacional"
-news_id: 186858
+redirect_from: /news/186858
 ---
 
 El diputado Saúl Huerta, quien es acusado por los delitos de abuso agravado y violación contra menores de edad, se entregará este jueves 19 de agosto a la Fiscalía General de Justicia de la Ciudad de México. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Kylie Jenner festejó el cumpleaños número 3 de su hija, Stormi; presumió algunos aspectos de ésta por medio de sus stories en Instagram. "
 image: "/uploads/2021/images-asi-fue-el-cumpleanos-de.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Kylie Jenner presume en Instagram el cumpleaños 3 de su hija, Stormi Webster"
 front: false
 section: "Espectáculos"
-news_id: 182628
+redirect_from: /news/182628
 ---
 
 Kylie Jenner y Travis Scott festejaron el tercer cumpleaños de su hija, Stormi Webster. Por medio de sus stories de Instagram, Kylie dejó ver algunos de los aspectos de esta fiesta, desde la comida, el lugar, los juegos, dulces e incluso, el tierno momento en el que le cantan Happy Brthday to you. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante detuvo su show musical tras percatarse que algo andaba mal entre el público y solucionar la situación. "
 image: "/uploads/2021/images-christian-nodal-defiende-fan-pleno_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Está todo bien? -  Christian Nodal detiene concierto para defender a fan; esto pasó"
 front: false
 section: "Espectáculos"
-news_id: 188960
+redirect_from: /news/188960
 ---
 
 Luego de la cancelación del concierto que realizaría en Del Valle de Guadalupe, Baja California tras acusaciones de ecocidio que llevaron a la clausura del foro, Christian Nodal retomó su gira por México y ofreció un espectáculo musical en la ciudad de Mexicali; sin embargo, un nuevo incidente ensombreció la noche, pues el cantante decidió detener su show para defender a una fan que se encontraba en medio del público.  El percance que frustró la presentación del intérprete de "Adiós amor" sucedió el pasado domingo 17 de octubre cuando Christian Nodal se percató que algo andaba mal en una de las secciones en las que se encontraba el público. De inmediato detuvo el show a mitad de una canción para saber por qué estaban discutiendo.  

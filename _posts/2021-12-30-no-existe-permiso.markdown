@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El jefe del Gabinete, remarcó que la empresa que pretende construir no ha tenido acercamiento con el Gobierno Municipal"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Audio__Arturo_García_Portillo_Jefe_de_Gabinete_-_No_hay_permisos_para_construir_condominios_en_presa_El_Rejón_(1).mp3"
 alt: "No existe permiso para construir condominios en Presa el Rejón -  Arturo García Portillo"
 front: false
 section: "Local"
-news_id: 191365
+redirect_from: /news/191365
 ---
 
 En relación con los supuestos trabajos de construcción de una obra en las inmediaciones de la Presa El Rejón, el jefe del Gabinete, Arturo García Portillo, señaló que no existe permiso de construcción en la zona e incluso la empresa no ha tenido acercamiento con la autoridad municipal. 

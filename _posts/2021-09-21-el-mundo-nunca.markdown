@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El mundo debe despertar. Estamos al borde de un abismo y moviéndonos en la dirección equivocada, dijo Guterres a los líderes internacionales reunidos en Nueva York"
 image: "/uploads/2021/images-asamblea_onu_afp.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El mundo nunca ha estado tan amenazado ni tan dividido -  Guterres abre Asamblea de la ONU"
 front: false
 section: "Internacional"
-news_id: 187899
+redirect_from: /news/187899
 ---
 
 El secretario general de la ONU, António Guterres, abrió este martes la Asamblea General de la organización haciendo sonar la señal de "alarma" ante un mundo que "nunca ha estado tan amenazado ni tan dividido".

@@ -16,11 +16,11 @@ author: nil
 description: "Están trabajando de la mano con en el partido naranja, esto ante el cuestionamiento que se le hizo sobre su presunta sustitución como dirigente estatal de la paridad diplomática."
 image: "/uploads/2021/images-descarga.jpg"
 video: "/uploads/2021/videos-BW03_FRANCISCO_SANCHEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Sánchez habla sobre su posible sustitución como dirigente estatal "
 front: false
 section: "Local"
-news_id: 189768
+redirect_from: /news/189768
 ---
 
 Francisco Sánchez dirigente estatal de Movimiento Ciudadano manifestó que Alfredo el Caballo Lozoya están trabajando de la mano con en el partido naranja, esto ante el cuestionamiento que se le hizo sobre su presunta sustitución como dirigente estatal de la paridad diplomática.

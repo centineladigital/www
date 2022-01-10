@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Profeco atendió a 68 denuncias recibidas en las 38 Oficinas de Defensa del Consumidor con las que cuenta el organismo en el país. "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En operativo, Profeco retiró del mercado más de 129 mil unidades de sopas instantáneas"
 front: false
 section: "Nacional"
-news_id: 188332
+redirect_from: /news/188332
 ---
 
 La Procuraduría Federal del Consumidor (Profeco) inmovilizó un total de 129 mil 937 unidades de sopas instantáneas que se comercializan en México, durante un operativo especial de verificación llevado a cabo el pasado viernes, en tiendas de autoservicio y establecimientos comerciales. 

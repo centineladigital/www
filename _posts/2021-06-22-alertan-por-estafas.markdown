@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exhortan a no enviar datos y dinero a páginas."
 image: "/uploads/2021/images-B4.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM07_YOSELIN_GUZMAN.mp3"
 alt: "Alertan por estafas de cursos"
 front: false
 section: "Local"
-news_id: 185179
+redirect_from: /news/185179
 ---
 
 Una alerta a la población por venta de cursos los cuales son presuntamente avalados por parte de la federación y el estado fue dado a conocer por parte de la Fiscalía General del Estado a través de la Dirección de Análisis de Evidencia Digital e Informática Forense, según lo expresó la vocera de esta área Yoselín Guzmán.

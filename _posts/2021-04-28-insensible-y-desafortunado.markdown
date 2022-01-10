@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¿El Sol miente? A través de redes sociales, Paty Manterola se desmarcó de lo que contó Luis Miguel en su serie de Netflix: afecta directamente a mi persona, sentimientos e imagen. "
 image: "/uploads/2021/images-paty-manterola-reacciona-contado-luis.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Insensible y desafortunado -  Paty Manterola desmiente a Luis Miguel; explota contra serie de Netflix"
 front: false
 section: "Espectáculos"
-news_id: 184168
+redirect_from: /news/184168
 ---
 
 Paty Manterola, actriz y ex cantante de Garibaldi, reaccionó al personaje ficticio que presuntamente hace referencia a su persona en la segunda temporada de Luis Miguel, la serie de Netflix. La famosa fue contundente y se desmarcó de la historia que contó El Sol sobre ella y la supuesta relación amorosa. ¿Luis Miguel mintió? ¿Paty Manterola jamás tuvo un romance con El Sol? Manterola hizo uso de sus redes sociales para pedir respeto a su persona y evitar especulaciones sobre el tema. Luego de que en la segunda temporada de Luis Miguel, la serie se contará que presuntamente Paty Manterola tuvo una relación amorosa con el cantante, la ex Garibaldi rompió el silencio y se desmarcó de la historia contada en Netflix. 

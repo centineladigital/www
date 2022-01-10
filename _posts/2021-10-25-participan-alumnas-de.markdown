@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El proyecto se realiza por el Museo de las Culturas del Norte e Instituto Tecnológico Superior de Nuevo Casas Grandes"
 image: "/uploads/2021/images-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participan alumnas de UPNECH en diseño de videojuego sobre Paquimé"
 front: false
 section: "Local"
-news_id: 189158
+redirect_from: /news/189158
 ---
 
 Dos estudiantes de la Licenciatura en Pedagogía de la Universidad Pedagógica Nacional del Estado de Chihuahua (UPNECH) campus Nuevo Casas Grandes, participan en un proyecto interinstitucional que se realiza con el Instituto Tecnológico Superior de Nuevo Casas Grandes y el Museo de las Culturas del Norte.

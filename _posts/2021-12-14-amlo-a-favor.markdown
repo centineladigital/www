@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En estos casos, son dineros de México, que ya también se están demandando, se están exigiendo para que se devuelvan, dijo el presidente López Obrador"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO, a favor del criterio de oportunidad para César Duarte si se recupera dinero y conocen complicidades"
 front: false
 section: "Nacional"
-news_id: 190821
+redirect_from: /news/190821
 ---
 
 Sobre el estatus de la extradición de Estados Unidos a México del exgobernador de Chihuahua, César Duarte Jáquez, el presidente Andrés Manuel López Obrador se pronunció a favor del criterio de oportunidad en el caso. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solicitará licencia en caso de ser necesario."
 image: "/uploads/2021/images-JUAN_ABDO_(3).jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM04_JUAN_ABDO.mp3"
 alt: "Abdo busca candidatura al distrito XVI"
 front: false
 section: "Local"
-news_id: 182264
+redirect_from: /news/182264
 ---
 
 Este martes el regidor de la comisión de deporte Juan José Abdo levantó la mano, al señalar que buscará la candidatura para el distrito XVI dentro del congreso local. Por lo que una vez publicados los lineamientos del partido.

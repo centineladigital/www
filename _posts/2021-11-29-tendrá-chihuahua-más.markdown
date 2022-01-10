@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Para lograr que los compromisos trazados por el Gobierno del Estado se cumplan, la Gobernadora destacó que el presupuesto para el año 2022 es muy importante para hacer que las cosas sucedan"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tendrá Chihuahua más inversión en un año que en el último quinquenio; Maru Campos presenta el Presupuesto 2022   "
 front: false
 section: "Local"
-news_id: 190310
+redirect_from: /news/190310
 ---
 
 Desde Palacio de Gobierno en la capital del estado, la Gobernadora Maru Campos, presentó a la ciudadanía chihuahuense el presupuesto correspondiente al ejercicio del año 2022, con el que el Gobierno del Estado trabajará para convertir en resultados el bien de todas y todos los chihuahuenses.

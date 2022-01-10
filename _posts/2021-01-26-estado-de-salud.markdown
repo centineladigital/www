@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La titular de Gobernación, Olga Sánchez Cordero,  agradeció las muestras de solidaridad de mandatarios con el presidente Andrés Manuel López Obrador"
 image: "/uploads/2021/images-2518545.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estado de salud de López Obrador seguirá reservado"
 front: false
 section: "Nacional"
-news_id: 182447
+redirect_from: /news/182447
 ---
 
 El estado de salud del presidente Andrés Manuel López Obrador, quien se encuentra infectado de Covid 19, seguirá siendo reservado debido a que se trata de datos sensibles y así lo permite la ley, aseguró la Secretaria de Gobernación, Olga Sánchez Cordero.

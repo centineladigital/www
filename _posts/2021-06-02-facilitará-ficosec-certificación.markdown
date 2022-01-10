@@ -9,12 +9,12 @@ tags:
 author: nil
 description: " INSYDE A.C., buscará desarrollar y mantener los estándares que den soporte a buenas prácticas institucionales al interior de la corporación"
 image: "/uploads/2021/images-WEGEW.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AW02_EDGAR_GONZALEZ.mp3"
 alt: "Facilitará FICOSEC certificación policial en Cuauhtémoc a través de INSYDE A.C."
 front: false
 section: "Local"
-news_id: 184800
+redirect_from: /news/184800
 ---
 
 FICOSEC y el Instituto para la Seguridad y la Democracia A.C. (INSYDE A.C.) firmaron un convenio de colaboración para el inicio de la implementación en la Dirección de Seguridad Pública y Vialidad de Cuauhtémoc con el objetivo de dar continuidad al proceso de certificación a través de un acompañamiento técnico con duración de 10 meses. 

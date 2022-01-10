@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Al menos 10 viviendas se encuentran sepultadas debajo de las rocas que provocaron el deslave registrado en la colonia Lázaro Cárdenas, también se registran cuatro personas lesionadas y cuatro desaparecidas "
 image: "/uploads/2021/images-cerro_chiquihuite_derrumbe_.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se desgaja el Cerro del Chiquihuite; hay 4 desaparecidos"
 front: false
 section: "Nacional"
-news_id: 187638
+redirect_from: /news/187638
 ---
 
 Un desgajamiento se registró este viernes en el Cerro del Chiquihuite, ubicado en el municipio de Tlalnepantla, Estado de México, por lo que las autoridades ordenaron el desalojo de las viviendas localizadas en las inmediaciones del lugar.

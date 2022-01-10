@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras conocerse los resultados, mandatarios y expresidentes enviaron sus felicitaciones. "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Boric se convierte con 35 años en el presidente más joven de Chile; ven con él un futuro más feminista y ecologista"
 front: false
 section: "Internacional"
-news_id: 191019
+redirect_from: /news/191019
 ---
 
 Las calles de Santiago de Chile estallaron en una fiesta este domingo al confirmarse el triunfo del joven izquierdista Gabriel Boric en el balotaje en Chile. Con casi 99% de los colegios electorales, Boric obtuvo 56% de los votos, en comparación con 44% de su oponente, el legislador José Antonio Kast. Con este triunfo, Boric se convierte a sus 35 años en el presidente más joven en la historia de Chile.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los municipios de Chihuahua, Juárez, Cuauhtémoc, Parral y Guadalupe y Calvo, requieren focalizar las tareas de búsqueda de mujeres, jóvenes y niñas desaparecidas, como parte de un contexto de violencia feminicida"
 image: "/uploads/2021/images-_MG_9963.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se deben aplicar de manera urgente  recomendaciones de Alerta de Género en Cuauhtémoc -  Ichmujeres"
 front: false
 section: "Local"
-news_id: 187320
+redirect_from: /news/187320
 ---
 
 La directora del Instituto Chihuahuense de las Mujeres (Ichmujeres), Emma Saldaña Lobera, hizo un llamado a las autoridades de los tres niveles de gobierno, para trabajar de manera coordinada e inmediata en la implementación de las recomendaciones de la Alerta de Violencia de Género contra las Mujeres.

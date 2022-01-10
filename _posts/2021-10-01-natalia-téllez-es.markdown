@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "I Love Lucy es una serie que se transmitió en 1951 y ahora contará con una versión renovada y mexicana que será transmitida por Amazon Prime Video. "
 image: "/uploads/2021/images-natalia-tellez-daniel-tovar-protagonizan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Natalia Téllez es la protagonista! Amazon Prime Video prepara versión mexicana de 'I Love Lucy'"
 front: false
 section: "Espectáculos"
-news_id: 188292
+redirect_from: /news/188292
 ---
 
 I Love Lucy es una serie que se comenzó a transmitir en Estados Unidos en 1951 y debido a su éxito terminó en 1957 con un total de seis temporadas con capítulos de una duración de media hora. A manera de homenaje, en Wandavision realizaron un episodio inspirado en ella y a más de 50 años de su transmisión, Amazon Prime Video pronto estrenará una versión mexicana de la serie la cual es protagonizada por Natalia Téllez. 

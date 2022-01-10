@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de su cuenta de Twitter en donde Adal Ramones fue contundente a la hora de advertir a Franco Escamilla sobre Adrián Uribe. Dijo que el famoso se quedó con los programas de Sandarti, Marco Antonio Regil y Omar Chaparro. "
 image: "/uploads/2021/images-adal-ramones-adviert-franco-escamilla.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aguas -  Adal Ramones advierte a Franco Escamilla sobre Adrián Uribe; lo acusa de quitar programas de TV"
 front: false
 section: "Espectáculos"
-news_id: 189639
+redirect_from: /news/189639
 ---
 
 En la televisión mexicana es común reconocer a los conductores que por lo regular encontramos en los reality show importantes. Entre ellos está Omar Chaparro, Marco Antonio Regil, Héctor Sandarti, Adrián Uribe y hasta Adal Ramones. Sin embargo, al parecer uno de los mencionados es quien se queda con casi todos los proyectos. Al menos así lo señaló Adal Ramones, quien le advirtió a Franco Escamilla sobre Adrián Uribe, pues aseguró que es probable que se quede con su programa como lo ha hecho con los antes mencionados. Fue a través de su cuenta de Twitter en donde Adal Ramones fue contundente a la hora de advertir a Franco Escamilla sobre Adrián Uribe. 

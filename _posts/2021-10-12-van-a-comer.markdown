@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de sus redes sociales, el Chef Herrera dejó claro que sólo en ocasiones especiales prende el televisor de su restaurante, pues en su negocio las personas van a pasarla “chingón”. "
 image: "/uploads/2021/images-chef-herrera-masterchef-celebrity-mexico.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Van a comer de puta madre -  Chef Herrera revela por qué no deja ver la 'estúpida' TV en su restaurante"
 front: false
 section: "Espectáculos"
-news_id: 188627
+redirect_from: /news/188627
 ---
 
 Adrián Francisco Herrera, mejor conocido como ‘el Chef Herrera’, causó controversia al revelar que en su restaurante prohíbe ver la televisión. Y es que el famoso integrante de ‘Master Chef’ dio a conocer la razón por la que los comensales no pueden ver la "estúpida tele" mientras comen. 

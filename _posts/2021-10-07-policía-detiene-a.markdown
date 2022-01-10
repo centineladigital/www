@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las autoridades protagonizaron por varias horas la búsqueda de Timothy George Simpkins, quien supuestamente provocó el ataque que dejó cuatro heridos. "
 image: "/uploads/2021/images-timothy-george-simpkins-sospechoso-tiroteo-1_0_116_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Policía detiene a sospechoso del tiroteo en secundaria de Arlington, Texas"
 front: false
 section: "Internacional"
-news_id: 188468
+redirect_from: /news/188468
 ---
 
 El Departamento de Policía de Arlington, en Texas, informó que logró la detención de Timothy George Simpkins, de 18 años, sospechoso del tiroteo al interior de la escuela secundaria Timberview, donde hay cuatro personas heridas, un adulto y tres estudiantes, en un hecho que generó preocupación constante en la comunidad educativa. 

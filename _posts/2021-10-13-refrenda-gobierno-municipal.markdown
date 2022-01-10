@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Brinda CAPPSI acompañamiento terapéutico de profesionales en la materia"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Refrenda Gobierno Municipal atención a la salud mental de los chihuahuenses"
 front: false
 section: "Local"
-news_id: 188689
+redirect_from: /news/188689
 ---
 
 El Gobierno Municipal, a través del Centro de Atención y Prevención Psicológicas (CAPPSI), refrenda y a la población los servicios que ofrece en atención a la salud mental que se brindan de manera presencial o virtual para mayor comunidad de las y los usuarios.

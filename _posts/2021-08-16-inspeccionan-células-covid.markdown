@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se derivó siete actas a bares y la interrupción de dos fiestas donde fue necesario el desalojo de los presentes"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inspeccionan Células COVID Municipales 52 bares y domicilios este fin de semana"
 front: false
 section: "Local"
-news_id: 186733
+redirect_from: /news/186733
 ---
 
 Con la intención de dar continuidad a las inspecciones para que se acaten las medidas sanitarias y prevenir contagios de coronavirus tanto en establecimientos nocturnos como en casas habitación de la ciudad, las Células COVID Municipales realizaron la inspección de 52 lugares, lo que derivó en siete actas a bares y la interrupción de dos fiestas donde fue necesario el desalojo de los presentes.

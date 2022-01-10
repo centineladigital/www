@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solo se detectaron 63 nuevos casos de personas contagiadas."
 image: "/uploads/2021/images-ARTURO_VALENZUELA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02_ARTURO_VALENZUELA.mp3"
 alt: "Sin registro de defunciones este lunes"
 front: false
 section: "Local"
-news_id: 181863
+redirect_from: /news/181863
 ---
 
 Este lunes al darse a conocer las cifras de defunciones acreditadas en las últimas 24 horas no hubo registro de pérdidas de vidas, según lo expresó el Director Médico de la Zona Norte Arturo Valenzuela Zorrilla. 

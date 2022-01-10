@@ -16,11 +16,11 @@ author: nil
 description: "Obligar a los jóvenes a registrarse ante hacienda es para tratar de buscar flujos de dinero "
 image: "/uploads/2021/images-principal_oct19-3.jpg"
 video: "/uploads/2021/videos-BM01_MARIO_VAZQUEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Miscelánea Fiscal Es Una Idea Persecutoria Y Terrorista "
 front: false
 section: "Local"
-news_id: 188930
+redirect_from: /news/188930
 ---
 
 El diputado Mario Vázquez manifestó que respecto a la aprobación de la miscelánea fiscal es una idea persecutoria y terrorista de la bancada de morena, ya que obligar a los jóvenes a registrarse ante hacienda es para tratar de buscar flujos de dinero a pesar de ser becas  o apoyos de los padres de familia.

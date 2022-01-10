@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que dejarán ganada la extradición antes de concluir la enfermedad."
 image: "/uploads/2021/images-ESPINOZA.jpg"
 video: "/uploads/2021/videos-ML01_JORGE_ESPINOZA.mp4"
-audio: "nil"
+audio: nil
 alt: "Operación Justicia más fuerte que nunca -  Consejero"
 front: false
 section: "Local"
-news_id: 186745
+redirect_from: /news/186745
 ---
 
 Operación Justicia para Chihuahua se encuentra más fuerte que nunca, declaró el Consejero Jurídico Jorge Espinoza Cortés. Esto al afirmar que dentro del estado el combate a la corrupción es más fuerte que en otras entidades federativas, incluso ha superado la administración que encabeza Andrés Manuel López Obrador. 

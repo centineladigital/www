@@ -10,11 +10,11 @@ author: nil
 description: "Esto tras darse a conocer de manera extraoficial que la empresa financió campañas electorales de diversos actores políticos entre ellos la de María Eugenia Campos Galván."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-ML03_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Descarta Gobernadora relación con socios de ARAS"
 front: false
 section: "Local"
-news_id: 190553
+redirect_from: /news/190553
 ---
 
 La Gobernadora de Chihuahua descartó que exista una relación entre ella y los socios de la financiera Aras, esto tras darse a conocer de manera extraoficial que la empresa financió campañas electorales de diversos actores políticos entre ellos la de María Eugenia Campos Galván.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Christian Chávez le lanzó una indirecta a Sergio Mayer Mori después de que asegurara que odia a RBD. "
 image: "/uploads/2021/images-christian-chavez-mando-indirecta-sergio_53_0_1044_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Qué triste -  Christian Chávez le responde a Sergio Mayer Mori después de decir que odia RBD"
 front: false
 section: "Espectáculos"
-news_id: 184654
+redirect_from: /news/184654
 ---
 
 Hace unos días en una transmisión en vivo Sergio Mayer Mori causó polémica después de que revelara que odiaba a RBD y que no le gustaban las canciones del grupo, algo que desató críticas en su contra ya que él formará parte del remake de Rebelde, una serie que será transmitida por Netflix. Ahora, quien habló sobre este tema fue Christian Chávez, ex RBD. El actor y cantante, Christian Chávez, quien actuó en la telenovela Rebelde y formó parte del grupo musical derivado de la telenovela, RBD, no dudó en reaccionar al polémico comentario del hijo de Bárbara Mori. 

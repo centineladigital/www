@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se dieron a conocer a los cinco cantantes que serán los coaches de La Voz Kids. Belinda y María José siguen en el programa. "
 image: "/uploads/2021/images-belinda-maria-jose-seguiran-programa_53_0_1044_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Y Nodal? Ellos serán los coaches de 'La Voz Kids'"
 front: false
 section: "Espectáculos"
-news_id: 182201
+redirect_from: /news/182201
 ---
 
 Sin duda La Voz se ha convertido en unos de los programas más exitosos. En la edición 2020 vimos a Ricardo Montaner, María José, Christian Nodal y Belinda como los coaches quienes tuvieron que hacer difíciles decisiones para escoger a su finalista y ahora se han revelados quienes serán los encargados de guiar a los participantes en La Voz Kids. 

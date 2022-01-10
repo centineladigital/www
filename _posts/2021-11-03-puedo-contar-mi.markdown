@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz de 43 años, que es sorda de nacimiento, se había dedicado a criar a sus dos hijos con su esposo Douglas Ridloff cuando llegó a una lectura improvisada de una obra de teatro donde comenzó su camino actoral. "
 image: "/uploads/2021/images-lauren-ridloff-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Puedo contar mi propia historia -  Lauren Ridloff , la actriz sorda que protagoniza 'Eternals'"
 front: false
 section: "Espectáculos"
-news_id: 189526
+redirect_from: /news/189526
 ---
 
 Aunque actualmente es reconocida a nivel mundial por su participación en la nueva película de Marvel, Eternals, hace tres años Lauren Ridloff solo tenía un papel importante en su haber: una reposición en Broadway de Children of a Lesser God, actuación que le valió una nominación al Tony y convirtió a Ridloff, entonces una ex maestra de kínder de 40 años, en un talento emergente. Ridloff ni siquiera se había propuesto necesariamente ser una actriz. Inicialmente, solo estaba ayudando al director de Children of a Lesser God, Kenny Leon, como tutora de lenguaje de señas. Aún así, en ese momento, tenía grandes expectativas. Al hablar con el New York Times en mayo de 2018 dijo que le gustaría interpretar a una superheroína. 

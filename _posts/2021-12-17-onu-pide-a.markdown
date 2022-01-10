@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“Estamos consternados por la muerte de estas personas en el sur de México y urgimos a las autoridades a que lleven a cabo una investigación sobre los hechos con el fin de garantizar justicia para las víctimas y sus familiares”, expresó la portavoz de ONU-DH, Ravina Shamdasani."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "ONU pide a México investigación por muerte de 56 migrantes tras accidente en Chiapas"
 front: false
 section: "Internacional"
-news_id: 190956
+redirect_from: /news/190956
 ---
 
 Ginebra.- La Oficina de Naciones Unidas para los Derechos Humanos pidió hoy a las autoridades mexicanas que se investigue el accidente en el que murieron 56 migrantes el pasado 9 de diciembre en el estado de Chiapas. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Secretaría de Salud reportó que, además, en las últimas 24 horas se confirmaron 112 nuevos casos y a la fecha el total es de 67,436 acumulados"
 image: "/uploads/2021/images-Covid-19.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Casi 7 mil muertes en el estado de Chihuahua por Covid-19"
 front: false
 section: "Local"
-news_id: 184579
+redirect_from: /news/184579
 ---
 
 De acuerdo con el último reporte epidemiológico de la Secretaría de Salud, el estado acumula 6 mil 908 muertes por Covid-19 y en las últimas horas no se registraron decesos.

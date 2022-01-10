@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor respondió si busca invalidar su matrimonio eclesiástico con Bazán para poder casarse por la iglesia con Irina Baeva. "
 image: "/uploads/2021/images-gabriel-soto-geraldine-bazan-llevan_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gabriel Soto aclara si anulará su matrimonio con Geraldine Bazán por boda con Irina Baeva"
 front: false
 section: "Espectáculos"
-news_id: 186307
+redirect_from: /news/186307
 ---
 
 Gabriel Soto llegará otra vez al altar con la actriz Irina Baeva, con quien mantiene un noviazgo desde hace más de tres años y después de su polémica separación de Geraldine Bazán. El actor de telenovelas volvió al ojo del huracán por las polémicas declaraciones que hizo al ser cuestionado sobre si estaría dispuesto a anular su matrimonio eclesiástico.  

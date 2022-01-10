@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Semáforo determinará el regreso de estas personas a la vida laboral."
 image: "/uploads/2021/images-GUMARO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM05_GUMARO_BARRIOS.mp3"
 alt: "Regreso de empacadores o cerillos aún sin determinar -  Salud"
 front: false
 section: "Local"
-news_id: 183526
+redirect_from: /news/183526
 ---
 
 Pese a que llevan casi un año sin poder laborar, empacadores de los centros comerciales aún no pueden laborar. Afirmó el Subdirector de Epidemiología del Gobierno del Estado, Gumaro Barrios Gallegos.

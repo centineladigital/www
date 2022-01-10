@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Buscan disminuir enfermedades de transmisión sexual"
 image: "/uploads/2021/images-ANTONIO.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan campaña de uso de condón"
 front: false
 section: "Local"
-news_id: 182899
+redirect_from: /news/182899
 ---
 
 Con el fin de evitar que se registren incrementos en enfermedades de transmisión sexual y embarazos no deseados este viernes se dio a conocer la campaña para fomentar el uso del condón.

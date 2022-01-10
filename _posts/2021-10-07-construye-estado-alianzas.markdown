@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“Nuestra misión es posicionar a Chihuahua como la entidad con el Centro de Conciliación más sobresaliente del país”."
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Construye Estado alianzas estratégicas para consolidación de reforma laboral   "
 front: false
 section: "Local"
-news_id: 188471
+redirect_from: /news/188471
 ---
 
 Con la finalidad de impulsar acciones conjuntas para una exitosa consolidación de la reforma laboral en el estado de Chihuahua, el titular de la Secretaría del Trabajo y Previsión Social (STPS), Diódoro Siller Argüello, formó parte del Encuentro Empresarial en Materia Laboral y Patronal en ciudad Cuauhtémoc.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La obra protagonizada por el actor y cantante Benny Ibarra fue todo un éxito   "
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentación estelar de obra “Novecento” cierra actividades FICUU 2021 en el Teatro de la Ciudad   "
 front: false
 section: "Local"
-news_id: 189126
+redirect_from: /news/189126
 ---
 
 Como parte de las actividades del Festival Internacional de la Ciudad de Chihuahua (FICUU) 2021, el Teatro de la Ciudad se vistió de gala con la presentación de la obra “Novecento”, protagonizada por el actor y cantante Benny Ibarra que brindó en dos funciones una presentación estelar.

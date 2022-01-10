@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Empresarios piden no ser espectadores y ejercer el voto."
 image: "/uploads/2021/images-USEM.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_ANTONIO_CONTESTABILE.mp3"
 alt: "Exhorta USEM a votar"
 front: false
 section: "Local"
-news_id: 184801
+redirect_from: /news/184801
 ---
 
 La Unión Social de Empresarios de México o USEM por sus sigla exhortó a votar esto dentro de una campaña donde buscan que se dé la forma en la que se pueda construir el Bien Común es real e implica forzosamente la participación de todos en un marco de democracia.

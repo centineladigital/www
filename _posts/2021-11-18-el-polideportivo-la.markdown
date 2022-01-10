@@ -18,11 +18,11 @@ author: nil
 description: "Presenta un estimado de 180 millones de pesos para su fabricación, y tendrá 28 canchas para diversas actividades"
 image: "/uploads/2021/images-descarga_(6).jpg"
 video: "/uploads/2021/videos-BJ01_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "El polideportivo la obra más importante de Chihuahua -  Bonilla  "
 front: false
 section: "Local"
-news_id: 189970
+redirect_from: /news/189970
 ---
 
 El presidente municipal Marco Antonio Bonilla Mendoza,  informó que el polideportivo será la obra más importante a nivel deporte, la cual presenta un estimado de 180 millones de pesos para su fabricación, y tendrá 28 canchas para diversas actividades.

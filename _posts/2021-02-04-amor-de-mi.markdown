@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de Facebook, Vicente Fernández compartió la postal para mostrar el amor que siente por su esposa. Sin embargo, debido a la reciente polémica sobre acoso sexual recibió fuertes críticas.  "
 image: "/uploads/2021/images-vicente-fernandez-presume-amor-esposa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Amor de mi vida -  Vicente Fernández dedica romántico mensaje a su esposa; lo critican"
 front: false
 section: "Espectáculos"
-news_id: 182698
+redirect_from: /news/182698
 ---
 
 Vicente Fernández, mejor conocido como Don Chente, reapareció en las redes sociales después de la polémica que lo envolvió al ser exhibido acosando a fans que se tomaban fotos con él. ¿Revivió la controversia? El padre de Alejandro Fernández hizo uso de sus redes sociales con el fin de presumir “el amor” que siente por su esposa doña Cuquita. Junto a una imagen, en donde ambos aparecen, el cantante de Estos Celos le dedicó un romántico mensaje. 

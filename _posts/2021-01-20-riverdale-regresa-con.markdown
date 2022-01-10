@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La historia de Archie y sus amigos estrena este miércoles por la señal de Warner Channel, con situaciones que dejan atrás los sucesos de la preparatoria Stonewall. "
 image: "/uploads/2021/images-quinta-temporada-riverdale-regresa-pantalla.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Riverdale regresa con más suspenso en su quinta temporada"
 front: false
 section: "Espectáculos"
-news_id: 182296
+redirect_from: /news/182296
 ---
 
 Las aventuras de este grupo de jóvenes, que fueron inmortalizados en los cómics regresa a la pantalla de Warner Channel, cuando este miércoles inicie la transmisión de la quinta temporada de Riverdale, una serie que ha conquistado a su público, no solo por la ya conocida historia de Archie, sino por la transformación que sus productores le dieron a la trama clásica, que ahora está envuelta entre el suspenso y la traición. 

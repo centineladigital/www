@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En redes sociales, los internautas hicieron memes sobre César Costa y su buena apariencia física. ¿La edad no pasa sobre él? ¿Parece más joven? "
 image: "/uploads/2021/images-envejece-cesar-costa-impacta-subir.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Competencia de Chabelo? César Costa impacta a sus 80 años; luce más joven y lo festejan con memes"
 front: false
 section: "Espectáculos"
-news_id: 186723
+redirect_from: /news/186723
 ---
 
 César Costa, icónico actor y cantante en México, recientemente cumplió 80 años y sorprendió a sus fans por el estado físico en el que se encuentra. Y es que el protagonista de la famosa serie Papa Soltero demostró que la edad no pasa sobre él, pues se ve de mucho más joven. Esto ocasionó que el famoso se volviera protagonista de divertidos memes. ¿Qué se hace para no envejecer? ¿Cómo se conserva tan bien? Te contamos lo que sucedió este fin de semana. 

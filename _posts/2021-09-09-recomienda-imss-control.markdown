@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El doctor Héctor Torres Martínez, médico adscrito al área de cirugía en la División de Unidades de Segundo Nivel, indicó que de 10 pacientes que requieren amputación, seis o siete son por enfermedad no controlada"
 image: "/uploads/2021/images-Foto_394-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recomienda IMSS control óptimo de enfermedades crónico-degenerativas a personas con riesgo de amputación"
 front: false
 section: "Local"
-news_id: 187596
+redirect_from: /news/187596
 ---
 
 La amputación de extremidades en el Instituto Mexicano del Seguro Social (IMSS) principalmente se debe a enfermedades crónico-degenerativas no controladas como Diabetes Mellitus y Ateroesclerosis, por ello especialistas de la Institución recomiendan mantener un régimen de vida saludable y llevar sus evaluaciones médicas periódicas, ya que en el último año se realizaron cerca de 15 mil procedimientos de este tipo.

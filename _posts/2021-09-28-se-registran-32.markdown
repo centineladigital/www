@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "También se ratificó el mismo número de defunciones quedando en 7 mil 951; en recuperados suman 67 mil 002 (+305) recuperados, descartados son 68 mil 678 (+470) y contabiliza en 769 (-188) los casos sospechosos."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 32 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 188144
+redirect_from: /news/188144
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 28 de Septiembre se tiene un total general de 77 mil 849 contagios en el estado. Luego de confirmarse otros 32 más en Juárez, Bocoyna, Buenaventura, Chinipas, Urique y Nonoava. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El informe imputa al presidente de Brasil por crímenes de lesa humanidad por su deliberada gestión de la pandemia de covid-19, en que también pedirá inculpar a otras 77 personas, incluyendo varios ministros y ex ministros. "
 image: "/uploads/2021/images-jair-bolsonaro-inculpado-senador-brasil_0_22_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Senado de Brasil aprueba informe para inculpar a Bolsonaro por gestión del covid-19"
 front: false
 section: "Internacional"
-news_id: 189294
+redirect_from: /news/189294
 ---
 
 La comisión del Senado de Brasil que investigaba la gestión de la pandemia aprobó el informe que recomienda inculpar a Jair Bolsonaro de graves delitos como "crímenes contra la humanidad" por la gestión de la pandemia y pidió suspender el acceso del presidente a sus cuentas en redes sociales por citar información falsa sobre el covid-19. 

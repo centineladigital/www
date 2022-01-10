@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Por ello es importante continuar acatando las recomendaciones, a fin de prevenir incidentes dentro del hogar y en la vía pública "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Probabilidad de lluvias para todo el fin de semana en la ciudad"
 front: false
 section: "Local"
-news_id: 186124
+redirect_from: /news/186124
 ---
 
 De acuerdo al pronóstico que emite el Servicio Meteorológico Nacional, se esperan lluvias intermitentes para este fin de semana, por ello es importante continuar acatando las recomendaciones, a fin de prevenir incidentes dentro del hogar y en la vía pública.

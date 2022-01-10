@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Incendio en Casas Grandes está  prácticamente liquidado y vigilado para que las ráfagas de viento no lo reactiven, una vez controlado se movilizará a los brigadistas al de San Juanito; van 531 siniestros en 2021"
 image: "/uploads/2021/images-INCENDIO_CASAS_GRANDES_JUNIO_2021_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atiende Gobierno del Estado 24 incendios activos en 11 municipios"
 front: false
 section: "Local"
-news_id: 185043
+redirect_from: /news/185043
 ---
 
 El Gobierno del Estado trabaja en el combate de 24 incendios activos en 11 municipios, que son Casas Grandes, Carichí, Guazapares, Maguarichi, Guachochi, Temósachic, Uruachi, Guadalupe y Calvo, Balleza, Bocoyna y Ocampo, informó la Secretaría de Desarrollo Rural (SDR).

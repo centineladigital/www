@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz y comediante Dalilah Polanco reveló que vivió momentos de terror luego de que un famoso la violentara físicamente, la amenazara y se la llevara en una camioneta; contó la forma en la que pudo librarse del agresor. "
 image: "/uploads/2021/images-dalilah-polanco-narro-logro-liberarse.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tenía mucho asco -  Dalilah Polanco revela que famoso intentó abusar de ella en CdMx"
 front: false
 section: "Espectáculos"
-news_id: 181866
+redirect_from: /news/181866
 ---
 
 Dalilah Polanco, actriz mexicana, destapó un fuerte episodio de su vida en el que sintió que por poco moría. La conductora de Cuéntamelo Ya! reveló que se enfrentó al machismo y misoginia de un famoso que la violentó físicamente, amenazó y tocó sexualmente después de que ambos salían de una fiesta de figuras públicas. Además expresó cómo pudo escapar de él y la forma en la que después de ser víctima se sintió culpable. En entrevista con Yordi Rosado para su canal de YouTube, Dalilah Polanco contó por primera vez que un famoso intentó abusar de ella sexualmente, luego de que salieran de una fiesta. La actriz contó que tuvo que fingir que accedería a “tener” algo con el agresor para que se pudiera zafar de la situación y sobrevivir. “Tuve que ser mucho más inteligente que él para poder salir de esa situación sin ser ni violada, ni madreada, ni muerta, pues. A este señor se le ocurrió que yo era la más bonita de la fiesta”, explicó Dalilah Polanco. 

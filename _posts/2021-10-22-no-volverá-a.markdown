@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fernando Colunga se dio a conocer en los 90 gracias a su participación en varias telenovelas, pero desde hace unos años se ha alejado de la televisión. "
 image: "/uploads/2021/images-el-actor-protagonizo-telenovelas-con.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿No volverá a actuar? Esto fue lo que pasó con Fernando Colunga, galán de telenovelas"
 front: false
 section: "Espectáculos"
-news_id: 189102
+redirect_from: /news/189102
 ---
 
 Durante los años 90 varios actores se dieron a conocer gracias a su participación en diferentes telenovelas, uno de ellos fue Fernando Colunga, quien llamó la atención por su forma de actuar, demás que se ganó el corazón de las muchas mujeres, quienes lo catalogaron como un galán de la televisión. La relación de Fernando Colunga y la actuación comenzó de una manera extraña, en una entrevista con Gustavo Adolfo Infante, el actor contó que terminó la carrera de ingeniería civil, sin embargo, siempre tuvo gusto por ser actor. 

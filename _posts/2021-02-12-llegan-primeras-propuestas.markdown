@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La UACH es la primera en levantar la mano para presentar proyectos en las más de 30 mil hectáreas, informó el gobernador Javier Corral en el programa Chihuahua Seguro; algunas apuntan a recuperar pastizales y conservar el medio ambiente"
 image: "/uploads/2021/images-CHIHUAHUA_SERGURO_OPJCH_SANTA_RITA_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Llegan primeras propuestas para nuevo destino del rancho Santa Rita incautado al exgobernador"
 front: false
 section: "Local"
-news_id: 182894
+redirect_from: /news/182894
 ---
 
 La convocatoria ciudadana para hacer llegar propuestas sobre el uso que se les dará a las más de 30 mil hectáreas del Rancho Santa Rita, fue atendida por la Universidad Autónoma de Chihuahua (UACH) que solicitó información sobre las características del predio para elaborar un proyecto, informó el fiscal César Augusto Peniche en el programa Chihuahua Seguro del gobernador Javier Corral Jurado.

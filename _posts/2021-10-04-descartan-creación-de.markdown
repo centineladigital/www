@@ -10,11 +10,11 @@ author: nil
 description: "Esto al ser cuestionado respecto a la investigación de corrupción de la pasada administración."
 image: "/uploads/2021/images-ROBERTO.jpg"
 video: "/uploads/2021/videos-ML02_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Descartan creación de grupo anticorrupción"
 front: false
 section: "Local"
-news_id: 188349
+redirect_from: /news/188349
 ---
 
 Al ser cuestionado respecto a si se crearía un grupo especial dentro de la administración para combatir la corrupción, el Fiscal General del Estado, Roberto Fierro Duarte, descartó que se vaya a crear un equipo especial para buscar acciones irregulares en la pasada corrupción.

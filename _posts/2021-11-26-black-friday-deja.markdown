@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Pese al descenso de temperatura, los habitantes esperan hasta una hora para poder cruzar a Estados Unidos para aprovechar las ofertas. "
 image: "/uploads/2021/images-cruces-fronterizos-tamaulipecos-black-friday-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Black Friday deja largas filas en puentes fronterizos de Tamaulipas"
 front: false
 section: "Internacional"
-news_id: 190225
+redirect_from: /news/190225
 ---
 
 Ni las bajas temperatura frenaron el cruce de personas hacia Estados Unidos en los puentes fronterizos de Tamaulipas para aprovechar las ofertas del Black Friday. 

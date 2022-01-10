@@ -14,11 +14,11 @@ author: nil
 description: "El bacheo,  pavimentación y relleno sanitario son temas de inmediata atención"
 image: "/uploads/2021/images-descarga_(3).jpg"
 video: "/uploads/2021/videos-BV05_FELIX_MARTINEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Se deben acelerar los temas de bacheo y pavimentación -  Martínez "
 front: false
 section: "Local"
-news_id: 188041
+redirect_from: /news/188041
 ---
 
 El Regidor presidente Félix Martínez Adriano hizo un llamado para trabajar en conjunto con las autoridades municipales y el alcalde Marco Bonilla para atender las colonias marginadas de la ciudad y acelerar los trabajos para que se atienda el tema de pavimento, bacheo, alumbrado público y parques y jardines.

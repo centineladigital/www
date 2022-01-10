@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Necesario darle vida al centro de la ciudad."
 image: "/uploads/2021/images-MARCO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ05_MARCO.mp3"
 alt: "Busca Morena reactivar Grupo “Centauro”"
 front: false
 section: "Local"
-news_id: 184325
+redirect_from: /news/184325
 ---
 
 Con el fin de garantizar seguridad en la zona centro, esto para vigilar la vida nocturna en el primer cuadro de la ciudad el candidato de MORENA a la Alcaldía de Chihuahua propuso la reactivación del grupo “Centauro”.

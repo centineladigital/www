@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que no es necesario participación de elementos federales y estatales en el municipio."
 image: "/uploads/2021/images-OSCAR.jpg"
 video: "/uploads/2021/videos-MW06_OSCAR_BARRAZA.mp4"
-audio: "nil"
+audio: nil
 alt: "No se ha pedido apoyo a federación -  Namiquipa"
 front: false
 section: "Local"
-news_id: 187959
+redirect_from: /news/187959
 ---
 
 En el municipio de Namiquipa no se ha pedido apoyo a la federación, ni al estado en materia de seguridad, aseveró el Alcalde de dicho municipio, Oscar Barraza Robledo. Esto a la asegurar que el municipio se encuentra tranquilo en materia de seguridad.

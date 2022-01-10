@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Desde su llegada a la Casa Blanca, Joe Biden se ha mostrado en contra del plan de reubicación de mexicanos impuestos por su predecesor Donald Trump. "
 image: "/uploads/2021/images-biden-pide-interrumpir-programa-quedate.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden, en 'estira y afloja' con Corte de EU por programa migratorio Quédate en México -  expertos"
 front: false
 section: "Internacional"
-news_id: 190915
+redirect_from: /news/190915
 ---
 
 El presidente estadounidense Joe Biden está inmerso en un tira y afloja con el poder judicial por el programa migratorio "Quédate en México", reimplementado recientemente, estiman expertos. Esta semana una corte de apelaciones denegó un recurso del gobierno de Biden en el que pedía rescindir este plan introducido por su predecesor republicano Donald Trump y que obliga a los solicitantes de asilo a esperar la resolución de sus casos en el país vecino. 

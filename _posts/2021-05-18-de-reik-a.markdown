@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El integrante de Reik recibió la invitación de la misma producción de Netflix para interpretar al productor musical de Luis Miguel. "
 image: "/uploads/2021/images-bibi-marin-interpreta-kiko-cibrian_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡De Reik a 'Luis Miguel, la serie'! Bibi Marín, el guitarrista que interpreta a Kiko Cibrián"
 front: false
 section: "Espectáculos"
-news_id: 184514
+redirect_from: /news/184514
 ---
 
 Ignacio Kiko Cibrián es uno de los personajes que cobró mayor fuerza en la segunda temporada de Luis Miguel, la serie, pues por primera vez se habló del papel que jugó en la carrera del cantante. Fue junto al compositor que El Sol produjo Aries, disco que incluye los éxitos "Hasta que me olvides", "Ayer" y "Suave"; sin embargo, lo que más llamó la atención es que Bibi Marín, integrante de Reik, da vida al músico en la producción de Netflix.  

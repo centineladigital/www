@@ -10,11 +10,11 @@ author: nil
 description: "Padece discapacidad, fue vista por última vez en el Parque La Burrita en el Barrio de Londres."
 image: "/uploads/2021/images-MANIFESTACIÓN.jpg"
 video: "/uploads/2021/videos-ML04_LORENA_HERRERA.mp4"
-audio: "nil"
+audio: nil
 alt: "Piden buscar a menor desaparecida"
 front: false
 section: "Local"
-news_id: 188353
+redirect_from: /news/188353
 ---
 
 Este lunes familiares de Lidia Elizabeth Luna Alvizo se manifestaron frente a Palacio de Gobierno con el fin de pedir que se dé búsqueda a la menor de tan sólo 17 años. Lorena Herrera, tía de la menor, señaló que es la familia quien se ha encargado de llevar a cabo acciones ya que no ven acciones positivas para la localización.

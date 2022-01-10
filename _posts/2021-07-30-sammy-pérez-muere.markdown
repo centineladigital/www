@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El comediante Sammy Pérez murió tras una ardua lucha contra el coronavirus, covid-19. El famoso falleció a causa de un paro cardiovascular. Te contamos lo que sabemos. "
 image: "/uploads/2021/images-muere-sammy-perez-por-covid_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sammy Pérez muere tras luchar contra covid-19; le dio un paro cardiovascular"
 front: false
 section: "Espectáculos"
-news_id: 186123
+redirect_from: /news/186123
 ---
 
 Sammy Pérez, comediante del programa XHDerbez, murió a los 55 años de un paro cardiovascular tras luchar contra el coronavirus, covid-19, y ser intubado, así lo informaron en la cuenta oficial de Instagram. El famoso había presentado varias complicaciones tras ser hospitalizado para vencer el virus; incluso se había informado que la cuenta hospitalaria rozaba el millón de pesos. Te contamos lo que sabemos.  

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Oxígeno no debe de suministrarse indiscriminadamente."
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03_ARTURO_VALENZUELA.mp3"
 alt: "No es aconsejable puntos de oxigeno indiscriminadamente"
 front: false
 section: "Local"
-news_id: 182565
+redirect_from: /news/182565
 ---
 
 El que se coloquen puntos para llenado de tanques de oxígeno no es aconsejable, aseveró el titular de la Dirección Médica Zona Norte, Arturo Valenzuela Zorrilla. Esto ya que éste no es un simple gas sino un medicamento que se tiene que dosificar por parte de los profesionales de la salud.

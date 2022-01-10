@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un coche bomba estalla frente a la alcaldía del municipio colombiano de Corinto, causando 43 heridos, en un ataque atribuido a disidencias de las FARC"
 image: "/uploads/2021/images-2552498.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atentado con coche bomba deja 43 heridos en Colombia"
 front: false
 section: "Internacional"
-news_id: 183577
+redirect_from: /news/183577
 ---
 
 Cuarenta y tres personas quedaron lesionadas por la explosión de un coche bomba frente a la alcaldía del municipio colombiano de Corinto, departamento del Cauca (suroeste), en un ataque atribuido este sábado por el gobierno a disidencias de las FARC que se marginaron del acuerdo de paz.

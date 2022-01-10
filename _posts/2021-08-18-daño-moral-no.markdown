@@ -10,11 +10,11 @@ author: nil
 description: "Señala Consejero Jurídico que el exmandatario tendrá que pagar una multa de cerca de 600 millones de pesos."
 image: "/uploads/2021/images-ESPINOZA.jpg"
 video: "/uploads/2021/videos-MW05_JORGE_ESPINOZA.mp4"
-audio: "nil"
+audio: nil
 alt: "Daño moral no alcanza montos pedidos por exgobernador"
 front: false
 section: "Local"
-news_id: 186850
+redirect_from: /news/186850
 ---
 
 “Se necesita vivir en Disneylandia para pensar en ese tipo de montos” fueron las palabras del Consejero Jurídico Jorge Espinoza Cortés, quinen dijo que los montos que pide el exmandatario de más de tres mil millones de pesos por daño moral no los alcanza según la ley.

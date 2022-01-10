@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dinosaurios, la famosa serie de los 90 está de vuelta; el simpático bebé Sinclair y su familia llegarán a Disney Plus. "
 image: "/uploads/2021/images-dino.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡El nene consentido regresa! Éste día se estrena 'Dinosaurios' en Disney Plus México"
 front: false
 section: "Espectáculos"
-news_id: 186806
+redirect_from: /news/186806
 ---
 
 Una de las series más exitosas de los años 90 y que marcaron la infancia de muchos fue Dinosaurios. La serie que cuenta historia de los Sinclair y sin duda, el personaje que se ganó el corazón de chicos y grandes fue el más pequeño de esta familia, el bebé Sinclair, quien también es conocido como el "nene consentido". Y para los fans de esta producción hay buenas noticias, ya que muy pronto estará disponible en Disney Plus. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Previo al hecho, los expertos habían detectado una gran actividad sísmica y la elevación del piso en la estructura terrestre. "
 image: "/uploads/2021/images-volcan-el-kilauea-usgs-via_116_42_792_493.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Volcán Kilauea entra en erupción en Hawái; emiten alerta"
 front: false
 section: "Internacional"
-news_id: 188209
+redirect_from: /news/188209
 ---
 
 El volcán El Kilauea entró en erupción en la Isla Grande de Hawái, confirmaron funcionarios del Servicio Geológico de Estados Unidos (USGS, por sus siglas en inglés) ante la estructura terrestre que es constantemente monitoreada debido a que es considerada como una de las más activas del planeta. 

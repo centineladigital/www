@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Chivas le sacó empate 0-0, aprovechando la falta de idea ofensiva de Santos, que por primera vez con Guillermo Almada liga dos juegos sin ganar en el Corona"
 image: "/uploads/2021/images-santos-vs-chivas-rolando-riestra_16_0_1167_725.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Santos y Chivas empatan en el Estadio Corona"
 front: false
 section: "Deportes"
-news_id: 186718
+redirect_from: /news/186718
 ---
 
 Santos Laguna dio otro partido deslucido en casa, esta vez Chivas le sacó empate 0-0, aprovechando la falta de idea ofensiva del cuadro albiverde, que por primera vez con Guillermo Almada liga dos juegos sin ganar en el Corona. Lo que se suponía un encuentro atractivo, terminó siendo uno más, pobre en llegadas y un desempeño colectivo e individual que deja mucho que desear, prueba de ello fue el abucheo de los aficionados. 

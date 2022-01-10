@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aquí te dejamos las 10 canciones más escuchadas de la semana en Spotify, en algunos países de Latinoamérica y España  "
 image: "/uploads/2021/images-10.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Las 10 canciones más escuchadas de la semana en Spotify"
 front: false
 section: "Espectáculos"
-news_id: 185928
+redirect_from: /news/185928
 ---
 
 ¿Eres de los que todo el tiempo quiere escuchar música nueva? Checa esta lista, quizá encuentres algo nuevo para tus playlist.

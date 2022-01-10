@@ -12,11 +12,11 @@ author: nil
 description: "Los directores continúan capacitándose para su cargo "
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BV01_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "Instalación de subdirecciones continúa en discusión -  Bonilla "
 front: false
 section: "Local"
-news_id: 187829
+redirect_from: /news/187829
 ---
 
 Marco Bonilla, alcalde del municipio de Chihuahua, expresó que la fecha de instalación para las subdirecciones de las diversas dependencias, aún está en discusión ya que el proceso de transición de su administración continua vigente.

@@ -12,11 +12,11 @@ author: nil
 description: "Abordaron temas de derechos indígenas, prevención y tipos de violencia, equidad de género, así como los servicios que brinda el Centro de Justicia para las Mujeres, entre otros temas "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-01_at_15.03.22.jpeg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-10-01_at_15.03.24.mp4"
-audio: "nil"
+audio: nil
 alt: "Capacitan COEPI y CEJUM a mujeres indígenas de la Red “Napawika U’muki”"
 front: false
 section: "Local"
-news_id: 188294
+redirect_from: /news/188294
 ---
 
 En el marco del convenio de colaboración entre la Comisión Estatal para los Pueblos Indígenas (COEPI) y el Centro de Justicia para las Mujeres (CEJUM), más de 30 integrantes de la Red de Mujeres Indígenas “Napawika U’muki”, recibieron capacitación sobre temas de interés y los servicios que ofrece el CEJUM. 

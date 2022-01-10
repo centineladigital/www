@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el cual exhortó a las y los ediles a trabajar de manera coordinada con la administración estatal, para beneficio de las y los chihuahuenses."
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-21_at_13.10.23.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta gobernadora a ediles a trabajar unidos con la administración estatal"
 front: false
 section: "Local"
-news_id: 187916
+redirect_from: /news/187916
 ---
 
 Maru Campos Galván encabezó del Primer Encuentro de Alcaldesas y Alcaldes con la Gobernadora, que se desarrolló en el salón 25 de Marzo de Palacio de Gobierno, en el cual exhortó a las y los ediles a trabajar de manera coordinada con la administración estatal, para beneficio de las y los chihuahuenses.

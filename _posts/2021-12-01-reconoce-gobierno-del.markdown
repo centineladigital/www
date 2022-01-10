@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se benefició a más de 10 mil docentes retirados del servicio activo, con una derrama superior a los 21 millones de pesos"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconoce Gobierno del Estado con bonos a personal docente y administrativo jubilado"
 front: false
 section: "Local"
-news_id: 190407
+redirect_from: /news/190407
 ---
 
 Con el objetivo de reconocer la dedicación y trayectoria durante el tiempo laborado, el Gobierno del Estado, a través de Servicios Educativos del Estado de Chihuahua (SEECH), realizó la entrega del incentivo económico del “Bono del Día del Maestro  pensionado y jubilado”, a maestras, maestros y personal administrativo del subsistema federalizado.

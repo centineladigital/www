@@ -10,11 +10,11 @@ author: nil
 description: "Reportan un descenso de un 50 por ciento en Ciudad Juárez y un 30 por ciento en Chihuahua."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-ML01_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Bajan homicidios en el Estado -  Gobernadora"
 front: false
 section: "Local"
-news_id: 188866
+redirect_from: /news/188866
 ---
 
 Una disminución en la tasa de homicidios se está registrando en el estado según lo señaló la Gobernadora de Chihuahua, María Eugenia Campos Galván. Esta disminución se registró con un 50 por ciento en Ciudad Juárez y un 30 por ciento en Chihuahua.

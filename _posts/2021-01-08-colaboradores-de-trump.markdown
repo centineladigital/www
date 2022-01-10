@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Algunos en señal de protesta contra el fatal asalto al Congreso del miércoles; otros piensan que le deben a la ciudadanía quedarse hasta el final"
 image: "/uploads/2021/images-2508326.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Colaboradores de Trump ponderan presentar más renuncias"
 front: false
 section: "Internacional"
-news_id: 181970
+redirect_from: /news/181970
 ---
 
 Varios funcionarios del gobierno del presidente Donald Trump están renunciando en señal de protesta contra el fatal asalto al Congreso del miércoles, mientras otros que sopesan esa decisión han concluido que le deben a la ciudadanía quedarse hasta el final para garantizar una mejor transición de poder.

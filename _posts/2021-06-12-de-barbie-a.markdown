@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La plataforma anunció que Lance Reddick (John Wick) interpretará a Albert Wesker en esta nueva versión."
 image: "/uploads/2021/images-paola-nunez-serie-resident-evil_121_0_915_570.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡De 'Barbie' a matar zombies! Paola Núñez se une a 'Resident Evil', la nueva serie de Netflix"
 front: false
 section: "Espectáculos"
-news_id: 185008
+redirect_from: /news/185008
 ---
 
 ¿Cómo olvidar aquellos tiempos en los que Barbie estaba enamorada de Pacheco en la telenovela de TV Azteca, Amor en Custodia? Ya han pasado 15 años desde que se estrenó este programa de televisión y sus protagonistas han emprendido otros proyectos como en el que la actriz Paola Núñez se encuentra en este momento, Resident Evil. En este día, Netflix nos dejó varias novedades en su contenido que se estrenará próximamente en la plataforma de streaming, una de ellas es el reparto del nuevo proyecto, Resident Evil, el cual tendrá ocho capítulos de una hora y en el que participará la actriz mexicana, Paola Núñez.

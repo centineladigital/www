@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Foro tiene como objetivos principales solucionar sobreexplotación de acuíferos y atender la sequía del Norte del país con acciones inmediatas coordinadas entre autoridades, academia y usuarios   "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura Coordinador de Gabinete 4to Foro SMART WATER"
 front: false
 section: "Local"
-news_id: 190435
+redirect_from: /news/190435
 ---
 
 En representación de la gobernadora Maru Campos, el coordinador de Gabinete, Luis Serrato Castell, encabezó la ceremonia inaugural del 4to Foro SMART WATER “agua subterránea y sequía”, en el Centro de Convenciones de Chihuahua.

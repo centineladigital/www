@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la alerta, los expertos de la OMS, encargados de aconsejar al director general del organismo, Tedros Adhanom Ghebreyesus, aclaran que la pandemia está lejos de terminar. "
 image: "/uploads/2021/images-covidd.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hay fuerte probabilidad de nuevas variantes de covid-19 más peligrosas, alerta OMS"
 front: false
 section: "Internacional"
-news_id: 185683
+redirect_from: /news/185683
 ---
 
 El Comité de urgencia de la Organización Mundial de la Salud (OMS) advirtió hoy de la "fuerte probabilidad" de que emerjan nuevas variantes del coronavirus, que serían "más peligrosas" que las que actualmente se han detectado en el mundo, entre ellas la mutación denominada Delta, la cual es más infecciosa, según los especialistas. 

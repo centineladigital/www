@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El pronóstico contempla lluvias aisladas durante las próximas 24 horas, sobre los municipios de la región oriental del estado"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Gobierno del Estado aviso preventivo por lluvias en próximas horas"
 front: false
 section: "Local"
-news_id: 188970
+redirect_from: /news/188970
 ---
 
 El Gobierno del Estado, a través de la Coordinación Estatal de Protección Civil (CEPC) emite un aviso preventivo para que la ciudadanía tome las previsiones correspondientes, en base al pronóstico de lluvias, para próximos horas en la entidad.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista con Gustavo Adolfo Infante, Merle Uribe aclaró que ella hace unos días revivió su amorío con el cantante porque fue parte de su vida. "
 image: "/uploads/2021/images-vicente-fernandez-habria-pagado-millones.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vicente Fernández pagó 4 millones de dólares a su supuesto hijo para que desapareciera -  ex de Don Chente"
 front: false
 section: "Espectáculos"
-news_id: 191051
+redirect_from: /news/191051
 ---
 
 La muerte de Vicente Fernández sigue dando de qué hablar. Y es que a una semana del fallecimiento de ‘El Charro de Huentitán’ los dimes y diretes sobre su vida continúan. Esta vez, Merle Uribe –actriz y cantante que tuvo una relación amorosa con el famoso cuando estaba casado con Doña Cuquita– reveló algo que ha dado mucho de qué hablar. Aseguró que presuntamente Don Chente pagó millones de dólares para que el presunto hijo no reconocido del cantante con Patricia Rivera desapareciera de su vida. En entrevista con Gustavo Adolfo Infante, Merle Uribe aclaró que ella hace unos días revivió su amorío con el cantante porque fue parte de su vida. 

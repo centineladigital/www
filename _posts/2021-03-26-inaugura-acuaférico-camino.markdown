@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Contó con una inversión superior a los 400 millones de pesos."
 image: "/uploads/2021/images-CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV06_JAVIER_CORRAL.mp3"
 alt: "Inaugura Acuaférico Camino Real"
 front: false
 section: "Local"
-news_id: 183569
+redirect_from: /news/183569
 ---
 
 Colonias del norponiente de la ciudad podrán verse beneficiadas con la apertura del Acuaférico Camino Real, el cual fue inaugurado esta viernes, esto con una inversión de más de 400 millones de pesos con fondos propios. El cual contará con más de tres mil 600 metros dentro de su primera etapa.

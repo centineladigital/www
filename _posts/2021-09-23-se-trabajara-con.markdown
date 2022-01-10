@@ -14,11 +14,11 @@ author: nil
 description: "Se llevó a cabo la toma e protesta de Karina Olivas como directora del DIF  "
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BJ05_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: " Se trabajara con perspectiva familiar -  Marco Bonilla"
 front: false
 section: "Local"
-news_id: 188006
+redirect_from: /news/188006
 ---
 
 El presidente aseguró que el núcleo familiar un motor importante para las personas, por lo cual este Gobierno Municipal trabajará y realizará programas con perspectiva de familia que atiendan las necesidades de los chihuahuenses.

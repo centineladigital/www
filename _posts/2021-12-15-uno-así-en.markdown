@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Kiss tocará dentro de una gira de despedida en la que tiene previsto interpretar los grandes éxitos de su casi cincuenta años."
 image: "/uploads/2021/images-kiss-y-alice-cooper-encabezan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Uno así en México! Kiss, Alice Cooper y Manowar encabezan festival en España"
 front: false
 section: "Espectáculos"
-news_id: 190908
+redirect_from: /news/190908
 ---
 
 Cada día regresan más festivales y conciertos alrededor del mundo, reuniendo a los mejores artistas y bandas de la escena musical. 

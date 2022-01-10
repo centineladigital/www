@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Emite recomendaciones para continuar con las medidas preventivas y evitar contagios por COVID-19"
 image: "/uploads/2021/images-campaña_regreso_a_clases_09.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia Pensiones Civiles campaña  para un regreso a clases con salud"
 front: false
 section: "Local"
-news_id: 187337
+redirect_from: /news/187337
 ---
 
 Pensiones Civiles del Estado (PCE) inició la campaña “Regreso a clases con salud”, dirigida a padres y madres de familias, así como a personal docente, para evitar contagios por COVID-19, y cuidar a los más de 16 mil niños y niñas derechohabientes de entre 4 y 16 años de edad, que cursan el nuevo ciclo escolar 2021-2022.

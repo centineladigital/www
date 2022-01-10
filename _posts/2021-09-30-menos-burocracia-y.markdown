@@ -14,11 +14,11 @@ author: nil
 description: "“Hagamos la cruzada de innovación más importante de la Historia de Chihuahua” "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-30_at_12.12.18.jpeg"
 video: "/uploads/2021/videos-BJ04_EDGAR_PIÑON.mp4"
-audio: "nil"
+audio: nil
 alt: "Menos burocracia, y mejores servicios Edgar Piñón"
 front: false
 section: "Local"
-news_id: 188240
+redirect_from: /news/188240
 ---
 
 Es importante que se considere como eje prioritario la Innovación en el servicio público, a fin de mejorar la productividad de las organizaciones públicas y eficientar cada uno de los servicios prestados a la ciudadanía, expuso mediante punto de acuerdo con carácter de urgente resolución, el diputado priista, Edgar Piñón.

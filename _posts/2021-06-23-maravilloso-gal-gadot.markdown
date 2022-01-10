@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Gal Gadot presumió un Mustang con emblemas de Wonder Woman y sus fanáticos enloquecieron.  "
 image: "/uploads/2021/images-gal-gadot-presume-automovil-wonder.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Maravilloso! Gal Gadot presume automóvil de 'Wonder Woman'"
 front: false
 section: "Espectáculos"
-news_id: 185200
+redirect_from: /news/185200
 ---
 
 Una tercera entrega de Wonder Woman protagonizada por Gal Gadot es material de deseo por parte de muchos fanáticos del Universo DC, pero habrá que esperar tres o cuatro años para ello, según los planes actuales. Mientras tanto, la actriz presumió un automóvil personalizado con emblemas de la Mujer Maravilla en sus redes sociales. "No es un jet invisible pero supongo que lo hará", escribió la actriz de origen israelí a modo de broma. 

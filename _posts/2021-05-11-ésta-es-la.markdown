@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante estadunidense envió una carta a Luis Miguel para demostrarle su admiración y felicitarlo por su estrella en Hollywood. "
 image: "/uploads/2021/images-carta-mando-frank-sinatra-luis_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ésta es la emotiva carta que Frank Sinatra escribió a Luis Miguel -  Un talento enorme"
 front: false
 section: "Espectáculos"
-news_id: 184398
+redirect_from: /news/184398
 ---
 
 Aunque el capítulo cinco de Luis Miguel, la serie se centró en mostrar el papel decisivo que jugó Hugo López en la carrera y vida privada del cantante, otro de los momentos clave que revivió la producción fue el primer encuentro de El Sol con Frank Sinatra en Nueva York, una tensa reunión que desencadenó en "Come Fly with me", el dueto musical que grabaron los artistas en 1994. Luis Miguel siempre fue un fiel seguidor del intérprete estadunidense, pues tiempo después de lanzar su colaboración confesó que cantar a su lado fue "un sueño hecho realidad". Pero, la admiración era mutua, tal como lo demuestra una carta que le mandó Frank Sinatra a Luis Miguel. 

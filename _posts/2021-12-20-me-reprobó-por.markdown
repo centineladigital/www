@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz señaló que uno de sus profesores se burló de ella y su acento; contó que tras el infortunado encuentro llamó a su papá llorando para decirle que quería regresar a México.   "
 image: "/uploads/2021/images-sofia-castro-revela-sufrio-discriminacion.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me reprobó por ser mexicana -  Sofía Castro revela que sufrió discriminación en EU"
 front: false
 section: "Espectáculos"
-news_id: 191030
+redirect_from: /news/191030
 ---
 
 Sofía Castro se ha ganado un lugar en la industria del entretenimiento tras su participación en las telenovelas mexicanas y su más reciente aparición en la serie Malverde: el santo patrón, junto a Pedro Fernández. Sin embargo, la hija de Angélica Rivera y José Alberto El Güero Castro contó que a lo largo de su carrera ha vivido complicados momentos, pues reveló que ha sufrido de discriminación en Estados Unidos.  La actriz relató en una entrevista para el programa Sale el Sol que en 2017 decidió dejar México para continuar con sus estudios en Los Ángeles, California, donde fue víctima de discriminación por parte de uno de sus profesores debido a su origen latino.  

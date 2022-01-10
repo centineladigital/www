@@ -16,11 +16,11 @@ author: nil
 description: "Se debe integrar cada vez a más mujeres para que ocupen cargos importantes"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-20_at_13.47.14.jpeg"
 video: "/uploads/2021/videos-BW05_ISMAEL_PEREZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Visita Pérez Pavía y CDE a militantes de Ojinaga"
 front: false
 section: "Local"
-news_id: 188993
+redirect_from: /news/188993
 ---
 
 Ismael Pérez Pavía atendió la invitación del Comité Directivo Estatal del Partido Acción Nacional en el marco de la gira Chihuahua En Acción, la cual llegó al municipio de Ojinaga.

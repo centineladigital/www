@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fija posicionamiento la Fiscalía General del Estado ya que la defensa nuevamente ha hecho un uso mediático y distorsiona la información técnico-procesal de la causa penal 2821/2020"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Defensa pidió diferir audiencia por “nómina secreta”; insta FGE a intervinientes a conducirse con ética"
 front: false
 section: "Local"
-news_id: 183619
+redirect_from: /news/183619
 ---
 
 La Fiscalía General del Estado hace un respetuoso llamado a los intervinientes de la causa penal 2821/2020, a fin de que se conduzcan con ética para evitar la distorsión en la información procesal.

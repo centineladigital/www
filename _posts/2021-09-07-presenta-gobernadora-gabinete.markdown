@@ -10,11 +10,11 @@ author: nil
 description: "Integrantes del gabinete municipal pasan a formar parte del nuevo gabinete estatal."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MM01_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Presenta Gobernadora gabinete ampliado"
 front: false
 section: "Local"
-news_id: 187515
+redirect_from: /news/187515
 ---
 
 Este martes la Gobernadora electa, María Eugenia Campos Galván, dio a conocer los nombres de quien pertenecerá a su gabinete ampliado, así como de quien por cuestiones de ley deberá ser ratificado por parte del congreso del Estado. 

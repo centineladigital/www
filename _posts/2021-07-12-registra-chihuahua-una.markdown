@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El reporte de la Secretaría de Salud, detalla que se trata de una persona residente del municipio de Ocampo; hubo además 79 nuevos contagios confirmados."
 image: "/uploads/2021/images-Diapositiva2.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registra Chihuahua una víctima más de COVID-19"
 front: false
 section: "Local"
-news_id: 185545
+redirect_from: /news/185545
 ---
 
 El estado de Chihuahua registró un nuevo deceso y 79 casos confirmados por COVID-19, de acuerdo con el último reporte epidemiológico, dado a conocer por la Secretaría de Salud.

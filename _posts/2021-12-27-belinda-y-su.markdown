@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hace un año Belinda sorprendió al revelar que es gran amiga de Jared Leto e incluso se les vio interactuar en algunas transmisiones en vivo en Instagram. "
 image: "/uploads/2021/images-los-famosos-demostraron-que-tienen_19_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Belinda y su inesperada amistad con Jared Leto, así se conocieron los famosos"
 front: false
 section: "Espectáculos"
-news_id: 191234
+redirect_from: /news/191234
 ---
 
 No es de extrañarnos que varios famosos debido a su trabajo realizan colaboraciones y tiempo después se vuelven amigos, sin embargo, hace un tiempo a todos nos sorprendió saber que entre Belinda y Jared Leto existía una amistad que hasta ese momento muchos desconocíamos. Jared Leto ha destacado en el cine por su trabajo en diferentes películas e incluso también ha incursionado en la música, ya que es el vocalista de la banda 30 Seconds to Mars. Por otra parte, Belinda al igual que Jared comenzó su carrera como actriz y se enfocó en la música. Similitudes tal vez por las que comenzó su amistad. 

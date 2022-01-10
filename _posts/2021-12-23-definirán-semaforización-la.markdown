@@ -10,11 +10,11 @@ author: nil
 description: "Esto luego de que pasen las fiestas decembrinas."
 image: "/uploads/2021/images-maru.jpg"
 video: "/uploads/2021/videos-MJ04_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Definirán semaforización la primer semana de enero"
 front: false
 section: "Local"
-news_id: 191168
+redirect_from: /news/191168
 ---
 
 Será la primer semana de enero cuando se tenga la reunión del Consejo de Salud, aseveró la Gobernadora de Chihuahua María Eugenia Campos Galván. Con lo que se definirá la situación en materia de restricciones por el COVID-19.

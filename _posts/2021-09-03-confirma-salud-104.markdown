@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los municipios con más casos acumulados son: Juárez con 34,306, Chihuahua 22,664 y Parral 3,372"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Confirma Salud 104 contagios y 2 decesos más en el último reporte estatal COVID-19"
 front: false
 section: "Local"
-news_id: 187402
+redirect_from: /news/187402
 ---
 
 El estado de Chihuahua registró 104 nuevos casos confirmados de COVID-19 y dos decesos, en Chihuahua y Cuauhtémoc, de acuerdo con el reporte que emite diariamente la Secretaría de Salud estatal.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ubicadas en 25 colonias de la ciudad, se compactaron diversos tramos"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rehabilita Gobierno Municipal 46 calles por seguridad de conductores"
 front: false
 section: "Local"
-news_id: 189300
+redirect_from: /news/189300
 ---
 
 Como parte de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Obras Públicas y del Departamento de Maquinaria Pesada, atendió en lo que va del mes de octubre, 46 calles de terracerías de 25 colonias en la ciudad.

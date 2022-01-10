@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con recursos provenientes del Fondo de Reparación Justicia para Chihuahua, se contribuye a elevar la calidad de vida de miles de habitantes de pequeñas comunidades"
 image: "/uploads/2021/images-c6343d0c-6129-4433-b55e-d799545d94f4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Equipa Estado pozo de agua potable en Huejotitán  y realiza obras con inversión de 4.1 mdp"
 front: false
 section: "Local"
-news_id: 187147
+redirect_from: /news/187147
 ---
 
 Gobierno del Estado, a través de la Secretaría de Desarrollo Municipal (Sedemun), en coordinación con el Ayuntamiento de Huejotitán, desarrolló tres importantes obras en la comunidad El Pichague y una más en la cabecera municipal, con inversión total de cuatro millones 192 mil 206.92 pesos del Fondo de Recuperación Justicia para Chihuahua.

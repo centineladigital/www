@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se busca impulsar acciones que contribuyan a la formación y especialización de las y los estudiantes, así como promover investigaciones conjuntas, además de un desarrollo tecnológico y académico de la región"
 image: "/uploads/2021/images-F1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Firman convenio de colaboración  CECyTECH y UT de la Tarahumara"
 front: false
 section: "Local"
-news_id: 189925
+redirect_from: /news/189925
 ---
 
 El Colegio de Estudios Científicos y Tecnológicos del Estado de Chihuahua (CECyTECH) y la Universidad Tecnológica de la Tarahumara (UTT) firmaron un convenio que reforzará la colaboración académica y tecnológica en beneficio del alumnado de ambas instituciones.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aclaran Delegación de Programas de Desarrollo Social del Gobierno Federal y la Secretaría de Salud de Gobierno del Estado que nunca se convocó a adultos mayores de 60 a vacunarse hoy martes contra COVID-19"
 image: "/uploads/2021/images-Jornada_de_Vacunación_anti_covid_30_marzo.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Este miércoles 31 sí se aplicará vacuna a adultos mayores de 60 y más en la capital"
 front: false
 section: "Local"
-news_id: 183626
+redirect_from: /news/183626
 ---
 
 Este miércoles 31 de marzo, desde el arranque de la jornada, se podrá vacunar contra COVID-19 a todos los adultos mayores de 60 años de la capital del estado.

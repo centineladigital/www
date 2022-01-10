@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "No importa cómo lleguen el Tricolor y El Salvador, visitar el estadio Cuscatlán suele ser sinónimo de complejidad para el equipo mexicano, por el agresivo entorno que hay"
 image: "/uploads/2021/images-cuscatlan_0.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La Selección Mexicana visita a El Salvador, la plaza más hostil"
 front: false
 section: "Deportes"
-news_id: 188622
+redirect_from: /news/188622
 ---
 
 Cada vez que la Selección Mexicana va a Centroamérica, el futbol se convierte en una batalla, en una guerra, y cuando pisa El Salvador, los focos rojos —en cuestión de seguridad— se encienden. Es la “Guerra sin muertos”.

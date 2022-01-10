@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con este nuevo embarque, la farmacéutica Pfizer BioNTech ha entregado al Gobierno de México un total de 19 millones 27 mil 905 dosis de vacunas, desde el 23 de diciembre de 2020  "
 image: "/uploads/2021/images-2596641.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Este mes se llegará a 50 millones de vacunas contra Covid-19"
 front: false
 section: "Nacional"
-news_id: 185076
+redirect_from: /news/185076
 ---
 
 Con 585 mil dosis de vacunas contra el Covid-19 desarrollada por el laboratorio Pfizer BioNTech, arribó este jueves al Aeropuerto Internacional de la Ciudad de México (AICM), procedente de Cincinnati, Estados Unidos, el cargamento número 44 de inmunizadores de este laboratorio.

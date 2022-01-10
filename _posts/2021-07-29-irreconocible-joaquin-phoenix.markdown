@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor fue captado con una barriga prominente y el cabello repleto de canas en el set de la película 'Disappointment Blvd'."
 image: "/uploads/2021/images-joaquin-phoenix-reaparece-drastico-cambio_0_0_958_596.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Irreconocible! Joaquin Phoenix reaparece con drástico cambio de 'look' por nueva película"
 front: false
 section: "Espectáculos"
-news_id: 186094
+redirect_from: /news/186094
 ---
 
 Joaquin Phoenix se ha convertido en una de las figuras más destacadas de Hollywood. A lo largo de su carrera, el actor ha tomado arriesgados retos y sufrido impactantes transformaciones debido a los complejos personajes que ha interpretado en la pantalla grande. Ahora, el ganador del Oscar volvió a a tener un drástico cambio de look para su nueva película. 

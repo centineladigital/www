@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los trabajos se desarrollaron en el acceso y calles principales de la comunidad El Charco"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza Gobierno Municipal labores de limpieza en zona rural"
 front: false
 section: "Local"
-news_id: 186787
+redirect_from: /news/186787
 ---
 
 Con la finalidad de mantener en buen estado las principales vialidades y el acceso del seccional El Charco, personal de la Dirección Servicios Públicos realizó una jornada de limpieza en este lugar para retirar yerba y material de arrastre generado por las lluvias.

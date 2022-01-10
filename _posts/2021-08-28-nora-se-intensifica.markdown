@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El SMN prevé lluvias de intensas a fuertes en al menos siete estados; se espera que 'Nora' se mantenga como huracán durante cuatro días "
 image: "/uploads/2021/images-presencia-huracan-nora-costas-provocara_0_27_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Nora' se intensifica a huracán categoría 1 frente a costas de Jalisco y Colima"
 front: false
 section: "Nacional"
-news_id: 187219
+redirect_from: /news/187219
 ---
 
 La tormenta tropical Nora se intensificó a huracán categoría 1 y se localizó frente a las costas de Jalisco y Colima. Se prevé que su trayectoria sea cercana a la costa del país durante el día, de acuerdo con la Comisión  Nacional del Agua (Conagua). 

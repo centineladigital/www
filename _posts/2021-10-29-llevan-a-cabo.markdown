@@ -10,11 +10,11 @@ author: nil
 description: "Buscan crear lineamientos en mejora de la calidad educativa."
 image: "/uploads/2021/images-foro.jpg"
 video: "/uploads/2021/videos-MV03_JAVIER_GONZALEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Llevan a cabo foro de Educación para crear Plan de Desarrollo"
 front: false
 section: "Local"
-news_id: 189377
+redirect_from: /news/189377
 ---
 
 Con el fin de crear la política a seguir dentro del Plan Estatal de Desarrollo este viernes se llevó a cabo el Foro de Educación y Deporte del Plan Estatal de Desarrollo 2022- 2027, donde sle trataron temas como la mejora de la calidad educativa, la inclusión, el rezago que se registra actualmente el cual es el resultado de la pandemia y la revalorización del magisterio.

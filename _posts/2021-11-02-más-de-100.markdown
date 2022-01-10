@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En el tercer día de la COP26, los mandatarios invitados a participar con la esperanza de que su presencia propulse el posterior diálogo, acordaron recortar en 30% al final de esta década sus emisiones de metano"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Más de 100 países se comprometen a reducir las emisiones de metano para 2030"
 front: false
 section: "Internacional"
-news_id: 189468
+redirect_from: /news/189468
 ---
 
 Glasgow.- Un centenar de líderes mundiales reunidos en la gran conferencia de la ONU sobre el clima firmaron el martes compromisos para reducir sus emisiones del muy contaminante metano y acabar con la deforestación en 2030, buscando impulsar unas negociaciones complicadas.

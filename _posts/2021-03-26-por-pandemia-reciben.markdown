@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Artistas, creadores y diversos rubros que se dedican a la cultura."
 image: "/uploads/2021/images-ivan.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV04_IVAN_CARLOS.mp3"
 alt: "Por pandemia reciben más de 2mdp artistas en el estado"
 front: false
 section: "Local"
-news_id: 183571
+redirect_from: /news/183571
 ---
 
 Un total de cien proyectos fueron apoyados dentro de esta pandemia en el 2020, esto con una inversión de dos punto dos millones de pesos, según fue dado a conocer por el titular del área de creadores de la Secretaría de Cultura, Iván Carlos.

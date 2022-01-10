@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente López Obrador informó que no habrá conferencias mañaneras ni el 24 de diciembre ni el 31 y que Navidad la pasará en compañía de su familia en Palenque, Chiapas"
 image: "/uploads/2021/images-amlo-navidad-descanso-17.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO tomará días de asueto por Navidad y Año Nuevo"
 front: false
 section: "Nacional"
-news_id: 190951
+redirect_from: /news/190951
 ---
 
 Villahermosa, Tabasco.-El presidente Andrés Manuel López Obrador adelantó que solo tomará dos días hábiles de asueto por Navidad y de fin de año. 

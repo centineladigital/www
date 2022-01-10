@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Astroworld es un festival de música de dos días programado para el viernes y el sábado en Houston; una estampida en el evento dejó ocho muertos y varios heridos"
 image: "/uploads/2021/images-festival_musica_avalancha.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Qué pasó en el festival de música Astroworld en Houston, organizado por Travis Scott?"
 front: false
 section: "Internacional"
-news_id: 189615
+redirect_from: /news/189615
 ---
 
 Al menos ocho personas fallecieron y decenas más resultaron heridas en lo que las autoridades describieron como una avalancha humana durante la actuación del rapero Travis Scott en el festival de música Astroworld en Houston.

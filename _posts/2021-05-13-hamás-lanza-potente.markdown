@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un portavoz del brazo armado de Hamás pidió a las ‘aerolíneas internacionales que suspendan inmediatamente todos sus vuelos’ con destino Israel"
 image: "/uploads/2021/images-2577917.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hamás lanza potente cohete contra aeropuerto de Israel"
 front: false
 section: "Internacional"
-news_id: 184434
+redirect_from: /news/184434
 ---
 
 Gaza, Territorios Palestinos. El movimiento islamista palestino Hamás afirmó el jueves haber disparado un potente cohete de un alcance de 250 kilómetros hacia el aeropuerto Ramon, cercano a la ciudad de Eilat (sur de Israel), al que se estaban desviando los vuelos con destino Tel Aviv por razones de seguridad.

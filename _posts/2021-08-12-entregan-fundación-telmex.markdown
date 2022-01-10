@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con inversión de más de 59 mil pesos del esquema “Peso a Peso”, se beneficia a 17 personas con discapacidad y serán en total, dos millones 014 mil pesos, para entregar mil 200 dispositivos de este tipo, antes de que concluya la actual administración estatal   "
 image: "/uploads/2021/images-WhatsApp_Image_2021-08-11_at_4.20.24_PM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan Fundación Telmex y DIF Estatal  sillas de ruedas en Belisario Domínguez"
 front: false
 section: "Local"
-news_id: 186612
+redirect_from: /news/186612
 ---
 
 La presidenta del DIF Estatal, Cinthia Aideé Chavira de Corral, encabezó la entrega de 17 sillas de ruedas estándar en las que se invirtieron 59 mil 330 pesos correspondientes al esquema “Peso a Peso” de Fundación Telmex.

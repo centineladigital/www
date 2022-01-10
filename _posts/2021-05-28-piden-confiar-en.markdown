@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Pudiera llegar esta vacuna a Chihuahua."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV05_WENDY_AVILA.mp3"
 alt: "Piden confiar en vacuna de Jonson y Jonson"
 front: false
 section: "Local"
-news_id: 184723
+redirect_from: /news/184723
 ---
 
 “Si hay que confiar en esta vacuna” fueron las palabras de la Subdirectora de Medicina Preventiva, Wendy Ávila Coronado, al ser cuestionada sobre la eficacia de las vacunas Jonson y Jonson, esto ya que se avisa que se adquirirá esta vacuna y pudiera llegar a Chihuahua.

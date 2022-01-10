@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Estas acciones son parte de la estrategia que desarrolla la dependencia, para beneficiar a habitantes de la zona serrana durante la temporada invernal"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega COEPI apoyos a 1,700 familias de comunidades de Guachochi y Batopilas"
 front: false
 section: "Local"
-news_id: 191320
+redirect_from: /news/191320
 ---
 
 La Comisión Estatal para los Pueblos Indígenas (COEPI), en colaboración con autoridades de los municipios de Guachochi y Batopilas, y de gobernadores indígenas, entregó apoyos a 1,700 familias que habitan en comunidades de la región serrana.

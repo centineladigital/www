@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Aúnn no ha sido notificado de la expulsión."
 image: "/uploads/2021/images-CORRAL1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ04.mp3"
 alt: "Debe de haber una transformación del PAN -  Corral "
 front: false
 section: "Local"
-news_id: 184976
+redirect_from: /news/184976
 ---
 
 El mandatario de Chihuahua, Javier Corral Jurado, destacó que el Partido Acción Nacional debe de transformarse. Esto al señalar que no se puede continuar ganando a López Obrador con las alianzas con el PRI, ya que no es posible que la única solución para que el partido albiazul continúe sea la alianza con el PRI.

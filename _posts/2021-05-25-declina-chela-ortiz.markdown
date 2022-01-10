@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Si el norte cae en manos de Morena, este país ya no tiene remedio, dijo a los candidatos locales del PRI en una reunión privada"
 image: "/uploads/2021/images-Chela_Ortiz.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Declina Chela Ortiz a favor de Maru"
 front: false
 section: "Local"
-news_id: 184645
+redirect_from: /news/184645
 ---
 
 Graciela Ortiz, candidata a la gubernatura por el Partido Revolucionario Institucional (PRI) solicitó su permiso a los candidatos y candidatas del partido a realizar un frente común para evitar que Morena llegue al gobierno de Chihuahua, en una reunión privada que sostuvo esta mañana.

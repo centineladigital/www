@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-MV05_FERNANDO_ALVAREZ.mp4"
 alt: "Sobre reaccionan diputados por ahorro -  Alvarez Monje"
 front: false
 section: "Local"
-news_id: 189091
+redirect_from: /news/189091
 ---
 
 Una sobre reacción es lo dijo el Director de la COESVI y exdiputado panista, Fernando Álvarez Monje, en relación al tema del ahorro que los diputados de la pasada administración han señalado no se entregó.

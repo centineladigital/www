@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El conductor de 'Ventaneando' reaccionó a las críticas que recibió en redes por decirle mamona a Linet Puente; ella lo llama viejito amargado."
 image: "/uploads/2021/images-pedro-reacciona-criticas-insulto-linet_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me vale gorro -  Pedro Sola reacciona a críticas por insulto a Linet Puente"
 front: false
 section: "Espectáculos"
-news_id: 183126
+redirect_from: /news/183126
 ---
 
 Pedro Sola volvió a causar revuelo en redes sociales luego de llamar "mamona" a Linet Puente durante una transmisión en vivo del programa Ventaneando. Tras las críticas que recibió, el conductor de espectáculos respondió a sus detractores; aseguró que le "vale gorro" los comentarios en su contra.  Fue durante emisión del pasado martes que Pedro Sola habló de la controversia que se generó hace unos días por insultar a Linet Puente, esto después de que Daniel Bisogno hiciera un comentario sobre la conductora en el programa. 

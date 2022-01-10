@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El pasado 6 de septiembre Carlos Treviño huyó a Houston desde el aeropuerto de Toluca, un día antes de que la FGR lo acusara de lavado y asociación delictuosa "
 image: "/uploads/2021/images-carlos-trevino-director-pemex-orden-1_0_1_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ex director de Pemex se fugó hace 2 meses"
 front: false
 section: "Nacional"
-news_id: 189613
+redirect_from: /news/189613
 ---
 
 El ex director de Petróleos Mexicanos Carlos Treviño huyó de México a Estados Unidos el pasado 6 de septiembre, un día antes de que la Fiscalía General de la República (FGR) le imputara, en audiencia inicial, operaciones con recursos de procedencia ilícita y asociación delictuosa.

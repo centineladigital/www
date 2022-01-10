@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Premio Nobel de la Paz fue un incansable luchador contra el apartheid y la injusticia; tras homenajes, el funeral será el 1 de enero"
 image: "/uploads/2021/images-desmond_tutu_0.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sudafricanos lloran la muerte de Tutu, “faro” de ese país"
 front: false
 section: "Internacional"
-news_id: 191224
+redirect_from: /news/191224
 ---
 
 Joh annesburgo.— Desmond Tutu, el ícono sudafricano ganador del Premio Nobel de la Paz, enemigo incansable del apartheid y activista moderno por la justicia racial y los derechos de las personas LGBT, murió ayer a los 90 años. Sudafricanos y líderes de todo el mundo lamentaron la muerte del hombre considerado la conciencia moral del país. El funeral será el 1 de enero.

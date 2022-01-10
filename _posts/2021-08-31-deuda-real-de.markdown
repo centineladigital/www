@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La deuda estatal ha crecido de 53,518 millones de pesos desde 2016 a más de 64,514 millones de pesos a la actualidad, aunque se informe lo contrario por el Gobierno Saliente."
 image: "/uploads/2021/images-WhatsApp_Image_2021-08-31_at_13.33.42.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Deuda real de Chihuahua asciende a más de 64 mil millones de pesos"
 front: false
 section: "Local"
-news_id: 187298
+redirect_from: /news/187298
 ---
 
 La mañana de este lunes Luis Aguilar y Carlos Olson, diputados electos e integrantes del equipo de transición de la Gobernadora Electa, Maru Campos, dio a conocer en rueda de prensa, la situación financiera real del estado de Chihuahua, en respuesta a las declaraciones de la actual administración en las que se afirma que las finanzas del estado se encuentran en buenas condiciones. Además de que la deuda pública se ha reducido y se cuentan con recursos suficientes para el Gobierno Entrante, lo cual no corresponde a la realidad.

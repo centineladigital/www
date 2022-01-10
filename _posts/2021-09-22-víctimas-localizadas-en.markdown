@@ -10,11 +10,11 @@ author: nil
 description: "“Hay una línea divisoria muy cortita es muy sencillo y muy fácil que eso pueda suceder señala Fiscal."
 image: "/uploads/2021/images-ROBERTO.jpg"
 video: "/uploads/2021/videos-MW03_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Víctimas localizadas en Parral eran de Durango"
 front: false
 section: "Local"
-news_id: 187963
+redirect_from: /news/187963
 ---
 
 Los cuerpos encontrados cerca de Parral fueron asesinados en Durango y la procedencia se éstos era del mismo estado, según lo dio a conocer el Fiscal General de Chihuahua Roberto Fierro Duarte. El funcionario fue cuestionado respecto a la violencia que se vive en el estado y si ésta ha incrementado situación que negó.

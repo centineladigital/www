@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor protagoniza y produce la historia de 10 episodios de Apple Original que se desarrolla en Acapulco. "
 image: "/uploads/2021/images-eugenio-derbez-vuelve-pantalla-serie.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Eugenio Derbez vuelve a la pantalla con la serie 'Acapulco' en Apple TV+"
 front: false
 section: "Espectáculos"
-news_id: 187758
+redirect_from: /news/187758
 ---
 
 La serie de comedia bilingüe Acapulco protagonizada por Eugenio Derbez ya tiene fecha de estreno. Será el próximo viernes 8 de octubre de 2021, que llegará exclusivamente en Apple TV+. El actor mexicano protagoniza y produce una historia de juventud y madurez contada tanto en español como en inglés. La serie de Apple Original de comedia consta de 10 episodios y cuenta la historia de Máximo Gallardo (Enrique Arrizon). Así Derbez vuelve a la pantalla para contar la vida de un veinteañero cuyo sueño se hace realidad cuando consigue el trabajo de su vida como mesero en el resort más popular de Acapulco. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este viernes 43 mil 093 alumnos presentan su examen diagnóstico de ingreso al nivel medio superior "
 image: "/uploads/2021/images-examenbachi3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se llenan de nuevo las aulas en los bachilleratos; presentan examen de admisión"
 front: false
 section: "Local"
-news_id: 185235
+redirect_from: /news/185235
 ---
 
 Desde temprana hora, los centros educativos de media superior se llenaron, de nueva cuenta recibieron alumnos que aspiran a ingresar al bachillerato.

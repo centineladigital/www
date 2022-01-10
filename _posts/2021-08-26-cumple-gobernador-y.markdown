@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con inversión de 25 mdp entrega Javier Corral 11 aulas, laboratorios y cubículos administrativos dentro del Maratón de Obras 2021; inversión sin precedente en educación en el estado por 3,800 mdp"
 image: "/uploads/2021/images-DSC_7992.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cumple Gobernador y entrega Unidad de Docencia a la UT de Camargo"
 front: false
 section: "Local"
-news_id: 187172
+redirect_from: /news/187172
 ---
 
 Durante la intensa gira de trabajo que realizó el gobernador Javier Corral Jurado en Camargo, en el marco del Maratón de Obras 2021, inauguró la Unidad de Docencia de la Universidad Tecnológica (UT) de este municipio, en la que se invirtieron 25 millones de pesos (mdp).

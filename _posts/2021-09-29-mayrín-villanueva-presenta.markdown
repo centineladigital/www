@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz y su coprotagonista Marcus Ornellas presentaron la telenovela mexicana Si nos dejan en el Festival Iberseries Platino; te decimos cuándo se estrena en México. "
 image: "/uploads/2021/images-mayrin-villanueva-protagoniza-dejan-version_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mayrín Villanueva presenta en España 'Si nos dejan', telenovela que lucha contra machismo"
 front: false
 section: "Espectáculos"
-news_id: 188189
+redirect_from: /news/188189
 ---
 
 Los actores Mayrín Villanueva y Marcus Ornellas han presentado este miércoles en Madrid el primer capítulo de la telenovela mexicana Si nos dejan, en el marco del Festival Iberseries Platino, un proyecto que busca concienciar sobre el machismo dominante en la sociedad exponiendo los micromachismos que oprimen a una mujer de cincuenta que se enamora de alguien más joven. “De repente ella se quita la venda y empieza a ver ese machismo que vive en su casa, por parte de su madre, hija o marido. Es un espejo para darte cuenta de esa violencia intrafamiliar. Uno parte de la idea de que es normal que te digan esas cosas. Cuando te das cuenta de que eso es violencia y eso no se permite es una enseñanza”, ha contado en una rueda de prensa la actriz mexicana. 

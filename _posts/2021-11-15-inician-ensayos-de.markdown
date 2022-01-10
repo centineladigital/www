@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Te contamos todo lo que sabemos sobre la vacuna anticovid que se administra con un parche cutáneo. "
 image: "/uploads/2021/images-inician-ensayos-vacuna-covid-administra.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inician ensayos de vacuna contra covid-19 que se administra con parche cutáneo; esto sabemos"
 front: false
 section: "Internacional"
-news_id: 189833
+redirect_from: /news/189833
 ---
 
 Ante la pandemia por coronavirus, covid-19, hay cientos de estudios que buscan acabar con el virus que ha arrebatado la vida de miles de personas. Por el momento, las vacunas contra el covid-19 son la opción para evitar que los contagios deriven en muertes. Sin embargo, se busca que haya otras opciones, una de ellas es la que busca la empresa Oxfordshire de Inglaterra, quien comenzará en breve los ensayos clínicos de una vacuna de segunda generación contra el covid-19. 

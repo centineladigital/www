@@ -12,11 +12,11 @@ author: nil
 description: "La propuesta fue hecha por el senador Monreal "
 image: "/uploads/2021/images-586x160-especies-animales-de-caza_tcm744-428148.jpg"
 video: "/uploads/2021/videos-BJ02_RUBÉN_MAYAGOITIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Tumulto en contra Ley general de protección animal "
 front: false
 section: "Local"
-news_id: 189791
+redirect_from: /news/189791
 ---
 
 Se llevó a cabo un tumulto al exterior del Congreso del Estado en contra de la iniciativa del senador Ricardo Monreal la cual tiene como objetivo una Ley General de supuesto Bienestar Animal y que esta sea discutida mediante un parlamento abierto.

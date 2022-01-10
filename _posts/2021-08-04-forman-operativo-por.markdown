@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Operativo se lleva en coordinación con instancias estatales y federales."
 image: "/uploads/2021/images-EMILIO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW05_EMILIO_GARCIA.mp4"
 alt: "Forman operativo por incremento de homicidios en zona occidente"
 front: false
 section: "Local"
-news_id: 186301
+redirect_from: /news/186301
 ---
 
 Ante el creciente incremento de personas que han sido asesinadas se ha formado un operativo interinstitucional entre diversos niveles gubernamentales, señaló el titular de la Secretaría de Seguridad Pública Estatal, Emilio García Ruiz.

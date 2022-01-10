@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El director de cine James Gunn confirmó que Will Poulter será Adam Warlock en Guardianes de la Galaxia Vol 3. "
 image: "/uploads/2021/images-will-poulter-adam-warlock-guardianes.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Will Poulter será Adam Warlock en 'Guardianes de la Galaxia Vol 3' -  James Gunn"
 front: false
 section: "Espectáculos"
-news_id: 188658
+redirect_from: /news/188658
 ---
 
 El actor Will Poulter se une al Universo Cinematográfico Marvel para interpretar a Adam Warlock en la película Guardianes de la Galaxia Vol. 3, así lo confirmó el director de la franquicia James Gunn.

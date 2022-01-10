@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras varios rumores, por fin Aislinn Derbez confirmó que tiene una relación al lado de Jonathan Kubben; así compartió la noticia. "
 image: "/uploads/2021/images-la-actriz-compartio-lo-feliz.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se vale volver a enamorarse -  Aislinn Derbez confirma su romance con Jonathan Kubben"
 front: false
 section: "Espectáculos"
-news_id: 190431
+redirect_from: /news/190431
 ---
 
 Tras dar a conocer su separación de Mauricio Ochmann, muchos estuvieron al pendiente sobre la vida amorosa de Aislinn Derbez. Durante varios meses se rumoró que la actriz se había dado una nueva oportunidad en el amor y había iniciado un romance, aparentemente con Jonathan Kubben, y ahora, para aclarar todo, la hija de Eugenio Derbez lo confirmó. Fue a través de una publicación en Instagram que Aislinn Derbez decidió presentar a su nuevo novio, con quien inició la relación desde hace más de 7 meses. Con una foto al lado de Jonathan Kubben, la actriz describió que se encuentra muy feliz y enamorada. 

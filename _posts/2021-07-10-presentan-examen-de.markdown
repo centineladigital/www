@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un total de mil 217 aspirantes realizaron la evaluación en línea; los resultados estarán disponibles a partir del 23 de julio en la página oficial: www.utch.edu.mx.   "
 image: "/uploads/2021/images-E6.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan examen de admisión en la Universidad Tecnológica de Chihuahua"
 front: false
 section: "Local"
-news_id: 185540
+redirect_from: /news/185540
 ---
 
 La Universidad Tecnológica de Chihuahua (UTCH) llevó a cabo la aplicación en línea del examen de ingreso correspondiente al cuatrimestre septiembre-diciembre de 2021, con la participación de mil 217 aspirantes.

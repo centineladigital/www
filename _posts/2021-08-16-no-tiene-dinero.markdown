@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue en el programa Con Permiso de Unicable en donde se informó que Lorena de la Garza estaría a punto de despedirse del mundo del espectáculo, pues ha enfrentado una fuerte crisis laboral y por ende económica. "
 image: "/uploads/2021/images-lorena-garza-retirara-espectaculos-crisis.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No tiene dinero -  Lorena de la Garza, Nacasia en 'La Hora Pico', se retirará del espectáculo; ésta es la razón"
 front: false
 section: "Espectáculos"
-news_id: 186754
+redirect_from: /news/186754
 ---
 
 ¿Te gustaban los personajes que salían en La Hora Pico? ¿Recuerdas a Nacasia, la fiel amiga de Nacaranda –personaje que dio vida Consuelo Duval–? Si es así, quizá también recuerdes a la actriz y comediante Lorena de la Garza. La famosa atraviesa por momentos difíciles en el sentido económico y también en su carrera artística, tanto y a tal punto que piensa retirarse del mundo del espectáculo. 

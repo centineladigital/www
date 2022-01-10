@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Podrán hacerlo a través de la plataforma: www.mivacuna.salud.gob.mx   "
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia este viernes registro de jóvenes de 15 a 17 años para vacunación contra COVID-19   "
 front: false
 section: "Local"
-news_id: 189957
+redirect_from: /news/189957
 ---
 
 La Secretaría de Salud del Estado de Chihuahua en coordinación con las instituciones que participan en el programa de vacunación COVID-19, informa que a partir de este viernes 19 de noviembre inicia el registro de adolescentes entre 15 y 17 años de edad sin comorbilidades, para acceder a la aplicación del biológico.

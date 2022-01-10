@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Una empresa anuncia la entrada al mercado de fresas genéticamente modificadas, después de su gran éxito con otros vegetales. "
 image: "/uploads/2021/images-productores-de-fresas-aseguran-que.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Empresa de California anuncia la venta de fresas genéticamente modificadas"
 front: false
 section: "Internacional"
-news_id: 189351
+redirect_from: /news/189351
 ---
 
 El jueves, las empresas JR Simplot Company y Plant Sciences Inc. anunciaron la entrada de fresas genéticamente modificadas al mercado, después de su éxito con las papas modificadas genéticamente en alianza con una empresa que tiene sede en California y cultiva fresas. 

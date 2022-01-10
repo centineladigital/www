@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Valentina Orellana Peralta llegó a EU para ver a su hermana mayor. Estaba en una tienda probándose un vestido de quinceañera. Falleció en los brazos de su madre. "
 image: "/uploads/2021/images-padres-de-valentina-orellana-peralta_0_40_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Valentina Orellana, la joven de 14 años que fue asesinada por policía de Los Ángeles"
 front: false
 section: "Internacional"
-news_id: 191303
+redirect_from: /news/191303
 ---
 
 Valentina Orellana Peralta, de 14 años, fue asesinada por la policía de Los Ángeles durante un operativo el 23 de diciembre mientras se encontraba de compras con su mamá en una tienda departamental de North Hollywood. 

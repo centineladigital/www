@@ -10,11 +10,11 @@ author: nil
 description: "Tras señalamientos de Alcalde de Juárez."
 image: "/uploads/2021/images-SERGIO.jpg"
 video: "/uploads/2021/videos-MJ01_SERGIO_MADERO.mp4"
-audio: "nil"
+audio: nil
 alt: "Sin notificación Sergio Madero"
 front: false
 section: "Local"
-news_id: 187999
+redirect_from: /news/187999
 ---
 
 Aún no ha sido notificado el extitular del área de Fideicomiso de Puentes, Sergio Madero, por la denuncia que presentó el Alcalde de Ciudad Juárez el cual lo acusa de daño moral y malos manejos del recursos del área de puentes.

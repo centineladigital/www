@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este 20 de junio el termómetro llegará hasta los 42°C en Ciudad Juárez y Ojinaga, informa la dependencia estatal"
 image: "/uploads/2021/images-CALOR_CHICA_CON_AGUA_CUU.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se elevarán temperaturas este sábado y domingo, advierte Protección Civil"
 front: false
 section: "Local"
-news_id: 185110
+redirect_from: /news/185110
 ---
 
 Este sábado 19 y domingo 20 de junio se elevará de nuevo la temperatura en el estado, con Juárez y Ojinaga hasta con 42°C, Delicias a 39°C y Chihuahua a 37°C, alertó la Coordinación Estatal de Protección Civil (CEPC).

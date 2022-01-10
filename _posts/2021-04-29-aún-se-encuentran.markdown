@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Aún no se determinan cuántas y cuales cepas hay."
 image: "/uploads/2021/images-GUMARO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ04_GUMARO_BARRIOS.mp3"
 alt: "Aún se encuentran proceso de identificación de variantes"
 front: false
 section: "Local"
-news_id: 184199
+redirect_from: /news/184199
 ---
 
 El estado de Chihuahua aún se encuentra en el proceso de investigación sobre cuáles y cuantas variantes se encuentran dentro del territorio, señaló el titular de la Subdirección de Epidemiología del Gobierno del Estado, Gumaro Barrios Gallegos.

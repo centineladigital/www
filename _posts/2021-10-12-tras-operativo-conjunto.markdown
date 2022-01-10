@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A fin de dar cumplimiento a la Ley de Profesiones para el Estado de Chihuahua, personal de la Secretaría de Educación y Deporte acudió a un domicilio particular ubicado en la colonia Villas del Real."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tras operativo conjunto detienen a supuesto médico por el posible delito de usurpación de profesión   "
 front: false
 section: "Local"
-news_id: 188634
+redirect_from: /news/188634
 ---
 
 Derivado de un trabajo coordinado entre la Secretaría de Educación y Deporte y la Secretaría de Salud, la Fiscalía General del Estado procedió a la detención de Jesús Rubén L.M. por el posible delito de usurpación de profesión.

@@ -14,11 +14,11 @@ author: nil
 description: "Representa un aumento del 17% respecto al año pasado, la detección oportuna es la clave contra la enfermedad "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-11_at_10.29.12.jpeg"
 video: "/uploads/2021/videos-BL01_LYDIA_TERRAZAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "480 diagnósticos de cáncer de mama solo en este año "
 front: false
 section: "Local"
-news_id: 188605
+redirect_from: /news/188605
 ---
 
 La directora del instituto municipal de las mujeres Lydia Terrazas, señaló que la cifra de diagnósticos de cáncer de mama solo en este año es de 480 los cuales todos fueron tumores malignos los cuales representan un porcentaje de 17 % más que el año pasado.

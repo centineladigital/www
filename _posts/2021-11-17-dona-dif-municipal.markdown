@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Trabajarán DIF Municipal y Estatal con acciones que beneficien a los chihuahuenses"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dona DIF Municipal 2 mil 500 chamarras para niñas y niños de la Sierra Tarahumara"
 front: false
 section: "Local"
-news_id: 189920
+redirect_from: /news/189920
 ---
 
 El DIF Municipal hizo entrega al DIF Estatal de 2500 chamarras que beneficiarán a niñas y niños de la Sierra Tarahumara, con el fin de cumplir el compromiso y proporcionar la mitad de los recabado a través de la campaña “Abrigos que abrazan”.

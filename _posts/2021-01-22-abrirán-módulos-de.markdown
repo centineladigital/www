@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la capital del estado funcionarán los módulos de Recaudación Libra y Mirador, mientras que en Ciudad Juárez, el de Galería Tec y el de Sendero, todos en horario de 9:00 de la mañana a 14:00 horas"
 image: "/uploads/2021/images-Recaudación_Chihuahua.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abrirán módulos de Recaudación sábados 23 y 30 para que contribuyentes aprovechen descuentos"
 front: false
 section: "Local"
-news_id: 182366
+redirect_from: /news/182366
 ---
 
 La Secretaría de Hacienda dio a conocer que este sábado 23 de enero abrirán  los módulos de Recaudación de Rentas Libra y Mirador en la capital del estado; mientras que en Ciudad Juárez, el de Galería Tec y Sendero, para el pago de derechos con descuentos.

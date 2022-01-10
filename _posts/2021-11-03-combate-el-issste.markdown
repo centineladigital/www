@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Diagnóstico temprano y terapias hormonales en tiempos precisos, mejoran radicalmente su calidad de vida y favorecen su integración social, afirmó la especialista María del Carmen Chima."
 image: "/uploads/2021/images-ISSSTE_04.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Combate el ISSSTE alteraciones del desarrollo sexual en niñas con Síndrome de Turner"
 front: false
 section: "Local"
-news_id: 189518
+redirect_from: /news/189518
 ---
 
 Atender oportunamente los efectos más adversos del Síndrome de Turner, no sólo reduce el daño físico, también repercute en reducir el impacto emocional y social, por ello el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) promueve el diagnóstico temprano y brinda tratamiento multidisciplinario de alta especialidad para este padecimiento, informó la encargada del servicio de Genética Médica del Centro Médico Nacional (CMN) “20 de Noviembre”, María del Carmen Chima Galán.

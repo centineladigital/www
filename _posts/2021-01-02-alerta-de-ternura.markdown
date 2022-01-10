@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La pareja se comprometió en julio pasado, por lo que probablemente lleguen al altar este 2021. "
 image: "/uploads/2021/images-fernanda-castillo-erik-hayser-revelan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Alerta de ternura! Fernanda Castillo y Erik Hayser revelan el rostro de Liam, su bebé"
 front: false
 section: "Espectáculos"
-news_id: 181812
+redirect_from: /news/181812
 ---
 
 La pareja de actores Fernanda Castillo y Erik Hayser, revelaron a través de sus redes sociales el rostro de su primogénito Liam, quien nació el 19 de diciembre. Si bien, hace unos días compartieron una imagen donde la familia posa junto a un árbol navideño, está es la primera vez que se aprecia su cara. 

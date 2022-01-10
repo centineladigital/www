@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "También participaron representantes del H. Congreso y dependencias de Gobierno del Estado"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atienden a más de 240 chihuahuenses en 3era edición del Miércoles Ciudadano"
 front: false
 section: "Local"
-news_id: 189944
+redirect_from: /news/189944
 ---
 
 El alcalde de Chihuahua Marco Bonilla Mendoza, encabezó la tercera edición del “Miércoles Ciudadano”, que tuvo lugar en la Plaza de Armas, para escuchar y atender diversas gestiones de los chihuahuenses, siendo un total de 242 personas las que acudieron con una solicitud de apoyo o servicio.

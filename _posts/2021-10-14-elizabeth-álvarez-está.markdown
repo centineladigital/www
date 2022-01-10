@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz señaló que es una mujer pro familia y espera que las partes implicadas resuelvan todas sus diferencias para que exista un reencuentro entre su esposo y su hija Valentina.   "
 image: "/uploads/2021/images-elizabeth-alvarez-favor-jorge-salinas_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Elizabeth Álvarez está a favor de que Jorge Salinas reconozca a su hija con Andrea Noli"
 front: false
 section: "Espectáculos"
-news_id: 188750
+redirect_from: /news/188750
 ---
 
 Jorge Salinas continúa envuelto en la polémica luego de que Andrea Noli reveló que nunca ha pasado tiempo ni se hace cargo de Valentina, la hija que tienen en común; sin embargo, la actriz negó proceder de manera legal en contra del actor para solicitar la manutención que dicta la ley. Tras lo sucedido, Elizabeth Álvarez -esposa de Salinas- rompió el silencio y expresó su postura ante la disputa de los famosos.  De acuerdo con Andrea Noli, su hija Valentina -quien tiene 15 años-siempre intentó contactar con su papá e, incluso, le mandaba cartas y escribía poemas sin obtener ninguna respuesta por parte de él. Señaló que Jorge Salinas no reconoció a la joven y nunca mostró la intención de conocerla.

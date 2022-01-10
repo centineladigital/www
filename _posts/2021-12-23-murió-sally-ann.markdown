@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz participó en más de 140 películas, series y obras de teatro; era conocida por su interpretación de Truly Scrumptious en el popular filme. "
 image: "/uploads/2021/images-murio-sally-ann-howes-actriz.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Sally Ann Howes, actriz de 'Chitty Chitty Bang Bang'"
 front: false
 section: "Espectáculos"
-news_id: 191151
+redirect_from: /news/191151
 ---
 
 Sally Ann Howes, quien comenzó a actuar de niña y en 1968 protagonizó el clásico Chitty Chitty Bang Bang con Dick Van Dyke, falleció a los 91 años de edad. El New York Times informó que murió en Palm Beach Gardens, Florida, el domingo. Hasta el momento se desconoce las causas de su deceso. Su hijo Andrew Hart Adler confirmó el deceso en una entrevista con la Press Association el miércoles. Su sobrino, Toby Howes, dijo en Twitter que la familia esperaba que Howes pudiera “aguantar” hasta la proyección navideña de Chitty Chitty Bang Bang, pero que murió tranquila mientras dormía. 

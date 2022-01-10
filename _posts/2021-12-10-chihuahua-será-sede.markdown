@@ -10,11 +10,11 @@ author: nil
 description: "Se llevara a cabo 13 y 14 de diciembre en el Estado."
 image: "/uploads/2021/images-00.jpg"
 video: "/uploads/2021/videos-MV03_PATRICIA_BENCOMO.mp4"
-audio: "nil"
+audio: nil
 alt: "Chihuahua será sede de primera reunión de la Red Nacional de Archivos Judiciales"
 front: false
 section: "Local"
-news_id: 190725
+redirect_from: /news/190725
 ---
 
 El Tribhunal Superior de Justicia será el anfitrión de realizará la primera edición del encuentro de la Red Nacional de Archivos Judiciales, un evento virtual los días 13 y 14 de diciembre. Por lo que el estado será sede de este evento en el cual se lleva a cabo a través de la Comisión Nacional de Tribunales Superiores de Justicia a nivel nacional.

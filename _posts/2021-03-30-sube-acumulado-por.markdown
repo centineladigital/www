@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Autoridades de Salud estatal confirmaron 32 contagios y  2 defunciones más; hay 232 personas hospitalizadas en 29 unidades médicas"
 image: "/uploads/2021/images-Diapositiva3.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sube acumulado por COVID-19 a 58,396 contagios y 5,656 decesos en la entidad"
 front: false
 section: "Local"
-news_id: 183609
+redirect_from: /news/183609
 ---
 
 La Secretaría de Salud reportó que al día de hoy se tienen un total general de 58 mil 396 casos acumulados de COVID-19 en el estado de Chihuahua, así como 5 mil 656 personas fallecidas.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te decimos la nueva fecha para el estreno de 'Spiderman: No Way Home' y la fecha en la que inicia la preventa de boletos. "
 image: "/uploads/2021/images-spiderman-way-home-fecha-estreno.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Anótalo en el calendario! 'Spiderman -  No Way Home' adelanta su fecha de estreno en México"
 front: false
 section: "Espectáculos"
-news_id: 190070
+redirect_from: /news/190070
 ---
 
 Todos están ansiosos por el estreno de la nueva película del Universo Marvel de Sony Pictures, Spiderman: No Way Home. Ahora, la sede en México de la productora y distribuidora de la película dio una excelente noticia para todos los que esperan con ansias el gran estreno de tercera película protagonizada por Tom Holland. 

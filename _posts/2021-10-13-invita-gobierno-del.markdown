@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Un encuentro que hace remembranza de la última lucha por la defensa del pueblo apache, donde perdió la vida uno de sus principales líderes, Victorio.   "
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno del Estado a conmemorar la Batalla de Tres Castillos con Memorial Apache"
 front: false
 section: "Local"
-news_id: 188688
+redirect_from: /news/188688
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Cultura de Chihuahua invita al evento, Memorial Apache, Batalla de Tres Castillos; un encuentro que hace remembranza de la última lucha por la defensa del pueblo apache, donde perdió la vida uno de sus principales líderes, Victorio.

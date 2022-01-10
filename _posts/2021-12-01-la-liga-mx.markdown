@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El directivo señaló que están muy al pendiente, de todos los reportes, y pidiendo a los clubes que tengan mucho cuidado, que sigan con las medidas para evitar contagios"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La Liga MX no descarta cerrar los estadios por ómicron, la nueva cepa del coronavirus"
 front: false
 section: "Deportes"
-news_id: 190382
+redirect_from: /news/190382
 ---
 
 Mikel Arriola, presidente de la Liga MX, no descartó que la liga llegué a cerrar los estadios de nueva cuenta, debido al crecimiento de la nueva cepa del coronavirus, ómicron.

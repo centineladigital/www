@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Mujeres en peligro podrán acceder a un botón de pánico"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Actualiza Gobierno Municipal la aplicación MIA; ahora estará conectada a la Plataforma Escudo"
 front: false
 section: "Local"
-news_id: 187114
+redirect_from: /news/187114
 ---
 
 La alcaldesa, María Angélica Granados Trespalacios, encabezó el evento de presentación de la actualización y conexión de la aplicación MIA al sistema de seguridad de la Dirección de Seguridad Pública Municipal a través de la Plataforma Escudo Chihuahua (PECUU), proyecto desarrollado conjuntamente con el Instituto Municipal de las Mujeres (IMM).

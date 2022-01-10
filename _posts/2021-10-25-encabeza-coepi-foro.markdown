@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Autoridades tradicionales de más de 50 comunidades de 4 municipios realizaron propuestas para el Plan Estatal de Desarrollo y el Programa Sectorial 2022-2027   "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza COEPI Foro de Consulta Indígena en Guachochi"
 front: false
 section: "Local"
-news_id: 189154
+redirect_from: /news/189154
 ---
 
 Autoridades tradicionales de más de 50 comunidades de los municipios de Guachochi, Balleza, Morelos y Nonoava, asistieron y efectuaron propuestas en el Foro de Consulta Indígena del Plan Estatal de Desarrollo y el Programa Sectorial 2022-2027, organizado por la Comisión Estatal para los Pueblos Indígenas (Coepi), que tuvo sede en Guachochi.

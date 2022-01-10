@@ -10,11 +10,11 @@ author: nil
 description: "Afirman autoridades que no hay impedimento para viajar, cualquier vacuna es válida."
 image: "/uploads/2021/images-MIRNA.jpg"
 video: "/uploads/2021/videos-MW03_MIRNA_BELTRAN.mp4"
-audio: "nil"
+audio: nil
 alt: "Renuencia de jóvenes a vacunarse por el laboratorio"
 front: false
 section: "Local"
-news_id: 185886
+redirect_from: /news/185886
 ---
 
 Ante la poca afluencia que se tuvo durante la mañana de este miércoles en la vacunación de jóvenes de 25 a 39 años, la Subsecretaria de Prevención y Promoción de la Salud, Mirna Beltrán Arzaga, exhortó a los jóvenes a vacunarse. Esto ya que la renuencia se da debido a que se cree que para entrar a los Estados Unidos las vacunas tienen que ser de determinado laboratorio.

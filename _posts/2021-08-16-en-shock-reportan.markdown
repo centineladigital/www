@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En un enlace con Javier Poza se informó que la actriz de Televisa y Netflix, Fátima Molina, vivió la explosión que se registró en un edificio de la alcaldía Benito Juárez.   "
 image: "/uploads/2021/images-enlace-javier-poza-revelaron-fatima.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En shock -  Reportan que Fátima Molina, actriz de Televisa, vivió la explosión en edificio de Coyoacán"
 front: false
 section: "Espectáculos"
-news_id: 186729
+redirect_from: /news/186729
 ---
 
 Fátima Molina, actriz de famosas telenovelas y teatro, se encontraba dentro del edificio en donde se registró la explosión por acumulación de gas en avenida Coyoacán, esquina con Universidad, colonia Xoco, en la alcaldía Benito Juárez, en donde hay un saldo de 14 personas lesionadas, así lo reportó Javier Poza en su programa en vivo. ¿Cómo se encuentra la actriz de Televisa? 

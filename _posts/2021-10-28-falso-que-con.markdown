@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente López Obrador calificó como falso y que “no suena lógico, suena metálico” el informe del Departamento de Energía de EU sobre su proyecto de reforma eléctrica"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Falso que con reforma eléctrica se aumenten los contaminantes, responde AMLO a informe de EU"
 front: false
 section: "Nacional"
-news_id: 189288
+redirect_from: /news/189288
 ---
 
 Merida, Yucatán.- El presidente Andrés Manuel López Obrador calificó como falso y que “no suena lógico, suena metálico”, el informe del Laboratorio Nacional de Energía Renovable (NREL, por sus siglas en inglés) del Departamento de Energía de Estados Unidos, donde señala que de aprobarse el proyecto de reforma eléctrica se corre el riesgo de que aumenten la emisión de contaminantes como el carbono hasta en 65%.

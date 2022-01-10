@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La agencia sanitaria de Rusia anuncia que se detectó el primer caso de transmisión de la cepa H5N8 de la gripe aviar a seres humanos y que la OMS ya fue informada al respecto"
 image: "/uploads/2021/images-2532804.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detecta Rusia primer contagio en humanos de cepa H5N8 de gripe aviar"
 front: false
 section: "Internacional"
-news_id: 183069
+redirect_from: /news/183069
 ---
 
 Responsables rusos afirmaron este sábado que detectaron el primer caso de transmisión de la cepa H5N8 de la gripe aviar a seres humanos y que ya informaron a la Organización Mundial de la Salud (OMS) de este "importante descubrimiento".

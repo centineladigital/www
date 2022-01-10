@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Marisol Olmo reveló si la conductora de Hoy le reclamó por la cachetada que le dio a su hija como parte de la novela en la que participan. "
 image: "/uploads/2021/images-andrea-legarreta-acompana-nina-etapa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Le reclamó? Marisol Olmo habla de reacción de Andrea Legarreta a cachetada que le dio a su hija"
 front: false
 section: "Espectáculos"
-news_id: 183717
+redirect_from: /news/183717
 ---
 
 Nina Rubín, hija de Andrea Legarreta y Erik Rubín ha sorprendido como actriz en la telenovela Te acuerdas de mí, y desde luego, en más de una ocasión hemos visto a su orgullosa mamá visitarla en el set de grabación o acompañarla en diversos momentos de su naciente carrera profesional. Hace poco, la conductora reaccionó a la intensa cachetada que le propinó a Nina, Marisol Olmo, su madre ficticia y ahora la actriz ha revelado si hubo algún reclamo por la acalorada escena. Tras las cachetadas que Marisol Olmo, quien interpreta a Ivana en la telenovela, le propina a Fabi, el personaje de Nina Rubín, Andrea Legarreta ha bromeado con historias en sus redes sociales sobre la mala relación que llevan madre e hija y ha manifestado lo orgullosa que está de su hija. 

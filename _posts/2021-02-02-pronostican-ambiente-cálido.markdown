@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La CEPC informa que se esperan temperaturas de 25°C en Chihuahua, así como en Juárez 21°C, Janos 20°C, Madera 19°C, Temósachic 20°C, Cuauhtémoc 22°C, y Ojinaga 23°C"
 image: "/uploads/2021/images-065_img_int_02_feb_2021_06h_60193a4282822-1280x700.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronostican ambiente cálido por la tarde para este martes 2 de febrero"
 front: false
 section: "Local"
-news_id: 182618
+redirect_from: /news/182618
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que para este martes 2 de febrero, la masa de aire frío que impulsó al frente frío número 33, en interacción con la corriente en chorro, favorece ambiente de muy frío a frío por la mañana y un sistema de alta presión en niveles medios de la atmósfera.

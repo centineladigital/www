@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "A este evento cumbre de la industria del arnés eléctrico, se espera la asistencia de más de mil visitantes y una derrama económica superior a los 20 millones de pesos"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncian primera edición de la expo México Assembly Wire Technology en Chihuahua"
 front: false
 section: "Local"
-news_id: 188635
+redirect_from: /news/188635
 ---
 
 Los días 3 y 4 de noviembre se realizará en la ciudad de Chihuahua la primera edición de la expo “México Assembly Wire Technology” (MAWT), a la que se espera la asistencia de más de mil personas y la generación de una derrama económica superior a los 20 millones de pesos.

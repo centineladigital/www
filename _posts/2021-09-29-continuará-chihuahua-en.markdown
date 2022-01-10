@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Añadió que se tiene que cuidar la concentración de los espacios, revisar los aforos, así como la implementación de estrategias coordinadas entre las instituciones. "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-29_at_16.12.38.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-09-29_at_16.12.39.mpeg"
 alt: "Continuará Chihuahua en semáforo verde; sesiona Consejo Estatal de Salud en materia de acciones para la prevención de contagios"
 front: false
 section: "Local"
-news_id: 188206
+redirect_from: /news/188206
 ---
 
 En seguimiento al trato de la pandemia ocasionada por COVID-19 en Chihuahua, la gobernadora Maru Campos Galván, asistió este miércoles a la sesión del Consejo Estatal de Salud para analizar las acciones que sean más pertinentes en beneficio de la ciudadanía en este rubro. 

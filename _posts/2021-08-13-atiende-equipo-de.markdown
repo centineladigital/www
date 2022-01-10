@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las reuniones se llevaron a cabo de manera positiva y dentro del marco legal del proceso de entrega-recepción"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atiende equipo de transición mesas temáticas de desarrollo económico en Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 186679
+redirect_from: /news/186679
 ---
 
 Como parte de las acciones llevadas a cabo por el equipo de transición de la Gobernadora Electa, Maru Campos en el marco del proceso de entrega-recepción del Gobierno Estatal, Miguel Guerrero anunció que en Ciudad Juárez debido a su importante papel como frontera, ya se tuvieron los trabajos correspondientes de las mesas de trabajo en materia de desarrollo económico de cuatro direcciones de Gobierno del Estado.

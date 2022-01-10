@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Sería el domingo o el lunes las fechas en las que se prevé que lleguen las dosis de AstraZeneca acordadas; mañana llegan dosis de Sinovac y México sumará más de 10 millones de dosis"
 image: "/uploads/2021/images-2550437.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Próximo fin México recibirá 2.7 millones de vacunas de EU"
 front: false
 section: "Nacional"
-news_id: 183529
+redirect_from: /news/183529
 ---
 
 Entre el domingo y el lunes México recibirá un lote de 2 millones 700 mil vacunas de la farmacéutica AstraZeneca, como parte del acuerdo con el gobierno de Estados Unidos, informó el presidente Andrés Manuel López Obrador.

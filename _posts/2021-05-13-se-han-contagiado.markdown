@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Son mil 389 médicos los que se han recuperado a la enfermedad Covid-19 "
 image: "/uploads/2021/images-Contagio_Médicos_hospital_central_pandemia_coronavirus_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se han contagiado 1,467 médicos con SARS-COV-2"
 front: false
 section: "Local"
-news_id: 184445
+redirect_from: /news/184445
 ---
 
 Un total de mil 467 médicos se han contagiado con SARS-COV-2, además de que 57 han muerto a lo largo de la pandemia, informó el subdirector de Epidemiología, Gumaro Barrios Gallegos.

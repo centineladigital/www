@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dejarán de cultivar este ciclo siete de cada diez hectáreas de los distritos de riego 005 Delicias y 113 Alto Río Conchos"
 image: "/uploads/2021/images-WhatsApp_Image_2021-02-22_at_9.06.30_AM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Piden compensación para agricultores por falta de agua"
 front: false
 section: "Local"
-news_id: 183079
+redirect_from: /news/183079
 ---
 
 José Ramírez Licón, presidente de la Sociedad de Responsabilidad Limitada unidad San Pedro, solicitó a la Comisión Nacional del Agua dar algún tipo de compensación a los agricultores que, por las restricciones, dejarán de cultivar este ciclo siete de cada diez hectáreas de los distritos de riego 005 Delicias y 113 Alto Río Conchos.

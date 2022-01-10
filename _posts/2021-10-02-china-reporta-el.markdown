@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El caluroso septiembre, con el consiguiente aumento de la demanda de refrigeración, se produjo en un momento en el que varias partes de China se enfrentan a restricciones del suministro eléctrico. "
 image: "/uploads/2021/images-calor-hidratacion-sol-especial.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "China reporta el mes más caluroso desde 1961"
 front: false
 section: "Internacional"
-news_id: 188305
+redirect_from: /news/188305
 ---
 
 China registró la temperatura más alta en septiembre, registrada antes en el mismo mes, pero de 1961, así lo informó el Centro Meteorológico Nacional de Pekín, según medios locales. 

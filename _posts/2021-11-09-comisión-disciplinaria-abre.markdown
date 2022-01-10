@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Luego de las polémicas palabras de Ferretti en conferencia de prensa, la Comisión dio a conocer que determinó abrir un procedimiento de investigación al entrenador del FC Juárez"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Comisión Disciplinaria abre investigación contra el Tuca Ferretti"
 front: false
 section: "Deportes"
-news_id: 189686
+redirect_from: /news/189686
 ---
 
 ¿Hay viejas?, ¿no verdad?, ¿maricones?, ¿quién va a ser el primer maricón?… ¡Puros machos entonces!". Esas palabras en la conferencia de prensa del Tigres vs FC Juárez, han provocado que la Comisión Disciplinaria determinara iniciar una investigación contra Ricardo Ferretti.

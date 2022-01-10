@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Ve positivo acciones en este tema."
 image: "/uploads/2021/images-MANQUE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML05.mp3"
 alt: "Agresores no deben ser funcionarios -  Alcaldesa"
 front: false
 section: "Local"
-news_id: 183213
+redirect_from: /news/183213
 ---
 
 “Ninguna persona que ejerza violencia contra ningún otro ser humano puede tener un cargo donde se trata de servir, de tener servicio a la gente” fueron las palabras de la Alcaldesa en funciones María Angélica Granados Trespalacios.

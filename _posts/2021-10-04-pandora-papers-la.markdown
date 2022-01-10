@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La investigación incluye a mandatarios y ex mandatarios, ministros, políticos, cantantes, futbolistas y empresarios que buscaron paraísos fiscales para no reportar sus fortunas. "
 image: "/uploads/2021/images-presidente-chile-sebastian-pinera-implicado_0_12_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pandora Papers, la investigación que revela a líderes mundiales que ocultaron su fortuna"
 front: false
 section: "Internacional"
-news_id: 188340
+redirect_from: /news/188340
 ---
 
 Una nueva investigación periodística del Consorcio Internacional de Periodistas de Investigación (ICIJ) reveló este domingo que 14 líderes mundiales en activo escondieron fortunas de miles de millones de dólares para no pagar impuestos. 

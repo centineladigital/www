@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Indican que “pese a que resiste mucho más a los anticuerpos”, la dosis anti-Covid “sigue siendo eficaz” ante la nueva variante ómicron"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "OMS y Pfizer buscan tranquilizar sobre eficacia de vacunas"
 front: false
 section: "Local"
-news_id: 190751
+redirect_from: /news/190751
 ---
 
 Ginebra.— Luego de que se revelara que ómicron evade parcialmente la protección brindada por la vacuna Pfizer, y ante las dudas en general sobre la eficacia de los biológicos frente a esta nueva variante, tanto la farmacéutica como la Organización Mundial de la Salud (OMS) intentaron tranquilizar a la población.

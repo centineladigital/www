@@ -10,11 +10,11 @@ author: nil
 description: "Se corregirán acciones necesarias para beneficio de trasnporte."
 image: "/uploads/2021/images-CRUZ.jpg"
 video: "/uploads/2021/videos-MJ01_CRUZ_PEREZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Invertirán 40 mdp más a BRT en Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 189785
+redirect_from: /news/189785
 ---
 
 Por lo menos 40 millones de pesos más es lo que el Estado de Chihuahua y el Ayutamiento de Ciudad Juárez invertirán en concluir la ruta de transporte BRT, según lo expresó el Alcalde de aquel municipio Cruz Pérez Cuellar.

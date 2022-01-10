@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Benefico para el ambiente laboral afirmó el presidente de este organismo."
 image: "/uploads/2021/images-PG3.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04_PABLO_GONZALEZ.mp3"
 alt: "En materia de justicia laboral STJ capacita personal"
 front: false
 section: "Local"
-news_id: 184803
+redirect_from: /news/184803
 ---
 
 A través de una serie conferencias sobre justicia laboral el Tribunal Superior de Justicia lleva a cabo capacitación en la materia, por lo que del primero al tres de junio se llevará a cabo una serie de acciones a través del Instituto de Formación y Actualización Judicial e instituciones educativas universitarias de la entidad coincidirán vía digital con magistrados del Tribunal Colegiado en materia laboral. 

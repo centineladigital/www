@@ -16,11 +16,11 @@ author: nil
 description: "Estará buscando la recuperación de casas abandonadas para rehabilitarlas y entregarlas a los chihuahuenses"
 image: "/uploads/2021/images-20201216010600784-0-1742144.jpg"
 video: "/uploads/2021/videos-BM03_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se esperan buenas noticias sobre  viviendas para policías "
 front: false
 section: "Local"
-news_id: 189224
+redirect_from: /news/189224
 ---
 
 Marco Bonilla alcalde de Chihuahua, manifestó que espera estar teniendo una reunión con el director general de INFONAVIT en ciudad de México, esperando buenas noticias con respecto a los créditos que se piensan dar a los policías municipales y bomberos para que puedan tener su propia vivienda.

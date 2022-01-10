@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que no se llegará a la meta de tener menos de 100 homicidios mensuales."
 image: "/uploads/2021/images-PENICHE.jpg"
 video: "/uploads/2021/videos-MJ04_CESAR_PENICHE.mp4"
-audio: "nil"
+audio: nil
 alt: "Descarta Fiscalía que se dé disminución de homicidios"
 front: false
 section: "Local"
-news_id: 185919
+redirect_from: /news/185919
 ---
 
 Luego de que el titular de la Secretaría de Seguridad Pública Estatal señalara que este mes se pudiera tener una cifra menor a 200 homicidios en el estado, el Fiscal General del Estado, César Augusto Peniche Espejel, señaló que será difícil llegar a esta meta.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El acto protocolario inició con una guardia de honor en el Altar de la Patria, encabezado por la Gobernadora, autoridades militares y civiles, junto al monumento a Miguel Hidalgo y Costilla, en Palacio de Gobierno."
 image: "/uploads/2021/images-0B33B9DB-CF9B-42AB-AE8D-E68C02D2A7EA.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Primer grito de independencia de Maru Campos"
 front: false
 section: "Local"
-news_id: 187779
+redirect_from: /news/187779
 ---
 
 La gobernadora del Estado de Chihuahua, Maru Campos Galván dio esta noche su primer Grito de Independencia desde el balcón que da a la Plaza Hidalgo, en Palacio de Gobierno, para conmemorar el CCXI aniversario del inicio de la guerra de Independencia.

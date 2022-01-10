@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exhortan a continuar con las medidas preventivas."
 image: "/uploads/2021/images-diapositiva3-297.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp3"
 alt: "Tras dos días bajos se registran casi 200 casos COVID"
 front: false
 section: "Local"
-news_id: 183641
+redirect_from: /news/183641
 ---
 
 Luego de registrarse menos de 50 casos de coronavirus este miércoles se dio a conocer que 198 personas dieron positivos a la prueba PCR, mientras que se acreditaron 8 fallecimientos, esto tras acreditar los protocolos. Con lo que se llega a 5 mil 664 decesos y 58 mil 594 casos en total desde el inicio de la pandemia.

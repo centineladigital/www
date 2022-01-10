@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El reporte epidemiológico de Salud confirma  21 nuevos casos y 5 fallecimientos más, 4 en Cuauhtémoc y uno en Chihuahua"
 image: "/uploads/2021/images-Diapositiva4.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suman 59,164 personas contagiadas y 5,701 defunciones por  COVID-19 en la entidad"
 front: false
 section: "Local"
-news_id: 183706
+redirect_from: /news/183706
 ---
 
 El reporte diario de la pandemia por COVID-19 emitido por la Secretaría de Salud muestra que al 6 de abril van 59 mil 164 contagios acumulados, con 21 casos confirmados en las últimas horas.

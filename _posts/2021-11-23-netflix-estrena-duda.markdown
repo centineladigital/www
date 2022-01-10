@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Roberto Hernández presenta el caso de cuatro hombres acusados de intento de secuestro. "
 image: "/uploads/2021/images-duda-razonable-netflix.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Netflix estrena 'Duda razonable', la historia de cuatro hombres inocentes inculpados de secuestro"
 front: false
 section: "Espectáculos"
-news_id: 190106
+redirect_from: /news/190106
 ---
 
 Después de Presunto culpable, Roberto Hernández recurre de nueva cuenta al género documental para poner luz en el caso de cuatro hombres que enfrentan una condena por intento de secuestro en Tabasco. Durante los últimos años, el cineasta desarrolló Duda razonable con la intención de evidenciar la mala praxis en la que incurrieron las autoridades a cargo del caso de Gonzalo García, Juan Luís López, Darwin Morales y Héctor Muñoz, quienes recibieron una condena, a pesar de haber sido absueltos. 

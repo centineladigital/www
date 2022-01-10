@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "También se efectuaron 956 trasplantes: 442 de riñón, 353 de córnea, 120 de médula ósea, 31 hepáticos y 10 de corazón."
 image: "/uploads/2021/images-Foto_418-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con Jornadas de Recuperación de Servicios, IMSS intensifica consultas y cirugías diferidas por la pandemia"
 front: false
 section: "Local"
-news_id: 187955
+redirect_from: /news/187955
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) ha intensificado la estrategia de recuperación de servicios de alta especialidad en áreas de consulta externa, en medicina preventiva y realización de cirugías que se vieron diferidas por la pandemia de COVID-19, para lo cual del 24 al 26 de septiembre llevará a cabo la 8ª Jornada Nacional de Recuperación de Servicios.

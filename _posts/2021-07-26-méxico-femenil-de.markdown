@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La novena tricolor venció 4-1 a las australianas, por lo que ahora buscarán ser el tercer lugar en los Juegos Olímpicos de Tokio 2020."
 image: "/uploads/2021/images-seleccion-mexicana-femenil-softbol-bronce_1_7_1198_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México femenil de softbol vence a Australia y va por la medalla de bronce en Tokio 2020"
 front: false
 section: "Deportes"
-news_id: 185982
+redirect_from: /news/185982
 ---
 
 La selección mexicana femenil de softbol irá por la medalla de bronce tras vencer 4-1 a la novena de Australia en los Juegos Olímpicos de Tokio 2020; ahora su próximo rival será Canadá.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se ratificó el mismo número de defunciones quedando en 7 mil 977"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 15 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 188384
+redirect_from: /news/188384
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 5 de octubre se tiene un total general de 78 mil 584 contagios en el estado. Luego de confirmarse otros 15 más en Juárez, Delicias, Bocoyna y Balleza. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esta producción repasará la trayectoria del cantante español desde finales de los 70 hasta la actualidad. "
 image: "/uploads/2021/images-miguel-bose-instagram-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Toda la trayectoria del cantante! Serie sobre Miguel Bosé se empezará a rodar en 2022"
 front: false
 section: "Espectáculos"
-news_id: 188808
+redirect_from: /news/188808
 ---
 
 Miguel Bosé contará su vida a través de una serie biográfica que comenzará a rodarse en España a principios de 2022 bajo la producción de VIS - división de ViacomCBS International Networks - junto a Shine Iberia, Elefantec Global y Legacy Rock, según un comunicado difundido hoy. Esta producción, que por el momento contará con una temporada de seis episodios, repasará la trayectoria del cantante español desde finales de los 70 hasta la actualidad. Se estrenará en Paramount+ en los países donde está presente esta plataforma.  

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el fin de retirar tiliches, basura, maleza, llantas, muebles y demás residuos que el camión recolector no puede llevarse debido a su tamaño   "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conoce las colonias que visitará el Destilichadero la próxima semana"
 front: false
 section: "Local"
-news_id: 186981
+redirect_from: /news/186981
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos, organiza cada semana al menos cuatro programas de Destilichadero a fin de retirar tiliches, basura, maleza, llantas, muebles y demás residuos que el camión recolector no puede llevarse debido a su tamaño.

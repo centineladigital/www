@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Reconció el desempeño y representación de las y los atletas en los juegos"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reúne alcalde con atletas olímpicos y paralímpicos chihuahuenses"
 front: false
 section: "Local"
-news_id: 188385
+redirect_from: /news/188385
 ---
 
 El alcalde de Chihuahua, Marco Bonilla se reunió con las y los atletas olímpicos y paralímpicos que representaron a Chihuahua en las pasadas Olimpiadas de Tokio 2020.

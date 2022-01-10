@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Briseida Acosta y Carlos Sansores, los representantes mexicanos en esta disciplina, perdieron en la primera ronda, con lo que por primera vez en la historia México se va de los Juegos Olímpicos sin subir al podio en este arte marcial "
 image: "/uploads/2021/images-Sin_título.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Taekwondo, el gran fracaso de México en los Juegos Olímpicos de Tokio 2020"
 front: false
 section: "Deportes"
-news_id: 186013
+redirect_from: /news/186013
 ---
 
 La medalla de bronce obtenida por Gabriela Agúndez y Alejandra Orozco, en los clavados sincronizados, ha servido para que no se hable del gran fracaso de México en los XXXII Juegos Olímpicos: el taekwondo.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Llevar una alimentación balanceada, mantener un peso saludable y hacer ejercicio de forma regular disminuye el riesgo de padecerlo."
 image: "/uploads/2021/images-Foto_5209-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte IMSS Chihuahua que cáncer de mama también pueden padecerlo hombres "
 front: false
 section: "Local"
-news_id: 189147
+redirect_from: /news/189147
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua advierte a la población masculina que también puede padecer cáncer de mama, por lo que emite recomendaciones para su detección y atención oportuna. 

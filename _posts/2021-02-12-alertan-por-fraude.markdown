@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Analistas coinciden en que es un intento de “Phishing”, ya que suplantan la imagen e identidad de una franquicia de laboratorios con la finalidad de obtener datos personales"
 image: "/uploads/2021/images-2528473.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Alertan por fraude! Ofrecen vacuna anticovid en 3 mil pesos"
 front: false
 section: "Nacional"
-news_id: 182893
+redirect_from: /news/182893
 ---
 
 La Fiscalía General del Estado de Chihuahua, alertó a la población, ante la existencia de un fraude, donde se ofrecen vacunas anti Covid-19 a 3 mil pesos.

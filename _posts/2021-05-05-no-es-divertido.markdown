@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Belinda responde a haters que la criticaron por mandar condolencia a las víctimas de la tragedia de la Línea 12 del Metro de la Ciudad de México.  "
 image: "/uploads/2021/images-belinda-lanza-haters-criticas-postura.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No es divertido -  Belinda 'explota' contra haters; la critican por hablar de la tragedia de la Línea 12"
 front: false
 section: "Espectáculos"
-news_id: 184289
+redirect_from: /news/184289
 ---
 
 Belinda, famosa cantante y coach de La Voz México, lanzó un fuerte mensaje contra los haters que la criticaron por haberse pronunciado sobre el accidente en la Línea 12 del Metro de la Ciudad de México. ¿La cantante dijo algo negativo? Como varios famosos, la cantante y actual pareja de Christian Nodal usó sus redes sociales para mandar condolencias y apoyo a las víctimas de esta tragedia. Sin embargo, como suele pasar, aparecieron haters para señalarla como ‘protagonista’. ¿Qué fue lo que dijo Belinda sobre el accidente de la Línea 12? La cantante y actriz usó sus redes sociales para lamentar el accidente en la Línea 12 del Metro.

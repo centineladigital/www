@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " Gobernador recibe en Ciudad Juárez a la reina de belleza, a quien se le reconoce su empeño y desempeño por distintas causas y preocupaciones sociales."
 image: "/uploads/2021/images-DSC_7762.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Eres ejemplo para las y los chihuahuenses -  Javier Corral a Andrea Meza, Miss Universo."
 front: false
 section: "Local"
-news_id: 185478
+redirect_from: /news/185478
 ---
 
 Al darle la bienvenida en Ciudad Juárez, el gobernador Javier Corral Jurado dijo que Andrea Meza, Miss Universo, que es un ejemplo para las y los chihuahuenses, porque no solamente se le reconoce su empeño, sino su desempeño y la manera en que abriga distintas causas y preocupaciones sociales, lo que le da un gran contenido a su belleza.

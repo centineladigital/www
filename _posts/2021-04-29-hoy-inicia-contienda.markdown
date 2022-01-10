@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Serán 716 mil chihuahuenses quienes elijan al próximo presidente municipal"
 image: "/uploads/2021/images-p29.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hoy inicia contienda por el voto en la capital"
 front: false
 section: "Local"
-news_id: 184179
+redirect_from: /news/184179
 ---
 
 Hoy arrancan las elecciones locales a lo largo de la entidad. Para la ciudad de Chihuahua son ocho los candidatos que buscan llegar a la presidencia municipal, se disputa además la sindicatura y cinco distritos locales. Según el INE, serán 716 mil 690 (hasta ayer) ciudadanos chihuahuenses quienes elegirán a sus representantes.

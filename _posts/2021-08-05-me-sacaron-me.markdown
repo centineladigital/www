@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante una entrevista en 'Venga la Alegría', la comediante también reveló quién la inspiró para su popular personaje. "
 image: "/uploads/2021/images-liliana-arriaga-la-chupitos-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me sacaron, me apagaron el micro -  Liliana Arriaga 'La Chupitos' recuerda el día que la corrieron de Televisa"
 front: false
 section: "Espectáculos"
-news_id: 186324
+redirect_from: /news/186324
 ---
 
 Liliana Arriaga es una comediante que con su personaje de La Chupitos ha logrado permanecer en el gusto del público durante muchos años. Aunque no todo en su carrera ha sido fácil, pues ha enfrentado dificultades por su papel de una mujer alcohólica.  "Fui atacada, muy rechazada. La Chupitos tampoco quiere decir 'Tomen'. O sea, tomen con medida para que no terminemos así, porque la persona que tiene el problema de alcoholismo no nació así, por algo está así, por eso es una enfermedad", reveló durante una entrevista en el programa Venga la Alegría.

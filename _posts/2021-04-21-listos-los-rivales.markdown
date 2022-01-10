@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Tricolor sub 23 quedó ubicado en el Grupo A, donde enfrentará a Japón. Por su parte, el campeón Brasil tiene una dura Fase de Grupos"
 image: "/uploads/2021/images-2565865.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Listos los rivales de México en los Juegos Olímpicos"
 front: false
 section: "Deportes"
-news_id: 184011
+redirect_from: /news/184011
 ---
 
 La Selección Mexicana Sub 23 ya conoce cuál será su destino en los próximos Juegos Olímpicos de Tokio, donde el equipo comandado por Jaime Lozano quedó ubicado en el Grupo A, junto con los anfitriones Japón, Sudáfrica y Francia.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "López Obrador aseveró que defenderá el regreso a clases en las aulas y aunque reconoció que sí hay contagios de covid-19, no hay riesgos mayores para niños y adolescentes y se puede tener un buen control; no debe ser ese el pretexto o excusa"
 image: "/uploads/2021/images-andres-manuel-lopez-obrador-conferencia-57_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO pide cuidar salud emocional de niños con clases presenciales; es la mejor terapia"
 front: false
 section: "Nacional"
-news_id: 185895
+redirect_from: /news/185895
 ---
 
 El presidente Andrés Manuel López Obrador pidió cuidar la salud emocional de los niños cuando se dé el regreso presencial a clases, pues dijo que “es la mejor terapia, ya no es posible tenerlos encerrados en las casas”. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con el objetivo de mejorar la imagen urbana, además de evitar que se generen animales ponzoñosos entre la maleza."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabaja Gobierno Municipal en limpieza de camellones de la ciudad"
 front: false
 section: "Local"
-news_id: 187890
+redirect_from: /news/187890
 ---
 
 Con el objetivo de mantener en buenas condiciones los camellones de la ciudad el Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, trabaja en la limpieza y corte de hierba de los espacios en las principales avenidas de la ciudad.

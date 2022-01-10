@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Consigue Secretaría de Hacienda crecimiento exponencial al pasar del  51%  en 2016 al 71% de las operaciones en 2019, informa la Subsecretaría de Ingresos en programa Logros con Valor."
 image: "/uploads/2021/images-_DSC0062.JPG"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AUDIO_TEMAS_FORMAS_ALTERNAS_DE_PAGO_Y_REMODEL_CASETAS_PROGRAMA_LOGROS_CON_VALOR_SRIA_HCIENDA__12-7-21.MP3"
 alt: " Logra Estado que chihuahuenses migren a medios alternos y pagos digitales en obligaciones fiscales"
 front: false
 section: "Local"
-news_id: 185586
+redirect_from: /news/185586
 ---
 
 El titular de la Subsecretaría de Ingresos de la Secretaría de Hacienda del Gobierno de Chihuahua, Juan Pablo García Delgado, informó que el ser eficientes en el cobro de las contribuciones y el brindarle las facilidades administrativas al ciudadano, ha permitido que  Gobierno del Estado migre a  medios alternos y digitales en el cobro de las obligaciones fiscales.

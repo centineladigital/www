@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te decimos todo lo que debes saber sobre la nueva película 'Venom: Let There Be Carnage': fecha de estreno, dónde ver y detalles sobre la película. "
 image: "/uploads/2021/images-venom-sony-pictures.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Con quién la verás? Todo lo que debes saber sobre 'Venom -  Let There Be Carnage'"
 front: false
 section: "Espectáculos"
-news_id: 188405
+redirect_from: /news/188405
 ---
 
 Una de las películas más esperadas de 2021 está muy cerca de estrenarse. 'Venom: Let There Be Carnage' ('Venom: Carnage Liberado') del Universo Marvel de Sony llegará a México y Latinoamérica. Es por ello que aquí te decimos todo lo que debes saber sobre la película: fecha de lanzamiento, dónde ver, sinopsis y reparto del largometraje que busca conquistar a la audiencia. 

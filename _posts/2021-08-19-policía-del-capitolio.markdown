@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las autoridades llamaron a la población a evitar la zona en lo que investigan el hecho"
 image: "/uploads/2021/images-CongresoEEUU-Home.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Policía del Capitolio reporta amenaza de bomba cerca del Congreso de EU"
 front: false
 section: "Internacional"
-news_id: 186866
+redirect_from: /news/186866
 ---
 
 La Policía del Capitolio, sede que alberga a representantes y senadores de Estados Unidos, informó de una alerta de bomba en la biblioteca del Congreso, ubicado en Washington D.C., donde primeramente se reportó un "vehículo sospechoso" en ese lugar.

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Es preciso evitar ingerir productos de dudosa procedencia que son muy perjudiciales para la salud"
 image: "/uploads/2021/images-unnamed_(15).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llama Gobierno del Estado a extremar precauciones al consumir bebidas alcohólicas en fiestas navideñas   "
 front: false
 section: "Local"
-news_id: 191036
+redirect_from: /news/191036
 ---
 
 El subsecretario de Gobernación, Eloy García Tarín, hizo un llamado a la ciudadanía a extremar precauciones al ingerir bebidas alcohólicas en esta época decembrina, a fin de evitar el consumo de productos que no cumplen con las normas establecidas por la ley, lo cual es perjudicial para la salud.

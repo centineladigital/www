@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Además de las chamarras, en esta donación se incluyeron latas de comida, cobijas, calzado y ropa, para su distribución en las comunidades en situación de mayor vulnerabilidad  "
 image: "/uploads/2021/images-IMG_9550.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega SEECH chamarras y víveres al DIF Estatal en Juárez"
 front: false
 section: "Local"
-news_id: 190793
+redirect_from: /news/190793
 ---
 
 Servicios Educativos del Estado de Chihuahua (SEECH) entregó al DIF Estatal un donativo de 300 chamarras e insumos de alimentos no perecederos como parte de la campaña “Juntos sin Frío”, que coordina la dependencia en Ciudad Juárez.

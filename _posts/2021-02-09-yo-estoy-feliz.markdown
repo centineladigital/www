@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Lo que hago, lo hago con todo el gusto del mundo para que la gente la pase un poco menos mal de lo que la está pasando, aclaró el actor."
 image: "/uploads/2021/images-kuno-becker-cuartoscuro.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Yo estoy feliz -  Kuno Becker responde a críticas por su polémica imitación de Vicente Fernández"
 front: false
 section: "Espectáculos"
-news_id: 182822
+redirect_from: /news/182822
 ---
 
 Kuno Becker volvió a ser el centro de una polémica luego de que hace unos días, junto a Carlos Ferro, realizó una parodia del momento en que Vicente Fernández fue captado tocando el seno de una fan. La grabación la compartió el actor en su cuenta de TikTok, pero al poco tiempo la quitó debido a las críticas que recibió en la red social. 

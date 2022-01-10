@@ -10,11 +10,11 @@ author: nil
 description: "Esto ante nombramiento de Myriam Hernández."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MV01_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Sería punta de lanza en materia de equidad de género -  Jáuregui"
 front: false
 section: "Local"
-news_id: 189815
+redirect_from: /news/189815
 ---
 
 En el caso de que se dé el nombramiento Myriam Hernández Acosta sea nombrada como titular del Tribunal Superior de Justicia, Chihuahua sería punta de lanza en materia de equidad de género afirmó el Secretario General de Gobierno, César Jáuregui Moreno. Esto ya que se contaría con una mujer como la Presidenta del Poder Judicial, así como una Gobernadora.

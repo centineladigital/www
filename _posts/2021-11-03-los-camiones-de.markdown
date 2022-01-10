@@ -14,11 +14,11 @@ author: nil
 description: "El incremento podría significar una gran afectación en términos económicos"
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-03_at_12.47.42.jpeg"
 video: "/uploads/2021/videos-BW05_BENJAMIN_CARRERA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Los camiones de basura son más modernos que un camión urbano"
 front: false
 section: "Local"
-news_id: 189523
+redirect_from: /news/189523
 ---
 
 El diputado Benjamín Carrera declaró que ante el supuesto aumento al transporte público es un gran atraso para la ciudadanía, mencionó que los camiones recolectores de basura son más modernos que un camión urbano.

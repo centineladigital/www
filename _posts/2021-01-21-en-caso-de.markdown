@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Destaca gobernador que hay una amplia cantidad de pruebas y testigos, con importantes registros documentales, que hacen de este uno de los temas más sólidos que lleva la Fiscalía General del Estado, dentro de la operación Justicia para Chihuahua"
 image: "/uploads/2021/images-Javier_Corral.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En caso de nómina secreta hay un compromiso con la verdad -  Javier Corral"
 front: false
 section: "Local"
-news_id: 182319
+redirect_from: /news/182319
 ---
 
 El gobernador Javier Corral afirmó que en cuanto a las carpetas de investigación abiertas sobre el tema de la denominada “nómina secreta”, que operó su antecesor, hay un compromiso no solo con la justicia, sino con la verdad.

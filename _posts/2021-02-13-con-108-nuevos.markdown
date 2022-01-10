@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Además se confirmaron 10 personas fallecidas más por esta enfermedad con lo que totalizan 4 mil 857; los últimos decesos ocurrieron en Juárez (2), Chihuahua (4), Rosales (1), Ojinaga (1), López (1) y Gómez Farías (1)"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con 108 nuevos contagios llega Chihuahua a 52 mil 277 contagios de COVID-19"
 front: false
 section: "Local"
-news_id: 182918
+redirect_from: /news/182918
 ---
 
 En el Reporte COVID-19, la Secretaría de Salud informó que tenemos en el estado de Chihuahua un total general de 52 mil 277 casos confirmados, con 108 nuevos, mientras que el número de personas fallecidas es de 4 mil 857.

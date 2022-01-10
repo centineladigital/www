@@ -16,11 +16,11 @@ author: nil
 description: "Mariano Cordero Burciaga indicó que la diputada María Antonieta Pérez reyes les sugirió reunir a los grupos de afectados que están por el Estado y generar un plan de organización "
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-28_at_12.38.22_PM.jpeg"
 video: "/uploads/2021/videos-BM03_MARIO_CORDERO_.mp4"
-audio: "nil"
+audio: nil
 alt: " Afectados de ARAS se manifiestan en el congreso "
 front: false
 section: "Local"
-news_id: 191290
+redirect_from: /news/191290
 ---
 
 Personas afectadas de ARAS se dieron cita a fuera del congreso del estado con el fin de exigirle a las autoridades se cumpla con lo prometido por las autoridades estatales, los afectados argumentaban que no son atendidos de manera correcta y que a dos meses de los daños no se les ha resuelto nada.

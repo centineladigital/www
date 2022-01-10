@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz y cantante estrena una comedia familiar de Netflix en la que comparte pantalla con Héctor Bonilla. "
 image: "/uploads/2021/images-icono-musica-actuacion-angelica-maria.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Angélica María habla sobre su participación en 'Una Navidad no tan padre' -  me sentí como pez en el agua"
 front: false
 section: "Espectáculos"
-news_id: 191076
+redirect_from: /news/191076
 ---
 
 Cuando Angélica María recibió la invitación para unirse al elenco de Una Navidad no tan padre no dudó ni por un segundo en aceptar el proyecto: sabía que era una oportunidad de regresar al cine, después de breves apariciones en otras historias, y también de retomar la música con Bajo el árbol de Navidad, una canción de Julissa que se incluyó como parte de esta comedia familiar que llega hoy a Netflix y que interpretó junto a Héctor Bonilla. 

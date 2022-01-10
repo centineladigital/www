@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El lanzamiento se produjo a las 5:34 locales, desde el Centro Espacial Kennedy de Cabo Cañaveral, Florida y desde el Twitter de la NASA fue celebrado con un escueto y redondo mensaje: Lucy is in the sky!"
 image: "/uploads/2021/images-lucy-nasa-mision-16.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Despega Lucy, la misión que indagará en los orígenes del Sistema Solar"
 front: false
 section: "Internacional"
-news_id: 188816
+redirect_from: /news/188816
 ---
 
 La misión Lucy de la NASA, la primera de la historia dedicada a estudiar los asteroides troyanos (vestigios de la formación del Sistema Solar), ha despegado este sábado a bordo de un cohete Atlas 5 de la empresa United Launch Alliance (ULA, en inglés).

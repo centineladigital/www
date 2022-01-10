@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te presentamos 10 películas de terror en Netflix para no dormir y armar maratón de miedo y no dormir en todo octubre. "
 image: "/uploads/2021/images-no-quieres-dormir-deberias-ver.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Maratón de miedo? Éstas son 10 escalofriantes películas de terror en Netflix"
 front: false
 section: "Espectáculos"
-news_id: 188748
+redirect_from: /news/188748
 ---
 
 Octubre es el mes del terror. Cada 31 de octubre, mucha gente en todo el mundo celebra Halloween, lo cual aprovechan para disfrazarse, pedir dulces, pero sobre todo, para intentar asustar a los demás o probar qué tanto miedo toleran. Es por ello que aquí te dejamos 10 películas para armar tu maratón de miedo con Netflix. Toma a tu mejor compañía y emprende este complicado reto de terror. 

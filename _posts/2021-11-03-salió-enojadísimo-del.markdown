@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Martha Figueroa reveló que el conductor no estuvo conforme con su expulsión del reality e, incluso, lo compararon con Arath de la Torre, quien en la segunda temporada también salió furioso del programa. "
 image: "/uploads/2021/images-faisy-molesto-por-expulsion-de_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Salió enojadísimo del foro -  Revelan que Faisy se molesto por su eliminación de 'Quién es la máscara'"
 front: false
 section: "Espectáculos"
-news_id: 189498
+redirect_from: /news/189498
 ---
 
 Quién es la máscara es uno de los programas más exitosos y vistos de Televisa por su atractivo formato en el que cada domingo el público, junto a los investigadores, tienen la tarea de descubrir a los famosos que se ocultan debajo de los disfraces. Durante el tercer programa del reality las celebridades eliminadas fueron la comentarista de deportes Adriana Monsalve y el comediante Faisy, quien no pudo ocultar su molestia por su repentina salida del programa. Si bien, Adriana Monsalve resultó ser La Hormiga, Faisy había adoptado el personaje de Zarigüeya. Sin embargo, ninguno pudo conservar su lugar en la tercera temporada de Quién es la máscara, ya sea por decisión del público o la de los investigadores; en el caso de Faisy, el juez que logró desenmascararlo fue Carlos Rivera.  

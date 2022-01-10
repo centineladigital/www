@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se cumplieron los 90' minutos y México se convirtió en el primer campeón de la Revelations Cup en su primera edición, obteniendo dos victorias y un empate. "
 image: "/uploads/2021/images-mexico-se-convirtio-en-el.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Oficialmente Selección Mexicana Sub 20 es campeón de la Revelations Cup"
 front: false
 section: "Deportes"
-news_id: 189908
+redirect_from: /news/189908
 ---
 
 La Selección Mexicana Sub-20 se convierte en el primer campeón de la Revelations Cup en su primera edición, en el estadio Miguel Alemán Valdés, luego de ganarle a Estados Unidos con un marcador 2-1. 

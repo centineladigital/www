@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El ataque destruyó depósitos de armas y municiones de las fuerzas iraníes en las afueras de la capital Damasco. "
 image: "/uploads/2021/images-siria-israel-lanzo-misiles-tierra_0_34_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Siria acusa a Israel de ataque aéreo cerca de Damasco; hay 5 muertos y 2 heridos"
 front: false
 section: "Internacional"
-news_id: 189410
+redirect_from: /news/189410
 ---
 
 Siria acusó a Israel de lanzar un ataque aéreo contra algunas de sus posiciones en las afueras de la capital Damasco. La agresión dejó al menos cinco militares pro iraníes muertos y dos heridos, de acuerdo con la Agencia Árabe Siria de Noticias (SANA, por su sigla en inglés). 

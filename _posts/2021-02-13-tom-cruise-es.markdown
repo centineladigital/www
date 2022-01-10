@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor habla de los productores más valientes de Hollywood y de cómo puede pasar sin problema de interpretar a Luis Miguel a ser un personaje de acción. "
 image: "/uploads/2021/images-diego-boneta-actor-de-terminator_0_53_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tom Cruise es mi mentor -  Diego Boneta"
 front: false
 section: "Espectáculos"
-news_id: 182908
+redirect_from: /news/182908
 ---
 
 Platicar con Diego Boneta siempre es una experiencia alegre y redonda. Y si bien se ha pospuesto la fecha para su próxima cinta: Monster Hunter, es de las primeras cosas que correremos a ver al cine cuando abran sus puertas tras esta terrible pandemia. A pesar de ello, la plática con el actor que volveremos a ver interpretar a Luis Miguel en la serie de Netflix siempre toma curvas sorprendentes. Como la férrea defensa a Tom Cruise, con quien compartió créditos en la muy afortunada cinta musical Rock of Ages en 2012, y de quien aprendió mucho de lo que hoy considera su ética profesional. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Para los fans de Bridgerton hay buenas noticias, Netflix anunció que la serie tendrá tercera y cuarta temporada en donde podremos ver más romance y drama. "
 image: "/uploads/2021/images-bridgerton-se-estreno-a-finales.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Más romance y más drama! 'Bridgerton' tendrá tercera y cuarta temporada"
 front: false
 section: "Espectáculos"
-news_id: 183850
+redirect_from: /news/183850
 ---
 
 Sin duda una de las series más vistas y exitosas de Netflix es Bridgerton la cual se estrenó en diciembre del 2020. Tras su estreno, la producción ganó miles de fans, además de los que ya tenía, ya que hay que recordar que la serie es una adaptación de los libros escritos por Julia Quinn. Ahora, la plataforma de streaming confirmó que podremos seguir viendo la historia de los hermanos Bridgerton en una tercera y cuarta temporada. Fue a través de las redes sociales de Netflix que se confirmó al estilo de Lady Whistledown que Bridgerton contará con una tercera y cuarta temporada, las cuales aún no tienen fecha de estreno ni se sabe cuando se comenzarán a grabar. 

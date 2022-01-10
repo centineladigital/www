@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El director venezolano asegura que le debe a nuestro país su carrera."
 image: "/uploads/2021/images-el-cineasta-enaltecio-la-contribucion.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La mostra. Lorenzo Vigas va por México"
 front: false
 section: "Espectáculos"
-news_id: 186059
+redirect_from: /news/186059
 ---
 
 Volver al Festival Internacional de Cine de Venecia era una cita obligada para Lorenzo Vigas, ahí comenzó su carrera como director y sentía presión por ofrecer una historia que estuviera a la altura; ahora, el venezolano representa a México con La caja, una película sobre la paternidad, ambientada en el tema de las desapariciones forzadas.

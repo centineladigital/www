@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La magistrada decana, Janine Otálora, convocó a reanudar la sesión pública por videoconferencia, ante la ausencia del presidente del TEPJF"
 image: "/uploads/2021/images-jose-luis-vargas-magistrado-presidente-1_1_2_991_617.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Magistrados del TEPJF remueven a Vargas como presidente; Reyes Rodríguez lo sustituirá"
 front: false
 section: "Nacional"
-news_id: 186308
+redirect_from: /news/186308
 ---
 
 Por unanimidad, los magistrados del Tribunal Electoral del Poder Judicial de la Federación (TEPJF) removieron a José Luis Vargas como magistrado presidente y en su lugar fue elegido Reyes Rodríguez Mondragón.  

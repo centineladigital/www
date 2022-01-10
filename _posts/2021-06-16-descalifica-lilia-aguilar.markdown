@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“El cómputo, como parte del proceso democrático que inició el 6 de junio, fue llevado con urgencia y con una interpretación torpe de los consejeros y parte del personal de la Asamblea”, dijo."
 image: "/uploads/2021/images-LA2.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03.mp3"
 alt: "Descalifica Lilia Aguilar proceso"
 front: false
 section: "Local"
-news_id: 185069
+redirect_from: /news/185069
 ---
 
 El proceso ha llegado a ser una caricatura según lo declaró la candidata del Partido del Trabajo, Lilia Aguilar Gil, quien calificó como falto de certeza y criterios el trabajo de la Asamblea Municipal Electoral de Ciudad Juárez, quien dijo que se llevaron a cabo interpretaciones no adecuadas, donde los consejeros hicieron la propia interpretación de la ley.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Galilea Montijo causó tremenda polémica al asegurar que no conoce a Carmen Muñoz, quien presuntamente se rumoró dejaría TV Azteca para unirse al programa Hoy de Televisa. "
 image: "/uploads/2021/images-galilea-montijo-responde-sale-programa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hay diferentes maneras de llegar -  Galilea Montijo revela que no sabe quién es Carmen Muñoz tras rumores de que entra a 'Hoy'"
 front: false
 section: "Espectáculos"
-news_id: 190237
+redirect_from: /news/190237
 ---
 
 Galilea Montijo, conductora del programa Hoy, rompió el silencio sobre los rumores que apuntaban que la tapatía dejaría la emisión matutina en 2022. ¿Es cierto? ¿Es verdad que en su lugar entrara Carmen Muñoz? ¿Se va de México por el caso de Inés Gómez Mont? Galilea Montijo aclaró la situación que la ha perseguido en las últimas semanas tras ausentarse en algunas ocasiones de la emisión. Por si fuera poco, expresó que ni siquiera ubica a Carmen Muñoz, quien se rumoró entraría en su lugar. Te contamos lo que dijo la famosa. En entrevista con varios medios de comunicación, Galilea Montijo causó tremenda polémica al asegurar que no conoce a Carmen Muñoz, quien presuntamente se rumoró dejaría TV Azteca para unirse al programa Hoy de Televisa. 

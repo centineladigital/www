@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Por primera vez en la historia, ocho organismos internacionales están dirigidos por mujeres"
 image: "/uploads/2021/images-2541083.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Agenda global con visión femenina; ellas al frente"
 front: false
 section: "Internacional"
-news_id: 183325
+redirect_from: /news/183325
 ---
 
 La agenda global está marcada por la visión y el liderazgo femeninos.

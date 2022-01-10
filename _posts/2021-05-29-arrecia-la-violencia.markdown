@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Matan en Chiapas a un candidato a primer regidor de municipio de Acapetahua"
 image: "/uploads/2021/images-2586392.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arrecia la violencia en contra de candidatos"
 front: false
 section: "Nacional"
-news_id: 184731
+redirect_from: /news/184731
 ---
 
 El candidato a primer regidor por el Partido Chiapas Unido a la presidencia municipal de Acapetahua, Chiapas, Cipriano Villanueva, fue ejecutado de tres balazos, cuando aparentemente regresaba de su parcela después de realizar su trabajo. 

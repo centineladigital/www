@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Secretaría de Salud señaló que en caso de ser necesario, se tomarán medidas sanitarias guiadas por la evidencia científica disponible "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México actualiza protocolos de vigilancia para búsqueda de casos de variante Omicron"
 front: false
 section: "Nacional"
-news_id: 190265
+redirect_from: /news/190265
 ---
 
 La Secretaría de Salud (Ssa) informó que, se encuentra actualizando protocolos de vigilancia genómica para la búsqueda intencionada de la variante B.1.1.529 "Omicron", que fue reconocida por la Organización Mundial de la Salud (OMS) como muy preocupante.

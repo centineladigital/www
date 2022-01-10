@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Entre primeras y segundas dosis, dio a conocer el gobernador Javier Corral Jurado, destacó la actuación del Sistema Estatal de Salud, como un factor determinante en el éxito"
 image: "/uploads/2021/images-Javier_corral_vacunación.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alcanza Chihuahua aplicación de 900 mil vacunas contra Covid-19"
 front: false
 section: "Local"
-news_id: 184686
+redirect_from: /news/184686
 ---
 
 En el estado de Chihuahua se han aplicado hasta ahora 900 mil vacunas contra COVID-19, entre primeras y segundas dosis, dio a conocer el gobernador Javier Corral Jurado en entrevista con una emisora local.

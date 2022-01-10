@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El entrenador del Liverpool aún no puede establecer un once, por que esta en duda si contará con sus jugadores que fueron sancionados por la Confederación Brasileña"
 image: "/uploads/2021/images-roberto-firmino-celebrando-ap_0_25_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jurgen Klopp desconoce si podrá contar con sus jugadores brasileños"
 front: false
 section: "Deportes"
-news_id: 187612
+redirect_from: /news/187612
 ---
 
 El entrenador del Liverpool Jurgen Klopp señaló este viernes que no sabe si podrá contar con Alisson Becker y Fabinho este fin de semana, después de que la Confederación Brasileña (CBF) pidiera a la FIFA que fueran sancionados. Alisson y Fabinho, además de Roberto Firmino, que está lesionado, fueron convocados para los partidos de clasificación al Mundial de Qatar 2022 que ha disputado Brasil, pero la Premier League rechazó cederlos debido a la cuarentena de diez días que deben cumplir los jugadores a su regreso de Sudamérica. 

@@ -10,11 +10,11 @@ author: nil
 description: "Esto con las medidas necesarias ante la presencia del COVID."
 image: "/uploads/2021/images-LORENZO.jpg"
 video: "/uploads/2021/videos-ML05_LORENZO_PARGA.mp4"
-audio: "nil"
+audio: nil
 alt: "Chihuahua el único estado con todas las escuelas  abiertas "
 front: false
 section: "Local"
-news_id: 189165
+redirect_from: /news/189165
 ---
 
 Chihuahua es el único estado que tiene todas las escuelas abiertas con las medidas que se deben de manejar por el COVID, fueron las palabras de Lorenzo Arturo Parga Amado, Subsecretario de Educación Básica.

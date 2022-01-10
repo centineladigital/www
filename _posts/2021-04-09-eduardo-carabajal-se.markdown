@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Eduardo Carabajal se disculpó públicamente con Elisa Vicedo tras agredirla, esto como una medida que estableció el juez por el caso de agresión física. "
 image: "/uploads/2021/images-el-actor-agredio-a-elisa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Eduardo Carabajal se disculpa públicamente con Elisa Vicedo tras agredirla físicamente"
 front: false
 section: "Espectáculos"
-news_id: 183798
+redirect_from: /news/183798
 ---
 
 En el 2018 se hizo público un video en donde el actor Eduardo Carabajal agrede físicamente a Elisa Vicedo, debido a esto la actriz interpuso una demanda en contra de Eduardo, la cual llegó a una resolución en la que el juez estableció que Carabajal debía hacer una disculpa pública y pagar por los daños. Este 9 de abril, Eduardo Carabajal realizó la disculpa pública la cual hizo en un video que fue retomado por el programa Sale el Sol. En el corto clip, el actor recordó que la agresión hacia Elisa Vicedo sucedió en junio del 2018 en parque Hundido. 

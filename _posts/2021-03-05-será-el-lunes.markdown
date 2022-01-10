@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Juez de Control reprogramó la audiencia a solicitud del Ministerio Público, una vez que un Juzgado de Distrito negó la suspensión definitiva en Juicio de Amparo tramitado por la defensa de la alcaldesa con licencia"
 image: "/uploads/2021/images-tsjch.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Será el lunes 8 de marzo audiencia de formulación de imputación por “nómina secreta”"
 front: false
 section: "Local"
-news_id: 183295
+redirect_from: /news/183295
 ---
 
 El juez de Control del Distrito Judicial Morelos, Ignacio Muñoz Ramos, reprogramó para el lunes 8 de marzo a las 9:00 horas, la audiencia de formulación de imputación en contra de la alcaldesa con licencia, en el caso de la “nómina secreta” del exgobernador de Chihuahua, informó la Fiscalía General del Estado.

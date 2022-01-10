@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-MV03_MARU.mp4"
 alt: "Busca estado soluciones a la problemática de migración"
 front: false
 section: "Local"
-news_id: 188042
+redirect_from: /news/188042
 ---
 
 El estado busca que se den soluciones a los problemas de migración, esto buscando experiencias exitosas, fueron las palabras de la Gobernadora de Chihuahua María Eugenia Campos Galván, al ser cuestionado sobre los migrantes que se encuentran en Ciudad Acuña, Coahuila los cuales están llegando a Ciudad Juárez.

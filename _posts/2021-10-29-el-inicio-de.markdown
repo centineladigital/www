@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El disco se lanza antes de los conciertos que dará la chilena en El Teatro Metropólitan de Ciudad de México el próximo 7 y 8 de diciembre. "
 image: "/uploads/2021/images-mon-laferte-estrena-nuevo-disco.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡El inicio de una nueva etapa! Mon Laferte estrena disco antes de ser mamá"
 front: false
 section: "Espectáculos"
-news_id: 189385
+redirect_from: /news/189385
 ---
 
 La cantante Mon Laferte lanzó este viernes su nuevo disco, ‘1940 Carmen’, con el que debuta con composiciones en inglés y que realizó en esta nueva etapa en donde está a punto de convertirse en madre. 

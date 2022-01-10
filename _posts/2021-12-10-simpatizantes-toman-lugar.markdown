@@ -24,11 +24,11 @@ author: nil
 description: "Llevaron pancartas y cartas para entregar al presidente"
 image: "/uploads/2021/images-WhatsApp-Image-2021-12-10-at-11.01.40-AM.jpeg"
 video: "/uploads/2021/videos-BV03_OSCAR_CASTREJON.mp4"
-audio: "nil"
+audio: nil
 alt: "Simpatizantes toman lugar a las afueras del palacio por la visita de AMLO "
 front: false
 section: "Local"
-news_id: 190731
+redirect_from: /news/190731
 ---
 
 Simpatizantes de la 4T tomaron lugar a las afueras del palacio de gobierno para darle la bienvenida al presidente de la republica Andrés Manuel López Obrador ante su visita al estado de Chihuahua, los adeptos llevaron pancartas y acompañados de los diputados, Óscar Castejón de la bancada de morena señalaron su alegría por la llegada del mandatario.

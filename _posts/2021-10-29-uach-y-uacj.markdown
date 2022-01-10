@@ -18,11 +18,11 @@ author: nil
 description: "Bazán los incita a demandar por la via penal "
 image: "/uploads/2021/images-IMG-20211028-WA0000.jpg"
 video: "/uploads/2021/videos-BV02_OMAR_BAZAN_.mp4"
-audio: "nil"
+audio: nil
 alt: "UACH Y UACJ podrán denunciar incumplimiento del impuesto universitario "
 front: false
 section: "Local"
-news_id: 189381
+redirect_from: /news/189381
 ---
 
 El Diputado Omar Bazán Flores presentó una iniciativa con carácter de acuerdo para que el Congreso del Estado exhorte a los rectores de la UACH y UACJ, a que denuncien el incumplimiento de la pasada administración estatal en la entrega del Impuesto Universitario, que solo durante el ejercicio fiscal 2018, significó respectivamente 87 millones 745 mil pesos y 87 millones 945 mil pesos.

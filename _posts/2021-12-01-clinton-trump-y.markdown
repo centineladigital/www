@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Las declaraciones surgen en medio del proceso que busca resolver la participación de Ghislaine Maxwell, quien es vinculada a los abusos y tráficos sexuales que se le asignan al empresario. "
 image: "/uploads/2021/images-bill-clinton-principe-andres-donald.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Clinton, Trump y príncipe Andrés volaron en avión privado de Epstein, revela ex piloto"
 front: false
 section: "Internacional"
-news_id: 190379
+redirect_from: /news/190379
 ---
 
 El primer testigo de la fiscalía en el juicio a la "socialite" Ghislaine Maxwell fue el piloto del avión de Jeffrey Epstein, empresario que murió en la cárcel tras una investigación de abuso y tráfico sexual contra menores, que contó que había trasladado en el mismo transporte a celebridades como Donald Trump, Bill Clinton y el príncipe Andrés, aunque sin acusarlos. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Registran casi 170 homicidios en el estado."
 image: "/uploads/2021/images-FISCAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04_ROBERTO_FIERRO.mp4"
 alt: "Ciudad Juárez y Chihuahua con más homicidios registrados"
 front: false
 section: "Local"
-news_id: 190395
+redirect_from: /news/190395
 ---
 
 De los 170 homicidios que se registraron en el estado hasta el 29 de noviembre, la mayor parte de éstos se registraron en Ciudad Juárez y Chihuahua, según declaraciones del Fiscal General del Estado, Roberto Fierro Duarte.

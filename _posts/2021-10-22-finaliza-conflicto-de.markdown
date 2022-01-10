@@ -10,11 +10,11 @@ author: nil
 description: "Gobierno Federal se compromete a liberar a campesinos detenidos."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MV01_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Finaliza conflicto de agua con la federación"
 front: false
 section: "Local"
-news_id: 189088
+redirect_from: /news/189088
 ---
 
 El conflicto por el agua entre la Federación y el Estado concluyó con la firma de un acuerdo entre estas partes. María Eugenia Campos Galván, Gobernadora de Chihuahua, dio a conocer a través de una reunión zoom que se llegó a este fin de la problemática que originó enfrentamientos entre campesinos y la guardia nacional.

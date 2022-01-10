@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La secretaria de Desarrollo Rural, Lilia Merodio y el director general de la FND, Baldemar Hernández Márquez, firmaron el acuerdo para llevar más opciones de crédito a productores chihuahuenses"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Impulsan Gobierno del Estado y FDN la inclusión financiera del sector rural"
 front: false
 section: "Local"
-news_id: 190696
+redirect_from: /news/190696
 ---
 
 La Secretaría de Desarrollo Rural firmó con Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero (FND), un convenio de colaboración por medio del cual se identificarán proyectos estratégicos en el campo para impulsarlos mediante la promoción de créditos.

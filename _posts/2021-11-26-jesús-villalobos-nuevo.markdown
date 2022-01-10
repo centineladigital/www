@@ -10,11 +10,11 @@ author: nil
 description: "Fungirá 9 meses como rector."
 image: "/uploads/2021/images-rector1.jpg"
 video: "/uploads/2021/videos-MV02_JESUS_VILLALOBOS.mp4"
-audio: "nil"
+audio: nil
 alt: "Jesús Villalobos nuevo rector de la UACH"
 front: false
 section: "Local"
-news_id: 190254
+redirect_from: /news/190254
 ---
 
 Dentro de la sesión del Consejo Universitario de la UACH este viernes se tomó protesta a Jesús Villalobos Jión como rector. Tras presentarse la renuncia del exrector Luis Fierro Ramírez, se dio a conocer por parte del nuevo rector que sería una universidad de puertas abiertas teniendo como pilar la comunicación.

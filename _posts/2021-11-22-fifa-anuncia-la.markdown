@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Conoce a los 11 candidatos que podrían ganar el premio al mejor jugador del año de la FIFA, entre los que destacan Cristiano Ronaldo, Messi, Mbappé y Neymar "
 image: "/uploads/2021/images-fifa-anuncia-candidatos-premio-the_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "FIFA anuncia la lista de candidatos al premio The Best 2021"
 front: false
 section: "Deportes"
-news_id: 190065
+redirect_from: /news/190065
 ---
 
 El argentino Leo Messi (Barcelona/PSG), el brasileño Neymar (PSG), los francés Karim Benzema (Real Madrid) y Kylian Mbappé (PSG) y el portugués Cristiano Ronaldo (Juventus Turín/Manchester United), figuran entre los 11 jugadores candidatos al premio "The Best" al Jugador FIFA 2021, según anunció este organismo. 

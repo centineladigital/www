@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-AJ01_JORGE_CRUZ_CAMBAEROS.mp3"
 alt: "Gobierno Federal evade su responsabilidad de vacunación al no poner reglas cumplibles -  Coparmex"
 front: false
 section: "Local"
-news_id: 182523
+redirect_from: /news/182523
 ---
 
 Ante el anuncio de que cualquier empresa o gobierno local que quiera adquirir vacunas para aplicarlas en México tiene autorización, el presidente de Coparmex Chihuahua Jorge Cruz Cambreros, señaló que el gobierno podría usar este tema como asunto político, pues está evadiendo su propia responsabilidad de vacunar a la población al no poner reglas claras y cumplibles a gobiernos e IP.

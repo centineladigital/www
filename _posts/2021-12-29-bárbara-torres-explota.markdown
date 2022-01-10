@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La pelea entre Bárbara Torres y una persona del staff provocó que los conductores voltearan espantados para calmar la situación; sin embargo, todo se trataba de una broma del Día de los Inocentes. "
 image: "/uploads/2021/images-barbara-torres-exploto-integrantes-staff.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Bárbara Torres explota contra staff de 'Sale el Sol'; quédate con tu foro, quédate con tus conductores"
 front: false
 section: "Espectáculos"
-news_id: 191329
+redirect_from: /news/191329
 ---
 
 En un programa en vivo puede pasar de todo: desde declaraciones polémicas como la que hizo Adela Micha hace unos días o inclusive alguna que otra grosería que se les sale a los conductores, a quienes no les avisan que ya están en vivo, pero en esta ocasión en Sale el Sol parecería que una pelea entre Bárbara Torres y un integrante del staff no pasó inadvertida. Todo comenzó en una sección dirigida por Ana María Alvarado llamada Yo nunca, nunca, en la que los conductores levantan un enorme guante para saber si han hecho algunas de las mencionadas cuestiones dichas por la periodista de espectáculos; sin embargo, minutos después se comenzaron a escuchar gritos en el foro.  

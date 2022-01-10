@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Destaca Consejería Jurídica de Gobierno del Estado que ya no existen obstáculos legales para que se realice la audiencia programada este miércoles 24, en relación con la “nómina secreta” del exgobernador"
 image: "/uploads/2021/images-consejero.-.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ya no hay excusa ni pretexto para audiencia de formulación de imputación contra alcaldesa"
 front: false
 section: "Local"
-news_id: 183107
+redirect_from: /news/183107
 ---
 
 La audiencia de formulación de imputación en contra de la alcaldesa con licencia, relacionada con la “nómina “secreta” y programada para este miércoles 24 de febrero, debe de realizarse porque ya no existen obstáculos legales para ello, consideró el consejero jurídico de Gobierno del Estado, Jorge Espinoza Cortés.

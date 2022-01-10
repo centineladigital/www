@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Entrega Gobernador Javier Corral el inmueble de dos niveles, cuenta con 22 aulas, dos laboratorios de cómputo, dos módulos de sanitarios, área administrativa y talleres     "
 image: "/uploads/2021/images-DSC_0239.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invierte Estado 33 mdp en nuevo edificio de la UT Camargo campus Meoqui"
 front: false
 section: "Local"
-news_id: 187399
+redirect_from: /news/187399
 ---
 
 El gobernador Javier Corral encabezó la ceremonia de inauguración del Edificio de Docencia de la Universidad Tecnológica (UT) de Camargo Unidad Meoqui, construido con una inversión de 33 millones de pesos (mdp), con recursos del Programa Escuelas al CIEN.

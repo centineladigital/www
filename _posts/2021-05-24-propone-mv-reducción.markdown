@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Seguridad y servicios temas prioritarios para la ciudadanía."
 image: "/uploads/2021/images-MARIO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML08_MARIO_VAZQUEZ.mp3"
 alt: "Propone MV reducción de tarifas de agua"
 front: false
 section: "Local"
-news_id: 184629
+redirect_from: /news/184629
 ---
 
 Temas como la reducción de tarifas hidráulicas es lo que propuso el candidato por el distrito décimo sexto del Congreso del Estado, fue la propuesta que presentó Mario Vázquez Robles, donde dijo se buscará que la ciudadanía cuente con acciones para la mejora su seguridad y servicios de calidad para las familias.

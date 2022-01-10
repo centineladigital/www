@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El sospechoso del ataque es un varón de unos veinte años que escapó del lugar de los hechos por las vías del tren; las víctimas han recibido atención médica y se encuentran conscientes"
 image: "/uploads/2021/images-policia_tokio_archivo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ataque con cuchillo en un tren de Tokio deja al menos 4 heridos"
 front: false
 section: "Internacional"
-news_id: 186370
+redirect_from: /news/186370
 ---
 
 Cuatro personas resultaron hoy heridas, dos de ellas de gravedad, al atacar un hombre con un arma blanca a los pasajeros que viajaban en un tren de una de las líneas ferroviarias de Tokio, informaron las autoridades locales.

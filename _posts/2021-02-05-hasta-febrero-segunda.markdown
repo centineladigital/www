@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Desconocen cantidad de inoculaciónes que llegarán en la tercera remesa. "
 image: "/uploads/2021/images-WENDY_AVILA1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV02_WENDY_AVILA.mp3"
 alt: "Hasta febrero segunda dosis de vacunas"
 front: false
 section: "Local"
-news_id: 182744
+redirect_from: /news/182744
 ---
 
 Será hasta después del 15 de febrero cuando lleguen más vacunas a México, por lo que la segunda dosis de vacunación a personal de salud será hasta después de ese día, señaló Wendy Ávila Coronado, Subdirectora de Medicina Preventiva.

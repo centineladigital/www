@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El objetivo es prevenir accidentes producidos por fuego en escuelas y hogares   "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invitan Bomberos a escuelas inscribirse al programa -  “Mis Primeros Pasos”"
 front: false
 section: "Local"
-news_id: 188318
+redirect_from: /news/188318
 ---
 
 La Dirección de Seguridad Pública Municipal, a través  de la Subdirección de Bomberos,  invita a las escuelas a participar en el programa preventivo: “Mis Primeros Pasos”, con el fin de instruir a los estudiantes de las medidas básicas para evitar accidentes ocasionados por el  fuego, en las escuelas o en los hogares.

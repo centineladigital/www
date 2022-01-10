@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Inscripciones abiertas; modalidad única de 5 kilómetro; con esta competencia se cierra el Mes Rosa en el marco del Día Internacional de la Lucha Contra el Cáncer de Mama"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizarán carrera pedestre nocturna “Adelita no corre sola” este sábado en la Deportiva Sur"
 front: false
 section: "Local"
-news_id: 189369
+redirect_from: /news/189369
 ---
 
 En el marco del Día Internacional de la Lucha Contra el Cáncer de Mama, el Gobierno del Estado busca concientizar a la ciudadanía sobre la importancia de contar con un diagnóstico y tratamiento oportunos.

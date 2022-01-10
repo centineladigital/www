@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Arturo Valenzuela Zorrilla, director médico de la Zona Norte informó que la persona que se encuentra en un hospital está fuera de riesgo"
 image: "/uploads/2021/images-vacunacionabuelitos3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Permanece abuelito en observación por reacción a vacuna anticovid"
 front: false
 section: "Local"
-news_id: 183791
+redirect_from: /news/183791
 ---
 
 La Secretaría de Salud informó que son nueve los adultos mayores que han recibido la vacuna contra el Covid-19, de los cuales presentaron reacciones adversas como dolor de cabeza o articulaciones, y de éstos, sólo uno permanece hospitalizado.

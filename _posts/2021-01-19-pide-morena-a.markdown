@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El gobierno estatal ha desmantelado  viveros de su propiedad"
 image: "/uploads/2021/images-ERHRRTJ.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AM03_MIGUEL_COLUNGA.mp3"
 alt: "Pide Morena a Ejecutivo expedir ley para creación de Viveros Sostenibles de Chihuahua"
 front: false
 section: "Local"
-news_id: 182270
+redirect_from: /news/182270
 ---
 
 El Coordinador de la fracción parlamentaria de Morena en el Congreso del Estado, Miguel Ángel Colunga Martínez, presentó una iniciativa para exigir al ejecutivo estatal, la expedición de la Ley que crea la Institución Pública Descentralizada Viveros Sostenibles de Chihuahua.

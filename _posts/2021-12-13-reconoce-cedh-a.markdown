@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Empresas provenientes de todo el Estado."
 image: "/uploads/2021/images-nestor.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML04_NESTOR_ARMENDARIZ.mp4"
 alt: "Reconoce CEDH a 40 empresas "
 front: false
 section: "Local"
-news_id: 190803
+redirect_from: /news/190803
 ---
 
 En el marco del Día de los Derechos Humanos un total de 40 empresas comprometidas la difusión de derechos fueron reconocidas por parte de la Comisión Estatal de los Derechos Humanos de Chihuahua, según fue dado a conocer por parte del Presidente de este organismo Néstor Armendáriz.

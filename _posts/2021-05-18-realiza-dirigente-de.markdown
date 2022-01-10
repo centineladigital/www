@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Destaca estabilidad económica que se ha vivido. "
 image: "/uploads/2021/images-DELGADO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM06.mp3"
 alt: "Realiza Dirigente de MORENA gira en Chihuahua"
 front: false
 section: "Local"
-news_id: 184525
+redirect_from: /news/184525
 ---
 
 Este martes el dirigente nacional de Morena, Mario Delgado, llevó a cabo una gira de trabajo en compañía con el candidato a gobernador, Juan Carlos Loera. Reuniéndose con diversos empresarios a los cuales les ofrecieron certidumbre económica, destacando que debido a las acciones a nivel nacional se ha tenido una estabilidad en materia de deuda.

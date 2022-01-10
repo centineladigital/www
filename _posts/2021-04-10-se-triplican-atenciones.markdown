@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cristal es una droga estimulante muy poderosa, y su efecto es veinte veces más potente que la cocaína "
 image: "/uploads/2021/images-drogas1-COLOR.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se triplican atenciones por consumo de cristal en adolescentes"
 front: false
 section: "Local"
-news_id: 183808
+redirect_from: /news/183808
 ---
 
 Entre el año 2017 y 2020, el consumo de cristal por adolescentes y jóvenes se triplicó en la ciudad, de acuerdo al número de atenciones reportadas por el Centro de Integración Juvenil de Chihuahua.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los elegidos recibirán un mensaje con la información de la siguiente etapa"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Eligen a los 98 jóvenes que participarán en elección de Cabildo Joven 2021"
 front: false
 section: "Local"
-news_id: 190005
+redirect_from: /news/190005
 ---
 
 Dentro de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, comprometido con la inclusión de las y los jóvenes en la vida pública de la ciudad, da a conocer los 98 seleccionados que contenderán en la elección del Cabildo Joven 2021.

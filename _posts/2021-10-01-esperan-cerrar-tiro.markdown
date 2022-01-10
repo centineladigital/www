@@ -10,11 +10,11 @@ author: nil
 description: "Trabajará con organizaciones de la sociedad civil."
 image: "/uploads/2021/images-FIERRO.jpg"
 video: "/uploads/2021/videos-MV04_ROBERTO_FIERO.mp4"
-audio: "nil"
+audio: nil
 alt: "Esperan cerrar tiro de mina"
 front: false
 section: "Local"
-news_id: 188286
+redirect_from: /news/188286
 ---
 
 El Fiscal General señaló que se busca la forma en la cual se pueda cerrar el tiro de la Mina de Santo Domingo en el Municipio de Aquiles Serdán, donde este jueves se localizaron tres cuerpos. Destacando por parte de Roberto Fierro Duarte que no es posible que de forma constante aparezcan cuerpos, esto luego de que se llevó a cabo un rastreo previo.

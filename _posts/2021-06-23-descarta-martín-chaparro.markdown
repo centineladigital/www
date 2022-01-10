@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Comentó que le corresponde al consejo nacional emitir la convocatoria para que este proceso se lleve a cabo"
 image: "/uploads/2021/images-wefeeef.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AW01_MARTIN_CHAPARRO.mp3"
 alt: "Descarta Martín Chaparro entregar la dirigencia de Morena"
 front: false
 section: "Local"
-news_id: 185203
+redirect_from: /news/185203
 ---
 
 El presidente del Comité Estatal de Morena, Martín Chaparro, aseguró que habría de continuar en el cargo hasta que el Comité Nacional emprenda la renovación de las dirigencias y no cuando un grupo, por no querer asumir las consecuencias, quiera comenzar a repartir culpas.

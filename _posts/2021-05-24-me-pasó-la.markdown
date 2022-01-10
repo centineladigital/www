@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Kevin Casillas, periodista del programa de TV Azteca, relató el percance que sufrió durante la boda de 'El Canelo' Álvarez y Fernanda Gómez. "
 image: "/uploads/2021/images-automovil-canelo-atropella-reportero-vla.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me pasó la llanta -  Automóvil de 'El Canelo' atropella a reportero de 'VLA' en su boda"
 front: false
 section: "Espectáculos"
-news_id: 184622
+redirect_from: /news/184622
 ---
 
 Saúl El Canelo Álvarez y Fernanda Gómez se casaron este sábado en la Catedral de Guadalajara, una semana después de celebrar su boda por el civil en Punta Mita. A la celebración acudieron artistas y celebridades, entre ellos J Balvin, Ángela Aguilar, Prince Royce y José Chepo Reynoso, además decenas de fanáticos se reunieron a fuera de la iglesia para felicitar al boxeador mexicano. Reporteros y medios de comunicación también acudieron al lugar para capturar cada momento de la ceremonia. Sin embargo, no todos salieron ilesos de la fiesta, ya que Kevin Casillas, reportero del programa Venga la Alegría sufrió un aparatoso accidente, pues fue atropellado por el carro en el que viajaba El Canelo Álvarez rumbo a la iglesia.  

@@ -16,11 +16,11 @@ author: nil
 description: "Se trabajará porque el agua llegue a las diferentes regiones y municipios del estado de Chihuahua "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-22_at_08.58.08.jpeg"
 video: "/uploads/2021/videos-_BV04_EDGAR_PIÑON.mp4"
-audio: "nil"
+audio: nil
 alt: "Piñón se incorpora al Consejo de la JMAS"
 front: false
 section: "Local"
-news_id: 189098
+redirect_from: /news/189098
 ---
 
 El diputado del PRI Edgar Piñón se incorporó al consejo de la Junta Central de Agua y Saneamiento del Estado de Chihuahua, en su carácter de Presidente de la Comisión del Agua en el Congreso Local.

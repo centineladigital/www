@@ -14,11 +14,11 @@ author: nil
 description: "31 votos a favor y dos en contra para los dos funcionarios "
 image: "/uploads/2021/images-PROTESTA.jpeg"
 video: "/uploads/2021/videos-BM05_PROTESTA.mp4"
-audio: "nil"
+audio: nil
 alt: "Toman protesta Roberto Fierro y María Álvarez en el Congreso "
 front: false
 section: "Local"
-news_id: 187933
+redirect_from: /news/187933
 ---
 
 Frente al pleno del los diputados del Congreso del Estado de Chihuahua tomaron protesta Roberto Fierro Duarte y María de los Ángeles Álvarez como Fiscal Gral del Estado y Titular de la Secretaria de la Función Pública respectivamente.

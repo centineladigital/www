@@ -14,11 +14,11 @@ author: nil
 description: "La policía municipal busca ser la corporación mas profesionalizada "
 image: "/uploads/2021/images-principal_42892614_2366609640021382_3767526225216536576_o.jpg"
 video: "/uploads/2021/videos-BL02_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: " Se profesionalizará a los policías municipales "
 front: false
 section: "Local"
-news_id: 188356
+redirect_from: /news/188356
 ---
 
 En materia de seguridad pública Municipal el alcalde Marco Bonilla señaló que se  impartirán las licenciaturas alta dirección, tecnología policial y administración de emergencias en la academia de policías, esto con el objetivo de tener un cuerpo policíaco profesionalizado.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ofrece asesoría psicológica, jurídica y atención a casos de violencia"
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Ya conoces los servicios y programas del Instituto Municipal de las Mujeres?"
 front: false
 section: "Local"
-news_id: 189525
+redirect_from: /news/189525
 ---
 
 El Gobierno Municipal de Chihuahua a través del Instituto Municipal de las Mujeres (IMM), brinda programas para impulsar y apoyar estrategias dirigidas al desarrollo de las mujeres del municipio, a fin de lograr su plena participación en los ámbitos económico, político, social, cultural, laboral y educativo.

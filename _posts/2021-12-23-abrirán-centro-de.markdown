@@ -10,11 +10,11 @@ author: nil
 description: "Invertirán cinco millones de pesos para atención a menores."
 image: "/uploads/2021/images-marumama.jpg"
 video: "/uploads/2021/videos-marumama.jpg"
-audio: "nil"
+audio: nil
 alt: "Abrirán centro de atención de infantes migrantes"
 front: false
 section: "Local"
-news_id: 191169
+redirect_from: /news/191169
 ---
 
 Con una inversión de cerca de cinco millones de pesos el DIF estatal abrirá un nuevo albergue para atención a menores migrantes, según lo dio a conocer la Presidente de este organismo María Eugenia Galván Antillón. 

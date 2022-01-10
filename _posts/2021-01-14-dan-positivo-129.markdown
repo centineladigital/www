@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Van 48 mil 020 contagios acumulados y 4 mil 455 defunciones; 84 trabajadores de la salud han perdido la vida de 5 mil 149 que se han contagiado y son ya 4 mil 338 los recuperados"
 image: "/uploads/2021/images-Diapositiva4.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dan positivo 129 personas más y se confirman 17 decesos por COVID-19 en la entidad "
 front: false
 section: "Local"
-news_id: 182138
+redirect_from: /news/182138
 ---
 
 La Secretaría de Salud Chihuahua dio a conocer que se confirmaron otros 129 casos de personas contagiadas por COVID-19, para un acumulado de 48 mil 020 en lo que va de la pandemia, así como 17 defunciones para un total de 4 mil 455.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal remodeló la estructura para dar la bienvenida a los visitantes "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rehabilitan arco de entrada a comunidad de El Charco "
 front: false
 section: "Local"
-news_id: 190882
+redirect_from: /news/190882
 ---
 
 Dentro de los primeros 100 días de trabajo y resultados, el Gobierno Municipal a través de la Dirección de Desarrollo Rural realizó la rehabilitación y remodelación del arco de bienvenida ubicado a la entrada del Seccional de El Charco, en beneficio de aproximadamente 500 personas que radican en la comunidad y alrededores.

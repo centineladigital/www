@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Representa un esfuerzo conjunto entre Index e instituciones educativas por mantener la vinculación empresa-escuela para mejorar procesos, administración, operaciones y para el alumnado, la posibilidad de obtener una promoción laboral"
 image: "/uploads/2021/images-IMG_6976.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participan estudiantes de la UTCH Sur  en Index Kaizen 2021"
 front: false
 section: "Local"
-news_id: 189163
+redirect_from: /news/189163
 ---
 
 Estudiantes de la Universidad Tecnológica de Chihuahua Sur (UTCH Sur) participaron en la primera edición de Index-Kaizen 2021, programa que tiene el objetivo de reforzar la vinculación empresa-escuela, a través del desarrollo de proyectos en el ámbito de mejora de procesos, administración, operaciones, entre otros otros.

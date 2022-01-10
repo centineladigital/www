@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El gobernador Alfredo Del Mazo reiteró la importancia de mantener las medidas de prevención para evitar la propagación del virus"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Edomex se queda en semáforo naranja otras dos semanas, anuncia el gobernador"
 front: false
 section: "Nacional"
-news_id: 186371
+redirect_from: /news/186371
 ---
 
 El gobernador del Estado de México, Alfredo Del Mazo Maza, informó que durante las próximas dos semanas la entidad permanecerá en naranja en el Semáforo de Riesgo Epidemiológico. 

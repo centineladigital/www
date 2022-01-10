@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A convocatoria del Instituto Chihuahuense de la Juventud se crearon 8 murales en los que se plasman expresiones de los diversos ámbitos de la vida en esta frontera desde la mirada de artistas jóvenes"
 image: "/uploads/2021/images-Murales_Ruta_Liberación_7.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura Gobernador Murales de la Ruta Liberación en Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 187009
+redirect_from: /news/187009
 ---
 
 El gobernador Javier Corral Jurado, inauguró los Murales de la Ruta Liberación, los cuales fueron creados por artistas jóvenes en diversos ámbitos de la vida en Ciudad Juárez, a convocatoria del Instituto Chihuahuense de la Juventud (Ichijuv).

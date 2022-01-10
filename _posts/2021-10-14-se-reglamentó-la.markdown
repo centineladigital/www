@@ -14,11 +14,11 @@ author: nil
 description: "Con el fin de cumplir con la ley y ofrecer al ciudadano la seguridad y confianza al depositar sus datos personales"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-14_at_11.29.56.jpeg"
 video: "/uploads/2021/videos-BJ01_CARMEN_HIDALGO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se reglamentó la elaboración de los avisos de privacidad "
 front: false
 section: "Local"
-news_id: 188741
+redirect_from: /news/188741
 ---
 
 La titular de la Coordinación de Transparencia y Gobierno Abierto, Carmen Hidalgo Posada, resaltó que se reglamentó la elaboración, manejo, carga y revisión de los avisos de privacidad, así como el tratamiento y transferencia de los datos obtenidos, con el fin de cumplir con la ley y ofrecer al ciudadano la seguridad y confianza al depositar sus datos personales.

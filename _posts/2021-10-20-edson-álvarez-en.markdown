@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El futbolista mexicano se ha convertido en un pilar del Ajax y del técnico Erik ten Hag"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Edson Álvarez en negociaciones para renovar con el Ajax"
 front: false
 section: "Deportes"
-news_id: 188947
+redirect_from: /news/188947
 ---
 
 El centrocampista mexicano Edson Álvarez, que se ha ganado un puesto fijo en el once titular del Ajax, negocia la renovación de su contrato hasta 2025, publicó hoy la prensa neerlandesa. El jugador y el equipo “han expresado la intención de seguir juntos por más tiempo”, publicó el periódico de pago más leído de Países Bajos, “De Telegraaf”, citando fuentes del club.

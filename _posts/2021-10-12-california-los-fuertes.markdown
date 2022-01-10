@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Al menos 21 mil residentes del norte y centro del estado fueron suspendidos del servicio eléctrico de PG&E, los vientos desataron nuevos incendios forestales. "
 image: "/uploads/2021/images-indonesia-bombero-busca-extinguir-incendio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "California -  Los fuertes vientos provocan nuevos incendios forestales y cortes de energía"
 front: false
 section: "Internacional"
-news_id: 188621
+redirect_from: /news/188621
 ---
 
 Los fuertes vientos seguían azotando California el martes después de derribar árboles, avivar incendios forestales y cortar el suministro eléctrico  a miles de clientes en las regiones norte y central del estado. 

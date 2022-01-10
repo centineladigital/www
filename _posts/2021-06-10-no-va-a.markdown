@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Aseguran que se tiene asegurado el pago a burócratas."
 image: "/uploads/2021/images-MESTA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ05_.mp3"
 alt: "No va a fallar pago a enfermeros"
 front: false
 section: "Local"
-news_id: 184977
+redirect_from: /news/184977
 ---
 
 El estado no ha fallado, ni fallará en el pago de sus sueldos a enfermeros, afirmó el Secretario General de Gobierno, Fernando Mesta Soulé. Esto al ser cuestionado respecto a la solución que solicitaron los enfermeros este miércoles luego de tomar calles y edificios gubernamentales.

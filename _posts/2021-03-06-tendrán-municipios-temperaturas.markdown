@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Para mañana domingo habrá un ligero descenso de la temperatura, con lo que la ciudad de Chihuahua amanecerá a 6°C, Juárez a 5°C, Cuauhtémoc a 3°C, Delicias 6°C y Parral 4°C"
 image: "/uploads/2021/images-big_jp1Csm0o.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Tendrán municipios temperaturas de alrededor de 20°C hoy sábado"
 front: false
 section: "Local"
-news_id: 183321
+redirect_from: /news/183321
 ---
 
 Este sábado 6 de marzo, la masa de aire que impulsa al Frente Frío número 40, en interacción con la corriente en chorro favorece ambiente de muy frío a frío por la mañana y de cálido a poco caluroso por la tarde con temperaturas de alrededor de 20°C, informó la Coordinación Estatal de Protección Civil (CEPC).

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Khalifa Bin Hamad Al Thani, familiar del presidente del París, lanzó un enigmático mensaje al técnico Mauricio Pochettino. "
 image: "/uploads/2021/images-mauricio-pochettino-entrenador-del-psg-2_1_83_1198_747_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La 'amenaza' de jeque del PSG a Mauricio Pochettino tras cambio de Lionel Messi"
 front: false
 section: "Deportes"
-news_id: 187867
+redirect_from: /news/187867
 ---
 
 Una de las imágenes más vistas del fin de semana fue la reacción que tuvo Lionel Messi tras salir de cambio en el segundo tiempo del partido PSG vs Olympique de Lyon, donde ganaron los parisinos gracias al gol de Mauro Icardi. 

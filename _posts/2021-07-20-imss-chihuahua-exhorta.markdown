@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Es necesario fomentar el consumo de agua natural en las niñas y niños"
 image: "/uploads/2021/images-Foto_3289-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " IMSS Chihuahua exhorta a la población a reducir el consumo de bebidas azucaradas "
 front: false
 section: "Local"
-news_id: 185852
+redirect_from: /news/185852
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, informa que el consumo de bebidas azucaradas en exceso y de manera cotidiana puede acarrear múltiples problemas para la salud.

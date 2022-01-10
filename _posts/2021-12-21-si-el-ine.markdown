@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente López Obrador confió en que sí se llevará a cabo la consulta, pero acusó que se busca no realizar este ejercicio con “prácticas dilatorias”"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Si el INE no puede, consulta de revocación de mandato la puede hacer el pueblo -  AMLO"
 front: false
 section: "Nacional"
-news_id: 191059
+redirect_from: /news/191059
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que si el Instituto Nacional Electoral (INE) se niega a realizar la consulta de revocación  de mandato, el pueblo puede organizarse para llevar a cabo este ejercicio. 

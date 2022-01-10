@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Indicó que en su proyecto de gobierno, se tiene como objetivo principal convertir a Chihuahua en la ciudad más competitiva del país"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-11_at_12.55.12.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Confiamos en la visión joven de Marco Bonilla para transformar Chihuahua -  Paco Navarro"
 front: false
 section: "Local"
-news_id: 187660
+redirect_from: /news/187660
 ---
 
 Luego de la toma de protesta de Marco Bonilla como alcalde de la ciudad de Chihuahua, el presidente del Comité Directivo Municipal del PAN en la capital del estado, Paco Navarro Pastrana, señaló que existe la confianza total en el nuevo edil, pues cuenta con experiencia y juventud, dos cualidades clave para realizar grandes cosas por el municipio.

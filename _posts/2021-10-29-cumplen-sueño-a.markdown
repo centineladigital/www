@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " El mayor anhelo del pequeño es convertirse en policía para cuidar a su familia y a las personas"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cumplen sueño a Gadiel de ser Policía Honorario   "
 front: false
 section: "Local"
-news_id: 189363
+redirect_from: /news/189363
 ---
 
 Gadiel Adair, un niño especial de 6 años de edad que vive con sus padres y su hermano de 5, todos oriundos del municipio de Guadalupe y Calvo, un punto alejado de la capital, en la sierra de Chihuahua y quienes cuatro años atrás debieron migrar -como muchas otras familias lo han hecho antes-, debido a la escasez de recursos y empleos en aquella región, no imaginó ser nombrado “Policía Honorario”, un título que siempre anheló pero que creyó nunca podría alcanzar.

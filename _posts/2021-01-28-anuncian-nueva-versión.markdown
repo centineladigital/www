@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Una productora mexicana anunció el remake de este programa de concursos español. "
 image: "/uploads/2021/images-el-gran-juego-de-la.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncian nueva versión de 'El Juego de la Oca'"
 front: false
 section: "Espectáculos"
-news_id: 182540
+redirect_from: /news/182540
 ---
 
 La productora mexicana Endemol Shine Boomdog, anunció este jueves que se está preparando un 'revival' o una nueva versión del famoso programa de televisión española El Gran Juego de la Oca que se produjo por primera vez en Madrid, España en 1993 y que se popularizó en los países de habla hispana alcanzando un gran éxito.  

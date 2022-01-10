@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Evento organizado por el Gobierno del Estado a través del Instituto Chihuahuense de las Mujeres (Ichmujeres)"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Se ilumina de rosa el Palacio de Gobierno en conmemoración por el Día Internacional de la Lucha Contra el Cáncer de Mama"
 front: false
 section: "Local"
-news_id: 188955
+redirect_from: /news/188955
 ---
 
 Este 19 de octubre Chihuahua se iluminó de rosa en el marco de la Conmemoración del Día Internacional de la Lucha contra el Cáncer de Mama, evento organizado por el Gobierno del Estado a través del Instituto Chihuahuense de las Mujeres (Ichmujeres).

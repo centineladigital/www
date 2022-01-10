@@ -13,12 +13,12 @@ tags:
 author: nil
 description: " El Código Fiscal databa de 1970 y no solo era obsoleto, sino que fue declarado inconstitucional, por lo que se buscó y obtuvo un paquete hacendario acorde, con un nuevo Código, la Ley de Hacienda y la Ley de Coordinación Fiscal.  "
 image: "/uploads/2021/images-Diapositiva4.JPG"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-3-_TEMAS_SUBSIRA_INGRESOS_JUAN_PABLO_GARCÍA_PROGRAMA_LOGROS_CON_VALOR_SRIA_HCIENDA__12-7-21.MP3"
 alt: "Diseñó Gobierno del Estado nuevo marco normativo en materia fiscal"
 front: false
 section: "Local"
-news_id: 185565
+redirect_from: /news/185565
 ---
 
 Algo que nos encontramos al llegar a la administración, es que no se contaba con un marco normativo vigente, se tenía un Código Fiscal que venía de 1970 y no se podía aplicar porque este había sido incluso declarado inconstitucional por no tener lo más básico para iniciar auditorías, informó el subsecretario de Ingresos de la Secretaría de Hacienda, Juan Pablo García Delgado.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El defensa mexicano partió al futbol italiano tras su paso con Pumas en la Liga "
 image: "/uploads/2021/images-johan-vasquez-se-despide-de_0_53_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La emotiva despedida de Johan Vásquez de Pumas -  Me diste la oportunidad que esperé toda mi vida"
 front: false
 section: "Deportes"
-news_id: 186645
+redirect_from: /news/186645
 ---
 
 Johan Vásquez está cerca de fichar con el Genoa en el futbol de Italia y -previo a que se haga oficial- compartió un emotivo mensaje para despedirse de Pumas y les agradeció por confiar en él.

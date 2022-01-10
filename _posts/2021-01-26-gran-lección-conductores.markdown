@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el rostro desencajado, Andrea Legarreta, Arath de la Torre y Martha Figueroa ofrecieron una disculpa pública a Nath Campos tras comentarios desafortunados; esto dijeron los conductores del programa Hoy de Televisa. "
 image: "/uploads/2021/images-disculpa_hoy.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gran lección -  Conductores de 'Hoy' ofrecen disculpa pública a Nath Campos en vivo"
 front: false
 section: "Espectáculos"
-news_id: 182439
+redirect_from: /news/182439
 ---
 
 Tras las severas críticas en contra del programa Hoy de Televisa por lanzar comentarios desafortunados sobre el caso de abuso que vivió la youtuber Nath Campos por parte del influencer Rix, en donde pusieron en duda el testimonio de la afectada al tocar como tema “el alcohol” y la razón “por la que siguió siendo amiga” del victimario, durante el en vivo de la emisión matutina Andrea Legarreta, Arath de la Torre y Martha Figueroa pidieron disculpas y admitieron su error. Te contamos la forma en la que la revista matutina admitió que se equivocó. Fue durante la transmisión en vivo del programa Hoy cuando Andrea Legarreta, Arath de la Torre y Martha Figueroa dieron la cara para pedir disculpas por haber revictimizado a Nath Campos durante la emisión del día de ayer, al hablar sobre lo que el alcohol puede ocasionar y que hay confusión de que las víctimas a veces sigan teniendo lazos con los agresores. 

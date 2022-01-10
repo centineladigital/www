@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se observa mejores condiciones y más apertura de empresas"
 image: "/uploads/2021/images-Imagen1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AL01_ANTONIO_VALADEZ.mp3"
 alt: "IP no se pude descuidar ni bajar la guarda en medidas Covid -  Canacintra "
 front: false
 section: "Local"
-news_id: 185142
+redirect_from: /news/185142
 ---
 
 El presidente de Canacintra Chihuahua, Antonio Valadez, señaló que si bien se observa buen avance en cuanto a reactivación económica es necesario que las empresas no bajen la guardia y sigan conservando todos los protocolos de seguridad.

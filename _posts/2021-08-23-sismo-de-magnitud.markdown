@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Fue a través de redes sociales del Sistema Sismológico Nacional (SSN) en donde se informó que a 131 kilómetros del suroeste de Puerto Vallarta, en Jalisco, se registró un sismo de magnitud 4.4"
 image: "/uploads/2021/images-sismo-agosto-puerto-vallarta-jalisco.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sismo de magnitud 4.4 sacude a Puerto Vallarta, Jalisco, durante la madrugada"
 front: false
 section: "Nacional"
-news_id: 186989
+redirect_from: /news/186989
 ---
 
 Un sismo de magnitud 4.4 se registró durante esta madrugada al suroeste de Puerto Vallarta, Jalisco, así lo informó elSistema Sismológico Nacional. 

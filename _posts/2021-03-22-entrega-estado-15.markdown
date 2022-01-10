@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de Coesvi invierte más de 2 millones de pesos en favor de las familias en situación de vulnerabilidad que residen en ese municipio"
 image: "/uploads/2021/images-VIVIENDAS_ALDAMA_COESVI_(5).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Estado 15 viviendas nuevas en Casas Grandes"
 front: false
 section: "Local"
-news_id: 183506
+redirect_from: /news/183506
 ---
 
 El Gobierno del Estado, a través de Comisión Estatal de Vivienda, Suelo e Infraestructura (Coesvi), entregó de manera simbólica 15 viviendas nuevas en Casas Grandes, mediante una inversión de más de 2 millones de pesos.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los Rayados y el América se jugarán el boleto al Mundial de Clubes en la final de la Liga de Campeones de la CONCACAF"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Qué equipos de la Liga MX han ido al Mundial de Clubes?"
 front: false
 section: "Deportes"
-news_id: 189356
+redirect_from: /news/189356
 ---
 
 Los Rayados de Monterrey y las Águilas del América se jugarán el boleto para disputar una vez más un Mundial del Clubes de Emiratos Árabes Unidos al ser los finalistas de la Liga de Campeones de la Concacaf.

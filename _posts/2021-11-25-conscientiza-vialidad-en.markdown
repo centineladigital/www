@@ -10,11 +10,11 @@ author: nil
 description: "Exhortan a sacar credencial para uso de cajones azules."
 image: "/uploads/2021/images-IVAN.jpg"
 video: "/uploads/2021/videos-MJ01_IVAN_LUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Conscientiza vialidad en uso de espacios para discapacitados"
 front: false
 section: "Local"
-news_id: 190208
+redirect_from: /news/190208
 ---
 
 Buscando conscientizar el uso de lugares para personas con discapacidad, este jueves dio inicio la campaña "No ocupes mi lugar", donde también se exhortó a tramitar la credencial que te da derecho a estacionarse en un cajón azul.

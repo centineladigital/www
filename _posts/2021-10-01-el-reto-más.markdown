@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor confirmó que dará vida a 'El Charro de Huentitán' en una serie biográfica que ya prepara Netflix y compartió una foto de su caracterización. "
 image: "/uploads/2021/images-jaime-camil-interpretara-vicente-fernandez_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El reto más grande -  Jaime Camil será Vicente Fernández en bioserie; así luce como 'Chente'"
 front: false
 section: "Espectáculos"
-news_id: 188264
+redirect_from: /news/188264
 ---
 
 No será Alejandro Speitzer sino Jaime Camil el encargado de interpretar a Vicente Fernández en la serie biográfica que contará la vida de El Charro de Huentitán y que ya está en producción, así lo confirmó el mismo actor a través de sus redes sociales, en donde expresó "la grandísima responsabilidad" que significa dar vida a uno de los máximos exponentes de la música ranchera.  Tras semanas de rumores y una larga lista de candidatos, finalmente se reveló que Jaime Camil -conocido por protagonizar telenovelas como La bella más fea, Por ella soy Eva y Las tontas no van al cielo- cuenta con la aprobación de la familia para dar vida a El rey de las rancheras.  

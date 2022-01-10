@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz relató la experiencia que vivió a lado de 'La Doña' tras tomarse varios tragos de tequila. "
 image: "/uploads/2021/images-lucia-mendez-recuerda-emborracho-maria_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hasta el gorro -  Lucía Méndez recuerda el día que se emborrachó con María Félix"
 front: false
 section: "Espectáculos"
-news_id: 184140
+redirect_from: /news/184140
 ---
 
 Lucía Méndez relató la polémica experiencia que vivió a lado de la diva del cine mexicano, María Félix. La actriz recordó que La Doña fue quien la llamó a su casa para invitarla a comer al restaurante de El Lago, tras su encuentro ambas se marcharon a otro sitio donde tras unos tragos de tequila la también cantante, quien en los últimos días habló de su romance con Luis Miguel, señaló que terminó "hasta el gorro".  Durante su participación en el programa Mimí contigo, Lucía Méndez comentó que estaba muy nerviosa después de que María Félix la contactó, pues era la primera que se encontraría con ella. Indicó que mientras estaban en restaurante La Doña le contó de sus romances.  

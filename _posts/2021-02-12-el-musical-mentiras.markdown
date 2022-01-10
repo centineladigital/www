@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El fiesta consistirá en presentar vía online la función que la compañía dio en el Auditorio Nacional en 2019."
 image: "/uploads/2021/images-listo-celebracion-aniversario-musical-mentiras.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El musical Mentiras festejará su 12 aniversario vía streaming"
 front: false
 section: "Espectáculos"
-news_id: 182886
+redirect_from: /news/182886
 ---
 
 Mentiras, uno de los musicales más exitosos de nuestro país y que recorre los hits más emblemáticos de los 80, celebrará su aniversario 12 vía streaming proyectando la función que dieron en el Auditorio Nacional en febrero del 2019 por su décimo aniversario. El productor Morris Gilbert dio a conocer esta noticia en una conferencia vía Zoom, acompañado de actores que han participado por esta puesta en escena, como Angélica Vale, Kika Édgar, Lorena de La Garza, Majo Pérez y Carlos Gatica, entre muchos más. 

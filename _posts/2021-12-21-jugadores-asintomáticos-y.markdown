@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En total, 47 jugadores fueron colocados en la reserva por COVID-19, la mayor cifra en un día desde que inició la pandemia"
 image: "/uploads/2021/images-jugadores-asintomaticos-vacunados-positivo-covid.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jugadores asintomáticos y vacunados dan positivo a Covid-19 en NFL"
 front: false
 section: "Deportes"
-news_id: 191060
+redirect_from: /news/191060
 ---
 
 Varios casos de jugadores de la NFL asintomáticos y vacunados, arrojaron positivo a COVID-19 en el primer día de pruebas “dirigidas”, comentó una persona con conocimiento del caso a The Associated Press el lunes. 

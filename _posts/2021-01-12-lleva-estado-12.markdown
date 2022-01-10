@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de la Secretaría de Desarrollo Social familias de Ciudad Juárez, Praxedis G. Guerrero, Guadalupe, Janos, Ahumada y Ascensión reciben la ayuda extraordinaria frente a la crisis derivada de la pandemia"
 image: "/uploads/2021/images-ApoyosAlimenticiosCDJ-19.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lleva Estado 12 toneladas de apoyos alimentarios  a municipios de la zona norte"
 front: false
 section: "Local"
-news_id: 182060
+redirect_from: /news/182060
 ---
 
 El Gobierno del Estado de Chihuahua, a través de la Secretaría de Desarrollo Social, entregó en Ciudad Juárez 12 toneladas de apoyos alimentarios para ser distribuidos en seis municipios de la zona norte de la entidad.

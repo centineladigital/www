@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Dominarlos en el deporte que ellos llaman soccer, al menos a nivel de selecciones nacionales, ya es una simple utopía"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estados Unidos, con más triunfos que la Selección Mexicana en duelos directos"
 front: false
 section: "Deportes"
-news_id: 189735
+redirect_from: /news/189735
 ---
 
 Dominarlos en el deporte que ellos llaman soccer, al menos a nivel de selecciones nacionales, ya es una simple utopía.

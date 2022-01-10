@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Padres se muestran indignados al ver que sus hijos sufren las consecuencias de las malas prácticas de un hospital al aplicar la vacuna covid-19. "
 image: "/uploads/2021/images-vacunacion-menores-edad-autorizara-unidos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Niños de California se enferman tras aplicarles dosis incorrectas de la vacuna covid-19"
 front: false
 section: "Internacional"
-news_id: 190046
+redirect_from: /news/190046
 ---
 
 Dos niños de California se han reportado como enfermos tras acudir a una clínica con sus padres para que se les administrara la dosis de la vacuna contra el covid-19. Sin embargo, la clínica aplicó varias dosis incorrectas para algunos menores, por lo que padres muestran su indignación ante la situación. 

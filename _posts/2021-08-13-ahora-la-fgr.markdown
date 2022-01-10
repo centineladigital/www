@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Autoridades señalan que existe una supuesta red de prestanombres que incluye a otros tres exservidores públicos y empresas que tienen presunta responsabilidad en el enriquecimiento ilícito"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ahora la FGR investiga a Toledo por lavado"
 front: false
 section: "Nacional"
-news_id: 186638
+redirect_from: /news/186638
 ---
 
 Desde abril pasado, la Fiscalía General de la República (FGR) investiga al exdiputado federal Mauricio Toledo y a una supuesta red de prestanombres que incluye a otros tres exservidores públicos, por enriquecimiento ilícito.

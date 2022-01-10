@@ -12,11 +12,11 @@ author: nil
 description: "Más de 45 empresas ofertan mas de mil  500 vacantes de niveles operativo y profesional "
 image: "/uploads/2021/images-20211112_111612.jpg"
 video: "/uploads/2021/videos-BV01_REP._LUISA_ALCALDE_.mxf.mp4"
-audio: "nil"
+audio: nil
 alt: "Arranca la expo activación económica "
 front: false
 section: "Local"
-news_id: 189816
+redirect_from: /news/189816
 ---
 
 Con motívo de apoyar la economía chihuahuense, el Gobierno del Estado, en conjunto con más de 45 empresas ofertan más de mil  500 vacantes de niveles operativo y profesional , la feria tendrá lugar en el centro de convenciones los días 12 y 13 de noviembre del presente año.

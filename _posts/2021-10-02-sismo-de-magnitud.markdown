@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El temblor se percibió moderado en los municipios de Técpan de Galeana, Benito Juárez, Atoyac de Álvarez, Coyuca de Benítez, y ligero en Acapulco, confirmo el Centro Estatal de Alertamiento. "
 image: "/uploads/2021/images-no-se-reportan-danos-hasta_0_0_483_300.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sismo de magnitud 4.4 se siente al sureste de Coyuca de Benítez, Guerrero"
 front: false
 section: "Nacional"
-news_id: 188304
+redirect_from: /news/188304
 ---
 
 Esta tarde se registró un sismo magnitud 4.4 a 14 kilómetros al oeste del municipio de Coyuca de Benítez, Guerrero, sin que se reporten daños materiales ni personas lesionadas. 

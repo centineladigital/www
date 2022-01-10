@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz Karla Sofía Gascón reveló que Marko Pena, ex novio de Niurla, la llamó y que le coqueteo; esto fue lo que dijo la española. "
 image: "/uploads/2021/images-karla-sofia-conto-acerco-cantante_55_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Karla Sofía Gascón asegura que Marko Peña, ex novio de Niurka, le coqueteó"
 front: false
 section: "Espectáculos"
-news_id: 184405
+redirect_from: /news/184405
 ---
 
 Hace unas semanas Niurka reveló que tenía una relación con el cantante Marko Peña, con quien había grabado un video musical, sin embargo, el amor les duró muy poco ya que unos días después la cunaba anunció que había terminado su noviazgo. Ahora, quien sorprendió con unas declaraciones fue la actriz Karla Sofía Gascón, quien aseguró que el cantante le coqueteó. En una entrevista con varios medios, la cual fue retomada por Sale el Sol, la actriz trans, Karla Sofía Gascón contó que en una ocasión conoció a Marko Peña, quien días después le habló por teléfono y comenzó a coquetearle, esto antes de que el cantante iniciara su relación con Niurka. 

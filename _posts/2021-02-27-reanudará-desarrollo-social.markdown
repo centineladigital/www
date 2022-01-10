@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Será reactivado de forma virtual el próximo mes de marzo y es dirigido a 35 beneficiarios de casas de cuidado y asilos, quienes replicarán los conocimientos que adquieran a 900 personas de varios municipios del estado"
 image: "/uploads/2021/images-Machi_taller_hortalizas-136.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reanudará Desarrollo Social su programa “Cultiva la Vida”"
 front: false
 section: "Local"
-news_id: 183196
+redirect_from: /news/183196
 ---
 
 La Secretaría de Desarrollo Social anunció que reanudará durante el mes de marzo de manera virtual el programa “Cultiva la Vida”, capacitación dirigida a 35 beneficiarios de casas de cuidado y asilos.

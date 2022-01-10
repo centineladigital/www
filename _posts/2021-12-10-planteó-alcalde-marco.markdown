@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "En su visita a la ciudad, tuvo la oportunidad de intercambiar estadísticas sobre seguridad   "
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Planteó alcalde Marco Bonilla al presidente Andrés Manuel proyectos clave para Chihuahua"
 front: false
 section: "Local"
-news_id: 190733
+redirect_from: /news/190733
 ---
 
 El alcalde Marco Bonilla Mendoza, fue invitado a una reunión privada con el presidente de la República, Andrés Manuel López Obrador, donde tuvo la oportunidad de presentar los proyectos clave que el Gobierno Municipal iniciará a partir del próximo año, en el que destaca el relleno sanitario y la tercera etapa de la Plataforma Escudo Chihuahua (PECUU).

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“Expresar nuestro dolor por estos hechos tan lamentables, tristes y enviar un abrazo fraterno a los familiares de los que perdieron la vida en este accidente, dijo López Obrador desde Chihuahua"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO pide atender el tema migratorio de fondo tras accidente en Chiapas"
 front: false
 section: "Nacional"
-news_id: 190700
+redirect_from: /news/190700
 ---
 
 Al expresar su dolor por la muerte de 54 migrantes que viajaban en un tráiler que volcó en Chiapas, el presidente Andrés Manuel López Obrador aseguró que este tipo de desgracias deben servir para tomar conciencia y atender el tema migratorio de fondo.

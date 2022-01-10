@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El documento firmado por la consejera jurídica, María Estela Ríos González, ratifica el nombramiento de Rodríguez Ceja del primero de enero del 2022 a diciembre de 2027"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO envía nombramiento de Victoria Rodríguez al frente de Banxico; la primera mujer en el cargo"
 front: false
 section: "Nacional"
-news_id: 190742
+redirect_from: /news/190742
 ---
 
 A través de un oficio de la consejería Jurídica, el Ejecutivo Federal envió al Banco de México (Banxico) el nombramiento de Victoria Rodríguez Ceja como gobernadora para el periodo del primero de enero del 2022 a diciembre de 2027.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El canciller aseguró que la cumbre será importante para México y dijo que estará informando sobre los avances. "
 image: "/uploads/2021/images-ebrard-participa-cumbre-representacion-amlo_0_11_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ebrard participa en Cumbre del G20 en Roma; será una reunión exitosa para México, dice"
 front: false
 section: "Internacional"
-news_id: 189406
+redirect_from: /news/189406
 ---
 
 El titular de la Secretaría de Relaciones Exteriores, Marcelo Ebrard, participa en la cumbre de líderes del Grupo de los 20 (G20), que se realiza en Roma, Italia, en representación del presidente Andrés Manuel López Obrador, la cual confió en que "será una reunión exitosa e importante para México". 

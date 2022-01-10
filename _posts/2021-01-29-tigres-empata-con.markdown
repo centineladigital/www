@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El equipo regiomontano igualó 1-1 ante los hidrorayos en su último partido antes de comenzar su participación en el Mundial de Clubes"
 image: "/uploads/2021/images-2520334.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tigres empata con Necaxa antes de viajar a Qatar"
 front: false
 section: "Deportes"
-news_id: 182544
+redirect_from: /news/182544
 ---
 
 Necaxa impidió que los Tigres lograran el triunfo en su último partido antes de viajar a Qatar para participar en el Mundial de Clubes. Anoche, en el duelo que abrió la jornada cuatro del Torneo Guardianes Clausura 2021, los Rayos sacaron un punto del Estadio Universitario de Nuevo León, luego de empatar 1-1 con los felinos. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se estiman temperaturas de 0 a 5 grados en áreas montañosas de la Ciudad de México, Guanajuato, Hidalgo, norte de Jalisco, Morelos entre otros estados"
 image: "/uploads/2021/images-2506610.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Frente Frío 25 genera bajas temperaturas en gran parte del país"
 front: false
 section: "Nacional"
-news_id: 181887
+redirect_from: /news/181887
 ---
 
 La aproximación del Frente Frío número 25 al noroeste del país y una corriente en chorro subtropical mantendrá el ambiente de frío a muy frío en el Valle de México y las mesas del Norte y Central, con heladas en las zonas montañosas.

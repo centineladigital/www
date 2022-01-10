@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Sebastián Hofmann y Julio Chávezmontes, socios de Piano, buscan entrar en la lista de nominados a los premios de la Academia con sus coproducciones Memoria y Annette."
 image: "/uploads/2021/images-adam-driver-es-uno-de.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Se lo llevarán? Mexicanos quieren el Oscar con directores extranjeros"
 front: false
 section: "Espectáculos"
-news_id: 189499
+redirect_from: /news/189499
 ---
 
 Julio Chávezmontes y Sebastián Hofmann, socios de Piano, se preparan para conquistar el Oscar con dos de las tres películas que presentaron en la pasada edición de Cannes: Memoria busca una nominación a Mejor Largometraje Internacional por Colombia, mientras que Annette buscará entrar en otras categorías. “Memoria es la representante de Colombia para el Oscar, es una película de la cual nos sentimos orgullosos, no solo de la cinta en sí, sino por cómo se hizo, porque Apichatpong Weerasethakul, Tilda Swinton; todas las personas involucradas son grandes seres humanos, la forma en la que se hizo la película fue ejemplar”, dijo a M2 Julio Chávezmontes. 

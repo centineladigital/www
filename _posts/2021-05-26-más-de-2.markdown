@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mediante la apertura del Sistema del Voto Electrónico por Internet (Sivei), implementado por el Instituto Nacional Electoral"
 image: "/uploads/2021/images-ine.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Más de 2 mil chihuahuenses votarán en el extranjero"
 front: false
 section: "Local"
-news_id: 184656
+redirect_from: /news/184656
 ---
 
 A partir del sábado 22 de mayo y hasta el 6 de junio, un total de 2 mil 080 chihuahuenses pueden ejercer su voto desde el extranjero, el 69% lo hará de manera digital y el 31% enviará su voto vía postal, de acuerdo con el Instituto Nacional Electoral (INE).

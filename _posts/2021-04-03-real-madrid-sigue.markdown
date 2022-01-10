@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El cuadro merengue ve plasmada su superioridad al vencer 2-0 al Eibar y se coloca segundo de manera provisional"
 image: "/uploads/2021/images-2556400.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Real Madrid sigue en la batalla"
 front: false
 section: "Deportes"
-news_id: 183660
+redirect_from: /news/183660
 ---
 
 Real Madrid ganó 2-0 al Eibar en la jornada 29 de LaLiga para ponerse provisionalmente segundo y seguir en la carrera por alcanzar al Atlético, líder del campeonato, mientras el Villarreal goleó 3-0 al Granada.

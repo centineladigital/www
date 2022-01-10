@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Continuarán vientos moderados con ráfagas de 35 a 55 km/h en la mayor parte de la entidad con clima caluroso"
 image: "/uploads/2021/images-chihuahua_shutterstock_561151555.jpg_759710130.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prevé Protección Civil temperaturas de 33°C en Chihuahua y 34°C en Juárez"
 front: false
 section: "Local"
-news_id: 186023
+redirect_from: /news/186023
 ---
 
 El pronóstico del clima para este martes 27, indica que se espera ambiente muy caluroso por la tarde, con cielo de despejado a parcialmente nublado, sin posibilidades de lluvia en la ciudad, informó la Coordinación Estatal de Protección Civil.

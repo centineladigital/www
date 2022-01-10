@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto por problemas de movilidad en Ciudad Juárez."
 image: "/uploads/2021/images-JOSE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML01_SALVADOR_BARRAGAN.mp3"
 alt: "Invierten juarenses entre un 38 a un 50 por ciento de transporte"
 front: false
 section: "Local"
-news_id: 183513
+redirect_from: /news/183513
 ---
 
 Juarenses invierten entre un 38 a un 50 por ciento de sus ingresos en transportarse de forma cotidiana, siendo los que viven en áreas más lejanas o cinturones de miseria quienes más requieren para movilizarse de forma cotidiana, señaló Salvador Barragán, Delegado de la SEDUE en Ciudad Juárez.

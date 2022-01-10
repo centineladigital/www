@@ -14,11 +14,11 @@ author: nil
 description: "El diputado esta en contra de que se realice la feria "
 image: "/uploads/2021/images-CARRERA.jpg"
 video: "/uploads/2021/videos-BM02_BENJAMIN_CARRERA.mp4"
-audio: "nil"
+audio: nil
 alt: "Se debería considerar llevar a  cabo la feria Juárez -  Carrera"
 front: false
 section: "Local"
-news_id: 187929
+redirect_from: /news/187929
 ---
 
  El diputado Benjamín Carrera anunció su descontento hacia las afirmaciones de cruz Pérez Cuellar sobre la realización de la feria Juárez, recalcó que el mismo había manifestado antes su desaprobación sobre el tema ya que para el diputado se podrían generar contagios.

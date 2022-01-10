@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El conjunto de la Comarca Lagunera cayó por la mínima en su visita a Puebla, pero consiguió su boleto a la disputa por el título de la Liga Mx con un marcador global de 3-1"
 image: "/uploads/2021/images-2583407.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Santos se cita con Cruz Azul en la final del Guard1anes 2021"
 front: false
 section: "Deportes"
-news_id: 184612
+redirect_from: /news/184612
 ---
 
 El conjunto de Santos Laguna cayó por 1-0 en su visita al Puebla, correspondiente a la semifinal de vuelta, sin embargo, consiguió asegurar su pase a la final del Guard1anes 2021 al imponerse por 3-1 en el marcador global y ahora se medirá ante Cruz Azul.

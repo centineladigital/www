@@ -10,11 +10,11 @@ author: nil
 description: "Esperan analizar temas como falta de unidades."
 image: "/uploads/2021/images-GABRIEL.jpg"
 video: "/uploads/2021/videos-ML02_GABRIEL_VALDEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Instalan mesas de trabajo con Retén Ciudadano"
 front: false
 section: "Local"
-news_id: 189848
+redirect_from: /news/189848
 ---
 
 Mesas de trabajo se instalaron para llevar a cabo los trabajos de revisión del incremento de la tarifa, esto entre la Secretaría de Desarrollo Urbano y Ecología con Reten Ciudadano, según lo dio a conocer el titular de la dependencia de Gobierno de Chihuahua.

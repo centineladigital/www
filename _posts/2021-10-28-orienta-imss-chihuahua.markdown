@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Conocer sus senos es de vital importancia y para ello no hay nada mejor que la autoexploración mensual, pues cualquier cambio, si se detecta a tiempo, puede salvar la vida."
 image: "/uploads/2021/images-Foto_5217-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Orienta IMSS Chihuahua a mujeres sobre autoexploración temprana del cáncer de mama "
 front: false
 section: "Local"
-news_id: 189313
+redirect_from: /news/189313
 ---
 
 En el mes de la sensibilización sobre el Cáncer de Mama, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, a través de los Módulos PrevenIMSS, intensifica las actividades para la detección oportuna de esta enfermedad que aqueja a miles de mujeres en todo el país.

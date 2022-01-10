@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En la última edición se contó con la participación de 500 jugadores de siete municipios"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúa abierta convocatoria del Campeonato Estatal “Sigamos Juntos en el Softbol”"
 front: false
 section: "Local"
-news_id: 186669
+redirect_from: /news/186669
 ---
 
 El próximo lunes 23 de agosto cerrará el plazo para la inscripción de equipos interesados en participar en el 7º Campeonato Estatal “Sigamos Juntos en el Softbol”, que convoca el Gobierno Municipal de Chihuahua a través del Instituto de Cultura Física y Deporte, en colaboración con el Comité Municipal de Softbol.

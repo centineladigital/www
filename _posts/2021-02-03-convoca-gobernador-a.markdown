@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dice no tener duda alguna de que serán el tiempo y la historia los que reivindicarán su actuar, y en ese legado está el compromiso inquebrantable con el estado de derecho y el combate a la corrupción"
 image: "/uploads/2021/images-_DSC5815.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Convoca Gobernador a vigilar que no se tuerza la ley y prevalezca la Operación Justicia"
 front: false
 section: "Local"
-news_id: 182659
+redirect_from: /news/182659
 ---
 
 El Gobernador Javier Corral, convocó a la sociedad chihuahuense a vigilar permanentemente todos los procesos de la Operación Justicia, para que se lleven conforme a la ley y sin que se tuerza la justicia.

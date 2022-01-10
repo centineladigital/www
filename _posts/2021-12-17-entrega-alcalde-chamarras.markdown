@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Como gesto de agradecimiento por el servicio que brindan día con día"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Alcalde chamarras y piernas ahumadas a boleros del Centro Histórico   "
 front: false
 section: "Local"
-news_id: 190975
+redirect_from: /news/190975
 ---
 
 El alcalde de Chihuahua, Marco Bonilla, entregó piernas ahumadas y chamarras a los boleros de la Plaza de Armas, en gesto de agradecimiento por el  buen servicio que brindan a la ciudadanía.

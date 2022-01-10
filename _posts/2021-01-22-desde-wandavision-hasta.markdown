@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Disney Plus y Netflix, como cada semana, tienen material nuevo que ofrecer, y este fin hay bastante que ver. "
 image: "/uploads/2021/images-estos-son-los-estrenos-de-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Desde WandaVision hasta Cars!, los estrenos imperdibles de este fin de semana"
 front: false
 section: "Espectáculos"
-news_id: 182383
+redirect_from: /news/182383
 ---
 
 ¿Tienes tiempo libre este fin de semana? La pandemia es un momento idóneo para relajarte en casa, sentarte, y probar alguna serie o película, desde la comodidad de tu hogar. Por ello, hoy te presentamos los estrenos de esta semana para Disney Plus y Netflix. ¿Los podrás terminar todos? Lo más seguro es que no. 

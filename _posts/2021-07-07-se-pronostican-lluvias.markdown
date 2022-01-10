@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Informa Protección Civil que además, las precipitaciones serán de aisladas a dispersas  en Janos, Madera, Guerrero, Bocoyna, Parral, Jiménez, Delicias, Cuauhtémoc y Chihuahua, así como aisladas en Juárez, Ahumada y Ojinaga. "
 image: "/uploads/2021/images-Presa_Situriachi__Creel_LLUVIAS_JULIO_2021_EN_MUNICIPIO_(4).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se pronostican lluvias de dispersas a moderadas en todo el estado. "
 front: false
 section: "Local"
-news_id: 185411
+redirect_from: /news/185411
 ---
 
 Para este miércoles 7 se pronostican lluvias de dispersas a moderadas en parte del occidente, suroeste y sur del estado, informó la Coordinación Estatal de Protección Civil (CEPC).

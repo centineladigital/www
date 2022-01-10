@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con la finalidad de conjuntar esfuerzos y lograr los mejores resultados para el estado de Chihuahua"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabaja Maru Campos con su Gabinete para la planeación del Presupuesto 2022"
 front: false
 section: "Local"
-news_id: 189626
+redirect_from: /news/189626
 ---
 
 Se llevó a cabo una reunión encabezada por la gobernadora Maru Campos Galván con las y los titulares que integran el Gabinete Estatal, para la planeación del Presupuesto 2022.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Matilde Alcázar, José Juan Gutiérrez, Gustavo Sánchez y Ángel Camacho se metieron a la disputa por medallas en sus respectivas pruebas "
 image: "/uploads/2021/images-jose-juan-gutierrez-juegos-paralimpicos_69_39_1091_679.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mexicanos avanzan a finales de natación en Paralímpicos de Tokio"
 front: false
 section: "Deportes"
-news_id: 187134
+redirect_from: /news/187134
 ---
 
 En el cierre de este miércoles, la delegación mexicana que compite en los Juegos Paralímpicos dejó buenos resultados, luego de que todos los representantes en natación se metieron a la final de sus respectivas modalidades. 

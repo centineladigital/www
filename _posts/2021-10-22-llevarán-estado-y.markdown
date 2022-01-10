@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este proyecto beneficiará a 168 personas al mes en diversas cabeceras municipales del estado"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llevarán Estado y FERMACA capacitaciones en energía solar y tecnologías de la información con aula móvil   "
 front: false
 section: "Local"
-news_id: 189072
+redirect_from: /news/189072
 ---
 
 Como parte del compromiso con la ciudadanía, El Gobierno del Estado, a través de la Secretaría de Innovación y Desarrollo Económico (SIDE) y del Instituto de Capacitación para el Trabajo del Estado de Chihuahua (ICATECH), en conjunto con FERMACA, empresa de transporte de gas natural, llevaron a cabo la inauguración del “Aula Móvil Solar y de Computación”.

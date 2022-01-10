@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El cuadro regio anunció la llegada del medallista olímpico para reencontrase con Miguel Herrera en los felinos "
 image: "/uploads/2021/images-sebastian-cordova-jugador-tigres-clausura.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tigres anuncia a Sebastián Córdova como su nuevo jugador para Clausura 2022"
 front: false
 section: "Deportes"
-news_id: 191103
+redirect_from: /news/191103
 ---
 
 Tigres hizo oficial el fichaje de Sebastián Córdova regio para reforzar al equipo en el Clausura 2022 y reencontrase con Miguel Herrera tras su salida de América, pues el jugador ya no entraba en planes de Santiago Solari.  A través de un video en redes sociales, el equipo felino anunció la llegada del mediocampista, que habría firmado un contrato por cuatro años y se pondrá a las ordenes de 'Piojo'. 

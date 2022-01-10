@@ -22,11 +22,11 @@ author: nil
 description: "El préstamo estaría liquidado al terminar la administración"
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-22_at_11.47.22_AM.jpeg"
 video: "/uploads/2021/videos-BL01_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se aproxima un crédito para el municipio "
 front: false
 section: "Local"
-news_id: 190084
+redirect_from: /news/190084
 ---
 
 Con la finalidad de crear obras en el municipio el Alcalde de la ciudad, Marco Antonio Bonilla manifestó la próxima adquisición de un crédito a corto plazo para el municipio, el cual sería de doscientos 60 millones de pesos y quedaría con la pauta que pone el legislativo.

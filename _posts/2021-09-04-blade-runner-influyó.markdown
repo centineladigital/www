@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El dj e integrante de Moenia confiesa que la última aparición del grupo en el Auditorio Nacional lo marcó, puesfue la primera vez que sus hijos lo vieron en un escenario; “ellos debieron preguntarse: ¿ese güey es mi papá?” "
 image: "/uploads/2021/images-me-gusta-el-mar-soy_0_21_506_314.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“'Blade Runner' influyó en que me dedicara a la música electrónica” -  Alejandro Midi"
 front: false
 section: "Espectáculos"
-news_id: 187430
+redirect_from: /news/187430
 ---
 
 Aunque no muchos conocen su trayectoria fuera del trío musical Moenia, Alejandro Midi ha sabido destacar por cuenta propia como un gran dj mexicano. Lo hizo desde inicios de los años 90, cuando aquel estilo aún se encontraba en su momento más underground.  El éxito que cosechó como tecladista de Moenia, no obstante, lo hizo distanciarse de su carrera individual, aunque en años recientes la retomó para seguir creando canciones y generar un mayor vínculo con la gente que lo sigue. Su talento lo ha llevado a participar en festivales como el EDC, Ultra Sound México y Day Dream Barcelona, entre otros. Con Moenia, por otro lado, ha cosechado grandes éxitos como las ya clásicas canciones “Déjame entrar”, “Manto estelar” y “¿En qué momento pasó?”, además de recibir varios premios. 

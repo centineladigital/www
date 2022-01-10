@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exhortan a continuar con medidas de sanidad."
 image: "/uploads/2021/images-diapositiva3-335.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM03_GUMARO_BARRIOS.mp3"
 alt: "Por segundo día número bajo de casos"
 front: false
 section: "Local"
-news_id: 184409
+redirect_from: /news/184409
 ---
 
 Por segundo día se ha registrado un número menor a 50 casos, cuando este martes se dio a conocer dentro de la actualización de casos COVID un total de 35 casos, mientras que solamente se acreditó solamente un descenso.

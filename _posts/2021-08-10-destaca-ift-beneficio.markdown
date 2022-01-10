@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El proyecto fortalecerá autonomía a etnias, para que sean generadoras y difusoras de sus propios conocimientos; realizan diagnóstico a 7 mil 686 comunidades desconectadas   "
 image: "/uploads/2021/images-Adriana_Labardini_y_Plan_Hiperconvergente_(5).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Destaca IFT beneficio del Plan Hiperconvergente de Conectividad para comunidades indígenas chihuahuenses"
 front: false
 section: "Local"
-news_id: 186518
+redirect_from: /news/186518
 ---
 
 Adriana Labardini, excomisionada del Instituto Federal de Telecomunicaciones (IFT), sostuvo un encuentro vía zoom con Gobierno del Estado e importantes actores del sector de telecomunicaciones, donde destacó el impacto que tendrá el Plan Hiperconvergente de Conectividad en el desarrollo económico y social de las comunidades indígenas de la entidad.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La campaña de vacunación estará disponible hasta el 31 de octubre en un horario de 8:00 de la mañana a 3:00 de la tarde. Sólo el domingo 24 no se aplicarán vacunas en ninguna de las sedes"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Arranca vacunación de COVID-19 para adolescentes con comorbilidades en sedes de la Secretaría de Salud en tres municipios de la entidad"
 front: false
 section: "Local"
-news_id: 188889
+redirect_from: /news/188889
 ---
 
 La Secretaría de Salud Chihuahua recuerda a la población que a partir del martes 19 de octubre, arranca la jornada de vacunación contra COVID-19 dirigida a adolescentes con comorbilidades de 12 a 17 años de edad, en los hospitales pertenecientes al Gobierno del Estado.

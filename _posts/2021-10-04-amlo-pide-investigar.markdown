@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El mandatario hizo un llamado a las autoridades correspondientes para que “se sepa más, que se informe más” y celebró que se transparenten los procesos. "
 image: "/uploads/2021/images-presidente-llegando-conferencia-mananera-puebla_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO pide investigar a implicados en los Pandora Papers"
 front: false
 section: "Nacional"
-news_id: 188334
+redirect_from: /news/188334
 ---
 
 Luego de que se diera a conocer una nueva investigación del Consorcio Internacional de Periodistas de Investigación (ICIJ) sobre más 300 de funcionarios públicos de más de 90 países del mundo que escondieron fortunas de miles de millones de dólares para no pagar impuestos, bautizada como “Los Papeles de Pandora” (Pandora Papers), el presidente Andrés Manuel López Obrador pidió que se investigara a los implicados.

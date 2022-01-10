@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Secretaría de Salud reporta 4 mil 885 personas fallecidas, con 11 nuevos decesos: 3 en Chihuahua, 2 en Juárez, 2 en Delicias, 1 en Meoqui, 1 en Saucillo, 1 en Rosales y 1 en Santa Bárbara "
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con 56 nuevos contagios por COVID-19 llega el estado a 52 mil 480 casos"
 front: false
 section: "Local"
-news_id: 182981
+redirect_from: /news/182981
 ---
 
 La Secretaría de Salud informó que este día se tienen en el estado de Chihuahua un total general de 52 mil 480 casos confirmados de COVID-19, con 56 nuevos contagios.

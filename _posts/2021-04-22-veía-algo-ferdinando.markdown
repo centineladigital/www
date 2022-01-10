@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ferdinando Valencia reveló que vivió una experiencia paranormal y aseguró que su hijo Tadeo se comunica con su hermano Dante, quien murió en el 2019. "
 image: "/uploads/2021/images-dante-murio-en-agosto-del.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Veía algo -  Ferdinando Valencia revela que su hijo Tadeo se comunica con su mellizo Dante"
 front: false
 section: "Espectáculos"
-news_id: 184051
+redirect_from: /news/184051
 ---
 
 En el 2019 Ferdinando Valencia compartió que se había convertido en padre por partida doble de los mellizos Tadeo y Dante, sin embargo, fue este último quien lamentablemente murió en agosto de ese año debido a algunas complicaciones que deterioraron su salud. Ahora, el actor contó una experiencia paranormal que vivió con su bebé. En una entrevista con varios medios, la cual fue retomada por el periodista Edén Dorantes, Ferdinando Valencia contó que sus hijos se comunican. El actor mencionó que una noche su bebé Tadeo comenzó a comportarse de una manera rara, algo que le llamó la atención a él y a su pareja Brenda.

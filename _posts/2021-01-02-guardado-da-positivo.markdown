@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El mediocampista mexicano del Betis se perderá el duelo ante el Sevilla igual que sus compañeros Joaquín y Martín Montoya"
 image: "/uploads/2021/images-2504983.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Guardado da positivo de covid-19 y se pierde el clásico andaluz"
 front: false
 section: "Deportes"
-news_id: 181822
+redirect_from: /news/181822
 ---
 
 A través de un comunicado, el Real Betis Balompié anunció que el mediocampista mexicano Andrés Guardado dio positivo a un test de covid-19. En consecuencia, el cuatro veces mundialista con el Tricolor, se perderá el partido de mañana ante el Sevilla.

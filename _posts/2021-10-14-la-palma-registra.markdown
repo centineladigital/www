@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se trata de un sismo magnitud 4.5, el más fuerte desde que el volcán Cumbre Vieja comenzó su erupción. "
 image: "/uploads/2021/images-pareja-teme-regresar-hogar-continua_0_23_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La Palma registra sismo de 4.5; el más potente desde erupción del volcán Cumbre Vieja"
 front: false
 section: "Internacional"
-news_id: 188718
+redirect_from: /news/188718
 ---
 
 Un sismo de magnitud 4.5 se registró en La Palma, ubicada en el archipiélago español de Islas Canarias, el más potente registrado desde el inicio de la erupción volcánica hace 26 días, informaron las autoridades. 

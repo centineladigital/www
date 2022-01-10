@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La sesión fue encabezada por el secretario de Educación y Deporte, Javier González Mocken, y la titular de Servicios Educativos del Estado de Chihuahua, Sandra Elena Gutiérrez Fierro   "
 image: "/uploads/2021/images-IMG_7902.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reúnen directivos de Seech y SEyD para elaboración del Plan de Desarrollo Institucional de la Educación Básica y Superior"
 front: false
 section: "Local"
-news_id: 189104
+redirect_from: /news/189104
 ---
 
 Directores de nivel y de área de Servicios Educativos del Estado de Chihuahua (Seech), así como de la Secretaría de Educación y Deporte (SEyD) se reunieron para la elaboración del Plan de Desarrollo Institucional de la Educación Básica y Superior para el Ciclo Escolar 2021-2022.

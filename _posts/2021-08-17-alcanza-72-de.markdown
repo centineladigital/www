@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Secretaría de Salud llama a la población chihuahuense a completar las 2 dosis y no descuidarse al recibirlas; en Ciudad Juárez la primera aplicación del biológico cubrió al 82%"
 image: "/uploads/2021/images-SED_9927.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alcanza 72% de cobertura en vacunación contra COVID-19 en el estado"
 front: false
 section: "Local"
-news_id: 186786
+redirect_from: /news/186786
 ---
 
 A nivel estatal hay un 72 por ciento de cobertura en la vacunación contra COVID-19, en la población de 18 años en adelante con al menos una dosis, informó la subsecretaria de Medicina Preventiva y Promoción de la Salud, Mirna Beltrán Arzaga.

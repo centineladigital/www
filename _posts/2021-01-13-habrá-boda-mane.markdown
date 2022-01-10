@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mane y Jawy, la pareja más polémica del reality show Acapulco Shore, se comprometieron en la playa. ¿Cuándo será la boda?"
 image: "/uploads/2021/images-boda-manelyk-jawy-acapulco-shore.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Habrá boda? Mane y Jawy de 'Acapulco Shore' se comprometen en la playa"
 front: false
 section: "Espectáculos"
-news_id: 182116
+redirect_from: /news/182116
 ---
 
 Mane y Jawy, la pareja más polémica del reality show Acapulco Shore, se comprometieron en la playa. Una de sus compañeras del programa de MTV compartió el romántico momento, desatando una ola de felicitaciones. Y es que la petición de matrimonio fue una sorpresa para Mane que incluso rompió en llanto. Te contamos lo que sucedió. Fue a través de las historias de Instagram de Karime, también concursante de Acapulco Shore, en donde se hizo visible cómo Jawy le pidió matrimonio a Mane, provocando que la polémica integrante del reality de MTV rompiera en llanto. 

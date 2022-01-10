@@ -14,11 +14,11 @@ author: nil
 description: "Si se toman medidas para que los jóvenes emprendan sería una buena iniciativa"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-13_at_11.07.43.jpeg"
 video: "/uploads/2021/videos-BW02_EDGAR_PIÑON.mp4"
-audio: "nil"
+audio: nil
 alt: "RFC debe ir de la mano con estímulos a mayores de edad "
 front: false
 section: "Local"
-news_id: 188700
+redirect_from: /news/188700
 ---
 
 El diputado Edgar Piñón manifestó que respecto a las especulaciones  de solicitar que los mayores de edad obtengan su RFC es un tema de regulación el cual va de la mano con  estímulos para que los jóvenes mayores de 18 años puedan obtener el apoyo para ser emprendedores.

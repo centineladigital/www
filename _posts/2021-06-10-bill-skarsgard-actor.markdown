@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La saga de John Wick ha sido todo un éxito, es por eso que ahora se presenta con su cuarta entrega y con ello nuevos actores, entre ellos está Bill Skarsgard, quien da vida a Pennywise en It."
 image: "/uploads/2021/images-bill-skarsgard.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Bill Skarsgard, actor que da vida a Pennywise en 'It', se suma al elenco de 'John Wick 4'"
 front: false
 section: "Espectáculos"
-news_id: 184965
+redirect_from: /news/184965
 ---
 
 Bill Skarsgard es un actor de origen sueco que ha interpretado con anterioridad al payaso Pennywise en la cinta It, además ha tenido apariciones en Deadpool 2, Castle Rock, El diablo a todas horas y la  serie Divergente y ahora formará parte del elenco de John Wick 4. Según reveló el medio especializado Collider, Bill Skarsgars se unirá al elenco de John Wick 4, aunque no dio detalles de qué papel será el que interpretará en la nueva entrega de la saga. La película ya cuenta con la participación del actor Donnie Yen, que se mostrará como un viejo amigo del personaje de Keanu Reeves en la cinta. 

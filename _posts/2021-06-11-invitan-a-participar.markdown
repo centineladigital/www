@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las personas interesadas en apoyar pueden llevar su donativo a las instalaciones del IMM ubicadas en Calle 4ª #2411 en la colonia Centro o al DIF Municipal"
 image: "/uploads/2021/images-Prisión_femenina_uno_Cuartoscuro.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invitan a participar en colecta de artículos de higiene para internas del Cereso"
 front: false
 section: "Local"
-news_id: 184990
+redirect_from: /news/184990
 ---
 
 El Gobierno Municipal, a través del Voluntariado del Instituto Municipal de las Mujeres (IMM) y el DIF Municipal hacen una invitación a la población a participar en la colecta de artículos de higiene personal en beneficio de las internas del Cereso femenil, que es organizada por la asociación civil “Gota de Agua en el Desierto”.

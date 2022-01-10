@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este domingo, el legendario actor fue entrevistado en el programa en YouTube de Yordi Rosado. "
 image: "/uploads/2021/images-andres-garcia-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me vale madre -  Andrés García dispara al aire durante entrevista con Yordi Rosado"
 front: false
 section: "Espectáculos"
-news_id: 183968
+redirect_from: /news/183968
 ---
 
 Andrés García es un actor que tiene una fama de galán, mujeriego y hombre de armas tomar. Esto último lo demostró en la entrevista que le hizo Yordi Rosado para su canal de YouTube, pues durante la charla, que tuvo lugar en la casa del actor en Acapulco, él desenfundó su pistola y disparó al aire. Aunque antes de este suceso, el ex conductor de Otro Rollo aclaró que "nunca tuve armas cerca, entonces les tengo mucho respeto. No sé realmente cómo disparar.

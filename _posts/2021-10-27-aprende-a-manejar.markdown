@@ -13,12 +13,12 @@ tags:
 author: nil
 description: " El CAPPSI apoya con terapias y orientación para la depresión, ansiedad, duelo, prevención de adicciones y suicidio"
 image: "/uploads/2021/images-unnamed_(10).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprende a manejar el estrés para mejorar tu salud mental"
 front: false
 section: "Local"
-news_id: 189267
+redirect_from: /news/189267
 ---
 
 El Gobierno Municipal a través del Centro de Atención y Prevención Psicológicas (CAPPSI) pone a disposición de la ciudadanía la consulta psicológica en modalidad presencial y/o virtual, donde se brinda atención a niñas, niños, adolescentes, adultos y adultos mayores, en temas como depresión, ansiedad, duelo, prevención de adicciones y prevención del suicidio.

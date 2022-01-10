@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Del 6 al 11 de diciembre se aplicará la vacuna Pfizer BioNTech en diversos municipios del estado"
 image: "/uploads/2021/images-unnamed_(9).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncian más fechas de vacunación COVID-19 para adolescentes de 15 a 17 años de edad en el estado de Chihuahua"
 front: false
 section: "Local"
-news_id: 190526
+redirect_from: /news/190526
 ---
 
 La Secretaría de Salud del Estado de Chihuahua en coordinación con las instituciones que participan en la aplicación de la vacuna COVID-19, informan las nuevas fechas de la jornada de vacunación para adolescentes de 15 a 17 años de edad en diversos municipios del estado.

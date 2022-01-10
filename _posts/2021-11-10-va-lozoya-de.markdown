@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El exdirector de Pemex comparecerá nuevamente hoy ante un juez federal por los delitos de cohecho y lavado de dinero, por la compra a sobre precio de la planta del empresario Alonso Ancira "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Va Lozoya de nuevo ante el juez; ahora por caso Agronitrogenados"
 front: false
 section: "Nacional"
-news_id: 189738
+redirect_from: /news/189738
 ---
 
 A las 13 horas con 15 minutos de este miércoles se tiene programado que el exdirector de Petróleos Mexicanos (Pemex), Emilio Lozoya, preso en el Reclusorio Norte, vuelva a comparecer ante un juez federal del mencionado penal de la Ciudad de México.

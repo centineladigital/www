@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los especialistas estadunidenses informaron de la posibilidad de que se generen aludes e inundaciones en el país"
 image: "/uploads/2021/images-ciclon-fred-genero-emergencia-unidos_0_23_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ciclón 'Fred' se desplaza a Virginia Occidental con fuertes lluvias de Pensilvania a NY"
 front: false
 section: "Internacional"
-news_id: 186826
+redirect_from: /news/186826
 ---
 
 El ciclón postropical Fred se desplazó hoy sobre Virginia Occidental, donde se reportan fuertes lluvias sobre el noreste de Estados Unidos, lo que podría provocar un desencadenamiento de aludes de tierra e inundaciones repentinas en el norte del estado de Nueva York, después de cerrar las carreteras interestatales en la parte inferior de los Apalaches. El Centro Nacional de Huracanes (NHC, por sus siglas en inglés) de Estados Unidos, comunicó que las fuertes lluvias también están ocurriendo en Pensilvania. 

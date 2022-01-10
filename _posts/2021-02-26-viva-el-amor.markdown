@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Varias famosas se han mostrado en contra del body shaming, una de ellas es Chiquis Rivera, quien publicó un mensaje a favor del amor propio. "
 image: "/uploads/2021/images-chiquis-rivera-mostrado-body-shaming.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Viva el amor propio! Chiquis Rivera publica sensual video contra el 'body shaming'"
 front: false
 section: "Espectáculos"
-news_id: 183179
+redirect_from: /news/183179
 ---
 
 En redes sociales algunas famosas reciben criticas por su aspecto físico, sin embargo, alzan la voz para dar un mensaje de amor propio y en contra del body shaming, este es el caso de Chiquis Rivera, quien en diversas ocasiones ha recibido malos comentarios por su cuerpo, pero ella no se queda callada y ha respondido a sus detractores. En esta ocasión, Chiquis Rivera mandó un mensaje a todas las personas que han sido criticadas por su cuerpo. Con un sensual video, la hija de Jenni Rivera mostró el gran amor propio que tiene, además de que mencionó que es importante aceptarse a uno mismo.  

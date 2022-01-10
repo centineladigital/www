@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Además del príncipe Harry, Lady Gaga y Glenn Close también participarán en la serie documental, donde hablarán sin filtros de sus problemas de salud mental. "
 image: "/uploads/2021/images-puedes-serie-oprah-winfrey-principe.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lanzan adelanto de 'Lo que no puedes ver de mí', serie del príncipe Harry y Oprah Winfrey"
 front: false
 section: "Espectáculos"
-news_id: 184515
+redirect_from: /news/184515
 ---
 
 Oprah Winfrey y el príncipe Harry se preparan para el estreno de Lo que no puedes ver de mí, su nueva serie documental en el que abordarán temas relacionados con el bienestar emocional. Si bien, la producción ya había generado altas expectativas por los personajes que estarán al frente del programa, el nuevo adelanto mostró impactantes fragmentos de las historias que serán retomadas para hablar de la importancia de cuidar la salud mental.  Lo que no puedes ver de mí no sólo contará con la participación del príncipe Harry y Oprah Winfrey, también se mostrarán los testimonios de deportistas y otras estrellas de Hollywood, entre ellas Lady Gaga, Glenn Close y Zachary Williams, hijo del actor Robin William.

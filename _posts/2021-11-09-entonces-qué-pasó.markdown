@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los rumores en torno a la banda Timbiriche y sus integrantes continúan a décadas de su creación. "
 image: "/uploads/2021/images-bibi-gaytan-seria-la-chica.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Entonces qué pasó? Periodista afirma que Bibi Gaytán sería 'La Chica Dorada' y no Paulina Rubio"
 front: false
 section: "Espectáculos"
-news_id: 189722
+redirect_from: /news/189722
 ---
 
 Timbiriche fue, sin duda alguna, una de las agrupaciones mexicanas más exitosas de todos los tiempos, a tal grado que de ella salieron personalidades de la talla de Thalía, Paulina Rubio y Edith Márquez, entre otros, una de ellas fue Bibi Gaytán, quien a pesar de estar alejada de los escenarios desde hace años tuvo una breve pero exitosa carrera como solista. Sin embargo, los rumores en torno a algunos integrantes continúan a años de la agrupación. Uno de ellos es el revelado por una periodista, quien afirma que el apodo de 'La Chica Dorada' le iba a pertenecer a Bibi Gaytán, no a Paulina Rubio. 

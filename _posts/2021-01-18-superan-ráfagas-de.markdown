@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Coordinación Estatal de Protección Civil informa que las ráfagas afectarán principalmente a Ciudad Juárez, Madera, Guachochi, Parral, Ahumada, Janos, Cuauhtémoc, Guerrero, Balleza, Chihuahua, Jiménez y Manuel Benavides"
 image: "/uploads/2021/images-Temporada_de_frío_3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Superan ráfagas de viento los 65 km/h en la entidad"
 front: false
 section: "Local"
-news_id: 182236
+redirect_from: /news/182236
 ---
 
 Para este lunes 18, la Coordinación Estatal de Protección Civil (CEPC) informó que la aproximación del frente frío 29 en interacción con la Sexta Tormenta Invernal provocará fuertes rachas de viento en la mayoría del territorio chihuahuense, con velocidades de hasta 65 kilómetros por hora (km/h).

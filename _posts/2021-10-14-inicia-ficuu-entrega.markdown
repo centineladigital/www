@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La entrega de boletos para esta puesta en escena será este miércoles 13 de octubre en la taquilla del Teatro de la Ciudad, en un horario de 12:00 a 17:00 horas, o hasta agotar existencias. "
 image: "/uploads/2021/images-20211007113239226-0-1849095.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia FICUU entrega de boletos para obras del Teatro de la Ciudad"
 front: false
 section: "Local"
-news_id: 188755
+redirect_from: /news/188755
 ---
 
 El Gobierno Municipal a través del Instituto de Cultura del Municipio, te recuerda que las actividades por el Festival Internacional de Chihuahua (FICUU) 2021 han comenzado, teniendo como una de las sedes el Teatro de la Ciudad, en donde habrá tres puestas en escena durante el 14, 17 y 21 de octubre, con producciones como “Desde el desierto”, “Memoria de Gigantes” y “Novecento”.

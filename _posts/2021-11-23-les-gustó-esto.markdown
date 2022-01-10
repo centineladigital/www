@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De acuerdo con la crítica, la serie tiene una gran esencia y un par de buenos protagonistas, pero queda por detrás de otras series de Marvel Studios. "
 image: "/uploads/2021/images-hawkeye-marvel-studios.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Les gustó? Esto dicen los primeros comentarios de la crítica sobre 'Hawkeye'"
 front: false
 section: "Espectáculos"
-news_id: 190118
+redirect_from: /news/190118
 ---
 
 Disney Plus tiene todo listo para lanzar al público su nueva serie de televisión del Universo Cinematográfico Marvel (MCU, por sus siglas en inglés): Hawkeye. La serie de 'Ojo de Halcón' explorará al ex Vengador en una situación que lo llevará a conocer a Kate Bishop mientras lo único que desea es pasar Navidad con su familia. 

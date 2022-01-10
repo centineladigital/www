@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Destinadas a cubrir al segundo grupo de atención Covid: personal de unidades no hospitalarias de Triage o de Unidades Respiratorias"
 image: "/uploads/2021/images-Vacunas_Covitt.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Esperan hoy el arribo de otras ocho mil dosis de vacunas Pfizer"
 front: false
 section: "Local"
-news_id: 182277
+redirect_from: /news/182277
 ---
 
 Alrededor de 8 mil dosis de vacunas contra el coronavirus de Pfizer se esperan en la segunda remesa para Chihuahua, informó Javier Corral jurado, gobernador de Chihuahua.

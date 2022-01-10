@@ -10,11 +10,11 @@ author: nil
 description: "Tema será tratado en la mesa de seguridad."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MJ05_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Estado tomará cartas en denuncia de diputados -  Jáuregui"
 front: false
 section: "Local"
-news_id: 188735
+redirect_from: /news/188735
 ---
 
 La diputada Georgina Zapata debe de tener la seguridad de que el exhorto en torno a extorsiones por parte de la Guardia Nacional será tratada en la mesa de seguridad, señaló el Secretario General de Gobierno, César Jáuregui Moreno.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Reporta Subsecretaría de Estado Mayor los resultados de sus operativos y destaca casi 400 arrestos en todo el estado desde que entró en operaciones   "
 image: "/uploads/2021/images-sspe.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registra Chihuahua los mejores resultados en detención de líderes de delincuencia organizada"
 front: false
 section: "Local"
-news_id: 186943
+redirect_from: /news/186943
 ---
 
 De acuerdo con Lantia Intelligence, una Organización de la Sociedad Civil, la Ciudad de México y Chihuahua son las dos entidades del país en donde se han tenido los mejores resultados en los esfuerzos institucionales en arrestos de alto perfil de miembros de las cuatro organizaciones criminales identificadas en el país, destacó el titular de la titular de la Secretaría de Seguridad Pública Estatal, Emilio García Ruiz.

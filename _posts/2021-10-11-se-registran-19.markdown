@@ -14,11 +14,11 @@ author: nil
 description: "En el reporte de este lunes, suman 79 mil 258 con 19 casos nuevos y una persona fallecida en el municipio de Meoqui, con lo que suman un total de 8 mil 209 defunciones "
 image: "/uploads/2021/images-Sin_título.png"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-10-11_at_11.44.17.3gpp"
-audio: "nil"
+audio: nil
 alt: "Se registran 19 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 188592
+redirect_from: /news/188592
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud del Estado de Chihuahua presentó este lunes 11 de octubre el nuevo formato del reporte COVID-19, el cual contiene la información más relevante sobre el comportamiento de la pandemia. 

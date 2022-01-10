@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con la Firma de Convenio para un gobierno con perspectiva de familia"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se suma Chihuahua Capital a red de ciudades familiarmente sustentables"
 front: false
 section: "Local"
-news_id: 188999
+redirect_from: /news/188999
 ---
 
 El alcalde de Chihuahua, Marco Bonilla Mendoza, encabezó la firma de convenio con el Instituto de Análisis de Política Familiar (IAPF), y la International Federation for Family Development (IFFD), para sumar a la capital del Estado a la red de talla internacional “Ciudades Familiarmente Sustentables”.

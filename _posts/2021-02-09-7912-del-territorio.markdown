@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Los estados que tienen el 100% de su territorio con sequía son BCS, Chihuahua y Sinaloa; solo 513 de los dos mil 463 municipios del país se encuentran libres de afectaciones por la falta de lluvias"
 image: "/uploads/2021/images-2526405.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "79.12% del territorio nacional sufre de algún grado de sequía"
 front: false
 section: "Nacional"
-news_id: 182813
+redirect_from: /news/182813
 ---
 
 Al inicio del segundo mes de 2021, únicamente el 20.88 por ciento del territorio nacional no sufre de algún grado de sequía, es decir, solo 513 de los dos mil 463 municipios del país se encuentran libres de afectaciones por la falta de lluvias.

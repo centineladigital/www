@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Serán solamente ceremonias cívicas, esto por la pandemia."
 image: "/uploads/2021/images-E3.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ02_EVA_TRUJILLO.mp4"
 alt: "No habrá desfile del 16 de septiembre"
 front: false
 section: "Local"
-news_id: 187594
+redirect_from: /news/187594
 ---
 
 Por segundo año consecutivo no se llevara a cabo el tradicional desfile por motivo de la independencia de México, según lo dio a conocer la Vocera de la Secretaria de Educación, Eva Trujillo.

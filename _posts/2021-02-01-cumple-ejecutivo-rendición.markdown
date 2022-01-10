@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Destaca Javier Corral que  Chihuahua es hoy por hoy referente nacional de un Gobierno que ha impreso al servicio público: valor, honradez, transparencia, rendición de cuentas y eficacia en el gasto público"
 image: "/uploads/2021/images-Sesión_virtual_Congreso_del_Estado__Entrega_del_IV_Informe.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cumple Ejecutivo rendición de cuentas y entrega 4° Informe al Congreso del Estado"
 front: false
 section: "Local"
-news_id: 182595
+redirect_from: /news/182595
 ---
 
 Durante la entrega de su 4° Informe al Congreso del Estado, el gobernador Javier Corral Jurado, expresó a las y los diputados, estar orgulloso de poder dejar como uno de sus más grandes e indelebles legados, que Chihuahua sea hoy por hoy el referente nacional de un Gobierno que combate, castiga la corrupción y no da tregua a la impunidad.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Netflix reveló el avance oficial de 'Alerta Roja' (Red Notice), una película de acción con Dwayne Johnson 'The Rock', Gal Gadot y Ryan Reynolds para Netflix. "
 image: "/uploads/2021/images-ryan-reynolds-gal-gadot-dwayne.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'The Rock', Gal Gadot y Ryan Reynolds protagonizan tráiler de 'Alerta Roja' en Netflix"
 front: false
 section: "Espectáculos"
-news_id: 187375
+redirect_from: /news/187375
 ---
 
 Los aficionados del cine ya pueden empezar a frotarse las manos, pues se viene una nueva película de acción en Netflix llamada 'Aleta Roja' ('Red Notice'), y lo más llamativo es el reparto, protagonizado por el recurrente en este género, Dwayne Johnson 'The Rock'; Gal Gadot, reconocida por ser Mujer Maravilla actualmente en DC; y Ryan Reynolds, quien interpreta a 'Deadpool' para Marvel. 

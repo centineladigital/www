@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Docentes y normalistas compartirán experiencias y propuestas en relación con los nuevos materiales educativos"
 image: "/uploads/2021/images-FORO.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizarán en Juárez Foro de Discusión sobre  Innovación en Libros de Texto Gratuitos"
 front: false
 section: "Local"
-news_id: 190645
+redirect_from: /news/190645
 ---
 
 El próximo viernes 10 de diciembre se llevará a cabo el Foro de Discusión sobre la Innovación en los Libros de Texto Gratuitos Ciclo Escolar 2021-2022, en el Teatro Gracia Pasquel de la Universidad Autónoma de Ciudad Juárez (UACJ).

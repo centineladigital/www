@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cuadro de Gerardo Martino se presentó con un equipo alternativo al compromiso y pese a tener la ventaja en dos ocasiones, al final se conformó con la igualada "
 image: "/uploads/2021/images-mexico-cierra-empate-chile-amistoso.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México cierra el 2021 con un empate ante Chile en amistoso"
 front: false
 section: "Deportes"
-news_id: 190659
+redirect_from: /news/190659
 ---
 
 La cuenta regresiva comenzó. A menos de un año de la Copa del Mundo de Catar, la Selección Mexicana de Gerardo Martino empieza a pulir el cuadro que tratará –primero– de conseguir el boleto a la justa mundialista y luego llegar en las mejores condiciones. Por eso, duelos como el de anoche ante Chile le sirven al seleccionador para ver a los jugadores que son poco habituales en sus convocatorias y que estos traten de ganarse uno de los escasos lugares que hay en su plantilla. 

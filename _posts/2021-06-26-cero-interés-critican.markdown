@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Arath de la Torre protagonizó el comercial en el que para anunciar a una empresa que hace préstamos bancarios utilizaron a los Voladores de Papantla. ¿El tuvo responsabilidad? Te contamos lo que sabemos sobre esta polémica.   "
 image: "/uploads/2021/images-critican-arath-torre-burlarse-voladores.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cero interés -  Critican a Arath de la Torre por burlarse de los Voladores de Papantla en comercial"
 front: false
 section: "Espectáculos"
-news_id: 185259
+redirect_from: /news/185259
 ---
 
 Arath de la Torre, comediante y actual conductor del programa Hoy, causó tremada polémica por participar en un comercial en donde se burlan de los emblemáticos Voladores de Papantla. ¿El presentador de televisión discriminó a los voladores de papantla? Te contamos lo que sucedió con esta nueva controversia al participar en un anuncio de préstamos bancarios, así como la razón por la que exigen una disculpa pública. 

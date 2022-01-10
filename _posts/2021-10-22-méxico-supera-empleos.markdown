@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente detalló que en febrero del 2020 había 20 millones 614 mil empleados registrados, mientras que en marzo pasado sumaban 20 millones 483 mil. "
 image: "/uploads/2021/images-pandemia-economia-mexicana-recuperando-presidente_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México supera empleos perdidos por covid; hay 20.7 millones registrados en el IMSS -  AMLO"
 front: false
 section: "Nacional"
-news_id: 189063
+redirect_from: /news/189063
 ---
 
 El presidente Andrés Manuel López Obrador informó que México ya logró recuperar, e incluso superar, el número de empleos perdidos durante la pandemia de covid-19, al registrar 20 millones 713 mil trabajadores registrados en el Instituto Mexicano del Seguro Social (IMSS). 

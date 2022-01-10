@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“Gobernar con perspectiva de familia es ya una realidad en mi gobierno”, aseguró alcalde de Chihuahua capital"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Rompe presidente Municipal de Chihuahua culto a la personalidad de los políticos"
 front: false
 section: "Local"
-news_id: 188823
+redirect_from: /news/188823
 ---
 
 Desde el inicio de este Gobierno Municipal, el alcalde Marco Bonilla ha dejado claro que la familia es y será el centro de todas las decisiones, y es bajo esa premisa, que todos los integrantes del gabinete cuentan ya en sus respectivas oficinas con la fotografía de sus familias.

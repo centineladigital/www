@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En lo que va de 2021 se han detenido en Estados Unidos a 1.4 millones de indocumentados, un número que se acerca solo a los 1.6 millones de 2000. "
 image: "/uploads/2021/images-en-chihuahua-autoridades-rescatan-mas_63_0_1083_674.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU registra más de un millón de migrantes detenidos durante 2021"
 front: false
 section: "Internacional"
-news_id: 187944
+redirect_from: /news/187944
 ---
 
 A un mes para que concluya el año fiscal 2021, las autoridades migratorias de Estados Unidos han detenido a un millón 473 mil 477 migrantes, la segunda cifra más alta desde el año 2000, de acuerdo con reportes de la Oficina de Aduanas y Protección Fronteriza de Estados Unidos (CBP por su sigla en inglés). 

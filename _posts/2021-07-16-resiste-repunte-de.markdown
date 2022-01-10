@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-MV02_FERNANDO_MESTA.mp4"
 alt: "Resiste repunte de casos COVID -  Mesta"
 front: false
 section: "Local"
-news_id: 185748
+redirect_from: /news/185748
 ---
 
 Un ligero repunte en los casos de coronavirus es lo que se vive en el Estado, señaló el Secretario General de Gobierno Luis Fernando Mesta Soulé. El funcionario fue cuestionado respecto al cambio de semaforización, ante lo que señaló que se llevaría a cabo una reingeniería en la forma en la cual habrá cambios a nivel nacional en la forma en la que se llevará a cabo la categorización de las acciones dentro de la pandemia.

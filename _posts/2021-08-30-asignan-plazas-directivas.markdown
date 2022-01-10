@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El proceso se llevó a cabo en instalaciones de la Dirección General del Cecytech   "
 image: "/uploads/2021/images-CE3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asignan plazas directivas y docentes en Colegio de Estudios Científicos y Tecnológicos del Estado de Chihuahua"
 front: false
 section: "Local"
-news_id: 187251
+redirect_from: /news/187251
 ---
 
 El Colegio de Estudios Científicos y Tecnológicos del Estado de Chihuahua (Cecytech) llevó a cabo la asignación de plazas directivas y docentes para Educación Media Superior, proceso que se realiza mediante el concurso de oposición y con base en la  Ley General del Servicio Profesional Docente, antes de cada ciclo escolar.

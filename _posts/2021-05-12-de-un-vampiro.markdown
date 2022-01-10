@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Antes de interpretar a Freddie Mercury, Rami Malek, actuó en Crepúsculo. Así fue su actuación como un vampiro, ¿lo recuerdas? "
 image: "/uploads/2021/images-rami-malek-vida-vampiro-llamado.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "De un vampiro a Freddie Mercury, así fue la aparición de Rami Malek en 'Crepúsculo'"
 front: false
 section: "Espectáculos"
-news_id: 184431
+redirect_from: /news/184431
 ---
 
 En el 2018 se estrenó Bohemian Rhapsody, una película que contó la vida del vocalista de la banda Queen, Freddie Mercury, quien fue interpretado por Rami Malek. Gracias a su papel como el intérprete de “Radio Gaga”, el histrión se hizo acreedor a varios premios, entre ellos un Oscar, pero antes de haber dado vida en la pantalla grande al cantante, Malek participó en la saga Crepúsculo. 10 años antes de Bohemian Rhapsody llegó a los cines la adaptación de la novela Crepúsculo que tuvo como protagonistas a Robert Pattinson y Kristen Stewart. Tanto fue el éxito que se decidieron adaptar los cuatro libros de la saga, fue en la última entrega que Rami Malek participó y dio vida a un vampiro. 

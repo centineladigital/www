@@ -8,11 +8,11 @@ author: nil
 description: "El descuento del 80% en recargos aplica a personas físicas y morales"
 image: "/uploads/2021/images-unnamed_(5).jpg"
 video: "/uploads/2021/videos-recargos_predial.mp4"
-audio: "nil"
+audio: nil
 alt: "Aprovecha descuento en recargos del Predial hasta el 30 de diciembre"
 front: false
 section: "Local"
-news_id: 191080
+redirect_from: /news/191080
 ---
 
 El Gobierno Municipal a través de la Tesorería invita a aprovechar el descuento del 80 por ciento en recargos del Impuesto Predial, el cual estará vigente hasta el 30 de diciembre y aplica a personas físicas y morales. 

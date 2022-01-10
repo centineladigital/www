@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En los últimos días, el polémico video ha retomado popularidad en redes sociales como TikTok y aquí te mostramos por qué. "
 image: "/uploads/2021/images-raul-velasco-critico-imagen-thalia_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Te quitaron lo corrientota -  Así fue el día que Raúl Velasco criticó la imagen de Thalía"
 front: false
 section: "Espectáculos"
-news_id: 184715
+redirect_from: /news/184715
 ---
 
 En los últimos días se ha vuelto viral un video de 1990, del incómodo momento en el que Thalía fue criticada en vivo en el programa Siempre en domingo por Raúl Velasco, quien señaló la imagen de la cantante y la llamó "corrientota". Palabras que tras una nueva reflexión de los seguidores de la cantante han dado mucho de qué hablar en redes sociales. Y es que la intérprete de "Amor a la mexicana", así como muchas de sus canciones, además de talento y carisma, también irradia sensualidad, y es reconocida desde el incio de su carrera por su increíble estilo. Te compartimos el polémico momento del que todos hablan una vez más.  

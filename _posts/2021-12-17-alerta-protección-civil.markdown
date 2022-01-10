@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Debido a la entrada del frente frío #14, también se esperan lluvias para viernes, sábado y domingo"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Protección Civil por descenso de temperatura este fin de semana en la ciudad"
 front: false
 section: "Local"
-news_id: 190969
+redirect_from: /news/190969
 ---
 
 La Coordinación Municipal de Protección Civil informó que, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional de CONAGUA, podrían presentarse lluvias a partir de este viernes y hasta el domingo en la ciudad, además de un considerable descenso en la temperatura, debido al frente frío número 14, que se posiciona sobre la frontera norte del país.

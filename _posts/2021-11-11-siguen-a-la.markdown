@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 subió 21 personas mas y asciende a 8 mil 205 casos"
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-11_at_10.28.02.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Siguen a  la alza casos de COVID en el estado"
 front: false
 section: "Local"
-news_id: 189777
+redirect_from: /news/189777
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 11 de noviembre el reporte COVID-19, en el cual se registran 82 mil 905 (+194) personas confirmadas en la entidad por este padecimiento, 71 mil 377 (+151) casos recuperados, 77 mil 027 (+312) descartados y 749 (-16) casos sospechosos.

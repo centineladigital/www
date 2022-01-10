@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El atacante murió en el acto, mientras que cuatro de los atacados fallecieron en el hospital.   "
 image: "/uploads/2021/images-relacionan-tiroteo-panama-juego-calamar.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Una trágica reacción de 'El Juego de calamar'? Tiroteo en fiesta de Halloween deja 8 muertos en Panamá"
 front: false
 section: "Internacional"
-news_id: 189424
+redirect_from: /news/189424
 ---
 
 Cinco personas murieron en un tiroteo el viernes durante una fiesta de Halloween en Panamá, en un crimen que la policía asoció a una guerra de pandillas, y otros tres cadáveres con signos de ejecución aparecieron en un vertedero. 

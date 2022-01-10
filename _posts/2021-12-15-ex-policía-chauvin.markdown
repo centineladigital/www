@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El ex agente cumple condena por la muerte del afroamericano, la cual generó una ola de protestas contra el racismo en Estados Unidos.  "
 image: "/uploads/2021/images-dereck-chauvin-cumple-condena-asesinato_0_23_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ex policía Chauvin se declara culpable de violar derechos civiles de George Floyd"
 front: false
 section: "Internacional"
-news_id: 190874
+redirect_from: /news/190874
 ---
 
 El ex oficial de policía blanco de Minneapolis, Derek Chauvin, se declaró culpable de violar los derechos civiles del afroamericano George Floyd, modificando así su anterior declaración de "no culpable" tras provocar la muerte del civil, quien fue sofocado por el agente, quien le puso violentamente su rodilla en un cuestionado procedimiento. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de haber sido hospitalizado, el actor Dustin Diamond de Salvados por la campana confirmó que tiene cáncer terminal. "
 image: "/uploads/2021/images-dustin-diamond-fue-hospitalizado-hace.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dustin Diamond, actor de 'Salvados por la campana', tiene cáncer terminal"
 front: false
 section: "Espectáculos"
-news_id: 182164
+redirect_from: /news/182164
 ---
 
 Hace unos días se informó que el actor Dustin Diamond, famoso por interpretar a Screech en la serie Salvados por la campana, había sido hospitalizado tras sentir dolor en todo el cuerpo, así lo dio a conocer el sitio TMZ y ahora, el actor de 44 años reveló que tras varios estudios le detectaron cáncer terminal. Después de ser hospitalizado en un nosocomio de Florida, el representante de Dustin Diamond confirmó al medio Entertainment Weekly que le detectaron cáncer en etapa cuatro y que ya se encuentra recibiendo tratamiento. 

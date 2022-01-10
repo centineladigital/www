@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Dos platas y un bronce en la disciplina de ParaNatación, además se obtuvieron un cuarto y un sexto lugar en esta competencia que se desarrolla en Cancún, Quintana Roo                "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Logra Chihuahua tres medallas al inicio de los Juegos Paranacionales 2021"
 front: false
 section: "Local"
-news_id: 188919
+redirect_from: /news/188919
 ---
 
 El Instituto Chihuahuense del Deporte y Cultura Física, informó que la delegación chihuahuense que participa en los Juegos Paranacionales 2021, logró una cosecha de tres medallas, dos de plata y una de bronce, en la disciplina de ParaNatación que se desarrolla en la alberca Olímpica de Cancún, Quintana Roo y continuará su participación en esta disciplina, durante los próximos días.

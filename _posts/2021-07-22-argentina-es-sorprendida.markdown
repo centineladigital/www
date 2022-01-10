@@ -11,12 +11,12 @@ tags:
 author: nil
 description: ""
 image: "/uploads/2021/images-dolorosa-derrota-argentina-juegos-olimpicos_0_51_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Argentina es sorprendida por Australia y firma amargo debut en futbol varonil de Tokio 2020"
 front: false
 section: "Deportes"
-news_id: 185910
+redirect_from: /news/185910
 ---
 
 Argentina empezó su andadura en los Juegos Olímpicos con mal pie y, al igual que España, con la que comparte favoritismo en el Grupo C, fue incapaz de solventar con éxito su estreno olímpico tras caer contra Australia, en un duelo que afrontó con un hombre menos en la segunda parte. 

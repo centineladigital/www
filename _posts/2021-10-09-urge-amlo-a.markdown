@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El jefe del Ejecutivo federal convocó a los gobernadores de Durango, Coahuila e instancias federales a que en tres meses le presenten un proyecto integral de desarrollo para La Laguna"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Urge AMLO a terminar obras del gobierno federal en 2023"
 front: false
 section: "Nacional"
-news_id: 188558
+redirect_from: /news/188558
 ---
 
 El presidente Andrés Manuel López Obrador urgió a terminar en 2023 todas las obras de gobierno federal porque para ese año el país estará “bastante caliente políticamente hablando” ya con los candidatos listos para la sucesión presidencial.

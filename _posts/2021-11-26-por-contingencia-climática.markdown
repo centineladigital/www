@@ -10,11 +10,11 @@ author: nil
 description: "No representa que se deje de vacunar a la población."
 image: "/uploads/2021/images-wendy.jpg"
 video: "/uploads/2021/videos-MV04_WENDY_AVILA.mp4"
-audio: "nil"
+audio: nil
 alt: "Por contingencia climática suspenden módulos de vacunación"
 front: false
 section: "Local"
-news_id: 190256
+redirect_from: /news/190256
 ---
 
 Debido a la contingencia climática por las lluvias este fin de semana suspendieron las acciones de vacunación que se lleva a cabo dentro delos módulos instalados  a un costado del Estadio de Béisbol Manuel M. Almanza, en la Facultad de Contaduría de la UACH y en el estadio de Béisbol de la Deportiva Sur.

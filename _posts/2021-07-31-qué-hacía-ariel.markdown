@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ariel Miramontes es conocido por interpretar a Albertano, un divertido personaje que ha divertido a las familias mexicanas. "
 image: "/uploads/2021/images-ariel-miramontes-tambien-triunfa-en_21_0_1045_649.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Qué hacía Ariel Miramontes antes de ser Albertano?"
 front: false
 section: "Espectáculos"
-news_id: 186156
+redirect_from: /news/186156
 ---
 
 El personaje de Albertano Santa Cruz es muy popular en la televisión mexicana y el cual apareció por primera vez en el programa de comedia María de todos los Ángeles. Albertano es interpretado por el actor Ariel Miramontes, quien también se unió a la red social, TikTok y ha hecho videos muy recurrentes y divertidos. 

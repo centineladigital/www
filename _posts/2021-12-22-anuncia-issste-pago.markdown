@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En caso de haber alguna duda o consulta sobre el pago de la pensión, está disponible la línea telefónica ISSSTEtel: 55 4000 – 1000. "
 image: "/uploads/2021/images-ISSSTE_02.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia Issste pago de segunda parte del aguinaldo  y primera mensualidad de 2022 para pensionados y jubilados"
 front: false
 section: "Local"
-news_id: 191109
+redirect_from: /news/191109
 ---
 
 El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Issste) informa que el pago de la mensualidad de enero 2022 y segunda parte del aguinaldo 2021 para jubilados y pensionados se realizará el próximo 3 de enero. 

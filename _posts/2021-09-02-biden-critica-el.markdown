@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Por su parte, activistas y representantes de clínicas sostuvieron que lucharán contra la acción determinada por el Poder Judicial. "
 image: "/uploads/2021/images-presidente-unidos-joe-biden-rueda.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden critica el rechazo de la Corte Suprema de EU a suspender ley antiaborto en Texas"
 front: false
 section: "Internacional"
-news_id: 187362
+redirect_from: /news/187362
 ---
 
 El presidente de Estados Unidos, Joe Biden, criticó hoy el rechazo emitido por la Corte Suprema de ese país a bloquear una ley de Texas que prohíbe el aborto después de seis semanas de embarazo, aún en caso de violación o incesto, advirtiendo que amenaza con provocar "un caos inconstitucional". 

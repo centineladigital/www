@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En la mesa panel “Tecnología 4.0 y Política Pública”"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa Gobierno del Estado en feria internacional Hannover Messe ITM 2021"
 front: false
 section: "Local"
-news_id: 188500
+redirect_from: /news/188500
 ---
 
 En el marco de la feria internacional Hannover Messe, Industrial Transformación México (ITM) 2021, que se realiza en León Guanajuato, participó el Gobierno del Estado de Chihuahua, a través de la Secretaria de Innovación y Desarrollo Económico (SIDE), mediante su titular la Mtra. María Angélica Granados Trespalacios, en el panel “Tecnología 4.0 y Política Pública”.

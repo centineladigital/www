@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las canciones del Grupo Niche, la ambientación de Colombia en los años 80 y una historia que se desarrolla a través de 100 episodios son el escenario ideal para presentar uno de los tesoros artísticos y culturales colombianos."
 image: "/uploads/2021/images-jair-romero-vida-ivan-cuero.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Honran con serie ‘de corazón’ al Grupo Niche"
 front: false
 section: "Espectáculos"
-news_id: 182517
+redirect_from: /news/182517
 ---
 
 Jair Romero protagoniza Lo que diga el corazón, Niche, una serie musical producida por Caracol Televisión, que se filmó en Colombia con el objetivo de realizar homenaje a la contribución musical del Grupo Niche y resaltar los valores culturales del Valle del Cauca, Colombia, y la cual ahora llega a la plataforma de streaming Vix. 

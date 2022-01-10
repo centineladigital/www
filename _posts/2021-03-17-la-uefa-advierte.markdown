@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El organismo pretende que haya aficionados en los partidos y si alguna ciudad llegara a proponer que se disputen a puerta cerrada, los encuentros podrían ser transferidos a otra localidad"
 image: "/uploads/2021/images-2546464.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La UEFA advierte a sedes de la Eurocopa"
 front: false
 section: "Deportes"
-news_id: 183448
+redirect_from: /news/183448
 ---
 
 La UEFA no quiere una Eurocopa sin público, y ajustará de aquí a finales del mes de abril el plan inicial, que prevé 12 ciudades organizadoras en 12 países, si algunas no pueden recibir espectadores, anunció.

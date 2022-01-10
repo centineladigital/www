@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Chimy Ávila le dio el empate a los de Pamplona y alargó la racha del Barcelona de tres partidos sin conocer la victoria. "
 image: "/uploads/2021/images-barcelona-deja-escapar-puntos-valiosos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Barcelona empata de último minuto con el Osasuna; hila tres partido sin victoria"
 front: false
 section: "Deportes"
-news_id: 190778
+redirect_from: /news/190778
 ---
 
 Osasuna firmó un emocionante empate ante el Barcelona por 2-2 gracias al gol del argentino Chimy Ávila en los últimos que hundió a un conjunto culé que no vence en LaLiga desde hace tres jornadas y que se vio sobrepasado por su rival durante algunos tramos de un partido muy entretenido. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Galilea Montijo aclaró si es verdad que mantienen una mala relación con su compañera de Hoy, Marisol González. "
 image: "/uploads/2021/images-ga.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿No se llevan bien? Galilea Montijo aclara rumores sobre mala relación con Marisol González"
 front: false
 section: "Espectáculos"
-news_id: 182100
+redirect_from: /news/182100
 ---
 
 Desde hace unos días han surgido algunos rumores sobre la supuesta mala relación que llevan Galilea Montijo y Marisol González, quien tuvo que ausentarse del programa Hoy debido a que dio positivo a la prueba de covid-19. Tras estas especulaciones, Galilea decidió aclarar la polémica que se desató. 

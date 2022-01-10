@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista, Elton John le llamó hocicón a su compañero, el músico Ed Sheeran. "
 image: "/uploads/2021/images-elton-john-llama-hocicon-ed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Maldito hocicón -  la razón por la que Elton John 'criticó' a Ed Sheeran"
 front: false
 section: "Espectáculos"
-news_id: 189179
+redirect_from: /news/189179
 ---
 
 El famoso músico británico Elton John criticó fuertemente al músico Ed Sheeran después de que éste último revelara antes de tiempo que colaborarán en un tema navideño... el comentario llegó a tal grado que Elton llamó 'maldito hocicón' a su colaborador. 

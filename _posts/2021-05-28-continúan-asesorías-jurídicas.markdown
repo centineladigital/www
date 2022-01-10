@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Invitan a asesoría jurídica."
 image: "/uploads/2021/images-IMM2.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV06_VERONICA_PACHECO.mp3"
 alt: "Continúan asesorías jurídicas del IMM"
 front: false
 section: "Local"
-news_id: 184722
+redirect_from: /news/184722
 ---
 
 Asesorías jurídicas para acciones de apoyo familiar es lo que brindan el área jurídica que se da en forma gratuita por parte del Instituto Municipal de la Mujer, el cual ha logrado reconocimiento y pensión a favor de un menor de ocho años.

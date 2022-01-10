@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Usuarios tuvieron que hacer fila virtual en el sitio web de Ticketmaster para comprar sus boletos; se terminaron y abrieron nueva fecha. "
 image: "/uploads/2021/images-fans-coldplay-fila-virtual-compara.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ante demanda, Coldplay abre nueva fecha en CdMx; reaccionan a fila virtual con memes"
 front: false
 section: "Espectáculos"
-news_id: 188942
+redirect_from: /news/188942
 ---
 
 La banda de pop rock Coldplay es uno de los temas de momento, pues la banda recientemente estrenó su álbum 'Music of the Spheres', donde incluyen el éxito 'My Universe' (ft. BTS). Tras el anuncio de su gira mundial por su nuevo álbum, México se volvió una de las sedes donde tocarán, y el alcance fue tal que tuvieron que abrir una nueva fecha en CdMx. 

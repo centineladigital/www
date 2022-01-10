@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el marco del Día del Taxista, el sector manifestó que la crisis laboral que atraviesan se ha intensificado hasta un 70% "
 image: "/uploads/2021/images-taxistas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pandemia y plataformas de transporte digital afectan a taxistas"
 front: false
 section: "Local"
-news_id: 184337
+redirect_from: /news/184337
 ---
 
 Hoy 7 de mayo se celebra el Día del Taxista, por coincidir con el nacimiento de Eva Duarte de Perón, fundadora del Sindicato de Taxistas Argentinos en 1950; este colectivo se ha visto afectado por la pandemia y con la llegada de plataformas digitales que ofertan el servicio que ha prestado por años este gremio a la población.

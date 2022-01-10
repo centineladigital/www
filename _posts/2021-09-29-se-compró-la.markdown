@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Adela Micha y Susana Zabaleta hablaron del caso de Inés Gómez Mont y su esposo, acusados de crimen organizado por la FGR. "
 image: "/uploads/2021/images-susana-zabaleta-critica-ines-gomez_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se compró la mansión de la Cher -  Susana Zabaleta arremete contra Inés Gómez Mont"
 front: false
 section: "Espectáculos"
-news_id: 188182
+redirect_from: /news/188182
 ---
 
 Inés Gómez Mont reapareció en redes sociales luego de que la Fiscalía General de la República (FGR) acusara a la conductora y su esposo, Víctor Álvarez Puga, de presuntamente haber recibido dinero de dos contratos públicos y de pertenecer a la delincuencia organizada. El caso de la famosa generó revuelo y polémicas reacciones entre las celebridades mexicanas, incluida Susana Zabaleta.  Adela Micha se reunió con Rebecca de Alba y Susana Zabaleta en la más reciente emisión del programa La Saga, donde las tres famosas expresaron su opinión sobre el caso de Inés Gómez Mont, quien el pasado martes aseguró a través de un comunicado en Instagram que es inocente y no ha cometido algún delito. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los recuentos de todas las organizaciones que hacen un seguimiento a la situación de la prensa colocan al país como el más peligroso y mortal para ejercer la profesión"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por tercer año, México tiene más periodistas asesinados"
 front: false
 section: "Nacional"
-news_id: 190958
+redirect_from: /news/190958
 ---
 
 El año que termina deja un saldo negativo para la prensa en México. Uno por uno, los reportes anuales de las organizaciones que llevan recuento de los asesinatos de periodistas en el mundo colocan al país en primer lugar, como el sitio más peligroso para ejercer el periodismo. El más reciente de ellos, de Reporteros Sin Fronteras (RSF), cuyo director asegura que la situación es “terrorífica”.

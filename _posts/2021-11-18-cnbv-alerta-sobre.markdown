@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El organismo regulador alertó de la firma no una entidad financiera y no está sujeta a supervisión, por lo tanto, no forma parte del sistema financiero en México. Comparte esta noticia."
 image: "/uploads/2021/images-meses-ano-retiros-desempleo-afore_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "CNBV alerta sobre Aras Business y prohíbe ofrecer servicios de inversión"
 front: false
 section: "Nacional"
-news_id: 189953
+redirect_from: /news/189953
 ---
 
 La Comisión Nacional Bancaria y de Valores (CNBV) solicitó a la sociedad Aras Investment Business, públicamente conocida como Aras, abstenerse de ofrecer productos o servicios de inversión al público en general, ya que no cuentan con autorización para hacerlo. 

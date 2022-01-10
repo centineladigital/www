@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Prioridad, garantizar el abasto de medicamentos e insumos para la salud  "
 image: "/uploads/2021/images-ISSSTE_02.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia Zenteno Santaella recorrido por unidades médicas del ISSSTE "
 front: false
 section: "Local"
-news_id: 190671
+redirect_from: /news/190671
 ---
 
 El director general del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Issste), Pedro Zenteno Santaella, inició el recorrido por las unidades médicas familiares para verificar las condiciones en las que operan y generar condiciones que permitan garantizar atención de primer nivel a los 13.5 millones de derechohabientes. 

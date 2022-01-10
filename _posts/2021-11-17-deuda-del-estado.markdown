@@ -16,11 +16,11 @@ author: nil
 description: "Los impuestos que se recaudan para el Estado son únicamente para pagar las deudas a corto y largo plazo que tiene la gobernadora Maru Campos"
 image: "/uploads/2021/images-maru_campos_oracio2.jpg"
 video: "/uploads/2021/videos-BW04_BENJAMIN_CARRERA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Deuda del estado es el secuestro de los impuestos -  Carrera "
 front: false
 section: "Local"
-news_id: 189940
+redirect_from: /news/189940
 ---
 
 El legislador de la bancada de la cuarta transformación Benjamín Carrera, manifestó que la gran deuda que tiene actualmente el estado puede ser considerada como un secuestro de impuestos, explicó que es de esta forma porque es un dinero que ya se debe y que nunca se podrá ver en obras para el estado.

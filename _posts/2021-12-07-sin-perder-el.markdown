@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La exitosa serie vuelve a la pantalla con la secuela 'And Just Like That...', para la que regresan Sarah Jessica Parker Kristin Davis y Cynthia Nixon."
 image: "/uploads/2021/images-protagonistas-sex-and-the-city.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Sin perder el glamour! Así lucían las actrices de 'Sex and the city' cuando se estrenó la serie"
 front: false
 section: "Espectáculos"
-news_id: 190590
+redirect_from: /news/190590
 ---
 
 Sex and the city se convirtió en un ícono de la televisión desde su estreno en 1998. A lo largo de seis temporadas, la serie exploraba temas sobre la vida sexual de las mujeres -varios de ellos tabús-, las relaciones amorosas, el placer femenino o la amistad, y aunque hoy algunos puntos de la trama, estereotipos y arquetipos de los personajes deben ponerse bajo lupa, sin duda, la historia marcó a toda una generación a tal punto que en unos días llegará a la pantalla chica su secuela, la cual se titula And Just Like That... 

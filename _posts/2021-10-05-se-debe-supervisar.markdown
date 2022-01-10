@@ -18,11 +18,11 @@ author: nil
 description: "Deben entregar cuentas claras con cero impunidad "
 image: "/uploads/2021/images-y5difMpt1hSl.jpeg"
 video: "/uploads/2021/videos-BM01_OSCAR_CASTREJON.mp4"
-audio: "nil"
+audio: nil
 alt: "Se debe supervisar a los funcionarios -  Castejón "
 front: false
 section: "Local"
-news_id: 188394
+redirect_from: /news/188394
 ---
 
 El diputado óscar Castrejón, mencionó que se tiene que supervisar a los funcionarios públicos, esto para que no exista ningún tipo de corrupción en el estado,  el diputado señaló que los delincuentes a los cuales no se les da una condena larga con respecto a sus delitos es como si se les diera el permiso de hacer delios menores.

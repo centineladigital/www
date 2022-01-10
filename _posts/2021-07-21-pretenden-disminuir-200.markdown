@@ -10,11 +10,11 @@ author: nil
 description: "Cien de estos casos en Ciudad Juárez y un número igual en el resto del territorio estatal."
 image: "/uploads/2021/images-EMILIO.jpg"
 video: "/uploads/2021/videos-MW05_EMILIO_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Pretenden disminuir 200 casos de homicidios"
 front: false
 section: "Local"
-news_id: 185884
+redirect_from: /news/185884
 ---
 
 Una disminución de 200 homicidios por mes es lo que pretende se decremento a nivel estatal, fueron las palabras del Secretario de Seguridad Pública Estatal, Emilio García Ruiz. Quien dijo que se espera que se logre la meta desde el mes que transcurre.

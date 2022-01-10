@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "AstraZeneca entregó en el primer trimestre 30 millones de los 120 millones de dosis acordadas con la UE, se informó"
 image: "/uploads/2021/images-2568489.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "UE demanda a AstraZeneca por atraso en vacunas contra covid"
 front: false
 section: "Internacional"
-news_id: 184099
+redirect_from: /news/184099
 ---
 
 La Unión Europea (UE) inició una acción legal contra el laboratorio sueco-británico AstraZeneca, al que acusa de haber incumplido sus compromisos de entregas de vacunas anticovid, anunció este lunes la Comisión Europea.

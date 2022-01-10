@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Incrementan hospitalizaciones en Ciudad Juárez."
 image: "/uploads/2021/images-MIRNA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03_MIRNA_BELTRAN.mp3"
 alt: "Prenden “focos rojos de hospitalización” en Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 183896
+redirect_from: /news/183896
 ---
 
 Focos rojos en materia de hospitalización se encendieron en Ciudad Juárez, según fue dado a conocer por parte de l Subsecretaria de Medicina Preventiva, Mirna Beltrán Arzaga. Quien dijo que se ha registrado un incremento de casos de personas que han requerido ser atendidas en diversos nosocomios, lo que ha originado que se saturen.

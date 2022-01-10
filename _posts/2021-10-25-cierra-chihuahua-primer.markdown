@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En disciplinas de Lanzamiento de jabalina y salto de longitud  "
 image: "/uploads/2021/images-unnamed_(10).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cierra Chihuahua primer bloque de Paraatletismo con dos platas"
 front: false
 section: "Local"
-news_id: 189133
+redirect_from: /news/189133
 ---
 
 En el cierre del primer bloque de Paraatletismo, la Delegación Chihuahuense sumó dos medallas de plata, en competencias que se llevan a cabo en el Centro de Alto Rendimiento de Cancún, Quintana Roo.

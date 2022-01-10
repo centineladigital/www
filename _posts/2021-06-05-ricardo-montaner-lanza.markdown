@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante disfrutó del estreno de su disco en Nueva York, acompañado de toda su familia: Eva Luna, Mau & Ricky, y Camilo, pues también es un homenaje a su vida, a Dios y a los suyos."
 image: "/uploads/2021/images-ricardo-montaner-lanzo-album-titulado.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ricardo Montaner lanza 'Fe', un álbum lleno de amor"
 front: false
 section: "Espectáculos"
-news_id: 184858
+redirect_from: /news/184858
 ---
 
 Desde una estancia en Nueva York, Ricardo Montaner se alistó ese lunes desde muy temprano para presenciar el estreno oficial de su más reciente álbum titulado Fe. Se preparó su café por la mañana y se lo tomó tranquilamente, salió a caminar 40 cuadras con su esposa Marlene para llegar a su restaurante favorito. Entonces estaba listo para sentarse a charlar con los medios de comunicación de Latinoamérica para platicarles de los temas de este nuevo disco. 

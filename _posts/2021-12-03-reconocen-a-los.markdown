@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Asociación de Comerciantes del Centro (COCENTRO) aplaudió su disciplina y cabal cumplimiento de sus labores"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconocen a los mejores policías del centro de la ciudad"
 front: false
 section: "Local"
-news_id: 190466
+redirect_from: /news/190466
 ---
 
 Gracias a su cabal esfuerzo, acercamiento, servicio hacia los ciudadanos y locatarios del centro de la ciudad, ocho policías pertenecientes a la Dirección de Seguridad Pública Municipal, fueron reconocidos por parte de la Asociación de Comerciantes del Centro (COCENTRO), como los mejores elementos durante los meses de septiembre y octubre.

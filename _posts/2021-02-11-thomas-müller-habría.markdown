@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Antes de la final del Mundial de Clubes, medios alemanes reportan el caso del delantero del Bayern Múnich"
 image: "/uploads/2021/images-2527693.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Thomas Müller habría dado positivo por covid-19"
 front: false
 section: "Deportes"
-news_id: 182849
+redirect_from: /news/182849
 ---
 
 El delantero del Bayern Múnich, Thomas Müller, dio resultado positivo en un test de coronavirus, y causará baja para la final del Mundial de Clubes de este jueves contra Tigres de México, según informaron medios alemanes.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los bienes suman 583.5 mdp como parte de la estrategia fiscal para recuperar los recursos saqueados en la pasada administración"
 image: "/uploads/2021/images-WhatsApp_Image_2021-01-07_at_8.21.25_AM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Autos y penthouse en embargos de Operación Justicia para Chihuahua"
 front: false
 section: "Local"
-news_id: 181931
+redirect_from: /news/181931
 ---
 
 Los bienes suman 583.5 mdp como parte de la estrategia fiscal para recuperar los recursos saqueados en la pasada administración; en la lista hay 34 propiedades, 206 vehículos, 8 marcas comerciales y acciones o participaciones en 26 empresas

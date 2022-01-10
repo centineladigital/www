@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esta será valida a partir del primero de noviembre."
 image: "/uploads/2021/images-SUSANA_RODRIGUEZ.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ01_SUSANA_RODRIGUEZ.mp4"
 alt: "Renuncia titular de comunicación social en la UACH"
 front: false
 section: "Local"
-news_id: 189318
+redirect_from: /news/189318
 ---
 
 Este miércoles la titular del área de Comunicación Social de la Universidad Autónoma de Chihuahua, Susana Rodríguez Cervantes, confirmó su renuncia señalando que esta se da por razones personales. Esto luego de que se diera a conocer de forma extraoficial la salida tanto de la ahora exintegrante de la ACH, así como del secretario general y la abogada general de la máxima casa de estudios, siendo en los últimos dos casos en los que aún no ha sido confirmada su salida.

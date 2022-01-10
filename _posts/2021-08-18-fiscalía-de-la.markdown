@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se rescató a 21 migrantes que esperaban cruzar a Estados Unidos"
 image: "/uploads/2021/images-Luis_Felipe_C._S._.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fiscalía de la Mujer detiene a presunto implicado en tráfico de personas "
 front: false
 section: "Local"
-news_id: 186847
+redirect_from: /news/186847
 ---
 
 Elementos de la AEI adscritos a la Fiscalía de la Mujer, detuvieron en Ciudad Juárez a una persona del sexo masculino presuntamente involucrado en el delito de tráfico ilegal de personas en la modalidad de alojamiento. 

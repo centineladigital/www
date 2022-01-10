@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Ministerio Público sólo ha acusado a los involucrados en este caso de los delitos de: lavado de dinero, asociación delictuosa y cohecho. "
 image: "/uploads/2021/images-fgr-operadores-pena-nieto-luis_thumb_591_348.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "FGR acusará a Peña Nieto, Videgaray y Anaya por delincuencia organizada"
 front: false
 section: "Nacional"
-news_id: 188841
+redirect_from: /news/188841
 ---
 
 La Fiscalía General de la República (FGR) eleva la apuesta en el caso Odebrecht y ahora busca imputar el delito de delincuencia organizada al ex presidente Enrique Peña Nieto, así como a 16 actores políticos más como Luis Videgaray y Ricardo Anaya, entre otros, quienes fueron denunciados por Emilio Lozoya como parte de la trama de sobornos de la constructora brasileña. 

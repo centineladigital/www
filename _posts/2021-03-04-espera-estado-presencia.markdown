@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esperan autorización de SEDENA para que se sume titular de logistica de la campaña de vacunación."
 image: "/uploads/2021/images-wendy.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ04_WENDY_AVILA.mp3"
 alt: "Espera estado presencia de federación para dar a conocer vacunación"
 front: false
 section: "Local"
-news_id: 183278
+redirect_from: /news/183278
 ---
 
 El que el encargado de la campaña de vacunación contra COVID se adhiera a las ruedas de prensa donde se da a conocer la actualización de las cifras que se tienen en el estado de esta enfermedad, es lo que espera por parte del Estado.

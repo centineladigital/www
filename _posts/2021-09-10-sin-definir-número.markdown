@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-MV05_GIL_LOYA.mp4"
 alt: "Sin definir número de escoltas; se definirán en función del riesgo"
 front: false
 section: "Local"
-news_id: 187628
+redirect_from: /news/187628
 ---
 
 Debido a que es un asunto de seguridad, el titular de la Secretaría de Seguridad Pública, Gilberto Loya Chávez, quien dijo que la designación de elementos de seguridad a los funcionarios se lleva a cabo en función de los riesgos que representa el puesto.

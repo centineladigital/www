@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Coordinación Estatal de Protección Civil informa que se registraron nevadas en Madera y Bocoyna, así como 1 cm de granizo en el norte de la ciudad de Chihuahua"
 image: "/uploads/2021/images-CUU_GRANIZADA_(4).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Prevén vientos de hasta de 95 km/h y lluvias por aproximación de la 9ª Tormenta Invernal"
 front: false
 section: "Local"
-news_id: 182920
+redirect_from: /news/182920
 ---
 
 Para este sábado 13 de febrero, el Frente Frío número 35 se extenderá como estacionario y en proceso de disipación sobre el territorio chihuahuense, de manera que habrá rachas de viento de hasta 95 km/h, además de lluvias en ciertas regiones de la entidad, informó la Coordinación Estatal de Protección Civil (CEPC).

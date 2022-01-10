@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Confirma Salud 209 nuevos casos, 10 defunciones y 316 personas hospitalizadas; Chihuahua, Juárez y Delicias los municipios con  más incidencias"
 image: "/uploads/2021/images-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suben contagios y hospitalizados por COVID-19 en el estado en las últimas horas"
 front: false
 section: "Local"
-news_id: 182486
+redirect_from: /news/182486
 ---
 
 La Secretaría de Salud informó que en las últimas 24 horas se confirmaron 209  nuevos contagios y 10 fallecimientos en el estado,  para acumular un total  de 49 mil 575 casos y  4 mil 624 defunciones por COVID-19 desde que inició la pandemia.

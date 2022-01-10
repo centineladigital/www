@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Acumula 74 mil 585 casos y 7 mil 762 decesos; las personas que perdieron la vida corresponden a Juárez (+1), Chihuahua (+5) y Cuauhtémoc (+2), de acuerdo al último reporte epidemiológico  "
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registra estado 92 contagios  y 8 defunciones más por COVID-19"
 front: false
 section: "Local"
-news_id: 186839
+redirect_from: /news/186839
 ---
 
 La Secretaría de Salud estatal dio a conocer que en el último reporte COVID-19 se incrementaron en 92 los contagios confirmados, para llegar a 74 mil 585 casos acumulados en la entidad.

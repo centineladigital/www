@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El temblor se produjo a 91 kilómetros al sureste del municipio de Perryville, a unos 800 kilómetros de Anchorage; se declaró alerta de tsunami en el sur de Alaska y Hawái  "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registra sismo de magnitud 8.2 frente a las costas de Alaska"
 front: false
 section: "Internacional"
-news_id: 186087
+redirect_from: /news/186087
 ---
 
 Un sismo de magnitud 8,2 se registró el miércoles por la noche frente a las costas de la península de Alaska, informó el Servicio Geológico de Estados Unidos (USGS, por sus siglas en inglés), que activó una alerta de tsunami.

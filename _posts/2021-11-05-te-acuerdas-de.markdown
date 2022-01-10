@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Martín Ricca saltó a la fama a finales de los años 90 por su participación en telenovelas infantiles. Te contamos qué es lo que ha pasado con él. "
 image: "/uploads/2021/images-martin-ricca-comenzo-carrera-cantante.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Te acuerdas de él? Esto es lo que pasó con Martín Ricca, actor de 'Amigos por Siempre'"
 front: false
 section: "Espectáculos"
-news_id: 189577
+redirect_from: /news/189577
 ---
 
 A finales de los años 90 y principios de los 2000 en la televisión mexicana se comenzaron a realizar telenovelas infantiles, la cuales tuvieron mucho éxito y que lanzaron al estrellato a varios actores que con el tiempo se volvieron cantantes, entre ellos Martín Ricca, quien protagonizó tres telenovelas. Martín Ricca se dio a conocer gracias a su participación en tres telenovelas infantiles y desde muy pequeño robó el corazón de muchas niñas, quienes además de seguirlo en sus telenovelas también lo hicieron en su faceta musical. Te contamos que ha sido del actor tras varios años de aparecer en la televisión mexicana. 

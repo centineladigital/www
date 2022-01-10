@@ -10,11 +10,11 @@ author: nil
 description: "Afirma Presidente que se hicieron mal los procedimientos."
 image: "/uploads/2021/images-AMLO.jpg"
 video: "/uploads/2021/videos-ML04_AMLO.mp4"
-audio: "nil"
+audio: nil
 alt: "Extradición de Duarte continúa -  AMLO"
 front: false
 section: "Local"
-news_id: 186488
+redirect_from: /news/186488
 ---
 
 La extradición del exgobernador César Duarte continúa, fueron las palabras del Presidente de la República Andrés Manuel López Obrador, quien dijo que tras solicitud del mandatario fue repuesta la petición de extradición.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Por lo cual se exhorta a la población a tomar las debidas precauciones y evitar incidentes tanto en la vía pública como en el hogar  "
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia Protección Civil Municipal lluvias para toda la semana en la capital"
 front: false
 section: "Local"
-news_id: 187254
+redirect_from: /news/187254
 ---
 
  Debido a los remanentes del huracán Nora, que se encuentra activo en el Pacífico Mexicano, continuarán las lluvias de fuertes a intensas y posibles tormentas eléctricas en la capital del estado, esto de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional, así lo informó la Coordinación Municipal de Protección Civil, por lo cual se exhorta a la población a tomar las debidas precauciones y evitar incidentes tanto en la vía pública como en el hogar.

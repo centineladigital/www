@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con la finalidad de evitar afectaciones al patrimonio familiar o convertirse en víctima de delincuentes."
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Policía Municipal recomendaciones de seguridad al usar cajeros"
 front: false
 section: "Local"
-news_id: 185791
+redirect_from: /news/185791
 ---
 
 La Dirección de Seguridad Pública Municipal recomienda a usuarios de cajeros automáticos tomar en cuenta algunas medidas básicas, sobre todo en fechas cercanas a los días de pago, que es cuando se incrementa la actividad en estos lugares.

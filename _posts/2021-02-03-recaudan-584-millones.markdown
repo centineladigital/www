@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Incrementa un siete punto uno por ciento la recaudación."
 image: "/uploads/2021/images-AMANDA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW05_AMANDA_CORDOVA.mp3"
 alt: "Recaudan 584 millones de impuesto predial"
 front: false
 section: "Local"
-news_id: 182671
+redirect_from: /news/182671
 ---
 
 Un incremento de un 7 punto 1 por ciento es lo que recaudó el municipio de Chihuahua, esto al recordar 584 punto 4 millones de pesos de impuesto predial durante el primer mes del año, según lo dio a conocer la Tesorera Amanda Córdova.

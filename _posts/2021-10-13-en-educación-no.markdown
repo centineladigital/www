@@ -16,11 +16,11 @@ author: nil
 description: "Todo avance debe ser progresivo en materia de salarios"
 image: "/uploads/2021/images-WhatsApp_Image_2_21__9_3__at_1.45.1__PM.jpeg"
 video: "/uploads/2021/videos-BW04_OSCAR_AVITIA_.mp4"
-audio: "nil"
+audio: nil
 alt: "En educación no se dará ni un paso atrás "
 front: false
 section: "Local"
-news_id: 188703
+redirect_from: /news/188703
 ---
 
 El diputado Oscar Daniel Avitia manifestó que en materia de prestaciones salarios y derechos no se dará ni un paso más, así mismo declaro que los derechos de los trabajadores del sector educativo no tendrán un retroceso  en materia salarial,  afirmó que la ley federal del trabajador  tiene contemplado este derecho.

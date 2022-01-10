@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En La Mañanera, explicó que los eventos que tiene no serán abiertos, pues se tratan de una evaluación interna, por lo que no tocará el tema de la consulta; aunque cuestionó la relación de ésta con los programas sociales. "
 image: "/uploads/2021/images-amlo_27_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO -  no sabía que hay veda por consulta popular"
 front: false
 section: "Nacional"
-news_id: 185721
+redirect_from: /news/185721
 ---
 
 El presidente Andrés Manuel López Obrador reconoció que no sabía que inició un periodo de veda por la consulta popular para juzgar a actores políticos del pasado, por tanto pidió a su equipo analizar si se deben transmitir los eventos programados para el fin de semana durante su gira por Guerrero. 

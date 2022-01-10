@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Narra la historia de un hombre que decide entrenar con los tarahumaras para correr un maratón y obtener dinero para salvar a su hija"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Filman en Chihuahua la película 37 Kms con apoyo de Gobierno del Estado"
 front: false
 section: "Local"
-news_id: 189021
+redirect_from: /news/189021
 ---
 
 Con apoyo del Gobierno del Estado las productoras Tilma Films y Latam Pictures filman en distintas locaciones de la Sierra Tarahumara el largometraje 37 Kms, que es dirigido por Rafael Moreno.

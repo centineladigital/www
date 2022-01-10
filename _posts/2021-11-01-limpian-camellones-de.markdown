@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal retiró la maleza en 18 vialidades"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Limpian camellones de avenidas para mejorar la visibilidad de conductores"
 front: false
 section: "Local"
-news_id: 189438
+redirect_from: /news/189438
 ---
 
 Con el propósito de tener espacios limpios y que permitan la mejor visibilidad para las y los conductores que circulan por avenidas de la capital, la Dirección de Mantenimiento Urbano, realizó la limpieza de 18 camellones, esto dentro de los primeros 100 días de trabajo y resultados del Gobierno Municipal.

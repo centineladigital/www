@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Itzel Paniagua expresó su preocupación tras enterarse que su pareja se contagió del nuevo coronavirus. "
 image: "/uploads/2021/images--masterchef-mexico-revela-esposo-2_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es duro -  Participante de 'MasterChef México' revela que su esposo tiene covid-19"
 front: false
 section: "Espectáculos"
-news_id: 182028
+redirect_from: /news/182028
 ---
 
 MasterChef México se ha convertido en uno de los programas más populares de la televisión mexicana a pesar de la polémica que suele generarse cada programa por las rivalidades entre los participantes, quienes durante el programa del pasado viernes dejaron a un lado la competencia para expresar su apoyo a Itzel Paniagua, luego de que ésta se enterara que su esposo tiene covid-19. El pasado viernes, la participante dio a conocer minutos antes del duelo de eliminación que su pareja, Patricio, se contagió del nuevo coronavirus. Itzel Paniagua expresó su preocupación, pues debido a su participación en MasterChef México no podrá estar a lado de su familia.

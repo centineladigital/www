@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se tiene contemplado llevar a cabo la fumigación del parque para evitar la propagación de plagas en el lugar."
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Plantan Municipio y vecinos decenas de árboles en el parque Urueta"
 front: false
 section: "Local"
-news_id: 188086
+redirect_from: /news/188086
 ---
 
 Con el propósito de seguir trabajando para mantener en buenas condiciones los parques de la ciudad, el Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano llevó a cabo la forestación de 95 árboles en el parque Urueta.

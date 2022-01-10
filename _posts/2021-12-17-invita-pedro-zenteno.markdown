@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Es fundamental atender los reclamos de las y los trabajadores del Estado, porque la salud no espera"
 image: "/uploads/2021/images-ISSSTE_02.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Pedro Zenteno a derechohabiencia ISSSTE a agendar citas médicas por internet y vía telefónica"
 front: false
 section: "Local"
-news_id: 190961
+redirect_from: /news/190961
 ---
 
 Para agilizar la atención y optimizar los procesos médicos, el director general del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, (Issste), Pedro Zenteno Santaella, exhortó a la derechohabiencia a utilizar las herramientas digitales y telefónicas que ofrece el organismo para agendar sus citas clínicas.

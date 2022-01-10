@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se trata de una persona que regresó a California luego de viajar a Sudáfrica. Esto es lo que se sabe acerca de sus síntomas..."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Esto es lo que sabemos del primer paciente con la variante ómicron en EU"
 front: false
 section: "Internacional"
-news_id: 190414
+redirect_from: /news/190414
 ---
 
 Estados Unidos detectó hoy su primer caso de la variante ómicron del coronavirus: se trata de una persona que regresó a California luego de viajar a Sudáfrica. Esto es lo que se sabe:

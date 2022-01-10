@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente de EU firma una orden ejecutiva que da prioridad a las empresas y productos estadunidenses en los contratos con el gobierno federal"
 image: "/uploads/2021/images-2518083.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ordena Biden dar prioridad al 'made in USA'"
 front: false
 section: "Internacional"
-news_id: 182427
+redirect_from: /news/182427
 ---
 
 El presidente de Estados Unidos, Joe Biden, firmará este lunes una orden ejecutiva que da prioridad a las empresas y productos estadunidenses en los contratos con el gobierno federal, pese al riesgo de crispar con ello a socios comerciales como Canadá, anunciaron los responsables de la nueva administración.

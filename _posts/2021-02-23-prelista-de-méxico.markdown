@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Nueve jugadores de Chivas comandan la convocatoria de Jaime Lozano, incluido Alexis Vega. Efraín Álvarez del Galaxy es llamado"
 image: "/uploads/2021/images-2534285.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prelista de México para el Preolímpico"
 front: false
 section: "Deportes"
-news_id: 183103
+redirect_from: /news/183103
 ---
 
 La Federación Mexicana de Futbol dio a conocer la prelista de 50 jugadores de la Selección Mexicana Sub 23 que comanda Jaime Lozano, de cara a la participación del combinado juvenil en el Torneo Preolímpico del 18 al 30 de marzo en Guadalajara, Jalisco.

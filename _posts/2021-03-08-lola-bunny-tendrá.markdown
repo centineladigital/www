@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Es importante reflejar la autenticidad de personajes femeninos fuertes y capaces, señaló el director de esta secuela que tendrá a LeBron James como protagonista. "
 image: "/uploads/2021/images-dibujantes-crearon-lola-bunny-objetivo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Lola Bunny' tendrá un aspecto menos sexualizado en 'Space Jam 2'; reaccionan en redes"
 front: false
 section: "Espectáculos"
-news_id: 183334
+redirect_from: /news/183334
 ---
 
  Space Jam: A New Legacy, la secuela de la cinta de 1996 que tuvo como protagonista a Michael Jordan, tendrá su estreno el próximo 16 de julio con otro basquetbolista como personaje principal: LeBron James.  Ante esto, varios detalles se han ido revelando y filtrando sobre la producción, siendo el nuevo aspecto de Lola Bunny el que más ha llamado la atención; esto debido a que el personaje de los Looney Tunes que se presenta como la acompañante de Bugs Bunny lucirá menos sexualizada. 

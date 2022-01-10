@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente López Obrador garantizó que se cuenta con las dosis suficientes para aplicar la vacuna de refuerzo a toda la población, “ya vieron lo comunista que somos”, dijo."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Después de adultos mayores habrá dosis de refuerzo para personal de salud y maestros -  AMLO"
 front: false
 section: "Nacional"
-news_id: 190824
+redirect_from: /news/190824
 ---
 
 El presidente Andrés Manuel López Obrador informó que al término de aplicación de la vacuna contra el Covid-19 de refuerzo para los mayores de 60 años y más se continuará con personal de salud y maestros.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Una vez concluida la jornada electoral se decidirá futuro de gobernador."
 image: "/uploads/2021/images-PACO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ02_PACO_NAVARRO.mp3"
 alt: "Pedirá PAN expulsión de Corral cuando terminen elecciones"
 front: false
 section: "Local"
-news_id: 184699
+redirect_from: /news/184699
 ---
 
 El dirigente municipal del Partido Acción Nacional señaló que se trabajará en la expulsión oficial del actual gobernador, esto ya que ha expresado un apoyo al candidato de Morena. Francisco Navarro Pastrana fue cuestionado respecto, destacando que el tema ya se encuentra en siendo estudiado a nivel nacional.

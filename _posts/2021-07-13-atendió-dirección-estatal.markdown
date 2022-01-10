@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se expidieron 29 mil 381 registros estatales, 5 mil 697 permisos provisionales, mil 162 autorizaciones de pasante, 364 cartas de no inhabilitación, y mil 269 validaciones fuera del Estado de Chihuahua.  "
 image: "/uploads/2021/images-Equipo_2.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atendió Dirección Estatal de Profesiones  a más de 36 mil usuarias y usuarios en Chihuahua y Juárez"
 front: false
 section: "Local"
-news_id: 185618
+redirect_from: /news/185618
 ---
 
 Durante el programa Logros con Valor, el secretario de Educación y Deporte, Carlos González, dio a conocer que en la actual administración estatal, a través de la Dirección Estatal de Profesiones, se brindó servicio a 36 mil 240 usuarias y usuarios en los municipios de Chihuahua y Ciudad Juárez.

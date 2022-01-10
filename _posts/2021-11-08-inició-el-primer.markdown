@@ -16,11 +16,11 @@ author: nil
 description: "Esta nueva generación de policías estará más capacitada para poder elevar la competitividad del municipio"
 image: "/uploads/2021/images-unnamed.jpg"
 video: "/uploads/2021/videos-BL03_MARCO_Y_SALAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "Inició el primer instituto superior de seguridad Chihuahua "
 front: false
 section: "Local"
-news_id: 189666
+redirect_from: /news/189666
 ---
 
 En las instalaciones de la anterior academia de policía se inauguró el primer Instituto Superior de Seguridad Chihuahua (ISSCUU), el cual da una atractiva oferta de carreras universitarias  como licenciatura en alta dirección, tecnología policial y administración de emergencias.

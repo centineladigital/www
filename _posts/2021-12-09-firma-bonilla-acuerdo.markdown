@@ -22,11 +22,11 @@ author: nil
 description: "“Esta firma de convenio trata de hacer conciencia en la población específicamente en los hombres”"
 image: "/uploads/2021/images-index.jpg"
 video: "/uploads/2021/videos-_BJ02_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Firma Bonilla acuerdo para espacios libres de violencia de género"
 front: false
 section: "Local"
-news_id: 190686
+redirect_from: /news/190686
 ---
 
 El alcalde Marco Bonilla encabezó la firma del acuerdo del funcionariado municipal para el fortalecimiento de los espacios libres de violencia de género el cual tiene contemplado 16 dias de activismo contra la violencia hacia las mujeres.

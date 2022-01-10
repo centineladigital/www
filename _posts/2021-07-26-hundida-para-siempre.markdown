@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista para Faisy Nights, Dalilah Polanco lanzó fuertes revelaciones sobre su trayectoria como actriz de telenovelas e incluso su incursión en la comedia, específicamente con la serie de televisión La Familia P. Luche de Eugenio Derbez. "
 image: "/uploads/2021/images-dalilah-polanco-revela-afecto-carrera.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hundida para siempre -  Dalilah Polanco revela cómo le afectó trabajar en 'La Familia P. Luche'"
 front: false
 section: "Espectáculos"
-news_id: 185992
+redirect_from: /news/185992
 ---
 
 Dalilah Polanco, actriz y conductora de televisión, hizo fuertes revelaciones sobre su trayectoria en la vida pública y su participación en el programa La Familia P. Luche –en donde dio vida al personaje de Martina –. ¿No le gustó trabajar con Eugenio Derbez? ¿Hubiera preferido no estar en la producción televisiva de este programa? En entrevista para Faisy Nights la famosa reconoció que haber participado en La Familia P. Luche afectó su carrera. Te contamos lo que dijo la famosa. 

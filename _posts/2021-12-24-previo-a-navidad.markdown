@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "De acuerdo con la base de datos GISAID, los casos se concentran en tres estados; sin embargo, se ha reportado la presencia de la variante en tres más. "
 image: "/uploads/2021/images-casos-covid-variante-omicron-concentran_0_0_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Previo a Navidad, México reporta 41 casos de variante ómicron"
 front: false
 section: "Nacional"
-news_id: 191189
+redirect_from: /news/191189
 ---
 
 En México hay 41 casos de coronavirus covid-19 con la variante ómicron, los cuales se concentran en tres estados, de acuerdo con la base de datos de la iniciativa GISAID; sin embargo, autoridades de Salud federales y locales han detectado más en otros tres estados. 

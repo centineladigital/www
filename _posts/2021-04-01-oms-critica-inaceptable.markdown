@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De los 2,8 millones de muertos registrados en el mundo desde diciembre de 2019, Europa suma el mayor número con unos 958 mil decesos"
 image: "/uploads/2021/images-2555320.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "OMS critica inaceptable lentitud de vacunación en Europa"
 front: false
 section: "Internacional"
-news_id: 183643
+redirect_from: /news/183643
 ---
 
 La Organización Mundial de la Salud (OMS) criticó el jueves la "inaceptable" lentitud en la vacunación en Europa, en un momento en que la pandemia de covid-19 también se agrava en América Latina, sobre todo en Brasil, que registró en marzo su mes más letal.

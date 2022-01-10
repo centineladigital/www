@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La conductora de 'Hoy' pensaba que la nueva película del cineasta mexicano estaba ambientada en Roma, Italia. "
 image: "/uploads/2021/images-galilea-montijo-y-su-error.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Y por qué se llama 'Roma' entonces? -  El día que Galilea Montijo pensó que la película de Cuarón hablaba de Italia"
 front: false
 section: "Espectáculos"
-news_id: 190495
+redirect_from: /news/190495
 ---
 
 Galilea Montijo es, sin duda alguna, una de las celebridades más populares de la televisión mexicana debido a su singular carisma; sin embargo, la conductora ha estado en el centro de la polémica luego de ser señalada por, supuestamente, tener nexos con el crimen organizado y poseer recursos de procedencia ilícita. Por lo cuál, muchos de sus momentos más graciosos han salido a la luz, como la vez que pensó que la película 'Roma' protagonizada por Yalitza Aparicio ocurría en Italia. Y es que luego del avasallador éxito que tuvo en el Festival de Cine de Venecia, distintos espacios informativos se sumaron al furor por Roma, la película del mexicano Alfonso Cuarón, y fue entonces cuando la conductora quiso expresar su entusiasmo por el filme en el programa Hoy y cometió un error que no pasó desapercibido en redes sociales. 

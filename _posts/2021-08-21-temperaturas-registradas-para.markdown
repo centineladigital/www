@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Fin de semana caluroso para Chihuahua, probabilidad de lluvias fuertes  "
 image: "/uploads/2021/images-9CXLT12uJSrPOiBz.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Temperaturas registradas para este fin de semana"
 front: false
 section: "Local"
-news_id: 186982
+redirect_from: /news/186982
 ---
 
 Las temperaturas registradas en la Entidad son (°C máx/min): Chihuahua 32.1/17, Juárez 33.3/23.3, Ahumada 33/21.6, Janos 32/16.3, Nuevo Casas Grandes 31.6/18.2, Madera 26.2/13.1, Temósachic 30.5/13.2, Cuauhtémoc 26.7/14.4, Majalca 26/12.8, Ojinaga 35.9/24.2, Delicias 35.7/20.4, Camargo 32.9/20.5, Jiménez 32.4/16.8, Parral 27.2/15.9, Balleza 30.8/16.7, Creel 25.1/11.9, Maguarichi 28.9/18.7, Chínipas 36.2/23.2, Urique 34.8/22.6, Guachochi 25/12, Chinatú 27.6/13.6, El Vergel 21.8/6.6. 

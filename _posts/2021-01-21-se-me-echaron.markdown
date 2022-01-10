@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pepillo Origel reveló que recibió una llamada de uno de los hijos del cantante para desmentir que 'Vicente Fernández' sí se vacunó contra covid-19; se negó y así se defendió. "
 image: "/uploads/2021/images-pepillo-origel-defiende-dinastia-fernandez.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se me echaron encima -  Pepillo Origel se defiende y reitera que Vicente Fernández sí se vacunó"
 front: false
 section: "Espectáculos"
-news_id: 182326
+redirect_from: /news/182326
 ---
 
 Vicente Fernández, mejor conocido como Don Chente, no para en cuanto a polémicas, pues recién se dio a conocer que acosó a una joven que le pidió una fotografía y semanas antes que se había vacunado contra el covid-19 junto a Alejandro Fernández y su otro hijo Gerardo. Ante este panorama, de nueva cuenta su nombre arde, pues Pepillo Origel reiteró que el cantante de Estos Celos sí se vacunó y que por haberlo comunicado se le echaron ‘todos’ encima. ¿Qué fue lo que pasó? Aquí te contamos. 

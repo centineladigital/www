@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Chepina Peralta fue una de las mujeres más reconocidas por su pasión por la comida mexicana, falleció a los 90 años"
 image: "/uploads/2021/images-2556423.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Muere Chepina Peralta, la cocina mexicana está de luto"
 front: false
 section: "Espectáculos"
-news_id: 183664
+redirect_from: /news/183664
 ---
 
 Lucía Josefina Sánchez Quintanar mejor conocida como Chepina Peralta falleció este sábado a los 90 años, una de las mujeres más reconocidas por sus aportes a la cocina mexicana.

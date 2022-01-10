@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Homenajean a personal de Apoyo y Asistencia a la Educación con antigüedad laboral entre 30 y 50 años de servicio   "
 image: "/uploads/2021/images-unnamed_(9).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconoce SEECH trayectoria de hasta 50 años a personal de apoyo a la educación"
 front: false
 section: "Local"
-news_id: 191013
+redirect_from: /news/191013
 ---
 
 En reconocimiento a sus labores en apoyo a las actividades educativas en favor de docentes y estudiantes del estado, Servicios Educativos del Estado de Chihuahua (SEECH) entregó diplomas y relojes conmemorativos a personal de Apoyo y Asistencia a la Educación, por su trayectoria de 30 a 50 años de servicio.

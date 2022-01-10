@@ -10,11 +10,11 @@ author: nil
 description: "Lo cita Congreso para este martes."
 image: "/uploads/2021/images-FIERRO.jpg"
 video: "/uploads/2021/videos-ML03_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Esperan ratificación de Fiscal el martes"
 front: false
 section: "Local"
-news_id: 187886
+redirect_from: /news/187886
 ---
 
 Roberto Fierro Duarte pudiera ser ratificado este martes, según las mismas declaraciones del mismo funcionario estatal. Por lo que dentro de la sesión pudiera llevarse a cabo la protesta ante el pleno del Congreso del Estado.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Enrique Medrano, representante del gremio gasero nacional, dijo a MILENIO que suspenderán actividades alrededor de 10 mil personas; se manifestarán frente a la Sener a las 13:00 horas. "
 image: "/uploads/2021/images-entro-paro-indefinido-junta-extraordinaria_0_53_1199_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gaseros de CdMx y estados anuncian paro nacional indefinido desde mañana"
 front: false
 section: "Nacional"
-news_id: 188570
+redirect_from: /news/188570
 ---
 
 Grupos gaseros de la Ciudad de México, Zona Metropolitana del Valle de México (ZMVM ) y algunos estado del país realizarán un paro “indefinido” de actividades a partir del lunes 11 de octubre, argumentando que el gobierno federal no ha cumplido con los compromisos adquiridos, entre los que destaca la falta de apoyo en el subsidio del gas. 

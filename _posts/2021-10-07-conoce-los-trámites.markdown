@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Algunos pueden solicitarse a través de la Plataforma Experta   "
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conoce los trámites más solicitados en la Dirección de Desarrollo Urbano y Ecología"
 front: false
 section: "Local"
-news_id: 188482
+redirect_from: /news/188482
 ---
 
 El Gobierno Municipal de Chihuahua a través de la Dirección de Desarrollo Urbano y Ecología informa sobre todos los trámites y denuncias que pueden realizar los chihuahuenses en dicha dependencia, además de conocer cuales servicios puedes tramitar por medio de la Plataforma Experta desde la comodidad de tu hogar.

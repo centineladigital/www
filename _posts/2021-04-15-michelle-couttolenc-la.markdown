@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Acaba de llevarse el Bafta con el equipo de sonidistas por 'Sound of Metal'; si gana el premio de la Academia, será la cuarta mujer mexicana en ganar uno. "
 image: "/uploads/2021/images-jaime-baksht-carlos-cortes-estaran.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Michelle Couttolenc, la ingeniera de audio mexicana que va por un Oscar"
 front: false
 section: "Espectáculos"
-news_id: 183912
+redirect_from: /news/183912
 ---
 
 Ser la primera mujer mexicana que este año recibió una nominación al Oscar en la categoría de Mejor Sonido es “un honor, pero también una responsabilidad”, dice Michelle Couttolenc, la ingeniera de audio que junto a Jaime Baksht y Carlos Cortés buscarán la estatuilla dorada el próximo 25 de abril por su trabajo en la película de Amazon Prime, Sound of Metal. “Me siento honrada, pero también siento una enorme responsabilidad, es cierto que cada vez somos más, creo que debió llegar antes para muchas mujeres. Este año es especial porque hay muchas primeras veces de mujeres nominadas; eso es histórico y creo que marcará una tendencia en los próximos años”, dijo Michelle a M2. 

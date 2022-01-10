@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Le agradecen por su apoyo, tenacidad y perseverancia, y por poner muy en alto el papel de las de las mujeres"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconocen Las Adelitas a Maru Campos por el acuerdo de La Boquilla"
 front: false
 section: "Local"
-news_id: 189186
+redirect_from: /news/189186
 ---
 
 Integrantes de la asociación civil Adelitas, reconoció a la gobernadora Maru Campos Galván, por su apoyo, tenacidad y perseverancia, que se verán reflejadas en un desarrollo integral para el estado de Chihuahua.

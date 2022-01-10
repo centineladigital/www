@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La obra se encontraba suspendida y cuenta con una inversión de 154 millones de pesos y beneficiará a 150 mil delicienses   "
 image: "/uploads/2021/images-unnamed_(24).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Da seguimiento Gobierno del Estado a la construcción de la Planta Tratadora de Aguas Residuales Norte en Delicias"
 front: false
 section: "Local"
-news_id: 190283
+redirect_from: /news/190283
 ---
 
 El Gobierno del Estado a través del personal de la Junta Central de Agua y Saneamiento (JMAS), sostuvo un diálogo con miembros de la Junta Municipal de Agua y Saneamiento de Delicias y con contratistas quienes llevan a cabo el proyecto de Planta Tratadora de Aguas Residuales Norte (PTAR), la cual se encontraba suspendida desde la administración estatal anterior y que fue reactivada por el Gobierno encabezado por la gobernadora Maru Campos Galván.

@@ -10,11 +10,11 @@ author: nil
 description: "Multas entre 180 y 880 pesos por aforo y falta de cubrebocas."
 image: "/uploads/2021/images-ED1.jpg"
 video: "/uploads/2021/videos-ML05_EDUARDO_FERNANDEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Sancionarán a chóferes que permitan sobrecupo en camiones"
 front: false
 section: "Local"
-news_id: 188872
+redirect_from: /news/188872
 ---
 
 Sanciones económicas a chóferes que no respeten aforo en las unidades es lo que se anunció por parte de la autoridad estatal. Eduardo Fernández, Director de transporte del Estado, señaló que de forma ordinaria se aplican sanciones por puntos como el no uso de cubrebocas, tanto de pasajeros como choferes, distancia e higiene.

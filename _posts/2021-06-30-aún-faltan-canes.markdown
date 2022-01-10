@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Testigos identifican a canes que agredieron a personas en colonia Romanza."
 image: "/uploads/2021/images-PENICHE2.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW05.mp3"
 alt: "Aún faltan canes de asegurar tras ataque"
 front: false
 section: "Local"
-news_id: 185316
+redirect_from: /news/185316
 ---
 
 El fiscal general del Estado, César Augusto Peniche Espejel, informó que tras el aseguramiento de canes que atacaron a una persona, la cual perdió la vida, continúa con la búsqueda de más animales para su captura.

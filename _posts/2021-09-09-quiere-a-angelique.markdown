@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante señaló que quieren que muestren a esa Alicia Villareal que ustedes conocen; no quiero que digan 'Pobrecita', porque de pobrecita no tengo nada. "
 image: "/uploads/2021/images-villareal.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Quiere a Angelique Boyer de protagonista! Alicia Villareal revela detalles de su bioserie"
 front: false
 section: "Espectáculos"
-news_id: 187573
+redirect_from: /news/187573
 ---
 
 La cantante Alicia Villareal está preparando su próximo gran proyecto: una serie sobre su vida que abordará desde sus comienzos musicales con el Grupo Límite hasta su actualidad como solista, sin dejar de lado las polémicas personales que ha atravesado; en entrevista con Sale el sol, la intérprete del tema "Te aprovechas" contó que para este proyecto le gustaría ser interpretada por Angelique Boyer.  

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Entregarán informe de manera virtual por motivo de pandemia."
 image: "/uploads/2021/images-PABLO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM06_PABLO_GONZALEZ.mp3"
 alt: "Determinan entrega de informe de STJ"
 front: false
 section: "Local"
-news_id: 183114
+redirect_from: /news/183114
 ---
 
 Este martes fue aprobada de forma oficial la entregará informe anual del Poder Judicial informe de actividades 2019 -2020, según lo fue dado a conocer por parte del Magistrado Presidente, Pablo Héctor González Villalobos. El cual fue determinado para 24 de febrero de 2021 a las 8:00 horas, destacando que solamente fue la entrega por escrito esto por la pandemia.

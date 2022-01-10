@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En conjunto, Estado y Municipio fortalecen el vínculo de atención con la ciudadanía"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca programa “Juntos Trabajamos por Chihuahua” en la colonia Los Olivos"
 front: false
 section: "Local"
-news_id: 188729
+redirect_from: /news/188729
 ---
 
 El Gobierno del Estado y el Gobierno Municipal de Chihuahua, ayer por la tarde, dieron inicio al primer evento del programa “Juntos Trabajamos por Chihuahua”, en la colonia Los Olivos, al norte de la ciudad, en el cual se brindó atención a 293 personas.

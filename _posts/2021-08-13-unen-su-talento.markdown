@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dua Lipa y Elton John sorprendieron a sus fans al lanzar su nueva canción Cold Heart, de la cual ya se estrenó el video. "
 image: "/uploads/2021/images-dua_y_elton.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Unen su talento! Dua Lipa y Elton John lanzan la canción 'Cold Heart'"
 front: false
 section: "Espectáculos"
-news_id: 186682
+redirect_from: /news/186682
 ---
 
 Los artistas británicos Elton John y Dua Lipa han unido sus voces en un nuevo tema que sale este viernes al mercado con el título "Cold Heart (PNAU Remix)", una canción para "llenar las pistas de baile" este verano, anunció la discográfica EMI. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El 86% de las y los menores atendidos, se reintegraron a sus hogares de origen, en hogares de familia extensa, de acogimiento familiar temporal, de acogimiento preadoptivo o liberados para su adopción."
 image: "/uploads/2021/images-IMG_1557_copia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Restituyó Chihuahua derechos de niñas, niños y adolescentes  bajo tutela del Estado"
 front: false
 section: "Local"
-news_id: 185677
+redirect_from: /news/185677
 ---
 
 “En el DIF Estatal el común denominador, el más importante de todos, es la restitución de derechos”, expresó la presidenta del DIF Estatal Cinthia Aideé Chavira de Corral, e indicó que por el alcance que tienen sus acciones, destaca la acción de la Procuraduría de Protección de Niñas, Niños y Adolescentes.

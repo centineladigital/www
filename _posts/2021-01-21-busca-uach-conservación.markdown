@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Chihuahua cuenta con 10 especies endémicas."
 image: "/uploads/2021/images-ARD1.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04_JESUS_FERNANDEZ.mp3"
 alt: "Busca UACH conservación de ardillas en el campus 1"
 front: false
 section: "Local"
-news_id: 182346
+redirect_from: /news/182346
 ---
 
 Debido a que el 21 de enero, se conmemora el Día Mundial de la Ardilla, se busca por parte de docentes de la Facultad de Zootecnia y Ecología de la Universidad Autónoma de Chihuahua, el fomentar el cuidado y protección de ardillas en la zona del campus 1 y de la Ciudad Deportiva.

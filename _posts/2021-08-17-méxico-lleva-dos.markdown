@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El subsecretario de Prevención y Promoción de la Salud dijo que si la tendencia continúa, el declive de la tercera ola de covid-19 se estará mostrando en 15 días"
 image: "/uploads/2021/images-hugo-lopez-gatell-hoy-de_0_17_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México lleva dos semanas con reducción de casos de covid-19, afirma López-Gatell"
 front: false
 section: "Nacional"
-news_id: 186757
+redirect_from: /news/186757
 ---
 
 El subsecretario de Prevención y Promoción de la Salud, Hugo López-Gatell, informó que México lleva dos semanas con reducción de casos covid-19 y las autoridades esperan que esta tendencia continúe y represente el declive de la tercera ola de coronavirus. 

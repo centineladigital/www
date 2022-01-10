@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El órgano será el encargado de vigilar el proceso que se extenderá por 15 sedes en 14 municipios, durante los meses de octubre y noviembre"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Formaliza COEPI órgano garante para el proceso de Consulta Indígena del Plan Estatal de Desarrollo 2022-2027"
 front: false
 section: "Local"
-news_id: 188766
+redirect_from: /news/188766
 ---
 
 El Gobierno del Estado, a través de la Comisión Estatal para los Pueblos Indígenas (COEPI) en colaboración con el Congreso del Estado de Chihuahua; el Instituto Estatal Electoral; la Comisión Estatal de Derechos Humanos (CEDH) y la Delegación Estatal del Instituto Nacional de Antropología e Historia (INAH); firmaron la formalización del Órgano Garante para el Proceso de Consulta Indígena del Plan Estatal de Desarrollo 2022-2027 y el Programa Sectorial.

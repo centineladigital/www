@@ -10,11 +10,11 @@ author: nil
 description: "Esta aplicación te da a conocer procedencia de las botellas."
 image: "/uploads/2021/images-IVAN.jpg"
 video: "/uploads/2021/videos-MV04_IVAN_TORRES.mp4"
-audio: "nil"
+audio: nil
 alt: "Exhorta COESPRIS a usar aplicación contra bebidas adulteradas"
 front: false
 section: "Local"
-news_id: 191206
+redirect_from: /news/191206
 ---
 
 Con el fin de que las personas que consumen bebidas alcohólicas no sean víctimas de la venta de bebidas adulteradas, el coordinador general de la COESPRIS, Alejandro Iván Torres Santiesteban, invitó a la población a utilizar una aplicación la cual dirá la procedencia y registro de la botella que se está consumiendo. 

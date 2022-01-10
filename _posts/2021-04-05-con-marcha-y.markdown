@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los manifestantes piden una fecha para ser inmunizados para no seguir arriesgando a su familia y colegas"
 image: "/uploads/2021/images-heroesvacunados.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con marcha y bloqueo en Tlalpan médicos privados exigen ser vacunados"
 front: false
 section: "Nacional"
-news_id: 183689
+redirect_from: /news/183689
 ---
 
 Médicos, paramédicos, dentistas y enfermeras de instituciones privadas bloquean este lunes ambos sentidos de la Calzada de Tlalpan a la altura de Anillo de Circunvalación.

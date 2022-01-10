@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Género se definiría a la par de las designaciones que realice el PAN Estatal"
 image: "/uploads/2021/images-WhatsApp_Image_2021-01-15_at_8.41.54_AM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se apuntan mujeres del PAN de Cuauhtémoc para candidaturas"
 front: false
 section: "Local"
-news_id: 182155
+redirect_from: /news/182155
 ---
 
 Boni Ordóñez, exsíndica; Verónica Escalante, exdirectora de Fomento Económico; y Cecilia González, regidora; han levantado la mano para las candidaturas a la Diputación local y la Sindicatura, por Acción Nacional, sin embargo al parecer sólo esa última tiene posibilidades de ser del género femenino.

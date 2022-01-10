@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un estudio del Instituto Belisario Domínguez del Senado alerta que, sin inmunización rápida, el Producto Interno Bruto (PIB) seguirá en números rojos"
 image: "/uploads/2021/images-2521064.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Retraso en vacunación afectará recuperación económica -  IBD del Senado"
 front: false
 section: "Nacional"
-news_id: 182588
+redirect_from: /news/182588
 ---
 
 El retraso en la aplicación de la vacuna anti-covid afectará la recuperación económica, alertó el Instituto Belisario Domínguez (IBD) del Senado en el Análisis del Paquete Económico Aprobado para el ejercicio fiscal 2021, presentado a los legisladores este fin de semana.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Uno de los más grandes éxitos de The Beatles es Hey, Jude!, una canción que fue escrita por Paul McCartney para alguien muy especial. "
 image: "/uploads/2021/images-la-cancion-fue-escrita-en_0_28_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Fue para su hijo? La historia de 'Hey Jude!', canción de The Beatles que compuso Paul McCartney"
 front: false
 section: "Espectáculos"
-news_id: 185106
+redirect_from: /news/185106
 ---
 
 The Beatles es considerada una de las bandas más importantes y a pesar de que su separación sucedió hace 50 años, su legado musical sigue presente. A lo largo de su trayectoria crearon diversos temas que algunos consideran unos himnos, entre ellos la canción “Hey Jude!”, la cual fue compuesta por Paul McCartney. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El curso fue dirigido a agentes del Ministerio Público y facilitadores del CEMASC de Chihuahua, Juárez, Cuauhtémoc, Parral, Ojinaga, Camargo, Delicias y Guachochi"
 image: "/uploads/2021/images-6.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacita Fiscalía General del Estado a su personal en materia de procesos restaurativos"
 front: false
 section: "Local"
-news_id: 189704
+redirect_from: /news/189704
 ---
 
 Con el objetivo de fortalecer las actividades realizadas por el Centro de Mecanismos Alternativos (CEMASC) de la Fiscalía General de Estado, se impartió un taller a facilitadores y agentes del Ministerio Público en materia de prácticas restaurativas.

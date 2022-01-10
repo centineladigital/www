@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue en el año 2011 cuando Biby Gaytan y Eduardo Capetillo protagonizaron uno de los momentos más incómodos y machistas de la televisión mexicana. Por ello, la pareja terminó sin empleo en TV Azteca. "
 image: "/uploads/2021/images-biby-gaytan-eduardo-capetillo-humillaron.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mi esposo -  La vez que Biby Gaytan y Capetillo humillaron a integrante de 'La Academia'; episodio machista de la TV mexicana"
 front: false
 section: "Espectáculos"
-news_id: 190198
+redirect_from: /news/190198
 ---
 
 La Academia, programa de TV Azteca, ha sido uno de los más exitosos de la televisión mexicana. Sin embargo, en éste se hicieron visibles varias polémicas que trascendieron a tal punto de lo inadmisible. Tal fue la vez que Biby Gaytan y Eduardo Capetillo humillaron en vivo –y en plena cadena nacional– a una de las participantes del reality show por presuntamente estar enamorada del actor Capetillo. El incidente fue severamente criticado, ocasionando que los sacaran de la empresa. Te contamos cómo se vivió este polémico momento en el que involucraron a la participante Yanilén Díaz. Fue en el año 2011 cuando Biby Gaytan y Eduardo Capetillo protagonizaron uno de los momentos más incómodos y machistas de la televisión mexicana. Y es que en plena emisión en vivo del entonces exitoso programa ‘La Academia’, los famosos humillaron a una de las concursantes. 

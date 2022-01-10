@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La tercera serie de Marvel en Disney Plus se estrenará el 11 de junio en la plataforma. "
 image: "/uploads/2021/images-loki-se-estrenara-en-junio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Inicia la cuenta regresiva! 'Loki' estrena tráiler; fans de Marvel reaccionan"
 front: false
 section: "Espectáculos"
-news_id: 183685
+redirect_from: /news/183685
 ---
 
 Loki, el Dios del Engaño, es uno de los estrenos más esperados por los fanáticos de los superhéroes; pero aunque el desembarco de este personaje en la plataforma de Disney Plus será hasta junio de este año, hoy, el Universo Cinematográfico de Marvel reveló el tráiler de la serie. 

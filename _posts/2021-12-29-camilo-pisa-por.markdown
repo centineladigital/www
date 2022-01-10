@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Camilo deleitó a sus fans con un concierto en el Auditorio Nacional, recinto en el que se presentó por primera vez. "
 image: "/uploads/2021/images-camilo-dara-otro-concierto-este.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Camilo pisa por primera vez el Auditorio Nacional y cumple un sueño más"
 front: false
 section: "Espectáculos"
-news_id: 191305
+redirect_from: /news/191305
 ---
 
 Camilo cumplió uno de sus más grandes sueños que tenía desde hace muchos años atrás, presentarse en el Auditorio Nacional. Ofreció un concierto como parte de su gira “Mis Manos Tour” este martes el primero de sus dos fechas programadas en México así que comenzó el show con un video que se proyectó en las pantallas mencionando “Si ustedes están aquí, no están solos son parte de la Tribu”, lo que generó los gritos del público. Con un traje blanco salió al escenario e interpretó su primera canción “Favorito” ante las diez mil personas que lograron el sold out de Camilo, después llegó otro de sus éxitos “Tutu” y al finalizar agradeció a todo México por hacer realidad sus sueños. 

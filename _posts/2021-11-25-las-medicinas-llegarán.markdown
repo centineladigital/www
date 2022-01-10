@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente López Obrador dijo que su administración firmó un contrato con empresas para distribuir los medicamentos, pero “no sé si por ineficiencia o mala fe” no se distribuyeron"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Las medicinas llegarán hasta los pueblos más apartados o me dejo de llamar Andrés Manuel -  AMLO"
 front: false
 section: "Nacional"
-news_id: 190187
+redirect_from: /news/190187
 ---
 
 El presidente Andrés Manuel López Obrador anunció que el lunes sostendrá una reunión con su gabinete para resolver el problema del desabasto de medicamentos en donde adelantó que participará todo el gobierno federal y garantizó que los medicamentos llegarán a los pueblos más apartados “o me dejo de llamar Andrés Manuel”.

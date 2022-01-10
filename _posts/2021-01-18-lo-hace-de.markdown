@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Eduardo Yáñez volvió a tener un altercado con la prensa. Te contamos los detalles. "
 image: "/uploads/2021/images-eduardo-yanez-confiesa-sufrio-depresion_10_51_720_447.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Lo hace de nuevo! Eduardo Yáñez explota contra reportero de 'Venga La Alegría'"
 front: false
 section: "Espectáculos"
-news_id: 182215
+redirect_from: /news/182215
 ---
 
 Eduardo Yáñez volvió a protagonizar una situación tensa con la prensa. El incidente ocurrió en el Aeropuerto Internacional de la Ciudad de México y lo que provocó su enojo fue una pregunta basada en un rumor en torno a una nueva telenovela de Televisa. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El huracán se intensificó durante su paso al este de las Antillas Menores; sin embargo, hasta el momento no representa ningún riesgo para la población, aunque se pronostica que el fin de semana aumente intensidad"
 image: "/uploads/2021/images-preve-larry-convierta-huracan-categoria.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Larry' se convierte en huracán categoría 2; prevén que aumente intensidad"
 front: false
 section: "Internacional"
-news_id: 187422
+redirect_from: /news/187422
 ---
 
 El huracán Larry aumentó a categoría 2, al subir sus vientos máximos sostenidos a 100 mph (155 km/h) al este de las Antillas Menores y se pronostica que aumente su intensidad y sea de mayor categoría durante este fin de semana. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: " A la fecha la Secretaría de Salud reporta 5 mil 664 decesos  y 58 mil 594 casos, de ellos 29 mil 806 son hombres y 28 mil 788 son mujeres"
 image: "/uploads/2021/images-Diapositiva3.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se contagian 198 personas y 8 más fallecen por COVID-19 en el estado"
 front: false
 section: "Local"
-news_id: 183629
+redirect_from: /news/183629
 ---
 
 La Secretaría de Salud dio a conocer que en las últimas 24 horas se confirmaron en la entidad 198 nuevos contagios por SARS-CoV-2 y 8 fallecimientos más, de los cuales 3 corresponden a Juárez, 2 a Delicias y uno a cada uno de los municipios de Chihuahua, Guerrero y Aldama.

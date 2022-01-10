@@ -7,12 +7,12 @@ tags:
 author: nil
 description: ""
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_12.55.26.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Respetará Gobierno libertad de expresión y manifestación de las ideas -  Secretario de Gobierno  "
 front: false
 section: "Local"
-news_id: 188147
+redirect_from: /news/188147
 ---
 
 El secretario general de Gobierno, César Jáuregui Moreno, afirmó que el Gobierno del Estado será total y absolutamente respetuoso de las manifestaciones de los colectivos de mujeres y de cualquier otra que exista en la entidad.

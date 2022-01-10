@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal se llevará la basura de gran tamaño de ocho colonias más"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ubica aquí la colonia donde habrá programa de Destilichadero la próxima semana   "
 front: false
 section: "Local"
-news_id: 189845
+redirect_from: /news/189845
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos, llevará durante la semana del 16 al 19 de noviembre el programa de Destilichadero a las colonias Riberas de Sacramaneto, Campesina Nueva, Peña Blanca, Alfredo Chávez, Ramón Reyes, Santa Rosa, Pablo amaya norte y Pablo Amaya sur.

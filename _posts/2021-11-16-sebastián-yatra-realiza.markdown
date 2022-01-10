@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante colombiano sorprendió a sus fans mexicanos con un show en un centro comercial de Buenavista. "
 image: "/uploads/2021/images-flashmob-cantante-forum-buenavista-naomi.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sebastián Yatra realiza flashmob en la CdMx para presentar su canción 'Tacones Rojos'"
 front: false
 section: "Espectáculos"
-news_id: 189871
+redirect_from: /news/189871
 ---
 
 El colombiano Sebastián Yatra lanzó su más reciente sencillo “Tacones rojos” - que ha sido muy bien recibido por parte de los fans, pues el video ya tiene más de 15 millones de visualizaciones en YouTube - en el que habla del amor y está inspirado en artistas que admira y en alguien que pensó para componer una nueva canción, así lo dio a conocer en entrevista con M2. “Tacones rojos es parte de mi tercer álbum, así que de poco empezaré a revelar información, la canción nació como las otras que van a salir: de mi corazón de mis ideas locas, que a veces quedan bien al final, acompañado de grandes amigos y amigas talentosas; en esta canción en específico me junté con dos amigos españoles, Manuel Llorente y Lofti, también un guitarrista; nos fuimos a un estudio en Madrid, entraba la luz por la ventana, empecé a pensar en alguien y fluyó todo”, dijo previo a una sorpresa que tenía planeada para sus fanáticos, pues salió a cantar esta rola en un centro comercial de la Ciudad de México. 

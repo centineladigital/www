@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal invirtió más de medio millón de pesos en cinco zonas"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Iluminan comunidades rurales con alumbrado solar de tecnología LED"
 front: false
 section: "Local"
-news_id: 191310
+redirect_from: /news/191310
 ---
 
 Las comunidades de a Las Varas, El Sandillal de San Marcos, Huerachi, Soledad y Cumbres de Majalca, fueron beneficiadas con la instalación de las lámparas solares de tecnología LED, gracias a una inversión de 604 mil 400 pesos del Gobierno Municipal, a través de la Dirección de Desarrollo Rural (DDR).

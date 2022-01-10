@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Operó con empresas fantasmas para evadir impuestos en operaciones facturadas por mil 069 millones de pesos"
 image: "/uploads/2021/images-WhatsApp_Image_2021-01-14_at_8.36.27_AM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Red de corrupción del ex mandatario alcanzó a las instituciones de salud"
 front: false
 section: "Local"
-news_id: 182123
+redirect_from: /news/182123
 ---
 
 A través del Ichisal, Servicios de Salud y Pensiones Civiles del Estado, la red de corrupción del exgobernador operó con empresas fantasmas para evadir impuestos en operaciones facturadas por mil 069 millones de pesos.

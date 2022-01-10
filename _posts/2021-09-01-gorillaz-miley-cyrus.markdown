@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La leyenda del pop lanzará un álbum repleto de colaboraciones en donde nombres como Stevie Wonder y Dua Lipa participarán. "
 image: "/uploads/2021/images-elton-john-lanzara-disco-duetos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Gorillaz, Miley Cyrus, Eddie Vedder y más en el nuevo disco de Elton John!"
 front: false
 section: "Espectáculos"
-news_id: 187350
+redirect_from: /news/187350
 ---
 
 Las redes sociales se han llenado con tuits sobre Elton John y con mucha razón ya que el artista británico ha adelantado lo que será su próximo álbum que saldrá el próximo 22 de octubre, en donde ha reunido a muchas personalidades como Dua Lipa, Gorillaz, Eddie Vedder y Miley Cyrus. 

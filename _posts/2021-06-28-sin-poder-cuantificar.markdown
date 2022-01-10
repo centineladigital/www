@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se registra captación en todas las presas del Estado."
 image: "/uploads/2021/images-IBAÑEZ.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML03_OSCAR_IBAÑEZ.mp3"
 alt: "Sin poder cuantificar niveles de presas tras lluvias"
 front: false
 section: "Local"
-news_id: 185281
+redirect_from: /news/185281
 ---
 
 Aún no se puede cuantificar los niveles de las presas, señaló el titular de la Junta Central de Agua y Saneamiento, Oscar Ibañeza. Afiramando que las lluvias han beneficiado a presas como Las Vírgenes o Francisco I. Madero, así como La Boquilla

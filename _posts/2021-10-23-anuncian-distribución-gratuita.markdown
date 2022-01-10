@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Como parte del evento denominado “1 Km de libros”, el titular del Fondo de Cultura Económica, Paco Ignacio Taibo II, repartirá entre la población ejemplares de la serie “21 para el 21” en el primer cuadro de la capital"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncian distribución gratuita de libros en el Centro Histórico de Chihuahua"
 front: false
 section: "Local"
-news_id: 189123
+redirect_from: /news/189123
 ---
 
 La Secretaría de Cultura de Chihuahua en coordinación con el Fondo de Cultura Económica y el Instituto de Cultura del Municipio (ICM), invita al evento “1 Km de libros”, en el que se distribuirán de forma gratuita los ejemplares que componen la serie “21 para el 21”.

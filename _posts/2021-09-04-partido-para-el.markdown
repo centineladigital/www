@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los del Pedregal cayeron por 2-1 en el Nemesio Diez en un duelo que terminaron con nueve jugadores sobre el terreno de juego "
 image: "/uploads/2021/images-juan-ignacio-dinenno-lamento-derrota_0_53_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Partido para el olvido de Pumas; tres expulsados y derrota frente a Toluca"
 front: false
 section: "Deportes"
-news_id: 187432
+redirect_from: /news/187432
 ---
 
 Este domingo, Pumas se levantó con el pie izquierdo. A pesar de mostrar garra y espíritu al jugar con dos hombres menos debido a las expulsiones de Alan Mozo (14') y Ángel García (74'). 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Confirma Salud 5,941decesos en la pandemia;  se registran en las últimas horas 275 nuevos contagios, van 60 mil 906 personas enfermas de coronavirus, de ellas 30,920 son hombres y 29,986 mujeres "
 image: "/uploads/2021/images-Diapositiva3.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fallecen 51 personas más por COVID-19 en 14 municipios"
 front: false
 section: "Local"
-news_id: 183891
+redirect_from: /news/183891
 ---
 
 La Secretaría de Salud estatal informó que al 14 de abril se tienen en el estado de Chihuahua un total general de 60 mil 906 casos confirmados de COVID-19, con 275 nuevos contagios.

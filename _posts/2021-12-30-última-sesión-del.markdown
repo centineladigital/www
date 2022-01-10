@@ -16,11 +16,11 @@ author: nil
 description: "Las iniciativas se turnaron a 4 comisiones"
 image: "/uploads/2021/images-mC0eUv8tOHLMwdBS.jpeg"
 video: "/uploads/2021/videos-BJ02_GEO_BUJANDA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Última sesión del año la realiza la diputación permanente"
 front: false
 section: "Local"
-news_id: 191361
+redirect_from: /news/191361
 ---
 
 La diputación permanente del Congreso del estado de Chihuahua llevó a cabo la última sesión del año, en ella se turnó a la Comisión de Medio Ambiente, Ecología Y Desarrollo Sustentable, una iniciativa con carácter de decreto presentada por el diputado Omar Bazán Flores.

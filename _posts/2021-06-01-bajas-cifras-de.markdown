@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solo detectados 44 nuevos casos y una muerte."
 image: "/uploads/2021/images-índice.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM04_GUMARO_BARRIOS.mp3"
 alt: "Bajas cifras de casos COVID"
 front: false
 section: "Local"
-news_id: 184778
+redirect_from: /news/184778
 ---
 
 Solamente 44 personas dieron positivo a la prueba PCR y una sola muerte fue acreditada en las últimas 24 horas, según lo dio a conocer Gumaro Barrios Gallegos Subdirector de Epidemiología. Esto al dar a conocer la actualización de cifras con lo que se llega de 68 mil 326 personas que han dado positivo. 

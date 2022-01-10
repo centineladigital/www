@@ -16,11 +16,11 @@ author: nil
 description: "Serémos obligados a decidir sobre la vida de un ser indefenso"
 image: "/uploads/2021/images-JOSE_MEDRANO_NOTA_PALOMA_(1).JPG"
 video: "/uploads/2021/videos-BW05_JOSE_MEDRANO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Los diputados no defienden la vida -  José Medrano "
 front: false
 section: "Local"
-news_id: 188704
+redirect_from: /news/188704
 ---
 
 El líder del grupo unidos por las familias de Chihuahua José Medrano manifestó que los diputados del Congreso del Estado específicamente la bancada de morena no están defendiendo la vida puesto que están impidiendo que desde las constituciones locales pueda ser un derecho fundamental.

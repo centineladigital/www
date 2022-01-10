@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Este lunes 27 de septiembre iniciarán trabajos de modernización del crucero con avenida Pedro Zuloaga"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se cerrará carril sobre prolongación Teófilo Borunda a la altura del Parque El Reliz   "
 front: false
 section: "Local"
-news_id: 188043
+redirect_from: /news/188043
 ---
 
 El Gobierno Municipal a través de la Dirección de Obras Públicas informa a la ciudadanía que se realizará el cierre del carril izquierdo en la prolongación Teófilo Borunda, en sentido oriente a poniente, a la altura del parque El Reliz, por el inicio de los trabajos de modernización del crucero que se ubica con la avenida Pedro Zuloaga.

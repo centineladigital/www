@@ -10,11 +10,11 @@ author: nil
 description: "Se dará prioridad a las mejoras del sistema de transporte público."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MW01_MARU_CAMPOS.mp4"
-audio: "nil"
+audio: nil
 alt: "Descarta Gobernadora incremento en transporte"
 front: false
 section: "Local"
-news_id: 189269
+redirect_from: /news/189269
 ---
 
 El que se dé el incremento en las tarifas de transporte en breve fue descartado por parte de la Gobernadora de Chihuahua, María Eugenia Campos Galván, quien dijo que no se puede dar este paso si no se tiene mejora en el servicio.

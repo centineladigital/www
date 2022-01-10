@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto tras señalamientos de dirigente del PRI."
 image: "/uploads/2021/images-PACO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM07_.mp3"
 alt: "No se puede contabilizar votos del PRI -  Navarro"
 front: false
 section: "Local"
-news_id: 184931
+redirect_from: /news/184931
 ---
 
 Pese a que se dieron alianzas no es posible contabilizar los votos que pudieron ser del Partido Revolucionario Institucional para la gubernatura, señaló el dirigente del PAN Francisco Navarro Pastrana.

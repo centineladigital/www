@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ajustes presupuestales imposibilitan ampliar derechos políticos de ciudadanos, dice Córdova; ‘en riesgo, revocación de mandato’"
 image: "/uploads/2021/images-tras_recorte_de_casi_5_mil_mdp_ine_va_por_defensa_legal.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tras recorte de casi 5 mil mdp, INE va por defensa legal"
 front: false
 section: "Nacional"
-news_id: 189838
+redirect_from: /news/189838
 ---
 
 Ante la “incomprensión” de la mayoría en la Cámara de Diputados, que determinó recortar por cuarto año consecutivo el presupuesto del Instituto Nacional Electoral (INE), el consejero presidente del organismo, Lorenzo Córdova, anunció que la institución acudirá a las instancias legales para defender su derecho a contar con recursos suficientes para cumplir las tareas que tiene previstas en 2022, incluida la posible consulta de revocación de mandato, cuya realización, dijo, está en riesgo.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "También se detalló que la vacuna ya está registrada en 70 países con una población de más de 4 mil millones (la mitad de la población mundial)"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se han eliminado las barreras para que la OMS autorice la Sputnik V -  gobierno de Rusia"
 front: false
 section: "Internacional"
-news_id: 188315
+redirect_from: /news/188315
 ---
 
 El ministro de Salud de Rusia, Mikhail Murashko, declaró que se han eliminado todas las barreras para la autorización de la vacuna SputnikV por parte de la Organización Mundial de la Salud (OMS).

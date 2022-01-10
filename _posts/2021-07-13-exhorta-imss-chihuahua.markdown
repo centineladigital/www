@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Es rápido y sencillo; se realizan a través de la aplicación móvil, la página web de la institución o por teléfono."
 image: "/uploads/2021/images-Foto_2847-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta IMSS Chihuahua agendar citas médicas en las clínicas familiares a través del Sistema Digital"
 front: false
 section: "Local"
-news_id: 185595
+redirect_from: /news/185595
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) facilita a su derechohabiencia la posibilidad de agendar, consultar y cancelar sus citas médicas, sin necesidad de acudir a la Unidad de Medicina Familiar (UMF).

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Trascendió que elementos de la Guardia Nacional llegaron hasta una vivienda"
 image: "/uploads/2021/images-denunciancompradevotos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Denuncian compra de votos en Delicias"
 front: false
 section: "Local"
-news_id: 184880
+redirect_from: /news/184880
 ---
 
 El partido Movimiento Ciudadano denunció esta mañana la compra de votos en dos colonias ubicadas al sur de la ciudad, acción en la que presuntamente estarían involucrados los partidos Morena, PES y Fuerza por México.

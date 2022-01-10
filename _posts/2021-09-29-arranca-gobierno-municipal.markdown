@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Chihuahuenses dialogaron de frente con los funcionarios municipales"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca Gobierno Municipal primer “Miércoles Ciudadano” en la Plaza de Armas"
 front: false
 section: "Local"
-news_id: 188205
+redirect_from: /news/188205
 ---
 
 El presidente municipal de Chihuahua, Marco Antonio Bonilla Mendoza, dio inicio con el primer “Miércoles Ciudadano” que reunió a las y los directores de las dependencias municipales, así como regidores del Ayuntamiento para atender diversas peticiones y solicitudes ciudadanas.

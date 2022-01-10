@@ -10,11 +10,11 @@ author: nil
 description: "Se suman 100 elementos más a los recorridos de seguridad."
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-MV01_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Incrementan 50 por ciento presencia de policías en Juárez"
 front: false
 section: "Local"
-news_id: 188044
+redirect_from: /news/188044
 ---
 
 Un 50 por ciento de incremento es lo que se ha presentado en Ciudad Juárez, esto dentro de la actual administración según lo dio a conocer el Titular de la Secretaría de Seguridad Pública Gilberto Loya Chávez.

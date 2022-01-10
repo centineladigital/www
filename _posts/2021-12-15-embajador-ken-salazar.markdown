@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente López Obrador aseguró que Ken Salazar, embajador de Estados Unidos en México, está ayudando y quiere contribuir a que se busque una salida humanitaria al fenómeno migratorio"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Embajador Ken Salazar nos está apoyando con el problema migratorio -  AMLO"
 front: false
 section: "Nacional"
-news_id: 190868
+redirect_from: /news/190868
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que Ken Salazar, embajador de Estados Unidos en México, está ayudando y quiere contribuir a que se busque una salida humanitaria al fenómeno migratorio. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Aumentan las defensas, mantienen sano el sistema inmune y evitan que la mucosa del tracto respiratorio se inflame y permita el paso de virus o bacterias"
 image: "/uploads/2021/images-Foto_3696-1.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta IMSS Chihuahua a la población a consumir en esta temporada alimentos ricos en vitaminas A, C y E "
 front: false
 section: "Local"
-news_id: 191346
+redirect_from: /news/191346
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, exhorta a la población a consumir alimentos ricos en vitaminas A, C y E, contenidos en frutas, verduras y hortalizas, hígado, lácteos, trigo, cereales y vegetales de hoja verde, que previenen y reducen la duración de las gripes, aumentan la respuesta inmunológica y mantienen las barreras naturales (mucosas) contra las infecciones.

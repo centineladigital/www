@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Familia y amigos cercanos se reunieron en una funeraria de la Ciudad de México para despedir a la reconocida cantante, hermana de Flor Silvestre.  "
 image: "/uploads/2021/images-adios-queta-jimenez-prieta-linda.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dan emotiva despedida a Queta Jiménez, 'La Prieta Linda'; así fue el último adiós"
 front: false
 section: "Espectáculos"
-news_id: 187954
+redirect_from: /news/187954
 ---
 
 El fallecimiento de Enriqueta 'Queta' Jiménez, conocida como La Prieta Linda, conmocionó al mundo del espectáculo. La cantante y actriz murió a los 88 años de edad por causas naturales en la Ciudad de México este martes 21 de septiembre. 

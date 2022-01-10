@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El proceso se realiza en línea a través del portal oficial de la institución, utpaquime.edu.mx/registro; la fecha límite para el trámite es el próximo 24 de abril"
 image: "/uploads/2021/images-3_Invernadero_Agricultura_Sustentable.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia Universidad Tecnológica de Paquimé periodo de  entrega de fichas de ingreso"
 front: false
 section: "Local"
-news_id: 183714
+redirect_from: /news/183714
 ---
 
 La Universidad Tecnológica de Paquimé (UT Paquimé) abrió el periodo de entrega de fichas de ingreso para los tres programas educativos que se imparten en la institución, que este año se realizará de manera virtual como medida ante la actual contingencia sanitaria.

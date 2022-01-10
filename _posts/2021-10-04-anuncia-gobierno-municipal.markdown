@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente capitalino, Marco Bonilla, reiteró el compromiso de brindar a las familias seguridad y justicia"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia Gobierno Municipal operativo Chihuahua Capital, Cero Impunidad, el que la hace la paga"
 front: false
 section: "Local"
-news_id: 188346
+redirect_from: /news/188346
 ---
 
  La mañana de este lunes, el presidente municipal de Chihuahua, Marco Antonio Bonilla Mendoza puso en marcha el operativo “Chihuahua Capital, Cero Impunidad, el que la hace la paga” en coordinación con los tres órdenes de gobierno, para coadyuvar en la detención e investigación científica y tecnológica que ayude a la vinculación de los delincuentes.

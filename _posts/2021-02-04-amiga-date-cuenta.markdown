@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las diferencias entre las ex académicas continúan luego de que la veracruzana acusara a la conductora de 'Venga la alegría' de frenar su carrera en Azteca. "
 image: "/uploads/2021/images-tonita-manda-mensaje-cynthia-rodriguez_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Amiga date cuenta -  Toñita pone en duda la relación de Cynthia con Carlos Rivera"
 front: false
 section: "Espectáculos"
-news_id: 182694
+redirect_from: /news/182694
 ---
 
 Al parecer aún siguen existiendo rivalidades entre quienes participaron en La Academia de TV Azteca. Recientemente salió a la luz, la pelea que hubo entre dos ex académicas que participaron en el reality show de 2003, Toñita y Cynthia Rodríguez,, pues la veracruzana acusó a la actual conductora de Venga la Alegría de frenar su carrera artística frente a los directivos de TV Azteca.  

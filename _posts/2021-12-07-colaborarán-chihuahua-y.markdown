@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto en acciones para erradicar la violencia de género."
 image: "/uploads/2021/images-ANDE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM05_ISRAEL.mp4"
 alt: "Colaborarán Chihuahua y Puebla "
 front: false
 section: "Local"
-news_id: 190603
+redirect_from: /news/190603
 ---
 
 El estado de Puebla y Chihuahua trabajarán de forma conjunta en el programa”Grupos de Reflexión para hombres que se encuentran en proceso legal familiar”, esto tras llevarse a cabo la firma de convenio entre representantes de los poderes judiciales de ambos estados.

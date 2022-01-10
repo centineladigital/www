@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La serie, todavía sin título, de Sony Pictures Television está situada en la única universidad para superhéroes en Estados Unidos. "
 image: "/uploads/2021/images-the-boys-spin-off-amazon_0_92_1080_672.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'The Boys' tendrá spin-off; Amazon Studios da luz verde a serie sobre escuela de superhéroes"
 front: false
 section: "Espectáculos"
-news_id: 188246
+redirect_from: /news/188246
 ---
 
 Una nueva serie spin-off de The Boys, los superhéroes que han causado revuelo en la plataforma Prime Video, la cual aun no tiene título hasta el momento será lanzada en los próximos años en el servicio de streaming en más de 240 países y territorios alrededor del mundo. La serie de televisión está situada en la única universidad exclusiva para superhéroes jóvenes en Estados Unidos (administrada por Vought International), el spin-off sin título de The Boys es una serie irreverente, con un equivalente a la clasificación C, que explora las vidas de superhéroes competitivos y hormonales, mientras ponen sus límites físicos, sexuales y morales a prueba, compitiendo por los mejores contratos en las mejores ciudades. Es en parte una serie sobre la universidad, y por otra parte Los Juegos del Hambre—con toda la sátira y obscenidad de The Boys.

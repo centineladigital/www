@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Reciben Madera, Cusihuiriachi, Bachíniva, Matachí, Riva Palacio y Carichí depósitos de agua con capacidad de 5 mil litros cada uno y su respectiva motobomba"
 image: "/uploads/2021/images-ENTREGA_TANQUES_NODRIZA_SEDEMUN_EN_REGIÓN_CUAUHTÉMOC_(6).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se extiende entrega de tanques nodriza a 6 municipios más  en Región Cuauhtémoc"
 front: false
 section: "Local"
-news_id: 185127
+redirect_from: /news/185127
 ---
 
 El Gobierno del Estado de Chihuahua, a través de la Secretaría de Desarrollo Municipal (Sedemun), este jueves 17 de junio entregó en Cuauhtémoc seis tanques nodriza que tienen capacidad para 5 mil litros cada uno, con el objetivo de atenuar los efectos de la sequía en esa región.

@@ -10,11 +10,11 @@ author: nil
 description: "Llevarán a cabo acciones con la COEPI."
 image: "/uploads/2021/images-GALICIA.jpg"
 video: "/uploads/2021/videos-MV05_IGNACIO_GALICIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Continuarán con trabajos de prevención de muerte materno-infantil"
 front: false
 section: "Local"
-news_id: 189811
+redirect_from: /news/189811
 ---
 
 Con acciones que frenen la muerte materno-infantil es como la Secretaría de Desarrollo Social inició sus trabajos, así como con acciones para el disminuir los embarazos en jóvenes, recalcó el titular de esta dependencia estatal Ignacio Galicia.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Comisión Nacional de Salud de China asegura que está terminando los preparativos para recibir a la misión que investigará el origen del covid-19 en la ciudad de Wuhan"
 image: "/uploads/2021/images-2508925.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "China omite reclamos y asegura que espera a misión de la OMS"
 front: false
 section: "Internacional"
-news_id: 182008
+redirect_from: /news/182008
 ---
 
 China aseguró este sábado que se estaban llevando a cabo los preparativos para la misión de la Organización Mundial de la Salud (OMS) en Wuhan que debe investigar el origen del covid-19, después de que la institución criticara la demora en este viaje previsto desde hace tiempo.

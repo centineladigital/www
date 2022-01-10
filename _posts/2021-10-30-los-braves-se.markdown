@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El pitcheo de Atlanta aplacó a la ofensiva de los Astros en el Truist Park y ya se colocan a dos encuentros del campeonato"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Los Braves se adelantan en la Serie Mundial"
 front: false
 section: "Deportes"
-news_id: 189402
+redirect_from: /news/189402
 ---
 
 La Serie Mundial llegó al Truist Park para el Juego 3 y los Braves hicieron valer la localía sobre los Astros con triunfo de 0-2. Con esta victoria, Atlanta ya lidera el Clásico de Otoño con dos triunfos, por uno de la novena de Houston.

@@ -8,11 +8,11 @@ author: nil
 description: "Durante el mes de octubre, las Unidades de Salud del estado, realizarán examen clínico de mamas y mastografía a mujeres de 20 a 69 años"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-01_at_13.40.23_(1).jpeg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-10-01_at_13.40.52.3gpp"
-audio: "nil"
+audio: nil
 alt: "Arranca Secretaría de Salud campaña de sensibilización prevención y detección oportuna de cáncer de mama"
 front: false
 section: "Local"
-news_id: 188284
+redirect_from: /news/188284
 ---
 
 La Secretaría de Salud del Estado de Chihuahua, a través del Programa de Cáncer en la Mujer, informa que del primero al 30 de octubre se realizarán diferentes actividades en el marco del mes de sensibilización sobre el cáncer de mama, con la campaña “Contra el cáncer yo actúo”.

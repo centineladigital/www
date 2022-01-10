@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Y sí viene la vacuna de refuerzo, y sí viene también para el caso de los maestros (...) Sí se va a vacunar a los maestros, señaló el presidente López Obrador"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vacuna de refuerzo contra Covid-19 será universal, anuncia AMLO"
 front: false
 section: "Nacional"
-news_id: 190709
+redirect_from: /news/190709
 ---
 
 El presidente Andrés Manuel López Obrador informó que después de iniciar la vacunación de refuerzo contra Covid-19 en adultos mayores de 60 años, la dosis será universal “y luego vamos con maestros”. 

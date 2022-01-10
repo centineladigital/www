@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El donativo se conforma de termómetros, oxímetros y baumanómetros para las brigadas de vacunación, así como guantes de látex y nitrilo, caretas protectoras Truper y pares de cubrezapatos   "
 image: "/uploads/2021/images-DONATIVO_SSALUD_CHIHUAHUENSES_EN_APOYO_(1).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recibe Secretaría de Salud insumos médicos  de la asociación Chihuahuenses en Apoyo"
 front: false
 section: "Local"
-news_id: 186647
+redirect_from: /news/186647
 ---
 
 Este jueves 12 agosto en las instalaciones de la Secretaría de Salud se recibió el donativo de insumos médicos de parte de la asociación civil Chihuahuenses en Apoyo, mismos que serán destinados al personal de salud del Hospital Integral de Nuevo Casas Grandes y a la Coordinación de Enfermería.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz recordó su personaje Soraya Montenegro en 'María la del barrio'; además expresó su cariño y admiración por Thalía. "
 image: "/uploads/2021/images-itati-cantoral-revela-origen-frase_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Para morirnos de risa -  Itatí Cantoral revela origen de la frase la maldita lisiada"
 front: false
 section: "Espectáculos"
-news_id: 183731
+redirect_from: /news/183731
 ---
 
 Itatí Cantoral se ganó el reconocimiento y cariño del público en toda América Latina tras interpretar a la villana Soraya Montenegro en María la del barrio, telenovela que protagonizó a lado de Thalía y Fernando Colunga. A más de 20 años del estreno, la actriz reveló el origen de la frase que catapultó su carrera: "la maldita lisiada".  Durante su participación en el programa de radio colombiano W Fin de Semana, Itatí Cantoral habló de icónico personaje al que dio vida en el melodrama de Televisa; señaló que Soraya Montenegro continúa en el corazón de los mexicanos.  

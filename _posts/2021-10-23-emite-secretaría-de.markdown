@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En los centros de salud se realizan detecciones del síndrome de caídas y el riesgo de fracturas, así como planes de actividad física como medida de prevención"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Secretaría de Salud recomendaciones para prevenir y tratar la osteoporosis"
 front: false
 section: "Local"
-news_id: 189122
+redirect_from: /news/189122
 ---
 
 En el marco de la conmemoración por el Día Mundial contra la Osteoporosis, la Secretaría de Salud Chihuahua dio a conocer que a través de sus unidades de atención, desarrolla acciones de prevención y atención dirigida a las personas que tienen este padecimiento.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con ello se evitará que las mujeres sean revictimizadas."
 image: "/uploads/2021/images-BONILLA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML06_MARCO_BONILLA.mp4"
 alt: "Propone PAN crear el expediente único para mujeres víctimas de la violencia"
 front: false
 section: "Local"
-news_id: 184388
+redirect_from: /news/184388
 ---
 
 Con el fin de evitar revictimización se propone que se cree un expediente único para mujeres víctimas de violencia, esta iniciativa fue presentada por parte de Marco Antonio Bonilla Mendoza, candidato del PAN a la Alcaldía.

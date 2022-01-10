@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se realizó la ampliación de un carril en un tramo de 92 metros de extensión "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Finaliza Gobierno Municipal trabajos de adecuación vial en avenida Francisco Villa y Huancune"
 front: false
 section: "Local"
-news_id: 186794
+redirect_from: /news/186794
 ---
 
 El Gobierno Municipal por medio de la Dirección de Obras Públicas finalizó con las labores de la construcción de una vuelta a la izquierda sobre la avenida Francisco Villa, sentido norte a sur, en la intersección con las avenidas Huancune y Vía Sicilia, para brindar solución vial a la zona, beneficiando alrededor de 100 mil habitantes.

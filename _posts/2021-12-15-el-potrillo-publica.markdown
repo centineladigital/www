@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Alejandro Fernández publicó un emotivo video en donde se observan varias fotos al lado de Vicente Fernández, además se escucha a padre e hijo cantar. "
 image: "/uploads/2021/images-el-potrillo-despidio-a-su.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'El Potrillo' publica conmovedor video con fotos inéditas junto a Vicente Fernández"
 front: false
 section: "Espectáculos"
-news_id: 190900
+redirect_from: /news/190900
 ---
 
 Fue este 12 de diciembre cuando se dio a conocer que Vicente Fernández murió después de pasar más de tres meses hospitalizado. Tras su fallecimiento, se le rindió un homenaje en la arena VFG ubicada en su rancho Los Tres Potrillos, nombre en honor a sus hijos. Por su parte, Alejandro Fernández, dedicó un emotivo video a su padre para despedirlo. Aunque El Potrillo, como también es conocido, ya había publicado una imagen en donde dedicaba un mensaje a su papá, Vicente Fernández, el cantante ahora subió  un video muy emotivo en donde se escucha a padre e hijo cantar. 

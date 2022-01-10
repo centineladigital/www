@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Acompañaron el titular del SSPE, representantes de seguridad de EU y del Consulado Americano en Ciudad Juárez"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conocen operación de PECUU representantes del Consulado de EU en México"
 front: false
 section: "Local"
-news_id: 188227
+redirect_from: /news/188227
 ---
 
 El comisario Julio César Salas, director de Seguridad Pública Municipal y el secretario de Seguridad Pública del Estado, Gilberto Loya Chávez, se reunieron con  funcionarios del Consulado Norteamericano de Ciudad Juárez y de algunas agencias de seguridad de Estados Unidos en la Comandancia Norte, con el fin de estrechar la cercanía y la cooperación entre dichas instituciones.

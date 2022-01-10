@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El 6 y 7 de enero podrás inscribirte al Taller de Iniciación Musical"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprende a tocar un instrumento en el Conservatorio de Música"
 front: false
 section: "Local"
-news_id: 191282
+redirect_from: /news/191282
 ---
 
 El Gobierno Municipal de Chihuahua a través del Instituto de Cultura del Municipio (ICM), recuerda a los interesados en aprender a tocar un instrumento, que las inscripciones para los talleres de Iniciación Musical del Conservatorio de Música, estarán abiertas los días 6 y 7 de enero del 2022, en un horario de 9:00 am a 3:00 pm.

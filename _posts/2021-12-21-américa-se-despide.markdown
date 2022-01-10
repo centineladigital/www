@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Sebastián Córdova concluyó su etapa con el América, su destino sería Tigres "
 image: "/uploads/2021/images-01.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "América se despide de Sebastián Córdova"
 front: false
 section: "Deportes"
-news_id: 191063
+redirect_from: /news/191063
 ---
 
 Uno de los temas que más ha creado interés en las últimas semanas es sobre el futuro de Sebastián Córdova, que desde que terminó el torneo para él se veía muy complicado su permanencia en el América.

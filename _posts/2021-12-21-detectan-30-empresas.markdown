@@ -10,11 +10,11 @@ author: nil
 description: "En lo que va de la administración 150 elementos han sido detectados por irregularidades."
 image: "/uploads/2021/images-REFUGIO.jpg"
 video: "/uploads/2021/videos-MM01_REFUGIO_MORENO.mp4"
-audio: "nil"
+audio: nil
 alt: "Detectan 30 empresas de seguridad “patito”"
 front: false
 section: "Local"
-news_id: 191091
+redirect_from: /news/191091
 ---
 
 En lo que va de la administración se han detectado 30 empresas de seguridad que no cumplen con los lineamientos, mientras que 150 personas que laboran como guardia no cumplen con ningún requisito, esto fue el resultado de los operativos que lleva a cabo el área de la Policía Bancaria perteneciente a la Secretaría de Seguridad Pública.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Reporta Protección Civil de Juárez 4 intoxicaciones por monóxido de carbono; piden extremar precauciones"
 image: "/uploads/2021/images-ALERTA_MARTES_16.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta por vientos de hasta 95 km/h hoy y mañana; disminuyen temperaturas el jueves 18"
 front: false
 section: "Local"
-news_id: 182963
+redirect_from: /news/182963
 ---
 
 Durante la tarde y noche de este martes 16 de febrero se presentarán lluvias en Ciudad Juárez, debido al ingreso del Frente Frío 36 que viene acompañado de la Décima Tormenta Invernal, informó el meteorólogo de la Coordinación Estatal de Protección Civil (CEPC), Idelfonso Díaz.

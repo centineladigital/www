@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“Vamos tarde en comparación con otros países”"
 image: "/uploads/2021/images-LAURA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02.mp3"
 alt: "Opacidad en la entrega de vacunas -  regidora"
 front: false
 section: "Local"
-news_id: 183211
+redirect_from: /news/183211
 ---
 
 Una total opacidad es lo que se registra dentro de la entrega de vacunas, fueron las palabras de la regidora Laura Patricia Contreras Duarte, esto ya que por el momento no se tiene una certeza de cuanto es lo que se ha aplicado en materia de vacunación por motivo del coronavirus.

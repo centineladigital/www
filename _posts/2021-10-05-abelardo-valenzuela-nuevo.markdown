@@ -14,11 +14,11 @@ author: nil
 description: "32 Votos a favor y cero en contra "
 image: "/uploads/2021/images-vk0NUyQn_400x400.jpg"
 video: "/uploads/2021/videos-BM04_ABELARDO_VALENZUELA__.mp4"
-audio: "nil"
+audio: nil
 alt: "Abelardo Valenzuela nuevo Consejero de la Judicatura"
 front: false
 section: "Local"
-news_id: 188397
+redirect_from: /news/188397
 ---
 
 El Congreso del Estado aprobó la designación de Abelardo Valenzuela como nuevo Consejero de la Judicatura,  Abelardo Valenzuela  es miembro del Partido Acción Nacional (PAN) y fue candidato a la sindicatura de Ciudad Juárez durante el pasado proceso electoral. 

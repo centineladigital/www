@@ -10,11 +10,11 @@ author: nil
 description: "Afirma Secretario de Gobierno que aún no se tiene notificación de la extradición."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MM05_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Chihuahua está listo para aplicar la justicia -  Jáuregui "
 front: false
 section: "Local"
-news_id: 189711
+redirect_from: /news/189711
 ---
 
 “Chihuahua está listo para llevar cualquier proceso de cualquier exgobernador que haya hecho daño al estado” aseveró el Secretario General de Gobierno, César Gustavo Jáuregui Moreno, respecto a la extradición del exmandatario César Duarte Jáquez.

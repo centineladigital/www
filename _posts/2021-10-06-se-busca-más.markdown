@@ -16,11 +16,11 @@ author: nil
 description: "El buzón legislativo colaborará con la participación ciudadana "
 image: "/uploads/2021/images-big_7ejs0Big.jpg"
 video: "/uploads/2021/videos-BW02_MARIO_VAZQUEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se busca más participación ciudadana y la evaluación de diputados "
 front: false
 section: "Local"
-news_id: 188444
+redirect_from: /news/188444
 ---
 
 El diputado coordinador del Grupo Parlamentario del Partido Acción Nacional (PAN), Mario Vázquez Robles resaltó las iniciativas impulsadas como el Buzón Legislativo Ciudadano y la creación de indicadores para la evaluación de los legisladores.

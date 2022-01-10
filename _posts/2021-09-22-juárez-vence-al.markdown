@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los 'Bravos' se impusieron por la mínima diferencia en un duelo adelantado del Apertura 2021 "
 image: "/uploads/2021/images-diego-rolan-en-festejo-de_0_51_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Juárez vence al Atlético de San Luis en partido adelantado de la jornada 14 de la Liga MX"
 front: false
 section: "Deportes"
-news_id: 187942
+redirect_from: /news/187942
 ---
 
 Los Bravos de Juárez lograron su tercer triunfo consecutivo al vencer 1-0 al Atlético de San Luis, el martes en partido adelantado de la decimocuarta jornada del torneo Apertura-2021 del futbol mexicano. 

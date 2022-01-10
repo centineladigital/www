@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Aunque Pumas haya agarrado una buena racha y el Tijuana haya estrenado director técnico, sus respectivos entrenadores no se pueden sentir tan seguros en sus puestos"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Pumas y Xolos van por técnico del Barcelona"
 front: false
 section: "Deportes"
-news_id: 189142
+redirect_from: /news/189142
 ---
 
 Aunque Pumas haya agarrado una buena racha y el Tijuana haya estrenado director técnico, sus respectivos entrenadores —Andrés Lillini y Sebastián Méndez— no se pueden sentir tan seguros en sus puestos.

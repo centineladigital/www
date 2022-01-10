@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Varias fotos y videos han captado la emergencia que se vive en Islas Canarias tras la erupción, la cual ha generado masivas evacuaciones en el territorio."
 image: "/uploads/2021/images-al-rededor-de-casas-han_0_42_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Erupción de volcán en La Palma destruye unas 100 casas en España; así las 'devora' la lava"
 front: false
 section: "Internacional"
-news_id: 187860
+redirect_from: /news/187860
 ---
 
 Con la erupción del volcán Cumbre Vieja, en Islas Canarias, son varias las imágenes y videos que captaron a la lava devorando las viviendas, la cual tiene un recorrido de 700 metros por hora y donde unas 100 casas en isla de La Palma han sido consumidas en medio de una emergencia que provocó la evacuación de 5 mil personas en España. 

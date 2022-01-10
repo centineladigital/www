@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Existe toda la voluntad del Gobernador Javier Corral para que fluya con transparencia la entrega recepción.  "
 image: "/uploads/2021/images-Contenido_del_portal_de_Entrega-Recepción_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Falso que Estado obstaculice el proceso de transición como se ha empeñado en afirmar la gobernadora electa y su equipo."
 front: false
 section: "Local"
-news_id: 185443
+redirect_from: /news/185443
 ---
 
 En el programa “Ciro por La Mañana” de Radiofórmula, de su edición de este miércoles 7 de julio, la gobernadora electa de Chihuahua, María Eugenia Campos Galván, hizo otra vez comentarios sobre el proceso de entrega-recepción y sobre el gobernador Javier Corral Jurado, y de nueva cuenta esas afirmaciones faltan a la verdad, por lo que deben precisarse.

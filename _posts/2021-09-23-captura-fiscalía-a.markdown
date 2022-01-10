@@ -18,11 +18,11 @@ author: nil
 description: "En operativo detienen a Jesús Omar C. G., alias “La Changa” y tres de sus cómplices, a quienes se les atribuyen los principales hechos violentos ocurridos en la zona en los últimos meses_"
 image: "/uploads/2021/images-E8155652-653E-4748-8AB5-1DCEF1537A62.jpeg"
 video: "/uploads/2021/videos-trim.CB714D7B-D461-4DDF-96B5-0350B2050DCA.MOV"
-audio: "nil"
+audio: nil
 alt: "Captura Fiscalía a célula criminal de Cuauhtémoc "
 front: false
 section: "Local"
-news_id: 187975
+redirect_from: /news/187975
 ---
 
 Gracias a un trabajo de inteligencia y un operativo coordinado, elementos de la Agencia Estatal de Investigación de la Fiscalía General del Estado, detuvieron a Jesús Omar C. G., alias “La Changa”, considerado el principal generador de violencia en la ciudad de Cuauhtémoc.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“La acción de prevención del camioncito de sanitización es muy buena sobre todo en el centro de la ciudad”"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sanitización móvil en el corazón de la capital protege a todas y todos del COVID19 -  gerente de comercio"
 front: false
 section: "Local"
-news_id: 188056
+redirect_from: /news/188056
 ---
 
 “La acción de prevención del camioncito de sanitización es muy buena sobre todo en el centro de la ciudad”, así lo expresó Tanía Granillo, gerente de un restaurant-bar en el centro histórico de la ciudad.

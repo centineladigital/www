@@ -16,11 +16,11 @@ author: nil
 description: "La reserva que propone Cuauhtémoc Estrada fue rechazada a pesar de la situación crítica del Estado "
 image: "/uploads/2021/images-principal_dip-cuauhtemoc-estrada-lider-de-la-fraccion-de-morena-en-el-congreso-del-estado-1.jpg"
 video: "/uploads/2021/videos-BJ03_CUAHUTEMOC_ESTRADA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se aprobaron 565 mdp para Congreso y 172 para la ASE"
 front: false
 section: "Local"
-news_id: 188744
+redirect_from: /news/188744
 ---
 
 Legisladores del Congreso del Estado aprobaron un presupuesto de 565 millones para el Poder Legislativo y 172 millones para la Auditoria Superior del Estado, dentro del Presupuesto de Egresos 2022, sería igual que en 2020, sin embargo, mucho mayor que el aprobado el año pasado para 2021.

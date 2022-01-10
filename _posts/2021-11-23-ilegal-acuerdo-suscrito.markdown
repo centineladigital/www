@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras lo publicado en el Diario Oficial sobre que las obras del gobierno federal sean consideradas de seguridad nacional, los senadores reaccionaron"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ilegal, acuerdo suscrito por AMLO sobre obras, advierte oposición en el Senado"
 front: false
 section: "Nacional"
-news_id: 190098
+redirect_from: /news/190098
 ---
 
 La oposición en el Senado de la República calificó de ilegal el Acuerdo presidencial publicado este lunes en el Diario Oficial de la Federación, por el que todos los proyectos de infraestructura del gobierno federal serán considerados de interés público y de seguridad nacional.

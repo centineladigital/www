@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Finalmente señaló que por parte de la IP seguirán buscando la manera de trabajar en la compra de las vacunas"
 image: "/uploads/2021/images-SFGEG.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AW04_FRANCISCO_SANTINI.mp3"
 alt: "Aun no hay vacunas para el sector privado -  CCE "
 front: false
 section: "Local"
-news_id: 182496
+redirect_from: /news/182496
 ---
 
 El presidente del Consejo Coordinador Empresarial (CCE), Francisco Santini Ramos, señaló que ya han tenido contacto para  buscar comprar vacunas contra el Covid-19, sin embargo aún no está liberada la importación de este medicamento por Coespris.

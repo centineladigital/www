@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Datos de la agencia AFP indican que el mundo ya superó los 2 millones de muertos por el covid."
 image: "/uploads/2021/images-2512455.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El mundo supera 2 millones de muertos por covid; aumentan contagios"
 front: false
 section: "Nacional"
-news_id: 182171
+redirect_from: /news/182171
 ---
 
 El numero total de muertos por covid, en todo el mundo, superó este viernes los dos millones, según un recuento realizado por la AFP a partir de balances oficiales proporcionados por las autoridades a las 18h25 GMT.

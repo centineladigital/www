@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Mitsotakis aseguró que las autoridades hacen todo lo posible para enfrentar la situación y pidió a los usuarios limitar el consumo, sobre todo al principio de la tarde y durante la noche"
 image: "/uploads/2021/images-pronostican-onda-de-calor-con.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Grecia, afectada por la peor ola de calor desde 1987; temperatura supera 40 grados"
 front: false
 section: "Internacional"
-news_id: 186179
+redirect_from: /news/186179
 ---
 
 En una jornada en la que la temperatura debería alcanzar los 45 grados centígrados en algunas regiones, Grecia se encuentra afectada por "la peor ola de calor desde 1987", afirmó el primer ministro Kyriakos Mitsotakis.

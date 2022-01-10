@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Una carta de amor; con 'Medios hermanos' Luis Gerardo Méndez llega al cine de Hollywood "
 image: "/uploads/2021/images-luis-gerardo-mendez-debuta-productor.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Una carta de amor; con 'Medios hermanos' Luis Gerardo Méndez llega al cine de Hollywood"
 front: false
 section: "Espectáculos"
-news_id: 184286
+redirect_from: /news/184286
 ---
 
 Una historia sobre migración y el lazo que une a la familia fue la que Luis Gerardo Méndez eligió para debutar como productor en Hollywood; el camino de Medios hermanos no fue fácil, tuvo que esperar cinco años para concretar la película y cruzar por la pandemia que le obligó a cancelar su estreno en México. Ahora está listo para compartir este logro con su gente. “Es la primera película que produzco en Estados Unidos con un estudio como Focus Features, ellos hicieron mis películas favoritas en mis veinte, fue muy satisfactorio desarrollar un proyecto con ellos, es algo que nunca imaginé. Esta película es una carta de amor a los padres, a los hermanos, a los medios hermanos; también habla de una forma muy especial de la empatía”, comentó Luis Gerardo Méndez a M2. 

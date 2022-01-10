@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se espera que esta edición deje una derrama económica de 300 mdp en el estado; los tres niveles de gobierno reiteran su apoyo al sector minero"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inauguran Segundo Encuentro de Negocios del Clúster Minero"
 front: false
 section: "Local"
-news_id: 190222
+redirect_from: /news/190222
 ---
 
 Con impulso de la Secretaría de Innovación y Desarrollo Económico (SIDE), el Clúster Minero de Chihuahua (Clúmin) inició el Segundo Encuentro de Negocios 2021, durante el cual se espera que deje en el estado  una derrama económica del orden de los 300 millones de pesos.

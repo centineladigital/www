@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El medio The Hollywood Reporter dio a conocer una lista de posibles nominados en la próxima edición de la gala cinematográfica. "
 image: "/uploads/2021/images-eugenio-derbez-instagram-5.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Eugenio Derbez podría ser nominado al Oscar por 'CODA', según la crítica estadunidense"
 front: false
 section: "Espectáculos"
-news_id: 188266
+redirect_from: /news/188266
 ---
 
 CODA, la más reciente película en la que participa Eugenio Derbez, podría darle una nominación al Oscar al mexicano en la categoría de Actor de reparto, según la crítica estadunidense. El medio The Hollywood Reporter, que cuenta con buen prestigio en el panorama hollywoodense, dio a conocer una lista de los posibles nominados a las estatuillas de la Academia y ahí aparece el también comediante. 

@@ -14,11 +14,11 @@ author: nil
 description: " El apoyo de las autoridades es irrelevante dado que las altas temperaturas amenazan la producción y también existe una considerable falta de agua"
 image: "/uploads/2021/images-victor-loya-2-e1622646101315.jpg"
 video: "/uploads/2021/videos-BW01_VICTOR_LOYA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Altas temperaturas amenazan la producción de nuez "
 front: false
 section: "Local"
-news_id: 191321
+redirect_from: /news/191321
 ---
 
 A raíz de las altas temperaturas en el estado de Chihuahua durante la temporada invernal, la producción de nuez ha sido afectada hasta en un 50 por ciento, afirmó el presidente del Sistema del Producto Nuez en el estado de Chihuahua Víctor Loya.

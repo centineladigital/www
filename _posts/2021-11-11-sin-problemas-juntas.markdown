@@ -10,11 +10,11 @@ author: nil
 description: "Finanzas sanas en la administración del agua."
 image: "/uploads/2021/images-pony.jpg"
 video: "/uploads/2021/videos-MJ03_ROBERTO_LARA.mp4"
-audio: "nil"
+audio: nil
 alt: "Sin problemas juntas de agua en el Estado -  Lara"
 front: false
 section: "Local"
-news_id: 189787
+redirect_from: /news/189787
 ---
 
 “Todas las juntas municipales de agua del Estado de Chihuahua están en números negros” fueron las palabras del titular de la Junta Central de Agua y Saneamiento, Roberto Lara Rocha. Señalando que se tiene un control del gasto eficiente en la presente administración.

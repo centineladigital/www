@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En sesión del CODER buscaron las mejores propuestas para beneficio de los ciudadanos"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Analizan y trabajan en estrategias para elevar competitividad de Chihuahua"
 front: false
 section: "Local"
-news_id: 190385
+redirect_from: /news/190385
 ---
 
 El presidente municipal, Marco Bonilla, presidió la tercera sesión ordinaria del Consejo de Desarrollo Regional de Chihuahua-Centro (CODER), en donde se dio seguimiento a las estrategias y acciones que impulsarán la competitividad y economía de la ciudad capital.

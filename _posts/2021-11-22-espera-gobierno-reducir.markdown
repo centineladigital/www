@@ -10,11 +10,11 @@ author: nil
 description: "Pasada administración dejó deficit de 6 mil millones de pesos."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-ML01_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Espera gobierno reducir déficit mil mdp por año"
 front: false
 section: "Local"
-news_id: 190087
+redirect_from: /news/190087
 ---
 
 Una reducción de mil millones de pesos anuales es lo que el gobierno estatal planea que se dé de forma anual la reducción de déficit, según declaraciones de la Gobernadora María Eugenia Campos Galván.  Esto ya que la pasada administración dejó una cifra de seis mil millones de pesos de deuda.

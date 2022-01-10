@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto ya que no es un nivel considerado importante porque no aprenden a leer y escribir."
 image: "/uploads/2021/images-CARLOS1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW05_CAR.mp3"
 alt: "Nivel preescolar los más afectados con la pandemia"
 front: false
 section: "Local"
-news_id: 183454
+redirect_from: /news/183454
 ---
 
 El nivel escolar más afectado por la pandemia es el nivel preescolar, señaló el titular de la Secretaría de Educación y Deporte, Carlos González Herrera. Esto ya que no es un nivel considerado debido a que en éste no se aprende a sumar o leer, por lo que no le tomaron la importancia.

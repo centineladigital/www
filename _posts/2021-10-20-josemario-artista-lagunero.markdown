@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aunque es nacido en Torreón, tiene 20 años viviendo en CdMx y ha colaborado con artistas como Danna Paola, Horacio Franco, Amparo Rubín y Ninel Conde. "
 image: "/uploads/2021/images-sus-canciones-hablan-de-amor_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Josemario, artista lagunero que desborda pasión y talento"
 front: false
 section: "Espectáculos"
-news_id: 188992
+redirect_from: /news/188992
 ---
 
 El artista multidisciplinario Josemario, nacido en Torreón, Coahuila, pero radicado desde hace 20 años en la Ciudad de México, es dueño de una voz que tiene presencia, una voz que interpreta, con tesitura amplia, un cantautor, productor, actor emprendedor, artista plástico, que desborda creatividad, dibuja y que además se desvela creando personajes. Su carrera se ha centrado en la música a través de canciones que hablan del amor y anécdotas de vida, que prácticamente su voz le permite cantar cualquier género musical, de esto y más, el artista lagunero habló en entrevista.

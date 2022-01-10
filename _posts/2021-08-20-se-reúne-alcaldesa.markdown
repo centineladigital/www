@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Para este viernes se pronostican lluvias por la tarde con mayor intensidad, por lo que se reitera el llamado a la ciudadanía a extremar precauciones y refugiarse en caso de lluvia"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reúne Alcaldesa con mandos policiacos y dependencias para conocer último parte de Protección Civil"
 front: false
 section: "Local"
-news_id: 186925
+redirect_from: /news/186925
 ---
 
 Con la finalidad de conocer el último parte de Protección Civil de los estragos provocados por la intensa lluvia registrada durante la tarde y noche del jueves, la alcaldesa María Angélica Granados Trespalacios, se reunió con mandos policiacos y dependencias del Gobierno Municipal.

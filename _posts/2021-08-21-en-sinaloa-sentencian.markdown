@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Fiscalía General del Estado obtuvo la vinculación a proceso con medida cautelar de prisión preventiva y tres meses como periodo de investigación complementaria "
 image: "/uploads/2021/images-impuso-pena-anos-prision-jose_7_0_974_606.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Sinaloa, sentencian a 55 años de prisión a dos hombres por secuestro exprés"
 front: false
 section: "Nacional"
-news_id: 186968
+redirect_from: /news/186968
 ---
 
 La Fiscalía General del Estado Sinaloa logró en juicio oral una sentencia de 55 años de prisión contra José Roberto 'G' y José Alberto 'A', responsables de los delitos de secuestro exprés agravado y robo de vehículo, cometido en Culiacán. 

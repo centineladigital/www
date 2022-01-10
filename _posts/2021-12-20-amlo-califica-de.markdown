@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente López Obrador señaló que “no le hace que se lleve tiempo” que instancias como el Tribunal Electoral y la Suprema Corte de Justicia de Nación resuelvan sobre el caso"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO califica de “muy lamentable” la decisión del INE de posponer consulta de revocación de mandato"
 front: false
 section: "Nacional"
-news_id: 191020
+redirect_from: /news/191020
 ---
 
 El presidente Andrés Manuel López Obrador calificó como “muy lamentable” y “penoso” la decisión del Instituto Nacional Electoral (INE) de posponer la consulta de revocación de mandato y acusó al órgano electoral de no respetar el mandato constitucional de llevar a cabo consulta argumentado que no cuenta con los recursos económicos.

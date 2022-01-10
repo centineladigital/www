@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En audiencia vía Zoom, el actor y músico Drake Bell se declaró culpable por un delito grave que afectó a menores de edad. "
 image: "/uploads/2021/images-drake-bell-instagram-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Drake Bell se declara culpable por delitos contra menores de edad"
 front: false
 section: "Espectáculos"
-news_id: 185212
+redirect_from: /news/185212
 ---
 
 El músico Drake Bell se declaró culpable, esto en la audiencia virtual que tuvo este miércoles vía Zoom. El actor recordado por el programa de Nickelodeon Drake y Josh aceptó dos delitos contra niños, uno grave y el otro menor. Bell, de 34 años de edad, respondió "Culpable" a las acusaciones de "Intento de poner en peligro a niños", delito grave en cuarto grado, y "Difundir asuntos dañinos para los menores", menor en primer grado. Puedes ver el video de la audiencia y subtitularlo a continuación.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se llevará a cabo de forma virtual, habrá conferencias, presentaciones de libros, entre otros."
 image: "/uploads/2021/images-DAVID.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_DAVID_ARZOLA.mp3"
 alt: "Retos educativos tratará V Congreso Internacional de Investigación Educativa"
 front: false
 section: "Local"
-news_id: 184554
+redirect_from: /news/184554
 ---
 
 Temas como retos educativos será lo que el V Congreso Internacional de Investigación Educativa es lo que toque. Según fue dado a conocer por David Manuel Arzola, Presidente de la Red de investigadores Educativos de Chihuahua, Asociación Civil. 

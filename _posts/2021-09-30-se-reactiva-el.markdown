@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Participaran en sedes con semafaro verde "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-30_at_15.25.01.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reactiva el deporte de la UACH en el CONDDE y ONEFA"
 front: false
 section: "Local"
-news_id: 188250
+redirect_from: /news/188250
 ---
 
 Los equipos y atletas representativos de la Universidad Autónoma de Chihuahua, asistirán a las competencias oficiales del Consejo Nacional del Deporte de la Educación en este semestre escolar, siempre y cuando las sedes asignadas para dichos juegos, se mantengan con el semáforo en verde.

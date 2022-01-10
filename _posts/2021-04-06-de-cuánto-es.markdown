@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Forbes, que elabora listas sobre las personas más ricas del mundo, indicó que la más famosa de las hermanas Kardashian, de 40 años, debutó en el ránking de milmillonarios. "
 image: "/uploads/2021/images-kim-kardashian-anuncia-keeping-up.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿De cuánto es su fortuna? Kim Kardashian es oficialmente milmillonaria"
 front: false
 section: "Espectáculos"
-news_id: 183703
+redirect_from: /news/183703
 ---
 
 La estrella de la televisión estadunidense Kim Kardashian ha amasado una fortuna de mil millones de dólares gracias a sus negocios de maquillaje y ropa para moldear el cuerpo, KKW Beauty y Skims, según informó este martes la revista Forbes. Te contamos lo que sabemos sobre la famosa que rompió su fama y la convirtió en billonaria.  Forbes, que elabora listas sobre las personas más ricas del mundo, indicó que la más famosa de las hermanas Kardashian, de 40 años, debutó en el ránking de milmillonarios también gracias a los ingresos derivados de sus acuerdos publicitarios y "pequeñas inversiones". 

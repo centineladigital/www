@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de recibir doble trasplante de pulmón, Toño Mauri negó tráfico de influencias en el proceso. "
 image: "/uploads/2021/images-tono-mauri-mostro-agradecido-donador.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Toño Mauri niega tráfico de influencias en trasplante; desea conocer a familia de donador"
 front: false
 section: "Espectáculos"
-news_id: 183018
+redirect_from: /news/183018
 ---
 
 Hace unos días Toño Mauri salió del hospital después de más de siete meses internado, esto tras presentar secuelas del covid-19 y recibir un doble trasplante de pulmón. Poco a poco el actor se recupera y ofreció una entrevista a varios medios en la que negó haber usado tráfico de influencias para realizar la operación. 

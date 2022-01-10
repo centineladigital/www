@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El director del Programa Mundial de Alimentos, David Beasley, alertó que el hambre se ha disparado en Afganistán, en que se sumaron otras tres millones en la crisis alimentaria. "
 image: "/uploads/2021/images-paises-haiti-etiopia-afganistan-empeorado_0_45_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "ONU alerta del fuerte aumento del número de personas que padecen hambre en el mundo"
 front: false
 section: "Internacional"
-news_id: 189629
+redirect_from: /news/189629
 ---
 
 La agencia alimentaria de la ONU dijo el lunes que el número de personas al borde de la hambruna en 43 países ha aumentado hasta 45 millones, mientras el hambre aguda se dispara en todo el mundo. 

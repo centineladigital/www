@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La protagonista de 'Monarca', narró las dificultades médicas que tuvo tras dar a luz a su bebé Liam y agradeció a su familia y a sus médicos por salvarle la vida. "
 image: "/uploads/2021/images-fernanda-castillo-garcia-hospitalizada-enero.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Gracias por salvarme la vida” -  Fernanda Castillo habla de sus complicaciones médicas"
 front: false
 section: "Espectáculos"
-news_id: 182238
+redirect_from: /news/182238
 ---
 
 La actriz Fernanda Castillo, habló por primera vez tras días hospitalizada de urgencia por una complicación post parto. La protagonista de Monarca empleó sus redes sociales para agradecer a su familia y a sus médicos, por ser soporte durante el difícil momento que vivió. 

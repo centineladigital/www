@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Stanley Tucci contó por primera vez la lucha a la que se enfrenta después de que le detectaran cáncer de lengua. "
 image: "/uploads/2021/images-el_diablo_viste.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Stanley Tucci, actor de 'El diablo viste a la moda', revela que le diagnosticaron cáncer de lengua"
 front: false
 section: "Espectáculos"
-news_id: 187502
+redirect_from: /news/187502
 ---
 
 Dentro de los actores que participaron en El diablo viste a la moda uno de los más recordados es Stanley Tucci, quien interpreto a Nigel, mano derecha de la estricta Miranda Priestly. Recientemente el actor de 60 años dio una entrevista en la que reveló el momento que atraviesa después de que le detectaran cáncer de lengua. Stanley Tucci en entrevista con la revista Vera contó que hace tres años le detectaron cáncer de lengua, esto después de que él notara una masa muy grande, por lo que al acudir al doctor me le mencionaron que la masa “era tan grande que no podía operarse”, y tuvo que someterse a altas dosis de radiación y quimioterapia; todo parece indicar que se encuentra en remisión tras al duro tratamiento que recibió. 

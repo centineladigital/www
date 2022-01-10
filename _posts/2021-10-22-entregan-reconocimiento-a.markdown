@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Por haber logrado medalla de oro, Saúl Alejandro Tapia Loya, alumno del Cobach 8, representará a México en la Olimpiada Internacional de Informática, a realizarse en Indonesia el próximo año   "
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan reconocimiento a los 9 estudiantes finalistas de la Olimpiada Mexicana de Informática"
 front: false
 section: "Local"
-news_id: 189095
+redirect_from: /news/189095
 ---
 
 La Secretaría de Educación y Deporte (SEyD) entregó reconocimiento a los 9 estudiantes de Educación Básica y Media Superior que representaron a Chihuahua los días 4 y 5 de septiembre en la última etapa de la 26ª edición de la Olimpiada Mexicana de Informática (OMI) 2020-2021.

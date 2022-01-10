@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente de Acción Nacional reconoció, en una reunión con líderes de su partido, que sólo pueden ganar en Aguascalientes. Hasta ahora no ha desmentido ni confirmado la grabación"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Marko Cortés acepta en un audio que el PAN sólo puede ganar una de las 6 elecciones de 2022"
 front: false
 section: "Nacional"
-news_id: 189460
+redirect_from: /news/189460
 ---
 
 El recién reelecto presidente del PAN, Marko Cortés, aceptó que su partido sólo tiene oportunidad de ganar una de las seis elecciones a gubernaturas que se llevarán a cabo en 2022. 

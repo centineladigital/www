@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Representantes de Juárez, Chihuahua, Parral y Delicias participaron en mesas de trabajo, a fin de determinar áreas de oportunidad para atenderlas en el Plan Estatal de Desarrollo 2022-2027"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza ICHIJUV Encuentro Estatal de Consejeras y Consejeros de la Juventud"
 front: false
 section: "Local"
-news_id: 189677
+redirect_from: /news/189677
 ---
 
 Gobierno del Estado, a través del Instituto Chihuahuense de la Juventud (ICHIJUV), llevó a cabo el primer Consejo Estatal de Consejeras y Consejeros de la Juventud, donde se contó con la participación de 31 representantes municipales de la juventud de Juárez, Chihuahua, Parral y Delicias, además del Consejo Estatal de la Juventud.

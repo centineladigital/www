@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se llevó a cabo la puesta en escena “Memoria de Gigantes” de la compañía Circo Elektrico"
 image: "/uploads/2021/images-unnamed_(18).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Disfrutan chihuahuenses de obra familiar en el Teatro de la Ciudad en el FICUU"
 front: false
 section: "Local"
-news_id: 188859
+redirect_from: /news/188859
 ---
 
 El pasado domingo se llevó a cabo la puesta en escena “Memoria de Gigantes” en el Teatro de la Ciudad como parte de las actividades del Festival Internacional de la Ciudad de Chihuahua (FICUU), una obra para público infantil que se ofreció en dos funciones.

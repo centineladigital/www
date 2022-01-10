@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Paola Dalay dio a conocer cómo inició su historia de amor con José Eduardo Derbez. Esto fue lo que dijo. "
 image: "/uploads/2021/images-jose-eduardo-derbez-novia-paola.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Fue amor a primera vista? Novia de José Eduardo Derbez revela cómo se conocieron"
 front: false
 section: "Espectáculos"
-news_id: 182962
+redirect_from: /news/182962
 ---
 
 A mediados del año pasado, José Eduardo Derbez dio de qué hablar cuando confesó que le fue infiel a su ex novia Bárbara Escalante, con quien mantuvo una relación por más de cinco años, la cual terminó en septiembre de 2019. De acuerdo con el actor, la separación se dio en los mejores términos.

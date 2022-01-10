@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La banda transmitirá un concierto especial este jueves a las 19 horas. Así podrás cantar todos sus éxitos. "
 image: "/uploads/2021/images-ruben-albarran-vocalista-de-la.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Felicidades! Café Tacvba transmitirá concierto para celebrar sus 32 años; así lo puedes ver en vivo"
 front: false
 section: "Espectáculos"
-news_id: 184710
+redirect_from: /news/184710
 ---
 
 Café Tacvba comenzó sus andanzas en el panorama musical nacional un día como hoy, 27 de mayo, pero de hace 32 años. Por eso la banda originaria de Satélite, Estado de México, decidió celebrar con un concierto especial que se transmitirá a través de su canal de YouTube. “32 años de dar el taconazo. Transmitiremos parte de uno de los conciertos más emblemáticos que hemos tenido, además de unas entrevistas y datos que casi no recordábamos”, señaló ayer el grupo en Twitter. 

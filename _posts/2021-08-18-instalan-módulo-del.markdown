@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Beneficiará a cientos de recién nacidos de ocho municipios de la región "
 image: "/uploads/2021/images-Foto_4033-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instalan Módulo del Registro Civil en el HGZ No. 11 del IMSS en Delicias "
 front: false
 section: "Local"
-news_id: 186844
+redirect_from: /news/186844
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua en coordinación con autoridades del Gobierno del Estado y del Municipio de Delicias, inauguraron este miércoles un módulo del Registro Civil en las instalaciones del Hospital General de Zona (HGZ) No. 11, ubicado en Delicias. 

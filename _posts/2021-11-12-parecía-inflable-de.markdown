@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue durante la pasada emisión de Ventaneando, en donde Daniel Bisogno expresó su opinión sobre Chiquis Rivera en los Premios de la Radio 2021. "
 image: "/uploads/2021/images-daniel-bisogno-insulta-chiquis-rivera.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Parecía inflable de fiesta -  Daniel Bisogno insulta a la Chiquis Rivera en 'Ventaneando'; lo critican"
 front: false
 section: "Espectáculos"
-news_id: 189806
+redirect_from: /news/189806
 ---
 
 Daniel Bisogno, conductor de ‘Ventaneando’, volvió a causar controversia con sus declaraciones sobre el cuerpo de las mujeres. Y es que el compañero de Pedrito Sola y Pati Chapoy despotricó en contra de la Chiquis Rivera, hija de la reina de la banda Jenni Rivera. Esto luego de que apareciera en los Premios de la Radio 2021 con un asombroso vestido. Aseguró que parecía inflable. Por ello, usuarios de las redes sociales no dudaron en criticarlo.  Fue durante la pasada emisión de Ventaneando, en donde Daniel Bisogno expresó su opinión sobre Chiquis Rivera en los Premios de la Radio 2021. Aunque se esperaba que el conductor hablara sobre su vestido o peinado, la realidad fue que de nueva cuenta se metió con su físico. 

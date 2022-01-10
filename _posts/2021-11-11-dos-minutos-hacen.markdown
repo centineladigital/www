@@ -16,11 +16,11 @@ author: nil
 description: "Salazar Propone  eximir cuota de peaje a ambulancias privadas"
 image: "/uploads/2021/images-cropw831h6934fotonota1-focus-0.32-min0.23-732-549.jpg"
 video: "/uploads/2021/videos-BJ05_IVON_SALAZAR_.mp4"
-audio: "nil"
+audio: nil
 alt: "Dos minutos hacen la diferencia para la atención médica "
 front: false
 section: "Local"
-news_id: 189794
+redirect_from: /news/189794
 ---
 
 La diputada Ivón Salazar Morales, propuso hoy exhortar desde el Congreso del Estado a los Poderes Ejecutivo, Federal y Estatal para que se exente del cobro en las casetas de peaje a las ambulancias del sector privado.  

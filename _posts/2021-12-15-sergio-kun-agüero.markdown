@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Debido a dificultades cardíacas, el futbolista se retira del futbol a los 33 años"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sergio 'Kun' Agüero anuncia su retiro del futbol, Primero mi salud"
 front: false
 section: "Deportes"
-news_id: 190866
+redirect_from: /news/190866
 ---
 
 Tratando de contener las lágrimas, el delantero argentino del Barcelona Sergio “Kun” Agüero anunció el miércoles su retirada inmediata del fútbol por motivos de salud. El goleador, de 33 años, se sometió a distintas pruebas cardíacas tras abandonar el partido de la liga española que enfrentó al Barcelona y Alavés antes del descanso el pasado 30 de octubre.

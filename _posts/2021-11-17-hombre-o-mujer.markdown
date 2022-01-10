@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El mandatario sostuvo que el mejor método para que los partidos elijan a sus candidatos son las encuestas. "
 image: "/uploads/2021/images-andres-manuel-lopez-obrador-jesus-8.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hombre o mujer -  AMLO apoyará a quien gane encuesta de Morena para 2024"
 front: false
 section: "Nacional"
-news_id: 189907
+redirect_from: /news/189907
 ---
 
 El presidente Andrés Manuel López Obrador afirmó que apoyará al candidato o candidata que gane la encuesta de Morena para contender por la Presidencia de México en 2024, pero aclaró que no con recursos públicos. 

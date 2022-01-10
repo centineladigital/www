@@ -16,11 +16,11 @@ author: nil
 description: "Ramón Adrián Mendías Rincón fue reconocido con 10 mil pesos "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-22_at_13.19.23.jpeg"
 video: "/uploads/2021/videos-BV03_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Médicos hacen de Chihuahua un municipio competitivo"
 front: false
 section: "Local"
-news_id: 189096
+redirect_from: /news/189096
 ---
 
 El presidente municipal Marco Bonilla Mendoza, dio entrega del reconocimiento al mérito médico 2021 al Doctor Ramón Adrián Mendías Rincón,  subdirector del Instituto Municipal de Pensiones, así mismo se le otorgo 10 mil pesos por el trabajo desarrollado.

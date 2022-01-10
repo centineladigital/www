@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El gobierno de Joe Biden alista un nuevo programa en el que algunas familias migrantes que llegan a EU serán alojadas en hoteles en Texas y Arizona"
 image: "/uploads/2021/images-2548440.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Planea EU instalar a familias migrantes en hoteles"
 front: false
 section: "Internacional"
-news_id: 183495
+redirect_from: /news/183495
 ---
 
 Algunas familias migrantes que llegan a Estados Unidos serán alojadas en hoteles bajo un nuevo programa administrado por organizaciones sin fines de lucro, según una persona familiarizada con los planes, en un distanciamiento de los centros de detención con fines de lucro que han sido criticados por los demócratas y expertos en salud.

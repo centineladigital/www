@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El sismo que se registró esta tarde no ameritó que se activará la alerta sísmica porque la estimación de energía en los primeros segundos no superó los niveles preestablecidos. "
 image: "/uploads/2021/images-sismo-en-oaxaca-tomada-de.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sismo de magnitud preliminar 4.9 se registra al sur de Tlacolula, Oaxaca"
 front: false
 section: "Nacional"
-news_id: 187804
+redirect_from: /news/187804
 ---
 
 La tarde de este 16 de septiembre se registró un sismo de magnitud preliminar de 4.9 al sur de Tlacolula, Oaxaca, informó el Servicio Sismológico Nacional (SSN).  

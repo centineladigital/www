@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Camiones del Municipio trabajarán doble para cubrir deficiencias en la recolección de basura"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lanza Gobierno Municipal advertencia de cumplimiento a empresas concesionarias"
 front: false
 section: "Local"
-news_id: 188618
+redirect_from: /news/188618
 ---
 
 El presidente Municipal, Marco Bonilla Mendoza, informó que sancionarán a la empresa concesionada de recolectar basura por incumplir con su ruta y advirtió que el área jurídica trabaja para retirarle rutas en las colonias que tiene asignadas. 

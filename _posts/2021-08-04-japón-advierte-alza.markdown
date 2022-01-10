@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las autoridades niponas nuevamente profundizaron en el aumento de contagios de coronavirus, mientras las medidas implementadas han recibido críticas"
 image: "/uploads/2021/images-pandemia-coronavirus-japon-generado-criticas_0_8_800_497.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Japón advierte alza sin precedentes de covid-19; Tokio reporta récord en medio de Juegos Olímpicos"
 front: false
 section: "Internacional"
-news_id: 186293
+redirect_from: /news/186293
 ---
 
 Las autoridades de Japón advirtieron hoy que las infecciones por coronavirus están aumentando a un ritmo sin precedentes y que los nuevos casos alcanzaron un récord en Tokio, ensombreciendo los Juegos Olímpicos y aumentando las dudas sobre el manejo de la pandemia por parte del gobierno. 

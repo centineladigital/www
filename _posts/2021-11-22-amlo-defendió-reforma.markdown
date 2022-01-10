@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente aseguró que el primer ministro de Canadá fue muy receptivo al comentarle que en el país se había utilizado la bandera de las energías limpias para hacer negocios sucios. "
 image: "/uploads/2021/images-amlo-justin-trudeau-reunen-washington_20_0_888_552.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO defendió reforma eléctrica ante Trudeau y lo invitó a visitar México"
 front: false
 section: "Nacional"
-news_id: 190059
+redirect_from: /news/190059
 ---
 
 El presidente Andrés Manuel López Obrador abordó el tema de la reforma eléctrica con el primer ministro de Canadá, Justin Trudeau, durante su encuentro en Washington en el marco de la Cumbre de Los Tres Amigos, donde expuso los motivos por los cuales se impulsó la iniciativa. 

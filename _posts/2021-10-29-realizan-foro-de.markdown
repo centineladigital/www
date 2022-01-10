@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "En 16 mesas temáticas analizaron los temas de Educación Básica, Media Superior, Superior y Deporte"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizan Foro de Educación y Deporte en la ciudad de Chihuahua"
 front: false
 section: "Local"
-news_id: 189370
+redirect_from: /news/189370
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Educación y Deporte (SEyD) y el Instituto Chihuahuense del Deporte y Cultura Física (ICHD) llevó a cabo el Foro de Educación y Deporte en la ciudad de Chihuahua.

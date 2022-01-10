@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El gobernador de Chihuahua aseguró que, como ciudadano, seguirá contribuyendo en la transformación del país"
 image: "/uploads/2021/images-DSC_4070.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Me voy contento”, dice Javier Corral ante término de su gobierno en Chihuahua"
 front: false
 section: "Local"
-news_id: 186458
+redirect_from: /news/186458
 ---
 
 El gobernador de Chihuahua, Javier Corral, manifestó que se irá contento al finalizar su administración y aseguró que, como ciudadano, seguirá contribuyendo en la transformación del país.

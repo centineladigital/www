@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Busca crear consciencia de consumo de forma responsable."
 image: "/uploads/2021/images-Y1.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ06_ANGELA_ROMERO.mp3"
 alt: "Fomenta UACH consumo minimalista"
 front: false
 section: "Local"
-news_id: 182533
+redirect_from: /news/182533
 ---
 
 Buscando crear consciencia se busca por parte de la Universidad Autónoma de Chihuahua el fomentar el consumo minimalista, la cual es una tendencia mundial para protección del medio ambiente, según palabras de Ángela Yumil Romero Mosqueda, investigadora de la Facultad de Ciencias Agrotecnológicas. 

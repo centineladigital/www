@@ -10,11 +10,11 @@ author: nil
 description: "Habrá cortesías para grupos vulnerables."
 image: "/uploads/2021/images-CESAR_JAUREGUI.jpg"
 video: "/uploads/2021/videos-MJ01_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Empresarios instalarán pista de hielo"
 front: false
 section: "Local"
-news_id: 190443
+redirect_from: /news/190443
 ---
 
 Esta confirmada la instalación de la pista le hielo, la cual será por parte del empresario según lo dio a conocer el Secretario General de Gobierno, César Gustavo Jáuregui Moreno. Quien dijo que debido a que se tienen condiciones de austeridad no se había previsto el colocar esta diversión que ya es una tradición dentro de la ciudad.

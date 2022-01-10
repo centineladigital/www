@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Siembra de árboles mejorará zonas de esparcimiento familiar y social"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-27_at_12.08.03.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Josefina_Castañeda__vecina_de_la_colonia.mp3"
 alt: "Gobierno del Estado reitera apoyo a las actividades de mujeres en Riberas del Bravo"
 front: false
 section: "Local"
-news_id: 188094
+redirect_from: /news/188094
 ---
 
 El Gobierno del Estado de Chihuahua, encabezado por Maru Campos Galván, llevo a cabo la siembra simbólica de árboles en Riberas del Bravo, a través de la “Operación Cicatriz”, que tiene por objetivo apoyar a las mujeres juarenses y refrendar el compromiso de apoyar a las familias a través de proyectos que unifican a la sociedad y la unión familiar.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Anuncian un incremento en tazas de hospitalizaciones."
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV05_ARTURO_VALENZUELA.mp3"
 alt: "A la alza hospitalizaciones"
 front: false
 section: "Local"
-news_id: 183570
+redirect_from: /news/183570
 ---
 
 Un incremento en casos de hospitalización fue lo que se dio a conocer dentro de la rueda de prensa de actualización de casos COVID, según fue dado a conocer por parte del Director Médico de la Zona Norte, Arturo Valenzuela Zorrilla. Señalando que en materia de nuevos casos se ha registrado un discreto descenso de casos de una semana a otra.

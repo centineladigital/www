@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal brindó los números de atención y emergencia"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Concientizan a jóvenes del COBACH 8 con plática preventiva sobre violencia"
 front: false
 section: "Local"
-news_id: 190638
+redirect_from: /news/190638
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres, impartió la plática de “Prevención de violencia” al alumnado del Colegio de Bachilleres plantel número 8, para concientizar a los jóvenes y brindarles las herramientas en caso de necesitar apoyo de las autoridades.

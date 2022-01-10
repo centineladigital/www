@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Secretaría de Gobernación confirmó que en los seis meses recientes han desaparecido 71 conductores en ese tramo de carretera."
 image: "/uploads/2021/images-protesta-participan-choferes-carga-pipas.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Buscan a desaparecidos en vía que une a Tamaulipas con NL"
 front: false
 section: "Nacional"
-news_id: 185451
+redirect_from: /news/185451
 ---
 
 Este miércoles iniciaron los trabajos de búsqueda en el kilómetro 26 de la carretera federal 86 Monterrey-Nuevo Laredo y sus alrededores, donde en los seis meses recientes desaparecieron al menos 71 personas, la mayoría choferes de transporte de carga y Uber.

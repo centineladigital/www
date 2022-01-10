@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los trabajos permanentes se realizan para el mejoramiento de la imagen urbana"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brinda Gobierno Municipal atención de limpieza a puentes vehiculares del Periférico de la Juventud   "
 front: false
 section: "Local"
-news_id: 188220
+redirect_from: /news/188220
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos Municipales, se encuentra realizando trabajos de limpieza en los puentes vehiculares, con el fin de mantener en buenas condiciones las avenidas y calles de la ciudad.

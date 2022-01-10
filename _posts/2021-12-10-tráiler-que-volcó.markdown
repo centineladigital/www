@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El general Luis Rodríguez Bucio informó que el tráiler donde viajaban 160 migrantes centroamericanos no pasó por ninguna revisión y el chofer huyó tras el accidente"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tráiler que volcó con migrantes no pasó por ningún puesto de revisión -  Guardia Nacional"
 front: false
 section: "Nacional"
-news_id: 190697
+redirect_from: /news/190697
 ---
 
 El general Luis Rodríguez Bucio, comandante de la Guardia Nacional, informó que el tráiler donde viajaban 160 migrantes migrantes centroamericanos que ayer volcó, y donde lamentablemente 54 de ellos perdieron la vida, no pasó por ningún puesto de revisión y el chofer huyó tras el accidente.

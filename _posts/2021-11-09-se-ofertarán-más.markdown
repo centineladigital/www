@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El evento se celebrará en Expo Chihuahua el viernes 12 y sábado 13 de noviembre; buscadores de empleo deben hacer un pre-registro en https://bit.ly/RegistroFeriaRE   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se ofertarán más de mil vacantes en Feria de Empleo para fomentar la reactivación económica"
 front: false
 section: "Local"
-news_id: 189727
+redirect_from: /news/189727
 ---
 
 El Gobierno del Estado de Chihuahua, a través del Servicio Estatal de Empleo (SEE) de la Secretaría del Trabajo y Previsión Social (STPS), invita a las personas buscadoras de empleo a participar los días viernes 12 y sábado 13 de noviembre en la Feria de Empleo para la Reactivación Económica y la Inclusión Laboral.

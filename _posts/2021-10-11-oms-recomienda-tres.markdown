@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Todas las evidencias indican que se necesita una tercera dosis de estas mismas vacunas o de sus homólogas, indicó en conferencia de prensa el experto mexicano Alejandro Cravioto, presidente del Grupo Asesor Estratégico de Expertos de la OMS"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "OMS recomienda tres dosis antiCovid de las vacunas Sinovac y Sinopharm a mayores de 60"
 front: false
 section: "Internacional"
-news_id: 188572
+redirect_from: /news/188572
 ---
 
 Ginebra.- Las vacunas chinas desarrolladas por los laboratorios Sinovac y Sinopharm, basadas en virus inactivados, necesitan ser administradas en tres dosis, cuando hasta ahora se inoculaban dos, indicaron hoy expertos de la Organización Mundial de la Salud (OMS) que analizaron el programa de vacunación global.

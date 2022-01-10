@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz señaló que en la actualidad los productores televisivos se fijan en personas con miles de seguidores y no en artistas con formación profesional. "
 image: "/uploads/2021/images-actriz-evidencio-triste-situacion-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Bien triste” -  Elvira Monsell revela que no le dan trabajo por tener pocos seguidores en redes sociales"
 front: false
 section: "Espectáculos"
-news_id: 185025
+redirect_from: /news/185025
 ---
 
 Elvira Monsell es una actriz con gran experiencia en las telenovelas, pues durante más de cuatro décadas ha participado en producciones legendarias como Mundo de juguete, La Indomable, Se busca un hombre y Secretos del alma, por mencionar algunas. Aunque en los últimos años no se le ha visto en la televisión. 

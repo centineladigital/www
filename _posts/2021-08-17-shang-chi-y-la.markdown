@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "'Shang-Chi y la Leyenda de los Diez Anillos' está cada vez más cerca de llegar a cines, y ya se estrenó en Hollywood. "
 image: "/uploads/2021/images-simu-liu-premier-shang-chi.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Shang-Chi y la Leyenda de los Diez Anillos' se estrena con gran premier en Hollywood"
 front: false
 section: "Espectáculos"
-news_id: 186813
+redirect_from: /news/186813
 ---
 
 Este lunes, Marvel se robó toda la atención de Hollywood, gracias a la premier de 'Shang-Chi y la Leyenda de los Diez Anillos', la nueva película del Universo Cinematográfico Marvel en la que aborda la cultura asiática, en un nuevo esfuerzo de integración por parte de Disney. 

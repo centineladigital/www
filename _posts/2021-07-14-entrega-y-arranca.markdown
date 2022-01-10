@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un total de diez construcciones y remodelaciones para ocho comunidades del municipio se lograron a través de los programas de Inversión Normal Estatal (INE) y Desarrollo, Paz y Reencuentro."
 image: "/uploads/2021/images-87697f82-614b-4bcc-ac5e-82d646afc25a.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega y arranca Estado obras en Rosario con recursos del Fondo de la Operación Justicia para Chihuahua"
 front: false
 section: "Local"
-news_id: 185670
+redirect_from: /news/185670
 ---
 
 El Gobierno del Estado a través de  la Secretaría de Desarrollo Municipal (Sedemun) y en coordinación con el Ayuntamiento de Rosario logró la rehabilitación de espacios públicos por un monto de 9 millones 104 mil 965.50 pesos a lo largo de este quinquenio, con recursos provenientes del Fondo de Reparación Justicia para Chihuahua y el Programa de Inversión Normal Estatal (INE), por medio del Programa Desarrollo, Paz y Reencuentro.

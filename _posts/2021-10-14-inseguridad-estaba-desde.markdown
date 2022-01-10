@@ -10,11 +10,11 @@ author: nil
 description: "Habrá reingeniería de seguridad en zona occidente, en la que se encuentra en municipio de Cuauhtémoc."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MJ06_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Inseguridad estaba desde antes de tomar protesta -  Secretario"
 front: false
 section: "Local"
-news_id: 188734
+redirect_from: /news/188734
 ---
 
 Problema de inseguridad se tenía dentro del estado desde antes de tomar la posesión de la administración, aseveró el titular de la Secretaría General de Gobierno César Jáuregui, esto tras ser cuestionado sobre las evaluaciones que se llevan a cabo en materia de seguridad. 

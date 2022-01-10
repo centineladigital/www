@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El laboratorio indio que desarrolló la vacuna y su representante en Brasil rompieron su contrato, lo que dificulta continuar los ensayos "
 image: "/uploads/2021/images-laboratorio-indio-buscara-regulador-brasileno_172_17_813_505.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brasil suspende ensayos clínicos de vacuna anticovid Covaxin"
 front: false
 section: "Internacional"
-news_id: 185975
+redirect_from: /news/185975
 ---
 
 El regulador sanitario brasileño, Anvisa, suspendió temporalmente los ensayos clínicos de la vacuna anticovid india Covaxin, después que el laboratorio Bharat Biotech rompiera el acuerdo con Precisa Medicamentos, su representante en Brasil.

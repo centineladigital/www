@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“Hay un conjunto de estrategia para retrasarla e incluso para llevarla hasta después de las elecciones”, dijo el Gobernador."
 image: "/uploads/2021/images-CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML04_JAVIER_CORRAL.mp3"
 alt: "Candidata busca retrasar acciones judiciales -  Corral"
 front: false
 section: "Local"
-news_id: 184504
+redirect_from: /news/184504
 ---
 
 “Hay un conjunto de estrategia para retrasarla e incluso para llevarla hasta después de las elecciones” fueron las palabras del Gobernador de Chihuahua, Javier Corral Jurado, al afirmar que la Alcaldesa con licencia María Eugenia Campos Galván ha buscado retrasar la audiencia de formulación de cargos en el tema de corrupción. 

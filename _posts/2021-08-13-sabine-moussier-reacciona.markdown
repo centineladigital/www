@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hace un tiempo Sabine Moussier y Paty Navidad discutieron por un amorío: estaban enamoradas del mismo hombre. Sin embargo, tras enterarse del contagio, decidió ofrecer su ayuda. "
 image: "/uploads/2021/images-sabine-moussier-olvida-pleito-paty.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sabine Moussier reacciona al contagio por covid-19 de Paty Navidad tras enemistad por un hombre"
 front: false
 section: "Espectáculos"
-news_id: 186651
+redirect_from: /news/186651
 ---
 
 Paty Navidad, actriz que fue hospitalizada por complicaciones a su contagio por coronavirus, covid-19, sigue generando burlas, pero también preocupación entre sus compañeros que a pesar de su postura -con teorías conspirativas- han deseado su pronta recuperación. Tal es el caso de Sabine Moussier, quien mandó palabras de apoyo para Paty Navidad, esto a pesar de que en el pasado ambas se vieran distanciadas al tener “un mismo amor”. 

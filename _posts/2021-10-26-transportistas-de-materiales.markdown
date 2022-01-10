@@ -10,11 +10,11 @@ author: nil
 description: "Afirman que gobierno anterior sólo los veía con fines recaudatorios."
 image: "/uploads/2021/images-EDGAR.jpg"
 video: "/uploads/2021/videos-MM02_EDGAR_OLIVAS.mp4"
-audio: "nil"
+audio: nil
 alt: "Transportistas de materiales recuerdan a autoridades compromisos pactados"
 front: false
 section: "Local"
-news_id: 189219
+redirect_from: /news/189219
 ---
 
 Este martes integrantes de la Confederación Nacional de Transportistas Mexicano, o CONATRAM por sus siglas, se reunieron con el titular de la Secretaría de Gobierno con el fin de dar a conocer los acuerdos que se tenían vigentes en materia de transporte de materiales y otras cuestiones que no son urbanos.

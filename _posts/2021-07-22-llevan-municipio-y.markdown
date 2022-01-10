@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A las personas que requirieron de atención especializada se les canalizó a la clínica municipal Chanita"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llevan Municipio y Fundación Adelaida Lafón jornada de salud a asentamiento rarámuri"
 front: false
 section: "Local"
-news_id: 185925
+redirect_from: /news/185925
 ---
 
 La Dirección de Desarrollo Humano y Educación, realizó en coordinación con la Fundación Adelaida Lafón una jornada de salud en el asentamiento rarámuri “Napawika”, ubicado al sur de la ciudad.

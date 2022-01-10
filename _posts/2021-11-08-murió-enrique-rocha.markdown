@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor tuvo muchos papeles como antagonista en las telenovelas nacionales. "
 image: "/uploads/2021/images-el-actor-fallecio-a-los.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Enrique Rocha, reconocido villano de telenovelas, a los 81 años"
 front: false
 section: "Espectáculos"
-news_id: 189635
+redirect_from: /news/189635
 ---
 
 El gremio de la actuación nacional está de luto, pues este domingo murió Enrique Rocha, uno de los actores más destacados del país, sobre todo por sus papeles de villano en varias telenovelas. "El actor Enrique Rocha falleció este domingo 7 de noviembre a la edad de 81 años. Lo informó así Óscar Espejel empleado del actor sin dar mas detalles de las causas del fallecimiento. Se despide uno de los Grandes Actores de México, se apaga una Voz inolvidable", informó la cuenta en Twitter de Televisa Espectáculos. 

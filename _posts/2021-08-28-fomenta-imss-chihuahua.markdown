@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Es la mejor estrategia para abatir enfermedades, al tiempo que genera un vínculo significativo entre madre e hijo"
 image: "/uploads/2021/images-Foto_3716-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fomenta IMSS Chihuahua la lactancia materna "
 front: false
 section: "Local"
-news_id: 187228
+redirect_from: /news/187228
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua promueve entre la población femenina la lactancia materna, por generar diversos beneficios tanto en las madres como en los recién nacidos.

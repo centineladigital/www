@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Informa Protección Civil que el ingreso del Frente Frío 53 trae un cielo mayormente nublado y varios municipios rebasarán los 30°C; durante este sábado 24 de abril la intensidad del viento disminuye a 35 km/h"
 image: "/uploads/2021/images-VIENTO_CUU_(2).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prevén rachas por encima de 65 km/h y temperatura calurosa para este domingo"
 front: false
 section: "Local"
-news_id: 184092
+redirect_from: /news/184092
 ---
 
 Este sábado 24 disminuirá la intensidad de las rachas de viento hasta 35 kilómetros por hora (km/h), aunque este domingo 25 se volverá a incrementar a 65 km/h, en tanto que la temperatura alcanzará 32°C en Chihuahua y 36°C en Ojinaga, informó la Coordinación Estatal de Protección Civil (CEPC).

@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Esto fue confirmado por la asistente de Fuentes Vélez, quien señaló que dicha reunión de trabajo para iniciar el proceso de entrega-recepción se pospondría probablemente para la tarde de hoy"
 image: "/uploads/2021/images-arturo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Posponen reunion de entrega recepción en SCHP"
 front: false
 section: "Local"
-news_id: 185373
+redirect_from: /news/185373
 ---
 
 La reunión que se celebraría este lunes a las 10:00 de la mañana entre el equipo de transición de la gobernadora electa, Maru Campos Galván y el secretario de Hacienda, Arturo Fuente Vélez, se pospuso.

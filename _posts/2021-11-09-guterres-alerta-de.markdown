@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El secretario general del organismo internacional recalcó en las brechas que se han generado en la pandemia y recordó el discurso de López Obrador el año pasado. "
 image: "/uploads/2021/images-antonio-guterres-lopez-obrador-consejo_0_23_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Guterres alerta de desigualdad y recuperación económica asimétrica por covid-19 en el mundo"
 front: false
 section: "Internacional"
-news_id: 189681
+redirect_from: /news/189681
 ---
 
 El secretario general de las Naciones Unidas (ONU), António Guterres, consideró que el covid-19 aumentó las desigualdades en el mundo, afectando principalmente a los pobres, además de recalcar en la brecha existente que hay en las aplicaciones de las vacunas contra el coronavirus, donde algunos países de África recién tienen al 5 por ciento de su población inoculada ante el covid-19. 

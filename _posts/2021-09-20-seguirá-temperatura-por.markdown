@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se esperan días mayormente nublados esta semana"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Seguirá temperatura por arriba de los 30°C para la ciudad -  Protección Civil Municipal"
 front: false
 section: "Local"
-news_id: 187874
+redirect_from: /news/187874
 ---
 
 La Coordinación Municipal de Protección Civil informa que para esta semana se esperan días nublados en la capital del estado, con poca probabilidad de lluvias y temperaturas máximas de 31 grados Celsius, por ello es importante tomar las debidas precauciones para evitar deshidrataciones u otras enfermedades producidas por las altas exposiciones al calor.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente aseguró que este acuerdo molestó a la oposición porque ya tenían amparos preparados para frenar las obras prioritarias de su gobierno. "
 image: "/uploads/2021/images-secretario-gobernacion-adan-augusto-lopez.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No hay lugar a una controversia -  Segob responde al INAI sobre acuerdo de obras"
 front: false
 section: "Nacional"
-news_id: 190190
+redirect_from: /news/190190
 ---
 
 El secretario de Gobernación, Adán Augusto López, aseguró que el acuerdo publicado en el Diario Oficial de la Federación (DOF) para blindar las obras prioritarias de la federación no afecta el derecho a la información de los ciudadanos ni a la transparencia del gobierno. 

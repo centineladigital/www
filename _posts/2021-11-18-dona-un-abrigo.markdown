@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Lo recaudado se entregará a la campaña “Abrigos que Abrazan” del DIF Municipal"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dona un abrigo o juguete y disfruta del encuentro entre Policía Municipal y Caudillos"
 front: false
 section: "Local"
-news_id: 189963
+redirect_from: /news/189963
 ---
 
 La Dirección de Seguridad Pública Municipal y Caudillos de Chihuahua invitan a las familias chihuahuenses a disfrutar del encuentro deportivo de “Tochito” que sostendrán este sábado 20 de noviembre, en el Estadio Olímpico “José Reyes Baeza”, del campus II, de la Universidad Autónoma de Chihuahua (UACH), con el fin de recaudar chamarras y juguetes nuevos o usados en buenas condiciones, que serán para niñas y niños que viven en las zonas más vulnerables del municipio.

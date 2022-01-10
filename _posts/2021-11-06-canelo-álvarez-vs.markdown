@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Conoce cuándo y a qué hora será la pelea por el campeonato indiscutido de los pesos supermedios "
 image: "/uploads/2021/images-pelea-canelo-alvarez-vs-caleb_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Canelo' Álvarez vs Caleb Plant -  Horario y dónde ver EN VIVO la pelea"
 front: false
 section: "Deportes"
-news_id: 189611
+redirect_from: /news/189611
 ---
 
 Todo está listo para que este sábado 6 de noviembre suban Saúl Canelo Álvarez y Caleb Plant al ring del MGM Grand Arena de Las Vegas, Nevada, luego de este viernes ambos boxeadores superaran la báscula en este mismo lugar. 

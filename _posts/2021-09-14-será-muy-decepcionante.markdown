@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista, el actor Andrew Garfield, quien fue protagonista de la saga de 'The Amazing Spider-Man', habló sobre la posibilidad del multiverso como algo que será decepcionante para la gente. "
 image: "/uploads/2021/images-andrew-garfield-the-amazing-spider.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Será muy decepcionante -  Andrew Garfield aclara si saldrá en 'Spider-Man -  No Way Home'"
 front: false
 section: "Espectáculos"
-news_id: 187735
+redirect_from: /news/187735
 ---
 
 ¿Qué quieres los fanáticos de Spider-Man y el Universo Cinematográfico Marvel? Multiverso. ¿Cuándo lo quieren? En diciembre, cuando se estrene la nueva película 'Spider-Man: No Way Home'. Mientras que algunas supuestas filtraciones, y sobre todo especulaciones, apuntan a que Tobey Maguire y Andrew Garfield estarán en la nueva película, la información oficial es escaza e incierta, pero el actor mismo de 'The Amazing Spider-Man' lo ha descartado. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Acapulco Shore estrenará una 9 temporada y ya se dieron a conocer algunos detalles como su fecha de estreno. "
 image: "/uploads/2021/images-el-reality-show-regresara-en.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡'Acapulco Shore' llega con más fiestas! Anuncian fecha de estreno de novena temporada"
 front: false
 section: "Espectáculos"
-news_id: 190921
+redirect_from: /news/190921
 ---
 
 Ocho temporadas no han sido suficientes, es por eso que Acapulco Shore regresará con una novena entrega, sin duda una buena noticia para todos aquellos que han seguido desde el inicio este reality show que es uno de los más exitosos de MTV que ahora también se transmite en Paramount Plus. A través de una publicación en redes sociales, Acapulco Shore subió una foto con los que participarán en la novena temporada del programa. Jaylin, Beni, Isa, Jacky, Chile, Alba, Fernanda y Karime son los que regresarán al show mientras que Nati, José, Carlos y Santiago son los nuevos rostros. 

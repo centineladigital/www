@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Oliva López, titular de la Secretaría de Salud de la CDMX habló sobre la polémica que se registró por la inmunización al personal del lugar"
 image: "/uploads/2021/images-2581721.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tras vacuna a personal de Canal 11, esto dice la secretaria de Salud"
 front: false
 section: "Nacional"
-news_id: 184558
+redirect_from: /news/184558
 ---
 
 Se afinan los últimos detalles en los acuerdos y protocolos entre las escuelas y las organizaciones de padres de familia para el regreso a clases el próximo 7 de junio en la Ciudad de México informó la secretaria de salud capitalina, Oliva López Arellano en entrevista con Pamela Cerdeira e Hiram Hurtado en De Pisa y Corre.

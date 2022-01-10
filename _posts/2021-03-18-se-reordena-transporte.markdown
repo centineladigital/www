@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Destaca Alejandra de la Vega que se han suspendido 1,836 concesiones y permisos en Chihuahua y Juárez y asignarán de manera transparente 7 rutas en la frontera por primera vez en la historia"
 image: "/uploads/2021/images-Alejandra_de_la_Vega__(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reordena transporte público con cancelación de concesiones y primera licitación en la historia"
 front: false
 section: "Local"
-news_id: 183462
+redirect_from: /news/183462
 ---
 
 Con la nueva Ley de Transporte se logró cambiar el diseño regulatorio y la competencia del transporte público en el estado y gracias a ello, después de las inspecciones y verificaciones han sido cancelados mil 836 permisos y concesiones, de las cuales mil 635 son de Ciudad Juárez y 241 de Chihuahua.

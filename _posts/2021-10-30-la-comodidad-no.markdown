@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantautor argentino, nominado al Grammy Latino en Mejor álbum vocal tradicional, por su disco Atlántico a pie, asegura que ahora enfrenta el desafío de escribir con nuevos talentos."
 image: "/uploads/2021/images-diego-torres-nominado-premios-grammy.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La comodidad no es buena, siempre estoy en reinvención -  Diego Torres habla sobre su disco 'Atlante a pie'"
 front: false
 section: "Espectáculos"
-news_id: 189396
+redirect_from: /news/189396
 ---
 
 Hace poco más de un mes, el pasado 28 de septiembre, Diego Torres supo que estaba nominado al Grammy Latino; hoy empieza a preparar maletas para viajar a Las Vegas y estar el próximo 18 de noviembre en la premiación. Salir de la fiesta de la Academia Latina de la Grabación con el gramófono le emociona, y también le hace mucha ilusión ser parte de ese “momento histórico, porque será el reencuentro de todos los que nos dedicamos a la música y estamos en la industria, será el escape de ese cúmulo de emociones que hemos tenido contenidas por no poder estar en el escenario”, enfatiza en entrevista, al referirse al efecto que ha provocado el covid-19.

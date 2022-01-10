@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Estará vigente del 16 de noviembre al 15 de diciembre del 2021   "
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Implementa el Registro Civil programa gratuito de corrección de actas"
 front: false
 section: "Local"
-news_id: 189921
+redirect_from: /news/189921
 ---
 
 Debido a que hay usuarios que no disponen de los recursos para efectuar el pago de la rectificación de sus actas, el Gobierno del Estado, a través del Registro Civil implementa el Programa de correcciones administrativas y correcciones derivadas de resolución judicial, para apoyar a la ciudadanía en la realización de estos trámites de manera gratuita durante el periodo del 16 de noviembre al 15 de diciembre del 2021.

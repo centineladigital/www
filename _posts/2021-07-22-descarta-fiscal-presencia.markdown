@@ -10,11 +10,11 @@ author: nil
 description: "Tras detenciones y acciones no se ha detectado este grupo delincuencial dentro del territorio estatal."
 image: "/uploads/2021/images-PENICHE.jpg"
 video: "/uploads/2021/videos-MJ05_CESAR_PENICHE.mp4"
-audio: "nil"
+audio: nil
 alt: "Descarta Fiscal presencia del cártel de Jalisco"
 front: false
 section: "Local"
-news_id: 185918
+redirect_from: /news/185918
 ---
 
 “No la hay, nosotros no tenemos ni un dato que sugiera eso” fueron las palabras del titular de la Fiscalía General del Estado, César Augusto Peniche Espejel, al ser cuestionado respecto a un estudio del mapa de acción del crimen organizado en México.

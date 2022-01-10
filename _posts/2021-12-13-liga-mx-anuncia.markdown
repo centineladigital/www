@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Previo a la final del futbol mexicano entre Atlas y León, la organización compartió un video presentando la organización de las jornadas "
 image: "/uploads/2021/images-liga-mx-calendario-clausura-partidos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Liga MX anuncia el calendario del Clausura 2022; estos son los partidos más importantes"
 front: false
 section: "Deportes"
-news_id: 190782
+redirect_from: /news/190782
 ---
 
 Antes del pitazo inicial de la Gran Final del Grita México Apertura 2022 entre Atlas y León, la Liga MX difundió en televisión y redes sociales el que será el calendario para el próximo torneo Clausura 2022 que iniciará en enero. Aquí te traemos las fechas de inicio, repechaje, liguilla y la final, así como de los duelos más interesantes. 

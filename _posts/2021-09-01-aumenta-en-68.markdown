@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los municipios con más casos acumulados son: Juárez con 34,266, Chihuahua 22,596 y Parral 3,365; actualmente hay hospitalizadas 96 personas   "
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Aumenta en 68 contagios y 2 fallecimientos último reporte estatal COVID-19"
 front: false
 section: "Local"
-news_id: 187322
+redirect_from: /news/187322
 ---
 
 La Secretaría de Salud estatal dio a conocer que en el último reporte COVID-19 se incrementaron en 68 los contagios confirmados, para llegar a 75 mil 679 casos acumulados en la entidad. Además, el número de personas fallecidas aumentó en 2 para alcanzar 7 mil 814. Los últimos decesos corresponden a Parral (1) y Matamoros (1).

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente López Obrador reconoció que los migrantes corren muchos riesgos tanto en la frontera sur como en la norte debido a la delincuencia organizada"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No se puede abrir la frontera sur de México, se debe cuidar a los migrantes -  AMLO"
 front: false
 section: "Nacional"
-news_id: 187494
+redirect_from: /news/187494
 ---
 
 El presidente Andrés Manuel López Obrador afirmó que, pese al fuerte flujo migratorio que actualmente se presenta en nuestro país, no se puede abrir la frontera sur, pues aseguró esto sería violar las leyes mexicanas y porque se tiene que cuidar a los migrantes, ya que, reconoció, hay muchos riesgos, tanto en la frontera sur como en el norte, de ser atacados por la delincuencia organizada.

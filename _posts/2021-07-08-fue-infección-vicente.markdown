@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de redes sociales en donde Vicente Fernández reapareció para agradecer a quienes se han preocupado por él, así como para comunicar la razón por la que estuvo hospitalizado. "
 image: "/uploads/2021/images-vicente-fernandez-revelo-vivio-acoso.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fue infección -  Vicente Fernández reaparece tras ser hospitalizado de emergencia"
 front: false
 section: "Espectáculos"
-news_id: 185470
+redirect_from: /news/185470
 ---
 
 Vicente Fernández, cantante de música ranchera, causó tremendo susto entre sus seguidores, amigos y más figuras del mundo del espectáculo, luego de que se diera a conocer que El Charro de Huentitán había sido hospitalizado en Guadalajara, pues supuestamente se encontraba débil. Incluso, algunos especularon si el intérprete de Estos Celos había sido internado a causa del covid-19. En medio de tantos dimes y diretes, Don Chente, padre de Alejandro Fernández, reapareció en sus redes sociales y mandó un mensaje sobre su estado de salud. 

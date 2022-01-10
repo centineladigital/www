@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Así lo señaló durante su conferencia matutina en Palacio Nacional, sin embargo, no especificó la fecha exacta de la reunión. "
 image: "/uploads/2021/images-amlo.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-JGM01_AMLO.mp3"
 alt: "Afirma AMLO que si se reunirá con Maru "
 front: false
 section: "Local"
-news_id: 185292
+redirect_from: /news/185292
 ---
 
 El presidente Andrés Manuel López Obrador reiteró que se reunirá con la gobernadora electa de Chihuahua, Maru Campos.

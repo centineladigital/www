@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El canciller explicó que el documento conceptual se presentará ante la Asamblea General de las Naciones Unidas la próxima semana. "
 image: "/uploads/2021/images-secretario-relaciones-exteriores-marcelo-ebrard-30_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Más de 100 países, interesados en plan mundial de fraternidad de AMLO -  SRE"
 front: false
 section: "Nacional"
-news_id: 189865
+redirect_from: /news/189865
 ---
 
 El titular de la Secretaría de Relaciones Exteriores (SRE), Marcelo Ebrard, informó que más de 100 países se han interesado en participar en el plan de fraternidad y bienestar mundial que propuso el presidente Andrés Manuel López Obrador en el Consejo de Seguridad de la ONU. 

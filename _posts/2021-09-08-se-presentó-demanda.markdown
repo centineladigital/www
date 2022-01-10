@@ -14,11 +14,11 @@ author: nil
 description: "La demanda es por supuesta extorsión   "
 image: "/uploads/2021/images-AUDITOR_2.jpg"
 video: "/uploads/2021/videos-BW03_IRVING_ANCHONDO.mp4"
-audio: "nil"
+audio: nil
 alt: "Se presentó demanda de extorción en contra de Maclovio Murillo "
 front: false
 section: "Local"
-news_id: 187554
+redirect_from: /news/187554
 ---
 
 El C.P Jesús Esparza presentó una demanda en contra del ex  consejero jurídico Maclovio Murillo por el presunto delito de extorsión, todo esto ante la Fiscalía General del Estado de Chihuahua, el ex auditor superior del estado presentó la demanda asegurando se le pidieron 2 millones de esos como monto inicial.

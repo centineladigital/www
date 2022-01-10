@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Habrá descenso en temperatura; se espera mínima de 13°C para este viernes"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continuarán lluvias esta semana para la ciudad -  Protección Civil Municipal"
 front: false
 section: "Local"
-news_id: 188096
+redirect_from: /news/188096
 ---
 
 La Coordinación Municipal de Protección Civil informa que para esta semana se esperan temperaturas mínimas de hasta 13 grados Celsius durante la madrugada, así como probabilidad de lluvia para este jueves y viernes, en base al pronóstico del Sistema Meteorológico Nacional.

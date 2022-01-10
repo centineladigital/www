@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal advierte que este delito se paga con cárcel o multa de hasta más de 80 mil pesos   "
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Evita sanciones por descargas ilegales de agua contaminada"
 front: false
 section: "Local"
-news_id: 191150
+redirect_from: /news/191150
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Urbano y Ecología, invita a la ciudadanía a evitar sanciones por las descargas ilegales de aguas contaminadas en terrenos o lugares públicos, situación que puede atraer multas económicas y detenciones por parte de la Dirección de Seguridad Pública Municipal. 

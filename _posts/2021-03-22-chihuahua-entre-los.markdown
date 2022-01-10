@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Así lo dio a conocer la secretaria de Seguridad y Protección Ciudadana durante la conferencia mañanera ofrecida hoy"
 image: "/uploads/2021/images-d744d67d-68cf-4287-bf41-e35d7cc611fb.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chihuahua entre los seis estados con más homicidios dolosos"
 front: false
 section: "Local"
-news_id: 183496
+redirect_from: /news/183496
 ---
 
 Durante el mes de febrero, Chihuahua ocupó el sexto lugar en homicidios dolosos, indicó Rosa Icela Rodríguez Velázquez, secretaria de Seguridad y Protección Ciudadana, en su informe mensual de seguridad, durante la conferencia mañanera en Palacio Nacional.

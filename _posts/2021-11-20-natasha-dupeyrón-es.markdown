@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Natasha Dupeyrón compartió a través de sus historias de Instagram que había sido hospitalizada por una fuerte caída.   "
 image: "/uploads/2021/images-natasha.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Natasha Dupeyrón es hospitalizada de emergencia tras aparatosa caída"
 front: false
 section: "Espectáculos"
-news_id: 190044
+redirect_from: /news/190044
 ---
 
 Lamentablemente en cualquier momento pueden ocurrir los accidentes y nadie se salva de ellos, esto es algo que le sucedió a Natasha Dupeyrón, quien tuvo que ser llevada de emergencia a un hospital debido a que sufrió una aparatosa caída. Hasta el momento la joven no ha dado muchos detalles de cómo sucedió el incidente. En una foto que publicó en sus historias de Instagram, se ve a la actriz en una cama del hospital, por lo que escribió que tras caer de unas escaleras tuvo que ser ingresada al nosocomio para recibir atención médica. 

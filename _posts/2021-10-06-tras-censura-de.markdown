@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El gobierno de Estados Unidos publica, por primera vez en cuatro años, la cantidad de ojivas nucleares que el país almacena. Esta es la cifra.... "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tras censura de Trump, EU revela cifras de sus bombas nucleares"
 front: false
 section: "Internacional"
-news_id: 188411
+redirect_from: /news/188411
 ---
 
 El Departamento de Estado de Estados Unidos publicó el martes, por primera vez en cuatro años, la cantidad de ojivas nucleares que el país almacena, luego de que el expresidente Donald Trump censuró los datos.

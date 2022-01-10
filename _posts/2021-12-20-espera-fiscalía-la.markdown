@@ -10,11 +10,11 @@ author: nil
 description: "Espera que se den acciones en el presente mes."
 image: "/uploads/2021/images-ROBERTO.jpg"
 video: "/uploads/2021/videos-ML02_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Espera Fiscalía la judialización de caso ARAS"
 front: false
 section: "Local"
-news_id: 191040
+redirect_from: /news/191040
 ---
 
 En breve se espera que los expedientes en contra de la empresa Aras sean judicializados, afirmó el Fiscal General de Chihuahua Roberto Fierro Duarte. Esto luego de dar a conocer que se tienen mas de mil 700 denuncias en todo el estado por parte de afectados.

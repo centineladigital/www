@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con lágrimas en los ojos, la ex participante de 'Survivor México' relató que su ex esposo se niega a hacerse cargo de la manutención de su hijas."
 image: "/uploads/2021/images-natalia-alcocer-relata-maltratos-sufre_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Basta la violencia -  Natalia Alcocer relata los maltratos que sufre por parte de su ex esposo"
 front: false
 section: "Espectáculos"
-news_id: 188081
+redirect_from: /news/188081
 ---
 
 Natalia Alcocer, conductora y actriz que regresó a la fama luego de su participación en el reality Survivor México, recurrió a sus redes sociales para hablar de los maltratos y abusos que sufre por parte su ex esposo, quien además se niega a hacerse cargo de la manutención de sus hijas, según relató la actriz.  La ex participante de Quiero Cantar, concurso de Venga la Alegría, compartió a través de su cuenta de Instagram un video en el que habló de la batalla legal que enfrenta contra su ex pareja. Con lágrimas en los ojos, la actriz compartió lo complicado que ha sido la relación con el padre de sus hijas. 

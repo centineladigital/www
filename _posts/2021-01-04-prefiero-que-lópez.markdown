@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Respondió el Presidente a la pregunta sobre el subsecretario de salud, que apareció en imágenes si usar el cubrebocas ni guardar la sana distancia"
 image: "/uploads/2021/images-2506084.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "‘Prefiero que López Gatell sea el que explique’"
 front: false
 section: "Nacional"
-news_id: 181843
+redirect_from: /news/181843
 ---
 
 El presidente Andrés Manuel López Obrador señaló que el subsecretario de prevención y promoción de la salud, Hugo López-Gatell será quien explique a los mexicanos la causa por la que decidió tomarse unos días de descanso y que dieron origen a las polémicas imágenes del servidor público en una playa sin utilizar cubrebocas ni mantener la sana distancia.

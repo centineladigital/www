@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El organismo Athletics Kenya fue quien confirmó la muerte de la plusmarquista, quien presuntamente habría sido asesinada por su esposo. "
 image: "/uploads/2021/images-asesinan-atleta-keniana-agnes-jebet_1_25_1198_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atleta Agnes Jebet Tirop muere apuñalada presuntamente por su esposo"
 front: false
 section: "Deportes"
-news_id: 188674
+redirect_from: /news/188674
 ---
 
 La atleta keniana Agnes Jebet Tirop, medallista de bronce en 10 mil metros en los Mundiales de Londres 2017 y Doha 2019 y de oro en cross-country en 2015, fue encontrada muerta, víctima de heridas con arma blanca, indicaron responsables deportivos kenianos. 

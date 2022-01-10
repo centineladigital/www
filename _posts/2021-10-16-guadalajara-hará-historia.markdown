@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El evento tiene permitido recibir hasta el 50 por ciento de la capacidad del inmueble"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Guadalajara hará historia con las finales de la WTA 2021"
 front: false
 section: "Deportes"
-news_id: 188817
+redirect_from: /news/188817
 ---
 
 Guadalajara será el epicentro de la pelota y la raqueta durante siete días, porque albergará las finales de la WTA 2021.

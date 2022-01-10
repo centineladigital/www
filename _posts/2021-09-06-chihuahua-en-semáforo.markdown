@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Advierte que hay que mantenerse en alerta: les pido que conservemos las medidas que se implementarán, que respetemos los filtros sanitarios, los aforos establecidos, que sigamos manteniendo la sana distancia y la higiene personal"
 image: "/uploads/2021/images-IMG_0838.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chihuahua en semáforo verde, sin bajar la guardia -  Javier Corral "
 front: false
 section: "Local"
-news_id: 187443
+redirect_from: /news/187443
 ---
 
 En un mensaje dirigido a los chihuahuenses, el gobernador Javier Corral confirmó que a partir de este lunes 6 de septiembre, la entidad pasa al color verde del semáforo epidemiológico de COVID-19. Sin embargo, advirtió de no bajar la guardia ante la importancia de mantener las medidas sanitarias.

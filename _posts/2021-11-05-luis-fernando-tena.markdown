@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El técnico mexicano retoma su carrera en los banquillos tras su salida de Bravos en marzo de 2021"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Luis Fernando Tena es nuevo técnico de la Selección de Guatemala"
 front: false
 section: "Deportes"
-news_id: 189583
+redirect_from: /news/189583
 ---
 
 La Federación Nacional de Futbol de Guatemala  confirmó que Luis Fernando Tena es el nuevo entrenador de la Selección Nacional.

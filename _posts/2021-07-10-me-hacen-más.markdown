@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Vanessa Guzmán ha mostrado en Instagram que ama hacer ejercicio y el cambio que ha tenido su cuerpo; tras duras críticas la actriz se defendió."
 image: "/uploads/2021/images-la-actriz-mando-un-mensaje.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me hacen más fuerte -  Vanessa Guzmán muestra radical cambio físico; responde a las críticas"
 front: false
 section: "Espectáculos"
-news_id: 185531
+redirect_from: /news/185531
 ---
 
 Vanessa Guzmán es una de las famosas que utiliza Instagram para demostrar su amor por el ejercicio y los cambios que ha tenido su cuerpo gracias al mismo, sin embargo, esto también le ha generado que algunas personas critiquen su aspecto físico, por lo que la actriz no se quedó callada y se defendió. 

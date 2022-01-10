@@ -14,11 +14,11 @@ author: nil
 description: "Las especulaciones sobre la declaracion de la hoy presidenta son cada vez mas fuertes "
 image: "/uploads/2021/images-cesar-duarte-exgobernador-chihuahua-2.jpg"
 video: "/uploads/2021/videos-BM02_CUAHUTEMOC_ESTRADA_.mp4"
-audio: "nil"
+audio: nil
 alt: "La presunta declaración de Miriam Hernández podría significar un conflicto de intereses -  Estrada "
 front: false
 section: "Local"
-news_id: 189890
+redirect_from: /news/189890
 ---
 
 El diputado de la bancada de Morena Cuauhtémoc  Estrada manifestó que no conoce la situación sobre que la nueva presidenta del supremo tribunal de justicia Myriam Victoria Hernández Acosta haya declarado a favor del ex gobernador del estado de Chihuahua Cesar Duarte Jaquez sobre una presunción política de Javier Corral.

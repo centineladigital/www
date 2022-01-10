@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La gobernadora Maru Campos destacó que en Villa Matamoros se realizó la captura de un director de Seguridad Pública Municipal"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Analizan autoridades estatales y federales acciones en pro de Chihuahuenses en Mesa Estatal de Seguridad"
 front: false
 section: "Local"
-news_id: 188595
+redirect_from: /news/188595
 ---
 
 La mañana de este lunes, la gobernadora del Estado de Chihuahua, Maru Campos Galván, asistió a la sesión de la Mesa Estatal de Seguridad, esto con motivo de analizar la situación que guarda nuestra entidad en materia de seguridad y así poder brindar soluciones oportunas para salvaguardar la integridad de la ciudadanía.

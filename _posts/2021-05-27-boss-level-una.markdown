@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un día más para morir es el nombre de la cinta de acción que produce y protagoniza Frank Grillo, al lado de Naomi Watts, y Mel Gibson."
 image: "/uploads/2021/images-la-pelicula-de-hulu-ya.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Boss Level. Una cinta de héroes reales, que sucede una y otra vez"
 front: false
 section: "Espectáculos"
-news_id: 184685
+redirect_from: /news/184685
 ---
 
 Una película de género y acción total, en la que un ex soldado se encuentra atrapado en un bucle de tiempo. “No queremos hacer dramas depresivos, lo que buscamos es hacer cintas de género y llevarlas a un nivel superior para que el público se divierta.”, dijo a M2 Joe Carnahan, el director y socio de Frank Grillo. 

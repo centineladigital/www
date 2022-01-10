@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Liga MX vivió su penúltima jornada y los equipos comienzan a definir su futuro en el torneo"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así marcha la tabla de la Liga MX tras la jornada 16 del Apertura 2021"
 front: false
 section: "Deportes"
-news_id: 189423
+redirect_from: /news/189423
 ---
 
 El Cruz Azul se mantuvo en la pelea por clasificar directo a la liguilla al vencer 2-1 al América en tiempo de compensación este domingo en partido de la decimosexta jornada del torneo Apertura-2021 del fútbol mexicano.

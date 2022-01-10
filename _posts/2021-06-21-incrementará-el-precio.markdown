@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Alan García, propietario de una tortillería al poniente de la ciudad, mencionó que de 17 pesos que cuesta ahora la ofertarán en 20 "
 image: "/uploads/2021/images-tortillas._olga_casas_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Incrementará el precio de la tortilla por sequía en el estado"
 front: false
 section: "Local"
-news_id: 185140
+redirect_from: /news/185140
 ---
 
 Tortilleros de la ciudad, prevén aumentar el kilo de tortillas a partir de la próxima semana.

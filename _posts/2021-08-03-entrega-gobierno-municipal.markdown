@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se equiparon con botas, pantalones y camisas cuya inversión fue de inversión de 194 mil pesos"
 image: "/uploads/2021/images-unnamed_(13).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Gobierno Municipal uniformes a Inspectores de Obra y Ecología"
 front: false
 section: "Local"
-news_id: 186237
+redirect_from: /news/186237
 ---
 
 El Gobierno Municipal a través de la Dirección de Desarrollo Urbano y Ecología llevó a cabo la entrega de uniformes a los Inspectores de Ecología y de Obra, con el objetivo de que los trabajadores puedan realizar su labor diaria de manera óptima y adecuada, cuya inversión fue de 194 mil pesos.

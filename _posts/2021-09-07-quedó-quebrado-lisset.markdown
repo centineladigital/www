@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz señaló que ella se encarga de todos los gastos de su hija María; comentó que Lisardo en alguna ocasión llegó a pagar únicamente la escuela de la niña. "
 image: "/uploads/2021/images-lisset-revela-lisardo-cargo-manutencion_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Quedó quebrado -  Lisset revela que Lisardo no se hace cargo de la manutención de su hija"
 front: false
 section: "Espectáculos"
-news_id: 187503
+redirect_from: /news/187503
 ---
 
 Lisset, cantante y actriz conocida por participar en telenovelas como Las Juanas, Amor en custodia, Vivir por ti y La niñera, se casó en 2008 con el actor español Lisardo, de quien se divorció siete años después. Ahora, la famosa está en el ojo del huracán tras revelar que su ex esposo nunca se ha hecho cargo de la manutención de su hija María.  

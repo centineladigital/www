@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La selección Sub 23 perdió en penaltis ante Brasil y espera rival para disputar el tercer lugar en el podio "
 image: "/uploads/2021/images-JRFJBWZ3NFHWFJ35E6UPFPCMKU.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México pierde ante Brasil y va por la medalla de bronce en Tokio 2020"
 front: false
 section: "Deportes"
-news_id: 186220
+redirect_from: /news/186220
 ---
 
 México sufrió, y mucho, ante Brasil, que se plantó con autoridad en el partido y buscó la mayor del tiempo el tanto para vencer al Tricolor. El conjunto de Jaime Lozano tuvo sus opciones, pero no estuvo fino, aunque su mayor virtud estuvo en la resistencia, tan es así que terminaron el tiempo reglamentario en un empate sin goles y se fueron a tiempo extra, luego a penales en los que la verdeamarelha derrotó al Tricolor 4-1. En penales, de Brasil concretó Dani Alves, Martinelli, Bruno Guimaraes y Richarlison.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Sandra Bullock habló sobre su papel más importante: ser mamá. La actriz dijo que ha vivido algunos casos de racimo debido al color de piel de sus hijos. "
 image: "/uploads/2021/images-la-actriz-hablo-sobre-la.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Desearía que tuviéramos el mismo color de piel -  Sandra Bullock y el racismo que ha vivido con sus hijos"
 front: false
 section: "Espectáculos"
-news_id: 190403
+redirect_from: /news/190403
 ---
 
 

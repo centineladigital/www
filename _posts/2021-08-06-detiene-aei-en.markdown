@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los elementos detuvieron al imputado de nombre Brandon Roberto B. R., quien se identificó como miembro de un grupo delictivo"
 image: "/uploads/2021/images-DETENIDO.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Detiene AEI en flagrancia a presunto narcomenudista"
 front: false
 section: "Local"
-news_id: 186380
+redirect_from: /news/186380
 ---
 
 Como resultado de las acciones realizadas para la prevención y persecución del delito en la Ciudad de Chihuahua por parte de la Agencia Estatal de Investigación, se detuvo en flagrancia a un hombre en posesión de marihuana, cristal y cocaína.

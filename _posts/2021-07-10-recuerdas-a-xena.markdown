@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La icónica heroína se volvió un ícono en los noventa y fue interpretada por la actriz neozelandesa Lucy Lawless. "
 image: "/uploads/2021/images-xena-la-princesa-guerrera-especial_27_0_506_315_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Recuerdas a 'Xena, la princesa guerrera'? Así luce la actriz a 20 años de la serie"
 front: false
 section: "Espectáculos"
-news_id: 185533
+redirect_from: /news/185533
 ---
 
 Xena, la princesa guerrera es una de la series más memorables de los 90, pues durante seis años conquistó a los fanáticos de las historias míticas y de acción, así que posiblemente recuerdes las memorables batallas que lidió la guerrera de la mano de su compañera Gabriel y de Hércules. 

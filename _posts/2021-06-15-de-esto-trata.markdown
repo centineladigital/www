@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La agrupación formada en Iztapalapa usó sus redes sociales para posicionarse ante la solicitud de cancelarlos por el contenido de la canción 17 años. "
 image: "/uploads/2021/images-angeles-azules-vieron-inmersos-polemica.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“De esto trata ‘17 años’”; Los Ángeles Azules responden ante solicitud de cancelación por su canción"
 front: false
 section: "Espectáculos"
-news_id: 185032
+redirect_from: /news/185032
 ---
 
 Los Ángeles Azules se vieron envueltos en la polémicaeste lunes, luego de que en redes sociales solicitaran cancelarlos al afirmar que su canción de 17 años fomentaba y normalizaba la pedofilia. Aunque ha habido muchas críticas sobre el tema, los usuarios de redes también han defendido la popular canción y han iniciado un acalorado debate sobre si la canción comete faltas e incita al delito o si en realidad trata de un amor puro e inocente. 

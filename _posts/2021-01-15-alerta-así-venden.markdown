@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La empresa Pfizer creadora de la vacuna en coordinación con BioNTech, negó rotundamente que la vacuna se venda a través de sitios web o de forma telefónica"
 image: "/uploads/2021/images-2512363.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡ALERTA! Así venden vacuna falsa de covid; no caigas en el engaño"
 front: false
 section: "Nacional"
-news_id: 182156
+redirect_from: /news/182156
 ---
 
 Debido a la llegada de la vacuna de Pfizer a México y a la desesperación de varias personas por adquirirla lo más pronto posible, diversos delincuentes aprovechan para engañar a la gente a través de diversos medios, entre ellos páginas web y supuestos números telefónicos de la empresa que la creó.

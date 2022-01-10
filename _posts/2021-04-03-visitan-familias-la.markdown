@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Elementos de seguridad se encuentran supervisando los accesos, con la finalidad de que no se incremente la movilidad en estos puntos"
 image: "/uploads/2021/images-visitan_familias_presa_chihuahua.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Visitan familias la presa Chihuahua pese a restricción"
 front: false
 section: "Local"
-news_id: 183656
+redirect_from: /news/183656
 ---
 
 Un aproximado de 20 familias se encuentran la mañana de este sábado en las orillas de la presa Chihuahua, por el acceso que se ubica en el lado del fresno, a la salida a ciudad Cuauhtémoc, disfrutando del fin de semana.

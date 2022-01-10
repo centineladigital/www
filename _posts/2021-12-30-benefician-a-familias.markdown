@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se entregaron más de 160 juguetes recabados en la carrera “Santas Run”"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Benefician a familias con apoyos en colonia Agrícola Francisco Villa"
 front: false
 section: "Local"
-news_id: 191350
+redirect_from: /news/191350
 ---
 
 El alcalde de Chihuahua, Marco Bonilla, recorrió las calles de la colonia Agrícola Francisco Villa para llevar apoyos a las familias de escasos recursos en la zona con el programa “Alcalde en tu Colonia”.

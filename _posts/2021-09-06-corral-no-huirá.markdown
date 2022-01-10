@@ -10,11 +10,11 @@ author: nil
 description: "Asegura Secretario que Javier Corral vivirá en Chihuahua tras concluir su mandato."
 image: "/uploads/2021/images-MESTA.jpg"
 video: "/uploads/2021/videos-ML01_FERNANDO_MESTA.mp4"
-audio: "nil"
+audio: nil
 alt: "Corral no huirá del estado -  Mesta"
 front: false
 section: "Local"
-news_id: 187471
+redirect_from: /news/187471
 ---
 
 El Gobernador Javier Corral no huirá como han especificado algunos actores políticos, señaló el Secretario General de Gobierno, Fernando Mesta Soulé. Esto tras diferentes señalamientos de actores políticos en relación a que el mandatario viajará a España una vez que concluya la administración.

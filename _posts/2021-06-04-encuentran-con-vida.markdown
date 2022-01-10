@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Presuntamente fue secuestrado por integrantes del crimen organizado "
 image: "/uploads/2021/images-Leobardo_desaparecido.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encuentran con vida a Leobardo, candidato de San Francisco de Borja"
 front: false
 section: "Local"
-news_id: 184830
+redirect_from: /news/184830
 ---
 
 El candidato de Morena a la alcaldía de San Francisco de Borja fue localizado con vida, al momento se encuentra rindiendo declaración.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Alba Mery, madre del cantante, dijo que no acabó de ver el video, pues no veía a mi Josecito por ninguna parte. "
 image: "/uploads/2021/images-video-cancion-perra-genero-polemica.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mi hijo se equivocó -  Mamá de J Balvin reacciona a polémica por la canción 'Perra'"
 front: false
 section: "Espectáculos"
-news_id: 189070
+redirect_from: /news/189070
 ---
 
 Alba Mery, madre de J Balvin, reaccionó ante la polémica que enfrenta su hijo por la canción "Perra", pues hace unos días el video del tema fue retirado de YouTube luego de que recibió miles de críticas en redes sociales por promover el machismo, el sexismo, la misoginia y la violencia de género.  "Cuando me enteré, yo lo llamé: '¿Dónde está el Josecito que yo conozco?'. Esa canción... no sé ni qué decir. No seguí viendo el video, no veía a mi Josecito por ninguna parte, pero definitivamente estas son experiencias y de estas experiencias es que vivimos, hacemos cambios y no podemos idealizar a nadie", dijo en entrevista con medios colombianos. 

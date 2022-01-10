@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A unas cuantas horas de su estreno mundial, se han posicionado dentro del top 10 de tendencias de música en México."
 image: "/uploads/2021/images-twice-lanza-disco-formula-of.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡El K-Pop se adueña del mundo! Twice lanza su nuevo álbum 'Formula of Love'; es tendencia en México"
 front: false
 section: "Espectáculos"
-news_id: 189823
+redirect_from: /news/189823
 ---
 
 El K-Pop se ha adueñado de la industria musical en los últimos años. Muestra de ello es la constante aparición de cualquiera de los exponentes de este género en las tendencias de búsqueda en internet. Esto agregado a los millones y millones de reproducciones en plataformas como YouTube. Twice, es uno de los mayores exponentes del K-Pop, considerada así por Billboard. 

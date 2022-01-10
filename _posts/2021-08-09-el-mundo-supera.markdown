@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El organismo internacional afirmó que pese a los nuevos casos, se ve una estabilización en el número de infectados en esta nueva ola de coronavirus"
 image: "/uploads/2021/images-unidos-reporta-ligera-alza-contagios_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El mundo supera los 200 millones de contagios de covid-19 -  OMS"
 front: false
 section: "Internacional"
-news_id: 186451
+redirect_from: /news/186451
 ---
 
 Los contagios de covid-19 a nivel global registrados desde el inicio de la pandemia superaron este fin de semana la barrera de los 200 millones, aunque la curva de nuevos casos muestra indicios de estabilización sin haber alcanzado los récords de la anterior oleada, el pasado mes de abril, así lo considera hoy el informe de la Organización Mundial de la Salud (OMS). 

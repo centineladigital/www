@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Omar Chaparro se sinceró y contó que hace algunos años pasó por un momento muy duró en su vida que lo llevó a la depresión. "
 image: "/uploads/2021/images-omar-chaparro-conto-razon-penso.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Omar Chaparro revela que pensó en suicidarse tras estar deprimido"
 front: false
 section: "Espectáculos"
-news_id: 187973
+redirect_from: /news/187973
 ---
 
 Omar Chaparro se ha convertido en uno de los conductores y actores más conocidos en México, desde hace algunos años se mudó a Estados Unidos para continuar trabajando y seguir cosechando éxito, pero no siempre fue así, ya que pasó por momentos complicados en su carrera. 

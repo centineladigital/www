@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Acumula estado 67 mil 132 contagios y 6,893 muertes en 14 meses de la pandemia; sigue municipio de Chihuahua a la cabeza en activos con 527 casos "
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dan positivo 23 personas y se confirman 4 decesos en el último reporte epidemiológico COVID-19"
 front: false
 section: "Local"
-news_id: 184497
+redirect_from: /news/184497
 ---
 
 En los 14 meses que lleva la pandemia por coronavirus en el estado de Chihuahua van 67 mil 132 contagios acumulados y 6 mil 893 defunciones, de acuerdo al último reporte epidemiológico que emite la Secretaría de Salud.

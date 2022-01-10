@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exhortó a las madres de menores en etapa de lactancia sean alimentados con leche materna, lo cual los hace menos propensos a este tipo de riesgos."
 image: "/uploads/2021/images-UACH5.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM06_FEDERICO_SARACHO.mp3"
 alt: "Exhortan a lactancia materna"
 front: false
 section: "Local"
-news_id: 183361
+redirect_from: /news/183361
 ---
 
 Con el fin de evitar que se den alergias y otro tipo de enfermedades, el doctor de la Facultad de Medicina y Ciencias Biomédicos de la UACH, Federico Saracho Weber, exhortó a las madres de menores en etapa de lactancia sean alimentados con leche materna, lo cual los hace menos propensos a este tipo de riesgos.

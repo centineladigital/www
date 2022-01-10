@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Recibe Gobernador Javier Corral a Arturo Herrera en Ciudad Juárez; junto con la subsecretaria de Cultura y el titular de la Unidad de Política y Control Presupuestario de la Secretaría de Hacienda."
 image: "/uploads/2021/images-gober.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconoce Secretario de Hacienda manejo de finanzas en Chihuahua"
 front: false
 section: "Local"
-news_id: 185363
+redirect_from: /news/185363
 ---
 
 Durante su visita a Ciudad Juárez, el secretario de Hacienda y Crédito Público (SHCP), Arturo Herrera, señaló que el Gobierno de Chihuahua ha hecho un manejo pulcro de sus finanzas, por lo que el compromiso es apoyarlo en reconocimiento a esta labor.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Apenas a mediados de mayo otros agentes salvaron la vida de una madre y su recién nacido"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Policías municipales auxilian a joven dando a luz en su domicilio"
 front: false
 section: "Local"
-news_id: 184791
+redirect_from: /news/184791
 ---
 
 Una mujer de 18 años que se encontraba dando a su luz en su casa, fue auxiliada por policías municipales, quienes le brindaron los primeros auxilios junto a su bebé mientras llegaba una ambulancia para efectuar el traslado de ambos al hospital Central para ofrecerles una mayor atención y descartar posibles complicaciones en su estado de salud.

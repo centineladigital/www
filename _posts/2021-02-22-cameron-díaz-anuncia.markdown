@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz había puesto en pausa su carrera en el cine en 2014, cinco años después se convirtió en madre de una niña. "
 image: "/uploads/2021/images-cameron-diaz-anuncia-retiro-definitivo_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cameron Díaz anuncia su retiro definitivo de la actuación; explica los motivos"
 front: false
 section: "Espectáculos"
-news_id: 183081
+redirect_from: /news/183081
 ---
 
 Cameron Díaz protagonizó taquilleras películas de la década de 1990, entre ellas La boda de mi mejor amigo, Loco por Mary o La máscara; sin embargo, decidió alejarse de las cámaras y reflectores en 2014. Ahora, la actriz compartió que no piensa regresar a los set de grabación, pues prefiere dedicarse por completo a cuidar de su hija, Raddix Madden, quien nació en diciembre de 2019. En una entrevista en el programa de radio Quarantined With Bruce, Cameron Díaz habló de su retiro de la actuación. Indicó que en este momento su prioridad es ser madre y esposa, una etapa que la actriz describió como "lo mejor" de su vida.

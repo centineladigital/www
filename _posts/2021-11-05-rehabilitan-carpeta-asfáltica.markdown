@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal intervino también la calle 64, de las más transitadas en la colonia Cerro de la Cruz"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rehabilitan carpeta asfáltica de avenida Juárez en Centro Histórico"
 front: false
 section: "Local"
-news_id: 189590
+redirect_from: /news/189590
 ---
 
 Dentro de los trabajos de 100 días de trabajo y resultados, el Gobierno Municipal a través de la Dirección de Obras Públicas, avanza en el recarpeteo de calles, esta semana los beneficiados fueron los conductores que a diario transitan por la avenida Juárez en la Zona Centro y los vecinos de la calle 64 del Cerro de la Cruz.

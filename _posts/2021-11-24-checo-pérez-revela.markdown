@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El piloto mexicano de Red Bull comentó que lujo se dio tras ganar su primer sueldo en la máxima categoría motor. "
 image: "/uploads/2021/images-sergio-perez-piloto-mexicano-red_0_33_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Checo' Pérez revela en qué gastó su primer sueldo que ganó en la Fórmula 1"
 front: false
 section: "Deportes"
-news_id: 190135
+redirect_from: /news/190135
 ---
 
 Sergio Pérez, de Red Bull, se ha convertido en el mejor piloto mexicano que ha habido en la Fórmula 1, donde ya suma 15 podios, el último fue en el Gran Premio de México de este año, convirtiéndose en el primer conductor tricolor en hacerlo. 

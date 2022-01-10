@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El gobernador reveló que encontraron micrófonos escondidos dentro de los enchufes de las oficinas del piso 26. "
 image: "/uploads/2021/images-samuel-garcia-foto-instagram_0_0_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Samuel García acusa espionaje; descubren micrófonos en Torre Administrativa"
 front: false
 section: "Nacional"
-news_id: 188511
+redirect_from: /news/188511
 ---
 
 Al seguir con la cloaca de irregularidades, el gobernador Samuel García Sepúlveda reveló haber encontrado micrófonos en las paredes del piso 26 de la Torre Administrativa, donde antes era la Secretaría de Desarrollo Sustentable y que ahora la nombró como Secretaría de Medio Ambiente. 

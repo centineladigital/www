@@ -10,11 +10,11 @@ author: nil
 description: "Lamenta comentarios y dice no estar de acuerdo."
 image: "/uploads/2021/images-FIERRO.jpg"
 video: "/uploads/2021/videos-MM06_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Sancionarán a Fiscal en Juárez por comentarios"
 front: false
 section: "Local"
-news_id: 190351
+redirect_from: /news/190351
 ---
 
 Debido a que el Fiscal Zona Norte realizó un comentario en relación a que ciudad Juárez es “una fábrica de sicarios” el titular de la Fiscalía General del Estado, Roberto Fierro Duarte, señaló que se daría una sanción al funcionario, recalcando que este es un comentario irresponsable.

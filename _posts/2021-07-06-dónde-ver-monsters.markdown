@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El éxito de Mike Wazowski y James P. Sullivan llega con una nueva etapa en 'Monsters At Work', la esperada secuela de 'Monsters Inc'. "
 image: "/uploads/2021/images-debes-monsters-at-work-disney.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Dónde ver 'Monsters At Work'? Lo que debes saber sobre la secuela de 'Monsters Inc'"
 front: false
 section: "Espectáculos"
-news_id: 185395
+redirect_from: /news/185395
 ---
 
 Monsters Inc. finalmente tendrá su secuela. La película lanzada en 2001 ya tiene preparada su propia secuela para los más nostálgicos, y se llamará Monsters At Work, que pasará exclusivamente por streaming. Es por ello que aquí te decimos todo lo que debes saber sobre la nueva serie del popular universo de Pixar: cuándo se estrena, dónde ver y de qué trata. 

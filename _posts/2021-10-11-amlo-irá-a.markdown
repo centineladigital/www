@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente informó que asistirá a la ONU ya que México asumirá la presidencia del Consejo de Seguridad, y ahí será donde dé su mensaje. "
 image: "/uploads/2021/images-amlo-ira-cede-onu-hablar-1_0_3_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO irá a sede de la ONU en EU en noviembre; hablará sobre corrupción"
 front: false
 section: "Nacional"
-news_id: 188575
+redirect_from: /news/188575
 ---
 
 El presidente Andrés Manuel López Obrador informó que visitará la sede de la Organización de las Naciones Unidas (ONU) en Nueva York, Estados Unidos, para dar un mensaje sobre corrupción el 9 de noviembre, debido a que México asumirá la presidencia del Consejo de Seguridad. "Voy a hablar del principal problema del Mundo: la corrupción que produce desigualdad". 

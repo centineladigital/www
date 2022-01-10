@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las autoridades estadunidenses no descartan que puedan registrarse más víctimas tras el paso del sistema frontal que tocó tierra como huracán categoría 4"
 image: "/uploads/2021/images-luisiana-registraron-mayores-afectaciones-paso_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Ida' deja al menos 4 muertos en Luisiana y Misisipi; avanza como depresión tropical a Tennessee"
 front: false
 section: "Internacional"
-news_id: 187292
+redirect_from: /news/187292
 ---
 
 Al menos cuatro personas han muerto en Luisiana y Misisipi tras el paso de Ida como huracán por esos territorios de Estados Unidos, mientras avanzan las labores de búsqueda y rescate de posibles víctimas, especialmente en zonas inundadas y aisladas en donde algunos se resistieron a evacuar.

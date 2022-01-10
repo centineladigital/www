@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La tercera temporada de Quién es la máscara llegará a su fin este 19 de diciembre y así podrás votar para elegir al ganador del programa. "
 image: "/uploads/2021/images-apache-gitana-hueva-finalistas-mascara_38_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Tu favorito de 'Quién es la máscara' ganará? Así podrás votar para elegir al ganador"
 front: false
 section: "Espectáculos"
-news_id: 190964
+redirect_from: /news/190964
 ---
 
 La tercera temporada de Quién es la máscara llegará a su final este 19 de diciembre y los televidentes ya esperan saber quien de los tres personajes que quedan dentro del concurso será el ganador: Apache, Hueva o Gitana. Aunque en el programa la dinámica al momento de descubrir la identidad de un personaje consiste en que los investigadores salvan a uno y el público que se encuentra en el foro también vota por otro, en esta ocasión serán los televidentes quienes decidan quién ganará. 

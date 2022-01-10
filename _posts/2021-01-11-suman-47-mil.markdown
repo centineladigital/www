@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Confirma la Secretaría de Salud 9 defunciones más de las cuales 3 se registraron en Juárez, 4 en Chihuahua, 1 en Parral y 1 en Cuauhtémoc, así como 103 nuevos contagios"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suman 47 mil 569 contagios y 4 mil 407 decesos por COVID-19 en el estado"
 front: false
 section: "Local"
-news_id: 182022
+redirect_from: /news/182022
 ---
 
 A las 7:00 horas de este 11 de enero, la Secretaría de Salud informó que se tienen en el estado de Chihuahua un total general de 47 mil 569 casos confirmados de COVID-19, mientras que el número de personas fallecidas es 4 mil 407.

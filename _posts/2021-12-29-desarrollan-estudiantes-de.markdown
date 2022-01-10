@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La actividad se llevó a cabo por estudiantes de la carrera de Agricultura Sustentable y Protegida de la UT Paquimé en su invernadero."
 image: "/uploads/2021/images-1.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Desarrollan estudiantes de la UT Paquimé cultivo de ajo en estructura protegida"
 front: false
 section: "Local"
-news_id: 191313
+redirect_from: /news/191313
 ---
 
 Como parte de su formación profesional, estudiantes de la carrera de Agricultura Sustentable y Protegida de la Universidad Tecnológica de Paquimé (UT Paquimé) realizaron el cultivo de ajo en estructura protegida.

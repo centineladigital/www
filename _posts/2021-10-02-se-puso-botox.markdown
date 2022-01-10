@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ricky Martin aclaró qué le había sucedido en su rostro y no, no fue una operación, sino una reacción con un producto."
 image: "/uploads/2021/images-ricky-martin-instagram-2_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Se puso botox? Ricky Martin aclara qué sucedió con su rostro tras críticas en redes sociales"
 front: false
 section: "Espectáculos"
-news_id: 188317
+redirect_from: /news/188317
 ---
 
 ¿Se operó? ¿Se retocó la cara? Ricky Martin apareció hace algunos días con el rostro diferente, hinchado y en redes sociales aseguraban que el cantante puertorriqueño se había hecho algunos retoques; sin embargo, el intérprete de Livin' La Vida Loca aclaró qué había sucedido.  En su cuenta de TikTok, Ricky Martin aclaró que le había sucedido en su rostro y no, no fue una operación que se hizo en su cara, sino un producto de belleza que usó y que funciona para mantenerlo hidratado. 

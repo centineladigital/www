@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En Palacio Nacional, el mandatario reiteró sus condolencias a familiares y amigos del máximo exponente de la canción ranchera en los últimos años. "
 image: "/uploads/2021/images-conferencia-de-prensa-del-presidente-4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO cierra conferencia con 'Volver, volver' de Vicente Fernández"
 front: false
 section: "Nacional"
-news_id: 190781
+redirect_from: /news/190781
 ---
 
 El presidente Andrés Manuel López Obrador cerró su conferencia de prensa matutina con la canción "Volver, volver", interpretada por Vicente Fernández, como un homenaje a El Charro de Huentitán fallecido este domingo. 

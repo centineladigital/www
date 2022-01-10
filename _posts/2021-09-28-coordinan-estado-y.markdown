@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Encabeza titular de Secretaría Pública del Estado (SSPE) primera reunión anual de coordinadores, en la que participaron C4 de 8 municipios"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_14.14.40.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Coordinan Estado y municipios acciones para fortalecer tecnología en C4s"
 front: false
 section: "Local"
-news_id: 188161
+redirect_from: /news/188161
 ---
 
 A fin de fortalecer la seguridad y coordinar las acciones en esta materia, entre Gobierno del Estado y los municipios, se llevó a cabo la primera reunión anual de coordinadores de los Centros de Comando, Control, Comunicación y Computo (C4).

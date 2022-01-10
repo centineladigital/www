@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Tres estudiantes graduados de la carrera de Ingeniería Aeronáutica formarán parte del Programa EPEX durante un año en la empresa Safran Aerospace"
 image: "/uploads/2021/images-EGRESADOS_EPEX_2.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizarán prácticas profesionales en Estados Unidos  egresados de Universidad Politécnica de Chihuahua"
 front: false
 section: "Local"
-news_id: 189212
+redirect_from: /news/189212
 ---
 
 Tres alumnos egresados de la carrera de Ingeniería Aeronáutica de la Universidad Politécnica de Chihuahua (UPCH), realizarán prácticas durante un año en plantas de la empresa Safran Aerospace, localizadas en Liberty, Mississippi y Belmar, Nueva Jersey, Estados Unidos.

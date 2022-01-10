@@ -16,11 +16,11 @@ author: nil
 description: "Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2022, el cual asciende a $81,352,617,019.00."
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-17_at_2.38.42_PM.jpeg"
 video: "/uploads/2021/videos-BV06_LUIS_AGUILAR_.mp4"
-audio: "nil"
+audio: nil
 alt: "Aprueban presupuesto de egresos para el Estado "
 front: false
 section: "Local"
-news_id: 190990
+redirect_from: /news/190990
 ---
 
 El diputado Luis Aguilar Lozoya, presidente de la Comisión de Programación, Presupuesto y Hacienda Pública, señaló que dicho presupuesto contempla las previsiones de gasto público y las partidas plurianuales necesarias para cubrir las obligaciones derivadas de los Proyectos de Inversión Pública a Largo Plazo, durante el periodo comprendido del 1 de enero al 31 de diciembre del año 2022. 

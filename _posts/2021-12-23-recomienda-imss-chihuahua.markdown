@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Es importante que todos los familiares contribuyan en realizar menús saludables"
 image: "/uploads/2021/images-Foto_6251-1.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recomienda IMSS Chihuahua a pacientes diabéticos no descuidar su dieta en esta temporada "
 front: false
 section: "Local"
-news_id: 191154
+redirect_from: /news/191154
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, advirtió que no respetar la dieta recomendada para pacientes con enfermedades crónicas como la diabetes, podría generarles reacciones adversas como descompensaciones cardiovasculares y metabólicas.

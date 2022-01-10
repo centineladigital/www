@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En modo de homenaje, Carlos Rivera explicó que su abuelo materno fue el hombre más bueno, divertido, honesto y trabajador que conoció en su vida. "
 image: "/uploads/2021/images-carlos-rivera-luto-muerte-abuelito.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Un campito en la luna -  Carlos Rivera está de luto; anuncia la muerte de su abuelito"
 front: false
 section: "Espectáculos"
-news_id: 185288
+redirect_from: /news/185288
 ---
 
 Carlos Rivera, famoso cantante mexicano, está de luto. Así comunicó la sensible noticia desde sus redes sociales en donde compartió una imagen de su ser amado que dejó este mundo. Se trata de su abuelito Longino Guerra, a quien dedicó algunas palabras de agradecimiento y en forma de homenaje.  

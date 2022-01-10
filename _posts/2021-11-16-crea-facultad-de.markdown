@@ -10,13 +10,13 @@ tags:
   
 author: nil
 description: "El Educador Covid-19 está debidamente identificado con uniforme y gafete, y cuenta con el criterio suficiente y autoridad en la toma de decisiones sobre el acceso de personas a la institución."
-image: "nil"
-video: "nil"
-audio: "nil"
+image: nil
+video: nil
+audio: nil
 alt: "Crea Facultad de Enfermería y Nutriología figura de Educador Covid-19 para prevenir contagios"
 front: false
 section: "Local"
-news_id: 189904
+redirect_from: /news/189904
 ---
 
 Bajo el lema ¡Cuidándote, me cuidas!, la Facultad de Enfermería y Nutriología de la UACH creó la figura de Educador Covid-19 con el apoyo de estudiantes, cuyo principal objetivo es proteger la salud de las personas que acuden a sus instalaciones y evitar la cadena de contagios.

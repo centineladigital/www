@@ -10,11 +10,11 @@ author: nil
 description: "Llegará la frontera a superar el 70 por ciento de los vacunados en breve."
 image: "/uploads/2021/images-JAVIER1.jpg"
 video: "/uploads/2021/videos-MJ03_JAVIER_CORRAL.mp4"
-audio: "nil"
+audio: nil
 alt: "Juárez podría abrir sus puertas internacionales"
 front: false
 section: "Local"
-news_id: 185708
+redirect_from: /news/185708
 ---
 
 En breve las puertas internacionales de Ciudad Juárez pudieran aperturar, señaló el Gobernador del Estado Javier Corral Jurado, quien dijo que un 70 por ciento de la población deberá de estar vacunada para que se dé el intercambio de la franja fronteriza.

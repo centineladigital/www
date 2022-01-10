@@ -14,11 +14,11 @@ author: nil
 description: "En un horario de 10:00 am a 5:00 pm"
 image: "/uploads/2021/images-invitan_a_feria_de_reciclaje_(2).jpg"
 video: "/uploads/2021/videos-BW02_FEDERICO_MURUATO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Feria Del Reciclaje Electrónico Iniciará El 26 De Noviembre "
 front: false
 section: "Local"
-news_id: 189938
+redirect_from: /news/189938
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, en conjunto con la empresa Ecorecikla, anunció la realización de la feria del reciclaje electrónico, misma que se llevará a cabo los próximos días 26, 27 y 28 de noviembre en la explanada del parque El Palomar, en un horario de 10:00 am a 5:00 pm.

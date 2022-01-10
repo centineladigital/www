@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Condenados también por el delito de secuestro exprés del chofer"
 image: "/uploads/2021/images-INFOGRAFIA.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Sentencia de 50 años de cárcel contra responsables de robar un vehículo de plataforma digital"
 front: false
 section: "Local"
-news_id: 186528
+redirect_from: /news/186528
 ---
 
 La Fiscalía de Distrito Zona Centro, obtuvo una sentencia ejemplar de 50 años de prisión en contra de tres personas que cometieron los delitos de robo de vehículo y secuestro exprés en perjuicio de un chofer de plataforma digital.

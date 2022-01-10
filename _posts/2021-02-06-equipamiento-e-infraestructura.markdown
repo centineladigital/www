@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Comparten sus testimonios en el marco del 4° Informe; tanto agentes estatales como policías municipales cuentan con mejores condiciones y herramientas para afrontar la lucha contra el crimen"
 image: "/uploads/2021/images-entrega_de_cuatrimotos_policia_mpios_17_-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Equipamiento e infraestructura de seguridad benefició a todos los municipios del estado"
 front: false
 section: "Local"
-news_id: 182759
+redirect_from: /news/182759
 ---
 
 Autoridades de los ayuntamientos y elementos de las policías estatales y municipales, dieron testimonio de la forma en que el Gobierno del Estado cumplió con la entrega de infraestructura y equipamiento para combatir de la delincuencia y proporcionar un mejor servicio a la comunidad.

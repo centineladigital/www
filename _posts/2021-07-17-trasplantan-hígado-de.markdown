@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El donador fue un joven de 19 años del estado de Guanajuato"
 image: "/uploads/2021/images-IMSS_304_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trasplantan hígado de “urgencia nacional” a paciente pediátrico en el Centro Médico Nacional La Raza del IMSS"
 front: false
 section: "Local"
-news_id: 185767
+redirect_from: /news/185767
 ---
 
 Un equipo de especialistas del Hospital General “Dr. Gaudencio González Garza” del Centro Médico Nacional La Raza trasplantó un hígado a un niño de 5 años 11 meses de edad, considerado de “urgencia nacional”, ya que el menor tiene un padecimiento de hepatitis que pone en riesgo su vida.

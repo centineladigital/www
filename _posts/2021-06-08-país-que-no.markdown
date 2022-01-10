@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Galilea Montijo criticó a Sebastián Rulli por no ser mexicano y hablar de la política en México, luego de que el famoso se lanzara en contra de quienes 'vendieron' su voto al PVEM: me pongo a hablar de la política argentina, pues no le sé."
 image: "/uploads/2021/images-galilea-montijo-lanza-sebastian-rulli.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "País que no es tuyo -  Galilea Montijo contra Sebastián Rulli por hablar de famosos que apoyaron al PVEM"
 front: false
 section: "Espectáculos"
-news_id: 184923
+redirect_from: /news/184923
 ---
 
 Galilea Montijo, conductora del programa Hoy de Televisa, causó polémica al defender a Raúl Araiza, pues el famoso se unió con el PVEM e hizo menciones sobre el partido en plena veda electoral. Sin embargo, en medio de su discurso de defensa quedó mal parada al menospreciar la opinión de Sebastián Rulli por no ser mexicano. ¿Lo discriminó? La tapatía minimizó la opinión que dio el argentino sobre los famosos e influencers que presuntamente vendieron su voto al Partido Verde Ecologista de México (PVEM). ¿Según Galilea Montijo, Sebastian Rulli no puede opinar sobre la política de México pese a que lleva tiempo viviendo en el país? 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los cantautores interpretan el tema “Vuelve, vuelve”, para compartir y coincidir con sus fans en las emociones y las acciones que han echado de menos durante la pandemia. "
 image: "/uploads/2021/images-danna-paola-david-bisbal-unen_122_0_964_600.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Danna Paola y David Bisbal celebran volver a abrazarse con 'Vuelve, vuelve'"
 front: false
 section: "Espectáculos"
-news_id: 184165
+redirect_from: /news/184165
 ---
 
 David Bisbal y Danna Paola se escuchan actualmente con el tema “Vuelve, vuelve”, el cual escribieron, interpretaron y hasta hicieron el video para promocionarlo. Todo fue a través de las nuevas dinámicas y a la distancia, como lo ha impuesto la pandemia, coinciden. Por eso al preguntarles a ambos cuál fue el momento más emotivo durante todo el proceso de creación de su nuevo dueto, se sinceraron. 

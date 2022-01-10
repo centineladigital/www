@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que empresarios están preocupados por la sanidad de las finanzas."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MJ05_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Niega Gobernadora preocupación por deuda"
 front: false
 section: "Local"
-news_id: 190933
+redirect_from: /news/190933
 ---
 
 “Yo no he visto sectores que estén preocupados”, fueron las palabras de la Gobernadora al ser cuestionada por el tema de que empresarios se encuentran preocupados por la renegociación de la deuda.

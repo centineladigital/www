@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cuadro de la frontera apenas tiene una victoria en este curso, es de los que más han perdido con siete caídas y suman apenas ocho unidades.   "
 image: "/uploads/2021/images-chivas-durante-el-apertura-de.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chivas por el triunfo ante el colero general"
 front: false
 section: "Deportes"
-news_id: 188954
+redirect_from: /news/188954
 ---
 
 Chivas sale a su campo maldito en la búsqueda de tres puntos que los mantengan en la zona de repesca, que los tengan peleando por los sitios de privilegio y de menos apelar a jugar la repesca en casa. 

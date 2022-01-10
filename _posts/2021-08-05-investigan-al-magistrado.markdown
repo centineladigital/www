@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El magistrado presidente del Tribunal Electoral es investigado por blanquear más de 30 millones de pesos, supuestamente obtenidos mediante actos de corrupción;una segunda denuncia de la UIF contra Vargas está en etapa de revisión "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Investigan al magistrado José Luis Vargas por blanqueamiento; incluyen a esposa y cuñado"
 front: false
 section: "Nacional"
-news_id: 186344
+redirect_from: /news/186344
 ---
 
 José Luis Vargas Valdez, magistrado presidente del Tribunal Electoral del Poder Judicial de la Federación (TEPJF) a quien "magistrados rebledes" quitaron de la presidencia de este órgano, es investigado por blanquear más de 30 millones de pesos, supuestamente obtenidos mediante actos de corrupción.

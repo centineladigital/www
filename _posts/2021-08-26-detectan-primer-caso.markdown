@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el estado también se han identificado casos de las variantes Alpha, Delta y Gamma; la Unidad de Inteligencia Epidemiológica y Sanitaria llamó a la población a evitar viajes internacionales que no sean esenciales"
 image: "/uploads/2021/images-colima-alcanzo-mil-casos-positivos_0_27_1199_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detectan primer caso de variante Lambda de coronavirus en Colima"
 front: false
 section: "Nacional"
-news_id: 187133
+redirect_from: /news/187133
 ---
 
 La Secretaría de Salud y Bienestar Social de Colima confirmó que ya fue detectado un primer caso de la variante Lambda de coronavirus en la entidad. Con la entrada de Lambda, suman nueve variantes diferentes del SARS-CoV-2 circulando en Colima, informó Leticia Delgado Carrillo, titular de la SSBS en conferencia de prensa. 

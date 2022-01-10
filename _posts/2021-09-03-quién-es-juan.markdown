@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El mexicano se subió a lo más alto del podio en ParaTaekwondo, un deporte que hizo su debut en Tokio 2020 "
 image: "/uploads/2021/images-juan-diego-garcia-oro-taekwondo-1_0_28_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Quién es Juan Diego García, oro en taekwondo en los Juegos Paralímpicos?"
 front: false
 section: "Deportes"
-news_id: 187395
+redirect_from: /news/187395
 ---
 
 Este viernes 3 de septiembre, México amaneció con varias medallas más en la lista de los Juegos Paralímpicos de Tokio 2020, la última -hasta el momento- cayó a cargo de Juan Diego García, quien se hizo del oro en Taekwondo.  

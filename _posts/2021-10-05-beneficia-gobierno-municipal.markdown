@@ -9,12 +9,12 @@ tags:
 author: nil
 description: " Se entregaron alimentos y kits de limpieza y sanitización"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Beneficia Gobierno Municipal a los 18 asentamientos rarámuris de la ciudad"
 front: false
 section: "Local"
-news_id: 188400
+redirect_from: /news/188400
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación y la Dirección de Seguridad Pública, así como el DIF, benefició con diversas acciones a los 18 asentamientos rarámuris que se encuentran en la ciudad, a fin de brindarles una atención integral.

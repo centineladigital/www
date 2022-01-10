@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Informa el Gobernador Javier Corral que se dará puntual seguimiento a las declaraciones del notario No, 4, porque no es válido que se arriesgue la credibilidad y el prestigio de una institución cuyo principal valor es la verdad"
 image: "/uploads/2021/images-DAH_3597.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Deben iniciarse procedimientos por actuar de notario en recibos de nómina secreta"
 front: false
 section: "Local"
-news_id: 182738
+redirect_from: /news/182738
 ---
 
 El gobernador del estado, Javier Corral Jurado, señaló que las autoridades del Registro Público de la Propiedad y del Notariado tendrán que encargarse, darle un seguimiento y generar el procedimiento que sea necesario, a las declaraciones del notario No. 4, en las que niega haber certificado los recibos que fueron firmados por involucrados en la “nómina secreta” del exgobernador.

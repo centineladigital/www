@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Busca Estado fomentar el conocimiento de los derechos humanos, así como visibilizar, prevenir y atender la violencia laboral"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacitan a titulares de las Unidades de Igualdad de Género con taller sobre Violencia Laboral y Derechos Humanos"
 front: false
 section: "Local"
-news_id: 190427
+redirect_from: /news/190427
 ---
 
 Gobierno del Estado a través del Instituto Chihuahuense de las Mujeres (ICHMUJERES) impartió el taller “Violencia Laboral y Derechos Humanos”, a titulares de las Unidades de Igualdad de Género de la Administración Pública Estatal, como parte de las actividades realizadas en el marco de los 16 días de activismo contra la violencia de género.

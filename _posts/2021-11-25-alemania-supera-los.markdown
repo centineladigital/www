@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Registran 75 mil 961 nuevas infecciones, un nuevo récord diario para la primera economía de la zona euro que vive un rebrote sin precedentes"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alemania supera los 100 mil muertos por Covid; registran 351 decesos en un día"
 front: false
 section: "Internacional"
-news_id: 190189
+redirect_from: /news/190189
 ---
 
 Más de 100 mil personas (110 mil 119) fallecieron por Covid-19 en Alemania desde el comienzo de la pandemia, indicó el jueves el Instituto Robert Koch del gobierno federal, tras contabilizar 351 nuevos decesos en las últimas 24 horas.

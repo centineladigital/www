@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "De acuerdo con la Encuesta Nacional de Seguridad Pública Urbana, 66.4% de los ciudadanos manifestaron sentirse inseguros en su ciudad. "
 image: "/uploads/2021/images-policia-estatal-de-tamaulipas_0_20_960_598.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Coparmex exige al gobierno garantizar seguridad a la ciudadanía"
 front: false
 section: "Nacional"
-news_id: 185834
+redirect_from: /news/185834
 ---
 
 Ante los crecientes índices de inseguridad que se están dando en México, la Confederación Patronal de la República Mexicana (Coparmex) exigió al Estado garantizar a la sociedad del país el derecho a la seguridad pública con instituciones civiles que realmente construyan un ambiente seguro para todos. 

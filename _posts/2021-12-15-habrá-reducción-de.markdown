@@ -14,11 +14,11 @@ author: nil
 description: "El nombramiento de las magistraturas de los órganos electorales de los estados es efectuado por el Senado de la República, es facultad de las legislaturas locales establecer el número de magistrados"
 image: "/uploads/2021/images-pleno_tribunal_estatal_electoral__(2).jpeg"
 video: "/uploads/2021/videos-BW04__CONGRESO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Habrá reducción de magistraturas del Tribunal Estatal Electoral"
 front: false
 section: "Local"
-news_id: 190905
+redirect_from: /news/190905
 ---
 
 

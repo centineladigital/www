@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz confesó que ella y Leonardo DiCaprio se han amado por muchos años, pero que es un sentimiento platónico que ha fortalecido su amistad; aquí hacemos un recuento de su historia tras 'Titanic'."
 image: "/uploads/2021/images-leonardo-dicaprio-kate-winslet-amistad_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Somos almas gemelas -  El secreto de la historia de Kate Winslet y Leonardo DiCaprio"
 front: false
 section: "Espectáculos"
-news_id: 188373
+redirect_from: /news/188373
 ---
 
 Hace más de 24 años Kate Winslet conoció a Leonardo DiCaprio en las grabaciones de Titanic, una película tan memorable como su historia de amor, pero no nos referimos a esa noción romántica de una pareja, sino al cariño, apoyo y complicidad que surge entre dos grandes amigos, tal cual sucede con estos dos actores, cuya relación se ha convertido en una las más envidiables de Hollywood. Sus caminos se unieron en 1996 bajo la dirección de James Cameron para interpretar a Rose DeWitt y Jack Dawson, protagonistas de un apasionado romance con un trágico final. Aunque la química entre Kate y Leo en el filme era innegable, lo cierto es que ese idilio jamás traspasó la pantalla; sin embargo, sería el inicio de una perfecta amistad.  

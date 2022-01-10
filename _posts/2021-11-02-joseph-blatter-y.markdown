@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Blatter y Platini fueron acusados de fraude tras investigaciones de corrupción en la FIFA"
 image: "/uploads/2021/images-former_fifa_officials_sepp_blatter_and_michel_platini_charged_with_fraud_131662866.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Joseph Blatter y Michel Platini, acusados de fraude tras investigaciones de corrupción en la FIFA"
 front: false
 section: "Deportes"
-news_id: 189461
+redirect_from: /news/189461
 ---
 
 El expresidente de la UEFA, el francés Michel Platini, y el expresidente de la FIFA, el suizo Sepp Blatter, fueron acusados en Suiza de varios delitos, incluido uno de "fraude", en el caso del presunto pago que les colocó desde 2015 fuera de los organismos rectores del fútbol mundial, anunció este martes la fiscalía del país helvético.

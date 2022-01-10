@@ -20,11 +20,11 @@ author: nil
 description: "Se espera se reconstituya la inversión Federal hacia el estado"
 image: "/uploads/2021/images-amlo-780x450.jpg"
 video: "/uploads/2021/videos-BJ05_MARIO_VAZQUEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "“Con la visita de AMLO hay esperanza en materia de obras” -  Vázquez "
 front: false
 section: "Local"
-news_id: 190689
+redirect_from: /news/190689
 ---
 
 “Con la visita del Presidente a Chihuahua, estamos esperanzados que ante la buena relación que tiene con la gobernadora, esta rinda frutos en materia de obras para el Estado”, estas fueron las palabras del diputado Mario Vázquez a quien se le cuestionó sobre su postura ante la llegada del presidente Andrés Manuel López Obrador.

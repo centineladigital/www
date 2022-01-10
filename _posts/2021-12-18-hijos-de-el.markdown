@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Sara Bruna Quiñones destacó que los hijos de Joaquín Guzmán Loera no tienen carpetas de investigación abiertas en contra por delitos del fuero común en el estado, ni cuentan con antecedentes penales. "
 image: "/uploads/2021/images-los-hijos-de-el-chapo_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hijos de 'El Chapo' no cuentan con órdenes de aprehensión en Sinaloa, asegura fiscal"
 front: false
 section: "Nacional"
-news_id: 191001
+redirect_from: /news/191001
 ---
 
 Sara Bruna Quiñones Estrada, la fiscal general de Sinaloa, hoy aseguró que los hijos de Joaquín Guzmán Loera, El Chapo no tienen órdenes de aprehensión, ni carpetas de investigación abiertas en contra por delitos del fuero común en el estado.  

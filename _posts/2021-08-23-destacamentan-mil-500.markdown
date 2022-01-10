@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-ML05_JAVIER_CORRAL.mp4"
 alt: "Destacamentan mil 500 elementos de la Guardia Nacional"
 front: false
 section: "Local"
-news_id: 187012
+redirect_from: /news/187012
 ---
 
 Un despliegue de hasta mil 500 elementos de la Guardia Nacional es lo que se espera llegue a Ciudad Juárez, según lo dio a conocer el gobernador de Chihuahua, Javier Corral Jurado. Esto en rueda de prensa donde también se le cuestionó el hecho de que no se deje a los vehículos fronterizos pasar más allá de Samalayuca.

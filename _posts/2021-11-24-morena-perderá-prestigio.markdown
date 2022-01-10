@@ -16,11 +16,11 @@ author: nil
 description: "El ex funcionario carece de integridad para poder ser parte de cualquier ente político"
 image: "/uploads/2021/images-20201127080431-0-1735431.jpg"
 video: "/uploads/2021/videos-BW02_MARIO_VAZQUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Morena perderá prestigio si incorpora a Javier Corral a la federación  "
 front: false
 section: "Local"
-news_id: 190163
+redirect_from: /news/190163
 ---
 
  “Si quiere perder puntos el gobierno federal, que incluya a Javier Corral”, estas fueron las palabras del diputado y presidente del grupo parlamentario del PAN, Mario Vázquez,  quien fue cuestionado sobre las especulaciones de la reaparición de Javier corral jurado ex gobernador de Chihuahua como parte del Gobierno Federal el cual encabeza Morena.

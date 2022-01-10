@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante señala que no ha podido ver a su hijo de manera presencial debido a su ex pareja, a quien acusó de interferir en su convivencia y no cumplir con su acuerdo legal. "
 image: "/uploads/2021/images-ninel-conde-asegura-giovanni-medina-1_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Verbalmente envenenado -  Ninel Conde asegura que Giovanni Medina dificulta relación con su hijo"
 front: false
 section: "Espectáculos"
-news_id: 188965
+redirect_from: /news/188965
 ---
 
 Ninel Conde continúa en una batalla legal y mediática contra su ex pareja Giovanni Medina por la custodia de su hijo Emmanuel. La cantante llegó con unos minutos de retraso a una firma de autógrafos debido a que tuvo una videollamada con su hijo después de un largo periodo sin verlo; sin embargo, recalcó que la convivencia con el menor no es la mejor debido a que el empresario interfiere en su relación.  La actriz señaló en una entrevista para el programa Sale el Sol que no ha podido ver a su hijo de manera presencial por tráfico de influencias en el caso legal que enfrenta contra Giovanni Medina.  

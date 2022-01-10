@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El legislador ya había sido arrestado el 21 de abril por policías de la Secretaría de Seguridad Ciudadana de la Ciudad de México luego de que un menor lo señaló por presunto abuso sexual"
 image: "/uploads/2021/images-saul-huerta-agencia-enfoque-3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detienen a Saúl Huerta, diputado de Morena acusado de abuso sexual"
 front: false
 section: "Nacional"
-news_id: 186864
+redirect_from: /news/186864
 ---
 
 Benjamín Saúl Huerta Corona, diputado de Morena, fue detenido esta madrugada por elementos de la Policía de Investigación, acusado por su probable participación en los delitos de abuso sexual agravado y violación en agravio de menores de edad. 

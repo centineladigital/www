@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "“Trabajar en seguridad pública implica trabajar por la paz, el bienestar social y el desarrollo de las comunidades” señala el Ejecutivo Estatal."
 image: "/uploads/2021/images-javier_corral.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Refrenda Gobernador compromiso de colaboración binacional  para reforzar seguridad en la frontera"
 front: false
 section: "Local"
-news_id: 185566
+redirect_from: /news/185566
 ---
 
 El gobernador Javier Corral participó en El Paso, Texas, en la campaña binacional “Se busca Información”, que tiene como fin recopilar información ciudadana para compartirla entre autoridades, sobre objetivos prioritarios generadores de violencia en la frontera y en torno a los grupos delictivos a los que pertenecen.

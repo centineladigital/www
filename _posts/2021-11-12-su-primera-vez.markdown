@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Anne Hathaway es una de las actrices más reconocidas, sin embargo, la primera vez que estuvo frente a las cámaras fue cuando grabó un comercial; así lucía."
 image: "/uploads/2021/images-anne-hathaway-anos-participo-comercial_45_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Su primera vez en TV! Así fue el comercial con el que debutó Anne Hathaway"
 front: false
 section: "Espectáculos"
-news_id: 189804
+redirect_from: /news/189804
 ---
 
 Una de las actrices más conocidas en Hollywood es Anne Hathaway,  quien ha consolidado su carrera con Los Miserables, El diablo viste a la moda, Pasante de moda y claro, su primera película El diario de la princesa, sin embargo, ésta no fue la primera vez que la ganadora del Osar debutó ante las cámaras ya que lo hizo con un comercial. En una entrevista para el programa The Late Show with Stephen Colbert en el 2018, Anne Hathaway recordó la primera vez que debutó como actriz. Esto sucedió en un comercial de una compañía que se dedica a vender casas en Estados Unidos. 

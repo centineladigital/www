@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Regresan las populares series que fueron un éxito en la década de los 90. Te decimos cuándo y dónde podrás disfrutar de ellas. "
 image: "/uploads/2021/images-sabrina-bruja-adolescente-principe-rap.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Sabrina, la bruja adolescente' y 'El príncipe del rap' vuelven a la TV; cuándo y dónde ver"
 front: false
 section: "Espectáculos"
-news_id: 183784
+redirect_from: /news/183784
 ---
 
 En la década de los 90, series como Friends (1994-2004), Sex and the City (1998-2004), Aprendiendo a vivir (1993-2000), La niñera (1993-1999), Mejorando la casa (1991-1999) y Dawson's Creek (1998-2003) se convirtieron al instante en clásicos de la televisión. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El canciller Marcelo Ebrard urge en el Consejo de Seguridad el privilegiar acceso de dosis contra Covid-19 a naciones en desarrollo; pide a países a ser solidarios"
 image: "/uploads/2021/images-2531090.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ante ONU, México llama a evitar acaparar vacunas"
 front: false
 section: "Nacional"
-news_id: 182975
+redirect_from: /news/182975
 ---
 
 Luego de reconocer que la pandemia ha tenido un impacto devastador en todo el mundo, afectando particularmente a los más pobres y vulnerables, el secretario de Relaciones Exteriores (SRE), Marcelo Ebrard, llamó a evitar el acaparamiento de las vacunas y privilegiar en mayor medida a las naciones en desarrollo.

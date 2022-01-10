@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Al 90 por ciento de las casillas la tendencia era irreversible"
 image: "/uploads/2021/images-IMG_6062.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Maru Campos, candidata del PAN por la gubernatura"
 front: false
 section: "Local"
-news_id: 182405
+redirect_from: /news/182405
 ---
 
 María Eugenia Campos será la candidata del PAN por la gubernatura, luego de que en la contienda interna de ese partido venciera con una votación del 62.4% a Gustavo Madero que tuvo el 37.65% de la militancia.

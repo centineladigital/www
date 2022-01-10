@@ -14,11 +14,11 @@ author: nil
 description: "Conforma un gran compromiso para esta administración "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-27_at_9.55.33_AM.jpeg"
 video: "/uploads/2021/videos-_BL03_CARMEN_HIDALGO.mp4"
-audio: "nil"
+audio: nil
 alt: "Premio a la transparencia, gran compromiso para esta administración -  Carmen Hidalgo "
 front: false
 section: "Local"
-news_id: 188107
+redirect_from: /news/188107
 ---
 
 La  coordinadora de  Transparencia Municipal Carmen Hidalgo, comentó que el premio de transparencia recibido por el municipio conforma un gran compromiso para esta administración ya que se tiene que seguir atendiendo las disposiciones de esta dependencia, para continuar con el buen manejo dejado por la administración pasada.

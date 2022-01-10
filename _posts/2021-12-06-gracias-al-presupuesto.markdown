@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "También inspeccionaron un arroyo embovedado que cruza el campus, que también fue proyecto ganador en la edición 2020"
 image: "/uploads/2021/images-unnamed_(10).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gracias al Presupuesto Participativo 2021, se inaugura rehabilitación de cancha en ITCH"
 front: false
 section: "Local"
-news_id: 190563
+redirect_from: /news/190563
 ---
 
 La gobernadora Maru Campos y el alcalde de Chihuahua, Marco Bonilla, inauguraron la rehabilitación de una cancha de futbol rápido dentro de las instalaciones del Instituto Tecnológico de Chihuahua (ITCH), la obra fue uno de los proyectos ganadores del Presupuesto Participativo 2021, donde se incluyó la instalación de luminarias, techumbre y pasto sintético.

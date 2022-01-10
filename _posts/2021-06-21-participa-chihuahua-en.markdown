@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En punto de las 10:30 horas de este lunes 21 de junio, 43 mil 741 chihuahuenses fueron parte de este ejercicio realizado de manera simultánea en todo el país, con el objetivo de reforzar la cultura de la prevención"
 image: "/uploads/2021/images-CEPC_EN_SIMULACRO_NACIONAL_2021_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa Chihuahua en Primer Simulacro Nacional 2021"
 front: false
 section: "Local"
-news_id: 185147
+redirect_from: /news/185147
 ---
 
 En punto de las 10:30 horas de este lunes 21, la Coordinación Estatal de Protección Civil (CEPC) participó en el Primer Simulacro Nacional, donde se manejaron las hipótesis de sismo o incendio en 784 inmuebles gubernamentales, privados y escolares que formalmente se registraron para participar.

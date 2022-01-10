@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Dijo que los menores se ven afectados por perder oportunidades de convivencia con otros niños"
 image: "/uploads/2021/images-SADFDDS.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AJ04_GEORGINA_BUJANDA_RIOS.mp3"
 alt: "Necesario cuidar la salud mental de niñas, niños y adolescentes durante pandemia -  Bujanda"
 front: false
 section: "Local"
-news_id: 182712
+redirect_from: /news/182712
 ---
 
 La diputada local del PAN, Georgina Bujanda, solicitó al Gobierno del Estado que se implemente un programa de actividades recreativas, artísticas y culturales en espacios al aire libre dirigido a niñas, niños y adolescentes en la entidad, lo anterior debido a que el confinamiento ha afectado en gran medida su vida cotidiana. 

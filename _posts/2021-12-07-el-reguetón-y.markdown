@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Maluma y Grupo Firme sorprendieron a sus fans al lanzar la canción Cada Quien, un tema con el que los mexicanos y el colombiano unen su talento. "
 image: "/uploads/2021/images-colaboracion-maluma-grupo-firma-disponible.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡El reguetón y regional mexicano se unen! Maluma y Grupo Firme lanzan la canción 'Cada Quien'"
 front: false
 section: "Espectáculos"
-news_id: 190607
+redirect_from: /news/190607
 ---
 
 Los éxitos para Maluma parecen no tener fin, ya que el colombiano colaboró el Grupo Firme, uno de los grandes en el regional mexicano y ahora, los músicos unieron su talento para lanzar la canción Cada Quien, un tema en el que Maluma nos sorprende al cantar un estilo al que no estamos acostumbrados escucharlo. Desde hace algunas semanas Maluma y Grupo Firme revelaron que se encontraban trabajando juntos, sin embargo, no se habían dado muchos detalles, más que el nombre del tema, Cada Quien, que por fin hoy se estrenó en las plataformas de streaming. 

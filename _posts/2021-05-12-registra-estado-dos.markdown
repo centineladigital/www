@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En total 13 casos de personas que han sido afectadas por esta enfermedad."
 image: "/uploads/2021/images-GUMARO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW02_GUMARO_BARRIOS.mp3"
 alt: "Registra estado dos defunciones por riketsia"
 front: false
 section: "Local"
-news_id: 184425
+redirect_from: /news/184425
 ---
 
 Hasta el momento solamente se han registrado dos muertes por riketsia, según fue dado a conocer por parte del Subdirector del Área de Epidemiología Gumaro Barrios Gallegos. Quien dijo que se está llevando a cabo la atención a personas con el fin de evitar que se continúen registrando más muertes.

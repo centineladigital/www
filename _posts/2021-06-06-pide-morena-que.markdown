@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Morena en la ciudad de Chihuahua dio a conocer que “de forma deliberada” durante la campaña de la candidata se rebasó el tope de gastos permitido "
 image: "/uploads/2021/images-Morena.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pide Morena que se investiguen gastos de campaña de Maru Campos"
 front: false
 section: "Local"
-news_id: 184879
+redirect_from: /news/184879
 ---
 
 Integrantes de Morena presentaron una queja ante el Instituto Estatal Electoral (IEE) para que se investigue el origen y gasto de los recursos utilizados para la campaña electoral de María Eugenia Campos Galván, candidata de Acción Nacional a la gubernatura por supuestamente haber rebaso el tope permitido para gastos.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En un plazo máximo de 15 días se puede enlistar de nuevo el amparo para su resolución en este caso vinculado a la Operación Safiro, informa la Consejería Jurídica"
 image: "/uploads/2021/images-CONSEJERO_JURÍDICO_18_DE_AGOSTO.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reagenda Corte análisis de amparo para considerar a Chihuahua  como víctima en desvío de 250 mdp"
 front: false
 section: "Local"
-news_id: 186856
+redirect_from: /news/186856
 ---
 
 La Suprema Corte de Justicia de la Nación (SCJN) reagendó el análisis del Juicio de Amparo 921/2019 sobre el papel de víctima del Estado de Chihuahua, en el desvío de 250 millones de pesos relacionado a la Operación Safiro, informó el consejero jurídico, Jorge Espinoza Cortés.

@@ -10,11 +10,11 @@ author: nil
 description: "Afirman que buscarán manifestarse por la situación de Andrés Valles y tres productores más."
 image: "/uploads/2021/images-EG2_.jpg"
 video: "/uploads/2021/videos-MJ02_EMILIANO_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Esperan productores a Presidente -  UCD"
 front: false
 section: "Local"
-news_id: 186106
+redirect_from: /news/186106
 ---
 
 Productores de Chihuahua esperan la llegada del Presidente de la República Andrés Manuel López Obrador, según lo dio a conocer el dirigente de la Unión Campesina Democrática Jesús Emiliano García. Esto tras anunciarse la visita del mandatario nacional a Ciudad Juárez.

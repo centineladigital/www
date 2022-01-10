@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El reguetonero puertorriqueño fue galardonado con el premio Salón de la Fama, en los Billboards 2021. "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Disfruten mi última ronda musical -  ¿Daddy Yankee anunció su retiro de la música? Esto sabemos"
 front: false
 section: "Espectáculos"
-news_id: 188023
+redirect_from: /news/188023
 ---
 
 Daddy Yankee recibió este jueves el premio Salón de la Fama, en los Billboards 2021, y su discurso de agradecimiento dejó sin palabras a sus millones de fans de todo el mundo, pues algunas personas interpretaron lo que dijo como una despedida y el anuncio de su posible retiro de los escenarios. 

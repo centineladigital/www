@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El objetivo es responder al interés fundamental de más de 13.5 millones de derechohabientes, su salud."
 image: "/uploads/2021/images-ISSSTE_02.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia Zenteno Santaella recorridos de verificación en todas las instalaciones del ISSSTE a nivel nacional"
 front: false
 section: "Local"
-news_id: 190467
+redirect_from: /news/190467
 ---
 
 Como parte de las acciones de transición, el director general del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), Pedro Zenteno Santaella, sostuvo una reunión de trabajo con el director normativo de Salud, Ramiro López Elizalde, a quien dio a conocer que entre sus prioridades se encuentra realizar un recorrido por todas las instalaciones del Instituto en los distintos estados del país.

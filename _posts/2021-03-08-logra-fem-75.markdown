@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el caso de Ciudad Juárez, la efectividad alcanza el 80 %; fiscal Wendy Chávez también destaca el crecimiento en la construcción de infraestructura para atender a víctimas de la violencia de género"
 image: "/uploads/2021/images-FISCAL_WENDY_CHÁVEZ.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Logra FEM 75 % de efectividad en resolución de feminicidios  en todo el estado"
 front: false
 section: "Local"
-news_id: 183330
+redirect_from: /news/183330
 ---
 
 La Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género (FEM) tuvo una efectividad del 75 por ciento en la resolución de feminicidios a nivel estatal durante el 2020, informó la fiscal Wendy Paola Chávez Villanueva.

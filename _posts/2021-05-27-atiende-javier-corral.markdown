@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Responde el coordinador ejecutivo de Gabinete, Jesús Mesta, al presidente del Consejo Coordinador Empresarial y detalla en qué consisten cada uno de los 53 compromisos asumidos en campaña por el Gobernador con este sector"
 image: "/uploads/2021/images-unnamedcorral.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atiende Javier Corral el 100% de sus compromisos con el sector empresarial"
 front: false
 section: "Local"
-news_id: 184681
+redirect_from: /news/184681
 ---
 
 El 100 por ciento de los compromisos que realizó el gobernador Javier Corral con los empresarios del estado de Chihuahua en su campaña de 2016, han sido atendidos y el 99% de ellos han sido solventados, señaló el coordinador ejecutivo de Gabinete, Jesús Mesta Fitzmaurice.

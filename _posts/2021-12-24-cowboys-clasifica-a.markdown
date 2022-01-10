@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los 'Niners' sucumbieron 20-17 ante Tennessee y lo texanos obtuvieron su pase a la postemporada luego de no hacerlo desde 2018 "
 image: "/uploads/2021/images-cowboys-clasifican-playoffs-nfl-derrota.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cowboys clasifica a playoffs de NFL tras derrota de 49ers ante Titans"
 front: false
 section: "Deportes"
-news_id: 191190
+redirect_from: /news/191190
 ---
 
 Los Tennessee Titans derrotaron este jueves 20-17 a los San Francisco 49ers en el arranque de la semana 16 de la liga de Football Americano (NFL), un triunfo que conllevó la clasificación matemática a playoffs de los Dallas Cowboys. 

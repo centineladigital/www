@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las secuencias de los virus hallados en los murciélagos son casi idénticas a las del SARS-CoV-2 y los investigadores pudieron demostrar que es capaz de contaminar células humanas "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Científicos descubren un virus muy similar al Covid-19 en murciélagos de Laos"
 front: false
 section: "Internacional"
-news_id: 187937
+redirect_from: /news/187937
 ---
 
 Científicos del Instituto Pasteur de París anunciaron que han descubierto en murciélagos del norte de Laos una cepa de virus muy parecida a la del SARS-CoV‑2 que originó el Covid-19.

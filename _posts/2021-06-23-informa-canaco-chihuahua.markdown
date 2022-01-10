@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con este tipo de celebraciones la Cámara de Comercio de Chihuahua espera que continúe el incremento del ejercicio económico "
 image: "/uploads/2021/images-sdvdgge.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AW02_EDYBRAI_GOMEZ.mp3"
 alt: "Informa Canaco Chihuahua derrama económica en el día del padre"
 front: false
 section: "Local"
-news_id: 185205
+redirect_from: /news/185205
 ---
 
 Con respecto a la derrama económica para la capital, la Cámara Nacional de Comercio, Servicios y Turismo de Chihuahua informó que el año pasado se tuvo un ingreso de 128 millones de pesos, por lo que luego del cambio de semáforo y la apertura de lugares de esparcimiento, se tuvo una derrama de 332 millones de pesos durante los festejos del día del padre el pasado domingo 20 de junio. 

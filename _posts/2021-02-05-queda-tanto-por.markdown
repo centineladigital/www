@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de su cuenta de Twitter, en donde Demián Bichir le dedicó un mensaje al presidente Andrés Manuel López Obrador tras reaparecer y dar negativo contra el covid-19. "
 image: "/uploads/2021/images-demian-bichir-refrenda-apoyo-presidente_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Queda tanto por hacer -  Demián Bichir envía 'fuerza' a AMLO tras dar negativo a covid-19"
 front: false
 section: "Espectáculos"
-news_id: 182731
+redirect_from: /news/182731
 ---
 
 Demián Bichir, actor mexicano, refrendó su apoyo al presidente Andrés Manuel López Obrador. A través de redes sociales, le mandó fuerza. Esto luego de que el mandatario federal reapareciera y anunciara que ya dio negativo al coronavirus, covid-19. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Alcaldesa manifestó al presidente electo Marco Bonilla y a su equipo de trabajo toda la disposición del Gobierno Municipal para tener una sana transición de la administración pública y con ello un ejemplo de verdadera democracia."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan equipos de transición para entrega recepción de la Administración Municipal"
 front: false
 section: "Local"
-news_id: 185171
+redirect_from: /news/185171
 ---
 
 La alcaldesa María Angélica Granados Trespalacios y el alcalde electo Marco Antonio Bonilla Mendoza dieron a conocer a los equipos que se encargarán de realizar el proceso de transición para la entrega recepción de la Administración Municipal.

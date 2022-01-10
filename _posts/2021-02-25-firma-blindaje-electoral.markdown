@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Llama Javier Corral a proceso transparente."
 image: "/uploads/2021/images-firma.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ04_JAVIER_CORRAL.mp3"
 alt: "Firma blindaje electoral en Chihuahua"
 front: false
 section: "Local"
-news_id: 183165
+redirect_from: /news/183165
 ---
 
 Con el fin de llevar a cabo acciones electorales claras y transparentes este jueves se firmó un convenio entre autoridades electorales y el gobierno estatal. Dentro de este evento el Gobernador, Javier Corral Jurado, señaló la importancia de que se dé este tipo de acciones. Sobre todo por lo su génesis de estas elecciones.

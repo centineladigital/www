@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Invita Secretaría de Cultura a participar y obtener un premio único e indivisible por la cantidad de cien mil pesos en cada una de las ocho categorías"
 image: "/uploads/2021/images-premio_chihuahua.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cierra el 31 de agosto convocatoria del Premio Chihuahua 2021"
 front: false
 section: "Local"
-news_id: 186849
+redirect_from: /news/186849
 ---
 
 La Secretaría de Cultura reitera la invitación a participar en la convocatoria del Premio Chihuahua 2021 “Vanguardia en Artes y Ciencias”, presentando trabajos en las áreas de Ciencias Tecnológicas, Ciencias Biológicas, Ciencias Sociales, Literatura (ensayo), Periodismo, Artes Visuales (gráfica), Música, y la nueva disciplina para este año: Artes Escénicas, antes de las 16:00 horas del 31 de agosto.

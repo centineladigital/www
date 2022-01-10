@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mariah Carey se dio a conocer a principios de los años 90 y de inmediato destacó por su gran voz. "
 image: "/uploads/2021/images-la-cantante-tambien-ha-participado.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Sigue igual? Así lucía Mariah Carey cuando comenzó su carrera"
 front: false
 section: "Espectáculos"
-news_id: 189388
+redirect_from: /news/189388
 ---
 
 Mariah Carey saltó a la fama en la década de los 90 y con un popular disco debut alcanzó los primeros lugares en la lista de popularidad, además de que poco a poco logró consolidar su carrera. Muchos la conocemos por sus éxitos como “Touch my body” y que en algún momento fue novia de Luis Miguel, romance del que nos hablan en la última temporada de la bioserie de El Sol. Mariah Carey además de contar con una privilegiada voz, la cual heredó de su madre, quien era cantante de ópera y quien le enseñó a cantar, también supo ganarse el corazón de varios famosos, entre ellos Tommy Mottola, su primer esposo, así como de Luis Miguel con quien tuvo un romance que duró tres años. Te contamos un poco de ella y sí ha cambiado con el paso de los años. 

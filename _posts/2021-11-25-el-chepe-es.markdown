@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Busca Gobierno del Estado impulsar nacionalmente el sector turístico que atrae la ruta Chihuahua-Pacífico   "
 image: "/uploads/2021/images-unnamed_(14).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“El Chepe es la columna vertebral del turismo en el estado”; devela Gobernadora placa conmemorativa de 60 aniversario"
 front: false
 section: "Local"
-news_id: 190196
+redirect_from: /news/190196
 ---
 
 Con miras a impulsar el turismo de Chihuahua a nivel nacional, la gobernadora del Estado, Maru Campos Galván, llevó a cabo la develación de la placa en conmemoración del 60 aniversario de la puesta en marcha del ferrocarril Chihuahua-Pacifico, el cual destaca por ser el único tren de pasajeros en todo el país.

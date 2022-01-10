@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente dijo que abundan las delegaciones de las dependencias federales, pues aseguró que antes se usaban como premio de consolación política. "
 image: "/uploads/2021/images-amlo-eliminaran-delegaciones-dependencias-federales.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tenemos que ahorrar -  AMLO busca eliminar delegaciones de dependencias federales en estados"
 front: false
 section: "Nacional"
-news_id: 188620
+redirect_from: /news/188620
 ---
 
 El presidente Andrés Manuel López Obrador dijo que se busca eliminar las delegaciones de las dependencias federales en todos los estados del país, con la finalidad de que se ahorren recursos y de que no haya duplicidad de autoridades. 

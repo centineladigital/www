@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El taller se impartirá a personal de las áreas de catastro de 61 municipios"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacitará SEDUE a funcionarios municipales en gestión catastral"
 front: false
 section: "Local"
-news_id: 190233
+redirect_from: /news/190233
 ---
 
 La Secretaría de Desarrollo Urbano y Ecología (SEDUE) anunció que a través de la Dirección de Catastro impartirá un taller de capacitación técnica de la gestión catastral y actualización cartográfica, a funcionarios de 61 municipios de la entidad.

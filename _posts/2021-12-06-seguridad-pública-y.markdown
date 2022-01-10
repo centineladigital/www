@@ -10,11 +10,11 @@ author: nil
 description: "Asimismo hablarán de la firma del convenio para la regularización de chuecos."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-ML02_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Seguridad pública y pobreza tema que se tratará con AMLO -  Gobernadora"
 front: false
 section: "Local"
-news_id: 190552
+redirect_from: /news/190552
 ---
 
 Dentro de la visita del Presidente Andrés Manuel López Obrador se tocarán los tema de seguridad y pobreza,señaló la gobernadora María Eugenia Campos Galván. Quien dijo que dentro de los temas que se tocarán también se encuentra el tema de la regularización de los autos internados de forma ilegal.

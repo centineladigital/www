@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los Países Bajos también se han visto afectados por las inundaciones, que son consecuencia de los niveles récord de precipitación que se han registrado en Europa occidental en los últimos días."
 image: "/uploads/2021/images-fotonoticia_20210714211206_420.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Al menos 48 muertos y decenas de desaparecidos por catastróficas inundaciones en Alemania y Bélgica"
 front: false
 section: "Internacional"
-news_id: 185690
+redirect_from: /news/185690
 ---
 
 Al menos 48 personas han muertos en Alemania y Bélgica a causa de unas graves inundaciones.

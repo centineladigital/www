@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Todo actriz de 'Friends' y 'The Morning Show' dijo en una entrevista que todavía había un gran grupo de personas que son antivacunas o simplemente no escuchan los hechos. "
 image: "/uploads/2021/images-jennifer-aniston-dejado-gente-vacua.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Se acabó la amistad? Jennifer Aniston afirma que dejó de ver a amigos sin vacuna anticovid"
 front: false
 section: "Espectáculos"
-news_id: 186429
+redirect_from: /news/186429
 ---
 
 Jennifer Aniston siempre se ha caracterizado por si franqueza y por su determinación sobre sus posturas ante diversas situaciones profesionales y personales y ahora se ha vuelto envuelta en la polémica al decidir dejar de ver a amigos y conocidos que no están vacunados contra el covid-19. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Es necesario que todos los países capaces de contribuir, dar y apoyar el acceso y el despliegue justos de las vacunas lo hagan, afirmó el director para la región Europa de la OMS, Hans Kluge, en una rueda de prensa online"
 image: "/uploads/2021/images-2511770.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "OMS lamenta que 10 países concentren el 95% de vacunas contra Covid"
 front: false
 section: "Internacional"
-news_id: 182125
+redirect_from: /news/182125
 ---
 
 Europa tiene que ser solidaria con las vacunas, teniendo en cuenta que hasta ahora el 95% de las dosis han sido utilizadas en 10 países, instó este jueves la dirección regional de la Organización Mundial de la Salud (OMS).

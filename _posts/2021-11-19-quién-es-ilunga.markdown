@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con 34 años de edad (tres más que Álvarez), Makabu marcha invicto en el profesionalismo, aunque no se sube al cuadrilátero desde hace 11 meses"
 image: "/uploads/2021/images-pelea-canelo-_makabu-.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Quién es Ilunga Makabu, el próximo rival del Canelo?"
 front: false
 section: "Deportes"
-news_id: 189987
+redirect_from: /news/189987
 ---
 
 Conocido como "The Junior", Ilunga Makabu (28-2, 25 KO's) será el primer rival africano en la carrera de Saúl 'Canelo' Álvarez (57-1-2, 38 KO's), y tal vez el que mayor reto le represente.

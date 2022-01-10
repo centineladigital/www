@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los 488 mil nuevos casos registrados el miércoles son casi el doble de los identificados durante las peores jornadas del invierno pasado; el NYT alertó de que esta cifra puede ser aún más alta porque durante el periodo de Navidad ha bajado sustancialmente la cantidad de test antiCovid realizados"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU vuelve a romper récord de casos diarios de Covid -  suma casi medio millón en 24 horas"
 front: false
 section: "Internacional"
-news_id: 191343
+redirect_from: /news/191343
 ---
 
 Washington.- Estados Unidos batió el miércoles el récord de nuevos casos de Covid-19 en un día desde el inicio de la pandemia, con 488 mil infectados registrados durante esa jornada, según la cuenta que lleva a cabo el diario The New York Times.

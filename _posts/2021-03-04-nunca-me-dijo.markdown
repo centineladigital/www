@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Diego Schoening rompió el silencio y desmintió al cantante. ¿No tuvo una relación con Thalía? ¿Erik Rubín mintió? ¿Le bajó a la novia? "
 image: "/uploads/2021/images-diego-schoening-desmiente-erik-rubin.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nunca me dijo -  Diego Schoening desmiente a Erik Rubín sobre romance con Thalía"
 front: false
 section: "Espectáculos"
-news_id: 183268
+redirect_from: /news/183268
 ---
 
 Erik Rubín lanzó tremendas declaraciones en una reciente entrevista con El escorpión dorado, pues dio a conocer su pasado con amoroso con famosas, entre ellas Paulina Rubio, Alejandra Guzmán, Angélica Rivera, Salma Hayek y hasta Thalía. Durante la charla, el actual esposo de Andrea Legarreta reveló que su ex compañero de Timbiriche, Diego Schoening, “le bajó a Thalía” –es decir que anduvo con ella– por lo que según dijo terminó con el “corazón roto”. Ante este panorama, fue Schoening quien rompió el silencio y desmintió al cantante. ¿No tuvo una relación con Thalía? ¿Erik Rubín mintió? 

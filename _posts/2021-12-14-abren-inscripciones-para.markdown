@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Los interesados en aprender a tocar un instrumento o cantar, podrán inscribirse del 16 de diciembre al 7 de enero"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abren inscripciones para estudiar en el Conservatorio de Música de Chihuahua"
 front: false
 section: "Local"
-news_id: 190855
+redirect_from: /news/190855
 ---
 
 El Gobierno Municipal a través del Instituto de Cultura del Municipio invita a niñas, niños, adolescentes y adultos a inscribirse al Conservatorio de Música de Chihuahua, una de las instituciones más prestigiadas al norte del país, para aprender a tocar un instrumento o enfocarse al canto.

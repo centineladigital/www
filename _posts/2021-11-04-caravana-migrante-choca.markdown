@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El enfrentamiento se produjo en el tramo carretero que une a las poblaciones de Pijijiapan y Tonalá cuando arribaron vehículos tanto del INM como de la Guardia Nacional"
 image: "/uploads/2021/images-caravana_migrante_choca_con_la_guardia_nacional_de_mexico_en_chiapas.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Caravana migrante choca con la Guardia Nacional en Chiapas"
 front: false
 section: "Nacional"
-news_id: 189544
+redirect_from: /news/189544
 ---
 
 Chiapas.- La caravana migrante en Chiapas chocó este jueves con la Guardia Nacional y agentes del Instituto Nacional de Migración (INM), dejando varios heridos y arrestados.

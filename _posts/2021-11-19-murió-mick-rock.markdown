@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mick Rock, quien fue conocido por ser uno de los principales fotógrafos de cantantes como David Bowie, murió a los 72 años. "
 image: "/uploads/2021/images-mick-rock-sex-pistols-iggy.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Mick Rock, el famoso fotógrafo de las estrellas de rock"
 front: false
 section: "Espectáculos"
-news_id: 189996
+redirect_from: /news/189996
 ---
 
 El fotógrafo británico Mick Rock, conocido por haber inmortalizado en imágenes icónicas a innumerables leyendas de la música, de David Bowie a los Sex Pistols, murió a los 72 años, así lo informó este viernes su familia. "Con gran pesar anunciamos que nuestro querido renegado psicodélico Mick Rock ha hecho el viaje junguiano al otro lado", escribieron en su cuenta de Twitter, en referencia al psicoanalista Carl Jung. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con saldo blanco vcunación de docentes."
 image: "/uploads/2021/images-GUMARO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ05_GUMARO_BARRIOS.mp3"
 alt: "Sin incidencias graves vacuna a maestros"
 front: false
 section: "Local"
-news_id: 184696
+redirect_from: /news/184696
 ---
 
 No hay registros de que se tenga alguna secuela o reacción adversa de la vacuna Cansino, esto dentro de la vacunación a docentes, señaló el Subdirector de Epidemiliología, Gumaro Barrios Gallegos.

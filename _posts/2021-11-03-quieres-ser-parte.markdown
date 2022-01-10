@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con el fin de sumar propuestas de la ciudadanía, este 9 y 10 de noviembre"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Quieres ser parte del Plan Municipal de Desarrollo?; participa en los foros de consulta ciudadana   "
 front: false
 section: "Local"
-news_id: 189508
+redirect_from: /news/189508
 ---
 
 El Gobierno Municipal, a través de la Dirección de Planeación y Evaluación, invita a la ciudadanía a participar en los foros temáticos de consulta ciudadana que se llevarán a cabo el próximo martes 9 y miércoles 10 de noviembre en el Centro de Convenciones. De 9:00 a 13:00 horas, se recibirán propuestas de ciudadanos, académicos, cámaras empresariales y organizaciones civiles, que abonen a los ejes temáticos: Competitividad y Desarrollo, Desarrollo Humano, Seguridad y Gobierno Eficaz y Eficiente, cuya convocatoria se encuentra disponible en: http://www.municipiochihuahua.gob.mx/Convocatorias/Convocatoria_Foros_de_Consulta_del_Plan_Municipal_de_Desarrollo_2021-2024.

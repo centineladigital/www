@@ -18,11 +18,11 @@ author: nil
 description: "También aseguró que vialidad está siendo cooperativo con unidades para tener el mayor resguardo posible a la ciudadanía."
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BV06_JULIO_SALAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "Buen fin cuenta con 40% más de elementos de DSPM "
 front: false
 section: "Local"
-news_id: 189600
+redirect_from: /news/189600
 ---
 
 En relación con el inicio del buen fin Julio Salas director de Seguridad Pública Municipal declaró que se tiene contemplado un 30 o 40 por ciento más de fuerza policial para el inicio de este operativo, también aseguró que vialidad está siendo cooperativo con unidades para tener el mayor resguardo posible a la ciudadanía.

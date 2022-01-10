@@ -16,11 +16,11 @@ author: nil
 description: "Señaló que de su parte no ve que el presidente estigmatice a los medios de comunicación como en anteriores sexenios "
 image: "/uploads/2021/images-amlo-pregunta-periodistas-640x360.jpg"
 video: "/uploads/2021/videos-BM02_CUAHUTEMOC_ESTRADA_.mp4"
-audio: "nil"
+audio: nil
 alt: "AMLO tiene libertad de expresión"
 front: false
 section: "Local"
-news_id: 190359
+redirect_from: /news/190359
 ---
 
 Cuauhtémoc Estrada, diputado por la 4T, declaró que el presidente Andrés Manuel López Obrador tiene la misma libertad y derecho que todos los ciudadanos a expresar su opinión, esto respecto a los mensajes que dio el presidente al decir que no existe un periodismo para el pueblo dado el reportaje “sembrando vida y la fábrica de chocolates” en donde vincula a los hijos del presidente de beneficiarse con el programa.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente retoma sus actividades de manera normal al presentarse en la ‘mañanera’; participa en tratamiento que investiga el Instituto de Nutrición"
 image: "/uploads/2021/images-2525827.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Agradece López Obrador ‘buenas vibras’ tras padecer Covid"
 front: false
 section: "Nacional"
-news_id: 182779
+redirect_from: /news/182779
 ---
 
 El presidente Andrés Manuel López Obrador reapareció este lunes en la conferencia matutina de palacio nacional luego de haber superado el Covid-19 y de guardar sólo 14 días de confinamiento pese a estar en el sector de mayor riesgo de la enfermedad.

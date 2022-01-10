@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Platicaron sobre la situación de cada comunidad y de las necesidades más primordiales"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Se reúne Alcalde con Presidentes Seccionales electos de las zonas rurales"
 front: false
 section: "Local"
-news_id: 190863
+redirect_from: /news/190863
 ---
 
 El Alcalde de Chihuahua, Marco Bonilla, se reunió con los Presidentes Seccionales que fueron electos para dirigir las comunidades rurales, a quienes felicitó por su nuevo encargo e invitó a trabajar juntos para hacer de Chihuahua un municipio más competitivo.

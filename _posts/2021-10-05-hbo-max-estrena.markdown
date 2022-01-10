@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Búnker se estrenó en el Festival Internacional de Cine en Guadalajara, la serie protagonizada por Miguel Rodarte y Bruno Bichir llegará a la plataforma en los próximos meses."
 image: "/uploads/2021/images-elenco-de-bunker-en-el.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "HBO Max estrena 'Búnker', su primera producción original mexicana, en el FICG"
 front: false
 section: "Espectáculos"
-news_id: 188406
+redirect_from: /news/188406
 ---
 
 Experimentar con el género y ofrecer una comedia de acción no vista en la pantalla latinoamericana es la apuesta de HBO Max con Búnker, una de sus primeras producciones locales que se estrenó esta semana en el Festival Internacional de Cine en Guadalajara (FICG). 

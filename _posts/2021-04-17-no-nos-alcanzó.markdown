@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz informó que su romance con el youtuber llegó a su fin y compartió las razones de la separación. "
 image: "/uploads/2021/images-rey-grupero-y-cynthia-klitbo_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“No nos alcanzó el amor”; Cynthia Klitbo y Rey Grupero terminan relación sentimental"
 front: false
 section: "Espectáculos"
-news_id: 183947
+redirect_from: /news/183947
 ---
 
 El romance entre Cynthia Klitbo y el Rey Grupero, que el año pasado sorprendió a todos, ahora ha llegado a su fin. La actriz empleó su cuenta de Instagram para informar que su noviazgo con el youtuber había finalizado, causando sorpresa y tristeza entre sus miles de seguidores, que seguirán a detalle las aventuras de la pareja. Desde su triste separación por el viaje a Perú que Cynthia Klitbo tuvo que realizar por cuestiones laborales, hasta el acompañamiento que ella le daba a su pareja durante los enfrentamientos con Alfredo Adame, hasta sus irreverentes declaraciones sobre su vida en lo privado, los fans poco a poco fueron involucrándose en el romance; así que la noticia dada a conocer por la actriz este viernes seguro rompió el corazón de más de uno. 

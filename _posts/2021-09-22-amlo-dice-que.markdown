@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente dijo que en este tema no (hay que) dejarnos llevar por el mercantilismo de las empresas farmacéuticas. "
 image: "/uploads/2021/images-andres-manuel-lopez-obrador-cuartoscuro-23.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO dice que se analizará aplicar un refuerzo de la vacuna anticovid en el país"
 front: false
 section: "Nacional"
-news_id: 187939
+redirect_from: /news/187939
 ---
 
 El presidente Andrés Manuel López Obrador dijo que se analizará el aplicar un refuerzo de la vacuna contra covid-19 una vez que concluya la inoculación para adultos y niños. 

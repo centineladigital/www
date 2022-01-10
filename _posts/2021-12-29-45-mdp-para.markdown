@@ -14,11 +14,11 @@ author: nil
 description: "La convocatoria saldrá aproximadamente la última semana de enero o la primer semana de febrero"
 image: "/uploads/2021/images-día_de_personas_con_discapacidad.jpeg"
 video: "/uploads/2021/videos-BW06_MONICA_HERRERA_.mp4"
-audio: "nil"
+audio: nil
 alt: "45 MDP para becas en el municipio -  Herrera "
 front: false
 section: "Local"
-news_id: 191326
+redirect_from: /news/191326
 ---
 
 La directora de Desarrollo Humano y Educación Mónica herrera , mencionó que se destinará el monto de 45 millones de pesos para becas de transporte y excelencia académica para estudiantes y personas con discapacidad así como adultos mayores  alrededor del municipio de Chihuahua, es de manera promedio a los años anteriores, aseguró.

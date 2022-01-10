@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se exhorta a la comunidad a conducirse con respeto y reportar cualquier incidente al 911"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Patrullarán la ciudad más de 500 policías municipales por celebraciones de Año Nuevo"
 front: false
 section: "Local"
-news_id: 191353
+redirect_from: /news/191353
 ---
 
 Con el objetivo de garantizar seguridad a los chihuahuenses durante las celebraciones de Año Nuevo en la ciudad, la Dirección de Seguridad Pública Municipal (DSPM) desplegará a más de 500 elementos y varios centenares de unidades motorizadas, para atender de inmediato cualquier incidente que pudiera presentarse.

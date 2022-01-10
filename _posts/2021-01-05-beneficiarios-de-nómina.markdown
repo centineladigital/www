@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Iniciaron procedimientos contra 14 exfuncionarios que recibieron pagos por 45 mdp; otra instancia legal distinta se encarga del procedimiento de otros 20 casos"
 image: "/uploads/2021/images-Vargas1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Beneficiarios de nómina secreta del exgobernador de Chihuahua firmaron 470 recibos"
 front: false
 section: "Local"
-news_id: 181891
+redirect_from: /news/181891
 ---
 
 La Secretaría de la Función Pública tiene registrados 470 recibos que firmaron 34 personas, como parte de la “nómina secreta” del exgobernador César Horacio D.J., cuyo monto asciende a 172 millones 633 mil pesos.

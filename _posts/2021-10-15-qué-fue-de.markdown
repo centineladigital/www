@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz se retiró del mundo de la televisión hace años luego de alcanzar un gran éxito en varias telenovelas mexicanas."
 image: "/uploads/2021/images-adela-noriega-reaparece-anos-alejada_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Qué fue de Adela Noriega? Alicia Machado revela dónde vive la actriz y fans 'enloquecen'"
 front: false
 section: "Espectáculos"
-news_id: 188770
+redirect_from: /news/188770
 ---
 
 Adela Noriega lleva años alejada del mundo del espectáculo y poco se sabe sobre ella, más allá de que se dedica a administrar una agencia de bienes raíces, además de quese desconoce su paradero; sin embargo, Alicia Machado reveló en La casa de los famosos el verdadero lugar donde vive la actriz y los fans 'enloquecieron'. Te decimos por qué. Y es que durante una de las emisiones más recientes del reality de Telemundo, Gabriela Spanic también habló sobre Noriega y dijo que lleva años sin saber de ella: “De Adela no he sabido nada, desapareció”, afirmó.

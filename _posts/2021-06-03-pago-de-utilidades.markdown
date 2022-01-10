@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exhortan a abonar a total de pago."
 image: "/uploads/2021/images-JESUS_GARCIA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ03_JESUS_GARCIA.mp3"
 alt: "Pago de utilidades podrían ser utilizadas para bajar deuda de crédito INFONAVIT "
 front: false
 section: "Local"
-news_id: 184825
+redirect_from: /news/184825
 ---
 
 El delegado de Infonavit a nivel estatal, Jesús Octavio García, exhortó a los derechohabientes del Instituto a utilizar las utilidades dadas por las empresas para realizar pagos directos en su deuda, esto ya que los pagos anticipados se van directamente al capital y no abona intereses, lo cual se abona integro al saldo de su crédito.

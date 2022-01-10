@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La controversia tiene origen en la solicitud realizada el 8 de noviembre pasado por el partido Morena para devolver 200 millones de pesos del financiamiento público ordinario que ya se le había depositado "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "INE debe resolver si partidos pueden devolver financiamiento -  TEPJF"
 front: false
 section: "Nacional"
-news_id: 191335
+redirect_from: /news/191335
 ---
 
 La Sala Superior del Tribunal Electoral del Poder Judicial de la Federación (TEPJF) resolvió que el Consejo General del Instituto Nacional Electoral (INE) es la autoridad que debe determinar si el partido político Morena puede devolver un monto de su financiamiento público ordinario.

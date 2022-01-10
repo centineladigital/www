@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Atendieron las denuncias que hicieron los vecinos a través del 072 y la aplicación Marca el Cambio"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-01_at_10.18.41.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atiende Gobierno Municipal desperfectos en alumbrado público durante el mes de septiembre"
 front: false
 section: "Local"
-news_id: 188261
+redirect_from: /news/188261
 ---
 
 El Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, llevó a cabo la reparación de un total de 1930 desperfectos en el sistema de alumbrado público durante el mes de septiembre. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La importancia de impactar estas problemáticas desde el embarazo, toda vez que si la madre tiene mala nutrición esta se transmite genéticamente al bebé y nace programado para no comer adecuadamente al nacer."
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Culminan Estado y equipo médico de Dinamarca recorrido de diagnóstico por la Sierra Tarahumara"
 front: false
 section: "Local"
-news_id: 190667
+redirect_from: /news/190667
 ---
 
 Luego de haber efectuado un recorrido de diagnóstico por comunidades indígenas del municipio de Guachochi, un equipo interdisciplinario conformado por personal de Gobierno del Estado e integrantes del equipo de “Salud Pública Global” impulsado por el doctor Dirk Lund Christensen, regresaron y prepararán acciones efectivas para atender la obesidad y la desnutrición.

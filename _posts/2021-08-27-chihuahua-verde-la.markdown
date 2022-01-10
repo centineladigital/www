@@ -10,11 +10,11 @@ author: nil
 description: "Se había pospuesto este cambio por seguridad."
 image: "/uploads/2021/images-CORRAL.jpg"
 video: "/uploads/2021/videos-MV01_JAVIER_CORRAL.mp4"
-audio: "nil"
+audio: nil
 alt: "Chihuahua verde la próxima semana"
 front: false
 section: "Local"
-news_id: 187204
+redirect_from: /news/187204
 ---
 
 La próxima semana el estado de Chihuahua cambiará a verde, esto ya que se siguen confirmando para el estado números positivos. “Somos el estado que más tiempo y de forma permanente nos hemos sostenido en amarillo” señaló el Gobernador de Chihuahua Javier Corral Jurado.

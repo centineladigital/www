@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Debe seguridad y acciones sociales ir de la mano."
 image: "/uploads/2021/images-QUEZADA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML03_MARCO_QUEZADA.mp3"
 alt: "Presenta MQ Plan Integral Social"
 front: false
 section: "Local"
-news_id: 184385
+redirect_from: /news/184385
 ---
 
 Con acciones encaminadas a fomentar deporte y arte este lunes el candidato de Morena a la Alcaldía de Chihuahua, Marco Adán Quezada Martínez, dio a conocer su Plan Integran Social, el cual aplicará al momento de llegar a la presidencia municipal en la capital del Estado.

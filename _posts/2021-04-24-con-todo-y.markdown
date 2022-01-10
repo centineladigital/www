@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tiendas de abarrotes y de conveniencia, seguirán vendiendo bebidas alcohólicas normalmente, sin embargo, bares, restaurantes y super mercados permanecerán cerrados"
 image: "/uploads/2021/images-venta_de_cerveza_en_tienditas._olga_casas_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con todo y supercierre, en Juárez seguirán vendiendo cerveza"
 front: false
 section: "Local"
-news_id: 184085
+redirect_from: /news/184085
 ---
 
 A partir de las 23; 59 horas de este viernes 23 de abril, entrará en vigor el ´Súper Cierre´ decretado por la secretaría de Salud para limitar la movilidad urbana y combatir a la oleada de contagios del Covid-19, lo cual no impedirá que los juarenses adquieran bebidas alcohólicas, ya que no el horario de venta no se verá afectado.

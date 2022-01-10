@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exhorta a ciudadanos a no tirar basura en arroyos y resguardarse de la contingencia climatica."
 image: "/uploads/2021/images-MANQUE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03.mp3"
 alt: "Continúa alerta por fuertes lluvias -  Alcaldesa"
 front: false
 section: "Local"
-news_id: 185318
+redirect_from: /news/185318
 ---
 
 Aún continúa la alerta por fuertes lluvias señaló la Alcaldesa de Chihuahua, María Angélica Granados Tres Palacios, quien dijo que 27 de junio al 30 el municipio ha recibido 169 llamadas de auxilio por las fuertes lluvias, de las cuales 125 fueron el domingo. Señalando que entre las acciones que se encuentra realizando es la entrega de apoyos, así como la búsqueda de una menor de origen étnico la cual fue arrastrada por el río Chuvíscar.

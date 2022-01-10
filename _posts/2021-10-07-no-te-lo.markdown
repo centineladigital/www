@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor asistió a los Premios Platino 2021, pero a su paso por la alfombra roja protagonizó un polémico episodio cuando una reportera le preguntó sobre su ex pareja. "
 image: "/uploads/2021/images-speitzer.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No te lo voy a contar -  Alejandro Speitzer enfurece por pregunta sobre Ester Expósito en plena alfombra roja"
 front: false
 section: "Espectáculos"
-news_id: 188470
+redirect_from: /news/188470
 ---
 
 Los mexicanos deslumbraron el pasado fin de semana en la alfombra roja de los Premios Platino 2021, en donde Diego Luna se robó la noche tras pronunciar un esperanzador e inclusivo discurso al recibir el galardón de honor; sin embargo, el otro famoso actor que también dio mucho de qué hablar fue Alejandro Speitzer, quien no pudo ocultar su molestia en plena entrevista.  El actor de Oscuro deseo fue uno de los primeros en desfilar por la alfombra roja de los Premios Platino, a los que también asistió su ex pareja, Ester Expósito -actriz de Élite y Alguien tiene que morir-. Antes de ingresar al recinto del evento, Alejandro Speitzer accedió a dar una entrevista, pero una de las preguntas sobre su situación amorosa lo hizo enfurecer. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con todos sus estadios listos y afinando los últimos detalles de la infraestructura, hoy el país cierra la Copa Árabe y empieza la cuenta regresiva para su Mundial "
 image: "/uploads/2021/images-copa-arabe-qatar-declara-listo_54_17_1089_678.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con Copa Árabe, Qatar se declara listo para el Mundial de 2022"
 front: false
 section: "Deportes"
-news_id: 191005
+redirect_from: /news/191005
 ---
 
 Al viaje cada vez le falta menos. Es más, parece que ya ni siquiera es necesario apretar el paso, sino simplemente seguir caminando. A la cuenta de un año ya se le puede ir quitando un mes completo; incluso, en esta misma fecha, pero ya en 2022, todo esto quedará guardado en el recuerdo. 

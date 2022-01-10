@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ingresa a la entidad canal de baja presión y humedad procedente del Océano Pacífico."
 image: "/uploads/2021/images-Estragos_lluvias.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prevé Protección Civil temperaturas de 24 a 36°C y lluvias fuertes en algunas regiones"
 front: false
 section: "Local"
-news_id: 185664
+redirect_from: /news/185664
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que para mañana jueves se prevén temperaturas de los 24 a los 36 grados centígrados como máxima, así como lluvias de moderadas a fuertes en algunas regiones del estado.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los premios serán entregados en el marco del Festival Internacional Chihuahua el 12 de agosto, Día Mundial de la Juventud."
 image: "/uploads/2021/images-Ganador_Poesía.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Informa Secretaría de Cultura resultados del premio de Literatura Joven 2021"
 front: false
 section: "Local"
-news_id: 185751
+redirect_from: /news/185751
 ---
 
 La Secretaría de Cultura de Chihuahua realizó la apertura de plicas para dar a conocer a las y los ganadores de los premios de Literatura Joven 2021, que constan de tres categorías: “Rogelio Treviño” de poesía, “Nellie Campobello” en cuento, y “Federico Ferro-Gay” de ensayo.

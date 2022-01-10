@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el programa En Línea Directa con el Gobernador, Javier Corral señala que hay condiciones en Chihuahua para resguardar al exmandatario acusado de peculado y asociación delictuosa"
 image: "/uploads/2021/images-JAVIER_CORRAL_ENERO_2021.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Extradición de exgobernador -  garantiza sistema chihuahuense juicio justo y seguro"
 front: false
 section: "Local"
-news_id: 181942
+redirect_from: /news/181942
 ---
 
 La imparcialidad y confiabilidad de los sistemas penitenciario y penal, así como del Poder Judicial del Estado de Chihuahua garantizan a cualquier persona procesada, un juicio justo, imparcial y con medidas de seguridad adecuadas, afirmó el primer mandatario estatal, Javier Corral Jurado, en el programa En Línea Directa con el Gobernador.

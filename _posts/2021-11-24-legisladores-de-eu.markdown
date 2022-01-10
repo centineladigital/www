@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Exponen en una carta cómo las políticas agrícolas mexicanas van en contra de la biotecnología y de los acuerdos del tratado comercial  "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Legisladores de EU piden a Biden intervenir ante políticas de México que van contra T-MEC"
 front: false
 section: "Internacional"
-news_id: 190144
+redirect_from: /news/190144
 ---
 
 Un grupo de 76 legisladores estadounidenses enviaron una carta al presidente de Estados Unidos, Joe Biden, para exponerle cómo las políticas agrícolas mexicanas van en contra de la biotecnología y de los acuerdos del T-MEC, por lo que piden, en caso necesario, utilizar las herramientas de cumplimiento que contiene dicho Tratado.

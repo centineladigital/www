@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con 15 votos a favor, siete en contra y una abstención, Baja California se unió a Ciudad de México, Oaxaca, Veracruz e Hidalgo como los únicos estados que permiten la interrupción legal del embarazo. "
 image: "/uploads/2021/images-baja-california-quinto-permitir-aborto_0_17_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Congreso de Baja California aprueba despenalización del aborto"
 front: false
 section: "Nacional"
-news_id: 189404
+redirect_from: /news/189404
 ---
 
 El Congreso de Baja California aprobó este viernes una iniciativa de ley que permite la interrupción legal del embarazo hasta las 12 semanas de gestación; de esta forma, se convierte en el quinto estado en el país en despenalizar el aborto. 

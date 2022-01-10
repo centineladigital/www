@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La actividad registrada por el Popocatépetl se encuentra dentro de los parámetros de la Alerta Amarillo Fase 2. "
 image: "/uploads/2021/images-volcan-popocatepetl-andres-lobato-5.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Volcán Popocatépetl registra 98 exhalaciones y dos sismos"
 front: false
 section: "Internacional"
-news_id: 188820
+redirect_from: /news/188820
 ---
 
 El volcán Popocatépetl presentó en un lapso de 24 horas una intensa actividad, periodo en el que se registraron dos sismos volcanotectónicos y 98 exhalaciones que fueron acompañadas por columnas de vapor, gases, agua y ligeras cantidades de ceniza que se dirigieron hacia el oeste-suroeste. 

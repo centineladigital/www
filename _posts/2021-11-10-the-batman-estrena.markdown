@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "'The Batman', la nueva película del Universo DC protagonizada por Robert Pattinson y dirigida por Matt Reeves, dio a conocer su nuevo póster. "
 image: "/uploads/2021/images-luce-robert-pattinson-promocional-the.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'The Batman' estrena nuevo póster; esto sabemos sobre la película de Robert Pattinson"
 front: false
 section: "Espectáculos"
-news_id: 189776
+redirect_from: /news/189776
 ---
 
 El próximo año 2022 es uno de los más esperados por toda la fanaticada de DC, y es que se vendrán películas como The Flash, Aquaman and the Lost Kingdom, Black Adam y desde luego, la nueva película del 'Caballero de la noche', The Batman protagonizada por Robert Pattinson y dirigida por Matt Reeves. 

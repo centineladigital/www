@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Señalan que el movimiento no busca confrontar al gobierno, ni que se considere que tiene tintes políticos, lo único que buscan es la sobrevivencia de sus negocios"
 image: "/uploads/2021/images-2510348.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Ya no podemos más! No tenemos miedo a clausuras, dicen restauranteros"
 front: false
 section: "Nacional"
-news_id: 182067
+redirect_from: /news/182067
 ---
 
 Esto no es en contra de las autoridades, es sobrevivir, porque estamos tronados”, dijo Manolo Ablanedo, director de comunicación y marketing de Fisher´s, luego de que alrededor de 500 restaurantes decidieron abrir sus puertas a los comensales desde ayer, desafiando al semáforo rojo.

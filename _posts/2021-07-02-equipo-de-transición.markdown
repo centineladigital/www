@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El equipo de transición en materia de seguridad está integrado por el presidente de Ficosec Chihuahua, Sergio Ochoa; la diputada electa por el Distrito 12 Georgina Bujanda; la experta en seguridad Atenas Torres y Jorge Contreras presidente de Ficosec Juárez."
 image: "/uploads/2021/images-encarha.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Equipo de transición ahora en seguridad publica "
 front: false
 section: "Local"
-news_id: 185347
+redirect_from: /news/185347
 ---
 
 El equipo de transición designado por la gobernadora electa, Maru Campos Galván, se reunió hoy a las 10:00 de la mañana con el secretario de Seguridad Pública Estatal, Emilio García Ruiz, para iniciar la entrega-recepción en esta dependencia.

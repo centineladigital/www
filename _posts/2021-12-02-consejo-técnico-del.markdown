@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El doctor Víctor Hugo Borja Aburto subrayó que su compromiso es fortalecer y modernizar la Unidad de Educación e Investigación. "
 image: "/uploads/2021/images-Foto_547-4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Consejo Técnico del IMSS nombra al doctor Víctor Hugo Borja como titular de la Unidad de Educación e Investigación"
 front: false
 section: "Local"
-news_id: 190434
+redirect_from: /news/190434
 ---
 
 En sesión extraordinaria, el H. Consejo Técnico del Instituto Mexicano del Seguro Social (IMSS), aprobó por unanimidad el nombramiento del doctor Víctor Hugo Borja Aburto como titular de la Unidad de Educación e Investigación, adscrita a la Dirección de Prestaciones Médicas.

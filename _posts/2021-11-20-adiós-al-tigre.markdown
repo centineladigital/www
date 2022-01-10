@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La mamá de Christian Nodal sorprendió a su hijo y a Belinda con un regalo único, ya que les dio un cobertor con su rostro."
 image: "/uploads/2021/images-el-diseno-del-edredon-es.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Adiós al tigre! Christian Nodal y Belinda son sorprendidos con su propio cobertor"
 front: false
 section: "Espectáculos"
-news_id: 190048
+redirect_from: /news/190048
 ---
 
 La época de frío ya llegó y por eso nunca es mala idea sacar los cobertores con la imagen de tigre, pero Christy Nodal, mamá de Christian Nodal decidió sorprender a su hijo y a Belinda regalándoles su propio edredón con el que seguramente estarán protegidos de las bajas temperaturas. A través de Instagram, Christian Nodal publicó en sus historias un video en el que se escucha la voz de Belinda mientras muestra el cobertor con un diseño muy particular, ya que se trata de una pintura en la que le colocaron el rostro de los cantantes. 

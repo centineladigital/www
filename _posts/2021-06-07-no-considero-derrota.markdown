@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Hablará con abanderada panista en el momento adecuado."
 image: "/uploads/2021/images-CORRAL1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML01.mp3"
 alt: "No considero derrota triunfo de PAN -  Gobernador"
 front: false
 section: "Local"
-news_id: 184911
+redirect_from: /news/184911
 ---
 
 “No considero una derrota mía” fueron las palabras del Gobernador de Chihuahua, Javier Corral Jurado, al ser cuestionado respecto a si se la victoria de María Eugenia Campos es una derrota para el mandatario, ante lo que señaló que él no se encontraba dentro de la boleta pese a ello sufrió ataque en su momento.

@@ -10,11 +10,11 @@ author: nil
 description: "Esperan contar con el cien por ciento de quienes cubran los requisitos para basificarse."
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-MM01_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Basificará SSPE a policías eventuales"
 front: false
 section: "Local"
-news_id: 190356
+redirect_from: /news/190356
 ---
 
 El cien por ciento de los elementos de la Secretaría de Seguridad Pública que se encuentra laborando de forma eventual contará con su basificación, aseveró el titular de la dependencia Gilberto Loya Chávez.

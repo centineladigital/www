@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Rhys Ifans y Harris Dickinson explican a M2 cómo esta historia de acción y espionaje se convierte en una oportunidad de echar un vistazo irreverente a la historia del mundo y a la Primera Guerra Mundial. "
 image: "/uploads/2021/images-the-king-man-estrena-cines.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Hasta la Primera Guerra Mundial! 'King's Man' regresan a su origen en nueva cinta"
 front: false
 section: "Espectáculos"
-news_id: 191348
+redirect_from: /news/191348
 ---
 
 King's man vuelve a la pantalla grande con una precuela protagonizada por Ralph Fiennes que da continuidad a los hechos ocurridos en las dos primeras entregas: The Secret Service y The Golden Circle; esta nueva versión lleva por título The King's Man y nos remonta un siglo atrás, con la Primera Guerra Mundial como contexto, para contar a los seguidores de la saga cómo se fundó este servicio de inteligencia independiente ubicado en Reino Unido. Esta nueva entrega dirigida por Matthew Vaughn mezcla la ficción y la realidad para ofrecer historia de acción y espías engalanada con un desfile de grandes personajes, uno de los más icónicos es Rasputín, el monje visionario que ejerció gran influencia sobre la familia imperial rusa, que en esta versión de la historia es interpretado por Rhys Ifans. La cinta se convierte en una revisión irreverente de la historia y de cómo se gestó la Primera Guerra Mundial. 

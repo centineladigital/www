@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El encuentro universitario se realiza del 20 al 24 de septiembre en el estado de Guanajuato. "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-22_at_10.14.26.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-09-22_at_10.14.26.mp4"
 alt: "Participa UACH en el XI Congreso Nacional de Estudiantes de la Tierra 2021"
 front: false
 section: "Local"
-news_id: 187946
+redirect_from: /news/187946
 ---
 
 Con el objetivo de integrar y difundir los aportes y proyectos de investigación desarrollados por la Universidad Autónoma de Chihuahua, tres docentes investigadores de esta institución, participarán como ponentes en el XI Congreso Nacional de Estudiantes de Ciencias de la Tierra 2021 (CNECT), que se lleva a cabo del 20 al 24 de septiembre en el estado de Guanajuato.

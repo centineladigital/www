@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Hasta el momento no se han detectado relaciones entre las muertes."
 image: "/uploads/2021/images-PENICHE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03.mp3"
 alt: "Solo dos de seis casos de homicidios se relacionan"
 front: false
 section: "Local"
-news_id: 184954
+redirect_from: /news/184954
 ---
 
 Solamente dos de seis casos de homicidios de mujeres se encuentran relacionados afirmó el Fiscal General de Chihuahua, César Augusto Peniche Espejel. Esto al dar a conocer que solamente han abierto seis expedientes para indagar la muerte de igual número de mujeres.

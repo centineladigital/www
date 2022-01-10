@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de redes sociales, en donde Sylvia Pasquel compartió un video en el que junto a un muñeco virtual, quien simula ser Travis Scott, protagoniza una polémica escena."
 image: "/uploads/2021/images-critican-sylvia-pasquel-polemico-video.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se apoderó de mí -  Critican a Sylvia Pasquel por polémico video que se volvió viral"
 front: false
 section: "Espectáculos"
-news_id: 185346
+redirect_from: /news/185346
 ---
 
 Sylvia Pasquel, hija de Silvia Pinal y hermana de Alejandra Guzmán, dio mucho de qué hablar en las últimas horas, pues publicó un polémico video que para los usuarios de las redes sociales estaba fuera de lugar ¿qué hizo? La actriz y abuela de Michelle Salas apareció con la imagen –virtual– de Travis Scott simulando una escena ‘erótica’ para recordar a su personaje Nidia Cachón. 

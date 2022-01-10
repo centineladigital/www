@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En Tiktok las personas pueden acompañar sus videos con canciones y éstas son las más populares del 2021 en la plataforma. "
 image: "/uploads/2021/images-tiktok-usuarios-utilizan-canciones-vuelto.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡De Dua Lipa hasta Rauw Alejandro! Las canciones más populares en TikTok este 2021"
 front: false
 section: "Espectáculos"
-news_id: 190472
+redirect_from: /news/190472
 ---
 
 Desde la pandemia TikTok se convirtió en una de las redes sociales más usadas. Poco a poco más gente se ha unido a ella y disfruta de los videos que en muchas ocasiones se vuelven virales, pero algo a destacar de esta aplicación es que en los clips se pueden agregar canciones que son muy populares. TikTok tiene la opción de agregar audio a los videos que se realizan, pero lo que ha llamado la atención es que los tiktokers o influencers agregan a sus clips canciones que ya han sido publicadas en las plataformas de streaming y que escuchamos en la radio, pero que alcanzan mucho más éxito gracias a TikTok. 

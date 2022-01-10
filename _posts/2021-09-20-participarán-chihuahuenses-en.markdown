@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se realizará en Santa Marta, Colombia, del 23 al 27 de septiembre"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-20_at_14.02.05.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participarán chihuahuenses en Campeonato Mundial de Aguas Abiertas Subacuáticas"
 front: false
 section: "Local"
-news_id: 187882
+redirect_from: /news/187882
 ---
 
 Cuatro chihuahuenses se suman a la representación de la delegación mexicana que participará en el Campeonato Mundial de Aguas Abiertas Subacuática que se realizará en Santa Marta, Colombia, del 23 al 27 de septiembre, así lo dio a conocer el director del Instituto Municipal de Cultura Física y Deporte (IMCFD), Juan José Abdo Fierro.

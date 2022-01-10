@@ -16,11 +16,11 @@ author: nil
 description: "El costo de estos créditos ha ido a la baja"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_13.22.58.jpeg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-09-28_at_13.31.44.mp4"
-audio: "nil"
+audio: nil
 alt: "Créditos a corto plazo han mejorado las condiciones de comisiones "
 front: false
 section: "Local"
-news_id: 188153
+redirect_from: /news/188153
 ---
 
 El diputado Mario Vázquez declaró el Gobierno del Estado ha venido sorteando esta crisis financiera ha conseguido estos créditos pagaderos a máximo de un año, respecto a las especulaciones que se han presentado en las cuales comentan que el Estado está a punto de pedir un segundo préstamo para solventar sus gastos financieros .

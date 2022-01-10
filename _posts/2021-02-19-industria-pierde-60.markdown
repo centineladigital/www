@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En otras empresas se les ha brindado un suministro limitado sin embargo también deberán de parar"
 image: "/uploads/2021/images-PRINCIPAL_Román_Rivas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Industria pierde 60 mdd por tener parada la producción -  Index Juárez"
 front: false
 section: "Local"
-news_id: 183031
+redirect_from: /news/183031
 ---
 
 Al menos 120 empresas de la industria manufacturera en Ciudad Juárez ha tenido que parar sus procesos de producción, en otras empresas se les ha brindado un suministro limitado sin embargo también deberán de parar el caso de que el servicio de gas natural no se regularice.

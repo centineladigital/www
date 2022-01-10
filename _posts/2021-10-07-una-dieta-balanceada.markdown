@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ayudan a prevenir la aparición de arrugas prematuras y a reparar daños causados por la exposición al sol"
 image: "/uploads/2021/images-Foto_4878-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Una dieta balanceada favorece para tener una piel saludable -  IMSS Chihuahua "
 front: false
 section: "Local"
-news_id: 188476
+redirect_from: /news/188476
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, a través de la Jefatura de Prestaciones Médicas, destacó que una sana alimentación ayuda a tener una piel saludable.

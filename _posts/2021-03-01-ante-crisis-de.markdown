@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El primer ministro de Japón designa un ministro de la soledad para atender una serie de problemas sociales como el suicidio, que se han agravado durante la pandemia"
 image: "/uploads/2021/images-2537437.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ante crisis de suicidios, Japón apuesta por un 'ministro de la soledad'"
 front: false
 section: "Internacional"
-news_id: 183208
+redirect_from: /news/183208
 ---
 
 Japón acaba de designar un ministro de la Soledad para atender una serie de problemas sociales como el suicidio, que se han agravado durante la pandemia de coronavirus.

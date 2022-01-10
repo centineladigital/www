@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Invita a emprendedores y empresarios a las conferencias sobre ciberseguridad este martes 10 de agosto a partir de las 9:00 horas"
 image: "/uploads/2021/images-unnamed_(9).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invitan Gobierno Municipal y Chihuahua Futura a conferencias sobre ciberseguridad"
 front: false
 section: "Local"
-news_id: 186484
+redirect_from: /news/186484
 ---
 
 La iniciativa Chihuahua Futura, en coordinación con el Gobierno Municipal de Chihuahua, invita a emprendedores y empresarios a las conferencias sobre ciberseguridad este martes 10 de agosto a partir de las 9:00 horas.

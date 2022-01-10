@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Ve positivo la Fiscalía desempeño de jueza."
 image: "/uploads/2021/images-CESAR_PENICHE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML05_CESAR_PENICHE.mp3"
 alt: "Aún quedan recursos para defensa de Duarte -  Fiscalía"
 front: false
 section: "Local"
-news_id: 182790
+redirect_from: /news/182790
 ---
 
 Pese a que se pudiera tener la resolución a favor del Estado aún quedan recursos para la defensa de César Duarte, según lo dio a conocer el Fiscal General del Estado César Augusto Peniche Espejel. 

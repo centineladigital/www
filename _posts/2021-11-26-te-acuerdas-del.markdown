@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante y youtuber también es el actual alcalde la ciudad de Guamote, en Ecuador. "
 image: "/uploads/2021/images-delfin-quishpe-es-condenado-a.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Te acuerdas del youtuber y cantante Delfín hasta el fin? Fue condenado a cinco años de prisión"
 front: false
 section: "Espectáculos"
-news_id: 190259
+redirect_from: /news/190259
 ---
 
 ¿Te acuerdas de Delfín hasta el fin? Si te respuesta es sí, hoy se anunció que lo condenaron a cinco años en prisión. En aquellas épocas en donde el internet empezaba con su explosión, un personaje llamado “Delfín hasta el fin” hacía su aparición como el Delfín Quishpe. 

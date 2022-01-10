@@ -14,11 +14,11 @@ author: nil
 description: "La próxima administración tendrá que trabajar en los proyectos"
 image: "/uploads/2021/images-_hdf945c1982b86141291bfad4c9f7730582afdbd0e.jpeg"
 video: "/uploads/2021/videos-BW02_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "El fideicomiso de Avalos generó un gran proyecto de desarrollo"
 front: false
 section: "Local"
-news_id: 188198
+redirect_from: /news/188198
 ---
 
 El alcalde Marco Bonilla habló sobre el fideicomiso de Avalos, el cual generó un gran proyecto de desarrollo, el cual tuvo lugar al realizar la primera etapa con las instalaciones de la feria de santa Rita.

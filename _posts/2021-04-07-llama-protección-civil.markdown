@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El sistema entra a Chihuahua este miércoles 6 de abril y durante tres días generará fuertes vientos, que se intensificarán el jueves y el viernes con ráfagas de hasta 65 km/h y tolvaneras en los tramos carreteros Sueco-Ahumada, y Jiménez-Parral"
 image: "/uploads/2021/images-MAPA_CLIMA.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llama Protección Civil a tomar precauciones por ingreso del Frente Frío 48"
 front: false
 section: "Local"
-news_id: 183732
+redirect_from: /news/183732
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) dio a conocer que para este miércoles 7 de abril se prevé el ingreso del Frente Frío número 48 a la entidad, con rachas de viento que podrían superar los 65 kilómetros por hora (km/h) durante los próximos tres días.

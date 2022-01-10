@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal recabó los donativos con el pasado Zumbatón “El Baile Nos Une”"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Apoyan con ropa invernal y despensas a familias de la colonia La Soledad"
 front: false
 section: "Local"
-news_id: 190730
+redirect_from: /news/190730
 ---
 
 Mas de 50 niñas, niños y adultos de la colonia La Soledad, al sur de la ciudad, fueron beneficiados con la entrega de despensas y ropa invernal, gracias a la suma de voluntades y solidaridad de la comunidad chihuahuense que participó en el Zumbathón organizado por el Gobierno Municipal.

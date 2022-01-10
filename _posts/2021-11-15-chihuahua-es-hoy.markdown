@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Asiste la gobernadora como invitada especial a la conmemoración del 111 Aniversario de la Revolución Mexicana"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chihuahua es hoy la tierra de la esperanza y es la tierra donde florecen los ideales -  Maru Campos"
 front: false
 section: "Local"
-news_id: 189828
+redirect_from: /news/189828
 ---
 
 La mandataria chihuahuense, Maru Campos Galván asistió como invitada especial a la Sesión Solemne de la LXVII Legislatura del Congreso del Estado, celebrada la población de Cuchillo Parado con motivo del 111 Aniversario de la Revolución Mexicana.

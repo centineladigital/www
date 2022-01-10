@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En adeudos vehiculares, expedición de licencias de conducir, impuestos estatales e infracciones de tránsito"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno del Estado a aprovechar descuentos de hasta el 75% con el programa “Borrón y Cuenta Nueva” durante todo diciembre y enero"
 front: false
 section: "Local"
-news_id: 191269
+redirect_from: /news/191269
 ---
 
 El Gobierno del Estado, recuerda a la ciudadanía que continúa vigente el programa “Borrón y Cuenta Nueva” con el cual pueden obtener descuentos de hasta el 75% durante el mes de diciembre y enero  en adeudos vehiculares, expedición de licencias de conducir, impuestos estatales e infracciones de tránsito.

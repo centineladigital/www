@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El artista puertorriqueño fue reconocido el pasado 17 de enero por su trayectoria filantrópica junto a otras cinco personas, en la primera entrega de los Premios Internacionales de la Paz."
 image: "/uploads/2021/images-coronavirus-ricky-martin-pospone-conciertos_1_46_956_596.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cerrando ciclos? Ricky Martin cambia de look; así luce una barba distinta"
 front: false
 section: "Espectáculos"
-news_id: 182364
+redirect_from: /news/182364
 ---
 
 Ricky Martin, cantante puertorriqueño, sorprendió a sus seguidores, pues dejó a un lado la seriedad y cambió de look. El cantante lució una barba teñida de rubio. Te contamos cómo se dio su cambio y cómo luce el famoso artista.  En la misma, el intérprete, de 49 años, aparece con una playa de fondo, mostrando la mitad de su rostro y su barba teñida. Acompaña la imagen con la frase "cuando estés aburrido, tíñete". Entre los comentarios hay uno de su marido, el pintor sirio de nacionalidad sueca Jwan Yosef: ""Barbaaaaa??". 

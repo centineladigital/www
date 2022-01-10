@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El doctor Anthony Fauci advirtió que tomará ‘varios meses más’ entregar dosis a todos los adultos; prevé lograr la inmunidad colectiva para fines del verano boreal"
 image: "/uploads/2021/images-2527693.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En abril, vacunas para todos en EU -  asesor científico de Biden"
 front: false
 section: "Internacional"
-news_id: 182848
+redirect_from: /news/182848
 ---
 
 El doctor Anthony Fauci pronostica que habrá “vacunas para todos” en abril en Estados Unidos y la mayoría de la gente podrá estar protegida contra el COVID-19.

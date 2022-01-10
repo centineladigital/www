@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El pugilista mexicano se da el tiempo de entrenarlo, pese a tener la pelea ante Caleb Plant en puerta"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Canelo Álvarez entrena al hijo de Manny Pacquiao y lo prepara para su debut"
 front: false
 section: "Deportes"
-news_id: 188720
+redirect_from: /news/188720
 ---
 
 Canelo Álvarez y Eddy Reynoso, su manager, se dan el tiempo de entrenar y preparar al hijo de Manny Pacquiao, Emmanuel, para su debut en el boxeo. 

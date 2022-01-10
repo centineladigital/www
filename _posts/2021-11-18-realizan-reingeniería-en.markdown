@@ -10,11 +10,11 @@ author: nil
 description: "Recortes se llevaron a cabo antes de inicio de la presente administración."
 image: "/uploads/2021/images-NACHO.jpg"
 video: "/uploads/2021/videos-MJ02_NACHO_GALICIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Realizan reingeniería en Desarrollo Humano"
 front: false
 section: "Local"
-news_id: 189975
+redirect_from: /news/189975
 ---
 
 Desde el principio de la administración estatal la Secretaría de Secretario de Desarrollo Humano y Bien Común llevó a cabo una reingeniería, esto con el fin eficientizar los recursos de la dependencia ya que había áreas con duplicación de funciones, afirmó el titular de la misma Ignacio Galicia de Luna.

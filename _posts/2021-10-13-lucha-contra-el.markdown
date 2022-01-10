@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente municipal, su familia y funcionarios municipales acudieron al partido de beneficencia"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lucha contra el cáncer de mama une a la afición de Dorados Basquetbol"
 front: false
 section: "Local"
-news_id: 188679
+redirect_from: /news/188679
 ---
 
 Las familias basquetboleras de Chihuahua y el presidente municipal Marco Bonilla, se unieron a la lucha contra el cáncer de mama, en un partido de beneficencia, donde Dorados de Chihuahua venció a Plateros de Fresnillo, 99 a 95 en el Gimnasio Manuel Bernardo Aguirre (MBA).

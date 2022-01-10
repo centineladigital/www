@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El consejero Presidencial para la Seguridad Nacional de Colombia, Rafael Guarín Cotrino, dijo este viernes que uno de los militares retirados detenidos en Haití por su presunta participación en el asesinato del presidente de ese país, Jovenel Moise, es primo suyo. "
 image: "/uploads/2021/images-policia-haitiana-capturo-puerto-principe.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Uno de los asesinos del presidente de Haití es primo de consejero presidencial colombiano"
 front: false
 section: "Internacional"
-news_id: 185524
+redirect_from: /news/185524
 ---
 
 Guarín dijo que la confirmación del parentesco se la dio su padre, a quien le consultó luego de ver que uno de los 18 militares colombianos retirados arrestados en Puerto Príncipe tras el magnicidio tiene su mismo apellido y es oriundo de la ciudad de Sogamoso, en el departamento de Boyacá, de donde procede su familia. 

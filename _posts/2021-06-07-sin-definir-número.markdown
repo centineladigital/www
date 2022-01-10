@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que no solo se ha pedido una expulsión."
 image: "/uploads/2021/images-NAVARRO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML05_.mp3"
 alt: "Sin definir número de expulsiones en el PAN -  Navarro"
 front: false
 section: "Local"
-news_id: 184907
+redirect_from: /news/184907
 ---
 
 Aún sin definir el número de expulsiones que se tendrán dentro del Partido Acción Nacional, señaló el dirigente municipal Francisco Navarro Pastrana. Esto luego de que el mandatario de Chihuahua, Javier Corral respondiera que espera la notificación de su retiro como integrante del partido albiazul.

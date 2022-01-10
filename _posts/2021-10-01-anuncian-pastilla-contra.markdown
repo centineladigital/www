@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Si lo consigue, el fármaco de Merck será la primera píldora creada para tratar el covid-19, un posible gran avance en la lucha contra la pandemia. "
 image: "/uploads/2021/images-merck-buscara-autorizacion-pildora-anticovid.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncian pastilla contra el covid-19 que reduce riesgo de muerte; buscan aprobación para su uso"
 front: false
 section: "Internacional"
-news_id: 188259
+redirect_from: /news/188259
 ---
 
 Al parecer después de muchos meses en pandemia por coronavirus, covid-19, se logra ver una luz al final del camino. Merck & Co. anunció que su pastilla experimental contra el covid-19 redujo las hospitalizaciones y las muertes a casi la mitad entre personas infectadas recientemente de coronavirus. 

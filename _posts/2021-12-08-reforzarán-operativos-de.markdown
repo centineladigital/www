@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Al cincuenta por ciento aforos dentro de semaforización."
 image: "/uploads/2021/images-ELOY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_ELOY_GARCIA.mp4"
 alt: "Reforzarán operativos de gobernación"
 front: false
 section: "Local"
-news_id: 190646
+redirect_from: /news/190646
 ---
 
 Operativos de Gobernación se reforzarán dentro de la temporada, según lo dio a conocer el titular del área estatal Eloy García Tarín. Quien dijo que pese a esto lamentablemente no se cuentan con los recursos para materialmente revisar el aforo del cien por ciento de los lugares.

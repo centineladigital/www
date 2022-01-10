@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El grupo que asesora a la OMS en cuestiones de inmunización emitió hoy las conclusiones del análisis de datos que ha hecho en los dos últimos días. "
 image: "/uploads/2021/images-astrazeneca-reformulara-vacuna-covid-variante.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Habrá nueva etapa de vacunación? OMS confirma que vacunas contra covid ofrecen inmunidad de 6 meses"
 front: false
 section: "Internacional"
-news_id: 190666
+redirect_from: /news/190666
 ---
 
 Los datos científicos sobre la duración de la inmunidad que ofrecen las vacunas contra el covid-19 indican que ésta se extiende hasta seis meses después de haber recibido la segunda vacuna (o la dosis única en el caso de la vacuna Janssen), señaló la La Organización Mundial de la Salud (OMS).

@@ -10,11 +10,11 @@ author: nil
 description: "Contarán con un mejor sistema de seguridad."
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-MM05_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Cambian diseño de licencias de conducir"
 front: false
 section: "Local"
-news_id: 190156
+redirect_from: /news/190156
 ---
 
 A partir del 25 de noviembre las licencias de conducir contarán con un nuevo diseño, según lo señaló el titular de la Secretaría de Seguridad Púbica Estatal, Gilberto Loya Chávez, por lo que a patir de esta fecha la oficina de Licencias Digitales iniciará la entrega de credenciales para conducir con el nuevo diseño.

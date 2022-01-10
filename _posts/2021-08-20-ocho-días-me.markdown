@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Franco Escamilla compartió la buena noticia que se está recuperando del covid-19 y que su prueba más reciente dio negativo. "
 image: "/uploads/2021/images-franco-escamilla-realizara-prueba-seguro.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ocho días me duró -  Franco Escamilla revela que ya dio negativo a prueba de covid-19"
 front: false
 section: "Espectáculos"
-news_id: 186929
+redirect_from: /news/186929
 ---
 
 Hace unos días Franco Escamilla, quien ha destacado en el mundo del stand up, contó a sus seguidores en Twitter que se había contagiado de coronavirus, por lo que descansaría dos semanas, tiempo en que se sabe que los casos leves de SARS-CoV 2 suelen recuperarse. Afortunadamente, el comediante compartió que ya dio negativo a la prueba de antígenos. 

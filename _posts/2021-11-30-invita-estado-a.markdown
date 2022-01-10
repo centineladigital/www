@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se apoyará a municipios, personas físicas y morales para promocionar eventos turísticos de atractivos naturales, culturales y recreativos; convocatoria y registro vigente hasta el 10 de diciembre disponibles en www.chihuahua.com.mx"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Estado a formar parte del Festival Internacional de Turismo de Aventura 2022"
 front: false
 section: "Local"
-news_id: 190347
+redirect_from: /news/190347
 ---
 
 La Secretaría de Innovación y Desarrollo Económico (SIDE), a través de la Dirección de Turismo,  convoca a municipios, personas físicas y morales con experiencia previa en organización de eventos, a participar en la edición 2022 del Festival Internacional de Turismo de Aventura (FITA).

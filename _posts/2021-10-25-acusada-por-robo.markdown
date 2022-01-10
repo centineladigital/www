@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Presuntamente se aprovechó de la relación laboral que tenía con la empresa para robar dinero de la caja.  "
 image: "/uploads/2021/images-1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acusada por robo de casi medio millón de pesos cometido en Parral enfrentará proceso penal"
 front: false
 section: "Local"
-news_id: 189184
+redirect_from: /news/189184
 ---
 
 La Fiscalía de Distrito Zona Centro obtuvo el auto de vinculación a proceso en contra de Sandra Ivonne L. E., acusada por el robo de 494 mil 179 pesos a una gasera ubicada en el municipio de Parral, en la cual laboraba.

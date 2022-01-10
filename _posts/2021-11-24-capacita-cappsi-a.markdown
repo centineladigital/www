@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Para fortalecer las habilidades de comunicación asertiva y toma de decisiones"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacita CAPPSI a trabajadores del Congreso del Estado en salud mental"
 front: false
 section: "Local"
-news_id: 190147
+redirect_from: /news/190147
 ---
 
 El Gobierno Municipal de Chihuahua, a través del Centro de Atención y Prevención Psicológicas (CAPPSI), colaboró con el Congreso del Estado para impartir una conferencia titulada “Salud mental en hombres, hacia una nueva masculinidad”.

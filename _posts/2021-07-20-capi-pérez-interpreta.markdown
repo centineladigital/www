@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El conductor cantó 'Botella tras botella' en reality de Venga la Alegría; señaló que su pelea con Nodal surgió por unos chistes que hizo sobre Belinda, ¿la comparó con Bebeshita? "
 image: "/uploads/2021/images-capi-perez-interpreta-cancion-nodal_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Capi' Pérez interpreta canción de Nodal en 'VLA'; revive pelea con cantante -  Hice bromas inocentes"
 front: false
 section: "Espectáculos"
-news_id: 185820
+redirect_from: /news/185820
 ---
 
 Quiero cantar es el nuevo reality de Venga la Alegría que está causando revuelo debido a las fallidas presentaciones de Anette Cuburu, Laura G y El Rey Grupero; sin embargo, El Capi Pérez se sumó a la polémica durante la emisión más reciente del programa tras revivir su legendaria pelea con Christian Nodal, quién bloqueó al conductor de TV Azteca por hacer una broma sobre Belinda.  

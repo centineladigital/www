@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jack White sorprenderá a sus fans en 2022 ya que en ese año sacará un nuevo disco. Te contamos los detalles.   "
 image: "/uploads/2021/images-musico-anuncio-fecha-lanzara-disco.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Buenas noticias para los fans! Jack White publicará un nuevo disco en 2022; editará otro"
 front: false
 section: "Espectáculos"
-news_id: 189797
+redirect_from: /news/189797
 ---
 
 Jack White, famoso por haber sido el cantante y guitarrista de la banda The White Stripes, tiene buenas noticias para todos sus fans, ya que anunció este jueves que en el 2022 publicará dos nuevos discos: Fear of the Dawn, que se editará el 8 de abril; y Entering Heaven Alive, que llegará el 22 de julio. Estos dos álbumes romperán la sequía creativa en solitario de White, cuyo último disco por su cuenta era hasta ahora Boarding House Reach (2018). Antes había publicado bajo su nombre Blunderbuss (2012) y Lazaretto (2014). No obstante, White lanzó en 2019 con The Raconteurs el álbum Help Us Stranger.

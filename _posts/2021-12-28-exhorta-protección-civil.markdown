@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La CEPC reitera el llamado a las familias chihuahuenses a tomar conciencia sobre los riesgos de utilizar este tipo de artefactos"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta Protección Civil Estatal a evitar accidentes por uso de pirotecnia"
 front: false
 section: "Local"
-news_id: 191271
+redirect_from: /news/191271
 ---
 
 En esta temporada de fiestas decembrinas, la Coordinación Estatal de Protección Civil (CEPC) exhorta a la ciudadanía a no utilizar la pirotecnia, a fin de evitar accidentes y tragedias en esta época.

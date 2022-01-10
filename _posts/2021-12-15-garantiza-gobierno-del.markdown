@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Gobernadora instruye a Secretaría de Hacienda para que se priorice el pago de esta prestación"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Garantiza Gobierno del Estado pago de aguinaldo a policías y trabajadores de la salud el 20 de diciembre"
 front: false
 section: "Local"
-news_id: 190909
+redirect_from: /news/190909
 ---
 
 El secretario de Hacienda, José de Jesús Granillo dio a conocer que la dispersión de los aguinaldos de los empleados del Gobierno del Estado, magisterio, jubilados, organismos autónomos y descentralizados continúa en marcha, ya que el pasado 30 de noviembre se depositó la primera parte del mismo, y el resto se continuará depositando en diferentes etapas. 

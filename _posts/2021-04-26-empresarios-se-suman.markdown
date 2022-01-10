@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Sumas de cualquier partido son beneficas para Acción Nacional, señalan empresarios."
 image: "/uploads/2021/images-LUJAN.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML01_GUILLERMO_LUJAN.mp3"
 alt: "Empresarios se suman a proyecto de Acción Nacional"
 front: false
 section: "Local"
-news_id: 184112
+redirect_from: /news/184112
 ---
 
 Los empresarios Enrique Terrazas y Guillermo Luján, expresaron públicamente su apoyo para la candidata del PAN y PRD por la gubernatura, María Eugenia Campos, esto dentro de una rueda de prensa en la cual se contó con la presencia de candidatos para puestos federal y municipal.

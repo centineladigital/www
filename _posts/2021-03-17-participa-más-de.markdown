@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La directora del DIF Municipal, Thelma Rivero Espinoza, destacó que ExpoFamilia 2021 fue un éxito sin precedentes, sobre todo, con una alta participación de jóvenes e instituciones educativas y de los docentes."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa más de 9 mil personas en ExpoFamilia 2021 del DIF Municipal"
 front: false
 section: "Local"
-news_id: 183451
+redirect_from: /news/183451
 ---
 
 El Gobierno Municipal a través del DIF Municipal llevó a cabo el pasado 12 y 13 de marzo la ExpoFamilia 2021 con la participación de 9,407 personas en las distintas pláticas y actividades que se realizaron en el que se reconoce a las familias como la principal estructura social.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El primer caso de covid-19 fue detectado en China en diciembre de 2019, antes de que el nuevo coronavirus se extendiera por todo el mundo para convertirse en la pandemia más grave de los últimos 100 años. "
 image: "/uploads/2021/images-OMS_COVID.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "COVID-19 ha dejado más de cuatro millones de muertos, lamenta la OMS."
 front: false
 section: "Internacional"
-news_id: 185410
+redirect_from: /news/185410
 ---
 
 El director de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, lamentó que la pandemia de coronavirus ha dejado más de cuatro millones de muertos registrados oficialmente. 

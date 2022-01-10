@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "La campaña continuará lo que resta del mes de mayo y casi todo el mes de junio para que todos los infantes de uno a cuatro años cuenten con estas vacunas y completen su esquema básico"
 image: "/uploads/2021/images-vacunacion_sarampion_y_rubeola-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vacuna Salud a cerca de 2 mil niñas y niños contra sarampión y rubéola"
 front: false
 section: "Local"
-news_id: 184628
+redirect_from: /news/184628
 ---
 
 Cerca de 2 mil niñas y niños de 1 a 4 años de edad fueron vacunados en la jornada de vacunación contra sarampión y rubéola implementada el domingo 23 de mayo, informó la Secretaría de Salud.

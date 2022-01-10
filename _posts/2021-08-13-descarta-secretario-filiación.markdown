@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-MV02_FERNANDO_MESTA.mp4"
 alt: "Descarta Secretario filiación del Gobernador a Morena"
 front: false
 section: "Local"
-news_id: 186668
+redirect_from: /news/186668
 ---
 
 “No veo al Gobernador afiliándose en Morena” fueron las palabras de Luis Fernando Mesta Soulé, al ser cuestionado respecto a declaraciones de dirigente del partido del Presidente de la República en el sentido de que el mandatario tiene las puertas abiertas en este partido.

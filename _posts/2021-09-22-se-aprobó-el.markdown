@@ -16,11 +16,11 @@ author: nil
 description: " Como organismo descentralizado de la Administración Pública del Municipio"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-22_at_11.34.27_AM.jpeg"
 video: "/uploads/2021/videos-BW02_FRANCISCO_TURATI.mp4"
-audio: "nil"
+audio: nil
 alt: "Se aprobó el acuerdo de creación del IMPLAN "
 front: false
 section: "Local"
-news_id: 187967
+redirect_from: /news/187967
 ---
 
 La sesión solemne del ayuntamiento presentó el dictamen de la comisión de regidores a voz del regidor Francisco Turati Muñoz,  en donde se aprobó la iniciativa de reforma al Acuerdo de Creación del Instituto de Planeación Integral del Municipio de Chihuahua.

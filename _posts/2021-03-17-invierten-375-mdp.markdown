@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Complementará las plantas tratadoras"
 image: "/uploads/2021/images-WhatsApp_Image_2021-03-17_at_9.15.58_AM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invierten 3.75 mdp en laboratorios de aguas residuales"
 front: false
 section: "Local"
-news_id: 183445
+redirect_from: /news/183445
 ---
 
 Una inversión de 3 millones 750 mil pesos ejecutó la Junta Municipal de Agua y Saneamiento para habilitar y equipar el laboratorio donde se analizarán las muestras de agua provenientes de las plantas tratadoras, anunció la mañana de ayer el director ejecutivo del organismo, Luis Carlos Gómez Sánchez.

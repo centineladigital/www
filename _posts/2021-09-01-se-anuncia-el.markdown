@@ -14,11 +14,11 @@ author: nil
 description: "Participaran Denisse Dresser y Erick Guerrero "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-01_at_2.14.06_PM.jpeg"
 video: "/uploads/2021/videos-BW01_JESUS_BARRERA.mp4"
-audio: "nil"
+audio: nil
 alt: "Se anuncia el magno evento del Instituto Mexicano De Contadores Públicos "
 front: false
 section: "Local"
-news_id: 187343
+redirect_from: /news/187343
 ---
 
 El presidente del Instituto Mexicano De Contadores Públicos del estado de Chihuahua Jesús José Barrera Torres, anunció la apertura del magno evento “perspectivas, retos y oportunidades de México 2021- 2022, en donde participarán Denisse Dresser y Erick Guerrero.

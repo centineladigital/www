@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El regreso de los empacadores voluntarios de la tercera edad debe respetar también el semáforo de riesgo y seguir con las medidas sanitarias establecidas por SSa"
 image: "/uploads/2021/images-2558963.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abuelitos pueden volver como empacadores voluntarios -  INAPAM"
 front: false
 section: "Nacional"
-news_id: 183758
+redirect_from: /news/183758
 ---
 
 Las personas adultas mayores que trabajaban voluntariamente como empacadores en tiendas de autoservicio antes del inicio de la pandemia ya pueden reiniciar sus actividades si han completado su esquema de vacunación contra Covid-19, consideró el Instituto Nacional de las Personas Adultas Mayores (INAPAM).

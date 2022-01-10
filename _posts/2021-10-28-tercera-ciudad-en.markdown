@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "China, donde el coronavirus apareció por primera vez, controló ampliamente la epidemia desde la primavera boreal de 2020 con la adopción de medidas drásticas, entre ellas el cierre de las fronteras"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tercera ciudad en China confina a sus habitantes tras un caso de Covid-19"
 front: false
 section: "Internacional"
-news_id: 189291
+redirect_from: /news/189291
 ---
 
 Una tercera ciudad de China confinó a sus habitantes el jueves después de la aparición de un solo caso de Covid-19, ya que las autoridades temen los riesgos de contagio a menos de 100 días del inicio de los Juegos Olímpicos de Invierno en Pekín.

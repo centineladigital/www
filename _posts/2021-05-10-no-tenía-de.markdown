@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El actor cubano señaló que se aplicó la doble dosis de Pfizer en Estados Unidos; aseguró que él no hubiera querido vacunarse. "
 image: "/uploads/2021/images-francisco-gattorno-revela-queria-vacunarse_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No tenía de otra -  Francisco Gattorno revela que no quería vacunarse contra el covid-19"
 front: false
 section: "Espectáculos"
-news_id: 184375
+redirect_from: /news/184375
 ---
 
 Francisco Gattorno se sumó a la lista de actores y celebridades que ya se pusieron la vacuna contra el covid-19. El actor cubano reveló que se aplicó la doble dosis de Pfizer en Estados Unidos; sin embargo, al ser cuestionado sobre su compatriota Francisco Céspedes, quien dijo no creer en la existencia del nuevo coronavirus, Gattorno señaló que se puso la vacuna únicamente "porque no tenía de otra".  

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Según información oficial, el mandatario, que se escapó el domingo tras la llegada de los talibanes a Kabul, está con su familia en la capital de Emiratos Árabes Unidos"
 image: "/uploads/2021/images-ashraf-ghani-presidente-de-afganistan_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presidente de Afganistán que huyó del país está en Abu Dabi -  gobierno de Emiratos Árabes"
 front: false
 section: "Internacional"
-news_id: 186816
+redirect_from: /news/186816
 ---
 
 El presidente de Afganistán, Ashraf Ghani, se encuentra en Abu Dabi junto a su familia, según información oficial dada a conocer por el gobierno de los Emiratos Árabes Unidos después de tres días de que escapara del territorio mientras los talibanes llegaron a Kabul, provocando masivas evacuaciones.

@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Aseguró que poco más del 72 por ciento de los mexicanos quiere que continúe en el gobierno hasta el final de su sexenio."
 image: "/uploads/2021/images-amlo_foto.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO da su tercer informe por día de triunfo"
 front: false
 section: "Nacional"
-news_id: 185341
+redirect_from: /news/185341
 ---
 
 El presidente Andrés Manuel López Obrador presumió una encuesta telefónica en el que aseguró que poco más del 72 por ciento de los mexicanos quiere que continúe en el gobierno hasta el final de su sexenio.

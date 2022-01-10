@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Próxima administración podrá concluir litigios fiscales y administrativos por más de 2 mil 500 millones de pesos que el Estado puede recuperar para devolver a las y los chihuahuenses, señala el Gobernador en su Quinto Informe  "
 image: "/uploads/2021/images-DSC_5693.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lucha contra la corrupción y la impunidad definió el actuar de este Gobierno"
 front: false
 section: "Local"
-news_id: 186774
+redirect_from: /news/186774
 ---
 
 “La Operación Justicia para Chihuahua es uno de los grandes legados de esta Administración, es uno de los temas en los que me siento también muy satisfecho porque cumplimos el principal compromiso que tuvimos con el pueblo”, señaló el gobernador Javier Corral Jurado en su Quinto Informe ofrecido en Ciudad Juárez.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Celia Lora aseguró que pensó que el cantante la golpearía; mientras que Pablo Montero terminó llorando. Esto pasó en 'La Casa de los Famosos'. "
 image: "/uploads/2021/images-celia-lora-pablo-montero-pelearon.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No me llames pendejo -  Celia Lora y Pablo Montero protagonizan fuerte pelea en reality show en vivo"
 front: false
 section: "Espectáculos"
-news_id: 187816
+redirect_from: /news/187816
 ---
 
 Pablo Montero y Celia Lora tuvieron tremendo encontronazo en La Casa de los Famosos, reality show que se transmite 27/7 por Telemundo. ¿Qué fue lo que ocurrió? Los famosos se enfrentaron verbalmente a tal punto que Celia Lora aseguró que sintió que por poco el cantante la golpeaba; mientras que Pablo Montero lloró porque la hija de Alex Lora lo ‘sacó’ de sus casillas. Todo marchaba en orden entre Pablo Montero y Celia Lora en ‘La Casa de los Famosos’. Llevaban una buena relación hasta que de un momento a otro todo cambió y subió de tono. 

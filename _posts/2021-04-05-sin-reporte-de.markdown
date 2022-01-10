@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Continúan campañas de vacunación esto en Chihuahua y segundas dosis para enfermeros y personal de salud en Ciudad Juárez."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML07_WENDY_AVILA.mp3"
 alt: "Sin reporte de casos negativos por vacuna"
 front: false
 section: "Local"
-news_id: 183690
+redirect_from: /news/183690
 ---
 
 Aún no se cuenta con reportes de casos de personas que hayan sufrido una secuela negativa por vacunarse contra coronavirus, señaló la Subdirectora de Medicina Preventiva y Promoción de la Salud, Wendy Ávila Coronado, esto al señalar que durante la presente semana continuará aplicándose vacunas a personas de la tercera edad en la ciudad de Chihuahua.

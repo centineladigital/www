@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los Latin AMAs 2021 se celebraron en Florida y el ganador absoluto de la noche fue Bad Bunny. Te dejamos a todos los cantantes que se llevaron un premio a casa. "
 image: "/uploads/2021/images-bad-bunny-fue-el-gran_26_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Bad Bunny triunfó! Ellos son los ganadores de los Latin AMAs 2021"
 front: false
 section: "Espectáculos"
-news_id: 183938
+redirect_from: /news/183938
 ---
 
 Este 15 de abril se llevó a cabo la 6ta edición de los Latin American Music Awards 2021 en el BB&T Center en Sunrise, Florida, tras haberse cancelado el año pasado debido a la pandemia de coronavirus. Entre los nominados, quien fue el gran triunfador de la noche fue Bad Bunny al ganar en las cinco categorías en las que estaba nominado, mientras que J Balvin quedó con las manos vacías a pesar de ser uno de los grandes favoritos. Si J Balvin se fue vacío, Karol G, quien también llegaba a esta noche al frente de la lista de nominaciones, con nueve candidaturas cada uno, corrió mejor suerte que su compatriota. La artista colombiana y la estadounidense Nicky Minaj estuvieron en el segundo lugar de galardones, con tres cada una, gracias a su colaboración en "Tusa" 

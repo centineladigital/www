@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Martín Jesús López Obrador, hermano menor del presidente Andrés Manuel López Obrador, aparece en un video recibiendo dinero de las manos de David León Romero, reveló el periodista Carlos Loret de Mola."
 image: "/uploads/2021/images-amlo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Si hay delito, que se denuncie -  AMLO sobre video de otro de sus hermanos recibiendo dinero"
 front: false
 section: "Nacional"
-news_id: 185488
+redirect_from: /news/185488
 ---
 
 El presidente Andrés Manuel López Obrador dijo que si su hermano, Martín Jesús López Obrador, cometió un delito, se debe de denunciar para que sea castigado, tras la difusión de un video en el que se le ve recibiendo dinero por parte de David León Romero, ex coordinador nacional de Protección Civil. 

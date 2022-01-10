@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Javier Corral dará a conocer trabajos que se realizan para los catastros municipales del estado y su importancia para el desarrollo de los municipios"
 image: "/uploads/2021/images-catastral_pro.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presenta Gobernador Proyecto Ejecutivo de Modernización Catastral este jueves 24"
 front: false
 section: "Local"
-news_id: 185202
+redirect_from: /news/185202
 ---
 
 Este jueves 24 de junio el gobernador Javier Corral Jurado participará en la presentación del Proyecto Ejecutivo de Modernización Catastral Chihuahua 2020, que organiza la Secretaría de Desarrollo Urbano y Ecología (SEDUE)

@@ -10,11 +10,11 @@ author: nil
 description: "Inicia el 25 de octubre y termina en el mes de diciembre."
 image: "/uploads/2021/images-LEDEZMA.jpg"
 video: "/uploads/2021/videos-MV04_NORMA_LEDEZMA.mp4"
-audio: "nil"
+audio: nil
 alt: "Llevará a cabo JPNH un mes de concientización de violencia de género"
 front: false
 section: "Local"
-news_id: 189093
+redirect_from: /news/189093
 ---
 
 Del 25 de octubre al 25 de noviembre la Organización Justicia para Nuestras Hijas llevará a cabo una serie de acciones entre las que se encuentran conferencias, talleres y testimonios de familias que han sido víctimas de violencia a través de los años, con el fin de concientizar y frenar la violencia de género, según lo dio a conocer Norma Ledezma.

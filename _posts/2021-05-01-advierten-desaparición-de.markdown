@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Médicos Sin Fronteras subrayó el peligro que corren en México los expulsados por EU"
 image: "/uploads/2021/images-2571255.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierten desaparición de migrantes"
 front: false
 section: "Internacional"
-news_id: 184227
+redirect_from: /news/184227
 ---
 
 Cientos de personas deportadas de Estados Unidos están “varadas” en una plaza pública de la ciudad mexicana de Reynosa, una de “las zonas más peligrosas del país, donde desaparecen personas día y noche”, denunció la organización Médicos Sin Fronteras (MSF).

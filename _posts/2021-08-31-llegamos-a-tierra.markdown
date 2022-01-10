@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz relató los momentos de incertidumbre que vivió junto a su hermana ante la llegada del huracán 'Nora'. "
 image: "/uploads/2021/images-alessandra-rosaldo-relata-vivio-huracan_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llegamos a tierra firme -  Alessandra Rosaldo relata cómo vivió huracán en Puerto Vallarta"
 front: false
 section: "Espectáculos"
-news_id: 187280
+redirect_from: /news/187280
 ---
 
 El huracán Nora provocó torrenciales lluvias, fuertes vientos, derribos de árboles, cortes de luz y desbordamiento de ríos en los estados de Jalisco, Michoacán, Guerrero y Colima, incluyendo algunos puertos turísticos, entre ellos Puerto Vallarta en donde Alessandra Rosaldo, esposa de Eugenio Derbez, se encontraba disfrutando de un retiro de activación física junto a su hermana Mariana Rosaldo.  

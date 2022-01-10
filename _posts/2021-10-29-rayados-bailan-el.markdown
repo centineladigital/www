@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los Rayados festejaron el título de la Liga de Campeones de la Concacaf con el baile que le causó un multa a Javier Aguirre"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rayados bailan el Payaso de Rodeo, con título en mano"
 front: false
 section: "Deportes"
-news_id: 189341
+redirect_from: /news/189341
 ---
 
 En medio del festejo de los jugadores del Monterrey tras ganar el título de la Concachampions, comenzó a sonar en el sonido local una canción que recordó una polémica que envolvió a Javier Aguirre, técnico de los Rayados.

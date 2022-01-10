@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cinta mexicana basada en la experiencia personal del director se estrena hoy en cines. "
 image: "/uploads/2021/images-es-el-segundo-filme-de.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Los Lobos', la película que retrata las dificultades de las mamás migrantes"
 front: false
 section: "Espectáculos"
-news_id: 184968
+redirect_from: /news/184968
 ---
 
 El director Samuel Kishi Leopo decidió contar lo que vivió en su infancia, cuando su madre los llevó a vivir a Santa Ana, California, buscando una vida mejor; tomó sus recuerdos y los transformó en arte, en una película que aborda la maternidad, la migración y el difícil camino de encontrar nuevas oportunidades laborales. En entrevista con M2, Samuel nos explicó cómo decidió contar esta historia: “No sabía si era algo que se podía contar, son recuerdos y vivencias de niño, en un barrio pesado, vivíamos encerrados mientras ella se iba a buscar trabajo, nos dejaba una grabadora y nos decía que si la extrañábamos sólo le pusiéramos play, había cuentos, lecciones de inglés. La cinta la aterricé con guionistas, productores, investigamos mucho sobre la migración. Esta película es una carta de amor a mi mamá”. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La irreverente Sabrina Sabrok sorprendió con un sorprendente cambio en su rostro, esto debido a que se sometió a una cirugía estética. "
 image: "/uploads/2021/images-la-modelo-cambio-radicalmente-su.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Luce irreconocible! Sabrina Sabrok se realiza nueva cirugía estética en el rostro"
 front: false
 section: "Espectáculos"
-news_id: 182751
+redirect_from: /news/182751
 ---
 
 La modelo Sabrina Sabrok se dio a conocer principalmente por las diferentes cirugías estéticas que se ha realizado, sobre todo en los senos. Y aunque ya tiene varias operaciones en su cuerpo, parece que busca constantemente realizarse una nueva, ahora, la argentina mostró en redes sociales su nuevo cambio, ya que se operó el rostro y luce totalmente diferente. 

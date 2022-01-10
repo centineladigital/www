@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Vestido con pantalón gris, abrigo negro y cubrebocas, el Presidente bajó de su camioneta y a lo lejos saludó a sus seguidores con ambos brazos arriba. "
 image: "/uploads/2021/images-mexicanos-esperaron-mostrarle-apoyo-porras.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO llega a Washington para reunión con Biden y Trudeau; migrantes lo reciben"
 front: false
 section: "Nacional"
-news_id: 189947
+redirect_from: /news/189947
 ---
 
 El presidente Andrés Manuel López Obrador llegó a las 20:45 horas (local) de la residencia de México en Washington, pues mañana participará en la Cumbre de Líderes de América del Norte. 

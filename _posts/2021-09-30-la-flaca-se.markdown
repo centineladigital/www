@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante compartió un mensaje en el que expuso los problemas por los que se alejó de los reflectores; sin embargo, un grupo de internautas lo criticaron y atacaron a Belinda."
 image: "/uploads/2021/images-christian-nodal-hablo-noviazgo-belinda_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La flaca se llama Belinda -  Christian Nodal defiende a la cantante tras ataques en redes"
 front: false
 section: "Espectáculos"
-news_id: 188243
+redirect_from: /news/188243
 ---
 
 Christian Nodal regresó a la escena musical con "La sinvergüenza", su nueva colaboración con la Banda MS, y con ello el cantante retomó sus redes sociales, en donde ofreció una disculpa a sus fans "por cualquier actitud negativa" que pudo haber tenido en los últimos meses; sin embargo, su mensaje generó una respuesta negativa por parte de algunos de sus seguidores, quienes lanzaron comentarios en contra de Belinda.  

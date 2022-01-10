@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Iniciará el primero de agosto y concluirá antes de inicio de clases."
 image: "/uploads/2021/images-CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ03.mp3"
 alt: "Invertirán 12 mdp para sanitizar escuelas "
 front: false
 section: "Local"
-news_id: 184975
+redirect_from: /news/184975
 ---
 
 Una inversión total de 12 millones de pesos es lo que se invertirá en sanitizar las escuelas, señaló el Gobernador de Chihuahua Javier Corral Jurado. Al ser cuestionado respecto al regreso a clases, señalando que dentro de las acciones iniciarán desde el primero de agosto hasta el inicio del ciclo escolar.

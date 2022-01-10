@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La conductora de 'Sale el Sol' compartió la horrible experiencia que vivió durante su participación en el programa 'Hoy'. "
 image: "/uploads/2021/images-talina-fernandez-revela-por-que_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me hablaba horrible; Talina Fernández revela por qué salió del programa 'Hoy'"
 front: false
 section: "Espectáculos"
-news_id: 183985
+redirect_from: /news/183985
 ---
 
 Talina Fernández tiene una larga y exitosa trayectoria en la televisión mexicana, lo que le ha llevado a ser conocida como La Dama del buen decir. Actualmente, la actriz es conductora de Sale el Sol; sin embargo, mucho antes de llegar a este programa, formó parte de Hoy, matutino de Televisa que abandonó pese a su popularidad y en medio de rumores, que por fin aclaró.  Fue durante la sección de "Trapitos al Sol", de Ana María Alvarado, en Sale el Sol que la presentadora rompió el silencio y reveló por primera vez los motivos por los que salió de Hoy, programa de Televisa del que formó parte entre 1998 y 2000.

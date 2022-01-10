@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor generó polémica en redes sociales tras compartir una fotografía con Mel Gibson, con quien se reunió en Baja California por un nuevo proyecto. "
 image: "/uploads/2021/images-eduardo-verastegui-anuncia-proyecto-mel_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Arrancando con el pie derecho! -  Eduardo Verástegui anuncia proyecto con Mel Gibson"
 front: false
 section: "Espectáculos"
-news_id: 187124
+redirect_from: /news/187124
 ---
 
 Eduardo Verástegui, actor de origen tamaulipeco, destacó en los últimos meses por su papel en la política de Estados Unidos, en donde fue nombrado asesor de la Casa Blanca, bajo el gobierno del ahora ex presidente Donald Trump. Ahora, el famoso anunció que ya está preparando nuevo proyecto con Mel Gibson. 

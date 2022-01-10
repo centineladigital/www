@@ -10,11 +10,11 @@ author: nil
 description: "Falta de acciones para beneficio de comunidades rurales."
 image: "/uploads/2021/images-IMG_20210730_103800_1.jpg"
 video: "/uploads/2021/videos-MV03_ERACLIO_RODRIGUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Reprobada administración de Corral afirma diputado federal"
 front: false
 section: "Local"
-news_id: 186146
+redirect_from: /news/186146
 ---
 
 El diputado federal reprobó la administración del Gobernador Javier Corral, esto a unas semanas de que concluya la administración. Destacando que lamentablemente no se tuvo una real representación o bien gestión ante el gobierno federal.

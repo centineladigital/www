@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se entregan murales realizados por los artistas Pablo Martínez, Poly Morga y Valeria Durán, obras que retratan la historia hídrica de Chihuahua y pueden admirarse en las instalaciones de la JCAS ubicadas en la avenida Teófilo Borunda"
 image: "/uploads/2021/images-_DSC3903.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invirtió JCAS 5 mil 183 mdp en quinquenio de Javier Corral"
 front: false
 section: "Local"
-news_id: 187309
+redirect_from: /news/187309
 ---
 
 Durante los cinco años de la administración del gobernador Javier Corral, la Junta Central de Agua y Saneamiento (JCAS) hizo una histórica inversión de 8 mil 183 millones de pesos.

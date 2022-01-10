@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Por mudanza, anteriores instalaciones permanecerán cerradas del 1 al 3 y reanudará actividades el 6 de diciembre en nueva ubicación"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ofrecerá Dirección de Transporte servicio al público en nueva dirección en Terminal Norte"
 front: false
 section: "Local"
-news_id: 190338
+redirect_from: /news/190338
 ---
 
 El secretario de Desarrollo Urbano y Ecología, Gabriel Valdez, dio a conocer que la Dirección de Transporte de esta Secretaría, tendrá una nueva ubicación para ofrecer sus servicios al público en general.

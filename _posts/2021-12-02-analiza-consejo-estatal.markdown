@@ -7,12 +7,12 @@ tags:
 author: nil
 description: " Ratifica Consejo Estatal de Salud semáforo amarillo con vigencia hasta este 12 de diciembre"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Analiza Consejo Estatal de Salud regionalizar el estado para aplicar medidas preventivas por COVID-19"
 front: false
 section: "Local"
-news_id: 190411
+redirect_from: /news/190411
 ---
 
 El Consejo Estatal de Salud analizará a fondo la regionalización del estado de Chihuahua, con el fin de aplicar las medidas restrictivas de acuerdo al comportamiento de cada una de las zonas y con ello, evitar una afectación económica.

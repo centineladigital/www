@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se empleó el curso virtual “¡Cuéntalo! Tu voz importa”, de la Secretaría del Trabajo y Previsión Social  "
 image: "/uploads/2021/images-Cpd_vs_violencia_laboral_y_de_género_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacita Política Digital a personal en Perspectiva y Violencia de Género"
 front: false
 section: "Local"
-news_id: 185963
+redirect_from: /news/185963
 ---
 
 El equipo de colaboradoras y colaboradores de la Coordinación de Política Digital, participaron en la conferencia virtual “¡Cuéntalo! Tu voz importa”, impartida por la Lic. Allytet Ortiz Martínez, Procuradora Auxiliar de la Defensa del Trabajo Zona Norte de la Secretaría de Trabajo y Previsión Social.

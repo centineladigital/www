@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "A través de su cuenta de Instagram, YosStop se volvió a posicionar sobre la situación que actualmente enfrenta. Explicó cuál es su relación con el 'enojo' y la forma en la que antes convivía con él. "
 image: "/uploads/2021/images-yosstop-habla-sobre-el-enojo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Antes vivía encabronada -  YosStop envía mensaje sobre el enojo desde prisión; ahora vive así"
 front: false
 section: "Espectáculos"
-news_id: 187910
+redirect_from: /news/187910
 ---
 
 Yosseline Hoffman, mejor conocida como YosStop, volvió a lanzar un contundente mensaje desde prisión, esto luego de que se le acusara del delito de pornografía infantil en el caso de Ainara Suarez. La youtuber que se encuentra en prisión preventiva en Santa Martha Acatitla reflexionó sobre el enojo. 

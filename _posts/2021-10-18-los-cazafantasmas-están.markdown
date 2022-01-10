@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Sony Pictures dio a conocer el nuevo tráiler de 'Ghostbusters: El legado', una secuela de la franquicia original de 1984. "
 image: "/uploads/2021/images-ghostbusters-revela-trailer-poster-sony.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Los cazafantasmas están de regreso! 'Ghostbusters -  El legado' estrena tráiler"
 front: false
 section: "Espectáculos"
-news_id: 188881
+redirect_from: /news/188881
 ---
 
 Una de las comedias sobrenaturales más queridas está de regreso: Ghostbusters: El legado ('Ghostbusters: Afterlife'). La mañana de este lunes, Sony Pictures de Latinoamérica dio a conocer el tráiler oficial internacional de la película, la cual será una secuela de la saga original de Los Cazafantasmas, película de 1984. 

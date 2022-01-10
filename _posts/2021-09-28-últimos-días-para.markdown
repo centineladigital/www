@@ -8,11 +8,11 @@ author: nil
 description: "Invita a la población a aprovechar este beneficio"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_09.31.32.jpeg"
 video: "/uploads/2021/videos-Manuel_Enrique_Tabuenca_Córdoba__Registro_Público_de_la_Propiedad..mp4"
-audio: "nil"
+audio: nil
 alt: "Últimos días para tramitar el Testamento Ológrafo con 50% de descuento"
 front: false
 section: "Local"
-news_id: 188123
+redirect_from: /news/188123
 ---
 
 El Gobierno del Estado informa que este jueves 30 de septiembre concluye la campaña “Septiembre, mes del testamento” mediante la cual el Registro Público de la Propiedad y del Notariado ofrece un descuento del 50 por ciento en el costo del Testamento Ológrafo, por lo que invita a la población a aprovechar este beneficio.

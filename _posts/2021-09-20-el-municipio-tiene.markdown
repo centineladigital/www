@@ -14,11 +14,11 @@ author: nil
 description: "Esto es obra de Maru Campos: Bonilla "
 image: "/uploads/2021/images-Captura_de_pantalla_2021-01-11_a_la(s)_12.53.18.png"
 video: "/uploads/2021/videos-BL02_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "El municipio tiene un 99.7% de transparencia"
 front: false
 section: "Local"
-news_id: 187893
+redirect_from: /news/187893
 ---
 
 El alcalde Marco Bonilla, declaró que el municipio de Chihuahua alcanzó la calificación de 99.7% de transparencia en comparación con el año pasado, mediante la herramienta CIMTRA  el cual tenía una calificación de 98.1 %.

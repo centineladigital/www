@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El dinero que ingresa por el cobro de cuotas de recuperación, se invierte en la compra de alimentos para familias de bajos recursos de la Sierra Tarahumara"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-01_at_11.31.09.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Invitación._Denise_Carrasco_jefa_del_departamento_de_guías._Museo_Semilla.mp4"
 alt: "Invita DIF Estatal a los recorridos interactivos del Museo Semilla"
 front: false
 section: "Local"
-news_id: 188274
+redirect_from: /news/188274
 ---
 
 El DIF Estatal Chihuahua invita a la población a realizar los divertidos recorridos que ofrece el Museo Semilla en sus salas de exhibición, en los cuales, los asistentes aprenden y refuerzan sus conocimientos sobre física, matemáticas, biología, astronomía, entre otros temas.

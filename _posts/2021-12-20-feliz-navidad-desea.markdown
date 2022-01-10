@@ -18,11 +18,11 @@ author: nil
 description: "Manifestó sus mejores deseos para los presentes y la comunidad en general"
 image: "/uploads/2021/images-Foto-Congreso-Chihuahua-1000x600.jpg"
 video: "/uploads/2021/videos-BL01_GEO_BUJANDA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Feliz navidad desea mesa directiva del congreso "
 front: false
 section: "Local"
-news_id: 191045
+redirect_from: /news/191045
 ---
 
 La mesa directiva del Congreso del Estado presidida por la diputada presidenta Georgina Bujanda Ríos en su penúltima sesión del año 2021 fue la encargada de dar buenos deseos para las y los ciudadanos chihuahuenses, mpuesto que se ha desahogado todos los puntos de respecto a la diputación permanente.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se propone el fortalecimiento de 10 áreas sustantivas del Gobierno del Estado"
 image: "/uploads/2021/images-WhatsApp_Image_2021-08-14_at_08.17.57.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presenta Maru Campos proyecto para un gobierno más eficiente y cercano a los chihuahuenses"
 front: false
 section: "Local"
-news_id: 186687
+redirect_from: /news/186687
 ---
 
 Con el propósito de hacer un gobierno más eficiente en donde el recurso sea destinado a más programas y apoyos y menos al aparato burocrático, este viernes la Gobernadora Electa, Maru Campos Galván, a través del coordinador jurídico del equipo de transición Roberto Fierro presentó al Congreso del Estado el Proyecto de Reingeniería de la Administración Pública del Gobierno del Estado de Chihuahua, mediante la reforma a 22 leyes y/o reglamentos para el fortalecimiento de la política y la administración pública.

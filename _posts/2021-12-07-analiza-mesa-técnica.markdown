@@ -9,12 +9,12 @@ tags:
 author: nil
 description: " En la reunión donde participó el IMPLAN, trataron temas viales y revisaron planes para hacer de Chihuahua la ciudad más competitiva"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Analiza Mesa Técnica de Vialidad crecimiento de mancha urbana y aumento de uso del automóvil"
 front: false
 section: "Local"
-news_id: 190579
+redirect_from: /news/190579
 ---
 
 La Mesa Técnica de Vialidad que reúne periódicamente, con el fin de tratar los temas viales y generar acciones en concordancia a los planes y objetivos de ciudad, informó el parque vehicular en la ciudad de Chihuahua ha experimentado un acelerado incremento en los últimos años, acumulando un 1000 por ciento de aumento en el padrón, de 1980 a la fecha.

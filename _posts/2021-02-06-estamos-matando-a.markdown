@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El técnico del Barcelona pide que esta situación pare porque no se puede seguir así. “Llevamos muchos partidos”, dice"
 image: "/uploads/2021/images-2524862.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "‘Estamos matando a jugadores’, considera Koeman"
 front: false
 section: "Deportes"
-news_id: 182757
+redirect_from: /news/182757
 ---
 
 El entrenador del Barcelona, Ronald Koeman, aseguró que la carga de partidos de esta temporada está "matando" a los futbolistas, y que esto tiene que "parar" para evitar que estos se lesionen de gravedad, e insistió en que cree que los árbitros son "honrados" y que en ningún caso pitan "en contra" de su equipo, además de advertir del peligro del partido de este domingo ante el Real Betis en LaLiga Santander.

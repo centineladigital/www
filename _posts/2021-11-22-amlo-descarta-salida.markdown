@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente destacó al secretario de Salud como un hombre sabio, recto, honesto, sensible, humano y no cree que haya habido un secretario de Salud cono él. "
 image: "/uploads/2021/images-amlo-descarta-salida-jorge-alcocer_0_0_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO descarta salida de Jorge Alcocer de la Secretaría de Salud -  fue un rumor"
 front: false
 section: "Nacional"
-news_id: 190062
+redirect_from: /news/190062
 ---
 
 El presidente Andrés Manuel López Obrador descartó que el secretario de Salud, Jorge Alcocer, vaya a salir de la dependencia, pues asegura que las noticias sobre su supuesta renuncia fueron un rumor, ya que "nosotros estamos muy contentos, muy satisfechos con el desempeño del doctor".

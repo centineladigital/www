@@ -14,11 +14,11 @@ author: nil
 description: "Se les entregó reconocimiento "
 image: "/uploads/2021/images-juan-abdo.jpg"
 video: "/uploads/2021/videos-BL04_JUAN_ABDO.mp4"
-audio: "nil"
+audio: nil
 alt: "Encuentro con deportistas olímpicos "
 front: false
 section: "Local"
-news_id: 187479
+redirect_from: /news/187479
 ---
 
 Se llevó a cabo el encuentro con deportistas olímpicos en donde se entregaron 40 mil pesos para apoyar a los deportistas en sus respectivas carreras, el regidor Juan Abdo expresó su admiración y reconocimiento hacia los deportistas olímpicos en donde reconoció el esfuerzo de los deportistas.

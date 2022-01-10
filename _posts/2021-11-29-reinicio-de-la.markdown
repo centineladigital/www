@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El director general de la OMS afirmó que Sudáfrica y Botsuana, los primeros países que reportaron casos de la nueva variante, debería ser agradecidos por ello, no penalizados. "
 image: "/uploads/2021/images-oms-elevado-riesgo-global-variante.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Reinicio de la pandemia? OMS alerta que riesgo por variante Omicron de covid-19 es muy alto” para el mundo"
 front: false
 section: "Internacional"
-news_id: 190297
+redirect_from: /news/190297
 ---
 
 El riesgo que plantea globalmente la nueva variante Omicron del coronavirus es "muy alto", advirtió hoy la Organización Mundial de la Salud (OMS) en un informe técnico sobre esta nueva cepa del SARS-CoV-2.

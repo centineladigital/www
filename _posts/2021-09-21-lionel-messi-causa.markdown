@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Debido a un golpe que recibió en su rodilla izquierda, el argentino se sometió este martes a una resonancia magnética "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lionel Messi causa baja por lesión, confirma el PSG"
 front: false
 section: "Deportes"
-news_id: 187900
+redirect_from: /news/187900
 ---
 
 Lionel Messi, con molestias en su rodilla izquierda, será baja el miércoles en el partido de su equipo, el París Saint Germain, en Metz, en partido de la séptima jornada de la Ligue 1, entre el líder y el colista, anunció este martes el club de la capital.

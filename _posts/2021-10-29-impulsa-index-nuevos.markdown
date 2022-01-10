@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con el objetivo de exponenciar las habilidades de los mismos y fortalecer lazos de vinculación educativa entre empresas asociadas y la universidad."
 image: "/uploads/2021/images-UTCH_(1).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Impulsa Index nuevos talentos de la UTCH"
 front: false
 section: "Local"
-news_id: 189368
+redirect_from: /news/189368
 ---
 
 Un grupo de 16 estudiantes de la Universidad Tecnológica de Chihuahua (UTCH) integran cuatro equipos que participarán en el evento de “Index Kaizen 2021”, cuyo objetivo es impulsar el desarrollo de nuevos talentos en la industria y fortalecer la vinculación entre institución educativa y empresas.

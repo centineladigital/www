@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La concentración comenzó con la entonación de los himnos de México y Estados Unidos previo a la IX Cumbre de Líderes de América del Norte, donde participará el presidente López Obrador"
 image: "/uploads/2021/images-010amlo-cumbre-eu-canada-migrantes2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Migrantes expresan su apoyo a AMLO frente a la Casa Blanca; piden reforma migratoria"
 front: false
 section: "Internacional"
-news_id: 189952
+redirect_from: /news/189952
 ---
 
 Migrantes y residentes mexicanos de diversos Estados de la Unión Americana se concentraron en el Parque Lafayette, junto a la Casa Blanca, para exigir una reforma migratoria y expresar su apoyo a la visita del Presidente de México, Andrés Manuel López Obrador.

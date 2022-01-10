@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Inflación y cuellos de botella en suministro, otros factores; Inegi revisa a la baja PIB de tercer trimestre, que cayó 0.4% "
 image: "/uploads/2021/images-alejandro-diaz-leon-concluye-mandato_0_162_558_346.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Banxico -  ley de outsourcing puso freno al crecimiento"
 front: false
 section: "Nacional"
-news_id: 190226
+redirect_from: /news/190226
 ---
 
 La Junta de Gobierno del Banco de México (Banxico) aseguró que los factores que contribuyeron a la caída de la actividad económica al tercer trimestre fueron la inflación y los cuellos de botella en cadenas de suministro globales, así como el impacto de la reforma en subcontratación (outsourcing). 

@@ -10,11 +10,11 @@ author: nil
 description: "Esto ante el incremento de impuestos solicitados por parte de los empresarios."
 image: "/uploads/2021/images-maru.jpg"
 video: "/uploads/2021/videos-MM01_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Proponen empresarios recuperación financiera -  Gobernadora"
 front: false
 section: "Local"
-news_id: 187727
+redirect_from: /news/187727
 ---
 
 “Es una propuesta de parte de ellos” fueron  las palabras de la Gobernadora de Chihuahua, María Eugenia Campos Galván, al señalar que se tiene una propuesta para recuperación financiera dentro del Estado, esto luego de recordar que se recibió una deuda de proveedores de alrededor de 84 millones de pesos.

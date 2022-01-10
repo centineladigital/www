@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Karla Panini es considerada una de las mujeres más despreciadas en México y ante esto, la ex Lavandera se defendió de los ataque en su contra."
 image: "/uploads/2021/images-karla-panini-defendio-transmision-vivo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Si todo México me odia, ni modo -  Karla Panini responde a las personas que la atacan"
 front: false
 section: "Espectáculos"
-news_id: 189716
+redirect_from: /news/189716
 ---
 
 Después de que se diera a conocer que Karla Panini se metió en la relación entre Américo Garza y Karla Luna, con quien realizaba las Lavanderas y era una de sus mejores amigas, se ganó los malos comentarios por parte de varias personas quienes aún la atacan por redes sociales aún después de que esto sucedió hace ya varios años. Durante este tiempo, Karla Panini ha usado sus redes sociales para compartir su vida al lado de Américo Garza y sus hijos, sin embargo, esto ha hecho que todavía más gente la ataque, es por eso que ahora la ex Lavandera decidió defenderse de los haters. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La final de mañana, entre el Monterrey y el América, no sólo ofrece un boleto al Mundial de Clubes, sino tranquilidad al proyecto del técnico que se imponga"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La Concachampions, un título que dará oxígeno"
 front: false
 section: "Deportes"
-news_id: 189238
+redirect_from: /news/189238
 ---
 
 El juego de mañana entre Monterrey y América, por la Liga de Campeones de la Concacaf, es clave para el futuro inmediato de ambos técnicos: Javier Aguirre, por los Rayados, y Santiago Solari, con las Águilas.

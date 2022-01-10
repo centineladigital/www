@@ -16,11 +16,11 @@ author: nil
 description: "“La visita del presidente fue muy a su estilo, acudir sin dar una solución a los problemas”"
 image: "/uploads/2021/images-maru-rojas-amlo-640x360.jpg"
 video: "/uploads/2021/videos-BL04_MARIO_VAZQUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "La visita de AMLO no resolvió problemas del Estado -  Vázquez "
 front: false
 section: "Local"
-news_id: 190808
+redirect_from: /news/190808
 ---
 
 Mario Vázquez, coordinador de los legisladores del PAN, aseguró que la visita del presidente de la Republica Andrés Manuel López Obrador a Chihuahua fue muy a su estilo, pues el legislador señala que solo acude pero sin dar una solución a los problemas del Estado.

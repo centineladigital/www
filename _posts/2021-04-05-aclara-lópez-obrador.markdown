@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Asegura el presidente que tras el ‘error’, personal del campamento de vacunación aplicó la dosis contra Covid-19 al adulto mayor; sugiere investigar el hecho porque podría ser montaje"
 image: "/uploads/2021/images-2557228.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aclara López Obrador caso de ‘vacuna vacía’ -  ‘sí se aplicó’, afirma"
 front: false
 section: "Nacional"
-news_id: 183671
+redirect_from: /news/183671
 ---
 
 Luego de que se difundiera el caso de la vacunación con una jeringa vacía a un adulto mayor de la Ciudad de México, el presidente Andrés Manuel López Obrador lamentó la difusión del caso sin aclarar que tras el error al hombre se le suministró la dosis contra Covid-19.

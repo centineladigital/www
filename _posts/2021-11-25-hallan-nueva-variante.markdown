@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las autoridades manifestaron preocupación tras detectar este hecho, el cual sigue siendo estudiado, encontrándose por el momento en tres países. "
 image: "/uploads/2021/images-sudafrica-es-el-pais-con.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hallan nueva variante de covid-19 con múltiples mutaciones en Sudáfrica"
 front: false
 section: "Internacional"
-news_id: 190195
+redirect_from: /news/190195
 ---
 
 Científicos y autoridades sanitarias de Sudáfrica confirmaron hoy la detección de una nueva variante del coronavirus, identificada como B.1.1.529, que posee múltiples mutaciones y que ha despertado "preocupación" entre los especialistas, aunque su impacto aún tiene que ser estudiado. 

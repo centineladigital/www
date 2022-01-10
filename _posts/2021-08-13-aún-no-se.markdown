@@ -10,11 +10,11 @@ author: nil
 description: "Determinará federación vacunas de menores de edad."
 image: "/uploads/2021/images-ARTURO.jpg"
 video: "/uploads/2021/videos-MV06_ARTURO_VALENZUELA.mp4"
-audio: "nil"
+audio: nil
 alt: "Aún no se contempla vacunación a menores"
 front: false
 section: "Local"
-news_id: 186673
+redirect_from: /news/186673
 ---
 
 En el estado aún no se contempla la vacunación de menores contra coronavirus, señaló el Director Médico Zona Norte Arturo Valenzuela Zorrilla. Esto tras ser cuestionado sobre el incremento de casos de menores que se han contagiado con la variante Delta y el retorno a las aulas.

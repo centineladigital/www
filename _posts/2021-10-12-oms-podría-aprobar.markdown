@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El fármaco ruso contra el coronavirus aún está a espera de que el organismo internacional otorgue luz verde a su uso, pese a que es administrado por más de 70 países. "
 image: "/uploads/2021/images-cancilleria-boliviana-demoras-rusia-entrega.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "OMS podría aprobar vacuna Sputnik V para fin de año si se firman documentos legales -  investigadora"
 front: false
 section: "Internacional"
-news_id: 188633
+redirect_from: /news/188633
 ---
 
 La Organización Mundial de la Salud (OMS) podría aprobar la vacuna contra el coronavirus Sputnik V, creada en Rusia, para fin de año si es que la empresa desarrolladora del fármaco contempla los documentos legales necesarios para completar el trámite en los próximos días, dijo la investigadora principal del organismo, Sumiya Swaminathan, en una entrevista con la agencia RIA Novosti.

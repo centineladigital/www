@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Joe Biden mostró una postura firme frente a lo que considera 'agresión' de Moscú sobre Ucrania y el 'envenenamiento' del líder opositor Alexéi Navalni."
 image: "/uploads/2021/images-2518755.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así fue la primera llamada entre Biden y Putin; EU marca postura firme"
 front: false
 section: "Internacional"
-news_id: 182465
+redirect_from: /news/182465
 ---
 
 Joe Biden sostuvo su primera conversación con su homólogo ruso, Vladimir Putin, en la que expresó su apoyo a Ucrania frente a la "agresión" de Moscú y su preocupación por el "envenenamiento" del opositor ruso Alexéi Navalni, informó la Casa Blanca.

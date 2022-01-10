@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los manifestantes dijeron estar respondiendo a la convocatoria de Trump a concentrarse en la capital el miércoles, cuando el Congreso de Estados Unidos debe certificar la victoria electoral del presidente electo, Joe Biden"
 image: "/uploads/2021/images-2506745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Partidarios de Trump se reúnen antes de certificación del triunfo de Biden"
 front: false
 section: "Internacional"
-news_id: 181895
+redirect_from: /news/181895
 ---
 
 Cientos de partidarios del presidente estadounidense, Donald Trump, comenzaron a reunirse en Washington DC el martes, un día antes de una protesta convocada por el mandatario, que se niega a admitir su derrota en las elecciones de noviembre.

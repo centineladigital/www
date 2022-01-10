@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Piden no seguir a influencers y dietas de moda, pueden perjudicar la salud."
 image: "/uploads/2021/images-UACH1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_MARIANA_CARDONA.mp3"
 alt: "Pide UACH no hacer dietas extremas"
 front: false
 section: "Local"
-news_id: 182502
+redirect_from: /news/182502
 ---
 
 Debido a que muchas de las enfermedades se relaciones con dietas extremas, es necesario no hacer dietas extremas. Según lo dio a conocer Mariana Cardona Mejía, catedrática de la Facultad de Enfermería y Nutriología UACH. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En los últimos 4 años la aeronave ha salvado vidas y realizado una docena de traslados aeromédicos"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Halcón I -  Seguridad y rescate aéreo al servicio de los chihuahuenses"
 front: false
 section: "Local"
-news_id: 189649
+redirect_from: /news/189649
 ---
 
 Durante los últimos cuatro años y con el objetivo de brindar seguridad y servicio a la comunidad chihuahuense, el helicóptero Halcón I de la Dirección de Seguridad Pública Municipal, ha salvado vidas, con una docena de rescates aeromédicos y  múltiples operativos y patrullajes policiales que buscan prevenir y combatir la delincuencia en la ciudad.

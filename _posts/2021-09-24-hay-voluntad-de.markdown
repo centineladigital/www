@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Analiza Gobierno del Estado situación de Ciudad Juárez en Mesa Estatal de Seguridad "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-24_at_13.26.02.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Hay voluntad de atender la necesidad de seguridad de los juarenses”; encabeza Gobernadora arranque de operativo de proximidad en Juárez"
 front: false
 section: "Local"
-news_id: 188032
+redirect_from: /news/188032
 ---
 
 En el marco de la Mesa Estatal de Seguridad en Ciudad Juárez, la gobernadora del Estado de Chihuahua, Maru Campos Galván, encabezó el arranque del operativo de proximidad y vinculación ciudadana de la Secretaría de Seguridad Pública.

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Gracias a ellos se opera con éxito la Plataforma Escudo Chihuahua"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ciberoperadores de la DSPM -  expertos en tecnología para combatir la delincuencia"
 front: false
 section: "Local"
-news_id: 190550
+redirect_from: /news/190550
 ---
 
 Los ciberoperadores de la Dirección de Seguridad Pública Municipal, son especialistas en el manejo de monitores inteligentes que conforman la Plataforma Escudo Chihuahua (PECUU) y han sido parte fundamental en la operatividad de la tecnología de esta plataforma, cuyas acciones permiten brindar seguimiento oportuno a hechos delincuenciales ocurridos al instante y en el pasado.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El frente climático, que ayer tocó tierra en Estados Unidos como huracán categoría 4, es uno de los más fuertes registrados en ese país "
 image: "/uploads/2021/images-luisiana-mississippi-afectados-paso-frente_0_23_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Ida' pasa a tormenta tropical e inunda Luisiana y Misisipi"
 front: false
 section: "Internacional"
-news_id: 187237
+redirect_from: /news/187237
 ---
 
 Ida se debilitó hoy y pasó a considerarse como tormenta tropical mientras sus vientos más fuertes pasaban sobre Misisipi, 16 horas después de tocar tierra como huracán categoría 4 en Luisiana teniendo una consideración como uno de estos frentes climáticos más fuertes jamás registrados en el territorio continental de Estados Unidos. 

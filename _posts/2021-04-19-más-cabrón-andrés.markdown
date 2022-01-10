@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista con Yordi Rosado, Andrés García rompió el silencio sobre Luis Miguel. Contó por qué hubo distanciamiento, habló sobre la madre del cantante y aclaró si era muy malo Luisito Rey. "
 image: "/uploads/2021/images-andres-garcia-luisito-rey-serie.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Más cabrón -  Andrés García revela que Luisito Rey era peor que en la serie de Luis Miguel"
 front: false
 section: "Espectáculos"
-news_id: 183956
+redirect_from: /news/183956
 ---
 
 Andrés García es uno de los personajes claves en la vida de Luis Miguel, El Sol. En medio del estreno de la segunda temporada de Luis Miguel, la serie de Netflix, Andrés García estuvo como invitado en el programa de Yordi Rosado, en donde habló sobre el cantante de Hasta que me olvides. ¿Qué fue lo que dijo? ¿Habló sobre Marcela Basteri? El famoso actor rompió el silencio sobre su relación con Luis Miguel y detalló cómo era en realidad uno de los personajes más odiados de la serie: Luisisto Rey. En entrevista con Yordi Rosado, Andrés García reveló que Luis Miguel lo veía como un padre. "Una vez me preguntó, me dijo muy en serio, porque él fue un niño privilegiado, desde niño tenía una inteligencia fuera de lo común y la sigue teniendo. Me dijo muy serio, a solas, 'oye, apá, ¿no será que yo soy hijo tuyo y no de mi papá? Yo no me parezco a mi papá, me parezco más a ti'", contó el actor.

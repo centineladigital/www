@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Darán 100 becas a empresarios."
 image: "/uploads/2021/images-JESUS.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV04.mp3"
 alt: "Reabre sus puertas incubadora de negocios municipal"
 front: false
 section: "Local"
-news_id: 185518
+redirect_from: /news/185518
 ---
 
 Con el fin de apoyar a emprendedores se dio a conocer la reapertura de la incubadora de negocios dentro del municipio o INCUBECH, según indicó Jesús García López, director de Desarrollo Económico y Turístico Municipal.

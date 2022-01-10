@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La comitiva chihuahuense forma parte de los eventos y actividades del Tianguis Turístico 2021, a fin de consolidar sinergias que favorezcan los intercambios turísticos, y promocionar al estado"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Participa Chihuahua en Sesión Ordinaria de la Asociación de Secretarios de Turismo de México"
 front: false
 section: "Local"
-news_id: 189872
+redirect_from: /news/189872
 ---
 
 Gobierno del Estado estuvo presente durante la XLIV Sesión Ordinaria de la Asociación de Secretarios de Turismo de México (ASETUR), en el marco del Tianguis Turístico 2021 que se desarrolla en Mérida, Yucatán del 16 al 19 de noviembre, con el propósito de incentivar el comercio y el turismo en el país.

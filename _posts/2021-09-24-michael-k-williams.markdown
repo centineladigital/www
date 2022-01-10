@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Michael K. Williams fue encontrado muerto en su departamento en Nueva York y ahora se ha dado a conocer cuál fue la causa de su muerte. "
 image: "/uploads/2021/images-jefe-examenes-medicos-york-revelo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Michael K. Williams, actor de 'The Wire', murió por sobredosis de heroína y cocaína"
 front: false
 section: "Espectáculos"
-news_id: 188046
+redirect_from: /news/188046
 ---
 
 Fue el pasado seis de septiembre que se anunció la muerte del actor de la serie The Wire, Michael K. Williams, quien fue encontrado muerto en su departamento ubicado en Brooklyn, Nueva York. Tras la información que fue dada por su representante, Mariana Shafran, ahora se reveló la causa de su fallecimiento: una sobredosis. 

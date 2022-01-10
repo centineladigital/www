@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz Evan Rachel Wood dice que fue sometida a abusos horribles durante años"
 image: "/uploads/2021/images-2521844.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Varias mujeres acusan a Marilyn Manson de violación y acoso sexual"
 front: false
 section: "Espectáculos"
-news_id: 182598
+redirect_from: /news/182598
 ---
 
 El cantante estadounidense Marilyn Manson fue acusado el lunes de acoso y violación por varias mujeres, incluida la actriz estadounidense Evan Rachel Wood, quien dice que fue sometida a "abusos horribles durante años".

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "De acuerdo con el gobierno talibán, Estados Unidos liberaría ayuda humanitaria después de acordar que dicha asistencia no estaría vinculada a reconocerlos. "
 image: "/uploads/2021/images-situacion-afganistan-critica-ascenso-talibanes_0_0_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU dará ayuda humanitaria a Afganistán pero no planea reconocer a los talibanes"
 front: false
 section: "Internacional"
-news_id: 188568
+redirect_from: /news/188568
 ---
 
 Estados Unidos ha accedido a brindar ayuda humanitaria a Afganistán, que históricamente ha estado sumido en la pobreza y al borde de un desastre económico, aunque se rehúsa a darle reconocimiento político a los nuevos gobernantes talibanes de la nación, informaron éstos el sábado. 

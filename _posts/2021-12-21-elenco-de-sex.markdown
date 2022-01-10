@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te contamos todo lo que sabemos sobre el caso de Chris Noth. ¿Cometió violencia contra las mujeres? ¿Qué trabajos ha perdido por las acusaciones? "
 image: "/uploads/2021/images-chris-noth-sale-the-equalizer.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Elenco de 'Sex And The City' muestra su apoyo a las mujeres que señalan a Chris Noth por abuso sexual"
 front: false
 section: "Espectáculos"
-news_id: 191073
+redirect_from: /news/191073
 ---
 
 Chris Noth ya no será parte de la serie “The Equalizer” de CBS, a raíz de las acusaciones de abuso sexual contra el actor. Además de que el equipo de 'Sex and the City' refrendó su apoyo a las víctimas; esto a pesar de que el actor negó las acusaciones. Te contamos todo lo que sabemos sobre el caso de Chris Noth. ¿Cometió violencia contra las mujeres? ¿Qué trabajos ha perdido por las acusaciones? 

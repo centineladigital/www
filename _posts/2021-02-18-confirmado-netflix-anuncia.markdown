@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pese a las críticas de los fans, la plataforma de 'streaming' dio a conocer que la próxima temporada de la serie contará con ocho capítulos. "
 image: "/uploads/2021/images-netflix-anuncia-temporada-fate-the.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Confirmado! Netflix anuncia segunda temporada de 'Fate -  The Winx Saga'"
 front: false
 section: "Espectáculos"
-news_id: 183017
+redirect_from: /news/183017
 ---
 
 Netflix anunció este jueves que Fate: The Winx Saga tendrá una segunda temporada tras el éxito de la primera. La plataforma de streaming informó que las grabaciones de los próximos capítulos iniciarán durante los últimos meses del 2021, pese a la polémica generada por los seguidores de la serie de animación original en la que está inspirada, la italiana Winx Club. A través de un comunicado, Netflix explicó que la producción de la nueva temporada de la serie, que tendrá ocho capítulos, comenzará a finales de este año en Irlanda y que volverá a contar con Brian Young (The Vampire Diaries) como productor ejecutivo.

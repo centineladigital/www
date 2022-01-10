@@ -10,11 +10,11 @@ author: nil
 description: "Toma protesta este lunes"
 image: "/uploads/2021/images-ALAN.jpg"
 video: "/uploads/2021/videos-ML04_ALAN_FALOMIR.mp4"
-audio: "nil"
+audio: nil
 alt: "Nombran a Alan Falomir titular de la JMAS"
 front: false
 section: "Local"
-news_id: 189166
+redirect_from: /news/189166
 ---
 
 Con la toma de protesta de Alan Falomir al frente de la Junta Municipal de Agua y Saneamiento se oficializó el nombramiento de éste al frente de la dependencia estatal. Tras ser elegido por mayoría de votos por el consejo de administración de la Junta Central de Agua y Saneamiento.

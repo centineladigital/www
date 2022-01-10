@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El titular de Protección Civil Luis Corral Torresdey, indicó que las brigadas difunden la cultura de prevención para actuar ante alguna emergencia"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacitan a servidores públicos en materia de Protección Civil"
 front: false
 section: "Local"
-news_id: 190367
+redirect_from: /news/190367
 ---
 
 Con un simulacro de evacuación en Palacio de Gobierno, la Coordinación Estatal de Protección Civil, inició la capacitación a funcionarios que participan como brigadistas de las dependencias estatales, quienes fungirán como primer respondientes ante algún incidente dentro del recinto estatal.

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Será la primera reunión de “Juntos Trabajamos por Chihuahua”"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Unen esfuerzos Gobierno Municipal y Gobierno del Estado para atender colonia Los Olivos"
 front: false
 section: "Local"
-news_id: 188640
+redirect_from: /news/188640
 ---
 
 Con la finalidad de unir esfuerzos para mejorar el entorno de las y los chihuahuenses, el Gobierno Municipal y el Gobierno del Estado realizarán el primer evento del programa “Juntos Trabajamos por Chihuahua”, en el que atenderán a los vecinos de la colonia Los Olivos.

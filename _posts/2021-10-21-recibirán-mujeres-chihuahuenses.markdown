@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las interesadas tendrán descuentos a través del Instituto Municipal de las Mujeres"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recibirán mujeres chihuahuenses tarifa preferencial para capacitación en oficios"
 front: false
 section: "Local"
-news_id: 189053
+redirect_from: /news/189053
 ---
 
 El Gobierno Municipal, a través el Instituto Municipal de las Mujeres (IMM), firmó un acuerdo de colaboración con distintos planteles del Centro de Capacitación para el Trabajo Industrial (CECATI), para establecer una tarifa preferencial para las mujeres que soliciten alguna capacitación a través del instituto.

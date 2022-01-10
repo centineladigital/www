@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La gobernadora de Orebro, María Larsson, indicó que el accidente ocurrió anoche en las afueras del poblado y detalló que fallecieron el piloto y los ocho pasajeros.  "
 image: "/uploads/2021/images-suecia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avioneta se estrella en campo en Suecia; hay 9 muertos"
 front: false
 section: "Internacional"
-news_id: 185494
+redirect_from: /news/185494
 ---
 
 Una avioneta, que transportaba a miembros de un club de paracaidistas deportivos, se estrelló en las afueras de un poblado de Suecia, lo que dejó una saldo de nueve personas fallecidas, informaron las autoridades locales. 

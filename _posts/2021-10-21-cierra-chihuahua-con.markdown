@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Delegación Chihuahua de Paranatación concluye con un total de cinco medallas, cuatro de plata y una de bronce"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cierra Chihuahua con un total de 5 medallas en Paranatación de los Juegos Paranacionales 2021"
 front: false
 section: "Local"
-news_id: 189040
+redirect_from: /news/189040
 ---
 
 Ernesto Zavala se colgó la medalla de plata en los 100 metros estilo Libre dentro de la clasificación S21 categoría Sub-15, con esta presea, Chihuahua cierra su participación en la disciplina de paranatación de los Juegos Paranacionales que se desarrollaron en la Alberca Olímpica de Cancún, Quintana Roo.

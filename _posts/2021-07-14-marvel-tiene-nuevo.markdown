@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "'Ant-Man and the Wasp: Quantumania' ya tiene relación con 'Loki', y comenzaría lo realmente confuso para el Universo Marvel; la fase 4 rondaría con relación a Kang el Conquistador. "
 image: "/uploads/2021/images-quien-es-kang-el-conquistador.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Marvel tiene nuevo villano, Kang el Conquistador; así se reveló en final de 'Loki'"
 front: false
 section: "Espectáculos"
-news_id: 185660
+redirect_from: /news/185660
 ---
 
 ¡Loki llegó a su final de temporada! La serie de Universo Cinematográfico Marvel, que se transmitió cada miércoles desde el miércoles 3 de junio y hasta este 14 de julio, con un total de 6 episodios que dieron lugar especial al Dios del engaño; pero una de las mayores revelaciones es la aparición de Korg el Conquistador, una pieza que se podría volver clave en esta fase 4, por lo que representa en los cómics. 

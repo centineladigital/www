@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te dejamos todos los detalles de los partidos de la jornada 15 en la Liga MX para que no te pierdas ningún duelo "
 image: "/uploads/2021/images-donde-ver-jornada-liga-mx-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Partidos, horarios y dónde ver EN VIVO la jornada 15 del Apertura 2021 de la Liga MX"
 front: false
 section: "Deportes"
-news_id: 189064
+redirect_from: /news/189064
 ---
 
 Tan pronto terminó la jornada 14 del torneo Apertura 2021 de la Liga MX, los estadios ya se preparan para recibir la fecha 15 del campeonato, donde se definirá una parte de los equipos que tendrán un lugar en el repechaje y aquellos que jugarán los cuartos de final de forma directa. 

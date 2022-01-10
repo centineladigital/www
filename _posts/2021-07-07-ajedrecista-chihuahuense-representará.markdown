@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La chihuahuense de 10 años de edad, Isabella Flores López, fue seleccionada para representar a México en el próximo Campeonato Norteamericano de Ajedrez en la categoría sub 10 femenil."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ajedrecista chihuahuense representará al país en eventos internacionales."
 front: false
 section: "Local"
-news_id: 185439
+redirect_from: /news/185439
 ---
 
 El torneo de talentos se realizó del 18 al 20 de junio, en el Centro de Alto Rendimiento en la Ciudad de México, donde fueron convocados los deportistas más talentosos del país, quedando Isabella Flores como campeona absoluta en su categoría.

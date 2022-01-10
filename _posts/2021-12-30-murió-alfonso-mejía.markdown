@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Reportes dieron a conocer la muerte de Alfonso Mejía, mejor conocido por ser Pedro en la película 'Los olvidados'. "
 image: "/uploads/2021/images-alfonso-mejia-como-pedro-en.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Alfonso Mejía, actor que interpretó a Pedro en 'Los olvidados', a los 87 años"
 front: false
 section: "Espectáculos"
-news_id: 191347
+redirect_from: /news/191347
 ---
 
 La noche del miércoles 29 de diciembre se reportó la muerte de Alfonso Mejía, mejor conocido por interpretar el protagónico papel de Pedro en una de las películas más emblemáticas de la época de oro del cine mexicano: Los olvidados (1950) del recordado director Luis Buñuel. 

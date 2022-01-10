@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Lo recabado se destinará a las causas de Grupo Reto para seguir en la lucha contra el cáncer de mama"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa Alcalde en cena benéfica Sanarte Amarte del Centro Gastronómico Casa Antigua"
 front: false
 section: "Local"
-news_id: 188809
+redirect_from: /news/188809
 ---
 
 El presidente municipal Marco Bonilla Mendoza, en compañía de su esposa Karina Olivas, asistió a una cena benéfica para recaudar fondos que se destinarán a Grupo Reto para seguir en la lucha contra el cáncer de mama.

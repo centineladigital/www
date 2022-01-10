@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En sexenio suben feminicidio, homicidio doloso, extorsión, violación, violencia familiar y de género, y corrupción de menores, según cifras oficiales "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aumenta incidencia en 7 delitos contra mujeres"
 front: false
 section: "Nacional"
-news_id: 190193
+redirect_from: /news/190193
 ---
 
 Miles de mujeres saldrán este jueves a las calles del país para conmemorar el Día Internacional de la Eliminación de la Violencia contra la Mujer, en un contexto delictivo creciente en su contra que alcanzó cifras históricas en la primera mitad del sexenio de Andrés Manuel López Obrador.

@@ -10,11 +10,11 @@ author: nil
 description: "Buscan audiencia con AMLO en su gira de trabajo."
 image: "/uploads/2021/images-MANIFESTANTE.jpg"
 video: "/uploads/2021/videos-MJ05_MANIFESTANTE.mp4"
-audio: "nil"
+audio: nil
 alt: "Se manifiestan afectados de ARAS en FGR"
 front: false
 section: "Local"
-news_id: 190683
+redirect_from: /news/190683
 ---
 
 Afectados de la empresa ARAS se manifestaron en las instalaciones de la Fiscalía General de la Republica. Por lo que alrededor de 15 inversionistas afectados se dieron cita con el fin de exigir que le dé solución a las problemática que viven.

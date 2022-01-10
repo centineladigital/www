@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Gobierno Federal, Estatal y Municipal participaron en el programa “21 por el 21” para fomentar la lectura"
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan un kilómetro de libros en el centro de la ciudad"
 front: false
 section: "Local"
-news_id: 189259
+redirect_from: /news/189259
 ---
 
 Decenas de chihuahuenses recibieron hasta cinco libros, por parte de la programa “21 por el 21” para fomentar el hábito de la lectura, donde el Gobierno Municipal a través del Instituto de Cultura del Municipio (ICM), participó de manera activa esta iniciativa del Gobierno Federal.

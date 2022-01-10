@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Abordaron planes de acción a realizar y actividades conjuntas entre dependencias municipales   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brinda Gobierno Municipal capacitación a personal para prevenir y erradicar violencia de género"
 front: false
 section: "Local"
-news_id: 188543
+redirect_from: /news/188543
 ---
 
 Para dar a conocer información y el trabajo que realiza el Instituto Municipal de las Mujeres (IMM) a todas las dependencias del Municipio, se llevó a cabo la primera reunión y capacitación con los enlaces de género representantes.

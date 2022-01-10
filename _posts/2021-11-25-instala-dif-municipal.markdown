@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Del 24 de noviembre al 02 de diciembre se aplicarán 50 pruebas diarias en un horario de 9:00 am a 1:00 pm"
 image: "/uploads/2021/images-unnamed_(16).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instala DIF Municipal módulos para realizar pruebas COVID de antígenos gratuitas"
 front: false
 section: "Local"
-news_id: 190203
+redirect_from: /news/190203
 ---
 
 Comprometidos con la salud de los chihuahuenses, el Gobierno Municipal, a través del DIF y en coordinación con la Secretaría de Salud de Gobierno del Estado de Chihuahua, el Consejo Empresarial, la Fundación del Empresariado Chihuahuense (FECHAC) y Fundación CIMA, se realizó la donación de pruebas de antígenos para su aplicación gratuita en diferentes módulos instalados en centros comunitarios y Centros de Desarrollo Familiar (CEDEFAM) de la ciudad.

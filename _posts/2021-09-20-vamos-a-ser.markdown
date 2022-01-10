@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Natalia Téllez compartió la noticia junto a dos imágenes en donde aparece acompañada de su pareja y una prueba de embarazo. "
 image: "/uploads/2021/images-natalia-tellez-instagram-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vamos a ser papás -  Natalia Téllez de 'Netas Divinas' anuncia que está embarazada; así dio la noticia"
 front: false
 section: "Espectáculos"
-news_id: 187888
+redirect_from: /news/187888
 ---
 
 Natalia Téllez, conductora de Netas Divinas y ex presentadora del programa Hoy de Televisa, sorprendió a sus seguidores al anunciar que será mamá. La famosa compartió que espera a su primer bebé. 

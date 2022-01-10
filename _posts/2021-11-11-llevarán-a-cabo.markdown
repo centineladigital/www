@@ -10,11 +10,11 @@ author: nil
 description: "Se llevarán a cabo acciones similares a la de Riveras de Sacramento."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MJ04_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Llevarán a cabo acciones de intervención en Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 189788
+redirect_from: /news/189788
 ---
 
 Acciones de intervención en materia social se llevarán en Ciudad Juárez, según lo externó la Gobernadora del Estado, María Eugenia Campos Galván, quien recibió este jueves al edil juarense para exponer proyectos para la frontera.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " El 74% del presupuesto se utilizará en subsidios englobando proyectos de tipo productivo y  futuros programas que operará la secretaría"
 image: "/uploads/2021/images-unnamed_(9).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Comparece SIDE ante Congreso del Estado con Propuesta de Egresos 2022"
 front: false
 section: "Local"
-news_id: 190609
+redirect_from: /news/190609
 ---
 
 La titular de la Secretaría de Innovación y Desarrollo Económico, María Angélica Granados Trespalacios, compareció este 6 de diciembre ante el  Congreso del Estado para informar sobre la propuesta del Presupuesto de  Egresos 2022.

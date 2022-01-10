@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El técnico de Tigres se fue contento con el triunfo de su equipo pero pidió que se tome con calma al ser aún el inicio del torneo"
 image: "/uploads/2021/images-miguel-herrera-imago-85_0_37_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tampoco es la locura por un triunfo -  Miguel Herrera pide calma tras golear a Querétaro"
 front: false
 section: "Deportes"
-news_id: 186818
+redirect_from: /news/186818
 ---
 
 Tras darle mérito a sus jugadores por el triunfo sobre el Querétaro, el técnico de los Tigres, Miguel Herrera, señaló que el resultado de 3-0 no significa “la locura” cuando van cinco jornadas en la temporada. 

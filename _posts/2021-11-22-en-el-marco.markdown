@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "También se realizaron mejoras al monumento “La Adelita”"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En el marco de la Revolución Mexicana, se rehabilitó la glorieta Felipe Ángeles"
 front: false
 section: "Local"
-news_id: 190075
+redirect_from: /news/190075
 ---
 
 En el marco del 111 aniversario de la Revolución Mexicana, el Gobierno Municipal a través de la Dirección de Mantenimiento Urbano, restauró la glorieta de Felipe Ángeles, por ser una escultura conmemorativa a esta fecha.

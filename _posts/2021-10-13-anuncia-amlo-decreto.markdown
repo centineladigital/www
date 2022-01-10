@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Presidente informó que iniciará en los siete estados fronterizos con Estados Unidos y el dinero que se cobre para regularizarlos se quedará en las entidades para que sea canalizado en el bacheo de caminos"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia AMLO decreto para regularizar “autos chocolate”; iniciará en frontera con EU"
 front: false
 section: "Nacional"
-news_id: 188670
+redirect_from: /news/188670
 ---
 
 El presidente Andrés Manuel López Obrador anunció que este sábado, en su gira por Baja California, firmará un decreto para regularizar autos irregulares que provienen del extranjero y entran a nuestro país de forma ilegal y donde los dueños de estos vehículos pagarán un monto “justo, no excesivo” que se quedará en los estados para que se canalice en el bacheo de caminos.

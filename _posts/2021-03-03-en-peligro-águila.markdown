@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto dentro del marco de la conmemoración del Día Mundial de la Vida Silvestre que se conmemora el 3 de marzo. "
 image: "/uploads/2021/images-UACH1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03_JUAN_ONTIVEROS.mp3"
 alt: "En peligro águila real, oso negro y lobo gris -  UACH "
 front: false
 section: "Local"
-news_id: 183259
+redirect_from: /news/183259
 ---
 
 En peligro de desaparecer en Chihuahua se encuentran el águila real, oso negro y lobo gris, según fue manifestado por parte del investigador de la Facultad de Zootecnia y Ecología, Juan Carlos Ontiveros Chacón. Esto dentro del marco de la conmemoración del Día Mundial de la Vida Silvestre que se conmemora el 3 de marzo.

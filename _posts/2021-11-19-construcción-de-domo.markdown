@@ -14,11 +14,11 @@ author: nil
 description: "Se tiene proyectado la construcción de banquetas, en diferentes áreas de la institución sumando un total de 270 metros cuadrados"
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-19_at_11.49.52.jpeg"
 video: "/uploads/2021/videos-_BV02_JESUS_JOSE_LEAL_.mp4"
-audio: "nil"
+audio: nil
 alt: "Construcción de domo, equipos y banquetas para escuela primaria "
 front: false
 section: "Local"
-news_id: 190017
+redirect_from: /news/190017
 ---
 
 El presidente Marco Bonilla Mendoza dio arranque de obra, construcción de Domo, banquetas y equipamiento en la escuela primaria Margarita Maza de Juárez esto que se da con el Presupuesto Participativo 2021.

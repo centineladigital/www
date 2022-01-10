@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue al final de la emisión matutina del programa Hoy de Televisa en donde la producción y los conductores despidieron a Marisol González. ¿Hubo llanto? Te contamos cómo se vivió este emotivo momento. "
 image: "/uploads/2021/images-asi-despidieron-a-marisol-gonzalez.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Los amo -  Así fue el último día de Marisol González en el programa 'Hoy'; esto pasó en su despedida"
 front: false
 section: "Espectáculos"
-news_id: 185738
+redirect_from: /news/185738
 ---
 
 Marisol González, conductora del programa Hoy, dio su último adiós en la emisión matutina de Televisa, luego de que hace unas semanas anunciara que pronto dejaría el proyecto, pues debía ocuparse de su familia por algún tiempo. Ante esto, el momento de despedirse llegó. Con emotivas palabras de Galilea Montijo, Andrea Legarreta, Escalona, Raúl Araiza y más; así con un pequeño recorrido de su estancia en el programa Hoy, Marisol González cerró un ciclo más de su carrera. ¿Pronto regresará? ¿Es sólo por un tiempo? Te contamos lo que se vivió en el último programa de la famosa en Hoy. 

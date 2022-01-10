@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El ambiente estatal se ha politizado de más, ante el inicio de las campañas electorales"
 image: "/uploads/2021/images-DFGGE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AV02_FEDERICO_BAEZA_MARES.mp3"
 alt: "Apoyan empresarios a Maru Campos; rechazan persecución política  "
 front: false
 section: "Local"
-news_id: 182555
+redirect_from: /news/182555
 ---
 
 Debido a que reconocidos Empresarios de todos los sectores, entre ellos Luis Corral, Federico Baeza Mares y Miguel Guerrero Elías, convocaron a sus homólogos a cerrar filas en torno a la candidata electa a la gubernatura por el PAN, María Eugenia Campos, mostrado su apoyo.

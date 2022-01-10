@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Piden ante Fiscalía Zona Centro solución a su problemática."
 image: "/uploads/2021/images-aras.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03_MARCO_GONZALEZ.mp4"
 alt: "Buscan llegar a 500 denuncias contra Aras"
 front: false
 section: "Local"
-news_id: 190255
+redirect_from: /news/190255
 ---
 
 Personas afectadas por el grupo Aras se manifestaron este viernes en las instalaciones de la Fiscalía Zona Centro, buscando que se dé solución a su problemática así como el presentar 15 nuevas denuncias, según lo señaló Marco González afectado.

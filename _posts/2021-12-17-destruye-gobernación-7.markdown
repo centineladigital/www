@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Productos decomisados a lo largo del presente año"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Destruye Gobernación 7 mil 801 bebidas alcohólicas caducas"
 front: false
 section: "Local"
-news_id: 190972
+redirect_from: /news/190972
 ---
 
 El director general de Gobierno, Eloy García Tarín, encabezó la destrucción de un total de 7 mil 801 bebidas alcohólicas que personal de la dependencia a su cargo decomisó en el presente año en sitios que no contaban con el permiso para su comercialización o por estar caducas.

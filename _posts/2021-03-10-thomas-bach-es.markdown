@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El alemán seguirá en su cargo por cuatro años más. Está en el mandato desde 2013"
 image: "/uploads/2021/images-2542688.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Thomas Bach es reelegido como presidente del COI"
 front: false
 section: "Deportes"
-news_id: 183365
+redirect_from: /news/183365
 ---
 
 El alemán Thomas Bach fue reelegido para seguir cuatro años más como presidente del Comité Olímpico Internacional (COI), una organización que dirige desde 2013, a poco más de cuatro meses para los Juegos de Tokio, marcados por el contexto de pandemia actual.

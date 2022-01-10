@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La ceremonia se realizó en el Patio Central del Palacio de Gobierno"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Es su talento, lo que permite hilvanar el progreso para el estado”; entregan edición 39 del Premio Chihuahua Vanguardia en Artes y Ciencias"
 front: false
 section: "Local"
-news_id: 190047
+redirect_from: /news/190047
 ---
 
 La Secretaría de Cultura entregó en ceremonia efectuada en el Patio Central del Palacio de Gobierno, la edición 39 del Premio Chihuahua Vanguardia en Artes y Ciencias 2021, a los ganadores de cada una de las siete categorías contempladas en la convocatoria.

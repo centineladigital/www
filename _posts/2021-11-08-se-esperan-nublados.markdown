@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Continúa descenso en la temperatura por las mañanas y noches"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se esperan nublados y posibles lluvia esta semana -  Protección Civil Municipal"
 front: false
 section: "Local"
-news_id: 189648
+redirect_from: /news/189648
 ---
 
 La Coordinación Municipal de Protección Civil informa que, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional, para los días lunes y martes de esta semana se esperan nublados en la ciudad, así como para este jueves se espera una pequeña probabilidad de lluvias.

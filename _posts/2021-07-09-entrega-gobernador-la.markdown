@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Destaca Javier Corral que ha cumplido su promesa de regresarle a Juárez lo que en justicia le corresponde; alcanza inversión estatal en obras de infraestructura, cerca de 8 mil millones de pesos para la frontera.   "
 image: "/uploads/2021/images-DSC_8167.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Gobernador La Pila y Parque de La Chaveña completamente rehabilitado"
 front: false
 section: "Local"
-news_id: 185511
+redirect_from: /news/185511
 ---
 
 Como parte del Maratón de Obras, el gobernador Javier Corral inauguró la rehabilitación de La Pila y el Parque de La Chaveña, donde se recuperó el espacio público de uno de los barrios más tradicionales de Ciudad Juárez, en beneficio de más de 20 mil usuarios y residentes de la zona.

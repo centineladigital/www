@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La banda de pop rock británica de Chris Martin, Coldplay, y la banda de K-pop, BTS, conquistan YouTube con video oficial de 'My Universe'. "
 image: "/uploads/2021/images-coldplay-bts-conquistan-youtube-video.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Por fin juntos! BTS y Coldplay lanzan video oficial de su colaboración 'My Universe'"
 front: false
 section: "Espectáculos"
-news_id: 188222
+redirect_from: /news/188222
 ---
 
 La novela de amor entre Coldplay y BTS llego a su punto más alto... pues lo único que hacía falta para que los seguidores de los británicos encabezados por Chris Martin y los surcoreanos estuvieran completamente felices era un video oficial de su éxito inmediato, 'My Universe'.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hasta una tarjeta por un millón de pesos le entregaron a nombre de Miguel Alfredo para gastos personales para evitar fiscalización"
 image: "/uploads/2021/images-Maru_campos.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Investigan a Maru por moches para entregar obras"
 front: false
 section: "Local"
-news_id: 182206
+redirect_from: /news/182206
 ---
 
 Según la Fiscalía, la alcaldesa con licencia pedía 40% a cambio de asignar contratos, como las turboglorietas.

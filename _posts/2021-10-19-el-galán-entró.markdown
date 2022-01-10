@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Me choca entrevistar a los que dicen: 'Sí, no'. De: '¿Oye, qué tal la película?', y ellos de: 'Sí, muy padre' o 'No te puedo decir', le contó la locutora a Pepillo Origel. "
 image: "/uploads/2021/images-la-locutora-tuvo-una-charla.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El galán entró al quite -  Maxine Woodside revela que su peor entrevista fue con Camila Sodi"
 front: false
 section: "Espectáculos"
-news_id: 188900
+redirect_from: /news/188900
 ---
 
 La periodista y locutora radiofónica Maxine Woodside se reunió con uno de sus antiguos colaboradores, Pepillo Origel, para recordar los tiempos en que ambos trabajaron juntos; este momento lo compartió el conductor en su canal de YouTube. Destaca que durante la charla Pepillo logró que la llamada Reina de la radio confesara cuál ha sido su peor entrevista, aunque primero habló sobre los encuentros que tuvo con María Félix: "Era muy linda cuando quería, pero era muy difícil. La primera vez me mandó al diablo, la segunda fue un poco más amable y la tercera fue en su casa. Y otra vez me dio otra entrevista saliendo de un teatro. Por lo menos 4 entrevistas sí le hice".

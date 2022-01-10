@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Toni Rodríguez dio voz a Donna en Beverly Hills 90210; Libby Chesser en Sabrina, la bruja adolescente y en el primer doblaje de Misato Katsuragi en la serie japonesa Evangelion. "
 image: "/uploads/2021/images-murio-toni-rodriguez-actriz-doblaje.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Toni Rodríguez, actriz de doblaje en los 'Pitufos' y 'Evangelion'"
 front: false
 section: "Espectáculos"
-news_id: 184071
+redirect_from: /news/184071
 ---
 
 Murió Toni Rodríguez, actriz de doblaje, que dio vida a emblemáticos personajes de caricaturas, películas, videojuegos y animes. La noticia sobre el fallecimiento de la famosa de 51 años se dio a conocer el día de hoy, logrando que fans y el mundo del doblaje en México esté de luto.  María Antonieta Rodríguez, mejor conocida como "Toni", tiene una larga trayectoria artística. Su talento destacó indudablemente en el mundo del doblaje, aunque también se desenvolvió en el mundo de la actuación.  

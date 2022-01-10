@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se tiene un total general de 78 mil 568 contagios en el estado."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 55 nuevos contagios de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 188351
+redirect_from: /news/188351
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 4 de octubre se tiene un total general de 78 mil 568 contagios en el estado.

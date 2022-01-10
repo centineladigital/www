@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La segunda parte no contó con la participación de la irreverente villana Patricia Fernández, interpretada por Lorna Cepeda. "
 image: "/uploads/2021/images-la-serie-colombiana-tuvo-solamente_270_278_826_514.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Ecomoda', la secuela de 'Betty la fea' que pocos conocen y que fracasó rotundamente"
 front: false
 section: "Espectáculos"
-news_id: 184606
+redirect_from: /news/184606
 ---
 
 La telenovela colombiana de 1999, Betty la Fea, narra la historia de amor entre la economista Beatriz Pinzón y Armando Mendoza, el presidente de una prestigiosa casa de modas, y es considerada como una de las mejores telenovelas de todos los tiempos debido al gran éxito que alcanzó a nivel internacional al ser emitida en 180 países y adaptada más de 30 veces alrededor del mundo. En México ha retomado su popularidad desde el año pasado luego de que Netflix y Azteca la retomaran en su programación. Sin embargo, existe una segunda parte no tan popular llamada Ecomoda, que narra la vida de casados de Betty y Don Armando al frente de la empresa y los problemas que enfrentan al ser padres, y aquí te decimos por qué es considerada como un rotundo fracaso. 

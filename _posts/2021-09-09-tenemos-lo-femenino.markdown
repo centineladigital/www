@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Yo no creo en etiquetas, no creo en que nos cataloguen de ninguna forma, dijo la famosa en entrevista con Mara Patricia Castañeda. "
 image: "/uploads/2021/images-nailea.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tenemos lo femenino y lo masculino en nosotros -  Nailea Norvind se declara bisexual; así lo reveló"
 front: false
 section: "Espectáculos"
-news_id: 187600
+redirect_from: /news/187600
 ---
 
 La actriz mexicana Nailea Norvind acudió al programa en YouTube de Mara Patricia Castañeda para hablar de su trayectoria artística, de sus perspectivas personales ante la pandemia y de su relación con sus hijas, Naian y Tessa Ia. 

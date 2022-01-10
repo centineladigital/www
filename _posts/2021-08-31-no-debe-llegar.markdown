@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "No tienen ni idea de lo que acaban de decir, y es entendible pues ellos ni siquiera han participado en los encuentros de trabajo de la entrega-recepción, dice a señalamiento de excolaboradores"
 image: "/uploads/2021/images-DSC_9144.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No debe llegar a tanto la indignidad política, responde Gobernador sobre manejo distorsionado de finanzas   "
 front: false
 section: "Local"
-news_id: 187304
+redirect_from: /news/187304
 ---
 
 El gobernador del estado, Javier Corral Jurado, dijo que este miércoles se dará a conocer puntualmente, toda la información financiera que se ha entregado al equipo de transición de Maru Campos y descalificó el grado de indignidad política en que caen quienes antes se desvivían por el gobernador y ahora son utilizados para atacar.

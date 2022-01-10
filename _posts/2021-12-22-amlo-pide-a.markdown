@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente dijo que se podría convocar a las autoridades locales y a la federación para que ayuden con la instalación de casillas. "
 image: "/uploads/2021/images-amlo-pedir-apoyo-ciudadanos-consulta.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO pide a INE humildad para rectificar sobre consulta de revocación de mandato"
 front: false
 section: "Nacional"
-news_id: 191105
+redirect_from: /news/191105
 ---
 
 El presidente Andrés Manuel López Obrador pidió a los consejeros del Instituto Nacional Electoral (INE) humildad para rectificar sobre la decisión de posponer la consulta de revocación de mandato y así, cumplir con la Constitución y evitar que el Tribunal Electoral o la Suprema Corte les enmienden la plana. 

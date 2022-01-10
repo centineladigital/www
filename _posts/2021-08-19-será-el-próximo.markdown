@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Alcaldesa María Angélica Granados, entregará la glosa del informe a los miembros del Ayuntamiento y a su vez dirigirá un mensaje sobre el estado que guarda la administración pública municipal a los regidores"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Será el próximo 2 de septiembre el Tercer Informe de actividades de la administración 2018-2021"
 front: false
 section: "Local"
-news_id: 186894
+redirect_from: /news/186894
 ---
 
 El Gobierno Municipal da conocer que el próximo jueves 2 de septiembre se llevará a cabo la presentación del Tercer Informe de actividades de la administración 2018-2021 en sesión de Cabildo a las 10:00 horas, donde la Alcaldesa María Angélica Granados, entregará la glosa del informe a los miembros del Ayuntamiento y a su vez dirigirá un mensaje sobre el estado que guarda la administración pública municipal a los regidores; además de escuchar la postura de los diferentes representantes de las fracciones edilicias representadas en Cabildo.

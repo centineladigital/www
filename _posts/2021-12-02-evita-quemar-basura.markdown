@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal podría aplicar multas que pueden llegar hasta los 89 mil pesos"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Evita quemar basura, hierba o arrojar escombro en vía pública para no ser sancionado"
 front: false
 section: "Local"
-news_id: 190432
+redirect_from: /news/190432
 ---
 
 El arrojar escombros en la vía pública, quemar basura y hierba en terrenos o lotes baldíos, constituye una falta al Reglamento de Protección al Medio Ambiente y Cambio Climático del Municipio de Chihuahua, por ello el Gobierno Municipal a través de la Dirección de Desarrollo Urbano y Ecología, exhorta a la población abstenerse de realizar dichas acciones, o de lo contrario si alguien es sorprendido serán acreedores a sanciones, multas, clausuras y arrestos administrativos.

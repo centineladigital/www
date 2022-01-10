@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El incendio en la estación de servicio fue controlado, después de que funcionarios de Protección Civil, bomberos y la Policía acudieran al lugar"
 image: "/uploads/2021/images-suben-heridos-explosion-gasolinera-venezuela_73_38_902_560.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Explota gasolinera en Venezuela; reportan un muerto y ocho heridos"
 front: false
 section: "Internacional"
-news_id: 186318
+redirect_from: /news/186318
 ---
 
 Tras una explosión registrada en una estación de servicio de gas al este de Venezuela, después de que un autobús recargaba gasolina, se reportó la muerte de una persona mientras otras ocho resultaron heridas. 

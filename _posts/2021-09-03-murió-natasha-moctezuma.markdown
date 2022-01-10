@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de varios programas de espectáculos de televisión y YouTube se informó que Natasha Moctezuma, hermana de Frida Sofía, presuntamente había muerto. "
 image: "/uploads/2021/images-natasha-moctezuma-hermana-frida-sofia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Natasha Moctezuma, hermana de Frida Sofía; esto sabemos"
 front: false
 section: "Espectáculos"
-news_id: 187401
+redirect_from: /news/187401
 ---
 
 Frida Sofía, hija de Alejandra Guzmán y Pablo Moctezuma, estaría atravesando una etapa de duelo, pues presuntamente murió su hermana Natasha Moctezuma –hija de Beatriz Pasquel y Pablo–, así lo dio a conocer la revista TV Notas y el programa Chisme NO Like. Te contamos todo lo que sabemos sobre esta noticia.  

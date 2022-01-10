@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La titular de la Coordinación Municipal de Protección Civil, detalló que la tormenta que atravesó la ciudad se debió a un canal de baja presión que hizo interacción con la inestabilidad atmosférica y el ingreso de humedad del Océano Pacífico"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Integrantes del Consejo Municipal de Protección Civil presentan y evalúan daños tras tormenta del lunes"
 front: false
 section: "Local"
-news_id: 185875
+redirect_from: /news/185875
 ---
 
 En sesión extraordinaria los integrantes del Consejo Municipal de Protección Civil realizaron la presentación y evaluación de daños, así como acciones derivadas de la fuerte precipitación pluvial del pasado lunes 19 de julio, destacando que afortunadamente no hubo lesionados ni pérdida de vidas, sin embargo, sí se registraron daños en comercios y daños por caída de árboles.

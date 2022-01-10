@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Tras empate sin goles ante los Tigres, las Chivas de Guadalajara entrenaron este jueves en la cancha del HEB Park, en Edinburg, Texas. "
 image: "/uploads/2021/images-chivas-entrena-heb-park-cara_0_23_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chivas entrena en el HEB Park de cara al duelo ante Monterrey."
 front: false
 section: "Deportes"
-news_id: 185469
+redirect_from: /news/185469
 ---
 
 Los elementos que no fueron titulares trabajaron físico y futbol en espacios reducidos bajo las órdenes del técnico Víctor Manuel Vucetich y sus auxiliares. 

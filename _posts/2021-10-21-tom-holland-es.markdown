@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de plataformas digitales, PlayStation dio a conocer el tráiler oficial de 'Uncharted', con Tom Holland como Nathan Drake. "
 image: "/uploads/2021/images-pelicula-de-uncharted-revela-nuevo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tom Holland es Nathan Drake en el nuevo tráiler de la película de 'Uncharted'"
 front: false
 section: "Espectáculos"
-news_id: 189020
+redirect_from: /news/189020
 ---
 
 El mundo de los videojuegos está en la búsqueda dar grandes joyas en el cine, como las próximas producciones de 'The Last of Us', 'Super Mario Bros' o 'Resident Evil: Welcome to Raccoon City';y ahora la desarrolladora Naughty Dog reveló el tráiler oficial de la película basada en la saga de 'Uncharted', que cuenta con el protagonismo de Tom Holland y Mark Wahlberg. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante una entrevista en el programa 'Hoy', el actor también arremetió contra el gobierno argentino, pues ha intentado viajar a dicho país para conocer a su nieta pero no se lo han permitido. "
 image: "/uploads/2021/images-juan-soler-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Una porquería -  Juan Soler revela que no cree en la vacuna contra el covid-19"
 front: false
 section: "Espectáculos"
-news_id: 184834
+redirect_from: /news/184834
 ---
 
 El actor Juan Soler está inmerso en una gran polémica tras lo que señaló en una entrevista con el programa Hoy sobre la vacuna contra el coronavirus SARS-CoV-2, pues tachó a esta medida sanitaria como "una mentira". Aunque primero el artista que actualmente está trabajando para Televisa arremetió contra el gobierno argentino, pues ha intentado viajar a dicho país para conocer a su nieta Alfonsina, primogénita de su hija Valentina, pero le ha resultado imposible.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Mediante video llamadas, actividades en la plataforma Classroom y clases presenciales, desarrolla SEyD la estrategia de Aprendizajes Esperados Esenciales, que consta además de asesoría, retroalimentación, prácticas de laboratorio, entre otras"
 image: "/uploads/2021/images-hibrido_2.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AUDIO-HUGO_ARIAS_FLORES__DIRECTOR_ACADEMICO_DEL_COBACH.ogg"
 alt: "Regresan estudiantes del COBACH a clases presenciales  bajo modelo híbrido "
 front: false
 section: "Local"
-news_id: 188865
+redirect_from: /news/188865
 ---
 
 Después de poco más de 20 meses de aulas vacías a consecuencia de la pandemia por COVID-19, este lunes 18 de octubre, estudiantes del Colegio de Bachilleres del Estado de Chihuahua (COBACH) regresaron a clases presenciales, bajo la modalidad híbrida.

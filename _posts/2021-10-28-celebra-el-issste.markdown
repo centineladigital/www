@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El director general, Luis Antonio Ramírez Pineda, instruyó a fomentar las actividades culturales, ya que es una de las prestaciones que se otorgan a 13.5 millones de derechohabientes. "
 image: "/uploads/2021/images-ISSSTE_01.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Celebra el ISSSTE la tradición de día de muertos con la ofrenda purépecha “fiesta de las ánimas”"
 front: false
 section: "Local"
-news_id: 189314
+redirect_from: /news/189314
 ---
 
 Con el objetivo de mantener viva la tradición de las festividades del Día de Muertos en México y con la entusiasta participación del personal y derechohabientes, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), a través de la subdirección de Servicios Sociales y Culturales, a cargo de Anahí Vargas Vargas, inauguró la ofrenda purépecha “Fiesta de las Ánimas” en la explanada del edificio sede de este organismo en Buenavista.

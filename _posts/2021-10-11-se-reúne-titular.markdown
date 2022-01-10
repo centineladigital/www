@@ -7,12 +7,12 @@ tags:
 author: nil
 description: " El conversatorio surge del trabajo colaborativo de Gobierno del Estado con el Ayuntamiento para atender de manera directa a la población de 16 comunidades indígenas de la región"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reúne titular de Coepi con autoridades ralámuli de Carichí"
 front: false
 section: "Local"
-news_id: 188593
+redirect_from: /news/188593
 ---
 
 En el marco del nuevo modelo de atención directa a la población de las indígenas, que Gobierno del Estado impulsa en los municipios, la Comisión Estatal para los Pueblos Indígenas (COEPI), se reunió con autoridades ralámuli del municipio de Carichí.

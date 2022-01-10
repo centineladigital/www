@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El mensaje del ministro presidente de la SCJN se da en el marco de la crisis que se vive en el Tribunal electoral; quiero informar que concluiré mi mandato como presidente de la Corte el 31 de diciembre de 2022, cuando termina el periodo para el cual fui electo por mis compañeros, dijo"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arturo Zaldívar rechaza ampliación de mandato en la Corte"
 front: false
 section: "Nacional"
-news_id: 186372
+redirect_from: /news/186372
 ---
 
 El ministro presidente de la Suprema Corte de Justicia de la Nación, Arturo Zaldívar, ofrece un mensaje a medios.

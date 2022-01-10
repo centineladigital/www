@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El jugador portugués no quiere continuar con la Juventus "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cristiano Ronaldo llegaría al Manchester City; reportan acuerdo"
 front: false
 section: "Deportes"
-news_id: 187130
+redirect_from: /news/187130
 ---
 
 Cristiano Ronaldo y Manchester City habrían llegado a un acuerdo para que el portugués se una a las filas de los ingleses en este mercado, según reportes de la prensa en España y Portugal. 

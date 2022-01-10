@@ -10,11 +10,11 @@ author: nil
 description: "Obras contratadas dentro del Maratón de la pasada administración."
 image: "/uploads/2021/images-AGUILAR.jpg"
 video: "/uploads/2021/videos-ML04_CARLOS_AGUILAR.mp4"
-audio: "nil"
+audio: nil
 alt: "Obras Públicas excedió presupuesto por dos mil mdp"
 front: false
 section: "Local"
-news_id: 190090
+redirect_from: /news/190090
 ---
 
 La Secretaría de Obras Pública excedió su presupuesto, afirmó el nuevo titular de la dependencia estatal, Carlos Aguilar Camargo. Ya que se llevó a cabo una serie de obras que superaron dos mil 300 millones de pesos el presupuesto que se planeó ejercer.

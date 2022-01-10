@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Esta es la primera procuración que se realiza en el nosocomio; estuvo a cargo de especialistas del IMSS en Ciudad Juárez y de un equipo multidisciplinario del Centro Médico Nacional “La Raza”. "
 image: "/uploads/2021/images-Foto_6482-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza IMSS Chihuahua procuración multiorgánica de menor de 8 años en HGR No. 66"
 front: false
 section: "Local"
-news_id: 191230
+redirect_from: /news/191230
 ---
 
 Especialistas del Instituto Mexicano del Seguro Social (IMSS) realizaron este domingo la procuración multiorgánica de un paciente de 8 años con muerte encefálica, en el Hospital General Regional (HGR) No. 66, en Ciudad Juaréz, siendo la primera que se lleva a cabo en esta unidad.  

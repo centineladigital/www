@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Adria Arjona y Andy García también participarán en el filme, el cual se centrará en una familia cubanoamericana. "
 image: "/uploads/2021/images-adria-arjona-actriz-hija-padre_0_93_852_530.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Adria Arjona se une a 'El Padre de la Novia', el remake que será dirigido por Gaz Alazraki"
 front: false
 section: "Espectáculos"
-news_id: 184068
+redirect_from: /news/184068
 ---
 
 De Nuevo Toledo a Hollywood! Gaz Alazraki, quien dirigió la serie de Netflix, Club de Cuervos, ha sido elegido para dirigir el remake de una de las películas más entrañables de todos los tiempos, El Padre de la Novia, la cual fue estelarizada por Steve Martin y la cual ahora se centrará en una familia cubanoamericana.  De acuerdo con The Hollywood Reporter, al reparto de El Padre de la Novia se unirá la actriz Adria Arjona y el actor Andy García, quienes interpretarán el papel de la hija y el padre en esta cinta que está siendo producida por Dede Garner y Jeremy Kleiner de Plan B. 

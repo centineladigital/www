@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz le pidió permiso al director para fumar marihuana en una escena donde aparece junto a Meryl Streep y hace un monólogo de varios minutos. "
 image: "/uploads/2021/images-jennifer-lawrence-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jennifer Lawrence revela que se drogó para una escena de la película 'Don’t Look Up'"
 front: false
 section: "Espectáculos"
-news_id: 190181
+redirect_from: /news/190181
 ---
 
 Durante una rueda de prensa en Los Ángeles, Jennifer Lawrence reveló que se drogó durante el rodaje de una escena de su última película, Don’t Look Up, que coprotagoniza con Leonardo DiCaprio. En la producción de Netflix, dirigida por Adam McKay, Lawrence y DiCaprio interpretan a dos astrónomos que viajan por Estados Unidos para advertir a la población de que un meteorito se precipita hacia la Tierra. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con 17 fallecimientos en últimas 24 horas la cifra total de decesos se incrementó a 4,731 y la de contagios a 51,146 en el estado"
 image: "/uploads/2021/images-Informe_tecnico_04_febrero_page-0002.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se mantienen altos los casos de contagios de COVID-19 -  registra Salud 180 más"
 front: false
 section: "Local"
-news_id: 182728
+redirect_from: /news/182728
 ---
 
 Un total general de 51 mil 146 casos confirmados de COVID-19, tomando en cuenta los 180 de las últimas 24 horas que registra la Secretaría de Salud, se tienen hasta este día en el estado de Chihuahua.

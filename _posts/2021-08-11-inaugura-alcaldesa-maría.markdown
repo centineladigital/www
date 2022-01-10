@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En su mensaje la Presidenta Municipal, comentó que sin duda este será un espacio que eleva la calidad de vida de las personas, de promover el sano esparcimiento y actividades de integración entre la comunidad"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura alcaldesa María Angélica Granados espacio comunitario en Jardines de Oriente"
 front: false
 section: "Local"
-news_id: 186591
+redirect_from: /news/186591
 ---
 
 Una obra producto del Presupuesto Participativo fue inaugurada la mañana de este miércoles 11 de agosto en la colonia Jardines de Oriente, encabezando el corte de listón la alcaldesa María Angélica Granados Trespalacios acompañada por vecinos de la zona y agradeciendo su participación en este ejercicio democrático.

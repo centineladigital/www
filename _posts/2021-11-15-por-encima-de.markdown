@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La jefa de Gobierno aseguró que los retos de la Cuarta Transformación son seguir avanzando para reducir las desigualdades, se termine con la pobreza y haya un futuro de felicidad y bienestar. "
 image: "/uploads/2021/images-claudia-sheinbaum-jefa-de-gobierno-6.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por encima de los candidatos para 2024 está la continuidad de la 4T -  Sheinbaum"
 front: false
 section: "Nacional"
-news_id: 189831
+redirect_from: /news/189831
 ---
 
 Más allá de la definición de candidato de Morena en 2024 “nosotros ya no nos pertenecemos, como dice el Presidente, pues en términos de un destino personal somos parte de una historia del país y nos corresponde dar continuidad a la Cuarta Transformación en la vida pública”, asegura Claudia Sheinbaum, jefa de Gobierno de la Ciudad de México.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se atienden 7,831 metros cuadrados de la superficie de rodamiento"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rehabilitan rampas viales de puentes en avenida Teófilo Borunda"
 front: false
 section: "Local"
-news_id: 190673
+redirect_from: /news/190673
 ---
 
 El Gobierno Municipal, a través de la Dirección de Obras Públicas, sigue trabajando en la rehabilitación de la superficie de rodamiento de la avenida Teófilo Borunda en los carriles con sentido oriente a poniente dando atención a áreas específicas como las rampas de acceso y descenso de los puentes, los cuales presentaban daños severos en su superficie.

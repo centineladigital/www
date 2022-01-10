@@ -16,11 +16,11 @@ author: nil
 description: "Las categorías son Atleta, Adulto Mayor (mayor de 60 años), impulsor deportivo y entrenador                                                                                                                              "
 image: "/uploads/2021/images-premios-Teporaca-640.jpg"
 video: "/uploads/2021/videos-BV01_JUAN_ABDO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se lanza convocatoria al premio ‘Teporaca’ "
 front: false
 section: "Local"
-news_id: 189595
+redirect_from: /news/189595
 ---
 
 IMCFD dio a conocer la presentación de la convocatoria del Premio Municipal a la Excelencia en el Deporte ‘Teporaca’, en su 35 edición, el cierre de la convocatoria es el 10 de diciembre los interesados en participar en las áreas como:

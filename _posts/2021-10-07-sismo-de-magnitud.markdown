@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cadena NHK reporta que los equipos de emergencias tienen al menos 5 personas heridas tras el temblor. "
 image: "/uploads/2021/images-sismo-registrado-zona-chiba-foto.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sismo de magnitud 6.1 sacude Chiba, en Japón"
 front: false
 section: "Internacional"
-news_id: 188457
+redirect_from: /news/188457
 ---
 
 Un intenso sismo de magnitud 6.1 ha sacudido el este de Chiba, cerca de Tokio, en Japón, según datos revelados por la Agencia Meteorológica de Japón (JMA, por las siglas en inglés), lo que ha sido captado por varias cámaras de seguridad en el país asiático, el cual es frecuente escenario de este tipo de temblores. 

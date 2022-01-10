@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El número de pasajeros se ha incrementado en el aeropuerto local, como resultado del fortalecimiento de la economía juarense"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participará Gobierno del Estado en mesas de trabajo para abrir nuevas rutas desde el aeropuerto de Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 190371
+redirect_from: /news/190371
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Innovación y Desarrollo Económico (SIDE), participará en las mesas de trabajo con Grupo Aeroportuario Centro Norte (OMA) encargados del aeropuerto de Ciudad Juárez y funcionarios municipales, para implementar nuevas rutas a destinos nacionales y analizar la posibilidad de viajes a algunas ciudades de Estados Unidos.

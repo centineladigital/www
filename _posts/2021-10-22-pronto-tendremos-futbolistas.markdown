@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Asiste a inauguración del Centro de Alto Rendimiento del Club Independiente"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronto tendremos futbolistas chihuahuenses jugando en estadios del mundo -  Alcalde  "
 front: false
 section: "Local"
-news_id: 189077
+redirect_from: /news/189077
 ---
 
 El presidente municipal de Chihuahua, Marco Bonilla Mendoza, la presidenta administrativa del Club Independiente, Belinda López,  empresarios y funcionarios estatales, cortaron el listón inaugural del Centro de Alto Rendimiento del Club Independiente, ubicado sobre la avenida Homero.

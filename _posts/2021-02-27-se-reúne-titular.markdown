@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Adrián LeBarón reconoció la voluntad al acercamiento de Rosa Isela Rodríguez, Secretaria de Seguridad y Protección Ciudadana"
 image: "/uploads/2021/images-SP_LEBARÓN.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reúne titular de la SSPC con LeBarón para analizar avances en masacre"
 front: false
 section: "Local"
-news_id: 183188
+redirect_from: /news/183188
 ---
 
 Rosa Isela Rodríguez Velázquez, Secretaria de Seguridad y Protección Ciudadana y el Subsecretario de Seguridad, Ricardo Mejia Bardeja, se reunieron con Adrián y Julián LeBarón, para analizar los avances de la masacre al que fueron víctimas sus familiares durante el año 2019.

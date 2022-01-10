@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La concursante de Miss México y representante del estado de Aguascalientes, Ximena Hita falleció. "
 image: "/uploads/2021/images-ximena-hita-fue-la-representante.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Ximena Hita, Miss Aguascalientes 2020"
 front: false
 section: "Espectáculos"
-news_id: 181816
+redirect_from: /news/181816
 ---
 
 La representante del estado de Aguascalientes en Miss México, Ximena Hita, murió, así lo dio a conocer la organización del certamen a través de sus redes sociales. Con una foto de la joven que tuvo la oportunidad de representar a su estado en el 2020, Miss México lamentó la muerte de Ximena, aún se desconoce la causa de su fallecimiento. A través de redes sociales, Miss México Organization compartió una imagen de Ximena Hito cuando ganó la corona por el estado de Aguascalientes en el 2020. El certamen mandó sus condolencias a la familia y amigos de la joven.  

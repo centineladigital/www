@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Andrés Muschietti dio a conocer el primer aspecto del traje de The Flash; te decimos todo lo que sabemos sobre la película, que saldrá en 2022. "
 image: "/uploads/2021/images-andres-muschietti-aspecto-traje-flash.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Director de 'Flash' da primer vistazo al traje de la película; esto es lo que sabemos del filme"
 front: false
 section: "Espectáculos"
-news_id: 185026
+redirect_from: /news/185026
 ---
 
 Una de las franquicias que verán un 'reinicio' en sus tramas es The Flash, película de la que se especula que podría desprenderse un multiverso en el Universo DC según especulaciones. Pero hasta entonces, el director argentino Andrés Muschietti dio al primer vistazo al traje que usará Ezra Miller en el papel de Barry Allen.

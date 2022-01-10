@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se detectaron 214 nuevos casos de personas que se contagiaron de coronavirus."
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp3"
 alt: "Registran 75 defunciones en 24 horas"
 front: false
 section: "Local"
-news_id: 183146
+redirect_from: /news/183146
 ---
 
 En las últimas 24 horas se ha acreditado 75 muertes, esto tras pasar los protocolos necesarios, mientras que se registraron 214 nuevos casos de personas que se contagiaron de coronavirus, según fue dado a conocer por parte del Director Médico Zona Norte Arturo Valenzuela Zorrilla, esto al dar a conocer la actualización de casos.

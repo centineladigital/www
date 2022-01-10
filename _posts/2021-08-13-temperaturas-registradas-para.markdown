@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se esperan lluvias de dispersas a moderadas"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Temperaturas registradas para este fin de semana  "
 front: false
 section: "Local"
-news_id: 186637
+redirect_from: /news/186637
 ---
 
 as temperaturas registradas en la Entidad son (°C máx/min): Chihuahua 30.8/19.6, Juárez 31.9/21.6, Ahumada 31/20.7, Janos 29.3/19.1, Nuevo Casas Grandes 27.1/18.6, Madera 23.3/13.9, Temósachic 27.8/15.5, Cuauhtémoc 24.5/15.1, Majalca 24.7/13.8, Ojinaga 33.4/22.8, Delicias 29.3/20.8, Camargo 30.4/19, Jiménez 31.6/16.4, Parral 30/16.8, Balleza 30.2/16.8, Creel 22.5/10.7, Maguarichi 27.6/15.4, Chínipas 33.2/21.2, Urique 31.8/20.7, Guachochi 21.8/10.8, Chinatú 26.7/13.6, El Vergel 20.9/8.6. 

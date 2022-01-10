@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "McLaren tuvo un fin de semana de ensueño con un primer y segundo lugar que le ayudan a subir en la clasificación"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cómo marcha la clasificación de la Fórmula 1 tras el GP de Italia?"
 front: false
 section: "Deportes"
-news_id: 187670
+redirect_from: /news/187670
 ---
 
 Este fin de semana se llevo a cabo el Gran Premio de Italia de la Fórmula 1, y sin duda tuvo muchas sopresas en cuanto al podio, luego de que los principales favoritos, Max Verstappen y Lewis Hamilton, quedaran fuera de la carrera tras un accidente que sufrieron. 

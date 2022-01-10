@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Sobre su faceta musical, el hijo de Eugenio Derbez dijo que su objetivo es estar dando tours por todo el mundo y cantar en inglés. "
 image: "/uploads/2021/images-vadhir-derbez-instagram-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Dejará la actuación? Vadhir Derbez lanza canción 'Luna'; así la puedes escuchar"
 front: false
 section: "Espectáculos"
-news_id: 184192
+redirect_from: /news/184192
 ---
 
 Vadhir Derbez sigue trabajando en su carrera musical, pues este miércoles presento su nuevo sencillo "Luna" a través de un video donde colabora con el artista caribeño Ir-Sais. "El video está tan bizarro que creo que eso va a hacer que mucha gente lo vea de principio a fin", explicó. El hijo del célebre comediante Eugenio Derbez explicó que quería que el video fuese abstracto y este terminó siendo la historia de un personaje "que es un tipo medio freaky que se la vive metido en esta botarga que es un pollo. Se ve chistoso y cool el video". 

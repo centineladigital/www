@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los inconformes en su mayoría personas de la tercera edad, exigen solución del pago de cesantía y vejez, señalan que la mayoría cumplen con el tiempo de 28 años para realizar el trámite de jubilación."
 image: "/uploads/2021/images-JUBILADOS_IMSS.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En CDMX, jubilados y pensionados del IMSS mantienen plantón en Reforma. "
 front: false
 section: "Nacional"
-news_id: 185407
+redirect_from: /news/185407
 ---
 
 

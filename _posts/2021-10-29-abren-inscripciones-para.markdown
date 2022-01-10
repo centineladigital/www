@@ -10,11 +10,11 @@ author: nil
 description: "Será una carrera nocturna, iniciando a las 18:00 horas."
 image: "/uploads/2021/images-CLAUDIA.jpg"
 video: "/uploads/2021/videos-MV01_CLAUDIA_BAUTISTA.mp4"
-audio: "nil"
+audio: nil
 alt: "Abren inscripciones para “Adelita no corre sola” "
 front: false
 section: "Local"
-news_id: 189380
+redirect_from: /news/189380
 ---
 
 Dentro del marco de las acciones para concientizar sobre el cáncer de mama se lleva a cabo la tradicional carrera “Adelita no corre sola”, la cual tiene un recorrido de cinco kilómetros, según fue dado a conocer por parte de Claudia Bautista de Grupo Reto.

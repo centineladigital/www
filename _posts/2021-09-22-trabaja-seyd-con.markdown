@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Participan también en esta iniciativa, el Fondo Conjunto México-Alemania, SEP y las autoridades educativas de Chiapas, Puebla y Baja California"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-22_at_13.00.04.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabaja SEyD con UNICEF en programa para brindar acceso educativo a niñas, niños y adolescentes migrantes"
 front: false
 section: "Local"
-news_id: 187952
+redirect_from: /news/187952
 ---
 
 El secretario de Educación y Deporte, Javier González Mocken, participó en la Segunda Sesión del Comité Técnico Asesor del programa “Inclusión Educativa de NNASM en México”, impulsado por el Fondo de las Naciones Unidas para la Infancia (UNICEF), y el Fondo Conjunto México-Alemania.

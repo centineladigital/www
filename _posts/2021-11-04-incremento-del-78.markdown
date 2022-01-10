@@ -16,11 +16,11 @@ author: nil
 description: "No es una gracia ni una bondad del presidente Andrés Manuel López Obrador."
 image: "/uploads/2021/images-1635307063_138774_1635307321_noticia_normal_recorte1.jpg"
 video: "/uploads/2021/videos-BJ02_CARLOS_OLSON_.mp4"
-audio: "nil"
+audio: nil
 alt: "Incremento del 7.8% no es bondad de AMLO -  Olson "
 front: false
 section: "Local"
-news_id: 189561
+redirect_from: /news/189561
 ---
 
 El diputado Carlos Olson aseguró que el incremento de presupuesto de participación federal que asciende a un 7.8%, es mérito únicamente del estado de Chihuahua, por lo que no es una gracia ni una bondad del presidente Andrés Manuel López Obrador.

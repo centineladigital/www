@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente municipal, Marco Bonilla, agradeció la solidaridad del sector privado"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Donan empresarios colchones para dormitorios al Heroico Cuerpo de Bomberos"
 front: false
 section: "Local"
-news_id: 188778
+redirect_from: /news/188778
 ---
 
 Empresarios que conforman el Grupo Red y 30 Norte, hicieron entrega al Gobierno Municipal, un total de 65 colchones para las camas de los bomberos de las cinco estaciones existentes en la capital para beneficio de los héroes sin capa.

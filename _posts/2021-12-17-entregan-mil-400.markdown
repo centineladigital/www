@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Bomberos recibieron botas tácticas y chamarras como parte de los 100 días de trabajo resultados"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan mil 400 chalecos antibalas a policías municipales"
 front: false
 section: "Local"
-news_id: 190973
+redirect_from: /news/190973
 ---
 
 El Gobierno Municipal hizo entrega de mil 400 nuevos chalecos antibalas a agentes de la Policía Municipal, además de dotar de botas tácticas y chamarras a los elementos del H. Cuerpo de Bomberos en un evento protocolario realizado en las instalaciones del Instituto Superior de Seguridad Chihuahua.

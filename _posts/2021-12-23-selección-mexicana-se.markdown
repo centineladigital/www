@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Tri ocupa el noveno puesto del Top que es liderado por Bélgica, Brasil y Francia "
 image: "/uploads/2021/images-seleccion-mexicana-mantiene-top-nivel.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Selección mexicana se mantiene en Top 10 a nivel mundial por encima de Estados Unidos"
 front: false
 section: "Deportes"
-news_id: 191140
+redirect_from: /news/191140
 ---
 
 La selección belga, que dirige el español Roberto Martínez, cierra el año, por cuarta ocasión consecutiva en lo más alto del ránking FIFA, pero con tan solo 2,1 puntos de ventaja sobre Brasil, en una clasificación en la que México asienta su plaza entre la elite, en el noveno puesto. 

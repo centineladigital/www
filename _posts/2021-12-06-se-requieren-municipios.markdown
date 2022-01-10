@@ -16,11 +16,11 @@ author: nil
 description: "Tienen que hacer adecuaciones a las mismas, con respecto al DAP. "
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-04_at_11.18.43_AM-1.jpeg"
 video: "/uploads/2021/videos-BL04_EDGAR_PIÑON_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se requieren municipios fuertes ante el cobro DAP "
 front: false
 section: "Local"
-news_id: 190560
+redirect_from: /news/190560
 ---
 
 El estado de Chihuahua debe contar con municipios fuertes, y con herramientas presupuestales, para poder cumplir en la otorgación de los servicios básicos, tan esenciales y sentidos en la vida de las personas, expuso el diputado Edgar Piñón tras aprobar la ampliación del plazo para que los 67 municipios entreguen ante el Congreso del Estado, sus leyes de ingresos para el año 2022.

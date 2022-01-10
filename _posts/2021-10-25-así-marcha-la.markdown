@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El América marcha en primer lugar, mientras que el Atlas sigue sumando unidades para no dejar el subliderato. Muchos equipos están en la disputa por un lugar en el repechaje"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así marcha la tabla de la Liga MX tras la jornada 15 del Apertura 2021"
 front: false
 section: "Deportes"
-news_id: 189136
+redirect_from: /news/189136
 ---
 
 El América del entrenador argentino Santiago Solari venció el sábado por 1-0 a los Tigres UANL y se confirmó como el mejor equipo del fútbol mexicano al amarrar el liderato y clasificarse a los cuartos de final del torneo Apertura. 

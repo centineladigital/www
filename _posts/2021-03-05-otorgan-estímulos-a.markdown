@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exhortan a aprovechar estos beneficios dentro del municipio."
 image: "/uploads/2021/images-NAVARRO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV04.mp3"
 alt: "Otorgan estímulos a empresarios dedicados a espectáculos públicos"
 front: false
 section: "Local"
-news_id: 183308
+redirect_from: /news/183308
 ---
 
 Un descuento de un 50 por ciento para permisos que otorga la Subdirección de Gobernación es lo que se está otorgando a empresarios con el fin de incentivar actividades, fue lo que dio a conocer la Regidora que preside la Comisión de Cultura, Flor Navarro Pastrana.

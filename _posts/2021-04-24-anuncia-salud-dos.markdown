@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Podrán operar servicios hospitalarios y equipos médicos, privados o públicos, clínicas, laboratorios, rayos X, veterinarias y farmacias en local independiente"
 image: "/uploads/2021/images-Diapositiva10.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia Salud dos súper cierres contra contagios; el primero este fin de semana"
 front: false
 section: "Local"
-news_id: 184093
+redirect_from: /news/184093
 ---
 
 Con el fin de reducir la movilidad en el estado de Chihuahua y frenar el número de contagios de COVID-19, se aplicarán dos "súper cierres", el primero este fin de semana, con prohibición de apertura de supermercados y actividades no esenciales en sábados y domingos.

@@ -10,11 +10,11 @@ author: nil
 description: "Afirman que es juez y parte en el caso de despojo en la comunidad de Mogótavo."
 image: "/uploads/2021/images-HORACIO.jpg"
 video: "/uploads/2021/videos-ML01_HORACIO_ALMANZA.mp4"
-audio: "nil"
+audio: nil
 alt: "Piden colectivo en antropología destitución de titular de la COEPI"
 front: false
 section: "Local"
-news_id: 189849
+redirect_from: /news/189849
 ---
 
 Integrantes del colectivo de Antropólogas y Antropólogos de Observadores de los Derechos Indígenas han solicitado la destitución del titular de la COEPII, Enrique Alonso Rascón, esto por formar parte del grupo que busca despojar y desplazar de su territorio a rarámuris de la comunidad de Mogótavo.

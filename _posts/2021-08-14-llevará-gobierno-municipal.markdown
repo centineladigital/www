@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se pide a los vecinos de Pavis Borunda, Aires del Sur, Las Malvinas, Los Pinos y Revolución, estar atentos del programa de limpieza"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llevará Gobierno Municipal el Destilichadero a seis colonias la próxima semana"
 front: false
 section: "Local"
-news_id: 186711
+redirect_from: /news/186711
 ---
 
 El Gobierno Municipal a través de los Guardianes Ecológicos de la Dirección de Servicios Públicos, lleva a cabo cada semana la programación y operación del servicio de Destilichadero en distintas colonias de la ciudad, para retirar todos aquellos residuos de gran volumen que se almacenan en las casas y que ya no tienen ningún uso.

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se esperan temperaturas de 0 a -5 grados centígrados en municipios de la zona serrana"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Protección Civil aviso preventivo por vientos fuertes y descenso de temperatura"
 front: false
 section: "Local"
-news_id: 189474
+redirect_from: /news/189474
 ---
 
 La Coordinación Estatal de Protección Civil emitió un aviso preventivo ante la posible presencia de vientos fuertes y de bajas temperaturas en municipios de la zona serrana del estado, ante la aproximación de un nuevo sistema frontal procedente del estado de Texas, Estados Unidos.

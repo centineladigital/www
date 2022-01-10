@@ -16,11 +16,11 @@ author: nil
 description: "La ley que el diputado expuso aborda una solución para la sociedad, sobre todo a las mujeres "
 image: "/uploads/2021/images-Gabriel-Garcia-Cantu.pausa_.mx_.jpeg"
 video: "/uploads/2021/videos-BW04_GARCIA_CANTU.mp4"
-audio: "nil"
+audio: nil
 alt: "Cantú propone exhibir a generadores de violencia "
 front: false
 section: "Local"
-news_id: 190174
+redirect_from: /news/190174
 ---
 
 Ante el inminente aumento de la violencia intrafamiliar , el diputado Gabriel García Cantú presento una propuesta ante el pleno del Congreso del Estado  la cual tiene como fin dar a conocer a personas que ya han sido sentenciadas por la Comisión del delito de Violencia Familiar en cualquiera de sus modalidades y por delitos de índole sexual.

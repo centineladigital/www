@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Paty Cantú y Juanpa Zurita prendieron las redes sociales al compartir imágenes juntos después de una cena. ¿Son pareja? ¿Sólo son amigos? Te contamos lo que sabemos. "
 image: "/uploads/2021/images-paty-cantu-juanpa-zurita-novios.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Son novios? Paty Cantú y Juanpa Zurita comparten fotos juntos; desatan rumores de romance"
 front: false
 section: "Espectáculos"
-news_id: 182926
+redirect_from: /news/182926
 ---
 
 Paty Cantú y Juanpa Zurita rompieron las redes sociales, luego de que ambos compartieran una publicación en Instagram en donde aparecen juntos. Esto luego de que desde que el año pasado, durante la segunda temporada de Quién es la Máscara, coincidieran –el youtuber como juez y la cantante como participante con el personaje de Mapache–. En ese momento, cuando se reveló la identidad de Cantú, el influencer no dudó en invitarla a salir. Por ello, el hecho de que los dos hayan compartido que estuvieron juntos en pleno día de San Valentín, logró que se  prendieran las alarmas. ¿Tienen una relación amorosa? ¿Son pareja? Te contamos lo que sabemos. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Según The Washington Post, los asesores de los Control y la Prevención de Enfermedades analizarán hoy los recientes informes sobre la monodosis."
 image: "/uploads/2021/images-vacuna-janssen-de-johnson-johnson.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reportan que vacuna de J& J volverá a ser evaluada en EU por nuevos casos de coágulos"
 front: false
 section: "Internacional"
-news_id: 190912
+redirect_from: /news/190912
 ---
 
 Los límites de uso de la vacuna contra covid-19 de Johnson & Johnson serán evaluados hoy por los asesores de estos compuestos de los Centros para el Control y la Prevención de Enfermedades (CDC, por su sigla en inglés), esto por los problemas continuos de coágulos sanguíneos en determinados grupos de la población, según revela The Washington Post. 

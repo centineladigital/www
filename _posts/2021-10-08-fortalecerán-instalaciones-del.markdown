@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Recorrió alcalde las instalaciones y conoció el funcionamiento del centro"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fortalecerán instalaciones del CEDIPOL en beneficio de policías, bomberos y sus familias"
 front: false
 section: "Local"
-news_id: 188526
+redirect_from: /news/188526
 ---
 
 El presidente Municipal, Marco Bonilla Mendoza, durante un recorrido realizado el día de hoy en el Centro de Desarrollo Integral Policial (CEDIPOL), se comprometió con fortalecer las instalaciones e incentivar el uso del lugar en beneficio de los agentes de la Policía Municipal, Bomberos, Protección Civil y sus familias.

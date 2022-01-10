@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Conoce todos los detalles para que no te pierdas el duelo entre los blaugranas y la escuadra de los mexicanos Andrés Guardado y Diego Lainez "
 image: "/uploads/2021/images-barcelona-vs-real-betis-horario_0_1_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Barcelona vs Real Betis -  Horario y dónde ver EN VIVO, La Liga de España"
 front: false
 section: "Deportes"
-news_id: 190460
+redirect_from: /news/190460
 ---
 
 Las emociones en el futbol europeo continúan. El Barcelona sigue buscando recuperar la confianza de sus aficionados y buscarán un triunfo más en La Liga cuando se enfrenten al Real Betis de Andrés Guardado y Diego Lainez este 4 de diciembre en punto de las 09:15 horas.  

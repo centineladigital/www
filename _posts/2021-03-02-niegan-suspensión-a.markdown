@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pueden volver agenda nueva fecha para audiencia inicial"
 image: "/uploads/2021/images-maru_campos_audiencia.jfif"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Niegan suspensión a Maru, no hubo omisión resuelve juez"
 front: false
 section: "Local"
-news_id: 183216
+redirect_from: /news/183216
 ---
 
 Tras el empate 271/2021 que tramitó la defensa de María Eugenia Campos Galván, para suspender la audiencia inicial del 24 de febrero, el Juzgado Octavo de Distrito, negó la suspensión definitiva del acto reclamado, toda vez que no hubo omisiones de la autoridad.

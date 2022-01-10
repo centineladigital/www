@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El canciller Marcelo Ebrard dijo que se cuenta con la sustancia necesaria para envasar alrededor de 2 millones de dosis; prevé tener listas el 6 de marzo para su evaluación"
 image: "/uploads/2021/images-2537862.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En marzo se empieza a usar la vacuna de CanSino -  Ebrard"
 front: false
 section: "Nacional"
-news_id: 183218
+redirect_from: /news/183218
 ---
 
 El canciller Marcelo Ebrard informó que a finales de marzo se empieza a usar la vacuna de CanSino.

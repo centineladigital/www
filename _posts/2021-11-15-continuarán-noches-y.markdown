@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El jueves de esta semana la temperatura máxima será de 17°C y la mínima de 7°C"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continuarán noches y mañanas frescas en la capital -  toma precauciones"
 front: false
 section: "Local"
-news_id: 189856
+redirect_from: /news/189856
 ---
 
 La Coordinación Municipal de Protección Civil informa que las noches y mañanas seguirán frescas en la ciudad, por lo cual se exhorta a tomar medidas necesarias para prevenir afectaciones de salud derivadas de las bajas temperaturas, esto de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional de CONAGUA.

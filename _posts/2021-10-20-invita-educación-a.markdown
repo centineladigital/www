@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Para consultar las bases y proceso de inscripción accesar a la página http://sec.chihuahua.gob.mx/sae/"
 image: "/uploads/2021/images-POSTER_XXIV_CONVOCATORIA_EL_QUIJOTE_2021.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Educación a participar en concurso estatal de lectura  “Don Quijote Nos Invita a Leer”"
 front: false
 section: "Local"
-news_id: 188981
+redirect_from: /news/188981
 ---
 
 Gobierno del Estado, a través de la Secretaría de Educación y Deporte (SEyD), invita a la comunidad estudiantil, personal docente y directivo de  los niveles de Preescolar, Primaria, Secundaria, Media Superior y Normal, a participar en el 24° Concurso Estatal de Lectura “Don Quijote Nos Invita a Leer”.

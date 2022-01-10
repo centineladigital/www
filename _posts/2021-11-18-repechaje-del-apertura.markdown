@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Conoce cuándo y a qué hora serán los partidos de la repesca, en busca de los boletos a los cuartos de final. "
 image: "/uploads/2021/images-fechas-horarios-repechaje-apertura-liga_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Repechaje del Apertura 2021 de la Liga MX -  horarios y dónde ver EN VIVO los partidos"
 front: false
 section: "Deportes"
-news_id: 189951
+redirect_from: /news/189951
 ---
 
 Quedaron definidas las fechas y horarios de los partidos del repechaje del Apertura 2021 de la Liga MX, instancia en la que ocho equipos estarán peleando los cuatro boletos que los lleven a los cuartos de final, donde ya esperan América, Atlas, León y Tigres. 

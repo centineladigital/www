@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con apoyos en transporte foráneo, funerarios, económicos únicos y condonación en costo de actas del Registro Civil y de no antecedentes penales en septiembre y octubre   "
 image: "/uploads/2021/images-unnamed_(9).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Beneficia Desarrollo Humano y Bien Común a más de 3 mil 700 personas vulnerables"
 front: false
 section: "Local"
-news_id: 189655
+redirect_from: /news/189655
 ---
 
 Durante los meses de septiembre y octubre, la Secretaría de Desarrollo Humano y Bien Común (SDHyBC) benefició a 3 mil 779 personas en situación vulnerable con apoyos de transporte foráneo, funerarios, económicos únicos y condonación en el pago de actas del Registro Civil y cartas de no antecedentes penales.

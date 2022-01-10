@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Es Chihuahua, municipio de vanguardia con índices positivos para los inversionistas"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-05_at_15.25.42.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Audio_Marco_Bonilla_Safran.mp3"
 alt: "Inaugura alcalde nueva planta SAFRAN en la ciudad; generará 600 empleos directos "
 front: false
 section: "Local"
-news_id: 188401
+redirect_from: /news/188401
 ---
 
 El presidente municipal Marco Bonilla Mendoza inauguró las nuevas instalaciones de la planta “SAFRAN Cabin Site” en la ciudad, la cual generará un total de 600 empleos directos y que se especializa en la realización de las cabinas de las aeronaves Boeing 373.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante colombiana no pudo evitar mostrar su sorpresa e incomodidad cuando vio a Pink lucir la misma prenda que ella. "
 image: "/uploads/2021/images-shakira-lucio-vestido-pink-alfombra.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Sácame de aquí! -  El día que Shakira lució el mismo vestido que Pink en una alfombra roja; ésta fue su reacción"
 front: false
 section: "Espectáculos"
-news_id: 190095
+redirect_from: /news/190095
 ---
 
 Las alfombra rojas son claves para que las estrellas den a conocer sus nuevos proyectos, al mismo tiempo que presumen sus lujosos y elegantes looks que les traen contratos con importantes marcas de ropa o joyas. En ocasiones algunos viven incómodos momentos, desde aparatosas caídas hasta reencuentros con sus ex, pero sin duda la peor pesadilla de cualquier famosa es usar el mismo vestido que otra celebridad, tal como le pasó a Shakira.  El incidente tuvo lugar durante la entrega de los Video Music Awards, de MTV (VMA's) en 2009. Shakira desfilaba en la alfombra roja luciendo un mini vestido tipo strapless de cuero con aplicaciones de cadenas, que pertenecía a la firma Balmain. La cantante se detuvo a dar una entrevista en zona de prensa, fue entonces que se enteró de que Pink portaba la misma prenda que ella. 

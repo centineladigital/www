@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pablo Mendizábal, hijo de Lilia Aragón reveló la causa del fallecimiento de su madre y contó qué es lo que hará la familia de la actriz para despedirla. "
 image: "/uploads/2021/images-aragon.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fue cuestión de ocho días -  Hijo de Lilia Aragón revela la causa de la muerte de la actriz"
 front: false
 section: "Espectáculos"
-news_id: 186280
+redirect_from: /news/186280
 ---
 
 Este 2 de agosto la Asociación Nacional de Actores informó la muerte de Lilia Aragón, sin duda, la noticia tomó por sorpresa al mundo del espectáculo en México y hasta hace poco se desconocía la causa de la muerte de la actriz, pero su hijo, Pablo Mendizábal dio las primeras declaraciones. En entrevista con Javier Poza, el hijo de Lilia Aragón contó que hace unos días la actriz se había sometido a una operación por un problema en el intestino delgado de la cual ya no se recuperó. 

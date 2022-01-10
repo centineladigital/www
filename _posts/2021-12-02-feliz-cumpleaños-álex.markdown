@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este 2 de diciembre el Poblano Distinguido cumple 69 años de edad y 53 años con El Tri."
 image: "/uploads/2021/images-escultura-alex-lora-analco-melanie.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Feliz cumpleaños Álex Lora! El poblano cumple 69 años"
 front: false
 section: "Espectáculos"
-news_id: 190446
+redirect_from: /news/190446
 ---
 
 El poblano José Alejandro Lora Serna, mejor conocido como Álex Lora, celebra este martes 2 de diciembre su cumpleaños número 69. A la par, junto con su agrupación El Tri, está conmemorando su aniversario 53 rockanroleando, y para ello están desarrollando su tour denominado Las piedras se vuelven a encontrar, misma que inició el pasado 23 de octubre y con la que cumplió presentaciones en distintas ciudades de Estados Unidos, como Chicago, Houston y Nueva York. Aunque Lora realizó presentaciones como solista vía zoom y con el apoyo de estaciones de radio, estuvo poco más de un año alejado de los escenarios debido a la pandemia por SARS-CoV-2. 

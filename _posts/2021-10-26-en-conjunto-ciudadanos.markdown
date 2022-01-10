@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Invita vecina a hacer uso del 911 para concretar acciones y dar solución a problemas"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En conjunto ciudadanos, trabajadores y policías limpian vivienda abandonada"
 front: false
 section: "Local"
-news_id: 189206
+redirect_from: /news/189206
 ---
 
 El pasado fin de semana, el Gobierno Municipal a través de la Dirección de Servicios Públicos Municipales, en conjunto con la Dirección de Seguridad Pública Municipal, a través del área de Policía de Proximidad, brindó apoyo para limpiar una vivienda abandonada en la colonia Progreso Nacional, al norte de la ciudad.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los cursos tienen una duración de cuatro semanas  "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Amplia DIF Estatal  períodos de inscripción para cursos de natación   "
 front: false
 section: "Local"
-news_id: 188643
+redirect_from: /news/188643
 ---
 
 El DIF Estatal Chihuahua, invita a la población en general a los cursos de natación que se desarrollan de lunes a viernes en la Alberca DIF, ubicada en la avenida Tecnológico 2903, Magisterial Universidad en la ciudad de Chihuahua.

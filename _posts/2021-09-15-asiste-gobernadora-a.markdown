@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Como seguimiento de las estrategias del Gobierno del Estado para la seguridad de las y los chihuahuenses"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-15_at_14.03.20.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asiste Gobernadora a la Mesa Estatal de Seguridad en la ciudad de Chihuahua"
 front: false
 section: "Local"
-news_id: 187762
+redirect_from: /news/187762
 ---
 
 Como seguimiento de las estrategias del Gobierno del Estado para la seguridad de las y los chihuahuenses, además de tener el primer contacto formal con temas de incidencia delictiva en el estado, la gobernadora Maru Campos Galván acudió a la Mesa Estatal de Seguridad en la ciudad de Chihuahua.

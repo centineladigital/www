@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal trabaja de forma permanente en la atención y limpieza parques, jardines y camellones de toda la ciudad para mantener en buenas condiciones estos espacios públicos."
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-08_at_10.32.28.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabaja Gobierno Municipal en atención de 17 parques de la colonia Alamedas"
 front: false
 section: "Local"
-news_id: 188520
+redirect_from: /news/188520
 ---
 
 Con el objetivo de brindar una buena imagen urbana, el Gobierno Municipal a través de la Dirección de Mantenimiento Urbano, trabaja en la limpieza y atención de 17 parques ubicados en la colonia Alamedas al norte de la ciudad.

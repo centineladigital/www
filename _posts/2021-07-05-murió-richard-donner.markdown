@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En sus últimos años activo, fue el productor ejecutivo de la taquillera 'X-Men' (2000) y su precuela 'X-Men Origins: Wolverine' (2009). "
 image: "/uploads/2021/images-tambien-fue-productor-de-la.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Richard Donner, director de 'Superman' y 'Los Goonies', a los 91 años"
 front: false
 section: "Espectáculos"
-news_id: 185388
+redirect_from: /news/185388
 ---
 
 El gremio del cine está de luto, pues Richard Donner, considerado por algunos cinéfilos como el 'padre' de las películas de superhéroes por la realización de la cinta Superman (1978), falleció este lunes a los 91 años, informaron sus allegados. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Stefanía de Aranda, esposa de Emir Pabón, saldrá del hospital tras accidente automovilístico; agradece su bebé está bien tras accidente automovilístico. "
 image: "/uploads/2021/images-stefania-aranda-conto-penso-iba.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pasé unas semanas muy duras -  Esposa de Emir Pabón saldrá de hospital tras aparatoso accidente"
 front: false
 section: "Espectáculos"
-news_id: 185350
+redirect_from: /news/185350
 ---
 
 Tras estar casi tres semanas hospitalizada, Stefanía de Aranda, esposa de Emir Pabón, será dad de alta después de que ella y el integrante de Grupo Cañaveral sufrieran in aparatoso accidente en Estados Unidos el cual provocó que la conductora fuera ingresada a terapia intensiva, esto cuando tiene seis meses de embarazo. 

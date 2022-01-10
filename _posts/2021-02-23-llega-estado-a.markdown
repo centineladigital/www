@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Secretaría de Salud reporta 53 mil 267 contagios con 143 nuevos casos; además confirma 33 defunciones más en Juárez, Chihuahua, Delicias, Parral, Cuauhtémoc, Saucillo, Jiménez, López y Guazapares"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llega estado a 5 mil personas fallecidas por COVID-19"
 front: false
 section: "Local"
-news_id: 183106
+redirect_from: /news/183106
 ---
 
 La Secretaría de Salud informó que este día se tienen en el estado de Chihuahua un total general de 53 mil 267 casos confirmados de COVID-19, con 143 nuevos contagios.

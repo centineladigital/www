@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Forman bolsa de 85 millones de pesos."
 image: "/uploads/2021/images-AMANDA_CORDOBA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML01_AMANDA_CORDOVA.mp3"
 alt: "Destinan recursos dependencias municipales para contingencia"
 front: false
 section: "Local"
-news_id: 181865
+redirect_from: /news/181865
 ---
 
 Con el fin de seguir tratando el tema de contingencia sanitaria, cada una de las áreas que conforman el municipio deberá de contar con un apartado para el tema de la pandemia, señaló la Tesorera Municipal, Amanda Córdova.

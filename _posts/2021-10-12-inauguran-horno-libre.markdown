@@ -7,12 +7,12 @@ tags:
 author: nil
 description: " Incrementa la calidad de las piezas, disminuye los costos de producción y erradica las muertes ocasionadas por enfermedades derivadas por la inhalación de humo de las quemas tradicionales   "
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inauguran horno libre de humo para alfarería en el municipio de Madera"
 front: false
 section: "Local"
-news_id: 188639
+redirect_from: /news/188639
 ---
 
 El Gobierno del Estado inauguró en la comunidad de Mesa Blanca, municipio de Madera, uno de los 5 hornos construidos con la patente desarrollada por la Escuela Nacional de Cerámica, para disminuir costos de producción y erradica las muertes ocasionadas por inhalación de humo.

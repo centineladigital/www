@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La misión de la OMS que investiga el origen del covid-19 en China visita el Instituto de Virología de Wuhan, señalado por teorías conspirativas como el lugar donde ocurrió el primer brote"
 image: "/uploads/2021/images-2522946.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Misión de la OMS accede al misterioso Instituto de Virología de Wuhan"
 front: false
 section: "Internacional"
-news_id: 182653
+redirect_from: /news/182653
 ---
 
 Un equipo de investigadores liderado por la Organización Mundial de la Salud (OMS) visitó este miércoles un laboratorio de investigación de virus en la ciudad central china de Wuhan y se reunió con una destacada viróloga en el lugar, en el marco de su búsqueda de pistas sobre los orígenes de la pandemia de covid-19.

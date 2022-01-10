@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Informó dentro de los primeros 100 días de trabajo y resultados como parte del eje “Gobierno Eficaz”"
 image: "/uploads/2021/images-unnamed_(17).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Destaca Alcalde haber invertido más de 196 millones de pesos en obras públicas y servicios"
 front: false
 section: "Local"
-news_id: 191044
+redirect_from: /news/191044
 ---
 
 Tras haber concluido los primeros 100 días de trabajo y resultados, el alcalde de Chihuahua, Marco Bonilla, dio a conocer las acciones que se llevaron a cabo en el eje denominado “Gobierno Eficaz”, el cual se distingue por acciones que van desde la transparencia y honestidad, hasta una agenda política humanista y obras materiales de alto impacto para las familias chihuahuenses.

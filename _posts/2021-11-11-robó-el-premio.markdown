@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante sufrió un bochornoso episodio en pleno escenario cuando la producción perdió el galardón que le sería entregado; Ángela Aguilar tuvo que rescatar la noche. "
 image: "/uploads/2021/images-pepe-aguilar-hija-angela-sufren_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Robó el premio -  Pepe Aguilar vive incómodo momento en Premios de la Radio; Ángela improvisa"
 front: false
 section: "Espectáculos"
-news_id: 189781
+redirect_from: /news/189781
 ---
 
 Los Premios de la Radio celebraron su edición 2021 la noche del pasado miércoles con la participación de las grandes estrellas de la música regional mexicana, entre ellas Aída Cuevas, Ana Bárbara, Grupo Firme y muchos más. También estuvieron presentes Pepe Aguilar y sus hijos, Leonardo y Ángela; sin embargo, el intérprete de "Ni contigo ni sin ti" sufrió un incómodo momento mientras recibía un reconocimiento por su destacada trayectoria, pues la producción perdió su premio.  Durante la gala en la que se reconoció a los artistas más populares de la música mexicana, la organización otorgó el premio especial "Los grandes de la música" a Pepe Aguilar, mismo que se tenía planeado le fuera entregado por su hija Ángela Aguilar, pero los cantantes sufrieron un bochornoso episodio en pleno escenario.  

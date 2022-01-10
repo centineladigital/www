@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Para todos los fans de Dua Lipa hay buenas noticias, ya que la cantante se presentará en México. Te contamos todos los detalles. "
 image: "/uploads/2021/images-dua-lipa-twitter.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Regresa a México! Dua Lipa se presentará en CdMx y Monterrey con su gira 'Future Nostalgia'"
 front: false
 section: "Espectáculos"
-news_id: 190711
+redirect_from: /news/190711
 ---
 
 Dua Lipa regresará a México el próximo año, sin duda, es una buena noticia para todos los fans de la cantante que ha causado sensación con su último disco llamado Future Nostalgia, el cual también  le da nombre a su gira que llegará a nuestro país.  Aunque Dua Lipa sacó su último disco en 2020, debido a la pandemia no había podido realizar su gira, pero ahora que las actividades se están retomando, la cantante vio la oportunidad de venir a México tras el éxito que ha conseguido en estos años.  

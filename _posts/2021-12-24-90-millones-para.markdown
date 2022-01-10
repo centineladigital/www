@@ -14,11 +14,11 @@ author: nil
 description: "Las luminarias LED ahorran un 80 por ciento de energía"
 image: "/uploads/2021/images-index.jpg"
 video: "/uploads/2021/videos-BV01_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "90 millones para la sustitución de luminarias LED"
 front: false
 section: "Local"
-news_id: 191208
+redirect_from: /news/191208
 ---
 
 “Solo en este año 2021 se destinaran 90 millones de pesos para la sustitución de luminarias LED en la ciudad” comentó el alcalde  Marco Bonilla en virtud a el encendido de luces en la avenida Zaragoza, en palabras del edil esto dará seguridad a la comunidad.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se invita a los interesados en formar parte de este programa, estar pendientes de la convocatoria del próximo año"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Benefician a 8 mil 215 abuelitos con apoyo alimentario   "
 front: false
 section: "Buenas Noticias"
-news_id: 191074
+redirect_from: /news/191074
 ---
 
 Dentro de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, concluyó con la última entrega del apoyo que se otorga a través del Programa Alimentario para el Adulto Mayor (PAAM) 2021, con el que se benefició a 8 mil 215 abuelitos.

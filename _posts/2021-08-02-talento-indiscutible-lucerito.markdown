@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La hija de Manuel Mijares y Lucero sorprendió al interpretar el tema 'Se me olvidó olvidarte' junto a la cantante Kaia Lana. "
 image: "/uploads/2021/images-lucerito-mijares-revelo-carrera-artistica.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Talento indiscutible! Lucerito Mijares canta en vivo y cautiva con su poderosa voz"
 front: false
 section: "Espectáculos"
-news_id: 186185
+redirect_from: /news/186185
 ---
 
 Lucerito Mijares no deja de sorprende a sus seguidores con su pasión por la música y su innato talento, que sin duda heredó de sus padres, Lucero y Manuel Mijares. Desde su participación en la puesta en escena La jaula de las locas hasta su actuación en los conciertos familiares en streaming, la cantante se ha ganado el reconocimiento del público con tan sólo 16 años de edad.  

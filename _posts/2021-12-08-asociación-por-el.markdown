@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Asociación por el Control de Armas nominó al canciller y al gobierno de México por la demanda entablada contra armerías estadounidenses"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asociación por el Control de Armas nomina a Marcelo Ebrard como “persona del año”"
 front: false
 section: "Nacional"
-news_id: 190617
+redirect_from: /news/190617
 ---
 
 La Asociación por el Control de Armas (Arms Control Association) nominó al canciller Marcelo Ebrard y al gobierno mexicano como “Persona del Año” por la demanda entablada contra armerías estadounidenses.

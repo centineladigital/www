@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante presentará un concierto a voz y piano en el Auditorio Nacional, como parte de su gira Minage, el próximo 22 de enero.  "
 image: "/uploads/2021/images-sera-una-presentacion-en-la_0_34_448_278.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“México es mi casa” -  Mónica Naranjo"
 front: false
 section: "Espectáculos"
-news_id: 189364
+redirect_from: /news/189364
 ---
 
 La gira que comenzó en octubre de 2020 pretendía llegar a México en los primeros meses de este año; sin embargo, tuvo que posponerse, pero finalmente arribará el 22 enero de 2022, día en que Mónica Naranjo encenderá el Auditorio Nacional con su música. Este periodo de pandemia significó una oportunidad para que Mónica pusiera en marcha e hiciera realidad su gira Puro Minage, que contaba con especificaciones que iban de la mano con las medidas de bioseguridad y, al mismo tiempo, le permitían continuar trabajando. Show minimalista El espectáculo se llevará a cabo en un formato muy particular, el cual ideó junto a su pianista Pepe Herrero incluso antes de entrar en pandemia.

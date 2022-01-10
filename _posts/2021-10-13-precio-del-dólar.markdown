@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Conoce el precio del dólar hoy miércoles en bancos. "
 image: "/uploads/2021/images-tipo-de-cambio-peso-dolar-109.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Precio del dólar hoy -  Peso avanza levemente tras cifras de inflación en EU"
 front: false
 section: "Internacional"
-news_id: 188671
+redirect_from: /news/188671
 ---
 
 Al iniciar operaciones, el peso registra hoy miércoles fue de hasta 21.23 pesos en bancos. En tanto, el tipo de cambio interbancario se ubica en 20.75 pesos por dólar, con un ligero repunte de 0.09 por ciento. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En Chihuahua, Juárez, Ascensión, Janos y Parral, el Estado otorga capacitación en manualidades, bisutería, fotografía, lengua de señas mexicanas, motricidad, tejido y bordado, entre otros "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-24_at_10.25.56.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Escuela de Artes y Oficios imparte talleres virtuales a 200 personas mayores y/o con discapacidad "
 front: false
 section: "Local"
-news_id: 188022
+redirect_from: /news/188022
 ---
 
 La Secretaría de Desarrollo Humano y Bien Común (SDHBC) de Gobierno del Estado, dio a conocer que actualmente, a través de la Escuela de Artes y Oficios, se imparten talleres virtuales a 200 personas mayores y/o con discapacidad en varios municipios.

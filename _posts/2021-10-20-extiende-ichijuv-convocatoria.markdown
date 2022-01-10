@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con la intención de sumar a más mujeres, la convocatoria para participar se extiende hasta el viernes 29 de octubre   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Extiende ICHIJUV convocatoria para Red de Mujeres en la Ciencia"
 front: false
 section: "Local"
-news_id: 188973
+redirect_from: /news/188973
 ---
 
 El Gobierno del Estado, a través del Instituto Chihuahuense de la Juventud (Ichijuv), invita a las chihuahuenses para que se registren en la “Red de Mujeres en la Ciencia” donde podrán mostrar sus proyectos en los ámbitos de ciencia y tecnología.

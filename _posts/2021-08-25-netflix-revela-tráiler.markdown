@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Maya y los tres llegará en el otoño de este mismo año en exclusiva pro Netflix. "
 image: "/uploads/2021/images-maya-y-los-tres-netflix.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Netflix revela tráiler de 'Maya y los tres', miniserie inspirada en culturas maya y azteca"
 front: false
 section: "Espectáculos"
-news_id: 187092
+redirect_from: /news/187092
 ---
 
 Netflix sorprendió la mañana de este martes con el estreno del tráiler oficial de 'Maya y los tres', una miniserie de animación que está inspirada en características de culturas mesoamericanas como la maya, azteca e inca, así como en la cultura caribeña contemporánea. 

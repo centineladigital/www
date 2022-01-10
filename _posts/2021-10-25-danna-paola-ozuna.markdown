@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Academia Latina de la Grabación anunció que la entrega del gramófono a lo mejor de la música, el próximo 18 de noviembre, será una gran fiesta de ritmos; en la que se aplicarán diversas medidas sanitarias por el covid-19. "
 image: "/uploads/2021/images-danna-paola-ozuna-cantaran-grammy.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Danna Paola, Ozuna y El Recodo pondrán ritmo a la entrega del Grammy Latino 2021"
 front: false
 section: "Espectáculos"
-news_id: 189148
+redirect_from: /news/189148
 ---
 
 Los cantantes Danna Paola, Ozuna y C. Tangana, así como Rubén Blades, Nella y Ozuna, quienes también están nominados este año, pondrán el ambiente musical con sus diferentes ritmos a la 22 entrega del Grammy Latino, que se llevará a cabo el próximo jueves 18 de noviembre. La Academia Latina de la Grabación anunció también que la Banda El Recodo de Cruz Lizárraga, Calibre 50, La Arrolladora Banda El Limón de René Camacho y Los Dos Carnales participarán en el programa estelar de la esperada gala. 

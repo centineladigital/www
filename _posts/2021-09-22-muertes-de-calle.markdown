@@ -10,11 +10,11 @@ author: nil
 description: "Descartan que haya sido por problemas relacionadas con drogas."
 image: "/uploads/2021/images-ROBERTO.jpg"
 video: "/uploads/2021/videos-MW04_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Muertes de calle Palestina no se relaciona con crimen organizado"
 front: false
 section: "Local"
-news_id: 187961
+redirect_from: /news/187961
 ---
 
 La masacre de familia de la Palestina no se encuentra relacionada con el crimen organizado, específicamente con el narcotráfico, señaló el fiscal General del Estado, Roberto Fierro Duarte. Señalando que se tienen líneas fuertes de investigación en el caso de la muerte de tres personas, entre ellas una menor de edad.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Zayn Malik fue acusado de golpear a la madre de su ahora ex novia, Gigi Hadid y se ha reportado que la modelo y el cantante terminaron su relación. "
 image: "/uploads/2021/images-zayn-malik-asegura-acusaciones-falsas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Zayn Malik y Gigi Hadid terminan su relación; madre de modelo asegura que cantante la agredió"
 front: false
 section: "Espectáculos"
-news_id: 189390
+redirect_from: /news/189390
 ---
 
 En las últimas horas Gigi Hadid y Zayn Malik están en el “ojo del huracán” ya que se rumora que ambos han terminado su relación después de estar juntos por más de tres años y tener una hija en común. Hasta ahora se sabe que han dado fin a su noviazgo debido a que Yolanda Hadid, madre de la modelo acusó al ex One Direction de haberla agredido. De acuerdo con varios medios, Zayn Malik y Yolanda Hadid tuvieron una discusión el pasado 29 de septiembre en la casa de la familia a las afueras de Filadelfia. Durante la pelea, supuestamente el cantante empujó a la madre de Gigi contra una cómoda, según documentos judiciales. Malik “insultó continuamente” a Yolanda Hadid, dicen los documentos, llamándola una “p... holandesa de m...” y diciéndole que se mantuviera alejada de su hija. 

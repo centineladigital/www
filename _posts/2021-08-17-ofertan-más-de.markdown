@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El evento en la frontera será del 16 al 18 de agosto y en la capital del 17 al 19. Interesados deben acceder a los enlaces: https://bit.ly/RegistroFNEChih para Chihuahua y www.feriasdeempleo.com/cdjuarez2021 para Juárez"
 image: "/uploads/2021/images-Feria_de_Empleo_Ciudad_Chihuahua.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ofertan más de mil vacantes en Ferias de Empleo Virtual para Jóvenes en Chihuahua y Juárez"
 front: false
 section: "Local"
-news_id: 186785
+redirect_from: /news/186785
 ---
 
 En el marco del Día Internacional de la Juventud, el Gobierno del Estado de Chihuahua, a través de la Secretaría del Trabajo y Previsión Social (STPS), invita a participar en la Feria de Empleo Virtual para Jóvenes e Inclusión Laboral 2021 en la ciudad de Chihuahua y en la 3ª. Feria de Empleo Virtual de Ciudad Juárez.

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Las y los regidores avalaron también el reglamento interior de este Instituto"
 image: "/uploads/2021/images-unnamed_(11).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueba Cabildo creación del Instituto Municipal de Prevención y Atención a la Salud"
 front: false
 section: "Local"
-news_id: 190182
+redirect_from: /news/190182
 ---
 
 En la sesión de Cabildo celebrada hoy, las y los regidores del Honorable Ayuntamiento, aprobaron la solicitud que hizo el presidente municipal Marco Bonilla, el pasado 13 de octubre, para crear el Instituto Municipal de Prevención y Atención a la Salud (IMPAS), así como el reglamento interior, para atender las necesidades básicas de salud de los capitalinos.

@@ -14,11 +14,11 @@ author: nil
 description: "Juárez no está preparado para recibir más inmigrantes "
 image: "/uploads/2021/images-loera.jpg"
 video: "/uploads/2021/videos-BW05_JUAN_LOERA.mp4"
-audio: "nil"
+audio: nil
 alt: "Se les debe dar un trato humanitario a los inmigrantes "
 front: false
 section: "Local"
-news_id: 187970
+redirect_from: /news/187970
 ---
 
 El delegado, Juan Carlos Loera De la rosa comentó, que el sentido que se le tiene que dar al tema de inmigración en el estado debe ser humanitario ya que a estas personas se le debe de dar un trato tal como lo establece la ley estatal de protección al migrante.

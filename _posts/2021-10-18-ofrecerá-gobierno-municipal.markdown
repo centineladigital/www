@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se transmitirá el 19 de octubre través de la página de Facebook de la Dirección de Desarrollo Humano y Educación   "
 image: "/uploads/2021/images-unnamed_(14).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ofrecerá Gobierno Municipal plática sobre lucha contra el cáncer de mama   "
 front: false
 section: "Local"
-news_id: 188853
+redirect_from: /news/188853
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación estarán impartiendo la charla “Día Mundial de la Lucha Contra el Cáncer de Mama” en el marco de las actividades del mes de la sensibilización sobre el cáncer de mama.

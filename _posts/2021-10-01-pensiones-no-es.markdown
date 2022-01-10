@@ -14,11 +14,11 @@ author: nil
 description: "El congreso debe apoyar en auditorias "
 image: "/uploads/2021/images-Edin-Cuauhtemoc-Estrada-Sotelo.pausa_.mx_.jpeg"
 video: "/uploads/2021/videos-BV02_EDIN_ESTRADA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Pensiones no es la única  que tiene problemas financieros "
 front: false
 section: "Local"
-news_id: 188297
+redirect_from: /news/188297
 ---
 
 El diputado Edín Estrada señaló que la auditoria superior del estado funge como ayuda para saber verdaderamente como se encuentran las finanzas de algunas dependencias, esto al ser cuestionado sobre su postura sobre las finanzas de pensiones civiles.

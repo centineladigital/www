@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El canciller niega que el embajador del país vecino haya frenado la iniciativa; anuncia que habrá más reuniones y que escucharán a los empresarios de ese país "
 image: "/uploads/2021/images-ken-salazar-acudio-celebracion-anos_27_0_546_339.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU fijará posición sobre reforma eléctrica cuando la conozca -  SRE"
 front: false
 section: "Internacional"
-news_id: 189574
+redirect_from: /news/189574
 ---
 
 El canciller Marcelo Ebrard rechazó que la discusión de la reforma eléctrica se haya aplazado al año próximo por las preocupaciones expresadas por Estados Unidos, mientras Morena acordó salir a las calles a partir del próximo primero de diciembre para defender la iniciativa del presidente Andrés Manuel López Obrador. 

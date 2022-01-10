@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El torneo tendrá una duración de tres sábados más y participarán 380 boxeadores"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca Torneo Box de Barrios con 32 encuentros de talentos locales"
 front: false
 section: "Local"
-news_id: 186482
+redirect_from: /news/186482
 ---
 
 Durante el fin de semana, el Gobierno Municipal de Chihuahua a través del Instituto Municipal de Cultura Física y Deporte llevó a cabo la inauguración del Torneo Box de Barrios, con la primera programación de un total de 32 encuentros boxísticos entre talentos locales.

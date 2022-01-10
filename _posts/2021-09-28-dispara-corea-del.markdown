@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Embajador defendió en la ONU el derecho de su país a probar su tecnología de defensa. El lanzamiento ocurre en un contexto de aceleración de la carrera armamentística con Corea del Sur "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dispara Corea del Norte proyectil no identificado al mar frente a su costa"
 front: false
 section: "Internacional"
-news_id: 188119
+redirect_from: /news/188119
 ---
 
 Corea del Norte disparó un "proyectil no identificado" al mar frente a su costa oriental, indicó este martes el ejército surcoreano. El Estado Mayor de Corea del Sur no ofreció más detalles sobre el suceso en lo inmediato.

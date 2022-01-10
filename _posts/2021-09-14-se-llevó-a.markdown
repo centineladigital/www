@@ -12,11 +12,11 @@ author: nil
 description: "18 y 19 de septiembre con un costo de recuperación de 50 pesos "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-14_at_10.06.17_AM.jpeg"
 video: "/uploads/2021/videos-BM04_JOSE_CORRAL.mp4"
-audio: "nil"
+audio: nil
 alt: "Se llevó  a cabo la presentación del día mundial del turismo"
 front: false
 section: "Local"
-news_id: 187731
+redirect_from: /news/187731
 ---
 
 El  evento se llevará a cabo los días 18 y 19 de septiembre con un costo de recuperación de 50 pesos para los adultos y la entrada a menores gratis, el director de desarrollo económico de municipio José Corral menciono que este evento es significativo por la importancia de los atractivos culturales que tiene Chihuahua.

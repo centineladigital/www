@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante cierre de la frontera con EU, los negocios mexicanos lograron 60 mmdp; esperan no perder clientes"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Reabren frontera entre México y EU; comerciantes nacionales con el reto de mantener ventas"
 front: false
 section: "Nacional"
-news_id: 189627
+redirect_from: /news/189627
 ---
 
 Con la reapertura de la frontera con Estados Unidos, que inició a las 0:00 horas de hoy tras 20 meses de cierre por la pandemia, los comerciantes en la frontera mexicana enfrentan el reto de sostener los 60 mil millones de pesos en ventas que han registrado desde Tijuana, Baja California, hasta Matamoros, Tamaulipas.

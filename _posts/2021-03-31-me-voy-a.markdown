@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente anuncia que la próxima semana recibirá dosis contra Covid-19; afirma que es por recomendación de sus médicos; arriban a México 500 mil vacunas Sputnik V"
 image: "/uploads/2021/images-2554761.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "‘Me voy a vacunar, pero no quiero un espectáculo’ -  López Obrador"
 front: false
 section: "Nacional"
-news_id: 183622
+redirect_from: /news/183622
 ---
 
 La próxima semana el presidente Andrés Manuel López Obrador se vacunará contra Covid-19; sin embargo, aclaró que “no quiero que se haga un espectáculo”.

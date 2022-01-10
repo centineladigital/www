@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Señala Jorge Espinoza que habrá consecuencias legales por imputación de delitos contra el gobernador Javier Corral; son distractores mediáticos para generar confusión en la ciudadanía y desinformarla, pero intrascendentes en los juicios"
 image: "/uploads/2021/images-IMG_9422.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Supuesta carta de Duarte es cortina de humo ante inminente extradición -  Consejero Jurídico"
 front: false
 section: "Local"
-news_id: 187370
+redirect_from: /news/187370
 ---
 
 El consejero jurídico del Gobierno del Estado, Jorge Espinoza Cortés, puso en duda la veracidad de la supuesta carta atribuida al exgobernador César D.J. y señaló que se trata de una cortina de humo de la defensa porque siguen perdiendo todos los procedimientos jurídicos y ante la inminente extradición del exmandatario.

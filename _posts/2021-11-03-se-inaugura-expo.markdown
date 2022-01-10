@@ -20,11 +20,11 @@ author: nil
 description: "Se espera la asistencia de más de mil personas y la generación de una derrama económica superior a los 20 millones de pesos."
 image: "/uploads/2021/images-44BA0117-D59A-4C5C-A261-A1150FBC74D0.jpeg"
 video: "/uploads/2021/videos-BW01_BONILLA_Y_GRANADOS_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se inaugura expo “MÉXICO ASSEMBLY WIRE TECHNOLOGY”"
 front: false
 section: "Local"
-news_id: 189517
+redirect_from: /news/189517
 ---
 
 Los días 3 y 4 de noviembre Chihuahua capital tiene la primera edición de la Expo “México Assembly Wire Technology” (MAWT), a la que se espera la asistencia de más de mil personas y la generación de una derrama económica superior a los 20 millones de pesos.

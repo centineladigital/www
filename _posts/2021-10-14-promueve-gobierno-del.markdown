@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se pretenden expresar la solidaridad al ser parte de este memorial, “manifestando el deseo de que en Chihuahua todas las realidades sean posibles en un ambiente de armonía, perpetuando así la valentía, la lealtad y la hospitalidad”."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Promueve Gobierno del Estado la relevancia de los pueblos originarios con encuentro de culturas apache"
 front: false
 section: "Local"
-news_id: 188753
+redirect_from: /news/188753
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Cultura de Chihuahua, llevó a cabo el Memorial Apache, Batalla de Tres Castillos; el cual fue realizado en coordinación con la Asociación Civil Chihuahua Apache con el propósito de recordar la última lucha por la defensa de dicha sociedad nativa-indígena, donde perdió la vida uno de sus principales líderes, Victorio.

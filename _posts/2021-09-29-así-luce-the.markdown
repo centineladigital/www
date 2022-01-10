@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te mostramos las primeras imágenes de 'The Sandman', la serie basada en el personaje de los cómics de DC creado por Neil Gaiman."
 image: "/uploads/2021/images-the-sandman-netflix.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así luce 'The Sandman', las serie de Netflix basada en el personaje de los cómics de DC"
 front: false
 section: "Espectáculos"
-news_id: 188186
+redirect_from: /news/188186
 ---
 
 Netflix dio el primer vistazo a su serie 'The Sandman', la cual está basada en el personaje creado por el escritor y guionista Neil Gaiman que apareció en los cómics de DC a finales de la década de los años 80.  

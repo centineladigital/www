@@ -10,11 +10,11 @@ author: nil
 description: "Se llevará a cabo del 2 al 3 de diciembre en el Centro de Convenciones."
 image: "/uploads/2021/images-ROBERTO.jpg"
 video: "/uploads/2021/videos-MM03_ROBERTO_LARA.mp4"
-audio: "nil"
+audio: nil
 alt: "Buscan crear acciones para sustentabilidad hídrica"
 front: false
 section: "Local"
-news_id: 190354
+redirect_from: /news/190354
 ---
 
 Este martes fue dado a conocer las conferencias y acciones que se llevarán a cabo dentro del ciclo del Cuarto Congreso Smart Water, el cual se llevará a cabo del 2 al 3 de diciembre en el Centro de Convenciones, teniendo la modalidad de presencial y virtual según fue dado a conocer por parte de Roberto Lara Rocha, titular de la Junta Central de Agua y Saneamiento.

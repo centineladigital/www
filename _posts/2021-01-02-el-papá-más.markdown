@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aunque está de vacaciones, el conductor no deja de compartir su felicidad por el nacimiento de su tercera hija, Carlota. "
 image: "/uploads/2021/images-conductor-compartio-imagenes-recien-nacida.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡El papá más amoroso! Jorge 'El Burro' Van Rankin comparte tierna foto con su bebé"
 front: false
 section: "Espectáculos"
-news_id: 181813
+redirect_from: /news/181813
 ---
 
 Jorge El Burro Van Rankin no deja de compartir en sus redes sociales la felicidad que siente tras el nacimiento de su tercera hija, de nombre Carlota, producto de su relación con Magda Bleizeffer. Instagram es la plataforma donde el famoso ha publicado fotos de su retoño, nacida el pasado 27 de octubre; la más reciente de estas imágenes tuvo lugar durante las vacaciones que Van Rankin está tomando en Cancún. 

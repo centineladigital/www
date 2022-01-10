@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los participantes aprendieron a usar materiales que se encuentran en la cocina"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Concluye con éxito taller en línea de Estampación Gráfica"
 front: false
 section: "Local"
-news_id: 189895
+redirect_from: /news/189895
 ---
 
 Como parte de las actividades de los 100 días de trabajo y resultados, el Gobierno Municipal, a través del Instituto de Cultura del Municipio (ICM), concluyó con el taller de Estampación Gráfica a cargo del artista chihuahuense Carlos Heredia, que se realizó vía Zoom, donde los participantes pudieron aprender técnicas para desarrollar este arte con el uso de materiales que se encuentran de forma fácil en la cocina de cualquier hogar.

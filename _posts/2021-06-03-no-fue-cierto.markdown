@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El comentario de Sergio Mayer de inmediato encendió las redes sociales y se lanzaron en su contra. ¿Por qué lo criticaron? Te decimos lo que sucedió. "
 image: "/uploads/2021/images-critican-sergio-mayer-vivio-acoso.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿No fue cierto? Sergio Mayer revela que vivió 'acoso sexual' en CdMx; redes lo critican"
 front: false
 section: "Espectáculos"
-news_id: 184816
+redirect_from: /news/184816
 ---
 
 Sergio Mayer, ex actor de Televisa, causó polémica en las redes sociales y recibió severas críticas en su contra tras haber declarado que fue víctima de acoso sexual. ¿Por qué generó molestia su declaración? El famoso ocupó su cuenta de Instagram para externar que fue acosado por Issabela Camil –su actual pareja – en la alcaldía Magdalena Contreras. ¿Fue real? ¿Sólo bromeó? Resulta que el también ex integrante de Sólo para Mujeres ocupó la palabra acoso para bromear sobre una muestra de afecto que recibió de parte de su esposa. Por ello, las redes sociales se incendiaron en su contra. 

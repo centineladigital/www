@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Una de las teorías más recientes e impactantes vincula los acontecimientos del último tramo de la serie de Tom Hiddleston precisamente con el final de Wandavision  "
 image: "/uploads/2021/images-loki.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Los finales de Loki y WandaVision están sincronizados? Mira esta teoría"
 front: false
 section: "Espectáculos"
-news_id: 185927
+redirect_from: /news/185927
 ---
 
 ¿Los finales de Loki y WandaVision están sincronizados? Mira esta teoría. Fotos: marvel

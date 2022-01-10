@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con el objetivo de mejorar las áreas de la Tesorería Municipal que brindan atención a la ciudadanía"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacitan a empleados de Tesorería en el uso del SIGMUN"
 front: false
 section: "Local"
-news_id: 186194
+redirect_from: /news/186194
 ---
 
 Con el fin de mejorar la atención a la ciudadanía, el Gobierno Municipal a través de la Tesorería llevo a cabo una capacitación sobre el Sistema de Información Geográfica de Municipio de Chihuahua (SIGMUN) a más de 100 empleados municipales. Esta capacitación tuvo como fin mejorar las áreas de la Tesorería Municipal que brindan atención a la ciudadanía con el uso de esta plataforma, la cual cuenta con varias capas de información que facilitan y simplifican diversos trámites de carácter administrativo.

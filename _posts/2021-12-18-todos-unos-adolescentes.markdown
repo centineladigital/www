@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los hijos de Brad Pitt y Angelina Jolie han crecido y ahora son todos unos adolescentes. Así lucen los jóvenes por los que los actores pelearon su custodia. "
 image: "/uploads/2021/images-lucen-hijos-angelina-jolie-brad_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Todos unos adolescentes! Ellos son los hijos de Angelina Jolie y Brad Pitt"
 front: false
 section: "Espectáculos"
-news_id: 190999
+redirect_from: /news/190999
 ---
 
 Después de haberse divorciado y pasar cinco años en una disputa legal por la custodia de sus hijos, finalmente se ha decidido que Angelina Jolie y Brad Pitt compartan la tutela de sus cuatro hijos menores de edad. Además de los cuatro adolescentes, los actores son padres de un joven, Maddox.  Todo parecía indicar que Angelina Jolie y Brad Pitt eran la pareja perfecta con cinco hijos, tres de ellos a quienes adoptaron y les dieron amor y un nuevo hogar, sin embargo,tras su divorcio se ha revelado que entre Pitt y uno de sus hijos no hay buena relación. Te contamos quienes son los hijos de los actores y cómo han cambiado con el paso de los años. 

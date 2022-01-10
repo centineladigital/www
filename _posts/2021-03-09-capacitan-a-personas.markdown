@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esta es una de las 10 enfermedades que más muertes generan a nivel mundial."
 image: "/uploads/2021/images-CIPATLI.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM05_CIPATLI.mp3"
 alt: "Capacitan a personas para atención de Alzheimer"
 front: false
 section: "Local"
-news_id: 183360
+redirect_from: /news/183360
 ---
 
 Con el fin de capacitar a personas para la atención a pacientes de Alzheimer, este martes fue dado a conocer el curso y el manual de atención. Con esto se busca que se cuenten con las herramientas para el cuidado de este tipo de pacientes, así como el hecho de que se lleva a cabo acciones para el beneficio tanto del cuidador como de quien depende de él.

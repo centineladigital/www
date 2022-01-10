@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Usuarios pueden acudir a los cajeros 24 horas ubicados en las sucursales Ocampo, Vallarta, Saucito y centros de pago autorizados "
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mantendrá JMAS cajeros automáticos abiertos los próximos días  25 de diciembre y 1 de enero por días inhábiles"
 front: false
 section: "Local"
-news_id: 191149
+redirect_from: /news/191149
 ---
 
 La Junta Municipal de Agua y Saneamiento (JMAS) de Chihuahua dio a conocer que los próximos días  viernes  24 y 31 de diciembre  cerrarán sus sucursales a las 13:00 horas  y los días 25 de diciembre y 1 de enero del 2022 permanecerán cerradas por ser días inhábiles.

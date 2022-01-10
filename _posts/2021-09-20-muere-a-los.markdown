@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Sus restos serán velados en Gayosso Félix Cuevas, a partir de las once y hasta mañana a las 20:30 hrs; la comunidad cultural lamentó su deceso "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Muere a los 49 años el dramaturgo, gestor y productor teatral Eloy Hernández Mendoza"
 front: false
 section: "Espectáculos"
-news_id: 187872
+redirect_from: /news/187872
 ---
 
 Eloy Hernández Mendoza, el productor, gestor, dramaturgo, maestro y creador teatral que fuera director general en Cortejo Producciones A. C. y secretario en el Consejo de Productores de Teatro, falleció este domingo a los 49 años, según informó su hermana Patricia Hernández Mendoza.

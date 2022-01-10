@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se invirtió un millón 182 mil pesos en beneficio de 200 habitantes de la región"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Construyen muros de contención para conservación del camino a Majalca"
 front: false
 section: "Local"
-news_id: 190389
+redirect_from: /news/190389
 ---
 
 El Gobierno Municipal a través de la Dirección de Desarrollo Rural, construyó cuatro muros de mampostería, para contención de creciente del arroyo en temporada de lluvia y conservar el camino que conduce a las comunidades de Cumbres de Majalca, Soledad de Majalca, Huerachi y El Sandillal de San Marcos.

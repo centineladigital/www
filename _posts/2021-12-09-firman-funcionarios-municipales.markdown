@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Alcalde encabezó la firma de este acuerdo para brindar espacios más seguros a las mujeres"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Firman funcionarios municipales acuerdo para espacios libres de violencia de género"
 front: false
 section: "Local"
-news_id: 190690
+redirect_from: /news/190690
 ---
 
 El Alcalde Chihuahua, Marco Bonilla Mendoza, encabezó la firma de un acuerdo para brindar espacios libres de violencia de género en las dependencias municipales, en donde también participaron y se comprometieron las y los directores del Gobierno Municipal.

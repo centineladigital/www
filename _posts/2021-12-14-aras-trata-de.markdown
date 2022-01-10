@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que nada tiene que ver la investigación con la entrega de recursos."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MM02_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Aras trata de victimizarse -  Jáuregui"
 front: false
 section: "Local"
-news_id: 190846
+redirect_from: /news/190846
 ---
 
 La postura de la empresa financiera ARAS es de victimización, afirmó el Secretario General de Gobierno, César Jáuregui Moreno, quinen recalcó que las declaraciones de los directivos de ésta no tienen justificación.

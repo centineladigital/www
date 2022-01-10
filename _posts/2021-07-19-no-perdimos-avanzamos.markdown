@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que se incrementó exponencialmente los votos a favor del partido que encabeza el Presidente de la República."
 image: "/uploads/2021/images-LOERA.jpg"
 video: "/uploads/2021/videos-ML03_JUAN_CARLOS_LOERA.mp4"
-audio: "nil"
+audio: nil
 alt: "No perdimos, avanzamos -  Loera"
 front: false
 section: "Local"
-news_id: 185805
+redirect_from: /news/185805
 ---
 
 “No perdimos, por el contrario avanzamos muchísimo”, fueron las palabras del candidato a gobernador de Chihuahua por Morena, Juan Carlos Loera de la Rosa, dentro de su gira de agradecimiento.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El curso-taller es impartido por personal especialista en sicología, del subsistema educativo federalizado para enfrentar cualquier situación que pudieran presentar estudiantes, por el periodo de aislamiento derivado de la pandemia por COVID-19"
 image: "/uploads/2021/images-CAPACITACION_TELESECUNDARIAS_2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacitan a docentes de telesecundarias  en atención socioemocional del alumnado"
 front: false
 section: "Local"
-news_id: 186836
+redirect_from: /news/186836
 ---
 
 Como parte de del Taller Intensivo de Capacitación Docente que se realiza del 17 al 20 de agosto, profesoras y profesores de Telesecundaria de los Servicios Educativos del Estado de Chihuahua (Seech), participan en una serie de cursos en materia de atención socioemocional del alumnado.

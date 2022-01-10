@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A partir del domingo 27 aumenta la probabilidad e intensidad de las precipitaciones, debido a la entrada de un frente frío, aunque las condiciones se extenderán al lunes y martes; llama a tomar precauciones"
 image: "/uploads/2021/images-LLUVIAS_CUU_30_ABRIL_2021_(12).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Protección Civil aviso preventivo por lluvias fuertes en el estado"
 front: false
 section: "Local"
-news_id: 185264
+redirect_from: /news/185264
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) emitió un aviso preventivo por las fuertes lluvias de hasta 75 mm de acumulación que se esperan para el domingo 27, lunes 28 y martes 29 de junio en casi todo el territorio chihuahuense.

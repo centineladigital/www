@@ -10,11 +10,11 @@ author: nil
 description: "Cifra varía por regreso e incremento de casos de coronavirus."
 image: "/uploads/2021/images-GONZALEZ1.jpg"
 video: "/uploads/2021/videos-MW02_JAVIER_GONZALEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "61 escuelas sin clases por COVID"
 front: false
 section: "Local"
-news_id: 188440
+redirect_from: /news/188440
 ---
 
 De las más de cuatro mil escuelas que tiene el estado esta semana se tiene un total de 61 planteles que se encuentran cerrados por cuestiones de contagio de coronavirus, aseveró Javier González Mocken titular de la Secretaría de Educación y Deporte.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El 'payasito de la tele' fue operado de emergencia tras un accidente en el que se lesionó la columna vertebral. "
 image: "/uploads/2021/images-aracely-arambula-apoyara-cepillin-gastos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aracely Arámbula apoyará a 'Cepillín' con los gastos de su cirugía"
 front: false
 section: "Espectáculos"
-news_id: 183236
+redirect_from: /news/183236
 ---
 
 Este fin de semana se dio a conocer que Ricardo González Cepillín fue hospitalizado de emergencia tras una caída que le provocó una lesión en la columna vertebral, por lo que necesitó ser intervenido quirúrgicamente. Varias personalidades del mundo del espectáculos lo han ayudarlo económicamente y se han sumado a reunir fondos para pagar la cuenta de su hospitalización 

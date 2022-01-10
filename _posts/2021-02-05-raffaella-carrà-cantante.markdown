@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante de temas como 'A far l'amore comincia tu', 'Tanti Auguri o Caliente', caliente, 'Raffaella Carrà', murió a los 78 años. "
 image: "/uploads/2021/images-murio-la-cantante-raffaella-carra.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Raffaella Carrà, cantante y compositora italiana, murió a los 78 años"
 front: false
 section: "Espectáculos"
-news_id: 185372
+redirect_from: /news/185372
 ---
 
 Este lunes se confirmó la muerte de la cantante, bailarina, presentadora de televisión y compositora italiana Raffaella Carrà a los 78 años, según medios italianos. Es mejor conocida por algunos sus temas como A far l'amore comincia tu, Tanti Auguri, Caliente, caliente, Fiesta, En el amor todo es empezar y Hay que venir al sur. Así lo dio a conocer y confirmó su pareja, Sergio Japino, quien se despidió de ella con un emotivo mensaje. 

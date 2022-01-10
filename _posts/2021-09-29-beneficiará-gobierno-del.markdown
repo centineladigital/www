@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El tratamiento para después de recibir la prótesis consiste en enseñarle a caminar y a cómo adaptarse a su nueva vida, con miras a una inclusión social y laboral."
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-29_at_12.31.20.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Maria_Isabel_Barraza_Pak_1_Protesis.mp4"
 alt: "Beneficiará Gobierno del Estado con prótesis de pierna para personas con discapacidad en Chihuahua, Juárez y Cuauhtémoc"
 front: false
 section: "Local"
-news_id: 188187
+redirect_from: /news/188187
 ---
 
 El Gobierno del Estado, a través del DIF Estatal por medio de su Dirección de Rehabilitación, beneficiará con prótesis de pierna a personas con discapacidad de Chihuahua, Cuauhtémoc y Juárez, quienes previamente fueron valorados por personal especializado y han dado seguimiento a cada uno de los casos con el objetivo de reintegrarlos a la vida social, familiar y laboral.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los expertos de Estados Unidos revelaron que el sistema frontal se ubica por ahora en las Islas del Sotavento. "
 image: "/uploads/2021/images-paso-nicholas-alertado-autoridades-unidos_0_23_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tormenta tropical 'Peter' se forma en Océano Atlántico"
 front: false
 section: "Internacional"
-news_id: 187863
+redirect_from: /news/187863
 ---
 
 La tormenta tropical Peter se formó hoy en el Océano Atlántico, así lo confirmó el Centro Nacional de Huracanes (NHC, según sus siglas en inglés) de Estados Unidos, que reveló que el sistema frontal está  mil 15 kilómetros al este de las Islas norteñas de Sotavento, las que se comparten entre Países Bajos y Venezuela. 

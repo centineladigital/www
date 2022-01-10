@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La Liga ya trabaja en las posibilidades de los encuentros que llevaría a Inglaterra, México y quizá Alemania"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Los equipos de la NFL que podrían venir a México en 2022"
 front: false
 section: "Deportes"
-news_id: 190917
+redirect_from: /news/190917
 ---
 
 Pese a que actualmente vive severos problemas por el aumento de casos positivos de Covid-19, la NFL espera que todo esté controlado para la campaña 2022, en la que buscará reanudar los partidos internacionales de temporada regular, y por supuesto que el Estadio Azteca está incluido.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Piden evitar que se dé movilización de la ciudadanía."
 image: "/uploads/2021/images-GILBERTO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW01_GILBERTO_AQUINO.mp3"
 alt: "Incrementa 7 por ciento movilidad en comparación con pico de octubre"
 front: false
 section: "Local"
-news_id: 184029
+redirect_from: /news/184029
 ---
 
 Un incremento de un siete por ciento de movilidad es lo que registra el estado esto en comparación con el periodo en el que el estado registró el máximo pico de contagios, según fue dado a conocer por Gilberto Aquino de los Ríos, investigador de la Universidad Autónoma de Chihuahua. 

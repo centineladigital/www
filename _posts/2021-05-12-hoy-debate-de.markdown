@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hasta el momento se contempla que participen 6 candidatos a la alcaldía de Juárez, quienes han confirmado su asistencia"
 image: "/uploads/2021/images-candidatos_a_alcaldes_de_ciudad_juarez.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hoy debate de candidatos a la alcaldía en Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 184412
+redirect_from: /news/184412
 ---
 
 Este miércoles tocará a los candidatos a presidente municipal participar en el Encuentro con Candidatos 2021 organizado por el Centro Coordinador Empresarial (CCE) en el Centro de Convenciones Cibeles a las 8 de la mañana.

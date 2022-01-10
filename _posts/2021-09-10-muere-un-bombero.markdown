@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Más de 2 mil hectáreas han sido consumidas por el fuego, el cual aún no es controlado por los equipos de emergencias"
 image: "/uploads/2021/images-varios-incendios-se-han-registrado_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Muere un bombero y más de 800 personas son desalojadas por incendio en Málaga"
 front: false
 section: "Internacional"
-news_id: 187613
+redirect_from: /news/187613
 ---
 
 Los incendios en España no paran y ahora tocó turno a Andalucía, concretamente en Sierra Bermeja, en Málaga, donde murió un bombero de 44 años mientras que las autoridades, por prevención, han desalojado hasta el momento a unas 800 personas, mientras que en la zona se han quemado 2 mil 186 hectáreas y de momento el fuego no está controlado. 

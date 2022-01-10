@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Adela Micha dejó de lado la seriedad y se transformó como una drag queen, luego de que tuviera como invitados a integrantes del reality show ‘La Más Draga’. "
 image: "/uploads/2021/images-adela-micha-convierte-drag-queen.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Quiero ser la más -  Adela Micha se convierte en una 'drag queen'; así se transformó en YouTube"
 front: false
 section: "Espectáculos"
-news_id: 188024
+redirect_from: /news/188024
 ---
 
 Adela Micha, periodista y conductora de televisión, causó revuelo en redes sociales, luego de que se convirtiera en una drag queen durante su programa de ‘La Saga’ en YouTube. 

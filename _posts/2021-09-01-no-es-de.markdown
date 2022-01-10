@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te contamos el significado de 'Muñeca' de Pxndx, una canción escrita por José Madero Vizcaíno que no habla precisamente sobre lo que parece. "
 image: "/uploads/2021/images-pxndx-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿No es de amor? Éste es el extraño significado de la canción 'Muñeca' de Pxndx"
 front: false
 section: "Espectáculos"
-news_id: 187328
+redirect_from: /news/187328
 ---
 
 Cada canción es arte, e introducen a los escuchas en un pequeño mundo creado por los músicos. En la mayoría de las ocasiones, el significado no es explícito, y más bien lo es poético y abstracto, y los compositores deciden que cada quién le sé su sentido... pero eso no pasa con la canción 'Muñeca' de Pxndx (Panda), la ex agrupación de punk rock de Monterrey, Nuevo León, liderada por José Madero Vizcaíno. 

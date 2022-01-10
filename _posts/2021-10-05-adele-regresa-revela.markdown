@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante está de vuelta en la música luego de varios años alejada de los escenarios; aquí te contamos todos los detalles sobre el lanzamiento de su nuevo disco. "
 image: "/uploads/2021/images-adele-revela-adelanto-de-su_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Adele regresa! Revela adelanto de su canción 'Easy On Me'; esto sabemos de su nuevo disco"
 front: false
 section: "Espectáculos"
-news_id: 188377
+redirect_from: /news/188377
 ---
 
 Lo que parecía sólo un rumor y un frustrado sueño de los fans, se ha vuelto realidad: Adele está de regreso en la música luego de casi un lustro alejada de los escenarios, así lo confirmó la misma cantante a través de sus redes sociales, en donde compartió un adelanto de su nueva canción que lleva por título "Easy On Me".  Hace unos días las especulaciones sobre el próximo disco de Adele se desataron cuando comenzaron a proyectarse sobre edificios y circular carteles con el número '30' en varias ciudades del mundo; además de que la redes y la página web de la artista británica habían sido actualizadas. Pues ahora es un hecho, Adele vuelve con nuevas canciones que pondrán a vibrar el corazón de sus seguidores.  

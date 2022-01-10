@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Selena Quintanilla no sólo creó su fortuna con el dinero que obtenía por su música, sino que también por sus boutiques. "
 image: "/uploads/2021/images-selena-quintanilla-murio-en-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Selena Quintanilla y su fortuna de 25 mdd ¿Quién heredó el dinero que dejó de la cantante?"
 front: false
 section: "Espectáculos"
-news_id: 190520
+redirect_from: /news/190520
 ---
 
 El 31 de marzo de 1995 Selena Quintanilla murió después de recibir un disparo por parte de Yolanda Saldívar, quien era su mano derecha en varios negocios. Sin duda, el fallecimiento de la llamada Reina del Tex Mex dejó una huella difícil de llenar y su legado continúa, sin embargo, aún hay muchas preguntas que el público se hace como ¿Quién heredó la fortuna que dejó? Además de ser una extraordinaria cantante y ganarse al público con su música, Selena Quintanilla tenía otros negocios como las boutiques que abrió en donde ponía a la venta prendas con diseños que ella misma creaba. 

@@ -10,11 +10,11 @@ author: nil
 description: "Abrirán 398 refugios para combatir contingencia y proteger a quienes lo necesiten"
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MW04_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Consensan plan de protección civil ante llegada de temporada invernal"
 front: false
 section: "Local"
-news_id: 189758
+redirect_from: /news/189758
 ---
 
 Con la apertura de 398 refugios temporales entre otras medidas es como se lleva a cabo la planeación en materia de protección civil para época invernal 2021-2022, en la primera sesión del Consejo Estatal de Protección Civil la Gobernadora María Eugenia Campos Galván tomó protesta a los integrantes del consejo.

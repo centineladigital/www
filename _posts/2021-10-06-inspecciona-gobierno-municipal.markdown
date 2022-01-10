@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se revisaron tres centros de cuidado, los cuales reciben diariamente a 200 pequeños   "
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inspecciona Gobierno Municipal protocolos de seguridad en guarderías"
 front: false
 section: "Local"
-news_id: 188428
+redirect_from: /news/188428
 ---
 
 Con el objetivo de cuidar la integridad de las niñas y niños, el DIF Municipal en conjunto con la Dirección de Seguridad Pública Municipal, la Coordinación Municipal de Protección Civil y Bomberos, realizaron un recorrido de inspección en las guarderías para revisar el cumplimiento de todos los protocolos de seguridad.

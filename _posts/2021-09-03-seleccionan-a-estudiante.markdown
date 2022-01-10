@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jesús Enrique Polanco Guzmán, por su destacada participación en la disciplina deportiva del balompié, calificó las visorias y logró ser parte de esta escuadra de tercera división profesional   "
 image: "/uploads/2021/images-fut.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Seleccionan a estudiante del Cecytech  para equipo de futbol Linces"
 front: false
 section: "Local"
-news_id: 187409
+redirect_from: /news/187409
 ---
 
 Jesús Enrique Polanco Guzmán, estudiante del tercer semestre del Colegio de Estudios Científicos y Tecnológicos del Estado de Chihuahua (Cecytech) plantel Ascensión, se encuentra en la ciudad de Celaya, Guanajuato, jugando con el equipo de tercera división en el futbol profesional, Linces, del cual forma parte a partir del pasado 15 de agosto y hasta el 15 de junio del 2022.

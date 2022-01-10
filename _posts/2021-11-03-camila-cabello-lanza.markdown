@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante estrenó una nueva versión del tema, pero con un sello mexicano producto de sus más recientes viajes al país. "
 image: "/uploads/2021/images-camila-cabello-lanza-version-mariachi_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Camila Cabello lanza versión mariachi del clásico navideño 'I'll Be Home for Christmas'"
 front: false
 section: "Espectáculos"
-news_id: 189529
+redirect_from: /news/189529
 ---
 
 A días de celebrar el Día de muertos vestida de Catrina junto a su novio Shawn Mendes, Camila Cabello sorprende a sus fans al inaugurar la temporada decembrina y más festiva del año con el estrenó en Amazon Music del clásico navideño "I'll Be Home for Christmas", al que le ha imprimido un sello mexicano gracias al sonido del mariachi, compartió este miércoles la plataforma musical. "He viajado mucho desde que comencé a trabajar a los 15 años, así que elegí grabar esta canción Amazon Original porque siempre había deseado estar en casa en Miami con mi familia en Navidad", dijo la cubanoestadunidense, cuyo padre nació en México. 

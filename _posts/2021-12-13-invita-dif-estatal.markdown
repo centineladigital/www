@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se trata de un recorrido por varios módulos o estaciones instalados en el Museo Semilla, en donde duendecillos y Santa Claus elaboran y preparan los juguetes y obsequios navideños "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita DIF Estatal a participar en el evento interactivo “Destellos de Navidad”"
 front: false
 section: "Local"
-news_id: 190813
+redirect_from: /news/190813
 ---
 
 En el marco de la temporada decembrina y como parte de las actividades de recreación y esparcimiento familiar que promueve el DIF Estatal a través del Museo Interactivo Semilla, se invita a las familias chihuahuenses a participar en el evento “Destellos de Navidad”.

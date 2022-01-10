@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El evento se transmitirá este sábado 2 de octubre en punto de las 9 de la mañana (hora de Chihuahua), a través de las fanpage www.facebook.com/CulturaChih y www.facebook.com/conartenl. "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-01_at_15.03.55.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Compartirá Secretaría de Cultura experiencia de éxito del programa Red de Teatros en Nuevo León "
 front: false
 section: "Local"
-news_id: 188295
+redirect_from: /news/188295
 ---
 
 La Secretaría de Cultura formará parte de la mesa de diálogo “Hacia una red de teatros en Nuevo León”, evento ´21 Norte Creativo, Festival de Emprendimiento Cultural organizado por el Consejo para la Cultura y las Artes de Nuevo León (CONARTE).

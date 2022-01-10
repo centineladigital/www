@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ximena Sariñana aclaró la verdad sobre polémico video con El Escorpión Dorado: ¿ella es la niña a la que Danna Paola golpeó? Te contamos lo que dijo la famosa. "
 image: "/uploads/2021/images-pelearon-ximena-sarinana-aclara-polemica.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ximena Sariñana aclara polémica sobre Danna Paola -  ¿la famosa la golpeó o es mentira?"
 front: false
 section: "Espectáculos"
-news_id: 187186
+redirect_from: /news/187186
 ---
 
 Ximena Sariñana, famosa cantante mexicana, volvió a hablar sobre Danna Paola, esto después de que estuviera con el Escorpión Dorado y varios titulares en medios de comunicación rescataran sus declaraciones que apuntaban una supuesta rivalidad con la cantante de Oye, Pablo. Y es que en ese momento, Ximena Sariñana se volvió tendencia al ‘asegurar’ que ella era la niña a la que Danna Paola le había dado una cachetada. Sin embargo, en medio de tanto revuelo, la cantante reapareció para aclarar todo. ¿Danna Paola no la golpeó? ¿Confundieron sus declaraciones? 

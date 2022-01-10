@@ -10,11 +10,11 @@ author: nil
 description: "Cuenta fideicomiso con 56 millones de pesos."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MJ03_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Cuenta fideicomiso de aeropuerto en Creel con prespuestos"
 front: false
 section: "Local"
-news_id: 190681
+redirect_from: /news/190681
 ---
 
 Con un presupuesto de 56 millones de pesos es con lo que cuenta el fideicomiso del aeropuerto de Creel, según declaró el Secretario General de Gobierno, César Gustavo Jáuregui Moreno. El funcionario señaló que sostuvo una reunión con los integrantes del este hace poco tiempo.

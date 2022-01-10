@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¿Te imaginas a la joven actriz de Stranger Things interpretando al emblemático personaje de la saga de magos? "
 image: "/uploads/2021/images-millie-bobby-brown-celebra-anos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Mejor que Emma Watson? Así se vería 'Harry Potter' con Millie Bobby Brown como 'Hermione'"
 front: false
 section: "Espectáculos"
-news_id: 183907
+redirect_from: /news/183907
 ---
 
 Al hablar de las películas de Harry Potter es imposible no pensar en Daniel Radcliffe, Rupert Grint y Emma Watson, quienes interpretaron a Harry, Ron y Hermione. Hoy en día resulta imposible pensar en otra estrella haciendo alguno de esos papeles. Sin embargo, gracias a la magia del deepfake, término que hace referencia a videos manipulados usando técnicas de inteligencia artificial, es posible darse una idea de cómo se vería alguien más en aquellos emblemáticos personajes. ¿Te imaginas a la joven actriz de Stranger Things, Millie Bobby Brown, interpretando a Hermione Granger? 

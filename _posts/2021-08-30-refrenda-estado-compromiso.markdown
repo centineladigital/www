@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El inicio de la actual administración, se diseñaron en conjunto con la sociedad civil, políticas públicas para atender a profundidad la problemática"
 image: "/uploads/2021/images-_DSC3677.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Refrenda Estado compromiso con familias y organizaciones en la búsqueda de personas desaparecidas"
 front: false
 section: "Local"
-news_id: 187249
+redirect_from: /news/187249
 ---
 
 Durante la ceremonia conmemorativa del Día Internacional de las Víctimas de Desaparición Forzada, la comisionada ejecutiva del Sistema Estatal de Atención a Víctimas, Irma Villanueva, refrendó el compromiso del Gobierno del Estado de seguir trabajando de la mano con las familias y las organizaciones de la sociedad civil, en la tarea de búsqueda de las personas ausentes.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante se unirá a The Weeknd durante el evento deportivo; dará un show previo al inicio del partido de la NFL. "
 image: "/uploads/2021/images-miley-cyrus-ofrecera-concierto-super_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Miley Cyrus ofrecerá concierto en Super Bowl 2021; cuándo y dónde verlo"
 front: false
 section: "Espectáculos"
-news_id: 182756
+redirect_from: /news/182756
 ---
 
 La NFL ofrecerá una edición del Super Bowl sin precedentes esta temporada pese a la pandemia de covid-19.Si bien, el evento deportivo tendrá que modificar su formato este 2021, todo indica que los espectadores disfrutarán de un show de medio tiempo lleno de sorpresas con The Weeknd como estrella principal y su éxito “Blinding Lights” sonando a todo volumen sobre el escenario del Estadio Raymond James. 

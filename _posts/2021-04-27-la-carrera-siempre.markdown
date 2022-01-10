@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor, quien interpreta a 'El Sol' en la serie de Netflix, señaló que la carrera musical de Luis Miguel siempre te interpuso en su relación con su hija. "
 image: "/uploads/2021/images-diego-boneta-luis-miguel-michelle_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La carrera siempre gana -  Diego Boneta habla de la relación de Luis Miguel y Michelle Salas"
 front: false
 section: "Espectáculos"
-news_id: 184126
+redirect_from: /news/184126
 ---
 
 Luis Miguel, la serie se ha convertido en un fenómeno de la televisión, pues permite a la audiencia adentrarse en algunos de los episodios más controversiales de la vida de El Sol; sin lugar a dudas uno de ellos es su intermitente relación con su hija Michelle Salas, a quien procreó junto a Stephanie Salas, es así como en la producción de Netflix se exponen los detalles de su distanciamiento y reencuentro después de 11 años sin verse. En una video del detrás de cámaras de la serie, Diego Boneta, quien encarna a Luis Miguel, habló a detalle del conflicto que vive el cantante en la década de 1990, momento cúspide de su carrera en el que debe elegir entre su papel como padre y hermano o enfocarse por completo en la música. 

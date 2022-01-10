@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Donde las nuevas inversiones en el sector maquilador generarán una demanda más grande de sitios de esparcimiento"
 image: "/uploads/2021/images-WhatsApp_Image_2021-02-12_at_9.16.37_AM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Buscarán alternativas para evitar cierre de Cinemex"
 front: false
 section: "Local"
-news_id: 182888
+redirect_from: /news/182888
 ---
 
 Israel Obando Montes, regidor de Desarrollo Económico, dio a conocer que se realizan gestiones ante el gobierno estatal para lograr que las salas de la cadena Cinemex permanezcan abiertas en esta ciudad, donde las nuevas inversiones en el sector maquilador generarán una demanda más grande de sitios de esparcimiento.

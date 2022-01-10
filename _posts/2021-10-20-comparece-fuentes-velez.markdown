@@ -10,11 +10,11 @@ author: nil
 description: "Esto por un monto de 70 millones de pesos."
 image: "/uploads/2021/images-artu.jpg"
 video: "/uploads/2021/videos-MW03_ARTURO_FUENTES.mp4"
-audio: "nil"
+audio: nil
 alt: "Comparece Fuentes Velez ante juez por desvío"
 front: false
 section: "Local"
-news_id: 188982
+redirect_from: /news/188982
 ---
 
 Por un desvío de 70 millones de pesos este miércoles el extitular de la Secretaría de Hacienda, Arturo Fuentes Vélez, se presentó a la audiencia por la la causa penal 2275/21 por el delito de despojo, ante la denuncia presentada por el Fideicomiso para la Competitividad y Seguridad Ciudadana.

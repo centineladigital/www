@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Acretitan 10 defunciones por coronavirus."
 image: "/uploads/2021/images-GUMARO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV01_GUMARO_BARRIOS.mp3"
 alt: "Reportan 211 nuevos casos COVID"
 front: false
 section: "Local"
-news_id: 184470
+redirect_from: /news/184470
 ---
 
 En tan sólo 24 horas se reportaron 211 casos positivos de personas que fueron contagiadas de coronavirus y se acreditaron 10 nuevas defunciones, con lo que se llega a un total de 66 mil 793 personas que dieron positivo a la prueba PCR, de las cuales han muerto seis mil 859 personas.

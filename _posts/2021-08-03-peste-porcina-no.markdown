@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Productores no se verán afectados, no existen muchos productores de cerdo."
 image: "/uploads/2021/images-P1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM01_ENRIQUE_ESTRADA.mp4"
 alt: "Peste porcina no afectará a Chihuahua"
 front: false
 section: "Local"
-news_id: 186262
+redirect_from: /news/186262
 ---
 
 Pese a que la presencia de la peste porcina tiene en alerta a latinoamérica, en Chihuahua no se tendrán afectaciones considerables, ya que la producción de este tipo de ganado no se produce en gran cantidad.

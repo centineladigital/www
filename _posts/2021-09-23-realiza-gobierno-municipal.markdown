@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con maquinaria pesada se retiró material de arrastre y maleza"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza Gobierno Municipal mantenimiento y limpieza del canal Chuvíscar"
 front: false
 section: "Local"
-news_id: 187991
+redirect_from: /news/187991
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos Municipales trabaja de forma contante en tareas de limpieza de la parte canalizada del río Chuvíscar y en el mantenimiento del área natural de este cauce, con el fin de mejorar la imagen urbana y evitar la contaminación en esta zona.

@@ -16,11 +16,11 @@ author: nil
 description: "Rectoría envió un comunicado el cual no cuenta con la información requerida por el diputado"
 image: "/uploads/2021/images-principal_13488daf-3510-4a2d-8693-e31aec7ded21.jpg"
 video: "/uploads/2021/videos-BV06_OMAR_BAZAN_.mp4"
-audio: "nil"
+audio: nil
 alt: "UACH debe ser auditada -  Bazán "
 front: false
 section: "Local"
-news_id: 189101
+redirect_from: /news/189101
 ---
 
 El diputado Omar Bazán mencionó que el oficio que tiene en donde le pide a la Auditoria Superior del Estado se haga una revisión a la Universidad Autónoma De Chihuahua,  a fin de que la sociedad tenga la plena certeza en torno al correcto uso de los recursos públicos, aún no ha tenido respuesta, cabe resaltar que rectoría envió un comunicado el cual no cuenta con la información requerida por el diputado.

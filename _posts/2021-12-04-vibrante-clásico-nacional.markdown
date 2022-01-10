@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El próximo lunes en el Estadio Akron se definirá a la semifinalista del Clásico Nacional. Cuarta vez que se topan en la Liguilla"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vibrante Clásico Nacional Femenil en Cuartos de Final de ida; América venció a las Chivas"
 front: false
 section: "Deportes"
-news_id: 190506
+redirect_from: /news/190506
 ---
 
 América y Chivas ofrecieron un auténtico partidazo en la ida de los cuartos de final, disputada en el Estadio Azteca. Una edición más del Clásico Nacional en la Liguilla de la Liga MX Femenil.

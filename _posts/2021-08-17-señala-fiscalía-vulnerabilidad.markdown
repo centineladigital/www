@@ -10,11 +10,11 @@ author: nil
 description: "Hechos violentos no se encuentran vinculados."
 image: "/uploads/2021/images-FISCAL.jpg"
 video: "/uploads/2021/videos-MM01_CESAR_PENICHE.mp4"
-audio: "nil"
+audio: nil
 alt: "Señala fiscalía vulnerabilidad de los DIDI"
 front: false
 section: "Local"
-news_id: 186795
+redirect_from: /news/186795
 ---
 
 Tras otro homicidio en contra de un chofer de la plataforma DIDI, el Fiscal General de Chihuahua señaló que este tipo de ataques se debe a que los choferes se encuentran en estado de vulnerabilidad. Esto tras ser cuestionado respecto a si el crimen organizado busca en este grupo personas para la venta y distribución de droga.

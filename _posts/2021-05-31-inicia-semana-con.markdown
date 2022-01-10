@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solamente se acreditaron tres muertes en 24 horas."
 image: "/uploads/2021/images-GUMARO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML06_GUMARO_BARRIOS.mp3"
 alt: "Inicia semana con 21 casos COVID"
 front: false
 section: "Local"
-news_id: 184753
+redirect_from: /news/184753
 ---
 
 Con la detección de 21 nuevos casos y con la acreditación de 3 muertes fue como inició la semana con lo que se llega a 68 mil 282 enfermos en total, mientras que muertes se han registrado seis mil 968 personas, según fue dado a conocer por parte de Gumaro Barrios Gallegos, Subdirector de Epidemiología de la Secretaría de Salud.

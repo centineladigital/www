@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con el objetivo de hacer visible la importancia de la detección y atención oportuna para el fortalecimiento de la salud mental y emocional de la población"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participan más de 300 estudiantes en conferencia virtual “Prevención del suicidio”"
 front: false
 section: "Local"
-news_id: 188030
+redirect_from: /news/188030
 ---
 
 El Gobierno Municipal a través del Centro de Atención y Prevención Psicológicas CAPPSI, llevó a cabo la conferencia virtual titulada “Prevención del suicidio”, con el objetivo de hacer visible la importancia de la detección y atención oportuna para el fortalecimiento de la salud mental y emocional de la población, la cual tuvo una participación de 375 personas.

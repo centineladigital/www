@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los dirigidos por Nicolás Larcamón sacaron provecho al receso en la Liga MX por la fecha FIFA "
 image: "/uploads/2021/images-puebla-copa-tlahuicole-vencer-coyotes.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Puebla se lleva la Copa Tlahuicole al vencer a Coyotes"
 front: false
 section: "Deportes"
-news_id: 188550
+redirect_from: /news/188550
 ---
 
 Tras vencer por marcador de 2 goles por 0 a los Coyotes de Tlaxcala, el Puebla de La Franja se adjudicó la edición 2021 de la Copa Tlahuicole, que se disputó la noche del viernes en la cancha del estadio que dio nombre al trofeo, mismo que los blanquiazules recibieron de manos de la gobernadora del estado anfitrión, Lorena Cuéllar. 

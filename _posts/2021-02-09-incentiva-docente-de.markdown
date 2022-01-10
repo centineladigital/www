@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Cuenta con 94 mil seguidores catedrático chihuahuense."
 image: "/uploads/2021/images-DR1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM01_CARLOS_RIVERA.mp3"
 alt: "Incentiva docente de la UACH a través de Tiktok"
 front: false
 section: "Local"
-news_id: 182814
+redirect_from: /news/182814
 ---
 
 Carlos Iván Rivera Muñiz catedrático de la Universidad Autónoma de Chihuahua incentiva a los jóvenes a interesarse por el conocimiento, esto luego de contar con 94 mil a nivel mundial.  

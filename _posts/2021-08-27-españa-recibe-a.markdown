@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las personas llegaron a la base de naval de Rota, que fue remodelada por militares estadunidenses para su atención "
 image: "/uploads/2021/images-espana-recibira-mil-personas-obtienen_0_3_1196_743.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "España recibe a 400 evacuados de Kabul en vuelo de EU"
 front: false
 section: "Internacional"
-news_id: 187178
+redirect_from: /news/187178
 ---
 
 Un avión militar estadunidense aterrizó el viernes en la base naval de Rota, en el sur de España, con unas 400 personas procedentes de Afganistán. Es el primer grupo de los hasta cuatro mil afganos que esperan allí. El vuelo llegó a las 9:40 horas, de acuerdo con la embajada de Estados Unidos en España en un comunicado. Funcionarios estadunidenses, soldados de ambos países, trabajadores de la Cruz Roja y voluntarios de la base se ocuparon de procesar a los recién llegados. 

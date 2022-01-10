@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Del 23 al 27 de agosto, se realizan las pruebas de VPH, Papanicolaou, así como la mastografía y la exploración clínica de mama en los centros de salud del estado"
 image: "/uploads/2021/images-JTCM_Unidades_médicas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Secretaría de Salud a Segunda Jornada de detección oportuna de cáncer en la mujer"
 front: false
 section: "Local"
-news_id: 187026
+redirect_from: /news/187026
 ---
 
 La Secretaría de Salud, a través del Programa de Cáncer de la Mujer, invita a las mujeres mayores de 25 años a la Segunda Jornada de Detección oportuna de Cáncer en la Mujer, la cual se lleva a cabo a partir de este lunes 23 hasta el viernes 27 de agosto en las unidades de salud de la entidad.

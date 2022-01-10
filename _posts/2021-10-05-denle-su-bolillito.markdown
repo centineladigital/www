@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante se unió al panel de jueces del reality 'Quiero cantar' en donde presentó su más reciente canción Brindo. "
 image: "/uploads/2021/images-critican-mario-bautista-show-venga.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Denle su bolillito -  Critican a Mario Bautista por show en 'VLA'; lo acusan de hacer playback"
 front: false
 section: "Espectáculos"
-news_id: 188407
+redirect_from: /news/188407
 ---
 
 Quiero cantar, el reality de Venga la Alegría, sigue envuelto en la polémica, pero esta vez no fue por las fallidas actuaciones musicales de sus participantes, las caídas de Cynthia Rodríguez o las polémicas críticas de los jueces, sino por la presentación especial que realizó Mario Bautista durante la emisión de este martes y que desató la molestia de los internautas. El cantante mexicano fue una de las celebridades invitadas a colaborar en el reality como parte del panel de jueces, conformado de manera oficial por Rocío Banquells, Horacio Villalobos, Patricio Borghetti y Mario Lafontaine. Sin embargo, su participación en TV Azteca no fue la esperada por el público. 

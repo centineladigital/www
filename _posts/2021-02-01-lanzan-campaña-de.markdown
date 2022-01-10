@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Inscritas 35 empresa dentro del programa, ofertarán regalos para el 14 de febrero."
 image: "/uploads/2021/images-manque.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML04_MANQUE.mp3"
 alt: "Lanzan campaña de reactivación económica"
 front: false
 section: "Local"
-news_id: 182606
+redirect_from: /news/182606
 ---
 
 Con el nombre de "Hecho en Chihuahua con mucho amor" se dio a conocer la campaña de reactivación económica dentro del municipio de Chihuahua, en la cual se tienen inscritas 35 empresas, ofreciendo diversos servicios y productos para este 14 de febrero. 

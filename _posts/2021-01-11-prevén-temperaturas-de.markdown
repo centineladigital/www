@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Afectará las zonas montañosas de Coahuila, Nuevo León, y Zacatecas; alistan 129 albergues en Coahuila con capacidad de 10 mil personas"
 image: "/uploads/2021/images-2509813.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prevén temperaturas de -10 grados por frente frío 26"
 front: false
 section: "Nacional"
-news_id: 182025
+redirect_from: /news/182025
 ---
 
 El frente frío número 26 en interacción con un vórtice de núcleo frío ocasionará en Coahuila, un marcado deceso de temperatura, acompañado de lluvias aisladas, fuertes vientos con rachas de 50 a 70 kilómetros por hora potencial de caída de nieve y agua nieve.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un estudio elaborado por autoridades de EU concluye que las vacunas anticovid de Pfizer y Moderna son muy eficaces y reducen el riesgo de infección en un 90% luego de la segunda dosis"
 image: "/uploads/2021/images-2553469.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Vacunas Pfizer y Moderna evitan contagio en 90% tras segunda dosis'"
 front: false
 section: "Internacional"
-news_id: 183590
+redirect_from: /news/183590
 ---
 
 Las vacunas para el covid-19 de Pfizer Inc/BioNTech SE y de Moderna Inc son muy eficaces y reducen el riesgo de infección en un 90% a las dos semanas de la segunda inyección en personal sanitario y los primeros participantes, según un estudio publicado este lunes por autoridades de Estados Unidos.

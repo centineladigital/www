@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "MC no postulará candidatos en Batopilas, Coyame, Cusihuiriachi, Carichí, Moris, Morelos, Nonoava, San Francisco de Borja y Temósachic; el PAN, en Chínipas y Morelos"
 image: "/uploads/2021/images-voto_urna.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ante focos rojos de inseguridad, partidos no lucharán por 10 alcaldías"
 front: false
 section: "Local"
-news_id: 183490
+redirect_from: /news/183490
 ---
 
 La inseguridad que se vive en diferentes partes del estado, sobre todo en la zona serrana, ha provocado que algunos partidos políticos no hayan postulado candidatos a las presidencias municipales, como lo fue Movimiento Ciudadano, que no tuvo candidatos en nueve municipios, en tanto que el PAN no registró en dos municipios.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La distribución de los aparatos se realiza con el apoyo del personal de las unidades básicas de rehabilitación y de los sistemas DIF municipales"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-29_at_08.30.58.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Maria_Isabel_Barraza_Pak.mp4"
 alt: "Arranca DIF Estatal con entrega de sillas de ruedas a personas de bajos recursos de 5 municipios  "
 front: false
 section: "Local"
-news_id: 188167
+redirect_from: /news/188167
 ---
 
 El DIF Estatal a través del Centro de Rehabilitación y Educación Especial (CREE), inició con la entrega de sillas de ruedas a beneficiarios de bajos recursos económicos de los municipios de Juárez, Galeana, Nuevo Casas Grandes, Gómez Farías, Saucillo y Valle de Zaragoza.

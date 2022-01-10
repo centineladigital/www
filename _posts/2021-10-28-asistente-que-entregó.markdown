@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La declaración del asistente, publicada este miércoles por la oficina del Sheriff de Santa Fe, coincidiría con la hipótesis formulada por los investigadores después de que confiscaran unos 500 cartuchos con munición en la zona del rodaje. "
 image: "/uploads/2021/images-alec-baldwin-mato-accidentalmente-mujer-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asistente que entregó pistola a Alec Baldwin revela que no revisó el arma; esto sabemos"
 front: false
 section: "Espectáculos"
-news_id: 189325
+redirect_from: /news/189325
 ---
 
 Dave Halls, el asistente de dirección que el pasado jueves entregó a Alec Baldwin la pistola con la que mató accidentalmente a Halyna Hutchins, reconoció que no revisó el arma antes de ensayar la escena porque estaba convencido de que contenía balas de mentira. La declaración del asistente, publicada este miércoles por la oficina del Sheriff de Santa Fe (Nuevo México, EU), coincidiría con la hipótesis formulada por los investigadores después de que confiscaran unos 500 cartuchos con munición en la zona del rodaje, entre los cuales creen que había balas auténticas mezcladas con proyectiles falsos. 

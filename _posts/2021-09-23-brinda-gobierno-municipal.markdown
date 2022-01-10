@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Retiro de basura y limpieza en general de todo el parque ubicado en las calles República de Bolivia y Fray Tomás Ortiz."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brinda Gobierno Municipal mantenimiento integral a parque Los Frailes"
 front: false
 section: "Local"
-news_id: 188001
+redirect_from: /news/188001
 ---
 
 Con el objetivo de mantener espacios públicos dignos para las y los chihuahuenses, el Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, llevó a cabo trabajos de corte de hierba, conexión de sistema de riego, fumigación, forestación y reparación de alumbrado público en el parque Los Frailes, en la colonia del mismo nombre.

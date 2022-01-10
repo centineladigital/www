@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Rusia sufre en la actualidad una ola de contagios impulsada por los bajos niveles de vacunación de sus ciudadanos; solamente 31% de los habitantes de Rusia se encuentran completamente vacunados"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Por qué Rusia tiene tan poca población vacunada pese a que desarrolló una de las primeras vacunas Covid-19?"
 front: false
 section: "Internacional"
-news_id: 188814
+redirect_from: /news/188814
 ---
 
 A inicios de agosto de 2020, Rusia se colocó al frente de la carrera global que se había iniciado para lograr una vacuna contra el nuevo coronavirus.

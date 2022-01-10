@@ -10,11 +10,11 @@ author: nil
 description: "Esperan que se dé antes del 13 de diciembre."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MM03_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Difieren preliberación de productores"
 front: false
 section: "Local"
-news_id: 190120
+redirect_from: /news/190120
 ---
 
 Debido a que se llegó a un acuerdo, la preliberación de los tres productores de La Cruz que fueron detenidos tras las protestas en la presa La Boquilla fue diferida para la próxima audiencia.  Según declaraciones de Secretario General de Gobierno, César Gustavo Jáuregui Moreno.

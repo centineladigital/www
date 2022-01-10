@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "los días 29, 30 y 31 de Marzo de 2021 se llevará a cabo la aplicación de la vacuna contra el Covid-19 "
 image: "/uploads/2021/images-campañaanticovid3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vacunación en Chihuahua; Requisitos"
 front: false
 section: "Local"
-news_id: 183610
+redirect_from: /news/183610
 ---
 
 La Delegación Estatal de Programas para el Desarrollo del Gobierno Federal y las instituciones de Salud Pública federales y estatales dieron a conocer que los días 29, 30 y 31 de Marzo de 2021 se llevará a cabo la aplicación de la vacuna contra el Covid-19 a adultos mayores en Chihuahua capital.

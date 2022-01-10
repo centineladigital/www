@@ -10,11 +10,11 @@ author: nil
 description: "Buscan reactivar las relaciones comerciales entre Chihuahua y la ciudad de Texas."
 image: "/uploads/2021/images-veronica.jpg"
 video: "/uploads/2021/videos-MM02_VERONICA_CASTRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Invitan a visitar El Paso"
 front: false
 section: "Local"
-news_id: 189708
+redirect_from: /news/189708
 ---
 
 Como una forma de reactivar el turismo se dio a conocer el programa “Welcome Back” en el que se exhorta a la población a visitar la ciudad de El Paso, esto tras la reapertura de la frontera entre Estados Unidos y México.

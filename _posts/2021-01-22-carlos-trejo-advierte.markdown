@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Carlos Trejo pasó el Año Nuevo en la ex hacienda de Mario Moreno 'Cantinflas' llamada 'El Detalle' en San Luis Potosí, donde presuntamente observó actividad paranormal. "
 image: "/uploads/2021/images-trejo-habria-estado-durante-ano.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Carlos Trejo advierte la presencia de fantasmas en la hacienda abandonada de 'Cantinflas'"
 front: false
 section: "Espectáculos"
-news_id: 182359
+redirect_from: /news/182359
 ---
 
 Carlos Trejo, de quien en los últimos meses se ha escuchado por el 'pleito casado' que mantiene con el actor Alfredo Adame, apareció este jueves en el programa Hoy para contar su experiencia en la hacienda El Detalle, que fue propiedad del comediante Mario Moreno Continflas. El polémico Cazafantasmas presuntamente captó presencia paranormal en el inmueble de San Luis Potosí, donde pasó el Año Nuevo. El Detalle es una hacienda abandonada, ubicada a 25 kilómetros de Ciudad Valles en el estado de San Luis Potosí. Cantinflas adquirió el terreno de 100 hectáreas durante los años 40, los limpió y la dedicó al cultivo y la cría de ganado. La residencia cuenta con 12 habitaciones y tiene una alberca en la parte posterior. El terreno cuenta, incluso, con una plaza de toros. 

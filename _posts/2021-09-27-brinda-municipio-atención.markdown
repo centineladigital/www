@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Personal del Departamento de Limpieza Urbana atendió el lavado de cestos peatonales, monumentos y bancas"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brinda Municipio atención en trabajos de mantenimiento y mejoramiento al Centro Histórico"
 front: false
 section: "Local"
-news_id: 188074
+redirect_from: /news/188074
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos trabaja con un programa de mantenimiento y mejoramiento en el Centro Histórico de la ciudad con el cual se realizan diversas actividades de limpieza, lavado de pisos, atención a monumentos y barandales, así como la recolección de basura en distintos puntos del área peatonal.

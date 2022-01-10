@@ -10,11 +10,11 @@ author: nil
 description: "Para cerrar las escuelas tendrán que presentarse casos en mínimo tres grupos."
 image: "/uploads/2021/images-JAVIER.jpg"
 video: "/uploads/2021/videos-MV04_JAVIER_GONZALEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "No habrá cierre de escuelas, se aislarán grupos"
 front: false
 section: "Local"
-news_id: 188040
+redirect_from: /news/188040
 ---
 
 Dentro de las escuelas, estas ya no serán cerradas, afirmó el titular de la Secretario de Educación Javier González Mocken, quien dijo que la detección de casos dentro de las aulas ha bajado. El funcionario afirmó que a nivel federal se ha cambiado el protocolo, el cual fue bajado a los estados para su aplicación.

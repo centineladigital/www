@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Gobierno dormidos en sus laureles."
 image: "/uploads/2021/images-ERACLIO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML05_ERACLIO_RORIGUEZ.mp4"
 alt: "Indefensión productores de maíz ante acopio -  Eraclio"
 front: false
 section: "Local"
-news_id: 186206
+redirect_from: /news/186206
 ---
 
 Actualmente el acopio de maíz deja indefensos a productores de maíz, afirmó el diputado federal Eraclio Rodríguez, quien dijo que existen dos grupos que se adueñan del maíz y manejan los precios de los derivados a su gusto.

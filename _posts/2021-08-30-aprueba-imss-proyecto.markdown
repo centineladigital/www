@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se propone una transición hacia el patrón sustituto sin cambios para trabajadores que se encuentren con Incapacidad Temporal para el Trabajo "
 image: "/uploads/2021/images-Foto_380-2.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueba IMSS proyecto para garantizar derechos de trabajadores incapacitados que dejan de ser subcontratados"
 front: false
 section: "Local"
-news_id: 187260
+redirect_from: /news/187260
 ---
 
 El H. Consejo Técnico del Instituto Mexicano del Seguro Social (IMSS) aprobó un proyecto para que los patrones que hayan comunicado al IMSS la sustitución patronal en términos de la reforma en materia de subcontratación laboral, puedan realizar la migración de los trabajadores, incluyendo aquellos incapacitados temporalmente. 

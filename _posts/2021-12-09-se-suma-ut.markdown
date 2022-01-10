@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La cual tiene como propósito colectar dulces y juguetes para niñas y niños del municipio de Nuevo Casas Grandes."
 image: "/uploads/2021/images-Centros_de_Acopio.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se suma UT Paquimé a colecta de la caravana  “Santa Claus en tu Colonia”"
 front: false
 section: "Local"
-news_id: 190674
+redirect_from: /news/190674
 ---
 
 La Universidad Tecnológica de Paquimé se sumó a la colecta de la caravana “Santa Claus en tu Colonia”, organizada por la asociación civil “Solo por Ayudar”, la cual tiene como propósito colectar dulces y juguetes para niñas y niños del municipio de Nuevo Casas Grandes.

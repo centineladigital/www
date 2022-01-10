@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los gobiernos mexicano y estadunidense reimplementaron el programa Remain in México, con miras a que proteja los derechos humanos de los migrantes, pero el programa mantiene escancia inhumana. "
 image: "/uploads/2021/images-migrantes-temen-volver-mexico-eu-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Migrantes temen volver a México desde EU por inseguridad"
 front: false
 section: "Nacional"
-news_id: 190748
+redirect_from: /news/190748
 ---
 
 Migrantes que empiezan a ser devueltos desde Estados Unidos han expresado su temor por regresar a México porque ya han sido víctimas de secuestros, amenazas y robos. 35 extranjeros, en tres grupos pequeños, han sido retornados al país en los últimos tres días. 

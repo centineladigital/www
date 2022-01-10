@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El gobierno cubano negó la existencia de personas desaparecidas tras las protestas en la isla contra la administración de Miguel Díaz-Canel del 11 y 12 de este mes."
 image: "/uploads/2021/images-manifestaciones-cuba-causaron-sorpresa-nivel_0_65_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cuba niega personas desaparecidas tras protestas contra gobierno de Díaz-Canel"
 front: false
 section: "Internacional"
-news_id: 185866
+redirect_from: /news/185866
 ---
 
 El gobierno cubano negó la existencia de personas desaparecidas tras las protestas en la isla contra la administración de Miguel Díaz-Canel del 11 y 12 de este mes, pero no precisó la cantidad de detenidos por esos actos, que implicaron asaltos a comercios, apedreo de hospitales y enfrentamientos entre policía y civiles. 

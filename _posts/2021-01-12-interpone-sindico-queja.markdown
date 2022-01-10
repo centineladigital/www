@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Pide que no se limite a un numero de personas para poder participar."
 image: "/uploads/2021/images-AMIN.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM05_AMIN_ANCHONDO.mp3"
 alt: "Interpone Sindico queja a Municipio ante CEDH "
 front: false
 section: "Local"
-news_id: 182081
+redirect_from: /news/182081
 ---
 
 Una queja por violación de violación a normas fue interpuesta por parte del Síndico Amín Anchondo, esto ante la reducción del número de contralores sociales, señalando que no es cuestión electoral ya que ha trabajado desde el inicio de sus funciones buscando que se lleven a cabo mejoras dentro de los procesos municipales.

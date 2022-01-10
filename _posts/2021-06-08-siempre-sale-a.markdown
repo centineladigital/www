@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La conductora de 'Venga la Alegría' señaló que Sergio Mayer siempre debe defender a su hijo, quien siempre mete la pata, esto después de confesar su odio por las canciones de RBD. "
 image: "/uploads/2021/images-flor-rubio-arremete-sergio-mayer_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Siempre sale a dar la cara -  Flor Rubio sobre polémica del hijo de Sergio Mayer"
 front: false
 section: "Espectáculos"
-news_id: 184922
+redirect_from: /news/184922
 ---
 
 Sergio Mayer Mori continúa en el ojo del huracán luego de confesar su "odio por RBD", pese a que forma parte del elenco principal del remake que prepara Netflix. Tras lo sucedido, su padre, Sergio Mayer, salió en su defensa y ofreció una disculpa pública por las declaraciones de su hijo, quien ha sido criticado en redes sociales y por conductores de varios programas de espectáculos, entre ellos Ventaneando. 

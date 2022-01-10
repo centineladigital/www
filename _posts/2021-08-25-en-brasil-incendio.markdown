@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Parque Estatal Juquery, ubicado al norte de la gran urbe de Brasil, quedó calcinado en 60 por ciento de su territorio; al momento, no se registraron daños mayores a la fauna del parque"
 image: "/uploads/2021/images-incendio-destruyo-mita-parque-ubicado_0_0_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Brasil, incendio forestal consume gran parte de parque estatal en Sao Paulo"
 front: false
 section: "Internacional"
-news_id: 187085
+redirect_from: /news/187085
 ---
 
 Un incendio en un parque estatal de Sao Paulo arrasó con más de la mitad del área protegida de 2 mil hectáreas, donde este martes los bomberos continuaban combatiendo pequeños focos. 

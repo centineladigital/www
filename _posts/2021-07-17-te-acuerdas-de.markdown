@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la divertida película que reunió a Michael Jordan con los Looney Tunes también participaron Bill Murray y Wayne Knight."
 image: "/uploads/2021/images-pelicula-logro-reunir-estrellas-nba.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Te acuerdas de ellos? Esto fue lo qué pasó con los actores de 'Space Jam' tras la película"
 front: false
 section: "Espectáculos"
-news_id: 185769
+redirect_from: /news/185769
 ---
 
 Una de las películas más exitosas en los años 90 fue Space Jam, de la cual recientemente se acaba de estrenar una nueva versión que es protagonizada por LeBron James, sin embargo, el primer filme fue protagonizado por Michael Jordan, quien en compañía de varios personajes de Looney Tunes contaron una divertida historia. 

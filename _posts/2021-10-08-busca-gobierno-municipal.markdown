@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Pretende que los estudiantes cuenten con un año de experiencia profesional antes de graduarse"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Busca Gobierno Municipal profesionalizar a universitarios con Programa Dual”"
 front: false
 section: "Local"
-news_id: 188521
+redirect_from: /news/188521
 ---
 
 El Gobierno Municipal a través de la Dirección de Desarrollo Económico y Turístico se reunió con diversas organizaciones del sector privado a fin de impulsar la profesionalización de las y los jóvenes chihuahuenses a través del “Programa Dual”, el cual pretende que las juventudes cuenten con experiencia profesional antes de graduarse de la carrera.

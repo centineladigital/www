@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Participan la Unidad Especializada en Investigación de Robo de Vehículos, la Dirección de Seguridad Pública Municipal, Secretaría de Seguridad Pública Estatal y yonkeros"
 image: "/uploads/2021/images-1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Establecen colaboración para inhibir comercialización de autopartes de procedencia ilícita en yonkes"
 front: false
 section: "Local"
-news_id: 188803
+redirect_from: /news/188803
 ---
 
 La Fiscalía de Distrito Zona Centro y autoridades de los tres órdenes de Gobierno, acordaron con líderes de la Unión de Vendedores de Autopartes Usadas y la Unión de Yonkeros de Chihuahua, acciones para inhibir la venta y comercialización de autopartes robadas.

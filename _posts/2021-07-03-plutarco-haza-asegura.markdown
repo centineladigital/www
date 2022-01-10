@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Plutarco Haza contó que tras su divorcio con Ludwika Paleta no tiene una amistad con la actriz y solamente hablan para asuntos relacionados con su hijo. "
 image: "/uploads/2021/images-actor-conto-amigo-relacion-cordial_30_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Plutarco Haza asegura no tiene amistad con Ludwika Paleta tras su divorcio"
 front: false
 section: "Espectáculos"
-news_id: 185368
+redirect_from: /news/185368
 ---
 
 Hace más de 15 años Ludwika Paleta y Plutarco Haza se divorciaron y cada quien rehízo su vida, sin embargo, ambos actores tienen un lazo que los une: su hijo Nicolás. Recientemente Haza se sinceró y habló sobre la actual relación que tiene con su ex esposa, a quien aseguró no la ve como amiga. 

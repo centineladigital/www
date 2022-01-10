@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Reforzarán el combate de incendios y rescates que realizan los uniformados en los siniestros"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacitan a 27 bomberos voluntarios para apoyar en emergencias"
 front: false
 section: "Local"
-news_id: 191077
+redirect_from: /news/191077
 ---
 
 Luego de seis semanas de intensa capacitación por parte de los instructores del Instituto Superior de Seguridad Chihuahua (ISSCUU), 27 voluntarios entre mujeres y hombres se lograron graduar como bomberos voluntarios del municipio, cuya principal función consistirá en reforzar la labor que realiza la dependencia para atender emergencias relacionadas a incendios, rescates y otras actividades propias de la misma, en beneficio de los chihuahuenses.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este 11 de mayo se llevaron a cabo los Brit Awards desde Londres; ésta es la lista completa de los ganadores. "
 image: "/uploads/2021/images-en-esta-edicion-de-los_13_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Dua Lipa fue la más premiada! Ellos son los ganadores de los BRIT Awards 2021"
 front: false
 section: "Espectáculos"
-news_id: 184417
+redirect_from: /news/184417
 ---
 
 Este 11 de abril se llevaron a cabo los Brit Awards 2021 en Londres en donde con todas las medidas necesarias, se realizó una gala en donde se premió a lo mejor de la música británica, así como internacional. La gala comenzó con la presentación de Coldplay de su canción “Higher Power”, además que también se presentó Dua Lipa. Sin duda el poder femenino estuvo presente ya que quienes causaron ternura a los presentes fue Little Mix, ya que el trío conformado por Thirlwall, Leigh-Anne Pinnock y Perry Edward, estas últimas quienes hace poco confirmaron que están embarazadas.  

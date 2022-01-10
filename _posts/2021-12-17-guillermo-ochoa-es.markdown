@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Javier Aguirre fue elegido como el mejor técnico a nivel de clubes"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Guillermo Ochoa es reconocido como el mejor portero de Concacaf"
 front: false
 section: "Deportes"
-news_id: 190955
+redirect_from: /news/190955
 ---
 
 Guillermo Ochoa, guardameta de América, fue seleccionado como el mejor portero de Concacaf 2021 por la Federación Internacional de Historia y Estadística de Futbol (IFFHS).

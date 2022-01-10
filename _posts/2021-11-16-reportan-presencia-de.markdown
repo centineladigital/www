@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las autoridades informaron que el virus se ha propagado con velocidad y ello podría provocar restricciones comerciales. "
 image: "/uploads/2021/images-decenas-millones-aves-sacrificadas-brotes_0_0_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reportan presencia de tres variantes de gripe aviar en Europa y Asia"
 front: false
 section: "Internacional"
-news_id: 189864
+redirect_from: /news/189864
 ---
 
 Varios brotes de gripe aviar grave en Europa y Asia se han notificado a la Organización Mundial de Sanidad Animal (OIE) en los últimos días, lo que ha sido considerado como una señal de que el virus comienza a propagarse con velocidad. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El fenómeno marítimo se caracteriza por la elevación de oleaje, en este caso, se esperan olas de hasta tres metros, por lo que se solicita a la población no estar cerca de la playa. "
 image: "/uploads/2021/images-autoridades-acudieron-playas-megafono-desalojar_302_0_897_558.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Protección Civil emite alerta por mar de fondo en costas de México"
 front: false
 section: "Nacional"
-news_id: 187745
+redirect_from: /news/187745
 ---
 
 La Secretaría de Protección Civil de Guerrero informó que el litoral costero será afectado por el fenómeno marítimo de mar de fondo y habrá oleaje elevado, reducción de zonas de playa, marejadas recurrentes y corrientes de arrastre.

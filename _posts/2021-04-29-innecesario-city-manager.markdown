@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“El presidente municipal no debe ser solo la figura decorativa”, dijo."
 image: "/uploads/2021/images-MARTHA1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ02_MARTHA_LAGUETTE.mp3"
 alt: "Innecesario City Manager -  Laguette"
 front: false
 section: "Local"
-news_id: 184197
+redirect_from: /news/184197
 ---
 
 La figura del City Manager no tiene ningún sentido, fueron las palabras de la candidata de Morena a la Síndico, Martha Laguette, esto al ser cuestionada respecto a la figura que se puede aplicar la próxima administración.

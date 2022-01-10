@@ -10,11 +10,11 @@ author: nil
 description: "Delito cibernético dejó pérdidas de 11 millones de pesos."
 image: "/uploads/2021/images-JORGE.jpg"
 video: "/uploads/2021/videos-MM04_JORGE_ALDANA.mp4"
-audio: "nil"
+audio: nil
 alt: "Camargo víctima de delito cibernético"
 front: false
 section: "Local"
-news_id: 188928
+redirect_from: /news/188928
 ---
 
 El municipio de Camargo fue víctima de delito cibernético lo cual dejó una pérdida de 11 millones de pesos, según lo dio a conocer el Alcalde de este municipio , Jorge Aldana. Quien dijo que el pasado 18 de agosto se sufrió un ataque cibernético a los sistemas de seguridad del banco donde se tenían depositado este recurso.

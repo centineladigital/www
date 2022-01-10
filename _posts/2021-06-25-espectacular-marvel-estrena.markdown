@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Por fin Marvel estrenó el tráiler de su nueva película 'Shang-Chi y la Leyenda de los Diez Anillos', que se estrenará en septiembre de este año. "
 image: "/uploads/2021/images-la-pelicula-llegara-a-los.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Espectacular! Marvel estrena tráiler de 'Shang-Chi y la Leyenda de los Diez Anillos'"
 front: false
 section: "Espectáculos"
-news_id: 185253
+redirect_from: /news/185253
 ---
 
 En este 2021Marvel debutó con las series gracias a Disney Plus, pero algo con lo que han destacado y han emocionado a sus fans es con las películas de superhéroes y ahora, han revelado el tráiler oficial de su próxima producción: Shang-Chi y la Leyenda de los Diez Anillos, la cual formará parte de la Fase 4 de Marvel. 

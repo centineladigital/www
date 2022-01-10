@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Presidente recibió a las familias de los estudiantes en Palacio Nacional para presentar lo avances en las investigaciones del caso Iguala. "
 image: "/uploads/2021/images-padres-ingresaron-palacio-nacional-reunirse_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO recibe a padres de los 43 normalistas desaparecidos de Ayotzinapa"
 front: false
 section: "Nacional"
-news_id: 188020
+redirect_from: /news/188020
 ---
 
 Los padres de los 43 normalistas de Ayotzinapa llegaron a Palacio Nacional para reunirse con el presidente Andrés Manuel López Obrador, autoridades judiciales y de procuración de justicia para dar un avance de las investigaciones sobre los hechos ocurridos en Iguala la noche del 26 de septiembre de 2014. 

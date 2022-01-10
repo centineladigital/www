@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Saúl Álvarez subirá de categoría al peso crucero para retar a Ilunga Makabu en el 2022, lo que podría ser una pelea de riesgo para el mexicano"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Canelo Álvarez, con un riesgoso reto para enfrentar a Ilunga Makabu"
 front: false
 section: "Deportes"
-news_id: 190099
+redirect_from: /news/190099
 ---
 
 El pasado 6 de noviembre Saúl ‘Canelo’ Álvarez logró hacer historia al ser el primer latinoamericano en unificar los campeonatos del CMB, AMB, OMB y FIB en la categoría súpermediano. Tras ganarle a Caleb Plant la pregunta era, ¿Qué viene para el 'Canelo' al consolidarse como el mejor libra por libra del mundo?

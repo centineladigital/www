@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Zonas como América y el sudeste asiático han sido las que más cifras de fallecimientos por coronavirus contabilizaron"
 image: "/uploads/2021/images-coronavirus-mundo-considerado-pandemia-mundo_0_35_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Muertes por covid-19 aumentaron 21% en la última semana -  OMS"
 front: false
 section: "Internacional"
-news_id: 186052
+redirect_from: /news/186052
 ---
 
 El número de muertes por covid-19 aumentó considerablemente en la última semana en comparación con la anterior, un 21 por ciento, con cerca de 70 mil fallecimientos registrados, según el último informe epidemiológico de la Organización Mundial de la Salud (OMS). 

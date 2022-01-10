@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El hecho ocurre a horas de que culminen las masivas evacuaciones lideradas por las tropas de Estados Unidos en Afganistán"
 image: "/uploads/2021/images-ataque-cohetes-registro-aeropuerto-kabul.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rama afgana de Estado Islámico se adjudica ataque con cohetes a aeropuerto de Kabul"
 front: false
 section: "Internacional"
-news_id: 187235
+redirect_from: /news/187235
 ---
 
 El grupo yihadista Estado Islámico-Khorasan (EI-K) reivindicó un ataque con cohetes perpetrado hoy contra el aeropuerto de Kabul, capital de Afganistán, mientras las tropas de Estados Unidos encabezan los esfuerzos por agilizar las evacuaciones del territorio tanto de su contingente como de ciudadanos del país del Medio Oriente. 

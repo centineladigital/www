@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El detenido fue puesto a disposición del Juez del Ramo Penal que lo reclama, para que determine su situación jurídica. "
 image: "/uploads/2021/images-alcalde-acusado-peculado-monto-millon_0_64_580_361.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detienen a José Domingo “N” ex alcalde de Las Rosas, Chiapas por peculado"
 front: false
 section: "Nacional"
-news_id: 188129
+redirect_from: /news/188129
 ---
 
 La Fiscalía General del Estado (FGE), a través de la Fiscalía de Distrito Fronterizo Sierra, realizó una orden de aprehensión en contra de José Domingo Meneses Velasco, ex presidente municipal del municipio de las Rosas. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los factores determinantes son la edad mayor a 50 años, ser persona delgada, antecedentes familiares de osteoporosis, dieta pobre en alimentos con calcio, ser mujer, sedentarismo, tabaquismo, ingesta excesiva de alcohol o café."
 image: "/uploads/2021/images-Foto_5090-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recomienda IMSS Chihuahua detectar oportunamente la osteoporosis "
 front: false
 section: "Local"
-news_id: 188967
+redirect_from: /news/188967
 ---
 
 En el marco del Día Mundial contra la Osteoporosis, a celebrarse este 20 de octubre, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua da a conocer,  las condicionantes de esta enfermedad a fin de una detección y atención oportuna.

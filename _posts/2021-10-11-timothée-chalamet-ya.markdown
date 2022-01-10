@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Timothée Chalamet presumió por Instagram ante sus más de 13 millones de seguidores cómo luce para 'Wonka'. "
 image: "/uploads/2021/images-chalamet-presumio-su-nuevo-papel.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Timothée Chalamet ya luce como Willy Wonka para precuela de 'Charlie y la Fábrica de Chocolate'"
 front: false
 section: "Espectáculos"
-news_id: 188606
+redirect_from: /news/188606
 ---
 
 Una de las más jóvenes figuras de la actuación en Hollywood es Timothée Chalamet. El actor que ganara notoriedad gracias al filme de romance y drama Call Me By Your Name ('Llámame por tu nombre') ya está en camino de su próxima película que saldrá en 2023: Wonka, donde será nadie menos que el excéntrico protagonista dueño de la Fábrica de Chocolate, Willy Wonka. 

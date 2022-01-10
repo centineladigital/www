@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Destaca avances en el Plan de Vacunación; Ebrard Casaubon recibe 585 mil dosis de Pfizer; en próximos 12 días llegarán 10 millones de vacunas, informa el canciller"
 image: "/uploads/2021/images-2581085.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Quiere López Obrador 80 millones de vacunados para octubre"
 front: false
 section: "Nacional"
-news_id: 184532
+redirect_from: /news/184532
 ---
 
 Al destacar que en junio México habría recibido en total más de 40 millones de vacunas contra Covid-19, el presidente Andrés Manuel López Obrador resaltó que así se avanzará con el plan para tener en octubre a 80 millones de mexicanos vacunados con al menos una dosis.

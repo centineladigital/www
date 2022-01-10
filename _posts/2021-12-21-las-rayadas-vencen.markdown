@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Tras el empate en el marcador en tiempo regular, el Monterrey superó a las felinas en la tanda de penaltis y se quedó con el título"
 image: "/uploads/2021/images-rayadas_campeonas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Las Rayadas vencen a Tigres en penaltis y son campeonas del Apertura 2021 en la Liga MX Femenil"
 front: false
 section: "Deportes"
-news_id: 191057
+redirect_from: /news/191057
 ---
 
 Lo que ha hecho Eva Espejo con Rayadas es historia pura. Se ha convertido en la primera entrenadora campeona de la Liga MX Femenil y lo hicieron ante el rival más odiado, en su casa. 

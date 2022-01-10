@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A partir de este 1 de noviembre"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avanza Chihuahua a semáforo verde; sesiona Consejo Estatal de Salud en Juárez"
 front: false
 section: "Local"
-news_id: 189383
+redirect_from: /news/189383
 ---
 
 La gobernadora Constitucional del Estado de Chihuahua, María Eugenia Campos Galván, señaló la importancia de reforzar las medidas preventivas para evitar un incremento de contagios y con ello evitar un impacto negativo en la economía del estado.

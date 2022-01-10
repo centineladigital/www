@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con la situación actual y las festividades a la vuelta de la esquina, los consumidores están más motivados para comenzar su cacería de ofertas lo antes posible. "
 image: "/uploads/2021/images-black-friday-shutterstock-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Black Friday -  Así puedes comprar y aprovechar las promociones al máximo"
 front: false
 section: "Internacional"
-news_id: 190192
+redirect_from: /news/190192
 ---
 
 Este año, en lugar de ofertas especiales de un día, los descuentos se implementarán mucho antes de la semana de Thanksgiving, impulsados ​​por una serie de desafíos, incluidos los reveses de la cadena de suministro y una crisis laboral. 

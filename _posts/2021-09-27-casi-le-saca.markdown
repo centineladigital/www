@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La conductora de 'Hoy' expresó su molestia con la actriz por no instruir a su perrita para evitar que ataque a su hijo de un año. "
 image: "/uploads/2021/images-shanik-berman-explota-sherlyn-defender_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Casi le saca el ojo -  Shanik Berman 'explota' contra Sherlyn por defender a perro que atacó a su hijo"
 front: false
 section: "Espectáculos"
-news_id: 188084
+redirect_from: /news/188084
 ---
 
 Hace unos días, Sherlyn compartió a través de sus redes sociales que su hijo André había sido mordido en el rostro por su perrita llamada Neni y publicó una fotografía de la lesión que sufrió el pequeño en su mejilla, este alarmante episodio llegó a oídos de Shanik Berman, quien arremetió en contra de la actriz por defender al lomito que atacó al niño.  La conductora del programa Hoy compartió en su cuenta de Instagram un video en el que expresó su opinión sobre lo que sucedió con Sherlyn y su hijo -quien tiene poco más de un año de edad. Shanik Berman expresó su molestia con la actriz por instruir a su hijo, en lugar de amaestrar a su perrita.  

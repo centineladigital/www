@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "No es la primera canción del año para el artista, pues había lanzado el pasado 28 de mayo el tema 100 Millones, junto a su compatriota puertorriqueño Luar La L. "
 image: "/uploads/2021/images-bad-bunny-instagram-3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Anda imparable! Bad Bunny anuncia 'Yonaguni', su nueva canción; cuándo se estrena"
 front: false
 section: "Espectáculos"
-news_id: 184842
+redirect_from: /news/184842
 ---
 
 Tras incursionar con éxito en la lucha libre de Estados Unidos y participar en un programa de televisión junto a LeBron James, Bad Bunny volverá al terreno que lo consagró a nivel mundial, la música, con un nuevo sencillo que lanzará a primera hora de este viernes.  "Yonaguni" es el nombre de dicho tema, que el artista urbano puertorriqueño asegura "tiene un toque de baile suave". Así lo afirmó en una entrevista con Apple Music.  

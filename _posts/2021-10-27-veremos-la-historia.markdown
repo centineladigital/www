@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Chris Evans interpreta a quien inspirara el juguete de Buzz Lightyear en el spin-off de la aclamada saga de Toy Story, una producción llamada 'Lightyear'. "
 image: "/uploads/2021/images-usuarios-piden-pelicula-dedicada-woody.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Veremos la historia de Woody? Miles de usuarios exigen una película dedicada al comisario"
 front: false
 section: "Espectáculos"
-news_id: 189286
+redirect_from: /news/189286
 ---
 
 Ante la noticia con la que se despertó el mundo del cine esta mañana, de que tendremos una película dedicada a Buzz Lightyear, uno de los personajes más queridos de Disney, las redes sociales estallaron.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La producción española regresa con más misterios, intrigas y riñas; aquí te compartimos algunas imágenes y de qué tratará la nueva temporada. "
 image: "/uploads/2021/images-elite.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡'Élite' está de vuelta! Netflix anuncia fecha de estreno de la cuarta temporada"
 front: false
 section: "Espectáculos"
-news_id: 183819
+redirect_from: /news/183819
 ---
 
 Élite está de vuelta con un nuevo elenco y misterios. Ahora, los estudiantes del colegio Las Encinas están listos para comenzar el siguiente curso, un año que promete más intrigas, trágicos romances, desencuentros y riñas. La espera terminó y, por fin, la producción de Netflix reveló la fecha de estreno de la cuarta temporada de esta serie que ha cautivado a más de uno en todo el mundo.  

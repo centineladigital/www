@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Fue admirado por haber convertido al país en la primera potencia nuclear islámica pero acusado de difundir ilegalmente tecnología a Irán, Corea del Norte y Libia. "
 image: "/uploads/2021/images-funeral-abdul-qadeer-khan-domingo_0_95_1025_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió A.Q. Khan, padre de la bomba atómica de Pakistán, a los 85 años"
 front: false
 section: "Internacional"
-news_id: 188578
+redirect_from: /news/188578
 ---
 
 El padre de la bomba atómica en Pakistán, Abdul Qadeer Khan, y héroe nacional para muchos, murió a los 85 años tras dar positivo a coronavirus y ser hospitalizado varias veces desde agosto. 

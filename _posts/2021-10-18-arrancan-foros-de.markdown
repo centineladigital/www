@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El primer conversatorio con autoridades indígenas se realizó en el Auditorio Municipal de Carichí, donde estuvieron representadas más de 20 localidades de 3 municipios"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Arrancan Foros de Consulta Indígena del Plan Estatal de Desarrollo y Programa Sectorial 2022-2027"
 front: false
 section: "Local"
-news_id: 188883
+redirect_from: /news/188883
 ---
 
 Con el objetivo de recabar las propuestas, opiniones y sugerencias que integrarán el Plan Estatal de Desarrollo y el Programa Sectorial 2022-2027, el pasado fin de semana se realizó el 1º Foro de Consulta Indígena.

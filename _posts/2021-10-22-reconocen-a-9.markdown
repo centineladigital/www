@@ -10,11 +10,11 @@ author: nil
 description: "Representarán a México en el país de Malacia."
 image: "/uploads/2021/images-sed_4975.jpg"
 video: "/uploads/2021/videos-MV03_LORENZO_PARGA.mp4"
-audio: "nil"
+audio: nil
 alt: "Reconocen a 9 alumnos destacados a nivel internacional"
 front: false
 section: "Local"
-news_id: 189090
+redirect_from: /news/189090
 ---
 
 Un reconocimiento a nueve estudiantes que resultaron finalistas en Olimpiada Mexicana de Informática, para representar a México en el país de Malacia el 2022 se llevó a cabo por parte de la Secretaría de Educación esta viernes.

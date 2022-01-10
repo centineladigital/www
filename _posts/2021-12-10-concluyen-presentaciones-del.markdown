@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Elí Isa Loya cerró el evento con la presentación de su libro “Postdata del futuro”"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Concluyen presentaciones del Programa Editorial de Chihuahua 2020-2021"
 front: false
 section: "Local"
-news_id: 190721
+redirect_from: /news/190721
 ---
 
 El Gobierno Municipal, a través del Instituto de Cultura del Municipio, cerró las presentaciones del Programa Editorial de Chihuahua (PECH) en su edición 2020 – 2021,  con la presentación del libro “Posdata del futuro”, del autor Elí Isa Loya, en la sala guirnalda del Museo Sebastián.

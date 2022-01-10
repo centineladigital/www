@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las canadienses vencieron 1-0 a las cuatro veces campeonas olímpicas y se clasificaron a su primera final de una justa olímpica"
 image: "/uploads/2021/images-unidos-cae-canada-semifinales-futbol_1_44_1198_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estados Unidos es eliminado por Canadá en semifinales del futbol femenil en Tokio 2020"
 front: false
 section: "Deportes"
-news_id: 186186
+redirect_from: /news/186186
 ---
 
 La selección de Canadá sorprendió a la de Estados Unidos (1-0) y se clasificó a la final del torneo de futbol femenil de los Juegos Olímpicos de Tokio 2020. 

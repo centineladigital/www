@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Edwin Luna habló sobre la supuesta infidelidad de su esposa Kimberly Flores, quien se encuentra participando en el reality La casa de los famosos. "
 image: "/uploads/2021/images-edwin-luna-revelo-esposa-entrara.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Edwin Luna habla de supuesta infidelidad de su esposa; asegura tienen un acuerdo"
 front: false
 section: "Espectáculos"
-news_id: 187349
+redirect_from: /news/187349
 ---
 
 Hace unos días se estrenó el reality La casa de los famosos en donde Kimberly Flores, esposa de Edwin Luna, ha desatado la polémica ya que han surgido rumores de una supuesta infidelidad con Roberto Romano, algo que criticó Alicia Machado. Después del polémico momento, el vocalista de La Trakalosa de Monterrey rompió el silencio. 

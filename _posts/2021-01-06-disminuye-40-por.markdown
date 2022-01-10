@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En general se tiene una reducción de más de un 20 por ciento."
 image: "/uploads/2021/images-GIL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04_GILBERTO_LOYA.mp3"
 alt: "Disminuye 40 por ciento robo a viviendas"
 front: false
 section: "Local"
-news_id: 181923
+redirect_from: /news/181923
 ---
 
 Una reducción de un 40 por ciento es lo que se registró en el municipio de Chihuahua en el rubro de robo a casa habitación, señaló el titular de la Dirección de Seguridad Pública Municipal Gilberto Loya Chávez.

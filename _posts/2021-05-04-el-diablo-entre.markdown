@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El director asegura que esta es la mejor cinta que ha dirigido hasta ahora, nuevamente en mancuerna con la guionista Paz Alicia Garciadiego."
 image: "/uploads/2021/images-sylvia-pasquel-patricia-reyes-spindola.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'El diablo entre las piernas', película de Arturo Ripstein, llega a cines mexicanos"
 front: false
 section: "Espectáculos"
-news_id: 184270
+redirect_from: /news/184270
 ---
 
 Después de posponer la fecha de estreno por meses, finalmente llega a las salas de cine mexicanas la más reciente película del director mexicano Arturo Ripstein, con un elenco estelar y la firme convicción del propio director de que este es el mejor trabajo de su carrera. Patricia Reyes Spíndola, Sylvia Pasquel, Alejandro Suárez, Daniel Giménez Cacho y Greta Cervantes protagonizan El diablo entre las piernas, largometraje desarrollado a partir de un guión escrito por la guionista Paz Alicia Garciadiego (Profundo Carmesí (1997), La calle de la amargura (2015)), y que tuvo previas proyecciones en foros como el Festival Internacional de Cine de Morelia y en la Cineteca Nacional durante 2019. 

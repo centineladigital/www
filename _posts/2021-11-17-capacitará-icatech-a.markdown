@@ -10,11 +10,11 @@ author: nil
 description: "Invierten más de siete millones de pesos en capacitar a empleados. "
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-MW05_ARTURO_MORALES.mp4"
-audio: "nil"
+audio: nil
 alt: "Capacitará ICATECH a servidores públicos municipales de Juárez"
 front: false
 section: "Local"
-news_id: 189933
+redirect_from: /news/189933
 ---
 
 Empleados municipales de Ciudad participen en cursos de certificación sobre capacitación en el trabajo, esto tras la firma de un convenio entre el Instituto de Capacitación para el Trabajo del Estado de Chihuahua y la administración que encabeza Cruz Pérez Cuellar en Ciudad Juárez.

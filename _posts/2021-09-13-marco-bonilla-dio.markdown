@@ -10,11 +10,11 @@ author: nil
 description: "El recorrido fue para hablar sobre temas turísticos y económicos. "
 image: "/uploads/2021/images-MARCO_BONILLA.jpeg"
 video: "/uploads/2021/videos-BL06_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: " Marco Bonilla dio recorrido por las calles del centro histórico "
 front: false
 section: "Local"
-news_id: 187691
+redirect_from: /news/187691
 ---
 
 Marco Bonilla alcalde constitucional de Chihuahua dio un recorrido en el centro de la  ciudad  acompañado de Ricardo Peréa presidente de COCENTRO y Julio Cesar Salas  director de Seguridad Pública Municipal.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mucho se ha especulado sobre la salida de Verónica Castro de La casa de las Flores y ahora, la actriz desmintió lo dicho por Manolo Caro."
 image: "/uploads/2021/images-actriz-tacho-mentiroso-manolo-caro_55_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Que Dios lo perdone -  Verónica Castro arremete contra Manolo Caro por su salida de 'La casa de las Flores'"
 front: false
 section: "Espectáculos"
-news_id: 185268
+redirect_from: /news/185268
 ---
 
 En el 2018 llegó a Netflix la primera temporada de la serie creada por Manolo Caro, La casa de las Flores. Gracias a esta producción se marcó el regreso de Verónica Castro a la pantalla chica y aunque fue todo un éxito, la mamá de Cristian Castro no volvió a aparecer, ahora, la actriz arremetió contra el director.

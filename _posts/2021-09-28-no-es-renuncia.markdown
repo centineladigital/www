@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que se busca un frente para proteger al país."
 image: "/uploads/2021/images-RR0.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM04_ROCIO_REZA.mp4"
 alt: "No es renuncia de Madero al PAN -  Reza"
 front: false
 section: "Local"
-news_id: 188157
+redirect_from: /news/188157
 ---
 
 La renuncia a la bancada del PAN del Senador Gustavo Madero no representa una renuncia al partido, fueron las palabras de su homóloga chihuahuense Rocío Reza Gallegos, quien dijo que lo que se busca es combatir la realidad del país que se vive en el centro de éste. Ya que según la visión de la Congresista de la Cámara Alta.

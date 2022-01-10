@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El conductor Pepillo Origel reveló que Vicente Fernández, don Chente, y Alejandro Fernández, 'El Potrillo', ya recibieron la vacuna contra el covid-19.   "
 image: "/uploads/2021/images-vicente-alejandro-fernandez-vacunados-covid.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Corrupción? Vicente Fernández y 'El Potrillo' ya se vacunaron contra covid-19 -  Pepillo Origel"
 front: false
 section: "Espectáculos"
-news_id: 181962
+redirect_from: /news/181962
 ---
 
 ¿Vicente Fernández, Alejandro Fernández y Gerardo Fernández ya fueron vacunados contra el covid-19? Es la pregunta que se ha posicionado en las últimas horas, luego de que el conductor de espectáculos Pepillo Origel informara que los cantantes ya recibieron la dosis contra el coronavirus. ¿Utilizaron sus palancas? ¿Pagaron por ella? ¿Tráfico de influencias y corrupción? Te contamos lo que expresó el presentador de televisión en su canal de YouTube. Pepillo Origel comunicó en su canal de YouTube que de muy buena fuente se enteró que don Vicente Fernández, don Chente, ya recibió la vacuna contra el coronavirus. Además que no fue el único afortunado, pues incluso Alejandro Fernández, El Potrillo, y Gerardo Fernández (otro de los hijos del cantante) fueron vacunados. 

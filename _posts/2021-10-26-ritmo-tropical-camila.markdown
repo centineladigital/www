@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Camila Cabello será la encargada de uno de los actos en vivo en los Grammy Latino en donde también se podrá disfrutar de las presentaciones de artistas como Rauw Alejandro, Christian Nodal y Rosalía. "
 image: "/uploads/2021/images-camila-cabello-lanzara-cancion-myke.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Ritmo Tropical? Camila Cabello anuncia canción junto a Myke Towers"
 front: false
 section: "Espectáculos"
-news_id: 189233
+redirect_from: /news/189233
 ---
 
 Después de ser captada de la mano de Shawn Mendes en Oaxaca, Camila Cabello anuncio este martes su próxima canción que será estrenada el próximo 29 de octubre.

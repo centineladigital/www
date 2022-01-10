@@ -14,11 +14,11 @@ author: nil
 description: "Tomó protesta en el Congreso del Estado "
 image: "/uploads/2021/images-CHIHUAHUA-GEO-BUJANDA.jpg"
 video: "/uploads/2021/videos-BJ02_GEO_BUJANDA.mp4"
-audio: "nil"
+audio: nil
 alt: "Georgina Bujanda nueva presidenta del congreso  "
 front: false
 section: "Local"
-news_id: 188003
+redirect_from: /news/188003
 ---
 
 La Presidenta Georgina Bujanda, señaló, trabajará con estricto apego al marco jurídico con respeto y tolerancia, puesto que al tener la renuncia de Mario Humberto Vázquez como Presidente del Congreso del Estado ella es la nueva presidenta del mismo.

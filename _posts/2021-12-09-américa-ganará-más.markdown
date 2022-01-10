@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ambos clubes se quedarán con una parte de los derechos federativos del jugador"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "América ganará más con el cambio de Córdova y Antuna"
 front: false
 section: "Deportes"
-news_id: 190665
+redirect_from: /news/190665
 ---
 
 Más allá de que —en lo futbolístico— da la impresión de que el América perdería en el polémico trueque entre Sebastián Córdova y Uriel Antuna, la directiva de las Águilas planea que no lo sea  en el ámbito económico.

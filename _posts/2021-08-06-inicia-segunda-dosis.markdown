@@ -10,11 +10,11 @@ author: nil
 description: "En Parral, Chihuahua y Juárez se aplicarán la Aztrazeneca y Pfizer."
 image: "/uploads/2021/images-WENDY.jpg"
 video: "/uploads/2021/videos-MV02_WENDY_AVILA.mp4"
-audio: "nil"
+audio: nil
 alt: "Inicia segunda dosis para mayores de 40 años"
 front: false
 section: "Local"
-news_id: 186408
+redirect_from: /news/186408
 ---
 
 A partir del 10 de agosto iniciará la segunda dosis de vacunación en contra del coronavirus para personas de 40 a 49 años, según lo dio a conocer la Subdirectora de Medicina Preventiva y Promoción de la Salud, Wendy Ávila Coronado. 

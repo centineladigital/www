@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La obra llega al Foro Shakespeare a partir de este jueves 28 de octubre."
 image: "/uploads/2021/images-actriz-busca-transmitir-mensaje-actual.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fanny Sarfati reconoce en “El ángel de Varsovia” la resiliencia del teatro"
 front: false
 section: "Espectáculos"
-news_id: 189360
+redirect_from: /news/189360
 ---
 
 La resaca de la pandemia, en la mente de los sobrevivientes, puede medirse en las ganas de hacer algo que valga la pena, en dejar una marca positiva en aquellos con los que interactuamos; estas son algunas de las preocupaciones que la actriz Fanny Sarfati considera que tendremos como generación post pandemia y que la han influenciado en la forma que vive y en cómo realiza su labor actoral. Es por eso que frente al estreno de su obra unipersonal “El ángel de Varsovia”, puesta en escena en la que interpreta a Irena Sendler, una enfermera polaca que contribuyó en la liberación de niños judíos durante la Segunda Guerra Mundial, llega a su vida como un vendaval emocional que, además, cobra mucho mayor relevancia ahora, en el contexto pandémico. 

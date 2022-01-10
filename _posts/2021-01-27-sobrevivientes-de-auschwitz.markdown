@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La ceremonia por el aniversario 76 de la liberación del campo de exterminio de Auschwitz tiene lugar de forma virtual, debido a la pandemia de covid-19"
 image: "/uploads/2021/images-2519142.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sobrevivientes de Auschwitz conmemoran aniversario de liberación"
 front: false
 section: "Internacional"
-news_id: 182477
+redirect_from: /news/182477
 ---
 
 Marian Turski, un sobreviviente de 94 años del campo de exterminio de Auschwitz, conmemoró de forma virtual el aniversario número 76 de la liberación del campo por las tropas soviéticas, consciente de que puede que no vuelva a pisarlo nunca más, debido a la pandemia de coronavirus.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "De acuerdo con la organización, el uso mundial de cubrebocas evitaría hasta 160 mil muertes antes que comience el mes de marzo "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La OMS advierte pérdida de cientos de miles de vidas por Covid-19, a inicios de 2022"
 front: false
 section: "Internacional"
-news_id: 190100
+redirect_from: /news/190100
 ---
 
 Cientos de miles de personas más en Europa podrían morir en relación con el coronavirus en la primavera de 2022, ha advertido este martes, 23 de noviembre, la Organización Mundial de la Salud (OMS). Se espera que las unidades de cuidados intensivos de 49 de los 53 países de la región europea se enfrenten a una carga alta o extrema de aquí al 1° de marzo.

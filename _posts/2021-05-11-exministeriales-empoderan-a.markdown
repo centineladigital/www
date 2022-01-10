@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "César Augusto Peniche dijo que en el caso del agente abatido, se encuentran abocados todos en la investigación, aseguró que será un hecho que no va a pasar desapercibido, no habrá impunidad"
 image: "/uploads/2021/images-César_Peniche.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exministeriales empoderan a crimen organizado en Parral -  Fiscal"
 front: false
 section: "Local"
-news_id: 184391
+redirect_from: /news/184391
 ---
 
 Tras el asesinato del comandante de la Agencia Estatal de Investigación, Luis Raúl Tarango Ávila, el fiscal general del estado César Augusto Peniche comentó que existe una colaboración entre grupos de exministeriales que se han convertido en abogados defensores del crimen organizado en el municipio de Parral, lo que ha retardado las acciones judiciales y empoderado a los criminales.

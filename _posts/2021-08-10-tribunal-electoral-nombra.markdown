@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El TEPJF informó que el 1 de septiembre se emitirá la convocatoria para designar una nueva titularidad en la Presidencia de la Sala Superior"
 image: "/uploads/2021/images-felipe-fuentes-barreda-presidente-tepjf.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tribunal Electoral nombra a Felipe Fuentes como su presidente hasta el 1 de septiembre"
 front: false
 section: "Nacional"
-news_id: 186502
+redirect_from: /news/186502
 ---
 
 Felipe Fuentes Barrera fue elegido por la Sala Superior como presidente de transición del Tribunal Electoral del Poder Judicial de la Federación, hasta que concluyan las impugnaciones del proceso electoral y el 1 de septiembre poder emitir la convocatoria para una nueva presidencia. 

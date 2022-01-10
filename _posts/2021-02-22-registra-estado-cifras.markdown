@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En las últimas 24 horas se acreditaron 164 contagiados."
 image: "/uploads/2021/images-CASOS.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML01_GUMARO_BARRIOS.mp3"
 alt: "Registra estado cifras bajas de hospitalizados"
 front: false
 section: "Local"
-news_id: 183090
+redirect_from: /news/183090
 ---
 
 En las últimas horas se ha registrado el número más bajo de casos de personas hospitalizadas, señaló el titular de área de epidemiología Gumaro Barrios Gallegos, esto al dar a conocer la actualización de los casos de pacientes que dieron positivo a la prueba PCR, donde en las últimas 24 horas se acreditaron 164 contagiados y la muerte de 31 personas por causa del coronavirus.

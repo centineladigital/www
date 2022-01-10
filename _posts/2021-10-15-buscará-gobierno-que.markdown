@@ -10,11 +10,11 @@ author: nil
 description: "Lamenta Gobernadora muerte de madre de menor desaparecida."
 image: "/uploads/2021/images-MARU1.jpg"
 video: "/uploads/2021/videos-MV05_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Buscará Gobierno que no se repita el caso de Alondra"
 front: false
 section: "Local"
-news_id: 188790
+redirect_from: /news/188790
 ---
 
 Tras la muerte de Yesica María Corpus, madre de Alondra Nolasco Corpus, el Gobierno del Estado buscará que este tipo de desapariciones no vuelva a ocurrir afirmó la titular del Ejecutivo Estatal, María Eugenia Campos Galván.

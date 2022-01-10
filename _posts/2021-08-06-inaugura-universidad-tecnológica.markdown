@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los programas de estudio de las ingenierías Industrial; en Redes Inteligentes y Ciberseguridad; así como en Mantenimiento Industrial, están a la vanguardia para atender las necesidades del sector productivo"
 image: "/uploads/2021/images-UTP_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura Universidad Tecnológica de Parral  tres nuevos laboratorios equipados con tecnología de punta"
 front: false
 section: "Local"
-news_id: 186411
+redirect_from: /news/186411
 ---
 
 Estudiantes de las carreras de Ingeniería Industrial; en Redes Inteligentes y Ciberseguridad; así como en Mantenimiento Industrial, de la Universidad Tecnológica de Parral (UT Parral), cuentan ya con espacios adecuados y equipo de nueva generación, para mejorar el proceso de enseñanza-aprendizaje, así como su preparación para el mundo laboral.  

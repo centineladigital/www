@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Reabrirán sus puertas a  partir del 4 de enero"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cerrarán museos municipales del 24 de diciembre al 3 de enero"
 front: false
 section: "Local"
-news_id: 191085
+redirect_from: /news/191085
 ---
 
 El Gobierno Municipal, a través del Instituto de Cultura del Municipio de Chihuahua (ICM), informa a la ciudadanía que los museos municipales permanecerán cerrados del 24 de diciembre al 3 de enero.

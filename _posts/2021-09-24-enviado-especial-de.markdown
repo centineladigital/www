@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "No me asociaré con la decisión inhumana y contraproducente de Estados Unidos de deportar a miles de refugiados haitianos e inmigrantes ilegales a Haití, aseguró Daniel Foote. "
 image: "/uploads/2021/images-haitianos-cruzan-rio-bravo-flujo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Enviado especial de EU a Haití renuncia por inhumanas expulsiones de migrantes"
 front: false
 section: "Internacional"
-news_id: 188019
+redirect_from: /news/188019
 ---
 
 El enviado especial de la administración de Biden a Haití renunció en protesta por las expulsiones "inhumanas" a gran escala de migrantes haitianos a su tierra natal, ya que está atormentada por conflictos civiles y desastres naturales, dijeron el jueves funcionarios estadunidenses. 

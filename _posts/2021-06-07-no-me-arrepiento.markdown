@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor respondió a las críticas que recibió en redes por ocupar la palabra acoso para bromear sobre la muestra de afecto que recibió de parte de su esposa. "
 image: "/uploads/2021/images-sergio-mayer-celebra-cumpleanos-issabela_0_0_1200_747_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No me arrepiento -  Sergio Mayer responde a críticas por polémica foto con Issabela Camil"
 front: false
 section: "Espectáculos"
-news_id: 184895
+redirect_from: /news/184895
 ---
 
 Sergio Mayer está en el ojo del huracán luego de publicar una polémica foto junto a su esposa, Issabela Camil, una imagen que le ganó duras críticas al político en redes sociales por ocupar la palabra acoso para bromear sobre la muestra de afecto que recibió de parte de su pareja. Tras lo sucedido, el actor mexicano ofreció una disculpa, al mismo tiempo que señaló que así es su personalidad. 

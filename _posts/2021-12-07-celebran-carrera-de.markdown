@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Participaron 130 competidores en un recorrido de 40 kilómetros"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Celebran carrera de ciclismo “Indio Gerónimo” en ex Hacienda de El Sauz"
 front: false
 section: "Local"
-news_id: 190586
+redirect_from: /news/190586
 ---
 
 El Gobierno Municipal, a través de la Subdirección de Turismo, y en conjunto con el Club Ciclismo de Chihuahua, realizaron la carrera de ciclismo de montaña “Indio Gerónimo” en el Museo ex Hacienda El Sauz, con el objetivo de fomentar el deporte y turismo de la zona.

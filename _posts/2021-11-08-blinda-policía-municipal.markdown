@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El jefe de la Policía destacó la vigilancia virtual con las más de mil 500 cámaras de la PECUU"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Blinda Policía Municipal ciudad por Buen Fin y Navidad; advierte Alcalde no habrá tregua para delincuentes   "
 front: false
 section: "Local"
-news_id: 189643
+redirect_from: /news/189643
 ---
 
 El presidente municipal, Marco Bonilla Mendoza, arrancó el Operativo del Buen Fin y Navideño, que desplegará en toda la ciudad 600 elementos y operadores de las cámaras de la Plataforma Escudo Chihuahua, para dar seguridad a los chihuahuenses que por la temporada navideña reciben su ahorro y aguinaldo.

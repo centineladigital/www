@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El mal manejo de tanques o cilindros de gas es un gran factor de peligro, una fuga no controlada podría provocar hasta la muerte"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Pide Protección Civil Estatal dar mantenimiento y uso correcto a tanques de gas, especialmente esta esta temporada invernal"
 front: false
 section: "Local"
-news_id: 191162
+redirect_from: /news/191162
 ---
 
 La Coordinación Estatal de Protección Civil emitió una serie de recomendaciones con la finalidad de que la población concientice sobre el uso correcto de los tanques y cilindros de gas LP.

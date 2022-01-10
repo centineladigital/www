@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se trata de un nuevo ataque al reino saudí desde que intervino en la guerra encajada en Yemen"
 image: "/uploads/2021/images-ataque-en-aeropuerto-de-arabia_1_23_1022_637.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atacan aeropuerto en Arabia Saudita con dron cargado de explosivos; se reportan 8 heridos"
 front: false
 section: "Internacional"
-news_id: 187283
+redirect_from: /news/187283
 ---
 
 Un dron cargado de explosivos atacó este martes un aeropuerto en el suroeste de Arabia Saudita, donde hirió a ocho personas y causó daños en un avión civil, según la televisión estatal. Se trató de un nuevo ataque al reino saudí desde que intervino en la enquistada guerra en Yemen.

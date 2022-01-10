@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Ofrece las ingenierías en Tecnología Ambiental, Aeronáutica y Mecánica Automotriz, así como la Licenciatura en Administración y Gestión Empresarial"
 image: "/uploads/2021/images-FOTO_DE_ARCHIVO_2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúa entrega de fichas de ingreso en la Universidad Politécnica de Chihuahua"
 front: false
 section: "Local"
-news_id: 185915
+redirect_from: /news/185915
 ---
 
 La Universidad Politécnica de Chihuahua (UPCH) continúa con la entrega de fichas de ingreso para el cuatrimestre septiembre-diciembre 2021, que iniciará el próximo lunes 30 de agosto.

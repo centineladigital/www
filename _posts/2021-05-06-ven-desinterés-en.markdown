@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De esta realidad han dado cuenta distintas diócesis y redes de ayuda a migrantes no sólo de México sino de Estados Unidos, Centroamérica y Sudamérica"
 image: "/uploads/2021/images-2574106.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ven desinterés en frenar la migración"
 front: false
 section: "Nacional"
-news_id: 184307
+redirect_from: /news/184307
 ---
 
 La migración irregular no es un asunto de seguridad nacional que se resuelva con muros físicos o militares, requiere más bien de una acción conjunta a nivel regional que ataque las causas que la motivan, solo que en el caso de los migrantes centroamericanos, sus gobiernos "no tienen mucho interés en detener" el éxodo de sus habitantes hacia América del Norte.

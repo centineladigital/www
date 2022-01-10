@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En diciembre se otorga una deducción del 100% en recargos y 90% en adeudos, en tanto que para enero del próximo año será del 90% en recargos y 80% en adeudos; aplica únicamente en contratos de casa habitación con adeudo de más de 12 meses"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presenta JMAS Chihuahua el programa de descuentos “Ponte al Corriente”"
 front: false
 section: "Local"
-news_id: 190639
+redirect_from: /news/190639
 ---
 
 Gobierno del Estado, a través la Junta Municipal de Agua y Saneamiento (JMAS) de Chihuahua, presentó este miércoles 8 de diciembre, el programa de descuentos “Ponte al Corriente”, con el objetivo de que usuarias y usuarios puedan regularizar sus adeudos en el pago de este servicio.

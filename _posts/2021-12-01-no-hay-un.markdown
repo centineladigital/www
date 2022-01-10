@@ -14,11 +14,11 @@ author: nil
 description: "“No hay un incremento en los aguinaldos y prestaciones para el personal del congreso ni para los diputados”"
 image: "/uploads/2021/images-REGIDOR-ALFREDO.jpg"
 video: "/uploads/2021/videos-_BW04_ALFREDO_CHAVEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "No hay un incremento en los aguinaldos de diputados -  Chávez"
 front: false
 section: "Local"
-news_id: 190404
+redirect_from: /news/190404
 ---
 
 “No hay un incremento en los aguinaldos y prestaciones para el personal del congreso ni para los diputados”, así lo manifestó Alfredo Chávez al ser cuestionado sobre los datos de los próximos aguinaldos para este 2021 en el Congreso del Estado, dadas  las políticas de austeridad de las que se hablan en el legislativo.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Escándalo en Colombia luego de que el hijo de un hombre que murió hace 28 años denunciara en medios de comunicación que su papá aparecía en el registro de personas que recibirían la vacuna covid."
 image: "/uploads/2021/images-2524980.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Registran' a hombre muerto hace 28 años para recibir vacuna covid en Colombia"
 front: false
 section: "Internacional"
-news_id: 182766
+redirect_from: /news/182766
 ---
 
 Medios colombianos denunciaron que un hombre que murió hace 28 años aparece registrado en el portal de personas de la tercera edad que solicitan la vacuna contra el covid, mismo que habilitó el gobierno de Colombia.

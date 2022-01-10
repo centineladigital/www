@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Powell fue el primer afroamericano en ocupar el puesto de jefe del Estado Mayor Conjunto, antes de convertirse en jefe de la diplomacia estadunidense. "
 image: "/uploads/2021/images-colin-powell-ex-secretario-de.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Colin Powell, ex secretario de Estado de EU, por covid-19"
 front: false
 section: "Internacional"
-news_id: 188831
+redirect_from: /news/188831
 ---
 
 Colin Powell, ex secretario de Estado estadunidense durante el mandato del republicano George W. Bush, falleció a los 84 años de edad por "complicaciones de covid-19", informó su familia. 

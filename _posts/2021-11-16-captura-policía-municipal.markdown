@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente Municipal, informó que Sergio G.L, es acusado de participar en atracos a farmacias, tiendas y mini super"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Captura Policía Municipal a presunto ladrón de 11 locales comerciales"
 front: false
 section: "Local"
-news_id: 189879
+redirect_from: /news/189879
 ---
 
 Un presunto ladrón de farmacias, mini super y comercios, fue capturado gracias al trabajo de la Unidad de Investigación Policial y la Unidad de Análisis Táctico de la Dirección de Seguridad Pública Municipal (DSPM), informó el presidente municipal, Marco Bonilla en rueda de prensa.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La activación física libera hormonas que producen sensación de bienestar."
 image: "/uploads/2021/images-Foto_5173-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recomienda IMSS Chihuahua realizar ejercicio para reducir depresión y estrés"
 front: false
 section: "Local"
-news_id: 189018
+redirect_from: /news/189018
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua recomienda realizar cualquier tipo de ejercicio físico o simplemente caminar 30 minutos diarios, para liberar el estrés y mejorar el estado de ánimo que producen los actuales estilos de vida.

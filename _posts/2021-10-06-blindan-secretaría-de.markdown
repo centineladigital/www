@@ -10,11 +10,11 @@ author: nil
 description: "Instalan arcos detectores y refuerzan seguridad en el edificio."
 image: "/uploads/2021/images-SFP.jpg"
 video: "/uploads/2021/videos-MW04_SPF.mp4"
-audio: "nil"
+audio: nil
 alt: "Blindan Secretaría de la Función Pública"
 front: false
 section: "Local"
-news_id: 188437
+redirect_from: /news/188437
 ---
 
 Dentro de las acciones de la nueva administración estatal se ha “blindado” la Secretaría de la Función Pública, esto ya que a comparación de la pasada administración se han colocado arcos detectores de metales y dos guardias quien impiden pasar a los reporteros.

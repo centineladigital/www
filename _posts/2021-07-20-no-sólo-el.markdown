@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dua Lipa sorprendió a sus fans al revelar que pasó unos días en México y que incluso se dio el tiempo de visitar uno de los lugares más icónicos: Bellas Artes. "
 image: "/uploads/2021/images-museo-palacio-bellas-artes-compartio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡No sólo el Nido de Quetzalcóatl! Dua Lipa visitó Bellas Artes durante su estancia en México"
 front: false
 section: "Espectáculos"
-news_id: 185853
+redirect_from: /news/185853
 ---
 
 Hace unos días Dua Lipa publicó en Instagram unas fotos que le revelaron a sus seguidores que había visitado México. Las primeras imágenes que publicó fueron tomadas en el Nido de Quetzalcóatl, una obra arquitectónica creada por Javier Senosian, pero ese no fue el único sitio que visitó la cantante durante su estancia en la Ciudad de México, ya que se tomó el tiempo de ir al Palacio de Bellas Artes. 

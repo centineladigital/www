@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante y la banda compartieron escenario durante su gira 'Botella tras botella'; además Fher Olvera confirmó que trabajarán a lado del cantante. "
 image: "/uploads/2021/images-christian-nodal-canta-con-mana_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Un palomazo! Christian Nodal y Maná unen sus voces en concierto; confirman colaboración"
 front: false
 section: "Espectáculos"
-news_id: 190130
+redirect_from: /news/190130
 ---
 
 Christian Nodal continúa dando de qué hablar, ya sea por su nuevo tatuaje en honor al disco de Belinda (Utopía), un cobertor con su rostro al estilo de los del tigre de San Marcos o el problema legal contra su ex disquera, el cantante sigue en boca de todos. En este ocasión se debió por su colaboración musical con Maná, pues para sorpresa de sus fans el artista compartió escenario con la banda liderada por Fher Olvera. El intérprete de "Adiós amor" no dejó pasar la oportunidad de cantar a lado de Maná y aceptó la propuesta de unir sus voces. Fue durante su concierto en Houston, Texas, que Nodal invitó a subir al escenario a la agrupación Maná, junto a la que entonó dos emblemáticas canciones. 

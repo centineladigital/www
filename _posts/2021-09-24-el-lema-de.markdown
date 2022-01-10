@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aseguró que FECHAC representa esa actitud de permanente solidaridad ciudadana "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-24_at_16.05.11.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El lema de este gobierno es juntos sí podemos, y aquí en FECHAC, este lema alcanza una especial vitalidad -  Maru Campos"
 front: false
 section: "Local"
-news_id: 188049
+redirect_from: /news/188049
 ---
 
 La gobernadora del estado de Chihuahua, Maru Campos Galván, asistió este viernes al informe de actividades de la Fundación del Empresariado Chihuahuense en Ciudad Juárez encabezado por el presidente del Consejo Directivo de FECHAC, Luis Alberto Barrio.

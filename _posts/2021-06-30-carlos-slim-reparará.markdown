@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente afirmó que confía en que la empresa de Slim entregó la obra concluida y bien construida. “Él va a pagar todo, dijo el mandatario."
 image: "/uploads/2021/images-amlo_slim.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Carlos Slim reparará la línea 12 del metro"
 front: false
 section: "Nacional"
-news_id: 185307
+redirect_from: /news/185307
 ---
 
 El presidente Andrés Manuel López Obrador informó que el empresario Carlos Slim pagará por la rehabilitación del tramo de la Línea 12 del Metro de la Ciudad de México e hizo un llamado a que las demás compañías involucradas hagan lo mismo. En su conferencia mañanera, López Obrador aseguró que Slim no busca obtener algún presupuesto, pues todos los gastos estarán a cargo de la empresa y se prevé que las obras concluyan en un año.

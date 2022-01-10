@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La primera ganadora del reality musical no consiguió la victoria durante la temporada de 'Desafío de estrellas'."
 image: "/uploads/2021/images-myriam-montemayor-senala-victor-garcia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "A mí nadie me va a hacer dudar del público -  Así fue el día que Myriam estalló contra 'La Academia' por utilizarla"
 front: false
 section: "Espectáculos"
-news_id: 187838
+redirect_from: /news/187838
 ---
 
 Myriam Montemayor fue la primera ganadora del reality musical de Azteca, La Academia; sin embargo, siete años después, la cantante decidió regresar a una tercera emisión de Desafío de estrellas, donde se enfrentaban las mejores voces de todas las generaciones del proyecto. Sin embargo, en esta tercera emisión, Myriam terminó renunciando a Tv Azteca, luego de sentirse utilizada para impulsar la carrera de Fabiola, quien se alzó con el primer lugar del concurso. 

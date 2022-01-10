@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los registros señalan que al menos 2 mil 323 personas podrían haber muerto de cólera este año, pero se teme que la cifra real sea mayor porque muchas comunidades afectadas están en zonas de difícil acceso"
 image: "/uploads/2021/images-nina-agua-cabeza-pasa-aguas_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nigeria, con grave brote de cólera; reportan más de 2 mil muertos por posibles casos"
 front: false
 section: "Internacional"
-news_id: 187704
+redirect_from: /news/187704
 ---
 
 Nigeria sufre uno de sus peores brotes de cólera en años, con más de 2 mil 300 muertos por posibles casos, mientras el país más poblado de África trataba de hacer frente a varias enfermedades distintas. 

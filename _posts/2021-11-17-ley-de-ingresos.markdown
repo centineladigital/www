@@ -16,11 +16,11 @@ author: nil
 description: "Será llevada ante el pleno en el Congreso del Estado para su aprobación"
 image: "/uploads/2021/images-Marco_Bonilla.jpg"
 video: "/uploads/2021/videos-BW03_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "Ley de ingresos se estima en 4 mil millones de pesos  "
 front: false
 section: "Local"
-news_id: 189939
+redirect_from: /news/189939
 ---
 
 El presidente Marco Antonio Bonilla Mendoza, señaló que en próximos días se llevará a cabo en el municipio una ley de ingresos que ronda por los 4 mil millones de pesos para obras en la ciudad, asímismo argumentó que se está en discusión el análisis entre las y los regidores del municipio.

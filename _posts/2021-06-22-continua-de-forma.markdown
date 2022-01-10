@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Impugnaciones no dependen de la administración estatal."
 image: "/uploads/2021/images-MESTA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM06_FERNANDO_MESTA.mp3"
 alt: "Continua de forma normal proceso de entrega-recepción"
 front: false
 section: "Local"
-news_id: 185178
+redirect_from: /news/185178
 ---
 
 Pese a las impugnaciones el proceso de entrega-recepción se lleva a cabo de forma normal, señaló el Secretario General de Gobierno, Fernando Mesta Soulé. El funcionario señaló que el proceso se inició de forma informal, esto desde que se dio a conocer el triunfo de la Gobernadora Electa María Eugenia Campos Galván.

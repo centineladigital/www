@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La ceremonia se desarrollará en el Salón Gobernadores de Palacio de Gobierno   "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Elegirán este miércoles al Premio Estatal del Deporte 2021"
 front: false
 section: "Local"
-news_id: 189688
+redirect_from: /news/189688
 ---
 
 Mañana miércoles se realizará la ceremonia de elección del atleta ganador del Premio Estatal del Deporte 2021, en ceremonia que se desarrollará en punto de las 10:00 horas en el salón Gobernadores de Palacio de Gobierno, galardón por el cual contienden 22 deportistas y 12 entrenadores.

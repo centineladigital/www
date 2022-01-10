@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En conferencia matutina del Presidente de México, se explica que se aportaron todos los elementos que se tenían que aportar y únicamente se espera la resolución de la jueza federal en Miami, donde está preso el exgobernador de Chihuahua."
 image: "/uploads/2021/images-20200709_7rteXGQHS3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se agotaron todos los pasos procesales, informa Cancillería sobre extradición de César D.J."
 front: false
 section: "Local"
-news_id: 185620
+redirect_from: /news/185620
 ---
 
 El proceso de extradición del exgobernador de Chihuahua, César D.J. se está llevando a cabo, dijo el presidente Andrés Manuel López Obrador, cuando fue cuestionado sobre el tema en la conferencia de prensa matutina de hoy.

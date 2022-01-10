@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La banda juvenil de los 90s y 2000 alcanzó la fama mundial gracias a su estilo único y su asombrosa forma de bailar."
 image: "/uploads/2021/images-el-dia-que-los-backstreet.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así fue el día que los Backstreet Boys bailaron merengue con Adal Ramones en 'Otro Rollo'"
 front: false
 section: "Espectáculos"
-news_id: 186415
+redirect_from: /news/186415
 ---
 
 Otro Rollo fue un programa de Televisa que se mantuvo en el gusto de los televidentes durante más de una década, de 1995 al 2007, esto debido a la actitud desfachatada de su conductor, Adal Ramones, quien con monólogos y sketches humorísticos consiguió volverse un referente cómico para miles de personas. 

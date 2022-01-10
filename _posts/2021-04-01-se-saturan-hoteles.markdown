@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las hospederías de la zona Diamante se encuentra agotadas para esta primera semana de vacaciones, ya que turistas han abarrotado el cupo, a pesar de las restricciones"
 image: "/uploads/2021/images-2555403.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se saturan hoteles de Acapulco por Semana Santa; precios se disparan"
 front: false
 section: "Nacional"
-news_id: 183647
+redirect_from: /news/183647
 ---
 
 La alta demanda por el periodo vacacional de Semana Santa provocó que el costo de las habitaciones de hotel en la zona Dorada del puerto se incrementara en un 150 por ciento respecto a los costos que hubo en enero pasado.

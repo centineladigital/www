@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que ha perdido la vida por por complicaciones con esta enfermedad, ascendió a 8 mil 397 casos (+14), que corresponden a los municipios de Juárez (+2), Chihuahua (+2), Parral (+3), Cuauhtémoc (+1), Ojinaga (+2), Guazapares (+1) Ahumada (+2) y Urique (+1)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 261 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 190524
+redirect_from: /news/190524
 ---
 
 El Gobierno del Estado a través de la Secretaría de Salud de Chihuahua, presenta este 4 de diciembre el reporte COVID-19, en el cual se registran 87 mil 053 (+261) personas confirmadas en la entidad por este padecimiento, 73 mil 862 (+305) casos recuperados, 82 mil 335 (+322) descartados y 1,119 (+33) casos sospechosos.

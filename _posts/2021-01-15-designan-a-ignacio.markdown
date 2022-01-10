@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En ese sentido, se reconoce el trabajo realizado por el chihuahuense a lo largo de sus diferentes gestiones"
 image: "/uploads/2021/images-GRGREG.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AV04_RENE_NAVA_RUBIO.mp3"
 alt: "Designan a Ignacio Manjarrez presidente de la comisión de seguridad y justicia de Coparmex Nacional"
 front: false
 section: "Local"
-news_id: 182180
+redirect_from: /news/182180
 ---
 
 Al haber asumido compromisos como presidente de la Confederación Patronal de la República Mexicana, José Medina Mora designó al chihuahuense Ignacio Manjarrez Ayub como nuevo presidente de la Comisión de Seguridad y Justicia del organismo empresarial, así lo informó Rene Nava Rubio, director de Coparmex Chihuahua.

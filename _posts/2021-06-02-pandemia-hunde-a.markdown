@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Organización Internacional del Trabajo alerta que la pandemia ha hundido a más de 100 millones de trabajadores más en la pobreza, debido al desempleo y la falta de oportunidades"
 image: "/uploads/2021/images-2588395.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pandemia hunde a 100 millones de trabajadores más en la pobreza -  ONU"
 front: false
 section: "Internacional"
-news_id: 184788
+redirect_from: /news/184788
 ---
 
 La pandemia ha hundido a más de 100 millones de trabajadores más en la pobreza, afirmó este miércoles la ONU, a raíz de la desaparición de horas de trabajo y del acceso a empleos de buena calidad.

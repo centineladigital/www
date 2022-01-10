@@ -22,11 +22,11 @@ author: nil
 description: "En esta actividad del gobierno municipal se invirtió una suma aproxximada a los 5 millones de pesos"
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-17_at_12.06.28_PM.jpeg"
 video: "/uploads/2021/videos-BV04_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Alcalde entrega equipo a policías y bomberos "
 front: false
 section: "Local"
-news_id: 190987
+redirect_from: /news/190987
 ---
 
 El alcalde Marco Bonilla Mendoza, hizo entrega de equipo para policías  y bomberos, se entregaron botas, chalecos juegos de chamarras, Bonilla agradeció a los policias y bomberos por su entrega, servicio y trabajo.

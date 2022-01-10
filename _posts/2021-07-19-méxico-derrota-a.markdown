@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Selección Mexicana apenas pudo derrotar a El Salvador 1-0 en el último partido de la fase de grupos de la Copa Oro"
 image: "/uploads/2021/images-Sin_título.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México derrota a El Salvador y avanza como líder de grupo en la Copa Oro"
 front: false
 section: "Deportes"
-news_id: 185773
+redirect_from: /news/185773
 ---
 
 Sigue sin ser el mejor de los equipos de la Copa Oro o el que se espera pueda mandar en el torneo de la Concacaf. Y aún así, México se llevó el primer lugar del Grupo A (siete puntos), luego de vencer a El Salvador, a penas por la mínima diferencia.

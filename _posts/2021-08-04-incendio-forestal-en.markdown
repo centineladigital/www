@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El clima extremo ha provocado incendios también en Turquía, Italia y otras zonas del Mediterráneo"
 image: "/uploads/2021/images-incendio-forestal-acerca-atenas-amenaza_0_34_800_498.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Incendio forestal en Atenas daña viviendas y provoca evacuación de personas"
 front: false
 section: "Internacional"
-news_id: 186270
+redirect_from: /news/186270
 ---
 
 Un incendio forestal a las afueras de Atenas dañó varias viviendas, provocando la evacuación de miles de personas mientras amenaza un antiguo palacio real, por lo que bomberos trabajan bajo un intenso calor para tratar de contener el incendio. 

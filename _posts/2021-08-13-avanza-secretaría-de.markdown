@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se dotará de kits a todos los planteles de educación básica del subsistema estatal, con una inversión de 4 millones 706 mil de pesos"
 image: "/uploads/2021/images-ins6.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avanza Secretaría de Educación con entrega de insumos de limpieza a escuelas estatales"
 front: false
 section: "Local"
-news_id: 186686
+redirect_from: /news/186686
 ---
 
 Como parte de la Estrategia Chihuahua para el inicio del ciclo escolar 2021-2022 en Educación Básica, la Secretaría de Educación y Deporte (SEyD), inició la entrega de insumos de limpieza para las escuelas del subsistema estatal, con una inversión de 4 millones 706 mil pesos.

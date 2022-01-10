@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los trabajos de mantenimiento durarán aproximadamente dos semanas"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por mantenimiento, deshabilitan elevadores del Edificio Comermex"
 front: false
 section: "Local"
-news_id: 186728
+redirect_from: /news/186728
 ---
 
 El Gobierno Municipal informa que a partir de este lunes 16 de agosto los elevadores del Edificio Comermex estarán sin servicio al público y empleados municipales debido a que se encuentran en labores de mantenimiento.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Además hay que seguir con el lavado frecuente y correcto de manos o desinfección con alcohol gel y la sana distancia  "
 image: "/uploads/2021/images-Foto_4397-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estar vacunado, no significa dejar de usar cubrebocas -  IMSS Chihuahua "
 front: false
 section: "Local"
-news_id: 187878
+redirect_from: /news/187878
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua exhorta a la población a continuar usando el cubrebocas, aún si se cuenta con la vacuna. 

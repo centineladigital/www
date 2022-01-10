@@ -10,11 +10,11 @@ author: nil
 description: "Contará estado con equipo de talla internacional."
 image: "/uploads/2021/images-CENTRO.jpg"
 video: "/uploads/2021/videos-MV05_ALBERTO_BARRIO.mp4"
-audio: "nil"
+audio: nil
 alt: "Cuenta Chihuahua con clínica de máxima calidad"
 front: false
 section: "Local"
-news_id: 187200
+redirect_from: /news/187200
 ---
 
 Reducción de tiempos así como otros beneficios es lo que traerá al Ciudad Juárez dentro del Centro Regional de Radioterapia de Juárez, según fue dado a conocer por parte del presidente en el estado, Luis Alberto Barrio, esto dentro de la revisión de obras que se llevó a cabo.

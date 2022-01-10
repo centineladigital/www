@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el programa “Logros con Valor” se destaca la inversión de 220 millones de pesos para las dos plantas en la ciudad de Delicias, la única de más de 100 mil habitantes en el país que no contaba con esta infraestructura"
 image: "/uploads/2021/images-ptar_norte_chih.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se construyeron 33 plantas de saneamiento de aguas residuales en todo el estado -  JCAS"
 front: false
 section: "Local"
-news_id: 187049
+redirect_from: /news/187049
 ---
 
 La actual Administración estatal logró la construcción, rehabilitación y terminación de 33 plantas de saneamiento de aguas residuales de distinto tamaños, en una estrategia sin precedente que ahora contribuye a disminuir la contaminación en ríos y arroyos de todo el estado, informó el presidente del Consejo de Administración de la Junta Central de Agua y Saneamiento, Ismael Rodríguez Gallegos.

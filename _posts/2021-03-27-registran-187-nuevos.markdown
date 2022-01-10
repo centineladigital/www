@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Confirman 10 defunciones más en Juárez (1), Chihuahua (5), Delicias (2), Parral (1) y Camargo (1), para un acumulado de 5 mil 636 decesos; a la fecha han perdido la vida 3,373 hombres y 2,263 mujeres"
 image: "/uploads/2021/images-Diapositiva3.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registran 187 nuevos contagios de COVID-19 para alcanzar 58 mil 147 casos a nivel estatal"
 front: false
 section: "Local"
-news_id: 183580
+redirect_from: /news/183580
 ---
 
 Un total general de 58 mil 147 contagios confirmados de COVID-19 registró la Secretaría de Salud, luego de que se sumarán 187 nuevos casos en el último reporte epidemiológico de la situación de la pandemia en la entidad.

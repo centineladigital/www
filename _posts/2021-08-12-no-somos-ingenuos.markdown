@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente explicó que se tomó la decisión de crear el Gas Bienestar con la finalidad de que haya competencia"
 image: "/uploads/2021/images-presidente-hablo-precios-maximos-gas_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“No somos ingenuos”, precio del gas LP no se resuelve con tope máximo -  AMLO"
 front: false
 section: "Nacional"
-news_id: 186603
+redirect_from: /news/186603
 ---
 
 El presidente Andrés Manuel López Obrador se pronunció porque haya más competencia en la distribución del gas LP en el país, ya que establecer un precio máximo no va a resolver el problema de altos costos, “no somos ingenuos”. 

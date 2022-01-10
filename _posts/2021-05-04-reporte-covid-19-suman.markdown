@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A la fecha los decesos son 6 mil 738, de los cuales 3 mil 302 corresponden a Ciudad Juárez y mil 679 a la ciudad de Chihuahua"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reporte COVID-19 -  suman 65 mil 328 casos confirmados en el estado"
 front: false
 section: "Local"
-news_id: 184263
+redirect_from: /news/184263
 ---
 
 En el Reporte COVID-19 Conferencia Informativa #402, Virtual #362, la Secretaría de Salud dio a conocer que van 6 mil 738 decesos, mientras que se confirmaron 88 contagios para sumar 65 mil 328 en todo el estado.

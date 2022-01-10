@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El objetivo del gobierno es frenar la subcontratación abusiva para eliminar el despotismo hacía el empleados"
 image: "/uploads/2021/images-2567065.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Todos los trabajadores mexicanos tendrán una pensión adecuada'"
 front: false
 section: "Nacional"
-news_id: 184060
+redirect_from: /news/184060
 ---
 
 El presidente Andrés Manuel López Obrador ofrece su tradicional conferencia de prensa desde Palacio Nacional este viernes 23 de abril.

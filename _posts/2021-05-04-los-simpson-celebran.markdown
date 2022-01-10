@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La protagonista de este corto es Maggie Simpson, quien está destinada a vivir una peligrosa aventura; aquí te decimos todo lo que debes saber de esta nueva historia. "
 image: "/uploads/2021/images-simpson-celebran-star-wars-corto_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Los Simpson' celebran el Día de Star Wars con fantástico corto de Maggie"
 front: false
 section: "Espectáculos"
-news_id: 184264
+redirect_from: /news/184264
 ---
 
 Los fanáticos de la guerra de las galaxias están celebrando este 4 de mayo el Día de Star Wars. A los festejos se unió Disney, pues la compañía lanzó un corto animado de Los Simpson para recordar la fantástica historia, creada por George Lucas, que sigue las aventuras de Luke Skywalker, la princesa Leia Organa y Han Solo en su lucha por derrocar a Darth Vader y al Imperio.  El despertar de la siesta, es el nombre de este cortometraje animado que une a Los Simpson con la saga de Star Wars. La protagonista de esta historia es nada más y menos que Maggie, quien está destinada a vivir una peligrosa aventura para cumplir una implacable misión: encontrar su chupón.  

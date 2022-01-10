@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El termómetro marcará como máximo los 32°C y bajará hasta los 18 grados centígrados; para martes y miércoles podrían presentarse temperaturas entre los 33° C y 19 grados Celsius,"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronostican aumento de temperaturas para esta semana en la ciudad "
 front: false
 section: "Local"
-news_id: 187002
+redirect_from: /news/187002
 ---
 
 La Coordinación Municipal de Protección Civil informa que de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional, se espera un aumento en las temperaturas sin probabilidad de lluvia, por ello es importante acatar las recomendaciones que emite la autoridad para prevenir deshidrataciones y enfermedades derivadas del calor.

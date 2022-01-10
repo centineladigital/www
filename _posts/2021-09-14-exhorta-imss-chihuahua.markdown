@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua recomienda a  la población chihuahuense mantener los buenos hábitos alimenticios durante las fiestas patrias para que gocen de buena salud y eviten enfermedades, sobre todo, gastrointestinales."
 image: "/uploads/2021/images-Foto_4503-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta IMSS Chihuahua mantener buenos hábitos alimenticios durante fiestas patrias "
 front: false
 section: "Local"
-news_id: 187718
+redirect_from: /news/187718
 ---
 
 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con la esperanza de que las ventas se reaviven, comerciantes han abastecido sus locales entre un 80 y 90% de su capacidad"
 image: "/uploads/2021/images-Floristas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Esperanzados en ventas del 14 de febrero los floristas"
 front: false
 section: "Local"
-news_id: 182907
+redirect_from: /news/182907
 ---
 
 Una muy buena temporada de ventas esperan los vendedores de flores para esta 14 de febrero, por lo que han abastecido sus comercios de forma importante.

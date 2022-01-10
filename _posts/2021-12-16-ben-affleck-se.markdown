@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ben Affleck se defendió y mencionó que sus declaraciones hacia Jennifer Garner fueron malinterpretadas por la prensa. "
 image: "/uploads/2021/images-ben-affleck-culpo-actriz-alcoholismo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ben Affleck se defiende de sus polémicos comentarios hacia Jennifer Garner"
 front: false
 section: "Espectáculos"
-news_id: 190949
+redirect_from: /news/190949
 ---
 
 En días recientes Ben Affleck está en el ojo del huracán después de haber declarado que parte de su problema de alcoholismo se debe a Jennifer Garner, su ex esposa con quien tiene tres hijos. Estas declaraciones causaron revuelo y varias críticas en contra del actor, quien ahora es novio de Jennifer López. Ben Affleck declaró en una entrevista con Howard Stern que no quería terminar su matrimonio con Jennifer Garner por sus hijos y que tuvo que recurrir al alcohol debido a sus problemas con la actriz. 

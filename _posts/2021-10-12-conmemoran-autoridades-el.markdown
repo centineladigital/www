@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se realiza ceremonia cívica en el Museo de la Lealtad República   "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Conmemoran autoridades el 157 aniversario del arribo de Benito Juárez a la ciudad de Chihuahua"
 front: false
 section: "Local"
-news_id: 188661
+redirect_from: /news/188661
 ---
 
 Como parte de las acciones para promover la cultura e historia de nuestro estado, el Gobierno del Estado, a través de la Secretaría de Educación y Deporte en coordinación con la Secretaría de Cultura, conmemoró el 157 aniversario del arribo del presidente Benito Pablo Juárez García, a la ciudad de Chihuahua.

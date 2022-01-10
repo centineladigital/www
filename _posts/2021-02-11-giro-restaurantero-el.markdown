@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Cerrados 900 comercios y abren 650 afirma Edibray Gómez."
 image: "/uploads/2021/images-EDIBRAY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ01_EDIBRAY_GOMEZ.mp3"
 alt: "Giro restaurantero el más afectado con cierres -  CANACO"
 front: false
 section: "Local"
-news_id: 182875
+redirect_from: /news/182875
 ---
 
 Las áreas que registraron más cierres en el municipio de Chihuahua fue el sector restaurantero según lo dio a conocer Edibray Gómez, presidente de la Cámara Nacional de Comercio. Pese a esto se continuaron creando otras empresas como zapaterías, dijo.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el ingreso de un nuevo frente frío habrá vientos hasta de 55 km/h en algunas zonas, mientras que las temperaturas se mantendrán desde 22 hasta 36 grados centígrados"
 image: "/uploads/2021/images-Vientos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte Protección Civil de posibles tolvaneras en carreteras Juárez a Janos y de Sueco a Ahumada"
 front: false
 section: "Local"
-news_id: 184381
+redirect_from: /news/184381
 ---
 
 La Coordinación estatal de Protección Civil (CEPC) informó que un canal de baja presión, en interacción con una corriente en chorro y una línea seca, así como el ingreso de un nuevo frente frío (posible No. 56) sobre el noreste del país,

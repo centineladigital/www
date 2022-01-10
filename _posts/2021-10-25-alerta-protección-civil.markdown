@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se espera descenso en temperaturas de hasta 9°C"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Protección Civil Municipal por ráfagas de viento de hasta 70 Km/h"
 front: false
 section: "Local"
-news_id: 189153
+redirect_from: /news/189153
 ---
 
 A partir de mañana martes 26 de octubre se espera un descenso en las temperaturas por la entrada del frente frío número 6 que además provocará rachas de viento de hasta 70 kilómetros por hora, informó la Coordinación Municipal de protección Civil.

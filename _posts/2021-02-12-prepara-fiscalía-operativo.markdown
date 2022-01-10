@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Reos que extorsionan dentro de cárceles serán traídos a juicio en Chihuahua."
 image: "/uploads/2021/images-CARLOS_MARIO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV04_CARLOS_JIMENEZ.mp3"
 alt: "Prepara Fiscalía operativo para traer extorsionadores de otros estados"
 front: false
 section: "Local"
-news_id: 182898
+redirect_from: /news/182898
 ---
 
 La Físcalía de Chihuahua llevará a cabo un operativo con el fin de traer al estado a Extorcionadores que se encuentran detenidos en otros estados, según lo aseveró el titular de la dependencia en la zona Centro, Carlos Mario.

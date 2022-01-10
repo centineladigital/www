@@ -10,11 +10,11 @@ author: nil
 description: "Buscan el reconocimiento de sus pagos en desobediencia civil."
 image: "/uploads/2021/images-ROCIO.jpg"
 video: "/uploads/2021/videos-MW03_ROCIO_MARTINEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Pide retén ciudadano pago justo de revalidación ante titular de Hacienda"
 front: false
 section: "Local"
-news_id: 190396
+redirect_from: /news/190396
 ---
 
 Que se lleve a cabo un pago justo en materia de revalidación vehicular es lo que la asociación de Retén Ciudadano ha solicitado ante el Secretario de Hacienda, donde también le exigieron el reconocimiento de sus pagos en desobediencia civil.

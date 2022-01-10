@@ -24,11 +24,11 @@ author: nil
 description: "Alfredo Chávez Habló sobre la caída del peso con casi el 4 por ciento frente al dólar siendo noviembre el peor mes para la moneda mexicana desde marzo del 2021."
 image: "/uploads/2021/images-dolar_peso_coronavirus_covid_g.jpg"
 video: "/uploads/2021/videos-BM03_ALFREDO_CHAVEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Baja del Peso culpa de Omicron y responsabilidad Federal "
 front: false
 section: "Local"
-news_id: 190360
+redirect_from: /news/190360
 ---
 
 “La depreciación del peso frente al dólar es un factor por la nueva cepa del covid 19  llamada Ómicron y la mala política monetaria que ha llevado el Gobierno Federal”, estas fueron las palabras del diputado Alfredo Chávez al hablar sobre la caída del peso con casi el 4 por ciento frente al dólar y siendo noviembre el peor mes para la moneda mexicana desde marzo del 2021.

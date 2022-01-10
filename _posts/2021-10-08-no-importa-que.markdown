@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Por medio de la cuenta oficial de ‘Ventaneando’ de Twitter, se dio a conocer que Pati Chapoy había sido amenazada por un fan de Maite Perroni, luego de que la periodista la criticara por un comportamiento negativo con TV Azteca. "
 image: "/uploads/2021/images-fan-maite-perroni-amenaza-golpear.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No importa que seas anciana -  'Ventaneando' denuncia a fan de Maite Perroni que amenazó a Pati Chapoy con golpearla"
 front: false
 section: "Espectáculos"
-news_id: 188504
+redirect_from: /news/188504
 ---
 
 Pati Chapoy, famosa conductora y titular de Ventaneando, recibió una amenaza violenta por parte de un fan de Maite Perroni, ex integrante de RBD, luego de que la presentadora lanzara una crítica por su presunto comportamiento déspota con TV Azteca y otros medios de comunicación en los Premios Platino. Por ello, ‘Ventaneando’ evidenció la muestra de odio que cometió un internauta por defender a la también actriz.

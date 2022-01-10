@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se presentan acuerdos y proyectos para fortalecer del desarrollo económico de la ciudad"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Busca Red Emprende posicionar a Chihuahua Capital en ranking mundial de emprendimiento"
 front: false
 section: "Local"
-news_id: 188824
+redirect_from: /news/188824
 ---
 
 Dentro del compromiso de impulsar la economía de la ciudad en conjunto la  iniciativa privada, gobierno, academia y sociedad civil organizada, este día se realizó una reunión con la organización Red Emprende Chihuahua, la cual presentó una serie de proyectos encaminados a potencializar el emprendimiento local.

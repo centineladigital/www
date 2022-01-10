@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Receptor espectacular en partidos estatales, nacionales y con la Selección Nacional de beisbol"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "René Duarte, ganador del primer Premio Teporaca de Oro en 1978"
 front: false
 section: "Local"
-news_id: 190244
+redirect_from: /news/190244
 ---
 
 El año de 1987 marcó para siempre al afamado pelotero chihuahuense por adopción, Rene Jacobo Duarte Carrasco, al ganar el Campeonato Estatal con Dorados, el Nacional de Mexicali, así como el corazón de los aficionados, que le permitió ser el primer deportista en ganar la estatuilla del Teporaca de Oro.

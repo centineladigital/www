@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "David Amess fue apuñalado este viernes mientras atendía a los ciudadanos de su circunscripción en Essex; la policía informó que hay un detenido"
 image: "/uploads/2021/images-diputado_amess_reino_unido_afp.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Muere diputado conservador de Inglaterra que fue apuñalado en evento con seguidores"
 front: false
 section: "Internacional"
-news_id: 188762
+redirect_from: /news/188762
 ---
 
 El diputado conservador David Amess, que fue apuñalado hoy mientras atendía a los ciudadanos de su circunscripción en Essex (sureste de Inglaterra), ha muerto, informó la Policía.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se reconocerá a los mejores exponentes en las disciplinas deportivas, entrenadores, adulto mayores e impulsores deportivos"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Este viernes cierra convocatoria del Premio Municipal a la Excelencia en el Deporte Teporaca"
 front: false
 section: "Local"
-news_id: 190631
+redirect_from: /news/190631
 ---
 
 Este viernes 10 de diciembre, concluirá el periodo para el registro de deportistas y promotores chihuahuenses interesados en contender por el máximo galardón que otorga el Gobierno Municipal de Chihuahua y la Asociación de Cronistas Deportivos “Pancho Cano” a través del Premio Municipal a la Excelencia en el Deporte Teporaca.

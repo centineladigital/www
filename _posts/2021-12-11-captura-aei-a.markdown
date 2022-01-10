@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Gracias a un efectivo trabajo de inteligencia y colaboración interinstitucional, fueron localizados y detenidos en Tabasco, Veracruz y Nuevo León; extrajeron casi 11 millones de pesos de la cuenta de la Presidencia Municipal en agosto 2021"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Captura AEI a 4 implicados en hackear la cuenta de la administración pública de Camargo"
 front: false
 section: "Local"
-news_id: 190762
+redirect_from: /news/190762
 ---
 
 Como resultado de labores de inteligencia y de una exhaustiva búsqueda, elementos de la Agencia Estatal de Investigación, lograron ubicar y detener en distintos estados del país, a dos hombres y dos mujeres como probables responsables de extraer la cantidad de 10 millones 999 mil pesos, de la cuenta bancaria de la administración municipal de Camargo.

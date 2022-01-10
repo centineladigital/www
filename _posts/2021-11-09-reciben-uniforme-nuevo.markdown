@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal hizo entrega para un mejor desempeño de su labor"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reciben uniforme nuevo personal sindicalizado de Servicios Públicos Municipales"
 front: false
 section: "Local"
-news_id: 189700
+redirect_from: /news/189700
 ---
 
 El Gobierno Municipal en conjunto con el Sindicato de Trabajadores del Municipio, hizo entrega de uniformes a 240 trabajadores sindicalizados que se desempeñan en la Dirección de Servicios Públicos Municipales.

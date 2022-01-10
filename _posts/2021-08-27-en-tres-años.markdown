@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A fin de cubrir parte de las necesidades básicas de alimentación, especialmente en las familias de escasos recursos económicos o en situación de vulnerabilidad"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En tres años invertimos más de 7 millones de pesos en el Programa Alimentario Emergente"
 front: false
 section: "Local"
-news_id: 187192
+redirect_from: /news/187192
 ---
 
 Durante estos tres años de Gobierno Municipal, nos hemos caracterizado por dignificar la vida de los chihuahuenses  y centrarlos como el eje primordial de nuestro trabajo, con el firme propósito de ser un gobierno humanista y sensible a las necesidades que más apremian a las familias.

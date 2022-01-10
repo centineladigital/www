@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se podrán donar medicamentos de cualquier tipo que ya no se utilicen en sus hogares, que estén en buen estado y no hayan caducado"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno Municipal a participar en campaña de donación de medicamentos"
 front: false
 section: "Local"
-news_id: 183272
+redirect_from: /news/183272
 ---
 
 Como parte de las acciones para brindar atención a los chihuahuenses que necesitan apoyo para sus tratamientos médicos, el Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, invita a la ciudadanía a participar en la campaña de donación de medicamentos.

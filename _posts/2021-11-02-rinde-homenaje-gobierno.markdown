@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se develó un altar de muertos, y organizó desfile de catrina"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rinde homenaje Gobierno Municipal a los fieles difuntos, en su día"
 front: false
 section: "Local"
-news_id: 189456
+redirect_from: /news/189456
 ---
 
 Para festejar la tradición que caracteriza a los mexicanos, marca propia de nuestra cultura, el Gobierno Municipal develó un altar de muertos en honor a los familiares difuntos de empleados del Municipio.

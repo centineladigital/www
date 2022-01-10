@@ -12,11 +12,11 @@ author: nil
 description: "El acto protocolario de este 211 aniversario de la independencia de México lo llena de alegría "
 image: "/uploads/2021/images-Captura_de_pantalla_2021-01-11_a_la(s)_12.53.18.png"
 video: "/uploads/2021/videos-BJ02_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "Faltaron las familias chihuahuenses en el aniversario de la independencia"
 front: false
 section: "Local"
-news_id: 187801
+redirect_from: /news/187801
 ---
 
 Marco Bonilla alcalde de la ciudad de Chihuahua expresó que en el acto protocolario de este 211 aniversario de la independencia de México lo llena de alegría aunque por motivos de pandemia no se haya podido llevar a cabo un festejo como en años pasados donde las familias chihuahuenses estuvieran presentes.

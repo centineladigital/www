@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Celia Cruz contó en una ocasión que creía en la reencarnación, además aseguró que ella había reencarnado. Te contamos la historia. "
 image: "/uploads/2021/images-celia-cruz-aseguro-que-ella.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Ella lo aseguraba! Celia Cruz y la historia de su supuesta reencarnación"
 front: false
 section: "Espectáculos"
-news_id: 189013
+redirect_from: /news/189013
 ---
 
 Celia Cruz fue una cantante que se ganó a todos los hispanohablantes por su carisma y claro, su música. La cubana sin duda marcó un precedente en la salsa, además que muchos la recordamos por su famosa frase que solía decir en algunas de sus canciones: “¡Azúcar!”, sin embargo, aunque frente al público parecía muy alegre, la cantante tuvo una vida complicada y desde pequeña creyó en la reencarnación. La reencarnación es una creencia en la que se piensa que el alma de una persona que fallece se traslada al de otra persona, esto es algo que Celia Cruz afirmaba le había pasado a ella, ya que en su familia murió una persona mucho antes de que ella naciera. En una entrevista contó sobre su supuesta reencarnación. 

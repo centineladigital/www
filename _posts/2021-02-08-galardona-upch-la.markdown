@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Realizan ceremonia virtual ante contingencia por COVID-19"
 image: "/uploads/2021/images-FOTO_CEREMONIA_EXCELENCDIA_DEF.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Galardona UPCH la excelencia académica de estudiantes y docentes"
 front: false
 section: "Local"
-news_id: 182781
+redirect_from: /news/182781
 ---
 
 A través de una ceremonia virtual, la Universidad Politécnica de Chihuahua (UPCH) galardonó la excelencia de estudiantes, docentes, tutoras y tutores, quienes obtuvieron los mejores promedios académicos y las más altas evaluaciones docentes del año 2020.

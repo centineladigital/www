@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Casi 90 familias reciben el documento que les da posesión legal de sus viviendas, al cubrir únicamente 2 mil 030 pesos; beneficiario comparte su testimonio"
 image: "/uploads/2021/images-ESCRITURACIÓN_JZ_COESVI_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Coesvi 87 escrituras del programa “Amanece para Todos”  en Juárez"
 front: false
 section: "Local"
-news_id: 186629
+redirect_from: /news/186629
 ---
 
 A Luis Ernesto Casas la emoción y la garganta hecha nudo, casi no le permitió expresar el sentimiento de tener en sus manos la escritura de la vivienda, donde radica desde hace 22 años: “Es una bendición y es para mis hijos” dijo emocionado.

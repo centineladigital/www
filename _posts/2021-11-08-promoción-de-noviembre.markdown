@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El próximo 12 de noviembre, Disney Plus celebrará su segundo aniversario con un evento llamado Disney+ Day. Por ello tiene una promoción única. Te contamos todo lo que sabemos. "
 image: "/uploads/2021/images-promocion-ano-disney-pesos-mexico.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Promoción de noviembre! Por aniversario, Disney+ ofrece su servicio a sólo 29 pesos; esto sabemos"
 front: false
 section: "Espectáculos"
-news_id: 189645
+redirect_from: /news/189645
 ---
 
 ¿Quieres una buena promoción de noviembre? Disney Plus, servicio de streaming, tiene una promoción especial por su segundo aniversario que ha dado mucho de qué hablar. Y es que los usuarios podrán disfrutar su servicio por sólo 29 pesos en México. El próximo 12 de noviembre, Disney Plus celebrará su segundo aniversario con un evento llamado Disney+ Day. Por ello, tiene una promoción única. Te contamos todo lo que sabemos. 

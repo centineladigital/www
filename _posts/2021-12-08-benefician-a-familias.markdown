@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal invierte más de 100 mil pesos para darle mantenimiento a la instalación del Seccional de Colonia Soto"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Benefician a familias de comunidad rural con rehabilitación de línea de agua potable"
 front: false
 section: "Local"
-news_id: 190624
+redirect_from: /news/190624
 ---
 
 El Gobierno Municipal a través de la Dirección de Desarrollo Rural, realizó obras de rehabilitación y conservación de la línea de conducción de agua potable en la comunidad de El Sordo, ubicada a unos 60 kilómetros al suroriente de la capital, en el Seccional de Colonia Soto.

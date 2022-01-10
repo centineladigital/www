@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A una cinco días del cumpleaños de la cantante, Lorde aparece en el video en la playa que veíamos en Solar Power, la cual está destrozada. "
 image: "/uploads/2021/images-lorde-estrena-tercer-sencillo-album-1_0_0_1125_700.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Siempre habrá otro lugar prístino para comenzar -  Lorde estrena 'Fallin Fruit', su tercer video"
 front: false
 section: "Espectáculos"
-news_id: 189484
+redirect_from: /news/189484
 ---
 
 El tan esperado de la cantante neolandeza Lorde está rindiendo frutos y tan es así que ya estrenó el tercer video de su álbum Solar Power, el cual se titula Fallin Fruit y es una crítica a lo que los humanos hacen con la naturaleza con respecto a temas como el cambio climático y algunos otros temas relacionados al medio ambiente.  A una cinco días del cumpleaños de la cantante, Lorde aparece en el video en la playa que veíamos en Solar Power, en donde la veíamos animada en aquellos increíbles paisajes; sin embargo, ahora la playa está llena de basura: regaderas, huesos de durazno, botes de pesca volcados, entre muchas otras cosas.  

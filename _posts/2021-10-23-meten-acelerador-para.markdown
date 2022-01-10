@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Gobierno Municipal y empresarios acordaron trabajar juntos en el proyecto “Chihuahua Genial”"
 image: "/uploads/2021/images-unnamed_(9).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Meten acelerador para convertir a Chihuahua Capital en Smart City"
 front: false
 section: "Local"
-news_id: 189130
+redirect_from: /news/189130
 ---
 
 Empresarios que integran “Chihuahua Futura”, presentaron su plan de desarrollo al presidente municipal, Marco Bonilla Mendoza y acordaron trabajar en conjunto para empatar las propuestas que recabe la iniciativa privada con el Plan Municipal de Desarrollo 2021-2024.

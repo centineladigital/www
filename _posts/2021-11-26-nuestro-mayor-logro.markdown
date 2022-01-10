@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Será el próximo sábado 27 de noviembre cuando Porter se adueñe del Auditorio BB para regresar con un nuevo show."
 image: "/uploads/2021/images-porter-tocara-en-el-auditorio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Nuestro mayor logro como banda es seguir generando esa conexión con nuestro público” -  Porter hará temblar la CDMX con su nuevo sonido"
 front: false
 section: "Espectáculos"
-news_id: 190258
+redirect_from: /news/190258
 ---
 
 Una de las bandas más queridas y que ha sobrevivió a múltiples cambios es Porter. Con un sonido propio y con una presencia camaleónica, capaz de adaptarse y crear distintos sonidos, se presentará en la Ciudad de México este sábado 27 de noviembre. 

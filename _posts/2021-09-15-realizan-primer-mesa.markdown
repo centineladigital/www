@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Seguirá la misma calendarización de reuniones para combatir la violencia."
 image: "/uploads/2021/images-MARU.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04_MARU.mp4"
 alt: "Realizan primer mesa de seguridad"
 front: false
 section: "Local"
-news_id: 187768
+redirect_from: /news/187768
 ---
 
 Este miércoles se llevó a cabo la primer mesa de trabajo en materia de seguridad, donde se tocaron temas como prevención, según fue dado a conocer por parte de la Gobernadora de Chihuahua, María Eugenia Campos Galván.

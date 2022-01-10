@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Laura Pausini se volvió tendencia en redes sociales, luego de que retomaran una entrevista que dio en el pasado, en donde defendió el derecho al matrimonio gay. "
 image: "/uploads/2021/images-laura-pausini-defendio-matrimonio-igualitario.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Laura Pausini se corona como la heroína de la comunidad LGBT; así defendió el matrimonio entre lesbianas"
 front: false
 section: "Espectáculos"
-news_id: 189305
+redirect_from: /news/189305
 ---
 
 Laura Pausini, cantante italiana, se volvió tendencia en redes sociales, luego de que retomaran la vez que habló de los derechos de la comunidad LGBT+, específicamente del matrimonio igualitario -de lesbianas y gays- en una entrevista con René Franco en el programa ‘Es de noche y ya llegué’. ¿Qué fue lo que dijo? Te contamos la forma en la que Pausini defendió a la comunidad que sale de la heterosexualidad. Fue a través de TikTok en donde se retomó el video en el que Laura Pausini demostró por qué es una de las cantantes que abanderan la comunidad LGBT+. 

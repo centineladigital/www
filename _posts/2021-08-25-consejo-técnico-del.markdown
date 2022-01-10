@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Doctor Rogelio Ramírez de la O resaltó que las y los trabajadores del IMSS siempre han sido pieza clave en el desarrollo del país"
 image: "/uploads/2021/images-Foto_374-3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Consejo Técnico del IMSS da bienvenida al secretario de Hacienda como consejero propietario por el Ejecutivo federal"
 front: false
 section: "Local"
-news_id: 187122
+redirect_from: /news/187122
 ---
 
 El director general del Instituto Mexicano del Seguro Social (IMSS), Maestro Zoé Robledo, dio la bienvenida al Doctor Rogelio Eduardo Ramírez de la O, Secretario de Hacienda y Crédito Público, como representante propietario por el Ejecutivo Federal ante el H. Consejo Técnico.

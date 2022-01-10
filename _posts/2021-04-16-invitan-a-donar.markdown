@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Para apoyar a personas en situación de vulnerabilidad que tienen diabetes tipo uno y dos."
 image: "/uploads/2021/images-FLORENCIA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ07_FLORENCIA_VARGAS.mp3"
 alt: "Invitan a donar insulinas"
 front: false
 section: "Local"
-news_id: 183934
+redirect_from: /news/183934
 ---
 
 Con el fin de proporcionar a los menores de escasos recursos de insulinas, la asociación Akam surá invitó a la ciudadanía a donar insulinas, según lo dio a conocer la Presidente de esta asociación Florencia Vargas Conde. Esto en una campaña permanente donde se recibe cualquier tipo de insulina, sin caducar y nuevas.

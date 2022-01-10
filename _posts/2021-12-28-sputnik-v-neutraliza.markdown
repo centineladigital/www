@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La vacuna rusa garantiza cerca de un 90 % de protección ya que es capaz de neutralizar y combatir a la variante ómicron."
 image: "/uploads/2021/images-vladimir-putin-presidente-rusia-evento_39_8_950_591.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sputnik V neutraliza completamente la variante ómicron, asegura Putin"
 front: false
 section: "Internacional"
-news_id: 191258
+redirect_from: /news/191258
 ---
 
 Durante una cumbre informal de la Comunidad de Estados Independientes (CEI) celebrada hoy en San Petersburgo, Vladimir Putin, el presidente ruso, declaró que la vacuna rusa anticovid Sputnik V es altamente eficaz contra la variante ómicron. 

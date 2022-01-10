@@ -14,11 +14,11 @@ author: nil
 description: "Dará 110 empleos directos"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-06_at_13.48.06.jpeg"
 video: "/uploads/2021/videos-BW01_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se inauguró la segunda sucursal de The Home Depot en el municipio"
 front: false
 section: "Local"
-news_id: 188441
+redirect_from: /news/188441
 ---
 
 El alcalde Marco Bonilla dirigió un emotivo discurso en la inauguración de la segunda sucursal de The Home Depot en donde comento que la inversión para esta nueva sucursal haciende a los 310 millones de pesos la cual generará 110 empleos directos y más de 350empleos de manera sugerente.

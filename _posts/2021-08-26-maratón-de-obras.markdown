@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Cumple promesa el Gobernador Javier Corral a agricultores y productores de la región mediante inversión de 23.3 mdp; la vía comunica con el ejido Hacienda del Río de Parral"
 image: "/uploads/2021/images-DSC_8080.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Maratón de obras en Camargo cierra con pavimentación de camino Laguna de las Vacas"
 front: false
 section: "Local"
-news_id: 187171
+redirect_from: /news/187171
 ---
 
 El gobernador Javier Corral entregó, a petición del municipio de Camargo y de los agricultores, productores y pobladores del Ejido Hacienda del Río de Parral, la pavimentación de un camino que los comunica a la comunidad de Laguna de las Vacas, con una inversión de 23.3 millones de pesos.

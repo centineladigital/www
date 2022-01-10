@@ -26,11 +26,11 @@ author: nil
 description: "Obrador señaló que aunque exista una baja en los homicidios el Gobierno Federal trabajará en conjunto con el Gobierno Estatal"
 image: "/uploads/2021/images-homicidios_(1).jpg"
 video: "/uploads/2021/videos-BV01_CRESCENCIO_Y_AMLO.mp4"
-audio: "nil"
+audio: nil
 alt: "Chihuahua ocupa el tercer lugar en homicidios dolosos "
 front: false
 section: "Local"
-news_id: 190728
+redirect_from: /news/190728
 ---
 
 El General Luis Crescencio Sandoval, Secretario de la Defensa Nacional (SEDENA), señaló que Chihuahua ocupa el tercer lugar en homicidios dolosos a nivel nacional, y aunque el delito tiene una tendencia a la baja expuso, se han presentado 150 casos en octubre y mil 733 en lo que va del año.

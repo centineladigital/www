@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Otorgado por CONOCER  para brindar atención de excelencia en la prestación de servicio en el sector público, en materia de atención a las y los usuarios"
 image: "/uploads/2021/images-EC0105_(1).png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Certifican a personal de UPNECH en el estándar EC0105"
 front: false
 section: "Local"
-news_id: 188968
+redirect_from: /news/188968
 ---
 
 La Universidad Pedagógica Nacional del Estado de Chihuahua (UPNECH), obtuvo la certificación del Estándar de Competencia EC0105 “Atención al Ciudadano en el Sector Público” que otorga la Entidad de Certificación y Evaluación de Competencias Laborales (CONOCER).

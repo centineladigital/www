@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Laura Sandoval Chávez es alumna de la carrera de Contaduría Pública; la competencia se llevó a cabo en el Campus Cananea del Tecnológico Nacional de México, con la participación de estudiantes de todo el país"
 image: "/uploads/2021/images-A1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alumna del Tecnológico de Nuevo Casas Grandes  obtiene segundo lugar en Olimpiada del Conocimiento"
 front: false
 section: "Local"
-news_id: 189702
+redirect_from: /news/189702
 ---
 
 Laura Sandoval Chávez, alumna de la carrera de Contaduría Pública del Instituto Tecnológico Superior de Nuevo Casas Grandes, obtuvo segundo lugar en la XX Olimpiada del Conocimiento, organizada por el Tecnológico Nacional de México Campus Cananea, en el estado de Sonora.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El sector obrero en la frontera tamaulipeca espera surtirse de mercancías en EU. "
 image: "/uploads/2021/images-llegan-alrededor-de-clientes-todos-1_0_34_650_405.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reapertura de fronteras, beneficio para vendedores de productos de EU"
 front: false
 section: "Internacional"
-news_id: 189636
+redirect_from: /news/189636
 ---
 
 Al reabrir Estados Unidos el paso para los connacionales vacunados, se adelanta la Navidad al sector obrero del norte de Tamaulipas, afirmó el secretario general del Sindicato Industrial Autónomo en Plantas Maquiladoras de Reynosa (Siamar), Alberto Lara Bazaldúa. 

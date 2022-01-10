@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Necesario, revisar actuación de los agentes ante los indocumentados"
 image: "/uploads/2021/images-mirelle_roccatti.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La CNDH ha tenido una participación pasiva -  Mirelle Roccatti"
 front: false
 section: "Nacional"
-news_id: 190777
+redirect_from: /news/190777
 ---
 
 La expresidenta de la Comisión Nacional de los Derechos Humanos (CNDH), Mireille Roccatti, advierte que el gobierno tiene que revisar la actuación del personal del Instituto Nacional de Migración (INM), la Guardia Nacional (GN), las policías y otras instituciones del Estado responsables del maltrato que sufren los migrantes que buscan llegar a Estados Unidos.

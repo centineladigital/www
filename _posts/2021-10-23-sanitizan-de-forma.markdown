@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Para cuidar la salud de funcionarios y ciudadanía "
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sanitizan de forma diaria oficinas de dependencias municipales por COVID"
 front: false
 section: "Local"
-news_id: 189129
+redirect_from: /news/189129
 ---
 
 El Gobierno Municipal, a través de la Dirección de Manteamiento Urbano, realiza de manera diaria y permanente la sanitización de las 25 dependencias municipales y oficinas alternas, esto con el propósito de prevenir los contagios por COVID-19.

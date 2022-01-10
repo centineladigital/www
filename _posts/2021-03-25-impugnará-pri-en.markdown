@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Señala que todo fue entregado en tiempo y forma."
 image: "/uploads/2021/images-PRI.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ07_ALEJANDRO_DOMINGUEZ.mp3"
 alt: "Impugnará PRI en caso de cancelación de candidatas"
 front: false
 section: "Local"
-news_id: 183553
+redirect_from: /news/183553
 ---
 
 Una impugnación pudiera presentar el Partido Revolucionario Institucional esto ante la propuesta de la Comisión de Fiscalización Nacional del Instituto Nacional Electoral sobre la posible cancelación del registro de la candidata del PRI Graciela Ortiz González. Según lo dio a coonocer el presidente del Comité Directivo Estatal Alejandro Domínguez Domínguez.

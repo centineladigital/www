@@ -16,11 +16,11 @@ author: nil
 description: "Iniciarán  el día 1 de noviembre del año en curso"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-08_at_14.07.12(1).jpeg"
 video: "/uploads/2021/videos-BV02_MARTHA_MOCTEZUMA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Invitan a pertenecer al ISSCUU"
 front: false
 section: "Local"
-news_id: 188534
+redirect_from: /news/188534
 ---
 
 La directora del Instituto Superior de Seguridad Chihuahua,  (ISSCU) Martha Moctezuma manifestó que la escuela de policía queda atrás teniendo  algo más sólido como lo es el instituto el cual tiene como fin la profesionalización de los elementos de la policía municipal, la directora declaró que en la policía municipal se necesitan hombres y mujeres valientes para poder desempeñar el cargo de policía municipal.

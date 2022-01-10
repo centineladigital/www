@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se realiza en un horario de 7:00 a 17:00 horas, en el marco de la estrategia “100 días para mover al IMSS” que el Instituto implementó a nivel nacional, y concluirá el próximo domingo 11 de julio."
 image: "/uploads/2021/images-Foto_FN_3230-9.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS Chihuahua inicia jornada de cirugías oftalmológicas en el hospital “Morelos”  "
 front: false
 section: "Local"
-news_id: 185513
+redirect_from: /news/185513
 ---
 
 Este viernes el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua inició la jornada especial de cirugía de catarata (aplicación de lente intraocular), en el Hospital General Regional (HGR) No. 01, “Morelos”, para beneficiar a más de 400 pacientes de los municipios de Chihuahua, Delicias, Parral y Cuauhtémoc.

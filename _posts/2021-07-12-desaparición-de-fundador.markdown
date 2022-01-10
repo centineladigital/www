@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante las últimas 48 horas, ha habido constantes balaceras, quema de vehículos y bloqueos carreteros, entre grupos antagónicos del crimen organizado."
 image: "/uploads/2021/images-entidad-quemado-camiones-carretera-uruapan_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Desaparición de fundador de autodefensas desata violencia en Michoacán"
 front: false
 section: "Nacional"
-news_id: 185573
+redirect_from: /news/185573
 ---
 
 En los municipios de Buenavista Tomatlán, Tepalcatepec, Apatzingán y Múgica, en el estado de Michoacán, se ha desatado la violencia, tras la desaparición de Ángel Gutiérrez Aguilar, El Kiro, fundador de autodefensas en la entidad.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Instituto holandés de salud y medio ambiente (RIVM) detectó la variante ómicron en dos test realizados en el país el 19 y el 23 de noviembre"
 image: "/uploads/2021/images-variantes-covid-siguen-investigadas-expertos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Es el origen? Holanda revela que variante ómicron estaba presente en su país desde el 19 de noviembre"
 front: false
 section: "Internacional"
-news_id: 190337
+redirect_from: /news/190337
 ---
 
 Las autoridades sanitarias holandesas afirmaron este martes que la variante ómicron del coronavirus ya estaba presente en el país el 19 de noviembre, es decir, una semana antes de lo que se creía hasta ahora y explicaron que están realizando pruebas para ver si se ha propagado rápidamente. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Salvador Zerboni recordó su fugaz romance con Fey y mencionó que terminó su noviazgo con la cantante por culpa de Juan José Origel. "
 image: "/uploads/2021/images-fey.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Salvador Zerboni asegura terminó romance con Fey por culpa de 'Pepillo' Origel"
 front: false
 section: "Espectáculos"
-news_id: 183129
+redirect_from: /news/183129
 ---
 
 Desde hace unos meses se dio a conocer que Salvador Zerboni y Fey habían mantenido una corta relación, la que al parecer terminó después de que Juan José Origel le comentara a la cantante que su novio se había reunido con una mujer en plan cariñoso, algo que hizo que el romance terminara. Ante dichos rumores, en diversas ocasiones Salvador Zerboni se ha defendido y ha asegurado que en ningún momento le fue infiel a Fey. En una reciente entrevista con varios medios, la cual fue retomada por Edén Dorantes, el actor recordó su romance con la intérprete de “Gatos en el balcón” 

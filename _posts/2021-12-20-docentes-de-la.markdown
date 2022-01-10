@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La institución continúa capacitando y actualizando a su planta docente,  siendo a su vez un vínculo entre las y los estudiantes y el sector productivo."
 image: "/uploads/2021/images-FOTO-CELIDERH.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Docentes de la Universidad Politécnica de Chihuahua reciben curso de liderazgo en el aula"
 front: false
 section: "Local"
-news_id: 191035
+redirect_from: /news/191035
 ---
 
 Durante cinco días, personal docente de la Universidad Politécnica de Chihuahua (UPCH) participó en el curso “Liderazgo en el Aula” impartido por expertos del Centro de Liderazgo y Desarrollo Humano (CELIDERH).

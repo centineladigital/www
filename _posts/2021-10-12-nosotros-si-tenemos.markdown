@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que su administración tiene pruebas que la pasada administración no tiene."
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-MM01_MARU_CAMPOS.mp4"
-audio: "nil"
+audio: nil
 alt: "“Nosotros si tenemos pruebas” -  Campos Galván"
 front: false
 section: "Local"
-news_id: 188649
+redirect_from: /news/188649
 ---
 
 “Nosotros tenemos pruebas y tenemos elementos, cosa que él no tuvo” fueron las palabras de la Gobernadora María Eugenia Campos Galván al ser cuestionada respecto a las declaraciones del exgobernador Javier Corral, quien afirma que la situación de la casa de la tortura no es más que una campaña de difamación.

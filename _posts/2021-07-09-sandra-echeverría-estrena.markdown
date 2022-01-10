@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante regional le grita al desamor a través de este tema escrito por Nabález, Mango y Pablo Benito."
 image: "/uploads/2021/images-vas-sencillo-disco-sandra-echeverria.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sandra Echeverría estrena '¿Por qué te vas?', a dueto con Nabález"
 front: false
 section: "Espectáculos"
-news_id: 185512
+redirect_from: /news/185512
 ---
 
 Sandra Echeverría es una de estas nuevas exponentes de la música regional mexicana; a partir de su personalidad y talento están conquistando las listas de reproducción y el gusto del público.

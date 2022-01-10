@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hay internadas 220 personas y 62 intubadas en 26 hospitales; confirman 35 nuevos positivos y un fallecimiento más en Chihuahua capital"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Hay internadas 220 personas y 62 intubadas en 26 hospitales; confirman 35 nuevos positivos y un fallecimiento más en Chihuahua capital"
 front: false
 section: "Local"
-news_id: 184400
+redirect_from: /news/184400
 ---
 
 El reporte diario de la pandemia por COVID-19 emitido por la Secretaría de Salud muestra que al 11 de mayo van 66 mil 396 contagios acumulados, con 35 nuevos positivos en las últimas horas.

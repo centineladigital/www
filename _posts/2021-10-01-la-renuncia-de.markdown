@@ -16,11 +16,11 @@ author: nil
 description: "El diputado Hicks respeta la decisión de Madero "
 image: "/uploads/2021/images-Juan_Carlos_Romero_Hicks_PAN.jpg"
 video: "/uploads/2021/videos-BV03_JUAN_ROMERO_.mp4"
-audio: "nil"
+audio: nil
 alt: "La renuncia de Madero, causa de una insatisfacción"
 front: false
 section: "Local"
-news_id: 188299
+redirect_from: /news/188299
 ---
 
 El diputado Juan Carlos Romero Hicks y ex gobernador de Guanajuato, aseguró que debe haber un porcentaje de insatisfacción en el caso de Gustavo Madero lo cual haya desembocado su renuncia a la bancada del PAN y se permitió citar una frase del fundador de la bancada  “podemos tener controversia de inteligencias mas no decisión de corazón”, por lo tanto el diputado aseguró se debe esperar a que el senado tome sus decisiones.

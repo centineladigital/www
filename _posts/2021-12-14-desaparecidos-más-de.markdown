@@ -10,11 +10,11 @@ author: nil
 description: "Esto en un lapso de seis meses en la zona fronteriza del estado."
 image: "/uploads/2021/images-familiar.jpg"
 video: "/uploads/2021/videos-MM04_FAMILIAR.mp4"
-audio: "nil"
+audio: nil
 alt: "Desaparecidos más de 30 migrantes"
 front: false
 section: "Local"
-news_id: 190844
+redirect_from: /news/190844
 ---
 
 Se tiene un registro de más de 30 personas que han sido desaparecidas al intentar cruzar a EU, según fue dado a conocer por parte del activista de personas desaparecidas, Gabino Gómez. Esto luego de que se llevó a cabo una manifestación de familiares de desaparecidos en la cruz de clavos.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Timothée Chalamet y Zendaya protagonizan esta nueva cinta de ciencia y ficción que ha llegado a los cines de todo el mundo."
 image: "/uploads/2021/images-timothee-chalamet-zendaya-posan-importante.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Los dueños de Hollywood! Timothée Chalamet y Zendaya posan juntos en importante revista"
 front: false
 section: "Espectáculos"
-news_id: 188709
+redirect_from: /news/188709
 ---
 
 La llegada del estreno de la nueva película ‘Dune’ ha significado juntar a dos de los talentos más importantes y exitosos de los últimos años en el cine. 

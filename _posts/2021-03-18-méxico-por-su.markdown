@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El equipo de Jaime Lozano inicia su aventura rumbo a Tokio 2020 ante República Dominicana"
 image: "/uploads/2021/images-2547169.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México, por su pase a los Juegos Olímpicos"
 front: false
 section: "Deportes"
-news_id: 183461
+redirect_from: /news/183461
 ---
 
 La Selección Mexicana Sub 23 encara esta noche el primer partido del torneo preolímpico ante República Dominicana. La meta es conseguir un boleto para Tokio 2020: los dos finalistas del certamen estarán en tierras niponas.

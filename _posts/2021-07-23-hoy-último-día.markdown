@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Llaman las autoridades de salud a que acudan a cualquiera de los 6 módulos habilitados, que son: Centro de Convenciones, Universidad del Valle de México, Tecnológicos I y II, Estadio de Beisbol Deportiva Sur y UACH Campus II  "
 image: "/uploads/2021/images-_DSC8946.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hoy último día para vacunación anti COVID-19 reducen edad a 22 años "
 front: false
 section: "Local"
-news_id: 185932
+redirect_from: /news/185932
 ---
 
 Este viernes concluye la aplicación de la primera dosis de la vacuna anti COVID-19, en el cual se redujo el rango de edad, para la población de 22 a 39 años, en los seis módulos establecidos en la ciudad de Chihuahua.

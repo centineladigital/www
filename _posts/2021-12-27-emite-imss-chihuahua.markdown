@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "No se debe de exceder en las grasas y alimentos ricos en carbohidratos"
 image: "/uploads/2021/images-Foto_6240-1.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite IMSS Chihuahua recomendaciones para una dieta balanceada en temporada de frío "
 front: false
 section: "Local"
-news_id: 191232
+redirect_from: /news/191232
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, exhorta a la ciudadanía a mantener una alimentación saludable en esta temporada invernal, evitando el exceso de grasas y carbohidratos. 

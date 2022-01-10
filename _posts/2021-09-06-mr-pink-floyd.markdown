@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El músico británico ha demostrado en diferentes ocasiones su activismo criticando a diferentes gobiernos y apoyando al pueblo. "
 image: "/uploads/2021/images-roger-waters-cumple-anos-especial.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Mr. Pink Floyd! Roger Waters cumple 78 años entre música y activismo"
 front: false
 section: "Espectáculos"
-news_id: 187451
+redirect_from: /news/187451
 ---
 
 Hace 78 años, el 6 de septiembre de 1943, en plena Segunda Guerra Mundial, al sureste de Inglaterra, nació George Roger Waters. Un niño que nunca imaginó que su destino era cambiar la vida de millones de personas con su talento: la música. 

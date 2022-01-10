@@ -10,11 +10,11 @@ author: nil
 description: " “Nosotros lo que hacemos es, al tener conocimiento de eso, obviamente se le pide su renuncia”."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MM02_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Nava responderá fuera de cargo público"
 front: false
 section: "Local"
-news_id: 188159
+redirect_from: /news/188159
 ---
 
 El Fiscal Zona Norte deberá de responder las acusaciones fuera del espacio público, señaló el Secretario General de Gobierno, César Jáuregui Moreno, al ser cuestionado respecto a la separación de Jorge Arnaldo Nava López.

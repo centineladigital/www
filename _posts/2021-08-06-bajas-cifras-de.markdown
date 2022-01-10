@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esperan no haya incrementos graves por cifra de contagios."
 image: "/uploads/2021/images-LETICIA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV01_LETICIA_RUIZ.mp4"
 alt: "Bajas cifras de muertes pese a incremento de casos COVID"
 front: false
 section: "Local"
-news_id: 186409
+redirect_from: /news/186409
 ---
 
 Pese a que se ha registrado incremento de nuevos casos de coronavirus los casos de personas que han perdido la vida, así como de personas hospitalizadas son bajos, señaló la Directora de Medicina Preventiva y Promoción de la Salud, Leticia Ruiz González.

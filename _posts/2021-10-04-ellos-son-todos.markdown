@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La hija de Niurka Marcos, Raquel Bigorra y Bazooka Joe serán algunas de las celebridades que participarán en el concurso de baile. "
 image: "/uploads/2021/images-famosos-participan-temporada-estrellas-bailan_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ellos son todos los famosos que participan en la temporada 2 de 'Las Estrellas bailan en Hoy'"
 front: false
 section: "Espectáculos"
-news_id: 188360
+redirect_from: /news/188360
 ---
 
 La pelea por el rating entre Televisa y TV Azteca continúa, pues el reality Las Estrellas bailan en Hoy que generó polémica hace unos meses regresó a la pantalla chica con una segunda temporada y nuevos participantes famosos para hacer frente al sonado éxito en redes sociales que ha tenido la competencia, es decir, el concurso de Quiero cantar que se transmite por la mañana en Venga la Alegría. Este lunes comenzó la segunda edición de Las Estrellas bailan en Hoy que se emite durante la transmisión del programa Hoy, bajo la conducción Andrea Escalona, Raúl Araiza, Galilea Montijo y Arath de la Torres, quienes finalmente dieron a conocer a todos los concursantes del reality. 

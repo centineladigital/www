@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con el propósito de contribuir a la economía familiar, en la vertiente de titulación, materiales y equipo técnico, la Secretaría de Educación y Deporte otorgó estímulos económicos del programa de becas"
 image: "/uploads/2021/images-uttarahumara_(7).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan apoyos a 108 estudiantes  de la Universidad Tecnológica de la Tarahumara"
 front: false
 section: "Local"
-news_id: 186347
+redirect_from: /news/186347
 ---
 
 Gobierno del Estado, a través de la Secretaría de Educación y Deporte (SEyD), llevó a cabo de manera simbólica, la entrega de apoyos económicos a 108 estudiantes de la Universidad Tecnológica de la Tarahumara (UT Tarahumara), en las vertientes de “Titulación” y “Materiales y Equipo Técnico”.

@@ -10,11 +10,11 @@ author: nil
 description: "Crearán ocho foros para recepción de propuestas."
 image: "/uploads/2021/images-PAVEL.jpg"
 video: "/uploads/2021/videos-MM03_PAVEL_AGUILAR.mp4"
-audio: "nil"
+audio: nil
 alt: "Presentan lineamientos de Plan Estatal de Planeación"
 front: false
 section: "Local"
-news_id: 188927
+redirect_from: /news/188927
 ---
 
 Buscando que se lleve a cabo el incremento de la participación ciudadana en el Plan Estatal de Desarrollo, este martes fue dado a conocer los lineamientos de la participación ciudadana, la cual será privilegiada con foros y buzones.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se descartó la opción de realizarlo por medio de redes sociales o plataformas"
 image: "/uploads/2021/images-juramento_escuela_alumnos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se cancela en Delicias el juramento a la bandera"
 front: false
 section: "Local"
-news_id: 182810
+redirect_from: /news/182810
 ---
 
 En un hecho inédito, el gobierno municipal decidió no llevar a cabo el evento del juramento a la Bandera que se realizaba cada 24 de febrero y en el cual participaban cientos de niños alumnos del tercer grado que acudían al Gran Estadio de Béisbol.

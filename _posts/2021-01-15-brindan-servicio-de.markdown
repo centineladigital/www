@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante la presente contingencia sanitaria, dentro de ambas guarderías se tomaron las medidas necesarias para evitar un posible contagio por COVID19"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brindan servicio de excelencia guarderías dirigidas por el DIF Municipal"
 front: false
 section: "Local"
-news_id: 182166
+redirect_from: /news/182166
 ---
 
 Las guarderías dirigidas por el DIF Municipal, continúan posicionadas entre las mejores del país, las cuales obtuvieron recientemente la calificación de 98 por parte del Instituto Mexicano del Seguro Social (IMSS) por su calidad en el servicio, preparación de su personal y el mantenimiento de sus instalaciones.

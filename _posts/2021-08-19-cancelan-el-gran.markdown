@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En un comunicado informaron que era imposible garantizar el ingreso de los involucrados al país ante la pandemia del coronavirus"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cancelan el Gran Premio de Japón de F1 por segundo año consecutivo por el covid-19"
 front: false
 section: "Deportes"
-news_id: 186875
+redirect_from: /news/186875
 ---
 
 El Gran Premio de Japón de Fórmula 1 ha sido cancelado por la situación de la pandemia de covid-19 en el país y las dificultades para garantizar la seguridad y entrada en el territorio de los participantes, informaron hoy los organizadores. 

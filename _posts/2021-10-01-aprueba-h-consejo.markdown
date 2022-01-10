@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Señaló que el programa de “Turismo para Personas Mayores” en su fase de arranque en 2021 en el Centro Vacacional IMSS-Oaxtepec, dispondrá de 10 habitaciones y 30 cabañas habilitadas."
 image: "/uploads/2021/images-foto_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueba H. Consejo Técnico del IMSS programas en  beneficio de las Personas Mayores derechohabientes"
 front: false
 section: "Local"
-news_id: 188281
+redirect_from: /news/188281
 ---
 
 El H. Consejo Técnico del Instituto Mexicano del Seguro Social (IMSS) aprobó dos programas sociales para la población de la tercera edad: “Club de Personas Mayores” y “Turismo para Personas Mayores”, con los cuales se busca promover la salud, actividad física, estimulación motriz y cognitiva, entre otras.

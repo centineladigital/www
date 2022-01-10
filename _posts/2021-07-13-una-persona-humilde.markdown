@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante Roberto Tapia recordó cuando conoció a Joaquín Guzmán Loera y aseguró que El Chapo es una persona humilde."
 image: "/uploads/2021/images-roberto-tapia-chapo-gusta-corridos_44_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Una persona humilde -  Roberto Tapia recuerda cuando conoció a 'El Chapo' Guzmán"
 front: false
 section: "Espectáculos"
-news_id: 185610
+redirect_from: /news/185610
 ---
 
 Algunos cantantes han revelado que en diversas ocasiones se han reunido con narcotraficantes para amenizar sus reuniones, pero muy pocos han contado que tuvieron la oportunidad de conocer a Joaquín Guzmán Loera, El Chapo, como Roberto Tapia, quien recientemente mencionó los detalles del día en que platicó con el narcotraficante. 

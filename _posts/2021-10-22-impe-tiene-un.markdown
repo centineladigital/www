@@ -12,11 +12,11 @@ author: nil
 description: "De 24 dependencias con las que cuenta el Gobierno Municipal el IMPE es la más afectada"
 image: "/uploads/2021/images-C2B9F292-AFED-4CE9-BE32-EC718E9CD46A.jpeg"
 video: "/uploads/2021/videos-_BV01_JUAN_GONZALEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "IMPE tiene un déficit de 40 millones "
 front: false
 section: "Local"
-news_id: 189087
+redirect_from: /news/189087
 ---
 
 El director del Instituto Municipal De Pensiones Juan Antonio González Declaró que el IMPE  es la única dependencia  que cuenta con un déficit presupuestario de 40 millones de pesos, manifestó que de 24 dependencias con las que cuenta el Gobierno Municipal el IMPE es la más afectada.

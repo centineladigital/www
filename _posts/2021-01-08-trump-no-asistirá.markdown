@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La ceremonia se llevará a cabo el próximo 20 de enero, pero el mandatario saliente ya decidió no asistir al acto formal"
 image: "/uploads/2021/images-2508318.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trump no asistirá a ceremonia de investidura de Biden"
 front: false
 section: "Internacional"
-news_id: 181971
+redirect_from: /news/181971
 ---
 
 El presidente de Estados Unidos, Donald Trump, anunció el viernes que no asistirá a la ceremonia de investidura de su sucesor, Joe Biden, dos días después de que partidarios del mandatario asaltaran el Capitolio arengados por él para revertir su derrota electoral.

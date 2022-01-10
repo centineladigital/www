@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los Clubes Rotarios de Chihuahua galardonaron a 10 ciudadanos por su trabajo en labor social"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconoce Presidente Municipal labor social de los rotarios de Chihuahua   "
 front: false
 section: "Local"
-news_id: 189017
+redirect_from: /news/189017
 ---
 
 El presidente Municipal de Chihuahua, Marco Bonilla Mendoza, reconoció la labor de los diferentes Clubes Rotarios del municipio, durante su participación en la entrega del Reconocimiento al Mérito Rotario 2021, que otorga esta asociación civil a ciudadanos que destacan por su labor altruista.

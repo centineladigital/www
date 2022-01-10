@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Con motivo de la temporada navideña, estudiantes del Colegio de Bachilleres entregaron en Ciudad Juárez dulces y juguetes a niñas y niños, así como chamarras y cobijas a personas mayores"
 image: "/uploads/2021/images-C3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estudiantes del COBACH plantel 7  llevaron alegría al albergue “Casa del Niño y del Anciano México”"
 front: false
 section: "Buenas Noticias"
-news_id: 190637
+redirect_from: /news/190637
 ---
 
 Estudiantes del Colegio de Bachilleres del Estado de Chihuahua (COBACH) plantel 7, llevaron alegría, diversión y juguetes a niñas y niños, así como chamarras y cobijas a personas mayores del albergue “Casa del Niño y del Anciano México, A.C.” de Ciudad Juárez.

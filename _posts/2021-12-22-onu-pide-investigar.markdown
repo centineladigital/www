@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las protestas coincidieron con el tercer aniversario de la caída del dictador Omar al Bashir en abril de 2019. Sin embargo, el movimiento ha desencadenado una ola de violencia y agresión por todo el país. "
 image: "/uploads/2021/images-sudan-campo-guerra-protestas-manifestaciones.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "ONU pide investigar agresiones sexuales y muertes durante protestas en Sudán"
 front: false
 section: "Internacional"
-news_id: 191101
+redirect_from: /news/191101
 ---
 
 Una segunda persona falleció por disparos recibidos durante las manifestaciones del domingo contra el poder militar en Sudán, anunciaron el martes fuentes médicas, mientras que el gobierno informó que dos mujeres fueron violadas en la capital, mismas que las Naciones Unidas pidieron una investigación. 

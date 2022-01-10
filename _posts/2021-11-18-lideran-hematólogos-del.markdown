@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Es causa número uno de enfermedades hematológicas malignas en el mundo y en el país, informó la Jefa de Hematología, del CMN “20 de Noviembre”, Martha Alvarado Ibarra."
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-18_at_2.01.57_PM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lideran hematólogos del ISSSTE la investigación más extensa sobre linfoma en México"
 front: false
 section: "Local"
-news_id: 189966
+redirect_from: /news/189966
 ---
 
 Especialistas del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) realizaron la investigación científica más amplia sobre linfomas, que se ha desarrollado en México, con el objetivo de conocer los datos epidemiológicos y características clínicas de esta patología,  primera causa de enfermedades hematológicas malignas en el mundo y en nuestro país, seguida de las leucemias.

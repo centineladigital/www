@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Entre ellas heroína y metanfetamina fueron destruidas."
 image: "/uploads/2021/images-CARLOS_MARIO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV04_CARLOS_JIMENEZ.mp3"
 alt: "Incinera Fiscalía diferentes tipos de drogas "
 front: false
 section: "Local"
-news_id: 184350
+redirect_from: /news/184350
 ---
 
 Drogas de diversos tipos fueron incineradas por parte de la Fiscalía General de Chihuahua, esto resultado de los diversos decomisos, según fue dado a conocer por parte del Fiscal Zona Centro Carlos Mario Jiménez Holguín.

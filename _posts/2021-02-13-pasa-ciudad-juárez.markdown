@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La ponderación de las variables otorgadas por la Secretaría de Salud federal fue de 13 puntos, mientras que Juárez recibió 9 y la capital 15, por lo que se aplica el semáforo regionalizado o diferenciado"
 image: "/uploads/2021/images-DAH_4805.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pasa Ciudad Juárez a semáforo amarillo y el resto del estado permanece en naranja"
 front: false
 section: "Local"
-news_id: 182921
+redirect_from: /news/182921
 ---
 
 El Secretario de Salud, Eduardo Fernández Herrera informó que el estado de Chihuahua

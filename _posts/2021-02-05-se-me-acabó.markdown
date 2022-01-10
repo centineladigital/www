@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de Instagram, Shakira compartió una fotografía en la que apareció con su nuevo cambio de look; sin embargo, aclaró que su tono de cabello no quedó como esperaba. "
 image: "/uploads/2021/images-shakira-impacta-cambio-look-luce.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se me acabó el rosa -  Shakira 'impacta' con cambio de look; revela no quedó como quería"
 front: false
 section: "Espectáculos"
-news_id: 182726
+redirect_from: /news/182726
 ---
 
 Shakira, la famosa cantante, cambió de look. Ahora la intérprete de Girl Like Me luce su larga caballera de color rosa, así lo mostró a través de sus redes sociales. Sin embargo, al parecer el tono no le quedó como realmente lo quería, pues tras terminarse el tinte, lo mezcló con un tono más intenso, lo que recordó al look que portaba en sus inicios.

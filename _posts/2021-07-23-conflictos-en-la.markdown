@@ -10,11 +10,11 @@ author: nil
 description: "Enfrentamientos en el área de Cuauhtémoc se deben a control de tala ilegal."
 image: "/uploads/2021/images-PENICHE.jpg"
 video: "/uploads/2021/videos-MV06_CESAR_PENICHE.mp4"
-audio: "nil"
+audio: nil
 alt: "Conflictos en la zona occidente es por el control de la tala clandestina -  Fiscal"
 front: false
 section: "Local"
-news_id: 185954
+redirect_from: /news/185954
 ---
 
 Los enfrentamientos que se registran en la zona occidente se deben al control que se busca tener por la tala ilegal en la zona, señaló el titular de la Fiscalía estatal César Augusto Peniche Espejel, esto luego de ser cuestionado respecto a la identificación y acciones para detener a quien suplió a Juan Romero Manjarrez Alonso alias “H7” del nuevo cártel de Juárez.

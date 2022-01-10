@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Para prevenir y no arriesgar la vida propia o patrimonio"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Vas a utilizar calefactores? Bomberos te dice qué hacer para evitar accidentes"
 front: false
 section: "Local"
-news_id: 191119
+redirect_from: /news/191119
 ---
 
 Debido a las bajas temperaturas y heladas de la temporada invernal que ya se presentan en el municipio de Chihuahua, el Gobierno Municipal, a través del H. Cuerpo de Bomberos, exhorta a la población a extremar precauciones con el uso de calefactores, y así evitar incidentes que arriesguen el patrimonio o la propia vida, al maniobrarlos de manera inadecuada.

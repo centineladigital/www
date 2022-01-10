@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El animal flotaba entre las olas y salía del mar para moverse en la arena. "
 image: "/uploads/2021/images-medida-seguridad-zona-playa-aledana.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Captan a cocodrilo en playa de Mazatlán; intentan atraparlo y se les va"
 front: false
 section: "Nacional"
-news_id: 187870
+redirect_from: /news/187870
 ---
 
 Un cocodrilo de aproximadamente metro y medio apareció en la playa de Mazatlán, Sinaloa, lo que causó sorpresa entre turistas y locales que paseaban por el malecón al observar que el animal flotaba entre las olas y salía del mar para moverse en la arena. 

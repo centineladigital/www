@@ -10,11 +10,11 @@ author: nil
 description: "Esto desde el inicio de la administración, buscan fomentar la cultura de la denuncia."
 image: "/uploads/2021/images-PEÑA.jpg"
 video: "/uploads/2021/videos-ML05_CESAR_PEÑA.mp4"
-audio: "nil"
+audio: nil
 alt: "Detienen a 6 generadores de violencia en un mes en Parral"
 front: false
 section: "Local"
-news_id: 188101
+redirect_from: /news/188101
 ---
 
 Desde el inicio de la administración el municipio de Parral ha consignado a seis personas por violencia familiar, según lo dio a conocer el Presidente Municipal de aquella entidad César Peña Valles.

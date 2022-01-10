@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Yamit Picón Rodríguez y Henry Trigos Celón fueron trasladados ayer a Houston, vía aérea, tras hacerse efectiva la orden de extradición en su contra"
 image: "/uploads/2021/images-cuba-decidio-mantenerse-garante-proceso.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Extraditan a EU a dos presuntos integrantes de ELN acusados de narcoterrorismo"
 front: false
 section: "Internacional"
-news_id: 186932
+redirect_from: /news/186932
 ---
 
 Dos presuntos integrantes del Ejército de Liberación Nacional (ELN), grupo guerrillero colombiano actualmente dedicado al narcotráfico, fueron extraditados a Estados Unidos acusados de narcoterrorismo y distribución internacional de cocaína, informó el Departamento de Justicia. 

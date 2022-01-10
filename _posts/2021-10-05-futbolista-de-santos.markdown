@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Katia Estrada tropezó y cayó de mala forma sobre su brazo derecho en el duelo entre el FC Juárez y Santos"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Futbolista de Santos sufre escalofriante lesión en la Liga MX Femenil"
 front: false
 section: "Deportes"
-news_id: 188380
+redirect_from: /news/188380
 ---
 
 La jornada 11 de la Liga MX Femenil culminó con el partido entre el FC Juárez y el Santos Laguna, en el que la escuadra visitante se hizo con el triunfo de 1-2 y así llegar a su décimo cotejo sin conocer la derrota; sin embargo, no todo fue felicidad para el vestidor lagunero.

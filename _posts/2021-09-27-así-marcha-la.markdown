@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El América se mantiene como líder del Apertura 2021; FC Juárez y Querétaro tiene un partido pendiente de esta jornada "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así marcha la tabla de la Liga MX tras la jornada 10 del Apertura 2021"
 front: false
 section: "Deportes"
-news_id: 188072
+redirect_from: /news/188072
 ---
 
 Las Águilas del América del entrenador argentino Santiago Solari, que empataron este sábado sin goles con Guadalajara, se confirmaron como líderes del torneo Apertura 2021 del fútbol mexicano, al concluir este domingo la décima jornada. En el estadio Azteca, el derbi del campeonato transcurrió con buenas llegadas por ambos lados; las Chivas crearon peligro en la primera mitad y América fue mejor en la segunda, pero faltó el gol. 

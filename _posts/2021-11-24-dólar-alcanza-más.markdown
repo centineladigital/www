@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El anuncio fue sorpresivo para el mercado y genera incertidumbre sobre las expectativas de política monetaria del banco central "
 image: "/uploads/2021/images-banco_de_mexico.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dólar alcanza más de 22 pesos tras propuesta de AMLO de Victoria Rodríguez Ceja para Banxico"
 front: false
 section: "Nacional"
-news_id: 190141
+redirect_from: /news/190141
 ---
 
 El dólar al menudeo se vende arriba de los 22 pesos en las ventanillas de los bancos de acuerdo con información de CitiBanamex, 30 centavos por arriba del cierre anterior, con lo que se ubica en el nivel más alto en lo que va del año y desde octubre de 2020. 

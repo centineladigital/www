@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente Joe Biden firmó una docena de órdenes ejecutivas que contemplan vacunación, uso obligatorio de cubrebocas y más."
 image: "/uploads/2021/images-2516050.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden lanza plan de acción contra covid; 100 millones de dosis en 100 días"
 front: false
 section: "Internacional"
-news_id: 182334
+redirect_from: /news/182334
 ---
 
 El presidente Joe Biden lanzó su plan de acción contra el covid que contempla un aumento en el presupuesto para vacunas, el uso obligatorio del cubrebocas y la reapertura gradual de las escuelas.

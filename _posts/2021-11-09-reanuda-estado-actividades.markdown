@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La reapertura beneficiará a 500 adultos mayores con actividades como pintura, bisutería, manualidades, tejido y bordado, tanatología, entre otras"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reanuda Estado actividades presenciales de las Casas de los Abuelos"
 front: false
 section: "Local"
-news_id: 189725
+redirect_from: /news/189725
 ---
 
 La Secretaría de Desarrollo Humano y Bien Común (SDHyBC) de Gobierno del Estado, anunció que a partir de esta semana se reanudan las actividades presenciales en las Casas de los Abuelos, luego de que estos espacios permanecieran cerrados por más de año y medio debido a la pandemia.

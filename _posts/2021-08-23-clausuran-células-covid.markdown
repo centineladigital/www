@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La clausura de los bares La número 4, el Cotorritos y Juana Gallo, por no respetar el aforo establecido por las autoridades"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Clausuran Células COVID tres bares durante el fin de semana"
 front: false
 section: "Local"
-news_id: 187013
+redirect_from: /news/187013
 ---
 
 Como parte de los operativos de las Células COVID, inspectores de la Subdirección de Gobernación en conjunto con agentes de la Dirección de Seguridad Pública Municipal, recorrieron un total de 47 restaurantes, bares y cantinas de distintos sectores de la ciudad, derivando en la clausura de los bares La número 4, el Cotorrito y Juana Gallo, por no respetar el aforo establecido por las autoridades.

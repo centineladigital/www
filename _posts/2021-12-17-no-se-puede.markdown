@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente presumió que en los tres años que lleva su administración no se ha devaluado el peso. "
 image: "/uploads/2021/images-andres-manuel-lopez-obrador-conferencia-82.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No se puede controlar la inflación por decreto, pero la vamos a cuidar -  AMLO"
 front: false
 section: "Nacional"
-news_id: 190957
+redirect_from: /news/190957
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que no se puede controlar la inflación por decreto, pero aseguró que se va a cuidar que no se eleve aplicando mecanismos como la estabilidad en el precio de los combustibles y la luz. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de su cuenta de Instagram en donde Karina Gidi compartió varias imágenes de su hermano Carlos Gidi Blanchet, quien murió en este mes a los 55 años de edad. ¿Qué fue lo que dijo la famosa actriz? "
 image: "/uploads/2021/images-muere-hermano-actriz-karina-gidi.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chingaderas que la vida siga -  Karina Gidi anuncia la muerte de su hermano; esto dijo la actriz"
 front: false
 section: "Espectáculos"
-news_id: 185262
+redirect_from: /news/185262
 ---
 
 Karina Gidi, exitosa actriz de teatro, cine y televisión, está de luto. La intérprete anunció mediante su cuenta de Instagram la muerte de su hermano el empresario Carlos Gidi Blanchet, a quien le dedicó unas palabras en forma de un breve homenaje. Fue a través de su cuenta de Instagram en donde Karina Gidi compartió varias imágenes de su hermano Carlos Gidi Blanchet, quien murió en este mes a los 55 años de edad. ¿Qué fue lo que dijo la famosa actriz?.

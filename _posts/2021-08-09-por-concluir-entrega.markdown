@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los adultos mayores que no vayan por su beneficio alimentario, no podrán recibirlo más adelante y perderán las despensas correspondientes a esta etapa"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por concluir entrega extraordinaria del Programa Alimentario para el Adulto Mayor"
 front: false
 section: "Local"
-news_id: 186479
+redirect_from: /news/186479
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, informa que el día de mañana martes 10 de agosto finaliza la fecha de ampliación para la entrega extraordinaria, correspondiente a la segunda etapa, del Programa Alimentario para el Adulto Mayor (PAAM).

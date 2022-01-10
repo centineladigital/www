@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Es otra cosa en comparación a lo que me han visto antes, es Adrián hablando de su vida, hablo un poco de todo, asegura el también actor."
 image: "/uploads/2021/images-adrian-uribe-instagram-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Dejará la televisión? Adrián Uribe incursionará en el stand up"
 front: false
 section: "Espectáculos"
-news_id: 186769
+redirect_from: /news/186769
 ---
 
 Con el objetivo de mostrar otra faceta de su trabajo como comediante, Adrián Uribe incursionará en el stand up, una forma de hacer comedia que ha tenido un gran crecimiento en México durante los últimos años. 

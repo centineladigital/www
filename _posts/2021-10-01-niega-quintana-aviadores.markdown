@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que eficientizó la forma de llevar a cabo acciones."
 image: "/uploads/2021/images-QUINTANA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV01_VICTOR_QUINTANA.mp4"
 alt: "Niega Quintana aviadores dentro de SDS"
 front: false
 section: "Local"
-news_id: 188290
+redirect_from: /news/188290
 ---
 
 Ante los señalamientos de la Gobernadora en relación a que se tenía personas que solamente cobraban, el ex secretario de Desarrollo Social, Víctor Quintana Silveyra, negó que dentro de su administración se diera lo que se conoce como “aviadores”, destacando que él recibió la secretaría y dentro de su gestión en la dependencia no se tuvieron becarios, sino que también se tuvo subsidios.

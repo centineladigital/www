@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Remodelaron este espacio para beneficiar a familias de la colonia Villa Juárez y sus alrededores"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reapertura Gobierno Municipal Biblioteca León Barrí al sur de la ciudad"
 front: false
 section: "Local"
-news_id: 190942
+redirect_from: /news/190942
 ---
 
 El Gobierno Municipal a través del Instituto de Cultura del Municipio y la Dirección de Obras Públicas, realizó la reapertura de la Biblioteca “León Barrí”, localizada al sur de la ciudad, en la colonia Villa Juárez, la cual fue remodelada con una inversión de más de un millón 300 mil pesos, provenientes del Fondo para la Infraestructura Social Municipal (FISM).

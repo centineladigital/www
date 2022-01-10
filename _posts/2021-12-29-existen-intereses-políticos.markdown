@@ -20,11 +20,11 @@ author: nil
 description: "Lamentó que las personas defraudadas no se hayan unificado en un sólo movimiento puesto que hay varios grupos"
 image: "/uploads/2021/images-big_dtp3qxq3.jpg"
 video: "/uploads/2021/videos-BW05_CESAR_JAUREGUI_.mp4"
-audio: "nil"
+audio: nil
 alt: "Existen intereses políticos respecto a Aras -  Jáuregui "
 front: false
 section: "Local"
-news_id: 191325
+redirect_from: /news/191325
 ---
 
 César Jáuregui Moreno Secretario general de gobierno, indicó, que tras las protestas realizadas ayer en contra de Aras por decenas de afectados fueron atendidos por personal de la Fiscalía y se llegó a una serie de acuerdos para mantenerlos informados sobre las indagatorias, así mismo aseguró que ya se han mezclado otros intereses ajenos a la solución del conflicto, probablemente de tipo político.

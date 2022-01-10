@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Entre los efectos adversos se encuentran dolores, cansancio y adormecimiento de piernas"
 image: "/uploads/2021/images-Vacunación.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conoce aquí las posibles reacciones de la vacuna contra el Covid-19"
 front: false
 section: "Local"
-news_id: 183868
+redirect_from: /news/183868
 ---
 
 En el estado, diez personas que fueron vacunadas contra el Covid-19 presentaron efectos adversos, como dolor local, fiebre, sensación de cansancio y adormecimiento en las piernas, informó la directora de Prevención y Control de Enfermedades, Leticia Ruiz González, quien dijo que sólo una permanece hospitalizada.

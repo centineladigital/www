@@ -10,11 +10,11 @@ author: nil
 description: "El principal problema se da por la falta de unión familiar y la falta de orientación a un deporte. "
 image: "/uploads/2021/images-FIERRO.jpg"
 video: "/uploads/2021/videos-ML03_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Actuó en solitario menor asesino"
 front: false
 section: "Local"
-news_id: 188103
+redirect_from: /news/188103
 ---
 
 El joven que asesinó a su familia actuó solo, fueron las palabras del Fiscal General de Chihuahua Roberto Fierro Duarte. Quien lamentó el hecho, pero recalcó que el principal problema se da por la falta de unión familiar y la falta de orientación a un deporte.

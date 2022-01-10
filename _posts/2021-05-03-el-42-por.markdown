@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Triplica cifra en comparación con Ciudad Juárez."
 image: "/uploads/2021/images-ARTURO_1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02_ARTURO_VALENZUELA.mp3"
 alt: "El 42 por ciento de los casos activos está en el municipio de Chihuahua"
 front: false
 section: "Local"
-news_id: 184257
+redirect_from: /news/184257
 ---
 
 El 42 por ciento de los casos de coronavirus que se encuentran activos en el estado son de personas que radican en la capital, según fue dado a conocer por parte del Director Médico de la Zona Norte, Arturo Valenzuela Zorrilla.

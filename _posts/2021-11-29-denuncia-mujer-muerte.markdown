@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que se cometieron errores en la atención."
 image: "/uploads/2021/images-QUEJOSA.jpg"
 video: "/uploads/2021/videos-ML05_QUEJOSA.mp4"
-audio: "nil"
+audio: nil
 alt: "Denuncia mujer muerte por negligencia en el IMSS"
 front: false
 section: "Local"
-news_id: 190311
+redirect_from: /news/190311
 ---
 
 Una mujer denunció la muerte de su hijo en el IMSS número uno, o conocido como Morelos, destacando que esto se debió a la negligencia de los médicos, esto por la falta de diálisis a su hijo quien padecía de los riñones.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Banco de Desarrollo de América del Norte firma contratos de financiamiento para dos proyectos de mejora de sistemas de alcantarillado y apoya con recursos no reembolsables"
 image: "/uploads/2021/images-3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Otorga BDAN fondos por 1.5 millones de dólares para proyectos de JMAS de Camargo y Ojinaga"
 front: false
 section: "Local"
-news_id: 186665
+redirect_from: /news/186665
 ---
 
 El Banco de Desarrollo de América del Norte (BDAN) firmó contratos de financiamiento no reembolsables con las Juntas Municipales de Agua y Saneamiento (JMAS) de Camargo y Ojinaga, para apoyar sus respectivos proyectos de ampliación y mejoras a los sistemas de alcantarillado sanitario de estas comunidades de Chihuahua.

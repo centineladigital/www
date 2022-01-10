@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "En 1958 se iniciaron formalmente los trabajos de construcción de la unidad hospitalaria y se concluyeron después de la segunda mitad de 1960."
 image: "/uploads/2021/images-IMSS_Chih_B5883_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conmemora IMSS en Ciudad Juárez 61 años de inauguración del Hospital General de Zona (HGZ) No. 6 "
 front: false
 section: "Local"
-news_id: 190285
+redirect_from: /news/190285
 ---
 
 A 61 años de su apertura, el Hospital General de Zona (HGZ) No. 6, "Licenciado Benito Juárez", del Instituto Mexicano del Seguro Social (IMSS) en Ciudad Juárez, Chihuahua, mantiene y fortalece la atención médica con calidad a un amplio sector de la derechohabiencia de la comunidad fronteriza y se constituye como un modelo hospitalario en la formación de personal de salud altamente capacitado.

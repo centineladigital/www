@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¿En verdad la canción de 'El Juego del Calamar' dice muévete, luz verde? Te contamos qué es lo que dice la canción original y su significado. "
 image: "/uploads/2021/images-significado-real-cancion-juego-calamar.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿No dice 'muévete, luz verde'? Éste es el significado real de la canción de 'El juego del calamar'"
 front: false
 section: "Espectáculos"
-news_id: 188223
+redirect_from: /news/188223
 ---
 
 El Juego del Calamar, famosa serie de Netflix, sigue dando de qué hablar, pues ha dejado boquiabiertos a quienes han visto su historia. Sobre la producción se ha hablado mucho. Han salido a flote varias curiosidades entre las que se encuentran el origen de la muñeca o los juegos reales que inspiraron la historia. En este sentido, recientemente surgió el origen de la canción que canta la muñeca gigante, esa que en español reza ‘jugaremos, muévete… luz verde’. ¿Tiene algún significado especial? ¿Es algo representativo de Corea del Sur? Te contamos lo que sabemos y lo que significa la canción real –en su idioma real– del Juego del Calamar.

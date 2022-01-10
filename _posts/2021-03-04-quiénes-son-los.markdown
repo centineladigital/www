@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¿Quiénes son estos bandidos, como los denominan las autoridades, grupos criminales que convirtieron esta región muy pobre de Nigeria en un territorio sin ley?"
 image: "/uploads/2021/images-2539244.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Quiénes son los autores de los secuestros masivos en Nigeria?"
 front: false
 section: "Internacional"
-news_id: 183264
+redirect_from: /news/183264
 ---
 
 En la última década, han aterrorizado a las poblaciones nigerianas del noroeste, atacado aldeas, robado ganado y secuestrado a personalidades locales o viajeros en las carreteras para pedir rescate.

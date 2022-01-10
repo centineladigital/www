@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Para el año entrante la firma también espera incursionar en el mercado norteamericano, principalmente por el valor que representa. "
 image: "/uploads/2021/images-mexico-entre-los-paises-con-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aeolus invertirá 6.5 mdp el próximo año para iniciar manufactura en México"
 front: false
 section: "Nacional"
-news_id: 189354
+redirect_from: /news/189354
 ---
 
 La empresa dedicada a la fabricación de ventiladores y calefactores Aeolus invertirá 6.5 millones de pesos en 2022 con la intención de mudar parte de su factoría, proveniente de China, a Querétaro, México. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con una inversión de 9 millones de pesos, se beneficiará a más de 4 mil usuarios"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avanza remodelación de centros comunitarios de DIF Municipal"
 front: false
 section: "Local"
-news_id: 190883
+redirect_from: /news/190883
 ---
 
 Como parte de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través del DIF, inició en meses pasados la remodelación de seis centros comunitarios, ubicados en diferentes puntos de la ciudad, con el objetivo de brindar a la ciudadanía espacios dignos para el esparcimiento familiar.

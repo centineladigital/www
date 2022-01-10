@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cinta se inspira en el cuento del norteamericano H.P Lovecraft, 'Los sueños de la casa de la bruja', trasladándolo a Madrid. "
 image: "/uploads/2021/images-reto-pone-extremo-radical-actriz.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Será extremo y radical -  Ester Expósito protagonizará la película de terror 'Venus'"
 front: false
 section: "Espectáculos"
-news_id: 188654
+redirect_from: /news/188654
 ---
 
 Tras alcanzar la fama mundial con su participación en la serie de Netflix Élite, la actriz española Ester Expósito ahora se sumergirá en el género del terror con Venus, la nueva película del director Jaume Balagueró, responsable, entre otras cintas, de la saga REC. En un acto celebrado este martes en el Festival de Cine Fantástico de Sitges, el realizador aseguró que la película, que empezará a rodarse en Madrid próximo día 15 de noviembre, será "desmesuradamente de horror, violenta y sucia". 

@@ -16,11 +16,11 @@ author: nil
 description: "“Se debe trabajar por un equilibrio regional para dar abasto a las necesidades de cada una de las 7 regiones que integran este plan hídrico”"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-08_at_13.18.26.jpeg"
 video: "/uploads/2021/videos-BV04_EDGAR_PIÑON_.mp4"
-audio: "nil"
+audio: nil
 alt: "Plan hídrico discutido en Camargo "
 front: false
 section: "Local"
-news_id: 188539
+redirect_from: /news/188539
 ---
 
 El diputado Edgar Piñón, manifestó  su agradecimiento a la Junta Central de Agua y Saneamiento,  puesto que se ha estado colaborando en foros como el que tuvo lugar en Camargo para establecer un del plan hídrico para el estado de Chihuahua.

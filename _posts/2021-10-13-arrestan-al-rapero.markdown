@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La más reciente pareja del rapero, Camaryn Swanson, habría sido golpeada por Tyga después de una discusión; él se entregó ante las autoridades de Los Angeles. "
 image: "/uploads/2021/images-tyga-camaryn-comenzaron-salir-principios.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arrestan al rapero Tyga, ex pareja de Kylie Jenner, por caso de violencia doméstica"
 front: false
 section: "Espectáculos"
-news_id: 188680
+redirect_from: /news/188680
 ---
 
 El rapero estadunidense de 31 años conocido como Tyga, ex pareja de Kylie Jenner, fue arrestado el martes en California ante la sospecha de un delito grave de violencia doméstica contra su más reciente pareja, la influencer Camaryn Swanson. 

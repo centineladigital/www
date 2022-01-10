@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante dedicó unas conmovedoras palabras a Camila Cabello, quien cumple 24 años; aquí hacemos un recuento de su historia de amor. "
 image: "/uploads/2021/images-shawn-mendes-felicita-camila-cabello_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Shawn Mendes felicita a Camila Cabello por su cumpleaños con romántico mensaje"
 front: false
 section: "Espectáculos"
-news_id: 183253
+redirect_from: /news/183253
 ---
 
 Camila Cabello celebra hoy su cumpleaños número 24 y las felicitaciones no paran en redes sociales. Sin duda, lo que más causó revuelo entre sus seguidores fue el romántico mensaje que le dedicó Shawn Mendes a la cantante cubana, ex integrante de la agrupación Fifth Harmony, con quien mantiene una relación amorosa desde 2019. A través de su cuenta de Instagram, Shawn Mendes compartió unas palabras en honor a Camila Cabello, a quien describió como "la persona más amable". El intérprete de "Monster" acompañó su mensaje con una fotografía inédita de la cantante.  

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Alcaldesa felicitó y reconoció a los atletas chihuahuenses por poner en alto el nombre de Chihuahua y México durante los juegos"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza Alcaldesa entrega de reconocimientos a atletas olímpicos"
 front: false
 section: "Local"
-news_id: 187483
+redirect_from: /news/187483
 ---
 
 La presidenta municipal, María Angélica Granados Trespalacios, encabezó la entrega de reconocimientos y cheques simbólicos a los atletas chihuahuenses que participaron en los Juegos Olímpicos y Paralímpicos de Tokio 2020.

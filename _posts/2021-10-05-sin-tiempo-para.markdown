@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La última entrega de la saga con el actor inglés Daniel Craig en el papel protagonista se estrenó en el Reino Unido e Irlanda el jueves, donde registró los mejores tres días de taquilla en los 60 años de historia. "
 image: "/uploads/2021/images-james-bond-time-to-die.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sin tiempo para morir -  Nueva película de 007 bate récord de recaudación de la franquicia"
 front: false
 section: "Espectáculos"
-news_id: 188372
+redirect_from: /news/188372
 ---
 
 La nueva película de James Bond, "Sin tiempo para morir", batió con 25 millones de libras (34 millones de dólares, 29 millones de euros) el récord de recaudación de la franquicia durante el fin de semana de estreno en el Reino Unido, informó el martes Universal Pictures. La última entrega de la saga con el actor inglés Daniel Craig en el papel protagonista se estrenó en el Reino Unido e Irlanda el jueves, donde registró los mejores tres días de taquilla en los 60 años de historia de las aventuras del más famoso agente al servicio de su majestad. 

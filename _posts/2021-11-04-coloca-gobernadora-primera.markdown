@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Inversión de 13 mdd de American Industries para generar 3 mil empleos directos"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Coloca gobernadora primera piedra de Parque Industrial Independencia II en Juárez"
 front: false
 section: "Local"
-news_id: 189568
+redirect_from: /news/189568
 ---
 
 Como parte de la gira que realizó por Ciudad Juárez, la gobernadora Maru Campos Galván colocó la primera piedra y encabezó el anuncio de inversión de lo que será el Parque Industrial Independencia II, que se construirá por parte de la empresa American Industries y que implica una inversión de más de 13 millones de dólares.

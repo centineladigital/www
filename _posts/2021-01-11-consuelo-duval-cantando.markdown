@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Consuelo Duval tenía 14 años cuando protagonizó este video. Hoy cumple 52. "
 image: "/uploads/2021/images-consuelo-duval-instagram-youtube.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Consuelo Duval cantando? Sucedió cuando era una adolescente y aquí puedes ver el video"
 front: false
 section: "Espectáculos"
-news_id: 182050
+redirect_from: /news/182050
 ---
 
 Hoy, Consuelo Duval está cumpliendo 52 años, y no se nos ocurrió una mejor forma para celebrarla que recordar una faceta de su carrera que seguro no conocías aún. Y es que cuando era apenas una adolescente, la ahora talentosa actriz comenzó a hacer carrera presentándose en diferentes programas televisivos populares de aquella época.  

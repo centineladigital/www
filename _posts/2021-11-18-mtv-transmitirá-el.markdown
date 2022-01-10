@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "MTV emitirá el documental llamado 'Oasis Knebworth 1996', el cual sigue a los hermanos Liam y Noel Gallagher, fundadores del grupo Oasis. "
 image: "/uploads/2021/images-oasis-banda-liderada-hermanos-gallagher.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "MTV transmitirá el documental sobre Liam y Noel Gallagher, 'Oasis Knebworth 1996'"
 front: false
 section: "Espectáculos"
-news_id: 189982
+redirect_from: /news/189982
 ---
 
 Aunque la banda terminó, así como la relación de los hermanos, Liam y Noel Gallagher, Oasis sigue siendo una de las bandas más importantes, es por eso que los dos míticos conciertos que el grupo celebró en 1996 en Knebworth Park ante 250.000 seguidores, considerados una de las citas musicales más grandes de la historia, serán el objeto de atención del documental dirigido por el ganador de un Grammy Jake Scott que se emitirá este viernes en MTV. Titulado sencillamente "Oasis Knebworth 1996", esta producción permitirá ver a los hermanos Gallagher en su momento de mayor apogeo como grupo en una historia contada a través de la mirada de los asistentes al evento, disfrutar de imágenes del mismo y también de lo que sucedió entre bambalinas. 

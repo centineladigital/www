@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El grupo británico, Coldplay, está de regreso en la escena musical y ya anunció que muy pronto saldrá su nueva canción 'Higher Power'. "
 image: "/uploads/2021/images-la-banda-estrenara-su-nueva.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Están de regreso! Coldplay anuncia 'Higher Power', su nueva canción"
 front: false
 section: "Espectáculos"
-news_id: 184205
+redirect_from: /news/184205
 ---
 
 El grupo liderado por Chris Martin, Coldplay, por fin ha anunciado que está de regreso en la escena musical, por lo que le informó a sus fans que en el próximo mes de mayo podrán escuchar su nueva canción "Higher Power", esto sin duda también indica que la agrupación podría lanzar un nuevo disco este año. Hace unos días, Coldplay alertó a sus fans al cambiar su foto de perfil en sus diferentes redes sociales y ahora, la agrupación británica dio a conocer que el próximo 7 de mayo lanzarán su sencillo "Higher Power", producido por el compositor sueco Max Martin. 

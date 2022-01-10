@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Joe, Nick y Kevin regresan a México después de que en el 2019 visitaran el país tras varios años de su separación. "
 image: "/uploads/2021/images-los-hermanos-se-presentaran-en_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jonas Brothers anuncian fechas en CdMx y Monterrey; regresan con gira 'Remember this tour'"
 front: false
 section: "Espectáculos"
-news_id: 190875
+redirect_from: /news/190875
 ---
 
 Los Jonas Brothers revelaron una noticia que sin duda pone muy feliz a sus fans ya que los hermanos Nick Joe y Kevin regresarán a México en 2022 con su gira Remember this tour, con la cual ya han ofrecido algunos shows en diferentes ciudades de Estados Unidos. Los hermanos que han causado gran revuelo desde su regreso a la música después de varios años separados y que Nick y Joe comenzaran proyectos por separado, han anunciado dos conciertos, uno en CdMx y otro en Monterrey. 

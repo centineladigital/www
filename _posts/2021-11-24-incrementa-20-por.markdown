@@ -10,11 +10,11 @@ author: nil
 description: "Llega a 51 por ciento ocupación hospitalaria en el estado."
 image: "/uploads/2021/images-FERNANDO.jpg"
 video: "/uploads/2021/videos-MW03_FERNANDO_SANDOVAL.mp4"
-audio: "nil"
+audio: nil
 alt: "Incrementa 20 por ciento ocupación hospitalaria"
 front: false
 section: "Local"
-news_id: 190158
+redirect_from: /news/190158
 ---
 
 Un incremento de ocupación hospitalaria es lo que ha reflejado la conducta de los nosocomios dentro de la contingencia creada por el COVID, según fue dado a conocer por parte del titular de la Secretaría de Salud, Felipe Fernando Sandoval Magallanes.

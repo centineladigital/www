@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Disney hará el live action de Blancanieves y quien dará vida a la princesa es Rachel Zegler, sin embargo, esta noticia desató polémica en redes."
 image: "/uploads/2021/images-contamos-actriz-dara-vida-princesa_55_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rachel Zegler será 'Blancanieves' en live action de Disney; genera críticas"
 front: false
 section: "Espectáculos"
-news_id: 185186
+redirect_from: /news/185186
 ---
 
 Disney sigue apostando por hacer los live action de las películas de las princesas, las primeras en proyectarse en la pantalla grande fueron las de Cenicienta y La Bella y la Bestia, pero ahora, se ha anunciado que muy pronto se realizará la nueva adaptación de Blancanieves, la cual será protagonizada por la actriz Rachel Zegler. 

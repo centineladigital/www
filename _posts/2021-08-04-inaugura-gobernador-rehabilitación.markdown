@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se logra tratamiento del 100 por ciento de las aguas residuales en la capital del estado; alcanzan obras de infraestructura hidráulica y saneamiento, una inversión sin precedentes de 4 mil 695 millones de pesos en todo el estado   "
 image: "/uploads/2021/images-DSC_2609.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura Gobernador rehabilitación de Planta de Tratamiento de Aguas Residuales Norte en Chihuahua   "
 front: false
 section: "Local"
-news_id: 186305
+redirect_from: /news/186305
 ---
 
 El Maratón de Obras continuó en la ciudad de Chihuahua, donde el gobernador Javier Corral inauguró la rehabilitación y modernización de la Planta de Tratamiento de Aguas Residuales Norte, con inversión público-privada por 180 millones de pesos.

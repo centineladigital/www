@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El actor nacido en Argentina y naturalizado mexicano cumplió 46 años este martes; así lo felicitó su pareja a través de Instagram. "
 image: "/uploads/2021/images-el-actor-cumplio-anos-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Quiero verte cumplir todos tus sueños -  Angelique Boyer manda emotivo mensaje a Sebastián Rulli por su cumpleaños"
 front: false
 section: "Espectáculos"
-news_id: 185405
+redirect_from: /news/185405
 ---
 
 El romance entre Sebastián Rulli y Angelique Boyer es uno de los más solidos en el panorama del espectáculo nacional, pues además de que no se ha visto afectado por algún escandalo, ambas celebridades constantemente se dedican publicaciones de cariño en sus respectivas redes sociales, por ejemplo: la que hoy compartió la actriz en su Instagram con motivo del cumpleaños 46 del protagonista de la serie El Dragón. 

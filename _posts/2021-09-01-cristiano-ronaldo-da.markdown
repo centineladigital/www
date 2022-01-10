@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El futbolista portugués manifestó que está feliz de volver a casa después de 12 años"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cristiano Ronaldo da sus primeras palabras como jugador del Manchester United"
 front: false
 section: "Deportes"
-news_id: 187318
+redirect_from: /news/187318
 ---
 
 El futbolista portugués Cristiano Ronaldo, cinco veces ganador del Balón de Oro y confirmado como nuevo jugador del Manchester United, expresó en una entrevista publicada este miércoles por el club inglés en su portal web que está "feliz de volver a casa después de 12 años" y que tiene "muchas ganas" de empezar a jugar con los 'Diablos Rojos'.

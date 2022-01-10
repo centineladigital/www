@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz lució un elegante y atrevido vestido que abrazó a la perfección su cuerpo; sus 'outfits' sorprendieron a sus seguidores en redes sociales. "
 image: "/uploads/2021/images-camila-sodi-incendia-redes-glamurosos_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me transformo -  Camila Sodi 'incendia' las redes con glamurosos 'looks'"
 front: false
 section: "Espectáculos"
-news_id: 187287
+redirect_from: /news/187287
 ---
 
 Camila Sodi inició su carrera en el modelaje desde su niñez, y desde entonces se ha ganado la admiración del público por su belleza, así como por sus papeles en la pantalla chica y grande; sin embargo, la actriz también ha protagonizado polémicos encuentros con la prensa, como su fallida entrevista con Linet Puente -de Ventaneando- que expuso su "mala actitud". 

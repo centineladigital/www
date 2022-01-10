@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "López Obrador informa que es una forma de solidarizarse con esa nación que reportó el sábado 349,691 contagios por Covid-19; en México ya se resuelve que no falten dosis, dice"
 image: "/uploads/2021/images-2568472.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En solidaridad con India, México rechaza envío de vacunas"
 front: false
 section: "Internacional"
-news_id: 184096
+redirect_from: /news/184096
 ---
 
 Ante la crisis que vive India a causa del Covid-19 con un promedio diario de más de 300 mil contagios y más de 2 mil decesos, el presidente Andrés Manuel López Obrador informó que México se solidarizó al no aceptar un envío de vacunas acordado con el objetivo de que sean usadas en esa nación.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Celebridades de todo el mundo continúan luchando para apoyar a las personas que, al igual que ellos, sufren algún trastorno de la conducta alimentaria. "
 image: "/uploads/2021/images-famosos-que-han-sufrido-de.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "De Elton John a Demi Lovato... Famosos que vencieron algún trastorno alimenticio"
 front: false
 section: "Espectáculos"
-news_id: 190383
+redirect_from: /news/190383
 ---
 
 El Día Internacional de la lucha contra los Trastornos de la Conducta Alimentaria (TCA), el cual se conmemora cada año el 30 de noviembre, busca visibilizar enfermedades como la anorexia, la bulimia y los llamados trastornos por atracón y restricción de la ingesta, estas afecciones no sólo conllevan problemas de salud físicos, también cognitivos y psicológicos. Son enfermedades psiquiátricas, que generan repercusiones en la calidad de vida de quien los padece llevando a las personas hasta la muerte.  A lo largo de sus carreras, varias celebridades han vivido con desórdenes alimenticios, mismos que han logrado vencer sometiéndose a tratamientos médicos y psicológicos. Sus historias son sinónimo de lucha, y es por ello que impulsan programas, campañas e iniciativas que apoyen a todas las personas que viven con TCA.

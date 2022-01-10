@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A sus 24 años ha logrado realizar uno de sus más grandes sueños de la infancia, ser conductor del mundo de la farándula. "
 image: "/uploads/2021/images-pequeno-conductor-visualizo-hablando-television.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me gusta mucho cantar pero no tengo la voz, Alejandro Olmos, un apasionado de los espectáculos y la música"
 front: false
 section: "Espectáculos"
-news_id: 189246
+redirect_from: /news/189246
 ---
 
 Un joven carismático, amigable, dedicado y sencillo, así es Francisco Alejandro Olmos González, quien con 24 años de edad, asegura que pasa uno de los momentos más felices de su vida al ver realizado uno de sus máximos sueños que siempre tuvo de niño, ser conductor de espectáculos, así lo dio a conocer.

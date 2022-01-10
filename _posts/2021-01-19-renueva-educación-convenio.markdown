@@ -13,12 +13,12 @@ tags:
 author: nil
 description: " Con el apoyo de  la XETAR, se dará atención educativa a más de 20 mil alumnos y alumnas de diversas comunidades serranas, a través del programa Radio Educación, Aprende en Casas III"
 image: "/uploads/2021/images-Educación_Indígena.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Renueva Educación convenio para transmitir clases por radio a estudiantes indígenas de la sierra"
 front: false
 section: "Local"
-news_id: 182262
+redirect_from: /news/182262
 ---
 
 Con el fin de continuar con la atención educativa a niñas y niños indígenas del estado, ante la actual contingencia por el COVID-19, fue firmado un nuevo convenio de colaboración para seguir impartiendo clases por radio a dichos estudiantes.

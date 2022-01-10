@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Personajes LGBT+ y escenas de sexo se llevan a la pantalla del Universo Cinematográfico Marvel por primera vez."
 image: "/uploads/2021/images-la-actriz-mexicana-es-una.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es asombrosa -  Chloé Zhao revela cómo fue trabajar con Salma Hayek en 'Eternals'"
 front: false
 section: "Espectáculos"
-news_id: 189535
+redirect_from: /news/189535
 ---
 
 Los Eternos o Eternals no solo es uno de los proyectos más ambiciosos y arriesgados de Marvel Studios, sino que marca una tendencia hacia la innovación con personajes totalmente distintos a lo que hemos vistos antes, además de ser dirigida por Chloé Zhao, la primera mujer ganadora del Oscar a Mejor dirección que se integra al Universo Cinematográfico Marvel (MCU). La cinta proyecta a los Eternos, una poderosa raza de seres cósmicos que han vivido en el planeta tierra durante miles de años, aunque la mayoría mantiene una apariencia humana por la biología avanzada que manejan, además de que sus vidas son bastante largas sin que envejezcan, lo que los diferencia también de los mortales. 

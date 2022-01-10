@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Este 7 de octubre a las 17:00 horas en el Club de Leones"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno Municipal a primer “Jueves Entre Vecinos”"
 front: false
 section: "Local"
-news_id: 188347
+redirect_from: /news/188347
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, invita a todas las mesas directivas de los comités vecinales de las colonias de la ciudad a participar en el primer “Jueves Entre Vecinos”.

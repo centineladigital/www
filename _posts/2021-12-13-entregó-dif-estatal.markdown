@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El objetivo es llegar al mayor número de niños, niñas y adolescentes, posible, para que no sufran frío en la presente temporada invernal."
 image: "/uploads/2021/images-unnamed_(14).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregó DIF Estatal 12 mil chamarras y 206 toneladas de paquetes alimentarios en dos semanas de la campaña ¡Juntos sin frío!"
 front: false
 section: "Local"
-news_id: 190787
+redirect_from: /news/190787
 ---
 
 Diversas brigadas del DIF Estatal dan continuidad a los trabajos de manera simultánea en comunidades de la Sierra Tarahumara, con la entrega de chamarras que se lograron recabar gracias a la solidaridad de los chihuahuenses que se unieron a la campaña ¡Juntos sin frío!

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Dentro del marco del Día Internacional del Libro."
 image: "/uploads/2021/images-C3.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM06_CRISTINA_ESCALERA.mp3"
 alt: "Invitan a “Degustación literaria” "
 front: false
 section: "Local"
-news_id: 184001
+redirect_from: /news/184001
 ---
 
 Con el nombre de “Degustación literaria” del 19 al 30 de abril se llevarán a cabo una serie de actividades, tanto virtuales, en las redes sociales de la Secretaría de Cultura; como presenciales, en la Biblioteca Carlos Montemayor con el fin de fomentar la lectura, según lo dio a conocer la vocera de esta dependencia Cristina Escalera.

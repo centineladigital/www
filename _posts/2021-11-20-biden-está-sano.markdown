@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La vicepresidenta de Estados Unidos, Kamala Harris, fue la mandataria del país por una hora y 25 minutos mientras que el presidente era sometido a una colonoscopía. "
 image: "/uploads/2021/images-joe-biden-presidente-de-estados-26_0_0_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden está sano y apto para retomar sus funciones de presidente, afirma su médico"
 front: false
 section: "Internacional"
-news_id: 190038
+redirect_from: /news/190038
 ---
 
 El presidente estadunidense, Joe Biden, está "sano", "fuerte" y es "apto" para cumplir con su función de presidente de Estados Unidos, afirmó este viernes su médico después de que se sometiera a un chequeo de salud.  El presidente, que el sábado cumple 79 años, toma tres medicamentos prescritos y dos sin receta, añade. 

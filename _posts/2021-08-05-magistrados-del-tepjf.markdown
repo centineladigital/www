@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente dijo que los magistrados ganan hasta tres veces más que él y acusó que su conducta es inmoral"
 image: "/uploads/2021/images-amlo-quelos-magistrados-tepjf-deberian.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Magistrados del TEPJF están colmados de privilegios; deberían renunciar todos -  AMLO"
 front: false
 section: "Nacional"
-news_id: 186310
+redirect_from: /news/186310
 ---
 
 El presidente Andrés Manuel López Obrador dijo que todos los magistrados del Tribunal Electoral del Poder Judicial de la Federación (TEPJF) "están colmados de privilegios" y ganan hasta tres veces más que él, por lo que consideró que todos deberían de renunciar. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Martha Higareda reveló la forma en la que Aislinn Derbez duerme; esto luego de que pasaran juntas el Día del Amor y la Amistad. ¿Ronca? "
 image: "/uploads/2021/images-martha-higareda-expone-aislinn-derbez.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Era Tutankamón -  Martha Higareda expone a Aislinn Derbez; revela cómo duerme"
 front: false
 section: "Espectáculos"
-news_id: 182953
+redirect_from: /news/182953
 ---
 
 Martha Higareda y Aislinn Derbez han presumido en los últimos días que llevan una buena amistad. Incluso, el pasado fin de semana la pasaron juntas para celebrar el Día del Amor y la Amistad en una pool party en donde sacaron a relucir algunos aspectos personales. La protagonista de Amarte Duele aseguró que la hija de Eugenio Derbez tiene un gran defecto al dormir. ¿Ronca? ¿Duerme en una posición graciosa? De acuerdo con la famosa, su amiga parece Tutankamón -faraón del Antiguo Egipto- al dormir. 

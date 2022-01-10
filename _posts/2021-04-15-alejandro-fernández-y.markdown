@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los artistas se realizaron la prueba para detectar el covid-19 durante los ensayos previos a la entrega de premios, en los que participarían este jueves. "
 image: "/uploads/2021/images-alejandro-fernandez-anitta-positivo-latin_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Alejandro Fernández y Anitta dieron positivo a covid-19 en los Latin AMAs?"
 front: false
 section: "Espectáculos"
-news_id: 183910
+redirect_from: /news/183910
 ---
 
 El cantante mexicano Alejandro Fernández y la brasileña Anitta dieron positivo a pruebas de detección del covid-19 a horas de que se celebre la gala de entrega de los Latin American Music Awards (Latin AMAs), premios que conducirá Jacqueline Bracamontes, informaron este miércoles a Efe fuentes cercanas a los artistas. Alejandro Fernández, de 49 años, es uno de los invitados de honor en los premios, en los que inicialmente estaba previsto que recibiese el galardón "Ícono" en esta fiesta de la música latinoamericana a celebrar en la ciudad estadounidense de Sunrise (Florida). 

@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "En reunión privada solicitaron “homologar criterios” para seguir caminando juntos y no poner en riesgo la viabilidad de la alianza Va Por México tanto en el Congreso de la Unión como en los procesos electorales de 2022"
 image: "/uploads/2021/images-bancada-pri-2021-2024.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "PAN y PRD reprochan al PRI por no oponerse a la reforma eléctrica"
 front: false
 section: "Nacional"
-news_id: 188369
+redirect_from: /news/188369
 ---
 
 Las dirigencias nacionales del PAN y del PRD manifestaron al PRI su preocupación por no haber cerrado filas en contra de la reforma eléctrica del presidente Andrés Manuel López Obrador.

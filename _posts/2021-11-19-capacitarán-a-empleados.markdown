@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente Municipal encabezó la firma de convenio con el ASE e ICATECH para las capacitaciones certificadas"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacitarán a empleados municipales en materia de responsabilidad administrativa"
 front: false
 section: "Local"
-news_id: 190031
+redirect_from: /news/190031
 ---
 
 El Alcalde de Chihuahua, Marco Bonilla Mendoza, encabezó la firma de convenio con el Auditor Superior del Estado (ASE), Héctor Alberto Acosta Félix y el titular del Instituto de Capacitación para el Trabajo del Estado de Chihuahua (ICATECH), José Arturo Morales Reyes, materia de responsabilidad administrativa a los empleados que conforman el Órgano Interno de Control (OIC).

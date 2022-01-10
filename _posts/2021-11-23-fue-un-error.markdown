@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor inglés resaltó la importancia y necesidad de que dichos papeles sean dados a personas trans. "
 image: "/uploads/2021/images-la-chica-danesa-instagram_97_0_1006_626.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fue un error -  Eddie Redmayne dice arrepentirse de interpretar a una persona trans en 'La chica danesa'"
 front: false
 section: "Espectáculos"
-news_id: 190125
+redirect_from: /news/190125
 ---
 
 La chica danesa es la exitosa película del director Tom Hooper que en el año 2015 le valió una nominación al Oscar como Mejor actor a Eddie Redmayne; sin embargo, el popular actor inglés reveló que se encuentra arrepentido de haber interpretado a la pintora Lili Elbe, una mujer trans, y aquí te decimos por qué. Y es que un acalorado debate se ha abierto en los últimos años luego de que personajes trans en cine y televisión fueran interpretados por actores y actrices cisgénero, pues muchos consideran que estos deberían ser intepretados por personas trans, con lo que Redmayne está de acuerdo. 

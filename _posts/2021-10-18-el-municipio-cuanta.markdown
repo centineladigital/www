@@ -14,11 +14,11 @@ author: nil
 description: "Todas las cámaras funcionan al 100%"
 image: "/uploads/2021/images-b0e6f47f-144c-4dce-a7d8-250f19851511-1024x576.jpg"
 video: "/uploads/2021/videos-BL01_JULIO_SALAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "“El municipio cuanta con más de mil cámaras de vigilancia “Julio Salas "
 front: false
 section: "Local"
-news_id: 188873
+redirect_from: /news/188873
 ---
 
 El director de Seguridad Pública Municipal Julio Salas, aseguró que el municipio cuenta con más de mil cámaras de vigilancia internas de la Dirección de Seguridad Pública, el director invitó a que las organizaciones y comercios se anclen a la red de vigilancia que tiene la policía municipal.

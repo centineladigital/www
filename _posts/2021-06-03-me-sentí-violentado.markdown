@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La sexualidad es una cosa complicada, no es blanco y negro, está llena de colores, aseguró el cantante en una entrevista para 'People'. "
 image: "/uploads/2021/images-ricky-martin-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me sentí violentado -  Ricky Martin recuerda la primera entrevista donde cuestionaron su sexualidad"
 front: false
 section: "Espectáculos"
-news_id: 184818
+redirect_from: /news/184818
 ---
 
 En un artículo que publicó este miércoles la revista People con motivo del mes del orgullo LGBTQ+, Ricky Martin reveló que actualmente se siente más libre y sin secretos, aunque aún recuerda la incomoda charla que tuvo con la reconocida periodista estadunidense Barbara Walters en el 2000, cuando ella lo cuestionó sobre su sexualidad. Además, en la entrevista, el artista puertorriqueño habló sobre cómo se siente este año y cómo ha evolucionado a través del tiempo, desde antes de confesar al mundo su homosexualidad hasta una actualidad en la que está casado con Jwan Yosef y tiene cuatro hijos. 

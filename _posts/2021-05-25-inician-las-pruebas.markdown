@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Debido a estos trabajos está cerrada la circulación de la Avenida Tláhuac desde La Turba hasta la calle Cocodrilo en dirección oriente"
 image: "/uploads/2021/images-2584094.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inician las pruebas de acoplamiento de Metrobús"
 front: false
 section: "Nacional"
-news_id: 184636
+redirect_from: /news/184636
 ---
 
 En la víspera del inicio de las pruebas con pasajeros, este martes se realizan pruebas de acoplamiento de los autobuses articulados del Metrobús en las plataformas provisionales instaladas en Tezonco y Nopalera.

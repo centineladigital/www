@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Secretario de Hacienda, acudió  la Fiscalía General del Estado para presentar la denuncia correspondiente contra quien resulte responsable."
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-27_at_12.07.16.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Gobierno del Estado por perfil falso en Facebook que se hace pasar por Secretario de Hacienda"
 front: false
 section: "Local"
-news_id: 188092
+redirect_from: /news/188092
 ---
 
 El Gobierno del Estado, alerta a la ciudadanía en general, así como a los miembros de los Ayuntamientos del Estado a no dejarse engañar por un perfil falso en la red social Facebook que se hace pasar por el Secretario de Hacienda, José de Jesús Granillo.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente dijo que sus opositores no han promovido la consulta porque no desean que se reafirme su mandato. "
 image: "/uploads/2021/images-presidente-opositores-desean-lleve-cabo_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " “Me voy aunque no se llegue al 40%”, dice AMLO sobre revocación de mandato La Mañanera"
 front: false
 section: "Nacional"
-news_id: 188756
+redirect_from: /news/188756
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que, aunque la consulta de revocación de mandato no supere el 40 por ciento de participación necesaria para que sea vinculatoria, si el pueblo vota para que deje su mandato, “me voy”. 

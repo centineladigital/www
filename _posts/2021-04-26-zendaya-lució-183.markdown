@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz de 'Euphoria' portó un impresionante collar de diamantes de Bulgari, además de un lujoso brazalete, pendientes y varios anillos. "
 image: "/uploads/2021/images-zendaya-lucio-lujosas-joyas-diamantes.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Zendaya lució 183 quilates de diamantes valorados en 6 mdd en Premios Oscar 2021"
 front: false
 section: "Espectáculos"
-news_id: 184101
+redirect_from: /news/184101
 ---
 
 Zendaya lució un increíble look en su paso por la alfombra roja de la 93 entrega de los Premios Oscar. La actriz estadunidense se llevó la noche de esperada gala no sólo por su larga cabellera y sensual vestido amarillo, sino también por las increíbles joyas que portó y están valoradas en seis millones de dólares.  A pesar del reducido número de asistentes a la gala de los premios de la Academia de Cine de Hollywood, los Oscar no decepcionan y la alfombra roja siempre está para soñar y brillar. Y eso han pensado las pocas protagonistas, incluida Zendaya, que han desfilado por el vestíbulo de la histórica Union Station de Los Ángeles, una de las sedes de la gala.

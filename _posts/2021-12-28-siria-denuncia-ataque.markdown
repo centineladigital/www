@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La prensa estatal de Siria denunció este martes que Israel lanzó un ataque aéreo contra el puerto sirio de Latakia, el segundo de este mes en ese sitio clave. "
 image: "/uploads/2021/images-el-ataque-se-realizo-durante_1_0_926_576.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Siria denuncia ataque aéreo de Israel contra puerto de Latakia"
 front: false
 section: "Internacional"
-news_id: 191262
+redirect_from: /news/191262
 ---
 
 Misiles israelíes disparados desde el Mediterráneo cayeron en el puerto sirio de Latakia el martes en la madrugada, desatando un incendio en la terminal de contenedores, reportaron medios estatales sirios, el segundo ataque de este tipo en esas instalaciones cruciales este mes. 

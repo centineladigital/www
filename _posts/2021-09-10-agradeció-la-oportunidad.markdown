@@ -14,11 +14,11 @@ author: nil
 description: "Como secretaria seguirá trabajando en pro de los chihuahuenses "
 image: "/uploads/2021/images-manque.jpg"
 video: "/uploads/2021/videos-BV01_MANQUE_GRANADOS.mp4"
-audio: "nil"
+audio: nil
 alt: "Agradeció la oportunidad de ser secretaria de innovación y desarrollo económico "
 front: false
 section: "Local"
-news_id: 187621
+redirect_from: /news/187621
 ---
 
 La ex alcaldesa Manque Granados agradeció a Maru Campos la oportunidad de pertenecer a la Secretaría de Innovación y Desarrollo Económico del estado de Chihuahua como  la nueva secretaria, la ahora ex alcaldesa del estado de Chihuahua declaró que aún no tiene hora ni fecha para tomar protesta como secretaria de innovación y desarrollo económico.

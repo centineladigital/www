@@ -8,11 +8,11 @@ author: nil
 description: "Lamentó situación, sin embargo, no descartó que pudiera ser cierta esta versión."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-ML02_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Desconoce Gobernadora caso de “Casa de la tortura”"
 front: false
 section: "Local"
-news_id: 188599
+redirect_from: /news/188599
 ---
 
 La Gobernadora de Chihuahua, María Eugenia Campos Galván, dijo desconocer la situación que se vivió en torno a la “Casa de la Tortura”, esto luego de que a nivel nacional se diera a conocer que la Casa de Gobierno del Estado de Chihuahua, ubicada en la avenida Zarco, era para ese fin.

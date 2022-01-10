@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Miopía, hipermetropía, astigmatismo y presbicia, son los problemas más comunes de la visión"
 image: "/uploads/2021/images-Foto_4161.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recomienda IMSS Chihuahua revisión periódica de la vista "
 front: false
 section: "Local"
-news_id: 187191
+redirect_from: /news/187191
 ---
 
 En el marco del regreso a clases, ya sea virtual o presencial, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua exhorta a los estudiantes a realizarse un estudio periódico de la vista. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los precios en el crudo se han visto beneficiados por la crisis mundial en el suministro de carbón y gas natural, lo que ha incrementado la demanda. "
 image: "/uploads/2021/images-consumo-petroleo-alcanzara-pico-maximo_0_26_978_608.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Petróleo recae ligeramente; se mantiene cerca de precios máximos ante escasez de oferta"
 front: false
 section: "Internacional"
-news_id: 189190
+redirect_from: /news/189190
 ---
 
 El petróleo comenzó el día decayendo levemente, pero aun se mantiene cercano a su máximo en varios años, empujado por la crisis mundial en los suministros y una fuerte demanda en Estados Unidos, el mayor consumidor mundial. 

@@ -10,11 +10,11 @@ author: nil
 description: "Buscan sumar esfuerzos con la actual administración."
 image: "/uploads/2021/images-CABALLO.jpg"
 video: "/uploads/2021/videos-MV04_ALFREDO_LOZOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Busca MC trabajar coordinadamente con Estado"
 front: false
 section: "Local"
-news_id: 189812
+redirect_from: /news/189812
 ---
 
 El delegado de MC a nivel nacional y excandidato a gobernador Alfredo Lozoya Santillán, acompañado del Diputado Francisco Sánchez se reunieron con el Secretario General de Gobierno con el fin de lograr coordinar acciones dentro del Estado, según fue señalado por el excandidato.

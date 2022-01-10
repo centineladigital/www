@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de Instagram en donde Salma Hayek rompió récord con su primera foto del 2021. La actriz mexicana demostró que es consciente de su belleza. "
 image: "/uploads/2021/images-salma-hayek-impacta-redes-sociales.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Salma Hayek 'incendia' las redes con su primera publicación del año 2021"
 front: false
 section: "Espectáculos"
-news_id: 181845
+redirect_from: /news/181845
 ---
 
 Salma Hayek, actriz y productora mexicana, 'incendió' las redes sociales al compartir su primera foto del año 2021. La famosa apareció presumiendo su figura atlética -en bikini- a sus 54 años. Demostrando con ello que su vida fitness y la buena alimentación tiene resultados. La imagen arrasó, a pocas horas de que la publicara, con likes y comentarios positivos.  Fue a través de Instagram en donde Salma Hayek lució su espectacular figura en un traje de baño de dos piezas con una hermosa cadena de oro. La parte superior del bikini resaltó por su estilo halter. Mientras que en la parte inferior dos tiras anchas del mismo material resaltaron su cadera. 

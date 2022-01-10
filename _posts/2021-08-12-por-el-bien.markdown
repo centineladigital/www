@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La secretaria de Educación Pública, Delfina Gómez, retomó el lema electoral del presidente López Obrador para defender el regreso a clases presenciales, el próximo lunes 30 de agosto"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Por el bien de los pequeños” -  SEP presenta plan de 10 puntos para el regreso a clases presenciales"
 front: false
 section: "Local"
-news_id: 186596
+redirect_from: /news/186596
 ---
 
 Al manifestar que “Por el bien de todos, los pequeños” -retomando el lema electoral del presidente Andrés Manuel López Obrador-  Delfina Gómez, titular de Educación Pública (SEP), manifestó que es prioritario que los menores regresen a clases el próximo 30 de agosto por lo que dio a conocer un plan de 10 puntos para un retorno seguro a las aulas.

@@ -10,11 +10,11 @@ author: nil
 description: "Se manifiestan frente a Palacio de Gobierno."
 image: "/uploads/2021/images-MANIFESTACION.jpg"
 video: "/uploads/2021/videos-MJ04_ROSALIO.mp4"
-audio: "nil"
+audio: nil
 alt: "Exigen docentes jubilados bono"
 front: false
 section: "Local"
-news_id: 189972
+redirect_from: /news/189972
 ---
 
 Maestros jubilados se manifestaron este jueves exigiendo el pago de un bonos y prestaciones, así como transparencia sindical y erradicación de la corrupción en la Sección 8 del SNTE. Con pancartas y sonido, tomaron la Plaza de Armas para posteriormente colocarse frente a la puerta de Palacio de Gobierno.

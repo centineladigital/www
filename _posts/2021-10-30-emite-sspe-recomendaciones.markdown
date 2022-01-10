@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El programa de descuentos se llevará a cabo del 10 al 16 de noviembre"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite SSPE recomendaciones para hacer compras seguras durante el “Buen Fin”"
 front: false
 section: "Local"
-news_id: 189418
+redirect_from: /news/189418
 ---
 
 La Secretaría de Seguridad Pública del Estado (SSPE) a través de la Policía Cibernética, emitió una serie de recomendaciones a la población, para realizar compras seguras y evitar ser víctima de estafas o fraudes durante el “Buen Fin”.

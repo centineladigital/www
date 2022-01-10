@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La caseta cuenta con tecnología que ayudará en la observación y vigilancia del sector vecinal, acercando de esta manera la atención prioritaria en materia de seguridad a esta zona."
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Habilita DIF Municipal caseta de vigilancia; brindará apoyo a vecinos del sector   "
 front: false
 section: "Local"
-news_id: 187825
+redirect_from: /news/187825
 ---
 
 El Gobierno Municipal, a través del DIF, habilitó una caseta de vigilancia en sus instalaciones, la cual será custodiada por elementos de la Dirección de Seguridad Pública Municipal (DSPM) las 24 horas y que además brindará apoyo a los vecinos del sector y a usuarios.

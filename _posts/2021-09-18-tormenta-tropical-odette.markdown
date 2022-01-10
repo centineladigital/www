@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Odette, la décimoquinta tormenta tropical del año en la cuenca atlántica, presenta vientos máximos sostenidos de 65 kilómetros por hora; la tormenta aplicará el sábado un giro hacia el este-noreste y mantendrá esa trayectoria hasta el lunes "
 image: "/uploads/2021/images-formo-tormenta-tropical-odette-tomada_0_104_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tormenta tropical 'Odette' se forma frente a costa atlántica de EU"
 front: false
 section: "Internacional"
-news_id: 187849
+redirect_from: /news/187849
 ---
 
 La tormenta tropical Odette se formó la tarde de este viernes frente a la costa atlántica central de Estados Unidos, aunque no supone riesgo ni se han emitido alertas para zonas pobladas, informó el Centro Nacional de Huracanes (NHC). Odette, la décimoquinta tormenta tropical del año en la cuenca atlántica, presenta vientos máximos sostenidos de 65 kilómetros por hora, aunque, de acuerdo con el centro meteorológico, se prevé "un fortalecimiento durante los próximos días". 

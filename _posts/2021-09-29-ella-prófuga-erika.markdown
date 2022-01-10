@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de redes sociales en donde trascendió el duro comentario que lanzó Erika Buenfil en contra de Inés Gómez Mont por una pelea del pasado. "
 image: "/uploads/2021/images-erika-buenfil-lanza-ines-gomez.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ella prófuga -  Erika Buenfil arremete contra Inés Gómez Mont por haber hablado de su hijo"
 front: false
 section: "Espectáculos"
-news_id: 188181
+redirect_from: /news/188181
 ---
 
 Erika Buenfil, actriz reconocida y denominada como ‘La Reina del TikTok’, arremetió contra Inés Gómez Mont, quien actualmente se encuentra prófuga de la justicia tras acusaciones en su contra por desvío de dinero y otros delitos. ¿Por qué la famosa tiktoker la criticó? Resulta que Erika Buenfil explotó en contra de Inés Gómez Mont por la vez que la famosa reveló quién era el padre de su hijo. ¿Qué dijo en su contra? Te contamos lo que sucedió en este caso.

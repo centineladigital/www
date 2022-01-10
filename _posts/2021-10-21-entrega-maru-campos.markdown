@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La ceremonia se celebró en el Patio Central de Palacio de Gobierno, donde la Gobernadora recibió el distintivo Socio Paul Harris en reconocimiento a su trayectoria y por el apoyo que brinda a la comunidad"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Maru Campos el Reconocimiento al Mérito Rotario"
 front: false
 section: "Local"
-news_id: 189004
+redirect_from: /news/189004
 ---
 
 La Gobernadora Maru Campos Galván, encabezó la edición XXIV de la ceremonia de entrega del Reconocimiento Rotario al Mérito, que se celebró en el Patio Central de Palacio de Gobierno con la presencia de personalidades de los ámbitos social, político y empresarial.

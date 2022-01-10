@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Scarlett Johansson dice adiós al Universo Cinematográfico de Marvel 11 años después de presentarse como Natasha Romanoff en Iron Man 2. "
 image: "/uploads/2021/images-black-widow-vera-estreno-semana.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Black Widow', un viaje emocional al pasado de la superheroína de Los Vengadores"
 front: false
 section: "Espectáculos"
-news_id: 185366
+redirect_from: /news/185366
 ---
 
 Han pasado más de dos años desde que Avengers: Endgame se convirtió en la película más exitosa en la historia del cine, y a pesar de los retos que representa un lanzamiento en medio de la pandemia, ya es tiempo de que el Universo Cinematográfico de Marvel (MCU) retorne a las salas con una nueva propuesta que dará paso a la Fase 4: Black Widow. A pesar de que Scarlett Johansson anunció su despedida de la franquicia, la expectativa por el estreno de su película es elevada, pues, por años, los fans esperaron este momento para conocer su pasado.

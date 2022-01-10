@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El 10 de noviembre elección del Deportista y Entrenador del Año"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Son 25 los candidatos al Premio Estatal del Deporte 2021"
 front: false
 section: "Local"
-news_id: 189445
+redirect_from: /news/189445
 ---
 
 Quedó definida la terna de candidatos al Premio Estatal del Deporte 2021, de los cuales, 16 son deportistas y 9 entrenadores (as), que se elegirán el miércoles 10 de noviembre a las 10:00 horas, en el salón Gobernadores de Palacio de Gobierno.

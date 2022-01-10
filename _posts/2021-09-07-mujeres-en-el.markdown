@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las actrices asistieron a un evento que realizó el productor de cine Mohammed Al-Turki, quien es presidente del Festival Internacional de Cine del Mar Rojo. "
 image: "/uploads/2021/images-eiza-gonzalez-demi-moore-kate.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mujeres en el cine -  Eiza González comparte fotografía junto a Demi Moore y Kate Hudson"
 front: false
 section: "Espectáculos"
-news_id: 187500
+redirect_from: /news/187500
 ---
 
 La actriz mexicana Eiza González sigue sumando triunfos a su carpeta en el mundo de Hollywood: su último logro fue una aparición sorpresa en el Festival de Cine de Venecia 2021. 

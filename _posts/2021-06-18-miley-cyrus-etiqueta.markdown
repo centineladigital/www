@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Miley Cyrus celebró el 13 aniversario de su canción 7 things y confirmó que el tema lo escribió tras su ruptura con Nick Jonas con una foto de ambos. "
 image: "/uploads/2021/images-los-famosos-mantuvieron-un-romance_54_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Miley Cyrus etiqueta a Nick Jonas en foto; confirma que escribió '7 things' para él tras ruptura"
 front: false
 section: "Espectáculos"
-news_id: 185120
+redirect_from: /news/185120
 ---
 
 A mediados de la década de los 2000 muchos cantantes se dieron a conocer gracias a que participaron en programas de Disney Channel, este fue el caso de Miley Cyrus quien saltó a la fama gracias a Hannah Montana y tiempo después comenzó su carrera como solista. En los primeros años sacó la canción “7 things”, la que por muchos años fans aseguraron fue escrita para Nick Jonas, quien fue novio de la actriz.

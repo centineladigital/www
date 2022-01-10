@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se espera que la versión beta de la plataforma para invitados sea lanzada el mes próximo, luego de que Twitter tumbara su página oficial tras el asalto al capitolio. "
 image: "/uploads/2021/images-presidente-unidos-donald-trump-momentos_1_23_1022_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trump anuncia lanzamiento de nueva red social llamada 'Truth Social'"
 front: false
 section: "Internacional"
-news_id: 189010
+redirect_from: /news/189010
 ---
 
 El expresidente de Estados Unidos, Donald Trump anunció el miércoles sus planes para lanzar su propia red social llamada "TRUTH Social" (VERDAD Social), que se espera en versión beta para "invitados" el mes próximo. 

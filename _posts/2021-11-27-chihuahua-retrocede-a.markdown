@@ -8,11 +8,11 @@ author: nil
 description: "A partir de este lunes 29 de noviembre al 12 de diciembre "
 image: "/uploads/2021/images-Sin_título.png"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-11-27_at_09.21.12.mp4"
-audio: "nil"
+audio: nil
 alt: "Chihuahua retrocede a semáforo amarillo ante contagios de COVID-19 "
 front: false
 section: "Local"
-news_id: 190263
+redirect_from: /news/190263
 ---
 
 Del lunes 29 de noviembre al domingo 12 de diciembre de 2021, el semáforo epidemiológico por coronavirus (COVID-19) tendrá cinco estados de México en color amarillo, y 27 en verde, según la reciente actualización de la Secretaría de Salud (Ssa) federal.

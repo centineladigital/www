@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Perdió la supremacía de la Concacaf, ahora está en manos de los Estados Unidos"
 image: "/uploads/2021/images-mexico_la_peor_seleccion_noviembre.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México fue la peor selección de noviembre, sale del Top 10 del ranking de FIFA"
 front: false
 section: "Deportes"
-news_id: 189984
+redirect_from: /news/189984
 ---
 
 El mal momento que vive la Selección Mexicana ya se reflejó en el ranking de la FIFA, siendo la peor selección de noviembre.

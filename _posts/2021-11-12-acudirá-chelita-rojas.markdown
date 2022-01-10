@@ -14,11 +14,11 @@ author: nil
 description: "A la exposición acudirán Louis Vuitton y Carolina Herrera diseñadores de talla internacional quienes han mostrado interés en conocer los textiles que destacan a las diversas regiones de nuestro país."
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-12_at_12.45.14.jpeg"
 video: "/uploads/2021/videos-BV02_CECILIA_TORRES_.mp4"
-audio: "nil"
+audio: nil
 alt: "Acudirá Chelita Rojas a exposición de textiles"
 front: false
 section: "Local"
-news_id: 189817
+redirect_from: /news/189817
 ---
 
 Chelita Rojas Carrillo en su calidad de representante de los pueblos indígenas participará junto con integrantes de la agrupación “Kusá” en la Exposición “Original” que organiza la Secretaría de Cultura, a celebrarse del 18 al 21 de noviembre en el Centro Cultural “Los Pinos” de la ciudad de México.

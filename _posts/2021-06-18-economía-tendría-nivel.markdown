@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente dijo que espera que en el tercer trimestre del año la economía del país recupere el nivel que tenía antes del estallido de la pandemia del coronavirus"
 image: "/uploads/2021/images-2597264.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Economía tendría nivel previo a pandemia en 3er trimestre -  López Obrador"
 front: false
 section: "Local"
-news_id: 185099
+redirect_from: /news/185099
 ---
 
 El presidente de México, Andrés Manuel López Obrador, dijo en su conferencia de prensa mañanera de este viernes que espera que en el tercer trimestre del año la economía del país recupere el nivel que tenía antes del estallido de la pandemia del coronavirus.

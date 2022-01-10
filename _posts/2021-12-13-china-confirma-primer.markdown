@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Según medios estatales, se trata de una persona asintomática que cumplía aislamiento tras visitar otro país."
 image: "/uploads/2021/images-china-desplegado-estrictos-controles-mundo_0_22_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "China confirma primer caso de variante ómicron del covid-19"
 front: false
 section: "Internacional"
-news_id: 190776
+redirect_from: /news/190776
 ---
 
 En China, el primer país que reportó casos de covid-19 en el mundo, se informó hoy que detectaron su primer contagio de la variante ómicron del coronavirus en la ciudad de Tianjin, en el norte del país, informaron las autoridades sanitarias, quienes revelaron además que se trata de un caso que fue importado. 

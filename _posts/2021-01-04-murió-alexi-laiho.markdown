@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El músico finlandés había sufrido problemas cardiacos durante los últimos años. "
 image: "/uploads/2021/images-alexi-laiho-vocalista-fundador-children.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Alexi Laiho, vocalista y fundador de la banda Children of Bodom, a los 41 años"
 front: false
 section: "Espectáculos"
-news_id: 181854
+redirect_from: /news/181854
 ---
 
 Estamos en los primeros días del año y las desgracias en el mundo del espectáculo empiezan a aparecer. Alexi Laiho, vocalista, guitarrista y fundador de la banda de metal Children of Bodom, murió a los 41 años de edad. De acuerdo con la cuenta oficial de la agrupación, el músico falleció en su casa en Helsinki, Finlandia, lugar donde él era originario. Aunque no hay una causa confirmada, el finlandés había sufrido problemas cardiacos durante los últimos años. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En un mensaje vía redes, el presidente saliente de Estados Unidos admitió que una nueva administración tomará posesión el 20 de enero, por lo que es necesaria la reconciliación"
 image: "/uploads/2021/images-2508241.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trump reconoce su derrota y pide unidad; condena violencia desatada en asalto al Capitolio"
 front: false
 section: "Internacional"
-news_id: 181966
+redirect_from: /news/181966
 ---
 
 Tras el asalto al Capitolio por parte de sus seguidores, Donald Trump suavizó su tono.

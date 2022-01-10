@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Es importante tomar las debidas precauciones y no exponerse por tiempos prolongados a los rayos del sol."
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se esperan días mayormente soleados para este fin de semana en la ciudad"
 front: false
 section: "Local"
-news_id: 183662
+redirect_from: /news/183662
 ---
 
 La Coordinación Municipal de Protección Civil informa que el viernes, sábado y domingo, días en que concluye la Semana Santa, se esperan mayormente soleados, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional de CONAGUA, por lo cual es importante tomar las debidas precauciones y no exponerse por tiempos prolongados a los rayos del sol.

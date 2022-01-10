@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Reinicia Javier Corral Maratón de Obras; se mejora la infraestructura, seguridad y procuración de justicia en beneficio de 850 empleados, además de entre 700 y 800 personas que diariamente son atendidas en las instalaciones "
 image: "/uploads/2021/images-es_fisc_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura Gobernador ampliación en Fiscalía Zona Norte con inversión de 44.3 mdp"
 front: false
 section: "Local"
-news_id: 186216
+redirect_from: /news/186216
 ---
 
 El gobernador Javier Corral retomó el Maratón de Obras en Ciudad Juárez e inauguró la ampliación del estacionamiento y de las oficinas administrativas de la Fiscalía Zona Norte, con inversión de 44.3 millones de pesos (mdp).

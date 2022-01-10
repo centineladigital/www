@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Sus efectos empezarán a sentirse a partir del próximo martes, con bajas temperaturas, vientos fuertes y posibilidad de nieve o aguanieve en las zonas altas de la Sierra Tarahumara"
 image: "/uploads/2021/images-Sexta1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Previene Protección Civil por paso de Sexta Tormenta Invernal por la entidad"
 front: false
 section: "Local"
-news_id: 182210
+redirect_from: /news/182210
 ---
 
 El ingreso al país de la Sexta Tormenta Invernal de la temporada, podría generar a partir del próximo martes un marcado descenso en la temperatura en gran parte del estado de Chihuahua, así como caída de nieve o aguanieve en la Sierra Tarahumara.

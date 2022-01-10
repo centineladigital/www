@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La socialité ha estudiado en la universidad Pierce College, de Los Ángeles, pero aún no obtiene su título. "
 image: "/uploads/2021/images-kim-kardashian-acerca-sueno-convertirse.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Kim Kardashian aprueba examen de Derecho tras tres intentos; se acerca a su sueño de ser abogada"
 front: false
 section: "Espectáculos"
-news_id: 190832
+redirect_from: /news/190832
 ---
 
 Kim Kardashian, la estrella de telerrealidad que construyó su imperio gracias a un reality que seguía los dramas familiares del controversial clan, aprobó, luego de tres intentos infructuosos, un examen de derecho en California, primer paso en su sueño de convertirse en abogada, anunció el lunes. "Pasé el examen... Mirándome al espejo, estoy muy orgullosa de la mujer que hoy veo en el reflejo", escribió la millonaria en Twitter, refiriéndose a la prueba de primer año de derecho exigida en California a los candidatos que no tienen un diploma universitario. 

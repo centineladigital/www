@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En una entrevista, el actor Andrés García aprovechó la oportunidad para coquetear con Mónica Noguera. "
 image: "/uploads/2021/images-andres-garcia-le-pregunto-si_14_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“No te me olvidas” -  Andrés García le coquetea a Mónica Noguera; así reaccionó la conductora"
 front: false
 section: "Espectáculos"
-news_id: 182395
+redirect_from: /news/182395
 ---
 
 El actor Andrés García es conocido porque durante muchos años fue considerado un galán de las telenovelas, título que se ganó por su físico y por las mujeres que conquistó. A pesar de que está a unos meses de cumplir 80 años, el histrión sigue sacando su lado coqueto, esto lo demostró en una reciente entrevista con Mónica Noguera. Durante el programa De Primera Mano, Andrés García realizó una llamada telefónica en donde además de preguntarle por su reunión con Roberto Palazuelos, el actor aprovechó para coquetear con la conductora Mónica Noguera. 

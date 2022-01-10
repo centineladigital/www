@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aquí te dejamos una guía sobre todo lo que necesitas saber del lanzamiento de la plataforma de 'streaming' en Latinoamérica. "
 image: "/uploads/2021/images-hbo-max-llega-a-mexico.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "HBO Max anuncia fecha de lanzamiento en México; éste será su precio y catálogo"
 front: false
 section: "Espectáculos"
-news_id: 184664
+redirect_from: /news/184664
 ---
 
 El lanzamiento de HBO Max en América Latina está a la vuelta de la esquina. Tras meses de espera e incertidumbre, la compañía anunció este miércoles en un evento en vivo la fecha oficial, paquetes y precios de la plataforma de streaming en México, además de todas las películas, documentales, programas y series que podrás ver.  Friends, La liga de la justicia de Zack Snyder, Mortal Kombat, Game of Thrones y Rick y Morty, son sólo algunos de los títulos más esperados que estarán disponibles en la plataforma de HBO Max. Sin duda, el servicio será un fuerte competidor para otros que ya se encuentran disponibles en el país, por ello aquí te compartimos todo lo que debes saber antes de su lanzamiento en México y América Latina.  

@@ -10,11 +10,11 @@ author: nil
 description: "Darán a conocer en breve lineas de investigación."
 image: "/uploads/2021/images-CARLOS_MARIO.jpg"
 video: "/uploads/2021/videos-MJ03_CARLOS_MARIO.mp4"
-audio: "nil"
+audio: nil
 alt: "Caso Palestina prácticamente esclarecido -  Fiscal"
 front: false
 section: "Local"
-news_id: 187997
+redirect_from: /news/187997
 ---
 
 El caso de la familia desmembrada en la colonia Palestina se encuentra “practicmente esclarecido”, señaló el Fiscal de Distrito Zona Centro, Carlos Mario Jiménez Holguín. Quien fue cuestionado respecto al incremento de la saña de los homicidios, quien dijo que ni homicidios, robo y otros delitos no se ha incrementado en el estado.

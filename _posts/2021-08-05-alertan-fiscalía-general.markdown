@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ambas instituciones mantienen la guardia ante delitos de esta índole"
 image: "/uploads/2021/images-fraude.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alertan Fiscalía General del Estado y Secretaría de Educación sobre llamadas fraudulentas"
 front: false
 section: "Local"
-news_id: 186348
+redirect_from: /news/186348
 ---
 
 La Fiscalía General del Estado (FGE) y la Secretaría de Educación y Deporte (SEyD) alertan tanto a autoridades municipales como sociedad en general, en relación con llamadas fraudulentas que se han detectado recientemente.

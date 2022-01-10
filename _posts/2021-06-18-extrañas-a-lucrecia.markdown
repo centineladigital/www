@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este 18 de junio se estrenó la cuarta temporada de Élite, sin embargo, una de las grandes ausentes es Danna Paola. Te contamos la razón por la que no está en la serie. "
 image: "/uploads/2021/images-danna-paola-participo-temporadas-elite.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Extrañas a Lucrecia? Ésta es la razón por la que Danna Paola no está en 'Élite 4'"
 front: false
 section: "Espectáculos"
-news_id: 185102
+redirect_from: /news/185102
 ---
 
 Este 18 de junio se estrenó la nueva temporada de Élite, famosa serie de Netflix en la que participó Danna Paola en las primeras temporadas en donde interpretó a Lucrecia Montesinos Hendrich. Aunque en un principio Lu era una de las villanas de la historia, sobre todo porque le hacía la vida imposible a Nadia, al final las dos terminaron siendo amigas. 

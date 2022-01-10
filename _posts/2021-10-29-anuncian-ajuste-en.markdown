@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las rutas Circunvalación 2, Mármol e Infonavit Inverso, serán modificadas los días 29 de octubre al 2 de noviembre; habrá una ruta especial al panteón de Ejido Carrizalillo"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncian ajuste en rutas de transporte por Feria del Hueso en la capital"
 front: false
 section: "Local"
-news_id: 189332
+redirect_from: /news/189332
 ---
 
 La Dirección de Transporte del Estado anunció que con motivo de la conmemoración del Día de Muertos, del 29 de octubre al 2 de noviembre se harán ajustes al recorrido de tres de las rutas de transporte público que circulan por los principales panteones de la ciudad de Chihuahua.

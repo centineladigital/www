@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te presentamos las películas y series que llegarán el próximo mes de mayo a tu pantalla con Disney Plus, ¡no te las podrás perder! "
 image: "/uploads/2021/images-star-wars-chaparreando-cruella-figuran.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Desde Omar Chaparro hasta Cruella! Éstas películas y series llegan a Disney Plus en mayo"
 front: false
 section: "Espectáculos"
-news_id: 184185
+redirect_from: /news/184185
 ---
 
 Mes con mes, Disney Plus lleva nuevo contenido a su plataforma, en busca de que sus suscriptores tengan nuevas series y películas propias y de Star Wars, Pixar, Marvel y National Geographic, que conforman su vasto e interminable catálogo. Este mes de mayo no será la excepción, por ello te contamos todos los contenidos que llegan a Disney Plus en México y América Latina, ¿terminarás de verlos todos? Si lo intentas, será ciertamente complicado. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ocho condados se añadieron a la alerta por la falta de suministro de agua y la escasez de lluvia en la región. "
 image: "/uploads/2021/images-sequia-california-agosto-del-fotografia.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "California -  Gavin Newsom declara estado de emergencia por grave sequía en el estado"
 front: false
 section: "Internacional"
-news_id: 188951
+redirect_from: /news/188951
 ---
 
 El gobernador Gavin Newsom declaró el martes una emergencia por sequía en todo el estado, y pidió a todos los californianos que hagan más para conservar el agua frente a una de las sequías más severas registradas en el estado. 

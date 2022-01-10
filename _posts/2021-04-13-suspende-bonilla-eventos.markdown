@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Será hasta que cambie nuevamente el semáforo."
 image: "/uploads/2021/images-MARCO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM06_MARCO_BONILLA.mp3"
 alt: "Suspende Bonilla eventos semimasivos"
 front: false
 section: "Local"
-news_id: 183859
+redirect_from: /news/183859
 ---
 
 Debido a que el semáforo epidemiológico llegó a naranja nuevamente el Candidato del PAN a la Alcaldía de Chihuahua anunció que se suspenderán los eventos semimasivos programados. Marco Antonio Bonilla Mendoza dijo que esto es por el respeto a las medidas emitidas.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El titular de la secretaría sostuvo una reunión con la organización sin fines de lucro Partners of the Americas y con el Gobierno Federal"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Colabora Secretaría del Trabajo con actores clave para implementación de reforma laboral"
 front: false
 section: "Local"
-news_id: 188522
+redirect_from: /news/188522
 ---
 
 Como parte de los esfuerzos del Gobierno del Estado de Chihuahua para generar alianzas sólidas y estratégicas para la implementación de la reforma laboral, el secretario del Trabajo y Previsión Social (STPS), Diódoro Siller Argüello informó que se logró acordar con éxito el trabajo colaborativo con Partners of the Americas (POA), así como con el Gobierno Federal.

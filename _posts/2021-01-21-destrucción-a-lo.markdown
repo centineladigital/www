@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Carmen Campuzano recordó el calvario que vivió en la década de los 90. Externó que las drogas y la adicción la hundieron en un vacío. Así la pasó en centros de rehabilitación. "
 image: "/uploads/2021/images-terrible-experiencia-enfrento-carmen-campuzano.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Destrucción a lo pendejo -  Carmen Campuzano narra terribles vivencias con las drogas"
 front: false
 section: "Espectáculos"
-news_id: 182322
+redirect_from: /news/182322
 ---
 
 Carmen Campuzano, famosa modelo mexicana, rompió el silencio una vez más sobre el problema con las drogas que afrontó por mucho tiempo. La famosa explicó cómo lucha contra las adicciones y el tortuoso camino que tuvo que enfrenta en los centros de rehabilitación. ¿Qué fue lo que tuvo que pasar la famosa? ¿Cómo es que salió adelante? Te contamos lo que confesó la también ex pareja de Andrés García.

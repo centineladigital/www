@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El conductor de 'Hoy' relató el polémico episodio que vivió con Mario Bezares en el funeral de su papá; además reveló cómo se enteró de la muerte de Paco Stanley. "
 image: "/uploads/2021/images-paul-stanley-revela-traicion-mario_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mal sabor de boca -  Paul Stanley revela traición que sufrió por parte de Mario Bezares tras muerte de su papá"
 front: false
 section: "Espectáculos"
-news_id: 189146
+redirect_from: /news/189146
 ---
 
 Paul Stanley continúa con el legado de su padre: Paco Stanley, quien fue asesinado el 7 de junio de 1999 por al menos cinco hombres que le dispararon al salir del restaurante El Charco de las Ranas, ubicado en Periférico Sur. A 22 años de la muerte del humorista, su hijo -quien es conductor del programa Hoy- reveló por qué su relación con Mario Bezares se fracturó. Tras el fallecimiento del conductor, Paul Stanley -quien tenía 13 años cuando murió el humorista mexicano- tuvo un encuentro con Mario Bezares que le dejó "un mal sabor de boca", así lo compartió en una entrevista para el programa La Saga de Adela Micha.

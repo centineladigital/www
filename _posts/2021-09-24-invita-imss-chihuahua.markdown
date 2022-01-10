@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se llevará a cabo en punto de las 10:00 horas, en la explanada del Hospital General Regional (HGR) No. 01, “Morelos”."
 image: "/uploads/2021/images-Foto_4681-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita IMSS Chihuahua este domingo al evento “Bailando por la Donación” "
 front: false
 section: "Local"
-news_id: 188027
+redirect_from: /news/188027
 ---
 
 En el marco del Día Nacional de Donación y Trasplante de Órganos y Tejidos, a celebrarse este 26 de septiembre, el Instituto Mexicano de Seguro Social (IMSS) en Chihuahua invita a la población en general a participar en el evento denominado “Bailando por la Donación”.

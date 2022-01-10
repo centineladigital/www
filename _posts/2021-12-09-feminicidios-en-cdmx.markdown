@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La jefa de Gobierno de la Ciudad de México destacó el porcentaje de captura de agresores, el cual aumentó en 37 por ciento, de acuerdo con datos presentados en su informe.   "
 image: "/uploads/2021/images-claudia-sheinbaum-4_0_13_1139_709.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Feminicidios en CdMx han reducido 24% tras alerta contra violencia de género -  Sheinbaum"
 front: false
 section: "Nacional"
-news_id: 190664
+redirect_from: /news/190664
 ---
 
 La jefa de Gobierno de la Ciudad de México, Claudia Sheinbaum, aseguró en su tercer informe de actividades que los feminicidios se han reducido en un 24 por ciento luego de la emisión de la Alerta de Violencia de Género en la capital y destacó el porcentaje de captura de agresores, el cual aumentó en 37 por ciento. 

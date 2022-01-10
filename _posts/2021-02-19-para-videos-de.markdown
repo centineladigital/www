@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de un video, el actor y comediante lanzó una convocatoria para adoptar a cinco creadores de contenido de la plataforma TikTok. Busca a sus hijos “adoptiktoks. "
 image: "/uploads/2021/images-derbez-mofo-contagio-coronavirus-omar_0_154_720_448.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Para videos de TikTok? Eugenio Derbez anuncia que adoptará a tiktokers; Kunno se postula"
 front: false
 section: "Espectáculos"
-news_id: 183036
+redirect_from: /news/183036
 ---
 
 Eugenio Derbez, comediante mexicano, hace unos días dio a conocer que adoptaría junto a Alessandra Rosaldo. Sin especificar de qué hablaba, el también productor por fin comunicó a qué se refería. ¿Adoptarán una mascota? El padre de Aislinn, Vadhir, José Eduardo y Aitana comunicó que su familia crecerá, pues adoptará a cinco influencers de TikTok -tiktokers-.  A través de un video, el actor y comediante lanzó una convocatoria para adoptar a cinco creadores de contenido de la plataforma TikTok. Busca a sus hijos “adoptiktoks". "Como nunca he tenido una familia normal esta adopción tampoco será una adopción normal", indicó Eugenio Derbez.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fans opinan que Anya Taylor-Joy sería una excelente Black Cat y que Norman Reedus interpretaría a Ghost Rider en el Universo Cinematográfico Marvel ideal. "
 image: "/uploads/2021/images-anya-taylor-joy-y-norman.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fans piden a Anya Taylor-Joy y Norman Reedus en el Universo Marvel"
 front: false
 section: "Espectáculos"
-news_id: 191261
+redirect_from: /news/191261
 ---
 
 Rumores en torno a Marvel siempre vienen y van, pero a veces terminan por ser realidad. En esta ocasión, comenzó a hablarse en redes sociales de las posibles apariciones de Anya Taylor-Joy como Black Cat y Norman Reedus como Ghost Rider en el Universo Cinematográfico Marvel, lo que los fans consideran como buenas opciones. 

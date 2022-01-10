@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Comparte Presidente Municipal con CANACITRA, Plan Chihuahua Competitiva"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Industria de la trasformación y Gobierno Municipal con misma visión de crecimiento"
 front: false
 section: "Local"
-news_id: 189516
+redirect_from: /news/189516
 ---
 
 El Presidente Municipal, Marco Bonilla Mendoza, asistió a la octava sesión ordinaria del Consejo Directivo de la Cámara Nacional de la Industria de la Transformación (CANACINTRA) Chihuahua, para exponer el trabajo en temas de crecimiento económico que realiza el Gobierno Municipal y empatar esfuerzos con el gremio empresarial.

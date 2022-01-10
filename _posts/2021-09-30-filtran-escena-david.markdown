@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Desde ayer en la noche se comenzó a viralizar un video de las escenas postcréditos de la película Venom 2. Con ello, el nombre del actor David Zepeda también, pues resulta que al parecer el actor mexicano apareció en ésta. "
 image: "/uploads/2021/images-mejores-memes-david-zepeda-venom.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Filtran escena! David Zepeda, actor de Televisa, aparece en 'Venom 2'; redes 'estallan' con memes"
 front: false
 section: "Espectáculos"
-news_id: 188217
+redirect_from: /news/188217
 ---
 
 David Zepeda, famoso actor de varias telenovelas mexicanas, ha dado mucho de qué hablar, pues el integrante de Televisa apareció presuntamente en la escena postcréditos de la película Venom 2. ¿Es real? ¿Tendrá un personaje en las próximas películas? ¿David Zepeda es parte de Venom 2? Te contamos lo que sabemos y te compartimos los mejores memes que ha dejado la aparición viral del actor. Desde ayer en la noche se comenzó a viralizar un video de las escenas postcréditos de la película Venom 2. Con ello, el nombre del actor David Zepeda también, pues resulta que al parecer el actor mexicano apareció en ésta. 

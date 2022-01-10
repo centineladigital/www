@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Angela Barnett, quien fuera esposa de David Bowie durante diez años, criticó la película sobre el icónico músico. Esto fue lo que dijo. "
 image: "/uploads/2021/images-angela-barnett-critico-stardust-biopic.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Una total pérdida de tiempo -  ex esposa de David Bowie critica la biopic sobre el cantante"
 front: false
 section: "Espectáculos"
-news_id: 182249
+redirect_from: /news/182249
 ---
 
 En noviembre del año pasado se estrenó Stardust, la primera biopic sobre David Bowie. Al respecto, Angela Barnett, ex esposa del camaleónico cantante que estuvo casada con él de 1970 a 1980, ha criticado fuertemente a la cinta biográfica. 

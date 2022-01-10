@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Caídas o golpes que pueden ocasionar desde hinchazones hasta sangrados"
 image: "/uploads/2021/images-Foto_3697-1.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta IMSS Chihuahua evitar accidentes al quebrar piñatas durante fiestas decembrinas "
 front: false
 section: "Local"
-news_id: 191201
+redirect_from: /news/191201
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua recomienda a la población tener precaución a la hora de quebrar piñatas durante las fiestas navideñas, ya que golpes o caídas pueden ocasionar desde hinchazones y sangrados, hasta fracturas en niños y adultos. 

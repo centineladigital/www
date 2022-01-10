@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Centro Sismológico Nacional de la Universidad de Chile detalló que el sismo tuvo epicentro en el municipio de Lebu y hasta el momento no hay daños o lesionados. "
 image: "/uploads/2021/images-sismo-magnitud-sacude-sonora-epicentro.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sismo de 6.6 sacude centro y sur de Chile; descartan alerta de tsunami"
 front: false
 section: "Internacional"
-news_id: 187904
+redirect_from: /news/187904
 ---
 
 Un sismo de magnitud 6.6, con epicentro en el municipio Lebu, sacudió las zonas centro y sur de Chile, sin que hasta el momento se reporten personas lesionadas o daños materiales, informó el Centro Sismológico Nacional de la Universidad de Chile.

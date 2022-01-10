@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El canciller Marcelo Ebrard informó que avanza el proceso de la demanda contra diversas empresas presuntamente responsables de comercio negligente"
 image: "/uploads/2021/images-trafico-ilegal-armas-mexico-afecta_0_1_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Corte de Massachusetts acepta demanda de México contra fabricantes de armas en EU"
 front: false
 section: "Internacional"
-news_id: 186924
+redirect_from: /news/186924
 ---
 
 Una corte federal en Massachusetts aceptó la demanda presentada por México contra fabricantes de armas en Estados Unidos por comercio negligente. 

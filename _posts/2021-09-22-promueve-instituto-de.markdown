@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En el marco del Día Mundial sin Automóvil, propusieron acciones que están dentro del Plan de la Ciudad de Chihuahua   "
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Promueve Instituto de Planeación Integral del Municipio acciones para reducir uso de vehículos en la ciudad   "
 front: false
 section: "Local"
-news_id: 187958
+redirect_from: /news/187958
 ---
 
 Como parte del Día Mundial sin Automóvil, que se celebra este 22 de septiembre, el Gobierno Municipal a través del Instituto de Planeación Integral del Municipio (IMPLAN) encabezó una jornada de intervenciones urbanas para visibilizar las posibilidades de movilidad que tiene la ciudadanía en el espacio público que sean más amigables con el ambiente, como la bicicleta o el transporte público.

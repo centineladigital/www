@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A partir de hoy asume como Delegado de Programas para el Desarrollo en la entidad. "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-15_at_10.19.49.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Regresa Loera a la delegación del bienestar"
 front: false
 section: "Local"
-news_id: 187748
+redirect_from: /news/187748
 ---
 
 Juan Carlos Loera anticipó que su principal responsabilidad es velar por el bienestar del pueblo de Chihuahua, con quien mantendrá un contacto directo y permanente para conocer y atender sus necesidades.

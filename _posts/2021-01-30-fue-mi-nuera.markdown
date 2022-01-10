@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La conductora mexicana sorprendió a todo al revelar que la actriz de 'Élite' fue su nuera y rompió el corazón de su hijo. "
 image: "/uploads/2021/images-consuelo-duval-confiesa-danna-paola_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fue mi nuera -  Consuelo Duval confiesa que Danna Paola le 'rompió' el corazón a su hijo"
 front: false
 section: "Espectáculos"
-news_id: 182581
+redirect_from: /news/182581
 ---
 
 Consuelo Duval ha dicho ser una mujer que no tiene "pelos en la lengua" y prueba de ello son sus íntimas confesiones en el programa Netas Divinas en donde habla sobre su relación con sus hijos, Paly y Michel, e incluso, de sus fracasos amorosos. En esta ocasión, la conductora mexicana sorprendió a todo al revelar que Danna Paola fue su nuera y rompió el corazón de su hijo.  En una pasada emisión del programa de Unicable, Consuelo Duval se sinceró con su compañeras Paola Roja, Natalia Téllez y Daniela Magún y reveló que Danna Paola fue pareja de su hijo michel.

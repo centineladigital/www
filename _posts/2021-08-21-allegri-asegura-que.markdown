@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El director técnico de la Vecchia Signora "
 image: "/uploads/2021/images-cristiano-ronaldo-continuara-carrera-escuadra_0_25_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Allegri asegura que Cristiano Ronaldo seguirá en la Juventus"
 front: false
 section: "Deportes"
-news_id: 186973
+redirect_from: /news/186973
 ---
 
 Cristiano Ronaldo, objeto de constantes rumores de traspaso, permanecerá en la Juventus, aseguró este sábado el entrenador 'bianconero', Massimiliano Allegri, que precisó que tenía la garantía del astro portugués.

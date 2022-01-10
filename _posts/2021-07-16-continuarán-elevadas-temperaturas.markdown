@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los días 16 y 17 de julio, se tendrá en el estado un ambiente de templado a cálido por la mañana y de caluroso a muy caluroso por la tarde, registrando Ojinaga hasta 38º C; se podrían presentar lluvias lluvias de moderadas a fuertes en la zona occidente y de dispersas a moderadas en otras regiones"
 image: "/uploads/2021/images-a.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continuarán elevadas temperaturas y lluvias en algunas regiones del estado para este viernes y sábado"
 front: false
 section: "Local"
-news_id: 185729
+redirect_from: /news/185729
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC), informa a la población que para este viernes 16 de julio, se tendrá un ambiente de templado a cálido por la mañana y de caluroso a muy caluroso por la tarde, cielo de parcial a mayormente nublado, viento de 5 a 20 kilómetros por hora  (km/h), con rachas que pueden superar los 35 km/h en partes de las zonas norte, noroeste y sur, Juárez, Janos y Valle de Zaragoza.

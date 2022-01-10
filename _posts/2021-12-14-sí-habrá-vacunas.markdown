@@ -18,11 +18,11 @@ author: nil
 description: "La respuesta de la población ha sido buena para esta etapa de vacunación, por lo que se ha decidido extender la aplicación hasta el día sábado 18 de diciembre"
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-14_at_11.52.10_AM.jpeg"
 video: "/uploads/2021/videos-BM04_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Sí habrá vacunas  suficientes para adultos mayores -  Bonilla "
 front: false
 section: "Local"
-news_id: 190851
+redirect_from: /news/190851
 ---
 
 Marco Antonio Bonilla Mendoza alcalde Municipal de Chihuahua, señaló que sí habrá dosis suficientes para adultos mayores por lo que pidió un poco de paciencia ya que en palabras del edil es una labor tintática del Gobierno Federal, el presidente señaló que ha estado en pláticas con Marcelino Gómez Brenes y con las fuerzas armadas para colaborar con la Federación.

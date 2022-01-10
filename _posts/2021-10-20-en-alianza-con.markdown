@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Establece Gobierno Municipal el primer acercamiento con el Comité de Prevención de Atención a la Violencia Familiar y de Género   "
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " En alianza con la sociedad civil se logrará que Chihuahua sea el municipio más seguro del país"
 front: false
 section: "Local"
-news_id: 188985
+redirect_from: /news/188985
 ---
 
 Uno de los objetivos más firmes de la presente administración municipal, es posicionar a Chihuahua como la ciudad más segura del país, y en concreto para las mujeres, aspiración que se logrará a partir de la implementación de políticas públicas eficientes y con el apoyo total de las organizaciones civiles, pues son éstas las que están lideradas por personas expertas en los temas, y el trabajo en alianza, dará los resultados esperados.

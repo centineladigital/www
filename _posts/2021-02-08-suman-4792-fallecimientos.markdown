@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se contagian 120 en las últimas horas y mueren 12: Chihuahua 9, Juárez 2 y Cuauhtémoc 1"
 image: "/uploads/2021/images-Informe_tecnico_07_febrero_page-0002.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suman 4,792 fallecimientos y 51,622 casos confirmados por COVID-19 en la entidad"
 front: false
 section: "Local"
-news_id: 182772
+redirect_from: /news/182772
 ---
 
 En lo que va de la pandemia han fallecido 4 mil 792 chihuahuenses a causa del COVID-19, de acuerdo al reciente reporte de la Secretaría de Salud.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cinta Melancolía estrenó en Los Ángeles y espera que pronto los mexicanos puedan verla."
 image: "/uploads/2021/images-plutarco.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cine. Plutarco Haza protagoniza cinta sobre tiroteo escolar"
 front: false
 section: "Espectáculos"
-news_id: 188474
+redirect_from: /news/188474
 ---
 
 Hace unos días se estrenó la película Melancolía en el Chinese Theatre de Los Ángeles, donde Plutarco Haza, Alessanda Rosaldo y Laura Flores estuvieron presentes como parte de esta historia independiente dirigida por el mexicano Jorge Xolalpa, quien reside en Estados Unidos desde hace 23 años. La historia es sobre un padre (Plutarco Haza) que se enfrenta al duelo de haber perdido a su hija debido a un tiroteo en una escuela en Estados Unidos, casos que se han dado a conocer en la vida real y que no es nada ajeno, sin embargo todo tipo de duelos es parte de todo el mundo y no solo del país del norte. 

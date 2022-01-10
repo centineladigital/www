@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal invitó a los vecinos a plasmar sus ideas y color en los murales"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llenan de color y arte bardas de la colonia Insurgentes II"
 front: false
 section: "Local"
-news_id: 190003
+redirect_from: /news/190003
 ---
 
 En colaboración con los vecinos de la colonia Insurgentes II, dentro de los primeros 100 días de trabajo y resultados, el Gobierno Municipal a través del Instituto de Cultura del Municipio (ICM), dio inicio al programa “Muralismo Comunitario”, con la pinta de seis bardas localizadas en las inmediaciones del arroyo El Mimbre, frente al Centro Comunitario DIF Municipal Insurgentes.

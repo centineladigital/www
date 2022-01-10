@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Negocios del Primer Cuadro de la Ciudad se preparan para la próxima festividad del Día del Padre, que este año se celebra el 20 de junio "
 image: "/uploads/2021/images-Ventas_Día_del_padre.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Esperan comerciantes subir ventas por Día Del Padre"
 front: false
 section: "Local"
-news_id: 184948
+redirect_from: /news/184948
 ---
 
 Negocios del Primer Cuadro de la Ciudad se preparan para la próxima festividad del Día del Padre, que este año se celebra el 20 de junio.

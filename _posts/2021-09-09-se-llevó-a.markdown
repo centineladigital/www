@@ -16,11 +16,11 @@ author: nil
 description: "Se trabajará en pro de las y los chihuahuenses: Marco Bonilla "
 image: "/uploads/2021/images-transicion.jpeg"
 video: "/uploads/2021/videos-BJ06_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "Se llevó a cabo  la transición del municipio de Chihuahua "
 front: false
 section: "Local"
-news_id: 187593
+redirect_from: /news/187593
 ---
 
 Manque Granados ex alcaldesa del estado de Chihuahua declaró  en la transición del municipio que ha sido un gobierno ejemplar, un proyecto que inicio en 2016 con Maru Campos y posterior mente culminado por ella el cual,  se termina con un trabajo de resultados a los largo de 5 años  haciendo obras en pro de los chihuahuenses  con un trabajo sin ocurrencias.

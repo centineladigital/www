@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La halterista mexicana no ha recibido respuesta de las autoridades y no puede cobrar su premio por el bronce obtenido en Tokio 2020"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aremi Fuentes, medallista olímpica, denuncia que recibió un cheque sin fondos"
 front: false
 section: "Deportes"
-news_id: 187906
+redirect_from: /news/187906
 ---
 
 Cuando la mexicana Aremi Fuentes levantó un total de 245 kg en los pasados Juegos Olímpicos de Tokio 2020, además de obtener la medalla de bronce, se convirtió en acreedora a un premio de 50 mil pesos por parte de las autoridades del país.

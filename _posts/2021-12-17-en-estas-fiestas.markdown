@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La temporada decembrina está llena de convivencias sociales que, si bien deben ser limitadas por la situación actual de la pandemia generada por el COVID-19, merecen ser disfrutadas sin poner en riesgo la vida propia, ni la de otros, al conducir un automóvil."
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En estas fiestas, tú eliges sensibiliza SSPE sobre consumo de bebidas alcohólicas al conducir"
 front: false
 section: "Local"
-news_id: 190960
+redirect_from: /news/190960
 ---
 
 Con el objetivo de que los chihuahuenses disfruten esta temporada decembrina al lado de sus familias y sin contratiempos, la Secretaría de Seguridad Pública del Estado (SSPE) enfatiza que no debe combinarse la ingesta de bebidas alcohólicas con la conducción de vehículos.

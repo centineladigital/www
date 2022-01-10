@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " Se encargarán de vigilar el actuar de las y los servidores públicos de la dependencia estatal, para fomentar una cultura de ética"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Toman protesta a integrantes del comité interno de ética de la SEDUE"
 front: false
 section: "Local"
-news_id: 188725
+redirect_from: /news/188725
 ---
 
 Gabriel Valdez Juárez, titular de la Secretaría de Desarrollo Urbano y Ecología (Sedue), tomó protesta a integrantes del comité interno de esa dependencia estatal.

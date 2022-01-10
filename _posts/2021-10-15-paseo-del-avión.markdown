@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El vuelo del Boeing 787 hacia la península de Yucatán ocurrió a unos días de que la ONU contrató a empresa en Mónaco para publicitarlo. "
 image: "/uploads/2021/images-avion-presidencial-intentado-vendido-inicio_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Paseo del avión presidencial coincidió con nueva promoción para lograr venta"
 front: false
 section: "Nacional"
-news_id: 188759
+redirect_from: /news/188759
 ---
 
 El avión presidencial, adquirido durante el periodo del ex presidente Felipe Calderón, que fue entregado y utilizado en el periodo del ex presidente Peña Nieto y que, hasta el día de hoy, no ha logrado ser vendido, rentado o rifado por el gobierno de Andrés Manuel López Obrador, realizó un vuelo de dos horas y 43 minutos hacia la península de Yucatán, donde a la altura de Mérida retrocedió a la Ciudad de México. 

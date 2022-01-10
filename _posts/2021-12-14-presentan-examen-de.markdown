@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El 17 de diciembre se publicará la lista de alumnas y alumnos aceptados"
 image: "/uploads/2021/images-IMG_8158.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Presentan examen de ingreso en la Universidad Tecnológica de Chihuahua Sur"
 front: false
 section: "Local"
-news_id: 190834
+redirect_from: /news/190834
 ---
 
 Aspirantes a cursar las carreras que oferta la Universidad Tecnológica de Chihuahua Sur (UTCH Sur), presentaron el examen CENEVAL EXANII en espera de obtener un espacio para el cuatrimestre que inicia en enero de 2022.

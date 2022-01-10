@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "In The Heights, la cinta musical del director Lin-Manuel Miranda y Quiara Alegría Hudes, nos trae a la actriz nacida en Monterrey, quien canta, baila, actúa… y le encantan los abrazos, Melissa Barrera. "
 image: "/uploads/2021/images-melissa-barrera-cuenta-su-experiencia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'In The Heights' llega a cines 20 años después de ser escrita; Melissa Barrera la protagoniza"
 front: false
 section: "Espectáculos"
-news_id: 185006
+redirect_from: /news/185006
 ---
 
 Después de 20 años de haberla escrito como obra de teatro y tras dos años de pandemia detenida, al fin llega a los cines uno de los sueños de Lin-Manuel Miranda, en el momento perfecto. Con ella llega Melissa Barrera, la actriz mexicana que protagoniza junto a Anthony Ramos esta gran producción, la cual es la mejor forma de celebrar la reapertura: bailando y cantando en las calles del barrio latino Washington Heights, al norte de Manhattan, en Nueva York. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los seguidores de la selección de Serbia celebraron al estilo de CR7, luego de vencerlos y enviarlos al repechaje del Mundial de Qatar 2022. "
 image: "/uploads/2021/images-cristiano-ronaldo-lamenta-derrota-portugal_136_183_992_617.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Afición de Serbia se burla de Cristiano Ronaldo tras mandarlos al repechaje"
 front: false
 section: "Deportes"
-news_id: 189836
+redirect_from: /news/189836
 ---
 
 La selección de Serbia venció 2-1 de último minuto a su similar de Portugal, resultado con el que se llevaron el boleto directo al Mundial de Qatar 2022, mientras que los lusos pelearán por uno de los tres pases que se darán en el repechaje de la UEFA. 

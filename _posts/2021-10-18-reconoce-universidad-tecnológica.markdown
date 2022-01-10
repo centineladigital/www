@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Como parte de la conmemoración por el décimo aniversario de la institución, entregó reconocimientos a 29 trabajadoras y trabajadores con funciones docentes, administrativas y directivas"
 image: "/uploads/2021/images-1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconoce Universidad Tecnológica de Parral labor de su personal"
 front: false
 section: "Local"
-news_id: 188884
+redirect_from: /news/188884
 ---
 
 En el marco de los festejos por su décimo aniversario, la Universidad Tecnológica de Parral (UTP) entregó 29 reconocimientos a personal docente, administrativo y directivo de la institución, por llegar a 5, 6, 7 y 10 años de servicio.

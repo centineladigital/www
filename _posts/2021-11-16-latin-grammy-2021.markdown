@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La entrega de premios contará con artistas de talla internacional, entre ellos Danna Paola, Bad Bunny, Ángela Aguilar, Christina Aguilera, Ozuna, C. Tangana, Nathy Peluso y muchos más. "
 image: "/uploads/2021/images-horario-fecha-debes-latin-grammy_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Latin Grammy 2021 -  Fecha, horario, dónde ver en vivo y todo lo que debes saber de la premiación"
 front: false
 section: "Espectáculos"
-news_id: 189873
+redirect_from: /news/189873
 ---
 
 Los Latin Grammy llevarán a cabo su edición 2021 en medio de la disputa que se suscitó entre Residente y J Balvin, después de que el astro del reguetón hiciera un llamado a boicotear la entrega número 22 de la premiación debido a la falta de nominaciones para los artistas del género urbano. Pese a la controversia, la gala contará con la presencia de artistas de talla internacional como Bad Bunny, Alejandro Fernández, Danna Paola, Pablo Alborán, Ozuna, Natalia Lafourcade y muchos más. La Academia Latina de la Grabación celebrará una edición presencial con presentaciones en vivo y la presencia de todos los nominados, a diferencia del año pasado cuando la organización tuvo que recurrir a un formato virtual debido a la pandemia de covid-19. Seguro no quieres perderte la entrega de los Latin Grammy 2021, por ello aquí te compartimos los horarios y cómo puedes verla.  

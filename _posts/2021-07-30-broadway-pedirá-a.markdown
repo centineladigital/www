@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Broadway anunció que sólo permitirá la entrada a los teatros a las personas que muestren que estén vacunadas y adentro de los recintos deberán usar cubrebocas. "
 image: "/uploads/2021/images-broadway-pedira-personas-tengan-vacunas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Broadway pedirá a asistentes estar vacunados contra el covid-19 para ingresar a los teatros"
 front: false
 section: "Espectáculos"
-news_id: 186150
+redirect_from: /news/186150
 ---
 
 Poco a poco se están reiniciando las actividades en el medio del espectáculo, es por eso que Broadway le pedirá a los asistentes demostrar que han sido vacunados contra el covid-19 y tendrán que usar mascarillas cuando se suban los telones de nuevo en las próximas semanas, anunciaron los productores el viernes. 

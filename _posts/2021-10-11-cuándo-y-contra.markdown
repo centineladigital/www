@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El pugilista mexicano solamente ha sido derrotado una vez en 59 combates"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cuándo y contra quién fue la única derrota del Canelo Álvarez como boxeador profesional?"
 front: false
 section: "Deportes"
-news_id: 188573
+redirect_from: /news/188573
 ---
 
 Saúl 'Canelo' Álvarez cuenta con un récord envidiable en el boxeo profesional desde su debut en el ya lejano 2005, con solamente una derrota en 59 combates disputados. 

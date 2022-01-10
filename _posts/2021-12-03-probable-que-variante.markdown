@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente informó que un mexicano con síntomas de covid-19 fue ingresado al hospital, tras regresar de Sudáfrica, por lo que al parecer sí ya es la nueva variante. "
 image: "/uploads/2021/images-amlo-anuncio-mes-iniciara-aplicacion.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Probable, que variante ómicron se presente en el país -  AMLO"
 front: false
 section: "Nacional"
-news_id: 190453
+redirect_from: /news/190453
 ---
 
 El presidente Andrés Manuel López Obrador dijo que es probable que la variante ómicron de covid-19 se presente en el país, luego de que un mexicano fue internado en un hospital de la Ciudad de México tras llegar de Sudáfrica y presentar síntomas. 

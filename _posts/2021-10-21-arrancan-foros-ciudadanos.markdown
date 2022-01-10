@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Las propuestas y sus resultados serán enviadas por correo electrónico a cada uno de los participantes en este Foro."
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Arrancan foros ciudadanos para integrar Plan Estatal de Desarrollo; se realizan mesas de trabajo en torno a la salud"
 front: false
 section: "Local"
-news_id: 189033
+redirect_from: /news/189033
 ---
 
 Bajo la premisa del Gobierno del Estado de mantener puertas abiertas para el diálogo con los chihuahuenses, la gobernadora del Estado, Maru Campos Galván, implementó la plataforma de foros de participación ciudadana para integrar el Plan Estatal de Desarrollo 2022-2027, mismos que dieron inicio la mañana de este jueves con las actividades correspondientes al rubro de salud.

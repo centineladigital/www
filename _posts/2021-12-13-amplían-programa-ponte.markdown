@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Beneficios variarán según la junta municipal."
 image: "/uploads/2021/images-ROBERTO_LARA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML05_ROBERTO_LARA.mp4"
 alt: "Amplían programa “Ponte al corriente” "
 front: false
 section: "Local"
-news_id: 190804
+redirect_from: /news/190804
 ---
 
 Una ampliación del programa “Ponte al corriente” fue dada a conocer, por lo que los ciudadanos podrán beneficiarse con descuentos del cien por ciento en recargos y de 90 por ciento en adeudo, en pagos de contado, con lo que se beneficiarán 16 municipios más.

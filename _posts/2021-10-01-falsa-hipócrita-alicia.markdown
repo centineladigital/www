@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Alicia Machado estalló contra Gaby Spanic en 'La Casa de los Famosos'; la llamó hipócrita y revivió el audio filtrado contra Lucero. "
 image: "/uploads/2021/images-alicia-machado-estalla-casa-famosos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Falsa, hipócrita -  Alicia Machado explota contra Gaby Spanic en reality; revive polémica con Lucero"
 front: false
 section: "Espectáculos"
-news_id: 188267
+redirect_from: /news/188267
 ---
 
 Una vez más ‘La Casa de los Famosos’ dio mucho de qué hablar y es que Alicia Machado de nueva cuenta generó polémica al pelearse con Gaby Spanic por cuestiones de limpieza. En medio de su confrontación, la famosa aseguró que por eso a Spanic nadie la quiere en los proyectos en los que ha participado, pues es una persona que busca que todos le sirvan. Además que de paso, revivió la polémica que tuvo con Lucero. Te contamos cómo se vivió este polémico momento.  

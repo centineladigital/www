@@ -10,11 +10,11 @@ author: nil
 description: "Esto en la gira de trabajo de Andrés Manuel López Obrador."
 image: "/uploads/2021/images-jauregui.jpg"
 video: "/uploads/2021/videos-MM04_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Mañanera podría ser en la V Zona Militar"
 front: false
 section: "Local"
-news_id: 190602
+redirect_from: /news/190602
 ---
 
 La entrevista mañanera pudiera darse de forma tentativa en la V Zona Militar señaló el Secretario General de Gobierno, César Gustavo Jáuregui Moreno, esto al afirmar que se encuentran llevando a cabo acciones para la gira de trabajo de Andrés Manuel López Obrador.

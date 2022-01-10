@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Algunas famosas han sido diagnosticadas con cáncer de mama, pero afortunadamente han logrado recuperarse de la enfermedad. "
 image: "/uploads/2021/images-padecido-cancer-mama-dedicado-promover_19_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Famosas que han padecido cáncer de mama y han salido adelante"
 front: false
 section: "Espectáculos"
-news_id: 188909
+redirect_from: /news/188909
 ---
 
 El cáncer es una enfermedad, que de acuerdo con la American Cancer Society, se desarrolla cuando las células del cuerpo crecen descontroladamente, por lo que se pueden formar tumores en alguna parte del cuerpo. Uno de los más conocidos y que afecta a miles de mujeres es el de mama. En el marco del Día Mundial de la lucha contra el cáncer de mama, hacemos un repaso por aquellas famosas que han padecido la enfermedad y que afortunadamente hoy son unas de las mujeres que han salido adelante. 

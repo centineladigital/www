@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se prevén precipitaciones en Moris, Temósachic, Batopilas, Juárez, Madera, Ocampo, Guachochi, Parral, Jiménez, Ojinaga, Ahumada, Janos, Balleza y Chihuahua   "
 image: "/uploads/2021/images-clima_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lluvias dispersas y temperaturas altas pronostica Protección Civil"
 front: false
 section: "Local"
-news_id: 186064
+redirect_from: /news/186064
 ---
 
 Para hoy miércoles 28 de julio se esperan temperaturas altas en la mayor parte del estado, con ambiente de templado a cálido por la mañana y de caluroso a muy caluroso por la tarde, de acuerdo al reporte del clima dado a conocer por la Coordinación Estatal de Protección Civil.

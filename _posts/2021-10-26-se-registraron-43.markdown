@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19, asciende a 8 mil 106 casos (+2), y se concentro en los municipios de Meoqui (+1) y Guerrero (+1)"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registraron 43 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 189202
+redirect_from: /news/189202
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 26 de octubre el reporte COVID-19, en el cual se registran 80 mil 648 (+43) personas confirmadas en la entidad por este padecimiento, 70 mil 239 (+50) casos recuperados, 73 mil 823 (+32) descartados y 853 (-9) casos sospechosos.

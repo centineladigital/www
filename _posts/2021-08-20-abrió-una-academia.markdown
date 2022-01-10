@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A mediados de los 2000 se dio a conocer Alizée, una cantante francesa que alcanzó gran fama mundial y en México cautivó a muchos. Te contamos qué es de ella. "
 image: "/uploads/2021/images-alizee-alcanzo-fama-mexico-lanzar_33_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Abrió una academia de baile? Esto es lo que pasó con Alizée tras su éxito en la música"
 front: false
 section: "Espectáculos"
-news_id: 186962
+redirect_from: /news/186962
 ---
 
 En México se han dado a conocer varios artistas, que gracias a la aceptación del público mexicano logran obtener más fama, ese fue el caso de Alizée, una cantante francesa, que, a pesar de no hablar español se ganó varios fans en nuestro país, quienes en una ocasión tuvieron la oportunidad de verla en vivo. 

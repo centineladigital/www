@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Refrendan compromiso y disposición para la implementación de estrategias efectivas contra la inseguridad en ambos países "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-01_at_13.40.23.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa Secretario de Seguridad Pública Estatal en reunión de Protocolos de Violencia Fronteriza"
 front: false
 section: "Local"
-news_id: 188283
+redirect_from: /news/188283
 ---
 
 Con la finalidad de coordinar los trabajos binacionales para consolidar la seguridad en la franja fronteriza, el titular de la Secretaría de Seguridad Pública del Estado, Gilberto Loya Chávez, participó en la Reunión de Protocolos para la Prevención de Violencia Fronteriza, celebrada en Ciudad Juárez.

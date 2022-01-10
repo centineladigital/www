@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con el fin de evitar contaminación de los arroyos o ríos con este tipo de materiales"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recaban alrededor de 40 toneladas de basura electrónica con feria de reciclaje"
 front: false
 section: "Local"
-news_id: 190302
+redirect_from: /news/190302
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, realizó con éxito la feria del reciclaje electrónico que se efectuó del 26 al 28 de noviembre en la explanada del parque El Palomar, en la cual, se recibieron alrededor de 40 toneladas de desperdicios de tipo electrónico, como parte de las acciones de los 100 primeros días de trabajo y resultados.

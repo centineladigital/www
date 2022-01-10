@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En programa Logros con Valor, informa Ichife que en las obras realizadas en los 67 municipios se alcanzó, durante la Administración de Javier Corral, una inversión real de 3 mil 152 millones de pesos."
 image: "/uploads/2021/images-Normal_Superior_Biblioteca_Edificio_Admistrativo_y_Audutorio.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Construyó Estado 1,955 obras de infraestructura para todos los niveles educativos"
 front: false
 section: "Local"
-news_id: 185617
+redirect_from: /news/185617
 ---
 
 Durante la actual Administración estatal, a través del Instituto Chihuahuense de Infraestructura Física Educativa (Ichife), llevó a cabo la construcción de mil 955 obras en todo el estado, con una inversión real de 3 mil 152 millones de pesos.

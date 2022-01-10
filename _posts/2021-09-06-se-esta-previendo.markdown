@@ -8,11 +8,11 @@ author: nil
 description: "Algunos ya entregaron su renuncia"
 image: "/uploads/2021/images-2021-01-02.png"
 video: "/uploads/2021/videos-BL05_MANQUE_GRANADOS_2.mp4"
-audio: "nil"
+audio: nil
 alt: "Se esta previendo la renuncia de algunos funcionarios"
 front: false
 section: "Local"
-news_id: 187480
+redirect_from: /news/187480
 ---
 
 La alcaldesa Manque Granados aseguró que se está previendo la renuncia de algunos funcionarios de municipio ya que están a pocos días de entregar el ayuntamiento en manos de el presidente electo Marco Bonilla.

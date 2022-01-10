@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con una inversión de más de 5 millones de pesos para la adquisición de calefactores de gas y de leña, además de un millón y medio de pesos para la dotación de gas"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Beneficiará Gobierno del Estado a 522 escuelas con calefactores y recursos para la dotación de gas"
 front: false
 section: "Local"
-news_id: 189883
+redirect_from: /news/189883
 ---
 
 Debido al ingreso de la temporada invernal, el Gobierno del Estado, a través de la Secretaría de Educación y Deporte (SEyD), realizará la entrega de mil 628 calefactores para escuelas del nivel básico de todo el estado.

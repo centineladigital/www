@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En contra de Cecilia Sarabia Ríos."
 image: "/uploads/2021/images-GUSTAVO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ06_GUSTAVO_DE_LA_ROSA.mp3"
 alt: "Denunciará Morena a Presidenta de Asamblea"
 front: false
 section: "Local"
-news_id: 185088
+redirect_from: /news/185088
 ---
 
 Por violación de derechos humanos en contra de los brigadistas al inicio del Conteo en Ciudad Juárez Gustavo De la Rosa denunciará a la Presidenta de la Asamblea Municipal Electoral en Ciudad Juárez, Cecilia Sarabia Ríos.

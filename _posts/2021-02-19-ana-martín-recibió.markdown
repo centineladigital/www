@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz Ana Martín contó su experiencia después de recibir la primera dosis de la vacuna contra el covid-19. "
 image: "/uploads/2021/images-ana-martin-conto-experiencia-recibir.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ana Martín recibió primera dosis de vacuna anticovid; invita a la gente a vacunarse"
 front: false
 section: "Espectáculos"
-news_id: 183040
+redirect_from: /news/183040
 ---
 
 En los últimos días en México comenzó a ponerse la vacuna contra el covid-19 a personas mayores de 60 años, por lo que varios actores ya la han recibido, entre ellos Enrique Guzmán, así como la actriz Ana Martín, quien se mostró feliz después de haber sido vacunada. En una entrevista con el programa De Primera Mano, Ana Martín contó su experiencia al ponerse la vacuna anticovid. La actriz mencionó que su sobrino fue el encargado de inscribirla para poder recibirla. 

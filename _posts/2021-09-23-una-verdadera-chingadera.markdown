@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“Nos están llevando al baile uno por uno. Mañana puedes ser tú”, expresó el expresidente de México"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Una verdadera chingadera”, dice Fox sobre acusación contra 31 investigadores de Conacyt"
 front: false
 section: "Nacional"
-news_id: 187984
+redirect_from: /news/187984
 ---
 
 Luego de que se dio a conocer que se pidió en la Fiscalía General de la República (FGR) la orden de aprehensión contra de 31 investigadores y extrabajadores del Consejo Nacional de Ciencia y Tecnología (Conacyt) por presuntos actos de delincuencia organizada, el rector de la Universidad Nacional Autónoma de México (UNAM), Enrique Graude, calificó esa acción como un “despropósito” y algo “inconcebible”. 

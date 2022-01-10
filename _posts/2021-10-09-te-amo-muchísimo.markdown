@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pepe Aguilar compartió un tierno mensaje en el que dijo que no había palabras para describir correctamente el amor que le tiene a su hija. "
 image: "/uploads/2021/images-pepe-aguilar-compartio-foto-hija_0_10_444_276.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Te amo muchísimo y estoy orgulloso de quien eres -  Pepe Aguilar manda mensaje a Ángela por cumpleaños"
 front: false
 section: "Espectáculos"
-news_id: 188554
+redirect_from: /news/188554
 ---
 
 Una de las familias más unidas es la de los Aguilar, bueno específicamente hablando de la relación padre e hija de Pepe Aguilar y Ángela, quienes han compartido varios momentos juntos durante la gira del cantante mexicano, quien le escribió un tierno mensaje a Ángela por cumplir la mayoría de edad.  En sus redes sociales, Pepe Aguilar compartió un tierno mensaje en el que comenzó diciendo que no había palabras para describir correctamente el amor que le tiene y lo que siempre ha significado Ángela para él. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El ex esposo de Karla Luna, Américo Garza, fue denunciado por los padres de la comediante debido a que el empresario no les permite ver a sus nietas. "
 image: "/uploads/2021/images-padres-karla-luna-buscar-nietas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Américo Garza, esposo de Karla Panini, podría ir a la cárcel por sustracción de menores"
 front: false
 section: "Espectáculos"
-news_id: 185339
+redirect_from: /news/185339
 ---
 
 Tras la muerte de la comediante Karla Luna y que su esposo, Américo Garza, se casara con Karla Panini, quien fue mejor amiga de Luna, se desató la polémica ya que se rumoró que Panini y Garza iniciaron una relación cuando el empresario todavía estaba casado. Ahora, de nueva cuenta la polémica persigue a Américo ya que podría ir a la cárcel por sustracción de menores. 

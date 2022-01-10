@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los agentes asistieron a San Luis Potosí para representar a Chihuahua en las competencias"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Obtienen policías atletas 13 medallas en Juegos Latinoamericanos para elementos de seguridad"
 front: false
 section: "Local"
-news_id: 190890
+redirect_from: /news/190890
 ---
 
 Gracias a su disciplina y a la preparación física que recibieron durante varios meses, siete elementos atletas de la Dirección de Seguridad Pública Municipal que representan a delegación chihuahuense, lograron obtener 13 medallas en los “Juegos Latinoamericanos para Policías y Bomberos”, que se realizan cada año con la participación de concursantes de diferentes partes de México y de otros países.

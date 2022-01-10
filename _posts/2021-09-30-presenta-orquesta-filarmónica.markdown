@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Invita OFECH a su tercer concierto de la Temporada de Otoño 2021 este viernes primero de octubre a las 8 de la noche en el Teatro de Cámara Fernando Saavedra"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-30_at_15.25.54.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presenta Orquesta Filarmónica del Estado de Chihuahua concierto “Música de Cámara I”"
 front: false
 section: "Local"
-news_id: 188252
+redirect_from: /news/188252
 ---
 
 La Secretaría de Cultura, invita a la población al tercer concierto de la Temporada de Otoño 2021 de la Orquesta Filarmónica del Estado de Chihuahua (OFECH), evento que se realizará este viernes primero de octubre en el Teatro de Cámara Fernando Saavedra, en punto de las 8 de la noche. 

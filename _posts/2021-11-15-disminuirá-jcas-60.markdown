@@ -10,11 +10,11 @@ author: nil
 description: "Actualmente el 35 por ciento de las colonias no tienen tandeo."
 image: "/uploads/2021/images-ROCERTO.jpg"
 video: "/uploads/2021/videos-ML04_ROBERTO_LARA.mp4"
-audio: "nil"
+audio: nil
 alt: "Disminuirá JCAS 60 por ciento tandeo"
 front: false
 section: "Local"
-news_id: 189846
+redirect_from: /news/189846
 ---
 
 El que se llegue a que un 60 por ciento de la población no tenga tandeo es lo que aspira la Junta Central de Agua y Saneamiento antes de concluir la presente administración, señaló el titular de esta dependencia Roberto Lara Rocha.

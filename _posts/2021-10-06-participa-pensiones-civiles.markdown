@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“Trabajaremos para  mejorar la operación de los servicios médicos a través de la vocación humanista del personal de salud”: Gutiérrez Dávila"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa Pensiones Civiles del Estado en instalación de Comisión de Salud del Congreso del Estado"
 front: false
 section: "Local"
-news_id: 188434
+redirect_from: /news/188434
 ---
 
 El director general de Pensiones Civiles del Estado (PCE), Francisco Hugo Gutiérrez Dávila, acudió como invitado a la instalación de la Comisión de Salud de la LXVIII Legislatura del Congreso del Estado.

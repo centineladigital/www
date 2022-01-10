@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Claudia Álvarez tendrá una actuación especial en la producción de Rosy Ocampo, Vencer el pasado, y además planea la presentación de su línea de ropa y joyería para el próximo mes."
 image: "/uploads/2021/images-actriz-dedica-desarrollar-negocio-personal_0_29_853_531.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Claudia Álvarez. “El melodrama no muere, solo se renueva”"
 front: false
 section: "Espectáculos"
-news_id: 184065
+redirect_from: /news/184065
 ---
 
 Convencida del efecto que genera el melodrama en los televidentes, luego de su participación en Vencer el desamor, la actriz Claudia Álvarez asegura que abordar el tema de las redes sociales en la nueva producción de Rosy Ocampo, Vencer el pasado, será un gran acierto. “Hablar del poder de las redes sociales en Vencer el pasado seguro será muy positivo, sobre todo si consideramos que en ocasiones pueden vivirse situaciones muy lamentables. Por ejemplo, pasa que una persona que tiene una vida maravillosa en lo personal y profesional, por una experiencia que vive en redes sociales llega a destrozar su vida.  Desafortunadamente el efecto que puede causar un video o algo que dicen de ti a veces es muy dañino. Por eso lo interesante del tratamiento que le dará Rosy en la nueva producción que prepara, en la que mi personaje, Ariadna, que hice en Vencer el desamor, es el hilo conductor para dar pie a la nueva trama”, explicó la actriz. 

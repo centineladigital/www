@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Adquisición de medicamentos, atención de la pandemia, prevención de muerte materna y acercamiento de servicios de salud a comunidades serranas, se impulsarán con el presupuesto del 2022"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Proyecta Secretaría de Salud recurso por 7 mil millones 353 mil 198 pesos para el 2022"
 front: false
 section: "Local"
-news_id: 190656
+redirect_from: /news/190656
 ---
 
 En el marco de la comparecencia ante el Congreso del Estado, el secretario de Salud, Felipe Fernando Sandoval Magallanes, informó que en 2022 se trabajará con un presupuesto global de 7 mil millones 353 mil 198 pesos, de los cuales hasta el momento se encuentran presupuestados 177 millones 337 mil 382 pesos para la continuidad de atención de la pandemia por COVID-19.

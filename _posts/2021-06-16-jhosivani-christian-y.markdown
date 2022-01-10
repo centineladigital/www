@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ayer se informó que forenses identificaron los restos de Jhosivani Guerrero de la Cruz; reiteran que la llamada ‘verdad histórica’ no tiene base científica"
 image: "/uploads/2021/images-2595978.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jhosivani, Christian y Alexander, los normalistas identificados de Ayotzinapa"
 front: false
 section: "Nacional"
-news_id: 185053
+redirect_from: /news/185053
 ---
 
 Forenses identificaron los restos de un tercer estudiante, del grupo de 43 que desapareció en septiembre de 2014 en el sur de México, informaron este martes la Fiscalía y representantes de las familias.

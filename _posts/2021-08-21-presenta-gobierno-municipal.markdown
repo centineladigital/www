@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El informe estuvo a cargo de la directora del instituto, Margarita Blackaller, en calidad de coordinadora nacional, donde reconoció el esfuerzo, dedicación, compromiso y la profesionalización de las 53 directoras que integran el comité   "
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Presenta Gobierno Municipal trabajos de prevención de la violencia y desarrollo de la mujer ante la ANAC"
 front: false
 section: "Local"
-news_id: 186980
+redirect_from: /news/186980
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM), presentó ante las instancias de la mujer pertenecientes a la Asociación Nacional de Alcaldes (ANAC) las actividades realizadas por parte del Comité Nacional Técnico del Instituto Municipal de la Mujer durante la gestión 2020-2021.

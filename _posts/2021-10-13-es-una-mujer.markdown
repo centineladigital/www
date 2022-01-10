@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante señaló que su relación con María Conchita Alonso fue muy sonada en su momento; aseguró que recibieron múltiples críticas que no afectaron su romance. "
 image: "/uploads/2021/images-erik-rubin-responde-criticas-romance_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es una mujer increíble -  Erik Rubín responde a críticas por romance con María Conchita Alonso"
 front: false
 section: "Espectáculos"
-news_id: 188706
+redirect_from: /news/188706
 ---
 
 María Conchita Alonso volvió a dar de qué hablar tras revelar detalles del romance que tuvo con el cantante Erik Rubín, a quien calificó de "muy lindo" y aseguró que fue alguien importante en su vida, pero no estaba enamorada. Ahora, el ex Timbiriche habló por primera vez de su relación amorosa e hizo frente a las críticas que recibió al darse a conocer esa historia de su pasado. En una entrevista para el programa Sale el Sol, Erik Rubín -ahora esposo de Andrea Legarreta- señaló que el no considera que su romance con María Conchita Alonso sea una situación controversial, además expresó su cariño por la cantante.  

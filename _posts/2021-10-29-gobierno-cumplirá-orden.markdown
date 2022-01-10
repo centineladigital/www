@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente López Obrador afirmó que su administración respetará todos los mandatos del Poder Judicial y no se incumplirá con ninguna responsabilidad legal"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobierno cumplirá orden del juez para vacunar a menores de edad -  AMLO"
 front: false
 section: "Nacional"
-news_id: 189334
+redirect_from: /news/189334
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que su gobierno cumplirá con la orden de un juez que dio un plazo de cinco días para iniciar un plan para vacunar contra Covid-19 a los menores de entre 12 a 17 años de edad sin condicionante en su estado de salud.

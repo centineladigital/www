@@ -10,11 +10,11 @@ author: nil
 description: "Esta es la primera de otras reuniones, afirma comité de transición."
 image: "/uploads/2021/images-GRAMER.jpg"
 video: "/uploads/2021/videos-MJ02_YADIRA_GRAMER.mp4"
-audio: "nil"
+audio: nil
 alt: "Inician reuniones de entrega-recepción en Consejería Jurídica"
 front: false
 section: "Local"
-news_id: 186358
+redirect_from: /news/186358
 ---
 
 Este jueves se llevó a cabo la primer reunión entre el equipo de transición e integrantes de la Consejería Jurídica, según lo dio a conocer Yadira Anette Gramer Quiñones, quien representó a la Gobernadora María Eugenia Campos Galván.

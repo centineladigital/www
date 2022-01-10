@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "“Más que (querer) vengarse, era buscar realmente que las cosas fueran más de igual a igual sin importar las clases sociales”, dijo Fernández sobre su personaje. "
 image: "/uploads/2021/images-pedro-fernandez-escena-serie-malverde.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hice un viaje a Culiacán -  Pedro Fernández revela que le 'pidió permiso' a Malverde para personificarlo"
 front: false
 section: "Espectáculos"
-news_id: 188131
+redirect_from: /news/188131
 ---
 
 Pedro Fernández reveló que para dar vida a Jesús Malverde en la serie  de Telemundo Malverde: El Santo Patrón, que se estrena el martes 28 de septiembre, se encomendó a él en su capilla. “Hice un viaje a Culiacán, Sinaloa, para visitar su capilla, pedirle su permiso de poder personificarlo, de poder llevar a cabo su historia”, dijo Fernández en una entrevista reciente por videollamada desde Los Ángeles. “Con mucho respeto, a todos sus fieles y con mucho respeto hacer mi mejor trabajo para llevarlo a la pantalla”. 

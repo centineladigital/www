@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Un total de 120 personas que laboran en los hospitales COVID-19 pertenecientes a la Secretaría de Salud Chihuahua, recibieron este jueves la Condecoración Miguel Hidalgo Grado Banda, por las conductas ejemplares que mostraron durante la emergencia sanitaria"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recibe personal de unidades COVID-19 la Condecoración Miguel Hidalgo"
 front: false
 section: "Local"
-news_id: 190468
+redirect_from: /news/190468
 ---
 
 Un total de 120 personas que laboran en los hospitales COVID-19 pertenecientes a la Secretaría de Salud Chihuahua, recibieron este jueves la Condecoración Miguel Hidalgo Grado Banda, por las conductas ejemplares que mostraron durante la emergencia sanitaria.

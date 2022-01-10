@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Renaud dijo que esta dinámica de extra no le gustó, pues estaba todo el día, sólo paso por atrás y ves la tele y no te ves. "
 image: "/uploads/2021/images-michelle-renaud-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La cosa más horrible -  Michelle Renaud revela el maltrato que sufrió en la telenovela 'Rebelde'"
 front: false
 section: "Espectáculos"
-news_id: 184494
+redirect_from: /news/184494
 ---
 
 Michelle Renaud es una actriz mexicana que comenzó su carrera en la televisión con el pie derecho, pues formó parte de una de las telenovelas juveniles más exitosas en México: Rebelde. Aunque su participación en dicha producción no resultó fácil, pues antes de conseguir un papel fijo tuvo que ser extra, así lo recordó la famosa en una entrevista para el podcast Pinky Promise.  "Entré de extra en Rebelde y dije: '¿Qué es esto? No quiero'. Es la cosa más horrible ahí, la verdad, siempre lo he dicho; no era muy bonito que digamos, nos trataban muy mal", reveló la actriz. 

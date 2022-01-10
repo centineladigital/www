@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Suman 4 mil 460 chamarras y 72 toneladas de alimentos entregados en 7 días de distribución"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúa DIF Estatal con la entrega de chamarras y paquetes alimenticios en zonas prioritarias de Sierra Tarahumara"
 front: false
 section: "Local"
-news_id: 190424
+redirect_from: /news/190424
 ---
 
 Gracias al apoyo de los chihuahuenses que han participado en la campaña solidaria ¡Juntos sin frío! que lleva a cabo el DIF Estatal, se ha logrado una distribución de 4 mil 460 chamarras a niños niñas y adolescentes que habitan en 50 localidades ubicadas en los municipios de Balleza, Guachochi, Batopilas, Guadalupe y Calvo, Urique y Bocoyna.

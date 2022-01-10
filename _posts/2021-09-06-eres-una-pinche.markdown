@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue este fin de semana cuando los roces en ‘La Casa de los Famosos’ de Telemundo explotaron al máximo, pues después de varias ocasiones de tensión entre Anahí Izali y Celia Lora todo culminó en una pelea verbal. "
 image: "/uploads/2021/images-anahi-izali-celia-lora-enfrentan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Eres una pinche asesina -  Anahí Izali 'explota' contra Celia Lora en 'La casa de los famosos'"
 front: false
 section: "Espectáculos"
-news_id: 187455
+redirect_from: /news/187455
 ---
 
 El reality ‘La Casa de los Famosos’ de Telemundo ya reflejó la pelea más polémica del show. El pleitazo que fue captado gracias a las grabaciones 24/7 se dio entre Celia Lora y Anahí Izali, quienesdesde el inicio del programa han mostrado su desagrado. ¿Qué sucedió? Resulta que Anahí Izali enfrentó verbalmente a Celia Lora a tal punto que la llamó ‘asesina’ y le recordó la vez que estuvo en prisión. ¿Cómo reaccionó la hija de Alex Lora? 

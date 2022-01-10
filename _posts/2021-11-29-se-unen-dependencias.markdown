@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Desde la apertura de refugios hasta los cuidados básicos que hay que tener con los calefactores"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se unen dependencias municipales para prevenir incidentes por temporada invernal"
 front: false
 section: "Local"
-news_id: 190319
+redirect_from: /news/190319
 ---
 
 El Gobierno Municipal inició una campaña de difusión y prevención para evitar incidentes relacionados a la temporada invernal, a fin de que los chihuahuenses no se conviertan en víctimas de incendios, explosiones o del monóxido de carbono, la cual será llevada a cabo en coordinación con el DIF, la Coordinación de Protección Civil Municipal y la Subdirección de Bomberos.

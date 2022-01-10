@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Entrega Javier Corral las nuevas instalaciones en las que funcionará el acelerador lineal de última generación, equipo que hará posible personalizar los rayos X de alta energía, para que se ajusten a la forma del tumor y destruyan las células cancerosas sin afectar el tejido circundante"
 image: "/uploads/2021/images-ENTREGA_CENTRO_ESTATAL_DE_CANCEROLOGÍA_(1).JPG"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MENSAJE_CORRAL_ENTREGA_CECAN_CHIHUAHUA___3-8-21.MP3"
 alt: "Se cumple sueño chihuahuense con Centro Estatal de Cancerología; inversión es de 164 mdp"
 front: false
 section: "Local"
-news_id: 186254
+redirect_from: /news/186254
 ---
 
 El gobernador Javier Corral entregó la remodelación Centro Estatal de Cancerología (Cecan), donde operará el acelerador lineal de última generación, obras y equipamiento realizadas con una inversión total de 164.5 millones de pesos (mdp).

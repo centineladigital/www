@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente López Obrador dijo que los asistentes a su informe y al AMLOFEST ya están vacunados y saben cuidarse, por lo que el uso del cubrebocas es opcional"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prohibido prohibir, dice AMLO sobre uso de cubrebocas en su concentración masiva en el Zócalo"
 front: false
 section: "Nacional"
-news_id: 190334
+redirect_from: /news/190334
 ---
 
 Con la consigna de prohibido prohibir, el presidente Andrés Manuel López Obrador aseguró que quien quiera llevar cubrebocas, “lo puede hacer” como medida sanitaria para la concentración masiva de este miércoles en el Zócalo capitalino donde celebrará el tercer aniversario de que llegó a la Presidencia de México.

@@ -10,11 +10,11 @@ author: nil
 description: "Entablan relación con laboratorios privados."
 image: "/uploads/2021/images-LETICIA.jpg"
 video: "/uploads/2021/videos-MW02_LETICIA_RUIZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Sin confirmar presencia de variante Delta en Chihuahua"
 front: false
 section: "Local"
-news_id: 186298
+redirect_from: /news/186298
 ---
 
 De forma oficial no se ha confirmado personas contagiadas de la variante delta, afirmó la Directora de Medicina Preventiva y Promoción de la Salud Leticia Ruiz González. Esto al ser cuestionada ya que de forma extraoficial se ha manejado la presencia de esta variante de coronavirus en algunos municipios.

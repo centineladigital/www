@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con este se cierra el ciclo que comenzó hace 8 años con la emisión de la nueva familia G de billetes a cargo del Banxico"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Relieves y fluorescencia -  conoce todas las características del nuevo billete de 50 pesos"
 front: false
 section: "Nacional"
-news_id: 189331
+redirect_from: /news/189331
 ---
 
 El nuevo billete de 50 pesos fue presentado por el gobernador del Banco de México (Banxico),  Alejandro Díaz de León. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Nacieron una niña y dos niños; su estado de salud es satisfactorio"
 image: "/uploads/2021/images-Foto_314-3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Médicos del IMSS en Coahuila logran nacimiento exitoso de trillizos; la madre cursó embarazo de alto riesgo"
 front: false
 section: "Local"
-news_id: 185874
+redirect_from: /news/185874
 ---
 
 Un equipo multidisciplinario de médicos pediatras y anestesiólogos del Hospital General de Zona (HGZ) No. 11 en Piedras Negras, Coahuila, del Instituto Mexicano del Seguro Social (IMSS), hizo posible el nacimiento de trillizos; la madre de 28 años había registrado un embarazo primerizo de alto riesgo.

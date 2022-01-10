@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El confinamiento por la pandemia obligó a los artistas a cancelar todos sus shows en vivo; así que varios entregaron su música para librar la crisis. "
 image: "/uploads/2021/images-artistas-vendido-catalogo-musical-covid.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Sobrevivir a la pandemia! Artistas tienen que vender su catálogo a falta de conciertos"
 front: false
 section: "Espectáculos"
-news_id: 186160
+redirect_from: /news/186160
 ---
 
 Artistas consolidados como Bob Dylan, Stevie Nicks, Neil Young y Taylor Swift, así como la banda Imagine Dragons son algunos de los que han decidido vender los derechos de explotación de su discografía, con la que han obtenido ganancias estratosféricas.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Matt Damon se encuentra de rodaje en Australia, donde se está filmando actualmente Thor: Love and Thunder. "
 image: "/uploads/2021/images-matt-damon-participar-thor-love.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿De vuelta al Universo Marvel? Matt Damon participaría en 'Thor -  Love and Thunder'"
 front: false
 section: "Espectáculos"
-news_id: 182219
+redirect_from: /news/182219
 ---
 
 Matt Damon podría ser el nuevo fichaje estrella para Thor: Love and Thunder, la cuarta entrega de la saga protagonizada por Chris Hemsworth que, tras revolucionar la franquicia con Ragnarok (2017), volverá a contar con la dirección de Taika Waititi. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El programa lleva un avance de más del 50% de las escuelas participantes"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Van 118 escuelas sanitizadas por el Gobierno Municipal"
 front: false
 section: "Local"
-news_id: 190116
+redirect_from: /news/190116
 ---
 
 Como parte de las acciones de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, ha sanitizado 118 planteles educativos inscritos en el programa “Medidas de Prevención en tu Escuela COVID-19”.

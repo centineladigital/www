@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue la primera película animada de Disney que dejó de lado las canciones para contar una historia más profunda, basada en la filosofía y la mitología, y con más acción. "
 image: "/uploads/2021/images-atlantis-pelicula-animada-disney-canciones.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Una película de culto? 'Atlantis -  El imperio perdido' cumple 20 años"
 front: false
 section: "Espectáculos"
-news_id: 184913
+redirect_from: /news/184913
 ---
 
 En junio de 2001, Disney estrenó Atlantis: el imperio perdido (se proyecto por primera vez a principios de junio y se lanzó mundialmente el 15 del mismo mes, aunque llegó a México en julio), que en ese entonces no fue un éxito en taquilla, por lo que la compañía la metió en la categoría de fracasos, pero 20 años después para muchos cinéfilos se ha convertido en una cinta de culto por su mezcla de filosofía, mitología, ciencia-ficción, acción y aventuras. 

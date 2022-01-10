@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor de 'Vecinos' ya recibió ambas dosis de covid-19, pero le fue detectado el virus al realizarle una prueba en un set de filmación. "
 image: "/uploads/2021/images-cesar-bono-ha-tenido-ocho.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Ya tenía las dos vacunas”; César Bono da positivo a covid-19"
 front: false
 section: "Espectáculos"
-news_id: 186427
+redirect_from: /news/186427
 ---
 
 En medio de la tercera ola de covid-19 cada vez son más los famosos que revelan que tienen coronavirus, recientemente Larry Hernández alertó a sus fans al presentar complicaciones por el virus. Ahora es César Bono, quien dio positivo al SARS-CoV-2. 

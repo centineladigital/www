@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Lo anterior se llevó a cabo en el marco del “Día Internacional de las Personas con Discapacidad”, celebrado este 03 de noviembre."
 image: "/uploads/2021/images-Foto_FN_6030-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza IMSS Chihuahua XXXII Foro Institucional de Discapacidad e Inclusión "
 front: false
 section: "Local"
-news_id: 190491
+redirect_from: /news/190491
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, realizó este vienes el XXXII Foro Institucional de Discapacidad e Inclusión en el auditorio del Hospital General Regional (HGR) No. 01, “Morelos”, ubicado en esta ciudad capital.

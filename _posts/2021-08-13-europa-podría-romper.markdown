@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las olas de calor han agravado los incendios forestales en Europa y África; de continuar la tendencia, la temperatura máxima podría superarse pronto"
 image: "/uploads/2021/images-onda-calor-sicilia-record-registrado_0_6_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Europa podría romper récord de calor con temperaturas de hasta 50 grados -  expertos"
 front: false
 section: "Internacional"
-news_id: 186639
+redirect_from: /news/186639
 ---
 
 La Organización Meteorológica Mundial (OMM) señaló que está verificando si se batió el récord de temperaturas en Europa con la ola de calor de 48.8 grados en la isla italiana de Sicilia, aunque subrayó que, con la tendencia actual, esa marca volverá a romperse y pronto podrían superarse los 50 grados. 

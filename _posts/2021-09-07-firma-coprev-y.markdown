@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el Programa de Vinculación para Intervenciones en Salud Mental, Suicidio y Adicciones"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Firma COPREV y asociaciones civiles carta intención para la prevención del suicidio"
 front: false
 section: "Local"
-news_id: 187508
+redirect_from: /news/187508
 ---
 
 El Consejo de Prevención Social de la Violencia y la Delincuencia del municipio de Chihuahua (COPREV), a través de su Comisión de Juventud, llevó a cabo una firma de una carta intención con asociaciones civiles para trabajar en la prevención del suicidio en adolescentes y jóvenes.

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Gracias a su agilidad y rapidez al actuar, se neutraliza a delincuentes y salvan vidas"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Grupo Canino K9 de la Policía Municipal, más de 28 años de salvaguardar la vida de agentes"
 front: false
 section: "Local"
-news_id: 190081
+redirect_from: /news/190081
 ---
 
 Gracias al grupo especial canino K9, que forma parte de la Dirección de Seguridad Pública Municipal y que cuenta con un poco más de 28 años al servicio de los chihuahuenses, se han logrado realizar detenciones, rescates de personas y salvaguardar la vida de agentes y de terceros que se encuentran en situaciones de peligro.

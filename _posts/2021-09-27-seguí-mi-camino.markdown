@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Primero, el famoso reveló cómo conoció a su ex: En los pasillos de Televisa y no me caía muy bien, me caía gordilla; es una mujer muy guapa, pero no me llevaba bien. "
 image: "/uploads/2021/images-juan_soler.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Seguí mi camino -  Juan Soler revela por qué se divorció de Maki"
 front: false
 section: "Espectáculos"
-news_id: 188089
+redirect_from: /news/188089
 ---
 
 El actor argentino Juan Soler acudió al programa El minuto que cambió mi destino, que conduce el periodista Gustavo Adolfo Infante, donde habló de varios aspectos profesionales y personales, aunque lo que más llamó la atención de los espectadores fue el tema de su ex pareja, Maki.  Primero, el famoso reveló cómo la conoció: "En los pasillos de Televisa y no me caía muy bien, me caía gordilla; es una mujer muy guapa, pero no me llevaba bien. Yo grababa en foro 8, estaba haciendo La Otra, y ella estaba haciendo El juego de la vida; compartíamos el pasillo que nos llevaba a camerinos y nos saludábamos siempre". 

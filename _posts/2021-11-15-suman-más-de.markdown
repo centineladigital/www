@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " Las familias chihuahuenses disfrutaron la presentación de 10 compañías de danza regionales y nacionales"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suman más de 5 mil chamarras en festival de danza folklórica para campaña “Abrigos que abrazan”   "
 front: false
 section: "Buenas Noticias"
-news_id: 189842
+redirect_from: /news/189842
 ---
 
 El alcalde de Chihuahua, Marco Bonilla Mendoza y la presidenta del DIF Municipal, Karina Olivas, encabezaron un festival de danza folklórica que se llevó en la Plaza de Armas, con el fin de invitar a la ciudadanía donar y ser parte de la campaña invernal “Abrigos que abrazan”, donde se sumaron más de 5 mil chamarras.

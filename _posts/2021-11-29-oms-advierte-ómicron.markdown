@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Organización señala que podría haber futuros picos de Covid-19, que podrían tener consecuencias severas"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "OMS advierte -  ómicron es un riesgo muy alto para el mundo"
 front: false
 section: "Internacional"
-news_id: 190291
+redirect_from: /news/190291
 ---
 
 La nueva variante ómicron del coronavirus presenta "un riesgo muy elevado" para el mundo, advirtió este lunes la Organización Mundial de la Salud (OMS), paralelamente al aumento del número de países donde ha sido detectada, una situación que ha hecho que el G7 se reúna de urgencia durante la jornada.

@@ -10,11 +10,11 @@ author: nil
 description: "Se lleva a cabo un análisis para conocer los grupos que prestan el servicio."
 image: "/uploads/2021/images-gil.jpg"
 video: "/uploads/2021/videos-MW02_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Sin vigencia la mayoría de agencias de seguridad privada"
 front: false
 section: "Local"
-news_id: 189936
+redirect_from: /news/189936
 ---
 
 La mayoría de las empresas de seguridad privada en la ciudad de Chihuahua no cuentan con la autorización vigente, señaló el titular de la Secretaría de Seguridad Pública Estatal, Gilberto Loya Chávez. Esto ya que muchos no cuentan con un permiso que otorga la misma dependencia que él encabeza.

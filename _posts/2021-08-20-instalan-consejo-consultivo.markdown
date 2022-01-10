@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se busca que Chihuahua no solamente se siga fortaleciendo como un estado productor, sino que agregue valor a este sector y siga siendo reconocido por la calidad de su producto  "
 image: "/uploads/2021/images-DSC_6891.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instalan Consejo Consultivo de la Cadena Agroalimentaria de la Carne en Chihuahua"
 front: false
 section: "Local"
-news_id: 186957
+redirect_from: /news/186957
 ---
 
 El gobernador Javier Corral declaró formalmente instalado el Consejo Consultivo de la Cadena Agroalimentaria de la Carne en Chihuahua y tomó la protesta como presidente del organismo que busca darle valor agregado a los productos cárnicos, a Eduardo Prieto Rodríguez.

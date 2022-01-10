@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Participaron hospitales de segundo y tercer nivel del IMSS de todo el país; se logró realizar trasplantes renales, de córnea e hígado.  "
 image: "/uploads/2021/images-Foto_454-6.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En la 9ª Jornada Nacional de Recuperación de Servicios se realizaron casi tres mil cirugías y más de 62 mil consultas"
 front: false
 section: "Local"
-news_id: 188614
+redirect_from: /news/188614
 ---
 
 

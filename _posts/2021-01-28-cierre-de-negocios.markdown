@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Comerciantes exigen la apertura de sus negocios que han permanecido cerrados por más de nueve meses"
 image: "/uploads/2021/images-2520078.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cierre de negocios deja 150 mil desempleados en el Centro Histórico"
 front: false
 section: "Nacional"
-news_id: 182538
+redirect_from: /news/182538
 ---
 
 Unos 25 mil comerciantes establecidos del Centro Histórico, exigieron a las autoridades de la Ciudad de México la apertura de sus negocios que han permanecido cerrados por más de nueve meses.

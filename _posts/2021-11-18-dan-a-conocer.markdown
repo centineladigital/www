@@ -10,11 +10,11 @@ author: nil
 description: "Hasta el 3 de enero se tiene un descuento por semestre."
 image: "/uploads/2021/images-UPCH.jpg"
 video: "/uploads/2021/videos-MJ03_HUSSEIN.mp4"
-audio: "nil"
+audio: nil
 alt: "Dan a conocer Oferta académica de la UPCH"
 front: false
 section: "Local"
-news_id: 189973
+redirect_from: /news/189973
 ---
 
 Con el fin de que jóvenes puedan tener más espacios educativos este jueves se dio a conocer la oferta académica de la Universidad Politécnica de Chihuahua, así como la apertura para la entrega de fichas de nuevo ingreso a sus campos que se encuentra en el área del parque El Reliz.

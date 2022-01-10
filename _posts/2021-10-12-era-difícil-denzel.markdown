@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Denzel Washington es uno de los actores más reconocidos de Hollywood, sin embargo, antes de saltar ala fama fue recolector de basura. "
 image: "/uploads/2021/images-en-su-juventud-el-actor.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Era difícil -  Denzel Washington y el día que reveló que fue basurero antes de ser actor"
 front: false
 section: "Espectáculos"
-news_id: 188651
+redirect_from: /news/188651
 ---
 
 En Hollywood hay muchos famosos que gracias a su perseverancia ahora son muy reconocidos y protagonizan importantes películas, algunos de ellos son hijos de otros grandes histriones, pero también hay otros a quienes les ha costado trabajo destacar y que antes de estar en el medio realizaban otros trabajos como Denzel Washington. A lo largo de su carrera Denzel Washington ha protagonizado varias películas, la mayoría de ellas de acción como El justiciero, Hombre en llamas, El Vuelo, Gánster Americano, entre muchas otras, pero antes de llegar a Hollywood fue recolector de basura. 

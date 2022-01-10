@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El nuevo video de Katy Perry explora una isla llena de aventuras junto con Pikachu y Pichu, en un faro que recuerda a uno de los videojuegos clásicos de la franquicia.  "
 image: "/uploads/2021/images-pikachu-katy-perry-lanza-electric.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Yo te elijo! Katy Perry estrena 'Electric' junto a Pikachu por 25 aniversario de Pokémon"
 front: false
 section: "Espectáculos"
-news_id: 184457
+redirect_from: /news/184457
 ---
 
 Este año, Pokémon cumplió 25 años desde el lanzamiento de sus primeras ediciones para el Game Boy, es por ello que decidieron festejar a lo grande con música, y qué mejor que al lado de artistas como Post Malone, J Balvin, y desde luego, la popular Katy Perry, quien lanzó un nuevo sencillo, Electric, acompañado por Pikachu y Pichu, dos queridas criaturas de la franquicia. Como parte de los festejos ya habíamos visto un impresionante concierto con Post Malone, acompañado por decenas de Pokémon en un escenario virtual y a J Balvin siendo anunciado en el evento; también vimos la salida del New Pokémon Snap y esperamos con ansias los juegos Pokémon Diamante Brillante | Perla Reluciente y Pokémon Legends: Arceus, la espera se ameniza gracias al nuevo gran tema de Katy Perry, el soundtrack perfecto para más aventuras con amigos. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El compromiso es llegar a cada rincón del Estado y brindar ayuda para que nuestra gente esté bien alimentada"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_09.27.20.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Audio_Guillermo_Fragoso.mp4"
 alt: "Beneficia DIF Estatal a cerca de 90 mil personas con paquetes alimentarios"
 front: false
 section: "Local"
-news_id: 188125
+redirect_from: /news/188125
 ---
 
 En lo que va del presente mes de septiembre, el DIF Estatal Chihuahua ha beneficiado a 89 mil 542 chihuahuenses que viven en alta y muy alta marginación, mediante la distribución de paquetes alimentarios.

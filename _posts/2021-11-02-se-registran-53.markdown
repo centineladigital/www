@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Al momento en la entidad han perdido la vida por COVID-19 8 mil 135 casos, con un fallecimiento nuevo reportado en el municipio de Bocoyna.   "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 53 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 189473
+redirect_from: /news/189473
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 2 de noviembre el reporte COVID-19, en el cual se registran 81 mil 609 (+53) casos confirmados en la entidad.

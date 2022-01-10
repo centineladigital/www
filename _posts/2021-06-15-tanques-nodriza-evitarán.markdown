@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Entrega Gobernador Javier Corral cinco de los 40 contenedores que serán llevados a 37 municipios; realiza gira de trabajo por Casas Grandes al continuar el Maratón de Obras 2021"
 image: "/uploads/2021/images-DSC_2974.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tanques nodriza evitarán que chihuahuenses caminen largas horas en busca de un balde de agua potable"
 front: false
 section: "Local"
-news_id: 185041
+redirect_from: /news/185041
 ---
 
 Al entregar cinco tanques nodriza para llevar agua potable a comunidades apartadas de Casas Grandes, Ignacio Zaragoza, Galeana, Gómez Farías y Ascensión, en el segundo día del Maratón de Obras 2021, el gobernador Javier Corral Jurado, señaló que seguirá sacando recursos de donde sea, con reajustes o redistribución, para llevarlos a donde más se necesitan.

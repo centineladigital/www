@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Toma tus precauciones ante el uso de calefactores"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Descenderá la temperatura en la ciudad este fin de semana -  Protección Civil Municipal"
 front: false
 section: "Local"
-news_id: 190712
+redirect_from: /news/190712
 ---
 
 Debido al frente frío número 13 que se desplaza sobre el norte del país, este fin de semana, se espera un descenso en la temperatura en la ciudad, por ello es importante acatar las recomendaciones que emite la Coordinación Municipal de Protección Civil, para evitar enfermedades respiratorias y accidentes derivados del uso de calefactores a gas o leña.

@@ -12,11 +12,11 @@ author: nil
 description: "Le hubiera gustado aportar más en materia de seguridad "
 image: "/uploads/2021/images-Emilio_García.jpg"
 video: "/uploads/2021/videos-_BV02_EMILIO_GARCIA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Fue un reto gratificante estar en Chihuahua -  Emilio García Ruiz"
 front: false
 section: "Local"
-news_id: 187415
+redirect_from: /news/187415
 ---
 
 El secretario de seguridad pública estatal Emilio García Ruiz expresó que fue un reto estar en el estado de Chihuahua ya que fue una experiencia gratificante aunque le hubiera gustado tener mejores resultados para hacer en el tema de recuperación de espacios públicos.

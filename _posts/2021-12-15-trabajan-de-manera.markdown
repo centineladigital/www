@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Los agentes de Seguridad Publica explicaron el protocolo que siguen en caso de recibir reporte de violencia"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabajan de manera coordinada, Instituto Municipal de las Mujeres y Policías   "
 front: false
 section: "Local"
-news_id: 190885
+redirect_from: /news/190885
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM) y la Dirección de Seguridad Pública Municipal (DSPM), reafirmaron el compromiso de trabajar coordinados para la prevención de la violencia contra niñas, niños y adolescentes, así como la prevención de violencia de género a través de la Unidad de Atención a la Violencia Familiar (UAVI) y de la Plataforma Escudo Chihuahua.

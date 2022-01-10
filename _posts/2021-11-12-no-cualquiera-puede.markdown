@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantautor fusiona su estilo con el regional mexicano de Carin León."
 image: "/uploads/2021/images-kurt-busca-seguir-conectando-fans.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“No cualquiera puede ponerse el sombrero”; Kurt."
 front: false
 section: "Espectáculos"
-news_id: 189808
+redirect_from: /news/189808
 ---
 
 En la era de las colaboraciones y la destrucción de la segmentación de los géneros, pocas son las fusiones musicales que permean en el oyente y que buscan ser, musicalmente, algo más allá que un simple gancho mercadológico. Para el cantautor sinaloense Kurt, quien se ha ido abriendo camino entre la maraña de propuestas de las que se conforma la escena de la industria musical actual, el colaborar junto a Carin León en “No Te Olvido” significa mucho más que la unión de públicos, pues para él representa el dar un paso en otro mundo, pero sin dejar de ser quien es y sin alterar la música que ha sido bien acogida por sus fans desde el inicio de su carrera.

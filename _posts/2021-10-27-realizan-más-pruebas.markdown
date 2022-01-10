@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Por la buena respuesta se extendió la agenda hasta el mes de noviembre en el CAAPS Nogales"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizan más pruebas gratuitas de cáncer de mama, papanicolaou y VPH a mujeres chihuahuenses"
 front: false
 section: "Local"
-news_id: 189255
+redirect_from: /news/189255
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM), ofreció el pasado 25 de octubre, 25 pruebas gratuitas para la detección oportuna de cáncer de mama, papanicolaou y VPH, dentro del marco de la conmemoración del Día Mundial de la Lucha contra el Cáncer de Mama.

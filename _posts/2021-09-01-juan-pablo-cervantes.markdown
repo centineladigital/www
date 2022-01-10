@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Juan Pablo Cervantes consiguió la medalla de bronce en los 100 metros T54"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Juan Pablo Cervantes suma la octava medalla de bronce para México en Juegos Paralímpicos"
 front: false
 section: "Deportes"
-news_id: 187310
+redirect_from: /news/187310
 ---
 
 Los buenos resultados para la delegación mexicana en los Juegos Paralímpicos se mantienen. Las preseas siguen cayendo y en esta ocasión se consiguió el octavo bronce gracias a Juan Pablo Cervantes, que lo consiguió en los 100 metros T54.

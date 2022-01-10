@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Agentes de varios países se han atrevido a contar los riesgos y el tormento que han vivido en medio de las masivas evacuaciones en Afganistán"
 image: "/uploads/2021/images-agentes-testigos-angustia-desesperacion-aeropuerto_0_35_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presiones y desesperación -  pilotos cuentan el tormentoso escenario en aeropuerto de Kabul"
 front: false
 section: "Internacional"
-news_id: 187032
+redirect_from: /news/187032
 ---
 
 Condiciones de aproximación difíciles entre montañas escarpadas, riesgo de ataques, despegues arrojando señuelos para desviar misiles, refugiados exhaustos y hacinados... Varios pilotos que participan en las evacuaciones desde Kabul relatan las dramáticas operaciones realizadas "bajo su propio riesgo", como les advierte la torre de control cada vez. 

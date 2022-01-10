@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La originaria de Chihuahua buscará llevarse la corona del certamen de belleza; aquí te contamos más de su trayectoria."
 image: "/uploads/2021/images-andrea-meza-representante-mexico-miss.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ella es Andrea Meza, representante de México en Miss Universo 2021"
 front: false
 section: "Espectáculos"
-news_id: 184472
+redirect_from: /news/184472
 ---
 
 Andrea Meza es una de las candidatas favoritas para llevarse la corona de Miss Universo 2021, certamen de belleza que celebrará su edición número 69 en un año atípico marcado por la pandemia de covid-19. La contienda por el título tendrá que realizarse bajo estrictas medidas sanitarias, pero no por ello carente de glamour, una noche en la que la mexicana buscará conquistar al jurado con su carisma y belleza.

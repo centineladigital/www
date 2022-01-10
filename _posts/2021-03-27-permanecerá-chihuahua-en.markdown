@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Advierte el secretario de Salud, Eduardo Fernández Herrera que hay indicadores a la alza como la transmisibilidad del virus y de ocupación hospitalaria, por lo que la gente no debe actuar como si ya se hubiera terminado la pandemia"
 image: "/uploads/2021/images-DAH_2674.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Permanecerá Chihuahua en Semáforo Amarillo pero llaman a extremar cuidados"
 front: false
 section: "Local"
-news_id: 183585
+redirect_from: /news/183585
 ---
 
 El secretario de  Salud estatal, Eduardo Fernández Herrera, informó que el estado de Chihuahua permanecerá en semáforo amarillo durante los próximos 15 días, sin embargo, exhortó a la población a extremar cuidados para evitar que se sigan incrementando los casos.

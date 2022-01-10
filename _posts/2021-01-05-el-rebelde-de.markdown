@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las películas de Las Crónicas de Narnia fueron un éxito y gracias a ellas el actor que interpretó a Edmund Pevensie se dio a conocer. Te contamos que ha sido de él. "
 image: "/uploads/2021/images-skandar-keynes-vida-edmund-pevensie_4_0_1044_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El rebelde de la familia, así luce hoy Edmund Pevensie de 'Las Crónicas de Narnia'"
 front: false
 section: "Espectáculos"
-news_id: 181883
+redirect_from: /news/181883
 ---
 
 Las Crónicas de Narnia son películas que durante los años 2000 causaron sensación, las producciones derivadas de los libros escritos por C. S Lewis contaron con tres adaptaciones entre ellas: El león, la bruja y el ropero; El príncipe Caspian, así como La travesía del viajero del Alba, en las tres participó Skandar Keynes, quien dio vida a Edmund Pevensie. En la primera película de Las Crónicas de Narnia, después de que Edmund Pevensie conoce a la Bruja Blanca, sus hermanos hacen lo posible por rescatarlo, es aquí donde conocen a Aslan y demás personajes que los ayudaran a traer a su hermano de regreso y a liberar a Narnia. Si recuerdas al rebelde de estos hermanos, a continuación, te contamos que ha sudo del actor Skandar Keynes. 

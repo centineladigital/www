@@ -17,12 +17,12 @@ tags:
 author: nil
 description: "Regalan despensas "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_17.25.56.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Apoyan regidores a migrantes"
 front: false
 section: "Local"
-news_id: 188197
+redirect_from: /news/188197
 ---
 
 Lupita Borruel regidora de la comisión de salud, acompañada del regidor Juan Campos López , visitó la Casa del Migrante ubicada en la Colonia Revolución e hizo la entrega de artículos de higiene, así como agua potable a las personas que llegan de paso a nuestra capital, a fin de que se sientan apoyados mientras dure su estancia en Chihuahua.

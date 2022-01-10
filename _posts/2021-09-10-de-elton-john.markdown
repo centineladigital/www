@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El álbum contiene 53 canciones interpretadas por 53 artistas diferentes y tiene una duración de cuatro horas."
 image: "/uploads/2021/images-the-blacklist-metallica-por-fin.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "!De Elton John a Mon Laferte! Por fin salió 'The Metallica BlackList'; te contamos todos los detalles"
 front: false
 section: "Espectáculos"
-news_id: 187632
+redirect_from: /news/187632
 ---
 
 Después de millones de comentarios de todo tipo, unos a favor, otros en contra, el disco homenaje al álbum negro de Metallica, ‘The Metalica Blacklist’ por fin fue lanzado este viernes 10 de septiembre dejado de lado todas las dudas para poder escuchar desde J Balvin a al grupo mexicano The Warning, interpretando su canción favorita de Metallica. 

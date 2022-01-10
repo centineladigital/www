@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con el desarrollo de estos cursos se pretende una mejor planeación de las estrategias en los diferentes municipios del Estado de Chihuahua"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Coordinan Desarrollo Municipal y CONEVAL capacitación para 43 municipios en materia de optimización y transparencia de recursos públicos"
 front: false
 section: "Local"
-news_id: 190343
+redirect_from: /news/190343
 ---
 
 La Secretaría de Coordinación de Gabinete a través de la Coordinación de Desarrollo Municipal y el Consejo de Evaluación de la Política de Desarrollo Social (CONEVAL) realizó una capacitación para los responsables de la planeación en los municipios a fin desarrollar un “Padrón Único de Beneficiarios”.

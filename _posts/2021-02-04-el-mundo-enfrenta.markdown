@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Si bien han surgido miles de variantes a medida que el virus muta en la replicación, es probable que solo una pequeña minoría sea importante"
 image: "/uploads/2021/images-2523607.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El mundo enfrenta alrededor de 4,000 variantes de covid"
 front: false
 section: "Internacional"
-news_id: 182691
+redirect_from: /news/182691
 ---
 
 El mundo enfrenta alrededor de 4,000 variantes del virus que causa el COVID-19, lo que provocó una carrera para mejorar las vacunas, dijo el jueves Gran Bretaña, mientras los investigadores comenzaban a explorar la posibilidad de mezclar dosis de las inyecciones de Pfizer y AstraZeneca en una novedad mundial.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Habrá tres distintas ubicaciones para comodidad de la ciudadanía, a partir de este viernes 8 de enero"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instala Gobierno Municipal contenedores para árboles navideños naturales"
 front: false
 section: "Local"
-news_id: 181981
+redirect_from: /news/181981
 ---
 
 Con el fin de evitar que los árboles navideños naturales, usados en la temporada decembrina, sean desechados en terrenos y arroyos, el Gobierno Municipal a través de la Dirección de Servicios Públicos pone a disposición de la ciudadanía tres macro contenedores para el acopio de estos residuos, incluyendo también restos de las podas.

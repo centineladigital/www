@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El estratega español ya debutó como técnico del Barcelona en la liga; le falta su presentación en la Liga de Campeones"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cuándo y dónde ver el debut de Xavi Hernández en la Champions League?"
 front: false
 section: "Deportes"
-news_id: 190104
+redirect_from: /news/190104
 ---
 
 El Barcelona recibe al Benfica en el estreno de Xavi Hernández como entrenador en la Champions League, con un examen en el que una victoria daría a los azulgranas el pase a octavos de final del torneo continental.

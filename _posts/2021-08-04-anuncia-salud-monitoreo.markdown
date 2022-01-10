@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Brigadas de especialistas estatales, federales e internacionales recorrerán las colonias de Chihuahua y Juárez para verificar que cada niña y niño cuente con la inmunización"
 image: "/uploads/2021/images-vacunasarampionrubeola_pce_1_.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia Salud monitoreo casa por casa de vacunación  contra sarampión y rubéola"
 front: false
 section: "Local"
-news_id: 186292
+redirect_from: /news/186292
 ---
 
 La Secretaría de Salud Chihuahua en coordinación con la Organización Panamericana de la Salud y autoridades federales iniciará un monitoreo casa por casa para verificar la vacunación contra el sarampión y rubéola en niñas y niños.

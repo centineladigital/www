@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El canciller Marcelo Ebrard dijo que cuando fue jefe de Gobierno y se construyó la Línea 12, donde murieron 26 personas, hizo lo que tenía que hacer, si no “no podría yo dar la cara”  "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Actué de manera profesional e íntegra, dice Ebrard sobre construcción de L12 del Metro"
 front: false
 section: "Nacional"
-news_id: 188894
+redirect_from: /news/188894
 ---
 
 El canciller Marcelo Ebrard afirmó que cuando fue jefe de gobierno y se construyó la Línea 12 -en la que el pasado mayo la estación Olivó se desplomó y en la que murieron 26 personas - actuó de manera profesional, integra y cumplió con su deber “hice lo que tenía que hacer” pues si no, manifestó, no podría dar la cara.

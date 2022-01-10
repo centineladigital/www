@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Mediante una transmisión en vivo desde la Plaza del Ángel en la capital del estado, la Gobernadora afirmó que esta modalidad no impide a los chihuahuenses festejar en unidad"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Juntos somos más fuertes que cualquier adversidad” -  Maru Campos enciende el Árbol de Navidad   "
 front: false
 section: "Local"
-news_id: 190569
+redirect_from: /news/190569
 ---
 
 El evento por esta ocasión se realizó de forma virtual y llegó a los hogares chihuahuenses mediante una transmisión en vivo a través de las redes sociales del Gobierno del Estado.

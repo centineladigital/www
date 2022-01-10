@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los 8 foros temáticos fueron: Salud, Desarrollo Humano, Desarrollo Económico, Desarrollo Agropecuario, Infraestructura y Medio Ambiente, Buen Gobierno, Educación y Deporte, Seguridad y Justicia   "
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participan más de 1,700 personas en foros ciudadanos para la integración del Plan Estatal de Desarrollo 2022-2027"
 front: false
 section: "Local"
-news_id: 190152
+redirect_from: /news/190152
 ---
 
 En seguimiento al llamado de la gobernadora del Estado, Maru Campos, para mantener el diálogo de puertas abiertas con los chihuahuenses, se instalaron en 5 sedes foros ciudadanos para recibir propuestas, conocer las problemáticas que la población ha identificado y  buscar sus soluciones.

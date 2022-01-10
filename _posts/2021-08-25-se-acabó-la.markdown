@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con motivo del estreno del tráiler de la nueva película del superhéroe, Spiderman No Way Home, hacemos un repaso por la mejor y peor película de Spiderman."
 image: "/uploads/2021/images-la-primera-entrega-de-spiderman.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Se acabó la discusión! Te decimos cuál es la mejor y peor película de Spiderman"
 front: false
 section: "Espectáculos"
-news_id: 187090
+redirect_from: /news/187090
 ---
 
 Con la aparición del primer adelanto de la nueva película de Marvel Estudios: Spiderman No Way Home donde se muestran algunas escenas en las que se dejan ver algunos de los villanos de las franquicias pasadas como el Doctor Octopus, Electro y el Duende Verde haciendo su aparición en este nuevo universo, el sueño de ver reunidos a los tres Spiderman se encuentra más cercano que nunca. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Servicio Meteorológico Nacional informó que el ciclón ganará fuerza en las próximas horas y probablemente el domingo llegará a ser de huracán categoría 1, mientras se aleja todavía más de las costas mexicanas"
 image: "/uploads/2021/images-reporte-ciclon-registraba-vientos-maximos_0_194_506_315.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se forma la tormenta tropical 'Hilda' en el Océano Pacífico"
 front: false
 section: "Nacional"
-news_id: 186167
+redirect_from: /news/186167
 ---
 
 La tormenta tropical Hilda se formó en las últimas horas en el Océano Pacífico, se ubica muy lejos de las costas mexicanas y no genera peligro, informó este viernes el Servicio Meteorológico Nacional (SMN). "Esta tarde se formó la tormenta tropical Hilda, su centro se localiza a mil 230 kilómetros al suroeste de Playa Pérula, Jalisco y a mil 260 kilómetros al sur-suroeste de Cabo San Lucas, Baja California Sur", informó el organismo en su reporte más reciente. "Debido a su lejanía no representa peligro para México", remarcó el organismo. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente municipal señaló que es un día de fiesta para el país y para rendir a los héroes que nos dieron patria"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza Alcalde conmemoración del 200 aniversario de la Consumación de Independencia"
 front: false
 section: "Local"
-news_id: 188095
+redirect_from: /news/188095
 ---
 
 El alcalde de Chihuahua, Marco Bonilla Mendoza, encabezó el izamiento de Bandera en la explanada del Palomar en un acto solemne para recordar los hechos históricos que dieron por finalizada la lucha por la Independencia de México.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A la fecha suman 69 mil 530 casos y 7 mil 107 defunciones; los últimos fallecimientos se confirmaron en: Juárez, Chihuahua, Cuauhtémoc, Madera, Ahumada, Santa Bárbara y Urique"
 image: "/uploads/2021/images-Diapositiva3.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reporta Salud 99 contagios y 31 decesos por COVID-19 en el estado"
 front: false
 section: "Local"
-news_id: 185007
+redirect_from: /news/185007
 ---
 
 La Secretaría de Salud informó que el último reporte epidemiológico de COVID-19 aumentó en 99 contagios y 31 defunciones, por lo que el total general de casos positivos en el estado de Chihuahua es de 69 mil 530 y 7 mil 107 fallecimientos.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Un ingeniero advirtió en 2018 de 'importantes daños estructurales' en el edificio de 12 pisos que se derrumbó en Miami, revela The New York Times"
 image: "/uploads/2021/images-2601657.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alertaron sobre daños estructurales en edificio de Miami desde 2018"
 front: false
 section: "Internacional"
-news_id: 185257
+redirect_from: /news/185257
 ---
 
 Un consultor había advertido tres años antes del derrumbe de un edificio de condominios del sur de Florida que había evidencias de "importantes daños estructurales" en la losa de hormigón bajo la alberca y abundantes grietas en el estacionamiento subterráneo, informó este sábado The New York Times.

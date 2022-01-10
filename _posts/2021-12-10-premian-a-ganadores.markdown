@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "En total 12 estudiantes fueron galardonados tras participar con éxito en el concurso de fotografía que la rectoría de la UPNECH lanzó recientemente a través de su Departamento de Comunicación."
 image: "/uploads/2021/images-GANADORES.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Premian a ganadores del concurso de fotografía de la UPNECH"
 front: false
 section: "Local"
-news_id: 190722
+redirect_from: /news/190722
 ---
 
 Con la finalidad de reconocer el talento artístico de sus estudiantes, la Universidad Pedagógica Nacional del Estado de Chihuahua (UPNECH) llevó a cabo la ceremonia de premiación del concurso fotográfico “Esperanzas II”, con motivo del décimo aniversario de la institución como organismo descentralizado del Gobierno del Estado de Chihuahua.

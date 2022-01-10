@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El infectólogo pediatra, Moisés Ramírez llama a que niños menores de cinco años se les aplique la dosis a partir del lunes"
 image: "/uploads/2021/images-infectologo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tras 2 años de desabasto, regresa vacuna vs la tuberculosis"
 front: false
 section: "Local"
-news_id: 183809
+redirect_from: /news/183809
 ---
 
 A partir de este lunes, los hospitales públicos contarán de nuevo con la vacuna contra la tuberculosis BCG (Bacillus Calmette-Guerin) luego de dos años desabasto, informó el infectólogo pediatra, Moisés Ramírez López.

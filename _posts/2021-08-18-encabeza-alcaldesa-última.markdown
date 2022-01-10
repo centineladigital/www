@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Representó el cierre los trabajos del periodo 2018-2021"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza Alcaldesa última sesión del COPLADEMUN 2018-2021"
 front: false
 section: "Local"
-news_id: 186846
+redirect_from: /news/186846
 ---
 
 La alcaldesa, María Angélica Granados Trespalacios, encabezó la sesión del Comité de Planeación para el Desarrollo del Municipio de Chihuahua (COPLADEMUN), que representó el cierre los trabajos del periodo 2018-2021.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La lista a la que tuvieron acceso 16 medios participantes del Pegasus Project, entre ellos The Guardian, incluye 15 mil personas en México consideradas como de interés para espionaje entre 2016 y 2017, durante la administración de Enrique Peña Nieto."
 image: "/uploads/2021/images-Sin_título.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Al menos 50 personas cercanas a AMLO incluidas en lista de Pegasus -  The Guardian"
 front: false
 section: "Nacional"
-news_id: 185797
+redirect_from: /news/185797
 ---
 
 Al menos 50 personas cercanas al presidente mexicano, Andrés Manuel López Obrador, incluyendo su esposa e hijos, están incluidas en la lista de números de interés de clientes de la firma israelí NSO para ser espiados a través del spyware Pegasus, revela hoy el diario británico The Guardian.

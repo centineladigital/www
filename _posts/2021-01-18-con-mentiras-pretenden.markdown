@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se han utilizado mentiras y medias verdades en una desesperación por conseguir los votos necesarios para la aprobación del crédito"
 image: "/uploads/2021/images-fdggdgs.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AL01_BENJAMIN_CARRERA.mp3"
 alt: "“Con mentiras pretenden aprobar más deuda para Chihuahua” -  Benjamín Carrera"
 front: false
 section: "Local"
-news_id: 182230
+redirect_from: /news/182230
 ---
 
 El diputado de Morena Benjamín Carrera Chávez, sostuvo su rechazo a la aprobación del crédito solicitado por el gobernador Javier Corral, al señalar que han cambiado el sentido y objetivo del uso que le darían al recurso, ante la falta de votos en la sesión extraordinaria.

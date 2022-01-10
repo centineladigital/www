@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El influencer le declaró su amor a Lambda García en pleno programa de 'Hoy'; así reaccionó el conductor."
 image: "/uploads/2021/images-kunno-declara-amor-lambda-garcia_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La canción es para ti -  Kunno confiesa a Lambda García que es su 'crush' en 'Hoy'"
 front: false
 section: "Espectáculos"
-news_id: 185219
+redirect_from: /news/185219
 ---
 
 Kunno es un famoso tiktoker mexicano que saltó al estrellato por su peculiar caminata al estilo pasarela de moda. Pese a las polémicas en las que ha visto envuelto, el influencer suele asistir como invitado al programa Hoy en donde este miércoles volvió a causar revuelo tras revelar que su nueva canción está dedicada al conductor Lambda García, quien es su "crush".  

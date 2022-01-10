@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se reunió comisario de la DSPM con representantes de medios informativos en Comandancia Norte"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-23_at_14.51.58.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Total apoyo para coordinar trabajo entre policías y periodistas -  Comisario Julio César Salas"
 front: false
 section: "Local"
-news_id: 188000
+redirect_from: /news/188000
 ---
 
 Con el objetivo de lograr una mejor coordinación y colaboración entre los medios de comunicación del municipio y la Dirección de Seguridad Pública, se realizó la mañana de este jueves una reunión con el nuevo titular de la dependencia policial, comisario Julio César Salas González, quien se comprometió a apoyar a la prensa local para que ambas partes puedan realizar sus respectivas labores de la manera más adecuada.

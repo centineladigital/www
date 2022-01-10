@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente llamó a los legisladores a no guiarse por los intereses de grupo, pues aseguró que la reforma no es un asunto de partidos políticos. "
 image: "/uploads/2021/images-amlo-llamo-legisladores-dejarse-guiar_0_1_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con reforma eléctrica, legisladores mostrarán si están a favor del pueblo o no, dice AMLO"
 front: false
 section: "Nacional"
-news_id: 188410
+redirect_from: /news/188410
 ---
 
 El presidente Andrés Manuel López Obrador dijo que con la discusión y votación de la reforma eléctrica, los senadores y diputados tendrán la oportunidad de mostrar si están a favor de las empresas o del pueblo. 

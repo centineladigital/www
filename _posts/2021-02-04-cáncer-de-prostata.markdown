@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Pulmón y colon en segundo y tercer lugar en ambos sexos."
 image: "/uploads/2021/images-WENDY_AVILA1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ02_WENDY_AVILA.mp3"
 alt: "Cáncer de prostata y mama los más comunes "
 front: false
 section: "Local"
-news_id: 182704
+redirect_from: /news/182704
 ---
 
 El cáncer de próstata y mama son los más comunes y que más muertes ocasionan según lo dio a conocer Wendy Ávila Coronado, Subdirectora de Medicina Preventiva y Promoción de la Salud. Esto dentro del día internacional de la lucha contra el cáncer, donde exhortó a la población a vigilar su salud y prevenir estas enfermedades.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ayer se vivió la gran final de La Voz Kids 2021. La ganadora fue Belinda y su equipo, quienes compitieron contra Renata, del equipo María José y Santiago, del equipo Camilo, así como Erick del equipo conformado con Mau y Ricky. "
 image: "/uploads/2021/images-belinda-luce-increible-look-voz.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Equipo de Belinda se corona como ganador de 'La Voz Kids'; la famosa impacta con increíble look"
 front: false
 section: "Espectáculos"
-news_id: 184139
+redirect_from: /news/184139
 ---
 
 Belinda se coronó como la campeona indiscutible junto al participante Randy en la final de "La Voz Kids" 2021 de TV Azteca. La cantante y actual pareja de Christian Nodal cautivó el reality show con su enseñanza y además con el look que de nueva cuenta impactó a la audiencia. Como si se tratara de un vestido moderno de una princesa de Disney, Belinda cautivó. Te contamos cómo se vivió este momento. Ayer se vivió la gran final de La Voz Kids 2021. La ganadora fue Belinda y su equipo, quienes compitieron contra Renata, del equipo María José y Santiago, del equipo Camilo, así como Erick del equipo conformado con Mau y Ricky. 

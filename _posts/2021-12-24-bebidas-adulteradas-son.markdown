@@ -10,11 +10,11 @@ author: nil
 description: "Zonas marginadas donde más se vende."
 image: "/uploads/2021/images-ELOY.jpg"
 video: "/uploads/2021/videos-MV03_ELOY_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Bebidas adulteradas son más vendidas en la sierra"
 front: false
 section: "Local"
-news_id: 191205
+redirect_from: /news/191205
 ---
 
 Las bebidas adulteradas son más frecuentemente vendidas en la sierra, señaló el Subdirector de Gobernación Estatal, Eloy García Tarín. Quien dijo que debido al nivel de marginación y contar con menos condiciones para inspección es donde se tiene más distribución de esta clase de licores.

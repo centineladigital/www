@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A fin de que se desarrolle una revisión inicial y obtener el análisis previo de la institución, como primer paso para obtener la acreditación."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia SSPE proceso para obtener acreditación CALEA   "
 front: false
 section: "Local"
-news_id: 188888
+redirect_from: /news/188888
 ---
 
 Con la finalidad de estandarizar los procesos operativos, administrativos y financieros, así como para mejorar la calidad en el servicio que brindan las y los policías, la Secretaría de Seguridad Pública del Estado (SSPE) inició con los trabajos técnicos para obtener la acreditación internacional CALEA.

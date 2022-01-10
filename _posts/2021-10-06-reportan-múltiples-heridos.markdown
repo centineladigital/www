@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La policía de Arlington y Mansfield señalaron que se trata de una situación activa y que hay múltiples víctimas y ambulancias en la escuela."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reportan múltiples heridos durante tiroteo en escuela de Texas"
 front: false
 section: "Internacional"
-news_id: 188419
+redirect_from: /news/188419
 ---
 
 Múltiples personas resultaron heridas durante un tiroteo ocurrido esta mañana en la Secundaria Timberview, en Arlington, Texas.

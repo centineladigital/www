@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Arrancan las semifinales de la Liga Femenil, en las que sólo un equipo tiene a una mujer en la dirección técnica: las Rayadas, que se miden al Atlas; en la otra llave, América enfrenta a Tigres"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inician las semifinales de la Liga MX Femenil; Eva Espejo la única técnica sobreviviente"
 front: false
 section: "Deportes"
-news_id: 190705
+redirect_from: /news/190705
 ---
 
 Eva Espejo, directora técnica de Rayadas, es la única mujer entrenadora en las semifinales de la Liga MX Femenil, que arrancan hoy. Espejo, quien hizo larga carrera como jugadora y seleccionada nacional, tratará de imponerse a Fernando Samayoa (Atlas), Craig Harrinton (América) y Roberto Medina (Tigres).

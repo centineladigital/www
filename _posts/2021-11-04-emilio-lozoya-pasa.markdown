@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El MP atribuyó “poco pudor procesal al ex funcionario por su escapada a un restaurante. "
 image: "/uploads/2021/images-emilio-lozoya-ex-director-general-1_0_26_1200_745.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emilio Lozoya pasa primera noche en prisión"
 front: false
 section: "Nacional"
-news_id: 189533
+redirect_from: /news/189533
 ---
 
 Emilio Lozoya atendió su cita en el Reclusorio Norte… y se quedó a cenar. Su visita al Hunan de semanas atrás le salió cara no por lo que gastara en ese lujoso restaurante de Lomas de Virreyes, sino porque fue tema de debate en la audiencia de ayer, donde el juez determinó modificarle la medida cautelar a prisión preventiva justificada.

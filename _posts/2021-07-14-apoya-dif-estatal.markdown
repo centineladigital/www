@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Invierte más de 462.4 mdp para llevar 528 mil 084 despensas, 104 toneladas de alimentos y realiza 369 mil 209 transferencias electrónicas de 500 pesos; se transparentan los programas alimentarios para garantizar este derecho a la población."
 image: "/uploads/2021/images-apoyo_emergente2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Apoya DIF Estatal a 357 mil 139 personas con paquetes alimentarios durante la pandemia"
 front: false
 section: "Local"
-news_id: 185662
+redirect_from: /news/185662
 ---
 
 Por primera vez en 14 años, el estado de Chihuahua está posicionado entre los primeros lugares a nivel nacional en evaluación del desempeño de los programas de asistencia social alimentaria; haber transparentado la asignación de los apoyos, es uno de los grandes aciertos de la presente administración estatal, señaló la directora general del DIF Estatal, Teresita Fuentes.

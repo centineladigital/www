@@ -10,11 +10,11 @@ author: nil
 description: "Por razón de acciones dentro de la mesa de seguridad siente Secretario General no correr riesgo."
 image: "/uploads/2021/images-MESTA.jpg"
 video: "/uploads/2021/videos-ML05_FERNANDO_MESTA.mp4"
-audio: "nil"
+audio: nil
 alt: "No tengo problema de no recibir seguridad -  Mesta"
 front: false
 section: "Local"
-news_id: 185803
+redirect_from: /news/185803
 ---
 
 El Secretario General de Gobierno, Luis Fernando Mesta Soulé, dijo no tener problema en caso de que a él no se le otorgue seguridad, esto tras la solicitud del mandatario de recibir, una vez concluido con su encargo, elementos para garantizar su seguridad.

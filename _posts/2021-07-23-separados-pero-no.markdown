@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La ceremonia buscó recordarle al mundo como el covid-19 separó a las personas, pero las volvió a unir, ahora, mucho más fuerte que antes"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Separados, pero no solos, Japón manda mensaje al mundo en inauguración de los Juegos Olímpicos"
 front: false
 section: "Deportes"
-news_id: 185931
+redirect_from: /news/185931
 ---
 
 Los Juegos Olímpicos de Tokio han sido uno de los más criticados en la historia debido a la insistencia de llevarlos a cabo en tiempo de pandemia, y al rechazo del pueblo de Japón por ello. Por eso, la ceremonia buscó recordarle al mundo como el covid-19 separó a las personas, pero las volvió a unir, ahora, mucho más fuerte que antes. 

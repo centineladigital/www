@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El flujo ardiente ha presentado un gran contraste en su velocidad tras consumir más de 300 viviendas y 164 hectáreas en Islas Canarias. "
 image: "/uploads/2021/images-volcan-cumbre-vieja-genero-masivas_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lava de volcán Cumbre Vieja se desacelera y genera dudas sobre su llegada al mar"
 front: false
 section: "Internacional"
-news_id: 187981
+redirect_from: /news/187981
 ---
 
 La lava del volcán Cumbre Vieja de la isla de La Palma ha desacelerado en Islas Canarias, aunque en su actividad, la estructura geológica sigue expulsando el flujo ardiente y gases tóxicos, los mismos que llegarán al resto de España en las próximas horas, multiplicando así los estragos entre los habitantes.

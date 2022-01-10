@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Interpretando a Márquez, Arnold y Mussorgsky, el quinteto de alientos y piano se presenta este 29 de octubre a las 8 de la noche"
 image: "/uploads/2021/images-unnamed_(14).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentará OFECH concierto de música de cámara este viernes en el Teatro Fernando Saavedra"
 front: false
 section: "Local"
-news_id: 189280
+redirect_from: /news/189280
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Cultura, invita al concierto de música de cámara, “Márquez, Arnold y Mussorgsky”, de la Orquesta Filarmónica del Estado de Chihuahua (OFECH), evento que se realizará este viernes 29 de octubre en el Teatro de Cámara Fernando Saavedra, en punto de las 8 de la noche.

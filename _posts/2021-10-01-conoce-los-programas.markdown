@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "También, se cuenta con grupos terapéuticos a través de los cuales se brinda atención a poblaciones de distintas edades como niñas, niños, adolescentes, adultos, personas de la tercera edad y familias."
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conoce los programas de atención para prevención de suicidio del CAPPSI   "
 front: false
 section: "Local"
-news_id: 188289
+redirect_from: /news/188289
 ---
 
 Ante la relevancia que las acciones preventivas tienen para reducir los índices de riesgo de suicidio, el Gobierno Municipal a través del Centro de Atención y Prevención Psicológicas (CAPPSI) continúa en acciones para la prevención y de concientización de la ciudadanía sobre la importancia del cuidado de la salud mental/emocional.

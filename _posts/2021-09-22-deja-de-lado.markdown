@@ -10,11 +10,11 @@ author: nil
 description: "Inconformes por acciones de la federación, ya que generarán más problemática social."
 image: "/uploads/2021/images-ALEX.jpg"
 video: "/uploads/2021/videos-MW05_ALEJANDRO_DOMINGUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Deja de lado presupuesto a la población -  PRI"
 front: false
 section: "Local"
-news_id: 187960
+redirect_from: /news/187960
 ---
 
 El presupuesto federal ha dejado de lado la población, según lo dio a conocer el titular del Comité Directivo Estatal del PRI, Alejandro Domínguez Domínguez. Esto ya que tras la revisión del presupuesto por parte de dirigentes de diversos estados, así como otros actores políticos se vio temas como los pequeños y medianos empresarios se dejaron olvidados.

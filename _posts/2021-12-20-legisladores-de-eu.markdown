@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Legisladores de las dos cámaras del Congreso expresaron alarma sobre la reanudación por parte del gobierno de Biden de Quédate en México, creado por el expresidente Donald Trump, y dijeron estar especialmente decepcionados con la expansión del programa"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Legisladores de EU urgen a Joe Biden a cancelar la expansión de Quédate en México"
 front: false
 section: "Internacional"
-news_id: 191023
+redirect_from: /news/191023
 ---
 
 Washington.- Un grupo de legisladores urgió al presidente estadounidense, Joe Biden, a cancelar la expansión del programa Quédate en México, que ahora también obliga a los haitianos que piden asilo a quedarse en México mientras se resuelven sus casos en EU.

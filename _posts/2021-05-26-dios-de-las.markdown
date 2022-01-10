@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Disney Plus lanza pósters y muestra cómo lucen los protagonistas de 'Loki', su nueva serie exclusiva producida por Marvel Studios como parte de la fase 4 del Universo. "
 image: "/uploads/2021/images-asi-luce-el-poster-y.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Dios de las mentiras! -  Disney Plus lanza pósters y emoji de 'Loki', su nueva serie"
 front: false
 section: "Espectáculos"
-news_id: 184660
+redirect_from: /news/184660
 ---
 
 Disney Plus sigue 'calentando motores' previo al lanzamiento de su siguiente serie exclusiva, producida por Marvel, mientras la fecha de estreno se acerca cada vez más. Se trata de Loki, la serie del famoso hermano del Vengador Thor, donde conoceremos qué ocurrió con el personaje, como ya lo hicimos en series como WandaVision y Falcon y el Soldado del Invierno. Por medio de sus redes sociales, Disney Plus lanzó una serie de pósters que dejan ver a algunos de los personajes principales de lo que será la serie de televisión del Universo Marvel. Por si esto fuera poco, también presentó un emoji exclusivo, el cual podrás utilizar para demostrar cuánto esperas la serie. 

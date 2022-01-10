@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A través del desarrollo y uso de nuevos materiales didácticos se pretende combatir el rezago educativo ocasionado por la pandemia del COVID-19 y reforzar los aprendizajes del alumnado"
 image: "/uploads/2021/images-Elaboración_de_materiales_didácticos-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Desarrolla SEECH plan emergente para reforzar la alfabetización y  pensamiento matemático"
 front: false
 section: "Local"
-news_id: 190835
+redirect_from: /news/190835
 ---
 
 Como una medida para apoyar a las y los docentes de Chihuahua y al alumnado con rezago educativo, Servicios Educativos del Estado de Chihuahua (SEECH) aplica un plan emergente de alfabetización y desarrollo del pensamiento matemático.

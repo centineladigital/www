@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La dependencia recordó que toda la información sobre la vacunación anticovid se dará a conocer a través de los canales oficiales"
 image: "/uploads/2021/images-secretaria-correos-documento-mencionan-falso_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Secretaría de Salud alerta sobre correos de carnets de vacunación anticovid falsos"
 front: false
 section: "Nacional"
-news_id: 186116
+redirect_from: /news/186116
 ---
 
 La Secretaría de Salud (Ssa) advirtió sobre un supuesto carnet de vacunación anticovid obligatorio que ha sido enviado a los correos de varios usuarios, y señaló que se trata de una dirección electrónica y de un documento falso. 

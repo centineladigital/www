@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Reconoció el apoyo del Congreso de la Unión para fortalecer las acciones de cobranza de cuotas y aportaciones, logrando un incremento en la recaudación de los ingresos de la dependencia para el ejercicio 2020. "
 image: "/uploads/2021/images-ISSSTE_02.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Regulariza el ISSSTE deuda histórica de estados con el instituto al gestionar el pago de 10 mil 656 millones de pesos "
 front: false
 section: "Local"
-news_id: 189646
+redirect_from: /news/189646
 ---
 
 El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) logró gestionar la firma de 11 convenios de reconocimiento de adeudos con instituciones del sector salud y educación en siete estados de la República, con el fin de regularizar la deuda histórica al concretar el pago de 10 mil 656 millones, de un total de 68 mil 483 millones de pesos, informó el director general, Luis Antonio Ramírez Pineda.  

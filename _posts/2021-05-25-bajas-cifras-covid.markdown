@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solamente tres decesos y 28 nuevos casos positivos."
 image: "/uploads/2021/images-índice.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM07_LETICIA_RUIZ.mp3"
 alt: "Bajas cifras COVID"
 front: false
 section: "Local"
-news_id: 184647
+redirect_from: /news/184647
 ---
 
 Solamente tres decesos y 28 nuevos casos positivos es lo que se dio a conocer dentro de la actualización de cifras de COVID-19. Con lo que llega a 67 mil 850 personas que han sido contagiadas y seis mil 932 personas que perdieron la vida por esta enfermedad.

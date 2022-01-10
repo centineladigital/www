@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Una de las líneas de investigación sobre el multihomicidio, indica que se trató de una probable venganza de algún grupo delictivo que opera en el centro del estado"
 image: "/uploads/2021/images-presuntamente-victima-bebia-alcohol-andamio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hallan a seis sin vida en municipio de Jiménez, Michoacán"
 front: false
 section: "Nacional"
-news_id: 186099
+redirect_from: /news/186099
 ---
 
 La Fiscalía General del Estado de Michoacán (FGEM) informó que inició las indagatorias sobre el hallazgo de seis personas asesinadas en el municipio de Jiménez, Michoacán. Una de las líneas de investigación sobre el multihomicidio, indica que se trató de una probable venganza de algún grupo delictivo que opera en el centro del estado. 

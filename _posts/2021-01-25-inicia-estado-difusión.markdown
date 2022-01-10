@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Gobernador Javier Corral entregará Informe al Congreso del Estado el lunes 1 de febrero y dirigirá mensaje al Pueblo de Chihuahua el martes 2"
 image: "/uploads/2021/images-Imagen_JC_4to_Informe.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia Estado difusión de compromisos cumplidos rumbo al Cuarto Informe de Gobierno"
 front: false
 section: "Local"
-news_id: 182409
+redirect_from: /news/182409
 ---
 
 Este lunes 25 inicia la difusión de logros rumbo al Cuarto Informe de Gobierno, documento que el gobernador Javier Corral entregará al Congreso del Estado el lunes 1 de febrero y compartirá en mensaje dirigido al Pueblo de Chihuahua, el martes 2.

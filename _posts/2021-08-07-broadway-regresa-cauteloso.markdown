@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El telón está a punto de levantarse, aunque la amenaza de la variante Delta de covid tiene preocupada a la comunidad, que jamás había tenido tantos musicales en pantalla como ahora."
 image: "/uploads/2021/images-broadway-regresa-cauteloso-teatro-york.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Broadway regresa cauteloso a Nueva York ante preocupación por variante Delta"
 front: false
 section: "Espectáculos"
-news_id: 186433
+redirect_from: /news/186433
 ---
 
 El teatro, prácticamente en el mundo entero, fue el primero en dejar de funcionar en 2020, cuando la pandemia comenzaba a amenazar en convertirse en lo que resultó ser. Ni las predicciones más oscuras de los expertos, productores y medios especializados podrían imaginar el escenario que se vive.  

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las Águilas viven un buen momento en el año, instaladas en el primer lugar de la clasificación y en la Final de la Concachampions que disputarán a finales de mes "
 image: "/uploads/2021/images-jugadores-del-america-en-festejo-8_0_52_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "América celebra su 105 aniversario como el más ganador del futbol mexicano"
 front: false
 section: "Deportes"
-news_id: 188625
+redirect_from: /news/188625
 ---
 
 El Club América está de fiesta, las Águilas celebran este martes su 105 aniversario, y lo hacen manteniéndose como un club protagonista en el futbol mexicano. Una institución que en los últimos tiempos ha honrado la grandeza que cosechó y que ha sabido reinventarse. 

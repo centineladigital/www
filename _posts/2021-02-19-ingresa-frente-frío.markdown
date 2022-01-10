@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Llegará clima templado este fin de semana."
 image: "/uploads/2021/images-IDELFONSO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03_IDELFONSO_DIAZ.mp3"
 alt: "Ingresa frente frío el domingo"
 front: false
 section: "Local"
-news_id: 183055
+redirect_from: /news/183055
 ---
 
 Este domingo ingresará el frente frío número 37 con lo que se tendrán temperaturas más cálidas en comparación con lo que dejó la tormenta invernal número 10, la cual se retiró desde este jueves por la tarde. Según lo dio a conocer el meteorólogo estatal perteneciente a la Unidad estatal de Protección Civil.

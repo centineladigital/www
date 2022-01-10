@@ -10,11 +10,11 @@ author: nil
 description: "Esperan recolectar 800 juguetes para niños de comunidades vulnerables."
 image: "/uploads/2021/images-NAVIDAD.jpg"
 video: "/uploads/2021/videos-MJ02_SARAHI_AMAYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Invitan a donar juguetes para niños de la Sierra"
 front: false
 section: "Local"
-news_id: 190936
+redirect_from: /news/190936
 ---
 
 Con el fin de llevar juguetes a los niños de escasos recursos este 19 de diciembre se llevará a cabo el evento denominado "Navidad Vaquera", el cual tiene como fin colectar juguetes y bolsas de dulce esto por medio de un concierto de Música Country Navideña el cual tendrá como cierre al grupo Caballo Dorado.

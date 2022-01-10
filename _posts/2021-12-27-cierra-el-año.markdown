@@ -8,11 +8,11 @@ author: nil
 description: "El Gobierno Municipal asignó 8 cuadrillas diarias en los 4 cuadrantes de la ciudad"
 image: "/uploads/2021/images-unnamed_(1).jpg"
 video: "/uploads/2021/videos-video_BACHEO.mp4"
-audio: "nil"
+audio: nil
 alt: "Cierra el año con 220 mil baches atendidos"
 front: false
 section: "Local"
-news_id: 191242
+redirect_from: /news/191242
 ---
 
 Durante este año 2021 el Gobierno Municipal a través de la Dirección de Obras Públicas, trabajaron diariamente para cubrir 220 mil baches que aparecieron en calles de la ciudad por las lluvias, con apoyo de ocho cuadrillas que laboraron de lunes a sábado para atender los desperfectos.

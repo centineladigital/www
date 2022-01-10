@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirman que se trabaja en detectar nueva mutación de virus y en que vacunas se apliquen a los trabajadores que están en primera línea COVID."
 image: "/uploads/2021/images-LETICIA_RUIZ.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03_LETICIA_RUIZ.mp3"
 alt: "Busca Chihuahua nueva cepa de COVID"
 front: false
 section: "Local"
-news_id: 181985
+redirect_from: /news/181985
 ---
 
 Muestras de pacientes están siendo enviadas a la ciudad de México con el fin de detectar la presencia de la nueva cepa de coronavirus señaló la la Directora de Medicina Preventiva Leticia Ruiz González. 

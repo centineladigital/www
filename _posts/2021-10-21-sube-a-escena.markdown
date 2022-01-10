@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se lleva a cabo como parte de la cartelera de la Red de Teatros de la Secretaría de Cultura y por medio de la compañía artística “Chacachachán”"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sube a escena “El Mago de Oz”, este domingo en el Teatro de los Héroes"
 front: false
 section: "Local"
-news_id: 189028
+redirect_from: /news/189028
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Cultura de Chihuahua y del programa Red de Teatros 2021, invita a la presentación de “El Mago de Oz”, que se llevará a cabo en dos funciones: 17:00 y 19:30 horas, este domingo 24 de octubre en el Teatro de los Héroes, como parte del proceso de reactivación de espacios culturales.

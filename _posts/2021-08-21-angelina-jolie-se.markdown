@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Angelina Jolie se unió a Instagram y su primera publicación es una emotiva carta de una niña afgana. La actriz también habló sobre la situación que se vive en el país. "
 image: "/uploads/2021/images-angelina-jolie-alzo-voz-situacion.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Angelina Jolie se une a Instagram y comparte emotiva carta de niña afgana"
 front: false
 section: "Espectáculos"
-news_id: 186967
+redirect_from: /news/186967
 ---
 
 Angelina Jolie siempre ha mostrado ser una defensora de los niños, en especial de aquellos que viven situaciones difíciles, es por eso que ahora que se unió a Instagram, la actriz aprovechó para publicar una carta de una niña afgana y hablar sobre la problemática que se vive en Afganistán tras la llegada de los talibanes, la cual afecta principalmente a las mujeres quienes tienen que seguir estrictas reglas puestas por este grupo. 

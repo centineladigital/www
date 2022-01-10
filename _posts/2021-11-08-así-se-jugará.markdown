@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Quedaron definidos los duelos del repechaje del Apertura 2021 al igual que los cuatro equipos que entraron de forma directa a la liguilla"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así se jugará el repechaje del Apertura 2021 de la Liga MX"
 front: false
 section: "Deportes"
-news_id: 189631
+redirect_from: /news/189631
 ---
 
 El América del entrenador argentino Santiago Solari terminó como líder del torneo Apertura 2021 del fútbol mexicano y aseguró su pase a los cuartos de finales como primer favorito. Al empatar sin anotaciones este sábado con el Monterrey del técnico Javier Aguirre, noveno de la tabla de posiciones, las Águilas cerraron la fase regular del campeonato con 10 victorias, cinco empates, dos derrotas y 35 puntos.

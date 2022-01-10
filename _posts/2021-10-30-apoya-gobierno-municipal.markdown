@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A través del Grupo “Gaby” entregaron un vale para útiles escolares de los menores"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Apoya Gobierno Municipal a hijas e hijos de internas del CERESO para que sigan sus estudios"
 front: false
 section: "Local"
-news_id: 189412
+redirect_from: /news/189412
 ---
 
 El Gobierno Municipal, por medio del Voluntariado del Instituto Municipal de las Mujeres (IMM), llevó a cabo en sus instalaciones la firma para la entrega de un vale de útiles escolares y en especie al Grupo Gaby, quienes harán llegar dichos artículos a las niñas y niños que viven con sus madres en el Centro de Reinserción Social (CERESO) Femenil.

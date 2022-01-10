@@ -10,11 +10,11 @@ author: nil
 description: "Crédito con un bajo interés, será pagado en 12 meses."
 image: "/uploads/2021/images-GRANILLO.jpg"
 video: "/uploads/2021/videos-ML01_JOSE_GRANILLO.mp4"
-audio: "nil"
+audio: nil
 alt: "Contrata Gobierno nuevo crédito"
 front: false
 section: "Local"
-news_id: 188106
+redirect_from: /news/188106
 ---
 
 Un nuevo crédito fue contratado por parte de Gobierno del Estado, esto por un monto de mil millones de pesos, según lo dio a conocer José de Jesús Granillo Vázquez, Secretario de Hacienda. Quien dijo que este empréstito es por 12 meses. 

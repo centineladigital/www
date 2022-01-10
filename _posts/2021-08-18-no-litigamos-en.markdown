@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que Fiscalía trabaja en juzgados no en los medios de comunicación."
 image: "/uploads/2021/images-FISCAL.jpg"
 video: "/uploads/2021/videos-MW06_CESAR_PENICHE.mp4"
-audio: "nil"
+audio: nil
 alt: "No litigamos en medios de comunicación -  Peniche"
 front: false
 section: "Local"
-news_id: 186848
+redirect_from: /news/186848
 ---
 
 “Nosotros no litigamos en medios de comunicación” fueron las palabras del Fiscal General de Chihuahua al ser cuestionado respecto a los señalamientos que hizo la defensa del exgobernador César Duarte donde se solicitó una reparación por daño moral.

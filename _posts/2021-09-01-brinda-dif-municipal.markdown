@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "se ofreció servicio médico, paquetes alimentarios, así como la implementación del Programa Actívate."
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brinda DIF Municipal apoyo integral a comunidad rural El Sauz   "
 front: false
 section: "Local"
-news_id: 187334
+redirect_from: /news/187334
 ---
 
 El DIF Municipal llevó a cabo una jornada de trabajo para llevar apoyo integral a los pobladores de la comunidad rural El Sauz, con atención a los grupos vulnerables de esta zona, se ofreció servicio médico, paquetes alimentarios, así como la implementación del Programa Actívate.

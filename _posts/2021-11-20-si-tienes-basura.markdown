@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Del 22 al 26 de noviembre estará en diversos puntos de la ciudad"
 image: "/uploads/2021/images-unnamed_(10).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Si tienes basura en grandes dimensiones, conoce las colonias que visitará el Destilichadero"
 front: false
 section: "Local"
-news_id: 190056
+redirect_from: /news/190056
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos, llevará el programa de Destilichadero a 19 colonias de la ciudad en la semana del 22 al 26 de noviembre, con el propósito de retirar basura de grandes dimensiones.

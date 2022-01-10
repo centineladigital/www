@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En Estados Unidos, casi el 60 por ciento de la población cuenta con el esquema completo de vacunación. "
 image: "/uploads/2021/images-sudafrica-paises-reporto-variante-omicron_139_94_885_551.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Variante de covid ómicron tiene presencia en al menos 15 estados de EU"
 front: false
 section: "Internacional"
-news_id: 190535
+redirect_from: /news/190535
 ---
 
 La variante ómicron del coronavirus se ha encontrado en al menos15 estados de Estados Unidos, pero hasta ahora, la delta sigue siendo la mayoría de los casos de covid-19 en todo el país, dijo la directora de los Centros para el Control y la Prevención de Enfermedades, Rochelle Walensky "Sabemos que tenemos varias docenas de casos y los estamos siguiendo de cerca. 

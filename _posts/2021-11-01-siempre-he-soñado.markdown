@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La conductora del clima, en Telediario Nocturno Laguna, estudia actualmente la carrera de Derecho; no descarta en un futuro poder entrar en el mundo de la actuación. "
 image: "/uploads/2021/images-canal-preparando-graficos-secciones-noticiero.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Siempre he soñado con poder salir en una serie de televisión” -  Ana Verónica Mora Galiano"
 front: false
 section: "Espectáculos"
-news_id: 189454
+redirect_from: /news/189454
 ---
 
 Con 21 años de edad recién cumplidos, Ana Verónica Mora Galiano, conductora del clima en Telediario Nocturno Laguna y Telediario Nocturno Durango, actualmente estudia la carrera de Derecho, y está feliz de pertenecer a Multimedios Laguna, donde le abrieron las puertas para desarrollar su talento desde hace seis años, así lo manifestó en entrevista.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Casa de subastas Julien's expone desde el lunes en Nueva York más de 800 prendas de vestir, entre otros artículos estimados en 2 millones de dólares. "
 image: "/uploads/2021/images-subastan-articulos-personales-amy-winehouse.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Un pedacito de Amy Winehouse puede ser tuyo! Subastarán prendas de la cantante"
 front: false
 section: "Espectáculos"
-news_id: 188628
+redirect_from: /news/188628
 ---
 
 Objetos que pertenecieron a la cantante británica desparecida hace diez años saldrán  a la venta en noviembre en California. Desde el vestido que llevó Amy Winehouse en su último concierto en Belgrado en 2011, pasando por libros, discos, bolsos, entre otros elementos. La casa de subastas Julien's expone desde el lunes en Nueva York más de 800 prendas de vestir, como vestidos, corpiños, pantalones, shorts, zapatos, ropa interior, gafas, instrumentos de música, libros y discos estimados en "1-2 millones de dólares" antes de la subasta que tendrá lugar en Beverly Hills los 6 y 7 de noviembre. 

@@ -10,11 +10,11 @@ author: nil
 description: "Gobernadora afirma que se encargará de gobernar, acciones llevarán a cabo áreas correspondientes."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-ML02_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Espera administración estatal presentar irregularidades en la SFP"
 front: false
 section: "Local"
-news_id: 187887
+redirect_from: /news/187887
 ---
 
 En breve se espera que la presente administración presente irregularidades ante la Secretaría de la Función Pública, señaló la Gobernadora de Chihuahua María Eugenia Campos Galván, quien dijo que se tienen 30 días, por lo que se está buscando irregularidades.

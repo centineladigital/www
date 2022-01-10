@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el tráiler se pueden ver las primeras imágenes de Salma Hayek como Ajak, Kit Harington como Black Night, Richard Madden como Ikaris y Angelina Jolie como Thena. "
 image: "/uploads/2021/images-eternals-se-estrena-en-noviembre.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Marvel sorprende con tráiler de 'Eternals'; así lucen Salma Hayek, Angelina Jolie y los nuevos superhéroes"
 front: false
 section: "Espectáculos"
-news_id: 184626
+redirect_from: /news/184626
 ---
 
 Este lunes Marvelsorprendió a sus fans con la publicación del tráiler de Eternals. El primer vistazo a la esperada cinta de superhéroes en la que destacan la participación de Salma Hayek y Angelina Jolie y que además es el nuevo trabajo de la directora Chloé Zhao, ganadora del Óscar a mejor dirección por Nomadland.

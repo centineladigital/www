@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente señaló que la oposición está molesta porque el gobierno es del pueblo y los beneficios son para la población. "
 image: "/uploads/2021/images-amlo-oposicion-nerviosa-gobierno-javier_4_0_1195_743.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La 4T es un cambio de régimen, no de gobierno -  AMLO"
 front: false
 section: "Nacional"
-news_id: 190613
+redirect_from: /news/190613
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que la cuarta transformación es un cambio de régimen, no sólo de gobierno, y que por ello los integrantes de la oposición están "muy ofuscados, muy nerviosos". 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Dicha ley puede ralentizar los intercambio de información confidencial pues obliga a los servidores a reportar al gobierno cualquier contenido que se haya intercambiado con agentes estadounidenses, afirma el último reporte sobre Terrorismo 2020 del Departamento de Estado"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Preocupa a EU impacto de Ley de Seguridad Nacional de México en cooperación antiterrorista"
 front: false
 section: "Internacional"
-news_id: 190959
+redirect_from: /news/190959
 ---
 
 A Estados Unidos le preocupa el impacto que la Ley de Seguridad Nacional aprobada en México pueda tener en los esfuerzos antiterroristas estadounidenses. 

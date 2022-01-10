@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La representante del país asiático logró coronarse con el primer lugar del certamen de belleza luego de superar a Nadia Ferreira, de Paraguay. "
 image: "/uploads/2021/images-miss-universo-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡La corona tiene dueña! Harnaaz Sandhu, de India, gana Miss Universo 2021"
 front: false
 section: "Espectáculos"
-news_id: 190859
+redirect_from: /news/190859
 ---
 
 Harnaaz Sandhu, representante de India, es la nueva Miss Universo. La joven, de 21 años, logró quedarse con la corona del certamen de belleza tras convencer a los jueces con su talento, inteligencia, belleza y carisma. La modelo superó a Lalela Mswane, de Sudáfrica, y a Nadia Ferreira, de Paraguay, pese a que la segunda era la favorita en redes sociales para llevarse el título.  Luego de una cerrada fase de preguntas, el jurado nombró a Harnaaz Sandhu como Miss Universo 2021. La delegada de India recibió la corona de manos de Andrea Meza, quien hizo historia en mayo al convertirse en la tercera mexicana en ganar el concurso.  

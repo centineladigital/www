@@ -7,12 +7,12 @@ tags:
 author: nil
 description: " Con riesgo de transitar al color naranja. "
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Permanecerá entidad en Semáforo Epidemiológico Amarillo, continúa riesgo de transitar a naranja"
 front: false
 section: "Local"
-news_id: 190771
+redirect_from: /news/190771
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, informa que del lunes 13 al domingo 26 de diciembre, la entidad permanecerá en semáforo epidemiológico amarillo, con riesgo de transitar al color naranja. 

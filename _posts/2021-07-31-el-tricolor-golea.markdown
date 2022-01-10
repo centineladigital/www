@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La selección mexicana de futbol derrotó 6-3 al equipo asiático, y se mete en la pelea por las medallas; su próximo rival será Brasil "
 image: "/uploads/2021/images-jugadores-seleccion-mexicana-festejo-gol-1_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El Tricolor golea a Corea del Sur y avanza a la semifinal de los Juegos Olímpicos"
 front: false
 section: "Deportes"
-news_id: 186158
+redirect_from: /news/186158
 ---
 
 La selección mexicana de futbol despierta de nuevo el sueño olímpico. El Tricolor se paró con autoridad frente a Corea del Sur, fue sólido, inteligente y contundente, al final el 6-3 a su favor, reflejó el nivel del cuadro mexicano, que se mete a la lucha por una medalla olímpica. 

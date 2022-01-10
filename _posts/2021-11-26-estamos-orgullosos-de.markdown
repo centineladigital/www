@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Garantiza Gobierno del Estado acceso a la doble nacionalidad a nacidos en Estados Unidos con entrega de actas   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Estamos orgullosos de esta comunidad fronteriza y seguiremos trabajando para brindarles el gobierno que merecen”; entrega Gobernadora actas del programa “Soy México”"
 front: false
 section: "Local"
-news_id: 190261
+redirect_from: /news/190261
 ---
 
 En el marco de su visita Ciudad Juárez, la gobernadora del Estado, Maru Campos Galván, llevó a cabo la entrega simbólica de actas que garantizan la doble nacionalidad de 925 beneficiarios nacidos en Estados Unido con padre mexicanos, para que así puedan ejercer al Derecho de Identidad dentro del territorio mexicano.

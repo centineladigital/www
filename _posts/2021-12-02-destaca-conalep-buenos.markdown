@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Durante el informe de actividades 2021, se dio a conocer que a pesar de las circunstancias derivadas de la pandemia, se generó un mayor orden al estructurar 3 comisiones"
 image: "/uploads/2021/images-20-conlep_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Destaca Conalep buenos resultados  en la formación de capital humano profesional para la industria"
 front: false
 section: "Local"
-news_id: 190438
+redirect_from: /news/190438
 ---
 
 Antonio Valadez García, presidente del Comité de Vinculación del Colegio Nacional de Educación Profesional Técnica (CONALEP) presentó el informe de actividades correspondiente al presente año.

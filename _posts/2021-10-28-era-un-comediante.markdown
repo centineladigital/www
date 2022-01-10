@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de que Carlos Ballarta opinara sobre Chespirito en el programa Versión Extendida con Tenoch Huerta y de que se volviera tema de conversación, el standupero reafirmó su postura. "
 image: "/uploads/2021/images-carlos-ballarta-arrepiente-reitera-postura.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Era un comediante huevón -  Carlos Ballarta reitera su rechazo a Chespirito; arremete contra Televisa"
 front: false
 section: "Espectáculos"
-news_id: 189301
+redirect_from: /news/189301
 ---
 
 Carlos Ballarta, standupero mexicano, reaccionó a la polémica que provocó tras revelar que la comedia de Chespirito fue lo peor que le pudo pasar a México en dicho rubro. Y es que sobre su postura se han hecho críticas y hasta memes. ¿Se arrepiente de lo dicho? De acuerdo a lo revelado por Ballarta no se arrepiente de su opinión, pues aseguró que Chespirito fue un huevón a la hora de hacer comedia, además de que fue el brazo derecho de Televisa, quien fue la televisora por años del PRI. Te contamos todo lo nuevo que reveló Carlos Ballarta. Después de que Carlos Ballarta opinara sobre Chespirito en el programa Versión Extendida con Tenoch Huerta y de que se volviera tema de conversación, el standupero reafirmó su postura. 

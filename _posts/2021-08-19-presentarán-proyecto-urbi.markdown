@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se realizará un recorrido para dar seguimiento a la estrategia implementada por la Ceaadic y la Secretaría de Desarrollo Social en la colonia URBI Villa ubicada en Ciudad Juárez, en donde se transformó el espacio público y se generó una mejor cohesión social para la comunidad"
 image: "/uploads/2021/images-Urbivilla_3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentarán proyecto “URBI Villa a todo color”  contra violencia de género y adicciones"
 front: false
 section: "Local"
-news_id: 186911
+redirect_from: /news/186911
 ---
 
 La Secretaría de Salud, a través de la Comisión Estatal de Atención a las Adicciones (Ceaadic), y en colaboración con la Secretaría de Desarrollo Social llevará a cabo un recorrido el próximo lunes 23 de agosto a partir de las seis de la tarde, para dar seguimiento a las acciones del proyecto “URBI Villa a todo color”, en Ciudad Juárez.

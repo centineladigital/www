@@ -14,11 +14,11 @@ author: nil
 description: "“La idea es darle orden y generar una coordinadora que permita en un momento dado realizar la lucha social o resistencia civil pacífica que se está intentando”"
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-28_at_12.38.22_PM.jpeg"
 video: "/uploads/2021/videos-BM05_MARIANO_CORDERO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Que actúen como con los expedientes X"
 front: false
 section: "Local"
-news_id: 191292
+redirect_from: /news/191292
 ---
 
 Afectados por el fraude de Aras Group Bussines, pidieron se actué como lo hicieron las autoridades en el caso de los expedientes x, así lo manifestó el asesor jurídico Mariano Cordero Burciaga, argumentó que no entiende la decisión de las autoridades para el resguardo de las evidencias de la empresa para la oportuna conservación del delito.

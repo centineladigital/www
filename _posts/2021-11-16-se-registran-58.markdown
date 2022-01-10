@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 en la cantidad ascendió a 8 mil 233 casos (+1) y se dio en el municipio de Juárez (+1)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 58 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 189880
+redirect_from: /news/189880
 ---
 
 El Gobierno del Estado a través de la Secretaría de Salud de Chihuahua, presenta este 16 de noviembre el reporte COVID-19, en el cual se registran 83 mil 499 (+58) personas confirmadas en la entidad por este padecimiento, 71 mil 791 (+21) casos recuperados, 78 mil 048 (+60) descartados y 816 (-56) casos sospechosos.

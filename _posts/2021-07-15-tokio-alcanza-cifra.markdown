@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El gobierno metropolitano de Tokio informó de más de mil casos diarios de coronavirus por segundo día consecutivo, unas cifras que la capital no registraba desde hace seis meses y con una tendencia al alza desde hace casi un mes. "
 image: "/uploads/2021/images-tokio-registra-maximo-contagios-ano_0_71_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tokio alcanza cifra récord de contagios de covid-19 a ocho días de los Juegos Olímpicos"
 front: false
 section: "Internacional"
-news_id: 185697
+redirect_from: /news/185697
 ---
 
 La capital de Japón reportó  mil 308 nuevas infecciones de covid-19 este jueves, la cifra más alta de casos registrada en Tokio desde enero y a tan solo ocho días de la apertura de los inminentes Juegos Olímpicos. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Piden extremar precauciones en los grupos vulnerables."
 image: "/uploads/2021/images-GUMARO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML03.mp3"
 alt: "Exhortan a extremar precauciones en grupos vulnerables "
 front: false
 section: "Local"
-news_id: 182939
+redirect_from: /news/182939
 ---
 
 Debido a las bajas temperaturas que se registraron este inicio de semana el Subdirector de Epidemiología, Gumaro Barrios Gallegos, exhortó a la población a extremar precauciones en los grupos vulnerables que son menores y adultos mayores, esto ya que el cambio de clima puede originar algunas enfermedades.

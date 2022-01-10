@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El boxeador estadunidense entrenó con una polémica playera cuyo mensaje iba dirigido a Saúl Álvarez previo a su pelea del 6 de noviembre "
 image: "/uploads/2021/images-canelo-alvarez-vs-caleb-plant_1_15_1198_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Caleb Plant calienta la pelea contra el Canelo metiéndose con su madre nuevamente"
 front: false
 section: "Deportes"
-news_id: 188077
+redirect_from: /news/188077
 ---
 
 Todos esperan con ansías la pelea entre Saúl Canelo Álvarez y Caleb Plant del próximo 6 de noviembre, en la que el ganador de este combate será campeón indiscutido; pero independientemente de ello, este enfrentamiento ha llamado más la atención después de lo sucedido hace una semana en una conferencia de prensa. 

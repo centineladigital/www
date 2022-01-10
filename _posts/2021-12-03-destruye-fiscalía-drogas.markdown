@@ -10,11 +10,11 @@ author: nil
 description: "Marihuana, cocaina y heroina entre las drogas destruidas."
 image: "/uploads/2021/images-CARLOS_MARIO.jpg"
 video: "/uploads/2021/videos-MV01_CARLOS_MARIO.mp4"
-audio: "nil"
+audio: nil
 alt: "Destruye Fiscalía drogas aseguradas"
 front: false
 section: "Local"
-news_id: 190488
+redirect_from: /news/190488
 ---
 
 Drogas que fueron aseguradas desde el mes de junio hasta la fecha fueron destruidas por parte de la Fiscalía Zona Centro, según fue dado a conocer por parte del titular de la dependencia Carlos Mario Jiménez Holguín. Destacando que el total de la quema es un total de un total de 9 millones 783 mil 432 pesos.

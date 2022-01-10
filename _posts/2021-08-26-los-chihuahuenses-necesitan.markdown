@@ -12,11 +12,11 @@ author: nil
 description: "Mencionó que  se arranca con un equipo concreto. "
 image: "/uploads/2021/images-HGFD.jpg"
 video: "/uploads/2021/videos-BJ03ANWAR_ELIAS.mp4"
-audio: "nil"
+audio: nil
 alt: "Los Chihuahuenses necesitan tener más protagonismo "
 front: false
 section: "Local"
-news_id: 187168
+redirect_from: /news/187168
 ---
 
 El Lic. Anwar Elías Ortiz  promotor deportivo en el municipio de Chihuahua declaró que a las abejas de león  se le prestan jugadores del estado grande para que adquieran más protagonismo ya así tener más experiencia ya que dorados está buscando un campeonato.

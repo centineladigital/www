@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 asciende a 8 mil 118 casos (+6), y se concentran en los municipios de Juárez (+1), Cuauhtémoc (+2), Nuevo Casas Grandes (+1), Ojinaga (+1) y Bocoyna (+1).  "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 220 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 189374
+redirect_from: /news/189374
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 29 de octubre el reporte COVID-19, en el cual se registran 81 mil 252 (+220) personas confirmadas en la entidad por este padecimiento, 70 mil 463 (+139) casos recuperados, 74 mil 581 (+208) descartados y 961 (+47) casos sospechosos.

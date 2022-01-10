@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente dijo que si nosotros damos pasos para atrás, ya se frena la transformación. "
 image: "/uploads/2021/images-andres-manuel-lopez-obrador-112.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO descarta negociar Presupuesto 2022 a cambio de que se apruebe la reforma eléctrica"
 front: false
 section: "Nacional"
-news_id: 189134
+redirect_from: /news/189134
 ---
 
 El presidente Andrés Manuel López Obrador descartó negociar con la oposición modificaciones al proyecto de Presupuesto de Egresos de la Federación 2022 a cambio de que se apruebe la reforma eléctrica, ya que hacerlo, consideró, “es politiquería”. 

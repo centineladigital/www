@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Luego de las especulaciones sobre su posible salida, el brasileño amplió su contrato con el cuadro parisino"
 image: "/uploads/2021/images-2575180.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Neymar renueva con el PSG hasta 2025"
 front: false
 section: "Deportes"
-news_id: 184357
+redirect_from: /news/184357
 ---
 
 Tras los interminables rumores sobre su salida, la estrella brasileña Neymar renovó por tres temporadas, hasta 2025, su contrato con el ParIs Saint-Germain, al que llegó en 2017 convirtiéndose en el fichaje más caro de la historia del futbol (270 millones de dólares).

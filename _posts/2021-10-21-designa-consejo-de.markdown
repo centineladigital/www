@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Falomir cuenta con experiencia como Diputado Federal, donde fue Secretario de la Comisión de Recursos Hidráulicos, Agua Potable y Saneamiento del H. Congreso de la Unión, así como Regidor del Ayuntamiento de Chihuahua.  "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Designa Consejo de JCAS a directores Ejecutivos de JMAS de Juárez y Chihuahua"
 front: false
 section: "Local"
-news_id: 189056
+redirect_from: /news/189056
 ---
 
 El Consejo de Administración de la Junta Central de Agua y Saneamiento (JCAS) revisó las propuestas para nuevos titulares de las Juntas Municipales de Agua y Saneamiento (JMAS) para Ciudad Juárez y Chihuahua, conforme a los lineamientos establecidos por ley.

@@ -14,11 +14,11 @@ author: nil
 description: "Reiteró Bonilla al que en Chihuahua “el que la hace, la paga”. Manifestó el edil."
 image: "/uploads/2021/images-aHvG5BDTJuF6Y1iX.jpeg"
 video: "/uploads/2021/videos-BM03_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Arresta policía presunto culpable de 11 asaltos a establecimientos "
 front: false
 section: "Local"
-news_id: 189891
+redirect_from: /news/189891
 ---
 
 Marco Bonilla presidente municipal de chihuahua dio a conocer la detención de Sergio G.L., asaltante presunto culpable de once robos a lo largo de la capital el cual fue capturado por elementos de la unidad de investigación policial en conjunto con la unidad de análisis táctico, el detenido es presuntamente el responsable de robar tiendas de conveniencia, farmacias y mini supers.

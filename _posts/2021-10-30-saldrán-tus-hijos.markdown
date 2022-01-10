@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Elementos de Seguridad vigilarán para atender y actuar en caso de incidentes"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Saldrán tus hijos a pedir dulces por Halloween?, la Policía Municipal te dice cómo cuidarte"
 front: false
 section: "Local"
-news_id: 189414
+redirect_from: /news/189414
 ---
 
 El Gobierno Municipal a través de la Dirección de Seguridad Pública, exhorta a los menores que salen suelen salir a pedir dulces, seguir las siguientes recomendaciones, quienes deberán ser guiados en todo momento por adultos para evitar situaciones que pongan en riesgo su integridad.

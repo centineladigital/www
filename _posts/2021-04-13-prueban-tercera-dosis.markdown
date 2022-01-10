@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Inician pruebas de una tercera dosis de las vacunas covid de Pfizer y Moderna en Estados Unidos, para determinar si funciona contra las mutaciones del virus"
 image: "/uploads/2021/images-2561343.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prueban tercera dosis de Pfizer y Moderna para combatir variantes"
 front: false
 section: "Internacional"
-news_id: 183841
+redirect_from: /news/183841
 ---
 
 Decenas de personas están recibiendo una tercera dosis de la vacuna contra el covid-19 en Estados Unidos, esta vez con pequeños ajustes para combatir una versión del virus con mutaciones.

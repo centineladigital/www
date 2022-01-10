@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De acuerdo con la última evaluación de la amenaza de las drogas de la DEA, el Cártel Jalisco Nueva Generación tiene presencia significativa en 23 de las 32 entidades del país. "
 image: "/uploads/2021/images-el-grupo-criminal-usa-armas_0_27_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Peña Nieto dejó crecer al Cártel Jalisco Nueva Generación -  FGR"
 front: false
 section: "Nacional"
-news_id: 189986
+redirect_from: /news/189986
 ---
 
 El Cártel Jalisco Nueva Generación (CJNG) fue uno de los grupos de la delincuencia organizada menos perseguidos en el gobierno de Enrique Peña Nieto, a pesar de su franca expansión nacional e internacional, su creciente poderío y su amplia capacidad de armamento, revelan cifras de la Fiscalía General de la República (FGR). 

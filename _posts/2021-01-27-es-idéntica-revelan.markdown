@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La película se titula Spencer y estará dirigida por el cineasta chileno Pablo Larraín. "
 image: "/uploads/2021/images-se-espera-que-la-pelicula.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Es idéntica! Revelan primera imagen de Kristen Stewart como Lady Di en nueva cinta"
 front: false
 section: "Espectáculos"
-news_id: 182483
+redirect_from: /news/182483
 ---
 
 A mediados del año pasado se confirmó que Kristen Stewart dará vida a la princesa Diana en Spencer, película que dirigirá el cineasta chileno Pablo Larraín. En el largometraje se narrarán tres días en específico de la vida de Lady Di, quien murió en un accidente automovilístico hace más de dos décadas. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Invita a llevar a cabo un proceso de transición positivo."
 image: "/uploads/2021/images-MARU2.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML01.mp3"
 alt: "Pide Gobernadora electa transición sin “animadversión”"
 front: false
 section: "Local"
-news_id: 185575
+redirect_from: /news/185575
 ---
 
 Un proceso libre de diversos dimes y diretes es lo que solicitó la Gobernadora Electa, María Eugenia Campos Galván. Esto ya que existen dichos de diversos actores políticos, por lo que no se puede caer en este juego.

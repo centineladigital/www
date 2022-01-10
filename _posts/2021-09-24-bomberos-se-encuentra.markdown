@@ -12,11 +12,11 @@ author: nil
 description: "El alcalde tiene una visión competitiva "
 image: "/uploads/2021/images-JHGF.jpg"
 video: "/uploads/2021/videos-BV02_JUAN_MORALES.mp4"
-audio: "nil"
+audio: nil
 alt: " Bomberos se encuentra en un enorme reto de infraestructura "
 front: false
 section: "Local"
-news_id: 188035
+redirect_from: /news/188035
 ---
 
 Juan Manuel Morales, director del Heroico Cuerpo de Bomberos, señaló que bomberos  se enfrenta a retos enormes en materia de infraestructura, por lo tanto el alcalde del municipio Marco Bonilla tiene una  visión competitiva para crear una corporación fuerte.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la apuesta para fomentar cadenas de valor y el desarrollo de nuevas tecnologías se invirtieron 449 millones de pesos; destaca Javier Corral que Chihuahua es uno de los tres estados del país que generó empleo cuando en la mayoría se perdieron"
 image: "/uploads/2021/images-Proyecto_Spark_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Consolida Chihuahua su paso a la “mentefactura” con 4 centros de innovación"
 front: false
 section: "Local"
-news_id: 182582
+redirect_from: /news/182582
 ---
 
 En la nueva era del Tratado de Libre Comercio, fomentamos el desarrollo de inteligencia artificial para atraer inversiones con valor agregado y mejores salarios, señaló el gobernador Javier Corral.

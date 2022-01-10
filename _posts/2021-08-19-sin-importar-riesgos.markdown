@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante su mensaje a los chihuahuenses, durante la presentación del Quinto Informe de Gobierno, el mandatario estatal afirmó que en esta lucha, no reparó en riesgos o consecuencias para llevarlo a cabo"
 image: "/uploads/2021/images-Gobernador_Javier_Corral__(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sin importar riesgos se cumplió a cabalidad compromiso contra la corrupción e impunidad"
 front: false
 section: "Local"
-news_id: 186882
+redirect_from: /news/186882
 ---
 
 El gobernador Javier Corral, dijo a los chihuahuenses haber cumplido con su principal compromiso, que fue el de luchar contra la corrupción y la impunidad, contra quienes hicieron de la privatización de los bienes públicos su forma de enriquecerse.

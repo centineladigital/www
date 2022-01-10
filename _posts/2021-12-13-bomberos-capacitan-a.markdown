@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal aplica el programa “Mis Primeros Pasos” de manera virtual"
 image: "/uploads/2021/images-unnamed_(19).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Bomberos capacitan a niñas y niños para actuar en caso de accidente"
 front: false
 section: "Local"
-news_id: 190796
+redirect_from: /news/190796
 ---
 
 El Gobierno Municipal a través del H. Cuerpo de Bomberos, aplica el programa “Mis primeros Pasos” con el fin fomentar desde temprana edad, la cultura del autocuidado y la prevención de quemaduras relacionadas con el uso de cerrillos y encendedores. 

@@ -10,11 +10,11 @@ author: nil
 description: "Se reunén para exponer tema con titular de la Secretaría de Desarrollo Urbano y Ecología."
 image: "/uploads/2021/images-GABRIEL_VALDEZ.jpg"
 video: "/uploads/2021/videos-MV03_GABRIEL_VALDEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Analizan retén ciudadano y concesionarios incremento de tarifa"
 front: false
 section: "Local"
-news_id: 189813
+redirect_from: /news/189813
 ---
 
 Analizan retén ciudadano y concesionarios incremento de tarifa

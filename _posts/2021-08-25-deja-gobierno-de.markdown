@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Fue un eje fundamental en todas las acciones que llevó a cabo la Secretaría General de Gobierno, por indicación del gobernador Javier Corral, el tomar en cuenta el derecho humano de las personas: Luis Fernando Mesta Soulé"
 image: "/uploads/2021/images-Derechos_humanos_Choreachi_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Deja Gobierno de Chihuahua mejor marco legal y operativo para protección de derechos humanos"
 front: false
 section: "Local"
-news_id: 187102
+redirect_from: /news/187102
 ---
 
 Uno de los principales logros del Gobierno del Estado de Chihuahua fue la creación de la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada y luego la instalación de la Unidad Estatal de Protección a Periodistas y Personas Defensoras de los Derechos Humanos, destacó la Secretaría General de Gobierno, en el programa “Logros con Valor”.

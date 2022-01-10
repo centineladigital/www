@@ -10,11 +10,11 @@ author: nil
 description: "Será el primer evento que se lleva a cabo de forma presencial en el presente año."
 image: "/uploads/2021/images-ANA.jpg"
 video: "/uploads/2021/videos-MM06_ANA_ROCIO_ESCOBAR.mp4"
-audio: "nil"
+audio: nil
 alt: "Ofertarán mil vacantes en feria del empleo"
 front: false
 section: "Local"
-news_id: 189712
+redirect_from: /news/189712
 ---
 
 Por lo menos mil vacantes se estarán ofertando en la Feria del Empleo organizada por el Servicio Nacional de Empleo, el cual se llevará a cabo este 12 y 13 de noviembre, teniendo como sede el Centro de Convenciones.

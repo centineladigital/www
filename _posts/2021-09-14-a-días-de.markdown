@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Además, el 3 de septiembre declinaron la competencia a favor de la Federación, de la causa penal por enriquecimiento ilícito, sin que hasta la fecha se haya pronunciado la FGR"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-14_at_10.52.53.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-09-14_at_10.52.53.mp4"
 alt: "A días de terminar, Administración de Corral se desistió de procedimiento de extinción de dominio de bienes asegurados a duartistas"
 front: false
 section: "Local"
-news_id: 187717
+redirect_from: /news/187717
 ---
 
 Con fecha del 2 de septiembre del presente año, la Administración estatal recién concluida, se desistió del procedimiento de extinción de dominio sobre bienes asegurados a exfuncionarios, a quienes se siguió causa penal por diversos delitos en la llamada “Operación Justicia para Chihuahua”.

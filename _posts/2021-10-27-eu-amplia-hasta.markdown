@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Departamento de Seguridad de EU gira indicación para el paso solo con esquema completo. "
 image: "/uploads/2021/images-eu-amplia-prohibicion-vacunados-covid.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU amplia hasta 2022 prohibición a no vacunados covid en frontera"
 front: false
 section: "Internacional"
-news_id: 189239
+redirect_from: /news/189239
 ---
 
 El Departamento de Seguridad Nacional de los Estados Unidos amplió hasta enero del 2022 la prohibición de ingreso de tamaulipecos como mexicanos en general a su territorio sin la vacuna del covid-19, es decir, aquellos connacionales que cuenten con su esquema completo podrán cruzar por los puentes internacionales para actividades no esenciales. 

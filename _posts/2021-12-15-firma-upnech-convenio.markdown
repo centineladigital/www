@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El documento fue signado por Rubén Alejandro Romero Talamantes, presidente de la asamblea general de CONAJO MX, y por el rector de la UPNECH, Pedro Rubio Molina."
 image: "/uploads/2021/images-_DSC0244.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Firma UPNECH convenio de colaboración con el Consejo Nacional de Jóvenes Pro México"
 front: false
 section: "Local"
-news_id: 190887
+redirect_from: /news/190887
 ---
 
 La Universidad Pedagógica Nacional del Estado de Chihuahua (UPNECH), llevó a cabo la firma del convenio de colaboración académica, científica y cultural con el Consejo Nacional de Jóvenes Pro México A.C. (CONAJO MX).

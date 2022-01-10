@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El comediante reveló detalles de la intervención quirúrgica a la que se sometió y su actual estado de salud."
 image: "/uploads/2021/images-teo-gonzalez-reaparece-sufrir-infarto_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me tocó; es como un accidente -  Teo González reaparece tras sufrir infarto"
 front: false
 section: "Espectáculos"
-news_id: 188880
+redirect_from: /news/188880
 ---
 
 Hace unos días, las alarmas se encendieron en el mundo de la comedia cuando se dio a conocer que Teo González había sido hospitalizado de emergencia tras sufrir un infarto mientras se encontraba en casa. El Comediante de la Cola de Caballo -como es conocido en el medio artístico- reapareció luego de la cirugía a la que se sometió por el ataque cardíaco.  El comediante, uno de los máximos exponentes del humor nacional, se hizo presente frente a las cámaras del programa Sale el Sol después de abandonar el hospital. Durante el encuentro con la prensa, reveló detalles de la intervención quirúrgica y su actual estado de salud.  

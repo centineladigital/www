@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hoy, Día Mundial de la Bicicleta, este medio de transporte no solo protege la ecología, sino que es una forma ejercitarse y ayuda a proteger las articulaciones"
 image: "/uploads/2021/images-bicicleta_saludable.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Uso de bicicleta beneficia salud -  Cruz Roja Chihuahua"
 front: false
 section: "Local"
-news_id: 184820
+redirect_from: /news/184820
 ---
 
 En el marco del Día Mundial de la Bicicleta que se conmemora cada 3 de junio, la Cruz Roja Mexicana delegación estatal Chihuahua, informó que este medio de transporte no solo significa un medio que protege la ecología, sino que es una forma ejercitarse y ayuda a proteger las articulaciones, a quemar calorías, combate el dolor de espalda, fortalece el sistema inmunológico y reduce los niveles de cortisol, una hormona vinculada al estrés.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Galilea Montijo se burló de una confesión íntima que lanzó Andrea Legarreta en el programa Hoy; ¿Fue real? ¿Fue en tono de broma? Esto pasó. "
 image: "/uploads/2021/images-galilea-montijo-burla-andrea-legarreta.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me casé virgen” -  Galilea Montijo se burla de confesión íntima de Andrea Legarreta en programa 'Hoy'"
 front: false
 section: "Espectáculos"
-news_id: 188145
+redirect_from: /news/188145
 ---
 
 Galilea Montijo y Andrea Legarreta dieron mucho de qué hablar durante la emisión del programa Hoy de Televisa, al hablar sobre si puede existir la posibilidad de que en un momento regresaran con alguna de sus ex parejas. En medio de sus opiniones, Andrea Legarreta aclaró que su única pareja ha sido Erik Rubín, algo que causó la burla de su compañera Galilea Montijo en plena transmisión en vivo. Todo comenzó después de presentar una nota de que Juan Soler había regresado con una ex pareja de su juventud. Como es común, Andrea Legarreta y Galilea Montijo dieron su opinión. ¿Ellas regresarían con un ex?.

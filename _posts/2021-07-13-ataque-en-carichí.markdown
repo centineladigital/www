@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Hechos que afectaron al municipio de Cuauhtémoc."
 image: "/uploads/2021/images-PENICHE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM05.mp3"
 alt: "Ataque en Carichí se dio por enfrentamiento entre dos cárteles"
 front: false
 section: "Local"
-news_id: 185626
+redirect_from: /news/185626
 ---
 
 El reciente ataque a la comandancia de la Policía Municipal en Carichí, derivó de la pugna que existe entre los grupos de “La Línea” y “Los Tigres”, señaló el Fiscal general del Estado, César Peniche Espejel. Quien fue cuestionado sobre los hechos de violencia y las desapariciones que se dieron en las últimas horas en el municipio de Cuauhtémoc.

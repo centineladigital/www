@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Integrantes del Consejo de Prevención Social de la Violencia y la Delincuencia, (COPREV), efectuaron la sesión correspondiente al mes de agosto, en la cual se presentaron las propuestas y avances del trabajo que realizan las cinco comisiones que lo conforman.   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan comisiones de COPREV avances de trabajo en sesión mensual"
 front: false
 section: "Local"
-news_id: 186582
+redirect_from: /news/186582
 ---
 
 En el evento se destacó la aprobación por parte del Cabildo, del Plan Municipal de Prevención de la Violencia y la Delincuencia del Municipio de Chihuahua, un plan elaborado e impulsado por el COPREV a través de la Comisión de Seguridad Pública.

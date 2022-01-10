@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Visitará Subsecretaria de Educación Básica de la SEP escuelas telesecundarias para buscar la mejora al servicio estudiantil "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_09.27.19.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suman esfuerzos SEyD y SEP para mejorar y fortalecer atención en telesecundarias del estado"
 front: false
 section: "Local"
-news_id: 188124
+redirect_from: /news/188124
 ---
 
 Con el objetivo de conocer la operación y servicio que ofrecen las escuelas telesecundarias de la entidad y levantar un registro que contribuya a mejorar la atención que se brinda a la población estudiantil, la subsecretaria de Educación Básica de la Secretaría de Educación Pública (SEP), Martha Velda Hernández Moreno, realiza una gira de trabajo por Chihuahua.

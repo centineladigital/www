@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Actualmente los viajeros procedentes de Sudáfrica, Botsuana, Zimbabue, Namibia, Lesoto, Suazilandia, Mozambique y Malaui tienen prohibida la entrada en territorio estadounidense"
 image: "/uploads/2021/images-eu-restricciones-covid-24.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " EU levantará restricciones de viaje el 31 de diciembre a países de África por ómicron"
 front: false
 section: "Internacional"
-news_id: 191191
+redirect_from: /news/191191
 ---
 
 Estados Unidos levantará el 31 de diciembre las restricciones de viaje que impuso a ocho países africanos para frenar la propagación de la variante ómicron de coronavirus, informó este viernes en Twitter un portavoz de la Casa Blanca.

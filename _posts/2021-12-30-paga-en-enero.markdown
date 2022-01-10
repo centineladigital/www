@@ -12,11 +12,11 @@ author: nil
 description: "Este 30 de diciembre concluye el descuento en recargos del 80 por ciento"
 image: "/uploads/2021/images-unnamed_(3).jpg"
 video: "/uploads/2021/videos-predial_2021.mp4"
-audio: "nil"
+audio: nil
 alt: "Paga en enero con el 12% de descuento en tu Predial, a partir del día 3"
 front: false
 section: "Local"
-news_id: 191349
+redirect_from: /news/191349
 ---
 
 El Gobierno Municipal a través de la Tesorería, invita a la ciudadanía a aprovechar el descuento del 12 por ciento a partir del próximo 3 de enero, el cual estará vigente durante todo el mes.

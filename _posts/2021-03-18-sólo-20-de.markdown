@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El resto de los convocados para fungir como funcionarios de casilla no fue localizado en su domicilio, o no ha recibido la notificación correspondiente"
 image: "/uploads/2021/images-Urnas.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sólo 20% de chihuahuenses insaculados se encuentran en capacitación"
 front: false
 section: "Local"
-news_id: 183458
+redirect_from: /news/183458
 ---
 
 Sólo el 20.37% de los ciudadanos sorteados para ser funcionarios de casilla han aceptado participar en las elecciones del 6 de junio, el resto no fue localizado en su domicilio o no ha recibido la notificación correspondiente, de acuerdo con el Instituto Nacional Electoral (INE).

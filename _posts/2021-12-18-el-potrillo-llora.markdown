@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Alejandro Fernández regresó a los escenarios tras la muerte de su papá y visiblemente conmovido, así recordó a Vicente Fernández. "
 image: "/uploads/2021/images-alejandro-fernandez-conmovio-recordar-papa-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'El Potrillo' llora en concierto tras muerte de Vicente Fernández -  un aplauso que llegue hasta el cielo"
 front: false
 section: "Espectáculos"
-news_id: 191002
+redirect_from: /news/191002
 ---
 
 Vicente Fernández murió el pasado 12 de diciembre y a pocos días de que se cumpla una semana del fallecimiento del cantante, su hijo Alejandro Fernández, regresó a los escenarios para interpretar sus temas más exitosos. El Potrillo se presentó en el Auditorio Telmex en Guadalajara. A pesar de que ha pasado por días complicados tras la muerte de su padre, Alejandro Fernández regresó a los escenarios para deleitar a sus fans con sus canciones, además de ofrecer un homenaje a Vicente Fernández. 

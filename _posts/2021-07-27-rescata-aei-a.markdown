@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Consulado General de Guatemala brindó información a la Fiscalía General del Estado; se trata de 38 hombres y cinco mujeres, entre ellos cuatro menores"
 image: "/uploads/2021/images-Vehículo_asegurado_y_casa_en_donde_retenían_a_centroamericanos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rescata AEI a 43 centroamericanos privados de la libertad en un domicilio de Aldama"
 front: false
 section: "Local"
-news_id: 186021
+redirect_from: /news/186021
 ---
 
 Elementos de la Agencia Estatal de Investigación adscritos a la Unidad Modelo de Atención al Delito de Secuestro, implementaron un operativo en el que rescataron a 43 centroamericanos que estaban privados de su libertad en un domicilio ubicado en céntrica colonia del Municipio de Aldama.

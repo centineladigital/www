@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se suma al proyecto de María Eugenia Campos Galván."
 image: "/uploads/2021/images-GAMEROS.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML01_EDUARDO_GAMEROS.mp3"
 alt: "Deja Eduardo Gameros candidatura"
 front: false
 section: "Local"
-news_id: 183971
+redirect_from: /news/183971
 ---
 
 El vocalista del grupo Caballo Dorado dejó de ser candidado a una diputación por el Partido Verde Ecologista de México para sumarse a la propuesta del PAN a la gubernatura. Mientras que Catalina Bustillos renunció a la candidatura a diputación federal por el partido Fuerza por México, para de igual forma sumarse al partido albiazul.

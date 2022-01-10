@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Cambiaron el transformador dañado que afectaba a 20 cuadras "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-06_at_10.58.49.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Restablece Gobierno Municipal servicio de alumbrado en 150 luminarias de colonia Revolución"
 front: false
 section: "Local"
-news_id: 188427
+redirect_from: /news/188427
 ---
 
 El Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, restableció el servicio de alumbrado público en un total de 150 lámparas de la colonia Revolución, con el cambio del transformador que alimenta esa área. 

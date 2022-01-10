@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Proyecto del Presupuesto Participativo, con una inversión de más de 12 millones de pesos"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-06_at_08.19.21.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Mensaje_presidente_municipal.m4a"
 alt: "Arranca Gobierno Municipal construcción de parque al sur de la ciudad; beneficiará a 100 mil habitantes"
 front: false
 section: "Local"
-news_id: 188409
+redirect_from: /news/188409
 ---
 
 Con una inversión de 12 millones 986 mil 399 pesos del Presupuesto Participativo 2021, el alcalde Marco Bonilla Mendoza, dio inicio a la construcción del parque recreativo en un área de 6 mil 346 metros cuadrados en el residencial Haciendas del Real. 

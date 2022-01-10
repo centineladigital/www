@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Alfredo Adame sigue dando de qué hablar, pese a ser candidato político para las próximas elecciones, sigue mostrando su vocabulario violento contra fans en forma de saludo."
 image: "/uploads/2021/images-alfredo-adame-acuso-asesino-serial.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhiben saludos de Alfredo Adame en TikTok; manda 'mentadas de madre' personalizadas"
 front: false
 section: "Espectáculos"
-news_id: 184190
+redirect_from: /news/184190
 ---
 
 Alfredo Adame, candidato a diputado federal para el Distrito XIV de Tlalpan por el partido Redes Sociales Progresistas (RSP), sigue envuelto en controversia, pues ha quedado constatado que el también actor tiene comportamiento violento con sus detractores. Y es que después de que el famoso diera la cara para disculparse por recientemente haber agredido con insultos a automovilistas, ahora salió a la luz un video prueba en el que para complacer a sus seguidores insulta por llamada a quien se lo pida. Fue a través de TikTok en donde salió a la luz un nuevo video en el que Alfredo Adame manda en forma de saludos ‘mentadas de madre’ a quien le pidan. En el clip que de nueva cuenta causó controversia, se escucha al candidato responder una llamada telefónica y lanzar insultos tras una petición. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal alegra a las y los niños de Chihuahua con la casa de Santa y las luces multicolores"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Iluminan la Plaza de Armas con encendido de árbol navideño"
 front: false
 section: "Local"
-news_id: 190657
+redirect_from: /news/190657
 ---
 
 El alcalde Marco Bonilla, acompañado de su esposa Karina y sus hijos, hicieron cuenta regresiva para encender la Plaza de Armas con las luces multicolores de los adornos y árbol de navidad, para disfrute de las familias chihuahuenses y de los visitantes que llegan a la capital para las fiestas decembrinas. 

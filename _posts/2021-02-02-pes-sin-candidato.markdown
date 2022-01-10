@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Hasta marzo definirán el nombre del candidato a gobernador para este partido."
 image: "/uploads/2021/images-MEDINA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM05_DAVID_MEDINA.mp3"
 alt: "PES sin candidato a Goberndor, extenderán su convocatoria"
 front: false
 section: "Local"
-news_id: 182638
+redirect_from: /news/182638
 ---
 
 Desierta fue como se declaró la convocatoria por parte del Partido Encuentro Solidario a Gobernador, esto luego de concluir la convocatoria para los diversos cargos, por lo que se extenderá hasta el mes de marzo la misma con el fin de determinar quien será su abanderado para las elecciones del mes de julio.

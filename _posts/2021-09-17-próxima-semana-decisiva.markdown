@@ -10,11 +10,11 @@ author: nil
 description: "Pudieran definir clases presenciales o virtuales en próximas semanas."
 image: "/uploads/2021/images-GONZALEZ.jpg"
 video: "/uploads/2021/videos-MV03_JAVIER_GONZALEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Próxima semana decisiva para escuelas -  Educación "
 front: false
 section: "Local"
-news_id: 187826
+redirect_from: /news/187826
 ---
 
 La próxima semana será decisiva para la situación dentro de las escuelas para saber si se vuelve a clases presenciales, fueron las palabras del titular de la Secretaría de Educación Javier González Mocken. El funcionario dio a conocer que durante la presente semana se llegó a un número de 29 escuelas que han tenido que dejar las clases presenciales.

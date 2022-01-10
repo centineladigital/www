@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "José Elías Moreno dijo que cuando le dio neumonía y que su oxigenación era demasiado baja corrió a buscar hospitales para que lo atendieran; sin embargo, batalló mucho, pues en los nosocomios no había camas disponibles. "
 image: "/uploads/2021/images-jose-elias-moreno-revela-grave.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Perdí la noción” -  José Elías Moreno, actor de Televisa, sintió que casi moría por covid-19"
 front: false
 section: "Espectáculos"
-news_id: 182832
+redirect_from: /news/182832
 ---
 
 José Elías Moreno, famoso actor de Televisa, reveló que sintió que estaba a punto de morir a causa del coronavirus, covid-19. El famoso explicó que pasó alrededor de un mes y medio en cama debido al contagio por covid-19. Aseguró que vivió una grave sintomatología que lo llevó a poner en peligro su vida. Incluso, llegó a pensar que moriría, pues su oxigenación no era buena. Te contamos lo que expresó. En entrevista con el programa Hoy, José Elías Moreno dijo que cuando le dio neumonía y que su oxigenación era demasiado baja corrió a buscar hospitales para que lo atendieran; sin embargo, batalló mucho, pues en los nosocomios no había camas disponibles. “Sí, estuve muy mal, me dio neumonía con una oxigenación muy baja, no había hospitales, no había camas, no es broma, entonces mi mujer y mi hijo -me cuidaron-”, contó el actor de Televisa.

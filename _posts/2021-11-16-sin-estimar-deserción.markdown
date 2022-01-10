@@ -10,11 +10,11 @@ author: nil
 description: "Esperan ir a las casas por los alumnos."
 image: "/uploads/2021/images-JAVIER.jpg"
 video: "/uploads/2021/videos-MM02_JAVIER_GONZALEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Sin estimar deserción por pandemia"
 front: false
 section: "Local"
-news_id: 189887
+redirect_from: /news/189887
 ---
 
 Debido a la situación que se ha vivido por la pandemia se ha registrado un incremento importante de deserción por parte de los alumnos, declaró el titular de la Secretaría de Educación y Deporte, Javier González Mocken. 

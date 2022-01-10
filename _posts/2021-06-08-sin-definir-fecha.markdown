@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Hasta que se cuente con el número de vacunas, señaló Leticia Ruiz."
 image: "/uploads/2021/images-LETICIA_RUIZ.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM06_LETICIA_RUIZ.mp3"
 alt: "Sin definir fecha de vacunación en Chihuahua capital"
 front: false
 section: "Local"
-news_id: 184932
+redirect_from: /news/184932
 ---
 
 La fase de vacunación de personas en el municipio de Chihuahua aún no está definida, afirmó la Directora de Medicina Preventiva y Promoción de la Salud, Leticia Ruiz González. Esto ya que esta semana anunció el gobernador que en 16 municipios se inició la vacunación para este grupo etario.

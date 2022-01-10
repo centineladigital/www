@@ -14,11 +14,11 @@ author: nil
 description: "Se conmemora la vida y no la muerte: Bonilla "
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-02_at_09.52.50.jpeg"
 video: "/uploads/2021/videos-BM04_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Presentan altar de muertos de Municipio "
 front: false
 section: "Local"
-news_id: 189483
+redirect_from: /news/189483
 ---
 
 Marco Bonilla presidente municipal de Chihuahua , presidió la presentación de este altar de muertos, el cuál reconoció como un emblema de México, a través de sus olores, sabores y colores, además de representar la esperanza de que un día, cada familia pueda reencontrarse con sus seres queridos.

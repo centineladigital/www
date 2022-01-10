@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz resultó herida luego de realizar una secuencia de acción que podremos ver en la secuela. "
 image: "/uploads/2021/images-imagen-difundida-disney-lupita-nyong_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Letitia Wright sufre lesión en las grabaciones de 'Black Panther 2' y suspenden la película temporalmente"
 front: false
 section: "Espectáculos"
-news_id: 189617
+redirect_from: /news/189617
 ---
 
 La producción de Pantera Negra: Wakanda forever, la secuela del exitoso filme de Marvel, fue suspendida para permitir que la actriz Letitia Wright se recupere de una lesión que sufrió en el rodaje durante el verano boreal, según medios especializados. La actriz de Pantera Negra, la película de 2018 que se hizo famosa por tener por primera vez como protagonista a un superhéroe negro, resultó herida al grabar una secuencia de acrobacias en Boston en agosto. 

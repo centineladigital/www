@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se instalarán señales para la Ruta del Desierto y la Ruta Tarahumara, así como en los Pueblos Mágicos y algunos municipios adicionales"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-24_at_09.50.21.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reúne titular de SIDE con representantes de iniciativa Chihuahua Global"
 front: false
 section: "Local"
-news_id: 188021
+redirect_from: /news/188021
 ---
 
 La titular de la Secretaría de Innovación y Desarrollo Económico de Gobierno del Estado, María Angélica Granados Trespalacios, se reunió en Ciudad Juárez con representantes de la iniciativa Chihuahua Global.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Barbora Krejcikova y Katerina Siniakova concluyeron la etapa de round robin con tres victorias "
 image: "/uploads/2021/images-krejcikova-siniakova-terminan-invictas-grupos_0_21_931_579.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Krejcikova y Siniakova terminan invictas en grupos de las WTA Finals"
 front: false
 section: "Deportes"
-news_id: 189863
+redirect_from: /news/189863
 ---
 
 Las principales candidatas al título en el dobles están claras. Barbora Krejcikova y Katerina Siniakova concluyeron la etapa de round robin con tres victorias, aunque la última llegó en el límite. 

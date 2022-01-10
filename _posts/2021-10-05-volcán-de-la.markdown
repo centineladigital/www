@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Departamento de Seguridad Nacional de España indicó que los expertos no descartan la aparición nuevos centros de emisión de lava ni un aumento de la actividad explosiva."
 image: "/uploads/2021/images-volcan-de-la-palma-lanza_1_24_1022_637.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Volcán de La Palma lanza más lava; ha emitido más de 250 mil toneladas de dióxido de azufre"
 front: false
 section: "Internacional"
-news_id: 188381
+redirect_from: /news/188381
 ---
 
 El volcán de La Palma, que ha destruido casi mil construcciones y que está ubicado en una isla de España, incrementó su poder explosivo este martes al rugir con más fuerza y lanzar lava más espesa de su abertura principal. 

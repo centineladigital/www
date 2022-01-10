@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La STPS impulsa una cultura de trabajo productiva e incluyente, privilegiando la solución a través del diálogo, lo que ha contribuido a consolidar la estabilidad laboral que existe en Chihuahua   "
 image: "/uploads/2021/images-Juntas_Locales_de_Conciliación_y_Arbitraje.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se logra justicia laboral y resuelven 38 mil demandas en Juntas Locales de Conciliación y Arbitraje"
 front: false
 section: "Local"
-news_id: 186661
+redirect_from: /news/186661
 ---
 
 “En el periodo de esta administración recibimos más de 54 mil demandas y logramos concluir cerca de 38 mil expedientes, de los cuales 21 mil 525 fueron a través de un convenio”, informó Ramón        Herrera Pedroza, secretario del Trabajo y Previsión Social.

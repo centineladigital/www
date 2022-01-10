@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Edgar Mejía lanzó un plan iniciar con tres defensoras que después tuvo que modificar a su sistema usual. "
 image: "/uploads/2021/images-chivas-femenil-se-despide-en_0_38_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chivas Femenil se despide en cuartos de final, América avanza a semifinales del AP2021"
 front: false
 section: "Deportes"
-news_id: 190574
+redirect_from: /news/190574
 ---
 
 Otro episodio más de la rivalidad más icónica del fútbol mexicano quedó del lado de las Águilas. América dio cátedra de una organización defensiva notable en el Akron y Chivas Femenil quedó eliminado en los cuartos de final del Apertura 2021. 

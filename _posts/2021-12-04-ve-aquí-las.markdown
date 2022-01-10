@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Atenderá seis colonias del 6 al 10 de diciembre   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ve aquí las colonias que visitará el Destilichadero esta semana"
 front: false
 section: "Local"
-news_id: 190525
+redirect_from: /news/190525
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, llevará el programa de Destilichadero a seis colonias durante la semana del 6 al 10 de diciembre, con el objetivo de recolectar basura de grandes dimensiones.

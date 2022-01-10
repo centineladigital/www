@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Netflix también prepara dos series animadas basadas en 'Charlie y la fábrica de chocolate'. "
 image: "/uploads/2021/images-willy-wonka-wolper-pictures.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Chocolate a la vista! La nueva película de Willy Wonka ya tiene fecha de estreno"
 front: false
 section: "Espectáculos"
-news_id: 182299
+redirect_from: /news/182299
 ---
 
 La historia del chocolatero más famoso del mundo podría tener una nueva película, desacuerdo con la información que el medio estadunidense The Hollywood Reporter dio a conocer este martes. Y es que desde 2018 existen rumores de que la casa productora Warner Bros. tiene la intención de llevar la vida de Willy Wonka una vez más a la pantalla grande. 

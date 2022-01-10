@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por Covid-19 asciende a 8 mil 92 con dos nuevos casos registrados en Saucillo (+1) y en el municipio de Guadalupe y Calvo (+1).  "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 139 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 189131
+redirect_from: /news/189131
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 23 de octubre el reporte Covid-19, en el cual se registran 80 mil, 426 (+139) personas confirmadas en la entidad por este padecimiento, 70 mil 047 (+83) casos recuperados, 73 mil 528 (+265) descartados y 853 (-9) casos sospechosos.

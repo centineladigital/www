@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El DIF Estatal y la Secretaría de Desarrollo Humano y Bien Común, elaborarán un proyecto para mejorar los Cerenam de las comunidades de Choreachi, Corre Coyote y El Venadito  "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncian plan integral para combatir la desnutrición infantil en Guadalupe y Calvo"
 front: false
 section: "Local"
-news_id: 189476
+redirect_from: /news/189476
 ---
 
 El DIF Estatal Chihuahua y la Secretaría de Desarrollo Humano y Bien Común, anunciaron la elaboración de un proyecto integral para mejorar las condiciones de los Centros de Recuperación Nutricional y Albergue Materno (Cerenam), ubicados en diversas comunidades del municipio de Guadalupe y Calvo.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma colaboración con Estados Unidos para este tema."
 image: "/uploads/2021/images-JAVIER_CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML07_JAVIER_CORRAL.mp3"
 alt: "Proceso de Duarte es irreversible -  Corral"
 front: false
 section: "Local"
-news_id: 181856
+redirect_from: /news/181856
 ---
 
 El proceso en contra del exgobernador de Chihuahua detenido en Estados Unidos es irreversible, fueron las palabras del Gobernador Javier Corral, luego de cuestionársele que la defensa argumentó la falta de seguridad para poder llevar a cabo la extradición que pesa en contra de César Duarte.

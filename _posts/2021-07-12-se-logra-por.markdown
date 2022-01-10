@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "De los 713 mdp recuperados de los actos de corrupción cometidos en la pasada administración, 657 corresponden a las acciones fiscales del actual Gobierno; están por radicarse 62.8 mdp en las arcas estatales."
 image: "/uploads/2021/images-Programa_especial_Secretar_a_de_Hacienda__(13).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se logra por vía fiscal recuperación del 92% del total de recursos de Operación Justicia para Chihuahua"
 front: false
 section: "Local"
-news_id: 185574
+redirect_from: /news/185574
 ---
 
 Derivado de la Operación Justicia para Chihuahua por la vía fiscal, la Secretaría de Hacienda ha recuperado 657 de los 713 millones de pesos (mdp) que el Gobierno del estado ha recuperado de los actos de corrupción cometidos durante la pasada administración.

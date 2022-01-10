@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La suspensión contempla dos semanas de educación a distancia, previa y posterior a vacaciones. (13 al 17 de diciembre de 2021 y 3 al 7 de enero de 2022).   "
 image: "/uploads/2021/images-unnamed_(16).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Secretaría de Educación y Deporte pide apoyo a docentes, padres y madres de familia para continuar con educación a distancia como medida preventiva ante repunte de COVID"
 front: false
 section: "Local"
-news_id: 190789
+redirect_from: /news/190789
 ---
 
 La Secretaría de Educación y Deporte hace un llamado a docentes, padres y madres de familia, para que apoyen a las y los estudiantes en este periodo de educación a distancia, que inicia este lunes 13 de diciembre en el estado de Chihuahua.

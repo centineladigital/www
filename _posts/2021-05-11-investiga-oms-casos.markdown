@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La OMS indaga casos de personas completamente vacunadas que dieron positivo a covid-19 en Seychelles, donde el 60% de la población ha recibido dos dosis"
 image: "/uploads/2021/images-2576561.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Investiga OMS casos de vacunados con dos dosis que dieron positivo a covid"
 front: false
 section: "Internacional"
-news_id: 184393
+redirect_from: /news/184393
 ---
 
 La Organización Mundial de la Salud (OMS) dijo este martes que está revisando los datos de coronavirus de Seychelles, después de que el Ministerio de Salud local dijera que más de un tercio de las personas que dieron positivo por covid-19 la semana pasada habían sido completamente vacunadas.

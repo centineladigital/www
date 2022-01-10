@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El sistema inmune de la mujer eliminó el virus sin ayuda de fármacos ni tratamientos."
 image: "/uploads/2021/images-mujer-elimina-vih.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El extraordinario caso de la paciente argentina que eliminó el VIH sin tratamiento"
 front: false
 section: "Internacional"
-news_id: 189916
+redirect_from: /news/189916
 ---
 
 Una paciente argentina parece haber eliminado de su cuerpo el virus del VIH (Virus de Inmunodeficiencia Humana) sin medicinas ni tratamiento, en el que sería el segundo caso documentado de este tipo en el mundo.

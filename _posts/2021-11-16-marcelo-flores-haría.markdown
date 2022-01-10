@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El mediocampista del Arsenal Sub 20 ya ha tenido participación dentro de los procesos de selección de México, pero no descarta "
 image: "/uploads/2021/images-marcelo-flores-jugador-seleccion-mexicana.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Marcelo Flores haría 'a un lado' a México para jugar con Canadá -  Estoy abierto a otras selecciones"
 front: false
 section: "Deportes"
-news_id: 189860
+redirect_from: /news/189860
 ---
 
 El mediocampista Marcelo Flores destacó en su participación en la Revelations Cup, en la cual consiguió marcar en la victoria de México frente a Brasil, lo que también generó expectativa para la afición del Tri.  Aunque muchos ya sueñan con verlo vestir la jersey azteca, el futbolista dejó en claro que todavía no define su futuro y quiere conocer los proyectos de otras selecciones, puesto que, además del pasaporte mexicano, tiene el canadiense y el inglés.  

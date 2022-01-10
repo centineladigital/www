@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "A un ciudadano detenido por conducir en estado de ebriedad"
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-27_at_7.37.45_AM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza Policía Vial primera audiencia de justicia cívica"
 front: false
 section: "Local"
-news_id: 191240
+redirect_from: /news/191240
 ---
 
 La División de Policía Vial realizó la primera audiencia pública del Modelo Homologado de Justicia Cívica, a un ciudadano que conducía a exceso de velocidad y alcoholizado en primer grado.

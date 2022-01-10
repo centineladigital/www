@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El blindaje comienza a disminuir aproximadamente tres meses después de la segunda dosis, destaca un estudio divulgado por The Lancet"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ven necesario refuerzo de AstraZeneca para mayor protección contra el Covid-19"
 front: false
 section: "Internacional"
-news_id: 191107
+redirect_from: /news/191107
 ---
 
 Un estudio divulgado en The Lancet el lunes indicó que una dosis de refuerzo de AstraZeneca es necesaria para aumentar la protección y evitar el Covid grave.

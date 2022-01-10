@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de un comunicado, la agencia YG Entertainment dio a conocer que la integrante del grupo de K-pop BLACKPINK, Lisa, dio positivo a covid-19. "
 image: "/uploads/2021/images-lisa-de-blackpink-instagram-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lisa, estrella del grupo BLACKPINK, dio positivo a covid-19"
 front: false
 section: "Espectáculos"
-news_id: 190146
+redirect_from: /news/190146
 ---
 
 Lisa, la integrante del popular grupo de K-pop BLACKPINK, dio positivo a la prueba de covid-19 este 24 de noviembre. La estrella de origen tailandés se ha convertido en una de las figuras más relevantes para la industria de la música, dándose a conocer tanto con su banda como en su faceta de solista. 

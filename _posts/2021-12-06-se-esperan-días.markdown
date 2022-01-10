@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Temperaturas agradables durante el día y sin probabilidad de lluvias"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se esperan días nublados esta semana para la ciudad -  Protección Civil Municipal"
 front: false
 section: "Local"
-news_id: 190544
+redirect_from: /news/190544
 ---
 
 La Coordinación Municipal de Protección Civil, informa que esta semana se esperan temperaturas agradables durante el día, con noches y madrugadas frescas y días mayormente nublados, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional. 

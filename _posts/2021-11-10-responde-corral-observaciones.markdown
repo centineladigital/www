@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto de las más de mil observaciones que se tienen pendientes."
 image: "/uploads/2021/images-MONICA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW05__MARIA_ALVAREZ.mp4"
 alt: "Responde Corral observaciones ante SFP"
 front: false
 section: "Local"
-news_id: 189759
+redirect_from: /news/189759
 ---
 
 Dos respuestas son las que ha recibido la presente administración por parte del exgobernador Javier Corral, según lo dio a conocer la titular de la Secretaría de Función Pública, María de los Ángeles Álvarez Hurtado.

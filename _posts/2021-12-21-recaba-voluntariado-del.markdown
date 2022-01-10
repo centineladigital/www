@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Fue gracias al esfuerzo y solidaridad de las y los trabajadores de las diversas áreas del Instituto en la entidad."
 image: "/uploads/2021/images-Foto_6377-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recaba Voluntariado del IMSS Chihuahua juguetes para albergues de Guachochi, San Juanito y Valle de Allende "
 front: false
 section: "Buenas Noticias"
-news_id: 191068
+redirect_from: /news/191068
 ---
 
 El Voluntariado del Instituto Mexicano del Seguro Social (IMSS) en Chihuahua recabó cientos de juguetes para las y los niños que se encuentren en los albergues de Guachochi, Valle de Allende y San Juanito, que dependen del programa IMSS-BIENESTAR.

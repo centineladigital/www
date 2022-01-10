@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Además de ser conductor e interpretar a Brozo, Víctor Trujillo es actor de doblaje. Te mostramos a algunos de los personajes a los que les ha dado voz."
 image: "/uploads/2021/images-victor-trujillo-prestado-voz-personajes_16_0_1046_649.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Víctor Trujillo y los divertidos personajes a los que les ha prestado su voz"
 front: false
 section: "Espectáculos"
-news_id: 186135
+redirect_from: /news/186135
 ---
 
 Víctor Trujillo es conocido principalmente por ser titular de diferentes programas de televisión y radio, además de sus personajes como el payaso Brozo, La Beba Galván, El Charro Amarillo, entre otros, sin embargo, también se desempeña como actor de doblaje. Gracias a su trabajo en el doblaje de voz, ha podido participar en diferentes películas, sobre todo animadas. 

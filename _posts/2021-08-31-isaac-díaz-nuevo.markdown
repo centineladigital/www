@@ -14,11 +14,11 @@ author: nil
 description: "Se acredita como coordinador de los regidores del PAN en el ayuntamiento de Chihuahua de 2012 a 2024"
 image: "/uploads/2021/images-NOMBRAMIENTO.jpeg"
 video: "/uploads/2021/videos-BM01_ISSAC_DIAZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Isaac Díaz nuevo coordinador de regidores de fracción edilicia del PAN "
 front: false
 section: "Local"
-news_id: 187300
+redirect_from: /news/187300
 ---
 
 En el comité directivo municipal del Partido Acción Nacional Chihuahua se llevó a cabo el nombramiento oficial de Isaac Díaz Gurrola, como coordinador de la fracción ante las autoridades Partidistas.

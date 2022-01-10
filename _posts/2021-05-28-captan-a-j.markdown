@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Déjenme orinar tranquilo... Póngalo en Instagram, un litro de agua, dice J Balvin a la persona que lo grabó haciendo sus necesidades. "
 image: "/uploads/2021/images-grabacion-difundio-redes-sociales-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Captan a J Balvin orinando en vía pública; video provoca polémica en redes"
 front: false
 section: "Espectáculos"
-news_id: 184711
+redirect_from: /news/184711
 ---
 
 Aunque J Balvin es un cantante que ha logrado el éxito mundial debido a su música, las últimas noticias sobre él han tenido relación con sucesos escandalosos, por ejemplo: que se burló de una foto que Canelo Álvarez compartió sobre su boda o que no lo reconocieron en una tienda de Nueva York y le negaron la entrada.  Ahora, para acrecentar este tipo de nota sobre el colombiano, se difundió en redes sociales un video donde aparece orinando en vía pública, lo que de inmediato generó varias reacciones entre los internautas. 

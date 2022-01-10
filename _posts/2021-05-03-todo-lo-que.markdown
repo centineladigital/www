@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este Día de Star Wars, Disney Plus estrena la serie 'The Bad Batch' con un especial de 70 minutos. Te decimos todo lo que debes saber sobre su estreno. "
 image: "/uploads/2021/images-debes-star-wars-the-bad.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Todo lo que debes saber sobre 'Star Wars -  The Bad Batch'; fecha de estreno y dónde ver"
 front: false
 section: "Espectáculos"
-news_id: 184239
+redirect_from: /news/184239
 ---
 
 El próximo Día de Star Wars se estrena The Bad Batch, una serie animada de la productora Lucasfilm que formará parte de los acontecimientos ocurridos en la serie de La Guerra de los Clones. Aquí te decimos todo lo que debes saber sobre el estreno de la serie. 

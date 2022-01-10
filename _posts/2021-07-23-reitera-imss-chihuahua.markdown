@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua exhorta a la población a no exponerse a la radiación solar directa, por lo que recomendó mantener el uso de bloqueadores, sombreros, gorros y sombrillas"
 image: "/uploads/2021/images-Foto_3455-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reitera IMSS Chihuahua la importancia de protegerse del calor en esta temporada "
 front: false
 section: "Local"
-news_id: 185946
+redirect_from: /news/185946
 ---
 
 

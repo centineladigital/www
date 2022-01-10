@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El próximo 20 de agosto llega a Netflix 'The Chair', la nueva serie protagonizada por Sandra Oh en tándem con Jay Duplas. Creada por Amanda Peet y producida por los creadores de Game of Thrones. "
 image: "/uploads/2021/images-imagen-difundida-netflix-sandra-oh.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sandra Oh cambia suspenso por risas con 'The Chair' y pone pausa a 'Killing Eve'"
 front: false
 section: "Espectáculos"
-news_id: 186927
+redirect_from: /news/186927
 ---
 
 Sandra Oh ha estado en un eterno baile con la muerte y la asesina serial Villanelle en la serie de televisión Killing Eve desde 2018, así que reír un poco le cae bien como actriz. Esa fue una de las razones por las que la actriz canadiense-estadunidense asumió el papel de la profesora Ji-Yoon Kim, recién nombrada directora del departamento de inglés de una universidad prestigiosa pero en problemas, en la serie de comedia y drama de Netflix, The Chair. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "No aumenta Predial, se utilizará el mismo valor de la base gravable"
 image: "/uploads/2021/images-unnamed_(9).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueba Cabildo por unanimidad Anteproyecto de actualización a las Tablas de Valores del Municipio"
 front: false
 section: "Local"
-news_id: 189261
+redirect_from: /news/189261
 ---
 
 Las y los integrantes del Ayuntamiento aprobaron por unanimidad el Anteproyecto de la actualización de las Tablas de Valores Catastrales Unitarios de Suelo y Construcción y la Actualización de la Base Gravable para el cálculo del Impuesto Predial, ambos para el Ejercicio Fiscal 2022.

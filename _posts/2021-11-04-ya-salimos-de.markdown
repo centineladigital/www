@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El mandatario sostuvo que, a pesar de la emergencia por el covid-19, suman tres años de su gobierno sin que haya devaluación del peso. "
 image: "/uploads/2021/images-mandatario-insistio-finanzas-nacionales-sanas_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Ya salimos de la crisis”, dice AMLO; destaca aumento en recaudación y empleos"
 front: false
 section: "Nacional"
-news_id: 189540
+redirect_from: /news/189540
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que “ya salimos” de la crisis económica derivada de la pandemia de coronavirus porque ya hay 150 mil empleos más registrados en el Instituto Mexicano del Seguro Social (IMSS) que antes de la llegada del covid-19 a México. 

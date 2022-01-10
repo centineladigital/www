@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se otorga por la buena calidad de la atención proporcionada a los usuarios de los servicios del hospital y por un excelente desarrollo profesional."
 image: "/uploads/2021/images-Foto_5439-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega IMSS Premio Nacional al Mérito Médico al Director del Hospital Rural en Guachochi, Chihuahua, del Programa IMSS-BIENESTAR"
 front: false
 section: "Local"
-news_id: 189513
+redirect_from: /news/189513
 ---
 
 “Este galardón es un incentivo para continuar trabajando en la prevención y atención de la salud de los pobladores de las comunidades serranas”, afirmó el doctor Omar Tacuba Casarrubias, director del Hospital Rural (HR) ubicado en el municipio de Guachochi, Chihuahua.

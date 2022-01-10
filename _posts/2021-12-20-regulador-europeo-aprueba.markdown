@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Agencia Europea de Medicamentos dio luz verde a la vacuna de Novavax, que utiliza una tecnología más clásica respecto de las empleadas por los otros fármacos ya autorizados, lo que podría reducir el escepticismo entre los no vacunados."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Regulador europeo aprueba vacuna Novavax en medio de advertencias sobre ómicron"
 front: false
 section: "Internacional"
-news_id: 191027
+redirect_from: /news/191027
 ---
 
 El regulador de medicamentos de la Unión Europea (UE) aprobó este lunes la vacuna anti-Covid de Novavax, en un momento en que se multiplican las advertencias en todo el mundo sobre el avance de la variante ómicron, mucho más contagiosa.

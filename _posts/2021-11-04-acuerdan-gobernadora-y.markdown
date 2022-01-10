@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se refrendó el compromiso de hacer un solo equipo para empujar por las necesidades de Chihuahua y gestionar proyectos que le den al estado y a su gente una mejor calidad de vida."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Acuerdan gobernadora y diputados federales de todos los partidos políticos un frente común por Chihuahua"
 front: false
 section: "Local"
-news_id: 189532
+redirect_from: /news/189532
 ---
 
 La gobernadora del estado, Maru Campos Galván se reunió este miércoles con los diputados federales de todas las fracciones parlamentarias que representan a Chihuahua en la Cámara de Diputados, con el propósito de hacer un frente común en beneficio de las y los chihuahuenses.

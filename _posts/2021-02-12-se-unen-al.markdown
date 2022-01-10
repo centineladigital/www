@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "House of the Dragon, la precuela de la exitosa serie Game of Thrones poco a poco desvela su elenco. Estos cuatro actores se unen a la producción. "
 image: "/uploads/2021/images-estos-cuatro-actores-tambien-participaran.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Se unen al elenco! Estos actores participarán en 'House of the Dragon', precuela de GOT"
 front: false
 section: "Espectáculos"
-news_id: 182901
+redirect_from: /news/182901
 ---
 
 Debido al éxito de la serie Game of Thrones, basada en los libros escritos por George R. R. Martin, ahora se planea la creación de una precuela la cual llevará por nombre House of the Dragon y se espera que comience sus grabaciones en abril. Poco a poco se han dado pistas de los actores que formarán parte del elenco y se acaban de desvelar el nombre de cuatro histriones que trabajarán en la producción. House of the Dragon, primer spin-off de la ficción ambientado siglos antes de Canción de Hielo y Fuego, está a cargo de HBO y la producción ha sumado cuatro nuevos actores a su reparto, intérpretes que asumirán roles protagonistas dentro de la trama.

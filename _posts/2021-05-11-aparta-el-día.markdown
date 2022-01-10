@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los cinco nuevos capítulos de la serie francesa de Netflix se han adelantado tras el éxito de la primera entrega.   "
 image: "/uploads/2021/images-poster-oficial-de-la-parte.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Aparta el día! 'Lupin' presenta tráiler oficial y fecha de estreno de la segunda parte"
 front: false
 section: "Espectáculos"
-news_id: 184404
+redirect_from: /news/184404
 ---
 
 La segunda parte de la primera temporada de Lupin, la exitosa serie de Netflix, acaba de estrenar el tráiler oficial y anunciar la tan esperada fecha de estreno. En el clip se observa al ladrón Assane Diop ahora convertido en un enemigo público y el hombre más buscado de Francia. Cinco nuevos capítulos, cuya emisión que estaba prevista inicialmente para finales del año en curso, se han adelantado tras el éxito de la primera entrega. El protagonista Omar Sy estará de nuevo acompañado por Hervé Pierre, Nicole Garcia, Clotilde Hesme, Ludivine Sagnier, Antoine Gouy, Shirine Boutella y Soufiane Guerrab. 

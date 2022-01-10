@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con 18 votos a favor y 9 en contra,  se aprobó para que  dicho puesto pueda gestionar dependencias y entidades de la Administración Pública Municipal"
 image: "/uploads/2021/images-FEGRG.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AJ01_ARTURO_PARGA_OLIVAS.mp3"
 alt: "Aprueba Congreso generar la figura City Manager en la capital de Chihuahua"
 front: false
 section: "Local"
-news_id: 182709
+redirect_from: /news/182709
 ---
 
 Durante la sesión ordinaria del Congreso del Estado, los diputados aprobaron crear la figura de City Manager, o “administrador de la ciudad”, en los municipios que tengan una población igual o mayor a 100 mil habitantes y el cargo durará 6 años con posibilidad de una reelección.

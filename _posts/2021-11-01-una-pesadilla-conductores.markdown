@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el programa Hoy de Televisa, Galilea Montijo, Andrea Legarreta, Tania Rincón, Raúl Araiza, Andrea Escalona dieron el último adiós a Octavio Ocaña, Benito de Vecinos. Así fue el emotivo homenaje."
 image: "/uploads/2021/images-conductores-programa-dedican-emotivo-homenaje.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Una pesadilla -  Conductores del programa 'Hoy' homenajean a Octavio Ocaña de 'Vecinos'; así lo recordaron"
 front: false
 section: "Espectáculos"
-news_id: 189434
+redirect_from: /news/189434
 ---
 
 Octavio Ocaña, actor que dio vida a Benito en Vecinos, murió a los 22 años de edad. La noticia sobre su fallecimiento impactó a miles de televidentes que lo vieron crecer. Por ello, algunos famosos se han dado a la tarea de dedicarle emotivas palabras y hacerle homenaje por su vida y trayectoria artística. Tal es el caso del programa Hoy, conducido por Galilea Montijo, Andrea Legarreta, Andrea Escalona, Tania Rincón, Arath de la Torre, Raúl Araiza y Paul Stanley. Durante la transmisión en vivo de hoy, recordaron a Octavio Ocaña. Fue durante la transmisión en vivo del programa Hoy de Televisa en donde los conductores del programa Hoy, homenajearon a Ocatvio Ocaña. 

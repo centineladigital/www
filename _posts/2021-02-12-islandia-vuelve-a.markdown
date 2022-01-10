@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Es el único país desde hace tres semanas clasificado como verde en el mapa del Centro Europeo para la Prevención y el Control de Enfermedades"
 image: "/uploads/2021/images-2528376.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Islandia vuelve a la normalidad con casi cero casos de coronavirus"
 front: false
 section: "Internacional"
-news_id: 182883
+redirect_from: /news/182883
 ---
 
 Islandia, con la menor tasa de incidencia de covid-19 en Europa, levantó esta semana una serie de restricciones a bares, piscinas y gimnasios, mientras recupera una vida casi normal, concentrándose ahora en los controles fronterizos.

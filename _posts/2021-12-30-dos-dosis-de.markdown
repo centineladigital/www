@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El estudio ha sido publicado como preimpresión y debe ser sometido a la revisión de pares de la comunidad científica. "
 image: "/uploads/2021/images-vacuna-covid-johnson-johnson-sirve.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dos dosis de vacuna de Johnson & Johnson reducen 85% hospitalización por ómicron"
 front: false
 section: "Internacional"
-news_id: 191337
+redirect_from: /news/191337
 ---
 
 Las personas vacunadas con dos dosis de Johnson and Johnson (J&J) pueden estar protegidas en un 85 por ciento de necesitar hospitalización tras contraer covid-19 con la variante ómicron, según un estudio realizado en Sudáfrica cuyos detalles fueron revelados hoy. 

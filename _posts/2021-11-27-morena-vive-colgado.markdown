@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Asegura que si pierde la candidatura en un proceso interno con reglas transparentes aceptará la derrota "
 image: "/uploads/2021/images-senador-platico-estudiantes-universidad-monterrey_0_27_600_373.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Morena vive “colgado” del Presidente -  Monreal"
 front: false
 section: "Nacional"
-news_id: 190269
+redirect_from: /news/190269
 ---
 
 En varias partes del país, como Nuevo León, “Morena está muy dividido” y sobrevive porque sigue colgado del presidente Andrés Manuel López Obrador, afirmó Ricardo Monreal, coordinador de ese partido en el Senado.

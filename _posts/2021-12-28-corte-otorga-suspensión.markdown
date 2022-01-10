@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La ministras Margarita Ríos Farjat y Yasmín Esquivel Mossa consideraron que, de no otorgarse la suspensión, se corría el riesgo de afectar el ejercicio democrático de derechos. "
 image: "/uploads/2021/images-margarita-rios-farjat-presidenta-de.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Corte otorga suspensión a AMLO; ordena a INE seguir preparando revocación"
 front: false
 section: "Nacional"
-news_id: 191256
+redirect_from: /news/191256
 ---
 
 La Comisión de Receso de la Suprema Corte de Justicia de la Nación (SCJN) concedió una suspensión al presidente Andrés Manuel López Obrador, medida cautelar que ordena al Instituto Nacional Electoral (INE) continuar preparando el posible ejercicio de revocación de mandato.

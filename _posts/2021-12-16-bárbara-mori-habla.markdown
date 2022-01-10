@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hoy se estrena en Amazon Prime la cinta 'Tú eres mi problema', que retrata los conflictos entre una madre y su hijo adolescente. "
 image: "/uploads/2021/images-tu-eres-mi-problema-prime.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Bárbara Mori habla sobre 'Tú eres mi problema', su nueva película para Prime Video"
 front: false
 section: "Espectáculos"
-news_id: 190925
+redirect_from: /news/190925
 ---
 
 La actriz Bárbara Mori encarna a una madre que atraviesa conflictos con su hijo adolescente Sebastián, los encuentros y desencuentros son el día a día de esta relación que harán que ambos se involucren en un viaje emocional en el que tienen que entenderse para trascender. “Toca un tema con el que creo que todo el mundo se va a identificar, todos tenemos mamá o somos hijos, en algún momento de nuestras vidas quisimos matar a nuestros padres de alguna manera –dijo Bárbara entre risas en entrevista con MILENIO–; eso fue lo que me hizo identificarme mucho con la película, aparte de que soy mamá de un hombre y me parece necesario hablar de todo lo que se vive”. 

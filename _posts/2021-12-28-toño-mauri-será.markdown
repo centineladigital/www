@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Carla Mauri, hija de Toño Mauri, compartió una tierna foto para dar a conocer que está embarazada de su primer hijo. "
 image: "/uploads/2021/images-el-actor-reacciono-a-la.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Toño Mauri será abuelo! Carla Mauri, hija del actor, anuncia su embarazo"
 front: false
 section: "Espectáculos"
-news_id: 191263
+redirect_from: /news/191263
 ---
 
 En 2020 Toño Mauri estuvo hospitalizado varios meses, en coma y tuvo que recibir un doble trasplante de pulmón tras las secuelas del covid-19. Afortunadamente, el actor logró recuperarse y salir del hospital, al poco tiempo entregó a su hija Carla Mauri en el altar y ahora, su familia crece ya que su hija está embarazada. A través de una tierna foto, Carla Mauri dio a conocer que está embarazada de su primer hijo y será el próximo año cuando la cigüeña haga su llegada. La hija de Toño Mauri compartió la imagen en Instagram. 

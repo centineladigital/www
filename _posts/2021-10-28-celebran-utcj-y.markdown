@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Unirán esfuerzos en beneficio de la comunidad juarense"
 image: "/uploads/2021/images-UTCJ2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Celebran UTCJ y DIF Municipal convenio de colaboración   "
 front: false
 section: "Local"
-news_id: 189303
+redirect_from: /news/189303
 ---
 
 La Universidad Tecnológica de Ciudad Juárez (UTCJ) y el Sistema Municipal para el Desarrollo Integral de la Familia (DIF) celebraron un convenio de colaboración en materia de vinculación social más efectiva con su comunidad.  

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Juan Pablo de Botton tomará la subsecretaría en lugar de Victoria Rodríguez Ceja, quien fue propuesta para gobernar el Banco de México. "
 image: "/uploads/2021/images-juan-pablo-botton-asumira-subsecretaria_0_1_1200_745.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Juan Pablo de Botton, director de Nafin, será el nuevo subsecretario de Egresos"
 front: false
 section: "Nacional"
-news_id: 190415
+redirect_from: /news/190415
 ---
 
 El presidente Andrés Manuel López Obrador anunció que Juan Pablo de Botton será nombrado como subsecretario de Egresos de la Secretaría de Hacienda cuando deje el cargo Victoria Rodríguez Ceja, quien fue propuesta para gobernar el Banco de México. 

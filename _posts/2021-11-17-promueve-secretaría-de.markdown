@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Indicó que el consumo excesivo de alcohol es causa directa de 60 enfermedades, y constituye un factor de riesgo para diversos padecimientos y accidentes."
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Promueve Secretaría de Salud disminución de consumo de alcohol en Chihuahua"
 front: false
 section: "Local"
-news_id: 189926
+redirect_from: /news/189926
 ---
 
 En el marco del Día Nacional contra el Uso Nocivo de Bebidas Alcohólicas, la Secretaría de Salud se suma a las estrategias y actividades para concientizar a la población chihuahuense sobre la necesidad de disminuir su uso nocivo, así como de los efectos nocivos del alcohol, principalmente en niñas, niños y jóvenes.

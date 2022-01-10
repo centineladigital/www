@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "A lo largo de la administración se ha tenido una estrecha colaboración entre ambas instituciones. "
 image: "/uploads/2021/images-LT2.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW05_LUIS_TARIN.mp3"
 alt: "Niega titular de IMPE que muerte de policía se debiera a adeudos"
 front: false
 section: "Local"
-news_id: 183897
+redirect_from: /news/183897
 ---
 
 Tras la muerte de un elemento de la policía municipal el titular del Instituto Muncipal de Pensiones, Luis Carlos Tarín, negó que la falta de atención se diera debido a que existen adeudos por parte del municipio de Chihuahua a la institución privada.

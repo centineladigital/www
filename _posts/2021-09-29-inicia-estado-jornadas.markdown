@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La Secretaría del Trabajo y Previsión Social realizará esta actividad periódicamente, en espacios públicos y de fácil acceso, para facilitar este proceso"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-29_at_14.47.34.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia Estado jornadas de reclutamiento para personas buscadoras de empleo"
 front: false
 section: "Local"
-news_id: 188200
+redirect_from: /news/188200
 ---
 
 Con el objetivo de responder a las necesidades del mercado laboral y efectuar una vinculación efectiva entre personas empleadoras y buscadoras de empleo, Gobierno del Estado, a través de la Secretaría del Trabajo y Previsión Social (STPS) inició este miércoles 29 de septiembre una serie de jornadas de reclutamiento de personal.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Esta propuesta es una falta de respeto al sentido común y arrogante hacia la ciencia, declaró a la prensa el viceministro chino de Salud, Zeng Yixin, que dijo que estaba extremadamente sorprendido"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "China rechaza visita arrogante de la OMS a laboratorios de Wuhan"
 front: false
 section: "Internacional"
-news_id: 185903
+redirect_from: /news/185903
 ---
 
 China rechazó este jueves la propuesta de la Organización Mundial de la Salud (OMS) de auditar laboratorios chinos como parte de una investigación más amplia sobre el origen de la pandemia de Covid-19 diciendo que era "arrogante".

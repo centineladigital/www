@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La población objetivo son niñas y niños de seis a 59 meses, personas adultas mayores, mujeres embarazadas, personal de salud"
 image: "/uploads/2021/images-Foto_5489-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita IMSS Chihuahua a la población a protegerse contra la Influenza "
 front: false
 section: "Local"
-news_id: 189622
+redirect_from: /news/189622
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua invita a la población derechohabiente a sumarse en la Campaña Nacional de Vacunación contra la Influenza estacional 2021-2022, que inició este 3 de noviembre.

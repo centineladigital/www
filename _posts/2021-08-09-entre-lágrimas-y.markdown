@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El argentino no pudo contener las emociones antes de entrar a la sala de prensa: Nunca imaginé mi despedida"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entre lágrimas y aplausos, Lionel Messi dice adiós al Barcelona"
 front: false
 section: "Deportes"
-news_id: 186443
+redirect_from: /news/186443
 ---
 
 El futbolista argentino Lionel Messi rompió a llorar al inicio de su conferencia de prensa de despedida del FC Barcelona este domingo, y aseguró que nunca pensó que se iría del club español, al que llegó de niño.

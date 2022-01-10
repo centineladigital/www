@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se realiza en poblados de La Cruz, Rosales, Meoqui, San Francisco de Conchos y Carichí"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-22_at_10.15.27.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aplican segundas dosis de vacuna contra COVID-19 en 5 municipios"
 front: false
 section: "Local"
-news_id: 187947
+redirect_from: /news/187947
 ---
 
 La Secretaría de Salud Chihuahua dio a conocer el inicio de la aplicación de segundas dosis de la vacuna contra COVID-19 en los municipios de La Cruz, Rosales, Meoqui, San Francisco de Conchos y Carichí.

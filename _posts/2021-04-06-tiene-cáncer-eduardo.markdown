@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Eduardo Yañez empleó sus redes sociales para aclarar la situación e informar cómo se encuentra de salud. "
 image: "/uploads/2021/images-eduardo-yanez-se-esta-recuperando.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Tiene cáncer? Eduardo Yañez aclara rumores sobre su salud"
 front: false
 section: "Espectáculos"
-news_id: 183716
+redirect_from: /news/183716
 ---
 
 Eduardo Yañez ha vuelto a ser centro de atención, luego de los rumores sobre su estado de salud, según los cuales al actor se le había detectado cáncer tras la cirugía a la que se sometió para que le retirarán piedras en el riñón. A mediados de febrero, el actor reveló que por problemas de salud tenía que renunciar a su papel en la telenovela Si nos dejan, un remake de Mirada de mujer en el que Mayrín Villanueva es la protagonista, y también detalló que tendría que ser intervenido y ante la incertidumbre de la recuperación prefería ser profesional y salirse del proyecto. 

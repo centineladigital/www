@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se busca disuadir la comisión de fraudes cibernéticos durante la época decembrina"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Emite Gobierno del Estado recomendaciones para realizar compras en Internet de forma segura"
 front: false
 section: "Local"
-news_id: 189749
+redirect_from: /news/189749
 ---
 
 Debido al incremento en el número de compras que se realizan a través de los portales de internet, aunado a la entrega de aguinaldos y gratificaciones anuales.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Hospital General “Dr. Darío Fernández Fierro” cuenta con el Centro de Hemodiálisis más grande de la dependencia en todo el país; realiza 2,400 sesiones mensuales"
 image: "/uploads/2021/images-WhatsApp_Image_2021-07-27_at_4.21.08_PM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Destaca el ISSTE en servicio de hemodialisis"
 front: false
 section: "Local"
-news_id: 186046
+redirect_from: /news/186046
 ---
 
 Como parte de la estrategia de mejorar los procesos médicos, el Instituto de Seguridad y Servicios de los Trabajadores del Estado (ISSSTE) ha optimizado los servicios de hemodiálisis considerados vitales y prioritarios para aumentar tiempo de sobrevida con calidad a infantes, adolescentes y adultos afectados por Enfermedad Renal Crónica (ERC), informó el director general, Luis Antonio Ramírez Pineda.

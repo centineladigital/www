@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal llevó está dinámica a alumnos y docentes del Tecnológico de Chihuahua"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con túnel sensorial, generan conciencia sobre vida de personas con discapacidad visual"
 front: false
 section: "Local"
-news_id: 189477
+redirect_from: /news/189477
 ---
 
 Con el fin de generar conciencia sobre las actividades diarias y experiencias que viven las personas con una discapacidad visual, el Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, instaló un túnel sensorial en el campus I del Tecnológico de Chihuahua.

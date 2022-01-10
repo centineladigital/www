@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Checa aquí la lista completa de los ganadores de la edición número 93 de los Premios Oscar. "
 image: "/uploads/2021/images-lista-ganadores-premios-oscar-especial_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lista completa de ganadores de los Premios Oscar 2021"
 front: false
 section: "Espectáculos"
-news_id: 184106
+redirect_from: /news/184106
 ---
 
 Esta noche se llevan a cabo los Premios Oscar 2021, una de las ceremonias más esperadas del año que reconoce a lo mejor del séptimo arte de Estados Unidos. Sin duda, se trata de una edición sin precedentes debido a la pandemia de covid-19, pese a ello, la Academia de cine decidió que la gala fuera por completo presencial sin conexiones vía Zoom. Figuras como Brad Pitt, Laura Pausini, Emerald Fennell, Zendaya, Chloé Zhao y Carey Mulligan se darán cita en Los Ángeles, para finalmente conocer a los ganadores del Oscar. No te pierdas la mejor cobertura de los premios, con el minuto a minuto de MILENIO. Aquí te compartiremos la lista completa de ganadores del Oscar en las 24 categorías.

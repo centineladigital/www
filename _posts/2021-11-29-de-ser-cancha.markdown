@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Gracias al Presupuesto Participativo del Gobierno Municipal, se beneficiaron 850 alumnos"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "De ser cancha de tierra y piedras, ahora la Técnica 57 cuenta con renovado espacio para futbol"
 front: false
 section: "Local"
-news_id: 190308
+redirect_from: /news/190308
 ---
 
 Gracias a la participación y compromiso de los alumnos y personal administrativo de la secundaria Técnica 57 de la colonia Insurgentes, el Gobierno Municipal invirtió más de un millón de pesos del Presupuesto Participativo 2021, para que la comunidad estudiantil pueda practicar futbol en una cancha totalmente renovada y digna.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con las puertas abiertas y los artistas decidios a volver a los escenarios para regalarle su música a los seguidores, este 2022 viene cargado de muchos conciertos y festivales en la Ciudad de México. "
 image: "/uploads/2021/images-festival-continuo-mayores-complicaciones-domingo_0_1_898_559.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Música hasta para llevar! Los conciertos y festivales que nos esperan este 2022"
 front: false
 section: "Espectáculos"
-news_id: 191307
+redirect_from: /news/191307
 ---
 
 Este 2021 nos dejó el regreso de los conciertos y festivales de manera presencial después de casi dos años en donde todos los eventos eran digitales y a distancia. 

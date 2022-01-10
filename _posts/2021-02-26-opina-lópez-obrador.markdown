@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "“Nosotros no vamos a opinar sobre eso y es a la autoridad y a los partidos a los que les corresponde atender estos casos sin prejuzgar, todos tenemos el derecho de denunciar”"
 image: "/uploads/2021/images-Captura_de_pantalla_2021-02-26_a_la(s)_09.02.43.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Opina López Obrador sobre Carlos Borruel"
 front: false
 section: "Local"
-news_id: 183169
+redirect_from: /news/183169
 ---
 
 “Nosotros no vamos a opinar sobre eso y es a la autoridad y a los partidos a los que les corresponde atender estos casos sin prejuzgar, todos tenemos el derecho de denunciar”.

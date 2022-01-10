@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se reportó aumento de precios de 83 y 75 centavos por kilogramo de gas licuado de petróleo LP vendido en cilindros metálicos en algunos lugares de Iztapalapa"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gas Bienestar reporta aumento de precios a partir de hoy en Iztapalapa"
 front: false
 section: "Nacional"
-news_id: 188553
+redirect_from: /news/188553
 ---
 
 La empresa gasera estatal indicó que subió 83 y 75 centavos por kilogramo de gas licuado de petróleo LP vendido en cilindros metálicos en algunos lugares de esta alcaldía, a partir del primer minuto de este sábado 9 de octubre, según informó la Comisión Reguladora de Energía.

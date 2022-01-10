@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto para familiares de personas desaparecidas o no localizadas."
 image: "/uploads/2021/images-YESICA_RENTERIA.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM07_YESICA_RENTERIA.mp3"
 alt: "Envían recomendaciones para prevenir extorsiones"
 front: false
 section: "Local"
-news_id: 182641
+redirect_from: /news/182641
 ---
 
 Con el fin de que personas que tengan un familiar desaparecido sean extorsionadas, la Fiscalía General del Estado, a través de la Comisión de Búsqueda emitió algunas recomendaciones.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La campaña de vacunación contra influenza continuará en las unidades de salud"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suspenden vacunación contra influenza programada para este viernes en módulo peatonal y vehicular por lluvia"
 front: false
 section: "Local"
-news_id: 190241
+redirect_from: /news/190241
 ---
 
 A consecuencia de las condiciones climáticas registradas este viernes en la ciudad de Chihuahua, la Secretaría de Salud suspendió los módulos de vacunación vehicular y peatonal que fueron instalados  a un costado del Estadio de Béisbol Manuel M. Almanza, en la Facultad de Contaduría de la UACH y en el estadio de Béisbol de la Deportiva Sur.

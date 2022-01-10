@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mucho se habla sobre la lucha de egos entre María Elena Velasco y Mario Moreno; esto es lo que sabemos del conflicto de los comediantes mexicanos. "
 image: "/uploads/2021/images-historia-rivalidad-india-maria-cantinflas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿'La India María' y 'Cantinflas' eran rivales? La historia detrás de su enemistad"
 front: false
 section: "Espectáculos"
-news_id: 191152
+redirect_from: /news/191152
 ---
 
 La India María, cuyo nombre de nacimiento era María Elena Velasco, es uno de los personajes más memorables del cine nacional. Su popularidad despuntó entre las décadas de 1970 y 1980, época en la que protagonizó taquilleras películas, entre ellas Tonta, tonta, pero no tanto, Pobre pero honrada y Ni Chana, ni Juana. Con su carisma e ingenio se ganó un lugar en la comedia mexicana que hasta entonces dominaba Mario Moreno Cantinflas.  Tras la muerte de La India María en el año 2015, han salido a la luz varios detalles sobre su vida, desde sus inicios como vedette hasta los rumores sobre los hijos que tuvo fuera del matrimonio y que habría dado en adopción. Sobre todo se habla sobre la rivalidad que surgió entre la actriz y Cantinflas, pero, ¿cómo nació la controversia? ¿Realmente eran enemigos?  

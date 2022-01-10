@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Es la primera vez que estos dos equipos se ven las caras en una final"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estas son las fechas y horarios para la Gran Final entre Atlas y León"
 front: false
 section: "Deportes"
-news_id: 190534
+redirect_from: /news/190534
 ---
 
 Atlas y León disputarán la Gran Final del Apertura 2021 de la Liga MX, luego de vencer a los Pumas y Tigres respectivamente en las semifinales. 

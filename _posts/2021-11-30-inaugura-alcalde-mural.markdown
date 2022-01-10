@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Dan identidad a los rasgos más característicos de Chihuahua"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura Alcalde mural Que Bonito es Chihuahua en el Centro Histórico"
 front: false
 section: "Local"
-news_id: 190370
+redirect_from: /news/190370
 ---
 
 Con motivo de embellecer el Centro Histórico y apoyar a los artistas locales, el presidente municipal, Marco Bonilla, inauguró el mural titulado “Que Bonito es Chihuahua”, que se encuentra plasmado frente al restaurante “La Presidencia”, sobre la calle Victoria, obra que posee rasgos distinguidos y muy significativos del estado.

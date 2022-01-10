@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Para Morena la prioridad es garantizar al presidente Andrés Manuel López Obrador su mayoría en el Congreso de la Unión"
 image: "/uploads/2021/images-ergrerehrh.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AJ02_MARTIN_CHAPARRO_PAYAN.mp3"
 alt: "Busca Morena la unidad para los próximos comicios -  Martin Chaparro"
 front: false
 section: "Local"
-news_id: 182141
+redirect_from: /news/182141
 ---
 
 Con relación al arranque de precampaña en diferentes municipios de Juan Carlos Loera como candidato de Morena a la gubernatura de Chihuahua, el dirigente Estatal de este partido, Martín Chaparro, señaló que pese a que en algún momento pudieron tener diferencias que sea que él también buscaba encabezar la candidatura a gobernador, hoy por hoy se busca la unidad entre el partida con el propósito de abarcar todo el territorio estatal. 

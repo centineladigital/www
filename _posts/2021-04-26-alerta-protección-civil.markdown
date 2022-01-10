@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Informa la CEPC la entrada del Frente Frío 54 y permanecerá durante el lunes 26 y martes 27; pide tomar precauciones ante tolvaneras en los tramos carreteros Juárez-Janos, Sueco-Ahumada, Jiménez-Parral y Jiménez-Camargo"
 image: "/uploads/2021/images-tolvanera.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Protección Civil por rachas de 95 km/h, tolvaneras y lluvias en el sureste"
 front: false
 section: "Local"
-news_id: 184109
+redirect_from: /news/184109
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) alerta a la población por las rachas de viento que podrían superar los 95 kilómetros por hora (km/h) en la entidad, así como tolvaneras en tramos carreteros y lluvias en Jiménez, debido a la entrada del Frente Frío 54 al estado de Chihuahua.

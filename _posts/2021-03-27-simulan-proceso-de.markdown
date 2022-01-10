@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Personal de la Operación Corre Caminos llevará a cabo la vacunación anti Covid-19 para adultos mayores en la ciudad, se la encuentra al interior del Centro de Convenciones"
 image: "/uploads/2021/images-simulacrocovid1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Simulan proceso de vacunación en el Centro de Convenciones, se preparan para el lunes"
 front: false
 section: "Local"
-news_id: 183586
+redirect_from: /news/183586
 ---
 
 Personal de la Operación Corre Caminos llevará a cabo la vacunación anti Covid-19 para adultos mayores en la ciudad, se la encuentra al interior del Centro de Convenciones, para la planeación del proceso que inicia este lunes 29 de marzo.

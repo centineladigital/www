@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Cada semana se realiza un rol de colonias a visitar"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Destacan ciudadanos, beneficios del programa “Destilichadero”"
 front: false
 section: "Local"
-news_id: 188903
+redirect_from: /news/188903
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, visita cada semana diferentes colonias de la ciudad para llevar el programa “Destilichadero”, con el cual, se busca que los ciudadanos retiren de sus viviendas basura, que, debido a sus dimensiones, no es retirada por el camión de la basura, y en ese sentido, Alfredo Sierra, vecino de la colonia Plan de Ayala, invitó a la ciudadanía a aprovechar los beneficios que este tipo de acciones trae a la población.

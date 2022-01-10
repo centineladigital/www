@@ -10,11 +10,11 @@ author: nil
 description: "Señala que esto se debe a situaciones de atraso de aguinaldos."
 image: "/uploads/2021/images-jauregu.jpg"
 video: "/uploads/2021/videos-MJ02_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Retraso de aguinaldos se dio por única ocasión "
 front: false
 section: "Local"
-news_id: 191166
+redirect_from: /news/191166
 ---
 
 Este será el único año en el que se tenga retraso de pago de aguinaldos, aseveró César Jáuregui Moreno, Secretario General de Gobierno. Esto al ser cuestionado respecto a las denuncias que han emitido los docentes del COBACH en relación a que no han recibido el pago de esta prestación.

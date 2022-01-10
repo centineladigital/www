@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Señala Consejero Jurídico que Alcaldesa con licencia y Secretario del Ayuntamiento de Chihuahua pueden ser vinculados a proceso."
 image: "/uploads/2021/images-JORGE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW01_JORGE_ESPINOZA.mp3"
 alt: "Niegan amparo a candidata del PAN"
 front: false
 section: "Local"
-news_id: 182838
+redirect_from: /news/182838
 ---
 
 Tanto a María Eugenia Campos Galván como al Secretario del Ayuntamiento no se les concedió el amparo definitivo señaló el Consejero Jurídico del Estado, Jorge Espinoza Cortés. Con lo que, dijo, ya no hay impedimento legal para que se realice audiencia de formulación de imputación.

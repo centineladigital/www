@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El pronóstico es que 'Grace' se fortalezca a tormenta tropical para el martes durante la tarde e impacte en las costas quintanarroenses durante la madrugada del jueves"
 image: "/uploads/2021/images-autoridades-declaran-alerta-azul-zona_55_61_1090_678.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por depresión tropical, emiten alerta azul para zona norte de Quintana Roo"
 front: false
 section: "Nacional"
-news_id: 186758
+redirect_from: /news/186758
 ---
 
 Ante la proximidad de la depresión tropical Grace a la península de Yucatán, la Coordinación Estatal de Protección Civil emitió la Alerta Azul de peligro mínimo para los municipios de la zona norte de Quintana Roo. 

@@ -14,11 +14,11 @@ author: nil
 description: "Se deberá de dar seguimiento."
 image: "/uploads/2021/images-Mario_Vázquez.jpeg"
 video: "/uploads/2021/videos-BJ05_MARIO_VAZQUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Si hubo presupuestos con déficit se tendrá un seguimiento"
 front: false
 section: "Local"
-news_id: 187386
+redirect_from: /news/187386
 ---
 
 Mario Vázquez presidente de la sexagésima séptima legislatura en el congreso del estado constató que de haber presupuestos con déficit o erróneos con respecto a la anterior legislatura en el congreso se deberá de dar seguimiento.

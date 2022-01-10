@@ -18,11 +18,11 @@ author: nil
 description: "Mencionó importantes obras en el municipio "
 image: "/uploads/2021/images-olivia.jpg"
 video: "/uploads/2021/videos-BW02OLIVIA_FRANCO.mp4"
-audio: "nil"
+audio: nil
 alt: "Sindica presentó el primer informe de actividades "
 front: false
 section: "Local"
-news_id: 191128
+redirect_from: /news/191128
 ---
 
 Olivia Franco, rindió su Primer Informe de Actividades Trimestral de la Sindicatura, comprendido de septiembre a noviembre, la funcionaria declaró que la administración percibió ingresos por la cantidad de 3 mil 64 millones 632 mil 608 pesos, siendo los más significativos impuestos y participaciones.

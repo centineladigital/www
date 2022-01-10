@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Abordan temas de alta prioridad para el Gobierno del Estado tales como robustecimiento de la seguridad de grupos vulnerados y atención a víctimas de violencia de género y crímenes violentos"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Busca Gobernadora el reforzamiento de estrategias para la prevención del delito; dialoga con representantes de las Naciones Unidas"
 front: false
 section: "Local"
-news_id: 189728
+redirect_from: /news/189728
 ---
 
 Con el objetivo de reforzar las estrategias que el Gobierno del Estado toma en pro de la seguridad de las y los chihuahuenses, la gobernadora Maru Campos Galván, sostuvo un diálogo con Kristian Hölge, representante de la Oficina de las Naciones Unidas contra la Droga y el Delito en México (UNODC) y Karen Mota, coordinadora de Desarrollo Institucional y de Género (UNODC) a fin de integrar proyectos para la prevención del delito en Chihuahua a la implementación de la Agenda 2030 en el estado.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los sismos se registraron en la región de San Marcos y en el Puerto de Acapulco, Guerrero. "
 image: "/uploads/2021/images-sismo-magnitud-sacude-michoacan-colima.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sismos de magnitud 4.9 y 4.4 se sienten en Guerrero durante la madrugada"
 front: false
 section: "Nacional"
-news_id: 187862
+redirect_from: /news/187862
 ---
 
 Durante esta madrugada, dos sismos de baja intensidad se registraron en Guerrero: uno el municipio de San Marcos, de magnitud 4.9, y otro en el puerto de Acapulco, de magnitud 4.4, donde ya suman más de mil 130 réplicas del terremoto ocurrido el 7 de septiembre. 

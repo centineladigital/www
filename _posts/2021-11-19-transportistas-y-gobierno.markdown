@@ -10,11 +10,11 @@ author: nil
 description: "Esto para gobierno y concesionarios."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MV01_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Transportistas y Gobierno se tienen que poner en orden -  Jáuregui"
 front: false
 section: "Local"
-news_id: 190014
+redirect_from: /news/190014
 ---
 
 "Todos nos tenemos que poner en orden" fueron las palabras del Secretario General de Gobierno, César Jáuregui Moreno, al señalar que la ley de transporte es letra muerta desde su inicio. Destacando que la pasada administración hizo caso omiso al cumplimiento de la ley.

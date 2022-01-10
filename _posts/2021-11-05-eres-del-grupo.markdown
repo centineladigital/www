@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pfizer publicó este viernes los resultados preliminares de los estudio que realizó con este fármaco sobre un total de 775 adultos. "
 image: "/uploads/2021/images-pildora-pfizer-reduce-riesgo-muerte.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Eres del grupo vulnerable? Pastilla Pfizer reduce casi 90% de riesgo de muertes por covid; esto sabemos"
 front: false
 section: "Internacional"
-news_id: 189585
+redirect_from: /news/189585
 ---
 
 El laboratorio Pfizer anunció este viernes que un ensayo clínico sobre su píldora contra el covid-19, la primera de su tipo, mostró una alta efectividad. Ésta, según presume, logra prevenir riesgo de hospitalización o muerte hasta un 89 por ciento. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este 11 de diciembre varios famosos le cantarán a la Virgen de Guadalupe para festejarla en su día. "
 image: "/uploads/2021/images-estos-famosos-le-cantaran-a.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ellos son los famosos que le cantarán 'Las Mañanitas' a la Virgen de Guadalupe"
 front: false
 section: "Espectáculos"
-news_id: 190758
+redirect_from: /news/190758
 ---
 
 Como cada año, los mexicanos festejarán a la Virgen de Guadalupe en su día y como es costumbre, las televisoras realizarán una transmisión especial en la que se le rendirá un homenaje muy especial a la morenita del Tepeyac. Después de que en 2020 debido a la pandemia, la Basílica de Guadalupe no permitió que los peregrinos visitaran a la virgen, sin embargo, este año será distinto y con las medidas sanitarias correspondientes, quienes lo deseen podrán visitarla. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De acuerdo con el testimonio de Yuridia, la producción de ‘La Academia’ cometía severos maltratos contra los participantes, pues a veces ocupaba situaciones adversas para exponerlos. "
 image: "/uploads/2021/images-yuridia-revela-terror-vivio-academia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Yuridia destapa el 'terror psicológico' que vivió en ‘La Academia' -  ahí quedó la dignidad"
 front: false
 section: "Espectáculos"
-news_id: 190877
+redirect_from: /news/190877
 ---
 
 Yuridia, famosa cantante mexicana, estuvo como invitada con el youtuber ‘El Escorpión dorado’ en donde dio a conocer algunos detalles de su trayectoria artística y algunos aspectos de su vida personal. Sin embargo, entre lo más polémico que reveló fue su terrible experiencia en ‘La Academia’, pues aseguró que el reality show se vivía ‘terror psicológico’. De acuerdo con el testimonio de Yuridia, la producción de ‘La Academia’ cometía severos maltratos contra los participantes, pues a veces ocupaba situaciones adversas para exponerlos. “Súper culero, wey, estuvo feo, estuvo feo” comentó la famosa. 

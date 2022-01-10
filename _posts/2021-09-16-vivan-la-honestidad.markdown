@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ceremonia se llena de solemnidad en honor a las víctimas mortales de la pandemia"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Vivan la honestidad y el amor al prójimo! -  el Grito de AMLO"
 front: false
 section: "Nacional"
-news_id: 187783
+redirect_from: /news/187783
 ---
 
 Por segundo año consecutivo, frente a un Zócalo vacío para evitar contagios por Covid-19, el presidente Andrés Manuel López Obrador dio el Grito por el 211 aniversario del inicio de la lucha de Independencia de México.

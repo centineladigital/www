@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En una grabación de minuto y medio de duración, Kylie mostró varios momentos de los primeros meses de su embarazo. "
 image: "/uploads/2021/images-con-travis-scott-mantiene-una.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Kylie Jenner se convertirá en mamá por segunda ocasión; así lo anunció"
 front: false
 section: "Espectáculos"
-news_id: 187536
+redirect_from: /news/187536
 ---
 
 Kylie Jenner se convertiría en mamá por segunda ocasión al lado de su pareja, el rapero Travis Scott, así lo dio a conocer la integrante del clan Kardashian a través de un video que compartió en su cuenta de Instagram.  Tras el nacimiento de su primer bebé, Stormi Webster, el 1 de febrero de 2018, la influencer y empresaria confirmó este martes lo que varios medios reportaron a mediados de agosto: su segundo bebé fruto de la relación que mantiene desde el 2017 con el cantante estadunidense. 

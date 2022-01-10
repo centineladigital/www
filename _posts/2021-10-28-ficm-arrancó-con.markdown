@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Natalia Lafourcade compartió los detalles de su actuación bajo la dirección de Léos Carax, el ganador del premio al Mejor Director en Cannes."
 image: "/uploads/2021/images-julio-chavezmontes-natalia-lafourcade-sebastian-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "FICM arrancó con proyección de Annette"
 front: false
 section: "Espectáculos"
-news_id: 189327
+redirect_from: /news/189327
 ---
 
 El Festival Internacional de Cine de Morelia arrancó su decimonovena edición con la proyección de Annette, la cinta que le valió a Léos Carax el título del Mejor director en la pasada edición de Cannes; el cineasta presentó su musical protagonizado por Adam Driver y Marion Cotillard durante la ceremonia de apertura que se realizó este miércoles en el Teatro Mariano Matamoros. “Léos es un gran artista y nos da mucho gusto inaugurar con la película que ganó el premio a Mejor Director en el Festival de Cannes. Es maravilloso volver, estamos muy contentos, porque tendremos una edición variada que incluye a cineastas como Jason Reitman (Cazafantasmas: El legado), pero lo más importante es el apoyo al cine mexicano”, dijo Daniela Michel, directora del FICM. 

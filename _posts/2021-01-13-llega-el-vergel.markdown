@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Temósachic registró -12.2°C, Guachochi -10.2°C, Janos -10°C y Juárez -1.7°C, informa la Coordinación Estatal de Protección Civil"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llega El Vergel a -14°C y Majalca a -12.8°C; Chihuahua a -3.4°C  "
 front: false
 section: "Local"
-news_id: 182094
+redirect_from: /news/182094
 ---
 
 Este miércoles 13 de enero, las temperaturas más bajas registradas en Chihuahua, se registraron en El Vergel, Balleza, con -14.1|C, la serranía de Majalca con -12.8°C, y Temósachic -12.2°C, informó la Coordinación Estatal de Protección Civil (CEPC).

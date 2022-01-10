@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El IMCFD seguirá apoyando a los nuevos talentos de este deporte"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chihuahuenses regresan con 12 medallas de oro del Campeonato Nacional de Kick Boxing"
 front: false
 section: "Local"
-news_id: 188726
+redirect_from: /news/188726
 ---
 
 Resultado del pasado Campeonato Nacional de Kick Boxing celebrado en la ciudad de Monterrey, competidores del Municipio de Chihuahua regresaron con 12 preseas doradas de un total de 32 que obtuvo la delegación que representó al estado.

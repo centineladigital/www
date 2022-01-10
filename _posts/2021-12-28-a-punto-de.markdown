@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Lo recopilado se donará a niñas y niños de escasos recursos el próximo 6 de enero"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "A punto de cerrar tradicional colecta de juguetes del H. Cuerpo de Bomberos"
 front: false
 section: "Local"
-news_id: 191280
+redirect_from: /news/191280
 ---
 
 A pocos días de que cierre la tradicional colecta que organiza el H. Cuerpo de Bomberos del Gobierno Municipal y cuyos juguetes serán entregados el próximo 6 de enero, la Dirección de Seguridad Pública invita nuevamente a los chihuahuenses a que acudan a cualquiera de las estaciones a donar y ser parte de la felicidad de una niña o niño.

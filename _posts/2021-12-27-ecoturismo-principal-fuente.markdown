@@ -18,11 +18,11 @@ author: nil
 description: "Se estará invirtiendo por parte del municipio un millón de pesos en materia de promoción"
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-27_at_10.10.43_AM.jpeg"
 video: "/uploads/2021/videos-BL04_JOSE_OROZCO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Ecoturismo principal fuente de ingreso prevé el municipio"
 front: false
 section: "Local"
-news_id: 191252
+redirect_from: /news/191252
 ---
 
  Para impulsar el turismo en el municipio de Chihuahua se verán importantes estrategias y una de las más fuertes es la de las rutas vinícolas, informó el Director de Desarrollo Económico y Turismo del municipio de Chihuahua, José Jordán Orozco.

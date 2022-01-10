@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Joe Biden promulgó el plan de estímulo económico por 1.9 billones de dólares aprobado por el Congreso ante la pandemia de covid."
 image: "/uploads/2021/images-2543520.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden promulga plan económico de 1.9 billones de dólares"
 front: false
 section: "Local"
-news_id: 183385
+redirect_from: /news/183385
 ---
 
 Joe Biden promulgó el gigantesco plan de estímulo económico por 1.9 billones de dólares aprobado por el Congreso, antes de una alocución en la que destacará los progresos en la vacunación contra el covid.

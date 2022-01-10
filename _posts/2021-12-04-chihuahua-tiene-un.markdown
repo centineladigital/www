@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Encabezó Maru Campos inauguración de Expo Canaco 2021 en la ciudad de Chihuahua"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Chihuahua tiene un rumbo; cerraremos el año con buenas noticias con un presupuesto 2022 sano”; Apoya Gobernadoras a productores participantes de Expo Canaco   "
 front: false
 section: "Local"
-news_id: 190514
+redirect_from: /news/190514
 ---
 
 En apoyo al fortalecimiento de la economía del Estado de Chihuahua, la gobernadora Maru Campos Galván, encabezó la inauguración de la Expo Venta CANACO 2021 donde realizó el corte de listón, además de acompañar a los productores locales participantes en la vigésimo sexta edición de esta exposición.

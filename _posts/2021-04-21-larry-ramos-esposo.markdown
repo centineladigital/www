@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El pasado 16 de abril Larry Ramos fue detenido en Estados Unidos por haber hecho un fraude de cerca de 22 millones de dólares. "
 image: "/uploads/2021/images-larry-ramos-defraude-personas-alejandra.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Larry Ramos, esposo de Ninel Conde, sale de la cárcel tras ser detenido por fraude"
 front: false
 section: "Espectáculos"
-news_id: 184012
+redirect_from: /news/184012
 ---
 
 El pasado 16 de abril fue detenido Larry Ramos, el esposo de Ninel Conde, por haber cometido un fraude millonario de aproximadamente 22 millones de dólares a varias personas, entre ellas a Alejandra Guzmán. Tras las denuncias en su contra y una investigación hecha por el FBI, Larry fue arrestado, pero ayer mismo salió de la cárcel. Tras varios meses de juicios en su contra, este 16 de abril se procedió a la detención de Larry Ramos, quien se encontraba en un aeropuerto, al parecer, con rumbo a Houston, Estados Unidos. Aún no se sabe si Ninel Conde acompañaba a su marido al momento de su arresto. 

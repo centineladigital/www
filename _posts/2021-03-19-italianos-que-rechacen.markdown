@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La vacuna de AstraZeneca no será la única opción para los italianos, informó el gobierno."
 image: "/uploads/2021/images-2547970.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Italianos que rechacen vacuna covid de AstraZeneca tendrán alternativas"
 front: false
 section: "Internacional"
-news_id: 183481
+redirect_from: /news/183481
 ---
 
 Los italianos que se nieguen a ser inoculados contra la enfermedad de covid con la vacuna de AstraZeneca recibirán una alternativa más adelante, dijo el viernes el jefe de la comisión de salud que asesora al Gobierno.

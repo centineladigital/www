@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Más de 40 trabajadores del Gobierno Municipal inician labores desde las 7 de la mañana"
 image: "/uploads/2021/images-unnamed_(1).png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabajan tres turnos para mantener limpio el Centro Histórico"
 front: false
 section: "Local"
-news_id: 191273
+redirect_from: /news/191273
 ---
 
 Con la finalidad de mantener limpio el primer cuadro de la ciudad, el Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, realiza acciones de limpieza con barrido manual, mecanizado, restregado y recolección de basura, en tres turnos que inician desde las 7:00 am hasta las 5:00 am del día siguiente.

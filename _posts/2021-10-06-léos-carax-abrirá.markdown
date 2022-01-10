@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La selección del festival también cuenta con un importante número de títulos producidos en colaboración con realizadores mexicanos."
 image: "/uploads/2021/images-programacion-decimo-novena-edicion-festival.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Léos Carax abrirá el FICM con proyección de Annette"
 front: false
 section: "Espectáculos"
-news_id: 188417
+redirect_from: /news/188417
 ---
 
 Cannes, abrirá las actividades de la 19ª edición del Festival Internacional de Cine de Morelia con la proyección de Annette, la cinta producida por el mexicano Julio Chavezmontez que cuenta con las actuaciones de Adam Driver y Marion Cotillard. “Annette, la película de Léos Carax se proyectará en la inauguración de la edición 19 del festival la noche del 27 de octubre en el teatro Mariano Matamoros, con la presencia del aclamado director francés y el productor mexicano Julio Chavezmontes”, dijo en conferencia Cuauhtémoc Cárdenas Batel, vicepresidente del FICM. Ester año, la programación del FICM incluirá también proyecciones de historias mexicanas que han dejado huella en otros encuentros fílmicos como Cannes y Venecia, entre las cuales destacan La civil, de Teodora Mihai; La caja, de Lorenzo Vigas; Sundown, de Michel Franco y El hoyo en la cerca, de Joaquín del paso; y Noche de Fuego, de Tatiana Huezo. 

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El director general del IMSS, Zoé Robledo, dijo que el Premio Estatal del Deporte es prueba de la convicción por alcanzar esa gloria pasada del Seguro Social."
 image: "/uploads/2021/images-Foto_564-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan Premio Estatal del Deporte IMSS 2021 a atletas destacados"
 front: false
 section: "Local"
-news_id: 190692
+redirect_from: /news/190692
 ---
 
 En el Instituto Mexicano del Seguro Social (IMSS) se entregó el Premio Estatal del Deporte IMSS 2021 a Martha Paola Estrada Santana, deportista de voleibol de playa, y a Jaime Yeudiel Melgar Gallegos, paraciclista, como reconocimiento a su entrega, disciplina y por acrecentar la proyección deportiva a nivel nacional e internacional.

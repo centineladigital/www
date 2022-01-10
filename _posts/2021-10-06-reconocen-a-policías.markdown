@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La ANTAD reconoció el trabajo realizado para la diminución de delitos"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-06_at_15.27.03_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconocen a Policías Municipales por labor preventiva en tiendas de autoservicio y departamentales"
 front: false
 section: "Local"
-news_id: 188452
+redirect_from: /news/188452
 ---
 
 Elementos de la Dirección de Seguridad Pública Municipal adscritos al grupo de Criminalística, recibieron un reconocimiento de parte de miembros de la Asociación Nacional de Tiendas de Autoservicio y Departamentales (ANTAD), como agradecimiento al apoyo a la prevención y atención de delitos cometidos en los negocios afiliados a la misma.

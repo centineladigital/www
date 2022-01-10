@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Desconoce Javier Corral que sea llamado ante la comisión de honor dentro de su partido."
 image: "/uploads/2021/images-CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03_JAVIER_CORRAL.mp3"
 alt: "Afirma Gobernador Campaña en su contra"
 front: false
 section: "Local"
-news_id: 184078
+redirect_from: /news/184078
 ---
 
 Tras darse a conocer que el Gobernador pudiera ser llamado por la Comisión de Honor dentro del Partido Acción, el mismo Javier Corral Jurado negó tener conocimiento respecto al tema, afirmando que esto no es más que una campaña en su contra.

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno del Estado llama a no dejarse engañar por quienes piden dinero a cambio de apoyos"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Gobierno del Estado por tercer perfil falso en Facebook que se hace pasar por Secretario de Hacienda"
 front: false
 section: "Local"
-news_id: 190640
+redirect_from: /news/190640
 ---
 
 El Gobierno del Estado, alerta a la ciudadanía en general, así como a los miembros de los Ayuntamientos del Estado a no dejarse engañar por un perfil falso en la red social Facebook que se hace pasar por el Secretario de Hacienda, José de Jesús Granillo, esta es la tercera ocasión en el año en que estafadores buscan engañar a presidentes municipales y ciudadanía en general a través de un perfil del titular de Hacienda.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Plantas polinizadoras y arboles frutales será intercambiados"
 image: "/uploads/2021/images-GV2.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02_GABRIEL_VALDEZ.mp3"
 alt: "Intercambia municipio apoyos para brigadistas por plantas"
 front: false
 section: "Local"
-news_id: 185152
+redirect_from: /news/185152
 ---
 
 Con el fin de llevar a cabo una colecta que le permita a quienes combaten los incendios forestales realizar su trabajo, el Ayuntamiento de Chihuahua dio a conocer que llevará a cabo una colecta de intercambio de plantas por herramienta y víveres.

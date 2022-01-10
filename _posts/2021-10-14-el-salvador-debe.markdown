@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Federación de Futbol de El Salvador debe de ser castigada de manera severa, ya que su afición fue agresiva de principio a fin"
 image: "/uploads/2021/images-seleccion-mexicana-el_salvador-sucatlan_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El Salvador debe de ser castigado"
 front: false
 section: "Deportes"
-news_id: 188723
+redirect_from: /news/188723
 ---
 
 México ganó en la cancha y El Salvador perdió hasta con FIFA.

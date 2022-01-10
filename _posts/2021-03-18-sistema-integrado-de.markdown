@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En programa Chihuahua Adelante, explica el secretario de Desarrollo Urbano y Ecología las obras ya realizadas y en ejecución; se consolidará un sistema bien conectado con rutas troncales, pretroncales y alimentadoras para ofrecer la opción de dejar de utilizar los vehículos particulares"
 image: "/uploads/2021/images-6.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sistema Integrado de Transporte Bravobus mejorará la movilidad y calidad de vida de los juarenses"
 front: false
 section: "Local"
-news_id: 183465
+redirect_from: /news/183465
 ---
 
 Con el Sistema Integrado de Transporte Bravobus en Ciudad Juárez se busca reformular, agilizar y sanear todo el sistema de movilidad y comunicación en Ciudad Juárez, con una opción de transporte público que resultará atractivo para muchas personas que tienen vehículo pero preferirán utilizar los camiones modernos y seguros, señaló el secretario de Desarrollo Urbano y Ecología, Luis Felipe Siqueiros.

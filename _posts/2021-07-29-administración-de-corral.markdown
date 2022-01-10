@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Gobernador no hizo nada, afirma titular de retén ciudadano."
 image: "/uploads/2021/images-BENJAMIN.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ05_BENJAMIN_NOGUEIRA.mp4"
 alt: "Administración de Corral da lástima -  Retén"
 front: false
 section: "Local"
-news_id: 186103
+redirect_from: /news/186103
 ---
 
 La administración de Javier Corral esta para dar lástima, señaló Benjamín Nogueira integrante de Retén Ciudadano. Esto al ser cuestionado respecto a que el mandatario se encuentra de vacaciones. 

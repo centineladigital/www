@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los analistas económicos estiman que la disminución de la actividad se explica, en gran parte, por la menor expansión económica de Estados Unidos y la moderación de la recuperación de la demanda interna"
 image: "/uploads/2021/images-maquiladora_redis.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se frena recuperación; economía retrocede 0.2% en el tercer trimestre de 2021"
 front: false
 section: "Nacional"
-news_id: 189349
+redirect_from: /news/189349
 ---
 
 Economía mexicana retrocedió 0.2% en el tercer trimestre de 2021 respecto al periodo inmediato anterior, de acuerdo a los resultados de la Estimación Oportuna del Producto Interno Bruto llevada a cabo por el Inegi.

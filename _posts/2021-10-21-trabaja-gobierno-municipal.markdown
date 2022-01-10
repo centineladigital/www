@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A la fecha registra un avance del 85 por ciento de las labores realizadas"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabaja Gobierno Municipal en últimos detalles de Paso Superior carretera Aldama - Chihuahua"
 front: false
 section: "Local"
-news_id: 189024
+redirect_from: /news/189024
 ---
 
 El Gobierno Municipal, a través de la Dirección de Obras Públicas, continúa trabajando en la construcción del Paso Superior carretera Aldama - Chihuahua, que brindará un cruce seguro hacia la avenida Romanzza y cuyo avance de labores es del 85 por ciento mismas que se prevén finalizar en las primeras semanas del mes de noviembre.

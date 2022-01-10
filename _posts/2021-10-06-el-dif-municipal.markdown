@@ -14,11 +14,11 @@ author: nil
 description: "Para revisar el cumplimiento de todos los protocolos de seguridad"
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BW04_MARIO_GARCIA_.mp4"
-audio: "nil"
+audio: nil
 alt: " El DIF municipal verificó guarderías en el municipio "
 front: false
 section: "Local"
-news_id: 188447
+redirect_from: /news/188447
 ---
 
 El DIF Municipal en conjunto con la Dirección de Seguridad Pública Municipal, la Coordinación Municipal de Protección Civil y Bomberos, realizó un recorrido de inspección en las guarderías para revisar el cumplimiento de todos los protocolos de seguridad.

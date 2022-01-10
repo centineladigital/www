@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En su conferencia mañanera de este miércoles en Palacio Nacional, López Obrador afirmó que su gobierno busca que nadie sufra y que el diálogo debe de ser el camino para conseguir la paz."
 image: "/uploads/2021/images-AMLO.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO pide a delincuentes de Aguililla, Michoacán, que “no se hagan daño”"
 front: false
 section: "Nacional"
-news_id: 185418
+redirect_from: /news/185418
 ---
 
 El presidente Andrés Manuel López Obrador anunció que el Gobierno federal implementará un programa integral de desarrollo para la comunidad de Aguililla, Michoacán, la cual ha estado sitiada por integrantes de la delincuencia organizada, a quienes llamó a “que no se hagan daño”, pues afirmó que no se resuelve nada con enfrentamientos. 

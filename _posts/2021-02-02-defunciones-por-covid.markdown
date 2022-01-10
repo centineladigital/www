@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Registran 30 defunciones menos en una semana."
 image: "/uploads/2021/images-ARTURO_VALENZUELA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM03_ARTURO_VALENZUELA.mp3"
 alt: "Defunciones por COVID a la baja"
 front: false
 section: "Local"
-news_id: 182636
+redirect_from: /news/182636
 ---
 
 Los casos de defunciones van a la baja, según fue dado a conocer por parte del titular de la Dirección Médica Zona Norte, Arturo Valenzuela Zorilla, quien señaló que en la semana dos ser registraron 71 defunciones, mientras que en la tres se tuvo una estadística de 41 casos. Esto dentro de la actualización de los casos de coronavirus, donde se dio a conocer que en las últimas 24 horas se detectaron 177 casos que dieron positivo a PCR.

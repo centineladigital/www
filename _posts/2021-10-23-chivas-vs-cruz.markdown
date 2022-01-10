@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Conoce todos los detalles para que no te pierdas el duelo entre el Rebaño Sagrado y La Máquina en el Estadio Akron "
 image: "/uploads/2021/images-chivas-vs-cruz-azul-agenda_0_1_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chivas vs Cruz Azul -  Horario y dónde ver EN VIVO la jornada 15 de la Liga MX"
 front: false
 section: "Deportes"
-news_id: 189119
+redirect_from: /news/189119
 ---
 
 Este sábado habrá una gran cartelera futbolística en el Apertura 2021 de la Liga MX; Chivas recibirá a Cruz Azul en el Estadio Akron en punto de las 21:00 horas en la jornada 15; este duelo significa mucho para ambos equipos de cara a la Fiesta Grande. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " Se realizarán visitas mensuales a la comunidad"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Imparte Gobierno Municipal plática para prevenir el abuso sexual en asentamiento tarahumara"
 front: false
 section: "Local"
-news_id: 188687
+redirect_from: /news/188687
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM), impartió una plática sobre prevención del abuso sexual dentro del asentamiento tarahumara “Luna Azul” con el fin de sensibilizar a los pobladores.

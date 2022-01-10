@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Netflix reveló la primera imagen de Imelda Staunton caracterizada como la reina Isabel II para The Crown, serie en la que dará vida a la monarca en las últimas dos temporadas. "
 image: "/uploads/2021/images-actriz-interpretara-reina-olivia-colman_44_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Se parece? Revelan la primera imagen de Imelda Staunton como la reina Isabel en 'The Crown'"
 front: false
 section: "Espectáculos"
-news_id: 186148
+redirect_from: /news/186148
 ---
 
 Una de las series más exitosas y que ha causado revuelo es The Crown, esto debido a que ha contado algunos de los momentos que ha vivido la reina Isabel II y su familia. Tras cuatro temporadas que han conseguido varias nominaciones en diferentes premiaciones, dentro de poco llegará una quinta entrega que será protagonizada por Imelda Staunton, de quien ya se reveló la primera imagen caracterizada como la monarca. 

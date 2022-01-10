@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El pugilista mexicano desea pelear en Guadalajara, pero es casi imposible que sea para el próximo año"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Canelo Álvarez no peleará en México para el 2022"
 front: false
 section: "Deportes"
-news_id: 189628
+redirect_from: /news/189628
 ---
 
 Después de pelear cuatro veces en los más recientes 11 meses, Saúl Álvarez y su equipo de trabajo consideran que es muy necesario un importante y prolongado descanso antes de volver a la actividad, por lo que es casi un hecho que el Canelo reaparecerá hasta mayo de 2022, en ese tan importante fin de semana para los mexicanos en Estados Unidos.

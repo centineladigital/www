@@ -10,11 +10,11 @@ author: nil
 description: "Exhorta a denuniciar de manera formal estas irregularidades."
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-MM05_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Sin denuncias a policías por parte de paisanos"
 front: false
 section: "Local"
-news_id: 190843
+redirect_from: /news/190843
 ---
 
 Por parte de la Secretaría de Seguridad Pública Estatal no se tienen denuncias formales en los casos de extorsión por parte de elementos a paisanos, afirmó el titular de esta dependencia Gilberto Loya Chávez. Quien exhortó a la población a denunciar este tipo de incidentes.

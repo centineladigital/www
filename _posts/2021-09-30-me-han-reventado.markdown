@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Shakira contó que hace poco fue atacada por dos jabalíes mientras estaba en el parque. Esto fue lo que le pasó a la cantante. "
 image: "/uploads/2021/images-shakira-encontraba-parque-atacada-animales.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me han reventado todo -  Shakira fue atacada por dos jabalíes en un parque"
 front: false
 section: "Espectáculos"
-news_id: 188219
+redirect_from: /news/188219
 ---
 
 Shakira en cada oportunidad comparte con sus seguidores los momentos en que está preparando algún nuevo proyecto o los tiernos momentos que pasa con su familia, en especial junto a sus hijos, pero ahora la colombiana preocupó a sus fans ya que hace poco contó que fue perseguida por dos jabalíes en un parque. Shakira, quien vive en Barcelona, fue al parque junto con uno de sus hijos, Milan, fue en ese lugar que inesperadamente tuvo que defenderse de dos jabalíes que la atacaron y que intentaron quitarle su bolso. 

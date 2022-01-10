@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz compartió que se sometió a un tratamiento para rejuvenecer la piel con el médico que trata a celebridades de Hollywood. "
 image: "/uploads/2021/images-ninel-conde-alzo-voz-mujeres_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El mejor -  Ninel Conde presume tratamiento con dermatólogo de Kim Kardashian y JLo"
 front: false
 section: "Espectáculos"
-news_id: 186327
+redirect_from: /news/186327
 ---
 
 Ninel Conde ha estado envuelta en la polémica debido a su batalla legal en contra de Giovanni Medina por la custodia de su hijo y el proceso en tribunales que enfrenta su pareja, Larry Ramos. Pese a la controversia, la actriz no descuida su carrera artística ni su glamuroso estilo de vida, por lo que no dudó en presumir el tratamiento al que se sometió con el dermatólogo de Kim Kardashian y otras estrellas de Hollywood.  

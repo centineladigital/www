@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este año no se realizarán eventos masivos, pero se mantienen todos los beneficios de este programa como matrimonio y pláticas prematrimoniales sin costo; se abre registro a partir del 25 de enero  "
 image: "/uploads/2021/images-matrimonios.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia recepción de documentos para Matrimonios Colectivos 2021"
 front: false
 section: "Local"
-news_id: 182393
+redirect_from: /news/182393
 ---
 
 El Registro Civil del Estado de Chihuahua dio a conocer los detalles de los Matrimonios Colectivos 2021, que tendrán una dinámica diferente a la de años anteriores para evitar algún riesgo de contagio por COVID-19 entre los interesados.

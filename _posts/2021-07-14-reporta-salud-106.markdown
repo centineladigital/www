@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En total suman 71 mil 269 acumulados, 7 mil 632 fallecimientos, 60 mil 784 recuperados y 38 mil 185 casos descartados a lo largo de la pandemia."
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reporta Salud 106 nuevos contagios y un deceso por COVID-19 en el estado"
 front: false
 section: "Local"
-news_id: 185643
+redirect_from: /news/185643
 ---
 
 El reporte epidemiológico de COVID-19 confirmó 106 contagios por lo que al día de hoy se tienen en el estado de Chihuahua un total general de 71 mil 269 casos confirmados, así como 7 mil 632 personas fallecidas, con un deceso más.

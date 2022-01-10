@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Andrés Lillini y los universitarios siguen hundidos en una crisis que semana a semana empeora aún más"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "León elimina a los Pumas y avanza a la final de la Leagues Cup"
 front: false
 section: "Deportes"
-news_id: 187782
+redirect_from: /news/187782
 ---
 
 Los Pumas siguen hundiéndose en este año. En el Apertura 2021 de la Liga MX no logran salir de los últimos lugar y hoy fueron eliminados de la Leagues Cup.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hablamos con el director de la secuela de la cinta que se estrena hoy, Will Gluck quien asegura que quiso reflejar la etapa de adolescencia."
 image: "/uploads/2021/images-peter-rabbit-implico-reto-will.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Peter Rabbit'; el conejo llega a la pubertad"
 front: false
 section: "Espectáculos"
-news_id: 184437
+redirect_from: /news/184437
 ---
 
 Reimaginar y construir un mundo alterno en el cine para Peter Rabbit implicó un reto para Will Gluck. El cineasta se aventuró de nueva cuenta con este personaje extraído del clásico literario de Beatrix Potter para ofrecer una historia familiar de introspección y crecimiento en la que su pequeño protagonista lucha por rectificar cómo lo percibe el mundo. “Queríamos crecer con él, Peter ahora tiene 15 o 16 años y la pregunta era: ¿qué tipo de problemas enfrentas a esa edad? Ese es el momento de tu vida en el que averiguas de dónde vienes o quién eres, incluso qué camino vas a tomar”, comentó el director Will Gluck a M2. 

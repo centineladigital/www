@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Apertura, en caso de darse, no será al cien por ciento."
 image: "/uploads/2021/images-LETICIA_RUIZ.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ02_LETICIA_RUIZ.mp3"
 alt: "Apertura de balnearios dependerá de cifras de contagios"
 front: false
 section: "Local"
-news_id: 183557
+redirect_from: /news/183557
 ---
 
 Aun no se define la apertura de balnearios, señaló la Directora de Medicina Preventiva y Promoción de la Salud, Leticia Ruiz, al ser cuestionada respecto a la apertura de estos centros recreativos durante la temporada de semana santa.

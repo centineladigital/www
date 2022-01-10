@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La suspensión de amparo solamente evidencia que debe de ser el juez de control quien debe pedir las carpetas faltantes al ministerio público."
 image: "/uploads/2021/images-arturo.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM06_ARTURO_GARCIA.mp3"
 alt: "Falta de expedientes debe de resolver el juez de control en caso Campos Galván"
 front: false
 section: "Local"
-news_id: 183231
+redirect_from: /news/183231
 ---
 
 La suspensión de amparo solamente evidencia que debe de ser el juez de control quien debe pedir las carpetas faltantes al ministerio público, según fue dado a conocer por parte de Arturo García Portillo, coordinador de campaña de la candidata a gobernadora por el PAN. Esto tras los señalamientos del Consejero Jurídico del Estado.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El técnico del Atlético de Madrid destaca el aporte que tiene el mexicano en el equipo y desea que se recupere completamente"
 image: "/uploads/2021/images-2528412.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Necesitamos a Héctor Herrera, admite Simeone"
 front: false
 section: "Deportes"
-news_id: 182884
+redirect_from: /news/182884
 ---
 
 El técnico del Atlético de Madrid, Diego Simeone, destacó el buen arranque de temporada que tuvo el mexicano Héctor Herrera y admitió que lo necesitan.

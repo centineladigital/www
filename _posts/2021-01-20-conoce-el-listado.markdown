@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se busca mejorar la seguridad pública, el abastecimiento de agua potable, movilidad urbana, la salud, la cultura, el deporte y la recreación en todo el estado"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conoce el listado de obras para ejecutar en los 67 municipios si se aprueba crédito en el Congreso"
 front: false
 section: "Local"
-news_id: 182313
+redirect_from: /news/182313
 ---
 
 El listado de obras que el Gobierno del Estado contempla realizar con el crédito de mil 898 millones de pesos, incluye proyectos de infraestructura para mejorar la seguridad pública, el abastecimiento de agua potable, movilidad urbana, salud, cultura, deporte y recreación, en los 67 municipios del estado.

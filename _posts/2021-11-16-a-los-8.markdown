@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor vivió complicados momentos debido al abandono de su mamá y los diferentes procesos de adopción que pasó, además de sus adicciones. "
 image: "/uploads/2021/images-mauricio-ochmann-dificil-infancia-adopcion_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "A los 8 años se me cruzó una cerveza -  Mauricio Ochmann tuvo una difícil infancia... de su adopción a sus adicciones"
 front: false
 section: "Espectáculos"
-news_id: 189870
+redirect_from: /news/189870
 ---
 
 Mauricio Ochmann demostró desde muy joven su interés por las artes escénicas; comenzó su carrera en la televisión a los 16 años en La otra cosa, de Héctor Suárez. El actor -quien hoy cumple 44 años- confesó que vivió complicados momentos durante su infancia y adolescencia, pues además del abandono de su mamá biológica y los diferentes procesos de adopción por los que pasó, también tuvo problemas con el alcohol, por lo que debió internarse en una clínica de rehabilitación. En una entrevista con Mara Patricia Castañeda, Mauricio Ochmann contó que existe una confusión sobre su fecha y lugar de nacimiento debido a los problemas que hubo con su adopción. Señaló que hasta donde sabe él nació en Washington D.C., donde su mamá biológica lo dio en adopción cuando era un bebé, poco después una familia de mexicanos, que residía en Estados Unidos, lo adoptó. 

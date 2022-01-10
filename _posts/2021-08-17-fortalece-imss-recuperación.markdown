@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las principales intervenciones quirúrgicas que se llevaron a cabo fueron: Cirugía General, Ginecología, Oftalmología, Oncocirugía y Urología"
 image: "/uploads/2021/images-Foto_362-3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fortalece IMSS recuperación de servicios médicos a través de las jornadas monotemáticas "
 front: false
 section: "Local"
-news_id: 186810
+redirect_from: /news/186810
 ---
 
 Para avanzar en la estrategia de recuperación de servicios médicos ordinarios, del 13 al 15 de agosto, en diversas unidades del Instituto Mexicano del Seguro Social (IMSS), se brindaron atenciones médicas en consultas de Medicina Familiar, cirugías y detecciones de diabetes, hipertensión y cáncer cervicouterino. 

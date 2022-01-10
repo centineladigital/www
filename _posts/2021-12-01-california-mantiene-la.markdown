@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El tribunal mantiene la prohibición de California de los cargadores de alta capacidad. "
 image: "/uploads/2021/images-armas-fuegos-suelen-exportadas-paises.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "California mantiene la prohibición de cargadores de alta capacidad en armas de fuego"
 front: false
 section: "Internacional"
-news_id: 190384
+redirect_from: /news/190384
 ---
 
 El martes, se confirmó la prohibición de revistas de alta capacidad en California, siendo una decisión dividida que podría dirigirse a la Corte Suprema de EU. Mientras que la Corte de Apelaciones del Noveno Circuito de EU revocó un fallo de dos jueves. 

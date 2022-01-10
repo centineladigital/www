@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor de doblaje realizó un cosplay de la villa de Disney que le ganó las críticas de los internautas, quienes también recordaron las acusaciones de abuso y acoso que existen en su contra. "
 image: "/uploads/2021/images-memo-aponte-reacciona-supuesta-expulsion.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Memo Aponte se disfraza de 'Cruella de Vil'; lo critican en redes por ésta razón"
 front: false
 section: "Espectáculos"
-news_id: 184749
+redirect_from: /news/184749
 ---
 
 Memo Aponte está en al ojo del huracán tras disfrazarse de la popular villana Cruella de Vil, esto con motivo del estreno de la película protagonizada por Emma Stone que desembarcó en Disney Plus y salas de cine el pasado viernes 28 de mayo; sin embargo, el actor e influencer no se salvó de los señalamientos en redes sociales, donde usuarios no sólo criticaron su cosplay, también recordaron las acusaciones que existen en su contra. El actor de doblaje se volvió tendencia el domingo luego de compartir a través de su cuenta de Instagram unas fotografías en las que aparece luciendo el característico look de la villana de Disney, además de un excéntrico maquillaje.  

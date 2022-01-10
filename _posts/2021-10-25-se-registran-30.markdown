@@ -14,11 +14,11 @@ author: nil
 description: "El número de personas que han perdido la vida por Covid-19 es de 8 mil 104 y para este lunes no se reportan nuevas defunciones.  "
 image: "/uploads/2021/images-Sin_título.png"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-10-25_at_12.20.15.3gpp"
-audio: "nil"
+audio: nil
 alt: "Se registran 30 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 189156
+redirect_from: /news/189156
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 25 de octubre el reporte COVID-19, en el cual se registran 80 mil 605 (+30) personas confirmadas en la entidad por este padecimiento, 70 mil 189 (+16) casos recuperados, 73 mil 791 (+25) descartados y 862 (+13) casos sospechosos.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Larry Rudolph dio a conocer que decidió concluir la relación de trabajo con la estrella del pop ante sus intenciones de dejar el medio artístico de manera definitiva. "
 image: "/uploads/2021/images-britney-spears-shutterstock.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Representante de Britney Spears renuncia; advierte sobre retiro definitivo de la cantante"
 front: false
 section: "Espectáculos"
-news_id: 185393
+redirect_from: /news/185393
 ---
 
 Hace unos días, Britney Spears compareció ante un tribunal para exponer el control que su padre, Jamie Spears, tiene sobre su vida desde hace 13 años tras convertirse en su tutor legal. Sin embargo, el caso de La Princesa del pop dio un giro de 360 grados cuando su representante anunció que no continuará trabajando con la cantante.  

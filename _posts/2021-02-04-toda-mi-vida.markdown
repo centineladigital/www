@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz confesó haber sido víctima de acoso por su apariencia física, además habló por primera vez de su personaje en la película 'Eternals'. "
 image: "/uploads/2021/images-salma-hayek-revela-sufrio-bullying_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Toda mi vida -  Salma Hayek revela la razón por la que ha sufrido 'bullying'"
 front: false
 section: "Espectáculos"
-news_id: 182697
+redirect_from: /news/182697
 ---
 
 Salma Hayek sigue cosechando éxitos en Hollywood. La actriz mexicana debutará en el Universo Cinematográfico de Marvel con Eternals, en la que interpretará a Ajax, personaje que en la película será el líder de los alienígenas con superpoderes que viven en secreto en el planeta Tierra. Sin embargo, la famosa ha enfrentado complicados momentos en el medio del entretenimiento, pues declaró que ha sufrido de bullying durante toda su carrera. 

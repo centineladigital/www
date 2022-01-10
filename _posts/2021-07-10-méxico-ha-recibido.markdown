@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "México ha recibido 66 millones 683 mil 885 dosis de vacunas contra el covid-19. Además, hoy llegaron un millón de dosis de Sinovac. "
 image: "/uploads/2021/images-vacuna.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México ha recibido más de 66 millones de vacunas -  Ebrard; llega nuevo cargamento"
 front: false
 section: "Nacional"
-news_id: 185534
+redirect_from: /news/185534
 ---
 
 El secretario de Relaciones Exteriores, Marcelo Ebrard, informó que hasta el 10 de julio, México ha recibido 66 millones 683 mil 885 dosis de vacunas contra el covid-19. 

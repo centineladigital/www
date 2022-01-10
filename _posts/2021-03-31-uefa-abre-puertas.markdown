@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La limitación ya no es requerida, por lo que será decisión de cada Gobierno el número de aficionados que dejen entrar a los estadios"
 image: "/uploads/2021/images-2554727.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "UEFA abre puertas; fin al límite de un 30% de público"
 front: false
 section: "Deportes"
-news_id: 183625
+redirect_from: /news/183625
 ---
 
 La UEFA puso fin este miércoles al límite de un 30% de espectadores en los estadios decidido en octubre pasado, dejando a las autoridades locales decidir eventuales cifras, en particular con vistas a la Eurocopa de futbol (11 de junio-11 de julio).

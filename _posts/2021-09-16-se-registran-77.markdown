@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas fallecidas es 7,898 (+9) y corresponden a: (+3 Juárez ) (+4 Chihuahua ) (+1 Meoqui) (+1 Ojinaga) "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-16_at_12.44.36.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 77 nuevos casos confirmados de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 187791
+redirect_from: /news/187791
 ---
 
 A las 7 hrs del 16 de Septiembre del 2021 tenemos en el estado de Chihuahua un total general de 76,993  (+77) casos confirmados de Covid-19. 66,108 (+99) recuperados. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Internautas en redes sociales arremetieron en contra de la producción del reality por permitir que la tribu Jaguar compitiera de manera deshonesta e hicieran trampa para vencer a los Halcones. "
 image: "/uploads/2021/images-critican-a-la-produccion-de_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Tribu Jaguar hace trampa? Internautas 'explotan' en contra de 'Survivor México'"
 front: false
 section: "Espectáculos"
-news_id: 185330
+redirect_from: /news/185330
 ---
 
 Survivor México sigue envuelto en la polémica, ya que la producción enfrenta de nueva a cuenta críticas por la forma en la que se han llevado las competencias en los últimos programas, pues lo usuarios señalan que varios de los concursantes, en especial los miembros de la tribu Jaguar, están jugando con trampa y cometiendo infracciones que no son sancionadas.  

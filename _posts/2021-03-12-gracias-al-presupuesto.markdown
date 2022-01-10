@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La alcaldesa María Angélica Granados acompañada de funcionarios municipales y vecinos del sector, encabezó el corte de listón inaugural y entrega de este lugar que será dedicado al esparcimiento comunitario."
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gracias al Presupuesto Participativo del Gobierno Municipal vecinos del parque Urueta estrenan espacio comunitario"
 front: false
 section: "Local"
-news_id: 183402
+redirect_from: /news/183402
 ---
 
 Las y los vecinos del parque Urueta -ubicado en la colonia Obrera- cuentan ya con un espacio donde realizar diversas actividades de índole social, esto gracias a que postularon su proyecto a la consulta ciudadana del Presupuesto Participativo 2020, del Gobierno Municipal; y la obra es hoy una realidad.

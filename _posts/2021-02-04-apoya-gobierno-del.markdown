@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de la SEyD invierte más de 6 mdp; en la ciudad de Chihuahua pueden recogerlo desde este jueves 4 y en el resto de los municipios a partir del martes 9, en las respectivas oficinas asignadas"
 image: "/uploads/2021/images-Becas_Universitarias_.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Apoya Gobierno del Estado a 1,494 universitarios con Beca de Inscripción"
 front: false
 section: "Local"
-news_id: 182699
+redirect_from: /news/182699
 ---
 
 Como parte de las acciones en apoyo a la economía de los estudiantes y sus familias el Gobierno del Estado de Chihuahua, a través de la Secretaría de Educación y Deporte (SEyD), benefició a 1 mil 494 universitarios con la Beca de Inscripción, gracias a una inversión de 6 millones 125 mil 400 pesos.

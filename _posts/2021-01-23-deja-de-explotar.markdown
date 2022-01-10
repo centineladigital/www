@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hace unos días Lele Pons fue criticada por subir un video con un pequeño cocodrilo con cinta adhesiva en el hocico, ante esto, PETA Latino le mandó un mensaje. "
 image: "/uploads/2021/images-peta-latino-mando-mensaje-influencer_31_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Deja de explotar animales” -  PETA Latino reacciona a video de Lele Pons con cocodrilo"
 front: false
 section: "Espectáculos"
-news_id: 182390
+redirect_from: /news/182390
 ---
 
 Hace unos días la influencer Lele Pons y su novio Guaynaa estuvieron envueltos en la polémica, esto después que la sobrina política de Chayanne publicará un video en redes sociales en donde se ve que está en una alberca junto a un pequeño cocodrilo el cual tiene cinta adhesiva en el hocico. Este clip desató miles de criticas en contra de Lele, además que la acusaron de realizar maltrato animal. Tras los malos comentarios en su contra, tal parece que la polémica no ha terminado ya que PETA Latino (Personas por el Trato Ético de los Animales) reaccionó a la publicación de Lele Pons y le mandó un fuerte mensaje. 

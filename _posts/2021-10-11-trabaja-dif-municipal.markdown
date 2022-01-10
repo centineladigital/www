@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Entregó desayunos escolares en siete asentamientos de la ciudad "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-11_at_10.00.00.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabaja DIF Municipal en erradicar desnutrición en asentamientos tarahumaras"
 front: false
 section: "Local"
-news_id: 188582
+redirect_from: /news/188582
 ---
 
 El Gobierno Municipal a través del DIF Municipal, realizó la entrega de desayunos escolares a niños y niñas de siete asentamientos tarahumaras ubicados en la ciudad, afectados por el cierre de comedores escolares por la pandemia de COVID-19. 

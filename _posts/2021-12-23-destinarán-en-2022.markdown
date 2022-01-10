@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se instaló formalmente el Fideicomiso de Puentes fronterizos durante la Cuarta Sesión Extraordinaria del Comité Técnico"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Destinarán en 2022 más de 406 millones para el Fideicomiso de Puentes Fronterizos"
 front: false
 section: "Local"
-news_id: 191178
+redirect_from: /news/191178
 ---
 
 En la reunión que fue encabezada por Luis Serrato Castell titular de la secretaria de Coordinación de Gabinete del Gobierno del Estado, se realizó la presentación del Presupuesto General 2022 para este fideicomiso, el cual asciende a un total de 406 millones 203 mil 650.20 pesos, 32.69% más que en el año 2021.

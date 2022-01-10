@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Mientras que en nuevos casos se registraron solamente 112 casos de personas que dieron positivo a PCR. "
 image: "/uploads/2021/images-diapositiva3-345.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ01_GUMARO_BARRIOS.mp3"
 alt: "Sin defunciones detectadas este jueves"
 front: false
 section: "Local"
-news_id: 184570
+redirect_from: /news/184570
 ---
 
 No se acreditaron defunciones en las últimas 24 horas, esto tras darse a conocer la actualización de cifras por parte del área de salud del Estado. Mientras que en nuevos casos se registraron solamente 112 casos de personas que dieron positivo a PCR.

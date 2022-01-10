@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La Unidad de Atención a Pandillas llevó a cabo este evento para recabar 500 juguetes para niñas y niños del municipio"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Artistas urbanos libran batalla de Hip Hop en El Palomar"
 front: false
 section: "Local"
-news_id: 190836
+redirect_from: /news/190836
 ---
 
 Solistas e integrantes de grupos urbanos tuvieron una batalla en la explanada de El Palomar, en la cual los triunfadores fueron las niñas y los niños del municipio, ya que se recabaron más de 500 juguetes solicitados como boleto de entrada y para participar.

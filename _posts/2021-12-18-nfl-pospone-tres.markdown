@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En días anteriores la NFL anunció que reforzaría las medidas preventivas para evitar que la temporada se ponga en riesgo "
 image: "/uploads/2021/images-nfl-aplaza-partidos-brote-covid_68_56_1091_679.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "NFL pospone tres partidos de la semana 15 por brote de Covid-19"
 front: false
 section: "Deportes"
-news_id: 191003
+redirect_from: /news/191003
 ---
 
 Los riesgos por Covid-19 vuelven a amenazar a la NFL, que aplazó tres de sus partidos del fin de semana ante el aumento sustancial de casos en algunos de los equipos. Los Raiders de Las Vegas y los Browns de Cleveland, originalmente programados para el sábado por la tarde, pasarán a jugar este lunes a las cuatro de la tarde; además de los partidos Washington vs Águilas de Filadelfia y Halcones Marinos de Seattle vs Carneros de Los Ángeles, que se movieron de domingo a martes 21 de diciembre, ambos a las seis de la tarde. 

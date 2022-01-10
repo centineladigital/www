@@ -10,11 +10,11 @@ author: nil
 description: "Invierten más de dos millones de pesos señaló Pablo González Villalobos."
 image: "/uploads/2021/images-pablo.jpg"
 video: "/uploads/2021/videos-ML05_PABLO_GONZALEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Inaugura TSJ instalaciones en Delicias"
 front: false
 section: "Local"
-news_id: 188602
+redirect_from: /news/188602
 ---
 
 Este lunes se dió la apertura oficial de las nuevas instalaciones de juzgados civiles y familiares del distrito Abraham González, los cuales se ubican en el municipio de Delicias, donde el titular del Tribunal Superior del Estado, Pablo Héctor González Villalobos.

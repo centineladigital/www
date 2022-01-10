@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El primer ministro Fumio Kishida indicó que se aplicará la medida el 30 de noviembre; también se suspenderá la concesión de visados de estudios o para estancias cortas de negocios. "
 image: "/uploads/2021/images-japon-control-estricto-llegada-extranjeros_0_45_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Japón volverá a cerrar sus fronteras a extranjeros por variante Omicron del covid-19"
 front: false
 section: "Internacional"
-news_id: 190294
+redirect_from: /news/190294
 ---
 
 El gobierno de Japón anunció que volverá a vetar la entrada en el país de nuevos residentes extranjeros, así como la concesión de visados de estudios o para estancias cortas de negocios, debido a la preocupación por la variante Omicron del covid-19. 

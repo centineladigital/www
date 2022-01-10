@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se contará con información de programas municipales y estatales para iniciar tu empresa"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Incrementa el potencial de tu negocio; participa en “Capital Emprendimiento”"
 front: false
 section: "Local"
-news_id: 188920
+redirect_from: /news/188920
 ---
 
 El Gobierno Municipal a través de la Dirección de Desarrollo Económico y Turismo, invita a los emprendedores a participar a la capacitación “Capital Emprendimiento”, este 21 de octubre a las 9:00 de la mañana en la Mediateca Municipal, el cual tendrá cupo limitado.

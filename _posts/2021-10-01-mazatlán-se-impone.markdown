@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los de la Perla del Pacífico vencieron por 3-1 para terminar con la mala racha y volver a la senda del triunfo "
 image: "/uploads/2021/images-mazatlan-vence-juarez-liga-mx_0_8_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mazatlán se impone ante Juárez y sueña con cuartos de final del Apertura 2021"
 front: false
 section: "Deportes"
-news_id: 188272
+redirect_from: /news/188272
 ---
 
 El Mazatlán derrotó este martes por 3-1 al Juárez y mantuvo intactas sus posibilidades de clasificarse a los cuartos de final del torneo Apertura 2021 de la Liga MX. 

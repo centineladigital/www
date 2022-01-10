@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras una noche agitada, las calles de la población fronteriza de Castillejos (Fnideq en árabe) lucían vacías: las autoridades marroquíes evacuaron en autobuses a la multitud llegada hasta ahí soñando con un futuro mejor en Europa"
 image: "/uploads/2021/images-2581710.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vuelve la calma a la frontera entre Marruecos y el enclave español de Ceuta"
 front: false
 section: "Internacional"
-news_id: 184557
+redirect_from: /news/184557
 ---
 
 Escenario de una entrada masiva de migrantes, muchos de ellos devueltos inmediatamente, la zona fronteriza entre Marruecos y el enclave español de Ceuta volvía a la calma este jueves, luego de choques entre jóvenes que buscaban cruzar y la policía marroquí.

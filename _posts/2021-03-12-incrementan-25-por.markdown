@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se llevará a cabo en plataformas digitales."
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03_ARTURO_VALENZUELA.mp3"
 alt: "Incrementan 25 por ciento muertes y casos COVID"
 front: false
 section: "Local"
-news_id: 183401
+redirect_from: /news/183401
 ---
 
 De la semana dos a la semana tres del mes de marzo se ha registrado un incremento tanto en casos como defunciones, según lo dio a conocer el Director Médico de la Zona Norte, Arturo Valenzuela Zorrilla. 

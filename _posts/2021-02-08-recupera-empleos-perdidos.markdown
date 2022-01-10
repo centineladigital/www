@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Cierre de marzo dará a conocer cifras afirma María Angélica Granados Trespalacios"
 image: "/uploads/2021/images-MANQUE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML01_ANGELICA_GRANADOS.mp3"
 alt: "Recupera empleos perdidos capital del Estado "
 front: false
 section: "Local"
-news_id: 182786
+redirect_from: /news/182786
 ---
 
 Los más de 15 mil empleos perdidos de los meses de marzo a julio ya fueron recuperados en el municipio de Chihuahua, según expresó la Alcaldesa en funciones María Angélica Granados Trespalacios. Sin embargo, será hasta el mes de marzo cuando se conozcan las cifras de generación de empleos.

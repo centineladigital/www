@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Operativo Navideño vigila zonas bancarias y comerciales de la ciudad "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Si sales de compras; sigue estas recomendaciones de la Policía Municipal "
 front: false
 section: "Local"
-news_id: 190304
+redirect_from: /news/190304
 ---
 
 Con el objetivo de fortalecer la seguridad de chihuahuenses que acuden establecimientos comerciales de la ciudad y evitar robos de pertenencias, la Policía Municipal recomienda tomar en cuenta algunas medidas de cuidado, relacionadas tanto con la seguridad de sus vehículos como la propia, al momento de realizar sus compras. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Presentaba lesiones en una de sus alas y problemas de salud"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rescatan Guardianes Ecológicos a halcón peregrino en El Campanario"
 front: false
 section: "Buenas Noticias"
-news_id: 189553
+redirect_from: /news/189553
 ---
 
 Personal de Guardianes Ecológicos de la Dirección de Desarrollo Urbano y Ecología, rescataron un halcón peregrino (falco preregrinus) en las inmediaciones de la colonia El Campanario, el cual se encontraba herido de una de sus alas y en muy mal estado de salud.

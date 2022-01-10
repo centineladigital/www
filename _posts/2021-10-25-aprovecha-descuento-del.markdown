@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " Para personas físicas y morales durante noviembre y diciembre"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprovecha descuento del 80 por ciento en recargos de tu Predial"
 front: false
 section: "Local"
-news_id: 189157
+redirect_from: /news/189157
 ---
 
 El presidente municipal Marco Bonilla dio a conocer que se brindará un descuento del 80 por ciento en recargos del Impuesto Predial del 1 de noviembre al 31 de diciembre de este año, con el fin de apoyar a la economía de los chihuahuenses.

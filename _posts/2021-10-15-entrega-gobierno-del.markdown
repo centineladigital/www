@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En conmemoración del Día Mundial de la Alimentación"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Gobierno del Estado 500 paquetes alimentarios a chihuahuenses de la Capital"
 front: false
 section: "Local"
-news_id: 188802
+redirect_from: /news/188802
 ---
 
 El Gobierno del Estado, a través del DIF Estatal, llevó a cabo la entrega de 500 paquetes alimentarios a vecinos de la colonia Los Llanos de la ciudad de Chihuahua, en conmemoración al Día Mundial de la Alimentación.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Violeta Isfel recodó la amistad que entabló con la fallecida actriz, Karla Álvarez. Isfel mencionó que Karla la ayudó en momentos difíciles. "
 image: "/uploads/2021/images-actrices-trabajaron-telenovela-tontas-cielo_25_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Un antes y un después en mi vida -  Violeta Isfel y su amistad con Karla Álvarez"
 front: false
 section: "Espectáculos"
-news_id: 188768
+redirect_from: /news/188768
 ---
 
 Karla Álvarez fue una actriz que se dio a conocer gracias a su participación en diferentes telenovelas mexicanas, en donde principalmente interpretó a la villana. El 15 de noviembre del 2013 se informó de su fallecimiento por una insuficiencia respiratoria y a varios años de su muerte, Violeta Isfel recordó la amistad que entabló con Álvarez. En una transmisión en vivo a través del canal de YouTube de Tlnovelas, Violeta Isfel habló sobre la relación de amistad que tuvo con Karla Álvarez, con quien trabajo en la telenovela Las tontas no van al cielo protagonizada por Jacqueline Bracamontes. 

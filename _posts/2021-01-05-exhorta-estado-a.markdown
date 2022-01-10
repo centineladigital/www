@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En 2020 se realizaron 228 trámites para garantizar la seguridad y derechos de las niñas y niños, de ser atendidos en espacios de cuidado óptimos"
 image: "/uploads/2021/images-CENTROS_ATENCION_INFANTIL.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Exhorta Estado a Centros de Atención Infantil  a mantener vigente su licencia de funcionamiento "
 front: false
 section: "Local"
-news_id: 181878
+redirect_from: /news/181878
 ---
 
 La Secretaría de Desarrollo Social hizo un llamado a los Centros de Atención Infantil que operan en la entidad, a fin de que cuenten con su autorización de funcionamiento vigente, y de esta forma garantizar a las y los menores de edad sus derechos y la seguridad de que son atendidos en espacios óptimos.  

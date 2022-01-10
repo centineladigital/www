@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Secretaría de Educación y Deporte reitera que todas las niñas y niños tienen un espacio garantizado en las escuelas públicas; advierte sanciones para las directivas que exijan “cuotas obligatorias”"
 image: "/uploads/2021/images-SED_5737.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inscripción y prestación del servicio educativo no está condicionado a pago de aportaciones voluntarias"
 front: false
 section: "Local"
-news_id: 186861
+redirect_from: /news/186861
 ---
 
 El Gobierno del Estado de Chihuahua a través de la Secretaría de Educación y Deporte (SEyD) reiteró que no se podrá condicionar la inscripción ni cualquier tipo de servicio que presten las escuelas públicas, al pago de una aportación voluntaria.

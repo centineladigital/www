@@ -14,11 +14,11 @@ author: nil
 description: "Bazán busca se aclare la situación a la brevedad "
 image: "/uploads/2021/images-img-20200726-wa0011.jpg"
 video: "/uploads/2021/videos-BL05_OMAR_BAZAN_.mp4"
-audio: "nil"
+audio: nil
 alt: "Biblioteca de la UACH lleva 2 años inconclusa "
 front: false
 section: "Local"
-news_id: 189174
+redirect_from: /news/189174
 ---
 
  El diputado Omar Bazán Flores pidió se lleven a cabo a los trabajos de conclusión de la obra de la biblioteca de la Universidad Autónoma de Chihuahua en el Campus I, la cual lleva 2 años de atraso, la obra estaba pactada para el 31 de mayo del 2019, según lo indica el informe técnico de resultados de la cuenta pública 2018 realizado por la Auditoria Superior del Estado.

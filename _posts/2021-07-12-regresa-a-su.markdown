@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se podrá realizar hasta las 22:00 horas en licorerías, tiendas de conveniencia y supermercados, entre otros; y hasta las 21:00 horas en tiendas de abarrotes."
 image: "/uploads/2021/images-venta_alcohol.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Regresa a su horario habitual  la venta de bebidas alcohólicas en envase cerrado"
 front: false
 section: "Local"
-news_id: 185582
+redirect_from: /news/185582
 ---
 
 Los establecimientos comerciales que venden bebidas alcohólicas en envase cerrado pueden hacerlo en su horario habitual, informó la Secretaría General de Gobierno.

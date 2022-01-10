@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tal y como se ha caracterizado, la Gobernadora Electa de Chihuahua, reunió un equipo integrado de talentos con experiencia y una firme convicción de servicio"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-07_at_14.08.22.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presenta Maru su equipo de trabajo para el Gobierno Estatal 2021-2027"
 front: false
 section: "Local"
-news_id: 187514
+redirect_from: /news/187514
 ---
 
 La mañana de este martes, la Gobernadora Electa del Estado de Chihuahua, Maru Campos, dio a conocer a los chihuahuenses a los integrantes que conformarían su gabinete, quienes la estaríann acompañando durante el próximo sexenio del Gobierno Estatal comprendido del año 2021 al 2027.

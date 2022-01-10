@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se espera que ya para el sábado comience una recuperación de las temperaturas y terminen los efectos de la 10ª Tormenta Invernal y el Frente Frío No. 36"
 image: "/uploads/2021/images-Pronóstico.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nieva en 12 municipios, prevén nuevo descenso de temperatura para este viernes"
 front: false
 section: "Local"
-news_id: 183021
+redirect_from: /news/183021
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) dio a conocer que aún para esta noche y la madrugada del viernes se tendrá un marcado descenso de temperaturas de hasta menos 5 grados en promedio, con sensación térmica de menos 10 en la región fronteriza, sin embargo, se espera para el sábado un ascenso en las temperaturas.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 asciende a 8 de mil 149 casos (+3) y los nuevos casos corresponden a los municipios de Chihuahua (+2) y Meoqui (+1)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 92 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 189552
+redirect_from: /news/189552
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 4 de noviembre el reporte Covid-19, en el cual se registran 81 mil 845 (+92) casos positivos, 70 mil 762 (+32) casos recuperados, 75 mil 575 (+146) descartados y 800 (+17) casos sospechosos.

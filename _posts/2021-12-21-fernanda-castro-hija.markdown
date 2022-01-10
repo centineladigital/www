@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de sus historias de Instagram en donde Fernanda Castro, hija de Angélica Rivera y José Alberto Castro mostró su inconformidad por las críticas que ha recibido en su contra por el simple hecho de tener vello en las axilas."
 image: "/uploads/2021/images-fernanda-hija-angelica-rivera-estalla.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fernanda Castro, hija de Angélica Rivera, explota contra haters que la critican por tener vello en las axilas -  hay gente más culera"
 front: false
 section: "Espectáculos"
-news_id: 191096
+redirect_from: /news/191096
 ---
 
 Fernanda Castro, hija de Angélica Rivera y el productor José Alberto Castro, estalló en contra de las personas que la critican por tener vello en las axilas. Y es que a la joven le han llovido críticas por este tema que para muchos es algo sumamente normal, mientras que para otros es símbolo de falta de higiene. Fue a través de sus historias de Instagram en donde Fernanda Castro, hija de Angélica Rivera y José Alberto Castro mostró su inconformidad por las críticas que ha recibido en su contra por el simple hecho de tener vello en las axilas. 

@@ -14,11 +14,11 @@ author: nil
 description: "La Gobernadora señaló que desde hace esas cuatro décadas Chihuahua no ha dejado de sorprender con sus avances y resultados en producción industrial."
 image: "/uploads/2021/images-index.jpeg"
 video: "/uploads/2021/videos-maru_index.mp4"
-audio: "nil"
+audio: nil
 alt: "Inaugura la Gobernadora reunión de INDEX"
 front: false
 section: "Local"
-news_id: 189782
+redirect_from: /news/189782
 ---
 
 La gobernadora Maru Campos Galván encabezó la Reunión Nacional de Index, en la cual declaró que Chihuahua es semillero de talento intelectual que posibilita el crecimiento constante de la vocación económica por la industria de manufactura, cuyos resultados impactan no solo al norte del país, sino a toda la nación.

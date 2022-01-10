@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La gobernadora Maru Campos encabezó en este municipio la reunión de la Mesa de Seguridad   "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acuerdan reforzar operativos de seguridad para Cuauhtémoc y la zona serrana"
 front: false
 section: "Local"
-news_id: 188730
+redirect_from: /news/188730
 ---
 
 En reunión de la Mesa de Seguridad realizada en ciudad Cuauhtémoc, la gobernadora Maru Campos dio a conocer que se acordó reforzar  la operación que en materia de seguridad se efectúa tanto en el municipio, como en la zona serrana.

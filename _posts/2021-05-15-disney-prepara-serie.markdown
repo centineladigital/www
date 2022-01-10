@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La historia está inspirada en el libro homónimo de Julio Verne, la cual se centra en las aventuras de un grupo de niños que se introducen en una dimensión paralela. "
 image: "/uploads/2021/images-disney-producira-viaje-centro-tierra_0_42_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Disney prepara serie latinoamericana; estará basada en libro de Julio Verne"
 front: false
 section: "Espectáculos"
-news_id: 184478
+redirect_from: /news/184478
 ---
 
 ¡Al estilo Julio Verne! Disney+ anunció la producción de Viaje al Centro de la Tierra, la primera creada en Latinoamérica y la cual será una nueva serie original de ficción producida por National Geographic Original Productions, realizada en México por Estudios Teleméxico. La historia está inspirada en el libro homónimo de Julio Verne, la cual se centra en las aventuras de un grupo de niños que se introducen en una dimensión paralela y descubren un mundo fascinante. 

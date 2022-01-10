@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la imagen, los actores responsables de dar vida a Harry, Hermione y Ron están sentados en la sala común de Gryffindor. "
 image: "/uploads/2021/images-el-especial-se-estrenara-por.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Comparten primera foto de Daniel Radcliffe, Emma Watson y Rupert Grint en reunión de 'Harry Potter'"
 front: false
 section: "Espectáculos"
-news_id: 190923
+redirect_from: /news/190923
 ---
 
 Ante el inminente estreno del especial que HBO Max realizó por el 20 aniversario de Harry Potter y la piedra filosofal, ya el pasado jueves la plataforma de streaming elevó los ánimos al compartir una foto donde aparecen juntos los protagonistas de la saga: Daniel Radcliffe, Emma Watson y Rupert Grint. Ahora, la producción compartió el póster oficial de la reunión que tendrá a los protagonistas de las películas. "Es como si nunca se hubieran ido. Harry Potter 20 aniversario #RegresaAHogwarts, llegará el 1 de enero a HBO Max", escribió HBO Max en sus redes sociales. 

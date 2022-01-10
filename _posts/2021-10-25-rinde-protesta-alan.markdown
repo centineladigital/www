@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Destacó la importancia de asumir su nuevo cargo y el compromiso que el mismo implica  ante los usuarios chihuahuenses.  "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rinde protesta Alan Falomir como nuevo Director Ejecutivo de la JMAS Chihuahua"
 front: false
 section: "Local"
-news_id: 189164
+redirect_from: /news/189164
 ---
 
 Este lunes se llevó a cabo la toma de protesta de Alan Falomir como nuevo Director Ejecutivo de la Junta Municipal de Agua y Saneamiento de Chihuahua (JMAS),  tras ser elegido por mayoría de votos por el consejo de administración de la Junta Central de Agua y Saneamiento (JCAS).

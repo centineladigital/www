@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Carestía alcanza tasas de más de 7% u 8% en algunas ciudades del país; en Fresnillo, Zacatecas, los precios al consumidor subieron 8.9% el mes pasado, reporta instituto"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "10 ciudades en México que tienen la peor inflación en 20 años"
 front: false
 section: "Nacional"
-news_id: 190043
+redirect_from: /news/190043
 ---
 
 Conocida como el impuesto de los pobres por dañar más a quienes menos tienen, la inflación alcanzó su mayor nivel de las últimas décadas en Guadalajara, Culiacán, Monterrey y otras importantes ciudades del país.

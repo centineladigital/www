@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Federación de futbol de Honduras sobre el tema expresa que la situación pasa por un malentendido en el terreno de juego”."
 image: "/uploads/2021/images-alemania-abandona-partido-frente-honduras_0_43_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alemania abandona partido frente a Honduras por insultos racistas"
 front: false
 section: "Deportes"
-news_id: 185754
+redirect_from: /news/185754
 ---
 
 El partido de preparación para los Juegos Olímpicos entre Alemania y Honduras que se disputaba este sábado en Japón, fue suspendido en el minuto 85 después de que el jugador germano Jordan Torunarigha recibiera, presuntamente, un insulto racista por parte de un miembro de la selección hondureña. 

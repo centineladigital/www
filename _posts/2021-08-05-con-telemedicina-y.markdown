@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se logró atender a 131 mil 974 personas de 3 mil 225 comunidades ralámuli, warijó, pima y tepehuán, gracias a la reorganización de brigadas y la adquisición de 14 vehículos nuevos para extender las visitas a zonas serranas, se informa en programa “Logros con Valor”  "
 image: "/uploads/2021/images-Centro_Regional_de_Radioterapia__Juárez.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-8-_ALEJANDRO_SALAZAR_DIR_MÉDICO_SERV_SALUD_LOGROS_CON_VALOR_SRIA_SALUD_5-8-21.MP3"
 alt: "Con telemedicina y unidades móviles llevó Estado servicios de salud a comunidades alejadas"
 front: false
 section: "Local"
-news_id: 186320
+redirect_from: /news/186320
 ---
 
 El Gobierno del Estado logró acercar los servicios médicos a las comunidades más alejadas, mediante la implementación de unidades móviles y herramientas como la telemedicina, lo cual, aunado a las inversiones en este rubro, ha permitido brindar un servicio de manera oportuna y con mayor calidad y calidez, señaló el secretario de Salud Eduardo Fernández Herrera.

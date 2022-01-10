@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Sebastián Piñera está acusado por supuestamente favorecer la venta de una propiedad familiar durante su primer mandato. "
 image: "/uploads/2021/images-el-anuncio-fue-hecho-por-10_0_0_800_498.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cámara de Diputados de Chile admite juicio político contra presidente Sebastián Piñera"
 front: false
 section: "Internacional"
-news_id: 189687
+redirect_from: /news/189687
 ---
 
 Tras una maratónica sesión que se extendió por más de 20 horas, la Cámara de Diputados de Chile admitió un juicio político impulsado por la oposición contra el presidente Sebastián Piñera. La acusación fue aprobada por 78 votos a favor, 67 en contra y tres abstenciones y ahora deberá ser tramitada por el Senado, que tiene facultades para destituir al mandatario, acusado de infringir la constitución y las leyes y de comprometer el honor de la nación por supuestamente favorecer la venta de una propiedad familiar durante su primer mandato (2010-2014). Los senadores tienen un máximo de seis días para iniciar la tramitación. 

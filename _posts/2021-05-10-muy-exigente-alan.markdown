@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En plena transmisión en vivo del programa Despierta América, Alan Tacher tachó a Pepe Aguilar de ser muy exigente con Ángela Aguilar tras la polémica por entonar el Himno Nacional Mexicano. "
 image: "/uploads/2021/images-alan-tacher-critica-pepe-aguilar.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Muy exigente -  Alan Tacher critica a Pepe Aguilar por ser duro con Ángela Aguilar tras polémica"
 front: false
 section: "Espectáculos"
-news_id: 184389
+redirect_from: /news/184389
 ---
 
 Ángela Aguilar ha dado mucho de qué hablar tras su presentación en la pelea de box entre el Canelo Álvarez y Billy Joe Saunders. La cantante, hija de Pepe Aguilar– se presentó en los escenarios –previo al enfrentamiento deportivo– para entonar el Himno Nacional Mexicano, algo que para muchos fue un fracaso, pues le dio una interpretación distinta a la que debe ser. Ante este panorama, su padre –Pepe Aguilar– salió en su defensa no sin dejar de lado el reconocimiento de su error. ¿Pepe Aguilar es muy exigente con Ángela Aguilar? Para muchos, el cantante es muy estricto con la joven, tal es el caso de Alan Tacher, quien lanzó una crítica en su contra. ¿Qué dijo? 

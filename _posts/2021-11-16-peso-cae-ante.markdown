@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Conoce el precio del dólar hoy martes en bancos. "
 image: "/uploads/2021/images-tipo-de-cambio-peso-dolar-77.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Peso cae ante fortaleza del dólar tras dato de minoristas en EU"
 front: false
 section: "Internacional"
-news_id: 189861
+redirect_from: /news/189861
 ---
 
 Al iniciar operaciones, el precio del dólar hoy martes fue de hasta 21.24 en bancos. En tanto, el tipo de cambio interbancario se ubicó en 20.67, con una depreciación del 0.37 por ciento frente al precio de la sesión anterior. Citibanamex vende el dólar hasta en 21.24 pesos, mientras BBVA México lo hace en 20.99, Banorte en 21.10 pesos y Banco Azteca en 20.49 unidades. 

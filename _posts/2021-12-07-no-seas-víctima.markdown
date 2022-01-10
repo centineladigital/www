@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Verifica que los calefactores estén debidamente conectados y cuenten con buena ventilación"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No seas víctima del monóxido de carbono; conoce las recomendaciones de Protección Civil Municipal"
 front: false
 section: "Local"
-news_id: 190596
+redirect_from: /news/190596
 ---
 
 Debido a las bajas temperaturas que se han presentado y que continuarán durante la temporada invernal en la ciudad, el Gobierno Municipal a través de la Coordinación Municipal de Protección Civil, exhorta a la población a seguir estas recomendaciones para evitar posibles accidentes, derivados del uso de calefactores que producen monóxido de carbono y que podrían prender fuego dentro de los hogares o presentar fugas de gas.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La Consulta Popular para enjuiciar a los expresidentes debe ser el inicio de una ciudadanía activa y participativa, que impulse a más consultas en los tres niveles de gobierno, señalo el legislador"
 image: "/uploads/2021/images-WhatsApp_Image_2021-07-30_at_13.41.00.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Consulta popular el próximo domingo es oportunidad para que expresidentes rindan cuentas -  Carrera "
 front: false
 section: "Local"
-news_id: 186140
+redirect_from: /news/186140
 ---
 
 La consulta será una oportunidad histórica para que expresidentes rindan cuentas por crímenes y omisiones del pasado, señaló el diputado de Morena Benjamín Carrera Chávez durante un posicionamiento en el que convocó a los chihuahuenses a participar el próximo domingo en la Consulta Popular.

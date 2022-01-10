@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jaime Camil será 'El Charro de Huentitán' en serie biográfica del cantante, noticia que desató comentarios negativos en redes sociales. "
 image: "/uploads/2021/images-issabela-camil-opina-jaime-camil_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se parecen mucho -  Issabela Camil defiende a Jaime Camil de críticas por interpretar a Vicente Fernández"
 front: false
 section: "Espectáculos"
-news_id: 188844
+redirect_from: /news/188844
 ---
 
 Jaime Camil será el encargado de interpretar a Vicente Fernández -quien continúa hospitalizado- en la bioserie sobre la vida de El Charro de Huentitán que ya prepara Netflix en colaboración con Caracol Televisión. Sin embargo, tras revelarse que el actor daría vida al cantante en la producción, las críticas se desataron en redes sociales, razón por la que Issabela Camil salió en defensa de su hermano.  En una entrevista con el programa Ventaneando, la actriz -esposa de Sergio Mayer- habló por primera vez del protagónico de Jaime Camil en la serie biográfica de Chente y dijo sentirse muy orgullosa de este nuevo logro del actor en su carrera artística.  

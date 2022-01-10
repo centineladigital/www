@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El reciente aumento en nuevos casos de covid causará que la recuperación se detenga en el primer trimestre de este año"
 image: "/uploads/2021/images-2520447.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La economía de México se contrajo un 8.5% en 2020"
 front: false
 section: "Nacional"
-news_id: 182542
+redirect_from: /news/182542
 ---
 
 La economía de México, la segunda más grande de América Latina, se contrajo un 8.5% en todo el 2020, golpeada por la pandemia de coronavirus, según cifras preliminares divulgadas este viernes por el instituto de estadísticas, INEGI.

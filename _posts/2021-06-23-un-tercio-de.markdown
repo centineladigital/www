@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Baja California es la entidad con mayor porcentaje de población inmunizada con 57%"
 image: "/uploads/2021/images-GERA-_aplican_vacuna_centro_de_convenciones.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Un tercio de los chihuahuenses han sido vacunados contra Covid-19"
 front: false
 section: "Local"
-news_id: 185187
+redirect_from: /news/185187
 ---
 
 En el contexto nacional, el estado de Chihuahua ocupa el lugar número 12 en aplicación de vacunas contra el Covid-19, con un 30% de la población que hasta el momento ha sido inmunizada, informó la Secretaría de Salud federal.

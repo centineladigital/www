@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El llamado bloque de contención del Senado de la República rechazará la aprobación de la reforma fiscal que busca obligar a los jóvenes de más de 18 años a inscribirse en el Registro Federal de Contribuyentes, aunque no tengan empleo o ingresos "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Bloque de contención en el Senado se opone a terrorismo fiscal contra los jóvenes"
 front: false
 section: "Nacional"
-news_id: 188950
+redirect_from: /news/188950
 ---
 
 El llamado bloque de contención del Senado de la República rechazará la aprobación de la reforma fiscal que busca obligar a los jóvenes de más de 18 años a inscribirse en el Registro Federal de Contribuyentes, aunque no tengan empleo o ingresos.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En una entrevista para 'Ventaneando', la cantante mexicana le reveló a Pati Chapoy si haría una colaboración con la artista chilena. "
 image: "/uploads/2021/images-cantante-chilena-manifestado-admiracion-paquita.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Habrá dueto? Paquita la del Barrio revela si está dispuesta a colaborar con Mon Laferte"
 front: false
 section: "Espectáculos"
-news_id: 181828
+redirect_from: /news/181828
 ---
 
 Luego de que Mon Laferte contó que le gustaría conocer y hacer una canción con Paquita la del Barrio, este viernes la cantante mexicana le respondió a la chilena a través del programa Ventaneando. "Así como cartita a Santa Claus, lo más hermoso sería conocerla, conversar con ella, que me cuenta su vida y saber si hay cosas que le faltaron decir, y esas ponerlas en una canción juntas", dijo Mon a principios de diciembre del año pasado en el noticiero vespertino de TV Azteca. 

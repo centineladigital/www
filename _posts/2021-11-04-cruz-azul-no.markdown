@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Todo le salió mal a los cementeros, que ahora deberán ir el domingo contra Pumas a ganar y esperar combinación de resultados"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cruz Azul no puede ante León y deja en suspenso su pase directo a la Liguilla"
 front: false
 section: "Deportes"
-news_id: 189541
+redirect_from: /news/189541
 ---
 
 Todos los pasos hacia adelante que Cruz Azul dio al ganarle al América, los dio para atrás al caer ante el León, y perder una buena oportunidad de entrar entre los cuatro primeros puestos de la tabla.

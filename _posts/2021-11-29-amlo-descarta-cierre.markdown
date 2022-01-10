@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente aseguró que en el país se ha avanzado mucho en la vacunación anticovid y lo mejor es recibir el biológico para prevenir. "
 image: "/uploads/2021/images-andres-manuel-lopez-obrador-conferencia-76.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO descarta cierre de actividades por variante de covid Omicron"
 front: false
 section: "Nacional"
-news_id: 190289
+redirect_from: /news/190289
 ---
 
 El presidente Andrés Manuel López Obrador descartó el cierre de actividades ante el surgimiento de Omicron, nueva variante del coronavirus, e incluso dijo que "no debemos de espantarnos", en un contexto en que diversos países han impuesto medidas más estrictas para evitar su propagación. 

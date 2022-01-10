@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se reúne alcalde de Chihuahua con gobernadora, Maru Campos, y presidentes municipales de los 67 Ayuntamientos"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-21_at_13.28.14.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Necesaria la unidad para trabajar juntos por Chihuahua -  Marco Bonilla"
 front: false
 section: "Local"
-news_id: 187919
+redirect_from: /news/187919
 ---
 
 En el marco de la reunión sostenida por parte de los 67 alcaldesas y alcaldes de los diferentes municipios del estado, con la gobernadora, Maru Campos Galván, el presidente municipal de Chihuahua, Marco Bonilla, destacó que este encuentro sirve como referente para en conjunto y de la mano con la titular del Ejecutivo Estatal, se trabaje por el bien de la entidad.

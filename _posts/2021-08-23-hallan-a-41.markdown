@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los migrantes fueron trasladados a un centro de salud para confirmar que ninguno estuviera contagiado de covid-19"
 image: "/uploads/2021/images-b7d48d45-f739-47d7-8593-e9301f8b1256.tmp"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hallan a 41 migrantes que viajaban de forma irregular en Guatemala"
 front: false
 section: "Internacional"
-news_id: 186990
+redirect_from: /news/186990
 ---
 
 La policía de Guatemala encontró este domingo, en una vivienda de la capital del país a 41 migrantes brasileños, chilenos y haitianos que viajaban de forma irregular a Estados Unidos, informó la institución.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Tiene como finalidad ofrecer un espacio para promocionar la práctica de los deportes extremos entre la juventud chihuahuense"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno Municipal a participar en concurso Pa´ La Cantera"
 front: false
 section: "Local"
-news_id: 186662
+redirect_from: /news/186662
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación invita a todos los jóvenes del municipio que tienen entre los 12 y 29 años de edad y practican algún deporte extremo, a participar en una de las diferentes competencias que se realizarán en Pa’ La Cantera; así como disfrutar de la música en vivo que tocarán bandas locales.

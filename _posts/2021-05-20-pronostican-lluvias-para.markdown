@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Para este jueves se prevén rachas de viento que superen los 55 km/h en parte del noroeste de la entidad"
 image: "/uploads/2021/images-descarga.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronostican lluvias para el viernes 21 en norte, noroeste y suroeste del estado"
 front: false
 section: "Local"
-news_id: 184560
+redirect_from: /news/184560
 ---
 
 Con la aproximación de un nuevo frente frío, para este jueves 20 de mayo se esperan ráfagas de viento que pudieran superar los 55 kilómetros por hora, mientras que para el viernes 21 se prevén lluvias en el norte, noroeste, y suroeste del estado, advirtió la Coordinación Estatal de Protección Civil (CEPC).

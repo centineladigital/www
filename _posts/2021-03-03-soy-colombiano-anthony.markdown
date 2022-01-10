@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "No es la primera vez que el británico se vuelve viral con sus divertidos videos y su gran sentido del humor. "
 image: "/uploads/2021/images-colombiano-anthony-hopkins-enciende-redes.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Soy colombiano -  Anthony Hopkins enciende las redes al ritmo de Elvis Crespo"
 front: false
 section: "Espectáculos"
-news_id: 183246
+redirect_from: /news/183246
 ---
 
 El actor Anthony Hopkins causó sensación en redes sociales este martes al compartir un divertido video en el que se va al ganador del Oscar, de 83 años, bailando al ritmo de la canción Tu sonrisa, una de las canciones más del cantante puertorriqueño Elvis Crespo. 

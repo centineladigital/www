@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que seguridad es de gran importancia."
 image: "/uploads/2021/images-RIGGS.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ01_GUMARO_BARRIOS.mp3"
 alt: "Urge fomentar vivienda vertical -  Riggs"
 front: false
 section: "Local"
-news_id: 184446
+redirect_from: /news/184446
 ---
 
 Como urgente calificó el candidato a la Alcaldía por Movimiento Ciudadano el fomento de la vivienda vertical, esto ya que la lejanía de las viviendas de la zona centro genera que se creen diveross problemáticas sociales. Entre ellas la de hogares dormitorios.

@@ -20,11 +20,11 @@ author: nil
 description: "7 estados de la república inluyendo Chihuahua ya tiene este decreto "
 image: "/uploads/2021/images-principal_oct19-4.jpg"
 video: "/uploads/2021/videos-BM02_CUAHUTEMOC_ESTRADA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Regularización de autos chuecos un acierto de la federación "
 front: false
 section: "Local"
-news_id: 188931
+redirect_from: /news/188931
 ---
 
 El diputado Cuauhtémoc estrada declaró que la regularización de autos chuecos la cual fue aprobada en la miscelánea fiscal es un acierto del gobierno federal , manifestó que este decreto es un hecho para 7 estados de la república por ello debe estar claro para los que dudaban de que este decreto se pudiera llevar a cabo.

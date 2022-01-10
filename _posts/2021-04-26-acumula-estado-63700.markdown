@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dan positivo 90 personas más y se confirman 24 decesos en el último reporte epidemiológico; Chihuahua es el municipio que tiene más casos activos con 726, seguido de Juárez con 233"
 image: "/uploads/2021/images-Recomienda.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acumula estado 63,700 contagios y 6,433 defunciones por COVID-19"
 front: false
 section: "Local"
-news_id: 184104
+redirect_from: /news/184104
 ---
 
 En los trece meses que lleva la pandemia por coronavirus en el estado de Chihuahua van  63 mil 700 contagios acumulados y 6 mil 433 defunciones, de acuerdo al último reporte epidemiológico que emite la Secretaría de Salud.

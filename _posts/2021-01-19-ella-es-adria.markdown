@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te contamos todo sobre Adria, la hija del cantautor Ricardo Arjona que ha trabajado con Ben Affleck, Ryan Reynolds y próximamente con Jared Leto. "
 image: "/uploads/2021/images-adria-y-ricardo-arjona-especial.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ella es Adria, la hija de Ricardo Arjona que se ha consolidado como actriz en Hollywood"
 front: false
 section: "Espectáculos"
-news_id: 182267
+redirect_from: /news/182267
 ---
 
 Ricardo Arjona es uno de loscantautores más reconocidos de Latinoamérica. Autor de temas como "El problema", "Fuiste tú" e "Historia de un taxi", el compositor de 57 años se sitúa en un escenario en el que o lo amas o lo odias. 

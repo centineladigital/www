@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El ingreso del frente frío 31 por el noroeste del país provocará fuertes vientos en el territorio estatal; las lluvias se mantendrán de aisladas a dispersas principalmente en Madera y Guadalupe y Calvo"
 image: "/uploads/2021/images-vientos-copia-696x363-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronostica CEPC rachas de viento de hasta 55 km/h en Chihuahua"
 front: false
 section: "Local"
-news_id: 182357
+redirect_from: /news/182357
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) del Gobierno del Estado de Chihuahua informó que el ingreso del frente frío número 31 por el extremo noroeste del país, provocará rachas de viento hasta por encima de 55 kilómetros por hora (km/h).

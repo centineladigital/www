@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El nuevo mandatario deberá tener en cuenta las estrategias del país ante la pandemia del coronavirus y el reforzamiento en las tareas diplomáticas. "
 image: "/uploads/2021/images-fumio-kishida-parado-elegido-ministro_0_23_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Parlamento de Japón elige a Fumio Kishida como primer ministro del país"
 front: false
 section: "Internacional"
-news_id: 188330
+redirect_from: /news/188330
 ---
 
 El parlamento de Japón eligió hoy a Fumio Kishida como nuevo primer ministro, quien deberá anunciar su gabinete con figuras del gobierno saliente y caras nuevas, al tiempo que tendrá la gran tarea de combatir la pandemia del coronavirus y enfrentar varios desafíos de seguridad antes de unas elecciones nacionales. 

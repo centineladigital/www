@@ -10,11 +10,11 @@ author: nil
 description: "Se busca fortalecer los mecanismos de prevención y detección temprana del cáncer de mama."
 image: "/uploads/2021/images-FELIPE.jpg"
 video: "/uploads/2021/videos-MJ02_FELIPE_MAGALLANES.mp4"
-audio: "nil"
+audio: nil
 alt: "Intensifican prevención de cáncer de mama"
 front: false
 section: "Local"
-news_id: 188739
+redirect_from: /news/188739
 ---
 
 Dentro del mes de octubre en el que se conmemora la lucha en contra el cáncer de mama dió inicio una campaña para intensificar la prevención de este mal, con el fin de evitar la pérdida de vidas, en su mayoría mujeres por este mal.

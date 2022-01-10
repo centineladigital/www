@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El integrante de la banda, Kevin Richardson cumplió 50 años este fin de semana y festejó con sus compañeros. "
 image: "/uploads/2021/images-backstreet-boys-foto-especial.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Backstreet’s back, alright! Backstreet Boys se reúnen para celebrar cumpleaños de Kevin Richardson"
 front: false
 section: "Espectáculos"
-news_id: 188681
+redirect_from: /news/188681
 ---
 
 Si no sabes quienes son los Backstreet Boys probablemente vives en el siglo pasado. Ellos fueron la boy band más popular de los 90 's y principios de los dos miles; iniciaron su carrera en Orlando Florida y saltaron a la fama con su álbum debut Backstreet Boys (1996). La banda está integrada por 5 hombres con voces espectaculares: A. J. McLean, Howie Dorough, Brian Littrell, Nick Carter y Kevin Richardson, quienes fueron los dueños de los corazones de muchas (y muchos) cuando su carrera estaba en lo alto. 

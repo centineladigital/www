@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Todo lo que debes saber sobre el estreno de 'Space Jam: Una nueva era' en la plataforma de streaming HBO Max.   "
 image: "/uploads/2021/images-donde-ver-space-jam-una.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿No la viste en el cine? HBO Max estrena 'Space Jam -  Una nueva era' en esta fecha"
 front: false
 section: "Espectáculos"
-news_id: 186862
+redirect_from: /news/186862
 ---
 
 En este mes de agosto, HBO Max tiene varios grandes estrenos; pero uno de los más destacados es Space Jam: Una nueva era, la segunda parte de la aclamada 'El juego del siglo', que esta vez tendrá a LeBron James, en lugar de Michael Jordan, como la superestrella de la NBA encargada de protagonizar el largometraje.

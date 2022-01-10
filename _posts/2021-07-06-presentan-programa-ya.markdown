@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Cuponera será para disfrutar de hoteles y restaurantes en Ciudad Juárez."
 image: "/uploads/2021/images-NATHALIE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM05.mp3"
 alt: "Presentan programa Ya me vi y cuponera de descuentos"
 front: false
 section: "Local"
-news_id: 185400
+redirect_from: /news/185400
 ---
 
 Este martes fue dada a conocer la campaña publicitaria “Ya me vi” y cuponera para “Miguel Ángel, el divino” las cuales estarán vigentes este verano, con lo que se busca el promover el turismo local según fue dado a conocer por parte de Nathalie Desplas Pues, directora de Turismo de la Secretaria de Innovación y Desarrollo Económico.

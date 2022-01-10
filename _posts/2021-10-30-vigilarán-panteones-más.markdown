@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Policías municipales y bomberos montarán vigilancia permanente por visita a difuntos y Feria del Hueso"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vigilarán panteones, más de 100 elementos de seguridad"
 front: false
 section: "Local"
-news_id: 189397
+redirect_from: /news/189397
 ---
 
 Más de 100 elementos municipales, entre policías, bomberos y personal de Protección Civil, se encuentran listos para brindar vigilancia en los diferentes panteones de la ciudad, para garantizar la integridad y seguridad de los miles de ciudadanos que acuden a visitar las tumbas de sus familiares o la Feria del Hueso.

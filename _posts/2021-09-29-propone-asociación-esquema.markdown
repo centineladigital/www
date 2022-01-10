@@ -10,11 +10,11 @@ author: nil
 description: "Podrían implementar GPS en unidades."
 image: "/uploads/2021/images-CARLOS.jpg"
 video: "/uploads/2021/videos-MW03_CARLOS_RODRIGUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Propone asociación esquema de regularización de chuecos"
 front: false
 section: "Local"
-news_id: 188194
+redirect_from: /news/188194
 ---
 
 Con el fin de que se pueda llevar a cabo acciones para beneficio de quienes tienen unidades vehiculares de procedencia extranjera, esto así como la implementación de unidades GPS según lo dio a conocer el presidente a nivel nacional de la Unión Nacional de Organizaciones y Asociaciones Sociales y Civiles de México, Carlos Iván Rodríguez.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El documental producido por FX y 'The New York Times' cuestiona si Jamie Spears, padre de la cantante, debería seguir como su tutor legal. "
 image: "/uploads/2021/images-las-razones-por-las-que-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Framing Britney Spears', el documental que cuestiona tutela legal de 'La Princesa del pop'"
 front: false
 section: "Espectáculos"
-news_id: 182804
+redirect_from: /news/182804
 ---
 
 Britney Spears es una de las artistas con mayor fama en el mundo; sin embargo, su vida dio un giro de 360 grados cuando en 2007 se divorció de Kevin Federline y perdió la custodia de los dos hijos que procrearon juntos. Un años después, en 2008, la intérprete de "Toxic" también perdería su libertad a manos de su padre, Jamie Spears, quien obtuvo su custodia ante un tribunal de California, convirtiéndose en su tutor legal por "cuestiones de salud mental", lo que le permite controlar la vida y finanzas de La Princesa del pop. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Jesús Mesta Fitzmaurice destaca que se deja un mejor Chihuahua del que se recibió en 2016; el documento fue recibido por la presidenta del Legislativo, Blanca Gámez"
 image: "/uploads/2021/images-_DSC7603.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Poder Ejecutivo al Congreso del Estado el Quinto Informe de Gobierno"
 front: false
 section: "Local"
-news_id: 186386
+redirect_from: /news/186386
 ---
 
 El coordinador Ejecutivo de Gabinete, Jesús Mesta Fitzmaurice, entregó al Congreso del Estado el Quinto Informe de Gobierno de la gestión del gobernador Javier Corral, con lo que se dio cumplimiento al ordenamiento legal.

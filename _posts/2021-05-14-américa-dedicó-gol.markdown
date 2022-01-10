@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después del tanto de Leo Suárez, el club recordó a dos aficionados azulcremas que fallecieron el pasado 3 de mayo"
 image: "/uploads/2021/images-2578476.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "América dedicó gol a dos víctimas de la tragedia del Metro"
 front: false
 section: "Deportes"
-news_id: 184455
+redirect_from: /news/184455
 ---
 
 El América dedicó un gol a dos víctimas del trágico accidente en la Línea 12 del Metro de la Ciudad de México del pasado 3 de mayo. Después del gol convertido por Leo Suárez en el encuentro en el que los azulcremas perdieron 3-1 ante Pachuca, la cuenta en Twitter de los azulcremas indicó que el tanto era en la memoria de Brandon Giovanny Hernández Tapia y Jesús Baños García.

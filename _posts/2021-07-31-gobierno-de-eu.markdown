@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Policías estatales en Texas pueden detener vehículos bajo sospecha de que transportan migrantes; el gobierno federal de EU busca que la medida se suspenda"
 image: "/uploads/2021/images-policias-texas-enviar-vehiculos-vuelta_0_46_1024_636.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobierno de EU demanda a Texas por detención de migrantes"
 front: false
 section: "Internacional"
-news_id: 186159
+redirect_from: /news/186159
 ---
 
 El gobierno de Joe Biden demandó al de Texas con el objetivo de impedir que los policías estatales detengan vehículos con migrantes, bajo el argumento de que estos podrían propagar el covid-19, y advirtió que la práctica aumentaría los problemas en medio del alto número de cruces en la frontera con México.

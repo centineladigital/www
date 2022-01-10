@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con esta capacitación, se otorga mayor seguridad en la validez y autenticidad de los documentos que se reciben, así como las constancias oficiales que se expiden por dicha dependencia estatal"
 image: "/uploads/2021/images-profesiones_(2).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Imparten curso  sobre grafoscopía y documentoscopía  al personal de Dirección Estatal de Profesiones"
 front: false
 section: "Local"
-news_id: 186384
+redirect_from: /news/186384
 ---
 
 Como parte de un proceso permanente de actualización y modernización en beneficio de la ciudadanía, el personal de la Dirección Estatal de Profesiones de la Secretaría de Educación y Deporte (SEyD), recibió un curso básico intensivo en materia de Grafoscopía y Documentoscopía.

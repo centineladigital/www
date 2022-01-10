@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante su concierto vía streaming, Lucero reveló que aún guardaba su vestido de novia y, junto a Manuel Mijares, recordó algunas anécdotas de la boda. "
 image: "/uploads/2021/images-lucero-muestra-vestido-boda-mijares_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lo voy a seguir guardando -  Lucero muestra vestido que usó en su boda con Mijares"
 front: false
 section: "Espectáculos"
-news_id: 184621
+redirect_from: /news/184621
 ---
 
 Lucero y Manuel Mijares realizaron por primera vez un concierto juntos al que llamaron Siempre amigos, nombre con el que recalcan que su amistad es más fuerte que nunca, a más de una década de su divorcio. El show estuvo repleto de sorpresas e increíbles interpretaciones, pese a que se transmitió vía streaming desde la casa del cantante debido a la pandemia de covid-19.  Pero más allá de la música, los artistas también hicieron polémicas revelaciones sobre su relación, en especial sobre el día de su boda. Sin duda, el momento que más generó revuelo fue cuando Lucero confesó que aún conserva el vestido de novia que lució el día de su unión matrimonial con Mijares e, incluso, lo mostró frente a las cámaras.  

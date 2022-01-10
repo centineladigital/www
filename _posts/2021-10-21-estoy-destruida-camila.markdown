@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz compartió un video en el que afirma estar muy cansada por los llamados nocturnos; sin embargo, los internautas la criticaron por quejarse, pues señalaron que la mayoría de las personas trabajan más horas de lo que dicta la ley. "
 image: "/uploads/2021/images-camila-sodi-dice-que-su_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estoy destruida -  Camila Sodi asegura que su trabajo es muy pesado y la critican en redes"
 front: false
 section: "Espectáculos"
-news_id: 189016
+redirect_from: /news/189016
 ---
 
 Camila Sodi es una de las estrellas mexicanas más populares. Inició su carrera desde los 11 años en el modelaje, pero recientemente ha sorprendido con sus papeles en Luis Miguel, la serie o Rubí; sin embargo, la actriz mantiene una tensa relación con la prensa e, incluso, ha tenido polémicos encuentros con conductoras como Linet Puente y Maxine Woodside.  Ahora, la cantante generó revuelo por un mensaje que compartió en redes sociales y le ganó las críticas de los internautas. A través de sus historias en su cuenta de Instagram, Camila Sodi compartió un video en el que asegura que su trabajo como actriz es muy pesado y "está destruida".  

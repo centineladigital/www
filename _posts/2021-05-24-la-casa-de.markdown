@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La última temporada de 'La casa de papel' estará dividida en dos partes. Te contamos los detalles."
 image: "/uploads/2021/images-la-casa-de-papel-llega.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'La casa de papel' presenta intenso avance y anuncia fecha de estreno de la temporada 5"
 front: false
 section: "Espectáculos"
-news_id: 184616
+redirect_from: /news/184616
 ---
 
 La casa de papel, producción que tras su estreno en 2017 se convirtió en un fenómeno mundial, está por llegar a su fin. Tras una larga espera, la exitosa serie de Netflix creada por Álex Pina acaba de estrenar el primer avance oficial y anunciar la tan ansiada fecha de estreno. "Los momentos importantes son en los que comprendemos que ya no hay retorno. No tiene marcha atrás", dice Tokio en el video donde observamos a Helsinki, Bogotá, Lisboa, Denver, Tokio, Río, Marsella, Estocolmo, Palermo y Manila portando armas y acorralados por la policía. 

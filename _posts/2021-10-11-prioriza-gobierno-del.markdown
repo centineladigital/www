@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los integrantes de la asociación señalaron que es necesario tomar acciones inmediatas, para impulsar al sector agropecuario."
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prioriza Gobierno del Estado cercanía con el sector agropecuario"
 front: false
 section: "Local"
-news_id: 188588
+redirect_from: /news/188588
 ---
 
 La titular de la Secretaría de Desarrollo Rural, Lilia Merodio, en compañía de la Asociación de Egresados de la Escuela Superior de Agricultura, “Hermanos Escobar” (ESAHE) entablaron un diálogo para tratar asuntos generales en el sector agropecuario.

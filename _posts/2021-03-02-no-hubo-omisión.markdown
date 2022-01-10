@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Juzgado Octavo de Distrito resuelve suspensión definitiva, por lo que la alcaldesa con licencia deberá presentarse a audiencia de formulación de cargos en caso de la “nómina secreta” del exgobernador, informa Consejería Jurídica de Gobierno del Estado"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No hubo omisión alguna en proceso  por lo que niegan de nuevo amparo a alcaldesa"
 front: false
 section: "Local"
-news_id: 183224
+redirect_from: /news/183224
 ---
 
 El Juzgado Octavo de Distrito publicó hoy la negativa de la suspensión definitiva en el amparo que promovió la alcaldesa con licencia de Chihuahua, en el caso de la “nómina secreta” del exgobernador, informó el consejero jurídico de Gobierno del Estado, Jorge Espinoza Cortés.

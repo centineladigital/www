@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor confirmó que ya no está soltero y compartió una foto en la que aparece junto a su novia. "
 image: "/uploads/2021/images-henry-cavill-presente-novia-foto_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Quién es? Henry Cavill presenta a su novia con romántica foto en Instagram"
 front: false
 section: "Espectáculos"
-news_id: 183872
+redirect_from: /news/183872
 ---
 
 Henry Cavill, conocido por dar vida a Superman en el cine, no sólo conquistó Hollywood, también se ha convertido en una celebridad de las redes sociales, donde ha protagonizado momentos virales. Ahora, el actor británico recurrió a Instagram para anunciar que ya no está soltero y presentar a su novia, Natalie Viscuso, a quien le dedicó un romántico mensaje.  Los rumores sobre su posible romance comenzaron a circular hace unos días cuando un medio publicó unas fotografías en las que se ve al actor recorrer las calles de Londres tomado de la mano de Natalie Viscuso, mientras pasean a Kal (el perro del famoso). Pero, ya está confirmado: Henry Cavill abandonó la soltería. 

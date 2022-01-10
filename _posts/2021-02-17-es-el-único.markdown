@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De la mano de personalidades como 'Cantinflas', 'Tin Tan', 'El Santo' y 'Don Ramón', la increíble fotografía donde aparece Chabelo ha causado memes al respecto."
 image: "/uploads/2021/images-xavier-lopez-chabelo-cuartoscuro-1_135_0_948_590.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es el único que sigue vivo -  Foto de Chabelo de joven con otros famosos se hace viral"
 front: false
 section: "Espectáculos"
-news_id: 182986
+redirect_from: /news/182986
 ---
 
 Chabelo es una de las personalidades mexicanas más populares, y es que el hombre que sería encargado de conducir el memorable programa En familia con Chabelo es un ícono de la televisión en nuestro país; sin embargo, Xavier López también es blanco de burlas debido a sus 86 años, pues a través de memes, los internautas llevan años haciendo referencia a la edad del actor y conductor. Una fotografía que circula en redes sociales en la que aparece Chabelo con personalidades como 'Cantinflas', 'Tin Tan', 'El Santo' y 'Don Ramón', ha dado de qué hablar, pues de todas las grandes personalidades que aparecen en la imagen, Xavier López es el único que sigue con vida. 

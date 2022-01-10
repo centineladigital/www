@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Planes que lleven hacer de Chihuahua, la ciudad más competitiva"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Trabajan juntos Gobierno Municipal y el Fideicomiso del Centro Histórico para detonar el turismo local"
 front: false
 section: "Local"
-news_id: 188619
+redirect_from: /news/188619
 ---
 
 Con el objetivo de dignificar y densificar el primer cuadro de nuestra ciudad, el alcalde Marco Bonilla encabezó una reunión con integrantes del Fideicomiso del Centro histórico, en donde se habló de la planeación de fondos destinados a dignificar esta zona.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "17 personas fueron secuestradas el sábado por los 400 Mawozo "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Misioneros en Haití, en manos de banda brutal"
 front: false
 section: "Internacional"
-news_id: 188838
+redirect_from: /news/188838
 ---
 
 Puerto Príncipe.— El frágil gobierno de Haití enfrentaba ayer una nueva crisis tras el secuestro de 17 personas, en su mayoría misioneros estadounidenses y sus familiares, a manos de la banda armada 400 Mawozo, una de las más peligrosas de Haití.

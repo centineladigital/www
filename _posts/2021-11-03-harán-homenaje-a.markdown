@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jorge Muñiz, Carlos Cuevas y Rodrigo de la Cadena llegan a Guadalajara el 5 de noviembre con su espectáculo Nos hizo falta tiempo querido Manzanero. "
 image: "/uploads/2021/images-rodrigo-cadena-jorge-muniz-carlos_0_52_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Harán homenaje a Armando Manzanero en el Auditorio Telmex"
 front: false
 section: "Espectáculos"
-news_id: 189501
+redirect_from: /news/189501
 ---
 
 Nos hizo falta tiempo querido Manzanero es el nombre del homenaje musical que han preparado Jorge Muñiz, Carlos Cuevas y Rodrigo de la Cadena y que puede disfrutarse este 5 noviembre a las 21:00 horas en el Auditorio Telmex. 

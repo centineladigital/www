@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Así como el fomentar organismos municipales de seguridad."
 image: "/uploads/2021/images-LAURA1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM04_.mp3"
 alt: "Urge coordinación en materia federal -  Contreras"
 front: false
 section: "Local"
-news_id: 184527
+redirect_from: /news/184527
 ---
 
 Urgencia de que se dé una coordinación en los tres niveles gubernamentales es lo que la candidata del octavo distrito a la diputación federal, Laura Contreras, señaló que hace falta. Esto al ser cuestionada respecto a los hechos violentos en el estado, así como los cambios que registró la Fiscalía zona sur.

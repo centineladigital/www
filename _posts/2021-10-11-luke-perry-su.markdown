@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor saltó a la fama tras protagonizar 'Beverly Hills, 90210'; su último papel en televisión fue en la serie 'Riverdale' en donde le rindieron un emotivo tributo tras su trágica muerte. "
 image: "/uploads/2021/images-luke-perry-pelicula-despedida-riverdale_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Luke Perry -  su última película y el homenaje que recibió en 'Riverdale' tras su trágica muerte"
 front: false
 section: "Espectáculos"
-news_id: 188574
+redirect_from: /news/188574
 ---
 
 Luke Perry no sólo gozó del reconocimiento en Hollywood, también del enorme cariño de sus colegas, familia y la gente con la que llegó a coincidir a lo largo de su vida, prueba de ello son "las conmovedoras historias de generosidad y bondad" del actor que su familia recordó tras su trágica muerte. Fue uno de los rostros más conocidos de la década de 1990 gracias a su participación en Beverly Hills, 90210, pero su legado fue más allá de una exitosa serie juvenil. El actor nació un día como hoy, pero de 1966 en Mansfield, Ohio. Al terminar la escuela secundaria se trasladó a Los Ángeles en busca del sueño de convertirse en una estrella de cine. Trabajó pavimentando carreteras, mientras asistía a castings con la esperanza de que alguien llamara a su puerta; tuvo que realizar más de 200 pruebas, hasta que lo eligieron para un anuncio en televisión. 

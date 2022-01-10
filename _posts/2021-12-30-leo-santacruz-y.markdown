@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En una cartelera compartida ambos peleadores regresarán luego de una larga ausencia. "
 image: "/uploads/2021/images-leo-santacruz-keith-thurman-regresan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Leo Santacruz y Keith Thurman regresan al boxeo en función en Las Vegas"
 front: false
 section: "Deportes"
-news_id: 191333
+redirect_from: /news/191333
 ---
 
 Luego de 16 meses alejado del ring, el supercampeón mexicano Leo Santacruz está listo para volver a calzarse unos guantes. Hoy en conferencia de prensa anunció su regreso para el 5 de febrero en Las Vegas. 

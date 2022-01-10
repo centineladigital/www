@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Una joven aseguró que Kris Wu, ex integrante de la banda de K-pop EXO, la violó, desencadenando escándalo mediático en China. "
 image: "/uploads/2021/images-kris-wu-atencion-mediatica-china.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Joven acusa a Kris Wu, ex integrante de EXO, de violación; cantante desmiente declaración"
 front: false
 section: "Espectáculos"
-news_id: 185782
+redirect_from: /news/185782
 ---
 
 El cantante, actor y ex miembro de la popular boy band de K-pop EXO, Kris Wu, fue acusado de violación por una mujer; el ídolo chino e imagen publicitaria de múltiples marcas internacionales desmintió los hechos este lunes, y sus agentes anunciaron una denuncia contra la joven. 

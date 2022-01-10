@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Haremos un operativo eficaz para darle respuesta a los grupos delincuenciales que han desafiado a las corporaciones policiacas y a la sociedad chihuahuense con ese cobarde atentado, dijo el Gobernador."
 image: "/uploads/2021/images-CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_JAVIER_CORRAL.mp3"
 alt: "Contundente respuesta a ataques en madera"
 front: false
 section: "Local"
-news_id: 183744
+redirect_from: /news/183744
 ---
 
 “En torno al operativo de Madera vamos a responder con toda contundencia” fueron las palabras del Gobernador del Estado, Javier Corral Jurado, al dar a conocer que se llegó a un acuerdo entre fuerzas federales y estatales en el Grupo de Coordinación para la Construcción de la Paz, que se llevó a cabo este miércoles.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el programa 'De noche con Yordi', el conductor contó que sufrió una desagradable experiencia con una ex pareja. "
 image: "/uploads/2021/images-el-conductor-conto-esto-en.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No me prendió, pero me reí -  Yordi Rosado revela que lo vomitaron durante momento íntimo"
 front: false
 section: "Espectáculos"
-news_id: 188987
+redirect_from: /news/188987
 ---
 
 Yordi Rosado ha aprovechado sus programas en Unicable para contar un más sobre él. Primero, en Miembros al aire, reveló que tuvo que rogar por su vida ante un fan borracho en un bar de Culiacán. Y ahora, en De noche con Yordi, contó que durante un momento íntimo sufrió una experiencia desagradable: lo vomitaron. El ex integrante de Otro Rollo reveló esto en el programa más reciente de su late night show, donde estuvieron como invitados Verónica Flores, Michelle Vieth y Ernesto Laguardia.   

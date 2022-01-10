@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el arranque de la vacunación para personas de 25 a 39 años, les pide subsecretaria de Salud, Mirna Beltrán, informarse adecuadamente y entender que el biológico salva vidas"
 image: "/uploads/2021/images-_DSC8993.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llama Salud a las y los jóvenes a que acudan a vacunarse contra COVID-19 sin miedos"
 front: false
 section: "Local"
-news_id: 185881
+redirect_from: /news/185881
 ---
 
 La subsecretaria de Prevención y Promoción de la Secretaría de Salud, Mirna Beltrán Arzaga, llamó a toda la población y especialmente a las y los jóvenes, a que acudan a vacunarse contra el COVID-19, como la forma corresponsable de cuidarse y cuidar a los demás.

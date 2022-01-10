@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Pese a esto no se descarta que se tenga un incremento por un tiempo leve y vuelva a un retroceso en el precio."
 image: "/uploads/2021/images-ULISES1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML03_ULISES_GARCIA.mp3"
 alt: "Morena ha evitado gazolinazos -  García"
 front: false
 section: "Local"
-news_id: 183426
+redirect_from: /news/183426
 ---
 
 El gobierno a nivel federal ha cumplido con evitar que se registren gasolinazos, sin embargo, pese a esto no se descarta que se tenga un incremento por un tiempo leve y vuelva a un retroceso en el precio, señaló el Diputado Federal de Morena, Ulises García.

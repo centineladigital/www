@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En la capital el módulo estará este jueves en el Campus II de la UACH, de las 10:00 a las 13:00 horas; en Ciudad Juárez la inoculación será abierta a la población, del 10 al 12 de noviembre en el Gran Estadio de Beisbol   "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncian jornada extraordinaria de vacunación para personal rezagado del sector educativo   "
 front: false
 section: "Local"
-news_id: 189729
+redirect_from: /news/189729
 ---
 
 La Secretaría de Educación y Deporte (SEyD) informó que con apoyo de la Secretaría de Salud, el jueves 11 de noviembre se realizará en la ciudad de Chihuahua una jornada extraordinaria de vacunación contra COVID-19, para personal del sector educativo que quedó rezagado en la aplicación del biológico.

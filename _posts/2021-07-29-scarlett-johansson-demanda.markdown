@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Scarlett Johansson dijo en la demanda que su acuerdo con Marvel basaba su salario en gran parte en la actuación de taquilla de la película. "
 image: "/uploads/2021/images-scarlett-johansson-demandara-marvel-incumplimiento_196_0_800_498.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Scarlett Johansson demanda a Marvel por estreno de 'Black Widow' en Disney +"
 front: false
 section: "Espectáculos"
-news_id: 186109
+redirect_from: /news/186109
 ---
 
 Scarlett Johansson, protagonista de la última película de Marvel, Black Widow, presentó una demanda en la Corte Superior de Los Ángeles contra Disney, alegando que su contrato se rompió cuando el gigante de los medios lanzó la película en su plataforma de streaming, Disney +, al mismo tiempo que su debut en el cine.

@@ -14,11 +14,11 @@ author: nil
 description: "Desistieron a consecuencia del triunfo de la próxima gobernadora "
 image: "/uploads/2021/images-luis_fernando_mesta.jpg"
 video: "/uploads/2021/videos-BJ06_FERNANDO_MESTA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Desistieron a causa del triunfo de Maru "
 front: false
 section: "Local"
-news_id: 187387
+redirect_from: /news/187387
 ---
 
 Los testigos que se le habían presentado en el caso se desistieron a consecuencia del triunfo de la próxima gobernadora Maru Campos esto dijo el secretario Fernando Mesta sobre el tema del desistimiento del proceso en contra de la próxima gobernadora por parte de la fiscalía anticorrupción.

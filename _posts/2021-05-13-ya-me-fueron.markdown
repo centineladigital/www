@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente afirma que cualquier organización puede venir a México a observar lo que sucede; responde a denuncia de Adrián de la Garza ante la OEA por intromisión en elecciones"
 image: "/uploads/2021/images-2577921.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Ya me fueron a acusar a la OEA! -  López Obrador"
 front: false
 section: "Nacional"
-news_id: 184433
+redirect_from: /news/184433
 ---
 
 Luego de que el candidato del PRI-PRD a la gubernatura de Nuevo León, Adrián de la Garza, denunciara la intromisión del Ejecutivo federal en las elecciones, el presidente Andrés Manuel López Obrador dejó las puertas abiertas para que organizaciones visiten el país y “observen lo que está sucediendo”.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente López Obrador dijo que si están en territorio nacional le corresponde detenerlos a la autoridad mexicana, porque no se permite que ninguna fuerza extranjera actúe en esa materia"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asegura AMLO que hijos de “El Chapo” Guzmán son un objetivo prioritario de su gobierno"
 front: false
 section: "Nacional"
-news_id: 190910
+redirect_from: /news/190910
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que los hijos de Joaquín “El Chapo” Guzmán -presuntos narco traficantes- son un objetivo prioritario de su gobierno, pero dejó en claro que si están en territorio nacional le corresponde detenerlos a la autoridad mexicana, porque no se permite que ninguna fuerza extranjera actúe en esa materia.

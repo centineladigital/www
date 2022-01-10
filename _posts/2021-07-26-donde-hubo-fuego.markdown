@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La plataforma de streaming detalló que hoy iniciaron el rodaje de 'Donde hubo fuego', la cual estará disponible en Netflix en 2022."
 image: "/uploads/2021/images-donde-hubo-fuego-estara-disponible.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Donde hubo fuego'... Netflix incursiona en las telenovelas con Eduardo Capetillo e Itatí Cantoral"
 front: false
 section: "Espectáculos"
-news_id: 186003
+redirect_from: /news/186003
 ---
 
 Tras muchos años alejado de las pantallas, Eduardo Capetillo está de regreso en los sets de filmación como parte de la novela, Donde hubo fuego, que será producida por Netflix y en la que comparte crédito con Itatí Cantoral. En efecto, la plataforma de streaming detalló que incursiona en las telenovelas con el rodaje de Donde hubo fuego, la cual estará disponible en Netflix en 2022. 

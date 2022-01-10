@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Advierte también de tolvaneras en tramos carreteros y lluvias en varios municipios"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronostica Protección Civil intenso calor y viento para el estado  durante este jueves 24 de junio"
 front: false
 section: "Local"
-news_id: 185218
+redirect_from: /news/185218
 ---
 
 Para la tarde de este jueves 24 de junio, las temperaturas máximas esperadas son de 36°C para Chihuahua, en Juárez 38°C, Janos 34°C, Madera 27°C, Temósachic 29°C, Cuauhtémoc 31°C, Ojinaga 41°C, Delicias 38°C, Camargo 37°C, Jiménez 35, Parral 33°C y El Vergel 27°C, informó la Coordinación Estatal de Protección Civil (CEPC).

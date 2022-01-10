@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la nueva comedia del director Adam McKay, el dueto de astros del cine se unen a un impactante elenco para contarnos una historia demasiado real como para no voltear."
 image: "/uploads/2021/images-don-t-look-up-netflix-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Meryl Streep y Leonardo Di Caprio 'miran hacia arriba' con nueva película de Netflix"
 front: false
 section: "Espectáculos"
-news_id: 190968
+redirect_from: /news/190968
 ---
 
 Un cometa de aproximadamente cinco a siete kilómetros de diámetro viene a toda velocidad en trayecto directo hacia la Tierra; dos astrónomos, el Dr. Randall Mindy (DiCaprio) y su estudiante de doctorado Kate Dibiasky (Jennifer Lawrence), descubren que las horas del planeta están contadas a menos que alguien haga algo. La historia es una alegoría en tiempo real, como dijo su director y escritor, de la destrucción de nuestro planeta que parecemos estar ignorando tan fácilmente como un canal de televisión que no queremos ver. Sin embargo, a través de la comedia, y con la actuación de Meryl Streep como presidenta de Estados Unidos, una no muy consciente de nada por cierto, esta tragedia al más puro estilo de Armageddon se convierte por completo en otra cosa. Una, que no está tan lejana de nuestra realidad. M2 platicó con Streep y DiCaprio al respecto. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La estrella de Lifetime da gracias por la libertad y el apoyo para el desarrollo de la mujer en pantalla."
 image: "/uploads/2021/images-anos-carrera-siente-plena-labor_0_67_336_208.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hoy agradezco ser una actriz de raza negra -  Vivica Fox"
 front: false
 section: "Espectáculos"
-news_id: 184339
+redirect_from: /news/184339
 ---
 
 La actriz, productora, autora y directora Vivica A. Fox, quien también se ha distinguido por ser una importante emprendedora y empresaria, se encuentra cerca de continuar su trabajo en la exitosa franquicia cinematográfica The Wrong Franchise, colección que inició en 2016 con The Wrong Roommate, de la mano del director David DeCoteau. “Es un momento maravilloso para ser actriz en Hollywood. Hoy agradezco ser una mujer actriz de raza negra o afroamericana, porque al fin tenemos nuestras propias producciones. Contamos nuestras historias, filmándolas, contratando gente y financiando proyectos. He estado haciendo esto por más de tres décadas y ahora es increíble cuando entro a una junta y veo mujeres en asientos de poder, ya era hora”, expresó. 

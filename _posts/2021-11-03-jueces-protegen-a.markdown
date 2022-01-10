@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Extranjeros han obtenido diversas resoluciones judiciales para afrontar detenciones, falta de atención médica y estancia legal, entre otros temas"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jueces protegen a migrantes con amparos"
 front: false
 section: "Nacional"
-news_id: 189489
+redirect_from: /news/189489
 ---
 
 Entre enero de 2020 y hasta el 29 de octubre de 2021 los jueces y tribunales federales han emitido más de 100 resoluciones relacionadas con los amparos que han tramitado diversos migrantes que reclaman detenciones, condiciones de riesgo para su salud en las estaciones migratorias y falta de reconocimiento como refugiados, entre otras problemáticas.

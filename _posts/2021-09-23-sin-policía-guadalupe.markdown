@@ -10,11 +10,11 @@ author: nil
 description: "Elementos se fueron por agresiones del crimen organizado."
 image: "/uploads/2021/images-FAUSTO.jpg"
 video: "/uploads/2021/videos-MJ05_FAUSTO_GONZALEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Sin policía Guadalupe DB"
 front: false
 section: "Local"
-news_id: 187995
+redirect_from: /news/187995
 ---
 
 El municipio de Guadalupe Distrito Bravos no cuenta con cuerpo de policía, señaló el presidente municipal Fausto González Pérez. Esto ya que debido a represalias por parte del crimen organizado se ha quedado sin personal para la seguridad de los ciudadanos.

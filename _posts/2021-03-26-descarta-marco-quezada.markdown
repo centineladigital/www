@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El abanderado morenista dijo estar tranquilo y por el momento no solicitaría ningún elemento de seguridad."
 image: "/uploads/2021/images-MARCO_QUEZADA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV01_MARCO_QUEZADA.mp3"
 alt: "Descarta Marco Quezada contar con seguridad"
 front: false
 section: "Local"
-news_id: 183574
+redirect_from: /news/183574
 ---
 
 No contará con seguridad el candidato de MORENA a la Presidencia Municipal por Chihuahua, según lo dio a conocer el miso Marco Adán Quezada Martínez. Esto luego de ser cuestionado respecto a la solicitud que han presentado otros candidatos para ser custodiados.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En la reunión se instaló el Consejo Municipal de Protección Civil"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Listo plan municipal para proteger a la ciudadanía en la temporada invernal"
 front: false
 section: "Local"
-news_id: 189594
+redirect_from: /news/189594
 ---
 
 En el marco de los 100 días de trabajo y resultados, se instaló el Consejo Municipal de Protección Civil, el cual tiene el propósito de elaborar las medidas de prevención y protección en beneficio de la ciudadanía para la temporada invernal.

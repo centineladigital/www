@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La conductora pidió un alto a los ataques en redes contra Maite Perroni y defendió la relación amorosa de la integrante de RBD con el productor Andrés Tovar. "
 image: "/uploads/2021/images-martha-figueroa-defiende-maite-perroni_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Déjenla en paz -  Martha Figueroa defiende a Maite Perroni tras comparaciones con Karla Panini"
 front: false
 section: "Espectáculos"
-news_id: 189198
+redirect_from: /news/189198
 ---
 
 Maite Perroni está en el 'ojo del huracán' luego de que dio a conocer que mantiene una relación amorosa con Andrés Tovar, esto después de que una publicación asegurara que la actriz había sido la tercera en discordia en el matrimonio del productor y Claudia Martin, situación que ambos negaron. Al confirmar su noviazgo, la pareja fue criticada en redes sociales, por lo que la conductora Martha Figueroa pidió un alto a los ataques.  Y es que varios internautas arremetieron contra Tovar y Perroni, además de que aseguraron no creer en su versión en la que dicen que su romance surgió tras el divorcio del productor e, incluso, algunos llegaron a comparar su historia con la polémica que protagonizaron Karla Panini, Karla Luna y Américo Garza.  

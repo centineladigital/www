@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La asociación une a los municipios que se comprometen a trabajar a favor de los derechos de niñas, niños y adolescentes"
 image: "/uploads/2021/images-unnamed_(20).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asume Alcalde, vicepresidencia de la Red Mexicana de Ciudades Amigas de la Niñez  "
 front: false
 section: "Local"
-news_id: 190219
+redirect_from: /news/190219
 ---
 
 Como parte del compromiso de gobierno con perspectiva de familia, el presidente municipal Marco Bonilla Mendoza, asumió la vicepresidencia de la Red Mexicana de Ciudades Amigas de la Niñez, con el fin de unificar los esfuerzos que hacen las ciudades, para fomentar el desarrollo de la infancia en entornos sanos.

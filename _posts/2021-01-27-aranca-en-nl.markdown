@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los viajeros tendrán que considerar ahora 30 minutos adicionales previos a los demás trámites de abordaje; emen que este nuevo requisito para viajar a EU retrase la salida de los vuelos"
 image: "/uploads/2021/images-2519150.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aranca en NL filtro Covid para volar a EU; pasajeros temen retrasos en vuelos"
 front: false
 section: "Nacional"
-news_id: 182471
+redirect_from: /news/182471
 ---
 
 Ayer entró en vigor el filtro sanitario para los viajeros con destino a Estados Unidos, quienes deberán contar con una prueba negativa PCR a Covid-19, por lo que algunos, quienes desconocían la determinación, tuvieron aplicarsela a fin de que se les permitiera abordar al avión.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Del 27 al 30 de octubre en Chihuahua y Delicias; asimismo en Julimes será en el mes de noviembre del 3 al 5 y los días 8 y 9"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Instala Secretaría de Salud Estatal módulos para realizar pruebas gratuitas de antígeno COVID-19"
 front: false
 section: "Local"
-news_id: 189254
+redirect_from: /news/189254
 ---
 
 La Secretaría de Salud del Estado, informa que del 27 al 30 de octubre, y en noviembre del 3 al 5, así como los días 8 y 9, se aplicarán de manera gratuita, pruebas de antígeno para la detección de COVID-19 en diferentes puntos de las ciudades de Chihuahua, Delicias y Julimes.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "'Jungle Cruise' está inspirada en una de las mayores atracciones en DIsneylandia, y llegará muy pronto a la pantalla grande. "
 image: "/uploads/2021/images-emily-blunt-the-rock-protagonizan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emily Blunt y 'The Rock' protagonizan el tráiler de 'Jungle Cruise', la nueva película de Disney"
 front: false
 section: "Espectáculos"
-news_id: 184700
+redirect_from: /news/184700
 ---
 
 La mañana de este jueves, Disney Studios sorprendió con el lanzamiento de tráiler y póster oficiales de Jungle Cruise, una película inspirada en la gran atracción turística que se encuentra dentro de Disneylandia. La actriz Emily Blunt y el popular Dwayne Johnson, mejor conocido como The Rock, protagonizan la película, así como las primeras imágenes del largometraje. 

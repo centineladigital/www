@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Logró una sentencia de 16 años, 8 meses de prisión "
 image: "/uploads/2021/images-FISCALIA_ZONA_CENTRO.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sentencian a agresor sexual de un menor"
 front: false
 section: "Local"
-news_id: 186341
+redirect_from: /news/186341
 ---
 
 Como resultado de un minucioso trabajo de investigación, la Fiscalía de Distrito Zona Centro, logró una sentencia de 16 años, 8 meses de prisión en contra de un hombre que violó a un niño de tres años de edad.

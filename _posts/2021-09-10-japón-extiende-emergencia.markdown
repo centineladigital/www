@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El primer ministro japonés señaló que aunque los contagios estén bajando, las instancias médicas siguen presionadas"
 image: "/uploads/2021/images-gobierno-preve-atenuar-restricciones-noviembre.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Japón extiende emergencia por covid-19 hasta finales de septiembre"
 front: false
 section: "Internacional"
-news_id: 187606
+redirect_from: /news/187606
 ---
 
 Este jueves Japón anunció la extensión del estado de emergencia en Tokio hasta fines de septiembre, ya que los sistemas de atención de la salud continúan bajo intensa presión a pesar de que los contagios de coronavirus han disminuido ligeramente. 

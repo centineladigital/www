@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Campaña concluirá el 25 de junio, exhortan a continuar aplicando vacunas."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML03_WENDY_AVILA.mp3"
 alt: "Reciben 2 mil menores vacunas"
 front: false
 section: "Local"
-news_id: 184633
+redirect_from: /news/184633
 ---
 
 Alrededor de dos mil menores se vacunaron este fin de semana contra sarampión y rubiola, según fue dado a conocer por parte de la Subdirectora de Medicina Preventiva y Promoción de la Salud, Wendy Avila Coronado. 

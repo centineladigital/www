@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El incremento del universo de sujetos obligados fue de 46 mil 163, lo que resultó en un total de 483 mil 703 servidores públicos: Salim Arturo Orcí Magaña, titular del Órgano Interno de Control."
 image: "/uploads/2021/images-Foto_444-4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconocen al IMSS por lograr 99.90 por ciento en cumplimiento de declaración patrimonial y de intereses 2021"
 front: false
 section: "Local"
-news_id: 188404
+redirect_from: /news/188404
 ---
 
 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "De acuerdo con el ministerio, la causa de la explosión fue un fallo no especificado durante el proceso de producción. "
 image: "/uploads/2021/images-explosion-planta-polvora-deja-muertos_0_1_1000_622.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Rusia, explosión en planta de pólvora deja al menos 16 personas muertas"
 front: false
 section: "Internacional"
-news_id: 189062
+redirect_from: /news/189062
 ---
 
 Autoridades de Rusia informaron que en una fábrica de pólvora se originó una explosión y un incendio, dejando al menos 16 personas muertas. De acuerdo con el ministerio, la causa de la explosión fue un fallo no especificado durante el proceso de producción. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El guitarrista de la banda invitó a sus seguidores a participar en el casting del musical 'We Will Rock You'. "
 image: "/uploads/2021/images-brian-may-pide-respeten-cuarentena_0_14_958_596.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brian May convoca a casting en TikTok para musical de Queen; así puedes participar"
 front: false
 section: "Espectáculos"
-news_id: 184577
+redirect_from: /news/184577
 ---
 
 Brian May, guitarrista de la banda británica de rock Queen, convocó a través de su cuenta en TikTok a un casting a nivel mundial para encontrar al elenco de la versión española del musical We Will Rock You, que llegará a Madrid el 8 de octubre en el Gran Teatro Caixabank Príncipe Pío. "Si eres un gran artista, un gran cantante, muéstranoslo, muestra tu talento en un video en TikTok con el hashtag #WeWillRockYouSpain. Te estaremos esperando", señala May en el vídeo colgado en su cuenta de esta plataforma. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante las próximas horas se estiman acumulados entre 25 a 30 mm para municipios serranos desde Moris hasta Guadalupe y Calvo"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Protección Civil Estatal actualización de pronóstico por Huracán Pamela y Frente Frío número 4   "
 front: false
 section: "Local"
-news_id: 188636
+redirect_from: /news/188636
 ---
 
 El Gobierno del Estado, a través de la Coordinación Estatal de Protección Civil (CEPC), con base en el pronóstico del Servicio Meteorológico Nacional y La Junta Central de Agua y Saneamiento del Estado, dio a conocer sobre el ingreso del Frente Frío número 4 a la entidad este martes por la noche, así como la presencia la tormenta tropical “Pamela”  que se localiza a 660 kilómetros al sur-suroeste de las costas de Sinaloa, además se prevé este ciclón tropical se fortalezca a huracán categoría 1 en el transcurso de esta noche.

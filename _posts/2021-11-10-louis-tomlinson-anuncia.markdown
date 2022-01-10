@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ocesa y Pepsi Center WTC dieron a conocer la nueva fecha de Louis Tomlinson, así como el reagendado de dos anteriores. Además, ya hay detalles sobre fechas en Monterrey y Guadalajara. "
 image: "/uploads/2021/images-estas-son-las-fechas-de.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Louis Tomlinson anuncia una fecha más en CdMx; estará en Guadalajara y Monterrey"
 front: false
 section: "Espectáculos"
-news_id: 189740
+redirect_from: /news/189740
 ---
 
 El ex One Direction Louis Tomlinson anunció la tercera fecha de su gira mundial que tendrá por 2022. Anteriormente, el británico anunció dos sold out para sus conciertos en el Pepsi Center WTC, por lo que abrió una nueva fecha; asimismo, reagendó las dos anteriores, por lo que tendrás que estar muy atento de cuáles son los nuevos días. 

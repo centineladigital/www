@@ -14,11 +14,11 @@ author: nil
 description: "Prefiere estar colaborando en su distrito  "
 image: "/uploads/2021/images-olson.jpg"
 video: "/uploads/2021/videos-BW02_CARLOS_OLSON.mp4"
-audio: "nil"
+audio: nil
 alt: "No piensa adquirir la presidencia de ninguna comisión "
 front: false
 section: "Local"
-news_id: 187770
+redirect_from: /news/187770
 ---
 
 El diputado  Carlos Olson afirmó que no piensa adquirir la presidencia del comité presupuestal ya que prefiere estar más enfocado en apoyar al pueblo pues es prioridad para él, Olson comentó que no quiere perder el contacto con las personas.

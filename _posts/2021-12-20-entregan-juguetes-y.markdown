@@ -10,11 +10,11 @@ author: nil
 description: "Alumnos entregan despensas, ropa y juguetes."
 image: "/uploads/2021/images-LUIS.jpg"
 video: "/uploads/2021/videos-ML03_LUIS_RIVERA.mp4"
-audio: "nil"
+audio: nil
 alt: "Entregan juguetes y despensas alumnos de derecho"
 front: false
 section: "Local"
-news_id: 191041
+redirect_from: /news/191041
 ---
 
 Alumnos de la Facultad de Derecho hicieron entrega de juguetes, cobijas y despensas a una comunidad indígena, esto como parte de las acciones que los mismos jóvenes llevan a cabo. Según lo expresó el director de esta facultad Luis Alfonso Rivera Campos.

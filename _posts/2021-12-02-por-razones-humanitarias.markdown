@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El gobierno de México aceptó reimplementar el programa “Quédate en México”, por el que los solicitantes de asilo en Estados Unidos deben esperar en suelo mexicano a su audiencia en el vecino país, por “razones humanitarias y de manera temporal"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " “Por razones humanitarias”, México acepta reimplementar “Quédate en México”"
 front: false
 section: "Nacional"
-news_id: 190420
+redirect_from: /news/190420
 ---
 
 El gobierno de México aceptó reimplementar el programa “Quédate en México”, por el que los solicitantes de asilo en Estados Unidos deben esperar en suelo mexicano a su audiencia en el vecino país, por “razones humanitarias y de manera temporal”.

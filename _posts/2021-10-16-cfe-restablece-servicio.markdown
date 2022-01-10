@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La empresa estatal informó que los 222 mil 94 usuarios afectados en Nayarit, Sinaloa, Durango y Coahuila representan el 7 por ciento de los consumidores en la región. "
 image: "/uploads/2021/images-restablecimiento-servicio-llega-labores-tomada_0_589_576_358.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "CFE restablece servicio eléctrico en estados afectados por el huracán 'Pamela'"
 front: false
 section: "Nacional"
-news_id: 188811
+redirect_from: /news/188811
 ---
 
 La Comisión Federal de Electricidad (CFE) informó que ha logrado restaurar en su totalidad el suministro de electricidad a los 222 mil 94 usuarios de los estados de Nayarit, Sinaloa, Durango y Coahuila que sufrieron afectaciones por el paso del huracán Pamela. 

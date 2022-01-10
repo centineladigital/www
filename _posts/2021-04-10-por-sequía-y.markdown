@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "La falta de agua en las presas restringió el riego a menos de un tercio de la superficie agrícola del distrito, lo que se traducirá en menor producción de alfalfa y otras pasturas"
 image: "/uploads/2021/images-vaquitas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por sequía y falta agua desaparecerán establos lecheros"
 front: false
 section: "Local"
-news_id: 183799
+redirect_from: /news/183799
 ---
 
 La sequía y la escasez de forrajes para alimentar al ganado provocarán la desaparición de algunos establos lecheros de pequeños productores del sector social, mientras que las explotaciones más grandes tendrán que vender parte de sus vacas, vaticinó José Carreón Ramos, conocido empresario del sector.

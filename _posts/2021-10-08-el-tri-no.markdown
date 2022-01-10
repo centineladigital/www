@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La selección mexicana jugó una buen segundo tiempo, pero no fue certero y el duelo terminó con el empate a un tanto "
 image: "/uploads/2021/images-raul-jimenez-imago-12_0_37_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El Tri no estuvo certero y empató frente a Canadá"
 front: false
 section: "Deportes"
-news_id: 188508
+redirect_from: /news/188508
 ---
 
 No fue una buena noche para la Selección Mexicana que dirige Gerardo Martino. Trastabilló en su segundo partido en el Azteca dentro de la eliminatoria mundialista, en el que terminó por ceder el empate (1-1) con Canadá, lo que le quitó el liderato de este Octagonal; además, el grito homofóbico se hizo presente en el regreso del público, deteniendo el partido en una ocasión. 

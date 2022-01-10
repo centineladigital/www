@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Maru Campos Galván tiene 45 años y todavía no se ha vacunado, según confirmó su equipo de trabajo a MILENIO"
 image: "/uploads/2021/images-maru-campos-171511.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Maru Campos, gobernadora electa de Chihuahua, ingresa al hospital por covid-19"
 front: false
 section: "Local"
-news_id: 186174
+redirect_from: /news/186174
 ---
 
 La gobernadora electa de Chihuahua, Maru Campos, ingresó al hospital para recibir atención médica después de haberse contagiado de covid-19, informó a través de Facebook. 

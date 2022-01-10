@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La representante de ONU Mujeres México, señala que en el balompié debe haber igualdad de percepciones entre mujeres y hombres "
 image: "/uploads/2021/images-belen-sanz_69_25_1065_664.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“La brecha salarial debe reducirse en el futbol” -  Belén Sanz"
 front: false
 section: "Deportes"
-news_id: 189116
+redirect_from: /news/189116
 ---
 
 El futbol femenil en México ha crecido, eso es innegable, pero hay algunas cuestiones en las que aún hay mucho por trabajar, una de las que se ha hablado en muchas ocasiones es la diferencia que existe en los sueldos, pues no es un secreto que mientras un futbolista varón percibe grandes salarios, la gran mayoría de jugadoras de la Liga Mx Femenil tienen percepciones muy inferiores. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un trabajo nominado en la categoría de Mejor Largometraje Documental en los Premios Oscar, que tendrán lugar el próximo domingo. "
 image: "/uploads/2021/images-un-trabajo-que-su-director.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Mi maestro el pulpo', la historia detrás del emotivo documental que va por un Oscar"
 front: false
 section: "Espectáculos"
-news_id: 184025
+redirect_from: /news/184025
 ---
 
 Mi maestro el pulpo es uno de los trabajos más emotivos en la competencia por levantar un Oscar en la ceremonia del próximo 25 de abril, pues este aspirante a Mejor Documental muestra cómo algunos animales pueden vincularse fácilmente con los humanos. Esta producción, que se realizó durante 10 años, comenzó como un proyecto personal de video del cineasta sudafricano Craig Foster para reavivar su conexión con la naturaleza al observar a una curiosa hembra de molusco mientras buceaba cerca de Ciudad del Cabo. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La mini serie retrata los hallazgos que crearon la historia de la humanidad. "
 image: "/uploads/2021/images-la-cabeza-olmeca-es-una.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "History. Los grandes tesoros encontrados en el mundo"
 front: false
 section: "Espectáculos"
-news_id: 185825
+redirect_from: /news/185825
 ---
 
 Piezas fundamentales que fueron encontradas alrededor del mundo cambiaron la perspectiva de la historia de los seres humanos es solo una parte de lo que se podrá ver en el programa Tesoros ocultos de la antigüedad, en el que la historiadora y autora británica Janina Ramirez será la encargada de sumergir al espectador en el tiempo. 

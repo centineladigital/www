@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El objetivo es mantener bien comunicadas estas zonas"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza Gobierno Municipal rehabilitación permanente de caminos de terracería en la zona rural"
 front: false
 section: "Local"
-news_id: 188678
+redirect_from: /news/188678
 ---
 
 El Gobierno Municipal a través de la Dirección de Desarrollo Rural, realiza obras de rehabilitación permanente en los caminos de terracería de las comunidades rurales ubicadas en los seccionales de: El Sauz, El Charco, Col. Soto, Ciénega de Ortiz, Guadalupe y la denominada Zona Centro.

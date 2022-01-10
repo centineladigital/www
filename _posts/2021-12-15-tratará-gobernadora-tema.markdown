@@ -10,11 +10,11 @@ author: nil
 description: "Así como los temas relacionados con becas para apoyo a personas discapacitadas."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MW03_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Tratará Gobernadora tema de seguridad en CONAGO"
 front: false
 section: "Local"
-news_id: 190894
+redirect_from: /news/190894
 ---
 
 Temas como seguridad es lo que tratará la Gobernadora de Chihuahua ante la Conferencia Nacional de Gobernadores, según lo dio a conocer la misma cabeza de la administración estatal María Eugenia Campos Galván.

@@ -10,11 +10,11 @@ author: nil
 description: "Ciudad Juárez municipios que registran alza, pese a eso no supera cifras de años anteriores."
 image: "/uploads/2021/images-ROBERTO.jpg"
 video: "/uploads/2021/videos-MJ05_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Continúa disminución de homicidios en Chihuahua"
 front: false
 section: "Local"
-news_id: 190212
+redirect_from: /news/190212
 ---
 
 En un 25 por ciento continua la disminución de homicidios, lo cual en comparativo con años anteriores se tiene una leve disminución, señaló el Fiscal General de Chihuahua Roberto Fierro Duarte. Quien dijo que hasta el 24 de noviembre se tenía 129 casos de crímenes de este tipo.

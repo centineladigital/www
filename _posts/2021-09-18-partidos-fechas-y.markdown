@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Conoce cuándo y a qué hora son los partidos de la fecha 9 del torneo Grita México Apertura 2021 de la Liga MX "
 image: "/uploads/2021/images-programacion-jornada-liga-mx-apertura.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Partidos, fechas y horarios de la jornada 9 en la Liga MX"
 front: false
 section: "Deportes"
-news_id: 187851
+redirect_from: /news/187851
 ---
 
 Estamos llegando a la mitad del torneo Grita México Apertura 2021 de la Liga MX y este jueves 16 de septiembre arranca la jornada 9 en el Estadio Alfonso Lastras con el partido Atlético de San Luis vs Xolos, en el que los visitantes buscarán salir de los últimos lugares. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La mexicana disputaba la ronda eliminatoria de trampolín de tres metros cuando se quedó sin espacio y perdió toda oportunidad   "
 image: "/uploads/2021/images-arantxa-chavez-mexsport_40_0_944_587.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El clavado de cero que dejó fuera a la mexicana Arantxa Chávez de Tokio 2020"
 front: false
 section: "Deportes"
-news_id: 186120
+redirect_from: /news/186120
 ---
 
 La actividad para México sigue dentro de los clavados, pues una vez terminadas las finales en parejas donde nuestra delegación se colgó el bronce con Alejandra Orozco y Gabriela Agúndez, fue el turno para Aranza Vázquez y Arantxa Chávez de empezar el camino en el plano individual con su participación en trampolín de tres metros femenino.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Mujeres embarazadas no podrán regresar a zonas covid."
 image: "/uploads/2021/images-EDUARDO_FERNANDEZ.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02_EDUARDO_FERNANDEZ.mp3"
 alt: "Regresan a trabajar grupos de riesgo"
 front: false
 section: "Local"
-news_id: 182223
+redirect_from: /news/182223
 ---
 
 Grupos de riesgo como embarazadas, personas mayores de 60 años y otro tipo de grupos podrán regresar a trabajar, según lo dio a conocer el titular de la Secretaría de Salud, Fernando Fernández Herrera.

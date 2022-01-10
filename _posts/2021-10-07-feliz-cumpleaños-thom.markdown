@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante sus primeros años de vida, el pequeño Thom fue sometido a varias cirugías quedando con ambliopía, una disminución de la agudeza vidual sin que exista ninguna lesión orgánica que la justifique. "
 image: "/uploads/2021/images-thom-yorke-cumple-anos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Feliz cumpleaños! Thom Yorke cumple 53 años; te contamos qué le pasó en su ojo al vocalista de Radiohead"
 front: false
 section: "Espectáculos"
-news_id: 188501
+redirect_from: /news/188501
 ---
 
 Fue un 7 de octubre de 1968 cuando un niño llamado Thomas Edward Yorke nació en Wellingborough, Inglaterra. Pero algo especial existía en ese pequeño. 

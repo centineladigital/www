@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con acciones concretas, reafirma el Instituto Chihuahuense de la Juventud, su compromiso para transversalizar la perspectiva de género en las políticas públicas de las juventudes; toma protesta Johany Reyes Madrid"
 image: "/uploads/2021/images-Captura_de_pantalla_2021-01-25_a_la(s)_22.18.57.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reinstala Ichijuv Unidad de Igualdad de Género e implementa  Manual de Lenguaje Incluyente y No Sexista"
 front: false
 section: "Local"
-news_id: 182445
+redirect_from: /news/182445
 ---
 
 Con el fin de lograr que las políticas públicas en materia de juventudes, cuenten con perspectiva de género, el Instituto Chihuahuense de la Juventud (Ichijuv) llevó a cabo la reinstalación de la Unidad de Igualdad de Género.

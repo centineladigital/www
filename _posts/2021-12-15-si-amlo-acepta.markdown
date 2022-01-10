@@ -14,11 +14,11 @@ author: nil
 description: "Es fundamental que, como cualquier ciudadano acusado de delitos, sea presentado ante el tribunal local y procesado conforme a Derecho para determinar su situación legal"
 image: "/uploads/2021/images-descarga.jpg"
 video: "/uploads/2021/videos-BW05_COPARMEX_.mp4"
-audio: "nil"
+audio: nil
 alt: "Si AMLO acepta a Duarte como testigo protegido será una ofensa"
 front: false
 section: "Local"
-news_id: 190907
+redirect_from: /news/190907
 ---
 
 La Confederación Patronal de la República Mexicana (COPARMEX), en Chihuahua, considera una gran ofensa para el pueblo chihuahuense la posibilidad de que el ex  mandatario estatal, César Duarte Jáquez, sea considerado “testigo protegido” del Gobierno de la República, toda vez de que se presume podría haber cometido agravios contundentes en contra de las arcas estatales.

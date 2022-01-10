@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las cifras son más bajas que las de muchos países, pero la campaña de vacunación comenzó con mucho retraso y existe el temor de que los nuevos casos superen la capacidad de los hospitales"
 image: "/uploads/2021/images-contagios-covid-rusia-aumentaron-ciento_0_52_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tokio supera los 3 mil casos de covid-19 tras inicio de Juegos Olímpicos"
 front: false
 section: "Internacional"
-news_id: 186047
+redirect_from: /news/186047
 ---
 
 Tokio registró tres mil 177 nuevos casos de covid-19, siendo la primera vez que supera esta cifra desde el inicio de los Juegos Olímpicos; sin embargo, expertos advierten que el nuevo brote es impulsado por la agresiva variante Delta del virus y no hay indicios de que los participantes de la justa deportiva hayan transmitido el mal a la población. 

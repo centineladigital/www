@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El argentino se perderá el duelo de la Copa del Rey y de LaLiga de esta semana, luego de la expulsión que sufrió en la Supercopa de España. El Barcelona recurre la sanción"
 image: "/uploads/2021/images-2514300.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Messi es sancionado con dos partidos"
 front: false
 section: "Deportes"
-news_id: 182244
+redirect_from: /news/182244
 ---
 
 El jugador y capitán del Barcelona, Lionel Messi, recibió una sanción de dos partidos por su expulsión en la final de la Supercopa de España ante el Athletic Club y se perdería el estreno blaugrana en la Copa del Rey y el siguiente partido en LaLiga, sanción recurrida por parte del club blaugrana.

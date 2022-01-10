@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Este proyecto requirió cerca de 15 millones y medio de pesos."
 image: "/uploads/2021/images-FERNANDO1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ03.mp3"
 alt: "Entregan proyecto de modernización catastral"
 front: false
 section: "Local"
-news_id: 185228
+redirect_from: /news/185228
 ---
 
 Este jueves fue entregado el Proyecto Ejecutivo de Modernización Catastral, donde de forma bipartita se beneficiaron 35 municipios con la cartografía de las localidades, con lo que se completa la actualización de los 67 municipios.

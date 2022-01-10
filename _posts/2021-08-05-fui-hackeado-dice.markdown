@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El magistrado sostuvo que se trataba de una campaña orquestado de cuentas afines a Morena, que denunció ante la FGR: “mi profundo respeto a su persona e investidura”, dijo. "
 image: "/uploads/2021/images-reyes-rodriguez-mondragon-nombrado-presidente_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Fui hackeado”, dice presidente sustituto del TEPJF sobre tuit insultando a AMLO"
 front: false
 section: "Nacional"
-news_id: 186314
+redirect_from: /news/186314
 ---
 
 El magistrado Reyes Rodríguez Mondragón, quien ayer fue nombrado como nuevo presidente del Tribunal Electoral del Poder Judicial de la Federación (TEPJF), manifestó su “profundo respeto” al presidente Andrés Manuel López Obrador y a su investidura, y recordó que el tuit en el que ofendía al mandatario fue producto de un hackeo, que denunció formalmente en octubre del año pasado. 

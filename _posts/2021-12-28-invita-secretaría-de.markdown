@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Permite a las compañías artísticas disponer de los recintos teatrales de Gobierno del Estado y de los municipios"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Secretaría de Cultura a participar en la convocatoria Red de Teatros 2022"
 front: false
 section: "Local"
-news_id: 191279
+redirect_from: /news/191279
 ---
 
 La Secretaría de Cultura de Chihuahua, invita a la comunidad artística a participar en la convocatoria Red de Teatros 2022, que permite a las distintas compañías disponer de los distintos recintos a cargo del Gobierno del Estado y de los ayuntamientos.

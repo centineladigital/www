@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tom Holland y Andrew Garfield aparecieron juntos en un evento y los fans de Spiderman desataron de nuevo los rumores de un spiderverse. "
 image: "/uploads/2021/images-los-actores-estuvieron-en-un.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-los-actores-estuvieron-en-un.jpg"
 alt: "Tom Holland y Andrew Garfield aparecen juntos en evento y desatan de nuevo rumores del spiderverse"
 front: false
 section: "Espectáculos"
-news_id: 190000
+redirect_from: /news/190000
 ---
 
 Hace unos días se reveló el segundo tráiler de Spiderman: No Way Home, en el que se revelaron nuevos detalles de lo que veremos en la nueva película protagonizada por Tom Holland, sin embargo, muchos fans del arácnido esperan ver a Tobey Maguire y a Andrew Garfield junto a Holland en este filme, ya que reuniría a los tres actores que han dado vida a Peter Parker. A través de redes sociales y en TikTok los fans han compartido sus teorías sobre lo que pasará en la tercera entrega de Spiderman y las posibles pistas del spiderverse, algo que sin duda emociona a muchos. 

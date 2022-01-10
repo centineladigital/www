@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Es necesario trabajar en la forma en la que se manejan los residuos."
 image: "/uploads/2021/images-RIGGS.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM04_MIGUEL_RIGGS.mp3"
 alt: "Necesario trabajar en relleno sanitario"
 front: false
 section: "Local"
-news_id: 183861
+redirect_from: /news/183861
 ---
 
 Es necesario trabajar en la forma en la que se manejan los residuos, fueron las palabras del candidato a la Alcaldía de Chihuahua por Movimiento Ciudadano y Diputado Federal Miguel Riggs Baeza. Esto al señalar que dentro de los recorridos que ha hecho en la zona se puede percatar la presencia de bolsas de plástico.

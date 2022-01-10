@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La nueva polémica que envuelve al hijo de Sergio Mayer y Bárbara Mori recién salió a flote y todo por ser demasiado sincero. ¿Qué dijo? Te contamos la forma en la que opinó de Rebelde (RBD). "
 image: "/uploads/2021/images-odia-sergio-mayer-mori-fuerte.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Netflix lo va a despedir? Sergio Mayer Mori hace fuerte confesión de odio sobre 'RBD'"
 front: false
 section: "Espectáculos"
-news_id: 184620
+redirect_from: /news/184620
 ---
 
 Sergio Mayer Mori, actor e hijo de Sergio Mayer y Bárbara Mori, causó polémica entre los fieles seguidores del grupo Rebelde (RBD) de Televisa. ¿Qué hizo el joven? El famoso prendió las redes sociales, luego de que externara que en realidad siempre odió a la agrupación musical y que en realidad no le gusta cantar las canciones en el nuevo proyecto remake de Netflix. ¿No es feliz con su empleo? ¿Por qué no le agrada RBD? La nueva polémica que envuelve al hijo de Sergio Mayer y Bárbara Mori recién salió a flote y todo por ser demasiado sincero. ¿Qué dijo? Este conflicto sale recién a tan sólo unos días que se rumorara que el joven actor había sido despedido de la plataforma de streaming Netflix por presuntamente tener una actitud poco favorable. 

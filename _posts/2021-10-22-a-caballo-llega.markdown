@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Acompañado de jinetes y ganaderos de diversos estados, inició la fiesta tradicional de Chihuahua"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "A caballo llega Alcalde a inaugurar el festival ganadero más grande del país, ExpoGan 2021"
 front: false
 section: "Local"
-news_id: 189073
+redirect_from: /news/189073
 ---
 
 Montando a caballo, el alcalde Marco Bonilla Mendoza, cruzó a través de caminos empedrados al frente de jinetes provenientes de diversos estados del país, hasta llegar a las instalaciones del ExpoGan Chihuahua, en donde presidió el corte de listón para inaugurar formalmente la fiesta ganadera del estado grande.

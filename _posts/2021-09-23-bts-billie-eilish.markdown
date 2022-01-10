@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Este 25 de septiembre se llevará a cabo el Global Citizen Live, un evento que busca recaudar fondos para combatir la pobreza. Te contamos quiénes se presentarán "
 image: "/uploads/2021/images-artistas-invitados-presentaran-escenarios-mundo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡BTS, Billie Eilish, Elton John y más! Ellos son los artistas que estarán en el Global Citizen Live"
 front: false
 section: "Local"
-news_id: 188008
+redirect_from: /news/188008
 ---
 
 Este 25 de septiembre se realizará un evento que durante 24 horas será transmitido y en el que participarán muchos artistas como Billie Eilish desde Nueva York, Elton John desde París, Demi Lovato en Los Ángeles y muchos más. 

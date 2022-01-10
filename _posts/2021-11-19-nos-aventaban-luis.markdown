@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue en entrevista con Tenoch Huerta para su canal ‘Versión Extendida’ en donde Luis Fernando Peña narró que vivió racismo y clasismo cuando grababa la película ‘Amarte Duele’. "
 image: "/uploads/2021/images-luis-fernando-pena-revela-vivio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nos aventaban -  Luis Fernando Peña sufrió racismo en grabación de 'Amarte Duele'; lo corrieron de Santa Fe"
 front: false
 section: "Espectáculos"
-news_id: 189998
+redirect_from: /news/189998
 ---
 
 Luis Fernando Peña, actor mexicano y protagonista de la película ‘Amarte Duele’, dio a conocer un episodio de clasismo y racismo que vivió junto a Armando Hernández –quien era su amigo en la película– durante la filmación de ésta. Los dos actores fueron corridos de una tienda de ropa deportiva en Santa Fe porque “no iban vestidos adecuadamente”. Además de que los veían feo y hasta los empujaban. Te contamos la fuerte revelación que hizo Luis Fernando Peña. Fue en entrevista con Tenoch Huerta para su canal ‘Versión Extendida’ en donde Luis Fernando Peña narró que vivió racismo y clasismo cuando grababa la película ‘Amarte Duele’. Esto paradójicamente cuando en la historia del filme narraban la discriminación por diferencia socioeconómica entre dos personas que se amaban. 

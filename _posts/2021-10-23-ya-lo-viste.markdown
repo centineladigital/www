@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El pez fue hallado tras quedar atrapado en la red de un barco de pesca de atún, pero después un breve análisis, fue liberado y devuelto al mar. "
 image: "/uploads/2021/images-pez-luna-pesa-mil-kilos_0_1_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Ya lo viste? Hallan pez luna gigante en isla española de Ceuta; pesa más de mil kilos"
 front: false
 section: "Internacional"
-news_id: 189120
+redirect_from: /news/189120
 ---
 
 Un pez luna gigante, de aproximadamente mil 995 kilos y más de tres metros de largo, fue hallado en la costa de la isla española de Ceuta, ubicada en el norte de África que limita con Marruecos, cuando estaba atrapado en la red de un barco de pesca de atún. 

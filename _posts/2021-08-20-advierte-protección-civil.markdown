@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Pide a la población extremar precauciones a partir de las 19:00 horas"
 image: "/uploads/2021/images-Lluvia.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte Protección Civil posible tormenta por la tarde de hoy en la capital"
 front: false
 section: "Local"
-news_id: 186940
+redirect_from: /news/186940
 ---
 
 El Gobierno del Estado de Chihuahua a través de la Coordinación Estatal de Protección Civil (CEPC) pide a la ciudadanía extremar precauciones frente a la probabilidad de tormentas dispersas que se pronostican este viernes 20 de agosto en la capital, con mayor intensidad entre las 19:00 y 21:00 horas.

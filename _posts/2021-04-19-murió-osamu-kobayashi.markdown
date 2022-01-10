@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El mensaje sobre el deceso se dio con un emotivo mensaje, pues ocuparon la primera persona para informar sobre la muerte del diseñador. "
 image: "/uploads/2021/images-muere-osamu-kobayashi-director-anime.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Osamu Kobayashi, director de anime y de 'Naruto'; tenía cáncer"
 front: false
 section: "Espectáculos"
-news_id: 183963
+redirect_from: /news/183963
 ---
 
 Osamu Kobayashi, animador e ilustrador reconocido por ser director de Naruto, falleció a los 57 años, tras luchar por varios años contra el cáncer de riñón, así lo dieron a conocer en su cuenta de Twitter. El diseñador era reconocido por su trabajo en el anime, razón por la que su muerte ha sacudido a la comunidad. Te contamos lo que sabemos. Fue a través de su cuenta de Twitter, en donde la noticia de su muerte se dio a conocer. El mensaje sobre el deceso se dio a conocer en sus redes. La emotiva noticia se dio en primera persona para informar sobre la muerte del diseñador. 

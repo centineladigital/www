@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "También ofrece alternativas para iniciar la atención a través de un directorio de servicios de atención a la violencia y un botón de marcación directa al 911 para situaciones de urgencia."
 image: "/uploads/2021/images-Foto_558-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Implementa IMSS módulo para la detección de violencia familiar en su aplicación digital"
 front: false
 section: "Local"
-news_id: 190588
+redirect_from: /news/190588
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) implementó en su aplicación IMSS Digital para celulares y tabletas el Módulo de Violencia Familiar, que tiene por objetivo detectar mediante un cuestionario si una persona vive con violencia y el nivel de severidad, a fin de brindar alternativas para su pronta atención.

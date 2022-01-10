@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Presidente informó que se seguirá extendiendo la capacidad del programa Gas Bienestar. "
 image: "/uploads/2021/images-andres-manuel-lopez-obrador-cortesia-36.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO prevé mantener precios máximos al gas LP en 2022"
 front: false
 section: "Nacional"
-news_id: 190530
+redirect_from: /news/190530
 ---
 
 El presidente Andrés Manuel López Obrador consideró probable que se extienda el establecimiento de precios máximos al gas para el 2022 porque, dijo, está dando buenos resultados para la población. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Invitan a casarse de forma colectiva, abren recepción de papelería."
 image: "/uploads/2021/images-INES.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM02_INES_MARTINEZ.mp3"
 alt: "Invitan a matrimonios colectivos"
 front: false
 section: "Local"
-news_id: 182633
+redirect_from: /news/182633
 ---
 
 Pese a la pandemia el programa de matrimonios colectivos continuará según fue dado a conocer por parte de Inés Martínez, titular del Registro Civil, quien afirmó aún no se define la forma en la que se llevará a cabo esta ceremonia, la cual es una tradición dentro del Estado. 

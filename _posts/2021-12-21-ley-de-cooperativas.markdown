@@ -20,11 +20,11 @@ author: nil
 description: "La iniciativa está dedicada a la reactivación económica del Estado"
 image: "/uploads/2021/images-ae4bd731-1d87-4e0f-9666-82f977faffce.jpg"
 video: "/uploads/2021/videos-BM01_MARIA_PEREZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Ley de cooperativas para Chihuahua -  diputada "
 front: false
 section: "Local"
-news_id: 191092
+redirect_from: /news/191092
 ---
 
 La diputada María Antonieta Pérez Reyes señaló que para este próximo 2022 el grupo parlamentario de Morena tiene implementadas algunas iniciativas, al ser cuestionada manifestó una ley de cooperativas para el Estado de Chihuahua.

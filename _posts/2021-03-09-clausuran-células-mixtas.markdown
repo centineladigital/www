@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Reporte de fin de semana: se realizaron en total 544 inspecciones, un desalojo y se levantaron 18 actas administrativas en las ciudades de Juárez y Chihuahua"
 image: "/uploads/2021/images-WhatsApp_Image_2021-03-08_at_12.52.02_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Clausuran Células Mixtas 6 establecimientos por incumplir medidas sanitarias"
 front: false
 section: "Local"
-news_id: 183354
+redirect_from: /news/183354
 ---
 
 La Dirección General de Gobierno informó que del 5 al 7 de marzo las Células Mixtas realizaron seis clausuras de establecimientos en la entidad, durante los  operativos para vigilar el cumplimiento de las medidas sanitarias contra COVID-19.

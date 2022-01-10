@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esta mañana, el presidente López Obrador ofrece un mensaje desde Palacio Nacional con motivo de su Tercer Informe de Gobierno"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entre versiones de salida, Julio Scherer asiste a informe de AMLO en Palacio Nacional"
 front: false
 section: "Nacional"
-news_id: 187313
+redirect_from: /news/187313
 ---
 
 Entre versiones de una supuesta renuncia, el consejero jurídico del presidente Andrés Manuel López Obrador, Julio Scherer Ibarra, se presentó en Palacio Nacional esta mañana, como todo el gabinete, para escuchar el mensaje del mandatario con motivo de su Tercer Informe de Gobierno.

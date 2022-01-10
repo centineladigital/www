@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante el 10 de mayo, familiares envían remesas desde la nación vecina para la celebración de las madres"
 image: "/uploads/2021/images-REMESAS.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aumentarían remesas hasta un 50% por el Día de las Madres"
 front: false
 section: "Local"
-news_id: 184354
+redirect_from: /news/184354
 ---
 
 Listos Elektra y Telégrafos de México para recibir las remesas correspondientes al Día de las Madres, encargados de estos lugares afirman que esperan un aumento del 50 por ciento en relación a los días normales.

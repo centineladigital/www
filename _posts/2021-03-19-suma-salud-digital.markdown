@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se han monitoreado 7,139 casos en Rojo/Naranja, 3,489 en Amarillo y 77,320 en Blanco/Verde"
 image: "/uploads/2021/images-Informe_tecnico_18_marzo_page-0011.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suma Salud Digital 140,225 suscriptores; Monitor COVID 8,508 voluntarios"
 front: false
 section: "Local"
-news_id: 183482
+redirect_from: /news/183482
 ---
 
 El subdirector de Epidemiología de la Secretaría de Salud, Gumaro Barrios Gallegos, informó que a la fecha se han registrado 140 mil 225 inscripciones en la aplicación “Salud Digital”, en beneficio de igual número de personas, que se han atendido por COVID-19.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Vin Diesel, protagonista de Rápidos y Furiosos 9 (como Dom Toretto), habló sobre la posibilidad de Meadow, hija de Paul Walker, en la película; no al descarta. "
 image: "/uploads/2021/images-meadow-walker-vin-diesel-llaman_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No descartaría nada -  Vin Diesel sobre Meadow, hija de Paul Walker, en la saga de 'RyF'"
 front: false
 section: "Espectáculos"
-news_id: 185144
+redirect_from: /news/185144
 ---
 
 En los días previos al estreno de Rápidos y Furiosos 9, surgieron una serie de temas al rededor de la saga de películas de acción protagonizadas por Vin Diesel. El actor habló sobre una posible inclusión de Meadow Rain, hija de Paul Walker, dentro de la saga, a la cual no descarta. 

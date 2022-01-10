@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Deberán en sesión ordinaria o sesión extraordinaria, conformar las ternas correspondientes para votar y elegir al director ejecutivo de ambas juntas, en cumplimiento al proceso legal establecido."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Propone la Gobernadora dos perfiles para las Juntas Municipales de Agua y Saneamiento en Chihuahua y Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 188135
+redirect_from: /news/188135
 ---
 
 La gobernadora Maru Campos Galván, presentará  la propuesta de dos perfiles ante los Consejos de Administración de las Juntas Municipales de Agua y Saneamiento de Chihuahua y Ciudad Juárez, para que sean considerados para ocupar la dirigencia de estos organismos; contemplando a Alan Falomir Sáenz para la JMAS Chihuahua y Sergio Nevárez Rodríguez para Ciudad Juárez.

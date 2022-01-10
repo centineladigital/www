@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Indica la dependencia que las temperaturas máximas esperadas la tarde de este 8 de mayo son Chihuahua 33°C, Juárez 31°C, Ojinaga 38°C, Delicias 36°C, Camargo 34°C, Jiménez 33°C, Parral 31°C, y Cuauhtémoc 27°C"
 image: "/uploads/2021/images-pronóstico.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte Protección Civil por altas temperaturas durante este sábado y domingo"
 front: false
 section: "Local"
-news_id: 184364
+redirect_from: /news/184364
 ---
 
 Este sábado 8 de mayo la temperatura subirá hasta los 38°C en Ojinaga, 36°C Delicias, y 34°C Camargo, acompañada de rachas de viento que podrían rebasar los 65 kilómetros por hora (km/h), informó la Coordinación Estatal de Protección Civil (CEPC).

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Contratarán durante agosto a licenciadas y licenciados en Intervención Educativa, Educación Física, o carreras afines, con especialidad en motricidad y psicología, para fungir como auxiliares de grupo y atender a estudiantes  con alguna discapacidad"
 image: "/uploads/2021/images-Contratan_personal_para_CAMs-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abre Servicios Educativos 40 nuevas plazas para personal auxiliar de Educación Especial"
 front: false
 section: "Local"
-news_id: 186586
+redirect_from: /news/186586
 ---
 
 La Secretaría de Educación y Deporte (SEyD), a través de Servicios Educativos del Estado de Chihuahua (Seech), contratará para la modalidad de Educación Especial, a 40 personas para ocupar las nuevas plazas administrativas que se abrieron para atender funciones como auxiliares de grupo. 

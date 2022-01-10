@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El funcionario comentó que los casos confirmados se comportan de manera semejante a la primera y segunda ola, mientras que las hospitalizaciones y las defunciones tienen una separación muy notoria con reducción superior al 75 por ciento; un efecto positivo de la vacunación. "
 image: "/uploads/2021/images-tercer_olaaa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México lleva 4 semanas con una tercera ola de covid, reconoce López-Gatell"
 front: false
 section: "Nacional"
-news_id: 185592
+redirect_from: /news/185592
 ---
 
 México lleva cuatro semanas con una tercera ola de covid-19, reconoció Hugo López-Gatell, subsecretario de Prevención y Promoción de la Salud, quien aseguró que se han logrado reducir los casos graves.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz fue reconocida en el Festival de Cine de Venecia por su trabajo en Madres paralelas, película de Pedro Almodóvar."
 image: "/uploads/2021/images-discurso-actriz-agradecio-pedro-almodovar.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Penélope Cruz gana como Mejor Actriz en Festival de Cine de Venecia por 'Madres Paralelas'"
 front: false
 section: "Espectáculos"
-news_id: 187676
+redirect_from: /news/187676
 ---
 
 Este 11 de septiembre se llevó a cabo el cierre del Festival de Cine de Venecia en donde Penélope Cruz ganó hoy la Copa Volpi a la mejor actriz de la 78 edición del evento por su trabajo en "Madres paralelas" de Pedro Almodóvar, convirtiéndose en la primera hispana en hacerlo.

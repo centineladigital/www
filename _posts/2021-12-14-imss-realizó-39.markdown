@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Del 10 al 12 de diciembre también se efectuaron 40 mil 503 consultas de Medicina Familiar, 20 mil 825 de especialidad, así como 5 mil 580 mastografías."
 image: "/uploads/2021/images-Foto_573-4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS realizó 39 trasplantes y casi tres mil cirugías durante la 13ª  Jornada Nacional de Recuperación de Servicios"
 front: false
 section: "Local"
-news_id: 190861
+redirect_from: /news/190861
 ---
 
 Con la estrategia “120 días para mover al IMSS”, de 10 al 12 de diciembre se realizó la 13ª Jornada Nacional para la Recuperación de Servicios de Salud en las que se realizaron trasplantes, consultas en especialidades y medicina familiar, cirugías y diversas detecciones para prevenir el desarrollo de enfermedades crónico degenerativas, en 34 Representaciones Estatales del Instituto y 24 Unidades Médicas de Alta Especialidad (UMAE).

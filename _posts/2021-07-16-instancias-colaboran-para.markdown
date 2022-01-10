@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-MV06_GUMARO_BARRIOS.mp4"
 alt: "Instancias colaboran para atender denuncias de vacunas falsas"
 front: false
 section: "Local"
-news_id: 185744
+redirect_from: /news/185744
 ---
 
 Diversas instancias se encuentran colaborando en investigar denuncias referentes a la venta y/o aplicación de vacunas apócrifas, señaló el Subdirector de Epidemiología de la Secretaría de Salud, Gumaro Barrios Gallegos.

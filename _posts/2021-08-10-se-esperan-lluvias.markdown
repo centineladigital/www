@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Coordinación Estatal de Protección Civil (CEPC) emitió una alerta preventiva por las fuertes lluvias que se presentarán este miércoles 10 en la mayoría del territorio chihuahuense"
 image: "/uploads/2021/images-descarga.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se esperan lluvias fuertes este miércoles en la mayoría del estado -  Protección Civil"
 front: false
 section: "Local"
-news_id: 186511
+redirect_from: /news/186511
 ---
 
 Informó que algunas de las temperaturas máximas y mínimas registradas en las últimas horas son (°C): Chihuahua 34.9/21.2, Juárez 36.7/24.3, Ahumada 37.7/24.1, Janos 32.1/19, Nuevo Casas Grandes 30.9/20.4, Madera 25.9/18, Temósachic 30.2/15.1, Cuauhtémoc 28.5/15.7, Majalca 29.9/11.3, Ojinaga 38.9/25.6, Delicias 37.7/22.1, Camargo 35.5/21, Jiménez 34.3/19.2, Parral 33/18.7, Balleza 32.4/17.3, Creel 25.4/12, Maguarichi 28/16.6, Chínipas 35.3/22, Urique 32.9/20.6, Guachochi 25.5/10.1, Chinatú 24.9/13.8, y El Vergel, Balleza 21.3/9.4.

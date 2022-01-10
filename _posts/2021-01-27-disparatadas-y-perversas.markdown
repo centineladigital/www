@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Bill Gates espera que pronto dejen de hablar de las teorías que lo señalan como responsable del covid-19 o de querer instalar chips 5G en la gente. "
 image: "/uploads/2021/images-bill-gates-reuters.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Disparatadas y perversas; Bill Gates responde a teorías conspirativas de covid-19"
 front: false
 section: "Espectáculos"
-news_id: 182481
+redirect_from: /news/182481
 ---
 
 El informático, empresario, filántropo, creador de Windows y cofundador de la empresa de tecnología Microsoft, Bill Gates, respondió ante los diversos señalamientos que ha tenido contra su persona, llamando "disparatadas " y "perversas" las teorías conspirativas, donde el estadunidense es señalado por crear el virus que provoca el covid-19 junto con personajes como Anthony Fauci, director del Instituto Nacional de Alergia y Enfermedades Infecciosas de Estados Unidos. 

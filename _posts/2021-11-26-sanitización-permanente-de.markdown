@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Para la desinfección de oficinas se unan paneles ultravioletas que desactivan el virus COVID-19"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sanitización permanente de espacios públicos, paradas de autobús y oficinas gubernamentales"
 front: false
 section: "Local"
-news_id: 190246
+redirect_from: /news/190246
 ---
 
 Con el propósito de disminuir los contagios de COVID-19, el Gobierno Municipal a través de la Dirección de Mantenimiento Urbano, continúa realizando de manera diaria y permanente la sanitización de oficinas gubernamentales, paradas de camión y espacios públicos, ubicados en distintos puntos de la ciudad.

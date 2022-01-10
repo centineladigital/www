@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Agredió a la víctima y se llevó su celular"
 image: "/uploads/2021/images-Manuel_C._M..jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fiscalía de la Mujer presenta en Tribunales a presunto feminicida"
 front: false
 section: "Local"
-news_id: 186199
+redirect_from: /news/186199
 ---
 
 La Fiscalía Especializada de la Mujer, logró llevar ante la justicia a Manuel C. M. presentado en Tribunales como presunto responsable de la muerte de su ex novia en Ciudad Juárez, Chihuahua. 

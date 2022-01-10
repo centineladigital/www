@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El líder nacional de la CROC, Isaías González Cuevas, presentó una propuesta para rescatar los más de 300 mil empleos perdidos en la industria del turismo por la covid-19"
 image: "/uploads/2021/images-2532795.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Urge la CROC que Turismo sea considerado sector económico esencial y prioritario"
 front: false
 section: "Nacional"
-news_id: 183065
+redirect_from: /news/183065
 ---
 
 Ante la crisis que enfrenta el sector turístico de México, provocada por la pandemia de covid-19, la Confederación Revolucionaria de Obreros y Campesinos (CROC) -a través de su líder nacional, el diputado federal Isaías González Cuevas- presentó un punto de acuerdo ante el Pleno de la Cámara de Diputados para considerar a la Industria Turística como sector prioritario de la economía nacional y actividad económica esencial.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Angélica Vale recordó la vez que fue vetada de Televisa y la forma en la que la sacaron de la empresa a pesar de ser una niña. "
 image: "/uploads/2021/images-angelica-vale-recuerda-vetaron-televisa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Me sacaron policías” -  Angélica Vale recuerda la vez que Emilio Azcárraga la vetó de Televisa cuando era una niña"
 front: false
 section: "Espectáculos"
-news_id: 189181
+redirect_from: /news/189181
 ---
 
 Angélica Vale, famosa actriz y comediante, recientemente causó controversia al recordar la vez que fue vetada de Televisa junto a su familia - Angélica María y Raúl Vale- en la década de los 80 cuando tan sólo era una niña. La protagonista de La Fea más bella recordó cómo fue sacada de la empresa por policías cuando apenas tenía entre los seis y siete años de edad. En entrevista con Yordi Rosado, Angélica Vale recordó cómo fue la vez que Emilio Azcárraga “El Tigre” la vetó de Televisa junto a varios integrantes de su familia. Y es que según la famosa, su padre y ‘El Tigre’ se conocieron en la Universidad Iberoamericana, en donde comenzaron a trabajar juntos en diferentes proyectos. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Casi un 50 por ciento de los casos activos son del municipio de Chihuahua."
 image: "/uploads/2021/images-ACTIVOS.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02_GUMARO.mp3"
 alt: "Supera Chihuahua a Juárez en casos activos COVID"
 front: false
 section: "Local"
-news_id: 183092
+redirect_from: /news/183092
 ---
 
 Con un 249 por ciento es lo que supera Chihuahua al municipio de Ciudad Juárez, esto en casos activos de coronavirus, según dio a conocer el Subdirector del área de Epidemiología, Gumaro Barrios Gallegos. Esto ya que en la capital del estado se tiene un registro de 207 casos, mientras que en la ciudad fronteriza se tienen 83 casos.

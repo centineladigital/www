@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal, en coordinación con líderes sociales llevó sonrisas a la colonia"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan juguetes a niñas y niños de Cumbres del Sur"
 front: false
 section: "Local"
-news_id: 191239
+redirect_from: /news/191239
 ---
 
 Cómo parte las acciones que el Gobierno Municipal realiza para brindar alegría a niñas y niños que viven en zonas vulnerables de la ciudad, a través del DIF se hizo entrega de juguetes a familias que viven en la colonia Cumbres del Sur en estas fiestas decembrinas.

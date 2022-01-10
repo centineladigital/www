@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Continuarán los días calurosos para esta semana"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se esperan vientos fuertes a partir del miércoles en la ciudad"
 front: false
 section: "Local"
-news_id: 183335
+redirect_from: /news/183335
 ---
 
 Días calurosos con temperaturas que se mantendrán por arriba de los 26 grados Celsius es lo que se espera para esta semana, aunado a fuertes vientos que podrían presentarse a partir del próximo miércoles, de acuerdo a la Coordinación Municipal de Protección Civil, según el pronóstico que emite el Servicio Meteorológico Nacional.

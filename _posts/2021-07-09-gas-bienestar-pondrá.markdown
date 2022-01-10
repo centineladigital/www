@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Señaló que esta decisión será de gran apoyo para la economía familiar y el comercio; además, se conserva la soberanía energética del país. "
 image: "/uploads/2021/images-ignacio-mier-diputado-coordinador-morena-1_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gas Bienestar pondrá en orden mercado combustible, dice diputado de Morena"
 front: false
 section: "Nacional"
-news_id: 185493
+redirect_from: /news/185493
 ---
 
 El coordinador de Morena en la Cámara de Diputados, Ignacio Mier Velazco, dijo que con la propuesta del presidente Andrés Manuel López Obrador de crear Gas Bienestar se pondrá orden en el mercado de combustibles, pero sobre todo se generarán condiciones favorables para la economía del país. 

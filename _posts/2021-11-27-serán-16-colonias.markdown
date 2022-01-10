@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " Estas son las fechas y lugares para que ubiques el contenedor"
 image: "/uploads/2021/images-unnamed_(23).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Serán 16 colonias donde el Gobierno Municipal recogerá tiliches la próxima semana "
 front: false
 section: "Local"
-news_id: 190279
+redirect_from: /news/190279
 ---
 
 Con el objetivo de evitar que la basura de grandes dimensiones termine en arroyos o las calles de la ciudad, el Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, lllevará el programa de destilichadero a 16 colonias durante la semana del 29 de noviembre al 3 de diciembre.

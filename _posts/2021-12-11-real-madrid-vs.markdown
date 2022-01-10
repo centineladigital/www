@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Conoce todos los detalles para que no te pierdas el derbi madridista entre merengues y colchoneros "
 image: "/uploads/2021/images-real-madrid-vs-atletico-madrid-9_0_1_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Real Madrid vs Atlético de Madrid -  Horario y dónde ver EN VIVO el partido de La Liga"
 front: false
 section: "Deportes"
-news_id: 190746
+redirect_from: /news/190746
 ---
 
 La actividad en La Liga española continúa y -aunque parece que las posiciones están definidas- nada es concreto aún, por lo que los equipos intentarán seguir sumando para llegar a la cima de la clasificación y conquistar el título de la temporada.  

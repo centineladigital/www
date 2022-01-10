@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Disney Studios dio a conocer su nueva producción, Encanto, la cual estará ambientada en Colombia; presentan tráiler y póster. "
 image: "/uploads/2021/images-disney-presenta-encanto-walt-disney.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Está inspirada en Colombia! Disney revela tráiler de 'Encanto', su nueva película"
 front: false
 section: "Espectáculos"
-news_id: 185465
+redirect_from: /news/185465
 ---
 
 La mañana de este jueves, Disney sorprendió con la revelación de su nueva película: Encanto. A través de redes sociales reveló su póster y tráiler oficial del nuevo largometraje, el cual estará basado en Colombia. 

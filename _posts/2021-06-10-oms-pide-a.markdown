@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Desde esta semana unos 36 países europeos están reduciendo las restricciones; el dirigente europeo de la OMS ha aconsejado a la población viajar de manera responsable"
 image: "/uploads/2021/images-2592829.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "OMS pide a los países europeos precaución al levantar las medidas sanitarias"
 front: false
 section: "Internacional"
-news_id: 184962
+redirect_from: /news/184962
 ---
 
 El director regional para Europa de la Organización Mundial de la Salud (OMS), Hans Kluge, ha solicitado a los países europeos que tengan precaución a la hora de levantar las medidas contra el coronavirus ya que sigue habiendo transmisión comunitaria "generalizada".

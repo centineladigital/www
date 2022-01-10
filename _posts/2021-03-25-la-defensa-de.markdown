@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“Los hechos hablan por sí solos”, señala Javier Corral."
 image: "/uploads/2021/images-CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ06_JAVIER_CORRAL.mp3"
 alt: "“La defensa de la Alcaldesa ha retrasado la audiencia” -  Gobernador"
 front: false
 section: "Local"
-news_id: 183554
+redirect_from: /news/183554
 ---
 
 Es la defensa de la Alcaldesa con licencia quien ha retrasado la audiencia, fueron las palabras del Gobernador del Estado al ser cuestionado respecto a que es la misma defensa quien ha solicitado que se inicie con la audiencia, ante lo que el mandatario señaló que “los hechos hablan por sí solos”.

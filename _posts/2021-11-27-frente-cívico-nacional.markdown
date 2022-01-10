@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Esta mañana comenzaron a llegar políticos, líderes sociales, académicos e invitados para la Instalación del Comité Promotor del Frente Cívico Nacional, espacio que buscará competir contra Morena en las elecciones de 2024 "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Frente Cívico Nacional buscará enfrentar con candidato único a Morena en 2024"
 front: false
 section: "Nacional"
-news_id: 190272
+redirect_from: /news/190272
 ---
 
 Esta mañana comenzaron a llegar políticos, líderes sociales, académicos e invitados para la Instalación del Comité Promotor del Frente Cívico Nacional (FCN), espacio que buscará competir contra Morena en las elecciones de 2024.

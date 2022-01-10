@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Los usuarios tienen la posibilidad de ingresar y realizar compras en línea, pero el material nunca es entregado en el domicilio."
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta FGE por venta de material de construcción a través de páginas web falsas"
 front: false
 section: "Local"
-news_id: 191318
+redirect_from: /news/191318
 ---
 
 La Fiscalía General del Estado (FGE), alertó a la ciudadanía sobre la venta de material de construcción, a través de páginas web apócrifas.

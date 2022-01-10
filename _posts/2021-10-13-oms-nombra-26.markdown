@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los expertos deben ser sometidos a una última evaluación para que puedan detallar los avances sobre cómo y dónde apareció la enfermedad pandémica. "
 image: "/uploads/2021/images-china-opone-investigacion-oms-territorio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "OMS nombra 26 expertos para continuar investigación del origen del covid-19"
 front: false
 section: "Internacional"
-news_id: 188668
+redirect_from: /news/188668
 ---
 
 La Organización Mundial de la Salud (OMS) anunció hoy la composición de su nuevo Grupo Científico Asesor sobre el Origen de Nuevos Patógenos (SAGO), en el que la epidemióloga cubana María Guzmán, junto a otros 25 expertos, tendrán misión de seguir investigando cómo surgió el covid-19, entre otras enfermedades. 

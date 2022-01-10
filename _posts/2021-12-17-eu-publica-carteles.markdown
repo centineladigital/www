@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Departamento de Estado publicó que investigaciones policiales indican que los hermanos Guzmán López, Joaquín y Ovidio, comenzaron temprano sus carreras en el narcotráfico. "
 image: "/uploads/2021/images-el-departamento-de-estado-publico-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU publica carteles de Se busca con recompensa de 5 mdd por hijos de 'El Chapo'"
 front: false
 section: "Internacional"
-news_id: 190953
+redirect_from: /news/190953
 ---
 
 El Departamento de Estado norteamericano publicó este jueves el póster de “Se busca” en donde ofrece una recompensa de hasta 5 millones de dólares por información que conduzca al arresto y condena de cada uno de los cuatro hijos de Joaquín Guzmán Loera, que fungen como miembros de alto rango del Cártel de Sinaloa. 

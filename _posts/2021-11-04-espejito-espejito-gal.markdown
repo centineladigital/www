@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Gal Gadot dejará su papel de superheroína para ser la villana de uno de los clásicos de Disney, Blancanieves. "
 image: "/uploads/2021/images-gal-gadot-participara-live-action.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Espejito, espejito! Gal Gadot será la 'Reina Malvada' en live action de 'Blancanieves'"
 front: false
 section: "Espectáculos"
-news_id: 189539
+redirect_from: /news/189539
 ---
 
 En los últimos años Gal Gadot ha conseguido gran éxito tras interpretar a Wonder Woman y dentro de poco se estrenará Alerta Roja, película de Netflix y como si esto no fuera suficiente, la actriz será la encargada de dar vida a la Reina Malvada de la historia de Blancanieves en "Snow White and the Seven Dwarves", el live action que está preparando Disney sobre este famoso cuento. El portal Deadline detalló este miércoles que Gal Gadot se unirá como villana al reparto de esta película en el que ya aparecía la actriz latina Rachel Zegler, la elegida para ser Blancanieves. 

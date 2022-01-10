@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista, la cantante Billie Eilish aseguró que ver pornografía desde los 11 años la afectó severamente. "
 image: "/uploads/2021/images-billie-eilish-revela-adiccion-pornografia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Billie Eilish revela que vio pornografía desde los 11 años -  realmente destruyó mi cerebro"
 front: false
 section: "Espectáculos"
-news_id: 190860
+redirect_from: /news/190860
 ---
 
 La cantante ganadora del Grammy Billie Eilish reveló tener una adicción a ver pornografía desde que tenía apenas 11 años, y que esto mismo le provocó pesadillas y la arruinó cuando comenzó a salir. 

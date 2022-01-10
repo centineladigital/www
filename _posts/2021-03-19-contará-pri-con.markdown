@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto en todo el territorio estatal, afirmando que dentro de este se contará con más de mil candidatos."
 image: "/uploads/2021/images-ALEJANDRO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV04_ALEJANDRO_DOMINGUEZ.mp3"
 alt: "Contará PRI con representantes en todas las casillas"
 front: false
 section: "Local"
-news_id: 183487
+redirect_from: /news/183487
 ---
 
 El Partido Revolucionario Institucional contará con la infraestructura para tener representantes en todas las casillas, señaló el dirigente del partido tricolor Alejandro Domínguez, esto pese a que mucha de su estructura pudiera haber dejado las filas para irse a otro partido.

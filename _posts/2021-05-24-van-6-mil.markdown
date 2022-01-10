@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dan positivo 24 casos más y se confirman tres decesos en la capital; continúa el municipio de Chihuahua con el mayor número de casos activos en las últimas dos semanas con 430 registros"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Van 6 mil 929 defunciones y 67 mil 822 contagios por COVID-19 en la pandemia   "
 front: false
 section: "Local"
-news_id: 184618
+redirect_from: /news/184618
 ---
 
 A lo largo de la pandemia suman en la entidad 67 mil 822 contagios acumulados y 6 mil 929 defunciones por COVID-19, de acuerdo con el reporte epidemiológico de este 24 de mayo que emite la Secretaría de Salud.

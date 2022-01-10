@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El ex jugador falleció el viernes a causa del cáncer de cerebro que padecía. "
 image: "/uploads/2021/images-paul_mariner.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Paul Mariner, legendario futbolista inglés, a los 68 años"
 front: false
 section: "Deportes"
-news_id: 185535
+redirect_from: /news/185535
 ---
 
 El ex delantero inglés, Paul Mariner, quien jugó un papel esencial para que el Ipswich Town ganara la Copa de Inglaterra en 1978 y la Copa de la UEFA en 1981, falleció el viernes a los 68 años, anunció su familia este sábado. 

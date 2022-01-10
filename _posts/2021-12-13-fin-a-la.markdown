@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los Rojinegros conquistaron su segundo título después de 70 años tras vencer en penales al León. "
 image: "/uploads/2021/images-atlas-campeon-apertura-liga-mx_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Fin a la maldición! Atlas es campeón de la Liga MX"
 front: false
 section: "Deportes"
-news_id: 190775
+redirect_from: /news/190775
 ---
 
 El futbol es caprochiso, existen maldiciones que parecen eternas, pero la de Atlas no lo fue, tuvo que ser en penales, así como se le negó hace 22 años, pero se acabó una de las sequías más importantes en el mundo del deporte, los Zorros son campeones del futbol mexicano al finalizar 3-3 en el global, pero vencer 4-3 en penales a León. 

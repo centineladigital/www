@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Icatech impulsa el desarrollo de las y  los chihuahuenses, otorgándoles herramientas para el auto empleo, emprendimiento y desarrollo profesional  "
 image: "/uploads/2021/images-DSC_0261.JPG"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-1-_INTRODUCCIÓN_PROGRAMA_LOGROS_CON_VALOR_SIDE_11-8-21_(1).MP3"
 alt: "Con asesoría y capacitación, fortalece Estado la competitividad empresarial y el talento chihuahuense"
 front: false
 section: "Local"
-news_id: 186565
+redirect_from: /news/186565
 ---
 
 “Trabajamos en dos vertientes, la primera es que promovimos una movilidad igualadora de oportunidades, ampliamos la participación de las mujeres en la economía formal, y en buscar también la equidad en las remuneraciones”, expresó el titular de la Secretaría de Innovación y Desarrollo Económico (SIDE), Antonio Fernández Domínguez.

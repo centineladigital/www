@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Bares y centros nocturnos como teatros no abrirán en semáforo amarillo."
 image: "/uploads/2021/images-JAVIER_CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML01_JAVIER_CORRAL.mp3"
 alt: "Escuelas continuarán cerradas en amarillo"
 front: false
 section: "Local"
-news_id: 182221
+redirect_from: /news/182221
 ---
 
 Escuelas, bares y teatros son actividades que continuarán cerrados dentro del cambio de semáforo, según lo dio a conocer el Gobernador de Chihuahua, Javier Corral Jurado, quien afirmó que esto es por la seguridad de los ciudadanos.

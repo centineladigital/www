@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Manifestó que no tiene interés de ocupar otro puesto de gobierno acabando su gestión, dijo que, por su edad y su familia, prefiere alejarse de los puestos de gobierno"
 image: "/uploads/2021/images-2524397.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Descarta Sánchez Cordero ir por presidencia"
 front: false
 section: "Nacional"
-news_id: 182730
+redirect_from: /news/182730
 ---
 
 La secretaria de Gobernación, Olga Sánchez Cordero, descartó contender en 2024 por la presidencia de la República.

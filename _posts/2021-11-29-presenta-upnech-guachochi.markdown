@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El escritor Francisco Guerra Peña, narra en esta edición los conocimientos y convivencias indígenas, una historia de realismo cultural, que contribuirá a fomentar la lectura"
 image: "/uploads/2021/images-IMG_1027.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presenta UPNECH Guachochi  libro “Patricio Chomarí, corriendo por el cielo”"
 front: false
 section: "Local"
-news_id: 190306
+redirect_from: /news/190306
 ---
 
 Estudiantes de la maestría en Educación Intercultural de la Universidad Pedagógica Nacional del Estado de Chihuahua (UPNECH) campus Guachochi, en coordinación con Erika Orpinel González, asesora del grupo, llevaron a cabo la presentación del libro “Patricio Chomarí, corriendo por el cielo”, del escritor Francisco Guerra Peña.

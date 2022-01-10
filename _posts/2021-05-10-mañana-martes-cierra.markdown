@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Al corte de fin de semana ya se habían registrado 30 mil 003 personas de las 89 mil que laboran en todos los niveles"
 image: "/uploads/2021/images-Vacunación.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mañana martes cierra prerregistro para vacunación de docentes"
 front: false
 section: "Local"
-news_id: 184368
+redirect_from: /news/184368
 ---
 
 Mañana martes 11 de mayo a las 22:00 horas cierra el periodo de prerregistro para la vacuna contra el virus SARS-CoV-2 para docentes y administrativos de los planteles escolares en el estado.

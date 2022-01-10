@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con el fin de mejorar los entornos y calidad de vida de la ciudadanía"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Limpia Gobierno Municipal mil 300 parques en la ciudad durante noviembre"
 front: false
 section: "Buenas Noticias"
-news_id: 190316
+redirect_from: /news/190316
 ---
 
 Dentro de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, realizó en el mes de noviembre la limpieza de mil 300 parques en esta ciudad, en beneficio de las familias chihuahuenses, que a diario acuden a estos lugares a realizar diversas actividades.

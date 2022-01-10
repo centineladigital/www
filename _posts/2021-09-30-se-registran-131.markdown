@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "También se ratificó el aumento en el número de defunciones quedando en 7 mil 966"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 131 nuevos contagios  de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 188225
+redirect_from: /news/188225
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 30 de Septiembre se tiene un total general de 78 mil 151 contagios en el estado. Luego de confirmarse otros 131 más en Juárez, Chihuahua, Delicias, Cuauhtémoc, Ojinaga, Guachochi, Jiménez, Bocoyna, Meoqui, Saucillo, Guerrero, Allende, Aquiles Serdán, Ascensión, Rosales, Urique, Morelos, Balleza y San Francisco de Conchos.

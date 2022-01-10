@@ -12,11 +12,11 @@ author: nil
 description: "20 casillas las cuales estuvieron ubicadas en delicias estación terrazas ejido y colonia Cuauhtémoc, la esperanza..."
 image: "/uploads/2021/images-elecciones-780x450.jpg"
 video: "/uploads/2021/videos-BL01_ERNESTO_IBARRA_.mp4"
-audio: "nil"
+audio: nil
 alt: "2 mil 435 votos en las elecciones seccionales "
 front: false
 section: "Local"
-news_id: 189446
+redirect_from: /news/189446
 ---
 
 Ernesto Ibarra sarmiento manifestó que en las elecciones seccionales de Chihuahua celebradas el día 31 de octubre se contabilizaron 2 mil 435 votos en 20 casillas las cuales estuvieron ubicadas en Delicias estación terrazas ejido y colonia Cuauhtémoc, la esperanza y los sauces pertenecientes al seccional de El charco; colonia soto, comunidades de Ciénaga de Ortiz; la casita, boca de Ciénaga, palo blanco y alamillo de bailón.

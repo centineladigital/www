@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Dan conferencia digital desde Ecuador."
 image: "/uploads/2021/images-DIEGO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML03.mp3"
 alt: "Conmemoran CEDH día de la libertad de expresión"
 front: false
 section: "Local"
-news_id: 184909
+redirect_from: /news/184909
 ---
 
 Este siete de junio la Comisión Estatal de Derechos Humanos conmemoró el día de la Libertad de Expresión con una conferencia virtual, a través de la página de Facebook la cual fue impartida por Diego Beltrán Bastidas denominada “Libertad de expresión opinión y prensa”.

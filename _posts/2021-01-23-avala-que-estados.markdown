@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Presidente da luz verde; decisión incluye a empresarios. El titular del Ejecutivo federal subrayó que su administración no pretende monopolizar el tema"
 image: "/uploads/2021/images-2516934.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avala que estados compren vacunas"
 front: false
 section: "Nacional"
-news_id: 182388
+redirect_from: /news/182388
 ---
 
 El gobierno de México autorizó a los gobiernos de los estados y a la iniciativa privada la importación de vacunas contra covid-19, para realizar sus propias campañas de vacunación, anunció el presidente Andés Manuel López Obrador.

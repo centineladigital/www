@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La candidata por la coalición “Nos Une Chihuahua” visitó el municipio de Ojinaga para reunirse con comerciantes, empresarios, médicos, ganaderos"
 image: "/uploads/2021/images-Maru_campos_cierre_de_campaña.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reactivación y desarrollo económico a Chihuahua -  Maru Campos"
 front: false
 section: "Local"
-news_id: 184774
+redirect_from: /news/184774
 ---
 
 En el marco de su cierre de campaña, Maru Campos, la candidata por la coalición “Nos Une Chihuahua” del PAN-PRD a la gubernatura, visitó el municipio de Ojinaga para reunirse con comerciantes, empresarios, médicos, ganaderos y diversos actores del sector económico de la región para escuchar sus necesidades y presentarles sus propuestas para reactivar la economía en el estado.

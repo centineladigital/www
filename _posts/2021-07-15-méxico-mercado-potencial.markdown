@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Mexico se posiciona como una de las principales entidades para invertir y hacer negocios en América Latina. "
 image: "/uploads/2021/images-fintech_ok_shutterstock_1011679996.jpg_1093282975.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México, mercado potencial en AL para negocios fintech -  IP y gobierno de Suiza"
 front: false
 section: "Internacional"
-news_id: 185686
+redirect_from: /news/185686
 ---
 
 Representantes del sector privado y del gobierno de Suiza coincidieron en que México sigue obteniendo buenas referencias y que por ende se posiciona como una de las principales entidades para invertir y hacer negocios en América Latina, sobre todo en el campo de las fintech (empresas que usan la tecnología para brindar servicios financieros de manera eficiente). 

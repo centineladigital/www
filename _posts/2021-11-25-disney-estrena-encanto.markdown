@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Disney estrena en cines su nueva película, Encanto, película basada en la cultura colombiana. "
 image: "/uploads/2021/images-disney-encanto-efe.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Disney estrena 'Encanto', su nueva película basada en la cultura colombiana"
 front: false
 section: "Espectáculos"
-news_id: 190200
+redirect_from: /news/190200
 ---
 
 La nueva película para toda la familia de Disney, Encanto, llega a la pantalla grande. El largometraje que tiene como protagonista a la familia Madrigal se ambiente en un mágico lugar basado en Colombia y está listo para enseñar un mundo lleno de música y poderes únicos en cada integrante. 

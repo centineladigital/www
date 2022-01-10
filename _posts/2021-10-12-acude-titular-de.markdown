@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Acudieron más de 500 personas de diversas comunidades indígenas del municipio"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acude titular de COEPI a ceremonia tradicional ralámuli en Carichí"
 front: false
 section: "Local"
-news_id: 188637
+redirect_from: /news/188637
 ---
 
 El pasado fin de semana, el titular de la Comisión Estatal para los Pueblos Indígenas (COEPI), Enrique Alonso Rascón Carrillo, participó en la ceremonia tradicional ralámuli del yúmare en la comunidad de San José Baqueachi, municipio de Carichí.

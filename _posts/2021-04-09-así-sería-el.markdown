@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esta mañana se anunció la muerte del Príncipe Felipe, esposo de la Reina Isabel II y así es como sería su funeral."
 image: "/uploads/2021/images-2559487.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así sería el funeral de Príncipe Felipe, esposo de la Reina Isabel II"
 front: false
 section: "Internacional"
-news_id: 183777
+redirect_from: /news/183777
 ---
 
 Este viernes murió el Príncipe Felipe a los 99 años de edad y desde muy temprano se activaron los planes de la Casa Real que tiene para estos casos.

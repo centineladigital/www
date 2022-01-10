@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Legisladores demócratas presentan una resolución que contiene un solo artículo de juicio político contra el presidente que lo acusa de 'incitación a la insurrección' por su rol en el asalto al Capitolio"
 image: "/uploads/2021/images-2509780.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Demócratas abren proceso de juicio político contra Trump"
 front: false
 section: "Internacional"
-news_id: 182018
+redirect_from: /news/182018
 ---
 
 Los demócratas en el Congreso de Estados Unidos dieron el lunes el primer paso hacia un eventual segundo juicio político del presidente Donald Trump, si el vicepresidente Mike Pence y el gabinete no lo destituyen de su cargo.

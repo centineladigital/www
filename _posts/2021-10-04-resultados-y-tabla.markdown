@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "América se mantiene como líder del actual torneo tras vencer a Pumas en el Clásico Capitalino. "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Resultados y tabla general tras la jornada 12 del Apertura 2021 de la Liga MX"
 front: false
 section: "Deportes"
-news_id: 188331
+redirect_from: /news/188331
 ---
 
 El América se mantiene como el líder tras la jornada 12 del Apertura 2021 de la Liga MX tras llevarse el Clásico Capitalino ante Pumas, equipo que conserva el lugar 17 con solo 8 unidades. 

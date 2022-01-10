@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esta iniciativa nace dentro de una reunión en coordinación con titulares de esta área en otros estados."
 image: "/uploads/2021/images-CARMEN.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ02_CARMEN_BENCOMO.mp3"
 alt: "Pretende TSJ crear Red Nacional de Archivos"
 front: false
 section: "Local"
-news_id: 182878
+redirect_from: /news/182878
 ---
 
 Diversos estados buscan contar con voz dentro del Consejo Nacional de Archivos, por lo que buscan impulsar la creación de una iniciativa para crear la Red Nacional de Archivos dentro de los diversos órganos judiciales según lo expresó Carmen Patricia Bencomo, titular de la Dirección de Archivos del Tribunal Superior de Justicia en Chihuahua.

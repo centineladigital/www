@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente dijo que se avanza en los protocolos sanitarios para las clases y reiteró que el regreso presencial es voluntario, incluso para maestros"
 image: "/uploads/2021/images-amlo-reitero-regreso-clases-presenciales_0_1_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Carta compromiso para regreso a clases presenciales no es obligatoria, dice AMLO"
 front: false
 section: "Nacional"
-news_id: 186760
+redirect_from: /news/186760
 ---
 
 El presidente Andrés Manuel López Obrador dijo que la carta de compromiso para el regreso a clases presenciales, del ciclo escolar 2021-2022, no será obligatoria y aseguró que él no estuvo involucrado en la implementación del documento.

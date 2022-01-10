@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Acordaron reunión con personal de bancos, locales comerciales, farmacias y auto servicio para reforzar vigilancia"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Adelanta Policía Municipal operativo” Buen Fin” por entrega de ahorros y aguinaldos"
 front: false
 section: "Local"
-news_id: 188906
+redirect_from: /news/188906
 ---
 
 Con la finalidad de reducir el índice delictivo y asaltos por entregas de ahorros y aguinaldos, el Gobierno Municipal a través de la  Dirección de Seguridad Pública Municipal, adelantaron el operativo del “Buen Fin” a esta semana y acordaron reunirse con directivos de locales comerciales, farmacias y tiendas de auto servicio para reforzar la seguridad con cámaras de vigilancia.

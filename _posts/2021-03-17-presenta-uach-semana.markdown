@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se llevará a cabo del 22 al 27 de marzo."
 image: "/uploads/2021/images-LUIS.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03_LUI.mp3"
 alt: "Presenta UACH semana de la radio "
 front: false
 section: "Local"
-news_id: 183456
+redirect_from: /news/183456
 ---
 
 Del 22 al 27 de marzo se llevará a cabo la semana de la Radio por parte de la Universidad Autónoma de Chihuahua, que tendrá diversas conferencias y platicas que contarán con la presencia de reconocidos periodistas y especialistas de comunicación, entre los que se encuentra Ricardo Rocha.

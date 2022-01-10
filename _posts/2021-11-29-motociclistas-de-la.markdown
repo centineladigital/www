@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Desde 1993 se desplazan a gran velocidad, para llegar antes que todos a los llamados de emergencia   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Motociclistas de la Policía Municipal -  hombres y mujeres motorizados al servicio de los chihuahuenses  "
 front: false
 section: "Local"
-news_id: 190307
+redirect_from: /news/190307
 ---
 
 Al rugir de los potentes motores, debidamente uniformados y listos en formación, es como los 28 elementos, entre ellos dos mujeres, que conforman el grupo de motociclistas de la Dirección de Seguridad Pública Municipal, se preparan diariamente para dar inicio a sus actividades.

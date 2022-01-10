@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "190 pacientes se encontraban siendo atendidos en 29 hospitales, de esta cifra 54 han requerido ser intubados"
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp3"
 alt: "Registran 198 casos y 33 defunciones por COVID"
 front: false
 section: "Local"
-news_id: 183260
+redirect_from: /news/183260
 ---
 
 En tan sólo 24 horas se han registrado 198 nuevos casos de personas que dieron positivo a coronavirus, mientras que 33 muertes fueron acreditadas por coronavirus, según fue dado a conocer Arturo Valenzuela Zorrilla, Director Médico de la Zona Norte perteneciente a la Secretaría de Salud.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Solo para adultos mayores de 60 años originarios y exclusivamente para habitantes de los municipios señalados"
 image: "/uploads/2021/images-Aplicación_de_vacuna_anti_COVID-19_(5).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "   Continúa vacunación contra COVID-19 en Cuauhtémoc, Cusihuriachi, Bachíniva y Riva Palacio"
 front: false
 section: "Local"
-news_id: 183422
+redirect_from: /news/183422
 ---
 
 Las instituciones públicas de salud federales y estatales, en conjunto con la Delegación Estatal de Programas para el Desarrollo del Gobierno Federal, informan que se continúa la aplicación de la vacunas contra COVID-19 durante el día de hoy 15 de marzo, en un horario de 9:00 am a 5:00 pm.

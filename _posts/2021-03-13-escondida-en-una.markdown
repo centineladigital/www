@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La expresidenta interina de Bolivia, Jenine Áñez, fue localizada escondida en una caja durante el operativo destinado a su detención"
 image: "/uploads/2021/images-2544445.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Escondida en una caja, así arrestaron a expresidenta de Bolivia"
 front: false
 section: "Internacional"
-news_id: 183412
+redirect_from: /news/183412
 ---
 
 La expresidenta interina de Bolivia, Jeanine Áñez, fue localizada oculta en una caja durante el operativo policiaco destinado a su detención.

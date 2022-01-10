@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La policía de India captura a dos hombres que utilizaban monos para robar a sus víctimas en Nueva Delhi, tras la denuncia de una de sus victimas"
 image: "/uploads/2021/images-2559976.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cae banda de ladrones que utilizaba monos amaestrados"
 front: false
 section: "Internacional"
-news_id: 183803
+redirect_from: /news/183803
 ---
 
 Dos hombres que utilizaban monos para robar a víctimas desprevenidas en la capital de India fueron detenidos, informó el sábado la policía de Nueva Delhi.

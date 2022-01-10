@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "llamó a las mujeres a generar sororidad y dejar de lado los ataques para que se dignifique el papel en Chihuahua"
 image: "/uploads/2021/images-GERERH.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AJ05_ROSA_ISELA_GAYTAN.mp3"
 alt: "Respalda diputada Rosa Isela Gaytán a Alcaldesa ante ataques políticos"
 front: false
 section: "Local"
-news_id: 182340
+redirect_from: /news/182340
 ---
 
 Luego del conflicto entre la alcaldesa con licencia, María Eugenia Campos y el gobernador Javier Corral, lo cual en los últimos días ha ido en aumento, con grabaciones y declaraciones de ambas partes; la diputada del Partido Revolucionario Institucional (PRI), Rosa Isela Gaytán mandó su apoyo y respaldo a la exedil, pues dijo estar en contra de personas que se valen del estatus y poder para ejercer violencia política.

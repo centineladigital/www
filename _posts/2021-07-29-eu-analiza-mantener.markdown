@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Por ahora no está claro cuándo se dejará la política establecida en el Título 42, pese a los reclamos de demócratas ante una medida calificada como discriminatoria"
 image: "/uploads/2021/images-capacitacion-organizada-promovida-grupo-migracion.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU analiza mantener expulsiones en frontera con México ante variante Delta"
 front: false
 section: "Internacional"
-news_id: 186080
+redirect_from: /news/186080
 ---
 
 Ante los temores por la propagación de la variante Delta de covid-19 en el territorio, se prevé que Estados Unidos aplace una reversión parcial de una controvertida política de expulsión de migrantes, según tres fuentes cercanas al tema, mientras el país intenta frenar el creciente número de casos de coronavirus. 

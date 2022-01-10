@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "“Desde un principio sobre estos hechos que impactaron a la ciudadanía, se dijo, y ahora reitero, que en la muerte de Diego y de José Ángel no habrá impunidad”: Fiscal General."
 image: "/uploads/2021/images-Manual-de-instrucciones-para-trabajar-con-Uber-2.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AUDIO_MENSAJE_FISCAL_GRAL_DEL_EDO___10-7-21.MP3"
 alt: "Detiene Fiscalía Estatal a presuntos homicidas de choferes DiDi"
 front: false
 section: "Local"
-news_id: 185550
+redirect_from: /news/185550
 ---
 
 El fiscal general del Estado, César Augusto Peniche Espejel, dio a conocer que personal de la dependencia a su cargo, en operativos conjuntos con la Policía Municipal de Chihuahua, detuvo a los presuntos homicidas de Diego y José Ángel, conductores de la plataforma DiDi, quienes en días pasados y en hechos diferentes, fueron secuestrados y privados de la vida.

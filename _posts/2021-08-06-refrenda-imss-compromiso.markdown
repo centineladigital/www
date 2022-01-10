@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se registraron 128 personas en la plataforma de atención y registro de pacientes oncológicos,  en 48 unidades del Seguro Social, 14 UMAE y 34 Hospitales de Segundo Nivel "
 image: "/uploads/2021/images-Foto_344-2.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Refrenda IMSS compromiso de garantizar abasto de medicamentos para pacientes pediátricos oncológicos"
 front: false
 section: "Local"
-news_id: 186395
+redirect_from: /news/186395
 ---
 
 En la reunión semanal entre autoridades del Instituto Mexicano del Seguro Social (IMSS) con madres y padres de pacientes pediátricos oncológicos, autoridades de la institución se comprometieron a garantizar el suministro de medicamentos para brindar un servicio oportuno y de calidad a los menores.

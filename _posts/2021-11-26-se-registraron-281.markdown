@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 aumentó a 8 mil 326 casos (+18) y las nuevas defunciones se registraron en los municipios de Juárez (+3), Chihuahua (+7), Parral (+1), Delicias (+2), NCG (+1), Bocoyna (+2), Julimes (+1) y Uruachi (+1). "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registraron 281 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 190247
+redirect_from: /news/190247
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 26 de noviembre el reporte COVID-19, en el cual se registran        85 mil 301 (+281) personas confirmadas en la entidad por este padecimiento, 72 mil 720 (+109) casos recuperados, 80 mil 346 (+361) descartados y 1,020 (+56) casos sospechosos.

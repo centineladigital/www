@@ -13,12 +13,12 @@ tags:
 author: nil
 description: " En Chihuahua capital se esperan máximas de 38, en Juárez de 38 a 40, Ojinaga hasta 43, Delicias 40, en Janos 38 y lugares más frescos como Madera, hasta 33, Temósachic 35, Cuauhtémoc 33, y Parral 35 °C; revisa aquí las recomendaciones"
 image: "/uploads/2021/images-Cartel_alerta_temperaturas_2021-06-09_at_10.17.07.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Protección Civil aviso preventivo por altas temperaturas para los próximos días"
 front: false
 section: "Local"
-news_id: 184947
+redirect_from: /news/184947
 ---
 
 La Coordinación Estatal de Protección Civil emitió un aviso preventivo por temperaturas que oscilarán entre los 33 hasta los 43 grados centígrados en las diversas regiones durante para los próximos días, incluido el fin de semana.

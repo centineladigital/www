@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La institución recomienda realizarse estos estudios al menos una vez al año pues el diagnóstico oportuno incrementa la esperanza de vida"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza Pensiones Civiles del Estado la prueba del VIH y hepatitis C"
 front: false
 section: "Local"
-news_id: 190425
+redirect_from: /news/190425
 ---
 
 En el Día Mundial de la Lucha contra el Sida, que se conmemora el primero de diciembre, Pensiones Civiles del Estado (PCE) realiza la prueba rápida del VIH y Hepatitis C a público en general y derechohabientes.

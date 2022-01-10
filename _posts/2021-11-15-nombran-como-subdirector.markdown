@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Juan Manuel Morales fue nombrado por el alcalde Marco Bonilla como el nuevo titular de esta institución"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nombran como Subdirector de Bomberos a elemento con 22 años de servicio"
 front: false
 section: "Local"
-news_id: 189830
+redirect_from: /news/189830
 ---
 
 Juan Manuel Morales Alvarado, bombero de academia de 44 años de edad y quien la mitad de su vida ha pertenecido al H. Cuerpo de Bomberos del Municipio, será quien a partir de ahora encabece y represente a los más de 180 elementos que estarán bajo su cuidado y sus órdenes.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este jueves, una jueza accedió al pedido de uno de los abogados del actor Pablo Lyle y postergó el inicio del juicio para que prepare su defensa. "
 image: "/uploads/2021/images-pablo-lyle-acusado-presunto-homicidio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡El proceso por homicidio continúa! Aplazan juicio de Pablo Lyle hasta junio"
 front: false
 section: "Espectáculos"
-news_id: 183266
+redirect_from: /news/183266
 ---
 
 Desde 2019, Pablo Lyle enfrenta un proceso legal por el presunto homicidio de Juan Ricardo Hernández, un hombre cubano con quien tuvo una discusión en plena vía pública. El juicio para determinar qué pasará con el actor se tuvo que retrasar a causa de la pandemia de covid-19 y la idea era que este mes se llevara a cabo el dictamen. Sin embargo, este jueves, la jueza Marlene Fernández-Karavetsos accedió al pedido del abogado del famoso, Bruce Lehr, y postergó el inicio del juicio del 15 de marzo al 7 de junio, tentativamente, para que prepare su defensa. 

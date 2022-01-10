@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El mandatario hizo un llamado a los jueces y magistrados a no permitir la corrupción y a buscar un cambio en la estructura. "
 image: "/uploads/2021/images-lopez-obrador-ejecutivo-haga-reforma_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO pide al Poder Judicial proponer su propia reforma"
 front: false
 section: "Nacional"
-news_id: 187905
+redirect_from: /news/187905
 ---
 
 El presidente Andrés Manuel López Obrador llamó al Poder Judicial a que sea éste el que tome la bandera de su propia reforma, al señalar que no será el Ejecutivo el que intervenga en ella. 

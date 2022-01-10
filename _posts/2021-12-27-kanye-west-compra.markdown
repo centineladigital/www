@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pese al costo por debajo de los 500 mil dólares, Kanye West ofreció 4.5 millones para asegurar quedarse con la propiedad frente a la mansión de Kim Kardashian."
 image: "/uploads/2021/images-kim-kardashian-kanye-west-separaron.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Kanye West compra casa frente a la mansión de Kim Kardashian"
 front: false
 section: "Espectáculos"
-news_id: 191237
+redirect_from: /news/191237
 ---
 
 La novela entre Kim Kardashian y Kanye West continúa, pues desde hace tiempo la pareja está en un proceso de separación en el que han mostrado la todavía gran amistad con la que cuentan en la crianza de sus cuatro hijos. Ahora, se reportó que el rapero de 44 años compró una casa cruzando la calle de la mansión de su ex pareja. 

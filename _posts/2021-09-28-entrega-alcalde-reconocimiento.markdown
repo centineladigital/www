@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En conjunto con el CAPPSI se brindaron talleres a los alumnos, padres de familia y docentes "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Entrega Alcalde reconocimiento al COBACH 8 por acciones para prevenir el suicidio"
 front: false
 section: "Local"
-news_id: 188155
+redirect_from: /news/188155
 ---
 
 El plantel número 8 del Colegio de Bachilleres de Chihuahua, recibió de manos del alcalde, Marco Bonilla Mendoza, el Distintivo Municipal de Salud Mental por su trabajo dentro del programa “Salud Mental en tu Escuela” donde participaron alumnos, padres y madres de familia, así como el personal docente.

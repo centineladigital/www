@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un brutal y violento avance muestra los orígenes de Vesemir, mentor de Geralt de Rivia, el cual debe enfrentarse a un temible y extraño nuevo monstruo  "
 image: "/uploads/2021/images-wolf.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mira aquí el tráiler de The Witcher -  La pesadilla del lobo, el origen de Vesemir"
 front: false
 section: "Espectáculos"
-news_id: 185904
+redirect_from: /news/185904
 ---
 
 Netflix lanza el tráiler de 'The Witcher: La pesadilla del lobo', la producción de animación con la que el universo basado en la saga literaria de Andrzej Sapkowski se expande con el estreno de esta película spin-off.

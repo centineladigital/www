@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el fin de que la ciudadanía pueda desechar la basura de gran tamaño que genera amontonamiento en las viviendas"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estará Destilichadero la próxima semana en Sol de Oriente, Pacífico y Francisco Villa"
 front: false
 section: "Local"
-news_id: 187218
+redirect_from: /news/187218
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos realiza labores del programa Destilichadero en distintas zonas de la ciudad, para brindar un espacio donde la ciudadanía pueda desechar la basurade gran tamaño que genera amontonamiento en las viviendas.

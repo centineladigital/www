@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Cuestionó las administraciones del Gobierno Estatal y del Municipio de Ciudad Juárez por ser consideradas las más violentas desde el año 2010"
 image: "/uploads/2021/images-fdgfgj.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AM02_MIGUEL_COLUNGA_MARTINEZ.mp3"
 alt: "Pide Colunga priorizar agenda de seguridad y acusa a corral y fiscal de concentrarse solo en elecciones"
 front: false
 section: "Local"
-news_id: 182454
+redirect_from: /news/182454
 ---
 
 El diputado local de Morena, Miguel Ángel Colunga Martínez exhortó a al Ejecutivo Estatal, a la Fiscalía General del Estado y a la Secretaría de Seguridad Pública Estatal para priorizar el tema de la mesa de seguridad en la agenda estatal, poniendo énfasis a los últimos acontecimientos en la Ciudad Juárez Chihuahua luego de asegurar que la agenda del Gobernador Estatal y del Fiscal General del Estado se han concentrado en las próximas elecciones.

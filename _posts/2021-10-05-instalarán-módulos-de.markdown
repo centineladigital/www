@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se pretende fomentar y facilitar la denuncia ciudadana para lograr mejor combate a delitos "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-05_at_11.03.12.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-10-05_at_11.04.59.mpeg"
 alt: "Instalarán módulos de la FGE en las comandancias de la Policía Municipal"
 front: false
 section: "Local"
-news_id: 188382
+redirect_from: /news/188382
 ---
 
 Con el fin de ampliar la estrategia de acercamiento con la comunidad y generar una mayor confianza que fomente la denuncia ciudadana, el Gobierno Municipal, a través de la Dirección de Seguridad Pública llevará a cabo la instalación de módulos del Ministerio Público en las comandancias norte y sur.

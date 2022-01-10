@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Participan 4,038 aspirantes para preescolar, primaria, secundaria, educación física, educación especial, educación indígena, para adultos, inicial y telesecundaria para el ciclo escolar 2021-2022"
 image: "/uploads/2021/images-usicamm.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aplica Educación valoración para admisión docente en educación básica este 12 de junio"
 front: false
 section: "Local"
-news_id: 184972
+redirect_from: /news/184972
 ---
 
 La Secretaría de Educación y Deporte (SEyD) a través de la Unidad del Sistema para la Carrera de las Maestras y los Maestros (Usicamm) llevará a cabo de manera virtual, el próximo sábado 12 de junio de 2021, la aplicación de los Instrumentos  de Valoración del Sistema de Apreciación de Conocimientos y Aptitudes del Proceso de Selección para la Admisión en Educación Básica para el ciclo escolar 2021-2022.

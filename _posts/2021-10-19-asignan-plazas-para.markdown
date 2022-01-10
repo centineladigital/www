@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se ofertaron 194 vacantes tanto definitivas como temporales en niveles de Preescolar, Primaria, Secundaria y Educación Física de ambos subsistemas  "
 image: "/uploads/2021/images-US4.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asignan plazas para la Admisión a Educación Básica"
 front: false
 section: "Local"
-news_id: 188913
+redirect_from: /news/188913
 ---
 
 La Secretaría de Educación y Deporte (SEyD), a través de la Unidad del Sistema para la Carrera de las Maestras y los Maestros (Usicamm), llevó a cabo la tercera ronda de asignación de plazas del Proceso de Admisión 2021-2022 en Educación Básica.

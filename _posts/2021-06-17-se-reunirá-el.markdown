@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El mandatario de Chihuahua había anticipado que se esperaba una reunión en la Ciudad de México para dar seguimiento a la solicitud de recursos financieros hechos a través de la Secretaría de Hacienda"
 image: "/uploads/2021/images-Gobernador_Javier_Corral_y_el_presidente_Andrés_Manuel_López_Obrador.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reunirá el Gobernador Javier Corral con el Presidente de México la próxima semana"
 front: false
 section: "Local"
-news_id: 185083
+redirect_from: /news/185083
 ---
 
 El gobernador de Chihuahua, Javier Corral Jurado, se reunirá la próxima semana con el presidente de México, Andrés Manuel López Obrador.

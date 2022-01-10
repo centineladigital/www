@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "A pesar de perder en el partido de vuelta y empatar en el global, el Atlas avanzó a la final por su posición en la tabla"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atlas es finalista del Apertura 2021; eliminan a Pumas"
 front: false
 section: "Deportes"
-news_id: 190531
+redirect_from: /news/190531
 ---
 
 Sólo una noche histórica podía tener un cierre dramático. Lo que se vivió en el Estadio Jalisco fue una fiesta que jamás se olvidará. "A lo Atlas", no había otra forma. Mucho tiempo se habló unicamente de los "Niños Héroes" de Ricardo Antonio La Volpe. Hoy, la Furia de Diego Cocca pasó a la historia.

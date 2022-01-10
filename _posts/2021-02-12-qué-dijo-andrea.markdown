@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante la emisión matutina del programa Hoy de Televisa, Andrea Legarreta se dejó llevar por el calor del momento y en plena transmisión en vivo dijo una palabra considerada como impropia para un horario familiar. ¿Qué grosería dijo? "
 image: "/uploads/2021/images-andrea-legarreta-comete-error-programa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Qué dijo? Andrea Legarreta comete error en 'Hoy'; lanza grosería en pleno programa en vivo"
 front: false
 section: "Espectáculos"
-news_id: 182902
+redirect_from: /news/182902
 ---
 
 Nada se puede prevenir durante una grabación en vivo de un programa de televisión. En repetidas ocasiones hemos visto que conductores viven incómodos momentos mientras están entregados en su trabajo. Así le sucedió a Andrea Legarreta, quien en pleno programa Hoy cometió un pequeño error por el calor del momento. A la famosa presentadora de televisión se le salió una grosería. ¿Qué fue lo que dijo? 

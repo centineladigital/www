@@ -10,11 +10,11 @@ author: nil
 description: "La empresa Aras tiene un total de 214 denuncias, mientras que Fibra Millennium cuenta con 174."
 image: "/uploads/2021/images-CARLOS_MARIO.jpg"
 video: "/uploads/2021/videos-MM01_CARLOS_MARIO.mp4"
-audio: "nil"
+audio: nil
 alt: "Acumulan 388 denuncias contra fraude de inversoras"
 front: false
 section: "Local"
-news_id: 190117
+redirect_from: /news/190117
 ---
 
 Un total de 388 denuncias se han acumulado en contra de las inversoras Aras y Fibra Milenium, señaló el Fiscal Zona Centro Carlos Mario Jiménez Holguín.  Quien destacó que la empresa Aras tiene un total de 214 denuncias, mientras que Fibra Millennium cuenta con 174.

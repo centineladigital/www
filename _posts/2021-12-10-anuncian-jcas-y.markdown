@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El COTAS facilitará los acuerdos y coordinación para lograr la sustentabilidad hídrica de la región central del Estado de Chihuahua   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncian JCAS y CONAGUA conformación del Comité Técnico de Agua Subterránea de Chihuahua"
 front: false
 section: "Local"
-news_id: 190735
+redirect_from: /news/190735
 ---
 
 Con el propósito de facilitar los acuerdos y coordinación que contribuyan a lograr la sustentabilidad hídrica de la región central del Estado de Chihuahua, la Junta Central de Agua y Saneamiento (JCAS) y la Comisión Nacional del Agua (CONAGUA) llevarán a cabo la convocatoria la constitución del Comité Técnico de Agua Subterránea de la zona metropolitana de Chihuahua (COTAS).

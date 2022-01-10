@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El mandatario reiteró su propuesta para hacer una renovación de los organismos electoral, garantizando la independencia y justicia "
 image: "/uploads/2021/images-lopez-obrador-julio-conferencia-mananera-1_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“No les va a gustar”, dice AMLO sobre reforma electoral"
 front: false
 section: "Nacional"
-news_id: 186054
+redirect_from: /news/186054
 ---
 
 El Presidente Andrés Manuel López Obrador reiteró su propuesta de prestar una iniciativa de reforma electoral para renovar el sistema, y aunque reconoció que es necesaria, señaló que a sus adversarios “no les va a gustar mucho”.

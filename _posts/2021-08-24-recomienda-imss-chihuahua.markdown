@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con simples hábitos se pueden evitar enfermedades cardiovasculares "
 image: "/uploads/2021/images-Foto_3808-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recomienda IMSS Chihuahua dieta saludable y baja en grasas para mantener un corazón saludable "
 front: false
 section: "Local"
-news_id: 187046
+redirect_from: /news/187046
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua a través de la Jefatura de Prestaciones Médicas, invita a la población a tener hábitos saludables para mantener en buen estado el corazón, que es de los órganos más importantes del organismo.

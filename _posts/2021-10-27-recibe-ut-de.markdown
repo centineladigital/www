@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Será de gran utilidad para estudiantes de Manejo Forestal Sustentable, Agricultura Sustentable y Protegida y Tecnología Ambiental"
 image: "/uploads/2021/images-UTT_9080.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recibe UT de la Tarahumara equipo geodésico donado por INEGI"
 front: false
 section: "Local"
-news_id: 189262
+redirect_from: /news/189262
 ---
 
 La Universidad Tecnológica de la Tarahumara (UTT) recibió equipo geodésico donado por el Instituto Nacional de Estadística y Geografía (INEGI), que será de gran beneficio para los programas académicos que se imparten en esta institución educativa.

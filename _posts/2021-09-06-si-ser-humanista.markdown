@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente hizo un llamado a los jóvenes para que vayan tomando conciencia y no se dejen manipular por movimientos racistas y clasistas"
 image: "/uploads/2021/images-presidente-cuestiono-definicion-comunismo-usado_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Si ser humanista es ser comunista, que me apunten en la lista”, dice AMLO"
 front: false
 section: "Nacional"
-news_id: 187447
+redirect_from: /news/187447
 ---
 
 El presidente Andrés Manuel López Obrador respondió a las críticas del líder del partido de ultraderecha español VOX, Santiago Abascal, quien recientemente se reunió con senadores del PAN para firmar una carta contra “el avance del comunismo”. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La dependencia estatal da a conocer que los municipios con mayores probabilidades son Moris, Uruachi, Morelos, Guadalupe y Calvo, Janos, Casas Grandes, Madera, Temósachic, Ocampo, Chínipas, Guazapares, Urique y Guachochi; en Ciudad Juárez serían de aisladas a dispersas  "
 image: "/uploads/2021/images-LLUVIAS_EN_EL_ESTADO_JULIO_2021_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se prevén lluvias fuertes en la región serrana lunes y martes -  Protección Civil"
 front: false
 section: "Local"
-news_id: 186010
+redirect_from: /news/186010
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que para este lunes 26 de julio se prevén lluvias de moderadas a fuertes (25.1 a 50 mm) en la región occidente y suroeste del estado, principalmente en los municipios de Moris, Uruachi, Morelos y Guadalupe y Calvo.

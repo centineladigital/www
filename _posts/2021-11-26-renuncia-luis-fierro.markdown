@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que decisión fue tomada por amor a la universidad."
 image: "/uploads/2021/images-rector.jpg"
 video: "/uploads/2021/videos-MV01_LUIS_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Renuncia Luis Fierro a la UACH"
 front: false
 section: "Local"
-news_id: 190253
+redirect_from: /news/190253
 ---
 
 El rector de la Universidad Autónoma de Chihuahua, Luis Fierro Ramírez, presentó este viernes su renuncia como el titular de la máxima casa de estudios de Chihuahua. Esto dentro de la sesión del consejo universitario, quién nombró como sucesor a Jesús Villalobos Jión.

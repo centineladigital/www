@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Lo han hecho muy bien, por lo que la recuperación será mejor a comparación de lo que la oposición política señala."
 image: "/uploads/2021/images-WEWEGE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AW02_ULISES_SOTO.mp3"
 alt: "Cree Ulises Soto que recuperación económica ca por buen camino "
 front: false
 section: "Local"
-news_id: 184548
+redirect_from: /news/184548
 ---
 
 El diputado federal de Morena, Ulises García señaló que no cree que México vaya a durar años en recuperar su economía como lo señalan algunas voces desde la oposición, por ello, destacó que van por el buen camino y en un par de meses se verán reflejados los resultados.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Dirección General de Gobierno del Estado confirmó que, los espacios se garantice utilizar cubrebocas entre otras medidas"
 image: "/uploads/2021/images-salonesbettoo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Autorizan operación de salones y granjas con medidas sanitarias"
 front: false
 section: "Local"
-news_id: 183950
+redirect_from: /news/183950
 ---
 
 Salones de eventos y granjas pueden operar en la Región Chihuahua, siempre y cuando cumplan con las medidas para prevenir contagios de Covid-19, informó la Dirección General de Gobierno del Estado.

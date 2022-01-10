@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se espera la participación de 150 investigadores de todo el país"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncian UACH-SIDE el 26 Encuentro Nacional Sobre Desarrollo Regional en México"
 front: false
 section: "Local"
-news_id: 189509
+redirect_from: /news/189509
 ---
 
 Con la finalidad de promover la recuperación trasformadora de los territorios con equidad y sostenibilidad, la Universidad Autónoma de Chihuahua a través de la Facultad de Ciencias Agrotecnológicas y en coordinación con la Secretaría de Innovación y Desarrollo Económico de Gobierno del Estado, se realizará el 26 Encuentro Nacional Sobre Desarrollo Regional en México, AMECIDER 2021, del 8 al 12 de noviembre.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se llevará a cabo hasta el próximo viernes 16 de julio, en un horario de 8:00 a 18:00 horas. "
 image: "/uploads/2021/images-Foto_3283-6.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS Chihuahua aplica primera y segunda dosis de vacuna contra COVID-19 en 10 municipios del estado "
 front: false
 section: "Local"
-news_id: 185616
+redirect_from: /news/185616
 ---
 
 Dentro de la política de colaboración interinstitucional, personal de enfermería y médico, de las diferentes unidades médicas del Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, participa de manera activa en la aplicación de primera y segundas dosis de vacunación contra COVID-19 en 10 municipios de la entidad. 

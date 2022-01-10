@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista con ‘De Primera Mano’, Ari Borovoy decidió romper el silencio sobre las recientes acusaciones que hizo Edith Márquez sobre el trabajar con Bobo Producciones."
 image: "/uploads/2021/images-ari-borovoy-exige-edith-marquez.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Que no diga nada -  Ari Borovoy arremete contra Edith Márquez tras decir que fue 'desagradable' trabajar con él"
 front: false
 section: "Espectáculos"
-news_id: 190234
+redirect_from: /news/190234
 ---
 
 Ari Borovoy, famoso productor e integrante de OV7, arremetió en contra de la cantante Edith Márquez, luego de que la famosa asegurara que fue “desagradable” trabajar con Bobo Producciones. ¿La empresa de Ari Borovoy no da buen servicio? ¿Qué piensa el integrante de OV7 sobre Edith Márquez? Te contamos lo que respondió el cantante sobre las recientes declaraciones que hizo Edith Márquez. En entrevista con ‘De Primera Mano’, Ari Borovoy decidió romper el silencio sobre las recientes acusaciones que hizo Edith Márquez sobre el trabajar con Bobo Producciones. Y es que la intérprete dijo que trabajar con ellos fue lo más desagradable que le pudo pasar. 

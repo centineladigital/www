@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Del 14 de enero al 23 de febrero, todos los martes y jueves a partir de las 5 de la tarde, las y los jóvenes podrán volver a disfrutar de las actividades virtuales que se desarrollaron en 2020"
 image: "/uploads/2021/images-vuelvelo_Mesa_de_trabajo_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Retransmitirá Ichijuv por sus redes sociales  conciertos, conferencias, tutoriales y mesas panel"
 front: false
 section: "Local"
-news_id: 182062
+redirect_from: /news/182062
 ---
 
 Continuar brindado contenido formativo y recreativo para las juventudes, es uno de los objetivos del Instituto Chihuahuense de la Juventud (Ichijuv), motivo por el cual durante los meses de enero y febrero, retransmitirá a través de su página de Facebook, los mejores eventos virtuales del 2020, a partir de las 5 de la tarde.

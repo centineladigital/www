@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El festival Pal Norte reveló los artistas que se presentarán en la edición 2022 el próximo 1 y 2 de abril. "
 image: "/uploads/2021/images-revelan-artistas-estaran-pal-norte.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Maroon 5, The Strokes, Natanael Cano, Simple Plan y más! Pa'l Norte libera cartel de edición 2022"
 front: false
 section: "Espectáculos"
-news_id: 190366
+redirect_from: /news/190366
 ---
 
 Después de que hace unos días tuvo un éxito rotundo, Pal Norte de nueva cuenta nos vuelve a sorprender y compartió a través de sus redes sociales a todos los artistas que se presentarán el próximo 1 y 2 de abril en la próxima edición 2022. Por medio de las redes sociales oficiales del festival, por fin se reveló el line up que los asistentes a la edición 2022 podrán disfrutar y como era de esperarse, cuenta con grandes artistas y bandas. 

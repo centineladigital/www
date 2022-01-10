@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El exdelantero paraguayo, visitó la concentración del equipo de las Águilas, previo a su partido con los Tigres"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Salvador Cabañas y su emotivo regreso con el América"
 front: false
 section: "Deportes"
-news_id: 188895
+redirect_from: /news/188895
 ---
 
 Parece que fue ayer cuando Salvador Cabañas hacia goles y goles en el América. Una noche del 2010, en un bar de la Ciudad de México, un incidente terminó con su carrera, pero los recuerdos de lo que hizo con las Águilas quedan. Cabañas es referente del americanismo y como tal, cada vez que se aparece con las Águilas es motivo de alegría.

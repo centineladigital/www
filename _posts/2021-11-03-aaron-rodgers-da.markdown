@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Reportes indican que el quarterback de los Packers dio positivo a coronavirus, por lo que no estará presente para el duelo ante Kansas City. "
 image: "/uploads/2021/images-aaron-rodgers-quarterback-green-bay-1_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aaron Rodgers da positivo a covid-19, se pierde el partido ante Chiefs"
 front: false
 section: "Deportes"
-news_id: 189493
+redirect_from: /news/189493
 ---
 
 El quarterback de los Packers, Aaron Rodgers, dio positivo a covid-19 y se perderá la visita a los Chiefs de Kansas City el domingo, según versiones de los medios. 

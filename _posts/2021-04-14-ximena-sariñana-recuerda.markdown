@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ximena Sariñana recordó cómo surgió su amistad con Miguel Bosé y también el Cashi shin querer que cantó en una canción del español. "
 image: "/uploads/2021/images-cantante-conto-surgio-amistad-espanol_1_0_1046_649.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ximena Sariñana recuerda cómo surgió el 'Cashi shin querer' y su amistad con Miguel Bosé"
 front: false
 section: "Espectáculos"
-news_id: 183884
+redirect_from: /news/183884
 ---
 
 Hace algunos años Miguel Bosé relanzó algunas de sus canciones más exitosas entre ellas “Aire soy”, la cual canta a dueto con Ximena Sariñana. Sin duda, la nueva versión del tema tuvo mucho éxito, además que llamó la atención debido a que en una parte de la canción la cantante menciona la frase: “Cashi shin querer”. Debido a la frase que menciona Ximena Sariñana en la canción, muchas personas comenzaron a crear memes e incluso se volvió tendencia en Twitter. En una entrevista con el influencer Roberto Martínez, la cantante recordó cómo surgió el “Cashi shin querer”. 

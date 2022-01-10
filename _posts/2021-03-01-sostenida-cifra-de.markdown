@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Detectan 185 nuevos casos y se acreditó la muerte de 26 personas por causa de esta enfermedad."
 image: "/uploads/2021/images-GUMARO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML07_GUMARO_BARRIOS.mp4"
 alt: "Sostenida cifra de contagios -  Barrios"
 front: false
 section: "Local"
-news_id: 183215
+redirect_from: /news/183215
 ---
 
 Durante siete semanas se ha tenido un promedio sostenido de contagios por coronavirus, afirmó el titular del área de epidemiología en el Estado, Gumaro Barrios Gallegos. Esto al dar a conocer la actualización de los casos de personas que han dado positivo a la prueba de coronavirus, ya que en las últimas 24 horas dieron positivo a la prueba PCR 185 personas, mientras que se acreditó la muerte de 26 personas por causa de esta enfermedad.

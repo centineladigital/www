@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 se ascendió a la 8 mil 421 (+9), y se presentó en los municipios de Juárez (+7), Parral (+1) y Guadalupe y Calvo (+1)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 46 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 190587
+redirect_from: /news/190587
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 7 de diciembre el reporte COVID-19, en el cual se registran 87 mil 468 (+46) personas confirmadas en la entidad por este padecimiento, 74 mil 088 (+44) casos recuperados, 82 mil 847 (+54) descartados y 1,068

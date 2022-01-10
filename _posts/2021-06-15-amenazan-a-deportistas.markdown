@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Si infringen las normas anticovid, los atletas recibirían sanciones, establecieron los organizadores de los Juegos Olímpicos de Tokio"
 image: "/uploads/2021/images-2595323.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Amenazan a deportistas olímpicos -  multas o exclusión"
 front: false
 section: "Deportes"
-news_id: 185031
+redirect_from: /news/185031
 ---
 
 Los deportistas podrían sufrir sanciones económicas o ser expulsados de los Juegos de Tokio si infringen las medidas anticovid, en especial los test regulares y la obligación de llevar mascarilla, advirtieron los organizadores, al anunciar las normas actualizadas a 37 días de la cita olímpica.

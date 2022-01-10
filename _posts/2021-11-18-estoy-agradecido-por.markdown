@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En una breve aparición ante los medios, los mandatarios expresaron su gratitud al reunirse para discutir temas binacionales. "
 image: "/uploads/2021/images-presidente-ministro-canadiense-re-reunieron.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estoy agradecido por el liderazgo del Presidente de México, dice Trudeau en reunión bilateral"
 front: false
 section: "Internacional"
-news_id: 189956
+redirect_from: /news/189956
 ---
 
 El día de hoy, la Cumbre de los Tres Amigos dio inicio tras una pausa de 5 años, donde los líderes de las naciones norteamericanas no cumplieron con la tradicional reunión y así discutir temas de interés para la población. 

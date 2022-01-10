@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Oswaldo Silvas Carreón y Alán Manuel Ramírez, vocalistas de la agrupación sinaloense que vivió una “Hermosa Experiencia” en el Auditorio Nacional, comentaron su intención de seguir innovando en la música luego de su exitosa experiencia con Snoop Dogg."
 image: "/uploads/2021/images-la-agrupacion-se-presento-en.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Quieren innovar en la música! Banda MS busca colaborar con Bad Bunny y Daddy Yankee"
 front: false
 section: "Espectáculos"
-news_id: 190831
+redirect_from: /news/190831
 ---
 
 Minutos antes de presentarse en el Auditorio Nacional; los vocalistas Oswaldo Silvas Carreón y Alán Manuel Ramírez Salcido de Banda MS reiteraron su emoción por volver al foro de Reforma y su intención por seguir innovando en la música e incluso su anhelo por hacer mancuerna con Bad Bunny Daddy Yankee. “Estamos contentos y nerviosos de que el género regional mexicano se haya colado a recintos como estos (El Auditorio Nacional), porque hace 16 años que pasábamos por acá a las fiestas patronales y veíamos el tráfico que generaban los conciertos de Luis Miguel y artistas internacionales; soñábamos con poder estar en un recinto así; entonces, ahora que se ha materializado el sueño de estar no solo en el Auditorio Nacional una vez más y también en diversos escenarios es una gran felicidad”, comentó Oswaldo. 

@@ -20,11 +20,11 @@ author: nil
 description: "María Antonieta Pérez manifestó, que se debe hacer una investigación al respecto porque no es posible que se les prive de la libertad de expresión a los afectados de ARAS ya que el Congreso del Estado es la casa de todos"
 image: "/uploads/2021/images-20211130112617722-0-1868577.jpg"
 video: "/uploads/2021/videos-MARIA_PEREZ_BM04_.mp4"
-audio: "nil"
+audio: nil
 alt: "No se debe censurar la libertad de expresión "
 front: false
 section: "Local"
-news_id: 190361
+redirect_from: /news/190361
 ---
 
 La diputada María Antonieta Pérez Reyes , expuso una denuncia ante el pleno del Congreso del Estado, sobre la mala atención a las personas que fueron afectadas por la inversora  ARAS quienes intentaban llegar ante el pleno a presentar sus quejas  ya que se les comentó que si subían al la sala con pancartas iban a ser retirados del área legislativa.

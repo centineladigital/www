@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un grupo importante de seguidores se dio cita a un evento exclusivo de la prensa y desataron el caos"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Checo Pérez desata la locura de la afición mexicana"
 front: false
 section: "Deportes"
-news_id: 189466
+redirect_from: /news/189466
 ---
 
 Sergio “Checo” Pérez estuvo presente en el teatro Telcel para ofrecer una conferencia de prensa exclusivamente para los medios de comunicación este martes. 

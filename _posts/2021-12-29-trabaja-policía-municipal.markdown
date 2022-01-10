@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Buscan desarticular bandas que sustraen artículos entre su ropa, bolsos y carriolas   "
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabaja Policía Municipal y empresarios para erradicar el robo en comercios"
 front: false
 section: "Local"
-news_id: 191317
+redirect_from: /news/191317
 ---
 
 La Asociación Nacional de Tiendas de Autoservicio y Departamentales (ANTAD) y la Dirección de Seguridad Pública Municipal, trabajan para combatir el robo a comercios, conocido como “robo fardero”, el cual suele presentarse con mayor frecuencia en centros comerciales y tiendas de autoservicio de la ciudad, especialmente durante la temporada decembrina.

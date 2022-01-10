@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras más de seis meses comprometidos, Paris Hilton y Carter Reum llegaron al altar. La empresaria reveló el vestido que usó en este día tan especial. "
 image: "/uploads/2021/images-vestido-novia-diseno-oscar-renta.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Llegó al altar! Paris Hilton se casó con Carter Reum; así luce el elegante vestido que usó"
 front: false
 section: "Espectáculos"
-news_id: 189821
+redirect_from: /news/189821
 ---
 
 Desde hace unos meses Paris Hilton anunció que se había comprometido con su novio Carter Reum y aunque no había revelado la fecha en que llegaría al altar, la empresaria por fin dio a conocer que dio el sí y compartió algunas fotos de este día tan especial. Paris Hilton ha dado el "sí" a Carter Reum en los jardines de la mansión familiar de los Hilton en Bel-Air (Los Ángeles) que perteneció a su difunto abuelo Barron Hilton. A sus 40 años y tras tres intentos fallidos, la heredera del imperio hotelero se ha casado con Carter Reum con un diseño de Oscar de la Renta, según ha mostrado en su perfil de Instagram. 

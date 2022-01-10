@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Quesería Santa Regina es un negocio cien por ciento chihuahuense, ubicado en avenida de la Junta esquina con calle México"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan mural en Quesería Santa Regina"
 front: false
 section: "Local"
-news_id: 186171
+redirect_from: /news/186171
 ---
 
 El Municipio a través del Instituto de Cultura (ICM) y en colaboración con el grupo COMEX, realizó un mural más del programa “Murales en Familia” en esta ocasión para la Quesería Santa Regina de la familia Ruiz, mismos que participaron dentro del programa. 

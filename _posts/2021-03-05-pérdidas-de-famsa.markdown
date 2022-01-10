@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El año pasado presentó una pérdida neta por operaciones discontinuas por 11 mil 856 mdp, la cantidad estuvo muy por encima de los 703 mdp en pérdidas que registró el año pasado"
 image: "/uploads/2021/images-2539750.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pérdidas de Famsa se multiplicaron en un año"
 front: false
 section: "Nacional"
-news_id: 183289
+redirect_from: /news/183289
 ---
 
 De acuerdo con el último reporte financiero de Grupo Famsa, el año pasado presentó una pérdida neta por operaciones discontinuas, es decir, relacionada con la revocación de la licencia para operar Banco Ahorro Famsa, por 11 mil 856 millones de pesos, la cantidad estuvo muy por encima de los 703 millones de pesos en pérdidas que la empresa registró el año pasado.

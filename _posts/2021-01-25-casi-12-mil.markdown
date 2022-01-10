@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En 2020, el Instituto Chihuahuense de Educación para los Adultos suspendió las clases y asesorías presenciales ante la pandemia."
 image: "/uploads/2021/images-Certificado.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Casi 12 mil personas mayores de 15 años obtienen en el Ichea  su certificado de primaria o secundaria"
 front: false
 section: "Local"
-news_id: 182415
+redirect_from: /news/182415
 ---
 
 El Instituto Chihuahuense de Educación para los Adultos (Ichea) emitió en 2020 un total de 11 mil 744 certificados oficiales de educación básica (primaria o secundaria) a personas mayores de 15 años que cursaron sus estudios con el apoyo de este organismo descentralizado de la administración pública estatal.

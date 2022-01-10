@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Fuertes rachas de viento en las zonas norte, centro y sureste y bajas temperaturas; ingresará por el norte del país durante el domingo y se extenderá sobre el noreste del territorio este lunes y martes"
 image: "/uploads/2021/images-download.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Protección Civil Estatal Aviso preventivo por frente frío número 10"
 front: false
 section: "Local"
-news_id: 190055
+redirect_from: /news/190055
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) emitió un aviso preventivo ante el descenso de la temperatura para el próximo lunes, por la entrada del frente frio numero 10 a la entidad.

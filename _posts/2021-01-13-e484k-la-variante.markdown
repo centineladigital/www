@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La variante de covid-19 llamada E484K, detectada en Sudáfrica y Brasil, es la que más preocupa a los científicos por su impacto en la respuesta de las vacunas"
 image: "/uploads/2021/images-2511012.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "E484K -  la variante más preocupante por su posible resistencia a las vacunas"
 front: false
 section: "Internacional"
-news_id: 182090
+redirect_from: /news/182090
 ---
 
 Aunque la variante inglesa del covid-19 concentra ahora todas las miradas, los científicos están sobre todo preocupados por una mutación presente en otras versiones del virus, como las detectadas en Sudáfrica y Brasil, potencialmente capaz de volver menos eficaces las vacunas actuales.

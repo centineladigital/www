@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La complicada vida de Henry Orenstein lo llevó de escapar del Holocausto a convertirse en uno de los empresarios más influyentes de Estados Unidos."
 image: "/uploads/2021/images-creador-de-transformers-murio-a.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Henry Orenstein, creador de 'Transformers', a los 98 años"
 front: false
 section: "Espectáculos"
-news_id: 190947
+redirect_from: /news/190947
 ---
 
 Medios de Estados Unidos reportaron la muerte de Henry Orenstein, creador de los populares Transformers, a los 98 años.  El empresario de la industria de los juguetes falleció a los 98 años de edad en su casa en el estado de Nueva Jersey. 

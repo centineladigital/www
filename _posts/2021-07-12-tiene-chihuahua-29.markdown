@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ingresos por auditorías fiscales representan 11 mil 449 mdp adicionales; se realizaron 5 mil 900 auditorías, lo que significa una rentabilidad de $67.00 por cada peso invertido en sueldos y salarios de auditores."
 image: "/uploads/2021/images-Diapositiva6.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tiene Chihuahua 29 meses consecutivos en 1er. lugar nacional en fiscalización"
 front: false
 section: "Local"
-news_id: 185570
+redirect_from: /news/185570
 ---
 
 Durante 29 meses consecutivos, el estado de Chihuahua se mantiene en primer lugar nacional en materia de fiscalización, al pasar de 219 millones de pesos (mdp) que se cobraban en 2015 por auditorías fiscales, a 617 mdp en 2020.

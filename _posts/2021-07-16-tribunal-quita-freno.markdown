@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Revoca las suspensiones definitivas que mantenían detenida la entrada en vigor de la legislación en la materia; no se afecta a empresas privadas, de momento, argumenta."
 image: "/uploads/2021/images-56752984_303.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tribunal quita freno a la reforma eléctrica"
 front: false
 section: "Nacional"
-news_id: 185716
+redirect_from: /news/185716
 ---
 
 Un tribunal federal revocó las suspensiones definitivas concedidas por los jueces Juan Pablo Gómez Fierro y Rodrigo de la Peza que mantenían frenada la entrada en vigor de la reforma eléctrica impulsada por la actual administración federal.

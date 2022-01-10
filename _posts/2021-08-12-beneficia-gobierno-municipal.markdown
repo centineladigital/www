@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Gracias al Programa Proyectos Productivos 2021"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Beneficia Gobierno Municipal a 65 emprendedores de la zona rural"
 front: false
 section: "Local"
-news_id: 186627
+redirect_from: /news/186627
 ---
 
 Con una inversión de un millón 300 mil pesos se apoyó a 65 micro y pequeños empresarios rurales dentro del programa Proyectos Productivos 2021 para la zona rural, quienes recibieron cheques por un monto de hasta 20 mil pesos para hacer realidad su proyecto.

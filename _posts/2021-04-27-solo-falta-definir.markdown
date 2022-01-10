@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Son las últimas ciudades que se tiene que vacunar."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM03_WENDY_AVILA.mp3"
 alt: "Solo falta definir segundas dosis de vacunación de Chihuahua y Juárez"
 front: false
 section: "Local"
-news_id: 184143
+redirect_from: /news/184143
 ---
 
 Solamente falta definir las segunda dosis de vacunación de los municipios de Chihuahua y Juárez, según lo dio a conocer la Subdirectora de Medicina Preventiva y Promoción para la Salud, Wendy Avila Coronado.

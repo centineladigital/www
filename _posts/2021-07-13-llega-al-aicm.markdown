@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cargamento fue recibido por autoridades de Birmex, suman  22 millones 478 mil 235 dosis de esta farmacéutica. "
 image: "/uploads/2021/images-llega-lote-mil-dosis-pfizer.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llega al AICM nuevo lote con más de 290 mil dosis anticovid de Pfizer"
 front: false
 section: "Nacional"
-news_id: 185593
+redirect_from: /news/185593
 ---
 
 México recibió un nuevo cargamento con 296 mil 10 vacunas contra covid-19 de la farmacéutica Pfizer en la Terminal 1 del Aeropuerto Internacional de la Ciudad de México (AICM), como parte de las entregas semanales del gobierno federal para la estrategia de vacunación. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el marco del Día Mundial de la Educación Ambiental, en coordinación con la Red de Educadores Ambientales de Chihuahua y la Earth Day Network en México"
 image: "/uploads/2021/images-DIA_MUNDIAL_DE_LA_EDUCACION_AMBIENTAL_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Sedue a conferencia para crear conciencia,  conservar y proteger el medio ambiente"
 front: false
 section: "Local"
-news_id: 182289
+redirect_from: /news/182289
 ---
 
 La Secretaría de Desarrollo Urbano y Ecología (Sedue) invita al público en general a la conferencia “La Educación Ambiental en México” que se realizará el próximo martes 26 de enero, las 17:00 horas, a través de la plataforma Zoom,   en el marco de los festejos por el Día Mundial de la Educación Ambiental.

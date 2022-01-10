@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cinta se rodará en un periodo de 18 meses. "
 image: "/uploads/2021/images-pelicula-peaky-blinders-iniciara-rodaje_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Qué pasará con Thomas Shelby? 'Peaky Blinders' cerrará su historia con una película en 2023"
 front: false
 section: "Espectáculos"
-news_id: 188714
+redirect_from: /news/188714
 ---
 
 El mundo del exitoso programa de BBC y HBO Max, Peaky Blinders, concluirá después del largometraje que seguirá a su sexta y última temporada, confirmó este jueves el creador Steven Knight. Hablando en un panel del BFI London Film Festival sobre escritura en todos los géneros, Knight dijo que la temporada 6 está filmada y casi completamente editada. Actualmente está programada para lanzarse en primavera de 2022.

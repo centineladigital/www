@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Estiman una derrama económica superior a los 300 mil pesos"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invitan al Campeonato Estatal Sigamos Juntos en el Softbol; participarán cinco municipios"
 front: false
 section: "Local"
-news_id: 187152
+redirect_from: /news/187152
 ---
 
 El Gobierno Municipal de Chihuahua, a través del Instituto Municipal de Cultura Física y Deporte (IMCFD), presentó la séptima edición del Campeonato Estatal "Sigamos Juntos en el Softbol", que se realizará durante los días 27, 28 y 29 de agosto, con la presencia de cinco municipios invitados.

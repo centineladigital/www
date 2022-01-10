@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El certamen de belleza se realiza desde 1953, pero fue en 1991 cuando una concursante originaria de México se llevó la corona por primera vez. "
 image: "/uploads/2021/images-lupita-jones-ximena-navarrete-coronaron_88_0_1664_1035.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Quiénes son las mexicanas que fueron Miss Universo?"
 front: false
 section: "Espectáculos"
-news_id: 184476
+redirect_from: /news/184476
 ---
 
 En la década de los 50 nació Miss Universo, el certamen internacional en el que mujeres de todo el mundo buscan la corona cada año. Algunas de las participantes han hecho historia, como la finlandesa Armi Kuusela, quien fue la primera Miss Universo al ganar el concurso el 28 de junio de 1952, mientras tanto México tuvo que esperar poco más de 40 años para llevarse el título a casa por primera vez. 

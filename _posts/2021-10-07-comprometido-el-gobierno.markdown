@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se iluminó el Centro Histórico de verde, en conmemoración de esta condición a nivel mundial   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Comprometido el Gobierno Municipal en apoyar a chihuahuenses con parálisis cerebral"
 front: false
 section: "Local"
-news_id: 188469
+redirect_from: /news/188469
 ---
 
 El Gobierno Municipal, en conjunto con la Asociación Chihuahuense de Parálisis Cerebral y Trastornos Neuromotores (KOPAC), conmemoró el Día Mundial de la Parálisis Cerebral con la iluminación en color verde de la Presidencia Municipal, así como del edificio del Real, Edificio Comermex y la Plaza de Armas en el Centro Histórico. 

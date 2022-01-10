@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un temblor de magnitud 7.1 sacude costa este de Japón, en la región de Fukushima; reportes preliminares dan cuenta de varios heridos y apagones masivos en la zona"
 image: "/uploads/2021/images-2528868.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sismo sacude región japonesa de Fukushima; hay heridos y apagones"
 front: false
 section: "Internacional"
-news_id: 182911
+redirect_from: /news/182911
 ---
 
 Un sismo de magnitud 7.1 tuvo lugar este sábado por la noche ante la costa este de Japón y llegó a notarse en Tokio, aunque las autoridades no emitieron una alerta de tsunami.

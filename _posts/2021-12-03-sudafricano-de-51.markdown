@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El subsecretario de Salud, Hugo López Gatell, confirmó la informació"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sudafricano de 51 años, primer caso de ómicron en México"
 front: false
 section: "Nacional"
-news_id: 190459
+redirect_from: /news/190459
 ---
 
 La Dirección General de Epidemiología a través del Instituto de Diagnóstico y Referencia Epidemiológicos (InDRE), informó que hay un caso de la variante ómicron de Covid-19 en México.

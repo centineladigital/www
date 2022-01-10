@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El corredor de Cafés enfrentará por primera vez a KC, que lo cortó tras develarse que golpeó a una mujer"
 image: "/uploads/2021/images-2510955.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Regreso a Kansas City; Kareem Hunt fue un estelar y luego el gran villano"
 front: false
 section: "Deportes"
-news_id: 182091
+redirect_from: /news/182091
 ---
 
 Kareem Hunt enfrentará este domingo al equipo que le abrió las puertas de la NFL... y el que también se las cerró.

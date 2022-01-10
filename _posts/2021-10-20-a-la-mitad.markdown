@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "De diciembre de 2018 a septiembre de 2021, suman más de 100 mil 300 víctimas en el país, de las cuales 99 mil 569 son homicidios dolosos y más de 2 mil 800 feminicidios, según las estadísticas del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "A la mitad del sexenio de AMLO, México rebasa los 100 mil homicidios y feminicidios"
 front: false
 section: "Nacional"
-news_id: 188945
+redirect_from: /news/188945
 ---
 
 A un mes de que el presidente Andrés Manuel López Obrador cumpla la mitad de su sexenio, México rebasó las 100 mil víctimas de homicidio doloso y feminicidio, considerados delitos de alto impacto.

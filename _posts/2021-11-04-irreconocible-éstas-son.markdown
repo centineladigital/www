@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Matthew McConaughey es uno de los actores más famosos de Hollywood, no sólo por su capacidad actoral, si no por su compromiso a la hora de dar vida a los personajes, lo cual lo ha llevado a cambiar dramáticamente su aspecto físico en breves periodos. "
 image: "/uploads/2021/images-las-transformaciones-de-matthew-mcconaughey.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Irreconocible! Éstas son las transformaciones de Matthew McConaughey para sus películas"
 front: false
 section: "Espectáculos"
-news_id: 189542
+redirect_from: /news/189542
 ---
 
 Matthew McConaughey de 51 años, es uno de los rostros más conocidos de Hollywood, no sólo por las grandes interpretaciones que lo han hecho acreedor a múltiples nominaciones y galardones internaciones, si no por su camaleónica apariencia. Su capacidad de transformar su físico en poco tiempo es uno de los aspectos más destacables de su carrera. El estadunidense se ha sometido a entrenamientos y dietas rigurosas, ya sea para perder peso de forma extrema o para desarrollar una figura atlética.

@@ -12,11 +12,11 @@ author: nil
 description: "El fiscal ha dado un gran paso con esta detención: Ismael Pérez Pavía  "
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BJ03_PEREZ_PAVIA.mp4"
-audio: "nil"
+audio: nil
 alt: "La detención de La Changa, un paso importante para Chihuahua"
 front: false
 section: "Local"
-news_id: 188004
+redirect_from: /news/188004
 ---
 
 El diputado Pérez Pavía, declaró que es  de suma importancia para el pueblo de Chihuahua que se haya detenido al autor de la mayoría de los crímenes en el municipio de Cuauhtémoc Omar alias  “la changa”, compartió que es una acción muy importante del Gobierno del Estado en especial del Fiscal General Fernando  Fierro Duarte.

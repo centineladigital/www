@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "“Lo estoy disfrutando increíblemente, pero no voy a mentir, ha sido un reto tremendo que el primer año de tu disquera sea en medio de una pandemia; Ark Records como empresa tiene 11 años, como disquera formal tiene muy poco”, comentó. "
 image: "/uploads/2021/images-kalimba.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Kalimba apuesta a nuevos talentos en su disquera"
 front: false
 section: "Espectáculos"
-news_id: 183131
+redirect_from: /news/183131
 ---
 
 Emprender en pandemia ha sido uno de los retos más complicados para Kalimba, quien en el confinamiento por covid-19 busca impulsar su propio sello discográfico, Ark Records, con el que está lanzando talentos nacionales, a la par de su carrera como cantante. 

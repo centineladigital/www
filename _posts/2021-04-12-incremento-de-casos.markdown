@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solamente 36 casos detectados de contagios y 12 defunciones detectadas."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML06_WENDY_AVILA.mp3"
 alt: "Incremento de casos llevó a semáforo naranja"
 front: false
 section: "Local"
-news_id: 183837
+redirect_from: /news/183837
 ---
 
 “Si hay un aumento de casos” fueron las palabras de Wendy Avila Coronado, Subdirectora de Medicina Preventiva y Promoción de la Salud, al dar a conocer las cifras de actualización de coronavirus. Destacando que pese a que en las últimas 24 horas se detectaron solamente 36 nuevos casos que dieron positivo a PCR si se está registrando un incremento de casos tanto de contagiados como hospitalizados.

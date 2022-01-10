@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Durante meses el consejo, a cargo de María Elena Álvarez-Buylla, no entregó recursos al foro consultivo, pese al mandato de un juzgado; determina dar vista al Ministerio Público de la Federación"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Investiga FGR a titular del Conacyt por desacato judicial"
 front: false
 section: "Nacional"
-news_id: 188073
+redirect_from: /news/188073
 ---
 
 La Fiscalía General de la República (FGR) investiga a la directora del Consejo Nacional de Ciencia y Tecnología (Conacyt), María Elena Álvarez-Buylla, quien fue denunciada desde hace más de un año por desacato a un mandato judicial.

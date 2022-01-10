@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante señaló que los documentales sólo exponen opiniones de personas ajenas a su vida y hacen lo mismo que lo medios a los que supuestamente critican. "
 image: "/uploads/2021/images-britney-spears-instagram-3_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hipócritas -  Britney Spears 'explota' contra los nuevos documentales sobre ella"
 front: false
 section: "Espectáculos"
-news_id: 184293
+redirect_from: /news/184293
 ---
 
 Britney Spears se siente "profundamente halagada" por el interés que ha despertado últimamente su pasado en el mundo de la música, pero al mismo tiempo califica de "hipócritas" los documentales que se han elaborado sobre ella, esto en medio del proceso legal que enfrenta contra su padre, Jamie Spears, por su tutela. A la cinta estrenada por The New York Times en febrero, Framing Britney, se suma otro filme reciente de la BBC, The Battle for Britney: Fans, Cash and a Conservatorship, y otro proyecto en marcha en Netflix, a los que la cantante se refirió en sus redes sociales. 

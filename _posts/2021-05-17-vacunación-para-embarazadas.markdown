@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Encuentra aquí el día y la hora de acuerdo a la inicial de tu apellido"
 image: "/uploads/2021/images-campus4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vacunación para embarazadas y adultos de 50 y más inicia el 19 de mayo"
 front: false
 section: "Local"
-news_id: 184485
+redirect_from: /news/184485
 ---
 
 La Delegación Estatal de Programas para el Desarrollo del Gobierno Federal y la coordinación de salud para la vacunación en el estado de Chihuahua, informan que inicia la vacunación de la primera dosis para la población de 50 a 59 años, Mujeres embarazadas a partir de la novena semana de gestación y personas faltantes que por alguna razón no se hayan puesto la vacuna contra el Covid-19, y que cumplan con los requisitos de esta convocatoria, en la ciudad de Chihuahua del miércoles 19 al sábado 22 de mayo.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz confesó que ya no soportaba formar parte del reality de TV Azteca; además habló de su desencuentro con la chef Betty."
 image: "/uploads/2021/images-laura-flores-revela-planeo-eliminacion_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No puedo con esta prisión -  Laura Flores revela que planeó su salida de 'MasterChef México'"
 front: false
 section: "Espectáculos"
-news_id: 189428
+redirect_from: /news/189428
 ---
 
 MasterChef Celebrity ha mostrado una faceta de los famosos que muy pocos conocían: sus habilidades culinarias. Esta semana el programa se despidió de Jimena Pérez La Choco, pero días antes que ella fue expulsada Laura Flores -quien hasta el momento había sido una de las mejores en la cocina del reality-. La eliminación de la actriz sorprendió dado que era una de las aspirantes para llegar a la final; sin embargo, resulta que todo estaba planeado, así lo confesó la misma famosa.  La actriz compartió en una entrevista para el canal de YouTube Vaya Vaya que festejó su salida de MasterChef Celebrity e, incluso, cometió graves errores en su último platillo para provocar las malas críticas de los chefs, y por lo tanto forzar su expulsión, pues ya no quería formar parte del programa de TV Azteca.  

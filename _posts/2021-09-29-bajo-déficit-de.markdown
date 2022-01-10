@@ -10,11 +10,11 @@ author: nil
 description: "Trabajan en poder subsanar la falta de elementos."
 image: "/uploads/2021/images-LOYA.jpg"
 video: "/uploads/2021/videos-MW04_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Bajo déficit de elementos -  SSPE"
 front: false
 section: "Local"
-news_id: 188193
+redirect_from: /news/188193
 ---
 
 Como bajo calificó el titular de la Secretaría de Seguridad Pública Estatal el déficit que se tiene en materia de elementos, afirmando que se trabaja para llegar a los estándares estatales con el fin de salvaguardar la seguridad.

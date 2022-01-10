@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista para un podcast, Gavin O'Connor reveló la razón por la que abandonó el guión de 'The Suicide Squad'. "
 image: "/uploads/2021/images-squad.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Querían una comedia -  Guionista explica por qué dejó 'The Suicide Squad'"
 front: false
 section: "Espectáculos"
-news_id: 187695
+redirect_from: /news/187695
 ---
 
 'The Suicide Squad' (2021) se convirtió en una de las películas favoritas de muchos aficionados del Universo Extendido de DC, y es que después de la decepción que se llevaron muchos por la entrega de 2016, DC Films quiso hacer las cosas de forma diferente, pero esto no agradó a todos los involucrados con el proyecto, entre ellos, Gavin O'Connor. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Presencia permanente de personal de Policía Estatal en carreteras con operativo Centinela, Juntos por tu Seguridad"
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-26_at_3.40.51_PM_(4).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atiende Policía del Estado a accidentados en Bocoyna"
 front: false
 section: "Local"
-news_id: 191228
+redirect_from: /news/191228
 ---
 
 Elementos de la Secretaría de Seguridad Pública del Estado (SSPE) dieron los primeros auxilios a una persona que se vio involucrada en un percance vial al conducir en la carretera a Creel, municipio de Bocoyna.

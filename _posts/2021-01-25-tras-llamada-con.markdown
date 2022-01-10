@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras llamada con Putin, México avanza en adquisición de Sputnik V"
 image: "/uploads/2021/images-2517949.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tras llamada con Putin, México avanza en adquisición de Sputnik V"
 front: false
 section: "Nacional"
-news_id: 182406
+redirect_from: /news/182406
 ---
 
 El canciller Marcelo Ebrard califica como ‘exitosa’ la comunicación entre López Obrador y su homólogo ruso; afirma que el mandatario mexicano tiene buen ánimo

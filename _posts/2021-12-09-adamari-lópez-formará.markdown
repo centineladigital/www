@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Adamari López se mostró feliz al anunciar que este 12 de diciembre será parte del jurado de la edición 70 de Miss Universo. "
 image: "/uploads/2021/images-miss-universo-se-realizara-en.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Adamari López formará parte del jurado de Miss Universo 2021"
 front: false
 section: "Espectáculos"
-news_id: 190694
+redirect_from: /news/190694
 ---
 
 La edición número 70 de Miss Universo se realizará el próximo 12 de diciembre en Israel. Sin duda este certamen de belleza llama la atención, ya que de nueva cuenta el concurso se llevará a cabo fuera de Estados Unidos después de que por la pandemia por dos años se hizo en este país. Por si fuera poco, el poder latino se hace presente y Adamari López será parte del jurado. Fue a través de una historia en Instagram que Adamari López compartió la noticia y se mostró feliz de poder formar parte del jurado del certamen de belleza más importante del mundo. 

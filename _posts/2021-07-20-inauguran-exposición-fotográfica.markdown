@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La muestra “El rostro del autor” se presenta de manera gratuita sobre Paseo de la Reforma. "
 image: "/uploads/2021/images-la-exposicion-se-encuentra-sobre.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inauguran exposición fotográfica para honrar la labor de compositores"
 front: false
 section: "Espectáculos"
-news_id: 185829
+redirect_from: /news/185829
 ---
 
 Acompañados por miembros de “los herederos del catálogo de oro”, Martín Urieta, Roberto Cantoral Zucchi y la secretaria de cultura de Ciudad de México, Vanessa Bohórquez, realizaron la inauguración de la exposición fotográfica “El rostro del autor”. La muestra artística que se encarga de enaltecer el trabajo del compositor mexicano a través de la fotografía, estará abierta del 19 de julio al 29 de agosto. La galería, que se encuentra ubicada al aire libre sobre Paseo de la Reforma, entre la Calz. Mahatma Gandhi y el Museo Rufino Tamayo, tiene acceso gratuito. Entre sus más de 15 fotografías se pueden ver grandes figuras representativas de la música mexicana, como Martín Urieta, Aleks Syntek, Ema Elena Valdelamar, hasta Natalia Lafourcade, Leonel García y Alex Lora. 

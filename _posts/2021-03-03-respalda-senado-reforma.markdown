@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Donde obtuvo 68 votos a favor y 58 en contra, la cuál fue impulsada por el presidente Andrés Manuel López Obrador"
 image: "/uploads/2021/images-WhatsApp_Image_2021-03-02_at_8.30.30_PM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Respalda Senado reforma a la Ley de la Industria Eléctrica"
 front: false
 section: "Local"
-news_id: 183237
+redirect_from: /news/183237
 ---
 
 Luego de que las comisiones del Senado de la República, pasaron este día la Ley de la Industria Eléctrica para ser sometida a votación donde obtuvo 68 votos a favor y 58 en contra, la cuál fue impulsada por el presidente Andrés Manuel López Obrador.

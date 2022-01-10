@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El objetivo de esta sesión es sensibilizar y orientar a las y los asistentes sobre la prevención y atención a la violencia familiar y de género, desde una perspectiva que atienda a los derechos humanos  "
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Municipio a plática virtual para conocer más sobre la trata de personas"
 front: false
 section: "Local"
-news_id: 185948
+redirect_from: /news/185948
 ---
 
 El Instituto Municipal de las Mujeres (IMM), impartirá la plática “¿Sabes qué es la trata de personas? Abordaje básico del delito” el próximo viernes 30 de julio a las 9:30 horas vía Zoom.

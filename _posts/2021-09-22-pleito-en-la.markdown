@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A Saúl Álvarez podría salirle bastante caro el chistecito de liarse a golpes con el estadounidense Caleb Plant"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pleito en la conferencia de prensa, ¿pone en riesgo la pelea del 'Canelo' Álvarez?"
 front: false
 section: "Deportes"
-news_id: 187938
+redirect_from: /news/187938
 ---
 
 Aunque los reportes iniciales aseguran que no es una lesión de consideración, a Saúl Álvarez podría salirle bastante caro el chistecito de liarse a golpes con el estadounidense Caleb Plant durante la conferencia de prensa para presentar la pelea unificatoria del 6 de noviembre en Las Vegas.

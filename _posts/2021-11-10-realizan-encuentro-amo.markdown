@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se llevará a cabo en la ciudad de Chihuahua y Juárez."
 image: "/uploads/2021/images-A4.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_ALEJANDRA_ENRIQUEZ.mp4"
 alt: "Realizan encuentro “Amo los Libros”"
 front: false
 section: "Local"
-news_id: 189760
+redirect_from: /news/189760
 ---
 
 Con el nombre de "Amo los Libros" este miércoles fue dado a conocer una serie de actividades en Ciudad Juárez y Chihuahua con el fin de fomentar la lectura. Esto durante los días 12 y 13 de noviembre.

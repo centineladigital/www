@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Inmujeres le asigna dicha cantidad para fortalecer los programas de prevención y atención de la violencia, embarazo adolescente y de perspectiva de género.  "
 image: "/uploads/2021/images-_MG_7120.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ejercerá Ichmujeres presupuesto de más de 20.4 mdp  de recursos federales en 2021"
 front: false
 section: "Local"
-news_id: 185507
+redirect_from: /news/185507
 ---
 
 Durante este 2021, el Instituto Chihuahuense de las Mujeres (Ichmujeres) ejercerá 20 millones 494 mil 767 pesos de recursos otorgados por el Instituto Nacional de las Mujeres (Inmujeres) que se destinarán al fortalecimiento de proyectos de perspectiva de género, prevención, atención y erradicación de la violencia contra las mujeres, y del embarazo infantil y en adolescentes.

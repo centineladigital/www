@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de redes sociales en donde J Balvin cometió el error virtual. Y es que el reguetonero comentó una imagen de su pareja, la modelo Valentina Ferrer en donde aparecía luciendo su espectacular figura en bikini. "
 image: "/uploads/2021/images-critican-balvin-pedirle-valentina-ferrer.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tóxico -  Critican a J Balvin por petición a su pareja Valentina Ferrer en foto en bikini; lo tachan de machista"
 front: false
 section: "Espectáculos"
-news_id: 190111
+redirect_from: /news/190111
 ---
 
 J Balvin, famoso cantante de reguetón, vivió la polémica virtual una vez más. ¿Qué hizo el cantante? Resulta que todo empezó después de que el intérprete de ‘Mi Gente’ comentó una fotografía de su pareja y madre de su bebé: la modelo Valentina Ferrer. El cantante cuestionó si no había una foto con más ropa, pues la modelo estaba en bikini, por lo que las redes se incendiaron en su contra y lo tacharon de “machista”. ¿Cómo reaccionó? ¿Se disculpó? Te contamos lo que sucedió. Fue a través de redes sociales en donde J Balvin cometió el error virtual. Y es que el reguetonero comentó una imagen de su pareja, la modelo Valentina Ferrer en donde aparecía luciendo su espectacular figura en bikini.

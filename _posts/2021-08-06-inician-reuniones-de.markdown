@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esta es la primera reunión con Jesús Mesta Fitzmaurice."
 image: "/uploads/2021/images-LS1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV04_LUIS_SERRATO.mp4"
 alt: "Inician reuniones de Gabinete  "
 front: false
 section: "Local"
-news_id: 186406
+redirect_from: /news/186406
 ---
 
 Este viernes con el titular de la Coordinación Ejecutiva de Gabinete, Jesús Mesta Fitzmaurice, recibió a la comitiva encabezada por Luis Serrato Castel, con el fin de iniciar con el trabajo de entrega-recepción en esta área.

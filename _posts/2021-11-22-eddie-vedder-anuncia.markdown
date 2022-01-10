@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Del disco, cuya preventa ya está activa, pueden escucharse ya dos temas en plataformas digitales: The Haves y Long Way. "
 image: "/uploads/2021/images-eddie-vedder-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Eddie Vedder anuncia el lanzamiento de 'Earthling', su nuevo disco"
 front: false
 section: "Espectáculos"
-news_id: 190077
+redirect_from: /news/190077
 ---
 
 Eddie Vedder, vocalista y compositor de la célebre banda Pearl Jam, publicará el próximo 11 de febrero un nuevo disco de estudio en solitario titulado Earthling, según ha anunciado su discográfica. Producido por el galardonado con un Grammy Andrew Watt, será el primer álbum firmado a solas por el artista estadunidense desde su trabajo de 2011, Ukulele Songs. 

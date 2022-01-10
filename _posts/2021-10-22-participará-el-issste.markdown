@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Instalará módulos a lo largo de las comunidades indígenas de las culturas totonaca, otomí y náhuatl de los estados de Veracruz, Puebla, Tlaxcala y el Estado de México, que contempla la carrera de relevos.   "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-22_at_2.25.00_PM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participará el ISSSTE en la ruta del pescado de moctezuma"
 front: false
 section: "Local"
-news_id: 189106
+redirect_from: /news/189106
 ---
 
 El Instituto de Seguridad y Servicios Sociales de los Trabajadores (ISSSTE) participará el 5 y 6 de noviembre próximos, en la segunda edición de la Ruta del Pescado de Moctezuma, que organiza la Secretaría de Turismo, con el objetivo de impulsar el programa “3x1: 3 por mi salud” que busca concientizar a la población sobre la responsabilidad de cuidar su bienestar físico y evitar enfermedades crónicas como la hipertensión, diabetes, obesidad y padecimientos renales que registran un incremento en todo el país.

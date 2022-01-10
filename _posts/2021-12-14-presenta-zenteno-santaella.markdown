@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En conjunto se dará seguimiento a la instrucción del presidente de implementar servicio universal de salud"
 image: "/uploads/2021/images-ISSSTE_03.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presenta Zenteno Santaella a secretario de Salud estrategia para consolidar la transformación del ISSSTE"
 front: false
 section: "Local"
-news_id: 190827
+redirect_from: /news/190827
 ---
 
 El director general del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Issste), Pedro Zenteno Santaella, se reunió con el secretario de Salud, Jorge Alcocer Varela, para presentar la estrategia de transformación del organismo que consiste en mejorar la infraestructura, equipamiento, recuperar los servicios integrales y humanizar el trato a 13.5 millones de derechohabientes.

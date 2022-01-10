@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 asciende a 8 mil 055 y los 9 casos que se suman a la estadística corresponden a los municipios de Chihuahua (+2), Parral (+1), Cuauhtémoc (+6). "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 97 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 188747
+redirect_from: /news/188747
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 14 de octubre el reporte COVID-19, en el cual se registran 79 mil 488 casos confirmados de COVID-19, 68 mil 596 (+44) casos recuperados, 71 mil 687 (+207) descartados y 791 (+4) casos sospechosos.

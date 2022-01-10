@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de su cuenta de Instagram en donde Tania Ruiz pidió no ser juzgada. Esto luego de que se volviera tema de conversación al ser captada con el ex mandatario Peña Nieto en Roma."
 image: "/uploads/2021/images-tania-ruiz-pide-juzgada-polemico.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No sabes lo que he sufrido -  Tania Ruiz reacciona tras polémico video con Peña Nieto en Roma; pide no ser juzgada"
 front: false
 section: "Espectáculos"
-news_id: 189177
+redirect_from: /news/189177
 ---
 
 Tania Ruiz, modelo y actual pareja del ex presidente de México Enrique Peña Nieto, rompió el silencio tras la polémica que se generó este fin de semana, luego de que ambos fueran captados por las calles Roma, Italia, y de que una mujer no dudara en gritarle ‘ratero’ al ex mandatario priista. La famosa pidió que dejen de juzgarla, pues nadie sabe lo que ha sufrido. Fue a través de su cuenta de Instagram en donde Tania Ruiz pidió no ser juzgada. Esto luego de que se volviera tema de conversación al ser captada con el ex mandatario Peña Nieto en Roma. 

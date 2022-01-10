@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solo 4 por ciento de la población esta vacunada."
 image: "/uploads/2021/images-PACO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03_PACO_NAVARRO.mp3"
 alt: "Gobierno debe exigir a la federación celeridad en las vacunas"
 front: false
 section: "Local"
-news_id: 184221
+redirect_from: /news/184221
 ---
 
 “Le mandaría un mensaje mejora al secretario de salud a que nos pongamos a trabajar” fueron las palabras del Dirigente del PAN estatal, Francisco Navarro Pastrana, al ser cuestionado respecto a los señalamientos del titular de la Secretaría de Salud que ha pedido a los partidos que atiendan a las medidas de salud, ya que de no seguirse serán más estrictos.

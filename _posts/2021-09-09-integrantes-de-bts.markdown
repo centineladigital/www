@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El debate sobre si el grupo de K-pop debería ser exonerado del servicio militar continúa y mantiene en alerta al ARMY; estas son las últimas noticias del tema. "
 image: "/uploads/2021/images-bts.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Integrantes de BTS deberán hacer servicio el militar? Esto sabemos"
 front: false
 section: "Espectáculos"
-news_id: 187577
+redirect_from: /news/187577
 ---
 
 ¿Los artistas de BTS serán exonerados del servicio militar?, es la pregunta que inunda las redes sociales y mantiene en incertidumbre al ARMY, la legión de fans que apoya y sigue sin descanso a la banda de K-pop. El debate resurgió meses después de que se pusiera sobre la mesa un proyecto de ley que apoyaría a los cantantes a aplazar cumplimiento de dicho mandato. Más que un grupo musical, BTS se convirtió en un fenómeno mundial, por lo que realizar su servicio militar significaría posponer por alrededor de dos años su carrera, lo que mantiene en alerta al ARMY. Este jueves el tema volvió a discusión; aquí te contamos las últimas noticias. 

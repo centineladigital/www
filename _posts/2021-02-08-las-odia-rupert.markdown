@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor reveló que no terminó de ver la saga de 'Harry Potter', ¿cuáles son los motivos? Aquí te contamos lo que dijo. "
 image: "/uploads/2021/images-rupert-grint-interpreto-ron-weasley_0_54_749_466.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Las odia? Rupert Grint confiesa no haber visto todas las películas de 'Harry Potter'"
 front: false
 section: "Espectáculos"
-news_id: 182771
+redirect_from: /news/182771
 ---
 
 Harry Potter se convirtió en un fenómeno del cine desde el estreno de su primera entrega La piedra filosofal, pero al parecer no todos han podido disfrutar de la exitosa saga. Lo que más sorprendió a los fans es que fue el mismo Rupert Grint, actor que interpretó a Ron Weasley, quien reveló que no ha visto todas las películas basadas en la obra de J. K. Rowling.  

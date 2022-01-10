@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Presidenta Municipal, externó que este tipo de asambleas enriquecen enormemente el quehacer de las administraciones"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Clausura Alcaldesa los trabajos de la Asamblea Nacional de la AMIMP  "
 front: false
 section: "Local"
-news_id: 186842
+redirect_from: /news/186842
 ---
 
 La alcaldesa de Chihuahua María Angélica Granados Trespalacios, llevó a cabo la declaratoria de clausura de los trabajos de la Asamblea Nacional de la Asociación Mexicana de Institutos Municipales de Planeación (AMIMP), organismo que representa y asume los intereses comunes de 60 Institutos Municipales de Planeación (IMPLANES).

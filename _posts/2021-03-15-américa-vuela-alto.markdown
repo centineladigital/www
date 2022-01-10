@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con un doblete de Henry Martín y un tanto más de Sebastián Córdova, las Águilas dejaron claro su dominio sobre el Rebaño en el Estadio Akron"
 image: "/uploads/2021/images-2545147.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "América vuela alto y golea a Chivas en el Clásico"
 front: false
 section: "Deportes"
-news_id: 183419
+redirect_from: /news/183419
 ---
 
 Las Chivas del Guadalajara no lograron respaldar la grandeza que presumieron en la previa del Clásico Nacional; mientras que América habló en la cancha y con dos goles de Henry Martín y uno más de Sebastián Córdova, golearon 3-0 al Rebaño Sagrado en su propio estadio, el cual abrió el 25% de su aforo para los aficionados. 

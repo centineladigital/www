@@ -18,11 +18,11 @@ author: nil
 description: "Se están tomando las medidas sanitarias necesarias para que no exista propagación de contagios"
 image: "/uploads/2021/images-semaforo-amarillo-de-coronavirus-milenio-1.jpeg"
 video: "/uploads/2021/videos-BL02_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "No se suspenden actividades navideñas por semáforo Amarillo "
 front: false
 section: "Local"
-news_id: 190806
+redirect_from: /news/190806
 ---
 
 Ante la  alerta por un cierre de actividades navideñas en el centro de la ciudad por el semáforo epidemiológico, el Alcalde de Chihuahua,  Marco Antonio Bonilla Mendoza, negó que esto fuera verdad y mencionó que el semáforo permite aún la realización de eventos al aire libre, de igual manera, afirmó que por cuestiones de prevención se pusieron alrededor de la plaza de armas  filtros sanitarios en los cuales se revisa la temperatura, se regala gel antibacterial y cubre bocas.

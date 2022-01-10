@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Save the Children explica que las condiciones de vida son insoportables en los campos de desplazados para los niños; las autoridades kurdas sostienen que no tienen capacidad para apoyar a los ciudadanos extranjeros. "
 image: "/uploads/2021/images-ninos-han-muerto-por-distintas_0_24_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Más de 60 niños han muerto en campos de desplazados en Siria, asegura ONG"
 front: false
 section: "Internacional"
-news_id: 187977
+redirect_from: /news/187977
 ---
 
 La organización sin fines de lucro Save the Children denunció en un informe que 62 niños han fallecido este año en los campos de desplazados en el noreste de Siria, donde hay familias de combatientes extranjeros del grupo Estado Islámico. 

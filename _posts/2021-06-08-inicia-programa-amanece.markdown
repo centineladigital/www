@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tendrá vigencia del 7 de junio al 31 de julio del presente año en todas las oficinas de Recaudación de Rentas del estado"
 image: "/uploads/2021/images-Amanece_sin_adeudos_gráfico_1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia programa “Amanece sin Adeudos” con descuentos desde un 25 hasta un 80%"
 front: false
 section: "Local"
-news_id: 184927
+redirect_from: /news/184927
 ---
 
 La Secretaría de Hacienda del Gobierno del Estado implementó el programa de condonaciones “Amanece sin Adeudos” dirigido a contribuyentes personas físicas y morales, para facilitarles el cumplimiento de sus obligaciones de pago.

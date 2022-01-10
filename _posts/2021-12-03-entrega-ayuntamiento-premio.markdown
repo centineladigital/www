@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En su segunda edición se entregó una estatuilla y un premio en efectivo de 26 mil pesos  "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Ayuntamiento, premio Chihuahua por la Inclusión de Personas con Discapacidad"
 front: false
 section: "Local"
-news_id: 190497
+redirect_from: /news/190497
 ---
 
 En sesión solemne, el alcalde Marco Bonilla y los regidores del Ayuntamiento de Chihuahua, hicieron entrega del Premio Chihuahua por la Inclusión de Personas con Discapacidad a Víctor Aarón Pedraza en la categoría de persona física y a Edgar Eduardo Núñez en categoría persona moral, por su trabajo a favor de las personas con discapacidad. 

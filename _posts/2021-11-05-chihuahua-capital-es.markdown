@@ -14,11 +14,11 @@ author: nil
 description: "Marco Bonilla Mendoza, entregó reconocimientos a 20 elementos de la Dirección de Seguridad Pública"
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-05_at_12.03.01.jpeg"
 video: "/uploads/2021/videos-BV04_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Chihuahua Capital es segura y competitiva con la DSPM "
 front: false
 section: "Local"
-news_id: 189598
+redirect_from: /news/189598
 ---
 
 El alcalde de Chihuahua, Marco Bonilla Mendoza, entregó reconocimientos a 20 elementos de la Dirección de Seguridad Pública por su participación destacada en un asalto a una tienda comercial y por su rápido actuar para la detención de un asaltante de banco.

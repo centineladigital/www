@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El SSN informó que el temblor fue de 4.9, aunque de manera preliminar informó que fue de 5"
 image: "/uploads/2021/images-quakemap6352630.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Despierta sismo a habitantes de Veracruz"
 front: false
 section: "Nacional"
-news_id: 186269
+redirect_from: /news/186269
 ---
 
 El Servicio Sismológico Nacional (SSN) informó que el movimiento telúrico fue de 4.9 al este de Veracruz a las 04:58 horas, aunque de manera preliminar señaló que la intensidad fue de 5, con epicentro en Boca del Río.

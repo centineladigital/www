@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente López Obrador aseguró que el decreto para que las obras de infraestructura se consideren como de seguridad nacional no tiene que ver con la transparencia, porque su gobierno está comprometido con la rendición de cuentas "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es para “agilizar trámites”, AMLO justifica que obras sean asunto de seguridad nacional"
 front: false
 section: "Nacional"
-news_id: 190101
+redirect_from: /news/190101
 ---
 
 El presidente Andrés Manuel López Obrador justificó que el acuerdo para que las obras insignia de su administración sean un asunto de “seguridad nacional” es para agilizar trámites entre las dependencias con el objeto de concluir en tiempo y forma y que sus adversarios no puedan detenerlas vía el amparo.

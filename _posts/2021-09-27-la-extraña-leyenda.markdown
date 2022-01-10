@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te contamos la extraña teoría y mito urbano que decía que Avril Lavigne se suicidó en 2003 y fue reemplazada. "
 image: "/uploads/2021/images-avril-lavigne-efe.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La extraña leyenda urbana que aseguraba que Avril Lavigne se había suicidado en 2003"
 front: false
 section: "Espectáculos"
-news_id: 188117
+redirect_from: /news/188117
 ---
 
 Este 27 de septiembre, Avril Lavigne, la cantante originaria de Belleville, Canadá, cumple 37 años. Marcando a toda una generación junto con grupos como Simple Plan, My Chemical Romance y otros artistas de punk rock de la época, su importancia ha sido tal que será homenajeada en el Paseo de la Fama en 2022. 

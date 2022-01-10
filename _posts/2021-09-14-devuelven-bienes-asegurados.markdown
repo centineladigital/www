@@ -10,11 +10,11 @@ author: nil
 description: "Fiscalía dice no tener conocimiento previo durante la entrega-recepción."
 image: "/uploads/2021/images-R.jpg"
 video: "/uploads/2021/videos-MM04_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Devuelven bienes asegurados a Duartistas"
 front: false
 section: "Local"
-news_id: 187723
+redirect_from: /news/187723
 ---
 
 Dentro del Gobierno del exmandatario Javier Corral se llevó a cabo el procedimiento de extinción de dominio de bienes asegurados a duartistas, esto sin darse a conocer a la actual administración, según dio a conocer el Fiscal General de Chihuahua Roberto Fierro. 

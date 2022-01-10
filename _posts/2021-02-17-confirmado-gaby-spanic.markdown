@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz se une al elenco de 'Si nos dejan', telenovela de Televisa que estará protagonizada por Mayrín Villanueva. "
 image: "/uploads/2021/images-gaby-spanic-regresa-a-las_0_0_958_596.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Confirmado! Gaby Spanic regresa a las telenovelas tras 7 años de ausencia"
 front: false
 section: "Espectáculos"
-news_id: 182995
+redirect_from: /news/182995
 ---
 
 Gaby Spanic vuelve a las telenovelas luego de siete años de mantenerse alejada de los melodramas de la pantalla chica. La actriz, quien en los últimos meses enfrentó una batalla legal contra Gustavo Adolfo Infante, se une al elenco de Si nos dejan, producción protagonizada por Mayrín Villanueva que comenzará grabaciones esta semana.  

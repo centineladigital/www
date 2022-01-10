@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se busca trabajar en conjunto con los ayuntamientos y aprovechar mejor los recursos con los que cuenta la Secretaría   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Presenta Desarrollo Humano y Bien Común programas y apoyos en beneficio para los municipios"
 front: false
 section: "Local"
-news_id: 188517
+redirect_from: /news/188517
 ---
 
 La Secretaría de Desarrollo Humano y Bien Común de Gobierno del Estado presentó a más de 50 autoridades municipales los distintos tipos de apoyos con los que se cuenta, esto con el objetivo de trabajar en conjunto para mejorar la calidad de vida de las y los chihuahuenses que más lo necesitan.

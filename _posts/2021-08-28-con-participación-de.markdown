@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En acciones con sentido social se remodelaron un parque, una plaza, un área recreativa multifuncional y un salón de usos múltiples, obras decididas por la propia ciudadanía"
 image: "/uploads/2021/images-2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con participación de Comités Pro Obras invierte Estado 4.5 mdp en Namiquipa"
 front: false
 section: "Local"
-news_id: 187231
+redirect_from: /news/187231
 ---
 
 El Gobierno del Estado a través de la Secretaría de Desarrollo Municipal (Sedemun), en coordinación con los Comités Pro Obras de Namiquipa, inauguró diversas obras en las cuales se invirtió un monto de 4 millones 550 mil pesos.

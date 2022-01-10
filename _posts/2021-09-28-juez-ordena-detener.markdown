@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un juez ordenó la aprehensión del ex comisionado del OADPRS, Eduardo Guerrero Durán, así como de nueve personas más relacionadas al caso de Inés Gómez Mont y Álvarez Puga. "
 image: "/uploads/2021/images-ines-gomez-mont-esposo-conocieron.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Juez ordena detener a 10 personas vinculadas al caso Inés Gómez Mont y Álvarez Puga"
 front: false
 section: "Espectáculos"
-news_id: 188134
+redirect_from: /news/188134
 ---
 
 Un juez ordenó la aprehensión del ex comisionado del Órgano Administrativo Desconcentrado de Prevención y Readaptación Social (OADPRS), Eduardo Guerrero Durán, así como de nueve personas más, quienes presuntamente son responsables de un desvío de más de 3 mil millones de pesos, asunto que guarda relación con Víctor Manuel Álvarez Puga y su esposa Inés Gómez Mont. 

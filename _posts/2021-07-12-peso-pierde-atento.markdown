@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Conoce el precio del dolar hoy. "
 image: "/uploads/2021/images-dolar.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "  Peso pierde, atento a dato de inflación en EU y avance de variante covid-19"
 front: false
 section: "Internacional"
-news_id: 185546
+redirect_from: /news/185546
 ---
 
 Al iniciar operaciones el precio del dólar hoy lunes fue de hasta 20.36 pesos en bancos. 

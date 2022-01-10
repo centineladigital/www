@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El artista Chris Carnabuci espera que su trabajo destaque la necesidad de un cambio social y que el uso del arte se vea como una forma de generar un discurso civil. "
 image: "/uploads/2021/images-estatuas-seras-exhibidas-octubre-posteriormente_0_17_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Develan estatuas de George Floyd, John Lewis y Breonna Taylor en Union Square"
 front: false
 section: "Internacional"
-news_id: 188273
+redirect_from: /news/188273
 ---
 
 Luego del terrible asesinato de George Floyd, Estados Unidos vivió un periodo doloroso, que llenó de enojo a los ciudadanos, pero después de un tiempo, logró surgir algo hermoso. 

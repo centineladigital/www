@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante mencionó que era demasiado joven cuando estuvo expuesta a polémicas situaciones mediáticas debido a sus relaciones amorosas. "
 image: "/uploads/2021/images-selena-gomez-sintio-presion-mostrar.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me sentí inferior -  Selena Gomez asegura que sus relaciones amorosas están malditas"
 front: false
 section: "Espectáculos"
-news_id: 185240
+redirect_from: /news/185240
 ---
 
 Selena Gomez está de regreso en la televisión con la serie Only murders In the building tras el lanzamiento de su primer álbum discográfico en español Revelación. Sin embargo, la cantante estadunidense confesó en una entrevista para Vogue Australia que en el amor no ha tenido tanto éxito como en su carrera artística y calificó como "malditas" las relaciones amorosas que ha tenido en el pasado.  

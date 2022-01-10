@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "No he visto ninguna información sobre muertes vinculadas con ómicron, dijo Christian Lindmeier, en una rueda de prensa en Ginebra."
 image: "/uploads/2021/images-omicron_vacuna_ciencia_optimized.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "OMS -  no hay ninguna muerte vinculada a ómicron por el momento"
 front: false
 section: "Internacional"
-news_id: 190455
+redirect_from: /news/190455
 ---
 
 La Organización Mundial de la Salud (OMS) no tiene constancia por ahora de ninguna muerte vinculada a la variante ómicron del coronavirus, indicó este viernes uno de sus portavoces en Ginebra.

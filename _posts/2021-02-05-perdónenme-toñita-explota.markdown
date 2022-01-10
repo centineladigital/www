@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Toñita decidió publicar un video de aclaración. Reiteró que Cynthia Rodríguez frenó su carrera en TV Azteca y explicó por qué usó la frase: amiga date cuenta. ¿Dijo que Carlos Rivera es gay? Te contamos lo que dijo la ex integrante de 'La Academia' "
 image: "/uploads/2021/images-tonita-academia-molesta-aclara-carlos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Perdónenme -  Toñita explota y aclara si Carlos Rivera es gay; Cynthia Rodríguez responde"
 front: false
 section: "Espectáculos"
-news_id: 182732
+redirect_from: /news/182732
 ---
 
 Toñita, ex integrante de La Academia, está envuelta en polémica por presuntamente haber puesto en duda la relación de Cynthia Rodríguez y el cantante Carlos Rivera: ¿es gay? Esto luego de que lanzara una ‘bomba’ en el mundo del espectáculo, tras acusar a la conductora de Venga la Alegría de frenar su carrera artística. Por ello, ante toda esta controversia, de nueva cuenta Toñita salió a dar la cara con un mensaje aclaratorio. ¿Toñita puso en duda la preferencia sexual de Carlos Rivera? ¿Cree que es una simulación? Te contamos lo que sabemos. 

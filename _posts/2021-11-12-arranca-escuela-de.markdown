@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal en alianza con Fundación Coca Cola y Mercado Libre invitan a inscribirse a los empresarios y comerciantes de la ciudad."
 image: "/uploads/2021/images-escuela.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca Escuela de Negocios para comerciantes"
 front: false
 section: "Local"
-news_id: 189800
+redirect_from: /news/189800
 ---
 
 En el marco de los primeros 100 días de trabajo y resultados, el Gobierno Municipal dio inicio a los cursos de capacitación de la Escuela de Negocios Competitivos y Economía Solidaria, dirigidos a comerciantes, micro, pequeños y medianos empresarios del municipio, gracias a una alianza estratégica con Fundación Coca Cola y Mercado Libre.

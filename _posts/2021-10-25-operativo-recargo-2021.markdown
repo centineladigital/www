@@ -16,11 +16,11 @@ author: nil
 description: "Busca apoyar la economía de los chihuahuenses"
 image: "/uploads/2021/images-recibo-predial.jpg"
 video: "/uploads/2021/videos-BL01_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Operativo recargo 2021 inicia el 1 de noviembre "
 front: false
 section: "Local"
-news_id: 189170
+redirect_from: /news/189170
 ---
 
 Marco Bonilla presidente municipal de Chihuahua, manifestó que la recaudación de la tesorería municipal en el nuevo operativo recargo 2021 el cual inicia funciones este 1 de noviembre, busca apoyar la economía de los chihuahuenses que tienen algún tipo de adeudos con respecto al predial.

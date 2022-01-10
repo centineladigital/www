@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La plataforma aseguró en un comunicado de prensa que 82 millones de cuentas han visto Bridgerton en sus primeros 28 días tras su fantástico estreno. "
 image: "/uploads/2021/images-netflix-asegura-bridgerton-serie-vista.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Bridgerton' es la serie más vista de todos los tiempos -  Netflix"
 front: false
 section: "Espectáculos"
-news_id: 182519
+redirect_from: /news/182519
 ---
 
 Netflix aseguró este miércoles que "Bridgerton", el último éxito televisivo de Shonda Rhimes, es la serie más vista en la historia del gigante digital. 

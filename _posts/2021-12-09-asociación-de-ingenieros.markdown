@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Durante la entrega del Premio Nacional de Arquitectos e Ingenieros 2020, Ricardo Rodríguez Romero, presidente de la AIAM, pidió al Presidente reflexionar el acuerdo que declara como de seguridad nacional las obras prioritarias de la actual administración"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asociación de Ingenieros y Arquitectos pide a AMLO reflexionar sobre decreto de obras insignia"
 front: false
 section: "Nacional"
-news_id: 190661
+redirect_from: /news/190661
 ---
 
 Ricardo Rodríguez Romero, presidente de la Asociación de Ingenieros y Arquitectos de México (AIAM), pidió al presidente Andrés Manuel López Obrador reflexionar sobre el acuerdo que declarara como asunto de interés público y de seguridad nacional los proyectos y obras prioritarias de la actual administración.

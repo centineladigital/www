@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Ya sea para renovación o solicitud del documento por primera vez"
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-08_at_10.05.33_AM_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atenderán este sábado módulos de licencias en Chihuahua y Juárez"
 front: false
 section: "Local"
-news_id: 190632
+redirect_from: /news/190632
 ---
 
 Con el objetivo de brindar una mejor atención a los chihuahuenses, los módulos para el trámite de licencias de manejo ubicados en Chihuahua y Ciudad Juárez abrirán el próximo sábado 11 de diciembre en un horario de 08:00 a 16:00 horas.

@@ -14,11 +14,11 @@ author: nil
 description: "La donación es posible gracias al apoyo de la Fundación ISSSTE A.C. "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-19_at_07.00.58.jpeg"
 video: "/uploads/2021/videos-BM05_GEO_BUJANDA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Dona la presidenta del Congreso, insumos médicos en clínicas del Distrito 12"
 front: false
 section: "Local"
-news_id: 188934
+redirect_from: /news/188934
 ---
 
 Dona la presidenta del Congreso, insumos médicos en clínicas del Distrito 12 Geo Bujanda entregó insumos médicos a la clínica Riberas, al Centro Avanzado de Atención Primaria a la Salud CAAPS Nogales y al Hospital Infantil del Gobierno del Estado, como parte de una donación masiva a clínicas pertenecientes al Distrito 12.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantautor andino agradece a México el gran recibimiento que ha tenido; ahora promueve su sencillo A tu lado."
 image: "/uploads/2021/images-j-calderon-melanie-torres.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "De Perú para el mundo -  J. Calderón llega a Puebla a presentar su pop latino urbano"
 front: false
 section: "Espectáculos"
-news_id: 190445
+redirect_from: /news/190445
 ---
 
 En 2018, el cantante peruano J. Calderón decidió iniciar una carrera como solista, después de años en su exagrupación "Zero Balas", la cual tuvo una gran difusión en el país andino con presentaciones exitosas también en México y Estados Unidos. Este cierre de año, el artista llegó a Puebla para presentar su más reciente sencillo: "A tu lado", una canción que califica como dedicable, pues habla de una ruptura amorosa, y cómo a pesar del tiempo una persona no deja de amar a otra. 

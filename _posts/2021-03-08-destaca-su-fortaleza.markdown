@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Atletas de primer nivel han acaparado relevantes sitios a escala internacional, valoran los ejemplos que han recibido de otras mujeres y ellas quieren ser una fuente de inspiración para muchas otras para alcanzar sus objetivos"
 image: "/uploads/2021/images-2541069.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Destaca su fortaleza; mexicanas que han derribado muros en el deporte"
 front: false
 section: "Deportes"
-news_id: 183326
+redirect_from: /news/183326
 ---
 
 SABE SER UN BUEN EJEMPLO

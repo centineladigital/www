@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mantenerse ocupado en actividades físicas, recreativas y culturales ayuda a evitar la ansiedad en los pacientes."
 image: "/uploads/2021/images-Foto_4317-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta IMSS Chihuahua a realizar actividades para disminuir riesgo de Alzheimer "
 front: false
 section: "Local"
-news_id: 187915
+redirect_from: /news/187915
 ---
 
 En el marco del Día Mundial del Alzheimer, conmemorado este 21 de septiembre, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua emitió recomendaciones para disminuir los riesgos de padecer Alzheimer. 

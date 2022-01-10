@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "A partir del 6 de diciembre inicia la entrega en los club del abuelo"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conoce aquí las fechas de entrega del Programa Alimentario para el Adulto Mayor"
 front: false
 section: "Local"
-news_id: 190298
+redirect_from: /news/190298
 ---
 
 Como parte de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación (DDHyE), iniciará la última entrega del apoyo a los beneficiarios del Programa Alimentario para el Adulto Mayor de este 2021.

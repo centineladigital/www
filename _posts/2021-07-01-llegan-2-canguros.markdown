@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Alberto Hernández, director del llamado Santuario de los Animales, dijo que la edad de estos marsupiales es de cinco y seis años y se espera pueda procrear."
 image: "/uploads/2021/images-canguros.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llegan 2 canguros a el zoológico de Aldama"
 front: false
 section: "Local"
-news_id: 185325
+redirect_from: /news/185325
 ---
 
 La tarde del miércoles llegaron al Zoológico de Chihuahua, localizado en esta ciudad al norte de la capital del estado, dos canguros (macho y hembra), que fueron intercambiados por los cachorros de ligres y tigres con el zoológico de Reynosa, Tamaulipas.

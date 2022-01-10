@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ariel López Padilla compartió la razón por la que reprobó a Salma Hayek de su clase en el CEA y la vez que la veracruzana le hizo un 'reclamo'. ¿Era mala alumna? "
 image: "/uploads/2021/images-ariel-lopez-padilla-reprobo-salma.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Quedó como chiste personal -  Ariel López Padilla revela fue profesor de Salma Hayek y la reprobó"
 front: false
 section: "Espectáculos"
-news_id: 184969
+redirect_from: /news/184969
 ---
 
 Ariel López Padilla, famoso actor, recordó la vez que le dio clases a la exitosa actriz Salma Hayek en el Centro de Capacitación Artística (CEA) de Televisa. Sin embargo, no por mucho tiempo, además de que la reprobó. ¿Por qué lo hizo? ¿Salma Hayek era mala alumna? El actor de diversas telenovelas dio a conocer los motivos de su decisión y detalló la vez que se reencontró con la estrella de Hollywood y le reclamó. Fue en entrevista con TVyNovelas en donde Ariel López Padilla compartió que fue profesor de la actriz Salma Hayek en el Centro de Educación Artística (CEA). Él daba la clase de Técnicas de danza aplicadas a la actuación, pues él tenía una extensa experiencia en el ramo de la danza. 

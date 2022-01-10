@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno del Estado consolida una relación directa y personal con las autoridades tradicionales"
 image: "/uploads/2021/images-unnamed_(18).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabezan COEPI y DIF Estatal encuentro con más de 170 gobernadores rarámuri de la región serrana   "
 front: false
 section: "Local"
-news_id: 190206
+redirect_from: /news/190206
 ---
 
 La Comisión Estatal para los Pueblos Indígenas (COEPI), liderada por su titular Enrique Rascón Carrillo, realizó un encuentro con autoridades tradicionales de siete municipios de la región serrana, en el cual se contó con la participación de la presidenta del DIF Estatal, María Eugenia Galván Antillón.

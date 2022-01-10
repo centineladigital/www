@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz Sarah Jessica Parker señaló de misóginas las críticas por su aspecto en la secuela de 'Sex and the City' para HBO Max."
 image: "/uploads/2021/images-just-like-that-sarah-jessica.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Misóginas -  Sarah Jessica Parker contra críticas por su aspecto en secuela de 'Sex and the City'"
 front: false
 section: "Espectáculos"
-news_id: 189647
+redirect_from: /news/189647
 ---
 
 HBO Max está preparando un nuevo especial que sirva como secuela de la popular serie Sex And The City, con Sarah Jessica Parker, Cynthia Nixon y Kristin Davis en sus papeles protagónicos, en lo que se llamará Just Like That. Sin embargo, esto atrajo críticas a las actrices por cómo lucen con relación a cuando hicieron la serie a finales de los 90 y principios de los 2000, así como de las películas (la última salió en 2010). Es por ello que la misma Sarah Jessica Parker habló en entrevista para Vogue, respondiendo que se trataba de conversaciones misóginas que en el caso de un hombre jamás ocurriría algo similar. "Hay tal cantidad de conversaciones misóginas sobre nosotras que. Nunca. Ocurrirían. Con. Un. Hombre”, dice para la revista. 

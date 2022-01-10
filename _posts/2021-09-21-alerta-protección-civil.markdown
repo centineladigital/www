@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Podrá registrarse un ligero descenso en la temperatura"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-21_at_15.02.47.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Protección Civil Municipal por entrada de frente frío número 1"
 front: false
 section: "Local"
-news_id: 187932
+redirect_from: /news/187932
 ---
 
 Ante el ingreso del primer frente frío de la temporada sobre el norte y noreste del país y que pudiera afectar al municipio de Chihuahua, la Coordinación Municipal de Protección Civil exhorta a la población a tomar las debidas precauciones por las bajas temperaturas que puedan registrarse.

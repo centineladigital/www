@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El trámite se realiza en las instalaciones de la Fiscalía Zona Centro"
 image: "/uploads/2021/images-1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Qué hacer en caso de robo o extravío de placas?"
 front: false
 section: "Local"
-news_id: 189180
+redirect_from: /news/189180
 ---
 
 Con la finalidad de brindar un mejor servicio a los usuarios, la Fiscalía de Distrito Zona Centro informa a la ciudadanía sobre los requisitos para interponer reporte de robo o extravío de placas vehiculares.

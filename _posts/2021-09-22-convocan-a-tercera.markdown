@@ -10,11 +10,11 @@ author: nil
 description: "Serán cuatro categorías."
 image: "/uploads/2021/images-NESTOR1.jpg"
 video: "/uploads/2021/videos-MW02_NESTOR_ARMENDARIZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Convocan a tercera edición de Premio Estatal de Periodismo en Derechos Humanos"
 front: false
 section: "Local"
-news_id: 187964
+redirect_from: /news/187964
 ---
 
 Con premios que van desde los 15 hasta los 5 mil pesos se convocó a integrantes de los medios de comunicación a participar en el Premio Estatal de Periodismo en Derechos Humanos en su tercera edición, según fue dado a conocer por parte del titular de la CEDH Néstor Armendáriz.

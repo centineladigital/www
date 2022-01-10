@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se usa un químico especial que limpia y sanitiza superficies   "
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Desinfecta Municipio paradas de camión de forma diaria y permanente"
 front: false
 section: "Local"
-news_id: 189843
+redirect_from: /news/189843
 ---
 
 Con el propósito de disminuir los contagios de COVID19, el Gobierno municipal a través de la Dirección de Mantenimiento Urbano continúa realizando de manera diaria y permanente la sanitización de 250 paradas de camión, ubicadas en distintos puntos de esta ciudad capital.

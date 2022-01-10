@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Gobernadora Electa de Chihuahua, Maru Campos Galván, ya fue dada de alta por los médicos para continuar la recuperación de COVID19 en confinamiento desde su casa "
 image: "/uploads/2021/images-WhatsApp_Image_2021-08-06_at_14.07.23.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúa Maru Campos recuperación desde su casa; atiende reuniones por Zoom"
 front: false
 section: "Local"
-news_id: 186403
+redirect_from: /news/186403
 ---
 
 Desde el hospital y ahora desde su casa continuó en todo momento atendiendo reuniones de trabajo de manera virtual, tal es el caso de su participación este viernes en Sistema PAN, en el que participan alcaldes, síndicos, diputados locales y diputados federales del estado de Chihuahua.

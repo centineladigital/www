@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el lema “Vacaciones seguras 2021″, el gobierno de Quintana Roo implementará cinco controles sanitarios en la zona hotelera de Cancún, vigentes del 29 de marzo al 12 de abril"
 image: "/uploads/2021/images-2554016.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Test rápidos de COVID en playas, nuevas medidas en Cancún por Semana Santa"
 front: false
 section: "Nacional"
-news_id: 183605
+redirect_from: /news/183605
 ---
 
 El Gobierno de Quintana Roo dio a conocer medidas adicionales que implementará en Semana Santa en sus playas a fin de evitar nuevos contagios de COVID-19.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En este periodo se efectuaron dos procuraciones multiorgánicas y un trasplante renal"
 image: "/uploads/2021/images-Foto_372-2.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS da continuidad a jornadas para recuperación de servicios de salud"
 front: false
 section: "Local"
-news_id: 187093
+redirect_from: /news/187093
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) continúa con las jornadas de recuperación de servicios de salud, con el objetivo de fortalecer la prestación de servicios que disminuyeron por motivo de la pandemia por COVID-19.

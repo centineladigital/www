@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En el rubro educativo cuenta con experiencia como catedrático en la Universidad de las Américas de Puebla y la Universidad de Texas en El Paso (UTEP)."
 image: "/uploads/2021/images-SUBSECRETARÍA_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asume Maurilio Fuentes Estrada la Subsecretaría de Educación y Deporte Zona Norte"
 front: false
 section: "Local"
-news_id: 189082
+redirect_from: /news/189082
 ---
 
 El secretario de Educación y Deporte, Javier González Mocken, tomó protesta a Maurilio Fuentes Estrada como nuevo titular de la Subsecretaría de Educación y Deporte Zona Norte, en sustitución de Judith Soto Moreno.

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Durante el conversatorio “Mujeres una sola voz”, las ponentes coincidieron en el gran avance del municipio en materia de género"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es Chihuahua Capital vanguardia en la lucha contra la violencia hacia las mujeres"
 front: false
 section: "Local"
-news_id: 190245
+redirect_from: /news/190245
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM), realizó el conversatorio “Mujeres una sola voz”, como parte de las actividades del mes de noviembre para conmemorar el Día Internacional para la Eliminación de la Violencia contra las Mujeres.

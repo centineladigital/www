@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Pide Dirección de Transporte que acudan lo antes posible para evitar aglomeraciones, frente a la posibilidad de regreso a clases presenciales; deben acudir  a cualquiera de los 4 módulos de expedición habilitados en la ciudad de Chihuahua "
 image: "/uploads/2021/images-TP2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llaman a estudiantes a adquirir la tarjeta única de descuento  para transporte público"
 front: false
 section: "Local"
-news_id: 186398
+redirect_from: /news/186398
 ---
 
 Frente al próximo inicio de actividades escolares presenciales, la Dirección de Transporte del Gobierno del Estado de Chihuahua convocó a la población estudiantil a adquirir o renovar la tarjeta única para un 50 por ciento de descuento en el costo del pasaje del transporte público urbano colectivo.

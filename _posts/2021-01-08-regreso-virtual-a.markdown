@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La estructura educativa de la entidad afina detalles durante la Tercera y Cuarta sesión del Consejo Técnico Escolar del ciclo 2020-2021"
 image: "/uploads/2021/images-CTE_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Regreso virtual a clases en Educación Básica es el lunes 11 de enero"
 front: false
 section: "Local"
-news_id: 181978
+redirect_from: /news/181978
 ---
 
 Tras la conclusión del periodo vacacional de invierno, directivos, docentes, inspectores y la estructura educativa en general prepararon para este lunes 11 de enero el regreso a clases en Educación Básica, bajo la modalidad a distancia.

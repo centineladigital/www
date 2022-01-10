@@ -10,11 +10,11 @@ author: nil
 description: "Serán entregadas en forma gratuita, esto en las ciudades de Chihuahua y Juárez."
 image: "/uploads/2021/images-INES_MARTINEZ.jpg"
 video: "/uploads/2021/videos-MW01_INES_MARTINEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Entregan actas braile"
 front: false
 section: "Local"
-news_id: 186576
+redirect_from: /news/186576
 ---
 
 Este martes arrancó de forma oficial la entrega de actas de nacimiento en la modalidad de braile, acción que no tiene precedente en el estado. Con lo que se busca llevar acciones de inclusión para personas que son ciegas o débiles visuales, esto a través de la adquisición de dos impresoras con un monto de 180 mil pesos.

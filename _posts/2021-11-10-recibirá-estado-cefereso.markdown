@@ -10,11 +10,11 @@ author: nil
 description: "Administrará el Estado lugar en el que estuvo recluido El Chapo."
 image: "/uploads/2021/images-ROBERTO.jpg"
 video: "/uploads/2021/videos-MW03_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Recibirá estado CEFERESO número 9"
 front: false
 section: "Local"
-news_id: 189757
+redirect_from: /news/189757
 ---
 
 La presente administración se encuentra en gestiones ante la Federación para se entregue el Centro Penitenciario Federal 09 de Juárez al estado, según declaraciones del Fiscal General del Estado de Chihuahua, Roberto Fierro Duarte.

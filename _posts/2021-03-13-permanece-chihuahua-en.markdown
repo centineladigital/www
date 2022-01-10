@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pide evitar reuniones, viajes y concentraciones en lugares turísticos por el periodo vacacional correspondiente a la Semana Santa"
 image: "/uploads/2021/images-Secretario_de_Salud_Eduardo_Fernández_13-03-2021_1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Permanece Chihuahua en semáforo epidemiológico amarillo otros 15 días"
 front: false
 section: "Local"
-news_id: 183413
+redirect_from: /news/183413
 ---
 
 El secretario de Salud, Eduardo Fernández Herrera, informó que el estado de Chihuahua permanecerá en color amarillo del semáforo epidemiológico durante los próximos 15 días, e hizo un llamado a la población para extremar cuidados y medidas preventivas, a fin de evitar un incremento de contagios.

@@ -10,11 +10,11 @@ author: nil
 description: "Aplicarán más de un millón de dosis."
 image: "/uploads/2021/images-VACUNA.jpg"
 video: "/uploads/2021/videos-ML03_FERNANDO_SANDOVAL.mp4"
-audio: "nil"
+audio: nil
 alt: "Inicia campaña de aplicación de influenza"
 front: false
 section: "Local"
-news_id: 189661
+redirect_from: /news/189661
 ---
 
 Con la meta de aplicar alrededor de un millón de dosis de la vacuna contra Influenza este lunes dio inicio la campaña de vacunación, la cual busca que se lleve a cabo durante la temporada invernal 2021-2022. 

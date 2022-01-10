@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Algunos de los actores que participaron en Game of Thrones han destacado en el cine, incluso hay uno que fue nominado a un Oscar. "
 image: "/uploads/2021/images-actores-de-game-of-thrones_24_0_910_566.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Qué ha sido de los actores de 'Game of Thrones' a 10 años del estreno de la serie?"
 front: false
 section: "Espectáculos"
-news_id: 183945
+redirect_from: /news/183945
 ---
 
 Hace 10 años se transmitió el primer capítulo de Game of Thrones, una de las series que cautivó a muchos por la adaptación de la historia de George R.R Martin. Sus ocho temporadas y 73 capítulos mantuvieron al filo del asiento a los espectadores quienes vieron la producción a través de  HBO, productora que anunció hace poco la fecha de estreno estreno de una precuela de la serie. Ahora que terminó la serie, muchos fans esperan una precuela de esta fascinante historia, y aunque no participarán los actores que conformaron Game of Thrones, seguro generara mucha expectativa. Y para que no extrañes a los actores que participaron en la serie a continuación, te contamos que ha sido de algunos de ellos a 10 años de la serie. 

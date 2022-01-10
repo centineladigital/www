@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se desconoce por el momento si hay víctimas o daños por este potente sismo"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Terremoto de 7.6 sacude Indonesia; lanzan alerta de tsunami"
 front: false
 section: "Internacional"
-news_id: 190823
+redirect_from: /news/190823
 ---
 
 Un terremoto de magnitud preliminar 7.6 sacudió este martes el Mar de Flores, en el sur de Indonesia, lo que llevó a activar la alerta de tsunami para las zonas costeras cercanas.

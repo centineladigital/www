@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Busca Estado fomentar el conocimiento de los derechos humanos, así como visibilizar, prevenir y atender la violencia laboral"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacita ICHMUJERES a personal de Seguridad Pública con taller sobre Violencia Docente y Derechos Humanos"
 front: false
 section: "Local"
-news_id: 190080
+redirect_from: /news/190080
 ---
 
 El Gobierno del Estado a través del Instituto Chihuahuense de las Mujeres (ICHMUJERES) impartió el taller “Violencia docente y Derechos Humanos” a personal docente de la Academia de Policía y Bomberos, así como instructores e instructoras del Instituto Superior de Seguridad Chihuahua (ISSCUU).

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hasta la fecha, el registro de gobierno federal para la vacunación incluye sólo al padrón de beneficiarios del programa de pensiones"
 image: "/uploads/2021/images-Pensiones.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Omiten vacuna a 121 mil de la tercera edad"
 front: false
 section: "Local"
-news_id: 182574
+redirect_from: /news/182574
 ---
 
 El registro que el gobierno federal lleva a cabo para la vacunación contra el Covid-19 en adultos mayores dejaría fuera del esquema a más de 121 mil chihuahuenses de 60 o más años.

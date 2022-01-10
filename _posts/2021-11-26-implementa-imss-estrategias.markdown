@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mantuvieron la reunión número 63 autoridades del Instituto con las madres y los padres de menores con cáncer atendidos en el Seguro Social. "
 image: "/uploads/2021/images-Foto_531-2.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Implementa IMSS estrategias para reforzar servicio del personal de enfermería que atiende a pacientes pediátricos oncológicos"
 front: false
 section: "Local"
-news_id: 190238
+redirect_from: /news/190238
 ---
 
 En cumplimiento con el compromiso que el Instituto Mexicano del Seguro Social (IMSS) tiene con las madres y los padres de pacientes pediátricos oncológicos, se suman esfuerzos para mejorar el servicio por parte del personal asignado para la atención de los menores con cáncer de las unidades médicas en la Ciudad de México, Puebla, San Luis Potosí y Baja California. 

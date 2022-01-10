@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con una gran salida de Nathan Eovaldi y tres carreras remolcadas del mexicano Alex Verdugo, Boston derrotó 6-2 a Nueva York y enfrentará a Rays de Tampa Bay en la Serie Divisional "
 image: "/uploads/2021/images-medias-rojas-humillan-yankees-ganan_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Medias Rojas humillan a Yankees y ganan comodín de Liga Americana"
 front: false
 section: "Deportes"
-news_id: 188416
+redirect_from: /news/188416
 ---
 
 Los Medias Rojas de Boston triunfaron en un nuevo capítulo en la rivalidad más importante en la historia del deporte de Estados Unidos, al vencer 6-2 a los Yankees de Nueva York en el juego de comodín de la Liga Americana, para empatar su récord de enfrentamientos en playoffs a 12 victorias por bando. 

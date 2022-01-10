@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "En el marco del Festival de Arte Nuevo 2021 se realizarán cuatro talleres virtuales vía zoom"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-01_at_12.57.08.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Angélica_Chávez__coordinadora_del_FAN.mp3"
 alt: "Impartirá Secretaría de Cultura talleres gratuitos de arte y desarrollo cultural "
 front: false
 section: "Local"
-news_id: 188278
+redirect_from: /news/188278
 ---
 
 El Gobierno del Estado de Chihuahua, a través de la Secretaría de Cultura, invita a cuatro talleres sobre arte y desarrollo cultural, que serán impartidos de manera gratuita del 4 al 22 de octubre, como parte de las actividades del Festival de Arte Nuevo (FAN) 2021.

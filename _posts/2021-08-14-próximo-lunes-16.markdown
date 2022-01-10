@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se podrán consultar a través de la página del SIE: http://sie.chihuahua.gob.mx/publico/preinscripciones/, así como en los planteles educativos del nivel"
 image: "/uploads/2021/images-ARCHIVO.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Próximo lunes 16 de agosto resultados de preinscripción a secundaria"
 front: false
 section: "Local"
-news_id: 186709
+redirect_from: /news/186709
 ---
 
 El Gobierno del Estado a través de la Secretaría de Educación y Deporte (SEyD) informó a madres y padres de familia, así como tutores, que el próximo lunes 16 de agosto a partir de las 9:00 hrs., se publicarán los resultados de ubicación de estudiantes de nuevo ingreso a primer grado secundaria.

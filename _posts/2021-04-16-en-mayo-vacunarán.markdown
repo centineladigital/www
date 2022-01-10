@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Del 19 al 28 de mayo se estableció como fecha para estar en posibilidades de abrir las escuelas antes del 15 de junio"
 image: "/uploads/2021/images-Vacunas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En mayo vacunarán a maestros chihuahuenses vs Covid-19"
 front: false
 section: "Local"
-news_id: 183916
+redirect_from: /news/183916
 ---
 
 Del 19 al 28 de mayo será vacunado el personal del sector educativo público y privado en el estado de Chihuahua, para estar en posibilidades de abrir las escuelas antes del 15 de junio, informó el doctor Hugo López Gatell durante la conferencia matutina del Gobierno de México de este viernes.

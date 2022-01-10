@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno de la República invertirá 2 mil 735 millones de pesos; se estima quede concluido en su totalidad para finales de 2023   "
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncian Gobierno Federal y Estatal rehabilitación del Hospital de Especialidades de Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 190765
+redirect_from: /news/190765
 ---
 
 A partir de enero del año entrante, el Gobierno de la República iniciará con las obras de rehabilitación del Hospital de Especialidades de Ciudad Juárez, inmueble que permaneció inconcluso desde la administración estatal antepasada.

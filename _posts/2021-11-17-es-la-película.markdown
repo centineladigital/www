@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ni Andrew Garfield, ni Tobey Mcguire, ni mucho menos Matt Murdock, aka Daredevil, apareció en el segundo tráiler de la película más esperada del año. "
 image: "/uploads/2021/images-tom-holland-hablo-trailer-spiderman-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es la película de superhéroes más cinematográfica que se haya hecho -  Holland sobre 'Spiderman -  Sin camino a casa'"
 front: false
 section: "Espectáculos"
-news_id: 189917
+redirect_from: /news/189917
 ---
 
 ¡Al fin! Ya está confirmado el spiderverse, aunque no como hubiéramos querido, pues el nuevo avance de Spiderman: sin regreso a casa nos mostró a los que podrían ser Los Seis Siniestros dentro de este multiverso que nos tenía preparado Marvel desde WandaVision.  Pero ni Andrew Garfield, ni Tobey Mcguire, ni mucho menos Matt Murdock, aka Daredevil, aparecieron en el segundo tráiler de esta, la película más esperada del año y pues durante la presentación de este segundo avance Tom Holland dio unas palabras a la audiencia de lo que será la cinta del arácnido. 

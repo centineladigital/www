@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Este miércoles se reanuda la serie con Kodai Hamaya y Javier Solano anunciados para abrir el juego. "
 image: "/uploads/2021/images-charros-jalisco-cae-venados-mazatlan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Imparable de Ricky Álvarez dejó tendido a Charros en Mazatlán"
 front: false
 section: "Deportes"
-news_id: 189915
+redirect_from: /news/189915
 ---
 
 Malas noticias para los Charros de Jalisco que cayeron en el primero de la serie 2-3 ante Mazatlán al quedar tendidos en el terreno gracias a un imparable de Ricky Álvarez en la baja de la novena. Jared Wilson en esta ocasión se consagró como el pitcher ganador, mientras que Raúl De los Reyes tuvo que cargar con la derrota para la novena tapatía. 

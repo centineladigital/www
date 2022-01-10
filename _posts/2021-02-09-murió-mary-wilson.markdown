@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El fallecimiento de la cantante fue confirmado por su representante, quien no especificó los motivos de la muerte; te contamos lo que sabemos. "
 image: "/uploads/2021/images-muere-mary-wilson-cofundadora-the.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Mary Wilson, cofundadora de 'The Supremes', a los 76 años"
 front: false
 section: "Espectáculos"
-news_id: 182808
+redirect_from: /news/182808
 ---
 
 La cantante Mary Wilson, fundadora del trío The Supremes junto a Diana Ross y Florence Ballard, falleció a los 76 años en su domicilio en Henderson, en el estado norteamericano de Nevada. 

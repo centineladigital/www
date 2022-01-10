@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor recuerda que James Cameron le llamó y le ofreció participar... sin embargo, él no accedió y terminó por ver los millones de dólares que se le escaparon de las manos. "
 image: "/uploads/2021/images-matt-damon-rechazo-avatar-especial.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Se arrepintió? Matt Damon rechazó 'Avatar' y perdió cientos de millones de dólares"
 front: false
 section: "Espectáculos"
-news_id: 188342
+redirect_from: /news/188342
 ---
 
 ¿Sientes que en alguna ocasión te has equivocado y has dejado ir una gran oportunidad? Parece que algo similar le ocurrió al actor estadunidense Matt Damon, quien le rechazó a James Cameron el 10 por ciento de la película que ha recaudado más dinero en taquilla en toda la historia: Avatar. 

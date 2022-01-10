@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Sin duda es uno de los enfrentamientos más esperados del año"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cuándo y dónde ver la pelea del Canelo Álvarez vs Caleb Plant?"
 front: false
 section: "Deportes"
-news_id: 189545
+redirect_from: /news/189545
 ---
 
 La pelea entre Saúl 'Canelo' Álvarez y Caleb Plant, sin duda podría ser la más esperada del año en el mundo del boxeo. Este sábado se enfrentarán en la Arena del MGM Grand Garden de las Vegas, Nevada. 

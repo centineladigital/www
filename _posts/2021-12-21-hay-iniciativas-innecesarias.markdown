@@ -18,11 +18,11 @@ author: nil
 description: "Se aprobaron al menos dos iniciativas que van enfocadas a la mejora de las sesiones ante el pleno"
 image: "/uploads/2021/images-geo_bujanda.jpg"
 video: "/uploads/2021/videos-BM02_GEO_BUJANDA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Hay iniciativas innecesarias -  Bujanda "
 front: false
 section: "Local"
-news_id: 191093
+redirect_from: /news/191093
 ---
 
 La diputada señaló que se deben regular las iniciativas en el congreso para desechar las que van en sentido negativo o que son totalmente innecesarias, la legisladora explicó que son iniciativas que no se pueden materializar de ninguna forma, no que no cuentan con ningún presupuesto.

@@ -10,11 +10,11 @@ author: nil
 description: "Buscan posicionar al partido rumbo al 2024."
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-29_at_1.11.11_PM.jpeg"
 video: "/uploads/2021/videos-ML04_ALEJANDRO_DOMINGUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Protestan nuevos secretarios priístas"
 front: false
 section: "Local"
-news_id: 190312
+redirect_from: /news/190312
 ---
 
 Con el fin de fortalecer a su dirigencia estatal encaminados a las elecciones del 2024 la dirigencia del PRI tomó protesta a Secretarios del directivo estatal, según lo dio a conocer el dirigente de este organismo partidista César Alejandro Domínguez Domínguez.

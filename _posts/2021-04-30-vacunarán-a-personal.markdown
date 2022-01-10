@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En próximos días se estará vacunando a personal administrativo, camilleros y demás"
 image: "/uploads/2021/images-Vacunas_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vacunarán a personal de intendencia de hospitales y a médicos privados"
 front: false
 section: "Local"
-news_id: 184217
+redirect_from: /news/184217
 ---
 
 Gran afluencia de personas se registra en las instalaciones del Hospital General Regional Número 1 del IMSS por parte de quienes buscan aplicarse la primera o segunda dosis de la vacuna

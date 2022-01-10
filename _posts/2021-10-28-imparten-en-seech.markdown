@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Resaltan importancia de la autoexploración una vez al mes, una  mamografía, en especial las mujeres de 40 años y más  cada dos años y anualmente después de los 50 años"
 image: "/uploads/2021/images-Conferencia_cáncer_de_mama.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Imparten en SEECH conferencia sobre  detección oportuna de cáncer de mama"
 front: false
 section: "Local"
-news_id: 189310
+redirect_from: /news/189310
 ---
 
 En el marco de la reciente celebración del Día Internacional de la Lucha contra el Cáncer de Mama, personal de Servicios Educativos del Estado de Chihuahua (SEECH) recibió una plática sobre el tema.

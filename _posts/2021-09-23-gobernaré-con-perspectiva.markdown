@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Entregan nombramiento a Karina Olivas como presidenta del DIF Municipal"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-23_at_14.04.35.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobernaré con perspectiva de familia -  Marco Bonilla"
 front: false
 section: "Local"
-news_id: 187994
+redirect_from: /news/187994
 ---
 
 El alcalde de Chihuahua, Marco Bonilla, encabezó la entrega del nombramiento como presidenta del DIF Municipal a Karina Olivas durante la primera sesión extraordinaria para la instalación del Consejo Directivo del DIF.  

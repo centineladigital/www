@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con más de 400 libros, 200 retratos y algunos objetos personales de escritores famosos, el Instituto busca fomentar la salud a través de actividades culturales."
 image: "/uploads/2021/images-ISSSTE_04.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inauguran ISSSTE y TLACUILO museo del escritor "
 front: false
 section: "Local"
-news_id: 189754
+redirect_from: /news/189754
 ---
 
 Como parte del impulso a la cultura que realiza el director general, Luis Antonio Ramírez Pineda, y de la estrategia nacional de la lectura que fomenta el Gobierno de México, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) y la asociación civil Tlacuilo, inauguraron el Museo del Escritor en la galería de las oficinas centrales de la dependencia en la Ciudad de México. 

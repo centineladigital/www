@@ -14,11 +14,11 @@ author: nil
 description: "“La captura de la changa no debe ensalzar a supuestos líderes criminales”: Castejón"
 image: "/uploads/2021/images-OSCAR.jpg"
 video: "/uploads/2021/videos-BV03_OSCAR_CASTREJON.mp4"
-audio: "nil"
+audio: nil
 alt: "Difícilmente bajaran los índices de violencia en Cuauhtémoc"
 front: false
 section: "Local"
-news_id: 188036
+redirect_from: /news/188036
 ---
 
 La captura de la changa en Cuauhtémoc el pasado 22 de septiembre se tiene que aplaudir como un logro del gobierno, pero no se debe ensalzar a supuestos líderes criminales al llamarlos como cabeza de una organización ya que esto enaltece a este tipo de criminales, así lo explicó el diputado Óscar Castejón, quien también aseguró que es difícil bajar los índices de violencia en ciudad Cuauhtémoc.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El pronóstico se incrementa a partir de las 17:00 horas   "
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Protección Civil Municipal recomendaciones por lluvias este fin de semana"
 front: false
 section: "Local"
-news_id: 186710
+redirect_from: /news/186710
 ---
 
 La Coordinación Municipal de Protección Civil dio a conocer que para la tarde de este sábado y mañana domingo se prevén lluvias para la capital del estado de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional, por lo cual se exhorta a la comunidad a tomar las debidas precauciones para evitar incidentes.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La popular actriz estadunidense también es conocida por sus papeles en 'Gasparín' y en 'Los locos Addams'. "
 image: "/uploads/2021/images-merlina-adams_2_0_1196_744.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El increíble cambio de 'Merlina Addams'; así luce Christina Ricci a sus 41 años"
 front: false
 section: "Espectáculos"
-news_id: 182903
+redirect_from: /news/182903
 ---
 
 Los locos Addams son un icono del terror estadunidense, y es que la excéntrica familia combina a la perfección el humor con lo tenebroso; y sin duda alguna, uno de los personajes más memorables es el de Merlina, interpretado por la actriz Christina Ricci, quien este viernes cumple 41 años y no podrás creer cuánto ha cambiado. Ricchie fue muy popular en los noventa por protagonizar la película de Gasparín, así como su papel de Los locos Addams y Sirenas. 

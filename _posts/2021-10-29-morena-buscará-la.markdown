@@ -14,11 +14,11 @@ author: nil
 description: "Se pidió el 10% de reducción en los aguinaldos para diputados "
 image: "/uploads/2021/images-benjamincarrera.jpg"
 video: "/uploads/2021/videos-BV04_BENJAMIN_CARRERA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Morena buscará la austeridad en aguinaldos "
 front: false
 section: "Local"
-news_id: 189384
+redirect_from: /news/189384
 ---
 
 El diputado Benjamín Carrera mencionó que hace 3 años se había pedido la reducción de un 10 % para  los aguinaldos de diputados del congreso del estado, claramente sin haber recibido respuesta, esto respondió tras ser cuestionado sobre el monto y la fecha de los aguinaldos de este.

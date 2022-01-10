@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante Lisa Gentile recordó en una rueda de prensa que en 2002 el actor la forzó para mantener relaciones sexuales. "
 image: "/uploads/2021/images-cantante-acusa-abuso-sexual-chris.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Una quinta mujer acusa a Chris Noth, actor de 'Sex and the city', de abuso sexual"
 front: false
 section: "Espectáculos"
-news_id: 191197
+redirect_from: /news/191197
 ---
 
 Una quinta mujer acusó este jueves de abuso sexual a Chris Noth, popular por su papel de Mr Big en la serie Sex and the City. A raíz de las denuncias contra el actor, quien en 1995 recibió una orden de alejamiento tras amenazar de muerte a su ex novia, las protagonistas del programa que está de regreso con And Just Like That expresaron su apoyo a las víctimas, esto luego de que el famoso negó las acusaciones.  

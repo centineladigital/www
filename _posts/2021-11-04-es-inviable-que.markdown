@@ -14,11 +14,11 @@ author: nil
 description: "Se había reconocido por parte de CONAGUA la inviabilidad de la construcción de la presa"
 image: "/uploads/2021/images-20210303031124178-0-1768607.jpg"
 video: "/uploads/2021/videos-BJ04_MARIA_REYES_.mp4"
-audio: "nil"
+audio: nil
 alt: "Es inviable que se haga la presa palanganas "
 front: false
 section: "Local"
-news_id: 189563
+redirect_from: /news/189563
 ---
 
 La diputada María Antonieta Pérez (morena) y Yessenia Reyes (PAN) avalaron el pronunciamiento de los alcaldes de Janos y Ascensión para que sea revisada la afectación de estos municipios por el proyecto de la construcción de la presa palanganas.

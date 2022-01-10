@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un total de 8 mil 523 personas han perdido la vida a consecuencia de esta enfermedad, sin embargo, para este lunes no se reportan nuevos decesos. "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 39 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 190792
+redirect_from: /news/190792
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 13 de diciembre el reporte COVID-19, en el cual se registran 88 mil 996 (+39) personas confirmadas en la entidad por este padecimiento, 75 mil 760 (+22) casos recuperados, 84 mil 875 (+26) descartados y 1,076 (-4) casos sospechosos.

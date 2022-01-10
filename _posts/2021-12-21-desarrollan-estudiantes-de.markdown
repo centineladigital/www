@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El proyecto fue presentado como uno de los proyectos de éxito de la carrera en su estadía profesional"
 image: "/uploads/2021/images-Recurso_1.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Desarrollan estudiantes de la UT de Paquimé proyecto “SKY DRAGON”"
 front: false
 section: "Local"
-news_id: 191075
+redirect_from: /news/191075
 ---
 
 Con el firme propósito de refrendar el criterio de innovación derivado del lema institucional de la Universidad Tecnológica de Paquimé (UT Paquimé), las y los estudiantes Manuel Octavio Andazola y David Gerardo Quezada Andazola de la carrera de Ingeniería en Tecnologías de la Información, desarrollaron de forma conjunta el proyecto denominado “Sky Dragon”.

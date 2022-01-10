@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El premio por haber ganado el programa fue de 200 mil dólares; la influencer Manelyk quedó en segundo lugar. "
 image: "/uploads/2021/images-alicia-machado-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Más de 40 millones de votos! Alicia Machado es la ganadora del reality show 'La casa de los famosos'"
 front: false
 section: "Espectáculos"
-news_id: 189869
+redirect_from: /news/189869
 ---
 
 La actriz venezolana Alicia Machado se convirtió en la ganadora de La casa de los famosos, reality show de Telemundo que este lunes llegó a su fin, dejando en segundo lugar a la influencer mexicana Manelyk. "Gracias papá, gracias a la Virgen de Guadalupe que no me deja nunca sola. Gracias papá, te amo papá. No puede ser", dijo la también reina de belleza al enterarse de su triunfo tras recibir 40 millones 586 mil 129 votos. 

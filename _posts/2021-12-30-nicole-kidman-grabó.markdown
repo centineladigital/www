@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En 'Las horas', Nicole Kidman interpretó a Virginia Woolf, una escritora que luchó por su salud mental pero se suicidó ahogada; dicho papel le valió un Oscar. "
 image: "/uploads/2021/images-nicole-kidman-tiene-anos-reuters.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nicole Kidman grabó 'Las horas' deprimida por su divorcio con Tom Cruise"
 front: false
 section: "Espectáculos"
-news_id: 191366
+redirect_from: /news/191366
 ---
 
 Nicole Kidman y Tom Cruise formaron una pareja de época durante los años 90, década en la que fueron esposos antes de 2001, cuando decidieron separarse tras 11 años juntos. Ahora, la actriz reveló haberse deprimido y haber grabado así el filme 'Las horas', donde interpretó a la escritora Virginia Woolf y ganó un Oscar por su papel. En entrevista para el programa This Cultural Life de la cadena británica BBC Radio 4, la actriz contó cómo fue interpretar al personaje con depresión, mostrar la lucha por su salud mental y haber filmado el suicidio por ahogamiento, lo cual pidió sin un doble. 

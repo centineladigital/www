@@ -18,11 +18,11 @@ author: nil
 description: "La delincuencia ha reducido en un 22%: Julio Salas"
 image: "/uploads/2021/images-A4911A4D-7ED3-4865-A515-8FB64E24E91B.jpeg"
 video: "/uploads/2021/videos-BW05_JULIO_SALAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "21% de los chihuahuenses, víctimas de algún delito"
 front: false
 section: "Local"
-news_id: 188202
+redirect_from: /news/188202
 ---
 
 Respecto a que un estudio especializado mencionó que el 21% de los chihuahuenses han sido víctimas de algún delito, El director de Seguridad Pública Municipal Julio Salas, explicó que las estrategias usadas en la administración pasada se les darán continuidad.

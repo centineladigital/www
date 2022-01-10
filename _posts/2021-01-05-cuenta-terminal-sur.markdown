@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con esta apertura se da cumplimiento al proyecto de aprovechamiento de espacios, basado en las necesidades de las personas que diariamente utilizan este medio para movilizarse en la ciudad de Chihuahua"
 image: "/uploads/2021/images-3.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cuenta Terminal Sur del Transporte Bowí con establecimiento comercial"
 front: false
 section: "Local"
-news_id: 181879
+redirect_from: /news/181879
 ---
 
 Como parte del Proyecto de Remodelación de Terminales y Aprovechamiento de Espacios, el Sistema de Transporte Ecológico Bowí dio a conocer la apertura de un establecimiento en su Terminal Sur de la ciudad de Chihuahua.

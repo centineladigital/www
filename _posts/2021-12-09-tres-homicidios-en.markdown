@@ -22,11 +22,11 @@ author: nil
 description: "No es una señal de alerta sino que es un gran avance para el municipio"
 image: "/uploads/2021/images-Homicidio_.JPG"
 video: "/uploads/2021/videos-BJ04_JULIO_SALAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "Tres homicidios en lo que va del mes de diciembre -  Salas "
 front: false
 section: "Local"
-news_id: 190688
+redirect_from: /news/190688
 ---
 
 El Director de Seguridad Pública Municipal,Julio Salas, señaló que en lo que va del mes de diciembre se han presentado tres homicidios en el municipio, por lo que la DSPM, reitera su compromiso con la ciudadanía para erradicar la violencia y la inseguridad.

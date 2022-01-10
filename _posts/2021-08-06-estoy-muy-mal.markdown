@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En Instagram, Larry Hernández comunicó que se encuentra grave de salud tras contagiarse de covid-19. El famoso pidió a sus seguidores que pidieran por su salud, pues sus pulmones no están bien. "
 image: "/uploads/2021/images-larry-hernandez-famoso-cantante-anuncia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estoy muy mal -  Larry Hernández está hospitalizado y grave por covid-19; pide oraciones"
 front: false
 section: "Espectáculos"
-news_id: 186387
+redirect_from: /news/186387
 ---
 
 Larry Hernández, cantante de regional mexicano, generó preocupación entre sus fieles seguidores, pues expresó que se encuentra muy mal de salud tras contagiarse de coronavirus, covid-19 . El intérprete compartió varias historias en su cuenta de Instagram desde la cama del hospital en el que se encuentra internado. Te contamos lo que dijo el esposo de Kenia Ontiveros. 

@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que el mandatario ha sido muy valiente por lo que se pudiera encontrar en riesgo."
 image: "/uploads/2021/images-MESTA1.jpg"
 video: "/uploads/2021/videos-MV03_FERNANDO_MESTA.mp4"
-audio: "nil"
+audio: nil
 alt: "Ponen en riesgo a Corral de no aprobarse seguridad"
 front: false
 section: "Local"
-news_id: 185747
+redirect_from: /news/185747
 ---
 
 “No le están haciendo ningún favor al gobernador y están poniendo el riesgo la integridad” fueron las palabras del Secretario General de Gobierno al ser cuestionado sobre la iniciativa para que una vez concluido el mandato de Javier Corral, este cuente con elementos de seguridad.

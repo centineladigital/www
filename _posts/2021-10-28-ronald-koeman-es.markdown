@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El conjunto blaugrana hizo oficial la salida del director técnico después de perder por segunda ocasión consecutiva en La Liga de España; ahora contra el Rayo Vallecano "
 image: "/uploads/2021/images-ronald-koeman-reuters-7_0_55_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ronald Koeman es despedido del Barcelona"
 front: false
 section: "Deportes"
-news_id: 189293
+redirect_from: /news/189293
 ---
 
 Se acabó la paciencia, Ronald Koeman no es más director técnico del Barcelona, club que lo ha despedido después de la última derrota contra el Rayo Vallecano en la Liga de España y justo a unos días decaer contra el Real Madrid en el Clásico.  

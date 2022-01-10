@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal te invita a participar en el taller en línea de estampación gráfica de Carlos Heredia"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprende a crear arte desde tu cocina"
 front: false
 section: "Local"
-news_id: 189593
+redirect_from: /news/189593
 ---
 
 El Gobierno Municipal de Chihuahua, a través del Instituto de Cultura del Municipio (ICM), te invita a participar en el taller de estampación gráfica que se desarrollará vía zoom, del 8 al 12 de noviembre en un horario de 14:00 a 16:00 horas a través de cinco sesiones prácticas.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ambas ejemplares nacieron alrededor de las 01:00 horas, motivando un despliegue médico para atender a las tres mamíferas"
 image: "/uploads/2021/images-huan-huan-madre-luz-ambas_0_44_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Panda gigante china da a luz a dos crías gemelas en zoológico de Francia"
 front: false
 section: "Buenas Noticias"
-news_id: 186256
+redirect_from: /news/186256
 ---
 
 Una panda gigante prestada por China a Francia dio a luz a dos crías hembras gemelas esta mañana, así lo anunció el Zoo de Beauval, ubicado en París, revelando que ambas crías nacieron luego de las 01:00 horas, motivando así un despliegue médico para atender a las tres mamíferas. Según el zoológico del país europeo, ambas pandas pequeñas nacieron con pesos de 149 y 129 gramos. 

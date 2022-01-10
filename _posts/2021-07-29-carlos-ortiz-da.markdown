@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El mexicano se colocó entre los primeros tres lugares después de la primera ronda; Abraham Ancer también tuvo participación"
 image: "/uploads/2021/images-074361-01-07_x4414670x_crop1627537883240.jpg_788543494.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Carlos Ortiz da cátedra olímpica y es top tres del golf en Tokio 2020"
 front: false
 section: "Deportes"
-news_id: 186089
+redirect_from: /news/186089
 ---
 
 Con Carlos Ortiz peleando en los mas alto arrancó el golf olímpico en el campo Kasumigaseki en Tokio, Japón teniendo como líder luego de la primera ronda al austriaco Sepp Straka quien cerró la tarjeta final con menos 8. 

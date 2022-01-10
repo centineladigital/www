@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ambas reacciones surgen en jornadas marcadas por masivas evacuaciones diplomáticas e intento de escape de afganos en el aeropuerto en Kabul"
 image: "/uploads/2021/images-situacion-afganistan-tomada-urgencia-organismos_0_22_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "ONU pide unirse contra amenaza terrorista en Afganistán; Hamás felicita a talibanes"
 front: false
 section: "Internacional"
-news_id: 186714
+redirect_from: /news/186714
 ---
 
 El secretario general de la Organización de las Naciones Unidas (ONU), Antonio Guterres, llamó hoy a todos los países a trabajar en conjunto para "suprimir la amenaza terrorista mundial en Afganistán" mientras que el movimiento islamista palestino, Hamás, felicitó a los talibanes tras recuperar la capital Kabul y gran parte del país del Medio Oriente. 

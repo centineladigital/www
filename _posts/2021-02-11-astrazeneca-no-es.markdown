@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El CEO Pascal Soriot dijo en conferencia telefónica sobre la vacuna: ¡Es genial! ¿Quién más está preparando 100 millones de dosis en febrero?"
 image: "/uploads/2021/images-2527720.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'AstraZeneca no es perfecta, pero… es genial y salva vidas'"
 front: false
 section: "Nacional"
-news_id: 182847
+redirect_from: /news/182847
 ---
 
 La vacuna COVID-19 de AstraZeneca no es perfecta, pero tendrá un gran impacto en la pandemia, predijo el jueves su director ejecutivo, ya que la farmacéutica se comprometió a duplicar la producción para abril y la Unión Africana dio su respaldo a la inyección.

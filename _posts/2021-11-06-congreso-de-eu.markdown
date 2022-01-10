@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El paquete de 1.2 billones de dólares será enviado al presidente Joe Biden para su firma e implementación; quedará pendiente el Plan de Gasto Social, que fue retrasado por los legisladores este viernes. "
 image: "/uploads/2021/images-nancy-pelosi-lider-camara-representantes_0_45_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Congreso de EU avala Plan de Infraestructura de 1.2 bdd de Biden"
 front: false
 section: "Internacional"
-news_id: 189612
+redirect_from: /news/189612
 ---
 
 La Cámara de Representantes de Estados Unidos aprobó el gigantesco Plan de Infraestructura lanzado por el presidente Joe Biden de 1.2 billones de dólares, esto representando una victoria parcial para el mandatario debido a que aún queda pendiente la aprobación del Plan de Gasto Social, que fue retrasado este mismo viernes por los legisladores.  

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Departamento de Seguridad Interior de EU garantiza los flujos continuos de comercio y traslado de personas en viajes esenciales, como son por una situación médica y de urgencia familiar"
 image: "/uploads/2021/images-2547303.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU extiende restricción en la frontera con México hasta el 21 de abril"
 front: false
 section: "Nacional"
-news_id: 183459
+redirect_from: /news/183459
 ---
 
 El gobierno de Estados Unidos informó que debido a las condiciones que aún prevalecen de riesgo de propagación de contagios de Covid-19 en sus fronteras, de común acuerdo con México y Canadá, se decidió extender la restricción fronteriza para viajes no esenciales hasta el próximo 21 de abril.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante entregó una parte de las ganancias de su gira 'Hecho en México' a una campaña que lucha en contra de la separación de familias inmigrantes en EU. "
 image: "/uploads/2021/images-alejandro-fernandez-donacion-ayudar-migrantes_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Para unir familias -  Alejandro Fernández dona 100 mil dólares para ayudar a migrantes"
 front: false
 section: "Espectáculos"
-news_id: 189298
+redirect_from: /news/189298
 ---
 
 En medio de la incertidumbre que vive la dinastía Fernández debido al estado de salud de El Charro de Huentitán, quien el pasado miércoles salió de terapia intensiva tras varios meses hospitalizado, Alejandro Fernández decidió apoyar una buena causa y donó 100 mil dólares (unos 2 millones de pesos) de las ganancias obtenidas en su gira musical estadunidense con el fin de apoyar a familias inmigrantes.  El Potrillo entregó un cheque por esa cifra a la campaña Families Belong Together durante un concierto en Los Ángeles el sábado, así lo confirmó la organización que lucha en contra de la separación de familias inmigrantes en Estados Unidos. 

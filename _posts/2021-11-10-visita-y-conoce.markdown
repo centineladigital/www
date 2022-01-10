@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " Reabren sus puertas tras largo periodo de cierre por la pandemia"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Visita y conoce en familia las Grutas Nombre de Dios"
 front: false
 section: "Local"
-news_id: 189750
+redirect_from: /news/189750
 ---
 
 El Gobierno Municipal, a través del DIF, invita al público en general a visitar las Grutas Nombre De Dios, el cual reabre sus puertas después de haber estado cerradas por la contingencia sanitaria de COVID – 19, ofreciendo todas las medidas de salud correspondientes.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En su cuenta de Instagram, Liliana Arriaga –ex integrante de ‘La casa de la risa’–compartió imágenes desde la cama de un hospital. ¿Cómo está la famosa comediante, mejor conocida como 'La Chupitos'?"
 image: "/uploads/2021/images-por-que-hospitalizaron-de-emergencia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por si estaban con pendiente -  Hospitalizan a Liliana Arriaga, 'La Chupitos'; esto sabemos"
 front: false
 section: "Espectáculos"
-news_id: 187461
+redirect_from: /news/187461
 ---
 
 Liliana Arriaga, actriz y comediante mejor conocida como ‘La Chupitos’, causó preocupación entre sus amigos y seguidores durante este fin de semana, pues desde sus redes sociales informó que había sido hospitalizada. Desde la cama de un hospital la famosa alertó a sus fans. ¿Qué fue lo que le pasó? ¿Cómo está la comediante de varios programas de televisión y shows? Fue a través de su cuenta de Instagram en donde Liliana Arriaga –ex integrante de ‘La casa de la risa’– en donde compartió imágenes de ella con una bata y acostada en una cama de hospital junto a una leyenda que retrató un poco más de su humor. “Por si estaban con el pendiente”, escribió Liliana Arriaga.

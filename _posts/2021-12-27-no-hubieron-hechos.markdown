@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Al iniciar su conferencia de prensa en el Salón Tesorería, el Presidente felicitó a todos los mexicanos por las fiestas decembrinas"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " No hubieron hechos graves que lamentar en todo el país por Nochebuena y Navidad -  AMLO"
 front: false
 section: "Nacional"
-news_id: 191216
+redirect_from: /news/191216
 ---
 
 El presidente Andrés Manuel López Obrador celebró que luego de la NocheBuena y Navidad no hubo hechos graves que lamentar en todo el país. 

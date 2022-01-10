@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que trabajan a marchas forzadas tras renuncia de exsecretario."
 image: "/uploads/2021/images-KOMADA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ04.mp3"
 alt: "Entregaremos padrones reales en el municipio -  Komada"
 front: false
 section: "Local"
-news_id: 185335
+redirect_from: /news/185335
 ---
 
 Un padrón real de lo que se tiene en el municipio es lo que entregará la subdirección de Gobernación, fueron las palabras del titular de la dependencia César Komada al ser cuestionado en relación al proceso de entrega-recepción de la administración.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Netflix publicó por fin el tráiler de la tercera temporada de You, la serie que sigue a Joe Goldberg, un asesino que al parecer seguirá haciendo de las suyas."
 image: "/uploads/2021/images-la-tercera-temporada-de-you.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Un bebé y una muerte? Revelan tráiler de la tercera temporada de 'You'"
 front: false
 section: "Espectáculos"
-news_id: 187814
+redirect_from: /news/187814
 ---
 
 You, una de las series más populares y exitosas de Netflix que muy pronto estrenará una tercera temporada. Es por eso que a más de un mes de que la parte tres de la historia que sigue al asesino Joe Goldberg llegue a la plataforma, se reveló el tráiler de la producción en la que nos dan un adelanto de lo que podremos ver. En el tráiler nos muestran el nacimiento del hijo de Joe y Love Quinn, joven a la que conocimos en la segunda temporada, quien al final resulta ser mucho más violenta que el protagonista de la serie. 

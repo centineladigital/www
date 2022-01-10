@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esta celebración pretende conmemorar a los profesionales de los medios de comunicación, así como a la libertad de expresión"
 image: "/uploads/2021/images-2506036.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Por qué se celebra hoy el Día del Periodista en México?"
 front: false
 section: "Nacional"
-news_id: 181835
+redirect_from: /news/181835
 ---
 
 Se interesan por buscar la nota, están pendientes de lo que pasa en el mundo e investigan la información más relevante ¿quiénes son? Los periodistas.

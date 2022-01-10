@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Piden que se dé solución a la problemática en materia de salud."
 image: "/uploads/2021/images-SOFIA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW02.mp3"
 alt: "Enfermeros toman edificio y bloquean cuadro histórico"
 front: false
 section: "Local"
-news_id: 184955
+redirect_from: /news/184955
 ---
 
 Ante la inconformidad que no tienen una atención en materia de salud de forma digna, este miércoles integrantes del sindicato de Salud se manifestaron en el primer cuadro de la ciudad, donde llevaron a cabo la toma del edificio Héroes de Reforma y bloquearon las calles Aldama y Venustiano Carranza.

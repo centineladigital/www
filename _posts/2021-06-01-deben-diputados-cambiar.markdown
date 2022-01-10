@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“No se puede ser diputado de la misma forma después de hacer el recorrido por el distrito”"
 image: "/uploads/2021/images-QUINTANA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM01_VICTOR_QUINTANA.mp3"
 alt: "Deben diputados cambiar forma de trabajo"
 front: false
 section: "Local"
-news_id: 184781
+redirect_from: /news/184781
 ---
 
 La forma en la que se lleva a cabo el trabajo de los diputados debe de cambiar, señaló el candidato de Morena por el distrito 12 Víctor Quintana Silveira, esto al señalar que dentro de los diversos distritos solamente se conocen a candidatos y no a funcionarios y representantes populares.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente informó que tras la primera etapa de la dosis se obtuvieron buenos resultados. "
 image: "/uploads/2021/images-andres-manuel-lopez-obrador-conferencia-77.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO estima que Patria, vacuna anticovid mexicana, estará lista en 2022"
 front: false
 section: "Nacional"
-news_id: 190331
+redirect_from: /news/190331
 ---
 
 El presidente Andrés Manuel López Obrador estimó que Patria, la vacuna anticovid mexicana, estará lista en 2022; biológico para el cual el gobierno federal aprobó destinar 180 millones de pesos y cuya investigación es liderada por científicos del Consejo Nacional de Ciencia y Tecnología (Conacyt).  

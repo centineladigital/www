@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "En la sesión de este martes fue aprobado en pleno el acuerdo de la Junta de Coordinación Política en el que nombran al Senador Rafael Espino de la Peña como Secretario de la Comisión de Economía"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Este martes en sesión, el senador Rafael Espino de la Peña fue nombrado Secretario de la Comisión de Economía"
 front: false
 section: "Local"
-news_id: 188165
+redirect_from: /news/188165
 ---
 
 Durante el desarrollo de la sesión ordinaria de este martes en el Senado de la

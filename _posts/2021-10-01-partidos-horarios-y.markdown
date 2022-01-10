@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Conoce cuándo y a qué hora serán los duelos de la fecha 12 del torneo Grita México A21 de la Liga MX "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Partidos, horarios y dónde ver EN VIVO la jornada 12 del Apertura 2021 de la Liga MX"
 front: false
 section: "Deportes"
-news_id: 188260
+redirect_from: /news/188260
 ---
 
 Esta semana concluye la doble fecha del Apertura 2021 de la Liga MX en una jornada 12 que arrancará con el Puebla vs Pachuca el próximo viernes 1 de octubre a las 19:00 horas, ambos clubes en puestos de la zona baja de la tabla general. 

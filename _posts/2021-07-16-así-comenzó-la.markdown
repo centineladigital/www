@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Odalys Ramírez y Patricio Borghetti se conocieron hace más de nueve años y al principio su relación no inicio con el pie derecho."
 image: "/uploads/2021/images-odalys-ramirez-patricio-borghetti-juntos_62_103_898_558.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así comenzó la historia de amor entre Odalys Ramírez y Patricio Borghetti"
 front: false
 section: "Espectáculos"
-news_id: 185730
+redirect_from: /news/185730
 ---
 
 La conductora Odalys Ramírez y Patricio Borghetti mantienen una relación desde hace casi 10 años y sin duda son una de las parejas más estables dentro del mundo del espectáculo. A pesar de que hace tan sólo unos meses se comprometieron y tienen dos hermosos hijos, su historia tuvo un comienzo poco romántico. A través de Venga la alegría, programa que conduce Patricio Borghetti, el cantante contó cómo conoció a Odalys Ramírez y cómo inició su relación. 

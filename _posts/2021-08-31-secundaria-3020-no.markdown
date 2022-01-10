@@ -12,11 +12,11 @@ author: nil
 description: "Tienen 30 alumnos a la intemperie "
 image: "/uploads/2021/images-secundarias.jpg"
 video: "/uploads/2021/videos-BM03_LAUAR_MUÑOZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Secundaria 3020 no tiene aulas para los alumnos "
 front: false
 section: "Local"
-news_id: 187307
+redirect_from: /news/187307
 ---
 
 Laura muñoz Gonzales directora de la secundaria 3020 afirmó que no tienen aulas para que el alumnado tenga sus clases, actualmente tiene a 30 alumnos, por parte de la Secretaría de Educación se les aseguro que tendían aulas móviles pero no han tenido respuesta.

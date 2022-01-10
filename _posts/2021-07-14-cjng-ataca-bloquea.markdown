@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Secretaría de Seguridad Pública de Michoacán, informó que el personal policial respondió el ataque y lesionó a uno de los agresores, el cual fue detenido."
 image: "/uploads/2021/images-michoacan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "CJNG ataca, bloquea y quema vehículos en varios puntos de Michoacán"
 front: false
 section: "Nacional"
-news_id: 185661
+redirect_from: /news/185661
 ---
 
 Células criminales del Cártel Jalisco Nueva Generación (CJNG) atacaron, bloquearon carreteras y quemaron vehículos simultáneamente en varios puntos del estado de Michoacán.

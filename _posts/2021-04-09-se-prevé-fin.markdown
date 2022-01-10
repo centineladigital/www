@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En general será un fin semana agradable"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se prevé fin de semana soleado con clima cálido en la ciudad"
 front: false
 section: "Local"
-news_id: 183789
+redirect_from: /news/183789
 ---
 
 De acuerdo con datos de la Coordinación Municipal de Protección Civil y según el pronóstico que emite el Servicio Meteorológico Nacional, se pronostican para este fin de semana días principalmente soleados con vientos moderado que no excedan los 49 kilómetros por hora, por lo cual es necesario estar preparados y tomar las precauciones necesarias.

@@ -16,11 +16,11 @@ author: nil
 description: "Se llevará acabo del 12 al 23 de octubre"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_11.50.14.jpeg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-09-28_at_12.56.10.mp4"
-audio: "nil"
+audio: nil
 alt: "Presentan invitación al FICUU 2021"
 front: false
 section: "Local"
-news_id: 188151
+redirect_from: /news/188151
 ---
 
 El Festival Internacional Chihuahua (FICUU) se llevará a cabo del 12 al 23 de octubre de manera presencial  en distintos puntos de la ciudad donde participaran 250 artistas, los escenarios serán 3 y estarán ubicados en los siguientes lugares: plaza de armas, a un costado del palacio de gobierno y el ultimo en la presa el rejón.

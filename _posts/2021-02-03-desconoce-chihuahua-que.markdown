@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Aún no saben que marca es la adquirida por el gobierno a nivel nacional."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW02_WENDY_AVILA.mp3"
 alt: "Desconoce Chihuahua que vacunas llegarán"
 front: false
 section: "Local"
-news_id: 182674
+redirect_from: /news/182674
 ---
 
 En el tercer envío de vacunas por parte de la federación el gobierno desconoce que marca es la que llegará, señaló Wendy Ávila Coronado Subsecretaria de Medicina Preventiva y Promoción de la Salud.

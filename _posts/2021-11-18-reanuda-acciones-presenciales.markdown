@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Benefician a 120 alumnos con discapacidad."
 image: "/uploads/2021/images-índice.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ05_RAQUEL_JIMENEZ.mp4"
 alt: "Reanuda acciones presenciales escuela de Artes y Oficios"
 front: false
 section: "Local"
-news_id: 189969
+redirect_from: /news/189969
 ---
 
 De forma presencial se aperturaron las actividades de la Escuela de Artes y Oficios de forma presencial, con lo que un total de 120 alumnos regresaron a clases de lectoescritura, braille, dibujo, pintura, tejido y bordado, manualidades, bisutería, computación y lengua de señas mexicanas

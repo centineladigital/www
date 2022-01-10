@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Asumen el cargo en la dirección ejecutiva de las JMAS de Cuauhtémoc, Saucillo, Rosales, Casas Grandes y Nuevo Casas Grandes"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Toman protesta a titulares de 5 Juntas Municipales de Agua y Saneamiento"
 front: false
 section: "Local"
-news_id: 190941
+redirect_from: /news/190941
 ---
 
 Por encomienda de la gobernadora Maru Campos, Roberto Lara Rocha, director ejecutivo de la Junta Central de Agua y Saneamiento (JCAS) presidió el acto protocolario en el que se tomó protesta de ley a nuevos titulares de cinco Juntas Municipales de Agua y Saneamiento.

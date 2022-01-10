@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de un comunicado, herederos de Gucci amenazaron este lunes con comenzar acciones legales contra la nueva película de Ridley Scott House of Gucci."
 image: "/uploads/2021/images-house-of-gucci-especial.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Herederos amenazan con tomar acciones legales por la película 'House of Gucci'"
 front: false
 section: "Espectáculos"
-news_id: 190324
+redirect_from: /news/190324
 ---
 
 Los herederos de la casa de moda de lujo italiana Gucci amenazaron este lunes con comenzar con acciones legales contra la recientemente estrenada película de Ridley Scott House of Gucci, a la que acusan de retratar a los miembros de la familia como "hooligans". La esperada película se basa en uno de los acontecimientos más destacados y mediáticos de la década de 1990 en Italia: el asesinato de Maurizio Gucci (interpretado por Adam Driver), el heredero de la casa de moda italiana, cuya imputada como responsable fue su exesposa Patrizia Reggiani (Lady Gaga en el filme).

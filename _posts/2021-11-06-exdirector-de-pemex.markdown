@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Niega haber recibido $4 millones de Odebrecht por firma de contrato, dice abogado; presentarán pruebas de cargo contra exdirector de Pemex"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exdirector de Pemex, Carlos Treviño, va contra FGR y Lozoya"
 front: false
 section: "Nacional"
-news_id: 189616
+redirect_from: /news/189616
 ---
 
 El exdirector de Petróleos Mexicanos (Pemex) Carlos Treviño Medina rechazó las acusaciones en su contra de haber recibido supuestamente 4 millones de pesos en “cumplimiento de una promesa” hecha en 2008, por la firma del contrato de suministro de etano de Pemex Exploración y Producción (PEP), a la brasileña Braskem, filial de Odebrecht.

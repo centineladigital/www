@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ante los malos tratos por parte de las autoridades estadunidenses en la frontera sur a migrantes haitianos, la CIDH y la ONU piden sanciones a los responsables. Comparte esta noticia "
 image: "/uploads/2021/images-poco-a-poco-los-migrantes_0_21_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "CIDH y ONU condenan uso excesivo de la fuerza contra migrantes haitianos"
 front: false
 section: "Internacional"
-news_id: 188370
+redirect_from: /news/188370
 ---
 
 La Comisión Interamericana de Derechos Humanos (CIDH) y el relator especial de la Organización de las Naciones Unidas sobre los Derechos Humanos de las Personas Migrantes condenaron el uso excesivo de la fuerza contra migrantes de Haití en Del Río, Texas, así como las remociones y expulsiones realizadas desde la frontera sur de los Estados Unidos, a México y directamente a Haití. 

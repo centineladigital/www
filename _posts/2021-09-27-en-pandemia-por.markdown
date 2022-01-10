@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esto fue posible gracias al resguardo de más de 400 tejidos en el Banco de Tejido Corneal del Hospital General “Dr. Gaudencio González Garza”."
 image: "/uploads/2021/images-Foto_426-4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En pandemia por COVID-19, especialistas de La Raza logran más de 100 trasplantes de córnea este año"
 front: false
 section: "Local"
-news_id: 188098
+redirect_from: /news/188098
 ---
 
 A pesar de la emergencia sanitaria por COVID-19, el Banco de Tejido Corneal del Hospital General “Dr. Gaudencio González Garza” del Centro Médico Nacional (CMN) La Raza ha resguardado durante este año 404 tejidos, de los cuales se han asignado más de 100 para trasplante a pacientes ordinarios y de urgencias de esta Unidad Médica de Alta Especialidad (UMAE).

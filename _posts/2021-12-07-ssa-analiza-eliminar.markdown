@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El funcionario comentó que el propósito de la vigilancia epidemiológica no es interferir con el traspaso de los virus. "
 image: "/uploads/2021/images-subsecretario-salud-participo-conferencia-mananera.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ssa analiza eliminar cuestionarios a viajeros en aeropuertos por covid-19"
 front: false
 section: "Nacional"
-news_id: 190573
+redirect_from: /news/190573
 ---
 
 El subsecretario de Prevención y Promoción de la Salud, Hugo López-Gatell, informó que en menos de un mes se eliminarán los cuestionarios de salud que se aplican en los aeropuertos, porque no han demostrado tener alguna utilidad científica. 

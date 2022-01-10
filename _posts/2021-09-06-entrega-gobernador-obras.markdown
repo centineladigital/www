@@ -10,11 +10,11 @@ author: nil
 description: "Se incluirán 300 unidades para movilización de los juarenses."
 image: "/uploads/2021/images-BRT.jpg"
 video: "/uploads/2021/videos-ML03_JAVIER_CORRAL.mp4"
-audio: "nil"
+audio: nil
 alt: "Entrega Gobernador obras del BRT"
 front: false
 section: "Local"
-news_id: 187473
+redirect_from: /news/187473
 ---
 
 Este lunes el Gobernador de Chihuahua llevó a cabo la entrega de obras del sistema de transporte BRT en Ciudad Juárez, esto entregando la segunda fase de ruta en la cual se incluirán 300 unidades de transporte en una integración operacional.

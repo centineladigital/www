@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Llama a sumar esfuerzos con el PAN."
 image: "/uploads/2021/images-GR1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM05_GRACIELA.mp3"
 alt: "Llama Ortiz a frente conjunto"
 front: false
 section: "Local"
-news_id: 184649
+redirect_from: /news/184649
 ---
 
 En una declaración que se interpretó como una declinación a favor de María Eugenia Campos Galván, la candidata del PRI al gobierno de Chihuahua, Graciela Ortiz, llamó ha hacer un frente conjunto a Morena.

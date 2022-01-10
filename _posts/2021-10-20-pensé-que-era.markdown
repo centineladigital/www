@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El experto gastronómico señaló que el programa no es una payasada; puede tener todos los elementos extraños de nuestra cultura, pero es un reflejo."
 image: "/uploads/2021/images-chef-revelo-podcast-alex-fernandez.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pensé que era algo que se grababa en un fin de semana -  Chef Herrera recuerda cómo llegó a ser juez de 'MasterChef'"
 front: false
 section: "Espectáculos"
-news_id: 188956
+redirect_from: /news/188956
 ---
 
 Durante una entrevista en el podcast del comediante Alex Fernández, el chef Adrián Herrera, quien se ha vuelto muy popular por su participación en el programa MasterChef, recordó cómo fue que llegó a ser juez del reality show. "Estábamos mi mujer y yo en la casa, viendo la tele antes de que quitara la tele del cuarto. Estábamos ahí y de repente suena el teléfono: 'Soy fulano de tal, soy el productor de MasterChef'. Y yo de: 'No sé qué es MasterChef'".

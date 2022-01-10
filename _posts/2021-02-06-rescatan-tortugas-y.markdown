@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se trata de especies sujetas a protección especial, elementos de la GN lograron entregarlas a la Procuraduría Federal de Protección al Medio Ambiente"
 image: "/uploads/2021/images-2524946.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rescatan tortugas y loros cabeza roja, animales con protección especial"
 front: false
 section: "Buenas Noticias"
-news_id: 182764
+redirect_from: /news/182764
 ---
 
 Elementos de la Guardia Nacional en dos acciones diferentes, rescataron en la carretera Tuxtepec-Entronque Palomares, en el municipio de Tuxtepec, Oaxaca, a cinco tortugas y dos loros cabeza roja, especies sujetas a protección especial.

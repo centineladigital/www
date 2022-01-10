@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La banda El Recodo es de mi madre, ella es la dueña de todo esto. La parte de lo musical me corresponde a mí y en su momento le correspondió a German, dijo el artista."
 image: "/uploads/2021/images-integrante-revelo-detalles-banda-entrevista.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Muy difícil -  Poncho Lizárraga revela que El Recodo estuvo a punto de desaparecer tras muerte de su papá"
 front: false
 section: "Espectáculos"
-news_id: 188840
+redirect_from: /news/188840
 ---
 
 Poncho Lizárraga, integrante de la banda El Recodo desde 1992, acudió al programa El minuto que cambió mi destino, que conduce Gustavo Adolfo Infante, para hablar de la agrupación de música regional de la que actualmente es el director musical. En dicha charla, el músico habló del momento en que estuvo a punto de desaparecer el proyecto originario de Mazatlán: cuando en 1995 murió Cruz Lizárraga, papá de Poncho. 

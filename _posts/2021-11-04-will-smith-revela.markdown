@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De acuerdo con el nuevo libro de Will Smith, el actor pensó que podría vengar a su madre si mataba a su padre. "
 image: "/uploads/2021/images-will-smith-penso-matar-padre.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Will Smith revela que pensó en matar a su padre para vengar violencia sobre su madre"
 front: false
 section: "Espectáculos"
-news_id: 189536
+redirect_from: /news/189536
 ---
 
 Will Smith estrenará su libro de memorias llamado Will, el cual sale a la venta para el público el próximo 9 de noviembre. El actor de 53 años se prepara para contar momentos alegres y lúcidos pero también paisajes dolorosos y traumáticos, y tal es el caso de la ocasión en que pensó en asesinar a su padre, como forma de venganza a su madre.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mientras algunos internautas están felices por este hecho, otros piensan que el evento perdió su esencia rockera."
 image: "/uploads/2021/images-vive-latino-anuncio-agrupacion-originaria.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Banda MS se presentará en el Vive Latino; reaccionan en redes"
 front: false
 section: "Espectáculos"
-news_id: 188577
+redirect_from: /news/188577
 ---
 
 Tras no llevar a cabo su edición 2021 debido a la pandemia de covid-19, el Festival Vive Latino, que anualmente se encarga de reunir a los mejores talentos musicales de Iberoamérica, está en plena promoción de su edición 2022 a través de sus redes sociales.

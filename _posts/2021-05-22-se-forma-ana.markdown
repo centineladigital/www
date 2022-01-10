@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los meteorólogos pronostican otra temporada agitada, aunque apuntan que no será tan intensa como la de 2020, que batió varios récords"
 image: "/uploads/2021/images-2582776.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se forma 'Ana', primera tormenta subtropical del año en el Atlántico"
 front: false
 section: "Nacional"
-news_id: 184602
+redirect_from: /news/184602
 ---
 
 La tormenta subtropical Ana se formó en la madrugada del sábado en el Océano Atlántico, dijo el Centro Nacional de Huracanes de Estados Unidos.

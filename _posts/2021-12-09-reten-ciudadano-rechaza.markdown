@@ -22,11 +22,11 @@ author: nil
 description: "Se estableció como acuerdo su participación por medio de una reunión formal en donde se analizara la propuesta."
 image: "/uploads/2021/images-_hd4f46523304fb08f4a6837418bc9a323161be7e83.jpeg"
 video: "/uploads/2021/videos-BJ01_ORGANIZACION.mp4"
-audio: "nil"
+audio: nil
 alt: "Reten ciudadano rechaza Replaqueo"
 front: false
 section: "Local"
-news_id: 190685
+redirect_from: /news/190685
 ---
 
 Una gran mayoría de los integrantes de la organización Reten ciudadano protestaron en contra de contemplación del Replaqueo y cobro de la revalidación vehicular interpuesta en la ley de ingresos para el próximo ejercicio fiscal 2022.

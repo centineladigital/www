@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las asignaciones a México se reducirán en un 5 por ciento"
 image: "/uploads/2021/images-toma-satelital-lago-mead-tomada_0_46_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU declara escasez de agua en Lago Mead; anuncia recortes que afectarán a México"
 front: false
 section: "Internacional"
-news_id: 186763
+redirect_from: /news/186763
 ---
 
 Funcionarios estadunidenses emitieron por primera vez una declaración oficial de escasez de agua para el enorme embalse occidental del lago Mead, provocando cortes en el suministro al suroeste del país y a México. La escasez reducirá las aplicaciones de agua a Arizona, Nevada y México para el año que comienza en octubre, dijo la Oficina de Recuperación de Estados Unidos en un comunicado. 

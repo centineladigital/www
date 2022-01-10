@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se aseguraron 16 elementos balísticos"
 image: "/uploads/2021/images-Infografía.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Comisión de Búsqueda realiza operativo en presencia de familiares de víctimas de desaparición"
 front: false
 section: "Local"
-news_id: 186248
+redirect_from: /news/186248
 ---
 
 Ante la presencia de familiares de víctimas de desaparición, la Comisión de Búsqueda en coordinación con la organización Justicia Para Nuestras Hijas, continúa con los operativos de rastreo en el lugar conocido como carrizalillo al sur de la ciudad de Chihuahua capital.   

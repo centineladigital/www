@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Según The New York Times, la idea nunca se presentó formalmente a Donald Trump para su implementación, pero se discutió en reuniones en la Casa Blanca durante 2020. "
 image: "/uploads/2021/images-donald-trump-ex-presidente-de-2_3_51_931_580.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobierno de Trump planeó enviar 250 mil soldados a frontera con México -  NYT"
 front: false
 section: "Internacional"
-news_id: 188952
+redirect_from: /news/188952
 ---
 
 En el inicio de la pandemia de covid-19 de 2020, un alto mando militar y el Departamento de Seguridad Nacional de Estados Unidos analizaron la posibilidad de enviar 250 mil militares a la frontera con México, mientras que Donald Trump propuso enviar militares al interior de este país para combatir a cárteles de la droga, informó el periódico The New York Times. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Reyes presentó su plan de trabajo y el magistrado José Luis Vargas se sumó al voto unánime de sus pares"
 image: "/uploads/2021/images-recientemente-tribunal-visto-envuelto-conflictos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Magistrados eligen a Reyes Rodríguez Mondragón como nuevo presidente del TEPJF"
 front: false
 section: "Nacional"
-news_id: 187374
+redirect_from: /news/187374
 ---
 
 En una sorpresiva unanimidad, la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación (TEPJF) respaldó al magistrado Reyes Rodríguez Mondragón como su nuevo presidente hasta finales de octubre de 2024.

@@ -14,11 +14,11 @@ author: nil
 description: "El número de personas que han perdido la vida por COVID-19 ascendió a 8 mil 281, casos con una defunción nueva correspondiente al municipio de Chihuahua."
 image: "/uploads/2021/images-Sin_título.png"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-11-22_at_14.10.51.3gpp"
-audio: "nil"
+audio: nil
 alt: "Se registran 27 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 190082
+redirect_from: /news/190082
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 22 de noviembre el reporte COVID-19, en el cual se registran 84 mil 471 (+27) personas confirmadas en la entidad por este padecimiento, 72 mil 259 (+56) casos recuperados, 79 mil 292 (+18) descartados y 946 (-11) casos sospechosos.

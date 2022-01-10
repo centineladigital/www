@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista con 'Ventaneando', la famosa señaló que le han ofrecido llevar su trayectoria a la televisión, pero no está convencida. "
 image: "/uploads/2021/images-angelica-maria-cuartoscuro.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acusar a la gente que se portó mal conmigo -  Angélica María revela por qué no haría una serie sobre su vida"
 front: false
 section: "Espectáculos"
-news_id: 185936
+redirect_from: /news/185936
 ---
 
 Aunque son varias las celebridades que han decidido llevar sus vidas a la televisión en formato de serie, Angélica María tiene claro que a ella no le gustaría algo así, pues tendría que contar la verdad de su trayectoria, señalando a la gente "muy querida" que se portó mal con ella. "Es difícil, porque tendría que acusar a la gente que se portó mal conmigo y es gente muy famosa, muy querida. No puedo", contó la famosa. 

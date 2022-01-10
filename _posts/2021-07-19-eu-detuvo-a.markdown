@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Desde que Joe Biden asumió el cargo de presidente de Estados Unidos, las cifras de detenciones fronterizas han aumentado y se han convertido, además, en motivo de frustración y crítica constante por parte de congresistas republicanos en el Congreso."
 image: "/uploads/2021/images-migrantes-corren-diversos-riesgos-viaje.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU detuvo a 188 mil inmigrantes en junio"
 front: false
 section: "Internacional"
-news_id: 185774
+redirect_from: /news/185774
 ---
 
 Con una cifra récord de 188 mil detenciones de inmigrantes en junio, la oficina de Aduanas y Protección Fronteriza (CBP, por sus silgas en inglés), alcanzó su peor mes en verano, época en donde las altas temperaturas suelen inhibir los intentos de quienes desean cruzar a Estados Unidos a través de México. El Sheriff Ed Gonzalez, a quien el presidente Joe Biden nominó para dirigir el Servicio de Inmigración y Control de Aduanas aceptó que “los números son abrumadores”.

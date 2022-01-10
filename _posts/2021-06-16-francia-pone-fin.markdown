@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El primer ministro de Francia anuncia que el uso del cubrebocas al aire libre ya no será obligatorio a partir del jueves, y que se levantará el toque de queda a partir del domingo"
 image: "/uploads/2021/images-2595923.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Francia pone fin al uso de cubrebocas al aire libre y retira toque de queda"
 front: false
 section: "Internacional"
-news_id: 185054
+redirect_from: /news/185054
 ---
 
 El uso del cubrebocas al aire libre ya no será obligatoriao en Francia a partir del jueves, salvo en ciertas circunstancias como los encuentros entre mucha gente, los lugares muy concurridos o los estadios, anunció este miércoles el primer ministro galo, Jean Castex.

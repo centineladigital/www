@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La dependencia pide a la comunidad seguir las recomendaciones para prevenir incidentes"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Protección Civil Municipal por fuertes vientos para este sábado y domingo"
 front: false
 section: "Local"
-news_id: 182398
+redirect_from: /news/182398
 ---
 
 Ante los fuertes vientos que podrán superarán los 70 kilómetros por hora para este sábado y mañana domingo en la ciudad de Chihuahua, la Coordinación Municipal de Protección Civil alerta a la comunidad a seguir las recomendaciones para evitar incidentes que puedan poner en riesgo la integridad física o provocar daños materiales.

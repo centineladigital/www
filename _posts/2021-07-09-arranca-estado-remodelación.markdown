@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con del Fondo de Reparación Justicia para Chihuahua se realizan diversos proyectos en coinversión con el Ayuntamiento; a la fecha se han invertido 5.4 mdp en obras con enorme valor social que la propia ciudadanía decide.   "
 image: "/uploads/2021/images-bibloteca.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca Estado remodelación de biblioteca y Jardín del Abuelo en Allende"
 front: false
 section: "Local"
-news_id: 185500
+redirect_from: /news/185500
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Desarrollo Municipal (Sedemun) y el programa Desarrollo, Paz y Reencuentro, en conjunto con el Ayuntamiento de Allende, puso en marcha la remodelación de la biblioteca pública “Octavio Paz” y el Jardín del Abuelo.

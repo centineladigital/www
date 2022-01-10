@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Este jueves se enfrentan la Franja y la Fiera en el juego de ida de los cuartos de final"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cuándo y dónde ver el Puebla vs León?"
 front: false
 section: "Deportes"
-news_id: 190191
+redirect_from: /news/190191
 ---
 
 La Liguilla del futbol mexicano se puso en marcha este miércoles, pero la realidad es que los primeros encuentros decepcionaron con un doble cero a cero. 

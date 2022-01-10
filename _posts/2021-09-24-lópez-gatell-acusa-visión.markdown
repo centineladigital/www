@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El funcionario aseguró que del total de amparos que se han presentado, una tercera parte se han negado, dándole la razón al gobierno sobre la vacunación."
 image: "/uploads/2021/images-subsecretario-salud-hugo-lopez-gatell-17.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "López-Gatell acusa visión individualista en amparos para vacunar contra covid a menores"
 front: false
 section: "Nacional"
-news_id: 188015
+redirect_from: /news/188015
 ---
 
 El subsecretario de Prevención y Promoción de la Salud, Hugo López-Gatell, consideró desafortunado, aunque legal, que se presenten amparos para que se vacune contra el covid-19 a menores de 18 años, al considerarlo “extremadamente individualista”. 

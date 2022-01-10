@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " Invertimos no sólo en equipo e insumos médicos, sino también en capacitación y participación de las y los trabajadores de clínicas y hospitales, dijo el director general del Instituto."
 image: "/uploads/2021/images-ISSSTE_01.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Impulsa ISSSTE programa “sin contaminación visual, nos vemos mejor” para renovar la imagen de las unidades médicas."
 front: false
 section: "Local"
-news_id: 189220
+redirect_from: /news/189220
 ---
 
 Estamos cumpliendo la transformación de todos los servicios de salud en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), no sólo invirtiendo en equipo e insumos médicos, sino en la capacitación y participación del personal, por ello impulsamos el programa “Sin contaminación visual, nos vemos mejor”, el cual busca renovar la imagen de clínicas y hospitales para mejorar la atención a la derechohabiencia, informó el director general, Luis Antonio Ramírez Pineda.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal aumentó el descuento al 80% en recargos"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Estás retrasado en el pago por pavimentación de tu calle?; esto te interesa"
 front: false
 section: "Local"
-news_id: 189650
+redirect_from: /news/189650
 ---
 
 El Gobierno Municipal a través del Consejo de Urbanización Municipal, invita a la ciudadanía a ponerse al corriente con su cuenta y aprovechar el 80% de descuento en recargos por pago de pavimentación, durante lo que resta del año.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La nueva variante, identificada como B.1.1.222, tiene dos mutaciones importantes que podrían hacer el virus más transmisible"
 image: "/uploads/2021/images-2536182.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detectan en México nueva cepa vinculada a un 80% de los casos"
 front: false
 section: "Nacional"
-news_id: 183170
+redirect_from: /news/183170
 ---
 
 El jefe de la Unidad de Desarrollo Tecnológico e Investigación Molecular del Instituto de Diagnóstico y Referencia Epidemiológicos (Indre) de México, José Ernesto Ramírez González, ha informado de que se ha detectado una nueva variante de coronavirus que estaría vinculada ya al 80 por ciento de los casos registrados.

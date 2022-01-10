@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "lejandra Enríquez, presentó el informe de gestión en esta última sesión donde expuso el resultado de los programas que se desarrollaron en la administración 2018 – 2021 y los beneficios que apartaron estos a la comunidad cultural"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Celebran última sesión del Consejo de Cultura del Municipio"
 front: false
 section: "Local"
-news_id: 187507
+redirect_from: /news/187507
 ---
 
 El Gobierno Municipal celebró la última sesión del Consejo de Cultura del Municipio, el cual se llevó a cabo en las instalaciones del Museo Sebastián con la presencia de las y los consejeros que lo integran.  

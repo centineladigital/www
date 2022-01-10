@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Estas actividades son con el objetivo de fortalecer la cultura de la prevención para mantener un estado de salud óptimo "
 image: "/uploads/2021/images-Foto_6292-4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia IMSS Chihuahua Campaña de Higiene de Manos en sus unidades médicas y hospitalarias de la entidad "
 front: false
 section: "Local"
-news_id: 190927
+redirect_from: /news/190927
 ---
 
 En el marco de la Campaña Higiene de Manos, este miércoles el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua dio inicio en sus unidades médicas y hospitalarias en la entidad,  pláticas y orientación dirigida a directivos de las mismas. 

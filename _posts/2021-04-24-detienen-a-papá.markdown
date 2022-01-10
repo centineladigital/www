@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Michael Lohan, de 60 años, fue arrestado por una ilegal intermediación de pacientes por los que habría recibido al menos 25 mil dólares.   "
 image: "/uploads/2021/images-lindsay-lohan-foto-facebook_0_55_720_448.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detienen a papá de Lindsay Lohan; cobraba a personas adictas por ingresar a rehabilitación"
 front: false
 section: "Espectáculos"
-news_id: 184090
+redirect_from: /news/184090
 ---
 
 El padre de Lindsay Lohan está en problemas. El papá de la actriz fue arrestado este viernes en Florida, Estados Unidos, por presuntamente referir adictos a centros de tratamiento de drogas en Florida a cambio del cobro ilegal de comisiones, confirmaron a Efe autoridades locales. Michael Lohan, de 60 años, fue arrestado en el marco de una investigación hecha por las autoridades del condado Palm Beach, en el sureste de Florida, por una ilegal "intermediación de pacientes" por los que habría recibido al menos 25 mil dólares. 

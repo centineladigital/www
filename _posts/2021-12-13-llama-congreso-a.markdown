@@ -18,11 +18,11 @@ author: nil
 description: "El Congreso del Estado convoca a 3 reuniones para la aprobación de la totalidad de las iniciativas que intervienen en el paquete económico para el año 2022"
 image: "/uploads/2021/images-preview_25295bca5bca15ba6eabdbffc2c609d3915888c4.jpeg"
 video: "/uploads/2021/videos-BL05_MARIO_VAZQUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Llama congreso a 3 sesiones para aprobación del paquete económico"
 front: false
 section: "Local"
-news_id: 190809
+redirect_from: /news/190809
 ---
 
 Por motivo de la iniciativa del fortalecimiento financiero que incluye, deuda bursátil, 2 créditos a largo plazo y el refinanciamiento de otros mecanismos financieros,  el Congreso del Estado convoca a 3 reuniones para la aprobación de la totalidad de las iniciativas que intervienen en el paquete económico para el año 2022.

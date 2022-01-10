@@ -10,11 +10,11 @@ author: nil
 description: "Trabajan en continuar con la disminución de índices delincuenciales."
 image: "/uploads/2021/images-roberrto.jpg"
 video: "/uploads/2021/videos-MJ05_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Disminuye un 23 por ciento homicidios en el estado"
 front: false
 section: "Local"
-news_id: 189789
+redirect_from: /news/189789
 ---
 
 En comparación con el mes de octubre del 2020 se registró una reducción de un 23 por ciento en materia de homicidios, según dio a conocer el Fiscal General del Estado Roberto Fierro Duarte. Quien por otra parte señaló que en los primeros 10 días del presente mes se registraron un total de 49 muertes.

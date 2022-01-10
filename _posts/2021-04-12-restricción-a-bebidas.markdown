@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ven positivo el regreso al Semáforo Naranja, pero con algunas reservas"
 image: "/uploads/2021/images-Pandemia_alcohol.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Restricción a bebidas alcohólicas fomenta clandestinaje -  CCEC"
 front: false
 section: "Local"
-news_id: 183825
+redirect_from: /news/183825
 ---
 
 Desde que estuvimos en Semáforo Rojo y se limitó la venta de bebidas alcohólicas, los fines de semana incrementó el clandestinaje y lo mismo ocurrirá a partir del próximo, declaró Julián Estrada, presidente del Consejo Coordinador Empresarial de Cuauhtémoc.

@@ -10,11 +10,11 @@ author: nil
 description: "Buscan coordinación y cumplimiento de compromisos."
 image: "/uploads/2021/images-SANTINI.jpg"
 video: "/uploads/2021/videos-MJ05_FRANCISCO_SANTINI.mp4"
-audio: "nil"
+audio: nil
 alt: "Empresarios se reúnen con gobernadora para cumplimiento de compromisos"
 front: false
 section: "Local"
-news_id: 189036
+redirect_from: /news/189036
 ---
 
 Representantes de diversos organismos empresariales sostuvieron este miércoles una reunión con la Gobernadora con el fin de revisar el cumplimiento de los compromisos de campaña, según lo señaló el Coordinador de del Consejo Empresarial, Francisco Santini Ramos.

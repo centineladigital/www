@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La serie fue estrenada en el año 2005, llegando a tener 20 millones de espectadores por capítulo. "
 image: "/uploads/2021/images-grey-anatomy-estrenara-temporada-septiembre.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Será el final? Llega la temporada 18 de Grey´s Anatomy; te contamos todos los detalles y algunos spoilers"
 front: false
 section: "Espectáculos"
-news_id: 187736
+redirect_from: /news/187736
 ---
 
 Una de las series más exitosas y más vistas está de regreso para su nueva temporada. Se trata del drama médico más largo de la televisión: Grey´s Anatomy, que tendrá su temporada número 18 lo que traerá consigo algunos personajes ya conocidos del pasado.

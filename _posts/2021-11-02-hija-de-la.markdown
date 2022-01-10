@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mediante un video publicado en TikTok, la joven de nombre Quetzalli Valencia mostró el orgullo que siente al tener a una madre famosa, Liliana Arriaga, mejor conocida como ‘La Chupitos’. "
 image: "/uploads/2021/images-hija-chupitos-muestra-vivir-famosa_13_1_1186_738.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hija de ‘La Chupitos’ se vuelve viral al mostrar cómo es vivir con su famosa madre"
 front: false
 section: "Espectáculos"
-news_id: 189465
+redirect_from: /news/189465
 ---
 
 Liliana Arriaga, mejor conocida como ‘La Chupitos’, ha sido muy reservada en su vida privada. Sin embargo, su hija Quetzalli Valencia ventiló un poco de ésta y mostró en TikTok lo que se siente tener a una mamá famosa. La joven que también se caracteriza como ‘La Chupitos’ –personaje de su mamá– se volvió viral. Mediante un video publicado en TikTok, la joven de nombre Quetzalli Valencia mostró el orgullo que siente al tener a una madre famosa, Liliana Arriaga, mejor conocida como ‘La Chupitos’. 

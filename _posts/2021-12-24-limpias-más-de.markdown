@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Más de 202 mil metros cuadrados atendidos"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Limpias, más de 400 calles de la ciudad en lo que va de la administración municipal"
 front: false
 section: "Local"
-news_id: 191196
+redirect_from: /news/191196
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, llevó a cabo la limpieza, corte de hierba y papeleo en un total de 441 calles y entrecalles de la ciudad en lo que va de la presente administración municipal.

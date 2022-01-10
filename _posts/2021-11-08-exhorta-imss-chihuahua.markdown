@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los síntomas más comunes del cáncer de próstata son: necesidad urgente de orinar y aumento de veces que se debe de hacerlo por día y durante la noche, así como dificultad para empezar a orinar."
 image: "/uploads/2021/images-Foto_5482-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta IMSS Chihuahua a la población masculina a realizarse estudios de próstata "
 front: false
 section: "Local"
-news_id: 189653
+redirect_from: /news/189653
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, exhortó a la población masculina a realizarse con periodicidad estudios prostáticos.

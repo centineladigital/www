@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz contó que el productor, quien ya superó el covid-19, tuvo una conmovedora llamada telefónica con su hijo, Emilio. "
 image: "/uploads/2021/images-niurka-apoyo-a-juan-osorio_48_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me hizo llorar -  Niurka cuenta que sufrió cuando Juan Osorio se contagió de covid-19"
 front: false
 section: "Espectáculos"
-news_id: 182362
+redirect_from: /news/182362
 ---
 
 Niurka Marcos compartió que sufrió y lloró "mucho" cuando Juan Osorio se encontraba grave de salud tras contagiarse de covid-19, pues señaló que a pesar de tener más de 15 años separados, mantienen una excelente relación. La actriz y vedette contó que el productor de telenovelas, quien ya superó la enfermedad, se despidió de su hijo, Emilio. En una entrevista con Ventaneando, la famosa habló de una emotiva llamada telefónica que tuvo Emilio con Juan Osorio. Además indicó que se sintió aliviada cuando supo que el productor ya se encontraba mejor de salud. 

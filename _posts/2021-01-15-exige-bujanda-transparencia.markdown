@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Recalcó que es un reto enorme el lograr inmunizar a toda la ciudadanía, por lo que la cooperación y la transparencia no deben de prescindir en estos momentos "
 image: "/uploads/2021/images-ETHTHER.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AV02_GEORGIA_BUJANDA.mp3"
 alt: "Exige Bujanda transparencia en la aplicación de vacunas de COVID-19"
 front: false
 section: "Local"
-news_id: 182177
+redirect_from: /news/182177
 ---
 
 La diputada local del PAN por el distrito 12, Georgina Bujanda, ante el panorama nacional con más de 1 millón y medio de casos confirmados de COVID-19, solicitó de manera urgente al Gobierno de la República que exista una adecuada y transparente distribución de la vacuna contra el COVID-19 así como de a conocer  el Plan Nacional de Vacunación. 

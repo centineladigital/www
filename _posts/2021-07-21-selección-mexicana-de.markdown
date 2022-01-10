@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La novena nacional de softbol perdió 4-0 en su debut en los Juegos Olímpicos ante Canadá "
 image: "/uploads/2021/images-canada-vence-mexico-softbol-debut_1_12_1198_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Selección mexicana de softbol inicia participación en Tokio 2020 con una derrota"
 front: false
 section: "Deportes"
-news_id: 185861
+redirect_from: /news/185861
 ---
 
 México ya se hizo presente en los Juegos Olímpicos de Tokio 2020 y lo hizo por medio del equipo de softbol, sin embargo no fue con una buena actuación ya que perdieron el primer partido ante Canadá por 4-0. 

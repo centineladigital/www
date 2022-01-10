@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los integrantes de la banda de K-pop confirmaron que tendrán un periodo de descanso para disfrutar de su familia y enfocarse en ellos mismos, ¿preparan nuevo disco?."
 image: "/uploads/2021/images-bts-retira-escenarios-tomaran-vacaciones_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Por tiempo indefinido? BTS se retira de los escenarios; tomarán unas vacaciones"
 front: false
 section: "Espectáculos"
-news_id: 190541
+redirect_from: /news/190541
 ---
 
 Hace apenas unas horas el Army estaba de fiesta celebrando que los integrantes de BTS ya cuentan con su cuenta personal en Instagram, lo que significa mayor contenido para los fans. Pero las buenas noticias en ocasiones traen revelaciones nada esperanzadoras, pues la banda confirmó que se tomarán un descanso prolongado, por lo que se ausentarán de los escenarios, las plataformas y eventos públicos hasta nuevo aviso. Los integrantes de la banda de K-pop, por medio de un comunicado de prensa de Big Hit Music, confirmaron que se van de vacaciones para retomar su vida cotidiana y enfocarse en ellos después de meses sin descanso trabajando en su carrera artística. ¿Cuánto tiempo se ausentarán? ¿Hay fecha de su regreso a los conciertos? Aquí te compartimos los detalles. 

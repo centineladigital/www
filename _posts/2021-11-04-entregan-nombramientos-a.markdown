@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se otorgaron constancias a 3 inspectores de zona y 16 directores, como resultado del proceso de promoción vertical en Educación Básica"
 image: "/uploads/2021/images-IMG_8125.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan nombramientos a inspectores y directores  de Preescolar y Primaria Zona Norte"
 front: false
 section: "Local"
-news_id: 189551
+redirect_from: /news/189551
 ---
 
 La Subsecretaría de Educación y Deporte de la Zona Norte llevó a cabo la entrega de nombramientos a las y los inspectores de zona y directores de los niveles de Preescolar y Primaria de Ciudad Juárez, cargos y responsabilidades que obtuvieron al participar en el proceso de promoción vertical en Educación Básica.

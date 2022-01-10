@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La aplicación de este estímulo beneficiará a más 120 mil familias   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avala Cabildo la aplicación de descuento del 50 % en el cobro del DAP"
 front: false
 section: "Local"
-news_id: 191137
+redirect_from: /news/191137
 ---
 
 Las y los regidores que integran el Ayuntamiento de Chihuahua aprobaron en sesión de Cabildo, la aplicación de un descuento del 50 por ciento en la tarifa única del Derecho de Alumbrado Público (DAP) durante el Ejercicio Fiscal 2022 a los sujetos obligados que se encuentren ubicados dentro de la clasificación habitacional de la Comisión Federal de Electricidad y su consumo mensual no sea mayor a 125kw o bien 250kw bimestrales.

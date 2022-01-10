@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz aclaró si la residencia que pertenecía a Roberto Cantoral en EU ya se vendió y reveló los planes que tienen para la propiedad de Ciudad de México. "
 image: "/uploads/2021/images-itati-cantoral-lujosa-mansion-papa_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Ya se vendió? Itatí Cantoral habla de la lujosa mansión de su papá y la herencia que dejó"
 front: false
 section: "Espectáculos"
-news_id: 189183
+redirect_from: /news/189183
 ---
 
 Hace unos días, Itatí Cantoral se volvió tendencia en redes sociales, luego de que su hermano menor revelara que la familia decidió poner a la venta la lujosa mansión de su papá, Roberto Cantoral; residencia que se encuentra ubicada en una zona exclusiva de Rancho Viejo, en Texas y por la que están pidiendo 27 millones de pesos. Ahora, la actriz reveló detalles de la herencia que dejó su progenitor. Itatí Cantoral fue la madrina de lujo de la obra Pequeñas grandes cosas, a la que asistió acompañada de su hija. Ahí, la actriz fue interceptada por la prensa, con quien habló sobre la venta de la casa de su padre en Estados Unidos y el uso que planean darle a la propiedad que se encuentra en la Ciudad de México. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "No soy de las que salgo a aclarar ninguna situación en redes sociales, menos cuando son chismes, pero me parece que se están pasando, dijo la conductora a través de Instagram. "
 image: "/uploads/2021/images-vanessa-claudio-aclaro-la-polemica.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No es nada personal -  Vanessa Claudio desmiente pelea con Alicia Machado"
 front: false
 section: "Espectáculos"
-news_id: 184541
+redirect_from: /news/184541
 ---
 
 La transmisión del certamen de belleza Miss Universo que realizó TV Azteca generó su propia polémica, pues varios televidentes señalaron que Vanessa Claudio interrumpió constantemente a Alicia Machado. Ante esto, la conductora publicó varias historias en Instagram para desmentir el rumor de que no se lleva bien con la ex reina de belleza. Aunque primero Vanessa señaló que "no soy de las que salgo a aclarar ninguna situación en redes sociales, menos cuando son chismes, pero me parece que se están pasando". 

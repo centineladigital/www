@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La empresa estatal Gas del Bienestar mantiene hasta este sábado el precio de 10.81 pesos por kilogramo para cilindros metálicos en Iztapalapa  "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúa aumento en precios del gas LP en la Ciudad de México y Estado de México"
 front: false
 section: "Nacional"
-news_id: 187848
+redirect_from: /news/187848
 ---
 
 A partir de este domingo y hasta el próximo 25 de septiembre, los usuarios de la entidad mexiquense tendrán un incremento en el precio del gas Lp de 54 y 29 centavos por litro y kilogramo según sea el requerimiento de los clientes: para tanque estacionario o en cilindro metálico.

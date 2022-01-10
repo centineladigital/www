@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En este ciclo participarán universidades, Cobach y bachilleres técnicos"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-06_at_15.27.03.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia Gobierno Municipal programa de prevención del suicidio "
 front: false
 section: "Local"
-news_id: 188451
+redirect_from: /news/188451
 ---
 
 El Gobierno Municipal a través del Centro de Atención y Prevención Psicológicas CAPPSI, dio inicio a un nuevo ciclo  del “Programa de Promoción y Protección de la Salud Mental en tu Escuela” el cual tiene como objetivo la prevención y reducción del riesgo de suicidio.

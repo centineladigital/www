@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La noticia de la muerte de Amparo Higuera Juárez se dio a conocer mediante la cuenta oficial de Las Jilguerillas. Te contamos lo que sabemos. "
 image: "/uploads/2021/images-amparo-higuera-compositora-integrante-jilguerillas_0_4_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Falleció Amparo Higuera de 'Las Jilguerillas' a los 84 años"
 front: false
 section: "Espectáculos"
-news_id: 182135
+redirect_from: /news/182135
 ---
 
 Amparo Higuera Juárez, vocalista de Las Jilguerillas, murió a los 84 años, así lo informó la página oficial del dúo regional mexicano. Te contamos lo que sabemos sobre esta cantante que junto a su hermana revolucionó la música en Michoacán y en varias entidades mexicanas. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La relación entre Alexis Ayala y Fernanda López comenzó hace años cuando filmaron la serie El Pantera. Primero dudaron un tiempo como novios hasta que en 2014 celebraron su amor en forma de boda en el bello puerto de Acapulco. "
 image: "/uploads/2021/images-pleno-san-valentin-alexis-ayala.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se transformó en amistad -  Alexis Ayala y Fernanda López anuncian separación en San Valentín"
 front: false
 section: "Espectáculos"
-news_id: 182934
+redirect_from: /news/182934
 ---
 
 Alexis Ayala, famoso actor de Televisa, anunció que junto a su pareja Fernanda López habían tomado la decisión de separarse tras 11 años de relación amorosa; esto en pleno 14 de febrero, Día del Amor y la Amistad o San Valentín. ¿Qué fue lo que pasó? Te contamos lo que expresó una de las parejas más sólidas del mundo del espectáculo. 

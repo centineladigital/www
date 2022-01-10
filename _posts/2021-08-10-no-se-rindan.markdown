@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de su cuenta de Instagram en donde Vicente Fernández –Don Chente– compartió una imagen en la que como descripción usó unas palabras que para muchos usuarios de las redes sociales fueron a modo despedida. "
 image: "/uploads/2021/images-vicente-fernandez-revelo-vivio-acoso_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No se rindan -  Vicente Fernández deja preocupante mensaje en sus redes tras ser hospitalizado"
 front: false
 section: "Espectáculos"
-news_id: 186508
+redirect_from: /news/186508
 ---
 
 Vicente Fernández, mejor conocido como El Charro de Huentitán, generó preocupación entre sus fans, pues luego de ser operado de emergencia y de que los médicos lo reportaran grave, pero estable, el último mensaje que dejó el padre de Alejandro Fernández causó controversia, pues muchos especularon que sus palabras parecían de despedida. ¿Qué dijo Vicente Fernández antes de ser hospitalizado de emergencia tras sufrir una caída en su rancho?

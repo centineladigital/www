@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Uno de los mayores desafíos de la lucha contra covid-19 es la aparición de múltiples variantes, cada una de las cuales supone una amenaza potencialmente considerable para la salud pública"
 image: "/uploads/2021/images-2524374.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Curevac desarrolla vacuna contra variantes de coronavirus"
 front: false
 section: "Nacional"
-news_id: 182725
+redirect_from: /news/182725
 ---
 
 La empresa biofarmacéutica alemana Curevac anunció hoy que iniciará el desarrollo y la producción de vacunas que apuntan a combatir múltiples variantes del coronavirus, en cooperación con el grupo británico Glaxosmithkline (GSK).

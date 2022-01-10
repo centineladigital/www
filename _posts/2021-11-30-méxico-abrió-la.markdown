@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El subsecretario pidió dar por hecho que la nueva variante ómicron llegará a México; será una de las variables predominantes. "
 image: "/uploads/2021/images-lopez-gatell-en-la-mananera_0_53_1200_747_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México abrió la semana con un incremento de casos de covid-19, informa López-Gatell"
 front: false
 section: "Nacional"
-news_id: 190328
+redirect_from: /news/190328
 ---
 
 El subsecretario de Prevención y Promoción de la Salud, Hugo López-Gatell, informó que México abrió la semana con un incremento de casos de covid-19, de los cuales "sólo el 0.5 por ciento son activos". 

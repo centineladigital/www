@@ -16,11 +16,11 @@ author: nil
 description: "Será colocada una estatua de Gabriel Teporoca donde plantean colocar los nombres de los deportistas premiados."
 image: "/uploads/2021/images-descarga.jpg"
 video: "/uploads/2021/videos-BM05_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se pretende una inversión de 180 millones en el polideportivo "
 front: false
 section: "Local"
-news_id: 189893
+redirect_from: /news/189893
 ---
 
 El polideportivo contará con una inversión de 180 millones de pesos, así lo informó el alcalde Marco Bonilla Mendoza, así mismo será colocada una estatua de Gabriel Teporoca donde plantean colocar los nombres de los deportistas premiados.

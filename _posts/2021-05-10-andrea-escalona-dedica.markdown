@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La conductora de 'Hoy' recordó a su mamá, quien falleció en noviembre de 2020, con un conmovedor mensaje en redes sociales este 10 de mayo. "
 image: "/uploads/2021/images-andrea-escalona-dedica-emotivo-mensaje_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Andrea Escalona dedica emotivo mensaje a Magda Rodríguez por Día de las Madres"
 front: false
 section: "Espectáculos"
-news_id: 184371
+redirect_from: /news/184371
 ---
 
 Andrea Escalona recordó a su mamá, Magda Rodríguez, con un emotivo mensaje en redes sociales este 10 de mayo, fecha en el que se conmemora el Día de las Madres. La conductora del programa Hoy dedicó unas palabras en honor a la reconocida productora de Televisa, que falleció el primero de noviembre de 2020 por complicaciones de salud derivadas de una úlcera que tenía. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El DIF Municipal y la Dirección de Seguridad Publica visitaron hogares y escuelas"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llevan pláticas de prevención de abuso infantil a colonias vulnerables"
 front: false
 section: "Local"
-news_id: 189252
+redirect_from: /news/189252
 ---
 
 Con la finalidad de prevenir el maltrato en niñas, niños y adolescentes, el Gobierno Municipal, a través del DIF Municipal y la Dirección de Seguridad Pública, visitaron domicilios de las colonias Ladrilleras Sur, La Noria y escuelas de la zona para entregar información  para reducir la problemática.

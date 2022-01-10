@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se contó con 40 participantes, entre personal de la institución educativa y trabajadores de la organización Sin Violencia A.C.   "
 image: "/uploads/2021/images-UPNECH1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Concluye en UPNECH campus Nuevo Casas Grandes el Diplomado en Atención Integral de la Violencia Sexual en la Niñez y Adolescencia"
 front: false
 section: "Local"
-news_id: 189215
+redirect_from: /news/189215
 ---
 
 En el campus Nuevo Casas Grandes de la Universidad Pedagógica Nacional del Estado de Chihuahua (UPNECH) concluyó el Diplomado en Atención Integral de la Violencia Sexual en la Niñez y Adolescencia, impartido por el Centro de Estudios y Educación Virtual (CEEV) de esta institución.

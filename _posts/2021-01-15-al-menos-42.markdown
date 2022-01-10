@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Miles de residentes asustados huyeron de sus hogares hacia terrenos más altos cuando el terremoto de magnitud 6,2 seprodujo a 6 km al noreste de la ciudad de Majene"
 image: "/uploads/2021/images-2512365.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Al menos 42 muertos y 820 heridos por sismo en Indonesia"
 front: false
 section: "Internacional"
-news_id: 182157
+redirect_from: /news/182157
 ---
 
 Un poderoso terremoto dejó el viernes al menos a 42 muertos y cientos de heridos en la isla indonesia de Sulawesi, con varias personas atrapadas bajo los escombros y docenas de réplicas que llevaron a las autoridades a advertir de más movimientos que podrían desencadenar un tsunami.

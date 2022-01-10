@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En total suman 70 mil 093 acumulados, 7 mil 283 fallecimientos, 58 mil 498 recuperados y 36 mil 023 casos descartados a lo largo de la pandemia"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reporta Salud 69 nuevos contagios y 24 decesos por COVID-19 en la entidad"
 front: false
 section: "Local"
-news_id: 185192
+redirect_from: /news/185192
 ---
 
 La Secretaría de Salud estatal informó en su reporte epidemiológico que se confirmaron 69 casos de COVID-19 así como 24 decesos, los cuales se registraron en 12 en Juárez, 10 en Chihuahua, una en Ojinaga y una más en Rosales.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Piden denunciar cualquier robo o actividad sospechosa al 9-1-1 o en la aplicación Marca el Cambio"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Policía Municipal recomendaciones para evitar robos de objetos en vehículos"
 front: false
 section: "Local"
-news_id: 188399
+redirect_from: /news/188399
 ---
 
 Con el objetivo de inhibir daños materiales y robos de objetos del interior de vehículos que se encuentren estacionados, el Gobierno Municipal, a través de la Dirección de Seguridad Pública, emite recomendaciones para evitar que las y los ciudadanos sean víctimas de algún robo, pues, aunque se mantienen recorridos constantes de prevención y vigilancia por parte de la Policía, es importante tomar medidas de autocuidado.

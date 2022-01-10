@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Esta infección pulmonar puede estar provocada por gérmenes como: bacterias, virus, hongos o parásitos, que de no atenderse a tiempo, puede ocasionar hasta la muerte"
 image: "/uploads/2021/images-Foto_5342-1.jfif"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte IMSS Chihuahua que exposición a cambios bruscos de temperatura puede causar neumonía "
 front: false
 section: "Local"
-news_id: 189366
+redirect_from: /news/189366
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua informa a la ciudadanía sobre la prevención de la neumonía, así como sus síntomas para una detección y atención oportuna. 

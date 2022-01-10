@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Según medios estadunidenses, el capítulo piloto del live action de Las Chicas Superpoderosas se volverá a grabar a petición de la cadena de televisión CW.  "
 image: "/uploads/2021/images-revelan-fotos-rodaje-live-action.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿No les gustó? Capítulo piloto de 'Las Chicas Superpoderosas' será regrabado"
 front: false
 section: "Espectáculos"
-news_id: 184641
+redirect_from: /news/184641
 ---
 
 El esperado live action de 'Las Chicas Superpoderosas' tendrá que esperar un poco más, y es que la cadena de televisión CW habría pedido que se regrabe el episodio piloto de la popular serie animada que marcó a la generación de los clásicos Cartoon Network. Así lo dio a conocer Deadline, sitio que asegura que CW grabará un nuevo capítulo piloto para el spin-off que promete llevar las aventuras de las tres niñas: Bombón, Burbuja y Bellota, creadas en el laboratorio del Profesor Utonio, a la vida real en carne y hueso. 

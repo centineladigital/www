@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal reafirma su compromiso con las familias que a diario visitan estos lugares de recreación"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Retiran maleza de 127 parques y jardines de la ciudad"
 front: false
 section: "Local"
-news_id: 189387
+redirect_from: /news/189387
 ---
 
 La maleza de 127 parques y jardines de la ciudad, fue retirada por el equipo de limpieza de la Dirección de Mantenimiento Urbano, en beneficio de familias que a diario acuden a estos lugares a hacer ejercicio o recreación.  

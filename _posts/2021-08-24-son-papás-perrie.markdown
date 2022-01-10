@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante e integrante de Little Mix, Perrie Edwards, y el futbolista de Liverpool, Alex Oxlade-Chamberlain, dieron a conocer que ya son papás. "
 image: "/uploads/2021/images-cantante-futbolista-noticia-redes-sociales.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Son papás! Perrie Edwards y Alex Oxlade-Chamberlain presentan a su bebé"
 front: false
 section: "Espectáculos"
-news_id: 187075
+redirect_from: /news/187075
 ---
 
 La integrante de Little Mix, Perrie Edwards, y el futbolista del Liverpool Alex Oxlade-Chamberlain son papás. Ambos famosos británicos dieron a conocer el nacimiento del nuevo integrante de la familia, quien llegó al mundo el pasado sábado 21 de agosto, según presumieron en Instagram. 

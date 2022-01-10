@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Autoridades haitianas reportaron la muerte de cuatro presuntos asesinos del presidente de Haití, Jovenel Moise, mientras que dos más fueron arrestados."
 image: "/uploads/2021/images-60e597ad6239e.r_1625710887485.0-42-2500-1293.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abaten a cuatro presuntos asesinos de presidente de Haití; dos más fueron detenidos"
 front: false
 section: "Internacional"
-news_id: 185452
+redirect_from: /news/185452
 ---
 
 Autoridades haitianas reportaron la muerte de cuatro presuntos asesinos del presidente de Haití, Jovenel Moise, mientras que dos más fueron arrestados; la Policía dijo que sus fuerzas realizan un operativo en la capital, Puerto Príncipe. 

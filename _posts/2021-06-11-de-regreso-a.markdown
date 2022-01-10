@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ed Sheeran anunció su regreso a la escena musical con 'Bad Habits', su nuevo sencillo tras 4 años de no grabar en solitario."
 image: "/uploads/2021/images-ed-sheeran-alejara-escenarios-temporalmente_0_2_1080_671.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡De regreso a la música! Ed Sheeran vuelve con ‘Bad Habits’, su nuevo sencillo"
 front: false
 section: "Espectáculos"
-news_id: 184997
+redirect_from: /news/184997
 ---
 
 Ed Sheeran, autor de temas como ‘Shape of You’ o ‘Thiking Out Loud’, regresa con un nuevo sencillo, a cuatro años de anunciar un retiro de la música y los escenarios. 

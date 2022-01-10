@@ -10,11 +10,11 @@ author: nil
 description: "Esperan ir disminuyendo rezago en diversos juzgados"
 image: "/uploads/2021/images-pablo.jpg"
 video: "/uploads/2021/videos-MJ06_PABLO_HECTOR.mp4"
-audio: "nil"
+audio: nil
 alt: "Busca TSJ disminuir rezago en juzgados"
 front: false
 section: "Local"
-news_id: 189035
+redirect_from: /news/189035
 ---
 
 El titular del Tribunal Superior de Justicia, Pablo Héctor González Villalobos, señaló que se esta trabajando en disminuir el rezago que se tiene en materia de juicios, esto ya que la pandemia originó el cierre de los juzgados.

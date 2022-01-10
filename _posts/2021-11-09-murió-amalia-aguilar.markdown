@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La recordaremos en películas como 'Calabacitas tiernas' (1949) y 'Al son del mambo' (1950), publicó la AMACC. "
 image: "/uploads/2021/images-amalia-aguilar-amacc.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Amalia Aguilar, vedette de la Época de Oro del cine mexicano, a los 97 años"
 front: false
 section: "Espectáculos"
-news_id: 189718
+redirect_from: /news/189718
 ---
 
 El panorama artístico nacional está de luto, pues este martes Amalia Aguilar, reconocida vedette de la Época de Oro del cine mexicano, murió a los 97años, así lo dio a conocer la Academia Mexicana de Artes y Ciencias Cinematográficas (AMACC) en Twitter. "La Academia Mexicana de Cine lamenta el sensible fallecimiento de la primera actriz y bailarina Amalia Aguilar, una de las más grandes rumberas de la Época de oro del cine mexicano. La recordaremos en películas como Calabacitas tiernas (1949) y Al son del mambo (1950)", publicó la institución. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se suman 60 exalcaldes priístas a buscar el triunfo de Acción Nacional para la gobernatura."
 image: "/uploads/2021/images-MARU.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV04_MARU_CAMPOS.mp3"
 alt: "Exalcaldes priístas se suman a candidata del PAN"
 front: false
 section: "Local"
-news_id: 183794
+redirect_from: /news/183794
 ---
 
 Con la presencia de al menos 30 exalcaldes priístas y la adhesión de otros 30 este viernes se dio a conocer la suma de estos exintegrantes del PRI a la campaña de María Eugenia Campos Galván. En rueda de prensa manifestaron el por qué ven al proyecto de trabajo de la candidata de la Coalición Nos Une Chihuahua como la mejor opción.

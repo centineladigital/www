@@ -18,11 +18,11 @@ author: nil
 description: "El mandatario señala que existen algunas alternativas en materia de reingeniería financiera"
 image: "/uploads/2021/images-ernesto-Cordero-informe-800-696x465-1.jpg"
 video: "/uploads/2021/videos-BJ03_MARIO_VAZQUEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Reestructura de deuda del Estado tendrá ayuda de Cordero "
 front: false
 section: "Local"
-news_id: 189562
+redirect_from: /news/189562
 ---
 
 

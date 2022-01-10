@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz llegó a ser considerada por muchos como la mujer más hermosa de México y robo suspiros a miles de personas alrededor del mundo. "
 image: "/uploads/2021/images-maria-felix-twitter_0_1_945_588.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿María Félix era lesbiana? Así respondió La Doña a los rumores sobre su sexualidad"
 front: false
 section: "Espectáculos"
-news_id: 185121
+redirect_from: /news/185121
 ---
 
 María Félix, el icono del cine mexicano dio mucho de qué hablar durante su vida y después de muerte pues, no cabe duda que una artista de la talla de La Doña no puede pasar desapercibida. Uno de los rumores y especulaciones que se generaron en torno a la actriz fue sobre su sexualidad, pues muchas personas de la época afirmaban que era lesbiana. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Garantizan lugar para todas y todos los aspirantes que no quedaron en su primer opción; consulte las listas de aceptados en: http://mediasuperior.chihuahuaedu.gob.mx/#resultados"
 image: "/uploads/2021/images-RESULTADOS_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Publica Educación resultados de examen de ingreso al nivel Medio Superior"
 front: false
 section: "Local"
-news_id: 185740
+redirect_from: /news/185740
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Educación y Deporte (SEyD) publicó este viernes 16 de julio los resultados del examen de ingreso al nivel Medio Superior en todo el estado, en el cual participaron poco más de 43 mil estudiantes.

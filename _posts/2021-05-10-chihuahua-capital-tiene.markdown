@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Mientras que el municipio de Juárez solamente registra 175 casos."
 image: "/uploads/2021/images-VALENZUELA2.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02_ARTURO_VALENZUELA.mp3"
 alt: "Chihuahua capital tiene más del 50 por ciento de casos activos COVID "
 front: false
 section: "Local"
-news_id: 184386
+redirect_from: /news/184386
 ---
 
 Un 54 por ciento de los casos que se tienen activos en todo el estado pertenecen al municipio de Chihuahua, el cual supera por más del triple a Ciudad Juárez. Esto ya que la capital del estado registra 607 casos de los mil 124 que se tienen en toda la entidad.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El futbolista mexicano señaló que ha ido dejando atrás los temores a una nueva lesión."
 image: "/uploads/2021/images-raul-jimenez-en-festejo-de-2_0_30_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estoy disfrutando ahora más que nunca del futbol -  Raúl Jiménez"
 front: false
 section: "Deportes"
-news_id: 189350
+redirect_from: /news/189350
 ---
 
 El mexicano Raúl Jiménez, delantero del Wolverhampton Wanderers, aseguró que ahora disfruta más del futbol que nunca después de superar la grave lesión en el cráneo que sufrió en noviembre de 2020. 

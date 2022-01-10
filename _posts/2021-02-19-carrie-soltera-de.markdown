@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aseguraron que Chris Noth, mejor conocido como Mr. Big, tampoco participará en el proyecto; ¿es cierto? ¿Carrie se quedará sin su amor? Te contamos lo que sabemos. "
 image: "/uploads/2021/images-mr-big-temporada.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Carrie, soltera de nuevo? Rumor de que Mr. Big no estará en 'Sex and the City' enciende las redes"
 front: false
 section: "Espectáculos"
-news_id: 183037
+redirect_from: /news/183037
 ---
 
 ¡No, no, no, no! Otra mala noticia sobre la serie Sex and the City. Luego de que se comunicara que la actriz que Kim Catrall –Samantha– ya no participaría en la nueva temporada de este proyecto, ahora medios internacionales reportan que Carrie se quedó sin Mr. Big. Aseguraron que Chris Noth, mejor conocido como Mr. Big, tampoco participará en el proyecto. De acuerdo con Page Six –quien comunicó la noticia– Chris Noth no volverá a interpretar su papel del icónico Mr. Big. Es decir, la pareja amorosa –para algunos tóxica y para otros romántica–  de Carrie Bradshaw dejará de existir.  Después de tanto drama –en su historia–, rupturas, una boda fallida y hasta infidelidad podría ser el fin de esta relación. 

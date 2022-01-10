@@ -14,11 +14,11 @@ author: nil
 description: "El Alcalde afirmó que se realizará la feria gracias al semáforo verde "
 image: "/uploads/2021/images-cuellar.jpg"
 video: "/uploads/2021/videos-BM01_CRUZ_PEREZ.mp4"
-audio: "nil"
+audio: nil
 alt: "La  feria Juárez se llevará a cabo -  Pérez Cuellar "
 front: false
 section: "Local"
-news_id: 187928
+redirect_from: /news/187928
 ---
 
 El alcalde de Ciudad Juárez Cruz Pérez Cuellar, declaró que es pese a las negativas sobre que se llevara a cabo la feria Juárez se revisaron las condiciones para la realización de esta, las revisiones se hicieron con protección civil y con salud puesto que el estado aun esta en semáforo verde.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Netflix anunció el estreno de la tercera temporada que se ambienta en la década de 1990 y retomará la historia tras la detención de Félix Gallardo. "
 image: "/uploads/2021/images-ramon-arellano-felix-hermano-benjamin.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Kitty Páez', el aliado de los Arellano Félix que interpretará Bad Bunny en Narcos -  México"
 front: false
 section: "Espectáculos"
-news_id: 188142
+redirect_from: /news/188142
 ---
 
 Miguel Ángel Félix Gallardo, El Jefe de Jefes; Rafael Caro Quintero, Ernesto Fonseca, Don Neto, fundadores del cártel de Guadalajara, lograron expandir su imperio de la venta de mariguana y cocaína desde México a Estados Unidos en la década de los 60. El retrato de estos personajes fue llevado a la pantalla en 2018 a través de la plataforma de streaming Netflix con la serie Narcos: México. En ella se deja ver, con un toque de ficción, el estilo de vida de estos criminales, así como la lucha del gobierno de Estados Unidos en destruir el imperio que El Jefe de Jefes habría creado. 

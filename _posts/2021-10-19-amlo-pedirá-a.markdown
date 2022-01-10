@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente señaló que es posible que no las aprueben porque se está hablando de cuestiones de salud, no de política o cuestiones ideológicas. "
 image: "/uploads/2021/images-andres-manuel-lopez-obrador-mananera-22_0_0_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO pedirá a la OMS que se acelere proceso de aprobación para vacunas anticovid "
 front: false
 section: "Nacional"
-news_id: 188890
+redirect_from: /news/188890
 ---
 
 El presidente Andrés Manuel López Obrador dijo que enviará una carta a la Organización Mundial de la Salud (OMS) para pedir que se acelere el proceso de aprobación de vacunas contra covid-19, "además tratándose de la salud, es con todo respeto, una ineficiencia". 

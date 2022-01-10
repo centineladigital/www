@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En tan sólo 24 horas se detectaron 178 nuevos casos detectados por PCR, mientras que se acreditaron un total de 15 muertes."
 image: "/uploads/2021/images-diapositiva3-291.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ01_ARTURO_VALENZUELA.mp3"
 alt: "Continúan cifras COVID en tres dígitos"
 front: false
 section: "Local"
-news_id: 183558
+redirect_from: /news/183558
 ---
 
 Un exhorto a continuar con las medidas ya que pese a que se ha tenido un leve descenso de casos detectados por PCR, este puede incrementar ya que se continúan registrando cifras de nuevos casos superiores a los 100, esto fue dado a conocer por parte del Director Médico Zona Norte Arturo Valenzuela Zorrilla.

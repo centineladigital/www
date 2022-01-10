@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Kremlin aclara que no se revelará el nombre de la vacuna de fabricación rusa que el presidente Vladimir Putin recibirá más tarde durante la jornada de este martes"
 image: "/uploads/2021/images-2549779.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Vacuna que recibirá Putin se mantendrá en secreto'"
 front: false
 section: "Internacional"
-news_id: 183516
+redirect_from: /news/183516
 ---
 
 El Kremlin informó este martes que decidió no revelar el nombre de la vacuna de fabricación rusa que el presidente Vladimir Putin recibirá más tarde este martes.

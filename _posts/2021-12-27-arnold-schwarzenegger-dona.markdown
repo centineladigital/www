@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se trata de un apoyo a veteranos del ejército de EU que vivían en calles de Los Ángeles. "
 image: "/uploads/2021/images-actor-poso-veteranos-recibieron-hogares_0_4_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arnold Schwarzenegger dona 25 casas para personas sin techo en Los Ángeles"
 front: false
 section: "Espectáculos"
-news_id: 191254
+redirect_from: /news/191254
 ---
 
 El exgobernador de California, Arnold Schwarzenegger, financió 25 casas para veteranos sin hogar que habitan las calles de Los Ángeles. La ex estrella de acción de Hollywood aportó 250 mil dólares para la organización sin fines de lucro Village for Vets. "Hoy celebré la Navidad temprano", escribió Schwarzenegger en Twitter. "Las 25 casas que doné para los veteranos sin techo se instalaron aquí en Los Ángeles. Fue fantástico pasar un tiempo con nuestros héroes y darles la bienvenida a sus nuevos hogares". Schwarzenegger dijo que "todos tienen el poder de hacer algo por alguien más en la temporada navideña".  

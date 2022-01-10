@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Prevén incremento de hospitalizaciones, no hay panorama positivo para el estado."
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML03_ARTURO_VALENZUELA.mp3"
 alt: "Comprometida capacidad hospitalaria en Chihuahua"
 front: false
 section: "Local"
-news_id: 183973
+redirect_from: /news/183973
 ---
 
 “Somos en Chihuahua uno de los estados de la republica que tiene más comprometida su ocupación hospitalaria en el momento”, fueron las palabras de Aturo Valenzuela Zorrilla. Al dar a conocer las cifras de actualización de las cifras de la pandemia que se vive por COVID-19.

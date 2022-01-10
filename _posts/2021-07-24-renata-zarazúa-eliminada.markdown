@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Le mexicana cayó ante la nipona por parciales de 6-3 y 6-2, sin embargo, competirá en dobles con Giuliana Olmos "
 image: "/uploads/2021/images-renata-zarazua-conade.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Renata Zarazúa, eliminada en singles de Juegos Olímpicos; debutó con derrota ante Misaki Doi Tokio 2020"
 front: false
 section: "Deportes"
-news_id: 185976
+redirect_from: /news/185976
 ---
 
 La tenista mexicana Renata Zarazúa culminó su participación en singles de los Juegos Olímpicos de Tokio 2021 tras perder ante la nipona Misaki Doi en su debut en la justa veraniega; el encuentro duró poco más de una hora. 

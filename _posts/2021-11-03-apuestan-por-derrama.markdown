@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Inaugura Alcalde de Chihuahua primera edición de esta exposición"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Apuestan por derrama económica de más de 20 mdp con expo WIRETECH"
 front: false
 section: "Local"
-news_id: 189507
+redirect_from: /news/189507
 ---
 
 El alcalde de Chihuahua, Marco Bonilla,  participó en el corte de listón de la primera edición de “Mexico Assembly Wire Technology Expo" (Wiretech) en el Centro de Convenciones, en dónde se tendrá una exhibición de las principales empresas que fabrican arneses y se dedican a la industria energética en la ciudad.

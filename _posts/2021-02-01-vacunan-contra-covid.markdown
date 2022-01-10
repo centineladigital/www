@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El director general del ISSSTE, Luis Antonio Ramírez Pineda, señaló que en esta primera etapa, el personal que está atendiendo a pacientes con covid-19, es el que está recibiendo la inmunización"
 image: "/uploads/2021/images-2521907.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vacunan contra covid a más de 50 mil trabajadores del ISSSTE"
 front: false
 section: "Nacional"
-news_id: 182612
+redirect_from: /news/182612
 ---
 
 Más de 50 mil trabajadores de la salud de 113 unidades médicas  del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE)  en todo el país han sido vacunados contra covid-19, informó su director General, Luis Antonio Ramírez Pineda.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante su juventud, Luis Miguel y Alejandra Guzmán coincidieron en varias ocasiones, pero ¿entre ellos hubo algo más que una amistad? "
 image: "/uploads/2021/images-luis-miguel-mantuvo-romance-stephanie_17_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Más que amigos? Ésta es la relación que tuvieron Luis Miguel y Alejandra Guzmán"
 front: false
 section: "Espectáculos"
-news_id: 184248
+redirect_from: /news/184248
 ---
 
 Luis Miguel está relacionado con la dinastía final, ya que en su juventud mantuvo un romance con Stephanie Salas, nieta de Silvia Pinal, con la que tuvo una hija, Michelle Salas. Sin embargo, El Sol, también fue amigo de Alejandra Guzmán e incluso se rumora que entre ellos hubo más que una amistad. Los famosos coincidieron en algunas ocasiones debido a compromisos de trabajo, pero algunos aseguran que Luis Miguel y Alejandra mantuvieron un noviazgo que se dio al mismo tiempo que El Sol veía a Stephanie Salas.  

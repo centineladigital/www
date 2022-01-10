@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Departamento de Estado anunció que esta opción estará disponible a nivel general a principios de 2022 tanto para los pasaportes como para los certificados de nacimiento"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estados Unidos emite el primer pasaporte X para no definir género"
 front: false
 section: "Internacional"
-news_id: 189236
+redirect_from: /news/189236
 ---
 
 Estados Unidos anunció el miércoles la emisión del primer pasaporte con una "X" en la categoría de género, un paso histórico para las personas que luchan contra la calificación binaria de hombre o mujer. 

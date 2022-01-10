@@ -14,11 +14,11 @@ author: nil
 description: "Se construyó con una inversión de 52 millones 95 mil pesos, el cual beneficiará a más de 225 mil chihuahuenses que diariamente circulan por esta vialidad"
 image: "/uploads/2021/images-descarga_(7).jpg"
 video: "/uploads/2021/videos-BL03_RODOLFO_ARMENDARIZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Se inaugura el Puente Romanza"
 front: false
 section: "Local"
-news_id: 190086
+redirect_from: /news/190086
 ---
 
 Como parte de los primeros 100 días de labores del gobierno municipal, fue inaugurado el tan esperado puente Romanza  sobre la carretera Chihuahua-Aldama y Avenida Romanza, se construyó con una inversión de 52 millones 95 mil pesos, el cual beneficiará a más de 225 mil chihuahuenses que diariamente circulan por esta vialidad.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La clínica está ubicada en la calle Ignacio Allende número 7, en la colonia Centro (entre Segunda e Independencia)"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-11_at_11.20.17.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ofrece Clínica Dental del Gobierno Municipal servicios a bajo costo"
 front: false
 section: "Local"
-news_id: 188590
+redirect_from: /news/188590
 ---
 
 El Gobierno Municipal, a través de su Subdirección de Gobernación, invita a la ciudadanía a hacer uso de la Clínica Dental Integral la cual cuenta con precios accesibles, así como brinda el descuento del 10 por ciento presentando la tarjeta “Mi apoyo, Mi bienestar”. 

@@ -12,11 +12,11 @@ author: nil
 description: "No existe nada que presumir sobre los resultados que debió  haber  dado la guardia nacional."
 image: "/uploads/2021/images-entrevista_omar_bazan.jpg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-08-24_at_2.41.55_PM.mp4"
-audio: "nil"
+audio: nil
 alt: "“No hay acciones que presumir sobre la guardia nacional” -  Bazán "
 front: false
 section: "Local"
-news_id: 187071
+redirect_from: /news/187071
 ---
 
 Omar Bazán diputado del partido representativo institucional  (PRI) declaró que no existe nada que presumir sobre los resultados que debió  haber  dado la guardia nacional, esto al ser cuestionado sobre su perspectiva respecto al funcionamiento de esta organización en el estado y los ataques recibidos ante miembros de la guardia el pasado 21 de agosto.

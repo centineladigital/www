@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“Somos una administración humanista y respetamos aquí la dignidad de la persona humana”"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No seremos tolerantes ante cualquier tipo de abuso contra las personas -  Marco Bonilla"
 front: false
 section: "Local"
-news_id: 187972
+redirect_from: /news/187972
 ---
 
 El alcalde de Chihuahua, Marco Bonilla, en sesión ordinaria de Cabildo señaló que las autoridades municipales velarán siempre por la dignidad de las personas, por lo cual no serán tolerantes de cualquier tipo de abuso que se comenta en contra del ser humano o seres vivos.

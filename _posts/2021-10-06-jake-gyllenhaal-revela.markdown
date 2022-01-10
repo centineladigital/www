@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor relató que recurrieron al método de la almohada para grabar sus escenas sexuales con Jennifer Aniston en el filme del 2002. "
 image: "/uploads/2021/images-jake-gyllenhaal-revela-filmo-escenas_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jake Gyllenhaal revela cómo filmó sus escenas sexuales con Jennifer Aniston en 'The Good Girl'"
 front: false
 section: "Espectáculos"
-news_id: 188422
+redirect_from: /news/188422
 ---
 
 Jake Gyllenhaal debutó en la pantalla grande a los 11 años en Amigo... siempre amigos, ocho años más tarde conseguiría su primer papel protagónico en el filme Cielo de octubre. El actor -que cuenta con una destacada trayectoria- confesó que entre las escenas más difíciles que le han tocado filmar son las de clasificación R y recordó cómo fue grabar este tipo de momentos con Jennifer Aniston en The Good Girl (Una buena chica). Fue durante su participación en el programa The Howard Stern Show que Jake Gyllenhaal habló del "método almohada" que adoptaron él y Jennifer Aniston para grabar sus escenas sexuales en la cinta del director Miguel Arteta.  

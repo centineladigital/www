@@ -10,11 +10,11 @@ author: nil
 description: "Ciudadanos podrán presentar denuncias, pedir carta de no antecedentes, entre otras cosas a travésde una aplicación."
 image: "/uploads/2021/images-ROBERTO.jpg"
 video: "/uploads/2021/videos-MW01_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Implementará FGE video denuncia"
 front: false
 section: "Local"
-news_id: 190160
+redirect_from: /news/190160
 ---
 
 La Fiscalía General del Estado implementará la modalidad de videodenuncia a través de celular o computadora. Por lo que los ciudadanos podrán a través de una aplicación obtener el certificado de no antecedentes penales o reportar pérdida de documento oficial, así como dar seguimiento a su denuncia, según lo expresó el titular de la dependencia, Roberto Fierro Duarte.

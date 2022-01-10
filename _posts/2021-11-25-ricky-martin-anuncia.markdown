@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ocesa dio a conocer cinco fechas nuevas de Ricky Martin en México; se presentará en CdMx, Guadalajara, Monterrey, Veracruz y Querétaro. "
 image: "/uploads/2021/images-ricky-martin-anuncia-fechas-mexico.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ricky Martin anuncia cinco conciertos en México; éstas son las ciudades, fechas y más"
 front: false
 section: "Espectáculos"
-news_id: 190197
+redirect_from: /news/190197
 ---
 
 El cantante puertorriqueño Ricky Martin está preparado para dar cinco fechas en México. Así lo dio a conocer Ocesa, organizadora de los conciertos en el país como parte de la gira Ricky Martin Movimiento Tour, y que también servirán como reposición de fechas que se tenían preparadas para marzo de 2020 y terminaron por posponerse, por lo que los boletos anteriormente adquiridos serán válidos. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Es vital para salvar la vida o integridad de quienes requieren atención urgente"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta Gobierno Municipal a ciudadanía ceder paso a los vehículos de emergencia   "
 front: false
 section: "Local"
-news_id: 188641
+redirect_from: /news/188641
 ---
 
 El Gobierno Municipal, a través de la Dirección de Seguridad Pública pide a los chihuahuenses ceder el paso a vehículos de emergencia, a fin de no interferir en los tiempos de respuesta de las corporaciones de seguridad y rescate, logrando de esta manera que los policías, bomberos y ambulancias puedan llegar de manera oportuna a los lugares de atención, ya que en la mayoría de las ocasiones la vida o integridad de quienes requieren el servicio está en riesgo.

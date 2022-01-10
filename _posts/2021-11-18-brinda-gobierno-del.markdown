@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se ha trabajado en más de 10 mil metros cuadrados de bacheo en carreteras estatales"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brinda Gobierno del Estado atención a carreteras chihuahuenses para próxima temporada decembrina"
 front: false
 section: "Local"
-news_id: 189965
+redirect_from: /news/189965
 ---
 
 El Gobierno del Estado a través de la Secretaría de Comunicaciones y Obras Públicas, brinda mantenimiento a distintos tramos de los 4 mil 498 kilómetros de la red de carreteras estatales en 54 conceptos de obra, con el objetivo de ofrecer mayor seguridad a quienes circulan por las carreteras del estado.

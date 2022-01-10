@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se ponen a  disposición servicios de salud, exámenes médicos y pláticas sobre bienestar físico y mental"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lleva Gobierno del Estado Semana de la Salud a personal de la JMAS Chihuahua"
 front: false
 section: "Local"
-news_id: 189257
+redirect_from: /news/189257
 ---
 
 El Gobierno del Estado, a través de la Junta Municipal de Agua y Saneamiento de Chihuahua (JMAS), inauguró la Semana de la Salud 2021 dirigida a todo el personal del organismo, donde podrán realizarse diferentes pruebas médicas, conferencias, así como acudir a donar sangre.

@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Autoridades de Florida solicitan una prueba de residencia a las personas que asisten a vacunarse contra el covid; esto excluye a migrantes y personas sin hogar."
 image: "/uploads/2021/images-2516690.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Florida vacuna solo a sus residentes; deja afuera a migrantes"
 front: false
 section: "Internacional"
-news_id: 182381
+redirect_from: /news/182381
 ---
 
 Florida impuso el requisito de mostrar una prueba de residencia para vacunar contra el covid, en un esfuerzo por contener el llamado "turismo de vacuna". Pero esto puede dejar sin inmunizar a miles de inmigrantes indocumentados, además de personas sin hogar o de bajos recursos.

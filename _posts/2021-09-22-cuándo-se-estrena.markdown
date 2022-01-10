@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Te decimos todos los detalles sobre la esperada colaboración de BTS y Coldplay, la cual está muy pronto de llegar. "
 image: "/uploads/2021/images-coldplay-incluye-tema-bts-album_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cuándo se estrena? Lo que debes saber sobre 'My Universe', el tema de Coldplay con BTS"
 front: false
 section: "Espectáculos"
-news_id: 187974
+redirect_from: /news/187974
 ---
 
 Como se esperó durante meses, Coldplay lanzará una colaboración con las estrellas mundial del K-pop, BTS. Se trata del sencillo 'My Universe', el cual formará parte de su próximo disco, 'Music Of The Spheres', como lo dio a conocer la banda a través de sus redes sociales. 

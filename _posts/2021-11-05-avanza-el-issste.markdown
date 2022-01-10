@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Garantiza la protección integral a sus 13.5 millones de derechohabientes con acceso oportuno y equitativo a los seguros, servicios y prestaciones. "
 image: "/uploads/2021/images-ISSSTE_01.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avanza el ISSSTE en la transformación para crear una institución de vanguardia -  Luis Antonio Ramírez Pineda"
 front: false
 section: "Local"
-news_id: 189592
+redirect_from: /news/189592
 ---
 
 Si bien el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) reorientó sus prioridades para atender la emergencia sanitaria, no dejó de brindar atención médica y otorgar los 21 seguros, servicios y prestaciones a los 13.5 millones de derechohabientes. Estamos avanzando en la transformación para hacer del Instituto un organismo de vanguardia, apegados a un modelo de salud con enfoque preventivo más que curativo, señaló el director general, Luis Antonio Ramírez Pineda.

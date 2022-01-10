@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el objetivo de fomentar el conocimiento de los derechos humanos para elaborar proyectos integrales y transversales que contribuyan a disminuir la brecha de desigualdad entre mujeres y hombres"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacitan a titulares de instancias e institutos municipales de las mujeres del estado"
 front: false
 section: "Local"
-news_id: 188617
+redirect_from: /news/188617
 ---
 
 Busca Estado a través del Ichmujeres, fomentar el conocimiento de los derechos humanos para elaborar proyectos integrales y transversales que contribuyan a disminuir la brecha de desigualdad entre mujeres y hombres

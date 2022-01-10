@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ser Superman o ser Geralt es un privilegio y una responsabilidad, sobre todo una responsabilidad. dijo en una rueda de prensa. "
 image: "/uploads/2021/images-henry-cavill-instagram-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Henry Cavill asegura que lee las críticas de los fans de 'The Witcher' -  tanto lo positivo como lo negativo"
 front: false
 section: "Espectáculos"
-news_id: 190737
+redirect_from: /news/190737
 ---
 
 Para Henry Cavill interpretar a Geralt de Rivia, el brujo al que encarna en la serie The Witcher, cuya segunda temporada se estrenará en Netflix el 17 de diciembre, es un privilegio, pero sobre todo una gran responsabilidad. "Ser Superman o ser Geralt es un privilegio y una responsabilidad, sobre todo una responsabilidad, porque son muy queridos y debo asegurarme de que la mayoría ven al personaje cuando estoy caracterizado como ellos", dijo en la rueda de prensa. 

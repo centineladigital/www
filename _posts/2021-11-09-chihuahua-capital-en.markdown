@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A través del COPLADEMUN se integrarán las ideas de la sociedad civil para cumplir los objetivos del Municipio"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chihuahua capital, en el ranking de ciudades más competitivas de México   "
 front: false
 section: "Local"
-news_id: 189678
+redirect_from: /news/189678
 ---
 
 En el marco de los primeros 100 días de trabajo y resultados, el presidente municipal Marco Bonilla Mendoza, presidió la instalación del Comité de Planeación del Municipio de Chihuahua, (COPLADEMUN), en su edición 2021-2024, el cual tiene como objetivo establecer el plan de análisis y acciones que tendrá el Gobierno Municipal para el desarrollo competitivo de la ciudad.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Criticaron al influencer Luisito Comunica por celebrar la reapertura de algunos restaurantes en CdMx; usuarios de redes sociales lo señalaron de irresponsable, así como de estar de lado de los empresarios y no de los trabajadores. "
 image: "/uploads/2021/images-luisito-comunica-criticado-redes-sociales.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No son fuente de contagio -  Critican a Luisito Comunica por celebrar apertura de algunos restaurantes en CdMx"
 front: false
 section: "Espectáculos"
-news_id: 182250
+redirect_from: /news/182250
 ---
 
 uisito Comunica, youtuber mexicano, de nueva cuenta está en el ojo del huracán, pues aunque al parecer buscaba apoyar al sector restaurantero de la Ciudad de México, no todo le salió como esperaba. ¿Qué fue lo que pasó? Resulta que el influencer aseguró que los “restaurantes con medidas sanitarias no son fuente de contagio”. ¿Por qué causó polémica su declaración? Te contamos lo que sabemos. Fue a través de Twitter, en dónde Luisito Comunica celebró la modalidad al aire libre de algunos restaurantes en la Ciudad de México, esto luego de que se tomara la decisión (gubernamental) para recuperar la economía y no afectar a los dueños de estos. “Hoy reabren los restaurantes en CDMX con modalidad al aire libre y en Deigo estamos listos y emocionados. Así que vayan a su lugar favorito y dense un gusto. ¡Apoyemos a este sector!”, escribió el influencer junto a algunas imágenes. 

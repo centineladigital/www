@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Este volcán está en erupción desde el 19 de septiembre en el municipio palmeño de El Paso, el principal afectado de la isla. "
 image: "/uploads/2021/images-colada-lava-provoca-destruccion-isla_0_153_1200_747_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nueva colada del volcán en La Palma genera una tremenda destrucción, dicen expertos"
 front: false
 section: "Internacional"
-news_id: 188548
+redirect_from: /news/188548
 ---
 
 El Instituto Volcánológico del archipielago de Canarias (Involcan) informó que la nueva colada de lava surgida del volcán que se mantiene en erupción en la isla española de La Palma está generando "una tremenda destrucción" y dificultando el movimiento de los científicos en la zona. 

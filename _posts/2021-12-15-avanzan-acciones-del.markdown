@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Encabezó Luis Serrato Castell la segunda asamblea plenaria del Comité de Planeación para el Desarrollo del Estado para la presentación de resultados a la ciudadanía"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avanzan acciones del COPLADE para la implementación del Plan Estatal de Desarrollo 2022-2027   "
 front: false
 section: "Local"
-news_id: 190889
+redirect_from: /news/190889
 ---
 
 En seguimiento a la integración del Plan Estatal de Desarrollo 2022-2027 del Gobierno del Estado, se llevó a cabo la segunda asamblea plenaria del Comité de Planeación para el Desarrollo del Estado (COPLADE), encabezada por el coordinador del COPLADE, Luis Serrato Castell, en la cual se presentó a los miembro de la asamblea, los avances en la conformación del Plan Estatal de Desarrollo.

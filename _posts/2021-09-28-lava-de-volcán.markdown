@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El flujo ardiente sigue el recorrido hacia la costa mientras las autoridades de España aprobaron un plan de ayuda para los afectados en isla La Palma. "
 image: "/uploads/2021/images-autoridades-iniciaron-ayudas-financieras-afectados_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lava de volcán Cumbre Vieja afecta a 686 edificaciones mientras se sigue expandiendo"
 front: false
 section: "Internacional"
-news_id: 188120
+redirect_from: /news/188120
 ---
 
 El volcán Cumbre Vieja, en La Palma (Islas Canarias), no parece que vaya a cesar su actividad después de que ésta disminuyera algunas horas ayer, mientras que se reportó que la lava ha cubierto 258 hectáreas y afectando a 686 edificaciones, de las cuales 589 están destruidas, según el último recuento del sistema europeo de observación terrestre Copernicus. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Tricolor no tuvo piedad de un conjunto Catracho que se quedó con un hombre menos"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México aplasta a Honduras y recupera el liderato de las eliminatorias de Concacaf"
 front: false
 section: "Deportes"
-news_id: 188569
+redirect_from: /news/188569
 ---
 
 Los astros se alinearon a favor de la Selección Mexicana. Estados Unidos, perdió; Canadá empató y El Salvador también cayó. Sólo faltaba concretar la obra para recuperar un poco de lo que se perdió el jueves pasado.

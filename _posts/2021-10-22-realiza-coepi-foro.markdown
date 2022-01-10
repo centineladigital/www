@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Participaron más de 20 comunidades ódami y ralámuli con opiniones y sugerencias"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Realiza COEPI Foro de Consulta Indígena para elaborar propuestas para el Plan de Desarrollo Estatal"
 front: false
 section: "Local"
-news_id: 189078
+redirect_from: /news/189078
 ---
 
 Gobierno del Estado, a través de la Comisión Estatal para los Pueblos Indígenas (COEPI), llevó a cabo en el municipio de Guadalupe y Calvo, el Foro de Consulta Indígena del Plan Estatal de Desarrollo y el Programa Sectorial 2022-2027, en el que participaron más de 20 comunidades  ódami y ralámuli de la región.

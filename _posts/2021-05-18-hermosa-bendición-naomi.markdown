@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de Instagram en donde la modelo compartió la noticia junto a una fotografía en la que mostró los pies de su bebé. Además de que emitió un emotivo mensaje para comunicar la tierna noticia. "
 image: "/uploads/2021/images-naomi-campbell-convierte-mama-bebe.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hermosa bendición -  Naomi Campbell anuncia que ya es mamá; comparte foto de su bebé"
 front: false
 section: "Espectáculos"
-news_id: 184516
+redirect_from: /news/184516
 ---
 
 Naomi Campbell, una de las modelos más reconocidas en el mundo, se convirtió en mamá por primera vez a sus 50 años. La noticia la dio a conocer a través de sus redes sociales con una emocionante imagen que posteó en sus redes sociales. ¿Tuvo una niña o niño? Te contamos lo que sabemos sobre esta emocionante historia.  Fue a través de Instagram en donde la modelo compartió la noticia junto a una fotografía en la que mostró los pies de su bebé. Además de que emitió un emotivo mensaje para comunicar la tierna noticia. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Inicia la aplicación de más de 14 mil vacunas."
 image: "/uploads/2021/images-dalia.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW02_DALIA_PINEDA.mp3"
 alt: "Inicia este miércoles vacunación contra COVID"
 front: false
 section: "Local"
-news_id: 182110
+redirect_from: /news/182110
 ---
 
 De manera privada y con la presencia de la Guardia Nacional y el Ejército este miércoles inició la vacunación de los enfermeros  y médicos que trabajan dentro de los 30 hospitales que trabajan en el área del COVID. 

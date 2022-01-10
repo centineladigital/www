@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Señala que desde el inicio se ha tenido una dificil situación de flujo financiero."
 image: "/uploads/2021/images-FERNANDO_MESTA1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV01.mp3"
 alt: "No tengo que responder a Colunga -  Mesta"
 front: false
 section: "Local"
-news_id: 184996
+redirect_from: /news/184996
 ---
 
 “NO tengo que responderle” fue la respuesta del Secretario General de Gobierno, Fernando Mesta Soulé, al ser cuestionado sobre las declaraciones de Miguel Colunga quien señaló que no se cuenta con recursos para dejarle a la próxima administración.

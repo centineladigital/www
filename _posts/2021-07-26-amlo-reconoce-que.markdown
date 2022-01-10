@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente afirmó que en el estado existe confrontación de grupos delictivos"
 image: "/uploads/2021/images-continuan-hechos-violentos-en-zacatecas_0_23_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO reconoce que Zacatecas vive situación especial ante altas cifras de homicidios"
 front: false
 section: "Nacional"
-news_id: 185980
+redirect_from: /news/185980
 ---
 
 El presidente Andrés Manuel López Obrador reconoció que Zacatecas vive una "situación especial" ante las altas cifras de homicidios registradas este fin de semana.  

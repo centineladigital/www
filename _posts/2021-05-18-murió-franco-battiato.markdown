@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Battiato, de 76 años, era conocido mundialmente por su estilo poético y existencial que le acompañó durante toda su carrera, con canciones como Centro di gravità permanente (1981) o Voglio vederti danzare (1982) . "
 image: "/uploads/2021/images-muere-famoso-cantante-compositor-franco.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Franco Battiato, famoso músico italiano, a los 76 años"
 front: false
 section: "Espectáculos"
-news_id: 184517
+redirect_from: /news/184517
 ---
 
 El músico Franco Battiato, uno de los más célebres cantautores y compositores italianos de las últimas décadas, ha fallecido hoy en su casa Sicilia (sur de Italia), informó su familia, según medios locales. Battiato, de 76 años, que ya estaba enfermo de desde hace tiempo, era conocido mundialmente por su estilo poético y existencial que le acompañó durante toda su carrera, con canciones como "Centro di gravità permanente" (1981) o "Voglio vederti danzare" (1982) . 

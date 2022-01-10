@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "No escuchó candidato a Alcalde postura de oponentes que le solicitaron unirse."
 image: "/uploads/2021/images-SERGIO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW01_SERGIO_CARRILLO.mp3"
 alt: "Afirma Carrillo que solicitaron su alianza"
 front: false
 section: "Local"
-news_id: 184805
+redirect_from: /news/184805
 ---
 
 Sergio Carrillo, candidato a la Alcaldía del PRI, señaló que los candidatos del Partido Acción Nacional y Morena se acercaron con el fin de solicitarle que declinara en contra de estas opciones, esto al ser cuestionado respecto si como a la candidata a Gobernadora se le hizo alguna propuesta similar.

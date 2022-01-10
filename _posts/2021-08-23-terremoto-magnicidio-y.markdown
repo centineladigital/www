@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En los últimos meses, Haití se ha enfrentado a una crisis política, económica, social y de salud; aquí te contamos todo lo que ha pasado"
 image: "/uploads/2021/images-5a83942fa6baf1a58c73a99ffb2b2c8d_XL.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Terremoto, magnicidio y escasez de vacunas anticovid -  la crisis que vive Haití"
 front: false
 section: "Internacional"
-news_id: 186992
+redirect_from: /news/186992
 ---
 
 Haití es un país que durante mucho tiempo ha sufrido problemas económicos, políticos y sociales; sin embargo, también ha buscado la forma de librar las coyunturas, un ejemplo de ello es el devastador terremoto que azotó a la nación en 2010, considerado uno de los más fuertes en la historia. 

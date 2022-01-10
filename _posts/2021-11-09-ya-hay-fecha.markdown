@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Será el 17 de enero que se entreguen los premios al mejor jugador y jugadora de la FIFA. "
 image: "/uploads/2021/images-premios-fifa-the-best-twitter_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ya hay fecha para los premios FIFA The Best 2021"
 front: false
 section: "Deportes"
-news_id: 189683
+redirect_from: /news/189683
 ---
 
 La ceremonia de entrega de los premios FIFA 'The Best' al mejor jugador y a la mejor jugadora del año se celebrará el 17 de enero en Zúrich de forma virtual anunció este martes la Federación Internacional de Futbol. 

@@ -12,11 +12,11 @@ author: nil
 description: "400 unidades que están circulando actualmente en el estado de Chihuahua 218 ya han sido modernizadas"
 image: "/uploads/2021/images-TRANSPORTE.jpg"
 video: "/uploads/2021/videos-BL04_FRANCISCO_GOMEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Se ha invertido más de 1 millon 800 mil pesos por unidad de transporte público"
 front: false
 section: "Local"
-news_id: 187273
+redirect_from: /news/187273
 ---
 
 Juan Francisco Gómez Enríquez  presidente del Consejo de Administración de Transportes Urbanos, mencionó que los concesionarios de transportes urbanos han invertido en la modernización de los vehículos más de 1 millon 800 mil pesos por cada camión, esto a consecuencia de un acuerdo para modificar la tarifa del transporte público.

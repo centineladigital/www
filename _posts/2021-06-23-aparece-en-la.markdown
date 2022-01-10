@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras la salida de la actriz el protagónico cayó sobre Cecilia Suárez, quien interpreta a Paulina de la Mora."
 image: "/uploads/2021/images-veronica-castro-confirmado-participacion-secuela_106_42_650_405.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Aparece en la película? -  La razón por la que Verónica Castro nunca regresó a 'La casa de las flores'"
 front: false
 section: "Espectáculos"
-news_id: 185198
+redirect_from: /news/185198
 ---
 
 La casa de las flores marcó el regreso de Verónica Castro a la televisión en el año 2018; sin embargo, la actriz solo apareció en la primera temporada, decisión que dejó inconformes a algunos televidentes, quienes quedaron esperando el regreso durante las dos temporadas siguientes; sin embargo, esa salida estaba pactada desde el principio. 

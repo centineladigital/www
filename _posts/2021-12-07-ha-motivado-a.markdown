@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con esta obra, el actor ecuatoriano da a conocer una faceta que lleva años cultivando: la de escritor. "
 image: "/uploads/2021/images-el-actor-presento-su-libro.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ha motivado a muchas personas a alcanzar sus metas -  Danilo Carrera presenta el libro 'Cuando nadie me ve'"
 front: false
 section: "Espectáculos"
-news_id: 190608
+redirect_from: /news/190608
 ---
 
 Danilo Carrera ubica su recuerdo más remoto relacionado con el mundo de los libros a la edad de 7 años: “Lo recuerdo como si fuera ayer: éramos 4 hermanos, todavía no nacía el menor, y yo dormía en una litera donde me ponía a dibujar o escribir mientras mis hermanos jugaban. Es algo que me ha gustado toda la vida”. Por este motivo, y la inspiración que tomó de su abuelo – “él leía muchísimo, entonces para mí era importantísimo siempre estar a su altura” –, el actor, que actualmente protagoniza la telenovela de Televisa Contigo sí, escribió un libro: Cuando nadie me ve. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la pandemia se han recuperado 56 mil 040 chihuahuenses y descartado 34 mil 877 casos sospechosos; confirman 28 nuevos positivos y 3 decesos en Chihuahua, Camargo y Jiménez"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suman 67 mil 850 contagios por COVID-19, 34 mil 189 son hombres y 33 mil 661 mujeres  "
 front: false
 section: "Local"
-news_id: 184643
+redirect_from: /news/184643
 ---
 
 El reporte epidemiológico COVID-19 emitido por la Secretaría de Salud muestra que al 25 de mayo suman 67 mil 850 contagios, con 28 nuevos positivos, así como 6 mil 932 decesos acumulados, con 3 más confirmados en Chihuahua, Camargo y Jiménez.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En las 16 alcaldías de la Ciudad de México, el precio máximo promedio hasta el 25 de diciembre será de 21.02 pesos por kilogramo  "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por quinta semana consecutiva bajan precios del gas LP en CDMX"
 front: false
 section: "Nacional"
-news_id: 190997
+redirect_from: /news/190997
 ---
 
 En las 16 alcaldías de la Ciudad de México (CDMX), el precio máximo promedio de Gas Licuado de Petróleo que entrará en vigor a partir del primer minuto de este domingo 19 de diciembre y que estará vigente hasta el próximo 25 del mismo mes será de 21.02 pesos por kilogramo.

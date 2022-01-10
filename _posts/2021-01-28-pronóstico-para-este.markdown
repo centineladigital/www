@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La CEPC reporta que habrá rachas de viento de alrededor de 45 km/h en Guerrero, Ahumada y Chihuahua, y mayores a 35 km/h en Juárez, Matachí, Ocampo y Parral"
 image: "/uploads/2021/images-Chínipas.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronóstico para este jueves 28 -  Se van lluvias y suben temperaturas"
 front: false
 section: "Local"
-news_id: 182514
+redirect_from: /news/182514
 ---
 
 Para este jueves 28 se espera ambiente de gélido a muy frío por la mañana y de fresco a templado por la tarde, cielo de parcialmente nublado a nublado, con viento de 10 a 25 kilómetros por hora (km/h), informó la Coordinación Estatal de Protección Civil (CEPC).

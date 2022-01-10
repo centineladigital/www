@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El objetivo es que los policías logren diferenciar entre papelería, identificaciones y documentación auténtica o falsa   "
 image: "/uploads/2021/images-unnamed_(16).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacita Consulado de EU a personal de la SSPE para detectar documentos apócrifos"
 front: false
 section: "Local"
-news_id: 189283
+redirect_from: /news/189283
 ---
 
 Como parte de las acciones para la profesionalización y capacitación de las y los policías del estado, la Secretaría de Seguridad Pública (SSPE) en alianza con el Consulado Americano, llevaron a cabo un curso en materia de detección de documentos apócrifos o alterados.

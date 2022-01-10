@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Cabe mencionar, se realizó la premiación de los equipos ganadores de la temporada recién finalizada, la cual tuvo duración de seis meses en las modalidades de actividad sabatina y entre semana."
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca Gobierno Municipal “Liga Zapata” de softbol lento"
 front: false
 section: "Local"
-news_id: 188475
+redirect_from: /news/188475
 ---
 
 Con la participación de 40 equipos inscritos, dio arranque la nueva temporada de la Liga ‘Zapata’ de softbol de bola lenta que convocó el Gobierno Municipal, a través del Comité Municipal de Softbol, el cual tendrá una duración de seis meses de actividad.

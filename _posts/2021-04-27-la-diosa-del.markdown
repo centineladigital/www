@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El filme habla de la situación de las bandas de mujeres en el área de Santa Fe en CdMx "
 image: "/uploads/2021/images-diosa-asfalto-protagonizada-ximena-romo_112_193_876_544.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'La diosa del asfalto', retrato de la violencia de los años 80"
 front: false
 section: "Espectáculos"
-news_id: 184132
+redirect_from: /news/184132
 ---
 
 Santa Fe en los años 80 fue escenario cruel en el que un grupo de mujeres banda, pandilleras y roqueras tuvieron que encontrar una forma de salir adelante y formar grupos poderosos que representaban lo que significó ser mujer en México, así como la forma de ir contracorriente. La diosa del asfalto es el más reciente largometraje del director mexicano Julián Hernández, conocido por películas como Rencor Tatuado (2018) o Rabioso sol, rabioso cielo (2009). La cinta presenta la historia de “Max", la vocalista de un grupo de rock que después de unos años regresa al barrio donde creció, siendo espectadora de las dinámicas sociales y culturales de la zona y vocera de secretos propios y colectivos. 

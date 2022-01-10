@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los habitantes de la región viven bajo el asedio de cárteles que se disputan el control de rutas para el tráfico de drogas en los límites de los estados de Jalisco, Zacatecas y Durango"
 image: "/uploads/2021/images-2563850.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Indígenas se vacunan contra covid bajo el asedio del narco"
 front: false
 section: "Nacional"
-news_id: 183940
+redirect_from: /news/183940
 ---
 
 Luego de caminar hasta cuatro horas desde sus comunidades, asediadas por narcotraficantes, indígenas wixárika de la tercera edad fueron vacunados contra el covid-19 en una apartada región del este de México.

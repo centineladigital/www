@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solo unidades necesarias estarán circulando, entre ellas: patrullas y de recolección de basura."
 image: "/uploads/2021/images-índice.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV05_JOSE_GRANILLO.mp3"
 alt: "Resguardan vehículos por elecciones"
 front: false
 section: "Local"
-news_id: 182378
+redirect_from: /news/182378
 ---
 
 Este fin de semana el Gobierno Municipal resguardará vehículos, esto ya que se realizarán las elecciones internas del Partido Acción Nacional, siglas de las que emanó la administración municipal, por lo que para no sean utilizados para acciones que no son propias de la administración.

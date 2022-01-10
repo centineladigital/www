@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Conoce qué celebridades del mundo del espectáculo han dado a conocer su predilección por esta identidad de género. "
 image: "/uploads/2021/images-sam-smith-demi-lovato-identifican.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Sam Smith y Demi Lovato! Celebridades que se identifican con el género no binario"
 front: false
 section: "Espectáculos"
-news_id: 187135
+redirect_from: /news/187135
 ---
 
 El video en que un escolar rompió en llanto durante una clase en línea debido a que un compañero le dijo 'compañera' y no 'compañere', pues se identifica como una persona no binaria, ha provocado que muchas personas busquen más información sobre esta identidad de género. 

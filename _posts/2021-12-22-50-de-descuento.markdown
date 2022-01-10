@@ -16,11 +16,11 @@ author: nil
 description: "Los propietarios de terrenos baldíos, rústicos o suburbanos, serán los más beneficiados"
 image: "/uploads/2021/images-big_m0x4gk6z.jpg"
 video: "/uploads/2021/videos-BW03_SANTIAGO_DE_LA_PEÑA_.mp4"
-audio: "nil"
+audio: nil
 alt: "50% de descuento en el DAP es un hecho"
 front: false
 section: "Local"
-news_id: 191129
+redirect_from: /news/191129
 ---
 
 El cabildo municipal aprobó el descuento del 50% para el impuesto del Derecho de Alumbrado Público (DAP), el cual estará estipulado para el ejercicio fiscal 2022 a los sujetos que estén ubicados dentro de la clasificación habitacional en la que su consumo mensual no sea mayor a 125 kilowatts, o bien 250 kilowatts bimestrales.

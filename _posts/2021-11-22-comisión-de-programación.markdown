@@ -14,11 +14,11 @@ author: nil
 description: "Estuvieron presentes las y los diputados: Luis Aguilar, en su calidad de presidente; Mario Vázquez, secretario; Benjamín Carrera, vocal; América García, vocal; Edgar Piñón, vocal; Carla Rivas, vocal y Alfredo Chávez, vocal."
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-22_at_12.49.18_PM.jpeg"
 video: "/uploads/2021/videos-BL04_COMISION_.mp4"
-audio: "nil"
+audio: nil
 alt: "Comisión de Programación, Presupuesto y Hacienda Pública tienen reunión "
 front: false
 section: "Local"
-news_id: 190091
+redirect_from: /news/190091
 ---
 
 Los dictámenes que votaron estas comisiones  son de relevancia legislativa como : La presentación de los Municipios del Estado de Chihuahua, los cuales remiten sus proyectos de Tablas de Valores Unitarios de Suelo y Construcción, para el ejercicio fiscal 2022; exhortó al Poder Ejecutivo del Estado, para que considere en el Presupuesto de Egresos del año fiscal 2022.

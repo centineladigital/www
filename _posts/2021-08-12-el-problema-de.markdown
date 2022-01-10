@@ -10,11 +10,11 @@ author: nil
 description: "El proyecto se puede ver muy positivo, sin embargo, a la hora de que se aplica se lleva a cabo de una forma muy distinta"
 image: "/uploads/2021/images-Cruz.png"
 video: "/uploads/2021/videos-MJ04_JORGE_CRUZ.mp4"
-audio: "nil"
+audio: nil
 alt: "El problema de la gasera federal es que puede terminar en corrupción"
 front: false
 section: "Local"
-news_id: 186624
+redirect_from: /news/186624
 ---
 
 El principal problema que se tiene de la implementación de la empresa distribuidora de gas es la aplicación, la cual puede terminar en corrupción, señaló el presidente de la COPARMEX Chihuahua, Jorge Cruz Camberos al ser cuestionado respecto al tema. 

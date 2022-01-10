@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Sabías que nadie puede pedirte evidencia del sentido de tu voo o retener tu credencial de elector"
 image: "/uploads/2021/images-delito_electoral_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cuáles son los delitos electorales y dónde puedo denunciarlos?"
 front: false
 section: "Local"
-news_id: 184851
+redirect_from: /news/184851
 ---
 
 Sabías que nadie puede pedirte evidencia del sentido de tu voo o retener tu credencial de elector

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras un mes de sospechas, por fin se confirmó que la cantante estaba detrás del personaje de Leona y los internautas reaccionan con memes."
 image: "/uploads/2021/images-dulce-maria-es-eliminada-de_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Haciéndose güeyes -  Redes reaccionan a eliminación de Dulce María en 'Quién es la máscara'; era Leona"
 front: false
 section: "Espectáculos"
-news_id: 190069
+redirect_from: /news/190069
 ---
 
 La identidad de un nuevo personaje fue revelada en Quién es la máscara 2021 la noche del domingo, lo que desató la euforia y los memes entre los internautas, pues por fin se confirmó que Dulce María estaba detrás de Leona. Desde hace varias semanas, las sospechas de que la cantante era parte del reality show ya circulaban en redes sociales e, incluso, algunos de los investigadores dieron su nombre en los primeros pronósticos.  La cantante, de 35 años, había conservado su lugar gracias al apoyo de sus fans y pese a que la mayoría en redes había adivinado su identidad; sin embargo, durante la emisión del último programa no pudo vencer al resto de los participantes y fue desenmascarada.

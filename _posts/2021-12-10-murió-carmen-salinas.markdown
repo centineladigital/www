@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Carmen Salinas, famosa actriz y productora, murió a los 82 años. "
 image: "/uploads/2021/images-muere-carmen-salinas-a-los-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Carmen Salinas, reconocida por 'Aventurera' a los 82 años"
 front: false
 section: "Espectáculos"
-news_id: 190713
+redirect_from: /news/190713
 ---
 
 Carmen Salinas, famosa actriz y productora reconocida por la obra teatral 'Aventurera', murió hoy a los 82 años, luego de que fuera hospitalizada de emergencia tras sufrir un derrame cerebral que la dejó en estado de coma; además de que estuvo con respiración asistida. A través de redes sociales, la familia de la actriz confirmó el deceso de Carmen Salinas, quien se había recuperado del derrame cerebral que presentó debido a la hipertensión que padecía por años la actriz que le fue diagnosticada después de la muerte de su hijo. 

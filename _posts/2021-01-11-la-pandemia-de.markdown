@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante el último día se han confirmado 588 mil 511 casos y 8 mil 160 fallecidos, lo que sitúa los totales en 90 millones 298 mil 391 y un millón 935 mil 613, respectivamente"
 image: "/uploads/2021/images-2509707.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La pandemia de Covid supera el umbral de los 90 millones de contagios"
 front: false
 section: "Internacional"
-news_id: 182020
+redirect_from: /news/182020
 ---
 
 La pandemia de coronavirus ha dejado durante las últimas 24 horas más de 588 mil casos en todo el mundo, y ha superado ampliamente los 90 millones de contagios globales, según los datos del balance de la

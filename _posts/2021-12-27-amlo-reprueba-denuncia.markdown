@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ya la Corte emitió un fallo para que continúe el proceso de revocación de mandato y que se cumpla con eso, porque lo establece la constitución, que es la ley de leyes, y lo demás pues no lo considero conveniente, dijo"
 image: "/uploads/2021/images-amlo_mandato_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO reprueba denuncia penal de presidente de San Lázaro contra Lorenzo Córdova y consejeros del INE"
 front: false
 section: "Nacional"
-news_id: 191219
+redirect_from: /news/191219
 ---
 
 El presidente Andrés Manuel López Obrador reprobó la denuncia penal que presentó el presidente de la Cámara de Diputados, Sergio Gutiérrez (Morena), en contra del consejero presidente del Instituto Nacional Electoral (INE), Lorenzo Córdova, y cinco consejeros electorales más que votaron por suspender la revocación de mandato. 

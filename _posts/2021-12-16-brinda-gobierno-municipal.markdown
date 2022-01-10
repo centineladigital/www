@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se entregó material de construcción, cobijas y alimentos"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brinda Gobierno Municipal apoyo a familia afectada por incendio"
 front: false
 section: "Local"
-news_id: 190922
+redirect_from: /news/190922
 ---
 
 En el marco de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación y el DIF Municipal, entregó material de construcción, apoyo alimentario y cobijas a una familia que vive en la colonia Villa Nueva, que perdió la mayor parte de su vivienda a causa de un incendio.

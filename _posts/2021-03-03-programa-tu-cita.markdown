@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través del correo electrónico becascentrosdeportivos2021@gmail.com las y los interesados podrán solicitar una cita previa para la entrega de documentos que enmarca la convocatoria municipal"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Programa tu cita para solicitar beca de descuentos en centros deportivos municipales"
 front: false
 section: "Local"
-news_id: 183255
+redirect_from: /news/183255
 ---
 
 Con el objetivo de impulsar a la población chihuahuense a adaptar hábitos de cuidado de la salud por medio de la actividad física, el Gobierno Municipal a través del Instituto Municipal de Cultura Física y Deporte continúa recibiendo papelería de las y los interesados en una beca para centros deportivos municipales.

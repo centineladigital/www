@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de Instagram en donde Alejandro Fernández reveló que no está muy de acuerdo con los haters que le depositan comentarios negativos. De forma contundente, El Potrillo les respondió."
 image: "/uploads/2021/images-alejandro-fernandez-estalla-haters-criticaron.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Un espejo pa' la ñora -  Alejandro Fernández 'explota' contra 'haters' que lo criticaron por su físico 'demacrado'"
 front: false
 section: "Espectáculos"
-news_id: 188079
+redirect_from: /news/188079
 ---
 
 Alejandro Fernández, mejor conocido como ‘El Potrillo’, volvió a dar de qué hablar. Esta vez el cantante no fue tema de conversación por sus conciertos o por su discurso dedicado a su padre –Vicente Fernández–. ¿Qué hizo? Resulta que el cantante estalló contra los haters que lo señalaron o criticaron por su apariencia física, pues para algunas personas el famoso luce mucho más “demacrado” y hasta “viejo”. 

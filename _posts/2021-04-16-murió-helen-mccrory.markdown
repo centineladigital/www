@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Helen McCrory dio vida al personaje de Narcissa Malfoy en las tres últimas entregas de la saga que adaptó al cine las novelas de J.K.Rowling. Te contamos lo que sabemos. "
 image: "/uploads/2021/images-muere-anos-helen-mccrory-actriz.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Helen McCrory, actriz de la saga 'Harry Potter', tras larga batalla contra el cáncer"
 front: false
 section: "Espectáculos"
-news_id: 183935
+redirect_from: /news/183935
 ---
 
 La actriz británica Helen McCrory, que participó en tres entregas de la serie cinematográfica de "Harry Potter" y en cintas como "Skyfall", murió a los 52 años, así lo anunció este viernes su esposo, el también actor Damian Lewis. "Tras una heroica batalla contra el cáncer, la bella y poderosa mujer que es Helen McCrory ha muerto pacíficamente en casa, rodeada de una ola de amor de familiares y amigos", escribió Lewis en la red social Twitter. 

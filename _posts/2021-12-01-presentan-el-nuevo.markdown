@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La FMF realizó el evento en el Coloso de Santa Úrsula, para conocer el nuevo escudo que utilizará el Tricolor"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan el nuevo logo de la Selección Mexicana en el Estadio Azteca"
 front: false
 section: "Deportes"
-news_id: 190375
+redirect_from: /news/190375
 ---
 
 Con un espectáculo multicolor, lleno de luces, rayos láser y baile, la Federación Mexicana de Futbol presentó el que será su nuevo logotipo y el nuevo escudo del equipo nacional en sus distintas selecciones nacionales.

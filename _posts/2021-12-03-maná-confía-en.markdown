@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "'Mariposa Traicionera' ya sobrepasó las 4 millones de visualizaciones en YouTube. "
 image: "/uploads/2021/images-mana-lanzara-album-de-colaboraciones.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Maná confía en las colaboraciones para lanzar disco lleno de éxitos"
 front: false
 section: "Espectáculos"
-news_id: 190463
+redirect_from: /news/190463
 ---
 
 Tras el rotundo éxito de Mariposa Traicionera con Alejandro Fernández, Maná ofreció una conferencia de prensa virtual mediante la cual compartió los detalles sobre su nuevo disco, del cual el tema forma parte, que contará con versiones actualizadas de algunos de los éxitos más representativos de la agrupación acompañados por intérpretes de distintos países de habla hispana. 

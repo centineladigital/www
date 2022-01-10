@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A un día de darse a conocer el primer caso de ómicron de San Diego, se da a conocer el segundo caso. "
 image: "/uploads/2021/images-oms-nombra-omicron-variante-covid.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ómicron se está propagando en California, aparece el segundo caso de San Diego"
 front: false
 section: "Internacional"
-news_id: 190747
+redirect_from: /news/190747
 ---
 
 Aparece el segundo caso de ómicron en San Diego, un hombre de 30 años completamente vacunado y con dosis de refuerzo. El paciente no tenía antecedentes de viajes hacia el extranjero y ningún síntoma. Los funcionarios de San Diego anunciaron el segundo caso de ómicron en la región. 

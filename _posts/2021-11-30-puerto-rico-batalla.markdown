@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El equipo dirigido por Nelson Colón evitó la tragedia y derrotó a los cubanos, que dominaron por casi tres cuartos "
 image: "/uploads/2021/images-puerto-rico-batalla-vencer-cuba.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Puerto Rico batalla para vencer a Cuba en ventana FIBA"
 front: false
 section: "Deportes"
-news_id: 190335
+redirect_from: /news/190335
 ---
 
 Puerto Rico evitó la penumbra. La selección boricua vino de menos a más y derrotó a su similar de Cuba, con lo que se salvó de la última posición en la primera ventana clasificatoria rumbo a la Copa del Mundo de Basquetbol 2023. Los cubanos, que llegaron a liderar en tres cuartos (con poco más de 28 minutos con la ventaja), se estancaron en la segunda mitad y solo anotaron siete puntos en el tercer cuarto, además de diez en el último periodo. 

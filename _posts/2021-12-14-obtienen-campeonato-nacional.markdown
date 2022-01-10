@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Los jóvenes formaron parte de la Delegación Chihuahua que participó en el Torneo Nacional Elite 2021"
 image: "/uploads/2021/images-CAMPEONES_CHIHUAHUA.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Obtienen Campeonato Nacional de Básquetbol 4 estudiantes  del Tec de Nuevo Casas Grandes   "
 front: false
 section: "Local"
-news_id: 190841
+redirect_from: /news/190841
 ---
 
 Con esfuerzo y dedicación, cuatro jóvenes del Instituto Tecnológico Superior de Nuevo Casas Grandes (ITSNCG) formaron parte del equipo representativo del Estado de Chihuahua en el Torneo Nacional Elite 2021, en la categoría sub-19 varonil que se coronó campeón.

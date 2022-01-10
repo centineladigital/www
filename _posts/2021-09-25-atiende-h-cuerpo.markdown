@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Prevé Coordinación Municipal de Protección Civil más lluvias para el fin de semana"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atiende H. Cuerpo de Bomberos incidentes por repentina lluvia al norte de la ciudad"
 front: false
 section: "Local"
-news_id: 188051
+redirect_from: /news/188051
 ---
 
 Un total de 11 incidentes por lluvia y vientos presentados la tarde de este viernes, fueron atendidos por elementos del H. Cuerpo de Bomberos, entre los cuales se encuentran 4 inundaciones en domicilios, 2 árboles y 2 bardas caídas, así como un rescate de persona, un vehículo varado y un techo con láminas desprendidas.

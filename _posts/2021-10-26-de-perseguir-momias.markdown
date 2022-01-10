@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de protagonizar películas como La momia, Brenda Fraser podría unirse al mundo de DC Comics y ser el villano de la película de Batgirl."
 image: "/uploads/2021/images-actor-aparecer-villanos-pelicula-dc.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿De perseguir momias a superhéroes? Brendan Fraser podría ser el villano en 'Batgirl'"
 front: false
 section: "Espectáculos"
-news_id: 189230
+redirect_from: /news/189230
 ---
 
 A mediados de los años 90 y principios de los 2000 Brendan Fraser fue uno de los actores más reconocidos ya que protagonizó diferentes películas, sin embargo, ganó gran popularidad tras participar en la trilogía de La Momia. A más de 20 años del estreno de estos filmes, el histrión podría regresar a la pantalla grande de la mano de DC Comics. Hasta ahora se sabe que se está planeando una película de Batgirl, en la que Leslie Grace interpretará a Barbara Gordon y que el casting para encontrar a los actores que darán vida a los personajes de la historia aún se está realizando, sin embargo, se reveló que Brendan Fraser podría dar vida al villano. 

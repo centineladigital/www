@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Para este lunes se prevé que el termómetro suba hasta los 32 grados y tenga una mínima de 16"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se esperan temperaturas agradables esta semana en la capital"
 front: false
 section: "Local"
-news_id: 183823
+redirect_from: /news/183823
 ---
 
 Días parcialmente nublados y temperaturas agradables, que no rebasaran los 33 grados centígrados con vientos moderados, es lo que se espera para esta semana en la capital del estado, según datos de la Coordinación Municipal de Protección Civil y de acuerdo con el pronóstico general que emite el Servicio Meteorológico Nacional de CONAGUA.

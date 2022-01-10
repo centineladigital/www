@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te decimos todo lo que debes saber del nuevo spin-off de la exitosa serie 'The Mandalorian'. "
 image: "/uploads/2021/images-disney-plus-anuncia-serie-boba_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Que la fuerza te acompañe! -  'El libro de Boba Fett', la nueva serie del universo 'Star Wars' ya tiene fecha de estreno en Disney+"
 front: false
 section: "Espectáculos"
-news_id: 188268
+redirect_from: /news/188268
 ---
 
 El final de la segunda temporada de The Mandalorian estuvo cargado de sorpresas. Y no solo por el retorno de uno de los personajes más emblemáticos de la saga y su reunión con Baby Yoda, sino también por el anuncio de que Boba Fett, el mítico cazarecompensas, tendría su propia serie. Una ficción que seguirá expandiendo el universo de Star Wars y que ya tiene fecha de estreno en Disney+. La nueva serie de Lucasfilm, que fue anunciada en la escena post créditos al final de la 2ª temporada de The Mandalorian, se estrenará el miércoles 29 de diciembre en exclusiva en Disney+, según ha anunciado la compañía en un comunicado. 

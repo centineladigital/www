@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Creo que las personas que nos aman y se van, lo último que quieren es vernos sufrir, dijo la fotógrafa y modelo durante una entrevista con 'Ventaneando'. "
 image: "/uploads/2021/images-maria-levy-hablo-muerte-mama.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Un dolor que nunca voy a dejar de sentir -  María Levy habla sobre la muerte de su mamá, Mariana Levy"
 front: false
 section: "Espectáculos"
-news_id: 184191
+redirect_from: /news/184191
 ---
 
 El 29 de abril se cumplen 16 años de que Mariana Levy falleció por un infarto fulminante, derivado del susto por el intento de asaltó que sufrió cuando se dirigía con su esposo, José María El Pirru, una de sus hijas y algunos amigos de la pequeña, a un parque de diversiones para festejar por adelantado el Día del Niño.  Un suceso dramático que afectó fuertemente a familiares y amigos de la actriz. Aunque, con el tiempo, una de sus hijas, María Levy, ha aprendido a ver la muerte de su mamá sin una connotación negativa. Así lo reveló durante una entrevista en el programa Ventaneando. 

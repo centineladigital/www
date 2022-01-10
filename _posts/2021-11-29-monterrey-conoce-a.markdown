@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El torneo internacional de la FIFA se celebrará del 3 al 12 de febrero en los Emiratos Árabes. "
 image: "/uploads/2021/images-rayados-ya-tiene-rival-en.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Monterrey conoce a su rival en el Mundial de Clubes 2021"
 front: false
 section: "Deportes"
-news_id: 190296
+redirect_from: /news/190296
 ---
 
 Monterrey conoció al rival que enfrentará en el Mundial de Clubes 2021, el cual se celebrará a inicios del próximo año en los Emiratos Árabes, torneo que fue aplazado por la pandemia del covid-19. 

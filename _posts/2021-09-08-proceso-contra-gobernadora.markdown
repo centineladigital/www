@@ -10,11 +10,11 @@ author: nil
 description: "No había fundamentos para que se diera el proceso dentro de la Operación Justicia Chihuahua."
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-08_at_2.42.10_PM_(1).jpeg"
 video: "/uploads/2021/videos-MM04_LUIS_SERRATO.mp4"
-audio: "nil"
+audio: nil
 alt: "Proceso contra Gobernadora era infundado -  Serrato"
 front: false
 section: "Local"
-news_id: 187555
+redirect_from: /news/187555
 ---
 
 El que se desechara el proceso de vinculación de la Gobernadora María Eugenia Campos refleja que no existían fundamentos para llevar a cabo alguna acción judicial, expresó el secretario de Coordinación de Gabinete, Luis Serrato Castell.

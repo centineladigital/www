@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este movimiento busca dar a conocer los beneficios que aportan a la salud y al medio ambiente el tener un estilo de vida libre de maltrato anima. "
 image: "/uploads/2021/images-conoce-a-los-artistas-que.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Un mundo sin maltrato animal! En el ‘Día Mundial del Veganismo’ te contamos quiénes son las celebridades a favor de este movimiento"
 front: false
 section: "Espectáculos"
-news_id: 189430
+redirect_from: /news/189430
 ---
 
 El primero de noviembre se celebra el día mundial del veganismo. Una fecha que celebra la concientización sobre los derechos de los animales. Este movimiento también busca dar a conocer los beneficios que aportan a la salud y al medio ambiente el tener un estilo de vida libre de maltrato animal ya que el concepto de veganismo no solo abarca la alimentación. 

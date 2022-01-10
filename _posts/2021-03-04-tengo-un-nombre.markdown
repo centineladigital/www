@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras los Globos de Oro, una periodista criticó el atuendo de Nicola Coughlan, además, la llamó 'la gorda de los Bridgerton'; así le respondió la actriz. "
 image: "/uploads/2021/images-nicola-couglan-interpreta-penelope-featherington.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tengo un nombre -  Nicola Coughlan responde a periodista que la llamó 'la gorda de los Bridgerton'"
 front: false
 section: "Espectáculos"
-news_id: 183284
+redirect_from: /news/183284
 ---
 
 En diciembre del 2020 se estrenó la serie Bridgerton en Netflix, la cual rápidamente se convirtió en una de las más vistas en la plataforma de streaming. En ella participa Nicola Coughlan, quien interpreta a Penelope Featherington, joven que está detrás de la famosa Lady Whistledown. Tras su aparición en los Globos de Oro, la actriz fue criticada por una periodista quien la llamó: 'la gorda de los Bridgerton'. En la gala de los Globos de Oro, Nicola Coughlan hizo una aparición en la ceremonia en donde en un monologo hizo referencia a su personaje en la serie Bridgerton. Tras su participación, la periodista Amanda Richards, quien también es editora de moda, realizó un comentario despectivo al conjunto que usó la actriz, además que la llamó gorda 

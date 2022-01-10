@@ -10,11 +10,11 @@ author: nil
 description: "Por lo menos 50 personas fueron removidas de sus puntos."
 image: "/uploads/2021/images-LOYA.jpg"
 video: "/uploads/2021/videos-MM05_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Reasignarán a agentes en motocicleta"
 front: false
 section: "Local"
-news_id: 189884
+redirect_from: /news/189884
 ---
 
 Agentes de la Policía Vial en motocicleta serán removidos de sus puntos, esto ya que alrededor de 50 de ellos tienen reporte de ocultarse para poner infracciones, situación que no debe de darse de esta forma.

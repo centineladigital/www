@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente dio un mensaje desde su automóvil y tras dialogar con maestros, ingresó a las instalaciones de la Sedena en Chiapas"
 image: "/uploads/2021/images-amlo-conferencia-mananera-auto-jesus_0_3_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por bloqueo de CNTE, AMLO da mañanera desde auto; decidí no entrar por la fuerza"
 front: false
 section: "Nacional"
-news_id: 187176
+redirect_from: /news/187176
 ---
 
 El presidente Andrés Manuel López Obrador dio la conferencia mañanera desde su automóvil, luego de que maestros de la Coordinación Nacional de Trabajadores de la Educación (CNTE) le impidieron el paso a la Séptima Zona Militar en Tuxtla Gutiérrez, Chiapas. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "También se ratificó el mismo de defunciones quedando en 7 mil 970"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-10-02_at_10.46.43.ogg"
 alt: "Se registran 31 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 188327
+redirect_from: /news/188327
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 2 de Octubre se tiene un total general de 78 mil 424 contagios en el estado. Luego de confirmarse otros 31 más en Juárez, Chihuahua, Delicias, Cuauhtémoc, Ojinaga, Guachochi, Meoqui, Saucillo, Aldama, Aquiles Serdán, y Carichi.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Miembros del elenco de Harry Potter se reunieron para un especial de televisión del vigésimo aniversario, llamado Regreso a Hogwarts. "
 image: "/uploads/2021/images-emma-watson-aparecera-especial-harry_133_53_840_523.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El primer beso, cortes de pelo horrible y más... Esto es lo que veremos en 'Regreso a Hogwarts'"
 front: false
 section: "Espectáculos"
-news_id: 191267
+redirect_from: /news/191267
 ---
 
 Daniel Radcliffe recuerda los vergonzosos cortes de pelo, Emma Watson encontró que reunirse con sus compañeros de reparto de Harry Potter era "una alegría inesperada" y el director Christopher Columbus recuerda los decorados de las películas como "el mejor patio de recreo". Muchos miembros del elenco de la franquicia cinematográfica Harry Potter se reunieron para un especial de televisión del vigésimo aniversario, llamado Regreso a Hogwarts, que se transmitirá el 1 de enero en HBO Max. 

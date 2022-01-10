@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Laura Flores explicó cómo se la ha pasado en estos meses alejada de las televisoras mexicanas. ¿Fue vetada de Televisa? Te decimos por qué abandonó el programa Hoy. "
 image: "/uploads/2021/images-laura-flores-razon-programa-televisa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Por Andrea Legarreta? Laura Flores revela por qué se fue de 'Hoy'; aclara si sufrió veto de Televisa"
 front: false
 section: "Espectáculos"
-news_id: 185277
+redirect_from: /news/185277
 ---
 
 Laura Flores, actriz y conductora de televisión, reapareció luego de varios meses alejada de las cámaras. La famosa habló sobre sus nuevos proyectos, así como su nueva profesión con los animales. Además de que recordó la razón por la que salió del programa Hoy de Televisa. ¿La corrieron? ¿No se llevaba bien con Andrea Legarreta? ¿Por culpa de Alfredo Adame? Te contamos lo que expresó la famosa. 

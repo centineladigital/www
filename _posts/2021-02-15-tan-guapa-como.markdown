@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Cada segundo eres más hermosa le escribió la conductora Andrea Legarreta a su hija mayor, quien ha sorprendido al demostrar que heredó el talento musical de su papá. "
 image: "/uploads/2021/images-hija-andrea-legarreta-manda-romantico_0_253_958_596.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Tan guapa como su mamá! Mía Rubín Legarreta sorprende con foto en Instagram"
 front: false
 section: "Espectáculos"
-news_id: 182928
+redirect_from: /news/182928
 ---
 
 ¡Cómo pasa el tiempo! Mía y Nina, hijas de Andrea Legarreta y Erik Rubín han demostrado tener un gran talento pese a su corta edad. La pequeña Nina, quien cumplió 14 años en enero pasado, participa en la telenovela ¿Te acuerdas de mí?, su debut en la actuación. Mientras tanto, Mía Rubín, quien en abril de este año cumplirá 16 años, encanta a sus seguidores con su privilegiada voz. Pero en esta ocasión, ésta última dio de qué hablar en redes sociales al demostrar que sin duda heredó la belleza de su madre. 

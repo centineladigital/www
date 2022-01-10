@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Y solamente se acreditan tres defunciones."
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML01_ARTURO_VALENZUELA.mp3"
 alt: "Inicia semana con solamente 15 casos COVID"
 front: false
 section: "Local"
-news_id: 184258
+redirect_from: /news/184258
 ---
 
 Con tan sólo 15 casos de pruebas que dieron positivo y la acreditación de tres defunciones es como inició la semana en materia de cifras de personas contagiadas y defunciones por causa del COVID-19, según fue dado a conocer por parte del Director Médico de la Zona Norte, Arturo Valenzuela Zorrilla.

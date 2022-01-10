@@ -16,11 +16,11 @@ author: nil
 description: "Al no cumplir con sus funciones pueden ser sancionados económicamente "
 image: "/uploads/2021/images-WhatsApp_Image_2021-01-31_at_10.52.16_AM.jpeg"
 video: "/uploads/2021/videos-BJ01_KARLA_RIVAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "La recolección de basura está en pláticas -  Karla Rivas "
 front: false
 section: "Local"
-news_id: 188491
+redirect_from: /news/188491
 ---
 
 La diputada Karla Rivas, manifestó que se han  dado  pláticas con el ingeniero Muruato Director De Servicios Públicos del Municipio De Chihuahua, para darle una solución a la problemática que tanto ha aquejado a algunas colonias de la ciudad respecto a la recolección de la basura ya que se ha llegado a la conclusión de  que no se ha hecho este trabajo desde hace 2 semanas.

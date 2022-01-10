@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Conoce el precio del dólar hoy lunes en bancos. "
 image: "/uploads/2021/images-tipo-de-cambio-peso-dolar-43.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Precio del dólar hoy -  Peso pierde por avance de dólar, débiles cifras económicas"
 front: false
 section: "Internacional"
-news_id: 189143
+redirect_from: /news/189143
 ---
 
 Al iniciar operaciones el precio del dólar hoy lunes fue de hasta 20.68 pesos en bancos. En tanto, el tipo de cambio interbancario se ubica en 20.21 pesos por dólar, con una caída de 0.26 por ciento. Citibanamex vende el dólar hasta en 20.68 pesos, mientras BBVA México lo hace en 20.44, Banorte en 20.45 pesos y Banco Azteca en 20.18 unidades. 

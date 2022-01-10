@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Para salvaguardar la vida e integridad de las niñas, mujeres y familias del municipio"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta Gobierno Municipal a tomar precauciones en fiestas decembrinas"
 front: false
 section: "Local"
-news_id: 191136
+redirect_from: /news/191136
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM), emite las siguientes recomendaciones a las niñas, mujeres y familias chihuahuenses, especialmente durante los festejos navideños y de fin de año, en donde las salidas son más recurrentes.

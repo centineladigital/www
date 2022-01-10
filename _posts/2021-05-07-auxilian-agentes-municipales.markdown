@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tres unidades están dedicadas a acercar a personas hasta la aplicación de la vacuna, ayudarlas inclusive a sentarse a esperar su turno"
 image: "/uploads/2021/images-Vacunación_Covid_policias_ayudan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Auxilian agentes municipales a ancianitos en vacunación"
 front: false
 section: "Local"
-news_id: 184328
+redirect_from: /news/184328
 ---
 
 Elementos de la Dirección de Seguridad Pública se encuentran brindando ayuda a adultos mayores para llegar hasta el punto de vacunación en la Deportiva Sur.

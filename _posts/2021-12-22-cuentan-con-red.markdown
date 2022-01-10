@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal invirtió más de 90 mil pesos para llevar este servicio"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cuentan con red de agua potable familias de comunidad Rancho de Cobos"
 front: false
 section: "Local"
-news_id: 191108
+redirect_from: /news/191108
 ---
 
 El Gobierno Municipal a través de la Dirección de Desarrollo Rural incorporó a ocho familias de Rancho de Cobos, a la red hidráulica de Boca de Ciénega, en el Seccional de Ciénega de Ortiz.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En caso de una emergencia de alto impacto, podría estarlo monitoreando sí está dentro del rango de las cámaras"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instalan extensión de la Plataforma Escudo Chihuahua en el despacho del Presidente Municipal"
 front: false
 section: "Local"
-news_id: 188323
+redirect_from: /news/188323
 ---
 
 El presidente municipal Marco Bonilla solicitó la instalación de un sistema que esté interconectado con la Plataforma Escudo Chihuahua, PECUU, en su despacho, en donde podrá monitorear todas las cámaras de seguridad instaladas en la ciudad, tanto las fijas como las móviles lo cual le permitirá constatar el funcionamiento tecnológico y contar con un panorama general de la comunidad.

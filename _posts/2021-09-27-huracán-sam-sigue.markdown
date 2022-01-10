@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La temporada ciclónica 2021 está siendo más activa de lo normal, tal como pronosticaron los expertos. "
 image: "/uploads/2021/images-el-huracan-sam-se-fortalecio_0_181_750_466.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Huracán 'Sam' sigue fortaleciéndose lejos de la costa"
 front: false
 section: "Internacional"
-news_id: 188071
+redirect_from: /news/188071
 ---
 
 El huracán Sam se fortaleció durante la noche un poco más en su avance hacia el oeste-noroeste sobre las aguas del Atlántico y presentaba vientos de 145 millas por hora (230 km/h), según el Centro Nacional de Huracanes (NHC) de Estados Unidos. 

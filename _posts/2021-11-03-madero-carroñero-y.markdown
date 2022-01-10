@@ -14,11 +14,11 @@ author: nil
 description: "Precisó que él no estuvo en la reunión de la cual se desemboco el audio "
 image: "/uploads/2021/images-GustavoMadero.png"
 video: "/uploads/2021/videos-BW03_MARIO_VAZQUEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Madero carroñero y oportunista -  Mario Vázquez "
 front: false
 section: "Local"
-news_id: 189520
+redirect_from: /news/189520
 ---
 
 Mario Vázquez Robles, señaló de acciones carroñeras y oportunistas al senador Gustavo Madero, luego de los cuestionamientos que hizo a, Marko Cortés, por el audio difundido en el que asegura que solamente tienen posibilidades de ganar el estado de Aguascalientes durante las elecciones del 2022.

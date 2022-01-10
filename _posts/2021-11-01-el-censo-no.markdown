@@ -16,11 +16,11 @@ author: nil
 description: "La discrepancia es grande ya que en el lugar habita solamente 8 mil 169 personas"
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BL04_JUAN_LOERA.mp4"
-audio: "nil"
+audio: nil
 alt: "El censo no es relevante para uso de recursos en Gazapares -  Loera "
 front: false
 section: "Local"
-news_id: 189450
+redirect_from: /news/189450
 ---
 
 El delegado Juan Carlos Loera De la Rosa informó que no hay una notificación de la auditoria superior de la federación respecto al censo de Guazapares en donde existe una discrepancia entre el número de censados y el número de beneficiarios.

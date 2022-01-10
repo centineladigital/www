@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Yoshiro Mori, presidente del comité organizador, aseguró que pese a la evolución de la crisis sanitaria, la justa se llevará a cabo"
 image: "/uploads/2021/images-2522217.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Habrá Juegos Olímpicos pese a pandemia, sentencian organizadores"
 front: false
 section: "Deportes"
-news_id: 182616
+redirect_from: /news/182616
 ---
 
 Después del COI, turno para el Comité organizador japonés de mostrarse optimista: los Juegos Olímpicos de Tokio, aplazados de 2020 a 2021 debido a la pandemia de covid-19, tendrán lugar "pase lo que pase", a pesar de la evolución de la crisis sanitaria.

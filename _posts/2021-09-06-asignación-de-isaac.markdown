@@ -16,11 +16,11 @@ author: nil
 description: "Agradeció el respaldo del presidente del comité ejecutivo municipal Paco Navarro "
 image: "/uploads/2021/images-NEGRETE.jpg"
 video: "/uploads/2021/videos-BL03_ADRIANA_DIAZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Asignación de Isaac Díaz como coordinador de la fracción edilicia del PAN "
 front: false
 section: "Local"
-news_id: 187478
+redirect_from: /news/187478
 ---
 
 Adriana Díaz regidora de desarrollo urbano manifestó su entusiasmo por el cargo de coordinador de la fracción edilicia del PAN que fue entregado a Isaac Díaz, agradeció el respaldo del presidente del comité ejecutivo municipal Paco Navarro y del alcalde electo Marco Bonilla.

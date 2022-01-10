@@ -16,11 +16,11 @@ author: nil
 description: "El gobierno federal debe atender realmente  las necesidades de los trabajadores del campo"
 image: "/uploads/2021/images-CEBOLLA-CHIHUAHUA.jpg"
 video: "/uploads/2021/videos-BJ06_PEREZ_PAVIA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Rechazo de cebolla afectará a los chihuahuenses "
 front: false
 section: "Local"
-news_id: 189054
+redirect_from: /news/189054
 ---
 
 El legislador Ismael Pérez Pavía manifestó que la situación sobre los cultivos de cebolla de México, los cuales están siendo rechazados por Estados Unidos, afectará gravemente a los agricultores de Chihuahua, declaró que un no se tienen datos sobre las pérdidas que esto pudiera ocasionar.

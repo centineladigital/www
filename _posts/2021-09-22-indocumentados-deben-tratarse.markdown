@@ -10,11 +10,11 @@ author: nil
 description: "El ombudsman señaló que se ha dado acompañamiento dentro de sus competencias."
 image: "/uploads/2021/images-NESTOR.jpg"
 video: "/uploads/2021/videos-MW01_NESTOR_ARMENDARIZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Indocumentados deben tratarse como víctimas"
 front: false
 section: "Local"
-news_id: 187965
+redirect_from: /news/187965
 ---
 
 Los indocumentados encontrados deberían de ser tratados como víctimas, fueron las palabras del titular de la Comisión Estatal de Derechos Humanos Néstor Armendáriz, quien dijo que primero se tiene que indagar ya que hacen falta muchas aclaraciones, destacando que no cuentan con el conocimiento en el tema y toda la información que tienen llega de forma colateral.

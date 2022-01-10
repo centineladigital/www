@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ambas instituciones buscan implementar este mecanismo para mejorar sus procedimientos"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exponen modelo de Justicia Cívica de la capital a autoridades de Delicias y Policía Vial"
 front: false
 section: "Local"
-news_id: 188887
+redirect_from: /news/188887
 ---
 
 Personal de Seguridad Pública de Delicias y de la Dirección de Vialidad capitalina, recibieron una exposición y recorrido por parte de miembros de Justicia Cívica del municipio de Chihuahua; que han venido trabajando con este modelo desde octubre del 2019, con el fin de implementarlos en sus dependencias.

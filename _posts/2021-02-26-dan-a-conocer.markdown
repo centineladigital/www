@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Beneficiarán con programas que mejorarán la calidad de carnes y productos chihuahuenses."
 image: "/uploads/2021/images-UACH1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV05_IVAN_GRIJALVA.mp4"
 alt: "Dan a conocer programas de la UACH en beneficio de productores"
 front: false
 section: "Local"
-news_id: 183186
+redirect_from: /news/183186
 ---
 
 Con el fin de beneficiar a los productores y ganaderos Chihuahuenses la Universidad Autónoma de Chihuahua ofrece una gama de productos y servicios, las cuales a su vez fortalecen investigaciones universitarias y la economía chihuahuense según lo declaró Iván Grijalva Gómez, integrante del área administrativa de la Facultad de Zootecnia y Ecología.

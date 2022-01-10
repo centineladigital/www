@@ -16,11 +16,11 @@ author: nil
 description: "Debe haber cultura financiera en el estado de lo contrario nos ocacionaria serios problemas, puntualizó "
 image: "/uploads/2021/images-unnamed.jpg"
 video: "/uploads/2021/videos-BV01_JOSE_OROZCO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Iniciativa de RFC desde los 18 años se debe revisar -  José Orozco "
 front: false
 section: "Local"
-news_id: 188786
+redirect_from: /news/188786
 ---
 
 El Lic. José Jordán Orozco, director de Desarrollo Económico Municipal manifestó que la iniciativa que propone que los jóvenes de 18 años en adelante obtengan su RFC se tiene que revisar a profundidad.

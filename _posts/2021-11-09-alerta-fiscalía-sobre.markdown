@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se exhorta a los usuarios de tarjetas bancarias a estar pendientes de este tipo de maniobras ilícitas y no permitir que personas ajenas las manipulen."
 image: "/uploads/2021/images-1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Fiscalía sobre el intercambio de tarjetas bancarias por desconocidos "
 front: false
 section: "Local"
-news_id: 189705
+redirect_from: /news/189705
 ---
 
 La Fiscalía de Distrito Zona Centro exhorta a los usuarios de los cajeros automáticos a estar alertas para que eviten ser víctimas de robo o fraude mediante el intercambio de tarjetas bancarias por parte de delincuentes.

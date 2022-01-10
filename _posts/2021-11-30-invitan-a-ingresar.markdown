@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Médico Cirujano Partero con 400 lugares, Ingeniero Biomédico in 50 lugares, Licenciado en Terapia Física y Rehabilitación 50 lugares y Licenciado en Salud Pública 100 lugares."
 image: "/uploads/2021/images-5.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM05_LUIS_HINOJOS.mp4"
 alt: "Invitan a ingresar a expediente selectivo de medicina"
 front: false
 section: "Local"
-news_id: 190352
+redirect_from: /news/190352
 ---
 
 Alumnos que no ingresaron a la facultad de medicina podrán inscribirse al semestre selectivo de esta facultad el cual cuenta con lugares disponibles para Médico Cirujano Partero con 400 lugares, Ingeniero Biomédico in 50 lugares, Licenciado en Terapia Física y Rehabilitación 50 lugares y Licenciado en Salud Pública 100 lugares.

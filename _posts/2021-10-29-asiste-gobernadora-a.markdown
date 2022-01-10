@@ -13,12 +13,12 @@ tags:
 author: nil
 description: ""
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asiste Gobernadora a Mesa Estatal de Seguridad en Juárez; analizan situación en la frontera"
 front: false
 section: "Local"
-news_id: 189361
+redirect_from: /news/189361
 ---
 
 La mañana de este viernes, la gobernadora del Estado, Maru Campos Galván, asistió a la sesión de la Mesa Estatal realizada en Ciudad Juárez, con el fin de analizar la situación de la zona fronteriza en materia de seguridad y así poder determinar las acciones más pertinentes para preservar la seguridad de los juarenses.

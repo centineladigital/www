@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Sin compararlo con Fernando Valenzuela, expertos afirman que Julio Urías ya es un fenómeno e ícono del beisbol mexicano como no había hace tiempo"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Urías, una “Juliomanía” en construcción"
 front: false
 section: "Deportes"
-news_id: 188813
+redirect_from: /news/188813
 ---
 
 En la mañana del jueves el Presidente Andrés Manuel López Obrador le dedicó un espacio en su conferencia matutina. Julio Urías era la sensación ese día. ¿El motivo? El pitcher de los Dodgers sería el encargado de abrir el quinto y decisivo juego de la Serie Divisional contra Giants.

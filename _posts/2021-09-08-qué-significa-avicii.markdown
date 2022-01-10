@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Avicii fue uno de los DJ que alcanzó fama mundial gracias a su música, pero ¿sabes cuál era su nombre verdadero y por qué eligió este sobrenombre? "
 image: "/uploads/2021/images-avicii-murio-en-el-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Qué significa Avicii y por qué el DJ usó este nombre artístico?"
 front: false
 section: "Espectáculos"
-news_id: 187540
+redirect_from: /news/187540
 ---
 
 Este 8 de septiembre Tim Bergling, mejor conocido como Avicii, cumpliría 32 años. En su corta, pero exitosa carrera, el DJ logró que muchos bailaran y corearan sus canciones que llegaron a los primeros lugares de las listas de popularidad y siguen siendo escuchadas por sus fans. Aunque el escuchar este nombre artístico lo relacionamos con el músico, tiene otro significado. Tim Bergling, quien murió el 20 de abril del 2018 a los 28 años en Omán, Macate, sin duda fue uno de los DJ que marcó a muchos con temas como “Wake me up” o “Hey Brother”, y aunque murió hace cuatro años su legado continúa, sin embargo, muchos se preguntan qué es lo que significa Avicii, su nombre artístico. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Gabriel y Rodolfo Rivapalacio estrenan 'Un rescate de huevitos', la cuarta entrega de su franquicia animada."
 image: "/uploads/2021/images-rescate-huevitos-celebran-anos-pelicula.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Una película de huevos' celebra sus 15 años con 'Un rescate de huevitos'"
 front: false
 section: "Espectáculos"
-news_id: 186653
+redirect_from: /news/186653
 ---
 
 Hace 15 años los hermanos Gabriel y Rodolfo Rivapalacio lanzaron Una película de huevos, la primera entrega de su historia animada, que al paso del tiempo se convirtió en una de las sagas más exitosas del cine nacional; hoy estrenan la cuarta parte de su franquicia: Un rescate de huevitos, sobreponiéndose a una pandemia que obstaculiza los estrenos en salas de cine. “Cuando hicimos la primera película no sabíamos que haríamos cuatro; así que, todo lo que ha pasado en estos años ha sido una sorpresa”, explicó Rodolfo a M2.

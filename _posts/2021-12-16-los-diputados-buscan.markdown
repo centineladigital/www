@@ -26,11 +26,11 @@ author: nil
 description: "Morena planteo una reorientación del gasto y un paquete económico austero en donde no hubiera beneficios innecesarios para los funcionarios públicos"
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-16_at_3.02.24_PM.jpeg"
 video: "/uploads/2021/videos-BJ02_BENJAMIN_CARRERA.mp4"
-audio: "nil"
+audio: nil
 alt: "Los diputados buscan su comodidad"
 front: false
 section: "Local"
-news_id: 190939
+redirect_from: /news/190939
 ---
 
 Ante el voto en contra de los integrantes del grupo parlamentario Morena respecto al paquete económico para el Estado de Chihuahua, el cual abarca un presupuesto de más de 100 millones de pesos para la creación de infraestructura para el edificio así como un incremento de los sueldos para los funcionarios públicos del 4 por ciento, el diputado Benjamín Carrera Chávez manifestó que lo que buscan los diputados con el paquete económico es su comodidad.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Integrado por el Gobierno Municipal, asociaciones civiles y el sector empresarial"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-05_at_11.03.12.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rinde protesta del nuevo Consejo de Prevención Social de la Violencia y la Delincuencia del Municipio de Chihuahua"
 front: false
 section: "Local"
-news_id: 188386
+redirect_from: /news/188386
 ---
 
 El alcalde de Chihuahua, Marco Bonilla Mendoza presidió la trigésima sexta sesión plenaria del Consejo de Prevención Social de la Violencia y la Delincuencia, COPREV, en la cual, dio paso a la toma de protesta de los nuevos integrantes.

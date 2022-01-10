@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Presidente hizo un llamado a la población a participar en la consulta ciudadana sobre la revocación de mandato, prevista para marzo"
 image: "/uploads/2021/images-amlo-gobierno-busca-transformar-violencia_0_3_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No estoy dispuesto a pasar a la historia como un Presidente mediocre, dice AMLO"
 front: false
 section: "Nacional"
-news_id: 189188
+redirect_from: /news/189188
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que no está dispuesto a pasar a la historia como un mandatario mediocre y aseguró que su gobierno busca transformar al país sin violencia. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Serán acreedores a una multa de más de mil 500 pesos   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta Gobierno Municipal a resguardar ganado de vía pública; se sancionará a dueños"
 front: false
 section: "Local"
-news_id: 188432
+redirect_from: /news/188432
 ---
 
 El Gobierno Municipal a través de la Dirección de Desarrollo Rural, exhortó a los ganaderos a mantener resguardados sus animales y eviten que ingresen a la zona urbana donde pueden provocar accidentes o causar molestias a los vecinos.

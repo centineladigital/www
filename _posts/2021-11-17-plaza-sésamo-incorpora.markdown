@@ -14,11 +14,11 @@ author: nil
 description: "El nuevo personaje Ji-Young será la nueva vecina de Plaza Sésamo. La títere es de origen coreano-estadunidense. Le gusta pasear en patineta y el rock. "
 image: "/uploads/2021/images-conoce-ji-young-vecina-coreana.jpg"
 video: "/uploads/2021/videos-YvMvELAMsRA_1_"
-audio: "nil"
+audio: nil
 alt: "Plaza Sésamo incorpora primer personaje asiático; conoce a la nueva vecina 'Ji-Young'"
 front: false
 section: "Espectáculos"
-news_id: 189918
+redirect_from: /news/189918
 ---
 
 ¿Te gusta Plaza Sésamo? ¿Creciste con sus personajes? Si es así te tenemos buenas noticias, pues por primera vez en sus 52 años que lleva en la televisión, decidieron meter a un personaje asiático. Se trata de Ji-Young. ¿Qué papel desarrollará en Plaza Sésamo? Aquí te contamos todo lo que debes saber. El nuevo personaje Ji-Young será la nueva vecina de Plaza Sésamo. La títere es de origen coreano-estadunidense. Le gusta pasear en patineta y el rock.

@@ -14,11 +14,11 @@ author: nil
 description: "La decisión es del consejo estatal de salud."
 image: "/uploads/2021/images-semaforo-amarillo-de-coronavirus-milenio-1.jpeg"
 video: "/uploads/2021/videos-BL05_ALFREDO_CHAVEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Semáforo amarillo no representa una afectación a los comercios "
 front: false
 section: "Local"
-news_id: 188882
+redirect_from: /news/188882
 ---
 
 El diputado Alfredo Chávez manifestó que el que se vuelva a semáforo amarillo no representa un percance ni una afectación para los comercios, argumentó que la decisión de estar en semáforo amarillo es del consejo estatal de salud.

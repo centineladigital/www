@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Cada uno de los exfuncionarios acumula más de 30 procedimientos administrativos como parte de la Operación Justicia para Chihuahua, informa secretaria de la Función Pública, Mónica Vargas"
 image: "/uploads/2021/images-Monica_Vargas1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cuatro de sus colaboradores operaron red de corrupción del exgobernador de Chihuahua"
 front: false
 section: "Local"
-news_id: 181889
+redirect_from: /news/181889
 ---
 
 Cuatro exfuncionarios fueron identificados como los principales operadores de la red de corrupción que durante la administración estatal 2010-2016 encabezada por César Horacio D.J., desvió  más de 2 mil 700 millones de pesos (mdp) del erario estatal.

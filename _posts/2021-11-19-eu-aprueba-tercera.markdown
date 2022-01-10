@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El anuncio fue realizado por los laboratorios multinacionales Pfizer y Moderna"
 image: "/uploads/2021/images-coronavirus-tercera-dosis-eu_optimized.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU aprueba tercera dosis de vacuna Covid-19 para mayores de 18 años"
 front: false
 section: "Internacional"
-news_id: 189985
+redirect_from: /news/189985
 ---
 
 Estados Unidos extendió el viernes la autorización de la tercera dosis de la vacuna contra el Covid-19 a todas las personas mayores de 18 años, seis meses después de completar su serie de vacunación primaria, anunciaron los laboratorios multinacionales Pfizer y Moderna.

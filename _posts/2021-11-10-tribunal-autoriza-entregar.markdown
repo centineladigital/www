@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Un juez federal en Washington sentenció que cientos de páginas de los registros de la Casa Blanca de Trump pueden entregarse al comité del Congreso que investigue el ataque del 6 de enero al Capitolio a pesar de las objeciones del ex presidente. "
 image: "/uploads/2021/images-presidente-unidos-donald-trump-criticado_0_2_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tribunal autoriza entregar al Congreso de EU registros de Trump sobre asalto al Capitolio"
 front: false
 section: "Internacional"
-news_id: 189744
+redirect_from: /news/189744
 ---
 
 Un tribunal de Estados Unidos permitió el martes por la noche que los documentos relacionados con el asalto al Capitolio del pasado 6 de enero por parte de partidarios de Donald Trump sean entregados a una comisión de investigación del Congreso a pesar de los intentos del ex presidente por evitarlo.  

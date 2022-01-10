@@ -10,11 +10,11 @@ author: nil
 description: "Cifras no se han elevado como cuando llegaron bandas colombianas."
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-MJ07_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Robos a casa habitación repuntan de forma ocasional -  DSPM"
 front: false
 section: "Local"
-news_id: 186902
+redirect_from: /news/186902
 ---
 
 Los repuntes de robos se dan ocasionalmente, señaló el titular de la Dirección de Seguridad Pública Municipal, Gilberto Loya Chávez. Esto tras ser cuestionado por el hecho que se registró esta semana en la colonia San Felipe.

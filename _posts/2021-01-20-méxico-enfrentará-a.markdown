@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Será el segundo encuentro que tendrá la Selección Mexicana en 2021, en una sede por definir"
 image: "/uploads/2021/images-2515146.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México enfrentará a Costa Rica en marzo"
 front: false
 section: "Deportes"
-news_id: 182280
+redirect_from: /news/182280
 ---
 
 La Federación Mexicana de Futbol anunció que el Tricolor tendrá un duelo de preparación ante su similar de Costa Rica el próximo 30 de marzo a las 21:00 horas, en una sede por definir. 

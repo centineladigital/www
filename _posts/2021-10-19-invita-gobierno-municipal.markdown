@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se suman COESVI, JMAS y Secretaría de Desarrollo Humano y Bien Común para atender solicitudes de usuarios"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno Municipal a participar en el próximo “Miércoles Ciudadano”"
 front: false
 section: "Local"
-news_id: 188918
+redirect_from: /news/188918
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, invita a las y los chihuahuenses a participar en el próximo “Miércoles Ciudadano”, que se llevará a cabo este 20 de octubre en la Plaza de Armas, de 10:00 a 14:00 horas.

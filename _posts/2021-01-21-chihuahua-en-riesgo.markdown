@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La vacuna no viene a salvarle la vida a la gente, viene a paliar un poco el problema, pero las medidas de seguridad deben persistir"
 image: "/uploads/2021/images-Vacunación_para_nota_Velvet.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chihuahua en riesgo de brote por apresurado semáforo amarillo"
 front: false
 section: "Local"
-news_id: 182315
+redirect_from: /news/182315
 ---
 
 La transición al semáforo amarillo en Chihuahua fue una decisión precipitada, ya que tras las festividades del mes de diciembre existe el riesgo latente de un brote severo que de nueva cuenta llevaría al estado al semáforo rojo, afirmó el doctor Jesús Ramón Lozano Saucedo, secretario del Colegio de Médicos de Chihuahua, presidente del Colegio de Urgencias y director del Hospital Morelos del IMSS.

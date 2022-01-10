@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Rachel McAdams protagonizó junto a Ryan Gosling la exitosa película 'Diario de una pasión', así fue como la actriz consiguió el papel de Allie Hamilton."
 image: "/uploads/2021/images-rachel-mcadams-vida-allie-hamilton_0_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así fue el impresionante casting de Rachel McAdams para Allie de 'Diario de una pasión'"
 front: false
 section: "Espectáculos"
-news_id: 189914
+redirect_from: /news/189914
 ---
 
 Una de las películas románticas más populares es Diario de una pasión, dicha producción es una adaptación de la novela escrita por Nicholas Sparks. La historia gira en torno de Allie y Noah, unos jóvenes que aunque están enamorados, deben de pasar por varias pruebas para poder estar juntos. Estos personajes fueron interpretados por Ryan Gosling y Rachel McAdams, actores que ganaron aún más fama tras ser los protagonistas de la película. La actriz Rachel McAdams fue la última en incorporarse a la producción de Diario de una pasión, así como la última en hacer casting para poder dar vida a Allie Hamilton. Su actuación en dicho casting hizo que el director, Nick Cassavetes, quedara convencido y eligiera a Rachel como la protagonista. 

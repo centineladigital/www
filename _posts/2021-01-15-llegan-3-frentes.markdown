@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Coordinación Estatal de Protección Civil hace un llamado a la población a protegerse de las bajas temperaturas y mantenerse informada a través de los canales oficiales de comunicación sobre cualquier eventualidad"
 image: "/uploads/2021/images-WhatsApp_Image_2021-01-12_at_9.17.15_AM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llegan 3 frentes fríos al estado en viernes, domingo y martes"
 front: false
 section: "Local"
-news_id: 182162
+redirect_from: /news/182162
 ---
 
 La Coordinación Estatal de Protección Civil informó que se espera el ingreso de tres frentes fríos a la entidad, de hoy viernes 15 de enero al martes 19, con precipitaciones acompañadas de caída de aguanieve y nieve en la zona suroeste, principalmente en Guadalupe y Calvo y El Vergel.

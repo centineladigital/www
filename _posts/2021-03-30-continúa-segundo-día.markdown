@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Critican la falta de organización, lo que ha derivado en qué no se respete la sana distancia"
 image: "/uploads/2021/images-Vacunación_centro_convenciones_día_2-4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúa segundo día de vacunación en Centro de Convenciones"
 front: false
 section: "Local"
-news_id: 183604
+redirect_from: /news/183604
 ---
 
 Cientos de personas ya se encuentran formadas para recibir la dosis de vacuna contra el Covid, en el punto del Centro de Convenciones.

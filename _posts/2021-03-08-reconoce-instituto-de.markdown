@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Reconocen acciones por mujeres chihuahuenses en materia de equidad de género."
 image: "/uploads/2021/images-EMMA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML01_EMMA_SALDAÑA.mp3"
 alt: "Reconoce Instituto de la Mujer liderazgos femeninos"
 front: false
 section: "Local"
-news_id: 183340
+redirect_from: /news/183340
 ---
 
 Un reconocimiento la trayectoria y acciones a favor de la mujer fueron reconocidos a lideresas chihuahuenses, esto dentro el marco del Día Internacional de la Mujer, por parte del Instituto de la Mujer. Así como se otorgó un reconocimiento al Gobernador Javier Corral.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los casos de cientos de mujeres que fueron esterilizadas sin su consentimiento en Estados Unidos durante los años 30 llegan este viernes a la pantalla de Amazon con Madres. "
 image: "/uploads/2021/images-madres-pelicula-protagonizara-tenoch-huerta_0_146_750_467.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tenoch Huerta explora caso de plan de eugenesia en 'Madres' de Prime Video"
 front: false
 section: "Espectáculos"
-news_id: 188507
+redirect_from: /news/188507
 ---
 
 Los casos de cientos de mujeres que fueron esterilizadas sin su consentimiento en Estados Unidos, derivados del conocido plan de eugenesia aplicado durante los años 30, llegan este viernes a la pantalla de Amazon con Madres, un thriller protagonizado por Tenoch Huerta y Ariana Guerra, que forma parte del combo Welcome to the Blumhouse. “La historia original ocurre en los años 30 y 40 en Estados Unidos, pero para Madres la adaptaron a los años 73, para contarnos todo lo que ocurrió con cientos de mujeres; sí, está cabrón, porque es algo que sigue ocurriendo. La historia y sus personajes me parecen maravillosos, tenemos una muy buena película”, dijo a M2 Tenoch Huerta. 

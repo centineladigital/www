@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se realizó en coordinación con el DIF Municipal y se expusieron temas relacionados con el fenómeno de la muerte del ser humano. "
 image: "/uploads/2021/images-Foto_FN_6116-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza IMSS Chihuahua taller de Tanatología durante la Segunda Semana Nacional de Prestaciones Sociales 2021"
 front: false
 section: "Local"
-news_id: 190612
+redirect_from: /news/190612
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, llevó a cabo en el Centro de Seguridad Social (CSS) en Delicias un taller de Tanatología, dentro de las actividades por la Segunda Semana Nacional de Prestaciones Sociales 2021.

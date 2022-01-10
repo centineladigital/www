@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El DIF Municipal invita a participar del 26 de octubre al 26 de noviembre a esta noble causa"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca campaña invernal 2021 -  “Abrigos que abrazan”"
 front: false
 section: "Buenas Noticias"
-news_id: 189229
+redirect_from: /news/189229
 ---
 
 El Gobierno Municipal, a través del DIF, en coordinación con el grupo de voluntariado a cargo de la misma dependencia, dio a conocer el inicio de la campaña: “Abrigos que Abrazan”, la cual tendrá como objetivo la colecta de chamarras, ropa térmica y calcetines para niñas, niños y adolescentes de uno a 16 años.

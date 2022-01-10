@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Este fondo destina un apoyo para artistas en 5 categorías y 6 disciplinas"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abren convocatoria FOMAC para que artistas y creadores locales impulsen sus proyectos"
 front: false
 section: "Local"
-news_id: 190364
+redirect_from: /news/190364
 ---
 
 En el marco de los primeros 100 días de trabajo y resultados, el alcalde Marco Bonilla, anunció la convocatoria del Fondo Municipal para Artistas y Creadores (FOMAC), el cual celebra su quinta edición y busca apoyar a artistas locales mediante becas anuales.

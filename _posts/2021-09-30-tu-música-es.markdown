@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Si los Grammy no nos valoran, ¿entonces por qué yo tengo 31 Grammys?, cuestionó el puertorriqueño. "
 image: "/uploads/2021/images-el-cantante-puertorriqueno-le-respondio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tu música es como un carrito de hot dogs -  Residente reacciona a boicot de J Balvin contra los Grammy"
 front: false
 section: "Espectáculos"
-news_id: 188215
+redirect_from: /news/188215
 ---
 
 La critica que J Balvin lanzó contra los premios Grammy 2021 generó muchas reacciones en el mundo de la música, pero la respuesta más directa fue la de Residente, quien increpó al artista colombiano sobre los tuits que publicó en contra de la premiación. "Para entender porque estoy perdido, José. ¿Si los Grammy no nos valoran, entonces por qué yo tengo 31 Grammys? Yo no soy urbano, yo no rapeo, ¿de qué género estamos hablando? Porque, por lo que vi ayer, nominaron a muchos colegas que le metieron cabrón", dijo René a través de un video en Instagram. 

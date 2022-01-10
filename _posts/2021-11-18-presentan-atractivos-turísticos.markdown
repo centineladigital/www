@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se presentó a 50 compradores nacionales y extranjeros las ventajas económicas y facilidades de comunicación internacional para invertir en esta entidad fronteriza con Estados Unidos."
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Presentan atractivos turísticos y culinarios de Chihuahua en Tianguis Turístico Mérida 2021"
 front: false
 section: "Local"
-news_id: 189967
+redirect_from: /news/189967
 ---
 
 En una comida de bienvenida, ofrecida por SIDE a través del Fideicomiso ¡Ah Chihuahua¡ la Dirección de Turismo y 30 expositores chihuahuenses  se degustaron los sabores propios de la cocina chihuahuense,  los atractivos turísticos de grandes ciudades como Juárez, Chihuahua y Cuauhtémoc, los pueblos mágicos, la majestuosa Sierra, entre otros.

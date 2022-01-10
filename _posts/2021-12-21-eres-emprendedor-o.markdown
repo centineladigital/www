@@ -9,12 +9,12 @@ tags:
 author: nil
 description: " El Gobierno Municipal te invita a la capacitación, donde aprenderás las nuevas políticas fiscales"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Eres emprendedor o iniciaste un negocio y le tienes miedo al SAT?"
 front: false
 section: "Local"
-news_id: 191082
+redirect_from: /news/191082
 ---
 
 Para el próximo año, el Sistema de Administración Tributaria (SAT), tendrá nuevas políticas fiscales y en beneficio de las y los emprendedores de la capital, el Gobierno Municipal, invita a participar en el taller de Reformas Fiscales 2022 llamado ‘’Sin Miedo al SAT’’.

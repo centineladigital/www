@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Andy Garcia, Gloria Estefan, Adria Arjona e Isabela Merced son parte del elenco del remake que será dirigido por Gaz Alazraki. "
 image: "/uploads/2021/images-diego-boneta-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Elenco de lujo! Diego Boneta se une al remake de 'El Padre de la Novia'"
 front: false
 section: "Espectáculos"
-news_id: 184395
+redirect_from: /news/184395
 ---
 
 Diego Boneta, quien da vida a Luis Miguel en la serie de Netflix, acompañará a Gloria Estefan e Isabela Merced en la versión latina de la comedia Father of the Bride (El padre de la novia) que están preparando Warner Bros. y el director mexicano Gaz Alazraki. El diario The Hollywood Reporter adelantó el fichaje de Boneta por este proyecto, el cual reunirá a varios famosos latinos de diferentes generaciones como Andy García y Adria Arjona, hija del cantante Ricardo Arjona. "¡Es un honor unirme a este equipo!", escribió Diego en su cuenta de Instagram. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se mantienen decesos en 7 mil 259 en la entidad, al no registrarse nuevos casos en el último reporte epidemiológico;  además todos los hospitales de la entidad se encuentran por debajo del 30% de su capacidad"
 image: "/uploads/2021/images-Diapositiva3.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suman 70 mil 024 los contagios confirmados de COVID-19"
 front: false
 section: "Local"
-news_id: 185165
+redirect_from: /news/185165
 ---
 
 La Secretaría de Salud dio a conocer que en el último reporte epidemiológico estatal COVID-19 se agregaron 16 contagios, con lo suman un total general de 70 mil 024; mientras que las defunciones se mantienen en 7 mil 259, al no confirmarse nuevos casos en la entidad.

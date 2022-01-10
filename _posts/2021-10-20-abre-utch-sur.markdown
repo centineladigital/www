@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se ofrecen las carreras de Nanotecnología, Mecatrónica, Logística y Gastronomía"
 image: "/uploads/2021/images-Fichas_enero_abril_2022_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abre UTCH Sur proceso de inscripciones para ingreso en enero"
 front: false
 section: "Local"
-news_id: 188966
+redirect_from: /news/188966
 ---
 
 La Universidad Tecnológica de Chihuahua Sur (UTCH Sur) abrió su período de entrega de fichas para el cuatrimestre enero-abril 2022, proceso que se puede realizar a través de la página oficial de la institución www.utchsur.edu.mx.

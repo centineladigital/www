@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Quizá hagamos algunas colaboraciones pero el catálogo de Coldplay, propiamente dicho, se acabará en ese momento, añadió el cantante en entrevista. "
 image: "/uploads/2021/images-chris-martin-encabeza-a-coldplay_0_4_750_467.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chris Martin anuncia cuándo será el último disco de Coldplay en su historia; ¿es el fin?"
 front: false
 section: "Espectáculos"
-news_id: 191153
+redirect_from: /news/191153
 ---
 
 Chris Martin, cantante y líder de la banda Coldplay, anunció el jueves en la BBC que su grupo dejará de producir nuevos temas tras un último disco previsto para 2025. "Nuestro último álbum real saldrá en 2025, y después de eso, creo que ya solo haremos giras". 

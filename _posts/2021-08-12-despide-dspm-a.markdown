@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Brindó seguridad a la comunidad chihuahuense por casi 7 años"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Despide DSPM a policía municipal Christopher Carmona Ontiveros"
 front: false
 section: "Local"
-news_id: 186615
+redirect_from: /news/186615
 ---
 
 Con una guardia de honor que se realizó en las instalaciones de la Comandancia Norte, fue despedido el policía municipal fallecido el pasado lunes en un accidente automovilístico ocurrido al sur de la ciudad, y quien había brindado seguridad a la comunidad chihuahuense por casi 7 años.

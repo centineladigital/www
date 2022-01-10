@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Además se tiene proyectada la adquisición de 4 bomberas nuevas para equipar las estaciones"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Planea Gobierno Municipal construcción de estación de bomberos en Romanzza"
 front: false
 section: "Local"
-news_id: 188798
+redirect_from: /news/188798
 ---
 
 El presidente Municipal de Chihuahua, Marco Bonilla Mendoza, anunció la planeación de la construcción de una estación de bomberos en la zona de Romanzza para reducir el tiempo de respuesta de los bomberos en caso de emergencia, así como la proyección para la compra de cuatro unidades nuevas de bomberos adecuadas a los terrenos donde se ubica cada una de las estaciones.

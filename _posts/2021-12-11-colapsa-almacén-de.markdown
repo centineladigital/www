@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Al momento se desconoce hasta el momento el número exacto de trabajadores que se encuentran dentro del almacén y si hubo lesiones graves o daños mayores. "
 image: "/uploads/2021/images-colapso-edificio-amazon-personas-atrapadas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Colapsa almacén de Amazon en Illinois, EU; reportan empleados heridos"
 front: false
 section: "Internacional"
-news_id: 190759
+redirect_from: /news/190759
 ---
 
 Los equipos de emergencia en el sur de Illinois respondieron a los informes de un incidente de un almacén de Amazon después de que el techo colapsara en medio de tormentas que se registran en el centro y norte de Estados Unidos. 

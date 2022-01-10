@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Es algo que desgraciadamente afecta todo: desde cuando se bloquean las cuentas, después que se desbloquean en México, pero para algunos bancos no soy cliente grato, agregó el cantante. "
 image: "/uploads/2021/images-julion-alvarez-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Veo llorar a mi señora -  Julión Álvarez revela que ha sido discriminado tras acusación de lavado de dinero"
 front: false
 section: "Espectáculos"
-news_id: 183271
+redirect_from: /news/183271
 ---
 
 Luego de que en 2017 el Departamento del Tesoro de Estados Unidos lo vinculó con el crimen organizado por presunto lavado de dinero, Julión Álvarez enfrenta un proceso legal que ha complicado el desarrollo de su carrera musical.  Aunque lo que más resiente el cantante nacido en el municipio de La Concordia, Chiapas, es cómo este señalamiento lo ha afectado a nivel social tanto a él como a su familia, pues han sido discriminados. Así lo reveló para Ventaneando. Te recomendamos: "Fue parte de mi infancia": Julión Álvarez expresa su deseo de apoyar a 'Cepillín' 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante italiana llegará a la pantalla chica de la mano de la plataforma de 'streaming' con un filme que inventa un nuevo género."
 image: "/uploads/2021/images-laura-pausini-protagonizara-pelicula-amazon_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Debuta como actriz! Laura Pausini protagonizará película en Amazon Prime"
 front: false
 section: "Espectáculos"
-news_id: 185823
+redirect_from: /news/185823
 ---
 
 Laura Pausini comenzó el rodaje de una película que es fruto de una idea de la propia cantante, ganadora del Globo de Oro a Mejor canción por Io Sì. La artista italiana de fama internacional unió fuerzas con la empresa Amazon Studios y este martes revelaron detalles del nuevo proyecto que ya preparan para la pantalla chica. 

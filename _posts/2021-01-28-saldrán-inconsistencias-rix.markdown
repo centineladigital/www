@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Rix decidió hablar sobre la denuncia que interpuso en su contra Nath Campos por haber abusado de ella. "
 image: "/uploads/2021/images-el-youtuber-hablo-sobre-la_44_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Saldrán inconsistencias” -  Rix habla sobre denuncia en su contra por abuso a Nath Campos"
 front: false
 section: "Espectáculos"
-news_id: 182532
+redirect_from: /news/182532
 ---
 
 Hace unos días Nath Campos reveló que había sido víctima de abuso sexual por parte de Rix, la youtuber también confirmó que había interpuesto una demanda en contra de su agresor, y aunque Rix había dado su versión de los hechos, fue hasta ahora que decidió hablar sobre la demanda. 

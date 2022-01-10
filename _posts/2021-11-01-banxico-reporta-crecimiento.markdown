@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Banxico informó que en septiembre las remesas sumaron 4 mil 403 mdd, un incremento de 23.3%, en comparación con el mismo mes de 2020. "
 image: "/uploads/2021/images-tipo-de-cambio-peso-dolar-83.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Banxico reporta crecimiento anual de 24.6% en envío de remesas a México en septiembre"
 front: false
 section: "Nacional"
-news_id: 189431
+redirect_from: /news/189431
 ---
 
 Al cierre de septiembre los ingresos acumulados en el año por remesas sumaron 37 mil 334 millones de dólares, cifra mayor a los 29 mil 965 millones de dólares reportada en el mismo lapso de 2020 y que implicó un alza anual de 24.6 por ciento. 

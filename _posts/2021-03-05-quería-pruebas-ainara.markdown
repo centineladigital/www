@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La joven que fue víctima de abuso sexual presuntamente por Carlos 'R', Julián 'G', Axel 'A' y Nicolás 'B', rompió el silencio sobre YosStop y lo que le pedía después de haberla revictimizado en su canal de YouTube. "
 image: "/uploads/2021/images-yosstop-tiene-anos-instagram_0_144_1080_672.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Quería pruebas -  Ainara rompe el silencio tras denuncia contra YosStop"
 front: false
 section: "Espectáculos"
-news_id: 183299
+redirect_from: /news/183299
 ---
 
 YosStop, youtuber mexicana, sigue envuelta en polémica tras ser acusada por almacenar pornografía infantil por el caso de Ainara, una joven que fue abusada sexualmente por parte de un grupo de jóvenes y después exhibida por la youtuber al retomar su caso en su canal, en donde se le criticó y acusó como responsable de lo ocurrido. Ante este contexto, la joven afectada rompió el silencio y habló un poco de este proceso. Aseguró que la influencer Yoseline “N” le pedía pruebas para demostrar que había sido abusada. A través de Twitter, Ainara –la joven que demandó a YosStop– rompió el silencio y reveló que la influencer le pedía probar que había sido víctima de abuso sexual, una razón más de que la joven fue revictimizada por la creadora de contenido. 

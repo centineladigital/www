@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente destacó que a diferencia de lo que sucedía en otras administraciones, él no decidirá sobre candidatos, ni pedirá que alguno de los abanderados deje sus aspiraciones"
 image: "/uploads/2021/images-2542133.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "‘Ya no trataré el tema Salgado Macedonio’ -  López Obrador"
 front: false
 section: "Nacional"
-news_id: 183357
+redirect_from: /news/183357
 ---
 
 El presidente Andrés Manuel López Obrador dijo que no volverá a hablar del Félix Salgado Macedonio, pues consideró que las acusaciones en su contra son un linchamiento mediático.

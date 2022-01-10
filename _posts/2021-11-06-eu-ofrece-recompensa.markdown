@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las autoridades estadounidenses tienen el punto de mira en El Guano, a quien acusan de estar al frente de operaciones de narcotráfico desde el norte de México hacia Arizona y Texas"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " EU ofrece recompensa de 5 mdd por “El Guano”, hermano del Chapo Guzmán"
 front: false
 section: "Internacional"
-news_id: 189619
+redirect_from: /news/189619
 ---
 
 Washington.- El Departamento de Estado de Estados Unidos anunció este viernes recompensas de hasta 5 millones de dólares por información que lleve al arresto o procesamiento de Aureliano Guzmán-Loera “El Guano”, hermano de Joaquín “El Chapo Guzmán”, y otros tres operadores del Cártel de Sinaloa en Chihuahua y Sinaloa.

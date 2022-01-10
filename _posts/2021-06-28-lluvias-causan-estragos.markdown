@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El fenómeno es generado debido al paso por territorio estatal, del frente frío número 60, que llegó fuera de temporada y en su interacción con un canal de baja presión, ha ocasionado lluvias fuertes"
 image: "/uploads/2021/images-Estragos_lluvia_guadalupe_y_calvo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lluvias causan estragos en el estado de Chihuahua"
 front: false
 section: "Local"
-news_id: 185273
+redirect_from: /news/185273
 ---
 
 Las lluvias registradas la tarde de este domingo en varios municipios de la entidad, ocasionaron crecida de ríos y arroyos, así como inundaciones en calles y avenidas de las principales zonas urbanas de la ciudad, situación que ha dejado solo daños materiales.

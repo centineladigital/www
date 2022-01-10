@@ -10,11 +10,11 @@ author: nil
 description: "Esto con el fin de frenar el número de accidentes navideños."
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-ML01_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Anuncian operativos por fiestas decembrinas"
 front: false
 section: "Local"
-news_id: 190551
+redirect_from: /news/190551
 ---
 
 Debido a un incremento de accidentes que se da de forma natural en el mes de diciembre, la Secretaría de Seguridad Pública instaura un operativo con le fin de detectar a guiadores que manejen en estado de ebriedad, así como quienes cuenten con aliento alcohólico.

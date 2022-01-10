@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que no procede dicha denuncia."
 image: "/uploads/2021/images-JORGE.jpg"
 video: "/uploads/2021/videos-MW02_JORGE_ESPINOZA.mp4"
-audio: "nil"
+audio: nil
 alt: "Sin notificación estado por denuncia de Duarte"
 front: false
 section: "Local"
-news_id: 187112
+redirect_from: /news/187112
 ---
 
 El Gobierno del Estado aún no recibe la notificación por parte de los juzgados en materia de la denuncia anunciada por la defensa del exgobernador César Duarte, en la cual se exige un pago de tres mil millones de pesos por daño moral.

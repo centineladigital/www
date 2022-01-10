@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dirige Gobernadora histórica primera reunión en el país con el Comité Contra la Desaparición Forzada de la Organización de las Naciones Unidas"
 image: "/uploads/2021/images-whatsapp_image_2021-11-22_at_3.39.37_pm.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chihuahua será pionero en trabajar estrategias para combatir la desaparición forzada; se coordina Gobierno del Estado con la ONU en el combate a este delito"
 front: false
 section: "Local"
-news_id: 190097
+redirect_from: /news/190097
 ---
 
 Con el fin de dar continuidad al compromiso del Gobierno del Estado de velar por la seguridad de todos los chihuahuenses, la gobernadora Maru Campos Galván encabezo esté lunes, la bienvenida de la primera visita a nuestro país del Comité Contra la Desaparición Forzada de la Organización de las Naciones Unidas (ONU) a modo de establecer lazos colaborativos entre el Gobierno del Estado y este comité para la erradicación y prevención de la desaparición forzada de personas.

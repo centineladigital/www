@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El gobierno federal puso en operación a Gas Bienestar, una nueva empresa productiva del Estado que depende de Pemex para garantizar precios justos. "
 image: "/uploads/2021/images-andres-manuel-lopez-obrador-conferencia-69.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO confía en que gobierno logre mantener bajo control precio del gas LP"
 front: false
 section: "Nacional"
-news_id: 188208
+redirect_from: /news/188208
 ---
 
 El presidente Andrés Manuel López Obrador prevé que los costos del gas LP en México se mantendrán bajo control gracias a la estrategia de los precios máximos que implementó esta administración de gobierno aunado con la operación de la empresa Gas Bienestar.  

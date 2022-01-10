@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente recibió a los funcionarios en Palacio Nacional, previo al diálogo de seguridad de alto nivel, donde aseguró que está dispuesto a cooperar en desarrollo. "
 image: "/uploads/2021/images-amlo-reunio-funcionarios-eu-palacio_0_13_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO se reúne con funcionarios de EU; se logrará nueva etapa de relaciones bilaterales, dice"
 front: false
 section: "Nacional"
-news_id: 188503
+redirect_from: /news/188503
 ---
 
 El presidente Andrés Manuel López Obrador se reunió con funcionarios de Estados Unidos en Palacio Nacional, donde tuvieron un desayuno previo al diálogo de seguridad de alto nivel, en el que aseguró que confía en que se logrará tener una nueva etapa de relaciones bilaterales. 

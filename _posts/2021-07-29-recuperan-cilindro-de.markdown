@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Mediante un operativo Protección Civil y FGE aseguraron el contenedor que fue sustraído el martes 27, del pozo Punta Oriente de JMAS; se localiza gracias a una denuncia ciudadana   "
 image: "/uploads/2021/images-CILINDRO_GAS_CLORO_RECUPERADO_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recuperan cilindro de gas cloro de JMAS robado en Chihuahua"
 front: false
 section: "Local"
-news_id: 186097
+redirect_from: /news/186097
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que elementos de la Fiscalía General del Estado (FGE) de Chihuahua localizaron el cilindro de gas cloro, que fue reportado como robado de un pozo de la Junta Municipal de Agua y Saneamiento (JMAS) en la colonia Punta Oriente, este martes 27 de julio.

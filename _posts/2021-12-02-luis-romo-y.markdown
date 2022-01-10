@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El mediocampista mexicano dejó inquieta a la afición de La Máquina tras este posteo"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Luis Romo y su curioso tuit, ¿se va de Cruz Azul?"
 front: false
 section: "Deportes"
-news_id: 190421
+redirect_from: /news/190421
 ---
 
 Luis Romo, jugador del Cruz Azul, colgó un tuit la noche de este miércoles en donde se presta a especular sobre su posible salida del conjunto Celeste. 

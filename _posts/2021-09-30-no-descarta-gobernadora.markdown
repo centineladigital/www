@@ -10,11 +10,11 @@ author: nil
 description: "Dice no sentirse sorprendida ya que ha sido blanco de diversos ataques."
 image: "/uploads/2021/images-MARU1.jpg"
 video: "/uploads/2021/videos-MJ01_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "No descarta Gobernadora ataque político en cuenta hakeada"
 front: false
 section: "Local"
-news_id: 188236
+redirect_from: /news/188236
 ---
 
 “He tenido muchos ataques políticos, no me sorprende uno más”, fueron las palabras de la Gobernadora María Eugenia Campos Galván, al ser cuestionada respecto al hackero que sufrió su número telefónico. Esto ya que a la misma cabeza de la administración estatal señaló que no le sorprendería que hecho haya sido un ataque político.

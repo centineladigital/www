@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El canciller resaltó la importancia de la cumbre de la Celac en donde el gobierno encabezado por el presidente López Obrador se manifestó en contra del embargo estadounidense "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ebrard llama a levantar embargo a Cuba en Asamblea de la ONU"
 front: false
 section: "Internacional"
-news_id: 188013
+redirect_from: /news/188013
 ---
 
 En la máxima tribuna de la Organización de las Naciones Unidas (ONU), el secretario de Relaciones Exteriores de México, Marcelo Ebrard, pidió acabar con el embargo económico que Estados Unidos mantiene sobre Cuba. 

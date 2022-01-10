@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Itatí Cantoral y Yulianna Peniche protagonizaron una escena de María la del barrio que muchos recuerdan y ahora es Peniche quien recordó un incidente entre ambas."
 image: "/uploads/2021/images-yulianna-peniche-itati-cantoral-realizaron_38_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Maldita lisiada! Yulianna Peniche recuerda cuando Itatí Cantoral le abrió el labio en 'María la del barrio'"
 front: false
 section: "Espectáculos"
-news_id: 189964
+redirect_from: /news/189964
 ---
 
 En los años 90, Televisa realizó varias telenovelas en las que Thalía fue la protagonista, una de ellas fue María la del barrio, la cual contó con la participación de Itatí Cantoral quien interpretó a Soraya Montenegro. Este personaje es uno de los más destacados en la televisión, además que muchos recordamos la escena en donde Soraya agrede a Alicia Montalba. En esta escena Soraya Montenegro se “lanza” contra Alicia a quien llama: “Maldita lisiada”, sin duda, este momento es uno de los más recordados en la televisión mexicana y a varios años del éxito de la telenovela, Yuliana Peniche recordó cómo fue trabajar con Itatí Cantoral y que incluso le abrió el labio mientras grababan una escena.

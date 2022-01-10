@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Agradece aportación de las OSC: “Hay mucha iniciativa y vocación en la participación ciudadana, el Gobierno del Estado tiene la obligación de buscarlo, invitarlo y reforzarlo”"
 image: "/uploads/2021/images-COSECHAS_DE_AGUA_SIERRA_TARAHUMARA_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cosechas de agua y sistemas colectivos dotaron del servicio por primera vez a 8 mil familias en la Sierra Tarahumara"
 front: false
 section: "Local"
-news_id: 183611
+redirect_from: /news/183611
 ---
 
 De la mano de las Organizaciones de la Sociedad Civil (OSC) la Junta Central de Agua y Saneamiento (JCAS) ha llevado el servicio a más de 8 mil familias de pueblos originarios asentados en la Sierra Tarahumara, mediante cosechas de agua y sistemas colectivos, informó el presidente del Consejo de Administración, Ismael Rodríguez Gallegos.  

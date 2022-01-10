@@ -9,12 +9,12 @@ tags:
 author: nil
 description: " El aspirante a la gubernatura por Movimiento Ciudadano, acude a las urnas, arribó a la casilla 1306 en el municipio de Hidalgo del Parral  "
 image: "/uploads/2021/images-El_Caballo.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acude a votar Alfredo El Caballo Lozoya en Parral"
 front: false
 section: "Local"
-news_id: 184867
+redirect_from: /news/184867
 ---
 
 Acude Alfredo “El Caballo” Lozoya a votar en la casilla contigua 1306, ubicada en la colonia Fovissste las Fuentes Segunda Etapa. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un video en el que Xavier López regaña y golpea a Derbez en pleno programa en vivo se ha vuelto viral en redes sociales. "
 image: "/uploads/2021/images-derbez-participo-programa-chabelo-juventud_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Que se te entienda, chamaco! -  Video de 'Chabelo' golpeando a Eugenio Derbez cuando era su edecán se hace viral"
 front: false
 section: "Espectáculos"
-news_id: 187323
+redirect_from: /news/187323
 ---
 
 Eugenio Derbez vuelve a estar en el centro de la polémica, luego de que se hiciera viral un video de su juventud, en el que aparece siendo regañado y golpeado en la cara totalmente en vivo por el mismísimo Xavier López, Chabelo, cuando era edecán de su programa En familia con Chabelo. 

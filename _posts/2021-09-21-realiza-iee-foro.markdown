@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Presentaciones de obras artísticas, audiovisuales, de texto, así como una mesa panel enmarcan el evento que contó con la presencia de personalidades destacadas del mundo político-electoral local y nacional"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-21_at_13.34.42.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza IEE foro “El Trabajo de los Órganos Electorales”"
 front: false
 section: "Local"
-news_id: 187922
+redirect_from: /news/187922
 ---
 
 Chihuahua, Chih. - A manera de evaluación de lo realizado en el Proceso Electoral Local 2020-2021 y con miras a mejorar los procedimientos a futuro, el Instituto Estatal Electoral de Chihuahua (IEE) realizó el foro “El Trabajo de los Órganos Electorales”, en donde se dieron cita personalidades destacadas del mundo político-electoral local y nacional.

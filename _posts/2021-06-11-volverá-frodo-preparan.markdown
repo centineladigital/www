@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La trama del filme tendrá una conexión directa con la segunda entrega, 'Las Dos Torres' (2002), ya que contará la historia de la fortaleza Helm's Deep.   "
 image: "/uploads/2021/images-philippa-boyens-guionista-trilogia-volvera.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Volverá 'Frodo'? Preparan nueva película de 'El Señor de los Anillos' en formato anime"
 front: false
 section: "Espectáculos"
-news_id: 184985
+redirect_from: /news/184985
 ---
 
 Además de la serie que prepara Amazon, el universo de El Señor de los Anillos se extenderá con una película de animación que servirá como secuela de la trilogía original y se titulará The War of the Rohirrim, anunció este jueves el estudio Warner Bros. La trama del filme, que tendrá formato de anime, arrancará varios cientos de años antes de las historias de J.R.R. Tolkien y tendrá una conexión directa con la segunda entrega, Las Dos Torres (2002), ya que contará la historia de la fortaleza Helm's Deep, donde se libraba la batalla principal de la película. 

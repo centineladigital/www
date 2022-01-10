@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La aproximación del frente frío número 35 causará vientos hasta por encima de 65 km/h en municipios del occidente de la entidad, informa la dependencia"
 image: "/uploads/2021/images-3EE9DE51-F35D-43F8-9A6C-98D1E82014C1.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Protección Civil Estatal sobre marcado descenso de temperatura este jueves 11"
 front: false
 section: "Local"
-news_id: 182829
+redirect_from: /news/182829
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) alertó sobre la entrada de un nuevo frente frío a Chihuahua este jueves 11 de febrero, y con ello un marcado descenso de las temperaturas.

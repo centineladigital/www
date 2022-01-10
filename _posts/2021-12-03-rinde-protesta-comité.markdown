@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La constitución de este órgano fortalece los vínculos entre los diferentes sectores de la región, y asegura una educación pertinente al desarrollo y necesidades del estado"
 image: "/uploads/2021/images-DG2.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rinde protesta Comité Consultivo Regional de Asesoramiento Técnico Empresarial de DGETI"
 front: false
 section: "Local"
-news_id: 190477
+redirect_from: /news/190477
 ---
 
 La Dirección General de Educación Tecnológica Industrial (DGETI) en Chihuahua, llevó a cabo la elección de la mesa directiva del Comité Consultivo Regional de Asesoramiento Técnico Empresarial 2021-2024, órgano que busca fortalecer la vinculación con los sectores privado, público, educativo y social.

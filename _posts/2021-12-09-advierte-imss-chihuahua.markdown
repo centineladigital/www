@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En caso de una intoxicación, el Seguro Social recomienda a sus derechohabientes a que acudan a su Unidad de Medicina Familiar (UMF) a recibir la atención médica correspondiente."
 image: "/uploads/2021/images-Foto_5961-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte IMSS Chihuahua sobre riesgo de intoxicación por monóxido de carbono "
 front: false
 section: "Local"
-news_id: 190669
+redirect_from: /news/190669
 ---
 
 Ante el descenso de la temperatura que se está registrado en la entidad, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua recomienda a la población tener cuidado con el monóxido de carbono, que es un gas incoloro que puede ocasionar la muerte. 

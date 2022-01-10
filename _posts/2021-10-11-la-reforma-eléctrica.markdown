@@ -22,11 +22,11 @@ author: nil
 description: "Con el precio aumentado de la energía eléctrica se verá en la necesidad de aumentar los costos de los servicios"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-11_at_13.58.24.jpeg"
 video: "/uploads/2021/videos-BL06_LAURA_CONTRERAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "La reforma eléctrica sería un retroceso -  Laura Contreras "
 front: false
 section: "Local"
-news_id: 188613
+redirect_from: /news/188613
 ---
 
 La diputada federal Laura Contreras manifestó que la  reforma energética seria a un retroceso y afectación para las familias ya que las grandes empresas al ser afectados con el precio aumentado de la energía eléctrica se verá en la necesidad de aumentar los costos de los servicios.

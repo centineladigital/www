@@ -10,11 +10,11 @@ author: nil
 description: "Inician clases colegios de bachilleres, esto de forma presencial y virtual."
 image: "/uploads/2021/images-LIMON.jpg"
 video: "/uploads/2021/videos-ML05_EDUARDO_LIMÓN.mp4"
-audio: "nil"
+audio: nil
 alt: "Arranca de forma hibrida ciclo escolar de educación media superior"
 front: false
 section: "Local"
-news_id: 187476
+redirect_from: /news/187476
 ---
 
 De forma hibrida y en grupos pequeños este lunes dio inicio el ciclo escolar de educación media superior con lo que los jóvenes tendrán clases a distancia y presenciales, siendo estas últimas las que se darán de forma paulatina dos veces por semana.

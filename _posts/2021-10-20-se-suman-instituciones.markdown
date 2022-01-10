@@ -11,12 +11,12 @@ tags:
 author: nil
 description: ""
 image: "/uploads/2021/images-UTT1.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se suman instituciones educativas a campaña  de prevención del cáncer de mama   "
 front: false
 section: "Local"
-news_id: 188976
+redirect_from: /news/188976
 ---
 
 En el marco del Día Internacional de la Lucha contra el Cáncer de Mama, instituciones educativas del estado realizaron diversas actividades con el propósito de promover la sensibilización y la prevención de esta enfermedad.

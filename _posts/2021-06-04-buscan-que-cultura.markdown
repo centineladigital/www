@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con esta iniciativa se pretende reformar diversas disposiciones."
 image: "/uploads/2021/images-BLANCA1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV05.mp3"
 alt: "Buscan que cultura sea derecho constitucional"
 front: false
 section: "Local"
-news_id: 184845
+redirect_from: /news/184845
 ---
 
 La cultura debe de ser un derecho constitucional, es por ello que la diputada Blanca Gámez solicitó este viernes reformar rango constitucional de derecho a cultura. Esto a través de un decreto en el que busca generar diversas acciones con el fin de que los diversos ciudadanos puedan tener acceso a esto que llamó un derecho humano.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las clavadistas mexicanas se quedaron con el tercer lugar en la prueba de sincronizados plataforma de 10 metros; donde China se llevó el oro"
 image: "/uploads/2021/images-alejandra-orozco-y-gabriela-agundez.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gabriela Agúndez y Alejandra Orozco ganan medalla de bronce en plataforma de 10m"
 front: false
 section: "Deportes"
-news_id: 186009
+redirect_from: /news/186009
 ---
 
 Las mexicanas Gabriela Agúndez y Alejandra Orozco conquistaron la medalla de bronce en los clavados sincronizados de plataforma de 10 metros en los Juegos Olímpicos de Tokio 2020. 

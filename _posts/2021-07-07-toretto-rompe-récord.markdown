@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La película protagonizada por Vin Disel, Rápidos y Furiosos 9 se ha convertido en la película más taquillera tras la reapertura de los cines recaudando 500 mdd."
 image: "/uploads/2021/images-estreno-nivel-mundial-pelicula-recaudado.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Toretto rompe récord! 'Rápidos y Furiosos 9', la película más taquillera en el mundo desde 2019"
 front: false
 section: "Espectáculos"
-news_id: 185414
+redirect_from: /news/185414
 ---
 
 Debido a la pandemia los cines tuvieron que cerrar por varios meses lo que provocó que el estreno de varias películas se tuviera que retrasar y ahora que poco a poco se ha regresado a estos lugares, la novena entrega de la saga Rápidos y Furiosos abreviada como "F9", se ha convertido en la película más taquillera desde que comenzó la pandemia del coronavirus en 2019, tras alcanzar los 500 millones de dólares de recaudación en todo el mundo. 

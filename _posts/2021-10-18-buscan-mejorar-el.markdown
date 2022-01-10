@@ -10,11 +10,11 @@ author: nil
 description: "Visita Nelson Vargas las albercas de la capital con el objetivo de brindar asesoría y capacitación"
 image: "/uploads/2021/images-unnamed_(17).jpg"
 video: "/uploads/2021/videos-albercas_nelson_vargas.mp4"
-audio: "nil"
+audio: nil
 alt: "Buscan mejorar el rendimiento técnico y deportivo en la ciudad   "
 front: false
 section: "Local"
-news_id: 188855
+redirect_from: /news/188855
 ---
 
 Con el objetivo de realizar un diagnóstico y realizar propuestas sobre la operación y mejor manejo de las albercas públicas, el Gobierno Municipal de Chihuahua a través del Instituto Municipal de Cultura Física y Deporte, Nelson Vargas el ex presidente de la Comisión Nacional del Deporte y ex presidente de la Federación Mexicana de Natación estuvo de visita en la ciudad de Chihuahua. 

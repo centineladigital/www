@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En la Unidad de Quemados de la UMAE “Dr. Victorio de la Fuente Narváez” le permitieron conservarla y continuar con sus actividades normales"
 image: "/uploads/2021/images-Foto_340-3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cirujanos plásticos del IMSS salvan la pierna de un hombre con quemaduras de tercer grado"
 front: false
 section: "Local"
-news_id: 186282
+redirect_from: /news/186282
 ---
 
 Un equipo de especialistas en cirugía plástica y reconstructiva de la Unidad de Quemados del Instituto Mexicano del Seguro Social (IMSS) en Magdalena de las Salinas, evitó la amputación de la pierna de un paciente que sufrió quemadura en tercer grado y que por su condición de diabetes se vulneró aún más su estado de salud.

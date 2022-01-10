@@ -10,11 +10,11 @@ author: nil
 description: "Esto tras la renuncia de la titular de Comunicación Social en la UACH."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MJ02_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Respetaremos cambios en la UACH -  Jáuregui"
 front: false
 section: "Local"
-news_id: 189317
+redirect_from: /news/189317
 ---
 
 El ser respetuosos de los cambios que se registran en la Universidad Autónoma de Chihuahua es lo que expresó el Secretario General de Gobierno, César Gustavo Jáuregui Moreno, al ser cuestionado respecto a la renuncia de diversos funcionarios de la máxima casa de estudios, así como el si se debería de tener un cambio de Rector en la institución, situación que dijo deben decidir el destino de la misma.

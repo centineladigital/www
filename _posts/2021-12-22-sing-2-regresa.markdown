@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las hermanas Ha*Ash, Benny Ibarra, Vadhir Derbez y Roger González dan voz a los animales cantantes de la cinta que llega hoy a los cines. "
 image: "/uploads/2021/images-personajes-regresan-energia-cantar-bailar.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Sing 2', regresa el poder de la música y la pasión"
 front: false
 section: "Espectáculos"
-news_id: 191112
+redirect_from: /news/191112
 ---
 
 La música ha sido una gran aliada para los seres humanos, sobre todo si se trata de momentos de incertidumbre como la pandemia que ha azotado al mundo de diversas maneras; las melodías fueron un gran acompañamiento para los seres humanos en sus diversas facetas y estados de ánimo. En ese contexto y ante el éxito que tuvo la cinta animada Sing, que conmovió a los espectadores, llega Sing 2 a las pantallas para tocar los corazones de las familias, a quienes hará cantar, bailar y hasta enloquecer con cada uno de los personajes que aparecen en la cinta como Ash, Johhny, Buster Moon, Meena, Rosita, Gunter y Jimmy Crystal, entre muchos más.

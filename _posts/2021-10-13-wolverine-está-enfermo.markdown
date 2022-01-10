@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue hace unos años que el actor Hugh Jackman declaró en redes sociales que padece cáncer de piel. "
 image: "/uploads/2021/images-hugh-jackman-y-su-enfermedad.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡'Wolverine' está enfermo! Hugh Jackman y su lucha contra el cáncer de piel"
 front: false
 section: "Espectáculos"
-news_id: 188677
+redirect_from: /news/188677
 ---
 
 El australiano Hugh Jackman ha comentado que padece de cáncer de piel - Australia es, además, el país con mayor índice de cáncer cutáneo -, que lo ha descubierto recientemente y que desde entonces lamenta no haber utilizado mayor cantidad de protección solar ni haberse hecho las revisiones de piel necesarias. Una lesión en la nariz que no cicatrizaba fue la señal de alerta para que Hugh Jackman acudiera con el médico y fuera diagnosticado con cáncer de piel en noviembre de 2013. Desde ese momento, el actor australiano lo ha superado en cinco ocasiones.

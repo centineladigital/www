@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Estado Islámico no se ha responsabilizado de ataque, pero sigue operando en el norte de Irak"
 image: "/uploads/2021/images-unidos-ocupado-territorio-irak-archivo_0_35_1200_745.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Irak, mueren 13 policías en posible ataque del Estado Islámico"
 front: false
 section: "Internacional"
-news_id: 187445
+redirect_from: /news/187445
 ---
 
 Trece policías murieron en un ataque de hombres armados contra un control de la policía federal en una zona rural del norte de Irak, dijo el domingo un funcionario de seguridad. Culpó del ataque a milicianos del grupo extremista Estado Islámico. 

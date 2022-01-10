@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se prevén rachas de más de 70 y 80 km/h en algunas partes de la entidad ellunes y martes; en zonas del municipio de Guadalupe y Calvo se esperan mínimas de 2° y 4° C"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Protección Civil Estatal aviso preventivo por fuertes ráfagas de viento y entrada de frente frío"
 front: false
 section: "Local"
-news_id: 188544
+redirect_from: /news/188544
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) emitió un aviso preventivo a la ciudadanía, en virtud de que para el domingo 11 de octubre se esperan vientos en la entidad impulsados por la aproximación del Frente Frío Número 3.

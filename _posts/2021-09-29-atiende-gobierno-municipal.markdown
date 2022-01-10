@@ -9,12 +9,12 @@ tags:
 author: nil
 description: " Trabaja con 10 cuadrillas diarias"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atiende Gobierno Municipal en promedio 500 baches por día  "
 front: false
 section: "Local"
-news_id: 188190
+redirect_from: /news/188190
 ---
 
 El Gobierno Municipal a través de la Dirección de Obras Públicas, reforzaron los trabajos de bacheo y asignó a 10 cuadrillas, que laboran diariamente para atender los reportes de la ciudadanía que realizan a través de la línea telefónica 072 o la aplicación Marca el Cambio.

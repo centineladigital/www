@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Jugó dos copas del mundo y fue en la que se celebró en territorio nacional"
 image: "/uploads/2021/images-2514498.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Muere el ‘Halcón’ Peña, capitán del Tri en México 1970"
 front: false
 section: "Deportes"
-news_id: 182257
+redirect_from: /news/182257
 ---
 
 Gustavo ‘Halcón’ Peña, quien portó el gafete de capitán con la selección mexicana en la Copa del Mundo de 1970, falleció a los 78 años a causa del coronavirus y del alzheimer que padecía.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Un juez le otorgó el arraigo domiciliario a la lideresa de comerciantes ambulantes del Centro Histórico de la CdMx, tras una audiencia. "
 image: "/uploads/2021/images-diana-sanchez-barrios-en-el_0_48_536_334.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Diana Sánchez Barrios sale de la cárcel; se mantendrá en prisión domiciliaria"
 front: false
 section: "Nacional"
-news_id: 190820
+redirect_from: /news/190820
 ---
 
 Diana Sánchez Barrios, lideresa de comerciantes en el Centro Histórico de la Ciudad de México, salió del penal de Santa Martha Acatitla, donde permanecía desde marzo tras ser detenida y vinculada a proceso por su probable participación en los delitos de extorsión y robo en pandilla, ambos agravados.  

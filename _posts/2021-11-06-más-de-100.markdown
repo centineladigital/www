@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Desde septiembre a la fecha, el Gobierno Municipal retira basura de gran tamaño de los hogares"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Más de 100 colonias beneficiadas con programa Destilichadero"
 front: false
 section: "Local"
-news_id: 189620
+redirect_from: /news/189620
 ---
 
 En el marco de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, ha beneficiado a un total de 105 colonias con el programa de Destilichadero, desde que inició la presente administración en el mes de septiembre.

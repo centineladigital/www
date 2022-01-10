@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se contó con unidades móviles de mastografía, así como módulos de orientación"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brinda Gobierno del Estado atención para detección de cáncer de mama con Feria de Salud"
 front: false
 section: "Local"
-news_id: 188962
+redirect_from: /news/188962
 ---
 
 En el marco del Día Internacional de Lucha contra el Cáncer de mama, el Gobierno del Estado, a través de la Secretaría de Salud, llevó a cabo la Feria de Salud en la plaza del Ángel donde se instalaron tres unidades móviles de mastografía y de cáncer de cuello uterino, además de varios módulos para hacer detecciones de otros padecimientos.

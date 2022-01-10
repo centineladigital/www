@@ -18,11 +18,11 @@ author: nil
 description: "Hotel Sheraton, el donativo será de $950"
 image: "/uploads/2021/images-big_C5bp9rde.jpg"
 video: "/uploads/2021/videos-BV02_ROSA_LOBO_.mp4"
-audio: "nil"
+audio: nil
 alt: "FUCKUPS N´ WINE próximo 21 de octubre de 2021"
 front: false
 section: "Local"
-news_id: 188793
+redirect_from: /news/188793
 ---
 
 Alianza Empresarial Centauros Del Norte y Red Emprende Chihuahua invitan al evento noche de Fuckups N´ Wine, el cual tendrá la participación de 4 empresarios chihuahuenses que compartirán una historia de fracaso, donde los asistentes podrán aprender e inspirarse a través de sus expectativas y reflexiones.

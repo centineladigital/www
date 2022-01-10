@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ante todo responsabilidad con el dinero de las y los chihuahuenses: Geo Bujanda"
 image: "/uploads/2021/images-WhatsApp_Image_2021-08-30_at_11.21.21.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-08-30_at_11.21.42.mp4"
 alt: "Bajan dictamen de escoltas a ex funcionarios"
 front: false
 section: "Local"
-news_id: 187256
+redirect_from: /news/187256
 ---
 
 La diputada por el distrito 12 Geo Bujanda, señaló que el dictamen por el que se brinda protección y seguridad a funcionarios y ex funcionarios se bajó del orden del día de este periodo extraordinario debido a que se dio a conocer la grave situación económica por la que el estado atraviesa actualmente. 

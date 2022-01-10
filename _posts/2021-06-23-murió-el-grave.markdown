@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Eric 'El Grave' fue uno de los pioneros del rap mexicano, además de ser originario de Aguascalientes, fundador del colectivo Never Die y cofundador de la liga de batallas SPIT MX."
 image: "/uploads/2021/images-comunidad-rap-nacional-pronuncio-muerte.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió 'El Grave', reconocido rapero mexicano; tenía cáncer"
 front: false
 section: "Espectáculos"
-news_id: 185194
+redirect_from: /news/185194
 ---
 
 La comunidad del rap nacional está de luto, pues uno de sus exponentes más destacados, Eric El Grave, también conocido como Gravedad en el circuito de las batallas freestyle, murió víctima de cáncer, así lo dieron a conocer sus colegas y amigos. "Con un inmenso dolor les comunicamos sobre el lamentable fallecimiento de nuestro hermano y amigo Eric, mejor conocido como Gravedad. El Grave fue uno de los pioneros del rap mexicano: originario de Aguascalientes, fundador del colectivo Never Die, cofundador de la liga de batallas SPIT MX y colaborador en proyectos como Vox Populi y Svnto Pecvdo", dio a conocer su crew a través de redes sociales. 

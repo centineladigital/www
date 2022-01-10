@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Chihuahua fue el estado que más recursos destinó para hacer frente a COVID-19 y la crisis económica que generó la pandemia, destaca el gobernador Javier Corral"
 image: "/uploads/2021/images-Entrega_de_platillos_Plan_Emergente_7.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Apoyos del Plan Emergente llegaron a más de 690 mil personas"
 front: false
 section: "Local"
-news_id: 182475
+redirect_from: /news/182475
 ---
 
 Con una inversión de 3 mil 465 millones de pesos, el Gobierno del Estado de Chihuahua fue el que más recursos propios destinó para aminorar el impacto económico y de salud, ocasionado por la pandemia de COVID-19.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se destacó la rehabilitación permanente de los colectores del drenaje sanitario, por lo que se analizarán diversas propuestas para dar solución a esta, y otras necesidades"
 image: "/uploads/2021/images-WhatsApp_Image_2021-08-19_at_10.53.26.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Visita equipo de transición plantas tratadoras de aguas residuales en Delicias"
 front: false
 section: "Local"
-news_id: 186887
+redirect_from: /news/186887
 ---
 
 Roberto Lara Rocha, dio a conocer que el pasado miércoles el equipo de transición integrante de la mesa relacionada con los temas de agua, acudió a la ciudad de Delicias para sostener una reunión en el lugar así como para visitar dos obras realizadas por el Gobierno del Estado.

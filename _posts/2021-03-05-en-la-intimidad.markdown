@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Diana Golden sorprendió al revelar el romance que mantuvo con Julio Iglesias. La actriz aseguró que el cantante es un gran amante. "
 image: "/uploads/2021/images-diana-golden-conto-detalles-fugaz.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En la intimidad muy bueno -  Diana Golden recuerda su romance con Julio Iglesias"
 front: false
 section: "Espectáculos"
-news_id: 183303
+redirect_from: /news/183303
 ---
 
 Diana Golden estuvo casada con Alfredo Adame, de acuerdo con la actriz, durante su matrimonio vivió agresión por parte del conductor, sin embargo, recientemente reveló que tras su divorcio, mantuvo un romance con el español Julio Iglesias, a quien conoció cuando era una niña y con los años volvió a encontrarse con él. En una entrevista con varios medios, la cual fue retomada por Sale el Sol, Diana Golden recordó cuando mantuvo un romance con Julio Iglesias. La actriz aseguró que el cantante es un gran amante y la ayudó a olvidar el tormentoso matrimonio con Alfredo Adame, a quien catalogó como una persona amargada. 

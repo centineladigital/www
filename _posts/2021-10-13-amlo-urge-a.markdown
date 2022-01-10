@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El mandatario anunció que pedirá que se terminen de dar los certificados a las farmacéuticas que han entregado vacunas eficaces. "
 image: "/uploads/2021/images-presidente-lamento-lados-burocracias-vacunas_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO urge a OMS certificar vacunas CanSino y Sputnik V; “han salvado vidas”, dice"
 front: false
 section: "Nacional"
-news_id: 188673
+redirect_from: /news/188673
 ---
 
 El presidente Andrés Manuel López Obrador urgió a la Organización Mundial de la Salud (OMS) a que certifique a las vacunas contra el covid-19 de CanSino y Sputnik V que no han conseguido el aval de dicha autoridad, pues dijo que ya se demostró que no han causado daños y que, por el contrario, han salvado vidas. 

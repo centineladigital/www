@@ -10,11 +10,11 @@ author: nil
 description: "Beneficiando a 20 comunidades de la zona. "
 image: "/uploads/2021/images-carlo.jpg"
 video: "/uploads/2021/videos-MV01_CARLOS_AGUILAR.mp4"
-audio: "nil"
+audio: nil
 alt: "Se beneficiarán comunidad de Guadalupe y Calvo con cuatro caminos"
 front: false
 section: "Local"
-news_id: 191203
+redirect_from: /news/191203
 ---
 
 Con el fin de mejorar la calidad de vida de las comunidades serranas se ha proyectado la construcción de cuatro caminos en la zona de Guadalupe y Calvo, según lo dio a conocer el titular de Secretaría de Comunicaciones y Obras Públicas, Carlos Aguilar García.

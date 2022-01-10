@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se solidarizaron con la donación de ropa para hombre para los sectores vulnerables del municipio"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Colegio de Notarios apoyo humanitario al Gobierno Municipal"
 front: false
 section: "Local"
-news_id: 188280
+redirect_from: /news/188280
 ---
 
 El Gobierno Municipal a través del Instituto Municipal de las Mujeres (IMM) recibió una donación de ropa para hombre por parte del Colegio de Notarios del Distrito Morelos, con el fin de que se entregue a quien lo necesite.

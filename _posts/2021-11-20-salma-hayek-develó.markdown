@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este 19 de noviembre Salma Hayek develó su estrella en el Paseo de la Fama de Hollywood acompaña de su familia y de Adam Sandler así como de Chloé Zhao."
 image: "/uploads/2021/images-salma-hayek-acompanada-esposo-hija.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Salma Hayek develó su estrella en el Paseo de la Fama de Hollywood; recordó lo difícil que fue llegar a EU"
 front: false
 section: "Espectáculos"
-news_id: 190039
+redirect_from: /news/190039
 ---
 
 Salma Hayek develó este viernes su estrella en el Paseo de la Fama de Hollywood en Los Ángeles. La actriz, quien participó en Eternals, dedicó este honor a los fans que, a lo largo de las décadas, le dieron "valor" para seguir sus sueños y triunfar en el cine estadunidense. La mexicana, una de las figuras latinas más importantes de Hollywood, estuvo acompañada en el evento por el actor Adam Sandler, con quien trabajó en las comedias Grown Ups (2010) y Grown Ups 2 (2013); la cineasta Chloé Zhao, con la que colaboró en la reciente cinta de Marvel Eternals (2021); y el alcalde de Los Ángeles, Eric Garcetti, que es un amigo cercano de la actriz.

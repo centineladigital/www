@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se reporta un deceso por un choque alcance en el km 60 y una colisión entre dos tráileres; en Julimes se desploman árboles y se desprende un techo de lámina"
 image: "/uploads/2021/images-ACCIDENTES_POR_TOLVANERAS_LUNES_22_MARZO_(3).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cierran tramo de carretera Jiménez-Parral por tolvaneras"
 front: false
 section: "Local"
-news_id: 183507
+redirect_from: /news/183507
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que actualmente está cerrado el tramo del kilómetro 52 al 56 de la carretera Jiménez-Parral, debido a un choque entre dos tráileres causado por las tolvaneras.

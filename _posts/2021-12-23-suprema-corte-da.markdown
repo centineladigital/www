@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Comisión de Receso de la Corte argumentó que el acuerdo del INE pone en riesgo el derecho de la ciudadanía a decidir si revoca o no el mandado del presidente"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suprema Corte da revés al INE; le ordena no posponer revocación de mandato de AMLO"
 front: false
 section: "Nacional"
-news_id: 191143
+redirect_from: /news/191143
 ---
 
 La Suprema Corte de Justicia de la Nación (SCJN) frenó el acuerdo del Instituto Nacional Electoral (INE) por el que aplazó la realización de la consulta popular sobre la revocación de mandato.

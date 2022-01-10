@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras la cancelación de su gira por México ante la pandemia de covid-19, Hombres G regresa con nuevos proyectos bajo la manga."
 image: "/uploads/2021/images-hombres-g.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Van con todo! Hombres G anuncian nuevo disco, libro, película... y hasta serie"
 front: false
 section: "Espectáculos"
-news_id: 185073
+redirect_from: /news/185073
 ---
 
 Hombres G está de regreso y lo hace sin reparos. La banda española adelantó el nombre de su nuevo disco y aunque no dieron muchos detalles sobre las canciones, sí comentaron que este nuevo álbum será muy ‘Hombres G’, o sea que tendrá mucha personalidad del grupo.  

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Unos 25 millones de usuarios se han inscrito en la plataforma de mensajería Telegram en las últimas 72 horas, afirmó su fundador, el ruso Pável Dúrov"
 image: "/uploads/2021/images-2510511.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Telegram rompe su récord de descargas tras nuevas reglas de WhatsApp"
 front: false
 section: "Nacional"
-news_id: 182077
+redirect_from: /news/182077
 ---
 
 Unos 25 millones de usuarios se han inscrito en la plataforma de mensajería Telegram en las últimas 72 horas, afirmó su fundador, el ruso Pável Dúrov.

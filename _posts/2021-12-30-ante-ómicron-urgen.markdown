@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Expertos llaman a la población a mantener uso de cubrebocas, vacunarse, ponerse refuerzo y evitar eventos masivos, ante impacto de ómicron; advierten que pueden saturarse los hospitales"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ante ómicron, urgen en México extremar cuidados"
 front: false
 section: "Nacional"
-news_id: 191341
+redirect_from: /news/191341
 ---
 
 Ante la llegada de ómicron, México debe mantenerse alerta, continuar con las medidas de higiene, sana distancia y vacunarse, pues la pandemia de Covid-19 está lejos de terminar, afirmaron especialistas, quienes coincidieron que en enero podrían elevarse los casos por la nueva variante y aunque la evidencia científica da cuenta de que hay mayor transmisión del virus, pero menor gravedad, si los casos crecen exponencialmente el sistema de salud podría verse saturado.

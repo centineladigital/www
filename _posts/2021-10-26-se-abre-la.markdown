@@ -14,11 +14,11 @@ author: nil
 description: "La recaudación empieza a partir del día 26 de octubre  y hasta el 26 de noviembre. "
 image: "/uploads/2021/images-PkqMV7RpoDhKygL3.jpeg"
 video: "/uploads/2021/videos-BM04_KARINA_OLIVAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se abre la campaña “abrigos que abrazan”"
 front: false
 section: "Local"
-news_id: 189225
+redirect_from: /news/189225
 ---
 
 La directora del DIF municipal Karina Olivas, comentó que la campaña abrigos que abrazan tiene como objetivo, la recolección de chamarras , ropa térmica y demás elementos abrigadores para las niñas y los niños del municipio de chihuahua que no tienen los recursos para la adquisición de esta ropa para la época invernal.

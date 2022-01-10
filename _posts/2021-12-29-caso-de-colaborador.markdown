@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“No afecta en nada que se ventilen estas cosas, que se hagan públicas y que nada más, pues respetemos lo que digan las autoridades; son varias instancias, dijo López Obrador sobre el caso de José Manuel del Río Virgen"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Caso de colaborador de Monreal no afecta aprobación de reforma eléctrica -  AMLO"
 front: false
 section: "Nacional"
-news_id: 191298
+redirect_from: /news/191298
 ---
 
 Luego de la vinculación a proceso de José Manuel del Río Virgen, secretario técnico de la Junta de Coordinación Política (Jucopo) del Senado que preside Ricardo Monreal, el presidente Andrés Manuel López Obrador indicó que el caso no afecta la aprobación de la reforma eléctrica. 

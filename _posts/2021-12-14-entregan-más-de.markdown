@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " El Gobierno Municipal refrenda su compromiso con acciones concretas que benefician a niñas, niños y a sus padres"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan más de un millón de pesos a guarderías y casas hogar   "
 front: false
 section: "Local"
-news_id: 190840
+redirect_from: /news/190840
 ---
 
 El Gobierno Municipal, a través del DIF, hicieron entrega de un millón 245 mil pesos a seis instituciones dedicadas al cuidado de niñas, niños y adolescentes del municipio, con el fin de darles seguridad a los padres de familia que dejan todos los días a sus hijos en estos lugares para salir a trabajar.

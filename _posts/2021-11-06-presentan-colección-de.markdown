@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Las prendas fueron modeladas por las participantes finalistas de la etapa estatal, del certamen de belleza Mexicana Universal"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan colección de ropa Arte Popular Chihuahua–Mexicana Universal de diseñadoras ralámuli"
 front: false
 section: "Local"
-news_id: 189625
+redirect_from: /news/189625
 ---
 
 Las diseñadoras ralámuli Esperanza Moreno y María Pilar Bustillos, presentaron en Ciudad Juárez la nueva colección de ropa Arte Popular- Mexicana Universal, prendas que fueron modeladas por las diez participantes finalistas de la etapa estatal de este certamen de belleza.

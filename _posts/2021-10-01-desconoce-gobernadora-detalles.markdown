@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Señala que existe desconocimiento de la Gobernadora en la forma de trabajar de la dependencia."
 image: "/uploads/2021/images-GALINDO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV02_RAMON_GALINDO.mp4"
 alt: "Desconoce Gobernadora detalles de funcionamiento de SDS -  Galindo"
 front: false
 section: "Local"
-news_id: 188288
+redirect_from: /news/188288
 ---
 
 “No se conoce a detalle forma de trabajar en las secretarías” fueron las palabras del extitular de la Secretaría de Desarrollo Social Ramón Galindo. Quien dijo que curiosamente coincide con el número exacto de los trabajadores totales de Secretaría.

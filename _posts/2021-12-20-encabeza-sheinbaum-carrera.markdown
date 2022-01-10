@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Como posibles candidatos morenistas, Claudia Sheinbaum lidera con 35% la intención del voto, seguida por Marcelo Ebrard, con 27% y Ricardo Monreal, con 17%."
 image: "/uploads/2021/images-claudia_sheinbaum_pardo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza Sheinbaum carrera por candidatura de Morena a la presidencia -  encuesta"
 front: false
 section: "Nacional"
-news_id: 191017
+redirect_from: /news/191017
 ---
 
 Hasta el momento, Morena se ubica como el partido con mayor preferencia electoral rumbo a las elecciones presidenciales de 2024, según revelan los datos de la encuesta de Buendía & Márquez para EL UNIVERSAL.

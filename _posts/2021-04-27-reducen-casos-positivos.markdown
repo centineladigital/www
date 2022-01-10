@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto no representa que se deje de tener alerta. "
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM01_ARTURO_VALENZUELA.mp3"
 alt: "Reducen casos positivos en una semana"
 front: false
 section: "Local"
-news_id: 184142
+redirect_from: /news/184142
 ---
 
 Un total de 110 casos es el deceso registrado entre una semana y otra en los casos de personas que fueron detectados con coronavirus, sin embargo, esto no representa que se deje de tener alerta en los casos, según lo expresó el Director Médico Zona Norte Arturo Valenzuela Zorrilla.

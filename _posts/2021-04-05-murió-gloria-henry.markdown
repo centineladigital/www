@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En 1959, la actriz saltó a la fama con el rol de Alice Mitchell, la madre de la icónica comedia Daniel el travieso. "
 image: "/uploads/2021/images-gloria-henry-interpreto-madre-daniel.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Gloria Henry, actriz que interpretó a la madre de 'Daniel el travieso', a los 98 años"
 front: false
 section: "Espectáculos"
-news_id: 183698
+redirect_from: /news/183698
 ---
 
 Gloria Henry, actriz conocida por su papel de madre en la mítica comedia de la década de los 60 Daniel el travieso, ha muerto a los 98 años. Su hija Erin confirmó al portal The Hollywood Reporter que su madre falleció el sábado, un día después de su cumpleaños, en su casa de Los Ángeles. Gloria Eileen McEniry, verdadero nombre de la actriz, nació en Nueva Orleans, Louisiana, el 2 de abril de 1923. Se mudó a Los Ángeles cuando era solo una adolescente y trabajó en programas de radio, anuncios comerciales y diferentes grupos de teatro. 

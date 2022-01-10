@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Lee Daniels está detrás de la dirección de la nueva versión de 'Los años maravillosos' que ya prepara la cadena ABC. "
 image: "/uploads/2021/images-preparan-reboot-de-los-anos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Revelan primera foto del reboot de 'Los años maravillosos'"
 front: false
 section: "Espectáculos"
-news_id: 183846
+redirect_from: /news/183846
 ---
 
 Los años maravillosos desembarcó en la pantalla chica durante la década de 1980, convirtiéndose en uno de los programas más populares de Estados Unidos y México. A más de 20 años de su estreno, la cadena ABC anunció que ya prepara una nueva versión y reveló la primera fotografía de la esperada serie.   El reboot de Los años maravillosos estará bajo la dirección de Lee Daniels, conocido por su trabajo en las películas Preciosa, El mayordomo de la Casa Blanca y Estados Unidos contra Billie Holiday. Fue el mismo cineasta estadunidense quien compartió el primer vistazo de la serie a través de su cuenta de Instagram. 

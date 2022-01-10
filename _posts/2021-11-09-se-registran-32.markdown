@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por Covid-19 es de 8 mil 171 casos, sin que este martes se registren nuevos casos. "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 32 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 189706
+redirect_from: /news/189706
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 9 de noviembre el reporte COVID-19, en el cual se registran 82 mil 499 (+32) personas confirmadas en la entidad por este padecimiento, 71 mil 171 (+36) casos recuperados, 76 mil 447 (+54) descartados y 708 (-42) casos sospechosos.

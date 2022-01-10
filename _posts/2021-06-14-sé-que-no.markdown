@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante habló del problema que tuvo con la conductora de 'Venga la Alegría', a quien en un principio acusó de haber frenado su carrera musical. "
 image: "/uploads/2021/images-tonita-revive-pleito-cynthia-rodriguez_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sé que no va a cometer el error -  Toñita revive pleito con Cynthia Rodríguez"
 front: false
 section: "Espectáculos"
-news_id: 185020
+redirect_from: /news/185020
 ---
 
 Toñita, ex participante del reality La Academia, ha tenido polémicos conflictos con algunos de sus ex compañero, en especial con Myriam Montemayor; sin embargo, la cantante reveló que también tuvo problemas con Cynthia Rodríguez, a quien acusó de truncar su carrera musical. Tras estas declaraciones, la famosa volvió a habla de su pleito con la conductora de Venga la Alegría.  "Las amistades se hacen con el cariño arduo, con el tiempo que estés. Si la persona no está, si se fracturó y ya no está la persona, ya no hay amistad", comenzó diciendo Toñita frente a las cámaras de Eden Dorantes. 

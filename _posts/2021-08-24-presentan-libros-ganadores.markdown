@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A la presentación asistieron los ganadores de las colecciones: Soltar las Amarras, Con Trayectoria e Historias de mi Ciudad, quienes presentaron cada una de sus obras"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan libros ganadores del Programa Editorial Chihuahua 2021"
 front: false
 section: "Local"
-news_id: 187061
+redirect_from: /news/187061
 ---
 
 Con el fin de promocionar y apoyar a escritores locales, el Gobierno Municipal a través del Instituto de Cultura, presentó los 10 libros ganadores del Programa Editorial de Chihuahua 2021 (PECH) en las instalaciones del Museo Sebastián.

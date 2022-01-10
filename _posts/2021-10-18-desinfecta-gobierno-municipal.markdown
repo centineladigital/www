@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Este fin de semana se llevó la sanitización de cinco tianguis al norte de la capital"
 image: "/uploads/2021/images-unnamed_(20).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Desinfecta Gobierno Municipal tianguis de la ciudad para prevenir contagios por COVID"
 front: false
 section: "Local"
-news_id: 188860
+redirect_from: /news/188860
 ---
 
 El Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, realiza actividades de desinfección permanente en los diferentes tianguis que se instalan en las colonias de la ciudad, con el fin de disminuir los contagios por COVID19.

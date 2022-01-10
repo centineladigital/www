@@ -14,11 +14,11 @@ author: nil
 description: "Campos Galván conoció los resultados de las ultimas actividades de la Fiscalía General del Estado en cuanto a operativos, recorridos en los municipios del estado, y la situación general de migrantes en la capital del Estado"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-20_at_12.46.47.jpeg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-09-20_at_12.46.47.mp4"
-audio: "nil"
+audio: nil
 alt: "Analiza Gobernadora situación general de Chihuahua en sesión semanal del Consejo Estatal de Seguridad"
 front: false
 section: "Local"
-news_id: 187880
+redirect_from: /news/187880
 ---
 
 En seguimiento al compromiso del Gobierno del Estado de priorizar la seguridad de las y los chihuahuenses, la gobernadora constitucional de Chihuahua, Maru Campos Galván, acudió a la sesión semanal para conocer la situación del estado en materia de seguridad y diseñar las acciones correspondientes para ofrecer respuestas inmediatas.

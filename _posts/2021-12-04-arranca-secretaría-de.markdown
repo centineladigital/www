@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El objetivo es orientar a las mexicanas y mexicanos que residen en el extranjero, durante su ingreso, tránsito y salida del país, para que su estancia y traslado se lleve a cabo con seguridad y respeto a sus derechos"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca Secretaría de Seguridad Pública del Estado Operativo Centinela, para asistir y proteger a paisanos"
 front: false
 section: "Local"
-news_id: 190517
+redirect_from: /news/190517
 ---
 
 Con la distribución de volantes informativos a paisanos en las inmediaciones del cruce internacional Córdova de las Américas de Ciudad Juárez, este fin de semana, la Secretaría de Seguridad Pública del Estado (SSPE) inició el operativo "Centinela, Juntos por tú Seguridad".

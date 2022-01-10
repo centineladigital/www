@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Informa que tras consultar a sus médicos recibirá la vacuna entre 15 o 20 días; no se aplicará una vacuna en específica, será la que le toque, aclara Jorge Alcocer"
 image: "/uploads/2021/images-2557695.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Para dar el ejemplo, López Obrador sí se vacunará contra Covid"
 front: false
 section: "Nacional"
-news_id: 183700
+redirect_from: /news/183700
 ---
 
 Luego de consultar a los médicos que lo atendieron en enero mientras padeció por Covid-19, el presidente Andrés Manuel López Obrador informó que entre 15 y 20 días se vacunará contra esta enfermedad.

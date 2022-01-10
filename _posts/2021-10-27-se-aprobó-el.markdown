@@ -14,11 +14,11 @@ author: nil
 description: "Con una vigencia a partir del 1 de enero de 2022 al 31 de diciembre del 2024"
 image: "/uploads/2021/images-unnamed.jpg"
 video: "/uploads/2021/videos-BW02_PACO_TURATI_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se aprobó el arrendamiento entre Chihuahua y Scotia inverlat "
 front: false
 section: "Local"
-news_id: 189271
+redirect_from: /news/189271
 ---
 
 Se autorizó la celebración del Contrato de Arrendamiento entre el Municipio de Chihuahua e Inmobiliaria Scotia Inverlat, S.A. de C.V., con una vigencia a partir del 1 de enero de 2022 al 31 de diciembre del 2024, término que excede a la gestión del presente Ayuntamiento, respecto de una superficie de 370.11 metros cuadrados.

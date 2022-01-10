@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor dejará atrás el traje de superhéroe para dar vida al icónico cantante, actor y bailarín de teatro."
 image: "/uploads/2021/images-tom-holland-interpretara-fred-astaire.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Adiós Spiderman! Tom Holland interpretará a Fred Astaire en película biográfica"
 front: false
 section: "Espectáculos"
-news_id: 190591
+redirect_from: /news/190591
 ---
 
 Las expectativas son altas para Spiderman: No way home, película que marcará el camino para el llamado Spiderverse, pero mientras los fans continúan a la espera de su estreno, Tom Holland ya se alista para su próximo papel en la pantalla grande. El actor cambiará su traje del Hombre Araña por un par de zapatos de claqué, pues reveló a The Associated Press que interpretará a Fred Astaire en una próxima película biográfica. “Oh, estoy interpretando a Fred Astaire”, dijo Holland en un evento en Londres el domingo. “Así es”. 

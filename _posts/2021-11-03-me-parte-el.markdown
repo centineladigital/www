@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En un video para Instagram, el cantante informó que los médicos me dicen que estoy recuperándome rápidamente, que mi carga viral es baja, pero hasta que no de negativo no puedo retomar mi agenda de trabajo. "
 image: "/uploads/2021/images-el-cantante-dio-el-anuncio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me parte el corazón -  David Bisbal da positivo a covid-19"
 front: false
 section: "Espectáculos"
-news_id: 189531
+redirect_from: /news/189531
 ---
 
 El covid-19 sigue afectando a la comunidad artística, pues luego de que se dio a conocer que Bon Jovi dio positivo a la enfermedad, este miércoles el cantante español David Bisbal informó que tiene el virus. "Me gustaría compartir antes que nada que a mi llegada a Madrid de manera responsable siempre nos hacemos controles sanitarios y me detectaron covid-19", contó el artista a través de un video que compartió en su cuenta de Instagram.

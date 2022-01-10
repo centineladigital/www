@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista con el programa Hoy de Televisa, Claudia Martin reaccionó a los audios filtrados, en donde se escucha discutir con Andrés Tovar. En estos se oye cómo Martin asegura que no saldrá a desmentir la supuesta infidelidad de Maite Perroni. "
 image: "/uploads/2021/images-claudia-martin-reacciono-filtracion-audios.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Están tergiversando -  Claudia Martin reacciona a audios sobre polémica Andrés Tovar y Maite Perroni"
 front: false
 section: "Espectáculos"
-news_id: 185105
+redirect_from: /news/185105
 ---
 
 Claudia Martin y Andrés Tovar siguen en medio de la polémica, luego de que una publicación asegurara que por la supuesta infidelidad del productor de televisión con la integrante de RBD, Maite Perroni, su matrimonio había llegado a su fin. Recientemente se dieron a conocer algunos audios en los que se desmiente que Maite Perroni tuviera que ver en la ruptura amorosa y que fuera la tercera en la discordia. Por ello, Claudia Martin salió a dar la cara para asegurar que se está tergiversando la información.

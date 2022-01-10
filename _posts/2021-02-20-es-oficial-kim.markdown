@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras varios rumores de una crisis en su matrimonio, Kim Kardashian decidió pedirle el divorcio a Kanye West. "
 image: "/uploads/2021/images-kim-kardashian-pide-divorcio-kanye.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Es oficial! Kim Kardashian pide divorcio a Kanye West; solicita custodia de sus hijos"
 front: false
 section: "Espectáculos"
-news_id: 183070
+redirect_from: /news/183070
 ---
 
 Tras varios meses de especulaciones sobre una crisis en el matrimonio de Kim Kardashian y Kanye West varios medios, entre ellos TMZ, han asegurado que la socialité ya solicitó el divorcio al cantante, además de que le solicita al ganador de varios premios Grammy la custodia de sus cuatro hijos. Kim Kardashian West solicitó formalmente el divorcio al rapero Kanye West tras más de 6 años de matrimonio, que los llevaron a convertirse en una de las parejas más controversiales y populares de la farándula 

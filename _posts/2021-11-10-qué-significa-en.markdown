@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante expresó que su intención era la de crear una letra que le diera empoderamiento a las mujeres. "
 image: "/uploads/2021/images-karol-g-posa-en-bikini.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Qué significa en realidad? Karol G revela el verdadero origen de su canción Bichota, la cual tiene 'bailando' a todo México"
 front: false
 section: "Espectáculos"
-news_id: 189775
+redirect_from: /news/189775
 ---
 
 "Bichota" de Karol G es una de las canciones más populares de los últimos años y suena en cada rincón de nuestro país entre los jóvenes, pero ¿te has preguntado cuál es el verdadero origen y significado de la letra? La misma cantante fue quien reveló cómo surgió la idea para crear la popular canción. Si la has escuchado con atención, "Bichota" habla de una mujer con mucho poder y a la que todos tienen respeto y un poco de miedo, pues ha conseguido muchas cosas materiales en su camino. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los niños y niñas de 1 a 4 años deben recibir la vacuna doble viral (SR) que les protege contra ambas enfermedades"
 image: "/uploads/2021/images-Estrategia_de_vacunación_sarampión_y_rubéola.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia Secretaría de Salud estrategia de vacunación contra sarampión y rubéola"
 front: false
 section: "Local"
-news_id: 183988
+redirect_from: /news/183988
 ---
 
 La Secretaría de Salud inició este lunes con la estrategia de aplicación de la vacuna doble viral (SR), que protege a niñas y niños de 1 a 4 años de edad, contra las enfermedades de sarampión y rubéola.

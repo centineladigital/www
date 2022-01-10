@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Llaman a la ciudadanía a evitar inversiones en empresas cuyos esquemas ofrecen supuestos rendimientos superiores, en comparación con los que tiene del resto de las instituciones financieras  "
 image: "/uploads/2021/images-Reunión.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobernador da seguimiento a convenio con Procuraduría Fiscal de la Federación"
 front: false
 section: "Local"
-news_id: 186878
+redirect_from: /news/186878
 ---
 
 El gobernador Javier Corral se reunió en su despacho de Palacio de Gobierno con el procurador fiscal de la Federación, Carlos Romero Aranda, como parte del seguimiento que se da al convenio de colaboración firmado en mayo del año pasado, en materia de combate a los delitos fiscales.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La también actriz habló de su propio proceso contra la violencia para poder tener relaciones sentimentales sanas. "
 image: "/uploads/2021/images-danna-paola-adelanta-estreno-disco_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Calladita no me veo más bonita -  Danna Paola se lanza contra el machismo en nuevo disco"
 front: false
 section: "Espectáculos"
-news_id: 182266
+redirect_from: /news/182266
 ---
 
 Danna Paola dice que ha dejado atrás la filosofía de “calladita te ves más bonita”. La cantante y actriz mexicana presenta K.O. (nocaut, por sus siglas en inglés), un álbum con el que declara que el machismo en sus relaciones sentimentales ya no tiene lugar. “El título viene a darle un significado a algo que tenía que pasarme para darme cuenta de que basta de sufrir. Era como el último golpe de esta situación sentimental que estaba viviendo, como para despertar y decir ‘se acabó’”, dijo Danna Paola en una entrevista reciente por videollamada desde la Ciudad de México. 

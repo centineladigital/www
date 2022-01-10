@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Sherman es considerado uno de los mejores esquineros (cornerbacks) de la NFL y ayudó a los Seattle Seahawks a ganar el Super Bowl en 2014. "
 image: "/uploads/2021/images-CNN-Richard-Sherman.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detienen por violencia doméstica a Richard Sherman, jugador de la NFL"
 front: false
 section: "Deportes"
-news_id: 185722
+redirect_from: /news/185722
 ---
 
 Richard Sherman, una de las figuras de la liga de futbol americano (NFL), fue detenido este miércoles acusado de "asalto por violencia doméstica", informaron autoridades policiales. 

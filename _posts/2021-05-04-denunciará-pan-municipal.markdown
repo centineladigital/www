@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Corresponde al primero de más de 15 procedimientos presentados en su contra del abanderado a la Alcaldía por Morena."
 image: "/uploads/2021/images-DANIEL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM08_DANIEL_TERRAZAS.mp3"
 alt: "Denunciará PAN Municipal a candidatos de Morena ante FEPADE"
 front: false
 section: "Local"
-news_id: 184272
+redirect_from: /news/184272
 ---
 
 Por actos anticipados de campaña la dirigencia del Partido Acción Nacional a nivel municipal presentará una demanda en contra del candidato al distrito 18 local y el abanderado a Alcalde por actos anticipados de campaña. Esto luego de que el Tribunal Estatal Electoral declarara como positivo acciones que se llevaron a cabo el pasado 19.

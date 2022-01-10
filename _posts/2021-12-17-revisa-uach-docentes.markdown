@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Sin contrato mil 600 docentes de la UACH."
 image: "/uploads/2021/images-big_fCq9j55e.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03_SERGIO_FACIO.mp4"
 alt: "Revisa UACH docentes por contrato"
 front: false
 section: "Local"
-news_id: 190980
+redirect_from: /news/190980
 ---
 
 La revisión de la plantilla de docentes que laboran por contrato dentro de la Universidad Autónoma de Chihuahua se está llevando a cabo, según lo dio a conocer el Secretario General, Sergio Facio Guzmán. Por lo que se revisa la situación de mil 600 docentes dentro de la máxima casa de estudios.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el objetivo de lograr la seguridad que se requiere en el sector industrial de la capital del estado.   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reúne director de Seguridad Pública Municipal con representantes de CANACINTRA"
 front: false
 section: "Local"
-news_id: 187911
+redirect_from: /news/187911
 ---
 
 Representantes de la Cámara Nacional de la Industria de la Transformación (CANACINTRA), sostuvieron una reunión de presentación y coordinación con el actual titular de la Dirección de Seguridad Pública Municipal, Julio César Salas González, quien se comprometió a trabajar de la mano con ellos para, juntos, lograr la seguridad que se requiere en el sector industrial de la capital del estado.

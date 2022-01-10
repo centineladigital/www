@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Tres agentes supervisan el Tratamiento contra las Adicciones para Delincuentes de Delitos Menores del TSJ"
 image: "/uploads/2021/images-unnamed_(14).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Son policías municipales por vocación, pero sirven a la justicia chihuahuense por pasión"
 front: false
 section: "Local"
-news_id: 191032
+redirect_from: /news/191032
 ---
 
 Roberto Antonio Solís Montelongo, policía de academia de la Dirección de Seguridad Pública Municipal; Sergio Adolfo Sauzameda Díaz, policía segundo; y Luciano Carrasco Chavez, policía con el mismo grado y coordinador del programa de supervisión para el tratamiento de las adicciones para delincuentes menores del Tribunal Superior de Justicia del Estado de Chihuahua, han recibido una gran encomienda vigilar y acompañar a aquellos hombres y mujeres que han infraccionado la ley y que son sujetos a este benéfico programa.

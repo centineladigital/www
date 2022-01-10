@@ -12,11 +12,11 @@ author: nil
 description: "El IMCFD es y será el primer aliado para los atletas chihuahuenses"
 image: "/uploads/2021/images-JH.jpg"
 video: "/uploads/2021/videos-BV06_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "Chihuahua una ciudad competitiva en el  deporte -  Marco Bonilla"
 front: false
 section: "Local"
-news_id: 188045
+redirect_from: /news/188045
 ---
 
 El alcalde, Marco Bonilla, comentó que Chihuahua será una ciudad competitiva que apoye a sus deportistas de manera sólida y bien estructurada, por lo cual enfatizó que el IMCFD es y será el primer aliado para los atletas chihuahuenses. 

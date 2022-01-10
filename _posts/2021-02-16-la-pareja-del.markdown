@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tal parece que el amor sorprendió a Jaden Smith y Cara Delevigne, quienes fuero captados besándose en pleno San Valentín. "
 image: "/uploads/2021/images-smith.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿La pareja del momento? Captan a Jaden Smith y Cara Delevigne besándose"
 front: false
 section: "Espectáculos"
-news_id: 182951
+redirect_from: /news/182951
 ---
 
 En el Día del amor y la amistad variosfamosos aprovecharon para celebrar esta fecha junto con sus parejas y tal parece que en esta ocasión los paparazzis captaron a Jaden Smith y Cara Delevigne besándose, algo que desató los rumores de una posible relación entre la modelo y el cantante. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz de 75 años externó que ella desea tener una muerte digna en la que desea no ser una carga para nadie. "
 image: "/uploads/2021/images-ana-martin-conto-experiencia-recibir_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No voy a ser una carga -  Ana Martín firmó su última voluntad; esto quiere en caso de ser desahuciada"
 front: false
 section: "Espectáculos"
-news_id: 186212
+redirect_from: /news/186212
 ---
 
 Ana Martín, famosa actriz que en repetidas ocasiones se ha vuelto tendencia en redes sociales por compartir varias imágenes y vivencias del pasado, dio mucho de qué hablar al revelar que ya tiene listo lo que se debe hacer en dado caso que esté desahuciada o que esté conectada a un aparato que le dé la vida -en caso de un accidente-. ¿Qué es lo que quiere Ana Martín para el día de su muerte?   

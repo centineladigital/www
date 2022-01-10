@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El descuento aplica a personas físicas y morales todo el mes de diciembre"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ubica las cajas para pagar tu Predial con descuento del 80% en recargos"
 front: false
 section: "Local"
-news_id: 190886
+redirect_from: /news/190886
 ---
 
 El Gobierno Municipal, a través de Tesorería, te invita a aprovechar el descuento en recargos del 80 por ciento de tu predial que está vigente todo el mes de diciembre.

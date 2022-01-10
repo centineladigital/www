@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con el objetivo de disminuir la deserción, la falta de aprovechamiento y las deficiencias socioemocionales provocadas por la pandemia por COVID-19 en las y los estudiantes de media superior."
 image: "/uploads/2021/images-M3.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Implementarán piloto del programa “Construye tu Mente”  en bachilleratos"
 front: false
 section: "Local"
-news_id: 189997
+redirect_from: /news/189997
 ---
 
 El subsecretario de Educación Media Superior y Superior, Miguel Ángel Valdez García, informó que se implementará el pilotaje del programa “Construye tu Mente” en planteles del Colegio de Bachilleres del Estado de Chihuahua (COBACH).

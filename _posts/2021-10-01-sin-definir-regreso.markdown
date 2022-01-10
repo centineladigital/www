@@ -10,11 +10,11 @@ author: nil
 description: "Al 55 por ciento el aforo en las aulas."
 image: "/uploads/2021/images-MOCKEN.jpg"
 video: "/uploads/2021/videos-MV05_JAVIER_GONZALEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Sin definir regreso al cien por ciento en aulas"
 front: false
 section: "Local"
-news_id: 188285
+redirect_from: /news/188285
 ---
 
 Aún no se define la fecha en la que alumnos regresen al cien por ciento a las aulas, señaló el titular de la Secretaría de Educación y Deporte Javier González Mocken. El funcionario señaló que actualmente el aforo de las aulas es de un 55 por ciento.

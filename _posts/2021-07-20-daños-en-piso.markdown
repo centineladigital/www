@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Secretario de Salud, Eduardo Fernández y subsecretaria Mirna Beltrán supervisan trabajos de reparación del área dañada por viento y lluvia"
 image: "/uploads/2021/images-supervision_H_C_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Daños en piso 3 del Hospital Central no limita la atención de pacientes"
 front: false
 section: "Local"
-news_id: 185850
+redirect_from: /news/185850
 ---
 
 El Secretario de Salud, Eduardo Fernández y la Subsecretaria Mirna Beltrán acudieron al Hospital Central desde temprana hora para supervisar los trabajos de reparación del tercer piso del nosocomio, luego de que los fuertes vientos y lluvia registrada durante la tarde del lunes ocasionaran el desprendimiento de las láminas del techo.

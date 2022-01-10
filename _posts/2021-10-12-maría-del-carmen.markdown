@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz nacida en Sonora actualmente participa en la serie 'Malverde: el santo patrón', de Telemundo."
 image: "/uploads/2021/images-actriz-nacio-sonora-comenzo-carrera.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "María del Carmen Félix, la única pariente de María Félix que sigue el camino de la actuación"
 front: false
 section: "Espectáculos"
-news_id: 188657
+redirect_from: /news/188657
 ---
 
 Fue en el escenario del Foro La Gruta, ubicado en el Centro Cultural Helénico, donde María del Carmen Félix (Sonora, 1982) sintió la presencia de "las musas" de la actuación: "Una comunión tan fuerte que sucede cuando uno está en el escenario del presente absoluto que es el teatro", recuerda la actriz sobre esa noche interpretando a Hanna en la obra ¿Cuál es la mejor droga para mí?, de la directora Aracelia Guerrero; un episodio que define como "fundamental" en su carrera artística.

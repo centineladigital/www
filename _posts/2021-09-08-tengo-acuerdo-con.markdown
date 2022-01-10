@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El integrante de los Mascabrothers, contó que tiene muchas deudas debido a que por la pandemia ha tenido poco trabajo; pide ayuda al gobierno. "
 image: "/uploads/2021/images-german-ortega-dice-que-tiene_272_47_898_559.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tengo acuerdo con bancos -  Germán Ortega de 'Los Mascabrothers' asegura tiene muchas deudas"
 front: false
 section: "Espectáculos"
-news_id: 187561
+redirect_from: /news/187561
 ---
 
 Debido a la pandemia muchas personas han perdido su trabajo o han visto una baja en sus ingresos, uno de ellos es Germán Ortega, integrante de los Mascabrothers, quien hace unos meses declaró que tenía problemas económicos, ya que no ha podido trabajar en diferentes proyectos como son obras de teatro, una de sus principales fuentes de ingresos. Ahora, en una entrevista para Ventaneando, Germán Ortega se sinceró y dijo que aún tiene deudas y le pide al gobierno que lo ayude con los pagos como son el predial. Afortunadamente, el comediante realizó un programa y con el sueldo le ayudó a resolver algunos problemas financieros. 

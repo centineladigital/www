@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Reporte epidemiológico registra 5 fallecimientos más, 2 de Ciudad Juárez y 1 de Chihuahua, Parral y Nuevo Casas Grandes, respectivamente, para un acumulado de 7,683"
 image: "/uploads/2021/images-INFORME_COVID_29_JULIO_2021_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Confirma Secretaría de Salud 153 nuevos contagios de COVID-19  para un total de 72,648"
 front: false
 section: "Local"
-news_id: 186090
+redirect_from: /news/186090
 ---
 
 De nueva cuenta se registró un incremento en el número de contagios confirmados de COVID-19, en esta ocasión se reportaron 153 más para un total general de 72 mil 648 casos en lo que va de la pandemia, informó la Secretaría de Salud Chihuahua.

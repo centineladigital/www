@@ -14,11 +14,11 @@ author: nil
 description: "Aclaró que entre partidos se generan fricciones respecto a la sucesión de labores "
 image: "/uploads/2021/images-ERACLIO_.jpeg"
 video: "/uploads/2021/videos-BV03_ERACLIO_RODRIGUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Fue un error la presentación de candidatos del senado "
 front: false
 section: "Local"
-news_id: 187207
+redirect_from: /news/187207
 ---
 
 El diputado Eraclio Rodríguez presidente de desarrollo y conservación rural, agrícola y autosuficiencia alimentaria mencionó que fue un error presentar candidatos al senado con tanta anticipación pues esto presenta un problema social y económico a la población.

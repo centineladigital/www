@@ -10,11 +10,11 @@ author: nil
 description: "Evita tocar tema de desistimiento, señala que se tiene que ver con el titular de la Fiscalía."
 image: "/uploads/2021/images-SERRATO.jpg"
 video: "/uploads/2021/videos-MJ04_LUIS_SERRATO.mp4"
-audio: "nil"
+audio: nil
 alt: "Si hubo desistimiento -  Serrato"
 front: false
 section: "Local"
-news_id: 187797
+redirect_from: /news/187797
 ---
 
 El Coordinador del Gabinete de Gobierno del Estado, Luis Serrato Castell, confirmó el desistimiento y devolución de los bienes confiscados a personas dentro del Operativo Justicia Chihuahua, esto sin querer ahondar en el dato.

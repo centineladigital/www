@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La campaña “Abrigos que abrazan” fue todo un éxito y superó la meta"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gracias a los chihuahuenses, DIF Municipal recaba más de 11 mil prendas invernales"
 front: false
 section: "Local"
-news_id: 190387
+redirect_from: /news/190387
 ---
 
 El Gobierno Municipal de Chihuahua y el grupo de voluntariado que encabeza la presidenta del DIF, Karina Olivas, tenían la meta de recabar con la campaña “Abrigos que abrazan”, la cantidad de 4 mil chamarras y prendas invernales, pero gracias al buen corazón de los chihuahuenses recaudaron 11 mil 128 piezas y siguen llegando más donaciones.

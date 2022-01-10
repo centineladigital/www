@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto por estrés y pandemia que se viven a nivel mundial."
 image: "/uploads/2021/images-UACH6.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML01.mp3"
 alt: "Exhorta UACH a tratar temas de depresión"
 front: false
 section: "Local"
-news_id: 185381
+redirect_from: /news/185381
 ---
 
 Debido a que por situaciones como la pandemia o el estrés puede desarrollar problemas relacionadas con la salud mental, la Universidad Autónoma de Chihuahua invitó a la población a cuidar y tratar temas como la tristeza y emociones según fue dado a conocer por parte de  la maestra de la Facultad de Medicina y Ciencias Biomédicas de la UACH, Leila Azizé Ruíz Escalona.

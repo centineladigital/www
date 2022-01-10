@@ -10,11 +10,11 @@ author: nil
 description: "Detenido fue reconocido como El R7, continuan indagatorias."
 image: "/uploads/2021/images-ROBERTO_FIERRO.jpg"
 video: "/uploads/2021/videos-MW01_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Resultó líder sicario secuestrador detenido"
 front: false
 section: "Local"
-news_id: 188196
+redirect_from: /news/188196
 ---
 
 Quien fuera detenido el pasado domingo por el delito de secuestro fue identificado como “El R7”, líder criminal y jefe de sicarios según lo informó el Fiscal General del Estado, Roberto Fierro Duarte.

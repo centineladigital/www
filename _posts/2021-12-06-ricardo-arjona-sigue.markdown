@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El álbum está compuesto por seis temas inéditos que completan las catorce canciones de un disco grabado en los emblemáticos estudios Abbey Road de Londres. "
 image: "/uploads/2021/images-arjona-mantiene-firme-firma-sonora-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ricardo Arjona sigue agotando entradas en España de la gira de su nuevo disco, 'Negro'"
 front: false
 section: "Espectáculos"
-news_id: 190540
+redirect_from: /news/190540
 ---
 
 El músico guatemalteco Ricardo Arjona ha lanzado al mercado "Negro", su último álbum que formará parte de la gira por teatros que tiene programada por España en 2022, cuya venta de entradas sigue disparada con el cartel de "agotadas" ya puesto para sus tres actuaciones en Madrid, Málaga y Alicante. "Negro" es el "proyecto más emblemático" de la carrera de Arjona, según informa su oficina de prensa en un comunicado, compuesto por seis temas inéditos que completan las catorce canciones de un disco grabado en los emblemáticos estudios Abbey Road de Londres y que ya está disponible en plataformas digitales. 

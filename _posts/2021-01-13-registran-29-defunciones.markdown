@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Llega a 47 mil 891 casos de contagio desde el inicio de la pandemia y 4 mil 438 muertes."
 image: "/uploads/2021/images-ARTURO_VALENZUELA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp3"
 alt: "Registran 29 defunciones el las últimas 24 horas"
 front: false
 section: "Local"
-news_id: 182109
+redirect_from: /news/182109
 ---
 
 En las últimas 24 horas se registraron  29 nuevos decesos, así como 177 nuevos casos de personas contagiadas por COVID, con lo que se llega a 47 mil 891 casos de contagio desde el inicio de la pandemia y 4 mil 438 muertes que se han acreditado en el estado.

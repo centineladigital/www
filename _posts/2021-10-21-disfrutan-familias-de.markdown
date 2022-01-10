@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Podrán asistir con sus mascotas en un evento con formato picnic"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Disfrutan familias de actividades FICUU 2021 en la presa El Rejón"
 front: false
 section: "Local"
-news_id: 189031
+redirect_from: /news/189031
 ---
 
 La presa El Rejón fue la cede de las actividades del Festival Internacional de la Ciudad de Chihuahua (FICUU) 2021, lugar donde las familias chihuahuenses acudieron para disfrutar del show de Tropa Clown, así como la interpretación musical del pianista Andrés Sarre y el barítono Juan Carlos Heredia; también, la Orquesta Filarmónica del Estado de Chihuahua (OFECH), bajo la dirección del maestro ruso, Vladimir Sagaydo.

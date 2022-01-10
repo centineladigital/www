@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El personal del organismo es fácil de identificar ya que siempre está debidamente uniformado y utiliza solo vehículos oficiales  "
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pide JMAS a usuarios denunciar actos de vandalismo en instalaciones de pozos y rebombeos"
 front: false
 section: "Local"
-news_id: 188479
+redirect_from: /news/188479
 ---
 
 La Junta Municipal de Agua y Saneamiento (JMAS) de Chihuahua pidió a los usuarios reportar a los números de emergencia, o al 073, cualquier acto vandálico en las instalaciones de los pozos y rebombeos del organismo.

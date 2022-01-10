@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "YosStop fue encarcelada el pasado 29 de junio por el delito de pornografía infantil, luego de que Ainara Suárez la acusara, pues la influencer hizo un video en el que describe el video del abuso y la revictimiza. "
 image: "/uploads/2021/images-yosstop-en-audiencia-de-hoy_150_37_923_575.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se queda en prisión; vinculan a proceso a YosStop por pornografía infantil en caso Ainara"
 front: false
 section: "Espectáculos"
-news_id: 185380
+redirect_from: /news/185380
 ---
 
 YosStop, youtuber mexicana, fue vinculada a proceso por su presunta responsabilidad en el delito de posesión de pornografía infantil, luego de que Ainara Suárez -víctima de abuso sexual- la denunciara. La decisión la tomó un juez de la Ciudad de México durante la audiencia que se llevó a cabo el día de hoy. ¿Hasta cuándo estará en prisión? ¿Se encontraron elementos en contra? Te contamos lo que sabemos.  

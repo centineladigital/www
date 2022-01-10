@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Disney Plus reveló el tráiler, póster y fecha de estreno de 'La Misteriosa Sociedad Benedict', su nueva serie de televisión exclusiva. "
 image: "/uploads/2021/images-misteriosa-sociedad-benedict-estrena-trailer.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Huérfanos y genios! Disney Plus revela su nueva serie -  'La Misteriosa Sociedad Benedict'"
 front: false
 section: "Espectáculos"
-news_id: 184559
+redirect_from: /news/184559
 ---
 
 La Misteriosa Sociedad Benedict será la nueva serie exclusiva de Disney Plus. Es por ello que la mañana de este jueves revelaron el tráiler y póster oficial de la serie, la cual llegará el próximo mes de junio a la plataforma de entretenimiento. 

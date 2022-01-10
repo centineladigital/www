@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los requisitos que deben presentar los padres de familia son: certificado médico y hoja de registro en la página www.mivacuna.salud.gob.mx"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Amplía Secretaría de Salud fechas para vacunar a adolescentes con comorbilidades en Chihuahua y Juárez   "
 front: false
 section: "Local"
-news_id: 189588
+redirect_from: /news/189588
 ---
 
 La Secretaría de Salud del Estado de Chihuahua informa que los días 6, 7 y 8 de noviembre se llevará a cabo la aplicación de la vacuna COVID-19 dirigida a adolescentes de 12 a 17 años de edad con comorbilidades.

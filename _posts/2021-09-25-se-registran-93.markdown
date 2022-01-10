@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se ratificó el incremento en el número de defunciones quedando en 7 mil 934;"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-25_at_11.52.02.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 93 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 188066
+redirect_from: /news/188066
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 25 de Septiembre se tiene un total general de 77 mil 667 contagios en el estado. Luego de confirmarse otros 93 más en Juárez, Chihuahua, Parral, Cuauhtémoc, Delicias, Nuevo Casas Grandes, Guachochi, Jiménez, Bocoyna, Meoqui, Guerrero, Guazapares, Santa Bárbara, Chinipas, Ascensión, Guadalupe y Calvo, Julimes, Ocampo, Guadalupe, Carichi, Temosachic, Bachiniva y Satevo.

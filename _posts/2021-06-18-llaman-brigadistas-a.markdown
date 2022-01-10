@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Emite Gobierno del Estado programa especial para abordar ampliamente la problemática de los incendios forestales; personal que combate las conflagraciones recuerda la vital importancia de conservación de la zona boscosa de Chihuahua"
 image: "/uploads/2021/images-_dsc1888.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llaman brigadistas a la población hacer conciencia sobre el cuidado del bosque"
 front: false
 section: "Local"
-news_id: 185111
+redirect_from: /news/185111
 ---
 
 Personal que se encuentra en el frente de batalla contra los incendios forestales que desde hace varios días afectan diversas regiones de la Sierra Tarahumara, llaman a la población a hacer conciencia de la importancia de cuidar el bosque, por todos los beneficios que ofrece.

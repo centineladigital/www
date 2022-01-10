@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las flamantes campeonas hicieron suya la serie final al mejor de cinco en el cuarto partido, con tres victorias y una derrota "
 image: "/uploads/2021/images-chicago-sky-campeonas-de-la_0_97_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sky se coronan campeonas de la WNBA por primera vez en su historia"
 front: false
 section: "Deportes"
-news_id: 188839
+redirect_from: /news/188839
 ---
 
 La base Allie Quigley anotó 26 puntos, incluido cinco triples, y despejó este domingo el camino hacia el primer título en la WNBA de las Chicago Sky con un triunfo por 80-74 sobre las Phoenix Suns.

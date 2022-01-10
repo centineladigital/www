@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Dallas le propina una paliza de época a Washington, asegura el título de la División Este en la Conferencia Nacional por primera vez en tres años y envía un claro mensaje: es serio candidato a disputar el Super Bowl LVI, en Los Ángeles."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Unos poderosos Cowboys aplastaron a Washington"
 front: false
 section: "Deportes"
-news_id: 191220
+redirect_from: /news/191220
 ---
 
 Había más de 40 puntos de diferencia con casi cuarto y medio por jugar, pero nadie quería moverse del majestuoso estadio AT&T. No era para menos.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Juan Carlos Martínez Cecias Rodríguez, excandidato de Fuerza por México a la gubernatura de Querétaro, fue detenido en Houston, Texas, por su presunta responsabilidad en un esquema de fraude, así como por “fomentar e inducir la inmigración ilegal”"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detienen en EU a excandidato de Fuerza por México"
 front: false
 section: "Internacional"
-news_id: 190663
+redirect_from: /news/190663
 ---
 
 Juan Carlos Martínez Cecias Rodríguez, excandidato de Fuerza por México a la gubernatura de Querétaro, fue detenido en Houston, Texas, por su presunta responsabilidad en un esquema de fraude, así como por “fomentar e inducir la inmigración ilegal”.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un grupo de funcionarios de la agencia de salud de Brasil (Anvisa) ingresó al campo para hacer cumplir una orden de deportación contra el portero Emiliano Martínez, el zaguero Cristian Romero, el volante Giovani Lo Celso y el delantero Emiliano Buendía"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "FIFA lanza su postura tras la suspensión del partido Brasil vs Argentina"
 front: false
 section: "Deportes"
-news_id: 187446
+redirect_from: /news/187446
 ---
 
 La FIFA lamentó este lunes la suspensión del partido Brasil-Argentina, el domingo a los cinco minutos de juego debido a la intervención de las autoridades sanitarias brasileñas, y tomará una "decisión" después de que sus instancias disciplinarias examinen lo ocurrido.

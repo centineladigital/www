@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Tratan temas relacionados al estado de las vías de comunicación en el estado."
 image: "/uploads/2021/images-M3.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML03_CARLOS_LASCURAIN.mp4"
 alt: "Se reúne equipo de transición con personal Fideicomiso Carretero"
 front: false
 section: "Local"
-news_id: 186208
+redirect_from: /news/186208
 ---
 
 Este lunes el equipo de transición de la Gobernadora electa sostuvo una reunión con integrantes del el Fideicomiso Carretero, según fue dado a conocer por Carlos Lascurain Ochoa encargado del área. 

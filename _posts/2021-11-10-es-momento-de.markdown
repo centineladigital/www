@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se llevó a cabo la alfombra roja con la presentación de las nuevas producciones de Starz Play e integrantes de sus elencos."
 image: "/uploads/2021/images-miembros-producciones-presentes-alfombra-starz_59_39_1103_687.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Es momento de usar nuestra voz”, declara Ximena Romo sobre la nueva ola de producciones latinoamericanas"
 front: false
 section: "Espectáculos"
-news_id: 189769
+redirect_from: /news/189769
 ---
 
 La revolución ideológica entorno a la oferta de contenidos audiovisuales debe llegar acompañada por voces fuertes y realizadores con una firme intención de evolucionar y orquestar la rebelión conceptual en un medio que en muchas ramas ha estado apagado o, por lo menos, con un volumen bajo al momento de hablar y discreto al momento de escuchar. Para algunas de las estrellas que ayer engalanaron la alfombra roja de Starz Play, evento que se realizó para presentar algunos adelantos de los nuevos proyectos regionales e internacionales que presenta la plataforma streaming, este es el momento para incentivar ese movimiento conceptual en los medios de entretenimiento a partir de nuevas voces y nuevas historias acompañadas por realizadores audaces y plataformas valientes, particularmente en Latinoamérica y países hispanohablantes. 

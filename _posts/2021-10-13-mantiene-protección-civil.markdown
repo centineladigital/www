@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En zonas del municipio de Ocampo, Bocoyna, Guerrero y Temósachic se prevé el valor mínimo entre los 0 y 2 grados"
 image: "/uploads/2021/images-unnamed_(1).png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mantiene Protección Civil Estatal aviso preventivo por lluvias y vientos"
 front: false
 section: "Local"
-news_id: 188695
+redirect_from: /news/188695
 ---
 
 Con motivo de la permanencia del Frente Frío No.4 y el Ciclón Tropical Pamela, con características de huracán categoría 1, se espera que sus desprendimientos nubosos ocasionen lluvias en el territorio estatal para las próximas horas, y para mañana jueves precipitaciones moderadas a fuertes con acumulación superior a 20 milímetros para municipios del sur de la entidad, particularmente  en Jiménez, López, Coronado, Morelos, Guadalupe y Calvo, Balleza, Guachochi, El Tule, Santa Bárbara, Parral y Matamoros.

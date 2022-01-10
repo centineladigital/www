@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante también salió en defensa de Paty Navidad, quien dio positivo a covid-19 durante las grabaciones de 'MasterChef Celebrity'. "
 image: "/uploads/2021/images-maria-conchita-alonso-explota-pepe_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ignorante -  María Conchita Alonso 'explota' contra Pepe Aguilar por exigir vacuna anticovid a trabajadores"
 front: false
 section: "Espectáculos"
-news_id: 186492
+redirect_from: /news/186492
 ---
 
 María Conchita Alonso ha dado qué hablar por sus polémicas teorías y declaraciones sobre el covid-19, asegurando que fue algo creado “por personas para fastidiarnos”. Pese las críticas que ha recibido, la actriz     -quien mantiene una amistad con Paty Navidad- arremetió en contra de Pepe Aguilar por exigir a sus trabajadores que se apliquen la vacuna contra el virus.

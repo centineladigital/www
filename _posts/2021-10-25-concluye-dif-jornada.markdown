@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El objetivo es ampliar y mejorar la atención a usuarias y usuarios que padecen alguna discapacidad física temporal o permanente"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Concluye DIF “Jornada de Capacitación Clínica 2021” a personal del Centro de Rehabilitación y Educación Especial"
 front: false
 section: "Local"
-news_id: 189161
+redirect_from: /news/189161
 ---
 
 El DIF Estatal impartió al personal médico, de terapia física, ocupacional y del área de Ingeniería Biomédica, del Centro de Rehabilitación y Educación Especial (CREE), la “Jornada de Capacitación clínica 2021”, tendiente a mejorar la atención que se brinda a la población que presenta algún tipo de discapacidad temporal o permanente.

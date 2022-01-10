@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La investigación preliminar del incendio, que se originó alrededor de las 1:45 horas, indica un corto circuito en una de las 19 celdas del Bloque C2. "
 image: "/uploads/2021/images-incendio-en-prision-de-indonesia_29_0_983_611.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Indonesia, incendio en prisión deja 41 reclusos muertos"
 front: false
 section: "Internacional"
-news_id: 187533
+redirect_from: /news/187533
 ---
 
 Un incendio arrasó una prisión hacinada cerca de la capital de Indonesia dejando al menos 41 reclusos muertos, dos de ellos extranjeros con condenas relacionadas con drogas, y por lo menos 80 heridos. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz Olivia Munn y el comediante John Mulaney están en la espera de su primer bebé. "
 image: "/uploads/2021/images-olivia-munn-esta-embarazada-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La actriz Olivia Munn está embarazada, confirma su pareja John Mulaney"
 front: false
 section: "Espectáculos"
-news_id: 187558
+redirect_from: /news/187558
 ---
 
 La actriz, modelo, presentadora y escritora estadounidense Olivia Munn, recordada por su papel en la saga de los X-Men como Betsy Braddock (Psylocke), está embarazada, así lo dio a conocer su pareja, el comediante, actor, guionista y productor John Mulaney.  

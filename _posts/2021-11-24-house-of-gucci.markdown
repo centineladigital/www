@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El asesino de Maurizio Gucci significó la caída de un imperio de la moda; aquí te contamos la historia real de cada miembro de la familia y cómo perdieron el control de su propia empresa. "
 image: "/uploads/2021/images-conoce-personajes-reales-pelicula-house.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'House of Gucci' -  Quién es quién en la película; así lucían en la vida real los personajes"
 front: false
 section: "Espectáculos"
-news_id: 190180
+redirect_from: /news/190180
 ---
 
 House of Gucci lleva varias semanas en la boca de todos no sólo por su elenco repleto de estrellas, entre ellas Lady Gaga, Adam Driver y Salma Hayek, también por su trepidante trama. La película, dirigida por Ridley Scott, desentraña los misterios sobre el mediático asesinato de Maurizio Gucci, nieto del magnate Guccio Gucci -quien fue el fundador de la lujosa firma de alta costura-. Si bien, el caso es una de las escenas criminales que acaparó la prensa en la década de 1990, el director de Blade Runner (1989) y Alien (1979) va más allá de retratar la muerte del empresario y se enfoca en develar el por qué la familia Gucci llegó a hundirse en un laberinto de traiciones, mentiras y muerte, perdiendo así un imperio fundado en 1921 y que construyeron por casi 80 años. 

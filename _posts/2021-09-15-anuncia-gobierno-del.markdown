@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La suspensión será de las 9:00 a las 13:00  horas con motivo de la Celebración del 211 Aniversario de la Independencia de México."
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-15_at_10.54.57.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia Gobierno del Estado Ley Seca este jueves 16 de septiembre"
 front: false
 section: "Local"
-news_id: 187752
+redirect_from: /news/187752
 ---
 
 La Dirección General de Gobierno informó que con el objeto de prevenir la alteración del orden, moralidad y seguridad pública, se suspenderá la venta y/o suministro de alcohol el jueves 16 de septiembre de 2021.

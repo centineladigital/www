@@ -14,11 +14,11 @@ author: nil
 description: "Se está viendo la luz al final del túnel respecto a la pandemia "
 image: "/uploads/2021/images-5sAe0EX87kAB.jpeg"
 video: "/uploads/2021/videos-BW01_OSCAR_CASTREJON_.mp4"
-audio: "nil"
+audio: nil
 alt: "Apertura de la frontera traerá beneficios al país "
 front: false
 section: "Local"
-news_id: 188698
+redirect_from: /news/188698
 ---
 
 El diputado Óscar Castrejón, declaró que la gran reapertura de la frontera traería beneficios al país, debido a las especulaciones que se han alzado en las que se afirma que la frontera abrirá sus puertas en el mes de noviembre.

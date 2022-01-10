@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Eugenio Derbez defendió la estatua puesta en Acapulco, Guerrero, ya que mencionó contribuyó a la promoción del puerto, así como a la reconstrucción tras dos huracanes. "
 image: "/uploads/2021/images-eugenio-derbez-defendio-estatua-acapulco_0_185_718_447.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es por difusión que se le ha dado al puerto -  Eugenio Derbez defiende estatua en Acapulco"
 front: false
 section: "Espectáculos"
-news_id: 188810
+redirect_from: /news/188810
 ---
 
 Eugenio Derbez se ha convertido en uno de los comediantes más populares en los últimos años y es que sus comedias románticas estrenadas por todo el mundo lo han llevado al lugar en donde se encuentra ahora, tanto así que en el puerto de Acapulco, Guerrero, hicieron una estatua que no duró ni una semana. De hecho, usuarios de redes sociales criticaron que se pusiera una estatua con la imagen del actor, por lo que algunos manifestaron su descontento hacia esta medida; sin embargo, el actor decidió usar su red social para defenderse de los ataques.  

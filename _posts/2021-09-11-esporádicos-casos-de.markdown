@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Oliva López Arellano, titular de la Secretaría de Salud, expuso que los contagios se han presentado tanto en maestros como en alumnos, aunque los casos no han sido alarmantes"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Esporádicos, casos de Covid-19 en escuelas de la CDMX -  Salud local"
 front: false
 section: "Nacional"
-news_id: 187653
+redirect_from: /news/187653
 ---
 
 La titular de la Secretaría de Salud de la Ciudad de México, Oliva López Arellano, informó que ninguno de los casos positivos de Covid-19 que se registraron en las escuelas de la capital tuvieron que ir a un hospital y destacó que se trataron de casos esporádicos.

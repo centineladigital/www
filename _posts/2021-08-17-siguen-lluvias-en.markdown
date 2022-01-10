@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las precipitaciones más intensas se registrarán en Janos, Casas Grandes, Buenaventura, Temósachic, Valle de Zaragoza, Parral, Allende, Coronado, Delicias y Manuel Benavides, informa Protección Civil"
 image: "/uploads/2021/images-Lluvias_en_CUU_agosto_(2).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Siguen lluvias en el estado -  Chihuahua capital  tendrá de aisladas a dispersas"
 front: false
 section: "Local"
-news_id: 186781
+redirect_from: /news/186781
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informa que para este martes 17 de agosto se pronostican lluvias de dispersas a moderadas con intervalos de chubascos (de 5.1 a 25 mm) en partes del noroeste, sureste y este del territorio chihuahuense.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Alejandro Sanz está en Los Ángeles en donde develó su estrella en el Paseo de la Fama de Hollywood; así fue el momento. "
 image: "/uploads/2021/images-alejandro-sanz-mostro-feliz-develar.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Un reconocimiento más! Alejandro Sanz devela su estrella en el Paseo de la Fama de Hollywood"
 front: false
 section: "Espectáculos"
-news_id: 188303
+redirect_from: /news/188303
 ---
 
 Alejandro Sanz puede sumar una estrella en el Paseo de la Fama de Hollywood a la lista de reconocimientos en su carrera. Hace tan sólo unos días se informó que el cantante tendría su estrella y por fin la develó.  “¡Vaya día!”, dijo el viernes al comenzar su discurso durante la ceremonia de develación en Los Ángeles. “Nunca imaginé que iba a recibir una estrella en el Paseo de la Fama del Hollywood, soñé muchas cosas, soñé que un día iba a estar en el escenario y soñé que iba a hacer música con la gente que amo, pero nunca en mis sueños más locos me imaginé este momento y eso es lo que lo hace tan hermoso.

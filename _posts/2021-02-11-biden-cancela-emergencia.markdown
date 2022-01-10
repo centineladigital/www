@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente Joe Biden puso fin a la 'emergencia nacional' declarada por Donald Trump en 2019 para pagar el muro en la frontera con México."
 image: "/uploads/2021/images-2527852.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden cancela 'emergencia nacional' de Trump para pagar muro fronterizo"
 front: false
 section: "Internacional"
-news_id: 182866
+redirect_from: /news/182866
 ---
 
 Joe Biden puso fin a la emergencia nacional en la frontera entre México y Estados Unidos que fue ordenada por el entonces gobierno del presidente Donald Trump.

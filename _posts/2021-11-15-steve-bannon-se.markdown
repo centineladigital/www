@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Bannon, de 67 años, encara dos cargos, uno por su negativa a comparecer ante dicho comité, mientras que el segundo es por no querer entregar documentos. "
 image: "/uploads/2021/images-bannon-fianza-millones-dolares-restricciones.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Steve Bannon se entrega al FBI tras imputación por desacato al Congreso de EU"
 front: false
 section: "Internacional"
-news_id: 189840
+redirect_from: /news/189840
 ---
 
 Steve Bannon, aliado del ex presidente de Estados Unidos, Donald Trump, se entregó este lunes en la oficina del FBI de Washington tras haber sido imputado de dos cargos por desacato al Congreso, y no haber respondido a una citación del comité legislativo que investiga el asalto al Capitolio de enero pasado. 

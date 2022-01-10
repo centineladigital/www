@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Asume Lydia Terrazas la dirección del instituto"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza Alcalde instalación del Consejo Directivo del Instituto Municipal de las Mujeres"
 front: false
 section: "Local"
-news_id: 188244
+redirect_from: /news/188244
 ---
 
 El alcalde de Chihuahua, Marco Bonilla, encabezó la primera sesión del Consejo Directivo del Instituto Municipal de las Mujeres (IMM), para la instalación del mismo, correspondiente al periodo de gestión 2021-2024.

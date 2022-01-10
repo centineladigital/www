@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Protección Civil señala que las precipitaciones también tendrán una acumulación de hasta 5.1 mm, en Balleza, El Tule, Parral, Allende, Jiménez, Camargo y Manuel Benavides; se prevé que el jueves sean más intensas"
 image: "/uploads/2021/images-Lluvia_Chihuahua_1.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se pronostican lluvias fuertes para Chihuahua capital este miércoles y jueves"
 front: false
 section: "Local"
-news_id: 186837
+redirect_from: /news/186837
 ---
 
 Este miércoles 18 habrá lluvias de dispersas a moderadas con intervalos de chubascos (5.1 a 25 mm) en partes del suroeste, centro, sur, sureste y este del estado, principalmente en Chihuahua, Balleza, El Tule, Parral, Allende, Jiménez, Camargo y Manuel Benavides, informó la Coordinación Estatal de Protección Civil (CEPC).

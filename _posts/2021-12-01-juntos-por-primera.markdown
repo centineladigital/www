@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Alfonso Cuarón y Cate Blanchett trabajarán por primera vez y será para una serie. El mexicano Emmanuel Lubezki será el director de fotografía."
 image: "/uploads/2021/images-alfonso-cuaron-dirigira-serie-apple.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Juntos por primera vez! Alfonso Cuarón y Cate Blanchett trabajarán en una serie"
 front: false
 section: "Espectáculos"
-news_id: 190409
+redirect_from: /news/190409
 ---
 
 Alfonso Cuarón ha logrado ser uno de los directores más aclamados y aunque la mayoría lo conocen por su trabajo en el cine, el mexicano ahora trabajará de la mano de Apple TV Plus para lanzar una serie que contará con la participación de la actriz Cate Blanchett. Disclaimer es el título de la serie que Alfonso Cuarón prepara para Apple TV Plus. El ganador del Oscar por Roma y Gravity capitaneará la adaptación de la novela homónima de Renée Knight que estará protagonizada por Cate Blanchett y Kevin Kline. 

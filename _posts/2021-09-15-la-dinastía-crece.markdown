@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La pareja dio a conocer que están esperando a su primer bebé con una tierna fotografía. "
 image: "/uploads/2021/images-alex-fernandez-caso-viernes-novia_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡La dinastía crece! Alex Fernández y su esposa Alexia Hernández anuncian que serán padres"
 front: false
 section: "Espectáculos"
-news_id: 187757
+redirect_from: /news/187757
 ---
 
 Alex Fernández -hijo de Alejandro Fernández- y su esposa, Alexia Hernández, revelaron que muy pronto darán la bienvenida a un miembro más de la dinastía Fernández. La pareja, que se casó por el civil en mayo durante una íntima ceremonia en Guadalajara, compartió que ya se preparan para cumplir uno de sus más grandes sueños: convertirse en padres. A cuatro meses de su inesperada boda, el hijo de Alejandro Fernández sorprendió al revelar en una entrevista para la revista ¡Hola! que él y su pareja están esperando a su primer bebé; así dieron a conocer la noticia, un episodio más en su historia de amor.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Nueve municipios podrían recibir denuncias penales por observaciones de la ASE"
 image: "/uploads/2021/images-Auditoría_Superior_del_Estado.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Posibles denuncias penales en 9 municipios por irregularidades -  ASE"
 front: false
 section: "Local"
-news_id: 183100
+redirect_from: /news/183100
 ---
 
 Por lo menos nueve municipios del estado podrían recibir denuncias penales por 15 observaciones en las cuentas públicas del año 2019, esto de acuerdo al informe general de fiscalización superior de la cuenta pública, que realizó la Auditoría Superior del Estado de Chihuahua.

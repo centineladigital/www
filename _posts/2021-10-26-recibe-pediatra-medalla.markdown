@@ -10,11 +10,11 @@ author: nil
 description: "Con más de 20 años en la institución es reconocida por su trabajo."
 image: "/uploads/2021/images-medalla.jpg"
 video: "/uploads/2021/videos-MM03_ANA_NAVARRETE.mp4"
-audio: "nil"
+audio: nil
 alt: "Recibe pediatra Medalla al Mérito Médico"
 front: false
 section: "Local"
-news_id: 189218
+redirect_from: /news/189218
 ---
 
 Ana Elena Navarrete Ordóñez pediatra fue a quien se le otorgó la Medalla al Mérito Médico en su edición 2021, con lo que se reconoce a los médicos en la operación de la institución y su papel fundamental a la hora de brindar servicio de salud pública a los trabajadores de Gobierno del Estado.

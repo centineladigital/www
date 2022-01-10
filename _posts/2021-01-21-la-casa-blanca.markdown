@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La sección en español de la web se desactivó en 2017 y, aunque el primer secretario de prensa de Trump, Sean Spicer, dijo que la página se restauraría, nunca se llevó a cabo"
 image: "/uploads/2021/images-2515918.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La Casa Blanca recupera el español en su página web"
 front: false
 section: "Internacional"
-news_id: 182317
+redirect_from: /news/182317
 ---
 
 La Casa Blanca ha recuperado el español en su página web con la llegada de Joe Biden a la Presidencia de Estados Unidos y después de que desapareciese durante los cuatro años de mandato de su predecesor, Donald Trump.

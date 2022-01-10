@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solo se registran 56 nuevo casos y 11 defunciones."
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03_ARTURO_VALENZUELA.mp4"
 alt: "Continúa estable casos COVID"
 front: false
 section: "Local"
-news_id: 182998
+redirect_from: /news/182998
 ---
 
 Tanto en nuevos casos como en muertes se continúa con cifras estables en casos de coronavirus, esto ya que dentro de la estadística de actualización se registraron solamente 56 nuevos casos de personas infectadas y 11 muertes se acreditaron tras los protocolos debidos, según lo dio a conocer el titular de la Dirección Médica Zona Norte, Arturo Valenzuela Zorrilla.

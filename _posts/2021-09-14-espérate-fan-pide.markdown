@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de YouTube en donde se dio a conocer el momento en el que Danna Paola fue sorprendida por un fan en el Aeropuerto Internacional de México. Así vivió el momento. "
 image: "/uploads/2021/images-fan-pide-matrimonio-danna-paola.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Espérate -  Fan pide matrimonio a Danna Paola en Aeropuerto; video se hace viral"
 front: false
 section: "Espectáculos"
-news_id: 187711
+redirect_from: /news/187711
 ---
 
 Danna Paola, una de las actrices y cantantes más exitosas de México, se viralizó recientemente, luego de que uno de sus fans compartiera el momento en el que le pidió matrimonio en el Aeropuerto Internacional de México. ¿La intérprete de ‘Oye, Pablo’ aceptó? ¿Cómo tomó este gesto de uno de sus seguidores. Te contamos cómo fue este momento entre un fan y la cantante de Kaprichosa. Fue a través de YouTube en donde se dio a conocer el momento en el que Danna Paola fue sorprendida por un fan en el Aeropuerto Internacional de México. Aunque las imágenes son de tiempo atrás, es recién que salieron a flote y que acapararon la atención de los famosos. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El escenario planteado ocurre en medio de cuestionamientos a su actual gestión y la edad del mandatario, quién tiene 79 años. "
 image: "/uploads/2021/images-joe-biden-presidente-de-estados-25.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La Casa Blanca asegura que Biden tiene la intención de reelegirse como presidente"
 front: false
 section: "Internacional"
-news_id: 190110
+redirect_from: /news/190110
 ---
 
 El presidente de Estados Unidos, Joe Biden, no descarta presentarse a una reelección, así lo han dicho en la misma Casa Blanca, donde los medios locales afirman que tanto su comandante en jefe como su propio personal intentan calmar sus perspectivas políticas. 

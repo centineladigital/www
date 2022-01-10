@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Thalía sorprendió a su esposo, el empresario Tommy Mottola, pues en plena vía pública la cantante le dedicó un baile."
 image: "/uploads/2021/images-thalia-dedica-baile-sensual-tommy.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Thalía protagoniza divertido baile en plena vía pública; así reaccionó Tommy Mottola"
 front: false
 section: "Espectáculos"
-news_id: 184292
+redirect_from: /news/184292
 ---
 
 ¿Thalía es extrovertida? ¿Sólo es un personaje? Aunque algunos fans o haters tienen esas dudas, lo cierto es que la famosa disfruta de la vida sin importar el qué dirán. Ejemplo de ello es el divertido momento que protagonizó junto a su compañero de vida. Thalía sorprendió a su esposo, el empresario Tommy Mottola, pues en plena vía pública la cantante le dedicó un baile. Sin que la también actriz se diera cuenta, el magnate la grabó y momentos después compartió el sensual baile que la mexicana le regaló frente a su carro. A través de sus redes sociales, Tommy Mottola compartió el divertido momento en el que su pareja Thalía demostró que le importa poco el qué dirán. La mexicana bailó frente al carro en el que se encontraba el magnate y hasta ocupó un poste de luz. 

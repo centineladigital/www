@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Fue localizado solo y llorando en calles de la colonia La Esperanza  "
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-28_at_8.42.49_PM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ubican elementos de la SSPE a niño extraviado en Cuauhtémoc"
 front: false
 section: "Local"
-news_id: 191315
+redirect_from: /news/191315
 ---
 
 Elementos de la Secretaría de Seguridad Pública Estatal ubicaron en calles de colonia La Esperanza de Ciudad Cuauhtémoc, a un niño de 5 años que se extravió tras salir de su vivienda sin que sus padres lo notaran.

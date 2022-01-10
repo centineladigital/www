@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Abordada por varios medios de comunicación, Andrea Legarreta fue cuestionada sobre la actitud de Eduardo Yáñez, quien volvió a arremeter contra un reportero por algunas preguntas incómodas y supuestamente no guardar la sana distancia. "
 image: "/uploads/2021/images-reacciono-andrea-legarreta-pleito-eduardo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Andrea Legarreta reacciona a polémica pelea de Eduardo Yáñez con reportero de 'VLA'"
 front: false
 section: "Espectáculos"
-news_id: 182251
+redirect_from: /news/182251
 ---
 
 Luego de que Eduardo Yáñez protagonizara un nuevo enfrentamiento con un reportero de Venga la Alegría, por supuestamente no respetar la sana distancia, varios artistas se han posicionado sobre el tema. Aunque algunos han comprendido la actitud del actor, hay quienes han condenado la violencia. Tal es el caso de Andrea Legarreta, quien reprobó las agresiones y marcó fuerte su postura sobre el respeto. 

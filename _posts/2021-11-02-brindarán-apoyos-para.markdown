@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se instalará en el CEDEFAM módulo de asesorías para negocios y proyectos"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brindarán apoyos para impulsar la economía a vecinos de Punta Oriente"
 front: false
 section: "Local"
-news_id: 189478
+redirect_from: /news/189478
 ---
 
 En el marco de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Desarrollo Económico y Turístico, invita a los vecinos de Punta Oriente a conocer los programas de apoyo y asesoría para el desarrollo de negocios que tendrá el módulo de Impulso a la Economía Familiar (MIFAM).

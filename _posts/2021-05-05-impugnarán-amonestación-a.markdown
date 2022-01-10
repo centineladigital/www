@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma Antonio Piñon que se ve débil y confuso el criterio con el que fue juzgado."
 image: "/uploads/2021/images-PIÑON.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW05_ANTONIO_PIÑON.mp3"
 alt: "Impugnarán amonestación a Marco Quezada"
 front: false
 section: "Local"
-news_id: 184301
+redirect_from: /news/184301
 ---
 
 La resolución presentada por el Tribunal Estatal Electoral en donde se emite una amonestación al candidato de la Coalición “Juntos haremos historia en Chihuahua” será impugnada, según lo dio a conocer el vocero del partido de Movimiento de Regeneración Nacional, Antonio Piñón. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Cuatro hospitales se encuentran por encima del 80% de su capacidad"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suman 62,189 contagios y 6,145 muertes por COVID-19 en el estado"
 front: false
 section: "Local"
-news_id: 183993
+redirect_from: /news/183993
 ---
 
 El reporte diario de la pandemia por COVID-19 emitido por la Secretaría de Salud muestra que al 20 de abril van 62 mil 189 contagios acumulados, con 20 nuevos casos confirmados en las últimas horas.

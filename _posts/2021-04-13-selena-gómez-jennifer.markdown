@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Bajo el lema el concierto para reunificar al mundo, VAX LIVE busca promover la campaña de vacunación contra el coronavirus y reclamar que su distribución en todo el planeta sea igualitaria. "
 image: "/uploads/2021/images-vax-live-emitira-mayo-television.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Selena Gómez, Jennifer López y J Balvin darán concierto para promover vacuna anticovid"
 front: false
 section: "Espectáculos"
-news_id: 183844
+redirect_from: /news/183844
 ---
 
 ¿Imaginas un concierto con Selena Gómez, Jennifer López y J Balvin? Pues ahora será realidad, pues los artistas unirán sus voces en VAX LIVE, un espectáculo especial para promover la campaña de vacunación contra el coronavirus y para reclamar que su distribución en todo el planeta sea igualitaria. Bajo el lema "el concierto para reunificar al mundo", VAX LIVE se emitirá el próximo 8 de mayo por televisión y "streaming", contará con Selena Goméz como presentadora y en él actuarán estrellas como Jennifer López, J Balvin, Eddie Vedder, Foo Fighters o H.E.R.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Como parte de la festividad de Día de Muertos, Cerveza Victoria presenta un concierto con el Divo de Juárez, que reaparecerá para unir su voz a la de Lila Downs, María José y Moderatto."
 image: "/uploads/2021/images-la-voz-del-reencuentro-es.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Juan Gabriel regresa a los escenarios con 'La voz del reencuentro'"
 front: false
 section: "Espectáculos"
-news_id: 189400
+redirect_from: /news/189400
 ---
 
 La tradición marca que con la llegada del Día de los Muertos también se produce el reencuentro con nuestros seres queridos, y atendiendo a esa filosofía por octavo año consecutivo Cerveza Victoria ha preparado una experiencia especial, “La voz del reencuentro”, con grandes figuras del espectáculo, como Juan Gabriel, Cantinflas, Blue Demon, Lila Downs, María José y Moderatto. La voz del reencuentro es el título del concierto tributo, que inspirado en uno de los símbolos más representativos de esta fecha, como el cempasúchil, flor ancestral que sirve como puente para que aquellos que ya no están puedan reencontrarse con sus seres queridos que siguen en este plano terrenal; fue creado para unir al público con sus ídolos como Juan Gabriel, Cantinflas y Blue Demon. 

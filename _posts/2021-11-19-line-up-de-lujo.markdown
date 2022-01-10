@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Rafael Mendoza, Alejandro Filio y David Haro protagonizarán la noche desde El Cantoral."
 image: "/uploads/2021/images-rafael-mendoza-presentara-bohemia-hibrida.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Line-up de lujo! SACM presenta su primera bohemia híbrida"
 front: false
 section: "Espectáculos"
-news_id: 190027
+redirect_from: /news/190027
 ---
 
 Después de haberse adaptado a las exigencias de la pandemia, la Sociedad de Autores y Compositores Mexicanos (SACM) dará pie a la primera bohemia “híbrida” en El Cantoral. Por primera vez desde el inicio del confinamiento el Centro Cultural Roberto Cantoral abrirá sus puertas para recibir al público nuevamente en una presentación que esta noche se llevará a cabo de forma presencial y en línea. 

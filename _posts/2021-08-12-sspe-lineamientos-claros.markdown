@@ -12,11 +12,11 @@ author: nil
 description: "Que se den lineamientos claros en la regularización de vehículos es necesario, afirmó el titular de la Secretaría de Seguridad Pública Estatal, Emilio García Ruiz"
 image: "/uploads/2021/images-emilio_garcia.png"
 video: "/uploads/2021/videos-MJ01_EMILIO_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "SSPE lineamientos claros en los chuecos"
 front: false
 section: "Local"
-news_id: 186621
+redirect_from: /news/186621
 ---
 
 El funcionario señaló que más que nada se tiene que ver las condiciones con el fin de que no se apertura la frontera para internar más vehículos. 

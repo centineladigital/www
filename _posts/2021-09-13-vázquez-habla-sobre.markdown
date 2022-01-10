@@ -14,11 +14,11 @@ author: nil
 description: "Es una estrategia  que está tomando Maru campos para saldar deudas de corto plazo."
 image: "/uploads/2021/images-MARIO.jpg"
 video: "/uploads/2021/videos-BL02_MARIO_VAZQUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Vázquez habla sobre los 800 millones de pesos que pidió Maru Campos"
 front: false
 section: "Local"
-news_id: 187683
+redirect_from: /news/187683
 ---
 
 Respecto a que el Estado pidió su primer préstamo el presidente del congreso del estado  Mario Vázquez comento que es una estrategia  que está tomando Maru campos para saldar deudas de corto plazo.

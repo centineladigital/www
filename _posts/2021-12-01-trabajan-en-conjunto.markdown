@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El programa consta en cambiar armas de fuego por una cantidad de dinero"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabajan en conjunto Municipio y SEDENA en reducir actos delictivos con canje de armas"
 front: false
 section: "Local"
-news_id: 190399
+redirect_from: /news/190399
 ---
 
 El presidente municipal, Marco Bonilla, invitó a la  ciudadanía a participar en el programa de “Canje de Armas”, el cual, tiene el objetivo de cambiar un arma de fuego por dinero y promover una sociedad pacífica, además de reducir los índices delictivos que su uso, genera.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La organización estuvo a cargo de la Universidad en coordinación con la Presidencia Municipal de Casas Grandes"
 image: "/uploads/2021/images-8_SED.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Realiza UT Paquimé el Festival de Día de Muertos 2021"
 front: false
 section: "Local"
-news_id: 189512
+redirect_from: /news/189512
 ---
 
 El Día de Muertos en México resulta una de las tradiciones más significativas y emblemáticas de nuestro país alrededor del mundo, es por ello que la Universidad Tecnológica de Paquimé (UT Paquimé) realizó en conjunto con la Presidencia Municipal de Casas Grandes el Festival de Día de Muertos “Tradición que vive”.

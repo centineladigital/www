@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La obra era solicitada por habitantes y usuarios del parque para disminuir el tráfico"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca Alcalde modernización en crucero de la presa El Rejón"
 front: false
 section: "Local"
-news_id: 188112
+redirect_from: /news/188112
 ---
 
 El alcalde de Chihuahua Marco Bonilla, en compañía del director de Obras Públicas Municipales Rodolfo Armendáriz, iniciaron los trabajos de construcción del retorno en el cruce de la prolongación Teófilo Borunda y avenida Pedro Zuloaga, la cual se prevé durar cuatro meses.

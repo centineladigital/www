@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El cual está conformado por parte de 7 regiones, incluyendo a la región tarahumara."
 image: "/uploads/2021/images-OSCAR.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ08_OSCAR_IBAÑEZ.mp3"
 alt: "Instalan Consejo Estatal Hídrico"
 front: false
 section: "Local"
-news_id: 183552
+redirect_from: /news/183552
 ---
 
 Este jueves fue instalado el Consejo Estatal Hídrico 2040, el cual está conformado por parte de 7 regiones. Incluyendo a la región tarahumara según lo dio a conocer Oscar Ibáñez, titular de la Junta Central de Agua.

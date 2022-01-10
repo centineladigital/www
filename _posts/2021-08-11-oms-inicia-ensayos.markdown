@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los tres fármacos formarán parte de la segunda fase de ensayos Solidarity, que en su primera etapa no logró resultados positivos tras probar en pacientes cuatro tratamientos"
 image: "/uploads/2021/images-covid_pandemia_ap.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "OMS inicia ensayos con 3 nuevos posibles tratamientos contra el coronavirus"
 front: false
 section: "Internacional"
-news_id: 186550
+redirect_from: /news/186550
 ---
 
 La Organización Mundial de la Salud (OMS) anunció hoy el inicio de ensayos en pacientes hospitalizados con tres nuevos posibles tratamientos contra el coronavirus en los que se usarán los fármacos Artesunate (producido por la farmacéutica Ipca), Imatinib (de Novartis) e Infliximab (de Johnson & Johnson).

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De manera sorpresiva, se ha dado a conocer que Guillermo del Toto se casó hace unos meses con la guionista Kim Morgan."
 image: "/uploads/2021/images-guillermo-del-toro-y-la.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Una boda secreta! Guillermo del Toro se casó con Kim Morgan"
 front: false
 section: "Espectáculos"
-news_id: 189784
+redirect_from: /news/189784
 ---
 
 Guillermo del Toro es uno de los directores mexicanos más reconocidos en Hollywood y quien gracias a su trabajo ha logrado ganar varios premios, entre ellos, algunos Oscar. Aunque se sabe poco sobre su vida privada, recientemente se reveló que el director se casó en secreto con la guionista Kim Morgan. Fue durante la Art + Film Gala del Museo de Arte de Los Ángeles, Guillermo del Toro presentó a Kim Morgan como su esposa, por lo que con esto el director confirmó que ya se casó con la guionista con quien que desde el 2018 se le veía en diferentes eventos.

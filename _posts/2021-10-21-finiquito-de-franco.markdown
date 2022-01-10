@@ -18,11 +18,11 @@ author: nil
 description: "El tema se va a investigar, ya que son cosas que solo se ha hablado con los medios de comunicación"
 image: "/uploads/2021/images-F87F097F-EC99-4E7A-8DCF-202573770CE4-750x406.jpeg"
 video: "/uploads/2021/videos-BJ03_LETICIA_ORTEGA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Finiquito de Franco no se ha hablado con el auditor superior "
 front: false
 section: "Local"
-news_id: 189049
+redirect_from: /news/189049
 ---
 
  La diputada del grupo parlamentario de Morena, Leticia Ortega declaró, que no se han tenido pláticas con el Auditor Superior del Estado sobre el caso de la síndica Olivia Franco, quien recibió casi 80 mil pesos de un supuesto  finiquito y quien ha dado mucho de qué hablar por la supuesta adquisición de este dinero de manera irregular.

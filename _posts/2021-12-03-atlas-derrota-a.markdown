@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Atlas sacó ventaja de Ciudad Universitaria para la vuelta de las semifinales del Apertura 2021"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atlas derrota a Pumas y se lleva la ventaja en la semifinal de ida del Apertura 2021"
 front: false
 section: "Deportes"
-news_id: 190454
+redirect_from: /news/190454
 ---
 
 Aquel Pumas que salió victorioso del Estadio Azteca no se vio esta noche en el Olímpico Universitario ante unos Atlas que hicieron un juego casi perfecto. Mucha garra, poco futbol. Los Rojinegros se impusieron 1-0 en Ciudad Universitaria para llevarse a su casa una ventaja que los mantiene en su cuento de hadas.

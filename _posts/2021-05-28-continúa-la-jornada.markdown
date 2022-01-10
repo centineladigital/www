@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este sábado 29 de mayo, todos los centros de salud atenderán de las 8:00 de la mañana a las 6:00 de la tarde, en modalidad peatonal; es estrictamente necesario presentar cartilla de vacunación para completar el esquema de los menores"
 image: "/uploads/2021/images-WhatsApp_Image_2021-05-28_at_1.39.39_PM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúa la jornada extraordinaria de vacunación contra sarampión en la capital del estado"
 front: false
 section: "Local"
-news_id: 184719
+redirect_from: /news/184719
 ---
 
 La Secretaría de Salud estatal informó que este sábado 29 de mayo continúa la aplicación de vacunas contra el sarampión, rubéola y otras para completar esquemas de vacunación para niñas y niños en todos los centros de salud de la ciudad de Chihuahua.

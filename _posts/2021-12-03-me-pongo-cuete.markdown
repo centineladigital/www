@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de redes sociales en donde se retomó el video en el que la famosa Lucía Méndez ‘metió la pata’ durante una entrevista. "
 image: "/uploads/2021/images-lucia-mendez-viral-confundir-tempranillo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me pongo cuete -  Lucía Méndez se hace viral por error en entrevista; confundió uva de vino con el tiempo 'tempranillo'"
 front: false
 section: "Espectáculos"
-news_id: 190462
+redirect_from: /news/190462
 ---
 
 Lucía Méndez, famosa actriz y cantante, causó sensación en las redes sociales, pues se volvió viral por un error que tuvo a la hora de hablar del vino. Y es que la famosa confundió la uva tempranillo –con el que se fábrica los vinos tintos– con el tiempo –con el decir ‘es tempranillo’-. Te contamos lo que sucedió con la cantante. Fue a través de redes sociales en donde se retomó el video en el que la famosa ‘metió la pata’ durante una entrevista. Y es que la cantante se equivocó durante la charla que tuvo con la periodista de espectáculos y  ex participante de Masterchef Celebrity México, Matilde Obregón. 

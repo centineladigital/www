@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Rusia anuncia el registro de la 'Kovivak', su tercera vacuna contra el covid-19, cuyas primeras dosis estarán listas a mediados de marzo "
 image: "/uploads/2021/images-2532790.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rusia registra la 'Kovivak', su tercera vacuna contra covid-19"
 front: false
 section: "Internacional"
-news_id: 183066
+redirect_from: /news/183066
 ---
 
 Rusia registró su tercera vacuna contra el covid-19, etapa previa a la fase final de ensayos clínicos, anunció este sábado el primer ministro.

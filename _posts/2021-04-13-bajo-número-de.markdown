@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Piden estar al pendiente de personas que se aplicaron la vacuna."
 image: "/uploads/2021/images-LETICIA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM02_LETICIA_RUIZ.mp3"
 alt: "Bajo número de casos de personas afectadas por la vacuna -  Salud"
 front: false
 section: "Local"
-news_id: 183865
+redirect_from: /news/183865
 ---
 
 Pese a que en países europeos se registraron casos de secuelas y muertes por la aplicación de las vacunas, en el estado se ha tenido un bajo número de casos relacionados con la aplicación de las inoculaciones, señaló la Directora de Medicina Preventiva y Promoción de la Salud, Leticia Ruiz González.

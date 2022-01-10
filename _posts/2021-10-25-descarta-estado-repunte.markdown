@@ -10,11 +10,11 @@ author: nil
 description: "Registrarán operativos para prevención de alza en los índices."
 image: "/uploads/2021/images-MARU1.jpg"
 video: "/uploads/2021/videos-ML01_MARU_CAMPOS.mp4"
-audio: "nil"
+audio: nil
 alt: "Descarta estado repunte de violencia por detención de El Jaguar"
 front: false
 section: "Local"
-news_id: 189169
+redirect_from: /news/189169
 ---
 
 “Estamos atentos, pero esto no quiere decir que vaya a haber un repunte en la violencia” fueron las palabras de la Gobernadora de Chihuahua, María Eugenia Campos Galván, al ser cuestionada sobre la detención de Francisco N., alias El Jaguar, perteneciente al Cartel del Pacífico.

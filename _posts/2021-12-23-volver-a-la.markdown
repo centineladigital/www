@@ -16,11 +16,11 @@ author: nil
 description: " La desición del INE quebrantaba el artículo 29 de la constitución política"
 image: "/uploads/2021/images-amlo-revocacion-mandato.jpg"
 video: "/uploads/2021/videos-BJ01_AMLO_.mp4"
-audio: "nil"
+audio: nil
 alt: "“Volver a la revocación buena decisión de la corte”"
 front: false
 section: "Local"
-news_id: 191174
+redirect_from: /news/191174
 ---
 
 El presidente Andrés Manuel López Obrador manifestó que fue una buena decisión que la  Suprema Corte de Justicia de la Nación haya obligado al Instituto Nacional Electoral para que se lleve a cabo la revocación de mandato.

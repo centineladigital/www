@@ -10,11 +10,11 @@ author: nil
 description: "Se verán beneficiadas 154 escuelas."
 image: "/uploads/2021/images-CALENTONES.jpg"
 video: "/uploads/2021/videos-MM01_JAVIER_GONZALEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Inicia entrega de calentones para escuelas"
 front: false
 section: "Local"
-news_id: 189888
+redirect_from: /news/189888
 ---
 
 Calentones para beneficio de 154 escuelas fueron entregados este martes por parte de la Secretaría de Educación y Deporte, mientras que otras 200 que encuentran siendo validadas para la entrega de calefactores, según fue dado a conocer por parte de Javier González Mocken, titular de la dependencia.

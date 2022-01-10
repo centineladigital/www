@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Por primera ocasión el Estado reconoció plena responsabilidad por las omisiones y falta de debida diligencia en la investigación"
 image: "/uploads/2021/images-4.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Estado histórica disculpa pública"
 front: false
 section: "Local"
-news_id: 186468
+redirect_from: /news/186468
 ---
 
 En aras de reivindicar la memoria de la niña Sonia Iveth Sánchez Ramírez y/o Sonia Iveth Ramírez Ramírez, y los derechos humanos de su familia, la Fiscalía General del Estado, a través de la Fiscalía de la Mujer, brindó una histórica disculpa pública por la serie de omisiones cometidas por las y los servidores públicos responsables de investigar su secuestro y posterior homicidio.

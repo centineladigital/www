@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Construyen alcaldes de diferentes partidos, agenda con proyectos en común"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa Marco Bonilla en el fortalecimiento del municipalismo de las 31 capitales del país"
 front: false
 section: "Local"
-news_id: 189748
+redirect_from: /news/189748
 ---
 
 A través de su cuenta de Twitter @Soymarcobonilla, el Presidente Municipal de Chihuahua, informó sobre la reunión entre alcaldes de Acción Nacional, Revolucionario Institucional, Movimiento Ciudadano e Independiente, para construir una agenda de trabajo en común con el objetivo de fortalecer los municipios, compartir ideas y proyectos para mejorar los servicios y políticas públicas.

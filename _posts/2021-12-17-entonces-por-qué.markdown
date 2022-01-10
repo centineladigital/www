@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Desde hace años, el presentador es blanco de burlas y memes por su edad; sin embargo, está lejos de ser la celebridad más longeva de México. "
 image: "/uploads/2021/images-volvio-tendencia-chabelo-comparten-imagen.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Entonces por qué los memes? Celebridades mexicanas que son mayores que Chabelo"
 front: false
 section: "Espectáculos"
-news_id: 190991
+redirect_from: /news/190991
 ---
 
 Chabelo es una de las personalidades mexicanas más populares, y es que el hombre que sería encargado de conducir el memorable programa En familia con Chabelo es un ícono de la televisión en nuestro país; sin embargo, Xavier López también es blanco de burlas debido a sus 86 años, pues a través de memes, los internautas llevan años haciendo referencia a la edad del actor y conductor. Sin embargo, el presentador está lejos de ser la personalidad más longeva del espectáculo mexicano, y aquí te decimos el nombre de ealgunas celebridades que son mayores que Chabelo. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El capitán de Astros de Jalisco dijo que deben darlo todo ante Fuerza Regia. "
 image: "/uploads/2021/images-karim-rodriguez-jugador-astros-jalisco.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“No podemos dar excusas” -  Karim Rodríguez"
 front: false
 section: "Deportes"
-news_id: 190037
+redirect_from: /news/190037
 ---
 
 En Astros de Jalisco entienden que a estas alturas de los playoffs, las lesiones no deben servir como pretexto. Luego de perder los dos juegos en casa, el equipo de Sergio Valdeolmillos tiene que dejar atrás las caídas y pensar en sacar un triunfo en el juego 3 que se disputa este domingo en Monterrey. 

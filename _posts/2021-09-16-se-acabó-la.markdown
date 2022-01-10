@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que recursos serán utilizados para beneficio de los chihuahuenses."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MJ01_MARU_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se acabó la ineficiencia -  Gobernadora"
 front: false
 section: "Local"
-news_id: 187793
+redirect_from: /news/187793
 ---
 
 Dentro del discurso de la ceremonia conmemorativa al aniversario de la independencia de México la Gobernadora, María Eugenia Campos Galván, señaló que con el actual gobierno se acabaría la ineficiencia, esto señalando al gobierno anterior el cual dejó medicamento caducar.

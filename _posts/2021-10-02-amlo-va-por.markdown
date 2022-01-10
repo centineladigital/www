@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Plantea dar a CFE control del sector y para fijar tarifas; elimina comisiones reguladoras y agrega reglas para el manejo del litio"
 image: "/uploads/2021/images-amlo_va_por_tiro_de_gracia_a_reforma_energetica.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO va por tiro de gracia a reforma energética"
 front: false
 section: "Nacional"
-news_id: 188307
+redirect_from: /news/188307
 ---
 
 El presidente Andrés Manuel López Obrador envió al Congreso la iniciativa de reforma eléctrica, que contempla el control del sector por parte de la Comisión Federal de Electricidad (CFE), eliminando desde reguladores autónomos, como la Comisión Reguladora de Energía (CRE) y la Comisión Nacional de Hidrocarburos (CNH), que le impedían asumir ese control, hasta la competencia privada en generación y venta de energía.

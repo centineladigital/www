@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Recibe el galardón la pediatra Ana Elena Navarrete Ordóñez por 20 años se servicio"
 image: "/uploads/2021/images-unnamed_(13).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega gobernadora Maru Campos  Premio Pensiones Civiles del Estado al Mérito Médico   "
 front: false
 section: "Local"
-news_id: 189227
+redirect_from: /news/189227
 ---
 
 En el marco del Día del Médico, la gobernadora Maru Campos Galván entregó a la pediatra Ana Elena Navarrete Ordóñez el Premio Pensiones al Mérito Médico, en su edición XXXIX por 20 años de servicio, actividad docente y de investigación en el Salón Rojo de Palacio de Gobierno.

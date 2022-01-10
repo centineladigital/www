@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Cruz Azul viajó a Cancún para realizar su pretemporada, pero lo hizo con algunas ausencias considerables"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cruz Azul se fue de pretemporada sin Orbelín Pineda, Yotún y Passerini"
 front: false
 section: "Deportes"
-news_id: 190822
+redirect_from: /news/190822
 ---
 
 Cruz Azul partió a realizar su pretemporada en playa. La Máquina estará una semana en el puerto de Cancún. En la salida estuvo gente como Jesús Corona, Pablo Aguilar, Luis Romo, Roberto Alvarado, Jonathan Rodríguez, Santiago Giménez, entre otros.

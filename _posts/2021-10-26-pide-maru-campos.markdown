@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Asistió a ciudad Delicias a la ceremonia de cierre del Foro de Desarrollo Agropecuario, para la consolidación del Plan Estatal de Desarrollo 2022-2027 en el sector agrícola"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pide Maru Campos a agricultores del centro-sur a seguir trabajando en equipo"
 front: false
 section: "Local"
-news_id: 189187
+redirect_from: /news/189187
 ---
 
 Durante la ceremonia de cierre del Foro de Desarrollo Agropecuario celebrado en ciudad Delicias, la gobernadora Maru Campos Galván llamó a los productores de la región centro-sur del estado a seguir trabajando, en equipo para que se plasmen los acuerdos tomados en esta reunión y así, hacer que las cosas sucedan.

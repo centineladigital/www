@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¿Es ella? A través de redes sociales se ha hecho viral un video en el que presuntamente aparece Adela Noriega luciendo una atlética figura y mucho más joven. ¿Regresa a las telenovelas de Televisa? ¿Es fake? "
 image: "/uploads/2021/images-adela-noriega-reaparece-anos-alejada.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Regresa a Televisa? Filtran supuesto video de Adela Noriega tras años lejos de la TV; fans reaccionan"
 front: false
 section: "Espectáculos"
-news_id: 183903
+redirect_from: /news/183903
 ---
 
 ¿Recuerdas a Adela Noriega? La actriz de Televisa ha generado a lo largo de los años misterio sobre su ausencia ante las cámaras. Y es que es desde hace 13 años no se sabe casi nada de la protagonista de exitosas telenovelas como “Alborada”, “Quinceañera”, “Amor real” y “El Manantial”. Sin saber casi nada sobre su vida privada, mucho se ha hablado del tema. Algunos aseguraban que la famosa vivía en el extranjero, otros especulaban que en Polanco y que incluso había tenido un hijo de un poderoso político. Sin embargo, entre los dimes y diretes, recientemente salió a la luz un video en donde presuntamente la famosa se dejó ver. ¿Regresará a la televisión? ¿Vuelve al medio? ¿Hará nueva novela? A través de redes sociales se ha hecho viral un video en el que presuntamente aparece Adela Noriega luciendo una atlética figura y mucho más joven de cómo antes lucía en sus famosas novelas.

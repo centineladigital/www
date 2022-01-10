@@ -10,11 +10,11 @@ author: nil
 description: "Participarán jovenes de 12 a 29 años."
 image: "/uploads/2021/images-JUVENTUD.jpg"
 video: "/uploads/2021/videos-MM04_SELMA_ORTEGA.mp4"
-audio: "nil"
+audio: nil
 alt: "Invitan a participar en Premios Juventud"
 front: false
 section: "Local"
-news_id: 189885
+redirect_from: /news/189885
 ---
 
 Este martes fue dada a conocer la convocatoria para Premios Juventud 2021, que contará con seis categorías en diversas etapas según lo dio a conocer la Directora del Instituto, Selma Mariana Ortega Mendoza, quien dijo que los interesados tendrán que llenar un formulario que se encuentra en la página.

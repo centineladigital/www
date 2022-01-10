@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esta obra es parte del Presupuesto Participativo 2020"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura Gobierno Municipal gimnasio de box en la colonia Sahuaros"
 front: false
 section: "Local"
-news_id: 182734
+redirect_from: /news/182734
 ---
 
 Vecinos de la colonia Sahuaros y zonas aledañas tienen a su disposición un nuevo gimnasio de box, mismo que fue inaugurado por la alcaldesa María Angélica Granados Trespalacios, quien encabezó el corte de listón inaugural de este espacio deportivo que se ubica en la avenida Guillermo Prieto Luján, al norte de la ciudad.

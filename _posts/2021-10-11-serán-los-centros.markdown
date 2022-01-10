@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Medios de integración para la atención directa de las familias chihuahuenses"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Serán los centros comunitarios el eje principal del DIF Municipal en esta administración"
 front: false
 section: "Local"
-news_id: 188567
+redirect_from: /news/188567
 ---
 
 Con el objetivo de fortalecer la relación entre las 48 unidades de los centros comunitarios municipales a cargo del DIF Municipal, los coordinadores y trabajadores, mostraron las actividades que realizan a la presidenta, Karina Olivas Maldonado.

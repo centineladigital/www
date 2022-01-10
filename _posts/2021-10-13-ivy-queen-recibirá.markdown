@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante será una de las estrellas y personalidades de la industria musical latina que recibirán el reconocimiento 'Leading Ladies of Entertainment'. "
 image: "/uploads/2021/images-ivy-queen-homenajeada-premios-latin_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ivy Queen recibirá homenaje en los premios Latin Grammy 2021"
 front: false
 section: "Espectáculos"
-news_id: 188707
+redirect_from: /news/188707
 ---
 
 En medio de la disputa entre Residente y J Balvin debido a la falta de nominaciones para los astros del género urbano a los premios Latin Grammy 2021, la Academia de la Grabación dio a conocer que Ivy Queen, Mia Nygren, Mónica Vélez y Mayna Nevarez serán las mujeres premiadas este año con el título Leading Ladies of Entertainment, un reconocimiento especial que se entrega en la semana de la gala. La organización a cargo de los Latin Grammy anunció este miércoles las homenajeadas en la quinta edición del galardón, que en otras ediciones fue para artistas como Selena Gómez y Lila Downs y periodistas como María Elena Salinas. 

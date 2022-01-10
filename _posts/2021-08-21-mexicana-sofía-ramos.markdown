@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La atleta mexicana se proclamó la campeona mundial de esta prueba tras cruzar la meta en 46:23.01 minutos"
 image: "/uploads/2021/images-sofia-ramos-medalla-oro-mundial_1_77_1198_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mexicana Sofía Ramos gana el oro en 10 mil metros de marcha en el Mundial Sub 20"
 front: false
 section: "Deportes"
-news_id: 186966
+redirect_from: /news/186966
 ---
 
 Sofía Ramos Rodríguez prolongó el brillante historial de la caminata mexicana al proclamarse campeona mundial Sub 20 de 10 mil metros marcha en Nairobi con un tiempo de 46:23.01. La atleta becada por el INDE, originaria de Nuevo León, cruzó la meta por delante de la francesa Maere Biré-Heslouis (47:43.87) y de la checa Eliska Martinkova (47:46.28). 

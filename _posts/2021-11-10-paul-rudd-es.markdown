@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor conocido por interpretar a Ant- Man fue nombrado el hombre vivo más sexy del 2021, lista que han encabezado famosos como John Legend, Dwayne Johnson, Chris Hemsworth, Adam Levine y David Beckham. "
 image: "/uploads/2021/images-paul-rudd-hombre-vivo-sexy_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Paul Rudd es nombrado el hombre más sexy del mundo; así reaccionó -  Estaré en muchos más yates"
 front: false
 section: "Espectáculos"
-news_id: 189743
+redirect_from: /news/189743
 ---
 
 Antes de terminar el año se dan a conocer datos estadísticos de las estrellas de Hollywood, desde los actores mejor pagados hasta los que triunfaron en las taquillas de todo el mundo con sus nuevos proyectos cinematográficos. Ahora fue la revista People la que sorprendió al coronar al actor Paul Rudd como el “hombre vivo más sexy” del 2021. La distinción a Paul Rudd, conocido por sus papeles protagónicos en las películas de Marvel Ant-Man: el hombre hormiga, Bienvenido a los 40 y Clueless (Ni idea), fue anunciada el martes en la noche en el programa de la televisora CBS The Late Show with Stephen Colbert. 

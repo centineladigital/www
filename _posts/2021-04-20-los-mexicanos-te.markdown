@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En 1970, Cantinflas fue el encargado de entregarle un premio al cantante Ray Charles. Con emotivo mensaje, Mario Moreno conmovió al músico. "
 image: "/uploads/2021/images-cantinflas-entrego-premio-ray-charles_30_0_1046_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Los mexicanos te aman -  El día que 'Cantinflas' le entregó un premio a Ray Charles"
 front: false
 section: "Espectáculos"
-news_id: 183983
+redirect_from: /news/183983
 ---
 
 El actor Mario Moreno, mejor conocido como Cantinflas logró gran popularidad en México gracias a sus cómicas películas que siempre lograban sacar más de una risa a las personas que las veían. El éxito de Cantinflas le permitió a Mario Moreno trabajar en Hollywood y conocer diversas personalidades. En 1970, el actor tuvo la oportunidad de conocer e incluso entregarle un premio al cantante Ray Charles, uno de los pioneros en la música soul, quien destacó por su voz e incluso la revista Rolling Stone lo agregó a su lista de los 100 grandes cantantes de todos los tiempos. 

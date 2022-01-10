@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El estratega peruano señala que lo imperativo para la institución cementera, en el corto, o mediano plazo, no es otra cosa que el título de la Liga MX, pues es el que la afición espera con ansias"
 image: "/uploads/2021/images-2537783.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mística celeste; la era de Juan Reynoso en Cruz Azul"
 front: false
 section: "Deportes"
-news_id: 183219
+redirect_from: /news/183219
 ---
 
 Juan Reynoso quiere recobrar la mística que tenía aquel Cruz Azul que se coronó campeón en el Invierno 97 debido a que el estratega peruano ha encontrado varias similitudes entre la situación que actualmente atraviesa el equipo celeste y las que vivió cuando conquistó el octavo título de liga La Máquina, pues tiene muy claro que por más trofeos que se ganen, el único que traerá felicidad a los aficionados será el de campeón de la Liga MX.

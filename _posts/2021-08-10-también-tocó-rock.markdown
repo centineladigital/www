@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ekhymosis fue el primer proyecto musical de Juanes, con el que se ganó al público más rockero en Colombia. "
 image: "/uploads/2021/images-te-contamos-la-historia-de-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡También tocó rock! Así fue el pasado metalero de Juanes"
 front: false
 section: "Espectáculos"
-news_id: 186515
+redirect_from: /news/186515
 ---
 
 Juanes es uno de los artistas pop latinoamericanos más famosos de los últimos años. El colombiano ha reflejado todo su éxito y esfuerzo con 24 premios en el Grammy Latino. Sin embargo, Juan Esteban Aristizábal Vásquez tiene un pasado en la música metal que no todos conocen. 

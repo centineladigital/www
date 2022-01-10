@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se efectúan acciones para garantizar la seguridad de los visitantes"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-10_at_15.46.31.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-09-10_at_15.46.18.mp4"
 alt: "Anuncia DIF Estatal cierre temporal del parque “El Colibrí”"
 front: false
 section: "Local"
-news_id: 187636
+redirect_from: /news/187636
 ---
 
 El DIF Estatal Chihuahua dio a conocer que a partir de este domingo se llevará a cabo el cierre temporal del Parque “El Colibrí”, esto luego de detectar algunas anomalías en estructuras que podrían poner en riesgo la integridad de los visitantes.

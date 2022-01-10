@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Tan sólo esta semana sostuvieron 34 reuniones"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabaja Policía de Proximidad en detección de problemáticas con los Comités de Vecinos"
 front: false
 section: "Local"
-news_id: 188796
+redirect_from: /news/188796
 ---
 
 Con el objetivo de detectar las principales problemáticas referentes a la seguridad pública y otros rubros en los que se puedan intervenir, elementos de la Dirección de Seguridad Pública Municipal (DSPM) adscritos al grupo de Proximidad han sostenido reuniones constantes con los Comités de Vecinos de diferentes colonias de la ciudad.

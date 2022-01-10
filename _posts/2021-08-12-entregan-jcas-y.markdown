@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con inversión bipartita de 346 mil pesos la obra beneficia a 2 mil 628 habitantes de familias asentadas en la cabecera municipal y en las comunidades aledañas, informa la Junta Central de Agua y Saneamiento"
 image: "/uploads/2021/images-POI_Casas_Grandes_1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan JCAS y Municipio de Casas Grandes Planta de Osmosis Inversa"
 front: false
 section: "Local"
-news_id: 186608
+redirect_from: /news/186608
 ---
 
 La Junta Central de Agua y Saneamiento del Estado (JCAS), la Presidencia Municipal de Casas Grandes y la Junta Municipal de Agua y Saneamiento (JMAS) inauguraron una Planta de Osmosis Inversa (POI), que beneficiará a 2 mil 628 habitantes.

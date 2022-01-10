@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este día se reportan un total de 268 personas hospitalizadas y 73 intubadas, además la ocupación general en los nosocomios es del 53.7 por ciento y de los intubados es de 43.5 por ciento."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 291 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 191121
+redirect_from: /news/191121
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 22 de diciembre el reporte COVID-19, en el cual se registran 90 mil 977 (+291) personas confirmadas en la entidad por este padecimiento, 77 mil 710 (+360) casos recuperados, 87 mil 257 (+350) descartados y 1,133 (+29) casos sospechosos.

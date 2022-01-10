@@ -14,11 +14,11 @@ author: nil
 description: "Campos señaló que mediante el 072 se pueden reportar problemáticas como bacheo, basura, escombros entre otros"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-18_at_10.44.08.jpeg"
 video: "/uploads/2021/videos-BL03_JUAN_CAMPOS_.mp4"
-audio: "nil"
+audio: nil
 alt: "Juan Campos visita zona sur "
 front: false
 section: "Local"
-news_id: 188876
+redirect_from: /news/188876
 ---
 
 El regidor del PAN Juan Campos visitó diversas colonias, para conocer las necesidades que presenta este sector , exhorto a la comunidad a usar la aplicación marca el cambio a través del 072 .

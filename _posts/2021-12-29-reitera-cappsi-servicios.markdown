@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Los servicios de atención psicológica están disponibles en un horario de 9AM a 2PM"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reitera CAPPSI servicios de atención a la población en fiestas decembrinas"
 front: false
 section: "Local"
-news_id: 191319
+redirect_from: /news/191319
 ---
 
 El Gobierno Municipal, a través del Centro de Atención y Prevención Psicológicas (CAPPSI), continúa ofreciendo sus servicios de atención psicológica durante el periodo vacacional que tienen escuelas y en diversos trabajos.

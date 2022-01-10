@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante suma millones de seguidores en redes sociales que están pendientes de su día a día así como de su carrera. "
 image: "/uploads/2021/images-paulina-rubio-tomado-gracia-equivocaciones_0_51_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Paulina Rubio antes y después -  'La Chica Dorada' comparte foto en traje de baño a sus 50 años y las redes 'estallan'"
 front: false
 section: "Espectáculos"
-news_id: 188994
+redirect_from: /news/188994
 ---
 
 Paulina Rubio fue una de las celebridades pop más importantes en los 2000, y actualmente continua siendo un referente en la industria musical, por lo que tanto su carrera como su vida privada siguen dando de qué hablar en redes sociales. Tal es el caso de un video que se hizo viral en el que la cantante aparece bailando en traje de baño en TikTok. Y es que los usuarios señalaron cuánto ha cambiado a lo largo del tiempo y lo asombrosa que luce actualmente, a unos meses de haber cumplido 50 años. 

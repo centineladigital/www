@@ -14,11 +14,11 @@ author: nil
 description: "Con el objetivo de estar al tanto  sobre las acciones ejecutadas en pro de la ciudadanía en materia de seguridad"
 image: "/uploads/2021/images-unnamed_(8).jpg"
 video: "/uploads/2021/videos-CM_Mesa_de_Seguridad_Estatal_Nov_8.mp4"
-audio: "nil"
+audio: nil
 alt: " Atiende Estado necesidades de chihuahuenses en materia de seguridad; supervisa Gobernadora operativos en Mesa Estatal de Seguridad"
 front: false
 section: "Local"
-news_id: 189652
+redirect_from: /news/189652
 ---
 
 Con el objetivo de dar continuidad al compromiso del Gobierno del Estado de velar por la seguridad de las y los chihuahuenses, la gobernadora Maru Campos Galván se reunió la mañana de este lunes con autoridades del orden estatal y federal, para dar seguimiento a las estrategias en materia de seguridad que se han implementado en el Estado de Chihuahua durante los últimos días.

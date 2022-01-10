@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se aplicará el refuerzo a las y los adultos mayores de 60 años y más que recibieron su segunda dosis hace 6 meses"
 image: "/uploads/2021/images-unnamed_(10).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca en Chihuahua vacunación de refuerzo contra COVID-19 para adultos mayores"
 front: false
 section: "Local"
-news_id: 190772
+redirect_from: /news/190772
 ---
 
 La Secretaría de Salud del Estado de Chihuahua, en coordinación con las instituciones que participan en la vacunación contra COVID-19, informa que del 13 al 16 de diciembre se aplicará el refuerzo para adultos mayores de 60 años y más en la ciudad de Chihuahua.

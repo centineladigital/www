@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se intercambiarán árboles por aparatos electrónicos que ya no sirvan."
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Feria del reciclaje electrónico se llevará a cabo del 26 al 28 de noviembre   "
 front: false
 section: "Local"
-news_id: 190145
+redirect_from: /news/190145
 ---
 
 En el marco de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, invita a la ciudadanía a ser participes de la feria del reciclaje electrónico, los próximos 26, 27 y 28 de noviembre, en la explanada del parque El Palomar, en un horario de 10:00 am a 5:00 pm.

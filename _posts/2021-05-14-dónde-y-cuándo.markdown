@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Faltan pocos días para conocer a la ganadora de Miss Universo 2021; si no quieres perderte una noche de glamour y belleza, aquí te compartimos todo lo que debes saber del concurso. "
 image: "/uploads/2021/images-faltan-pocos-dias-para-conocer_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dónde y cuándo ver el certamen de belleza Miss Universo 2021"
 front: false
 section: "Espectáculos"
-news_id: 184471
+redirect_from: /news/184471
 ---
 
 Las candidatas a Miss Universo 2021 ya comenzaron a deslumbrar y conquistar el Seminole Hard Rock Hotel & Casino en Florida, escenario que este año acaparará la atención de todo el mundo con los glamurosos desfiles de las aspirantes a la corona del certamen de belleza. La espera terminó y en cuestión de días se dará a conocer a la mujer que tomará el relevo de Zozibini Tunzi, ganadora del concurso en 2019. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El mandatario recordó que hoy se reunirá con John Kerry, enviado presidencial especial de Estados Unidos para el clima. "
 image: "/uploads/2021/images-mandatario-insistio-programa-ayuda-migracion_0_0_1200_747_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO destaca interés de EU en programa ‘Sembrando Vida’"
 front: false
 section: "Nacional"
-news_id: 188833
+redirect_from: /news/188833
 ---
 
 El presidente Andrés Manuel López Obrador reiteró que el gobierno de Estados Unidos se encuentra muy interesado por su programa de reforestación Sembrando Vida, el cual, dijo, se pretende expandir a países de Centroamérica para ayudar su población y evitar que tengan que migrar por necesidades económicas. 

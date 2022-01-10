@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los panistas reiteraron la importancia de salir juntos, refrendar la unión, y exaltar los valores del partido con cada una de las acciones que se tomen de cara al futuro"
 image: "/uploads/2021/images-2533840.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Respaldan más de 20 municipios a Maru Campos en visita a Parral"
 front: false
 section: "Nacional"
-news_id: 183085
+redirect_from: /news/183085
 ---
 
 Como forma de agradecimiento, Maru Campos visitó Hidalgo del Parral, donde pudo dar las gracias a la militancia de la región sur del estado, así como cerrar filas hacia lo que viene con cada uno de ellos.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Leos Carax será el encargado de inaugurar el encuentro cinematográfico el 27 de octubre con su película 'Annette'. "
 image: "/uploads/2021/images-se-llevara-a-cabo-del-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Leos Carax inaugurará el evento! Festival Internacional de Cine de Morelia 2021 anuncia programación"
 front: false
 section: "Espectáculos"
-news_id: 188403
+redirect_from: /news/188403
 ---
 
 El Festival Internacional de Cine de Morelia en su edición número 19 será híbrido, pues mantendrá actividades virtuales además de eventos presenciales donde contará con la presencial de dos leyendas del cine: el galardonado director francés Leos Carax y el dos veces nominado al Oscar, Jason Reitman. “Ha sido un gran triunfo que (Carax) venga, es un realizador conocido por guardar su privacidad y estamos contentos de presentar su retrospectiva. Él estará al final de cada una de sus películas para contestar las preguntas de los espectadores”, aseguró Daniela Michel, directora del festival, este martes en conferencia de prensa en la Ciudad de México. 

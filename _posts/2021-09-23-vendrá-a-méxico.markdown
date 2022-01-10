@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Shawn Mendes sorprendió a sus fans al anunciar alguna fechas de su nueva gira con la que recorrerá algunas partes del mundo e interpretará en vivo sus nuevas canciones."
 image: "/uploads/2021/images-shawn-mendes-comenzara-gira-europa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Vendrá a México? Shawn Mendes anuncia fechas de su gira 'Wonder The World Tour'"
 front: false
 section: "Espectáculos"
-news_id: 188009
+redirect_from: /news/188009
 ---
 
 En el último año, a pesar de la pandemia, Shawn Mendes ha estado muy activo, ya que a finales del 2020 publicó su nuevo disco Wonder, además lanzó un documental y una colaboración con Camilo, por si esto no fuera poco, ahora el canadiense anunció algo que muchos sus fans esperaban: una gira mundial. 

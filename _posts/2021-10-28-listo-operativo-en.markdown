@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Habrá filtros de salud y control de acceso"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Listo operativo en los panteones municipales y la Feria del Hueso; inicia mañana"
 front: false
 section: "Local"
-news_id: 189311
+redirect_from: /news/189311
 ---
 
 Atendiendo las medidas sanitarias dictadas por el Consejo Estatal de Salud, el Gobierno Municipal presentó el operativo “Día de Muertos” a fin de que los ciudadanos puedan asistir a la tradicional Feria de Hueso y visitar a sus fieles difuntos en los panteones municipales, todo en un marco de seguridad y protocolo sanitario.

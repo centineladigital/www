@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "También se reportaron 8 defunciones, las cuales alcanzan las 8 mil 021; en recuperados suman 68 mil 155"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 134 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 188563
+redirect_from: /news/188563
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 9 de octubre se tiene un total general de 79 mil 134 contagios en el estado, luego de confirmarse otros 129 en Ciudad Juárez, Chihuahua, Parral, Cuauhtémoc, Delicias, Nuevo Casas Grandes, Ojinaga, Camargo, Guachochi, Jiménez, Bocoyna, Meoqui, Saucillo, Guerrero, Chínipas, Allende, Guazapares, Ascensión, Guadalupe y Calvo, Urique, Nonoava y Carichi. 

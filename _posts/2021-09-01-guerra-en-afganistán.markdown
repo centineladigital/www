@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente de Estados Unidos habló en la jornada en la que se culminó el plazo para las salidas del país del Medio Oriente tras la llegada de los talibanes "
 image: "/uploads/2021/images-joe-biden-presidente-de-estados-20_170_6_854_531.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Guerra en Afganistán se acabó; Biden celebra salida exitosa y alerta que combate a terrorismo seguirá"
 front: false
 section: "Internacional"
-news_id: 187316
+redirect_from: /news/187316
 ---
 
 El presidente de Estados Unidos, Joe Biden, recalcó hoy que "la guerra en Afganistán terminó", defendiendo así la salida de sus tropas de ese territorio del Medio Oriente; sin embargo, alertó que no han terminado su lucha contra el terrorismo y mencionó directamente al Estado Islámico-Khorasan (EI-K), que dijo, "ha hecho cosas terribles en Irak". 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Máquina fue víctima de la desesperación y un futbol predecible, el cual aprovechó la Pandilla para doblegarlos y con un par de jugadas coronarse campeón de este certamen "
 image: "/uploads/2021/images-columbus-crew-imago_0_39_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cruz Azul fracasó de nuevo, Columbus Crew le arrebató el 'Campeones Cup'"
 front: false
 section: "Deportes"
-news_id: 188210
+redirect_from: /news/188210
 ---
 
 El futbol estadounidense ya le tiene tomada la medida a México. Ahora el Columbus Crew se coronó campeón de la 'Campeones Cup' al derrotar de forma 'fácil y sencilla' a Cruz Azul 2-0 en la cancha del Lower.com Field gracias a un autogol de Bryan Angulo al minuto 4, mientras Jonathan Mensah selló la victoria norteamericana al 74'. 

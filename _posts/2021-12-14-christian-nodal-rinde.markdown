@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Christian Nodal se presentó en Fresco. California y realizó un homenaje a Vicente Fernández. "
 image: "/uploads/2021/images-christian-nodal-canto-temas-vicente.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Christian Nodal rinde homenaje a Vicente Fernández en concierto -  honor a quien honor merece"
 front: false
 section: "Espectáculos"
-news_id: 190829
+redirect_from: /news/190829
 ---
 
 Este 12 de diciembre murió Vicente Fernández a los 81 años, tras su fallecimiento varios famosos no tardaron en mandar mensajes en honor al cantante, es por eso que Christian Nodal, quien se presentó en Fresno, California, le rindió un pequeño homenaje al Charro de Huentitán en su concierto. Christian Nodal dio un concierto en Fresno, California en donde presentó su gira Botella tras botella US Tour 2021 y antes de empezar a interpretar sus temas, el prometido de Belinda dirigió un mensaje a Vicente Fernández, quien permaneció cuatro meses hospitalizado.

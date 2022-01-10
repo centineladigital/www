@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los de Monterrey pegaron primero al ganar en tiempo extra por marcador de 111-101 "
 image: "/uploads/2021/images-fuerza-regia-twitter-2_0_0_958_596.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fuerza Regia derrota a los Astros de Jalisco en primer juego de finales de LNBP"
 front: false
 section: "Deportes"
-news_id: 189948
+redirect_from: /news/189948
 ---
 
 Fuerza Regia pegó primero al ganar en tiempo extra por marcador de 111-101 a los Astros de Jalisco en la Arena Astros en el primero de la serie final de la Liga Nacional de Baloncesto Profesional (LNBP) en la que la quinteta regiomontana defiende su campeonato. 

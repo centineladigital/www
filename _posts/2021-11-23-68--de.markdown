@@ -14,11 +14,11 @@ author: nil
 description: "Los utensilios para mantener templado el hogar tienen meses sin ser usados por lo que es precisa una inspección "
 image: "/uploads/2021/images-descarga_(11).jpg"
 video: "/uploads/2021/videos-BM05_EDGAR_PIÑON_.mp4"
-audio: "nil"
+audio: nil
 alt: "68 % De muertes en invierno son por monóxido de carbono "
 front: false
 section: "Local"
-news_id: 190129
+redirect_from: /news/190129
 ---
 
 El 68 por ciento de las muertes en época invernal son por intoxicación de monóxido de carbono según protección civil, así lo informo el legislador Edgar Piñón quien también exhortó a la población a que revise sus aparatos de eléctricos y de gas con el fin de evitar muertes en el estado.

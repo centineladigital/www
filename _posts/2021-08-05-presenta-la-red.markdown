@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Anunciaron también el lanzamiento de la plataforma “komunidad”"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presenta la Red Emprende mapeos de Emprendimiento e Innovación de la ciudad"
 front: false
 section: "Local"
-news_id: 186340
+redirect_from: /news/186340
 ---
 
 Con la finalidad de dar a conocer aquellas instituciones dedicadas al apoyo de emprendedores y a la innovación, en todas sus aristas; la Red Emprende llevó a cabo la presentación de los mapeos de Emprendimiento e Innovación de la ciudad de Chihuahua, los cuales facilitarán el desarrollo de negocios así como la cooperación entre las 62 instituciones que forman parte de la red.

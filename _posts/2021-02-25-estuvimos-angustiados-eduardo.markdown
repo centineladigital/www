@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hace unas semanas la hija de Biby Gaytán y Eduardo Capetillo, Ale, se contagió de covid-19 en España; el actor dio a conocer cómo vivió este momento. "
 image: "/uploads/2021/images-hija-actor-contagio-llegar-espana.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estuvimos angustiados -  Eduardo Capetillo habla sobre el contagio de covid-19 de su hija"
 front: false
 section: "Espectáculos"
-news_id: 183159
+redirect_from: /news/183159
 ---
 
 Hace unas semanas la hija de Eduardo Capetillo y Biby Gaytán, Ale Capetillo, se mudó a Madrid, España, sin embargo, a los pocos días de llegar a la ciudad compartió que se contagió de covid-19. A través de sus redes sociales, la joven de 22 años mencionó que extrañaba a su familia y deseaba estar con ellos en los momentos de salud por los que atravesaba. En una entrevista con el programa De Primera Mano, Eduardo Capetillo fue cuestionado sobre el estado de salud de su hija Ale, quien sigue viviendo en España. Además, también habló sobre cómo ha vivido la pandemia derivada del coronavirus. 

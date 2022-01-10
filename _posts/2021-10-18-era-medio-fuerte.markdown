@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante su participación en un reality show, el cantante contó que su popular canción se iba a llamar 'Mójame'. "
 image: "/uploads/2021/images-un-material-donde-montaner-explora_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Era medio fuerte la letra -  Ricardo Montaner revela el origen de su canción 'Bésame'"
 front: false
 section: "Espectáculos"
-news_id: 188842
+redirect_from: /news/188842
 ---
 
 Ricardo Montaner es un cantante que se ha mantenido en el gusto del público debido a sus éxitos musicales, por ejemplo "Me va a extrañar" y "Tan enamorados", además de sus participaciones en reality shows de canto, tal es el caso de La Voz.  Y fue justo en una edición de este programa, en su versión argentina, que el artista reveló que uno de sus grandes temas, "Bésame", tenía un origen distinto al que se popularizó en todo el mundo. 

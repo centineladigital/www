@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras darse a conocer la noticia, varios artistas se pronunciaron en redes para desearle una pronta recuperación al icónico cantante. "
 image: "/uploads/2021/images-jose-manuel-zamacona-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hospitalizan de emergencia a José Manuel Zamacona, vocalista de 'Los Yonic's'"
 front: false
 section: "Espectáculos"
-news_id: 184713
+redirect_from: /news/184713
 ---
 
 José Manuel Zamacona, vocalista de Los Yonic's, grupo responsable de éxitos como "Pero te vas a arrepentir" y "Palabras tristes", se encuentra hospitalizado, así lo informó el proyecto musical a través de un comunicado que compartió en sus redes sociales.  "A través de este medio, informamos que el señor José Manuel Zamacona se encuentra hospitalizado y bajo supervisión médica", indica el texto, donde no se especificó qué situación de salud le ocasionó problemas al cantante. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente de Estados Unidos, Joe Biden, defendió ayer su plan de salud y aseguró que todos los ciudadanos del país tendrán acceso a las vacunas contra covid-19 antes de agosto"
 image: "/uploads/2021/images-2530920.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden garantiza a ciudadanos inmunización antes de agosto"
 front: false
 section: "Internacional"
-news_id: 182976
+redirect_from: /news/182976
 ---
 
 El presidente de Estados Unidos, Joe Biden, defendió ayer su plan de salud y aseguró que todos los ciudadanos del país tendrán acceso a las vacunas contra covid-19 antes de agosto.

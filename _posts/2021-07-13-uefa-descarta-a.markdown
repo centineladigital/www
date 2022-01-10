@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El portugués no apareció en el cuadro titular que el máximo rector del futbol europeo reveló este martes, pese a ser el goleador del torneo."
 image: "/uploads/2021/images-cristiano-ronaldo-reuters-58.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "UEFA descarta a Cristiano Ronaldo del 11 ideal de la Eurocopa 2020"
 front: false
 section: "Deportes"
-news_id: 185621
+redirect_from: /news/185621
 ---
 
 Unos días después de que la selección de Italia se coronase campeona de Europa, la UEFA reveló el equipo ideal de la Eurocopa 2021, con la gran ausencia del portugués Cristiano Ronaldo, pese a ser el máximo goleador del torneo.

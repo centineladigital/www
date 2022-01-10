@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El conductor de Vivalavi impartirá la conferencia Cómo motivarme para no morir en el intento, dentro del Congreso de Emprendedores de Canacintra."
 image: "/uploads/2021/images-conductor-presentara-congreso-emprendedores-mauricio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jorge Reynoso impartirá conferencia para motivar a jóvenes emprendedores"
 front: false
 section: "Espectáculos"
-news_id: 189578
+redirect_from: /news/189578
 ---
 
 Jorge Reynoso, joven conductor de Vivalavi, entusiasta, carismático y emprendedor, está más que listo para impartir la conferencia, “Cómo motivarme para no morir en el intento”, dentro del Congreso para Emprendedores de Canacintra “La Voz de los Jóvenes”, mismo que se llevará a cabo en el Centro de Convenciones de Torreón, hoy y mañana, así lo dio a conocer en entrevista.

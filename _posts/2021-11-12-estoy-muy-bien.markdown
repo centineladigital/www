@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El jefe del Ejecutivo federal agradeció públicamente por adelantado las felicitaciones que recibirá mañana por su cumpleaños 68. "
 image: "/uploads/2021/images-amlo.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estoy muy bien de salud AMLO"
 front: false
 section: "Nacional"
-news_id: 189809
+redirect_from: /news/189809
 ---
 
 A tan solo unas horas de cumplir 68 años de edad, el presidente Andrés Manuel López Obrador dejó en claro este viernes que se encuentra “muy bien de salud”.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La inmunización se llevará a cabo mañana, pero solo quienes no alcanzaron a recibir la segunda dosis"
 image: "/uploads/2021/images-Vacunación_pfizer.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizarán jornada de vacunación extraordinaria para mayores de 60"
 front: false
 section: "Local"
-news_id: 184432
+redirect_from: /news/184432
 ---
 
 Este viernes en el Hospital Militar Regional en Chihuahua se realizará una jornada extraordinaria para aplicar la segunda dosis de la vacuna contra el virus SARS CoV2 de la farmacéutica Pfizer para quienes no alcanzaron a aplicarse el biológico.

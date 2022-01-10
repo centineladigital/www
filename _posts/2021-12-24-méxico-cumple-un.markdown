@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“Listo, presidente. Reportamos saldo blanco, reportamos optimismo. Empieza la vacunación contra Covid-19 en México hoy 24 de diciembre de 2020”, celebraba Hugo López-Gatell"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México cumple un año de aplicación de vacunas contra Covid-19 “con una luz de esperanza”"
 front: false
 section: "Nacional"
-news_id: 191185
+redirect_from: /news/191185
 ---
 
 El jueves 24 de diciembre de 2020, exactamente hace un año, el gobierno de México comenzó con la aplicación de vacunas contra el virus SARS-CoV-2 y las primeras dosis fueron para los trabajadores del sector salud.

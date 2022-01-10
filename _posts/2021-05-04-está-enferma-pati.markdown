@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En plena emisión en vivo del programa Ventaneando, Pati Chapoy lanzó una fuerte declaración sobre su salud. Aseguró que lleva una semana gastando todo su sueldo en médicos. "
 image: "/uploads/2021/images-muerte-alberto-ciurana-critican-pati.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Está enferma? Pati Chapoy confiesa en 'Ventaneando' que lleva una semana pagando médicos"
 front: false
 section: "Espectáculos"
-news_id: 184269
+redirect_from: /news/184269
 ---
 
 Pati Chapoy, titular del programa Ventaneando de TV Azteca, dio fuertes revelaciones en pleno en programa en vivo. La conductora de televisión y periodista de espectáculos dio a entender que se encuentra enferma, pues ha estado pagando médicos, los cuales han absorbido casi todo lo que gana como presentadora de la emisión vespertina. ¿Qué tiene? ¿De qué está enferma? Te contamos lo que dijo la famosa, quien desde hace unas semanas se había encontrado envuelta en dimes y diretes por supuestamente estar mal de salud. En plena emisión en vivo del programa Ventaneando, Pati Chapoy lanzó una fuerte declaración sobre su salud. Sin detallar con exactitud lo que tiene, la conductora explicó que en las últimas semanas ha tenido que invertir todo lo que gana en médicos. 

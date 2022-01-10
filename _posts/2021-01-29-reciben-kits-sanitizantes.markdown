@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Entrega Desarrollo Social insumos para prevenir contagios por COVID-19, a establecimientos deportivos que imparten disciplinas como karate, taekwondo, kung-fu, jiu-jitsu, lima lama, capoeira, krav magá, muay-thai y judo; contribuye Estado a reactivar la economía"
 image: "/uploads/2021/images-Kits_Higiene_Gym-25.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reciben kits sanitizantes  40 academias de artes marciales de Chihuahua capital"
 front: false
 section: "Local"
-news_id: 182547
+redirect_from: /news/182547
 ---
 
 La Secretaría de Desarrollo Social entregó kits sanitizantes a 40 academias de artes marciales de la ciudad de Chihuahua, para que cuenten con entornos seguros que ayuden a prevenir contagios por COVID-19.

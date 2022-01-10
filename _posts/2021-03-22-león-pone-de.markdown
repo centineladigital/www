@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El vigente campeón de la Liga MX comienza a recuperar su mejor versión tras imponerse por 2-1 en el TSM Corona al cierre de la jornada 12"
 image: "/uploads/2021/images-2549076.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "León pone de cabeza a Santos Laguna"
 front: false
 section: "Deportes"
-news_id: 183499
+redirect_from: /news/183499
 ---
 
 El León confirmó haber recuperado la memoria. Los vigentes campeones del futbol mexicano vencieron 2-1 al Santos Laguna en condición de visitante y por primera vez en el torneo Guard1anes Clausura 2021, hilvanaron victorias. 

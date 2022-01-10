@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Podrían surtir a las fábricas de queso, que requieren hasta un millón de litros de leche"
 image: "/uploads/2021/images-WhatsApp_Image_2021-01-16_at_9.08.59_AM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exploran alternativas para comercializar la leche"
 front: false
 section: "Local"
-news_id: 182194
+redirect_from: /news/182194
 ---
 
 Para no depender sólo de las compras hechas por la paraestatal Liconsa, los pequeños productores de leche de la región centro sur buscan alternativas para comercializar el lácteo, entre las cuales se encuentra el suministro a las fábricas de queso establecidas en el estado y que requieren hasta un millón de litros.

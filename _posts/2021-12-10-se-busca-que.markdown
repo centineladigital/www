@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Dijo que cada destacamento tendrá 250 elementos quienes tendrán coordinación con la policía auxiliar"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se busca que cada alcaldía tenga un destacamento de la Guardia Nacional -  Sheinbaum"
 front: false
 section: "Nacional"
-news_id: 190704
+redirect_from: /news/190704
 ---
 
 La jefa de Gobierno de la Ciudad de México, Claudia Sheinbaum, informó que buscan que las 16 alcaldías cuenten con un destacamento de la Guardia Nacional para que se sumen a los trabajos de seguridad.

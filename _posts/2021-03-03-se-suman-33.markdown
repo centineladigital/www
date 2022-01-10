@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se confirmaron 198 personas más contagiadas por esta enfermedad con lo que totalizan 54 mil 864"
 image: "/uploads/2021/images-Informe_tecnico_02_marzo_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se suman 33 decesos para llegar a 5 mil 321 fallecimientos de COVID-19 en la entidad"
 front: false
 section: "Local"
-news_id: 183241
+redirect_from: /news/183241
 ---
 
 La Secretaría de Salud de Gobierno del Estado de Chihuahua reporta un total general de 54 mil 864 casos confirmados de COVID-19, luego que se sumaran 198 contagios en las últimas horas.

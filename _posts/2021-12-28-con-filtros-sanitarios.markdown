@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Previo al inicio del periodo de septiembre-diciembre se instrumentó el curso Retorno Seguro a Clases para administrativos, docentes y alumnos"
 image: "/uploads/2021/images-filtro_sanitario_3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con filtros sanitarios cierra cuatrimestre la UT Paso del Norte sin casos de COVID-19"
 front: false
 section: "Local"
-news_id: 191272
+redirect_from: /news/191272
 ---
 
 Como resultado de la implementación de filtros sanitarios y el reforzamiento de las medidas para evitar contagios del Covid 19 se cerró el cuatrimestre en la Universidad Tecnológica Paso del Norte (UTPN) sin un solo caso de contagio.

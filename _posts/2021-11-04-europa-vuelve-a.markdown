@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La OMS alertó que el ritmo actual de transmisión del coronavirus en Europa es muy preocupante y podría provocar medio millón de muertos adicionales de aquí a febrero en el continente"
 image: "/uploads/2021/images-ap_covid_europa_muertes.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Europa vuelve a ser el epicentro del Covid-19 -  OMS alerta por preocupante ritmo de contagios"
 front: false
 section: "Internacional"
-news_id: 189543
+redirect_from: /news/189543
 ---
 
 El ritmo actual de transmisión del coronavirus en Europa es "muy preocupante" y podría provocar medio millón de muertos adicionales de aquí a febrero en el continente, alertó este jueves la Organización Mundial de la Salud (OMS).

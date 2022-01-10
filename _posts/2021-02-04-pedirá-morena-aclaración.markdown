@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Acudirá ante instancia estatal con el fin de conocer las acciones en contra de María Eugenia Campos y César Jáuregui Moreno."
 image: "/uploads/2021/images-IMG-20210204-WA0042.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ05_OSCAR_CASTREJON.mp3"
 alt: "Pedirá MORENA aclaración a Función Pública en nómina secreta"
 front: false
 section: "Local"
-news_id: 182708
+redirect_from: /news/182708
 ---
 
 Que se dé a conocer el que rubro y los motivos por los que recibieron dinero los exdiputados dentro de la nómina secreta, es lo que pedía MORENA ante la Secretaría de la Función Pública, según lo dio a conocer Oscar Castrejón encargado del área de transparencia de este organismo político.

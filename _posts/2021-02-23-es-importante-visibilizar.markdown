@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor brasileño que protagoniza el ménage à trois de la serie de Netflix comparte la experiencia de la bisexualidad del personaje y su próximo proyecto en Si nos dejan "
 image: "/uploads/2021/images-marcus-ornellas-pone-huella-frente_0_358_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es importante visibilizar la diversidad sexual -  Marcus Ornellas"
 front: false
 section: "Espectáculos"
-news_id: 183119
+redirect_from: /news/183119
 ---
 
 Visibilizar la diversidad sexual es parte del compromiso que han asumido algunos creadores de contenido, y Monarca, la serie de Netflix, no es la excepción. El primer día del año llegó su segunda temporada con nuevos rostros y cambios para sus personajes, en esta etapa se sumó Jonás (Marcus Ornellas), quien llevó a Andrés (Oswaldo Benavides) y a Ximena (Gaby de la Garza) a experimentar su sexualidad con un trío. “Es parte de normalizar –dice Marcus Ornellas en entrevista con M2–, es algo que sigue siendo necesario porque estamos llenos de prejuicios. Lo interesante es ver que se aborda con responsabilidad en una producción como "Monarca" , son el tipo de personajes que se abordan con un punto de vista natural, las preferencias de Jonás son amplias y está abierto al amor y al placer, es un personaje muy poderoso en ese sentido. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Emite estas recomendaciones para mantener tu hogar seguro contra el frío de diciembre."
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite JCAS recomendaciones para esta temporada de frío"
 front: false
 section: "Local"
-news_id: 191138
+redirect_from: /news/191138
 ---
 
 Con la llegada de la temporada invernal, el Gobierno del Estado, a través de la Junta Central de Agua y Saneamiento (JCAS) emite estas recomendaciones para mantener tu hogar seguro contra el frío de diciembre.

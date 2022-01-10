@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Fue hace unas semanas cuando Yordi Rosado entrevistó a Alex Marín, a quien él bautizó como ‘el rey Midas del porno’; acusan al conductor de reproducir la violencia contra las mujeres y normalizar la explotación sexual. "
 image: "/uploads/2021/images-critican-yordi-rosado-entrevista-rey.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Proxeneta -  Yordi Rosado entrevista a 'el rey Midas del porno'; lo cancelan por normalizar la explotación sexual"
 front: false
 section: "Espectáculos"
-news_id: 190473
+redirect_from: /news/190473
 ---
 
 Yordi Rosado, famoso conductor, está en el ojo del huracán, pues recibió severas críticas en su contra por haber entrevistado a Alex Marín, ‘el rey Midas del porno’. Y es que el ex compañero de Adal Ramones fue señalado por reproducir violencia contra las mujeres bajo la industria del porno. Consideran que Yordi Rosado promueve la explotación sexual del género femenino a tal punto que lo tacharon de 'proxeneta'.  Fue hace unas semanas cuando Yordi Rosado entrevistó a Alex Marín, a quien él bautizó como ‘el rey Midas del porno’ para Unicable. Esto con el fin de revelar “los secretos” de esta industria. Sin embargo, es recién cuando varias colectivas feministas denunciaron al conductor Yordi Rosado por presuntamente reproducir y normalizar el “proxenetismo”. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante británica-japonesa de 30 años se une al elenco de la cuarta entrega de la historia sobre el famoso asesino a sueldo. "
 image: "/uploads/2021/images-rina-sawayama-y-keanu-reeves.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Se une a Keanu Reeves! Rina Sawayama debutará como actriz en 'John Wick 4'"
 front: false
 section: "Espectáculos"
-news_id: 184708
+redirect_from: /news/184708
 ---
 
 La cantante británica-japonesa Rina Sawayama, quien el mes pasado estrenó una nueva y conmovedora versión de la canción "Chosen Family" junto al icónico Elton John, debutará como actriz junto a Keanu Reeves en John Wick 4. 

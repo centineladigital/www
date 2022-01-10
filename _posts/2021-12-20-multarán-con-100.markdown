@@ -10,11 +10,11 @@ author: nil
 description: "Multas van desde seis hasta los cien mil pesos."
 image: "/uploads/2021/images-ELOY.jpg"
 video: "/uploads/2021/videos-ML04_ELOY_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Multarán con 100 mil pesos a quien no respete aforo"
 front: false
 section: "Local"
-news_id: 191042
+redirect_from: /news/191042
 ---
 
 Una multa de hasta cien mil pesos es lo que será acreedor el lugar que no cumpla con el aforo de los lugares, señaló el Director General de Gobierno, Eloy García Tarín. Esto en establecimientos como bares y restaurantes.

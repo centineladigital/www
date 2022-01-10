@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De acuerdo a la aseguradora privada Discovery y el Consejo de Investigación Médica de Sudáfrica, si bien la vacuna de Pfizer mantiene una alta protección, la efectividad frente al contagio bajaría al 33%"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vacuna antiCovid de Pfizer protege hasta 70% contra hospitalización por ómicron -  estudio"
 front: false
 section: "Internacional"
-news_id: 190870
+redirect_from: /news/190870
 ---
 
 Johannesburgo.- Los vacunados con dos dosis de Pfizer podrían estar 70% más protegidos que los no inoculados frente a la necesidad de hospitalización por el Covid-19 con la variante ómicron, pero la efectividad frente al contagio bajaría al 33%, según un estudio médico publicado hoy en Sudáfrica.

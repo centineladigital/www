@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "La procuración multiorgánica se realizó en la UMAE Hospital de Especialidades del CMN Siglo XXI"
 image: "/uploads/2021/images-Foto_387-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Obtienen especialistas del IMSS diversos órganos y tejidos para mejorar calidad de vida de pacientes que requieren trasplantes"
 front: false
 section: "Local"
-news_id: 187418
+redirect_from: /news/187418
 ---
 
 Médicos especialistas del Instituto Mexicano del Seguro Social (IMSS) realizaron la procuración de órganos y tejidos para fines de trasplante la madrugada de ayer jueves obteniendo: corazón, hígado, riñones, córneas, musculo esquelético y piel en la Unidad Médica de Alta Especialidad (UMAE) Hospital de Especialidades del Centro Médico Nacional Siglo XXI, luego de que una mujer de 29 años falleciera a causa de un evento vascular cerebral.

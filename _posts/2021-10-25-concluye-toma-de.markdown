@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Lo anterior luego de la intensa labor de la gobernadora del Estado, Maru Campos Galván. "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Concluye toma de la presa La Boquilla tras acuerdo alcanzado por Gobierno del Estado; se retiran agricultores"
 front: false
 section: "Local"
-news_id: 189144
+redirect_from: /news/189144
 ---
 
 En un hecho sin precedentes en la historia de Chihuahua y México, este sábado los agricultores de la zona centro y sur del estado entregaron las instalaciones de la presa La Boquilla a las autoridades federales tras más de un año de lucha por el agua para el riego y producción de la región.  

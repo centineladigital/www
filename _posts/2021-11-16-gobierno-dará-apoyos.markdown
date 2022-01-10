@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente comentó que si las personas ya cuentan con un espacio o terreno, el gobierno federal las apoyará para que construyan su casa."
 image: "/uploads/2021/images-andres-manuel-lopez-obrador-121.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobierno dará apoyos a adultos mayores migrantes que deseen regresar a México -  AMLO"
 front: false
 section: "Nacional"
-news_id: 189859
+redirect_from: /news/189859
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que el gobierno entregará apoyos a adultos mayores migrantes que deseen regresar a México, lo que implicaría el otorgamientos de créditos para vivienda.

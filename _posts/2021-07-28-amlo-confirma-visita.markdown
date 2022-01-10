@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El presidente López Obrador detalló que viajará a ese municipio para supervisar la construcción de la carretera a Guadalupe y Calvo"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO confirma visita a Badiraguato, Sinaloa, municipio natal de “El Chapo”"
 front: false
 section: "Nacional"
-news_id: 186051
+redirect_from: /news/186051
 ---
 
 El presidente Andrés Manuel López Obrador confirmó que este viernes visitará Badiraguato, Sinaloa -municipio natal de Joaquín “El Chapo” Guzmán, exlíder del Cártel de Sinaloa- para supervisar la construcción de la carretera a Guadalupe y Calvo.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El fármaco es elaborado por un laboratorio fantasma llamado Medzena por lo que se procedió a ilegalizar cualquier medicamento de esta empresa, senaló Elizabeth García Vilchis "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta gobierno federal sobre uso del medicamento Pantoprazol"
 front: false
 section: "Nacional"
-news_id: 190872
+redirect_from: /news/190872
 ---
 
 El gobierno federal alertó a la población mexicana que el fármaco llamado Pantoprazol, del laboratorio ”fantasma“ Medzena SA de CV, utilizado para casos de reflujo, carece de licencia sanitaria por lo que recomendó suspender su uso de manera inmediata y acudir al médico.

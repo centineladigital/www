@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Por un verano saludable, reduce tus salidas"
 image: "/uploads/2021/images-Foto_3407-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Para un Verano Seguro, IMSS exhorta a continuar con el uso correcto de cubreboca "
 front: false
 section: "Local"
-news_id: 185897
+redirect_from: /news/185897
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua exhorta a la población a reforzar las medidas preventivas para evitar contagios de COVID-19, y procurar así un verano seguro. 

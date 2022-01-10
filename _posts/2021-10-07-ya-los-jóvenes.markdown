@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“Ofrezco disculpa si denuncio actos de corrupción porque estoy convencido de que ese es el principal problema de México y puedo sacar mi pañuelito, dijo el presidente López Obrador"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ya los jóvenes no usan pañuelo ni peine ni camiseta ni nada, dice AMLO"
 front: false
 section: "Nacional"
-news_id: 188459
+redirect_from: /news/188459
 ---
 
 Al señalar que no establece relaciones de complicidad con nadie, incluidos los miembros de su familia y su hermano Pío López Obrador, el presidente Andrés Manuel López Obrador ofreció disculpas por denunciar actos de corrupción, además que sacó un pañuelo blanco.

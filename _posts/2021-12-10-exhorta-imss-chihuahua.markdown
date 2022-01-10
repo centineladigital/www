@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La emergencia sanitaria no ha concluido; el hacerle frente, es responsabilidad de todos. "
 image: "/uploads/2021/images-Foto_5960-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta IMSS Chihuahua a la población a seguir cuidándose para evitar contagios de COVID-19"
 front: false
 section: "Local"
-news_id: 190723
+redirect_from: /news/190723
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua reitera a la población la necesidad de mantener las medidas de prevención y evitar la propagación de COVID-19.

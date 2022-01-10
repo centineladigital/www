@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te decimos todo lo que necesitas saber para ver la película del popular videojuego Mortal Kombat en México. "
 image: "/uploads/2021/images-estrenan-trailer-pelicula-mortal-kombat.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Get over here! Todo lo que debes saber sobre el estreno de 'Mortal Kombat', la película"
 front: false
 section: "Espectáculos"
-news_id: 183858
+redirect_from: /news/183858
 ---
 
 Los fanáticos de los cine ya quieren ver la película de Mortal Kombat, la cual enmarcará en un sangriento live action a los emblemáticos personajes del clásico de los videojuegos de peleas. La película está por aterrizar en las salas de cine en México y Estados Unidos, y aquí te decimos todo lo que debes saber sobre el estreno. 

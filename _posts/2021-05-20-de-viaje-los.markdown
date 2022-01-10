@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los Derbez nos llevan en camper por el noroeste de Estados Unidos, la segunda temporada de “De viaje con los Derbez” estrenará en Amazon Prime Video."
 image: "/uploads/2021/images-familia-famosa-mexico-regresa-plataforma.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "De viaje, los Derbez logran una mejor conexión familiar"
 front: false
 section: "Espectáculos"
-news_id: 184565
+redirect_from: /news/184565
 ---
 
 Después del éxito de la primera temporada, la familia Derbez regresa a Amazon Prime Video para llevar a sus seguidores hasta algunos de los lugares más impresionantes de Estados Unidos. Para esta segunda temporada, la familia Derbez y el equipo de producción del reality optaron por un escenario más aislado que en la temporada anterior, que se realizo en Marruecos, como una estrategia para filmar durante la pandemia en un ambiente seguro. 

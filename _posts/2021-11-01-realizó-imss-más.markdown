@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "También se llevaron a cabo 32 trasplantes totales, 10 de riñón, 14 de córnea y ocho de CPH, una procuración multiorgánica y tres de tejido."
 image: "/uploads/2021/images-Foto_494-7.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizó IMSS más de tres mil 300 cirugías y 70 mil consultas durante la 10ª Jornada de Recuperación de Servicios"
 front: false
 section: "Local"
-news_id: 189451
+redirect_from: /news/189451
 ---
 
 Con la 10ª Jornada Nacional de Recuperación de Servicios, el Instituto Mexicano del Seguro Social (IMSS) avanza en el fortalecimiento de la atención médica que brinda a sus derechohabientes, y del 29 al 31 de octubre se realizaron tres mil 382 cirugías, 20 mil 178 consultas de especialidad, 49 mil 199 de Medicina Familiar, 562 de Estomatología y 67 de Salud Mental.

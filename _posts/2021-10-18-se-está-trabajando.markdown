@@ -14,11 +14,11 @@ author: nil
 description: "Está trabajando arduamente para asegurar que la ciudadanía este resguardada y libre de delincuencia"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-18_at_11.37.02.jpeg"
 video: "/uploads/2021/videos-BL02_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se está trabajando en contra de la impunidad en el municipio "
 front: false
 section: "Local"
-news_id: 188874
+redirect_from: /news/188874
 ---
 
 El alcalde municipal Marco Bonilla, aseguró que se está trabajando de manera diligente ante la ola de violencia y robos que está dando lugar en el municipio de Chihuahua, por ello el programa cero impunidad “El que la hace la paga”, está trabajando gradualmente para asegurar que la ciudadanía este resguardada y libre de delincuencia.

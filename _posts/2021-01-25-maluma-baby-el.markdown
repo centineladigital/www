@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la fotografía se ve al cantante de 'Felices los cuatro' junto al abdomen de una mujer, por lo que muchos especulan que podría tratarse de la llegada un bebé. "
 image: "/uploads/2021/images-maluma-baby-reguetonero-enciende-redes.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Maluma baby? El reguetonero comparte foto misteriosa y levanta sospechas de que será papá"
 front: false
 section: "Espectáculos"
-news_id: 182420
+redirect_from: /news/182420
 ---
 
 Este domingo Maluma compartió a sus más de 56 millones de seguidores en Instagram una sugerente imagen que conmocionó las redes, pues en ella se muestra al cantante de Felices los cuatro mientras abraza el abdomen de una mujer con la leyenda #7DJ, presuntamente se trata de su novia Susana González. Junto a la fotografía en blanco y negro, que también compartió en sus historias, escribió “tengo algo que decirles”, por lo que muchos suponen que podría estar a punto de relevar que se convertirá en papá en poco tiempo. 

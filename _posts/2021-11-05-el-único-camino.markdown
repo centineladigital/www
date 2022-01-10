@@ -14,11 +14,11 @@ author: nil
 description: "La Gobernadora acompañó a la toma de compromiso del nuevo Consejo Directivo de la COPARMEX"
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-05_at_11.36.49.jpeg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-11-05_at_11.36.49.mp4"
-audio: "nil"
+audio: nil
 alt: "El único camino viable para el bien común, es el trabajo en conjunto; respalda Gobernadora a nuevos miembros del Consejo Directivo de COPARMEX Chihuahua"
 front: false
 section: "Local"
-news_id: 189586
+redirect_from: /news/189586
 ---
 
 Como parte de la estrategia de la Cuádruple Hélice del Gobierno del Estado, la gobernadora Maru Campos refrendó su compromiso de mantener una estrecha relación con el sector empresarial chihuahuense; por tal motivo, encabezó la Asamblea Anual Ordinaria de la Confederación Patronal de la República Mexicana (COPARMEX) en la que se renovó al Consejo Directivo de este centro empresarial para el periodo 2021-2022.

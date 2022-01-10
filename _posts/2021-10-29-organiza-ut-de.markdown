@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El premio al primer lugar lo obtuvieron los estudiantes de la carrera de Enfermería; Marisol Díaz Salas y Urías Betero Palma"
 image: "/uploads/2021/images-UTT_9222.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Organiza UT de la Tarahumara Concurso de Catrines"
 front: false
 section: "Local"
-news_id: 189371
+redirect_from: /news/189371
 ---
 
 En conmemoración al Día de Muertos, la Universidad Tecnológica de la Tarahumara (UTT) realizó el Concurso de Catrines 2021 dentro de sus instalaciones, en el cual, participaron estudiantes de las cinco carreras que oferta la institución: Agricultura Sustentable y Protegida, Manejo Forestal Sustentable, Turismo, Enfermería y Tecnología Ambiental.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En 'Avengers: Endgame' (2019), la cinta en la que se despidió Chris Evans como Capitán América, Falcon recibió el famoso escudo estrellado de este superhéroe."
 image: "/uploads/2021/images-personaje-fundamental-serie-disney-the.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡El relevo de Chris Evans! Anthony Mackie será el protagonista de 'Capitán América 4'"
 front: false
 section: "Espectáculos"
-news_id: 186874
+redirect_from: /news/186874
 ---
 
 Tras interpretar al personaje de Falcon en varias películas del Universo Cinematográfico de Marvel (MCU, en inglés), el actor estadunidense Anthony Mackie será el protagonista de la cuarta entrega de Capitán América.  

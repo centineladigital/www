@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La grafóloga del programa 'Hoy' señaló que Shanik Berman dice defender a las mujeres cuando todos la hemos visto agredir, criticar y mofarse a otras mujeres "
 image: "/uploads/2021/images-maryfer-centeno-explota-shanik-berman_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me dijo retrógrada -  Maryfer Centeno enfrenta a Shanik Berman tras pelea en 'Hoy'"
 front: false
 section: "Espectáculos"
-news_id: 188116
+redirect_from: /news/188116
 ---
 
 Hace unos días, Maryfer Centeno protagonizó una acalorada discusión con Shanik Berman durante la sección Las Estrellas bailan en Hoy del matutino de Televisa. Y es que la conductora enfrentó a la grafóloga por haberle pedido permiso a su esposo para bailar en el reality. Tras lo sucedido, la colaboradora del programa Hoy señaló que la periodista "es incongruente" y la acusó de agredir a otras mujeres. En una entrevista con Mara Patricia Castañeda para su canal de YouTube, Maryfer Centeno habló de la reciente riña que tuvo con Shanik Berman, luego de que la periodista la llamara "retrógrada" en pleno programa y aclaró que ella nunca dijo que le pidió permiso a su marido para participar en Las Estrellas bailan en Hoy.  

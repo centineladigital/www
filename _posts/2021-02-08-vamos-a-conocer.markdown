@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras la telenovela, la actriz continuará con las grabaciones de la quinta y sexta temporada de la serie 'Se rentan cuartos'. "
 image: "/uploads/2021/images-itati-cantoral-instagram-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vamos a conocer por qué Andrea fue como fue -  Itatí Cantoral habla sobre el final de 'La mexicana y el güero'"
 front: false
 section: "Espectáculos"
-news_id: 182785
+redirect_from: /news/182785
 ---
 
 Ante el final de la telenovela La mexicana y el güero, que tiene lugar este domingo a las 20:30 horas por el Canal de la Estrellas, Itatí Cantoral señala que el proyecto le dejó grandes enseñanzas y experiencias. Además, en entrevista, ahonda en la nueva etapa de su carrera a la que nunca quiso enfrentarse y que hoy realiza con orgullo: la comedia.

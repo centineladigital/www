@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través del canal de YouTube de Gustavo Adolfo Infante en donde se dio a conocer un poco más a detalle del libro de la periodista Anabel Hernández, ‘Emma y las otras señoras del narco’, en donde relacionan a Mayer e Issabela Camil con La Barbie. "
 image: "/uploads/2021/images-sergio-mayer-issabela-camil-tenian.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sabía muy bien quién era -  Sergio Mayer y su esposa Issabela Camil en polémica; los relacionan con el narco 'La Barbie'"
 front: false
 section: "Espectáculos"
-news_id: 190280
+redirect_from: /news/190280
 ---
 
 Sergio Mayer, ex diputado y también actor, está envuelto en polémica junto a su esposa Issabela Camil, luego de que en el libro de Anabel Hernández, ‘Emma y las otras señoras del narco’, se informara que la pareja estuvo vinculada supuestamente con el narcotraficante Édgar Valdez Villarreal, mejor conocido como 'La Barbie'. Fue a través del canal de YouTube de Gustavo Adolfo Infante en donde se dio a conocer un poco más a detalle del libro de la periodista Anabel Hernández, ‘Emma y las otras señoras del narco’. En éste varios nombres de famosos del mundo del espectáculo se encuentran debido a su supuesta relación con el narcotráfico.

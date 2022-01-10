@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El argentino tiene números positivos en este tipo de torneos y quiere llevar a México a Qatar; van por la octava clasificación seguida"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La experiencia del 'Tata' Martino en eliminatorias mundialistas"
 front: false
 section: "Deportes"
-news_id: 187357
+redirect_from: /news/187357
 ---
 
 La Selección Mexicana tendrá una nueva prueba cuando comience su participación en el octagonal de la Concacaf rumbo a la Copa del Mundo Qatar 2022. 

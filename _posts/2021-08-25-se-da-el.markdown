@@ -12,11 +12,11 @@ author: nil
 description: "Dará apoyo a mujeres que pudieran llegar a ser víctimas de cualquier situación de violencia."
 image: "/uploads/2021/images-María_Angélica_Granados_Trespalacios.jpg"
 video: "/uploads/2021/videos-BW02_MARIA_TRESPALACIOS.mp4"
-audio: "nil"
+audio: nil
 alt: "Se da el relanzamiento de la aplicación MIA Chihuahua  "
 front: false
 section: "Local"
-news_id: 187116
+redirect_from: /news/187116
 ---
 
 La alcaldesa María Angélica Trespalacios agradeció el re-lanzamiento de la aplicación MIA Chihuahua la cual en coordinación con seguridad pública municipal dará apoyo a mujeres que pudieran llegar a ser víctimas de cualquier situación de violencia.

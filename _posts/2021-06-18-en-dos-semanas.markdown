@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Anuncian apertura de actividades pese a estar en amarillo."
 image: "/uploads/2021/images-CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV01.mp3"
 alt: "En dos semanas pudiera Chihuahua llegar a verde"
 front: false
 section: "Local"
-news_id: 185117
+redirect_from: /news/185117
 ---
 
 Debido a los bajos niveles en indicadores como la tasa de transmisión y hospitalizaciones en dos semanas el estado pudiera pasar a verde, señaló el Gobernador del Estado, Javier Corral Jurado. Quien afirmó que pese a que no se ha llegado a verde en algunas actividades se tendrá más apertura pese a que se esté aún en amarillo.

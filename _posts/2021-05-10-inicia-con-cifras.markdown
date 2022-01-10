@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solo se detectaron 29 casos y 8 muertes acreditadas por la enfermedad."
 image: "/uploads/2021/images-VALENZUELA1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML01_ARTURO_VALENZUELA.mp3"
 alt: "Inicia con cifras muy bajas datos de COVID"
 front: false
 section: "Local"
-news_id: 184387
+redirect_from: /news/184387
 ---
 
 Con cifras bajas inicia la semana tanto de contagios como de muertes acreditadas por SARS-COV2, la que provoca coronavirus, esto al dar a conocer que dentro del estado solamente se acreditaron 8 muertes y dieron positivo 29 a pruebas PCR, según fue dado a conocer por parte del Director Médico Zona Norte Arturo Valenzuela Zorrilla.

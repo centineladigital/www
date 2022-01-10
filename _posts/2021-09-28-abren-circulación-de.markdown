@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La obra beneficia a los habitantes de zona Romanzza y viajeros   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abren circulación de carriles en puente del Paso Superior carretera Aldama - Chihuahua   "
 front: false
 section: "Local"
-news_id: 188163
+redirect_from: /news/188163
 ---
 
 El Gobierno Municipal, a través de la Dirección de Obras Públicas, abrió a la circulación a vehículos en los carriles del puente que forman parte del Paso Superior carretera Aldama - Chihuahua, asimismo se continúa trabajando en la construcción del crucero en la parte inferior.

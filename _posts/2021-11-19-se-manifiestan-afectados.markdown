@@ -10,11 +10,11 @@ author: nil
 description: "Piden ayuda a la Gobernadora."
 image: "/uploads/2021/images-MANIFESTANTE.jpg"
 video: "/uploads/2021/videos-MV04_MANIFESTANTE.mp4"
-audio: "nil"
+audio: nil
 alt: "Se manifiestan afectados de ARAS"
 front: false
 section: "Local"
-news_id: 190012
+redirect_from: /news/190012
 ---
 
 Personas que se han visto afectadas por la empresa ARAS se manifestaron este viernes frente a Palacio de Gobierno, buscando una solución a su problema, por lo que cerca de una decena de personas acudieron al lugar.

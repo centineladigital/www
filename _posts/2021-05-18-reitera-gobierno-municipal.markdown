@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se podrá recibir atención y orientación en un horario de lunes a viernes de 9:00 a 15:00 horas en los teléfonos 4-10-23-05 para atención en situaciones de violencia y 4-90-07-89 para recibir asesoría jurídica sin costo."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reitera Gobierno Municipal sus líneas de atención para la prevención de la violencia contra las mujeres"
 front: false
 section: "Local"
-news_id: 184513
+redirect_from: /news/184513
 ---
 
 El Gobierno Municipal, ha focalizado esfuerzos para brindar los servicios de atención ante la pandemia por COVID-19 y problemáticas derivadas del confinamiento, como lo son la violencia familiar y de género. Ante este contexto, a través del Instituto Municipal de las Mujeres (IMM) pone a disposición de la población dos líneas de atención directa a fin de contar con un medio de comunicación para brindar los servicios sin comprometer la salud de las víctimas.

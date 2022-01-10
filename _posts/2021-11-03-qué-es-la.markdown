@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Cumbre de las Partes para el Cambio Climático se reúne cada año para refrendar los avances de la crisis climática, sin embargo, la convención de este año ha sido marcada por la pandemia y los estragos que ha dejado. "
 image: "/uploads/2021/images-cop-busca-alcanzar-acuerdos-lideres_0_81_1024_602.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Qué es la COP y por qué los líderes del mundo se reúnen por el cambio climático?"
 front: false
 section: "Internacional"
-news_id: 189495
+redirect_from: /news/189495
 ---
 
 La Conferencia de las Naciones Unidas sobre Cambio Climático (COP26) de este año en Glasgow, en la región de Escocia, en el Reino Unido, en que los líderes del mundo se reúnen para una cuestión de suma importancia para la humanidad: ¿Puede el mundo unirse para enfrentar el enemigo común del sobrecalentamiento global antes de que sea demasiado tarde? 

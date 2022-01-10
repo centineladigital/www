@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con estas acciones, Chihuahua capital es referente en la participación ciudadana, rendición de cuentas y gobierno abierto"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cumple Ayuntamiento de Chihuahua con su declaración 3 de 3; Hacen público su patrimonio"
 front: false
 section: "Local"
-news_id: 190150
+redirect_from: /news/190150
 ---
 
 El presidente municipal Marco Bonilla Mendoza y los directores del Gobierno Municipal, entregaron hoy su declaración 3 de 3, con el fin de reafirmar el compromiso con la ciudadanía de combate a la corrupción y rendición de cuenta, misma que se puede consultar en la página del Municipio http://www.municipiochihuahua.gob.mx/.

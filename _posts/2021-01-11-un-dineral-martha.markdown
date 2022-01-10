@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La conductora de 'Hoy' reveló la cantidad millonaria que se obtuvo tras la venta de los boletos del concierto virtual. "
 image: "/uploads/2021/images-concierto-rbd-genero-ganancias-millonarias_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Un dineral -  Martha Figueroa asegura que show de RBD generó ganancias millonarias"
 front: false
 section: "Espectáculos"
-news_id: 182027
+redirect_from: /news/182027
 ---
 
 El concierto virtual de RBD marcó el reencuentro de una de las bandas más populares en América Latina. Ahora, Martha Figueroa, conductora de Hoy, compartió las cantidades millonarias que generó el espectáculo "Ser o parecer", que ofrecieron los cantantes Anahí, Maite Perroni, Christian Chávez y Christopher Uckermann para sus fans el 26 de diciembre del año pasado. Durante la transmisión del programa Con permiso, Figueroa y Juan José Pepillo Origel hablaron de los excelentes resultados que tuvo el concierto que contó con la presencia de casi todos los integrantes de RBD, a excepción de Dulce María y Poncho Herrera. 

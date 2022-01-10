@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El total de defunciones confirmadas es de 5 mil 890 con 38 nuevos casos en Juárez (+26), Chihuahua (+6), Parral (+3),  Cuauhtémoc (+2)  y Gómez Farías (+1) "
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acumula estado 60,631 contagios por COVID-19, la mitad en Juárez"
 front: false
 section: "Local"
-news_id: 183855
+redirect_from: /news/183855
 ---
 
 El reporte diario de la pandemia por COVID-19 emitido por la Secretaría de Salud muestra que al 13 de abril  van 60 mil 631 contagios acumulados, con 94 confirmados en las últimas horas; del total 30 mil 040 corresponden a Juárez y 16 mil 355 a Chihuahua.

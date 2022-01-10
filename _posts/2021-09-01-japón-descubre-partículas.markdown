@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras una investigación, el Ministerio de Salud japonés indicó que no se espera que las partículas representen un riesgo para la salud"
 image: "/uploads/2021/images-acero-inoxidable-vacunas-moderna-representa_133_50_760_472.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Japón descubre partículas de acero inoxidable en vacunas anticovid de Moderna"
 front: false
 section: "Internacional"
-news_id: 187311
+redirect_from: /news/187311
 ---
 
 El Ministerio de Salud de Japón informó que los contaminantes hallados en vacunas de Moderna contra el covid-19 eran partículas de acero inoxidable y no espera que representen un riesgo de salud adicional. 

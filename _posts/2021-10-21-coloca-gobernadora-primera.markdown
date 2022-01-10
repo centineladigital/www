@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Inversión de 36 mdp con recursos del FASP para una mejor atención a víctimas del delito"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Coloca Gobernadora primera piedra de ampliación de la Fiscalía Estatal Zona Centro"
 front: false
 section: "Local"
-news_id: 189019
+redirect_from: /news/189019
 ---
 
 Con el objetivo de mejorar la atención a las víctimas del delito, así como evitar el hacinamiento en las oficinas gubernamentales, la gobernadora Maru Campos Galván colocó la primera piedra de los trabajos de ampliación de la Fiscalía General del Estado (FGE) Zona Centro, con una inversión de 36 millones de pesos (mdp).

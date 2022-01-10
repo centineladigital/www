@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Sin invitación previa, la vedette se subió al escenario mientras Gloria Trevi cantaba 'Doctor Psiquiatra' en pleno show musical; te contamos qué fue lo que pasó. "
 image: "/uploads/2021/images-lyn-may-colo-escenario-concierto_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Se robó el show? Lyn May se 'coló' al escenario del concierto de Gloria Trevi; así reaccionó la cantante"
 front: false
 section: "Espectáculos"
-news_id: 190566
+redirect_from: /news/190566
 ---
 
 Lyn May es una de las figuras del espectáculo mexicano que más ha dado de qué hablar en los últimos meses, desde su supuesto embarazo hasta su próxima boda con Markos D1. La vedette también se ha visto en vuelta en polémicos episodios como su visita a Carmen Salinas en el hospital tras pleito, pero ahora la actriz causó sensación en redes por colarse al concierto de Gloria Trevi.  El curioso momento sucedió durante un show musical que ofreció Gloria Trevi el fin de semana en la Expo Compositores en la ciudad de Los Ángeles, California. El concierto marchaba con normalidad hasta que la cantante -quien se vio involucrada en acusaciones de evasión fiscalen septiembre- se llevó una enorme sorpresa cuando Lyn May subió al escenario.  

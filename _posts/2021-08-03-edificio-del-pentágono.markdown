@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La sede del Departamento de Defensa de Estados Unidos informó que se registran incidentes"
 image: "/uploads/2021/images-el-pentagono-ap_32_0_1136_707.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Edificio del Pentágono cierra de emergencia; reportan disparos"
 front: false
 section: "Internacional"
-news_id: 186225
+redirect_from: /news/186225
 ---
 
 El Pentágono fue cerrado de emergencia esta mañana después de que se reportan varios disparos cerca de una plataforma junto a la estación de metro de la instalación. Un anuncio del Pentágono dijo que la instalación fue cerrada debido a “actividad policial”. 

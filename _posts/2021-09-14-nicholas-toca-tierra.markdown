@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Servicio Meteorológico Nacional prevé que provoque chubascos en Nuevo León y Tamaulipas."
 image: "/uploads/2021/images-6d686823-d16c-4f8e-bf4e-9852a591ed15.tmp"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Nicholas' toca tierra en Texas y se degrada a tormenta tropical"
 front: false
 section: "Internacional"
-news_id: 187701
+redirect_from: /news/187701
 ---
 
 Nicholas tocó tierra en Texas y se degradó a tormenta tropical, lo que podría generar chubascos en Nuevo León y Tamaulipas, informó el Servicio Meteorológico Nacional (SMN), de la Comisión Nacional del Agua (Conagua), mientras que los expertos de Estados Unidos emitieron una advertencia intermedia para la zona ante el frente climático que llegó a ser huracán. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La comunidad “Díaz Infante” recibió paquetes de arroz, lenteja, frijol y harina   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Municipio apoyo alimentario a 22 familias de asentamiento tarahumara"
 front: false
 section: "Local"
-news_id: 189307
+redirect_from: /news/189307
 ---
 
 El Gobierno Municipal entregó paquetes de grano a 22 familias del asentamiento tarahumara “Díaz Infante”, que se ubica en la colonia Primero de Mayo, esto como parte de las acciones de los primeros 100 días de trabajo y resultados.

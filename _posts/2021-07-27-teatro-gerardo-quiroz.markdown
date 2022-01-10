@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El productor volverá a participar como actor en la puesta en escena Sueños en Broadway, que se presenta en Alboa Artz Pedregal."
 image: "/uploads/2021/images-productor-celebra-anos-produciendo-actor.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Teatro. Gerardo Quiroz apoya el desarrollo artístico"
 front: false
 section: "Espectáculos"
-news_id: 186017
+redirect_from: /news/186017
 ---
 
 La prioridad para una gran parte de la industria del entretenimiento es regresar a las actividades presenciales en los foros, teatros y centros sociales, reactivando así las producciones y el trabajo para millones de personas. 

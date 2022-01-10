@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Los titulares de la UT Paquimé y la UT de la Babícora buscan posicionar a sus instituciones como un referente a nivel nacional en lo que respecta a programas académicos de calidad"
 image: "/uploads/2021/images-R1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acuden rectores de la UT de Paquimé y de la Babícora a Reunión Nacional de la ANUT 2021"
 front: false
 section: "Local"
-news_id: 190929
+redirect_from: /news/190929
 ---
 
 Rectores de Universidades Tecnológicas del estado de Chihuahua participaron en la reunión anual de la Asociación Nacional de Universidades Tecnológicas (ANUT), en la que se dieron cita representantes de diversas instituciones educativas del nivel superior.

@@ -14,11 +14,11 @@ author: nil
 description: "Se aprobará la entrada de personas con las vacunas Pfizer-BioNTech, AstraZeneca, Janssen (Johnson & Johnson), Moderna, Sinopharm y Sinovac."
 image: "/uploads/2021/images-frontera.jpg"
 video: "/uploads/2021/videos-BJ05_ANA_ZAPATA_.mp4"
-audio: "nil"
+audio: nil
 alt: "La apertura de la frontera debe ser lo antes posible "
 front: false
 section: "Local"
-news_id: 188746
+redirect_from: /news/188746
 ---
 
 La diputada Ana Georgina Zapata, expresó que la apertura de la frontera debe ser lo antes posible ya que será importante para que las PÝMES puedan esquematizar y ver sus sistemas de crecimiento de sus propias empresas.

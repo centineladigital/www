@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz de 33 años dijo que el amor que siente por Mauricio Ochmann no ha terminado. ¿Regresarán? "
 image: "/uploads/2021/images-aislinn-derbez-mauricio-ochmann-reaparecen_0_26_712_443.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lo amo y siempre lo amé -  Aislinn Derbez habla de Ochmann a un año de su separación"
 front: false
 section: "Espectáculos"
-news_id: 182873
+redirect_from: /news/182873
 ---
 
 Aislinn Derbez y Mauricio Ochmann siguen dando de qué hablar, a pesar de haber anunciado el fin de su matrimonio en marzo del año pasado. A casi un año de su ruptura, la actriz de 33 años habló sobre su ex pareja. ¿Regresarán? Esto fue lo que dijo. 

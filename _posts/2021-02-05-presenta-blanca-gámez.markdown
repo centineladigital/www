@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En este período se celebraron siete sesiones de la Diputación permanente, dos períodos extraordinarios, siendo uno de ellos, solemne"
 image: "/uploads/2021/images-GFNGNFN.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AV02_BLANCA_GAMEZ.mp3"
 alt: "Presenta Blanca Gámez informe de la Diputación Permanente"
 front: false
 section: "Local"
-news_id: 182739
+redirect_from: /news/182739
 ---
 
 La diputada presidenta del H. Congreso del Estado, presentó el informe de las actividades realizadas durante la primera Diputación Permanente, dentro del tercer año de ejercicio constitucional de la sexagésima sexta legislatura. Lo anterior, durante el segundo período ordinario de sesiones.

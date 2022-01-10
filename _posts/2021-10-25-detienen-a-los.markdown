@@ -16,11 +16,11 @@ author: nil
 description: "La detención fue para 3 personas del sexo masculino a quienes se les investigo por medio del gobierno municipal y la colaboración de los agentes de la Fiscalía Gral. Del Estado"
 image: "/uploads/2021/images-DSPM_el_que_la_hace_la_paga.jpeg"
 video: "/uploads/2021/videos-BL04_JULIO_SALAS_Y_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Detienen a los delincuentes de la pandilla los linos "
 front: false
 section: "Local"
-news_id: 189173
+redirect_from: /news/189173
 ---
 
 En materia de seguridad pública, el gobierno municipal está haciendo esfuerzos de acuerdo al programa Chihuahua cero impunidad “el que la hace la paga”, el director de Seguridad Pública Municipal Julio Salas afirmó que en colaboración con la Fiscalía Gral.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz reveló que una floor manager de Televisa la trataba mal en venganza por no haberle comprado los productos que vendía. "
 image: "/uploads/2021/images-livia-brito-revela-pagar-derecho.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Te pasaste -  Livia Brito revela que la hicieron pagar derecho de piso en Televisa"
 front: false
 section: "Espectáculos"
-news_id: 191098
+redirect_from: /news/191098
 ---
 
 Livia Brito habló de lo difícil que fue su ascenso a la fama en una entrevista para el programa Pinky Promise, de Karla Díaz, en donde también reveló que José Ron y Eduardo Santamarina han sido los actores que mejor la han besado en una telenovela. En medio del revuelo que generaron sus confesiones, la actriz contó que cuando comenzó su carrera en Televisa le cobraron "derecho de piso". La protagonista de La desalmada contó que tras terminar su carrera en Administración de empresas consiguió ingresar al Centro de Educación Artística de Televisa (CEA);sin embargo, señaló que no todo fue miel sobre hojuelas y tuvo que enfrentar varias adversidades, pues le costaba mucho actuar escenas en las que debía llorar. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El secretario de Salud estatal aseguró que Chihuahua tiene bajos niveles de contagios y hospitalización, pero la movilidad es algo muy preocupante. "
 image: "/uploads/2021/images-chihuahua.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Movilidad por periodo vacacional amenaza control de la pandemia en Chihuahua -  Ssa"
 front: false
 section: "Local"
-news_id: 185544
+redirect_from: /news/185544
 ---
 
 La movilidad por periodo vacacional podría afectar el control que tiene Chihuahua sobre la emergencia sanitaria, a pesar de que la entidad se encuentra "mejor que en ningún momento de la pandemia", indicó Eduardo Hernández Herrera, secretario de Salud estatal. 

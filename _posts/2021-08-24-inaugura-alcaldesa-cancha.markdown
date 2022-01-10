@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con una inversión de 2 millones 80 mil 402 pesos resultado del Presupuesto Participativo "
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura Alcaldesa cancha de fútbol en fraccionamiento Montecarlo"
 front: false
 section: "Local"
-news_id: 187051
+redirect_from: /news/187051
 ---
 
 La alcaldesa, María Angélica Granados Trespalacios, inauguró la cancha de fútbol rápido ubicada en fraccionamiento Montecarlo, resultado del Presupuesto Participativo 2021. 

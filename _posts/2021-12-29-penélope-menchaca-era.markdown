@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Antes de que la conociéramos por 12 corazones o Venga la Alegría, Penélope Menchaca tuvo una faceta como cantante. "
 image: "/uploads/2021/images-penelope-menchaca-cantaba-grupo-musical.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Penélope Menchaca era cantante! Revelan en TikTok video de la conductora en grupo musical"
 front: false
 section: "Espectáculos"
-news_id: 191330
+redirect_from: /news/191330
 ---
 
 Seguramente conociste a Penélope Menchaca por 12 corazones, programa que condujo por varios años y el cual fue muy popular. Anos después se integró a TV Azteca y comenzó a trabajar en Venga la Alegría y en Enamorándonos, reemplazando a Carmen Muñoz, pero antes de esto, la conductora estuvo en un grupo musical. A través de TikTok se han hecho virales varios videos en donde se ve a Penélope Menchaca con cabello rubio, algo con lo que no estamos acostumbrados a verla, además de que luce un traje y es acompañada de otras tres mujeres. 

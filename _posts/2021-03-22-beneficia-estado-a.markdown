@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Informa el Gobernador Javier Corral que a la fecha han destinado 103 mdp al Programa de Apoyo a Organizaciones de la Sociedad Civil y se trabaja en la institucionalización de estos programas que deben ser permanentes  "
 image: "/uploads/2021/images-Red_de_Fortalecimiento_Familiar_Juárez_1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Beneficia Estado a casi 500 mil personas con la Red de Fortalecimiento Familiar"
 front: false
 section: "Local"
-news_id: 183503
+redirect_from: /news/183503
 ---
 
 El Gobierno del Estado, a través del DIF Estatal ha impulsado el trabajo colaborativo con la sociedad civil destinando desde el año 2017 a la fecha un total de 103 millones de pesos al Programa de Apoyo a Organizaciones de la Sociedad Civil (OSC), informó el gobernador Javier Corral Jurado durante la Segunda Asamblea General de la Red Estatal de Fortalecimiento Familiar.

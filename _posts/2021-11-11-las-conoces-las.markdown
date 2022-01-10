@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor cumple hoy 47 años y para unirnos a la celebración recopilamos algunas de sus escenas más icónicas en el cine. "
 image: "/uploads/2021/images-leonardo-dicaprio-miticas-escenas-improvisado_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Las conoces? Las míticas escenas que ha improvisado Leonardo DiCaprio en el cine"
 front: false
 section: "Espectáculos"
-news_id: 189783
+redirect_from: /news/189783
 ---
 
 Leonardo DiCaprio es una de las figuras más importantes de Hollywood. El actor estadunidense, quien hoy cumple 47 años de edad, es reconocido por su capacidad camaleónica y su imponente personalidad, características que se han convertido en una marca esencial en cada uno de los personajes que ha interpretado desde su debut en la pantalla grande con la película de ciencia ficción y terror Critters 3 (1991). Con una trayectoria invaluable, DiCaprio ha protagonizado joyas del cine, entre ellas Titanic, cinta que se convirtió en un fenómeno mundial. Por si fuera poco, el actor ha regalado a la audiencia momentos clave en el cine que pasarán a la historia, es por ello que aquí recopilamos algunas de las escenas más icónicas que ha improvisado. 

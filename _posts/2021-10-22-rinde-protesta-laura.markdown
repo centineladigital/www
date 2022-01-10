@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La nueva coordinadora es Licenciada en Relaciones Industriales por el Instituto Tecnológico de Chihuahua y desde 2014 se desempeñó como subdirectora de área en el Cobach."
 image: "/uploads/2021/images-COBACHZN_(2).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rinde protesta Laura Robledo como coordinadora del Cobach Zona Norte"
 front: false
 section: "Local"
-news_id: 189081
+redirect_from: /news/189081
 ---
 
 Laura Olivia Robledo Vega rindió protesta como coordinadora de Colegio de Bachilleres del Estado de Chihuahua (Cobach) Zona Norte, en acto efectuado en las oficinas de esta institución educativa en Ciudad Juárez. 

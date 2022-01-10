@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Carlos Santana tuvo que ser operado del corazón después de que pidiera ser llevado al hospital ya que tenía un problema en el pecho."
 image: "/uploads/2021/images-carlos-santana-iba-ofrecer-conciertos.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Carlos Santa fue operado del corazón; cancela conciertos"
 front: false
 section: "Espectáculos"
-news_id: 190429
+redirect_from: /news/190429
 ---
 
 Carlos Santana es uno de los músicos más exitosos, es por eso que sus fans no pierden la oportunidad de verlo en vivo, sin embargo, para todos aquellos que planeaban hacerlo este mes ya no será posible, ya que el guitarrista tuvo que ser operado del corazón y se tomará un tiempo para recuperarse. Carlos Santana anunció que fue operado exitosamente del corazón, pero que debió cancelar sus presentaciones programadas para diciembre en Las Vegas. En un video difundido el miércoles, Santana dijo que le pidió a su esposa que lo llevara el sábado al hospital porque tenía un problema en el pecho. 

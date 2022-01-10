@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En gira de trabajo por la entidad, la subsecretaria de Educación Básica, Martha Velda Hernández Moreno, visitará planteles ubicados en localidades de Guadalupe y Calvo y la Telesecundaria Estatal 6155 de Chihuahua capital"
 image: "/uploads/2021/images-Visita_subsecretaria_de_la_SEP-4.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suman esfuerzos SEyD y SEP para mejorar y fortalecer atención en telesecundarias del estado"
 front: false
 section: "Local"
-news_id: 188113
+redirect_from: /news/188113
 ---
 
 Con el objetivo de conocer la operación y servicio que ofrecen las escuelas telesecundarias de la entidad y levantar un registro que contribuya a mejorar la atención que se brinda a la población estudiantil, la subsecretaria de Educación Básica de la Secretaría de Educación Pública (SEP), Martha Velda Hernández Moreno, realiza una gira de trabajo por Chihuahua.

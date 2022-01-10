@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Son 23 plazas entre temporales y definitivas de niveles Inicial, Preescolar, Secundaria Técnica y Secundaria General, Primaria Indígena y Educación Especial"
 image: "/uploads/2021/images-IMG_8917.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asignan plazas de dirección y supervisión en el Subsistema Federal"
 front: false
 section: "Local"
-news_id: 188773
+redirect_from: /news/188773
 ---
 
 La Unidad del Sistema para la Carrera de las Maestras y los Maestros (Usicamm) llevó a cabo la asignación de plazas para las y los trabajadores del Subsistema Federal.

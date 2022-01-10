@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Dicho evento se desarrolló dentro de la XLVI Semana de Química Internacional, a través de la XXII Jornada de Investigación y Posgrado de la Facultad de Biotecnología, Alimentos y Ciencias Químicas de la Universidad Autónoma de Chihuahua (UACH)."
 image: "/uploads/2021/images-dsc_8863.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estudiante de la Universidad Tecnológica de la Tarahumara gana concurso de química a nivel nacional"
 front: false
 section: "Local"
-news_id: 188856
+redirect_from: /news/188856
 ---
 
 El alumno Aarón Andrés González Atienzo, perteneciente a la carrera de Tecnología Ambiental de la Universidad Tecnológica de la Tarahumara (UTT), obtuvo el primer lugar en el concurso de carteles de investigación.

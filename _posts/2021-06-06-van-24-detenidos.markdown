@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Realizaron distintos hechos intimidatorios a personas que acudieron a emitir su voto en las distintas casillas de la ciudad "
 image: "/uploads/2021/images-fge.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Van 24 detenidos por delitos electorales en esta jornada"
 front: false
 section: "Local"
-news_id: 184875
+redirect_from: /news/184875
 ---
 
 Esta mañana se realizó la detención de por lo menos 24 personas que de manera grupal realizaron distintos hechos intimidatorios a personas que acudieron a emitir su voto en las distintas casillas de la ciudad. Al tratarse de un delito grave y de alcance federal, serán consignados a la Fiscalía General, donde se determinará su grado de responsabilidad.

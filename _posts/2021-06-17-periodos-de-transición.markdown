@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Desde dos meses el Estado regresó a las reuniones y los indicadores se registran en aumento."
 image: "/uploads/2021/images-ALEX.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ04_ALEX_DOMINGUEZ.mp3"
 alt: "Periodos de transición pueden generar violencia -  Domínguez"
 front: false
 section: "Local"
-news_id: 185090
+redirect_from: /news/185090
 ---
 
 “Ya lo hemos vivido, periodos de transición pueden genera violencia”, fueron las palabras del dirigente del PRI a nivel Estatal, Alejandro Domínguez, quien llamó al gobierno del estado a continuar los trabajos en materia de seguridad, esto ante repunte violento que se vivió en el mes de mayo.

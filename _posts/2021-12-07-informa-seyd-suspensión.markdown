@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A fin de salvaguardar la integridad del alumnado y personal educativo"
 image: "/uploads/2021/images-SED_2970.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Informa SEyD suspensión de posadas y festejos en escuelas"
 front: false
 section: "Local"
-news_id: 190584
+redirect_from: /news/190584
 ---
 
 La Secretaría de Educación y Deporte (SEyD) informó que quedan suspendidas las actividades no esenciales al interior de las instalaciones escolares, tales como kermeses, posadas y festejos entre compañeros y/o para educandos.

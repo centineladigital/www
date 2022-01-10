@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El programa de televisión está basada en la famosa serie de libros de ciencia ficción que llevan el mismo nombre."
 image: "/uploads/2021/images-eli.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Arrasando! Eiza González se une a serie creada por cocreadores de 'Game of Thrones'"
 front: false
 section: "Espectáculos"
-news_id: 186309
+redirect_from: /news/186309
 ---
 
 ¡No sólo será María Felix! Eiza González está en negociaciones para unirse al elenco de la serie de ciencia ficción Three-Body Problem de Netflix, con los cocreadores de Game of Thrones, David Benioff y DB Weiss, quienes se encargarán de adaptar esta serie de televisión para la plataforma de streaming.  

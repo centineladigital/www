@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el inicio de la temporada de calor se recomienda tomar dos litros de agua embotellada, desinfectada o hervida al día a fin de mantenerse hidratado"
 image: "/uploads/2021/images-Calor_en_Chihuahua.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Cuídese del calor! aumentan temperaturas"
 front: false
 section: "Local"
-news_id: 183687
+redirect_from: /news/183687
 ---
 
 Con el incremento de la temperatura y el inicio de la temporada de calor se recomienda tomar dos litros de agua embotellada, desinfectada o hervida al día a fin de mantenerse hidratado.

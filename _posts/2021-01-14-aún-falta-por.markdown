@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Actualmente se está trabajando en la relación de la cuenta pública 2020 y el cierre del año 2019"
 image: "/uploads/2021/images-rgrreher.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AJ05_HECTOR_ACOSTA_FELIX.mp3"
 alt: "Aún falta por entregar 100 informes de la Auditoría Superior del Estado al Congreso"
 front: false
 section: "Local"
-news_id: 182146
+redirect_from: /news/182146
 ---
 
 El Auditor Superior del Estado, Héctor Acosta Félix, informó que aun falta de entregar 100 informes al Congreso del Estado, adicionales a los que ya se presentaron, por lo que ya se encuentran afinando detalles para su presentación.

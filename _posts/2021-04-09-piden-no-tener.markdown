@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto ante la viralización para no aplicarse la vacuna."
 image: "/uploads/2021/images-wendy.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV02_WENDY_AVILA.mp3"
 alt: "Piden no tener miedo de vacunación"
 front: false
 section: "Local"
-news_id: 183796
+redirect_from: /news/183796
 ---
 
 “No deben de tener miedo de acudir a la vacunación, recordemos que las consecuencias del COVID 19 son fatales”, fueron las palabras viernes la Subdirectora de Medicina Preventiva y Promoción de la Salud, Wendy Avila Coronado al ser cuestionada respecto a la invitación que se lleva a cabo para no vacunarse.

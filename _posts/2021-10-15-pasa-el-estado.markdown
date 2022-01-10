@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Del 18 al 31 de octubre, el estado de Chihuahua permanecerá en semáforo epidemiológico amarillo"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Pasa el estado de Chihuahua a semáforo amarillo y aplica medidas restrictivas para evitar aumento de contagios"
 front: false
 section: "Local"
-news_id: 188760
+redirect_from: /news/188760
 ---
 
 Del 18 al 31 de octubre, el estado de Chihuahua permanecerá en semáforo epidemiológico amarillo, esto, luego de que se registrara un incremento de contagios y aumentara el nivel de transmisión del virus Sars-Cov2 en la entidad.

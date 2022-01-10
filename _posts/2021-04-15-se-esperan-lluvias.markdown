@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con la aproximación del Frente Frío 51 este jueves habrá un cielo mayormente nublado aunque sin precipitaciones, informa la CEPC; pide extremar precauciones por tolvaneras en los tramos carreteros Juárez-Janos, Sueco-Ahumada, Jiménez-Parral y Jiménez-Saucillo"
 image: "/uploads/2021/images-descarga.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se esperan lluvias para este viernes en Janos, Ahumada, Guadalupe y Práxedis"
 front: false
 section: "Local"
-news_id: 183904
+redirect_from: /news/183904
 ---
 
 La aproximación del Frente Frío 51 y la situación de estacionario del número 50 ocasionarán que este 15 y 16 de abril haya un cielo mayormente nublado, y para el viernes se prevén lluvias acompañadas de caída de granizo en Janos, Ahumada, Guadalupe y Práxedis G. Guerrero, informó la Coordinación Estatal de Protección Civil (CEPC).

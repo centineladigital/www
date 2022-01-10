@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El trabajo bilateral mantiene el diálogo constante y productivo; se escuchó la voz de los trabajadores, resaltó el doctor Arturo Olivares Cerda."
 image: "/uploads/2021/images-Foto_CC_Contrato_Colectivo_de_Trabajo_2021-2023-4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Firman IMSS y SNTSS Contrato Colectivo de Trabajo 2021-2023"
 front: false
 section: "Local"
-news_id: 188774
+redirect_from: /news/188774
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) y el Sindicato Nacional de Trabajo del Seguro Social (SNTSS) firmaron el convenio de la revisión del Contrato Colectivo de Trabajo bienio 2021-2023, el cual refrenda el compromiso de impulsar mayor bienestar en favor de la clase trabajadora.

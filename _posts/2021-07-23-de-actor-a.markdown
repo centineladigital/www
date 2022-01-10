@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Además de actor, Daniel Radcliffe también es escritor. Hace algunos años intérprete de Harry Potter reveló en una entrevista que publicó algunos de sus poemas bajo un seudónimo. "
 image: "/uploads/2021/images-daniel-radcliffe-publico-poemas-seudonimo_0_137_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "De actor a poeta, la faceta de escritor de Daniel Radcliffe que muy pocos conocen"
 front: false
 section: "Espectáculos"
-news_id: 185949
+redirect_from: /news/185949
 ---
 
 Una de las historias que logró cautivar a más de uno fue la del joven mago, Harry Potter, personaje creado por J.K Rowling, quien causó polémica en Twitter por uno de sus comentarios. Gracias a que los libros se llevaron a la pantalla grande, Daniel Radcliffe, actor que interpretó al personaje principal saltó a la fama.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la canción, que se estrena el jueves 7 de octubre en las plataformas digitales, el cantautor colombiano cuenta con la colaboración de sus compatriotas. "
 image: "/uploads/2021/images-greeicy.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fonseca anuncia '2005', su nueva canción junto a Greeicy, Cali y El Dandee"
 front: false
 section: "Espectáculos"
-news_id: 188467
+redirect_from: /news/188467
 ---
 
 Recordar viejas canciones y que te envuelvan en un viaje al pasado, volver a vivir momentos que marcaron parte importante en la vida, es justamente lo que tiene la nueva canción de Fonseca titulada “2005”, con la que homenajea a su rola “Te mando flores”, que se lanzó en ese año con un éxito rotundo. Algunos galardones que recibió la canción fue el Latin Grammy en la categoría Mejor Canción Tropical. Ese mismo año, Fonseca fue galardonado como Mejor Nuevo Artista Tropical en Premios Lo Nuestro y Premios MTV Latinoamérica, así que su carrera fue en incremento, es por ello que buscó hacer una nueva versión con “2005”, en agradecimiento a todo lo que se creó tras este lanzamiento. 

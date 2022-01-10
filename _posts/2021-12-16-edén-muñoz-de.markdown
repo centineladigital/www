@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante publicó un video en el que explicó que tras realizarse tres pruebas dio positivo a covid-19. "
 image: "/uploads/2021/images-eden-munoz-explico-los-sintomas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Edén Muñoz de Calibre 50 dio positivo a covid-19 -  “tocó la mala suerte”"
 front: false
 section: "Espectáculos"
-news_id: 190919
+redirect_from: /news/190919
 ---
 
 Edén Muñoz, vocalista de Calibre 50, informó por medio de un video que dio positivo a covid-19, algo de lo que se percató después de presentar algunos síntomas relacionados con el coronavirus. El cantante señaló que tras realizarse varias pruebas de antígenos, todas resultaron positivas. Edén muñoz subió un video a Instagram en donde le informó a sus seguidores que desafortunadamente se une a las personas en México y en el mundo que se han contagiado de covid-19. 

@@ -16,11 +16,11 @@ author: nil
 description: "Se respetó el criterio de la Suprema Corte de Justicia para no hacer de esto algo anticonstitucional"
 image: "/uploads/2021/images-index.jpg"
 video: "/uploads/2021/videos-BL01_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "CFE hará reducción del 50 por ciento en el cobro del DAP  "
 front: false
 section: "Local"
-news_id: 190805
+redirect_from: /news/190805
 ---
 
 El Alcalde Marco Antonio Bonilla Mendoza, manifestó que ante la reunión con el Superintendente de la Comisión Federal de Electricidad Aldo Armendáriz  se logró la reducción del  cobro al 50 por ciento para las 120 mil cuentas que  tenían incremento del Derecho de Alumbrado Público,  lo que representa un 40 por ciento de los contribuyentes  lo cual les asegura  ya no tener incremento del DAP para el próximo año 2022.

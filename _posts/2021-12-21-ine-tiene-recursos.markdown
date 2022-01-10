@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El senador de Morena pidió dialogar y buscar soluciones jurídicas, económicas y políticas para realizar la consulta. "
 image: "/uploads/2021/images-ricardo-monreal-coordinador-morena-senado-24_0_1_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "INE tiene recursos de sobra para organizar la revocación de mandato -  Ricardo Monreal"
 front: false
 section: "Nacional"
-news_id: 191083
+redirect_from: /news/191083
 ---
 
 El coordinador de Morena en el Senado, Ricardo Monreal, aseguró que el Instituto Nacional Electoral (INE) no puede alegar falta de recursos para incumplir con sus obligaciones constitucionales y menos cambiar las fechas que la ley señala para llevar a cabo el ejercicio de revocación de mandato, porque incurre en una falta grave al usurpar funciones del Poder Legislativo. “

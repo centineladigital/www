@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Padres de familia hicieron la petición durante el “Miércoles Ciudadano” al DIF Municipal"
 image: "/uploads/2021/images-unnamed_(22).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan útiles escolares y chamarras a niñas y niños de la comunidad Mazahua"
 front: false
 section: "Local"
-news_id: 190275
+redirect_from: /news/190275
 ---
 
 Un total de 34 familias de la comunidad Mazahua, asentada en esta ciudad, fueron beneficiadas con la entrega de artículos escolares, kits sanitizantes, cobijas, despensas, así como chamarras para niñas y niños, gracias a la gestión que realizaron el pasado “Miércoles Ciudadano” al DIF Municipal. 

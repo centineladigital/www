@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente indica además que padeció de la enfermedad porque tiene que salir a trabajar; llama a los mexicanos a vacunarse contra SARS-CoV-2 en el momento que les toque"
 image: "/uploads/2021/images-2525787.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "‘Me enfermé de Covid, porque no me vacuné’ -  López Obrador"
 front: false
 section: "Nacional"
-news_id: 182768
+redirect_from: /news/182768
 ---
 
 Por no abusar de su posición para recibir la vacuna contra Covid-19 y debido a que no puede dejar de trabajar, fueron los motivos que el presidente Andrés Manuel López Obrador dio para explicar el motivo por el que contrajo esta enfermedad.

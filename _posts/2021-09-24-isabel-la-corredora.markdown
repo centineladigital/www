@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Tengo tres años y cuatro meses de trasplantada y llevo una vida completamente normal, comentó la paciente."
 image: "/uploads/2021/images-Foto_421-3_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Isabel -  La corredora trasplantada que promueve la donación a través del deporte"
 front: false
 section: "Local"
-news_id: 188029
+redirect_from: /news/188029
 ---
 
 Isabel vive en Ciudad Juárez, es madre de cinco hijos, trabaja y es corredora recreativa. Hace tres años fue sometida a un trasplante de riñón donado por su hija y desde entonces, a través del deporte, intenta promover este importante tema.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Marília Mendonça murió en un accidente aéreo al estrellarse la avioneta en la que viajaba; se dirigía a dar un concierto."
 image: "/uploads/2021/images-la-cantante-viajaba-con-otras-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Marília Mendonça, famosa cantante brasileña, en accidente aéreo"
 front: false
 section: "Espectáculos"
-news_id: 189604
+redirect_from: /news/189604
 ---
 
 Marília Mendonça, una de las cantantes y compositoras más reconocidas del panorama musical brasileño, murió este viernes en un accidente aéreo al estrellarse la avioneta en la que viajaba para un concierto en el estado de Minas Gerais (sureste). El Cuerpo de Bomberos de Minas Gerais informó en una nota que la popular cantante de 26 años falleció tras el impacto de la avioneta bimotor en la que se transportaba con otras cuatro personas, que también murieron. El aparato, modelo Beech Aircraft, en el que viajaban los cinco ocupantes se precipitó sobre las 15.30 hora local (18.30 GMT) en una región serrana de Caratinga, en el interior del estado de Minas Gerais, donde Mendonça iba a ofrecer un concierto esta noche.

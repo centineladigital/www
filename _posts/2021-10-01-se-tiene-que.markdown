@@ -16,11 +16,11 @@ author: nil
 description: "Al diputado Romero le preocupa que AMLO  viva en el pasado "
 image: "/uploads/2021/images-Juan_Carlos_Romero_Hicks_PAN.jpg"
 video: "/uploads/2021/videos-BV04_JUAN_ROMERO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se tiene que estudiar a profundidad la reforma energética "
 front: false
 section: "Local"
-news_id: 188300
+redirect_from: /news/188300
 ---
 
 Respecto a la iniciativa de reforma energética del presidente de la república Andrés Manuel López Obrador la cual propone explotar el litio en tierra mexicana el diputado de México Juan Carlos Romero Hicks mencionó que se tiene que estudiar la profundidad de la propuesta, por otro lado cito 3 cosas que le preocupan. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Este organismo evalúa perfiles y revisa requisitos para otorgar dicha prestación a docentes de instituciones de nivel superior de SEECH"
 image: "/uploads/2021/images-Nuevos_integrantes_Comisión_año_sabático-2__.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Designa SEECH nuevos integrantes  de la Comisión Estatal de Año Sabático"
 front: false
 section: "Local"
-news_id: 188915
+redirect_from: /news/188915
 ---
 
 Servicios Educativos del Estado de Chihuahua (SEECH) llevó a cabo la renovación de las y los integrantes de la Comisión Estatal de Año Sabático, beneficio que se otorga a docentes de instituciones de nivel superior de este organismo.

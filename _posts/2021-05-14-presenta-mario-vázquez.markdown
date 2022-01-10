@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Busca que se dé capacitación y diversos apoyos a los jóvenes."
 image: "/uploads/2021/images-MARIO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV04_MARIO_VAZQUEZ.mp3"
 alt: "Presenta Mario Vázquez plataforma para apoyo a jóvenes"
 front: false
 section: "Local"
-news_id: 184467
+redirect_from: /news/184467
 ---
 
 Debido a que representan la tercera parte de los chihuahuenses, este viernes el candidato a la diputación por el décimo sexto distrito, Mario Vázquez Robles, presentó sus propuestas para impulsar a la juventud.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Busca promocionar el deporte popular y fomentar los nuevos talentos."
 image: "/uploads/2021/images-unnamed_(11).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno Municipal al torneo relámpago de básquetbol 3x3"
 front: false
 section: "Local"
-news_id: 188850
+redirect_from: /news/188850
 ---
 
 El Gobierno Municipal de Chihuahua a través del Instituto Municipal de Cultura Física y Deporte, convoca a niñas, niños y jóvenes a participar en el Torneo Relámpago de Básquetbol 3x3 que se llevará a cabo el próximo sábado 23 de octubre en el Parque Revolución en punto de las 8 de la mañana. 

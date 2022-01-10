@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de su cuenta de Instagram en donde Daniela reveló cómo se siente tras no poder festejar a su padre como en otros años. Con varias fotografías –en forma de collage– la joven recordó a Héctor Parra. "
 image: "/uploads/2021/images-daniela-parra-dedica-palabras-hector.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Te extraño con el alma -  Hija de Héctor Parra dedica palabras por Día del Padre; asegura es inocente"
 front: false
 section: "Espectáculos"
-news_id: 185137
+redirect_from: /news/185137
 ---
 
 Héctor Parra está llevando un proceso legal en prisión, luego de que una de sus hijas –Alexa (hija de Ginny Hoffman) – lo acusara de abuso sexual cuando era una niña. Sin embargo, en repetidas ocasiones el actor negó ser victimario. En este contexto, otra de sus hijas, Daniela, quien lo ha defendido de lo que se le acusa, expresó lo mucho que lo extraña y dedicó algunas palabras en el marco del Día del Padre.

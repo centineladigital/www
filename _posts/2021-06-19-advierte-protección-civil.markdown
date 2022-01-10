@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La depresión tropical “Dolores” en el Océano Pacífico ocasionará rachas de viento superiores a 65 km/h y lluvias moderadas en varias zonas del territorio estatal"
 image: "/uploads/2021/images-CALOR_EN_CHIHUAHUA_MEGALETRAS.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte Protección Civil por clima caluroso; hasta 43°C en Ojinaga"
 front: false
 section: "Local"
-news_id: 185126
+redirect_from: /news/185126
 ---
 
 La Coordinación Estatal de Protección Civil dio a conocer que este sábado 19 de junio subirán las temperaturas en el estado y marcarán hasta 39°C en Juárez, Janos y Ojinaga, así como 35°C en la ciudad de Chihuahua 35.

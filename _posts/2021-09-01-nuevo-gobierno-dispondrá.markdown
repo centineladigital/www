@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El monto se compone de los Ingresos propios por 3,688 mdp, los cuales son de libre disposición, así como de Aportaciones Federales por 7,894 mdp para pagos en seguridad, salud y educación y salud, explica el secretario de Hacienda, Arturo Fuentes"
 image: "/uploads/2021/images-11_562_mdp.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nuevo Gobierno dispondrá de 11 mil 562 millones de pesos de septiembre a diciembre"
 front: false
 section: "Local"
-news_id: 187339
+redirect_from: /news/187339
 ---
 
 Los ingresos a disposición que tendrá la siguiente Administración Pública Estatal, de septiembre a diciembre del 2021, se estiman en 11 mil  562 millones de pesos: 7 mil 894 de participaciones federales y de libre disposición 3 mil 668 de ingresos propios, informó el secretario de Hacienda del Estado de Chihuahua, Arturo Fuentes Vélez.

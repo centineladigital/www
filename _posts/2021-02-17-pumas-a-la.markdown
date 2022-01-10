@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El equipo universitario suma tres goles y apenas una victoria en el presente torneo Clausura 2021"
 image: "/uploads/2021/images-2530878.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pumas a la baja; después de seis fechas"
 front: false
 section: "Deportes"
-news_id: 182977
+redirect_from: /news/182977
 ---
 
 Los Pumas parecen estar pagando el precio de haber sido uno de los dos equipos, junto con el León, que llegaron más lejos el torneo anterior. Así lo indican sus estadísticas en este arranque del Guardianes Clausura 2021, las cuales contrastan con las que tenían el certamen pasado a esta misma altura.

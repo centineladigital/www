@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Héctor Suárez Gomís dedico un emotivo texto para recordar a su mamá, Pepita Gomís. El actor contó cómo fue que murió la presentadora. "
 image: "/uploads/2021/images-actor-dedico-emotivo-texto-mama.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Héctor Suárez Gomís cuenta cómo murió su mamá, Pepita Gomís -  Intentó escribir -  'No puedo respirar'"
 front: false
 section: "Espectáculos"
-news_id: 191308
+redirect_from: /news/191308
 ---
 
 El pasado 26 de diciembre Héctor Suárez Gomís informó el fallecimiento de su mamá, Pepita Gomís, quien fue una reconocida presentadora de televisión. La conductora murió a los 83 años y estuvo casada con el actor Héctor Suárez 36 años, aunque ambos se separaron, siempre tuvieron una buena relación. A pocos días de haber fallecido Josefina Gomís, su hijo Héctor le dedicó un emotivo texto el cual fue publicado en Instagram y fue acompañado con varias fotografías de la presentadora de televisión. 

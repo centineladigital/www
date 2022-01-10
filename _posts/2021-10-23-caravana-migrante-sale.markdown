@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los migrantes se incorporaron a la carretera hacia Viva México, que es un punto de control donde hay un despliegue de elementos del INM y la Guardia Nacional. "
 image: "/uploads/2021/images-oracion-sale-caravana-inmediaciones-parque_0_53_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Caravana migrante sale de Chiapas rumbo a frontera con EU"
 front: false
 section: "Nacional"
-news_id: 189115
+redirect_from: /news/189115
 ---
 
 Con una cruz de madera y una manta con la leyenda "migrantes paz y justicia", la caravana migrante salió de Tapachula, Chiapas, hacia la frontera entre México y Estados Unidos; sin embargo, prevé hacer una escala en la Ciudad de México. El grupo está encabezado por alrededor de 50 personas menores de 30 años.  

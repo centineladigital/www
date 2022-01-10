@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se busca fortalecer de manera conjunta acciones en beneficio del alumnado y la región"
 image: "/uploads/2021/images-CONVENIO.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Firma Universidad Tecnológica de Camargo convenio con el Ayuntamiento de Meoqui"
 front: false
 section: "Local"
-news_id: 188912
+redirect_from: /news/188912
 ---
 
 Como parte de la vinculación que la Universidad Tecnológica de Camargo (UTCAM) mantiene con organizaciones públicas y privadas, en contribución  al desarrollo tecnológico, económico, social de la región y el estado, esta institución educativa firmó un convenio de trabajo con el Ayuntamiento de Meoqui.

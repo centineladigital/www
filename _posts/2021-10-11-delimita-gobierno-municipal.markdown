@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se han aplicado cerca de 7 mil metros lineales en lo que va de octubre"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-11_at_10.23.01.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Delimita Gobierno Municipal carriles en De la Juventud y avenida Los Nogales"
 front: false
 section: "Local"
-news_id: 188583
+redirect_from: /news/188583
 ---
 
 En lo que va del mes de octubre, el Gobierno Municipal a través de la Dirección de Obras Públicas, han pintado las líneas divisorias de carriles del Periférico de la Juventud y de la avenida Los Nogales, equivalentes a 6 mil 900 metros lineales para seguridad de los conductores. 

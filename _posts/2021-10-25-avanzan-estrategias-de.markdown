@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el fin de dar seguimiento a varios acontecimientos durante la semana pasada, la cual destacó por su gran actividad en acciones en defensa de la seguridad de la ciudadanía."
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avanzan estrategias de seguridad del Gobierno del Estado en pro de chihuahuenses; sesiona Mesa Estatal de Seguridad"
 front: false
 section: "Local"
-news_id: 189160
+redirect_from: /news/189160
 ---
 
 La mañana de este lunes, sesionaron los miembros de la Mesa Estatal de Seguridad con el objetivo de dar continuidad al compromiso del Gobierno del Estado de salvaguardar la seguridad de todos los chihuahuenses con estrategias que permitan la prevención del delito entre la ciudadanía, así como la persecución eficiente del mismo.

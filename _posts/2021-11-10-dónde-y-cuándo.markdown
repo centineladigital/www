@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Será el tercer duelo del 'Tricolor' ante las 'Barras y las estrellas' durante este 2021"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Dónde y cuándo ver el partido México vs Estados Unidos?"
 front: false
 section: "Deportes"
-news_id: 189732
+redirect_from: /news/189732
 ---
 
 La Selección Mexicana enfrenta su siguiente compromiso de las eliminatorias rumbo a la Copa del Mundo Qatar 2022, el rival será Estados Unidos.

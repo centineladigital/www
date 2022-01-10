@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Claudia Sheinbaum destacó que se han aplicado 13.7 millones de vacunas en la capital "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca en CDMX la vacunación de refuerzo contra Covid-19 para adultos mayores de 60 años "
 front: false
 section: "Nacional"
-news_id: 190576
+redirect_from: /news/190576
 ---
 
 Este martes arrancó la aplicación de la vacuna de refuerzo contra Covid-19 para adultos mayores en la alcaldía Tlalpan. La jefa de Gobierno de la Ciudad de México, Claudia Sheinbaum, encabezó el inicio de la jornada de vacunación en el Centro de Estudios Superiores de Salud de la Secretaría de la Marina, donde se aplica la tercera dosis de AstraZeneca para adultos mayores de 60 años. 

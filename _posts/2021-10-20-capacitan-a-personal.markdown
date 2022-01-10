@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Buscan identificar manifestaciones de violencia en espacios de trabajo"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacitan a personal del IMM para prevenir violencia laboral"
 front: false
 section: "Local"
-news_id: 188964
+redirect_from: /news/188964
 ---
 
 Como parte de la labor constante de capacitación a servidores públicos, el Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM), llevó a cabo el taller “Aproximación a los Derechos Humanos”, dirigido al personal que labora en esta dependencia.

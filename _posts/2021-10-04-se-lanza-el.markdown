@@ -14,11 +14,11 @@ author: nil
 description: "La extensión es 65 16 en la subdirección de educación"
 image: "/uploads/2021/images-ESCUELAS.jpg"
 video: "/uploads/2021/videos-BL01_MONICA_HERRERA.mp4"
-audio: "nil"
+audio: nil
 alt: "Se lanza el programa “Medidas de prevención en tu escuela (covid 19)”"
 front: false
 section: "Local"
-news_id: 188355
+redirect_from: /news/188355
 ---
 
 La directora de Desarrollo Humano Y Educación Mónica Herrera declaró que las medidas de prevención que se tomarán a causa de la pandemia de Covid 19 se iniciarán este  07 de octubre, por ello dio el número de extensión de la secretaria, por si alguna escuela necesita el apoyo.

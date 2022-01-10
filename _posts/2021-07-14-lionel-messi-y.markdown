@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Destacan siete jugadores que disputaron la final entre Brasil y Argentina, así como la ausencia de uruguayos. "
 image: "/uploads/2021/images-lionel-messi-y-neymar-reuters.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lionel Messi y Neymar lideran el 11 ideal de la Copa América"
 front: false
 section: "Deportes"
-news_id: 185656
+redirect_from: /news/185656
 ---
 
 La Conmebol dio por concluida la Copa América 2020 tras la revelación del once ideal del torneo, en los cuales destacan siete jugadores que disputaron la final entre Brasil y Argentina, así como la ausencia de uruguayos. 

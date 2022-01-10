@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El funcionario detalló que el segmento de población más afectado es en estos momentos es aquel cuyas edades oscilan entre los 30 a 50 años."
 image: "/uploads/2021/images-a-la-fecha-se-han-1_0_1_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detectan casos de variante Delta, Alfa y Lambda de coronavirus en Oaxaca"
 front: false
 section: "Nacional"
-news_id: 185780
+redirect_from: /news/185780
 ---
 
 El titular de la Secretaría de Salud de Oaxaca, Juan Carlos Márquez Heine, confirmó que en la entidad circulan tres variantes del virus SARS-CoV-2, la Delta, Alfa y Lambda, consideradas por la Organización Mundial de la Salud (OMS) como las de mayor riesgo y contagio entre la población. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Participa en la entrega el director general del Instituto Politécnico Nacional, institución encargada de desarrollar y operar el proyecto con un nuevo modelo de transferencia tecnológica del conocimiento  "
 image: "/uploads/2021/images-DSC_4966.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura Gobernador el Centro de Innovación e Integración de Tecnologías Avanzadas en Juárez"
 front: false
 section: "Local"
-news_id: 186652
+redirect_from: /news/186652
 ---
 
 El gobernador Javier Corral inauguró en Ciudad Juárez el nuevo Centro de Innovación e Integración de Tecnologías Avanzadas (CIITA), que con inversión de 240 millones de pesos, formará talentos para fortalecer las competencias de la industria en la región y atraer inversiones para proyectos de mayor valor agregado y empleos mejor pagados.

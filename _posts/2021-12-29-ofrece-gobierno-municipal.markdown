@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "De lunes a viernes de 8:00 a 15:00 horas, vía telefónica o en las instalaciones del Instituto Municipal de las Mujeres"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ofrece Gobierno Municipal asesoría jurídica gratuita a mujeres"
 front: false
 section: "Local"
-news_id: 191314
+redirect_from: /news/191314
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM), brinda asesoramiento en temas legales por medio del proyecto “Jurídico Gratuito”, mismo que está conformado por abogadas que dan atención a las necesidades más apremiantes de la población.

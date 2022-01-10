@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Al continuar la gira de trabajo por Ciudad Juárez el Gobernador Javier Corral indicó que esta obra se realizó a petición de los padres de familia y autoridades educativas, con una inversión de 2.6 millones de pesos  "
 image: "/uploads/2021/images-Inauguración_de_aulas_en_Telebachillerato_Bosco_(6).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Maratón de Obras -  se entrega remodelación de Telebachillerato Juan Bosco en Juárez"
 front: false
 section: "Local"
-news_id: 187025
+redirect_from: /news/187025
 ---
 
 En gira de entrega de Obras con Valor en Ciudad Juárez, el gobernador Javier Corral Jurado, inauguró la remodelación del Telebachillerato #86148 Juan Bosco, la cual beneficiará a más de 150 familias pertenecientes a la colonia 16 de Septiembre y zonas aledañas.

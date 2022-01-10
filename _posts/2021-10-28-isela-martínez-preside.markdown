@@ -16,11 +16,11 @@ author: nil
 description: "Se trabajará el ultimo informe de Javier Corral "
 image: "/uploads/2021/images-2317010.jpg"
 video: "/uploads/2021/videos-BJ05_ISELA_MARTINEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Isela Martínez preside nueva comisión en el congreso   "
 front: false
 section: "Local"
-news_id: 189328
+redirect_from: /news/189328
 ---
 
 Diputados del Congreso del Estado de Chihuahua, aprobaron la creación de la Comisión Especial de Análisis de los Informes del Poder Ejecutivo que preside la diputada Isela Martínez , la Comisión Especial se encargará de analizar los informes que rinda el Poder Ejecutivo.

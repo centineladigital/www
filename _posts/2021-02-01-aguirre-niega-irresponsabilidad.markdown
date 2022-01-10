@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El estratega de Monterrey comentó que sería insensato enviar a jugar a un futbolista con covid-19 y afirmó que siguen los protocolos"
 image: "/uploads/2021/images-2521892.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aguirre niega irresponsabilidad de Rayados en contagios"
 front: false
 section: "Deportes"
-news_id: 182610
+redirect_from: /news/182610
 ---
 
 El técnico de los Rayados de Monterrey, Javier Aguirre, no cedió a hablar profundamente sobre el brote de covid-19 que se suscitó después del partido ante las Águilas del América y señaló que sería una insensatez alinear jugadores contagiados. 

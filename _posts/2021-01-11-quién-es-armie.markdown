@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En internet circulan supuestas conversaciones del actor en las que él admitiría ser 100 por ciento caníbal, sin embargo, no existe prueba alguna de que éstas sean reales. "
 image: "/uploads/2021/images-armie-hammer-shutterstock.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Quién es Armie Harmmer y por qué dicen que es caníbal"
 front: false
 section: "Espectáculos"
-news_id: 182021
+redirect_from: /news/182021
 ---
 
 Este año está demostrando que puede ponerse tan raro como el anterior, y eso que sólo han transcurrido dos semanas desde que inició. Hoy, nos despertamos sorprendidos al descubrir que el actor Armie Hammer era tendencia en Twitter nada más y nada menos que porque se había corrido el rumor de que él había afirmado ser un caníbal.  Así, es, leíste bien. Supuestamente, según afirmaron algunos usuarios de la red social antes mencionada, el actor habría propuesto a una mujer practicar actos de canibalismo y las conversaciones se habrían filtrado a manera de captura de pantalla en internet. Sin embargo, aunque en dichas imágenes aparezca que los mensajes fueron enviados desde la cuenta verificada de Instagram del actor, no hay prueba alguna de que sean verídicos, pues, sabemos, es fácil falsificar una conversación de este tipo.  

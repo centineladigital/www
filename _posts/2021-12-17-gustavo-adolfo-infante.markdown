@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue durante la emisión en vivo de ‘De Primera Mano’ en donde Gustavo Adolfo Infante defendió al cantante Eduin Caz tras ser exhibido de presuntamente ser infiel a su pareja Deisy Anahí."
 image: "/uploads/2021/images-gustavo-adolfo-infante-defiende-eduin.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gustavo Adolfo Infante defiende a Eduin Caz tras presunta infidelidad -  foto no dice nada"
 front: false
 section: "Espectáculos"
-news_id: 190967
+redirect_from: /news/190967
 ---
 
 Gustavo Adolfo Infante, conductor de ‘De Primera Mano’, mostró su postura sobre la más reciente polémica que envolvió a Eduin Caz –vocalista de Grupo Firme– sobre su presunta infidelidad hacia su esposa Deisy Anahí. El presentador y periodista de espectáculos defendió al cantante; aseguró que la imagen que presuntamente prueba la infidelidad no dice nada. Fue durante la emisión en vivo de ‘De Primera Mano’ en donde Gustavo Adolfo Infante defendió al cantante Eduin Caz tras ser exhibido por presuntamente ser infiel a su pareja Deisy Anahí. 

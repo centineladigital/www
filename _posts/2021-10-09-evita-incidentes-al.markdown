@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "A fin de que los senderistas no sufran afectaciones por situaciones extraordinarias"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-09_at_10.37.46_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Evita incidentes al acudir a cerros; Emite DSPM recomendaciones"
 front: false
 section: "Local"
-news_id: 188562
+redirect_from: /news/188562
 ---
 
 Debido a que aún se presentan días calurosos en el territorio municipal, y con ello el flujo de chihuahuenses que visitan sitios para practicar deporte o recreación en cerros, presas y parques alejados de la mancha urbana, la Dirección de Seguridad Pública Municipal emite recomendaciones para evitar incidentes que en ocasiones derivan en lesiones graves. 

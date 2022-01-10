@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que existen diversos puntos de pago."
 image: "/uploads/2021/images-GRANILLO.jpg"
 video: "/uploads/2021/videos-MM04_JOSE_GRANILLO.mp4"
-audio: "nil"
+audio: nil
 alt: "Podría Hacienda abrir módulos estratégicos en la entidad"
 front: false
 section: "Local"
-news_id: 190121
+redirect_from: /news/190121
 ---
 
 La apertura de módulos en puntos estratégicos de Chihuahua es algo que no se descarta, señaló el titular de la Secretaría de Hacienda José de Jesús Granillo Vázquez, esto tras iniciativa presentada ante el Congreso del Estado.

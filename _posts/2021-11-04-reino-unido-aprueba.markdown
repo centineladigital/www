@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Agencia Reguladora de Medicamentos, consideró que el medicamento es seguro y efectivo para reducir el riesgo de ingreso hospitalario y muerte en personas con Covid de suave a moderado que sufren un riesgo extra "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reino Unido aprueba uso de pastilla antiCovid molnupiravir de Merck"
 front: false
 section: "Internacional"
-news_id: 189537
+redirect_from: /news/189537
 ---
 
 Londres.- Las autoridades sanitarias del Reino Unido han aprobado el uso de la primera pastilla antiviral contra el Covid-19, el molnupiravir, que podrá usarse en pacientes que han dado positivo en un test y que presentan al menos un factor de riesgo para desarrollar una enfermedad grave.

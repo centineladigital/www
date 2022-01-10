@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Expresó su reconocimiento, en específico a la candidata del PRI, Graciela Ortiz, su decisión de ver por Chihuahua como un bastión de equilibrio entre autoridades"
 image: "/uploads/2021/images-wfdwfwfwe.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AJ01_FRANCISCO_SANTINI.mp3"
 alt: "Ve CCE una acción cívica por parte de Graciela Ortiz "
 front: false
 section: "Local"
-news_id: 184691
+redirect_from: /news/184691
 ---
 
 Respecto a las declinaciones políticas que se han anunciado en los últimos días, el presidente del Consejo Coordinador Empresarial (CCE), Francisco Santini Ramos, comentó que lejos de restar credibilidad al proceso electoral, estas acciones son muestras de civilidad, pues se deja ver la visión por un bien mayor, por parte de los candidatos que no tenían grandes probabilidades de triunfo.

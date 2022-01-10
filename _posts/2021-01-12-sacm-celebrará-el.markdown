@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Sociedad de Autores y Compositores de México transmitirá el concierto que reunirá a más de 50 voces de distintos géneros musicales, en honor a Armando Manzanero. "
 image: "/uploads/2021/images-el-maestro-armando-manzanero-sera.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "SACM celebrará el Día del Compositor con concierto en homenaje a Armando Manzanero"
 front: false
 section: "Espectáculos"
-news_id: 182065
+redirect_from: /news/182065
 ---
 
 Este 15 de enero se celebra el Día del Compositor y la Sociedad de Autores y Compositores de México (SACM) celebrará a lo grande, con un homenaje al maestro Armando Manzanero, quien falleció el 28 de diciembre a los 86 años. La celebración contará con más de 50 personalidades del mundo de la música de diversos géneros, entre los que destacan Aleks Syntek, Carlos Rivera, Alex Lora, Samo y Reik, entre muchas otras voces. 

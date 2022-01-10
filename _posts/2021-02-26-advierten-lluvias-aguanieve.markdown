@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Para este sábado por la noche y la mañana del domingo también se prevé granizo en Ojinaga y Camargo, informa la CEPC; se mantienen fuertes rachas de viento en la entidad"
 image: "/uploads/2021/images-Mapa_metereológico.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierten lluvias, aguanieve y nieve para la zona serrana este fin de semana"
 front: false
 section: "Local"
-news_id: 183174
+redirect_from: /news/183174
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que según los datos del Sistema Meteorológico Nacional se prevén lluvias en la zona serrana, durante la tarde del sábado 27 y la mañana del domingo 28, principalmente en Madera y Creel, Bocoyna, así como aguanieve y nieve en las partes altas de la Sierra Tarahumara.

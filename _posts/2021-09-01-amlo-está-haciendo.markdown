@@ -14,11 +14,11 @@ author: nil
 description: "No han tenido nuevos impuestos "
 image: "/uploads/2021/images-BARRERA.jpg"
 video: "/uploads/2021/videos-BW05_JESUS_BARRERA.mp4"
-audio: "nil"
+audio: nil
 alt: "AMLO  está haciendo su mayor esfuerzo por el País"
 front: false
 section: "Local"
-news_id: 187348
+redirect_from: /news/187348
 ---
 
 El presidente del Instituto Mexicano De Contadores Públicos el C.P.C Jesús José Barrera Torres mencionó que el presidente Andrés Manuel López Obrador  esta haciendo su mayor esfuerzo en estos tres años de gestión.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La película reúne a Paulina, Elena y Julián en una nueva aventura para vengarse de Agustín Corcuera; aquí te contamos cuál es el personaje que interpreta Angélica María."
 image: "/uploads/2021/images-angelica-maria-en-la-casa_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Quién es Angélica María en 'La casa de las flores, la película', ¿reemplaza a Verónica Castro?"
 front: false
 section: "Espectáculos"
-news_id: 185199
+redirect_from: /news/185199
 ---
 
 La casa de las flores, la película trae de vuelta las disputas, ocurrencias y dilemas existenciales de los De la Mora, una familia que pese a sus diferencias siempre se apoyan en los momentos más complicados. La cinta de Manolo Caro reúne a Paulina, Elena y Julián en una peculiar misión, pero también devela nuevos personajes, entre ellos el de Angélica María. 

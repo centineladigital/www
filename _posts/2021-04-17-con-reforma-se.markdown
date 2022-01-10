@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Busca que los ciudadanos que entreguen registro de su voz, medidas de su rostro, iris, clave electoral, domicilio y fecha en la que se activó la línea: Rodolfo Leyva"
 image: "/uploads/2021/images-selfie-465563_1920_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con reforma se criminaliza tener teléfono móvil"
 front: false
 section: "Local"
-news_id: 183944
+redirect_from: /news/183944
 ---
 
 Intrusiva, desproporcionada e incriminatoria la reforma en materia de telefonía móvil al pedir que se proporcione un conjunto de datos personales y biométricos para conformar un padrón de usuarios, indicó Rodolfo Leyva, consejero del Instituto Chihuahuense para la Transferencia y el Acceso a la Información Pública (ICHITAIP).

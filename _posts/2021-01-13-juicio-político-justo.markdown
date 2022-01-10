@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El juicio contra Donald Trump ocurrirá luego de que deje la presidencia, indicó el líder del Senado de Estados Unidos."
 image: "/uploads/2021/images-2511357.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Juicio político 'justo' contra Trump será hasta que deje presidencia"
 front: false
 section: "Internacional"
-news_id: 182119
+redirect_from: /news/182119
 ---
 
 Mitch McConnell, líder de la mayoría en el Senado de Estados Unidos, comentó que el juicio político contra Donald Trump no ocurrirá mientras sigua siendo presidente.

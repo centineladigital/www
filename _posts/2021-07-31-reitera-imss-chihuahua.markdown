@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La emergencia sanitaria aún no termina, por lo que no hay que bajar la guardia"
 image: "/uploads/2021/images-Foto_3549-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reitera IMSS Chihuahua a mantener medidas de higiene en casa para evitar contagios de COVID-19"
 front: false
 section: "Local"
-news_id: 186166
+redirect_from: /news/186166
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua reitera a la población que se deben de mantener las medidas de prevención en el hogar, para evitar la propagación de COVID-19 y tener un verano seguro en casa.

@@ -16,11 +16,11 @@ author: nil
 description: "Conmemoración de 312 aniversario de la fundación de Chihuahua "
 image: "/uploads/2021/images-evento_fundación_chihuahua_Portada.jpg"
 video: "/uploads/2021/videos-BM01_BONILLA_Y_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "¡Feliz aniversario Chihuahua!"
 front: false
 section: "Local"
-news_id: 188650
+redirect_from: /news/188650
 ---
 
 Como parte del 312 aniversario de la fundación del  estado de Chihuahua funcionarios del estado y municipio llevaron a cabo un acto protocolario en donde se hizo un izamiento de bandera en la plaza de armas.

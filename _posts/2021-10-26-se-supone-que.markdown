@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Niza Buenrostro reveló en su cuenta de TikTok cómo la producción ayudó a su contrincante solo por rating aunque se le olvidó la canción. "
 image: "/uploads/2021/images-joven-cuenta-lo-que-paso_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se supone que es un concurso de talento -  Joven revela cómo le hicieron trampa en 'La Voz' por no tener una historia trágica"
 front: false
 section: "Espectáculos"
-news_id: 189231
+redirect_from: /news/189231
 ---
 
 Los reality shows como La Academia o La Voz dan oportunidad a jóvenes talentos para que se den a conocer, pero son duramente criticados ya que no siempre ganan las personas con mejor voz, sino quien más rating de a la producción, y así lo reveló una joven en su cuenta de TikTok, luego de que en 2014 fuera expulsada de La Voz México por preferencias de la producción. Niza Buenrostro compartió cómo fue que Los tigres del norte hicieron avanzar en el programa a su contrincante solo porque era stripper, a pesar de que se le olvidó la mitad de la canción, mientras que a ella la obligaron a repetir el numero para que el otro joven no quedara mal ante las cámaras.

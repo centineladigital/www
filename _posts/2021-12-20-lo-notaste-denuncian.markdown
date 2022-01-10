@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En redes sociales circula un video que muestra un extraño gesto que hace Paul unos instantes antes de noquear a su rival "
 image: "/uploads/2021/images-curioso-gesto-creer-jake-paul.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Lo notaste? Denuncian pelea arreglada entre Jake Paul y Tyron Woodley por este gesto"
 front: false
 section: "Deportes"
-news_id: 191026
+redirect_from: /news/191026
 ---
 
 El sábado pasado Jake Paul derrotó al ex peleador de la UFC Tyron Woodley, en un combate de box que generó polémica, pues horas después de que el youtuber se llevara la victoria comenzó a sonar el rumor de que la  pelea estaba amañada. 

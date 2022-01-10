@@ -14,11 +14,11 @@ author: nil
 description: " La problemática radica en que la Suprema Corte de Justicia de la Nación (SCJN), en sesión del Tribunal Pleno"
 image: "/uploads/2021/images-big_tyzqu6e6.jpg"
 video: "/uploads/2021/videos-BV03_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "Desaparecer DAP, gran golpe al municipalismo -  Bonilla "
 front: false
 section: "Local"
-news_id: 190018
+redirect_from: /news/190018
 ---
 
 El presidente municipal Marco Antonio Bonilla Mendoza, mencionó que el desaparecer el DAP es un gran golpe al municipalismo, ya que el servicio de alumbrado público es esencial para la ciudadanía y su seguridad.

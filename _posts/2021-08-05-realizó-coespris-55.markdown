@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el programa “Logros con Valor” se informan acciones para proteger a la población de cualquier riesgo a la salud, ante el consumo de alimentos y agua, procesos de fabricación, atención médica, productos naturistas y fertilizantes"
 image: "/uploads/2021/images-coespris_destruccion_productos_milagro_3.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-2-_TITULAR_COESPRIS_MA_EUGENIA_GALVÁN_LOGROS_CON_VALOR_SRIA_SALUD_5-8-21.MP3"
 alt: "Realizó Coespris 55 mil visitas sanitarias  y destruyó 110 toneladas de productos nocivos"
 front: false
 section: "Local"
-news_id: 186342
+redirect_from: /news/186342
 ---
 
 La Comisión Estatal para la Protección contra Riesgos Sanitarios, a través de su titular, María Eugenia Galván Antillón, informó que en los cinco años de la Administración se realizaron un total de 55 mil visitas sanitarias y atendieron más de 2 mil denuncias ciudadanas en todo el estado.

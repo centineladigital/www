@@ -10,11 +10,11 @@ author: nil
 description: "Exhortan a cuidar a los menores ya que en estas fiestas existe exceso de alcohol."
 image: "/uploads/2021/images-ELOY.jpg"
 video: "/uploads/2021/videos-MJ02_ELOY_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Revientan tres fiestas rave en 15 días"
 front: false
 section: "Local"
-news_id: 188490
+redirect_from: /news/188490
 ---
 
 En 15 días han reventado 15 fiestas rave en el estado, siendo una de ellas en la ciudad de Meoquí donde asistieron menores del municipio de Chihuahua, por lo que se lanzó una alerta a los padres de familia a cuidar de sus hijos, según palabras del titular del área Eloy García Tarín.

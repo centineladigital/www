@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con eventos como este la institución se propone que se analice, discuta, y se obtengan consensos que configuren el nuevo perfil del supervisor escolar  "
 image: "/uploads/2021/images-Ofrecen_conferencia_magistral.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ofrece SEECH conferencia magistral sobre mejora en la Supervisión Escolar"
 front: false
 section: "Local"
-news_id: 191275
+redirect_from: /news/191275
 ---
 
 Con el objetivo de analizar, discutir y lograr consensos que configuren el nuevo perfil del supervisor escolar, Servicios Educativos del Estado de Chihuahua (SEECH), presentó la conferencia virtual “La supervisión escolar; elementos para la asesoría y acompañamiento en las escuelas”, ofrecida por la expositora Oralia Bonilla Pedroza.

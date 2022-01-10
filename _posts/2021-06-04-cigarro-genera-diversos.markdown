@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Lengua, garganta y pulmones son los cánceres más comunes que afectan a los fumadores."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV02.mp3"
 alt: "Cigarro genera diversos tipos de cáncer -  Salud"
 front: false
 section: "Local"
-news_id: 184848
+redirect_from: /news/184848
 ---
 
 Diferentes tipos de cáncer son los que se genera por fumar, señaló la Subdirectora de Medicina Preventiva, Wendy Ávila Coronado. Quien dijo que lengua, garganta y pulmones son los cánceres más comunes que afectan a los fumadores.

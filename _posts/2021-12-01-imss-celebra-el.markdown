@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La Secretaría de Salud de la Ciudad de México, doctora Oliva López Arellano, señaló que el Protocolo brinda la posibilidad de hacer un frente común para prevenir y detectar oportunamente casos de VIH."
 image: "/uploads/2021/images-Foto_545-3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS celebra el Día Mundial de la Lucha contra el SIDA y lanza Protocolo de Atención Integral con acciones específicas en beneficio para más de 79 mil derechohabientes que viven con VIH"
 front: false
 section: "Local"
-news_id: 190408
+redirect_from: /news/190408
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) anunció el Protocolo de Atención Integral del Virus de Inmunodeficiencia Humana (PAI), que lo pone a la vanguardia para realizar en sus tres niveles de atención acciones de prevención, diagnóstico, tratamiento y reincorporación, en beneficio de más de 79 mil derechohabientes que son atendidos por VIH en la institución.

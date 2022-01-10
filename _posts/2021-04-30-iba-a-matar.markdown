@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Noelia aseguró que cuando tenía tan sólo nueve años vivió abuso sexual por parte de un profesor de educación física. Siendo ésta, la primera vez que se volvía víctima de este tipo de violencia."
 image: "/uploads/2021/images-noelia-sufrio-abuso-sexual-nina.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Iba a matar a mi familia -  Noelia revela que sufrió abuso sexual de profesor cuando tenía 9 años"
 front: false
 section: "Espectáculos"
-news_id: 184214
+redirect_from: /news/184214
 ---
 
 Cada vez hay más mujeres que deciden romper el silencio sobre la violencia de la que fueron víctimas en algún punto de su vida. Tal es el caso de Noelia, famosa cantante, quien recientemente reveló que cuando era una niña de 9 años sufrió de abuso sexual por parte de un profesor. La intérprete aseguró que esa ocasión fue la primera vez que sufría una agresión sexual. Y es que en 2003, cuando era mucho más grande, vivió de otro abuso sexual mientras se encontraba de gira en México. Su manager y padrastro Carlos ‘Topy’ Mamery fue quien la agredió. En entrevista con Suelta la Sopa, Noelia aseguró que cuando tenía tan sólo nueve años vivió abuso sexual por parte de un profesor de educación física. Siendo ésta la primera vez que se volvía víctima de la pederastia. 

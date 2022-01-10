@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Como parte del Festival Nacional de Literatura Infantil y Juvenil 2021, ofrecerá Chihuahua 3 eventos en vivo a través de facebook.com/CulturaChih a partir de las 10:30 de la mañana"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Secretaría de Cultura a obra de títeres, cuentacuentos y concierto virtuales este 16 de diciembre"
 front: false
 section: "Local"
-news_id: 190898
+redirect_from: /news/190898
 ---
 
 Este 16 de diciembre, Gobierno del Estado, a través de la Secretaría de Cultura, presentará tres eventos en vivo desde el Museo Sebastián, a través de redes sociales de la dependencia estatal, como parte del Festival Nacional de Literatura Infantil y Juvenil 2021 (FELIJ) el cual se realiza con el fin de fomentar la lectura y escritura en niñas, niños y adolescentes.

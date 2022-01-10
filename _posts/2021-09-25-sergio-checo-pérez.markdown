@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Norris conquistó la pole position, mientras que Verstappen por penalización saldrá último"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sergio 'Checo' Pérez saldrá en la novena posición en el Gran Premio de Rusia"
 front: false
 section: "Deportes"
-news_id: 188061
+redirect_from: /news/188061
 ---
 
 Lando Norris de McLaren ha firmado la pole position en el Gran Premio de Rusia, que el español Carlos Sainz, de Ferrari, afrontará desde la primera línea con el segundo mejor tiempo de la Q3, mientras que su compatriota Fernando Alonso, de Alpine, partirá desde la sexta plaza. 

@@ -14,11 +14,11 @@ author: nil
 description: "Están invitados el Alcalde y la Gobernadora "
 image: "/uploads/2021/images-principal_img-20210216-wa0034.jpg"
 video: "/uploads/2021/videos-BM01_RODOLFO_ARMENDARIZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Próximo 9 de noviembre inauguración del puente Romanza "
 front: false
 section: "Local"
-news_id: 189480
+redirect_from: /news/189480
 ---
 
 El director de Obras Públicas Rodolfo Armendáriz Ronquillo, manifestó que la inauguración de puente romanza será el próximo 9 de noviembre a las 10 de la mañana, en la apertura estarán presentes  el alcalde Marco Bonilla Mendoza y la gobernadora del estado María Eugenia Campos Galván.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El aumento en el número de contagios ha derivado en medidas que en zonas como Países Bajos han provocado protestas. "
 image: "/uploads/2021/images-en-austria-comenzo-hoy-un_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Austria confinada y Alemania en alerta; la alarma en Europa por nueva ola de covid-19"
 front: false
 section: "Internacional"
-news_id: 190064
+redirect_from: /news/190064
 ---
 
 Un nuevo aislamiento en Austria comenzó a regir hoy ante el avance de otra ola de contagios de covid-19, la cual está empezando a generar varias acciones sanitarias preventivas en el territorio europeo, alcanzando a países como Alemania, Grecia, Italia, Países Bajos, Reino Unido e incluso Rusia. 

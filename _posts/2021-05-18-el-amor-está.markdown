@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El representante de la cantante detalló que la ceremonia fue discreta y que no hubo más d 20 invitados."
 image: "/uploads/2021/images-ariana-grande-y-dalton-gomez.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡El amor está en el aire!; Ariana Grande se casó con Dalton Gomez"
 front: false
 section: "Espectáculos"
-news_id: 184520
+redirect_from: /news/184520
 ---
 
 Las bodas de los famosos no dejan de sorprender y ahora se sabe que Ariana Grande y Dalton Gomez ya son marido y mujer. Un representante de la cantante confirmó recientemente que ésta se casó con el agente de bienes raíces. El representante de Grande dijo a la revista People que la pareja contrajo nupcias en una ceremonia pequeña e íntima a la que asistieron menos de 20 personas. Aunque no detalló cuándo fue la boda. 

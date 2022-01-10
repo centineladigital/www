@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Nerea Godínez, novia de Octavio Ocaña, expresó su sentir tras la muerte del actor y le dedicó un emotivo mensaje. "
 image: "/uploads/2021/images-octavio-ocana-novia-comprometido-ano.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me dejas muerta en vida -  Novia de Octavio Ocaña le dedica conmovedor mensaje al actor"
 front: false
 section: "Espectáculos"
-news_id: 189395
+redirect_from: /news/189395
 ---
 
 En la madrugada de este 30 de octubre se dio a conocer que Octavio Ocaña, actor que interpretó a Benito Rivers en la serie Vecinos, murió, aparentemente intentaron quitarle su camioneta y los delincuentes le dispararon. Tras esta triste noticia la novia de Octavio, Nerea Godínez, publicó un mensaje dedicado a su novio. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Alemania, cuyo sector industrial depende del mercado chino, apuesta por una posición moderada respecto a China. "
 image: "/uploads/2021/images-meses-unidos-mantiene-posicion-combativa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "UE y Estados Unidos coinciden cada vez más con respecto a su posición con China"
 front: false
 section: "Internacional"
-news_id: 188512
+redirect_from: /news/188512
 ---
 
 La Unión Europea y Estados Unidos coinciden "cada vez más" en la actitud que deben adoptar respecto a China, dijo este jueves el consejero de seguridad nacional estadunidense, Jake Sullivan. 

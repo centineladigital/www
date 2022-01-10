@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ale, la hija de Eduardo Capetillo y Biby Gaytán, dijo que la urge que se acabe el aislamiento. "
 image: "/uploads/2021/images-ale-capetillo-siente-positivo-covid.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estoy congestionada -  Ale Capetillo, hija de Biby Gaytán, detalla síntomas de covid-19"
 front: false
 section: "Espectáculos"
-news_id: 182443
+redirect_from: /news/182443
 ---
 
 Hace unos días, Ale Capetillo, hija de Biby Gaytán y Eduardo Capetillo, dio a conocer que se contagió de covid-19 al mudarse a Madrid, España. La joven de 22 años, quien viajó a dicha ciudad por motivos de trabajo, reveló cómo se siente al respecto. A través de una serie de historias de Instagram, comentó a sus seguidores que va progresando y, tal como lo había dicho cuando confirmó que estaba contagiado, el dolor de garganta y la congestión son síntomas que desde entonces no han desaparecido. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue en 2011 cuando el caso de la actriz inundó los noticieros y portadas de medios especializados en la fuente. Te contamos el caso de feminicidio de Julia Marichal, quien interpretó a Negra Corazón en Marimar con Thalía. "
 image: "/uploads/2021/images-feminicidio-julia-marichal-actriz-vida.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Negra Corazón fue asesinada -  El feminicidio de Julia Marichal que enlutó a Thalía y al elenco de 'Marimar'"
 front: false
 section: "Espectáculos"
-news_id: 188343
+redirect_from: /news/188343
 ---
 
 Uno de los casos que más ha estremecido a la televisión mexicana en el rubro de espectáculos fue el asesinato de una de las actrices emblemáticas que participó en la telenovela Marimar, protagonizada por Eduardo Capetillo y Thalía en 1994. Y es que la famosa actriz Julia Marichal, quien interpretaba el personaje de la Negra Corazón fue víctima de un terrible homicidio. Te contamos lo que sucedió en el feminicidio de la también tía de Kalimba. Fue en 2011 cuando el caso de la actriz inundó los noticieros y portadas de medios especializados en la fuente. Anunciaron la muerte de la actriz Julia Marichal. La famosa que había interpretado al personaje de la Negra Corazón había sido asesinada. 

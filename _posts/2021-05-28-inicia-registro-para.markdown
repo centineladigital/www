@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El registro de vacunación lo podrán realizar en la página https://mivacuna.salud.gob.mx/index.php "
 image: "/uploads/2021/images-dosispablo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia registro para vacunación a personas de entre 40 y 49 años"
 front: false
 section: "Local"
-news_id: 184704
+redirect_from: /news/184704
 ---
 
 El doctor Ruy López Ridaura, director general del Centro Nacional de Programas Preventivos y Control de Enfermedades, informó el inicio de la vacunación contra el virus SARS CoV2 para personas de 40 a 49 años

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Lo que comenzó con alegría, ahora ve truncado su sueño de representar a México en una competencia internacional de WuShu en Arizona. "
 image: "/uploads/2021/images-luis-felipe-alvarez-rosas-especial_0_3_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por tener vacuna contra covid CanSino, atleta lagunero no puede competir en EU"
 front: false
 section: "Deportes"
-news_id: 189189
+redirect_from: /news/189189
 ---
 
 Lo que comenzó como una celebración por el derecho obtenido a participar en una competencia internacional de WuShu en Arizona, hoy es un tema envuelto en incertidumbre para el atleta lagunero Luis Felipe Álvarez Rosas, quien busca vacunarse contra el covid-19 una vez más, ante la posibilidad de no poder ingresar a Estados Unidos a causa de estar vacunado por CanSino. 

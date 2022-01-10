@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "De 2018 a 2021, el porcentaje de recaudación anual de cuotas obrero patronales como proporción del PIB pasó de 1.38% a 1.54%, un incremento de 0.16 p.p"
 image: "/uploads/2021/images-Foto_597-1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La recaudación del IMSS alcanza máximo histórico "
 front: false
 section: "Local"
-news_id: 191241
+redirect_from: /news/191241
 ---
 
 Al mes de noviembre de 2021, la recaudación acumulada de cuotas obrero patronales es de 348,724 millones de pesos,  cifra máxima histórica de recaudación en el IMSS desde que se tiene registro. 

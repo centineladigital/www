@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De marzo a diciembre de 2020 Ciudad Juárez perdió 141 empresas, cerraron sus puertas por la pandemia de Covid-19"
 image: "/uploads/2021/images-negocios_cerrados._olga_casas_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ocasiona pandemia en Juárez el cierre de más de 141 negocios"
 front: false
 section: "Local"
-news_id: 182686
+redirect_from: /news/182686
 ---
 
 De marzo a diciembre de 2020 Ciudad Juárez perdió 141 empresas, es decir, 141 patrones cerraron sus negocios por la pandemia de Covid-19, indicó el presidente de Canacintra, Jesús Manuel Salayandía Lara, de acuerdo con datos del Instituto Mexicano del Seguro Social (IMSS).

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante ofreció un espectáculo lleno de rock y nostalgia, en el que interpretó temas como The Climb y Wrecking Ball. "
 image: "/uploads/2021/images-miley-cyrus-brilla-concierto-previo_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Miley Cyrus 'brilla' en concierto previo al Super Bowl 2021; así reaccionan en redes"
 front: false
 section: "Espectáculos"
-news_id: 182784
+redirect_from: /news/182784
 ---
 
 Miley Cyrus se unió a la lista de artistas que se presentarán este domingo 7 de febrero en el Super Bowl 2021, uno de los eventos deportivos más esperados del año. La cantante estadunidense ofreció un espectáculo inigualable y lleno de nostalgia, pues interpretó algunos de sus éxitos musicales que la catapultaron en la industria musical. 

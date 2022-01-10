@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Revisa por dónde y a qué hora ver el partido de las eliminatorias de la Concacaf"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cuándo y dónde ver el Panamá vs México?"
 front: false
 section: "Deportes"
-news_id: 187531
+redirect_from: /news/187531
 ---
 
 La Selección Mexicana visita este miércoles a Panamá en busca de su tercer victoria en las eliminatorias Concacaf rumbo al Mundial de Qatar 2022.

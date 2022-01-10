@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "También durante ese mismo periodo se logró vincular a proceso a 2 mil 299 personas por su probable responsabilidad en la comisión de algún delito. "
 image: "/uploads/2021/images-sentencias.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En dos meses, obtiene FGE 498 sentencias condenatorias"
 front: false
 section: "Local"
-news_id: 189779
+redirect_from: /news/189779
 ---
 
 La solidez en las investigaciones y los argumentos jurídicos bien sustentados, fueron determinantes para que, durante los meses de septiembre y octubre, la Fiscalía de General del Estado obtuviera 498 sentencias condenatorias.

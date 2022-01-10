@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El vocalista de Slipknot, Corey Taylor, criticó fuertemente a la gente que acude a conciertos sin vacuna; así rindió luto al baterista Joey Jordison."
 image: "/uploads/2021/images-corey-taylor-de-slipknot-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Maldito imbécil -  Corey Taylor, de Slipknot, critica a gente sin vacunar en conciertos"
 front: false
 section: "Espectáculos"
-news_id: 186062
+redirect_from: /news/186062
 ---
 
 Corey Taylor, vocalista de la banda de metal Slipknot, criticó fuertemente a la gente que no se vacuna contra la covid-19, y especialmente a los que no lo hacen y aún así asisten a conciertos. 

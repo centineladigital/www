@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " Realiza con éxito el ISSSTE serial de carreras “Activate Run 2021” en los estados de Chiapas, Oaxaca, Puebla y Veracruz; participaron 850 derechohabientes, informó el director general.  "
 image: "/uploads/2021/images-ISSSTE_05.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El deporte y la activación física, primordiales en la prevención de enfermedades -  Ramírez Pineda"
 front: false
 section: "Local"
-news_id: 189899
+redirect_from: /news/189899
 ---
 
 El deporte y la activación física son esenciales en la prevención de enfermedades, por ello el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), impulsa en todo el país diversos eventos como el Serial de Carreras “Activate Run 2021” que concluyó con éxito, informó el director general, Luis Antonio Ramírez Pineda.

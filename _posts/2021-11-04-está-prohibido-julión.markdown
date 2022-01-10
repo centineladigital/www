@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante señaló que no pueden realizar una colaboración dado su situación legal y la demanda que enfrenta Christian Nodal contra su actual disquera. "
 image: "/uploads/2021/images-julion-alvarez-descarta-dueto-christian_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Está prohibido? Julión Álvarez descarta hacer dueto con Nodal por sus problemas legales"
 front: false
 section: "Espectáculos"
-news_id: 189538
+redirect_from: /news/189538
 ---
 
 Después de las acusaciones que enfrentó por la cancelación de un concierto en Baja California, Christian Nodal está de nuevo envuelto en la polémica luego de que en el programa Ventaneando trascendiera que el cantante demandó a su actual disquera por incumplimiento de contrato. Ante dichos problemas legales, Julión Álvarez descartó unir su voz con el intérprete de "Adiós amor" en un dueto dado que él está aún bajo investigación.  En una conferencia de prensa, que recogió el programa de TV Azteca, Julión Álvarez reveló que por el momento es imposible planear una colaboración con Christian Nodal debido a las restricciones que tienen tanto él como el prometido de Belinda por parte de la compañía discográfica con la que trabaja actualmente. 

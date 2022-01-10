@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ángela Ponce rompió el silencio tras las declaraciones de Lupita Jones y Gustavo Adolfo Infante sobre las mujeres trans: la tachó de transfóbica y pidió que no haga el ridículo. "
 image: "/uploads/2021/images-angela-ponce-responde-lupita-jones.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No llores -  Ángela Ponce explota contra Lupita Jones por 'transfóbica'; pide 'no haga el ridículo'"
 front: false
 section: "Espectáculos"
-news_id: 182153
+redirect_from: /news/182153
 ---
 
 Lupita Jones sigue dando de qué hablar, pues lanzó su opinión sobre los certámenes de belleza y las mujeres trans. Y es que en entrevista con Gustavo Adolfo Infante –quien también habló mal de las mujeres trans– volvió a reforzar su postura, la cual fu tachada de transfóbica. Por ello, Ángela Ponce, primera mujer trans en Miss Universo 2018, le respondiera. Le pidió que dejara de hacer el ridículo. 

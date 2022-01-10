@@ -10,11 +10,11 @@ author: nil
 description: "Este operativo durará hasta el mes de febrero en los municipios productores"
 image: "/uploads/2021/images-OPERATIVO.jpg"
 video: "/uploads/2021/videos-MJ03_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Inicia operativo de protección a producción nogalera"
 front: false
 section: "Local"
-news_id: 189037
+redirect_from: /news/189037
 ---
 
 Este jueves dio inicio el “Operativo de protección a la cosecha de alto valor” el cual tiene como fin resguardar a los productores nogaleros, donde el estado es uno de los principales productores con más de 101 mil toneladas de producción lo que representó cerca de un 70 por ciento de la producción a nivel nacional.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el propósito de impulsar el desarrollo artístico y cultural de la capital, el Gobierno Municipal a través del Instituto de Cultura (ICM) clausuró con éxito la Muestra de Arte y Cultura Encuentro FOMAC 3 en el Parque Metropolitano Tres Presas el Rejón.   "
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Clausura Gobierno Municipal la Muestra de Arte y Cultura Encuentro FOMAC 3   "
 front: false
 section: "Local"
-news_id: 187261
+redirect_from: /news/187261
 ---
 
 En el evento se llevó a cabo la entrega de las cartas de liberación de los 27 beneficiarios que desarrollaron sus proyectos para esta tercera emisión; además se realizó la presentación del grupo musical Semáforo Reggae, quienes también son beneficiarios de este fondo.

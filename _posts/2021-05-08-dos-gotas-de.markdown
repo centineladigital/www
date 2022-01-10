@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Lily James protagonizará la serie Pam y Tommy, la actriz personificará a Pamela Anderson. Las primeras fotos caracterizada como la modelo sorprendieron a más de uno. "
 image: "/uploads/2021/images-lily-james-trabajara-sebastian-stan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Dos gotas de agua! Revelan fotos de Lily James como Pamela Anderson para serie 'Pam y Tommy'"
 front: false
 section: "Espectáculos"
-news_id: 184363
+redirect_from: /news/184363
 ---
 
 Lilly James ha trabajado en diferentes películas como la nueva versión de Cenicienta, así como en la segunda parte de Mamma Mia y ahora, la actriz se prepara para trabajar en la serie de la plataforma Hulu: Pam y Tommy, en donde interpretará a Pamela Anderson y trabajará al lado de Sebastian Stan. A través del Instagram de la serie se compartieron las primeras imágenes de Sebastian Stan y Lily James caracterizados como Tommy Lee y Pamela Anderson, respectivamente. Pero sin duda la que llamó la atención fue la actriz debido a su caracterización. 

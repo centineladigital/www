@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Destaca el Puente Guamúchil como la obra más emblemática en el municipio de Batopilas, una estructura de 80 metros de largo por 4 de ancho  "
 image: "/uploads/2021/images-PUENTE-GUAMUCHIL-01-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Construyó Estado 18 puentes y rehabilitó 20 más en la entidad   "
 front: false
 section: "Local"
-news_id: 187295
+redirect_from: /news/187295
 ---
 
 Durante un recorrido por el puente San Ignacio que se ubica sobre el Río Chuvíscar, en el Municipio de Aldama el secretario de Comunicaciones y Obras Públicas, Gustavo Elizondo Aguilar, acompañado por José Antonio Lerma, director de Caminos de esa dependencia, informaron las obras realizadas en materia de puentes en el estado.

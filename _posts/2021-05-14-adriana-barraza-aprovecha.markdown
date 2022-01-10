@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz ha aplicado nuevas estrategias para continuar formando actores en su escuela Adriana Barraza Acting Studio durante la pandemia."
 image: "/uploads/2021/images-actriz-destaca-posibilidades-ofrecen-medios.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Adriana Barraza aprovecha el online para dar cátedra"
 front: false
 section: "Espectáculos"
-news_id: 184459
+redirect_from: /news/184459
 ---
 
 Para Adriana Barraza, el desarrollo de nuevos actores y actrices a través de una metodología académica ha sido uno de sus principales objetivos desde la fundación de su escuela Adriana Barraza Acting Studio, uno de los institutos de actuación en español más reconocidos de Estados Unidos. Desde el inicio de la pandemia, en marzo de 2020, una prioridad de la escuela ha sido adaptarse a los nuevos requerimientos educativos debido al distanciamiento social: “La pandemia nos dejó la lección de qué podíamos hacer al dar cursos online”, comentó Barraza en entrevista con M2. 

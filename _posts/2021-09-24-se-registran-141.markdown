@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "También se ratificó el incremento en el número de defunciones quedando en 7 mil 933"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-24_at_11.15.54.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 141 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 188026
+redirect_from: /news/188026
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 24 de Septiembre se tiene un total general de 77 mil 574 contagios en el estado. Luego de confirmarse otros 141 más en Juárez, Chihuahua, Parral, Cuauhtémoc, Delicias, Nuevo Casas Grandes, Camargo, Guachochi, Bocoyna, Meoqui, Saucillo, Guerrero, Aldama, Allende, Guazapares, Santa Bárbara, Chínipas, Ascensión, Casas Grandes, Guadalupe y Calvo, Ocampo, Urique, Matamoros, Temósachic, Bachiniva y Satevó.

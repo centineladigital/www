@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ya conocemos las primeras imágenes de la película live action 'Resident Evil: Welcome to Raccoon City' con Leon S. Kennedy, Claire Redfield y otros personajes. "
 image: "/uploads/2021/images-kaya-scodelario-claire-redfield-avan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Película live action 'Residen Evil -  Welcome to Raccoon City' revela sus primeras imágenes"
 front: false
 section: "Espectáculos"
-news_id: 187266
+redirect_from: /news/187266
 ---
 
 'Resident Evil: Welcome to Raccoon City' es la nueva película live action de la popular franquicia de videojuegos de supervivencia y terror de Capcom. La película dio a conocer sus primeras imágenes a través de redes sociales, y ya sabemos cómo lucen personajes de la talla de Claire y Chris Redfield, Leon S. Kennedy, Jill Valentine, Albert Wesker y otros. 

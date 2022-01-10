@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El mandatario estadunidense aseguró que un posible regreso del ex mandatario republicano a la Casa Blanca hace que considere nuevamente postularse, pero destacó que será si su salud se lo permite. "
 image: "/uploads/2021/images-joe-biden-donald-trump-buscando_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El regreso de Trump me motiva a buscar la reelección a la Casa Blanca, afirma Biden"
 front: false
 section: "Internacional"
-news_id: 191145
+redirect_from: /news/191145
 ---
 
 Una candidatura de Donald Trump en las elecciones de 2024 "aumentaría las posibilidades de que me postule" para un segundo mandato, dijo el presidente de Estados Unidos, Joe Biden, en una entrevista con la cadena ABC difundida el miércoles. Consultado sobre si se postularía a la reelección, el mandatario demócrata de 79 años respondió que "sí".

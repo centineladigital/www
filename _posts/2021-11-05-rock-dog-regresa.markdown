@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Bodi, el perro que soñaba con ser un artista de rock, vuelve ahora consolidado como una estrella junto a su banda True Blue."
 image: "/uploads/2021/images-rock-dog-regresa-pantallas-cine.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rock Dog regresa a las pantallas de cine"
 front: false
 section: "Espectáculos"
-news_id: 189576
+redirect_from: /news/189576
 ---
 
 Bodi, el perro que soñaba con ser un artista de rock, vuelve ahora consolidado como una estrella junto a su banda True Blue a las pantallas de cine mexicano con la segunda entrega denominada Rock Dog Renace una estrella. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El equipo mexicano vino de atrás y con una segunda mitad eficiente venció 123-114 a Birmingham Squadron, a quien volverán a enfrentarse este martes "
 image: "/uploads/2021/images-capitanes-cdmx-twitter-capitanes_0_26_1200_747.jfif"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capitanes CDMX vuelve a la senda del triunfo en Showcase Cup"
 front: false
 section: "Deportes"
-news_id: 190528
+redirect_from: /news/190528
 ---
 
 Los Capitanes de la Ciudad de México regresaron a la Showcase Cup con ánimos renovados y derrotaron por 123-114 a Birmingham Squadron, con lo que consiguieron su tercera victoria en este minitorneo de preparación en la NBA G League. 

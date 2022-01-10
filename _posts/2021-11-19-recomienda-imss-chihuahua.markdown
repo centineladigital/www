@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Tiene efectividad del 99 por ciento"
 image: "/uploads/2021/images-Foto_5605-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recomienda IMSS Chihuahua vasectomía para hombres decididos a no procrear"
 front: false
 section: "Local"
-news_id: 190004
+redirect_from: /news/190004
 ---
 
 En el marco del Día Mundial de la Vasectomía, a celebrarse este 19 de noviembre, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua recomienda este método para contribuir al control prenatal. 

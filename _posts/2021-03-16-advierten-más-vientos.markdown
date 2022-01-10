@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Afectará principalmente las zonas norte y noroeste con rachas hasta de 95 km/h y un marcado descenso en la temperatura"
 image: "/uploads/2021/images-PRONÓSTICO_MARTES_16_.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierten más vientos fuertes por Frente Frío 43"
 front: false
 section: "Local"
-news_id: 183433
+redirect_from: /news/183433
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informa que este martes 16 se pronostica el ingreso del Frente Frío número 43 a la entidad, el cual traerá a la entidad ráfagas de viento que podrían superar los 95 km/h principalmente en el norte y noroeste, por lo que la dependencia pide a la población tomar sus debidas precauciones.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "‘Fallas en plataforma reflejan entusiasmo adultos para vacunarse’"
 image: "/uploads/2021/images-2522969.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "‘Fallas en plataforma reflejan entusiasmo adultos para vacunarse’"
 front: false
 section: "Nacional"
-news_id: 182652
+redirect_from: /news/182652
 ---
 
 En torno a las fallas que ha tenido la plataforma para registrar a adultos mayores que desean recibir vacunas contra Covid-19, el subsecretario de Salud, Hugo López-Gatell, afirmó que esto se debe al entusiasmo de la sociedad para ser inmunizada.

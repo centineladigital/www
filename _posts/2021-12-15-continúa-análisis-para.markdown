@@ -10,11 +10,11 @@ author: nil
 description: "Descartan que se registre en primeros meses del año."
 image: "/uploads/2021/images-gabriel.jpg"
 video: "/uploads/2021/videos-MW05_GABRIEL_VALDEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Continúa análisis para incremento de tarifa"
 front: false
 section: "Local"
-news_id: 190896
+redirect_from: /news/190896
 ---
 
 En análisis es el estado en el que se encuentra el aumento a tarifa de transporte, afirmó el titular de la Secretaría de Desarrollo Urbano y Ecología, Gabriel Valdez Juárez. Quien señaló que el análisis de incremento se tiene realizado, por lo que este se considerará únicamente cuando se tenga un buen servicio.

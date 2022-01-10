@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ante síntomas como dolor de cabeza, fiebre, tos seca, malestar general, falta de sentido del gusto y olfato, así como dificultad para respirar, acudir a los Módulos de Atención Respiratoria (MARSS)."
 image: "/uploads/2021/images-Foto_5795-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pide IMSS Chihuahua seguir con las medidas de precaución ante el COVID-19 "
 front: false
 section: "Local"
-news_id: 190154
+redirect_from: /news/190154
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua a través de la Jefatura de Prestaciones Médicas, exhorta a la población a no relajar las medidas para prevenir el COVID-19 ya que la emergencia sanitaria aún no ha concluido. 

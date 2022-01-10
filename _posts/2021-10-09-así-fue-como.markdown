@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Guillermo del Toro motivó a Alfonso Cuarón a aceptar dirigir la tercera película de Harry Potter; esto fue lo que pasó."
 image: "/uploads/2021/images-alfonso-cuaron-dirigio-pelicula-harry.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así fue como Guillermo del Toro convenció a Alfonso Cuarón de dirigir 'Harry Potter y el prisionero de Azkaban'"
 front: false
 section: "Espectáculos"
-news_id: 188546
+redirect_from: /news/188546
 ---
 
 En los últimos años los directores mexicanos cada vez destacan más en Hollywood, no por nada Alejandro González Iñárritu, Guillermo del Toro y Alfonso Cuarón han sido reconocidos con uno o varios Oscar, pero antes de ser reconocidos con tales premios, empezaron su carrera con algunos proyectos, este es el caso de Alfonso Cuarón con Harry Potter. Sin duda, Harry Potter es una de las sagas más populares en el cine y para muchos mexicanos fue una gran sorpresa cuando Alfonso Cuarón fue quien dirigió la tercera parte: Harry Potter y el prisionero de Azkaban, pero que Cuarón hubiera aceptado dirigir el filme es todo gracias a Guillermo del Toro. 

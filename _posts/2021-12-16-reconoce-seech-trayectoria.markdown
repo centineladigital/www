@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Homenajean con medallas y reconocimientos a maestras y maestros que suman cuatro décadas de labor en favor de la educación"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconoce SEECH trayectoria de docentes con 40 años de servicio"
 front: false
 section: "Local"
-news_id: 190931
+redirect_from: /news/190931
 ---
 
 Como un reconocimiento a su labor educativa en favor de la niñez y juventud chihuahuense, Servicios Educativos del Estado de Chihuahua (SEECH) llevó a cabo la entrega de diplomas y medallas conmemorativas a docentes con 40 o más años de servicio efectivo.

@@ -14,11 +14,11 @@ author: nil
 description: "Trabajaremos en conjunto por un mejor Chihuahua con estrategias para la próxima elección en el año 2024"
 image: "/uploads/2021/images-Francisco_Paco_Navarro_Pastrana.jpg"
 video: "/uploads/2021/videos-BV01_PACO_NAVARRO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Entrega PAN reconocimientos a militantes del partido "
 front: false
 section: "Local"
-news_id: 190016
+redirect_from: /news/190016
 ---
 
 El presidente del comité municipal del Partido Acción Nacional, Paco Navarro,  presidió una entrega de reconocimientos a los militantes del partido quienes tuvieron protagonismo al ser parte de las campañas electorales de la ahora gobernadora del estado  y el presidente  municipal de Chihuahua.

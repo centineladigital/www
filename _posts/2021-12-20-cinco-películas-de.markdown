@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aunque su carrera tenía casi 20 años de iniciada, se consideraba una estrella de Hollywood en ascenso. "
 image: "/uploads/2021/images-brittany-murphy.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cinco películas de Brittany Murphy para recordarla a 12 años de su muerte y dónde verlas"
 front: false
 section: "Espectáculos"
-news_id: 191029
+redirect_from: /news/191029
 ---
 
 Britanny Murphy tenía 32 años cuando fue encontrada muerta en la bañera de su apartamento en Los Ángeles. Aunque su carrera tenía casi 20 años de iniciada, se consideraba una estrella de Hollywood en ascenso. Hoy, es una de las actrices de séptimo arte y de la cultura pop estadunidense más simbólicas de la última era, quizás como su abrupta y misteriosa muerte, caso parecido al de otro contemporáneo de la actuaciónHeath Ledger, . 

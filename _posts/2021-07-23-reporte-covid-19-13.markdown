@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Confirma Salud 72 mil 044 contagios y 7 mil 667 defunciones; las nuevas defunciones corresponden a  Juárez (+12) y Chihuahua (+1)"
 image: "/uploads/2021/images-Diapositiva2_(1).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reporte COVID-19 -  13 decesos y 132 contagios más en la entidad"
 front: false
 section: "Local"
-news_id: 185940
+redirect_from: /news/185940
 ---
 
 La Secretaría de Salud dio a conocer que al cierre del informe epidemiológico del 23 de julio, se confirmaron 132 nuevos contagios, 13 decesos, la cifra de recuperados se incrementó en 65, se descartaron otros 412 y aumentaron en 15 los sospechosos por COVID-19 en el estado.

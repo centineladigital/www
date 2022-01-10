@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La madre y representante del futbolista afirmaron que hay negociaciones para la renovación con el PSG pero no quiere decir que se quedará en el equipo "
 image: "/uploads/2021/images-kylian-mbappe-reuters-33_0_75_770_478.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Revés para el Real Madrid -  Mbappé inicia negociaciones para renovar con PSG"
 front: false
 section: "Deportes"
-news_id: 188412
+redirect_from: /news/188412
 ---
 
 Fayza Lamari, madre de Kylian Mbappé y, junto a su esposo, responsable de los asuntos que afectan al jugador, aseguró este miércoles que existen negociaciones con el París Saint-Germain (PSG) para la renovación del contrato de su hijo con el club francés y que "van bien". 

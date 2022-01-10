@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Anuncia el gobernador, Carlos Miguel Aysa, que esto se dará de manera escalonada en abril; Chiapas, Veracruz, Sonora y Chihuahua también podrían replicar medida: López Obrador"
 image: "/uploads/2021/images-2551204.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alumnos de 137 escuelas de Campeche regresarán a clases"
 front: false
 section: "Nacional"
-news_id: 183545
+redirect_from: /news/183545
 ---
 
 De manera escalonada los estudiantes de 137 escuelas de Campeche regresarán de manera presencial a las aulas, informó el gobernador local, Carlos Miguel Aysa.

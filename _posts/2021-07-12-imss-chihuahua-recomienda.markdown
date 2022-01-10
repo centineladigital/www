@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Necesario mantener los patios limpios y ordenados, así como recoger higiénicamente las excretas de las mascotas."
 image: "/uploads/2021/images-Foto_2962-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS Chihuahua recomienda medidas de higiene para evitar riesgos sanitarios a causa de lluvias"
 front: false
 section: "Local"
-news_id: 185558
+redirect_from: /news/185558
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua recomienda a la población poner en práctica acciones de higiene ante la presencia de lluvias en el estado, pues bajo ciertas condiciones la acumulación de agua y presencia de humedad puede representar riesgos sanitarios.

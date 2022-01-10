@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La mujer desapareció tras haber salido a cobrar un adeudo a un cliente, quien más tarde confesó que la había asesinado"
 image: "/uploads/2021/images-cuerpo-victima-enviado-servicio-medico_0_131_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asesinan a trabajadora de empresa financiera que acudió a cobrar una deuda en Veracruz"
 front: false
 section: "Nacional"
-news_id: 186432
+redirect_from: /news/186432
 ---
 
 Mónica García, una mujer de 27 años, fue encontrada muerta en la comunidad de Manuel María Contreras, Veracruz. Fue reportada como desaparecida el 1 de agosto en el municipio de Coatzintla, tras haber salido a cobrar un adeudo a un cliente. Las autoridades presumen que el deudor se negó a pagar y se sintió hostigado por el cobro, por lo que asesinó a la mujer con un machete. 

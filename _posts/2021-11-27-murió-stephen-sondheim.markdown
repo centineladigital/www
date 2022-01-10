@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El músico falleció repentinamente en horas de la mañana en su residencia de Roxbur, tras haber celebrado la víspera el Día de Acción de Gracias con sus amigos. "
 image: "/uploads/2021/images-stephen-sondheim-fallecio-a-los.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Stephen Sondheim, leyenda de la comedia musical, a los 91 años"
 front: false
 section: "Espectáculos"
-news_id: 190282
+redirect_from: /news/190282
 ---
 
 Stephen Sondheim, leyenda de la comedia musical estadunidense y autor de las letras de West Side Story (Amor sin barreras), falleció este viernes a los 91 años, declaró su abogado al periódico New York Times. Sondheim falleció repentinamente en horas de la mañana en su residencia de Roxbury, en el estado de Connecticut (noreste), tras haber celebrado la víspera el Día de Acción de Gracias con sus amigos, dijo el abogado Richard Pappas. 

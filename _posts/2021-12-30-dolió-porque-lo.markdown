@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jose recibió duras criticas por partes de seguidores, expertos de la música y otros artistas por sus reclamos hacia la academia. "
 image: "/uploads/2021/images-sal-perrea-balvin-burla-critica.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Dolió porque lo consideraba mi amigo” -  J Balvin habla por primera vez de su conflicto con Residente"
 front: false
 section: "Espectáculos"
-news_id: 191368
+redirect_from: /news/191368
 ---
 
 El año 2021 trajo consigo mucha música en donde nuevamente el género urbano y el reguetón fueron los dueños de las listas de reproducción teniendo a J Balvin como uno de los artistas más escuchados en el mundo. 

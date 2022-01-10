@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Respetan el trabajo de los juzgados y el Poder Judicial del Estado, sin embargo, indicó que exigirán sean más enérgicos"
 image: "/uploads/2021/images-ERREYEHY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AV01_ROMAN_ALCANTAR.mp3"
 alt: "Va Morena por juicio popular y ciudadano por delitos de Maru Campos"
 front: false
 section: "Local"
-news_id: 182737
+redirect_from: /news/182737
 ---
 
 Legisladores locales y federales de Morena, manifestaron su inconformidad por la forma en que se está realizando el proceso penal de la presidenta municipal de Chihuahua con licencia, María Eugenia Campos Galván, al evadir la justicia con acciones dilatorias, y así evitar un juicio para que los chihuahuenses conozcan los delitos o supuestos delitos en los que incurrió por cohecho.

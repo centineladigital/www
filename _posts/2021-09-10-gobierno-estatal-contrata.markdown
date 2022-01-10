@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Crédito se dividirá para nomina de trabajadores y pensionados, así como para pago de obligaciones bancarias incumplidas por la pasada administración"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-10_at_16.19.55.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-09-10_at_16.09.37.mpeg"
 alt: "Gobierno Estatal contrata crédito para enfrentar necesidades y obligaciones inmediatas"
 front: false
 section: "Local"
-news_id: 187639
+redirect_from: /news/187639
 ---
 
 Ante la insolvencia de las finanzas públicas con las que se recibió el Gobierno Estatal, la nueva administración se vio obligada a contratar un crédito de corto plazo por $800 millones de pesos para poder cumplir con sus obligaciones inmediatas, entre ellas el pago a los trabajadores y pensionados al cierre de la quincena.

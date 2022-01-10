@@ -14,11 +14,11 @@ author: nil
 description: "El número de personas que han perdido la vida por COVID-19 asciende a 8 mil 677 (+19)"
 image: "/uploads/2021/images-Sin_título.png"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-12-23_at_12.27.43.3gpp"
-audio: "nil"
+audio: nil
 alt: "Se registran 290 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 191161
+redirect_from: /news/191161
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 23 de diciembre el reporte COVID-19, en el cual se registran 91 mil 627 (+290) casos confirmados, 77 mil 929 (+219) casos recuperados, 87 mil 577 (+320) descartados y 1,190 (+57) casos sospechosos.

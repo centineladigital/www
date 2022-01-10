@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este martes, la talentosa cantante colombiana celebra 44 años. ¡Mira cómo fueron sus inicios musicales! "
 image: "/uploads/2021/images-la-cantante-cumplio-anos-especial.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Cantaba canciones de Timbiriche! Así fueron las primeras presentaciones musicales de Shakira"
 front: false
 section: "Espectáculos"
-news_id: 182663
+redirect_from: /news/182663
 ---
 
 Shakira Isabel Mebarak Ripoll, la talentosa cantante colombiana que ha encumbrado su primer nombre gracias a éxitos como "Antología", "¿Dónde estás corazón?" y "La tortura", cumplió 44 años este martes.

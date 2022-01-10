@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Dos ex elementos se encuentran en investigación."
 image: "/uploads/2021/images-PENICHE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04.mp3"
 alt: "Identifican a ex ministerios públicos ligados con el crimen organizado"
 front: false
 section: "Local"
-news_id: 184953
+redirect_from: /news/184953
 ---
 
 El Fiscal General de Chihuahua declaró que se identificaron a dos ex ministerios públicos ligados con el crimen organizado, los cuales se encontraban destacamentados en la zona sur donde se realizaron diversos cambios.

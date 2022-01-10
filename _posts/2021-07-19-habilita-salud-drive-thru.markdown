@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Invitan a toda la población a acudir al Campus II para aplicarse el biológico; también recibirán a niñas y niños para completar su esquema de vacunación"
 image: "/uploads/2021/images-20-INFANTES.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Habilita Salud Drive-Thru este martes 20 en la UACH para vacunar contra la influenza"
 front: false
 section: "Local"
-news_id: 185817
+redirect_from: /news/185817
 ---
 
 La Secretaría de Salud estatal aplicará la vacuna contra la influenza a personas de todas las edades y completará esquemas de vacunación en niñas y niños, este martes 20 de julio en el módulo vehicular del Campus II de la UACH, en un horario de 8:00 de la mañana hasta las 3:00 de la tarde.

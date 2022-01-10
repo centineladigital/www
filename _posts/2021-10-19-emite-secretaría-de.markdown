@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con el objetivo de difundir la importancia acerca de esta condición fisiológica respecto a los signos y el seguimiento dirigido hacia las mujeres."
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Secretaría de Salud recomendaciones en el Día Mundial de la Menopausia   "
 front: false
 section: "Local"
-news_id: 188910
+redirect_from: /news/188910
 ---
 
 En el marco del Día Mundial de la Menopausia, Gobierno del Estado a través de la Secretaría de Salud se suma a las acciones de prevención y atención médica, para brindar diversos servicios que garanticen la salud de la mujer en esta etapa de su vida.

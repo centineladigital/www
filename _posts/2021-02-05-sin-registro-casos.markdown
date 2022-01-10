@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En observación casos para detección de nueva cepa de coronavirus."
 image: "/uploads/2021/images-GUMARO_BARRIOS.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03_GUMARO_BARRIOS.mp3"
 alt: "Sin registro casos de nueva cepa en Chihuahua"
 front: false
 section: "Local"
-news_id: 182746
+redirect_from: /news/182746
 ---
 
 Luego de que se registró una nueva cepa del COVID en el país en Chihuahua no se ha reportado casos sospechosos de esta, según lo dio a conocer el Subdirector de Epidemiología Gumaro Barrios.

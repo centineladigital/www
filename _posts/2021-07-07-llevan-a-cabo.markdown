@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que es un tema complejo por la orografía del lugar y la red de halconoeo."
 image: "/uploads/2021/images-PENCHE1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW05_CESAR_PENICHE.mp3"
 alt: "Llevan a cabo dos operativos para capturar al Jaguar"
 front: false
 section: "Local"
-news_id: 185430
+redirect_from: /news/185430
 ---
 
 En la región se han llevado a cabo dos operativos para lograr la detención del presunto líder criminal del Cartel de Sinaloa, Francisco Javier A.M. “El Jaguar”, según fue dado a conocer por parte del Fiscal General del Estado César Augusto Peniche Espejel.

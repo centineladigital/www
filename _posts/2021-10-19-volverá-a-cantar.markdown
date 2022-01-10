@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de varios años sin cantar en español, Christina Aguilera lo hará de nuevo, esta vez al lado de Becky G, Nathy Peluso y Nicki Nicole. "
 image: "/uploads/2021/images-cancion-christina-aguilera-saldra-octubre.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Volverá a cantar en español! Christina Aguilera lanza canción con Becky G, Nicki Nicole y Nathy Peluso"
 front: false
 section: "Espectáculos"
-news_id: 188940
+redirect_from: /news/188940
 ---
 
 En los últimos años de los 90 Christina Aguilera se dio a conocer y muchos aseguraron que competía con Britney Spears, sin embargo, Xtina, como también es conocida, se aventuró a cantar en español, aprovechando también sus raíces latinas. A más de 20 años de que sacó canciones como “Ven conmigo”, de nueva cuenta cantará en este idioma, pero al lado de Becky G, Nicki Nicoles y Nathy Peluso. Christina Aguilera vuelve a cantar en español en el tema "Pa Mis Muchachas", que verá la luz este viernes, 22 de octubre, y es fruto de una colaboración con algunas de las actuales reinas del urbano latino: la estadunidense de origen mexicano Becky G y las argentinas Nicki Nicole y Nathy Peluso. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras un 36% de aumento de los contagios en las dos últimas semanas, las autoridades sanitarias decidieron reforzar las restricciones en el país sudamericano"
 image: "/uploads/2021/images-2551228.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chile confina a casi 14 millones de personas; crecen los contagios"
 front: false
 section: "Internacional"
-news_id: 183546
+redirect_from: /news/183546
 ---
 
 Casi 14 millones de personas, cerca de un 70% de la población, inicia este jueves una nueva cuarentena en Chile, debido a un fuerte aumento de los nuevos casos de Covid, que volvió a poner en jaque el sistema sanitario, pese a una impresionante campaña de vacunación.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Asesinos, narcotraficantes y delincuentes de todas las formas y tamaños son una gran parte de esta migración masiva, aseguró el ex presidente de Estados Unidos."
 image: "/uploads/2021/images-presidente-donald-trump-acuso-fraude_97_1_846_526.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU se está convirtiendo en cloaca de la humanidad -  Trump ante situación migratoria"
 front: false
 section: "Internacional"
-news_id: 187983
+redirect_from: /news/187983
 ---
 
 El ex presidente estadunidense, Donald Trump, sostuvo que, en su opinión, Estados Unidos se está convirtiendo en la cloaca de la humanidad ante la grave crisis migratoria presente en la frontera con México, donde en los últimos días se han aglomerado cerca de 15 mil migrantes haitianos que buscan refugio en ese país. 

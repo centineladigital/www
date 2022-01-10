@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El delantero mexicano ya realiza trabajos de acondicionamiento físico inicial, aunque el Wolverhampton dice que todavía falta camino por recorrer"
 image: "/uploads/2021/images-2507108.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Buenas noticias con Raúl Jiménez"
 front: false
 section: "Deportes"
-news_id: 181901
+redirect_from: /news/181901
 ---
 
 El mexicano Raúl Jiménez avanza en su recuperación tras la cirugía que tuvo por fractura de cráneo hace cinco semanas, al realizar algunos trabajos de acondicionamiento físico inicial.

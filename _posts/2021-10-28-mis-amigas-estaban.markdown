@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la ovacionada película de Leos Carax, Lafourcade da vida por unos cuantos minutos a una agente de la policía. "
 image: "/uploads/2021/images-cantante-mexicana-participo-pelicula-leos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mis amigas estaban celosas -  Natalia Lafourcade revela cómo fue trabajar con Adam Driver en la cinta 'Annette'"
 front: false
 section: "Espectáculos"
-news_id: 189304
+redirect_from: /news/189304
 ---
 
 Durante un evento virtual del Festival Internacional de Cine de Morelia, la cantante mexicana Natalia Lafourcade reveló cómo fue trabajar junto al actor estadunidense Adam Driver en la película Annette, del director francés Leos Carax. "Fue toda una experiencia estar al lado de Adam Driver, mis amigas estaban celosas", bromeó la autora de "Hasta la raíz" en un encuentro que mantuvo con el productor del filme Julio Chavezmontes. 

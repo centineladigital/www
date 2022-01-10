@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Muchos capitalinos, algunos sin cubrebocas, se arremolinaron en la plancha para presenciar la primera presentación de la “Memoria Luminosa”"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sin sana distancia inicia show del Templo Mayor en el Zócalo"
 front: false
 section: "Nacional"
-news_id: 186696
+redirect_from: /news/186696
 ---
 
 Sin cuidar la sana distancia e incluso sin respetar el uso de cubrebocas, la noche de este viernes se realizó la primera presentación de la “Memoria Luminosa” proyectada en la maqueta monumental del Huey Teocalli, ubicada en la plancha del Zócalo de la Ciudad de México.

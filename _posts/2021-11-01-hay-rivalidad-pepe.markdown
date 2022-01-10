@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante reveló si sobrina podría formar parte de su show 'Jaripeo sin fronteras' en el que participan sus hijos, Leonardo y Ángela Aguilar. "
 image: "/uploads/2021/images-pepe-aguilar-revela-incluiria-majo_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Hay rivalidad? Pepe Aguilar revela si incluiría a su sobrina Majo en su show 'Jaripeo sin fronteras'"
 front: false
 section: "Espectáculos"
-news_id: 189453
+redirect_from: /news/189453
 ---
 
 La familia Aguilar posee un enorme legado y talento musical. Además de Pepe Aguilar y sus hijos -Ángela y Leonardo-, también destacada en el medio artístico su sobrina Majo, quien inició en el género pop-rock; sin embargo, ha decidido darle un giro a su carrera incursionando en el regional mexicano, lo que ha llevado a los fans a preguntarse si formará parte del espectáculo Jaripeo sin fronteras o si existe alguna rivalidad. Si bien, Majo Aguilar ya había negado cualquier tipo de enemistad con su prima, los fans de la dinastía decidieron cuestionar a Pepe Aguilar sobre la posibilidad de que la joven cantante forme parte de su show familiar. ¿Existe alguna rivalidad? Esto confesó el intérprete de "Prometiste".  

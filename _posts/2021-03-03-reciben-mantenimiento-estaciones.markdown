@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En coordinación con Protección Civil Estatal técnicos de la UNAM actualizan los equipos en Parral y Casas Grandes, que son parte de los 61 observatorios de la Red Sísmica de Banda Ancha en el país"
 image: "/uploads/2021/images-ONDA_SÍSMICA.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reciben mantenimiento estaciones sismológicas en Chihuahua"
 front: false
 section: "Local"
-news_id: 183251
+redirect_from: /news/183251
 ---
 
 Los observatorios en Chihuahua integrados a la Red Sísmica de Banda Ancha en el país fueron actualizados por el equipo del Instituto de Geofísica de la Universidad Autónoma de México (UNAM), informó Ana Gómez Licón, titular de la Coordinación Estatal de Protección Civil (CEPC).

@@ -10,11 +10,11 @@ author: nil
 description: "Sindicatura ya se encuentra realizando trabajo desde casa."
 image: "/uploads/2021/images-OLIVIA.jpg"
 video: "/uploads/2021/videos-MW03_OLIVIA_FRANCO.mp4"
-audio: "nil"
+audio: nil
 alt: "Pide sindica reducir aforos en edificios municipales"
 front: false
 section: "Local"
-news_id: 190649
+redirect_from: /news/190649
 ---
 
 Ante el incremento de casos de COVID la Síndico de Chihuahua, Olivia Franco, presentó una iniciativa en la cual propuso que se llevaran a cabo acciones para disminuir los aforos dentro de los edificios del Ayuntamiento.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se puede llegar a convenios entre víctimas y empresa."
 image: "/uploads/2021/images-CARLOS_MARIO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW02_CARLOS_MARIO.mp4"
 alt: "Si Aras paga se acaba todo el asunto -  Fiscal"
 front: false
 section: "Local"
-news_id: 191125
+redirect_from: /news/191125
 ---
 
 “Si logramos que paguen a todas las víctimas, pues excelente se acaba el asunto” fueron las palabras del titular de la Fiscalía Zona Centro, Carlos Mario Jiménez Holguín, al ser cuestionado sobre presuntos pagos de la empresa a algunos de los afectados, ante lo que dijo que en caso de que se diera el pago a los afectados en todo el estado ya no sería cuestión de la fiscalía.

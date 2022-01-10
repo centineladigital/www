@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal aumentó la bolsa a 2 millones 350 mil pesos a repartir entre los proyectos ganadores"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Eres artista o creador?, no te quedes fuera de FOMAC quinta emisión"
 front: false
 section: "Local"
-news_id: 190598
+redirect_from: /news/190598
 ---
 
 El Gobierno Municipal a través del Instituto de Cultura del Municipio (ICM) extiende la invitación a los artistas y creadores de Chihuahua Capital, para que participen en el Fondo Municipal para Artistas y Creadores (FOMAC), que este 2021 incrementó su bolsa a 2 millones 350 mil pesos en beneficio de la comunidad artística y cultural.

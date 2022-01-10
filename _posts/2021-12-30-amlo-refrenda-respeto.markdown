@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“Una función del Banco es controlar la inflación y otra que nos gustaría mucho, pero que nada más opinamos, es que también se impulse el crecimiento, expresó López Obrador ante Victoria Rodríguez, próxima gobernadora de Banxico "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO refrenda respeto a autonomía de Banxico; opina que se debe impulsar el crecimiento"
 front: false
 section: "Nacional"
-news_id: 191332
+redirect_from: /news/191332
 ---
 
 El presidente Andrés Manuel López Obrador refrendó su compromiso de respetar la autonomía del Banco de México (Banxico), pero opinó que también se debe impulsar el crecimiento. 

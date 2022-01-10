@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Habrá lluvias de aisladas a fuertes en gran parte del territorio estatal y ráfagas de viento de 35 hasta 55 km/h   "
 image: "/uploads/2021/images-Sin_título.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Posibles tolvaneras en la zona de Ahumada, informa Protección Civil"
 front: false
 section: "Local"
-news_id: 186093
+redirect_from: /news/186093
 ---
 
 Un canal de baja presión, en interacción con inestabilidad atmosférica superior y humedad procedente del Océano Pacífico, favorecerá ambiente de templado a cálido por la mañana y de caluroso a muy caluroso por la tarde y cielo de parcialmente nublado a nublado, informó la Coordinación Estatal de Protección Civil.

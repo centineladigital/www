@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Actualmente se dedica más a la producción musical y aunque ya comienza a retomar su carrera de cantante, disfruta mucho apoyar a otros artistas. "
 image: "/uploads/2021/images-andres-palomino-cantautor-musico-productor.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-andres-palomino-cantautor-musico-productor.jpg"
 alt: "Cantautor lagunero Andrés Palomino festeja 26 años en la música"
 front: false
 section: "Espectáculos"
-news_id: 189959
+redirect_from: /news/189959
 ---
 
 El cantautor, músico, productor, profesor y restaurantero lagunero Andrés Palomino, celebra 26 años en el mundo artístico, repletos de experiencias, éxitos y numerosos sueños cumplidos y otros más que están por cumplirse, siempre agradecido con el apoyo de sus fieles seguidores, así lo dio a conocer en entrevista.“Yo inicié mi recorrido por la música en el año 95, tengo 26 años de carrera, inicié desde niño, pero profesionalmente manejo mi carrera como cantante desde que me presenté por primera vez en un centro nocturno, a partir de ahí ya formalmente a vivir completamente de la música, y pues está pendiente el festejo de los 25 años, se tiene que hacer también un disco, nos tocó en medio de la pandemia y no se pudo hacer el festejo, esperamos ya nada más que vuelva todo a la normalidad, para poder hacer un buen evento del aniversario de plata en un recinto grande, quiero un lugar grandecito para invitar a la gente que toda la vida nos ha seguido”, detalló el cantante. 

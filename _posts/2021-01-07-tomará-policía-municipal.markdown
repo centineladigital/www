@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Tras recortes buscan formas en las que policía municipal continúe sin verse afectada."
 image: "/uploads/2021/images-GILBERTO_LOYA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ06_GILBERTO_LOYA.mp3"
 alt: "Tomará policía municipal medidas para no afectar patrullaje"
 front: false
 section: "Local"
-news_id: 181953
+redirect_from: /news/181953
 ---
 
 La Dirección de Seguridad Pública Municipal se encuentra analizando las formas en las que se llevarán a cabo acciones para no afectar el patrullaje por las calles, esto tras el recorte presupuestal que se vive en el 2021 por parte de la federación.

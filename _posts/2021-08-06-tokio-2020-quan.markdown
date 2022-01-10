@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con sus 14 años, la atleta más joven de toda la delegación China, asombró a los jueces en la prueba de los 10 metros plataforma "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tokio 2020 -  Quan Hongchan, la clavadista de 14 años que obtuvo dos 10 perfectos e hizo historia"
 front: false
 section: "Deportes"
-news_id: 186375
+redirect_from: /news/186375
 ---
 
 Las proezas de atletas adolescentes que con 12, 13 o 14 años han ganado medallas es una de las noticias más destacadas que han dejado estas dos semanas de Juegos en Tokio. Fue en esta edición donde se registró el podio más joven de la historia olímpica en la modalidad femenina de skate.

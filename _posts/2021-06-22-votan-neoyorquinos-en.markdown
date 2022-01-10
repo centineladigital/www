@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los neoyorquinos van a las urnas para unas elecciones primarias que casi seguramente designarán al nuevo alcalde en la mayor ciudad estadunidense  "
 image: "/uploads/2021/images-2599061.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Votan neoyorquinos en primarias para elegir a nuevo alcalde"
 front: false
 section: "Internacional"
-news_id: 185160
+redirect_from: /news/185160
 ---
 
 Los neoyorquinos van a las urnas este martes para unas elecciones primarias que casi seguramente designarán al alcalde de la pospandemia en la mayor ciudad estadunidense.

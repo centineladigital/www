@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "“Nos vamos sin haber aumentado un solo peso más la deuda del Estado”, expresó el Gobernador durante la ceremonia de rendición de cuentas de su Quinto Informe de Gobierno    "
 image: "/uploads/2021/images-V_Informe_de_Gobierno_Ciudad_Juárez__(7).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Deuda pública de Chihuahua se redujo en mil millones de pesos"
 front: false
 section: "Local"
-news_id: 186775
+redirect_from: /news/186775
 ---
 
 Como parte del cierre del periodo de la actual administración estatal, el gobernador Javier Corral Jurado, rindió cuentas ante la comunidad juarense durante su Quinto Informe de Gobierno, en el que destacó “nos vamos sin haber aumentado un solo peso más, la deuda del Estado, incluso la redujimos, en términos cuantitativos en cerca de mil millones de pesos”.

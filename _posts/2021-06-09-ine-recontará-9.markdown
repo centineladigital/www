@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se estiman 97 mil 126 paquetes, ante las diversas causas previstas por la ley, para reabrir paquetes y volver a contar los votos"
 image: "/uploads/2021/images-2592194.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "INE recontará 9 distritos electorales… el 59.54% de casillas"
 front: false
 section: "Nacional"
-news_id: 184938
+redirect_from: /news/184938
 ---
 
 Los cómputos distritales en el INE, contemplan un recuento parcial inicial de 59.54% de casillas, esto significa 97 mil 126 paquetes, ante las diversas causas previstas por la ley, para reabrir paquetes y volver a contar los votos, a fin de tener certeza de los resultados.

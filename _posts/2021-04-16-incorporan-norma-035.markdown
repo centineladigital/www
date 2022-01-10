@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Realizan diversas acciones para su aplicación."
 image: "/uploads/2021/images-TS3.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03.mp3"
 alt: "Incorporan Norma 035 en TSJ"
 front: false
 section: "Local"
-news_id: 183931
+redirect_from: /news/183931
 ---
 
 Con el fin de que empleados del Tribunal Superior de Justicia puedan llevar a cabo su trabajo en forma adecuada, fue incorpora la Norma 035, según lo dio a conocer Marcela Zapien; Directora de Proyectos de Poder Judicial.

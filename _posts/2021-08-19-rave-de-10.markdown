@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El evento se realizó a orillas del lago Mezzano, en la región del Lacio, donde actualmente continúan 250 personas, pese a que ya no hay actividades"
 image: "/uploads/2021/images-rave-inicio-agosto-reunio-mil.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Rave' de 10 mil personas en Italia termina con un muerto, un caso covid y denuncias por violación"
 front: false
 section: "Internacional"
-news_id: 186873
+redirect_from: /news/186873
 ---
 
 Un rave que se realizó de forma ilegal en una área privada a orillas del lago Mezzano, en la región del Lacio, Italia, y que tuvo la participación de 10 mil personas terminó ayer con un saldo de una persona fallecida, un caso de coronavirus covid-19, tres denuncias por violación y hasta la muerte de varios perros. 

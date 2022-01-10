@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Estudio detalla que el presidente López Obrador ha mencionado al panista 17 veces; a Emilio Lozoya 138 veces y a sus hermanos Pío en 15 ocasiones y a Martín sólo en tres"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO le dedica 66 minutos a Anaya en las mañaneras"
 front: false
 section: "Nacional"
-news_id: 187128
+redirect_from: /news/187128
 ---
 
 En la última semana, el presidente Andrés Manuel López Obrador ha destinado más de una hora de sus conferencias de prensa matutinas en Palacio Nacional para hablar sobre el excandidato presidencial panista en 2018, Ricardo Anaya Cortés.

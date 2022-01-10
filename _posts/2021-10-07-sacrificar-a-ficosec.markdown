@@ -18,11 +18,11 @@ author: nil
 description: "Los impuestos no es la solución para terminar con los problemas económicos del estado"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-07_at_13.17.00.jpeg"
 video: "/uploads/2021/videos-BJ05_BENJAMIN_CARRERA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Sacrificar a FICOSEC y  FECHAC es incorrecto -  Benjamín Carrera "
 front: false
 section: "Local"
-news_id: 188496
+redirect_from: /news/188496
 ---
 
 El diputado Benjamín Carrera  manifestó que sacrificar a FECHAC Y FICOSEC es incorrecto ya que se debe entender que aumentar los impuestos no es la solución para terminar con los problemas económicos del estado, el diputado pidió que se reflexionara y que se discuta  con los empresarios.

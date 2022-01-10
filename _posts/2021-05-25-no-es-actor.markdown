@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pati Chapoy señaló que el hijo de Sergio Mayer debería renunciar al proyecto de Netflix y que lo sigan manteniendo papi y mami."
 image: "/uploads/2021/images-critican-sergio-mayer-mori-ventaneando_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No es actor; sólo es guapo -  Conductores de 'Ventaneando' critican a Sergio Mayer Mori"
 front: false
 section: "Espectáculos"
-news_id: 184639
+redirect_from: /news/184639
 ---
 
 Sergio Mayer Mori está envuelto en la polémica luego de confesar su "odio por RBD", declaración que le costó múltiples críticas en redes sociales pues el actor es uno de los protagonistas del remake de la telenovela que ya prepara Netflix. Tras lo sucedido, los conductores de Ventaneando arremetieron en su contra asegurando que el hijo de Sergio Mayer "no es actor" e, incluso, señalaron que lo mejor sería que saliera del proyecto.  Fue durante la emisión de este martes que Pati Chapoy y Linet Puente señalaron que Sergio Mayer Mori no debería formar parte de la serie luego de sus desafortunados comentarios, además Mónica Castañeda tachó al actor de "vaquetón".  

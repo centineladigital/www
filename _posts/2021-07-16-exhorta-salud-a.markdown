@@ -10,11 +10,11 @@ author: nil
 description: "Piden verificar niveles de contagio antes de tomar vacaciones."
 image: "/uploads/2021/images-LETICIA.jpg"
 video: "/uploads/2021/videos-MV05_LETICIA_RUIZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Exhorta salud a no visitar estados con altas tasas de COVID"
 front: false
 section: "Local"
-news_id: 185745
+redirect_from: /news/185745
 ---
 
 Debido a que las vacaciones llegan la Directora de Medicina Preventiva y Promoción de la Salud, exhortó a la población a no visitar lugares con una alta incidencia de casos de coronavirus. Esto ya que se pudiera generar un incremento en los casos tras concluir el periodo vacacional.

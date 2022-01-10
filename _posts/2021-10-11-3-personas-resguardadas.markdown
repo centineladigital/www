@@ -18,11 +18,11 @@ author: nil
 description: "A consecuencia de robo en un OXXO en la Av. Romanza "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-11_at_11.20.47(1).jpeg"
 video: "/uploads/2021/videos-BL05_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "3 personas resguardadas gracias a policías municipales"
 front: false
 section: "Local"
-news_id: 188611
+redirect_from: /news/188611
 ---
 
 El alcalde del municipio de Chihuahua manifestó que la captura de los delincuentes implicados en el robo de un OXXO  en las calles Santo Tomé y el príncipe por la Av. Romanza, fue gracias al buen trabajo que se hace por parte de Seguridad Pública Municipal.

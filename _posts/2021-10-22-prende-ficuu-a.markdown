@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Mezclaron pop-rock, hip-hop rhythm and blues, norteño y banda en esta nueva versión"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prende FICUU a los chihuahuenses con Corrido de Chihuahua fusionado con nuevos estilos   "
 front: false
 section: "Local"
-news_id: 189079
+redirect_from: /news/189079
 ---
 
 Durante la tarde del jueves, las familias chihuahuenses acudieron al escenario de la presa El Rejón para disfrutar de las actividades programadas por el Festival Internacional de la Ciudad de Chihuahua (FICUU) 2021, como parte de su segundo día en este área recreativa al aire libre.

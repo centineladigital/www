@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el objetivo de prevenir contagios por COVID-19."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúa Gobierno Municipal con operativos de desinfección en parques por COVID"
 front: false
 section: "Local"
-news_id: 188149
+redirect_from: /news/188149
 ---
 
 El Gobierno Municipal continúa trabajando con los operativos de limpieza y desinfección de espacios públicos en la ciudad, con el objetivo de prevenir contagios por COVID-19.

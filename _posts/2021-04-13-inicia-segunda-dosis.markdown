@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Deben de llevar su comprobante de vacunación de la primera dosis y su identificación oficial"
 image: "/uploads/2021/images-Vacunación_UACH.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia segunda dosis de vacunación contra Covid-19"
 front: false
 section: "Local"
-news_id: 183839
+redirect_from: /news/183839
 ---
 
 Los adultos mayores de 60 años y más reciben la segunda dosis de la vacuna contra el virus SarsCoV2 cuyo objetivo es mitigar el impacto de la enfermedad Covid-19.

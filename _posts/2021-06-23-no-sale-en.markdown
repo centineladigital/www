@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Vin Diesel habló sobre Dwayne Johnson, 'The Rock', quien formó parte del casting de Rápidos y Furiosos en cuatro ocasiones, pero ya no sale en la novena entrega."
 image: "/uploads/2021/images-vin-diesel-dwayne-johnson-sale.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡No sale en 'Rápidos y Furiosos 9'! Vin Diesel habla sobre Dwayne Johnson, 'The Rock'"
 front: false
 section: "Espectáculos"
-news_id: 185196
+redirect_from: /news/185196
 ---
 
 En estos días de estreno de Rápidos y Furiosos 9, una cuestión incierta es la relación entre Vin Diesel y Dwayne Johnson, mejor conocido como 'The Rock' o 'La Roca' en español. El también luchador profesional se unió al elenco de Fast and Furious a partir de la quinta entrega, pero tras la octava abandonó el emblemático casting y no sale en F9. 

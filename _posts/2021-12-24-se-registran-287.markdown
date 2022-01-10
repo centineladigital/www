@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 asciende a 8 mil 691 (+14) y las defunciones que se agregan este día al registro corresponden a los municipios de Juárez (+8), Chihuahua (+1), Cuauhtémoc (+1), Delicias (+1), Ojinaga (+1), Camargo (+1), Meoqui (+1)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 287 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 191213
+redirect_from: /news/191213
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 24 de diciembre el reporte COVID-19, en el cual se registran 91 mil 554 (+287) casos confirmados, 78 mil 147  recuperados 78,147(+218)  y 1,182 (-8) casos sospechosos.

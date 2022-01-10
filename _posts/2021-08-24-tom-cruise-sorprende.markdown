@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor se encontraba grabando una escena de alto riesgo de la próxima entrega de 'Misión Imposible'."
 image: "/uploads/2021/images-tom-cruise-explota-miembros-set-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tom Cruise sorprende a familia tras aterrizar en helicóptero en el jardín de su casa"
 front: false
 section: "Espectáculos"
-news_id: 187054
+redirect_from: /news/187054
 ---
 
 Tom Cruise sigue en marcha con la grabación de Misión Imposible 7, producción que lidió con un brote contagios y retrasos a raíz de la pandemia de covid-19. El actor es conocido por realizar sus escenas de acción en lugar de recurrir a un doble, por lo que no fue raro verlo volar un helicóptero, pero lo que sí sorprendió a todos fue que el famoso aterrizara el vehículo en el jardín de una familia inglesa. 

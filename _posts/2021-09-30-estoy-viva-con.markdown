@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante celebra hoy su cumpleaños 57 en medio de varios proyectos, como el musical 'The Prom', 'Los Locos Adams' y el video musical “No te pude retener” con Armando Manzanero."
 image: "/uploads/2021/images-susana-zabaleta-especial.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Estoy viva, con amor y con la familia” -  Susana Zabaleta celebra sus 57 años"
 front: false
 section: "Espectáculos"
-news_id: 188221
+redirect_from: /news/188221
 ---
 
 En su cumpleaños número 57, Susana Zabaleta se asume como una mujer inmensamente rica porque está “feliz, contenta, llena de trabajo, de amor y con la familia viva; eso, eso es una joya”. Está en medio de un ensayo de uno de los tantos proyectos que prepara del que aún no puede hablar: “Solo te puedo decir que es una película musical, no más, si hablo más de la cuenta me matan”, expresa con su natural franqueza monclovense. Y añade: “Solo te puedo decir que repito con Chucho Ochoa como pareja, y ya no digo más”. 

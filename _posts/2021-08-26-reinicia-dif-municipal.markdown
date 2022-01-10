@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "De las actividades que se darán son: servicio médico y psicólogo, así como clases de danza, inglés, jazz, box, zumba, gimnasia, reductivo, lima lama, artes marciales mixtas, taekwondo, baile latino y el club del abuelo"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reinicia DIF Municipal actividades presenciales en 11 centros comunitarios"
 front: false
 section: "Local"
-news_id: 187143
+redirect_from: /news/187143
 ---
 
 El Gobierno Municipal a través de DIF informa que a partir de esta semana se reiniciaron actividades presenciales en otros 11 centros comunitarios, con esto son ya 32 espacios que dan servicio de manera presencial a la ciudadanía.

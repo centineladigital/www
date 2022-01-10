@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se agregaron 21 contagios y un deceso, este en el municipio de Jiménez; se tienen 62 hospitalizados y de ellos, 12 intubados"
 image: "/uploads/2021/images-Diapositiva2_(1).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suben a 68 mil 862 los casos confirmados de COVID-19 y van 7 mil 030 defunciones en el estado"
 front: false
 section: "Local"
-news_id: 184897
+redirect_from: /news/184897
 ---
 
 La Secretaría de Salud dio a conocer 21 nuevos casos de COVID-19 en su último reporte epidemiológico, así como un fallecimiento en el municipio de Jiménez.

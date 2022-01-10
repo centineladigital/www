@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente López Obrador dijo que dio instrucciones al secretario de Salud para que hoy mismo se emita el comunicado al respecto"
 image: "/uploads/2021/images-2516472.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobierno Federal autoriza a empresas y gobiernos locales comprar vacunas covid"
 front: false
 section: "Nacional"
-news_id: 182354
+redirect_from: /news/182354
 ---
 
 El presidente de México, Andrés Manuel López Obrador, dijo este viernes que su gobierno autorizará al sector privado y a las autoridades locales a adquirir vacunas contra el covid-19.

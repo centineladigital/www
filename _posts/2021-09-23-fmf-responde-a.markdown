@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Federación Mexicana recordó que el 'Pacto de Caballeros' terminó en 2018 y el tope salarial en 2019 "
 image: "/uploads/2021/images-clubes-liga-mx-sancionados-cofece_0_33_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "FMF responde a sanción de Cofece por 'Pacto de Caballeros'; no impugnarán la multa"
 front: false
 section: "Deportes"
-news_id: 187979
+redirect_from: /news/187979
 ---
 
 La Federación Mexicana de Futbol (FMF) y la Liga MX informaron que fueron notificadas por la Comisión Federal de Competencia Económica (Cofece) respecto a la resolución emitida con fecha del 2 de Septiembre del 2021 en la que determinó sancionar a la Federación y a los clubes afiliados a la Liga MX por su participación en el derecho de retención, comúnmente conocido como "Pacto de Caballeros", y por el establecimiento de un programa de "tope salarial" para las jugadoras de la Liga MX Femenil. 

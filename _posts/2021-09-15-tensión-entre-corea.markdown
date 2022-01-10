@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los proyectiles volaron unos 800 kilómetros y alcanzaron una altitud máxima de unos 60 kilómetros antes de caer al Mar del Este."
 image: "/uploads/2021/images-pionyang-dispara-misiles-seul-responde.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tensión entre Corea del Norte y Sur -  Pionyang dispara dos misiles; Seúl responde con uno desde un submarino"
 front: false
 section: "Internacional"
-news_id: 187746
+redirect_from: /news/187746
 ---
 
 La tensión en la península de Corea se elevó hoy otro peldaño después que el Norte lanzará a modo de prueba dos misiles balísticos apenas tres días después de haber probado un nuevo proyectil de crucero y el Sur respondiera disparando después otro desde un submarino. 

@@ -10,11 +10,11 @@ author: nil
 description: "Pocos presos pueden ser acreedores a este beneficio."
 image: "/uploads/2021/images-EMILIO.jpg"
 video: "/uploads/2021/videos-ML01_EMILIO_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Solamente 4 se beneficiarán con amnistía"
 front: false
 section: "Local"
-news_id: 186210
+redirect_from: /news/186210
 ---
 
 Solamente cuatro personas se verían beneficiadas con la amnistía ofrecida por el Presidente de la República, señaló el titular de la Secretaría de Seguridad Pública Estatal Emilio García Ruiz. Esto ya que no existen muchas personas que tengan más de 75 años y se encuentren detenidos.

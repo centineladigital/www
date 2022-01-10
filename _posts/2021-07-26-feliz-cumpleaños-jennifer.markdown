@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La pareja también se convirtió en tendencia en redes sociales luego de que aparecieran juntos en una fotografía en el festejo de cumpleaños de la actriz Leah Remini."
 image: "/uploads/2021/images-jennifer-lopez-sorprendio-fans-beso_0_56_1080_671.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Feliz cumpleaños! Jennifer López celebra sus 52 años en yate y con beso de Ben Affleck"
 front: false
 section: "Espectáculos"
-news_id: 185994
+redirect_from: /news/185994
 ---
 
 Jennifer López y Ben Affleck sorprendieron a sus seguidores en las redes sociales, luego de que la cantante compartiera una foto en donde se les ve abrazados, muy enamorados, y besándose en lo que parece ser un paisaje lleno de playa y en un día muy especial: el cumpleaños número 52 de la diva del Bronx. 

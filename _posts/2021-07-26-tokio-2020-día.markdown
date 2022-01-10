@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Algunos deportistas mexicanos no tuvieron un día positivo en sus competencias; Sóftbol se mantiene en la disputa por la medalla de bronce"
 image: "/uploads/2021/images-softball-oly-2020-2021-tokyo-mex-aus_128246955.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tokio 2020 Día 4 -  Esto pasó con los deportistas mexicanos mientras dormías"
 front: false
 section: "Deportes"
-news_id: 185985
+redirect_from: /news/185985
 ---
 
 Continúan las competencias de los Juegos Olímpicos de Tokio 2020 en las que los deportistas mexicanos siguen haciéndose presentes; sin embargo, los resultados no han sido favorables para poder llegar al podio. 

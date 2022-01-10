@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El popular actor mexicano recibirá el Premio Platino de Honor del cine iberoamericano este domingo. "
 image: "/uploads/2021/images-diego-luna-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Te preguntas si lo que haces tiene sentido -  Diego Luna revela que durante la pandemia se replanteó ser actor; ¿se iba a retirar?"
 front: false
 section: "Espectáculos"
-news_id: 188309
+redirect_from: /news/188309
 ---
 
 El actor mexicano Diego Luna, que ha sido galardonado con el Premio Platino de Honor del cine iberoamericano, admitió que durante el confinamiento por la pandemia del coronavirus se preguntó si lo que hacía tenía sentido. "Cuando te piden que te encierres en casa y se trata de sobrevivir y aguantar, te preguntas si lo que haces tiene un sentido o no, o si deberíamos estar en la calle ayudando a la gente que necesita una mano. Quedarse en la casa no es lo mismo para todos", manifestó durante una rueda de prensa celebrada en el Westing Palace de Madrid este sábado. 

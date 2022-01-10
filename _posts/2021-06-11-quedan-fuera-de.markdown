@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¿Es verdad que Laura G y Brandon Peniche recibirán castigo de TV Azteca? ¿Se van de VLA? Te contamos lo que sabemos sobre esta polémica que ha circulado recientemente por el caso de PVEM. "
 image: "/uploads/2021/images-laura-brandon-peniche-vla-pvem.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Quedan fuera de VLA? Aseguran que TV Azteca sancionó a Laura G y Brandon Peniche por PVEM"
 front: false
 section: "Espectáculos"
-news_id: 184988
+redirect_from: /news/184988
 ---
 
 ¿TV Azteca castigará a Laura G y a Brandon Peniche de Venga la Alegría por violar veda electoral con PVEM? Desde ayer la noticia sobre este posible castigo de la empresa a los conductores que hicieron mención del Partido Verde Ecologista de México (PVEM), circuló en diferentes medios de comunicación e incluso desde varios youtubers –periodistas– que se especializan en espectáculos. ¿Fueron sancionados? ¿Quedarán fuera del programa? ¿Cuál será la sanción? Te contamos lo que sabemos.  

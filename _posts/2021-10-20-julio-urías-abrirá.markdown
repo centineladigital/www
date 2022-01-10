@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El pitcher mexicano recibió toda la confianza del manager Dave Roberts para que hoy suba a la loma en el cuarto juego de la Serie de Campeonato "
 image: "/uploads/2021/images-julio-urias-pitcher-mexicano-dodgers-2_0_22_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Julio Urías abrirá el Juego 4 de la Serie de Campeonato entre Braves y Dodgers"
 front: false
 section: "Deportes"
-news_id: 188949
+redirect_from: /news/188949
 ---
 
 El abridor estelar mexicano Julio Urías no tuvo su mejor desempeño como relevista en el segundo juego de la Serie de Campeonato de la Liga Nacional, pero el manejador de los Dodgers de Los Angeles, Dave Roberts, volvió a darle toda la confianza tras elegirlo para el Juego 4. 

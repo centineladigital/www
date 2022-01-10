@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Esta noche en el Hidalgo intentan rescatar un torneo que ha sido pésimo para ambos"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pachuca y Pumas hacen uno de sus últimos esfuerzos por clasificar"
 front: false
 section: "Deportes"
-news_id: 189409
+redirect_from: /news/189409
 ---
 
 Pumas llega al compromiso contra los Tuzos con tres victorias seguidas; sin embargo, ni su buena racha le alcanza para meterse a puestos de repechaje y se ubica en el lugar 14 con 17 puntos, uno más que su perseguidor y rival en turno, el Pachuca.

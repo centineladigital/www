@@ -10,11 +10,11 @@ author: nil
 description: "Rescatan a 16 migrantes procedentes de Guatemala."
 image: "/uploads/2021/images-ROBERTO.jpg"
 video: "/uploads/2021/videos-MV02_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Presuntos polleros ejecutados en carretera Jiménez -  Fiscalía"
 front: false
 section: "Local"
-news_id: 189814
+redirect_from: /news/189814
 ---
 
 Los cuerpos de las personas que fueron ejecutadas en carretera a Jiménez podrían ser polleros, señaló el titular de la Fiscalía General del Estado, Roberto Fierro Duarte, quien dijo que dentro de un operativo se logró el rescaten de 16 migrantes.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El reconocimiento consiste en la entrega de una medalla de oro y un estímulo económico por 92 mil 178 pesos; registro del primero de octubre al 17 de noviembre"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Invitan a docentes con 40 años de servicio a participar en la condecoración “Maestro Altamirano”"
 front: false
 section: "Local"
-news_id: 188478
+redirect_from: /news/188478
 ---
 
 La Secretaria de Educación y Deporte (SEyD), a través de los Servicios Educativos del Estado de Chihuahua (SEECH), invita al personal docente con 40 o más años de servicio, a inscribirse para recibir la condecoración “Maestro Altamirano”, en su edición 2022.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La profesora de vacunología de la Universidad de Oxford pide que los avances científicos logrados en la lucha contra el coronavirus no se pierdan por falta de financiación. "
 image: "/uploads/2021/images-vacunologa-britanica-sarah-gilbert-efe_0_53_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Próxima pandemia podría ser más mortal que el covid, advierte creadora de la vacuna de AstraZeneca"
 front: false
 section: "Internacional"
-news_id: 190529
+redirect_from: /news/190529
 ---
 
 La científica británica, Sarah Gilbert, cocreadora de la vacuna contra covid-19 de Oxford/AstraZeneca advirtió que una futura nueva pandemia amenaza con ser "peor" que la actual, por eso, pidió más inversión en investigación para estar mejor preparados ante esa posibilidad.  

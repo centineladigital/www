@@ -16,11 +16,11 @@ author: nil
 description: "Se ha obtenido un vinculo con agentes del ministerio público para resolver este tema"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-30_at_14.31.44.jpeg"
 video: "/uploads/2021/videos-BJ03_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "Se harán estrategias en materia de alerta de género "
 front: false
 section: "Local"
-news_id: 188239
+redirect_from: /news/188239
 ---
 
 El presidente Marco Bonilla, mencionó que se estarán realizando proyectos estratégicos en materia de alerta de género, ya que en su gobierno se está trabajando en pro de las mujeres, por ello se estará construyendo el presupuesto de egresos.

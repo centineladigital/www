@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se capacitó en estrategias para aplicar en su día, que beneficien su bienestar emocional"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacita CAPPSI a trabajadores de la JMAS para manejar el estrés"
 front: false
 section: "Local"
-news_id: 189504
+redirect_from: /news/189504
 ---
 
 El Gobierno Municipal de Chihuahua, a través del Centro de Atención y Prevención Psicológicas (CAPPSI), colaboró con la Junta Municipal de Agua y Saneamiento (JMAS) en su “Semana de la Salud” por medio de la impartición de talleres y la realización de una detección de factores de riesgo en materia de salud mental.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Al dar la bienvenida a estos trabajos la Presidenta Municipal manifestó su satisfacción porque esta transición se ha manejado de forma ejemplar y eficiente, agradeciendo la plena disposición y coordinación de los equipos involucrados en el proceso"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúa proceso de transición con mesa técnica de seguridad"
 front: false
 section: "Local"
-news_id: 185952
+redirect_from: /news/185952
 ---
 
 La Alcaldesa capitalina y el Alcalde electo continúan con el proceso de transición para la entrega recepción de la Administración Municipal, en esta ocasión tocó el turno a la mesa técnica de seguridad, a través de la cual los actores involucrados compartieron las acciones que desde hace más de cuatro años y medio se han efectuado en la materia.

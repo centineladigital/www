@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Enfatizó que este partido ya dio el primer paso y sigue esperar propuestas "
 image: "/uploads/2021/images-FFFSFS.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AL03_SANTINI_RAMOS.mp3"
 alt: "Ve CCE con buenos ojos que elecciones internas del PAN fueran abiertas y sin dedazo "
 front: false
 section: "Local"
-news_id: 182602
+redirect_from: /news/182602
 ---
 
 En cuanto a las elecciones interna del Partido Acción Nacional, realizadas el pasado fin de semana el presidente del Consejo Coordinador Empresarial, Francisco Santini Ramos, celebro que sus elecciones hayan sido tan abiertas y que no se realizaran por dedazo.

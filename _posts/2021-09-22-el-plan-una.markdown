@@ -12,11 +12,11 @@ author: nil
 description: "Este plan beneficiará específicamente a peatones"
 image: "/uploads/2021/images-IMPLAN.jpg"
 video: "/uploads/2021/videos-BW01_CARLOS_HERNANDEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "El plan una ciudad para las personas esta a la puerta"
 front: false
 section: "Local"
-news_id: 187962
+redirect_from: /news/187962
 ---
 
 El director del Instituto De Planeación Integral Del Municipio De Chihuahua, Carlos Roberto Hernández Velazco, manifestó que ya se está trabajando en un plan el cual es llamado una ciudad para las personas en dónde se estará trabajando con la concientización de los espacios públicos para los peatones.

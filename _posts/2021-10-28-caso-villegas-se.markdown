@@ -18,11 +18,11 @@ author: nil
 description: "Están a la espera de que la ley de juicio político sea aprobada "
 image: "/uploads/2021/images-gabriel_garcia_cantu.jpg"
 video: "/uploads/2021/videos-BJ01_GARCIA_CANTÚ.mp4"
-audio: "nil"
+audio: nil
 alt: "Caso Villegas se trabajará por la comisión jurisdiccional "
 front: false
 section: "Local"
-news_id: 189319
+redirect_from: /news/189319
 ---
 
 El diputado  Guillermo García Cantú manifestó que la comisión jurisdiccional, trabajará en los delitos que enfrenta Gerardo Villegas ex director de administración de la Secretaría de Hacienda durante el gobierno de César Duarte, al cual se le abrió un segundo expediente de investigación  por el delito de peculado.

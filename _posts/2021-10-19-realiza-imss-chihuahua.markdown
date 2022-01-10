@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Día Mundial de la Lucha contra el Cáncer de Mama, que se celebra este 19 de octubre"
 image: "/uploads/2021/images-Foto_FN_5138-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza IMSS Chihuahua “moño rosa”, para refrendar su compromiso en la lucha contra el cáncer de mama"
 front: false
 section: "Local"
-news_id: 188922
+redirect_from: /news/188922
 ---
 
 Dentro del Día Mundial de la Lucha contra el Cáncer de Mama, que se celebra este 19 de octubre, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, refrendó su compromiso con las mujeres chihuahuenses de fortalecer la atención ante este padecimiento.

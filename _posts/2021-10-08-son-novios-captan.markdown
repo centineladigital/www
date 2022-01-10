@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se filtraron supuestas imágenes en donde Selena Gómez y el actor Chris Evans aparecen juntos, esto a tan sólo unos días de que se diera a conocer que los famosos se seguían en redes sociales. "
 image: "/uploads/2021/images-selena-gomez-chris-evans-novios.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Son novios? Captan a Selena Gómez y Chris Evans juntos; redes reaccionan con memes por el 'romance'"
 front: false
 section: "Espectáculos"
-news_id: 188506
+redirect_from: /news/188506
 ---
 
 ¿Selena Gómez y el actor Chris Evans son novios? Es la duda que volvió locos a los internautas, luego de que salieran algunas imágenes en donde presuntamente aparece la cantante –ex pareja de Justin Bieber– acompañada de Chris Evans. ¿Sólo son amigos? Te contamos lo que sabemos y te dejamos los mejores memes que volvieron tendencia a la presunta pareja.  A través de las redes sociales se filtraron supuestas imágenes en donde Selena Gómez y el actor Chris Evans aparecen juntos, esto a tan sólo unos días que se diera a conocer que los famosos se seguían en redes sociales. Por lo que para algunos es prueba de que ambos tienen un amorío.

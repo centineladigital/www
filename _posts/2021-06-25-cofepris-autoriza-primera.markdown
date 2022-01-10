@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La vacuna Pfizer-BioNTech cumple requisitos de calidad, seguridad y eficacia necesarios para las personas mayores de 12 años, destacó la Cofepris"
 image: "/uploads/2021/images-2600800.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cofepris autoriza primera vacuna contra covid para adolescentes mexicanos"
 front: false
 section: "Local"
-news_id: 185236
+redirect_from: /news/185236
 ---
 
 La Comisión Federal para la Protección contra Riesgos Sanitarios (Cofepris) autorizó el uso de emergencia de la vacuna contra covid-19 de Pfizer-Biontech, a partir de los 12 años de edad.

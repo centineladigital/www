@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Desde temprana hora de este sábado, familias capitalinas aprovecharon el inicio del fin de semana para comenzar los festejos para papá"
 image: "/uploads/2021/images-festejospapapablo2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se llenan restaurantes; comienzan los festejos para papá"
 front: false
 section: "Local"
-news_id: 185128
+redirect_from: /news/185128
 ---
 
 Abarrotados lucen los restaurantes de la ciudad de Chihuahua con motivo del festejo del Día del Padre, pues las familias aprovecharon este sábado para festejar a papá con un desayuno para mañana llevar el festejo en casa.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Itatí Cantoral dio a conocer que puso en venta una lujosa mansión que pertenecía a su padre; explicó la razón por la que tomó esta decisión junto con sus hermanos. "
 image: "/uploads/2021/images-la-mansion-pertenecio-al-papa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Pide 27 mdp! Itatí Cantoral pone a la venta lujosa mansión que pertenecía a su padre; así luce"
 front: false
 section: "Espectáculos"
-news_id: 188549
+redirect_from: /news/188549
 ---
 
 Itatí Cantoral y sus tres hermanos se han hecho cargo de las propiedades que su padre, Roberto Cantoral, les dejó, sin embargo, recientemente se reveló que pusieron a la venta una lujosa mansión que está ubicada en una zona exclusiva de Rancho Viejo, Texas y que pide 27 millones de pesos por ella. En una entrevista con TVNotas, el hermano menor de Itatí Cantoral, Roberto, habló sobre la decisión que tomaron en familia y la razón por la que han puesto a la venta la casa que perteneció a su padre.

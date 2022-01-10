@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La cantante, quien es tendencia con cada canción y cada atuendo que estrena, cuenta que ella elige su ropa y que usa tacones y vestidos de princesas desde los cinco años"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Libre soy! Y la neta no pelo a nadie en el amor -  Ángela Aguilar"
 front: false
 section: "Espectáculos"
-news_id: 188055
+redirect_from: /news/188055
 ---
 
 “Libre como el viento y yendo contra corriente”.

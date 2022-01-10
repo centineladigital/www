@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El director ejecutivo de la firma, Albert Bourla, dio detalles a los medios estadunidenses sobre la situación ante la pandemia del coronavirus. "
 image: "/uploads/2021/images-empresa-pfizer-continua-investigando-covid_0_18_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Cuarta vacuna! Pfizer prevé que sea necesario otro refuerzo ante variante de covid ómicron"
 front: false
 section: "Internacional"
-news_id: 190703
+redirect_from: /news/190703
 ---
 
 Albert Bourla, director ejecutivo de la empresa farmacéutica Pfizer, sostuvo que podría ser necesaria una cuarta vacunación contra el covid-19 tras la llegada de la variante ómicron, la cual podría afectar el nivel de inmunidad que se desarrolla con las anteriores dosis del compuesto que la firma creó en conjunto con BioNTech, según revela un medio estadunidense. 

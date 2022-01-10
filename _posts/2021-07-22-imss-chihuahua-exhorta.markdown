@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El envejecimiento cerebral puede prevenirse, por lo que el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua exhorta a ejercitar la memoria"
 image: "/uploads/2021/images-Foto_3454-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS Chihuahua exhorta a ejercitar la memoria "
 front: false
 section: "Local"
-news_id: 185909
+redirect_from: /news/185909
 ---
 
 Actualmente, por desconocimiento o temor, no se busca acudir con el médico para recibir un diagnóstico oportuno.

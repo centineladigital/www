@@ -16,11 +16,11 @@ author: nil
 description: "El gobierno municipal tiene los recursos para poder solventar los gastos del IMPLAN "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-22_at_10.48.29.jpeg"
 video: "/uploads/2021/videos-BV02_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Municipio tiene presupuesto para el IMPE  "
 front: false
 section: "Local"
-news_id: 189094
+redirect_from: /news/189094
 ---
 
 El alcalde del municipio de Chihuahua Marco Bonilla Mendoza mencionó que respecto al déficit presupuestario que tiene el IMPE el cual es de 40 millones de pesos, el gobierno municipal tiene los recursos para poder solventar los gastos que tenga, Manque Granados deja una administración sana financieramente hablando.

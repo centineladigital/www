@@ -10,11 +10,11 @@ author: nil
 description: "Señaló que no adelantaría juicios en contra del exgobernador."
 image: "/uploads/2021/images-JAUREGUI1.jpg"
 video: "/uploads/2021/videos-MM03_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "No adelantaremos juicios -  Jáuregui"
 front: false
 section: "Local"
-news_id: 188158
+redirect_from: /news/188158
 ---
 
 El Secretario General de Gobierno, César Gustavo Jáuregui Moreno, señaló que no adelantaría juicios en contra del exgobernador, esto luego de que se diera a conocer de forma extraoficial que se está llevando a cabo un proceso en contra del exgobernador Javier Corral y su hermana.

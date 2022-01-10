@@ -13,12 +13,12 @@ tags:
 author: nil
 description: " El servicio se llevará a cabo con el fin de no afectar a los ciudadanos"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Atención! La recolección de basura será regular el día 1 y 2 de noviembre   "
 front: false
 section: "Local"
-news_id: 189367
+redirect_from: /news/189367
 ---
 
 El Gobierno Municipal informa que los próximos 1 y 2 de noviembre el servicio de recolección de basura habitacional se realizará de manera regular, por lo que se invita a los chihuahuenses a los que les corresponde sacar la basura días lunes y martes lo hagan de la forma acostumbrada.

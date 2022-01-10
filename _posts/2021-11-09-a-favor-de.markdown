@@ -10,11 +10,11 @@ author: nil
 description: "Afirma mandataria que su gobierno concuerda con la disminución de la pobreza."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MM04_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "A favor de la propuesta de AMLO ante la ONU -  Gobernadora"
 front: false
 section: "Local"
-news_id: 189710
+redirect_from: /news/189710
 ---
 
 “Me pareció un muy buen mensaje, él y yo coincidimos y este gobierno coincide con esta causa” fueron las palabras de la Gobernadora de Chihuahua, María Eugenia Campos Galván al ser cuestionada respecto a la propuesta que realizó el Presidente Andrés Manuel López Obrador ante la Organización de Naciones Unidas.

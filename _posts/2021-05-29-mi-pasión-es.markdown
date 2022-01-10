@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El histrión y cantante comparte con una sonrisa los recuerdos que tiene de su ciudad natal, Tampico, y confiesa que los reality están entre sus gustos culposos; el protagonista de ¿Quién mató a Sara? se declara perfeccionista incorregible."
 image: "/uploads/2021/images-trabajo-mucho-en-mi-paciencia_0_0_506_315.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mi pasión es actuar… pero también me sale muy bien el picadillo -  Eugenio Siller"
 front: false
 section: "Espectáculos"
-news_id: 184732
+redirect_from: /news/184732
 ---
 
 El actor y cantante tamaulipeco nos presume su sazón, así como una profunda afición por actividades como el Kayak, la cocina y ver documentales; además, de los recuerdos que más atesora de su infancia. Eugenio Siller Margain es un actor y cantante que se ha ganado el corazón del público gracias a su impresionante trabajo en la pantalla y que se ha distinguido por ser una persona sumamente alegre, servicial y apasionado de su profesión. Desde muy chico soñaba con ser una gran artista, y la vida y sus ganas de salir adelante lo llevaron a formar parte de una de las series más vistas a escala mundial en Netflix: ¿Quién Mato a Sara?, que está a punto de estrenar la segunda temporada. 

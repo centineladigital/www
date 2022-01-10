@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que pese a encuestas aún no se define situación del ganador."
 image: "/uploads/2021/images-GRACIELA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_GRACIELA_ORTIZ.mp3"
 alt: "No hay nada para nadie -  Graciela Ortiz "
 front: false
 section: "Local"
-news_id: 183636
+redirect_from: /news/183636
 ---
 
 La candidata del Partido Revolucionario Institucional, Graciela Ortiz, señaló que dentro de la presente elección para gobernador aún no se tiene nada definido, esto porque el total de votos se definirá entre ocho candidatos de diferentes partidos. 

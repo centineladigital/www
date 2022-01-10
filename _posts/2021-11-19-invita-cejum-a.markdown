@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se realiza en el marco del Día Internacional de la Eliminación de la Violencia contra las Mujeres, del 22 al 26 de noviembre en Ciudad Juárez y Chihuahua"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita CEJUM a la Feria de Servicios y Salud para Mujeres, Niñas y Adolescentes"
 front: false
 section: "Local"
-news_id: 189995
+redirect_from: /news/189995
 ---
 
 El Centro de Justicia para las Mujeres (CEJUM) invita a la Feria de Servicios y Salud para Mujeres, Niñas y Adolescentes, la cual se llevará a cabo de manera simultánea en Ciudad Juárez y Chihuahua, del 22 al 26 de noviembre.

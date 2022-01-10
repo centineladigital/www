@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En caso de sacar siete o más puntos en la nueva jornada triple rumbo a la Copa del Mundo, Gerardo Martino y el Tricolor casi cumplirán la misión"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La Selección Mexicana, si no falla en la Fecha FIFA, se acercará a Qatar 2022"
 front: false
 section: "Deportes"
-news_id: 188367
+redirect_from: /news/188367
 ---
 
 A la Selección Nacional se le vienen 15 días clave, tres encuentros que pueden ser fundamentales para clasificarse al Mundial Qatar 2022.

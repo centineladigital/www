@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Padres de los 43 normalistas dicen que exigir investigación de participación del Ejército en los hechos del 26 de septiembre de 2014 incomoda a la actual administración"
 image: "/uploads/2021/images-marcha_ayotzinapa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "A 7 años, ven nulo avance en el caso Ayotzinapa"
 front: false
 section: "Nacional"
-news_id: 188070
+redirect_from: /news/188070
 ---
 
 Los padres de los 43 estudiantes de Ayotzinapa desaparecidos en los hechos violentos de Iguala afirmaron que cuando exigen que se investigue la participación del Ejército en la agresión contra los normalistas, el gobierno federal se incomoda.

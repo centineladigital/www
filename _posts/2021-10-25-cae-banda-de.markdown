@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " Gracias a la investigación de la Policía Municipal, la Fiscalía General del Estado giró órdenes de aprehensión"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cae banda de presuntos ladrones de casas y negocios de la ciudad"
 front: false
 section: "Local"
-news_id: 189176
+redirect_from: /news/189176
 ---
 
 El programa “Chihuahua Capital Cero Impunidad, el que la hace la paga” del Gobierno Municipal a través de la Dirección de Seguridad Pública, informó sobre la detención de una banda de presuntos ladrones de casa habitación y negocios, gracias a la investigación de la Policía Municipal y la coordinación con la Fiscalía General del Estado.

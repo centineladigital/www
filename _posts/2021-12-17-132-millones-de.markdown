@@ -14,11 +14,11 @@ author: nil
 description: "Un crédito de 60 meses para un beneficio de 30 a 50 años es algo viable"
 image: "/uploads/2021/images-7b5ea511-34d0-4ab9-9535-4fa1710854c5.jpg"
 video: "/uploads/2021/videos-MARCO_BONILLA_BV05.mp4"
-audio: "nil"
+audio: nil
 alt: "132 Millones de pesos para el relleno sanitario "
 front: false
 section: "Local"
-news_id: 190988
+redirect_from: /news/190988
 ---
 
 A un plazo de 60 meses el Gobierno Municipal ha considerado la adquisición de un préstamo de 132 millones de pesos para la realización del relleno sanitario lo que corresponde a la total realización del relleno sanitario metropolitano que el alcalde Marco Bonilla ha señalado como parte de las obras que se construirán a lo largo de su mandato.

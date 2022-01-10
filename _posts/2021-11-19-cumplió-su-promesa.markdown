@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante acudió a la Policía Nacional para que hiciera entregas de numerosas despensas para las familias más afectadas."
 image: "/uploads/2021/images-balvin-manda-ayuda-colombia-diego.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Cumplió su promesa! J Balvin manda despensas a familias afectadas por las lluvias en Colombia"
 front: false
 section: "Espectáculos"
-news_id: 190032
+redirect_from: /news/190032
 ---
 
 Durante su carrera artística J Balvin ha experimentado y vivido lo que es el éxito rotundo y también ha sido blanco de múltiples críticas por su nula preocupación social. La temporada de lluvias en Colombia ha desatado el caos y un estado de emergencia en diferentes zonas en donde varias familias han perdido sus bienes como electrodomésticos y alimentos ante las inundaciones en sus viviendas. 

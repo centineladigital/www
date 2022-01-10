@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los clavadistas mexicanos superaron la fase preliminar con buenas actuaciones, el primero terminó en tercer sitio y el segundo en el noveno peldaño"
 image: "/uploads/2021/images-clavados.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Rommel Pacheco y Osmar Olvera clasifican a semifinales en trampolín de 3 metros"
 front: false
 section: "Deportes"
-news_id: 186181
+redirect_from: /news/186181
 ---
 
 En la ronda preliminar, Rommel Pacheco tuvo una destacada actuación al concluir en el tercer lugar con 479.25. Con ello, pasará a semifinales en trampolín de tres metros como uno de los mejores 18, al igual que Osmar Olvera, quien concluyó en noveno sitio con una calificación de 442.45 puntos.

@@ -16,11 +16,11 @@ author: nil
 description: "Señaló su preocupación  sobre este  tema y aseguro que AMLO tiene una relación destructiva  con el ejército"
 image: "/uploads/2021/images-descarga_(8).jpg"
 video: "/uploads/2021/videos-BM02_MARIO_VAZQUEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Decreto de AMLO dará  pie a confusión e intromisión del ejercito "
 front: false
 section: "Local"
-news_id: 190124
+redirect_from: /news/190124
 ---
 
 El decreto de AMLO propiciará una confusión en la población y una intromisión masiva por parte del ejército mexicano, estas fueron las palabras del diputado y presidente del grupo parlamentario del PAN Mario Vázquez al hablar sobre el decreto emitido por el Presidente de la República en donde se manejan las obras de la federación como parte de la seguridad nacional.

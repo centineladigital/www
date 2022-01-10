@@ -10,11 +10,11 @@ author: nil
 description: "A días de la toma de protesta aún no se define fecha, falta coordinar acciones con la federación."
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-ML04_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Sin definir fecha de mesa de seguridad"
 front: false
 section: "Local"
-news_id: 187684
+redirect_from: /news/187684
 ---
 
 Aún no se define la fecha para que la presente administración lleve a cabo la primer reunión de mesa de Seguridad, señaló el titular de la Secretaría de Seguridad Pública Estatal Gilberto Loya. Esto a unos días de que se tomó la protesta de la actual Gobernadora de Chihuahua María Eugenia Campos Galván.

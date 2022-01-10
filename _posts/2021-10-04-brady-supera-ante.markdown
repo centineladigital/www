@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Antes de que Brees consiguiera el récord, Peyton Manning lo tenía desde el 15 de noviembre de 2015 "
 image: "/uploads/2021/images-tom-brady-ap-11_0_23_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brady supera ante Patriots la marca de Brees de yardas por aire de la NFL"
 front: false
 section: "Deportes"
-news_id: 188333
+redirect_from: /news/188333
 ---
 
 El legendario Tom Brady después de más de 19 años de su primera apertura en la Liga Nacional de Futbol Americano (NFL) con el que dio inicio la dinastía de los New England Patriots y una de las mejores carreras en la historia de los deportes profesionales, también hizo historia este domingo al romper la marca de yardas por aire de la liga. 

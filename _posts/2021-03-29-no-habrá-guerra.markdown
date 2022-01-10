@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Señala dirigente municipal del PAN señala que su partido no dará guerra sucia."
 image: "/uploads/2021/images-FRANCISCO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02_FRANCISCO_NAVARRO.mp3"
 alt: "No habrá guerra sucia contra MQ -  Navarro"
 front: false
 section: "Local"
-news_id: 183599
+redirect_from: /news/183599
 ---
 
 A nivel municipal el Partido Acción Nacional descarta que se dé una guerra en contra del abanderado de MORENA, esto tras los anuncios del mismo Marco Adán Quezada en relación a ataques del albiazul, por lo que Francisco Navarro Pastrana dirigente municipal de este partido descartó que se dieran.

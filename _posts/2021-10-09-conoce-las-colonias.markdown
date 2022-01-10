@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal pone a disposición contenedores y camiones recolectores "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-09_at_11.32.06.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conoce las colonias donde habrá destilichadero la próxima semana "
 front: false
 section: "Local"
-news_id: 188564
+redirect_from: /news/188564
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos, continúa con el programa de Destilichadero en los diferentes puntos de la ciudad y para la semana del 11 al 15 de octubre el contenedor y la ruta de limpieza, atenderá las colonias: 3 de mayo, Casa Blanca, Toribio Ortega, Felipe Ángeles 2, Plan de Ayala, Miguel Hidalgo, CDP, 2 de junio, Oasis Revolución, Real de Minas y Minerales en las etapas II y III.

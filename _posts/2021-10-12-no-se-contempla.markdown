@@ -10,11 +10,11 @@ author: nil
 description: "Descartan creación de nuevos impuestos."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MM02_MARU_.mp4"
-audio: "nil"
+audio: nil
 alt: "No se contempla regreso de tenencia"
 front: false
 section: "Local"
-news_id: 188648
+redirect_from: /news/188648
 ---
 
 Pese a que el gobierno tiene condiciones adversas en materia financiera el Estado no contempla el que se vuelva a cobrar la tenencia, esa fue la respuesta de la Gobernador de Chihuahua María Eugenia Campos Galván al posible incremento de impuestos.

@@ -14,11 +14,11 @@ author: nil
 description: "Rosa Estela Ortiz, presidenta del comité de vecinos, comentó que esta es una actividad que ayuda a convivir con la familia y los vecinos de la colonia, además de que estos murales ayudarán a embellecer a la colonia"
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BV04_ROSA_ORTIZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Llenan de arte la colonia Insurgentes ll"
 front: false
 section: "Local"
-news_id: 190024
+redirect_from: /news/190024
 ---
 
 En colaboración con los vecinos de la colonia Insurgentes II, dentro de los primeros 100 días de trabajo y resultados, el Gobierno Municipal a través del Instituto de Cultura del Municipio (ICM), dio inicio al programa “Muralismo Comunitario”.

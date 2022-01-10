@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " Asisten autoridades de Baja California, Baja California Sur, Sonora, Sinaloa y Chihuahua; es la tercera vez que la entidad es sede de este encuentro."
 image: "/uploads/2021/images-_DSC3932.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura Gobernador 2ª Sesión Ordinaria Zona Noroeste de Conferencia Nacional del Sistema Penitenciario"
 front: false
 section: "Local"
-news_id: 185737
+redirect_from: /news/185737
 ---
 
 El gobernador Javier Corral Jurado inauguró la Segunda Sesión Ordinaria Zona Noroeste, de la Conferencia Nacional del Sistema Penitenciario, con la asistencia de autoridades de Baja California, Baja California Sur, Sonora, Sinaloa y Chihuahua.

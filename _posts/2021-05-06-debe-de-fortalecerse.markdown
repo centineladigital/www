@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Desmantelan Seguro Popular e INSABI sigue sin funcionar."
 image: "/uploads/2021/images-MARIO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ04_MARIO_VAZQUEZ.mp4"
 alt: "Debe de fortalecerse sistema de salud -  Mario Vázquez"
 front: false
 section: "Local"
-news_id: 184324
+redirect_from: /news/184324
 ---
 
 Debido a que no se tiene actualmente un buen sistema de salud, el candidato por el décimo sexto distrito del PAN, Mario Vázquez Robles, señaló que es necesario el mejorar el sistema de salud, pero sobre todo el reforzar al estado ya que el gobierno federal, según sus palabras, ha dejado en el olvido a los pacientes.

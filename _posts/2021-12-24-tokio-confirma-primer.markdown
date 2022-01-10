@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las autoridades locales informaron que el paciente es un médico sin historial de viajes recientes al extranjero. "
 image: "/uploads/2021/images-autoridades-tokio-confirmaron-caso-omicron_0_4_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tokio confirma primer caso de variante ómicron de transmisión comunitaria"
 front: false
 section: "Internacional"
-news_id: 191184
+redirect_from: /news/191184
 ---
 
 Las autoridades de Tokio informaron que se detectó el primer caso de coronavirus covid-19 con la variante ómicron de transmisión comunitaria en un médico de una clínica sin historial de que recientemente haya viajado al extranjero. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El mandatario aseguró que, en lo que respecta a  recuperación de puestos de trabajo registrados en el IMSS, su administración está a punto de llegar a los 20 millones 500 mil empleos que se tenían antes de la pandemia"
 image: "/uploads/2021/images-presidente-andres-manuel-lopez-obrador-753_1_27_1198_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO calcula que falta recuperar 200 mil empleos para volver a niveles prepandemia"
 front: false
 section: "Nacional"
-news_id: 185892
+redirect_from: /news/185892
 ---
 
 El presidente Andrés Manuel López Obrador estimó que aún falta recuperar poco más de 200 mil empleos formales, de los cerca de un millón 500 mil que se perdieron por la pandemia de covid-19, para llegar al nivel que se tenía previo al inicio de la crisis sanitaria. 

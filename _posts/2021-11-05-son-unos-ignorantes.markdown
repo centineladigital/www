@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La película ha sido prohibida en Kuwait y Catar porque su argumento, que retrata a una familia de superhéroes enviada por los dioses, es considerado blasfemo. "
 image: "/uploads/2021/images-angelina-jolie-critica-prohibicion-eternals.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Son unos ignorantes -  Angelina Jolie tras prohibición de exhibición de ‘Eternals’ en algunos países"
 front: false
 section: "Espectáculos"
-news_id: 189602
+redirect_from: /news/189602
 ---
 
 Angelina Jolie ha criticado a los "ignorantes" que han provocado la prohibición de la película Eternals en algunos países por el contenido sexual de la película de superhéroes de Marvel y Disney. 

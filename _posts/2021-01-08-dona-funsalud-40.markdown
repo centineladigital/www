@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La asociación civil Fundación Mexicana para la Salud ha regalado un total de 105 respiradores y 90 mil cubrebocas"
 image: "/uploads/2021/images-DONACION_FUNSALUD_(4).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dona Funsalud 40 respiradores más para pacientes COVID-19"
 front: false
 section: "Local"
-news_id: 181982
+redirect_from: /news/181982
 ---
 
 La Fundación Mexicana para la Salud A. C. (Funsalud) donó a la Secretaría de Salud de Chihuahua 40 respiradores de la marca Philips E30, que serán distribuidos en diversas unidades médicas de la entidad, para la atención a pacientes con COVID-19.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dan positivo 34 personas en el último reporte epidemiológico COVID-19; Chihuahua está a la cabeza con 338 casos, mientras que Juárez le secunda con 269  "
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acumula estado  73 mil 806 contagios y 7 mil 721 defunciones en 17 meses de la pandemia"
 front: false
 section: "Local"
-news_id: 186448
+redirect_from: /news/186448
 ---
 
 La Secretaría de Salud informó que al día de hoy se tienen en el estado de Chihuahua un total general de 73 mil 806 casos de COVID-19 con 34 nuevos confirmados, así como 7 mil 721 personas fallecidas, al no registrarse nuevos casos.

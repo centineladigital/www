@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante responsable de éxitos como Otra vez y Ayer te pedí dijo que la muerte de un familiar fue la que lo llevó a tomar esta decisión. "
 image: "/uploads/2021/images-el-cantante-participo-en-la.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Víctor García, ex integrante de 'La Academia', anuncia su regreso a la música"
 front: false
 section: "Espectáculos"
-news_id: 188953
+redirect_from: /news/188953
 ---
 
 Tras participar en varias telenovelas, siendo la más reciente Por amar sin ley, Víctor García, ex integrante del reality show La Academia, anunció su regreso a la música durante una entrevista en el programa Montse y Joe, de Unicable. El cantante responsable de éxitos como "Otra vez" y "Ayer te pedí" dijo que la muerte de un familiar fue la que lo llevó a tomar esta decisión.

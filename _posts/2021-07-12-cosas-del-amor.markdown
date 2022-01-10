@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un día después de que se estrene en cines 'El mesero' (15 de julio), Vadhir mostrará Te confieso, su nuevo sencillo junto a Ximena Sariñana. "
 image: "/uploads/2021/images-vadhir-derbez-instagram-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cosas del amor propio -  Vadhir Derbez habla sobre su protagónico en la película 'El Mesero'"
 front: false
 section: "Espectáculos"
-news_id: 185590
+redirect_from: /news/185590
 ---
 
  Vadhir Derbez está teniendo un gran año en el aspecto cinematográfico, pues tras su protagónico en la cinta estadunidense Exorcismo en el Séptimo Día, el actor volverá a tener el rol principal en El Mesero, comedia que cuenta la historia de un joven que aspira a cambiar su vida y prosperar en el ámbito profesional, pero para lograrlo finge su verdadera identidad y aparenta lo que no es. 

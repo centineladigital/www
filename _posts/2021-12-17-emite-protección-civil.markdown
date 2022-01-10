@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La dependencia estatal hace un llamado en especial a padres y madres de familia, sobre  el peligro del uso de pirotecnia especialmente cuando involucra  a niñas y niños pequeños"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Protección Civil recomendaciones para evitar accidentes y disfrutar de una Navidad segura"
 front: false
 section: "Local"
-news_id: 190994
+redirect_from: /news/190994
 ---
 
 A fin de evitar accidentes durante la temporada navideña, principalmente aquellos que involucran a menores de edad, Gobierno del Estado, a través de la Coordinación Estatal de Protección Civil (CEPC), dio a conocer una serie de recomendaciones a la población.

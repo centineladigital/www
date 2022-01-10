@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Liga MX se prepara para tener una doble jornada más en lo que va del Apertura 2021 y acá te damos toda la información previa a los partidos"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Todo lo que debes saber de la Jornada 14 del Apertura 2021 de la Liga MX"
 front: false
 section: "Deportes"
-news_id: 188898
+redirect_from: /news/188898
 ---
 
 La Liga MX celebrará una jornada más a mitad de semana. La Jornada 14 se realizará entre martes 19 y miércoles 20 de octubre y tendrá duelos que podría ya definir el rumbo de los equipos de cara a la liguilla del torneo.

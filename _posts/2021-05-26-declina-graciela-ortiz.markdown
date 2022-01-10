@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Rechazan aspirantes del PRI llamado de Ortiz a un frente común con Maru Campos por la gubernatura"
 image: "/uploads/2021/images-Chela_Ortiz_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Declina” Graciela Ortiz, pero el partido no"
 front: false
 section: "Local"
-news_id: 184662
+redirect_from: /news/184662
 ---
 
 Graciela Ortiz, candidata a la gubernatura por el Partido Revolucionario Institucional (PRI), planteó a los candidatos del partido realizar un frente común con Acción Nacional para evitar que Morena llegue al gobierno de Chihuahua, sin embargo indicó que su candidatura sigue en marcha.

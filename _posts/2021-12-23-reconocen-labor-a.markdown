@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En una convivencia con las y los empleados, el Alcalde destacó el orgullo que representan para la ciudadanía"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconocen labor a trabajadores del servicio de recolección y limpieza del Gobierno Municipal"
 front: false
 section: "Local"
-news_id: 191164
+redirect_from: /news/191164
 ---
 
 El alcalde de Chihuahua, Marco Bonilla Mendoza, encabezó una convivencia con el personal de recolección de basura y las cuadrillas de limpieza de la Dirección de Servicios Públicos, a fin de reconocer la gran labor que realizan para mantener limpia la ciudad.

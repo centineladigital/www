@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La hepatitis es una inflamación del hígado que puede ser producida por diferentes causas, una de ellas son los virus, se conocen cinco tipos diferentes que varían en vías de transmisión, cuadros clínicos, respuesta a tratamiento y pronóstico "
 image: "/uploads/2021/images-Foto_4352-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte IMSS Chihuahua sobre complicaciones de la Hepatitis "
 front: false
 section: "Local"
-news_id: 187440
+redirect_from: /news/187440
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua advierte a la población sobre las complicaciones de las diferentes modalidades de Hepatitis. 

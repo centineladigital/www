@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Personal del equipo de Bomberos y Protección Civil atendieron el incidente, el cual no ocasionó daño alguno a personas."
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-15_at_12.59.58.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-09-15_at_12.59.58.ogg"
 alt: "Suspende Actividades este miércoles la Junta Local de Conciliación y Arbitraje tras evacuación del edificio"
 front: false
 section: "Local"
-news_id: 187761
+redirect_from: /news/187761
 ---
 
 Este miércoles se realizó una evacuación preventiva del personal, así como de usuarias y usuarios de las instalaciones de la Secretaría del Trabajo y Previsión Social (STPS) ubicadas en el centro de la ciudad de Chihuahua. 

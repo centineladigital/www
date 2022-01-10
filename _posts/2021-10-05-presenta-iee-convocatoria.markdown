@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Busca reconocer a personas, agrupaciones u organizaciones civiles que se han involucrado en los mecanismos de participación ciudadana"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-05_at_11.05.47.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presenta IEE convocatoria del premio “Paquita Jiménez”"
 front: false
 section: "Local"
-news_id: 188383
+redirect_from: /news/188383
 ---
 
 Chihuahua, Chih.- Con el objetivo de fortalecer y promover la cultura democrática y la participación ciudadana en el estado, el Consejo Estatal del Instituto Estatal Electoral de Chihuahua (IEE) emitió la convocatoria incluyente del premio anual “Paquita Jiménez”, para distinguir a las personas, agrupaciones u organizaciones civiles que se han involucrado en los mecanismos de participación ciudadana. 

@@ -18,11 +18,11 @@ author: nil
 description: "Se brindará un descuento del 30 por ciento de descuento al costo mensual a todos los funcionarios y militantes del Partido Acción Nacional que realicen sus estudios en la carrera que impartirá la URN"
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-04_at_11.00.26(1).jpeg"
 video: "/uploads/2021/videos-BJ05_PACO_NAVARRO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Firma PAN Municipal convenio con la URN"
 front: false
 section: "Local"
-news_id: 189565
+redirect_from: /news/189565
 ---
 
 El Comité Directivo Municipal del PAN Chihuahua y la Universidad Regional del Norte (URN) realizan una firma de convenio de colaboración con el fin de otorgar becas a los militantes para cursar la carrera de Derecho, impartida por catedráticos de esta institución académica.

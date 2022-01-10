@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jared Leto muestra su capacidad para reinventarse para cada personaje y ahora el también cantante mostró su cambio para la película House of Gucci. "
 image: "/uploads/2021/images-jared-leto-caracterizado-radicales-cambios.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Un camaleón! Jared Leto muestra su radical cambio para la película 'House of Gucci'"
 front: false
 section: "Espectáculos"
-news_id: 186098
+redirect_from: /news/186098
 ---
 
 A lo largo de su carrera Jared Leto ha demostrado que puede realizar drásticos cambios de imagen, esto con el fin de que los personajes que interpreta en ciertas películas sean más reales. Una muestra de ellos es su participación en El club de los desahuciados o en Escuadrón Suicida, ahora, el actor mostró su nuevo cambio para House of Gucci. 

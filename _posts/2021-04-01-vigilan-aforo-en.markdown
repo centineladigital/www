@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Elementos de bomberos y protección civil municipal se encuentran este jueves resguardando las inmediaciones de las presas, para prevenir que los visitantes ingresen"
 image: "/uploads/2021/images-Presa_Chihuahua.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vigilan aforo en presas de la ciudad"
 front: false
 section: "Local"
-news_id: 183655
+redirect_from: /news/183655
 ---
 
 Elementos de bomberos y protección civil municipal se encuentran este jueves resguardando las inmediaciones de las presas, para prevenir que los visitantes ingresen, ya que por el operativo y la semaforización el acceso está restringido.

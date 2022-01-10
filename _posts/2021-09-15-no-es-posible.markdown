@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Por falta de recursos no se podrán transferir Juntas Municipales para administración de los cabildos."
 image: "/uploads/2021/images-MARU.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW05_MARU.mp4"
 alt: "No es posible transferir juntas de agua a municipios"
 front: false
 section: "Local"
-news_id: 187769
+redirect_from: /news/187769
 ---
 
 En este momento no es posible el transferir los organismos encargado del agua a las entidades municipales, afirmó la Gobernadora de Chihuahua María Eugenia Campos, esto tras ser cuestionada respecto a las declaraciones del Alcalde juarense que ha solicitado administrar la Junta Municipal del Agua.

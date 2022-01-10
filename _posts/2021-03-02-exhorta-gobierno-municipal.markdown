@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Existen 38 nuevos anuncios que cuentan con los requisitos"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta Gobierno Municipal a verificar estructuras de anuncios ante temporada de viento"
 front: false
 section: "Local"
-news_id: 183228
+redirect_from: /news/183228
 ---
 
 El Gobierno Municipal a través de la Dirección de Desarrollo Urbano y Ecología, como todos los años exhorta, a dueños de anuncios y estructuras publicitarias de todos los tamaños a realizar el mantenimiento preventivo de dichos espacios por la época de viento, esto con la finalidad de atender la seguridad de la población chihuahuense.

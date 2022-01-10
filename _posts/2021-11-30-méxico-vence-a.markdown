@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "México cerró la primera parte de la clasificación al Mundial de 2023, al derrotar al número 1 del mundo por 97-88 y dejar buenos sentimientos con su actuación en Chihuahua "
 image: "/uploads/2021/images-gabriel-giron-en-festejo-cortesia_0_1_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México vence a Estados Unidos y toma ventaja en ventana FIBA"
 front: false
 section: "Deportes"
-news_id: 190329
+redirect_from: /news/190329
 ---
 
 ¡México dio un paso sólido hacia el Mundial de Basquetbol de 2023! Los 12 Guerreros se plantaron ante Estados Unidos y salieron victoriosos por 97-88, colocándose como líderes del Grupo D en la primera ventana clasificatoria rumbo a la Copa del Mundo en Japón, Indonesia y Filipinas. 

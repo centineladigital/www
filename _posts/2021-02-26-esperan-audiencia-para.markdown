@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto por acciones dentro de la administración de Alcaldesa con licencia."
 image: "/uploads/2021/images-MESTA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03.mp3"
 alt: "Esperan audiencia para el 5 de marzo -  Secretario"
 front: false
 section: "Local"
-news_id: 183184
+redirect_from: /news/183184
 ---
 
 Será para el cinco de marzo cuando se lleve a cabo la audiencia en contra de la Alcaldesa con licencia de Chihuahua, señaló el Secretario General de Gobierno esto por los delitos de cohecho y otros delitos que no son parte del caso de la “nómina secreta”, afirmó Fernando Mesta Soulé.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Por medio de Fodarch se dotó de puestos fijos construidos con madera, para la venta de artesanías y comida."
 image: "/uploads/2021/images-_DSC3264.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura Gobernador Corredor Comercial Cusárare en apoyo a familias ralámuli"
 front: false
 section: "Local"
-news_id: 185667
+redirect_from: /news/185667
 ---
 
 Como parte del Maratón de Obras que continúa por todo el estado, el gobernador Javier Corral entregó el Corredor Comercial Cusárare, en el municipio de Guachochi, donde se apoyó a familias ralámuli con puestos de venta fijos, construidos con madera.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Alcalde preside esta iniciativa que busca cuidar la vida e integridad de los chihuahuenses"
 image: "/uploads/2021/images-unnamed_(13).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca campaña “Yo te quiero VIVO” para prevención de suicidios   "
 front: false
 section: "Buenas Noticias"
-news_id: 190786
+redirect_from: /news/190786
 ---
 
 El alcalde, Marco Bonilla, presidió el arranque de la campaña "Yo te quiero VIVO" la cual es una propuesta de carácter preventivo que tiene como objetivo principal, reducir el riesgo de suicidio en la población chihuahuense, para evitar que las y los ciudadanos caigan en esta problemática.

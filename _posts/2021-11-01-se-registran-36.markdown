@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hoy se registran 36 nuevos casos que se concentran en los municipios de Juárez (+14) Chihuahua (+3), Cuauhtémoc (+3), Camargo (+1), Guachochi (+2), Bocoyna (+6), Urique (+4), Janos (+1), Nonoava (+1), y Moris (+1)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 36 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 189443
+redirect_from: /news/189443
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 1 de noviembre el reporte COVID-19, en el cual se registran 81 mil 556 (+36) personas confirmadas en la entidad por este padecimiento, 70 mil 601 (+57) casos recuperados, 75 mil 205 (+15) descartados y 843 (+9) casos sospechosos.

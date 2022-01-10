@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El equipo del gabinete encargado de responder al Covid-19 decidió incluir a México en la lista roja, agregándolo a una prohibición de viajar que incluye a Estados Unidos, Reino Unido y Canadá"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por Covid-19, Israel incluye a México en su lista roja de viajes"
 front: false
 section: "Internacional"
-news_id: 191300
+redirect_from: /news/191300
 ---
 
 Jerusalén.- Israel levantó el miércoles su prohibición de viajar a decenas de países europeos y africanos, incluidos Italia y Alemania, a pesar de que tasa de infección por coronavirus del país sigue aumentando. En contraste, incluyó a México en su lista roja.

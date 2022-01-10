@@ -12,11 +12,11 @@ author: nil
 description: "Espera que el pleno favorezca los nombramientos"
 image: "/uploads/2021/images-descarga_(2).jpg"
 video: "/uploads/2021/videos-BM03_MARIO_VAZQUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Se dará un sí a los 2 nombramientos propuestos por Maru Campos "
 front: false
 section: "Local"
-news_id: 187930
+redirect_from: /news/187930
 ---
 
 El presidente del Congreso Mario Vázquez declaró, que se le dará el sí al nombramiento de Roberto Fierro Duarte  que propuso la gobernadora Maru Campos en donde lo impone como Fiscal General del Estado y también a María de los Ángeles Álvarez como titular de la Secretaria de la Función Pública.

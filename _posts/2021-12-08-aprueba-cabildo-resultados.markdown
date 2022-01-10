@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se informó sobre el proceso llevado a cabo en la elección el 31 de octubre"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueba Cabildo resultados del proceso de elección de Juntas Municipales"
 front: false
 section: "Local"
-news_id: 190641
+redirect_from: /news/190641
 ---
 
 Las  y los regidores del H. Ayuntamiento de Chihuahua, aprobaron por unanimidad el dictamen por parte de la Comisión Especial de Procesos de Elección, relativo a la conformidad de los resultados para el periodo 2021 – 2024.

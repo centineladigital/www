@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Podrían llegar a los 60 kilómetros por hora"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Emite Protección Civil Municipal alerta por fuertes vientos este martes"
 front: false
 section: "Local"
-news_id: 182948
+redirect_from: /news/182948
 ---
 
 Ante la probabilidad de que se presenten fuertes vientos, que podrían alcanzar los 60 kilómetros por hora, para este martes en la ciudad de Chihuahua, la Coordinación Municipal de Protección Civil alerta a la comunidad a seguir las recomendaciones para evitar incidentes que puedan poner en riesgo la integridad física o provocar daños materiales.

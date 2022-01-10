@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Dirección de Rehabilitación informa en programa “Logros con Valor” que se entregaron 12 mil 264 apoyos funcionales a personas con discapacidad, un 36.7 por ciento más que en la pasada Administración."
 image: "/uploads/2021/images-apoyos_funcionales_7.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Más de 67 mil personas recibieron rehabilitación con acciones inclusivas del DIF Estatal"
 front: false
 section: "Local"
-news_id: 185659
+redirect_from: /news/185659
 ---
 
 En cinco años de la administración del gobernador Javier Corral Jurado, la Dirección de Rehabilitación del DIF Estatal otorgó 70 mil 155 consultas médicas de especialistas y 3 millones 678 mil 301 terapias de rehabilitación, se informó en el programa “Logros con Valor”.

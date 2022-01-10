@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante una entrevista en el programa 'Ventaneando', ambas famosas, que son medias hermanas, se despidieron de sus fans de una forma bastante polémica. "
 image: "/uploads/2021/images-el-episodio-se-volvio-viral.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No es ridículo -  Rocío Banquells regaña a Sylvia Pasquel por burlarse del lenguaje inclusivo"
 front: false
 section: "Espectáculos"
-news_id: 188341
+redirect_from: /news/188341
 ---
 
 Luego del video viral de 'compañere', en el que una persona no binaria se enojó durante una clase virtual porque no respetaron sus pronombres, el lenguaje inclusivo se ha vuelto un tema de discusión en México. Varios famosos han dado su opinión sobre esta forma de expresarse, por ejemplo Diego Luna, quien incluso lo implementó en la serie que hizo para Netflix, Todo va a estar bien, aunque Rocío Banquells y Sylvia Pasquel fueron quienes dieron la nota más reciente sobre este tema. 

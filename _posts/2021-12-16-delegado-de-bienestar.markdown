@@ -22,11 +22,11 @@ author: nil
 description: "Alrededor de 90 mil nuevos beneficiarios de esta edad se suman a este programa que alcanza a 280 mil chihuahuenses y especificó que en Cuauhtémoc son tres mil los de nueva incorporación"
 image: "/uploads/2021/images-JUAN_CARLOS_LOERA_2.jpg"
 video: "/uploads/2021/videos-BJ05_JUAN_LOERA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Delegado de bienestar entrega  tarjetas a personas de 65 años "
 front: false
 section: "Local"
-news_id: 190946
+redirect_from: /news/190946
 ---
 
 Juan Carlos Loera acudió a Cuauhtémoc a realizar la entrega de tarjetas para personas de 65 años, nuevos beneficiarios del Programa Pensión para el Bienestar de las Personas Adultas Mayores.

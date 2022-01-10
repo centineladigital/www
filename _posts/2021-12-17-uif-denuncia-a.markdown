@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El órgano interno de Hacienda asegura que con el salario de director de Pemex era imposible pagar tantos vuelos a EU, París, Londres, Múnich y otros destinos. "
 image: "/uploads/2021/images-tribunal-revoca-amparo-otorgado-emilio.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "UIF denuncia a Emilio Lozoya por 214 viajes al exterior en una década"
 front: false
 section: "Nacional"
-news_id: 190954
+redirect_from: /news/190954
 ---
 
 Emilio Lozoya Austin era un viajero internacional frecuente. En 10 años fue 85 veces a Estados Unidos, 42 a Alemania y realizó 40 vuelos privados. En total, en ese periodo hizo 214 viajes internacionales a distintos destinos como París, Londres, Ámsterdam, Múnich, Fráncfort, Madrid, Miami, Nueva York, Washington, Buenos Aires, entre muchos otros. 

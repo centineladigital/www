@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El CID ofrece las especialidades en Investigación Educativa y Planificación y Administración Educativa"
 image: "/uploads/2021/images-Concluye_el_CID-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cierra CID el 21 de enero registro de aspirantes a su maestría en Educación"
 front: false
 section: "Local"
-news_id: 191118
+redirect_from: /news/191118
 ---
 
 El Centro de Investigación y Docencia (CID), cierra el próximo 21 de enero de 2022 sus preinscripciones para las personas interesadas en cursar estudios de maestría en Educación en esta institución.

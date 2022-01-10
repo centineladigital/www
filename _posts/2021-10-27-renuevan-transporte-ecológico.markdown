@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se concentran más de 200 cámaras activas y permiten que DSPM pueda ingresar a las mismas"
 image: "/uploads/2021/images-unnamed_(12).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Renuevan Transporte Ecológico Bowí y DSPM video vigilancia conjunta de Ruta Troncal a Plataforma Escudo Chihuahua"
 front: false
 section: "Local"
-news_id: 189277
+redirect_from: /news/189277
 ---
 
 La Secretaría de Desarrollo Urbano y Ecología, a través del Transporte Ecológico Bowí (TEB), renovó el convenio de colaboración con la Dirección de Seguridad Pública Municipal (DSPM) para integrar el sistema de video-vigilancia de la Ruta Troncal a la Plataforma Escudo Chihuahua.

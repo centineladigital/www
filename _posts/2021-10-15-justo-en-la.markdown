@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esta canción forma parte del álbum conmemorativo por los 25 años de Pokemón en donde artistas como Post Malone, Mabel y Katy Perry participaron. "
 image: "/uploads/2021/images-balvin-estrena-ten-cuidado-anos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Justo en la infancia! J Balvin estrena canción para celebrar 25 años de Pokemón"
 front: false
 section: "Espectáculos"
-news_id: 188800
+redirect_from: /news/188800
 ---
 
 A pesar de que J Balvin ha estado en el ojo del huracán en estas últimas semanas, su carrera no se detiene y él sigue estrenando canciones que son un éxito seguro. 

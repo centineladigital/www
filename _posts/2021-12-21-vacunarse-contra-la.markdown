@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La mejor forma de enfrentar las enfermedades es aplicar medidas preventivas "
 image: "/uploads/2021/images-ISSSTE_04.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vacunarse contra la influenza reduce riesgos de complicaciones graves -  Pedro Zenteno"
 front: false
 section: "Local"
-news_id: 191066
+redirect_from: /news/191066
 ---
 
 El director general del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Issste), Pedro Zenteno Santaella, recomendó acudir a vacunarse contra la influenza para proteger la salud de grupos vulnerables durante el invierno.

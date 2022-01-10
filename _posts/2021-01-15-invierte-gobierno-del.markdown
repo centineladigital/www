@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Entrega el gobernador Javier Corral Jurado dos laboratorios para la Universidad Tecnológica de la Tarahumara y una cancha de usos múltiples en la escuela primaria Cuitláhuac"
 image: "/uploads/2021/images-DSC_9313.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Invierte Gobierno del Estado más de 473 mdp en obras en Guachochi"
 front: false
 section: "Local"
-news_id: 182173
+redirect_from: /news/182173
 ---
 
 Durante la entrega de los laboratorios de energías renovables y de enfermería en la Universidad Tecnológica de la Tarahumara (UTT), así como una cancha de usos múltiples en la escuela primaria Cuitláhuac, en Guachochi, el gobernador Javier Corral Jurado, destacó que en este municipio su administración ha desarrollado obras por más de 473 millones de pesos.

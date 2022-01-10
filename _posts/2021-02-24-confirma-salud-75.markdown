@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fallecen 47 personas en Chihuahua, 13 en Juárez, 6 en Delicias, 2 Parral y uno en cada uno de los municipios de Cuauhtémoc, NCG, Saucillo, Rosales, Ojinaga, Bocoyna y Buenaventura; además se registran  214 nuevos contagios"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Confirma Salud 75 decesos más por COVID-19 en la entidad"
 front: false
 section: "Local"
-news_id: 183125
+redirect_from: /news/183125
 ---
 
 La Secretaría de Salud de Chihuahua informó que en las últimas 24 horas se confirmaron 214 nuevos casos de COVID-19 y 75 defunciones, lo que representa un acumulado estatal de 53 mil 481 contagios y 5 mil 075 personas fallecidas en lo que va de la pandemia.

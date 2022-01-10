@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Recibe el canciller Marcelo Ebrard lote de 439 mil vacunas de Pfizer; destaca que programa de vacunación pone al país como el número de América Latina"
 image: "/uploads/2021/images-2510301.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Misión cumplida -  México inicia vacunación masiva’ -  Ebrard"
 front: false
 section: "Nacional"
-news_id: 182053
+redirect_from: /news/182053
 ---
 
 Con la llegada de 439 mil 725 vacunas de Pfizer/BioNTech contra Covid-19, el secretario de Relaciones Exteriores (SRE), Marcelo Ebrard, destacó que inició en México una vacunación masiva que pone al país como número 1 en América Latina.

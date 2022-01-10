@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal dará el curso en temas como alimentación, emergencias y movilidad"
 image: "/uploads/2021/images-unnamed_(9).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Tienes adultos mayores en casa? Este curso te interesa"
 front: false
 section: "Local"
-news_id: 190766
+redirect_from: /news/190766
 ---
 
 El Gobierno Municipal a través del Instituto Municipal de las Mujeres (IMM) te invita a capacitarte en el curso “Cuídame, atención al adulto mayor” impartido por el programa Superación en Acción, en colaboración con el ICATECH.

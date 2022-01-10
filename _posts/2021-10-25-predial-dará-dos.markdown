@@ -16,11 +16,11 @@ author: nil
 description: "Se adelantó al 1 de noviembre, para dar mas tiempo a los chihuahuenses "
 image: "/uploads/2021/images-descarga.jpg"
 video: "/uploads/2021/videos-BL02_AMANDA_CÓRDOBA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Predial dará dos meses para pagar recargos "
 front: false
 section: "Local"
-news_id: 189171
+redirect_from: /news/189171
 ---
 
 Amanda Córdoba, tesorera municipal  mencionó que, el operativo de recargos de 2021 se adelantó al 1 de noviembre en comparación a los años pasados que normalmente era en el mes de diciembre, para dar más tiempo a los ciudadanos a que paguen sus adeudos  de predial.

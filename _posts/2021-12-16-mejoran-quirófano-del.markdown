@@ -22,11 +22,11 @@ author: nil
 description: "Prevé beneficie  a cerca de 15 mil derechohabientes"
 image: "/uploads/2021/images-8be01545-516c-4443-be39-8b93321c0cf1.jpg"
 video: "/uploads/2021/videos-BJ04_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Mejoran quirófano del IMPE "
 front: false
 section: "Local"
-news_id: 190944
+redirect_from: /news/190944
 ---
 
 Marco Bonilla,  presidente municipal de Chihuahua presidió la reinauguración del quirófano que se ubica dentro de las instalaciones del Instituto Municipal de Pensiones (IMPE), el cual  se prevé beneficie  a cerca de 15 mil derechohabientes.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A pesar de la buena noticia, varios seguidores del grupo señalaron que está versión no es totalmente en vivo, pues los integrantes usaron 'playback'. "
 image: "/uploads/2021/images-el-grupo-sigue-sorprendiendo-a.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Sorpresa! RBD lanzará versión en vivo de la canción Siempre he estado aquí; cuándo sale"
 front: false
 section: "Espectáculos"
-news_id: 182667
+redirect_from: /news/182667
 ---
 
 El concierto virtual que Maite Perroni, Christian Chávez, Anahí y Christopher Von Uckermann ofrecieron el pasado 26 de diciembre y la nueva canción ("Siempre he estado ahí") que estrenaron un mes antes, en noviembre, no fueron las únicas sorpresas del regreso de RBD. 

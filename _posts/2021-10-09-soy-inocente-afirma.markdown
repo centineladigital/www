@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Todo aparece hecho trizas en mi cabeza, afirmó Schutz, que se lamentó de estar solo en el banquillo de los acusados; no sé nada al respecto, afirmó Schutz"
 image: "/uploads/2021/images-alemania_crimenes_naziws.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Soy inocente, afirma a la justicia el alemán de 100 años acusado de crímenes nazis"
 front: false
 section: "Internacional"
-news_id: 188560
+redirect_from: /news/188560
 ---
 
 Con un tono claro, pese a sus 100 años de edad, el alemán más viejo juzgado por crímenes nazis defendió este viernes su "inocencia" ante las acusaciones de estar implicado en los asesinatos cometidos en el campo de concentración de Sachsenhausen. 

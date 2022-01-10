@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El paquete de propuestas será enviado este viernes al Congreso del Estado, en torno a la figura de los Cejum, Ichmujeres y la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado"
 image: "/uploads/2021/images-mov_est_muj.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentará Gobernador iniciativas de reformas para fortalecer combate a violencia contra las mujeres"
 front: false
 section: "Local"
-news_id: 184052
+redirect_from: /news/184052
 ---
 
 El gobernador Javier Corral Jurado enviará al Congreso del Estado, un paquete de iniciativas de reformas para fortalecer las estrategias que promuevan una vida libre de violencia contra las mujeres, jóvenes y niñas, además de una atención integral con perspectiva de género.

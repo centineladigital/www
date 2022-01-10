@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las Águilas iniciaron la “limpia” de sus planteles para la próxima temporada "
 image: "/uploads/2021/images-america-liga-femenil-.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "América anuncia sus bajas para el Clausura 2022"
 front: false
 section: "Deportes"
-news_id: 191100
+redirect_from: /news/191100
 ---
 
 América ha comenzado a mover sus piezas de cara al próximo año. No sólo se dieron movimientos en el cuadro femenil, en el varonil también se anunció un préstamo.

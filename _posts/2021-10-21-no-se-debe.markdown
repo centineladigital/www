@@ -12,11 +12,11 @@ author: nil
 description: "Aún existen muchos retos por cumplir y una deuda histórica en materia de igualdad entre mujeres y hombres"
 image: "/uploads/2021/images-_hd0356f076bb2a2dfc0a40c853574a09a63a46c644.jpg"
 video: "/uploads/2021/videos-BJ04_ISELA_MARTINEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "No se debe reducir el presupuesto estatal para igualdad de genero"
 front: false
 section: "Local"
-news_id: 189050
+redirect_from: /news/189050
 ---
 
 La Diputada del Grupo Parlamentario del PAN Isela Martínez Díaz presentó una iniciativa con carácter de decreto para promover presupuestos progresivos que impulsen la perspectiva de género, mismos que tendrán la característica de no poderse reducir con respecto al presupuesto anterior.

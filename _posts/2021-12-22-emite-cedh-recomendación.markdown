@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto por la violación de los derechos humanos por parte de la policía."
 image: "/uploads/2021/images-TANI.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03_TANIA_SERRANO.mp4"
 alt: "Emite CEDH recomendación a la presidencia municipal de Meoquí"
 front: false
 section: "Local"
-news_id: 191124
+redirect_from: /news/191124
 ---
 
 La Comisión Estatal de los Derechos Humanos emitió una recomendación a la Presidencia Municipal de Meoquí, esto por violaciones a los derechos a la vida y a la integridad personal de cuatro jóvenes que fueron perseguidos por una supuesta infracción de vialidad.

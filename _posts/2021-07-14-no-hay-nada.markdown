@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente Andrés Manuel López Obrador informó que la próxima semana se prevé presentar el plan para reanudar las clases presenciales en el ciclo escolar 2021-2022."
 image: "/uploads/2021/images-amlo-proxima-semana-presentara-plan.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No hay nada que impida regreso a clases, pese a rebrote de covid -  AMLO"
 front: false
 section: "Nacional"
-news_id: 185640
+redirect_from: /news/185640
 ---
 
 En su conferencia mañanera, López Obrador dijo que se necesita reabrir las escuelas, debido a que ya han estado abandonadas por mucho tiempo y varias han sido vandalizadas.

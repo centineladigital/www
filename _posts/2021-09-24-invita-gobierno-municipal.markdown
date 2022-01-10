@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Actualmente existen más de 300 en la ciudad   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno Municipal a ser parte de los comités de vecinos"
 front: false
 section: "Local"
-news_id: 188028
+redirect_from: /news/188028
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, invita a la ciudadanía conformar comités de vecinos en las colonias que aún no cuentan con uno.

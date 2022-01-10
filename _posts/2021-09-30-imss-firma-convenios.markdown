@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Seguro Social y las plataformas Beat, DiDi, Rappi y Uber promoverán que usuarios conductores y usuarios repartidores participen en la Prueba piloto para la incorporación de personas trabajadoras independientes."
 image: "/uploads/2021/images-Foto_432-4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS firma convenios con plataformas de servicios digitales para promover la incorporación voluntaria de personas trabajadoras independientes"
 front: false
 section: "Local"
-news_id: 188226
+redirect_from: /news/188226
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) firmó con las plataformas digitales de servicios de transporte de pasajeros y distribución de alimentos Beat, DiDi, Rappi y Uber convenios para difundir y promover la participación de usuarios conductores y de usuarios repartidores en la Prueba piloto para la incorporación voluntaria al Régimen Obligatorio del Seguro Social de personas trabajadoras independientes.

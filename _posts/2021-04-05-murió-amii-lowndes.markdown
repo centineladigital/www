@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De acuerdo con los medios internacionales y especializados en celebridades, la joven actriz tuvo un colapso en el jardín de sus padres."
 image: "/uploads/2021/images-murio-amii-lowndes-actriz-skins.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Amii Lowndes, actriz de 'Dr. Who'; sus padres la encontraron sin vida en el patio de su casa"
 front: false
 section: "Espectáculos"
-news_id: 183693
+redirect_from: /news/183693
 ---
 
 Amii Lowndes, la actriz de series como Dr. Who y Skins, murió ayer a los 29 años, así lo informaron medios internacionales. ¿Qué ocurrió? La artista presuntamente sufrió dos ataques epilépticos en el patio de la casa de sus padres, lugar en el que fue encontrada sin vida. De acuerdo con los medios internacionales y especializados en celebridades, la joven actriz tuvo un colapso en el jardín de sus padres. Las convulsiones fueron provocadas por una enfermedad no diagnosticada, por lo que no pudieron hacer nada para reanimarla. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: " El concurso reunió a los mejores profesionales del vino, para catar una muestra de más de 500 etiquetas y 92 espirituosos, y otorgarles distintivos de calidad; los ganadores se publicarán el próximo 5 de marzo"
 image: "/uploads/2021/images-Final_México_Selections_by_CMB_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Finaliza con éxito el México Selection luego de 5 días de trabajos"
 front: false
 section: "Local"
-news_id: 183199
+redirect_from: /news/183199
 ---
 
 Luego de cinco días de catas a ciegas, recorridos por los viñedos chihuahuenses y ponencias, el certamen México Selection By Concours Mondial de Bruxelles, con sede en la capital del estado, llegó a su fin con el pase de estafeta a Guanajuato para la siguiente emisión.

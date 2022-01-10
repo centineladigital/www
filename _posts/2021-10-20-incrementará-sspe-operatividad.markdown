@@ -10,11 +10,11 @@ author: nil
 description: "Esto tras explosión de granada en una vivienda del municipio."
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-MW01_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Incrementará SSPE operatividad en Cuauhtémoc"
 front: false
 section: "Local"
-news_id: 188984
+redirect_from: /news/188984
 ---
 
 Tras registrarse nuevamente hechos violentos en el municipio de Cuauhtémoc, el titular de la Secretaría de Seguridad Pública señaló que se incrementará la operatividad de la dependencia en el municipio. Ya que la dependencia no bajará la guardia ante estas acciones, esto ante los ataques como los perpetrados el lunes con explosivos casero.

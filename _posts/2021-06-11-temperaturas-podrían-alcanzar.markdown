@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Emite Protección Civil Municipal recomendaciones para evitar problemas de salud por “golpe de calor”"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Temperaturas podrían alcanzar los 40 grados este fin de semana"
 front: false
 section: "Local"
-news_id: 184989
+redirect_from: /news/184989
 ---
 
 La Coordinación Municipal de Protección Civil, dio a conocer que este será un fin de semana caluroso en la capital del estado, pudiendo llegar el termómetro a los 40 grados Celsius, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional de CONAGUA, por ello es importante que los chihuahuenses tomen en cuenta las recomendaciones abajo enlistadas.

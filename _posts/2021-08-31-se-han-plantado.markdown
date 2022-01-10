@@ -12,11 +12,11 @@ author: nil
 description: "Especialmente en parques, plazas, camellones entre otros"
 image: "/uploads/2021/images-FEDERICO_MURUATO.jpg"
 video: "/uploads/2021/videos-BM02_FEDERICO_MJURUATO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se han plantado cerca de 3 mil 500 árboles a lo largo del estado. "
 front: false
 section: "Local"
-news_id: 187301
+redirect_from: /news/187301
 ---
 
 El director de mantenimiento urbano del estado de Chihuahua Federico Muruato Rocha expreso que en el estado de Chihuahua se han plantado cerca de 3500 árboles a lo largo de toda la ciudad especialmente en parques, plazas, camellones entre otros.

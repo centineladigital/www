@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Instituto Chihuahuense de la Juventud impartirá: La Red de Mujeres en la Ciencia y “CV de Alto Impacto” "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-29_at_13.35.34.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invitan a juventudes a capacitación virtual para desarrollo profesional  y empoderamiento de las mujeres"
 front: false
 section: "Local"
-news_id: 188191
+redirect_from: /news/188191
 ---
 
 En el mes de octubre, el Gobierno del Estado, a través del Instituto Chihuahuense de la Juventud (Ichijuv), llevará a cabo dos capacitaciones de manera virtual, enfocadas en el desarrollo profesional de las juventudes y el empoderamiento de las mujeres.

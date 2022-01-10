@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Christopher Nola ha dirigido películas que han llamado la atención gracias a los temas que ha tocado. Hacemos repaso por algunos de sus filmes. "
 image: "/uploads/2021/images-director-nominado-ocasiones-premios-oscar_19_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Ya las viste todas? Éstas son las películas más icónicas que ha dirigido Christopher Nolan"
 front: false
 section: "Espectáculos"
-news_id: 186149
+redirect_from: /news/186149
 ---
 
 En el séptimo arte hay muchas películas que han logrado gran éxito, pero sin duda, además del casting con el que cuentan su triunfo también se debe gracias a la visión de quien la dirige. En los últimos años Christopher Nolan ha consolidado su carrera como un gran director que ha dirigido filmes que han logrado llamar la atención. 

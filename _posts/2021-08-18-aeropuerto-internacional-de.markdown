@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Nueva orden judicial con fecha del 20 de diciembre del 2020 impide que se concluya al 100% e inicie operaciones, informó la Secretaría de Innovación y Desarrollo Económico"
 image: "/uploads/2021/images-_DSC8934.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aeropuerto internacional de Creel al 96% en obra física y 98% de equipamiento"
 front: false
 section: "Local"
-news_id: 186845
+redirect_from: /news/186845
 ---
 
 El titular de la Secretaría de Innovación y Desarrollo Económico (SIDE), Antonio Fernández Domínguez, dio a conocer que el Aeropuerto Internacional de Creel, en Bocoyna, tiene un avance del 98 por ciento (%) en equipamiento y 96% en obra física, así como un 80% en el modelo operativo que incluye permisos y licencias que se necesitan para su actividad.

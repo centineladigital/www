@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dicho empréstito se realiza a 12 meses"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Contrata Gobierno del Estado crédito por mil millones de pesos, con la TIIE del + 0.98%"
 front: false
 section: "Local"
-news_id: 188083
+redirect_from: /news/188083
 ---
 
 El Gobierno del Estado, encabezado por Maru Campos Galván, logró concretar un nuevo crédito a corto plazo con una Tasa de Interés Interbancaria de Equilibrio (TIIE) del + 0.98%, a 12 meses y sin algún otro tipo de comisión; lo cual implica una mejora sustancial respecto a los obtenidos anteriormente.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Santiago Solari tiene 15 de Liga sin perder en el Estadio Azteca a donde esta noche vuelve Miguel Herrera, quien junto a los Tigres que dirige, buscará cortar la racha"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "América vs Tigres, un partido cargado de morbo"
 front: false
 section: "Deportes"
-news_id: 189113
+redirect_from: /news/189113
 ---
 
 Desde que llegó al banquillo del América, Santiago Solari no sabe lo que es perder como local en la Liga MX. Ha hecho del Estadio Azteca una fortaleza, misma que correrá peligro en las próximas semanas; hoy contra los Tigres.

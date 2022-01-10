@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Una mujer captó y se burló de Laura León comprando ropa en oferta en una tienda en Estados Unidos, ante esto, los fans de La Tesorito la defendieron. "
 image: "/uploads/2021/images-laura-leon-criticada-mujer-vio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Aprovechó las ofertas! Laura León es criticada por comprar ropa en rebaja; fans la defienden"
 front: false
 section: "Espectáculos"
-news_id: 188207
+redirect_from: /news/188207
 ---
 
 A lo largo de los años, Laura León se ha ganado el cariño del público gracias a su simpatía, además que muchos la ubican por su protagónico en la telenovela El Premio Mayor y su particular forma de cantar. La Tesorito, como también es conocida, recientemente fue captada en Estados Unidos comprando ropa en rebaja por una mujer que se burló de la cantante. A través de un video retomado por Chica Pikosa, se observa a Laura León en una de las cajas de una tienda de Estados Unidos llamada Ross, en donde se encontraba comprando ropa y zapatos que se encontraban en oferta. 

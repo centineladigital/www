@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los proyectos incluyen desarrollo de procesos de importación o exportación, distribución, diseños de empaque y embalaje de una empresa real"
 image: "/uploads/2021/images-IMG_7859.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estudiantes de la Universidad Tecnológica de Chihuahua Sur presentan proyectos integradores de Logística"
 front: false
 section: "Local"
-news_id: 190478
+redirect_from: /news/190478
 ---
 
 Como proyecto final, estudiantes del décimo cuatrimestre de la carrera de Logística de la Universidad Tecnológica de Chihuahua Sur (UTCH Sur) presentaron trabajos sobre la implementación de estrategias para mejorar la cadena de suministros de una empresa real ya establecida.

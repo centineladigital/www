@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-AL05_ULISES_GARCIA.mp3"
 alt: "Maru Campos será un rival fácil de vencer -  Ulises García "
 front: false
 section: "Local"
-news_id: 182432
+redirect_from: /news/182432
 ---
 
 El diputado federal por Morena, Ulises García Soto, aseguró que la candidata del Partido Acción Nacional (PAN) a la gubernatura por el estado de Chihuahua, Maru Campos Galván, es un rival fácil de vencer.

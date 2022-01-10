@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal intervino en tres espacios de recreación"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Embellecen parques icónicos de la capital con plantación de 88 árboles"
 front: false
 section: "Local"
-news_id: 190719
+redirect_from: /news/190719
 ---
 
 El Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, plantó en dos semanas un total de 88 árboles de distintas especies, en tres parques icónicos de Chihuahua Capital.

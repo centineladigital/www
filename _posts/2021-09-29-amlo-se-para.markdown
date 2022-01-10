@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente aseguró que no está en contra de los empresarios, pero si de la riqueza mal habida y la corrupción. "
 image: "/uploads/2021/images-amlo-corrupcion-principal-problema-mexico_0_12_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO se para en un solo pie para afirmar que corrupción es el mayor problema de México"
 front: false
 section: "Nacional"
-news_id: 188176
+redirect_from: /news/188176
 ---
 
 El presidente Andrés Manuel López Obrador decidió pararse en un solo pie para denunciar que uno de los principales problemas de México es la corrupción. 

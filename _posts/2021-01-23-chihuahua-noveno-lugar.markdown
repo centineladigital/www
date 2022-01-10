@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La entidad con más fallecimientos a causa del virus es la Ciudad de México, con 26 mil 152 casos"
 image: "/uploads/2021/images-9_edo_con_mas_muertes.jfif"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chihuahua, noveno lugar con muertes por Covid-19"
 front: false
 section: "Local"
-news_id: 182385
+redirect_from: /news/182385
 ---
 
 Chihuahua es el noveno estado con más muertes por Covid-19 a nivel nacional, pues hasta la fecha acumula 4 mil 570 decesos, de acuerdo con el mapa de defunciones de la Secretaría de Salud federal.

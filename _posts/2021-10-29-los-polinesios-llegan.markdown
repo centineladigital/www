@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El próximo 19 de noviembre se presentarán en el Auditorio Nacional presentando lo mejor de sus canciones. "
 image: "/uploads/2021/images-platica-polinesia-abrira-conciertos-auditorio_0_137_1000_622.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Los Polinesios llegan con 'Jump' al Auditorio Nacional"
 front: false
 section: "Espectáculos"
-news_id: 189365
+redirect_from: /news/189365
 ---
 
 Los hermanos youtubers Rafa, Karen y Lesslie presentan un show distinto a lo que han hecho antes con su tour titulado Jump en el que prometen música, colores, baile y además presentarán su nueva faceta como artistas y creativos de contenido, todo esto para los 25 millones de suscriptores que tienen en su canal oficial de Youtube y los más de 9 millones que mantienen en su canal Plática Polinesia. El próximo 19 de noviembre se presentarán en el Auditorio Nacional presentando lo mejor de sus canciones. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te contamos cómo se vivió el momento de la gran final en Las Estrellas Bailan en Hoy de Televisa. ¿En qué lugar quedaron las parejas? ¿Fue justa la final? Así se vivieron los momentos del reality show."
 image: "/uploads/2021/images-mariana-echeverria-lambda-garcia-ganan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Gran final! Mariana Echeverría y Lamba García ganan 'Las Estrellas bailan en Hoy'; así se vivió el show"
 front: false
 section: "Espectáculos"
-news_id: 185251
+redirect_from: /news/185251
 ---
 
 Las estrellas bailan en Hoy, sección que repuntó la audiencia en el programa Hoy de Televisa, llegó a su fin. Después de emociones encontradas, la pareja coronada como el primer lugar fue Mariana Echeverria y Lambda García, dejando en segundo lugar a Ximena Córdoba con Raúl Coronado. ¿Fue justo? Te decimos cómo se vivió esta gran final. ¿Qué bailaron? ¿Cuáles fueron las calificaciones?  

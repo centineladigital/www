@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La CEPC prevé que sean (°C): Chihuahua 20, Juárez 16, Janos 19, Madera 17, Temósachic 18, Cuauhtémoc 17, Ojinaga 21, Delicias 22, Camargo 23, Jiménez 23, Parral 20, El Vergel, Balleza 17"
 image: "/uploads/2021/images-descarga.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronostican temperaturas más altas para este lunes por la tarde"
 front: false
 section: "Local"
-news_id: 183083
+redirect_from: /news/183083
 ---
 
 Para la tarde de este lunes 22 de febrero se pronostica un clima templado con una temperatura de 20°C en Chihuahua y 16° en Ciudad Juárez, informó la Coordinación Estatal de Protección Civil (CEPC).

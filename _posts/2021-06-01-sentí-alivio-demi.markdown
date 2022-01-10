@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante señaló que el patriarcado le impedía adoptar su identidad de género no binaria; dijo sentirse más auténtica y fiel a la persona que sé que soy. "
 image: "/uploads/2021/images-demi-lovato-habla-de-su_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sentí alivio -  Demi Lovato explica cómo descubrió que es una persona no binaria"
 front: false
 section: "Espectáculos"
-news_id: 184769
+redirect_from: /news/184769
 ---
 
 Demi Lovato dejó atrás sus propios fantasmas para tomar las riendas de su vida, así lo relató en su documental Dancing With The Devil, título también de su nuevo disco, cuyas canciones retratan su lucha contra sus adicciones, mientras habla del "arte de empezar de nuevo". En ese camino la artista señala que pudo conocerse a sí misma y descubrió que se identifica como una persona del género no binario.  

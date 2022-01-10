@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La intervención estuvo a cargo de especialistas de IMSS de Ciudad Juárez y de un equipo multidisciplinario originario de la Ciudad de México y de Toluca"
 image: "/uploads/2021/images-Foto_346-3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Procura IMSS Chihuahua órganos y tejidos de donador joven, brinda esperanza de vida a decenas de personas"
 front: false
 section: "Local"
-news_id: 186439
+redirect_from: /news/186439
 ---
 
 Especialistas del Instituto Mexicano del Seguro Social (IMSS) del Hospital General de Zona (HGZ) No. 6 en Ciudad Juárez, Chihuahua, realizaron el miércoles pasado la tercera procuración de órganos en la entidad en lo que va de 2021, después de que se reactivara la actividad habitual del Programa de Donación y Trasplantes debido a la COVID-19. 

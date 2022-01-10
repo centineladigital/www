@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Al menos treinta animales domésticos perdieron la vida ayer luego de que un individuo los alimentara con comida envenenada"
 image: "/uploads/2021/images-animales_muertos_4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Convocan a marcha por muerte de 30 mascotas en Los Arcos"
 front: false
 section: "Local"
-news_id: 184373
+redirect_from: /news/184373
 ---
 
 En redes sociales, se encuentran convocando a la sociedad en general a iniciar una marcha por la justicia de 30 animales que fueron envenenados en la colonia Los Arcos, bajo el nombre de "nos faltan 30" con la imagen de una mascota y demás detalles de la movilización.

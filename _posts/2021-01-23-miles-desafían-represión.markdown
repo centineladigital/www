@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Miles de personas salen a las calles de las principales ciudades de Rusia para mostrar su apoyo al opositor encarcelado Alexei Navalni, pese a la prohibición de manifestarse"
 image: "/uploads/2021/images-2516987.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Miles desafían represión en Rusia y marchan en apoyo a opositor Navalni"
 front: false
 section: "Internacional"
-news_id: 182387
+redirect_from: /news/182387
 ---
 
 Varios miles de personas salieron a las calles de Moscú este sábado para mostrar su apoyo al opositor encarcelado Alexei Navalni, en una jornada de protestas que se extendió por todo el país, pese a la prohibición de manifestarse lanzada por las autoridades, que llevaron a cabo más de mil arrestos.

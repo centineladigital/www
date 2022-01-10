@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dos peritajes psicológicos realizados a Alexa, presunta víctima de abuso sexual por parte de su padre, Héctor Parra, arrojaron resultados que podrían dejar en libertad al actor. Te contamos lo que arrojaron. ¿Es inocente? "
 image: "/uploads/2021/images-filtran-peritajes-alexa-hija-ginny.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Filtran peritaje del caso Héctor Parra sobre abuso contra su hija Alexa; esto revela"
 front: false
 section: "Espectáculos"
-news_id: 185118
+redirect_from: /news/185118
 ---
 
 Cada vez hay más víctimas de abuso sexual que se atreven a romper el silencio. En la farándula, también es el caso. Tal es el caso de Alexa, hija de Ginny Hoffman, quien acusó a su padre Héctor Parra de este delito, logrando así que el intérprete fuera detenido el pasado 15 de junio. Ante el panorama, han salido a flote audios en donde se presume alienación parental de parte de Ginny hacia su hija e incluso tráfico de influencias por parte de Sergio Mayer, quien apoyó a la familia. Con este panorama se filtraron dos análisis de peritaje por el caso de abuso sexual. ¿Héctor Parra es inocente? ¿Podrá salir de prisión?   

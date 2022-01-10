@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En 2022, el gobierno federal priorizará la colocación en el mercado local y continuará con el desarrollo del mercado de instrumentos vinculados con los criterios Ambientales, Sociales y de Gobernanza. "
 image: "/uploads/2021/images-tipo-de-cambio-peso-dolar-64.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hacienda anuncia plan de inversión anual 2022; necesidades financieras ascienden a 2.5 bdp"
 front: false
 section: "Nacional"
-news_id: 191024
+redirect_from: /news/191024
 ---
 
 La Secretaría de Hacienda y Crédito Público (SHCP) dio a conocer su plan de inversión anual (PAF) para 2022, el cual incluye las necesidades de financiamiento asociadas al monto de recursos que el gobierno federal requiere para cubrir su déficit fiscal. 

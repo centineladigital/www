@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se han identificado 2.5 millones de trabajadores que han migrado de una empresa prestadora de servicios de personal a una empresa real, con un incremento promedio del 12% en el salario base de cotización."
 image: "/uploads/2021/images-Foto_347-1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cuenta el IMSS con esquemas que facilitan a los patrones cumplir con la reforma en materia de subcontratación de personal"
 front: false
 section: "Local"
-news_id: 186459
+redirect_from: /news/186459
 ---
 
 Con el objetivo de facilitar al sector empresarial el cumplimento de las obligaciones en materia de sustitución patronal, en términos del Artículo Séptimo Transitorio de la Reforma en materia de subcontratación laboral, el Instituto Mexicano del Seguro Social (IMSS) habilitó un esquema simplificado que reduce a más de la mitad el número de requisitos para cumplir con esta obligación.

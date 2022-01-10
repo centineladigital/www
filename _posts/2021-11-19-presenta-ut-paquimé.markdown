@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Las actividades de esta octava edición se llevarán a cabo de manera virtual, con alcance nacional, y es organizado por la carrera de Desarrollo de Negocios área Mercadotecnia. "
 image: "/uploads/2021/images-UTP2.png"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AUDIO-RUEDA_DE_PRENSA.mp3"
 alt: "Presenta UT Paquimé actividades del VIII Encuentro de Negocios, Congreso Internacional"
 front: false
 section: "Local"
-news_id: 190009
+redirect_from: /news/190009
 ---
 
 La Universidad Tecnológica de Paquimé (UT Paquimé) dio a conocer que del 25 al 27 de noviembre llevará a cabo el “VII Encuentro de Negocios, Congreso Internacional”, el cual se llevará a cabo de manera virtual y se tendrá la participación de conferencistas de talla internacional.

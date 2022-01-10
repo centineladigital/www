@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Oficina de Estadísticas Nacionales dijo en su encuesta semanal de infecciones que las tasas de transmisión han caído en las cuatro naciones que componen Reino Unido"
 image: "/uploads/2021/images-2532331.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Bajan infecciones de coronavirus en Reino Unido"
 front: false
 section: "Internacional"
-news_id: 183034
+redirect_from: /news/183034
 ---
 
 Las infecciones nuevas por coronavirus en Reino Unido han disminuido drásticamente, según una encuesta importante revelada apenas unos días antes de que el primer ministro Boris Johnson anuncie un plan para aliviar las restricciones en las próximas semanas y meses.

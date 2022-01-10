@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El PLD, el partido hegemónico de Japón, ya busca nuevo candidato que eventualmente será el próximo primer ministro del país; Yoshihide Suga ha bajado en su popularidad por el manejo de la pandemia y los Juegos Olímpicos. "
 image: "/uploads/2021/images-yoshihide-suga-anuncio-dejara-cargo_0_45_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Yoshihide Suga anuncia que dejará su cargo como primer ministro de Japón"
 front: false
 section: "Internacional"
-news_id: 187431
+redirect_from: /news/187431
 ---
 
 El primer ministro japonés, Yoshihide Suga, anunció este viernes que no será candidato para liderar al Partido Liberal Demócrata (PLD)  en las elecciones internas previstas a finales de septiembre, lo que implica que dejará posteriormente también el cargo del ejecutivo, una decisión que ha sorprendido ya que llegó al poder hace tan solo un año.

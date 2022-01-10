@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Nuestra información inicial sugiere que el ataque fue llevado a cabo por combatientes del EI, señaló una fuente talibán"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Al menos 25 muertos y 40 heridos tras ataque a hospital militar en Kabul"
 front: false
 section: "Internacional"
-news_id: 189459
+redirect_from: /news/189459
 ---
 
 Kabul.- Las autoridades afganas elevaron a 25 los muertos y 40 los heridos en un ataque suicida con explosivos seguido de un tiroteo este martes en un hospital militar de Kabul, un incidente que los talibanes dieron por finalizado y que atribuyeron al grupo yihadista Estado Islámico (EI).

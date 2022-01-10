@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Atenderán Servicios Educativos del Estado e Instituto Chihuahuense del Deporte a alumnas y alumnos, mediante programas extra escolares   "
 image: "/uploads/2021/images-Estrategias_contra_rezago_escolar-1_.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Desarrollará Estado Proyecto Interdisciplinario de Educación Primaria  para abatir rezago educativo"
 front: false
 section: "Local"
-news_id: 190717
+redirect_from: /news/190717
 ---
 
 La Secretaría de Educación y Deporte (SEyD), a través de Servicios Educativos del Estado de Chihuahua (SEECH) y en coordinación con el Instituto Chihuahuense del Deporte y Cultura Física, implementará a partir de febrero del próximo año, el Proyecto Interdisciplinario de Educación Primaria, a fin de abatir el rezago escolar en escuelas primarias.

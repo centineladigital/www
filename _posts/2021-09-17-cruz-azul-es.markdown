@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Cruz Azul fue goleado 1-4, 1-5 marcador global, por el Monterrey y queda eliminado en la semifinal"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cruz Azul es ridiculizado por Monterrey en la semifinal de la Concachampions"
 front: false
 section: "Deportes"
-news_id: 187809
+redirect_from: /news/187809
 ---
 
 Cruz Azul quedó eliminado de la Concachampions, con humillación incluida, luego de que los Rayados de Monterrey los vencieran categóricamente 1-4 (1-5 global) para avanzar a la gran final ante el América. Un partido lleno de polémicas y donde el grito homofóbico se hizo presente en el Estadio Azteca, a tal caso que provocó la suspensión del encuentro por varios minutos. 

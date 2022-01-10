@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los requisitos para acceder a la vacunación son: resumen clínico o documentación expedida por el médico tratante especialista y el registro de vacunación inscrito en la página www.mivacuna.salud.gob.mx."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aplica Secretaría de Salud vacuna COVID-19 a adolescentes con comorbilidades en seis sedes en el estado   "
 front: false
 section: "Local"
-news_id: 188977
+redirect_from: /news/188977
 ---
 
 La Secretaría de Salud del Estado de Chihuahua aplicó de forma simultánea la vacuna COVID-19 dirigida a adolescentes de 12 a 17 años con comorbilidades en las seis sedes habilitadas en la entidad.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se llevará a cabo hasta el próximo viernes 23 de julio, en un horario de 8:00 a 18:00 horas  "
 image: "/uploads/2021/images-Foto_3453-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS Chihuahua llama a los jóvenes de 25 años y más a vacunarse contra COVID-19"
 front: false
 section: "Local"
-news_id: 185923
+redirect_from: /news/185923
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua llama a los jóvenes mayores de 25 años aplicarse la vacuna contra el COVID-19, cuya jornada inició este miércoles y concluirá el próximo viernes 23 de julio.

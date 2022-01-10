@@ -14,11 +14,11 @@ author: nil
 description: "La obra del próximo relleno sanitario en el municipio de Chihuahua debe ser sustentable y sostenible"
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BV04_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "El relleno sanitario debe ser una obra sustentable para Chihuahua "
 front: false
 section: "Local"
-news_id: 188794
+redirect_from: /news/188794
 ---
 
 El presidente Marco Bonilla, declaró que, la obra del próximo relleno sanitario en el municipio de Chihuahua debe ser sustentable y sostenible ya que se estará trabajando en la separación de residuos.

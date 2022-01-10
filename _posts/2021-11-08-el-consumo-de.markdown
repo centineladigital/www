@@ -16,11 +16,11 @@ author: nil
 description: "Se está trabajando en patrullajes conjunto  con la Guardia Nacional, Policía Estatal, Fiscalía General del Estado y la Policía Municipal de Chihuahua"
 image: "/uploads/2021/images-drogas.jpg"
 video: "/uploads/2021/videos-BL01_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "El consumo de drogas será combatido por DARE "
 front: false
 section: "Local"
-news_id: 189664
+redirect_from: /news/189664
 ---
 
 En relación con el consumo de drogas entre los chihuahuenses, el gobierno municipal va a trabajar de la mano con el Drugs Abuse Resistence Education (DARE) para dar pláticas en las escuelas sobre el consumo de sustancias adictivas, así lo afirmó el alcalde Marco Bonilla.

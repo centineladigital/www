@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor señaló que continúa tomando terapia tras salir de la clínica de rehabilitación del ex boxeador mexicano. "
 image: "/uploads/2021/images-rafael-amaya-relacion-julio-cesar_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rafael Amaya habla de su rehabilitación; revela cómo es su relación con Julio César Chávez"
 front: false
 section: "Espectáculos"
-news_id: 184397
+redirect_from: /news/184397
 ---
 
 Rafael Amaya reapareció en los escenarios luego de haber sido internado durante 2020 en una de las clínicas de rehabilitación de Julio César Chávez por sus problemas con el alcohol y las drogas. El actor, conocido por protagonizar El señor de los cielos, habló de lo complicado que ha sido el proceso de recuperación en una entrevista para el programa Suelta la Sopa. Ahora que ya está recuperado, Rafael Amaya ha retomado su carrera profesional en los últimos meses. El actor se presentó en un evento público junto al cantante Roberto Tapia para hablar de su show Los Compadres; el famoso señaló que su familia y sus amigos juega un papel clave en su rehabilitación.  

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Debido a que aún no terminan los exámenes extraordinarios."
 image: "/uploads/2021/images-TERE_OTRUÑO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM03_TERESA_ORTUÑO.mp3"
 alt: "Aún no se define deserción en COBACH"
 front: false
 section: "Local"
-news_id: 182265
+redirect_from: /news/182265
 ---
 
 Debido a que durante la presente semana se llevaron a cabo los exámenes extraordinarios, el Colegio de Bachilleres a ún no conoce la cifra de alumnos que desertaron dentro del semestre, señaló la Directora General de esta insitución Teresa Ortuño Gurza.

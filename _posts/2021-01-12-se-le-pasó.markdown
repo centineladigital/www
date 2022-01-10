@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de redes sociales, Gaby Spanic publicó una foto en la que lució un rostro muy diferente a causa del uso excesivo de filtros."
 image: "/uploads/2021/images-paso-mano-gabriela-spanic-filtros.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Se le pasó la mano? Critican a Gaby Spanic por aparecer con rostro muy 'retocado' en foto"
 front: false
 section: "Espectáculos"
-news_id: 182084
+redirect_from: /news/182084
 ---
 
 Gabriela Spanic causó controversia en redes sociales por una fotografía que compartió con los internautas en donde presuntamente se le pasó la mano en la edición. ¿Cuál fue el error? Resulta que de acuerdo a lo señalado por varios internautas,  la actriz que protagonizó La Ursurpadora usó muchos filtros en su imagen, pues se veía mucho más blanca y con el rostro acartonado. ¿En realidad usó filtros? ¿Se le pasó la mano a Gaby Spanic? Fue a través de Instagram en donde Gaby Spanic compartió una fotografía en donde apareció sin arrugas, nariz afilada, un aspecto casi perfecto a diferencia de otras imágenes naturales.  

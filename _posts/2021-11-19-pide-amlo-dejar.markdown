@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Afirma que esa mano de obra es clave para afrontar el avance de China; Ebrard confirma que Biden ofreció apoyo al programa Sembrando Oportunidades "
 image: "/uploads/2021/images-amigos-joe-biden-andres-manuel_0_8_600_372.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pide AMLO dejar mitos y ya no rechazar a migrantes"
 front: false
 section: "Nacional"
-news_id: 189983
+redirect_from: /news/189983
 ---
 
 El presidente Andrés Manuel López Obrador pidió a sus homólogos de Estados Unidos, Joe Biden, y de Canadá, Justin Trudeau, hacer a un lado “mitos y prejuicios” y dejar de rechazar a migrantes, pues su mano de obra es clave para enfrentar a China. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista, el actor Kal Penn admitió tener una relación homosexual desde hace 11 años con un hombre que conoció en Washington durante su trabajo en la Casa Blanca. "
 image: "/uploads/2021/images-kal-penn-comenzo-casa-blanca.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Kal Penn, actor de 'Dr. House' y 'How I Met Your Mother', revela relación gay de 11 años"
 front: false
 section: "Espectáculos"
-news_id: 189439
+redirect_from: /news/189439
 ---
 
 Kal Penn admitió tener una relación homosexual desde hace once años. El actor recordado por sus apariciones en series de televisión estadunidenses como Dr House, How I Met You Mother o 24 hizo pública su orientación sexual en el marco del estreno de su libro, You Can't Be Serious. 

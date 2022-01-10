@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el triunfante regreso del director James Gunn y la presentación de nuevos personajes, Guardianes de la Galaxia Vol. 3 comienza a grabar sus primeras escenas. "
 image: "/uploads/2021/images-cast-guardianes-galaxia-vol-foto.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Comenzó el rodaje de 'Guardianes de la Galaxia 3'; así lo anunció James Gunn"
 front: false
 section: "Espectáculos"
-news_id: 189690
+redirect_from: /news/189690
 ---
 
 Guardianes de la Galaxia Vol. 3 ha sido una de las películas más controversiales del MCU. Desde del despido de James Gunn, pasando por una campaña virtual por parte de los devotos fanáticos y actores de la industria, en donde se pedía el regreso del director a la saga. Hasta llegar, a pesar de todos los retrasos y cambios que la pandemia y la agenda de Gunn provocaron, parece ser que hubo una luz al final del túnel, ya que por fin todo avanzará correctamente. Dicho esto, el día de hoy se ha confirmado que ya comenzaron las grabaciones de la cinta. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La sesión fotográfica fue recreada en la segunda temporada de 'Luis Miguel, la serie'; aquí te contamos la historia detrás de esta publicación. "
 image: "/uploads/2021/images-diego-boneta-luis-miguel-serie_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así fue la portada original de 'Eres' en la que apareció Luis Miguel con misteriosa mujer"
 front: false
 section: "Espectáculos"
-news_id: 184015
+redirect_from: /news/184015
 ---
 
 Con el estreno de la segunda temporada de Luis Miguel, la serie salieron a la luz nuevos misterios. Sin duda, el tema que acaparó la atención fue el secreto de Las Matas y la muerte de Marcela Basteri. Pero, hubo otros detalles que expusieron la importancia del cantante tanto en la escena musical como en la industria del entretenimiento, uno de ellos es la portada de Eres en la que apareció en 1992.  "Y tú... ¿quién eres?", era el logo de esta popular revista cuyo primer número salió a la venta en 1988 y contó con la participación de Luis Miguel y Sasha Sokol. Al año siguiente, El Sol volvió a la portada de Eres, acompañado de Thalía; así fue como el cantante se convirtió en una de las celebridades más frecuentes en posar para la publicación.  

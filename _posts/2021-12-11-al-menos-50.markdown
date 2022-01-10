@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Al menos 32 tornados han tocado tierra en las últimas horas en múltiples estados del país, incluidos Tennessee, Illinois y Arkansas, donde las autoridades también han reportado víctimas mortales"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Al menos 50 personas mueren por impacto de varios tornados en EU"
 front: false
 section: "Internacional"
-news_id: 190744
+redirect_from: /news/190744
 ---
 
 Decenas de personas han muerto en la noche de este viernes a consecuencia del impacto de varios tornados en la región medio occidental de Estados Unidos, donde el más afectado fue el estado de Kentucky con al menos 50 fallecidos, informó este sábado el gobernador, Andy Beshear.

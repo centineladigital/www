@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Alejandra Fausto señaló que México realiza alianzas internacionales para que más piezas regresen al país y sean conocidas por las culturas que las crearon. "
 image: "/uploads/2021/images-gabinete-del-presidente-en-la_11_243_616_383.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Secretaría de Cultura pide suspender subastas de piezas arqueológicas; “el patrimonio no se vende"
 front: false
 section: "Nacional"
-news_id: 188075
+redirect_from: /news/188075
 ---
 
 La secretaria de Cultura, Alejandra Fausto, hizo un llamado a las autoridades nacionales e internacionales para detener la venta y subasta de piezas arqueológicas de México, pues aseguró que "el patrimonio no se vende, se ama y se defiende", dijo.   

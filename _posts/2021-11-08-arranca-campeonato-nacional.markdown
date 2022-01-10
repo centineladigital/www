@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A desarrollarse del 7 al 12 de noviembre con sede en distintos municipios de la región Centro Sur del estado"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca Campeonato Nacional de Béisbol Sub-18 en Delicias"
 front: false
 section: "Local"
-news_id: 189651
+redirect_from: /news/189651
 ---
 
 El Gran Estadio de Béisbol fue escenario de la inauguración del Campeonato Nacional de Béisbol Sub-18, en el que participan más de 150 jugadores procedentes de todo el país y del estado de Chihuahua.

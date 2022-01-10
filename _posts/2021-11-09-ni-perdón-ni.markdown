@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que no habrá perdón ni olvido para quien cometió actos en contra de los chihuahuenses."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MM03_MARU_CAMPOS.mp4"
-audio: "nil"
+audio: nil
 alt: "Ni perdón, ni olvido; Gobernadora ante extradición de Duarte"
 front: false
 section: "Local"
-news_id: 189709
+redirect_from: /news/189709
 ---
 
 A los exgobernadores, ni perdón ni olvido”, fueron las palabras de la Gobernadora, María Eugenia Campos Galván, ante el cuestionamiento sobre la extradición del exmandatario estatal, César Duarte Jácquez.

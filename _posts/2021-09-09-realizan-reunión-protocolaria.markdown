@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El acto de entrega recepción se lleva cabo en pro de un proceso transparente y dispuesto de la mejor manera para culminar una administración con finanzas sanas y caminando de manera correcta"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Realizan reunión protocolaria de entrega recepción de Administración Municipal"
 front: false
 section: "Local"
-news_id: 187599
+redirect_from: /news/187599
 ---
 
 La presidenta municipal María Angélica Granados Trespalacios y el alcalde electo Marco Bonilla Mendoza encabezaron una reunión protocolaria donde se llevó a cabo la entrega documental del soporte financiero, personal y de bienes de la Administración Municipal 2018-2021 a las autoridades electas.

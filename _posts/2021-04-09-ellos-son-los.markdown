@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la exitosa serie The Crown, estos actores fueron quienes interpretaron al esposo de la reina Isabel II. "
 image: "/uploads/2021/images-actores-vida-felipe-edimburgo-serie.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ellos son los actores que dieron vida a Felipe de Edimburgo en 'The Crown'"
 front: false
 section: "Espectáculos"
-news_id: 183788
+redirect_from: /news/183788
 ---
 
 En el 2016 se estrenó en Netflix la serie inspirada en la vida de la reina Isabel II y su familia, The Crown. A lo largo de cuatro temporadas hemos visto cómo la monarca británica se ha enfrentado a problemas y a los lazos de su familia como con el que tiene con su esposo Felipe de Edimburgo, quien falleció este 9 de abril en el castillo de Windsor. Debido al fallecimiento del esposo de la reina Isabel II, muchos han recordado a los actores que en The Crown han interpretado a Felipe de Edimburgo. A continuación, hacemos un reposo por los histriones que han dado vida al esposo de la monarca. 

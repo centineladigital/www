@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "De acuerdo al pronóstico emitido se espera que para la actual temporada 2021-2022 se presenten 56 frentes fríos."
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Informa Gobierno del Estado que se encuentran abiertos 398 albergues por temporada invernal"
 front: false
 section: "Local"
-news_id: 191327
+redirect_from: /news/191327
 ---
 
 Debido a las bajas temperaturas que se han presentado en todo el estado, especialmente en la zona serrana, el Gobierno del Estado dio a conocer que actualmente se encuentran habilitados 398 refugios temporales para que personas en situación vulnerable puedan hacer uso de ellos y eviten estar en la intemperie cuando se registran bajas temperaturas.

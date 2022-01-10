@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hasta el corte de las 7 horas del 11 de septiembre del 2021, el estado de Chihuahua presenta un total de 76,577 (+72) casos confirmados de Covid-19, 65,784 (+219) recuperados, 62,106 (+490) descartados y 841 (+6) sospechosos"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 72 nuevos casos confirmados de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 187655
+redirect_from: /news/187655
 ---
 
 Hasta el corte de las 7 horas del 11 de septiembre del 2021, el estado de Chihuahua presenta un total de 76,577 (+72) casos confirmados de Covid-19, 65,784 (+219) recuperados, 62,106 (+490) descartados y 841 (+6) sospechosos.

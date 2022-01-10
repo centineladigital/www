@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El estelar pitcher de los Dodgers de Los Ángeles simplemente tomó sus cosas y se fue"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Julio Urías hace desaire tras recibir el Premio Nacional de Deportes"
 front: false
 section: "Deportes"
-news_id: 190194
+redirect_from: /news/190194
 ---
 
 La entrega del Premio Nacional de Deportes suele ser una de las conmemoraciones más importantes en el deporte mexicano.

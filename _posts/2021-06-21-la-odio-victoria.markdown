@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A su estilo, Victoria Ruffo contó la ocasión en que hizo casting para un papel de villana en una telenovela, sin embargo, Leticia Calderón se quedó con el. "
 image: "/uploads/2021/images-victoria-ruffo-bromeo-odiar-lety_55_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La odio -  Victoria Ruffo recuerda que Lety Calderón le ganó un papel de villana en telenovela"
 front: false
 section: "Espectáculos"
-news_id: 185146
+redirect_from: /news/185146
 ---
 
 Victoria Ruffo se ha caracterizado por ser una de las actrices que ha protagonizado icónicas telenovelas, sin embargo, en una ocasión la mamá de José Eduardo Derbez quiso darse la oportunidad de interpretar a la villana de la historia, por lo que en el 2008 hizo casting para la telenovela “En nombre del amor”, sin embargo, Lety Calderón le ganó el papel.

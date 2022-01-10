@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La Fiscalía General del Estado refrenda su compromiso de trabajar de manera permanente en la construcción del orden y la paz."
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llama FGE a evitar disparar “vivas” en año nuevo"
 front: false
 section: "Local"
-news_id: 191277
+redirect_from: /news/191277
 ---
 
 La Fiscalía General del Estado hace un llamado a la ciudadanía para que evite disparar “vivas” durante los festejos de año nuevo, ya que además de ser una práctica que pone en peligro la vida de personas inocentes y la de quienes la realizan, constituye un delito federal.

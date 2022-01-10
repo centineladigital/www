@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Interesados podrán inscribirse en el tercer piso del Edificio Comermex del 18 de octubre al 22 de noviembre"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lanza Gobierno Municipal convocatoria para Premio Municipal de la Inclusión"
 front: false
 section: "Local"
-news_id: 188885
+redirect_from: /news/188885
 ---
 
 El presidente municipal Marco Bonilla anunció la publicación de la convocatoria “Premio Municipal Chihuahua por la Inclusión Social de personas con discapacidad” en su segunda edición, que busca darle un reconocimiento a las personas físicas o morales que trabajen a favor de los derechos humanos y la inclusión por las personas con discapacidad en el municipio de Chihuahua.

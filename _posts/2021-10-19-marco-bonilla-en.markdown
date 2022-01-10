@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El único alcalde del estado de Chihuahua que destaca en el ranking nacional"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Marco Bonilla, en el top 10 de mejores alcaldes de México en aprobación y confianza"
 front: false
 section: "Local"
-news_id: 188923
+redirect_from: /news/188923
 ---
 
 De acuerdo a la última encuesta de Massive Caller publicada este día, el alcalde capitalino de Chihuahua, Marco Antonio Bonilla Mendoza se ubica dentro de los mejores alcaldes de México en los índices de aprobación y confianza.

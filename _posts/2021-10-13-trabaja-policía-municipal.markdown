@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Para conocer las instalaciones y analizar las áreas de oportunidad de UAVI y brindar una mejor atención a la población."
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabaja Policía Municipal y regidores en fortalecimiento de Unidades de Atención a la Violencia"
 front: false
 section: "Local"
-news_id: 188699
+redirect_from: /news/188699
 ---
 
 El Gobierno Municipal a través de la Dirección de Seguridad Pública Municipal (DSPM) trabaja en conjunto con la Comisión de Mujer, Familia e Igualdad de Género del Ayuntamiento con el objetivo de fortalecer las áreas que brindan atención a través de las Unidades de Atención a la Violencia Familiar (UAVIs).

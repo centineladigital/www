@@ -30,11 +30,11 @@ author: nil
 description: "Lamentó que morena no haya votado a favor del paquete económico y señaló que no habrá un aumentó para los diputados "
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-15_at_4.11.30_PM.jpeg"
 video: "/uploads/2021/videos-BJ03_ALFREDO_CHAVEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "El paquete económico es una medicina amarga pero necesaria "
 front: false
 section: "Local"
-news_id: 190940
+redirect_from: /news/190940
 ---
 
 El diputado Alfredo Chávez señaló que el paquete económico para el estado de Chihuahua es una medicina amarga pero necesaria para la recuperación financiera del estado, aseguró que es un paquete muy bien planeado por lo que su aprobación es fundamental y habrá buenas consecuencias del mismo.

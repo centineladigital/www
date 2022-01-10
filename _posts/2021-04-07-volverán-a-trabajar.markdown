@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esta comedia romántica, que se estrenará en 2022, estará a cargo del director Oliver Parker. "
 image: "/uploads/2021/images-una-pareja-actoral-muy-querida.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Volverán a trabajar juntos! George Clooney y Julia Roberts protagonizarán la cinta 'Ticket to Paradise'"
 front: false
 section: "Espectáculos"
-news_id: 183749
+redirect_from: /news/183749
 ---
 
 Ticket to Paradise es el nombre de la comedia romántica a estrenarse en 2022 que volverá a reunir a George Clooney y Julia Roberts en la gran pantalla, con dirección del cineasta que realizó la secuela de Mamma Mia!, Oliver Parker,  Universal Pictures informó que, en la cinta, los dos intérpretes darán vida a un matrimonio separado que tiene que volver a reunirse para evitar que su hija, cegada por amor, repita los errores cometidos por sus padres. 

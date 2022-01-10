@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El DIF Municipal benefició a más de 900 personas con la capacitación   "
 image: "/uploads/2021/images-unnamed_(15).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Imparten pláticas para prevenir el abuso sexual infantil"
 front: false
 section: "Local"
-news_id: 190788
+redirect_from: /news/190788
 ---
 
 El DIF Municipal a través de la Unidad de Coordinación de Niñas, Niños, Adolescentes y Cuidado Infantil, ha impartido diversas pláticas para prevenir la violencia y abuso sexual infantil, con el compromiso de proteger y cuidar la integridad de la niñez chihuahuense.

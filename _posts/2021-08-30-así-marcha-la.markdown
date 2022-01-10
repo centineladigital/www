@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "América finaliza la jornada 7 como líder del Apertura 2021"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así marcha la tabla de la Liga MX tras la jornada 7 del Apertura 2021"
 front: false
 section: "Deportes"
-news_id: 187243
+redirect_from: /news/187243
 ---
 
 Las Águilas del América del entrenador argentino Santiago Solari, que empataron este sábado 1-1 con el León, ratificaron su liderato en el torneo Apertura 2021 del fútbol mexicano, al concluir este domingo la séptima jornada.

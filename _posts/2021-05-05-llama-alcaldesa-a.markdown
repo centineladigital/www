@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“No es posible que con tal de generar votos, se pase por encima de la ley y se deñe a terceros”."
 image: "/uploads/2021/images-MANQUE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03_MANQUE.mp3"
 alt: "Llama Alcaldesa a candidatos a no trasgredir la ley"
 front: false
 section: "Local"
-news_id: 184299
+redirect_from: /news/184299
 ---
 
 “No es posible que con tal de generar votos, se pase por encima de la ley y se deñe a terceros” fueron las palabras de la Alcaldesa de Chihuahua, María Angélica Granados Trespalacios al momento de cuestionársele respecto a la demolición de una vivienda por parte de los candidatos Miguel Riggs y Alfredo Lozoya abanderados a la presidencia municipal y gubernatura por Movimiento Ciudadano, respectivamente.

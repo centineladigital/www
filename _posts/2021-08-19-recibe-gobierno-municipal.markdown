@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Este reconocimiento se entregó en la Ceremonia de premiación de la primera Jornada Anual de Reconocimiento de Prácticas de Transparencia Proactiva en el ámbito local realizada por el Instituto Chihuahuenses para la Transparencia y Acceso a la Información (ICHITAIP)"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recibe Gobierno Municipal reconocimiento por prácticas de Transparencia Proactiva"
 front: false
 section: "Local"
-news_id: 186896
+redirect_from: /news/186896
 ---
 
 El Gobierno Municipal fue reconocido por sus buenas prácticas en Transparencia Proactiva por el portal del Presupuesto Participativo, cuyo sitio permite a la ciudadanía consultar toda la información en relación a este mecanismo de participación que cuenta con las propuestas hechas por la ciudadanía, la viabilidad de estos proyectos, así como los elegidos por los chihuahuenses, etcétera.   

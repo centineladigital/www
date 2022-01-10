@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Al evento protocolario, además del director de la JCAS, los nuevos titulares estuvieron acompañados en su toma de protesta por el director financiero Ángel González Grajeda; el director técnico Antonio Ramírez Baca y el director de operación regional Francisco Alfonso Flores Aguirre."
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rinden protesta 34 titulares de las JMAS y JRAS"
 front: false
 section: "Local"
-news_id: 190653
+redirect_from: /news/190653
 ---
 
 En el marco de las actividades del foro Smart Water, el director de la Junta Central de Agua y Saneamiento, Roberto Lara Rocha, llevó a cabo la toma de protesta de los nuevos titulares de las Juntas Municipales y Rurales de Agua y Saneamiento.

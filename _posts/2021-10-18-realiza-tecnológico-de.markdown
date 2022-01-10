@@ -13,12 +13,12 @@ tags:
 author: nil
 description: ""
 image: "/uploads/2021/images-IMG_1191.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza Tecnológico de Nuevo Casas Grandes actividades en conmemoración de la lucha contra el cáncer de mama"
 front: false
 section: "Local"
-news_id: 188862
+redirect_from: /news/188862
 ---
 
 En el marco de las actividades por la conmemoración del Día Internacional de la Lucha contra el Cáncer de Mama, el Instituto Tecnológico Superior de Nuevo Casas Grandes (ITSNCG) realizó el evento denominado “Pinta Compromiso-Tócate para que no te toque”.

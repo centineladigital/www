@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "De acuerdo con datos difundidos por la Oficina de Aduanas y Protección Fronteriza, el total del año fiscal 2021 supera ampliamente las estadísticas del año pasado en detención de migrantes. "
 image: "/uploads/2021/images-elemento-patrulla-fronteriza-vigila-zona_0_41_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU detuvo a más de 1.7 millones de migrantes en frontera con México entre 2020 y 2021"
 front: false
 section: "Internacional"
-news_id: 189114
+redirect_from: /news/189114
 ---
 
 Estados Unidos arrestó entre octubre de 2020 y septiembre de este año a más de 1.7 millones migrantes que cruzaron la frontera con México, una cifra no vista en las últimas décadas, de acuerdo con datos difundidos este viernes por la Oficina de Aduanas y Protección Fronteriza (CBP, por sus siglas en inglés). 

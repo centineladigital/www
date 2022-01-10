@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Apple TV Plus dio a conocer que Tobey Maguire y Eiza González, además de Marion Cotillard, Forest Whitaker se unen al elenco de Extrapolations, con actores como Meryl Streep. "
 image: "/uploads/2021/images-maguire-gonzalez-unen-elenco-extrapolations.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Eiza González y Tobey Maguire se unen a nueva serie de Apple TV Plus, 'Extrapolations'"
 front: false
 section: "Espectáculos"
-news_id: 189278
+redirect_from: /news/189278
 ---
 
 Eiza González sigue en ascenso; ahora la actriz mexicana compartirá reparto con Marion Cotillard, Forest Whitaker y el esperado en Spiderman: No Way Home, Tobey Maguire, para la serie Extrapolations del escritor, director y productor Scott Z. Burns para Apple TV Plus. 

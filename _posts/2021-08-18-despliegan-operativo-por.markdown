@@ -10,11 +10,11 @@ author: nil
 description: "Tras homicidio de excandidato a la alcaldía de Buenaventura se busca a los responsables."
 image: "/uploads/2021/images-EMILIO1.jpg"
 video: "/uploads/2021/videos-MW02_EMILIO_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Despliegan operativo por muerte de Delegado de Bienestar"
 front: false
 section: "Local"
-news_id: 186853
+redirect_from: /news/186853
 ---
 
 Por el asesinado del Delegado de Bienestar en Buenaventura Paulino Rodríguez autoridades estatales y federales en materia de seguridad desplegaron a varios elementos en la zona, señaló el titular de la Secretaría de Seguridad Pública Emilio García Ruiz.

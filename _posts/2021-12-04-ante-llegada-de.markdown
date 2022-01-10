@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ve innecesario cerrar fronteras o cancelar vuelos internacionales; gobierno resta importancia, de nuevo, a pandemia: especialistas"
 image: "/uploads/2021/images-ante_llegada_de_omicron_lopez-gatell_minimiza_los_riesgos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ante llegada de ómicron, López-Gatell minimiza los riesgos"
 front: false
 section: "Nacional"
-news_id: 190505
+redirect_from: /news/190505
 ---
 
 Aunque varios países anunciaron medidas de contención en sus fronteras y puntos de entrada y se preparan para la variante ómicron, en México el subsecretario de Promoción y Prevención de la Salud, Hugo López-Gatell, aseguró que la nueva variante del coronavirus no causa enfermedad más grave, no cambiará el curso de la epidemia, cancelar vuelos no es útil y que estos virus ayudan al propósito de lograr la inmunidad social.

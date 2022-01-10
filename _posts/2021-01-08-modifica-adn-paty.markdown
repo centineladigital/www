@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Paty Navidad reiteró su teoría conspirativa sobre el covid-19, cree que el virus no es letal; reveló que familiares se contagiaron, pero se recuperaron con tés; también dijo que no le importa quedarse sin redes sociales. "
 image: "/uploads/2021/images-paty-navidad-saco-teoria-tecnologica.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Modifica ADN -  Paty Navidad reitera teoría sobre covid; no tiene miedo de quedarse sin redes sociales"
 front: false
 section: "Espectáculos"
-news_id: 181976
+redirect_from: /news/181976
 ---
 
 Paty Navidad sigue dando de qué hablar, pues a su llegada al Aeropuerto de la Ciudad de México, volvió a ‘vociferar’ sobre la pandemia por coronavirus, covid-19. Sin pena alguna, reiteró que si el covid-19 fuera tan peligroso ya todas las personas estarían muertas y explicó que no tiene miedo de que Twitter u otra red social la “censure”. Te contamos lo que expresó la actriz de Televisa, quien en repetidas ocasiones ha lanzado fake news sobre la emergencia sanitaria. En entrevista con diferentes medios de comunicación, a su llegada al Aeropuerto Internacional de la Ciudad de México, Paty Navidad se mostró incómoda, pues según ella la prensa deforma lo que ella dice. “Las entrevistas que he dado las utilizan como quieren, pero también estoy en mi derecho de decirles no me sigan tergiversando mis opiniones, porque al final son sólo eso, opiniones, no soy dueña de la verdad absoluta ni ustedes tampoco”, comentó. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solo se registran 66 nuevos casos y 8 defunciones."
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ05_ARTURO_VALENZUELA.mp3"
 alt: "Continúan cifras bajas en detección de casos COVID"
 front: false
 section: "Local"
-news_id: 183025
+redirect_from: /news/183025
 ---
 
 Por tercer día consecutivo continúan cifras menor a los tres dígitos, esto al detectar 66 nuevos casos de personas que dieron positivos a PCR así como la acreditación de 8 muertes, según lo dio a conocer el titular de la Dirección Médica Zona Norte Arturo Valenzuela Zorrilla.

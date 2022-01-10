@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con el programa ciudadano del Gobierno Municipal, se beneficiará a 105 hogares chihuahuenses"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vecinos del Cerro de la Cruz lograron pavimentar 10 tramos de calle con Presupuesto Participativo"
 front: false
 section: "Local"
-news_id: 189128
+redirect_from: /news/189128
 ---
 
 En días próximos se entregará la obra ejercida a través del Presupuesto Participativo que promovieron familias de la colonia Cerro de la Cruz, obra que beneficiará directamente a 105 hogares chihuahuenses.

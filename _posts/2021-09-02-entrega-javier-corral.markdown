@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se creó en la entidad una red de innovación y desarrollo tecnológico para generar una mejor distribución del ingreso, una derrama económica de más nivel e incrementar el salario, destaca el Gobernador en su gira del Maratón de Obras  "
 image: "/uploads/2021/images-4_(1).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Javier Corral avance de obra del HUB Bio Industrial en Delicias"
 front: false
 section: "Local"
-news_id: 187388
+redirect_from: /news/187388
 ---
 
 Como parte del Maratón de Obras 2021, el gobernador Javier Corral, hizo entrega en Delicias, del avance del 70% de obra del Hub Bio Industrial de desarrollo e innovación, para generar soluciones tecnológicas que den valor agregado a la producción agropecuaria.

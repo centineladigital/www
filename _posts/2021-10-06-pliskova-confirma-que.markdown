@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La checa confirma que buscará llegar a Jalisco de la mejor manera y se baja de la Billie Jean King Cup  "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pliskova confirma que estará en Guadalajara en noviembre"
 front: false
 section: "Deportes"
-news_id: 188423
+redirect_from: /news/188423
 ---
 
 Las Finales de la WTA continúan asegurando figuras para la segunda semana de noviembre. El lunes 4 de octubre se confirmó la clasificación de Karolina Pliskova para este torneo, y la checa ya confirmó que tiene deseos de jugarlo y llegar lo más lejos posible. 

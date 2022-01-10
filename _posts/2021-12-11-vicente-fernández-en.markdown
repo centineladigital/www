@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Por medio de un reporte médico, se informó que la salud de Vicente Fernández sigue grave y su condición es crítica. "
 image: "/uploads/2021/images-reportan-vicente-fernandez-critico-salud_0_147_1080_671.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vicente Fernández, en condición crítica; pronóstico es reservado"
 front: false
 section: "Espectáculos"
-news_id: 190754
+redirect_from: /news/190754
 ---
 
 La salud de Vicente Fernández es un "pronóstico reservado", alerta una nuevo reporte médico emitido este sábado por la mañana. Las condiciones del cantante mexicano en las últimas horas mantiene preocupada no solo a la familia, sino a todo el país. Después de que se diera a conocer que está grave, la tarde del viernes, ahora un nuevo reporte médico revela que el "Charro de Huentitán" presentó una agudización en su estado de salud. 

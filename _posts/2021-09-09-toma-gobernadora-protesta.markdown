@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la sesión solemne del 8 de septiembre, la titular del ejecutivo estatal, tomó protesta a los integrantes del nuevo Gabinete del Gobierno del Estado con lo cual se comprometen a salvaguardar la dignidad de las y los chihuahuenses"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-09_at_09.24.19.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Toma Gobernadora protesta al equipo que fungirá como Gabinete de la administración 2021-2027"
 front: false
 section: "Local"
-news_id: 187566
+redirect_from: /news/187566
 ---
 
 En continuidad al acto de toma de protesta de la Gobernadora del Estado de Chihuahua, Maru Campos Galván, la mandataria estatal, tomó protesta al equipo seleccionado que fungirá como su Gabinete para la administración estatal 2021-2027.

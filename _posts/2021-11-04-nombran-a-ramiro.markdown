@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El docente llega al cargo en sustitución del maestro Bernardo Ernesto Valdez Talamantes"
 image: "/uploads/2021/images-IMG_8230.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nombran a Ramiro Martínez López coordinador  de Educación en la Zona Norte"
 front: false
 section: "Local"
-news_id: 189566
+redirect_from: /news/189566
 ---
 
 Este jueves fue nombrado como coordinador de Educación en la Zona Norte, el profesor Ramiro Martínez López, quien llega al cargo en sustitución del maestro Bernardo Ernesto Valdez Talamantes.

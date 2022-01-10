@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El reporte epidemiológico estatal, detalla que hay 82 pacientes hospitalizados y 31 intubados; en las últimas horas  no se confirmaron defunciones  "
 image: "/uploads/2021/images-Diapositiva2_(1).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registra Salud el contagio de 22 personas más por COVID-19 en la entidad"
 front: false
 section: "Local"
-news_id: 187250
+redirect_from: /news/187250
 ---
 
 La pandemia por COVID-19 en el estado de Chihuahua lleva un acumulado de 75 mil 548 contagios y 7 mil 812 decesos, de acuerdo al último reporte epidemiológico que emite la Secretaría de Salud.

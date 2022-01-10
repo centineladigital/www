@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las personas que contaban con cita médica programada para este 11 de mayo han tenido que esperar por horas para recibir consulta"
 image: "/uploads/2021/images-Hospital_IMSS_unidad_33.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Caos por falta de médicos en IMSS Unidad Número 33"
 front: false
 section: "Local"
-news_id: 184402
+redirect_from: /news/184402
 ---
 
 Un tremendo caos se vive en la Unidad de Medicina Familiar Número 33 del IMSS debido a que se encuentran sin médico 8 consultorios.

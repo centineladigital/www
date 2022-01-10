@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Tom Felton preocupó después de que al asistir a un juego de golf se desplomara y perdiera el conocimiento por un momento. "
 image: "/uploads/2021/images-el-actor-tuvo-que-ser-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tom Felton, Draco Malfoy en 'Harry Potter', se desploma en juego de golf; lo llevan al hospital"
 front: false
 section: "Espectáculos"
-news_id: 188025
+redirect_from: /news/188025
 ---
 
 Tom Felton, actor que dio vida a Draco Malfoy en Harry Potter, preocupó a sus fans después de que se diera a conocer que este jueves mientras se encontraba en el Whistling Straits, un campo de golf en Wisconsin, Estados Unidos, se desplomó y perdió momentáneamente el conocimiento. 

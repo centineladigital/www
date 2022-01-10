@@ -10,11 +10,11 @@ author: nil
 description: "Esto en las ciudades de Chihuahua y Juárez."
 image: "/uploads/2021/images-GABRIEL.jpg"
 video: "/uploads/2021/videos-MJ04_GABRIEL_VALDEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "En octubre revisarán tarifas de transporte público"
 front: false
 section: "Local"
-news_id: 187996
+redirect_from: /news/187996
 ---
 
 Será a principios del mes de octubre cuando se revise la tarifa del transporte público tanto para Chihuahua como para Ciudad Juárez, declaró el Secretario de Desarrollo Urbano y Ecología, Gabriel Valdez.

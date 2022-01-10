@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz hizo frente a las críticas y ataques que recibió en redes sociales luego de ser captada en Estados Unidos comprando ropa en liquidación. "
 image: "/uploads/2021/images-laura-leon-instagram_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Problema si estuviera robando -  Laura León responde a críticas por comprar ropa en rebaja"
 front: false
 section: "Espectáculos"
-news_id: 188359
+redirect_from: /news/188359
 ---
 
 Laura León, mejor conocida como La Tesorito, es una de las celebridades más queridas de la farándula mexicana, pues la famosa se ha ganado el cariño del público con su carisma y sencillez; sin embargo, días atrás la cantante se volvió tendencia en redes sociales luego de que una usuaria compartiera un video en el que aparece comprando ropa en rebaja en Estados Unidos.  En el clip se escucha a una mujer burlándose de La Tesorito, lo que generó la molestia de sus fans que de inmediato salieron a defenderla de las críticas. Tras lo sucedido, Laura León reapareció en un evento público en el que los medios la cuestionaron sobre la polémica que generó al ser captada adquiriendo mercancía de rebaja y así respondió la cantante. 

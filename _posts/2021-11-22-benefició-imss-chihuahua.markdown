@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se efectuaron vasectomías, procedimientos de Oclusión Tubaria Bilateral (OTB), conocidos como “salpingoclasias y se colocaron implantes subdérmicos."
 image: "/uploads/2021/images-Foto_5638-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Benefició IMSS Chihuahua a derechohabientes del medio rural con Jornadas de Salud Reproductiva "
 front: false
 section: "Local"
-news_id: 190076
+redirect_from: /news/190076
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, a través del Programa IMSS-BIENESTAR, recientemente llevó a cabo las Jornadas de Salud Reproductiva en el Hospital Rural (HR) No. 26 en Guachochi, en beneficio de cientos de pobladores de la zona serrana y rural de la entidad. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Marco Bonilla puntualizó los retos post pandemia ante integrantes de la Declaración de Venecia"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "ONU y Chihuahua capital impulsan fortalecimiento familiar en temas de educación, nuevas tecnologías, salud, seguridad y lucha contra la pobreza   "
 front: false
 section: "Local"
-news_id: 189437
+redirect_from: /news/189437
 ---
 
 Al ser Chihuahua Capital, parte de la red internacional de ciudades familiarmente sostenibles impulsadas por la ONU, el alcalde Marco Antonio Bonilla Mendoza participó en el coloquio de la Declaración de Venecia, en el cual, compartió las buenas prácticas implementadas en la ciudad para afrontar los retos post COVID.

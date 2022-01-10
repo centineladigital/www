@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Llama el presidente a la solidaridad con las naciones desprotegidas ante el Covid-19; urge a impulsar la generación en esos países, así como afrontar la pobreza y la migración"
 image: "/uploads/2021/images-2527797.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lamenta López Obrador falta de vacunas en Centroamérica"
 front: false
 section: "Nacional"
-news_id: 182860
+redirect_from: /news/182860
 ---
 
 El presidente Andrés Manuel López Obrador lamentó que países de Centroamérica no cuenten con vacunas contra el Covid-19.

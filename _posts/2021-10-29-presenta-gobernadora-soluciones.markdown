@@ -13,12 +13,12 @@ tags:
 author: nil
 description: " El compromiso del Gobierno del Estado es brindar obras que realmente beneficien a los chihuahuenses con la mejor infraestructura en obras"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presenta Gobernadora soluciones eficaces para el sistema BRT en Juárez"
 front: false
 section: "Local"
-news_id: 189391
+redirect_from: /news/189391
 ---
 
 Durante la rueda de prensa, en compañía del secretario de Comunicaciones y Obras Públicas, Carlos Aguilar; el representante del Gobierno del Estado en Ciudad Juárez, Óscar Ibañez; el secretario de la Coordinación de Gabinete, Luis Serrato y el alcalde de Ciudad Juárez, Cruz Pérez Cuellar; la gobernadora Maru Campos dio a conocer los resultados de los estudios aplicados a la construcción del BRT-2 en Ciudad Juárez.

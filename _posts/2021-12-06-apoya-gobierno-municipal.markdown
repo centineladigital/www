@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "En atención a las afectaciones causadas por las lluvias del verano pasado"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Apoya Gobierno Municipal a familia con material de construcción para reparar techo"
 front: false
 section: "Local"
-news_id: 190545
+redirect_from: /news/190545
 ---
 
 En el marco de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, entregó material de construcción a una familia de la colonia Antorcha Popular que necesita reparar el techo de su hogar.

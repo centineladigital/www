@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El 'live action' de 101 Dálmatas se estrenó en 1996, y 25 años después llega la película 'Cruella' que contará la vida de una de las villanas más temidas de Disney. "
 image: "/uploads/2021/images-cruella-se-estrena-este-jueves_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Glenn Close vs Emma Stone -  su transformación en Cruella De Vil; ¿cuál te gusta más?"
 front: false
 section: "Espectáculos"
-news_id: 184703
+redirect_from: /news/184703
 ---
 
 Cruella llega tanto a cines como a streaming esta semana. La película protagonizada por Emma Stone dará nueva vida a Cruella de Vil, un popular personaje en el universo de Disney gracias a recordados clips como la clásica 101 Dálmatas, y no te querrás perder el gran estreno de su película.  Es por ello que aquí te decimos todo lo que debes saber sobre Cruella: de qué trata, cuál es el reparto, cuándo se estrena y dónde verla, tanto en streaming como en cines, pues su estreno será simultáneo.  

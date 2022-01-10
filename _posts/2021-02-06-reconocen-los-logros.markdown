@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el marco del 4°Informe de Javier Corral, se difunden los mensajes de distintas instituciones y organizaciones nacionales que destacan los resultados obtenidos bajo las políticas públicas de un Gobierno Responsable"
 image: "/uploads/2021/images-arton12965.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconocen los logros de Chihuahua en transparencia, combate a la corrupción y mejora regulatoria"
 front: false
 section: "Local"
-news_id: 182765
+redirect_from: /news/182765
 ---
 
 Distintas instituciones y organizaciones reconocieron el trabajo de Gobierno del Estado para colocar a Chihuahua entre los primeros lugares  a nivel nacional en combate a la corrupción, política social efectiva, abierta y participativa, así como leyes pioneras en participación ciudadana, innovación en transparencia, mejora regulatoria y portal de servicios.

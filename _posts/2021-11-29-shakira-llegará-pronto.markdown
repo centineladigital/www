@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante y el futbolista española mantienen una relación desde hace diez años y tienen dos hijos; ¿será que están en planes de bodas? Aquí te lo contamos. "
 image: "/uploads/2021/images-shakira-pique-llegar-altar-revelo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Shakira llegará pronto al altar con Gerard Piqué? Esto sabemos"
 front: false
 section: "Espectáculos"
-news_id: 190300
+redirect_from: /news/190300
 ---
 
 Shakira y Gerard Piqué conforman una de las parejas más consolidadas del mundo del espectáculo e, incluso, el fútbol. Los famosos comenzaron su relación amorosa hace 10 años bajo la constante mirada de los fans y la prensa, que siguen de cerca cada uno de sus pasos: desde el nacimiento de sus hijos, Sasha y Milán, hasta su posible unión matrimonial, ¿será que pronto llegarán al altar? Hace unas horas en redes sociales se desataron los rumores de que Shakira se casaría muy pronto con el futbolista español, luego de que Jairo Martínez -ex mánager de la cantante colombiana- concediera una entrevista para el programa Sale el Sol en donde reveló si existen planes de boda. 

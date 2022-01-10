@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La idea es que la vacunación inicie a partir de mañana miércoles, en Chihuahua será en los 30 nosocomios que conforman la Red IRAG."
 image: "/uploads/2021/images-Pfizer_vacuna_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llega hoy por la tarde primer lote de vacunas Pfizer"
 front: false
 section: "Local"
-news_id: 182052
+redirect_from: /news/182052
 ---
 
 Hoy alrededor de las 17:40 horas, las vacunas de Pfizer BioNTech contra el virus SARS Cov2 que causa la Covid-19 llegará a las instalaciones de la Base Aérea Militar Número 13.

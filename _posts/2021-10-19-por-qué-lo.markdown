@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras ser atacado durante su presentación, el cantante de regional mexicano confrontó al responsable y desató una pelea entre los asistentes. "
 image: "/uploads/2021/images-pancho-barraza-recibe-botellazo-concierto.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Por qué lo golpearon? Pancho Barraza recibe botellazo en pleno concierto y desata pelea; video se hace viral"
 front: false
 section: "Espectáculos"
-news_id: 188907
+redirect_from: /news/188907
 ---
 
 El cantante de regional mexicano Pancho Barraza, retomó sus conciertos tras la larga pandemia de covid-19; sin embargo, ya vivió su primer mala experiencia tras su regreso a los escenarios, pues el músico de 60 años fue agredido con una botella por uno de sus seguidores. ¿Pero qué pasó en realidad? Aquí te contamos todo lo que sabemos al respecto. Fue durante su gira por Estados Unidos, cuando el pasado fin de semana Barraza fue golpeado con una botella de cerveza mientras cantaba junto a su banda en pleno escenario. 

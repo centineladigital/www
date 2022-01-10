@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La jefa de Gobierno informó que dialogó con los líderes del gremio en el C5, para garantizar el abasto del gas LP en la capital. "
 image: "/uploads/2021/images-sheinbaum-reunio-gaseros-cdmx-twitter.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sheinbaum se reúne con representantes de gaseros en CdMx"
 front: false
 section: "Nacional"
-news_id: 188623
+redirect_from: /news/188623
 ---
 
 La jefa de Gobierno de la Ciudad de México, Claudia Sheinbaum, se reunió hoy con representantes del gremio gasero, para dialogar sobre las acciones que garanticen la distribución del gas LP en la capital del país y evitar su  desabasto. 

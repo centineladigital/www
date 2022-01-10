@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te decimos la razón por la que Kate Winslet, quien interpretó a Rose, faltó a la importante premiere de Titanic. "
 image: "/uploads/2021/images-titanic-celebra-anos-con-estos-2.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La razón por la que Kate Winslet, actriz que fue Rose DeWitt, faltó a la premiere de 'Titanic'"
 front: false
 section: "Espectáculos"
-news_id: 188375
+redirect_from: /news/188375
 ---
 
 Entre la noche del día 14 y la madrugada del 15 de abril de 1912 ocurrió uno de los naufragios más recordados: el trasatlántico Titanic se hundió ocasionando la muerte de casi  mil 500 personas en un trayecto de Southampton, Inglaterra, a Nueva York, Estados Unidos. Este acontecimiento sirvió como inspiración para uno de los mayores clásicos del cine, protagonizado por Leonardo DiCaprio y Kate Winslet. 

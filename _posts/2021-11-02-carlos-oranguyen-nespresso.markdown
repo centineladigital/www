@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El director de la marca destacó que el concurso que han creado busca exponer el talento mexicano."
 image: "/uploads/2021/images-marca-compartio-planes-ano-redes.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Carlos Oranguyen. Nespresso Talents abre la puerta al mundo del cine."
 front: false
 section: "Espectáculos"
-news_id: 189469
+redirect_from: /news/189469
 ---
 
 Apenas unos minutos después de presenciar los cortos ganadores del concurso Nespresso Talents 2021 en la pantalla de cine, en el marco del Festival Internacional de Cine de Morelia; Carlos Oranguyen, director de Nespresso, compartió a MILENIO la satisfacción por seguir siendo una plataforma que abre la puerta a los jóvenes talentos al mundo del cine. “Es el cuarto año que estamos presentes en Morelia y ahora con los talentos ganadores de nuestro certamen, a quienes estamos festejando aquí, por lo que hemos podido ver sus cortos en una pantalla de cine, lo cual fue muy emotivo para ellos y para nosotros”, dijo el ejecutivo al referirse a la experiencia que vivieron Leire Aguilera Kelly con su historia 3 de mayo; Enrique Aguirre, con Corazón; y Jorge Villela, con Mariposa, primero, segundo y tercer lugar de Nespresso Talents 2021. 

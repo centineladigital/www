@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Alec Baldwin por fin rompió el silenció y lamentó la muerte de Halyna Hutchins, mujer a la que accidentalmente disparó en el set de grabación de una película."
 image: "/uploads/2021/images-baldwin-destrozado-por-lo-ocurrido.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mi corazón está roto -  Alec Baldwin tras muerte de Halyna Hutchins"
 front: false
 section: "Espectáculos"
-news_id: 189084
+redirect_from: /news/189084
 ---
 
 Después de que Alec Baldwin matara accidentalmente a la directora de fotografía Halyna Hutchins tras disparar un arma de utilería que estaba cargada, por fin el actor ha roto el silencio y ha mencionado que está dispuesto a colaborar con las autoridades en la investigación, además que mandó sus condolencias a la familia de Halyna. Fue a través de Twitter que Alec Baldwin mandó un mensaje a todos sus seguidores, además que también lamentó la muerte de Halyna Hutchins, con quien estaba trabajando en su próxima película y quien era la directora de fotografía. 

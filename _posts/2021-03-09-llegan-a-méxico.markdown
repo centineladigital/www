@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Llama López Obrador a brigadas de vacunación a continuar con la aplicación de dosis contra Covid-19; el miércoles se espera arribo de 200 mil unidades de Sputnik V"
 image: "/uploads/2021/images-Para_saldar_adeudo_aprueban_regidoresa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llegan a México 600,600 vacunas; ‘hay dosis suficientes’"
 front: false
 section: "Nacional"
-news_id: 183349
+redirect_from: /news/183349
 ---
 
 El presidente Andrés Manuel López Obrador celebró el arribo a México de 600 mil 600 nuevas dosis de Pfizer/BioNTech para continuar así con el plan de vacunación contra Covid-19.

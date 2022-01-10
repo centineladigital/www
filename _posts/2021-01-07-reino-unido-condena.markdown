@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "‘Creo que lo que el presidente Trump ha estado diciendo’ sobre la victoria de su rival demócrata Joe Biden ‘está mal’, dijo el primer ministro británico, Boris Johnson"
 image: "/uploads/2021/images-2507782.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reino Unido condena a Trump por alentar toma del Capitolio"
 front: false
 section: "Internacional"
-news_id: 181945
+redirect_from: /news/181945
 ---
 
 El primer ministro británico, Boris Johnson, condenó el jueves "sin reservas" la actitud del presidente saliente de Estados Unidos, Donald Trump, de "alentar" a sus seguidores, que irrumpieron en el Capitolio, a protestar violentamente contra el fin de su mandato.

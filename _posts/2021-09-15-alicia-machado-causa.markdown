@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz y modelo se mostró muy cariñosa con Celia Lora en el reality; más tarde, se metió a la alberca y nadó sin ropa. "
 image: "/uploads/2021/images-alicia-machado-causa-revuelo-besar_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alicia Machado causa revuelo por besar a Celia Lora en 'Casa de los famosos'"
 front: false
 section: "Espectáculos"
-news_id: 187774
+redirect_from: /news/187774
 ---
 
 Alicia Machado fue una de las últimas celebridades en sumarse a La casa de los famosos; sin embargo, desde su entrada la ex Miss Universo causó tremendo revuelo al acusar a Kimberly Flores -quien abandonó el reality tras la visita de su esposo Edwin Luna- de no respetar su matrimonio, esto por un íntimo acercamiento que tuvo con Roberto Romano. Ahora, la actriz volvió al ojo del huracán, pero por sus encuentros con Celia Lora. Todo sucedió durante el fin de semana cuando los participantes tuvieron una cena y, posteriormente una alocada fiesta con tragos, baile y música. Pero la que se robó el show fue la modelo venezolana, quien intentó de limar asperezas con la hija de Álex Lora, vocalista de El Tri. 

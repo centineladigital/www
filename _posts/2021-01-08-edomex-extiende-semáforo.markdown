@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El 6 de enero se tuvo el pico máximo de ocupación hospitalaria para pacientes no graves con un 83%, aún se esperan los resultados de las concentraciones por Año Nuevo y Día de Reyes"
 image: "/uploads/2021/images-2508315.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Edomex extiende semáforo rojo hasta el 17 de enero"
 front: false
 section: "Nacional"
-news_id: 181973
+redirect_from: /news/181973
 ---
 
 En el Estado de México el semáforo epidemiológico color rojo por covid-19, se extenderá por lo menos una semana más, informó Víctor Durán Mendieta, subdirector de Epidemiología del Instituto de Salud del Estado de México.   

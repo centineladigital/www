@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La asociación civil responsable de llevar a cabo las iniciativas de acción social del Grupo Financiero BBVA reconoce los esfuerzos realizados para cumplir el objetivo de Juntos por la Salud"
 image: "/uploads/2021/images-2506046.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fundación BBVA México hace alianza para salvar vidas"
 front: false
 section: "Nacional"
-news_id: 181838
+redirect_from: /news/181838
 ---
 
 El 2020 representó un año de lecciones para el mundo entero, por eso Fundación BBVA México agradece el esfuerzo de la sociedad, la iniciativa privada y el gobierno para ayudar con equipo de protección a miles de personas del sector salud y equipar a los hospitales que atienden a miles de pacientes en esta emergencia sanitaria.

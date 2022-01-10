@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El accidente tuvo lugar a la altura del pueblo de Kibuba, en el eje carretero Kinshasa-Kikwit"
 image: "/uploads/2021/images-pipa-pemex-explota-bc-chocar-1_214_49_745_464.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Choque de pipa y autobús deja al menos 33 muertos en el Congo"
 front: false
 section: "Internacional"
-news_id: 186187
+redirect_from: /news/186187
 ---
 
 Al menos 33 personas murieron calcinadas por el choque de una pipa que transportaba combustible y un autobús en uno de las principales rutas de abastecimiento de Kinshasa, en el oeste de la República Democrática del Congo, indicaron fuentes policiales. 

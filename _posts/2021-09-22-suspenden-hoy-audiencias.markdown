@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "No correrán los términos ni plazos legales y serán reagendadas a la brevedad "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-22_at_14.13.53.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Juan_Luis_Fraire__presidente_de_JLCA_Chihuahua.m4a"
 alt: "Suspenden hoy audiencias y diligencias en JLCA de la ciudad de Chihuahua"
 front: false
 section: "Local"
-news_id: 187966
+redirect_from: /news/187966
 ---
 
 La Junta Local de Conciliación y Arbitraje de la ciudad de Chihuahua (JLCA) informó la suspensión de actuaciones, audiencias y diligencias programadas después de las 12:00 horas del día de hoy, miércoles 22 de septiembre.

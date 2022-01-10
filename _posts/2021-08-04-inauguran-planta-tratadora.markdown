@@ -10,11 +10,11 @@ author: nil
 description: "Incrementa inyección a red morada."
 image: "/uploads/2021/images-CORRAL.jpg"
 video: "/uploads/2021/videos-MW06_JAVIER_CORRAL.mp4"
-audio: "nil"
+audio: nil
 alt: "Inauguran planta tratadora"
 front: false
 section: "Local"
-news_id: 186302
+redirect_from: /news/186302
 ---
 
 Este miércoles fue inaugurado las rehabilitación de la planta tratadora norte en la capital de Chihuahua, dentro de este evento el Gobernador de Chihuahua, Javier Corral Jurado, señaló la importancia de esta rehabilitación y modernizació completa de obras que tienen más de 27 años de funcionamiento y con el paso del tiempo se deterioraron y los equipos se volvieron obsoletos frente a las nuevas tecnologías.

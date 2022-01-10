@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La conductora cometió un tremendo error en plena emisión del programa 'Hoy'; las críticas en redes no se hicieron esperar. "
 image: "/uploads/2021/images-andrea-escalona-comete-error-pleno_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Andrea Escalona confunde a Miguel Hidalgo con Benito Juárez; así reaccionan en redes"
 front: false
 section: "Espectáculos"
-news_id: 187738
+redirect_from: /news/187738
 ---
 
 Andrea Escalona volvió a dar de qué hablar, pero esta vez no fue por su curiosa amistad con J Balvin -quien el día de su cumpleaños le mandó un hermoso obsequio- ni por sus indirectas en contra del matutino de la competencia, sino debido al grave error que cometió este martes en plena transmisión del programa Hoy.  Para unirse a las celebraciones patrias, el matutino de Televisa realizó un juego en el que se enfrentaron dos equipos conformados por conductores e invitados. En una de las rondas Andrea Escalona se enfrentó a Andrea Legarreta; sin embargo, Escalona cometió una fatal equivocación al confundir a Miguel Hidalgo con Benito Juárez.  

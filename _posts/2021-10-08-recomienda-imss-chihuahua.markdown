@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La detección  temprana brinda la posibilidad de curación de las pacientes que padezcan cáncer de mama; de ahí la importancia de realizar la autoexploración mensual."
 image: "/uploads/2021/images-Foto_4891-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recomienda IMSS Chihuahua fortalecer detección temprana de Cáncer de Mama"
 front: false
 section: "Local"
-news_id: 188523
+redirect_from: /news/188523
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua  invita a las mujeres a adoptar estilos de vida saludables y tomar conciencia sobre este padecimiento, ya que uniendo esfuerzos es como se logrará reducir la mortalidad por cáncer de mama en el país.

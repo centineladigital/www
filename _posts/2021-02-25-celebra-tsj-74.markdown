@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Trabajo judicial no se dejó de llevar a cabo."
 image: "/uploads/2021/images-TSJ4.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ05_ISRAEL_HERNANDEZ.mp3"
 alt: "Celebra TSJ 74 sesiones en cinco meses"
 front: false
 section: "Local"
-news_id: 183166
+redirect_from: /news/183166
 ---
 
 Dentro de los logros que se tiene dentro del Tribunal Superior de Justicia dentro del compendio que abarca el informe entregado este miércoles se dio a conocer que se llevaron a cabo por parte del Consejo de la Judicatura de este organismo.

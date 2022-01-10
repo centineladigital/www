@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Pudiera viajar a Ciudad Juárez para buscar que se dé libertad a la abanderada."
 image: "/uploads/2021/images-ALEJANDRO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML05_ALEJANDRO_DOMINGUEZ.mp3"
 alt: "Pide dirigente estatal liberación de candidata del PRI"
 front: false
 section: "Local"
-news_id: 183836
+redirect_from: /news/183836
 ---
 
 “Que se ordene la liberación inmediata de nuestra candidata” fueron las palabras del dirigente del PRI a nivel Estatal, Alejandro Domínguez Domínguez, esto luego de sostener una llamada con el titular de la Secretaría de General de Gobierno, al cual le ha propuesto tocar el tema dentro una mesa de trabajo.

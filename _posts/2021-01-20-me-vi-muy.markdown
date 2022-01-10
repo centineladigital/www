@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor indicó que los primeros días estuvo muy mal, pero que no pudo entrar a ningún hospital en México debido a la falta de camas para pacientes con covid-19. "
 image: "/uploads/2021/images-julian-gil-revela-positivo-covid_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me vi muy mal -  Julián Gil revela que dio positivo a covid-19"
 front: false
 section: "Espectáculos"
-news_id: 182312
+redirect_from: /news/182312
 ---
 
 Julián Gil compartió los complicados momentos que vivió tras dar positivo a covid-19. El actor, de origen argentino, indicó sus redes sociales que pasó "los primeros días muy mal" debido a que padece algunos problemas de salud en los pulmones; aseguró que estuvo a punto de ser hospitalizado, pero debido a la falta de camas en los centros médicos, lo están atendido en su domicilio.  

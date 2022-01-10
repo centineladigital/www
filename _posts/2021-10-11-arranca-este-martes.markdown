@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las personas que se aplicarán su segunda dosis deben presentar el comprobante de la primera jornada de vacunación, CURP impreso y respetar los horarios establecidos"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-11_at_10.01.39.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca este martes en Chihuahua segundas dosis de AstraZeneca para personas de 18 a 39"
 front: false
 section: "Local"
-news_id: 188581
+redirect_from: /news/188581
 ---
 
 La Secretaría de Salud del estado de Chihuahua en coordinación con las instituciones que participan en la aplicación de la vacuna COVID-19, informa que este martes 12 de octubre comenzará la aplicación de la segunda dosis de AstraZeneca, dirigida a personas de 18 a 39 años, en la ciudad de Chihuahua.

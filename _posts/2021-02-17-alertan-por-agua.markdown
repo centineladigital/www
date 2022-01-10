@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esperan descenso de temperaturas a partir del viernes."
 image: "/uploads/2021/images-IDELFONSO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW07_IDELFONSO.mp3"
 alt: "Alertan por agua nieve en parte del Estado"
 front: false
 section: "Local"
-news_id: 183002
+redirect_from: /news/183002
 ---
 
 Agua nieve y lluvias es lo que anunció el titular del área de meteorología para este jueves, mientras que para el viernes se espera un descenso de temperatura, por lo que exhortó a la población a extremar precauciones y resguardar las tuberías del agua que estén expuestas.

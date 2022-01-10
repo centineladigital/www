@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Para algunos diplomáticos, es un saldo positivo el impulsar la competitivad de región; pero para otros, puede significar el cierre de la vía comercial con el gigante asiático "
 image: "/uploads/2021/images-china-amlo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "China responde a AMLO -  no somos un peligro para América del Norte"
 front: false
 section: "Nacional"
-news_id: 190040
+redirect_from: /news/190040
 ---
 
 Las relaciones entre China y los países de América del Norte (México, Estados Unidos y Canadá) no es un juego de suma cero, y no hay ninguna razón para pensar que el crecimiento del país asiático pueda representar un daño para la región norteamericana, aseguró Ma Zhen, vocero de la embajada de China en territorio mexicano.

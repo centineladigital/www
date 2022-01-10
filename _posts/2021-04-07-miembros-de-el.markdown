@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ayer autoridades y actuarios intentaron desocupar una vivienda en la colonia Las Águilas, por lo que hoy, los manifestantes se apostaron a las afueras de Banorte para exigir una solución justa al asunto"
 image: "/uploads/2021/images-Manifiestación_banco_barzón_2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Miembros de El Barzón se manifiestan contra banco tras intento de desalojo"
 front: false
 section: "Local"
-news_id: 183726
+redirect_from: /news/183726
 ---
 
 Decenas de ciudadanos que luchan por conservar su vivienda se manifestaron en las instalaciones del Banco Banorte debido a que compra la cartera de otras instituciones financieras y especula con los créditos.

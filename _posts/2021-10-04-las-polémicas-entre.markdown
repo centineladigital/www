@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "López Obrador informó que no asistirá al Senado a entregar la Medalla Belisario Domínguez a Ifigenia Martínez porque la senadora panista convocó a que le faltaran al respeto"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Las polémicas entre AMLO y Lilly Téllez por “El Chapo”, “deforma energética”, López-Gatell..."
 front: false
 section: "Nacional"
-news_id: 188344
+redirect_from: /news/188344
 ---
 
 El pasado 1 de octubre, la senadora Lilly Téllez hizo un llamado a “hacerle frente” al presidente Andrés Manuel López Obrador, quien tenía una visita programada al Senado para entregar la Medalla Belisario Domínguez a Ifigenia Martínez. 

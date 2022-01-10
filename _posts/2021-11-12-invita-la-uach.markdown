@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Son textos universitarios disponibles en formatos EPUB y PDF, hay 35 libros  en línea de humanismo, economía, justicia, producción alimentaria, salud, entre otros."
 image: "/uploads/2021/images-uac.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita la UACH a descargar libros"
 front: false
 section: "Local"
-news_id: 189799
+redirect_from: /news/189799
 ---
 
 En el marco del Día Nacional del Libro que se celebra este 12 de noviembre, la Universidad Autónoma de Chihuahua puso a disposición la página www.editoresuach.com para descargar de manera gratuita los diferentes textos que han donado los autores universitarios para el enriquecimiento bibliotecario virtual de nuestra Alma Mater.  

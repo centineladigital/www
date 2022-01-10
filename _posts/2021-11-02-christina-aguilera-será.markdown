@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Academia Latina de la Grabación confirmó que la cantante se acompañará de Becky G, Nicki Nicole y Nathy Peluso durante su actuación en la fiesta a lo mejor de la música el 18 de noviembre. "
 image: "/uploads/2021/images-christina-aguilera-cantara-grammy-latino.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Christina Aguilera será parte del show musical de los Grammy Latino 2021"
 front: false
 section: "Espectáculos"
-news_id: 189485
+redirect_from: /news/189485
 ---
 
 Christina Aguilera regresará al Grammy Latino parauna actuación en la edición 2021 que incluirá una interpretación de su más reciente tema "Pa mis muchachas", con las nominadas Nicki Nicole y Nathy Peluso, además de la cantante Becky G. La actuación de la cantante en la fiesta del Grammy en Las Vegas forma parte del mágico recorrido musical que ha preparado la Academia Latina de la Grabación para amenizar la 22 ava edición de la entrega del Gramófono. 

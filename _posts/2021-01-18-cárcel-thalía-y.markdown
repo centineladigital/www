@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Laura Zapata y Thalía hablaron del estado de salud de su abuelita. La encontraron en condiciones poco aceptables. "
 image: "/uploads/2021/images-thalia-laura-zapata-condenan-cuidados.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cárcel -  Thalía y Laura Zapata condenan cuidado a su abuela; la hallaron con úlceras en la piel"
 front: false
 section: "Espectáculos"
-news_id: 182217
+redirect_from: /news/182217
 ---
 
 Thalía y Laura Zapata condenaron las condiciones en las que se encontró su abuela, quien recién cumplió 103 años. ¿Qué tiene? Fue desde ayer cuando Laura Zapata hizo uso de sus redes sociales para señalar la forma en la que halló a su abuela al pretender darle una sorpresa por su cumpleaños. La famosa detalló que su abuela tenía severas úlceras decúbito, lesiones de la piel causadas por presión, tras negligencia. Te contamos lo que las artistas comunicaron sobre el tema. 

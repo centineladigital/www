@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Alerta Seguridad Pública Municipal sobre fraudes y extorsiones"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " ¡Cuídate de quienes buscan adquirir tu dinero, con engaños!; atiende estas recomendaciones"
 front: false
 section: "Local"
-news_id: 189475
+redirect_from: /news/189475
 ---
 
 Conforme se acerca la temporada decembrina, en la cual se incrementa el flujo de dinero en la ciudad, el Gobierno Municipal a través de la Dirección de Seguridad Pública (DSPM), emite sencillas pero importantes recomendaciones para evitar caer en fraudes o extorsiones.

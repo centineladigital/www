@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Ricardo Emilio Chavira, compartió en el idioma inglés, su experiencia en el Programa de Educación Dual y exhorta a estudiantes a integrarse a este modelo enriquecedor"
 image: "/uploads/2021/images-C3.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Representa a México alumno del CONALEP Chihuahua II  en foro internacional sobre competitividad en Norteamérica"
 front: false
 section: "Local"
-news_id: 190945
+redirect_from: /news/190945
 ---
 
 Ricardo Emilio Chavira, estudiante del Colegio de Educación Profesional Técnica (CONALEP) Chihuahua II, participó en el foro internacional denominado “USMCA and workforce development: building a competitive North América”, organizado por el Instituto George W. Bush, que se desarrolló en Dallas, Texas, en los Estados Unidos.

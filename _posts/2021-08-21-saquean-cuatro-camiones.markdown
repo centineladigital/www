@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La ayuda se destinaba a las regiones de Abricot, Pestel, Jérémie y la isla de Caimite, todas ellas muy afectadas por el terremoto que, según informes parciales, dejó 2 mil 189 muertos"
 image: "/uploads/2021/images-personas-esperan-recibir-comida-repartiria_0_52_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Saquean cuatro camiones que transportaban ayuda humanitaria en carretera de Haití"
 front: false
 section: "Internacional"
-news_id: 186970
+redirect_from: /news/186970
 ---
 
 Al menos cuatro camiones de la ONG internacional Food For The Poor fueron saqueados en la carretera del Sur cuando se disponían a entregar ayuda a las víctimas del terremoto que causó miles de víctimas y destrucción en el suroeste y otras zonas de Haití.  

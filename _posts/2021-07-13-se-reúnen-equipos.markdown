@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se acordó que el equipo de la administración entrante enviará la agenda para próximos encuentros."
 image: "/uploads/2021/images-_DSC8077.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reúnen equipos de entrega recepción en la Secretaría de Hacienda"
 front: false
 section: "Local"
-news_id: 185632
+redirect_from: /news/185632
 ---
 
 El pasado lunes se realizó la primera reunión de entrega-recepción entre el equipo de transición de la próxima administración estatal, con el titular de la Secretaría de Hacienda Arturo Fuentes Vélez y sus principales colaboradores.

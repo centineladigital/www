@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La exitosa canción de Luis Miguel, 'Suave', tiene una versión al ritmo de salsa. Te contamos quién la canta. "
 image: "/uploads/2021/images-esta-version-de-suave-tambien.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿La has escuchado? 'Suave', la versión en salsa de la famosa canción de Luis Miguel"
 front: false
 section: "Espectáculos"
-news_id: 184136
+redirect_from: /news/184136
 ---
 
 'Suave' es sin duda una de las canciones más conocidas de Luis Miguel, la cual está incluida en el noveno disco del cantante, Aries. Este tema inspiró el título del tercer capítulo de la segunda temporada de la serie de El Sol, en el cual también se cuenta un poco sobre cómo es que surgió la canción. En el capítulo de la serie de Luis Miguel nos cuenta que este tema fue incluido en Aries y que fue escrita por el compositor y guitarrista Kiko Cibrián, quien también fue el elegido para producir el álbum de Luis Miguel. 

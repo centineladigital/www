@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los nuevos capítulos abordarán los conflictos que enfrentó la 'Reina del Tex-Mex' tras llegar a la cúspide de su carrera y cómo entró Yolanda Saldívar a la vida de cantante. "
 image: "/uploads/2021/images-selena-la-serie-estrena-su.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cuándo y a qué hora se estrena la segunda temporada de 'Selena, la serie'?"
 front: false
 section: "Espectáculos"
-news_id: 184245
+redirect_from: /news/184245
 ---
 
 Selena, la serie regresa a la pantalla chica con una segunda temporada que no sólo revivirá el legado de la Reina del Tex-Mex, también mostrará los dilemas y conflictos familiares a los que se enfrentó la cantante cuando llegó a la cúspide de su carrera. Los nuevos capítulos abordarán desde su faceta como diseñadora hasta su relación con Los Dinos, agrupación que formó junto a sus hermanos, Suzette y A. B. Quintanilla. En esta segunda entrega de la producción de Netflix saldrán a la luz las complicadas decisiones que tomó Selena Quintanilla detrás del escenario. Además entrará en escena Yolanda Saldívar, quien fue presidenta del club de fans y ahora cumple cadena perpetua en un penal de Texas, Estados Unidos, por el asesinato de la icónica cantante.  

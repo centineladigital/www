@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que no se tienen denuncias de estos hechos."
 image: "/uploads/2021/images-roberto.jpg"
 video: "/uploads/2021/videos-MJ05_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Niega Fiscal incremento de secuestros"
 front: false
 section: "Local"
-news_id: 188487
+redirect_from: /news/188487
 ---
 
 Tras dar a conocer organizaciones de la sociedad civil que se han registrado incrementos en los secuestros, el titular de la Fiscalía General de Chihuahua negó que esto se diera. Ya que, dijo, no se cuenta con ninguna denuncia interpuesta a través del área correspondiente.

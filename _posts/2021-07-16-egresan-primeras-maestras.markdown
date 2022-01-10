@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Son nueve jóvenes bilingües, ralámuli y tepehuán, que podrán integrarse al sistema educativo indígena para enseñar en sus propias lenguas maternas a niñas y niños"
 image: "/uploads/2021/images-Alumnas_egresadas__de_pueblos_origiarios-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Egresan primeras maestras de pueblos originarios de la Normal de Saucillo"
 front: false
 section: "Local"
-news_id: 185742
+redirect_from: /news/185742
 ---
 
 Un grupo de nueve alumnas, integrantes de pueblos originarios ralámuli y tepehuán, culminaron sus estudios en la Escuela Normal Rural de Saucillo, convirtiéndose en las primeras egresadas de esta institución como docentes bilingües.

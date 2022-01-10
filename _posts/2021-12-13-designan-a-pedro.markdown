@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El alcalde Marco Bonilla, hizo el anuncio en rueda de prensa"
 image: "/uploads/2021/images-unnamed_(11).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Designan a Pedro Oliva como nuevo subdirector de Gobernación Municipal   "
 front: false
 section: "Local"
-news_id: 190773
+redirect_from: /news/190773
 ---
 
 El alcalde, Marco Bonilla, hizo público el nombramiento del nuevo subdirector de Gobernación Municipal, Pedro Oliva, quien estará en el cargo que Daniel Olivas ocupaba hasta hace algunos días.

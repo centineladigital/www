@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El magistrado José Luis Vargas Valdés presentará el proyecto, que se someterá a discusión nuevamente, en el cual se pretende que el caso del hermano del Presidente ya no siga siendo investigado por el Instituto Nacional Electoral "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Propone magistrado del TEPJF que caso Pío López Obrador ya no sea investigado por el INE"
 front: false
 section: "Nacional"
-news_id: 188413
+redirect_from: /news/188413
 ---
 
 En la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación (TEPJF) se someterá a discusión, nuevamente, el caso de Pío López Obrador, hermano del Presidente de la República, sobre el cual se propone desechar ya el caso.

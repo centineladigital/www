@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Además, se contabiliza la caída de 75 árboles y cinco postes de electricidad, así como seis derrumbes carreteros, el colapso de ocho bardas y dos vehículos con daños"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reportan inundaciones y afectaciones en más de 50 viviendas por paso del huracán Rick en Guerrero"
 front: false
 section: "Nacional"
-news_id: 189141
+redirect_from: /news/189141
 ---
 
 Luego del impacto del huracán Rick, categoría 2, en Guerrero, Protección Civil estatal informó que evacuaron de zonas de riesgo a 42 familias, además de 52 viviendas afectadas por el huracán Rick categoría dos que tocó tierra la madrugada de este lunes en el municipio de La Unión, en la Costa Grande de Guerrero.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Rinden homenaje post mortem al reconocido entrenador chihuahuense"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Campo de softbol de Parque Fundadores, lleva desde hoy el nombre de José Gerardo Duarte Ruíz"
 front: false
 section: "Local"
-news_id: 189946
+redirect_from: /news/189946
 ---
 
 Dentro de los primeros 100 días de trabajo y resultados del Gobierno Municipal, el presidente Marco Bonilla, presidió el nombramiento del campo de softbol ubicado en el Parque Fundadores, en honor al entrendador "José Gerardo Duarte Ruiz", quién dedicó parte de su vida a entrenar a chihuahuenses en este deporte.

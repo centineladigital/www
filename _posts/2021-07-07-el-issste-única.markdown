@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) es la única institución del sector salud que cuenta con una certificación nivel oro multisitio."
 image: "/uploads/2021/images-ISSSTE_01.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El ISSSTE, única institución del sector salud con certificación oro multisitio "
 front: false
 section: "Local"
-news_id: 185442
+redirect_from: /news/185442
 ---
 
 En el marco de la Certificación Oro de Igualdad Laboral y No Discriminación que recibió el ISSSTE por parte del Instituto Mexicano de Normalización y Certificación (IMNC), Prieto Barrientos destacó el trabajo y esfuerzo de todos los participantes para lograr este reconocimiento.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El alcalde electo de la ciudad de Chihuahua Marco Bonilla acudió a la celebración del 36 aniversario de la Barra de Arquitectos de Chihuahua A.C."
 image: "/uploads/2021/images-WhatsApp_Image_2021-07-01_at_10.23.17.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alcalde electo  inaugura nuevo edificio de la Barra de Arquitectos"
 front: false
 section: "Local"
-news_id: 185331
+redirect_from: /news/185331
 ---
 
 El alcalde electo de la ciudad de Chihuahua Marco Bonilla acudió a la celebración del 36 aniversario de la Barra de Arquitectos de Chihuahua A.C., organización que también inauguró sus nuevas instalaciones. 

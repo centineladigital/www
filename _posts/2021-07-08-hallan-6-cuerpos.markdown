@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los equipos que trabajan en el edificio colapsado en Surfside, cerca de Miami, Florida, recuperaron otros seis cuerpos, lo que elevó el número de muertes confirmadas a 60."
 image: "/uploads/2021/images-colapso-edificio-miami-peores-tragedias_0_22_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hallan 6 cuerpos en escombros de edificio en Miami; aumenta a 60 los muertos en EU."
 front: false
 section: "Internacional"
-news_id: 185456
+redirect_from: /news/185456
 ---
 
 Los equipos que trabajan en el edificio colapsado en Surfside, cerca de Miami, Florida, recuperaron otros seis cuerpos, lo que elevó el número de muertes confirmadas a 60, dijeron hoy las autoridades, un día después de declarar que ya no se podía encontrar a nadie con vida tras el desplome del inmueble Champlain Towers. 

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Premio Estatal del Deporte brinda reconocimiento público por contribuir a elevar el nivel competitivo del deporte nacional"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-30_at_15.25.53.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Audio_Teporaca_Romero.mp3"
 alt: "Convocan a atletas y entrenadores a participar en el Premio Estatal del Deporte 2021"
 front: false
 section: "Local"
-news_id: 188251
+redirect_from: /news/188251
 ---
 
 El Gobierno del Estado, a través del Instituto Chihuahuense del Deporte y Cultura Física, convoca a las asociaciones deportivas para que inscriban a los deportistas y entrenadores, que hayan destacado por sus logros en el periodo del 11 de octubre del 2020 al 11 de octubre del 2021 y puedan contender en la trigésima edición del Premio Estatal del Deporte 2021.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se espera beneficiar a cerca de 280 mil chihuahuenses"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Buscarán Gobierno del Estado y Federación otorgar becas universales para personas con discapacidad"
 front: false
 section: "Local"
-news_id: 190920
+redirect_from: /news/190920
 ---
 
 El Gobierno del Estado encabezado por Maru Campos Galván, en coordinación con la Secretaría del Bienestar  del Gobierno Federal, buscarán una cobertura universal de becas para personas con discapacidad en el estado de Chihuahua.

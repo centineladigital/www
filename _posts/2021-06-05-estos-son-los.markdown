@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Galilea Montijo ha causado polémica en diferentes ocasiones por los comentarios que emite en el programa Hoy. "
 image: "/uploads/2021/images-galilea-montijo-toma-humor-errores_0_21_958_595.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estos son los momentos más vergonzosos de Galilea Montijo en televisión"
 front: false
 section: "Espectáculos"
-news_id: 184850
+redirect_from: /news/184850
 ---
 
 Galilea Montijo es una de las famosas que siempre da de que hablar, ya sea por las fotos que comparte en Instagram mostrando sus outfits y su figura escultural o por los deslices que ha tenido mientras participa en Hoy, programa matutino que conduce desde el 2008. En este programa, Galilea ha vivido algunos momentos vergonzosos que han ocasionado burlas y hasta memes. A continuación, hacemos un repaso por estos momentos, los cuales Galilea siempre toma con humor. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La vicecoordinadora de la bancada panista, Kenia López Rabadán, publicó en redes sociales un mensaje en el que advierte que el presidente López Obrador no puede pisotear la Constitución"
 image: "/uploads/2021/images-1499020.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Nos vemos en la Corte”, advierte PAN en el Senado ante Acuerdo que blinda proyectos de infraestructura"
 front: false
 section: "Nacional"
-news_id: 190107
+redirect_from: /news/190107
 ---
 
 El Grupo Parlamentario del PAN en el Senado adelantó que impugnará ante las instancias jurisdiccionales el acuerdo "autoritario" del presidente Andrés Manuel López Obrador, por el cual se consideran de interés público y seguridad nacional todas las obras de infraestructura de su gobierno, como el Aeropuerto Internacional "Felipe Ángeles" (AIFA), la refinería de Dos Bocas y el Tren Maya.

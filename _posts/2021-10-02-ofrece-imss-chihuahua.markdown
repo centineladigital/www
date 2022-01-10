@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Contribuyen a llevar una vida sexual responsable y libre de riesgos"
 image: "/uploads/2021/images-Anticonceptivos.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ofrece IMSS Chihuahua métodos anticonceptivos para una salud sexual y reproductiva segura "
 front: false
 section: "Local"
-news_id: 188325
+redirect_from: /news/188325
 ---
 
 En el marco del Día Mundial de la Anticoncepción, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua exhorta a la población en edad reproductiva a llevar una vida sexual segura y practicar la planificación familiar.

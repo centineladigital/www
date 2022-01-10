@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente ofreció una conferencia de prensa desde la 22 Zona Militar, ubicada en Santa María Rayón, Estado de México. "
 image: "/uploads/2021/images-amlo-visito-zona-militar-edomex.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO visita zona militar en Edomex"
 front: false
 section: "Nacional"
-news_id: 190508
+redirect_from: /news/190508
 ---
 
 El presidente Andrés Manuel López Obrador visitó la 22 Zona Militar, ubicada en la carretera Toluca-Tenango, localidad de Paraje Rancho Sanabria, en Santa María Rayón, Estado de México. 

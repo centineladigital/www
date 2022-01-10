@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La artista estadunidense compartió un mensaje en honor a 'El Charro de Huentitán', quien falleció hace unos días a los 81 años. "
 image: "/uploads/2021/images-beyonce-reacciona-muerte-vicente-fernandez.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Beyoncé lamenta muerte de Vicente Fernández; así dio último adiós al cantante"
 front: false
 section: "Espectáculos"
-news_id: 190830
+redirect_from: /news/190830
 ---
 
 Son incontables las muestras de afecto y mensajes de condolencia que han compartido decenas de famosos ante el fallecimiento de Vicente Fernández, cuyo legado musical ha rebasado fronteras y conquistado la industria anglosajona, prueba de ello son las palabras de Joe Biden, presidente de Estados Unidos, lamentando su muerte, además del reciente tributo que compartió Beyoncé en honor a El Charro de Huentitán.  Fue el pasado 12 de diciembre que la familia Fernández dio a conocer el deceso del cantante, quien en agosto fue hospitalizado tras sufrir una caída en su rancho Los Tres Potrillos. Este lunes al concluir el funeral en la Arena VFG, sus restos mortales fueron sepultados, horas después Beyoncé dedicó un mensaje al cantante.  

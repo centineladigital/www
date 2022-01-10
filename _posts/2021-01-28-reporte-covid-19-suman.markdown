@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se confirman 119 personas enfermas y 15 más fallecidas en el último reporte COVID-19;  exhorta Salud a continuar con las medidas preventivas para evitar un rebrote en la entidad"
 image: "/uploads/2021/images-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reporte COVID-19 -  Suman 49 mil 694 contagios y 4 mil 639 defunciones en el estado"
 front: false
 section: "Local"
-news_id: 182518
+redirect_from: /news/182518
 ---
 
 El subdirector médico de la Secretaría de Salud en la Zona Norte, Arturo Valenzuela Zorrilla, informó que el último reporte epidemiológico confirmó que se tienen en el estado un total general de 49 mil 694 casos de COVID-19 con 119 nuevos registros, así como un acumulado de 4 mil 639 personas fallecidas, con 15 decesos registrados en las últimas 24 horas.

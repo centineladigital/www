@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se benefició a mil 475 personas que laboraron en dicho subsistema, con una derrama económica de seis millones 600 mil pesos    "
 image: "/uploads/2021/images-Entrega_de_bonos_a_jubilados-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan bonos compensatorios a personal jubilado y pensionado de Seech con bajas percepciones"
 front: false
 section: "Local"
-news_id: 186203
+redirect_from: /news/186203
 ---
 
 Con una inversión de seis millones 600 mil pesos, la Secretaría de Educación y Deporte (SEyD) a través de los Servicios Educativos del Estado de Chihuahua (SEECH), hizo entrega de bonos de compensación a mil 475 personas jubiladas y pensionadas de dicho subsistema, que reciben bajas percepciones económicas por este concepto.

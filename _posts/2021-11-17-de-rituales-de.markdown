@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor interpreta a Richard Williams, papá y entrenador de las hermanas Williams en su nueva película, papel que lo suma a la carrera por el premio Oscar. "
 image: "/uploads/2021/images-will-smith-papa-serena-venus-1_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "De rituales de ayahuasca a 'King Richard'... Will Smith se 'convierte' en el papá de Serena y Venus Williams"
 front: false
 section: "Espectáculos"
-news_id: 189942
+redirect_from: /news/189942
 ---
 
 Will Smith no parecería un candidato obvio para una crisis de la mediana edad. Tenía un éxito enorme, era inmensamente popular y era infatigablemente alegre. Pero Smith, quien protagoniza el drama King Richard (Rey Richard: Una familia ganadora)como Richard Williams, el padre y entrenador de Venus y Serena Williams, está resurgiendo tras un extenso período de introspección.  El actor, de 53 años, escribe en un nuevo libro de memorias que ha estado meditando, participando en ceremonias de ayahuasca y, en general, haciéndose muchas preguntas sobre su propia infancia y sus decisiones como padre, esposo y estrella de cine. “Mi familia estaba empezando a odiarme”, dijo Smith, riendo. “Todo iba muy bien y todos se sentían miserables. Pensé, ‘tal vez debería echarle un vistazo a esto’”.

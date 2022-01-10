@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal realizó la sustitución de focos y reparación de cableado"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dan mantenimiento a 2 mil luminarias en el mes de noviembre"
 front: false
 section: "Local"
-news_id: 190516
+redirect_from: /news/190516
 ---
 
 Dentro de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, atendió durante el mes de noviembre, 2 mil 200 luminarias en diversas zonas de la capital, con la finalidad de tener en óptimas condiciones el sistema de alumbrado público.

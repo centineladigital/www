@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Dentro de los logros recientes destacan la certificación en el sistema de calidad ISO 21001/2018, el registro de marca del Sistema de Información Institucional PROYECTA y el primer lugar en Index-Kaizen 2021"
 image: "/uploads/2021/images-IMG_7413.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con evento celebra UTCH suma de logros recientes   "
 front: false
 section: "Local"
-news_id: 190795
+redirect_from: /news/190795
 ---
 
 La Universidad Tecnológica de Chihuahua (UTCH) celebró en un evento encabezado por sus directivos los logros alcanzados durante  2021, año en el que aún con los retos actuales en diversas áreas, se han establecido y alcanzado metas institucionales.

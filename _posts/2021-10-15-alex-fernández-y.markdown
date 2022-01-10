@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El primogénito de Alejandro Fernández, Alex, reveló junto a su esposa el género del bebé que esperan; así reaccionó El Potrillo. "
 image: "/uploads/2021/images-alex-fernandez-esposa-convertiran-padres.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alex Fernández y su esposa revelan el género del bebé que esperan; así reaccionó 'El Potrillo'"
 front: false
 section: "Espectáculos"
-news_id: 188767
+redirect_from: /news/188767
 ---
 
 Hace unas semanas Alex Fernández y su esposa Alexia Hernández dieron a conocer que se encuentran en la dulce espera y en unos meses se convertirán en padres por primera vez. Ahora la pareja realizó la revelación del género de su bebé y compartieron este emotivo momento junto con su familia. En Instagram, Alex Fernández compartió unas fotos y el video del momento en el que él, su esposa, así como su familia descubrieron en género del bebé que esperan. Al parecer, este evento se llevo a cabo en el rancho de la dinastía Fernández en donde se reunieron para la revelación.

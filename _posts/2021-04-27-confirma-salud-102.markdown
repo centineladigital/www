@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Hospital General de Juárez se reporta al 97% de capacidad, el Central de Chihuahua al 91% el Issste de Delicias al 80% y el Issste Lázaro Cárdenas al 62%, como los de mayor ocupación"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Confirma Salud 102 nuevos casos de COVID-19 en el estado, suman 63,802"
 front: false
 section: "Local"
-news_id: 184131
+redirect_from: /news/184131
 ---
 
 En el Reporte COVID-19, Conferencia Informativa #397, Virtual #357, la Secretaría de Salud del Gobierno del Estado confirmó 102 casos para alcanzar un total general en el estado de Chihuahua de 63 mil 802, mientras que las personas fallecidas suman 6 mil 457 con 24 nuevos decesos.

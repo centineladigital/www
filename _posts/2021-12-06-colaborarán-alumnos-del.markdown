@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Contarán chihuahuenses con tecnología  fabricada en el estado para su seguridad"
 image: "/uploads/2021/images-unnamed_(11).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Colaborarán alumnos del TEC NM Chihuahua con Gobierno del Estado con creación de herramientas digitales en reforzamiento de la seguridad"
 front: false
 section: "Local"
-news_id: 190564
+redirect_from: /news/190564
 ---
 
 En atención al compromiso del Gobierno del Estado de mantener la seguridad de los chihuahuenses como uno de los ejes rectores de esta administración estatal, la gobernadora del Estado, Maru Campos Galván, llevó a cabo la firma de un convenio entre el Estado a través de la Secretaría de Seguridad Púbica del Estado (SSPE) y el Tecnológico Nacional de México Campus Chihuahua con el fin de brindar a los alumnos de esta institución, prácticas profesionales en pro de la seguridad de las y los chihuahuenses.

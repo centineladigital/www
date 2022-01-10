@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Vale la pena esperar ya que el futuro del Estado está el peligro"
 image: "/uploads/2021/images-Santini.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta CCE a votar y ser parte de la fiesta electoral "
 front: false
 section: "Local"
-news_id: 184876
+redirect_from: /news/184876
 ---
 
 El presidente del Consejo Coordinador Empresarial, acudió a emitir su voto, en la Escuela Primaria Adolfo Barranco, donde aprovecho para invitar al sector industrial así como a la sociedad en general a emitir su voto y ser parte de esta actividad democrática. 

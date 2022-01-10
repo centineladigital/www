@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Este procedimiento evita que se tenga que realizar una cirugía a corazón abierto en pacientes de alto riesgo."
 image: "/uploads/2021/images-Foto_599-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza IMSS Sinaloa técnica de alta especialidad para reemplazo de válvula aórtica en Hospital General Regional No. 1"
 front: false
 section: "Local"
-news_id: 191289
+redirect_from: /news/191289
 ---
 
 Gracias a la intervención de todo un equipo multidisciplinario altamente especializado del Hospital General Regional (HGR) No. 1 del Instituto Mexicano del Seguro Social (IMSS) en Culiacán, Sinaloa, se comenzó a aplicar la técnica conocida como Implante Percutáneo de Prótesis Aórtica o TAVI (por sus siglas en inglés), informó el médico José Luis Triano Doroteo.

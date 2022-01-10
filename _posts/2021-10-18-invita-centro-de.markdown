@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ofrece a especialidades en Investigación Educativa, así como Planificación y Administración Educativa; preinscripciones del 18 de octubre de 2021 al 21 de enero de 2022 para iniciar clases el 5 de febrero del próximo año"
 image: "/uploads/2021/images-CID-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Centro de Investigación y Docencia  a estudiar maestría en Educación"
 front: false
 section: "Local"
-news_id: 188861
+redirect_from: /news/188861
 ---
 
 El Centro de Investigación y Docencia (CID), invita a profesionistas que se desempeñan en el campo educativo, en áreas de docencia, investigación, difusión o administración educativa, a preinscribirse a partir de este 18 de octubre y hasta el 21 de enero del próximo año, en la Maestría en Educación, en las especialidades de Investigación Educativa y Planificación y Administración Educativa.

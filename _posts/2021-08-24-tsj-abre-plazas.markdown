@@ -10,11 +10,11 @@ author: nil
 description: "Abrirán para 18 jueces y juezas convocatoria."
 image: "/uploads/2021/images-LUIS_VILLEGAS.jpg"
 video: "/uploads/2021/videos-MM04_LUIS_VILLEGAS.mp4"
-audio: "nil"
+audio: nil
 alt: "TSJ abre plazas para reforma laboral"
 front: false
 section: "Local"
-news_id: 187068
+redirect_from: /news/187068
 ---
 
 La convocatoria para plazas para poder llevar a cabo las adecuaciones que tendrá el Supremo Tribunal de Juticia será lanzada el próximo mes, según fue dado a conocer por parte del magistrado Luis Villegas Montes.

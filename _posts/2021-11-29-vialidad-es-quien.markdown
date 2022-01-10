@@ -10,11 +10,11 @@ author: nil
 description: "Fiscalía decomisará en caso de que se cometan algún tipo de ilícito."
 image: "/uploads/2021/images-ROBERTO_FIERRO.jpg"
 video: "/uploads/2021/videos-ML01_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Vialidad es quien determina validez de placas y engomados, no organizaciones"
 front: false
 section: "Local"
-news_id: 190315
+redirect_from: /news/190315
 ---
 
 Las placas y engomados solamente los puede determinar vialidad, señaló el Fiscal General de Chihuahua, Roberto Fierro Duarte. Esto al ser cuestionado respecto a los señalamientos de diversas organizaciones que aseveran que las unidades de procedencia extranjera podrán circular en el territorio estatal.

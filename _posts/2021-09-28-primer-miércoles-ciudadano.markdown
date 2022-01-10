@@ -18,11 +18,11 @@ author: nil
 description: "El alcalde estará atendiendo las necesidades de la comunidad "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_13.30.18.jpeg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-09-28_at_13.35.32.mp4"
-audio: "nil"
+audio: nil
 alt: "Primer miércoles ciudadano este 29 de septiembre de 2021"
 front: false
 section: "Local"
-news_id: 188154
+redirect_from: /news/188154
 ---
 
 El presidente Marco Bonilla señaló, que está entusiasmado ya que el próximo miércoles 29 de septiembre se llevará a cabo el primer Miércoles Ciudadano, a fin de que la comunidad exponga las necesidades de sus respectivas colonias, así como hacer peticiones que contribuyan a mejorar el entorno en el que viven.

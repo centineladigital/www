@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Kate del Castillo escribió una carta al director de la empresa que será la nueva propietaria del Miami Seaquarium, lugar donde se encuentra la orca Lolita. "
 image: "/uploads/2021/images-kate-castillo-mando-carta-empresario.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Kate del Castillo pide liberación de la orca 'Lolita', cautiva desde hace 50 años"
 front: false
 section: "Espectáculos"
-news_id: 189276
+redirect_from: /news/189276
 ---
 
 Kate del Castillo, quien hace unos años estuvo enla polémica por su encuentro con El Chapo Guzmán, escribió este miércoles una carta al director ejecutivo de la empresa que va a ser la nueva propietaria del Miami Seaquarium para que le dé a la orca Lolita, cautiva desde hace 51 años en ese recinto, la oportunidad de nadar en libertad junto a su familia. La carta fue difundida por la sección latina de PETA (Personas por un Trato Ético hacia los Animales) que lleva años reclamando la liberación de Lolita y promueve la petición a través de sus redes sociales.  

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Merkel, todavía con altas cuotas de popularidad, pone fin a 31 años de carrera política, la mitad de ellos al frente de la primera economía europea. "
 image: "/uploads/2021/images-socialdemocrata-olaf-scholz-reacciona-elegido_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Olaf Scholz toma protesta como canciller de Alemania; sucede a Angela Merkel"
 front: false
 section: "Internacional"
-news_id: 190706
+redirect_from: /news/190706
 ---
 
 El parlamento de Alemania eligió a Olaf Scholz como el noveno canciller del país desde la Segunda Guerra Mundial, y dio comienzo a una nueva era en el país más poblado de la Unión Europea, tras los 16 años de mandato de Angela Merkel. 

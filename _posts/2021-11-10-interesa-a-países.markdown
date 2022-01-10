@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El canciller enfatizó que la solicitud del presidente López Obrador acerca de que la motivación principal de la cooperación internacional sean la fraternidad y el bienestar fue bien recibida durante la sesión del Consejo de Seguridad de la ONU"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Interesa a países construir plan de fraternidad y bienestar propuesto por AMLO ante ONU -  Ebrard"
 front: false
 section: "Nacional"
-news_id: 189734
+redirect_from: /news/189734
 ---
 
 El secretario de Relaciones Exteriores, Marcelo Ebrard detalló que tras la primera sesión del Consejo de Seguridad de la Organización de las Naciones Unidas (ONU), en la que participó el presidente Andrés Manuel López Obrador, hay interés de 47 países en construir un plan de fraternidad y bienestar para más de 750 millones de personas en el mundo que viven en condiciones de precariedad.

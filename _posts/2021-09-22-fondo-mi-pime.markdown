@@ -16,11 +16,11 @@ author: nil
 description: "Dará apoyo a emprendedores de Chihuahua "
 image: "/uploads/2021/images-Captura_de_pantalla_2021-01-11_a_la(s)_12.53.18.png"
 video: "/uploads/2021/videos-BW04_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "Fondo MI PIME se presentará en febrero "
 front: false
 section: "Local"
-news_id: 187969
+redirect_from: /news/187969
 ---
 
 El Alcalde Marco Bonilla confirmó la realización del fondo Mi PIME Chihuahua, el cual tendrá presentación en  febrero del próximo año, el alcalde afirmó que este fondo incluye una inversión inicial de 100 millones de pesos entre las sociedades financieras y el gobierno municipal, con créditos a baja tasa de interés a mediano plazo.

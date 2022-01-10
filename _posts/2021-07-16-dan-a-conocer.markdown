@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "A partir del lunes 19 se habilitará un Call Center en el número telefónico (614) 4293300, extensiones 21012, 21013 y 21061 para atender dudas y brindar asesorías."
 image: "/uploads/2021/images-RESULTADOS_(3).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dan a conocer listado de planteles con espacios disponibles en nivel medio superior"
 front: false
 section: "Local"
-news_id: 185750
+redirect_from: /news/185750
 ---
 
 Tras publicarse los resultados del examen de ingreso al nivel medio superior, la Secretaría de Educación y Deporte (SEyD) garantiza un lugar para todas y todos los aspirantes que busquen continuar sus estudios de bachillerato, por lo que dio a conocer los planteles con disponibilidad de espacios.

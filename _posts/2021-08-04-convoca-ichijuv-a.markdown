@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Dirigido al grupo de entre 12 y 29 años de edad, el programa intercala actividades presenciales y virtuales a partir del 7 de agosto en Aldama; clausura será en la ciudad de Chihuahua el día 27"
 image: "/uploads/2021/images-INVITACIÓN_ENCUENTRO_JUVENTUDES_2021_(2).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Convoca Ichijuv a participar en el Encuentro de Juventudes 2021"
 front: false
 section: "Local"
-news_id: 186304
+redirect_from: /news/186304
 ---
 
 El Instituto Chihuahuense de la Juventud (Ichijuv) invita a las personas de entre 12 y 29 años a participar en las actividades presenciales y virtuales del Encuentro de Juventudes (EJ) 2021. Lo anterior, en el marco del Día Internacional de la Juventud celebrado cada 12 de agosto, y que en el estado se ha convertido en un evento insignia del Gobierno del Estado en materia de atención a este sector de la población.

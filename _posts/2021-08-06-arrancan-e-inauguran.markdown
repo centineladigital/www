@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Gracias al programa Desarrollo, Paz y Reencuentro, de 2019 a lo que va del 2021, se han invertido cinco millones 419 mil 715.7 pesos en ese municipio"
 image: "/uploads/2021/images-1.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arrancan e inauguran obras en Valle de Zaragoza por 3.3 mdp  del Fondo de Reparación Justicia para Chihuahua"
 front: false
 section: "Local"
-news_id: 186392
+redirect_from: /news/186392
 ---
 
 Con inversión de 3 millones 351 mil 842.77 pesos de recursos del Fondo de Reparación Justicia para Chihuahua, Gobierno del Estado, a través de la Secretaría de Desarrollo Municipal (Sedemun) y como parte del programa Desarrollo, Paz y Reencuentro, en coordinación con autoridades del Ayuntamiento de Valle de Zaragoza, se desarrollaron distintas obras en tres comunidades.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Chihuahua será la última entidad en vacunar a los profesores y docentes, ello debido a datos técnicos, aseveró el doctor López Gatell"
 image: "/uploads/2021/images-Analizan_clases_presenciales.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Analizan regreso a clases presenciales"
 front: false
 section: "Local"
-news_id: 184321
+redirect_from: /news/184321
 ---
 
 El gobernador Javier Corral sostuvo una reunión virtual con la secretaria de Gobernación, Olga Sánchez Cordero y otros gobernadores con la finalidad de analizar las posibilidades del regreso presencial a clases.

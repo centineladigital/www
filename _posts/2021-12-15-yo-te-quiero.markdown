@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Para el Gobierno Municipal es prioritario la salud mental y emocional de los chihuahuenses"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Yo te quiero vivo! Aumentan acciones para prevenir el suicidio"
 front: false
 section: "Local"
-news_id: 190897
+redirect_from: /news/190897
 ---
 
 El Gobierno Municipal, a través del Centro de Atención y Prevención Psicológicas (CAPPSI) ofrece múltiples servicios de atención psicológica destinados a la oportuna detección y prevención de riesgo de suicidio en el municipio de Chihuahua.

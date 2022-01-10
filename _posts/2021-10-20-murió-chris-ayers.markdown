@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Chris Ayers, actor de doblaje quien dio voz a Freezer en Dragon Ball Super murió a los 56 años tras una enfermedad pulmonar. "
 image: "/uploads/2021/images-el-actor-de-doblaje-murio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Chris Ayers, voz de Freezer en 'Dragon Ball Super'"
 front: false
 section: "Espectáculos"
-news_id: 188958
+redirect_from: /news/188958
 ---
 
 El mundo del doblaje está de luto, a los 56 años murió Chris Ayers, quien durante varios años prestó su voz a diferentes personajes de anime, pero el más reconocido fue a Freezer en Dragon Ball Super. Hasta el momento se sabe que la causa del fallecimiento del actor de doblaje estadunidense es una enfermedad pulmonar crónica que padecía. La noticia de la muerte de Chris Ayers fue confirmada por la actriz Krystal LaPorte, quien era pareja del actor de doblaje. Fue a través de Twitter que LaPorte publicó un emotivo mensaje para despedirse del histrión. 

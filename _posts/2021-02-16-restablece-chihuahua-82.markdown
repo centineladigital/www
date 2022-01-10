@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Informa la Junta Central de Agua y Saneamiento el reporte sobre el servicio en distintas regiones del estado luego de la contingencia climatológica y los cortes en el suministro de energía eléctrica"
 image: "/uploads/2021/images-JCAS.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Restablece Chihuahua 82% el servicio de agua y Ciudad Juárez el 50%"
 front: false
 section: "Local"
-news_id: 182950
+redirect_from: /news/182950
 ---
 
 En Juárez no se ha logrado restablecer el suministro de energía eléctrica en toda la ciudad y por ende tampoco el servicio de agua potable, informó el director ejecutivo de la Junta Central de Agua y Saneamiento (JCAS), Oscar Ibáñez Hernández.

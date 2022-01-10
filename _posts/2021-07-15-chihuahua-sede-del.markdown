@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se reunen secretarios de diversos estados para tratar el tema de la cultura."
 image: "/uploads/2021/images-DELIO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ04_DELIO_CARRILLO.mp4"
 alt: "Chihuahua sede del II Encuentro Interestatal de Cultura"
 front: false
 section: "Local"
-news_id: 185709
+redirect_from: /news/185709
 ---
 
 Este jueves Chihuahua fue sede del II Encuentro Interestatal de Cultura que se llevó a cabo en la Plaza Cultural Los Laureles, este encuentro forma parte de las reuniones de una Asociación de secretarios de Cultura a nivel nacional que busca colocar en un lugar preponderante a esta área.

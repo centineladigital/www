@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Al momento, el cantante se mantiene estable y sin una evolución negativa. "
 image: "/uploads/2021/images-vic.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tenemos buenas expectativas -  Vicente Fernández Jr, sobre salud de 'Don Chente'"
 front: false
 section: "Espectáculos"
-news_id: 186569
+redirect_from: /news/186569
 ---
 
 Vicente Fernández sigue hospitalizado. El cantante permanece en el nosocomio desde el pasado fin de semana tras una caída en su rancho 'Los tres potrillos', por lo que tuvo que someterse a una operación y actualmente está bajo terapia intensiva: intubado y semi sedado, según los últimos reportes brindados por parte de su familia. 

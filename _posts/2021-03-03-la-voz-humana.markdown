@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El corto se estrenó en el Festival de Cine de Nueva York en septiembre y en febrero fue seleccionado como semifinalista para competir por el Oscar al mejor 'short film'. "
 image: "/uploads/2021/images-the-human-voice-almodovar-llegara.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'La voz humana' de Almodóvar llegará a cines el próximo 12 de marzo"
 front: false
 section: "Espectáculos"
-news_id: 183249
+redirect_from: /news/183249
 ---
 
 El más reciente cortometraje de Pedro Almodóvar, La voz humana o The Human Voice llegará a las salas de cine de Estados Unidos el próximo 12 de marzo, acompañado de una versión restaurada del clásico del cineasta Mujeres al borde de un ataque de nervios, así lo confirmó la productora Sony en un comunicado. El texto señala que la cinta podrá verse en selectas salas de cine de Nueva York, Miami, Chicago, San Francisco y Los Ángeles, y que más tarde se estrenará además en otros cines independientes, aunque no dio una fecha para esta segunda fase de la distribución. 

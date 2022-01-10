@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz francesa puso en marcha la edición 69 del reconocido certamen fílmico, que también incluyó a otras estrellas como Penélope Cruz y Antonio Banderas. "
 image: "/uploads/2021/images-penelope-cruz-entrego-premio-marion_0_18_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Penélope Cruz entrega premio a Marion Cotillard en festival de San Sebastián en España"
 front: false
 section: "Espectáculos"
-news_id: 187850
+redirect_from: /news/187850
 ---
 
 La oscarizada actriz francesa Marion Cotillard fue la gran protagonista esta noche de la inauguración de la 69 edición del Festival Internacional de cine de San Sebastián, España. La inolvidable intérprete de “La vie en rose” (La vida en rosa), película en la que encarnó como nadie a la mítica cantante francesa Edith Piaf, recibió en la ceremonia inaugural del certamen el Premio Donostia, el principal galardón honorífico que el festival del puerto vasco entrega a una destacada carrera cinematográfica y que en unos pocos días recibirá también Johnny Depp. 

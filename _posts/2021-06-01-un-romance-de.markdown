@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Si gastó 3 millones en ese anillo es porque tiene 30 millones para darle una buena vida, dijo la vedette sobre el anillo que le entregó el cantante a la actriz. "
 image: "/uploads/2021/images-la-vedette-hablo-sobre-el.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Un romance de adolescentes -  Niurka sobre el compromiso de Christian Nodal y Belinda"
 front: false
 section: "Espectáculos"
-news_id: 184772
+redirect_from: /news/184772
 ---
 
 Luego de que Christian Nodal sorprendió a todo México al proponerle matrimonio a Belinda, las noticias sobre la pareja no han parado, pues desde el lujoso restaurante en que el cantante de música regional entregó el anillo hasta lo que opinan las familias de ambos sobre el compromiso han sido aspectos de interés público.  Además, otros famosos se han pronunciado al respecto, tal es el caso de El Capi Pérez y Daniela Lujan.  Pero la más reciente celebridad que habló sobre dicho romance fue Niurka. 

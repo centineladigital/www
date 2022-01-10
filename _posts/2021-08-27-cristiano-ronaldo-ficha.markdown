@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El conjunto de la Premier League anunció de manera oficial un acuerdo de traspaso por el futbolista portugués "
 image: "/uploads/2021/images-cristiano-ronaldo-volver-manchester-united_0_61_1199_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cristiano Ronaldo ficha con el Manchester United -  Bienvenido a casa, Rey"
 front: false
 section: "Deportes"
-news_id: 187185
+redirect_from: /news/187185
 ---
 
 El mercado de fichajes continúa a todo lo que da. Cristiano Ronaldo volverá a defender los colores del Manchester United en la Premier League, así lo anunció el club de manera oficial este viernes.  

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Al momento, el cantante no se ha pronunciado respecto a la polémica grabación. "
 image: "/uploads/2021/images-el-cantante-preocupo-a-sus.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Qué le pasó? Marc Anthony realiza gestos extraños durante concierto; alarma a sus fans"
 front: false
 section: "Espectáculos"
-news_id: 191097
+redirect_from: /news/191097
 ---
 
 Marc Anthony había dado de qué hablar en los últimos meses por  acciones bondadosas que ha realizado en sus conciertos, por ejemplo la ocasión que subió a una abuelita a bailar en uno de sus shows o el día que le cantó a un niño con discapacidad visual. Ahora volvió a ser el centro de atención pero por algo inusual, pues durante un evento a principios de diciembre uno de sus fans lo grabó haciendo extraños movimientos con la mandíbula. 

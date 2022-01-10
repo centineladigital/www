@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Después de un año y medio de permanecer cerradas debido a la pandemia.  "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-06_at_10.22.46.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reabre UACH clínicas de Odontología"
 front: false
 section: "Local"
-news_id: 188426
+redirect_from: /news/188426
 ---
 
 Luego de cumplir con todos los protocolos de seguridad que exigen las autoridades sanitarias, este lunes 4 de octubre, la Facultad de Odontología de la Universidad Autónoma de Chihuahua reabrió las clínicas de atención bucodental, después de un año y medio de permanecer cerradas debido a la pandemia.

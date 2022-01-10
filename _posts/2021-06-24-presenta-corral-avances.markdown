@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Presenta acciones para beneficio de Chihuahua."
 image: "/uploads/2021/images-CORRAL1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ03.mp3"
 alt: "Presenta Corral avances por su viaje al DF"
 front: false
 section: "Local"
-news_id: 185229
+redirect_from: /news/185229
 ---
 
 Este jueves el Gobernador del Estado, Javier Corral Jurado, dio a conocer las acciones que llevó a cabo dentro del viaje a la Ciudad de México. Entre estas se tuvo una reunión con el Secretario de Hacienda donde dio seguimiento a los acuerdos para el apoyo de edificación de obras, donde en estos días se recibirá el apoyo.

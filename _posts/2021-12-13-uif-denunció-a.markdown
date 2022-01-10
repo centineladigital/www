@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En seis años los cargos mensuales del ex director de Pemex pasaron de 200 mil a un millón de pesos, incluida la compra de unas copas francesas por 87 mil pesos, según la investigación."
 image: "/uploads/2021/images-emilio-lozoya-sale-hospital-cdmx_0_27_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "UIF denunció a Lozoya por tarjetazos de 26 mdp"
 front: false
 section: "Nacional"
-news_id: 190774
+redirect_from: /news/190774
 ---
 
 La Unidad de Inteligencia Financiera (UIF) documentó excesos y lujos de Emilio Lozoya, ex director de Pemex, por más de 26 millones de pesos en seis años, según consta en una denuncia presentada ante la Fiscalía General de la República. 

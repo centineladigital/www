@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ex pareja enfrenta sentencia de 37 años por el delito de desaparición cometida por particulares"
 image: "/uploads/2021/images-Infografía_búsqueda_mujer_desaparecida_.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Comisión de Búsqueda sigue la búsqueda de mujer desaparecida por su ex pareja en el 2019"
 front: false
 section: "Local"
-news_id: 186888
+redirect_from: /news/186888
 ---
 
 La Comisión de Búsqueda de Chihuahua en coordinación con la Fiscalía Especializada de la Mujer, continúa con la búsqueda de la joven mujer Azucena Vázquez Villa, quien se encuentra en calidad de desaparecida desde el año 2019.

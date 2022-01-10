@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Acercan programas a personas de comunidades vulnerables."
 image: "/uploads/2021/images-MARCO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML05_MARCO_PIZARRO.mp4"
 alt: "Realiza CEDH Conversatorio sobre Derechos Humanos en Guadalupe y Calvo"
 front: false
 section: "Local"
-news_id: 190555
+redirect_from: /news/190555
 ---
 
 Con el fin de dialogar para que autoridades indígenas conozcan las acciones que se lleva cabo dentro de la Comisión Estatal de los Derechos Humanos de Chihuahua, se llevó a cabo un Conversatorio con autoridades indígenas y población de Guadalupe y Calvo.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 asciende a 8 mil 90 y este día se agregan tres nuevos decesos correspondientes a los municipios de Juárez (+1) y Parral (+2)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 65 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 189080
+redirect_from: /news/189080
 ---
 
 El Gobierno del Estado a través de la Secretaría de Salud de Chihuahua, presenta este 22 de octubre el reporte Covid-19, el cual presenta 80 mil 289 (+65) personas confirmadas al virus SARS-COV2, 69 mil 964 (+156) casos recuperados, 73 mil 263 (+229) descartados y 862 (+73) casos sospechosos.

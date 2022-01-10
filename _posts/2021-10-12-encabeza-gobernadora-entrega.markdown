@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el cual se distingue y reconoce la labor periodística de los profesionales de la comunicación de nuestra entidad.   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza Gobernadora entrega del Premio Estatal de Periodismo"
 front: false
 section: "Local"
-news_id: 188664
+redirect_from: /news/188664
 ---
 
 La gobernadora del Estado, Maru Campos Galván, acompañó a los galardonados con el Premio Estatal de Periodismo “José Vasconcelos”, otorgado por el Foro Estatal de Periodistas de Chihuahua, con el cual se distingue y reconoce la labor periodística de los profesionales de la comunicación de nuestra entidad.

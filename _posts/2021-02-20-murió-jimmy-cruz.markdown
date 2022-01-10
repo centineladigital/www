@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jimmy Cruz, vocalista de Zona Rika murió este 19 de febrero. Trascendió la noticia de que fue asesinado. "
 image: "/uploads/2021/images-jimmy-cruz-formo-agrupacion-zona.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Jimmy Cruz, vocalista del grupo Zona Rika"
 front: false
 section: "Espectáculos"
-news_id: 183073
+redirect_from: /news/183073
 ---
 
 Jimmy Cruz, vocalista del grupo de merengue Zona Rika, murió este viernes presuntamente a causa de covid-19, informaron a MILENIO personas cercanas al artista, aunque trascendió que habría sido asesinado a balazos en el municipio de Ecatepec, Estado de México. Se presumen que el artista fue atacado en la colonia Jardines de Morelos cuando salía de un domicilio y desde una motoneta le dispararon en varias ocasiones, no obstante, gente que lo conocía comentó que de acuerdo con la familia de Jimmy, éste tenía coronavirus. 

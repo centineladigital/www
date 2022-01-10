@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La empresaria recibió la propuesta de matrimonio durante un viaje que realizó con Reum a una isla privada de la familia. "
 image: "/uploads/2021/images-paris-hilton-anuncia-compromiso-carter_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Habrá boda! Paris Hilton anuncia su compromiso con Carter Reum"
 front: false
 section: "Espectáculos"
-news_id: 182993
+redirect_from: /news/182993
 ---
 
 Paris Hilton volvió a dejar a sus seguidores sin palabras tras anunciar que muy pronto llegará al altar con su novio, Carter Reum, quien le propuso matrimonio el pasado 13 de febrero; sin embargo, fue hasta este miércoles que la modelo y socialité dio a conocer la feliz noticia en sus redes sociales con un emotivo video.  La empresaria recibió la propuesta de matrimonio durante un viaje que realizó con Reum a una isla privada de la familia con motivo de su cumpleaños número 40; aquí te contamos todos los detalles del compromiso de Paris Hilton.

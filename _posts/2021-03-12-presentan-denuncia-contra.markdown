@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Señala que se ha dado golpeteo por parte de Luis Villegas Montes."
 image: "/uploads/2021/images-JORGE_ESPINOZA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV02_JORGE_ESPINOZA.mp3"
 alt: "Presentan denuncia contra Magistrado"
 front: false
 section: "Local"
-news_id: 183400
+redirect_from: /news/183400
 ---
 
 El Consejero Jurídico del Gobierno del Estado señaló que fue presentado una denuncia en contra del Consejero Luis Villegas Montes, con lo que se busca que el integrante el Poder Judicial deje de llevar a cabo declaraciones en contra de la actual administración, según lo dio a conocer Jorge Espinoza Cortés.

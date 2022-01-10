@@ -16,11 +16,11 @@ author: nil
 description: "Mejor iluminación y sistema de monitoreo "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-11_at_11.20.47.jpeg"
 video: "/uploads/2021/videos-BL02_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se construirán paraderos dignos para usuarios de transporte público"
 front: false
 section: "Local"
-news_id: 188607
+redirect_from: /news/188607
 ---
 
 El municipio tiene pensado construir paraderos dignos para los usuarios del transporte público, los cuales tengan techos, áreas de carga para celulares , también que estén iluminados y tengan video vigilancia, así lo asintió el alcalde Marco Bonilla.

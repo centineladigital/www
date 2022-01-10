@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Entregan la segunda dosis para trabajadores de salud."
 image: "/uploads/2021/images-medico.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ03_MEDICO.mp3"
 alt: "Inicia segunda face de vacuna Pfizer"
 front: false
 section: "Local"
-news_id: 183026
+redirect_from: /news/183026
 ---
 
 Este jueves dio inicio la segunda fase de vacunación Pfizer, esto a personal encargado de la atención a pacientes contagiados de coronavirus. Esto tras recibir 21 mil 900 dosis que se aplicarán en 30 hospitales que atienden esta enfermedad.

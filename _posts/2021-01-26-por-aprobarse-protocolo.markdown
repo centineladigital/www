@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Por parte de la dirección de Gobernación resta revisarlo y en su caso aprobada por la autoridad sanitaria"
 image: "/uploads/2021/images-ddhdf.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AM04_EDIBRAY_GOMEZ.mp3"
 alt: "Por aprobarse protocolo de Canaco para reapertura de casinos"
 front: false
 section: "Local"
-news_id: 182457
+redirect_from: /news/182457
 ---
 
 El presidente de Canaco en Chihuahua, Edibray Gómez Gallegos, informó que en próximos días se reunirán con la autoridad sanitaria Estatal para presentarles un protocolo de reapertura para casinos por lo menos en la ciudad de Chihuahua.

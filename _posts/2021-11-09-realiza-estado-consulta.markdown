@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Buscan transformar la Comisión Estatal para los Pueblos Indígenas en una dependencia promotora del desarrollo de los pueblos originarios"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza  Estado consulta con comunidades indígenas de Ocampo, Guerrero y Guachochi"
 front: false
 section: "Local"
-news_id: 189697
+redirect_from: /news/189697
 ---
 
 La Comisión Estatal para los Pueblos Indígenas (COEPI), llevó a cabo gira de trabajo por Ocampo, en donde se reunió con autoridades tradicionales del pueblo ralámuli de los municipios de Ocampo, Guerrero y Temósachic, para continuar recabando de manera directa las propuestas y requerimientos de las comunidades indígenas.

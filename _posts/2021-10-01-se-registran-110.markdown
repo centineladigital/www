@@ -14,11 +14,11 @@ author: nil
 description: "También se ratificó el aumento en el número de defunciones quedando en 7 mil 968"
 image: "/uploads/2021/images-Sin_título.png"
 video: "/uploads/2021/videos-INFORME_TÉCNICO_COVID19_1_DE_OCTUBRE.3gp"
-audio: "nil"
+audio: nil
 alt: "Se registran 110 nuevos contagios de COVID -19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 188277
+redirect_from: /news/188277
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 1 de Octubre se tiene un total general de 78 mil 261 contagios en el estado. Luego de confirmarse otros 110 más en Juárez, Chihuahua, Delicias, Cuauhtémoc, Nuevo Casas Grandes, Ojinaga, Guachochi, Jiménez, Bocoyna, Meoqui, Saucillo, Guerrero, Allende, Aldama, Guazapares, Ascensión, Santa Barbara, Chinipas, Rosales, Madera, Guadalupe y Calvo, Ocampo, Galeana, Nonoava, Morelos, Urique, Carichi y Batopilas. 

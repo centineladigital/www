@@ -10,11 +10,11 @@ author: nil
 description: "Esperan elevar la calidad de vida de los chihuahuenses."
 image: "/uploads/2021/images-JOSE.jpg"
 video: "/uploads/2021/videos-MV06_JOSE_YAÑEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Inicia construcción de planta tratadora en Guachochi"
 front: false
 section: "Local"
-news_id: 188037
+redirect_from: /news/188037
 ---
 
 Con la construcción de la planta tratadora se busca que el municipio de Guachochi lleve a cabo acciones de conservación del agua, señaló el alcalde José Miguel Yañez Ronquillo, quien dijo que con esto se busca que la gente tena mayor calidad de vida.

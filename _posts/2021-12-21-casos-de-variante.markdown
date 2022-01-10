@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El subsecretario de Salud detalló que el 70 por ciento de las personas contagiadas no se había vacunado contra el coronavirus. "
 image: "/uploads/2021/images-hugo-lopez-gatell-reitero-llamado_0_5_1024_637.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Casos de variante ómicron en México se concentran en 4 estados, afirma López-Gatell"
 front: false
 section: "Nacional"
-news_id: 191056
+redirect_from: /news/191056
 ---
 
 El subsecretario de Salud, Hugo López-Gatell, informó que los casos de la variante ómicron en México se concentran en cuatro estados: Tamaulipas, Sinaloa, Ciudad de México y Estado de México. 

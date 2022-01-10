@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se coordinan los tres órdenes de gobierno para actuar en casos de emergencia y unificar criterios para una adecuada toma de decisiones en beneficio de la población"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Integran  Mesa de Mando Unificado para atender eventualidades por Temporada Invernal 2021-2022"
 front: false
 section: "Local"
-news_id: 190341
+redirect_from: /news/190341
 ---
 
 Integrantes de la Mesa de Mando Unificado de los tres órdenes de gobierno, se reunieron con el objetivo de enfocar esfuerzos, unificar criterios, identificar zonas de riesgo, priorizar trabajos preventivos y generar información oportuna que permita una adecuada toma de decisiones ante cualquier eventualidad.

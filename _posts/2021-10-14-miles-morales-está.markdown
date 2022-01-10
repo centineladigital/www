@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esta película llega tras el rotundo éxito que tuvo la primera parte que le valió para ganar un Premio Oscar para Mejor Película Animada. "
 image: "/uploads/2021/images-spider-man-across-the-spider.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Miles Morales está de regreso! 'Spider-Man Across The Spider-verse' llegará en 2022"
 front: false
 section: "Espectáculos"
-news_id: 188728
+redirect_from: /news/188728
 ---
 
 Dentro del top de las mejores películas de Spiderman, sin duda la versión animada ‘Spider-Man Into The Spider-verse’ se gana una mención honorifica. 

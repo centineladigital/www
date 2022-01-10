@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ingreso del Frente Frío 36 por Juárez durante la por la noche del martes y madrugada del miércoles mantiene posibilidades de aguanieve en Juárez y en la capital con lluvias; atienden albergues de Juárez a 58 personas"
 image: "/uploads/2021/images-WhatsApp_Image_2021-02-14_at_10.48.58_AM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Actualización reporte climatológico -  abren carreteras, seguirá el ambiente frío"
 front: false
 section: "Local"
-news_id: 182931
+redirect_from: /news/182931
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que se espera el ingreso del Frente Frío 36 por Juárez durante la por la noche del martes y madrugada del miércoles, por lo cual podría haber agua nieve durante ese día por la mañana.

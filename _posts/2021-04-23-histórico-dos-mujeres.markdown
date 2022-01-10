@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La directora de Nomadland, Chloe Zhao, y la de Promising Young Woman, Emerald Fennell, se convirtieron en la novena y décima mujeres en ser nominadas para el premio principal del Sindicato de Directores de Estados Unidos."
 image: "/uploads/2021/images-historico-premios-oscar-nominan-mujeres.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Histórico! Dos mujeres van por estatuilla a Mejor Director en Premios Oscar 2021"
 front: false
 section: "Espectáculos"
-news_id: 184073
+redirect_from: /news/184073
 ---
 
 Los Premios Oscar 2021 están cada vez más cerca y aunque todo será diferente debido a la pandemia por coronavirus, covid-19, en esta ceremonia hay algo histórico. A un año después de haber dejado fuera a las mujeres de su lista principal, los directores de Hollywood incluyeron a dos realizadoras entre los cinco nominados a su mayor premio. Por primera vez en las siete décadas de su historia, hay dos mujeres que lucharán por la estatuilla a Mejor Director. Te contamos quiénes son.  La directora de "Nomadland", Chloe Zhao, y la de "Promising Young Woman", Emerald Fennell, se convirtieron en la novena y décima mujeres en ser nominadas para el premio principal del Sindicato de Directores de Estados Unidos (DGA, por sus siglas en inglés). "Felicito a nuestros cinco nominados cuyas diversas y extraordinarias películas encarnaron este poder universal en un año que jamás será olvidado", afirmó el presidente del DGA, Thomas Schlamme, en un comunicado. 

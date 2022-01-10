@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "A través de un comunicado se informó que Vicente Fernández tendrá su serie, la cual aún no se sabe quién será le protagonista, pero será transmitida en Netflix."
 image: "/uploads/2021/images-aun-se-desconoce-cuando-la.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Llegará a Netflix! Vicente Fernández tendrá bioserie"
 front: false
 section: "Espectáculos"
-news_id: 187934
+redirect_from: /news/187934
 ---
 
 En días pasados surgió el rumor que habría una serie que contaría la historia de Vicente Fernández y que el encargado de dar vida en la pantalla chica al Charro de Huentitán sería Alejandro Speitzer y para acabar con dichas especulaciones se confirmó que muy pronto se empezará a grabar la producción que será transmitida por Netflix. 

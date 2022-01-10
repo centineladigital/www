@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Sus declaraciones son en torno de personas que están alrededor de César Duarte."
 image: "/uploads/2021/images-BONILLA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV04_MARCO_BONILLA.mp3"
 alt: "Respeto totalmente a la mujer -  Bonilla"
 front: false
 section: "Local"
-news_id: 184594
+redirect_from: /news/184594
 ---
 
 “Respeto profundamente a la mujer” fueron las palabras del candidato del Partido Acción Nacional, Marco Antonio Bonilla Mendoza, al ser cuestionado respecto a la disculpa pública que solicitó Lucía Chavira por las declaraciones en torno a su persona.

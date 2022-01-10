@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El secretario de Seguridad Nacional de ese país, Alejandro Mayorkas, hizo esta petición tras el alto flujo de migrantes, principalmente haitianos, en Texas. "
 image: "/uploads/2021/images-migrantes-haiti-esperan-llegar-unidos_0_27_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No vengan, serán deportados -  EU ante aumento en llegada de migrantes"
 front: false
 section: "Internacional"
-news_id: 187907
+redirect_from: /news/187907
 ---
 
 "No vengan. Las fronteras no están abiertas", fue la respuesta del secretario de Seguridad Nacional de Estados Unidos, Alejandro Mayorkas, ante la llegada de migrantes a Texas, al tiempo que recalcó que quien ingrese a su país de forma ilegal será deportado, eso debido a que muchas personas, en su mayoría de origen haitiano, permanecen en la frontera con México. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Además, el también conductor del programa 'Miembros al aire' le mandó una felicitación a Ruffo, quien hoy cumple años: Madre, te amo."
 image: "/uploads/2021/images-youtuber-hablo-padres-eugenio-derbez.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No hay temor -  José Eduardo Derbez se pronuncia ante polémica entre Eugenio Derbez y Victoria Ruffo"
 front: false
 section: "Espectáculos"
-news_id: 184759
+redirect_from: /news/184759
 ---
 
 Luego de que Victoria Ruffo generó mucha polémica por responderle a su ex pareja, Eugenio Derbez, luego de que él dijo que aunque algo malo pasara con José Eduardo Derbez jamás volvería a hablar con ella, el hijo de ambos se pronunció ante esta discusión.   

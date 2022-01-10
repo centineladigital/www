@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El cierre de registro es el 29 de octubre         "
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúan abiertas inscripciones para el Premio Estatal del Deporte"
 front: false
 section: "Local"
-news_id: 189074
+redirect_from: /news/189074
 ---
 
 Continúa abierta la convocatoria para el registro de candidatos al Premio Estatal del Deporte 2021, que en esta ocasión reparte una bolsa de premiación de 110 mil pesos divididos en partes iguales para el mejor deportista y entrenador chihuahuense.

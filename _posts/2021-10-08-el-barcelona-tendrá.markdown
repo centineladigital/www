@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El conjunto azulgrana jugará en otro estadio; tardará entre 3 o 4 años la remodelación de su inmueble y tendrá 110 mil espectadores "
 image: "/uploads/2021/images-ansu-fati-jugador-del-barcelona_0_20_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El Barcelona tendrá casa temporal mientras el Camp Nou se moderniza"
 front: false
 section: "Deportes"
-news_id: 188516
+redirect_from: /news/188516
 ---
 
 Barcelona jugará en otro estadio hasta por un año cuando el club inicie la modernización del Camp Nou, anunció su presidente Joan Laporta el viernes. Laporta indicó que quiere iniciar la reforma demorada del Camp Nou a mediados de 2022. Las obras tomarán entre tres y cuatro años, pero el conjunto catalán solo jugará en otro estadio durante 12 meses, como máximo.

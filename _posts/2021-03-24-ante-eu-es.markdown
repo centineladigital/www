@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El defensor Johan Vásquez se dijo entusiasmado por disputar su primer duelo de tradición en la zona de Concacaf, dentro del torneo Preolímpico"
 image: "/uploads/2021/images-2550058.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Ante EU es un clásico”, aseguran en el Tri Sub 23"
 front: false
 section: "Deportes"
-news_id: 183531
+redirect_from: /news/183531
 ---
 
 Al interior de la Selección Mexicana Sub 23 el duelo ante Estados Unidos se vive con anticipación. El zaguero Johan Vázquez reconoció la importancia de enfrentar al combinado de las barras y las estrellas en el último encuentro de la fase de grupos del Preolímpico de Concacaf.

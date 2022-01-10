@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente de Rusia promulga la ley que formaliza la retirada de su país del tratado de vigilancia militar Cielos Abiertos, abandonado previamente por EU"
 image: "/uploads/2021/images-2591039.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Formaliza Putin salida de Rusia del tratado de Cielos Abiertos"
 front: false
 section: "Internacional"
-news_id: 184894
+redirect_from: /news/184894
 ---
 
 El presidente ruso Vladimir Putin promulgó este lunes la ley que formaliza la retirada de su país del tratado de vigilancia militar Cielos Abiertos, abandonado previamente por Estados Unidos.

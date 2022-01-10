@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Defensores de los inmigrantes denuncian que las cortes envían correos a direcciones incorrectas, asegurándose de que pocos se presenten a sus audiencias. "
 image: "/uploads/2021/images-en-expectativa-de-deportaciones-masivas.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reportan aumento de órdenes de deportación ‘en ausencia’ contra inmigrantes en EU"
 front: false
 section: "Internacional"
-news_id: 189502
+redirect_from: /news/189502
 ---
 
 Los jueces de inmigración en San Francisco, California, aumentaron en gran medida el número de órdenes de deportación “en ausencia” expedidas contra inmigrantes que no se presentaron a sus audiencias, advirtió este lunes un reporte del periódico San Francisco Chronicle. 

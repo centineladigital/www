@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En las próximas tres horas se pronostican nieblas y/o neblinas en diversos estados del país"
 image: "/uploads/2021/images-frente-frio-4_optimized.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Frente frío 4 se extenderá hoy en estos estados"
 front: false
 section: "Nacional"
-news_id: 188722
+redirect_from: /news/188722
 ---
 
 Para hoy, el frente frío número 4 se extenderá sobre el norte de la México e interaccionará con una línea seca en Coahuila, según pronosticó el Servicio Meteorológico Nacional, dependiente de la Comisión Nacional del Agua (Conagua).

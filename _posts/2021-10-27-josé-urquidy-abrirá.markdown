@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Dusty Baker, manager de Astros, anunció que el pitcher mexicano subirá a la loma este miércoles en el Minute Maid Park."
 image: "/uploads/2021/images-jose-urquidy-pitcher-mexicano-astros_0_58_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "José Urquidy abrirá el segundo juego de la Serie Mundial ante Braves"
 front: false
 section: "Deportes"
-news_id: 189241
+redirect_from: /news/189241
 ---
 
 El manager de los Astros, Dusty Baker, anunció este martes que el derecho mexicano José Urquidy será el abridor del equipo para el segundo partido de la Serie Mundial que van a disputar este miércoles en el Minute Maid Park de Houston contra los Bravos de Atlanta. 

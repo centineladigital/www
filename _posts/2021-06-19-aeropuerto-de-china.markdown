@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El aeropuerto internacional de la ciudad china Shenzhen cancela cientos de vuelos y refuerza los controles sanitarios luego que una trabajadora diera positivo a la variante Delta del coronavirus"
 image: "/uploads/2021/images-2597711.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aeropuerto de China cancela vuelos tras detectar caso de variante Delta"
 front: false
 section: "Internacional"
-news_id: 185124
+redirect_from: /news/185124
 ---
 
 El aeropuerto de Shenzhen, en el sur de China, anuló cientos de vuelos y reforzó este sábado los controles después que una trabajadora de un restaurante diera positivo a la variante Delta del coronavirus.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¿Lo entonó bien? ¿Los mexicanos no entonan de forma correcta el Himno Nacional? El tataranieto del creador del Himno Nacional, Francisco González Bocanegra, salió en defensa de Ángela Aguilar. Esto dijo."
 image: "/uploads/2021/images-tataranieto-francisco-gonzalez-bocanegra-defiende.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿No se equivocó? Tataranieto del creador del Himno Nacional defiende a Ángela Aguilar"
 front: false
 section: "Espectáculos"
-news_id: 184394
+redirect_from: /news/184394
 ---
 
 Ángela Aguilar, famosa cantante e hija de Pepe Aguilar, se vio envuelta en controversia después de entonar el Himno Nacional Mexicano durante su presentación en la pelea de box entre el Canelo Álvarez y Billy Joe Saunders. En medio de las críticas en su contra y peticiones para que la multaran por haber cambiado el tono del símbolo patrio, el tataranieto del creador del Himno Nacional -Francisco González Bocanegra- salió en su defensa. Aseguró que la joven no se equivocó. ¿Quién está mal entonces? En entrevista con Javier Poza, Juan Ortega, tataranieto del creador del Himno Nacional, Francisco González Bocanegra, habló sobre la ya tan criticada interpretación de Ángela Aguilar durante el show deportivo. ¿Ángela Aguilar entonó bien el Himno Nacional? ¿Quiénes están mal? ¿Los mexicanos hemos cantado el Himno Nacional erróneamente? 

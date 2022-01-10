@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se espera que los trabajos concluyan hoy a las 8 pm y para el día de mañana se inicie con la regularización del servicio en algunas colonias de la ciudad "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-11_at_11.31.26.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabaja JMAS en reparación de tubería que suministra agua potable al rebombeo Coronel"
 front: false
 section: "Local"
-news_id: 188591
+redirect_from: /news/188591
 ---
 
 Este lunes la Junta Municipal de Agua y Saneamiento (JMAS) de Chihuahua dio a conocer que el personal técnico del organismo se encuentra trabajando en la reparación de un tramo de tubería de 24 pulgadas de diámetro en la calle 57 casi esquina con av. Lombardo Toledano, la cual se encarga de transportar agua del rebombeo Sacramento al rebombeo Coronel.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de Instagram en donde Laura Bozzo demostró que está tomando de nueva cuenta las riendas de su vida, pues presumió una sesión fotográfica en donde usó ropa de París. "
 image: "/uploads/2021/images-laura-bozzo-presume-ropa-paris.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Como una modelo! Tras salvarse de pisar la cárcel, Laura Bozzo presume sesión fotográfica con ropa de París"
 front: false
 section: "Espectáculos"
-news_id: 190201
+redirect_from: /news/190201
 ---
 
 Laura Bozzo, presentadora de televisión, está más feliz que nunca, luego de que un juez frenara la orden de captura en su contra por delitos fiscales. Y es que la famosa hizo uso de sus redes sociales para presumir varias fotografías como toda una modelo. Desde la regadera –en algunas imágenes– y con ropa de París, la peruana informó que es portada de una revista. Fue a través de Instagram en donde Laura Bozzo demostró que está tomando de nueva cuenta las riendas de su vida, pues presumió una sesión fotográfica en donde usó ropa de París. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Por no haber pagado hasta el momento no se tiene acciones de embargo o negativas."
 image: "/uploads/2021/images-AMANDA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW05_AMANDA_CORDOVA.mp3"
 alt: "No hay apoyos por pandemia en predial"
 front: false
 section: "Local"
-news_id: 182842
+redirect_from: /news/182842
 ---
 
 Aún no se tiene un proyecto de apoyo a cuentas que por la pandemia han pagado el impuesto predial, señaló la titular de la Tesorería en el municipio de Chihuahua, Amanda Córdova. Esto ya que quien se ha visto afectado y debe solamente el predial de este año no se ve afectado gravemente.

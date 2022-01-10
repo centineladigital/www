@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con la finalidad de apoyar a comunidades que se encuentran en alta marginación"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se suma personal de la SEDUE a campaña “Juntos sin Frío”   "
 front: false
 section: "Local"
-news_id: 188978
+redirect_from: /news/188978
 ---
 
 El personal de la Secretaría de Desarrollo Urbano y Ecología (SEDUE), se suma a las actividades que realiza el DIF Estatal con la campaña “Juntos sin Frío”.

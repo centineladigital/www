@@ -10,11 +10,11 @@ author: nil
 description: "Es necesario que servidores públicos se capaciten en el área."
 image: "/uploads/2021/images-CEDH1.jpg"
 video: "/uploads/2021/videos-MJ04_NESTOR_ARMENDARIZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Buscan sensibilizar en materia de atención a víctimas"
 front: false
 section: "Local"
-news_id: 190934
+redirect_from: /news/190934
 ---
 
 Con el fin de que se dé un avance en materia de atención a víctimas la Comisión Estatal de los Derechos Humanos de Chihuahua llevó a cabo un curso con el fin de que servidores públicos cuenten con herramientas de trabajo.

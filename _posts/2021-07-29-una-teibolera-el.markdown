@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La amistad entre las conductoras inició de la manera más inesperada, todo después de un mal comentario de Inés Gómez Mont a Galilea Montijo. "
 image: "/uploads/2021/images-ahora-las-conductoras-ademas-de_67_26_1110_690.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Una teibolera -  El polémico comentario de Inés Gómez Mont a Galilea Montijo que inició su amistad"
 front: false
 section: "Espectáculos"
-news_id: 186096
+redirect_from: /news/186096
 ---
 
 La amistad entre Galilea Montijo e Inés Gómez Mont es una de las más fuertes dentro del mundo del espectáculo, tanto que además de amigas también son comadres, ya quela conductora de Hoy, Galilea, es la madrina de bautizo de la hija más pequeña de Inés. Y aunque ahora son "uña y mugre", el inicio de su amistad no fue de color de rosa. 

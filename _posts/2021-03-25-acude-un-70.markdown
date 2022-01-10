@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto sin contar los municipios de Chihuahua y Juárez."
 image: "/uploads/2021/images-LETICIA_RUIZ.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ03_LETICIA_RUIZ.mp3"
 alt: "Acude un 70 por ciento a vacunación"
 front: false
 section: "Local"
-news_id: 183556
+redirect_from: /news/183556
 ---
 
 Un 70 por ciento de los adultos mayores son los que han acudido a vacunarse, declaró la titular de la Dirección de Medicina Preventiva y Promoción de la Salud Leticia Ruiz González. Quien dijo que según los datos que se tienen registrados dentro del INEGI, es el promedio de vacunación que se lleva a cabo en los diversos municipios donde se inició la fase número uno.

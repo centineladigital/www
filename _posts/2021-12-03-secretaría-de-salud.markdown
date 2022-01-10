@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Ssa elevó a nivel 3 su aviso de viajes internacionales no esenciales, lo que ocurre por primera vez en lo que va de la pandemia de covid-19. "
 image: "/uploads/2021/images-wttc-viajes-negocios-vieron-afectados.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Secretaría de Salud eleva alerta y pide evitar viajes internacionales por variante ómicron"
 front: false
 section: "Internacional"
-news_id: 190458
+redirect_from: /news/190458
 ---
 
 La Secretaría de Salud (Ssa) elevó a nivel 3, por primera vez a lo largo de la pandemia, su aviso para evitar todos los viajes internacionales no esenciales ante alta la probabilidad de contagio con la variante ómicron. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Alexis Francisco Cervantes, jugador de Libertadores de Querétaro y Marcos Sandoval Julián, fueron hallados con vida en el municipio de Venustiano Carranza"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hallan a basquetbolista y a taxista desaparecidos en Michoacán"
 front: false
 section: "Nacional"
-news_id: 191301
+redirect_from: /news/191301
 ---
 
 Michoacán.- La Fiscalía de Michoacán informó que esta madrugada fueron localizados, con vida, el basquetbolista profesional y el taxista, desaparecidos desde el pasado 21 de diciembre.

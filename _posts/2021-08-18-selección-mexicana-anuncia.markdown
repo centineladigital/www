@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Este partido será el cuarto juego de México en su calendario de octubre"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Selección Mexicana anuncia partido amistoso ante Ecuador"
 front: false
 section: "Deportes"
-news_id: 186821
+redirect_from: /news/186821
 ---
 
 La Federación Mexicana de Futbol anunció que el próximo 27 de octubre la Selección Mexicana se medirá a su similar de Ecuador.

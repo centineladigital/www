@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La pelea estaba programada para el 24 de julio, pero debido a que Fury dio positivo a covid-19, se aplazó para el 9 de octubre."
 image: "/uploads/2021/images-wilder-fury-el-de-diciembre.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aplazan fecha de la tercera pelea entre Deontay Wilder y Tyson Fury"
 front: false
 section: "Deportes"
-news_id: 185703
+redirect_from: /news/185703
 ---
 
 El próximo enfrentamiento de la trilogía entre Tyson Fury, campeón del Consejo Mundial de Boxeo y Deontay Wilder, programado para el sábado 24 de julio en T-Mobile Arena en Las Vegas, ha sido aplazado al 9 de octubre. 

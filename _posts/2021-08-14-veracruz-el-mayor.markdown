@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Cada kilogramo que reciban costará 23 centavos más en promedio respecto del precio que prevaleció en la semana del 8 al 14 de agosto"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Veracruz, el mayor estado consumidor de gas LP en cilindros registra segundo aumento de precio"
 front: false
 section: "Nacional"
-news_id: 186699
+redirect_from: /news/186699
 ---
 
 Los mayores consumidores de gas licuado de petróleo (LP) en cilindros metálicos, los veracruzanos, amanecerán este domingo con la noticia de un nuevo incremento de precios de este producto.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hwang Dong-hyuk, director de 'El Juego del Calamar' en Netflix, respondió preguntas sobre la temporada 2 de la serie. "
 image: "/uploads/2021/images-el-juego-del-calamar-netflix.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Director de 'El Juego del Calamar' responde si habrá segunda temporada de la serie"
 front: false
 section: "Espectáculos"
-news_id: 188133
+redirect_from: /news/188133
 ---
 
 Millones de personas a lo largo del mundo ya han visto 'El Juego del Calamar' ('Squid Game'), una serie surcoreana producida por Netflix que se ha convertido en un auténtico fenómeno y que dejó con ganas de más a todo el público.

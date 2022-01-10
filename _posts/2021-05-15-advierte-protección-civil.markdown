@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Para este 15 de mayo se pronostican lluvias principalmente en Jiménez y Manuel Benavides, con actividad eléctrica y caída de granizo; alerta por rachas de viento de hasta 65 km/h y tolvaneras en tramos carreteros"
 image: "/uploads/2021/images-VIENTO_CUU_(5).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Advierte Protección Civil de temperaturas superiores a 30°C  durante sábado y domingo"
 front: false
 section: "Local"
-news_id: 184482
+redirect_from: /news/184482
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que para este sábado 15 de mayo se pronostican lluvias, actividad eléctrica y caída de granizo en el sureste y este del estado, principalmente en Jiménez y Manuel Benavides.

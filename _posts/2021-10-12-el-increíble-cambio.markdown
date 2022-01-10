@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Paola Nuñez marcó toda una generación con su divertido personaje de la 'niña fresa' que todos querían ser."
 image: "/uploads/2021/images-asi-luce-ahora-paola-nunez.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El increíble cambio de 'Barbie Bazterrica' a 16 años de 'Amor en custodia'; así luce ahora la actriz"
 front: false
 section: "Espectáculos"
-news_id: 188624
+redirect_from: /news/188624
 ---
 
 Amor en custodia fue, sin duda alguna, una de las telenovelas más exitosas en los años 2000 en todo México, esto debido a su divertida historia, pero también a su ingualable protagonista 'Barbie' Bazterrica, quien era la 'niña fresa' del momento y fue interpretada por la actriz Paola Nuñez, que no podrás creer cómo luce 16 años despues.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“No creo (que se afecte la autonomía del INE). Ya aceptó el legislador que presentó esta denuncia penal retirar… que buena actitud del presidente de la Cámara de Diputados, dijo el presidente López Obrador"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO celebra que presidente de San Lázaro se desista por denuncia a consejeros del INE"
 front: false
 section: "Nacional"
-news_id: 191294
+redirect_from: /news/191294
 ---
 
 El presidente Andrés Manuel López Obrador celebró que el presidente de la Cámara de Diputados Sergio Gutiérrez Luna (Morena) desistiera de su demanda contra los consejeros del INE que votaron por posponer la revocación de mandato. 

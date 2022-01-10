@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las garitas de Tecate, Andrade y Caléxico East se apegarán a los horarios anunciados por la Oficina de Aduanas y Protección Fronteriza (CBP). "
 image: "/uploads/2021/images-tiempos-espera-frontera-representar-perdida.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncian horarios de reapertura para garitas entre México y California"
 front: false
 section: "Internacional"
-news_id: 189581
+redirect_from: /news/189581
 ---
 
 Tres garitas entre México y California regresarán a su horario habitual con la reapertura de la frontera entre México y Estados Unidos. 

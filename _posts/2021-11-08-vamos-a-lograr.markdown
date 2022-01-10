@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Esta primera etapa de la jornada de vacunación estará disponible para los sectores vulnerables"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vamos a lograr el Sistema de Salud que nos merecemos”; arranca gobernadora vacunación contra influenza"
 front: false
 section: "Local"
-news_id: 189673
+redirect_from: /news/189673
 ---
 
 La gobernadora Maru Campos Galván encabezó, junto con autoridades civiles y miembros del Gabinete, el arranque de la Campaña de Vacunación contra la Influenza Estacional en la temporada invernal 2021-2022, que forma parte de la Segunda Jornada de Salud Pública.

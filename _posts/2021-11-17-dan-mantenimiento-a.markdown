@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal benefició a poblaciones de La Piedra, El Terrero, Aguilares y Soledad de Majalca"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dan mantenimiento a cuatro salones de usos múltiples de comunidades en zona rural"
 front: false
 section: "Local"
-news_id: 189923
+redirect_from: /news/189923
 ---
 
 En los primeros 100 días de trabajo y resultados, el Gobierno Municipal a través de su Programa de Rehabilitación de Pintura en Espacios Públicos de la Dirección de Desarrollo Rural, dio mantenimiento con pintura a cuatro salones de usos múltiples en beneficio de las comunidades de nuestro campo.

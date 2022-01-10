@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se levantaron 378.5 toneladas de basura de las avenidas en noviembre"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atienden barredoras limpieza de más de 10 mil kilómetros de calles de la ciudad"
 front: false
 section: "Local"
-news_id: 190515
+redirect_from: /news/190515
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, realizó la limpieza de un total de 10,034 kilómetros de las principales calles y avenidas de la ciudad, con barredoras mecánicas.

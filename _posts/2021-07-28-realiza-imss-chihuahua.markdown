@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se procuraron hígado, riñones y córneas de un paciente de 16 años que presentó muerte encefálica"
 image: "/uploads/2021/images-Foto_3561-4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza IMSS Chihuahua segunda procuración multiorgánica en Ciudad Juárez "
 front: false
 section: "Local"
-news_id: 186067
+redirect_from: /news/186067
 ---
 
 Especialistas del Instituto Mexicano del Seguro Social (IMSS) realizaron la madrugada de este miércoles en el Hospital General de Zona (HGZ) No. 6 en Ciudad Juárez, la segunda procuración de órganos en la entidad en lo que va de este 2021, después de que se reactivara la actividad habitual del Programa de Trasplantes debido a la COVID-19. 

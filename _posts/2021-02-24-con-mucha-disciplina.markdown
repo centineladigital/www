@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Estoy saliendo de la casa no para andar de fiesta, sino para venir a trabajar y darles un ejemplo a los hijos de entereza y valentía, dijo la actriz al programa 'Ventaneando'. "
 image: "/uploads/2021/images-la-actriz-comenzo-el-con.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con mucha disciplina y mucho cuidado -  Sherlyn habla sobre su regreso a las telenovelas"
 front: false
 section: "Espectáculos"
-news_id: 183133
+redirect_from: /news/183133
 ---
 
 Sherlyn no descansa, pues tras dar a luz al pequeño André y retomar la escuela para lograr una licenciatura en psicología, la actriz regresó al mundo de las telenovelas con sus respectivas precauciones por la pandemia, así lo informó durante una entrevista para el programa Ventaneando. "No quiero traerlo a los llamados (a su hijo), me parece que es un riesgo innecesario. Hoy, por ejemplo, que estuve en contacto, voy por mi hijo y nos vamos a separar de mis papás unos días en lo que vemos que estamos fuera de peligro. Y así, con mucha disciplina y mucho cuidado para cuidar a André, para cuidarme yo y para cuidar a mis papás", dijo sobre cómo se cuida en las grabaciones. 

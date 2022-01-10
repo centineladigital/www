@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“¿Cuál es la esencia?, que la industria eléctrica sea una industria estratégica propiedad de la nación, de todos los mexicanos”, dijo López Obrador en su conferencia mañanera"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO abierto a que legisladores hagan cambios a su reforma eléctrica, pero que mantenga su esencia"
 front: false
 section: "Nacional"
-news_id: 189005
+redirect_from: /news/189005
 ---
 
 El presidente Andrés Manuel López Obrador dijo que está abierto a que los legisladores hagan cambios a su reforma en materia de la industria eléctrica, siempre y cuando se mantenga la esencia de la iniciativa. 

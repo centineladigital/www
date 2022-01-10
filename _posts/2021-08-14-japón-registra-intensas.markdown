@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Más de un millón de personas fueron instadas a evacuar sus viviendas, pues se espera que las precipitaciones continúen durante varios días"
 image: "/uploads/2021/images-equipos-rescate-apoyado-poblacion-japonesa_2_0_1020_634.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Japón registra intensas lluvias; alerta por inundaciones y desprendimientos"
 front: false
 section: "Internacional"
-news_id: 186691
+redirect_from: /news/186691
 ---
 
 Japón registró lluvias torrenciales sobre el oeste de la región, que han causado inundaciones y desprendimientos de tierra. Las autoridades pidieron evacuar a más de un millón de personas, pues se espera que las tormentas continúen durante varios días.  

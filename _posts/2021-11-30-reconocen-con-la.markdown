@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Durante la emergencia sanitaria han actuado con sentido humano para atender a derechohabientes y personas sin seguridad social"
 image: "/uploads/2021/images-Foto_5940-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconocen con la Condecoración Miguel Hidalgo Grado Banda a 20 trabajadores de la salud del IMSS Chihuahua"
 front: false
 section: "Local"
-news_id: 190358
+redirect_from: /news/190358
 ---
 
 El titular del Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, doctor Arturo Daniel Bonilla y Calderón, entregó a 20 trabajadores de la Salud, la Condecoración Miguel Hidalgo en grado Banda, por méritos distinguidos en la atención de la emergencia sanitaria provocada por el virus SARS-CoV2 (COVID-19). 

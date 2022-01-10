@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Manuel Mijares fue cuestionado sobre el día que se casó con Lucero y la razón por la que lucía tan serie en un momento tan importante en su vida. "
 image: "/uploads/2021/images-mijares-conto-razon-serio-boda.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Yo sudaba muchísimo -  Manuel Mijares recuerda el día de su boda con Lucero"
 front: false
 section: "Espectáculos"
-news_id: 183867
+redirect_from: /news/183867
 ---
 
 En 1997 Manuel Mijares y Lucero se casaron después de algunos años de noviazgo. Su boda llamó la atención no sólo por ser una de las parejas más populares en ese momento sino porque su unión fue televisada y transmitida por Televisa. Tras varios años de este momento, Mijares recordó el día que se casó con la madre de sus hijos. En una entrevista con Mara Patricia Castañeda, Manuel Mijares recordó cuando se casó con Lucero y explicó la razón por la que en ese momento tan importante de su vida lució tenso y al parecer enojado.

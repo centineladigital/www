@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La tiktoker originaria de Tlaxcala aseguró -en un video que rápidamente se volvió viral- que tuvo la oportunidad de conocer a Carlos Rivera en el programa “¿Quién es la Máscara?”. ¿Carlos Rivera fue grosero con los fans?"
 image: "/uploads/2021/images-carlos-rivera-revelo-algunos-de.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ni 'Las Mañanitas' eh -  Fan exhibe a Carlos Rivera en TikTok; expone prepotencia del cantante"
 front: false
 section: "Espectáculos"
-news_id: 184213
+redirect_from: /news/184213
 ---
 
 Carlos Rivera, famoso cantante y ex integrante de La Academia, fue severamente señalado, luego de que una joven usuaria de TikTok asegurara que el actual novio de Cynthia Rodríguez es una persona prepotente con sus fans. ¿Por qué lo dice? Según contó la joven - Eva Ramírez- el intérprete parece a simple vista ser una persona encantadora, pero una vez que está frente a los fanáticos se comporta de distinta manera. Aseguró que lo conoció junto a sus compañeros de escuela y en presencia de Yuri y Omar Chaparro. La tiktoker originaria de Tlaxcala aseguró -en un video que rápidamente se volvió viral- que tuvo la oportunidad de conocer a Carlos Rivera en el programa “¿Quién es la Máscara?”, en donde acudió con sus compañeros de escuela como público invitado. 

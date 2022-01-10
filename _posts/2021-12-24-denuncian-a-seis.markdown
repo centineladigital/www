@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Sergio Gutiérrez Luna, presidente de San Lázaro, presenta la queja; los señala por coalición de servidores públicos y por afectar principios de legalidad, honradez e imparcialidad "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Denuncian a seis consejeros del INE ante la FGR"
 front: false
 section: "Nacional"
-news_id: 191182
+redirect_from: /news/191182
 ---
 
 El presidente de la Cámara de Diputados, Sergio Gutiérrez, denunció penalmente ante la Fiscalía General de la República (FGR) a los seis consejeros del Instituto Nacional Electoral (INE) que el pasado 17 de diciembre aprobaron suspender la revocación de mandato, bajo el argumento de falta de presupuesto.

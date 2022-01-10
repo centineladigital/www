@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jeanette Zacarías murió este jueves en un hospital de Canadá"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Quién fue Jeanette Zacarías, la boxeadora mexicana que murió?"
 front: false
 section: "Deportes"
-news_id: 187391
+redirect_from: /news/187391
 ---
 
 Jeanette Zacarías Zapata, la boxeadora mexicana que murió este jueves en un hospital de Canadá, nació en Villa de Puertecitos, Aguascalientes, en el año del 2003, aunque la fecha exacta es desconocida.

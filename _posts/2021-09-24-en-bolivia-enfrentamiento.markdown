@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Además de los seis heridos, se reportaron 33 personas detenidas; los elementos policiacos repelieron a los campesinos con el uso de bombardas lacrimógenas. "
 image: "/uploads/2021/images-el-enfrentamiento-dejo-seis-heridos-2_0_15_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Bolivia, enfrentamiento entre policía y campesinos deja seis heridos y 33 detenidos"
 front: false
 section: "Internacional"
-news_id: 188017
+redirect_from: /news/188017
 ---
 
 En un contexto de disputa entre labriegos por el control de un mercado que comercializa coca, se registraron enfrentamientos callejeros entre campesinos y policías, los cuales dejaron seis heridos y 33 detenidos en Bolivia. La estatal Defensoría del Pueblo informó que los incidentes han dejado cinco civiles y un policía heridos, 33 personas arrestadas y la afectación con gas lacrimógeno a niños de casas cercanas al lugar de los hechos. 

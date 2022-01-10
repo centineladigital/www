@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los fabricantes de la vacuna india Covaxin reportan que tiene una efectividad del 78% contra el covid-19, conforme a un segundo análisis de ensayos clínicos"
 image: "/uploads/2021/images-2565969.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vacuna india Covaxin muestra efectividad del 78%"
 front: false
 section: "Internacional"
-news_id: 184010
+redirect_from: /news/184010
 ---
 
 La única vacuna contra el covid-19 desarrollada a nivel nacional en India, Covaxin, tiene una efectividad del 78%, según halló un segundo análisis de ensayos clínicos realizados alrededor del país, dijeron sus fabricantes este miércoles.

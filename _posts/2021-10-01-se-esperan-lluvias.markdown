@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Las mañanas seguirán con temperaturas frescas"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se esperan lluvias para este fin de semana en la ciudad -  Protección Civil Municipal"
 front: false
 section: "Local"
-news_id: 188269
+redirect_from: /news/188269
 ---
 
 La Coordinación Municipal de Protección Civil informa que para los días sábado y domingo se esperan lluvias en la Capital del estado, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional de CONAGUA, por lo cual se exhorta a tomar las debidas precauciones para evitar incidentes.

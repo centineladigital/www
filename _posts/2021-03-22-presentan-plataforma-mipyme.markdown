@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con este programa se busca que empresarios cuenten con las herramientas. "
 image: "/uploads/2021/images-JOSE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML01_SALVADOR_BARRAGAN.mp3"
 alt: "Presentan plataforma MiPyMe y el programa Pre Micro"
 front: false
 section: "Local"
-news_id: 183508
+redirect_from: /news/183508
 ---
 
 Con el fin de que empresas puedan recuperarse, esto por la situación vivida por la pandemia este lunes fue presentada la plataforma MiPyMe y el programa Pre Micro, con este programa se busca que empresarios cuenten con las herramientas con el fin de que puedan exportar con mayor facilidad y obtener buenos resultados durante la pandemia del Covid-19.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Piden que se juzgue de igual forma a priístas y panistas."
 image: "/uploads/2021/images-ALEJANDRO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04_ALEJANDRO_DOMINGUEZ.mp3"
 alt: "Justicia pareja para todos; PRI ante negación de amparo de Campos Galván"
 front: false
 section: "Local"
-news_id: 183258
+redirect_from: /news/183258
 ---
 
 Que se dé justicia pareja y no selectiva es lo que pidió el dirigente del PRI a nivel estatal dentro del Poder Judicial, afirmando que se ha presentado justicia selectiva dentro de Chihuahua, solicitando que se dé la información de las carpetas que están pendientes.

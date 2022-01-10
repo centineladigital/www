@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En ceremonia simbólica ocho personas representantes de las y los responsables de los proyectos seleccionados en 2020, recibieron el estímulo económico"
 image: "/uploads/2021/images-entrega_PACMyC_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Estado apoyos PACMyC"
 front: false
 section: "Local"
-news_id: 182643
+redirect_from: /news/182643
 ---
 
 La Secretaría de Cultura de Chihuahua y la Secretaría de Cultura del Gobierno  Federal, por medio de la Unidad Regional Chihuahua  de Culturas Populares, Indígenas y Urbanas, realizaron la entrega de recursos del Programa de Acciones Culturales Multilingües y Comunitarias (PACMyC), emisión 2020.

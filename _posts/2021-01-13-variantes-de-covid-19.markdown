@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La OMS informa que la variante británica de covid-19 está presente en 50 países, mientras que la mutación hallada en Sudáfrica ha sido detectada en 20 naciones"
 image: "/uploads/2021/images-2511268.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Variantes de covid-19 ya están en 50 países"
 front: false
 section: "Internacional"
-news_id: 182107
+redirect_from: /news/182107
 ---
 
 La mutación del coronavirus identificada en Reino Unido está presente en 50 países, según la Organización Mundial de la Salud (OMS), y la variante localizada en Sudáfrica fue detectada en otros 20 territorios.

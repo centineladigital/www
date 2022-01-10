@@ -18,11 +18,11 @@ author: nil
 description: "Fue aprobada ante el pleno con 27 votos a favor cero en contra y cero abstenciones "
 image: "/uploads/2021/images-congreso-del-estado_(1).jpeg"
 video: "/uploads/2021/videos-BW03_DEYANIRA_OZAETA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Aprueba congreso agenda legislativa "
 front: false
 section: "Local"
-news_id: 190904
+redirect_from: /news/190904
 ---
 
 La diputada Deyanira Ozaeta, en representación de la Junta de Coordinación Política, mencionó que en el documento que se ha presentado ante el Pleno, se incorporan las propuestas que los grupos, coaliciones o representaciones parlamentarias, han estimado pertinentes para la Agenda Legislativa que contiene los objetivos y metas de la Sexagésima Séptima Legislatura.

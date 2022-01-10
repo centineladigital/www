@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El paquete social, bautizado en inglés como Build Back Better está valorado en 1.75 billones de dólares y ampliaría los programas sociales dirigidos a menores y ancianos"
 image: "/uploads/2021/images-biden-plan-social-19.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cámara de Representantes aprueba plan social de Biden; pasa al Senado"
 front: false
 section: "Internacional"
-news_id: 189991
+redirect_from: /news/189991
 ---
 
 Washington.- La Cámara de Representantes aprobó este viernes el ambicioso plan de gasto social del presidente estadounidense, Joe Biden, con lo que pasa ahora al Senado donde enfrenta un futuro incierto dada la estrecha mayoría de los demócratas en esa cámara. La votación quedó con 220 votos a favor y 213 en contra.

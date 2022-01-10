@@ -12,11 +12,11 @@ author: nil
 description: "Necesitan que los diputados hagan un esfuerzo para  que el ECOSIG sea considerado como violencia."
 image: "/uploads/2021/images-275px-Rainbow_flag_and_blue_skies.jpg"
 video: "/uploads/2021/videos-BM01_KARLA_ARVIZO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Manifestación en contra del ECOSIG "
 front: false
 section: "Local"
-news_id: 189889
+redirect_from: /news/189889
 ---
 
 Militantes del movimiento LGBT+, llevaron a cabo una manifestación frente al Honorable Congreso del Estado, con el fin de exhortar a los diputados de la comisión de justicia que preside la diputada y presidenta del congreso, Georgina Bujanda Ríos.

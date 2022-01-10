@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El video presenta fotos de los exmandatarios y sus cónyuges con jeringas en la parte superior del brazo mientras instan a los estadounidenses a 'arremangarse y hacer su parte'"
 image: "/uploads/2021/images-2543365.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Obama, Bush, Clinton y Carter exhortan a vacunarse contra el Covid"
 front: false
 section: "Internacional"
-news_id: 183379
+redirect_from: /news/183379
 ---
 
 Cuatro expresidentes de Estados Unidos están exhortando a los ciudadanos a que se vacunen contra el COVID cuando les sea posible, como parte de una campaña para superar las dudas sobre el tratamiento.

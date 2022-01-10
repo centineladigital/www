@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El anuncio se dio a conocer a través de las redes sociales de MasterChef, el programa que reúne a miles de aspirantes a cocineros de todo el país. "
 image: "/uploads/2021/images-aracely-arambula-conductora-reality-show_0_45_1080_672.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aracely Arámbula llega a TV Azteca; será la conductora de MasterChef Latino"
 front: false
 section: "Espectáculos"
-news_id: 184024
+redirect_from: /news/184024
 ---
 
 Luego de que Aracely Arámbula diera a conocer que procedió legalmente para que Luis Miguel, quien fuera su pareja hace unos años, no usara su imagen para la serie que se realiza sobre la vida de El Sol, la actriz volvió a sorprender con su llegada a TV Azteca y es que la intérprete de La Doña no había colaborado con la televisora del Ajusco. El anuncio se dio a conocer a través de las redes sociales de MasterChef, el programa que reúne a miles de aspirantes a cocineros de todo el país, ahora de toda Latinoamérica, que Aracely Arámbula se uniría a este programa en sustitución de la entrañable Anette Michelle, quien anunció su salida del programa desde hace algunos días. 

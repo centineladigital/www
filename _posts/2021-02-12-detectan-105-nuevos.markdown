@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Asimismo fueron confirmadas 10 muertes más."
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03_ARTURO_VALENZUELA.mp3"
 alt: "Detectan 105 nuevos casos de covid"
 front: false
 section: "Local"
-news_id: 182897
+redirect_from: /news/182897
 ---
 
 Dentro de la actualización de casos de coronavius se dio a conocer 105 nuevos casos de personas contagiadas de este virus y la acreditación de 10 defunciones, según lo expresó el Director Médico de la Zona Norte, Arturo Valenzuela Zorrilla.

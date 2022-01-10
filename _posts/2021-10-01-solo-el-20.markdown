@@ -16,11 +16,11 @@ author: nil
 description: "El 80% eran pagadas bajo un esquema de becas "
 image: "/uploads/2021/images-laa.jpg"
 video: "/uploads/2021/videos-BV05_LUIS_AGUILAR_.mp4"
-audio: "nil"
+audio: nil
 alt: "Solo el 20% de los empleados de la SDS eran pagados con base "
 front: false
 section: "Local"
-news_id: 188301
+redirect_from: /news/188301
 ---
 
 El 20% de las personas  de la secretaría de desarrollo social eran pagadas por medio de una base y el 80% eran pagadas bajo un esquema de becas que anteriormente eran considerados subsidios, así lo comentó el diputado Luis Aguilar.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las nadadoras mexicanas recibieron una puntuación alta en la rutina técnica y ello las metió a la final de los Juegos Olímpicos de Tokio 2020"
 image: "/uploads/2021/images-nuria-diosdado-y-joana-jimenez-1_1_34_1198_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nuria Diosdado y Joana Jiménez clasifican a la final de natación artística"
 front: false
 section: "Deportes"
-news_id: 186228
+redirect_from: /news/186228
 ---
 
 Las nadadoras artísticas Nuria Diosdado y Joana Jiménez avanzaron a la final de los Juegos Olímpicos de Tokio 2020, y lo lograron tras la presentación en la rutina técnica donde tuvieron más puntuaciones de lo que esperaban. Después de dos presentaciones las mexicanas finalmente se ubicaron en la posición 12 y con un total de 173.1523. Después de ver que recibieron una baja calificación en la rutina libre y por ello mostrarse insatisfechas, Nuria y Joana salieron con toda la actitud al centro acuático de Tokio para realizar su presentación y la cual pensarían era la última. 

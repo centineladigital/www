@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de redes sociales, Disney Plus dio a conocer el póster y fecha de estreno de su nueva serie 'Star Wars: El Libro de Boba Fett'. "
 image: "/uploads/2021/images-star-wars-libro-boba-fett.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Disney Plus hace oficial la fecha de estreno para 'Star Wars -  El Libro de Boba Fett'"
 front: false
 section: "Espectáculos"
-news_id: 188188
+redirect_from: /news/188188
 ---
 
 Star Wars es una saga que sigue dando de qué hablar y que sigue entregando producciones para sus fans. Tras estrenos como el anime 'Visions' o la serie animada 'The Bad Batch', llegará a la plataforma de streaming Disney Plus 'Star Wars: El Libro de Boba Fett', la cual guardará relación con la exitosa serie 'The Mandalorian'. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se tendrá un control ya que el estado tendrá un reporte de quienes producen y siembran"
 image: "/uploads/2021/images-descarga.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Analizarían legalizar la amapola -  Ulises García"
 front: false
 section: "Local"
-news_id: 183387
+redirect_from: /news/183387
 ---
 
 Tras subirse al pleno la legalización de la marihuana, también se pretende subir a debate la legalización de la amapola, señaló el Diputado Federal Ulises García Soto. Esto al ser cuestionado respecto a la afectación que pudiera tener en materia de menores laborando en la producción de esta hierva, en los municipios serranos. 

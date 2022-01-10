@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el programa 'Venga la Alegría' se informó que el abogado del actor confirmó la detención del actor, quien fue trasladado al Reclusorio Oriente."
 image: "/uploads/2021/images-hector-parra-instagram_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detienen al actor Héctor Parra por presunto abuso sexual contra su hija"
 front: false
 section: "Espectáculos"
-news_id: 185050
+redirect_from: /news/185050
 ---
 
 El actor Héctor Parra, ex pareja de Ginny Hoffman, fue detenido este martes 15 de junio afuera de su casa, ubicada en la alcaldía Benito Juárez, en la Ciudad de México, por presunto abuso sexual en contra de su hija, Alexa Parra, quien denunció en 2020 que el famoso tenía conductas inapropiadas con ella. 

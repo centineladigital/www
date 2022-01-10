@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Importante para atender las emociones desde la infancia"
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita CAPPSI a grupo terapéutico para niñas y niños en manejo de emociones"
 front: false
 section: "Local"
-news_id: 189928
+redirect_from: /news/189928
 ---
 
 El Gobierno Municipal de Chihuahua, a través del Centro de Atención y Prevención Psicológicas (CAPPSI), pone a disposición de la ciudadanía, el grupo terapéutico para niñas y niños donde se brinda apoyo emocional y conductual. 

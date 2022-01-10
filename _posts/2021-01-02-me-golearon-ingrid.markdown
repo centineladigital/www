@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ingrid Coronado habló sobre las cosas buenas que le pasaron en el año, sin embargo, recordó que en una ocasión le robaron cuando acudió al supermercado. "
 image: "/uploads/2021/images-ingrid-coronado-conto-robo-malas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Me 'golearon'” -  Ingrid Coronado revela que sufrió un robo cuando estaba en el súper"
 front: false
 section: "Espectáculos"
-news_id: 181817
+redirect_from: /news/181817
 ---
 
 Tras el fin del 2020, varios famosos decidieron compartir en sus redes sociales lo bueno y lo malo que les dejo este año, una de las personalidades del espectáculo que habló un poco sobre lo que vivió fue Ingrid Coronado, quien se abrió con sus seguidores y reveló que en una ocasión sufrió un robo mientras estaba en el supermercado. A través de una publicación en Instagram, Ingrid Coronado contó que tomó un curso en donde le pidieron que realizara una actividad en donde agradeciera por 52 cosas que le sucedieron este 2020. 

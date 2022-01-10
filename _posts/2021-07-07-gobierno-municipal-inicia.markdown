@@ -13,12 +13,12 @@ tags:
 author: nil
 description: " Con una inversión de 3 millones 790 mil 100 pesos se beneficiarán a 1,532 alumnos."
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobierno Municipal inicia mañana la entrega de becas académicas en la zona rural."
 front: false
 section: "Local"
-news_id: 185444
+redirect_from: /news/185444
 ---
 
 El Gobierno Municipal iniciará la entrega de becas académicas de la zona rural a partir de mañana 8 de julio y hasta el próximo viernes 16 de julio, en beneficio de mil 532 alumnos de los niveles preescolar, primaria, secundaria y superior.

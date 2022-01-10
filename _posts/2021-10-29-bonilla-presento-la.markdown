@@ -14,11 +14,11 @@ author: nil
 description: "Para ser una ciudad competitiva el gobierno municipal trabaja gradualmente."
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-29_at_08.20.26.jpeg"
 video: "/uploads/2021/videos-BV01_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Bonilla presento la ponencia “Visión de un gobierno competitivo” "
 front: false
 section: "Local"
-news_id: 189379
+redirect_from: /news/189379
 ---
 
 El presidente municipal Marco Bonilla Mendoza participó en un conversatorio universitario del Patronato del Instituto de Estudios Superiores de Chihuahua donde impartió la ponencia “Visión de un Gobierno Competitivo”.

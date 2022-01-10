@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de redes sociales, Maluma y Grupo Firme dieron a conocer la fecha de su próxima colaboración musical."
 image: "/uploads/2021/images-maluma-grupo-firme-anuncian-colaboracion.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Grupo Firme y Maluma cantan 'Acá entre nos' en palomazo; anuncian colaboración muscial"
 front: false
 section: "Espectáculos"
-news_id: 190220
+redirect_from: /news/190220
 ---
 
 ¡Bombazo! Grupo Firme y Maluma tienen todo preparado para sorprender a todos los aficionados a su música. La extraña pero prometedora fórmula, que combina a dos íconos de distintos movimientos musicales, ya tiene fecha de lanzamiento y también una primera 'probada', después de que cantaran juntos la popular canción 'Acá entre nos' de Martín Urieta. 

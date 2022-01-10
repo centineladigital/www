@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Halyna Hutchins estudió periodismo y ejerció esta actividad por un tiempo, también fue considerada como una de las estrellas en ascenso por su trabajo como directora de fotografía. "
 image: "/uploads/2021/images-halyna-hutchins-directora-fotografia-murio_0_166_1071_666.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Quién era Halyna Hutchins, la directora de fotografía que murió durante rodaje de 'Rust'?"
 front: false
 section: "Espectáculos"
-news_id: 189068
+redirect_from: /news/189068
 ---
 
 Durante el rodaje de la película Rust, protagonizada por el actor Alec Baldwin, dos personas de la producción fueron heridas de un disparo, luego de que el también presentador accionara el arma, la cual no era de utileria, lo que provocó que la directora de fotografía, Halyna Hutchins muriera en el hospital.  De acuerdo con autoridades estadunidenses, la mujer de 42 años fue trasladada en helicóptero a un hospital donde falleció, y un hombre de la misma edad fue llevado de ambulancia a otro centro médico en donde está recibiendo atención de emergencia. 

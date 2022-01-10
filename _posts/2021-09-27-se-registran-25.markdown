@@ -14,11 +14,11 @@ author: nil
 description: "También se ratificó el incremento en el número de defunciones quedando en 7 mil 951"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-27_at_10.57.15.jpeg"
 video: "/uploads/2021/videos-informe_tecnico_27_de_septiembre.3gp"
-audio: "nil"
+audio: nil
 alt: "Se registran 25 nuevos contagios de COVID-19 en el estado "
 front: false
 section: "Local"
-news_id: 188085
+redirect_from: /news/188085
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 27 de Septiembre se tiene un total general de 77 mil 817 contagios en el estado. Luego de confirmarse otros 25 más en Juárez, Chihuahua, Parral, Jiménez, Allende y Batopilas.

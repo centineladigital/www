@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Permanecerá en prisión preventiva"
 image: "/uploads/2021/images-IMPUTADO_ROBOS.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ejercen acción penal contra detenido por robo a viviendas en la ciudad de Chihuahua"
 front: false
 section: "Local"
-news_id: 187914
+redirect_from: /news/187914
 ---
 
 La Fiscalía de Distrito Zona Centro logró capturar y llevar ante un Juez de Control, a una persona como probable responsable de cometer dos robos a casa habitación, en inmuebles ubicados en el centro de la ciudad de Chihuahua.

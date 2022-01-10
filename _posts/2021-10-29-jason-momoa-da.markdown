@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jason Momoa ha tenido que aislarse debido a que dio positivo a covid-19. El actor se encuentra en Reino Unido grabando la secuela de Aquaman. "
 image: "/uploads/2021/images-jason-momoa-se-encuentra-grabando.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jason Momoa da positivo a covid-19; se encuentra grabando 'Aquaman 2'"
 front: false
 section: "Espectáculos"
-news_id: 189355
+redirect_from: /news/189355
 ---
 
 Jason Momoa ha tenido suspender su participación en la grabación de Aquaman 2 debido a que recientemente se reportó que el actor dio positivo a covid-19. De acuerdo con The Sun, Momoa está aislado y en espera a recuperarse y dar negativo a una prueba para volver a incorporarse a la filmación. El medio menciona que Aquaman 2 se está grabando en Reino Unido y que tras realizar una prueba a todo el crew que participa en la filmación de la película, se reveló que Jason Momoa dio positivo a covid-19, afortunadamente no tiene síntomas fuertes y se encuentra bien.

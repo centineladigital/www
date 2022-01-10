@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantautora y actriz colombo-canadiense, lanza este tercer sencillo perteneciente al disco titulado Aquello y actualmente rueda la película El milagro de la mariposa de Carlos del Castillo. "
 image: "/uploads/2021/images-flora-martinez-planea-concierto-lunario.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Flora Martínez promueve su “Bolero Breve”"
 front: false
 section: "Espectáculos"
-news_id: 188449
+redirect_from: /news/188449
 ---
 
 La actriz y cantante colombo-canadiense Flora Martínez recién ha lanzado su más reciente sencillo "Bolero Breve" perteneciente a su disco grabado en pandemia titulado Aquello, lanzado en el mes de mayo de 2021 en diversas plataformas digitales y en el cual están incluidos los sencillos “Me Equivoqué Otra Vez” y “En Un Abrir y Cerrar”. 

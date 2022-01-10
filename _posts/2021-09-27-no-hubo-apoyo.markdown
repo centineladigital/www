@@ -18,11 +18,11 @@ author: nil
 description: "Se aviso un día antes la falta de iluminación "
 image: "/uploads/2021/images-unnamed_(1).jpg"
 video: "/uploads/2021/videos-BL06_LUIS_RIVERA_.mp4"
-audio: "nil"
+audio: nil
 alt: " No hubo apoyo del municipio en el evento de salvemos los cerros "
 front: false
 section: "Local"
-news_id: 188111
+redirect_from: /news/188111
 ---
 
 Luis Rivera  vocero  de salvemos los cerros de Chihuahua declaró que en el evento presentado el día 25 de septiembre en el palomar a consecuencia de una exigencia de protección a las áreas verdes, el municipio no acudió al llamado de ayuda, esto a pesar de que se pagaron permisos para tener el escenario y la iluminación.

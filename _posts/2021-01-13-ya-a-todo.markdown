@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Afirma López Obrador afirma que operativo de distribución fue “eficaz” y con buenos resultados; dosis se entregaron a 828 hospitales para iniciar vacunación de personal médico"
 image: "/uploads/2021/images-2511015.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "‘Ya a todo el país han llegado las vacunas contra Covid’"
 front: false
 section: "Nacional"
-news_id: 182089
+redirect_from: /news/182089
 ---
 
 El presidente Andrés Manuel López Obrador calificó como “eficaz” el operativo para distribuir 439 mil 725 vacunas de Pfizer contra Covid-19 a todo el país.

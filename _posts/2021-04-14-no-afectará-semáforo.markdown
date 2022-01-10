@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Realiza campaña de forma personalizada, afirma que es la mejor manera."
 image: "/uploads/2021/images-BORRUEL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW01_CARLOS_BORRUEL.mp3"
 alt: "No afectará semáforo forma de hacer campaña -  Borruel"
 front: false
 section: "Local"
-news_id: 183893
+redirect_from: /news/183893
 ---
 
 El que se regrese a semáforo a rojo no afectará la forma en la que lleva a cabo la campaña Carlos Borruel, candidato a diputado federal por el sexto distrito, esto tras la cancelación de eventos semimasivos por el retorno de las actividades económicas a naranja.

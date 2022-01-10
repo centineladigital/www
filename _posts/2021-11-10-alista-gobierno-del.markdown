@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Encabeza Gobernadora instalación del Consejo Estatal de Protección Civil  "
 image: "/uploads/2021/images-unnamed_(11).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alista Gobierno del Estado 398 refugios temporales para época invernal 2021-2022"
 front: false
 section: "Local"
-news_id: 189766
+redirect_from: /news/189766
 ---
 
 La gobernadora Maru Campos Galván tomó protesta a los integrantes del Consejo Estatal de Protección Civil y encabezó la 1ª Sesión Ordinaria del Organismo, que tuvo verificativo en el Salón 25 de Marzo de Palacio de Gobierno.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La ONU alerta que esta situación se produce en el marco de crecientes desafíos humanitarios y de protección de la población haitiana. "
 image: "/uploads/2021/images-poco-a-poco-los-migrantes_0_12_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Haití recibe a 3 mil 700 migrantes deportados de Estados Unidos"
 front: false
 section: "Internacional"
-news_id: 188178
+redirect_from: /news/188178
 ---
 
 Haití ha recibido al menos 3 mil 700 migrantes deportados de Estados Unidos desde el pasado 19 de septiembre, según datos publicados este martes por la oficina de la ONU en Puerto Príncipe.

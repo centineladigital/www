@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Siete científicos que desarrollaron la tecnología para elaborar algunas de las vacunas contra el covid-19 son galardonados con el Premio Princesa de Asturias de Investigación Científica y Técnica"
 image: "/uploads/2021/images-2599818.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Científicos que crearon vacunas covid ganan Premio Princesa de Asturias"
 front: false
 section: "Internacional"
-news_id: 185189
+redirect_from: /news/185189
 ---
 
 Siete científicos de diversos países cuyos aportes permitieron desarrollar con rapidez varias vacunas contra el covid-19 fueron galardonados este miércoles en España con el Premio Princesa de Asturias de Investigación Científica y Técnica.

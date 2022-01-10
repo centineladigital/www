@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los migrantes ya había logrado ingresar a Estados Unidos; en los últimos meses se ha disparado la migración de cubanos que cruzan el Mar Caribe para llegar a la península de Florida. "
 image: "/uploads/2021/images-migracion-cubana-disparado-semanas-crisis_0_1_1200_746_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hallan a 32 migrantes cubanos ocultos en una lancha en ciudad de Florida, EU"
 front: false
 section: "Internacional"
-news_id: 188629
+redirect_from: /news/188629
 ---
 
 Más de 30 migrantes cubanos fueron descubiertos el lunes ocultos en una lancha rápida durante una detención de tránsito en los Cayos de Florida, informaron las autoridades. 

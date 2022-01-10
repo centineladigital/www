@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-ALEJANDRO.jpg"
 alt: "Alargarán 90 días más dirigencia estatal del PRI"
 front: false
 section: "Local"
-news_id: 185997
+redirect_from: /news/185997
 ---
 
 Un plazo de 90 días es lo que se alargará la dirigencia Estatal del Partido Revolucionario Institucional, según lo dio a conocer el líder tricolor Alejandro Domínguez Domínguez, quien señaló que esto se da tras un acuerdo emitido por el dirigente nacional Alejandro Moreno.

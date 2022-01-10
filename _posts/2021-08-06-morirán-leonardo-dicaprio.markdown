@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue en Twitter en donde Leonardo DiCaprio –uno de los principales defensores de esta especie acuática– externó su preocupación por la vaquita marina en México. "
 image: "/uploads/2021/images-leonardo-dicaprio-gobierno-mexico-desproteger.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Morirán -  Leonardo DiCaprio arremete contra el gobierno de México por la vaquita marina"
 front: false
 section: "Espectáculos"
-news_id: 186385
+redirect_from: /news/186385
 ---
 
 Leonardo DiCaprio, famoso actor internacional, lanzó una fuerte crítica contra el gobierno de México. ¿Qué ocurrió? ¿Por qué criticó a México el actor que sobresalió en “Titanic” o “Django”? El intérprete señaló que las autoridades mexicanas no procuran la preservación de la vaquita marina en el país, pues sólo quedan 10. Desde su punto de vista, en México la vaquita marina está más desprotegida que antes. Te contamos lo que dijo. 

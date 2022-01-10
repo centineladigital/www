@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Esta situación, según expertos estadunidenses, se generará este fin de semana mientras el sistema frontal actualmente está en categoría 4. "
 image: "/uploads/2021/images-huracan-sam-categoria-nhc-via_68_22_888_552.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prevén fuerte oleaje en playas de EU por huracán 'Sam' durante el fin de semana"
 front: false
 section: "Internacional"
-news_id: 188170
+redirect_from: /news/188170
 ---
 
 Los bañistas en las playas atlánticas de Estados Unidos deberán cuidarse de las grandes olas y corrientes de resaca que provocará el huracán Sam durante el fin de semana al virar hacia el norte, advirtió hoy el Centro Nacional de Huracanes (NHC, por sus siglas en inglés) mientras el efecto climática se ubica cercano a las zonas caribeñas. Se pronostica que Sam, que actualmente está en categoría 4, permanezca en el mar, pero sus vientos de 215 kilómetros por hora generen fuerte oleaje en islas a cientos de kilómetros. 

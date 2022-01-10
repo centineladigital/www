@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Desde 2014, la contraloría sancionó por asuntos administrativos a 16 funcionarios del proyecto Metro, responsables de la construcción de la Línea 12. "
 image: "/uploads/2021/images-retiran-tramo-via-zona-derrumbe.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Multas millonarias e inhabilitaciones, sanciones a ex funcionarios de L12 tras falla en 2014"
 front: false
 section: "Nacional"
-news_id: 188897
+redirect_from: /news/188897
 ---
 
 La Fiscalía capitalina ha cuidado su proceso contra los responsables del colapso en un tramo de la Línea 12, pero desde 2014 la contraloría sancionó por asuntos administrativos a 16 funcionarios encabezados por Enrique Horcasitas, e incluso en la vía penal ingresaron a la cárcel, y ahora están libres, otros tres por uso ilegal de sus facultades como servidores públicos.

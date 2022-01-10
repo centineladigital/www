@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El canciller Marcelo Ebrard celebró que la iniciativa fue recibida positivamente por el G20; la SRE enfatizó que el plan garantiza el derecho a una vida digna a 750 millones de personas que viven en condiciones de pobreza. "
 image: "/uploads/2021/images-mexico-presento-plan-mundial-bienestar_0_0_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México presenta el Plan Mundial de Bienestar ante el G20 en Indonesia"
 front: false
 section: "Internacional"
-news_id: 190623
+redirect_from: /news/190623
 ---
 
 México presentó formalmente ante el Grupo de los Veinte (G20) el Plan Mundial de Bienestar ideado por el gobierno del presidente, Andrés Manuel López Obrador, para erradicar la pobreza y la corrupción de manera global, informó la secretaría de Relaciones Exteriores (SRE). 

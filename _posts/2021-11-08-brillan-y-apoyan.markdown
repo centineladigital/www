@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Fue organizada como parte del cierre del denominado “Mes rosa”, en apoyo al grupo RETO que brinda orientación para prevenir el cáncer de mama"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brillan y apoyan en la cuarta edición de la carrera nocturna “Adelita no corre sola”"
 front: false
 section: "Local"
-news_id: 189640
+redirect_from: /news/189640
 ---
 
 Como parte de la clausura del “Mes rosa”, grupo Recuperación Total (RETO) celebró la cuarta edición de la carrera nocturna de 5 kilómetros, “Adelita no corre sola”, que contó con una nutrida participación de atletas.

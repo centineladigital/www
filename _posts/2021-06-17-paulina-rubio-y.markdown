@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Paulina Rubio ha vivido varios momentos vergonzosos que se han vuelto virales en redes sociales, de los cuales hasta se han creado memes. "
 image: "/uploads/2021/images-paulina-rubio-tomado-gracia-equivocaciones-1_17_0_1046_649.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Paulina Rubio y sus momentos más vergonzosos que se volvieron virales"
 front: false
 section: "Espectáculos"
-news_id: 185094
+redirect_from: /news/185094
 ---
 
 La cantante Paulina Rubio ha dado de que hablar en el último año, sobre todo por el pleito que mantiene con Colate y que incluso se sometió a una prueba de drogas en la que salió positiva a mariguana. Y aunque se ha filtrado que tiene problemas legales con los padres de sus hijos, de lo que más se habla es de los desaciertos que ha cometido la intérprete de “Ni una sola palabra” y que se han hecho virales. 

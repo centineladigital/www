@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Su estilo de juego —caracterizado por la velocidad— agrada mucho a Solari, quien solicitó un elemento con sus condiciones"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "América está por cerrar a su tercer refuerzo para el Clausura 2022"
 front: false
 section: "Deportes"
-news_id: 191217
+redirect_from: /news/191217
 ---
 
 Joao Rojas, atacante ecuatoriano de 24 años de edad y quien milita en el Emelec de su país, está a nada de ser el tercer refuerzo del América de cara al Clausura 2022.

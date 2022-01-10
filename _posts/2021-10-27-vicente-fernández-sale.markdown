@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De acuerdo con un comunicado, el cantante Vicente Fernández sigue hospitalizado, pero ya salió de terapia intensiva. Éste es su estado de salud actual. "
 image: "/uploads/2021/images-vicente-fernandez-sale-terapia-intensiva.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vicente Fernández sale de terapia intensiva tras meses en el hospital; éste es su estado de salud"
 front: false
 section: "Espectáculos"
-news_id: 189250
+redirect_from: /news/189250
 ---
 
 Vicente Fernández, importante cantante mexicano, dejó el área de de terapia intensiva tras ser hospitalizado desde el mes de agosto por una caída. Después de mucho tiempo con reportes médicos que aseguraban un avance lento de su salud, el padre de Alejandro Fernández se reporta estable. ¿Pronto saldrá del hospital? ¿Aún necesita ayuda para respirar? De acuerdo con lo informado por parte de los médicos mediante un comunicado, el cantante sigue hospitalizado, pero fuera de terapia intensiva.

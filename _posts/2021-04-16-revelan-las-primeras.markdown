@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A poco de reemplazar a Fernando Colunga, ya se publicaron las primeras imágenes de Pedro Fernández como Malverde, el santo patrón. "
 image: "/uploads/2021/images-asi-es-como-luce-pedro.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Revelan las primeras imágenes de Pedro Fernández como 'Malverde, el santo patrón'"
 front: false
 section: "Espectáculos"
-news_id: 183923
+redirect_from: /news/183923
 ---
 
 Hace unas semanas se informó que Pedro Fernández iba a sustituir a Fernando Colunga en la serie Malverde: el santo patrón, la cual relatará la vida de Jesús Juárez Mazo, mejor conocido por su sobrenombre de Malverde. A pesar de que ya se había dado un adelanto de cómo luciría Colunga en este papel, ahora se revelaron las primeras imágenes del cantante caracterizado como el protagonista de la historia. 

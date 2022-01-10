@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Analizan cuales actividades estarán abiertas y cuales no."
 image: "/uploads/2021/images-JAVIER_CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML05_JAVIER_CORRAL.mp3"
 alt: "No se descartan “supercierres” por incremento de contagios"
 front: false
 section: "Local"
-news_id: 183975
+redirect_from: /news/183975
 ---
 
 Debido al incremento de contagios no se descarta que se den “supercierrres” según lo señaló el Gobernador del Estado, Javier Corral Jurado, quien dijo que esto se analizará por parte de autoridades para evitar la curva de contagios.

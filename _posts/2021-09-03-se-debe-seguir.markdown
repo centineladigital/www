@@ -14,11 +14,11 @@ author: nil
 description: "Se abrirán 2 profesiones en el Instituto de Seguridad Superior de Chihuahua"
 image: "/uploads/2021/images-SIMEON.jpg"
 video: "/uploads/2021/videos-BV01_SIMEON_ESPARZA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se debe seguir profesionalizando a los elementos de seguridad pública"
 front: false
 section: "Local"
-news_id: 187414
+redirect_from: /news/187414
 ---
 
 Simeón Esparza director de la escuela de policía  explicó sobre el Instituto de Seguridad Superior Chihuahua el cual tendrá un gran proyecto que profesionalizará a los elementos de policía, bomberos y administrativos de la dirección pública municipal.

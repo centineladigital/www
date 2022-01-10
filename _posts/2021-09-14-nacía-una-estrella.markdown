@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Amy Jade Winehouse cumpliría 38 años de edad pero en tan solo unos cuantos de carrera logró cautivar a cualquiera que la escuchara antes de su trágico pero no sorpresivo final."
 image: "/uploads/2021/images-amy-winehouse-murio-anos-julio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Nacía una estrella fugaz! Amy Winehouse cumpliría 38 años; conoce su historia, sus problemas y su final"
 front: false
 section: "Espectáculos"
-news_id: 187709
+redirect_from: /news/187709
 ---
 
 Como una estrella fugaz, Amy Winehouse brilló para enseguida apagarse para siempre. La joven que destacó con apenas dos discos publicados se unió al llamado “club de los 27” al morir intoxicada por el consumo de una gran cantidad de alcohol hace 10 años. 

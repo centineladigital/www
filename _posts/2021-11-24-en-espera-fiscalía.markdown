@@ -10,11 +10,11 @@ author: nil
 description: "Tras realizarse diversas diligencias de trabajo por parte de la ONU."
 image: "/uploads/2021/images-ROBERTO.jpg"
 video: "/uploads/2021/videos-MW02_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "En espera Fiscalía de resolución del CED de la ONU"
 front: false
 section: "Local"
-news_id: 190159
+redirect_from: /news/190159
 ---
 
 Esperando la resolución de los trabajos que realizaron integrantes Comité de la ONU contra la Desapariciones Forzadas, la Fiscalía solo espera la resolución de los trabajos, según lo dio a conocer el Fiscal General del Estado de Chihuahua Roberto Fierro Duarte.

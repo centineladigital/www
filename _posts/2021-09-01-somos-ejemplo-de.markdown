@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se lograron liquidar tres préstamos (dos de administraciones pasadas), que en total, ascendían a los 91 millones de pesos"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Somos ejemplo de transparencia y finanzas sanas al dejar un gobierno con cero deuda"
 front: false
 section: "Local"
-news_id: 187315
+redirect_from: /news/187315
 ---
 
 Nos hemos caracterizado por ser un gobierno transparente y abierto a la gente, destacando por mantener finanzas sanas. Esto nos ha llevado a dejar un gobierno con cero deuda al liquidar tres préstamos (dos de administraciones pasadas), que en total, ascendían a los 91 millones de pesos, logro que se debe en gran medida a la contribución de los chihuahuenses.

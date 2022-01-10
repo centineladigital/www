@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El derrame de petróleo de Huntigton Beach ha dejado muchos misterios por resolver, empezando por su origen. "
 image: "/uploads/2021/images-ve-mancha-petroleo-area-afectada.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La lucha legal por el derrame de petróleo en playa de California podría durar años"
 front: false
 section: "Internacional"
-news_id: 188676
+redirect_from: /news/188676
 ---
 
 Pasaron poco más de 48 horas desde el momento en que se descubrió un gran derrame de petróleo en el sur de California hasta que se presentó la primera demanda contra la empresa de Houston que posee y opera el oleoducto roto. 

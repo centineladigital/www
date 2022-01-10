@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Según dio a conocer la Fiscalía General del Estado, se presentarán cargos contra sospechosos relacionados en la denominada nomina secreta por presuntos actos de corrupción"
 image: "/uploads/2021/images-Ciudad_Judicial_4.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reanudan audiencia por nómina secreta"
 front: false
 section: "Local"
-news_id: 182613
+redirect_from: /news/182613
 ---
 
 Este martes 2 de febrero se realizará la audiencia de formal imputación en la que se presentarán los cargos en contra de varias personas relacionadas con la “nómina secreta” del exgobernador de Chihuahua, informó la Fiscalía General del Estado.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se suman al último reporte epidemiológico 26 nuevos positivos; el número de defunciones continúa en 7 mil 792 al no registrarse decesos"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llega la entidad a los 75 mil 020 contagios por COVID-19 "
 front: false
 section: "Local"
-news_id: 187045
+redirect_from: /news/187045
 ---
 
 La Secretaría de Salud dio a conocer que en el último reporte epidemiológico estatal COVID-19 se agregaron 26 contagios, con lo suman un total general de 75 mil 020; mientras que las defunciones son 7 mil 792, al no confirmarse nuevos casos. Además, muestra que hay un acumulado de 64 mil 403 (+32) personas recuperadas, 54  mil 056 (+261) casos descartados y 710 (-56) sospechosos de contagio.

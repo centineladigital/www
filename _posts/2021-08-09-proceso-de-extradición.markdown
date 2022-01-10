@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Desde Ciudad Juárez, donde encabeza conferencia mañanera en compañía de Javier Corral, el mandatario destaca que se repuso el procedimiento porque lo solicitó el gobernador de Chihuahua   "
 image: "/uploads/2021/images-PDTE_LÓPEZ_OBRADOR_CONFERENCIA_PRENSA__(1).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Proceso de extradición de César D.J. no se ha detenido y le damos seguimiento -  Presidente "
 front: false
 section: "Local"
-news_id: 186456
+redirect_from: /news/186456
 ---
 
 El presidente de México, Andrés Manuel López Obrador señaló que la extradición del exgobernador de Chihuahua, César Horacio D.J. sigue su trámite, después de que, a solicitud de Javier Corral, se debió reponer y corregir el proceso que hicieron mal las anteriores autoridades federales.

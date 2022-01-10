@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exhortan a denunciar sobre posibles delitos en redes sociales."
 image: "/uploads/2021/images-J1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ04_JOSELYN_GUZMAN.mp3"
 alt: "Invita Fiscalía a proteger información "
 front: false
 section: "Local"
-news_id: 183470
+redirect_from: /news/183470
 ---
 
 Con el fin de que las personas puedan tener conocimiento de cómo proteger su información dentro de las redes sociales o bien que puedan detectar el cómo pueden ser robadas o vulneradas, a Fiscalía General del Estado a través de la Dirección de Análisis de Evidencia Digital e Informática Forense dio a conocer acciones que pueden llevarse a cabo dentro de la dependencia.

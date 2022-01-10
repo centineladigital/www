@@ -18,11 +18,11 @@ author: nil
 description: "Diputados federales de todos los partidos, hicieron planteamientos buenos para el estado de Chihuahua"
 image: "/uploads/2021/images-presupuesto-2021.jpg"
 video: "/uploads/2021/videos-BJ01_LUIS_SERRATO.mp4"
-audio: "nil"
+audio: nil
 alt: "Aumento de presupuestos federales gran avance para Chihuahua -  Serrato "
 front: false
 section: "Local"
-news_id: 189560
+redirect_from: /news/189560
 ---
 
 El secretario Coordinador de Gabinete, Luis Serrato Castell, aseguró que el aumento del 7.8 por ciento del gasto federalizado para Chihuahua en 2022 es una señal muy positiva del trabajo que ha hecho la gobernadora Maru Campos Galván.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se invita a los chihuahuenses a pavimentar sus calles"
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atiende CUM 60 gestorías a través de Miércoles Ciudadano"
 front: false
 section: "Local"
-news_id: 190051
+redirect_from: /news/190051
 ---
 
 El Consejo de Urbanización Municipal (CUM) dio a conocer que gracias a los programas como el “Miércoles Ciudadano” se a logrado atender y dar seguimiento a 60 gestorías que la ciudadanía a presentado.

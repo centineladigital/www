@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El cónsul de México en San Diego California explicó que por primera vez en dos décadas se llegará a esa cifra de detenciones; en California ya van 29 migrantes que mueren en su intento de llegar a Estados Unidos. "
 image: "/uploads/2021/images-la-incidencia-ha-aumentado-por_0_77_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registran más de un millón de arrestos de migrantes mexicanos por intentar cruzar a EU"
 front: false
 section: "Nacional"
-news_id: 188169
+redirect_from: /news/188169
 ---
 
 Durante el último año -que en su mayoría comprende la administración de Joe Biden- el gobierno de Estados Unidos acumula más de un millón de arrestos de mexicanos por cruzar a su país de manera ilegal. “Por primera vez en casi dos décadas se va a llegar a más de un millón de detenciones a lo largo de toda la frontera”, detalló Carlos González Gutiérrez, cónsul de México en San Diego, California. 

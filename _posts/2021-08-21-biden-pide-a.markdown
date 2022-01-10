@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Departamento de Justicia presentó una solicitud de emergencia en el máximo tribunal, dominado por la ala conservadora, para suspender la orden de un juez de Texas para reestablecer el programa"
 image: "/uploads/2021/images-crisis-migratoria-disparado-inicio-administracion_0_45_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden pide a Corte Suprema impedir que se reactive el programa Permanecer en México"
 front: false
 section: "Internacional"
-news_id: 186978
+redirect_from: /news/186978
 ---
 
 El gobierno de Joe Biden pidió a la Corte Suprema de Estados Unidos que bloquee el fallo de un juez que ordenaría a su administración a reanudar el programa que obligó a decenas de miles de migrantes a esperar en México la resolución de sus casos de asilo en el país vecino.

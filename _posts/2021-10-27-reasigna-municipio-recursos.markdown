@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Modifican en Cabildo proyectos y recursos del FODESM"
 image: "/uploads/2021/images-unnamed_(13).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reasigna Municipio recursos para bacheo, soluciones pluviales y otras obras de prioridad"
 front: false
 section: "Local"
-news_id: 189279
+redirect_from: /news/189279
 ---
 
 El Ayuntamiento de Chihuahua en sesión ordinaria de Cabildo aprobó reasignar saldos del Fondo para el Desarrollo Socioeconómico Municipal (FODESM) para el ejercicio fiscal del año 2021 por un monto de 7 millones 848 mil 686 pesos.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Apoya Gobierno Municipal con una vía adecuada para los caminantes"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Limpian camino lateral a San Judas Tadeo"
 front: false
 section: "Local"
-news_id: 189312
+redirect_from: /news/189312
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, llevó a cabo la limpieza lateral de la carretera Chihuahua- Delicias, hasta la altura de la capilla de San Judas Tadeo.

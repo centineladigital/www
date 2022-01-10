@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El ex boxeador estadunidense volvió a lanzar duras críticas contra el tapatío a quien derrotó en 2013 "
 image: "/uploads/2021/images-mayweather-burlo-mexicano-canelo-alvarez_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Floyd Mayweather se burla del Canelo -  Le gané fácil y tenía casi 40 años"
 front: false
 section: "Deportes"
-news_id: 190577
+redirect_from: /news/190577
 ---
 
 A Floyd Mayweather Jr no le gustaron nada las declaraciones del boxeador mexicano Saúl Canelo Álvarez, quien después de convertirse en el primer campeón indiscutido azteca, rememoró la pelea que sostuvo contra el estadunidense en 2013, asegurando que en ese momento la falta de experiencia fue la que le evitó mantener el invicto en el profesionalismo. 

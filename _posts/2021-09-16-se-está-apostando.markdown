@@ -8,11 +8,11 @@ author: nil
 description: "Se está planeando la tercer etapa del PECUU"
 image: "/uploads/2021/images-salas.jpg"
 video: "/uploads/2021/videos-BJ01_JULIO_SALAS.mp4"
-audio: "nil"
+audio: nil
 alt: "Se está apostando por la tecnología en materia de Seguridad Pública Municipal "
 front: false
 section: "Local"
-news_id: 187800
+redirect_from: /news/187800
 ---
 
 El director de Seguridad Pública Municipal Julio Salas declaró que se está trabajando en materia de seguridad pública municipal con respecto a nuevos proyectos que ayuden a la ciudadanía  sobre todo a reducir los índices de violencia en el estado.

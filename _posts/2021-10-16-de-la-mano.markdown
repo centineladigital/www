@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Vissel Kobe está en la zona de la Champions asiática al vencer a su similar de Avispa Fukuoka  "
 image: "/uploads/2021/images-andres-iniesta-celebrando-companeros-twitter.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "De la mano de Andrés Iniesta, el Vissel sigue a la alza en la liga nipona"
 front: false
 section: "Deportes"
-news_id: 188819
+redirect_from: /news/188819
 ---
 
 El Vissel Kobe, con los españoles Andrés Iniesta, Sergi Samper y Bojan Krkic, se ha situado en zona de Champions asiática al vencer por 1-0 al Avispa Fukuoka en partido de la trigésima segunda jornada de la liga nipona. 

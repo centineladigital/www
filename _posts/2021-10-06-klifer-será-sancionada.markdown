@@ -14,11 +14,11 @@ author: nil
 description: "Se les quitarán rutas de recolección de basura "
 image: "/uploads/2021/images-descarga_(17).jpg"
 video: "/uploads/2021/videos-BW03_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "Klifer será sancionada económicamente "
 front: false
 section: "Local"
-news_id: 188446
+redirect_from: /news/188446
 ---
 
 Respecto a la nula recolección de basura que ha dado la empresa Klifer al nororiente del municipio el presidente Marco Bonilla aseguro que  se han estado teniendo pláticas con la empresa y que se les dictaminó un ultimátum para que mejore el servicio de recolección de basura, pero no se ha logrado mejorar este servicio.

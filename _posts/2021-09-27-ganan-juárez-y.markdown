@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Representarán al Estado en la etapa nacional en Acapulco del 16-22 de octubre"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-27_at_12.08.02.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ganan Juárez y Chihuahua los juegos Estatales Populares 2021"
 front: false
 section: "Local"
-news_id: 188093
+redirect_from: /news/188093
 ---
 
 Con duelos dignos de una final se definieron los campeones de la etapa estatal de los Juegos Nacionales Populares, siendo los equipos de Chihuahua y Juárez los que representarán al estado en la justa nacional a realizarse en Acapulco, Guerrero del 16 al 22 de octubre.

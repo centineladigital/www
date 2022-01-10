@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Evita mandatario tocar el tema, señala que se hará en tiempo y lugar adecuado."
 image: "/uploads/2021/images-CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV02_JAVIER_CORRAL.mp3"
 alt: "Quien tiene problemas con la Justicia es Maru Campos -  Gobernador"
 front: false
 section: "Local"
-news_id: 182896
+redirect_from: /news/182896
 ---
 
 "Quien tiene problemas con la justicia es Maru Campos, no nosotros" fueron las palabras del Gobernador del Estado de Chihuahua, Javier Corral Jurado, al ser cuestionado respecto a los señalamientos de la candidata a gobernar el estado y Alcaldesa con licencia María Eugenia Campos Galván dentro programa de radio.

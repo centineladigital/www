@@ -10,11 +10,11 @@ author: nil
 description: "Están expuesta en casa Chihuahua durante este mes."
 image: "/uploads/2021/images-CONCEPCION.jpg"
 video: "/uploads/2021/videos-ML04_CONCEPCION_LANDA.mp4"
-audio: "nil"
+audio: nil
 alt: "Trasladarán museo de armas a Casa Juárez"
 front: false
 section: "Local"
-news_id: 186207
+redirect_from: /news/186207
 ---
 
 Debido a que el espacio que ocupaba el museo de armas fue ocupado, la exposición será trasladada al museo Casa Juárez, declaró la titular de la Secretaría de Cultura Concepción Landa García-Tellez.

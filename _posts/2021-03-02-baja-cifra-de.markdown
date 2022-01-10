@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se registraron 123 nuevos casos, mientras que en materia de defunciones se acreditaron 38 casos."
 image: "/uploads/2021/images-arton20008.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM01_ARTURO_VALENZUELA.mp3"
 alt: "Baja cifra de defunciones en el Estado"
 front: false
 section: "Local"
-news_id: 183235
+redirect_from: /news/183235
 ---
 
 Una baja cifra de defunciones por semana es lo que registra el estado, según lo declaró el titular de la Dirección Médica Zona Norte, Arturo Valenzuela Zorrilla. Esto al presentar la incidencia de casos dentro del estado tanto de personas contagiadas o que dieron positivo a la PCR, donde se registraron 123 nuevos casos, mientras que en materia de defunciones se acreditaron 38 casos.

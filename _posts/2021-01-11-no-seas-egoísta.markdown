@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante una entrevista en el programa 'Hoy', el actor dio su opinión respecto a la postura de la actriz ante la pandemia. "
 image: "/uploads/2021/images-alexis.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No seas egoísta -  Alexis Ayala arremete contra Paty Navidad por su postura ante el covid-19"
 front: false
 section: "Espectáculos"
-news_id: 182049
+redirect_from: /news/182049
 ---
 
 Paty Navidad ha generado mucha polémica luego de que Twitter le cerró su cuenta debido a las teorías conspirativas sobre el covid-19 que difunde y su apoyo ferviente a Donald Trump. Esto no pasó desapercibido para otras celebridades, quienes ya se pronunciaron respecto a las acciones de la actriz. 

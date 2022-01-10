@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Conagua informó que la tormenta tropical podría ingresar a México por las costas de Quintana Roo está noche como Huracán categoría 1"
 image: "/uploads/2021/images-tormenta-grace-acerca-peninsula-yucatan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Grace se acerca a Península de Yucatán; activan Alerta Amarilla en Quintana Roo"
 front: false
 section: "Nacional"
-news_id: 186817
+redirect_from: /news/186817
 ---
 
 La tormenta tropical Grace se aproxima a la Península de Yucatán y se prevé que ingrese por las costas de Quintana Roo como Huracán categoría 1 en la noche o madrugada, informó la Comisión Nacional del Agua (Conagua). 

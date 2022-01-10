@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La quinteta chihuahuense llega a cuatro triunfos en la Zona Este"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dorados se impone en tiempo extra sobre Halcones de Xalapa   "
 front: false
 section: "Local"
-news_id: 187879
+redirect_from: /news/187879
 ---
 
 Los Dorados del Estado de Chihuahua orquestó un regreso en los segundos finales para forzar la prórroga e imponerse en el tiempo extra 95-93 a los Halcones de Xalapa en la Jornada 7 de la Liga Nacional de Baloncesto Profesional (LNBP), durante la tarde el sábado en el Gimnasio Manuel Bernardo Aguirre (MBA).

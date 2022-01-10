@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Mastógrafo tenía tres años sin funcionar por falta de mantenimiento.  La gobernadora Maru Campos aprovechó para realizar un recorrido por las instalaciones del nosocomio   "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Reactiva Gobierno del Estado operación de mastógrafo en Hospital de la Mujer de Ciudad Juárez   "
 front: false
 section: "Local"
-news_id: 189415
+redirect_from: /news/189415
 ---
 
 La Gobernadora Maru Campos atestiguó la reactivación de operaciones del mastógrafo del Hospital de la Mujer de Ciudad Juárez, que permaneció tres años sin funcionar por falta de mantenimiento.

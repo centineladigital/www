@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " El Gobierno Municipal firmó con cuatro universidades el convenio para realizar el estudio de viabilidad"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aceleran construcción del nuevo relleno sanitario; quedan 18 meses de utilidad al actual"
 front: false
 section: "Local"
-news_id: 190083
+redirect_from: /news/190083
 ---
 
 Un análisis realizado por la Dirección de Servicios Públicos Municipales, determinó que al actual relleno sanitario le quedan únicamente 18 meses de utilidad, lo que motivó al Gobierno Municipal acelerar los trabajos para la construcción del nuevo relleno sanitario metropolitano, que le dará servicio a Chihuahua, Alquiles Serdán y Aldama, esto con la firma del convenio con la Universidad Autónoma de Chihuahua, la Universidad Autónoma de Nuevo León, la Salle y el Tec de Monterrey para realizar el estudio de viabilidad.

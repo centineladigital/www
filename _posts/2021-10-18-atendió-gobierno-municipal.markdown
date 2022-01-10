@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " Se tiene a siete cuadrillas realizando las labores de bacheo"
 image: "/uploads/2021/images-unnamed_(10).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atendió Gobierno Municipal en la semana, 2 mil 500 baches en la ciudad"
 front: false
 section: "Local"
-news_id: 188847
+redirect_from: /news/188847
 ---
 
 El Gobierno Municipal atendió la semana pasada 2,500 baches en las calles y avenidas de la ciudad, cuyos reportes de atención se recibieron a través del Centro de Respuesta Ciudadana en el 072 y en la aplicación Marca el Cambio.

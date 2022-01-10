@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Precisó que esta iniciativa busca que todos los juarenses gocen de los servicios básicos como el agua potable, drenaje y alcantarillado"
 image: "/uploads/2021/images-sdgggge.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AV02_DEYANIRA_OZAETA.mp3"
 alt: "Exige Ozaeta a Municipio de Juárez servicios básicos para los juarenses"
 front: false
 section: "Local"
-news_id: 184590
+redirect_from: /news/184590
 ---
 
 La diputada local del Partido del Trabajo (PT), Deyanira Ozaeta Diaz,  exhortó al Ayuntamiento de Ciudad Juárez a fin de que atienda y resuelva, la carencia de servicios públicos como la recolección de basura, alumbrado público y pavimentación, en las colonias Granjas de Chapultepec, Andrés Figueroa, Tierra Libertad, Luis Holague, México 68, División del Norte, Pancho Villa, La Cuesta I, Independencia I y II, 9 de septiembre, Che Guevara, Revolución Mexicana o La Presa.

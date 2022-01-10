@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El equipo colchonero cayó en su visita al Granada y perdió la oportunidad de meterse en puestos de Champions League "
 image: "/uploads/2021/images-atletico-madrid-sufre-cuarta-derrota.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atlético de Madrid sufre cuarta derrota consecutiva en La Liga; se aleja cada vez más de la punta"
 front: false
 section: "Deportes"
-news_id: 191147
+redirect_from: /news/191147
 ---
 
 El Granada sumó su tercera victoria seguida en casa al superar este miércoles en el Estadio Nuevo Los Cármenes por 2-1 al Atlético de Madrid, que prolonga su mala racha a cuatro derrotas consecutivas en La Liga, en un choque que estaba pendiente desde la novena jornada. 

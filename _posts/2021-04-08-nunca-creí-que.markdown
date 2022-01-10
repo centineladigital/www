@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Participó en webinar “Mujeres en la política y el gobierno”, junto a otras candidatas a la gubernatura de otros estados"
 image: "/uploads/2021/images-conferencia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nunca creí que existiera la misoginia hasta que fui alcaldesa -  Maru Campos"
 front: false
 section: "Local"
-news_id: 183752
+redirect_from: /news/183752
 ---
 
 María Eugenia Campos Galván, candidata del Partido Acción Nacional (PAN) a la gubernatura, participó en webinar “Mujeres en la política y el gobierno”, junto a otras candidatas a la gubernatura de diferentes entidades federativas.

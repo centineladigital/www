@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "También se involucra a la esposa y la hija del  exfuncionario: recibieron en conjunto 5 millones 945 mil 676 pesos; emite la Secretaría de Hacienda un crédito fiscal contra el ex servidor público por un monto de 30 mdp"
 image: "/uploads/2021/images-Diapositiva18.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exauditor de exgobernador operó esquema nacional de evasión fiscal con robo de identidad"
 front: false
 section: "Local"
-news_id: 182056
+redirect_from: /news/182056
 ---
 
 Las investigaciones del emblemático caso del Esquema Nacional de Evasión con robo de identidad, de la red de corrupción del exgobernador preso en Miami, Fl., derivaron en que la Secretaría de Hacienda estatal emitió un crédito fiscal por 30 millones de pesos, en contra del extitular de la Auditoría Superior del Estado.

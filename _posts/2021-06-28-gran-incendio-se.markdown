@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Un incendio de grandes proporciones se registra cerca de una céntrica estación de tren y metro de Londres; los bomberos ya trabajan en la zona y hasta ahora no se reportan personas afectadas"
 image: "/uploads/2021/images-2602546.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gran incendio se desata en el centro de Londres; descartan terrorismo"
 front: false
 section: "Internacional"
-news_id: 185269
+redirect_from: /news/185269
 ---
 
 Un gran incendio, del que se desprendía una densa humareda, se declaró este lunes cerca de una céntrica estación de tren y metro de Londres que tuvo que ser evacuada, provocando la intervención de un centenar de bomberos, informaron los servicios de rescate.

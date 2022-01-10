@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "¿Cómo es posible que el Cruz Azul, que no tiene dinero para refuerzos, le haya ganado un futbolista al poderoso y multimillonario Monterrey?"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La razón por la que Cruz Azul le ganó a Rayados la batalla por Christian Tabó"
 front: false
 section: "Deportes"
-news_id: 190869
+redirect_from: /news/190869
 ---
 
 ¿Cómo es posible que el Cruz Azul, que no tiene dinero para refuerzos, le haya ganado un futbolista al poderoso y multimillonario Monterrey?

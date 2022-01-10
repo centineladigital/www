@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El pronóstico de lluvias para los siguientes días rondará entre el 70 y 90 por ciento"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Protección Civil Municipal por altas posibilidades de lluvias esta semana"
 front: false
 section: "Local"
-news_id: 186727
+redirect_from: /news/186727
 ---
 
 La Coordinación Municipal de Protección Civil informa que para esta semana se esperan altas probabilidades de lluvias y temperaturas agradables en la ciudad, de acuerdo al pronóstico que emite CONAGUA a través de su Servicio Meteorológico Nacional, por ello es importante seguir acatando las recomendaciones para evitar incidentes.

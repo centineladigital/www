@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con la entrega de alimentos, financiamiento a unidades de producción y otras acciones, se invirtieron 44 millones 998 mil 182 pesos en el marco del Plan Emergente implementado por el Gobernador Javier Corral"
 image: "/uploads/2021/images-APOYOSSAC1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Apoyó Desarrollo Rural a familias con más de 90 mil acciones durante la pandemia"
 front: false
 section: "Local"
-news_id: 185275
+redirect_from: /news/185275
 ---
 
 Como parte del Plan Emergente de Apoyo y Protección a la Salud, Empleo e Ingreso Familiar, implementado por el gobernador Javier Corral para aminorar los efectos de la pandemia por COVID-19, la Secretaría de Desarrollo Rural efectuó más de 90 mil acciones en apoyo al sector.

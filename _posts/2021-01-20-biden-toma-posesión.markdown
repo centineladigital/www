@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Joe Biden rinde protesta como el 46º presidente de Estados Unidos en una ceremonia al mediodía marcada por la ausencia del mandatario saliente, Donald Trump"
 image: "/uploads/2021/images-2515202.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden toma posesión como el 46º presidente de EU"
 front: false
 section: "Internacional"
-news_id: 182285
+redirect_from: /news/182285
 ---
 
 Joe Biden tomó hoy posesión como el 46º presidente de Estados Unidos en una ceremonia al mediodía marcada por la ausencia del mandatario saliente, Donald Trump.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Shakira no tuvo una buena experiencia en la música cuando cantaba en el coro de una escuela católica, por lo que tuvo que recurrir a la poesía. "
 image: "/uploads/2021/images-shakira-anuncio-lanzamiento-fragancia-semanas_0_1_960_596.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El poema que Shakira le escribió a Dios cuando tenía once años"
 front: false
 section: "Espectáculos"
-news_id: 182649
+redirect_from: /news/182649
 ---
 
 Shakira es una de las cantantes y bailarinas más icónicas de Latinoamérica. Nacida el 2 de enero de 1977 en Barranquilla, Colombia, con una trayectoria de que abarca un periodo de más de tres décadas, la colombiana celebra hoy su cumpleaños número 44. 

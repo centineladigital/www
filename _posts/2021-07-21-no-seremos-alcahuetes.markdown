@@ -10,11 +10,11 @@ author: nil
 description: "Señala que trabajará como AMLO siguiendo el desempeño de la gobernadora de Chihuahua."
 image: "/uploads/2021/images-LOERA.jpg"
 video: "/uploads/2021/videos-MW06_JUAN_CARLOS_LOERA.mp4"
-audio: "nil"
+audio: nil
 alt: "No seremos alcahuetes de la Gobernadora -  Loera"
 front: false
 section: "Local"
-news_id: 185883
+redirect_from: /news/185883
 ---
 
 El excandidato y diputado federal Juan Carlos Loera dijo que no será “alcahuete” de las acciones y decisiones que tomé la Gobernadora electa María Eugenia Campos Galván, destacando que el partido de Morena será una real oposición al trabajo que encabece la abanderada del PAN.

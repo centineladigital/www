@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Pronostica la dependencia que las precipitaciones serán hasta de 2 mm en la capital, Guerrero, Bocoyna, Guachochi, Guadalupe y Calvo, Balleza, Parral, Jiménez, Delicias y Ojinaga; el domingo podrían intensificarse"
 image: "/uploads/2021/images-Lluvias_CHIHUAHUA_agos_2021_(6).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trae “Nora” posibilidad de lluvias para Chihuahua y varios municipios este sábado y domingo"
 front: false
 section: "Local"
-news_id: 187232
+redirect_from: /news/187232
 ---
 
 Para este sábado 28 de agosto se pronostican lluvias aisladas con intervalos de chubascos (de 0.1 a 2 mm) en Chihuahua, Guerrero, Bocoyna, Guachochi, Guadalupe y Calvo, Balleza, Parral, Jiménez, Delicias y Ojinaga, informó la Coordinación Estatal de Protección Civil (CEPC).

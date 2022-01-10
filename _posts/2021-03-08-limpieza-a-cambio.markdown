@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Lavar tinacos y cisternas, meserear en una taquería y encargarse de la limpieza en una óptica fueron algunos de los trabajos que el cantante realizó antes de volverse famoso. "
 image: "/uploads/2021/images-julion-alvarez-cuartoscuro-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Limpieza a cambio de comida -  Julión Álvarez revela cómo era su vida antes de ser cantante"
 front: false
 section: "Espectáculos"
-news_id: 183333
+redirect_from: /news/183333
 ---
 
 Julión Álvarez es un cantante de música regional mexicana que ha vivido momentos muy difíciles; el más reciente tiene que ver con una acusación de lavado de dinero que el Departamento del Tesoro de Estados Unidos emitió en su contra. Pero durante una entrevista con Yordi Rosado, el nacido en Chiapas habló de otra situación complicada que tuvo que enfrentar: su vida antes de la fama, donde hizo de todo para salir adelante. "Trabajé de todo. En Chiapas, cuando me fui a la prepa, empecé a vivir en la casa de un amigo: era una óptica. Yo ahí me dedicaba a sacudir los muebles, barrer y trapear de 2 a 4, a la hora que cerraban la tienda para comer", contó el interprete de "Terrenal".  

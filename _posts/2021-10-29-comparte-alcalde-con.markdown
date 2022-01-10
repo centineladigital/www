@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Mencionó las acciones que realizará el Gobierno Municipal para hacer más competitiva la capital"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Comparte Alcalde con jóvenes universitarios la visión de un municipio competitivo"
 front: false
 section: "Local"
-news_id: 189333
+redirect_from: /news/189333
 ---
 
 El presidente municipal Marco Bonilla Mendoza participó en un conversatorio universitario del Patronato del Instituto de Estudios Superiores de Chihuahua donde impartió la ponencia “Visión de un Gobierno Competitivo”, el cual se llevó a cabo vía Zoom.

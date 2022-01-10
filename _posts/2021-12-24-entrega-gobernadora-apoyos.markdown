@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El recorrido se realizó sobre la calle Oscar Ornelas de la citada colonia, donde la mandataria acudió a la puerta de cada hogar y entregó personalmente los apoyos consistentes en pierna navideña, barra de jamón, despensas, así como dulces y juguetes en donde se encontraban niños y niñas."
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Gobernadora apoyos a madres solteras en colonia Cerro Prieto; se benefician más de 340 familias"
 front: false
 section: "Local"
-news_id: 191181
+redirect_from: /news/191181
 ---
 
 La gobernadora Maru Campos Galván entregó apoyos a madres solteras y mamás de hijos con discapacidad y habitantes de la colonia Cerro Prieto, en beneficio de cerca de 340 familias, gracias a la colaboración de empresas chihuahuenses que se sumaron al llamado de la titular del Ejecutivo Estatal, de favorecer a los más desprotegidos en esta época navideña.

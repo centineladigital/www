@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Servirán para abonar a la tierra y fortalecer la flora de diversos parques y jardines   "
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Generan composta con ramas de árboles derribados por lluvias"
 front: false
 section: "Local"
-news_id: 186026
+redirect_from: /news/186026
 ---
 
 Luego de que varios árboles de avenidas, viviendas y espacios públicos se cayeron por las fuertes lluvias que se registraron en días pasados en la ciudad, la Dirección de Mantenimiento Urbano está utilizando parte de los mismos para hacer aserrín y generar composta que servirá para abonar a la tierra y fortalecer la flora de diversos parques y jardines.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con la premiación de los primeros lugares en las diferentes categorías del automovilismo deportivo. "
 image: "/uploads/2021/images-temporada-super-copa-llegara-autodromo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Concluyó la Temporada 2021 de la Súper Copa"
 front: false
 section: "Deportes"
-news_id: 191342
+redirect_from: /news/191342
 ---
 
 Con la premiación de los pilotos de las diferentes categorías que integran el serial, cerró la décima Temporada 2021 de la Súper Copa, competencia de automovilismo deportivo. La ceremonia se llevó a cabo en Val'Quirico. Fue el piloto Michel Jourdain el encargado de dirigir el evento, donde agradeció a todos los presentes su participación a lo largo del año. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Destaca Jorge Espinoza que el exmandatario y su defensa saben perfectamente que el caso es sólido, por lo cual abandonan ya la argumentación jurídica y se van a apreciaciones muy subjetivas que no tienen valor alguno"
 image: "/uploads/2021/images-DAH_5703.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Da defensa de exgobernador patadas de ahogado -  Consejería Jurídica de Chihuahua"
 front: false
 section: "Local"
-news_id: 181944
+redirect_from: /news/181944
 ---
 
 La declaración de la defensa del exgobernador de Chihuahua respecto a que si el exmandatario es extraditado a esta entidad podría ser asesinado, como le ocurrió en Jalisco a Aristóteles Sandoval, son lo que popularmente se le llama patadas de ahogado, afirmó el consejero jurídico de Gobierno del Estado, Jorge Espinoza Cortés.

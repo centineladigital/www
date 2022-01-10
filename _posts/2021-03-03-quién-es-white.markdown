@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¡Tyler Hayward le mintió a todos! S.W.O.R.D prepara un arma para enfrentar a Wanda en Vestview. "
 image: "/uploads/2021/images-white-vision-aparicion-capitulo-wandavision.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Quién es White Vision, el personaje que aparece en créditos de WandaVision?"
 front: false
 section: "Espectáculos"
-news_id: 183243
+redirect_from: /news/183243
 ---
 
 ¡Nos timaron! El penúltimo capítulo de WandaVision, la serie que se transmite todos los viernes a las 02:00 horas en Disney +, esclareció algunos de los enigmas que teníamos acerca del origen de la realidad alterna de Westview, que si alguien más estaba controlando a Wanda, que si se podría tratar de Mephisto o algún otro enemigo; sin embargo, esta no era la única sorpresa. Tyler Hayward le mintió a todos en la serie de televisión, haciéndonos creer que fue Wanda quien había secuestrado el cuerpo de Vision y se lo llevó con ella, pero todo este tiempo planeaba crear un arma con el cuerpo del robot que hizo su primera aparición en Avengers: Age of Ultron y que murió en dos ocasiones en Avengers: Infinite War. 

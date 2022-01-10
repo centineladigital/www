@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La ex integrante de Garibaldi reveló que comenzó una relación amorosa con Luis Miguel tras una de sus rupturas con Xavier Ortiz. "
 image: "/uploads/2021/images-romance-luis-miguel-paty-manterola_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Amor a primera vista? Así fue el romance de Luis Miguel y Paty Manterola"
 front: false
 section: "Espectáculos"
-news_id: 184108
+redirect_from: /news/184108
 ---
 
 

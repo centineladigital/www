@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Recurso de revisión no evitará audiencia de Alcaldesa con licencia."
 image: "/uploads/2021/images-jorge.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM05_JORGE_ESPINOZA.mp3"
 alt: "Recursos no suspenderán audiencia contra Campos Galván"
 front: false
 section: "Local"
-news_id: 183232
+redirect_from: /news/183232
 ---
 
 El que se busque un recurso de revisión no suspenderá la audiencia contra la Alcaldesa con licencia María Eugenia Campos Galván, señaló el Consejero Jurídico Jorge Espinoza Cortés. Esto luego de que señaló que esto ha sido solicitado por parte de la defensa con el fin de evadir la realización de la audiencia correspondiente.

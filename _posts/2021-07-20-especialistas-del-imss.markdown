@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Hospital de Cardiología del Centro Médico Nacional Siglo XXI realizó la cirugía con éxito."
 image: "/uploads/2021/images-Foto_311-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Especialistas del IMSS trasplantaron corazón a paciente que padeció por 12 años de insuficiencia cardiaca"
 front: false
 section: "Local"
-news_id: 185841
+redirect_from: /news/185841
 ---
 
 Especialistas del Instituto Mexicano del Seguro Social (IMSS) de la Unidad Médica de Alta Especialidad (UMAE) Hospital de Cardiología del Centro Médico Nacional (CMN) Siglo XXI, realizaron con éxito un trasplante de corazón a paciente que durante 12 años padeció insuficiencia cardiaca a consecuencia de una miocarditis.

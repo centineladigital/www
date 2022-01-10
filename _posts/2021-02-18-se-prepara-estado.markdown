@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Anuncia el director de Transporte, David Holguín, que prevén que la falta de gas para las unidades se extienda hasta el fin de semana; en Chihuahua la planta propia abastecerá los Bowí"
 image: "/uploads/2021/images-imagen_2_del_brt_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se prepara Estado para enviar camiones diésel a Juárez para apoyar servicio"
 front: false
 section: "Local"
-news_id: 183008
+redirect_from: /news/183008
 ---
 
 El director de Transporte del Gobierno del Estado, David Holguín Baca, informó que prevén trasladar unidades a diésel para Ciudad Juárez en caso de que continúe el desabasto de gas, con lo que apoyarían en un 50 por ciento el servicio de transporte.

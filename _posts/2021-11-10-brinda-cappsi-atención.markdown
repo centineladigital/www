@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las sesiones son todos los jueves a las 12:00 horas"
 image: "/uploads/2021/images-unnamed_(9).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brinda CAPPSI atención terapéutica para adicciones con grupo de apoyo"
 front: false
 section: "Local"
-news_id: 189763
+redirect_from: /news/189763
 ---
 
 El Gobierno Municipal a través del Centro de Atención y Prevención Psicológicas (CAPPSI), reitera la importancia de atender la salud mental de las y los chihuahuenses mediante el grupo especializado “Lazos”; dirigido a las personas que se han visto afectadas directa o indirectamente por situaciones de adicción.

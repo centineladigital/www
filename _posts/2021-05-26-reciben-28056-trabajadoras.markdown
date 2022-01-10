@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Personal docente, administrativo, de apoyo y asistencia  reciben la vacuna de forma simultánea en las 12 sedes de 11 municipios en el primer día de la jornada"
 image: "/uploads/2021/images-SED_9647.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reciben 28,056 trabajadoras y trabajadores de educación vacuna contra COVID-19"
 front: false
 section: "Local"
-news_id: 184674
+redirect_from: /news/184674
 ---
 
 La Secretaría de Educación y Deporte (SEyD) informó que durante el primer día de la jornada de vacunación para el personal del sistema educativo de Chihuahua, se inoculó a 28 mil 056 trabajadoras y trabajadores en las 12 sedes ubicadas en 11 municipios de la entidad.

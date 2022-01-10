@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Luego de seis semanas de escuchar testimonios sobrecogedores durante el proceso, el jurado halló culpable al célebre cantante de 54 años de perpetrar abusos sexuales durante décadas. "
 image: "/uploads/2021/images-kelly-declarado-culpable-trafico-sexual.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Declaran culpable al cantante R. Kelly de abuso y tráfico sexual; esto sabemos"
 front: false
 section: "Espectáculos"
-news_id: 188118
+redirect_from: /news/188118
 ---
 
 R. Kelly fue declarado culpable este lunes de liderar una red para perpetrar delitos sexuales, según un jurado de Nueva York tras un juicio de seis semanas, ratificando todos los cargos, incluido los de abuso y tráfico sexual. 

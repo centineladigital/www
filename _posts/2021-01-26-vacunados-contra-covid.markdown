@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El director del IMSS, Zoé Robledo, destaca la primera aplicación de la dosis de Pfizer en los docentes de educación básica; se trabaja para inmunizar a maestros de colegios privados"
 image: "/uploads/2021/images-2518443.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vacunados contra Covid, 9 mil 'profes' de Campeche"
 front: false
 section: "Nacional"
-news_id: 182434
+redirect_from: /news/182434
 ---
 
 El director del IMSS, Zoé Robledo, informó que al momento 9 mil 149 docentes de educación básica en Campeche ya han recibido la primera dosis de la vacuna contra Covid-19 de Pfizer/BioNTech.

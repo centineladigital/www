@@ -10,11 +10,11 @@ author: nil
 description: "Necesario reforzar sistemas de control en producción agrícola."
 image: "/uploads/2021/images-SANTINI.jpg"
 video: "/uploads/2021/videos-MJ07_FRANCISCO_SANTINI.mp4"
-audio: "nil"
+audio: nil
 alt: "Espera CCE que no haya sanciones por cebollas contaminadas"
 front: false
 section: "Local"
-news_id: 189034
+redirect_from: /news/189034
 ---
 
 Tras la alerta por consumo de cebollas en Estados Unidos el Coordinador del Consejo Empresarial, Francisco Santini, expresó que espera no se tenga repercusiones o sanciones que perjudiquen a los productores.

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Mukhaled Al-Raqadi, jugador del Muscat FC de la Liga de Omán, se desplomó mientras se preparaba para partido ante el Suwaiq."
 image: "/uploads/2021/images-muere-futbolista-oman-paro-cardiaco_0_129_840_522.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Muere futbolista en Omán por un paro cardíaco durante calentamiento"
 front: false
 section: "Deportes"
-news_id: 191223
+redirect_from: /news/191223
 ---
 
 En los últimos días el futbol internacional se ha vestido de luto en varias ligas del mundo, pues han fallecido jugadores jóvenes que sufrieron alguna afección cardíaca ante, durante o después de un partido y en esta ocasión sucedió en Omán. 

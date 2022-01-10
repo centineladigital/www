@@ -10,11 +10,11 @@ author: nil
 description: "Redujeron deuda un 16 por ciento."
 image: "/uploads/2021/images-JAVIER.jpg"
 video: "/uploads/2021/videos-MJ01_JAVIER_CORRAL.mp4"
-audio: "nil"
+audio: nil
 alt: "Próxima administración deberá de pedir crédito -  Corral"
 front: false
 section: "Local"
-news_id: 185707
+redirect_from: /news/185707
 ---
 
 Pese a la reducción de la deuda en Chihua próxima administración que encabezará María Eugenia Campos Galván tendrá que solicitar un crédito, señaló el gobernador de Chihuahua, Javier Corral Jurado. Señalando que este viernes viajará a la ciudad de México para sostener algunas reuniones y saber si pueden recibir adelantos prespuestales con el fin de solventar la problemática que se tiene.

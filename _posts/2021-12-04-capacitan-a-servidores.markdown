@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El IMM llevó a cabo las pláticas para que brinden un mejor y oportuna atención"
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacitan a servidores públicos en tipos de violencia y protocolo de atención"
 front: false
 section: "Local"
-news_id: 190521
+redirect_from: /news/190521
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM), impartió la capacitación “Protocolo para la prevención, atención, sanción y erradicación de casos de violencia de género al interior del Gobierno Municipal de Chihuahua”, con el objetivo de informar al funcionariado sobre el proceso a seguir cuando se detecta algún caso de violencia, buscando evitar la revictimización al canalizar a las instituciones adecuadas.

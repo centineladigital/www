@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Primero se debe de fortalecer a la familia."
 image: "/uploads/2021/images-MARCO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_MARCO_BONILLA.mp3"
 alt: "En contra de legalización de la marihuana -  Bonilla"
 front: false
 section: "Local"
-news_id: 183371
+redirect_from: /news/183371
 ---
 
 En contra de la legalización de la marihuana fue como se manifestó el candidato del PAN a la Alcaldía de Chihuahua, Marco Antonio Bonilla Mendoza, en relación a la legalización de la marihuana en el país.

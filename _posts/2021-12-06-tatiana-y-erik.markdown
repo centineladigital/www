@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los internautas aseguraron que Carnívora y Perezoso no debían salir del reality; además exigieron la eliminación de La Hueva, pues aseguraron que el reality está comprado."
 image: "/uploads/2021/images-tatiana-erik-rubin-expulsados-mascara.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tatiana y Erik Rubín son expulsados de 'Quién es la máscara'; en redes acusan de fraude a reality"
 front: false
 section: "Espectáculos"
-news_id: 190542
+redirect_from: /news/190542
 ---
 
 El reality Quién es la máscara está en la recta final de su tercera temporada en donde se ha develado la identidad de reconocidas figuras del medio artístico mexicano, desde tiktokers hasta cantantes, tal es el caso de Kunno, Lorena Herrena, Dulce María, Sandra Echeverría o Faisy. En la emisión del pasado domingo se revelaron dos nuevos rostros el de Carnívora, quien resultó ser Tatiana, y Perezoso, que ocultaba a Erik Rubín; sin embargo, las reciente eliminaciones generaron la molestia de los internautas que acusaron de fraude al programa de Televisa.  

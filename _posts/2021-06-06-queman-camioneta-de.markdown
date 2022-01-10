@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los hechos tuvieron lugar en la comunidad indígena de Arantepacua, en Michoacán, donde pobladores secuestraron e incendiaron una camioneta en el acceso a la población"
 image: "/uploads/2021/images-2590586.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Queman camioneta de Mercado Libre para evitar instalación de casillas"
 front: false
 section: "Local"
-news_id: 184883
+redirect_from: /news/184883
 ---
 
 Habitantes de la comunidad indígena de Arantepacua secuestraron e incendiaron una camioneta en el acceso a la población para manifestarse en contra de la intensión de instalar casillas por parte del Instituto Nacional Electoral INE. 

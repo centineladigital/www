@@ -10,11 +10,11 @@ author: nil
 description: "Revisarán costos de basificar a personal gubernamental."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MM02_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Necesario revisar tema de puestos provisionales en Gobierno -  Jáuregui"
 front: false
 section: "Local"
-news_id: 188926
+redirect_from: /news/188926
 ---
 
 No solamente los policías están como trabajadores eventuales, por lo que es necesario el revisar el esquema y la forma en la cual se encuentran estipulados los trabajadores de gobierno estatal, declaró el Secretario General de Gobierno César Jáuregui Moreno.

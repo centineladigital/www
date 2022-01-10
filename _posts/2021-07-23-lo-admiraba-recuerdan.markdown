@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En redes ha surgido un video en donde Lupillo Rivera halagó la carrera de Christian Nodal, esto antes de que se desatara su polémica tras romance con Belinda. "
 image: "/uploads/2021/images-lupillo-rivera-hablo-estilo-cantar.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Lo admiraba? Recuerdan el día que Lupillo Rivera halagó la carrera de Nodal"
 front: false
 section: "Espectáculos"
-news_id: 185965
+redirect_from: /news/185965
 ---
 
 Desde que Christian Nodal y Belinda anunciaron su noviazgo salieron comparaciones entre el ahora prometido de Beli y Lupillo Rivera, quien también mantuvo un noviazgo con la cantante, sin embargo, la polémica se desató entre los dos cantantes de regional mexicano cuando el hermano de Jenni Rivera mencionó que él “había comido primero en la mesa”. 

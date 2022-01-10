@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El ex candidato presidencial del PAN compareció por su probable responsabilidad en un soborno de 6 millones 800 mil pesos para aprobar la reforma energética. "
 image: "/uploads/2021/images-ricardo-anaya-especial-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aplazan audiencia de Ricardo Anaya a enero de 2022 y juez le ordena presentarse físicamente"
 front: false
 section: "Nacional"
-news_id: 189630
+redirect_from: /news/189630
 ---
 
 Un juez federal ordenó al ex candidato presidencial Ricardo Anaya que se presente físicamente a la audiencia donde será imputado por la Fiscalía General de la República (FGR) por su presuntamente recibir un soborno de 6 millones 800 mil pesos para aprobar la reforma energética en el sexenio pasado. 

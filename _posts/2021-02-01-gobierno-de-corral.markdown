@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Desgraciadamente la pandemia tuvo muchos rostros que afectaron de manera drástica la economía"
 image: "/uploads/2021/images-GRGG.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AL04_GEROGINA_BUJANDAN.mp3"
 alt: "Gobierno de Corral estuvo enfocado en contrarrestar los efectos del Covid 19 -  Bujanda "
 front: false
 section: "Local"
-news_id: 182603
+redirect_from: /news/182603
 ---
 
 Debido  la entrega del cuarto informe de gobierno de Javier Corral, en el Congreso del Estado, la diputada local del PAN, Georgina Bujanda Ríos, señaló que lo que se espera de este informe es una gestión que estuvo muy enfocada a contrarrestar los terribles efectos del Covid 19.

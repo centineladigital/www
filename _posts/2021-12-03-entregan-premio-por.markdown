@@ -14,11 +14,11 @@ author: nil
 description: "El plan  de desarrollo 2021 2024 se alinea a la perspectiva de las personas con discapacidad."
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-03_at_2.10.44_PM.jpeg"
 video: "/uploads/2021/videos-BV04_PREMIOS_.mp4"
-audio: "nil"
+audio: nil
 alt: "Entregan premio por inclusión a personas con discapacidad "
 front: false
 section: "Local"
-news_id: 190493
+redirect_from: /news/190493
 ---
 
 El centro integral educando y asistencia con animales de compañía A.C y Aarón Pedraza Rodríguez recibieron un premio en la categoría persona moral y persona física respectivamente por la inclusión social de personas con discapacidad.

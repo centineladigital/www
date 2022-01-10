@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La temporada de frentes fríos se extenderá hasta mayo de 2022. Te mostramos cuántos se pronostican y en qué fechas se podrían presentar. "
 image: "/uploads/2021/images-FRENTE-FRIO1.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Alista las chamarras! Estos son los frentes fríos que se esperan para 2021"
 front: false
 section: "Nacional"
-news_id: 188130
+redirect_from: /news/188130
 ---
 
 ¡Tápate bien! La temporada de frentes fríos comenzó el 21 de septiembre y se extenderá hasta mayo de 2022. La Comisión Nacional del Agua (Conagua) informó cuándo, qué podrían ser afectados y  cuántos sistemas se esperan en este periodo. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¿No les gustó? Critican el remake de Cándido Pérez protagonizado por Arath de la Torre; te contamos por qué no gustó la nueva versión. ¿Lo hacía mejor Jorge Ortiz de Pinedo? "
 image: "/uploads/2021/images-critican-candido-perez-arath-torre.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Jorge Ortiz de Pinedo era mejor? Critican 'Cándido Pérez' con Arath de la Torre -  nunca debió existir"
 front: false
 section: "Espectáculos"
-news_id: 185813
+redirect_from: /news/185813
 ---
 
 El remake de Cándido Pérez se estrenó ayer en Las Estrellas de Televisa con la participación protagónica de Arath de la Torre –quien actualmente enfrenta una polémica con Los Voladores de Papantla–. ¿Cómo se vivió el estreno? Aunque se esperaba que la producción del programa que originalmente fue comandada por Jorge Ortiz de Pinedo estuviera llena de halagos y aplausos, lo cierto es que fue todo lo contrario, pues en redes sociales las críticas sobresalieron. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La CEPC informa que las precipitaciones serán de aisladas a dispersas en Ciudad Juárez, Palomas, Janos, Nuevo Casas Grandes, Madera, Gómez Farías y Temósachic"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronostican lluvias en norte y noroeste del estado  con ráfagas hasta de 85 km/h"
 front: false
 section: "Local"
-news_id: 182411
+redirect_from: /news/182411
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que para este lunes 25 de enero se esperan ráfagas de viento que podrían superar los 85 kilómetros por hora (km/h) en el noroeste, suroeste y centro de la entidad, así como lluvias en municipios del norte.

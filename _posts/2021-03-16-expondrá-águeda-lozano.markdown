@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Dentro de las obras se encuentra “Duelo de Basaseachi”."
 image: "/uploads/2021/images-AGUEDA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM04.mp3"
 alt: "Expondrá Águeda Lozano en Chihuahua"
 front: false
 section: "Local"
-news_id: 183441
+redirect_from: /news/183441
 ---
 
 Con el nombre “La vida del metal” es como se denominará la exposición de la obra de la escultora chihuahuense Águeda Lozano, la cual será exhibida en la calle Vicente Guerrero de la ciudad de Chihuahua. En lo que es la tercer exposición que monta la artista nativa del estado en el mismo.

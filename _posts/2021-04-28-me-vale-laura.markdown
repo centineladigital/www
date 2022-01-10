@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Laura Bozzo y Lolita Cortés tuvieron tremendo encontronazo en el programa Hoy de Televisa; Galilea Montijo también mostró su desagrado a la conductora peruana. ¿Fue armado? ¿Qué ocurrió? "
 image: "/uploads/2021/images-laura-bozzo-lolita-cortes-pelean.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me vale -  Laura Bozzo y Lolita Cortés protagonizan pelea en plena transmisión en vivo de 'Hoy'"
 front: false
 section: "Espectáculos"
-news_id: 184172
+redirect_from: /news/184172
 ---
 
 Lolita Cortés y Laura Bozzo tuvieron tremendo encontronazo en plena transmisión en vivo del programa Hoy de Televisa. Con contundentes comentarios, las famosas se enfrascaron en una pelea en la que también se unió Galilea Montijo, pues tampoco se lleva bien con la conductora peruana. ¿Por qué inició la pelea? Con gestos, burlas y mucho enojo, la sección Las Estrellas bailan en Hoy se llevó a cabo. Incluso, después del pleito, Lolita Cortés terminó llorando ¿Por culpa de Laura Bozzo? Te contamos lo que sucedió en la revista matutina. Fue durante la emisión del programa Hoy en donde Lolita Cortés enfrentó a Laura Bozzo, esto luego de que la ex conductora de TV Azteca en días previos asegurara que no veía talento en la peruana y que la tachara de narcisista. 

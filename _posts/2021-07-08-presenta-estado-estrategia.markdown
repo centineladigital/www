@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El gobernador Javier Corral, destaca que este documento da certidumbre a las actividades de los ciclos escolares y garantiza el acceso a una educación en igualdad de condiciones.    "
 image: "/uploads/2021/images-_DSC7680.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presenta Estado Estrategia Chihuahua para el sector educativo elaborada junto con magisterio."
 front: false
 section: "Local"
-news_id: 185447
+redirect_from: /news/185447
 ---
 
 El Gobierno del Estado presentó oficialmente la Estrategia Chihuahua para el nivel básico, ciclos escolares 2020-2021 y 2021-2022, que se realizó con el acompañamiento del sector magisterial y toma en cuenta los factores geográficos, socioeconómicos, culturales y de infraestructura que imperan en la entidad.

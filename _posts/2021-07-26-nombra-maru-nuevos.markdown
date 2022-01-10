@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Luis Serrato dio a conocer cuatro nuevo nombramientos que realizó la Gobernadora Electa, Maru Campos en materia de Trabajo, Desarrollo Municipal, Salud y el Despacho de la Gobernadora."
 image: "/uploads/2021/images-WhatsApp_Image_2021-07-26_at_14.50.20.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-07-26_at_14.50.33.mpeg"
 alt: "Nombra Maru nuevos funcionarios de transición"
 front: false
 section: "Local"
-news_id: 186005
+redirect_from: /news/186005
 ---
 
 Para continuar con el proceso de entrega recepción, este lunes el  Coordinador de Transición del Gobierno Entrante, Luis Serrato dio a conocer cuatro nuevo nombramientos que realizó la Gobernadora Electa, Maru Campos en materia de Trabajo, Desarrollo Municipal, Salud y el Despacho de la Gobernadora.

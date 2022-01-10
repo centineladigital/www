@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Un alto funcionario de la Casa Blanca aseguró que Washington pretende centrarse en una combinación de apoyo al ejército ucraniano, fuertes sanciones económicas y un aumento sustancial del apoyo. "
 image: "/uploads/2021/images-biden-putin-hablara-proxima-semana.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estados Unidos, dispuesto a aumentar tropas en Europa del Este ante ataque ruso a Ucrania"
 front: false
 section: "Internacional"
-news_id: 190572
+redirect_from: /news/190572
 ---
 
 Estados Unidos responderá afirmativamente si sus aliados de Europa del Este le solicitan una mayor presencial militar en caso de un ataque ruso a Ucrania, aseguró un alto funcionario de la Casa Blanca. 

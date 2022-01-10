@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Expo Viaja 2021 tendrá un horario de 11:00 a.m a 8:00 p.m con un costo simbólico de 25 pesos por persona"
 image: "/uploads/2021/images-RGGHTRH.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AW02_Adalberto_Castro.mp3"
 alt: "Presenta Canaco Chihuahua Expo Viaja 2021"
 front: false
 section: "Local"
-news_id: 185065
+redirect_from: /news/185065
 ---
 
 La Cámara Nacional de Comercio, Servicios y Turismo (Canaco) de Chihuahua anunció en rueda de prensa el evento Expo Viaja 2021, mismo que se llevará a cabo los días 19 y 20 de junio en Expo Chihuahua con el fin de promover el turismo en la entidad.

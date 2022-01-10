@@ -10,11 +10,11 @@ author: nil
 description: "A morosos anteriores al 2020, piden acercarse a la dependencia."
 image: "/uploads/2021/images-gil.jpg"
 video: "/uploads/2021/videos-MW01_GILB_BACA.mp4"
-audio: "nil"
+audio: nil
 alt: "Condonarán 90 por ciento de recargos a deudores de agua"
 front: false
 section: "Local"
-news_id: 190651
+redirect_from: /news/190651
 ---
 
 Adeudos de 2020 y anteriores serán condonados a un 90 por ciento, según lo dio a conocer el Director Comercial de la Junta de Agua y Saneamiento Gilberto Baca Guardiola. Esto dentro del programa “Ponte al corriente” el cual busca reducir la cartera vencida de la dependencia. 

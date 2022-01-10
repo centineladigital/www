@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente reconoció al presidente de la SCJN disponibilidad para evitar abusos en impartición de justicia; busca se indague actuación de juez que suspendió ley"
 image: "/uploads/2021/images-2545923.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Agradece López Obrador a Zaldívar aceptar queja por ley eléctrica"
 front: false
 section: "Nacional"
-news_id: 183437
+redirect_from: /news/183437
 ---
 
 El presidente Andrés Manuel López Obrador agradeció que el Poder Judicial de la Federación haya canalizado su queja en contra del juez que suspendió la entrada en vigor de las reformas a la ley de la Industria Eléctrica. 

@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Llama UACH a sus estudiantes a vacunarse, habrá módulos especiales en la jornada de este martes"
 image: "/uploads/2021/images-uach.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La UACH tendrá módulos de vacunación"
 front: false
 section: "Local"
-news_id: 186006
+redirect_from: /news/186006
 ---
 
 La Universidad Autónoma de Chihuahua instalará dos módulos especiales de vacunación contra la Covid-19 para sus estudiantes este martes 27 de julio, ubicados en el Campus II informó el secretario ejecutivo del Comité de Salud, Luis Alonso Fierro Méndez.

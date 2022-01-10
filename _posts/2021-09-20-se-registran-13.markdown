@@ -14,11 +14,11 @@ author: nil
 description: "Al 20 de septiembre se tiene un total general de 77 mil 220 contagios en el estado. "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-20_at_12.12.34.jpeg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-09-20_at_11.23.23.3gpp"
-audio: "nil"
+audio: nil
 alt: "Se registran 13 nuevos contagios de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 187876
+redirect_from: /news/187876
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 20 de septiembre se tiene un total general de 77 mil 220 contagios en el estado. Luego de confirmarse otros 13 más en Juárez, Parral, Cuauhtémoc, Nuevo Casas Grandes, Jiménez y Bocoyna. También se ratificó el incremento en el número de defunciones quedando en      7 mil 909; en recuperados suman 66 mil 192 (+25) recuperados, descartados son 65 mil 450 (+188) y contabiliza en 854 (+6) los casos sospechosos.

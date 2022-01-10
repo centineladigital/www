@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Anteriormente, otro misil israelí mató a dos combatientes sirios, además de herir a otros seis soldados. "
 image: "/uploads/2021/images-guerra-siria-dejado-crisis-visto_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ataque aéreo israelí deja a cuatro muertos en Siria"
 front: false
 section: "Internacional"
-news_id: 188721
+redirect_from: /news/188721
 ---
 
 Un ataque aéreo del ejército israelí en la provincia de Homs (centro de Siria) mató el miércoles a un soldado sirio y a tres combatientes proiraníes, indicó el Observatorio Sirio de Derechos Humanos, una organización británica que monitorea el conflicto. 

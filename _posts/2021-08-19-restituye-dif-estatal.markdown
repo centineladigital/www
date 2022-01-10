@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El menor es originario de Honduras y fue integrado a una familia de acogida, con lo que se evita su canalización a un Centro de Asistencia Social en tanto se resuelve su proceso migratorio   "
 image: "/uploads/2021/images-WhatsApp_Image_2021-08-19_at_9.33.36_AM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Restituye DIF Estatal el derecho a una familia a niño migrante centroamericano"
 front: false
 section: "Local"
-news_id: 186913
+redirect_from: /news/186913
 ---
 
 Por primera vez en la historia, la Procuraduría de Protección de Niñas, Niños y Adolescentes integró a un niño migrante de origen extranjero a una familia de acogida, con la que vivirá en Ciudad Juárez en tanto se resuelve su situación migratoria.

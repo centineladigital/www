@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Jefa del Ejecutivo refrendó su compromiso por mejorar las condiciones de los hospitales del estado y de quienes laboran en ellos. "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-25_at_10.42.45.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recorre Gobernadora el Hospital General de Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 188065
+redirect_from: /news/188065
 ---
 
 La gobernadora del estado de Chihuahua, Maru Campos Galván recorrió las instalaciones del Hospital General de Ciudad Juárez como parte de la gira de trabajo que la titular del ejecutivo tuvo en la ciudad fronteriza.

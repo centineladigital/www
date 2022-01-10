@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La madre de Issabela Camil, Tony Starr, explicó las razones por la que Luis Miguel y su hija terminaron la relación amorosa. ¿Infidelidad? ¿Por buscar a su madre? ¿Qué fue lo que pasó? "
 image: "/uploads/2021/images-luis-miguel-issabela-camil-tuvieron.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ninguno quería casarse -  madre de Issabela Camil contó por qué su hija terminó con Luis Miguel"
 front: false
 section: "Espectáculos"
-news_id: 183984
+redirect_from: /news/183984
 ---
 
 Luis Miguel, El Sol, ha dejado al descubierto –en su serie de Netflix– un poco de los amoríos que tuvo en su pasado. Entre estos se encuentra el romance que tuvo con Issabela Camil, hermana de Jaime Camil, el cual presuntamente fue lleno de respeto y amor. Pero ¿entonces por qué terminaron? En la serie dejaron entrever que la ruptura se debía a la búsqueda que emprendió el cantante de su madre. Sin embargo, al parecer es una falsedad. ¿Por qué terminaron? Tony Starr, madre de Issabela Camil, rompió el silencio y reveló los verdaderos motivos por los que el amor acabó. En entrevista para Ventaneando, la madre de Issabela Camil, Tony Starr, explicó las razones por la que Luis Miguel y su hija terminaron la relación amorosa. 

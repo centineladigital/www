@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exigen resolución de asesinatos a familiares."
 image: "/uploads/2021/images-ADRIAN.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM03_ADRIAN_LEBARON.mp3"
 alt: "Realizarán marcha familia Lebaron"
 front: false
 section: "Local"
-news_id: 183862
+redirect_from: /news/183862
 ---
 
 Con el fin de que se resuelvan crímenes como los que se registraron el 4 de noviembre del 2019, integrantes de la comunidad Lebaron dieron a conocer una marcha que se llevará a cabo desde su comunidad y llegará a la ciudad de Chihuahua el 26 de abril del presente año.

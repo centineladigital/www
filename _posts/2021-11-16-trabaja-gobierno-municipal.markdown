@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se tiene a 90 empleados municipales realizando las labores limpieza en entrecalles"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabaja Gobierno Municipal en programa de limpieza para calles en las colonias de la ciudad"
 front: false
 section: "Local"
-news_id: 189881
+redirect_from: /news/189881
 ---
 
 El Gobierno Municipal trabaja en un programa de limpieza de las entrecalles de todas las colonias de la ciudad con el objetivo mantener una ciudad más limpia para las y los chihuahuenses.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dice la jefa de gobierno de la CDMX que su obligación es que la línea del Metro quede en las mejores condiciones; está de acuerdo con que se lleguen a acuerdos reparatorios para quien resulte responsable"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Confío en la Fiscalía, dice Sheinbaum sobre peritaje de la Línea 12"
 front: false
 section: "Nacional"
-news_id: 188763
+redirect_from: /news/188763
 ---
 
 La Jefa de Gobierno de la Ciudad de México, Claudia Sheinbaum Pardo, comentó que confía en la Fiscalía General de Justicia y en la orientación que tiene en relación al peritaje que realizó sobre el accidente de la Línea 12. 

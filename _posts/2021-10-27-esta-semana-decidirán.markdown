@@ -10,11 +10,11 @@ author: nil
 description: "Cables rotos, fallas en diversos juegos originarían que no sean abiertos."
 image: "/uploads/2021/images-FERNANDO.jpg"
 video: "/uploads/2021/videos-MW05_FERNANDO_EGUIARTE.mp4"
-audio: "nil"
+audio: nil
 alt: "Esta semana decidirán apertura de parque “El Colibrí”"
 front: false
 section: "Local"
-news_id: 189263
+redirect_from: /news/189263
 ---
 
 Será esta semana cuando decidan si se aperturará el parque “El Colibrí” y se conocerá el monto requerido para la corrección de las fallas, señaló el Director del DIF en Chihuahua Gabriel Eguiarte Frus, quien destacó que se contrató un especialista para la revisión de los juegos.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Explicó que MORENA no está en contra de resarcir los recursos mencionados al Tribunal Superior de Justicia"
 image: "/uploads/2021/images-Imagen1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AM02_MIGUEL_COLUNGA.mp3"
 alt: "Incongruencias votan reducir presupuesto al tribunal y luego aprueban recursos adicionales -  Miguel Colunga"
 front: false
 section: "Local"
-news_id: 182072
+redirect_from: /news/182072
 ---
 
 La Comisión de Programación, Presupuesto y Hacienda Pública, aun no logra dictaminar la iniciativa del préstamo a largo plazo solicitado por el Ejecutivo Estatal por un monto de mil ,633.8 millones de pesos; sin embargo dio entrada a una iniciativa  promovida por el Diputado Rene Frías Bencomo, mediante el cual solicita recursos adicionales para el Tribunal Superior de Justicia por un monto de $ 65.4 mdp que son requeridos para solventar necesidades más apremiantes en materia de tecnología, informó el coordinador de la bancada de Morena Miguel Colunga.

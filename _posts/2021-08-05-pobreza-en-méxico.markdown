@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Son 3.8 millones más que en 2018 producto de la crisis sanitaria"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pobreza en México llega a 55.7 millones de personas en 2020 -  Coneval"
 front: false
 section: "Nacional"
-news_id: 186316
+redirect_from: /news/186316
 ---
 
 El número de personas en situación de pobreza en México pasó de 51.9 a 55.7 millones de personas entre 2018 y 2020, lo que significó un incremento de 3.8 millones, informó José Nabor Cruz Marcelo, secretario ejecutivo del Consejo Nacional de Evaluación de la Política de Desarrollo Social (Coneval).

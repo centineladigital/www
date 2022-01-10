@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los incendios forestales, impulsados por el cambio climático, hicieron que miles de familias huyeran del estado. Tuvieron que dejar todo atrás y empezar de nuevo. Son los 'migrantes climáticos'. "
 image: "/uploads/2021/images-jefe-batallon-sergio-mora-observa.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lo perdimos todo -  Familias abandonan California por consecuencias del cambio climático"
 front: false
 section: "Internacional"
-news_id: 189197
+redirect_from: /news/189197
 ---
 
 Jessica Distefano es una madre de familia que junto con su familia decidió abandonar California debido a los incendios forestales, sumándose así a los miles de 'migrantes climáticos' que cada año huyen por eventos catastróficos. 

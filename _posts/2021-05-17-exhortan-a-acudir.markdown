@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Chihuahua de las cifras más bajas en vacunación de sarampión y rubiola."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML03_WENDY_AVILA.mp3"
 alt: "Exhortan a acudir a vacunarse"
 front: false
 section: "Local"
-news_id: 184503
+redirect_from: /news/184503
 ---
 
 Debido a la importancia que se tiene en materia de salud, personal del área de salud exhortó a vacunarse. Esto ya que se está llevando a cabo las Jornadas de Salud Pública, donde se aplicarán las inmunizaciones contra sarampión y rubiola, según fue dado a conocer por parte de Wendy Avila Coronado, Subdirectora de Medicina Preventiva y Pomoción de la Salud.

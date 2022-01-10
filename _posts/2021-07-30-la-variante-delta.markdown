@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Según un informe de los Centros de Control de Enfermedades de Estados Unidos (CDC) reconoce que debe ajustar sus mensajes a la población enfatizando que la vacunación es la mejor defensa"
 image: "/uploads/2021/images-Sin_título.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La variante delta puede ser tan contagiosa como la varicela, según EU"
 front: false
 section: "Internacional"
-news_id: 186129
+redirect_from: /news/186129
 ---
 
 La variante delta de la covid-19 al parecer causa una enfermedad más grave y es tan contagiosa como la varicela, según un informe de los Centros de Control de Enfermedades de Estados Unidos (CDC) publicado por medios estadounidenses.

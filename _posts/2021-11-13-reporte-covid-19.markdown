@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Secretaría de Salud pide a la población continuar con las medidas preventivas, como son: lavado frecuente de manos o uso de gel antibacterial, mantener la sana distancia de 1.5 metros entre personas, así como portar el cubrebocas en todas las actividades."
 image: "/uploads/2021/images-BE369631-69C9-4CAD-AB97-AAA9A9F69625.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reporte COVID-19"
 front: false
 section: "Local"
-news_id: 189827
+redirect_from: /news/189827
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 13 de noviembre el reporte COVID-19, en el cual se registran 83 mil 254 (+151) personas confirmadas en la entidad por este padecimiento, 71 mil 701 (+170) casos recuperados, 77 mil 712 (+351) descartados y 845 (+36) casos sospechosos.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los municipios con más contagios acumulados son: Juárez con 29,723, Chihuahua 15,623, Parral 2,417, Delicias 2,220, Cuauhtémoc 2,026, Ojinaga 1,191, Nuevo Casas Grandes 891, Camargo 512, Jiménez 417 y Guachochi con 392"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aumenta en 201 casos y 14 personas fallecidas último reporte COVID-19"
 front: false
 section: "Local"
-news_id: 183645
+redirect_from: /news/183645
 ---
 
 La Secretaría de Salud dio a conocer que en el último reporte COVID-19 se incrementaron en 201 los casos confirmados, para llegar a un total de 58 mil 795 en el estado de Chihuahua.

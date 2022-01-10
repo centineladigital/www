@@ -16,11 +16,11 @@ author: nil
 description: "El monto de los articulos haciende a 50 mil pesos "
 image: "/uploads/2021/images-robo-escuela.jpg"
 video: "/uploads/2021/videos-BW05_JESUS_REYEES_.mp4"
-audio: "nil"
+audio: nil
 alt: "Sospechosos de robo en escuela fueron capturados "
 front: false
 section: "Local"
-news_id: 188448
+redirect_from: /news/188448
 ---
 
 En relación con el robo a la escuela Salvador Díaz Mirón el vocero de seguridad pública municipal Jesús Reyes mencionó, que según el reporte se encontraban 2 sujetos con algunos artículos de cocina, los cuales eran pertenecientes a la escuela.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Estados Unidos advirtió que los decomisos de droga en sus fronteras se dispararon en 90 por ciento durante noviembre, y en lo que va de diciembre también parecen ir en aumento. "
 image: "/uploads/2021/images-reapertura-frontera-trajo-aumento-incautacion_0_53_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU alerta incremento del 90% en decomisos de droga por reapertura en la frontera"
 front: false
 section: "Internacional"
-news_id: 191004
+redirect_from: /news/191004
 ---
 
 Estados Unidos advirtió que los decomisos de droga en sus fronteras se dispararon en 90 por ciento durante noviembre, y en lo que va de diciembre también parecen ir en aumento. 

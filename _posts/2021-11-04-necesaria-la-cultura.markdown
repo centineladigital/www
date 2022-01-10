@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cáncer de pene no es tan frecuente y depende de hábitos sexuales de la persona, sobre todo si existen factores de riesgo como infección por VPH. "
 image: "/uploads/2021/images-IMSS_Boletín_497_foto1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Necesaria la cultura de la prevención y detección oportuna del cáncer de próstata, testículo y pene -  IMSS "
 front: false
 section: "Local"
-news_id: 189550
+redirect_from: /news/189550
 ---
 
 Especialistas del Instituto Mexicano del Seguro Social (IMSS) hicieron un llamado a fomentar la cultura de la prevención entre hombres para detectar de manera oportuna cáncer de próstata, testículo y pene, y que acudan a una revisión médica de manera periódica para cuidar su salud.

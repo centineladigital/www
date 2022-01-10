@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Espera que ciudadanía apoye su proyecto."
 image: "/uploads/2021/images-CABALLO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02_ALFREDO_LOZOYA.mp3"
 alt: "Exhorta MC a emitir el voto este 6 de junio"
 front: false
 section: "Local"
-news_id: 184757
+redirect_from: /news/184757
 ---
 
 El candidato de Movimiento Ciudadano a la gubernatura, Alfredo “El caballo” Lozoya, exhortó a los ciudadanos a votar, destacando que este proyecto es sólido de mujeres y hombres trabajadores que dejan que exista algo que no se tenga que avergonzar las familias.

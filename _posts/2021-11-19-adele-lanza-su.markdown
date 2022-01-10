@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de varios años, por fin Adele lanzó este 19 de noviembre su disco 30. En este álbum la cantante toca temas como su divorcio. "
 image: "/uploads/2021/images-adele-lanzo-viernes-cuarto-album.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Adele lanza su nuevo disco '30'; ésta es la inspiración detrás de sus nuevas canciones"
 front: false
 section: "Espectáculos"
-news_id: 189994
+redirect_from: /news/189994
 ---
 
 Desde que se dio a conocer internacionalmente, Adele se ha caracterizado por tener una potente voz y escribir canciones con letras que son capaces de conmover a casi cualquier persona y ahora, la cantante ha lanzado su disco 30, el cual es una catarsis que le supuso su divorcio. En línea con sus tres discos anteriores, la artista británica en su nuevo y esperado álbum 30, que sale este viernes a la venta, se adentra en el dolor del corazón con su voz potente y rota acompañada del piano que ha convertido en marca de la casa.

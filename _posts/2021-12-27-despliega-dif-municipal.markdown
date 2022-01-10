@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En compañía del Alcalde recorrieron la colonia Nuevo Ejido para entregar cenas, despensas, juguetes y cobijas"
 image: "/uploads/2021/images-unnamed_(9).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Despliega DIF Municipal a todo su personal para entregar mil 200 cenas en Navidad"
 front: false
 section: "Buenas Noticias"
-news_id: 191225
+redirect_from: /news/191225
 ---
 
 Esta Navidad, fue diferente para mil 200 familias de diversas colonias vulnerables del Municipio, al recibir en la puerta de su hogar cenas navideñas, despensas, juguetes y chamarras por parte del alcalde Marco Bonilla, su esposa y presidenta del DIF Municipal, Karina Olivas y del personal asignado en llevar esperanza a estos hogares.

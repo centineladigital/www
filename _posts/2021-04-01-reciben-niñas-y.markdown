@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La entrega se realizó a través de Desarrollo Social  y beneficia a pacientes de todo el territorio estatal que son atendidos por la institución médica"
 image: "/uploads/2021/images-Entrega_pañales_hospital-11.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reciben niñas y niñas del Hospital Infantil miles de pañales de Gobierno del Estado"
 front: false
 section: "Local"
-news_id: 183648
+redirect_from: /news/183648
 ---
 
 La Secretaría de Desarrollo Social del Gobierno del Estado realizó la entrega de seis mil pañales para beneficio de niñas y niños que se encuentran internados en el Hospital Infantil de Especialidades de Chihuahua, en la capital del estado.

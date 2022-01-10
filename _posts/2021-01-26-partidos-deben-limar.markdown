@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Tras encontrarse en la recta final del proceso de precampaña es difícil dar un posicionamiento sobre lo que se considera mejor para el desarrollo del estado "
 image: "/uploads/2021/images-Imagen1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AM05_PATRICIO_MARTINEZ.mp3"
 alt: "Partidos deben limar diferencias internas y presentar soluciones -  Patricio Martínez"
 front: false
 section: "Local"
-news_id: 182458
+redirect_from: /news/182458
 ---
 
 El ex gobernador de Chihuahua, Patricio Martínez García, consideró que al terminar el trabajo de los partidos para formalizar el registro de sus candidatos a la gubernatura, estos deberán de liberarse de las diferencias que existen al interior de los partidos y demuestra la capacidad que tiene para aplicar soluciones a los problemas que habrá de enfrentar el estado en el futuro próximo.

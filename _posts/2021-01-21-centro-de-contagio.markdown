@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Monterrey suspendió sus próximos dos juegos luego de 19 casos de covid-19"
 image: "/uploads/2021/images-2515842.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Centro de contagio; Rayados cerró sus instalaciones"
 front: false
 section: "Deportes"
-news_id: 182318
+redirect_from: /news/182318
 ---
 
 Rayados de Monterrey confirmó que 19 elementos del primer equipo, entre jugadores y cuerpo técnico, dieron positivo a covid-19, por lo que la Liga MX aplazó sus dos próximos juegos. El América, rival de los regios en la Jornada 2, separó a futbolistas de su plantel por presentar síntomas, entre ellos al portero Guillermo Ochoa y Nicolás Benedetti.

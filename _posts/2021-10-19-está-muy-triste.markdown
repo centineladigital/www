@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante relató que cuando el grupo Jeans llegó a su fin buscó lanzarse como solista, pero sus planes se vieron frustrados debido a Belinda. "
 image: "/uploads/2021/images-karla-diaz-revela-culpa-belinda_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Está muy triste -  Karla Díaz revela que por culpa de Belinda se arruinó su carrera de solista"
 front: false
 section: "Espectáculos"
-news_id: 188904
+redirect_from: /news/188904
 ---
 
 Karla Díaz saltó a la fama tras su participación en Jeans (JNS), grupo pop que se formó a principios de la década de 1990 -entre sus integrantes estaban Paty Sirvent, Litzy y Regina Murguía-; en 2008 la banda se desintegró y la cantante decidió continuar su carrera como solista, pero sus planes se vieron frustrados por culpa Belinda, así lo confesó la misma artista.  En una entrevista para el programa La Cotorrisa, Karla Díaz confesó que tuvo que tocar muchas puertas después de que el grupo Jeans llegó a su fin, pues aunque había sido parte de dicho proyecto musical por más de una década, su experiencia y popularidad en la industria no le permitió conseguir nuevas oportunidades.  

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal realizó un homenaje en el Monumento al Bombero Caído, en memoria de dos bomberos que perdieron la vida al combatir un incendio en varios locales de la calle Libertad hace 15 años."
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conmemora Gobierno Municipal a bomberos caídos en cumplimento de su deber   "
 front: false
 section: "Local"
-news_id: 187950
+redirect_from: /news/187950
 ---
 
 Dicho homenaje estuvo encabezado por el alcalde, Marco Bonilla, el director de Seguridad Pública Municipal, autoridades municipales y elementos del Heroico Cuerpo de Bomberos y Policía, en la calle Libertad justo frente al local comercial donde Remedios Jorge Guzmán y Humberto Siáñez, quedaron atrapados al desplomarse un techo de uno de los locales donde se encontraban apagando el incendio.  

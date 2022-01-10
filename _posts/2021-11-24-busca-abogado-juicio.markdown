@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto por la elección de jueces y magistrados."
 image: "/uploads/2021/images-MARTIN.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04_MARTIN_AGUILAR.mp4"
 alt: "Busca abogado juicio contra Lucha Castro"
 front: false
 section: "Local"
-news_id: 190157
+redirect_from: /news/190157
 ---
 
 Que la exconsejera jurídica del Tribunal Superior de Justicia sea llevada a juicio es lo que se busca por parte de un grupo de abogados, según lo dio a conocer el representante de éstos Martín Aguilar Perón.

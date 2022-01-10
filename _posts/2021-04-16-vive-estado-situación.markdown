@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La curva epidemiológica que se espera pueda llegar es más grave que la que se vivió en el mes de octubre."
 image: "/uploads/2021/images-diapositiva3-310.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV01.mp3"
 alt: "Vive estado situación más grave que en octubre"
 front: false
 section: "Local"
-news_id: 183933
+redirect_from: /news/183933
 ---
 
 La curva epidemiológica que se espera pueda llegar es más grave que la que se vivió en el mes de octubre, señaló la Subdirectora de Medicina Preventiva y Promoción de la Salud, Wendy Ávila Coronado. Esto al dar a conocer la actualización de cifras de coronavirus. Señalando que la cifra de la semana 14 supera las cifras que se tienen registradas al inicio del pico del año pasado.

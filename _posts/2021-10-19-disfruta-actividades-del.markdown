@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se darán pulseras de acceso para la zona cercana al escenario"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Disfruta actividades del FICUU en presa El Rejón a partir de mañana   "
 front: false
 section: "Local"
-news_id: 188937
+redirect_from: /news/188937
 ---
 
 Como parte de las actividades del Festival Internacional de la Ciudad de Chihuahua (FICUU) 2021, este miércoles 20 de octubre a las 17:00 horas se retomarán las presentaciones de artistas en el escenario ubicado en la presa El Rejón, los interesados deberán llegar temprano para poder obtener una pulsera, que les dará acceso a la zona vallada cercana al escenario.

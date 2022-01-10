@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el objetivo de la profesionalización de los elementos de policías, bomberos y administrativos de la Dirección de Seguridad Pública Municipal (DSPM)"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza Alcaldesa presentación del Instituto Superior de Seguridad Chihuahua"
 front: false
 section: "Local"
-news_id: 187411
+redirect_from: /news/187411
 ---
 
 La alcaldesa María Angélica Granados Trespalacios, encabezó la presentación del Instituto Superior de Seguridad Chihuahua (ISSCUU), el cual forma parte del Plan Municipal de Desarrollo.

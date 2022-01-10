@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Del 15 de febrero al 31 de marzo del año en curso la ciudanía puede aprovechar este beneficio, anuncia el gobernador Javier Corral"
 image: "/uploads/2021/images-Descuentos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia Gobierno del Estado descuentos de hasta 50%  en adeudo de lotes"
 front: false
 section: "Local"
-news_id: 182489
+redirect_from: /news/182489
 ---
 
 El gobernador Javier Corral Jurado anunció un programa de descuentos para la regularización de la tenencia de la tierra y sus procesos de escrituración, que comenzará el 15 de febrero y finalizará el 31 de marzo de 2021.

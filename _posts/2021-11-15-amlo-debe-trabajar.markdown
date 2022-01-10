@@ -16,11 +16,11 @@ author: nil
 description: "La problemática de pobreza afecta a cerca de 200 mil personas aproximadamente a lo largo de la capital"
 image: "/uploads/2021/images-Pobreza-1.jpg"
 video: "/uploads/2021/videos-BL03_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "AMLO debe trabajar por los pobres del norte "
 front: false
 section: "Local"
-news_id: 189852
+redirect_from: /news/189852
 ---
 
 Marco Antonio Bonilla Mendoza, presidente municipal de Chihuahua, exhorto a Andrés Manuel López Obrador a trabajar por los que menos tienen en el norte del país, no solo por los pobres del sur de México, comentó que está dispuesto y siempre lo ha estado a trabajar de la mano del presidente de la república en favor con Chihuahua.

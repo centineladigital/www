@@ -10,11 +10,11 @@ author: nil
 description: "No cerrarán infraestructura ciclista."
 image: "/uploads/2021/images-GONZALEZ.jpg"
 video: "/uploads/2021/videos-ML04_JAVIER_GONZALEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Realizan peritaje sobre obras inconclusas -  González Mocken"
 front: false
 section: "Local"
-news_id: 188102
+redirect_from: /news/188102
 ---
 
 Un peritaje en las obras que se llevaban a cabo en la zona de la Ciudad Deportiva es lo que se lleva a cabo, señaló el titular de la Secretaría de Educación y Deporte Javier González Mocken. Quien dijo que éstas se encuentran inconclusas.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El proyecto busca optimizar procesos industriales de manufactura para la elaboración de productos de todo tipo"
 image: "/uploads/2021/images-alumnos_utpn_en_encuentro_de_juventudes_2021_2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Presentan alumnos de la UT Paso del Norte estudio en Encuentro de Jóvenes Investigadores 2021"
 front: false
 section: "Local"
-news_id: 189045
+redirect_from: /news/189045
 ---
 
 Estudiantes de la Universidad Tecnológica Paso del Norte (UTPN) presentaron una investigación en la séptima edición del Encuentro de Jóvenes Investigadores en el Estado de Chihuahua 2021, que se desarrolló en la modalidad a distancia.

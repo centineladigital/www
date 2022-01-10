@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La serie 'Wednesday' de Netflix será dirigida por Tim Burton. "
 image: "/uploads/2021/images-catherine-zeta-jones-sera-morticia_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡No más especulaciones! Catherine Zeta-Jones será Morticia en reboot de 'Los Locos Addams'"
 front: false
 section: "Espectáculos"
-news_id: 186538
+redirect_from: /news/186538
 ---
 
 Netflix dará nueva vida a 'Los Locos Addams', un popular sitcom que se robó al público en la década de los años 60. Netflix disipó los rumores y anunció a Catherine Zeta-Jones como Morticia Addams en 'Wednesday'. Asimismo, confirmaron la presencia de Luis Guzmán como Homero Addams, lo cual ya se había adelantado por la prensa. 

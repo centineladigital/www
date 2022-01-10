@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los ganadores obtuvieron premios en efectivo y grabaron un sencill"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan a ganadores de “Expresa tu Talento, Época de Oro”"
 front: false
 section: "Local"
-news_id: 188797
+redirect_from: /news/188797
 ---
 
 El Gobierno municipal, a través de la Dirección de Desarrollo Humano y Educación, presentó a los ganadores de “Expresa tu Talento, Época de Oro”, en la que resultaron triunfadores cinco jóvenes artistas, así como una banda compuesta por cinco integrantes.

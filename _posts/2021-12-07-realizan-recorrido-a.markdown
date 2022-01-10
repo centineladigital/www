@@ -8,11 +8,11 @@ author: nil
 description: "El objetivo es que conozcan las bondades de la casa de terapia ocupacional donde se les enseña el día a día a los pacientes en rehabilitación por discapacidad"
 image: "/uploads/2021/images-unnamed_(4).jpg"
 video: "/uploads/2021/videos-Hiram_Mendoza_Casa_Adaptada.mp4"
-audio: "nil"
+audio: nil
 alt: "Realizan recorrido a casa adaptada de terapia ocupacional del DIF estatal"
 front: false
 section: "Local"
-news_id: 190582
+redirect_from: /news/190582
 ---
 
 Con la finalidad de dar continuidad a los trabajos de la Jornada de Rehabilitación 2021 en el Marco del “Dia Internacional de las Personas con Discapacidad”, el DIF estatal llevó a cabo el recorrido asistido a la “Casa de terapia ocupacional”, la cual se ubica en el Centro de Rehabilitación y Educación especial (CREE).

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La Comisión quedó integrada por las y los Regidores: presidente Félix Martínez Adriano; Secretaria Joceline Vega Vargas y como Vocales; Nadia Hanói Aguilar Gil, Issac Díaz Gurrola y Ana Lilia Orozco Ortiz. "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-24_at_13.18.16.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-09-24_at_13.18.16.mp4"
 alt: "Bacheo, carpeteo, pavimentación y Relleno Sanitario obras prioritarias para la actual administración -  Reg. Martínez Adriano"
 front: false
 section: "Local"
-news_id: 188031
+redirect_from: /news/188031
 ---
 
 Al instalar la Comisión de Obras Públicas del Ayuntamiento de Chihuahua, el Regidor presidente Félix Martínez Adriano dio la bienvenida a las y los Regidores que integran esta comisión y les hizo un llamado para trabajar en conjunto con las autoridades municipales y el alcalde Marco Bonilla para atender las colonias marginadas de la ciudad y acelerar los trabajos para que se atienda el tema de pavimento, bacheo, alumbrado público y parques y jardines.

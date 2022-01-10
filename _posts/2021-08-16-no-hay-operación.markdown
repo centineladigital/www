@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor reveló que sufre una afección desde hace años; además habló de su recuperación tras la caída que sufrió en casa de su hija. "
 image: "/uploads/2021/images-quien-fue-eric-del-castillo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No hay operación -  Eric del Castillo revela que padece enfermedad incurable"
 front: false
 section: "Espectáculos"
-news_id: 186726
+redirect_from: /news/186726
 ---
 
 Eric del Castillo ya se recupera en casa de la caída que sufrió en el mes de julio, accidente por el que fue hospitalizado de emergencia en Ciudad de México. Ahora, el actor volvió a encender las alarmas al revelar que desde hace años lidia con una enfermedad incurable, pero tratable, además señaló que este padecimiento ha sido un obstáculo a lo largo de su carrera actoral. 

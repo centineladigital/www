@@ -14,11 +14,11 @@ author: nil
 description: "Trabajará en favor del pueblo con perspectiva panista "
 image: "/uploads/2021/images-descarga_(2).jpg"
 video: "/uploads/2021/videos-BV04_MARIO_VAZQUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "La coordinación del PAN es un reto -  Vázquez "
 front: false
 section: "Local"
-news_id: 188039
+redirect_from: /news/188039
 ---
 
 El diputado Mario Vázquez, declaró que  llevar el sentir de los ciudadanos desde la perspectiva del PAN es su propósito como Coordinador del grupo mayoritario del PAN en el congreso del estado, sin embargo para el diputado representa un gran reto formar parte ahora de la coordinación del PAN  tras haber sido presidente del congreso.

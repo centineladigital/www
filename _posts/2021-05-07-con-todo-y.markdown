@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Amazon Studios está cerrando un trato para adquirir los derechos mundiales del musical Cenicienta de Sony Pictures.  "
 image: "/uploads/2021/images-camila-cabello-sera-la-nueva_0_245_1080_672.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Con todo y carruaje! 'Cenicienta' llegará a Amazon de la mano de Camila Cabello"
 front: false
 section: "Espectáculos"
-news_id: 184341
+redirect_from: /news/184341
 ---
 
 ¿Amazon se quedará con la zapatilla de cristal? Camila Cabello hará su debut cinematográfico para la plataforma de streaming, luego de que Amazon Studios esté cerrando un trato para adquirir los derechos mundiales del musical Cenicienta de Sony Pictures, el cual fue dirigido por Kay Cannon, de acuerdo con el portal de internet, Deadline. A pesar de que no hay fecha de estreno aún, la película se podría estrenar a finales de este año, luego de que Sony Pictures lo había fechado para julio, pero debido al incremento y disminución de pandemia por covid-19, especialmente en Europa y América Latina, esto desencadenó un acuerdo que es similar en construcción a los anteriores que el estudio ha hecho con transmisores de películas que incluyen Fatherhood y Vivo. 

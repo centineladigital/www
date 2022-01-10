@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Pide que se cuestione no a la persona si no al trabajo de subsecretario de salud a nivel federal."
 image: "/uploads/2021/images-MICHEL_GONZALEZ.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ05_MICHEL_GONZALEZ.mp3"
 alt: "Pide diputada federal renuncia de López-Gattel"
 front: false
 section: "Local"
-news_id: 181952
+redirect_from: /news/181952
 ---
 
 La diputada federal perteneciente al Partido Acción Nacional, Michel González, solicitó la renuncia del subsecretario de salud a nivel federal subsecretario Hugo López-Gatell Ramírez, esto al señalar que como funcionario no ha cumplido con la labor que debió de haber seguido dentro de la pandemia.

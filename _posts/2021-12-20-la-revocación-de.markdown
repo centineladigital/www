@@ -14,11 +14,11 @@ author: nil
 description: "“Está claro que no tiene caso y por ello no ha despertado interés en la comunidad”"
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-20_at_12.48.03_PM.jpeg"
 video: "/uploads/2021/videos-BL05_GEO_BUJANDA_.mp4"
-audio: "nil"
+audio: nil
 alt: "La revocación de mandato es una payasada del Presidente -  Geo Bujanda "
 front: false
 section: "Local"
-news_id: 191049
+redirect_from: /news/191049
 ---
 
 La revocación de mandato es una payasada del presidente, yo comparto  la postura del INE”, estas fueron las palabras de Bujanda al ser cuestionada sobre su postura a consecuencia de que el Instituto Nacional Electoral haya aplazado la revocación de mandato interpuesta por el presidente Andrés Manuel López Obrador a 2 años de su gobierno.

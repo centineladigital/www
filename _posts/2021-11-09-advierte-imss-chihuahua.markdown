@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El metabolismo trabaja más lento y propicia la acumulación de grasa en el cuerpo"
 image: "/uploads/2021/images-Subir_de_peso_en_frio.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte IMSS Chihuahua que durante la temporada de frío es más factible subir de peso "
 front: false
 section: "Local"
-news_id: 189699
+redirect_from: /news/189699
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua advierte que en temporada de frío es más factible subir de peso, por lo que exhorta a la población a seguir una dieta balanceada y continuar ejercitándose.

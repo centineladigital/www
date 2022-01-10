@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Alejandro Encinas, subsecretario de Derechos Humanos, indicó que el encuentro será para saber cómo va el proceso de judicialización del caso  "
 image: "/uploads/2021/images-padres-normalistas-desaparecidos-ayotzinapa-mantenido.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobierno se reunirá con padres de los 43 de Ayotzinapa la próxima semana -  Encinas"
 front: false
 section: "Nacional"
-news_id: 186867
+redirect_from: /news/186867
 ---
 
 Alejandro Encinas, subsecretario de Derechos Humanos, informó que la próxima semana, autoridades del gobierno federal se reunirán con los padres de los 43 normalistas de Ayotzinapa desaparecidos en septiembre de 2014. En conferencia de prensa matutina del presidente Andrés Manuel López Obrador, el funcionario comentó que se tuvo una última reunión con ellos el lunes. 

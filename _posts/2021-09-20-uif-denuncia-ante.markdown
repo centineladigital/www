@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La Unidad de Inteligencia Financiera (UIF) presentó una denuncia por presunta evasión fiscal de más de 400 millones de pesos en contra de Gloria Trevi y su esposo el abogado Armando Gómez. "
 image: "/uploads/2021/images-presentan-denuncia-gloria-trevi-esposo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "UIF denuncia ante FGR a Gloria Trevi y a su esposo Armando Gómez por evasión fiscal de 400 mdp"
 front: false
 section: "Espectáculos"
-news_id: 187895
+redirect_from: /news/187895
 ---
 
 La Unidad de Inteligencia Financiera denunció ante la Fiscalía General de la República a la cantante Gloria Trevi, a su esposo Armando Gómez Martínez y a otras cuatro personas por lavado de dinero y evasión fiscal por hasta 400 millones de pesos. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 es de 8 mil 282, hoy se registra un nuevo deceso en el municipio de Delicias."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 30 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 190114
+redirect_from: /news/190114
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 23 de noviembre el reporte COVID-19, en el cual se registran 84 mil 501 (+30) personas confirmadas en la entidad por este padecimiento, 72 mil 263 (+4) casos recuperados, 79 mil 351 (+59) descartados y 907 (-39) casos sospechosos.

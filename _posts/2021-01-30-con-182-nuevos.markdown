@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Autoridades de Salud reportan además 4 mil 660 personas fallecidas, con 12 nuevos decesos: 4 en Juárez, 5 en Chihuahua, 2 en Meoqui, 1 en Guazapares y 1 en El Tule"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con 182 nuevos contagios por COVID-19 llega el estado a 49 mil 996 casos"
 front: false
 section: "Local"
-news_id: 182583
+redirect_from: /news/182583
 ---
 
 La Secretaría de Salud estatal informó que a este día, se tienen en el estado de Chihuahua un total general de 49 mil 996 casos confirmados de COVID a 19, con 182 nuevos contagios.  

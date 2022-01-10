@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La capital del estado se ve más afectada que la zona fronteriza."
 image: "/uploads/2021/images-ARTURO_VALENZUELA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML03_ARTURO_VALENZUELA.mp3"
 alt: "Supera Chihuahua a Juárez en casos activos de COVID"
 front: false
 section: "Local"
-news_id: 181862
+redirect_from: /news/181862
 ---
 
 Con una cifra superior al cien por ciento el municipio de Chihuahua supera al de Juárez en los casos de personas infectadas de coronavirus que se encuentran activos, esto ya que la capital del estado cuenta con 72 casos, el municipio fronterizo tiene registrados 34 casos, lo cual representa un 111 por ciento más casos en el municipio de Chihuahua.

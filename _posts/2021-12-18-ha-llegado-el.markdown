@@ -8,11 +8,11 @@ author: nil
 description: "La gobernadora Maru Campos, en su mensaje durante la firma de esta carta de intención, indicó que en la frontera juarense ocurre el encuentro de dos culturas distintas"
 image: "/uploads/2021/images-unnamed_(4).jpg"
 video: "/uploads/2021/videos-Firma_de_Convenio_con_USAID_FHD.mp4"
-audio: "nil"
+audio: nil
 alt: "“Ha llegado el momento de pensar en la franja fronteriza como una comunidad binacional”; firman Gobernadora y USAID convenio de colaboración en prevención de la violencia"
 front: false
 section: "Local"
-news_id: 190996
+redirect_from: /news/190996
 ---
 
 En seguimiento al compromiso del Gobierno del Estado de mantener la seguridad de las y los chihuahuenses como uno de los principales puntos de atención, la gobernadora del Estado de Chihuahua, Maru Campos Galván, acudió a Ciudad Juárez con el objetivo de firmar el convenio de colaboración entre el Estado de Chihuahua y la Agencia de los Estados Unidos para el Desarrollo Internacional USAID para generar estrategias que prevengan la violencia en los municipios de nuestra entidad.

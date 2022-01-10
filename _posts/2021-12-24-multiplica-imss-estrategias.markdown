@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Autoridades del Instituto tuvieron la reunión 67 con las madres y los padres de menores con cáncer atendidos en unidades médicas del Instituto. "
 image: "/uploads/2021/images-Foto_591-3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Multiplica IMSS estrategias para mejorar sobrevida de pacientes pediátricos oncológicos"
 front: false
 section: "Local"
-news_id: 191202
+redirect_from: /news/191202
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) ha reforzado en sus unidades médicas las estrategias de capacitación, infraestructura y atención para mejorar la sobrevida de los pacientes pediátricos oncológicos.

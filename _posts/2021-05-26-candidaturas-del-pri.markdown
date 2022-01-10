@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Sergio Carrillo y Adriana Fuentes, han manifestado que a pesar de la decisión de Graciela Ortiz, ellos seguirán en la contienda "
 image: "/uploads/2021/images-sergio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Candidaturas del PRI en Chihuahua y Juárez siguen firmes"
 front: false
 section: "Local"
-news_id: 184663
+redirect_from: /news/184663
 ---
 
 “Con la licenciada Graciela Ortiz y sin la licenciada Graciela Ortiz, seremos los ganadores este 6 de junio”, expresó Sergio Carrillo

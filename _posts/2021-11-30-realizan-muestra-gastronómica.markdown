@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Las alumnas y alumnos demostraron sus conocimientos, habilidades y creatividad en el diseño y elaboración de menús"
 image: "/uploads/2021/images-IMG_7664.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizan muestra gastronómica  en la Universidad Tecnológica de Chihuahua Sur"
 front: false
 section: "Local"
-news_id: 190345
+redirect_from: /news/190345
 ---
 
 Con cata y maridaje, alumnas y alumnos del séptimo cuatrimestre de la carrera de Gastronomía de la Universidad Tecnológica de Chihuahua Sur (UTCH Sur) demostraron los conocimientos adquiridos, su creatividad y habilidades para la organización de eventos y diseños de menús.

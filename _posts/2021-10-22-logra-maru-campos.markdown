@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con este convenio concluye un episodio muy complejo en de la historia de Chihuahua.  "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-22_at_13.01.08.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-10-22_at_13.01.07.mpeg"
 alt: "Logra Maru Campos acuerdo de alto nivel entre el Gobierno Federal y productores de La Boquilla "
 front: false
 section: "Local"
-news_id: 189083
+redirect_from: /news/189083
 ---
 
 A poco más de un mes de que iniciara la nueva administración de la gobernadora Maru Campos, se logró establecer un acuerdo entre el Gobierno Federal, Gobierno del Estado y los productores chihuahuenses de la región centro sur del estado, para concluir con un complejo episodio en la historia de Chihuahua, que se refiere al conflicto de La Boquilla. 

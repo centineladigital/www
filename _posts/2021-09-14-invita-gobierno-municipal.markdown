@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Competirán 40 jinetes entre 5 a 17 años de edad provenientes de cinco estados"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno Municipal al campeonato nacional de “Mini Bulls Series México”"
 front: false
 section: "Local"
-news_id: 187721
+redirect_from: /news/187721
 ---
 
 El Municipio de Chihuahua será sede para recibir a los jinetes que competirán en la final del campeonato nacional de “Mini Bulls Series México”, en un evento familiar donde se recibirán competidores de diversos estados en busca de ser parte del selectivo para participar en el campeonato mundial en octubre.

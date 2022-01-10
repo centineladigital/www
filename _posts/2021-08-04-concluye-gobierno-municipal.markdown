@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Concluyó el pasado 30 de julio el pago de 19 mil 275 becas académicas, 11 mil 84 de excelencia y 8 mil 191 de transporte, correspondientes a este año 2021"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Concluye Gobierno Municipal pago de Becas Académicas y de Transporte 2021"
 front: false
 section: "Local"
-news_id: 186279
+redirect_from: /news/186279
 ---
 
 

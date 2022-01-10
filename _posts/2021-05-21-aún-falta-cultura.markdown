@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Chihuahua el estado con más celeridad en temas de vacunación."
 image: "/uploads/2021/images-GUERRERO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV06_MIGUEL_GUERRERO.mp3"
 alt: "Aún falta cultura de vacunación"
 front: false
 section: "Local"
-news_id: 184592
+redirect_from: /news/184592
 ---
 
 Pese a que se tienen una celeridad en materia de vacunación lamentablemente no se ha registrado una gran afluencia en algunos puntos dentro del territorio estatal, señaló Miguel Guerrero Elías, ex presidente de Desarrollo Económico del Estado de Chihuahua A.C.

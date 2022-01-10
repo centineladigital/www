@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El jugador francés está en boca de todos, al no saber si se queda o se va del PSG"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mbappé le da la bienvenida a Messi al PSG, con caluroso abrazo"
 front: false
 section: "Deportes"
-news_id: 186598
+redirect_from: /news/186598
 ---
 
 El delantero francés Kylian Mbappé celebró este jueves la llegada al París Saint-Germain (PSG) del argentino Lionel Messi, con un mensaje en Instagram en el que le dio la bienvenida y lo calificó de "leyenda". 

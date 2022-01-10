@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Biden ha prometido aprovechar la ley de salud que impulsó el expresidente Barack Obama para lograr que todos los estadounidenses cuenten con cobertura de salud"
 image: "/uploads/2021/images-2519876.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden tomará medidas para ampliar el seguro médico en EU"
 front: false
 section: "Internacional"
-news_id: 182511
+redirect_from: /news/182511
 ---
 
 El presidente Joe Biden tomará medidas el jueves para que más gente cuente con seguro médico mientras sigue fuerte la pandemia de coronavirus, un adelanto a su promesa de que exista cobertura para todos.

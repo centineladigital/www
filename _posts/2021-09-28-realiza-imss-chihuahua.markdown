@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Es para mujeres de 38 a 69 años; deben de presentar cartilla de citas médicas"
 image: "/uploads/2021/images-Foto_4766-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Realiza IMSS Chihuahua mastografías sin cita previa los sábados en la Clínica de Mama"
 front: false
 section: "Local"
-news_id: 188140
+redirect_from: /news/188140
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua invita las mujeres de 38 a 69 años a realizarse estudios de mastografías sin cita médica los sábados. 

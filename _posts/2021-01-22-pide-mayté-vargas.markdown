@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Indicó que los diputados del PAN y Javier Corral traicionaron a la ciudadanía"
 image: "/uploads/2021/images-EYEHRHER.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AV03_MAITHE_VARGAS.mp3"
 alt: "Pide Mayté Vargas voto de castigo para diputados que avalan deuda"
 front: false
 section: "Local"
-news_id: 182370
+redirect_from: /news/182370
 ---
 
 La diputada federal por Morena, Mayté Vargas pidió a la ciudadanía voto de castigo contra los legisladores que se evidenciaron en favor del crédito que pretendió el gobernador Javier Corral y en particular la diputada del distrito 1 por el PAN, Patricia Jurado Alonso.

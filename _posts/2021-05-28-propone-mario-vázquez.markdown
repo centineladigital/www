@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“La comunidad poco o nada sabe si se cumplen señaló el candidato"
 image: "/uploads/2021/images-MARIO.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Propone Mario Vázquez evaluar desempeño de las y los diputados"
 front: false
 section: "Local"
-news_id: 184721
+redirect_from: /news/184721
 ---
 
 El candidato a diputado local por el Distrito 16, Mario Vázquez presentó su propuesta para la Evaluación de las y los diputados, así como la exposición de los indicadores en la página web del Congreso del Estado.  

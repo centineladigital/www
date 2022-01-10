@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de redes sociales en donde se revelaron algunas imágenes en donde se muestra el terrible accidente que se suscitó en el automóvil en donde viajaba Homero y la agrupación de Los Cadetes de Linares. "
 image: "/uploads/2021/images-cadetes-linares-sufren-aparatoso-accidente.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Los Cadetes de Linares' sufren aparatoso accidente automovilístico; Homero Guerrero Jr fue hospitalizado"
 front: false
 section: "Espectáculos"
-news_id: 189150
+redirect_from: /news/189150
 ---
 
 Los Cadetes de Linares de Homero Guerrero Jr. vivieron momentos de tensión tras sufrir un aparatoso accidente cuando regresaban de una presentación en Guanajuato durante la noche-madrugada del pasado sábado 23 y domingo 24 de octubre. Fue a través de redes sociales en donde se revelaron algunas imágenes en donde se muestra el terrible accidente que se suscitó en el automóvil en donde viajaba Homero y la agrupación de Los Cadetes de Linares. 

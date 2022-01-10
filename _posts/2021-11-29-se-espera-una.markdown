@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Podrían presentarse lluvias el próximo miércoles   "
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se espera una semana fría y nublada en la ciudad -  Protección Civil Municipal"
 front: false
 section: "Local"
-news_id: 190303
+redirect_from: /news/190303
 ---
 
 Esta semana continuarán los descensos en las temperaturas en la ciudad, principalmente durante las noches y madrugadas, donde los días se mantendrán mayormente nublados, así lo informó la Coordinación Municipal de Protección Civil, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional, por lo cual se invita a la población a atender las recomendaciones de las autoridades para evitar complicaciones en la salud.

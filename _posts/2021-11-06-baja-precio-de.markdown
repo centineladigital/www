@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los habitantes de la Ciudad de México recibirán el combustible a partir del primer minuto de este domingo 7 y hasta el 13 de noviembre 81 centavos mas barato que la semana pasada"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Baja precio de gas LP en CDMX y Edomex por segunda semana consecutiva"
 front: false
 section: "Nacional"
-news_id: 189609
+redirect_from: /news/189609
 ---
 
 Por segunda semana consecutiva los precios máximos del gas licuado de petróleo (LP) que se distribuye en cilindros metálicos registraron una reducción, pero el precio de comercialización de Gas Bienestar se mantuvo sin cambio, también por segunda semana consecutiva.

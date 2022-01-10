@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El inmunizante ha sido suspendido en varios países europeos en espera de estudios sobre efectos colaterales indeseados"
 image: "/uploads/2021/images-2543960.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brasil aprueba registro definitivo de la vacuna de AstraZeneca"
 front: false
 section: "Internacional"
-news_id: 183394
+redirect_from: /news/183394
 ---
 
 Brasil aprobó el viernes el registro definitivo de la vacuna británica AstraZeneca contra el coronavirus, alegando que "los beneficios superan los riesgos", pese a que el inmunizante ha sido suspendido en varios países europeos en espera de estudios sobre efectos colaterales indeseados.

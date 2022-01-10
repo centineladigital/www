@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de que un hombre atropellara al papá de Nicki Minaj y falleciera, las autoridades arrestaron a un sospechoso. "
 image: "/uploads/2021/images-padre-nicki-minaj-murio-atropellado.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detienen a sospechoso de la muerte de papá de Nicki Minaj"
 front: false
 section: "Espectáculos"
-news_id: 183014
+redirect_from: /news/183014
 ---
 
 Hace unos días se dio a conocer que al padre de la cantante Nicki Minaj murió después de que fuera atropellado y la persona se diera a la fuga. Aunque se había iniciado las investigaciones, fue el mismo hombre sospechoso de atropellar al padre de la cantante quien se entregó a las autoridades. . Un hombre de 70 años fue arrestado el miércoles tras arrollar al padre de la rapera Nicki Minaj y darse a la fuga. Después del accidente, el hombre se detuvo a preguntar si el padre de la cantante estaba bien, pero no llamó a los servicios de emergencias para pedir ayuda, mencionó la policía. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El dirigente estatal del PRI, Héctor Apreza Patrón, dijo que este tipo de movilizaciones le generan un conflicto innecesario a Evelyn Salgado Pineda"
 image: "/uploads/2021/images-morena-pone-riesgo-vidas-pedir_1_0_1085_675.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Morena pone en riesgo vidas al pedir una movilización en Tlapa, Guerrero -  PRI"
 front: false
 section: "Local"
-news_id: 186426
+redirect_from: /news/186426
 ---
 
 El dirigente estatal del Partido Revolucionario Institucional (PRI), Héctor Apreza Patrón, acusó a su similar del partido Movimiento Regeneración Nacional (Morena), Marcial Rodríguez Saldaña, de poner en riesgo la vida de sus militantes al convocarlos a movilizarse en el municipio de Tlapa, Guerrero. 

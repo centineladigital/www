@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El objetivo es llegar hasta las zonas donde existen altos niveles de marginación y climas con frío extremo, y así evitar que los niños se enfermen y sufran por las inclemencias del tiempo. "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza Gobernadora y DIF Estatal arranque de entrega de 21 mil chamarras de la campaña ¡Juntos sin fío!"
 front: false
 section: "Local"
-news_id: 190058
+redirect_from: /news/190058
 ---
 
 Bajo un ambiente de trabajo, entusiasmo y alegría, empleados operativos y titulares del DIF Estatal, acompañados de la Gobernadora del estado, Maru Campos Galván, dieron inicio a la primera de muchas entregas de chamarras que lograron captarse gracias a la solidaridad de los chihuahuenses mediante la campaña ¡Juntos sin frío!

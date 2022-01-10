@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se trata de una opción educativa a través de la cual las y los estudiantes reciben, de manera alterna, formación teórica en los planteles, y práctica en las empresas, lo que facilita su inserción en el ámbito laboral.  "
 image: "/uploads/2021/images-4_(1).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Impulsó Chihuahua el Modelo Mexicano de Formación Dual"
 front: false
 section: "Local"
-news_id: 185613
+redirect_from: /news/185613
 ---
 
 En la actual administración estatal, la Secretaría de Educación y Deporte (SEyD) impulsó el Modelo Mexicano de Formación Dual (MMFD), del cual han egresado 218 estudiantes de 10 planteles del nivel medio superior y actualmente 45 jóvenes cursan esta modalidad en el estado.

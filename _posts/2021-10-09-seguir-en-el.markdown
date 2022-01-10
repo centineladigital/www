@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Tras el empate con Canadá y de cara al duelo vs Honduras, se ha abierto el debate de si el Coloso de Santa Úrsula pesa como en otras eliminatorias"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Seguir en el Estadio Azteca es la mejor opción para la Selección Mexicana?"
 front: false
 section: "Deportes"
-news_id: 188559
+redirect_from: /news/188559
 ---
 
 Con el paso del tiempo, el Estadio Azteca ha dejado de ser ese monstruo que espantaba a todos los rivales de la Selección Mexicana, o al menos así lo indican los últimos resultados.

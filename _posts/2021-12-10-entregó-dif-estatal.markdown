@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con el objetivo de brindar una mejor atención a los pacientes "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregó DIF Estatal equipo de terapia física a Unidad Básica de Rehabilitación de Guerrero"
 front: false
 section: "Local"
-news_id: 190714
+redirect_from: /news/190714
 ---
 
 En continuidad a la Jornada de Rehabilitación 2021, el DIF Estatal hizo entrega de un combo para electroterapia a la Unidad Básica de Rehabilitación (UBR), ubicada en el municipio de Guerrero.

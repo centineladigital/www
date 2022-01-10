@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se tiene un total general de 77 mil 433 contagios en el estado."
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-23_at_12.19.18.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 83 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 187992
+redirect_from: /news/187992
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 23 de Septiembre se tiene un total general de 77 mil 433 contagios en el estado. Luego de confirmarse otros 83 más en Juárez, Chihuahua, Cuauhtémoc, Delicias, Nuevo Casas Grandes, Ojinaga, Guachochi, Bocoyna, Meoqui, Saucillo, Guerrero, Buenaventura, Santa Bárbara, Madera, Chinipas, Rosales, Ascensión, Casas Grandes, Guadalupe y Calvo, Temosachic, Cusihuiriachi, Morelos, El Tule y Maguarichi.

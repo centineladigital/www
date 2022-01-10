@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Más de 711 mil alumnas de preescolar, primaria y secundaria culminaron las actividades correspondientes al ciclo escolar 2020-2021."
 image: "/uploads/2021/images-SED_2316.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Concluyen labores académicas en planteles del nivel básico"
 front: false
 section: "Local"
-news_id: 185521
+redirect_from: /news/185521
 ---
 
 La Secretaría de Educación y Deporte (SEyD) informó que este viernes 9 de julio concluyeron las labores académicas para más de 711 mil alumnas y alumnos que son atendidos por más de 30 mil docentes en 5 mil 768 escuelas del nivel básico.

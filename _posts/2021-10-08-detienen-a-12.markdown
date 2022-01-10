@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En operativo detectan en autobús turismo a este grupo de personas; 2 mujeres y 10 hombres "
 image: "/uploads/2021/images-inm-detiene-migrantes-carretera-victoria-1_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detienen a 12 migrantes centroamericanos en autobús durante operativo en Altamira"
 front: false
 section: "Internacional"
-news_id: 188515
+redirect_from: /news/188515
 ---
 
 El Instituto Nacional de Migración detuvo está mañana de viernes a 12 migrantes centroamericanos en la carretera Victoria-Monterrey. 

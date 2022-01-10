@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Un total de 41 equipos de adultos mayores, en la rama varonil y femenil "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participan 290 adultos mayores en Encuentro Nacional de Cachibol"
 front: false
 section: "Local"
-news_id: 187412
+redirect_from: /news/187412
 ---
 
 Un total de 41 equipos de adultos mayores, en la rama varonil y femenil protagonizaron la quinta edición del Encuentro Nacional de Cachibol convocado por el Comité Municipal de Cachibol en coordinación con el Instituto Municipal de Cultura Física y Deporte (IMCFD).

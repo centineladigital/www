@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El alcalde de Chihuahua, Marco Bonilla, encabezó la instalación de la Junta Directiva del Instituto Municipal de Cultura Física y Deporte (IMCFD)"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-24_at_13.40.45.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Haremos una ciudad competitiva con deporte sólido y bien estructurado -  Marco Bonilla"
 front: false
 section: "Local"
-news_id: 188033
+redirect_from: /news/188033
 ---
 
 El alcalde de Chihuahua, Marco Bonilla, encabezó la instalación de la Junta Directiva del Instituto Municipal de Cultura Física y Deporte (IMCFD), el cual es el órgano rector que autoriza las facultades del titular del IMCFD, el presupuesto y los programas municipales.

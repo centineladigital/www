@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Secretaría de Salud informó que el registro para la vacunación de las personas de 50 a 59 años solo se hace una vez"
 image: "/uploads/2021/images-Falso_vacunas_imss.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Salud por mensaje falso sobre doble registro para vacunación"
 front: false
 section: "Local"
-news_id: 184229
+redirect_from: /news/184229
 ---
 
 Después de que empezaron a circular mensajes en redes sociales y WhatsApp, donde se indica que las personas de entre 50 a 59 años de edad que ya habían proporcionado sus datos en la pagina Mi Vacuna deben registrarse de nueva cuenta, por un supuesto folio equivocado, la Secretaría de Salud informa que es información falsa.

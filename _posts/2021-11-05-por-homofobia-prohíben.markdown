@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La película de superhéroes tenía previsto debutar el 11 de noviembre en Arabia Saudí, Catar, Baréin, Omán y Kuwait, pero este jueves ha desaparecido de internet en esos territorio. "
 image: "/uploads/2021/images-eternals-es-la-nueva-produccion.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por homofobia, prohíben estreno de 'Eternals' en varios países; querían borrar la escena de beso gay"
 front: false
 section: "Espectáculos"
-news_id: 189601
+redirect_from: /news/189601
 ---
 
 ¿Aún existe la homofobia? Aunque se creería que no, algunos casos siguen demostrando que la discriminación sigue latente. Disney no estrenará "Eternals", la última película de Marvel, en los países del Golfo pérsico porque se ha negado a retirar partes de la trama que entraban en conflicto con las autoridades censoras de la región. La película de superhéroes tenía previsto debutar el 11 de noviembre en Arabia Saudí, Catar, Baréin, Omán y Kuwait, pero este jueves ha desaparecido de internet en esos territorios y tampoco se permite la reserva de entradas. 

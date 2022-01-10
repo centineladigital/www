@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La salud debe ser, invariablemente, una prioridad, por ello, no debe someterse a programas de ahorro, austeridad o escatimarse en la asignación "
 image: "/uploads/2021/images-DGRGR.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AV03_HUMBERTO_CHAVEZ.mp3"
 alt: "Exhorta Francisco Humberto Chávez Herrera a pensiones para brindar servicios a sus derechohabientes"
 front: false
 section: "Local"
-news_id: 182740
+redirect_from: /news/182740
 ---
 
 El legislador local de Morena Francisco Humberto Chávez Herrera exhorto a Pensiones Civiles del Estado para que realicen las acciones necesarias a fin de que se garantice servicio médico y atención eficiente y de calidad a los derechohabientes del organismo público descentralizado, así como el abastecimiento de medicamento, cobertura de estudios y procedimientos en todos los hospitales, clínicas con las que se tengan convenios en el Estado.

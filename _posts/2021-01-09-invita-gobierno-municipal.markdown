@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Estos descuentos se encuentran dentro de la Ley de Ingresos del Municipio."
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno Municipal a aprovechar descuentos en trámites municipales"
 front: false
 section: "Local"
-news_id: 182000
+redirect_from: /news/182000
 ---
 
 El Gobierno Municipal a través de la Tesorería invita a la ciudadanía a aprovechar los diferentes descuentos que se ofrecen en trámites municipales, como el descuento del 12% en el Impuesto Predial durante el mes de enero.

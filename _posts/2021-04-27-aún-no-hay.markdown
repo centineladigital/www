@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La resistencia a la enfermedad será solamente un 75 por ciento."
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM04_ARTURO_VALENZUELA.mp3"
 alt: "Aún no hay inmunidad contra COVID"
 front: false
 section: "Local"
-news_id: 184144
+redirect_from: /news/184144
 ---
 
 Pese a que ya se tiene una primera dosis de la población aún no se tiene inmunidad a las personas que han recibido las vacunas, afirmó Arturo Valenzuela Zorrilla Director Médico Zona Norte de Chihuahua, quien dijo que se tiene que esperar una segunda dosis para poder contar con una resitencia a la enfermedad.

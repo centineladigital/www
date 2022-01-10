@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Continúa la construcción de obra en zona norte de la ciudad."
 image: "/uploads/2021/images-JUAN.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04_JUAN_RIOS.mp3"
 alt: "Sin ceder propietario de gasolinera Platanito"
 front: false
 section: "Local"
-news_id: 183373
+redirect_from: /news/183373
 ---
 
 El propietario de la gasolinera que se construye en el parque no quiere ceder, fueron las palabras del regidor del Partido Verde Ecologista de México, Juan Pablo Ríos Prieto, al señalar que no se ha detenido la construcción debido a que no se ha llegado a un acuerdo. 

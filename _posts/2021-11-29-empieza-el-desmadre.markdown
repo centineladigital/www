@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue en su programa de ‘La Mesa Reñoña’ en donde Franco Escamilla dio a conocer esta anécdota con Belinda, la cual es recordada por el incómodo momento que pasó la cantante. "
 image: "/uploads/2021/images-franco-escamilla-insulto-belinda-provocarle.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Empieza el desmadre -  Franco Escamilla confiesa que arruinó presentación en vivo de Belinda; por nervios la insultó"
 front: false
 section: "Espectáculos"
-news_id: 190301
+redirect_from: /news/190301
 ---
 
 ¿Recuerdas la vez que Belinda intentó cantar una canción de Selena, pero no lo logró por culpa del micrófono? Si es así, ahora te enterarás de quién fue el culpable de esta situación. Se trata de Franco Escamilla, famoso comediante y standupero mexicano. Fue él quien la regó con el micrófono y hasta la insultó –sin querer–, así lo confesó recién. ¿Qué fue lo que pasó? Fue en su programa de ‘La Mesa Reñoña’ en donde Franco Escamilla dio a conocer esta anécdota con Belinda,la cual es recordada por el incómodo momento que pasó la también prometida de Christian Nodal. 

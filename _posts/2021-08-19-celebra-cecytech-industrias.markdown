@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con asesoría de Semarnat y Conafor, estudiantes y personal docente y administrativo plantó alrededor de 90 árboles en las instalaciones del plantel ecológico    "
 image: "/uploads/2021/images-9.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Celebra Cecytech Industrias su VII aniversario con actividades de reforestación"
 front: false
 section: "Local"
-news_id: 186900
+redirect_from: /news/186900
 ---
 
 En el marco del VII aniversario del plantel Industrias del Colegio de Estudios Científicos y Tecnológicos del Estado de Chihuahua (Cecytech), se llevó a cabo una jornada de reforestación en sus instalaciones, donde se plantaron alrededor de 90 árboles.

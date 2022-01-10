@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Además, otras 5 personas fallecieron y suman un total de 7,696, en lo que va de la pandemia en el estado, informa la Secretaría de Salud"
 image: "/uploads/2021/images-REPORTE_COVID_31_DE_JULIO__(12).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 166 contagios más de COVID-19 y un acumulado de 72,963"
 front: false
 section: "Local"
-news_id: 186170
+redirect_from: /news/186170
 ---
 
 La Secretaría de Salud confirmó 166 nuevos casos de COVID-19 para un acumulado general de 72 mil 963, además de cinco defunciones más y un total de 7 mil 696.

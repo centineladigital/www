@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La gobernadora del Estado de Chihuahua, Maru Campos Galván, encabezó la correspondiente ofrenda cívica en honor a los héroes de la patria desde Palacio de Gobierno."
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-16_at_11.32.54.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "”Edifiquemos juntos el Chihuahua que anhelamos; conmemora Maru a héroes que cimentaron la Independencia de México"
 front: false
 section: "Local"
-news_id: 187790
+redirect_from: /news/187790
 ---
 
 En el marco de la conmemoración del CCXI aniversario del inicio de la guerra de Independencia de México, la gobernadora del Estado de Chihuahua, Maru Campos Galván, encabezó la correspondiente ofrenda cívica en honor a los héroes de la patria desde Palacio de Gobierno.

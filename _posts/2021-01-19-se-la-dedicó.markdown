@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "'Ella' tiene una historia detrás de la versión de María Félix, quien aseguró que esa canción fue escrita para ella. "
 image: "/uploads/2021/images-jose-alfredo-jimenez-habria-escrito.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Se la dedicó a María Félix? Ésta es la historia de 'Ella' de José Alfredo Jiménez"
 front: false
 section: "Espectáculos"
-news_id: 182260
+redirect_from: /news/182260
 ---
 
 Hoy, hace 95 años, nació una leyenda en Dolores Hidalgo, Guanajuato: hablamos del emblemático cantante y compositor mexicano José Alfredo Jiménez. Sus canciones se hicieron hitos de la cultura mexicana, gracias a los grandes sentimientos que éstas encarnaban. Una de las más populares y recordadas es, sin lugar a dudas es 'Ella', un tema del cual existen algunas teorías al rededor. Una de las más fuertes es que José Alfredo le escribió la canción a la también cantante y actriz de la época, María Félix. Sin embargo, existe una historia más, la cual apunta a ser el verdadero origen y aquí te la contamos:  

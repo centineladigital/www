@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los Caligaris y otras bandas que fueron anunciadas antes de la pandemia ya no aparecen en la cartelera."
 image: "/uploads/2021/images-bandas-presentaran-pachuca-rock-fest.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pachuca Rock Fest 3 anuncia nueva cartelera, estas son las bandas que se presentarán"
 front: false
 section: "Espectáculos"
-news_id: 191180
+redirect_from: /news/191180
 ---
 
 Tras más de un año de espera anuncian cartelera de la tercera edición del Pachuca Rock Fest, tras haber sido pospuesto debido a la pandemia y las medidas de salud en las que se pidió cancelar eventos masivos. La tarde del pasado miércoles a través de redes sociales se dieron a conocer las bandas que formarán parte de este festival que es único en la Bella Airosa, es así como llegarán a los escenarios el próximo 23 de marzo de 2022 Enajambre, Siddhartha, División Minúscula, Serbia, Delux y como banda estelar estará presentándose Panteón Rococó. 

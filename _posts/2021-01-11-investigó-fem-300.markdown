@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Entre ellos 7 feminicidios infantiles."
 image: "/uploads/2021/images-YESICA_RENTERIA.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML03_YESICA_RENTERIA.mp3"
 alt: "Investigó FEM 300 muertes en el 2020"
 front: false
 section: "Local"
-news_id: 182047
+redirect_from: /news/182047
 ---
 
 Más de 300 investigaciones de muertes de mujeres en 2020 por parte de la Fiscalía Especializada de la Mujer, donde el 54 por ciento e los casos se asociaron al crimen organizado y/o tráfico de drogas. Mientras que solo se registraron 35 feminicidios y 7 son feminicidios infantiles.

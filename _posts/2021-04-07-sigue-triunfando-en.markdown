@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "'Marina' es el nuevo personaje de la actriz mexicana en esta serie, donde también participan Topher Grace, Caitlin McGee, Jimmy Tatro y Sasheer Zamata. "
 image: "/uploads/2021/images-karla-souza-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Sigue triunfando en EU! Karla Souza protagoniza la serie 'Home Economics'"
 front: false
 section: "Espectáculos"
-news_id: 183734
+redirect_from: /news/183734
 ---
 
 Tras triunfar en el programa How to Get Away with Murder, la actriz mexicana Karla Souza ahora es uno de los personajes principales en la serie Home Economics, que significa su regreso a la comedia luego de varios años en papeles dramáticos. "Tú tienes que entrar con la nota correcta para que funcione. Y si no, no funciona", explicó la famosa sobre este programa, que se estrena mañana 7 de abril, donde comparte risas con Topher Grace, Caitlin McGee, Jimmy Tatro y Sasheer Zamata. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hace unas semanas lanzó su nuevo tema junto al rapero puertorriqueño René Pérez “Residente” llamado ‘Flow HP’ la cual ya acumula más de 10 millones de reproducciones en YouTube. "
 image: "/uploads/2021/images-don-omar-presume-rostro-sin.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Eterna juventud! Don Omar presume su rostro sin arrugas en redes sociales"
 front: false
 section: "Espectáculos"
-news_id: 188497
+redirect_from: /news/188497
 ---
 
 Don Omar se ha convertido con el paso del tiempo en una de las leyendas vivientes del género del reguetón, puesto que se ha ganado en más de 20 años de carrera artística en donde ha cosechado decenas de éxitos. En los últimos días, el exponente del género urbano se ha visto en distintas situaciones. En primera instancia, hace unas semanas lanzó su nuevo tema junto al rapero puertorriqueño René Pérez “Residente” llamado ‘Flow HP’ en donde se regresa al origen del reguetón y la cual ya acumula más de 10 millones de reproducciones en YouTube. 

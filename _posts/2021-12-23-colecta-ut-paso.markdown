@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Reunieron 50 kilogramos de pilas, 80 focos, 40 cartuchos de tóner de impresora, 60 accesorios de equipos de cómputo y diversos electrodomésticos   "
 image: "/uploads/2021/images-Prede_9.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Colecta UT Paso del Norte más de 800 artículos con programa ecológico"
 front: false
 section: "Local"
-news_id: 191160
+redirect_from: /news/191160
 ---
 
 Personal docente, administrativo, operativo y estudiantes de la Universidad Tecnológica Paso del Norte (UTPN) concluyeron la campaña de recolección de desechos electrónicos en la que lograron juntar 828 artículos de material reciclable.

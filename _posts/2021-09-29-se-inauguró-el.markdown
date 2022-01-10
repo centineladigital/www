@@ -16,11 +16,11 @@ author: nil
 description: "Se implementarán presidente y cabildo en tu colonia "
 image: "/uploads/2021/images-_hdf945c1982b86141291bfad4c9f7730582afdbd0e.jpeg"
 video: "/uploads/2021/videos-BW06_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se inauguró el primer miércoles ciudadano"
 front: false
 section: "Local"
-news_id: 188203
+redirect_from: /news/188203
 ---
 
 El alcalde Marco Bonilla realizó la inauguración del primer miércoles ciudadano, en donde se le dará atención a la ciudadanía en distintas áreas, el edil menciono que es un gran honor estar cerca de la sociedad atender a las personas, en palabras del presidente lo que debe de distinguir a un gobierno es la cercanía con la comunidad.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de TikTok en donde se viralizó el video en el que Ángela Aguilar atendió de forma amable a una fan que le diseñó un vestido especial que estaba inspirado en las artesanías de Michoacán. "
 image: "/uploads/2021/images-angela-aguilar-recibio-vestido-fan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ángela Aguilar mostró su humildad con fan que le regaló un vestido; lo portó con orgullo en concierto"
 front: false
 section: "Espectáculos"
-news_id: 191071
+redirect_from: /news/191071
 ---
 
 Ángela Aguilar, famosa cantante, ha demostrado su humildad en varios momentos de su carrera artística. Tan es así que en una ocasión atendió a una fan, la diseñadora Anayeli García Cruz; le recibió un vestido inspirado en las artesanías de Michoacán y lo usó en uno de sus conciertos.  Fue a través de TikTok en donde se viralizó el video en el que Ángela Aguilar atendió de forma amable a una fan que le diseñó un vestido especial que estaba inspirado en las artesanías de Michoacán. 

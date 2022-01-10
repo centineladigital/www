@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Los citados cuadernos fueron elaborados por asesoras y asesores técnico pedagógicos y por titulares de jefaturas de Enseñanza de este nivel educativo, con estrategias diversas para atender las necesidades educativas del alumnado."
 image: "/uploads/2021/images-Preparados_los_cuadernos_de_trabajo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Preparados los Cuadernos de Trabajo para estudiantes de secundarias federales en el reinicio de este ciclo escolar"
 front: false
 section: "Local"
-news_id: 191351
+redirect_from: /news/191351
 ---
 
 Servicios Educativos del Estado de Chihuahua tiene listos ya los Cuadernos de Actividades que serán utilizados por estudiantes de las secundarias federales en el estado durante el segundo trimestre del actual ciclo escolar 2021-2022.

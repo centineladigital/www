@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Roberto Carlos está de luto debido al fallecimiento de su hijo Dudu a quien le dedico un emotivo mensaje. "
 image: "/uploads/2021/images-roberto-carlos-dedico-mensaje-hijo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Dudu Braba, hijo de Roberto Carlos, a los 52 años"
 front: false
 section: "Espectáculos"
-news_id: 187633
+redirect_from: /news/187633
 ---
 
 Roberto Carlos está de luto después de que diera a conocer que su hijo, Dudu Braga, murió a los 52 años como consecuencia del cáncer que padecía. De acuerdo con información de algunos medios, Dudu falleció este 8 de septiembre. Dudu Braba fue diagnosticado con cáncer de páncreas y había estado en tratamiento, pero lamentablemente murió este septiembre del 2021. 

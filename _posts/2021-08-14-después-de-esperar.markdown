@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La conductora de Venga la Alegría tuvo que posponer su boda más de un año debido a la pandemia y por fin dio el sí. "
 image: "/uploads/2021/images-conductora-caso-hacienda-ubicada-cuernavaca_23_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Después de esperar más de un año! Kristal Silva ya se casó; así fue la romántica boda"
 front: false
 section: "Espectáculos"
-news_id: 186700
+redirect_from: /news/186700
 ---
 
 Después de un año y medio de esperar por uno de los días más especiales para Kristal Silva, por fin la conductora de Venga la Alegría se casó con su ahora esposo, Luis Ángel. La pareja se dio el sí este 13 de agosto en una ceremonia civil en la que acudieron solamente las personas más cercanas a Kristal y Luis Ángel. A través de historias en Instagram, la ex participante de Nuestra Belleza México reveló algunos de los detalles de su boda civil la cual tuvo lugar en la Hacienda de Cortés en Cuernavaca en donde la conductora tuvo el apoyo de la empresa de Valentina Corro, la cual se dedicada al wenning planning.  

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de redes sociales en donde los usuarios arremetieron en contra de Mar, la hija de Bárbara de Regil, porque supuestamente “nunca ha ido al mercado”. "
 image: "/uploads/2021/images-critican-hija-barbara-regil-ido.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Critican a la hija de Bárbara de Regil por salir en video de ‘Bershka’ -  se ve que nunca ha ido al mercado”"
 front: false
 section: "Espectáculos"
-news_id: 190876
+redirect_from: /news/190876
 ---
 
 Bárbara de Regil, es una de la influencers más polémicas del mundo de la farándula, pues ha hecho algunas declaraciones poco afortunadas. Sin embargo, su hija Mar de Regil parece ser víctima de haters o de usuarios que están inconformes con su contenido. ¿Qué sucedió? Resulta que recientemente la hija de Bárbara de Regil participó en una campaña para la marca ‘Bershka’ en donde visitó un mercado, algo que para muchos fue motivo de señalamientos, pues aseguran que la joven parece que jamás había asistido a alguno. Fue a través de redes sociales en donde los usuarios arremetieron en contra de Mar, la hija de Bárbara de Regil, porque supuestamente “nunca ha ido al mercado”. 

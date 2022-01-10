@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se llevó a cabo la instalación del Comité Municipal de Salud"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabajará Gobierno Municipal en la mejora y vigilancia de los servicios de salud en la ciudad"
 front: false
 section: "Local"
-news_id: 190593
+redirect_from: /news/190593
 ---
 
 El alcalde de Chihuahua, Marco Bonilla Mendoza, encabezó la instalación del Comité Municipal de Salud (COMUSAL), donde se integraron y tomó protesta a los nuevos integrantes de este comité para el periodo 2021-2024, con el fin de participar en el mejoramiento y vigilancia de los servicios de salud en el municipio.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En las últimas 24 horas, los bomberos han tenido que realizar 528 intervenciones para apagar las llamas en las dos regiones"
 image: "/uploads/2021/images-incendios-tregua-sur-italia-hectareas_0_5_800_498.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Van más de 11 mil hectáreas afectadas por incendios al sur de Italia"
 front: false
 section: "Internacional"
-news_id: 186646
+redirect_from: /news/186646
 ---
 
 Más de 11 mil hectáreas han ardido en los últimos días al sur de Italia, sobre todo en Sicilia y Calabria, por los incendios que se han registrado, por lo que el director de Protección Civil, Fabrizio Curcio, se ha trasladado al lugar para analizar la situación.  

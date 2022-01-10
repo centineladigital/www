@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El exjugador y entrenador del futbol americano falleció este martes a los 85 años de edad"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La NFL está de luto por la muerte del histórico John Madden"
 front: false
 section: "Local"
-news_id: 191295
+redirect_from: /news/191295
 ---
 
 John Madden, el entrenador del Salón de la Fama convertido en locutor cuyas exuberantes llamadas combinadas con simples explicaciones proporcionaron una banda sonora semanal a los juegos de la NFL durante tres décadas, murió el martes por la mañana, dijo la liga. Tenía 85 años.

@@ -10,11 +10,11 @@ author: nil
 description: "Un total de mil 100 millones de pesos es lo que se concreta, 650 por parte del Gobernador."
 image: "/uploads/2021/images-CORRAL.jpg"
 video: "/uploads/2021/videos-MM01_JAVIER_CORRAL.mp4"
-audio: "nil"
+audio: nil
 alt: "Concreta gobierno apoyo financiero"
 front: false
 section: "Local"
-news_id: 186531
+redirect_from: /news/186531
 ---
 
 Un apoyo financiero de mil 100 millones de pesos es lo que se concretó de apoyo por parte de la federación, afirmó el Gobernador de Chihuahua, Javier Corral Jurado, luego de la gira de trabajo del Presidente Andrés Manuel López Obrador.

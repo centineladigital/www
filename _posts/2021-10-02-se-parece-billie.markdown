@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Billie Eilish interpretará las canciones de la película en un concierto; la cantante será la encargada de dar voz a Sally. "
 image: "/uploads/2021/images-concierto-billie-eilish-realizara-angeles_44_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Se parece? Billie Eilish será Sally en concierto de 'El extraño mundo de Jack'"
 front: false
 section: "Espectáculos"
-news_id: 188306
+redirect_from: /news/188306
 ---
 
 Octubre llegó, por lo que los amantes de las películas de terror y Halloween están entusiasmados con la idea de pronto comenzar a ver adornos de Halloween o ver películas de terror u oscuras, una de ellas es El extraño mundo de Jack, aunque es animada, sin duda guarda un poco de misterio y ese lado que habla de la muerte. Para celebrar el 31 de octubre, Billie Eilish se convertirá en Sally, uno de los personajes de este filme. La película que se estrenó en 1993 se proyectará el próximo 29 y 31 de octubre, pero eso no es todo ya que durante la función habrá una orquesta que interpretará al mismo tiempo que se reproduce el filme las canciones que forman parte de ella y Billie Eilish estará presente. 

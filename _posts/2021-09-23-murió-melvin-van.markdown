@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Murió a los 89 años Melvin Van Peebles, icono del cine afroamericano; pionero del movimiento Blaxploitation. "
 image: "/uploads/2021/images-muere-anos-melvin-peebles-icono.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Melvin Van Peebles, ícono del cine afroamericano, a los 89 años"
 front: false
 section: "Espectáculos"
-news_id: 187989
+redirect_from: /news/187989
 ---
 
 El guionista y director estadunidense Melvin Van Peebles, pionero de la "Blaxploitation", cuya película "Sweet Sweetback's Baadasssss Song" inspiró a las jóvenes generaciones de cineastas negros, falleció a los 89 años. 

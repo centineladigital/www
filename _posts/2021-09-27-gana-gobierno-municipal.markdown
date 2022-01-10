@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Estos por parte de la Asociación Nacional de Alcaldes (ANAC). "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-27_at_12.41.33.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gana Gobierno Municipal tres premios nacionales en transparencia, seguridad y atención a mujeres"
 front: false
 section: "Local"
-news_id: 188097
+redirect_from: /news/188097
 ---
 
 El presidente municipal Marco Bonilla Mendoza dio a conocer que el Gobierno Municipal fue galardonado con tres premios por parte de la Asociación Nacional de Alcaldes (ANAC). 

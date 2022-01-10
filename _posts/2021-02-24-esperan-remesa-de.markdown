@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Desconocen número de llegada ya que esto lo maneja el nivel federal"
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03_WENDY_AVILA.mp3"
 alt: "Esperan remesa de vacunas para trabajadores de salud este miércoles"
 front: false
 section: "Local"
-news_id: 183144
+redirect_from: /news/183144
 ---
 
 Este miércoles espera que llegue una nueva remesa de vacunas para los trabajadores de salud, según lo declaró la Subdirectora de Medicina Preventiva, Wendy Ávila Coronado. Estas dosis serían tanto para la segunda etapa que se vacunó en el mes de enero como para otros trabajadores.

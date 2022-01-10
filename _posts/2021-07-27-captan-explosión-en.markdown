@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La tragedia ocurrió en una antigua filial de la empresa Bayer, en Leverkusen, donde se ha llamado a la población a permanecer en sus casas"
 image: "/uploads/2021/images-explosion-captada-puntos-leverkusen-alemania_58_0_1084_675.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Captan explosión en planta de residuos en Alemania; hay un muerto y 4 desaparecidos"
 front: false
 section: "Internacional"
-news_id: 186008
+redirect_from: /news/186008
 ---
 
 Una explosión en una planta de tratamiento de residuos dejó hoy un muerto, 16 heridos y cuatro desaparecidos en Leverkusen, al oeste de Alemania, a cuyos habitantes se instó a no salir de casa, indicó la empresa mientras se investiga las causas del hecho.

@@ -10,11 +10,11 @@ author: nil
 description: "Licitan tardíamente materiales para infraestructura educativa."
 image: "/uploads/2021/images-GONZALEZ.jpg"
 video: "/uploads/2021/videos-MM05_JAVIER_GONZALEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Deterioradas 350 escuelas"
 front: false
 section: "Local"
-news_id: 188156
+redirect_from: /news/188156
 ---
 
 A por lo menos 350 escuelas se dará mantenimiento según lo afirmó el titular de la Secretaría de Educación, Javier González Mocken. El funcionario fue cuestionado respecto al número de instituciones que se han visto afectadas por el deterioro, señalando que en una primera etapa se tenía un número de 8000, sin embargo, este es menor.

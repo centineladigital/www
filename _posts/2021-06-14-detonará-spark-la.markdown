@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Estamos muy entusiasmados porque nos dará una plataforma para detonar proyectos innovadores; empresas afiliadas a Index ya han mostrado interés para atraer centros de ingeniería  y empresas proveedoras de robótica y PLCs, informó el presidente de Desarrollo Económico A.C."
 image: "/uploads/2021/images-_DSC9109.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detonará Spark la economía de Chihuahua -  Desarrollo Económico A.C."
 front: false
 section: "Local"
-news_id: 185021
+redirect_from: /news/185021
 ---
 
 El presidente de Desarrollo Económico de Chihuahua A. C., Sergio Mendoza, declaró que el Centro de Innovación y Desarrollo de Tecnologías Spark, será un lugar donde empresas de base tecnológica, de software y científica, entre otras, detonarán la economía de Chihuahua.

@@ -10,11 +10,11 @@ author: nil
 description: "Busca trabajar en conjunto con las 67 administraciones."
 image: "/uploads/2021/images-GOBER.jpg"
 video: "/uploads/2021/videos-MM01_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Recibe Gobernadora a 67 alcaldes de Chihuahua"
 front: false
 section: "Local"
-news_id: 187927
+redirect_from: /news/187927
 ---
 
 Dentro de las actividades de la administración estatal este martes la Gobernadora María Eugenia Campos Galván llevó a cabo el Primer Encuentro de Alcaldesas y Alcaldes, donde la cabeza de la administración municipal exhortó a las y los ediles a trabajar de manera coordinada con la administración estatal para beneficio de las y los chihuahuenses.

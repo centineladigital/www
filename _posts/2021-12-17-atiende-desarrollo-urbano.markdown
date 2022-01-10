@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se recabaron 92 millones 788 mil pesos en las diferentes subdirecciones"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atiende Desarrollo Urbano y Ecología más de 28 mil trámites y denuncias en 2021"
 front: false
 section: "Local"
-news_id: 190976
+redirect_from: /news/190976
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Urbano y Ecología (DDUE), dio a conocer que en lo que va del 2021 efectuó un trabajo extraordinario, logrando atender un total de 28 mil 574 trámites en sus diferentes subdirecciones en atención a denuncias, peticiones y autorizaciones con lo que se logró recabar 92 millones 788 mil 640 pesos en sus diferentes servicios.

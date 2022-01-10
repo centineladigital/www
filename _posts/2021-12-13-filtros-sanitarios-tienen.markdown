@@ -16,11 +16,11 @@ author: nil
 description: "La ola de contagios de Covid 19 en el municipio puede aumentar por la época ya que el municipio señaló algunos eventos al aire libre  durante las fiestas"
 image: "/uploads/2021/images-DjQ42C1SlAXhJEgN.jpeg"
 video: "/uploads/2021/videos-BL03_LUIS_ENRIQUEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Filtros sanitarios tienen como fin la prevención "
 front: false
 section: "Local"
-news_id: 190807
+redirect_from: /news/190807
 ---
 
 El coordinador del DIF municipal zona sur, Luis Alberto Enríquez, aseguró que los puntos con filtros sanitarios alrededor de la Plaza de Armas  tienen como fin,  la prevención de contagios por la época navideña, señaló que si han existido  quejas de la ciudadanía por el protocolo de acción sin embargo han sido muy pocas.

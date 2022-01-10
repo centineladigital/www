@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La gimnasta acepta que debió haber renunciado a asistir a los Juegos Olímpicos de Tokio 2020"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Simone Biles y su sufrimiento psicológico, Solo quiero que me digan cuándo voy a superarlo"
 front: false
 section: "Deportes"
-news_id: 188127
+redirect_from: /news/188127
 ---
 
 "Solo quiero que un médico me diga cuándo voy a superar esto", ha afirmado la gimnasta estadounidense Simone Biles, en terapia tras retirarse de la competición por problemas psicológicos durante los pasados Juegos de Tokio, a los que, admite, debería "haber renunciado". "Te operan y se arregla. ¿Por qué no puede alguien decirme que en seis meses esto se habrá acabado?", se pregunta sobre su propia salud mental en una entrevista concedida a la web de la revista 'New York'.

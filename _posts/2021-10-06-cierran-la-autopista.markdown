@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La circulación se mantiene cerrada en ambos sentidos; autoridades evacuan a más de 200 familias"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cierran la autopista México-Querétaro por fuga de gas en ducto de Pemex"
 front: false
 section: "Nacional"
-news_id: 188420
+redirect_from: /news/188420
 ---
 
 Pachuca.- La autopista México-Querétaro, fue cerrada a la circulación por una fuga de gas en un ducto de Pemex en el municipio de Tepeji del Río. 

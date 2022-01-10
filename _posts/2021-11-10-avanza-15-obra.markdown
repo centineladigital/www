@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La obra forma parte del Presupuesto Participativo 2021"
 image: "/uploads/2021/images-unnamed_(10).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avanza 15% obra de parque recreativo Haciendas del Real"
 front: false
 section: "Local"
-news_id: 189764
+redirect_from: /news/189764
 ---
 
 El Gobierno Municipal a través de la Dirección de Obras Públicas sigue con las labores del parque recreativo que se construye en el fraccionamiento Haciendas del Real y que forma parte de los primeros 100 días de trabajo y resultados, actualmente se están realizando trabajos de trazo del terreno y la conformación de la base para las distintas unidades de práctica de deportes y de los espacios para el desarrollo social del parque.

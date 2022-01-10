@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Hospitales como el Infantil de Especialidades en Chihuahua y de Ginecología de Juárez son referentes nacionales en equipamiento, especialistas y servicios, afirma la directora del Instituto Chihuahuense de la Salud, María Magdalena Fernández Pérez, en el programa Logros con Valor"
 image: "/uploads/2021/images-visita_hies_cuu.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-7-_MAGDALENA_FDEZ_DIR_MÉDICA_ICHISAL_LOGROS_CON_VALOR_SRIA_SALUD_5-8-21.MP3"
 alt: "Dirige Ichisal 12 unidades médicas de la más alta calidad"
 front: false
 section: "Local"
-news_id: 186325
+redirect_from: /news/186325
 ---
 
 Como nunca en la historia, el sector salud a cargo del Gobierno del Estado recibió mejoras en las 12 unidades médicas operadas por el Instituto Chihuahuense de la Salud (Ichisal), afirmó la directora María Magdalena Fernández Pérez.

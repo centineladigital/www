@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Óscar Andrés Flores El Lunares asesinó a una persona en julio del 2019 en un puesto de quesadillas de la colonia Morelos "
 image: "/uploads/2021/images-lunares_cdmx_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dictan 27 años de cárcel a “El Lunares”, líder de la Unión Tepito"
 front: false
 section: "Nacional"
-news_id: 188378
+redirect_from: /news/188378
 ---
 
 Óscar Andrés Flores, “El Lunares”, señalado por las autoridades capitalinas como uno de los principales generadores de violencia y presunto líder financiero de la Unión Tepito, fue sentenciado a 27 años de prisión por un homicidio que cometió en el 2019. 

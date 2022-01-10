@@ -10,11 +10,11 @@ author: nil
 description: "Buscan regularizar situación de elementos policíacos en Chihuahua."
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-ML03_GILBERTO_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Eventuales parte de los agentes de la SSPE"
 front: false
 section: "Local"
-news_id: 188869
+redirect_from: /news/188869
 ---
 
 “Nunca en mi vida me había tocado ver una institución con policías eventuales”, fueron las palabras del titular de la Secretaría de Seguridad Pública, Gilberto Loya Chávez, quien dijo que existían “muchos agentes” eventuales en la corporación que él encabeza.

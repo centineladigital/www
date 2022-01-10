@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Participaron representantes del H. Congreso y dependencias de Gobierno del Estado"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza Alcalde segundo “Miércoles Ciudadano” en Plaza de Armas"
 front: false
 section: "Local"
-news_id: 189003
+redirect_from: /news/189003
 ---
 
 El presidente municipal, Marco Bonilla Mendoza, encabezó el segundo “Miércoles Ciudadano” que se llevó a cabo en la Plaza de Armas, dónde se escucharon y atendieron diversas gestiones de los chihuahuenses, siendo un total de 270 personas las que acudieron con una solicitud de apoyo o servicio.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La OPEP+ debe adoptar todavía una decisión final sobre la política de producción."
 image: "/uploads/2021/images-bombeo-de-crudo-en-yacimiento_0_21_900_560.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arabia Saudita y EAU alcanzan acuerdo sobre producción petrolera"
 front: false
 section: "Internacional"
-news_id: 185641
+redirect_from: /news/185641
 ---
 
 Arabia Saudita y Emiratos Árabes Unidos (EAU) alcanzaron un compromiso sobre la política de la Organización de Países Exportadores de Petróleo (OPEP), Rusia y sus aliados, un grupo conocido como OPEP+, dijo una fuente de la alianza, en una decisión que debería dar paso a un pacto para suministrar más crudo a un mercado petrolero ajustado y enfriar el alza de los precios. 

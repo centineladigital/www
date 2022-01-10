@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La dependencia estatal informa que Ojinaga llegará a 41°C, la capital chihuahuense a 36°C, Juárez a 37°C y Delicias a 38°C; para el 8 de junio se prevén lluvias en Guadalupe y Calvo, Balleza, Cuauhtémoc, Sueco, Chihuahua y Valle de Zaragoza"
 image: "/uploads/2021/images-NIÑO_CALOR.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Siguen temperaturas elevadas en el estado durante lunes y martes, advierte Protección Civil"
 front: false
 section: "Local"
-news_id: 184900
+redirect_from: /news/184900
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) alertó sobre las temperaturas elevadas que se presentarán este lunes y martes, en municipios como Ojinaga 41°C, Chihuahua 36°C, Juárez 37°C, y Delicias 38°C.

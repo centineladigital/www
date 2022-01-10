@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Estas obras proporcionan mejores espacios recreativos, de desplazamiento y convivencia a los habitantes de este municipio"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa Desarrollo Municipal en arranque de obras en beneficio de los camarguenses"
 front: false
 section: "Local"
-news_id: 190480
+redirect_from: /news/190480
 ---
 
 La Secretaría de Coordinación de Gabinete, a través de la Coordinación de Desarrollo Municipal, participó en el arranque de obras en el Municipio de Camargo, con el objetivo de proporcionar mejores condiciones a los habitantes tanto en espacios recreativos como en lugares públicos que son diariamente transitados por decenas de personas.

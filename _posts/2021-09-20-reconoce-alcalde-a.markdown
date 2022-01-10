@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Durante el evento, el personal de la coordinación recibió una mochila para contar con lo necesario durante los operativos."
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-09-20_at_10.29.01.mpeg"
 alt: "Reconoce Alcalde a personal de la Coordinación Municipal de Protección Civil"
 front: false
 section: "Local"
-news_id: 187873
+redirect_from: /news/187873
 ---
 
 El alcalde de Chihuahua, Marco Bonilla Mendoza, reconoció y felicitó al personal de la Coordinación Municipal de Protección Civil por la labor que realizan en materia preventiva y de resguardo de la integridad de los chihuahuenses.

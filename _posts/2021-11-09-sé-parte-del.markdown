@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con el fin de sumar propuestas de la ciudadanía, durante esta semana  "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sé parte del Plan Municipal de Desarrollo; inician los foros de consulta ciudadana"
 front: false
 section: "Local"
-news_id: 189713
+redirect_from: /news/189713
 ---
 
 El Gobierno Municipal, a través de la Dirección de Planeación y Evaluación, invita a la ciudadanía a participar en los foros temáticos de consulta ciudadana para la conformación e integración del Plan Municipal de Desarrollo 2021-2024, que se llevarán a cabo durante esta semana, en sedes diferentes.

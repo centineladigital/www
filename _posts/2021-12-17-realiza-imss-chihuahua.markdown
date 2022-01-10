@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Gracias a estos ejercicios, niños y niñas adquieren habilidad de actuar sin miedo ante la activación de las alarmas"
 image: "/uploads/2021/images-Foto_6286-2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza IMSS Chihuahua exitoso simulacro en guardería"
 front: false
 section: "Local"
-news_id: 190962
+redirect_from: /news/190962
 ---
 
 A fin de mantener vigente la capacidad de respuesta de trabajadores y usuarios de los servicios que otorga el Instituto Mexicano del Seguro Social (IMSS), se realizó un exitoso simulacro con hipótesis de incendio en la Guardería No. 2 del IMSS en Chihuahua, donde fueron evacuados 20 trabajadores y 30 niños en tiempo de un minuto con 35 segundos.

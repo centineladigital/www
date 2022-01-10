@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Un canal de baja presión ocasionará precipitaciones en algunas regiones de la entidad a partir de éste sábado, que podrían presentarse con mayor intensidad a partir del domingo"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-17_at_16.14.40.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronostica Protección Civil lluvias para el próximo fin de semana en el estado"
 front: false
 section: "Local"
-news_id: 187841
+redirect_from: /news/187841
 ---
 
 Un canal de baja presión en interacción con una divergencia en altura y el ingreso de humedad procedente del Océano Pacífico, favorecerá ambiente de templado a cálido, así como lluvias de aisladas a dispersas durante el transcurso del fin de semana, informó la Coordinación Estatal de Protección Civil (CEPC).

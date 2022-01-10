@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La fuga de una sustancia química tóxica en una planta de la ciudad china de Guiyang deja ocho muertos y tres heridos"
 image: "/uploads/2021/images-2593964.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fuga química en planta provoca 8 muertos y 3 heridos en China"
 front: false
 section: "Internacional"
-news_id: 185004
+redirect_from: /news/185004
 ---
 
 Ocho personas murieron y otras tres resultaron heridas por la fuga de una sustancia química tóxica el sábado en una planta en la ciudad de Guiyang, en el suroeste de China, dijeron las autoridades.

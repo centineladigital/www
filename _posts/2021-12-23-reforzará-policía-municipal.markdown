@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Exhorta a la ciudadanía a no lanzar pirotecnia y pedir ayuda al 911 en casos de emergencia"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reforzará Policía Municipal vigilancia en la ciudad durante Noche Buena"
 front: false
 section: "Local"
-news_id: 191163
+redirect_from: /news/191163
 ---
 
 Con el objetivo de celebrar la fiesta de Noche Buena en paz y armonía, el Gobierno Municipal, a través de la Dirección de Seguridad Pública, implementará un operativo especial de vigilancia policial en la ciudad, que permitirá actuar de manera rápida y oportuna en casos de emergencia.

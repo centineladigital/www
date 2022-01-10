@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las ventajas que tiene esta plataforma es simplificar la carga administrativa, reducir los costos de operación, pero sobre todo disminuir el contacto presencial y con ello los contagios por COVID-19"
 image: "/uploads/2021/images-Foto_3924-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS Chihuahua invita a los patrones a utilizar el “Buzón IMSS” "
 front: false
 section: "Local"
-news_id: 187003
+redirect_from: /news/187003
 ---
 
 El titular de la Jefatura de Servicios de Afiliación Cobranza, maestro Jorge Oscar Carrillo Ronquillo, informó que esta plataforma electrónica surgió en agosto de 2020 como apoyo a los patrones en el marco del retorno de la nueva normalidad, dentro de esta contingencia sanitaria, además de ser parte de la transformación electrónica de los procesos IMSS.

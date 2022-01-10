@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Aunque se prevé un alza en el promedio de temperaturas, se espera que prevalezcan las lluvias en la región sur de la entidad"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Protección Civil aviso preventivo por lluvias a partir del miércoles"
 front: false
 section: "Local"
-news_id: 190372
+redirect_from: /news/190372
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) emitió un aviso preventivo a la ciudadanía, ante la probable presencia de lluvias y posible caída de aguanieve o nieve a partir de este miércoles 1 de diciembre, en municipios de la región serrana.

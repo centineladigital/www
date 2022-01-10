@@ -14,11 +14,11 @@ author: nil
 description: " No se puede seguir pensando que el Estado está en una situación compleja y se siga gastando de la misma forma "
 image: "/uploads/2021/images-CARRERA.jpg"
 video: "/uploads/2021/videos-BM02_BENJAMIN_CARRERA.mp4"
-audio: "nil"
+audio: nil
 alt: "Se presentará propuesta de Benjamín Carrera  en el Congreso del Estado "
 front: false
 section: "Local"
-news_id: 187729
+redirect_from: /news/187729
 ---
 
 Benjamín Carrera declaró que hará una propuesta ante Congreso del Estado en donde se obligue a todos  los órganos de gobierno a que se presenten los gastos ante las autoridades correspondientes esto para evitar el despilfarro de la economía del Estado.

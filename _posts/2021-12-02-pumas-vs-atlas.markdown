@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En caso de empate en el global, avanzaría Atlas por la posición en la tabla"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pumas vs Atlas -  ¿Cuándo y dónde ver las semifinales de ida?"
 front: false
 section: "Deportes"
-news_id: 190413
+redirect_from: /news/190413
 ---
 
 Pumas y Atlas se enfrentan este jueves en el partido de ida de las semifinales del Apertura 2021. El encuentro se llevará a cabo en el estadio Olímpico Universitario. 

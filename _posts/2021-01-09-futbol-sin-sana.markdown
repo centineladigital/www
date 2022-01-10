@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Mazatlán derrota al Necaxa en un partido en el que la afición del puerto se desbordó en el estadio Kraken"
 image: "/uploads/2021/images-2508723.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Futbol sin sana distancia"
 front: false
 section: "Deportes"
-news_id: 181997
+redirect_from: /news/181997
 ---
 
 Con aglomeración afuera del estadio Kraken y sin ningún distanciamiento social ingresaron los aficionados del Mazatlán al primer encuentro del Torneo Guardianes 2021 contra el Necaxa, a pesar de los supuestos operativos sanitarios que anunciaron las autoridades.

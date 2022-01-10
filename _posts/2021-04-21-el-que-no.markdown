@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En breve presentarán acciones para evitar pico."
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04_ARTURO.mp3"
 alt: "El que no sesione consejo no quiere decir que no haya trabajo"
 front: false
 section: "Local"
-news_id: 184031
+redirect_from: /news/184031
 ---
 
 Tras cuestionársele sobre el posible regreso a rojo o naranja restrictivo y la reunión que tiene que llevarse a cabo por parte del consejo de salud, afirmó el Director Médico Zona Norte, Arturo Valenzuela Zorrilla, que el que no se lleve a cabo esta reunión no quiere decir que no se esté llevando a cabo el trabajo en materia de contención de la enfermedad que produce el virus SARS-COV2.

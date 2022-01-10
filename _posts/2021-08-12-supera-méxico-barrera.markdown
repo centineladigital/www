@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Reportan en un día 22 mil 711 contagios, la cifra más alta desde que inició la pandemia; llaman a población a seguir medidas, además de acudir a vacunarse contra el virus"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Supera México barrera de 3 millones de casos Covid-19"
 front: false
 section: "Nacional"
-news_id: 186592
+redirect_from: /news/186592
 ---
 
 A 520 días de que se diagnosticó el primer caso de Covid-19, el país superó la barrera de 3 millones de contagios.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El papá de Ángela Aguilar señaló que lo realmente importante es la calidad del artista y el mayor premio es que la gente siga tu música. "
 image: "/uploads/2021/images-pepe-aguilar-reacciona-boicot-balvin_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dedíquense a hacer música -  Pepe Aguilar reacciona al boicot de J Balvin a los Grammy Latino"
 front: false
 section: "Espectáculos"
-news_id: 188249
+redirect_from: /news/188249
 ---
 
 El anuncio de los nominados a los Grammy Latino desató una polémica disputa entre los astros de la música urbana, luego de que J Balvin criticara a la Academia Latina de la Grabación por no valorar a los cantantes de reguetón, sus declaraciones le llevaron a enfrentarse a Residente, quien salió en defensa de la gala. Ahora, Pepe Aguilar se sumó a la discusión y señaló que lo más importante es que el público "siga tu música". A través de su cuenta de Instagram, Pepe Aguilar compartió un video en el que señaló que él ha sido acreedor de varios premios de la Academia y expresó su postura sobre las pocas nominaciones que recibieron los intérpretes del género urbano y el boicot que propuso J Balvin.  

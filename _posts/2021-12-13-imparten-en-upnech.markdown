@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Buscan dotar a estudiantes, personal académico y administrativo, de una formación interdisciplinaria, especializada y sensible en materia de educación sexual integral, como herramienta primordial para detectar y canalizar esta problemática"
 image: "/uploads/2021/images-TALLER_2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Imparten en UPNECH Juárez   taller sobre prevención de violencia sexual infantil"
 front: false
 section: "Local"
-news_id: 190798
+redirect_from: /news/190798
 ---
 
 La Unidad Juárez de la Universidad Pedagógica Nacional del Estado de Chihuahua (UPNECH) organizó el taller “Sensibilización y elementos básicos en la atención y prevención de violencia sexual infantil”, con el objetivo de proporcionar a su personal, las herramientas necesarias para aprender a detectar y canalizar este tipo de casos, que pudieran presentar niñas, niños y adolescentes.

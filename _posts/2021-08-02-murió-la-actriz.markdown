@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Por medio de redes sociales, se confirmó la muerte de Lilia Aragón del Rivero, actriz y política mexicana. "
 image: "/uploads/2021/images-murio-lilia-aragon-actriz-anos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió la actriz Lilia Aragón del Rivero a los 82 años"
 front: false
 section: "Espectáculos"
-news_id: 186211
+redirect_from: /news/186211
 ---
 
 Este lunes 2 de agosto se confirmó la muerte de la actriz y política mexicana Lilia Aragón del Rivero, quien formó parte de producciones del cine, televisión y teatro mexicano; y de la política como diputada suplente en el Congreso. 

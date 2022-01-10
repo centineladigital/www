@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal verificarán temperatura, aplicación de gel y uso correcto del cubrebocas"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instalan filtros sanitarios en la Plaza de Armas para prevenir contagios de COVID"
 front: false
 section: "Local"
-news_id: 190814
+redirect_from: /news/190814
 ---
 
 Ante el reciente incremento de contagios por COVID19, el Gobierno Municipal, a través del DIF, instaló filtros de acceso en el primer cuadro de la ciudad, para regular la afluencia de personas que visita la Plaza de Armas para apreciar el árbol y los adornos navideños.

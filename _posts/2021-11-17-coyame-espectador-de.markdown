@@ -16,11 +16,11 @@ author: nil
 description: "Son mujeres ejemplo para todo el país"
 image: "/uploads/2021/images-descarga.jpg"
 video: "/uploads/2021/videos-BW05_ISMAEL_PEREZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Coyame espectador de una revolución institucional -  Pérez Pavía "
 front: false
 section: "Local"
-news_id: 189941
+redirect_from: /news/189941
 ---
 
 Ismael Pérez Pavía, resaltó que Chihuahua presenció un momento histórico en la sesión solemne de Cuchillo Parado, Coyame del Sotol, ya que tres mujeres pusieron el ejemplo. Indicó que el General Toribio Ortega participó con valentía en movimientos que impulsaron la revolución mexicana de 1910, por ello, estaría muy orgulloso de ver a tres mujeres tomar las riendas y el poder del estado con entereza.

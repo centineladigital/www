@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con una inversión de un millón 424 mil 326 entregan paquetes a madres vulnerables."
 image: "/uploads/2021/images-RAMON.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ02_.mp3"
 alt: "Inician jornadas para combatir la desigualdad"
 front: false
 section: "Local"
-news_id: 184974
+redirect_from: /news/184974
 ---
 
 Con una inversión de un millón 424 mil 326 pesos se hizo entrega este jueves de apoyos para madres en primera infancia así como gestantes de diversos apoyos, con lo que se llevó a cabo la entrega de los primeros 30 corralitos para bebés a mujeres embarazadas, 36 uniformes para Deporte Formativo, 15 tarjetas a personas con discapacidad, 30 mochilas satirizantes, 100 paquetes de Negocio con Entorno Seguro e insumos para tres espacios de Cuidado Infantil.

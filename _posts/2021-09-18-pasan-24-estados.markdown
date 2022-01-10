@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ningún estado se encuentra en semáforo rojo "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pasan 24 estados a semáforo amarillo; hay 4 en verde -  Secretaría de Salud"
 front: false
 section: "Nacional"
-news_id: 187852
+redirect_from: /news/187852
 ---
 
 La Secretaría de Salud (Ssa) informó que el mapa del semáforo epidemiológico tendrá desde 20 de septiembre al 3 de octubre cuatro entidades en color verde, cuatro en color naranja, 24 en amarillo y ningun estado en semáforo rojo. 

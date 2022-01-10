@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Acumula estado 71 mil 510 contagios y 7 mil 638 a 16 meses de iniciar la pandemia en el estado"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dan positivo 78 personas en el último reporte epidemiológico COVID-19"
 front: false
 section: "Local"
-news_id: 185764
+redirect_from: /news/185764
 ---
 
 A 16 meses de la pandemia por coronavirus en el estado de Chihuahua van 71 mil 510 contagios acumulados y 7 mil 638 defunciones, de acuerdo al último reporte epidemiológico de la Secretaría de Salud estatal.

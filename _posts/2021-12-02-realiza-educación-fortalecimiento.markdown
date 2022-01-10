@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Capacitan a 694 trabajadoras y trabajadores, con el propósito de mejorar la atención y acompañamiento de alumnas y alumnos"
 image: "/uploads/2021/images-S1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza Educación fortalecimiento académico  del personal de secundarias de Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 190426
+redirect_from: /news/190426
 ---
 
 Como parte de la segunda academia local por asignatura y luego de casi dos años de no estar frente a grupo a consecuencia de la pandemia por COVID-19, personal docente, administrativo y directivo del nivel secundaria sostuvo un encuentro de fortalecimiento académico en Ciudad Juárez, con el propósito de realizar tareas en temas de planeación y evaluación de las y los estudiantes.

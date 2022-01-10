@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz indicó que se alejará por un tiempo de la televisión para dedicarles mayor tiempo a su esposo, Billy Rovzar, y su hija Kira. "
 image: "/uploads/2021/images-claudia-alvarez-anuncia-retiro-telenovelas_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Claudia Álvarez anuncia su retiro temporal de las telenovelas; ésta es la razón"
 front: false
 section: "Espectáculos"
-news_id: 182294
+redirect_from: /news/182294
 ---
 
 Claudia Álvarez dio a conocer que hará una pausa en su carrera tras concluir las grabaciones de la telenovela Vencer el desamor, la cual protagoniza a lado de David Zepeda y Daniela Romo. La actriz indicó que se alejará por un tiempo de la televisión para dedicarles mayor tiempo a su esposo, Billy Rovzar, y su hija Kira.  En una entrevista con el programa Hoy, Claudia Álvarez mencionó que si bien se alejará de las cámaras de manera temporal, continuará con su faceta de empresaria.  

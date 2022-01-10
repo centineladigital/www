@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "La máxima autoridad en la materia, ratificó el triunfo de Maru Campos, por lo que tomará protesta como la primera mujer en gobernar el estado de Chihuahua este próximo 8 de septiembre. "
 image: "/uploads/2021/images-8F398189-BB94-4B3E-BC3A-2105584A266A.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ratifica el Tribunal Electoral Federal validez de la gubernatura de Maru Campos"
 front: false
 section: "Local"
-news_id: 187442
+redirect_from: /news/187442
 ---
 
 La Sala Superior del Tribunal Electoral del Poder Judicial de la Federación (TEPJF) ratificó este sábado la validez del resultado de la elección realizada el pasado 6 de junio en Chihuahua en donde resultó electa como gobernadora Maru Campos Galván. 

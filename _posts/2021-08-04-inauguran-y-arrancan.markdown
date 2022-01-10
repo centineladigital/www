@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Destacan la rehabilitación de templos y plazas, construcción de parques, noria para riego, además del inicio de distintos proyectos en tres comunidades del municipio"
 image: "/uploads/2021/images-1.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inauguran y arrancan obras  del programa Desarrollo, Paz y Reencuentro en Aldama"
 front: false
 section: "Local"
-news_id: 186294
+redirect_from: /news/186294
 ---
 
 Con recursos provenientes del Fondo de Operación Justicia para Chihuahua, Gobierno del Estado, a través de la Secretaría de Desarrollo Municipal (Sedemun), en coordinación con autoridades del Ayuntamiento de Aldama  inauguraron y dieron arranque a siete construcciones con inversión de dos millones  528 mil 559.43 pesos.

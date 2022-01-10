@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“Tenemos nueve meses para sacar una nueva institución”."
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-26_at_15.09.19.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-11-26_at_15.11.57.mpeg"
 alt: "46 años de experiencia respaldan al Dr. Jesús Villalobos Jión, nuevo Rector de la UACH"
 front: false
 section: "Local"
-news_id: 190252
+redirect_from: /news/190252
 ---
 
 El Consejo Universitario designó al Dr. Jesús Villalobos Jión como nuevo Rector de la Universidad Autónoma de Chihuahua, quien cuenta con más de 46 años de experiencia universitaria, luego de que el que el M.E. Luis Alberto Fierro Ramírez presentara su renuncia a dicho encargo con carácter irrevocable. 

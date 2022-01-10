@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Fórmula 1 regresó a México después de una temporada de ausencia por la pandemia del Covid-19"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gran Premio de México -  ¿Cuándo y dónde ver las prácticas, clasificación y carrera?"
 front: false
 section: "Deportes"
-news_id: 189534
+redirect_from: /news/189534
 ---
 
 El Gran Premio de México se pone en marcha este viernes con las Prácticas 1 y 2 y finaliza el domingo con la carrera, en donde todo el país espera ver a Sergio 'Checo' Pérez consiguiendo el podio. 

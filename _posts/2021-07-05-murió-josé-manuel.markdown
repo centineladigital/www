@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El artista detrás de temas como Pero te vas a arrepentir y Palabras tristes fue hospitalizado a finales de mayo; así dieron a conocer su deceso. "
 image: "/uploads/2021/images-muerte-cantante-dada-redes-sociales.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió José Manuel Zamacona, vocalista de 'Los Yonic's', por covid-19"
 front: false
 section: "Espectáculos"
-news_id: 185389
+redirect_from: /news/185389
 ---
 
 Murió José Manuel Zamacona, vocalista de Los Yonic's. El cantante perdió la vida tras más de un mes de luchar contra complicaciones derivadas del covid-19. El intérprete de éxitos como "Pero te vas a arrepentir" y "Palabras tristes" fue hospitalizado a finales de mayo, tras lo que su familia pidió oraciones para la recuperación de sus problemas pulmonares, sin embargo, esta noche la familia Zamacona Chavarría confirmó la muerte del músico. 

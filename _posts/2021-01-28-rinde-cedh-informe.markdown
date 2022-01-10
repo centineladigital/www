@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-AJ03_NESTOR_ARMENDARIZ.mp3"
 alt: "Rinde CEDH informe de actividades ante congreso  "
 front: false
 section: "Local"
-news_id: 182525
+redirect_from: /news/182525
 ---
 
 En Congreso del Estado el presidente de la Comisión Estatal de Derechos Humanos (CEDH), Néstor Armendáriz González, rindió el informe de actividades realizadas en el periodo comprendido del primero de enero al 31 de diciembre del 2020.

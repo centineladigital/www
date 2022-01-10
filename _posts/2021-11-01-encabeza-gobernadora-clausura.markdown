@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Maru Campos hizo entrega de los premios a los mejores ejemplares de ganado bovino, ovino y equino de ganaderos de Chihuahua"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza Gobernadora clausura de la ExpoGan 2021"
 front: false
 section: "Local"
-news_id: 189429
+redirect_from: /news/189429
 ---
 
 La gobernadora del Estado de Chihuahua, Maru Campos Galván, acudió al último día de actividades de la ExpoGan 2021 realizada por la Unión Ganadera Regional de Chihuahua en donde participó en la entrega de premios de campeones de las razas de cabezas de ganado.

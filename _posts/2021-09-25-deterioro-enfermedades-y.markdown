@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A siete años de la desaparición de sus hijos, han hecho de la búsqueda y el reclamo de justicia su razón de vivir a pesar de las afectaciones a su salud. "
 image: "/uploads/2021/images-escuela-normal-rural-raul-isidro_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Deterioro, enfermedades y muertes entre padres de los 43 normalistas de Ayotzinapa"
 front: false
 section: "Nacional"
-news_id: 188052
+redirect_from: /news/188052
 ---
 
 La salud de los padres y madres de los 43 normalistas desaparecidos de Ayotzinapa se ha deteriorado durante los siete años de búsqueda y movilización permanente: sus cuerpos resienten el cansancio de más de 2 mil 500 días de lucha por conocer el paradero de sus hijos. 

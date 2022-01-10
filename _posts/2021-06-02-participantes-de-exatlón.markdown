@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de varios días hospitalizada, Steph Gómez murió tras contagiarse de covid-19. Famosos y atletas reaccionaron al fallecimiento de la joven. "
 image: "/uploads/2021/images-participantes-exatlon-mexico-recordaron-steph.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participantes de 'Exatlón México' reaccionan a la muerte de Steph Gómez"
 front: false
 section: "Espectáculos"
-news_id: 184790
+redirect_from: /news/184790
 ---
 
 Este 1 de junio se dio a conocer la muerte de Steph Gómez, quien fue hospitalizada de emergencia el pasado 26 de mayo después de contagiarse de covid-19. De acuerdo con información que se reveló hace unos días, la atleta se encontraba en el Hospital Puebla en donde perdió la vida tras las secuelas que tuvo por el coronavirus. Después de que se revelara que Steph Gómez estaba hospitalizada, se informó que la familia de la ex participante de Exatlón México estaba pidiendo ayuda económica para solventar los gastos que se estaban generando tras la hospitalización de la atleta. 

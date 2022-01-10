@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Algunos municipios como Madera, Riva Palacio, Ahumada, Praxedis G. Guerrero y Ascensión amanecieron hoy con electricidad; Balleza y Guadalupe se reportan todavía sin servicio eléctrico"
 image: "/uploads/2021/images-ALEJANDRA_DE_LA_VEGA__(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Restablecido al 98% servicio de energía eléctrica en el estado -  Alejandra de la Vega"
 front: false
 section: "Local"
-news_id: 182982
+redirect_from: /news/182982
 ---
 
 Los municipios de Madera, Riva Palacio, Ahumada, Praxedis G. Guerrero y Ascensión reportaron que a partir de las primeras horas de hoy ya cuentan con energía eléctrica, con lo que se llegó a un 95 por ciento de restablecimiento del servicio.

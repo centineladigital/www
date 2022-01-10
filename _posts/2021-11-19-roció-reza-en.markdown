@@ -16,11 +16,11 @@ author: nil
 description: "La legisladora Reza indico que las disposiciones dadas por la Suprema Corte de Justicia de la Nación el Gobierno federal y la CNDH, deben buscar el fortalecimiento del DAP. "
 image: "/uploads/2021/images-5LmTZ0dsYXGKOQlD.jpeg"
 video: "/uploads/2021/videos-_BV05_ROCIO_REZA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Roció Reza en contra de la desaparición del DAP"
 front: false
 section: "Local"
-news_id: 190025
+redirect_from: /news/190025
 ---
 
 La diputada federal Roció Reza hizo un pronunciamiento en contra de la posible desaparición del DAP, sin que se haya presentado una solución que haya brindado esperanza para las finanzas de los municipios.

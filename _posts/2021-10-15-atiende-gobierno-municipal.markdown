@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Estas acciones se realizan de forma permanente para evitar que la hierba crezca demasiado y den mala imagen a la ciudad   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atiende Gobierno Municipal limpieza de 22 camellones en avenidas de la ciudad"
 front: false
 section: "Local"
-news_id: 188785
+redirect_from: /news/188785
 ---
 
 El Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, realizó acciones de limpieza y corte de hierba en 183 mil 143 metros cuadrados de avenidas ubicadas a lo largo de la ciudad.

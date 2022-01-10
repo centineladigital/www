@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El jefe de la diplomacia de Estados Unidos aseguró que lo preferible es la diplomacia, el diálogo y la desescalada ante una eventual invasión militar de Rusia hacia Ucrania. "
 image: "/uploads/2021/images-anthony-blinken-secretario-de-estado_0_45_1024_637_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Blinken dice que EU está preparado para tomar medidas si Rusia invade Ucrania"
 front: false
 section: "Internacional"
-news_id: 190784
+redirect_from: /news/190784
 ---
 
 El secretario de Estado estadunidense, Antony Blinken, aseguró este domingo que su país está preparado para tomar las medidas que se abstuvo de adoptar en el pasado contra Rusia si ese país invade Ucrania. 

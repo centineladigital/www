@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De acuerdo con lo revelado por un comunicado que fue dirigido a la prensa y al público en general, Carmen Salinas está siendo atendida por especialistas. "
 image: "/uploads/2021/images-carmen-salinas-hospitalizada-emergencia-madrugada.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hospitalizan de emergencia a Carmen Salinas; está en terapia intensiva"
 front: false
 section: "Espectáculos"
-news_id: 189778
+redirect_from: /news/189778
 ---
 
 Carmen Salinas, primera actriz, fue hospitalizada de emergencia, de acuerdo con lo revelado por uno de sus familiares a través de un comunicado que llegó a varios medios. En tanto, María Luisa Valdés informó que la intérprete reconocida por ‘Aventurera’ se encuentra en terapia intensiva. De acuerdo con lo revelado por el comunicado que fue dirigido a la prensa y al público en general, Carmen Salinas está siendo atendida por especialistas. 

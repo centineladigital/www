@@ -16,11 +16,11 @@ author: nil
 description: "Se lanzó la campaña chihuahua capital cero impunidad (el que la hace la paga)"
 image: "/uploads/2021/images-images.jpg"
 video: "/uploads/2021/videos-BL03_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "Seguridad sin excusas -  Marco Bonilla"
 front: false
 section: "Local"
-news_id: 188357
+redirect_from: /news/188357
 ---
 
 El alcalde Marco Bonilla aseguró que la campaña llamada Chihuahua capital cero impunidad brindará seguridad sin excusas, se compromete a la reducción de la incidencia delictiva y también se encargará de la investigación y cumplimiento de las leyes para actos de delincuencia.

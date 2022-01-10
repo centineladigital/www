@@ -14,11 +14,11 @@ author: nil
 description: "Los colchones fueron donados por empresarios que conforman el Grupo Red y 30 Norte "
 image: "/uploads/2021/images-colchones-donativo-bomberos.jpg"
 video: "/uploads/2021/videos-BV05_JULIO_SALAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "Entregan 65 de colchones a bomberos "
 front: false
 section: "Local"
-news_id: 188795
+redirect_from: /news/188795
 ---
 
 Se hizo entrega de 65 colchones para las camas de los bomberos de las cinco estaciones existentes en la capital, los colchones fueron donados por empresarios que conforman el Grupo Red y 30 Norte Santiago Gallego Cano de Red y Jorge Adolfo Treviño.

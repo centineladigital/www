@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Italia tendrá dos carreras en su territorio: el Gran Premio de Emilia Romagna y el Gran Premio de Italia, en Monza "
 image: "/uploads/2021/images-verstappen-y-hamilton-durante-el.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El Gran Premio de Imola seguirá en la Fórmula 1 hasta el 2025"
 front: false
 section: "Deportes"
-news_id: 188761
+redirect_from: /news/188761
 ---
 
 El Gran Premio de Imola (Emilia Romagna, norte) seguirá formando parte del programa del Mundial de Fórmula Uno hasta 2025, tras un acuerdo anunciado este viernes por el ministro de Exteriores italiano, Luigi Di Maio. 

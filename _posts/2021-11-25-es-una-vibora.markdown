@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz, y coproductora con Marc Anthony, habla de la importancia de esta cinta para la comunidad latina."
 image: "/uploads/2021/images-koati-se-estrenara-en-la_21_0_1039_646.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Es una vibora! Sofia Vergara da voz a villana de 'Koati', cinta que resalta el cuidado de la naturaleza"
 front: false
 section: "Espectáculos"
-news_id: 190199
+redirect_from: /news/190199
 ---
 
 Koati sigue la historia de Nachi, un coatí que acompañado por otros animales endémicos de la fauna latinoamericana, busca su lugar en la tierra de Xo, y en esta búsqueda aprende la importancia y significado de la familia. La cinta está coproducida por Sofía Vergara y Marc Anthony, e incluye un destacado grupo de realizadores latinos que se enfocaron en presentar una cara de América Latina rara vez representada en el cine tradicional y en el de animación. “Es un proyecto que me emociona mucho porque está relacionado con la cultura latina. Los escritores hicieron un trabajo lindísimo en recrear la vida de los animales; la fauna y la flora de la selva amazónica, algo muy exótico que el mundo no ha visto de la manera en que lo estamos mostrando en esta película”, explicó la actriz Sofía Vergara. 

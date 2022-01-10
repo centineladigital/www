@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "De los 2 mil 961 niños a los que se otorgó alojamiento y alimentación, 2 mil 924 se reintegraron con sus familias y otros 37 permanecen bajo resguardo de la instancia, en un Centro de Asistencia Social   "
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brinda DIF Estatal atención integral a menores migrantes no acompañados durante su estancia en Chihuahua"
 front: false
 section: "Local"
-news_id: 191276
+redirect_from: /news/191276
 ---
 
 Durante 2021 la Procuraduría de Protección de Niñas, Niños y Adolescentes (PPNA) de Chihuahua, otorgó facilidades de estancia a 2 mil 961 menores migrantes no acompañados, de conformidad con las disposiciones previstas en la Ley de Migración.

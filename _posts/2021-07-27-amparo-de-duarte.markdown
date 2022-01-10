@@ -10,11 +10,11 @@ author: nil
 description: "Afirma funcionario que amparo es balín."
 image: "/uploads/2021/images-ESPINOZA.jpg"
 video: "/uploads/2021/videos-MM01_JORGE_ESPINOZA.mp4"
-audio: "nil"
+audio: nil
 alt: "Amparo de Duarte no tiene que ver con el proceso de extradición"
 front: false
 section: "Local"
-news_id: 186044
+redirect_from: /news/186044
 ---
 
 El amparo que maneja la defensa del exgobernador César Duarte, nada tiene que ver con el proceso de extradición del exmandatario, señaló el Consejero Jurídico Jorge Espinoza Cortés, quien señaló que el comunicado de la defensa “está lleno de puras ocurrencias”.

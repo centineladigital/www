@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El rugbier argentino de 28 años chocó con la cabeza de un rival este sábado, por lo que tenía varias vértebras fracturadas y contaba con un respirador artificial. "
 image: "/uploads/2021/images-lucas-pierazzoli-especial_1_0_1198_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Lucas Pierazzoli, jugador de rugby que sufrió muerte cerebral tras golpe en un partido"
 front: false
 section: "Deportes"
-news_id: 188338
+redirect_from: /news/188338
 ---
 
 El mundo del rugby se encuentra de luto, luego de que este domingo falleciera Lucas Pierazzoli, jugador de 28 años del Hurling Club, quien se encontrara en estado crítico tras sufrir un fuerte golpe en pleno partido. 

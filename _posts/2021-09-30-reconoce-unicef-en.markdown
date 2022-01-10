@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Toman de base el programa de Chihuahua para aplicarlo en todo el país"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-30_at_13.40.24.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconoce UNICEF en México al Gobierno Municipal por su modelo de atención a víctimas de violencia"
 front: false
 section: "Local"
-news_id: 188229
+redirect_from: /news/188229
 ---
 
 El Fondo de las Naciones Unidas para la Infancia (UNICEF), reconoció el modelo de protección de niñas, niños, adolescente y mujeres víctimas de la violencia, implementado por el Gobierno Municipal durante el confinamiento y lo tomó como base para diseñar un programa con miras a aplicarlo en todo el país.

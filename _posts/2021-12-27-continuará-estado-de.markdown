@@ -12,11 +12,11 @@ author: nil
 description: "El semáforo que prevalecerá en el estado de Chihuahua del lunes 27 de diciembre al domingo 9 de enero, será color amarillo   "
 image: "/uploads/2021/images-unnamed_(1).png"
 video: "/uploads/2021/videos-DR_FELIPE_FERNANDO_SANDOVAL-_MENSAJE_SEMÁFORO_EPIDEMIOLÓGICO.mp4"
-audio: "nil"
+audio: nil
 alt: "Continuará Estado de Chihuahua en semáforo epidemiológico amarillo"
 front: false
 section: "Local"
-news_id: 191215
+redirect_from: /news/191215
 ---
 
 El Gobierno del Estado a través de la Secretaría de Salud informa que los indicadores que miden el riesgo epidemiológico por COVID-19, posicionan al estado de Chihuahua en semáforo amarillo, sin embargo, la cantidad de contagios diarios no han disminuido y continúa el riesgo de transitar a semáforo naranja. 

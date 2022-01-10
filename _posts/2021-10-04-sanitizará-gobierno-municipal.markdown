@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Harán limpieza, dotarán de gel antibacterial y cloro para evitar contagios de COVID-19"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sanitizará Gobierno Municipal 100 escuelas del municipio"
 front: false
 section: "Local"
-news_id: 188345
+redirect_from: /news/188345
 ---
 
 El presidente Municipal de Chihuahua, Marco Bonilla Mendoza, anunció el programa “Medidas de prevención en tu escuela contra el COVID-19” con el fin de sanitizar, dotar de cloro, cubrebocas y eliminar la hierba de los centros educativos de nivel básico más vulnerables del municipio.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Como parte de la reactivación de espacios culturales a través del programa Red de Teatros"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Secretaría de Cultura a funciones de teatro y recital musical para este fin de semana en el Teatro de Cámara"
 front: false
 section: "Local"
-news_id: 188685
+redirect_from: /news/188685
 ---
 
 La Secretaría de Cultura, a través del programa Red de Teatros 2021, invita a la población a disfrutar de manera presencial de los eventos programados para el próximo fin de semana en el Teatro de Cámara Fernando Saavedra, como parte del proceso de reactivación de espacio culturales.

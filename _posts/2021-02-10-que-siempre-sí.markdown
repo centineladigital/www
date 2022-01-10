@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El yerno de Ricardo Montaner había afirmado no saber quién era Selena Quintanilla y fue duramente criticado, incluso por sus seguidores. "
 image: "/uploads/2021/images-camilo-canta-como-la-flor_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Que 'siempre sí' la conoce -  Camilo cantando Como la flor de Selena causa furor en redes"
 front: false
 section: "Espectáculos"
-news_id: 182833
+redirect_from: /news/182833
 ---
 
 Luego de que Camilo causara polémica en redes sociales hace unos días al asegurar que no conoce a Selena Quintanilla, La Reina del Tex-Mex, el esposo de la hija de Ricardo Montaner volvió a causar furor en redes, esta vez por interpretar un cover de la exitosa canción "Como la flor", lo que no resultó del todo bien recibido por sus seguidores. Y es que también fue a través de redes sociales en donde se retomó un video de un test que le hicieron a Camilo en BuzzFeed en noviembre del 2020, y ahora el cantante intentó hacer frente a las críticas de los seguidores de Selena.

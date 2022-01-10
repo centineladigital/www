@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se coordinan Secretaría de Educación y Deporte y Secretaría de Salud, para brindar asesoría virtual a más de 500 docentes, y prevenir contagios por la pandemia"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacitan a personal directivo de preparatorias para regreso ordenado a clases"
 front: false
 section: "Local"
-news_id: 188589
+redirect_from: /news/188589
 ---
 
 Con el objetivo de reforzar las acciones preventivas ante la pandemia por COVID-19, directoras y directores de los diversos planteles que conforman los 13 subsistemas del nivel Medio Superior que operan en Chihuahua, recibieron capacitación virtual por parte de la Secretaría de Salud estatal para un regreso a clases, de manera responsable y ordenado.

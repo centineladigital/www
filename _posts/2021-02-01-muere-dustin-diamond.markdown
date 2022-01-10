@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor de 'Salvados por la campana' murió a la edad de 44 años debido a las complicaciones de cáncer de pulmón"
 image: "/uploads/2021/images-2521796.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Muere Dustin Diamond, 'Sreech' de 'Salvados por la campana'"
 front: false
 section: "Espectáculos"
-news_id: 182599
+redirect_from: /news/182599
 ---
 
 Hace unos minutos el sitio de noticias TMZ dio a conocer la lamentable muerte de Dustin Diamond.

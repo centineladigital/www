@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En riesgo casi dos millones de empleos vinculados al sector."
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-14_at_16.18.18.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Regularización de “chuecos” atenta gravemente vs industria que más empleos genera -   COPARMEX"
 front: false
 section: "Local"
-news_id: 188754
+redirect_from: /news/188754
 ---
 
 La Confederación Patronal de la República Mexicana (COPARMEX), en Chihuahua, dijo que la regularización de autos ilegales conocidos popularmente como “chuecos” o “chocolate”, atenta gravemente en contra de la industria que más empleos genera en el país.

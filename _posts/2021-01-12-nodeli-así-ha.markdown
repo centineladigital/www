@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hoy el interprete de 'Adiós amor' celebra por primera vez un cumpleaños en compañía de Belinda. "
 image: "/uploads/2021/images-belinda-y-christian-nodal-belindapop.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nodeli; así ha sido la historia de amor entre Belinda y Christian Nodal"
 front: false
 section: "Espectáculos"
-news_id: 182085
+redirect_from: /news/182085
 ---
 
 El cantante Christian Nodal, saltó a la fama en 2016 por su exitoso sencillo Adiós Amor  y desde entonces es considerado como uno de los máximos exponentes del regional mexicano en la actualidad. El sonorense, quien cumple 22 años este lunes, recientemente lanzó la canción Dime como quieres, en colaboración con Ángela Aguilar, que en pocas semanas se coló a las listas de popularidad de México y Estados Unidos A pesar de la gran fama que ya poseía, fue a partir de su relación sentimental con Belinda, que Nodal acaparó los reflectores pues son considerados la pareja del momento. 

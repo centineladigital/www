@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esté domingo se registraron varios sismos con magnitud superior a 3 en varios estados del país, incluido en Chiapas. "
 image: "/uploads/2021/images-sismo-activo-alerta-sismica-ciudad_108_36_1091_679.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sismo de magnitud 4.3 se registra en Cintalapa, Chiapas"
 front: false
 section: "Nacional"
-news_id: 188830
+redirect_from: /news/188830
 ---
 
 Esté domingo por la tarde se registró un sismo de magnitud 4.3 registrado a 24 kilómetros al oeste de Cintalapa, Chiapas, alrededor de las 18:26 horas, de acuerdo con el Servicio Sismológico Nacional, de la Universidad Nacional Autónoma de México (UNAM). 

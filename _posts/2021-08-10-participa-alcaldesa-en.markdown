@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cual tiene como objetivo promover y proveer servicios especializados de ciberseguridad a las diversas organizaciones y empresas del municipio"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa Alcaldesa en el lanzamiento del Centro de Ciberseguridad C3"
 front: false
 section: "Local"
-news_id: 186520
+redirect_from: /news/186520
 ---
 
 La alcaldesa, María Angélica Granados Trespalacios, participó en el lanzamiento del Centro de Ciberseguridad C3, proyecto gestado e impulsado por Chihuahua Futura, el cual tiene como objetivo promover y proveer servicios especializados de ciberseguridad a las diversas organizaciones y empresas del municipio.

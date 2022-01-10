@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La noticia sobre la muerte de Steph Gómez, ex integrante de Exatlón México, se informó desde Instagram por la cuenta de Athlete Booster. Te contamos lo que sabemos. "
 image: "/uploads/2021/images-steph-gomez-murio-este-martes.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Steph Gómez de Exatlón México tras ser hospitalizada por covid-19"
 front: false
 section: "Espectáculos"
-news_id: 184789
+redirect_from: /news/184789
 ---
 
 Murió Steph Gómez, ex integrante de Exatlón México. Esto luego de que revelaran que la atleta había sido hospitalizada de emergencia a causa del coronavirus, covid-19. La noticia fue confirmada por Athlete Booster en su cuenta de Instagram. Te contamos lo que sabemos sobre el fallecimiento de la también llamada 'Antorcha humana'.  La noticia sobre la muerte de Steph Gómez, ex integrante de Exatlón México, se dio a conocer desde la cuenta de Instagram de la agencia que representaba a la deportista. "El día de hoy, lamentamos profundamente el fallecimiento de nuestra querida Steph Gómez, atleta de la familia", informó Athlete Booster. 

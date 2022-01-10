@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En una entrevista que se dio en días anteriores con Jeremy Parsons para ‘People The TV Show’, la actriz habló sobre el futuro de la pequeña Laila. "
 image: "/uploads/2021/images-snadra-bullock-habla-del-futuro.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Será presidenta de Estados Unidos” -  Sandra Bullock habla del futuro de su hija Laila"
 front: false
 section: "Espectáculos"
-news_id: 190131
+redirect_from: /news/190131
 ---
 
 Una de las actrices más exitosas de los últimos tiempos es Sandra Bullock, conocida por su aparición en múltiples películas como ‘Speed’, ‘Miss Congeniality’, ‘The Proposal’, ‘Gravity’, ‘Ocean's 8’ y ‘The Blind Side’. Actualmente, con 57 años de edad ha terminado de filmar la película ‘The Lost City’ junto a Daniel Radcliffe. Además de estar promocionando su más reciente largometraje ‘Imperdonable’, la historia de Ruth, una exconvicta que sale de la cárcel por cometer un crimen violento.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La noticia se dio a conocer luego de que la publirrelacionista de la cantante confirmara la noticia a la revista Quién. La abuelita de Belinda, Juana Moreno, estaba delicada de salud. "
 image: "/uploads/2021/images-reportan-muerte-de-la-abuelita.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reportan muerte de la abuelita de Belinda, en España"
 front: false
 section: "Espectáculos"
-news_id: 182827
+redirect_from: /news/182827
 ---
 
 Belinda está de luto, pues su abuelita Juana Moreno murió a los 88 años, después de estar internada en un hospital de España, tras verse delicada de salud, así lo reportó una revista que confirmó el hecho con su publirrelacionista. Te contamos lo que sabemos.

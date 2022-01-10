@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mes con mes se realizan acciones de mejora en estos espacios"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Limpia Gobierno Municipal exteriores de mercados municipales Reforma y Juárez"
 front: false
 section: "Local"
-news_id: 182836
+redirect_from: /news/182836
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos da mantenimiento constante a los mercados municipales Reforma y Juárez, ubicados en el Centro Histórico de la ciudad.

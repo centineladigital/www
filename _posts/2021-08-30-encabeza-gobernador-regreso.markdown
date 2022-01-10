@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En enlace con el presidente Andrés Manuel López Obrador y acompañado por el director general de Conafe, señala Javier Corral que este día se da un paso necesario; regresan 716,948 estudiantes y 32,186 maestros y maestras a 5,768 planteles de la entidad"
 image: "/uploads/2021/images-_DSC2521.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza Gobernador regreso gradual y seguro a clases presenciales en el estado de Chihuahua"
 front: false
 section: "Local"
-news_id: 187233
+redirect_from: /news/187233
 ---
 
 En enlace con el presidente de México, Andrés Manuel López Obrador, el gobernador Javier Corral Jurado encabezó el regreso presencial de manera segura y necesaria a clases en el Nivel Básico del estado de Chihuahua.

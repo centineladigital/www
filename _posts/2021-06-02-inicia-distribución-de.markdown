@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Como paso previo a la elección de ayuntamiento, síndico municipal, diputado local y gobernador del estado"
 image: "/uploads/2021/images-Delicias_elecciones_paquetes.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia distribución de paquetes electorales"
 front: false
 section: "Local"
-news_id: 184786
+redirect_from: /news/184786
 ---
 
 Con la apertura de la bodega de la Asamblea Municipal de Elecciones, este martes comenzó la distribución de los paquetes electorales a cada uno de los más de 200 presidentes de casilla, como paso previo a la elección de ayuntamiento, síndico municipal, diputado local y gobernador del estado.

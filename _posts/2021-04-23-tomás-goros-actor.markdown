@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hace poco se informó que Tomás Goros, quien participó en El señor de lo cielos se contagió de covid-19; ahora el actor está intubado por secuelas del virus. "
 image: "/uploads/2021/images-el-actor-esta-hospitalizado-desde.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tomás Goros, actor de 'El señor de los cielos', está intubado a causa del covid-19"
 front: false
 section: "Espectáculos"
-news_id: 184062
+redirect_from: /news/184062
 ---
 
 Hace unos días se confirmó que el actor Tomás Goros, quien participó en la serie El señor de los cielos como el general Antonio Garnica, fue hospitalizado debido a que se contagió de covid-19. Ahora, se informó que el actor de 62 años ha sido intubado debido a complicaciones que le ha causado el virus a su cuerpo. La información de que fue intubado fue dada por el programa matutino Sale el Sol en el que se mencionó que Tomás Goros se encuentra hospitalizado en un nosocomio de la colonia Roma en la Ciudad de México.

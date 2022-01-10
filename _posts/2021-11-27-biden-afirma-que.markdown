@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El mandatario instó a sumar esfuerzos diplomáticos para reducir las tensiones en la frontera con Ucrania por las movilizaciones militares rusas. "
 image: "/uploads/2021/images-joe-biden-presidente-de-estados-28_0_41_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden afirma que hablará con Putin y Zelenski sobre tensiones entre Rusia y Ucrania"
 front: false
 section: "Internacional"
-news_id: 190274
+redirect_from: /news/190274
 ---
 
 El presidente de Estados Unidos, Joe Biden, dijo que es probable que hable con los líderes de Rusia o Ucrania, en un intento de calmar la creciente tensión por las movilizaciones militares rusas.  

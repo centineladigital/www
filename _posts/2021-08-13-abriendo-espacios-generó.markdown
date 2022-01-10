@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El programa brindó atención especializada a  personas con discapacidad y personas adultas mayores  para satisfacer sus necesidades, levantar el autoestima y ofrecer un sentimiento de contribución a la sociedad"
 image: "/uploads/2021/images-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abriendo Espacios generó empleo a 2,096 personas vulnerables y consolidó política de inclusión"
 front: false
 section: "Local"
-news_id: 186656
+redirect_from: /news/186656
 ---
 
 Desde un inicio, el Gobierno del Estado estableció una política incluyente y por eso impulsó la estrategia Abriendo Espacios que brinda atención especializada a personas con discapacidad y personas adultas mayores para ayudarlas en su inserción al mercado laboral, informó el secretario del Trabajo y Previsión Social, Juan Ramón Herrera Pedroza.

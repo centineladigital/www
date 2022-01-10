@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante una entrevista en el programa de Faisy que se transmite por Unicable, el comediante dio más detalles de su despedida de los shows en vivo. "
 image: "/uploads/2021/images-comediante-invitado-programa-faisy-unicable.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prefiero retirarme invicto -  Jorge Falcón rompe en llanto al anunciar su retiro de los escenarios"
 front: false
 section: "Espectáculos"
-news_id: 186182
+redirect_from: /news/186182
 ---
 
 Jorge Falcón, uno de los comediantes más populares de la llamada 'vieja escuela', anunció su retiro de los escenarios luego de varios años haciendo reír al público a través de sus gestos y chistes subidos de tono, que presentó en programas como Humor es... Los Comediantes. "¿Qué es la vida? La vida es una comedia para quien la vive y una tragedia para quien la siente, por eso hay que vivirla, disfrutarla", dijo el llamado Jojojorge durante una entrevista en el programa de Faisy que se transmite por Unicable.

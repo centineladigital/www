@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este martes 6 de julio arranca el festival que recoje lo mejor del cine internacional. "
 image: "/uploads/2021/images-tilda-swinton_0_3_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estos son los momentos más esperados del Festival de Cannes que no te querrás perder"
 front: false
 section: "Espectáculos"
-news_id: 185351
+redirect_from: /news/185351
 ---
 
 Del regreso a la alfombra roja de Catherine Deneuve a la película Memoria del tailandés Apichatpong Weerasethakul, rodada en Colombia y protagonizada por Tilda Swinton, pasando por el elenco espectacular del filme de Wes Anderson, estos son algunos de los momentos más esperados de la 74ª edición del Festival de Cannes. 

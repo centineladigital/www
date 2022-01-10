@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Fue a través de Twitter en donde el Servicio Sismológico Nacional informó que en Guerrero se registró un sismo de magnitud 4.7 en Guerrero"
 image: "/uploads/2021/images-sismo-epicentro-guerrero-16-de-mayo-1024x573.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sismo de magnitud 4.7 sacude Guerrero durante la madrugada"
 front: false
 section: "Nacional"
-news_id: 186441
+redirect_from: /news/186441
 ---
 
 Durante la madrugada de hoy se sintió un sismo de magnitud 4.7 al noreste de Coyuca de Benítez, Guerrero, así lo reportó el Servicio Sismológico Nacional. Te contamos todo lo que sabemos sobre este reporte que prendió las alarmas en redes sociales. 

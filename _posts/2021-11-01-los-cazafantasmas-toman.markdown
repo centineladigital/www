@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jason Reitman honra la memoria de Harold Ramis, uno de los actores del filme fallecido hace siete años. "
 image: "/uploads/2021/images-los-cazafantasmas-toman-morelia-en_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Los Cazafantasmas' toman Morelia en Día de Muertos"
 front: false
 section: "Espectáculos"
-news_id: 189452
+redirect_from: /news/189452
 ---
 
 Jason Reitman presentará Cazafantasmas: El legado para cerrar la decimonovena edición del Festival Internacional de Cine de Morelia (FICM) este lunes. El director arribó a la capital michoacana este fin de semana, en medio de la celebración del Día de Muertos para mostrar el trabajo que realizó al revivir esta franquicia de los años ochenta. La imagen de la película se apoderó de Morelia desde hace un par de días, con decenas de posters colocados en las calles aledañas al FICM y un enorme arreglo elaborado con flores de cempasúchil que se mimetiza con la tradición del Día de Muertos y que se montó al pie de la catedral, algo que le pareció muy especial a Jason Reitman. 

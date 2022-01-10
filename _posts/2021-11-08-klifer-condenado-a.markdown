@@ -16,11 +16,11 @@ author: nil
 description: "La empresa tuvo 3 MI 400 quejas en pocos meses  "
 image: "/uploads/2021/images-basura.jpeg"
 video: "/uploads/2021/videos-BL02_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "KLIFER condenado a la disminución de concesiones  "
 front: false
 section: "Local"
-news_id: 189665
+redirect_from: /news/189665
 ---
 
 La empresa KLIFER fue destituida de 8 rutas de recolección de basura, esto a consecuencia de las 3 mil 400 quejas por mal servicio que había tenido, así lo informó Marco Antonio Bonilla Mendoza presidente municipal de Chihuahua.

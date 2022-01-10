@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La CEPC da a conocer que se trata del número 27 de la temporada y su aproximación provocará fuertes ráfagas de viento para este jueves, en Ciudad Juárez, Ahumada y Guadalupe"
 image: "/uploads/2021/images-poblanos-salen-abrigados-descenso-temperatura-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ingresará nuevo frente frío a la entidad este viernes 15"
 front: false
 section: "Local"
-news_id: 182127
+redirect_from: /news/182127
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) del Gobierno del Estado de Chihuahua informó que para este jueves 14, la aproximación de un nuevo frente frío provocará fuertes ráfagas de viento en Ciudad Juárez, Ahumada y Guadalupe.

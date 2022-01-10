@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Son fuente de vitaminas (vitamina C, ácido fólico, vitamina A), minerales (potasio, con un ligero efecto diurético), antioxidantes y fibra. "
 image: "/uploads/2021/images-Foto_4866-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recomienda IMSS Chihuahua consumir cítricos en esta temporada "
 front: false
 section: "Local"
-news_id: 188388
+redirect_from: /news/188388
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, a través de la Jefatura de Prestaciones Médicas, recomienda a la población a consumir cítricos en esta temporada, ya que previenen enfermedades respiratorias. 

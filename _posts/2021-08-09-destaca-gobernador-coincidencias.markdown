@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Agradece Javier Corral a Andrés Manuel López Obrador la empatía que mostró al reconocer los esfuerzos realizados en Chihuahua para construir un Gobierno honesto"
 image: "/uploads/2021/images-DSC_4070.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Destaca Gobernador coincidencias con Presidente en lucha contra corrupción y desigualdad"
 front: false
 section: "Local"
-news_id: 186444
+redirect_from: /news/186444
 ---
 
 El gobernador Javier Corral destacó las similitudes de su Gobierno con el del Presidente Andrés Manuel López Obrador y le agradeció el reconocimiento público que el mandatario del país le hizo este domingo en relación a sus esfuerzos para desterrar la corrupción y la impunidad, así como para construir un Gobierno honesto.

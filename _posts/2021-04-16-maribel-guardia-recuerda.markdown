@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Maribel Guardia recordó y dedicó un emotivo mensaje para recordar a Joan Sebastian durante los Latin American Music Awards 2021. "
 image: "/uploads/2021/images-maribel-guardia-recordo-al-cantante.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Maribel Guardia recuerda con conmovedor mensaje a Joan Sebastian en los Latin AMAs 2021"
 front: false
 section: "Espectáculos"
-news_id: 183929
+redirect_from: /news/183929
 ---
 
 Este 15 de abril se llevaron a cabo los Latin American Music Awards en Estados Unidos, a pesar de la pandemia, se realizaron todas las medidas para evitar contagios de covid-19 entre los asistentes. Durante la gala, se recordó a Joan Sebastian con un homenaje que corrió a cargo de Joss Favela y Ana Bárbara y el cual fue presentado por Maribel Guardia. Maribel Guardia, quien fue pareja de Joan Sebastian y con quien procreó a su hijo Julián Figueroa, acudió a los Latin AMAs 2021 para presentar el homenaje al cantautor. La actriz dedicó un emotivo mensaje en el que recordó al intérprete de “Tatuajes”. 

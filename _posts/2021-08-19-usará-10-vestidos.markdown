@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aunque Paris Hilton no ha revelado cuándo se casará, recientemente la socialité dio detalles de su boda, además que piensa documentarla. "
 image: "/uploads/2021/images-paris-hilton-espera-festejo-boda.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Usará 10 vestidos! Paris Hilton da detalles de su boda con Carter Reum"
 front: false
 section: "Espectáculos"
-news_id: 186916
+redirect_from: /news/186916
 ---
 
 En febrero de este año Paris Hilton anunció que su novio Carter Reum le entregó anillo de compromiso, por lo que muy pronto la socialité llegará al altar, aunque todavía no ha revelado la fecha en que esto podría pasar. A meses de su compromiso, Paris dijo que ya está en los preparativos y que hasta el momento todo ha sido estresante, pero que valdrá la pena. 

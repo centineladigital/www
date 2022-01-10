@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Adeudan 20 cuentas el 50 por ciento del rezago en el predial."
 image: "/uploads/2021/images-AMANDA_CORDOVA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML06_AMANDA_CORDOVA.mp3"
 alt: "Desde 1965 algunos adeudos de predial"
 front: false
 section: "Local"
-news_id: 182791
+redirect_from: /news/182791
 ---
 
 Algunos de los adeudos de predial datan desde 1965, señaló la Tesorera de Chihuahua Amanda Córdova. Esto al afirmar que existen 20 deudores que son los que congregan el monto mayor de recursos 625 millones.

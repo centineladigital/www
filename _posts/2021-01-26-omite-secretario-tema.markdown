@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El funcionario recalcó que esto es cuestión de los procesos judiciales. "
 image: "/uploads/2021/images-FERNANDO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM05_FERNANDO_MESTA.mp3"
 alt: "Omite Secretario tema de aplazamiento en caso de Alcaldesa"
 front: false
 section: "Local"
-news_id: 182462
+redirect_from: /news/182462
 ---
 
 “El gobierno no tiene postura” fueron las palabras del Secretario General dentro de la administración estatal al ser cuestionado sobre la solicitud que presentó la defensa de la Alcaldesa con licencia, María Eugenia Campos Galván, para aplazamiento del proceso que se lleva en su contra.

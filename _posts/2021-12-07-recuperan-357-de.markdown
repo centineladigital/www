@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El comisario Julio César Salas presentó las estadísticas de los principales logros en los últimos días                                   "
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recuperan 35.7% de vehículos robados con tecnología de la Plataforma Escudo Chihuahua"
 front: false
 section: "Local"
-news_id: 190606
+redirect_from: /news/190606
 ---
 
 El director de Seguridad Pública Municipal, Julio César Salas, presentó los resultados más sobresalientes en materia de seguridad de los últimos días como la reducción de los principales índices en delitos, el robo de automóviles, así como los diversos operativos que se están llevando a cabo para garantizar tranquilidad de los chihuahuenses.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Diversos directores estuvieron presentes atendiendo gestiones sociales"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Escucha y atiende Alcalde a vecinos de la colonia Infonavit Nacional"
 front: false
 section: "Local"
-news_id: 190448
+redirect_from: /news/190448
 ---
 
 Para lograr un gobierno más cercano y humanista, el presidente municipal, Marco Bonilla, realizó un recorrido en la colonia Infonavit Nacional, en donde escuchó y atendió las solicitudes de los vecinos de la zona,  a fin de dar resolución a diversas inquietudes.

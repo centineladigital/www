@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Informó que es importante que esta comisión logre que los organismos hagan acuerdos entre la parte deudora y Pensiones"
 image: "/uploads/2021/images-ewgrr.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AW03_RENE_FRIAS_BENCOMO.mp3"
 alt: "Comparecen funcionarios de pensiones y la UACh ante comisión especial en Congreso del Estado "
 front: false
 section: "Local"
-news_id: 182308
+redirect_from: /news/182308
 ---
 
 La comisión especial para resolver los problemas financieros de Pensiones Civiles del Estado convocó a funcionarios de la Universidad Autónoma de Chihuahua (UACH) y Pensiones Civiles del Estado (PCE), a fin de analizar la situación del adeudo en el que se encuentra la institución académica.

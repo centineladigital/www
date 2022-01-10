@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Iván García y Randal Willars se cuelgan la medalla de plata en 10 metros sincronizados en la Copa del Mundo de Clavados Tokio 2021"
 image: "/uploads/2021/images-2571331.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México suma plaza para Juegos Olímpicos"
 front: false
 section: "Deportes"
-news_id: 184228
+redirect_from: /news/184228
 ---
 
 México consiguió una plaza más para los Juegos Olímpicos de Tokio, luego de que la dupla conformada por Iván García y Randal Willars lograron la medalla de plata en los clavados sincronizados de la plataforma de 10 metros en el primer día de la Copa del Mundo de Clavados Tokio 2021, que se realiza en el Tatsumi Aquatics Center.

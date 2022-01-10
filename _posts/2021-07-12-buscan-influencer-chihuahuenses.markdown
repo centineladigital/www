@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se reunen 100 influencers chihuahuenses."
 image: "/uploads/2021/images-M3.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02.mp3"
 alt: "Buscan influencer chihuahuenses promover talentos"
 front: false
 section: "Local"
-news_id: 185576
+redirect_from: /news/185576
 ---
 
 Un grupo de influencers dieron a conocer un proyecto donde se comprometen a construir la comunidad con mayor talento de todo el país, según fue dado a conocer por parte de Marco Márquez, integrante de este organismo.

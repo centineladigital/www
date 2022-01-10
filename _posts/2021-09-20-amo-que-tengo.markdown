@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La influencer fitness compartió una fotografía y video en donde mostró sus estrías; además compartió un mensaje sobre la importancia del amor propio. "
 image: "/uploads/2021/images-barbara-regil-asegurado-rutinas-ejercicio_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Amo que tengo estrías -  Bárbara de Regil comparte foto y mensaje para defender su cuerpo"
 front: false
 section: "Espectáculos"
-news_id: 187869
+redirect_from: /news/187869
 ---
 
 Bárbara de Regil se convirtió en una de las influencers más polémicas de la farándula mexicana debido a sus desatinados comentarios en redes sociales. Con frecuencia, la actriz y modelo recurre a sus redes sociales para compartir deseos, pensamientos positivos y mensajes de amor propio con sus seguidores, además de promover un estilo de vida saludable.

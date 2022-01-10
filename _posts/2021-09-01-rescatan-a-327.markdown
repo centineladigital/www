@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Agentes del Instituto Nacional de Migración y elementos de seguridad de Nuevo León rescataron a un grupo de indocumentados que permanecían en condiciones insalubres e infrahumanas en una casa de seguridad "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rescatan a 327 migrantes hacinados en una vivienda de Cadereyta, NL; 120 son menores"
 front: false
 section: "Nacional"
-news_id: 187312
+redirect_from: /news/187312
 ---
 
 Agentes federales del Instituto Nacional de Migración (INM), y elementos de seguridad de Nuevo León rescataron esta tarde a 327 migrantes, entre ellos unos 120 menores de edad, que permanecían hacinados y en condiciones insalubres e infrahumanas al interior de una casa de seguridad ubicada en el municipio de Cadereyta.

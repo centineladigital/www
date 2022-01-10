@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con un cielo de despejado a parcialmente nublado, para la tarde de jueves 17 de junio se prevén temperaturas máximas de 33°C en Chihuahua"
 image: "/uploads/2021/images-VIENTO_CUU_(7).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se espera calor y poco viento para este jueves y viernes -  Protección Civil"
 front: false
 section: "Local"
-news_id: 185079
+redirect_from: /news/185079
 ---
 
 Para este jueves 17 un canal de baja presión en interacción con una divergencia en altura favorece un ambiente de templado a cálido por la mañana, y de caluroso a muy caluroso por la tarde, con cielo de despejado a parcialmente nublado, y viento de 10 a 25 km/h.

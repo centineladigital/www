@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Según la Defensa Civil del primer país, la acción fue perpetrada por las tropas leales al presidente, Bachar al Asad"
 image: "/uploads/2021/images-idlib-mantiene-conflicto-ataques-fuerzas_0_26_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reportan ataque de Siria a Idlib donde mueren al menos 7 civiles, la mayoría niños"
 front: false
 section: "Internacional"
-news_id: 185893
+redirect_from: /news/185893
 ---
 
 Al menos siete personas civiles pertenecientes a una misma familia murieron, la mitad de ellos niños, por disparos de artillería efectuados por las fuerzas de Siria contra la provincia de Idlib, el último bastión opositor en el noroeste del país, en medio de un repunte de la violencia en la región, según un grupo de protección y asistencia médica en la zona. 

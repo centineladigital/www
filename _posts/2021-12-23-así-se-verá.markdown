@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El club pueda pedir una financiación de hasta mil 500 millones de euros para el proyecto que consiste en la remodelación del Camp Nou, la construcción de un nuevo Palau Blaugrana y la creación del Campus Barça "
 image: "/uploads/2021/images-vera-espei-barca-renovacion-camp.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así se verá el Espei Barca, la renovación del Camp Nou para la próxima temporada"
 front: false
 section: "Deportes"
-news_id: 191144
+redirect_from: /news/191144
 ---
 
 Los socios del Barcelona aprobaron por 42 mil 693 votos a favor (87,8 por ciento), 5 mil 55 en contra (10,4 por ciento) y 875 en blanco (1,8 por ciento) que el club pueda pedir una financiación de hasta mil 500 millones de euros para realizar el Espai Barça, un proyecto que consiste en la remodelación del Camp Nou, la construcción de un nuevo Palau Blaugrana y la creación del Campus Barça. 

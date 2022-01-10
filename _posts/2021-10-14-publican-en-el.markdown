@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se garantiza al ciudadano la seguridad y confianza al depositar sus datos personales en este gobierno   "
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Publican en el POE el Reglamento de Datos Personales del Municipio de Chihuahua   "
 front: false
 section: "Local"
-news_id: 188727
+redirect_from: /news/188727
 ---
 
 Con el fin de garantizar el derecho a la protección de datos personales por parte del Gobierno Municipal, definiendo facultades y obligaciones precisas de los funcionarios públicos como responsables del manejo, guarda y custodia de los datos personales obtenidos dentro de sus atribuciones, ayer se publicó en el Periódico Oficial del Estado, el Reglamento de Protección de Datos Personales del Municipio de Chihuahua.

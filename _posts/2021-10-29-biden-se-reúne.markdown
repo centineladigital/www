@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La reunión fue una de las más extensas con un presidente estadunidense, con quien el Papa comparte postura sobre la defensa del ambiente.  "
 image: "/uploads/2021/images-joe-biden-reunio-papa-francisco-1_0_32_1000_622.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden se reúne con papa Francisco; hablaron 75 minutos sobre pandemia y migración"
 front: false
 section: "Internacional"
-news_id: 189359
+redirect_from: /news/189359
 ---
 
 El presidente de Estados Unidos, Joe Biden, sostuvo una reunión con el papa Francisco en el Vaticano durante aproximadamente 75 minutos, donde hablaron de pobreza, cambio climático, pandemia y migración, previo a la cumbre del G20 en Roma. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este grupo reflexivo promueve el análisis de pensamientos, emociones y conductas"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brinda CAPPSI atención terapéutica para hombres  "
 front: false
 section: "Local"
-news_id: 189001
+redirect_from: /news/189001
 ---
 
 Con el propósito de atender la salud mental de manera integral, el Gobierno Municipal a través del Centro de Atención y Prevención Psicológicas (CAPPSI), pone a disposición el grupo reflexivo para hombres.

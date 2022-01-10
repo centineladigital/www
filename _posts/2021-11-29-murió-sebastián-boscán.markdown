@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor de Telemundo llevaba meses en tratamiento contra el cáncer; contaba con 41 años de edad. "
 image: "/uploads/2021/images-muere-actor-sebastian-boscan-padecer.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Sebastián Boscán, actor de 'Pasión de Gavilanes' por cáncer de estómago"
 front: false
 section: "Espectáculos"
-news_id: 190325
+redirect_from: /news/190325
 ---
 
 Sebastián Boscán, famoso actor de exitosas telenovelas de Telemundo, murió a los 41 años tras padecer cáncer de estómago. La noticia ha golpeado al mundo del espectáculo, pues su trabajo sobresalió en exitosas telenovelas tales como ‘Pasión de Gavilanes’, ‘El estilista’ y ‘El general Naranjo’. Te contamos todo lo que sabemos sobre el deceso del intérprete.  Fue a través de las redes sociales del periodista Carlos Ochoa en donde se dio a conocer la noticia del fallecimiento del actor Sebastián Boscán. “Me duele en el alma tu partida. Gracias amigo por tantos personajes inolvidables. Parece mentira decir esto. Descansa en paz Sebastián, estoy en shock”, escribió el periodista. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La noticia sobre la muerte de Juan Carlos Novelo se dio a conocer desde las cuentas oficiales de Caifanes. Sin dar detalles sobre los motivos de la muerte del famoso, así habló la agrupación sobre él: "
 image: "/uploads/2021/images-murio-baterista-caifanes-juan-carlos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Caifanes está de luto -  Murió Juan Carlos Novelo, primer baterista de la banda"
 front: false
 section: "Espectáculos"
-news_id: 187817
+redirect_from: /news/187817
 ---
 
 La banda Caifanes está de luto, pues se dio a conocer que el músico y primer baterista de la agrupación, Juan Carlos Novelo, murió el pasado jueves 16 de septiembre. Te contamos lo que informó la agrupación musical. 

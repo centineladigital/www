@@ -10,11 +10,11 @@ author: nil
 description: "Aseguran la última vuelta y otros compromisos."
 image: "/uploads/2021/images-juan.jpg"
 video: "/uploads/2021/videos-MJ04_JUAN_GOMEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Prometen transportistas mejorar el servicio"
 front: false
 section: "Local"
-news_id: 190211
+redirect_from: /news/190211
 ---
 
 Afirmando poder garantizar la mejora del servicio el presidente de Transportes Urbanos de Chihuahua,  Juan Gómez, señaló que los concesionarios de la Ciudad de Chihuahua, en conjunto con los operadores y sindicatos, buscan que se dé esta promesa, la cual es necesaria para que se pueda llevar a cabo la alza de trarifa.

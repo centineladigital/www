@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal apoyó a 16 productores locales para dar a conocer sus productos"
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Promueven productos locales en Feria de Exposición Agroalimentaria"
 front: false
 section: "Local"
-news_id: 190153
+redirect_from: /news/190153
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Rural, apoyó a un grupo de 16 productores agropecuarios locales para participar en la Feria de Exposición y Comercialización de Productos Agroalimentarios que tuvo lugar en Ciudad Juárez, con el fin de promover los productos que se hacen en el municipio de Chihuahua.

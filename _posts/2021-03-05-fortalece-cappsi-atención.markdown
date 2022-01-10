@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Desde el inicio de la pandemia, el CAPPSI brindó 407 consultas para usuarios en proceso de duelo y continúa facilitando el apoyo a quienes lo necesitan."
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fortalece CAPPSI atención psicológica a población en proceso de duelo"
 front: false
 section: "Local"
-news_id: 183305
+redirect_from: /news/183305
 ---
 
 El Gobierno Municipal a través del Centro de Atención y Prevención Psicológicas (CAPPSI), continúa trabajando en brindar atención en la salud mental y en fortalecer la resiliencia de la ciudadanía por motivo de la contingencia sanitaria.

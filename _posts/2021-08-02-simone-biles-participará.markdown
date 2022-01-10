@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La gimnasta estadunidense volverá a la actividad de los Juegos Olímpicos, luego de haber renunciado a cuatro finales por un tema de salud mental"
 image: "/uploads/2021/images-simone-biles-gimnasta-estadunidense-reuters-2_1_53_1198_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Simone Biles participará en la final de viga de equilibrio en Tokio 2020"
 front: false
 section: "Deportes"
-news_id: 186204
+redirect_from: /news/186204
 ---
 
 La superestrella estadunidense de la gimnasia Simone Biles, que ha renunciado a cuatro finales en los Juegos Olímpicos de Tokio 2020 para proteger su salud mental y física, está inscrita para la final de barra de equilibrio del martes, según la lista de participantes publicada el lunes. 

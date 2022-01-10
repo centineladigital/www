@@ -12,11 +12,11 @@ author: nil
 description: "“se espera que las empresas paguen mínimo los 15 días marcados por la ley para el aguinaldo de sus coolaboradores”"
 image: "/uploads/2021/images-sector-manufacturero-sufrido.jpeg"
 video: "/uploads/2021/videos-BV04_SANTINI_.mp4"
-audio: "nil"
+audio: nil
 alt: "Los coolaboradores merecen llegar al aguinaldo "
 front: false
 section: "Local"
-news_id: 189819
+redirect_from: /news/189819
 ---
 
  El presidente del cosejo coordinador empresarial  (CCE ) Francisco Santini manifestó que se les será entregado a sus coolaboradores el aguinaldo según lo marca la ley manifesto que sus asociados del consejo merecen llegar al aguinaldo por el trabajo desarrollado.

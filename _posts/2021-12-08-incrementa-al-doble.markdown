@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "De un promedio de 40 escuelas que registraron casos, subió a 80."
 image: "/uploads/2021/images-JAVIER.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW05_JAVIER_GONZALEZ.mp4"
 alt: "Incrementa al doble casos de escuelas con contagios de COVID"
 front: false
 section: "Local"
-news_id: 190647
+redirect_from: /news/190647
 ---
 
 Un incremento de más de un cien por ciento es lo que ha registrado la Secretaría de Educación, esto ya que de un número de 35 a 40 escuelas que reportaban algún caso de contagio por coronavirus en una semana, se registraron desde la pasada semana 80 escuelas que presentaron algún caso.

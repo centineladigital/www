@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La tenista número 1 se confirmó como la mejor del mundo tras ganar el Grand Slam celebrado en Londres, donde venció por tres sets a la checa Pliskova. "
 image: "/uploads/2021/images-Deportes.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ashleigh Barty, campeona de Wimbledon tras vencer a Karolina Pliskova"
 front: false
 section: "Deportes"
-news_id: 185529
+redirect_from: /news/185529
 ---
 
 La variedad y astucia de Ashleigh Barty, la número uno del mundo, se impuso a una irregular Karolina Pliskova, enchufada solo a ratos, para levantar su primer Wimbledon y segundo Grand Slam de su carrera (6-3, 6-7 (4) y 6-3).

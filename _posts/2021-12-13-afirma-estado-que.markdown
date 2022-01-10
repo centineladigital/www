@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Buscarán solución a problema de productores en zona centro sur."
 image: "/uploads/2021/images-JAUREGUI.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02_CESAR_JAUREGUI.mp4"
 alt: "Afirma Estado que habrá solución en problema de agricultores"
 front: false
 section: "Local"
-news_id: 190801
+redirect_from: /news/190801
 ---
 
 Al darse a conocer que la cantidad de agua que los productores podrán disponer para el próximo ciclo agrícola, el Secretario General de Gobierno César Jáuregui Moreno, señalo que no es un problema que no pueda solucionarse ante el Ejecutivo Federal.

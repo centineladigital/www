@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La mutación ya se ha detectado en varios países europeos. "
 image: "/uploads/2021/images-autoridades-salud-francia-puesto-atencion.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Francia está bajo vigilancia por variante del covid-19 hallada en República del Congo"
 front: false
 section: "Internacional"
-news_id: 189909
+redirect_from: /news/189909
 ---
 
 Las autoridades en Francia han comenzado a intensificar la vigilancia ante una variante del covid-19 que ha estado expandiéndose por al menos tres regiones del país europeo y que es conocida como B.1.X o B.1.640, la cual, según revelan medios locales, tiene su origen en República del Congo, agregándose así a la lista de evaluación de los especialistas sanitarios.

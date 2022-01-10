@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "HBO Max celebrará el 20 aniversario de 'Harry Potter y la piedra filosofal' con un programa especial que reunirá todo el elenco de la saga; aquí te contamos los detalles. "
 image: "/uploads/2021/images-harry-potter-programa-especial-hbo_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Preparen sus varitas! Elenco de Harry Potter se reúne en especial de HBO Max; conoce qué día se estrena"
 front: false
 section: "Espectáculos"
-news_id: 189894
+redirect_from: /news/189894
 ---
 
 Daniel Radcliffe, Emma Watson y Rupert Grint vuelven a ponerse las capas para celebrar el 20 aniversario de Harry Potter y la piedra filosofal, película que llegó a los cines en noviembre de 2001 dando paso a la exitosa saga inspirada en la obra de J.K Rowling. Los actores se reunirán a una década del lanzamiento del último filme, pero ahora lo harán en la pantalla chica en un programa especial que los fans podrán disfrutar a través de HBO Max. Harry Potter 20º Aniversario: Regreso a Hogwarts es el título del especial que alista HBO Max. La producción no sólo contará con los actores que dan vida a Harry Potter, Hermione Granger y Ron Weasley en la saga, también recibirá al cineasta Chris Columbus, director de la primera cinta de la franquicia, además de otras sorpresas que dejarán sin aliento a los potterhead. 

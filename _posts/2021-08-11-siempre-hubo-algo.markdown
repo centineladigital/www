@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los actores habían admitido sentir atracción durante la grabación del programa de televisión; sin embargo, nunca estuvieron juntos fuera de los sets."
 image: "/uploads/2021/images-friensd.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Siempre hubo algo? Jennifer Aniston y David Schwimmer de 'Friends' estarían saliendo"
 front: false
 section: "Espectáculos"
-news_id: 186560
+redirect_from: /news/186560
 ---
 
 Jennifer Aniston y David Schwimmer, quienes interpretarían papeles estelares en el popular sitcom de los años 90 'Friends', estarían saliendo; paradójicamente sus personajes, Rachel Green y Ross Geller, mantenían una relación durante la serie de televisión. 

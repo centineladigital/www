@@ -10,11 +10,11 @@ author: nil
 description: "Se generaron daños graves, afirma Secretario General de Gobierno."
 image: "/uploads/2021/images-jauregu.jpg"
 video: "/uploads/2021/videos-MJ01_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Falsificación de recibos es fuera de la ley"
 front: false
 section: "Local"
-news_id: 191165
+redirect_from: /news/191165
 ---
 
 Las acciones que se detectaron con recibos falsos dentro de lo que se conoce como nómina secreta fueron realizadas fuera de la ley, generando mucho daño afirmó el Secretario General de Gobierno, César Jáuregui Moreno.

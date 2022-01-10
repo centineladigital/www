@@ -18,11 +18,11 @@ author: nil
 description: "Convocó al Estado a trabajar y tocarse el corazón por las madres que pierden a sus hijas por la violencia e inseguridad que existe en Chihuahua"
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-25_at_11.00.51_AM.jpeg"
 video: "/uploads/2021/videos-_BJ01_ELVIRA_VILLAREAL_.mp4"
-audio: "nil"
+audio: nil
 alt: "El gobierno ha pichicateado los recursos en materia de feminicidios "
 front: false
 section: "Local"
-news_id: 190213
+redirect_from: /news/190213
 ---
 
 “Si no hay recurso suficiente todo se queda en buenas intenciones, han pichicateado los recursos y el problema de feminicidios ha crecido exponencialmente” estas fueron las palabras de la regidora Elvira Villareal, la cual aseguró que el gobierno no ha destinado los recursos en pro de la seguridad de las mujeres en el Estado.

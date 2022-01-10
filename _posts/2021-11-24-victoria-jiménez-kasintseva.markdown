@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La tenista No. 1 del mundo, Victoria Jiménez Kasintseva, inicia el torneo con un triunfo "
 image: "/uploads/2021/images-victoria-jimenez-kasintseva-cortesia_0_53_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Victoria Jiménez Kasintseva debuta con triunfo en el Mundial Juvenil Yucatán de tenis"
 front: false
 section: "Deportes"
-news_id: 190142
+redirect_from: /news/190142
 ---
 
 Victoria Jiménez Kasintseva, de Andorra, retornó a la cancha en la que en la pasada edición conquistó el primer título de un torneo de Grado A. Lo hizo de manera clara al derrotar en sets corridos a la estadunidense Sonya Macavei, 6-3 y 6-1, en el Mundial Juvenil Yucatán de tenis (Grado A), presentado por Bepensa, que se realiza en el Club Campestre de Yucatán. Victoria, quien apenas arribó a Mérida, hizo un ligero entrenamiento al mediodía para adaptarse de nuevo a la altura y las canchas. 

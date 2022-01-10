@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solamente se registraron 65 casos de COVID en 24 horas."
 image: "/uploads/2021/images-LETICIA_RUIZ.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM01_LETICIA_RUIZ.mp3"
 alt: "Sin registro de defunciones en 24 horas"
 front: false
 section: "Local"
-news_id: 182259
+redirect_from: /news/182259
 ---
 
 Este martes no se dio un registro acreditable de muertes por coronavirus, sin embargo, se registraron 65 casos, según lo dio a  conocer la Subdirectora de Medicina Preventiva Leticia Ruiz González, quien dijo que pese a esto se esta registrando un leve incremento de casos.

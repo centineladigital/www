@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Si no es necesario salir, quédate en casa"
 image: "/uploads/2021/images-Foto_3849-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reitera IMSS Chihuahua a seguir cuidándose para evitar contagios de COVID-19"
 front: false
 section: "Local"
-news_id: 186506
+redirect_from: /news/186506
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua reitera a la población que se deben de mantener las medidas de prevención para evitar la propagación de COVID-19.

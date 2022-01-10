@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En tiempo extra los norteamericanos doblegan al conjunto mexicano, que acusó el aspecto físico y una falta de contundencia "
 image: "/uploads/2021/images-EV64Y6VFBBHXXCYUPLK42YQKC4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Estados Unidos vence a México por la mínima y es campeón de la Copa Oro"
 front: false
 section: "Deportes"
-news_id: 186176
+redirect_from: /news/186176
 ---
 
 Estados Unidos no solo es campeón de la Nations League, también de la Copa Oro, la cual ganaron tras vencer a México por 1-0, da lo mismo si fue dominado gran parte del partido, a la hora del cómputo final el equipo alterno de los estadunidenses fue más eficaz que el pelotón de Gerardo Martino. Los norteamericanos son el mandón de Concacaf. 

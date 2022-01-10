@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "También te dice qué hacer si acudes a los cajeros automáticos a retirar efectivo"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Si vas a trasladar fuertes sumas de dinero, la Policía Municipal te protege"
 front: false
 section: "Local"
-news_id: 190050
+redirect_from: /news/190050
 ---
 
 Con el objetivo de cuidar el patrimonio de los chihuahuenses, especialmente durante la temporada decembrina, el Gobierno Municipal, a través de la Dirección de Seguridad Pública, ofrece el servicio de “Acompañamiento Bancario”, con la intención de brindar resguardo policial y garantizar un trayecto seguro a quienes manejan efectivo, para lo cual sólo basta realizar una llamada al 9-1-1 y solicitar el apoyo.

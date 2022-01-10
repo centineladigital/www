@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente Municipal inauguró consultorio médico en el Edificio del Real"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acercan servicio médico a trabajadores del Municipio que laboran en zona centro"
 front: false
 section: "Local"
-news_id: 189555
+redirect_from: /news/189555
 ---
 
 El alcalde de Chihuahua, Marco Bonilla Mendoza, encabezó la inauguración y corte de listón de un nuevo consultorio médico en el Edificio del Real, que atenderá a los trabajadores del Gobierno Municipal que laboran en las dependencias que se encuentran en la zona centro.

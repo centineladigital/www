@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Una compañía propiedad del Fondo de Inversión Pública, y con Greg Norman a la cabeza, está invirtiendo y explorando nuevas formas como las competiciones por equipos "
 image: "/uploads/2021/images-greg-norman-instagram-shark-gregnorman_0_84_1080_671.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El plan para transformar al golf de Gerg Norman"
 front: false
 section: "Deportes"
-news_id: 190273
+redirect_from: /news/190273
 ---
 
 En sus días como jugador, Greg Norman siempre destacó en el campo de golf. Apodado “the Shark” (El tiburón), el australiano pasó 331 semanas como el número uno del deporte en las décadas de 1980 y 1990. Con su característico sombrero de paja y  su agresivo estilo de juego, Norman era una figura peculiar en un deporte que, de otro modo, sería rígido y conservador. 

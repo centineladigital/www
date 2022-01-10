@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Con la capacitación se pretende apoyar a los estudiantes que buscan reforzar sus conocimientos en materias de la ingeniería Industrial   "
 image: "/uploads/2021/images-UP5.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Diseñan estudiantes de la Universidad Tecnológica Paso del Norte  cursos en línea de diversas temáticas"
 front: false
 section: "Local"
-news_id: 190433
+redirect_from: /news/190433
 ---
 
 Estudiantes del cuarto cuatrimestre de Ingeniería Industrial de la Universidad Tecnológica Paso del Norte (UTPN) diseñaron e impartieron cursos en línea, abiertos, masivos y gratuitos, o mejor conocidos como MOOC (Massive Open Online Courses, por sus siglas en inglés) como parte de su proyecto final de la materia Integradora.

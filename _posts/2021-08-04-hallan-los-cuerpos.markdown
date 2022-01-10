@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Una de las víctimas estaba todavía con vida, pero falleció mientras era trasladado a un hospital para su atención"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hallan los cuerpos de ocho hombres con señas de tortura y el tiro de gracia en Zacatecas"
 front: false
 section: "Nacional"
-news_id: 186278
+redirect_from: /news/186278
 ---
 
 Zacatecas.- Los cuerpos de ocho hombres, con señas de tortura y el tiro de gracia, fueron encontrados este martes en diferentes puntos de la localidad de Calera, Zacatecas. 

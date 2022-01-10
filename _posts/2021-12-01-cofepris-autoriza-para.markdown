@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Comisión Federal para la Protección Contra Riesgos Sanitarios informó que autorizó “para uso de emergencia” la combinación de los fármacos en solución inyectable con denominación genérica bamlanivimab y etesevimab"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cofepris autoriza, para uso de emergencia, combinación de fármacos inyectables para pacientes Covid"
 front: false
 section: "Nacional"
-news_id: 190380
+redirect_from: /news/190380
 ---
 
 La Comisión Federal para la Protección Contra Riesgos Sanitarios (Cofepris), informó este miércoles que autorizó “para uso de emergencia” la combinación de los fármacos en solución inyectable con denominación genérica bamlanivimab y etesevimab, que podrá ser utilizada en acciones de atención para pacientes con Covid-19.

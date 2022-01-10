@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Éstas canciones han sido interpretadas por Pedro Infante, José Alfredo Jiménez y hasta Luis Miguel. Arma tu playlist y canta a todo pulmón este 15 de septiembre."
 image: "/uploads/2021/images-vicente-fernandez-jose-alfredo-jimenez.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Viva México! Prepara tu playlist y celebra 'El Grito' con estas canciones"
 front: false
 section: "Espectáculos"
-news_id: 187749
+redirect_from: /news/187749
 ---
 
 Algo que caracteriza a México además de su comida o los hermosos lugares turísticos para visitar es que la música vernácula o regional mexicana es muy popular en diferentes partes del mundo, es casi imposible que no se relacione al mariachi con nuestro país, es por eso que en el 15 de septiembre es muy común escuchar este género musical en todas las casas. Y como este 15 de septiembre sacamos aún más nuestro lado mexicano y ponemos en alto a nuestro país, te dejamos unas canciones muy mexicanas que no pueden faltar en tu playlist para que las escuches mientras disfrutas de tu cena o simplemente celebras el Día de la Independencia.

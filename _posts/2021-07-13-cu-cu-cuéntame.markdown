@@ -14,11 +14,11 @@ author: nil
 description: "Lucero Mijares decidió imitar la particular forma de cantar de su mamá y realizó un video en donde al ritmo de Cuéntame cautivo a varias personas."
 image: "/uploads/2021/images-la-joven-sorprendio-con-su.jpg"
 video: "/uploads/2021/videos-CRLF7MWhEaQ_1_"
-audio: "nil"
+audio: nil
 alt: "'Cu, cu, cuéntame', Lucero Mijares realiza divertida imitación de su mamá y causa furor en redes"
 front: false
 section: "Espectáculos"
-news_id: 185601
+redirect_from: /news/185601
 ---
 
 Una de las jóvenes que está causando furor en redes sociales es Lucero Mijares, quien ha demostrado que heredó el talento de sus padres. Ahora, la cantante divirtió a sus seguidores con un video en el que decidió imitar la particular forma de cantar y de moverse en el escenario de su mamá. 

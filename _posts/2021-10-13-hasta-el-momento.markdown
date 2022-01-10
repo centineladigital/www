@@ -10,11 +10,11 @@ author: nil
 description: "Esto en un total de 324 carpetas integradas."
 image: "/uploads/2021/images-MARÍA.jpg"
 video: "/uploads/2021/videos-MW05_MARIA_DE_LOS_ANGELES.mp4"
-audio: "nil"
+audio: nil
 alt: "Hasta el momento SFP lleva 500 observaciones"
 front: false
 section: "Local"
-news_id: 188693
+redirect_from: /news/188693
 ---
 
 Hasta el momento la Secretaría de la Función Pública ha recibido un total de 500 observaciones de pasada administración; según lo dio a conocer la titular de la dependencia María de los Ángeles Álvarez.

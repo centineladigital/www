@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante emitió un comunicado para hablar de la situación legal que enfrenta su esposo, detenido por fraude millonario. "
 image: "/uploads/2021/images-benito-santos-aclara-ninel-conde.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Totalmente ajena -  Ninel Conde reacciona a detención de su esposo, Larry Ramos"
 front: false
 section: "Espectáculos"
-news_id: 184013
+redirect_from: /news/184013
 ---
 
 Larry Ramos, esposo de Ninel Conde, fue detenido por fraude millonario en Florida, Estados Unidos; horas más tarde el programa Suelta la Sopa comunicó que el empresario había sido liberado con cargos a la espera del juicio. Después de darse a conocer la noticia, la intérprete de "El bombón asesino" reaccionó a la situación que enfrenta su actual pareja. La cantante compartió un comunicado de prensa en el que señala "es totalmente ajena" al proceso legal de Larry Ramos, a quien dijo le desea pueda resolver pronto sus problemas con la ley.  

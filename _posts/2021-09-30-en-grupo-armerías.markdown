@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Alejandro Celorio, consultor jurídico de la SRE, dijo a MILENIO que la posible guerra sucia que se avecina no podrá prosperar ante los argumentos planteados en el documento contra las armeras. "
 image: "/uploads/2021/images-marcelo-ebrard-entrega-coleccion-fce_0_8_1199_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En grupo, armerías buscarán desacreditar a México durante juicio, advierte SRE"
 front: false
 section: "Nacional"
-news_id: 188214
+redirect_from: /news/188214
 ---
 
 La Secretaría de Relaciones Exteriores a través de su consultor jurídico, Alejandro Celorio, aseguró que México está listo para afrontar cualquier escenario al que la defensa legal de las empresas fabricantes de armas demandadas por comercio negligente intente llevar el juicio, incluso, una guerra sucia donde se señale al gobierno mexicano como corrupto. 

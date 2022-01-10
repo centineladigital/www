@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Instituto trabaja en una mayor sensibilización del personal de primer contacto con la derechohabiencia, los pacientes demandan un mejor trato, subrayó."
 image: "/uploads/2021/images-ISSSTE_04.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se en fuerza esta administración en la dignificación y fortalecimiento de unidades médicas del ISSSTE -  Ramírez Pineda"
 front: false
 section: "Local"
-news_id: 188450
+redirect_from: /news/188450
 ---
 
 La actual administración trabaja en la dignificación y el fortalecimiento con capital humano y de infraestructura en las unidades médicas de todo el país, que fueron abandonadas por los gobiernos anteriores, afirmó el director general del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), Luis Antonio Ramírez Pineda.

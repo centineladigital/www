@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal de Chihuahua, participó en la Red de Aprendizaje en Desarrollo Urbano"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Comparte IMPLAN experiencias de desarrollo con Alemania y Colombia"
 front: false
 section: "Local"
-news_id: 190906
+redirect_from: /news/190906
 ---
 
 El IMPLAN Chihuahua tuvo una destacada participación en la Red de Aprendizaje en Desarrollo Urbano, que es un encuentro promovido por la Cooperación Triangular de Alemania, Colombia y México (GIZ).

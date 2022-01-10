@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Recibe médico reconocimiento por acciones a favor de la niñez."
 image: "/uploads/2021/images-HV2.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML04_HECTOR_VILLANUEVA.mp4"
 alt: "Entrega municipio medalla Benito Juárez"
 front: false
 section: "Local"
-news_id: 185804
+redirect_from: /news/185804
 ---
 
 El gobierno del municipal de Chihuahua hizo entrega de la medalla al Mérito Ciudadano Benito Juárez al doctor Héctor José Villanueva Clift por sus contribuciones y participaciones con la sociedad.

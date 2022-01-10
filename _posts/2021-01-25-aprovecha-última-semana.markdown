@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Puedes pagar en línea sin salir de casa"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprovecha última semana del 12 por ciento de descuento en tu Predial"
 front: false
 section: "Local"
-news_id: 182422
+redirect_from: /news/182422
 ---
 
 El Gobierno Municipal a través de la Tesorería, invita a la ciudadanía a aprovechar el descuento del 12 por ciento en la última semana de enero y cuyo trámite puede realizarse desde casa vía internet.

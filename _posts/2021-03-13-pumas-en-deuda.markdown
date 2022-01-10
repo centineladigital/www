@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pumas en deuda con la afición, admite Lillini"
 image: "/uploads/2021/images-2544342.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pumas en deuda con la afición, admite Lillini"
 front: false
 section: "Deportes"
-news_id: 183409
+redirect_from: /news/183409
 ---
 
 La situación en Pumas ha causado inconformidad dentro del plantel universitario. El técnico Andrés Lillini considera que el cuadro universitario ha quedado en deuda con su afición en este semestre, luego del empate 1-1 con Juárez.

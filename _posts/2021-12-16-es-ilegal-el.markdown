@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¡Cuidado! Podrías estar cometiendo un delito por publicar contenido exclusivo. "
 image: "/uploads/2021/images-estreno-peliculas-esperadas-controversiales-falta_0_0_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Es ilegal? El origen de los 'spoilers' y por qué no deberías hacerlo"
 front: false
 section: "Espectáculos"
-news_id: 190932
+redirect_from: /news/190932
 ---
 
 En cada estreno de películas esperadas y controversiales, nunca falta la persona que gusta de hacer 'spoilers', arruinando así la emoción de otros fans, sobre todo en temas como superhéroes. A pocas horas de haber estrenado en cines la cinta 'Spider-Man: No Way Home', algunos usuarios de redes sociales comenzaron a publicar los llamados 'spoilers', que son fotografías, videos o información y detalles sobre la película. 

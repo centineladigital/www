@@ -8,11 +8,11 @@ author: nil
 description: "Chihuahua capital recibe a México, Estados Unidos, Puerto Rico y Cuba rumbo al sueño mundialista"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-15_at_13.30.45.jpeg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-10-15_at_13.30.46.mp4"
-audio: "nil"
+audio: nil
 alt: "Es Chihuahua sede de Ventana FIBA para el Mundial de Básquetbol 2023"
 front: false
 section: "Local"
-news_id: 188784
+redirect_from: /news/188784
 ---
 
 Gracias a las gestiones realizadas por la gobernadora del Estado de Chihuahua, Maru Campos Galván, con la coordinación del Instituto Chihuahuense del Deporte y Cultura Física y su titular, Teporaca Romero del Hierro y el apoyo logístico y económico de Xoy Capital, el Comité Ejecutivo de la Federación Internacional de Baloncesto (FIBA), seleccionó a la ciudad de Chihuahua como sede oficial de la “Burbuja” del Grupo D de los Clasificatorios de la Copa del Mundo de Baloncesto 2023.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante la jornada de Sana Distancia, la Dirección de Rehabilitación de la instancia, sumó esfuerzos al despliegue de éste plan y al mismo tiempo desplegó estrategias para brindar terapias y atención en línea"
 image: "/uploads/2021/images-Rehabilitación_4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Benefició a más de 96 mil familias el Programa Emergente Alimentario del DIF Estatal"
 front: false
 section: "Local"
-news_id: 181840
+redirect_from: /news/181840
 ---
 
 El titular de la Dirección de Rehabilitación del DIF Estatal, Ernesto Ávila Hermosillo, destacó que derivado de la jornada de “Sana Distancia”, el DIF Estatal desplegó el programa Emergente de Apoyo Económico Alimentario (AECA), con el que se apoyó a 96 mil familias que perdieron su ingreso a causa de la pandemia de COVID-19.

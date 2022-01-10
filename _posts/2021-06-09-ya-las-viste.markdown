@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Natalie Portman inició su carrera actoral cuando tan sólo tenía 13 años; su primera película fue León. "
 image: "/uploads/2021/images-natalie-portman-participo-mars-attack_28_0_1046_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Ya las viste todas? Éstas son las películas que protagonizó Natalie Portman cuando era niña"
 front: false
 section: "Espectáculos"
-news_id: 184943
+redirect_from: /news/184943
 ---
 
 Algunos famosos comenzaron su carrera cuando eran unos niños, entre ellos Leonardo DiCaprio, Christian Bale o Jodie Foster, muchos de ellos lograron consolidar su carrera a lo largo de los años e incluso han ganado un Premios Oscar por sus excelentes actuaciones. Una de las actrices que también entró al mundo de la actuación desde pequeña es Natalie Portman. Natalie Portman nació en Jesuralén, pero desde muy niña se mudó a Estados Unidos, país en donde empezó su carrera como modelo cuando era una niña, pero decidió abandonarla para abrirse paso en la actuación. Fue así que a los 13 años se dio su primera oportunidad para participar en una película, a continuación, recordamos las primeras producciones en las que trabajó Natalie Portman. 

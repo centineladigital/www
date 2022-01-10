@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Son 20 los hospitales con alguna demanda y solo cuatro con porcentaje arriba del 50%; llama el subdirector de Epidemiología, Gumaro Barrios a mantener esos niveles para poder responder a cualquier eventualidad que se presente"
 image: "/uploads/2021/images-Ocupación_e_intubados.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Disminuye ocupación hospitalaria de pacientes COVID-19 en el estado"
 front: false
 section: "Local"
-news_id: 184523
+redirect_from: /news/184523
 ---
 
 De los 29 hospitales COVID-19 en el estado, solo cuatro registran una ocupación de más del 50 por ciento (%) y en total, 20 tienen pacientes por esta enfermedad, informó el subdirector de Epidemiología de la Secretaría de Salud, Gumaro Barrios Gallegos.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las capacitaciones se imparten de manera presencial con aforo limitado, en las áreas de Tecnologías de la Información y de Mercadotecnia"
 image: "/uploads/2021/images-Curso_DDN_Mesa_de_trabajo_1.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Oferta UT Paquimé cursos de educación continua"
 front: false
 section: "Local"
-news_id: 189755
+redirect_from: /news/189755
 ---
 
 Como parte de las actividades de la Coordinación de Seguimiento de Egresados y Educación Continua de la Universidad Tecnológica de Paquimé, en el mes de noviembre se ofertan dos cursos de formación profesional en las áreas de Tecnologías de la Información y Mercadotecnia.

@@ -14,11 +14,11 @@ author: nil
 description: "Se contará con la presencia del alcalde Marco Bonilla, las y los regidores, la síndica municipal, así como las y los directores de las diferentes dependencias del Gobierno Municipal, "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-19_at_11.37.01.jpeg"
 video: "/uploads/2021/videos-_BM03_MONICA_HERRERA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Próximo “Miércoles Ciudadano”, este 20 de octubre"
 front: false
 section: "Local"
-news_id: 188932
+redirect_from: /news/188932
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, invita a las y los chihuahuenses a participar en el próximo “Miércoles Ciudadano”, tendrá lugar en la plaza de armas este próximo 20 de octubre.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El programa de comedia de Televisa llegará a su fin muy pronto; te compartimos cuándo se transmitirá el último episodio y si planean nueva temporada. "
 image: "/uploads/2021/images-me-caigo-de-risa-llega_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Habrá nueva temporada? Cuándo ver el último programa de 'Me caigo de risa'"
 front: false
 section: "Espectáculos"
-news_id: 184169
+redirect_from: /news/184169
 ---
 
 Me caigo de risa sorprendió a la audiencia con una temporada llena de dinámicas y retos que pusieron en jaque a la llamada "familia disfuncional", las ocurrencias  y bromas del elenco lo han llevado a ser considerado uno de los programas de comedia favoritos de la televisión mexicana; sin embargo, tras varios episodios de pura diversión, el reality de Televisa llegará a su fin.  A través de sus redes sociales, la producción de Me caigo de risa dio a conocer la fecha en la que se transmitirá el final de temporada que de nueva a cuenta contó con la conducción de Faisy.  

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Es viernes 21 de mayo y el presidente ofrece su tradicional conferencia de prensa desde la Ciudad de México"
 image: "/uploads/2021/images-2582250.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "López Obrador anuncia reducción en delitos del fuero común y federal"
 front: false
 section: "Nacional"
-news_id: 184581
+redirect_from: /news/184581
 ---
 
 Este viernes 21 de mayo el presidente Andrés Manuel López Obrador brinda su tradicional conferencia de prensa desde Palacio Nacional en el centro de la Ciudad de México.

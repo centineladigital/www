@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Comprenderá del 17 de enero al 2 de febrero."
 image: "/uploads/2021/images-ANA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ANA.jpg"
 alt: "Solicita licencia diputada"
 front: false
 section: "Local"
-news_id: 181988
+redirect_from: /news/181988
 ---
 
 Ana Elizabeth Chávez Mata solicitó este viernes licencia para separarse de su cargo, sin embargo, no dio a conocer la razón por la cual solicitaría la licencia para separarse de su cargo.

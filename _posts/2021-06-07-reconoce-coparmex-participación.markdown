@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Precisó que durante la jornada se registraron algunos casos en los que los ciudadanos mostraron su molestia en diversas casillas por inicio tardío de la votación"
 image: "/uploads/2021/images-IMG-20210606-WA0177.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "RECONOCE COPARMEX PARTICIPACIÓN DE OBSERVADORES ELECTORALES, VOTANTES Y FUNCIONARIOS DE CASILLA"
 front: false
 section: "Local"
-news_id: 184890
+redirect_from: /news/184890
 ---
 
 "La elección la hicimos todos, quienes salimos a votar, quienes participaron como Observadores Electorales, así como quienes fueron funcionarios de casilla, hoy percibimos una muy buena participación ciudadana en los centros de votación", dijo el presidente del Centro Empresarial Chihuahua de la COPARMEX, Jorge Cruz Camberos.

@@ -10,11 +10,11 @@ author: nil
 description: "Señala Titular de Salud que es debido a que se tienen menos camas que al inicio de la pandemia."
 image: "/uploads/2021/images-FERNANDEZ.jpg"
 video: "/uploads/2021/videos-MM04_FELIPE_SANDOVAL.mp4"
-audio: "nil"
+audio: nil
 alt: "Incremento de casos no es considerable -  Salud"
 front: false
 section: "Local"
-news_id: 188646
+redirect_from: /news/188646
 ---
 
 Pese a que se han registrado incremento en casos de personas que han sido hospitalizadas este no es considerable, señaló el titular de la Secretaría de Educación Felipe Fernando Sandoval Magallanes. Quien dijo que si se tuvieran abiertas el mismo número de camas del inicio de la pandemia, esto reflejaría un número pequeño de personas infectadas.

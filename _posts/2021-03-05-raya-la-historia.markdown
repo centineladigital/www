@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Danna Paola y Carlos López Estrada participan en la cinta que hoy llega a los cines y a Disney+. "
 image: "/uploads/2021/images-union-confianza-temas-principales-trama.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "‘Raya’, la historia de Disney con voz y dirección mexicanas"
 front: false
 section: "Espectáculos"
-news_id: 183300
+redirect_from: /news/183300
 ---
 
 La historia es de dragones que salvaron el mundo y se convirtieron en leyenda, de una aguerrida joven que lucha por recuperar la gema que mantiene a la humanidad unida y del encuentro entre esos mitos con los que crecimos; una realidad por la que hay que seguir trabajando cada día. 

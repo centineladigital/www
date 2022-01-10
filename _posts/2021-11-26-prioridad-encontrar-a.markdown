@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esta tarea debe llevarse a cabo a nivel global, “especialmente entre personas de edad avanzada o con afecciones médicas”, advierte el jefe de emergencias de la Organización Mundial de la Salud"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prioridad, encontrar a todas las personas no vacunadas contra Covid -  OMS"
 front: false
 section: "Internacional"
-news_id: 190231
+redirect_from: /news/190231
 ---
 
 Ginebra.- En la actual coyuntura de la pandemia es prioritario “encontrar a todas las personas que aún no están vacunadas”, aseguró este jueves el jefe de emergencias de la Organización Mundial de la Salud (OMS), Mike Ryan.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La obra tuvo una inversión de 13.8 millones de pesos y se ubica sobre la carretera federal 45, que es conectada con el paso superior de las avenidas Río San Pedro Norte y 6 Norte "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura Gobernadora rehabilitación de Acceso Norte en Delicias"
 front: false
 section: "Local"
-news_id: 189204
+redirect_from: /news/189204
 ---
 
 La Gobernadora Maru Campos Galván dio el banderazo de apertura a las obras de rehabilitación del Acceso Norte de ciudad Delicias, ejecutada con una inversión de 13.8 millones de pesos, en beneficio de los habitantes del sector y de los automovilistas que circulan por la carretera 45.

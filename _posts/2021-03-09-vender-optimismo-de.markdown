@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El técnico del PSG resalta que tienen que atacar y ganar la vuelta contra los blaugranas"
 image: "/uploads/2021/images-2541836.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "‘Vender optimismo’, de Pochettino al Barcelona"
 front: false
 section: "Deportes"
-news_id: 183351
+redirect_from: /news/183351
 ---
 
 El entrenador del Paris Saint-Germain, Mauricio Pochettino, recalcó que deben estar "más concentrados" desde el inicio que en el Camp Nou si quieren superar este miércoles la eliminatoria de octavos de la Champions League ante el FC Barcelona.

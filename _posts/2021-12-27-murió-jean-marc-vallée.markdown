@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jean-Marc Vallée, director conocido por títulos como El club de los desahuciados o Big Little Lies, murió a los 58 años. La noticia la confirmó Nathan Ross, productor y socio del realizador. "
 image: "/uploads/2021/images-director-murio-cabana-ubicada-quebec.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Jean-Marc Vallée, director de 'El club de los desahuciados', a los 58 años"
 front: false
 section: "Espectáculos"
-news_id: 191236
+redirect_from: /news/191236
 ---
 
 Jean-Marc Vallée, quien fue un director conocido porrealizar títulos como El club de los desahuciados, Alma salvaje, C.R.A.Z.Y. o las series Big Little Lies y Heridas abiertas, murió inesperadamente a los 58 años. Nathan Ross, productor y socio del director, confirmó la noticia del fallecimiento a través de un comunicado recogido por The Hollywood Reporter. Vallée murió repentinamente el 26 de diciembre mientras pasaba unos días en su cabaña cerca de la ciudad de Quebec (Canadá). Se desconoce la causa de la muerte. 

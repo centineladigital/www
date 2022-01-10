@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el año 2002, el actor Alfred Molina interpretó a Diego Rivera en la película Frida, protagonizada por Salma Hayek."
 image: "/uploads/2021/images-alfred-molina-tambien-interpreto-a.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡De esposo de Frida Kahlo a villano! Alfred Molina fue Diego Rivera antes de ser 'Doctor Octopus'"
 front: false
 section: "Espectáculos"
-news_id: 187125
+redirect_from: /news/187125
 ---
 
 Con la revelación que llegó hace unos días donde se muestra a Alfred Molina regresando para interpretar de nuevo al villano del arácnido en la nueva entrega de Marvel: Spiderman, No Way Home, el actor se ha colocado en tendencias en las distintas redes sociales, desatando la felicidad en la mayoría de los seguidores del héroe. 

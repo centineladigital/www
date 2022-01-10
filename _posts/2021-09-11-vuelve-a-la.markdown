@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las autoridades danesas alertaron que la epidemia aún no termina, pero consideran que el virus está controlado en el país"
 image: "/uploads/2021/images-dinamarca-coronavirus-enfermedad-critica-poblacion_0_53_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Vuelve a la normalidad! Dinamarca elimina todas las restricciones contra el covid-19"
 front: false
 section: "Internacional"
-news_id: 187649
+redirect_from: /news/187649
 ---
 
 Dinamarca regresó a la normalidad después de que fueran eliminadas las últimas restricciones impuestas ante la pandemia de coronavirus, siguiendo el anuncio realizado en agosto por el gobierno de aquél país. 

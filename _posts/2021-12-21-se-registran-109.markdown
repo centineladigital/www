@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 asciende a 8 mil 625 (+1), el último registro corresponde al municipio de Juárez (+1)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 109 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 191081
+redirect_from: /news/191081
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 21 de diciembre el reporte COVID-19, en el cual se registran  90,686 (+109) casos confirmados, 77 mil 350 (+82) casos recuperados, 86 mil 907 (+43) descartados y 1,104 (-4) casos sospechosos.

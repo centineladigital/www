@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La presencia de tres variantes de Covid-19 en seis pacientes que recientemente resultaron positivos en Campeche, identificadas como Alpha, Gamma y Épsilon, fueron confirmadas por la Secretaría de Salud del Estado"
 image: "/uploads/2021/images-2599844.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Secretaría de Salud de Campeche confirma tres variantes de Covid-19"
 front: false
 section: "Nacional"
-news_id: 185188
+redirect_from: /news/185188
 ---
 
 La presencia de tres variantes de Covid-19 en seis pacientes que recientemente resultaron positivos en Campeche, identificadas como Alpha, Gamma y Épsilon, fueron confirmadas por el doctor Miguel Briceño Dzib, director de Epidemiología de la Secretaría de Salud del Estado.

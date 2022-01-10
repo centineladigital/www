@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En Titanic conocimos a la estricta madre de la protagonista, Ruth DeWitt, la cual interpretó la actriz Frances Fisher. Te contamos qué ha sido de ella tras la película. "
 image: "/uploads/2021/images-frances-fisher-interpreto-estricta-madre.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿La recuerdas? Así luce hoy Ruth DeWitt, la estricta madre de Rose de 'Titanic'"
 front: false
 section: "Espectáculos"
-news_id: 183886
+redirect_from: /news/183886
 ---
 
 Sin duda Titanic se convirtió en una de las películas favoritas de muchas personas. Esta producción dirigida por James Cameron fue protagonizada por Leonardo DiCaprio y Kate Winslet, sin embargo, hubo otros actores que ganaron reconocimiento debido a sus personajes en el filme como la actriz Frances Fisher quien dio vida a Ruth DeWitt, la madre de Rose. Seguramente recuerdas a Ruth DeWitt, la estricta madre de la protagonista de la historia, Rose, quien en este viaje se enamoró de Jack Dawson, un joven que viajaba en el Titanic en la tercera clase, razón por la que la mamá de Rose no lo veía con buenos ojos. A continuación, te contamos qué ha sido de Frances Fisher, la actriz que interpretó a Ruth 

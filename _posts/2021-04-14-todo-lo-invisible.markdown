@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Todo lo invisible busca incentivar la reflexión a través del cine; será distribuido por Cinépolis y está protagonizado por Ari Brickman, José María de Tavira y Bárbara Mori."
 image: "/uploads/2021/images-barbara-mori-actuara-en-una_0_124_854_531.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Todo lo invisible', una historia que era necesario contar -  Bárbara Mori"
 front: false
 section: "Espectáculos"
-news_id: 183877
+redirect_from: /news/183877
 ---
 
 El año de pandemia se ha convertido en mecha que enciende reflexiones. Es el caso de Todo lo invisible, la nueva película de la directora Mariana Chenillo (Cinco días sin Nora, Soy tu fan) que contra todo pronóstico llegará a las salas nacionales y buscará incentivar al público a la reflexión a través del séptimo arte. Chenillo, acompañada por el elenco, compartió los detalles sobre la creación del largometraje y sobre sus expectativas sobre su llegada a la pantalla grande. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se realiza de forma diaria en alrededor de 150 parabuses como parte de trabajos de prevención"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabaja Gobierno Municipal en desinfección de parabuses en la ciudad   "
 front: false
 section: "Local"
-news_id: 187720
+redirect_from: /news/187720
 ---
 
 El Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, trabaja de forma permanente en la desinfección de parabuses ubicados en distintos puntos de la ciudad con el propósito de disminuir el riesgo de contagios por COVID. 

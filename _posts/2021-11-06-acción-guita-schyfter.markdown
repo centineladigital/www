@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La directora inició el rodaje de la trama, basada en la novela de Hugo Hiriart, en el Club de Periodistas con las actuaciones de Angélica Aragón, Dolores Heredia, Fabiana Perzabal, Ernesto Laguardia, Alan Alarcón.  "
 image: "/uploads/2021/images-directora-guita-schyfter-claquetazo-pelicula_0_27_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Acción! Guita Schyfter da el claquetazo de nueva película, 'El águila y el gusano'"
 front: false
 section: "Espectáculos"
-news_id: 189607
+redirect_from: /news/189607
 ---
 
 La directora Guita Schyfter dio el claquetazo de su nueva película, El águila y el gusano en el Club de Periodistas, con la participación de Angélica Aragón, Dolores Heredia, Fabiana Perzabal, Ernesto Laguardia, Alan Alarcón, entre muchos más. La cinta basada en la novela de Hugo Hiriart, tendrá humor negro en la historia de ocho personajes que viven en un mundo distinto y de alguna manera sus vidas se van entrelazando; la actriz Angélica Aragón, quien ha trabajado en varias ocasiones con Shifter, compartió a M2 qué la inspiró para formar parte de esta historia y en quién basó su personaje. 

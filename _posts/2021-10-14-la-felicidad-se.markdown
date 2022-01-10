@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz y cantante reveló que está muy preocupada porque uno de sus seres amados enfermó, por lo que debió ser internado de emergencia. "
 image: "/uploads/2021/images-danna-paola-embajadora-tenis-puma.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La felicidad se me va -  Danna Paola revela que integrante de su familia está hospitalizado"
 front: false
 section: "Espectáculos"
-news_id: 188713
+redirect_from: /news/188713
 ---
 
 Hace unas semanas, Danna Paola estaba celebrando con sus seres amados su primera nominación a los premios Grammy Latino 2021 en la categoría de Mejor álbum vocal pop; sin embargo, ahora la cantante vive momentos de preocupación, pues un miembro de su familia se encuentra grave de salud y tuvo que ser hospitalizado, así lo confirmó a través de su redes sociales.

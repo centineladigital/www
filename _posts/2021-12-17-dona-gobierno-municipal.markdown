@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Este sanitizante está compuesto con base de hipoclorito de sodio   "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dona Gobierno Municipal más de 2 mil litros de sanitizante a Grupo Cáritas"
 front: false
 section: "Local"
-news_id: 190970
+redirect_from: /news/190970
 ---
 
 El Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, realizó la donación de 60 contenedores de líquido sanitizante, de 50 litros cada uno, al banco de alimentos Cáritas Chihuahua.

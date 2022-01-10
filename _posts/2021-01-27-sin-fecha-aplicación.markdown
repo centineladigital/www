@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Hasta semáforo verde se tendrán clases presenciales."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW02_WENDY_AVILA.mp3"
 alt: "Sin fecha aplicación de vacunas a docentes"
 front: false
 section: "Local"
-news_id: 182499
+redirect_from: /news/182499
 ---
 
 Aún no se tiene una fecha o programación de aplicación de vacunas a docentes, esto ya que no existe un plan de regreso a clases, según lo afirmó la Subdirectora de Medicina Preventiva y Promoción de la Salud, Wendy Ávila Coronado.

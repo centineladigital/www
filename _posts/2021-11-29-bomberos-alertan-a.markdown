@@ -16,11 +16,11 @@ author: nil
 description: "Alertó a la población a mantener ventanas abiertas mínimo 10 centímetros para evitar intoxicaciones por monóxido de carbono"
 image: "/uploads/2021/images-descarga_(1).jpg"
 video: "/uploads/2021/videos-BL05_JUAN_MORALES.mp4"
-audio: "nil"
+audio: nil
 alt: "Bomberos alertan a la población con el uso de calentones "
 front: false
 section: "Local"
-news_id: 190322
+redirect_from: /news/190322
 ---
 
 Juan Manuel Morales Subdirector del Heroico Cuerpo de Bomberos, señaló la importancia de que en esta época invernal para que las  personas cuenten con buenas instalaciones de gas, así como tener aparatos en óptimas condiciones.

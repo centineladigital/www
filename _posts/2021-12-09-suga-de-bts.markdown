@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de las redes sociales de Juice WRLD, se reveló que Suga de BTS formará parte del álbum póstumo 'Fighting Demons'."
 image: "/uploads/2021/images-el-album-se-lanza-el.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suga de BTS y Justin Bieber figuran en álbum póstumo de Juice WRLD, 'Fighting Demons'"
 front: false
 section: "Espectáculos"
-news_id: 190695
+redirect_from: /news/190695
 ---
 
 La cuenta oficial de Juice WRLD dio a conocer la portada oficial y tracklist del álbum póstumo del rapero, titulado Fighting Demons, donde figuran personajes de la talla de Suga (BTS) y Justin Bieber.  El álbum consta de 18 tracks, entre los que destacan algunos audios del rapero hablando. En el caso de Justin Bieber, saldrán con el álbum los ya conocidos temas Already Dead y Wandered to LA, en los cuales ya habíamos conocido la participación del autor de Peaches. 

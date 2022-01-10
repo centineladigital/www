@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Comité dejó claros los temas que preocupan a Estados Unidos sobre la relación bilateral, desde migración hasta narcotráfico y el cumplimiento del T-MEC"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Senado de EU confirma a Ken Salazar como embajador en México"
 front: false
 section: "Internacional"
-news_id: 186543
+redirect_from: /news/186543
 ---
 
 El Senado de Estados Unidos confirmó mediante voto de voz a Kenneth Lee Salazar como embajador estadounidense en México.

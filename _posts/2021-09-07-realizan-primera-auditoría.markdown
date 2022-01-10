@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A fin de apoyar en la detección de áreas de oportunidad que permitan a la corporación brindar una mejor atención en sus procedimientos"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizan primera auditoría ciudadana a Dirección de Seguridad Pública Municipal"
 front: false
 section: "Local"
-news_id: 187512
+redirect_from: /news/187512
 ---
 
 La Mesa Auditora Ciudadana de la COPREV llevó a cabo una primera auditoría ciudadana a la Dirección de Seguridad Pública Municipal (DSPM) a fin de apoyar en la detección de áreas de oportunidad que permitan a la corporación brindar una mejor atención en sus procedimientos.

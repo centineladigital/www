@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Esta actividad se realizó bajo los protocolos de salubrida"
 image: "/uploads/2021/images-Foto_6352-6.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Voluntariado del IMSS Juárez obsequios a menores en tratamiento oncológico y hospitalizados en el HGZ 6 "
 front: false
 section: "Local"
-news_id: 191033
+redirect_from: /news/191033
 ---
 
 La alegría y la Navidad arribaron al Hospital General de Zona (HGZ) No. 6 en Ciudad Juárez, luego de que los integrantes del Voluntariado del IMSS en esta ciudad fronteriza entregaran este sábado presentes a niñas y niños en tratamiento oncológico, así como menores hospitalizados.  

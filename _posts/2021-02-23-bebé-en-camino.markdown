@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante británica anunció que está en la dulce espera de su primer hijo; Ellie Goulding ya tiene 30 semanas de embarazo. "
 image: "/uploads/2021/images-ellie-goulding-espera-a-su.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Bebé en camino! Ellie Goulding anuncia que está embarazada de su primer hijo"
 front: false
 section: "Espectáculos"
-news_id: 183116
+redirect_from: /news/183116
 ---
 
 En estos meses de cuarentena varias famosas han aprovechado la oportunidad para agrandar la familia, es por eso que en este tiempo algunas de ellas han dado la noticia de que están embarazadas. Ahora quien sorprendió al dar está noticia fue la cantante Ellie Goulding, quien mostró su avanzado embarazo. Ellie Goulding sorprendió a sus seguidores al anunciar que tiene 30 semanas de embarazo y lo hizo a través de una entrevista con la revista Vogue, publicación que subió a sus redes sociales fotos en donde la cantante luce su pancita de casi 8 meses. 

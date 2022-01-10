@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La meta es lograr que el agua llegue a toda la población; realizan segundo taller de seguimiento de la región Conchos-Oriente"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Una prioridad de este Gobierno dar continuidad al Plan Estatal Hídrico 2040 -  JCAS"
 front: false
 section: "Local"
-news_id: 188615
+redirect_from: /news/188615
 ---
 
 En seguimiento del Plan Estatal Hídrico 2040 (PEH 2040) la Junta Central de Agua y Saneamiento (JCAS) convocó a través de la Junta Municipal de Agua y Saneamiento de Camargo, (JMAS) al segundo taller de seguimiento para la consolidación de la gestión hídrica de la región.

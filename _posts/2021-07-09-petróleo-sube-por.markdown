@@ -13,12 +13,12 @@ tags:
 author: nil
 description: ""
 image: "/uploads/2021/images-plataforma-petrolera-reuters-1_0_32_728_453.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Petróleo sube por segunda sesión consecutiva tras descenso en inventarios de EU"
 front: false
 section: "Internacional"
-news_id: 185489
+redirect_from: /news/185489
 ---
 
 Luego de datos que mostraron un descenso de los inventarios en Estados Unidos los precios del petróleo subían el viernes por segunda sesión consecutiva; sin embargo, se encaminan a una pérdida semanal en medio de la incertidumbre por los suministros globales tras un fallido encuentro de la OPEP+. 

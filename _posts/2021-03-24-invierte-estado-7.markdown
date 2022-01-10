@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Destaca el secretario de Obras Públicas, Gustavo Elizondo, que representa la mayor inversión de la administración estatal para contar con vías de comunicación seguras"
 image: "/uploads/2021/images-DAH_1230.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invierte Estado 7 mil 507 mdp en la infraestructura carretera de la entidad"
 front: false
 section: "Local"
-news_id: 183532
+redirect_from: /news/183532
 ---
 
 El secretario de Comunicaciones y Obras Públicas, Gustavo Elizondo Aguilar, informó que en cuatro años el Gobierno del Estado ha destinado 7 mil 507 millones de pesos para la construcción y mejoramiento de caminos, carreteras y puentes en el territorio estatal.

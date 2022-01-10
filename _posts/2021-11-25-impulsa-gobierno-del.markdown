@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Reunirá a 150 expositores locales que ofertarán sus productos y  servicios   "
 image: "/uploads/2021/images-unnamed_(13).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Impulsa Gobierno del Estado reactivación económica con Expo Venta Canaco 2021"
 front: false
 section: "Local"
-news_id: 190185
+redirect_from: /news/190185
 ---
 
 La Cámara Nacional de Comercio, Servicios y Turismo de Chihuahua presentó en rueda de prensa la Expo Venta Canaco 2021 “La gran fiesta del comercio”, que se realizará del 3 al 5 de diciembre en Expo Chihuahua, con apoyo de Gobierno del Estado, a través de la Secretaría de Innovación y Desarrollo Económico (SIDE).

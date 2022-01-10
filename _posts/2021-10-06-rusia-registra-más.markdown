@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En total, el gobierno de Rusia ha registrado más de 211 mil muertes y actualmente es el país con más fallecidos de Europa. "
 image: "/uploads/2021/images-cifra-oficial-coronavirus-rusia-cuestionadas_1_1_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rusia registra más de 900 muertes por covid en 24 horas por primera vez en la pandemia"
 front: false
 section: "Internacional"
-news_id: 188415
+redirect_from: /news/188415
 ---
 
 Rusia registró, por primera vez, más de 900 fallecidos por covid-19 en 24 horas, en un momento en que la pandemia golpea con fuerza al país y ha obligado a imponer de nuevo restricciones sanitarias. 

@@ -14,11 +14,11 @@ author: nil
 description: "Afirma que tienen evidencias "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-07_at_10.31.21_AM.jpeg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-09-07_at_1.50.53_PM.mp4"
-audio: "nil"
+audio: nil
 alt: "Sería una barbaridad revocar el proceso en contra de 	Maru Campos -  Hickerson "
 front: false
 section: "Local"
-news_id: 187523
+redirect_from: /news/187523
 ---
 
 El diputado Gustavo de la Rosa Hickerson  llamó barbaridad a la posible declaratoria de revocación de la vinculación a proceso de la gobernadora electa Maru Campos pues en palabras de Hickerson sería una acción jurídica que los jueces nunca deben hacer.

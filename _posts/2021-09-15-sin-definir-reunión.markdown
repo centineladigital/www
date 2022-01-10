@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esperan en breve reunirse con concesionarios del transporte."
 image: "/uploads/2021/images-GV.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW02_GABRIEL_VALDEZ.mp4"
 alt: "Sin definir reunión de Consejo Consultivo"
 front: false
 section: "Local"
-news_id: 187766
+redirect_from: /news/187766
 ---
 
 Aún no se tiene definida una fecha para la reunión del Consejo Consultivo de transporte señaló el titular de la Secretaría de Desarrollo Urbano y Ecología, Gabriel Valdés Juárez. Quien dijo que esta se llevará a cabo una vez que se concluya el análisis interno se llevará a cabo la reunión con las diversas organizaciones.  Esto espera que se lleve a cabo antes de concluya este mes. 

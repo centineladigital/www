@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Registran 10 defunciones en las últimas horas."
 image: "/uploads/2021/images-índice.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ04_GUMARO_BARRIOS.mp3"
 alt: "Reportan 108 nuevos casos COVID"
 front: false
 section: "Local"
-news_id: 184697
+redirect_from: /news/184697
 ---
 
 Un total de 108 casos de personas que dieron positivo a la prueba PCR se registraron en las últimas horas y se acreditaron 10 defunciones, registrándose una tendencia a la baja, señaló el Subdirector de Epidemiliología, Gumaro Barrios Gallegos.

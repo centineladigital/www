@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El secretario de Relaciones Exteriores dijo que actualmente México tiene alrededor de 86 millones de vacunas contra covid-19 y tan sólo en julio llegaron 25 millones"
 image: "/uploads/2021/images-ebrard-preve-millones-vacunas-finales.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México alcanzará 100 millones de vacunas anticovid a finales de agosto, prevé Ebrard"
 front: false
 section: "Nacional"
-news_id: 186227
+redirect_from: /news/186227
 ---
 
 El gobierno federal superará los 100 millones de dosis de vacunas contra el coronavirus a finales de agosto, por parte de al menos seis farmacéuticas, informó Marcelo Ebrard Casaubón, secretario de Relaciones Exteriores (SRE). 

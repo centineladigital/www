@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Como parte del Maratón de Obras anunciada para el cierre de la administración por el Gobernador para todo el estado, entregará este parque de innovación que concentra el esfuerzo de industria, clústers, academia e instituciones gubernamentales"
 image: "/uploads/2021/images-_DSC9109_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugurará Javier Corral el Centro de Innovación Tecnológica Spark este miércoles"
 front: false
 section: "Local"
-news_id: 185010
+redirect_from: /news/185010
 ---
 
 En el marco del Maratón de Obras con el cual la actual administración estatal cerrará su gestión, el gobernador Javier Corral Jurado inaugurará este próximo miércoles 16 de junio el Centro de Innovación y Desarrollo de Tecnologías, conocido como Spark, ubicado en el Parque Industrial Sur de la capital del estado.

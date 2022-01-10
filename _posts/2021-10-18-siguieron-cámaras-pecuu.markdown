@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En estación del transporte público se cambió de ropa para no ser identificado"
 image: "/uploads/2021/images-unnamed_(21).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Siguieron cámaras PECUU a presunto asaltante hasta su casa -  DSPM"
 front: false
 section: "Local"
-news_id: 188863
+redirect_from: /news/188863
 ---
 
 Gracias a la Plataforma Escudo Chihuahua y la intervención rápida del equipo de inteligencia e investigación de la Policía Municipal, siguieron los pasos del presunto asaltante de banco hasta la puerta de su hogar donde fue capturado.

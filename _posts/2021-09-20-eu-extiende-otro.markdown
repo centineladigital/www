@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La ampliación en las restricciones se comunicó el mismo día en que se determinaron nuevos aspectos sobre viajes aéreos. "
 image: "/uploads/2021/images-frontera-mexico-unidos-meses-cerrada_0_19_900_560.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU extiende otro mes cierre parcial de frontera con México"
 front: false
 section: "Internacional"
-news_id: 187868
+redirect_from: /news/187868
 ---
 
 Estados Unidos dijo hoy que extenderá las restricciones en sus fronteras terrestres con México y Canadá hasta el 21 de octubre, las cuales impiden viajes no esenciales como el turismo por parte de extranjeros, pese a la decisión de Ottawa de permitir el ingreso al país a los estadunidenses vacunados. Canadá permite desde el 9 de agosto que los estadunidenses que hayan completado su esquema de vacunación entren al país para viajes no esenciales. 

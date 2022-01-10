@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Pide asesoría para afectados por esta empresa."
 image: "/uploads/2021/images-JUAN.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04_JUAN_CAMPOS.mp4"
 alt: "Pide regidor apoyo a afectados de ARAS"
 front: false
 section: "Local"
-news_id: 190648
+redirect_from: /news/190648
 ---
 
 Con el fin de apoyar a los afectados de ARAS, este miércoles dentro de la Sesión de Cabildo, el regidor Juan Pablo Campos López, presidente de la Comisión de Fomento Económico, solicitó ante el cabildo que se ponga atención y se apoye en el caso de la empresa ARAS.

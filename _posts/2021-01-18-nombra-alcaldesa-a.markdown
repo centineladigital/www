@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "“Hoy, con su toma de protesta, entra de lleno en el gran proyecto que tiene este Gobierno Municipal, que tiene su fuente y culmen en el bienestar de las personas”"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nombra Alcaldesa a Ramón Eduardo Chávez Prieto como director de Desarrollo Humano y Educación"
 front: false
 section: "Local"
-news_id: 182216
+redirect_from: /news/182216
 ---
 
 La alcaldesa María Angélica Granados Trespalacios, tomó protesta a Ramón Eduardo Chávez Prieto como director de Desarrollo Humano y Educación, esto luego de la renuncia de Marco Bonilla Mendoza.

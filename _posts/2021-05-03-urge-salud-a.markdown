@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Al terminar hoy el “supercierre”, se prevé que los eventos y recorridos que comúnmente realizan los candidatos como parte de su proselitismo sean retomados"
 image: "/uploads/2021/images-Leticia_Ruiz.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Urge Salud a candidatos llevar campañas políticas responsables"
 front: false
 section: "Local"
-news_id: 184233
+redirect_from: /news/184233
 ---
 
 Al terminar hoy el “supercierre”, las autoridades de salud han urgido a los candidatos a los diferentes puestos de elección popular, a llevar una campaña política responsable ante la pandemia del Covid-19.

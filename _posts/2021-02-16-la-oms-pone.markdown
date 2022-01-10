@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "La Organización Mundial de la Salud pide a seis países de África que estén alertas ante el escenario de más infecciones de ébola, luego de los casos detectados en Guinea y el Congo"
 image: "/uploads/2021/images-2530319.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La OMS pone en alerta a 6 países africanos por ébola"
 front: false
 section: "Internacional"
-news_id: 182946
+redirect_from: /news/182946
 ---
 
 La Organización Mundial de la Salud (OMS) pidió a seis países de África que estén alertas ante el escenario de más infecciones de ébola, luego de que Guinea reportó nuevos casos y la República Democrática del Congo afirmó que los contagios que está detectando corresponden a un rebrote de la enfermedad.

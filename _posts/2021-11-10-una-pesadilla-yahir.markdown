@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Yahir reaccionó a las recientes declaraciones que dio su hijo Tristán a TV Notas, en donde dio a conocer que no tenía el apoyo de su padre para ser actor porno y ser bisexual. "
 image: "/uploads/2021/images-yahir-reacciona-recaida-hijo-drogas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Una pesadilla -  Yahir explota contra su hijo por su deseo de ser actor porno; asegura recayó en las drogas"
 front: false
 section: "Espectáculos"
-news_id: 189745
+redirect_from: /news/189745
 ---
 
 Yahir, famoso cantante mexicano, explotó en contra de las declaraciones de su hijo Tristán, quien hace unos días afirmó que no sentía el apoyo de su padre porque era bisexual y porque deseaba incursionar en el mundo del porno. Visiblemente consternado, el ex integrante de ‘La Academia’ rompió el silencio. Aseguró que está viviendo una pesadilla, pues al parecer su hijo tiene una recaída con las adicciones. En entrevista con el programa Hoy de Televisa, Yahir reaccionó a las recientes declaraciones que dio su hijo Tristán a TV Notas, en donde dio a conocer que no tenía el apoyo de su padre. Además contó que era bisexual y externó sus deseos sobre dedicarse a la industria porno. 

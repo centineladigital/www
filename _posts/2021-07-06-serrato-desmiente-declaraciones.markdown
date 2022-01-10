@@ -16,11 +16,11 @@ author: nil
 description: "Serrato explicó que incluso se ofrecieron sus instalaciones para el esquema de reuniones propuestas y recordó se envió un oficio y fue Gobierno del Estado"
 image: "/uploads/2021/images-93DCBE4F-A9F1-480C-AA17-D2D43E834316.jpeg"
 video: "/uploads/2021/videos-trim.10907D3B-9E01-4201-A353-47A96FA82959.MOV"
-audio: "nil"
+audio: nil
 alt: "Serrato desmiente declaraciones del gobernador Corral"
 front: false
 section: "Local"
-news_id: 185391
+redirect_from: /news/185391
 ---
 
 El coordinador general del equipo de transición del gobierno de Maru Campos, Luis Serrato desmintió al gobernador Javier Corral luego de las declaraciones hechas este día, y reiteró que los primeros interesados y que propusieron un esquema abierto para la transición fueron justamente los integrantes del equipo de la Gobernadora Electa y ella misma.

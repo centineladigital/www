@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Realizan acciones en Ciudad Juárez."
 image: "/uploads/2021/images-PABLO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML06_PABLO_GONZALEZ.mp3"
 alt: "Realizan trabajos de la implementación de la reforma laboral en TSJ "
 front: false
 section: "Local"
-news_id: 185284
+redirect_from: /news/185284
 ---
 
 Debido a que se tiene que implementar la reforma laboral, el Tribunal Superior de Justicia llevó a cabo una serie de acciones para que ésta se dé en Ciudad Juárez, según fue dado a conocer por el Magistrado Presidente, Pablo Héctor González Villalobos.

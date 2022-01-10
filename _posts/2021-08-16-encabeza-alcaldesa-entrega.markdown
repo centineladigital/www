@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se entregaron un total de 40 kits que beneficiarán a aproximadamente 3,500 alumnos"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza Alcaldesa entrega de kits de limpieza en instalaciones del CREI El Charco"
 front: false
 section: "Local"
-news_id: 186753
+redirect_from: /news/186753
 ---
 
 La alcaldesa, María Angélica Granados Trespalacios, visitó la comunidad de El Charco en la zona rural del municipio, donde encabezó la entrega simbólica de un total de 40 kits de limpieza en las instalaciones del Centro Regional de Educación Integral (CREI), en el marco del posible regreso a clases del ciclo escolar 2021 – 2022.  

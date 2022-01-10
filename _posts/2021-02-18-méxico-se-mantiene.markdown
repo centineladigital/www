@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Tricolor abre el 2021 en la misma posición del ranking mundial con el que cerró el 2020. Bélgica lidera la clasificación"
 image: "/uploads/2021/images-2531751.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México se mantiene en el noveno sitio de FIFA"
 front: false
 section: "Deportes"
-news_id: 183007
+redirect_from: /news/183007
 ---
 
 La FIFA dio a conocer el primer ranking de selecciones nacionales del año, donde la Selección Mexicana abrió el 2021 en la novena posición. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se exhorta a continuar con el uso correcto de cubrebocas y  mantener la sana distancia, entre otras medidas para prevenir el COVID-19 "
 image: "/uploads/2021/images-Frío.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llama IMSS Chihuahua a cuidar de enfermedades respiratorias a menores de edad en esta temporada "
 front: false
 section: "Local"
-news_id: 190518
+redirect_from: /news/190518
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua llama a los padres de familia a extremar los cuidados para evitar enfermedades respiratorias agudas (IRAS) en niñas y niños menores de edad, en esta temporada invernal. 

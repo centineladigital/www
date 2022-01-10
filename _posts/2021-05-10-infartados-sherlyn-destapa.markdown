@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Sherlyn decidió detallar a fondo lo que ocurrió aquella vez en la que se besó con Yolanda Andrade; su familia se desconcertó y se escandalizó. "
 image: "/uploads/2021/images-sherlyn-destapa-problema-familiar-besarse.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Infartados -  Sherlyn destapa problema familiar que surgió por besarse en la boca con Yolanda Andrade"
 front: false
 section: "Espectáculos"
-news_id: 184378
+redirect_from: /news/184378
 ---
 
 ¿Recuerdas el beso que se dio Sherlyn con Yolanda Andrade? La muestra de afecto que se registró en 2019 causó revuelo en redes sociales. Los fans de ambas retomaron el contenido y lo replicaron en diferentes cuentas; mientras que programas de espectáculos –a su vez– no dejaban de hablar del tema. Pero ¿qué pasó realmente? La actriz Sherlyn rompió el silencio sobre aquel momento que le trajo un problema familiar por besarse con Yolanda Andrade. ¿Su familia se enojó? ¿Mostraron lesbofobia? Te contamos lo que dijo la famosa. 

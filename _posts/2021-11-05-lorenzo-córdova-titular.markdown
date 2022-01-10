@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El consejero presidente se presentó ante el pleno para exponer el proyecto de presupuesto del organismo electoral. "
 image: "/uploads/2021/images-consejero-presidente-ine-firma-convenio_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lorenzo Córdova, titular del INE, comparece por primera vez ante la Cámara de Diputados"
 front: false
 section: "Nacional"
-news_id: 189582
+redirect_from: /news/189582
 ---
 
 El presidente del Consejo General del instituto Nacional Electoral (INE), Lorenzo Córdova, comparece ante el pleno de la Cámara de Diputados, para exponer el proyecto de presupuesto del organismo electoral. 

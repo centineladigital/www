@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Miguel Herrera enfrenta a las Chivas con la convicción de asegurar un lugar entre los cuatro mejores del torneo y estar más tranquilo "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tigres, a la caza del pase directo a Liguilla ante Chivas"
 front: false
 section: "Deportes"
-news_id: 189405
+redirect_from: /news/189405
 ---
 
 Tigres recibe esta noche al Guadalajara y el técnico del equipo, Miguel Herrera, adelantó que saldrán por los tres puntos para estar entre los primeros cuatro lugares del torneo.

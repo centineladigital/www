@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El director venezolano dirigió la icónica obra de Leonard Bernstein compuesta para la película Amor sin barreras, en la adaptación de Steven Spielberg. "
 image: "/uploads/2021/images-gustavo-dudamel-director-venezolano-steven.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Música sin barreras! Dudamel, el venezolano encargado de la banda sonora de nueva cinta de Spielberg"
 front: false
 section: "Espectáculos"
-news_id: 191008
+redirect_from: /news/191008
 ---
 
 En palabras del director de cine Steven Spielberg, la banda sonora compuesta por Leonard Bernstein para el musical Amor sin barreras (en inglés West Side Story) ha sido tan determinante en la historia de Estados Unidos que, desde su estreno en Broadway en 1957, “ha ayudado a definir la identidad musical” de ese país. Icónico compositor, pianista y director de orquesta, Bernstein incorporó en la partitura de esta comedia musical, jazz, bebop y ritmos latinos como mambo y chachachá, lo que dio como resultado una portentosa obra musical que ocupa un lugar privilegiado en la historia de la cultura occidental. 

@@ -10,11 +10,11 @@ author: nil
 description: "Podrían salir por creación de jurisprudencia en materia de prisión preventiva. "
 image: "/uploads/2021/images-PENICHE.jpg"
 video: "/uploads/2021/videos-ML01_CESAR_PENICHE.mp4"
-audio: "nil"
+audio: nil
 alt: "Quedarán libres 16 involucrados en expedientes X"
 front: false
 section: "Local"
-news_id: 186491
+redirect_from: /news/186491
 ---
 
 Debido a la creación de una jurisprudencia que evita la prisión preventiva 16 personas involucradas en los expedientes X pudieran salir en libertad, ante lo que personal de la Fiscalía General de Chihuahua lleva a cabo una revisión al respecto, según lo detalló el titular de la dependencia César Augusto Peniche Espejel.

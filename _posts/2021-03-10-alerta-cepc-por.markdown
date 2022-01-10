@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La dependencia estatal pide tomar medidas preventivas ante rachas que rebasarán hasta los 95 km/h, debido a la entrada del Frente Frío 41 durante la noche de este miércoles 10 de marzo"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta CEPC por fuertes vientos hoy y mañana en la mayoría del estado"
 front: false
 section: "Local"
-news_id: 183366
+redirect_from: /news/183366
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) pide a la población tomar medidas preventivas ante los fuertes vientos que a partir de hoy miércoles 10 de marzo ocasionará la entrada del Frente Frío número 41.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Para McNairy, la forma en que los guionistas de la serie integran datos reales con la ficción es una forma entretenida y adecuada de exponer una cultura dentro y fuera de México. "
 image: "/uploads/2021/images-interpreta-agente-dea-walter-breslin.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Scoot McNairy reconoce la investigación en ‘Narcos’"
 front: false
 section: "Espectáculos"
-news_id: 182733
+redirect_from: /news/182733
 ---
 
 Después de su presentación en el final de la primera temporada, Scoot McNairy toma el volante de la segunda entrega de Narcos: México; el actor estadunidense interpreta a Walter Breslin, quien encabeza al equipo de la DEA que buscará efectuar la Operación Leyenda, un esfuerzo por parte de la administración para ejercer la justicia sobre los culpables del asesinato del agente Kiki Camarena, interpretado por Michael Peña, durante la primera entrega de la serie. 

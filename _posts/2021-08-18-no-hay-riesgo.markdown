@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente aseguró que el gobierno vigilará la seguridad sanitaria en las escuelas y reiteró que considera más dañino que los niños sigan en confinamiento"
 image: "/uploads/2021/images-amlo-insistio-reanudar-clases-presenciales-1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No hay riesgo por clases presenciales; se actuará si hay problemas, insiste AMLO"
 front: false
 section: "Nacional"
-news_id: 186822
+redirect_from: /news/186822
 ---
 
 El presidente Andrés Manuel López Obrador insistió en que no hay riesgo en el regreso a clases presenciales, pese a la pandemia de coronavirus covid-19,  pues aseguró a los padres de familia que el gobierno actuará en caso de haya algún problema en las escuelas. 

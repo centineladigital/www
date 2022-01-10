@@ -10,11 +10,11 @@ author: nil
 description: "Operativo fue ordenado desde la Ciudad de México, aseveró el funcionario estatal."
 image: "/uploads/2021/images-EMILIO.jpg"
 video: "/uploads/2021/videos-MM06_EMILIO_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Realizan operativo para captura de “El 13"
 front: false
 section: "Local"
-news_id: 186536
+redirect_from: /news/186536
 ---
 
 Un operativo con el fin de capturar al presunto líder del Cártel de Sinaloa fue desplegado en ele municipio de Guachochi, según fue dado a conocer por parte del Secretario de Seguridad Pública Estatal, Emilio García Ruiz.

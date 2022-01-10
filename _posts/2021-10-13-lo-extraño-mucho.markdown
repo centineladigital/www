@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La conductora de TV Azteca expresó su cariño por José Luis, con quien interpretó la canción de la telenovela 'Amor en custodia' y fue su pareja tras 'La Academia'. "
 image: "/uploads/2021/images-cynthia-rodriguez-dedica-mensaje-jose_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lo extraño mucho -  Cynthia Rodríguez dedica mensaje a su ex José Luis en pleno 'Venga la Alegría'"
 front: false
 section: "Espectáculos"
-news_id: 188675
+redirect_from: /news/188675
 ---
 
 La historia de amor que tuvieron Cynthia Rodríguez y José Luis -quien saltó a la fama tras su participación en La Academia- volvió a ser tema de conversación en redes sociales luego de que la cantante reinterpretó "Si no estás conmigo", el tema principal de la telenovela Amor en custodia que cantaba con su ex pareja, en el programa Venga la Alegría.  Con motivo de la retransmisión del exitoso melodrama protagonizado por Paola Núñez y Andrés Palacios en TV Azteca, Cynthia Rodríguez cantó el tema principal 16 años después del estreno de Amor en Custodia, pero esta vez en compañía de Patricio Borghetti; sin embargo, aprovechó su presentación para mandar un mensaje a José Luis.  

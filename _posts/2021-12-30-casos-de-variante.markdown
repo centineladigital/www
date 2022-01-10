@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Red de Laboratorios de Secuenciación Genética reportó 252 casos, lo que implica un aumento de 500% desde el 25 de diciembre hasta el 29 de diciembre. "
 image: "/uploads/2021/images-paciente-hospitalizado-por-covid-en_0_23_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Casos de variante ómicron en México se elevan 500%; ya circula en 14 estados"
 front: false
 section: "Nacional"
-news_id: 191338
+redirect_from: /news/191338
 ---
 
 La cifra de la variante de preocupación ómicron en México se elevó 500 por ciento en cuatro días, al pasar de 42 a un total de 252 positivos, que ya abarcan 14 entidades del país, de acuerdo con la plataforma GISAID (Global Initiative on Sharing All Influenza Data). 

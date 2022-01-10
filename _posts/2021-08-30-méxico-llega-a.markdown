@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con las presea que consiguió Mónica Rodríguez este domingo, la delegación mexicana llegó al centenar metales dorados en esta justa"
 image: "/uploads/2021/images-monica-rodriguez-oro-mexico-paralimpicos_1_27_1198_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México llega a las 100 medallas de oro en Juegos Paralímpicos"
 front: false
 section: "Deportes"
-news_id: 187236
+redirect_from: /news/187236
 ---
 
 Los Juegos Paralímpicos de Tokio 2020 quedarán en la historia de México, pues gracias a la presea conseguida por Mónica Rodríguez y su guía Kevin Aguilar la delegación nacional alcanzó las 100 medallas de oro en su historia en la justa deportiva. 

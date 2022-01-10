@@ -18,11 +18,11 @@ author: nil
 description: "El alcalde buscará la manera de tener fondos para la seguridad del municipio de Chihuahua"
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-10_at_12.18.13.jpeg"
 video: "/uploads/2021/videos-BW01_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Bonilla busca recursos federales para Chihuahua "
 front: false
 section: "Local"
-news_id: 189765
+redirect_from: /news/189765
 ---
 
 El presidente Marco Bonilla manifestó, que su labor en la ciudad de México en el viaje que está haciendo en este mes es específicamente para encontrar apoyo de los legisladores de la cámara de diputados, puesto que se está esperando la resolución para el presupuesto de egresos de la federación.

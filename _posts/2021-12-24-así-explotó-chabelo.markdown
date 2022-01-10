@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El comediante enfureció cuando una reportera le preguntó sobre su cena para Navidad; así fue el incómodo y polémico momento. "
 image: "/uploads/2021/images-chabelo-enfurecio-preguntaron-cena-navidad.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así 'explotó' Chabelo cuando le preguntaron qué cenaría en Navidad -  Taquitos de caca"
 front: false
 section: "Espectáculos"
-news_id: 191199
+redirect_from: /news/191199
 ---
 
 Xavier López, mejor conocido como Chabelo, ha dejado un extenso legado en la televisión mexicana. Su programa En familia con Chabelo marcó a más de una generación de niños que cada domingo se sentaban frente al televisor para disfrutar de la ocurrencia y creatividad del comediante; sin embargo, es bien sabido el actor que goza de una explosiva y fuerte personalidad, prueba de ello es el día que le preguntaron sobre la celebración de Navidad.  El polémico episodio tuvo lugar años atrás cuando Chabelo y su hijo, Xavier López Miranda promocionaba su musical navideño, el cual llevaba por título La villa de Santa Claus. El comediante ofreció entrevista a varios reporteros y conductores, pero de un momento a otro el conductor enfureció.  

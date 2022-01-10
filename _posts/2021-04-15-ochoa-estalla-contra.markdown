@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El portero del América pide seriedad a la organización y una disculpa tras la lesión de Jesús López. Asegura que el árbitro Henry Bejarano le permitió al Olimpia hacer de todo en la cancha"
 image: "/uploads/2021/images-2562647.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ochoa estalla contra Concacaf -  ‘no cuida a los mexicanos’"
 front: false
 section: "Deportes"
-news_id: 183902
+redirect_from: /news/183902
 ---
 
 Guillermo Ochoa, portero y capitán del América, espera que la Concacaf y los directivos tomen cartas en el asunto, luego de lo sucedido con el arbitraje en el duelo ante Olimpia, donde Jesús López salió con una fractura del peroné. 

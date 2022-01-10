@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Si hacen uso indebido de recursos públicos serán castigados."
 image: "/uploads/2021/images-MONICA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-mv04.mp3"
 alt: "A prisión pudieran ir funcionarios que violen la ley"
 front: false
 section: "Local"
-news_id: 184846
+redirect_from: /news/184846
 ---
 
 Las sanciones que violen funcionarios en materia de uso de recursos gubernamentales dentro de las elecciones pueden llegar hasta la cárcel, señaló la titular de la Secretaría de la Función Pública Mónica Vargas Ruiz.

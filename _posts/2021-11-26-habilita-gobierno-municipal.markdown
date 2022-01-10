@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Permanecerán abiertos hasta nuevo aviso"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Habilita Gobierno Municipal dos refugios temporales las 24 horas por contingencia climática"
 front: false
 section: "Local"
-news_id: 190236
+redirect_from: /news/190236
 ---
 
 Ante la posibilidad de que el temporal lluvioso permanezca durante el día y las bajas temperaturas se sigan presentado todo el fin de semana, la Coordinación Municipal de Protección Civil informa que al medio día de hoy serán abiertos dos refugios temporales en los centros comunitarios Mármol III y Tricentenario, por lo que se exhorta a la comunidad a tomar las debidas precauciones para evitar incidentes o enfermedades.

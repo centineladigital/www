@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la pandemia suman 66  mil 980 casos positivos y 6 mil 876 fallecimientos; las últimas muertes se registraron en Juárez, Chihuahua,  Delicias, Cuauhtémoc, Bocoyna, Aquiles Serdán y Urique"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Confirman 187 contagios y 17 decesos por COVID-19 en el estado"
 front: false
 section: "Local"
-news_id: 184481
+redirect_from: /news/184481
 ---
 
 La Secretaría de Salud informó que el último reporte epidemiológico de COVID-19 aumentó en 187 contagios y 17 defunciones, por lo que el total general de casos positivos en el estado de Chihuahua es de 66 mil 980 y 6 mil 876 decesos.

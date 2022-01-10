@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La nueva legislatura habrá de declararse legítimamente constituida e instalada este primero de octubre"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Diputadas no duran ni un día en Morena y tras tomar protesta se suman al PAN en Tamaulipas"
 front: false
 section: "Nacional"
-news_id: 188258
+redirect_from: /news/188258
 ---
 
 Ciudad Victoria.- Luego de la sesión de toma de protesta a los integrantes de la Sexagésima Quinta Legislatura de Tamaulipas, las diputadas Leticia Sánchez y Lidia Martínez, de Morena y de la coalición PT-Morena, anunciaron que se unen a la bancada del Partido Acción Nacional (PAN).

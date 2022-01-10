@@ -14,11 +14,11 @@ author: nil
 description: "Consiste en llevar un juguete nuevo que no utilice baterías ni sea bélico. El lugar de las inscripciones es en la Dirección de Desarrollo Humano y en Fashion Mall"
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-25_at_11.51.02_AM.jpeg"
 video: "/uploads/2021/videos-BJ03_OSCAR_TOLEDO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Convocan a la carrera Santa´s Run "
 front: false
 section: "Local"
-news_id: 190216
+redirect_from: /news/190216
 ---
 
 

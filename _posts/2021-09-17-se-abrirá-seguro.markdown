@@ -12,11 +12,11 @@ author: nil
 description: "Ayudara a las familias chihuahuenses "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-17_at_1.23.15_PM.jpeg"
 video: "/uploads/2021/videos-BV04_LAURA_CONTRERAS.mp4"
-audio: "nil"
+audio: nil
 alt: "Se abrirá seguro de desempleo para chihuahuenses "
 front: false
 section: "Local"
-news_id: 187832
+redirect_from: /news/187832
 ---
 
 El Partido Acción Nacional abrió una iniciativa de seguro de desempleo el cual beneficiará a los chihuahuenses que hayan perdido su empleo a causa de la pandemia de covid 19, en la iniciativa se contempla el respaldo del partido MORENA el cual apoyará este proceso legislativo.

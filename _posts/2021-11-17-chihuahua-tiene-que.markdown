@@ -10,11 +10,11 @@ author: nil
 description: "El funcionario dijo desconocer que incremento se dio al estado en relación con otras entidades."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MW03_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Chihuahua tiene que agradecer conducta del Congreso -  Jáuregui"
 front: false
 section: "Local"
-news_id: 189935
+redirect_from: /news/189935
 ---
 
 “Más que si se desahoga o no, no vendrán tiempos peores” fueron las palabras del Secretario General de Gobierno, César Jáuregui Moreno, quien fue cuestionado respecto al incremento que se dio al prespuesto federal que otorgará al estado de Chihuahua. 

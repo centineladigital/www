@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Exigen que los registros civiles abran las 24 horas del día para que expidan los certificados de defunción que retrasan la cremación de cadáveres"
 image: "/uploads/2021/images-2508303.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Funerarias a punto del colapso; personal pide vacuna anticovid"
 front: false
 section: "Nacional"
-news_id: 181968
+redirect_from: /news/181968
 ---
 
 Las funerarias en el Valle de Toluca y sur están a punto del colapso tras el incremento de muertes por covid-19, pues hay escasez de certificados de defunción que vienen desde la federación y sin el documento no pueden cremar ni sepultar a los difuntos. 

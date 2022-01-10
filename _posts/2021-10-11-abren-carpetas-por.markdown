@@ -10,11 +10,11 @@ author: nil
 description: "Investigarán denuncias de tortura en contra de opositores de Corral."
 image: "/uploads/2021/images-ROBERTO.jpg"
 video: "/uploads/2021/videos-ML01_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Abren carpetas por “Casa de la tortura”"
 front: false
 section: "Local"
-news_id: 188598
+redirect_from: /news/188598
 ---
 
 La apertura de carpetas de investigación en la Fiscalía General del Estado por el caso de los presuntos actos de tortura que se cometieron en contra de opositores y enemigos políticos del exgobernador Javier Corral ya está abierta, según fue dado a conocer por parte del titular de la dependencia Roberto Fierro Duarte.

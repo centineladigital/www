@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este viernes se estrenó la primera parte de la última temporada de La casa de Papel y Úrsula Corberó asegura que aún no está lista para dejar a Tokio. "
 image: "/uploads/2021/images-actriz-vida-tokio-protagonista-serie.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No estoy capacitada para despedirme de 'Tokio' -  Úrsula Corberó sobre final de 'La casa de Papel'"
 front: false
 section: "Espectáculos"
-news_id: 187407
+redirect_from: /news/187407
 ---
 
 Este 3 de septiembre llegó a Netflix la primera parte de la última temporada de La casa de Papel, que tras cuatro exitosas series ha conseguido cautivar a los televidentes con una historia que nos mantiene al borde del asiento. La protagonista, Úrsula Corberó, quien interpreta a Silene Oliveira, mejor conocida como Tokio, no está preparada para decir adiós a su personaje.

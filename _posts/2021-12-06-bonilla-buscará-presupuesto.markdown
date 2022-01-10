@@ -18,11 +18,11 @@ author: nil
 description: "El presidente de la republica dará su conferencia mañanera diaria desde Chihuahua"
 image: "/uploads/2021/images-Amlo_CiudadJuarez_presidencia1.jpg"
 video: "/uploads/2021/videos-BL01_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Bonilla buscará presupuesto con la visita de AMLO "
 front: false
 section: "Local"
-news_id: 190557
+redirect_from: /news/190557
 ---
 
 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Autoridades chilenas informaron que en el país se registra un aumento en los contagios de covid; el índice más alto en ocho meses."
 image: "/uploads/2021/images-2539828.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chile reporta fuerte aumento de contagios covid; autoridades en alerta"
 front: false
 section: "Internacional"
-news_id: 183294
+redirect_from: /news/183294
 ---
 
 Chile reportó este viernes 5 mil 325 nuevos casos de covid, la cifra diaria más alta en ocho meses, en medio del rápido avance del proceso de vacunación, que en el país alcanzó a casi 4 millones de personas con al menos una dosis.

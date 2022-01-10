@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se presume que el siniestro se originó por un corto circuito. Las autoridades no reportaron personas muertas o lesionadas tras el incidente. "
 image: "/uploads/2021/images-las-llamas-se-extendieron-con_0_1_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fuerte incendio consume ocho casas y dos vehículos en Morelia, Michoacán"
 front: false
 section: "Nacional"
-news_id: 187898
+redirect_from: /news/187898
 ---
 
 Un fuerte incendio destruyó ocho casas y dos vehículos en la colonia Santa María de Guido, en la ciudad de Morelia. Michoacán. Personal de Protección Civil informó que el siniestro se originó por un corto circuito en un asentamiento irregular. 

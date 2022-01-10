@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En la ciudad de 11 millones de personas se detectó por primera vez el coronavirus en 2019; ahora, el virus vuelve a amenazar a Wuhan "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " China volverá a examinar a toda la población de Wuhan, cuna del coronavirus"
 front: false
 section: "Internacional"
-news_id: 186232
+redirect_from: /news/186232
 ---
 
 Las autoridades de la ciudad china de Wuhan comenzarán a realizar pruebas a toda su población, después de que se detectaran casos positivos de coronavirus.

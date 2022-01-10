@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante mexicana lanza hoy el sencillo Nos volvimos locos, que formará parte de su nuevo disco.  "
 image: "/uploads/2021/images-gloria.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gloria y Guaynaa unidos por la locura"
 front: false
 section: "Espectáculos"
-news_id: 185905
+redirect_from: /news/185905
 ---
 
 La regiomontana invitó al puertorriqueño para que cantara con ella en su nuevo tema que sale hoy y llegar así a generaciones más jóvenes. “Cuando me dijeron que Gloria quería hacer una canción conmigo no lo podía creer”, dice Guaynaa.

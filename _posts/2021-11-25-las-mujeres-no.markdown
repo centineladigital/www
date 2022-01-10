@@ -20,11 +20,11 @@ author: nil
 description: "El Instituto Municipal de la Mujer cuenta con área jurídica y área de atención a la violencia"
 image: "/uploads/2021/images-index.jpg"
 video: "/uploads/2021/videos-_BJ02_LYDIA_TERRAZAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "Las mujeres no están solas "
 front: false
 section: "Local"
-news_id: 190215
+redirect_from: /news/190215
 ---
 
 

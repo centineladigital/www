@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ningún Gobierno anterior ha invertido tanto, señala Javier Corral; detalla los siete megaproyectos que cambian el rostro de la frontera, contribuyen a una movilidad urbana sostenible y mejoran la calidad de vida"
 image: "/uploads/2021/images-OBRAS_PARA_JZ_(5).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cierra Administración estatal con 8 mil 733 mdp en obras de infraestructura para Juárez"
 front: false
 section: "Local"
-news_id: 182798
+redirect_from: /news/182798
 ---
 
 El Gobierno del Estado cerrará con una inversión de 8 mil 733 millones de pesos en obras de infraestructura para Ciudad Juárez, dijo el gobernador Javier Corral, quien destacó que ninguna administración había invertido tanto en esta frontera.

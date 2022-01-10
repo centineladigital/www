@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Gobernador informa que está listo para llevar a cabo el proceso de entrega-recepción y por supuesto que se reconoce el triunfo de María Eugenia Campos Galván: “Nosotros jamás nos vamos a pelear con la voluntad popular, somos demócratas”"
 image: "/uploads/2021/images-CONFERENCIA_DE_PRENSA_CD_JZ_JUNIO_7_2021.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reconoce y se respeta la voluntad popular  en Chihuahua -  Javier Corral"
 front: false
 section: "Local"
-news_id: 184905
+redirect_from: /news/184905
 ---
 
 “Nosotros jamás nos vamos a pelear con la voluntad popular, somos demócratas y por supuesto que en un proceso democrático, lo que cualquier autoridad debe de hacer, es de reconocer y de respetar la voluntad ciudadana”, dijo el gobernador Javier Corral Jurado respecto a los resultados de la jornada electoral del domingo 6 de junio.

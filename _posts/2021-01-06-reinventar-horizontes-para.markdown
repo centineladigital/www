@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante afirmó que 2020 fue un año de “supervivencia” para todos los artistas, quienes deben ser tercos” y rehacer puentes para seguir entreteniendo a sus fans. "
 image: "/uploads/2021/images-thalia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reinventar horizontes para estar más cerca del público -  Thalía"
 front: false
 section: "Espectáculos"
-news_id: 181918
+redirect_from: /news/181918
 ---
 
 Confiada en que este 2021 será un año para reafirmar nuestra fuerza como sociedad tanto en mente y cuerpo, así como en espíritu, Thalía afirma que aunque el mundo del espectáculo se transformó completamente durante los meses anteriores, para este año vendrán cosas mejores, y la ayuda de la tecnología será muy importante para que cada artista se reencuentre con su público. 

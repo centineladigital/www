@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Alerta sobre llamadas fraudulentas en donde se argumenta una supuesta promoción por ser “cliente preferente” de las instituciones bancarias."
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta FGE por engaños mediante promociones navideñas bancarias a “clientes preferentes”"
 front: false
 section: "Local"
-news_id: 190930
+redirect_from: /news/190930
 ---
 
 La Fiscalía General del Estado, a través del Ministerio Público de Delitos Patrimoniales y la Dirección de Análisis de Evidencia Digital e Informática Forense, alerta sobre llamadas fraudulentas en donde se argumenta una supuesta promoción por ser “cliente preferente” de las instituciones bancarias.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El COI y el comité organizador mostrarán su estrategia para explicar cómo será posible que se realicen las actividades de la justa de forma segura"
 image: "/uploads/2021/images-2519103.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentarán plan para Juegos Olímpicos ante pandemia"
 front: false
 section: "Deportes"
-news_id: 182474
+redirect_from: /news/182474
 ---
 
 El COI y los organizadores de los Juegos Olímpicos tienen un manual con el que pretenden sacar adelante por fin la aplazada festividad deportiva.

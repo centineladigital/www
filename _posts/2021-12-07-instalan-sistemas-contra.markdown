@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Estos centros de cuidado atienden a bebés desde 45 días de nacidos hasta antes de los tres años de edad; los CAI de Chihuahua y Juárez ya cuentan con este equipamiento"
 image: "/uploads/2021/images-Equipos_contra_incendios-1__.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instalan sistemas contra incendios en Centros de Atención Infantil  de Parral y Cuauhtémoc"
 front: false
 section: "Local"
-news_id: 190595
+redirect_from: /news/190595
 ---
 
 Con el fin de ofrecer mejores condiciones de seguridad a menores de educación inicial, los Centros de Atención Infantil del estado (CAI) federalizados, han iniciado la instalación de sistemas contra incendios en sus planteles 3 de Parral y 8 de Cuauhtémoc.

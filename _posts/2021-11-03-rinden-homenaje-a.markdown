@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Además, se rindió homenaje a Marco Antonio Guzmán Arellano, que durante 15 años se ha destacado como un docente excepcional y promotor de temas ambientales."
 image: "/uploads/2021/images-HOMENAJE_COBACH_11_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rinden homenaje a personal del plantel 11 del COBACH"
 front: false
 section: "Local"
-news_id: 189514
+redirect_from: /news/189514
 ---
 
 El Colegio de Bachilleres del Estado de Chihuahua (COBACH) llevó a cabo una ceremonia de homenaje por sus años de servicio en la institución al personal del plantel 11 que alcanzó su jubilación.

@@ -16,11 +16,11 @@ author: nil
 description: "Trabajaran de manera coordinada con la Fiscalía General del Estado "
 image: "/uploads/2021/images-MARCO.jpg"
 video: "/uploads/2021/videos-BJ01_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "No habrá tolerancia con la violencia -  Bonilla "
 front: false
 section: "Local"
-news_id: 188002
+redirect_from: /news/188002
 ---
 
 El alcalde de Chihuahua, Marco Bonilla, señaló que las autoridades municipales velarán siempre por la dignidad de las personas, por lo cual no serán tolerantes  ante cualquier tipo de abuso que se comenta en contra del ser humano o seres vivos. 

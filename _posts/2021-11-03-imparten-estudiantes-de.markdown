@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los 31 estudiantes que integran dos grupos de tercer semestre fueron divididos en equipos y en primera práctica para estar a cargo de un grupo, planearon y desarrollaron un taller de 1:50 horas."
 image: "/uploads/2021/images-UP1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Imparten estudiantes de UPNECH talleres sobre problemáticas actuales"
 front: false
 section: "Local"
-news_id: 189510
+redirect_from: /news/189510
 ---
 
 En base a la asignatura “Psicología Social, Grupos y Aprendizaje”, alumnos de tercer semestre de la Licenciatura en Pedagogía de la Universidad Pedagógica Nacional del Estado de Chihuahua (UPNECH) campus Nuevo Casas Grandes, impartieron diversos talleres a sus compañeras y compañeros de estudios.

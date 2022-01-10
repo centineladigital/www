@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Aunque el Departamento de Seguridad Nacional aseguró haber hecho varios cambios para dar mayores garantías, los defensores de los migrantes no creen que serán suficientes"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Desde hoy arranca el programa Quédate en México"
 front: false
 section: "Nacional"
-news_id: 190527
+redirect_from: /news/190527
 ---
 
 Los Ángeles.- El gobierno de Estados Unidos reanuda este lunes el programa "Quédate en México” (MPP por su sigla en inglés) en medio de crecientes dudas de si logrará garantizar la seguridad de los solicitantes de asilo, que tendrán que esperar en el país vecino el proceso de sus casos en Estados Unidos. 

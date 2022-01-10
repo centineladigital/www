@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los decesos de personas positivas a SARS-CoV-2 ascendieron a 4 mil 192, lo que lo convierte -hasta ahora- en el mes con más muertes confirmadas a causa del covid-19"
 image: "/uploads/2021/images-2508922.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aumentan en diciembre decesos por pandemia en CDMX"
 front: false
 section: "Nacional"
-news_id: 182011
+redirect_from: /news/182011
 ---
 
 En tres semanas, del 19 de diciembre al 7 de enero, en la Ciudad de México 3 mil 153 personas con Covid-19 han perdido la vida, de acuerdo con el reporte diario del gobierno capitalino.

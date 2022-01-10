@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aquí te decimos todo lo que necesitas saber sobre el evento de la escudería Red Bull Racing para que tengas los mejores lugares. "
 image: "/uploads/2021/images-checo-perez-tercer-premio-unidos_0_36_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conoce cuándo corre 'Checo' Pérez en Reforma -  horarios del Red Bull Show Run CdMx 2021"
 front: false
 section: "Deportes"
-news_id: 189433
+redirect_from: /news/189433
 ---
 
 Se calientan los motores rumbo al Gran Premio de México que se celebrará de 5 al 7 de noviembre en el Autódromo Hermanos Rodríguez, previo a esta gran carrera de la Fórmula 1 habrá un evento al que querrán asistir todos los aficionados al deporte motor: el Red Bull Show Run CdMx 2021. 

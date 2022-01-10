@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hoy, las autoridades sanitarias reportaron 282 personas más enfermas de covid-19, por lo que ya suman la cantidad de 60 mil 600, de las cuales 52 mil 830 ya se recuperaron, pero 2 mil 119 casos activos"
 image: "/uploads/2021/images-registrado-afluencia-personas-calle-alejandro_0_29_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Yucatán supera los 60 mil casos de covid-19; reportan alza de contagios por variante Delta"
 front: false
 section: "Nacional"
-news_id: 187081
+redirect_from: /news/187081
 ---
 
 Ante la reapertura de comercios con el fin de mejorar la economía de Yucatán, ya suman 60 mil 600 casos positivos de coronavirus. La variante Delta ha provocado más contagios en las últimas semanas. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este tipo de animales suelen protegerse en lugares sombríos de los patios de las casas: en macetas, escombros, llantas, cacharros o muebles que se tengan en el exterior. "
 image: "/uploads/2021/images-Foto_3149-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS Chihuahua alerta sobre la proliferación de animales ponzoñosos "
 front: false
 section: "Local"
-news_id: 185732
+redirect_from: /news/185732
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, a través de la Jefatura de Servicios Médicos, advirtió a la población que en temporada de calor se da la proliferación de animales ponzoñosos, por lo que recomendó extremar las medidas de limpieza en los hogares. 

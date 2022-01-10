@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De acuerdo con el funcionario, las investigaciones están en curso para dar con el grupo criminal que está operando en esta región. "
 image: "/uploads/2021/images-secretario-marina-jose-rafael-ojeda_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ataque en palacio municipal de Guaymas iba dirigido a jefe de policía, no a alcaldesa -  Semar"
 front: false
 section: "Nacional"
-news_id: 190223
+redirect_from: /news/190223
 ---
 
 El ataque de un grupo armado en el palacio municipal de Guaymas, Sonora, iba dirigido al jefe de la policía del municipio, Andrés Humberto Cano Ahuir, quien además es capitán de fragata de la Marina, reveló el titular de la Secretaría de Marina (Semar), José Rafael Ojeda Durán. 

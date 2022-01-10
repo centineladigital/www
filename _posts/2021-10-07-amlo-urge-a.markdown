@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente cuestionó a las escuelas que no han regresado al modelo presencial e indicó que los trabajadores reciben un sueldo sin correr riesgos. "
 image: "/uploads/2021/images-presidente-regresar-clases-presenciales-retrasara_0_26_1200_745.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO urge a universidades públicas a regresar a clases presenciales"
 front: false
 section: "Nacional"
-news_id: 188464
+redirect_from: /news/188464
 ---
 
 El presidente Andrés Manuel López Obrador urgió a todas las universidades del país a regresar a clases presenciales, al argumentar que los maestros ya fueron vacunados contra el covid-19. 

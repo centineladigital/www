@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Caminar erguido además de dar una mejor apariencia física, previene dolencias futuras"
 image: "/uploads/2021/images-Foto_5059-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta IMSS Chihuahua a mantener buena postura corporal para evitar problemas en la columna vertebral "
 front: false
 section: "Local"
-news_id: 188848
+redirect_from: /news/188848
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua exhorta a la ciudadanía a evitar mantener mala postura por mucho tiempo porque, además de aumentar el peso y presión en la columna vertebral, puede desgastarla y lesionarla.

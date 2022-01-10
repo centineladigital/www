@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El 24 de diciembre de 2020, María del Rosario Lora López fue la primera trabajadora de la salud del Instituto en recibir el biológico en Querétaro. "
 image: "/uploads/2021/images-Foto_592-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vacuna y medidas sanitarias, mejores aliados contra la pandemia -  enfermera del IMSS que recibió primera dosis contra COVID-19"
 front: false
 section: "Local"
-news_id: 191231
+redirect_from: /news/191231
 ---
 
 A un año de haber recibido la primera vacuna contra COVID-19 dentro del personal de salud del Instituto Mexicano del Seguro Social (IMSS), la enfermera María del Rosario Lora López aseguró que la inmunización y las medidas de protección son los mejores aliados para enfrentar la pandemia.

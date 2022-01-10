@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En medio de la polémica entre Scarlett Johansson y Disney, Emma Stone llegó a un acuerdo con la empresa para realizar la segunda parte de Cruella. "
 image: "/uploads/2021/images-ema.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Fue por Scarlett Johansson? Emma Stone llega a acuerdo con Disney para hacer secuela de 'Cruella'"
 front: false
 section: "Espectáculos"
-news_id: 186697
+redirect_from: /news/186697
 ---
 
 En mayo de este 2021 se estrenó en cines y a través de la plataforma de streaming "Cruella", la cual cuenta la historia de Estella, quien más tarde se convierte en una reconocida diseñadora de moda. Dicho personaje, famoso por ser uno de los villanos icónicos de Disney es protagonizado por Emma Stone, quien volverá a dar vida a la astuta Cruella en una secuela. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz fue la encargada de inmortalizar a la gran bruja en el remake del clásico noventero de terror."
 image: "/uploads/2021/images-anne-hathaway-se-disculpa-por-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Tan mal lo hizo? El día que Anne Hathaway se disculpó por su personaje en 'Las brujas'"
 front: false
 section: "Espectáculos"
-news_id: 189822
+redirect_from: /news/189822
 ---
 
 El remake de Las Brujas (The Witches), dirigido por Robert Zemeckis y protagonizado por Anne Hathaway se estrenó en octubre de 2020, siendo una de las interpretaciones más polémicas de la talentosa actriz quien hoy cumple 39 años, y es que incluso la compañía Warner Bros ofreció disculpas luego de que personas con discapacidad denunciaran en redes sociales al personaje principal por resultar "ofensivo". La cinta basada en el libro homónimo de Roald Dahl tiene como protagonista a Hathaway en la piel de Eva Ernst, la versión humana de La Gran Bruja; quien tiene tres dedos en cada mano. Esto indignó a personas con discapacidad, quienes lo ligaron con una enfermedad llamada ectrodactilia (ausencia de partes o dedos completos).

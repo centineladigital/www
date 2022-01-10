@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Alcalde de Río de Janeiro, Eduardo Paes, confirmó en rueda de prensa que aceptó la solicitud de la Confederación Suramericana de Futbol (Conmebol) tras el visto bueno de la secretaría de Salud, por la notoria reducción de casos y muertes por covid-19 en la ciudad."
 image: "/uploads/2021/images-estadio-maracana-reuters-1_15_0_1185_737.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La final de la Copa América entre Brasil y Argentina será con público; permitirán el 10 por ciento de aforo."
 front: false
 section: "Deportes"
-news_id: 185490
+redirect_from: /news/185490
 ---
 
 La final de la Copa América, en la que Brasil y Argentina disputarán el título el sábado, tendrá 7 mil 200 hinchas en el Maracaná, luego de que la Alcaldía de Río de Janeiro permitiera al acceso del 10  por ciento del público al icónico estadio, en momentos en que la pandemia comienza a ceder en la ciudad. 

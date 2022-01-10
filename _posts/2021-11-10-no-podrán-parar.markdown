@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de su cuenta de Instagram en donde Nodal decidió romper el silencio sobre la polémica que lo envuelve en cuanto al rubro musical con Universal Music. ¿Está vetado de México? ¿Se acabó su carrera? "
 image: "/uploads/2021/images-nodal-revela-cantar-sacar-musica.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No podrán parar mi música” -  Christian Nodal arremete contra disquera; aclara si está vetado de México"
 front: false
 section: "Espectáculos"
-news_id: 189737
+redirect_from: /news/189737
 ---
 
 Christian Nodal, famoso cantante de regional mexicano y actual pareja de Belinda, se ha visto envuelto en polémica en los últimos días por un supuesto veto en México tras presuntamente no respetar un contrato con la compañía disquera con la que laboraba. Sin embargo, ante los rumores, Nodal hizo uso de sus redes sociales para aclarar todo. Aseguró que nadie lo podrá parar y usó el hashtag #NodalLibre. Te contamos todo lo que expresó el famoso. Fue a través de su cuenta de Instagram en donde Nodal decidió romper el silencio sobre la polémica que lo envuelve en cuanto al rubro musical con Universal Music. 

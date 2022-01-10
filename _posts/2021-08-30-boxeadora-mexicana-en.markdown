@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jeanette Zacarías se desvaneció después de perder por nocaut técnico anta Marie Pier Houle en Canadá"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Boxeadora mexicana en estado crítico tras ser noqueada"
 front: false
 section: "Deportes"
-news_id: 187240
+redirect_from: /news/187240
 ---
 
 La boxeadora mexicana Jeanette Zacarías, de 18 años de edad, se encuentra en estado crítico luego de perder ante Marie Pier Houle por la vía del nocaut en Montreal, Canadá.

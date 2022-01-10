@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Merapi ha estado especialmente activo en los últimos meses y las autoridades elevaron el nivel de alerta que representa a finales del año pasado."
 image: "/uploads/2021/images-volcan-merapi-de-indonesia-hace.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Habitantes deben protegerse de los ríos de lava -  Volcán Merapi hace erupción en Indonesia"
 front: false
 section: "Internacional"
-news_id: 186717
+redirect_from: /news/186717
 ---
 
 El Merapi, uno de los volcanes indonesios más activos, situado en la isla de Java, entró en erupción el lunes y una impresionante nube de cenizas cubrió los alrededores del cráter. 

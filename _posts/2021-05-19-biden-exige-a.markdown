@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En una llamada telefónica, el presidente de EU pide al primer ministro israelí una 'significativa desescalada' del conflicto militar con los palestinos, para encaminar un alto al fuego"
 image: "/uploads/2021/images-2581098.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden exige a Netanyahu que rebaje la tensión con los palestinos"
 front: false
 section: "Local"
-news_id: 184533
+redirect_from: /news/184533
 ---
 
 El presidente de Estados Unidos, Joe Biden, dijo al primer ministro israelí, Benjamin Netanyahu, que espera para este miércoles una "significativa desescalada" del conflicto militar con los palestinos, informó la Casa Blanca.

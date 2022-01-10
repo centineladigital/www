@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se destinaron 370 millones 299 mil pesos en beneficio de alumnas y alumnos en situación de vulnerabilidad económica, además se aportó 48 millones 924 mil pesos en apoyo a 94 Organizaciones de la Sociedad Civil, se informa en programa Logros con Valor."
 image: "/uploads/2021/images-4.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Otorgó Gobierno de Javier Corral más de 111 mil becas y apoyos económicos a estudiantes   "
 front: false
 section: "Local"
-news_id: 185609
+redirect_from: /news/185609
 ---
 
 El Gobierno de Javier Corral otorgó 111 mil 009 becas para alumnas y alumnos en situación de vulnerabilidad, con una inversión de 370 millones 299 mil 429 pesos, se informó en el programa Logros con Valor, que encabezó el secretario de Educación y Deporte, Carlos González Herrera.

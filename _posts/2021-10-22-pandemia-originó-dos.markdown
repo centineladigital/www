@@ -10,11 +10,11 @@ author: nil
 description: "Menores han sufrido retrasos en sus aprendizajes."
 image: "/uploads/2021/images-PARGA.jpg"
 video: "/uploads/2021/videos-MV02_LORENZO_PARGA.mp4"
-audio: "nil"
+audio: nil
 alt: "Pandemia originó dos años de retraso en estudiantes"
 front: false
 section: "Local"
-news_id: 189089
+redirect_from: /news/189089
 ---
 
 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las prendas fueron recopiladas por alumnos de los planteles del Cobach y del Cecytech del estado, así como por personal del Ichitaip"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recibe DIF Estatal donación de 19 mil 400 chamarras para la campaña Juntos ¡Sin frío!"
 front: false
 section: "Local"
-news_id: 190001
+redirect_from: /news/190001
 ---
 
 Como parte de la campaña “Juntos sin frío”, el DIF Estatal Chihuahua recibió la donación de más de 19 mil 400 chamarras, recabadas por alumnos de los planteles de los colegios de Bachilleres y del Cecytech, así como por personal del Instituto Chihuahuense de Transparencia y Acceso a la Información Pública (Ichitaip).

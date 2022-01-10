@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Lyn May asistió a un antro para poner ambiente y cantar su nueva canción La Loba, la está dedicada a J Balvin por su tema Perra. "
 image: "/uploads/2021/images-lyn-may-sorprendio-en-el.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Causó sensación! Lyn May bailó y cantó en un antro su canción 'La Loba'; se vuelve viral"
 front: false
 section: "Espectáculos"
-news_id: 189603
+redirect_from: /news/189603
 ---
 
 Aunque hace unos meses causó sensación ya que aseguró que está embarazada de gemelos, hace unas semanas Lyn May sacó una canción titulada “La Loba” cuya letra llamó la atención debido a que fue una respuesta a “Perra”, tema de J Balvin. A su manera, Lyn May le mandó un mensaje a J Balvin en “La Loba” y le pide respetar a las mujeres. Todo parece indicar que con esta canción la vedette está teniendo mucho éxito, es por eso que acudió a un antro de la Ciudad de México para cantar su tema. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Residuos de empresas causan estos incendios."
 image: "/uploads/2021/images-RICARDO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ01_RICARDO_MARTINEZ.mp3"
 alt: "Detectan origen de incendios en relleno sanitario"
 front: false
 section: "Local"
-news_id: 184053
+redirect_from: /news/184053
 ---
 
 Debido a que últimamente de forma constante se han registrado incendios dentro del relleno sanitario, se llevó a cabo una investigación detectando cuales eran los residuos que generaban estos incendios. Esto según fue dado a conocer por parte del titular de Servicios Públicos Municipales Ricardo Martínez García.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los medicamentos, denominados BRII-196 y BRII-198, han sido desarrollados por la Universidad de Tsinghua, el Hospital Popular número 3 de Shenzhen (sur) y la empresa Brii Biosciences, según la agencia estatal Xinhua"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "China aprueba uso de emergencia de dos medicamentos contra Covid-19"
 front: false
 section: "Internacional"
-news_id: 190660
+redirect_from: /news/190660
 ---
 
 Pekín.- El organismo chino de control de medicamentos otorgó autorización de uso de emergencia a dos fármacos basados en anticuerpos monoclonales para tratar la Covid-19 en adolescentes y adultos con síntomas de leves a moderados, informaron hoy medios oficiales.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Organizado por la Facultad de Ciencias Políticas y Sociales del 17 al 19 de noviembre, este primer simposio se realiza en honor a la trayectoria del Embajador Hermilo López-Bassols"
 image: "/uploads/2021/images-uach.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizan 1er Simposio Virtual de Relaciones Internacionales UACH"
 front: false
 section: "Local"
-news_id: 189807
+redirect_from: /news/189807
 ---
 
 Con el objetivo de discutir desde la perspectiva académica los principales fenómenos, producto del sistema internacional, la Universidad Autónoma de Chihuahua, a través de la Facultad de Ciencias Políticas y Sociales, organiza el Primer Simposio Virtual de Relaciones Internacionales, a realizarse del 17 al 19 de noviembre del presente año. 

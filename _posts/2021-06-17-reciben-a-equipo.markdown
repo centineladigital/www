@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Inician trabajos para el cambio de gobierno."
 image: "/uploads/2021/images-SERRATO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ03_LUIS_SERRATO.mp3"
 alt: "Reciben a equipo de transición en Gobierno del Estado"
 front: false
 section: "Local"
-news_id: 185091
+redirect_from: /news/185091
 ---
 
 Este jueves el equipo de transcisión se reunió con el Secretario General de Gobierno, Luis Fernando Mesta Soulé, con el fin de iniciar los trabajos de entrega-recepción que se dan por motivo del cambio de administración.

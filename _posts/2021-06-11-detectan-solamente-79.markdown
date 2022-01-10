@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solamente acreditan 25 defunciones."
 image: "/uploads/2021/images-diapositiva3-363.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV04.mp3"
 alt: "Detectan solamente 79 casos COVID"
 front: false
 section: "Local"
-news_id: 184993
+redirect_from: /news/184993
 ---
 
 En tan sólo 24 horas se detectaron 79 casos nuevos que dieron positivo a la prueba de COVID, mientras que se acreditaron solamente 25 defunciones, según lo dio a conocer el titular de la Dirección Médica Zona Norte Arturo Valenzuela Zorrilla. Quien recalcó que la incidencia va a la baja y se espera que continúe así.

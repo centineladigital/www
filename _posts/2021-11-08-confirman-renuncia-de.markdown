@@ -10,11 +10,11 @@ author: nil
 description: "Deja su cargo Eduardo Fernandez Sigala, esto tras dar a conocer posible aumento de tarifa."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-ML05_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Confirman renuncia de titular del área de transporte"
 front: false
 section: "Local"
-news_id: 189659
+redirect_from: /news/189659
 ---
 
 De forma oficial este lunes fue dado a conocer la renuncia por parte del Director de Transporte del Gobierno del Estado, Eduardo Fernández Sígala, la cual se señala fue debido a que presentó la propuesta del incremento a la tarifa del transporte público, esto lo expresó  el Secretario General de Gobierno, César Jáuregui Moreno.

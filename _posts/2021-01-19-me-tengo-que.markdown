@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hugo López-Gatell, subsecretario de Salud, aclaró que para identificar a los adultos mayores que serán vacunados contra covid-19 se realizará un censo nacional"
 image: "/uploads/2021/images-2514653.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Me tengo que registrar para recibir la vacuna contra covid-19?"
 front: false
 section: "Nacional"
-news_id: 182275
+redirect_from: /news/182275
 ---
 
 Ante la confusión que se generó en redes sociales debido a la idea de que existía una plataforma de registro en la que personas podrían inscribirse voluntariamente para recibir la vacuna contra covid-19, la Secretaría de Salud aclaró la forma en que se desarrollará el proceso de vacunación.

@@ -10,11 +10,11 @@ author: nil
 description: " En el DIF se lograron recaudar más de 1400 piezas"
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-29_at_11.18.06_AM.jpeg"
 video: "/uploads/2021/videos-BL01_MARIO_GARCIA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se rebaso la meta de abrigos que abrazan "
 front: false
 section: "Local"
-news_id: 190317
+redirect_from: /news/190317
 ---
 
 El director general del DIF municipal Mario Eduardo García Jiménez,  manifestó que la campaña abrigos que abrazan a recaudado más de 8 mil 500 abrigos  a pesar de que la convocatoria se concluyo el día  26 de noviembre, así mismo mencionó que  se sigue teniendo el apoyo de varias instancias privadas para sumarse a la campaña.

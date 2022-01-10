@@ -10,11 +10,11 @@ author: nil
 description: "Afirma Gobernadora que es un logro de su administración."
 image: "/uploads/2021/images-maru.jpg"
 video: "/uploads/2021/videos-MV05_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Liberación de productores muestra de coordinación"
 front: false
 section: "Local"
-news_id: 190257
+redirect_from: /news/190257
 ---
 
 Luego de darse a conocer que en breve serían liberados productores que fueron detenidos por la problemática de la presa La Boquilla, la Gobernadora de Chihuahua señalo que esto refleja el nivel de coordinación que se tiene entre los diversos niveles de gobierno.

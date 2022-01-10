@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fueron cinco las jóvenes integrantes del equipo de robótica de mujeres de Afganistán, quienes llegaron a México al salir de su país huyendo del régimen talibán"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México salvó nuestras vidas y sueños; llegan al país refugiadas de Afganistán"
 front: false
 section: "Nacional"
-news_id: 187082
+redirect_from: /news/187082
 ---
 
 Esta tarde la Secretaría de Relaciones Exteriores informó de la llegada a México de cinco jóvenes integrantes del equipo de robótica de mujeres de Afganistán, quienes salieron de su país huyendo del régimen talibán. 

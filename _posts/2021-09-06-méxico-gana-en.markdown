@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con un penal bien cobrado por Orbelín Pineda, la selección mexicana se impuso 1-0 a los ticos en el Estadio Nacional "
 image: "/uploads/2021/images-mexico-vencio-a-costa-rica-5_0_45_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México gana en Costa Rica y es líder del Octagonal"
 front: false
 section: "Deportes"
-news_id: 187454
+redirect_from: /news/187454
 ---
 
 México le metió intensidad e inteligencia al duelo frente a Costa Rica cuando fue necesario. El rival puso poca resistencia, solo al final del partido puso en alerta al Tricolor, que con un penal bien cobrado por Orbelín Pineda al minuto 44, sumó su segunda victoria en el Octagonal final de la Concacaf. 

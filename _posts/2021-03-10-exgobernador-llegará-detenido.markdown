@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exmandatario deberá ser presentado ante Tribunal estatal una vez extraditado."
 image: "/uploads/2021/images-ESPINOZA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW02_JORGE_ESPINOZZA.mp3"
 alt: "Exgobernador llegará detenido -  Consejero"
 front: false
 section: "Local"
-news_id: 183375
+redirect_from: /news/183375
 ---
 
 “Va a llegar detenido de los Estados Unidos y va a seguir detenido” fueron las palabras del Consejero Jurídico del Estado, Jorge Espinoza Cortés, al señala que la suspensión lograda por el exmandatario deberá ser presentado ante Tribunal estatal una vez extraditado. Esto al ser cuestionado del amparo, el cual ya le fue negado según palabras del funcionario.

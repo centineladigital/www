@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Es necesario llevar comprobante de vacunación de primera dosis, identificación oficial y acudir el día y la fecha correspondiente"
 image: "/uploads/2021/images-DELICIAS_VACUNACION_1.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia mañana aplicación de segunda dosis de vacuna anti-COVID en Delicias"
 front: false
 section: "Local"
-news_id: 183857
+redirect_from: /news/183857
 ---
 
 La subdirectora de Medicina Preventiva y Promoción de la Salud de la Secretaría de Salud, Wendy Ávila Coronado, informó que mañana miércoles 14 de abril inicia la aplicación de la segunda dosis de la vacuna anti-COVID para adultos mayores en la ciudad de Delicias.

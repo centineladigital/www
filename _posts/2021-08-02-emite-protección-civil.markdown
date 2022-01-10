@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Coordinación Estatal de Protección Civil (CEPC) emitió una alerta por lluvias fuertes y tormentas eléctricas en la ciudad de Chihuahua, que se prevé comiencen dentro de entre media hora y una hora   "
 image: "/uploads/2021/images-LLUVIAS_CUU.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Protección Civil alerta por lluvias y tormentas eléctricas en la ciudad de Chihuahua"
 front: false
 section: "Local"
-news_id: 186215
+redirect_from: /news/186215
 ---
 
 Se espera comiencen dentro de una hora aproximadamente, por lo que piden tomar precauciones; también se advierte a la población de  Namiquipa, Guerrero, Cuauhtémoc, Aldama, Camargo, Allende, Jiménez, López y Coronado.

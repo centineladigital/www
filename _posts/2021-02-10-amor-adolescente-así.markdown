@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Chloë Grace Moretz y Brooklyn Beckham llamaron la atención cuando comenzaron un romance, sin embargo, éste tuvo muchos altibajos. "
 image: "/uploads/2021/images-el-romance-entre-los-famosos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Amor adolescente! Así fue el romance entre Chloë Grace Moretz y Brooklyn Beckham"
 front: false
 section: "Espectáculos"
-news_id: 182834
+redirect_from: /news/182834
 ---
 
 En Hollywood es común que los famosos sorprendan con sus romances y sobre todo si son juveniles. Uno de los más mediáticos y que causó sensación fue el noviazgo que mantuvieron la actriz Chloë Grace Moretz y el hijo de David y Victoria Beckham, Brooklyn Beckham, quien a sus 21 años ya está comprometido, aunque no precisamente con la actriz. La historia de amor entre Chloë Grace Moretz y el primogénito de David Beckham comenzó en el 2014 cuando los actores fueron vistos paseando en las calles de Los Ángeles y aunque en esos momentos no confirmaron su relación, los captaron juntos en diversas ocasiones, sin embargo, en agosto del 2015 los famosos dejaron de seguirse en Twitter, algo que confirmó que su romance había llegado a su fin. 

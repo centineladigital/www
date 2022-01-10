@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los migrantes llegaron a las 08:30 horas al Aeropuerto Internacional Carlos Rovirosa, en Villahermosa, procedentes de MCAllen, Texas, y serán escoltados por la Guardia Nacional hasta la estación migratoria de 'El Ceibo'. "
 image: "/uploads/2021/images-migrantes-escoltados-elementos-guardia-nacional.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Deportan a más de 200 migrantes de Texas a Villahermosa, Tabasco"
 front: false
 section: "Nacional"
-news_id: 187936
+redirect_from: /news/187936
 ---
 
 El gobierno de Estados Unidos, en coordinación con las autoridades mexicanas y el Instituto Nacional de Migración (INM), deportados a más de 200 migrantes de distintas nacionalidades, procedentes de McAllen, Texas, a Villahermosa.  

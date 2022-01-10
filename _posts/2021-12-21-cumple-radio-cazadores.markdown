@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El programa de la Universidad Tecnológica de Chihuahua se transmite por la frecuencia 106.9 FM gracias al apoyo de Radio Universidad de la UACH"
 image: "/uploads/2021/images-CAZADORESRADIO_(4).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cumple “Radio Cazadores” de la UTCH en RU 150 programas al aire"
 front: false
 section: "Local"
-news_id: 191079
+redirect_from: /news/191079
 ---
 
 Este mes de diciembre “Cazadores en RU” cumple 150 programas al aire, espacio radiofónico que se ha convertido en uno de los canales de difusión con más impacto en la sociedad chihuahuense, para conocer sobre las actividades, programas y proyectos de la Universidad Tecnológica de Chihuahua (UTCH).

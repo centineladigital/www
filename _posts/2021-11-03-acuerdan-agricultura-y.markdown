@@ -14,11 +14,11 @@ author: nil
 description: "La medida será aplicada para dar valor agregado a la producción de hortalizas, como cebolla y chile, en beneficio de agricultores y consumidores"
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-03_at_16.23.20.jpeg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-11-03_at_16.25.58.mp4"
-audio: "nil"
+audio: nil
 alt: "Acuerdan Agricultura y Gobierno de Chihuahua fortalecer inocuidad en producción de hortalizas; sin evidencia, supuesta presencia de Salmonella Oranienburg en cebollas mexicanas"
 front: false
 section: "Local"
-news_id: 189530
+redirect_from: /news/189530
 ---
 
 Acuerdan Agricultura y Gobierno de Chihuahua fortalecer inocuidad en producción de hortalizas; sin evidencia, supuesta presencia de Salmonella Oranienburg en cebollas mexicanas

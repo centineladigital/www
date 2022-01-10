@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Eugenio Derbez lamentó la muerte de su amigo y compañero Sammy Pérez, comediante que participó junto a él en XHDerbez y en la película No se aceptan devoluciones. ¿Qué dijo el famoso? "
 image: "/uploads/2021/images-eugenio-derbez-reacciona-muerte-sammy.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me duele, era un alma buena -  Eugenio Derbez reacciona a muerte de Sammy Pérez; así lo recuerda"
 front: false
 section: "Espectáculos"
-news_id: 186126
+redirect_from: /news/186126
 ---
 
 Eugenio Derbez, famoso actor y comediante, reaccionó a la muerte de su amigo y compañero Sammy Pérez con quien participó en el programa XHDerbez y en la película No se aceptan devoluciones. El comediante catalogó a Sammy como un alma buena, un gran ser humano que brillaba en donde lo pusieran. Te contamos lo que dijo el famoso sobre su compañero y amigo.  

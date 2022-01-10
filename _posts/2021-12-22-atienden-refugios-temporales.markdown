@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los refugios seguirán brindando atención en un horario de 7:00 pm a 7:00 am"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atienden refugios temporales a 394 personas en lo que va de la temporada invernal"
 front: false
 section: "Local"
-news_id: 191117
+redirect_from: /news/191117
 ---
 
 Con el objetivo de brindar seguridad y apoyo a quienes más lo necesitan en esta temporada invernal, el Gobierno Municipal, a través del DIF, en colaboración con  la Coordinación Municipal de Protección Civil y la Dirección de Seguridad Pública pone a disposición de la ciudadania los refugios temporales Tricentenario y Mármol III.

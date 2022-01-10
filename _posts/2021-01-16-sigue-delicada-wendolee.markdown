@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante mencionó que la infección que padece su hija Hannah se originó en la placenta.  "
 image: "/uploads/2021/images-wendolee-academia-revela-hija-continua_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sigue delicada -  Wendolee, de 'La Academia', comparte que su hija continúa hospitalizada"
 front: false
 section: "Espectáculos"
-news_id: 182196
+redirect_from: /news/182196
 ---
 
 Wendolee Ayala, ex integrante de La Academia, dio a conocer que su hija recién nacida se encuentra "muy delicada" de salud, por lo que continúa hospitalizada. La cantante, quien presentó serias complicaciones durante el parto de su  bebé, mencionó que la infección que padece Hannah se originó en la placenta. 

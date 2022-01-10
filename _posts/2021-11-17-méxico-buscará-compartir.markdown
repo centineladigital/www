@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "López-Gatell dijo que durante la cumbre en Washington se propondrá fortalecer cadenas de suministro para tener una mejor respuesta ante una pandemia. "
 image: "/uploads/2021/images-subsecretario-salud-hugo-lopez-gatell-18_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México buscará compartir producción y distribución de vacunas con EU y Canadá -  Ssa"
 front: false
 section: "Nacional"
-news_id: 189910
+redirect_from: /news/189910
 ---
 
 El subsecretario de Prevención y Promoción de la Salud, Hugo López-Gatell, informó que México propondrá crear un mecanismo de producción y distribución de vacunas contra el covid-19 durante la cumbre de líderes de América del Norte que se llevará a cabo mañana. 

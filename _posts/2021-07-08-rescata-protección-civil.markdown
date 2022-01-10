@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El extravío ocurrió desde la tarde del lunes 5 de julio. Fue gracias a la llamada de emergencia que uno de ellos hizo al sistema 9-1-1, que se logró conocer su ubicación aproximada, en una zona a 5 kilómetros del rancho denominado “Los Panchos”.   "
 image: "/uploads/2021/images-WhatsApp_Image_2021-07-08_at_14.51.43_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rescata Protección Civil a 12 migrantes extraviados en los límites de Chihuahua y Coyame"
 front: false
 section: "Local"
-news_id: 185483
+redirect_from: /news/185483
 ---
 
 Un grupo de 12 migrantes originarios de Ecuador, Guatemala y del sur del país, que se encontraban extraviados en una zona ubicada en los límites de los municipios de Chihuahua y Coyame del Sotol, fueron rescatados en distintos operativos por personal de la Coordinación Estatal de Protección Civil.

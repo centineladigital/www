@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El servicio de recolección de basura, ya que es servicio primario de suma importancia que le da orden y estabilidad a la comunidad y es uno de los ejes que permiten hacer de Chihuahua una ciudad más competitiva. "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-21_at_10.38.07.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Audio_Alcalde_-_21_09.mp3"
 alt: "Reconoce Alcalde labor de empelados del área de recolección de basura del Municipio"
 front: false
 section: "Local"
-news_id: 187909
+redirect_from: /news/187909
 ---
 
 Durante su visita al Patio II de la Dirección de Servicios Públicos Municipales, el alcalde de Chihuahua, Marco Bonilla Mendoza, reconoció el trabajo que realizan los empleados del área de recolección de basura, previo al inicio de turno de este martes, en donde además comentó que debido a su entrega y pasión por la labor que desempeñan diariamente, se logra brindar un servicio totalmente vital para las familias chihuahuenses.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz habló sobre la denuncia que interpuso en contra de su ex, el actor Jonathan Islas, por el delito de violencia familiar. "
 image: "/uploads/2021/images-fabiola-campomanes-denuncio-violencia-familiar_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fabiola Campomanes revela que su ex fue vinculado a proceso tras agredirla físicamente"
 front: false
 section: "Espectáculos"
-news_id: 185398
+redirect_from: /news/185398
 ---
 
 Fabiola Campomanes acudió el pasado martes a una audiencia en los juzgados de la Ciudad de México debido a la denuncia que interpuso hace ya dos años en contra de su ex pareja, Jonathan Islas, quien la agredió verbal y físicamente. Al salir del Poder Judicial la famosa confirmó que el actor fue vinculado a proceso por el delito de violencia familiar.  

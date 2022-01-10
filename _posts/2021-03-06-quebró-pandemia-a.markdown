@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A partir de diciembre que empezaron a trabajar de forma continua, el resto ha obtenido rentabilidad"
 image: "/uploads/2021/images-omar_armendariz_rep_restaurantes_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Quebró pandemia a 70 restaurantes afiliados a Canaco"
 front: false
 section: "Local"
-news_id: 183312
+redirect_from: /news/183312
 ---
 
 Omar Armendáriz, vicepresidente general de la Canaco, manifestó que a pesar de que el sector restaurantero ha registrado una recuperación en los últimos meses, a la fecha se suman alrededor de 70 negocios de este giro afiliados a la cámara que debieron cerrar derivado de la crisis económica ocasionada por la pandemia.

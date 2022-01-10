@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Premios consistentes en bicis,  tabletas electrónicas y tarjetas de Netflix"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abren convocatoria para “Calaveritas Ambientales” Edición 2021"
 front: false
 section: "Local"
-news_id: 189041
+redirect_from: /news/189041
 ---
 
 Con la finalidad de fomentar la cultura y cuidado del medio ambiente a través de nuestras tradiciones invita a la población en general a ser parte del tradicional concurso denominado “Calaveritas Ambientales”, organizado por la Secretaría de Desarrollo Urbano y Ecología (Sedue), que está cargo de su titular Gabriel Valdez Juárez.

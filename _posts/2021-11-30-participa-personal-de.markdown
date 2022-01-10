@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se busca potencializar el desarrollo integral y armónico de niñas y niños menores de seis años "
 image: "/uploads/2021/images-Educación_Inicial-2_.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa personal de SEECH en Cuarto Congreso Internacional de Educación Inicial"
 front: false
 section: "Local"
-news_id: 190344
+redirect_from: /news/190344
 ---
 
 La educación inicial es el servicio que se brinda a niñas y niños menores de seis años de edad, con el propósito de potencializar su desarrollo integral y armónico en un ambiente de experiencias formativas, educativas y afectivas, que les permitan adquirir habilidades, hábitos, valores, autonomía, creatividad y actitudes necesarias en su desempeño personal y social.

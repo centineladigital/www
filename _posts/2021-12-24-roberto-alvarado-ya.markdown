@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se llegó Nochebuena, mañana es Navidad, y nada de nada en el Guadalajara con los refuerzos"
 image: "/uploads/2021/images-piojo_alvarado.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Roberto Alvarado ya no está tan seguro de ir a las Chivas"
 front: false
 section: "Deportes"
-news_id: 191183
+redirect_from: /news/191183
 ---
 
 Se llegó Nochebuena, mañana es Navidad, y nada de nada en el Guadalajara con los refuerzos.Hasta hace unos días, todo parecía indicar que el atacante Roberto Alvarado sería el primer fichaje de las Chivas para el Clausura 2022, en un cambio que mandaría a Uriel Antuna y Alejandro Mayorga al Cruz Azul.

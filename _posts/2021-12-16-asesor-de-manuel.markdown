@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Javier Romo Michaud se desempeña actualmente como asesor del director general de la Comisión Federal de Electricidad con un sueldo mensual de 54 mil pesos"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asesor de Manuel Bartlett fue director jurídico de Emilio Lozoya en Pemex"
 front: false
 section: "Nacional"
-news_id: 190916
+redirect_from: /news/190916
 ---
 
 Javier Romo Michaud, exasesor jurídico de Emilio Lozoya Austin cuando era director general de Petróleos Mexicanos, se desempeña actualmente como asesor de Manuel Bartlett Díaz, director de la Comisión Federal de Electricidad (CFE).

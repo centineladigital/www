@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Debido a la propagación de la variante Delta y el aumento de casos de covid-19, sólo se permitirán cruces esenciales por al menos otro mes"
 image: "/uploads/2021/images-P6ZQGCGFHJAMNPSPXR7PJJCIYY.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU extiende cierre de fronteras con México y Canadá hasta el 21 de septiembre"
 front: false
 section: "Internacional"
-news_id: 186921
+redirect_from: /news/186921
 ---
 
 El departamento de Seguridad Nacional de Estados Unidos extendió las restricciones de los viajes no esenciales para los cruces terrestres y por ferry provenientes de México y Canadá hasta el 21 de septiembre. 

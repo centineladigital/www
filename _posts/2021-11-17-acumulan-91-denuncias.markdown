@@ -10,11 +10,11 @@ author: nil
 description: "De las cuales 50 pertenecían a la empresa  Aras y otras 41 contra Fibra Millennium."
 image: "/uploads/2021/images-CARLOS.jpg"
 video: "/uploads/2021/videos-MW04_CARLOS_MARIO.mp4"
-audio: "nil"
+audio: nil
 alt: "Acumulan 91 denuncias Aras y Fibra Milenuim por fraude"
 front: false
 section: "Local"
-news_id: 189934
+redirect_from: /news/189934
 ---
 
 Hasta este miércoles se contaba con 91 denuncias por fraude, de las cuales 50 pertenecían a la empresa  Aras y otras 41 contra Fibra Millennium declaró el Fiscal de Distrito de la Zona Centro, Carlos Mario Jiménez Holguín.

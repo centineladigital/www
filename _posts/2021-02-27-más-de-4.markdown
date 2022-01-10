@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las plazas laborales fueron a través de la bolsa de trabajo de la Dirección de Atención a Personas Mayores, Personas con Discapacidad y Prevención a la Discriminación en empresas incluyentes de la capital del estado"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Más de 4 mil 600 personas mayores o con discapacidad fueron vinculadas a un empleo por Desarrollo Social"
 front: false
 section: "Local"
-news_id: 183197
+redirect_from: /news/183197
 ---
 
 En el marco de la conmemoración del Día Nacional de la Inclusión Laboral, hoy 27 de febrero, el secretario de Desarrollo Social, Ramón Galindo Noriega, destacó el gran esfuerzo del gobierno de Javier Corral por apoyar a sectores vulnerables mediante la vinculación a un empleo.

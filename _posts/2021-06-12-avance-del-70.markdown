@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Debido a trabajos de conexión de sendas se verá afectado el acceso al área de estacionamiento de la Presa Rejón"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avance del 70 por ciento en construcción puente peatonal y ciclista parque Encino y Reliz"
 front: false
 section: "Local"
-news_id: 185005
+redirect_from: /news/185005
 ---
 
 El Gobierno Municipal por medio de la Dirección de Obras Públicas lleva un avance del 70 por ciento en la construcción del puente peatonal y ciclista parque Encino y Reliz, realizando a la fecha labores de terracerías en la senda de las inmediaciones así también como la colación de las losas de concreto sobre el puente.

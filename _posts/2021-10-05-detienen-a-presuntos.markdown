@@ -10,11 +10,11 @@ author: nil
 description: "Menores entre 14 y 16 años detenidos por asesinato de menor de 13 años."
 image: "/uploads/2021/images-ROBERTO.jpg"
 video: "/uploads/2021/videos-MM03_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Detienen a presuntos asesinos de menor"
 front: false
 section: "Local"
-news_id: 188391
+redirect_from: /news/188391
 ---
 
 Por el homicidio de una menor de edad tres menores fueron detenidos según lo dio a conocer el Fiscal General de Chiuahua, Roberto Fierro Duarte. Quien dio a conocer la detención de tres menores de edad de alrededor de 16 años quienes privaron de la vida a una menor de 13 años quien llevara por nombre Rosa Isabel Muñoz Campos.

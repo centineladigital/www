@@ -22,11 +22,11 @@ author: nil
 description: "Se estima que en el primer semestre del año el municipio obtenga una inversión de 20 millones de dólares"
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-27_at_10.10.43_AM.jpeg"
 video: "/uploads/2021/videos-BL05_JORDAN_OROZCO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Casi 40 MDD se invirtieron en 2021 "
 front: false
 section: "Local"
-news_id: 191251
+redirect_from: /news/191251
 ---
 
 José Jordán Orozco Director de Economía y Turismo del Municipio de Chihuahua manifestó que en los últimos meses del año 2021 se vio una gran inversión de empresas por casi 40 millones de dólares, señaló que hay muchos interesados en instalarse en la ciudad.

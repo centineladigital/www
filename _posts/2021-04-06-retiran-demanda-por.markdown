@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El demandante David Zindel admitió que el mexicano es el verdadero creador de La forma del agua (2017) y cualquier similitud entre ambos trabajos es casualidad. "
 image: "/uploads/2021/images-guillermo-toro-reconocido-director-forma_0_46_1024_636.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Retiran demanda por plagio contra 'La forma del agua' y Guillermo del Toro"
 front: false
 section: "Espectáculos"
-news_id: 183705
+redirect_from: /news/183705
 ---
 
 Los responsables de la demanda por presunto plagio de la película La forma del agua (The Shape of Water, 2017), dirigida por el mexicano Guillermo del Toro, retiraron sus acusaciones, poniendo fin a un proceso legal que ha durado poco más de dos años. La revista estadunidense The Hollywood Reporter señaló que la denuncia fue retirada el pasado viernes. El estudio Searchlight Pictures, la compañía detrás del largometraje del director de 56 años, emitió hoy un comunicado explicando su versión de lo sucedido. 

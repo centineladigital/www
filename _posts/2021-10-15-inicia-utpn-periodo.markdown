@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Interesados en ingresar a las carreras de Operaciones Comerciales y Procesos Industriales pueden iniciar proceso de inscripción en página www.utpn.edu.mx   "
 image: "/uploads/2021/images-Frente_UTPN.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Araceli_Aguirre_Medina__jefa_del_Departamento_de_Servicios_Escolares.mp3"
 alt: "Inicia UTPN periodo de entrega de fichas   "
 front: false
 section: "Local"
-news_id: 188779
+redirect_from: /news/188779
 ---
 
 La Universidad Tecnológica Paso del Norte (UTPN) inició el periodo de entrega de fichas para el examen de ingreso correspondiente al cuatrimestre enero-abril de 2022.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La franquicia de Tampa Bay se alza como campeón de la NFL por segunda vez en su historia al vencer en su estadio a los Jefes de Kansas City"
 image: "/uploads/2021/images-2525625.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brady y los Bucaneros son los 'jefes' del Super Bowl"
 front: false
 section: "Deportes"
-news_id: 182770
+redirect_from: /news/182770
 ---
 
 Los Bucaneros de Tampa Bay, de la mano del legendario Tom Brady, si impusieron sobre los Jefes de Kansas City en el Raymond James Stadium, llevándose la victoria en el Super Bowl LV y coronándose en la NFL por segunda ocasión en su historia.

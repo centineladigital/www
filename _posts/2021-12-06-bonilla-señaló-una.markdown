@@ -14,11 +14,11 @@ author: nil
 description: "El único delito que no se ha llegado a reducir es el de homicidio"
 image: "/uploads/2021/images-Imagen1.jpg"
 video: "/uploads/2021/videos-BL03_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "Bonilla señaló una baja en el índice delictivo  "
 front: false
 section: "Local"
-news_id: 190559
+redirect_from: /news/190559
 ---
 
 El Presidente municipal Marco Bonilla señaló que ante la invitación a la mesa de seguridad del gobierno del Estado se estuvieron tratando asuntos de incidencia en el municipio en torno a la inseguridad de las calles.

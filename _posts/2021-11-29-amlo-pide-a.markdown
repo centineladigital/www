@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Si el estatuto de un partido habla de que se pueden utilizar como procedimiento para elegir candidato las encuestas, pues hay que respetar” dijo el presidente López Obrador"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO pide a Monreal apegarse a las reglas para elegir candidato al 2024"
 front: false
 section: "Nacional"
-news_id: 190292
+redirect_from: /news/190292
 ---
 
 El presidente Andrés Manuel López Obrador pidió al senador Ricardo Monreal Ávila (Morena) apegarse a las reglas de su partido para elegir al sucesor en 2024.

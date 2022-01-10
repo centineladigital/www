@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te explicamos quién es Kingpin y cuál es su origen, por su aparición en Hawkeye y conexión con Daredevil de Netflix. "
 image: "/uploads/2021/images-kingpin-es-el-nuevo-villano.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Quién es Kingpin, el nuevo villano de 'Hawkeye' y el Universo Cinematográfico Marvel?"
 front: false
 section: "Espectáculos"
-news_id: 190903
+redirect_from: /news/190903
 ---
 
 ¡El oficial! Kingpin será uno de los nuevos villanos del Universo Cinematográfico de Marvel, lo cual es nuevo para algunos pero no tan nuevo para algunos más... y es que Vincent D'Onofrio es un viejo conocido de las producciones con el sello Marvel tras sus apariciones en la serie Daredevil. 

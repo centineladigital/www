@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La suma de esfuerzos entre personal de salud del Instituto y el equipamiento logran diariamente hasta 12 mil consultas de especialidades, más de mil atenciones en urgencias y 683 cirugías."
 image: "/uploads/2021/images-Foto_572-1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Refuerza personal de salud y tecnología de hospitales de Tercer Nivel del IMSS el bienestar de los derechohabientes"
 front: false
 section: "Local"
-news_id: 190816
+redirect_from: /news/190816
 ---
 
 La atención médica especializada en los hospitales de Tercer Nivel del Instituto Mexicano del Seguro Social (IMSS) la brinda personal de salud altamente capacitado en el uso de tecnología de punta para contribuir a mejorar la salud en aquellos derechohabientes con padecimientos complejos.

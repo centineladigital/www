@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Continúa Campaña Solidaria ¡Juntos sin frío! en favor de niñas, niños y adolescentes de la sierra y de la periferia de Juárez y Chihuahua"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Canaco mil 200 chamarras al DIF Estatal "
 front: false
 section: "Local"
-news_id: 189362
+redirect_from: /news/189362
 ---
 
 La presidenta del DIF Estatal, María Eugenia Galván Antillón, y el director Gabriel Eguiarte Fruns, recibieron de manos del director de la Cámara Nacional de Comercio (Canaco) Julio Chávez Ventura y del vicepresidente de comercio, Eduardo Arzaga Luévano, la donación de mil 200 chamarras que reunieron gracias a la suma de voluntades de sus agremiados.

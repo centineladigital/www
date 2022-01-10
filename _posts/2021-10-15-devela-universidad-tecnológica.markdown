@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La rectora manifestó que ha sido un camino lleno de muchos aprendizajes, de grandes satisfacciones, y de muchos retos cumplidos y por cumplir."
 image: "/uploads/2021/images-1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Devela Universidad Tecnológica de Parral galería de rectores"
 front: false
 section: "Local"
-news_id: 188777
+redirect_from: /news/188777
 ---
 
 En el marco de su décimo aniversario, la Universidad Tecnológica de Parral (UTP) reconoció en un acto simbólico a todo el personal que ha laborado durante los primeros 10 años de su historia.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente recordó que Estados Unidos donó recientemente 1.3 millones de vacunas Johnson & Johnson"
 image: "/uploads/2021/images-Sin_título.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU podría hacer un nuevo donativo de vacunas covid-19 a México, asegura AMLO"
 front: false
 section: "Nacional"
-news_id: 186007
+redirect_from: /news/186007
 ---
 
 El presidente Andrés Manuel López Obrador dijo que Estados Unidos podría hacer otro donativo de vacunas contra el covid-19 a México; sin embargo, no detalló la cantidad ni la fecha, pero recordó que existen buenas relaciones entre ambos gobiernos y que están dispuestos a ayudar.   

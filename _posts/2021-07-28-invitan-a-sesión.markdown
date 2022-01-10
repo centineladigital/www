@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La reunión se realizará el próximo jueves 29 de julio a las 9:00 horas tiempo de Chihuahua, a través de la plataforma digital Zoom, dirigida por oficiales del programa Chevenning y la Embajada Británica en México"
 image: "/uploads/2021/images-CHEVENING.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invitan a sesión informativa sobre becas para cursar maestría en el Reino Unido"
 front: false
 section: "Local"
-news_id: 186066
+redirect_from: /news/186066
 ---
 
 La Secretaría de Educación y Deporte (SEyD), a través del Departamento de Vinculación Sectorial, y la paraestatal Conocer  invita a estudiantes y egresados de universidades tanto públicas como privadas a la sesión informativa sobre el Programa de Becas Chevening, que ofrece la oportunidad de estudiar una maestría de un año en el Reino Unido.

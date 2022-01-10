@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Canciller mexicano comentó que ayer el secretario de Seguridad Nacional de Estados Unidos, Alejandro Mayorkas, le comunicó la apertura de la frontera común en los primeros días de noviembre"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU abrirá frontera con México a personas inmunizadas con vacunas aprobadas por la OMS -  Ebrard"
 front: false
 section: "Nacional"
-news_id: 188667
+redirect_from: /news/188667
 ---
 
 El secretario de Relaciones Exteriores, Marcelo Ebrard, informó que para la apertura de la frontera a actividades regulares entre México y Estados Unidos, el país vecino tomará en cuenta a las personas que estén inmunizadas con vacunas aprobadas por la Organización Mundial de la Salud (OMS).

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La joven -hija de Ricardo Crespo- pidió respeto por este proceso delicado; contó que le costó mucho hablar y que aún sigue reponiéndose emocionalmente. "
 image: "/uploads/2021/images-hija-ricardo-crespo-alza-voz.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me costó mucho hablar -  hija de Ricardo Crespo rompe el silencio tras presunto abuso sexual"
 front: false
 section: "Espectáculos"
-news_id: 183118
+redirect_from: /news/183118
 ---
 
 Ricardo Crespo, actor y cantante de Garibaldi, quien fue detenido y acusado por presuntamente abusar de su hija de 14 años, sigue envuelto en polémica. En medio de voces del medio artístico que lo defienden, así como de quienes condenan lo sucedido, recientemente su hija -la víctima- realizó una publicación en Instagram en donde agradeció el apoyo a quienes le creen sobre este tema tan delicado. A través del programa Ventaneando se dio a conocer que la hija de Ricardo Crespo había decidido hablar tras la detención de su padre por presunto abuso sexual. 

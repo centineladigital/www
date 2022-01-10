@@ -18,11 +18,11 @@ author: nil
 description: "Existen personas que se han estado auto liquidando lo que no es el caso de la síndica"
 image: "/uploads/2021/images-Carlos-Olson.pausa_.mx_.jpeg"
 video: "/uploads/2021/videos-BJ02_CARLOS_OLSON.mp4"
-audio: "nil"
+audio: nil
 alt: "Olivia Franco no tuvo liquidación, tuvo finiquito "
 front: false
 section: "Local"
-news_id: 189047
+redirect_from: /news/189047
 ---
 
 El diputado Carlos Olson manifestó que los casi 80 mil pesos que recibió la síndica municipal Olivia Franco no fueron por liquidación, pues asegura fueron por finiquito ya que trabajo 3 años y aunque se había ausentado para su candidatura solo fue un permiso.

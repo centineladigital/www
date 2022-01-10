@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Además, se sumó al llamado de fortalecer esta vinculación “para navegar en este escenario global, que sí, es complejo, incierto y volátil"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Green_City.mp3"
 alt: "Se suma Gobierno del Estado a iniciativa “Chihuahua Green City”"
 front: false
 section: "Local"
-news_id: 188363
+redirect_from: /news/188363
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Innovación y Desarrollo Económico (SIDE), participó en el lanzamiento del proyecto “Chihuahua Green City” el cual es financiado por la Unión Europea y que busca generar una economía circular entre empresas de la localidad, lo que convertirá a la ciudad de Chihuahua como un referente en sustentabilidad.

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Unidad que chocó con migrantes pasó caseta de peaje en Chiapa de Corzo, por lo que debió cruzar un retén permanente de la policía"
 image: "/uploads/2021/images-reten_edos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Retén de Migración se retiró antes del paso del tráiler”"
 front: false
 section: "Nacional"
-news_id: 190755
+redirect_from: /news/190755
 ---
 
 Chiapa de Corzo.— Pese a que el general Luis Rodríguez Bucio, comandante de la Guardia Nacional (GN), aseguró ayer que el tráiler que transportaba a los migrantes no había cruzado ningún puesto de migración, un agente dijo que el retén del Instituto Nacional de Migración (INM) ubicado a la salida de San Cristóbal de las Casas fue levantado minutos antes de que pasara la unidad.

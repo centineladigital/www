@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La ex suegra de Inés Gómez Mont, doña Tita Bravo –mamá de Javier Díaz – dio tremendas revelaciones sobre la pareja; sobre Puga dijo que reclutaba mujeres y sobre la conductora dijo saber en dónde se esconde. "
 image: "/uploads/2021/images-suegra-ines-gomez-mont-arremete.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es una delincuente -  Ex suegra de Inés Gómez Mont cree saber en dónde se esconde; acusa a su marido de secuestro"
 front: false
 section: "Espectáculos"
-news_id: 190589
+redirect_from: /news/190589
 ---
 
 Inés Gómez Mont, ex conductora de TV Azteca y amiga de Galilea Montijo, sigue dando de qué hablar, pues al parecer su ex suegra, doña Tita Bravo, cree saber en dónde se esconde la famosa junto a su esposo Víctor Manuel Puga, quien según la mujer, mandó a asesinar a una persona. En entrevista con TV Notas, la ex suegra de Inés Gómez Mont, doña Tita Bravo –mamá de Javier Díaz con el que la conductora tuvo cuatro hijos– dio tremendas revelaciones sobre la pareja, pues incluso acusó de asesino al actual esposo de la presentadora.

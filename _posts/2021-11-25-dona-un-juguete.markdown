@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal invita a participar en beneficio de las niñas y niños más necesitados"
 image: "/uploads/2021/images-unnamed_(17).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dona un juguete y participa en una experiencia navideña con la carrera “Santa’s Run”"
 front: false
 section: "Local"
-news_id: 190204
+redirect_from: /news/190204
 ---
 
 Dentro de los primeros 100 días de trabajo y resultados, el Gobierno Municipal en colaboración con las empresas Coca Cola y Ninjato Marketing, invita a participar en la carrera “Santa’s Run”, con la finalidad de recabar juguetes que se entregarán a niñas y niños de escasos recursos en nuestro municipio, durante las fiestas decembrinas.

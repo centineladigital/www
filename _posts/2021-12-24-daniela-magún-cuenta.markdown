@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras la crisis que ha provocado la pandemia, la cantante agradece poder compartir con sus padres y sus hijos la temporada decembrina. "
 image: "/uploads/2021/images-la-famosa-es-conductora-de.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Daniela Magún cuenta cómo celebra la Navidad -  tener salud y estar en familia son mis mejores regalos"
 front: false
 section: "Espectáculos"
-news_id: 191198
+redirect_from: /news/191198
 ---
 
 Fiel a la tradición en su hogar, Daniela Magún celebrará esta Navidad en familia. Y aunque reconoce que no es muy buena en el arte gastronómico, asegura con humor que ya está puesta para envolver los regalos, que es lo que mejor le sale. Ya en un tono más serio, comenta que la prioridad para ella será disfrutar a su familia y saber que todos están sanos, luego de la crítica experiencia que a escala global ha dejado la pandemia. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El director general del Seguro Social, Zoé Robledo, inauguró la 1ª Cumbre Internacional “Mi Lucha es Rosa”, organizada por Fundación IMSS"
 image: "/uploads/2021/images-Foto_475-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La guerra contra el cáncer de mama es una causa de todas y todos -  IMSS"
 front: false
 section: "Local"
-news_id: 189043
+redirect_from: /news/189043
 ---
 
 La guerra contra el cáncer de mama es una causa de todas y todos, el propósito es incidir en la disminución de muertes por esta enfermedad derivado del diagnóstico tardío y fortalecer a nivel interinstitucional la detección temprana y la atención oportuna, señaló el director general del Instituto Mexicano del Seguro Social (IMSS), maestro Zoé Robledo.

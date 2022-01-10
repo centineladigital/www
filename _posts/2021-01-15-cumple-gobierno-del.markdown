@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las quejas interpuestas no corresponden al territorio que ocupa el aeródromo, ni a la comunidad de Bosques de San Elías Repechique"
 image: "/uploads/2021/images-Aeropuerto_de_Creel__5.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cumple Gobierno del Estado todos los acuerdos con las comunidades aledañas al aeropuerto regional de Creel"
 front: false
 section: "Local"
-news_id: 182160
+redirect_from: /news/182160
 ---
 
 El Gobierno del Estado informa que ha cumplido cabalmente con todas las obligaciones instruidas en lo que refiere a la construcción del aeropuerto regional de Creel, en común acuerdo con las autoridades indígenas representantes de la comunidad Bosques de San Elías Repechique.

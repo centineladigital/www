@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hoy, la administración 2018-2021 entrega un municipio con cero deuda, liquidando préstamos que incluso administraciones pasadas le habían heredado al Municipio   "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Con honestidad, finanzas sanas y transparentes, juntos cumplimos”"
 front: false
 section: "Local"
-news_id: 187389
+redirect_from: /news/187389
 ---
 
 En este tercer año de Gobierno, respondimos a la confianza de los ciudadanos, y administramos, de forma honesta y transparente, el recurso público, afirmó la alcaldesa María Angélica Granados durante su Tercer Informe de Gobierno.

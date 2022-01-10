@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Rosalinda González Valencia está presuntamente relacionada con la operación financiera ilícita de un grupo de la delincuencia organizada. "
 image: "/uploads/2021/images-rosalinda-gonzalez-valencia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detienen a esposa de 'El Mencho', líder del Cártel Jalisco Nueva Generación"
 front: false
 section: "Nacional"
-news_id: 189862
+redirect_from: /news/189862
 ---
 
 Rosalinda González Valencia, esposa de Nemesio Oseguera Cervantes, El Mencho, líder del Cártel Jalisco Nueva Generación (CJNG), fue detenida por elementos del Ejército y de la Fiscalía General de la República en Zapopan, Jalisco. 

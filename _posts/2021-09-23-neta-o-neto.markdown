@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Durante la transmisión del programa de Netas Divinas, Natalia Téllez habló de su embarazo. Reveló el sexo de su bebé y habló de algunos posibles nombres. "
 image: "/uploads/2021/images-natalia-tellez-revela-sexo-bebe.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Neta o neto? -  Natalia Téllez revela el sexo de su bebé en 'Netas Divinas'; así se vivió el emotivo momento"
 front: false
 section: "Espectáculos"
-news_id: 187988
+redirect_from: /news/187988
 ---
 
 Natalia Téllez, conductora de televisión, sigue sorprendiendo a sus seguidores y compañeras de trabajo, luego de que informara que está embarazada. Y es que ahora la famosa sorprendió durante el programa en vivo de Netas Divinas, donde reveló el sexo de su bebé. 

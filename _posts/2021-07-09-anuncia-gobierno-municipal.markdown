@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los beneficiarios podrán acceder a una plataforma virtual de forma gratuita y así poder desarrollar su plan de negocios. Además de capacitaciones opcionales como charlas de finanzas, mercadotecnia y aspectos legales. "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia Gobierno Municipal becas para empresas de reciente creación"
 front: false
 section: "Local"
-news_id: 185509
+redirect_from: /news/185509
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Económico y Turístico, invita a los emprendedores del municipio a aprovechar un subsidio del 100% en el proceso de incubación por medio del cual podrán impulsar su negocio a través de la Incubadora de Empresas del Municipio (INCUBECH).

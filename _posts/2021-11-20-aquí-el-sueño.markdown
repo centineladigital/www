@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En Sesión Solemne del Congreso del Estado por el 111 Aniversario de la gesta heroica"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Aquí el sueño nacional se convirtió en acción”; encabeza Gobernadora conmemoración del inicio de la Revolución en Ejido Pascual Orozco"
 front: false
 section: "Local"
-news_id: 190034
+redirect_from: /news/190034
 ---
 
 La gobernadora Maru Campos Galván asistió a la Sesión Solemne de la LXVII Legislatura del Congreso del Estado, en la en la Sección Municipal de Pascual Orozco, Municipio de Guerrero, con motivo de los festejos del Aniversario del Inicio de la Revolución Mexicana.

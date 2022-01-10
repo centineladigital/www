@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La dependencia municipal pidió a los chihuahuenses acatar las recomendaciones para evitar problemas de salud derivados de las altas temperaturas."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se espera fin de semana caluroso con cielos parcialmente nublados"
 front: false
 section: "Local"
-news_id: 184582
+redirect_from: /news/184582
 ---
 
 La Coordinación Municipal de Protección Civil informa que se espera un fin de semana caluroso con cielos parcialmente nublados en la capital que ayudarán a mitigar la intensidad de los rayos del sol, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional, por ello es importante seguir las recomendaciones necesarias para evitar deshidrataciones o golpes de calor.

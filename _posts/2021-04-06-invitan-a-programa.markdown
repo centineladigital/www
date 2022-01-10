@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Programa en el cual se realizarán circuitos culturales para resaltar la riqueza cultural de todos los municipios del estado, apoyando a proyectos con un de 15 mil pesos."
 image: "/uploads/2021/images-MONICA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM04_ANDREA_MONTES.mp3"
 alt: "Invitan a programa Raíz México"
 front: false
 section: "Local"
-news_id: 183721
+redirect_from: /news/183721
 ---
 
 Con el fin de fomentar la cultura y que los artistas puedan desarrollarse este martes se dio a conocer la convocatoria Raíz México: Giras artísticas. Programa en el cual se realizarán circuitos culturales para resaltar la riqueza cultural de todos los municipios del estado, apoyando a proyectos con un de 15 mil pesos.

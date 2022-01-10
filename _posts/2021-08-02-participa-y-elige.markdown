@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Dirección de Desarrollo Humano y Educación invita a participar en la votación virtual para elegir al cantante más popular del concurso de canto “Expresa tu Talento, Época de Oro”"
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa y elige al cantante más popular del concurso “Expresa tu Talento”"
 front: false
 section: "Local"
-news_id: 186195
+redirect_from: /news/186195
 ---
 
 Como parte de las actividades conmemorativas del “mes de la Juventud”, el Gobierno Municipal a través de la Dirección de Desarrollo Humano y Educación invita a participar en la votación virtual para elegir al cantante más popular del concurso de canto “Expresa tu Talento, Época de Oro”.

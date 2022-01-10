@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz también habló sobre el movimiento Me Too que surgió en Estados Unidos en el año 2017 y que sigue vigente hasta la fecha. "
 image: "/uploads/2021/images-angelica-vale-sorprende-delgada-figura.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Quiere que vaya sola -  Angélica Vale revela que sufrió acoso sexual de un productor a los 14 años"
 front: false
 section: "Espectáculos"
-news_id: 184701
+redirect_from: /news/184701
 ---
 
 Angélica Vale en entrevista con el programa estadunidense Chisme en Vivo reveló que fue víctima de acoso sexual a la edad de 14 años por parte de un productor musical; sin embargo, evitó que la situación pasara a mayores. 

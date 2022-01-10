@@ -14,11 +14,11 @@ author: nil
 description: "una ciudad competitiva conglomera lo mejor de un municipio como la generación de derramas económicas y también la atracción de inversiones de diversos países"
 image: "/uploads/2021/images-BONILLA.jpeg"
 video: "/uploads/2021/videos-BJ03_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Reconoce Bonilla la labor de INDEX "
 front: false
 section: "Local"
-news_id: 189792
+redirect_from: /news/189792
 ---
 
 Se llevó a cabo la reunión con presidentes de INDEX de diversas partes del país , con la finalidad de llevar a sus agremiados diversos temas de capacitación, como el programa de desarrollo de proveedores, devoluciones del IVA, temas de aduanas, entre otros. Por lo que el alcalde del municipio Marco Antonio Bonilla Mendoza, reconoció el trabajo de INDEX.

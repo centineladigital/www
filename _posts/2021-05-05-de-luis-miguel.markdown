@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En 'El exorcismo de Carmen Farías' la actriz interpreta a una periodista que regresa a su lugar de origen en busca de respuestas."
 image: "/uploads/2021/images-exorcismo-carmen-farias-camila-sodi.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "De Luis Miguel a 'El exorcismo de Carmen Farías'... Camila Sodi debuta en cine de terror"
 front: false
 section: "Espectáculos"
-news_id: 184284
+redirect_from: /news/184284
 ---
 
 Diversificar personajes es importante para Camila Sodi, por ello decidió debutar en el cine de terror y dejar atrás lo hecho en otras historias como Luis Miguel, la serie. Ahora se mete en la piel de una periodista que, tras una pérdida importante, decide volver al lugar donde creció para resolver los misterios de su familia. “Es una diversificación de géneros y personajes, eso le hace tanta falta a nuestro cine nacional. Acepté debutar en el terror porque el guion es increíble, cuando lo leí me llamó la atención, el personaje principal pasa solo mucho tiempo; fue un reto ver cómo hacer para construir el personaje y la atmósfera”, dijo Camila Sodi a M2. 

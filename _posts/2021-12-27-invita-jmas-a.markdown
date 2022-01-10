@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Hasta el último minuto del 31 de diciembre de 2021, mantiene descuentos del 100% en recargos y del 90% en adeudos; a partir de enero de 2022 la deducción en recargos será del 80% y en adeudos del 90%   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Invita JMAS a aprovechar la última semana de descuentos del programa “Ponte al Corriente”"
 front: false
 section: "Local"
-news_id: 191244
+redirect_from: /news/191244
 ---
 
 La Junta Municipal de Agua y Saneamiento (JMAS) Chihuahua, invita a la población a aprovechar la última semana de descuentos para las cuentas de uso doméstico que tienen recargos y adeudos en el servicio de agua potable y drenaje, como parte de su programa “Ponte al Corriente”.

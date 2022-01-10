@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exmagistrada dona material de consulta a Poder Judicial."
 image: "/uploads/2021/images-AVELINA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW01.mp3"
 alt: "Donan más de mil libros a poder judicial"
 front: false
 section: "Local"
-news_id: 185072
+redirect_from: /news/185072
 ---
 
 Una aportación de más de mil libros fueron recibidos por parte del Tribunal Superior de Justica, donación realizada por parte de la magistrada en retiro Avelina Morales Guzmán; este material fue utilizado en el desempeño de su labor dentro del Poder Judicial de la Federación a lo largo de 45 años de trabajo.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz expresó su preocupación ante los últimos enfrentamientos suscitados en el país y pidió un alto a la violencia. "
 image: "/uploads/2021/images-gal-gadot-reacciona-ataques-israel_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mi corazón está roto; mi país está en guerra -  Gal Gadot reacciona a conflicto en Israel"
 front: false
 section: "Espectáculos"
-news_id: 184430
+redirect_from: /news/184430
 ---
 
 Los enfrentamientos que se desataron en Israel y la Franja de Gaza han conmocionado al mundo, en especial tras el aumento de los violentos ataques suscitados esta semana, que incluyeron el lanzamiento de más de 500 mísiles, además del uso de bombas y globos incendiarios. En medio de la alarmante situación, embajadas de países como México, Estados Unidos, Alemania y Rusia han pedido un alto al conflicto, un llamado al que se unió Gal Gadot.  

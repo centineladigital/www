@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto ya que la federación ha destruido instituciones que beneficiaban en diversos ámbitos."
 image: "/uploads/2021/images-RIGGS.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02_MIGUEL_RIGGS.mp3"
 alt: "Invita Riggs a elegir conscientemente a representados"
 front: false
 section: "Local"
-news_id: 183695
+redirect_from: /news/183695
 ---
 
 Miguel Riggs, Diputado Federal, invitó a la población a emitir un voto de forma consciente, esto mediante el conocimiento de quiénes y cuáles son los candidatos que aparecerán en la boleta en el mes de junio.

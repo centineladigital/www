@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En sesión especial anual, el director general del Seguro Social, Zoé Robledo, indicó que el Instituto se encuentra en un proceso de diversificación en su cartera de inversiones."
 image: "/uploads/2021/images-Foto_471-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Comisión de Inversiones Financieras del IMSS presentó su informe anual"
 front: false
 section: "Local"
-news_id: 188938
+redirect_from: /news/188938
 ---
 
 La Comisión de Inversiones Financieras del Instituto Mexicano del Seguro Social (IMSS), presentó en sesión especial el estado que guardan las inversiones financieras de las distintas reservas y del fondo laboral que forman parte del patrimonio que administra la institución.

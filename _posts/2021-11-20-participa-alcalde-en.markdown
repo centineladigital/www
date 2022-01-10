@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Buscan erradicar la violencia contra las mujeres"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa Alcalde en comisión de seguimiento de la declaratoria Alerta de Género"
 front: false
 section: "Local"
-news_id: 190035
+redirect_from: /news/190035
 ---
 
 El alcalde de Chihuahua, Marco Bonilla, participó en la comisión que le dará seguimiento a la declaratoria de Alerta de Género que fue emitida por la Comisión Nacional de los Derechos Humanos (CNDH), donde se buscaron estrategias y acciones coordinadas en la capital y los municipios de Cuauhtémoc, Juárez, Parral y Guadalupe y Calvo, para atender la violencia en contra de la mujer.

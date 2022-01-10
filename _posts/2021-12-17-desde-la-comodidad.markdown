@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Luis Durán también adelantó la posibilidad de que la plataforma de streaming está trabajando para que tenga en su catalogo ocho de los 10 éxitos de taquilla de este año 2021. "
 image: "/uploads/2021/images-spiderman-way-home-llegara-hbo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Desde la comodidad de tu hogar! ‘Spiderman -  No Way Home’ llegaría a HBO Max y a Netflix en 2022"
 front: false
 section: "Espectáculos"
-news_id: 190989
+redirect_from: /news/190989
 ---
 
 Encontrándose apenas en sus primeros días de estreno, la nueva película de Marvel: ‘Spider-Man: No Way Home’, ya tiene una fecha tentativa para ingresar al catalogo de HBO Max. 

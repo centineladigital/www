@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-MM04_JAVIER_CORRAL.mp4"
 alt: "De acuerdo en el regreso a clases -  Corral"
 front: false
 section: "Local"
-news_id: 186260
+redirect_from: /news/186260
 ---
 
 “Nosotros estamos de acuerdo en el regreso a clases” fueron las palabras del Gobernador de Chihuahua al ser cuestionado respecto al regreso presencial a las aulas, afirmando que esto no representa que no se pueda dar un revés a la decisión ya que dentro de la pandemia se ha tenido que vivir a “prueba y error”.

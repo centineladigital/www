@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El área en donde hoy se encuentra Big Boy es de una hectárea y media, pero llegará a abarcar más de dos hectáreas, pues se le construirá una alberca especial para sus necesidades y se plantarán aún más árboles de la región para que el elefante tenga más espacios con sombra. "
 image: "/uploads/2021/images-elefante-asiatico-big-boy-vivio_55_34_1090_679.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Elefante 'Big Boy' ya tiene hogar; inauguran santuario en Culiacán para animales rescatados"
 front: false
 section: "Buenas Noticias"
-news_id: 185816
+redirect_from: /news/185816
 ---
 
 El elefante asiático Big Boy –que vivió cinco años encadenado de sus patas bajo la carpa de un circo–, se convirtió en el primer inquilino y embajador del santuario Ostok Animal Protection & Sanctuary, que abrió sus puertas este lunes, en la localidad de la Campana en Culiacán, Sinaloa,  para albergar a animales silvestres rescatados del tráfico ilegal de especies, caza furtiva y abandono. 

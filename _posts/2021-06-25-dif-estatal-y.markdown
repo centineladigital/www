@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La asignación de estos apoyos funcionales se realizará bajo una serie de requisitos que los interesados deberán cumplir ante los DIF Municipales de los 67 municipios o en los distintos CREE, CRI y CRIF del estado"
 image: "/uploads/2021/images-WhatsApp_Image_2021-06-24_at_3.05.28_PM_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "DIF Estatal y Fundación Telmex invitan inscribirse para entrega de sillas de ruedas"
 front: false
 section: "Local"
-news_id: 185242
+redirect_from: /news/185242
 ---
 
 La Dirección de Rehabilitación del DIF Estatal Chihuahua, en vinculación con Fundación Telmex, invita a inscribirse a través de los 67 Sistemas DIF Municipales (SMDIF) para la asignación de mil 200 sillas de ruedas estándar.

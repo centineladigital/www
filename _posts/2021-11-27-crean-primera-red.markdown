@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El programa intervendrá en diferentes puntos estratégicos del estado, que son considerados como prioritarios"
 image: "/uploads/2021/images-unnamed_(21).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Crean primera Red de Seguridad Ciudadana en Chihuahua"
 front: false
 section: "Local"
-news_id: 190262
+redirect_from: /news/190262
 ---
 
 La Subsecretaría de Participación Ciudadana y Prevención del Delito firmó con vecinos de colonias de la zona norte de la ciudad de Chihuahua, el acta constitutiva para la creación de la primera Red de Seguridad Ciudadana, que promueve la participación de la sociedad en acciones enfocadas a disminuir los índices delictivos.

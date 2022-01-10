@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Garantiza seguridad al usuario al momento de realizar traslados de dinero en efectivo"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno Municipal a utilizar el servicio de “Acompañamiento Bancario"
 front: false
 section: "Local"
-news_id: 188585
+redirect_from: /news/188585
 ---
 
 Con el objetivo de cuidar el patrimonio de los chihuahuenses, el Gobierno Municipal, a través de la Dirección de Seguridad Pública, continúa ofreciendo el servicio de “Acompañamiento Bancario”, para brindar resguardo policial y garantizar un trayecto seguro a quienes manejan efectivo, con solo realizar una llamada al 9-1-1 para solicitar el apoyo.

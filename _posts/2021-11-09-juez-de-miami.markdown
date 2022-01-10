@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "“Existe causa probable para creer que Duarte cometió los delitos imputados en la denuncia de extradición”, escribió en su decisión la juez Lauren Louis, de magistrada de la corte de Miami"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Juez de Miami ordena extraditar al exgobernador César Duarte a México"
 front: false
 section: "Nacional"
-news_id: 189679
+redirect_from: /news/189679
 ---
 
 Washington. Una corte de Florida decidió la noche del lunes que César Horacio Duarte Jáquez, exgobernador de Chihuahua acusado de malversación agravada y conspiración en México, es extraditable y por tanto será enviado al país para hacer frente a los cargos que se le imputan. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "EU distribuirá de tres a cuatro millones de dosis de la vacuna de Johnson & Johnson, en espera de la aprobación de las autoridades regulatorias"
 image: "/uploads/2021/images-2535093.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Listas, 4 millones de vacunas Johnson & Johnson en Estados Unidos"
 front: false
 section: "Internacional"
-news_id: 183138
+redirect_from: /news/183138
 ---
 
 Estados Unidos distribuirá de tres a cuatro millones de dosis de la vacuna covid de Johnson & Johnson la próxima semana, en espera de la autorización de la Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés), dijo el miércoles el coordinador de respuesta a la pandemia de la Casa Blanca, Jeff Zients.

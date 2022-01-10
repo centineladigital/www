@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante una entrevista en el programa 'Venga la Alegría', el youtuber afirmó que no siente amor por la actriz, aunque luego reveló que todo lo dicho se trataba de una broma. "
 image: "/uploads/2021/images-rey-grupero-y-cynthia-klitbo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Todo fue un engaño? Rey Grupero habla de su relación con Cynthia Klitbo"
 front: false
 section: "Espectáculos"
-news_id: 181914
+redirect_from: /news/181914
 ---
 
 La relación entre Cynthia Klitbo y Alberto Ordaz Rey Grupero no ha estado exenta de polémicas; desde las declaraciones de la actriz en las que arremetió contra sus haters, hasta la fotografía íntima con la que la pareja confirmó su relación, sin olvidar a Pati Chapoy y su comentario de que el youtuber "ya encontró a su mamá". Además,  en días recientes otro hecho relacionado con la pareja comenzó a cobrar eco en los medios de comunicación: una entrevista que la celebridad de internet ofreció al programa Venga la Alegría donde afirmó que su relación con la famosa tenía como fin levantar su carrera. Aunque al final de la charla con Flor Rubio y compañía, Rey Grupero reveló que estas indignantes declaraciones eran parte de una broma. 

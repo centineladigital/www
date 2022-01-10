@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Por el momento, el actor volverá a dar vida a Neo en Matrix Resurrections, que llega a los cines el 22 de diciembre. "
 image: "/uploads/2021/images-keanu-reeves-aduenara-taquilla-matrix_91_40_866_539.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Será el nuevo Wolverine? Keanu Reeves podría formar parte del Universo Cinematográfico de Marvel"
 front: false
 section: "Espectáculos"
-news_id: 190221
+redirect_from: /news/190221
 ---
 
 Desde hace meses se ha rumorado sobre la entrada de Keanu Reeves al Universo Cinematográfico Marvel (UCM). Los rumores apuntaban a que podría desempeñar el papel de Moon Knight o Kraven el Cazador, roles que ya han sido adjudicados a Oscar Isaac y Aaron Taylor-Johnson respectivamente. Aunque ya no dará vida a ninguno de estos personajes, el intérprete no ha cerrado la puerta a unirse al UCM. En una entrevista con Esquire le preguntaron por su posible fichaje por el UCM. "¿Acaso no es más grande que el universo? Es casi como un multiverso. Es un Marvel-verso", declaró. "Sería un honor. Hay algunos directores visionarios y realmente asombrosos, y están haciendo algo que nadie ha hecho nunca. Es especial en ese sentido, en términos de escala, ambición, producción. Sería genial ser parte de eso", añadió. 

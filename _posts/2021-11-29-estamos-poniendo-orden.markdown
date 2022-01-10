@@ -7,12 +7,12 @@ tags:
 author: nil
 description: " Por primera vez en años se tendrá un Presupuesto equilibrado anuncia Gobernadora   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " “Estamos poniendo orden en la casa. El gran problema financiero de nuestro Estado, se debe al mal uso de los créditos” -  Maru Campos"
 front: false
 section: "Local"
-news_id: 190326
+redirect_from: /news/190326
 ---
 
 “Estamos poniendo orden en la casa. El gran problema financiero en el que estaba nuestro Estado, se debe en gran parte, al mal uso que se le dio a los créditos de corto plazo”, declaró la gobernadora Maru Campo Galván, durante la presentación del Presupuesto de Egresos 2022.

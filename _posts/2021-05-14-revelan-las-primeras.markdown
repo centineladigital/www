@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En septiembre se estrenará la nueva versión de Cenicienta, protagonizada por Camila Cabello. A pocos meses del estreno se revelaron las primeras imágenes. "
 image: "/uploads/2021/images-camila-cabello-es-la-protagonista.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Revelan las primeras imágenes de Camila Cabello como 'Cenicienta'; así luce"
 front: false
 section: "Espectáculos"
-news_id: 184456
+redirect_from: /news/184456
 ---
 
 La cantante cubana nominada al Grammy Camila Cabello será la protagonista de la nueva versión del cuento Cenicienta, una producción original de Amazon Prime Video que tiene previsto su estreno mundial en más de 240 países el próximo mes de septiembre. Dirigida por Kay Cannon (Pitch Perfect), y con un reparto de estrellas que cuenta también con Idina Menzel y Billy Porter, entre otros, Cenicienta es un musical diferente que incorpora canciones de artistas internacionales del género pop, así como originales de Camila Cabello. 

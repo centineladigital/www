@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el programa en YouTube de Yordi, la actriz señaló que le gusta que me estén retando mentalmente; me encanta el reto mental, agradezco el reto mental."
 image: "/uploads/2021/images-la-actriz-fue-invitada-al.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nos sacaban con escolta -  Lolita Cortés recuerda su pleito con Jolette en 'La Academia'"
 front: false
 section: "Espectáculos"
-news_id: 185560
+redirect_from: /news/185560
 ---
 
 Lolita Cortés, la actriz que recientemente participó como jueza en el reality show Las Estrellas Bailan, del programa Hoy, fue la invitada del programa dominical en YouTube de Yordi Rosado, donde recordó su participación en el programa La Academia. "Empieza el programa y yo no sabía qué decir. Entonces, al lado mío tenía un güero que me imponía muchísimo, Arturo López Gavito, y hablaba con toda la rectitud, la cultura, la educación. Lo veía y decía: 'Qué simpático, voy a hablar como él'", contó la famosa sobre su llegada a La Academia. 

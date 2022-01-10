@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Manipularon los tanques donde trasladan este químico utilizado para potabilizar el agua"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrenan bomberos y personal de JMAS para actuar en caso de derrame y fuga de cloro"
 front: false
 section: "Local"
-news_id: 190441
+redirect_from: /news/190441
 ---
 
 Con el objetivo de coordinarse y saber cómo actuar en casos de derrames o fugas de gas cloro, una sustancia corrosiva que se utiliza para potabilizar el agua, el Heroico Cuerpo de Bomberos y la Junta Municipal de Agua y Saneamiento (JMAS), realizaron un simulacro para reforzar la prevención de accidentes o lesiones a las personas.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista con varios medios de comunicación, Montserrat Oliver aclaró que no es nuevo que los narcotraficantes paguen a famosos para sus servicios. "
 image: "/uploads/2021/images-monserrat-oliver-opina-famosos-viculados.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me da risa -  Montserrat Oliver asegura que era sabidísimo el vínculo entre narco y famosos"
 front: false
 section: "Espectáculos"
-news_id: 190430
+redirect_from: /news/190430
 ---
 
 El mundo del espectáculo está en llamas, luego de que se publicara el libro ‘Emma y las otras señoras del narco’ de la periodista Anabel Hernández, pues en él aparecen varios famosos y famosas de la farándula. Entre estos nombres resaltan los de Galilea Montijo, Sergio Mayer, Ninel Conde, Joan Sebastian, Charly de Garibaldi y más. Por ello, las opiniones al respecto no se han hecho esperar. Tal es el caso de Montserrat Oliver, quien asegura que este tema era muy sabido, por lo que se dijo incrédula de que esto ‘espante’. En entrevista con varios medios de comunicación, Montserrat Oliver aclaró que no es nuevo que los narcotraficantes paguen a famosos para sus servicios. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los duelos de octavos de final de la Liga de Campeones de Concacaf comienzan en febrero de 2022; Pumas, Cruz Azul, León y Santos serán los participantes de la Liga MX"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Clubes mexicanos conocen a sus rivales para la Concachampions 2022"
 front: false
 section: "Deportes"
-news_id: 190914
+redirect_from: /news/190914
 ---
 
 Los equipos mexicanos ya conocen a sus rivales por los octavos de final de la siguiente edición de la Liga de Campeones de la Concacaf, fase en la que se presentó un enfrentamiento entre clubes de la Liga MX y la MLS.

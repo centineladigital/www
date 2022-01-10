@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se repartieron en diversos establecimientos y colonias de la ciudad"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega IMM carteles con números de atención para casos de violencia contra las mujeres"
 front: false
 section: "Local"
-news_id: 190391
+redirect_from: /news/190391
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM), realizó la entrega en diversos puntos de la ciudad de los números de atención para casos de violencia contra la mujer y jurídico.

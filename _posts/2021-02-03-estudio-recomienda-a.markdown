@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La investigación solicitada por el Congreso de Eu indicó que retirar a las tropas de Afganistán sería una victoria para los talibanes."
 image: "/uploads/2021/images-2523256.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estudio recomienda a EU no retirar tropas de Afganistán"
 front: false
 section: "Internacional"
-news_id: 182682
+redirect_from: /news/182682
 ---
 
 Un estudio encargado por el Congreso de Estados Unidos recomendó el miércoles postergar el retiro de militares de Afganistán previsto para mayo, con la advertencia de que será una victoria para los talibanes.

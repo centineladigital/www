@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante su visita a Nueva York, Joe Biden mencionó que, gracias al cambio climático, estos desastres no se detendrán y Solo vendrán con más frecuencia y ferocidad. "
 image: "/uploads/2021/images-biden-pide-poblacion-consideracion-cambio_0_26_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El mundo enfrenta alerta roja por crisis climática; dice Biden tras visita a NY por 'Ida'"
 front: false
 section: "Internacional"
-news_id: 187537
+redirect_from: /news/187537
 ---
 
 El presidente de Estados Unidos, Joe Biden, dijo este martes que el mundo enfrenta una "alerta roja" por el "peligro" del cambio climático, al evaluar los daños causados por el pasaje del huracán Ida en Nueva York y Nueva Jersey. 

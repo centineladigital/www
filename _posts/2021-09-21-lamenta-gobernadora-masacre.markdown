@@ -10,11 +10,11 @@ author: nil
 description: "Se buscará protección de mujeres, esto luego de que dos víctimas pertenecían a este género."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MM04_MARU_CAMPOS.mp4"
-audio: "nil"
+audio: nil
 alt: "Lamenta Gobernadora Masacre de calle Palestina"
 front: false
 section: "Local"
-news_id: 187924
+redirect_from: /news/187924
 ---
 
 La Gobernadora de Chihuahua lamentó la violencia que se vive y señaló que dentro de su administración “se protegerá a mujeres”, esto luego de que se registrara la muerte de dos mujeres, una de ellas menor de edad.

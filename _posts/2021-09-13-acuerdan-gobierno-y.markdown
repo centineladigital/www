@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Recibe Gobernadora Maru Campos a dirigentes del STSGE"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-13_at_15.32.47_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acuerdan Gobierno y Sindicato relación de apoyo mutuo"
 front: false
 section: "Local"
-news_id: 187699
+redirect_from: /news/187699
 ---
 
 La Gobernadora Maru Campos Galván, acompañada por el Secretario General  de Gobierno, César Jáurequi Moreno y el Secretario de la Coordinación Ejecutiva de Gabinete, Luis Serrato Castell, recibió a dirigentes del Sindicato de Trabajadores al Servicio el Gobierno del Estado (STSGE).

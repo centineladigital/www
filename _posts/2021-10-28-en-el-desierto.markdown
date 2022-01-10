@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Lenny Kravitz se encuentra en México y sorprendió al compartir una foto al parecer tomada en pleno desierto. "
 image: "/uploads/2021/images-lenny-kravitz-compartio-que-se.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿En el desierto? Lenny Kravitz está en México y comparte foto tomada en Chihuahua"
 front: false
 section: "Espectáculos"
-news_id: 189329
+redirect_from: /news/189329
 ---
 
 Lenny Kravitz tiene muchos seguidores, ya sea por su parte musical o por su etapa como actor, y en México hay muchas personas que han seguido su carrera y son sus fanáticos y podrían estar muy cerca de él, ya que el cantante dio a conocer que se encuentra en nuestro país. A través de Instagram, Lenny Kravitz compartió una foto con la que confirmó que se encuentra en México, específicamente en el estado de Chihuahua, por lo que de inmediato saber que el famoso se encuentra en tierras mexicanas causó revuelo. 

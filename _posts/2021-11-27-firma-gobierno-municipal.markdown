@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Recibirá Chihuahua Capital, asesoría  para lograr acreditación PEFA y acceder a recursos internacionales"
 image: "/uploads/2021/images-unnamed_(25).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Firma Gobierno Municipal y Ayuntamiento de La Paz, Bolivia convenio de hermanamiento"
 front: false
 section: "Local"
-news_id: 190284
+redirect_from: /news/190284
 ---
 
 El presidente municipal Marco Bonilla y el alcalde de La Paz, Bolivia Iván Arias Durán, firmaron un acuerdo de hermanamiento de ciudades que permitirá intercambiar experiencias e información que ayuden a los dos gobiernos a mejorar sus prácticas publicas y en el caso concreto de Chihuahua, recibirá asesoría para lograr la acreditación Public Expenditure and Financial Accountability (PEFA).

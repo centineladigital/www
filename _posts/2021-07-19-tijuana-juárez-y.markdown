@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Durante La Mañanera del presidente Andrés Manuel López Obrador en Acapulco, Guerrero, presentó los 50 municipios más peligrosos del país."
 image: "/uploads/2021/images-Sin_título.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tijuana, Juárez y León, los 3 municipios más peligrosos -  secretaría de Marina"
 front: false
 section: "Nacional"
-news_id: 185775
+redirect_from: /news/185775
 ---
 
 El secretario de Marina (Semar), José Rafael Ojeda Durán, difundió una gráfica con base en datos del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (SESNSP) que señala a Tijuana, Baja California; Juárez, Chihuahua, y León, Guanajuato, como los tres municipios más peligrosos del país.

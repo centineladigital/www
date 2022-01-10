@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las empresas están obligadas a llevar a cabo el reparto de utilidades a sus trabajadores; estas utilidades se dan respecto del ejercicio fiscal inmediato anterior"
 image: "/uploads/2021/images-LT_EMPLEOS_MAQUILAS_10.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Temen que empresas no reporten utilidades por la pandemia"
 front: false
 section: "Local"
-news_id: 184259
+redirect_from: /news/184259
 ---
 
 Por lo regular la plaza de Ciudad Juárez tiene un cumplimiento alto de las empresas para el pago de utilidades a sus trabajadores, ya que las estadísticas no refieren un índice alto de demandas que se relacionen con el incumplimiento de utilidades, aseguró Ismael Dávalos García, titular de la Junta Local de Conciliación y Arbitraje en Ciudad Juárez.

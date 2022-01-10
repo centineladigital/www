@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Contribuye COEPI al fortalecimiento de los usos y costumbres del pueblo rarámuri"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Realizan  comunidades indígenas urbanas su tradicional carrera de bola en Chihuahua capital"
 front: false
 section: "Local"
-news_id: 190074
+redirect_from: /news/190074
 ---
 
 A fin de brindar a las comunidades indígenas urbanas, espacios para que puedan fortalecer su cultura, usos y costumbres, la Comisión Estatal para los Pueblos Indígenas (COEPI), colaboró con el pueblo rarámuri de la Ciudad de Chihuahua, en la realización de su tradicional Carrera de Bola.

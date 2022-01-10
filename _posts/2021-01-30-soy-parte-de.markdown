@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz habló sobre los episodios de acoso de los que ha sido víctima a lo largo de su carrera. "
 image: "/uploads/2021/images-daniela-lujan-revela-sufrido-acoso_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Soy parte de una estadística -  Daniela Luján confiesa que ha sufrido de acoso"
 front: false
 section: "Espectáculos"
-news_id: 182575
+redirect_from: /news/182575
 ---
 
 Daniela Luján, quien comenzó su carrera en la televisión desde los 5 años en Plaza Sésamo, reveló que ha sufrido de acoso en el medio artístico. Añadió que durante décadas las mujeres han tenido que luchar para pedir un alto a la violencia de género; las declaraciones de la actriz llegan después de que la cantante Nath Campos acusara al youtuber Rix de abuso sexual. En una entrevista con el programa Chismorreo, Daniela Luján habló sobre los episodios de acoso de los que ha sido víctima a lo largo de su carrera. Señaló que es una situación preocupante porque su caso y el de otras mujeres son "parte de una estadística". 

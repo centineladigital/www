@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Inauguró la Jornada de Rehabilitación 2021 que llegará a varias ciudades del estado con la entrega de aparatos funcionales y la exposición de foros sobre la temática.   "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura presidenta del DIF Estatal Jornada de Rehabilitación 2021"
 front: false
 section: "Local"
-news_id: 190500
+redirect_from: /news/190500
 ---
 
 En el marco del Día Internacional de las Personas con Discapacidad, la presidenta del DIF Estatal Chihuahua, María Eugenia Galván Antillón, inauguró la Jornada de Rehabilitación 2021 que llegará a varias ciudades del estado con la entrega de aparatos funcionales y la exposición de foros sobre la temática.

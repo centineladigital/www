@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "El grupo de edad más afectado por el coronavirus en 2021 es el de 15 a 19 años, informó el secretario de Salud estatal"
 image: "/uploads/2021/images-oaxaca-reportado-casos-covid-ninos_0_27_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Oaxaca, 42 menores han muerto por covid y otros 3 mil 577 se han contagiado este año"
 front: false
 section: "Nacional"
-news_id: 187036
+redirect_from: /news/187036
 ---
 
 En Oaxaca, 42 menores de edad han muerto por coronavirus y otros 3 mil 577 se han contagiado en lo que va del año, de acuerdo con el titular de la Secretaría de Salud estatal, Juan Carlos Márquez Heine. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Freddy Ortega habló sobre el momento en que Olivia Collins se negó a besar a su hermano, Germán Ortega, en la obra de teatro El Tenorio Cómico. "
 image: "/uploads/2021/images-freddy-ortega-hablo-paso-puesta_37_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Olivia Collins se negó a besar a Germán Ortega en obra de teatro; Freddy Ortega reacciona a polémica"
 front: false
 section: "Espectáculos"
-news_id: 188408
+redirect_from: /news/188408
 ---
 
 Hace unos días Olivia Collins tomó el papel de doña Inés en El Tenorio Cómico, esto al suplir a Maribel Guardia. Aunque todo se llevó de un momento a otro, al parecer la puesta en escena iba bien, sin embargo, para el final sucedió algo que nadie esperaba, la actriz se negó a besar a Germán Ortega, algo que es parte de una escena. Ante esta polémica, Freddy Ortega, hermano de Germán Ortega y quien también participa en la obra, dio una entrevista, la cual fue retomada por De Primera Mano, en donde contó qué es lo que pasó en la puesta en escena. 

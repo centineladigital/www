@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Conoce todos los detalles para que no te pierdas el encuentro entre Rojinegros y Celestes"
 image: "/uploads/2021/images-atlas-vs-cruz-azul-agenda_0_1_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atlas vs Cruz Azul -  Horario y dónde ver EN VIVO la jornada 14 de la Liga MX"
 front: false
 section: "Deportes"
-news_id: 188892
+redirect_from: /news/188892
 ---
 
 Este martes tendremos futbol en la Liga MX; Atlas y Cruz Azul se enfrentarán en la jornada 14 del Apertura 2021 en el Estadio Jalisco en punto de las 21:05 horas.  

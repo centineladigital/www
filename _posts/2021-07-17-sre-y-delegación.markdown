@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La dependencia mexicana destacó la importancia de combatir el tráfico ilícito de armas y municiones, especialmente por las implicaciones que tiene en los niveles de violencia. "
 image: "/uploads/2021/images-reunion-oficina-aduanas-proteccion-fronteriza_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "SRE y delegación de aduanas de EU se reúnen para discutir tráfico de armas"
 front: false
 section: "Internacional"
-news_id: 185765
+redirect_from: /news/185765
 ---
 
 Con el propósito de fortalecer la cooperación bilateral contra el tráfico ilícito de armas entre México y Estados Unidos, una delegación del gobierno de México se reunió con representantes de la Oficina de Aduanas y Protección Fronteriza (CBP) de Estados Unidos, en las ciudades de San Antonio y Laredo, Texas. 

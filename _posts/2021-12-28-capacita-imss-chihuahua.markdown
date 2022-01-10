@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se replicará en las instituciones del sector salud, con un enfoque que permita fortalecer los programas de lavado de manos. "
 image: "/uploads/2021/images-Foto_6442-5.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacita IMSS Chihuahua a Cuerpo de Gobierno sobre higiene de manos para prevenir contagios de COVID-19 "
 front: false
 section: "Local"
-news_id: 191274
+redirect_from: /news/191274
 ---
 
 Con motivo de la Campaña Nacional IMSS Higiene de Manos, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua realiza acciones de capacitación a su personal y Cuerpo de Gobierno mediante pláticas y actividades para informar mediante la técnica de cinco momentos para la higiene de manos y siete llamadas a la acción, en los tres niveles de atención.

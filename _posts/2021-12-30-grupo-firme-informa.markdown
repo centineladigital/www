@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de darse a conocer que Eduin Caz fue hospitalizado de emergencia, se publicó un comunicado en el que se reveló qué mandó al hospital al cantante. "
 image: "/uploads/2021/images-eduin-caz-fue-hospitalizado-de.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Grupo Firme informa la razón por la que Eduin Caz está hospitalizado"
 front: false
 section: "Espectáculos"
-news_id: 191367
+redirect_from: /news/191367
 ---
 
 Hace uno días se dio a conocer que Eduin Caz, vocalista de Grupo Firme, fue hospitalizado de emergencia después de que el cantante compartiera en sus historias de Instagram que se encontraba enfermo, al parecer de las vías respiratorias, pero es hasta ahora que se reveló la verdadera razón por la que se encuentra en el nosocomio. Grupo Firme publicó un comunicado este 29 de diciembre a través de sus redes sociales en el que se confirmó que Eduin Caz está hospitalizado y que se le tuvieron que realizar algunos estudios para saber con exactitud su padecimiento. 

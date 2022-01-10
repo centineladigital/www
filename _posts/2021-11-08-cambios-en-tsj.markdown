@@ -10,11 +10,11 @@ author: nil
 description: "Gobierno será respetuoso de los cambios internos del Poder Judicial, afirma María Eugenia Campos Galván."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-ML01_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Cambios en TSJ son debido a su realidad -  Gobernadora"
 front: false
 section: "Local"
-news_id: 189663
+redirect_from: /news/189663
 ---
 
 Los cambios que se registraron en el Tribunal Superior de Justicia pueden ser a una realidad política o interna, la cual apoyará el Gobierno del Estado, señaló la Gobernadora María Eugenia Campos Galván.  Esto al ser cuestionada por la posible próxima salida del presidente del Poder Judicial, Pablo Héctor González Villalobos.

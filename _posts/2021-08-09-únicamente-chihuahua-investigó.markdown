@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Señala titular de la Fiscalía General del Estado, César Augusto Peniche Espejel, en el programa Logros con Valor, que la Operación Justicia para Chihuahua fue emblema de la voluntad de la administración de Javier Corral para combatir la corrupción desde las altas esferas del poder"
 image: "/uploads/2021/images-Operación_Jusiticia_CAPSULA_FISCALIA_3_HD_Moment.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Únicamente Chihuahua investigó desvíos de la Operación Safiro"
 front: false
 section: "Local"
-news_id: 186478
+redirect_from: /news/186478
 ---
 
 Chihuahua es el único estado que ha investigado la Operación Safiro que se replicó en al menos siete entidades del país para desviar recursos públicos hacia campañas políticas, destacó el titular de la Fiscalía General del Estado (FGE), César Augusto Peniche Espejel, en el programa “Logros con Valor”.

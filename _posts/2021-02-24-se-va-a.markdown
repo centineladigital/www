@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¿Trabajará en Televisa? ¿Busca triunfar en Hollywood? Bárbara de Regil anuncia su salida de TV Azteca con contundente mensaje. "
 image: "/uploads/2021/images-reacciono-barbara-regil-audio-presuntamente_0_25_1080_672.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Se va a Televisa? Bárbara de Regil anuncia salida definitiva de TV Azteca"
 front: false
 section: "Espectáculos"
-news_id: 183137
+redirect_from: /news/183137
 ---
 
 Bárbara de Regil, influencer fitness y actriz, sorprendió a sus seguidores al revelar que cierra su clico con la televisora del Ajusco. Terminó su contrato con TV Azteca. ¿Qué fue lo que pasó? ¿Por qué dejará de laborar en la empresa de Ricardo Salinas Pliego? La polémica ex protagonista de Rosario Tijeras comunicó la noticia en sus redes sociales con varias fotografías de su camino en la competencia directa de Televisa. A través de redes sociales, Bárbara de Regil se mostró agradecida con la empresa de TV Azteca por el tiempo en el que laboró con ellos. En varias fotografías mostró su permanencia en la televisora junto a Ninfa Salinas, Guillermo Cueva -director general de Planeación Estratégica de TV Azteca-, Ricardo Salinas Pliego y Benjamín Salinas. 

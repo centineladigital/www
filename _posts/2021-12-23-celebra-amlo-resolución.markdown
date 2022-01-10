@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Me gustó la resolución de la Corte para que siga adelante la consulta de revocación de mandato, dijo el presidente López Obrador"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Celebra AMLO resolución de la Corte sobre el INE; muy buena decisión, dice"
 front: false
 section: "Nacional"
-news_id: 191146
+redirect_from: /news/191146
 ---
 
 Al manifestar que “me gustó” y que “fue una muy buena decisión”, el presidente Andrés Manuel López Obrador celebró la decisión de la Suprema Corte de Justicia de la Nación (SCJN) de ordenarle al INE no posponer la consulta de revocación de mandato, al argumentar que cuenta con más de mil 500 millones de pesos para realizar este ejercicio.

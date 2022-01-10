@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Conoce el precio del dólar hoy jueves en bancos"
 image: "/uploads/2021/images-tipo-de-cambio-peso-dolar-33.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Precio del dólar hoy -  Peso avanza, atento a casos de covid-19"
 front: false
 section: "Internacional"
-news_id: 186315
+redirect_from: /news/186315
 ---
 
 Al iniciar operaciones el precio del dólar hoy jueves fue de hasta 20.39 pesos en bancos. En tanto, el tipo de cambio interbancario se ubica en 19.91 pesos por dólar, con una ganancia de apenas 0.33 por ciento.  

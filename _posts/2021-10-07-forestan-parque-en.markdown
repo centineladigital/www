@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Responde Gobierno Municipal a las peticiones de los chihuahuenses"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Forestan parque en la colonia Minerales tras petición en “Miércoles Ciudadano”"
 front: false
 section: "Local"
-news_id: 188473
+redirect_from: /news/188473
 ---
 
 “Fue rapidísimo, yo me presenté el miércoles, fui un poquito tarde y aun así me recibieron;  rapidísimo vinieron,  yo me puse de acuerdo con el ingeniero Calderón (encargado del Vivero Municipal) el día jueves”, expresó la señora Sandra Monserrat Enríquez García,  representante de vecinos de la colonia Minerales, quien acudió al primer “Miércoles ciudadano”, implementado por el Gobierno Municipal, a realizar una gestión para el apoyo en la forestación de un parque ubicado en la calle Mineral 3 estrellas, de la mencionada colonia.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Chivas necesita goles, es menester ser letales para poder salir de Puebla con el puño en alto. "
 image: "/uploads/2021/images-angel-zaldivar-suma-goles-previo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chivas, con el arsenal completo para el repechaje"
 front: false
 section: "Deportes"
-news_id: 189954
+redirect_from: /news/189954
 ---
 
 Chivas tiene carro completo para meterse a la casa del Puebla buscando la siguiente ronda. El Rebaño Sagrado se la juega en 90 minutos, urge el pase a la siguiente fase para que el proceso de Marcelo Michel se legitimise y para que Ricardo Peláez, ratificado previo a la última jornada, pueda sostenerse con resultados. 

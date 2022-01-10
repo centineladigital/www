@@ -10,11 +10,11 @@ author: nil
 description: "Ya que la dependencia no cuenta con unidades, así como equipamiento."
 image: "/uploads/2021/images-GIL1.jpg"
 video: "/uploads/2021/videos-MW02_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Empezará de cero policía estatal -  Loya"
 front: false
 section: "Local"
-news_id: 188983
+redirect_from: /news/188983
 ---
 
 “Tenemos que prácticamente comenzar de cero esta Policía del Estado” declaró el titular de la Secretaría de Seguridad Pública Estatal, Gilberto Loya Chávez al señalar que se tiene que llevar a cabo un equipamiento completo.

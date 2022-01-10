@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En cumbre acuerdan avanzar en recuperación económica, reducir cambio climático, atender migración y enfrentar narcotráfico; AMLO pide fortalecer región ante avance chino "
 image: "/uploads/2021/images-amlo_cumbre.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO plantea que América del Norte compita con China"
 front: false
 section: "Nacional"
-news_id: 189989
+redirect_from: /news/189989
 ---
 
 Washington.— Estados Unidos, Canadá y México determinaron avanzar en la alianza regional para superar retos como la recuperación económica, reducir el cambio climático, atender las causas de la migración, enfrentar la trata de personas y el tráfico de drogas, así como la reducción de la pandemia de Covid-19 mediante el fortalecimiento de cadenas de suministro médico, reconocimiento de vacunas y donación de antígenos a naciones de Latinoamérica y el Caribe.

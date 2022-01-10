@@ -10,11 +10,11 @@ author: nil
 description: "Dentro de los festejos de la conmemoración de la independencia."
 image: "/uploads/2021/images-CONCHA.jpg"
 video: "/uploads/2021/videos-MV05_CONCEPCIÓN_LANDA.mp4"
-audio: "nil"
+audio: nil
 alt: "Reabre museo Miguel Hidalgo"
 front: false
 section: "Local"
-news_id: 186143
+redirect_from: /news/186143
 ---
 
 Luego de varios años de encontrarse cerrado, este viernes como parte de la conmemoración de la consumación de la Independencia y el fusilamiento de Miguel Hidalgo y Costilla, fue reabierto el museo en honor a este héroes de la patria. Llevándose por otra parte una guardia de honor en el Altar de la Patria.

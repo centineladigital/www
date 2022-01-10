@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Su hijo ‘Zaguinho’ confirma el deceso de su padre a los 86 años de edad. Las Águilas lamentan el deceso"
 image: "/uploads/2021/images-2514440.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fallece ‘Zague’, jugador histórico del América"
 front: false
 section: "Deportes"
-news_id: 182258
+redirect_from: /news/182258
 ---
 
 José ‘Lobo solitario’ Alves Zague, jugador histórico del América, falleció a los 86 años de edad.

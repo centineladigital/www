@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En una larga sesión y tras varias horas de negociación, se aprueba esta madrugada en lo general y en lo particular. AMLO no podrá opinar durante el proceso"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Senado avala Ley de Revocación de Mandato con modificación de pregunta"
 front: false
 section: "Nacional"
-news_id: 187390
+redirect_from: /news/187390
 ---
 
 El pleno del Senado de la República aprobó la nueva Ley Federal de la Revocación de Mandato con modificaciones en 29 artículos donde se incluye la redacción de la pregunta donde se establece que se revoque por pérdida de confianza al Presidente, y de último momento Morena retiró una reserva que planteaba que el Presidente de la República no tuvieran ningún tipo de veda para que pudiera opinar e informar acerca de la continuidad en su cargo durante este proceso.

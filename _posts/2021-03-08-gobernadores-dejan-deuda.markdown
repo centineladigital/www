@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La incidencia de feminicidios y violencia de género se disparó en 12 de los 15 estados que elegirán nuevos mandatarios este año"
 image: "/uploads/2021/images-22caaeab-1002-4fd5-a3aa-c75d7539c413.tmp"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobernadores dejan deuda con mujeres; no logran frenar la violencia"
 front: false
 section: "Nacional"
-news_id: 183324
+redirect_from: /news/183324
 ---
 
 Los mandatarios de 12 de los 15 estados que este año renovarán gubernatura no lograron hacer frente a la incidencia delictiva relacionada con la violencia machista.

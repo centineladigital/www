@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Este domingo inició el segundo día de caravana migrante “por la libertad, por dignidad y por la paz” desde Tapachula , Chiapas hasta la Ciudad de México. "
 image: "/uploads/2021/images-integrantes-caravana-migrante-partio-domingo_0_27_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Caravana migrante resiste al calor en Chiapas e insiste en avanzar a CdMx"
 front: false
 section: "Nacional"
-news_id: 189194
+redirect_from: /news/189194
 ---
 
 Con más de 3 mil migrantes, este domingo inició el segundo día de caravana migrante “por la libertad, por dignidad y por la paz” desde Tapachula , Chiapas hasta la Ciudad de México. 

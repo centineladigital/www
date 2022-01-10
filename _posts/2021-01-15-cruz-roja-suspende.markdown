@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En total son 7 paramédicos y un administrativo los que se encuentran en aislamiento; la decisión fue tomada para no poner en riesgo a la población y evitar que se propague la enfermedad"
 image: "/uploads/2021/images-2512514.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cruz Roja suspende servicio dos semanas; personal se contagió de COVID"
 front: false
 section: "Nacional"
-news_id: 182186
+redirect_from: /news/182186
 ---
 
 La Cruz Roja delegación Pénjamo, suspendió su servicio por dos semanas debido a que todo su personal se contagió de COVID-19.

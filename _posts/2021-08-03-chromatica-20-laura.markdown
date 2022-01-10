@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las comparaciones de figuras tan famosas como ellas son un halago para la peruana. "
 image: "/uploads/2021/images-laura-bozzo-foto-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Chromatica 2.0? Laura Bozzo posa para revista y la critican por 'copiar' a Lady Gaga y Donatella Versace"
 front: false
 section: "Espectáculos"
-news_id: 186238
+redirect_from: /news/186238
 ---
 
 La conductora Laura Bozzo se volvió tendencia tras ser blanco de una polémica en redes sociales por publicar en su feed de Instagram una fotografía que asemeja en estética, atuendo y pose a la cantante Lady Gaga, lo que le acarreó críticas y también comentarios de apoyo de sus seguidores. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El estado será sede del concurso México Selection by Concours Mondial de Bruxelles, reconocido certamen internacional donde se elegirán los mejores vinos del país"
 image: "/uploads/2021/images-WhatsApp_Image_2020-02-20_at_2.06.39_PM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chihuahua, nuevo territorio vitivinícola"
 front: false
 section: "Local"
-news_id: 183030
+redirect_from: /news/183030
 ---
 
 El estado de Chihuahua se ha convertido en una de las entidades productoras de vid y vinos más importante del país; a la fecha cuenta con más de 70 etiquetas, 40 viñedos y más de 50 medallas internacionales, llegando a producir 224 mil 865 botellas al año, lo que convierte al estado en un nuevo territorio vitivinícola.

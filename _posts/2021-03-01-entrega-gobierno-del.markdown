@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La participación ciudadana es elemental para lograr estas Obras con Valor, que abonan al fortalecimiento comunitario, indica el secretario de Desarrollo Municipal, Víctor Manuel Rodríguez Guajardo      "
 image: "/uploads/2021/images-OBRAS_EN_GÓMEZ_FARÍAS_Sedemun_(1).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Gobierno del Estado infraestructura social por 7.5 mdp en Gómez Farías"
 front: false
 section: "Local"
-news_id: 183209
+redirect_from: /news/183209
 ---
 
 El Gobierno del Estado de Chihuahua, a través del programa Desarrollo, Paz y Reencuentro y los comités Pro Obras, invirtió 7 millones 532 mil 447 pesos en infraestructura social para la población de Gómez Farías.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El rostro de Ricky Martin causó memes en redes sociales y tras esto se reveló la razón por la que el cantante apareció de esta manera. "
 image: "/uploads/2021/images-el-rostro-del-cantante-genero_26_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Intoxicación o botox? Revelan la razón por la que Ricky Martin apareció con rostro irreconocible"
 front: false
 section: "Espectáculos"
-news_id: 188245
+redirect_from: /news/188245
 ---
 
 Hace unos días Ricky Martin sorprendió a sus seguidores al aparecer con el aspecto de su rostro muy cambiado, por lo que muchos aseguraros que se había hecho algún arreglo estético o una operación, esto con la finalidad de luir mucho más joven, pero tal parece que resultó lo contrario. Su nuevo aspecto se volvió viral después de que el intérprete de “María” apareciera en una entrevista junto a Enrique Iglesias debido a la gira que iniciaron en Estados Unidos al lado de Sebastián Yatra, y aunque han surgido varios rumores, algunos mencionan que se puso relleno y al parecer hay un comunicado de parte de la agencia que maneja a Ricky Martin. 

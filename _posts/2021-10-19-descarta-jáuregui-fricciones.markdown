@@ -10,11 +10,11 @@ author: nil
 description: "Esto por que investigadoras pasaron a las filas de la federación."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MM01_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Descarta Jáuregui fricciones con la Federación"
 front: false
 section: "Local"
-news_id: 188925
+redirect_from: /news/188925
 ---
 
 El que se presenten fricciones entre la federación y gobierno estatal es algo que descartó el Secretario General de Gobierno, César Jáuregui Moreno, esto por las investigaciones en contra de agentes del ministerio público señalados por tortura en contra de ex funcionarios ligados a César Duarte Jáquez.

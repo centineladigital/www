@@ -20,11 +20,11 @@ author: nil
 description: "Con la firma del convenio con el Instituto de Capacitación para el Trabajo del Estado de Chihuahua (ICATECH)"
 image: "/uploads/2021/images-mac2.jpg"
 video: "/uploads/2021/videos-MARCO_BONILLA_BL03_.mp4"
-audio: "nil"
+audio: nil
 alt: "Más de medio millón de pesos invertido para reactivar comercio "
 front: false
 section: "Local"
-news_id: 191047
+redirect_from: /news/191047
 ---
 
 La creación de la escuela de economía, la participación en la feria del empleo y las gestiones para la expansión de empresas manufactureras con la firma del convenio con el Instituto de Capacitación para el Trabajo del Estado de Chihuahua (ICATECH), permitió multiplicar cinco veces más el recurso para capacitar a comerciantes, micro y pequeños empresarios, con un total de 200 mil pesos.

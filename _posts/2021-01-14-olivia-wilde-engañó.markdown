@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Desde que se ha visto juntos a Harry Styles y a Olivia Wilde han surgido rumores de que la actriz engañó a su pareja Jason Sudeikis con el cantante. "
 image: "/uploads/2021/images-olivia-wilde-anos-jason-sudeikis_3_0_1044_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Olivia Wilde engañó a Jason Sudeikis con Harry Styles?"
 front: false
 section: "Espectáculos"
-news_id: 182137
+redirect_from: /news/182137
 ---
 
 Desde hace unos días se publicaron unas fotos en donde se ve a la actriz Olivia Wilde y al cantante Harry Styles tomados de la mano, algo que confirmó los rumores que entre ambos existía un romance, sin embargo, antes de que la actriz de la serie House fuera novia del ex integrante de One Direction, mantuvo una relación de casi 10 años con el actor Jason Sudeikis. Hace tan sólo unos meses se informó que Jason Sudeikis y Olivia Wilde habían terminado su relación, algo que sin duda sorprendió a muchos ya que eran una de las parejas más estables de Hollywood, pero ahora la actriz luce muy feliz junto a Harry Styles. 

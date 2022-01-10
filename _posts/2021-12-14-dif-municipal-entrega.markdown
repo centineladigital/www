@@ -16,11 +16,11 @@ author: nil
 description: "En el evento estuvo presente el presidente municipal Marco Bonilla quien refrendo su compromiso para con los niños y niñas de chihuahua capital"
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-14_at_12.55.37_PM.jpeg"
 video: "/uploads/2021/videos-BM02_KARINA_OLIVAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "DIF Municipal entrega apoyos a casas hogar y de cuidado diario"
 front: false
 section: "Local"
-news_id: 190849
+redirect_from: /news/190849
 ---
 
 El DIF municipal hizo la entrega de apoyos económicos  para Casas Hogar y Casas de cuidado diario sumando más de 1 millón de pesos para la causa, la presidenta del DIF municipal Karina Olivas, señaló el compromiso que tiene con los niños niñas y adolescentes de Chihuahua.

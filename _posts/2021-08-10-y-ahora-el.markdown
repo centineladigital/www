@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Tanto Reyes Rodríguez como José Luis Vargas dimiten al cargo a fin de lograr la reconciliación entre los ministros y votar al nuevo líder "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Y ahora, el Tribunal Electoral Federal no tiene presidente"
 front: false
 section: "Nacional"
-news_id: 186499
+redirect_from: /news/186499
 ---
 
 Tras cinco días de crisis interna, el Tribunal Electoral del Poder Judicial de la Federación (TEPJF) se quedó ayer sin presidente, pues tanto el magistrado Reyes Rodríguez, designado el miércoles por sus compañeros para encabezar el órgano, y el depuesto presidente José Luis Vargas Valdez dieron un paso a un lado y dimitieron para, con la participación de los siete integrantes de la Sala Superior, elegir a un nuevo presidente del órgano. Se prevé que la magistrada Janine Otálora asuma la dirección del tribunal de modo interino.

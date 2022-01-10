@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Incluye personal de instituciones de salud públicas y privadas; impartirá talleres presenciales y virtuales"
 image: "/uploads/2021/images-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacita Coespris a personal de hospitales, clínicas y farmacias en farmacovigilancia"
 front: false
 section: "Local"
-news_id: 183521
+redirect_from: /news/183521
 ---
 
 La Comisión Estatal para la Protección contra Riesgos Sanitarios (Coespris) a través del programa de Farmacovigilancia, comenzó el ciclo de capacitaciones anuales, dirigida a personal de unidades médicas públicas y privadas del estado, farmacias y pasantes de las diferentes carreras de salud.

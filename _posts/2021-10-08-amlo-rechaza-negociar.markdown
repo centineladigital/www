@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente aseguró que no hay acuerdos ocultos con otras fuerzas políticas y dijo que los legisladores deberán explicar la decisión de su voto. "
 image: "/uploads/2021/images-amlo-acuerdos-ocultos-aprobar-reforma_0_1_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO rechaza negociar con PRI para aprobar reforma eléctrica; no hay moneda de cambio"
 front: false
 section: "Nacional"
-news_id: 188514
+redirect_from: /news/188514
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que no hay acuerdos ocultos ni una "moneda de cambio" con otras fuerzas políticas, como el Partido Revolucionario Institucional (PRI), para la aprobación de la iniciativa de la reforma eléctrica que envió al Congreso de la Unión. 

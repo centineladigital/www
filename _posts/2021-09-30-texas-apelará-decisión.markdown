@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Texas lanzó a principios de marzo la Operación Estrella Solitaria para intentar asegurar la frontera y combatir el contrabando de personas y drogas en su territorio. "
 image: "/uploads/2021/images-el-gobernador-de-texas-greg-1_92_27_931_579.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Texas apelará decisión de Biden de no declarar emergencia por llegada de migrantes"
 front: false
 section: "Internacional"
-news_id: 188213
+redirect_from: /news/188213
 ---
 
 El gobernador Greg Abbott anunció que Texas apelará la negativa de parte de la Agencia Federal para el Manejo de Emergencias (FEMA, por sus siglas en inglés) ante la solicitud hecha por su gobierno para que realice una Declaración Federal de Emergencia para el estado como resultado de la escalada en la crisis que se vive en la frontera con México. 

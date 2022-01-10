@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La madrugada de este viernes se abrieron los accesos de la comunidad y fueron liberados, confirmó la Secretaría General de Gobierno de Oaxaca (Segego).  "
 image: "/uploads/2021/images-Sin_título.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tras 3 días retenidos, liberan a más de 50 agentes de Oaxaca y de la Guardia Nacional"
 front: false
 section: "Nacional"
-news_id: 185723
+redirect_from: /news/185723
 ---
 
 Tras cumplirse más de 72 horas desde que pobladores de Río Santiago, una agencia municipal de Santiago Textitlán mantenían retenidos a más de 50 agentes de la Fiscalía General de Oaxaca y elementos de seguridad de la Policía Estatal y la Guardia Nacional, la madrugada de este viernes se abrieron los accesos de la comunidad y fueron liberados, confirmó la Secretaría General de Gobierno de Oaxaca (Segego). 

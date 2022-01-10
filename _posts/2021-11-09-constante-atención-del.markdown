@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Entrega de apoyos alimentarios y una constante comunicación para atender necesidades urgentes.  "
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Constante atención del Municipio en los 117 clubes de abuelo en la ciudad"
 front: false
 section: "Local"
-news_id: 189701
+redirect_from: /news/189701
 ---
 
 Como parte de las acciones de los primeros 100 días de trabajo y resultados, para dignificar la vida de los adultos mayores y contribuir a su desarrollo integral, el Gobierno Municipal, a través de la Dirección de Desarrollo Humano, colabora con los 117 clubes del abuelo conformados en la ciudad.

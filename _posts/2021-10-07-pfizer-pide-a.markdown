@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hasta el momento la FDA sólo autoriza el uso de esta vacuna a partir de los doce años"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pfizer pide a la FDA que autorice su vacuna contra Covid-19 para niños entre 5 y 11 años"
 front: false
 section: "Internacional"
-news_id: 188461
+redirect_from: /news/188461
 ---
 
 La farmacéuticas Pfizer y BioNtech solicitaron este jueves formalmente a la Administración de Fármacos y Alimentos (FDA) de Estados Unidos la autorización para el uso de emergencia de su vacuna contra Covid-19 en niños de 5 a 11 años.

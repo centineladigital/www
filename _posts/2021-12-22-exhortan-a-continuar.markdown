@@ -10,11 +10,11 @@ author: nil
 description: "Piden continuar con medidas de seguridad."
 image: "/uploads/2021/images-gumaro.jpg"
 video: "/uploads/2021/videos-MW05_GUMARO_BARRIOS.mp4"
-audio: "nil"
+audio: nil
 alt: "Exhortan a continuar con medidas de sanidad"
 front: false
 section: "Local"
-news_id: 191122
+redirect_from: /news/191122
 ---
 
 Debido al retroceso que se tuvo dentro del semáforo epidemiológico se ha hecho un exhorto con el fin de continuar con las medidas de sanidad, esto por parte del Subdirector de Epidemiología del Estado, Gumaro Barrios Gallegos.

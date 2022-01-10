@@ -10,11 +10,11 @@ author: nil
 description: "Habrá destrucción en Ciudad Juárez."
 image: "/uploads/2021/images-CERVEZA.jpg"
 video: "/uploads/2021/videos-CM_DEST._ALCOHOL_ALTA_(video-converter.com).mp4"
-audio: "nil"
+audio: nil
 alt: "Destruyen alcohol caducado"
 front: false
 section: "Local"
-news_id: 190979
+redirect_from: /news/190979
 ---
 
 Un total de siete mil 801 bebidas alcohólicas caducas fueron destruidas por parte del área de Gobernación, según lo dio a conocer el titular del área, Eloy García Tarín. Estos resultados del decomiso que se logró en el presente año en sitios que no contaban con el permiso para su comercialización o por estar caducas.

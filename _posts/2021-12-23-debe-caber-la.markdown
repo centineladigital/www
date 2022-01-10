@@ -18,11 +18,11 @@ author: nil
 description: "Se debe hacer un esfuerzo ya que se trabajar para el pueblo"
 image: "/uploads/2021/images-a6874142-037c-4305-a836-562cd16f3257.jpg"
 video: "/uploads/2021/videos-BJ04_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "Debe caber la prudencia en los regidores "
 front: false
 section: "Local"
-news_id: 191171
+redirect_from: /news/191171
 ---
 
 El presidente municipal señaló que debe caber la prudencia en los integrantes de las fracciones parlamentarias de todos los partidos para ejercer de buena manera la democracia al momento de la toma de decisiones para la comunidad chihuahuense.

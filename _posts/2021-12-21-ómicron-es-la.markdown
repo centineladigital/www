@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En gran parte de Estados Unidos, el predominio de la variante ómicron es incluso más elevado. Es responsable de aproximadamente el 90 por ciento de las nuevas infecciones en el área de Nueva York. "
 image: "/uploads/2021/images-unidos-variante-covid-omicron-cepa_105_1_1091_679.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ómicron es la variante de covid dominante en EU con 73% de los casos en última semana"
 front: false
 section: "Internacional"
-news_id: 191064
+redirect_from: /news/191064
 ---
 
 La variante ómicron de covid-19  ha avanzado mucho más rápido que las otras variantes del coronavirus y es ahora la que predomina en Estados Unidos, representando el 73 por ciento de los nuevos contagios la semana pasada, informaron funcionarios federales de salud este lunes.

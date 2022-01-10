@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Antes de morir, Jim Morrison mantuvo una relación con Pamela Courson, quien fue el amor de su vida y su musa. Así fue su trágica historia de amor. "
 image: "/uploads/2021/images-pamela-courson-murio-anos-jim.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Fue su musa! Así fue la trágica historia de amor entre Jim Morrison y Pamela Courson"
 front: false
 section: "Espectáculos"
-news_id: 185370
+redirect_from: /news/185370
 ---
 
 Jim Morrison es conocido por haber sido uno de los cantantes que generó polémica debido a sus escándalos con las drogas o problemas con la policía, sin embargo, el Rey lagarto, como también era llamado tuvo una musa que lo inspiró a crear grandes canciones que grabó junto a The Doors: Pamela Courson. 

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se ubican en las entradas de las Unidades de Medicina Familiar (UMF) y operan las 24 horas del día."
 image: "/uploads/2021/images-Foto_3910-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta IMSS Chihuahua acudir a los Módulos de Atención Respiratoria (MARSS) para detección oportuna de COVID-19 "
 front: false
 section: "Local"
-news_id: 187956
+redirect_from: /news/187956
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua exhorta a la población derechohabiente acudir a los Módulos de Atención Respiratoria del Seguro Social (MARSS) en caso de presentar síntomas de COVID-19. 

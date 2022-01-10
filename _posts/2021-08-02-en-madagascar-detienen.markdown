@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las autoridades comunicaron esta información a casi dos semanas de revelarse el supuesto atentado contra el mandatario Andry Rajoelina"
 image: "/uploads/2021/images-andry-rajoelina-presidente-de-madagascar_0_10_600_374.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Madagascar, detienen a otras 21 personas por presunto plan para matar a presidente"
 front: false
 section: "Internacional"
-news_id: 186175
+redirect_from: /news/186175
 ---
 
 Las autoridades sumaron a otras 21 personas como detenidas en relación con la presunta trama para asesinar al presidente de Madagascar, Andry Rajoelina, y otras personalidades, informó Berthine Razafiarivony, fiscal general de la Corte de Apelaciones de la capital, Antananarivo, según recogen hoy medios locales. 

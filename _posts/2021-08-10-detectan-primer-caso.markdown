@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El primer caso fue detectado en un hombre de que murió el pasado 2 de agosto; la OMS descartó una propagación a nivel internacional, pero emitió alerta para su transmisión local y regional"
 image: "/uploads/2021/images-virus-marburgo-familiar-ebola-enfermedad_14_0_926_576.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detectan primer caso del virus de Marburgo en Guinea; OMS emite alerta de transmisión"
 front: false
 section: "Internacional"
-news_id: 186498
+redirect_from: /news/186498
 ---
 
 Guinea registró un primer caso de la enfermedad provocada por el virus de Marburgo, sumamente virulento que provoca fiebre hemorrágica, informó este lunes la Organización Mundial de la Salud (OMS). Se trata también del primer caso que se registra en África occidental. La OMS considera "alta" la amenaza a nivel nacional y regional, pero "baja" a nivel internacional. 

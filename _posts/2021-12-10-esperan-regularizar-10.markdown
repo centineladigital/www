@@ -10,11 +10,11 @@ author: nil
 description: "Con esto se permitirá que se dé un mayor orden y servicio dentro del municipio."
 image: "/uploads/2021/images-ALAN.jpg"
 video: "/uploads/2021/videos-MV02_ALAN_FALOMIR.mp4"
-audio: "nil"
+audio: nil
 alt: "Esperan regularizar 10 mil cuentas de agua"
 front: false
 section: "Local"
-news_id: 190726
+redirect_from: /news/190726
 ---
 
 Cerca de 10 mil cuentas de morosos de agua es lo que se pretende regularizar por parte de la Junta de Agua y Saneamiento, según fue dado a conocer por parte del titular de la dependencia Alan Falomir.

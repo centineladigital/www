@@ -10,11 +10,11 @@ author: nil
 description: "Detienen a sujeto apodado El Ratón."
 image: "/uploads/2021/images-ROBERTO_FIERRO.jpg"
 video: "/uploads/2021/videos-ML06_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Detienen a “El Ratón” quien participó en masacre de 9 personas"
 front: false
 section: "Local"
-news_id: 189658
+redirect_from: /news/189658
 ---
 
 Una persona identificada con el sobrenombre de "El ratón" fue detenido durante este fin de semana, el cual se encuentra vinculado a la masacre de 9 persona en el municipio de Cuauhtémoc, según lo declaró el Fiscal General del Estado de Chihuahua, Roberto Fierro Duarte.

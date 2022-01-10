@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Está abierta a mujeres y hombres de edad entre 19 y 35 años"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-01_at_11.20.38.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Audio_Martha_Moctezuma_-_titular_del_Instituto_Superior_de_Seguridad_Chihuahua.mp4"
 alt: "Abre Gobierno Municipal convocatoria para la Academia de Policía"
 front: false
 section: "Local"
-news_id: 188276
+redirect_from: /news/188276
 ---
 
 El Gobierno Municipal, a través de la Dirección de Seguridad Pública Municipal lanzó la convocatoria para reclutamiento de cadetes que deseen incorporarse a las filas de la Policía Municipal, previo cumplimiento de requisitos y aprobación de exámenes de selección y control de confianza. 

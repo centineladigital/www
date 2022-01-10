@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En los últimos días, el divertido video ha retomado popularidad en redes sociales como TikTok y aquí te mostramos por qué. "
 image: "/uploads/2021/images-thalia-logro-bailar-presidente-unidos_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El día que Thalía 'puso celosa' a Michelle Obama por bailar cumbia con Barack"
 front: false
 section: "Espectáculos"
-news_id: 182980
+redirect_from: /news/182980
 ---
 
 En los últimos días se ha vuelto viral un video de 2009, del memorable momento en el que Thalía bailó con Barack Obama, quien era presidente de Estados Unidos, y según expresan los usuarios, logró "poner celosa" a la entonces primera dama, Michelle Obama. Y es que la cantante mexicana, así como muchas de sus canciones, además de talento y carisma, también irradia sensualidad, y con mayor razón mientras canta y baila "Amor a la mexicana". Te compartimos el divertido momento del que todos hablan una vez más.

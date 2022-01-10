@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Visitaron el William Davidson Institute donde recibieron información sobre la innovación de las cadenas de suministro y mano de obra de la industria automotriz"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-12_at_15.18.43.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Líderes del ramo automotriz reciben capacitación en la Universidad de Michigan"
 front: false
 section: "Local"
-news_id: 188665
+redirect_from: /news/188665
 ---
 
 Una delegación de 15 líderes chihuahuenses de alto nivel en negocios acudió al William Davidson Institute de la Universidad de Michigan, donde durante una semana recibió capacitación para innovar en las cadenas de suministro y mano de obra de la industria automotriz en Chihuahua.

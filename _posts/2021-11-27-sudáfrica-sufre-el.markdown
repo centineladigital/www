@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La nueva variante -de la que aún hay muy pocos casos confirmados en total- se caracteriza por presentar un número inusual de mutaciones cuyo impacto aún debe ser estudiado"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sudáfrica sufre el señalamiento internacional ante variante Omicron"
 front: false
 section: "Internacional"
-news_id: 190268
+redirect_from: /news/190268
 ---
 
 Johannesburgo.- El Gobierno de Sudáfrica afirmó este sábado que la cascada de prohibiciones internacionales drásticas tras la detección de la variante ómicron es "como castigar" al país por su avanzada vigilancia científica, además de hacer notar que no todos los países con casos están siendo objeto de restricciones.

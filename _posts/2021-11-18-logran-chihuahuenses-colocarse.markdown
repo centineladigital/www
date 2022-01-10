@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Fueron contratados de manera inmediata para puestos operativos y administrativos durante el evento del pasado 12 y 13 de noviembre"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Logran chihuahuenses colocarse en un trabajo formal gracias a Feria de Empleo del Estado"
 front: false
 section: "Local"
-news_id: 189961
+redirect_from: /news/189961
 ---
 
 A través de la Feria de Empleo para la Reactivación Económica y la Inclusión Laboral del Gobierno del Estado, fueron colocados de forma inmediata 200 chihuahuenses en un empleo formal el pasado viernes 12 y sábado 13 de noviembre, así lo informó la Secretaría del Trabajo y Previsión Social (STPS).

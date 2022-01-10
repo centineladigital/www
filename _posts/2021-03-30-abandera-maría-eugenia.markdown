@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Buscará candidata la reconstrucción del Estado, esto tomando en cuenta los 67 municipios."
 image: "/uploads/2021/images-MAR1.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM02_MARIA_BAEZA.mp3"
 alt: "Abandera María Eugenia Baeza a RSP a la gobernatura"
 front: false
 section: "Local"
-news_id: 183617
+redirect_from: /news/183617
 ---
 
 María Eugenia Baeza García será quien represente a Redes Sociales Progresitas como candidata a la gubernatura, esto luego de que esta semana se tomará protesta como candidata dentro del mismo partido politico.

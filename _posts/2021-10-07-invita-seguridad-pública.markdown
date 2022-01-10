@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La corporación mostrará a los visitantes el equipamiento y trabajo que realiza en favor de la comunidad   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Seguridad Pública a “Domingo Familiar con tu Policía” en El Palomar"
 front: false
 section: "Local"
-news_id: 188485
+redirect_from: /news/188485
 ---
 
 Para lograr un mayor acercamiento entre la Policía Municipal y la comunidad, el próximo 10 de octubre en la explanada del parque El Palomar, las fuerzas municipales mostrarán a los asistentes, el equipo, tecnología y tácticas que utilizan para combatir a la delincuencia.  

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hoy, en San Diego, Canelo Álvarez sostuvo un entrenamiento virtual de cara a la pelea que califica como las más importante de su carrera."
 image: "/uploads/2021/images-saul-canelo-alvarez-cortesia-showtime_0_0_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Canelo' Álvarez afila armas para enfrentar a Caleb Plant"
 front: false
 section: "Deportes"
-news_id: 189014
+redirect_from: /news/189014
 ---
 
 Con la seguridad que da haber participado en 19 peleas de campeonato mundial (con un récord de 17-1-1), el multicampeón mexicano Saúl Álvarez encara con calma la pelea que lo convertirá en uno de los más reconocidos en la historia del boxeo mexicano. 

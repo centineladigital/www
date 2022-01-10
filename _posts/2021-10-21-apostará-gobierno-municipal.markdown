@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se instaló y ratificó a las y los integrantes del Consejo de Cultura del Municipio"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Apostará Gobierno Municipal en promoción cultural para las familias chihuahuenses"
 front: false
 section: "Local"
-news_id: 189055
+redirect_from: /news/189055
 ---
 
 El presidente municipal, Marco Bonilla, encabezó la instalación del Consejo de Cultura del Municipio de Chihuahua, el cual es el máximo órgano de gobierno del Instituto de Cultura Municipal, en cuya sesión se ratificó a las y los integrantes de este organismo.

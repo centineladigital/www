@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En la entidad se beneficiará a mil 200 planteles como parte del programa federal “Internet para Todos”, que arrancó la SEyD en la Escuela Primaria Federal “Aquiles Serdán” en la capital del estado"
 image: "/uploads/2021/images-SED_4347.JPG"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Javier_González_Mocken__secretario_de_Educación_y_Deporte.mp3"
 alt: "Beneficiarán con internet a más de 300 escuelas  del nivel básico de la ciudad de Chihuahua"
 front: false
 section: "Local"
-news_id: 188864
+redirect_from: /news/188864
 ---
 
 Como parte del programa “Internet para Todos”, la Secretaría de Educación y Deporte (SEyD) inició la instalación de dispositivos para la conectividad en planteles del nivel básico de la ciudad de Chihuahua, en la Escuela Primaria Federal “Aquiles Serdán”, ubicada en la colonia Rinconada de Sierra Azul.

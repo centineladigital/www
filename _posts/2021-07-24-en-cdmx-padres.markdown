@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Aproximadamente mil personas se concentraron en Paseo de la Reforma para marchar al Hemiciclo a Juárez y exigir abasto de medicinas oncológicas "
 image: "/uploads/2021/images-preve-manifestacion-avance-hemiciclo-juarez_0_95_891_554.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En CdMx, padres de niños con cáncer marchan para exigir medicamentos"
 front: false
 section: "Nacional"
-news_id: 185972
+redirect_from: /news/185972
 ---
 
 Integrantes del Movimiento Nacional por la Salud, papás de niños con cáncer A.C., se concentraron desde las 11:00 horas en el Ángel de la Independencia, para marchar hacia el Hemiciclo a Juárez. 

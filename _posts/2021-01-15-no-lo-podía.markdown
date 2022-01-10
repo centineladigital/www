@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Gabriela Spanic contó que se contagió de covid-19, además compartió los síntomas que ha presentado. "
 image: "/uploads/2021/images-gaby-spanic-conto-como-se.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No lo podía creer -  Gabriela Spanic revela que se contagió de covid-19"
 front: false
 section: "Espectáculos"
-news_id: 182187
+redirect_from: /news/182187
 ---
 
 La actriz Gabriela Spanic se une a la lista defamosos que se han contagiado de coronavirus. La venezolana le reveló a sus seguidores en redes sociales que dio positivo a la prueba de covid-19, además que contó cómo se contagió y los síntomas que ha tenido a partir de que tiene el SARS-CoV-2. 

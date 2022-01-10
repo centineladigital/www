@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A partir de este martes, las empresas salvadoreñas y los negocios estarán obligados, en la medida de lo posible, a aceptar las controvertidas monedas digitales como forma de pago"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El Salvador se convierte en el primer país del mundo en adoptar el bitcoin como divisa de curso legal"
 front: false
 section: "Internacional"
-news_id: 187497
+redirect_from: /news/187497
 ---
 
 Una "nueva" moneda ha ganado curso legal por primera vez en el mundo este martes. Y no se trata de un nuevo tipo de billete.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El futbolista de Las Águilas del América está en la mira de Gerardo Martino, pero la final de la Concachampions le impedirá ser llamado para el juego amistoso ante Ecuador"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jugador del América será privado de la Selección Mexicana por final de Concachampions"
 front: false
 section: "Deportes"
-news_id: 188579
+redirect_from: /news/188579
 ---
 
 Ahora que Jesús Gallardo ha bajado su nivel futbolístico y comienzan a generarse dudas sobre quién puede destacar como lateral izquierdo en la Selección Nacional, Gerardo Martino ya empieza a pensar en algunas opciones y Salvador Reyes, jugador del América, era la más sólida.

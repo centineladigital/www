@@ -14,11 +14,11 @@ author: nil
 description: "Tiene una buena relación con la gobernadora Maru Campos"
 image: "/uploads/2021/images-preview_070894198378cafe5e80f0a66af96147ebdf3a23.jpg"
 video: "/uploads/2021/videos-BM03_LUIS_FIERRO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Rector de la UACH no tiene pensado renunciar "
 front: false
 section: "Local"
-news_id: 189482
+redirect_from: /news/189482
 ---
 
 Luis Alberto Fierro rector de la Universidad Autónoma de Chihuahua (UACH), mencionó que no tiene pensado renunciar, esto pese a las especulaciones que se han hecho en torno a la renuncia de su cargo como rector.

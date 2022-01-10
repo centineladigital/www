@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Participó personal directivo de la Dirección de Prestaciones Médicas; los servicios que se brindaron cumplieron con estrictos protocolos de seguridad e higiene para evitar contagios de COVID-19."
 image: "/uploads/2021/images-Foto_403-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Más de 100 mil consultas y dos mil 500 cirugías durante la 7ª Jornada Nacional de Recuperación de Servicios del IMSS"
 front: false
 section: "Local"
-news_id: 187696
+redirect_from: /news/187696
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) llevó a cabo la 7ª Jornada Nacional de Recuperación de Servicios, a través de la cual del 10 al 12 de septiembre en los que, sumado a la operación habitual y programada de las unidades médicas, se dio prioridad a la atención de especialidades pendientes en consulta externa y cirugía, por motivo de la pandemia de COVID-19.

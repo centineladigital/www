@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ariel Holan se preparará para el juego del día domingo 28 de noviembre en el Estadio León para jugar el partido de vuelta en punto de las 20:05 horas. "
 image: "/uploads/2021/images-club-leon-4_0_26_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Saca la ventaja! Puebla derrota los Esmeraldas de León"
 front: false
 section: "Deportes"
-news_id: 190224
+redirect_from: /news/190224
 ---
 
 León pierde en casa de Puebla 2-1 en el primer juego de ida de la Liguilla 2021. Por parte de León al minuto 27' Steven Barreiro puso a la delantera a los de la Fiera, y por parte de la Fraja Pablo Parra al minuto 29' puso el empate y Maximiliano Araujo al minuto 77' hizo que los de casa se llevarán la ventaja. 

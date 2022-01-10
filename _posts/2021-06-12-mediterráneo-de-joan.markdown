@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El álbum, ahora en una edición especial en vinil, “supondrá una evolución en su forma de hacer canciones, como si explosionara un nuevo Serrat, más enérgico y vibrante”, afirma Luis García Gil. "
 image: "/uploads/2021/images-mediterraneo-cumplira-anos-salir-luz.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Mediterráneo' de Joan Manuel Serrat, a medio siglo de un disco entrañable"
 front: false
 section: "Espectáculos"
-news_id: 185003
+redirect_from: /news/185003
 ---
 
 En vinil lo conocimos y en el mismo material, en edición especial por cumplir medio siglo, el mundo celebra el lanzamiento del álbum Mediterráneo de Joan Manuel Serrat con la siguiente etiqueta: “Uno de los grandes discos de la historia del pop español”. 

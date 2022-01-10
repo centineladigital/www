@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 ascendió a 8 mil 502 casos (+18), y se presentó en los municipios de Juárez (+1), Chihuahua (+9), Ojinaga (+1), Delicias (+2), Camargo (+1), Meoqui (+1), Saucillo (+1) y Guazapares (+2)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 263 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 190767
+redirect_from: /news/190767
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 11 de diciembre el reporte COVID-19, en el cual se registran 88 mil 644 (+263) personas confirmadas en la entidad por este padecimiento, 75 mil 424 (+460) casos recuperados, 84 mil 474 (+400) descartados y 1,117 (-4) casos sospechosos.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La titular de la Secretaría de Innovación y Desarrollo Económico (SIDE), María Angélica Granados Trespalacios, estuvo presente en el informe anual de la Fundación INDEX Chihuahua."
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-01_at_11.38.29_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconoce Gobierno del Estado labor de Fundación INDEX en favor de Chihuahua"
 front: false
 section: "Local"
-news_id: 188275
+redirect_from: /news/188275
 ---
 
 En el marco del rendimiento de su informe anual, la Fundación INDEX, recibió el reconocimiento del Gobierno del Estado por sus logros en beneficio de las y los chihuahuenses al demostrar su compromiso por mejorar la calidad de vida de los trabajadores desde el sector empresarial.

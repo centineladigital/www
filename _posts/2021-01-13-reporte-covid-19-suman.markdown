@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En las últimas 24 horas, el reporte de la Secretaría de Salud registró 29 nuevos decesos y 177 casos confirmados"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reporte COVID-19 -  Suman 4 mil 438 defunciones y 47 mil 891 contagios en la entidad"
 front: false
 section: "Local"
-news_id: 182104
+redirect_from: /news/182104
 ---
 
 La Secretaría de Salud informó que se tienen en el estado de Chihuahua un total general de 47 mil 891 casos confirmados de COVID-19, mientras que el número de personas fallecidas es 4 mil 438.

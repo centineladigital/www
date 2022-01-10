@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Resultados obtenidos gracias a la coordinación y aplicación estratégica de técnicas de investigación por parte de agentes del Ministerio Público, policías investigadores y analistas de información"
 image: "/uploads/2021/images-PATRIMONIALES.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Más de 4mdp recuperados a favor de víctimas de delitos patrimoniales"
 front: false
 section: "Local"
-news_id: 186401
+redirect_from: /news/186401
 ---
 
 En el presente año, la Unidad Especializada en Investigación de Delitos Patrimoniales de la Fiscalía Zona Centro ha recuperado 4 millones 108 mil 988 pesos a favor de las víctimas de fraudes, abusos de confianza y despojos

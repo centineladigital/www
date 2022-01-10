@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor acudió al programa 'Hoy Día', de Telemundo, para hablar de su nueva canción, 'Desde Cero'. "
 image: "/uploads/2021/images-el-actor-y-cantante-acudio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me siento feliz de estar con mi familia -  Eleazar Gómez da su primera entrevista tras salir de prisión"
 front: false
 section: "Espectáculos"
-news_id: 185419
+redirect_from: /news/185419
 ---
 
 Luego de pasar tiempo en prisión por violentar a su ex pareja Tefi Valenzuela, el actor Eleazar Gómez reapareció en televisión, específicamente en el programa de Telemundo Hoy Día, donde habló sobre el lanzamiento de su nueva canción, "Desde cero". Aunque también contó cuáles fueron sus pensamientos mientras estaba tras las rejas.

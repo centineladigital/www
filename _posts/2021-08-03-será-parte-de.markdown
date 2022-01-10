@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "The Weeknd está listo para sorprender a sus fans con una nueva canción que espera publicar este 6 de agosto. "
 image: "/uploads/2021/images-hasta-el-momento-no-se-28.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Será parte de su próximo disco! The Weeknd anuncia su nueva canción 'Take My Breath'"
 front: false
 section: "Espectáculos"
-news_id: 186266
+redirect_from: /news/186266
 ---
 
 No cabe duda que desde el 2020 The Weeknd ha cosechado éxito con su disco After Hours y ahora, todo parece indicar que el canadiense está listo para deleitar a sus fans con una nueva producción de la que se desprenderá el primer single "Take My Breath". The Weeknd ya mostró el primer adelanto de este tema que será lanzado el 6 de agosto. 

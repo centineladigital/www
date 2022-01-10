@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con música de Elgar, Weber y Schubert, el viernes 22 de octubre a las 8 de la noche en el Teatro de los Héroes"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Continúa Orquesta Filarmónica con su Temporada de Conciertos de Otoño de manera presencial"
 front: false
 section: "Local"
-news_id: 188975
+redirect_from: /news/188975
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Cultura, invita al concierto de la Orquesta Filarmónica del Estado de Chihuahua (OFECH) “Elgar-Weber-Schubert”, que se llevará a cabo este 22 de octubre a las 20:00 horas en Teatro de los Héroes.

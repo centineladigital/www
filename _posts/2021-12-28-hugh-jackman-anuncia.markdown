@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El musical anunció en redes sociales que la producción queda cancelada hasta el próximo sábado, 1 de enero. "
 image: "/uploads/2021/images-hugh-jackman-dio-positivo-a_0_49_749_467.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hugh Jackman anuncia que tiene covid; 'The Music Man', su musical de Broadway, es suspendido"
 front: false
 section: "Espectáculos"
-news_id: 191288
+redirect_from: /news/191288
 ---
 
 El actor australiano Hugh Jackman anunció  que se contagió de covid-19, lo que obligó a la cancelación del show de Broadway que él protagoniza, The Music Man, hasta el próximo 1 de enero. "Solo quería que lo escucharas de mí. He dado positivo por covid esta mañana", dijo Jackman en las redes sociales, donde concretó que sus síntomas son "leves" y que volverá a la producción teatral en cuanto le sea posible.

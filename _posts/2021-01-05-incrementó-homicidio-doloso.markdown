@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el plano estatal y en el mismo periodo de análisis, en la administración AMLO ha sido mayor que en los dos primeros años de Enrique Peña Nieto y Felipe Calderón"
 image: "/uploads/2021/images-escena_600.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Incrementó homicidio doloso 77% en los últimos dos años -  Ficosec"
 front: false
 section: "Local"
-news_id: 181867
+redirect_from: /news/181867
 ---
 
 El Fideicomiso para la Competitividad y Seguridad Ciudadana (Ficosec), informó a través de un análisis de resultados de los últimos años que la incidencia de homicidios dolosos ha sido más alta durante la gestión del presidente Andrés Manuel López Obrador (AMLO), que en la administración anterior del presidente Enrique Peña Nieto (EPN).

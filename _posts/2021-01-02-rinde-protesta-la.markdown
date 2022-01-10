@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las y los regidores fueron testigos de este acto"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rinde protesta la maestra María Angélica Granados Trespalacios como presidenta municipal   "
 front: false
 section: "Local"
-news_id: 181826
+redirect_from: /news/181826
 ---
 
 En uso de las facultades que le otorga la ley la maestra María Angélica Granados Trespalacios rindió protesta la mañana de este 2 de enero como presidenta municipal de Chihuahua, esto tras la licencia concedida a Maru Campos Galván para separarse del cargo, en sesión extraordinaria de Cabildo.

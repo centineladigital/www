@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Presidente indicó que la ayuda se enviará ante la difícil situación de salud que atraviesa Cuba, además, pidió que otros países apoyen a la isla"
 image: "/uploads/2021/images-barcos-armada-mexico-zarpar-cuba_97_0_927_576.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dos barcos saldrán de Veracruz a Cuba con alimentos y medicinas, anuncia AMLO"
 front: false
 section: "Internacional"
-news_id: 185984
+redirect_from: /news/185984
 ---
 
 Dos barcos de la armada de México saldrán del puerto de Veracruz con destino a Cuba para llevar oxígeno, alimentos y medicinas, ante la situación que vive aquél país en términos de salud, informó el presidente Andrés Manuel López Obrador. 

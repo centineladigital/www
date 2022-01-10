@@ -10,11 +10,11 @@ author: nil
 description: "Realizan obras con una inversión de más de 454 millones de pesos. "
 image: "/uploads/2021/images-VICTOR.jpg"
 video: "/uploads/2021/videos-MM07_VICTOR_RODRIGUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Llega a 507 obras programa Desarrollo, Paz y Reencuentro"
 front: false
 section: "Local"
-news_id: 186257
+redirect_from: /news/186257
 ---
 
 Un total de 507 obras es lo que la Secretaría de Desarrollo Municipal logró la integración de 360 Comités de Participación Ciudadana en 62 municipios; esto dentro del programa Desarrollo, Paz y Reencuentro, según fue dado a conocer por pate del titular de la dependencia Víctor Manuel Rodríguez Guajardo.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Indicó que esta suspensión quiere decir que no se hará entrega de los datos de la investigación y los registros que contiene la carpeta"
 image: "/uploads/2021/images-_DSC3773.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Logra Estado suspensión definitiva para no entregar carpetas de investigación a defensa de exgobernador"
 front: false
 section: "Local"
-news_id: 187336
+redirect_from: /news/187336
 ---
 
 El juez de Distrito Décimo Segundo, Juan Fernando Luévano, concedió al Gobierno del Estado de Chihuahua la suspensión definitiva para no entregar a la defensa del exgobernador  las carpetas de investigación en su contra, informó el titular de la Consejería Jurídica, Jorge Espinoza Cortés.

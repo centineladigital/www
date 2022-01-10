@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Nieve y hielo dificultan tránsito vehicular; seguirán bajas las temperaturas por refuerzo del Frente Frío 24 y una masa de aire polar"
 image: "/uploads/2021/images-baqueachi.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mantiene mal clima cierre de tramos carreteros en la entidad"
 front: false
 section: "Local"
-news_id: 181825
+redirect_from: /news/181825
 ---
 
 La Coordinación Estatal de Protección Civil reporta que las bajas temperaturas ocasionadas por las condiciones del clima han provocado nieve y hielo en los últimos días que dificultan el tránsito vehicular, por lo cual se mantienen cerrados a la circulación algunos tramos carreteros de la entidad:

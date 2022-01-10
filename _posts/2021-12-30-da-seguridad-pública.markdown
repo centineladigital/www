@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "No se tolerará la mala actuación de ningún elemento"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Audio_Julio_César_Salas.mp3"
 alt: "Da Seguridad Pública seguimiento a denuncia ciudadana contra agentes"
 front: false
 section: "Local"
-news_id: 191359
+redirect_from: /news/191359
 ---
 
 La Dirección de Seguridad Pública Municipal informa que se encuentra integrando la carpeta de investigación relacionada con la denuncia de un ciudadano ante probable conducta inadecuada de dos agentes, acusados por un ciudadano al que habrían interceptado en vía pública cuando circulaba en su automóvil particular.

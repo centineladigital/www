@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Keanu Reeves está de regreso en 'Matrix Resurrections', la cuarta entrega de la franquicia de películas de acción. "
 image: "/uploads/2021/images-keanu-reeves-regresa-neo-matrix.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Al estilo de 'John Wick', llega tráiler de 'Matrix Resurrections' con Keanu Reeves"
 front: false
 section: "Espectáculos"
-news_id: 187575
+redirect_from: /news/187575
 ---
 
 Keanu Reeves y Carrie-Anne Moss están de regreso en sus emblemáticos personajes de Neo y Trinity. 'Matrix Resurrections', la anhelada cuarta entrega de la serie de películas de acción ya tiene tráiler y su imperdible lanzamiento está mucho más cerca de lo que te imaginas. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Conflicto llevaba 30 años, crearon ruta para solución."
 image: "/uploads/2021/images-JORGE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ05.mp3"
 alt: "Resuelven conflicto jurídico en Fideicomiso de Retiro del Ichisal"
 front: false
 section: "Local"
-news_id: 185227
+redirect_from: /news/185227
 ---
 
 Este jueves el Consejero Jurídico de Chihuahua, Jorge Espinoza Cortés dio a conocer que se dio la la resolución del conflicto jurídico que existía para que los jubilados y pensionados del Instituto Chihuahuense de la Salud logren los beneficios del Fideicomiso de Retiro.

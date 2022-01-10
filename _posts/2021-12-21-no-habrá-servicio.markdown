@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal exhorta a la población a tomar previsiones"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No habrá servicio de recolección de basura el 25 de diciembre y 1 de enero"
 front: false
 section: "Local"
-news_id: 191067
+redirect_from: /news/191067
 ---
 
 Con motivo de la celebración de las fiestas decembrinas, el Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, informa a la ciudadanía en general que el sábado 25 de diciembre y 1 de enero, el servicio de recolección de basura se suspenderá.

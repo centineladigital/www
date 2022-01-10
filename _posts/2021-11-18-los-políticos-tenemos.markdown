@@ -16,11 +16,11 @@ author: nil
 description: "Muchos políticos ganan una elección y jamás vuelven a recorrer las calles, dejan de lado hablar con la gente que les dio su confianza y escuchar sus necesidades"
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BJ03_PEREZ_PAVIA.mp4"
-audio: "nil"
+audio: nil
 alt: " Los políticos tenemos que bajarnos de la nube y pisar el monte -  Pérez Pavía"
 front: false
 section: "Local"
-news_id: 189976
+redirect_from: /news/189976
 ---
 
 Ismael Pérez Pavía expresó que los servidores públicos se deben bajar de la nube y pisar el monte, ya que la verdadera política se construye bajo el sol y no en las oficinas.

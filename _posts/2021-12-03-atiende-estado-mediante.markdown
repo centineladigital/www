@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Personal de la Fiscalía Especializada en Atención a Mujeres Víctimas por Razón de Género y la Familia, y del Consejo Estatal de Población, le brindaron protección para mantener a salvo su integridad en Ciudad Juárez"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atiende Estado mediante labor interinstitucional a niña migrante de origen hondureño"
 front: false
 section: "Local"
-news_id: 190469
+redirect_from: /news/190469
 ---
 
 Mediante una labor coordinada entre instancias del Gobierno del Estado, se brindó protección para mantener a salvo la integridad de una menor migrante procedente de Honduras, localizada en el hotel filtro para migrantes con aparentes indicios de abuso sexual.

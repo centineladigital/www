@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno del Estado en conjunto con el Poder Legislativo entregó la Medalla al Mérito Educativo 2020-2021 en las categorías individual y de equipo   "
 image: "/uploads/2021/images-SED_6654.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconoce Secretario de Educación esfuerzos del magisterio  para continuar con el aprendizaje durante la contingencia"
 front: false
 section: "Local"
-news_id: 187063
+redirect_from: /news/187063
 ---
 
 En el marco de la entrega de la Medalla al Mérito Educativo 2020-2021, el secretario de Educación y Deporte, Carlos González Herrera, brindó un reconocimiento a todas y todos los maestros por los esfuerzos realizados a lo largo de los últimos meses para que la educación en el estado de Chihuahua no se detuviera con motivo de la contingencia sanitaria.

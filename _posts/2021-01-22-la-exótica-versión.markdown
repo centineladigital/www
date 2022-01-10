@@ -12,13 +12,13 @@ tags:
   
 author: nil
 description: "Te compartimos una extraña pero emotiva versión en árabe de 'Bésame mucho', famoso bolero escrito por Consuelo Velázquez."
-image: "nil"
-video: "nil"
-audio: "nil"
+image: nil
+video: nil
+audio: nil
 alt: "La exótica versión en árabe de 'Bésame mucho' de Consuelo Velázquez"
 front: false
 section: "Espectáculos"
-news_id: 182373
+redirect_from: /news/182373
 ---
 
 Hoy se cumplen 16 años del fallecimiento de Consuelo Velázquez, una de las compositoras más emblemáticas de la música mexicana y una virtuosa en el piano. Su talento musical quedó plasmado en temas como "Amar y vivir", "Enamorada" y por supuesto, "Bésame mucho". Nacida el 29 de enero de 1916 en Ciudad Guzmán, Jalisco, la artista falleció el 22 de enero de 2005 en la Ciudad de México. 

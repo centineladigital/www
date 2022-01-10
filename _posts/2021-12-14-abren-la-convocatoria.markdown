@@ -10,11 +10,11 @@ author: nil
 description: "Invitan a participar en esta edición para fomento del arte local."
 image: "/uploads/2021/images-ANA.jpg"
 video: "/uploads/2021/videos-MM01_ANA_CARO.mp4"
-audio: "nil"
+audio: nil
 alt: "Abren la convocatoria “Red de Teatros” en su edición 2022"
 front: false
 section: "Local"
-news_id: 190847
+redirect_from: /news/190847
 ---
 
 La convocatoria de la edición 2022 para la “Red de Teatros” se dio a conocer este martes por parte de Ana Caro Rivera quien es coordinadora del área de teatros, quien recalcó que con este programa se busca apoyar de forma profesional a las y los artistas a la creación, dirección y producción de las artes escénicas en el estado.

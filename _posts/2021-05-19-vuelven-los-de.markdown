@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Angélica María, Andrea Chaparro y Tessa Ia se suman al elenco de una de las familias más populares de la televisión. "
 image: "/uploads/2021/images-casa-flores-vuelve-netflix-forma.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Vuelven los de la Mora!; Netflix anuncia fecha de estreno de 'La Casa de las Flores -  la película'"
 front: false
 section: "Espectáculos"
-news_id: 184535
+redirect_from: /news/184535
 ---
 
 El regreso de la familia de la Mora a la pantalla chica ya tiene fecha. Netflix anunció este miércoles cuándo será el estreno de La Casa de las Flores: la película, que traerá de vuelta la historia de una de las familias más populares de la televisión. Será el 23 de junio cuando los fans de La Casa de las Flores puedan disfrutar de nuevo de las aventuras de esta polémica y divertida familia, en la que además de Cecilia Suárez, Aislinn Derbez, Dario Yazbek y Juan Pablo Medina, ahora se suman Angélica María, Andrea Chaparro y Tessa Ia. 

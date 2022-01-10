@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Pacientes y personal se encuentran en condiciones seguras para permanecer en el lugar, por lo que no fue necesario evacuarlos"
 image: "/uploads/2021/images-Evalúan_daños_en_el_H._Central_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Evalúa la Secretaría de Salud daños en Hospital Central"
 front: false
 section: "Local"
-news_id: 185824
+redirect_from: /news/185824
 ---
 
 La Secretaría de Salud del estado de Chihuahua analiza los daños registrados en el Hospital Central, luego de que se desprendieran varias láminas del techo del tercer piso del nosocomio.

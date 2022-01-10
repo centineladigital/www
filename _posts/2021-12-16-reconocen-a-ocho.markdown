@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Cuatro por atención a robo en domicilio, tres por auxiliar a mujer en parto y uno por salvar la vida de transeúnte acuchillado en asalto"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconocen a ocho agentes de la Policía Municipal por servir y proteger"
 front: false
 section: "Local"
-news_id: 190924
+redirect_from: /news/190924
 ---
 
 El alcalde Marco Bonilla Mendoza, entregó reconocimientos a ocho elementos de la Policía Municipal, por hacer honor al lema de su placa: “servir y proteger”, al lograr la captura de un presunto ladrón que entró a robar en un domicilio con los moradores en su interior, al ayudar a dar a luz a una mujer que no alcanzó a llegar al hospital y por salvar la vida de un hombre que estaba siendo acuchillado para robarle sus pertenencias.

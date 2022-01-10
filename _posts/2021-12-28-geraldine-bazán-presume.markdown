@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Por medio de Instagram, la actriz Geraldine Bazán dio a conocer fotos del nuevo integrante de su familia. "
 image: "/uploads/2021/images-geraldine-bazan-y-sus-hijas-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Geraldine Bazán presume al nuevo integrante de su familia"
 front: false
 section: "Espectáculos"
-news_id: 191265
+redirect_from: /news/191265
 ---
 
 Geraldine Bazán había sido tema de conversación por la polémica de su ex relación con el actor Gabriel Soto, que está en planes de boda con su actual pareja, Irina Baeva. Ahora, la actriz a lado de sus hijas presumieron por medio de Instagram a la nueva integrante de su familia. Se trata de una tierna gatita, la cual aún no tiene nombre pero que ya podemos ver posando en una foto con su hija Alexa Miranda, quien la sostiene sonriente mientras vemos a la pequeña felina de apenas unos meses. 

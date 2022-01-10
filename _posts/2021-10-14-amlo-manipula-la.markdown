@@ -14,11 +14,11 @@ author: nil
 description: "Buscan asegurar que se mantenga resguardado el mal manejo de la economía y el percance que está pasando el sector energético "
 image: "/uploads/2021/images-alfredo-chavez.jpg"
 video: "/uploads/2021/videos-BJ04_ALFREDO_CHAVEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "AMLO manipula la opinión pública -  Alfredo Chávez "
 front: false
 section: "Local"
-news_id: 188745
+redirect_from: /news/188745
 ---
 
 El diputado Alfredo Chávez, manifestó,  que el presidente Andrés Manuel López Obrador manipula la opinión pública ya que sus propuestas adaptar una cortina de humo ante el mal manejo de la pandemia de covid 19, así mismo, buscan asegurar que se mantenga resguardado el mal manejo de la economía y el percance que está pasando el sector energético.

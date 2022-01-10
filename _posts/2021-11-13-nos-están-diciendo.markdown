@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El ahijado de la actriz dijo que fue la hipertensión la que ocasionó el derrame cerebral. "
 image: "/uploads/2021/images-carmen-salinas-tiene-dano-irreparable.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nos están diciendo que Carmen Salinas ya no va a despertar  -  Jorge Nieto, ahijado y amigo de la actriz"
 front: false
 section: "Espectáculos"
-news_id: 189824
+redirect_from: /news/189824
 ---
 
 La actriz Carmen Salinas aún se encuentra en coma; sin embargo, el ahijado de la actriz dijo que ya no va a despertar y que tiene daños irreversibles, luego del derrame cerebral que le dio debido a la hipertensión que sufría desde hace tiempo, tras la muerte de su hijo.  En entrevista con Azucena Uresti para Grupo Fórmula, el ahijado de la actriz dijo que fue la hipertensión la que ocasionó el derrame cerebral y comentó que es impredecible decir una fecha en la que se podría notar una mejoría de la actriz, además de que tendrá daños irreversibles; sin embargo, dijo que están a la espera de un "milagro". 

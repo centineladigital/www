@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En Moscú se registraron 9 mil 56 nuevos casos de Covid-19 en 24 horas, un récord desde el inicio de la epidemia y el triple del nivel registrado hace menos de dos semanas"
 image: "/uploads/2021/images-2597271.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Variante Delta del virus dispara nuevos casos récord en Moscú"
 front: false
 section: "Local"
-news_id: 185101
+redirect_from: /news/185101
 ---
 
 La propagación de la variante Delta del coronavirus en Moscú disparó este viernes los contagios a una cifra récord en la capital rusa, obligando a tomar medidas para los eventos públicos, como el cierre de la zona para aficionados de la Eurocopa de fútbol.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En los consultorios PrevenIMSS se brindan servicios de promoción a la salud, detección de padecimientos crónicos y cobertura en vacunación"
 image: "/uploads/2021/images-Foto_370-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia campaña Consejos PrevenIMSS para motivar a vacunarse contra COVID-19 y no bajar la guardia"
 front: false
 section: "Local"
-news_id: 186996
+redirect_from: /news/186996
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) puso en marcha la Campaña Consejos  PrevenIMSS, para exhortar a la población a vacunarse contra COVID-19, e invitar a quienes cuentan con esquemas completos  o incompletos a no bajar la guardia y mantener las medidas de higiene y seguridad para evitar contagios.

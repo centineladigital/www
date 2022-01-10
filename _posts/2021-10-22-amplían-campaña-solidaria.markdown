@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Extienden plazo hasta el 20 de noviembre para recolectar 21 mil chamarras y alimentos para niñas, niños y adolescentes de Juárez, y la Sierra Tarahumara"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Amplían campaña solidaria “Juntos sin Frío”"
 front: false
 section: "Local"
-news_id: 189076
+redirect_from: /news/189076
 ---
 
 En solidaridad con niñas, niños y adolescentes de Ciudad Juárez y de la sierra Tarahumara, el Gobierno del Estado, a través del DIF Estatal, dio a conocer  en rueda de prensa que se amplió la campaña “Juntos sin Frío”, hasta el 20 de noviembre del presente año.

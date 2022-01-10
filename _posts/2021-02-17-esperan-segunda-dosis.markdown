@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esperan más de 21 mil vacunas para trabajadores que atienden COVID."
 image: "/uploads/2021/images-WENDY_AVILA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW05_WENDY_AVILA.mp3"
 alt: "Esperan segunda dosis para personal de la salud esta semana"
 front: false
 section: "Local"
-news_id: 183000
+redirect_from: /news/183000
 ---
 
 La segunda dosis de vacuna para personal del área de salud podría ser aplicada durante esta semana, esto luego de que el martes llegó al país nuevas dosis de Pfzier, según lo declaró la Subdirectora de Medicina Preventiva, Wendy Avila Coronado. 

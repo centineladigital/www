@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " El Hospital Regional “Gral. Ignacio Zaragoza” redujo más de 95 por ciento el rezago quirúrgico en un año y logra 16 certificaciones ISO 9001-2015, informó el titular de la DNSyC, Sergio Baltazar Barragán Padilla.  "
 image: "/uploads/2021/images-ISSSTE_01.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abate ISSSTE rezago quirúrgico, erradica medicamentos caducos y reactiva equipos médicos"
 front: false
 section: "Local"
-news_id: 189265
+redirect_from: /news/189265
 ---
 
 El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) implementa un plan integral para el mejoramiento de los servicios, el cual incluye la erradicación de medicamentos caducos, reparación y reactivación de  equipos de resonancia magnética y tomografía y sustitución de algunas instalaciones de quirófanos, informó el director general, Luis Antonio Ramírez Pineda.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con esta medida se pretende saldar adeudo de 220 mdp"
 image: "/uploads/2021/images-Para_saldar_adeudo_aprueban_regidoresa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueban regidores en Delicias celebrar convenio con la JMAS"
 front: false
 section: "Local"
-news_id: 183348
+redirect_from: /news/183348
 ---
 
 Por unanimidad, regidores del ayuntamiento aprobaron este lunes celebrar un convenio con la Junta Municipal de Agua y Saneamiento, para saldar la deuda de 220 millones de pesos que el municipio tiene con el organismo estatal, al cual se le venderán 27 terrenos.

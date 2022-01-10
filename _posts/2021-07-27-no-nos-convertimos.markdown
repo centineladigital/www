@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El carismático conductor de 'Ventaneando' habló sin tapujos sobre su orientación sexual en entrevista con Aurora Valle. "
 image: "/uploads/2021/images-pedrito-sola-menciono-que-su_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No nos convertimos en homosexuales -  Pedrito Sola revela cómo 'salió del clóset' con su familia hace 60 años"
 front: false
 section: "Espectáculos"
-news_id: 186016
+redirect_from: /news/186016
 ---
 
 Pedro Sola es uno de los personajes más influyentes en la farándula mexicana gracias a que lleva décadas siendo conductor del exitoso programa Ventaneando, por lo que suele dar de qué hablar a sus fans gracias a su singular carisma e inigualable personalidad, y también por su vida privada. 

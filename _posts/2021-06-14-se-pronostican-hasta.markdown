@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Otras temperaturas previstas son Chihuahua 34°C, Madera 31°C, Temósachic 33°C, Cuauhtémoc 31°C, Delicias 38°C, Camargo 37°C, Jiménez 35°C, Parral 33°C y El Vergel 25, informa Protección Civil; se prevén lluvias aisladas en zonas del norte y noreste del estado"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se pronostican hasta 39°C en Ojinaga, Janos y Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 185017
+redirect_from: /news/185017
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que para este lunes 14 de junio se esperan temperaturas máximas de hasta 39°C en Ojinaga y Ciudad Juárez, así como de 34°C en Chihuahua, además de rachas de viento superiores a 55 kilómetros por hora (km/h) en el norte, occidente, suroeste y noreste del estado.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Llego y le digo: 'Señora, buenas tardes, ¿cómo está?'. Voltea muy amable y a la hora que ve el cubo de Azteca nomás sentí el pelazo que me dio, se voltea y dije: 'Aquí está la nota', recordó el conductor en entrevista con Mara Patricia Castañeda. "
 image: "/uploads/2021/images-conductor-invitado-programa-mara-patricia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Era déspota, grosera -  Pepillo Origel recuerda mala entrevista con María Félix"
 front: false
 section: "Espectáculos"
-news_id: 189674
+redirect_from: /news/189674
 ---
 
 El conductor de espectáculos Juan José Origel fue el invitado más reciente del programa de entrevistas que realiza Mara Patricia Castañeda en YouTube; ahí Pepillo, como lo conoce la gente, recordó momentos cumbres en su carrera, como el desencuentro que tuvo con María Félix la primera vez que la quiso entrevistar.  "A dos mujeres he visto en México así en grande: a María Félix y a Silvia (Pinal). Pero María Félix  era déspota, grosera, y Silvia es una mujer querida por todo el pueblo, muy cariñosa con toda la gente. Hay una diferencia abismal", aseguró el conductor. 

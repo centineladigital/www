@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Rosa Icela Rodríguez, titular de la SSPC, informó que en los archivos de la dependencia, Segob y Cisen así como órganos descentrados se encontraron 31 contratos con diversas empresas fachada relacionadas con Pegasus, por conceptos como el uso de tecnología de inteligencia"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobierno encuentra 31 contratos con empresas fachada por Pegasus -  SSPC"
 front: false
 section: "Nacional"
-news_id: 186048
+redirect_from: /news/186048
 ---
 
 La secretaria de Seguridad y Protección Ciudadana, Rosa Icela Rodríguez informó que en los archivos de la dependencia, Segob y Cisen así como órganos descentrados se encontraron 31 contratos con diversas empresas fachada relacionadas con Pegasus, por conceptos como el uso de tecnología de inteligencia.  

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Cada vez falta menos para el estreno de la nueva temporada de iCarly, es por eso que ya se estrenó el tráiler de la serie. "
 image: "/uploads/2021/images-paramount-plus-compartio-avance-serie.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡El estreno está cerca! Revelan tráiler de la nueva temporada de 'iCarly'"
 front: false
 section: "Espectáculos"
-news_id: 184785
+redirect_from: /news/184785
 ---
 
 Hace tan sólo unos días se anunció la fecha de estreno de la nueva temporada de iCarly, serie que se transmitió en el 2007 en Nickelodeon y después de nueve años, la producción regresa de la mano de Paramount Plus y a poco de que los fans puedan disfrutar de más aventuras de Carly Shay, ya pueden ver el tráiler. A través de las redes sociales de iCarly, así como de Paramount Plus se estrenó el tráiler de lo que podremos ver en la tan esperada nueva temporada de la serie que llegó a su fin en el 2012, sin embargo, este 2021 llegará renovada y con dos nuevos personajes. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El martes, García Hernández pidió licencia al Senado de República para separarse de su escaño debido a que se reincorporaría al gobierno federal"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO designa a exsuperdelegado Gabriel García como encargado del proyecto Agua Saludable para La Laguna"
 front: false
 section: "Nacional"
-news_id: 189237
+redirect_from: /news/189237
 ---
 
 El presidente Andrés Manuel López Obrador nombró al exjefe de los súperdelegados, Gabriel García Hernández como encargado del proyecto Agua Saludable para la Laguna, debido a la oposición -dijo- de “políticos corruptos y retrógradas” que están en contra del plan.  

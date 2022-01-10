@@ -10,11 +10,11 @@ author: nil
 description: "Afirma Gobernadora que se sobrevuela el área."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-ML03_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Desconocen autoridades enfrentamiento en Guadalupe y Calvo"
 front: false
 section: "Local"
-news_id: 188600
+redirect_from: /news/188600
 ---
 
 La Gobernadora de Chihuahua dijo desconocer de forma oficial un enfrentamiento que se dio en el municipio de Guadalupe y Calvo, esto luego de que versiones extraoficiales manejan un número de entre 18 a 20 personas que perdieron la vida.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "López Obrador destaca cooperación mutua con Argentina para enfrentar al Covid-19; destaca intervención de México para que esa nación lograra ‘quita’ a su deuda principal"
 image: "/uploads/2021/images-2533736.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Alberto Fernández ayudó a conseguir vacunas rusas”"
 front: false
 section: "Nacional"
-news_id: 183076
+redirect_from: /news/183076
 ---
 
 El destacar la buena relación entre el gobierno de México y el de Argentina, así como lo que cada nación ha hecho para ayudar a la otra, el presidente Andrés Manuel López Obrador reconoció que gracias a su homólogo Alberto Fernández nuestro país pudo acceder a las vacunas rusas contra Covid-19.

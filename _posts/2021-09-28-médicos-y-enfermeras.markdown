@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El personal de salud advirtió que, a partir de esta semana, protestarán en las calles y cerrarán carreteras hasta recibir respuesta a sus demandas. "
 image: "/uploads/2021/images-personal-salud-oaxaca-protestara-demandas_29_0_1086_675.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Médicos y enfermeras protestan en Oaxaca; exigen recontratación inmediata"
 front: false
 section: "Nacional"
-news_id: 188122
+redirect_from: /news/188122
 ---
 
 En Oaxaca, médicos, enfermeras y personal de salud que trabajaron de manera eventual por la pandemia de covid-19 protestaron para exigir al gobierno federal su contratación inmediata. Los manifestantes se mostraron en contra de la suspensión de los trabajos eventuales en el sector salud, tanto en hospitales y unidades médicas. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante el evento West vedió merchandising anunciando sus planes de postularse a la presidencia de Estados Unidos una vez más en 2024. "
 image: "/uploads/2021/images-kanye-west-busca-cambiar-nombre.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Se encendió fuego! Kanye West presenta nuevo disco con Kim Kardashian vestida de novia y Marilyn Manson de invitado"
 front: false
 section: "Espectáculos"
-news_id: 187182
+redirect_from: /news/187182
 ---
 
 Kanye West presentó su álbum completo Donda, este jueves 26 de agosto en Chicago, Estados Unidos, en lo que fue una polémica y asombrosa noche llena de sorpresas en la que la presencia de Kim Kardashian y Marilyn Manson sorprendió a los fans del cantante. 

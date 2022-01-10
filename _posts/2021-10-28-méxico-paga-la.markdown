@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ese fue el resultado del experimento de Gerardo Martino que presentó una Selección Mexicana “C” que perdió ante Ecuador “B” "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México paga la novatez ante Ecuador"
 front: false
 section: "Deportes"
-news_id: 189290
+redirect_from: /news/189290
 ---
 
 Ese fue el resultado del experimento de Gerardo Martino que presentó una Selección Mexicana “C” que perdió ante Ecuador “B” por 3-2.

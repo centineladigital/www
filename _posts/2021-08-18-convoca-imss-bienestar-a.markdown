@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El periodo de inscripciones concluye este 19 de agosto de 2021"
 image: "/uploads/2021/images-Foto_4020-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Convoca IMSS-BIENESTAR a cirujanos, obstetras y ginecólogos a dirigir el hospital rural de Guachochi, Chihuahua"
 front: false
 section: "Local"
-news_id: 186831
+redirect_from: /news/186831
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua y el Programa IMSS-BIENESTAR convocan a médicos especialistas a participar en el proceso de selección para cubrir las vacantes de “Confianza A" de la categoría N52 Director Hospital Rural (HR) 80.

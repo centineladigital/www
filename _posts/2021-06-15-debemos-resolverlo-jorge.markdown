@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras hablar de este tema, el actor ya no quiso responder más preguntas de los periodistas: Eso ya qué importa, ustedes venían a preguntar lo que me están preguntando. "
 image: "/uploads/2021/images-jorge-salinas-respondio-a-lo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Debemos resolverlo -  Jorge Salinas tras ser acusado por Andrea Noli de no ver a su hija"
 front: false
 section: "Espectáculos"
-news_id: 185037
+redirect_from: /news/185037
 ---
 
 Durante una entrevista en el programa Hoy, Andrea Noli aseguró que Jorge Salinas no se ha hecho cargo de Valentina, la hija que tienen en común, lo que de inmediato provocó críticas hacia el actor por parte de los conductores del matutino. Entonces, para evitar que dicha polémica crezca, este lunes Salinas decidió responder a la acusación de la actriz durante un encuentro con varios medios de comunicación.

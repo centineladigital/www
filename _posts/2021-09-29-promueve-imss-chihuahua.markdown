@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La deficiencia de esta vitamina provoca: cansancio, dolor de cabeza, palidez, úlceras en la boca, trastornos del sueño y falta de memoria"
 image: "/uploads/2021/images-Foto_4779-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Promueve IMSS Chihuahua el ácido fólico durante el embarazo para prevenir defectos neurológicos en bebés "
 front: false
 section: "Local"
-news_id: 188185
+redirect_from: /news/188185
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua promueve la toma de ácido fólico en las mujeres que desean ser mamás, entre tres y seis meses antes del embarazo y en el primer trimestre de la gestación, pudiendo prolongarse hasta su término.

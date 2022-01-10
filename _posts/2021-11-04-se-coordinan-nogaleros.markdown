@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La DSPM apoya a los productores para prevenir atracos y resguardar la integridad de los trabajadores"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se coordinan nogaleros y Policía Municipal para garantizar seguridad en huertos   "
 front: false
 section: "Local"
-news_id: 189558
+redirect_from: /news/189558
 ---
 
 Con el objetivo de resguardar la integridad de quienes trabajan en las huertas nogaleras y evitar atracos de nuez en las mismas, representantes de este sector agrícola realizaron una reunión de coordinación con la Dirección de Seguridad Pública Municipal (DSPM), mediante la cual se acordó brindar vigilancia preventiva que permita concluir el ciclo productivo sin incidentes.

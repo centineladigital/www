@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Señaló que se ejercerá para apoyar a la población con programas efectivos no sólo para pagar la nómina de los empleados de gobierno"
 image: "/uploads/2021/images-riggs.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presupuesto de 180 mdp para desarrollo humano -  Miguel Riggs"
 front: false
 section: "Local"
-news_id: 184279
+redirect_from: /news/184279
 ---
 
 Miguel Riggs, candidato de Movimiento Ciudadano a la presidencia municipal, indicó que durante su administración se destinarán 180 millones de pesos para Desarrollo Humano, con una eficiencia de 117 millones respecto al actual gobierno.

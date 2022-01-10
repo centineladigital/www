@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La película de Teodora Mihai se proyectó en el Festival Internacional de Cine de Morelia, donde recibió una ovación de pie."
 image: "/uploads/2021/images-estrenan-la-civil-en-ficm.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arcelia Ramírez dedica 'La civil' a familiares de desaparecidos Festival de Cine de Morelia"
 front: false
 section: "Espectáculos"
-news_id: 189463
+redirect_from: /news/189463
 ---
 
 Arcelia Ramírez y Teodora Mihai presentaron La civil en el Festival Internacional de Cine de Morelia (FICM), donde recibieron una ovación de pie, como ocurrió en la pasada edición de Cannes, al mostrar la historia de una mujer que emprende la búsqueda de su hija desaparecida. 

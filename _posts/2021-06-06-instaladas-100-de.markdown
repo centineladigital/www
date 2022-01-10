@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante las primeras cuatro horas del día, se tuvo un retraso de más del 50 por ciento"
 image: "/uploads/2021/images-urnas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instaladas 100% de las casillas; son 1,303 en la ciudad"
 front: false
 section: "Local"
-news_id: 184878
+redirect_from: /news/184878
 ---
 
 Al corte de las 14:30 horas, en la Asamblea Municipal del IEE se informó que el 100 por ciento de las casillas en na ciudad, se encuentran instaladas.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La constancia que otorga el Instituto de Capacitación para el Trabajo del Estado de Chihuahua forma parte de la documentación oficial para que obtengan sus licencias oficiales"
 image: "/uploads/2021/images-save_20211122_090549.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacita ICATECH a agentes inmobiliarios sobre comercialización de bienes inmuebles"
 front: false
 section: "Local"
-news_id: 190112
+redirect_from: /news/190112
 ---
 
 La Secretaría de Innovación y Desarrollo Económico (SIDE), a través del Instituto de Capacitación para el Trabajo del Estado de Chihuahua (ICATECH), impartió el curso “Cierre de ventas inmobiliarias” a 13 agentes inmobiliarios de la entidad, lo cual contribuyó a que pudieran mejorar sus habilidades de asesoría y ventas.

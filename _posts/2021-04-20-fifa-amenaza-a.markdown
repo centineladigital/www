@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Gianni Infantino, presidente del organismo, asegura que los equipos deberán de afrontar las consecuencias. El COI y la DFB, en contra del nuevo torneo"
 image: "/uploads/2021/images-2565260.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "FIFA amenaza a clubes de la Superliga -  ‘estás dentro o fuera’"
 front: false
 section: "Deportes"
-news_id: 183982
+redirect_from: /news/183982
 ---
 
 El presidente de la FIFA, Gianni Infantino, respaldó a la UEFA en su oposición a la Superliga europea privada fundada por 12 grandes clubes disidentes, que según el dirigente de la Federación Internacional de Futbol "deberán afrontar las consecuencias" si persisten en su proyecto.

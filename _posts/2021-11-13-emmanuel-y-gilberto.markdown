@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los cantantes Emmanuel y Gilberto Santa Rosa coinciden en que mantener el nivel de calidad y evolucionar para conservar la conexión con su público ha sido la fórmula de su éxito. El miércoles 17 serán reconocidos por la Academia."
 image: "/uploads/2021/images-gilberto-santa-rosa-y-emmanuel.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emmanuel y Gilberto Santa Rosa, el Grammy Latino premia la excelencia de dos grandes"
 front: false
 section: "Espectáculos"
-news_id: 189826
+redirect_from: /news/189826
 ---
 
 Gilberto Santa Rosa y Emmanuel han hecho historia en el mundo de la música, el boricua a ritmo de salsa, y también ha tenido su lado romántico: “Empecé cantando boleros desde niño”; y el mexicano en el terreno del pop, en el que destaca: “Siempre fui un paso adelante a mi época”. Ambos han superado cambios, modas y hasta la forma en que la modernidad y la transformación de la industria ha impuesto en la forma de consumir canciones. 

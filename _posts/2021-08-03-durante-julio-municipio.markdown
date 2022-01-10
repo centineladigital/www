@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se llevó a cabo por parte del personal de la Dirección de Mantenimiento Urbano del Gobierno Municipal"
 image: "/uploads/2021/images-unnamed_(15).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Durante julio Municipio atendió más de 2 mil desperfectos de alumbrado público"
 front: false
 section: "Local"
-news_id: 186244
+redirect_from: /news/186244
 ---
 
 La reparación de 2 mil 105 desperfectos en el sistema de alumbrado público se llevó a cabo por parte del personal de la Dirección de Mantenimiento Urbano del Gobierno Municipal durante el recién concluido mes de julio, acciones que permiten brindar mayor seguridad a las personas al contar con calles bien iluminadas.

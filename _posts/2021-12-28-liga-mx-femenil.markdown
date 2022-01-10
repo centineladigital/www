@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La evolución de la Liga Mx Femenil ha sido notable, por lo que se espera que en el 2022 la Selección logre la calificación al Mundial de Nueva Zelanda y Australia 2023 "
 image: "/uploads/2021/images-jugadoras-de-la-seleccion-femenil.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Liga Mx Femenil ya es semillero de la Selección Mexicana"
 front: false
 section: "Deportes"
-news_id: 191257
+redirect_from: /news/191257
 ---
 
 La evolución de la Liga Mx Femenil ha sido notable, por lo que se espera que en el 2022 la Selección Mexicana que comanda Mónica Vergara logre la calificación al Mundial de Nueva Zelanda y Australia 2023, sobre todo porque Guadalajara será sede del Premundial. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El ex representante legal de Eleazar Gómez reveló la razón por la que decidió dejar el caso del actor. "
 image: "/uploads/2021/images-el-abogado-abandono-el-caso.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Se quedó sin defensa? Abogado de Eleazar Gómez renuncia al caso"
 front: false
 section: "Espectáculos"
-news_id: 182554
+redirect_from: /news/182554
 ---
 
 En noviembre del 2020 Eleazar Gómez fue acusado de agredir físicamente a su entonces novia Tefi Valenzuela, desde entonces el actor que participaba en la telenovela La mexicana y el güero se encuentra en el Reclusorio Norte hasta que se determine su situación legal, sin embargo, no todo parece estar de su lado ya que su abogado, Froylán Díaz, decidió renunciar al caso. 

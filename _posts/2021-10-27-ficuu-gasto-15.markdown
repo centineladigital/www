@@ -14,11 +14,11 @@ author: nil
 description: "20 mil personas fueron participantes en las diferentes locaciones "
 image: "/uploads/2021/images-sbq1K3FR7Y0AntvD.jpeg"
 video: "/uploads/2021/videos-_BW03_JORDAN_OROZCO_JORDAN_OROZCO_.mp4"
-audio: "nil"
+audio: nil
 alt: "FICUU gasto 15 millones 200 mil pesos "
 front: false
 section: "Local"
-news_id: 189273
+redirect_from: /news/189273
 ---
 
 El director de Desarrollo Económico y Turístico  Jordán Orozco manifestó que la derrama económica que tuvo el FICUU 2021  fue de 15 millones 200 mil pesos aproximadamente según datos de estadística dados por el sector económico municipal.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Roc Nation de Jay-Z volverá a ser uno de los productores del espectáculo de medio tiempo del Super Bowl de Pepsi. "
 image: "/uploads/2021/images-musicos-estaran-espectaculo-super-bowl_65_0_1085_675.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Eminem, Kendrick Lamar, Dr. Dre, Snoop Dogg y Mary J. Blige, en el medio tiempo del Super Bowl LVI"
 front: false
 section: "Espectáculos"
-news_id: 188263
+redirect_from: /news/188263
 ---
 
 ¿Alguna vez te imaginaste que Dr. Dre, Snoop Dogg, Eminem, Kendrick Lamar y Mary J. Blige estuvieran por primera vez en un mismo show? La NFL hará realidad esto, pues confirmó que los músicos se presentarán por primera vez juntos en el espectáculo de medio tiempo del Super Bowl LVI el 13 de febrero de 2022. 

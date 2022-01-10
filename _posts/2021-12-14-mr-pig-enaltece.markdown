@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El DJ mexicano ofrecerá un concierto este fin de semana en Ciudad de México."
 image: "/uploads/2021/images-daniel-bautista-aplaude-evolucion-electronica.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mr. Pig enaltece la revolución electrónica en México"
 front: false
 section: "Espectáculos"
-news_id: 190856
+redirect_from: /news/190856
 ---
 
 Para el DJ mexicano Daniel Bautista, mejor conocido como Mr. Pig, esta es una de las mejores épocas para el género de la electrónica producida en México, pues, con la aparición de la pandemia muchos exponentes aprovecharon las oportunidades que el contexto digital y en línea ofreció para desarrollar su propuesta y llevar su trabajo hasta los oídos adecuados. Uno de estos artistas fue Mr. Pig, quien en el marco del sexto aniversario de su carrera tendrá su primer concierto en Ciudad de México el próximo sábado 18 de diciembre en el Lunario del Auditorio Nacional y en entrevista con M2, Daniel Bautista compartió que eligió este recinto por su versatilidad, su compatibilidad con el proyecto que trae y porque será el primer DJ mexicano en tocar ahí. 

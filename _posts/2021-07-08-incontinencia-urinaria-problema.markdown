@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, a través de la Jefatura de Prestaciones Médicas, advirtió de los problemas de la llamada “incontinencia urinaria”, la cual está asociada con el deterioro neurológico, inflamación de la uretra, entre otros aspectos.  "
 image: "/uploads/2021/images-Foto_2961-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Incontinencia urinaria, problema frecuente que debe ser atendido de inmediato -  IMSS Chihuahua."
 front: false
 section: "Local"
-news_id: 185455
+redirect_from: /news/185455
 ---
 
 Se trata de un padecimiento que afecta tanto a hombres como a mujeres, y es uno de los síndromes geriátricos más frecuentes.

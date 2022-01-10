@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Usuarios pueden ser víctimas de fraude, amenazas o extorsión, especialmente con las aplicaciones Magic credits, Yumi cash, Cash cash y Cash box"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-01_at_16.31.27.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recomienda FGE evitar la instalación de aplicaciones para “préstamos fáciles”"
 front: false
 section: "Local"
-news_id: 188302
+redirect_from: /news/188302
 ---
 
 La Fiscalía General del Estado recomienda a la ciudadanía evitar la instalación de aplicaciones en dispositivos electrónicos, en las que ofrecen supuestos préstamos económicos fáciles o inmediatos.

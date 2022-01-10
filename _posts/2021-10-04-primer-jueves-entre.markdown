@@ -14,11 +14,11 @@ author: nil
 description: "Este 7 de octubre a las 17:00 horas en el Club de Leones"
 image: "/uploads/2021/images-comité_vecinal1.jpeg"
 video: "/uploads/2021/videos-BV04_MONICA_HERRERA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Primer “Jueves Entre Vecinos”"
 front: false
 section: "Local"
-news_id: 188358
+redirect_from: /news/188358
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, invita a todas las mesas directivas de los comités vecinales de las colonias de la ciudad a participar en el primer “Jueves Entre Vecinos”.

@@ -10,11 +10,11 @@ author: nil
 description: "“Creo que el rango de bateo que tiene la fiscalía en los expedientes es muy alto”, declara Secretario."
 image: "/uploads/2021/images-MESTA.jpg"
 video: "/uploads/2021/videos-MW04_FERNANDO_MESTA.mp4"
-audio: "nil"
+audio: nil
 alt: "Fiscalía no falló en caso Villareal -  Secretario"
 front: false
 section: "Local"
-news_id: 187110
+redirect_from: /news/187110
 ---
 
 La fiscalía no falló en el caso de Alejandro Villarreal, esto tras concederle un amparo al exdelegado del magisterio quien enfrenta delito de peculado dentro de la administración de César duarte, según lo declaró el titular de la Secretaría General de Gobierno Luis Fernando Mesta Soulé.

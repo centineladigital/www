@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Hasta el 7 de noviembre se montará “Entre huesos y leyendas”, con relatos propios de la tradicional fiesta de muertos "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita DIF Estatal a convivir y aprender sobre tradiciones mexicanas en el Museo Semilla"
 front: false
 section: "Local"
-news_id: 189182
+redirect_from: /news/189182
 ---
 
 El DIF Estatal invita a aprovechar el asueto por el Día de Muertos, disfrutar  la narración de “Entre huesos y leyendas” en un recorrido ágil y dinámico por las instalaciones  con los guías del Museo Semilla Interactivo.

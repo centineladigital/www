@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal, llevó a los planteles el Programa de Promoción y Protección de la Salud Mental en tu Escuela"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Concluyen 16 escuelas programa de prevención y atención psicológica"
 front: false
 section: "Local"
-news_id: 190644
+redirect_from: /news/190644
 ---
 
 El Gobierno Municipal, a través del Centro de Atención y Prevención Psicológicas CAPPSI, concluyó ciclo de actividades de prevención y atención psicológica de manera exitosa con 16 escuelas de nivel medio superior y superior del Municipio, en búsqueda del fortalecimiento de la salud mental de las y los estudiantes.

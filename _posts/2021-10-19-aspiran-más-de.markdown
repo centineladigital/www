@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Invitan a sumarse a las filas de una de las mejores policías municipales del país"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aspiran más de mil 500 personas a ser policía municipal de Chihuahua"
 front: false
 section: "Local"
-news_id: 188935
+redirect_from: /news/188935
 ---
 
 A días de concluir la convocatoria para hombres y mujeres que deseen sumarse a las filas de una de las mejores policías preventivas del país, el Gobierno Municipal a través de la Dirección de Seguridad Pública, invita a los interesados que cumplan con los requisitos, acudir a entregar sus documentos para iniciar el proceso de selección.

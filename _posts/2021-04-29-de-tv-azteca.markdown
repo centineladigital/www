@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante será una de las mentoras de un concurso de talentos español en el que buscará sumar a su equipo las mejores voces. "
 image: "/uploads/2021/images-danna-paola-participara-reality-show.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡De TV Azteca a España! Danna Paola participará en el reality show 'Top Star'"
 front: false
 section: "Espectáculos"
-news_id: 184204
+redirect_from: /news/184204
 ---
 
 Danna Paola tuvo un éxito rotundo con su participación en La Academia de TV Azteca, programa en el que protagonizó polémicos episodios junto a algunos de los concursantes. Ahora, la artista mexicana se traslada a España para unirse a los famosos que conformarán el grupo de mentores del concurso de talentos Top Star. ¿Cuánto vale tu voz?, de la cadena española Telecinco.  La intérprete de "Oye Pablo", junto a Isabel Pantoja y el periodista Risto Mejide, estará en este nuevo reality show español, en el que deberá luchar y pujar con dinero para conseguir sus voces favoritas. Aunque ya ha participado en otros concursos de televisión en México, para Danna Paola esta es la primera vez en la que no es juez sino mentora. 

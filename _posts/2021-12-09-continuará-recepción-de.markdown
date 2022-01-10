@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esta continuará abierta y será hasta el 12 de diciembre."
 image: "/uploads/2021/images-MARIANA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ04_MARIANA_ORTEGA.mp4"
 alt: "Continuará recepción de propuestas Premio Estatal de la Juventud"
 front: false
 section: "Local"
-news_id: 190682
+redirect_from: /news/190682
 ---
 
 Pese a que el plazo de recepción de documentos para quienes deseen participar en el Premio Estatal de la Juventud concluyó, esta continuará abierta y será hasta el 12 de diciembre cuando cierre el plazo para postularse de forma individual o con proyectos colectivos, según fue dado a conocer por parte de Mariana Ortega, Directora ICHIJUV.

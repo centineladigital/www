@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los diputados indicaron que entregaron 233 firmas, las cuales son suficientes para que se admita la acción de inconstitucionalidad. "
 image: "/uploads/2021/images-oposicion-ley-contraria-constitucion-ruben_0_1_1024_636.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Va por México' impugna ante Corte la Ley de Revocación de Mandato"
 front: false
 section: "Nacional"
-news_id: 188719
+redirect_from: /news/188719
 ---
 
 Legisladores federales de oposición que integran la coalición Va por México presentaron una acción de inconstitucionalidad en la Suprema Corte de Justicia de la Nación (SCJN) para impugnar la recién aprobada Ley Federal de Revocación de Mandato. 

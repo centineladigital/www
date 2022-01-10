@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las redes se incendiaron y criticaron al programa Hoy, pues los conductores opinaron sobre el caso de abuso de Rix hacia la youtuber Nath Campos. Hablaron sobre el alcohol y cuestionaron a la joven que siguió siendo amiga del victimario. "
 image: "/uploads/2021/images-critican-programa-televisa-cuestionar-caso.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acusan al 'programa Hoy' de Televisa de violentar a Nath Campos con sus opiniones"
 front: false
 section: "Espectáculos"
-news_id: 182416
+redirect_from: /news/182416
 ---
 
 Luego de que la youtuber Nath Campos denunciara de forma penal y pública que el influencer Rix abusó de ella mientras se encontraba tomada y de que las redes se volcaran en contra del victimario, la polémica sobre este caso continúa. Y es que aunque la noticia le ha dado la vuelta a diferentes medios de comunicación y programas de espectáculos, ninguno se había colocado en el ojo del huracán como el programa Hoy de Televisa. ¿Qué hicieron? Resulta que los conductores de la emisión matutina lanzaron su opinión desafortunada sobre el caso de Nath Campos por “tomar” y “seguir una relación de amistad” con Rix. Como era de esperarse las críticas en su contra llegaron, pues al parecer la opinión que depositaron los conductores en cadena nacional dejó mucho qué desear. Te contamos lo que dijeron en la emisión televisiva. 

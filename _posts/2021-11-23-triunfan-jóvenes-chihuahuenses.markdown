@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Los tres equipos, originarios de San Isidro y Ciudad Juárez lograron el primero y segundo lugar en dos categorías diferentes, una mención honorífica y un Premio a la Originalidad"
 image: "/uploads/2021/images-athenas_1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Triunfan jóvenes chihuahuenses en Feria Nacional y Latinoamericana de Ciencia"
 front: false
 section: "Local"
-news_id: 190113
+redirect_from: /news/190113
 ---
 
 La Delegación Chihuahua tuvo un relevante papel en la Feria Nacional y Latinoamericana de Humanidades, Ciencias e Ingeniería 2021 (ATHENA), llevado a cabo en Tuxtla Gutiérrez.

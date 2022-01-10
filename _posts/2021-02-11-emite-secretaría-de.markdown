@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través del Programa de Vectores, Rabia y Zoonosis se invita a la población a mantener medidas de limpieza en casa y de cuidado en mascotas"
 image: "/uploads/2021/images-Prevención_de_rickettsia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Secretaría de Salud recomendaciones para evitar la rickettsiosis"
 front: false
 section: "Local"
-news_id: 182871
+redirect_from: /news/182871
 ---
 
 La Secretaría de Salud, a través del Programa de Vectores, Rabia y Zoonosis, exhorta a la comunidad a conservar medidas de saneamiento en hogares y de cuidado en mascotas, para evitar casos de rickettsiosis entre la población.

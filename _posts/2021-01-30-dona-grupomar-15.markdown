@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Recibe secretario de Desarrollo Social el apoyo con un valor comercial superior a 121 mil pesos; enriquecerá los 2 mil 500 platillos que se entregan semanalmente a familias vulnerables"
 image: "/uploads/2021/images-Recibe_Gobierno_del_Estado_donación_de_latas_de_atún_2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dona Grupomar 15 mil latas de atún para comedores comunitarios del Estado"
 front: false
 section: "Local"
-news_id: 182586
+redirect_from: /news/182586
 ---
 
 Grupo Marítimo Industrial S.A de C.V (Grupomar), empresa dueña de la marca Tuny, donó al Gobierno del Estado 15 mil latas de atún, con un valor comercial de más de 121 mil pesos, para beneficiar a familias vulnerables a través de los comedores comunitarios.

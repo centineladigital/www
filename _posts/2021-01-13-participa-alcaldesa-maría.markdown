@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante la reunión los comerciantes realizaron diversos cuestionamientos a la alcaldesa en relación a las acciones que se llevarán a cabo en la zona centro"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa alcaldesa María Angélica Granados en sesión virtual de COCENTRO"
 front: false
 section: "Local"
-news_id: 182106
+redirect_from: /news/182106
 ---
 
 La presidenta municipal María Angélica Granados, participó en la sesión virtual de la Asociación de Comerciantes del Centro (COCENTRO), donde compartió a los asistentes las acciones que el Gobierno Municipal se encuentra realizando en el Centro Histórico.

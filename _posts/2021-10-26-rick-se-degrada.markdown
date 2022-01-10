@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Servicio Meteorológico Nacional (SMN) de México indicó cerca de la medianoche que Rick se había debilitado a una baja presión remanente sobre Jalisco"
 image: "/uploads/2021/images-michoacan_rick.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rick se degrada a baja presión remanente tras su paso por Jalisco"
 front: false
 section: "Nacional"
-news_id: 189191
+redirect_from: /news/189191
 ---
 
 Rick se debilitó tras tocar tierra cerca del puerto de Lázaro Cárdenas, en el estado de Michoacán en el occidente de México, como huracán categoría dos provocando fuertes lluvias y vientos de hasta 165 kilómetros por hora (105 mph).

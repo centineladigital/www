@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las de Monterrey se impusieron 2-1 en la vuelta de la semifinales y se citaron con Tigres en el duelo por el titulo de la Liga "
 image: "/uploads/2021/images-rayadas-derrota-atlas-regia-liga_177_158_902_561.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rayadas remonta a Atlas y habrá final regia en la Liga MX Femenil"
 front: false
 section: "Deportes"
-news_id: 190825
+redirect_from: /news/190825
 ---
 
 Y vendrá una nueva Final Regia, otro capítulo de una rivalidad que es histórica dentro del futbol femenil en México. De manera merecida, Rayadas vino de atrás remontó al Atlas para vencerlo 2-1 y avanzar a la Gran Final por mejor posición en la tabla tras empatar 2-2 en el marcador global… y para buscar el título se enfrentarán a sus archinémesis, las actuales Bicampeonas Tigres. 

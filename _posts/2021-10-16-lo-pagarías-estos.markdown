@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El empresario puede cobrar más de 80 mil pesos, pero también tiene mercancía para que puedas ser más visionario. "
 image: "/uploads/2021/images-carlos-munoz-conferencista-vuelto-tendencia_0_47_1080_672.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Lo pagarías? Estos son los precios de los cursos que imparte Carlos Muñoz"
 front: false
 section: "Espectáculos"
-news_id: 188805
+redirect_from: /news/188805
 ---
 
 En los últimos días, el conferencista Carlos Muñoz ha estado en tendencia debido a su forma de expresarse, en aquella última ocasión, cuando le dijo a un mesero que no tenía el hambre por no estar en una de sus conferencias que a menudo realiza con algunas personas, pero sabes cuánto cuestan estas pláticas; aquí te lo contamos.  El influencer, quien hace unos días fue acusado de humillar a un mesero para luego disculparse por su forma de expresarse, cobra más de 80 mil pesos, pero también encuentras su merchandist como libros, playeras, lentes que hace sentir a las personas como verdaderos visionarios.

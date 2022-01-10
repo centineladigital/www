@@ -12,11 +12,11 @@ author: nil
 description: "Se solicita a las familias acatar las medidas establecidas por el sector salud   "
 image: "/uploads/2021/images-Sin_título.png"
 video: "/uploads/2021/videos-VID_20211016_134112_244.mp4"
-audio: "nil"
+audio: nil
 alt: "Cuenta FICUU con protocolo sanitario para los asistentes"
 front: false
 section: "Local"
-news_id: 188836
+redirect_from: /news/188836
 ---
 
 Las diferentes dependencias y entes descentralizados del Gobierno Municipal, continúan empleando los protocolos sanitarios por Covid-19, tanto al interior de los centros laborales, como al exterior de los mismos en el desarrollo de eventos y programas establecidos para atención de la ciudadanía.

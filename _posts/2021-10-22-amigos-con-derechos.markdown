@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aunque Andrés García fue el primero en revelar el romance, Anel Noreña lo confirmó y mencionó que sucedió antes de que conociera a José José. "
 image: "/uploads/2021/images-los-famosos-tuvieron-un-romance_54_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Amigos con derechos? Anel Noreña confirma tuvo romance con Andrés García antes de conocer a José José"
 front: false
 section: "Espectáculos"
-news_id: 189105
+redirect_from: /news/189105
 ---
 
 Hace algunos años Andrés García era considerado uno de los galanes del cine y de la televisión, se sabe que durante sus años de juventud conquistó el corazón de varias mujeres y que tuvo fugaces romances con otras, entre ellas Anel Noreña, ex esposa de José José. El primero en revelar este tema fue el actor y ahora Anel lo confirmó. En uno de sus videos de YouTube, Andrés García contó que durante su juventud tuvo un romance con Anel Noreña, el cual no duró mucho debido a que la ex esposa de José José buscaba una relación más formal, por lo que al parecer el actor también ayudó a que Anel conociera al Príncipe de la canción. 

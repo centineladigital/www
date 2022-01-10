@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que de ganar se contará con personas indígenas."
 image: "/uploads/2021/images-MARCO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV06_MARCO_QUEZADA.mp3"
 alt: "Necesario reivindicar cultura indígena -  Quezada"
 front: false
 section: "Local"
-news_id: 184465
+redirect_from: /news/184465
 ---
 
 Dentro de las diversas reuniones con grupos indígenas el candidato a la Alcaldía, Marco Adán Quezada Martínez, señaló que los representantes de diversos asentamiento indígenas han señalado que se debe de reivindicar la cultura indígena.

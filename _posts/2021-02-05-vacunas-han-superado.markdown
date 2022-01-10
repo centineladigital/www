@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La OMS advirtió nuevamente que es necesario que las vacunas lleguen a todos los países para evitar posibles mutaciones del virus."
 image: "/uploads/2021/images-2524374.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Vacunas han superado a infecciones covid', asegura la OMS"
 front: false
 section: "Internacional"
-news_id: 182742
+redirect_from: /news/182742
 ---
 
 Las vacunas han superado a las infecciones por covid’, asegura el director de la Organización Mundial de la Salud Tedros Adhanom Ghebreyesus.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El organismo, precedido por Tedros Adhanom, señaló que debemos mantenernos cautelosos, luego de identificar 30 subvariantes de Delta "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "OMS -  el hemisferio norte se enfrentaría a la tercera ola de contagios por Covid-19, debido al frío"
 front: false
 section: "Internacional"
-news_id: 189299
+redirect_from: /news/189299
 ---
 
 Los casos de Covid-19, que la semana pasada aumentaron globalmente tras dos meses de descensos, podrían seguir subiendo especialmente en el hemisferio norte con la llegada de los meses fríos, advirtió hoy -jueves 28 de octubre- la jefa de la unidad técnica antiCovid de la Organización Mundial de la Salud (OMS), María Van Kerkhove. 

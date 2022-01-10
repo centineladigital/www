@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los días 12 y 13 de noviembre presentación de libros, exhibición y venta por parte de varias casas editoriales, talleres, pasarela cosplay y actividades lúdicas de fomento a la lectura"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Celebrarán encuentro Amo los Libros en Ciudad Juárez y Chihuahua"
 front: false
 section: "Local"
-news_id: 189772
+redirect_from: /news/189772
 ---
 
 Gobierno del Estado, a través de la Secretaría de Cultura, invita a conmemorar el Día Nacional del Libro, con el evento “Amo los Libros”, durante el cual se desarrollarán como parte de las acciones del Programa de Fomento a la Lectura y la Escritura, diversas actividades para toda la familia, los días 12 y 13 de noviembre en Chihuahua capital y el día 12 en Ciudad Juárez.

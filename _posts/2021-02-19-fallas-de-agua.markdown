@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Jiménez el único municipio que aún continúa con afectaciones de suministro hidráulico."
 image: "/uploads/2021/images-OSCAR.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV04_OSCAR_IBAÑEZ.mp3"
 alt: "Fallas de agua por daño de equipo"
 front: false
 section: "Local"
-news_id: 183054
+redirect_from: /news/183054
 ---
 
 Las comunidades en las cuales ha faltado el agua es debido a que se registraron daños en los equipos, señaló el titular de la Junta Central de Agua y Saneamiento, Oscar Ibáñez. Por lo que Jiménez se encuentra afectado por la baja de temperatura y aún no se encuentra al cien por ciento.

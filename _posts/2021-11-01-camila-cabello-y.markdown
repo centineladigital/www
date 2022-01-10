@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Luego de su visita a Oaxaca, los cantantes aprovecharon para unirse a las celebraciones por el Día de muertos con un increíble disfraz. "
 image: "/uploads/2021/images-camila-cabello-shawn-mendes-celebran-3_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Camila Cabello y Shawn Mendes sorprenden con disfraz de Catrina; así celebraron Día de Muertos"
 front: false
 section: "Espectáculos"
-news_id: 189432
+redirect_from: /news/189432
 ---
 
 Camila Cabello y Shawn Mendes siempre compartes con sus seguidores cada momento importante de su noviazgo, desde sus apasionados besos hasta sus viajes, prueba de ello es su reciente visita a Oaxaca en donde disfrutaron de los restaurantes y sitios turísticos más emblemáticos. Pero las vacaciones no terminaron ahí porque la pareja aprovechó su que pasaron unos días en tierra mexicana para celebrar el Día de Muertos. Sin duda, el Día de Muertos es una de las tradiciones más significativas para los mexicanos, dado que durante esta fecha conmemoramos con ofrendas y rituales el regreso al plano terrenal de los santos difuntos, una celebración a la que se unió la famosa pareja haciéndole tributo a uno de los personajes más emblemáticos de estos días: La Catrina.  

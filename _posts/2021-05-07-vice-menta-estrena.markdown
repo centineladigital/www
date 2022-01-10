@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El dúo trabaja en continuar con su primer proyecto musical."
 image: "/uploads/2021/images-el-duo-regio-se-junto.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vice Menta estrena canción junto a Alemán"
 front: false
 section: "Espectáculos"
-news_id: 184336
+redirect_from: /news/184336
 ---
 
 Desde el inicio de 2021, el exitoso dúo regiomontano Vice Menta, se ha mantenido desarrollando su proyecto musical, compartiendo temas como “El Santo”, sencillo que recientemente estrenó, y “12A12”, canciones que les han brindado rápido reconocimiento como exponentes de populares géneros musicales, como el urbano, hip-hop, R&B y trap. Para el estreno de su más reciente canción, “Solo Dio$”, se acercaron a otro de los raperos contemporáneos mexicanos más reconocidos de la escena nacional e internacional: Alemán. “Cuando empezamos la idea supimos que era especial, tenía algo. Ya era una canción que tenía un mensaje muy, pero desde que la escuchamos pensamos en que Alemán estuviera en esta canción, estábamos seguros de que podría elevarla mucho más”, destacó el dúo en entrevista con M2. 

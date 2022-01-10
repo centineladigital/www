@@ -16,11 +16,11 @@ author: nil
 description: "Buscan hacer estrategias para el buen uso del agua"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_12.28.54.jpeg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-09-28_at_12.55.08.mp4"
-audio: "nil"
+audio: nil
 alt: "Se instala la comisión del agua en el Congreso del Estado "
 front: false
 section: "Local"
-news_id: 188150
+redirect_from: /news/188150
 ---
 
 El diputado Edgar Piñón, declaró que  la comisión del agua instalada ante Congreso Del Estado, es ocasional para el estado de Chihuahua, afirmó que no se puede evitar pensar en la realidad de nuestro Estado ante el tema del agua, mucho menos dejarle a las generaciones posteriores la responsabilidad que se tiene como sociedad sobre el tema.

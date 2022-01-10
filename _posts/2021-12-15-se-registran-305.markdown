@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 asciende a 8 mil 539 casos (+16), las nuevas defunciones corresponden a los municipios de Juárez (+6), Chihuahua (+4), Cuauhtémoc (+1), Camargo (+1), Meoqui (+1), Chínipas (+1), Madera (+1) y Coyame del Sotol (+1)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 305 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 190881
+redirect_from: /news/190881
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 15 de diciembre el reporte COVID-19, en el cual se registran  89 mil 350 (+305) personas confirmadas en la entidad por este padecimiento,   76 mil 084 (+283) casos recuperados, 85 mil 270 (+331) descartados y 1,111 (+67) casos sospechosos.

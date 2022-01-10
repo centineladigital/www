@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Figuras dentro del partido la consideran como una mujer íntegra, trabajadora, valiente, comprometida y de resultados"
 image: "/uploads/2021/images-Maru_campos.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Panistas de todo el país brindan su apoyo a Maru Campos"
 front: false
 section: "Local"
-news_id: 183699
+redirect_from: /news/183699
 ---
 
 La Comisión Nacional Permanente del PAN, celebró una sesión en donde por unanimidad se aprobó la emisión de una serie de posicionamientos políticos en los que le brindan su total apoyo a la candidata del PAN y PRD por la gubernatura, María Eugenia Campos.

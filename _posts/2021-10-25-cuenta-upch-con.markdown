@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se trata de un nuevo espacio que permitirá capacitar a estudiantes para resolver problemas de ingeniería, diseñar, evaluar y mejorar componentes de aeronaves, establecer procesos de manufactura, y dominio de software especializado"
 image: "/uploads/2021/images-FOTO_UPCH_LAB_DIM_6.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cuenta UPCH con uno de los 8 laboratorios  de Diseño, Innovación y Manufactura 4.0 del país"
 front: false
 section: "Local"
-news_id: 189155
+redirect_from: /news/189155
 ---
 
 La Universidad Politécnica de Chihuahua (UPCH) puso en operación un nuevo espacio académico, el laboratorio de Diseño, Innovación y Manufactura 4.0, uno de los ocho disponibles en México, con capacidad industrial, prestación de servicios, docencia y prácticas profesionales, que le permitirá capacitar a sus estudiantes en las mejores tecnologías.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este nuevo lanzamiento significa el tercero en poco más de un año y versa sobre tener fe y confianza en Dios. "
 image: "/uploads/2021/images-freedom-cuenta-con-seis-canciones.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Justin Bieber sorprende con el lanzamiento de 'Freedom', un disco completamente religioso"
 front: false
 section: "Espectáculos"
-news_id: 183680
+redirect_from: /news/183680
 ---
 
 Apenas dos semanas después del lanzamiento de su último álbum de estudio titulado Justice, Justin Bieber ha publicado por sorpresa un nuevo disco con canciones inéditas. El EP responde al nombre de Freedom, cuya temática se centra en la religión. Son seis temas los que incluye esta grabación que el artista canadiense anunció a través de sus redes sociales con el mensaje: "Freedom en todas las plataformas", cuya fotografía es precisamente la portada del disco: la captura de pantalla de un móvil en la que se observa un bloc de notas con el nombre del material. 

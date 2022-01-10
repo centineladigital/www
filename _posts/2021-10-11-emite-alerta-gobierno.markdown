@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se espera el incremento de vientos y lluvias dispersas a moderadas debido a las bandas nubosas de la Tormenta Tropical Pamela"
 image: "/uploads/2021/images-image1.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite alerta Gobierno del Estado por fuertes vientos, lluvias y cambios de temperatura en la entidad"
 front: false
 section: "Local"
-news_id: 188584
+redirect_from: /news/188584
 ---
 
 El Gobierno del Estado, a través de la Coordinación Estatal de Protección Civil (CEPC), con base al pronóstico del Servicio Meteorológico Nacional y La Junta Central de Agua y Saneamiento del Estado, dio a conocer sobre el ingreso del Frente Frío número 4 a la entidad este martes por la noche.

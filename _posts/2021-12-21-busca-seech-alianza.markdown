@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Impulsaría a las y los docentes mediante el equipamiento de las aulas de medios con tecnología y  facilitaría sus habilidades digitales   "
 image: "/uploads/2021/images-Busca_SEECH_alianza.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Busca SEECH alianza con Fundación UNETE para la mejor la educación"
 front: false
 section: "Local"
-news_id: 191084
+redirect_from: /news/191084
 ---
 
 Con la finalidad de establecer una vinculación y colaboración para el mejoramiento de la educación en Chihuahua, se realizó a reunión virtual entre directivos de Servicios Educativos del Estado de Chihuahua (SEECH) y la Fundación UNETE.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La ceremonia inaugural fue presidida por la secretaria de Innovación y Desarrollo Económico, María Angélica Granados Trespalacios"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizan por primera vez en Chihuahua reunión del Consejo Mexicano Vitivinícola"
 front: false
 section: "Local"
-news_id: 190132
+redirect_from: /news/190132
 ---
 
 La secretaria de Innovación y Desarrollo Económico, María Angélica Granados Trespalacios, presidió la reunión del Consejo Mexicano Vitinivícola, que por primera vez se celebra en la ciudad de Chihuahua.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Varios condados al norte de California, están cambiando sus reglas para prevenir los contagios, ante la presencia de la nueva variante. "
 image: "/uploads/2021/images-duenos-negocios-comerciales-comienzan-pedir.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La variante ómicron está cambiando las reglas de salud pública en estos condados de California"
 front: false
 section: "Internacional"
-news_id: 190507
+redirect_from: /news/190507
 ---
 
 Después de que los Centros para el Control y la Prevención de Enfermedades clasificaran la variante ómicron como “una variante de preocupación” a principios de esta semana, varios condados al norte de California comienzan a tomar nuevas medidas preventivas. 

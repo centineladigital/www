@@ -20,11 +20,11 @@ author: nil
 description: "Inicio el programa medidas de prevención en tu escuela contra el Covid 19"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-07_at_13.08.27.jpeg"
 video: "/uploads/2021/videos-BJ02_MONICA_HERRERA.mp4"
-audio: "nil"
+audio: nil
 alt: "Sanitización de escuelas en la Secundaria Técnica 40"
 front: false
 section: "Local"
-news_id: 188493
+redirect_from: /news/188493
 ---
 
 El Alcalde Marco Bonilla informó que este programa beneficiará inicialmente a 100 escuelas, comenzando así con la secundaria técnica 40  todo esto para reforzar las medidas de prevención contra el COVID-19.

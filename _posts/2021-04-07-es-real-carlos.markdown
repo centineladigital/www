@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En redes sociales, los asistentes a la fiesta compartieron imágenes del concierto. "
 image: "/uploads/2021/images-carlos-rivera-suspendio-presentaciones-ano.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Es real? Carlos Rivera vuelve al escenario... con fiesta de XV años en Mazatlán"
 front: false
 section: "Espectáculos"
-news_id: 183730
+redirect_from: /news/183730
 ---
 
 los espectáculos, pues fueron de los primeros en suspender actividades y serán los últimos en volver, con shows y conciertos masivos, que hoy en día son difíciles de imaginar, ante una epidemia aún activa. Sin embargo, los famosos han buscado alternativas para sobrevivir a la sequía, desde vender comida, como Violeta Isfel, que emprendió con un negocio de hamburguesas, hasta reactivarse con presentaciones con menos público, en fiestas privadas, como Carlos Rivera. Según videos que circulan en redes sociales, el originario de Tlaxcala ha puesto fin a la larga cuarentena en los escenarios con una presentación en una fiesta de XV años. La filtración ha vuelto locos a sus seguidores, que aseguran que ya están haciendo el ahorro para solicitar sus servicios en un evento familiar. Te contamos todo lo que se sabe sobre esta fiesta de cumpleaños en la que seguramente le robaron cámara a la festejada. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Creo que toqué a la gente de forma más orgánica, en donde yo me atrevo a cruzar esta frontera de televidente-actriz”, reveló la famosa en el podcast 'En cortinas'. "
 image: "/uploads/2021/images-ericka.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Se volvió una locura” -  Erika Buenfil recuerda cómo comenzó a subir videos en TikTok"
 front: false
 section: "Espectáculos"
-news_id: 183914
+redirect_from: /news/183914
 ---
 
 Aunque Erika Buenfil es una actriz que se volvió famosa gracias a las telenovelas, el impacto que tiene actualmente a nivel mediático se lo debe en gran medida a las redes sociales, principalmente a TikTok, donde al día de hoy ostenta 11.7 millones de seguidores. Pero su éxito en esta plataforma también ha implicado sacrificios y disciplina, así lo contó durante una entrevista en el podcast En Cortinas con el youtuber Berth Oh. “Es la primera en la que renace mi carrera de una manera explosiva, fuera de control. El que promovió todo esto fue mi hijo Nicolás… Me quitan mi exclusividad (en Televisa) y entonces, de estar muy cómoda, de tener la seguridad que tienes que trabajar ahí porque tienes un contrato, te quedas libre. Llegué a mi casa y le digo a mi hijo: ‘¿Qué voy a hacer?’, porque ya no tenía edad para volver a empezar”, recordó la celebridad. 

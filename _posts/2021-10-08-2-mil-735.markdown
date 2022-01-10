@@ -16,11 +16,11 @@ author: nil
 description: "Hizo un llamado a las mujeres a denunciar la violencia, a través del 911 y en las comisarías de policía"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-08_at_14.07.12(1).jpeg"
 video: "/uploads/2021/videos-BV05_LILIANA_HERRERA_.mp4"
-audio: "nil"
+audio: nil
 alt: "2 mil 735 llamadas de auxilio en 9 meses"
 front: false
 section: "Local"
-news_id: 188541
+redirect_from: /news/188541
 ---
 
 Liliana Herrera Subdirectora de delitos de violencia familiar y de género dio a conocer que  de enero a la fecha se han recibido 2mil 735 llamadas de auxilio por delitos contra la mujer, pareja y familia, lo que se refleja en una mayor inversión de recursos policiales. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Este jueves Rusia registró 25 mil 667 nuevos contagios de covid-19 y mil dos fallecimientos por coronavirus, 18 menos que en la jornada anterior. "
 image: "/uploads/2021/images-putin-estuvo-muy-consternado-cuando.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Putin asegura que Rusia no oculta datos sobre mortalidad de covid-19 -  ¿quién sí lo hace?"
 front: false
 section: "Internacional"
-news_id: 191148
+redirect_from: /news/191148
 ---
 
 El presidente de Rusia, Vladímir Putin, aseguró este jueves que Rusia no oculta los datos de mortalidad de la covid-19, que a diario, desde hace más de dos meses sega la vida de más de un millar de personas en el país. 

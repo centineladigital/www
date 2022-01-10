@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Luego de 22 minutos del primer movimiento se produjo una réplica de 2.8 grados de magnitud, casi exactamente en el mismo punto. "
 image: "/uploads/2021/images-miles-de-personas-han-tenido-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sube a 3 la cifra de muertos por sismo de magnitud 6 en China; hay al menos 60 heridos"
 front: false
 section: "Internacional"
-news_id: 187781
+redirect_from: /news/187781
 ---
 
 La cifra de muertes por un sismo de seis grados de magnitud que sacudió hoy la provincia china de Sichuan, en el centro del país, ascendió a tres y la de heridos llegó a 60, según informaron las autoridades de ese país. De los 60 heridos, tres se encuentran graves, mientras que varios miles de personas han tenido que ser realojados por la catástrofe.

@@ -10,11 +10,11 @@ author: nil
 description: "Cifra a ido en incremento."
 image: "/uploads/2021/images-kri.jpg"
 video: "/uploads/2021/videos-MV04_KRISSEL_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "El 20 por ciento de contagiados con VIH son mujeres"
 front: false
 section: "Local"
-news_id: 190484
+redirect_from: /news/190484
 ---
 
 El 20 por ciento de las personas contagiadas de VIH o SIDA pertenecen al género femenino, según lo dio a conocer Krissel García Hernández, encargada de COESIDA. Lo que representa que por cada cuatro hombres que tienen esta enfermedad existe una mujer.

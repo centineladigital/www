@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De un total de 2 mil 878 solicitudes recibidas, han desahogado el 62.54%, teniendo pendientes aún el 37% de los casos"
 image: "/uploads/2021/images-congreso-del-estado.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Diputados locales dejarán mil asuntos sin resolver"
 front: false
 section: "Local"
-news_id: 185266
+redirect_from: /news/185266
 ---
 
 La presente legislatura estatal ha recibido un total de 2,878 iniciativas, de las cuales se han logrado desahogar 1,800, es decir, el 62.54%.

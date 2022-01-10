@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El subdirector de Epidemiología de la Secretaría de Salud Chihuahua, Gumaro Barrios, dio a conocer que se registraron 221 nuevos casos, así como 13 fallecimientos"
 image: "/uploads/2021/images-ACTUALIZACIÓN_COVID_9_ENERO_2021_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se elevan contagios confirmados de COVID-19 a 47,313; van 4,377 decesos"
 front: false
 section: "Local"
-news_id: 182007
+redirect_from: /news/182007
 ---
 
 El reporte técnico sobre la situación de la pandemia de COVID-19 en la entidad, de la Secretaría de Salud Chihuahua, indica que hay un total general de 47 mil 313 contagios tras haberse confirmado otros 221, mientras que el número de personas fallecidas incrementó en 13 y suman ya 4 mil 377.

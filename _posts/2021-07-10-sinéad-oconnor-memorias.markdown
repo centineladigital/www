@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "“Esta es mi historia tal como la recuerdo; me divertí mucho escribiéndola durante los últimos años, aunque apenas he alcanzado a recordar lo que le he entregado a mi editor”, relata la cantante sobre su libro 'Remembranzas'. "
 image: "/uploads/2021/images-en-sinead-o-connor-fue.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sinéad O’Connor, memorias de una chica complicada"
 front: false
 section: "Espectáculos"
-news_id: 185536
+redirect_from: /news/185536
 ---
 
 Antes de dedicarle a su madre un enorme espacio en Remembranzas (Libros del Kultrum, 2021), Sinéad O’Connor reveló en el programa de televisión Dr. Phil (2017) que había padecido abuso físico, sexual y emocional por parte de Marie, su progenitora. “Ella era una cámara de torturas, una persona que sonreía al lastimarte (...). Mi recuerdo más lejano es el de ella diciéndome que no debí nacer. Ella no me quería. No quería niñas. Quería un niño. Me trataba como chico. Me cortó el cabello.  

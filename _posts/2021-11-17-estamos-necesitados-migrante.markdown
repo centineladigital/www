@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras recorrer 500 km desde el 23 de octubre, cuando la caravana salió de Tapachula (Chiapas, sur), Elsa Pineda y su hija sienten desfallecer. Pero siguen adelante para escapar de la pobreza y la violencia. "
 image: "/uploads/2021/images-echar-mano-suplica-caravana-migrante.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estamos necesitados -  Migrante de la caravana que viaja de México a EU manda súplica a Biden"
 front: false
 section: "Nacional"
-news_id: 189913
+redirect_from: /news/189913
 ---
 
 Entre cientos de migrantes que avanzan en caravana por México con el sueño de llegar a Estados Unidos, Elsa implora al presidente Joe Biden que le dé refugio para proteger a su familia de las pandillas hondureñas. 

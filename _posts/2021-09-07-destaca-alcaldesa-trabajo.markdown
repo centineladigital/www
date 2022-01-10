@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante su intervención, la Edil agradeció y reconoció la colaboración que se tuvo al trabajar con los empresarios por cinco años"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Destaca Alcaldesa trabajo coordinado con empresarios en reunión CANACINTRA"
 front: false
 section: "Local"
-news_id: 187506
+redirect_from: /news/187506
 ---
 
 La presidenta municipal, María Angélica Granados Trespalacios, destacó el trabajo coordinado con el sector empresarial durante su participación en la sexta Reunión del Consejo de la Cámara Nacional de la Industria de Transformación (CANACINTRA) Chihuahua, la cual tuvo lugar vía Zoom.

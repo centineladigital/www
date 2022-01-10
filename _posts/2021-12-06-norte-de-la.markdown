@@ -10,11 +10,11 @@ author: nil
 description: "Esto al dar a conocer el resultado del análisis de las estrategias en materia de seguridad que se llevan a cabo en la ciudad."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-ML06_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Norte de la capital el más conflictivo"
 front: false
 section: "Local"
-news_id: 190556
+redirect_from: /news/190556
 ---
 
 La zona norte de la capital de Chihuahua es la más conflictiva del estado, fueron las palabras del Secretario General de Gobierno César Gustavo Jáuregui Moreno. Esto al dar a conocer el resultado del análisis de las estrategias en materia de seguridad que se llevan a cabo en la ciudad.

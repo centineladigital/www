@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A Juan Pablo Medina tuvieron que amputarle una pierna tras una trombosis y la novia del actor, Paulina Dávila, habló sobre cómo se encuentra su pareja. "
 image: "/uploads/2021/images-paulina-davila-hablo-juan-pablo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Paulina Dávila habla del estado de salud de Juan Pablo Medina, su novio, tras amputación de su pierna"
 front: false
 section: "Espectáculos"
-news_id: 189389
+redirect_from: /news/189389
 ---
 
 Desde hace unos meses se dio a conocer que el actor Juan Pablo Medina había sido hospitalizado de emergencia y que tras una trombosis le tuvieron que amputar una pierna. Hasta el momento el actor ha estado alejado de las cámaras y para saber cómo se encuentra, la prensa cuestionó a Paulina Dávila, novia del histrión. En entrevista con varios medios, la cual fue retomada por Sale el Sol, la actriz quien apareció en la primera temporada de Luis Miguel, la serie, habló sobre el estado de salud de su novio, aunque no dio muchos detalles. 

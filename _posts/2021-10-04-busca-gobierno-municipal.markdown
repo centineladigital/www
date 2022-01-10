@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Bonilla Mendoza destacó que se busca finalizar la administración con una inversión de poco más de mil millones de pesos en temas de sustentabilidad, destacando la inversión del relleno sanitario"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Busca Gobierno Municipal que se inviertan más de mil millones de pesos en la sustentabilidad de la ciudad   "
 front: false
 section: "Local"
-news_id: 188362
+redirect_from: /news/188362
 ---
 
 El proyecto “Chihuahua Green City” impulsaría la economía circular en la ciudad La Delegación de la Unión Europea en México presentó el proyecto “Chihuahua Green City” el cual consiste en la implementación de una metodología de Simbiosis Industrial en el municipio, con la finalidad de impulsar la economía circular en la ciudad, con el objetivo de sentar las bases para que Chihuahua sea una capital verde.

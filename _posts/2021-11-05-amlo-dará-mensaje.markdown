@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente detalló que viajará a Nueva York el lunes y el mensaje desde la ONU será el martes a las 08:00 horas de México. "
 image: "/uploads/2021/images-presidente-dara-mensaje-onu-noviembre_0_0_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO dará mensaje en vivo desde el Consejo de Seguridad de la ONU en EU el martes"
 front: false
 section: "Nacional"
-news_id: 189572
+redirect_from: /news/189572
 ---
 
 El presidente Andrés Manuel López Obrador informó que el martes 9 de noviembre dará un mensaje en vivo desde la sede de la Organización de las Naciones Unidas (ONU), en Nueva York, Estados Unidos, como parte de la ceremonia para que México presida el Consejo de Seguridad. 

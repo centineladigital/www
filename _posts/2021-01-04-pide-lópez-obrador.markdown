@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Asegura que también deben manejar con honradez y austeridad republicana sus presupuestos; esto podría garantizar la gratuidad de la educación, aclara"
 image: "/uploads/2021/images-2506013.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pide López Obrador a universidades públicas no cobrar cuotas"
 front: false
 section: "Nacional"
-news_id: 181832
+redirect_from: /news/181832
 ---
 
 El presidente Andrés Manuel López Obrador afirmó que las universidades públicas deben hacer un esfuerzo para evitar el cobro de cuotas y para manejar con “honradez y austeridad republicana” sus recursos para así garantizar la gratuidad y el derecho a la educación.

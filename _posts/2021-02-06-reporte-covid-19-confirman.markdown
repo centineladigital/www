@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Informa la Secretaría de Salud estatal que a la fecha suman 4 mil 750 decesos y 51 mil 338 casos"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Reporte COVID-19 -  confirman 192 contagios y 19 fallecimientos más"
 front: false
 section: "Local"
-news_id: 182762
+redirect_from: /news/182762
 ---
 
 La Secretaría de Salud estatal informó que a este día, se tienen en el estado de Chihuahua un total general de 51 mil 338 casos confirmados de COVID a 19, con 192 nuevos contagios.

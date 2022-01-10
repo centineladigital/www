@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cumplimiento de la gratificación anual fue posible debido al anticipo que el Gobierno Federal hizo a Chihuahua, sobre las participaciones que le corresponden al Estado"
 image: "/uploads/2021/images-SH1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cubre Estado el pago de la segunda mitad del aguinaldo  a todos los servidores públicos"
 front: false
 section: "Local"
-news_id: 182188
+redirect_from: /news/182188
 ---
 
 El Gobierno del Estado realizó este viernes 15 de enero, el pago de la segunda parte del aguinaldo correspondiente al año 2020, a todas y todos los servidores públicos de los tres poderes del Estado, de los organismos descentralizados y de los órganos autónomos, informó el secretario de Hacienda, Arturo Fuentes Vélez.

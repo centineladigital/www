@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En su primer año, la Secretaría de Seguridad Pública del Estado conformó la Policía Cibernética, mejoró las interconexiones tecnológicas con los municipios y capacitó al personal operativo"
 image: "/uploads/2021/images-SSPE__(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con inversión de 80 mdp se equipó y modernizó a la Subsecretaría de Inteligencia y Análisis Policial"
 front: false
 section: "Local"
-news_id: 186941
+redirect_from: /news/186941
 ---
 
 Como parte de los Logros con Valor de la Secretaría de Seguridad Pública del Estado, la  Subsecretaría de Inteligencia y Análisis Policial (SIAP) realizó una inversión de más de 80 millones de pesos en acciones de tecnología y capacitación al personal.

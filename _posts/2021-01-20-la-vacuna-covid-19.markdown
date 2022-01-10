@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El proceso está permanentemente vigilado, lo que disminuye el riesgo de que pueda registrarse alguna situación irregular"
 image: "/uploads/2021/images-Aplicación_de_la_vacuna_vs_COVID_en_Chih.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La vacuna COVID-19 se aplica sin contratiempos en Chihuahua -  Secretaría de Salud"
 front: false
 section: "Local"
-news_id: 182284
+redirect_from: /news/182284
 ---
 
 La Secretaría de Salud del Gobierno del Estado, informa que el proceso de la aplicación de la vacuna Covid-19 en el estado de Chihuahua, se lleva a cabo de acuerdo a los protocolos establecidos por la Secretaría de Salud federal, la Secretaría del Bienestar y la Secretaría de la Defensa Nacional. 

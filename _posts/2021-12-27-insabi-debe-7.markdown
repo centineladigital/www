@@ -22,11 +22,11 @@ author: nil
 description: "Con las compras directas se adquirieron medicamentos especializados como los oncológicos"
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BL06_FELIPE_SANDOVAL_.mp4"
-audio: "nil"
+audio: nil
 alt: "INSABI debe 7 MDP en medicamentos "
 front: false
 section: "Local"
-news_id: 191253
+redirect_from: /news/191253
 ---
 
 “El abasto de medicamentos sigue siendo un problema en el Estado, aseguró el secretario de salud, Fernando Sandoval Magallanes, respecto a los 11 millones de pesos que se prometieron por parte del INSABI (Instituto de Salud para el Bienestar) por sus siglas, informó que solo se abastecieron 4 millones, de estos 1 millón durante el mes de junio y 3 durante el mes de diciembre. Por lo que la institución aún debe 7 millones.

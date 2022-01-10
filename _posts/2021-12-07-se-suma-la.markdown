@@ -7,12 +7,12 @@ tags:
 author: nil
 description: " En busca de promover mejores acciones en beneficio de la salud de las familias chihuahuenses.   "
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se suma la JMAS Chihuahua al Comité Municipal de Salud"
 front: false
 section: "Local"
-news_id: 190605
+redirect_from: /news/190605
 ---
 
 La Junta Municipal de Agua y Saneamiento (JMAS) de Chihuahua se sumó este martes al Comité Municipal de Salud (COMUSAL) que instaló el Ayuntamiento de Chihuahua con el fin de trabajar en conjunto en la vigilancia y mejoramiento de los servicios de salud en el municipio.

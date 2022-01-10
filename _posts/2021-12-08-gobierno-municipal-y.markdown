@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Instalan Consejo Municipal para el Desarrollo Humano de las Personas con Discapacidad"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobierno Municipal y sociedad civil, trabajarán en equipo a favor de personas con discapacidad"
 front: false
 section: "Local"
-news_id: 190611
+redirect_from: /news/190611
 ---
 
 El alcalde, Marco Bonilla Mendoza, instaló el Consejo Municipal para el Desarrollo Humano de las Personas con Discapacidad, con el fin de trabajar de la mano con asociaciones, iniciativa privada y la academia, en temas prioritarios para hacer una ciudad con oportunidades de desarrollo y oportunidades laborales para las personas con discapacidad.

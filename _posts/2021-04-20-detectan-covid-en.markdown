@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Acuario de Georgia, en Estados Unidos, informó que han detectado covid en nutrias que viven en el lugar por lo que estudian cómo se contagiaron."
 image: "/uploads/2021/images-2565469.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detectan covid en nutrias de acuario de EU; investigan el contagio"
 front: false
 section: "Internacional"
-news_id: 183999
+redirect_from: /news/183999
 ---
 
 Autoridades del acuario de Atlanta, en Estados Unidos, alertaron sobre la presencia de nutrias asiáticas con covid, ahora se investiga si estos animalitos fueron contagiados por alguna persona del lugar.

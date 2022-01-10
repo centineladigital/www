@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Salma Hayek protagonizó la película de Frida Kahlo, pero antes de que se convirtiera en un éxito, la actriz tuvo que pasar por varios problemas para realizarla. "
 image: "/uploads/2021/images-salma-hayek-produjo-pelicula-encargada.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡No iba a estar en cines! Así fue el proceso por el que Salma Hayek pasó para producir 'Frida'"
 front: false
 section: "Espectáculos"
-news_id: 187367
+redirect_from: /news/187367
 ---
 
 En el 2002 Salma Hayek dio el saltó internacional en su carrera después de que protagonizó la película biográfica de Frida Kahlo, la cual la hizo ser nominada en importaciones premiaciones como los Oscar. Algo que tal vez pocas personas saben es que la veracruzana pasó por muchas dificultades para lograr realizar el filme. 

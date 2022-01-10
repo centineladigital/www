@@ -18,11 +18,11 @@ author: nil
 description: "Ciudad Juárez ocupa el lugar número 14 en homicidios dolosos a nivel nacional "
 image: "/uploads/2021/images-86lNXVPEGsA5JOHW.jpeg"
 video: "/uploads/2021/videos-BM02_ARTURO_LUJAN_.mp4"
-audio: "nil"
+audio: nil
 alt: "Chihuahua sigue ocupando el 4 lugar en homicidios"
 front: false
 section: "Local"
-news_id: 191287
+redirect_from: /news/191287
 ---
 
 El estado de Chihuahua aun es el 4 lugar a nivel nacional con carpetas de investigación en el caso de homicidios, la concentración de estos actos se encuentra en 3 ciudades importantes del Estado, pero se considera también que entre el 85 y 90 por ciento de los homicidios en la entidad son cometidos por el crimen organizado aunque podría tener discrepancias en los datos, así lo informo Arturo Luján Olivas director del Fideicomiso para la Competitividad y Seguridad Ciudadana (FICOSEC) por sus siglas.

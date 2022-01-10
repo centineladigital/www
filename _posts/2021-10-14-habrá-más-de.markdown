@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A poco de que se estrene la tercera temporada, You anunció que tendrá una cuarta parte en donde veremos más de Joe Goldberg. "
 image: "/uploads/2021/images-serie-protagonizada-penn-badgley-cuarta.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Habrá más de Joe Goldberg! 'You' anuncia que tendrá cuarta temporada"
 front: false
 section: "Espectáculos"
-news_id: 188715
+redirect_from: /news/188715
 ---
 
 Este 15 de octubre llegará a Netflix la tercera temporada de You, la cual cuenta la historia de Joe Goldberg, un hombre que en su pasado ha cometido varios asesinatos. Tras el éxito de la producción protagonizada por Penn Badgley, quien años atrás participó en Gossip Girl, tendrá una cuarta temporada. A poco tiempo de que se estrene la tercera temporada, en la que Joe comienza una nueva vida al lado de Love Quinn y su hijo, en las redes sociales de Netflix y de You revelaron la buena noticia para todos que son fans de esta producción que llegó a la plataforma en diciembre del 2018. 

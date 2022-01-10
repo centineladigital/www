@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Biden espera ansiosamente que su proyecto Reconstruir mejor (Build Back Better) de reforma social y climática por 1.75 billones de dólares se apruebe rápidamente. "
 image: "/uploads/2021/images-joe-biden-respaldado-candidato-democrata_0_23_1024_636.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tras derrota demócrata en Virginia, Biden pide al Congreso aprobar sus reformas"
 front: false
 section: "Internacional"
-news_id: 189546
+redirect_from: /news/189546
 ---
 
 El presidente de Estados Unidos, Joe Biden, instó el miércoles a los demócratas a "avanzar" y votar sus grandes proyectos de reforma, bloqueados en el Congreso por disidentes de su propio partido, a raíz de la rotunda derrota del candidato demócrata a gobernador de Virginia, una elección considerada como una prueba de su popularidad. 

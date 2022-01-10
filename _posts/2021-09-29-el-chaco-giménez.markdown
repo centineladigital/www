@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El exfutbolista debe tener cuidado en el club que recién lo anunció como director técnico"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El 'Chaco' Giménez debe tener mucho cuidado en su nuevo equipo"
 front: false
 section: "Deportes"
-news_id: 188179
+redirect_from: /news/188179
 ---
 
 Christian Giménez se fue a Uruguay como director técnico del club de segunda división, el Atenas San Carlos, que es propiedad de la familia Fassi.

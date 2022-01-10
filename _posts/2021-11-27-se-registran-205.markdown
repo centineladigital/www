@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 ascendió a 8 mil 333 casos (+7) y los nuevos casos corresponde a los municipios de Juárez (+2), Cuauhtémoc (+2), Delicias (+1), Bocoyna (+1) y Ocampo (+1)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 205 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 190287
+redirect_from: /news/190287
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 27 de noviembre el reporte COVID-19, en el cual se registran 85 mil 506 (+205) personas confirmadas en la entidad por este padecimiento, 72 mil 854 (+134) casos recuperados, 80 mil 632 (+286) descartados y 1,084 (+64) casos sospechosos.

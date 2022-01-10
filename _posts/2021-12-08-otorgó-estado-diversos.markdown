@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Durante el pasado mes de noviembre benefició con ayudas para transporte foráneo, gastos funerarios, apoyos económicos únicos y condonación en pago de actas registrales y constancia de antecedentes penales"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Otorgó Estado diversos apoyos a más de mil personas vulnerables"
 front: false
 section: "Local"
-news_id: 190630
+redirect_from: /news/190630
 ---
 
 La Secretaría de Desarrollo Humano y Bien Común (SDHyBC) benefició a mil 069 personas en condición de vulnerabilidad, mediante apoyos de transporte foráneo, gastos funerarios, apoyos económicos únicos para urgencias médicas, condonación en el pago de actas del Registro Civil y certificados de antecedentes penales.

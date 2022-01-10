@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A la fecha se han contagiado 34 mil 686 hombres y 34 mil 231 mujeres, además han fallecido 7 mil 030 personas"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registra Salud 55 nuevos casos por COVID-19 en el estado"
 front: false
 section: "Local"
-news_id: 184921
+redirect_from: /news/184921
 ---
 
 El reporte diario de la pandemia por COVID-19 emitido por la Secretaría de Salud muestra que al 8 de junio van 68 mil 917 contagios acumulados, con 55 nuevos positivos, además el total de defunciones es de 7 mil 030 chihuahuenses.

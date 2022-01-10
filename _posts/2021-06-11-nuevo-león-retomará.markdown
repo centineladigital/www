@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Secretaría de Salud confirmó el regreso a clases en municipios que no han presentado contagios nuevos de covid-19 en los últimos 14 días"
 image: "/uploads/2021/images-2593408.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nuevo León retomará clases presenciales en 25 municipios"
 front: false
 section: "Nacional"
-news_id: 184982
+redirect_from: /news/184982
 ---
 
 En Nuevo León, la Secretaría de Salud confirmó el regreso a clases en 25 municipios de esta entidad que no han presentado contagios nuevos de covid-19 en los últimos 14 días.

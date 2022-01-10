@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El tenista admitió que desde hace mucho tiempo sufre de una lesión en el pie, la cual lo acompleja mucho y no ha podido recuperarse del todo "
 image: "/uploads/2021/images-nadal-se-retira-de-la_0_2_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rafa Nadal queda fuera del US Open y pone fin a la temporada 2021 -  Necesito tomarme un tiempo"
 front: false
 section: "Deportes"
-news_id: 186920
+redirect_from: /news/186920
 ---
 
 El tenista español Rafael Nadal comunicó a través de sus redes sociales que pone fin a su temporada debido a la necesidad de tomarse "un tiempo" y a que lleva un año "sufriendo mucho más de lo que debería" con su pie. "Después de haberlo hablado con el equipo y familia se ha tomado esta decisión y creo que es el camino a seguir para intentar recuperarme y recuperarme bien", afirmó el actual número cuatro del ránking ATP. 

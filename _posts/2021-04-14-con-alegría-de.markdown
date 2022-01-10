@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El producto combate la desnutrición; posee un alto valor nutritivo y pueden consumirla niños, mujeres embarazadas, deportistas y diabéticos"
 image: "/uploads/2021/images-2562103.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con alegría de amaranto y chapulines, IPN ‘mata’ la anemia"
 front: false
 section: "Nacional"
-news_id: 183880
+redirect_from: /news/183880
 ---
 
 Estudiantes del Instituto Politécnico Nacional (IPN) crearon una colación elaborada a partir de amaranto y chapulines para coadyuvar a combatir la desnutrición y anemia en México. El producto posee un alto valor nutritivo y pueden consumirla niños, mujeres embarazadas, deportistas y aquellas personas con deficiencia nutricional, con excepción de quienes padecen diabetes.

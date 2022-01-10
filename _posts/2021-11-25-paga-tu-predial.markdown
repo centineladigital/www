@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El descuento aplica a personas físicas y morales en noviembre y diciembre"
 image: "/uploads/2021/images-unnamed_(15).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Paga tu Predial en línea, aprovecha descuento del 80% en recargos"
 front: false
 section: "Local"
-news_id: 190202
+redirect_from: /news/190202
 ---
 
 El Gobierno Municipal a través de Tesorería invita a la ciudadanía a aprovechar el descuento del 80 por ciento de recargos en el Impuesto Predial, el cual estará vigente en los meses de noviembre y diciembre.

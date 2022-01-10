@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ante cualquier emergencia, llama al 911"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Seguirá Gobierno Municipal brindando atención y apoyos por presencia de lluvias en la ciudad"
 front: false
 section: "Local"
-news_id: 186948
+redirect_from: /news/186948
 ---
 
 Debido a las lluvias atípicas presentadas el día de ayer en la ciudad, la alcaldesa María Angélica Granados Trespalacios dio a conocer las acciones y atenciones que desde el Gobierno Municipal se están realizando para apoyar a las familias que se vieron afectadas por las lluvias.

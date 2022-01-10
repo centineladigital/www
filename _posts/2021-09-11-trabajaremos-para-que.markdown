@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "El alcalde indicó que trabajarán en mejorar las condiciones para generar esta competitividad, como los servicios públicos que se brinda y sus atractivos turísticos"
 image: "/uploads/2021/images-483388C7-440B-4B75-AC8F-77E73858D39E.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabajaremos para que Chihuahua sea laciudad más competitiva -  Bonilla"
 front: false
 section: "Local"
-news_id: 187642
+redirect_from: /news/187642
 ---
 
 Marco Bonilla Mendoza en su toma de protesta como alcalde, señaló que encabezará una administración municipal que trabaje para hacer de Chihuahua Capital una ciudad más competitiva en todo el país.

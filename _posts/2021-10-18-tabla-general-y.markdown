@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te dejamos los marcadores de toda la fecha del máximo circuito donde el América ya está calificado a la siguiente ronda después del polémico triunfo sobre San Luis "
 image: "/uploads/2021/images-pumas-vencio-juarez-mentiene-esperanza_0_30_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tabla general y resultados de la Liga MX tras la jornada 13; Apertura 2021"
 front: false
 section: "Deportes"
-news_id: 188843
+redirect_from: /news/188843
 ---
 
 Se fueron 13 jornadas en el torneo Apertura 2021 de la Liga MX, donde poco a poco se perfilan los invitados a la liguilla y repechaje a falta únicamente de cuatro fechas y un par de juegos pendientes. Aquí te dejamos los resultados más destacados al igual que la tabla general del campeonato. 

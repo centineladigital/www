@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Un total de seis encuentros de rendición de cuentas con los pueblos Warijó, O’oba, Ralámuli y Ódami"
 image: "/uploads/2021/images-IMG_3430.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza Coepi última audiencia pública con  pueblo Ódami de Guadalupe y Calvo"
 front: false
 section: "Local"
-news_id: 186527
+redirect_from: /news/186527
 ---
 
 La titular de la Comisión Estatal para los Pueblos Indígenas (Coepi), María Teresa Guerrero Olivares, presidió la última reunión de la serie final de audiencias públicas, convocadas en el marco del cierre de la Administración Estatal.

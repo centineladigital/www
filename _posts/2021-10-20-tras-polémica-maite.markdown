@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de que se rumorara que Andrés Tovar le había sido infiel a su esposa con Maite Perroni, el productor y la cantante confirmaron su romance y aclararon polémica. "
 image: "/uploads/2021/images-maite-perroni-productor-compartieron-fotos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tras polémica, Maite Perroni y Andrés Tovar confirman romance -  Las cosas no fueron como se contaron"
 front: false
 section: "Espectáculos"
-news_id: 188963
+redirect_from: /news/188963
 ---
 
 Hace unos meses Maite Perroni y el productor de Sale el Sol, Andrés Tovar, protagonizaron una polémica después de que una revista asegurara que la actriz había sido la tercera en discordia en el matrimonio de Tovar y Claudia Martin, información que ambos desmintieron, pero ahora han confirmado su romance y descartaron la supuesta infidelidad. A través de Instagram tanto Maite Perroni, así como Andrés Tovar compartieron unas imágenes donde posan para la cámara y confirmaron su romance, pero negaron que hayan iniciado una relación cuando el productor aún estaba con Claudia Martin. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Debe de continuar diversos indicadores para tomar en cuenta."
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM02_ARTURO_VALENZUELA.mp3"
 alt: "Sin definir retorno de clases presenciales"
 front: false
 section: "Local"
-news_id: 182460
+redirect_from: /news/182460
 ---
 
 “Aún está pendiente la fecha” fueron las palabras de Arturo Valenzuela Zorrilla, Director Médico Zona Norte de la Secretaría de Salud, al ser cuestionado al respecto, esto ya que se tiene que ver el comportamiento de la pandemia.

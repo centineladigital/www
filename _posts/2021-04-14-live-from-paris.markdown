@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te dejamos el horario y la transmisión para ver en vivo el concierto especial de Justin Bieber desde la llamada Ciudad de las Luces. "
 image: "/uploads/2021/images-justin-bieber-live-from-paris.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Live From Paris', sigue en vivo el concierto de Justin Bieber"
 front: false
 section: "Espectáculos"
-news_id: 183882
+redirect_from: /news/183882
 ---
 
 Esta tarde, Justin Bieber, quien hace unos días sorprendió a sus seguidores con el lanzamiento de Freedom, un disco en el que habla sobre tener fe y confianza en Dios, ofrecerá un concierto especial en línea titulado Live From Paris. Los fanáticos de todo el mundo podrán ver el estreno del espectáculo del cantante de 27 años desde la llamada Ciudad de las Luces y desde las ruinas de un hotel parisino vacío pero impresionante. A continuación te dejamos el horario y la transmisión para verlo.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En el programa Logros con Valor, del Gobierno del Estado de Chihuahua, funcionarias de Coepi comparten los logros de la estrategia diseñada para rescatar lenguas originarias como el oichkama no'oka, de la cultura O´oba; "
 image: "/uploads/2021/images-Nido_de_Lengua_O'oba.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recupera y fortalece Nido de Lenguas idioma materno de pueblos originarios -  Coepi"
 front: false
 section: "Local"
-news_id: 185170
+redirect_from: /news/185170
 ---
 
 Con el propósito de rescatar y fortalecer los idiomas tradicionales que están en riesgo de desaparecer, la Comisión Estatal de los Pueblos Indígenas de Chihuahua (Coepi) creó la estrategia Nido de Lenguas.

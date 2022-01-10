@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que docentes ya pueden regresar a las aulas."
 image: "/uploads/2021/images-E4.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM02_EVER_AVITIA.mp4"
 alt: "El regreso a clases debe de ser paulatino -  SNTE"
 front: false
 section: "Local"
-news_id: 186036
+redirect_from: /news/186036
 ---
 
 El regreso a clases se debe de dar de forma paulatina, esto ya que se tiene que revisar diversos puntos, entre éstos se encuentran la infraestructura el ver cómo se encuentran las escuelas, señaló el dirigente del SNTE sección 42 Ever Avitia.

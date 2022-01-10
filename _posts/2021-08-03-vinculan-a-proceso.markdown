@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Conocido como “Muchas Viejas”"
 image: "/uploads/2021/images-IMPUTADO.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vinculan a proceso al detenido por violación sexual en Saucillo"
 front: false
 section: "Local"
-news_id: 186252
+redirect_from: /news/186252
 ---
 
 La Agencia del Ministerio Público de la Fiscalía de Distrito Zona Centro en el municipio de Saucillo, obtuvo la vinculación a proceso de un detenido como probable responsable del delito de violación agravada en perjuicio de una menor de 15 años.

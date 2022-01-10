@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La famosa organizó una reunión con pocos amigos debido a la pandemia de covid-19. "
 image: "/uploads/2021/images-la-famosa-cumplio-anos-especial.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Junto a Laura León 'La Tesorito'! Así celebró Lucía Méndez su cumpleaños 66"
 front: false
 section: "Espectáculos"
-news_id: 182522
+redirect_from: /news/182522
 ---
 
 Lucía Méndez, la diva mexicana que se dio el lujo de romper con Luis Miguel, celebró su cumpleaños número 66 con una reunión a la que asistió poca gente debido a la pandemia de covid-19; destacó que una de las invitadas fue Laura León La Tesorito.   

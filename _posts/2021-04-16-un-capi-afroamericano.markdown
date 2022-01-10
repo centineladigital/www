@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "'Falcon y el Soldado del Invierno' continúa dando de qué hablar para los aficionados del Universo Marvel. "
 image: "/uploads/2021/images-asi-fue-el-capitulo-de.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Un 'Capi' afroamericano? 'Falcon y el Soldado del Invierno' y la historia de Isaiah Bradley"
 front: false
 section: "Espectáculos"
-news_id: 183936
+redirect_from: /news/183936
 ---
 
 ¿Hubiera habido un Capitán América afroamericano? El último capítulo de Falcon y el Soldado del Invierno plantea la historia de Isaiah Bradley, quien hubiera tomado el puesto de 'Capi', por lo menos es lo que cree Bucky Barnes, Falcon. La acción del Universo Marvel continúa con la serie exclusiva de Disney Plus, y aquí te contamos qué pasó en el capítulo. 

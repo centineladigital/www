@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Su telenovela Vencer el desamor ha estado en primer lugar a escala nacional, es la telenovela más vista en el prime time de la televisión abierta. "
 image: "/uploads/2021/images-la-historia-fue-su-trabajo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rosy Ocampo manda en tv abierta durante la pandemia"
 front: false
 section: "Espectáculos"
-news_id: 182550
+redirect_from: /news/182550
 ---
 
 A la par del arribo del covid-19 a México, Rosy Ocampo se dio a la tarea de realizar Vencer el desamor, la telenovela “más complicada” en su historial; la productora agradece el aprendizaje que le ha dejado “para hacer un contenido más relevante y la forma de hacerlo, teniendo como contexto la pandemia y todas sus complejidades”. 

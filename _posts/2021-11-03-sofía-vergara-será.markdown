@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La serie de seis episodios Griselda narra la vida real de Griselda Blanco, quien creó uno de los cárteles más rentables de la historia. "
 image: "/uploads/2021/images-sofia-vergara-protagonizara-serie-narco_0_24_1080_672.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sofía Vergara será 'La viuda negra'; Netflix hará serie de televisión sobre Griselda Blanco"
 front: false
 section: "Espectáculos"
-news_id: 189528
+redirect_from: /news/189528
 ---
 
 Griselda Blanco, mejor conocida como La Viuda Negra o La Madrina de la Cocaína, fue una de las narcotraficantes más peligrosas en tiempos cuando Pablo Escobar tenía a su mando el imperio de las drogas en Colombia, ahora Netflix hará una serie de televisión sobre este personaje y Sofía Vergara la protagonizará. De acuerdo con Deadline, la serie de seis episodios Griselda narra la vida real de Griselda Blanco, quien creó uno de los cárteles más rentables de la historia. Una madre devota, la mezcla letal de encanto de Blanco y salvajismo desprevenido la ayudó a navegar de manera experta entre la familia y los negocios, lo que la llevó a ser ampliamente conocida como La Viuda Negra. 

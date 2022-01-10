@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Carlo Mosca se encuentra detenido mientras se investiga su participación en la muerte de dos personas 'en extrañas circunstancias'."
 image: "/uploads/2021/images-2519357.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arrestan a médico por matar pacientes covid para 'liberar camas'"
 front: false
 section: "Internacional"
-news_id: 182488
+redirect_from: /news/182488
 ---
 
 Italia está conmocionada tras revelarse que un médico habría asesinado a varios pacientes con covid con el fin de desocupar camas y admitir a más personas enfermas.

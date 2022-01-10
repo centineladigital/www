@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El director de la Organización Mundial de la Salud, Tedros Adhanom Ghebreyesus, aseguró que también para el próximo año se debe poner fin a la desigualdad en el acceso a las vacunas contra el covid-19. "
 image: "/uploads/2021/images-tedros-adhanom-ghebreyesus-director-organizacion-1_0_43_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El 2022 debe ser el año en el que acabemos con la pandemia, afirma jefe de la OMS"
 front: false
 section: "Internacional"
-news_id: 191104
+redirect_from: /news/191104
 ---
 
 El 2022 debe ser el año "en el que acabemos con la pandemia", dijo el lunes el jefe de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, quien pidió reducir la desigualdad en el acceso a las vacunas. 

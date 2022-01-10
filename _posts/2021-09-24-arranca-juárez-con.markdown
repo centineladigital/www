@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Ganó en varias de las categorías, en la disciplina del Futbol 6x6, que continúa sus acciones este sábado en las canchas Nogales, Wildcats y Parque Fundadores"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-24_at_16.05.10.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca Juárez con el pie derecho en los Juegos Estatales Populares 2021"
 front: false
 section: "Local"
-news_id: 188048
+redirect_from: /news/188048
 ---
 
 Los equipos representativos de Ciudad Juárez, arrancaron con el pie derecho su participación en las distintas categorías de la disciplina del Futbol 6x6, de los Juegos Estatales Populares 2021, que se desarrollan en la capital.

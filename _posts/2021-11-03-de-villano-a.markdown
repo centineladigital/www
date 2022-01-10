@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor hizo un tributo a Harry Potter disfrazándose del personaje que era su enemigo en la saga; su apariencia sorprendió a sus seguidores. "
 image: "/uploads/2021/images-tom-felton-comparte-foto-inedita_0_0_1200_747_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡De villano a héroe! Tom Felton deja atrás a Draco Malfoy y se transforma en Harry Potter"
 front: false
 section: "Espectáculos"
-news_id: 189496
+redirect_from: /news/189496
 ---
 
 La fiebre por Harry Potter parece no terminar nunca, pues a 20 años del estreno de la primera película, la historia del "Niño que vivió" y el mundo mágico creado por J.K. Rowling continúan viviendo tanto en los fanáticos como en el elenco de la saga, tal es el caso de Tom Felton, quien aprovechó la temporada de disfraces para dejar atrás a su malvado personaje y transformarse en el héroe del filme y los libros. Tom Felton saltó a la fama con su interpretación de Draco Malfoy en Harry Potter. A diferencia de Rupert Grint, el actor ha expresado en varias ocasiones el profundo cariño que siente por la saga y la forma en que ésta marcó su vida, incluso, él fue el encargado del reencuentro virtual del elenco a finales de 2020.  

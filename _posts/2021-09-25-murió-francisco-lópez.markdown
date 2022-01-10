@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Con profundo dolor les informo que el día de hoy, el corazón de mi padre Francisco Javier López Campos dejó de latir, compartió Franco Escamilla en sus redes sociales. "
 image: "/uploads/2021/images-francisco-javier-lopez-murio-paro_0_353_1200_746_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Francisco López, padre del comediante Franco Escamilla"
 front: false
 section: "Espectáculos"
-news_id: 188063
+redirect_from: /news/188063
 ---
 
 El padre de Franco Escamilla, Francisco Javier López Campos, falleció este viernes, según informó el comediante a través de sus redes sociales, en donde le dedicó un mensaje de agradecimiento y reconocimiento por ser "mi primer superhéroe". 

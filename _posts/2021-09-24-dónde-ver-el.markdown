@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Conoce todos los detalles para que no te pierdas el partido de la jornada 10 del Apertura 2021"
 image: "/uploads/2021/images-donde-ver-el-puebla-vs.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dónde ver el Puebla vs Cruz Azul EN VIVO partido de la Jornada 10 de la Liga MX"
 front: false
 section: "Deportes"
-news_id: 188018
+redirect_from: /news/188018
 ---
 
 La jornada 10 de la Liga MX continúa este viernes 24 de septiembre cuando el Puebla reciba a Cruz Azul a las 20:00 horas. La Máquina viene reponiéndose poco a poco tras haber perdido ante Juárez y buscará seguir en la senda de las victorias.

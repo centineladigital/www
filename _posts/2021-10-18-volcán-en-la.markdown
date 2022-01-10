@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las autoridades españolas afirman que aún no hay indicios de que el flujo de lava se frene en la zona de Islas Canarias. "
 image: "/uploads/2021/images-volcan-cumbre-vieja-flujo-lava_0_22_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Volcán en La Palma continúa en erupción tras cuatro semanas; hay miles de casas destruidas"
 front: false
 section: "Internacional"
-news_id: 188835
+redirect_from: /news/188835
 ---
 
 No hay indicios de que la erupción del volcán Cumbre Vieja, en la isla La Palma, vaya a terminar, según informaron hoy las autoridades españolas, cuatro semanas después de que comenzara a emanar el flujo ardiente, generando masivas evacuaciones y daños a haciendas y edificaciones ubicadas en la zona de Islas Canarias. 

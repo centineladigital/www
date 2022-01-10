@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El primer tatuaje de Emma Stone lo diseñó el ex Beatle, Paul McCartney, además que decidió realizarlo por un motivo muy especial. "
 image: "/uploads/2021/images-emma-stone-y-su-mama_55_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El singular tatuaje que Paul McCartney diseñó para Emma Stone; éste es su significado"
 front: false
 section: "Espectáculos"
-news_id: 189608
+redirect_from: /news/189608
 ---
 
 Emma Stone es una de las actrices que ha destacado principalmente por sus actuaciones en las dos películas de The Amazing Spider-Man como Gwen Stacy, así como al protagonizar la película ganadora del Oscar La la land al lado de Ryan Gosling. Pero algo que muy pocos saben de ella es que su primer tatuaje lo diseñó Paul McCartney. Hace 10 años, cuando la actriz asistió como invitada al programa de David Letterman, habló sobre el día en que iría junto a su mamá a tatuarse. Sería el primer tatuaje para las dos y lo harían por un motivo especial, a su mamá le había confirmado que estaba libre de cáncer. 

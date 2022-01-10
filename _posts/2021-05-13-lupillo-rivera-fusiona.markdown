@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El tema, que se acompaña de un video, se estrena mañana viernes y representa la posibilidad de acabar con las fronteras entre los géneros musicales, destacan los intérpretes."
 image: "/uploads/2021/images-viernes-elegido-estreno-ligas-plataformas_44_204_1155_718.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lupillo Rivera fusiona su sensibilidad con Snoop Dogg, Alemán, Santa Fe Klan y B Real al interpretar “Grandes Ligas”"
 front: false
 section: "Espectáculos"
-news_id: 184439
+redirect_from: /news/184439
 ---
 
 Lupillo Rivera, Alemán y Santa Fe Klan compartieron detalles sobre “Grandes Ligas”, la colaboración que realizaron con la leyenda del rap Snoop Dogg, y B Real, en la que los demuestran que las fronteras en los géneros musicales quedaron atrás. “No importa qué es lo que hagas, si eres rapero o cantante de regional mexicano, a música mueve al ser humano en cualquier tipo de género. Esta canción es una canción mundial que le va a gustar a todos los géneros y a todo tipo de personas. Ese es el sueño que tenemos y ojalá toda la gente lo apoye”, enfatizó Lupillo Rivera respecto al tema “Grandes Ligas”. 

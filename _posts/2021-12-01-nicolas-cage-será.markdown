@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor compartirá créditos con Nicholas Hoult, quien encarnará al personaje principal de la película que revivirá a míticos monstruos. "
 image: "/uploads/2021/images-nicolas-cage-dracula-pelicula-renfield.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nicolas Cage será Drácula en 'Renfield', la película sobre el sirviente del legendario vampiro"
 front: false
 section: "Espectáculos"
-news_id: 190406
+redirect_from: /news/190406
 ---
 
 Universal Pictures sigue adelante con la producción de Renfield, película sobre el sirviente de Drácula que aparecía en la legendaria novela de Bram Stocker y también en su posterior adaptación dirigida por Francis Ford Coppola. Mientras que el personaje principal será encarnado por Nicholas Hoult, ahora se reveló que Nicolas Cage dará vida al icónico vampiro. Según The Hollywood Reporter, Nicolas Cage dará vida a Drácula en la cinta, dirigida por Chris McKay (La guerra del mañana). La película ha sido escrita por Ryan Ridley y se basa en una historia original de Robert Kirkman. McKay y Kirkman ejercen como productores junto a David Alpert, Bryan Furst y Sean Furst. 

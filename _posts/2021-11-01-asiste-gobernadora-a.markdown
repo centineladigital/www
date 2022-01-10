@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Trabajan en conjunto sociedad civil y Gobierno del Estado para integración de propuestas en materia de seguridad   "
 image: "/uploads/2021/images-unnamed_(9).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asiste Gobernadora a cierre de actividades de foros ciudadanos para integración del Plan Estatal de Desarrollo   "
 front: false
 section: "Local"
-news_id: 189421
+redirect_from: /news/189421
 ---
 
 Como parte de las actividades llevadas a cabo por el Gobierno del Estado para la integración del Plan Estatal de Desarrollo 2022-2027, la gobernadora, Maru Campos Galván, acudió al foro ciudadano en materia de seguridad pública realizado en Ciudad Juárez, con el fin de escuchar las propuestas de los chihuahuenses para la integración políticas públicas que serán incluidas en este documento rector de la actual administración estatal.

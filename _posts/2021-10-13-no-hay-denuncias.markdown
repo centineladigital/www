@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-MW03_ROBERTO_FIERRO.mp4"
 alt: "No hay denuncias oficiales de testigos por tortura"
 front: false
 section: "Local"
-news_id: 188691
+redirect_from: /news/188691
 ---
 
 Aún no se tienen denuncias formales en contra de la pasada administración por lo que se llamó la “Casa de la Tortura”, según lo señaló Roberto Fierro Duarte Fiscal General del Estado de Chihuahua, quien no descartó que se dé un citatorio para llamar a testificar al exgobernador Javier Corral Jurado.

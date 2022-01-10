@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se ofrecen diferentes talleres y cursos a precios muy accesibles, en los que se puede inscribir cualquier persona, sea o no derechohabiente del Instituto."
 image: "/uploads/2021/images-Foto_FN_6097-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza IMSS Chihuahua talleres de manualidades navideñas en la Segunda Semana Nacional de Prestaciones Sociales 2021"
 front: false
 section: "Local"
-news_id: 190581
+redirect_from: /news/190581
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS), inició este lunes actividades de la Segunda Semana Nacional de Prestaciones Sociales 2021, en donde además de cuidar la salud física, se busca el bienestar psicológico y social de las personas, por esto, en los Centros de Seguridad Social (CSS) y Centros de Extensión de Conocimientos de Esquema Modificado (CECEM), se ofrecen diferentes talleres y cursos a precios muy accesibles, en los que se puede inscribir cualquier persona, sea o no derechohabiente del Instituto.

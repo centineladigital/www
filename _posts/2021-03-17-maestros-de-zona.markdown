@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“Se las ingeniaron para debajo de un árbol, en la placita del pueblo, afuera de la escuela encontrarse con los alumnos una o dos veces por semana”."
 image: "/uploads/2021/images-CARLOS.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_CARLOS.mp3"
 alt: "Maestros de zona rural no dejaron de ser presenciales -  SEyD"
 front: false
 section: "Local"
-news_id: 183453
+redirect_from: /news/183453
 ---
 
 Un total de 280 maestros no dejaron de tener educación de forma presencial según lo dio a conocer el titular de la Secretaría de Educación y Deporte, Carlos González Herrera. Esto ya que debido que no podían utilizar ninguna de las herramientas.

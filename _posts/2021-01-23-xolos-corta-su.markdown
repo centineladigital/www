@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El conjunto de Tijuana se impuso en la ‘Angelópolis’ por la mínima diferencia, ganando como visitante después de 14 partidos sin hacerlo"
 image: "/uploads/2021/images-2516833.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Xolos corta su mala racha y el invicto de Puebla"
 front: false
 section: "Deportes"
-news_id: 182389
+redirect_from: /news/182389
 ---
 
 Con un solitario gol de Fidel Martínez, los Xolos de Tijuana obtuvieron su primera victoria del torneo luego de vencer 1-0 a Puebla en el marco de la jornada 3 del Guard1anes 2021 en el estadio Cuauhtémoc, cortando además una racha de 14 partidos consecutivos sin ganar en calidad de visitante.

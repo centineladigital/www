@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " El Gobierno Municipal entrega kits didácticos en escuela del programa “Cooltura de la Paz”"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "A través del arte, capacitan a niñas y niños en prevención de violencia"
 front: false
 section: "Local"
-news_id: 190239
+redirect_from: /news/190239
 ---
 
 En el marco de los primeros 100 días de trabajo y resultados, el Gobierno Municipal a través del Instituto de Cultura del Municipio (ICM) entregó los últimos kits del año que se desprenden del programa “Cooltura de la Paz”, mismo que tiene el firme objetivo de llevar actividades artísticas y lúdicas a niñas, niños y adolescentes.

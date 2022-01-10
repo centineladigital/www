@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el último reporte epidemiológico se confirmaron 44 contagios y un deceso en la capital; además ya son 56,471 recuperados; 35,111 descartados y 1,754 sospechosos"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suman 68 mil 326 casos y 6 mil 969 defunciones por COVID-19 en el estado"
 front: false
 section: "Local"
-news_id: 184767
+redirect_from: /news/184767
 ---
 
 En la Conferencia Informativa #421, Virtual #381, la Secretaría de Salud dio a conocer que al día de hoy se tienen en el estado de Chihuahua un total general de 68,326 (+44) casos confirmados y 6,969 defunciones por COVID-19.

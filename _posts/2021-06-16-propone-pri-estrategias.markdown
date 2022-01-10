@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Señala que se debe de llevar a cabo una coordinación entre los niveles gubernamentales."
 image: "/uploads/2021/images-ALEX.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04.mp3"
 alt: "Propone PRI estrategias para un retorno seguro a clases "
 front: false
 section: "Local"
-news_id: 185068
+redirect_from: /news/185068
 ---
 
 “Desde el PRI estamos haciendo un planteamiento muy claro” fueron las palabras del dirigente del este organismo a nivel estatal, Alejandro Domínguez Domínguez, quien dio a conocer que se busca proponer suma de esfuerzos con el Gobierno Estatal, sociedad civil, IP y Partidos Políticos.

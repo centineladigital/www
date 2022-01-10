@@ -10,11 +10,11 @@ author: nil
 description: "Esto ante la no liberación del productor Andrés Valles."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MV02_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Dio juez embestida a Chihuahua -  Jáuregui"
 front: false
 section: "Local"
-news_id: 190013
+redirect_from: /news/190013
 ---
 
 Como una embestida fue como calificó el Secretario General de Gobierno, César Jáuregui, la decisión del juez que no permitió la liberación del productor Andrés Valles. Esto luego de que se había acordado con la federación esta resolución por los problemas relacionados con la presa La Boquilla, destacando que el pacto sigue en pie.

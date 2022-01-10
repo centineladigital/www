@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Marcela Velázquez Bolio, coordinadora de Operación con la Sociedad Civil y Organismos Autónomos, resaltó que un mayor uso del chatbot beneficia a derechohabientes y apoya al Instituto"
 image: "/uploads/2021/images-Foto_319-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Promoverá IMSS mayor uso del chatbot para agilizar la comunicación con familiares de pacientes pediátricos oncológicos"
 front: false
 section: "Local"
-news_id: 185953
+redirect_from: /news/185953
 ---
 
 Autoridades del Instituto Mexicano del Seguro Social (IMSS) informaron a las madres y los padres de pacientes pediátricos oncológicos que está en desarrollo una campaña informativa en hospitales y redes sociales de la institución sobre el uso y difusión del chatbot, a fin de agilizar la comunicación con los familiares mediante un mecanismo de contacto, consulta y solicitudes.

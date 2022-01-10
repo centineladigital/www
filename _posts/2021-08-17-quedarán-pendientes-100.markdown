@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-MM03_CESAR_PENICHE.mp4"
 alt: "Quedarán pendientes 100 expedientes X"
 front: false
 section: "Local"
-news_id: 186796
+redirect_from: /news/186796
 ---
 
 Alrededor de 100 expedientes es lo que se quedará dentro de la estrategia de combate a la corrupción, señaló el titular de la Fiscalía General de Chihuahua César Augusto Peniche Espejel, entre las que se encuentran cinco o seis ordenes de aprehensión pendientes de ejecutarse.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente terminó temprano La Mañanera para acudir a la conversación con el mandatario estadunidense. "
 image: "/uploads/2021/images-canciller-compartio-imagen-participacion-presidente_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO participa en foro sobre energía y clima convocado por Joe Biden"
 front: false
 section: "Nacional"
-news_id: 187807
+redirect_from: /news/187807
 ---
 
 El presidente Andrés Manuel López Obrador participa en el Foro de las Principales Economías sobre Energía y Clima, convocado por el mandatario de Estados Unidos, Joe Biden, a través de una teleconferencia. López Obrador tuvo que retirarse temprano de La Mañanera, debido a la conversación que tendría con el presidente estadunidense. 

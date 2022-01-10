@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exhortan a la población a extremar precauciones."
 image: "/uploads/2021/images-B3.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM01_JESUS_REYES.mp4"
 alt: "Lluvia derriba 26 árboles"
 front: false
 section: "Local"
-news_id: 185848
+redirect_from: /news/185848
 ---
 
 Un  total de 26 derrumbes de árboles fueron atendidos por parte de la Dirección de Seguridad Pública Municipal, según fue dado a conocer por parte del vocero de la dependencia Jesús Reyes. Esto tras la lluvia y microbrust que se presentó este lunes.

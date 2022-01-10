@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal, también da mantenimiento a lámparas de este lugar de esparcimiento familiar"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reforestan parque Urueta, pintan y reparan banquetas"
 front: false
 section: "Local"
-news_id: 190548
+redirect_from: /news/190548
 ---
 
 Dentro de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, lleva a cabo la rehabilitación del parque Urueta, con el propósito de mantener en óptimas condiciones los espacios públicos para los chihuahuenses.

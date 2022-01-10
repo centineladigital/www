@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Trabajarán en la distribución de unidades móviles de comida para impulsar a las mujeres indígenas a operar un negocio propio"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inician COEPI y Amexme el programa Sabor rarámuri en tu ciudad"
 front: false
 section: "Local"
-news_id: 190519
+redirect_from: /news/190519
 ---
 
 La Comisión Estatal para los Pueblos Indígenas (COEPI) y la Asociación Mexicana de Mujeres Empresarias, A.C. (Amexme), Capítulo Chihuahua, firmaron acuerdo de colaboración para el arranque del programa “Sabor Rarámuri en tu ciudad”, mediante el cual ofrecerán a mujeres indígenas del estado la posibilidad de operar un negocio propio.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Durante todo noviembre se realizarán acciones preventivas para sensibilizar a los hombres sobre la importancia de adoptar una cultura del cuidado de salud "
 image: "/uploads/2021/images-Foto_5462-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se pinta de azul IMSS Chihuahua con motivo del Mes de la Salud Integral del Hombre "
 front: false
 section: "Local"
-news_id: 189554
+redirect_from: /news/189554
 ---
 
 

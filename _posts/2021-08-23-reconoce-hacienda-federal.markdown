@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Gobernador Javier Corral destaca que el estado se ubica dentro de los ocho en los que se disminuyó la deuda, de una lista de 15 entidades donde hay transición de Gobierno este año; además Chihuahua logró las segundas mejores tasas de interés de todo el país"
 image: "/uploads/2021/images-_MG_4154.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconoce Hacienda federal reducción de deuda del Gobierno de Chihuahua"
 front: false
 section: "Local"
-news_id: 187006
+redirect_from: /news/187006
 ---
 
 La Secretaría de Hacienda y Crédito Público del Gobierno México reconoció que en la actual Administración estatal hubo una reducción de la deuda pública y en general un buen manejo financiero, informó el gobernador Javier Corral.

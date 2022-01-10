@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El certificado, que especifica que se ha recibido al menos una dosis de la vacuna, se ha contagiado o se cuenta con una prueba negativa, está disponible en versión papel y digital"
 image: "/uploads/2021/images-enfermera-prepara-dosis-vacuna-anticovid.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Italia exige certificado anticovid para entrar a bares y centros de ocio"
 front: false
 section: "Internacional"
-news_id: 186376
+redirect_from: /news/186376
 ---
 
 Italia comienza hoy a exigir el certificado sanitario contra covid-19 para consumir dentro de bares y restaurantes, así como en lugares cerrados de ocio, una medida no exenta de críticas, que en septiembre se extenderá también a profesores y medios de transporte. 

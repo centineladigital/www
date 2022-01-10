@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El delantero mexicano de los Wolves se encuentra en la terna al mejor gol de mes en la liga inglesa. "
 image: "/uploads/2021/images-raul-jimenez-nominado-gol-noviembre_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Raúl Jiménez es nominado al mejor gol de noviembre de la Premier League"
 front: false
 section: "Deportes"
-news_id: 190510
+redirect_from: /news/190510
 ---
 
 Raúl Jiménez fue nominado al mejor gol del mes de noviembre en la Premier League, luego de su anotación ante el West Ham de la jornada 12 en el Molineux Stadium. El delantero mexicano hizo su tercer gol de la temporada tras una gran jugada en conjunto entre Semedo, Podence y con un pase filtrado al de Tepeji del Río, quien definió de buena manera con un derechazo. 

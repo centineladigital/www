@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El mexicano sufrió un fuerte choque con el portero de Trinidad y Tobago que atentó contra su vida"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Chucky' Lozano asegura que pudo perder la vida tras la lesión en Copa Oro"
 front: false
 section: "Deportes"
-news_id: 188212
+redirect_from: /news/188212
 ---
 
 Hirving 'Chucky' Lozano, jugador mexicano del Napoli, aceptó que muchos médicos le aseguraron que estuvo cerca de perder la vida luego de su impacto sufrido en la Copa Oro ante Trinidad y Tobago, cosa que para el canterano de Pachuca no fue nada fácil de digerir. 

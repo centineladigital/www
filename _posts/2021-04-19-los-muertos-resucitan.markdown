@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Athina Marturet compartió videos e imágenes del nuevo proyecto que ya está trabajando junto al actor. "
 image: "/uploads/2021/images-rafael-amaya-reencuentra-actriz-senor_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Los muertos resucitan -  Actriz de 'El señor de los cielos' se reencuentra con Rafael Amaya"
 front: false
 section: "Espectáculos"
-news_id: 183957
+redirect_from: /news/183957
 ---
 
 Las recientes apariciones públicas de Rafael Amaya han acaparado los focos en las últimas semanas, esto luego de darse a conocer que estuvo en una de las clínicas de rehabilitación de Julio César Chávez para tratar sus problemas de adicción. Para sorpresa de sus fans el actor, conocido por interpretar a Aurelio Casillas en El señor de los cielos, compartió noticias de un nuevo proyecto que ya está preparando.  Pero, lo que causó revuelo en redes sociales fue el reencuentro de Rafael Amaya con la actriz Athina Marturet, también conocida por su participación en la serie El señor de los cielos.  

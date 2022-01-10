@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Estas labores se realizarán hasta el próximo 31 de agosto, fecha en que finaliza el programa"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúa DIF con entrega de platillos a familias de asentamientos tarahumaras"
 front: false
 section: "Local"
-news_id: 186784
+redirect_from: /news/186784
 ---
 
 El Gobierno Municipal a través del DIF continúa con la entrega diaria de platillos calientes en asentamientos tarahumaras, trabajos que se realizan dentro del programa Desayunos Calientes y Comedores Comunitarios.

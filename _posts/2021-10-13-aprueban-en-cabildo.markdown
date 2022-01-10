@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "También se votó a favor la Comisión Especial de Premiación para el Premio Municipal “Chihuahua por la Inclusión Social de Personas con Discapacidad”"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueban en Cabildo Comisión que organizará elecciones en la zona rural"
 front: false
 section: "Local"
-news_id: 188710
+redirect_from: /news/188710
 ---
 
 Las y los regidores del Ayuntamiento, en sesión ordinaria de Cabildo, aprobaron por unanimidad de votos, la Integración de la Comisión Municipal de Procesos de Elección, así como la integración de una Comisión Auxiliar de Regidores por cada Junta Municipal, y la Convocatoria para la Elección de las Autoridades Auxiliares Municipales para el periodo 2021-2024.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Personal especializado y del Instituto Nacional de Antropología e Historia, así como arquitectos locales esperan que el proyecto sea aprobado"
 image: "/uploads/2021/images-Grafiti_Palacio_de_Gobierno.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inician las pruebas para limpiar las pintas de Palacio de Gobierno"
 front: false
 section: "Local"
-news_id: 183790
+redirect_from: /news/183790
 ---
 
 Personal especializado y del Instituto Nacional de Antropología e Historia, así como arquitectos locales realizan pruebas para retirar y limpiar los muros de cantera de Palacio de Gobierno, una vez que el proyecto sea aprobado.

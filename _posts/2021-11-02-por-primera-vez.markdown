@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante contagiará a todos con su energía durante la edición 2021 de la entrega de premios que reconocen a los artistas más populares del año."
 image: "/uploads/2021/images-cardi-conducira-american-music-awards_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Por primera vez! Cardi B será la conductora de los American Music Awards 2021"
 front: false
 section: "Espectáculos"
-news_id: 189471
+redirect_from: /news/189471
 ---
 
 Cardi B ha ganado cinco American Music Awards (AMA) y ha actuado en la ceremonia de los premios a lo largo de su carrera. Ahora, la cantante estadunidense tendrá una nueva tarea: conducir la edición 2021 de la esperada gala que reconoce a los artistas más populares del año y que contará con presentaciones en vivo.  La rapera de éxitos como “Bodak Yellow” y “Money” será la anfitriona de la entrega de premios que se transmitirá desde Los Ángeles, Estados Unidos, el próximo domingo 21 de noviembre. 

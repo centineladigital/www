@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con goles de Cyle Larin, Canadá se impuso ante la selección mexicana en el Estadio de la Mancomunidad "
 image: "/uploads/2021/images-jugadores-de-canada-en-festejo_0_48_1100_684.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Congelan al Tri! Canadá se impone ante México en las eliminatorias mundialistas"
 front: false
 section: "Deportes"
-news_id: 189911
+redirect_from: /news/189911
 ---
 
 México cierra el año con muchas dudas, tras dos derrotas en sus dos últimos partidos del año en eliminatorias. En esta fecha FIFA, el Tricolor cayó primero ante Estados Unidos 2-1, y con el mismo marcador perdió frente a Canadá, con un estilo igual de gélido que el clima, sin una idea clara al frente y con varios titubeos en la defensiva, lo que lo hizo caer al tercer lugar del octagonal (debajo de Estados Unidos y Canadá). 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El director del equipo destacó la importancia del piloto mexicano para la siguiente temporada"
 image: "/uploads/2021/images-sergio_perez_2022.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sergio 'Checo' Pérez continuará en Red Bull para la temporada 2022"
 front: false
 section: "Deportes"
-news_id: 187177
+redirect_from: /news/187177
 ---
 
 Sergio 'Checo' Pérez renovó por un año más con Red Bull, el piloto mexicano permanecerá en la escudería para la temporada 2022.

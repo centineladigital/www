@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz Violeta Isfel acaba de abrir una sucursal en la Ciudad de México de su negocio de hamburguesas llamado 'Isfelburgers'. "
 image: "/uploads/2021/images-isfelburgers-negocio-hamburguesas-violeta-isfel.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡El negocio se expande! Las hamburguesas de Violeta Isfel llegan a CdMx"
 front: false
 section: "Espectáculos"
-news_id: 182930
+redirect_from: /news/182930
 ---
 
 En septiembre del año pasado, Violeta Isfel, inauguró lo que nació como un proyecto para hacer frente a la crisis de la pandemia de covid-19. Se trata de un negocio de hamburguesas llamado 'Isfelburgers', cuya primera sucursal se encuentra Tizayuca, Hidalgo. Ahora, la actriz de 35 años acaba de abrir una nueva sucursal, ésta vez en la Ciudad de México. La estrella de Atrévete a soñar dijo ante las cámaras del periodista Eden Dorantes que la idea de preparar y vender hamburguesas surgió por la necesidad de buscar alternativas para generar ingresos para su familia en estos tiempos difíciles.

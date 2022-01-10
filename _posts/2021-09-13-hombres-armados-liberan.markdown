@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El hecho ocurrió anoche, en el cual se registraron enfrenamientos con las autoridades."
 image: "/uploads/2021/images-nigeria-hechos-violencia-generado-serie_0_12_838_521.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hombres armados liberan a 240 presos en una cárcel de Kogi, en Nigeria"
 front: false
 section: "Internacional"
-news_id: 187672
+redirect_from: /news/187672
 ---
 
 Hombres fuertemente armados irrumpieron durante el fin de semana en una cárcel del estado de Kogi, en Nigeria, y liberaron a 240 reclusos, informó hoy un portavoz de las autoridades penitenciarias, en una serie de hechos de violencia que se han generado en esa nación africana en los últimos días. 

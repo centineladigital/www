@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Tanto el jugador de los Lakers como el pívot de los Detroit Pistons se fueron expulsados tras el conato de bronca. "
 image: "/uploads/2021/images-lebron-james-es-expulsado-por_0_10_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "LeBron James es expulsado por segunda vez en su carrera tras codazo a Isaiah Stewart"
 front: false
 section: "Deportes"
-news_id: 190060
+redirect_from: /news/190060
 ---
 
 LeBron James, superestrella de Los Angeles Lakers, fue expulsado este domingo por segunda ocasión en su carrera a raíz de un fuerte altercado con el pívot de los Detroit Pistons, Isaiah Stewart, también retirado del juego. 

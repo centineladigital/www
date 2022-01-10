@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Conoce cuándo y a qué hora es el partido de la fase de grupos de la Liga de Campeones de la UEFA entre los Bávaros y los Culés."
 image: "/uploads/2021/images-bayern-munich-vs-barcelona-champions_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Bayern Múnich vs Barcelona -  Horario y dónde ver EN VIVO partido J6 por la Champions League"
 front: false
 section: "Deportes"
-news_id: 190614
+redirect_from: /news/190614
 ---
 
 El Bayern Múnich recibe al Barcelona en la última jornada de la fase de grupos de la Champions League, en el Allianz Arena, recinto donde los visitantes buscarán el triunfo para asegurar el pase a los octavos de final de la competición. 

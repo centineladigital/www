@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La jefa de Gobierno llamó a no bajar la guardia, pues la pandemia por covid se mantiene"
 image: "/uploads/2021/images-2589804.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llegó el semáforo verde a la Ciudad de México; indicadores siguen bajando"
 front: false
 section: "Nacional"
-news_id: 184853
+redirect_from: /news/184853
 ---
 
 El próximo lunes 7 de junio, cuando se cumplen 441 días de que inició el confinamiento en la capital, la Ciudad de México llega al semáforo verde, informó la jefa de Gobierno, Claudia Sheinbaum.

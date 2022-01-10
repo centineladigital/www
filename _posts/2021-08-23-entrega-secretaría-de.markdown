@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se distinguió a quienes laboran en hospitales y centros de salud de la entidad, así como a capacitadoras y capacitadores para la especialización de este gremio"
 image: "/uploads/2021/images-Reconocimientos_a_Enfermería_ICHISAL.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Secretaría de Salud reconocimientos  a personal de enfermería de unidades médicas ICHISAL"
 front: false
 section: "Local"
-news_id: 187019
+redirect_from: /news/187019
 ---
 
 La Secretaría de Salud, a través del Instituto Chihuahuense de la Salud (Ichisal), entregó reconocimientos al personal de enfermería perteneciente a las distintas unidades hospitalarias y centros de salud del estado, así como a quienes contribuyeron con la capacitación de este gremio.

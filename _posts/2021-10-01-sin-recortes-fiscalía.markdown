@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Sin aviadores la dependencia según declaración de titular."
 image: "/uploads/2021/images-FIERRO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03_ROBERTO_FIERRO.mp4"
 alt: "Sin recortes Fiscalía"
 front: false
 section: "Local"
-news_id: 188287
+redirect_from: /news/188287
 ---
 
 La única área donde no se tienen programados recortes es en Fiscalía, aseveró su titular Roberto Fierro Duarte, quien dijo que dentro de su dependencia no se han encontrado aviadores. Afirmando que a excepción de otras áreas esta será la única dependencia donde continúen todos los trabajadores.

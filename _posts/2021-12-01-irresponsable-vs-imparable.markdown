@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Este 1 de diciembre, el presidente López Obrador convocó a una asamblea masiva en el Zócalo de la Ciudad de México, sin límite de asistentes y con uso opcional de cubrebocas"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Irresponsable” vs “Imparable” -  Difieren en redes por llamado de AMLO al Zócalo"
 front: false
 section: "Nacional"
-news_id: 190377
+redirect_from: /news/190377
 ---
 
 Este 1 de diciembre, el presidente Andrés Manuel López Obrador convocó a una asamblea masiva en el Zócalo de la Ciudad de México, sin límite de asistentes, para informar sobre sus tres años de gobierno, en medio de la amenaza de una cuarta ola de Covid-19 y ante la nueva variante ómicron.

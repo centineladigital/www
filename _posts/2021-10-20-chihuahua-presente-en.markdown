@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En su mensaje, Maru Campos dijo sentirse llena de orgullo al estar rodeada de quienes siguen dando vida a una vocación que, como mexicanos, nos es tan propia."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chihuahua presente en la XXXIV Convención Internacional de Minería; asiste Maru Campos a inauguración"
 front: false
 section: "Local"
-news_id: 188944
+redirect_from: /news/188944
 ---
 
 Con la presencia de la Gobernadora del Estado de Chihuahua, Maru Campos Galván, esta tarde en Acapulco, Guerrero, dio inicio formalmente a la XXXIV Convención Internacional de Minería, el evento más importante a nivel nacional y de uno de los de mayor relevancia a nivel internacional, de la industria minera.

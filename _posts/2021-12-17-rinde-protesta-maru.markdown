@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Acudió a las sesiones ordinarias de ambos organismos, en Villahermosa, Tabasco y fueron encabezadas por el presidente de México"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rinde protesta Maru Campos como integrante de los consejos nacionales de Seguridad Pública y de Protección Civil"
 front: false
 section: "Local"
-news_id: 190950
+redirect_from: /news/190950
 ---
 
 La gobernadora Maru Campos Galván tomó protesta como integrante de los consejos nacionales de Seguridad Pública y de Protección Civil, en ceremonia desarrollada en la ciudad de Villahermosa, Tabasco.

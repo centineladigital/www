@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se trata de un grupo de 53 personas que fueron trasladadas a Ciudad Juárez y entregadas al Instituto Nacional de Migración"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-15_at_11.27.41.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Localiza FGE grupo de migrantes en zona de desaparecidos de Coyame del Sotol"
 front: false
 section: "Local"
-news_id: 188775
+redirect_from: /news/188775
 ---
 
 Continuando con los operativos de búsqueda de las personas desaparecidas en la zona ubicada entre los límites de Coyame del Sotol y Guadalupe D.B., el grupo interdisciplinario de la Fiscalía General del Estado encabezado por la Agencia Estatal de Investigación, logró resultados importantes.

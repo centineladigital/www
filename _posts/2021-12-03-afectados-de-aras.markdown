@@ -10,11 +10,11 @@ author: nil
 description: "Buscan solucionar la problemática generada por la empresa financiera."
 image: "/uploads/2021/images-MANIFESTACIÓN.jpg"
 video: "/uploads/2021/videos-MV03_MANIFESTANTE.mp4"
-audio: "nil"
+audio: nil
 alt: "Afectados de ARAS piden apoyo a Gobernadora"
 front: false
 section: "Local"
-news_id: 190486
+redirect_from: /news/190486
 ---
 
 Afectados de la financiera ARAS se manifestaron en el edificio de Palacio de Gobierno, esto solicitando apoyo a la Gobernadora María Eugenia Campos Galván intervenir en caso. Según lo externó uno de los manifestantes.

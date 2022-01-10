@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La Dirección de Mantenimiento Urbano, a través de la Subdirección de Alumbrado Público, realizó la reposición del cableado robado, el cual, afectó el funcionamiento de alrededor de 200 luminarias de diversos tipos"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reinstala Gobierno Municipal cableado vandalizado en la Huerta Legarreta"
 front: false
 section: "Local"
-news_id: 185914
+redirect_from: /news/185914
 ---
 
 Poco más de 400 metros de cableado del alumbrado público perteneciente al parque Fundadores, mejor conocido como Huerta Legarreta, fue reinstalado tras haber sido vandalizado en diversas ocasiones. Ante esto, se invita a la ciudadanía a reportar al 911 o al 072 a cualquier persona sospechosa que se encuentre manipulando la infraestructura municipal.

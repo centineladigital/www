@@ -16,11 +16,11 @@ author: nil
 description: "Todo esto desde las policías municipales "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-29_at_11.49.06.jpeg"
 video: "/uploads/2021/videos-BJ01_PEREZ_PAVIA.mp4"
-audio: "nil"
+audio: nil
 alt: "La administración de justicia se debe fortalecer  "
 front: false
 section: "Local"
-news_id: 188237
+redirect_from: /news/188237
 ---
 
 El diputado, Ismael Pérez Pavía estuvo presente en la instalación de la Comisión del Justicia en el Congreso del Estado que encabeza la presidenta Georgina Bujanda, el legislador manifestó que vigilará detenidamente las iniciativas que lleguen, pues la seguridad es fundamental por ello se debe fortalecer la administración de justicia desde las policías municipales. 

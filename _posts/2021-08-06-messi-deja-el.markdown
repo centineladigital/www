@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pese a los avances que se tenían en las negociaciones, el cuadro catalán anunció este jueves que el argentino quedará desvinculado del club tras más de 20 años en sus filas "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Messi deja el Barcelona; equipo anuncia que no firmará nuevo contrato"
 front: false
 section: "Deportes"
-news_id: 186373
+redirect_from: /news/186373
 ---
 
 Pese a que se decía que había una acuerdo para que Lionel Messi siguiera en el Barcelona, el mismo club anunció este jueves que el jugador no seguirá en equipo debido a obstáculos económicos entre ambas partes.

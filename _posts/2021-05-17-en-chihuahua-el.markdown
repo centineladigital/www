@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Todos los municipios juntos no llegan a la cifra de casos que tiene el municipio de Chihuahua."
 image: "/uploads/2021/images-arton20898.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02_ATURO_VALENZUELA.mp3"
 alt: "En Chihuahua el 57 por ciento de casos activos"
 front: false
 section: "Local"
-news_id: 184502
+redirect_from: /news/184502
 ---
 
 El 57 por ciento de los casos activos de coronavirus se encuentra en Chihuahua, según lo dio a conocer el Director Médico de la Zona Norte en el Estado, Arturo Valenzuela Zorrilla. Quien destacó que ni todos los municipios juntos superan o igualan al municipio de Chihuahua en casos activos de coronavirus.

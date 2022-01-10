@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los chefs Betty Vázquez, Adrián Herrera y José Ramón Castillo hablan de la experiencia de hacer una competencia de cocina en plena pandemia y el efecto que ha logrado. "
 image: "/uploads/2021/images-programa-impactado-television-gastronomia-mexicana.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'MasterChef', el programa que convirtió la gastronomía en protagonista de la televisión"
 front: false
 section: "Espectáculos"
-news_id: 183301
+redirect_from: /news/183301
 ---
 
 Este viernes 5 de marzo habrá un nuevo MasterChef, pero el camino andado del reality en México, que sumará al ganador de la octava temporada, “no ha sido fácil”, sobre todo en la última emisión, pues los chefs Betty Vázquez, Adrián Herrera y José Ramón Castillo, y en general toda la producción, enfrentaron varios retos para lograrlo. “Por supuesto que el objetivo de MasterChef se cumplió, pero sí debemos reconocer que no fue fácil. La pandemia nos transformó muchas cosas: desde realizar un casting vía zoom, después sacar una temporada con el compromiso de no enfermarnos y quedarnos con 20 chicos que tenían ganas de demostrar su pasión por la cocina a pesar del covid-19”, dijo la chef Betty, quien se ha distinguido por el estilo amable al ofrecer sus críticas a los participantes 

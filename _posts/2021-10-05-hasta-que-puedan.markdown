@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante señaló que a él nunca le ha interesado el dinero, pues solo lo ha utiizado para regalarlo y que sus seres queridos la pasen bien. "
 image: "/uploads/2021/images-joaquin-sabina-abandono-hospital-compania_0_21_958_596.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hasta que puedan levantarse a tomar algo o fumar -  Joaquín Sabina dice que no volverá a los escenarios mientras fans usen cubrebocas"
 front: false
 section: "Espectáculos"
-news_id: 188376
+redirect_from: /news/188376
 ---
 
 El cantante Joaquín Sabina ha dicho hoy que no volverá a los escenarios "mientras que la gente esté con mascarilla y no pueda levantarse a fumar o tomar una copa", un tiempo que ha calculado entorno al "año y medio" sobre todo al pensar en Latinoamérica. Sabina, uno de los artistas más reconocidos en España e Hispanoamérica, donó al Cervantes un legado que incluye, entre otros contenidos, la colección completa de la revista literaria argentina Sur, que fue una publicación de referencia cultural entre 1931 (fecha en la que la fundó la escritora Victoria Ocampo) y 1992. La colección cuenta con todos los números publicados (del 1 al 371) y se encuentra en perfecto estado, lo que le añade aún más valor. 

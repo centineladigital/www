@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jeff Merkley denunció en su cuenta de Twitter los daños ocasionados durante el 'asalto' al Capitolio' a manos de grupos partidarios de Trump."
 image: "/uploads/2021/images-2507843.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Senador de EU denuncia daños a oficinas tras asalto al Capitolio"
 front: false
 section: "Internacional"
-news_id: 181947
+redirect_from: /news/181947
 ---
 
 El senador Jeff Merkley denunció en su cuenta de Twitter los destrozos que provocaron las personas que irrumpieron en Capitolio la tarde de ayer.

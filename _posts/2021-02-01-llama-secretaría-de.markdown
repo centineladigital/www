@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se puede convivir en familia, pero solamente con las personas que viven en la misma casa; hay que usar cubrebocas y comer de manera individual, no en grupos"
 image: "/uploads/2021/images-dra_wendy_2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llama Secretaría de Salud a no hacer reuniones por el Día de la Candelaria"
 front: false
 section: "Local"
-news_id: 182611
+redirect_from: /news/182611
 ---
 
 La subdirectora de Medicina Preventiva de la Secretaría de Salud, Wendy Ávila Coronado, hizo un llamado a la sociedad en general a no realizar reuniones para comer tamales con motivo del Día de la Candelaria, que se conmemora el 2 de febrero de cada año, toda vez que este aglutinamiento de personas puede generar contagios de COVID-19.

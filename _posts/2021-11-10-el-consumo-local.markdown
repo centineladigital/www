@@ -14,11 +14,11 @@ author: nil
 description: "Señaló de  empleos perdidos de 2019 a 2021 se tienen ya el mismo estándar."
 image: "/uploads/2021/images-descarga_(5).jpg"
 video: "/uploads/2021/videos-BW05_PACO_TURATÍ_.mp4"
-audio: "nil"
+audio: nil
 alt: "El consumo local aumento -  Turatí "
 front: false
 section: "Local"
-news_id: 189774
+redirect_from: /news/189774
 ---
 
 Con la reapertura de la frontera y la forma en la que el consumo local ha aumentado el regidor Turatí manifestó que el municipio de Chihuahua tiene una economía fuerte y saludable, señaló de  empleos perdidos de 2019 a 2021 se tienen ya el mismo estándar.

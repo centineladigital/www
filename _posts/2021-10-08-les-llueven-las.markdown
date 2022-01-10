@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El videoclip estrenado esta madrugada ya acumula más de dos millones de reproducciones en YouTube. "
 image: "/uploads/2021/images-tanagana-nathy-peluso-causan-polemica.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Les llueven las críticas! C. Tangana y Nathy Peluso causan polémica por su nuevo videoclip 'Ateo', filmado en catedral española"
 front: false
 section: "Espectáculos"
-news_id: 188542
+redirect_from: /news/188542
 ---
 
 La madrugada de este viernes se estrenó el videoclip de la nueva canción de C. Tangana ‘Ateo’, en donde a lado de Nathy Peluso se adueñan de la Catedral de Toledo, hecho que ha desatado múltiples polémicas. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El evento se realizó en días pasados en la biblioteca del plantel escolar, ubicado al norte de la ciudad, en la colonia El Porvenir, donde personal de esta oficina realizó de manera previa 58 diagnósticos a estudiantes, de los cuales 25 requirieron el uso de anteojos. "
 image: "/uploads/2021/images-Entregan_lentes-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan lentes gratuitos a estudiantes de escuela secundaria"
 front: false
 section: "Local"
-news_id: 190880
+redirect_from: /news/190880
 ---
 
 Servicios Educativos del Estado de Chihuahua (SEECH), a través del Departamento de Diagnóstico para Alumnos de Educación Básica, llevó a cabo la entrega gratuita de anteojos para estudiantes de la Secundaria Estatal No.3023. 

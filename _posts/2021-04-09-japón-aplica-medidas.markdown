@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las autoridades toman la decisión ante el aumento de contagios y temen que el sistema médico quede bajo presión. Buscan impedir una gran propagación del virus durante los Juegos Olímpicos"
 image: "/uploads/2021/images-2559415.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Japón aplica medidas intensivas contra covid"
 front: false
 section: "Deportes"
-news_id: 183778
+redirect_from: /news/183778
 ---
 
 El gobierno japonés aprobó reforzar las medidas contra el coronavirus en Tokio, menos de tres semanas después de la suspensión del estado de urgencia y a poco más de 100 días de los Juegos Olímpicos.

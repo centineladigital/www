@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante sorprendió a sus fans mexicanos comiendo tacos de pastor durante su visita a la Ciudad de México. "
 image: "/uploads/2021/images-rosalia-sorprende-fans-comiendo-tacos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Le gustaron? Rosalía come tacos y disfruta de la música del mariachi en la CdMx"
 front: false
 section: "Espectáculos"
-news_id: 189042
+redirect_from: /news/189042
 ---
 
 Bien dicen que nadie puede resistirse a los tacos, y Rosalía no fue la excepción, pues durante su estadía en la Ciudad de México la intérprete de "Con Altura" aprovechó para disfrutar del sabor y ese toque picante de unos deliciosos taquitos de pastor, además de otras delicias de la gastronomía mexicana en restaurantes de renombre. "La Rosalía está en Ciudad de México y yo no sé qué hacer para topármela (encontrarla) y decirle que es la diosa", menciono Camila Grandi, una usuaria de Twitter, entre cientos de fanáticos de la creadora de El mal querer (2018) que también escribieron en redes. 

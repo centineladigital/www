@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las autoridades no descartan que el hecho se habría originado por un posible ajuste de cuentas contra un policía. "
 image: "/uploads/2021/images-la-explosion-ocurrio-en-la-1_0_22_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sospechosa explosión en edificio deja 16 heridos en Suecia, 4 de ellos en estado grave"
 front: false
 section: "Internacional"
-news_id: 188126
+redirect_from: /news/188126
 ---
 
 Una explosión ocurrida hoy en un edificio de Gotemburgo, en Suecia, provocó que 16 personas resultaran heridas, cuatro de ellas en estado de gravedad, según el informe de las las autoridades, quienes no descartan que esto se trate de un violento acto criminal relacionado con un ajuste de cuentas. 

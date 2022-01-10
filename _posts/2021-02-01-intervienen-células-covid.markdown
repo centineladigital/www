@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hubo una disminución de reportes al 9-1-1"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Intervienen Células COVID en 16 fiestas escandalosas"
 front: false
 section: "Local"
-news_id: 182596
+redirect_from: /news/182596
 ---
 
 Agentes que integran las Células COVID intervinieron durante el fin de semana en 16 fiestas escandalosas y levantaron un acta en una de ellas, ante el desacato de los participantes a suspenderla.

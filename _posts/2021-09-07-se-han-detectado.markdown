@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La secretaria Delfina Gómez informó solo en 39 escuelas se ha cerrado de manera temporal por 15 días"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se han detectado 88 casos de Covid-19 tras regreso a clases presenciales -  SEP"
 front: false
 section: "Nacional"
-news_id: 187490
+redirect_from: /news/187490
 ---
 
 La secretaria de Educación, Delfina Gómez Álvarez, informó se han detectado 88 casos que han dado casos positivo a Covid-19 y que 39 escuelas se mantienen cerradas a nueve días del regreso a clases presenciales.

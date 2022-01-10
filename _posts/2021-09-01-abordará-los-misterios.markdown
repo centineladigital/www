@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La serie constará con seis episodios que se rodarán en Francia y que producirá la empresa gala Gaumont, encargada de la creación de 'Lupin' (2021). "
 image: "/uploads/2021/images-karl-lagerfeld-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Abordará los misterios de su vida! Disney realizará bioserie de Karl Lagerfeld"
 front: false
 section: "Espectáculos"
-news_id: 187325
+redirect_from: /news/187325
 ---
 
 El icónico y enigmático diseñador de moda Karl Lagerfeld (1933-2019), tendrá una serie sobre su vida gracias a Disney, que anunció este martes la producción de Kaiser Karl. 

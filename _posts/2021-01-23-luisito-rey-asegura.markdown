@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de que Nath Campos diera a conocer que fue abusada sexualmente por Rix, Luisito Rey aseguró que Nath también tiene la culpa. "
 image: "/uploads/2021/images-luisito-rey-criticado-redes-sociales.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Luisito Rey asegura que Nath Campos tiene la culpa por sufrir abuso; lo critican en redes"
 front: false
 section: "Espectáculos"
-news_id: 182386
+redirect_from: /news/182386
 ---
 
 Después de que Nath Campos subiera un video en el que reveló que hace dos años fue abusada sexualmente por el youtuber Rix, a quien consideraba su amigo, las redes sociales han demostrado su apoyo a la hija del compositor Kiko Campos, sin embargo, el influencer Luisito Rey emitió un comentario en el que aseguró que Nath también es culpable de la violación que sufrió. En un video que realizó Luisito Rey, en el que dio su opinión sobre el abuso que sufrió Nath Campos, el influencer mencionó que Nath también tenido la culpa de la violación, ya que se encontraba ebria. 

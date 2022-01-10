@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Aunque esto no representa un problema en la ciudad, prevenir resulta necesario para cuidar el patrimonio"
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Evita asalto en cajeros automáticos con estas recomendaciones de la DSPM "
 front: false
 section: "Local"
-news_id: 188827
+redirect_from: /news/188827
 ---
 
 En el municipio de Chihuahua no existen reportes de asaltos a usuarios de cajeros automáticos, sin embargo, el Gobierno Municipal a través de la Dirección de Seguridad Pública Municipal, emite una serie de recomendaciones para evitar convertirse en víctima de quien busca el dinero fácil. 

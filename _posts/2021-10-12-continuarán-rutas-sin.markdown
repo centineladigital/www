@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Ultimo recorrido no cambiará de horario."
 image: "/uploads/2021/images-ED1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM03_EDUARDO_FERNANDEZ.mp4"
 alt: "Continuarán rutas sin cambio"
 front: false
 section: "Local"
-news_id: 188647
+redirect_from: /news/188647
 ---
 
 Pese a que se encuentra el semáforo en color verde, el sistema de transporte continuará con la forma en la que se lleva a cabo, afirmó Eduardo Fernández Sígala Director de Transporte a nivel Estatal.

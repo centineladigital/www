@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Sin dejar de ser observadores desde la oposición."
 image: "/uploads/2021/images-A3.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ04_ALEJANDRO_DOMINGUEZ.mp4"
 alt: "Respalda PRI acciones de Gobernadora"
 front: false
 section: "Local"
-news_id: 187591
+redirect_from: /news/187591
 ---
 
 El dirigente del PRI  a nivel estatal Alejandro Domínguez expresó que se dará respaldo el mensaje que lleve a cabo la Gobernadora María Eugenia Campos Galván. Esto con el fin de que en el territorio estatal tenga un clima de paz y tranquilidad.

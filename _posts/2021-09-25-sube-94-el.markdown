@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "De costar 10.81 pesos el cilindro de 20 y 30 kilogramos, este sábado se comercializa en 21.00 pesos el kilogramo  "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sube 94% el precio del Gas Bienestar en algunos lugares a menos de un mes de operación"
 front: false
 section: "Nacional"
-news_id: 188057
+redirect_from: /news/188057
 ---
 
 En algunos lugares de la alcaldía de Iztapalapa, en donde inicio operaciones la empresa distribuidora de gas licuado de petróleo (LP) estatal, tuvo un incremento del 94.23% y de costar 10.81 pesos el cilindro de 20 y 30 kilogramos, este sábado se comercializa en 21.00 pesos el kilogramo.

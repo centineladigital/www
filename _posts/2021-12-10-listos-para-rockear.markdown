@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esta serie de conciertos llega después de haber pospuesto sus presentaciones que estaban programadas para octubre de 2021. "
 image: "/uploads/2021/images-guns-n-roses-regresa-a-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Listos para rockear? Guns N’ Roses anuncia poderosos conciertos en México"
 front: false
 section: "Espectáculos"
-news_id: 190739
+redirect_from: /news/190739
 ---
 
 Todo parece ser que cada día nos despertamos con la noticia de un concierto nuevo y es que la industria musical y los espectáculos en vivo comienzan a volver a la normalidad. 

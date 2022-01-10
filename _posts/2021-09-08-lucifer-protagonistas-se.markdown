@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tom Ellis y Lauren German dicen adiós a sus personajes con la sexta y última temporada de la serie; aquí te contamos todo sobre el final. "
 image: "/uploads/2021/images-lucifer-llega-a-su-fin_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Lucifer' -  Protagonistas se despiden de la serie; revelan detalles de la sexta temporada"
 front: false
 section: "Espectáculos"
-news_id: 187559
+redirect_from: /news/187559
 ---
 
 Lucifer llega a su final con una sexta temporada en la que se definirá el destino del rey del Infierno, ahora convertido en Dios luego de que su padre abandonara su trono en el Cielo. Después de seis años y a unos días del estreno de los últimos capítulos, los protagonistas de la serie estadunidense Tom Ellis y Lauren German dicen adiós a sus papeles de demonio y detective. 

@@ -10,11 +10,11 @@ author: nil
 description: "Buscan frenar el incremento de tarifas de transporte público."
 image: "/uploads/2021/images-ROCIO.jpg"
 video: "/uploads/2021/videos-MJ01_ROCIO_MARTINEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Incremento de transporte público traerá costo político -  Retén Ciudadano"
 front: false
 section: "Local"
-news_id: 188740
+redirect_from: /news/188740
 ---
 
 El que se incremente el costo del transporte público traerá un costo político a la presente administración, señaló Rocío Martínez Carrera, integrante de Retén Ciudadano. Esta organización está buscando llevar a cabo acciones, esto ante la posibilidad del incremento del transporte público.

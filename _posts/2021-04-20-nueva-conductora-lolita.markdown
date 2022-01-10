@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue en la emisión televisiva en donde Lolita Cortés apareció en el programa Hoy para la sección: “Las estrellas bailan en Hoy”. ¿Es conductora? Te contamos todo lo que sabemos sobre este nuevo reality show. "
 image: "/uploads/2021/images-lola.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Nueva conductora? Lolita Cortés se integra al programa 'Hoy'; éste es el nuevo show de Televisa"
 front: false
 section: "Espectáculos"
-news_id: 183990
+redirect_from: /news/183990
 ---
 
 Lolita Cortés, cantante y actriz de teatro, se une al programa Hoy de Televisa. ¿Será conductora de la emisión matutina? Es la pregunta que surgió, luego de que la famosa apareciera a lado de Andrea Legarreta y otros presentadores. Y es que hoy dio inició el nuevo reality show de la revista matutina, en donde varios famosos bailarán en vivo todos los días. Fue en la emisión televisiva en donde Lolita Cortés apareció en el programa Hoy para la sección: “Las estrellas bailan en Hoy”. En éste, varios famosos se unieron a la competencia para bailar junto a Paul Stanley, Lambda García y Andrea Escalona. Mientras que Galilea Montijo y Andrea Legarreta ocuparon otros puestos.

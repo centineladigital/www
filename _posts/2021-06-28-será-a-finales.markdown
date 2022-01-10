@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Gabriel Soto e Irina Baeva dieron a conocer nuevos detalles sobre su boda, la cual relevaron que sería a finales de este año."
 image: "/uploads/2021/images-irina-baeva-gabriel-soto-casaran-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Será a finales de este año! Irina Baeva y Gabriel Soto revelan detalles sobre su boda"
 front: false
 section: "Espectáculos"
-news_id: 185276
+redirect_from: /news/185276
 ---
 
 La pareja de actores, Irina Baeva y Gabriel Soto, anunciaron su compromiso a principios de este año, ahora compartieron muchos más detalles durante una visita en Nueva York donde estuvieron presentes en un evento de Latinos en Wall Street. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los gobiernos de Francia e Italia anuncian la suspensión de la vacunación con dosis de AstraZeneca ante denuncias por probables efectos secundarios"
 image: "/uploads/2021/images-2545326.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Francia e Italia se unen a países que han suspendido vacuna AstraZeneca"
 front: false
 section: "Internacional"
-news_id: 183417
+redirect_from: /news/183417
 ---
 
 Los gobiernos de Francia e Italia anunciaron hoy la suspensión del uso de la vacuna AstraZeneca ante denuncias por probables efectos secundarios.

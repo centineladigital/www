@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esta semana estrenó el programa Todos a la cocina "
 image: "/uploads/2021/images-resaltaron-importancia-mantener-reconocer-gastronomia_0_248_970_604.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Benito Molina. Clases de cocina a distancia"
 front: false
 section: "Espectáculos"
-news_id: 185638
+redirect_from: /news/185638
 ---
 
 El chef Benito Molina está de regreso en la televisión con Todos a la cocina, un programa de Discovery Home and Health, con el que propone ir más allá de compartir sus conocimientos culinarios para hablar también sobre temas que defiende desde tiempo atrás, como el apoyo a productores locales o promover una cocina responsable con el medio ambiente. 

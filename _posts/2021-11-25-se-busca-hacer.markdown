@@ -16,11 +16,11 @@ author: nil
 description: "La CNDH afirma que existen Cobros injustificados y excesivos por el ejercicio del derecho de acceso a la información pública"
 image: "/uploads/2021/images-245497655_438_286_68752656_8_52_4518451275_33__n.jpg"
 video: "/uploads/2021/videos-BJ04_PACO_TURATI_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se busca hacer ajustes en la ley de ingresos "
 front: false
 section: "Local"
-news_id: 190217
+redirect_from: /news/190217
 ---
 
 “Es posible hacer los ajustes a la ley de ingresos del 2022 para cumplir con las disposiciones de la suprema corte de justicia y de esta forma evitar que la ciudadanía se vea afectada”, estas fueron las palabras de Paco Turati Regidor y Presidente de la  Comisión De Hacienda y Gobierno De Chihuahua, ante la tarea encomendada de revisar las disposiciones hechas por la SCJ por la acción de inconstitucionalidad que interpuso la CNDH.

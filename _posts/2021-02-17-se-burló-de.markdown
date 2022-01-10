@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de Twitter e Instagram la imagen de Rihanna comenzó a circular; de inmediato la postal fue tachada de irrespetuosa para la comunidad hundú y personas de la India. ¿Se burló de la religión? "
 image: "/uploads/2021/images-rihanna-enfada-india-posar-topless.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Se burló de la religión Hindú? Critican a Rihanna por foto en topless con collar de Ganesha"
 front: false
 section: "Espectáculos"
-news_id: 182990
+redirect_from: /news/182990
 ---
 
 Rihanna, famosa cantante, encendió las críticas en su contra, luego de que publicara una fotografía en la que se le acusa de apropiación cultural e insensibilidad religiosa. En la imagen, la también empresaria aparece en topless con un colgante que refieren tiene la representación del dios hindú Ganesha. ¿Rihanna lo hace por publicidad? ¿En realidad se está burlando? Te contamos lo que sabemos. 

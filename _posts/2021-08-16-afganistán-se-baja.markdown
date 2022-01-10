@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Afganistán iba a estar representado por dos paratletas en los Juegos de Tokio "
 image: "/uploads/2021/images-zakia-khudadadi-paralympic-org_0_19_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Afganistán se baja de Tokio 2020; iban a hacer historia con primera mujer en Paralímpicos"
 front: false
 section: "Deportes"
-news_id: 186722
+redirect_from: /news/186722
 ---
 
 El equipo paralímpico de Afganistán no participará en los Juegos de Tokio, que empezarán el próximo día 24, ante la imposibilidad de desplazarse hasta Japón dada la situación inestable en el país tras la toma de poder de los talibanes. 

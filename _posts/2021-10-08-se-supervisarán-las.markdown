@@ -16,11 +16,11 @@ author: nil
 description: "Carecen de doctores desde las 7:00 pm hasta las 7:00am y en caso de alguna emergencia se deben transportar a Juárez o a Chihuahua dependiendo de la gravedad."
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-07_at_13.24.37.jpeg"
 video: "/uploads/2021/videos-BV01_PEREZ_PAVIA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se supervisarán las condiciones de salud en Villa Ahumada "
 front: false
 section: "Local"
-news_id: 188533
+redirect_from: /news/188533
 ---
 
 El legislador, Ismael Pérez Pavía dio a conocer que tendría una reunión con el sub secretario de Salud para supervisar las condiciones del centro de salud de Ahumada y Meoqui, así como de los 67 municipios.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "con el objetivo de prestar una atención inmediata a los problemas psicológicos de la clase trabajadora derivados de la implementación del Home Office"
 image: "/uploads/2021/images-Bazan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pide diputado solucionar agotamiento por Home Office"
 front: false
 section: "Local"
-news_id: 183474
+redirect_from: /news/183474
 ---
 
 El diputado Omar Bazán entregó una iniciativa para exhortar a los poderes de gobierno a prestar una atención inmediata a los problemas psicológicos de la clase trabajadora derivados de la implementación del "Home Office".

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Implementaron talleres y programas para explicarle a los alumnos la importancia del lavado de manos, uso de cubreboca y respetar la distancia"
 image: "/uploads/2021/images-ISSSTE_04.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inician estancias infantiles del ISSSTE reincorporación presencial a clases  "
 front: false
 section: "Local"
-news_id: 187269
+redirect_from: /news/187269
 ---
 
 Las Estancias de Bienestar y Desarrollo Infantil (EBDI’s) del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) iniciaron la reincorporación presencial para este ciclo escolar; con un método de educación híbrido que se ha mantenido desde el inicio de la pandemia y, continuará durante el  ciclo escolar 2021-2022, informó el director general, Luis Antonio Ramírez Pineda.

@@ -20,11 +20,11 @@ author: nil
 description: " El robo a vehículos y a casa habitación finalizan el año con gran incremento "
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-28_at_1.24.09_PM.jpeg"
 video: "/uploads/2021/videos-BW02_ARTURO_LUJAN_.mp4"
-audio: "nil"
+audio: nil
 alt: "Incrementaron los delitos en 2021 "
 front: false
 section: "Local"
-news_id: 191322
+redirect_from: /news/191322
 ---
 
 Durante el año actual el incremento en algunos delitos que afectan el estado de chihuahua aumentó considerablemente respecto al año 2020, esto en relación a las cifras que ha mostrado el Fideicomiso para la Competitividad y Seguridad Ciudadana, por sus siglas (FICOSEC)  en las que se muestra un incremento  considerable en algunos delitos.

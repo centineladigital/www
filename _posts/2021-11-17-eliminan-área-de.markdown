@@ -10,11 +10,11 @@ author: nil
 description: "Desde el inicio de la administración no están patrullando."
 image: "/uploads/2021/images-gil.jpg"
 video: "/uploads/2021/videos-MJ01_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Eliminan área de motociclistas de vialidad"
 front: false
 section: "Local"
-news_id: 189937
+redirect_from: /news/189937
 ---
 
 La desaparición del escuadrón de Policía Vial en motocicleta de la ciudad de Chihuahua producto de la reingeniería que se lleva a cabo dentro de la institución, fueron las palabras del titular de la Secretaría de Seguridad Pública, Gilberto Loya Chávez, quien dijo que estos elementos fueron destacamentados para la atención a los operativos Cosecha de Alto Valor y Paisano.

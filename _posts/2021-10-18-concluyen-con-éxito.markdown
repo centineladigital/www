@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Agradece Gobierno Municipal a la ciudadanía haber acatado las medidas de sanidad"
 image: "/uploads/2021/images-unnamed_(16).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Concluyen con éxito actividades del FICUU en escenarios del centro histórico"
 front: false
 section: "Local"
-news_id: 188854
+redirect_from: /news/188854
 ---
 
 Con gran éxito y aceptación del público capitalino concluyó la noche del sábado el tercer día de actividades del Festival Internacional de la Ciudad de Chihuahua (FICUU) 2021, en su cierre de escenarios dentro del centro histórico de la ciudad.

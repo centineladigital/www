@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Confirma Salud siete personas más fallecidas y 32 dan positivo al SARS-CoV-2; Chihuahua es el municipio con más casos confirmados activos con 426, seguido de Juárez con 125"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acumula estado 5,654 defunciones y 58,364 contagios por COVID-19"
 front: false
 section: "Local"
-news_id: 183593
+redirect_from: /news/183593
 ---
 
 A un año de registrarse el primer caso de COVID-19 en la entidad, suman 58 mil 364 contagios acumulados y 5 mil 654 defunciones, de acuerdo con el reporte epidemiológico de la Secretaría de Salud estatal.

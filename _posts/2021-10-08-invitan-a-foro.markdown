@@ -10,11 +10,11 @@ author: nil
 description: "Esperan la presencia de cerca de mil 300 docentes en el área."
 image: "/uploads/2021/images-agua.jpg"
 video: "/uploads/2021/videos-MV03_CARLOS_RODRIGUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Invitan a foro internacional de educación física"
 front: false
 section: "Local"
-news_id: 188530
+redirect_from: /news/188530
 ---
 
 En el marco de la celebrarán del  Día del Docente de Educación Física se llevará a cabo el II Foro Internacional de Educación Física del 18 al 23 de octubre que se llevará a cabo el 8 de octubre, según fue dado a conocer por parte de Carlos Daniel Rodríguez Castañeda, Dirección de Atención a la Diversidad y Acciones Transversales.

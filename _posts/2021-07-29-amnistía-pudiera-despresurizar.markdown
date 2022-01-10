@@ -10,11 +10,11 @@ author: nil
 description: "Poco es el porcentaje de personas que puedan ser tomadas en cuenta para su liberación."
 image: "/uploads/2021/images-EMILIO.jpg"
 video: "/uploads/2021/videos-MJ01_EMILIO_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Amnistía pudiera despresurizar cárceles -  SSPE"
 front: false
 section: "Local"
-news_id: 186108
+redirect_from: /news/186108
 ---
 
 La amnistía propuesta por el Presidente de la República pudiera beneficiar a los centros de reinserción al despresurizarlos, afirmó el titular de la Secretaría de Seguridad Pública Estatal Emilio García Ruiz.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El subsecretario de Derechos Humanos de la Secretaría de Gobernación, Alejandro Encinas informó que se calcula que hay 52 mil cuerpos sin identificar en fosas comunes y en servicios forense de todo el país"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México vive una crisis forense, reconoce Segob; hay 52 mil cuerpos sin identificar"
 front: false
 section: "Nacional"
-news_id: 191139
+redirect_from: /news/191139
 ---
 
 Alejandro Encinas, subsecretario de Gobernación (Segob), reconoció que existe una crisis forense en México, pues informó que se calcula que hay 52 mil cuerpos sin identificar en fosas comunes y en servicios forense de todo el país. 

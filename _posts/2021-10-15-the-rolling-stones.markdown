@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La canción, publicada en 1971, habla de esclavos golpeados y de relaciones sexuales con jóvenes esclavas. "
 image: "/uploads/2021/images-noviembre-banda-realizara-serie-conciertos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "The Rolling Stones dejarán de tocar 'Brown Sugar' tras críticas por letra sobre la esclavitud"
 front: false
 section: "Espectáculos"
-news_id: 188769
+redirect_from: /news/188769
 ---
 
 A raíz de las críticas a la letra de "Brown Sugar", que habla de la esclavitud, The Rolling Stones sacaron a la popular canción del repertorio que presentarán en su gira por Estados Unidos. "¿Te diste cuenta, eh?", dijo Keith Richards al diario Los Ángeles Times en una entrevista reciente, cuando le preguntaron por la ausencia de la canción en los conciertos de la banda británica. 

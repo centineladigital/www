@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "En los primeros 100 días de trabajo y resultados se han atendido más de 12 mil reportes ciudadanos"
 image: "/uploads/2021/images-reporte.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es prioridad del Gobierno Municipal la atención a denuncias ciudadanas"
 front: false
 section: "Local"
-news_id: 189802
+redirect_from: /news/189802
 ---
 
 El Gobierno Municipal, a través del Centro de Respuesta Ciudadana, brinda diversas atenciones, como acciones y apoyos con los que cuenta la Dirección de Desarrollo Humano y Educación, que a la fecha ha atendido más de 855 reportes ciudadanos con el fin de ayudar a las personas que así lo requieren. 

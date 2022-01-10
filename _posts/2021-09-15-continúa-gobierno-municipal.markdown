@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Actualmente se interviene la calle Pino   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúa Gobierno Municipal con labores de recarpeteo en la ciudad"
 front: false
 section: "Local"
-news_id: 187763
+redirect_from: /news/187763
 ---
 
 El Gobierno Municipal, a través de la Dirección de Obras Públicas, continúa trabajando en las labores de recarpeteo en calles y avenidas principales de la ciudad, a la fecha estos trabajos se están realizando en la calle Pino, la cual presenta un avance del 75 por ciento de avance.

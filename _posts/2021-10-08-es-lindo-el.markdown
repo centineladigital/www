@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras los rumores de un romance entre Selena Gómez y Chris Evans, surgió un video en el que la cantante reconoció que tenía un crush en el actor. "
 image: "/uploads/2021/images-selena-gomez-chris-evans-captados.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es lindo -  El día que Selena Gómez reveló que tenía un 'crush' con Chris Evans"
 front: false
 section: "Espectáculos"
-news_id: 188535
+redirect_from: /news/188535
 ---
 
 A través de redes sociales han circulado unas fotografías en donde se ven a Chris Evans y Selena Gómez juntos saliendo de una tienda y a punto de subirse a una camioneta negra, por lo que no tardaron en surgir los rumores de un posible romance, sin embargo, nada ha sido confirmado. Tras esto, ha salido a la luz un video en el que la cantante declaró que le gustaba el actor. 

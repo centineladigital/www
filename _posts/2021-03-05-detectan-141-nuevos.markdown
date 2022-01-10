@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exhortan a continuar con precauciones."
 image: "/uploads/2021/images-ARTURO1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV01.mp3"
 alt: "Detectan 141 nuevos casos de COVID"
 front: false
 section: "Local"
-news_id: 183311
+redirect_from: /news/183311
 ---
 
 En las últimas 24 horas se detectaron 145 nuevo casos y 31 defunciones fueron acreditadas por causa del coronavirus con lo que se llega a un total de 5 mil 383 muertes de un universo de 55 mil 231.

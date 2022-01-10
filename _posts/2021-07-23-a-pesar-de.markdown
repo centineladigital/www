@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "De manera complementaria se envió a hospitales de la iniciativa privada a embarazadas sin enfermedades o situaciones de riesgo"
 image: "/uploads/2021/images-Foto_318-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "A pesar de la pandemia por COVID-19 IMSS atendió consulta obstétrica y partos sin rezagos"
 front: false
 section: "Local"
-news_id: 185950
+redirect_from: /news/185950
 ---
 
 Desde el inicio de la pandemia por COVID-19 a la fecha, el Instituto Mexicano del Seguro Social (IMSS) no presenta rezagos en la consulta de obstetricia, partos o cesáreas, ya que se consideró como prioridad la atención de las embarazadas en unidades médicas de la institución, en todo momento bajo estrictas medidas de higiene y bioseguridad.

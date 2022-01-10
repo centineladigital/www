@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pumas y América definirán la serie en el partido de vuelta"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pumas y América, con empate insípido en el inicio de la liguilla del Apertura 2021"
 front: false
 section: "Deportes"
-news_id: 190188
+redirect_from: /news/190188
 ---
 
 La última vez que Pumas recibió al América en Ciudad Universitaria la vida era otra y el escenario fue todo lo contrario. El Covid-19 aún no era pandemia en México y aquel encuentro finalizó con un vibrante 3-3. Fue el 6 de marzo de 2020.

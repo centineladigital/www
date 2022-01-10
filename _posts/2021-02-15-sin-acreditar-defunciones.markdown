@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solamente se acreditaron 36 casos de personas contagiadas en 24 horas."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW01.mp3"
 alt: "Sin acreditar defunciones en las últimas 24 horas"
 front: false
 section: "Local"
-news_id: 182937
+redirect_from: /news/182937
 ---
 
 En las últimas 24 horas no se han acreditado defunciones en el estado por motivo de COVID 19, según lo dio a conocer Wendy Ávila Coronado, Subdirectora de Medicina Preventiva y Promoción Para la Salud. Quien por otra parte dio a conocer que en las últimas 24 horas solamente se detectaron 36 personas que dieron positivo a las pruebas PCR.

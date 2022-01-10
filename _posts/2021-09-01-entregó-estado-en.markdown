@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con estas acciones realizadas a través de las cinco delegaciones regionales de la Secretaría de Desarrollo Urbano y Ecología ubicadas en en Juárez, Cuauhtémoc, Delicias, Parral y Nuevo Casas Grandes, se brinda certeza jurídica a 720 personas   "
 image: "/uploads/2021/images-entrega_escrituras2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Entregó Estado en el mes de agosto 200 escrituras  a familias de escasos recursos"
 front: false
 section: "Local"
-news_id: 187340
+redirect_from: /news/187340
 ---
 
 Gobierno del Estado, a través de las 5 delegaciones de la Secretaría de Desarrollo Urbano y Ecología (Sedue) de los municipios de Juárez, Cuauhtémoc, Delicias, Parral y Nuevo Casas Grandes, hizo entrega durante el pasado mes de agosto, de un total de 200 escrituras, a familias de escasos recursos.

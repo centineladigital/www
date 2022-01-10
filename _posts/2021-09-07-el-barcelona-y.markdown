@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Por diversas situaciones han trabajado bajo está línea, por la pandemia y después por el cambio de presidente, no se ha firmado el acuerdo"
 image: "/uploads/2021/images-barcelona-y-nike-sin-acuerdo_0_25_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El Barcelona y Nike colaboran juntos sin contrato desde el año 2016"
 front: false
 section: "Deportes"
-news_id: 187492
+redirect_from: /news/187492
 ---
 
 Nike viste al Barcelona desde 1998, pero en la última renovación de su alianza, que se realizó en 2016, según ha podido saber EFE tan solo se firmó un precontrato que en ningún momento se ha formalizado como contrato, lo que desde entonces ha originado una lectura subjetiva del acuerdo por parte de las dos instituciones y ha traído algunos dolores de cabeza. 

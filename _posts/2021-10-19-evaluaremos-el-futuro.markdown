@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El mandatario venezolano aseguró que analizará la situación tras la extradición a Estados Unidos del empresario colombiano Álex Saab; estamos indignados y protestando y enfrentando la injusticia, después veremos, añadió. "
 image: "/uploads/2021/images-nicolas-maduro-presidente-de-venezuela-18_0_0_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Evaluaremos el futuro del diálogo con la oposición en México; afirma Maduro"
 front: false
 section: "Internacional"
-news_id: 188891
+redirect_from: /news/188891
 ---
 
 El presidente de Venezuela, Nicolás Maduro, aseguró este lunes que evaluará "qué va a pasar" con el diálogo abierto con la oposición tras la extradición a Estados Unidos del empresario colombiano Álex Saab —defendido como diplomático por el Gobierno venezolano—, por supuesto lavado de dinero. 

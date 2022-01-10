@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Alerta a jóvenes prevenir contagios por relaciones sexuales no protegidas, tatuajes o perforaciones con instrumental no esterilizado o mediante utensilios para drogas"
 image: "/uploads/2021/images-WhatsApp_Image_2021-07-29_at_3.14.29_PM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prevenir y tratar la hepatitis, reduce riesgo de cirrosis hepática y cáncer de hígado -  ISSTE"
 front: false
 section: "Local"
-news_id: 186107
+redirect_from: /news/186107
 ---
 
 Las enfermedades del hígado son la cuarta causa de daños a la salud en México y entre ellas el combate de la hepatitis es fundamental, ya que pueden pasar décadas sin dar síntomas y desencadenar casos de cirrosis hepática y cáncer, por lo que el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) se suma a la estrategia global para lograr su eliminación, con diagnóstico y tratamiento de fácil acceso, afirmó el Director Normativo de Salud, Ramiro López Elizalde.

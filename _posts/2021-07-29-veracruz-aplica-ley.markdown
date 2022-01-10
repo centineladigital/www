@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Dicha prohibición de venta de bebidas alcohólicas incluye a restaurantes, bares, centros nocturnos, antros, tiendas de abarrotes, cantinas, depósitos y supermercados. "
 image: "/uploads/2021/images-ley-seca-agencia-enfoque_0_53_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Veracruz aplica Ley Seca por Consulta Popular para enjuiciar a ex presidentes"
 front: false
 section: "Nacional"
-news_id: 186085
+redirect_from: /news/186085
 ---
 
 En Veracruz, fue publicado en la Gaceta Oficial del Estado el decreto que establece Ley Seca por 48 horas el próximo fin de semana debido a la Consulta Popular del 1 de agosto para enjuiciar a ex presidentes. 

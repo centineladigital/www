@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con esta medida se activan los recursos del Programa para la Atención de Emergencias por Amenazas Naturales. "
 image: "/uploads/2021/images-los-trabajos-en-el-cerro_108_56_1091_679.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Activan declaratoria de emergencia ante riesgo de nuevo deslave en el Chiquihuite"
 front: false
 section: "Nacional"
-news_id: 187943
+redirect_from: /news/187943
 ---
 
 A solicitud del ayuntamiento de Tlalnepantla, el Gobierno de México emitió una declaratoria de emergencia extraordinaria para el municipio, por el riesgo que prevalece en la ladera del cerro El Chiquihuite, luego del desprendimiento registrado el 10 de septiembre. 

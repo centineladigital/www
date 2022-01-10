@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Al rendir cuentas ante el pueblo de Ciudad Juárez, el titular del Ejecutivo consideró el riesgo de que en la renovación de la gubernatura, se le abra la puerta de la cárcel a los corruptos"
 image: "/uploads/2021/images-DSC_3024.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sería una enorme pérdida que vuelva la corrupción -  Javier Corral"
 front: false
 section: "Local"
-news_id: 182799
+redirect_from: /news/182799
 ---
 
 En su ejercicio de rendición de cuentas al pueblo de Ciudad Juárez, el gobernador Javier Corral consideró que sería una enorme pérdida que vuelva la corrupción en la próxima renovación de la gubernatura.

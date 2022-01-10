@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La obra tuvo una inversión de 7.6 millones de pesos y es parte del Presupuesto Participativo 2021"
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Benefician a 105 familias con pavimentación de calles en colonia Cerro de la Cruz   "
 front: false
 section: "Local"
-news_id: 189208
+redirect_from: /news/189208
 ---
 
 Dentro de los primeros 100 días de trabajo y resultados, el presidente municipal, Marco Bonilla, encabezó la inauguración de cinco calles pavimentadas en la colonia Cerro de la Cruz cuya inversión de 7 millones 691 mil 869 pesos forman parte del Presupuesto Participativo 2021.

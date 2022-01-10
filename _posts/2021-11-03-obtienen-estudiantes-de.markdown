@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La etapa nacional se realizó de manera presencial en Guadalajara; la y los alumnos ganadores pertenecen al plantel Chihuahua y desarrollaron la aplicación médica “Kori-Med”"
 image: "/uploads/2021/images-CE2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Obtienen estudiantes de CECyTECH primer lugar  en “Hackathon 2021”"
 front: false
 section: "Local"
-news_id: 189515
+redirect_from: /news/189515
 ---
 
 Cuatro estudiantes de la carrera de Programación del Colegio de Estudios Científicos y Tecnológicos del Estado de Chihuahua (CECyTECH) plantel Chihuahua, tuvieron una destacada participación en la gran final del “Hackathon de los CECyTEs 2021”, al obtener el primer lugar nacional.

@@ -10,11 +10,11 @@ author: nil
 description: "Elementos de la Secretaría de Seguridad Pública son enviados con el fin de reforzar la seguridad. "
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-ML04_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Sin determinar si SSPE tomará riendas de Matamoros"
 front: false
 section: "Local"
-news_id: 188601
+redirect_from: /news/188601
 ---
 
 Aún no se determina si la Secretaría de Seguridad Pública Estatal tomará la rienda de seguridad en el municipio de Matamoros, esto tras darse a conocer la detención del Director de Seguridad Pública del Municipio, según declaraciones del titular de la dependencia estatal Gilberto Loya Chávez.

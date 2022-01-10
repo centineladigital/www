@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El sismo se registró al sur del municipio de Jaumave en la zona de la Reserva de la Biósfera del Cielo. "
 image: "/uploads/2021/images-se-registra-sismo-de-magnitud.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registra sismo de magnitud 4.1 en Tamaulipas"
 front: false
 section: "Nacional"
-news_id: 190745
+redirect_from: /news/190745
 ---
 
 Durante las primeras horas de este sábado se registró un sismo en Tamaulipas. El Servicio Sismológico Nacional (SSN) indicó que el temblor tuvo una magnitud de 4.1. La Coordinación de Protección Civil del estado indicó que hasta el momento no hay reporte de afectaciones. 

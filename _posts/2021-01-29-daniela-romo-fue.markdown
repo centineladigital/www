@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz habla de la enseñanza que le dejó el melodrama, el cual honra al género con una historia que aborda la realidad. "
 image: "/uploads/2021/images-destaca-que-fue-una-experiencia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Daniela Romo -  fue una gran fortuna “Vencer el desamor”"
 front: false
 section: "Espectáculos"
-news_id: 182552
+redirect_from: /news/182552
 ---
 
 A unos días de haberse desprendido de Bárbara, “esa mujer que saber reír, llorar, que se abandona a la rutina familiar porque así lo dicta su educación; y que a través de las mujeres que la acompañan en la vida, fue abriendo su mente y, con ello, la posibilidad de volver a ser feliz a los 60 años”, Daniela Romo precisa que haber protagonizado la telenovela Vencer el desamor ha sido “una experiencia única y aleccionadora”. 

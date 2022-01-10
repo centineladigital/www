@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se prevén condiciones para la formación de torbellinos en Coahuila, Nuevo León y Tamaulipas, y posibles granizadas en 16 estados de la República Mexicana"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ingresa primer frente frío a México, prevén lluvias y vientos fuertes en norte y noreste"
 front: false
 section: "Nacional"
-news_id: 187903
+redirect_from: /news/187903
 ---
 
 El Servicio Meteorológico Nacional y la Conagua, informaron que durante este día, el primer frente frío de la temporada ingresará al norte del territorio nacional y gradualmente sobre noreste del país, ocasionará lluvias de fuertes a puntuales muy fuertes en Coahuila, Nuevo León y Tamaulipas, así como, lluvias puntuales fuertes en Chihuahua, Zacatecas, Aguascalientes y San Luis Potosí, dichas lluvias estarán acompañadas de descargas eléctricas y posible caída de granizo.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tina Fey se presentará en vivo desde Rainbow Room, mientras que Amy Poehler aparecerá dentro del Beverly Hilton y se espera que los nominados se conecten de varias partes del mundo. "
 image: "/uploads/2021/images-tina-fey-amy-poehler-conductoras-1_0_43_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Globos de Oro serán en NY y Los Ángeles; Tina Fey y Amy Poehler conducirán premiación"
 front: false
 section: "Espectáculos"
-news_id: 182665
+redirect_from: /news/182665
 ---
 
 Ya falta menos de un mes para que se lleven a cabo Los Globos de Oro y sólo unas cuantas horas de que se anuncien las nominaciones; sin embargo, poco a poco comienzan a surgir algunos detalles de la premiación a lo mejor del cine y la televisión, uno de ellos, que por primera vez se llevará a cabo en dos lugares de la costa oeste de Estados Unidos al mismo al tiempo. 

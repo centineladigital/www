@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La demanda afirmaba que el estudio sacrificó el potencial de taquilla de la película para hacer crecer su incipiente servicio de streaming. "
 image: "/uploads/2021/images-scarlett-johansson-llega-demanda-disney_33_0_784_489.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Hacen las paces! Scarlett Johansson y Disney llegan a un acuerdo tras demanda"
 front: false
 section: "Espectáculos"
-news_id: 188265
+redirect_from: /news/188265
 ---
 
 ¡Scarlett Johansson y Disney ya hicieron las pases! La actriz y la compañía resolvieron una demanda por incumplimiento de contrato sobre el pago de la película Black Widow, la cual protagonizó la estrella de Perdidos en Tokio, según informó el sitio web The Hollywood Reporter. "Estoy feliz de haber resuelto nuestras diferencias con Disney", declaró Johansson. “Estoy increíblemente orgullosa del trabajo que hemos realizado juntos a lo largo de los años y he disfrutado enormemente de mi relación creativa con el equipo. Espero continuar nuestra colaboración en los próximos años ".

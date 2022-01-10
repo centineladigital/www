@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Los ded Dallas dominaron 41-21 a los Eagles de Filadelfia el lunes por la noche con tres touchdowns de Prescott "
 image: "/uploads/2021/images-dak-prescott-brilla-triunfo-cowboys_0_34_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dak Prescott y los Cowboys dominan 41-21 a los Eagles"
 front: false
 section: "Deportes"
-news_id: 188121
+redirect_from: /news/188121
 ---
 
 Dak Prescott lanzó para tres touchdowns en su primer partido como local desde que se lesionó el tobillo en el mismo estadio hace casi un año, Trevon Diggs devolvió una intercepción 59 yardas para anotar y los Cowboys de Dallas dominaron 41-21 a los Eagles de Filadelfia el lunes por la noche. Ezekiel Elliott corrió para 95 yardas y dos touchdowns, y el tight end Dalton Schultz tuvo el primer partido con dos anotaciones en su carrera. 

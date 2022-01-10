@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 se mantiene en 8 mil 069, sin que se haya registrado nuevas defunciones."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 20 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 188858
+redirect_from: /news/188858
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 18 de octubre el reporte COVID-19, mismo que suma 79 mil 870 (+20) casos positivos al virus Sars-Cov2, 69 mil 250 (+21) casos recuperados, 72 mil 502 (+37) descartados y 757 (-22) casos sospechosos.

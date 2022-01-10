@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El norte de América vive un extraño diciembre, con tornados, nevadas en lugares donde suele haber temperaturas agradables por estas fechas y calor donde suele haber nieve"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hasta 5 metros de nieve en California y temperaturas de 20°C en Alaska -  el extraño invierno que vive Norteamérica"
 front: false
 section: "Internacional"
-news_id: 191334
+redirect_from: /news/191334
 ---
 
 Metros de nieve en California y calor de verano en Alaska.

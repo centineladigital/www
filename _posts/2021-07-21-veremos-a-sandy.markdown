@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Rise of the Pink Ladies es el nombre de la precuela de Vaselina, la cual será una serie y se tiene planeado se estrene en Paramount Plus. "
 image: "/uploads/2021/images-aun-no-se-sabe-cuando-11.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Veremos a Sandy y a Danny? 'Vaselina' tendrá serie en Paramount Plus"
 front: false
 section: "Espectáculos"
-news_id: 185891
+redirect_from: /news/185891
 ---
 
 Sin duda Vaselina o Grease, es una de las películas más famosas que incluso se volvió parte de la cultura pop. A más de 40 años de haberse estrenado y que actores como Olivia Newton-John y John Travolta saltaran a la fama, todo parece indicar seguiremos viendo más sobre esta historia que entretuvo a muchos. 

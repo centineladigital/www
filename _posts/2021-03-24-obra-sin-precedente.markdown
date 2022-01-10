@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Comparten las y los habitantes los diversos beneficios de estar permanentemente comunicados, aun en época de lluvias"
 image: "/uploads/2021/images-PUENTE_ARIZONA_01_(3).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Obra sin precedente en puentes para comunicar a las y los chihuahuenses -  Elizondo"
 front: false
 section: "Local"
-news_id: 183534
+redirect_from: /news/183534
 ---
 
 Una de las obras carreteras más importantes que el Gobierno del Estado ha entregado a las y los chihuahuenses, es el Puente Guamúchil en Batopilas, que tuvo una inversión de 16.2 millones de pesos y comunica permanentemente a 672 habitantes.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Otros municipios con posibilidad de precipitaciones son Ocampo, Bocoyna, Maguarichi, Chínipas, Guazapares, Urique, Batopilas, Morelos, Guachochi, Janos, Casas Grandes, Madera, Temósachic,"
 image: "/uploads/2021/images-LLUVIA_NUBLADO_CUU_(3).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se esperan lluvias para Chihuahua y Ciudad Juárez este martes 22"
 front: false
 section: "Local"
-news_id: 185161
+redirect_from: /news/185161
 ---
 
 Para este martes 22 de junio se pronostican lluvias en varios municipios del estado, que incluyen Chihuahua, Parral, Jiménez, Chihuahua Delicias y Ojinaga, informó la Coordinación Estatal de Protección Civil (CEPC).

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Leticia Calderón empezó su carrera desde muy pequeña, sin embargo, la telenovela Esmeralda la catapultó. "
 image: "/uploads/2021/images-leticia-calderon-compartio-creditos-esmeralda_50_0_1046_649.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Esmeralda', la telenovela que le dejó a Leticia Calderón una gran lección -  Me cambió la vida"
 front: false
 section: "Espectáculos"
-news_id: 185689
+redirect_from: /news/185689
 ---
 
 Las telenovelas mexicanas han sido un referente para muchos actores, gracias a ellas se han dado a conocer internacionalmente y han alcanzado el éxito. Una de las producciones que logró cautivar al público fue Esmeralda, protagonizada por Leticia Calderón, quien interpretó a una joven invidente. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El ex maquillista de Bárbara de Regil, Xavier Kuri, mostró su apoyo al nutriólogo Aries Terrón. Contó que la influencer es una persona sin educación y que sí tiene un odio genuino contra su madre. "
 image: "/uploads/2021/images-maquillista-barbara-regil-asegura-majadera.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me trató como basura -  Maquillista asegura que Bárbara de Regil lo violentó y humilló"
 front: false
 section: "Espectáculos"
-news_id: 185181
+redirect_from: /news/185181
 ---
 
 Bárbara de Regil, influencer fitness, recolectó otro testimonio negativo en su lista, pues ahora su ex maquillista arremetió en su contra. Xavier Kuri aseguró que la actriz de Rosario Tijeras lo trató como si fuera “basura”, con humillaciones y que hasta lo amedrentó. ¿Bárbara de Regil es prepotente con las personas con las que trabaja? ¿El ex maquillista la denunció? 

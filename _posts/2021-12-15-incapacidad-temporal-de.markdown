@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Cuando el daño a la salud es por accidente o enfermedad producidos dentro del trabajo, se otorga una Incapacidad por el ramo de Riesgo de Trabajo. "
 image: "/uploads/2021/images-Foto_575-3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Incapacidad Temporal de Trabajo del IMSS, elemento que amortigua impacto económico de la enfermedad en asegurados "
 front: false
 section: "Local"
-news_id: 190884
+redirect_from: /news/190884
 ---
 
 Durante su vida laboral, los asegurados ante el Instituto Mexicano del Seguro Social (IMSS) están expuestos a riesgos, que pueden provocar accidentes o enfermedades dentro o fuera de su lugar de trabajo, para ello cuentan con la Incapacidad Temporal de Trabajo (ITT), la cual amortigua el impacto económico que se genera cuando el trabajador no puede desempeñar sus actividades.

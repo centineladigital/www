@@ -16,11 +16,11 @@ author: nil
 description: "122 mil pesos al Grupo Recuperación Total (RETO) A.C. "
 image: "/uploads/2021/images-donativo_del_dif.jpg"
 video: "/uploads/2021/videos-BM05_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Entregan donativo para tratamientos contra el cáncer de mama a Grupo RETO"
 front: false
 section: "Local"
-news_id: 189226
+redirect_from: /news/189226
 ---
 
 El presidente municipal, Marco Bonilla, entregó un donativo económico de 122 mil pesos al Grupo Recuperación Total (RETO) A.C. para la compra de tratamientos ontológicos contra el cáncer de mama,  entre los apoyos van mamografías y biopsias.

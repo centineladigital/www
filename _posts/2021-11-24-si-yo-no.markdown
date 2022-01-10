@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“No hubiesen podido enfrentar la pandemia como lo hicimos , hubiese costado muchísimo más vidas, estaría el país destrozado”, dijo el presidente López Obrador"
 image: "/uploads/2021/images-Sin_título_smlo.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Si yo no fuera presidente, México sería un caos, estaría destrozado, hundido y habría más muertos por Covid -  AMLO"
 front: false
 section: "Nacional"
-news_id: 190134
+redirect_from: /news/190134
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que si no hubiera ganado en las elecciones de 2018 y no se hubiera cambiado la política económica, habría un caos, México estaría hundido, destrozado y hubiera habido más muertes por la pandemia de Covid-19. 

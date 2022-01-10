@@ -16,11 +16,11 @@ author: nil
 description: "Para que la particularidad de los policías puedan trabajar de una mejor manera y hacer la labor esperada por el municipio"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-11_at_11.20.28.jpeg"
 video: "/uploads/2021/videos-BL04_JULIO_SALAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "Policía municipal busca vehículos específicos"
 front: false
 section: "Local"
-news_id: 188610
+redirect_from: /news/188610
 ---
 
 Se estuvo haciendo un estudio con el implan para identificar qué tipo de unidades son las correctas para los diferentes distritos policiales, así lo asintió el director de seguridad pública municipal Julio Salas, esto para que se amolden a las necesidades de los policías municipales.

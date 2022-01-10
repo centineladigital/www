@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con rehabilitación de parque en la Melchor Ocampo, Municipio y Grupo Bimbo beneficiarán a más de 3 mil habitantes"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es prioritaria y fundamental la recuperación de espacio públicos para el Gobierno Municipal"
 front: false
 section: "Local"
-news_id: 190288
+redirect_from: /news/190288
 ---
 
 El Alcalde de Chihuahua, Marco Bonilla Mendoza, encabezó el corte de listón de la restauración el parque principal en la colonia Melchor Ocampo, el cual fue rehabilitado con pintura y material que donó Grupo BIMBO para la mejora de este espacio público. 

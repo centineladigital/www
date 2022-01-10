@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las mayores afectaciones debido al mega apagón ocurrieron en la industria"
 image: "/uploads/2021/images-CFE_B.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Normalizado el suministro de agua y electricidad en casas y comercios"
 front: false
 section: "Local"
-news_id: 183009
+redirect_from: /news/183009
 ---
 
 El gobernador Javier Corral informó que el servicio de energía eléctrica y agua potable esta prácticamente regularizado, la mayor afectación es al sector industrial donde todavía hay algunas plantas sin el suministro suficiente, sin embargo al cien por ciento en el área domestica y comercial.

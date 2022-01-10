@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Alumnos del Plantel No.6 entregaron juguetes, bolos, cobijas y despensas a instituciones de beneficencia y al Departamento de Bomberos de  Juárez"
 image: "/uploads/2021/images-ÁGUILAS_REGALANDO_SONRISAS_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Beneficia COBACH a más de mil 900 personas con campaña “Águilas regalando sonrisas”"
 front: false
 section: "Local"
-news_id: 190974
+redirect_from: /news/190974
 ---
 
 Tras la concluir la campaña “Águilas regalando sonrisas”, estudiantes y personal docente y administrativo del Plantel No. 6 del Colegio de Bachilleres del Estado de Chihuahua (Cobach) realizaron la entrega de juguetes, dulces, cobijas y despensas a diferentes asociaciones civiles y al Departamento de Bomberos de Ciudad Juárez.

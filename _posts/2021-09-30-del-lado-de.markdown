@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras la polémica entre J Balvin y Residente tras las nominaciones a los Latin Grammy, Christian Nodal dio a conocer su opinión. "
 image: "/uploads/2021/images-christian-nodal-reacciono-polemica-cantantes.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Del lado de Residente o J Balvin? Christian Nodal reacciona a polémica entre los cantantes"
 front: false
 section: "Espectáculos"
-news_id: 188247
+redirect_from: /news/188247
 ---
 
 Tras el anuncio de las nominaciones a los Latin Grammy, J Balvin publicó un tuit en el que mencionó que a los cantantes del género urbano no los toman en cuenta en este tipo de eventos, pero que supuestamente los utilizan para generar rating. Ante este comentario, Residente criticó al intérprete de “Rojo”. 

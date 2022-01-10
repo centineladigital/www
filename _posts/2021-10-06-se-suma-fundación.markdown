@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Apoyarán también en la atención que se brinda a las víctimas de violencia  "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se suma Fundación Caudillos a atención integral para mujeres del Gobierno Municipal"
 front: false
 section: "Local"
-news_id: 188455
+redirect_from: /news/188455
 ---
 
 El Gobierno Municipal a través del Instituto Municipal de las Mujeres, realizó la firma del convenio de colaboración con Fundación Caudillos, con el objetivo de impulsar y aplicar estrategias dirigidas al desarrollo de las mujeres del municipio de Chihuahua.

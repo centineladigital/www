@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Una de las concursantes apoyó a Belinda durante una disputa con Camilo, a quien le pidió ya no pelear con la cantante. "
 image: "/uploads/2021/images-nina-defiende-belinda-camilo-voz_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sí voy a pelear -  Niña defiende a Belinda de Camilo en 'La Voz Kids 2021'"
 front: false
 section: "Espectáculos"
-news_id: 183704
+redirect_from: /news/183704
 ---
 
 La Voz Kids 2021 continúa en la fase de audiciones, etapa en la que los coaches buscan sumar a sus equipos a los niños más talentosos y carismáticos. Además de demostrar su pasión por la música, los jóvenes concursantes del programa de TV Azteca también salen en defensa de sus ídolos, tal fue el caso de una niña que apoyó a Belinda durante una disputa con Camilo. Todo sucedió durante la presentación de Sarah Jade, de 10 años, pues su increíble actuación hizo girar la silla de Belinda y Camilo, quienes recurrieron a todo para convencer a la niña de unirse a sus respectivos equipos.  

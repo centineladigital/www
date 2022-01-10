@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La influencer fitness y la cantante eligieron disfrazarse de la superheroína de DC Comics para celebrar Halloween, ¿qué look te gustó más?."
 image: "/uploads/2021/images-kimberly-flores-barbara-regil-disfrazan_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Duelo de disfraces! Kimberly Flores y Bárbara de Regil se convierten en 'La Mujer Maravilla'"
 front: false
 section: "Espectáculos"
-news_id: 189455
+redirect_from: /news/189455
 ---
 
 Las celebridades mexicanas no dudaron en festejar Halloween con divertidas fiestas y cumpliendo con una de las tradiciones más populares: disfrazándose de terroríficos espíritus y monstruos o, bien, de icónicos personajes de películas, tal fue el caso de Kimberly Flores y Bárbara de Regil, quienes sorprendieron en redes sociales con sus trajes, pues ambas eligieron convertirse en La Mujer Maravilla durante la Noche de Brujas.  Sin duda, Halloween es una de las celebraciones más conocidas en todo el mundo que reúne a amigos y famosos, por supuesto que Bárbara de Regil no quiso quedarse atrás y se disfrazó de la superheroína, pero no fue la única, pues Kimberly Flores también optó por el mismo atuendo. ¿Quién crees que ganó el duelo de disfraces?.

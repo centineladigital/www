@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, aseguró que el hallazgo de la nueva variante Omicron demuestra por qué el mundo necesita un acuerdo nuevo para las pandemias. "
 image: "/uploads/2021/images-director-organizacion-mundial-salud-oms_0_30_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jefe de la OMS pide acuerdo internacional para prevenir futuras pandemias"
 front: false
 section: "Internacional"
-news_id: 190333
+redirect_from: /news/190333
 ---
 
 El director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, pidió por un acuerdo internacional para ayudar a prevenir y combatir futuras pandemias, mientras la nueva variante ómicron causa preocupación en el mundo, en que manifestó que había muchas incertidumbres sobre qué tan transmisible y severa podría ser la infección de la muy mutada variante ómicron. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Acreditan solamente 9 defunciones en el estado."
 image: "/uploads/2021/images-índice.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ02_GUMARO_BARRIOS.mp3"
 alt: "Sólo registran 133 nuevos casos covid"
 front: false
 section: "Local"
-news_id: 184824
+redirect_from: /news/184824
 ---
 
 En 24 horas solamente se ha detectado vía prueba PCR fueron detectado 133 nuevos casos, mientras que se acreditaron 9 defunciones acreditadas, con lo que se llega a un total de 68 mil 606 personas contagiadas desde el inicio de la pandemia que han sido contabilizadas a través de los diversos canales oficiales.

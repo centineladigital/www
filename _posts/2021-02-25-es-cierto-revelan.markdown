@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esta noticia se dio a conocer, luego de que el medio británico The Daily Mail informara que Emma Watson decidió retirarse de la actuación, pues quiere centrarse en su vida personal junto a su pareja Leo Robinton.  "
 image: "/uploads/2021/images-emma.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Es cierto? Revelan que Emma Watson se retira de la actuación; redes reaccionan"
 front: false
 section: "Espectáculos"
-news_id: 183152
+redirect_from: /news/183152
 ---
 
 ¿Emma Watson se retira de la actuación? Es la pregunta que ha generado controversia y ha posicionado su nombre en tendencia de las redes sociales, luego de que una publicación asegurara que su manager dio a conocer la noticia. Te contamos lo que sabemos sobre esta declaración que ha activado las alarmas entre los fans de la joven que personificó a Hermione de Harry Potter. Esta noticia se dio a conocer, luego de que el medio británico The Daily Mail informara que Emma Watson decidió retirarse de la actuación, pues quiere centrarse en su vida personal junto a su pareja Leo Robinton. 

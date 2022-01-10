@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente dijo que se va a buscar que la empresa de Carlos Slim tenga un compromiso social con México para ampliar la cobertura de internet en el país. "
 image: "/uploads/2021/images-mandatario-telmex-cargo-deberia-administrar_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No soy partidario de retirar concesión a Telmex -  AMLO"
 front: false
 section: "Nacional"
-news_id: 189012
+redirect_from: /news/189012
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que no hay interés y no es partidario de retirarle la concesión de Teléfonos de México (Telmex) a Carlos Slim, sin embargo, dijo que se buscará que haya un compromiso social de esta empresa para mejorar la conectividad a internet en el país. 

@@ -10,11 +10,11 @@ author: nil
 description: "Ciudadanos deben señalar que tan eficiente es el transporte público."
 image: "/uploads/2021/images-mesta.jpg"
 video: "/uploads/2021/videos-MJ03_FERNANDO_MESTA.mp4"
-audio: "nil"
+audio: nil
 alt: "Transportistas solo les interesa la tarifa -  Mesta"
 front: false
 section: "Local"
-news_id: 187163
+redirect_from: /news/187163
 ---
 
 El único interés que tienen los concesionarios del transporte es la tarifa, señaló el Secretario General de Gobierno al ser cuestionado respecto a las declaraciones del líder de este gremio Francisco Salcido quien lo cataloga como un ineficiente.

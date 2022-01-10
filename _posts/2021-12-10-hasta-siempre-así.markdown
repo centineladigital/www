@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Desde la madrugada de este viernes, el cuerpo de Carmen Salinas fue trasladado a funeraria de CdMx para que familia, amigos y compañeros le den el último adiós. "
 image: "/uploads/2021/images-adios-carmen-salinas-noticias-velorio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Hasta siempre! Así dan el último adiós a Carmen Salinas en su funeral; noticias en vivo"
 front: false
 section: "Espectáculos"
-news_id: 190707
+redirect_from: /news/190707
 ---
 
 Carmen Salinas, famosa actriz y ex productora de la obra teatral ‘Aventurera’, murió a los 82 años la noche de ayer. El mundo del espectáculo se ha envuelto en luto profundo por su pérdida. Por ello, para darle el último adiós, la familia anunció el lugar en el que la velarán. Te contamos todo lo que debes saber sobre el último adiós a Carmen Salinas. Desde la madrugada de este viernes, el cuerpo de Carmen Salinas fue trasladado a una funeraria de la Ciudad de México para que su familia, amigos y compañeros le den el último adiós. 

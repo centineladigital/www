@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A continuación te compartimos la lista completa de los artistas que buscarán llevarse un Grammy a casa. "
 image: "/uploads/2021/images-nominados-a-los-premios-grammy_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Premios Grammy 2022 -  Lista completa de nominados"
 front: false
 section: "Espectáculos"
-news_id: 190103
+redirect_from: /news/190103
 ---
 
 Los premios Grammy 2022 están cada vez más cerca de celebrar su fiesta a lo mejor de la música. Aunque faltan un par de meses para la ceremonia, este martes la Academia de la Grabación, de la mano de BTS y Maneskin, reveló la lista completa de los nominados a la 64 edición de la premiación.   A lo largo del último año, hemos sido testigo del debut de artistas con un futuro prometedor, inesperadas colaboraciones, el lanzamiento de nuevos discos e innovadores proyectos artísticos, sin duda, la competencia para llevarse el mayor premio de la música será reñida. Aquí te compartimos a los artistas y grupos que buscarán coronarse en el Grammy 2022.

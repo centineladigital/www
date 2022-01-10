@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Christian Horner está muy satisfecho con lo mostrado por el piloto mexicano"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jefe de Red Bull se deshace en elogios hacia Checo Pérez -  'Absolutamente brillante'"
 front: false
 section: "Deportes"
-news_id: 189139
+redirect_from: /news/189139
 ---
 
 Christian Horner, jefe de Red Bull, volvió a destacar lo hecho por el mexicano Sergio 'Checo' Pérez, ahora en el Gran Premio de los Estados Unidos, luego de volver a repetir subirse al podio por segunda carrera consecutiva. 

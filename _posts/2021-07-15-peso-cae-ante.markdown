@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El peso se depreciaba ante un avance del dólar y tras conocerse que el crecimiento de la economía de China fue menor al esperado durante el segundo trimestre. "
 image: "/uploads/2021/images-tipo-de-cambio-peso-dolar-11.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Peso cae ante avance del dólar y crecimiento de economía de China"
 front: false
 section: "Internacional"
-news_id: 185687
+redirect_from: /news/185687
 ---
 
 Al iniciar operaciones el precio del dólar hoy jueves fue de hasta 20.41 pesos en bancos. En tanto, el tipo de cambio interbancario se ubica en 19.96 pesos por dólar, con una ganancia de 0.47 por ciento.

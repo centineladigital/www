@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "A través del operativo Chihuahua Capital, Cero Impunidad, el que la Hace la Paga"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Reconoce Alcalde trabajo conjunto de Policía Municipal y Estatal por detención de tres asaltantes"
 front: false
 section: "Local"
-news_id: 188603
+redirect_from: /news/188603
 ---
 
 “Con la detención de tres presuntos asaltantes que tomaron como rehenes a clientes de un local comercial, se tienen los primeros resultados del operativo "Chihuahua Capital, Cero Impunidad, el que la Hace la Paga", informó el presidente municipal, Marco Bonilla, quien además felicitó y reconoció la valentía y profesionalismo de los agentes policiales municipales y estatales que participaron en el operativo.

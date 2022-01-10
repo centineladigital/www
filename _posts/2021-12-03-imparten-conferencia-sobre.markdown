@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La charla organizada en el marco del Día Mundial de la Lucha Contra el VIH/SIDA, por el Departamento de Enfermería de la institución, se realizó de manera virtual"
 image: "/uploads/2021/images-Recurso_3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Imparten conferencia sobre VIH/SIDA  en la Universidad Tecnológica de Paquimé"
 front: false
 section: "Local"
-news_id: 190476
+redirect_from: /news/190476
 ---
 
 Con motivo de la conmemoración del Día Mundial de la Lucha contra el VIH/SIDA, la Universidad Tecnológica de Paquimé, a través del Departamento de Enfermería, organizó una charla virtual con el objetivo de brindar información y mejorar la comprensión de este problema de salud pública mundial.

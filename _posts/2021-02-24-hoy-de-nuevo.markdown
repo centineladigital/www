@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ya no hay excusa ni pretexto para audiencia: consejero jurídico"
 image: "/uploads/2021/images-6c66bbdf-7b9a-4937-98df-356e564104c4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hoy, de nuevo ante juez Maru por “nómina secreta”"
 front: false
 section: "Local"
-news_id: 183121
+redirect_from: /news/183121
 ---
 
 Hoy a las 9:00 horas, la alcaldesa con licencia María Eugenia Campos Galván fue citada de nueva cuenta ante el Tribunal Superior de Justicia del Estado, a fin de que se le formulen cargos por presuntamente haber recibido pagos indebidos de parte del exgobernador César Horacio D.J.

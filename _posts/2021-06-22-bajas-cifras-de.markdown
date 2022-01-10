@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "No se detectaron muertes y solamente 16 personas dieron positivo a COVID."
 image: "/uploads/2021/images-arton21343.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM01_WENDY_AVILA.mp3"
 alt: "Bajas cifras de casos COVID"
 front: false
 section: "Local"
-news_id: 185173
+redirect_from: /news/185173
 ---
 
 Sin acreditación de nuevas muertes y la detección de 16 personas que dieron positivo a PCR fueron las cifras de actualización detectadas en 24 horas, con lo que se llega a 70 mil 24 personas que han dado positivos a los análisis de detección del virus COVID, según fue dado a conocer por la Subdirectora de Medicina Preventiva Wendy Ávila Coronado.

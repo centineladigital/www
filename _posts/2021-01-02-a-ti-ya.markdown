@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante mexicana se hizo tendencia con un simple y sencillo mensaje con el que se despidió del 2020. "
 image: "/uploads/2021/images-danna-paola-responde-criticas-comparaciones.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿A ti ya te cayó el 20?; la frase de Año Nuevo de Danna Paola que se volvió tendencia"
 front: false
 section: "Espectáculos"
-news_id: 181814
+redirect_from: /news/181814
 ---
 
 No importa lo que haga, Danna Paola siempre causa furor en redes. Hace unos días aprovechó sus días de descanso luego de un año de arduo trabajo, para hacerse un tatuaje familiar con su mamá y hermana. Ahora, su nombre se convirtió en tendencia gracias a un simple tuit. A pocas horas de que terminara el 2020, la actriz que interpretó a Lucrecia 'Lu' Montesinos en Élite, la serie de Netflix, ha demostrado, una vez más, que su existencia es suficiente para hacerse trending topic. La razón es un corto mensaje con el que terminó el año. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El funcionario estatal aseguró que si el notario público no certificó tales documentos debería rechazarlo contundentemente"
 image: "/uploads/2021/images-mesta.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Difícil creer que notario no recuerda haber certificado los recibos -  Mesta"
 front: false
 section: "Local"
-news_id: 182719
+redirect_from: /news/182719
 ---
 
 El secretario general de Gobierno, Luis Fernando Mesta Soulé, manifestó su extrañeza ante las afirmaciones del notario público número 4 de la ciudad de Chihuahua, Luis Raúl Flores Sáenz, quien dijo no recordar haber certificado los recibos de pagos que forman parte de las investigaciones de la Nómina Secreta del exgobernador, debido a que ese tipo de actos no se olvidan.

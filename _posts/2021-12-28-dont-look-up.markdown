@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Don't Look Up es la nueva película de Netflix y sin duda está causando sensación. Te contamos la razón por la que no te la puedes perder. "
 image: "/uploads/2021/images-la-pelicula-se-estreno-el.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Don't Look Up' -  razones por las que tienes que ver la nueva película de Netflix"
 front: false
 section: "Espectáculos"
-news_id: 191285
+redirect_from: /news/191285
 ---
 
 El 24 de diciembre se estrenó en Netflix Don't Look Up, una película que ha generado gran expectativa, por lo que muchos hablan de ella. Aunque es una comedia, también es una sátira del gobierno de Estados Unidos, y aborda el tema del calentamiento global y algo que hemos visto muchas veces en las películas de Hollywood: la Tierra en peligro por algún enorme meteorito. Si no sabes bien de que va esta película y aún estás indeciso si darle una oportunidad, te contamos algunas de las razones por las que podrías verla este fin de semana junto a tu familia, amigos o pareja. 

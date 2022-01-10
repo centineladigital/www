@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El estadounidense subió un video a sus redes sociales arremedando al pugilista mexicano"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Canelo Álvarez dice estar abierto a pelear con Jake Paul y éste se burla"
 front: false
 section: "Deportes"
-news_id: 188308
+redirect_from: /news/188308
 ---
 
 Saúl 'Canelo' Álvarez dejó abierta la posibilidad de pelear con Jake Paul, un youtuber que se convirtió en boxeador, y éste se burló del mexicano ante la opción. 

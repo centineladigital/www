@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Cada capítulo Geralt de Rivia se enfrenta a un tenebrosas criaturas, desde una kikimora hasta una hirikka. "
 image: "/uploads/2021/images-la-guia-de-los-monstruos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Guía completa de los terroríficos monstruos de 'The Witcher'; te contamos su origen"
 front: false
 section: "Espectáculos"
-news_id: 191009
+redirect_from: /news/191009
 ---
 
 Mientras en el "Continente" se libra una guerra, Geralt de Rivia continúa una batalla contra monstruos y bestias en la segunda temporada de The Witcher, la cual retoma las aventuras de la princesa Ciri, cuyo destino está atado al del mítico brujo interpretado por Henry Cavill. A lo largo de cada capítulo, el cazador se enfrenta a distintas criaturas en una tierra de fantasía donde reina la traición y las ansías por el poder.  Los nuevos episodios desembarcaron en la plataforma de Netflix este 17 de diciembre, justo a tiempo para un maratón antes de Navidad. Tras el estreno de la segunda entrega de la serie, surgieron dudas sobre las bestias con las que pelea Geralt, por ello decidimos compartirte una guía de los monstruos y el origen de éstos.  

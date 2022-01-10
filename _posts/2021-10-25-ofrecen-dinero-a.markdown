@@ -10,11 +10,11 @@ author: nil
 description: "Esto por la cultura que se vive en la zona."
 image: "/uploads/2021/images-ROBERTO.jpg"
 video: "/uploads/2021/videos-ML03_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Ofrecen dinero a policías para soltar a “El Jaguar”"
 front: false
 section: "Local"
-news_id: 189167
+redirect_from: /news/189167
 ---
 
 Pobladores de la zona en la cual fue detenido de Francisco N., alias El Jaguar, perteneciente al Cartel del Pacífico, ofrecieron dinero a los elementos con el fin de evitar la detención de esta persona, según lo dio a conocer el titular de la Fiscalía General de Chihuahua Roberto Fierro Duarte.

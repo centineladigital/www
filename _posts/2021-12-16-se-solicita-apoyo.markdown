@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El paciente de aproximadamente 60 años, es de complexión delgada, mide 1.70 metros y pesa 50 kilogramos; como seña particular presenta un tatuaje en el brazo derecho   "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se solicita apoyo para localizar a familiares de paciente internado en Hospital General de Chihuahua"
 front: false
 section: "Local"
-news_id: 190943
+redirect_from: /news/190943
 ---
 
 La Secretaría de Salud solicita el apoyo de la ciudadanía para localizar a familiares de paciente del sexo masculino, que actualmente se encuentra internado en el Hospital General “Salvador Zubirán Anchondo”, en la ciudad de Chihuahua.

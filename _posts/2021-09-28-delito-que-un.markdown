@@ -14,11 +14,11 @@ author: nil
 description: "La diputada esta a favor del aborto "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_12.26.33.jpeg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-09-28_at_12.32.03.mp4"
-audio: "nil"
+audio: nil
 alt: "Delito que un niño no tenga una vida digna Leticia Ortega"
 front: false
 section: "Local"
-news_id: 188152
+redirect_from: /news/188152
 ---
 
 La diputada Leticia Ortega comentó que personalmente está a favor de la despenalización del aborto  puesto que para ella tener un hijo sin hogar y sin oportunidades si representa un delito, la congresista integrante de la bancada de Morena aseguró que el aborto no es una transgresión a la ley ya que evita que existan niños sin una vida digna.

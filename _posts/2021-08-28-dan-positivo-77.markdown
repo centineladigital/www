@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Acumula estado 75 mil 438 contagios y  7 mil 811 fallecimientos en 17 meses de la pandemia"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dan positivo 77 personas y se confirman 7 decesos en el último reporte epidemiológico COVID-19"
 front: false
 section: "Local"
-news_id: 187229
+redirect_from: /news/187229
 ---
 
 A 17 meses de la pandemia por coronavirus en el estado de Chihuahua van 75 mil 438 contagios acumulados y 7 mil 811 defunciones, de acuerdo al último reporte epidemiológico de la Secretaría de Salud estatal.

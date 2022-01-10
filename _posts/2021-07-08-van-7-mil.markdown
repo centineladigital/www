@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de contagios es de 70 mil 851 al sumarse otros 88 casos; además se han contagiado de coronavirus 6,124 integrantes del Sector Salud y 131 han perdido la vida."
 image: "/uploads/2021/images-Diapositiva3.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Van 7 mil 598 defunciones por COVID-19 tras confirmarse 29 más en el estado."
 front: false
 section: "Local"
-news_id: 185460
+redirect_from: /news/185460
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al día de hoy se tiene un total general de 7 mil 598 defunciones en el estado, luego de confirmarse otros 29 más en Juárez (+21), Chihuahua (+2), Parral (+1), Nuevo Casas Grandes (+2), Jiménez (+1), San Francisco del Oro (+1) y Praxedis G. Guerrero (+1).

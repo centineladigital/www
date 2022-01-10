@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Gran parte del catálogo incluye éxitos como Calfornication, Other Side, Under the Bridge, Give it Away y Scar Tissue. "
 image: "/uploads/2021/images-banda-busca-seguidores-entretengan-confinamiento_0_1_958_595.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Como Bob Dylan y Neil Young! Red Hot Chili Peppers vende su catálogo de canciones"
 front: false
 section: "Espectáculos"
-news_id: 184266
+redirect_from: /news/184266
 ---
 
 Red Hot Chili Peppers, banda creada en 1982, ha vendido su catálogo de canciones, que incluye éxitos como "Under the Bridge" y "Dani California", a la empresa británica Hipgnosis Songs por unos 140 millones de dólares, es decir, casi 3 mil millones de pesos mexicanos. Así lo informaron hoy medios como Variety. El grupo integrado por el cantante Anthony Kiedis, el bajista Flea, el guitarrista John Frusciante y el baterista Chad Smith, es el beneficiario más reciente de este apetito de los inversionistas por adquirir derechos musicales.

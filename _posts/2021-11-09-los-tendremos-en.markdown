@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De antemano, les aclaramos que no estamos peleadas y que seguimos apoyándonos mutuamente, escribieron en un comunicado las hermanas Vicky y Marisol Terrazas."
 image: "/uploads/2021/images-las-cantantes-dieron-a-conocer.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Los tendremos en el corazón siempre -  Los Horóscopos de Durango anuncian su separación"
 front: false
 section: "Espectáculos"
-news_id: 189691
+redirect_from: /news/189691
 ---
 
 Las hermanas Vicky y Marisol Terrazas anunciaron este lunes el final de Los Horóscopos de Durango, banda de música regional fundada por su padre, Armando Terrazas, en 1975. "Queridísimo público, fans de hueso colorado, medios de comunicación, compañeros que han formado parte de Horóscopos de Durango, empresarios, promotores, disqueras, amigos y familia: con el corazón lleno de gratitud y amor, les damos infinitas gracias por todo el cariño, tiempo, talento y por la fe que nos han brindado a través de tantos años. Nuestro capítulo juntas, en esta gran historia de Horóscopos de Durango, llega a su final", escribieron las cantantes en un comunicado. 

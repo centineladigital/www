@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "De acuerdo con cifras del Inegi, la inflación suma ocho meses fuera del rango objetivo del Banxico de 3 por ciento +/-1 punto porcentual. "
 image: "/uploads/2021/images-capital-alcanzo-tasa-inflacion-anual_0_27_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inflación en México acelera a 7.37% en noviembre, su mayor nivel desde 2001"
 front: false
 section: "Nacional"
-news_id: 190658
+redirect_from: /news/190658
 ---
 
 En noviembre, la inflación se aceleró más de lo esperado a su mayor nivel en más de dos décadas, superando nuevamente por mucho el objetivo oficial, lo que refuerza expectativas de que el Banco de México (Banxico) subiría por quinta ocasión consecutiva la tasa de interés referencial la próxima semana. 

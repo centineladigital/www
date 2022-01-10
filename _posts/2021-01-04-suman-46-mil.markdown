@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se mantienen decesos en 4 mil 300 en la entidad; vacuna contra Coronavirus llegará en el transcurso de enero y servirá como una herramienta más para combatir a la pandemia"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suman 46 mil 477 los casos confirmados de COVID-19"
 front: false
 section: "Local"
-news_id: 181848
+redirect_from: /news/181848
 ---
 
 Con 63 casos nuevos registrados en las últimas 24 horas, el estado de Chihuahua llegó a 46 mil 477 contagios confirmados de COVID-19, informó la Secretaría de Salud.

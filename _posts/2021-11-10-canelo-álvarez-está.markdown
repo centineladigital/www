@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Mauricio Sulaimán, presidente del CMB, reconoció en Saúl Álvarez al peleador mexicano más dominante hoy en día "
 image: "/uploads/2021/images-saul-festeja-victoria-caleb-plant_0_41_506_315.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Canelo' Álvarez está en la cima del mundo -  Mauricio Sulaimán"
 front: false
 section: "Deportes"
-news_id: 189742
+redirect_from: /news/189742
 ---
 
 En menos de un año, Saúl Canelo Álvarez obtuvo victorias de mucha importancia, pues ganó los títulos supermedios del Consejo Mundial de Boxeo y el supercampeonato de la Asociación Mundial de Boxeo cuando enfrentó a Callum Smith. 

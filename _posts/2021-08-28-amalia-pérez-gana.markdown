@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La pesista refrendó su corona paralímpica en el levantamiento de potencia de menos 68 kilogramos y es su sexta presea al hilo en sus participaciones de la justa "
 image: "/uploads/2021/images-amalia-perez-gana-medalla-oro_88_74_1091_679.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Amalia Pérez gana el primer oro para México en los Juegos Paralímpicos de Tokio"
 front: false
 section: "Deportes"
-news_id: 187227
+redirect_from: /news/187227
 ---
 
 Cayó la primera medalla de oro tricolor en los Juegos Paralímpicos , pues Amalia Pérez refrendó su título en el levantamiento de potencia al conseguir 131 kilogramos en su tercer intento.

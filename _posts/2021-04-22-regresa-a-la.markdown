@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¿Regresará a las telenovelas? Reaparece Angélica Rivera junto a Gustavo Adolfo Infante, Cynthia Klitbo y Aylin Mujíca; redes la critican. "
 image: "/uploads/2021/images-regresara-novelas-angelica-rivera-reaparece.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Regresa a la TV? Reaparece Angélica Rivera junto a Gustavo Adolfo Infante; redes la critican"
 front: false
 section: "Espectáculos"
-news_id: 184039
+redirect_from: /news/184039
 ---
 
 Angélica Rivera, ex primer dama y actriz de Televisa, volvió a reaparecer tras permanecer alejada de las cámaras por mucho tiempo. Ahora la ex esposa de Enrique Peña Nieto apareció junto a Gustavo Adolfo Infante en Miami, Estados Unidos. El conductor de De Primera Mano detalló cómo fue este encuentro y explicó si es verdad que regresará a las telenovelas. Además, la también conocida 'Gaviota', también pasó tiempo con Cynthia Klitbo y Aylin Mujíca.  A través de su cuenta de Instagram, Gustavo Adolfo Infante compartió la imagen junto a la ex primera dama Angélica Rivera. El conductor comentó que fue agradable verla en Miami; además de que reiteró que sigue luciendo muy guapa. Asimismo, en su programa De Primera Mano, el conductor expresó que Angélica Rivera sí piensa regresar a las telenovelas. 

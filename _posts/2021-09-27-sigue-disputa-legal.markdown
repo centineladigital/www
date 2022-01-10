@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De acuerdo con documentos judiciales, Angelina Jolie y Brad Pitt llegaron a un acuerdo sobre venta de sus bienes y sus empresas. "
 image: "/uploads/2021/images-angelina-brad-pitt-pelean-custodia_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Sigue disputa legal! Angelina Jolie y Brad Pitt llegan a acuerdo sobre venta de sus bienes"
 front: false
 section: "Espectáculos"
-news_id: 188090
+redirect_from: /news/188090
 ---
 
 Brad Pitt y Angelina Jolie continúan en una disputa legal con motivo de su divorcio, la custodia de sus hijos y otros asuntos relacionados con negocios... entre ellos, se encuentran sus activos, sobre los cuales llegaron a un acuerdo sobre la venta de todas las posesiones que tuvieron durante su matrimonio. 

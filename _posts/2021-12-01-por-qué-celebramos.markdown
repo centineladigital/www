@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La lucha contra el VIH Sida representa un esfuerzo mundial en conjunto a lo largo de las últimas décadas. "
 image: "/uploads/2021/images-diciembre-celebra-mundial-lucha-sida_0_19_500_312.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Por qué celebramos el 'Día Mundial de la lucha contra el Sida' cada 1 de diciembre?"
 front: false
 section: "Internacional"
-news_id: 190376
+redirect_from: /news/190376
 ---
 
 El Día Mundial de la lucha contra el Sida se celebra el 1 de diciembre de cada año. Es una oportunidad para reconocer la labor de quienes están involucrados en la prevención, detección y tratamiento de la enfermedad, y para que las personas en todo el mundo creen conciencia y rompan estigmas sobre el VIH/Sida. 

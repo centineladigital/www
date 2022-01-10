@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Estados Unidos es el país con mayor saldo mortal, con más de 637 mil fallecidos; seguido por Brasil, con 579 mil; e India con 438 mil muertos, de acuerdo a los datos de la Universidad Johns Hopkins"
 image: "/uploads/2021/images-coronavirus-en-el-mundo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Muertes por Covid-19 en el mundo alcanzan las 4.5 millones"
 front: false
 section: "Internacional"
-news_id: 187241
+redirect_from: /news/187241
 ---
 
 La cifra global de muertos por el Covid-19 superó este lunes los 4.5 millones, con Estados Unidos y Brasil como los países más golpeados, según el recuento independiente de la Universidad Johns Hopkins. 

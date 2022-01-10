@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "También se realizó el arranque de pavimentación de la calle Tercera y se rehabilitó la cancha de fútbol rápido El Sauz."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza Alcaldesa entrega de Becas Académicas en seccional El Sauz"
 front: false
 section: "Local"
-news_id: 185588
+redirect_from: /news/185588
 ---
 
 La alcaldesa María Angélica Granados Trespalacios, visitó el seccional El Sauz, donde encabezó la entrega del Programa de Becas Académicas 2021 en las instalaciones del Gimnasio José Pistolas Meneses, así como el arranque de pavimentación de la calle Tercera y la inauguración de la cancha de fútbol rápido que fue rehabilitada.

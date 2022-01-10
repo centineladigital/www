@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aprovechó para desear un feliz año a las y los trabajadores municipales."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Visita Alcaldesa a personal de la Dirección de Planeación y Evaluación"
 front: false
 section: "Local"
-news_id: 181957
+redirect_from: /news/181957
 ---
 
 La presidenta municipal María Angélica Granados Trespalacios recorrió este jueves por la tarde las instalaciones y saludó al personal de la Dirección de Planeación y Evaluación.

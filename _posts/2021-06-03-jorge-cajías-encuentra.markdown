@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantautor venezolano, quien debuta con el tema “Qué dulce”, comparte que Jorge Drexler ha sido su principal inspiración, aunque la música de Pink Floyd, Los Beatles y Billie Eilish han enriquecido su pasión por la música."
 image: "/uploads/2021/images-cantautor-venezolano-aventura-mundo-musica.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jorge Cajías encuentra en el español un potencial para compartir su sensibilidad"
 front: false
 section: "Espectáculos"
-news_id: 184815
+redirect_from: /news/184815
 ---
 
 Con varios años escribiendo y cantando inglés, Jorge Cajías ha decidido probar suerte en el español, pues asegura que es el medio perfecto para encontrar la conexión con la gente. “Durante toda mi vida musical siempre había tenido la preferencia por el inglés, de hecho he escrito unas 300 canciones en ese idioma, pero me di cuenta que el lenguaje en español es perfecto para manifestar mi sentir. Cuando Paulina Parga escribió “Que dulce”, el tema con el que se puede decir que estoy iniciando en mi faceta en español, la vi como escribía, me enseño cómo lo hacía y me di cuenta del potencial que tenía ese lenguaje”, destaca el cantautor, quien radica en Miami, pero estudió en Boston y vivió en Nueva York.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El gobierno ruso informó que enviará un grupo de once aeronaves para combatir los incendios forestales en Turquía"
 image: "/uploads/2021/images-incendios-forestales-afectan-zonas-sur.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Putin ofrece ayuda a Turquía para sofocar incendios forestales; van seis muertos"
 front: false
 section: "Internacional"
-news_id: 186153
+redirect_from: /news/186153
 ---
 
 El presidente de Rusia, Vladímir Putin, ofreció ayuda a su homólogo turco, Recep Tayyip Erdogan, para sofocar los incendios forestales que afectan la zonas sur y oeste de Turquía desde el jueves y que hasta el momento han dejado un saldo de al menos seis muertos. En un comunicado, el Kremlin informó que Putin tuvo una conversación telefónica con Erdogan, en la cual el presidente ruso aseguró que gobierno prestará "amplía ayuda a Turquía para apagar los incendios". 

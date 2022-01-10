@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de Instagram, Arath de la Torre dio la cara para afrontar las críticas que recibió tras opinar sobre el caso de Nath Campos en el programa Hoy; sin embargo, lo vuelven a criticar por mostrarse molesto y pedir que se denuncia con tiempo. "
 image: "/uploads/2021/images-critican-arath-torre-disculparse-opinion.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hay que denunciar -  Arath de la Torre se disculpa tras polémica en 'Hoy'; lo critican de nuevo"
 front: false
 section: "Espectáculos"
-news_id: 182444
+redirect_from: /news/182444
 ---
 
 Luego de que el programa Hoy  recibiera severas críticas por lanzar comentarios desafortunados sobre el caso de abuso que vivió la youtuber Nath Campos, Andrea Legarreta pidió disculpas y reconoció su error. Sin embargo, Arath de la Torre no se quedó atrás. El comediante también quiso pedir perdón, aunque no le fue del todo bien, pues primero dijo que lo estaban “descontextualizando” y después expresó que lo que pedía era que las víctimas “no se esperen” para denunciar. Esto último generó más controversia en su contra, pues internautas le hicieron saber que cuando alguien es víctima de violencia lleva un proceso hablarlo, denunciarlo y externarlo. Te contamos lo que dijo el ahora conductor de Hoy. 

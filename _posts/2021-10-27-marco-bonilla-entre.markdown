@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "De acuerdo a la encuesta realizada por Arias Consultores"
 image: "/uploads/2021/images-unnamed_(17).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Marco Bonilla entre los 10 mejores alcaldes de México en credibilidad y desempeño"
 front: false
 section: "Local"
-news_id: 189287
+redirect_from: /news/189287
 ---
 
 El alcalde de Chihuahua, Marco Bonilla Mendoza, se posicionó entre los 10 mejores Alcaldes de México de acuerdo a la encuesta realizada por Arias Consultores, que se aplicó a 14,472 mexicanos y fue realizada a través de redes sociales.

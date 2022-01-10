@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La coordinadora de Salud Pública, doctora Brenda Ramírez Vega, especialista en epidemiología, manifestó que es necesario reforzar las medidas de prevención."
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-30_at_16.00.51.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recomienda IMSS Chihuahua no compartir artículos personales en clases para evitar COVID-19"
 front: false
 section: "Local"
-news_id: 188253
+redirect_from: /news/188253
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua exhortó a la población seguir cuidándose contra el COVID-19, por lo que recomendó a los estudiantes que acuden a clases presenciales a no compartir artículos tanto escolares como personales.

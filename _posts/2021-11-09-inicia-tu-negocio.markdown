@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Emprendedores de la ciudad de Chihuahua podrán recibir asesoría del Gobierno Municipal"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia tu negocio con apoyos de la Estación Emprende"
 front: false
 section: "Local"
-news_id: 189726
+redirect_from: /news/189726
 ---
 
 El Gobierno Municipal por medio de la Dirección de Desarrollo Económico y Turístico, invita a los emprendedores a acercarse al Centro de Negocios de “Estación Emprende” para conocer y atender las inquietudes relacionadas con la apertura de un negocio. Con el fin de seguir trabajando de manera coordinada con la iniciativa Estación Emprende para tener un acercamiento con las y los ciudadanos que deseen abrir un negocio, o desarrollar su potencial.

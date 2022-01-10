@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Comisión Federal de Competencia Económica impuso una multa millonaria a los clubes"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "COFECE sanciona a 17 clubes por el pacto de caballeros e imponer tope salarial a la Femenil"
 front: false
 section: "Deportes"
-news_id: 187985
+redirect_from: /news/187985
 ---
 
 La Comisión Federal de Competencia Económica ha sancionado a 17 clubes del Futbol Mexicano, Liga MX y Expansión, a pagar una multa de 177.6 millones de pesos, por prácticas monopólicas, el famoso Pacto de Caballeros y por poner tope salarial a las jugadoras que participan en la Liga Femenil.

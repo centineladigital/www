@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que hay colaboración entre Estado y Federación."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MV05_MARU_CAMPOS.mp4"
-audio: "nil"
+audio: nil
 alt: "Acuerdos sobre presa La Boquilla se mantienen -  Gobernadora"
 front: false
 section: "Local"
-news_id: 190011
+redirect_from: /news/190011
 ---
 
 “El acuerdo se mantiene y se va a honrar” fueron las palabras de la Gobernadora, María Eugenia Campos Galván, esto al ser cuestionada respecto a la no liberación de Andrés Valles. Situación que dice depende del poder Judicial.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Federación es quien tiene cifras exactas."
 image: "/uploads/2021/images-GUMARO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW02_GUMARO_BARRIOS.mp3"
 alt: "Desconoce estado vacunación de particulares de la salud"
 front: false
 section: "Local"
-news_id: 183747
+redirect_from: /news/183747
 ---
 
 No se tiene un número de trabajadores del sector salud en su modalidad particular que estén vacunados, afirmó el titular de la Subdirección de Epidemiología Gumaro Barrios Gallegos. Esto al ser cuestionado respecto a si ya se concluyó con la vacunación de personal que ha atendido enfermos de coronavirus.

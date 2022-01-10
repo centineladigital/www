@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La Selección Mexicana tendrá a un refuerzo que juega para Rosario Central de la Liga de Argentina"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Selección Mexicana convocará a otro futbolista argentino"
 front: false
 section: "Deportes"
-news_id: 188016
+redirect_from: /news/188016
 ---
 
 Hay quienes lloran porque Ricardo Pepi decidió jugar por Estados Unidos y no por México a nivel selección. Pero en el Rosario Central de Argentina está Luca Martínez Dupuy, hijo de argentinos que nació en San Luis Potosí hace 20 años y quien en el torneo de esa nación sudamericana lleva cinco goles y dos asistencias. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Estados Unidos es el país donde viven más menores en movilidad; señalan crisis humanitaria"
 image: "/uploads/2021/images-2564683.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Oleada migratoria golpea a niñez global; huyen de violencia y catástrofes"
 front: false
 section: "Internacional"
-news_id: 183953
+redirect_from: /news/183953
 ---
 
 Cada vez más menores de edad dejan sus países de origen en el mundo, orillados por la violencia, las tragedias naturales y los conflictos armados, coincidieron expertos.

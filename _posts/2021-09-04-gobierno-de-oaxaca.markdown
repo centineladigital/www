@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Alejandro Murat informó que también se cancelará la ceremonia del Desfile Militar el 16 de septiembre, además de que se llamó a valer la ley seca, para evitar aglomeraciones que causen la propagación del coronavirus"
 image: "/uploads/2021/images-espectaculo-juegos-pirotecnicos-grito-independencia_0_18_800_498.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobierno de Oaxaca ordena cancelar festejos de Independencia por alza de covid-19"
 front: false
 section: "Nacional"
-news_id: 187436
+redirect_from: /news/187436
 ---
 
 En Oaxaca, se firmó por parte del gobierno estatal un excitativa para ordenar a los 570 municipios de la entidad se suspenden los festejos con motivo del Grito de Independencia este 15 de septiembre y la ceremonia del desfile cívico militar el 16 de septiembre, además de que se llamó a valer la ley seca, para evitar aglomeraciones que causen la propagación de casos de contagio de covid-19. 

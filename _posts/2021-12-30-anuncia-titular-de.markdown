@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "A fin de actualizar el padrón vehicular en la entidad "
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia titular de Hacienda replaqueo en febrero, marzo y abril de 2022"
 front: false
 section: "Local"
-news_id: 191354
+redirect_from: /news/191354
 ---
 
 El titular de la Secretaría de Hacienda del Gobierno del Estado, José de Jesús Granillo Vázquez, informó que en 2022 además de la revalidación vehicular, habrá renovación de placas, toda vez que el más reciente replaqueo se efectuó en 2012, por lo cual no se puede saber si las placas coinciden o no con el actual padrón vehicular.

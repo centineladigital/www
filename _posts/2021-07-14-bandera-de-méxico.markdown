@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Bandera de México ya apareció en la Villa Olímpica de los Juegos Olímpicos de Tokio 2020."
 image: "/uploads/2021/images-Sin_título.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Bandera de México ya luce en la Villa Olímpica de Tokio"
 front: false
 section: "Deportes"
-news_id: 185665
+redirect_from: /news/185665
 ---
 
 Como ya es una tradición, personal de avanzada de la Delegación Mexicana, integrada por miembros de la Dirección de Administración del Comité Olímpico Mexicano (COM) y dirigida por Juan Everardo Guerrero García, visten las áreas y acondicionan con todo lo necesario (cuartos, oficinas, áreas de descanso, Servicio Médico interno, entre otras) que los atletas utilizarán durante su estancia, con motivo de su participación en la máxima justa deportiva.

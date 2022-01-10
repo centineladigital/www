@@ -24,11 +24,11 @@ author: nil
 description: "Las categorías para participar son, Aurora Reyes (disciplinas artísticas), Guadalupe Sánchez de Araiza (obras asistenciales y trabajo comunitario entre otros "
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-17_at_10.08.01_AM.jpeg"
 video: "/uploads/2021/videos-BV02_IVON_SALAZAR_.mp4"
-audio: "nil"
+audio: nil
 alt: "Convocan a mujeres a participar en chihuahuense destacada "
 front: false
 section: "Local"
-news_id: 190986
+redirect_from: /news/190986
 ---
 
 Para reconocer a las mujeres en su trabajo y contribución en la sociedad chihuahuense, la Comisión de Igualdad del Congreso del Estado de Chihuahua presidida por la diputada Ivon Salazar Morales, llevó a cabo la convocatoria chihuahuense destacada, la cual premiará con un reconocimiento a mujeres que hayan destacado en varias jerarquías.

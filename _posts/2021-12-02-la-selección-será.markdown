@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Mikel Arriola, presidente del organismo, enfatiza que el calendario del Apertura 2022 le permitirá al Tricolor llegar con tiempo de preparación a Catar "
 image: "/uploads/2021/images-jugadores-de-la-seleccion-mexicana-6_15_0_657_409.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La Selección será la prioridad de la Liga"
 front: false
 section: "Deportes"
-news_id: 190416
+redirect_from: /news/190416
 ---
 
 En 2022, la Selección Mexicana tendrá apoyo total, sobre todo en el segundo semestre de ese año. Por tal motivo se harán ajustes al calendario del Apertura para que el Tricolor pueda tener a los jugadores con tiempo de cara al inicio del Mundial de Catar, programado para el 21 de noviembre. 

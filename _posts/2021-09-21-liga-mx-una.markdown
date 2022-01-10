@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de entrenadores mexicanos sigue a la baja; dos de ellos ya perdieron su trabajo en el actual torneo, mientras los foráneos gozan de la paciencia de su directiva "
 image: "/uploads/2021/images-liga-mx-insostenible-tecnicos-nacionales.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Liga MX, una pesadilla para los técnicos mexicanos y el paraíso para los extranjeros"
 front: false
 section: "Deportes"
-news_id: 187908
+redirect_from: /news/187908
 ---
 
 La salida de Víctor Manuel Vucetich de la dirección técnica de Chivas, después de una victoria y pese a que el Rebaño Sagrado está en zona de calificación y a dos puntos de la zona directa de Liguilla, confirma que a los entrenadores mexicanos se les tiene poca paciencia. 

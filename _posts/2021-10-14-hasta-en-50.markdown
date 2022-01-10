@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Desde la infancia pueden detectarse errores de refracción que tratados adecuadamente evitan retraso del desarrollo visual, afirmó el especialista José Manuel Pantoja Lemus."
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-14_at_3.25.33_PM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hasta en 50 por ciento pueden reducirse casos de deterioro de la visión si hay cuidados preventivos -  ISSSTE"
 front: false
 section: "Local"
-news_id: 188751
+redirect_from: /news/188751
 ---
 
 El hábito de acudir a revisiones oftalmológicas periódicas y la responsabilidad en el autocuidado de la salud integral, pueden evitar hasta en 50 por ciento los casos de deterior de la visión cercana o distante, señaló José Manuel Pantoja Lemus, oftalmólogo del Hospital General Toluca del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE).

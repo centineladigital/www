@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La caída de aguanieve y nieve será en las partes altas de la Sierra Tarahumara, advierte Protección Civil"
 image: "/uploads/2021/images-lluvia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se prevén lluvias, aguanieve, nieve y temperaturas por debajo de 9°C  miércoles y jueves"
 front: false
 section: "Local"
-news_id: 184164
+redirect_from: /news/184164
 ---
 
 Para este miércoles 28 y jueves 29 de abril se pronostican lluvias en la entidad, que pudieran estar acompañadas de caída de aguanieve y nieve en las partes altas de la Sierra Tarahumara, informó la Coordinación Estatal de Protección Civil.

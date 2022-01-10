@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se trata de una enfermedad poco común que ha registrado 47 casos en los últimos 15 años y gran parte de los afectados requieren ser hospitalizados. "
 image: "/uploads/2021/images-bacteria-transmitida-ratas-ocasiona-insuficiencia_0_26_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Nueva York, reportan brote de enfermedad transmitida por la orina de rata"
 front: false
 section: "Internacional"
-news_id: 188896
+redirect_from: /news/188896
 ---
 
 Nueva York enfrenta el brote de una enfermedad causada por una bacteria que se encuentra en la orina de las ratas y que, hasta el momento, ya ha causado 15 casos y una muerte en esa ciudad de Estados Unidos.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Destaca director del organismo José Jordán, que además del Plan Emergente por la pandemia, se impulsaron esquemas como Fideinnova, Fide Emprende, Fide Chihuahua, el Financiamiento para el Desarrollo de la Heroica Ciudad Juárez y el programa Apoyo a Mujeres"
 image: "/uploads/2021/images-Diapositiva22.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Otorga Fideapech 784 mdp en créditos  a Micro, Pequeñas y Medianas empresas"
 front: false
 section: "Local"
-news_id: 183634
+redirect_from: /news/183634
 ---
 
 El director del Fideicomiso Estatal para el Fomento de las Actividades Productivas en el Estado de Chihuahua (Fideapech), José Jordán Orozco, dio a conocer que en 4 años y medio se brindaron créditos por más de 784 millones de pesos a 3 mil 360 Micro, Pequeñas y Medianas Empresas (MiPyMEs).

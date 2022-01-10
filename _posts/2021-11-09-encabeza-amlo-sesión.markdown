@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El titular del Ejecutivo federal planteará un debate centrado en la atención sistemática a la pobreza, la exclusión y la desigualdad "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza AMLO sesión del Consejo de Seguridad de la ONU"
 front: false
 section: "Nacional"
-news_id: 189682
+redirect_from: /news/189682
 ---
 
 El presidente de México, Andrés Manuel López Obrador, encabeza la sesión del Consejo de Seguridad de Nacionales Unidas en su calidad de presidente del organismo internacional para el mes de noviembre.

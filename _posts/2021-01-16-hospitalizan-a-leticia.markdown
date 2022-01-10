@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz confirmó que se encuentra hospitalizada por complicaciones del covid-19. "
 image: "/uploads/2021/images-actriz_leticia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hospitalizan a Leticia Calderón tras complicaciones de covid-19"
 front: false
 section: "Espectáculos"
-news_id: 182205
+redirect_from: /news/182205
 ---
 
 Hace unos días Leticia Calderón informó a través de un corto mensaje que en los primeros días del 2021 se había contagiado de covid-19, a pesar de que había seguido las medidas sanitarias correspondientes. Ahora, la actriz confirmó que fue necesario hospitalizarla debido a algunas complicaciones por el coronavirus. 

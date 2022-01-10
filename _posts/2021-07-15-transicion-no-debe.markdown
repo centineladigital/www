@@ -10,11 +10,11 @@ author: nil
 description: "Se dará de forma positiva en el área de seguridad, afirma Emilio García."
 image: "/uploads/2021/images-GARCIA.jpg"
 video: "/uploads/2021/videos-MJ06_EMILIO_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Transicion no debe de politizarse en materia de seguridad"
 front: false
 section: "Local"
-news_id: 185711
+redirect_from: /news/185711
 ---
 
 “Los temas de seguridad no deben interrumpirse por ninguna circunstancia” fueron las palabras del titular de la Secretaría de Pública en el Estado, Emilio García Ruiz, esto al señalar que el proceso de entrega-recepción se debe de llevar de forma pacifica en esta área.

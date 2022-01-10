@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En Morena se trabaja por los más desprotegidos y por abatir la corrupción con políticas públicas"
 image: "/uploads/2021/images-dfdfefre.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AJ01_MONICA_BURRUEL.mp3"
 alt: "Renuncia Mónica Borruel al PAN, se suma a Morena"
 front: false
 section: "Local"
-news_id: 182139
+redirect_from: /news/182139
 ---
 
 La regidora Mónica Borruel Macías anunció su renuncia al PAN para entrar en las filas de Morena. El dirigente estatal de Morena, Martín Chaparro, y los regidores Sebastián Torres Aguayo y Rubén Castañeda Morena dieron la bienvenida a la regidora.

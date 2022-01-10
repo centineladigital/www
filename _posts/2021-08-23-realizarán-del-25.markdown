@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "El proceso de registro se efectuará para estudiantes de nuevo ingreso y de reingreso en los municipios de Chihuahua, Parral, Delicias y Meoqui"
 image: "/uploads/2021/images-Cartel_inscripciones.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizarán del 25 al 27 de agosto inscripciones en el Centro de Estudios Musicales"
 front: false
 section: "Local"
-news_id: 187024
+redirect_from: /news/187024
 ---
 
 El Centro de Estudios Musicales (CEM) llevará a cabo el proceso de inscripciones correspondiente al ciclo escolar 2021-2022 para alumnas y alumnos de nuevo ingreso, así como para aquellos de reingreso, en las regiones Centro, Centro-Sur y Sur.

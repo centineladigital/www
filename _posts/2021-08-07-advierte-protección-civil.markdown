@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En Chihuahua serán de aisladas a dispersas este día y mañana domingo 8, informa la CEPC; se prevé un clima muy caluroso por las tardes con 38°C para Ojinaga"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte Protección Civil sobre lluvias muy fuertes en Urique, Batopilas, Morelos y Guachochi este sábado"
 front: false
 section: "Local"
-news_id: 186438
+redirect_from: /news/186438
 ---
 
 Para este sábado 7 de agosto se esperan lluvias muy fuertes en el suroeste del estado, sobre todo en los municipios de Urique, Batopilas, Morelos y Guachochi, mientras que en Chihuahua se prevé sean de aisladas a dispersas, informó la Coordinación Estatal de Protección Civil (CEPC).

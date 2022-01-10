@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Con el fin de prevenir incidentes que pongan en riesgo la salud"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Cuídate! Conoce las recomendaciones de la Policía Municipal para visitar el templo San Judas"
 front: false
 section: "Local"
-news_id: 189125
+redirect_from: /news/189125
 ---
 
 El Gobierno Municipal a través de la Dirección de Seguridad Pública, exhorta a la población a atender las recomendaciones básicas, pero de gran utilidad, para quienes acuden a visitar el templo de San Judas Tadeo, ubicado en la carretera a Delicias, con el fin de prevenir incidentes que pongan en riesgo la salud o integridad personal.

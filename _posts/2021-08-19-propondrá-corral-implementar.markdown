@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-MJ06_JAVIER_CORRAL.mp4"
 alt: "Propondrá Corral implementar elecciones primarias a AMLO"
 front: false
 section: "Local"
-news_id: 186903
+redirect_from: /news/186903
 ---
 
 El que se implementen elecciones primarias abiertas simultáneas y obligatorias, así como el que no se retiren los diputados plurinominales es lo que el Gobernador de Chihuahua, Javier Corral Jurado, propondrá al Andrés Manuel López Obrador.

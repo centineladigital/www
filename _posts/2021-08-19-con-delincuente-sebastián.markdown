@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la canción, Yatra y el puertorriqueño Cortez les dicen a sus respectivas chicas, con la que tienen una relación ardiente, que llevan preservativos."
 image: "/uploads/2021/images-sebastian-yatra-izquierda-llega-entrega.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con 'Delincuente', Sebastián Yatra entra de lleno al reggaetón con ayuda de Jhay Cortez"
 front: false
 section: "Espectáculos"
-news_id: 186872
+redirect_from: /news/186872
 ---
 
 Delicuente fue la canción con la que Sebastián Yatra por fin se animó a hacer reggaetón en compañía de Jhay Cortez, con un tema en el que habla de sexo seguro con una chica que se desata en la cama. "Es lo más reggaetón que he hecho, como reggaetón puro", dijo el cantautor colombiano de pop en una entrevista reciente por videollamada desde Miami. "Hace rato vengo escuchando a Jhay y me encanta, cada vez más siento que como compositor es un chico superdotado... No tuvimos que pensarlo mucho, todo hizo sentido". 

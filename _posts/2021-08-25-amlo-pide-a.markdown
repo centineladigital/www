@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente indicó que Ricardo Anaya haga lo que considere más conveniente y que asuma su responsabilidad"
 image: "/uploads/2021/images-conferencia-presidente-campo-militar-a.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO pide a Ricardo Anaya que asuma responsabilidad; “es chueco e hipócrita”, dice"
 front: false
 section: "Nacional"
-news_id: 187080
+redirect_from: /news/187080
 ---
 
 El presidente Andrés Manuel López Obrador pidió a Ricardo Anaya que asuma su responsabilidad ante los señalamientos del ex director de Pemex, Emilio Lozoya, quien afirmó haber sobornado al entonces diputado del PAN con 6 millones 800 mil pesos para votar a favor de la reforma energética impulsada en el sexenio de Enrique Peña Nieto. 

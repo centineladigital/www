@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el fin de concientizar sobre la prevención del cáncer de mama"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ofrecen Clínicas Municipales mamografías a bajo costo durante octubre"
 front: false
 section: "Local"
-news_id: 188484
+redirect_from: /news/188484
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación y el Instituto Municipal de las Mujeres, en conjunto con la Fundación Adelaida Lafón, ofrecen mamografías a bajo costo a las mujeres mayores de 40 años durante octubre que es el mes de la Sensibilización sobre el Cáncer de Mama.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Destaca que durante su quinquenio se invirtió un 43 por ciento más de recursos en infraestructura educativa de todos los niveles, en comparación con los 6 años del gobierno anterior"
 image: "/uploads/2021/images-_DSC4219.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura Javier Corral nuevos edificios en la Universidad Politécnica de Chihuahua   "
 front: false
 section: "Local"
-news_id: 187527
+redirect_from: /news/187527
 ---
 
 El gobernador Javier Corral inauguró en la Universidad Politécnica de Chihuahua, los edificios del nuevo Centro de Información y Documentación, así como el de Docencia, en los cuales se hizo una inversión total de 54.4 millones de pesos (mdp).

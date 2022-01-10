@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Invita la Profeco a los consumidores a ser responsables en cuanto a sus gastos para evitar problemas desde inicio de año"
 image: "/uploads/2021/images-Dinero_billetera_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Más del 60% de la población arranca el año sin dinero"
 front: false
 section: "Local"
-news_id: 182717
+redirect_from: /news/182717
 ---
 
 De acuerdo con una encuesta de Brad Engagement, el 62% de las familias comienza el año sin recursos; asimismo, según la Encuesta Nacional de Inclusión Financiera (ENIF), solo una cuarta parte de la población tiene la posibilidad de afrontar con sus ahorros una urgencia económica equiparable al sueldo que percibe en un mes.

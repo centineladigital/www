@@ -10,11 +10,11 @@ author: nil
 description: "Solamente fueron civiles los que perdieron la vida."
 image: "/uploads/2021/images-FIERRO.jpg"
 video: "/uploads/2021/videos-ML02_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Confirman 5 muertes en enfrentamiento en Chínipas"
 front: false
 section: "Local"
-news_id: 188104
+redirect_from: /news/188104
 ---
 
 El titular de la Fiscalía General de Chihuahua confirmó este lunes la muerte de cinco personas que murieron en un enfrenamiento en el municipio de Chínipas, donde también perdió la vida un menor de 14 años. Siendo en solamente civiles los que perdieron la vida.

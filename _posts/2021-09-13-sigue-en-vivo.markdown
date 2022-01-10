@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Continúa como tormenta tropical y está muy cercano a la costa norte de Tamaulipas"
 image: "/uploads/2021/images-nicholas-trayectoria-en-vivo_optimized.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sigue en vivo la trayectoria de Nicholas"
 front: false
 section: "Local"
-news_id: 187661
+redirect_from: /news/187661
 ---
 
 La madrugada de hoy, "Nicholas" se mantiene como tormenta tropical y está muy cercano a la costa norte de Tamaulipas. Con vientos máximos sostenidos de 95 kilómetros por hora (km/h), rachas de 110 km/h y desplazamiento hacia el nornoroeste a 22 km/h, su centro se localizó a la 04:00 horas, tiempo del centro de México, aproximadamente a 75 kilómetros (km) al sureste de la desembocadura de Río Grande, frontera entre México y Estados Unidos de América, y a 90 km al este-noreste de Barra El Mezquital, Tamaulipas.

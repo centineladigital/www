@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Desde una cuenta de TikTok que rescata los momentos sublimes de la televisión, se revivió la vez que Xavier López Chabelo rompió una cámara de televisión en el foro de ‘En familia con Chabelo’."
 image: "/uploads/2021/images-xavier-lopez-chabelo-cuartoscuro-1_135_0_948_590.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El día que Chabelo rompió una cámara de TV; así fue el incómodo momento -  señor Azcárraga lo hice sin querer"
 front: false
 section: "Espectáculos"
-news_id: 191031
+redirect_from: /news/191031
 ---
 
 Fue en 2015, cuando el programa televisivo ‘En familia con Chabelo’ llegó a su fin. Por ello, en redes sociales, los usuarios revivieron uno de los episodios más inesperados de la emisión que por años acompañó a niños, niñas y adultos que crecieron con la producción. ¿De cuál hablamos? Nos referimos a la ocasión en la que Chabelo rompió por accidente una cámara con un balón de futbol. Desde una cuenta de TikTok que rescata los momentos sublimes de la televisión, se revivió la vez que Xavier López Chabelo rompió una cámara de televisión en el foro de ‘En familia con Chabelo’. 

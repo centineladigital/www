@@ -18,11 +18,11 @@ author: nil
 description: "El Presidente de la Republica está haciendo una gran labor con proyectos para Ciudad Juárez"
 image: "/uploads/2021/images-202002-RSC-uRiKADiaB1-portada.jpeg"
 video: "/uploads/2021/videos-BJ05_JUAN_LOERA_Y_CRUZ_PEREZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Cartas de asignación de recursos para escuelas en Juárez "
 front: false
 section: "Local"
-news_id: 191170
+redirect_from: /news/191170
 ---
 
 Juan Carlos Loera De la Rosa hizo entrega de cartas de asignación de recursos para el programa "La escuela es nuestra" un programa del Gobierno Federal que tiene como fin la entrega de recursos sin intermediaros para el mejoramiento de las escuelas del país.

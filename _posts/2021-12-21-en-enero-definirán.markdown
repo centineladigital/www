@@ -10,11 +10,11 @@ author: nil
 description: "Rentadas 332 unidades de las 900 con las que cuenta la dependencia."
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-MM05_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "En enero definirán si continúan rentando patrullas -  SSPE"
 front: false
 section: "Local"
-news_id: 191087
+redirect_from: /news/191087
 ---
 
 Será hasta a principios de año cuando la Secretaría de Seguridad Pública Estatal defina si continúa con la renta de unidades para patrullaje, señaló el titular de la dependencia Gilberto Loya Chávez.

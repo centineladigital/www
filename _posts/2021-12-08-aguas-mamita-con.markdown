@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista con ‘Suelta la Sopa’, Niurka volvió a arremeter en contra de la periodista Anabel Hernández por su libro ‘Emma y las otras señoras del narco’. "
 image: "/uploads/2021/images-niurka-asegura-contacto-narco-advierte.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aguas, mamita con lo que escribiste -  Niurka confiesa que tuvo contacto con narco; dice no tiene miedo de la DEA"
 front: false
 section: "Espectáculos"
-news_id: 190628
+redirect_from: /news/190628
 ---
 
 Niurka, polémica vedette, fue criticada en redes sociales por insultar a la periodista Anabel Hernández tras publicar el libro ‘Emma y las otras señoras del narco’, en donde se involucra a varios famosos como Galilea Montijo, Ninel Conde, Sergio Mayer –entre otros– por su presente relación con el narcotráfico. Sin embargo, no conforme a su ‘metida de pata’, la cubana recién confesó que ella tuvo contacto con un narcotraficante y que no por ello tiene miedo de la DEA. ¿Cree que pueda aparecer en la próxima investigación de la periodista Anabel Hernández? En entrevista con ‘Suelta la Sopa’, Niurka volvió a arremeter en contra de la periodista Anabel Hernández por su libro ‘Emma y las otras señoras del narco’. 

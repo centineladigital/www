@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se construiría en la colonia Anapra en Ciudad Juárez."
 image: "/uploads/2021/images-MARU.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_MARU_CAMPOS.mp3"
 alt: "Busca PAN creación de más escuelas nivel medio superior"
 front: false
 section: "Local"
-news_id: 184178
+redirect_from: /news/184178
 ---
 
 Un nuevo plantel del Colegio de Bachilleres de Chihuahua será construido en la zona de Anapra, según fue dado a conocer por la candidata a gobernadora por la coalición Nos Une Chihuahua, María Eugenia Campos Galván.

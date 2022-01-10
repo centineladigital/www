@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este año el Gobierno Municipal beneficia a 1,119 deportistas con una beca, para lo cual se efectuó una inversión de 9 millones 386 mil 100 pesos que servirán de apoyo a los beneficiarios para seguir con sus prácticas deportivas."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alcaldesa encabeza ceremonia de entrega simbólica de Becas Deportivas 2021"
 front: false
 section: "Local"
-news_id: 183583
+redirect_from: /news/183583
 ---
 
 En un evento realizado en el centro deportivo Tricentenario, al norte de la ciudad, la alcaldesa María Angélica Granados Trespalacios llevó a cabo la entrega simbólica del Programa de Becas al Fomento Deportivo 2021, con representantes de cada una de las categorías.

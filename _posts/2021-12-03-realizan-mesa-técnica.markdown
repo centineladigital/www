@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se tendrán reuniones periódicamente para atender y analizar propuestas para este proyecto"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizan mesa técnica para análisis de relleno sanitario"
 front: false
 section: "Local"
-news_id: 190498
+redirect_from: /news/190498
 ---
 
 En el marco de los primero 100 días de trabajos y resultados, el Gobierno Municipal de Chihuahua, a través de la Dirección de Servicios Públicos Municipales, llevó a cabo una mesa técnica para analizar y trabajar en el proyecto del nuevo relleno sanitario, así como el correcto cierre y clausura del actual.

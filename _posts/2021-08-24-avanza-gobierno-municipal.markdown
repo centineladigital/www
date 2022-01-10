@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La obra suma 25 por ciento de las labores ejecutadas"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avanza Gobierno Municipal en la construcción de la prolongación Tomás Valles"
 front: false
 section: "Local"
-news_id: 187060
+redirect_from: /news/187060
 ---
 
 El Gobierno Municipal a través de la Dirección de Obras Públicas, continúa trabajando en la construcción de la prolongación de la avenida Tomás Valles Vivar, al poniente de la ciudad; obra que a la fecha registra un avance del 25 por ciento y dará una salida segura a la zona habitacional y comercial del lugar, así como a la carga vehicular del periférico De la Juventud.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Alta probabilidad de lluvias y temperatura agradable en la ciudad, es lo que se espera para esta semana, informa la Coordinación Municipal de Protección Civil"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continuarán lluvias durante esta semana -  Protección Civil Municipal"
 front: false
 section: "Local"
-news_id: 186189
+redirect_from: /news/186189
 ---
 
 Alta probabilidad de lluvias y temperatura agradable en la ciudad, es lo que se espera para esta semana, informa la Coordinación Municipal de Protección Civil, de acuerdo al pronóstico que emite CONAGUA a través de su Servicio Meteorológico Nacional, por ello es importante seguir acatando las recomendaciones para evitar pérdidas materiales o incidentes que pongan en riesgo la integridad de las personas.

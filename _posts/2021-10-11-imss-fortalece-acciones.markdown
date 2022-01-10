@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La directora de Prestaciones Médicas, doctora Célida Duque Molina, invitó a las derechohabientes a realizar acciones preventivas contra el cáncer de mama."
 image: "/uploads/2021/images-IMSS_451_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS fortalece acciones en favor de la salud de la mujer durante 9ª Jornada Nacional de Recuperación de Servicios"
 front: false
 section: "Local"
-news_id: 188587
+redirect_from: /news/188587
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) realiza del 8 al 10 de octubre la 9ª Jornada Nacional de Recuperación de Servicios médicos, con un enfoque especial por el mes de la sensibilización sobre el Cáncer de Mama, a fin de detectar oportunamente padecimientos oncológicos que afectan a las mujeres.

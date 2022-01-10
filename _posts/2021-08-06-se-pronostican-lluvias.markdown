@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En tanto los días sábado y domingo permanecerán mayormente soleados, por ello es importante seguir las recomendaciones al respecto para evitar deshidrataciones"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se pronostican lluvias para este viernes -  Protección Civil Municipal"
 front: false
 section: "Local"
-news_id: 186394
+redirect_from: /news/186394
 ---
 
 Para este fin de semana en la capital del estado sólo se esperan lluvias durante este viernes, así lo informó la Coordinación Municipal de Protección Civil, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional de CONAGUA, en tanto los días sábado y domingo permanecerán mayormente soleados, por ello es importante seguir las recomendaciones al respecto para evitar deshidrataciones.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El gobierno de CDMX dio a conocer que, actualmente, el 70 por ciento de los pacientes que llegan a los hospitales lo hacen en condición grave o multitratados"
 image: "/uploads/2021/images-2516680.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El 70% de hospitalizados por Covid-19 llegan en situación grave"
 front: false
 section: "Nacional"
-news_id: 182384
+redirect_from: /news/182384
 ---
 
 El gobierno de la Ciudad de México dio a conocer que, actualmente, el 70 por ciento de los pacientes que llegan a los hospitales lo hacen en condición grave o multitratados, por lo que pidieron no automedicarse y, al primer síntoma derivado de la enfermedad de Covid-19, acudir al médico.

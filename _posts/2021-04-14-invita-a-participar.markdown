@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Premiarán con 150 mil pesos a ganador."
 image: "/uploads/2021/images-MANRIQUE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_RAUL_MANRIQUEZ.mp3"
 alt: "Invita a participar en convocatoria de Novela Histórica “Ignacio Solares”"
 front: false
 section: "Local"
-news_id: 183898
+redirect_from: /news/183898
 ---
 
 Con premio de 150 mil pesos y una medalla es la forma en la que reconocerán al ganador de la convocatoria de Novela Histórica “Ignacio Solares”, según fue dado a conocer por parte de Raúl Manríquez, director general de Capital Cultural.

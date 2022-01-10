@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En los últimos 4 años la aeronave ha salvado vidas y realizado una docena de traslados aeromédicos   "
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brinda Halcón I de la Policía Municipal seguridad y rescate aéreo a chihuahuenses"
 front: false
 section: "Local"
-news_id: 186353
+redirect_from: /news/186353
 ---
 
 Durante los últimos cuatro años y con el único objetivo de brindar seguridad y servicio a la comunidad chihuahuense, el helicóptero Halcón I con que cuenta la Dirección de Seguridad Pública Municipal, ha salvado vidas, realizado una docena de rescates aeromédicos, aunado a los múltiples operativos y patrullajes policiales que buscan prevenir y combatir la delincuencia en la ciudad.

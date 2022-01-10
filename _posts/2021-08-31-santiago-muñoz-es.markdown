@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El delantero mexicano de 19 años será registrado en el equipo Sub 23 del Newcastle United"
 image: "/uploads/2021/images-imago-1050031.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Santiago Muñoz es nuevo futbolista del Newcastle de la Premier League"
 front: false
 section: "Deportes"
-news_id: 187286
+redirect_from: /news/187286
 ---
 
 El delantero mexicano Santiago Muñoz llegó a un acuerdo para jugar en la Premier League con el Newcastle United. Llega al futbol inglés en calidad de préstamo con opción a compra y será registrado en el plantel Sub 23.

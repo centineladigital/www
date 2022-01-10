@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Como parte de la conformación del Plan Estatal de Desarrollo 2022-2027, se abordaron las principales temáticas en 9 mesas de trabajo   "
 image: "/uploads/2021/images-unnamed_(15).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa SEDUE en Foro de Infraestructura y Medio Ambiente en Ciudad Cuauhtémoc"
 front: false
 section: "Local"
-news_id: 189282
+redirect_from: /news/189282
 ---
 
 La Secretaría de Desarrollo Urbano y Ecología (Sedue), en coordinación con la Secretaría de Comunicaciones y Obras Públicas (Scop), la Comisión Estatal de Vivienda, Suelo e Infraestructura de Chihuahua (Coesvi) y la Junta Central de Agua y Saneamiento (JCAS) participó en el Foro de Infraestructura y Medio Ambiente.

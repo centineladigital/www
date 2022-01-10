@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Fiscal consideró que el rezago de los amparos a los presuntos cómplices de César Duarte Jáquez pueden ser por la pandemia generada por el covid-19  "
 image: "/uploads/2021/images-fiscal-chihuahua-pide-acelerar-amparo_1_99_1004_626.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "FGE pida al PJF agilizar los amparos de duartistas"
 front: false
 section: "Local"
-news_id: 186253
+redirect_from: /news/186253
 ---
 
 El titular de la Fiscalía General del Estado (FGE) de Chihuahua, César Peniche Espejel, pidió al Poder Judicial de la Federación (PJF) que agilice los amparos de los presuntos cómplices del ex gobernador César Duarte Jáquez que se encuentran rezagados desde hace tres años. “Pedimos que ya se le dé trámite a todos los amparos que están impidiendo pasar a la etapa intermedia para llegar a las audiencias del juicio oral. 

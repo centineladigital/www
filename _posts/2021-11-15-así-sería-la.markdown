@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "De los 3 mil 800 millones de pesos estimados a erogar para el proceso de revocación de mandato del presidente de la República, entre 10 y 13 por ciento será para el territorio mexiquense. "
 image: "/uploads/2021/images-amlo-participara-en-la-onu_0_26_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así sería la participación del Edomex en el proceso para revocar mandato de AMLO"
 front: false
 section: "Nacional"
-news_id: 189835
+redirect_from: /news/189835
 ---
 
 De los 3 mil 800 millones de pesos que el INE estima erogar para el proceso de revocación de mandato del presidente de la República, Andrés Manuel López Obrador, entre 10 y 13 por ciento será destinado para organizar la consulta en el territorio mexiquense, donde podrán participar más de 12.3 millones de mexiquenses. 

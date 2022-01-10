@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente Andrés Manuel López Obrador viajó a la sede de la ONU en Nueva York debido a que México asumió la presidencia del Consejo de Seguridad. "
 image: "/uploads/2021/images-consejo-seguridad-onu-york-foto_0_21_960_598.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ellos son los líderes que asistieron a la sesión del Consejo de Seguridad de la ONU"
 front: false
 section: "Internacional"
-news_id: 189733
+redirect_from: /news/189733
 ---
 
 La Organización de las Naciones Unidas (ONU) celebró este martes la sesión del Consejo de Seguridad. Dicho consejo se formó gracias a la Carta de las Naciones Unidas, mediante la cual se integraron seis órganos principales, incluido el Consejo de Seguridad.  

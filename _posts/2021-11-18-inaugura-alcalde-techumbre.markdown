@@ -14,11 +14,11 @@ author: nil
 description: "Tuvo una inversión de 1 millón 983 mil 989 pesos que beneficiará a 2mil sesenta y seis alumnas y alumnos"
 image: "/uploads/2021/images-CEEAF73D-7BBE-4802-92A4-B92D1D24BADB.jpeg"
 video: "/uploads/2021/videos-BJ05_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Inaugura alcalde techumbre en el bachilleres 4 "
 front: false
 section: "Local"
-news_id: 189980
+redirect_from: /news/189980
 ---
 
 El alcalde, Marco Bonilla, inauguró una techumbre tipo domo en el Colegio de Bachilleres (COBACH) plantel 4, un proyecto ganador del Presupuesto Participativo 2021 la cual tuvo una inversión de 1 millón 983 mil 989 pesos que beneficiará a 2mil sesenta y seis alumnas y alumnos.

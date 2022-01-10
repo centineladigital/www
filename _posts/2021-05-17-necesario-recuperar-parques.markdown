@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que buscará recuperar el Parque Urueta en la capital del Estado."
 image: "/uploads/2021/images-MARIO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML08_MARIO_VAZQUEZ.mp3"
 alt: "Necesario recuperar parques -  Mario Vázquez"
 front: false
 section: "Local"
-news_id: 184507
+redirect_from: /news/184507
 ---
 
 Como necesario calificó el candidato del PAN por el distrito 16 local el recuperar espacios públicos, por lo que dio a conocer que buscará apoyar a los vecinos de para para reforestar y remodelar el parque Urueta.

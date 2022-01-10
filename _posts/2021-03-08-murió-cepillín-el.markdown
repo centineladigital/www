@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Cepillín murió tras ser hospitalizado de emergencia la semana pasada por una lesión en la columna. Te contamos lo que sabemos sobre el fallecimiento del cantante infantil que acompañó a miles con exitosos temas como Las Mañanitas y La Feria "
 image: "/uploads/2021/images-murio-cepillin-a-los-anos-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió 'Cepillín', el 'payasito de la tele', a los 75 años"
 front: false
 section: "Espectáculos"
-news_id: 183331
+redirect_from: /news/183331
 ---
 
 Ricardo González Gutiérrez, Cepillín, murió a los 75 años tras ser hospitalizado por un dolor en la espalda, la semana pasada. La noticia del fallecimiento fue confirmada por su hijo, quien anoche informó que su padre había sido intubado tras presentar complicaciones cardiacas y con una neumonía luego de ser operado de la columna vertebral. El cantante infantil que interpretó famosas canciones como Las Mañanitas con Cepillín, Tomás, El bosque de la China, acompañó y amenizó la niñez de miles en Latinoamérica, falleció a causa de complicaciones tras una operación en la columna. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Confusión y cruce de declaraciones entre funcionarios de la UE y responsables del laboratorio británico AstraZeneca previo a una reunión para tratar los retrasos en la entrega de vacunas"
 image: "/uploads/2021/images-2519094.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Crece tensión entre UE y AstraZeneca por retraso de vacunas"
 front: false
 section: "Internacional"
-news_id: 182473
+redirect_from: /news/182473
 ---
 
 Una reunión prevista entre funcionarios de la UE y responsables del laboratorio británico AstraZeneca para hablar de los retrasos en la producción de vacunas contra el covid-19 provocó este miércoles una enorme confusión.

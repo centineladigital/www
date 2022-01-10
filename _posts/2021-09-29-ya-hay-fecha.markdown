@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Tras un año sin ganador por la pandemia del covid-19, el premio al mejor futbolista del mundo regresa en 2021 "
 image: "/uploads/2021/images-premio-balon-de-oro-afp_51_0_877_545.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ya hay fecha para la entrega del Balón de Oro 2021"
 front: false
 section: "Deportes"
-news_id: 188177
+redirect_from: /news/188177
 ---
 
 El Balón de Oro masculino será entregado el 29 de noviembre en París, tras un año sin ganador, anunció este miércoles la revista France Football, organizadora de esta distinción que recompensa al mejor jugador del año. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente municipal y el director de la Policía escucharon las peticiones de los vecinos"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pone en marcha Gobierno Municipal “Tocando Puertas”; programa de contacto vecinal"
 front: false
 section: "Local"
-news_id: 188425
+redirect_from: /news/188425
 ---
 
 Con el fin de escuchar las problemáticas relacionadas con la seguridad, en voz de vecinos de colonias de la ciudad, el Gobierno Municipal en coordinación con la Dirección de Seguridad Pública Municipal, inició el programa “Tocando Puertas”.

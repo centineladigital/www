@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El subsecretario de prensa de la Casa Blanca, Kevin Muñoz, afirmó que se aplicará a viajes aéreos internacionales y a viajes terrestres; el canciller Ebrard indicó que será para personas vacunadas contra covid-19. "
 image: "/uploads/2021/images-eu-extiende-cierre-fronteras-mexico.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reapertura de frontera con EU a actividades no esenciales será el 8 de noviembre"
 front: false
 section: "Internacional"
-news_id: 188765
+redirect_from: /news/188765
 ---
 
 La reapertura de la frontera entre México y Estados Unidos para actividades no esenciales será el 8 de noviembre para las personas que estén completamente vacunadas contra covid-19, informó el secretario de Relaciones Exteriores (SRE), Marcelo Ebrard.  

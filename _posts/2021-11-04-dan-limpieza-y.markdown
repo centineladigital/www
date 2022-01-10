@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El 16 de noviembre nuevas fechas para cursos de natación para personas mayores de 4 años"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dan limpieza y mantenimiento profundo a alberca del DIF estatal"
 front: false
 section: "Local"
-news_id: 189559
+redirect_from: /news/189559
 ---
 
 Con un mantenimiento general completo a sus instalaciones, la Alberca del DIF Estatal se abre al público en general previa inscripción de lunes a viernes de 6:00 am a 9:00 pm y con cursos de natación.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de la polémica que desató Zac Efron por aparecer con el rostro completamente diferente y de que se crearan dudas sobre si se había operado o aplicado botox, el actor -sin entrar en detalles- reapareció en sus redes sociales. "
 image: "/uploads/2021/images-zac-efron-reaparece-demuestra-luce.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Nunca se operó? Zac Efron reaparece tras polémico 'cambio' en rostro; así luce hoy"
 front: false
 section: "Espectáculos"
-news_id: 184584
+redirect_from: /news/184584
 ---
 
 ¿Zac Efron sí se operó el rostro? Es la pregunta que quedó al aire, luego de que desde hace unas semanas el famoso actor se volviera tendencia por aparecer con un drástico cambio en su cara. Y es que el actor –uno de los más cotizados en Hollywood– apareció completamente diferente, como si se hubiese aplicado botox, al menos así lo catalogaron los internautas quienes hicieron memes sobre él y depositaron sus reacciones ante el presunto cambio. Sin embargo, después de las especulaciones, el famoso compartió una nueva imagen en la que al parecer prueba que no se realizó ninguna cirugía o tratamiento facial. ¿Sigue luciendo un rostro natural? Te contamos lo que sabemos y las reacciones más divertidas de este suceso. 

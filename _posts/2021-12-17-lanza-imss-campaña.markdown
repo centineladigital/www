@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En continuidad a las acciones de mejora establecidas por el Comando Directivo Sectorial, de forma conjunta se lanza la campaña nacional para fortalecer la higiene de manos."
 image: "/uploads/2021/images-Foto_577-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lanza IMSS campaña para fortalecer higiene de manos con capacitación, educación y marketing en salud"
 front: false
 section: "Local"
-news_id: 190966
+redirect_from: /news/190966
 ---
 
 En comando directivo sectorial, conformado en el caso del Instituto Mexicano del Seguro Social (IMSS) por la doctora Célida Duque Molina, representantes de la Secretaría de Salud, del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado (ISSSTE) y del Instituto de Salud para el Bienestar (INSABI), se lanzó una campaña en todas sus unidades médicas con el propósito de fortalecer la higiene de manos, a través de la capacitación, educación y marketing en salud, mediante cinco momentos para la higiene de manos y siete llamadas a la acción en los tres niveles de atención.

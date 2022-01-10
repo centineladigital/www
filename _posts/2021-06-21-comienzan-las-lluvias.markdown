@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Lluvias, tormentas eléctricas y hasta caída de granizo durante la tarde de este domingo"
 image: "/uploads/2021/images-lluvias.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Comienzan las lluvias en el estado de Chihuahua"
 front: false
 section: "Local"
-news_id: 185129
+redirect_from: /news/185129
 ---
 
 A través de redes sociales chihuahuenses de diferentes municipios comenzaron a reportar fuertes lluvias, tormentas eléctricas y hasta caída de granizo durante la tarde de este domingo, tales como en Buenaventura, Nuevo Casas Grandes, Janos y Madera.

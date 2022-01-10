@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor compartió en su cuenta de Instagram una foto junto a Emma Watson y Alfred Enoch para recordar sus días en el set de grabación de 'Harry Potter'. "
 image: "/uploads/2021/images-tom-felton-comparte-foto-inedita_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tom Felton comparte foto inédita con Emma Watson en rodaje de 'Harry Potter'"
 front: false
 section: "Espectáculos"
-news_id: 183328
+redirect_from: /news/183328
 ---
 
 Ya pasaron 20 años del estreno de Harry Potter y la piedra filosofal, pero la fiebre por el mundo mágico creado por J.K Rowling continúa. En los últimos años, el elenco principal de la saga ha develado secretos y datos curiosos de lo que se vivía detrás de cámaras, incluso, los actores tuvieron un reencuentro virtual en plena pandemia. En esta ocasión, fue Tom Felton quien se puso nostálgico y revivió un recuerdo del rodaje de la película. El actor británico, quien da vida a Draco Malfoy en Harry Potter, abrió el baúl de los recuerdos y desempolvó una inédita fotografía en la que aparece acompañado de Emma Watson (Hermione Granger) y Alfred Enoch (Dean Thomas).  

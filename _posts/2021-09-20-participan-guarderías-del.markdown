@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esta actividad se desarrolló bajo los protocolos de seguridad e higiene, para la protección de las niñas y niños usuarios, así como del personal que labora en los inmuebles."
 image: "/uploads/2021/images-Foto_FN_4603-2_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participan guarderías del IMSS Chihuahua en Segundo Simulacro Nacional 2021"
 front: false
 section: "Local"
-news_id: 187877
+redirect_from: /news/187877
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua realizó este viernes 17 de septiembre, en punto de las 10:30 horas, un simulacro con diversas hipótesis de riesgo, tales como incendio, fuga de productos químicos, inundación, entre otras.

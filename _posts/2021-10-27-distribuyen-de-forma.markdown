@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se entregaron ejemplares de la colección “21 para el 21” del Fondo de Cultura Económica y otros títulos de Programas Editoriales de los gobiernos estatal y municipal"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Distribuyen de forma gratuita más de 5 mil libros en el Centro Histórico de la ciudad"
 front: false
 section: "Local"
-news_id: 189253
+redirect_from: /news/189253
 ---
 
 El Gobierno del Estado, en coordinación con el Fondo de Cultura Económica y el Gobierno Municipal de Chihuahua, realizó el evento “1 Km. de libros” en el Centro Histórico de la ciudad, con estaciones a lo largo de la calle Libertad para regalar ejemplares de la serie “21 para el 21” a las personas que transitaban por el lugar.

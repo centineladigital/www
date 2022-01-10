@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue en Estados Unidos en donde Sergio Mayer y su esposa Issabela Camil –quien también aparece en el libro– protagonizaron el desafortunado encuentro. "
 image: "/uploads/2021/images-sergio-mayer-agrede-periodista-javier.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Esto no se va quedar así -  Sergio Mayer agrede a Javier Ceriani tras ser cuestionado sobre el narco; así reaccionó"
 front: false
 section: "Espectáculos"
-news_id: 190511
+redirect_from: /news/190511
 ---
 
 Sergio Mayer, ex Garibaldi y ex político señalado por tráfico de influencias en el caso de Héctor Parra, una vez más está envuelto en polémica, pues se peleó y agredió físicamente al periodista Javier Ceriani, conductor del programa ‘Chisme No Like’. ¿Qué fue lo que ocurrió? Resulta que Sergio Mayer reaccionó furioso al ser cuestionado sobre lo que se señala en su contra en el libro ‘Emma y las otras señoras del narco’ de Anabel Hernández, en el que se le vincula con el narco ‘La Barbie’. Fue en Estados Unidos en donde Sergio Mayer y su esposa Issabela Camil –quien también aparece en el libro– protagonizaron el desafortunado encuentro. Y es que la actriz y hermana de Jaime Camil también participó con insultos en este encontronazo. 

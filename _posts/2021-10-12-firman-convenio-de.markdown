@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se buscan establecer mecanismos que permitan fomentar la cultura política democrática, cívica y la participación ciudadana de los pueblos y comunidades indígenas en el estado de Chihuahua"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Firman convenio de colaboración Coepi y el Instituto Estatal Electoral"
 front: false
 section: "Local"
-news_id: 188662
+redirect_from: /news/188662
 ---
 
 Con la intención de articular acciones que promuevan la participación política de la población de los pueblos originarios de la entidad, la Comisión Estatal para los Pueblos Indígenas (COEPI) firmó un convenio de colaboración con el Instituto Estatal Electoral (IEE).

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz británica Keira Knightley reveló que no protagonizará escenas de sexo dirigidas bajo una mirada masculina. Mira lo que dijo. "
 image: "/uploads/2021/images-keira-knightley-filmara-escenas-sexo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No me interesa -  Keira Knightley no volverá a filmar escenas de sexo dirigidas por hombres"
 front: false
 section: "Espectáculos"
-news_id: 182418
+redirect_from: /news/182418
 ---
 
 Keira Knightley, conocida por películas como Anna Karenina (2012) y Orgullo y prejuicio (2015), además de participar en la saga Piratas del Caribe, ha dicho recientemente que se rechaza a protagonizar escenas de sexo, específicamente dirigidas por hombres. Durante un episodio del podcast Chanel Connects, la actriz británica habló con la cineasta Lulu Wang y la escritora Diane Solway sobre cómo ya no está dispuesta a hacer escenas de desnudos o de sexo. Es importante mencionar que desde que se convirtió en madre en 2015, la estrella añade en sus contratos una cláusula de 'no desnudez'. 

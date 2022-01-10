@@ -14,11 +14,11 @@ author: nil
 description: "Personalmente votará en contra de esta propuesta "
 image: "/uploads/2021/images-entrevista_omar_bazan.jpg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-08-24_at_2.47.00_PM.mp4"
-audio: "nil"
+audio: nil
 alt: "El gobernador tiene dinero suficiente para pagar su seguridad "
 front: false
 section: "Local"
-news_id: 187072
+redirect_from: /news/187072
 ---
 
  El diputado Omar Bazán Flores manifestó que respecto al propuesta de escoltas para ex gobernadores, el gobernador Javier corral tiene el dinero suficiente para costearse sus propias escoltas al finalizar su mandato.

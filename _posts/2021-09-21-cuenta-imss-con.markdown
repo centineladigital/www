@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El área de Transportes Terrestres y Traslado de Pacientes trabaja 24 horas, los 365 días del año."
 image: "/uploads/2021/images-Foto_FN_Transporte_para_trasplantes-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cuenta IMSS con equipo especializado para transporte y traslado de órganos y tejidos con fines de trasplante"
 front: false
 section: "Local"
-news_id: 187935
+redirect_from: /news/187935
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) cuenta con la División de Transportes Terrestres y Traslado de Pacientes, responsable del traslado de  órganos, tejidos y células con fines de trasplante, esencial para salvar vidas.

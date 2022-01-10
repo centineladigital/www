@@ -16,11 +16,11 @@ author: nil
 description: "Se destina poco recurso los jóvenes en comparación con el año 2021 haciendo un recorte de 7.9 millones"
 image: "/uploads/2021/images-6022_dfc3ddaa55.jpg"
 video: "/uploads/2021/videos-BW04_ISHTAR_IBARRA_.mp4"
-audio: "nil"
+audio: nil
 alt: "4 mil millones de pesos aprobaron el ayuntamiento para el 2022 "
 front: false
 section: "Local"
-news_id: 191131
+redirect_from: /news/191131
 ---
 
 El honorable ayuntamiento de Chihuahua hizo la aprobación del presupuesto de egresos para el año 2022 el cual cuenta con la cantidad de 4 mil 480 millones 227 mil 197.74 pesos, en sesión de cabildo las y los regidores aprobaron el punto por mayoría de votos.

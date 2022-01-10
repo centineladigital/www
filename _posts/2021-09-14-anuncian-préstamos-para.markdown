@@ -10,11 +10,11 @@ author: nil
 description: "Otro punto es la renegociación de la deuda."
 image: "/uploads/2021/images-jau.jpg"
 video: "/uploads/2021/videos-MM02_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Anuncian préstamos para el Gobierno Estatal"
 front: false
 section: "Local"
-news_id: 187726
+redirect_from: /news/187726
 ---
 
 Renegociación de la deuda y solicitud de préstamos es lo que el Secretario General de Gobierno, César Gustavo Jáuregui Moreno, dio a conocer. Esto ya que en una primera instancia se hizo la solicitud de crédito 800 pesos millones de pesos por parte de la Gobernadora.

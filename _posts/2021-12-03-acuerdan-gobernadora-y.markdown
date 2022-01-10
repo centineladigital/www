@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se trata del primer encuentro entre ambos funcionarios que se realiza en modo presencial. Previamente habían sostenido diálogo vía telefónica, en que abordaron temas de interés para ambos lados de la frontera."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Acuerdan Gobernadora y Cónsul de EUA en Ciudad Juárez cooperación en seguridad, procuración de justicia, salud e infraestructura"
 front: false
 section: "Local"
-news_id: 190452
+redirect_from: /news/190452
 ---
 
 La gobernadora Maru Campos recibió en su despacho al cónsul general de Estados Unidos en Ciudad Juárez, Eric S. Cohan, con quien acordó trabajar de la mano en materia de seguridad, procuración de justicia, salud e infraestructura.

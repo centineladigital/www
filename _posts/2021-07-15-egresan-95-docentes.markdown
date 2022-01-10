@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el presente ciclo concluyó la formación académica de 28 estudiantes de la Licenciatura en Educación Preescolar y de 67 de la Licenciatura en Educación Primaria."
 image: "/uploads/2021/images-P2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Egresan 95 docentes de la Escuela Normal Experimental de Parral"
 front: false
 section: "Local"
-news_id: 185701
+redirect_from: /news/185701
 ---
 
 La Escuela Normal Experimental “Miguel Hidalgo” de Hidalgo del Parral, llevó a cabo de manera virtual la ceremonia de graduación de la Generación 2017-2021, de la cual egresaron 28 estudiantes de la Licenciatura en Educación Preescolar y 67 de la Licenciatura en Educación Primaria.

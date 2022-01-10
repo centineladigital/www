@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La colaboración y organización ha ayudado a disminuir los índices delictivos en la zona"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Buscan mayor coordinación con vecinos a través del programa Tocando Puertas"
 front: false
 section: "Local"
-news_id: 189203
+redirect_from: /news/189203
 ---
 
 El alcalde de Chihuahua, Marco Bonilla Mendoza, realizó un recorrido organizado por el Comité de Vecinos de la colonia Quintas del Sol para atender y conocer las problemáticas de este sector.

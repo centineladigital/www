@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente ruso asegura que su país debe mantener su condición de potencia nuclear y espacial en el siglo XXI, al conmemorar el 60 aniversario del vuelo al espacio del cosmonauta Yuri Gagarin"
 image: "/uploads/2021/images-2560913.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rusia debe seguir siendo una potencia espacial -  Putin"
 front: false
 section: "Internacional"
-news_id: 183830
+redirect_from: /news/183830
 ---
 
 Rusia debe seguir siendo una gran potencia en la exploración del espacio, afirmó este lunes el presidente Vladimir Putin, con motivo del 60 aniversario del primer vuelo al espacio del cosmonauta soviético Yuri Gagarin.

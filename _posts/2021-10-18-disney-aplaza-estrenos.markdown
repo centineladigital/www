@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Otros títulos de Marvel como 'Doctor Strange in the Multiverse of Madness', 'Thor: Love and Thunder' y 'Ant-Man and the Wasp: Quantumania' también se postergaron. "
 image: "/uploads/2021/images-imagen-difundida-disney-lupita-nyong.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Disney aplaza estrenos de 'Indiana Jones 5' y 'Black Panther 2'"
 front: false
 section: "Espectáculos"
-news_id: 188877
+redirect_from: /news/188877
 ---
 
 Los retrasos en los lanzamientos de grandes películas siguen ocurriendo, pues ahora The Walt Disney Co. pospuso las fechas de estreno de la próxima entrega de Indiana Jones, aún sin título, y de la secuela de Black Panther, Wakanda Forever. La quinta entrega de la saga Indiana Jones, dirigida por James Mangold y producida por Steven Spielberg, y con Harrison Ford de regreso como el arqueólogo aventurero, se retrasará casi un año y llegará a los cines en junio de 2023, informó la compañía. 

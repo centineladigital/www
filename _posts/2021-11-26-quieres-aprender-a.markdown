@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Inscríbete a la capacitación que el Gobierno Municipal impartirá el 1 de diciembre"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Quieres aprender a vender por Amazon?"
 front: false
 section: "Local"
-news_id: 190243
+redirect_from: /news/190243
 ---
 
 Para todos los emprendedores y comerciantes de Chihuahua capital, el Gobierno Municipal a través de la Dirección de Desarrollo Económico y Turístico, invita a participar a la capacitación 100% gratuita titulada ‘’Empieza a Vender en Amazon’’.

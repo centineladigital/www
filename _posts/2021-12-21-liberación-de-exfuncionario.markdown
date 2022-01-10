@@ -10,11 +10,11 @@ author: nil
 description: "Amparo no cambia de fondo la situación, señala Secretario."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MM03_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Liberación de exfuncionario duartista no cambia el fondo del asunto"
 front: false
 section: "Local"
-news_id: 191089
+redirect_from: /news/191089
 ---
 
 El que se haya otorgado la liberación a Antonio Tarín no cambia fondo del asunto, aseveró el titular de la Secretaría General de Gobierno, César Gustavo Jáuregui Moreno. Esto al ser cuestionado sobre el amparo otorgado a Antonio Tarín, exfuncionario relacionado con César Duarte.

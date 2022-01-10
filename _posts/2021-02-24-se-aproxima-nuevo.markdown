@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Protección Civil Estatal advierte que ráfagas afectarán principalmente a Madera, Janos, Namiquipa, Guerrero, Bocoyna, Cuauhtémoc, Ascensión, Ahumada, Guachochi, Chihuahua, Parral, Ciudad Juárez y Jiménez"
 image: "/uploads/2021/images-fuertes-vientos-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se aproxima nuevo frente frío a la entidad con rachas de viento de hasta 65 km/h  "
 front: false
 section: "Local"
-news_id: 183128
+redirect_from: /news/183128
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) pidió a la población tomar medidas preventivas para este miércoles 24 de febrero, ya que la aproximación de un nuevo frente frío (número 38) a la frontera norte del país traerá rachas de viento que podrían superar hasta los 65 kilómetros por hora (km/h) y tolvaneras.

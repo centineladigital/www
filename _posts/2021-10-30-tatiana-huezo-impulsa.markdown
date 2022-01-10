@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cineasta recibió un premio especial en el Festival Internacional de Cine de Morelia, está en desarrollo de un nuevo documental. "
 image: "/uploads/2021/images-tatiana-huezo-triunfado-festivales-cinta.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tatiana Huezo impulsa 'Noche de fuego' rumbo a los premios Oscar"
 front: false
 section: "Espectáculos"
-news_id: 189399
+redirect_from: /news/189399
 ---
 
 El camino rumbo al Oscar comenzó para la mexicana Tatiana Huezo y el grupo de productores que la acompañan para hacer cabildeo entre los miembros de la Academia de Cine Norteamericana, a fin de que Noche de fuego logre una nominación a la estatuilla dorada en la categoría de Mejor Película Internacional. “Tengo ilusión y fe de que contamos con una historia poderosa y honesta que puede tocar corazones y abrir puertas, es un momento especial en la Academia norteamericana, porque hay apertura, una necesidad de voces e historias nuevas, espero que Noche de fuego tenga una oportunidad”, dijo Tatiana Huezo sobre su camino al Oscar.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En diciembre de 2020 el actor comenzó a presentar 'Reconexión', una serie documental en YouTube con la que pretende enaltecer las maravillas que tiene el país. "
 image: "/uploads/2021/images-diaz_aaron.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ya me quieren retirar -  Aarón Díaz asegura que no dejará la actuación para volverse youtuber"
 front: false
 section: "Espectáculos"
-news_id: 183134
+redirect_from: /news/183134
 ---
 
 Tras su participación en producciones extranjeras como Betty en NY (2019) y Quantico (2017), Aarón Díaz está desarrollando un proyecto en YouTube llamado Reconexión, aunque asegura que esto no significa que dejará la actuación. "Ya me quieren retirar y yo todavía siento que tengo mucho que dar. Definitivamente no estoy dejando la actuación ni me estoy convirtiendo en un youtuber", señaló el mexicano. Y reveló que va a estar "filmando en México después de muchos años; estoy muy entusiasmado pero todavía no se hace público el proyecto". 

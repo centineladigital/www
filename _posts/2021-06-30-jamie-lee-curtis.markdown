@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz estadunidense recibirá el reconocimiento por su trayectoria en la pantalla grande y chica durante la edición número 78 de la Mostra de Venecia. "
 image: "/uploads/2021/images-jamie-lee-curtis-recibira-leon_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jamie Lee Curtis recibirá León de Oro a su carrera en Festival de cine de Venecia"
 front: false
 section: "Espectáculos"
-news_id: 185309
+redirect_from: /news/185309
 ---
 
 Jamie Lee Curtis, actriz estadunidense ganadora de dos Globos de Oro, recibirá el León de Oro por su exitosa carrera en la edición número 78 del Festival de Cine de Venecia, que se celebrará del 1 al 11 de septiembre, informaron hoy los organizadores. 

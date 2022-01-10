@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La UACH mediante El DAIE cuenta con un equipo de psicólogos que brindan atención a las y los estudiantes universitarios de manera permanente y gratuita."
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-23_at_10.44.57.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-09-23_at_10.44.57.mp4"
 alt: "Escuchar y atender las señales de alerta, es de suma importancia para la prevención del suicidio -  Psicóloga UACH"
 front: false
 section: "Local"
-news_id: 187986
+redirect_from: /news/187986
 ---
 
 Se debe poner especial atención a las señales de alerta que manda alguna persona con ideación suicida, entre las que se encuentran irritabilidad, aumento de agresividad, insomnio o problemas para dormir, actitud pasiva, apatía y tristeza, expresó la maestra Endira Elizet Montes Sánchez, y psicóloga del Centro Universitario Parral de la Universidad Autónoma de Chihuahua. 

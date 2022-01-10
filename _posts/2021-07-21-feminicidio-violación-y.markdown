@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las cifras de 2020 arrojaban 492 víctimas, mientras que 2021 reportó 508 casos"
 image: "/uploads/2021/images-rosa-icela-rodriguez-conferencia-prensa_1_88_1091_679.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Feminicidio, violación y violencia familiar registran alzas; hace falta más trabajo -  SSPC"
 front: false
 section: "Nacional"
-news_id: 185856
+redirect_from: /news/185856
 ---
 
 La titular de la Secretaría de Seguridad y Protección Ciudadana, Rosa Icela Rodríguez dijo que falta más trabajo en temas de violencia, "seguimos trabajando en este tema para lograr mayores avances". 

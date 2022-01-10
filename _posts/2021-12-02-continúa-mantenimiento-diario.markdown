@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se han aplicado 21 mil metros lineales de pintura, así como más de 35 mil metros cuadrados en bacheo"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúa mantenimiento diario en las calles y avenidas de la ciudad"
 front: false
 section: "Local"
-news_id: 190428
+redirect_from: /news/190428
 ---
 
 El Gobierno Municipal, a través de la Dirección de Obras Públicas, continúa con el mantenimiento de las calles de toda la ciudad, realizando trabajos de bacheo, pintura y rehabilitación de la carpeta asfáltica, atendiendo las denuncias de la ciudadanía, para brindar mayor seguridad y mejor servicio a los ciudadanos que transitan en la capital.

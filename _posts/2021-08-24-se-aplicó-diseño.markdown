@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se invirtieron 503 mdp en la construcción de vasos de captación, drenaje pluvial y jardines de lluvia, para recuperar el agua en el subsuelo, explica Oscar Ibáñez Hernández en el programa “Logros con Valor” de la JCAS"
 image: "/uploads/2021/images-Vaso_Parque_Central_(render).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se aplicó diseño, tecnología e inversión sin precedente  contra inundaciones en Juárez"
 front: false
 section: "Local"
-news_id: 187059
+redirect_from: /news/187059
 ---
 
 “Estamos implementando tecnología de punta con las llamadas soluciones basadas en la naturaleza, porque necesitamos recargar los acuíferos, que están sobre explotados; hay un diseño ahora de vasos de captación, que nos permiten infiltrar el agua al acuífero, y recuperarlo”, señaló el director ejecutivo de la Junta Central de Agua y Saneamiento (JCAS), Oscar Ibáñez Hernández.

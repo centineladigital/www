@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Gobierno de China declaró que el número de osos panda salvajes el país asiático ya cuenta con mil 800 ejemplares, razón suficiente para que deje de ser una especie en peligro. "
 image: "/uploads/2021/images-oso-panda-ya-no-es.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Aumenta la población salvaje! Oso panda ya no es una especie en peligro, asegura China."
 front: false
 section: "Buenas Noticias"
-news_id: 185467
+redirect_from: /news/185467
 ---
 
 Gran noticias para los amantes y defensores de los animales: el Gobierno de China declaró que el número de osos panda salvajes el país asiático ya cuenta con mil 800 ejemplares, razón suficiente para que deje de ser una especie "en peligro"; y a partir de ahora se considerarán como animales bajo el estatus de "vulnerable", quinto en la escala. 

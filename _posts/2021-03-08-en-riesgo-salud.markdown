@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los trastornos de estrés bajen el sistema inmunológico afectan directamente  las enfermedades que pudieran padecer."
 image: "/uploads/2021/images-UACH3.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML06_LEILA_RUIZ.mp3"
 alt: "En riesgo salud de adultos mayores por pandemia"
 front: false
 section: "Local"
-news_id: 183345
+redirect_from: /news/183345
 ---
 
 Las condiciones de la pandemia son preocupantes, esto ya que genera que se incrementen casos de trastornos como: ansiedad, depresión, trastorno del sueño, entre otros. Según fue dado a conocer por parte de Leila Azizé Ruiz Escalona, especialista en psicología y catedrática de la Facultad de Medicina de la UACH.

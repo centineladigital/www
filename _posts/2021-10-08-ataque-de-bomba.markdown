@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un testigo afirmó que en el momento de la explosión estaba orando y que vio varias víctimas. Los escombros cubrían el piso y el techo estaba ennegrecido. "
 image: "/uploads/2021/images-explosion-afganistan-deja-victimas-funcionario_1_0_984_612.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ataque de bomba en Afganistán deja al menos 100 víctimas"
 front: false
 section: "Internacional"
-news_id: 188505
+redirect_from: /news/188505
 ---
 
 La explosión de bomba en una mezquita este viernes en el norte de Afganistán dejó un saldo de al menos 100 víctimas entre muertos y heridos, informó el subjefe de la policía de Kunduz, Dost Mohammad Obaida. Añadió que el ataque podría haber sido perpetrado por un suicida que se mezcló con los feligreses en la mezquita.

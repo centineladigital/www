@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " Representa un 33% de crecimiento en comparación del 2016 cuando se recaudaban 55 mil mdp y al cierre de 2020 que fue de 73 mil mdp; mantiene la entidad el 2º lugar nacional en ese rubro."
 image: "/uploads/2021/images-Diapositiva3.JPG"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-3-_TEMAS_SUBSIRA_INGRESOS_JUAN_PABLO_GARCÍA_PROGRAMA_LOGROS_CON_VALOR_SRIA_HCIENDA__12-7-21.MP3"
 alt: "Aumentó Chihuahua recaudación de ingresos propios en 18 mil millones de pesos en 4 años"
 front: false
 section: "Local"
-news_id: 185562
+redirect_from: /news/185562
 ---
 
 El subsecretario de Ingresos de la Secretaría de Hacienda, Juan Pablo García Delgado, informó que en cuatro años, Chihuahua tuvo un crecimiento del 33 por ciento (%) en la recaudación de ingresos propios, al pasar de 55 mil millones de pesos (mdp) que se tenían 2016, a 73 mil 154 mdp al cierre de 2020.

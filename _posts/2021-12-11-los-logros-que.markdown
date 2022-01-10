@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Desde que actuó en Roma, Yalitza Aparicio ha destacado por las albores que ha hecho. Hacemos un repaso por sus logros más destacados. "
 image: "/uploads/2021/images-hacemos-un-repaso-por-los_52_0_1044_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Los logros que ha conseguido Yalitza Aparicio tras su debut en 'Roma'"
 front: false
 section: "Espectáculos"
-news_id: 190761
+redirect_from: /news/190761
 ---
 
 La película Roma se estrenó en el 2018, la cual le trajo mucho éxito a Alfonso Cuarón, director de la producción, sin embargo, también se dio a conocer Yalitza Aparicio, una maestra oaxaqueña de origen mixteco quien hizo su debut en la pantalla grande en dicho filme. A raíz de su participación en Roma, Yalitza acaparó la atención e incluso fue nominada como Mejor actriz a los premios Oscar. Tras su debut en Roma, Yalitza Aparicio ha protagonizado portadas de revistas, aparecido en comerciales, participado en foros para defender los derechos de las mujeres y personas indígenas y más. A continuación, hacemos un repaso por algunos de los logros de la actriz. 

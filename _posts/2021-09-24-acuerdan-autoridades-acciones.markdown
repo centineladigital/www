@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Sostienen reunión del Grupo de Coordinación para la Construcción de la Paz, donde acordaron incrementar el estado de fuerza en la región"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-24_at_08.21.04.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acuerdan autoridades acciones para prevenir y combatir delitos en Cuauhtémoc"
 front: false
 section: "Local"
-news_id: 188012
+redirect_from: /news/188012
 ---
 
 La Secretaría de Seguridad Pública Estatal y la Fiscalía General del Estado, acordaron trabajar en conjunto para fortalecer las estrategias de seguridad en el municipio de Cuauhtémoc.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Buscan dar celeridad a temas de índole mercantil y familiar."
 image: "/uploads/2021/images-índice.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV05_ARTURO_MORALES.mp4"
 alt: "Capacita ICATECH a mediadores y conciliadores del Poder Judicial del Estado"
 front: false
 section: "Local"
-news_id: 190483
+redirect_from: /news/190483
 ---
 
 Con el fin de impulsar programas conjuntos de capacitación y certificación de medios alternativos de solución de conflictos en nuestra entidad el Supremo Tribunal de Justicia del Estado, Myriam Hernández Acosta y ICATECH, llevarán a cabo acciones para la capacitación de personal en materia de conciliación y mediación. 

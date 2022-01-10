@@ -10,11 +10,11 @@ author: nil
 description: "Becarios no realizaban ninguna función asevera la Gobernadora."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MJ02_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Encuentran nóminas infladas y becarios con salarios de 20 mil pesos"
 front: false
 section: "Local"
-news_id: 188235
+redirect_from: /news/188235
 ---
 
 Dentro de la revisión que se ha dado a la nómina de la pasada administración se ha detectado que se inflaron las nóminas de diversas áreas, esto como en la Secretaría de Desarrollo Social según lo dio a conocer la Gobernadora de Chihuahua, María Eugenia Campos Galván.

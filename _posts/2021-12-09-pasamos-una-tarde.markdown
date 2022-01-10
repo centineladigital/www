@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz compartió que cuando supieron de su popularidad en las redes la trataron como una celebridad y reveló que se hospedó en un hotel carísimo. "
 image: "/uploads/2021/images-erika-buenfil-revela-rob-schneider.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pasamos una tarde increíble -  Erika Buenfil revela que el actor Rob Schneider la buscó para trabajar con ella"
 front: false
 section: "Espectáculos"
-news_id: 190670
+redirect_from: /news/190670
 ---
 
 Erika Buenfil ha confesado que su carrera resurgió gracias a su éxito en las redes sociales, lo que le llevó a coronarse como La Reina del TikTok. Desde entonces la actriz se sumó a distintas producciones televisivas de la mano de Televisa, además de proyectos con otros influencers y campañas publicitarias, pero todo indica que la famosa estaría dando un saltó a Hollywood, pues reveló que el actor Rob Schneider la buscó para trabajar con ella.  Durante una entrevista para el programa Sale el Sol, Erika Buenfil relató cómo surgió su encuentro con el actor estadunidense -conocido por películas como Este cuerpo no es mío, Son como niños o Los calienta bancas- y compartió que grabó un episodio piloto para un programa que está produciendo la estrella de Hollywood, que ha compartido cámaras en más de una ocasión con Adam Sandler.  

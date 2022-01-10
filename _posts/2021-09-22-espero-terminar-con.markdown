@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "¿Laura Bozzo no escribió nada sobre el SAT en redes sociales? Asegura que su cuenta de Twitter fue hackeada. "
 image: "/uploads/2021/images-laura-bozzo-tras-delito-fiscal.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Espero terminar con esta pesadilla -  Laura Bozzo revela que su cuenta de Twitter fue hackeada"
 front: false
 section: "Espectáculos"
-news_id: 187951
+redirect_from: /news/187951
 ---
 
 Laura Bozzo, conductora de talk show, una vez más dio de qué hablar, pues reveló que su cuenta de Twitter fue hackeada. Esto a tan sólo unas horas de que reapareciera en redes sociales tras los problemas legales que enfrenta con el SAT y de que asegurara que no se entregó a las autoridades porque pagará lo que debe. 

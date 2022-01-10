@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El individuo, que además padece diabetes, comenzó a presentar necrosis en la zona de las mucosas 10 días después de haber superado el Covid"
 image: "/uploads/2021/images-2585425.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Primer caso de hongo negro es detectado en Uruguay"
 front: false
 section: "Internacional"
-news_id: 184683
+redirect_from: /news/184683
 ---
 
 Hace unas horas se dio a conocer el primer caso de mucormicosis, -padecimiento mejor conocido como 'hongo negro'-  en Uruguay. 

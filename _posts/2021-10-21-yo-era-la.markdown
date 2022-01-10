@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz aseguró que Sergio Andrade quiso lanzarla con la imagen que actualmente tiene Gloria Trevi, pero ella no quiso trabajar con él porque le advirtieron que era un maniático sexual. "
 image: "/uploads/2021/images-lorena-herrera-iba-gloria-trevi_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Yo era la que tenía que estar ahí -  Lorena Herrera revela que ella iba a ser Gloria Trevi"
 front: false
 section: "Espectáculos"
-news_id: 189048
+redirect_from: /news/189048
 ---
 
 Gloria Trevi, quien fue acusada de defraudación fiscal y lavado de dinero por parte de la Unidad de Inteligencia Financiera (UIF), saltó a la fama a principios de 1990 de la mano de Sergio Andrade, queconoció cuando ella tenía 15 años. A raíz de los problemas legales que enfrentaron ambos famosos -acusados de abuso de menores-, varias celebridades declararon que estuvieron a punto de trabajar con el productor, entre ellas Lorena Herrera. ​En aquella época, Sergio Andrade era uno los representantes y arreglistas musicales más buscados; él estuvo involucrado en impulsar las carreras de exitosas artistas como Lucero o Yuri. Según Lorena Herrera, el productor la buscó al inicio para apoyarla con el lanzamiento de su carrera y le propuso hacerlo bajo el concepto que actualmente lleva Gloria Trevi. 

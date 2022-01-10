@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La banda se presentó en el Autódromo Hermanos Rodríguez, donde ofreció sus grandes éxitos y novedades como “Money in the Bank” "
 image: "/uploads/2021/images-molotov-celebro-asi-su-regreso.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Molotov salda su deuda con sus fans al ofrecer un eufórico concierto"
 front: false
 section: "Espectáculos"
-news_id: 186388
+redirect_from: /news/186388
 ---
 
 Después de que cancelaron el concierto del primero de julio por un problema de salud de Miky, Molotov reventó la curva 4 del Autódromo Hermanos Rodríguez con su regreso al escenario, una presentación que mantuvo en alto el ánimo de los asistentes en más hora y media de música. 

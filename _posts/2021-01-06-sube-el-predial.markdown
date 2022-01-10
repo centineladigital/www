@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El incremento aproximado representa entre 200 hasta los 800 pesos por propiedad, dependiendo del valor de la propiedad o terreno, además de que el costo puede incrementar si existe actualización de las tablas de valor catastral"
 image: "/uploads/2021/images-predial.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sube el Predial 4.3% por la tasa de inflación anual"
 front: false
 section: "Local"
-news_id: 181897
+redirect_from: /news/181897
 ---
 
 A pesar de que algunos municipios en el estado decidieron no incrementar el costo inflacionario del Predial ante el golpe económico que genera la pandemia, en el Municipio de Chihuahua, sí se contabilizó un incremento del 4.3% por propiedad, según lo aprobado por unanimidad los integrantes del Cabildo.

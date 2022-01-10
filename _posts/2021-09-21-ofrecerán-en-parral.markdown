@@ -10,11 +10,11 @@ author: nil
 description: "Afirma Alcalde de Parral tener finanzas sanas."
 image: "/uploads/2021/images-PARRAL.jpg"
 video: "/uploads/2021/videos-MM05_CESAR_PEÑA_VALDEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Ofrecerán en Parral transporte gratuito a madres trabajadoras"
 front: false
 section: "Local"
-news_id: 187923
+redirect_from: /news/187923
 ---
 
 Dentro de los programas que se presentarán dentro del municipio de Parral, las madres trabajadoras en el centro serán beneficiarias de un programa de transporte gratuito, según fue dado a conocer por parte del Presidente Municipal, César Peña Valdez.

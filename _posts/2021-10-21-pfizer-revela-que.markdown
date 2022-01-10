@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las dos empresas sostienen que la cifra se da en formas sintomáticas de la enfermedad. "
 image: "/uploads/2021/images-vacuna-contra-covid-de-pfizer-1_0_22_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pfizer revela que tercera dosis de su vacuna anticovid tiene eficacia de 95.6%"
 front: false
 section: "Internacional"
-news_id: 189007
+redirect_from: /news/189007
 ---
 
 Una tercera dosis de la vacuna contra el covid-19 creada de forma conjunta por las empresas Pfizer y BioNTech tiene una eficacia de 95.6 por ciento contra las formas sintomáticas de la enfermedad pandémica, según un estudio que fue elaborado por los dos laboratorios, el cual fue publicado hoy. 

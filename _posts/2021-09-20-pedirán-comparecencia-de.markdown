@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que si la dependencia federal debe de trabajar o se destinen más recursos al estado para la atención de estos temas."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-ML01_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Pedirán comparecencia de titular de Migración "
 front: false
 section: "Local"
-news_id: 187889
+redirect_from: /news/187889
 ---
 
 Dentro de la mesa de seguridad se llegó a la conclusión de citar al Delegado del Instituto de Migración, esto luego de que la Fiscalía General logró el rescate de 340 migrantes ilegales que fueron detectados en una bodega en la colonia Vistas Cerro Grande. Así lo declaró la Gobernadora de Chihuahua, María Eugenia Campos Galván.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el fin de lograr un gobierno honesto y cercano con la ciudadanía"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-24_at_16.05.08.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Toma protesta Maru Campos a representantes de gobierno estatal en Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 188047
+redirect_from: /news/188047
 ---
 
 En el marco de su visita a Ciudad Juárez, la gobernadora, Maru Campos Galván, tomó protesta funcionarios que representarán al Gobierno del Estado en la Zona Norte de Chihuahua.

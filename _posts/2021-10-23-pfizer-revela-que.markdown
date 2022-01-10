@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La vacuna ya cuenta con la autorización regulatoria de Estados Unidos para personas de 12 años en adelante, incluida la aprobación total de la FDA en agosto para personas de 16 años en adelante. "
 image: "/uploads/2021/images-pfizer-prueba-vacuna-anticovid-ninos_1_0_1022_637.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pfizer revela que su vacuna anticovid tiene eficacia de 90% en menores de 5 a 11 años"
 front: false
 section: "Internacional"
-news_id: 189117
+redirect_from: /news/189117
 ---
 
 La farmacéutica estadunidense Pfizer informó este viernes que su vacuna contra el covid-19 mostró una eficacia de 90.7 por ciento en un ensayo clínico realizado a niños de 5 a 11 años. En el ensayo, Pfizer incluyó a 2 mil 268 del rango de edad, 16 niños que habían recibido un placebo se contagiaron de covid-19, en comparación de los que fueron vacunados, así lo informó la farmacéutica en documentos informativos presentados a la Administración de Drogas y Alimentos de Estados Unidos (FDA). 

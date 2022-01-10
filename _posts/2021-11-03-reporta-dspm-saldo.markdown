@@ -7,12 +7,12 @@ tags:
 author: nil
 description: " Gracias a la vigilancia implementada no se presentaron incidentes graves   "
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reporta DSPM saldo blanco en operativo por Día de Muertos"
 front: false
 section: "Local"
-news_id: 189506
+redirect_from: /news/189506
 ---
 
 Gracias al operativo de vigilancia conjunta entre policías, bomberos y personal de Protección Civil en los diferentes panteones municipales y privados por el Día de Muertos, la Dirección de Seguridad Pública Municipal, declaró saldo blanco al no reportarse incidentes de gravedad tanto al interior como al exterior de los mismos.

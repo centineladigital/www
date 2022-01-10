@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se llevará a cabo de forma virtual."
 image: "/uploads/2021/images-FEROA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_NANCY_FRIAS.mp3"
 alt: "Invitan a la feria universitaria de forma virtual"
 front: false
 section: "Local"
-news_id: 183256
+redirect_from: /news/183256
 ---
 
 De forma virtual este miércoles se lanzó la invitación para la Feria Universitaria 2021, en la que los estudiantes que están a punto de egresar de educación media superior puedan tener acceso a las opciones académicas. Según fue dado a conocer por parte de Nancy Frías, subdirectora de Juventud del Municipio.

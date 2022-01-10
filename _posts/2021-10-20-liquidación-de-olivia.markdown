@@ -16,11 +16,11 @@ author: nil
 description: "Se debe verificar que no se haya hecho de manera ilegal "
 image: "/uploads/2021/images-WhatsApp_Image_2_21_1__19_at_1.1_.28_PM.jpeg"
 video: "/uploads/2021/videos-BW06_MARIO_VAZQUEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Liquidación de Olivia Franco esta aclarada "
 front: false
 section: "Local"
-news_id: 188995
+redirect_from: /news/188995
 ---
 
 Respecto a las acusaciones que fueron dadas a la síndica Olivia Franco por indemnización indebida en el congreso del estado, el diputado Mario Vázquez mencionó que se tiene que revisar el aspecto legal y jurídico en relación a su separación del congreso.

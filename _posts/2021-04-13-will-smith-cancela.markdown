@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Compañías como Coca Cola, Apple y Delta también han amenazado con abandonar el estado a raíz de la reforma electoral. "
 image: "/uploads/2021/images-will-smith-cancela-rodaje-emancipation.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Will Smith cancela rodaje de 'Emancipation' en Georgia como protesta a ley electoral"
 front: false
 section: "Espectáculos"
-news_id: 183853
+redirect_from: /news/183853
 ---
 
 El actor y productor Will Smith se rehusó a filmar su próxima película, Emancipation, en el estado de Georgia, Estados Unidos. Esto como protesta a la ley electoral estatal recientemente aprobada que restringe el acceso al voto. 

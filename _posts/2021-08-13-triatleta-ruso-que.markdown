@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ígor Polyanskiy dio positivo por eritropoyetina; será suspendido y se abrirá una investigación"
 image: "/uploads/2021/images-igor-polyanskiy-triatleta-ruso-reuters_58_0_1085_676.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Triatleta ruso que participó en los Juegos Olímpicos da positivo a EPO"
 front: false
 section: "Deportes"
-news_id: 186640
+redirect_from: /news/186640
 ---
 
 El triatleta ruso Ígor Polyanskiy, que compitió en los Juegos Olímpicos de Tokio, ha dado positivo por eritropoyetina (EPO), según informó la Unión Internacional de Triatlón (ITU). La federación adelantó que Polyanskiy será suspendido, y que se abrirá una investigación que implicará tanto al atleta como a sus entrenadores por el consumo de una sustancia que incrementa la llegada de oxígeno a los músculos.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El número de muertos representa incluso la población de ciudades como Boston y Washington D.C.; se estima que más de 70 millones de estadunidense se han negado a vacunarse contra el covid-19."
 image: "/uploads/2021/images-hospitales-eu-visto-saturados-pacientes_0_21_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU supera las 700 mil muertes acumuladas por covid-19"
 front: false
 section: "Internacional"
-news_id: 188312
+redirect_from: /news/188312
 ---
 
 Las muertes en Estados Unidos por covid-19 superaron las 700 mil el viernes, según datos de la Universidad Johns Hopkins, una cifra que equivale aproximadamente a la población de la ciudad de Washington y de Boston, respectivamente. 

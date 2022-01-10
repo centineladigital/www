@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En las últimas 24 horas no se reportaron nuevas defunciones, por lo que el número de personas que han perdido la vida por COVID-19 se mantiene en 8 mil 352. "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 49 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 190305
+redirect_from: /news/190305
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 29 de noviembre el reporte COVID-19, en el cual se registran 85 mil 827 (+49) personas confirmadas en la entidad por este padecimiento, 73 mil 144 (+99) casos recuperados, 81 mil 001 (+21) descartados y 1,013 (+10) casos sospechosos.

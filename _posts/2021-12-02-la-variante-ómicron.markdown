@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ante la llegada del primer caso de ómicron, el gobernador de California declaró que esto no sería motivo para forzar el cierre del estado. "
 image: "/uploads/2021/images-gavin-newsom-gobernador-de-california-8.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La variante ómicron no provocará el cierre de California -  Gobernador Gavin Newsom"
 front: false
 section: "Internacional"
-news_id: 190422
+redirect_from: /news/190422
 ---
 
 La confirmación del primer caso estadounidense de la variante ómicron en California, no fue ninguna sorpresa para los expertos de salud, y el gobernador Gavin Newsom declaró que la presencia de la variante no es motivo para forzar el cierre de California antes de las vacaciones. 

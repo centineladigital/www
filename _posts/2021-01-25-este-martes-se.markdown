@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Al cumplirse seis meses y 18 días de la captura del exmandatario en Estados Unidos, llega a su fin el juicio para determinar si es traído para enfrentar a la justicia chihuahuense"
 image: "/uploads/2021/images-275202cesar.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Este martes se resuelve la extradición del exgobernador de Chihuahua preso en Miami"
 front: false
 section: "Local"
-news_id: 182421
+redirect_from: /news/182421
 ---
 
 Este martes 26 de enero a las 13:00 horas, tiempo de Miami, Florida, (11:00 am hora local), se desarrollará la audiencia final del juicio de extradición en contra del exgobernador de Chihuahua.

@@ -16,11 +16,11 @@ author: nil
 description: "Se debe trabajar en la modificación de algunos criterios para la regularización de estos vehículos,"
 image: "/uploads/2021/images-autos_chueco_chocolate.jpg"
 video: "/uploads/2021/videos-BW02_JUAN_LOERA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Importación de autos chuecos deriva un sinfín de delitos"
 front: false
 section: "Local"
-news_id: 189519
+redirect_from: /news/189519
 ---
 
 El delegado Federal Juan Carlos Loera De la Rosa manifestó, que el tema de los autos chuecos es un asunto trascendental puesto que el gobierno trata de proteger el patrimonio de las familias lo que desemboca un tema de seguridad puesto que algunos delincuentes toman estos autos chuecos para cometer delitos.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El reality de Televisa contará con 18 nuevos participantes, si no quieres perdértelo, aquí te contamos cómo puedes verlo en vivo y quiénes son los personajes. "
 image: "/uploads/2021/images-la_mascara.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Quién es la máscara 2021' -  Cuándo, a qué hora y dónde ver la tercera temporada"
 front: false
 section: "Espectáculos"
-news_id: 188499
+redirect_from: /news/188499
 ---
 
 Quién es la máscara está de vuelta con una tercera temporada que pondrá a prueba las habilidades analíticas y deductivas, al estilo Sherlock Holmes, de los jueces y el público para descubrir a las celebridades que se ocultan debajo de elaborados disfraces que van de seres mitológicos a alimentos; el reality es la nueva apuesta de Televisa para mantener a la audiencia dominical.  

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Llama Sedue a proteger  conservar y disfrutar las áreas naturales protegidas"
 image: "/uploads/2021/images-janos_área_natural_protegida_3.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "8 de Diciembre conmemoración de la Reserva de  la Biósfera de Janos declarada Área Natural Protegida"
 front: false
 section: "Buenas Noticias"
-news_id: 190642
+redirect_from: /news/190642
 ---
 
 Se conmemora hoy la declaración de La Reserva de la Biósfera Janos como Área Natural Protegida mediante decreto publicado el 8 de diciembre del 2009.

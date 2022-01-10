@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Para que empleadas municipales cuenten con espacio adecuado para extraer y almacenar leche"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cuenta Gobierno Municipal con nuevo lactario; ahora en el IMPLAN"
 front: false
 section: "Local"
-news_id: 188959
+redirect_from: /news/188959
 ---
 
 Con la puesta en mente de un gobierno más incluyente, el alcalde Marco Bonilla inauguró un lactario ubicado dentro de las instalaciones del Instituto de Planeación Integral de Municipio (IMPLAN) con el fin de ofrecer un espacio para que las empleadas municipales en etapa de lactancia puedan amamantar a sus bebes o almacenar leche.

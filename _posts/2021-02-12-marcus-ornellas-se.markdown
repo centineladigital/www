@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El pequeño Diego tiene 4 años y es hijo del brasileño con la actriz Ariadne Díaz. "
 image: "/uploads/2021/images-marcus-ornellas-ariadne-diaz-hijo_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Marcus Ornellas se defiende de críticas por dejar a su hijo usar vestido y tacones"
 front: false
 section: "Espectáculos"
-news_id: 182885
+redirect_from: /news/182885
 ---
 
 Marcus Ornellas decidió responder a quienes lo critican a él y a su pareja, la actriz Ariadne Díaz, por "dejar" que su hijo use ropa "de mujer" para jugar, esto luego de que Díaz compartiera un video en sus redes sociales en el que el pequeño aparece bailando con una falda y tacones puestos. El actor de Monarca expresó que él no le encuentra nada de malo a que su hijo utilice falda pues expresó que "así como se pone la ropa y zapatos de mamá se pone los de papá y no hay ningún problema" 

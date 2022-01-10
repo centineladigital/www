@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este sería el segundo bebé de la actriz, pues procreó a Rose, de 6 años, con su ex esposo Romain Dauriac. "
 image: "/uploads/2021/images-actriz-pareja-comediante-colin-jost.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Será mamá por segunda vez? Reportan que Scarlett Johansson está embarazada"
 front: false
 section: "Espectáculos"
-news_id: 185413
+redirect_from: /news/185413
 ---
 
 ¿Scarlett Johansson está embarazada? La protagonista de la cinta Black Widow estaría esperando un bebé con su pareja, el comediante Colin Jost, así lo reportó este martes el sitio especializado en celebridades Page Six.  El medio señaló que la actriz desató los rumores de su embarazo el mes pasado, pues no participó en varios eventos promocionales de la película sobre la heroína de Marvel.  

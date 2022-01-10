@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los países de la Unión Europea fronterizos con Bielorrusia, en particular Lituania, Letonia y Polonia, afrontan desde hace meses la llegada de migrantes. "
 image: "/uploads/2021/images-vladimir-putin-presidente-de-rusia-15_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vladímir Putin urge a Europa acoger a afganos atrapados en frontera con Bielorrusia"
 front: false
 section: "Internacional"
-news_id: 187611
+redirect_from: /news/187611
 ---
 
 El presidente de Rusia, Vladímir Putin, instó a Europa acoger a los refugiados afganos atrapados en la frontera Bielorrusa con Lituania, Letonia y Polonia, que culpan al régimen de Alexandr Lukashenko de utilizar la inmigración como arma política contra la Unión Europea. 

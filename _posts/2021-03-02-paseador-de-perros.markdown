@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras el robo de los perros de Lady Gaga, el paseador de las mascotas fue baleado y ahora habló sobre lo sucedido y su recuperación. "
 image: "/uploads/2021/images-paseador-perros-lady-gaga-hospital.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Paseador de perros de Lady Gaga relata lo que vivió tras el robo de las mascotas"
 front: false
 section: "Espectáculos"
-news_id: 183226
+redirect_from: /news/183226
 ---
 
 Hace unos días se informó que habían robado a dos de los tres perros de Lady Gaga, esto después de que dos hombres atacaran y dispararan al cuidador de las mascotas, Ryan Fischer, quien tras es robo fue trasladado al hospital para recibir atención médica tras las heridas de bala que recibió. Ahora, el hombre habló sobre lo sucedido y le agradeció a la cantante por su apoyo. Este lunes el paseador de los perros de Lady Gaga describió la violencia que sufrió y su recuperación después de “estar muy cerca de la muerte” en unas publicaciones a través de Instagram. 

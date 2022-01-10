@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "China cierra los accesos a la ciudad de Shijiazhuang, de 11 millones de habitantes, debido a un brote de covid-19"
 image: "/uploads/2021/images-2507142.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aísla China ciudad de 11 millones de habitantes por brote"
 front: false
 section: "Internacional"
-news_id: 181900
+redirect_from: /news/181900
 ---
 
 China decidió restringir la movilidad en una ciudad del norte del país de 11 millones de habitantes el miércoles en un intento de erradicar un brote de covid-19, al tiempo que en otra provincia se detectó la nueva variante del virus hallada en Sudáfrica.

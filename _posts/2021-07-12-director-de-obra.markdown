@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Juan Mario Velarde Gámez fue declarado culpable de homicidio doloso tras la muerte de 26 personas al derrumbarse la escuela por el sismo de 2017. "
 image: "/uploads/2021/images-escuela-rebsamen-registraron-fallecidos-ninos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Director de obra del Colegio Enrique Rébsamen comparece ante tribunal de CdMx"
 front: false
 section: "Nacional"
-news_id: 185553
+redirect_from: /news/185553
 ---
 
 Juan Mario Velarde Gámez, director Responsable de Obra (DRO) declarado culpable de homicidio doloso tras la muerte de 26 personas al derrumbarse el Colegio Enrique Rébsamen durante el sismo de 2017, comparece ante un tribunal de enjuiciamiento que determinará su pena en prisión y la reparación del daño por cada una de las víctimas.

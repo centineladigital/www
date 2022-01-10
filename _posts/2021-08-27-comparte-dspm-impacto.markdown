@@ -12,13 +12,13 @@ tags:
   
 author: nil
 description: "Chihuahua capital entró a una nueva etapa en seguridad con la implementación de la Plataforma Escudo Chihuahua"
-image: "nil"
-video: "nil"
-audio: "nil"
+image: nil
+video: nil
+audio: nil
 alt: "Comparte DSPM impacto en seguridad gracias a PECUU en el Foro de Competitividad 2021"
 front: false
 section: "Local"
-news_id: 187209
+redirect_from: /news/187209
 ---
 
 El Gobierno Municipal a través de la Dirección de Seguridad Pública Municipal participó en Foro de Competitividad Chihuahua 2021 donde se compartieron los adelantos tecnológicos e impactos en seguridad que se han tenido en la ciudad con la implementación de la Plataforma Escudo Chihuahua (PECUU).

@@ -14,11 +14,11 @@ author: nil
 description: "Al igual que la pasada elección en cinco seccionales, la del domingo fue tranquila y sin contratiempos registrándose "
 image: "/uploads/2021/images-ERNESTO_IBARRA_SARMIENTO.jpeg"
 video: "/uploads/2021/videos-BL06_ERNESTO_IBARRA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Ratifican a 26 Comisarios de Policía en elecciones "
 front: false
 section: "Local"
-news_id: 189669
+redirect_from: /news/189669
 ---
 
 El Regidor  Ernesto Ibarra Sarmiento dio a conocer  los resultados de la jornada de elecciones celebrada el pasado domingo en las comunidades que conforman el Municipio de Chihuahua fueron definidas por los habitantes de la zona rural quienes ratificaron  mediante plebiscito a 26 Comisarios de Policía.

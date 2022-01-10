@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Quienes cumplen el requisito deben llevar el comprobante de haber recibido la primera dosis de Sinovac, identificación oficial, copia de la CURP y su expediente de vacunación"
 image: "/uploads/2021/images-Vacunas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hoy viernes solo vacunación de segunda dosis Sinovac para personas de 65 años y más"
 front: false
 section: "Local"
-news_id: 184331
+redirect_from: /news/184331
 ---
 
 La jornada de vacunación contra COVID-19 continúa este viernes 7 de mayo en la ciudad de Chihuahua, con la aplicación de la segunda dosis de la vacuna Sinovac exclusivamente para personas de 65 años y más, informó la Secretaría de Salud.

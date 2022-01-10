@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Detalles de Copa America este viernes 09 de julio. "
 image: "/uploads/2021/images-colombia-vs-peru-horario-vivo.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Perú vs Colombia -  Horario y dónde ver EN VIVO el partido por el tercer lugar de Copa América"
 front: false
 section: "Deportes"
-news_id: 185495
+redirect_from: /news/185495
 ---
 
 Antes de conocer al campeón de la Copa América, este viernes Colombia y Perú se medirán por el decoroso tercer lugar del certamen, luego de ceder el puesto en la gran final por lo que ambos llegan con la ambición de subirse al podio en su último intento. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Participarán agrupaciones corales integradas por alumnas y alumnos de escuelas primarias y secundarias"
 image: "/uploads/2021/images-FOTO_DE_ARCHIVO_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentará Modelo Educativo Música en mi Escuela el Festival Navideño “Campana sobre Campana”"
 front: false
 section: "Local"
-news_id: 189162
+redirect_from: /news/189162
 ---
 
 La Secretaría de Educación y Deporte (SEyD), a través del Modelo Educativo Música en mi Escuela, retomará la estructura original de este programa para su implementación en escuelas de Educación Básica del estado a través del proyecto “Campana sobre Campana” durante el mes de diciembre.

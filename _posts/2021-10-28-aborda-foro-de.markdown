@@ -9,12 +9,12 @@ tags:
 author: nil
 description: " Las propuestas se incorporarán al Plan Estatal de Desarrollo 2022-2027"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aborda Foro de Buen Gobierno transparencia y rendición de cuentas"
 front: false
 section: "Local"
-news_id: 189321
+redirect_from: /news/189321
 ---
 
 La titular de la Secretaría de la Función Pública,  María de los Ángeles Álvarez Hurtado, encabezó el Foro Buen Gobierno, encaminado a mejorar el desempeño de la actual administración estatal en rubros como transparencia y rendición de cuentas, corrupción, mejora regulatoria, eficiencia administrativa, calidad en el Gobierno, presupuesto basado en resultados, igualdad y no discriminación.

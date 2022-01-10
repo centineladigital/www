@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de un video que circula en redes sociales en donde se mostró la forma en la que Eduin Caz, vocalista del Grupo Firme, reaccionó ante la imprudencia de un fan. "
 image: "/uploads/2021/images-aplauden-epica-reaccion-eduin-caz.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Regrésenle su dinero -  Eduin Caz, vocalista de Grupo Firme, corre de forma épica a fan de concierto"
 front: false
 section: "Espectáculos"
-news_id: 189296
+redirect_from: /news/189296
 ---
 
 Eduin Caz, vocalista del Grupo Firme, volvió a demostrarpor qué es uno de los cantantes que cuenta con más seguidores en los últimos años. Y es que con temple y sin mostrar prepotencia, el intérprete reaccionó de forma épica a la hora de confrontar a un fan que le aventó cerveza al escenario. ¿Cómo reaccionó? ¿Lo exhibió? ¿Lo corrió? Te contamos cómo reaccionó Eduin Caz. Fue a través de un video que circula en redes sociales en donde se mostró la forma en la que Eduin Caz, vocalista del Grupo Firme, reaccionó ante la imprudencia de un fan. 

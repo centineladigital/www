@@ -14,11 +14,11 @@ author: nil
 description: "Se concentran en los municipios de Juárez (+34) Chihuahua (+9), Delicias (+5), Meoqui (+1) y Buenaventura (+1)."
 image: "/uploads/2021/images-Sin_título.png"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-10-19_at_12.58.08.3gpp"
-audio: "nil"
+audio: nil
 alt: "Se registran 50 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 188921
+redirect_from: /news/188921
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 19 de octubre el reporte COVID-19, en el cual se registran 79 mil, 920 (+50) personas confirmadas en la entidad por este padecimiento,    69 mil 373 (+123) casos recuperados, 72 mil 542 (+40) descartados y 753 (-4) casos sospechosos.

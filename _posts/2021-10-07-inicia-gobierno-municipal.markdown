@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La obra forma parte del Presupuesto Participativo 2021"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia Gobierno Municipal construcción de gimnasio en la Secundaria Técnica # 40   "
 front: false
 section: "Local"
-news_id: 188483
+redirect_from: /news/188483
 ---
 
 El alcalde de Chihuahua Marco Bonilla encabezó el arranque de obra del gimnasio de usos múltiples en la Secundaria Técnica número 40, obra que corresponde a uno de los proyectos ganadores del Presupuesto Participativo 2021 que impulsa el Gobierno Municipal.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Pese a que va con buen paso rumbo al Mundial Qatar 2022, el equipo dirigido por Gerardo Martino parece no conectar mucho con la afición de la Ciudad de México"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Desesperada, Femexfut regala boletos para juego de la Selección Mexicana"
 front: false
 section: "Deportes"
-news_id: 188458
+redirect_from: /news/188458
 ---
 
 Cómo estarán las cosas para el juego de hoy entre las Selecciones de México y Canadá que la Federación Mexicana de Futbol puso los boletos al dos por uno; es decir, si se compra una entrada para el encuentro de esta noche, se regala otro —de la misma zona— para el del domingo frente a Honduras.

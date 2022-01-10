@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de redes sociales, The Cranberries recordó a su vocalista, Dolores O'Riordan en su cumpleaños. "
 image: "/uploads/2021/images-the-cranberries-recuerda-dolores-riordan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con tierno mensaje, The Cranberries recuerda a Dolores O'Riordan en su cumpleaños"
 front: false
 section: "Espectáculos"
-news_id: 187453
+redirect_from: /news/187453
 ---
 
 El grupo de rock que se volviera famoso en los años 90, The Cranberries, recordó con una publicación en redes sociales a Dolores O'Riordan, su vocalista quien murió en 2018 a causa de un ahogamiento por intoxicación etílica. 

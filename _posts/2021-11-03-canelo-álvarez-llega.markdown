@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A dos años de su última presentación en el MGM, Canelo está de vuelta en uno de los recintos de boxeo más emblemáticos "
 image: "/uploads/2021/images-canelo-alvarez-eddy-reynoso-erika_0_86_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Canelo' Álvarez llega al MGM Grand Garden Arena para enfrentar a Caleb Plant"
 front: false
 section: "Deportes"
-news_id: 189500
+redirect_from: /news/189500
 ---
 
 Saúl El Canelo Álvarez regresó a Las Vegas en busca de más historias para su récord; el peleador de 31 años disputará este fin de semana el título indiscutido de la división supermedia, categoría que nunca ha tenido un rey absoluto. 

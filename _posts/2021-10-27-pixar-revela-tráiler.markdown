@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de plataformas digitales, Disney y Pixar dieron a conocer el tráiler oficial de 'Lightyear' y revelaron su fecha tentativa de estreno. "
 image: "/uploads/2021/images-chris-evans-protagoniza-lightyear-especial.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pixar revela tráiler oficial de 'Lightyear' con Chris Evans como protagonista"
 front: false
 section: "Espectáculos"
-news_id: 189249
+redirect_from: /news/189249
 ---
 
 El Capitán América favorito de todos los fans de Marvel está de regreso, pero esta vez en un estudio diferente, aunque igualmente propiedad del gigante del entretenimiento Disney. Chris Evans interpreta a quien inspirara el juguete de Buzz Lightyear en el spin-off de la aclamada saga de Toy Story, una producción llamada 'Lightyear'.

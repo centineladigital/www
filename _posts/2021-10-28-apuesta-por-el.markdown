@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal lleva actividades a escuelas, unidades deportivas y empresas maquiladoras"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Apuesta por el desarrollo de talentos deportivos de la capital"
 front: false
 section: "Local"
-news_id: 189308
+redirect_from: /news/189308
 ---
 
 El deporte masivo, escolar, laboral y profesional, son los cuatro ejes que el Gobierno Municipal a través del Instituto Municipal de Cultura Física y Deporte (IMCFD), trabaja para el desarrollo de deportistas y fomento de la cultura del deporte.

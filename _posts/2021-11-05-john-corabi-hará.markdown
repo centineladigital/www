@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La velada musical es parte del GDL Biker Party que se realiza este sábado y en el que participan Wilde Side, AVN y el colectivo Fase. "
 image: "/uploads/2021/images-john-corabi-acompanara-canciones-anecdotas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "John Corabi hará concierto acústico en Guadalajara"
 front: false
 section: "Espectáculos"
-news_id: 189579
+redirect_from: /news/189579
 ---
 
 John Corabi se presenta este sábado en avenida Vicente Guerrero 656-995, en Agua Blanca Industrial Zapopan. Se trata de un evento de Gdl Biker Party que abrirá sus puertas desde las 16:00 horas. 

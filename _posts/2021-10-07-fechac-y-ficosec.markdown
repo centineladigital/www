@@ -14,11 +14,11 @@ author: nil
 description: "“Son dos instituciones que nos han beneficiado muchísimo” "
 image: "/uploads/2021/images-big_2yjgnc5f.jpg"
 video: "/uploads/2021/videos-BJ03_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "FECHAC Y FICOSEC no deben desaparecer -  Marco Bonilla "
 front: false
 section: "Local"
-news_id: 188494
+redirect_from: /news/188494
 ---
 
 El Presidente Marco Bonilla Mendoza,  manifestó que esta en total desacuerdo con el hecho de que se eliminen las instituciones como FECHAC Y FICOSEC ya que en palabras del Alcalde han generado proyectos de relevancia al municipio, “son dos instituciones que nos han beneficiado muchísimo” comentó.

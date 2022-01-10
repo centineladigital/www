@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente adelantó que su iniciativa no está contemplada en la agenda para la próxima semana, pero, en caso de que preguntaran, les explicaría de qué se trata. "
 image: "/uploads/2021/images-presidente-descarto-explicar-reforma-electrica_0_0_1200_747_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO no discutirá reforma eléctrica en cumbre con Joe Biden en EU"
 front: false
 section: "Nacional"
-news_id: 189730
+redirect_from: /news/189730
 ---
 
 Al confirmar la novena Cumbre de Líderes de América del Norte entre México, Estados Unidos y Canadá, el próximo 18 de noviembre, el presidente Andrés Manuel López Obrador precisó que no está en la agenda el tema de la reforma eléctrica, pero en caso de que surgiera, “explicaríamos de que se trata”. 

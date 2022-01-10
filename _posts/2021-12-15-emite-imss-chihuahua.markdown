@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los materiales con los que se fabrican funcionan como combustibles de rápida ignición y dan poco tiempo para controlar el fuego que producen"
 image: "/uploads/2021/images-Foto_6248-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite IMSS Chihuahua recomendaciones para evitar incendios de árboles navideños "
 front: false
 section: "Local"
-news_id: 190878
+redirect_from: /news/190878
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, recomienda a la población mantener las medidas de seguridad con el uso del árbol navideño, ya que los materiales que  lo componen son altamente inflamables, por lo que fácilmente pueden causar un incendio en caso de un corto circuito.

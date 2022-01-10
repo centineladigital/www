@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Joaquín Pardavé destacó por su carrera en el Cine de Oro Mexicano, pero su muerte estuvo rodeada de un misterio. Algunos aseguran que fue enterrado vivo."
 image: "/uploads/2021/images-joaquin-pardave-murio-el-de.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Fue enterrado vivo? Ésta es la leyenda urbana sobre la muerte de Joaquín Pardavé"
 front: false
 section: "Espectáculos"
-news_id: 185832
+redirect_from: /news/185832
 ---
 
 Durante la Época de Oro de Cine en México varios actores lograron consolidar su carrera, entre ellos Joaquín Pardavé, quien trabajó en diversas películas como En tiempo de don Porfirio, En un burro tres baturros o Ahí está el detalle. A pesar de que tenía una carrera exitosa, el histrión murió inesperadamente el 20 de julio de 1955. 

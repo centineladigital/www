@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Instalan nuevo comité del Fideicomiso del agua, presidido por el acalde Marco Bonilla"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Apuesta Gobierno Municipal por el cuidado y aprovechamiento del agua   "
 front: false
 section: "Local"
-news_id: 189178
+redirect_from: /news/189178
 ---
 
 El alcalde, Marco Bonilla, presidió la instalación del nuevo comité del Fideicomiso del agua, que se encargará de anteponer los proyectos y acciones que beneficien a la ciudad de Chihuahua en el tema del vital líquido.

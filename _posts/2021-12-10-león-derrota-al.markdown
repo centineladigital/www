@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El León derrotó 3-2 al Atlas en la ida de la final del Apertura 2021"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "León derrota al Atlas y logra la ventaja en la final de la Liga MX"
 front: false
 section: "Deportes"
-news_id: 190698
+redirect_from: /news/190698
 ---
 
 Futbol de momentos, quien la tiene la aprovecha y Atlas casi se sale con la suya, pero apareció un ángel y le dio el triunfo parcial al León. Ángel Mena no quería acercarse al punto de penalti, mucha gente en el manchón, pero cuando tomó el balón sabía donde lo iba a tirar, reventó la red y puso a La Fiera con una mano en el trofeo.

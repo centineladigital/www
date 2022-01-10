@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Puedes depositar la basura en el contenedor o sacarla al frente de tu casa"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estará programa destilichadero en 13 colonias la siguiente semana   "
 front: false
 section: "Local"
-news_id: 190764
+redirect_from: /news/190764
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, llevará el programa de destilichadero a trece colonias durante la semana del 13 al 17 de diciembre, con el objetivo de recolectar basura de grandes dimensiones.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Aunque Estados Unidos, su adversario del viernes, tiene a varios jugadores en Europa, la Selección Nacional continúa mejor tasada a nivel colectivo"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La Selección Mexicana, mejor tasada que la de Estados Unidos"
 front: false
 section: "Deportes"
-news_id: 189680
+redirect_from: /news/189680
 ---
 
 Con más de una decena de futbolistas que militan en clubes europeos, la selección de Estados Unidos presume tener a la “mejor generación” en su historia, pero eso —ni haber derrotado al Tricolor en las recientes finales de la Leagues Cup y la Copa de Oro— le permite estar mejor tasada que su acérrimo rival.

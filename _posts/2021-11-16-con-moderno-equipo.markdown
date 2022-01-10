@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Estación Meteorológica Automatizada permitirá recibir en tiempo real datos climatológicos. Servirá para el monitoreo de temperaturas, suelos, humedad y viento"
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-16_at_10.42.57.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con moderno equipo meteorológico UACH podrá alertar a agricultores de la zona sur sobre factores de riesgo en sus sembradíos"
 front: false
 section: "Local"
-news_id: 189874
+redirect_from: /news/189874
 ---
 
 Con el objetivo de contribuir en el desarrollo de las actividades agrícolas de la región centro-sur del estado de Chihuahua, personal de la Facultad de Ciencias Agrícolas y Forestales de la UACH pusieron en marcha la Estación Meteorológica automatizada con tecnología de punta, que permitirá recibir en tiempo real datos climatológicos.

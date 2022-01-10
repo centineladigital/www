@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante reapareció vestido con una túnica blanca durante un servicio dominical cristiano que ofició Kanye West. "
 image: "/uploads/2021/images-marilyn-manson-servicio-religioso-kanye.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Ya es cristiano? Captan a Marilyn Manson en servicio religioso junto a Kanye West y Justin Bieber"
 front: false
 section: "Espectáculos"
-news_id: 189486
+redirect_from: /news/189486
 ---
 
 Luego de que fuera detenido y liberado tras pagar una fianza por cargos de agresión en un concierto, Marilyn Manson volvió a dar de qué hablar tras reaparecer vestido completamente de blanco durante un servicio religioso que presidieron el pasado domingo los artistas Kanye West y Justin Bieber, conocidos por profesar el cristianismo; su actuación generó revuelo en redes sociales. Brian Hugh Warner, nombre real de Marilyn Manson, es un popular cantante de rock reconocido por lucir extravagantes looks en color negro y un intenso delineado en los ojos. Durante las décadas de 1990 y 2000, se decía que el compositor pertenecía a la "iglesia de Satanás", rumores que incrementaron cuando lanzó su álbum Antichrist Superstar. 

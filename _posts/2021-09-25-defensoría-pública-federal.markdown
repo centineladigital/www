@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El asesor federal jurídico del IFDP, Jorge Oscar González, ha realizado varias solicitudes ante el Instituto Nacional de Migración para que los migrantes puedan iniciar su trámite en Ciudad Acuña. "
 image: "/uploads/2021/images-el-inm-aseguro-que-no.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Defensoría Pública Federal asesora a migrantes haitianos en solicitud de refugio"
 front: false
 section: "Nacional"
-news_id: 188060
+redirect_from: /news/188060
 ---
 
 Asesores del Instituto Federal de la Defensoría Pública se reunieron este viernes con los migrantes haitianos que permanecen en el parque ecológico Braulio Fernández, para brindarles asesoría y apoyarlos con los trámites de solicitud de refugio humanitario en México, sílo si su intención es vivir en la frontera del país mexicano y no en Estados Unidos. 

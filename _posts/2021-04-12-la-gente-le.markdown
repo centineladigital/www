@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante también habló de su reciente colaboración con Gloria Trevi, a quien escuchaba a escondidas cuando tenía 12 años. "
 image: "/uploads/2021/images-mon-laferte-instagram-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La gente le tiene miedo -  Mon Laferte revela que ha sufrido rechazo por ser feminista"
 front: false
 section: "Espectáculos"
-news_id: 183826
+redirect_from: /news/183826
 ---
 
 Aunque señala que ser feminista le ha costado el rechazo de una parte de su público, Mon Laferte asegura que esto no ha mermado sus convicciones, al contrario: éstas se reafirman en Seis, su nuevo álbum inspirado en Chavela Vargas y donde colaboró con otras celebridades, como Gloria Trevi en la canción "La Mujer". "Es medio difícil hoy decir; 'Soy feminista', la gente le tiene miedo, causa un rechazo", comentó la artista chilena en una entrevista por videollamada con motivo del lanzamiento de su más reciente trabajo.

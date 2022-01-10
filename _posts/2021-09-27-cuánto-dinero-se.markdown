@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¿De cuánto es el premio de ‘El juego del Calamar’? ¿En pesos mexicanos de cuánto dinero estamos hablando? Te contamos nuevos detalles de la famosa serie de Netflix que está dando mucho de qué hablar. "
 image: "/uploads/2021/images-premio-juego-calamar-pesos-mexicanos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cuánto dinero se llevó el ganador de 'El juego del calamar'? Éste es el monto en pesos mexicanos"
 front: false
 section: "Espectáculos"
-news_id: 188114
+redirect_from: /news/188114
 ---
 
 La serie ‘El juego del calamar’ de Netflix sigue dando de qué hablar. Se ha vuelto el top de la plataforma de streaming. Incluso, se ha posicionado como el tema más hablado entre críticos, televidentes, tiktokers y usuarios de redes sociales. Y es que la serie que tiene como hilo narrativo el dinero y lo que se haría para conseguirlo en un juego entre personas que están endeudadas, nos envuelve hasta el final, en donde hay ‘un ganador’. Pero ¿de cuánto es el premio de ‘El juego del Calamar’? ¿En pesos mexicanos de cuánto dinero estamos hablando? 

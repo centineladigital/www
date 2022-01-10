@@ -20,11 +20,11 @@ author: nil
 description: "No se debe generalizar a los elementos de la policía municipal "
 image: "/uploads/2021/images-unnamed.jpg"
 video: "/uploads/2021/videos-BJ04_JULIO_SALAS.mp4"
-audio: "nil"
+audio: nil
 alt: "Mientras este  mi dirección no permitiremos actos corruptos -  Julio Salas"
 front: false
 section: "Local"
-news_id: 191363
+redirect_from: /news/191363
 ---
 
 El Director de Seguridad Pública Municipal Julio Salas mencionó, que en actos corruptos o de abuso de autoridad por parte de elementos de la Policía Municipal se tomarán cartas en el asunto y no permitirá ninguno de estos delitos bajo su dirección.

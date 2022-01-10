@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El equipo de la OMS se había reunido antes en el día con sus homólogos chinos por primera vez en persona en un hotel, y el organismo explicó que después se realizarían visitas a lugares clave en la ciudad del centro del país"
 image: "/uploads/2021/images-2520454.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Equipo OMS visita hospital que tuvo primeros casos de Covid"
 front: false
 section: "Internacional"
-news_id: 182543
+redirect_from: /news/182543
 ---
 
 Expertos de la Organización Mundial de la Salud visitaron el viernes un hospital de Wuhan donde, según China, se atendió a los primeros pacientes con COVID-19 hace más de un año, dentro de la esperada misión de investigación de la agencia de salud de Naciones Unidas sobre los orígenes del coronavirus.

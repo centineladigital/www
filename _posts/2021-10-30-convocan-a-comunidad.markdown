@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Los ganadores de cada una de las tres categorías, recibirán un estímulo de 100 mil pesos, un reconocimiento y una pieza única de artesanía regional   "
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Convocan a comunidad científica a participar en el Premio Estatal de Ciencia, Tecnología e Innovación Chihuahua 2021   "
 front: false
 section: "Local"
-news_id: 189417
+redirect_from: /news/189417
 ---
 
 Para estimular el quehacer científico en el estado de Chihuahua, el Instituto de Innovación y Competitividad (I2C) convoca al Premio Estatal de Ciencia, Tecnología e Innovación Chihuahua 2021, que ofrece un estímulo económico de 100 mil pesos a los ganadores de cada una de sus tres categorías.

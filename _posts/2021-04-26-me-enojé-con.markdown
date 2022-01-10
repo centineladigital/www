@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A Christian no le interesaba hacer un circo ni de su enfermedad, ni de su muerte, ni de nada, le contó el actor a la periodista Mara Patricia Castañeda. "
 image: "/uploads/2021/images-formaron-matrimonios-estables-mundo-espectaculo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me enojé con todo lo divino -  Humberto Zurita revela cómo enfrentó la muerte de Christian Bach"
 front: false
 section: "Espectáculos"
-news_id: 184122
+redirect_from: /news/184122
 ---
 
 El 26 de febrero de 2019 ha sido el día más duro y triste en la vida de Humberto Zurita, pues en esa fecha falleció la talentosa actriz Christian Bach, con quien el actor mexicano estuvo casado durante más de 30 años.  Desde entonces, el papá de Emiliano y Sebastián Zurita ha llevado un proceso que lo ha hecho pasar momentos de mucho enojo, pero también de mucho aprendizaje. Así lo reveló durante una entrevista con Mara Patricia Castañeda. Aunque primero habló sobre cómo enfrentó su esposa el final: "A Christian no le interesaba hacer un circo ni de su enfermedad, ni de su muerte, ni de nada. Ella siempre fue una persona muy congruente con su vida, una persona muy inteligente. Me dicen: ‘¿Qué era lo que más le gustaba a Christian?’. Y era su inteligencia. Esa sí era una mujer empoderada, adelantada a su tiempo en ese sentido". 

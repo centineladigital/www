@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La interesante anécdota de Ávalos con 'La Doña' suma miles de reproducciones en TikTok y aquí te mostramos por qué. "
 image: "/uploads/2021/images-maria-felix-aparecio-suenos-alejandra_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Te voy a enseñar cómo ser una gran diva -  El día que María Félix se le apareció en sueños a Alejandra Ávalos para nombrarla su sucesora"
 front: false
 section: "Espectáculos"
-news_id: 189696
+redirect_from: /news/189696
 ---
 
 María Félix es el máximo ícono del cine mexicano de todos los tiempos, y es que el asombroso talento, la personalidad inigualable y la indiscutible belleza de La Doña la volvieron todo un referente de nuestro país en el mundo, por tal motivo los secretos y misterios en torno a su vida siguen dando de qué hablar hasta nuestro días.  Tal es el caso de una anécdota que se ha hecho viral una vez más, del día que Alejandra Ávalos afirmó que María Félix "se le apareció" en sueños para decirle que sería su "sucesora". 

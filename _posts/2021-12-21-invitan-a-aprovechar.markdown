@@ -18,11 +18,11 @@ author: nil
 description: "Descuento en recargos de predial hasta por un 80 por ciento "
 image: "/uploads/2021/images-squaremedium_yfmeyd3x.jpg"
 video: "/uploads/2021/videos-BM04_JOSE_LUIS_DE_LA_MADRID_.mp4"
-audio: "nil"
+audio: nil
 alt: "Invitan a aprovechar los descuentos del predial "
 front: false
 section: "Local"
-news_id: 191095
+redirect_from: /news/191095
 ---
 
 José Luis De la Madrid, subdirector de Ingresos de la Tesorería del municipio,  dio a conocer que solo hasta el 30 de diciembre se tendrá en vigencia el descuento en recargos de predial hasta por un 80 por ciento, debido que se tiene que actualizar las bases de tarifas para el arranque del año 2022.  

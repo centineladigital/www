@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En coordinación con el DIF Estatal y la Coepi, se otorgan apoyos alimentarios a familias vulnerables de más de mil 500 alumnas y alumnos de 20 planteles del Colegio de Estudios Científicos y Tecnológicos del Estado de Chihuahua"
 image: "/uploads/2021/images-despensas1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Apoya Gobierno del Estado con despensas  a estudiantes del Cecytech"
 front: false
 section: "Local"
-news_id: 182071
+redirect_from: /news/182071
 ---
 
 El Colegio de Estudios Científicos y Tecnológicos del Estado de Chihuahua (Cecytech), en coordinación con el DIF Estatal y la Comisión Estatal para los Pueblos Indígenas (Coepi), continúan con la entrega de despensas, en apoyo de estudiantes y sus familias, que se encuentran en situación de vulnerabilidad económica.

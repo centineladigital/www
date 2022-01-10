@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los documentos son parte de la enorme cantidad de pruebas que la fiscalía de Nueva York planea presentar en un juicio contra el ex secretario mexicano. "
 image: "/uploads/2021/images-genaro-garcia-luna-secretario-seguridad-8_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México envía documentos a EU sobre caso de Genaro García Luna"
 front: false
 section: "Nacional"
-news_id: 188211
+redirect_from: /news/188211
 ---
 
 Fiscales estadunidenses informaron que entregaron al abogado del ex secretario de Seguridad Pública, Genaro García Luna, acusado de narcotráfico, documentos enviados por el gobierno mexicano que detallan sus actividades comerciales.

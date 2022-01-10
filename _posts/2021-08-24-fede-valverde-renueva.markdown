@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El jugador del conjunto blanco extendió su vínculo por seis temporadas, siendo el contrato más largo del club"
 image: "/uploads/2021/images-fede-valverde-renueva-contrato-real_1_0_1198_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fede Valverde renueva con el Real Madrid hasta 2027"
 front: false
 section: "Deportes"
-news_id: 187033
+redirect_from: /news/187033
 ---
 
 El centrocampista uruguayo Federico Valverde ha renovado su contrato con el Real Madrid hasta el 30 de junio de 2027, anunció hoy el club blanco. 

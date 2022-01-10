@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La farmacéutica aseguró que si la efectividad de su vacuna se ve comprometida con la variante omicron nos vemos en la necesidad de crear una nueva vacuna; dicen que la entregarían en menos de 100 días. "
 image: "/uploads/2021/images-vacuna-pfizer-baja-eficacia-variante_0_42_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pfizer ya trabaja en una versión de su vacuna anticovid contra variante ómicron"
 front: false
 section: "Internacional"
-news_id: 190330
+redirect_from: /news/190330
 ---
 
 La farmacéutica Pfizer comenzó a trabajar en una nueva versión de su vacuna contra el covid-19 dirigida específicamente a la variante ómicron, en caso de que la actual no sea lo suficientemente eficaz contra esta variación, aseguró el lunes el director ejecutivo de la farmacéutica estadunidense, Albert Bourla. 

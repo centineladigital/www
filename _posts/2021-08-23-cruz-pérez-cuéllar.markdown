@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "“Estamos listos para asumir el cargo y el honor de construir junto con todos los juarenses la transformación de nuestra ciudad”"
 image: "/uploads/2021/images-6efc1674-dfcc-4a54-8cff-1926a724d651.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cruz Pérez Cuéllar da a conocer primeros nombramientos de su gabinete"
 front: false
 section: "Local"
-news_id: 187005
+redirect_from: /news/187005
 ---
 
 Ciudad Juárez. - Cruz Pérez Cuéllar, presidente municipal electo de Juárez, presentó a quienes ocuparán las titularidades de secretarías y direcciones del gobierno que presidirá a partir del 10 de septiembre y durante los próximos tres años.

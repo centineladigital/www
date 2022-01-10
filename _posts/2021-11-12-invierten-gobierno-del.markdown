@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Se logró la meta de entregar 566 filtros domiciliarios de ultrafiltración que se había planteado, lo cual impacta positivamente a mil 200 familias. "
 image: "/uploads/2021/images-agua.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invierten Gobierno del Estado y CONAGUA  en programa para mejora de calidad del agua"
 front: false
 section: "Local"
-news_id: 189798
+redirect_from: /news/189798
 ---
 
 El Gobierno del Estado, a través de la Junta Central de Agua y Saneamiento, en alianza con la Comisión Nacional del Agua, invirtió un total de $1.5 MDP, en beneficio de los chihuahuenses a través de hipoclorito de sodio para desinfección y entrega de filtros domiciliarios.

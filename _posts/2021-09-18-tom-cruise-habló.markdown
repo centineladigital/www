@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tom Cruise tuvo la oportunidad de comunicarse con los turistas de Space X, quienes viajaron al espacio el pasado 15 de septiembre. "
 image: "/uploads/2021/images-tom-cruise-hablo-turistas-espaciales.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tom Cruise habló con turistas de Space X que se encuentran en el espacio"
 front: false
 section: "Espectáculos"
-news_id: 187844
+redirect_from: /news/187844
 ---
 
 El pasado 15 de septiembre cuatro personas civiles viajaron como turistas al espacio gracias a Space X, sin duda es un hecho histórico que marca el inicio de viajes al espacio para casi cualquier persona que no sea astronauta. Y para hacer aún más especial este evento, representantes del primer vuelo privado de Space X revelaron que Tom Cruise participó en una llamada con los cuatro turistas espaciales que orbitan a más de 360 millas (580 kilómetros) de altura.

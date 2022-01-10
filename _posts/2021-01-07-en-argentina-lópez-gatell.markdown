@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Confirma López Obrador que viaje es para recabar datos del mecanismo de aplicación de dosis; López-Gatell se reunirá con autoridades argentina para distribución de fármaco a México"
 image: "/uploads/2021/images-2507739.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Argentina López-Gatell prepara envío de vacunas de AstraZeneca"
 front: false
 section: "Nacional"
-news_id: 181933
+redirect_from: /news/181933
 ---
 
 Con el objetivo de recabar datos sobre el mecanismo de aplicación de la vacuna rusa contra Covid-19 AstraZeneca/Oxford, el subsecretario de Salud, Hugo López-Gatell, viajó a Argentina, confirmó el presidente Andrés Manuel López Obrador.

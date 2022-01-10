@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La erupción ocurrió el domingo por la tarde en La Palma, una de las ocho islas volcánicas que forman el archipiélago de las Islas Canarias; aquí te presentamos otras claves de este hecho"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Por qué está haciendo erupción el volcán de La Palma en España?"
 front: false
 section: "Internacional"
-news_id: 187941
+redirect_from: /news/187941
 ---
 
 Una pequeña isla española en el Océano Atlántico lleva días lidiando con una erupción volcánica que obligó a desalojar a miles de personas, y las autoridades advierten que se avecinan más peligros derivados de la explosión.

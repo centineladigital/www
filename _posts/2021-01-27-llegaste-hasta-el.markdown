@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue en sus historias de Instagram, en donde Alejandra Guzmán decidió compartir cómo le fue al realizarse la prueba para saber si está libre del covid-19; expresó que sintió una rascada de cerebro. "
 image: "/uploads/2021/images-alejandra-guzman-pasa-prueba-covid.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llegaste hasta el cerebro -  Alejandra Guzmán reacciona al hacerse una prueba covid-19"
 front: false
 section: "Espectáculos"
-news_id: 182479
+redirect_from: /news/182479
 ---
 
 Alejandra Guzmán, famosa cantante, compartió en sus redes sociales lo que sufrió al hacerse la prueba de coronavirus, covid-19. La cantante se mostró incómoda al realizársela, pues según sintió, le llegó hasta el cerebro. Te contamos cómo vivió este protocolo para descartar un contagio.  Fue en sus historias de Instagram, en donde Alejandra Guzmán decidió compartir cómo le fue al realizarse la prueba para saber si está libre del covid-19 

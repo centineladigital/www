@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A fin de ayudar a la promoción en otras entidades por su innovador sistema   "
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Conoce presidente nacional de COPARMEX funcionamiento de la Plataforma Escudo Chihuahua"
 front: false
 section: "Local"
-news_id: 189676
+redirect_from: /news/189676
 ---
 
 El presidente nacional de la Confederación Patronal de la República Mexicana (COPARMEX), José Medina Mora Icaza, visitó las instalaciones de la Plataforma Escudo Chihuahua (PECUU), en la Comandancia Norte, a fin de conocer de cerca este aparato tecnológico con el que cuenta la Dirección de Seguridad Pública Municipal, y gracias al cual se ha logrado disminuir el número de delitos y trabajar de la mano con otras autoridades a través del material que ésta aporta.

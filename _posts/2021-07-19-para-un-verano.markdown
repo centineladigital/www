@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua exhorta a la población a seguir con el lavado de manos para disminuir contagios de COVID-19 y así tener un Verano Seguro."
 image: "/uploads/2021/images-Foto_3379-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Para un Verano Seguro, IMSS exhorta a seguir con lavado de manos para disminuir contagios COVID-19 "
 front: false
 section: "Local"
-news_id: 185771
+redirect_from: /news/185771
 ---
 
 

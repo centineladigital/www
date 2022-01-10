@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de su cuenta de Instagram en donde Britney Spears mostró sus mejores pasos de baile al ritmo de reguetón con canción de J Balvin. "
 image: "/uploads/2021/images-britney-spears-demuestra-gusta-regueton.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Harán dueto? Britney Spears impacta al bailar reguetón con canción de J Balvin"
 front: false
 section: "Espectáculos"
-news_id: 182549
+redirect_from: /news/182549
 ---
 
 Es común que la Princesa del Pop, Britney Spears suba videos bailando en su cuenta de Instagram con el fin de mostrarle a todos sus seguidores que sigue disfrutando de cada paso que da. Por lo regular, la famosa ha ejecutado coreografías con música en inglés o con música sin letra. Sin embargo, recientemente compartió algo que sorprendió a la comunidad latina, Britney Spears bailó al ritmo de reguetón, específicamente se movió con una de las canciones más populares de J Balvin. 

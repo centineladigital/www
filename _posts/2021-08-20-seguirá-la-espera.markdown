@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El astro argentino, junto a Neymar y Sergio Ramos, no fueron considerados para el partido contra el Brest"
 image: "/uploads/2021/images-messi-aun-no-jugara-con_0_128_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Seguirá la espera; Lionel Messi no fue convocado para el partido ante el Brest"
 front: false
 section: "Deportes"
-news_id: 186933
+redirect_from: /news/186933
 ---
 
 El delantero argentino Leo Messi no figura entre los convocados por el París Saint-Germain (PSG) para el partido de este viernes contra el Brest, en la que el técnico Mauricio Pochettino sí ha incluido a Mbappé, pero no a Sergio Ramos o a Neymar. 

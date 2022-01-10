@@ -10,11 +10,11 @@ author: nil
 description: "No se pierde la esperanza de localizar con vida a personas desaparecidas."
 image: "/uploads/2021/images-roberto.jpg"
 video: "/uploads/2021/videos-MJ04_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Buscan con drones migrantes desaparecidos"
 front: false
 section: "Local"
-news_id: 188488
+redirect_from: /news/188488
 ---
 
 Con drones se está buscando a los migrantes desaparecidos aseveró la Fiscal General del Estado, Roberto Fierro Duarte, quien dijo que hasta el momento se tiene la esperanza de localizar con vida a las personas ya que no es el método de los delincuentes, ya que se cree que se trata de una forma de chantaje para los familiares.

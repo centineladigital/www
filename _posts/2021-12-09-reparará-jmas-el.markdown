@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Las reparaciones podrían afectar el servicio durante el sábado, se recomienda tomar previsiones para evitar el desabasto en los hogares "
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reparará JMAS el rebombeo x5 este próximo sábado"
 front: false
 section: "Local"
-news_id: 190675
+redirect_from: /news/190675
 ---
 
 Este próximo sábado 11 de diciembre la Junta Municipal de Agua y Saneamiento (JMAS) de Chihuahua realizará trabajos de rehabilitación en el rebombeo x5, por lo que el servicio pudiera verse afectado en algunas colonias de la ciudad en horario vespertino, regularizándose por completo para el domingo 12 del mes en curso.

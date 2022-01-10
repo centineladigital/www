@@ -16,11 +16,11 @@ author: nil
 description: "“No hemos sido notificados”"
 image: "/uploads/2021/images-cilSqUG3YJzTNPhm.jpeg"
 video: "/uploads/2021/videos-BJ01_JOSE_OROZCO_.mp4"
-audio: "nil"
+audio: nil
 alt: "Orozco responde a la presunta denuncia de Cesar D.J"
 front: false
 section: "Local"
-news_id: 191360
+redirect_from: /news/191360
 ---
 
 El Director de Desarrollo Económico y Turismo, José Jordán Orozco Duarte, respondió ante la presunta demanda del ex gobernador Cesar D.J, el funcionario mencionó que no han sido notificados y de estar la demanda comparecerá con las instancias correspondientes para su solución.

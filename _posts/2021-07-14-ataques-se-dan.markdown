@@ -10,11 +10,11 @@ author: nil
 description: "Esto por hechos ocurridos en San Juanito, afirma que tienen relación con detención de líder criminal."
 image: "/uploads/2021/images-EMILIO_GARCIA.jpg"
 video: "/uploads/2021/videos-MW02_EMILIO_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Ataques se dan por reacomodos en organizaciones criminales -  SSPE"
 front: false
 section: "Local"
-news_id: 185674
+redirect_from: /news/185674
 ---
 
 Tras la detención del “H7” los enfrentamientos y ataques que se registraron se deben al reacomodo en la organización que encabezaba, señaló el titular de la Secretaría de Seguridad Pública Estatal, Emilio García Ruiz.

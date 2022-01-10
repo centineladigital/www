@@ -10,11 +10,11 @@ author: nil
 description: "Deficit de más de cuatro mil millones de pesos es el que tiene la institución."
 image: "/uploads/2021/images-MARU1.jpg"
 video: "/uploads/2021/videos-MM05_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Crearán plan para salvar a pensiones"
 front: false
 section: "Local"
-news_id: 189216
+redirect_from: /news/189216
 ---
 
 Un plan para poder rescatar la situación financiera de Pensiones Civiles es lo que el Gobierno de Chihuahua buscará, afirmó María Eugenia Campos Galván titular del Poder Ejecutivo. Quien dijo que se está llevando a cabo un análisis con consultores financieros.

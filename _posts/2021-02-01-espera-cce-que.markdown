@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La situación actual ha dejado  muy golpeado al Estado"
 image: "/uploads/2021/images-EFEGEGR.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AL02_SANITNI_RAMOS.mp3"
 alt: "Espera CCE que informe de Corral contenga  un plan de recuperación para los próximos meses "
 front: false
 section: "Local"
-news_id: 182601
+redirect_from: /news/182601
 ---
 
 El presidente del Consejo Coordinador Empresarial, Francisco Santini Ramos, señaló que esperan y en cuarto informe de gobierno de Javier Corral, también se plantee un plan de recuperación para el estado, el cual continúa en crisis.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Además supervisó el avance de obras en el plantel Ayuntamiento     "
 image: "/uploads/2021/images-1-B.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recorre titular del CECyTECH planteles de la región norte para dar seguimiento a la estrategia educativa"
 front: false
 section: "Local"
-news_id: 188743
+redirect_from: /news/188743
 ---
 
 El director general del Colegio de Estudios Científicos y Tecnológicos del Estado de Chihuahua (CECyTECH), Ricardo Antonio García Parra, realizó un recorrido por planteles de la región norte, con el propósito de dar seguimiento a la estrategia educativa que se encuentra operando en este subsistema.

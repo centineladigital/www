@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Este espacio tuvo una inversión de casi 7 millones de pesos, mismo que cuenta con el hardware y software necesario para, entre otras cosas, realizar diversas simulaciones de manufactura, fluidos, temperatura y estructurales."
 image: "/uploads/2021/images-IMG_1765.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Visitan clusters Aeroespacial y Automotriz laboratorio DIM 4.0 de la Universidad Politécnica de Chihuahua"
 front: false
 section: "Local"
-news_id: 190549
+redirect_from: /news/190549
 ---
 
 Representantes de los clusters Aeroespacial y Automotriz realizaron una visita a la Universidad Politécnica de Chihuahua (UPCH), para conocer las capacidades del nuevo laboratorio de Diseño, Innovación y Manufactura (DIM) 4.0.

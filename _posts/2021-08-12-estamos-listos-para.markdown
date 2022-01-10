@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La secretaria de Educación pidió confianza a los alumnos y padres de familia, pues dijo que el magisterio está preparado para regresar a las aulas"
 image: "/uploads/2021/images-las-clases-presenciales-seran-retomadas_0_51_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estamos listos para regreso presencial a clases el 30 de agosto; es inminente -  SEP"
 front: false
 section: "Nacional"
-news_id: 186594
+redirect_from: /news/186594
 ---
 
 El regreso a clases presenciales es inminente y el magisterio ya se encuentra listo para comenzar el 30 de agosto, aseguró la secretaria de Educación Pública, Delfina Gómez. 

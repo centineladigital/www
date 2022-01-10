@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Mencionó que la proyección es que para 2024 se produzcan 2 millones de barriles, pues actualmente se procesan 714 mil barriles y se exportan 1 millón 019 mil barriles"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pemex invertirá un billón 116 mil mdp para consolidar plan de fortalecimiento -  Romero Oropeza"
 front: false
 section: "Nacional"
-news_id: 191259
+redirect_from: /news/191259
 ---
 
 En los próximos tres años Pemex invertirá un billón 116 mil millones de pesos para llevar a cabo el plan de fortalecimiento de la empresa, lograr la autosuficiencia energética y que no aumenten los precios de los combustibles.

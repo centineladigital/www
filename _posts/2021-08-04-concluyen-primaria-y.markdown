@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Durante el pasado ciclo escolar, se atendió a un total de mil 820 estudiantes, de los cuales mil 545 realizaron estudios en el nivel de secundaria y otros 275 cursaron la primaria; Seech apoya a quienes no han cursado o desean reiniciar sus estudios de nivel básico"
 image: "/uploads/2021/images-Estudiantes_de_CEDEX-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Concluyen primaria y secundaria mil 160 adultos y jóvenes  en escuelas Cedex federalizadas"
 front: false
 section: "Local"
-news_id: 186291
+redirect_from: /news/186291
 ---
 
 A través de los Centros de Educación Extraescolar (Cedex), mil 160 adultos y jóvenes realizaron estudios de nivel básico y concluyeron el nivel de primaria y secundaria durante el ciclo escolar 2020-2021. Esta atención educativa que se brinda  en la entidad por parte de Servicios Educativos del Estado de Chihuahua (Seech) en el área de Educación para Adultos, mantiene abiertas las inscripciones durante todo el año, no tiene costo y en el caso del material didáctico, se ofrece a precios simbólicos. Las clases son impartidas por maestras y maestros especializados en la materia, los grupos son pequeños y la atención es personalizada.

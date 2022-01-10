@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 es de 8 mil 87, con cuatro nuevos casos correspondientes a los municipios de Guachochi (+1), Ascensión (+2) y Julimes (+1)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 169 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 189029
+redirect_from: /news/189029
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 21 de octubre el reporte Covid-19 en el cual se registran 80 mil 235 (+169) personas confirmadas en la entidad por este padecimiento, 69 mil 808 (+302) casos recuperados, 73 mil 034 (+247) descartados y 789 (-1) casos sospechosos.

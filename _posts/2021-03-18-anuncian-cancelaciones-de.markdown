@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se han suspendido mil 836 concesiones y permisos en Chihuahua y Juárez."
 image: "/uploads/2021/images-alejandra.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ03_ALEJANDRA_DE_LA_VEGA.mp3"
 alt: "Anuncian cancelaciones de concesiones"
 front: false
 section: "Local"
-news_id: 183471
+redirect_from: /news/183471
 ---
 
 El anuncio de concesiones para el transporte público fue dado a conocer este jueves por parte de Alejandra de la Vega Arizpe, subcoordinadora Ejecutiva de Gabinete y representante del gobernador en Ciudad Juárez, quien señaló que se han suspendido mil 836 concesiones y permisos en Chihuahua y Juárez.

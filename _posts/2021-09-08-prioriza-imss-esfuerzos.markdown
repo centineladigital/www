@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Seguro Social está cerca de la gente y privilegia la vida, integridad física y dignidad de las personas."
 image: "/uploads/2021/images-Foto_393-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prioriza IMSS esfuerzos para apoyar a sobrevivientes, familiares y personal de salud en Hospital de Tula, Hidalgo"
 front: false
 section: "Local"
-news_id: 187548
+redirect_from: /news/187548
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) prioriza sus esfuerzos de atención en tres grupos afectados por la inundación en el Hospital General de Zona con Medicina Familiar (HGZ/MF) No.5, de Tula, Hidalgo: sobrevivientes, acompañamiento a los familiares y reconocimiento al personal de salud por su entrega para salvar vidas.

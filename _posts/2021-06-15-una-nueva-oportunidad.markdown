@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras dos años viuda, Sharis Cid compartió que decidió darle una nueva oportunidad al amor y presentó a su novio. "
 image: "/uploads/2021/images-sharis-cid-defendio-rumores-revista.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Una nueva oportunidad en el amor! Sharis Cid presenta a su nuevo novio tras asesinato de su esposo"
 front: false
 section: "Espectáculos"
-news_id: 185051
+redirect_from: /news/185051
 ---
 
 En el 2018 Sharis Cid vivió momentos difíciles ya que su esposo, el empresario Isaías Gómez, fue asesinado en San Miguel de Allende cuando se encontraba con la familia de la actriz. Tras esto, Sharis se mantuvo enfocada en su hija y sus nietos, pero ahora ha decidido darle una nueva oportunidad al amor. A través de Instagram, Sharis Cid compartió su felicidad con sus seguidores ya que presentó a su novio con una foto en donde la actriz posa al lado de su nueva pareja. En la descripción no dio muchos detalles sobre su novio, pero agradeció el apoyo. 

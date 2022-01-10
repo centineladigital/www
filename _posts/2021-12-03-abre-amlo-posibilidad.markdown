@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente Andrés Manuel López Obrador informó que dio instrucciones al secretario de Gobernación, Adán Augusto López, para que reciba a Santiago Creel y abra la posibilidad de diálogo"
 image: "/uploads/2021/images-andres-manuel-lopez-obrador-mananera-23_31_121_1091_679.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abre AMLO posibilidad de diálogo con el PAN"
 front: false
 section: "Nacional"
-news_id: 190456
+redirect_from: /news/190456
 ---
 
 Después de tres años de gobierno, el presidente Andrés Manuel López Obrador abrió la posibilidad de un diálogo con el Partido Acción Nacional (PAN), opositor a su administración.

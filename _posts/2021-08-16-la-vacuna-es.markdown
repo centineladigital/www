@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz contó cómo se enteró de que estaba contagiada; señaló que se realizó alrededor de cuatro pruebas, las cuales salieron negativas. "
 image: "/uploads/2021/images-laura-flores-conto-lo-que_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La vacuna es importante -  Laura Flores habla de su salud tras dar positivo a covid-19"
 front: false
 section: "Espectáculos"
-news_id: 186755
+redirect_from: /news/186755
 ---
 
 Laura Flores fue una de las famosas que dio positivo a covid-19 a raíz del brote que se dio dentro del reality de MasterChef Celebrity, y que tiene a Paty Navidad, Rebecca de Alba y el chef José Ramón bajo vigilancia médica. La producción tuvo que posponerse, mientras esperan la recuperación de todos los participantes; bajo esta situación, la actriz recurrió a sus redes sociales para dar un reporte de su salud.  

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19, asciende a 8 mil 146 (+11) y las nuevas defunciones registradas corresponden a los municipios de Juárez (+1), Chihuahua (+3), Cuauhtémoc (+3), Jiménez (+1), Meoqui (+2), Guerrero (+1).   "
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-03_at_10.57.45.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 145 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 189503
+redirect_from: /news/189503
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 3 de noviembre el reporte COVID-19, en el cual se registran 81 mil 753 (+145) personas confirmadas en la entidad por este padecimiento, 70 mil 730 (+111) casos recuperados, 75 mil 429 (+168) descartados y 783 (-17) casos sospechosos.

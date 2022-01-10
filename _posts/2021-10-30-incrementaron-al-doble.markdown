@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Derivado de inspecciones visuales y desarrolladas, se consideró que las condiciones que actualmente presenta tanto la alberca como sus instalaciones, no son las adecuadas en términos de seguridad y eficiencia para operar una apertura al público  "
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Incrementaron al doble filtraciones en alberca de la Ciudad Deportiva; por seguridad permanecerá cerrada   "
 front: false
 section: "Local"
-news_id: 189413
+redirect_from: /news/189413
 ---
 
 En atención a la importancia de cumplir con la misión del Instituto Chihuahuense del Deporte y Cultura Física, ante la sociedad chihuahuense y en apego a los ejes estratégicos de la actual administración del Gobierno del Estado, especialmente los relacionados con un gobierno responsable, un desarrollo económico sustentable, y la infraestructura, y desarrollo humano y social, resulta de urgente atención ejecutiva las consideraciones técnicas que se especifican a propósito de la Alberca Olímpica de la Ciudad Deportiva, en la capital del estado.

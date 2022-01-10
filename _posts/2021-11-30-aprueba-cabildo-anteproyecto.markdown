@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Ayuntamiento se comprometió a aplicar los recursos en proyectos de beneficio para todos"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueba Cabildo Anteproyecto de la Ley de Ingresos por más de 4 mil millones de pesos "
 front: false
 section: "Local"
-news_id: 190346
+redirect_from: /news/190346
 ---
 
 En la sesión extraordinaria de Cabildo los integrantes del H. Ayuntamiento aprobaron, con 17 votos a favor, el Anteproyecto de Ley de Ingresos para el Ejercicio Fiscal del año 2022, por un monto de 4 mil 481 millones 478 mil 024 pesos.

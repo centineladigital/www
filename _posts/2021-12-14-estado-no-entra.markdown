@@ -12,11 +12,11 @@ author: nil
 description: "Afirma Secretario que no se devolverá en base de esa sentencia ya que debido a que es en materia civil."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MM03_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Estado no entra en desacato por no devolver bienes al Exgobernador -  Jáuregui"
 front: false
 section: "Local"
-news_id: 190845
+redirect_from: /news/190845
 ---
 
 El Estado de Chihuahua no entra en desacato por no obedecer el dictamen del juez en relación a la devolución de los bienes del exgobernador César Duarte, señaló el Secretario General de Gobierno César Gustavo Jáuregui Moreno.

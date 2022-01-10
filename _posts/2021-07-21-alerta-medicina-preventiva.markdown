@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Comienza a observarse un repunte en la estadística de contagios, por lo que la población no debe relajar las medidas, sobre todo los jóvenes que han viajado o buscan viajar a algún destino turístico   "
 image: "/uploads/2021/images-WhatsApp_Image_2021-07-21_at_3.31.19_PM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Medicina Preventiva por incremento de casos de COVID-19 en periodo vacacional"
 front: false
 section: "Local"
-news_id: 185890
+redirect_from: /news/185890
 ---
 
 La subdirectora de Medicina Preventiva y Promoción de la Salud, Leticia Ruiz González, consideró que comienza a presentarse un incremento en los contagios de COVID-19 y advirtió que se espera un impacto por el periodo vacacional.

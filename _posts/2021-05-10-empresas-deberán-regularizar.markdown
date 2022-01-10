@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Cambian lineamientos, es para beneficio de trabajadores."
 image: "/uploads/2021/images-FIDEL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML05_FIDEL_PEREZ.mp3"
 alt: "Empresas deberán regularizar su operación antes del 1o de agosto"
 front: false
 section: "Local"
-news_id: 184383
+redirect_from: /news/184383
 ---
 
 Tras la eliminación del outsourcing las empresas mexicanas que operan parte de sus actividades de negocio mediante la subcontratación, deberán regularizar su situación, fueron las palabras de Fidel Pérez García, Socio de Legal & Business Services, esto dentro de la sesión mensual del Instituto y Colegio de Contadores Públicos de Chihuahua.

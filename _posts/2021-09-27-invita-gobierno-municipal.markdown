@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Para mayores informes pueden comunicarse al 072 extensión 2535."
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno Municipal a Zumbathon El baile nos une para migrantes"
 front: false
 section: "Local"
-news_id: 188110
+redirect_from: /news/188110
 ---
 
 El Gobierno Municipal de Chihuahua a través del Instituto Municipal de Cultura Física y Deporte, invita a la ciudadanía a participar en el Zumbathon “El baile nos une”, con el objetivo de seguir recabando víveres y ropa en buen estado para las personas que se encuentran de paso en la ciudad.

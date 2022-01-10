@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El grupo de música sierreña campirana, lanzarán su tercer disco Puras pa' pistear. "
 image: "/uploads/2021/images-la-escolta-de-la-o_63_0_1074_668.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'La Escolta de la O' se posiciona en La Laguna"
 front: false
 section: "Espectáculos"
-news_id: 188453
+redirect_from: /news/188453
 ---
 
 A escasos años de haberse integrado en la ciudad de Matamoros, Coahuila, 'La Escolta de la O', agrupación de música sierreña campirana, ha logrado avanzar en el mundo y se ha posicionado entre los favoritos de este género musical. A la agrupación formada en el 2018, la integran músicos de Matamoros y Torreón, misma que está próxima a grabar su tercera producción discográfica, así lo dio a conocer en entrevista el vocalista del grupo, Víctor Jasso. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor estadunidense colaboró con el escritor Mark Manso para redactar sus memorias, las cuales saldrán a la venta en otoño. "
 image: "/uploads/2021/images-will-smith-anuncia-publicara-biografia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Las memorias del 'Príncipe de Bel Air'! Will Smith anuncia que publicará su biografía"
 front: false
 section: "Espectáculos"
-news_id: 185154
+redirect_from: /news/185154
 ---
 
 Will Smith publicará su primer libro de memorias con el título de Will. El actor estadunidense colaboró con el escritor Mark Manson, autor del libro superventas The Subtle Art of Not Giving a Fuck (El sutil arte de que te importe un carajo), para redactar su biografía, que ha llevado dos años de trabajo, según confirmó él mismo en una publicación de Instagram. "Es un trabajo hecho con amor", aseguró el actor y productor, quien también narrará el libro en su formato de audio.

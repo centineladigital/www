@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A partir del miércoles 3 de noviembre se modifica hora de entrada y salida en escuelas primarias y secundarias; para escuelas de la franja fronteriza estos cambios aplican desde el 8 de noviembre"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncian ajuste en horario de planteles del nivel básico"
 front: false
 section: "Local"
-news_id: 189205
+redirect_from: /news/189205
 ---
 
 La Secretaría de Educación y Deporte (SEyD) informó que a partir del próximo 3 de noviembre se modifica la hora de entrada y salida en planteles de Educación Básica.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Todas las encuestas ponen a Morena en este punto."
 image: "/uploads/2021/images-ALAN.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ03_ALAN_AVILA.mp3"
 alt: "Morena perderá dos terceras partes del Congreso -  Magos"
 front: false
 section: "Local"
-news_id: 184698
+redirect_from: /news/184698
 ---
 
 Dos terceras partes del Congreso de la Unión se perderán para Morena señaló Alan Avila Magos, Secretario Nacional de Acción Juvenil, quien visitó Chihuahua con el fin de apoyar a los candidatos del partido. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente de EU pide a la Organización del Tratado del Atlántico Norte que enfrente unida los 'nuevos desafíos' planteados por Rusia y China"
 image: "/uploads/2021/images-2594698.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden llama a la OTAN a enfrentar 'desafíos' de Rusia y China"
 front: false
 section: "Internacional"
-news_id: 185013
+redirect_from: /news/185013
 ---
 
 El presidente de Estados Unidos, Joe Biden, lanzó este lunes un llamado a los integrantes de la Organización del Tratado del Atlántico Norte (OTAN) a enfrentar juntos los "nuevos desafíos" planteados por Rusia y China.

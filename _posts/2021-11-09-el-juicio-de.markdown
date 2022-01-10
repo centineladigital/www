@@ -14,11 +14,11 @@ author: nil
 description: "El legislador aseguró que a la gobernadora del estado María Eugenia Campos Galván le convendría que este juicio fuera hecho por estos organismos incluso fuera de la entidad"
 image: "/uploads/2021/images-20210115090059070-0-1751811.jpg"
 video: "/uploads/2021/videos-BM05_CUAHUTEMOC_ESTRADA_.mp4"
-audio: "nil"
+audio: nil
 alt: "El juicio de Cesar Duarte debe ser tomado por la federación -  Estrada  "
 front: false
 section: "Local"
-news_id: 189721
+redirect_from: /news/189721
 ---
 
 Cuauhtémoc estrada, diputado en el congreso del estado puntualizó que el caso Duarte en el caso de su juicio pudiese ser llevado a cabo por organismos federales, para que la ciudadanía tenga la certeza de que van a ser procesos totalmente imparciales.

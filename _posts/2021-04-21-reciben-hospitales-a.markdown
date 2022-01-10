@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Avance contundente del virus SARS CoV2 en Chihuahua"
 image: "/uploads/2021/images-hospitales_saturados.jfif"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reciben hospitales a familias enteras con Covid-19"
 front: false
 section: "Local"
-news_id: 184008
+redirect_from: /news/184008
 ---
 
 La subsecretaria de Salud, Myrna Beltrán, hizo un llamado urgente a la población, pues es necesario revertir el comportamiento de la pandemia del Covid-19, que en el estado lleva cuatro semanas a la alza, y esto ha provocado que familias enteras lleguen a hospitales tras contagiarse con el SARS-CoV2.

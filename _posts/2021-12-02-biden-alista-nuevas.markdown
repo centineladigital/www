@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente estadunidense busca reforzar la situación sanitaria en el territorio tras revelarse el primer caso en el país del nuevo tipo de contagio de coronavirus. "
 image: "/uploads/2021/images-joe-biden-presidente-de-estados-29_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden alista nuevas medidas anticovid por ómicron; EU exigirá test negativo a viajeros"
 front: false
 section: "Internacional"
-news_id: 190417
+redirect_from: /news/190417
 ---
 
 Se espera que hoy el presidente de Estados Unidos, Joe Biden, anuncie una serie de medidas para la próxima semana en el territorio ante la nueva variante ómicron del covid-19, entre las que se destacan la presentación de pruebas negativas realizadas 24 horas antes para quienes ingresen al país, el uso de cubrebocas a nivel interno y la ampliación de exámenes para detección de coronavirus en los hogares. 

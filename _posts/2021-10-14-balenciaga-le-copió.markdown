@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante es, sin duda alguna, uno de los más grandes íconos de la música y la televisión en México. "
 image: "/uploads/2021/images-thalia-se-compara-con-kim.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Balenciaga le copió? Thalía compara look de Kim Kardashian con uno que ella usó hace 30 años"
 front: false
 section: "Espectáculos"
-news_id: 188752
+redirect_from: /news/188752
 ---
 
 Thalía es muy popular en sus redes sociales donde suma millones de seguidores, y suele dar de qué hablar por los divertidos videos y fotos que publica, como este jueves, que envió un mensaje a la casa de modas Balenciaga y comparó un look usado por Kim Kardashian con uno que ella usó hace más de 30 años. Y es que la intérprete de "Amor a la mexicana", así como muchas de sus canciones, además de talento y carisma, también irradia sensualidad, y es reconocida desde el incio de su carrera por su increíble estilo. 

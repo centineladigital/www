@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jesús Manuel Corona, como siempre, ha sido de los más cazados por los defensores panameños, pero ahora se llegó al extremo"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Violenta entrada sobre “Tecatito” Corona"
 front: false
 section: "Deportes"
-news_id: 187580
+redirect_from: /news/187580
 ---
 
 La violencia extrema que hay en los juegos de la Concacaf en contra de México, se volvió a hacer presente. Jesús Manuel Corona, como siempre, ha sido de los más cazados por los defensores panameños, pero ahora se llegó al extremo.

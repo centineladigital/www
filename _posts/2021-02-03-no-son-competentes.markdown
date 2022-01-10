@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "No es que sean ladrones, creo yo, no quiero pensar mal, pero no sirven para ser líderes, no sirven para administrar, dijo el icónico actor sobre la actual administración de Jesús Ochoa. "
 image: "/uploads/2021/images-eric-del-castillo-cuartoscuro.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No son competentes -  Eric del Castillo arremete contra la ANDA por crisis en la Casa del Actor"
 front: false
 section: "Espectáculos"
-news_id: 182660
+redirect_from: /news/182660
 ---
 
 La polémica en torno a la Casa del Actor ha sumado a muchas personalidades, pues mientras actores como Jorge Ortiz de Pinedo y Julieta Bracho señalan que este refugio está en crisis debido a un adeudo millonario que se niega a pagar la Asociación Nacional de Actores (ANDA), otras celebridades como Silvia Pinal han salido a defender a la institución que actualmente gestiona Jesús Ochoa.  

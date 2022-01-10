@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto es una gran noticia y una luz al final del túnel"
 image: "/uploads/2021/images-y5y55y.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AJ04_BENJAMIN_CARRERA_CHAVEZ.mp3"
 alt: "Celebra Benjamín Carrera llegada de vacunas Covid-19 a Chihuahua "
 front: false
 section: "Local"
-news_id: 182145
+redirect_from: /news/182145
 ---
 
 Ante la llegada de las primeras remesas de la vacuna Covid-19 al estado, el diputado local de Morena Benjamín Carrera Chávez, celebrero esta acción enfatizando que estas dosis son el comienzo del fin de la tormenta.

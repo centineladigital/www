@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Confirma Salud que han perdido la vida 7 mil 334 chihuahuenses; además se registran 43 nuevos positivos para sumar 70 mil 190 enfermos de coronavirus"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fallecen 25 personas más por COVID-19 en la entidad"
 front: false
 section: "Local"
-news_id: 185239
+redirect_from: /news/185239
 ---
 
 El reporte epidemiológico de la pandemia de COVID-19 en el estado de Chihuahua muestra que al 25 de junio hay 70 mil 190 contagios acumulados tras sumarse 43 nuevos casos, mientras que el número de fallecimientos se incrementó a 7 mil 334 al confirmarse 25 más.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Informa SIDE que mediante un recurso de 219 mil 903 pesos aportado por el Fideicomiso ¡Ah, Chihuahua!, se instala un sistema de malla sombra para mitigar los estragos del clima extremo, en beneficio las familias que ofrecen sus artesanías a los miles de visitantes de este destino turístico"
 image: "/uploads/2021/images-Parque_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mejoran condiciones para 43 comerciantes en Parque de Aventura Barrancas del Cobre"
 front: false
 section: "Local"
-news_id: 187278
+redirect_from: /news/187278
 ---
 
 La Dirección de Turismo de la Secretaría de Innovación y Desarrollo Económico (SIDE) informó que se invirtieron 219 mil 903 pesos, para el suministro e instalación de las cortinas de malla sombra, en beneficio de 43 locales comerciales de la plaza de acceso al Parque de Aventura Barrancas del Cobre.

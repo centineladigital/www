@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las temperaturas máximas esperadas son (°C): Chihuahua 19, Juárez 18, Janos 18, Madera 17, Temósachic 18, Cuauhtémoc 19, Ojinaga 22, Delicias 21, Camargo 22, Jiménez 22, Parral 21, y El Vergel 17"
 image: "/uploads/2021/images-Coyame_panorámica.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Clima cálido por la tarde y rachas de viento de hasta 45 km/h -  pronóstico de hoy sábado 6"
 front: false
 section: "Local"
-news_id: 182763
+redirect_from: /news/182763
 ---
 
 Para este sábado 6 la masa de aire frío asociada al Frente No. 34, en interacción con la corriente en chorro, favorece un ambiente de frío a muy frío por la mañana y de templado a cálido por la tarde, informó la Coordinación Estatal de Protección Civil.

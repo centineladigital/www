@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El reconocimiento consiste en una presea de plata y estímulo económico de 56 mil 723 pesos"
 image: "/uploads/2021/images-unnamed_(11).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invitan a docentes con 30 años de servicio a participar por la medalla “Maestro Rafael Ramírez”   "
 front: false
 section: "Local"
-news_id: 189213
+redirect_from: /news/189213
 ---
 
 La Secretaría de Educación y Deporte, a través de los Servicios Educativos del Estado de Chihuahua (Seech), convoca al personal docente de toda la entidad que haya cumplido 30 años de servicio, a participar en el otorgamiento de la medalla “Maestro Rafael Ramírez”.

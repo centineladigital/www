@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solicitó agotar los adeudos y el calendario de pagos"
 image: "/uploads/2021/images-grrthrt.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AW04_ALBERTO_HERRERA.mp3"
 alt: "Adeuda PCE a proveedores y hospitales por pago de deudores mil mdp "
 front: false
 section: "Local"
-news_id: 182309
+redirect_from: /news/182309
 ---
 
 Durante la sesión especial para resolver el problema financiero de Pensiones Civiles del Estado, el director de esta institución, Alberto Herrera, informó que la urgencia es pagar adeudo de 900 millones de pesos a proveedores pendiente desde abril y 300 millones de pesos con hospitales por el servicio de internamiento. 

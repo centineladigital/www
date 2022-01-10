@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la entidad se acumulan 73 mil 494 casos confirmados y alcanza 7 mil 717 defunciones debido a la pandemia   "
 image: "/uploads/2021/images-Informe_tecnico_05_agosto_page-0002.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reporte COVID-19 -  Confirma Salud 84 contagios y 7 fallecimientos más"
 front: false
 section: "Local"
-news_id: 186383
+redirect_from: /news/186383
 ---
 
 Desde que inició en la entidad la pandemia se han acumulado 73 mil 494 casos confirmados por COVID-19, luego que el último reporte de la Secretaría de Salud registró 84 contagios.

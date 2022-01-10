@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“Somos demasiados los candidatos que estamos buscando una posición”, dijo."
 image: "/uploads/2021/images-MARTHA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_MARTHA_LAGETTE.mp3"
 alt: "Posicionamiento para candidatos es difícil -  Laguette"
 front: false
 section: "Local"
-news_id: 184302
+redirect_from: /news/184302
 ---
 
 Posicionamiento para candidatos es difícil ya que debido a la gran cantidad de candidatos que se registran esta etapa, fueron las palabras de la candidata a Sindico del Municipio de Chihuahua, Martha Laguette, candidata por el partido de Movimiento de Regeneración Nacional.

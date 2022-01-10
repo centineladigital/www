@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "De acuerdo con nuevos documentos revelados, la madre de Johnny Depp consideraba que era autosuficiente. "
 image: "/uploads/2021/images-johnny-depp-shutterstock-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Johnny Depp fue 'abandonado' de adolescente; consumía drogas y vivía en un auto"
 front: false
 section: "Espectáculos"
-news_id: 187891
+redirect_from: /news/187891
 ---
 
 El actor de Hollywood, Johnny Depp, fue abandonado por su madre cuando él era apenas un adolescente; vivió en un automóvil y se drogó durante algunos años de su vida. Así lo insinúan nuevos documentos revelados, donde su madre considera que, cuando él tenía 15 años, ya era autosuficiente. 

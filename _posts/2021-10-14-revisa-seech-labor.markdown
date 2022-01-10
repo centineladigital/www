@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Buscan mejorar los servicios que prestan al personal docente y al alumnado del subsistema federalizado de cada zona en la entidad"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Revisa SEECH labor, necesidades y problemática de servicios regionales durante primera reunión de trabajo"
 front: false
 section: "Local"
-news_id: 188732
+redirect_from: /news/188732
 ---
 
 Servicios Educativos del Estado de Chihuahua (SEECH), llevó a cabo la primera reunión de trabajo con titulares de las oficinas de Servicios Regionales de esa dependencia, a fin de dar seguimiento y conocer de manera directa las acciones que se realizan en favor del personal docente y el alumnado del subsistema federalizado.

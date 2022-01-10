@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de sus problemas con las drogas, Rafael Amaya reapareció en redes sociales tras tres años de ausencia. "
 image: "/uploads/2021/images-rafael-amaya-aparecio-redes-anos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Después de tres años! Rafael Amaya reaparece en redes tras problemas de adicción"
 front: false
 section: "Espectáculos"
-news_id: 183071
+redirect_from: /news/183071
 ---
 
 Rafael Amaya desapareció no sólo de la pantalla chica sino que también de las redes sociales. La última publicación del protagonista de El señor de los cielos fue en el 2018 y tras tres años de ausencia, el actor sorprendió a sus seguidores de Instagram en donde publicó una imagen que levantó los rumores sobre un posible regreso a la televisión. 

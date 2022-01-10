@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Edwin Luna acudió al foro del reality para exigir la salida de su esposa; señaló que sus hijos no están bien tras los rumores de infidelidad que circulan en redes."
 image: "/uploads/2021/images-kimberly-flores-edwin-luna-reencuentran_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Revelan video del reencuentro de Kimberly Flores y Edwin Luna en 'Casa de los famosos' previo a su salida"
 front: false
 section: "Espectáculos"
-news_id: 187708
+redirect_from: /news/187708
 ---
 
 Kimberly Flores abandonó de La casa de los famosos en medio de una ola de rumores de infidelidad luego de que salieran a la luz unas imágenes en las que se le ve junto al actor Roberto Romano. Tras lo sucedido se difundió un video del día que Edwin Luna llegó al foro del reality para exigir la salida de su esposa, y finalmente se reveló los motivos por los que la cantante se despidió del programa sin avisar al resto de participantes. Minutos después de la salida de Kimberly Flores, Verónica Montes afirmó que Edwin Luna le había pedido el divorcio a la cantante. Al dejar La casa de los famosos, la famosa se reencontró con su esposo frente a las cámaras de Telemundo, dejando entrever la razón por la que Edwin fue en su búsqueda hasta el set de grabación.  

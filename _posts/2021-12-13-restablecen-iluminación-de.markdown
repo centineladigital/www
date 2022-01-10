@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se pide a la ciudadanía denunciar al 911, si ven personas ajenas al Gobierno Municipal manipulando infraestructura"
 image: "/uploads/2021/images-unnamed_(20).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Restablecen iluminación de parque en colonia Alfredo Chávez"
 front: false
 section: "Local"
-news_id: 190797
+redirect_from: /news/190797
 ---
 
 El Gobierno Municipal, a través de la Dirección de Mantenimiento Urbano, reinstaló un total de 85 metros de cableado del alumbrado público, en un parque de la colonia Alfredo Chávez, tras haber sido vandalizado días anteriores.

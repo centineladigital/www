@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Piden a familias respetar medidas de salud en las actividades del festival"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_11.44.33.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Audio_Presentación_FICUU_2021.mp3"
 alt: "Invita Gobierno Municipal a FICUU 2021 para festejar el 312 aniversario de la ciudad de Chihuahua"
 front: false
 section: "Local"
-news_id: 188139
+redirect_from: /news/188139
 ---
 
 En el marco del 312 aniversario de la fundación de la ciudad de Chihuahua el Gobierno Municipal anunció las actividades del Festival Internacional de la Ciudad de Chihuahua (FICUU) 2021, que contempla diversas actividades de música, artes visuales, muralismo, teatro, literatura y gastronomía. 

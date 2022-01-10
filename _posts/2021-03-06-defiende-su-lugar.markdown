@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La campeona mundial Yamilet Mercado pelea para que el boxeo femenil sea valorado como se merece"
 image: "/uploads/2021/images-2540133.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Defiende su lugar, nada la detiene"
 front: false
 section: "Deportes"
-news_id: 183315
+redirect_from: /news/183315
 ---
 
 Los golpes que la vida le propinó a Yamileth Mercado no la tumbaron. Tampoco lo hizo aquel grandulón, quien, con 10 kilos de más, la mandó al hospital previo al debut de la chihahuense en los cuadriláteros. La actual campeona mundial súper gallo del CMB planea ahora uno de sus mejores combates: dignificar al boxeo femenil.  

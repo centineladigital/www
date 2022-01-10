@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El gobierno de Francia advierte que la situación en la lucha contra el coronavirus 'se está degradando' y 'es muy preocupante en una decena de departamentos"
 image: "/uploads/2021/images-2534990.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Francia prende alertas por covid -  'la situación se está degradando'"
 front: false
 section: "Internacional"
-news_id: 183123
+redirect_from: /news/183123
 ---
 
 La situación en la lucha contra el coronavirus en Francia "se está degradando" y "es muy preocupante en una decena de departamentos", declaró este miércoles el portavoz del gobierno francés, Gabriel Attal.

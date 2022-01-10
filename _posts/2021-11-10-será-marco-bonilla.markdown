@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Fue nombrado por la ANAC como coordinador regional   "
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Será Marco Bonilla puente de diálogo para municipios de región centro norte"
 front: false
 section: "Local"
-news_id: 189746
+redirect_from: /news/189746
 ---
 
 El alcalde de Chihuahua, Marco Bonilla Mendoza, fue nombrado coordinador regional de la zona centro norte por la Asociación Nacional de Alcaldes (ANAC), por lo que será el puente de diálogo entre la mesa directiva y los municipios que son parte de los estados Sonora, Durango, Coahuila, y las Bajas Californias Norte y Sur.

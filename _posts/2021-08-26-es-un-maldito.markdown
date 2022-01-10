@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El vocalista y guitarrista de Foo Fighters lanzará una versión actualizada de su biografía 'This Is a Call', y ya conocemos algunas de las historias que cuenta el libro."
 image: "/uploads/2021/images-dave-grohl-revela-escucha-in.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es un maldito álbum oscuro -  Dave Grohl revela qué disco de Nirvana no escucha"
 front: false
 section: "Espectáculos"
-news_id: 187137
+redirect_from: /news/187137
 ---
 
 Dave Grohl, sin lugar a dudas, es uno de los máximos exponentes del rock contemporáneo. Ahora, el actual vocalista y guitarrista de Foo Fighters prepara una reedición de su libro biográfico 'This Is A Call', publicado en 2011, y que contendrá nuevos secretos y anécdotas a 10 años de la publicación de la primera edición, incluyendo menciones a Nirvana, banda de la que fue baterista. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que no hay forma que PRI obtenga la gubernatura."
 image: "/uploads/2021/images-graciela.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03_GRACIELA_ORTIZ.mp3"
 alt: "No es momento de que el PRI gane una gobernatura -  Ortiz "
 front: false
 section: "Local"
-news_id: 184677
+redirect_from: /news/184677
 ---
 
 “No hay manera de que logremos esa posibilidad” fueron las palabras de la Candidata del PRI a la gubernatura, Graciela Ortiz González, esto luego de dar a conocer su postura en la que señaló no renunciará a la candidatura. Sin embargo, llama a los chihuahuenses a votar por María Eugenia Campos Galván, abanderada del PAN.

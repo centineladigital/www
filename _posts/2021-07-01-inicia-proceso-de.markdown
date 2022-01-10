@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exponen situación de cabildo ante Alcalde electo."
 image: "/uploads/2021/images-MANQUE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ02.mp3"
 alt: "Inicia proceso de entrega-recepción en el municipio"
 front: false
 section: "Local"
-news_id: 185334
+redirect_from: /news/185334
 ---
 
 Este jueves el Alcalde electo se reunió con la Alcaldesa en funciones con el fin de iniciar el proceso de entrega recepción de la administración con lo que iniciará la administración 2021-2024 la cual será encabezada por Marco Antonio Bonilla Mendoza.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las precipitaciones fuertes podrían presentarse en Madera, Temósachic, Moris, Ocampo y Guazapares y moderadas en Ahumada, Guadalupe, Casas Grandes, Ignacio Zaragoza, Matachí, Guerrero, Chínipas, Uruachi, Urique, Batopilas, Morelos y Guadalupe y Calvo"
 image: "/uploads/2021/images-lluvia_s_chihuahua.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Posibilidades de lluvias aisladas hoy y mañana en la capital -  Protección Civil"
 front: false
 section: "Local"
-news_id: 185939
+redirect_from: /news/185939
 ---
 
 Para este viernes, 23 un canal de baja presión en interacción con inestabilidad en niveles altos de la atmósfera y el ingreso de humedad procedente del Océano Pacífico, favorecerá ambiente de templado a cálido por la mañana y de caluroso a muy caluroso por la tarde con un cielo de parcial al mayormente nublado, informó la Coordinación Estatal de Protección Civil.

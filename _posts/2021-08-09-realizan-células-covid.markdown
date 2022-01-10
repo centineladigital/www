@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se inspeccionaron 42 comercios donde se clausuraron, dos establecimientos por exceso de aforo"
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizan Células COVID tres clausuras durante fin de semana"
 front: false
 section: "Local"
-news_id: 186483
+redirect_from: /news/186483
 ---
 
 El Gobierno Municipal a través las Células COVID realizó un recorrido este fin de semana en 47 establecimientos entre: bares, restaurant- bar y cantinas, así como domicilios particulares de distintos sectores de la ciudad, donde se realizó la clausura de tres espacios.  

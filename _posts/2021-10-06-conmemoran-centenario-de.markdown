@@ -10,11 +10,11 @@ author: nil
 description: "Esto para beneficio de quien menos sabe."
 image: "/uploads/2021/images-MIGUEL.jpg"
 video: "/uploads/2021/videos-MW06_MIGUEL_VALDEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Conmemoran centenario de la SEP"
 front: false
 section: "Local"
-news_id: 188435
+redirect_from: /news/188435
 ---
 
 Autoridades educativas de Chihuahua llevaron a cabo una conmemoración del centenario de la creación de la Secretaría de Educación Pública, donde se llevó a cabo la remembranza de personajes claves en la educación.

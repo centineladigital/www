@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La defensa del ex director de Pemex informó que éste se encuentra en la mejor disposición de lograr un criterio de oportunidad, así como reparar el daño en el caso Agronitrogenados. "
 image: "/uploads/2021/images-emilio-lozoya-impugna-prision-preventiva.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emilio Lozoya pidió prórroga porque FGR aportó nuevas pruebas por Odebrecht, dice abogado"
 front: false
 section: "Nacional"
-news_id: 190621
+redirect_from: /news/190621
 ---
 
 La Fiscalía General de la República (FGR) aportó nuevas pruebas en la indagatoria que se inició por el caso Odebrecht, motivo por el cual el ex director de Pemex, Emilio Lozoya Austin, solicitará una prórroga de 60 días para conocerlas. 

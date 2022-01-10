@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que obras serán de importancia para la sociedad."
 image: "/uploads/2021/images-SERRATO.jpg"
 video: "/uploads/2021/videos-MV01_LUIS_SERRATO.mp4"
-audio: "nil"
+audio: nil
 alt: "No habrá obras de relumbrón -  Serrato"
 front: false
 section: "Local"
-news_id: 190983
+redirect_from: /news/190983
 ---
 
 La meta de las acciones que se lleven dentro de la presente administración es que no se cuente con obras conocidas como de “relumbrón”, señaló el coordinador del Gabinete en el Estado Luis Serrato Castell.

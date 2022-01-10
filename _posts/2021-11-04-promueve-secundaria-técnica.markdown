@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Realiza Festival del Día de Muertos con Altares, concurso de elaboración de lápidas, escritura de calaveras y dibujos de catrinas"
 image: "/uploads/2021/images-Celebración_Día_de_Muertos-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Promueve Secundaria Técnica 42 tradiciones de  Altares de Muertos entre sus estudiantes"
 front: false
 section: "Local"
-news_id: 189547
+redirect_from: /news/189547
 ---
 
 Con el objetivo de rescatar y seguir promoviendo el conocimiento y preservación de tradiciones mexicanas como el Día de Muertos, docentes, alumnos y personal directivo de la Secundaria Técnica 42 realizaron eventos alusivos a esa fecha.

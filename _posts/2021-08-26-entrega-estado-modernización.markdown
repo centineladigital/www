@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La obra reduce de manera importante el tráfico por la zona centro y disminuye la contaminación; informa el Gobernador Javier Corral que se realizó con una inversión de recursos estatales por 28 millones de pesos, Maratón de Obras 2021"
 image: "/uploads/2021/images-DSC_7946.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Estado modernización a 4 carriles del Libramiento Luis H. Álvarez en Camargo"
 front: false
 section: "Local"
-news_id: 187153
+redirect_from: /news/187153
 ---
 
 Con una inversión de 28 millones de pesos de recursos estatales, el Gobierno del Estado llevó a cabo la modernización a cuatro carriles del Libramiento Luis H. Álvarez en el municipio de Camargo, que el gobernador Javier Corral puso en funcionamiento.

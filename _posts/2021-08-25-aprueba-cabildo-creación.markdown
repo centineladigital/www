@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Cuyo dictamen fue presentado por las Comisiones Unidas de Regidores de Transparencia y Gobernación"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueba Cabildo creación del Reglamento de Protección de Datos Personales del Municipio de Chihuahua"
 front: false
 section: "Local"
-news_id: 187123
+redirect_from: /news/187123
 ---
 
 Las y los regidores en sesión ordinaria de Cabildo aprobaron por unanimidad la Creación del Reglamento de Protección de Datos Personales del Municipio de Chihuahua, cuyo dictamen fue presentado por las Comisiones Unidas de Regidores de Transparencia y Gobernación.

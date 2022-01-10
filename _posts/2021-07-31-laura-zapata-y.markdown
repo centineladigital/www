@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Laura Zapata es conocida por ser una actriz sin pelos en la lengua, es por eso que en ocasiones sus declaraciones la han hecho ser parte de varias polémicas. "
 image: "/uploads/2021/images-laura-zapata-relacion-hermana-ernestina_33_0_1045_649.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Laura Zapata y los momentos más polémicos en los que ha estado involucrada"
 front: false
 section: "Espectáculos"
-news_id: 186157
+redirect_from: /news/186157
 ---
 
 La actriz y cantante Laura Zapata, quien también es conocida por ser la hermana mayor de Thalía, es una de las famosas que debido a sus comentarios ha estado involucrada en diversas polémicas. Una de las más conocidas es el lamentable secuestro que vivió al lado de su hermana Ernestina, así como su controvertida opinión sobre la nominación al Oscar de Yalitza Aparicio. 

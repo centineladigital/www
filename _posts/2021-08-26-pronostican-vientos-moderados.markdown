@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En las próximas horas se esperan rachas de entre 35 y 45 km/h en Juárez, Parral, Jiménez y Ojinaga; lluvias aisladas en Chínipas, Guazapares, Morelos, Guadalupe y Calvo, Valle de Zaragoza, Parral y Ojinaga"
 image: "/uploads/2021/images-arton20897.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronostican vientos moderados con un ambiente de templado a cálido en la entidad"
 front: false
 section: "Local"
-news_id: 187154
+redirect_from: /news/187154
 ---
 
 Un canal de baja presión, en interacción con inestabilidad atmosférica superior y el ingreso de humedad procedente del Océano Pacífico, favorecerá un ambiente de templado a cálido por la mañana y de caluroso a muy caluroso por la tarde, con cielos de despejado a medio nublado, viento de 5 a 20 km/h, con rachas que pueden superar los 45 km/h en algunas regiones de la entidad

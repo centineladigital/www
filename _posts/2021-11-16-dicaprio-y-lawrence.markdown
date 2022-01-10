@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La película protagonizada por Leonardo Dicaprio y Jennifer Lawrence se estrenará el 24 de diciembre en Netflix. "
 image: "/uploads/2021/images-leonardo-dicaprio-miticas-escenas-improvisado_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡DiCaprio y Lawrence contra el mundo! Netflix estrena segundo avance de 'No mires arriba'"
 front: false
 section: "Espectáculos"
-news_id: 189901
+redirect_from: /news/189901
 ---
 
 El descubrimiento de un asombroso asteroide que orbita dentro del Sistema Solar será uno de los problemas que tendrán que enferentar la estudiante de astronomía Kate Dibiasky y su profesor, el doctor Randall Mindy luego de que nadie se tome en serio el sorprendente hallazgo que está a punto de colisionar con la Tierra.  Esto es lo que se ve en el segundo avance de la cinta No mires arriba, la cual tendrá un elenco de lujo, pues contará con la participación de Leonardo Dicaprio, Jennifer Lawrence, Meryl Streep, Cate Blanchett, Timothée Chalamet, Ariana Grande, entre otros galardonados y populares famosos.  

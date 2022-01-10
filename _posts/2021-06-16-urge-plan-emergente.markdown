@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De acuerdo a un especialista forestal, la falta de lluvias ha sido la causa del fuego que se extiende por los bosques de la Tarahumara"
 image: "/uploads/2021/images-incendioschihuahua2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Urge plan emergente para atender incendios en la Sierra"
 front: false
 section: "Local"
-news_id: 185052
+redirect_from: /news/185052
 ---
 
 El especialista forestal Óscar Estrada Murrieta señaló que la prolongada sequía es la causante de la ola de incendios forestales que azotan la Sierra Tarahumara, por lo que expresó que es necesaria la declaratoria de un plan emergente de coordinación para atender la problemática.

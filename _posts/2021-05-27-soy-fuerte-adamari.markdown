@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Luego de varias semanas de rumores sobre la supuesta crisis que enfrentaba la pareja, recién se dio a conocer que Adamari López y Toni Costa sí pusieron fin a su relación matrimonial. "
 image: "/uploads/2021/images-adamari-lopez-toni-costa-separan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Soy fuerte -  Adamari López anuncia que se separa de su esposo Toni Costa tras casi 10 años de relación"
 front: false
 section: "Espectáculos"
-news_id: 184684
+redirect_from: /news/184684
 ---
 
 Adamari López y Toni Costa se separan tras casi 10 años de relación amorosa, es la noticia que sorprendió esta mañana a los fans de la pareja que se caracterizó por ser sólida. En medio del llanto, en pleno programa en vivo Hoy Día, Adamari rompió el silencio y explicó que enfrenta una ruptura amorosa. Además de que en otro video comunicó lo que sucedió. Luego de varias semanas de rumores sobre la supuesta crisis que enfrentaba la pareja, recién se dio a conocer que Adamari López y Toni Costa sí pusieron fin a su relación matrimonial. 

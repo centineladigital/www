@@ -10,11 +10,11 @@ author: nil
 description: "Esperan recopilar más de mil prendas de vestir."
 image: "/uploads/2021/images-MARUG.jpg"
 video: "/uploads/2021/videos-MW04_MARU_GALVAN.mp4"
-audio: "nil"
+audio: nil
 alt: "Inicia programa “Juntos sin Frío”"
 front: false
 section: "Local"
-news_id: 189264
+redirect_from: /news/189264
 ---
 
 Este lunes inició la colecta de chamarras dentro del programa “Juntos sin frío” por parte del DIF Estatal, con el fin de repartir alrededor de 21 mil chamarras para proteger a los menores que viven en situación de vulnerabilidad, según lo dio a conocer María Eugenia Galván Antillón, Presidenta de este organismo.

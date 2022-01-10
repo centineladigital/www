@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La nueva serie de Disney+ nos lleva a una travesía en la que Omar Chaparro muestra un lado muy personal de sus aventuras como padre, la fama y el regreso a sus raíces."
 image: "/uploads/2021/images-chaparreando-llegara-a-disney-el_0_0_415_258.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chaparreando. Recorren camino y se encuentran como padre e hijo"
 front: false
 section: "Espectáculos"
-news_id: 184542
+redirect_from: /news/184542
 ---
 
  Los reality shows ya no son necesariamente lo que eran antes. Hoy se han vuelto una gran manera para conocer la historia personal de los famosos, llevando ellos mismo la narrativa y descubriendo cosas en el camino. Es el caso del conductor y actor Omar Chaparro, quien la cuenta ahora al lado de su hijo Emiliano, de 14 años. A partir de este 21 de mayo veremos mucho de lo que ocurre con los Chaparro, sobre todo cuando las dinámicas cambian, y padre e hijo toman la carretera para regresar a las raíces juntos. El viaje comienza en Los Ángeles, California, donde viven, y acaba en Chihuahua, el lugar que vio nacer y crecer a Omar Chaparro. 

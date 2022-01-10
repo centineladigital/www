@@ -10,11 +10,11 @@ author: nil
 description: "Casi en su totalidad se encuentran invadidas viviendas en el municipio de Chihuahua."
 image: "/uploads/2021/images-FRANCISCO.jpg"
 video: "/uploads/2021/videos-MJ04_FRANCISCO_GUTIERREZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Buscan dar solución al problema de Fraccionamiento de pensiones"
 front: false
 section: "Local"
-news_id: 188489
+redirect_from: /news/188489
 ---
 
 Este jueves autoridades estatales se reunieron para tratar la problemática que representa el Fraccionamiento que construyó Pensiones Civiles Estatales para sus trabajadores, esto luego de que personas quienes adquirieron vivienda a través de la institución solicitaran apoyo por la situación que generan los paracaidistas en la zona.

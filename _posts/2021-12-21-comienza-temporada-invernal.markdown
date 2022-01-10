@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Ambiente muy frío al amanecer y por la noche en zonas serranas, heladas en gran parte del territorio estatal"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Comienza temporada invernal en el estado con bajas temperaturas; emite CEPC recomendaciones"
 front: false
 section: "Local"
-news_id: 191086
+redirect_from: /news/191086
 ---
 
 La Coordinación Estatal de Protección Civil de Chihuahua (CEPC), informa que,  la masa de aire frío que impulsó al Frente Frío número 14 en interacción con la corriente en chorro y un canal de baja presión favorecerá ambiente muy frío por la mañana, templado por la tarde, con ambiente de muy frío a gélido con heladas por las mañanas principalmente sobre  la zona serrana.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Desde el inicio de la pandemia se han contagiado 5 mil 196 trabajadores de la Salud, de los cuales 84 fallecieron y 4 mil 462 se recuperaron; además van 48 mil 699 contagios acumulados y 4 mil 550 defunciones en el estado"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dan positivo 154 personas más y se confirman 22 decesos por COVID-19 en las  últimas horas"
 front: false
 section: "Local"
-news_id: 182330
+redirect_from: /news/182330
 ---
 
 La Secretaría de Salud informó que al cierre del Reporte COVID-19 de este 21 de enero, se confirmaron 22 fallecimientos más por el virus SARS-CoV-2 en el estado para sumar un total de 4 mil 550,  así como 154 contagios para un acumulado de  48 mil 699.

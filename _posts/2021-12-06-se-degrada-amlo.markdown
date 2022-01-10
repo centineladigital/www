@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente consideró que se debe tener especial cuidado en estados como Hidalgo, Quintana Roo, Oaxaca, Tamaulipas, Aguascalientes y Durango, que tienen un proceso electoral en puerta. "
 image: "/uploads/2021/images-amlo-pide-omitir-temas-electorales_0_27_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Se degrada” -  AMLO pide omitir temas electorales en La Mañanera"
 front: false
 section: "Nacional"
-news_id: 190533
+redirect_from: /news/190533
 ---
 
 El presidente Andrés Manuel López Obrador pidió tener cuidado y mejor evitar temas electorales durante la conferencia mañanera porque "se degrada este espacio". 

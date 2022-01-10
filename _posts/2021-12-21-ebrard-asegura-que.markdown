@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El canciller indicó que la demanda cuenta con la simpatía de un sector de la población, por lo que se vive en términos de violencia. "
 image: "/uploads/2021/images-marcelo-ebrard-industria-armas-favorece_0_44_1024_637.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ebrard asegura que se ganará demanda contra fabricantes de armas en EU"
 front: false
 section: "Nacional"
-news_id: 191062
+redirect_from: /news/191062
 ---
 
 El secretario de Relaciones Exteriores, Marcelo Ebrard, aseguró que se ganará la demanda contra fabricantes de armas en Estados Unidos, puesto que, además, se cuenta con el respaldo de otros países.

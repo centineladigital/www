@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Algunos Comités Olímpicos han criticado y calificado como lamentable la falta de solidaridad y respeto por parte de la FIFA y su idea de realizar la Copa del Mundo cada dos años"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Comités Olímpicos se oponen a la FIFA en querer organizar el Mundial cada dos años"
 front: false
 section: "Deportes"
-news_id: 189195
+redirect_from: /news/189195
 ---
 
 La Asociación de Comités Olímpicos Nacionales (ACNO), que reúne a los 205 reconocidos en el mundo, ha criticado "la lamentable falta de solidaridad y de respeto por los otros deportes" exhibida por la FIFA al anunciar "sin consulta previa" sus planes de organizar un mundial de fútbol cada dos años.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Espera llegada de exgobernador, afirma que se trabaja en el tema."
 image: "/uploads/2021/images-CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM05_JAVIER_CORRAL.mp3"
 alt: "Promete AMLO extradición de Duarte -  Corral"
 front: false
 section: "Local"
-news_id: 185302
+redirect_from: /news/185302
 ---
 
 “Tenemos varios acuerdos en este asunto” fueron las palabras del Gobernador de Chihuahua Javier Corral Jurado al señalar que dentro de los temas a tratar con el Presidente de la República se encontró la extradición del Gobernador de Chihuahua César Duarte Jáquez.

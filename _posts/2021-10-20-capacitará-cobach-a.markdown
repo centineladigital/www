@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Tendrán un mayor nivel de empleabilidad, pertinencia y desarrollo de habilidades para una mejor inserción en el campo laboral  "
 image: "/uploads/2021/images-C1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacitará Cobach a estudiantes para incursionar en la industria en alianza con Index"
 front: false
 section: "Local"
-news_id: 188969
+redirect_from: /news/188969
 ---
 
 Con el propósito de mejorar la formación integral de las y los estudiantes, el Colegio de Bachilleres del Estado de Chihuahua (Cobach), esta institución educativa firmará un convenio de colaboración con el Consejo Nacional de la Industria Maquiladora y Manufacturera de Exportación (Index).

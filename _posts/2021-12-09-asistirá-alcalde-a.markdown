@@ -16,11 +16,11 @@ author: nil
 description: "Se hablará del tema de fondos  federales para el relleno sanitario , bolsas participantes para Seguridad Pública..."
 image: "/uploads/2021/images-amlo-defiende-a-esquer-y-santiago-nieto-de-ataques-de-la-oposicion-estan-desatados.jpeg"
 video: "/uploads/2021/videos-BJ03_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Asistirá alcalde a la mesa de seguridad nacional con AMLO "
 front: false
 section: "Local"
-news_id: 190687
+redirect_from: /news/190687
 ---
 
 El presidente Marco Antonio Bonilla Mendoza, aseguró que será parte de la mesa de seguridad nacional encabezada por el presidente de la republica Andrés Manuel López Obrador y la gobernadora del estado de Chihuahua María Eugenia Campos Galván.

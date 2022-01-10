@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Regina Blandón aclaró que ella no escribió el tuit, puesto que no está bien escrito y que además el lenguaje inclusivo que se utilizó en la publicación no está bien empleado. "
 image: "/uploads/2021/images-actriz-regina-blandon-acusada-diputada_0_12_1080_672.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Diputada comparte supuesto mensaje de Regina Blandón; Yo no borro tuits -  aclara la actriz"
 front: false
 section: "Espectáculos"
-news_id: 185367
+redirect_from: /news/185367
 ---
 
 Luego de apoyar públicamente la decisión del Congreso Local de Hidalgo de hacer legal la interrupción del embarazo en las primeras semanas de gestación, Regina Blandón fue atacada por una diputada local de Querétaro luego de que supuestamente compartiera un tuit en el que decía que México era un país tercermundista; sin embargo, la actriz aclaró en una serie de videos que el tuit es falso. 

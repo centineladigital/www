@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Deducciones del 100 por ciento en recargos y 90 por ciento en adeudos estarán vigentes hasta el 31 de diciembre   "
 image: "/uploads/2021/images-unnamed_(16).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se benefician mil 951 usuarios con descuentos de la JMAS; invitan a aprovecharlos todo diciembre"
 front: false
 section: "Local"
-news_id: 191038
+redirect_from: /news/191038
 ---
 
 La Junta Municipal de Agua y Saneamiento (JMAS) de Chihuahua informó que a dos semanas de iniciados los descuentos del 100 por ciento en recargos y 90 por ciento en adeudos, un total de mil 951 usuarios se han puesto al corriente con su cuenta.

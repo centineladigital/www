@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La obra tiene un avance del 95 por ciento. "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inspecciona Alcaldesa obra de ampliación en biblioteca “León Barrí Paredes”"
 front: false
 section: "Local"
-news_id: 185679
+redirect_from: /news/185679
 ---
 
 María Angélica Granados Trespalacios, presidenta municipal, inspeccionó la obra de ampliación que se está llevando a cabo en la biblioteca “León Barrí Paredes”, la cual tiene un avance del 95 por ciento, y está programada entregar en el plazo de un mes.  

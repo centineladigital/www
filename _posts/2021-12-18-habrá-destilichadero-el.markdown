@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal llevará el programa a cinco colonias de la ciudad"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Habrá Destilichadero el próximo 20 y 21 de diciembre"
 front: false
 section: "Local"
-news_id: 191010
+redirect_from: /news/191010
 ---
 
 Con el objetivo de evitar que la basura de grandes dimensiones termine en arroyos o las calles de la ciudad, el Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, llevará el programa de Destilichadero a las colonias Zootecnia, Lealtad I, ampliación 2 de Octubre, ampliación Lealtad y Lealtad ampliación los días 20 y 21 de diciembre.

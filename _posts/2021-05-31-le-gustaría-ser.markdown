@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ignacio Peregrín comentó que su mamá lloró al enterarse del compromiso de Belinda; señaló que su hermana siempre ha querido ser mamá. "
 image: "/uploads/2021/images-ignacio-peregrin-compromiso-belinda-nodal_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Le gustaría ser madre -  Ignacio Peregrín habla del compromiso de Belinda con Nodal"
 front: false
 section: "Espectáculos"
-news_id: 184745
+redirect_from: /news/184745
 ---
 
 Belinda y Christian Nodal continúan en el ojo del huracán luego de que hicieran público su compromiso. El anuncio no sólo sorprendió a sus seguidores, sino también a sus respectivas familias que compartieron mensajes de felicitación a los novios, mismos a los que se sumó Ignacio Peregrín, hermano de la intérprete de "Bella traición", quien reveló cómo reaccionaron a la noticia sus padres.  Durante un mitin político, Ignacio Peregrín, candidato a diputado federal por la coalición Juntos Haremos Historia, fue cuestionado por la prensa sobre el compromiso de Belinda, el cual dijo tomó por sorpresa a toda su familia. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Según lo relatado por el actor, su enamoramiento por 'La Chica Dorada' lo llevó a vivir una vergonzosa experiencia durante su juventud. "
 image: "/uploads/2021/images-palazuelos-estaba-enamorado-de-paulina.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Un día me hizo una chin... -  Roberto Palazuelos revela que estuvo enamorado de Paulina Rubio"
 front: false
 section: "Espectáculos"
-news_id: 190149
+redirect_from: /news/190149
 ---
 
 Roberto Palazuelos y Paulina Rubio son dos de las personalidades más populares de la farándula mexicana, esto gracias a sus carreras en el mundo del espectáculo. Por tal motivo, luego de décadas de trabajo, no es extraño que salgan a la luz historias del pasado, como recientemene, que el actor reveló que durante su juventud estuvo profundamente enamorado de 'La Chica Dorada'. Fue durante una entrevista en el programa Pinky Promise de Karla Díaz, que Palazuelos compartió una mala experiencia que tuvo al estar enamorado de la ex integrante de la banda Timbiriche.

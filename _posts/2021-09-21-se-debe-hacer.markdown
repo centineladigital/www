@@ -12,11 +12,11 @@ author: nil
 description: "Se consideraran los sueldos de funcionarios  "
 image: "/uploads/2021/images-descarga_(2).jpg"
 video: "/uploads/2021/videos-BM04_MARIO_VAZQUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Se debe hacer un esfuerzo de austeridad -  Vázquez "
 front: false
 section: "Local"
-news_id: 187931
+redirect_from: /news/187931
 ---
 
 El presidente del Congreso del Estado Mario Vázquez declaró que se deber hacer un esfuerzo de austeridad en todos los órganos del Estado tal como lo propuso Morena, Vázquez afirmó están dispuestos a trabajar a favor de aumentar los ahorros del estado y así salir de este bache financiero.

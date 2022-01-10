@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Dos estados y 33 municipios de franja fronteriza están exentos de medida"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Este domingo termina Horario de Verano"
 front: false
 section: "Nacional"
-news_id: 189408
+redirect_from: /news/189408
 ---
 
 A partir del primer minuto del domingo 31 de octubre concluye el Horario de Verano, por lo que se recomienda que la noche de este sábado, antes de irse a dormir, atrase su reloj una hora.

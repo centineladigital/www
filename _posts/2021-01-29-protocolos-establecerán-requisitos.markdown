@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Estrategia será definida por el gobierno a nivel federal."
 image: "/uploads/2021/images-GUMARO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV02_GUMARO_BARRIOS.mp3"
 alt: "Protocolos establecerán requisitos para personal"
 front: false
 section: "Local"
-news_id: 182566
+redirect_from: /news/182566
 ---
 
 Protocolos establecidos son los que determinarán el número de personal que se requiere para la aplicación de la vacuna de coronavirus, señaló el Subdirector de Epidemiología Gumaro Barrios Gallegos, esto al ser cuestionado respecto a la capacitación de alumnos de la UACH para la aplicación de las vacunas.

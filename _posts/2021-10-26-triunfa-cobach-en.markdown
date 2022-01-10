@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Suman un total de 17 medallas entre oro, plata y bronce"
 image: "/uploads/2021/images-COBACH_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Triunfa Cobach en XXXI Olimpiada Estatal de Química de la UACH"
 front: false
 section: "Local"
-news_id: 189209
+redirect_from: /news/189209
 ---
 
 Los estudiantes del Colegio de Bachilleres del Estado de Chihuahua (Cobach), resultaron ganadores de las preseas de oro, plata y bronce en la XXXI Edición de la Olimpiada Estatal de Química de la Universidad Autónoma de Chihuahua (UACh).

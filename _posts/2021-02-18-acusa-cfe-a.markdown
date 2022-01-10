@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Explica el director de CFE Energía, Miguel Reyes, que se firmaron contratos con una red de gasoductos privada; el 64% por de la generación de energía en México es por gas natural"
 image: "/uploads/2021/images-2531721.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acusa CFE a Peña y Calderón de causar dependencia a gas texano"
 front: false
 section: "Nacional"
-news_id: 183004
+redirect_from: /news/183004
 ---
 
 De acuerdo con la Comisión Federal de Electricidad (CFE), mediante una serie de contratos durante los gobiernos de Felipe Calderón y Enrique Peña Nieto se provocó una dependencia de México al gas natural de Texas, en Estados Unidos (EU).

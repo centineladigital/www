@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las acciones tuvieron impacto directo en 24 mil 206 niñas, niños y adolescentes y mil 159 docentes de 100 escuelas del nivel básico de diversos municipios  "
 image: "/uploads/2021/images-U2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan Unicef y Secretaría de Educación  balance de proyectos implementados en Chihuahua"
 front: false
 section: "Local"
-news_id: 187372
+redirect_from: /news/187372
 ---
 
 Durante una reunión realizada a través de la plataforma Zoom, se presentó un balance de resultados sobre las actividades acordadas entre la Secretaría de Educación y Deporte (SEyD) y el Fondo de las Naciones Unidas para la Infancia (Unicef).

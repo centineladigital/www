@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "El piloto mexicano dice que les ofrecieron la vacuna y aceptó la oferta, al igual que su coequipero Carlos Sainz"
 image: "/uploads/2021/images-2543928.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "‘Checo’ Pérez acepta vacuna contra el covid en Bahréin"
 front: false
 section: "Deportes"
-news_id: 183395
+redirect_from: /news/183395
 ---
 
 El mexicano Sergio Checo Pérez, de Red Bull, y el español Carlos Sainz, de Ferrari, dijeron que habían aceptado la oferta de Bahréin para vacunarse contra el covid-19, convirtiéndose en los primeros pilotos de Fórmula Uno en confirmar que lo han hecho.

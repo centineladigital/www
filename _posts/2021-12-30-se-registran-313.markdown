@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 ascendió a 8 mil 759 casos"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 313 nuevos casos de COVID-19 para el estado de Chihuahua"
 front: false
 section: "Local"
-news_id: 191358
+redirect_from: /news/191358
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 30 de diciembre el reporte COVID-19, en el cual se registran 92 mil 641 (+313) personas confirmadas en la entidad por este padecimiento, 79 mil 888 (+528) casos recuperados, 88 mil 771 (+185) descartados y mil 271 (+65) casos sospechosos.

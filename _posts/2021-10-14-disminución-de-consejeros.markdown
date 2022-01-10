@@ -16,11 +16,11 @@ author: nil
 description: "Se tendrían que revisar algunos aspectos como el número de regidores, el número de diputados"
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BJ02_MARIO_VAZQUEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Disminución de consejeros en el INE  se tiene que revisar "
 front: false
 section: "Local"
-news_id: 188742
+redirect_from: /news/188742
 ---
 
 El diputado Mario Vázquez manifestó que  ante las especulaciones de disminución de consejeros en el Instituto Estatal Electoral que al parecer representaría un gasto para el erario público, viene una reforma electoral en chihuahua.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Labores que se suman a la recolección de basura y barrido manual en avenidas principales, además del barrido mecanizado, limpieza de basureros y arroyos, entre otras actividades que se realizan diariamente"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tras lluvias, refuerza el Gobierno Municipal limpieza de calles y avenidas"
 front: false
 section: "Local"
-news_id: 186910
+redirect_from: /news/186910
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos ha reforzado la limpieza de arroyos y canaletas de la ciudad a raíz de las lluvias que han traído consigo el crecimiento de maleza en algunas áreas, labores que se suman a la recolección de basura y barrido manual en avenidas principales, además del barrido mecanizado, limpieza de basureros y arroyos, entre otras actividades que se realizan diariamente.

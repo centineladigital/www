@@ -10,11 +10,11 @@ author: nil
 description: "Solamente han encontrado áreas de oportunidades, afirma titular de la dependencia."
 image: "/uploads/2021/images-M.jpeg"
 video: "/uploads/2021/videos-MW05_MARGARITA_BLACKALLER.mp4"
-audio: "nil"
+audio: nil
 alt: "No hay aviadores en INMUJERES"
 front: false
 section: "Local"
-news_id: 188979
+redirect_from: /news/188979
 ---
 
 Luego de que en diversas dependencias se encontraban personas que simulaban realizar un trabajo en gobierno y no lo hacían, o aviadores como se les conoce, en el Instituto de la Mujer de Chihuahua no se han detectado esta serie de casos.

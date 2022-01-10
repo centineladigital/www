@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El gobierno de India ordena a las redes sociales que se eliminen contenidos que incluyan la expresión 'variante india' del coronavirus, alegando la proliferación de noticias falsas"
 image: "/uploads/2021/images-2582745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ordena India censurar expresión 'variante india' en redes sociales"
 front: false
 section: "Internacional"
-news_id: 184603
+redirect_from: /news/184603
 ---
 
 El gobierno de India ordenó a las redes sociales que eliminen contenidos que incluyan la expresión 'variante india' del coronavirus.

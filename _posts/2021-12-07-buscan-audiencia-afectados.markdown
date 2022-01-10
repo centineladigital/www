@@ -10,11 +10,11 @@ author: nil
 description: "Buscaban conocer acciones y presentar inquietudes ante el Fiscal General."
 image: "/uploads/2021/images-AFECTADA.jpg"
 video: "/uploads/2021/videos-MM01_AFECTADA.mp4"
-audio: "nil"
+audio: nil
 alt: "Buscan audiencia afectados por ARAS"
 front: false
 section: "Local"
-news_id: 190599
+redirect_from: /news/190599
 ---
 
 Personas afectadas por la empresa ARAS buscaron este martes ser atendidos por el Fiscal General del Estado, esto luego de presentarse algunos de los afectados por el fraude de la empresa financiera, según lo manifestó una de los afectados.

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal llevó las pláticas al área laboral de mujeres trabajadoras de ContiTech"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Programas para la prevención de cáncer de mama llegan a empresa maquiladora"
 front: false
 section: "Local"
-news_id: 189127
+redirect_from: /news/189127
 ---
 
 En el marco del Día Internacional de la Lucha Contra el Cáncer de Mama, el Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM), impartió la plática “Detección oportuna de cáncer de mama” a las trabajadoras de la empresa ContiTech de Chihuahua.

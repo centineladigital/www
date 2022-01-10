@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Generó festival una derrama de más de 15 millones de pesos en la ciudad"
 image: "/uploads/2021/images-unnamed_(12).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dejó sonrisas en más de 20 mil capitalinos FICUU 2021"
 front: false
 section: "Local"
-news_id: 189214
+redirect_from: /news/189214
 ---
 
 Durante la pasada edición del Festival Internacional de la Ciudad de Chihuahua (FICUU) 2021, 20 mil 603 personas se dieron cita para disfrutar de las 44 actividades culturales que se realizaron del 12 al 23 de octubre en el Centro Histórico, el Teatro de la Ciudad, el Museo Sebastián, el Centro de Desarrollo Cultural, así como el escenario montado en la presa El Rejón, las cuales dejaron una derrama económica de 15 millones 241 mil 200 pesos.

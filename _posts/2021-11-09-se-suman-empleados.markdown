@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Alcalde participó en la colecta que se realiza cada año para esta noble causa"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se suman empleados municipales a boteo anual de la Cruz Roja"
 front: false
 section: "Local"
-news_id: 189689
+redirect_from: /news/189689
 ---
 
 El Presidente Municipal, Marco Bonilla Mendoza, participó en el boteo anual de la Cruz Roja, con el fin de apoyar en la recaudación de fondos que se realiza cada año para que la benemérita institución continúe prestando auxilio a las personas que así lo requieran.

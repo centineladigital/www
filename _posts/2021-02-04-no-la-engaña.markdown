@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La joven vinculada a Alex Rodríguez puso fin a los rumores que aseguran un amorío con el ex beisbolista. "
 image: "/uploads/2021/images-madison-lecroy-niega-romance-alex.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No la engaña conmigo -  Madison LeCroy niega romance con pareja de Jennifer Lopez"
 front: false
 section: "Espectáculos"
-news_id: 182715
+redirect_from: /news/182715
 ---
 
 Jennifer Lopez y y Alex Rodríguez, quienes iniciaron su relación hace cuatro años e hicieron forman su compromiso en 2019, han tenido que aplazar su boda en dos ocasiones debido a la pandemia por covid-19. Aunado a eso, de acuerdo con una serie de rumores en torno a la pareja, su unión podría estar en peligro a causa de una mujer llamada Madison LeCroy. 

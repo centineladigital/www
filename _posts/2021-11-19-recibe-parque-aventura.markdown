@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El premio fue entregado por el Secretario Federal de Turismo como parte de los premios a la Diversificación del Producto Turístico Mexicano 2020"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recibe Parque Aventura Barrancas del Cobre premio nacional de Turismo de Aventura"
 front: false
 section: "Local"
-news_id: 190008
+redirect_from: /news/190008
 ---
 
 El Parque de Aventura Barrancas del Cobre fue reconocido con el premio Turismo de Aventura de la Diversificación del Producto Turístico Mexicano 2020, esto durante el Tianguis Turístico, en el Gran Museo del Mundo Maya, en Mérida, Yucatán.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El conductor protagonizó un enfrentamiento en contra del coach de 'Quiero cantar', concurso de canto que arrancó este lunes en el matutino de TV Azteca. "
 image: "/uploads/2021/images-horacio-villalobos-pelea-concurso-vla_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La vida no es justa -  Horacio Villalobos pelea en concurso de 'VLA'; lo comparan con Lolita Cortés"
 front: false
 section: "Espectáculos"
-news_id: 185589
+redirect_from: /news/185589
 ---
 
 Quiero cantar, un concurso que pone a prueba las habilidades de canto de las celebridades mexicanas, arrancó este lunes en el programa Venga la Alegría en medio de la polémica. Si bien, algunos internautas aplaudieron las presentaciones de algunos de los participantes, otros criticaron el poco talento que se vio en el escenario, en especial por la "fallida" actuación de Anette Cuburu y los comentarios de Horacio Villalobos.  

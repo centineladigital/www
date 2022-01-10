@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dos mujeres acusaron de agresión sexual al actor que interpreta a Mr Big en la serie; por su parte, Chris Noth aseguró que los encuentros fueron consensuados. "
 image: "/uploads/2021/images-chris-noth-sex-and-the.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acusan a Chris Noth, de 'Sex and the city', de abuso sexual; el actor responde"
 front: false
 section: "Espectáculos"
-news_id: 190948
+redirect_from: /news/190948
 ---
 
 Sex and the city volvió a la conversación tras el estreno de And Just Like That..., la serie que da continuación a la historia de Carrie Bradshaw. A unos días de que los primeros episodios llegaran a HBO Max, Chris Noth, conocido por interpretar a Mr Big, fue acusado de abuso sexual por dos mujeres -identificadas como Lily y Zoe para resguardar su privacidad-. Por su parte, el actor negó los hechos y calificó de "falsas" las declaraciones hechas en su contra.  La acusaciones de agresión sexual fueron publicadas en el medio estadunidense The Hollywood Reporter (THR) en donde se señala que las dos mujeres no se conocen entre sí, además de que dieron sus testimonios por separado y con varios meses de diferencia. 

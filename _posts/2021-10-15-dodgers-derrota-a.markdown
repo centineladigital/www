@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Cody Bellinger rompió el empate en la novena entrada con un hit productor, para que los Dodgers de Los Ángeles derrotaran 2-1 a los Gigantes de San Francisco y avanzaran a la Serie de Campeonato de la Liga Nacional "
 image: "/uploads/2021/images-cody-bellinger-celebra-hit-triunfo_0_14_600_372.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dodgers derrota a Giants y avanza a Serie de Campeonato"
 front: false
 section: "Deportes"
-news_id: 188758
+redirect_from: /news/188758
 ---
 
 Cody Bellinger rompió el empate en la novena entrada con un hit productor, para que los Dodgers de Los Ángeles derrotaran 2-1 a los Gigantes de San Francisco y avanzaran a la Serie de Campeonato de la Liga Nacional por quinta ocasión en los últimos seis años. 

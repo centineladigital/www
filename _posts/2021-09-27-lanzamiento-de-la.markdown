@@ -14,11 +14,11 @@ author: nil
 description: "El alcalde encabezo el evento "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-27_at_11.14.33_AM.jpeg"
 video: "/uploads/2021/videos-BL05_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Lanzamiento de la bandera en el palomar"
 front: false
 section: "Local"
-news_id: 188109
+redirect_from: /news/188109
 ---
 
 Con motivo de recordar los hechos históricos por la lucha de la independencia de México el presidente del municipio Marco Bonilla, encabezó el lanzamiento de la bandera en la explanada del palomar.

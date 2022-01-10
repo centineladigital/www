@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Quedaron definidos los cruces de cuartos de final en la Fiesta Grande del balompié femenino "
 image: "/uploads/2021/images-trofeo-campeonato-liga-mx-femenil_0_53_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así se jugará la liguilla del Apertura 2021 de la Liga MX Femenil"
 front: false
 section: "Deportes"
-news_id: 190067
+redirect_from: /news/190067
 ---
 
 Este domingo quedaron definidos los cruces que tendremos en los cuartos de final del Apertura 2021 de la Liga MX Femenil, donde Tigres y Monterrey apuntan a una nueva final.  En los días recientes se habían definido a los ocho invitados a la Fiesta Grande, sin embargo a falta de una jornada aún quedaba por especificar quiénes se enfrentarían en cuartos de final.  

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El recorrido fue para hablar sobre temas turísticos y económicos"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recorre Alcalde y COCENTRO comercios del Centro Histórico   "
 front: false
 section: "Local"
-news_id: 187697
+redirect_from: /news/187697
 ---
 
 El presidente municipal Marco Bonilla Mendoza realizó un recorrido del Centro Histórico, a fin de refrendar las acciones en materia de seguridad que se han realizado en coordinación con la Asociación de Comerciantes de Centro (COCENTRO).

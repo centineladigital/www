@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Informa CEPC que este sábado 13 Chihuahua amanecerá a 7°C y Ciudad Juárez a 6°C, en tanto que Madera, Temósachic y El Vergel, en Balleza, estarán por debajo de los cero grados; el domingo 14 de febrero entran el frente frío 36 y la novena tormenta invernal de la temporada"
 image: "/uploads/2021/images-NEVADA_EN_CD_CHIHUAHUA_2021.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte Protección Civil Estatal clima gélido, lluvia, nieve y aguanieve durante fin de semana"
 front: false
 section: "Local"
-news_id: 182917
+redirect_from: /news/182917
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) advirtió a la población sobre el marcado descenso de las temperaturas que se presentará durante este fin de semana, acompañado de lluvias, nieve y aguanieve en la mayor parte de la entidad.

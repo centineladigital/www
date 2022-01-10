@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La protagonista de 'Enola Holmes' cumple 17 años este viernes y sus millones de fans no dejaron pasar la fecha. "
 image: "/uploads/2021/images-millie-bobby-brown-celebra-anos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Eleven, eres tú? Millie Bobby Brown celebra su cumpleaños con tierno video"
 front: false
 section: "Espectáculos"
-news_id: 183045
+redirect_from: /news/183045
 ---
 
 Millie Bobby Brown cumple 17 años este viernes 19 de febrero y para celebrar, compartió con sus millones de seguidores un tierno video, que le ha robado el corazón a sus fans, tal como sus personajes más recientes. La protagonista de la película de Netflix, Enola Holmes, empleó su cuenta de Instagram para postear el breve clip, en el que se ve a una muy pequeña Millie cantando a todo pulmón. “Esto es diecisiete”, escribió la famosa Eleven de Stranger Things en Instagram.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La jornada de vacunación será de cuatro días en 11 regiones del estado"
 image: "/uploads/2021/images-vacunación_educativo_1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca vacunación al sector educativo en Chihuahua"
 front: false
 section: "Local"
-news_id: 184635
+redirect_from: /news/184635
 ---
 
 La maestra Delfina Gómez, secretaria de Educación Pública acompañada del gobernador Javier Corral Jurado y la delegada Bertha Alcalde dieron arranque a la aplicación de vacuna contra el virus SARS CoV2.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Informa la Coordinación Estatal de Protección Civil, que el valor mínimo en el termómetro podría ser inferior a los  6 Grados Centígrados en municipios como Madera, Ocampo, Guerrero, Bocoyna, Guachochi, Guadalupe y Calvo y Balleza   "
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se mantendrán en la entidad temperaturas frías durante las mañanas y noches   "
 front: false
 section: "Local"
-news_id: 189398
+redirect_from: /news/189398
 ---
 
 Ante el pronóstico emitido por el Servicio Meteorológico Nacional y la Junta Central de Agua y Saneamiento de Chihuahua (JCAS), la Coordinación Estatal de Protección Civil prevé que se presenten en el estado, temperaturas frías y heladas por la mañana y noche, principalmente en la zona serrana.

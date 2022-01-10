@@ -10,11 +10,11 @@ author: nil
 description: "Con ello se regirá el plan de desarrollo estatal."
 image: "/uploads/2021/images-SERRATO.jpg"
 video: "/uploads/2021/videos-MW06_LUIS_SERRATO.mp4"
-audio: "nil"
+audio: nil
 alt: "Instalan Consejo COPLADE"
 front: false
 section: "Local"
-news_id: 188694
+redirect_from: /news/188694
 ---
 
 Este miércoles fue instalado el Consejo Permanente del Coplade en la capital, donde hoy se tomó protesta a funcionarios federales y estatales, así como empresarios, sociedad organizada, grupos étnicos, entre otros que conforman parte de la sociedad organizada.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con base en los datos de prueba, un juez determinó la posible participación del legislador federal en delito de violación, lo vinculó a proceso penal y decretó prisión preventiva"
 image: "/uploads/2021/images-jorge-romero-diputado-violacion_optimized.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vinculan a proceso penal a Jorge Romero, diputado electo de Guanajuato acusado de violación"
 front: false
 section: "Nacional"
-news_id: 187317
+redirect_from: /news/187317
 ---
 
 Irapuato, Gto.- El  diputado federal Jorge Romero Vázquez fue vinculado a proceso penal por el delito de violación en agravió de una mujer y recluido en el Cereso de Irapuato.

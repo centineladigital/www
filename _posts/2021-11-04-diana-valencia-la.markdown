@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se comprometió a fortalecer la formación de profesionistas musicales"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Diana Valencia, la nueva directora del Conservatorio de Música de Chihuahua   "
 front: false
 section: "Local"
-news_id: 189564
+redirect_from: /news/189564
 ---
 
 Como parte de las acciones para fortalecer al Conservatorio de Música de Chihuahua, la titular del Instituto de Cultura del Municipio (ICM), Fernanda Bencomo Arvizo, realizó el nombramiento de Diana Valencia Arango como nueva directora del Conservatorio de Música de Chihuahua, a fin de que los trabajos de esta institución continúen para la formación de profesionistas en el ámbito musical dentro de la ciudad.

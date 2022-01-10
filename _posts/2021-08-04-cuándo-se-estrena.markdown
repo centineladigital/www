@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te decimos dónde ver, cuándo se estrena y de qué trata 'The Suicide Squad', la nueva película del aclamado 'Escuadrón Suicida', encabezado por Harley Quinn. "
 image: "/uploads/2021/images-15_cide.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cuándo se estrena? Te decimos todo lo que debes saber sobre 'The Suicide Squad'"
 front: false
 section: "Espectáculos"
-news_id: 186283
+redirect_from: /news/186283
 ---
 
 'The Suicide Squad' está cada vez más cerca de llegar. La nueva película del 'El Escuadrón Suicida' estará dirigida por James Gunn, y significará un reboot con relación a la película de 2016, pese a que la protagonista es la misma Margot Robbie. 

@@ -14,11 +14,11 @@ author: nil
 description: "Morena esta a la espera del fallo que emita el poder judicial y de esta manera podrá tener una opinión concreta al respecto"
 image: "/uploads/2021/images-descarga_(9).jpg"
 video: "/uploads/2021/videos-BM03_CUAHUTEMOC_ESTRADA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Morena no emitirá opinión hasta la resolución del DAP "
 front: false
 section: "Local"
-news_id: 190126
+redirect_from: /news/190126
 ---
 
  “Morena está a favor del estado de derecho, por lo que no se puede emitir una opinión a favor o en contra de la desapareció del DAP”, Estas fueron las palabras del legislador Cuauhtémoc Estrada al ser cuestionada la postura de Morena sobre la desaparición del impuesto de Derecho de Alumbrado Público el cual tiene alarmado al Municipio.

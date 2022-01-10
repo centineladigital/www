@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se aprobaron dentro de sesión ordinaria de Cabildo"
 image: "/uploads/2021/images-unnamed_(12).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueba Cabildo lineamientos técnicos de Participación Ciudadana"
 front: false
 section: "Local"
-news_id: 189770
+redirect_from: /news/189770
 ---
 
 Las y los integrantes del Ayuntamiento de Chihuahua en sesión ordinaria de Cabildo, aprobaron varias reformas al Reglamento de Participación Ciudadana, mismas que otorgan la posibilidad de elegir las propuestas de la sociedad civil en favor del municipio.

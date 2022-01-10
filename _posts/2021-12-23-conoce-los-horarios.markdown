@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las personas que requieran algún servicio deberán solicitar un vale en la Dirección de Desarrollo Humano y Educación"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conoce los horarios de las clínicas municipales en las fiestas decembrinas"
 front: false
 section: "Local"
-news_id: 191177
+redirect_from: /news/191177
 ---
 
 Ante la temporada invernal y la contingencia provocada por el COVID-19, el Gobierno Municipal de Chihuahua y la fundación Adelaida Lafón, reiteran su compromiso con todos los chihuahuenses en relación al cuidado y atención a la salud, a través del servicio médico que ofrecen las tres clínicas municipales: Chanita, Lupita y Riberas, las cuales modificarán sus horarios este 24 y 31 de diciembre.

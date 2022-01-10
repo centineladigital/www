@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te contamos todo lo que debes saber antes de ver 'Rápidos y Furiosos 9', desde fecha de estreno, dónde ver y de qué trata la película. "
 image: "/uploads/2021/images-donde-se-podra-ver-rapidos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Dónde ver y cuándo se estrena? Todo lo que debes saber sobre 'Rápidos y Furiosos 9'"
 front: false
 section: "Espectáculos"
-news_id: 185155
+redirect_from: /news/185155
 ---
 
 Después de retrasos y tiempos de espera, Rápidos y Furiosos 9 (Fast and Furious 9) llegará a México, Estados Unidos y América Latina en general, es por ello que te decimos todo lo que debes saber sobre F9 de la franquicia, la cual no te podrás perder por ningún motivo en el mundo.  

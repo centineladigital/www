@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se proyectan nuevos talleres para la primera quincena de diciembre en el aula móvil ubicada en el Salón Pinos Altos"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita ICATECH al público en general a capacitación en primeros auxilios"
 front: false
 section: "Local"
-news_id: 190393
+redirect_from: /news/190393
 ---
 
 La Secretaría de Innovación y Desarrollo Económico (SIDE), a través del Instituto de Capacitación para el Trabajo del Estado de Chihuahua (ICATECH), invita a la población en general a cursar la formación básica como primer respondiente (primeros auxilios) en la ciudad de Chihuahua.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La CEPC informa que la carretera Janos-Agua Prieta se mantiene cerrada desde las 15:00 horas de ayer, debido a una segunda precipitación de nieve; Majalca amanece a -10.1°C, Chihuahua a -2°C y Juárez a -3.4°C"
 image: "/uploads/2021/images-TRAMO_PUERTO_SAN_LUIS_CERRADO_POR_NIEVE_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se mantendrán temperaturas gélidas en la entidad por el paso  del frente frío 32"
 front: false
 section: "Local"
-news_id: 182476
+redirect_from: /news/182476
 ---
 
 Este miércoles 27, la masa de aire polar asociada al frente frío número 32, en interacción con la corriente en chorro, ocasionó un marcado descenso de las temperaturas en la entidad con un registro de -2°C para Chihuahua y -3.4°C en Ciudad Juárez, informó la Coordinación Estatal de Protección Civil (CEPC).

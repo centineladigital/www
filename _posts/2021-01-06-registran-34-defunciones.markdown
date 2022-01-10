@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Asimismo se detectaron 183 nuevos casos."
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp3"
 alt: "Registran 34 defunciones en 24 horas"
 front: false
 section: "Local"
-news_id: 181926
+redirect_from: /news/181926
 ---
 
 Tras dos días de registrar pocos casos de personas que fallecieron de coronavirus, este miércoles se dio un registro de 34 casos comprobados tras cumplir con el protocolo que se requiere. Arturo Valenzuela Zorrilla, Director Médico Zona Norte, señaló que con esta cifra se llega a cuatro mil 435 defunciones desde el inicio de la pandemia.

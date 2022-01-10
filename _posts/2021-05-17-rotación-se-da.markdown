@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Por otra parte pide más presencia de autoridades federales."
 image: "/uploads/2021/images-CORRAL1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML06_JAVIER_CORRAL.mp3"
 alt: "Rotación se da de forma permanente en Fiscalía -  Corral"
 front: false
 section: "Local"
-news_id: 184505
+redirect_from: /news/184505
 ---
 
 Al ser cuestionada sobre la destitución de Lilia Maldonado como Fiscal Zona Sur, se dio por un proceso de depuración que se da de forma permanente señaló el Gobernador, Javier Corral Jurado. Al señalar que la decisión se tomó por la infiltración de integrantes del grupo criminal que opera en aquella zona.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se ha cumplido el compromiso con el Pueblo de Chihuahua: el ex gobernador está en una cárcel de Miami y ya se recuperaron 634 millones de pesos, que se regresan en obras para la población más necesitada y en las comunidades más lejanas"
 image: "/uploads/2021/images-Primer_gráfico.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por actos de corrupción, Operación Justicia ha llevado a 41 personas ante los tribunales"
 front: false
 section: "Local"
-news_id: 182410
+redirect_from: /news/182410
 ---
 
 Rumbo al Cuarto Informe, el gobernador Javier Corral Jurado cumplió su compromiso de llevar ante la justicia a quienes saquearon el dinero del pueblo y también de recuperar lo robado, que se regresa a la población más necesitada con obras que trascienden y en las comunidades más lejanas.

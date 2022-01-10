@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este jueves la cantante y actriz cumple 50 años, y llega a esa edad siendo uno de los más grandes íconos de la música y la televisión en México."
 image: "/uploads/2021/images-thalia-recrea-iconico-look-noventero_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tú puedes usar cualquier peluche -  Thalía recrea icónico look con osos de peluche en 'tutorial' y se hace viral"
 front: false
 section: "Espectáculos"
-news_id: 187138
+redirect_from: /news/187138
 ---
 
 Thalía es muy popular en sus redes sociales donde suma millones de seguidores, y estos días ha causado furor entre ellos al compartir un pequeño tutorial en el que enseña cómo recrear uno de sus looks más icónicos de los noventas, la estola hecha con ositos de peluche. Todo esto con motivo de celebración de sus 50 años. 

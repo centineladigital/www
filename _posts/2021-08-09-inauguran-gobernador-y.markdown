@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El mandatario estatal destacó que con estas nuevas instalaciones se fortalecerá y consolidará la corporación en la frontera, donde es tan necesaria su presencia"
 image: "/uploads/2021/images-DSC_3695.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inauguran Gobernador y Presidente López Obrador nuevo cuartel de la Guardia Nacional en Juárez"
 front: false
 section: "Local"
-news_id: 186440
+redirect_from: /news/186440
 ---
 
 Al encabezar junto al presidente de México, Andrés Manuel López Obrador, la ceremonia de inauguración de las instalaciones del nuevo cuartel de la Guardia Nacional en Ciudad Juárez, el gobernador Javier Corral destacó que se consolidará la presencia de la corporación en la frontera, donde es tan necesaria su presencia.

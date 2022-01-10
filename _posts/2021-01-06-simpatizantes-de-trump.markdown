@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Miles de simpatizantes del presidente saliente de EU se reúnen en el centro de Washington para realizar una demostración de fuerza en el día que el Congreso certificará su derrota electoral"
 image: "/uploads/2021/images-2507155.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Simpatizantes de Trump toman Washington para defenderlo"
 front: false
 section: "Internacional"
-news_id: 181902
+redirect_from: /news/181902
 ---
 
 Miles de seguidores del presidente saliente de Estados Unidos, Donald Trump, se reunían este miércoles en el centro de Washington para realizar una demostración de fuerza en el día que el Congreso debe certificar su derrota en las elecciones de noviembre.

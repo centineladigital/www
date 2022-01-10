@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente dijo que es una muy buena noticia, ya que la compra que hace el gobierno de México es algo histórico. "
 image: "/uploads/2021/images-andres-manuel-lopez-obrador-cuartoscuro-24_0_39_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobierno de EU ya autorizó compra de la refinería Deer Park -  AMLO; es histórico, dice"
 front: false
 section: "Nacional"
-news_id: 191102
+redirect_from: /news/191102
 ---
 
 El presidente Andrés Manuel López Obrador informó que el gobierno de Estados Unidos ya autorizó la compra de la refinería Deer Park de Shell por parte de Petróleos Mexicanos (Pemex), lo que significará una inversión de mil 200 millones de dólares. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Según declaraciones del presidente de la división de clásicos de Warner Bros, Tom Ascheim, se trata de un especial en el que los seguidores de la saga podrán ser testigos de la evolución de este universo. "
 image: "/uploads/2021/images-emma-watson-y-rupert-grint.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Muy emotivo! HBO Max lanza tráiler de la reunión de 'Harry Potter'; así lo puedes ver"
 front: false
 section: "Espectáculos"
-news_id: 191052
+redirect_from: /news/191052
 ---
 
 Ante el inminente estreno del especial Harry Potter 20th Anniversary: Return to Hogwarts, en el que se reunirán Daniel Radcliffe, Emma Watson y Rupert Grint para celebrar los 20 años del debut de la saga, este lunes la plataforma HBO Max lanzó el tráiler oficial. Según las primeras imágenes, los tres protagonistas contarán cómo cambiaron sus vidas gracias a una serie de cintas, que en palabras de Radcliffe "han influido en la persona que es ahora". 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La serie estelar la plataforma vuelve en su esperada segunda temporada, en la que sigue enfrentando temas de acoso sexual, racismo, cultura de la cancelación y más. "
 image: "/uploads/2021/images-the-morning-show-estrenara-temporada.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'The Morning Show' va con todo para su segunda temporada"
 front: false
 section: "Espectáculos"
-news_id: 187843
+redirect_from: /news/187843
 ---
 
 Jeniffer Aniston, Reese Witherspoon y Steve Carrell protagonizan la segunda entrega de este programa con el que AppleTV+ lanzó lo mejor de sus contenidos originales hace casi ya tres años. M2 tuvo la oportunidad de hablar con la creadora de esta serie que regresa casi tres años después; y tras lo que vivimos en este tiempo de pandemia esta segunda temporada tiene aún más emoción.

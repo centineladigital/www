@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El youtuber causó polémica en redes sociales tras compartir un video de la lujosa vida que llevan sus hijos; usuarios lo critican por su falta de humildad. "
 image: "/uploads/2021/images-juan-dios-pantoja-criticado-video_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No es necesario presumir -  Critican a JD Pantoja por grabar a su hijo rodeado de joyas"
 front: false
 section: "Espectáculos"
-news_id: 184615
+redirect_from: /news/184615
 ---
 
 Juan de Dios Pantoja recurre a sus redes sociales todos los días para presumir videos o fotografías de sus hijos. La mayoría de las veces comparte con sus millones de seguidores las divertidas ocurrencias o juegos de sus pequeños, pero en está ocasión el youtuber despertó la polémica al publicar un clip en el que aparece su hijo Juan rodeado de lujosas joyas.  Fue a través de su cuenta de Instagram que el influencer compartió un video en el que se observa a su hijo, quien tiene poco más de tres meses de nacido, luciendo una gruesa cadena dorada con un medallón y una lujosa esclava en su muñeca derecha, además de un chupón con un grabado de oro.  

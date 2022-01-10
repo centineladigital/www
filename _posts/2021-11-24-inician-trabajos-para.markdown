@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El suministro de agua potable en los próximos 4 días, para San Guillermo, Santa Eulalia, Fracc. Aquiles y Laderas I se llevará a cabo a través de fuentes alternas, por lo que se exhorta a que tomen las medidas pertinentes"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inician trabajos para reemplazar la bomba del pozo Santa Eulalia"
 front: false
 section: "Local"
-news_id: 190148
+redirect_from: /news/190148
 ---
 
 El director ejecutivo de la Junta Municipal de Agua y Saneamiento de Aquiles Serdán, Esteban Turati, informó que hoy iniciaron los trabajos para el reemplazo de la bomba del pozo de Santa Eulalia.

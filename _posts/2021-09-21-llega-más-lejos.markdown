@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Entre las opciones destacan 25 programas acreditados en el Programa Nacional de Posgrados de Calidad (PNPC) del Consejo Nacional de Ciencia y Tecnología (CONACyT) "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-21_at_13.34.27.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Llega más lejos! Invita UACH a su Primera Gran Feria de Posgrados"
 front: false
 section: "Local"
-news_id: 187921
+redirect_from: /news/187921
 ---
 
 Más de 59 posgrados ofrecerá la Universidad Autónoma de Chihuahua a quienes deseen estudiar una especialidad, maestría o doctorado con validez nacional e internacional, dentro de la Primera Gran Feria de Posgrados que se llevará a cabo en modalidad virtual con conferencias, mesas panel y actividades culturales del 27 al 29 de septiembre. 

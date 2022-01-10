@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hace unos días se aseguró que Ninel Conde había perdido la patria potestad de su hijo y que el pequeño no la quiso ver; la cantante desmintió la información. "
 image: "/uploads/2021/images-ninel-conde-espera-ver-a.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ninel Conde asegura que no perdió la patria potestad de su hijo Emmanuel"
 front: false
 section: "Espectáculos"
-news_id: 185252
+redirect_from: /news/185252
 ---
 
 En la última audiencia que se llevó a cabo para resolver la disputa legal que mantiene Ninel Conde con Giovanni Medina por su hijo Emmanuel, se aseguró que la actriz había perdido la patria potestad y que incluso el pequeño no quiso verla, a pesar de que las autoridades la habían insistido al niño. En entrevista con Sale el Sol, Ninel Conde comentó que no pudo ver a su hijo en la audiencia porque le mencionaron que el niño se había puesto nervioso y no porque Emmanuel no haya querido verla.

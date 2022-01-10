@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El intérprete se presentará mañana en el Autódromo Hermanos Rodríguez y también prepara un material que, “gracias a la tecnología”, logró un sonido “brutal” "
 image: "/uploads/2021/images-manana-estara-en-el-autodromo.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Yahir vuelve al escenario para cantar en vivo"
 front: false
 section: "Espectáculos"
-news_id: 184665
+redirect_from: /news/184665
 ---
 
 Yahir se prepara para retomar su carrera musical haciendo uso de una de las alternativas que surgieron a partir de la pandemia: los autoconciertos. Mañana llegará a la curva 4 del Autódromo Hermanos Rodríguez para presentar un espectáculo, en el que contará con la participación especial del músico y compositor Chucho Rivas, con quien trabajará en próximos proyectos. “Tocar en vivo es el motivo por el cual soy músico y cantante, así que después de 15 meses vamos a pisar un escenario otra vez con público en vivo”, comentó ante los medios en conferencia de prensa virtual. 

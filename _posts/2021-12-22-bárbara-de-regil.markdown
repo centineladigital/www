@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La caracterización de la actriz generó comentarios tanto a favor como en contra en Instagram. "
 image: "/uploads/2021/images-famosa-compartio-resultado-maquillaje-redes.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Bárbara de Regil se maquilla de 'El Grinch' para celebrar la Navidad; la critican en redes"
 front: false
 section: "Espectáculos"
-news_id: 191133
+redirect_from: /news/191133
 ---
 
 El Grinch, el personaje creado por el Dr. Seuss que desea acabar con la Navidad y fue personificado por Jim Carrey en la película homónima de 2000, fue la inspiración de Bárbara de Regil para celebrar las fiestas decembrinas. Resulta que la famosa, que este año protagonizó una gran polémica relacionada con la proteína que promueve, se maquilló como el personaje anti navideño y compartió el resultado en su cuenta de Instagram. 

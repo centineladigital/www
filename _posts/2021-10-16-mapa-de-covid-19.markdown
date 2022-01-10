@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El municipio a nivel nacional con un mayor número de defunciones es Iztapalapa, con 7 mil 900. "
 image: "/uploads/2021/images-balance-de-covid-defunciones-en.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mapa de covid-19 en México -  se han recuperado alrededor de 73% de casos"
 front: false
 section: "Nacional"
-news_id: 188818
+redirect_from: /news/188818
 ---
 
 Con un acumulado total de 3 millones 749 mil 860 de casos confirmados, el día de hoy se sumaron 5 mil 286 nuevos positivos, que hacen un aproximado de 39 mil 404 casos activos en México. 

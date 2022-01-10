@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se llevará a cabo durante cuatro fines de semana, contando con protocolos sanitarios de prevención en cada uno de los recintos"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conoce la convocatoria del Torneo Box de Barrios"
 front: false
 section: "Local"
-news_id: 186029
+redirect_from: /news/186029
 ---
 
 El Gobierno Municipal a través del Instituto Municipal de Cultura Física y Deporte, en coordinación con el Comité Municipal de Boxeo dieron a conocer la convocatoria del Torneo Box de Barrios, que se llevará a cabo durante cuatro fines de semana, contando con protocolos sanitarios de prevención en cada uno de los recintos.

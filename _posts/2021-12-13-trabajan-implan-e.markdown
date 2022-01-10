@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal otorgará estímulos a quien cumpla con programa “Ciudad Cercana”"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabajan IMPLAN e INFONAVIT para ofertar viviendas en sectores cercanos a servicios"
 front: false
 section: "Local"
-news_id: 190815
+redirect_from: /news/190815
 ---
 
 Las nuevas reglas del Infonavit para el otorgamiento de créditos para vivienda, que entraron recientemente en vigor, están alineadas a los criterios del programa del Gobierno Municipal de Chihuahua “Ciudad Cercana”, mismo que prioriza la vivienda en zonas con acceso a servicios públicos y fuentes de empleo.

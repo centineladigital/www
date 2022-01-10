@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Informa CEPC que ambos fenómenos provocarán que el miércoles desciendan las temperaturas en el estado, con Chihuahua a -1°C, Ciudad Juárez -4°C, Madera -8°C y Temósachic -10°C"
 image: "/uploads/2021/images-SISTEMAS_METEOROLÓGIOS_ACTUALES.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entran frente frío 32 y 8ª Tormenta Invernal con vientos de hasta 95 km/h"
 front: false
 section: "Local"
-news_id: 182438
+redirect_from: /news/182438
 ---
 
 Con el ingreso del frente frío número 32 y la Octava Tormenta Invernal este martes 26 se mantendrán los fuertes vientos, con rachas de hasta 95 kilómetros por hora (km/h) en parte del noroeste, occidente, suroeste y centro de la entidad, mientras que el miércoles descenderán las temperaturas con Chihuahua a -1°C y Ciudad Juárez a -4°C, informó la Coordinación Estatal de Protección Civil (CEPC).

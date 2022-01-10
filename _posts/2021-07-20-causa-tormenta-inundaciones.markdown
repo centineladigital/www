@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Cuerpos de emergencia atendieron automovilistas varados en calles del centro, desprendimiento de láminas en el Hospital Central y Mercado de la Niños Héroes y retiraron árboles caídos"
 image: "/uploads/2021/images-Reporte_de_lluvias_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Causa tormenta inundaciones y desprendimiento de techos de lámina en la capital del estado"
 front: false
 section: "Local"
-news_id: 185821
+redirect_from: /news/185821
 ---
 
 La tormenta que cayó sobre la capital de Chihuahua, combinada con rachas de viento de hasta 72 kilómetros por hora, ocasionó inundaciones en distintos sectores de la ciudad que dejó varados a automovilistas, desplome de árboles y arrancó techos de lámina del tercer piso del Hospital Central y del Mercado de la Niños Héroes.

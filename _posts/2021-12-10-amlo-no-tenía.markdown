@@ -20,11 +20,11 @@ author: nil
 description: "Hay en existencia 18 mil contratos que se dividen en aproximadamente 8 mil accionistas y más de 900 personas han presentado sus quejas sobre la empresa"
 image: "/uploads/2021/images-Ds4pTok7aOAmQLSM.jpeg"
 video: "/uploads/2021/videos-BV02_AMLO_.mp4"
-audio: "nil"
+audio: nil
 alt: "AMLO no tenía conocimiento del caso ARAS, tomará cartas en el asunto"
 front: false
 section: "Local"
-news_id: 190729
+redirect_from: /news/190729
 ---
 
 El Presidente de la República en su gira por Chihuahua manifestó que no tenía conocimiento de la problemática que existe a causa del fraude hecho por ARAS Business Group, sin embargo, aseguró se tomarán cartas en el asunto por medio de la Secretaría De Hacienda y Crédito Público, para que revisen el caso.

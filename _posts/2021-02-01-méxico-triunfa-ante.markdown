@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los mexicanos Tomateros de Culiacán aplastan 10-2 a los colombianos Caimanes de Barranquilla en la primera jornada de la Serie del Caribe"
 image: "/uploads/2021/images-2521612.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México triunfa ante Colombia en apertura de la Serie del Caribe"
 front: false
 section: "Deportes"
-news_id: 182592
+redirect_from: /news/182592
 ---
 
 Los Tomateros de Culiacán, campeones de la Liga Mexicana del Pacífico, aprovecharon el descontrol de los relevistas de los Caimanes de Barranquilla colombianos para armar un ataque de seis anotaciones en el quinto capítulo en ruta a una cómoda victoria por 10-2, en el cierre de la primera jornada de la Serie del Caribe Mazatlán 2021.

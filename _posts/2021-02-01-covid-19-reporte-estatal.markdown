@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En las últimas 24 horas se registran 177 contagios y fallecen 2 en Chihuahua y Delicias y 1 en Camargo, Jiménez y Madera"
 image: "/uploads/2021/images-Informe_tecnico_31_enero_page-0002.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "COVID-19 reporte estatal -  50,458 casos confirmados y 4,690 decesos"
 front: false
 section: "Local"
-news_id: 182597
+redirect_from: /news/182597
 ---
 
 Con el registro de 177 casos conformados por COVID-19 en las últimas 24 horas, la suma total de contagios por COVID-19 en la entidad alcanzó la cifra de 50 mil 458, en tanto que los fallecimientos por la misma causa llegó a 4 mil 690 luego que murieran 7 personas.

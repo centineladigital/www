@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de que suspendieran la cuenta de Twitter de Paty Navidad, la actriz ya reaccionó y esto fue lo que dijo. "
 image: "/uploads/2021/images-suspension_paty_navidad.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La verdad sufre de censura -  Paty Navidad reacciona a suspensión de su cuenta en Twitter"
 front: false
 section: "Espectáculos"
-news_id: 181999
+redirect_from: /news/181999
 ---
 
 El 8 de enero Paty Navidad se volvió tendencia en Twitter y no precisamente sus comentarios en dicha red social, sino que suspendieron su cuenta, esto tras las declaraciones que ha hecho sobre el covid-19, su apoyo a Donald Trump y recientemente sobre la toma del Capitolio. La actriz no tardó en reaccionar a la medida que tomó Twitter ante sus polémicos tuits. En Instagram, Paty Navidad subió un video donde se observa a ella en el aeropuerto sin usar cubrebocas, medida que se recomienda realizar para evitar contagios de covid-19, algo que la actriz no ha seguido, además que en una ocasión comparó este objeto con un bozal. 

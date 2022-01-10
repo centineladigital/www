@@ -16,11 +16,11 @@ author: nil
 description: "El poder legislativo, al igual que el Gobierno Estatal y los 67 Ayuntamientos, así como la sociedad privada deberán conjuntar esfuerzos para darle resultados a la gente"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-13_at_12.02.20.jpeg"
 video: "/uploads/2021/videos-BW03_PEREZ_PAVIA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Reconoce esfuerzo de la gobernadora para sacar adelante a Chihuahua. Pérez -  Pavía "
 front: false
 section: "Local"
-news_id: 188701
+redirect_from: /news/188701
 ---
 
 Ismael Pérez Pavía reconoció el esfuerzo que realiza el Gobierno del Estado, encabezado por María Eugenia Campos Galván para sacar a Chihuahua adelante, esto en el marco de la instalación del Comité Estatal de Planeación para el Desarrollo del Estado (COPLADE) 2021-2027.

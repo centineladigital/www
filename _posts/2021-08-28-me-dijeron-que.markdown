@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ricardo Arjona decidió ir al metro de Nueva York y cantar algunos de sus éxitos, sin embargo, nadie reconoció al cantante. "
 image: "/uploads/2021/images-el-guatemalteco-compartio-con-sus_28_0_1044_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me dijeron que era imitador -  Ricardo Arjona canta en metro de Nueva York y nadie lo reconoce"
 front: false
 section: "Espectáculos"
-news_id: 187220
+redirect_from: /news/187220
 ---
 
 Durante la década de los 90 Ricardo Arjona alcanzó gran popularidad y en los 2000 logró consolidar su carrera. Aunque el intérprete de “Minutos” sigue en contacto con sus fans por medio de redes sociales e incluso hace unos meses ofreció un concierto online, recientemente el guatemalteco contó que nadie lo reconoció en Nueva York.

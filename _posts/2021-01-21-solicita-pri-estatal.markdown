@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El PRI se mostró a favor dada las situación de crisis que se vive actualmente derivada de la pandemia"
 image: "/uploads/2021/images-RGRGRE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AJ01_ALEJANDRO_DOMINGUEZ.mp3"
 alt: "Solicita PRI estatal a diputados priistas votar a favor del crédito de Corral"
 front: false
 section: "Local"
-news_id: 182335
+redirect_from: /news/182335
 ---
 
 Mediante posicionamiento del PRI estatal que dirigen Alejandro Domínguez como presidente y Georgina Zapata como secretaria, anuncian que solicitaron a los diputados locales votar a favor del crédito del gobernador Javier Corral de mil 898 millones de pesos a pagarse a 20 años.

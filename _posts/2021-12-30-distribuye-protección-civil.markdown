@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Personal de la dependencia entregó el material preventivo en los centros de las ciudades de Juárez y Chihuahua"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Distribuye Protección Civil Estatal trípticos informativos por Temporada Invernal"
 front: false
 section: "Local"
-news_id: 191369
+redirect_from: /news/191369
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) distribuyó trípticos informativos en las ciudades de Juárez y Chihuahua, para prevenir a la población sobre las medidas que se deben tomar, ante las bajas temperaturas que se registran en la entidad durante la temporada invernal.

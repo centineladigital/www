@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Antonio Amor, auxiliar técnico de los Rayados, consideró que no merecían caer ante Chivas y un empate el resultado justo"
 image: "/uploads/2021/images-2566512.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "‘La derrota (ante Chivas) fue mucho castigo’, piensan en Monterrey"
 front: false
 section: "Deportes"
-news_id: 184038
+redirect_from: /news/184038
 ---
 
 Antonio Amor, auxiliar del técnico Javier Aguirre, mencionó que pagaron caro los errores que cometieron en la derrota contra Chivas, del duelo pendiente de la jornada 12. 

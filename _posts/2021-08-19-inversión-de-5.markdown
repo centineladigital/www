@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La obra pública llegó a los 67 municipios del estado para mejorar la calidad de vida de las y los chihuahuenses"
 image: "/uploads/2021/images-batopilas_puente_guamuchil-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inversión de 5 mil mdp en infraestructura hidráulica fue 45% más que la administración anterior"
 front: false
 section: "Local"
-news_id: 186883
+redirect_from: /news/186883
 ---
 
 En su Quinto Informe de Gobierno realizado en la ciudad de Chihuahua, el gobernador Javier Corral Jurado expuso que la inversión en infraestructura hidráulica fue de 5 mil 183 millones de pesos, lo que representa un incremento de más de 45 por ciento (%), con relación a la administración anterior.

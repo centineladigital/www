@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Son casi una treintena de conciertos que se celebrarán desde el 21 de enero hasta el 16 de abril de 2022. "
 image: "/uploads/2021/images-discos-de-adele-afp_0_27_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Adele tendrá un espectáculo fijo en Las Vegas durante 2022"
 front: false
 section: "Espectáculos"
-news_id: 190368
+redirect_from: /news/190368
 ---
 
 La cantante Adele anunció este martes que protagonizará un espectáculo fijo, conocido como residencia, en Las Vegas (EE.UU.) desde el 21 de enero hasta el 16 de abril de 2022. La británica, que actualmente reside en California, ofrecerá dos conciertos cada fin de semana bajo el título "Weekends with Adele" (fines de semana con Adele) en el Coliseo del Hotel Caesar, uno de los recintos más importantes de la ciudad del juego. 

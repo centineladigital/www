@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Acudir inmediatamente a la Unidad de Medicina Familiar (UMF) si se detecta sangrado, dolor de cabeza, visión de luces o manchas, dolor al orinar, fiebre, disminución en la intensidad y frecuencia de los movimientos del bebé y dolores de parto"
 image: "/uploads/2021/images-Foto_4778-1_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite IMSS Chihuahua recomendaciones para un embarazo sano y que bebés nazcan en término "
 front: false
 section: "Local"
-news_id: 188279
+redirect_from: /news/188279
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, a través de la Jefatura de Prestaciones Médicas, exhorta a las mujeres chihuahuenses en periodo de gestación a dar seguimiento a su embarazo.

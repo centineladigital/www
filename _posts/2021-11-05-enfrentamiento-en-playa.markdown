@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La confrontación ocurrió entre integrantes de grupos narcomenudistas en una playa de Bahía Petempich, informó la Fiscalía General de Quintana Roo. "
 image: "/uploads/2021/images-escena-del-crimen-francisco-villeda.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Enfrentamiento en playa de Puerto Morelos, QRoo, deja dos muertos"
 front: false
 section: "Nacional"
-news_id: 189575
+redirect_from: /news/189575
 ---
 
 Un enfrentamiento entre presuntos narcomenudistas dejó dos muertos en la zona de playa de un hotel en Puerto Morelos, informó la Fiscalía General de Quintana Roo. 

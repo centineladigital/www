@@ -10,11 +10,11 @@ author: nil
 description: "Se trabaja en el tema de liberación de agricultores."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MM02_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Liberación de Valles es un hecho -  Jáuregui "
 front: false
 section: "Local"
-news_id: 191090
+redirect_from: /news/191090
 ---
 
 “No voy a dar fechas, pero estamos trabajando en eso” fueron las palabras del Secretario General de Gobierno, César Gustavo Jáuregui Moreno, al ser cuestionado respecto a la liberación de Andrés Valles, líder campesino.

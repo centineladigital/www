@@ -14,11 +14,11 @@ author: nil
 description: "Desde la prevención, se podrá eliminar los índices de violencia "
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BM02_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "En materia de seguridad se necesita un abordaje "
 front: false
 section: "Local"
-news_id: 188395
+redirect_from: /news/188395
 ---
 
 En materia de seguridad pública municipal se necesita un abordaje que erradique la delincuencia, así lo señaló el presidente Marco Bonilla quien también afirmó que desde la investigación, la razón y la ciencia pero principalmente desde la prevención, se podrá eliminar los índices de violencia y delincuencia en el municipio.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El integrante de la Cámara de Diputados Federal Ulises García, dijo que la anterior forma en la que se compraba la energía privilegiaba más a empresas extranjeras"
 image: "/uploads/2021/images-descarga.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reforma energética beneficiará principalmente a los mexicanos"
 front: false
 section: "Local"
-news_id: 183386
+redirect_from: /news/183386
 ---
 
 La reforma energética beneficiará primordialmente a la mayoría de los mexicanos, esto ya que anteriormente se privilegiaba la compra a entidades privadas  que a las hidroeléctricas que pertenecen a la Comisión Federal de Electricidad, señaló el diputado federal Ulises García de Morena.  

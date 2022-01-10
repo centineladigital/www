@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Maestros reconocieron la buena disposición y coordinación de la autoridad municipal"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dota Gobierno Municipal de diésel a camiones de escuelas rurales"
 front: false
 section: "Local"
-news_id: 188262
+redirect_from: /news/188262
 ---
 
 El Gobierno Municipal a través de la Dirección de Desarrollo Rural, atendió la solicitud de los directores de los cuatro Centros Regionales de Educación Integral (CREI) del Municipio para dotar de diésel a los camiones escolares para el traslado del alumnado.

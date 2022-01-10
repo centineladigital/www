@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal exhorta a la población ir preparada con todo lo necesario para evitar incidentes"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Si te gusta realizar senderismo o esparcimiento en áreas naturales?, sigue estas recomendaciones   "
 front: false
 section: "Local"
-news_id: 189441
+redirect_from: /news/189441
 ---
 
 El Gobierno Municipal, a través de la Dirección de Seguridad Pública, emite recomendaciones para evitar incidentes que en ocasiones derivan en lesiones de gravedad, a las personas que practican senderismo o acuden a dar paseos en los cerros, presas y parques alejados de la mancha urbana.

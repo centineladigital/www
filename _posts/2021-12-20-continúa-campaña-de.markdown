@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " Son gratuitas y se realizan en los centros comunitarios y CEDEFAM"
 image: "/uploads/2021/images-unnamed_(10).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúa campaña de aplicación de pruebas COVID por parte del DIF Municipal"
 front: false
 section: "Local"
-news_id: 191015
+redirect_from: /news/191015
 ---
 
 La campaña de aplicación de pruebas de antígenos del Gobierno Municipal, a través del DIF y en coordinación con la Secretaría de Salud de Gobierno del Estado de Chihuahua, se extiende hasta el 31 de diciembre y seguirán siendo gratuitas.

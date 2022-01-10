@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hace unos meses, Juanes presentó su canción homenaje a Metallica: ‘Enter Sandman’, que fue incluida en el álbum aniversario por los 30 años de uno de los discos más famosos del mundo del rock."
 image: "/uploads/2021/images-juanes-abrira-conciertos-rolling-stones.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Qué viva el Rock and Roll! Juanes será el encargado de abrir conciertos de The Rolling Stones"
 front: false
 section: "Espectáculos"
-news_id: 189323
+redirect_from: /news/189323
 ---
 
 El colombiano Juanes será el encargado de abrir el concierto que la banda británica The Rolling Stones que se realizara el próximo martes en el estadio Cotton Bowl de Dallas en Texas como parte de su ‘No Filter Tour’. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Águilas vencieron a Xolos y se mantiene en la cima de la clasificación; Renato Ibarra regresó y marcó el segundo gol"
 image: "/uploads/2021/images-america-mantiene-liderato-jornada-liga_1_0_1198_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Un líder indiscutible! América se afianza en la cima tras derrotar a Tijuana"
 front: false
 section: "Deportes"
-news_id: 186988
+redirect_from: /news/186988
 ---
 
 América se mantiene como líder del torneo, por activa o por pasiva gana los partidos. Ahora fue un rocoso Tijuana el que cayó en el Azteca por 2-0, en una jornada en la que los cambios que vinieron del banco le dieron el triunfo a las Águilas, pero sobre todo estuvo marcada por el regreso de Renato Ibarra, quien después de un año y ocho meses se levantó como héroe. 

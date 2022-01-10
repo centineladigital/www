@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La obra pertenece a los proyectos elegidos del Presupuesto Participativo 2021   "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avanza 25% construcción de domo y salón de usos múltiples en colonia Mirador"
 front: false
 section: "Local"
-news_id: 189175
+redirect_from: /news/189175
 ---
 
 El Gobierno Municipal, través de la Dirección de Obras Públicas, trabaja en la construcción de un área recreativa, techumbre tipo domo y salón de usos múltiples en la colonia Mirador, entre la calle Pekín y calle 16; cuyo proyecto es parte de los elegidos en el Presupuesto Participativo 2021, el cual a la fecha registra un avance del 25 por ciento.

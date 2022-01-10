@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Nunca es tarde para empezar a comer saludable y prevenir enfermedades"
 image: "/uploads/2021/images-Foto_5060-1_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte IMSS Chihuahua sobre alimentos que pueden causar serios problemas a la salud "
 front: false
 section: "Local"
-news_id: 188733
+redirect_from: /news/188733
 ---
 
 El Instituto Mexicano del Seguro (IMSS) en Chihuahua alertó a la población en torno a que las dietas altas en grasas saturadas y con exceso de azúcar, pueden ocasionar problemas severos de salud.

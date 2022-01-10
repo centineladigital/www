@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los fans de la saga tendrán que esperar más tiempo para ver la última película de Daniel Craig como Bond. "
 image: "/uploads/2021/images-cinta-retrasa-lanzamiento-time-to.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'No time to die', la nueva película de James Bond, vuelve a retrasar su fecha de estreno"
 front: false
 section: "Espectáculos"
-news_id: 182361
+redirect_from: /news/182361
 ---
 
 Luego de retrasar su estreno dos veces debido a la pandemia de covid-19, la nueva película sobre James Bond, No time to die, volvió a modificar su fecha de lanzamiento, pues de abril de este año se pasó para octubre.  Destaca que la crisis sanitaria de nuevo es la responsable de este aplazamiento. El estrenó de la nueva aventura del espía más famoso del mundo quedó fijado para el 8 de octubre de 2021. 

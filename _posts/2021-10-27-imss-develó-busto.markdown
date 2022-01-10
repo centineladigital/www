@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Como reconocimiento a su labor de investigación y generación de conocimiento en el campo de la medicina  "
 image: "/uploads/2021/images-Foto_Pie_de_Foto-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS develó busto del doctor Antonio Fraga Mouret en la Plaza de las Médicas y Médicos Ilustres"
 front: false
 section: "Local"
-news_id: 189284
+redirect_from: /news/189284
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) hizo un homenaje al doctor Antonio Fraga Mouret y develó un busto con su nombre en la Plaza de los Médicos Ilustres en el Centro Médico Nacional (CMN) Siglo XXI, como reconocimiento a su labor de investigación y generación de conocimiento en el campo de la medicina

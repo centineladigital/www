@@ -14,11 +14,11 @@ author: nil
 description: "563 millones de pesos los cuales se desviaron en la administración de Javier Corral"
 image: "/uploads/2021/images-tv2gdDsBycQxeiJY.jpeg"
 video: "/uploads/2021/videos-BL02_JAUREGUI_.mp4"
-audio: "nil"
+audio: nil
 alt: "Irregularidades de la ASF se estarán aclarando "
 front: false
 section: "Local"
-news_id: 189447
+redirect_from: /news/189447
 ---
 
 César Jáuregui afirmó que será el gobierno actual quien responda las observaciones hechas por la Auditoría Superior de la Federación, donde pide el regreso de 563 millones de pesos los cuales se desviaron en la administración de Javier Corral.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Después de realizarse una prueba PCR, el presidente dio negativo a covid-19; el mandatario estadunidense ya cuenta con el esquema completo de vacunación. "
 image: "/uploads/2021/images-joe-biden-negativo-prueba-pcr.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Joe Biden da negativo a covid-19 después de viajar con funcionario contagiado"
 front: false
 section: "Internacional"
-news_id: 191061
+redirect_from: /news/191061
 ---
 
 El presidente de Estados Unidos, Joe Biden, dio negativo por covid-19 este lunes, tras someterse a un test después de que un miembro de nivel medio de su gobierno resultara positivo luego de haber viajado en el avión presidencial, informó la Casa Blanca. 

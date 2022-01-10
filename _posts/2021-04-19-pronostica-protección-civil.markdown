@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La dependencia estatal señala que para este lunes las precipitaciones se presentarán en Ciudad Juárez, Ascensión, Namiquipa, Sueco, Chihuahua, Coyame, Manuel Benavides y Ojinaga; se aproxima Frente Frío 52"
 image: "/uploads/2021/images-Screenshot_20210419-125958_Facebook.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronostica Protección Civil lluvias en el norte, noroeste, centro  y noreste de la entidad"
 front: false
 section: "Local"
-news_id: 183970
+redirect_from: /news/183970
 ---
 
 Para este lunes 19 de abril se pronostican lluvias aisladas en el norte, noroeste, centro y noreste, sobre todo en Ciudad Juárez, Ascensión, Namiquipa, Sueco, Chihuahua, Coyame, Manuel Benavides y Ojinaga, informó la Coordinación Estatal de Protección Civil (CEPC).

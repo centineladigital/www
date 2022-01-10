@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La película CODA, en donde trabajó Eugenio Derbez, participará en el Festival de Cine de Sundance. "
 image: "/uploads/2021/images-coda_eugenio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'CODA', película de Eugenio Derbez participará en el Festival de Cine de Sundance"
 front: false
 section: "Espectáculos"
-news_id: 182441
+redirect_from: /news/182441
 ---
 
 El actor Eugenio Derbez vive en Estados Unidos desde hace unos años, esto con el fin de poder trabajar en la industria del cine y la televisión de este país, además de abrirse paso en Hollywood, algo que poco a poco ha logrado. Ahora, el exitoso comediante informó que una de las películas en las que trabajó, CODA, participará en el Festival de Cine de Sundance. A través de una publicación en Instagram, Eugenio Derbez dio a conocer a sus seguidores que el próximo 28 de enero, día que comience el Festival de Cine de Sundance, se proyectará la película CODA, la cual será la encargada de abrir dicho evento. 

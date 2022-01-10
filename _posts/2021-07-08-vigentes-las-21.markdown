@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se han regresado al Pueblo de Chihuahua 712 millones 005 mil 312 pesos gracias a novedosos esquemas para combatir la evasión fiscal, la simulación de facturas, contratos y desvío de recursos."
 image: "/uploads/2021/images-duartejaquez.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vigentes las 21 órdenes de aprehensión contra exgobernador que está preso en Miami y en espera de extradición."
 front: false
 section: "Local"
-news_id: 185464
+redirect_from: /news/185464
 ---
 
 Al cumplirse este 8 de julio un año de la detención del exgobernador César Horacio D.J. las 21 órdenes de aprehensión en su contra se mantienen vigentes, como vigente está su proceso de extradición para que enfrente la justicia ante los tribunales de Chihuahua, por los actos de corrupción de los que se le acusa.

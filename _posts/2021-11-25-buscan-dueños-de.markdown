@@ -10,11 +10,11 @@ author: nil
 description: "Podrán circular en Chihuahua vehículos de ANAPROMEX."
 image: "/uploads/2021/images-gilberto.jpg"
 video: "/uploads/2021/videos-MJ03_GILBERTO_NUÑEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Buscan dueños de chuecos amparo contra confiscación"
 front: false
 section: "Local"
-news_id: 190210
+redirect_from: /news/190210
 ---
 
 Buscando frenar la confiscación de vehículos introducidos de forma ilegal al estado la organización Anapromex invitó a dueños de estas unidades a afiliarse, así como el buscar obtener un amparo contra detención , según fue dicho por parte de Gilberto Núñez en Chihuahuahua.

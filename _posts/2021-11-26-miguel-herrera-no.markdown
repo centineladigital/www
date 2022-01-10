@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Miguel Herrera reconoce que el gol de Gignac es una gran ayuda para Tigres para el partido de vuelta de los cuartos de final ante Santos"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Miguel Herrera no se da por vencido en la liguilla, “El gol nos mete a la serie”"
 front: false
 section: "Deportes"
-news_id: 190230
+redirect_from: /news/190230
 ---
 
 Miguel Herrera acepta que el primer tiempo sus Tigres salieron distraídos, pero los cambios fueron los correctos y su escuadra está más vivo que nunca: “Tenemos que ganar. Metimos un gol y eso nos tiene en competencia. Tenemos que salir a ganar, aunque no regreso tranquilo porque perdimos. Hay confianza, porque vamos de local, y porque los muchachos saben reaccionar”.

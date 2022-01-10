@@ -9,12 +9,12 @@ tags:
 author: nil
 description: " El curso para docentes será gratuito y vía Zoom"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Impartirá Gobierno Municipal capacitación para maestros sobre discapacidad en el aula"
 front: false
 section: "Local"
-news_id: 189025
+redirect_from: /news/189025
 ---
 
 Como parte de las acciones para fomentar la integración de los chihuahuenses con alguna discapacidad, El Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, invita a los docentes de la ciudad a participar en la capacitación “Manejo Metodológico de la Discapacidad en el Aula”.

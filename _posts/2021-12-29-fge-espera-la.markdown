@@ -16,11 +16,11 @@ author: nil
 description: "La fiscalía estará revisando con diligencia los procedimientos penales de las carpetas de investigación "
 image: "/uploads/2021/images-roberto_fierro.jpeg"
 video: "/uploads/2021/videos-BW04_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "FGE espera la resolución del RPP por recibos falsos"
 front: false
 section: "Local"
-news_id: 191324
+redirect_from: /news/191324
 ---
 
 Luego de que la defensa de Luis Raúl Flores, titular de la notaria 4 asegurara que los recibos notariados de la nómina secreta fueron falsificados, el Fiscal General del Estado Roberto Fierro Duarte, señaló que la Fiscalía General del Estado está a la espera de que el Registro Público de la Propiedad y el notariado termine el procedimiento administrativo que indico por esta presunta falsificación.

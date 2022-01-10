@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Gobernadora entregó a los alumnos chamarras del programa “Juntos sin frío”"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Sueñen en grande y trabajen todos los días para que se cumplan sus sueños”; visita Maru Campos Casa del Estudiante y Cecytech en Guachochi"
 front: false
 section: "Local"
-news_id: 190864
+redirect_from: /news/190864
 ---
 
 Durante su gira de trabajo por el municipio de Guachochi, la Gobernadora Maru Campos Galván visitó la Casa del Estudiante y el Centro de Estudios Científicos y Tecnológicos del Estado de Chihuahua (Cecytech), donde hizo la entrega de chamarras a los alumnos de ambas instituciones.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor padece una afección que lo obliga a utilizar un concentrador de oxígeno, además de que no puede permanecer mucho tiempo en la Ciudad de México. "
 image: "/uploads/2021/images-jorge-ortiz-pinedo-terrible-enfermedad_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me faltan dos pedazos de pulmón -  Jorge Ortiz de Pinedo y la enfermedad que lo obliga a usar oxígeno"
 front: false
 section: "Espectáculos"
-news_id: 188996
+redirect_from: /news/188996
 ---
 
 Jorge Ortiz de Pinedo es de los actores, comediantes y productores mexicanos con una destacada trayectoria artística que incluye icónicos programas de la pantalla chica como Una familia de Diez o Dr. Cándido Pérez. El histrión vivió durante varios años en La Lagunilla, una popular zona de la Ciudad de México; sin embargo, una enfermedad lo hizo abandonar la capital del país y mudarse a Acapulco.  Hace un tiempo el famoso reveló que ya no residía en la CdMx, dado que la altitud de la ciudad es perjudicial para su salud debido a la afección que desarrolló tras haber fumado durante 50 años. 

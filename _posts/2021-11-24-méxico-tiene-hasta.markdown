@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El juez Dennis Saylor, de la Corte Federal de Massachusetts, fijó ese plazo, luego de que el pasado 22 de noviembre las armerías respondieran a la demanda que México presentó en su contra, acusándolas de incurrir en negligencias que facilitan el tráfico ilegal de armas "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México tiene hasta el 23 de enero de 2022, para responder a armerías de EU tras demanda"
 front: false
 section: "Internacional"
-news_id: 190140
+redirect_from: /news/190140
 ---
 
 El gobierno mexicano tiene hasta el 23 de enero de 2022  para responder a la argumentación de las 11 armerías estadounidenses que reclaman desechar la demanda en su contra, determinó hoy una corte de Boston.

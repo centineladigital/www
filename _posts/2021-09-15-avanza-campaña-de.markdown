@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se realizaron trabajos de limpieza, retiro de escombro, maleza y basura en 22 puntos de trabajo"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-15_at_15.34.38.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avanza Campaña de Mantenimiento y Limpieza de Vasos de Captación en Riberas del Bravo"
 front: false
 section: "Local"
-news_id: 187778
+redirect_from: /news/187778
 ---
 
 El Gobierno del Estado de Chihuahua a través de la Junta Central de Agua y Saneamiento, dio continuidad a la campaña “Mantenimiento y Limpieza de Vasos de Captación” la cual tuvo su banderazo de arranque la semana pasada por parte de la gobernadora Maru Campos Galván.

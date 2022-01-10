@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con el fin de armonizar su contenido con lenguaje inclusivo y perspectiva de género"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueba Cabildo Plan de Desarrollo Urbano de la Ciudad de Chihuahua"
 front: false
 section: "Local"
-news_id: 186628
+redirect_from: /news/186628
 ---
 
 En sesión ordinaria de Cabildo, las y los regidores aprobaron por unanimidad la autorización del Plan de Desarrollo Urbano de la Ciudad de Chihuahua: Visión 2040 en su sexta actualización, promovido por el H. Ayuntamiento a través de la Dirección de Desarrollo Urbano y Ecología y el Instituto de Planeación Integral del Municipio.

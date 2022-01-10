@@ -10,11 +10,11 @@ author: nil
 description: "Estas cifras son desde el mes de mayo, no descartan más planteles vandalizados o que sufrieron robos."
 image: "/uploads/2021/images-eva.jpg"
 video: "/uploads/2021/videos-MM08_EVA_TRUJILLO.mp4"
-audio: "nil"
+audio: nil
 alt: "Alrededor de 400 planteles educativos dañados"
 front: false
 section: "Local"
-news_id: 186805
+redirect_from: /news/186805
 ---
 
 Alrededor de 400 planteles educativos que tienen algún daño relacionado con la pandemia o bien han presentado algún tipo de vandalismo, señaló la vocera de la Secretaría de Educación y Deporte Eva Trujillo. Esto a unas semanas de que se regresara a clases.

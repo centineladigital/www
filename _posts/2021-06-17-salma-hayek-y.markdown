@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¡Orgullo mexicano! Salma Hayek y Angélica Vale tendrán su propia estrella en el Paseo de la Fama de Hollywood, así lo dio a conocer la organización. "
 image: "/uploads/2021/images-mexicanas-compartieron-emocion-enterarse-noticia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Salma Hayek y Angélica Vale tendrán su estrella en el Paseo de la Fama de Hollywood"
 front: false
 section: "Espectáculos"
-news_id: 185096
+redirect_from: /news/185096
 ---
 
 Los mexicanos se abren paso en Hollywood y es por eso que ahora la organización Hollywood Walk Of Fame anunció que en el 2022 Salma Hayek y Angélica Vale tendrán su propia estrella en el Paseo de la Fama, algo que otros como Pepe Aguilar, Alejandro Fernández, entre otros ya tienen. 

@@ -16,11 +16,11 @@ author: nil
 description: "Las decisiones difíciles las tuvieron que tomar los regidores de todos los partidos menos morena que voto en contra de esta ley dada desde la SCJN,"
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BW03_PACO_TURATI.mp4"
-audio: "nil"
+audio: nil
 alt: "Estamos atados a la corte por culpa de Morena "
 front: false
 section: "Local"
-news_id: 190402
+redirect_from: /news/190402
 ---
 
 El regidor Paco Turati mencionó, que  el derecho de alumbrado público se tiene que cobrar de manera igualitaria y proporcional como lo establece la suprema corte de justicia de la nación por una ley ordenada por el gobierno morenista por lo que la afectación a los pobres del municipio por este cobro igualitario  es únicamente responsabilidad de morena.

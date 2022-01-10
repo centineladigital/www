@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz compartió los motivos por los que decidió divorciarse del actor Cory Brusseau y lo que la llevó a congelar sus óvulos tras separación. "
 image: "/uploads/2021/images-martha-higareda-revela-congelo-ovulos_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me fue de la fregada en el amor -  Martha Higareda revela por qué congeló sus óvulos tras divorcio"
 front: false
 section: "Espectáculos"
-news_id: 188612
+redirect_from: /news/188612
 ---
 
 Martha Higareda, reconocida por protagonizar películas como Amarte duele, No manches Frida o Cásese quien pueda, dio mucho de qué hablar en su reciente entrevista con Yordi Rosado, sobre todo cuando habló de su matrimonio con Cory Brusseau, de quien se casó "muy enamorada", pero decidió divorciarse cuando se percató que "no conectaba" realmente con el actor estadunidense.   

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En fiestas de fin de año, el Hospital de Traumatología de Magdalena de las Salinas recibe más de 100 pacientes por estas lesiones; 10 son niños."
 image: "/uploads/2021/images-Foto_596-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS llama a generar conciencia sobre el uso de la pirotecnia para evitar lesiones graves en niñas y niños"
 front: false
 section: "Local"
-news_id: 191238
+redirect_from: /news/191238
 ---
 
 El Instituto Mexicano del Seguro Social pidió a padres familiar hacer conciencia sobre el riesgo que implica que niñas y niños tengan en sus manos juegos pirotécnicos, ya que éstos no tienen las habilidades para utilizarlos y su mal manejo puede derivar en daños en músculos, piel o deformaciones faciales.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con la intención fortalecer los lazos de colaboración institucional, así como conocer a detalle los esfuerzos realizados por la SRE, y presentar los retos y áreas de oportunidad del estado"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sostienen reunión de trabajo Secretaría de Relaciones Exteriores y Maru Campos en Chihuahua Capital"
 front: false
 section: "Local"
-news_id: 187029
+redirect_from: /news/187029
 ---
 
 Este lunes se realizó una visita de trabajo de funcionarios de la Secretaría de Relaciones Exteriores (SRE) al estado de Chihuahua, misma que fue encabezada por la Gobernadora Electa, Maru Campos, con la intención fortalecer los lazos de colaboración institucional, así como conocer a detalle los esfuerzos realizados por la SRE, y presentar los retos y áreas de oportunidad del estado.

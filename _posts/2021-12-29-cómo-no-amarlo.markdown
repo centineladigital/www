@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El aclamado director creó un hilo en Twitter en donde puso sus recomendaciones de películas, libros y arte para que todos sus seguidores las conocieran. "
 image: "/uploads/2021/images-guillermo-toro-inicio-rodaje-pelicula.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cómo no amarlo? Guillermo del Toro recomendó películas y libros a través de Twitter; te contamos cuáles son"
 front: false
 section: "Espectáculos"
-news_id: 191331
+redirect_from: /news/191331
 ---
 
 Si ya te llegó el momento en el que ya no sabes qué película ver, que libro leer, que música escuchar y piensas que ya buscaste por todos lados y no encuentras nada nuevo que te agrade, aquí te traemos la solución. 

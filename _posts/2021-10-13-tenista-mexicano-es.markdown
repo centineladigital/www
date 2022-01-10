@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Mauricio Astorga no podrá participar o asistir a cualquier evento de tenis organizado por los órganos rectores de este deporte. "
 image: "/uploads/2021/images-mauricio-astorga-tenista-mexicano-efe.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tenista mexicano es suspendido por sospecha de corrupción o amaño de resultados"
 front: false
 section: "Deportes"
-news_id: 188669
+redirect_from: /news/188669
 ---
 
 El mexicano Mauricio Astorga, número 766 en la clasificación de la Federación Internacional (ITF), ha sido suspendido provisionalmente por la Agencia para la Integridad del Tenis (ITIA), encargada de seguir las sospechas de corrupción o amaño de resultados. 

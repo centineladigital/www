@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Según el candidato esta dependencia no cumple con su función."
 image: "/uploads/2021/images-RIGGS.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW05_MIGUEL_RIGGS.mp3"
 alt: "Propone MC fusionar Obras Públicas y CUM"
 front: false
 section: "Local"
-news_id: 184679
+redirect_from: /news/184679
 ---
 
 La fusión del Consejo de Urbanización Municipal y la Dirección de Obras Públicas es una propuesta que presentó este jueves, Miguel Riggs Baeza, candidato a la presidencia municipal de Chihuahua por Movimiento Ciudadano. 

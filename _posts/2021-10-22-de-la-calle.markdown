@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Su trabajo incluye colaboraciones con Tainy y DaniLeigh en el sencillo ‘Falta’, y como compositor en el tema ‘Tu Veneno’ de J Balvin."
 image: "/uploads/2021/images-kris-floyd-lanza-tema-arcangel.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡De la calle para el mundo! Kris Floyd, la mente maestra del reguetón lanza tema con Arcángel"
 front: false
 section: "Espectáculos"
-news_id: 189107
+redirect_from: /news/189107
 ---
 
 Quizá no lo conozcas pero el nombre de Kris Floyd es la mente brillante del género urbano. Nacido en Bayamón, Puerto Rico, ha sabido ir escalando en el mundo de la música hasta llegar a codearse con los más grandes de la escena. Kris Floyd lanzó hace unos días su primer disco titulado ‘La Última Vez Que Me Viste’, un trabajo que recopila algunos temas ya mostrados en donde retrata su estilo propio y su manera cruda de transmitir sus vivencias, su vida mientras sonidos de trap, rap y reguetón son testigos de cada una de las historias narradas. 

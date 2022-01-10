@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A desarrollarse de manera virtual del 18 al 23 de octubre, con la participación de mil 300 profesionales de la educación y expertos expositores de Cuba, España y México"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Chihuahua será sede organizadora del II Foro Internacional de Educación Física"
 front: false
 section: "Local"
-news_id: 188527
+redirect_from: /news/188527
 ---
 
 A fin de mejorar la preparación de docentes de Educación Física e innovar las clases que se imparten en escuelas del nivel básico en beneficio de niñas, niños y adolescentes otorgándoles una formación integral, Gobierno del Estado, a través de la Secretaría de Educación y Deporte (SEyD) será sede organizadora del II Foro Internacional de Educación Física.

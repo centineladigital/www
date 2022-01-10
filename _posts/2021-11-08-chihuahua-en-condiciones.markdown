@@ -10,11 +10,11 @@ author: nil
 description: "Será a partir del próximo semestre cuando se regrese al cien por ciento."
 image: "/uploads/2021/images-MIRNA.jpg"
 video: "/uploads/2021/videos-ML04_MIRNA_BELTRAN.mp4"
-audio: "nil"
+audio: nil
 alt: "Chihuahua en condiciones de volver a clases presenciales"
 front: false
 section: "Local"
-news_id: 189660
+redirect_from: /news/189660
 ---
 
 El estado de Chihuahua se encuentra en condiciones de volver a clases de forma presencial, señaló la Subsecretaria de Medicina Preventiva y Promoción de la Salud, Mirna Beltrán Arzaga. Esto luego de que a nivel federal se diera a conocer que en breve todos los estados podrían iniciar esta fase.

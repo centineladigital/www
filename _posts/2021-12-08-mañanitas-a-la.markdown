@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te compartimos dónde puedes seguir en vivo la transmisión de la celebración por el 490 aniversario de las apariciones marianas en el cerro del Tepeyac."
 image: "/uploads/2021/images-puedes-vivo-mananitas-virgen-guadalupe_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mañanitas a la Virgen de Guadalupe 2021 -  ¿a qué hora y dónde ver en vivo?"
 front: false
 section: "Espectáculos"
-news_id: 190654
+redirect_from: /news/190654
 ---
 
 Miles de feligreses han comenzado la tradicional peregrinación rumbo a la Basílica de Guadalupe para visitar a la Virgen y agradecerle por los favores concedidos o pedir su apoyo este 12 de diciembre. A diferencia del año pasado, el recinto estará abierto para recibir a los fieles creyentes, quienes deberán seguir las medidas sanitarias ante la pandemia de covid-19. Sin embargo, muchos otros celebrarán las Mañanitas a la Virgen desde su casa, por ello aquí te decimos dónde y cómo puedes verlas.  La transmisión de las Mañanitas a la Virgen de Guadalupe en la pantalla chica comenzó en 1951, a partir de entonces se convirtió en un evento imperdible. Si prefieres celebrar en tu hogar el 490 aniversario de las apariciones marianas en el cerro del Tepeyac, te compartimos los canales y plataformas digitales en las que podrás seguir en vivo el festejo. 

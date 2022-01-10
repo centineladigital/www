@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Establecen lineamientos para una adecuada planeación estratégica y elaboración de programas institucionales, para prevenir la corrupción y evitar faltas administrativas y delitos en esta materia"
 image: "/uploads/2021/images-Control_Interno_(1).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacitan a personal directivo de SEECH  en materia de Control Interno"
 front: false
 section: "Local"
-news_id: 189511
+redirect_from: /news/189511
 ---
 
 La Secretaría de la Función Pública (SFP) llevó a cabo la capacitación del personal directivo de Servicios Educativos del Estado de Chihuahua (SEECH), de la Secretaría de Educación y Deporte (SEyD), sobre las funciones del Órgano de Control Interno.

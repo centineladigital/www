@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que no habrá curva de aprendizaje."
 image: "/uploads/2021/images-MM05_MARCO_BONILLA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM05_MARCO_BONILLA.mp3"
 alt: "Presentan equipo de transición municipal"
 front: false
 section: "Local"
-news_id: 185177
+redirect_from: /news/185177
 ---
 
 Presentan equipo de transición municipal

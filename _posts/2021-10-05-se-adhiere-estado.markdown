@@ -10,11 +10,11 @@ author: nil
 description: "Buscan hacer más competitiva a la ciudad."
 image: "/uploads/2021/images-MANQUE.jpg"
 video: "/uploads/2021/videos-MM05_MANQUE.mp4"
-audio: "nil"
+audio: nil
 alt: "Se adhiere estado a iniciativa “Chihuahua Green City”"
 front: false
 section: "Local"
-news_id: 188389
+redirect_from: /news/188389
 ---
 
 Este martes se dio a conocer el lanzamiento del proyecto “Chihuahua Green City” el cual es financiado por la Unión Europea al cual el Estado se adhirió, señaló la titular de la Secretaría de Innovación y Desarrollo Económico María Angelica Granados Trespalacios.

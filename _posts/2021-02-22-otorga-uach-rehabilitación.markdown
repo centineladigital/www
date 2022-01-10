@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Médicos, terapeutas y otros profesionales atienden a pacientes que superaron el coronavirus."
 image: "/uploads/2021/images-R1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML05_LUIS.mp3"
 alt: "Otorga UACH rehabilitación física para recuperados COVID"
 front: false
 section: "Local"
-news_id: 183097
+redirect_from: /news/183097
 ---
 
 Rehabilitación con el fin de que personas que padecieron COVID se pueda rehabilitar es lo que está ofreciendo la Universidad Autónoma de Chihuahua, según lo dio a conocer el Director de la Facultad de Medicina y Ciencias Biomédicas Luis Carlos Hinojos.

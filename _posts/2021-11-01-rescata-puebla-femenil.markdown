@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mariana Ramos colocó el balón a la base del poste derecho para coronar el 1 por 1. "
 image: "/uploads/2021/images-rescata-puebla-femenil-empate-guadalajara.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rescata Puebla Femenil empate con Guadalajara"
 front: false
 section: "Deportes"
-news_id: 189426
+redirect_from: /news/189426
 ---
 
 Contrario a todo pronóstico, el Puebla Femenil vino de atrás para rescatar el empate a uno contra el Guadalajara, al disputarse la Jornada 15 dentro de la Liga MX para damas, misma que tuvo lugar la tarde del domingo en la cancha del estadio Cuauhtémoc que registró una buena entrada en sus tribunas. 

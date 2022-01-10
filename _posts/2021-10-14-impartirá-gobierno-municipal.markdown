@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Es abierta al público y se transmitirá vía Facebook Live en la página oficial de la Dirección de Desarrollo Humano y Educación   "
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Impartirá Gobierno Municipal plática sobre discapacidad visual   "
 front: false
 section: "Local"
-news_id: 188736
+redirect_from: /news/188736
 ---
 
 Con motivo del Día Internacional del Bastón Blanco, que se celebrará el próximo 15 de octubre, el Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, impartirá una plática sobre la discapacidad visual y sus tipos.

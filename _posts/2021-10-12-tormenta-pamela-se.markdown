@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El centro de huracanes advirtió la posibilidad de marejadas ciclónicas, inundaciones súbitas y vientos peligrosos en el área durante la semana. "
 image: "/uploads/2021/images-pamela-tocara-tierra-mazatlan-posiblemente.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tormenta 'Pamela' se fortalece en costas del Pacífico; se prevé que se convierta en huracán"
 front: false
 section: "Nacional"
-news_id: 188631
+redirect_from: /news/188631
 ---
 
 La tormenta tropical Pamela se fortalecía rápidamente en costas del Océano Pacífico y se prevé que se convierta en huracán antes de tocar tierra cerca del puerto de Mazatlán, Sinaloa, esta semana. 

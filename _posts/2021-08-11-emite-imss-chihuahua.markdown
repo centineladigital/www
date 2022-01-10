@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Es el documento indispensable para poder acceder a la atención médica para cualquier institución pública que lo requiera "
 image: "/uploads/2021/images-Foto_3887-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite IMSS Chihuahua Constancia de No Derechohabiencia a través de la plataforma Digital"
 front: false
 section: "Local"
-news_id: 186561
+redirect_from: /news/186561
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua informa que a partir de esta fecha cualquier persona puede bajar de la plataforma IMSS Digital la “Carta” o Constancia de No Derechohabiente”, que es indispensable para recibir la atención médica para cualquier institución pública de salud que lo requiera. 

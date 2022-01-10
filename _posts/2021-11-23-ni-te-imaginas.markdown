@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La serie animada es una de las más exitosas de todos los tiempos y suma 33 temporadas hasta el momento. "
 image: "/uploads/2021/images-pagan-pesos-mexicanos-por-ver.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Ni te imaginas! Productor de 'Los Simpson' revela lo que pasará en el final de la serie y causa furor entre los fans"
 front: false
 section: "Espectáculos"
-news_id: 190108
+redirect_from: /news/190108
 ---
 
 Los Simpson, la popular familia amarilla que se ha ganado fama de "profeta" durante los últimos años entre sus seguidores, es sin duda alguna una de las la series más exitosas de todos los tiempos y suma millones de seguidores al rededor del mundo. Por tal motivo, después de 33 temporadas causa curiosidad saber cuándo y cómo llegará a su final. Pues ahora, el productor y guionista Al Jean reveló durante una entrevista con Radio Times lo que ocurrirá justo al final de la serie, y la respuesta no fue del agrado de todos los fans de Homero, Marge, Bart, Lisa y Maggie, y aquí te decimos por qué.

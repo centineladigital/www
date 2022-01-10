@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con un 29 por ciento se registran más casos en estos cinco municipios."
 image: "/uploads/2021/images-ARTURO_VALENZUELA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02_ARTURO_VALENZUELA.mp3"
 alt: "Presentan 5 municipios más incidencia en Muertes"
 front: false
 section: "Local"
-news_id: 182045
+redirect_from: /news/182045
 ---
 
 Cinco municipios en el Estado son los que más alto índice de muertes presentan, según declaraciones de Arturo Valenzuela Zorrilla, Director Médico de la Zona Norte. Siendo Juárez, Coyame, Parral, Delicias y San Francisco del Oro los que presentan estas cifras.

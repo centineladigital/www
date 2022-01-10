@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Matrimonio logra embarazo múltiple por fertilización y recurre al Hospital de Gineco-Pediatría en Hermosillo para nacimiento de bebés"
 image: "/uploads/2021/images-Foto_457-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nacen cuatrillizos en IMSS Sonora con salud óptima"
 front: false
 section: "Local"
-news_id: 188686
+redirect_from: /news/188686
 ---
 
 Dos niñas y dos niños nacieron en el Hospital de Gineco-Pediatría (HGP) del Instituto Mexicano del Seguro Social (IMSS) en Hermosillo, Sonora, todos con un peso promedio de un kilo 400 gramos y una salud óptima para su desarrollo.

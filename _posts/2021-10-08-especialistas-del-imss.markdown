@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Actualmente la paciente se encuentra en rehabilitación."
 image: "/uploads/2021/images-Foto_449-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Especialistas del IMSS en Puebla extirpan tumor de 10 cm  de la mano de una mujer y evitan amputarle la extremidad"
 front: false
 section: "Local"
-news_id: 188540
+redirect_from: /news/188540
 ---
 
 Especialistas de la Unidad Médica de Alta Especialidad (UMAE) del Hospital de Traumatología y Ortopedia del Instituto Mexicano de Seguro Social (IMSS) en Puebla evitaron amputar la mano derecha de mujer de 35 años de edad, tras una cirugía que duró más de tres horas para extirparle un tumor de células gigantes de 10 centímetros.

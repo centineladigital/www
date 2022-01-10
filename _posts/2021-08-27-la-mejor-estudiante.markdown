@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Salgy Baran sacó la mejor calificación del examen para ingresar a la universidad en todo el país, pero suspendió sus planes cuando el Talibán regresó a Kabul"
 image: "/uploads/2021/images-estudiante-anos-obtuvo-calificacion-alta.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La mejor estudiante de Afganistán teme que le prohíban ir a universidad; quiere ser doctora"
 front: false
 section: "Internacional"
-news_id: 187188
+redirect_from: /news/187188
 ---
 
 Salgy Baran, una joven de 18 años, obtuvo la mejor calificación en los exámenes de acceso a la universidad en Afganistán; sin embargo, tras el regreso del gobierno Talibán, la mejor estudiante teme por su futuro, pues no está segura de que se le vaya a permitir continuar entrar a la escuela.

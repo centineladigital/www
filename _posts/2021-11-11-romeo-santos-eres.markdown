@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este nuevo tema formará parte del nuevo disco de la artista de 28 años titulado ‘Motomami’ que saldrá en 2022. "
 image: "/uploads/2021/images-rosalia-y-the-weekend-lanzan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Romeo Santos, ¿eres tú? Rosalía y The Weekend cantan bachata en ‘La Fama’; explotan los memes en redes"
 front: false
 section: "Espectáculos"
-news_id: 189795
+redirect_from: /news/189795
 ---
 
 Después de haber mostrado un pequeño adelanto en días pasados, hoy, por fin salió a la luz 'La Fama', el nuevo tema de la artista catalana Rosalía. 

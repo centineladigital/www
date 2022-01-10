@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ya se encuentra en las salas de todo el país."
 image: "/uploads/2021/images-largometraje-terror-disponible-salas-nacionales_0_235_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Relic, la cinta que promete innovar en el horror"
 front: false
 section: "Espectáculos"
-news_id: 183881
+redirect_from: /news/183881
 ---
 
 La actriz australiana Bella Heathcote protagoniza la película de terror Relic: Herencia maldita que estrenó en los cines mexicanos con un 30 por ciento de la capacidad. La cinta promete mantener al público al filo de las butacas y por supuesto de una manera entretenidas. La historia marca el linaje de tres generaciones de mujeres; una hija y su madre van en busca de la abuela ya que está desaparecida, pues sufre demencia y a veces pierde el rumbo de lo que hace a diario. Ahí comienza una serie de misterio y horror que acapara la atención del espectador con una narrativa que se explica el conflicto poco a poco. A la par las va consumiendo vivir en una sola casa, lo que funciona como una historia paralela a lo que se enfrenta cuando alguien mentalmente está fuera de su realidad y lo combina con ficción; como metáfora, la historia profundiza en un laberinto de emociones entre las tres generaciones de mujeres. 

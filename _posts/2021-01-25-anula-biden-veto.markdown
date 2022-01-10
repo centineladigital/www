@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente de EU revierte una controvertida prohibición de su predecesor, Donald Trump, sobre las personas transgénero que sirven en el Ejército"
 image: "/uploads/2021/images-2518004.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anula Biden veto a personas trans en Ejército de EU"
 front: false
 section: "Internacional"
-news_id: 182417
+redirect_from: /news/182417
 ---
 
 El presidente de Estados Unidos, Joe Biden, anuló este lunes una controvertida prohibición de su predecesor sobre las personas transgénero que sirven en el Ejército, una medida que cumple una promesa de campaña y será aclamada por los defensores de los derechos LGBTQ.

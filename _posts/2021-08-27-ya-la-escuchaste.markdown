@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Gloria Trevi y María León estrenaron su canción Mudanza de hormiga, es por eso que la ex integrante de Playa Limbo recordó cómo surgió la colaboración. "
 image: "/uploads/2021/images-maria-leon-idea-colaboracion-gloria.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Ya la escuchaste? Así surgió 'Mudanza de hormiga', la canción de Gloria Trevi y María León"
 front: false
 section: "Espectáculos"
-news_id: 187211
+redirect_from: /news/187211
 ---
 
 Gloria Trevi es una de las cantantes que sigue cosechando éxito y en esta ocasión, unió su talento junto con el de María León para crear la canción “Mudanza de hormiga”, cuyo video a pocas horas de haberse estrenado ya tiene más de 138 mil vistas en YouTube. Para contar cómo es que surgió la colaboración entre las dos cantantes, María León dio una entrevista a De Primera Mano en donde recordó la ocasión en la que le ofrecieron grabar “Mudanza de hormiga” con Gloria Trevi.

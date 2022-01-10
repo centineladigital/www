@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Muro de donaciones se instaló en la entrada del Congreso del Estado y permanecerá ahí del 19 de octubre al 20 de noviembre."
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-19_at_11.33.43.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura la presidenta Geo Bujanda Muro vs. Cáncer de Mama "
 front: false
 section: "Local"
-news_id: 188916
+redirect_from: /news/188916
 ---
 
 La presidenta del Congreso del Estado, Geo Bujanda acompañada de legisladores de diferentes fracciones, puso en marcha el Muro de donaciones por el mes rosa, en el que se conmemora la lucha contra el Cáncer de Mama. 

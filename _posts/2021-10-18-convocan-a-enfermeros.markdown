@@ -10,11 +10,11 @@ author: nil
 description: "Las fechas de entrevistas se abrirán a partir del 25 al 29 de octubre. "
 image: "/uploads/2021/images-ANA.jpg"
 video: "/uploads/2021/videos-ML04_ANA_ROCIO.mp4"
-audio: "nil"
+audio: nil
 alt: "Convocan a enfermeros para trabajar en Alemania"
 front: false
 section: "Local"
-news_id: 188870
+redirect_from: /news/188870
 ---
 
 Nuevamente fue abierta la convocatoria para enfermeros y enfermeras que deseen laborar en Alemania, según fue dado a conocer por parte de Ana Rocío Escobar Rivero, Directora del Servicio Estatal del Empleo de la Secretaría del Trabajo y Previsión Social.

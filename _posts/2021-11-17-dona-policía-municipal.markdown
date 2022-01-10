@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las y los niños de estos lugares, recibieron en su mayoría bicicletas como regalo"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dona Policía Municipal a casas hogar, artículos asegurados no reclamados   "
 front: false
 section: "Local"
-news_id: 189931
+redirect_from: /news/189931
 ---
 
 En vísperas decembrinas, el Gobierno Municipal, a través de la Dirección de Seguridad Pública Municipal (DSPM), hizo una donación de bicicletas y artículos asegurados a dos casas de cuidado de menores de edad, a fin de que reciban un regalo.

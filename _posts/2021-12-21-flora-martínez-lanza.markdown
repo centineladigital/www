@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz y cantante colombiana anuncia que además de promover este tema de corte pop, codirigirá y actuará la cinta El milagro de las mariposas. "
 image: "/uploads/2021/images-fotograma-video-futuros-perdidos-flora.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Flora Martínez lanza su sencillo Futuros perdidos"
 front: false
 section: "Espectáculos"
-news_id: 191072
+redirect_from: /news/191072
 ---
 
 Flora Martínez promueve su sencillo "Futuros perdidos" de corte pop y anuncia que codirigirá y actuará la cinta El milagro de las mariposas que comenzará a rodar en 2022. 

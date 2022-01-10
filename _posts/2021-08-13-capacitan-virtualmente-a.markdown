@@ -10,11 +10,11 @@ author: nil
 description: "Esto desde el 2019, se lleva a cabo una capacitación integral."
 image: "/uploads/2021/images-MARGARITA.jpg"
 video: "/uploads/2021/videos-MV08_MARGARITA_BLACKALLER.mp4"
-audio: "nil"
+audio: nil
 alt: "Capacitan virtualmente a mujeres"
 front: false
 section: "Local"
-news_id: 186675
+redirect_from: /news/186675
 ---
 
 De forma virtual el Instituto Municipal de la Mujer logró certificar de agosto del 2019 a la fecha a más de mil mujeres, esto de forma virtual. Según lo dio a conocer la titular de esta dependencia Municipal Margarita Blackaller.

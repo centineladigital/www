@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante la sesión las y los Regidores aprobaron la creación de un condominio habitacional, en la zona centro, y un fraccionamiento en la zona centro-sur de la ciudad."
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueba Cabildo la creación e instalación de bolsa de trabajo para personas con discapacidad"
 front: false
 section: "Local"
-news_id: 184589
+redirect_from: /news/184589
 ---
 
 En sesión ordinaria de Cabildo, las y los integrantes del H. Ayuntamiento, aprobaron la creación e instalación de una bolsa de trabajo para personas con discapacidad al interior del Municipio de Chihuahua.

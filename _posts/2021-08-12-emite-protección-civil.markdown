@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se prevé que en Ciudad Juárez tengan una acumulación de entre 25.1 y 50 mm; en Ascensión, Nuevo Casas Grandes, Galeana, Ignacio Zaragoza, Namiquipa, Batopilas, Guadalupe y Calvo y Camargo será de 25.1 a 50 mm"
 image: "/uploads/2021/images-descarga.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Protección Civil alerta preventiva por lluvias intensas en zona norte del estado"
 front: false
 section: "Local"
-news_id: 186618
+redirect_from: /news/186618
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) emitió una alerta preventiva por lluvias intensas en la zona norte durante este jueves 12 de agosto, relacionada con la humedad procedente del Océano Pacífico generada por la circulación del posible Huracán “Linda”.

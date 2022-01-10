@@ -20,11 +20,11 @@ author: nil
 description: "En periodo electoral el ahorro sería de 127 millones de pesos"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-05_at_13.20.01.jpeg"
 video: "/uploads/2021/videos-BJ04_EDIN_ESTRADA_.mp4"
-audio: "nil"
+audio: nil
 alt: "La reducción al financiamiento implica ahorro de 80 millones de pesos -  Estrada "
 front: false
 section: "Local"
-news_id: 188495
+redirect_from: /news/188495
 ---
 
 El diputado Edín Cuauhtémoc Estrada manifestó que iniciativa de reducción del financiamiento a un 50% , es una reforma constitucional local, la cual de ser aprobada ante el congreso implicaría un ahorro de anual en periodo ordinario de 80 millones de pesos anuales y en periodo electoral 127 millones de pesos.

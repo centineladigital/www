@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Uno de los miembros del equipo de la OMS que investiga el origen del covid-19 en China asegura que la misión 'va muy bien'"
 image: "/uploads/2021/images-2522207.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Misión de OMS que investiga origen del covid-19 'va muy bien'"
 front: false
 section: "Internacional"
-news_id: 182615
+redirect_from: /news/182615
 ---
 
 a misión de la Organización Mundial de la Salud (OMS) que investiga el origen del covid-19 en China "va muy bien", aseguró este martes uno de sus miembros, mientras el equipo visitaba un centro de control de enfermedades animales en Wuhan.

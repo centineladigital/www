@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "También se prevén posibles lluvias aisladas en la zona noreste, principalmente en Manuel Benavides"
 image: "/uploads/2021/images-fuertes_vientos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronóstico del clima -  Guerrero, Bocoyna y Guachochi esperan rachas de viento de 55 km/h"
 front: false
 section: "Local"
-news_id: 182863
+redirect_from: /news/182863
 ---
 
 La Coordinación Estatal de Protección Civil informó que este jueves 11 de noviembre habrá rachas de viento que pueden superar los 55 km/h en las zonas occidente y suroeste, como Guerrero, Bocoyna y Guachochi.

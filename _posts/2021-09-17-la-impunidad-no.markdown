@@ -14,11 +14,11 @@ author: nil
 description: "El pueblo tiene presente las acciones de Duarte "
 image: "/uploads/2021/images-Francisco_Sánchez_Villegas.jpg"
 video: "/uploads/2021/videos-BV03_FRANCISCO_SANCHEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "La impunidad no debe ser distintivo del gobierno "
 front: false
 section: "Local"
-news_id: 187831
+redirect_from: /news/187831
 ---
 
 Francisco Sánchez comentó que el hecho de que a Duarte se le regresaran algunas propiedades no es una buena señal para esta nueva administración, argumentó, que la impunidad no debe ser el distintivo de  ningún gobierno.

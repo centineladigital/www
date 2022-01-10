@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal atendió la solicitud que hicieron compañeros del Club del Abuelo"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Apoyan a abuelita con material para evitar que su techo colapse"
 front: false
 section: "Local"
-news_id: 189556
+redirect_from: /news/189556
 ---
 
 Como parte de las acciones de los primeros 100 días de trabajo y resultados del Gobierno Municipal, la Dirección de Desarrollo Humano y Educación entregó material de construcción a una mujer de 73 años de edad, que se encontraba en situación vulnerable y de riesgo.

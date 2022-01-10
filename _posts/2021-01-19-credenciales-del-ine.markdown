@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El INE atenderá a las personas que deben realizar un cambio de domicilio o inscribirse por primera vez al Padrón Electoral, para que puedan votar en las próximas elecciones"
 image: "/uploads/2021/images-EsIOHD4XIAk3ruX.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Credenciales del INE vencidas en 2019 o 2020, válidas para votar en 2021"
 front: false
 section: "Nacional"
-news_id: 182274
+redirect_from: /news/182274
 ---
 
 El Instituto Nacional Electoral (INE) informa que las Credenciales para Votar con Fotografía cuya vigencia venció en 2019 o 2020 aún son válidas como mecanismo de identificación y podrán ser utilizadas para votar en las próximas elecciones, por lo que no es necesario que las y los ciudadanos con estas micas acudan a los Módulos de Atención Ciudadana.

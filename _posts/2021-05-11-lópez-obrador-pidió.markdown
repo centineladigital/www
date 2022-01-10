@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "López Obrador refirió que la solicitud la formuló el viernes pasado a la vicepresidenta de EU, Kamala Harris en la reunión virtual donde abordaron la migración desordenada"
 image: "/uploads/2021/images-2576578.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "López Obrador pidió a Kamala Harris un nuevo préstamo de vacunas AstraZeneca"
 front: false
 section: "Nacional"
-news_id: 184392
+redirect_from: /news/184392
 ---
 
 El gobierno de México solicitó al de Estados Unidos autorizar el envío de millones de vacunas contra el Covid-19 de AstraZeneca al país que se mantienen almacenadas en aquella nación y las cuales ayudarían a inmunizar a toda la población mexicana de 50 a 59 años de edad.

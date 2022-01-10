@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Corral Jurado lamentó que se diera esto afirmando que el reporte que contaba era que autoridades estatales participaron en auxilio de las empresas constructoras."
 image: "/uploads/2021/images-CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML03_JAVIER_CORRAL.mp3"
 alt: "Abren carpeta de investigación contra candidata -  Gobernador"
 front: false
 section: "Local"
-news_id: 183834
+redirect_from: /news/183834
 ---
 
 Una carpeta de investigación por delitos fue abierta en contra de la candidata del PRI a la Alcaldía del municipio de Juárez, según lo dio a conocer el Gobernador, Javier Corral Jurado. Quien dijo que entre los detenidos se encuentran elementos de seguridad de la candidata, lo que expresó es preocupante que elementos adscritos a organismos públicos de seguridad sean utilizados para la realización de delitos.

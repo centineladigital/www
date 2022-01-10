@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se desarrollarán del 4 al 17 de febrero del 2022"
 image: "/uploads/2021/images-inscripcion1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Organiza SEyD campaña de inscripciones y preinscripciones a Educación Básica"
 front: false
 section: "Local"
-news_id: 191311
+redirect_from: /news/191311
 ---
 
 La Secretaría de Educación y Deporte del Gobierno del Estado (SEyD) prepara ya la campaña de inscripciones y preinscripciones para Educación Básica para el siguiente ciclo escolar 2022-2023.

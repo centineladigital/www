@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz protagonizó un incómodo momento cuando en plena alfombra roja la relacionaron con 'El Bombón Asesino'; además se pronunció de nuevo ante las declaraciones de Yuri.   "
 image: "/uploads/2021/images-susana-zabaleta-molesta-comparada-ninel_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No la ching... -  Susana Zabaleta se molesta al ser comparada con Ninel Conde; así reaccionó"
 front: false
 section: "Espectáculos"
-news_id: 190094
+redirect_from: /news/190094
 ---
 
 Hace unos días, Susana Zabaleta se pronunció ante las declaraciones de Yuri, quien fue señalada en redes sociales por un comentario homofóbico que hizo en una entrevista con El Escorpión Dorado. En medio de la polémica, la actriz volvió a dar de qué hablar, pero ésta vez por la explosiva reacción que tuvo al ser comparada con Ninel Conde en plena alfombra roja de la puesta en escena en la que participa. La cantante, originaria de Coahuila, es una de las protagonistas del musical The Prom, el cual se estrenó este fin de semana; sin embargo, Susana Zabaleta protagonizó un incómodo momento durante la premier al ser la relacionada con El Bombón Asesino, mientras daba una entrevista a la prensa sobre su personaje que recuperó el programa Sale el Sol. 

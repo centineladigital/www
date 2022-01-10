@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Jaiba Brava necesita en Sinaloa mínimo un empate para avanzar a su tercer juego por un trofeo en un año en la Liga de Expansión Mx "
 image: "/uploads/2021/images-tampico-madero-visita-dorados-sinaloa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tampico-Madero se juega ante Dorados su invicto de visitante y el pase a la gran final"
 front: false
 section: "Deportes"
-news_id: 190743
+redirect_from: /news/190743
 ---
 
 La Jaiba Brava del Tampico-Madero busca este sábado ante los Dorados de Sinaloa su tercer juego por un título en la Liga de Expansión Mx, además de poner en juego su invicto como visitante en el torneo "Grita México A21", ante un rival obligado a vencerlo por cualquier marcador para arrebatarle el pase a la gran final la próxima semana. 

@@ -16,11 +16,11 @@ author: nil
 description: "Gracias al seguimiento de PECUU se pudo hacer la captura del autor de los crímenes ya que las cámaras de seguridad de la zona enviaron una alerta a la Policía Municipal"
 image: "/uploads/2021/images-Luis-Horacio-HT.jpg"
 video: "/uploads/2021/videos-BM05_JULIO_SALAS.mp4"
-audio: "nil"
+audio: nil
 alt: "Capturan a ladrón de casa habitación"
 front: false
 section: "Local"
-news_id: 190852
+redirect_from: /news/190852
 ---
 
 Se llevó a cabo la captura de Luis Horacio H.T, un presunto ladrón de casa habitación con violencia, el cual fue capturado a través del rastreo que se brindó por medio de la herramienta Plataforma Escudo Chihuahua, los hechos ocurrieron el pasado 10 de diciembre en la colonia san Felipe.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista, comparte la emoción que siente de ser papá joven; está dispuesto a colaborar en otros géneros musicales como el reguetón; además habla de la salud de su famoso abuelo. "
 image: "/uploads/2021/images-joven-dinastia-fernandez-laguna-octubre_0_18_670_417.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En nuestras fiestas nunca falta el tequila, el mariachi y los caballos -  Alex Fernández"
 front: false
 section: "Espectáculos"
-news_id: 188875
+redirect_from: /news/188875
 ---
 
 Alex Fernández, el más joven de la dinastía Fernández, habló en exclusiva para M2, de lo emocionado que está de poder visitar La Laguna.  Forma parte de los artistas principales de la ‘Feria de la Familia 2021’; en donde el próximo 29 de octubre regresan los conciertos al Palenque de Gómez Palacio luego de más de dos años sin eventos masivos ante la pandemia por el covid-19. ¿Qué haces para ganarte la confianza de la gente y que acuda a tus conciertos a pesar de la pandemia? Siempre la sana distancia e intentar usar en todo momento el cubrebocas. Si están vacunados mucho mejor. Obviamente van a estar tomando la temperatura y supervisando todos los protocolos, pero la idea sí es pasarla padre y cuando digo que el alcohol mata al bicho, es entre broma y broma, pero claro que no puede faltar el tequila o cualquier bebida. 

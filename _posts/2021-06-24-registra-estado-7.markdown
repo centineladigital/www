@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de contagios es de 70 mil 147 al sumarse otros 54 casos; además se han contagiado de coronavirus 6,109 integrantes del Sector Salud"
 image: "/uploads/2021/images-Diapositiva3.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registra estado 7 mil 309 defunciones por COVID-19 tras confirmarse 26 más"
 front: false
 section: "Local"
-news_id: 185221
+redirect_from: /news/185221
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al día de hoy se tiene un total general de 7 mil 309 defunciones en el estado, luego de confirmarse otros 26 más en Juárez (+16), Chihuahua (+6), Delicias (+2), Cuauhtémoc  (+1) y Camargo (+1).

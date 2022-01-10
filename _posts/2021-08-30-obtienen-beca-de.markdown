@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "LaS y los becados con MEXPROTEC estudiarán un año en un Instituto Universitario de Tecnología de ese país europeo y obtendrán así una especialidad en áreas específicas"
 image: "/uploads/2021/images-U2.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Obtienen beca de movilidad a Francia  tres estudiantes de Universidad Tecnológica de Chihuahua"
 front: false
 section: "Local"
-news_id: 187257
+redirect_from: /news/187257
 ---
 
 Este año, tres estudiantes de la Universidad Tecnológica de Chihuahua (UTCH) se hicieron acreedores a la Beca MEXPROTEC, que les permitirá estudiar una Licencia Profesional durante un año, en un Instituto Universitario de Tecnología en Francia, donde podrán poner en práctica todos sus conocimientos y trabajarán en empresas dedicadas a su área de estudio.

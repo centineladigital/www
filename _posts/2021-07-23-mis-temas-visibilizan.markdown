@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz y cantante lanza este día el sencillo “Pecados solitarios”, cuyo video revela su “personalidad juguetona”; en el escenario continúa en el musical Hoy no me puedo levantar."
 image: "/uploads/2021/images-compartio-necesidad-abordar-temas-contemporaneos_0_8_468_292.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mis temas visibilizan a las mujeres -  María León"
 front: false
 section: "Espectáculos"
-news_id: 185934
+redirect_from: /news/185934
 ---
 
 Para María León mostrarse honesta como artista viene acompañado de una importante responsabilidad creativa y de una urgencia por darle voz y visibilidad a muchos temas que la representan íntimamente, así como a muchas mujeres en México. 

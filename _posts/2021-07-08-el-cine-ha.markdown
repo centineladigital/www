@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz recibió el galardón de las manos de Spike Lee y el director surcoreano Bong Joon Ho, quienes celebraron sus logros. "
 image: "/uploads/2021/images-jodie-foster-honrada-palma-oro_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El cine ha sido mi salvavidas -  Jodie Foster es honrada con la Palma de Oro en Cannes"
 front: false
 section: "Espectáculos"
-news_id: 185481
+redirect_from: /news/185481
 ---
 
 El Festival de Cannes dio inició a su edición número 74 con estrictas medidas sanitarias debido a la pandemia de covid-19. Durante la ceremonia de inauguración desfilaron reconocidas figuras de la pantalla grande, entre ellas Andie MacDowell, Jessica Chastain, Helen Mirren, Pero Almodóvar, Spike Lee, y Jodie Foster, quien recibió la Palma de Oro en honor a su trayectoria artística. 

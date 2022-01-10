@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En la sierra, dijo, se ha aplicado la vacuna Pfizer debido a que por las temperaturas no requiere que se dé un trato especial."
 image: "/uploads/2021/images-wendy.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW02_WENDY_AVILA.mp3"
 alt: "Desconoce  gobierno que vacunas llegarán a Chihuahua"
 front: false
 section: "Local"
-news_id: 183261
+redirect_from: /news/183261
 ---
 
 No se tiene conocimiento cual será la vacuna que se aplicará a los chihuahuenses que viven en la capital del estado, esto según fue dado a conocer por parte de la Subdirectora de Medicina Preventiva y Promoción de la Salud Wendy Avila Coronado. Esto al ser cuestionada respecto a la vacuna que llegará a la capital del estado.

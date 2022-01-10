@@ -10,11 +10,11 @@ author: nil
 description: "Señala que son procesos normales."
 image: "/uploads/2021/images-JORGE.jpg"
 video: "/uploads/2021/videos-MW03_JORGE_ESPINOZA.mp4"
-audio: "nil"
+audio: nil
 alt: "Sin preocupar retraso de caso Alejandro Gutiérrez -  Consejero"
 front: false
 section: "Local"
-news_id: 187111
+redirect_from: /news/187111
 ---
 
 El Consejero jurídico del Estado, Jorge Espinoza Cortés, señaló que el retraso en el caso del análisis al juicio de amparo de Alejandro Gutiérrez no es de preocupar para la administración. Esto ya que aseguró que las acciones que se llevan a cabo en Primera Sala de la Suprema Corte de Justicia de la Nación son normales.

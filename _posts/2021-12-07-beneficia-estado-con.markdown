@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La dependencia estatal señaló que los apoyos serán de gran ayuda para estos espacios en los que habita un gran número de población indígena proveniente de la sierra y de distintos puntos del territorio nacional."
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Beneficia Estado con apoyos infantiles a familias jornaleras en 12 municipios"
 front: false
 section: "Local"
-news_id: 190597
+redirect_from: /news/190597
 ---
 
 El Gobierno del Estado a través de la Secretaría de Desarrollo Humano y Bien Común (SDHyBC), distribuyó en albergues paquetes didácticos y de higiene para evitar contagios por COVID-19, en beneficio de familias jornaleras que trabajan en 12 municipios de la entidad.

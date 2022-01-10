@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Esta semana el termómetro alanzará los 26°C y descenderá a 9°C"
 image: "/uploads/2021/images-unnamed_(18).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronostican días nublados con noches y madrugadas frías en la ciudad"
 front: false
 section: "Local"
-news_id: 190791
+redirect_from: /news/190791
 ---
 
 Para esta semana se esperan días mayormente nublados, con noches y madrugadas frías en la ciudad, así lo informó la Coordinación Municipal de Protección Civil, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional de CONAGUA, por ello se exhorta a continuar acatando las recomendaciones para evitar enfermedades respiratorias y accidentes por el uso de calefactores.

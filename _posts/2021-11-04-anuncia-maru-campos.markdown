@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se otorgarán descuentos en adeudos vehiculares, expedición de licencias de conducir, impuestos estatales e infracciones de tránsito   "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia Maru Campos descuentos desde 90% hasta el 35% en adeudos con Gobierno del Estado con Borrón y Cuenta Nueva"
 front: false
 section: "Local"
-news_id: 189567
+redirect_from: /news/189567
 ---
 
 La gobernadora del Estado, Maru Campos Galván presentó desde Ciudad Juárez, el programa de descuentos del Gobierno del Estado “Borrón y Cuenta Nueva” con el cual se impulsará la reactivación económica de Chihuahua al buscar beneficiar a más de 250 mil contribuyentes en el estado.

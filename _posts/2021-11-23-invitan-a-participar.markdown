@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal abre la agenda con el conversatorio “Mujeres una sola voz” este jueves 25 de noviembre"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Invitan a participar en actividades por el Día Internacional de la Eliminación de la Violencia contra las Mujeres"
 front: false
 section: "Local"
-news_id: 190115
+redirect_from: /news/190115
 ---
 
 Para conmemorar el Día Internacional de la Eliminación de la Violencia contra las Mujeres, el Gobierno Municipal, a través del Instituto Municipal de las Mujeres, dio a conocer los eventos que tendrán lugar durante el mes de noviembre.

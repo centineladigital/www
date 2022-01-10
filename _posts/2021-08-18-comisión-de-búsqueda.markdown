@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue visto por última ocasión en el mes de diciembre de 2020"
 image: "/uploads/2021/images-Infografía_localización_Naica_.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Comisión de Búsqueda localiza en Naica a persona que contaba con reporte de desaparición en Toluca"
 front: false
 section: "Local"
-news_id: 186832
+redirect_from: /news/186832
 ---
 
 En atención a una solicitud de intervención presentada por autoridades del Estado de Toluca, la Comisión de Búsqueda de Chihuahua ubicó en la localidad de Naica a una persona que contaba con reporte de desaparición desde el mes de diciembre de 2020. Los antecedentes del caso, indican que el afectado fue visto por última ocasión en el Estado de México donde residía junto a su familia.

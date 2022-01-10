@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te lo rentaban 200 pesos el niño o la niña para pedir dinero, le contó el conductor de TV Azteca a Adrián Marcelo durante un programa de YouTube. "
 image: "/uploads/2021/images-conductor-acudio-programa-youtube-adrian.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rentamos un niño -  Facundo recuerda polémico reportaje para 'Incógnito'"
 front: false
 section: "Espectáculos"
-news_id: 190652
+redirect_from: /news/190652
 ---
 
 Facudo sigue activo en la televisión mexicana como conductor de programas de concursos en TV Azteca, aunque muchos televidentes recuerdan los contenidos irreverentes que hizo para Televisa, por ejemplo Incógnito. En una reciente entrevista con Adrián Marcelo para el programa en YouTube Un porro con, el presentador recordó uno de los reportajes más polémicos que hizo para esta producción que salía por Canal 5: cuando rentó un niño. 

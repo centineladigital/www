@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En los departamentos de Primaria, Secundaria, Formación y Actualización Docente, Educación Física y en el ICHEA   "
 image: "/uploads/2021/images-T1.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nombran nuevos funcionarios y funcionarias en Educación Básica"
 front: false
 section: "Local"
-news_id: 189656
+redirect_from: /news/189656
 ---
 
 El secretario de Educación y Deporte, Javier González Mocken, tomó la protesta a nuevos funcionarios y funcionarias de la Subsecretaría de Educación Básica.

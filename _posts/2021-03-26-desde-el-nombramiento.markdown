@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se escucharán todas las inconformidades de los diversos sectores dentro de Morena."
 image: "/uploads/2021/images-MARTIN.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03_MARTIN_CHAPARRO_(online-audio-converter.com).mp3"
 alt: "Desde el nombramiento de MQ se inició proceso de cicatrización"
 front: false
 section: "Local"
-news_id: 183572
+redirect_from: /news/183572
 ---
 
 Desde que se dio a conocer el nombramiento de Marco Quezada como candidato a la Alcaldía por Morena, se ha dado el proceso de cicatrización, señaló el dirigente de este partido en el estado Martín Chaparro Payan.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Lamentó que este tipo de medidas afecten principalmente a los comerciantes."
 image: "/uploads/2021/images-MARTHA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ01_MARTHA_LAGUETTE.mp3"
 alt: "Respetaremos supercierres -  Laguette"
 front: false
 section: "Local"
-news_id: 184196
+redirect_from: /news/184196
 ---
 
 Como candidata a Sindico del Municipio de Chihuahua, Martha Laguette dijo respetará los supercierres y llevará a cabo los lineamientos que se dictaminan por parte del gobierno estatal, afirmando que será respetuosa de lo que la autoridad ha determinado.

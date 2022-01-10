@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La hija de Amanda Miguel y Diego Verdaguer, Ana Victoria, anunció que se convirtió en mamá; así reaccionaron a la noticia los orgullosos abuelos. "
 image: "/uploads/2021/images-los-cantantes-se-convirtieron-en.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Amanda Miguel y Diego Verdaguer ya son abuelos! Ana Victoria anuncia el nacimiento de su hijo"
 front: false
 section: "Espectáculos"
-news_id: 189747
+redirect_from: /news/189747
 ---
 
 Desde hace unos meses Amanda Miguel y Diego Verdaguer dieron a conocer que se encontraban emocionados debido a que su hija, Ana Victoria, estaba embarazada, por lo que por primera vez se convertirían en abuelos y como no hay plazo que no se cumpla, el nieto de los cantantes ya nació. A través de sus redes sociales, Ana Victoria compartió que dio a luz a un niño que llevará el nombre de Lucca. Con una fotografía en donde está cargando a su bebé, la hija de Amanda Miguel y Diego Verdaguer compartió lo feliz que se encuentra.

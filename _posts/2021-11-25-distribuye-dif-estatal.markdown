@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "También se efectuó la entrega de 11 sillas de ruedas a beneficiarios"
 image: "/uploads/2021/images-unnamed_(19).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Distribuye DIF Estatal chamarras y bonetes en San Juanito como parte de la campaña “Juntos sin frío”"
 front: false
 section: "Local"
-news_id: 190207
+redirect_from: /news/190207
 ---
 
 Como parte de la campaña solidaria “Juntos sin frío”, la presidenta del DIF Estatal, María Eugenia Galván Antillón, entregó a 120 niñas y niños chamarras y bonetes que fueron donados por los chihuahuenses, a fin de evitar enfermedades provocadas por las temperaturas bajo cero que se presentan en la región.

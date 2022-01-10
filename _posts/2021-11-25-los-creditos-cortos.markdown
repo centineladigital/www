@@ -20,11 +20,11 @@ author: nil
 description: "Desincentivar los créditos a corto plazo es lo ideal afirmó el legislador"
 image: "/uploads/2021/images-aguilar-a.jpg"
 video: "/uploads/2021/videos-BJ05_LUIS_AGUILAR_.mp4"
-audio: "nil"
+audio: nil
 alt: "Los creditos cortos se han usado de manera tradicional "
 front: false
 section: "Local"
-news_id: 190218
+redirect_from: /news/190218
 ---
 
 El diputado Luis Aguilar declaró que los créditos a corto plazo se han convertido en parte de una tradición para el gobierno municipal y estatal para sacar adelante compromisos que se tengan, “una solución sería ir revisando estos créditos como si fuera una tarjeta de crédito” dijo.

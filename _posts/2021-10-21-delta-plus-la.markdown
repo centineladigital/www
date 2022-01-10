@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los científicos están tratando de entender mejor qué grado de amenaza puede representar esta nueva variante."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Delta plus -  la nueva mutación del coronavirus que está causando un número creciente de infecciones en Reino Unido"
 front: false
 section: "Internacional"
-news_id: 189023
+redirect_from: /news/189023
 ---
 
 Las autoridades sanitarias de Reino Unido están vigilando detalladamente una nueva mutación de la variante delta del coronavirus que está causando un incremento en los casos de covid.

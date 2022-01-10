@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Incremento de casos pudieran hacer que llegue nuevamente a rojo."
 image: "/uploads/2021/images-ARTURO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02_ARTURO_VALENZUELA.mp3"
 alt: "Chihuahua va a semáforo rojo de seguir así -  Valenzuela"
 front: false
 section: "Local"
-news_id: 183972
+redirect_from: /news/183972
 ---
 
 “Esta elevación es un dato de alerta franco de que vamos al rojo” fueron las palabras del Director Médico Zona Norte, Arturo Valenzuela Zorrilla quien señaló que pese a que se esta en una situación alarmante aún estamos a tiempo de frenar la escalada en materia de casos de salud. Esto al dar a conocer que en la semana que inicia se registraron solamente 73 nuevos casos de personas contagiadas que dieron positivo a PCR.

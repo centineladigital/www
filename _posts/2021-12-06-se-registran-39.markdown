@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por esta enfermedad es de 8 mil 412 (+2), los últimos dos decesos corresponden al municipio de Parral (+1) y Delicias (+1)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 39 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 190546
+redirect_from: /news/190546
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 6 de diciembre el reporte COVID-19, en el cual se registran        87 mil 422 (+39) personas confirmadas en la entidad por este padecimiento, 74 mil 44 (+3) casos recuperados, 82 mil 793 (+31) descartados y 1,111 (-4) casos sospechosos.

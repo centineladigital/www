@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El boxeador de nacionalidad estadunidense, recibió un duro golpe que lo noqueó y terminó causando la muerte "
 image: "/uploads/2021/images-justin-thornton-twitter-mmafighting-com_0_26_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El poderoso nocaut que le costó la vida a Justin Thornton en pelea de box sin guantes"
 front: false
 section: "Deportes"
-news_id: 188374
+redirect_from: /news/188374
 ---
 
 El luchador estadounidense de 38 años Justin Thornton ha fallecido este martes tras sufrir un duro nocaut el pasado 20 de agosto en una competición de boxeo sin guantes. Thornton recibió un brutal golpe a los 19 segundos del comienzo del combate con su compatriota Dillon Cleckle en el marco del evento de boxeo sin guantes, también conocido como Bare-knuckle , denominado BKFC 20. 

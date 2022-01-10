@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Esta acción forma parte de la “Estrategia 120 días por un solo IMSS”, mediante la cual el Instituto ha logrado abatir de manera importante el rezago que ha generado la pandemia por COVID-19."
 image: "/uploads/2021/images-Foto_6347-6.jfif"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza IMSS Chihuahua Catorceava Jornada Nacional de Recuperación de Servicios Ordinarios"
 front: false
 section: "Local"
-news_id: 191034
+redirect_from: /news/191034
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua lleva a cabo este fin de semana la Catorceava Jornada Nacional de Recuperación de Servicios Ordinarios en las diferentes unidades médicas y hospitalarias de la entidad. 

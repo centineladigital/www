@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Rayadas y Tigres dejan el desenlace del Apertura 2021 abierto para el próximo lunes en el Estadio Universitario"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rayadas y Tigres empatan en la final de ida de la Liga MX Femenil"
 front: false
 section: "Deportes"
-news_id: 190998
+redirect_from: /news/190998
 ---
 
 Final de ida entre los mejores equipos de la Liga MX Femenil que no defraudó a la afición. Vibrante empate (2-2) entre Rayadas y Tigres que deja el desenlace del Apertura 2021 abierto para el próximo lunes en el Estadio Universitario.

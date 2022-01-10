@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Gustavo Cerati conoció inesperadamente al vocalista de Guns N´Roses, el argentino contó en una ocasión cómo fue su encuentro con Axel Rose. "
 image: "/uploads/2021/images-entrevista-gustavo-cerati-recordo-conocio_13_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así fue la extraña manera en que Gustavo Cerati conoció a Axl Rose -  Me usó de escudo humano"
 front: false
 section: "Espectáculos"
-news_id: 187435
+redirect_from: /news/187435
 ---
 
 En América Latina una de las bandas de rock más conocida durante los años noventa fue Soda Stereo, grupo liderado por Gustavo Cerati, quien años después de haber triunfado con la agrupación comenzó una carrera de solista. Al mismo tiempo que Soda Stereo cosechaba éxito, lo hacía Guns N Roses. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solamente se registran 59 casos nuevos y dos defunciones."
 image: "/uploads/2021/images-WENDY_AVILA1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML05_WENDY_AVILA.mp3"
 alt: "Llega a dos digitos cifra de COVID"
 front: false
 section: "Local"
-news_id: 182227
+redirect_from: /news/182227
 ---
 
 En tan sólo 24 horas se llegó solamente a una cifra de dos digítos los casos de coronavirus, esto con 59 nuevos casos de personas contagiadas y la acreditación de 2 muertes en el mismo lapso. Según fue dado a conocer por la Subdirectora de Medicina Preventiva de la Secretaría de Salud, Wendy Ávila Coronado.

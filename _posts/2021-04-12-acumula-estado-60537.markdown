@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dan positivo 36 personas más y se confirman 12 decesos en los municipios de Juárez, Chihuahua y Parral; Chihuahua es el municipio con más contagios activos con 521, seguido de Juárez con 209 casos"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acumula estado 60,537 contagios y 5,852 defunciones por COVID-19"
 front: false
 section: "Local"
-news_id: 183821
+redirect_from: /news/183821
 ---
 
 A lo largo de la pandemia suman en la entidad 60 mil 537 contagios acumulados y 5 mil 852 defunciones por COVID-19, de acuerdo con el reporte epidemiológico de este 12 de abril que emite la Secretaría de Salud.

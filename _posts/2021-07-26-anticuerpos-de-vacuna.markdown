@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las investigadores sostiene que esa situación puede cambiar si se aplica una dosis de refuerzo a los pacientes"
 image: "/uploads/2021/images-vacuna-china-sinovac-covid-utilizada_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anticuerpos de vacuna china Sinovac contra covid-19 se disipan tras 6 meses -  estudio"
 front: false
 section: "Internacional"
-news_id: 185988
+redirect_from: /news/185988
 ---
 
 Los anticuerpos generados por la vacuna anticovid de Sinovac caen por debajo de un umbral clave alrededor de seis meses después de la segunda aplicación de las dosis en la mayoría de los casos, aunque con un refuerzo podría tener un efecto reparador, de acuerdo con un estudio de laboratorio. 

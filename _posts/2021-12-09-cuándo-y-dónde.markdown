@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Para la Final desaparece cualquier criterio de desempate administrativo, por lo que hacer valer la localía será fundamental"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cuándo y dónde ver la Final de Ida entre León y Atlas?"
 front: false
 section: "Deportes"
-news_id: 190662
+redirect_from: /news/190662
 ---
 
 Este jueves se disputará la Final de Ida del Apertura 2021 de la Liga MX entre León y Atlas, en donde desaparece cualquier criterio de desempate administrativo. 

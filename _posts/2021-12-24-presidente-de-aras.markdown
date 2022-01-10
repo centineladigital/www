@@ -20,11 +20,11 @@ author: nil
 description: "Hizó un llamado a la comunidad para seguir denunciando e introduciéndose a la demanda colectiva "
 image: "/uploads/2021/images-WhatsApp_Image_2_21_1___5_at_2.11.1__PM.jpeg"
 video: "/uploads/2021/videos-BV05_MARIA_ANTONIETA_PEREZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Presidente de ARAS debe estar recluido en su escondite -  Diputada"
 front: false
 section: "Local"
-news_id: 191212
+redirect_from: /news/191212
 ---
 
 La diputada María Antonieta Pérez Reyes, quien está trabajando en pro de los afectados por el fraude millonario ARAS group bussines, señaló que el presidente de la misma asociación Armando Gutiérrez Rosas probablemente está recluido en su escondite o bien desde la comodidad del anonimato. 

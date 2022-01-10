@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con más de siete mil 900 millones de dosis de los diferentes inmunizantes aplicadas en todo el mundo, Coronavac representa el 25 por ciento de la producción mundial. "
 image: "/uploads/2021/images-fallece-cientifica-dirigia-pruebas-sinovac_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sinovac prevé tener lista en 3 meses versión de su vacuna contra variante ómicron"
 front: false
 section: "Internacional"
-news_id: 190578
+redirect_from: /news/190578
 ---
 
 Debido a que la nueva variante de covid-19 ómicron puso en alerta al mundo por su alto número de nutaciones, la empresa china SinoVac prevé tener lista "en tres meses" una nueva versión de su vacuna contra covid-19 (Coronavac). 

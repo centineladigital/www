@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantautor colombiano ofreció un show, como parte de la serie A&T Reconecta, en el que estuvo acompañado de Matisse, Édgar Barrera y Los dos carnales. "
 image: "/uploads/2021/images-el-cantante-colombiano-durante-el.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Camilo canta desde lo más alto del World Trade Center; así fue el concierto"
 front: false
 section: "Espectáculos"
-news_id: 183822
+redirect_from: /news/183822
 ---
 
 Desde lo más alto del World Trade Center se reprodujo la voz de Camilo y así el cantautor colombiano sentó precedente al reiniciar actividad presencial para EXA FM. Acompañado de su guitarra, teclado, ukelele e inspiración, el músico constató lo que apenas unos días antes comentó a la prensa, en relación al agradecimiento que tiene con el público mexicano por el apoyo que le han dado a su música, por lo que ofreció un show muy emotivo desde las alturas.

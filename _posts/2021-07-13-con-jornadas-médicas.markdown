@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Del 5 al 11 de julio se realizaron 839 cirugías, 33 mil 553 consultas de Medicina Familiar y 6 mil 541 de especialidad, así como dos trasplantes de córnea."
 image: "/uploads/2021/images-Foto_298-4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con jornadas médicas IMSS fortalece la recuperación de servicios ordinarios"
 front: false
 section: "Local"
-news_id: 185600
+redirect_from: /news/185600
 ---
 
 En 19 Representaciones Estatales del Instituto Mexicano del Seguro Social (IMSS) y cinco Unidades Médicas de Alta Especialidad (UMAE) se realizaron del 5 al 11 de julio diferentes atenciones médicas en consultas de Medicina Familiar, de Especialidad y cirugías para avanzar en la estrategia de recuperación de servicios médicos ordinarios.

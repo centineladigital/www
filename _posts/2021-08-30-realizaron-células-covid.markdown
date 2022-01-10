@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Mientras no exista una indicación contraría por parte de las autoridades encargadas, se seguirán realizando estos operativos comentó César Komaba, subdirector de Gobernación Municipal"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizaron Células COVID 79 inspecciones en bares de la ciudad   "
 front: false
 section: "Local"
-news_id: 187258
+redirect_from: /news/187258
 ---
 
 Como parte de los operativos de las Células COVID, inspectores de la subdirección de Gobernación en conjunto con elementos de la Dirección de Seguridad Pública Municipal (DSPM) realizaron la inspección de 79 establecimientos, en su mayoría bares.

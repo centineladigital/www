@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En el periodo de enero a diciembre de 2021 se atendió a 426 estudiantes de educación básica, quienes sufrieron algún percance dentro de las escuelas o camino a los planteles "
 image: "/uploads/2021/images-Brindó_Seguro_Escolar.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brinda Seguro Escolar atención por más de 550 mil pesos durante el 2021 "
 front: false
 section: "Local"
-news_id: 191054
+redirect_from: /news/191054
 ---
 
 Durante el año 2021 el Programa Estatal de Seguro Escolar realizó una erogación de 551 mil pesos por concepto de atención medica en accidentes escolares dentro del periodo comprendido del primero de enero al 13 de diciembre. 

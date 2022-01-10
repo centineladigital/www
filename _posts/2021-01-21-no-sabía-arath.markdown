@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue en la transmisión en vivo del programa Hoy de Televisa, cuando Arath de la Torre se enteró que su tía había muerto a causa del covid-19."
 image: "/uploads/2021/images-arath-torre-entera-muerte-tia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No sabía -  Arath de la Torre se entera de la muerte de su tía en plena transmisión de 'Hoy'"
 front: false
 section: "Espectáculos"
-news_id: 182321
+redirect_from: /news/182321
 ---
 
 Arath de la Torre, conductor del programa Hoy, se enteró en plena transmisión en vivo que un familiar murió a causa del coronavirus, covid-19. El también comediante se encontraba dando las noticias de espectáculos junto a sus compañeras –Galilea Montijo y Andrea Legarreta– cuando e enteró que murió su tía Catalina, esposa de Mario Gutiérrez, guitarrista y fundador de Los Ángeles Negros. Te contamos cómo fue este momento que impactó también a los televidentes. 

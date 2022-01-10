@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Una supuesta mujer francesa de avanzada edad llamó a un saucillense y le dijo que sería su heredero, para lo cual le pidió identificaciones personales"
 image: "/uploads/2021/images-EXTORSION_JIMENEZ.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ahora extorsionan... ¡desde Francia!"
 front: false
 section: "Local"
-news_id: 183381
+redirect_from: /news/183381
 ---
 
 La crisis económica orilla a los delincuentes a generar ideas ingeniosas para obtener dinero fácil. Una de ellas es enviar por correo electrónico notificaciones de supuestas herencias a sus víctimas potenciales, a quienes condicionan el pago de una cantidad a cambio de efectuar los trámites necesarios, pues quienes dejan sus bienes afirman vivir del otro lado del mundo.

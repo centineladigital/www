@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Aquellos que enriquecieron con sus propuestas el nuevo Reglamento del Sistema de Justicia Cívica"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconoce Dirección de Seguridad Pública a estudiantes y personal de Justicia Cívica   "
 front: false
 section: "Local"
-news_id: 187150
+redirect_from: /news/187150
 ---
 
 La Dirección de Seguridad Pública Municipal hizo entrega de estímulos económicos a estudiantes que enriquecieron con sus propuestas el nuevo Reglamento del Sistema de Justicia Cívica, quienes sugirieron temas relacionados con derechos humanos, pluriculturalidad, perspectiva de género e inclusión, posicionándolo como uno de los más avanzados del país.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Para pagos los usuarios pueden acudir a cajeros de 24 horas en  sucursales Ocampo, Vallarta y Saucito o a otro centro de pago autorizado"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Permanecerá JMAS parcialmente abierta con cajeros automáticos exteriores los días 1 y 2 de noviembre"
 front: false
 section: "Local"
-news_id: 189392
+redirect_from: /news/189392
 ---
 
 Con motivo de los festejos por el Día de Muertos, la Junta Municipal de Agua y Saneamiento de Chihuahua (JMAS) informa que los días 1 y 2 de noviembre las sucursales del organismo permanecerán parcialmente abiertas mediante  cajeros automáticos para recibir pagos por servicio.

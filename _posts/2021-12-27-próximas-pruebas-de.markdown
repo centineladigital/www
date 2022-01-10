@@ -20,11 +20,11 @@ author: nil
 description: "Existen aproximadamente 40 casos de la variante en la entidad federativa "
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BL01_FELIPE_SANDOVAL_.mp4"
-audio: "nil"
+audio: nil
 alt: "Próximas pruebas de Ómicron serán enviadas a México para su diagnostico"
 front: false
 section: "Local"
-news_id: 191247
+redirect_from: /news/191247
 ---
 
 Felipe Sandoval Magallanes, Secretario de Salud del estado de Chihuahua informó se aproxima la expedición de pruebas de la variante Ómicron a ciudad de México las cuales serán revisadas por el INDRE (Instituto De Diagnóstico y Referencia Epidemiológica), por sus siglas, esto para la detección oportuna de los contagios en la entidad Federativa.

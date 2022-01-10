@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue en entrevista con TVNotas en donde la actriz y ex integrante de Venga la Alegría reveló que se está dando una nueva oportunidad en el amor. Esto a menos de un año de que su esposo José Ángel García falleciera. "
 image: "/uploads/2021/images-bella-vega-anuncia-relacion-amorosa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Bella de la Vega ya tiene novio; encontró el amor a 9 meses de la muerte del padre de Gael García Bernal"
 front: false
 section: "Espectáculos"
-news_id: 189692
+redirect_from: /news/189692
 ---
 
 Bella de la Vega, ex pareja de José Ángel García, padre de Gael García Bernal, causó controversia, luego de que anunciara su nueva relación amorosa con un hombre que era amigo de su ex parejay que él mismo le presentó. Se trata del actor Juan Antonio Edwards, quien también colaboró en La Rosa de Guadalupe. Fue en entrevista con TVNotas en donde la actriz y ex integrante de Venga la Alegría reveló que se está dando una nueva oportunidad en el amor. Esto a menos de un año de que su esposo José Ángel García falleciera. 

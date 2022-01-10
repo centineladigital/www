@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Aún siguen repartiendo en la colonia San Rafael, de lunes a viernes de 8:00 am a 3:00 pm"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dona Gobierno Municipal más de 500 árboles a 12 escuelas"
 front: false
 section: "Local"
-news_id: 190763
+redirect_from: /news/190763
 ---
 
 En el marco de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, donó un total de 557 árboles de diversas especies a 12 escuelas desde el preescolar hasta secundaria.

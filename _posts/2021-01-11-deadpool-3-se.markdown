@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Kevin Feige, presidente de Marvel Studios, aseguró que Deadpool 3 ya está en proceso y se grabará probablemente en 2022. "
 image: "/uploads/2021/images-deadpool-formara-parte-del-ucm.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Deadpool 3' se incorporará al Universo Marvel; te decimos cuál será su clasificación"
 front: false
 section: "Espectáculos"
-news_id: 182046
+redirect_from: /news/182046
 ---
 
 Los fanáticos de Marvel y suscriptores del servicio de streaming Disney Plus esperan ansiosamente el lanzamiento de WandaVision, una prometedora serie que combinará la acción del Universo Cinematográfico Marvel (UCM)y un clásico sitcom estadunidense. Sin embargo, se desprendió una noticia en los días previos al lanzamiento de la serie, pues el presidente de Marvel Studios, Kevin Feige, confirmó que Deadpool 3 está en camino, será clasificación 'R' y por fin introducirá al personaje al Universo Cinematográfico de Marvel (UCM). 

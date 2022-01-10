@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Entra en funciones a partir del 2022 toda vez que la reforma obliga a conciliar antes de llegar a un juicio, informa STPS chihuahuense; con proyecto piloto se soluciona el 86% de los conflictos laborales atendidos"
 image: "/uploads/2021/images-Junta_de_Gobierno_3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instalan Junta de Gobierno del Centro de Conciliación Laboral  del Estado de Chihuahua   "
 front: false
 section: "Local"
-news_id: 186296
+redirect_from: /news/186296
 ---
 
 Como parte de las acciones puntuales del Estado para sentar las bases de una correcta y oportuna implementación de la Reforma Laboral, se instaló la Junta de Gobierno del Centro de Conciliación Laboral de Chihuahua. El titular de la Secretaría del Trabajo y Previsión Social (STPS), Juan Ramón Herrera Pedroza, dijo que a partir de mayo de 2022, con base en lo establecido por la Ley Federal, la conciliación será un procedimiento obligatorio antes de llegar a un juicio.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La nueva ley incluye incrementos para 2022 en los costos de pasaportes, la entrada a museos, zonas arqueológicas y tramites para titulación, entre otros"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Senado aprueba Ley Federal de Derechos; va al Ejecutivo"
 front: false
 section: "Nacional"
-news_id: 189234
+redirect_from: /news/189234
 ---
 
 El pleno del Senado turnó al Ejecutivo la Ley Federal de Derechos, luego de su aprobación en lo particular por 66 votos a favor y 44 en contra, la cual incluye incrementos para 2022 en los costos de pasaportes, la entrada a museos, zonas arqueológicas y tramites para titulación, entre otros.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz reveló que Ari Telch fue el primer hombre de su vida; además contó si fue infiel durante su matrimonio con Daniel Gruener. "
 image: "/uploads/2021/images-susana-zabaleta-recuerda-romance-ari.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Delicioso -  Susana Zabaleta habla de su romance con Ari Telch; ¿salió con Ricardo Arjona?"
 front: false
 section: "Espectáculos"
-news_id: 184435
+redirect_from: /news/184435
 ---
 
 Susana Zabaleta se caracteriza por ser una mujer muy sincera o, como ella mismo reconoce, "sin pelos en la lengua". La actriz asistió como invitada especial al programa Mimí Contigo en donde habló de los pasajes más importantes de su vida como el nacimiento de sus hijos, su relación amorosa con el director de cine Daniel Gruener; además recordó algunos detalles de sus romances más sonados.  Durante su participación en el programa de TV Azteca, la también cantante respondió a las incómodas preguntas del conductor Memo Martínez, así fue como Zabaleta habló de la relación que mantuvo con Ari Telch, "el primer hombre" de su vida, y si salió con Ricardo Arjona.

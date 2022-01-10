@@ -10,11 +10,11 @@ author: nil
 description: "Operativo se coordinara con los municipios de Chihuahua"
 image: "/uploads/2021/images-ARRANQUE.jpg"
 video: "/uploads/2021/videos-MM01_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Arranca de forma oficial operativo del buen fin"
 front: false
 section: "Local"
-news_id: 189707
+redirect_from: /news/189707
 ---
 
 Con el fin de garantizar la seguridad de la sociedad durante estas fiestas decembrinas este martes dio arranque de forma oficial el Operativo Centinela Buen Fin 2021 en el que participarán mil 200 elementos de seguridad pertenecientes a estado y municipios, así como la federación.

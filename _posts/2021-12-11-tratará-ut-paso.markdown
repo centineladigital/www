@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El proyecto es financiado con recursos del Fondo de Aportaciones Múltiples por 2.3 millones de pesos"
 image: "/uploads/2021/images-planta_tratadora_9.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tratará UT Paso del Norte aguas residuales para reforestar campus"
 front: false
 section: "Local"
-news_id: 190770
+redirect_from: /news/190770
 ---
 
 La Universidad Tecnológica Paso del Norte (UTPN) regará la flora y desarrollará un plan de reforestación en el Campus con la instalación de una planta tratadora de aguas residuales.

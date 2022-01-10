@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Los estudiantes pertenecen a la carrera de Ingeniería en Entornos Virtuales y Negocios Digitales de la Universidad Tecnológica de Paquimé"
 image: "/uploads/2021/images-nuevo_1.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estudiantes de la UT Paquimé desarrollan videojuego “Tree Rex”"
 front: false
 section: "Local"
-news_id: 190879
+redirect_from: /news/190879
 ---
 
 Derivado del nuevo enfoque de la Ingeniería en Entornos Virtuales y Negocios Digitales, y aunado al modelo por competencias de la Universidad Tecnológica de Paquimé (UT Paquimé), estudiantes de la carrera desarrollaron un atractivo videojuego como resultado de la asignatura “Programación de Videojuegos I”.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Evidencia consistente muestra que la variante ómicron tiene una ventaja de crecimiento sobre la variante delta con un período de dos a tres días para duplicarse, dijo la OMS"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Variante ómicron tiene un riesgo muy elevado sobre delta, afirma la OMS"
 front: false
 section: "Internacional"
-news_id: 191297
+redirect_from: /news/191297
 ---
 
 Ginebra.- La Organización Mundial de la Salud (OMS) advirtió el miércoles que el riesgo de la rápida propagación de la variante ómicron permanece "muy elevado", tras señalar que podría aumentar las hospitalizaciones a pesar de que los primeros estudios sugieren que provoca síntomas más leves.

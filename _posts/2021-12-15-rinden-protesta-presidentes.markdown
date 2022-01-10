@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Alcalde informó que se seguirá trabajando en estas comunidades para elevar la competitividad del municipio"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rinden protesta Presidentes Seccionales y Comisarios de Policía de las zonas rurales del municipio de Chihuahua   "
 front: false
 section: "Local"
-news_id: 190892
+redirect_from: /news/190892
 ---
 
 El alcalde de Chihuahua, Marco Bonilla, presidió la toma de protesta de los cinco Presidentes Seccionales de las zonas rurales del municipio, además de los 33 Comisarios de Policía para el periodo 2021-2024, quienes recibieron su constancia para ocupar su cargo oficialmente.

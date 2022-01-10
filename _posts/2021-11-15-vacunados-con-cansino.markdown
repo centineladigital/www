@@ -10,11 +10,11 @@ author: nil
 description: "Esperan que se apruebe Cansino ante la OMS."
 image: "/uploads/2021/images-MIRNA.jpg"
 video: "/uploads/2021/videos-ML03_MIRNA_BELTRAN.mp4"
-audio: "nil"
+audio: nil
 alt: "Vacunados con Cansino tendrán certificado con esta marca pese a revacunación"
 front: false
 section: "Local"
-news_id: 189847
+redirect_from: /news/189847
 ---
 
 Será inútil para los vacunados con Cansino el que se apliquen otra marca de vacuna con el fin de ingresar a Estados Unidos, ya que el certificado será con la vacuna que se aplicaron primero, afirmó la Subsecretaria de Medicina Preventiva y Promoción de la Salud, Mirna Beltrán.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En el marco de los 16 días de activismo contra la violencia hacia las mujeres y las niñas, buscan impulsar y promover acciones en favor de los derechos de este segmento de la población"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa Estado en encuentro nacional de Instancias de las Mujeres en las Entidades Federativas"
 front: false
 section: "Local"
-news_id: 189977
+redirect_from: /news/189977
 ---
 
 Gobierno del Estado, a través del Instituto Chihuahuense de las Mujeres (ICHMUJERES) participó en el “Encuentro con Titulares de las Instancias de las Mujeres en las Entidades Federativas”, convocado por el Instituto Nacional de las Mujeres (INMUJERES).

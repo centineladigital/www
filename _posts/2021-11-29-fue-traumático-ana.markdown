@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante reveló por qué no le gustaba su nombre de nacimiento y confesó que la gente se refería a ella como chaparra y sin gracia. "
 image: "/uploads/2021/images-ana-barbara-revela-vivio-infierno.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fue traumático -  Ana Bárbara revela por qué renegaba de su nombre real; así se llama"
 front: false
 section: "Espectáculos"
-news_id: 190299
+redirect_from: /news/190299
 ---
 
 Ana Bárbara encendió las alarmas de la farándula este fin de semana tras dar a conocer que dio positivo a covid-19 y reaparecer en redes utilizando un nebulizador a través del cual se le administran los medicamentos; debido a ello tuvo que cancelar varios conciertos en México. En medio de los problemas de salud que atraviesa, también reveló otro dato íntimo sobre su vida en la entrevista que le hizo Yordi Rosado en su canal de YouTube: su verdadero nombre y por qué decidió cambiárselo.  La actriz y cantante destaca por su larga trayectoria en la música regional mexicana, por lo que la mayoría también la conoce por el alias de La Reina Grupera. Al igual que otros artistas, tal es el caso deJuan Gabriel, Daddy Yankee o Bad Bunny, Ana Bárbara optó por elegir un nombre artístico, pero, ¿cómo se llama realmente y cuál fue la razón por la que no le gustaba? Esto respondió la artista.  

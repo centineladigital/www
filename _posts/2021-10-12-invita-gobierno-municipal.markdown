@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“Es importante que los jóvenes conozcan que se puede hacer una carrera en el deporte, impulsando las oportunidades para que más jóvenes sean parte de estos proyectos y lograr la competitividad que tanto se desea para el Municipio de Chihuahua”"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno Municipal a las visorías de fútbol del Necaxa en Chihuahua"
 front: false
 section: "Local"
-news_id: 188659
+redirect_from: /news/188659
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de Cultura Física y Deporte, extendió la invitación a niñas, niños y jóvenes, entre 11 y 15 años de edad, a qué participen en las visorías de fútbol de primera fuerza que realiza el Club Necaxa en la ciudad.

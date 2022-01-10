@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Luego de cancelar por la pandemia sus dos últimas ediciones, Glastonbury ya alista su evento del próximo año que estará encabezado por cantante estadunidense. "
 image: "/uploads/2021/images-billie-eilish-estrenara-canciones-disco.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡La más joven de la historia! Billie Eilish encabeza cartel del Festival de Glastonbury 2022"
 front: false
 section: "Espectáculos"
-news_id: 188339
+redirect_from: /news/188339
 ---
 
 Luego de su desfile en la alfombra del Met Gala 2021 y su destacada presentación en el concierto Global Citizen, se confirmó que Billie Eilish será cabeza del cartel del festival de música de Glastonbury 2022, esto después de que el evento tuviera que cancelar por la pandemia sus dos últimas ediciones, anunció este lunes la organización. Antes de la confirmación oficial del anuncio, la estrella de pop norteamericana insinuó la noticia a través de su cuenta de Instagram en donde compartió una fotografía en la que posa con una sudadera de Glastonbury, acompañada del año "2022". 

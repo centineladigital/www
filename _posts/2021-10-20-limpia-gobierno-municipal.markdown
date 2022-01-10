@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Apoyan brigadas de limpieza de las cinco seccionales   "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Limpia Gobierno Municipal panteones de comunidades rurales"
 front: false
 section: "Local"
-news_id: 188961
+redirect_from: /news/188961
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Rural, trabajó en  obras de limpieza y retiro de maleza en los principales cementerios ubicados en las comunidades rurales del municipio de Chihuahua.

@@ -14,11 +14,11 @@ author: nil
 description: "La situación ocurre en medio de las masivas evacuaciones de delegaciones y ciudadanos ante la llegada de los talibanes"
 image: "/uploads/2021/images-masivas-evacuaciones-registran-aeropuerto-kabul_0_22_1024_638.jpg"
 video: "/uploads/2021/videos-masivas-evacuaciones-registran-aeropuerto-kabul_0_22_1024_638.jpg"
-audio: "nil"
+audio: nil
 alt: "EU reporta explosión afuera del aeropuerto de Kabul; confirman que hay víctimas"
 front: false
 section: "Internacional"
-news_id: 187126
+redirect_from: /news/187126
 ---
 
 Una explosión ocurrió afuera del aeropuerto de Kabul, en Afganistán, así lo confirmó el representante del Departamento de Defensa de Estados Unidos, John Kirby, agregando también que hay víctimas, esto en medio de las masivas evacuaciones de las delegaciones y ciudadanos que están intentando salir del país tras la llegada de los talibanes.  

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Llevar una alimentación balanceada, ingerir abundantes líquidos y practicar ejercicio puede ayudar a prevenir la enfermedad "
 image: "/uploads/2021/images-Foto_5082-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recomienda IMSS Chihuahua controlar obesidad y beber suficiente agua, para prevenir trombosis venosa "
 front: false
 section: "Local"
-news_id: 189248
+redirect_from: /news/189248
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua informó que la trombosis venosa (cuando la sangre se coagula y forma un trombo que impide la circulación por las venas) puede prevenirse si se detecta y trata a tiempo.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se encuentran sin suministro 89,183 usuarios, en los estados de Chihuahua y Tamaulipas, que representan 0.21% de los usuarios totales en los estados afectados y el 0.2% del total de usuarios de la CFE"
 image: "/uploads/2021/images-luz_usuarios_cfe.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sin luz 13 mil usuarios en el estado -  CFE"
 front: false
 section: "Local"
-news_id: 182974
+redirect_from: /news/182974
 ---
 
 Al corte de las 6 horas del día 17 de febrero, la Comisión Federal de Electricidad, contempla que en el estado de Chihuahua, siguen sin servicio de energía eléctrica, 13 mil 298 usuarios, que representa el .95% de los usuarios totales en la entidad.

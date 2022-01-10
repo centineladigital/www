@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El virus fue detectado en un niño de 10 años que guardaba cuarentena tras llegar en un vuelo de repatriación con su familia el jueves, indicó el primer ministro.  "
 image: "/uploads/2021/images-medico-prepara-atender-enfermos-ola_0_25_980_610.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Islas Cook registra su primer caso de covid-19 desde el inicio de la pandemia"
 front: false
 section: "Internacional"
-news_id: 190504
+redirect_from: /news/190504
 ---
 
 Islas Cook, un diminuto país en el Océano Pacífico, registró su primer caso de covid-19 desde el inicio de la pandemia, justo cuando este archipiélago planeaba la reapertura de sus fronteras al turismo. 

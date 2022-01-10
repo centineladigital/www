@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ratifica la Secretaría de Salud siete decesos: 4 en Chihuahua y 1 en cada uno de los municipios de Saucillo, Guerrero y Gómez Farías"
 image: "/uploads/2021/images-Informe_tecnico_18_marzo_page-0002.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reporte estatal COVID-19 -  57,139 casos confirmados y 5,536 fallecimientos"
 front: false
 section: "Local"
-news_id: 183480
+redirect_from: /news/183480
 ---
 
 El reporte epidemiológico COVID-19 que diariamente emite la Secretaría de Salud confirma un total general de 57 mil 139 casos, con 149 nuevos registros y un acumulado de 5 mil 536 personas fallecidas, con siete decesos más en la entidad.

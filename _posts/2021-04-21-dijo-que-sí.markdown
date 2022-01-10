@@ -12,13 +12,13 @@ tags:
   
 author: nil
 description: "El conductor ha enfrentado una dura batalla contra el cáncer, pero se muestra optimista ante la vida. "
-image: "nil"
-video: "nil"
-audio: "nil"
+image: nil
+video: nil
+audio: nil
 alt: "¡Dijo que sí! -  Fernando del Solar pide matrimonio a Anna Ferro; así fue el emotivo momento"
 front: false
 section: "Espectáculos"
-news_id: 184027
+redirect_from: /news/184027
 ---
 
 Fernando Del Solar luce notablemente mejorado tras enfrentar una dura batalla contra el cáncer desde hace años y luego de toda la polémica con su ex pareja Ingrid Coronado. A través de una publicación en Instagram, el argentino compartió el momento en el que pidió matrimonio a su actual pareja Anna Ferro, causando emoción entre sus fans por la próxima boda. El conductor tiene una relación desde hace tres años con Anna Ferro, con quien vive desde hace más de año y medio y quien se ha mostrado completamente incondicional para Del Solar. Aquí te compartimos como el condutor pidió matrimonio emocionado a su pareja.

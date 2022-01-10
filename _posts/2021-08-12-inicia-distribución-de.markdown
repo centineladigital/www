@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se entregarán más de 84 mil ejemplares en sus versiones impresas y digitales, que serán utilizados durante el primer trimestre del ciclo escolar 2021-2022"
 image: "/uploads/2021/images-distribución_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia distribución de cuadernillos de trabajo para estudiantes de secundarias federales "
 front: false
 section: "Local"
-news_id: 186620
+redirect_from: /news/186620
 ---
 
 La Secretaría de Educación y Deporte (SEyD), a través de los Servicios Educativos del Estado de Chihuahua (Seech) inició la distribución de los cuadernillos de actividades que serán utilizados durante el primer trimestre del nuevo ciclo escolar 2021-2022 por estudiantes de secundarias federales en el estado.

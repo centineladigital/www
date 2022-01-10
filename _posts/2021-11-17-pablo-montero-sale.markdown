@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras salir de La casa de los famosos, Pablo Montero se enteró de que Carmen Salinas está en coma y su reacción demostró que la noticia lo afectó. "
 image: "/uploads/2021/images-pablo-montero-mostro-conmovido-noticia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pablo Montero sale de reality y se entera del estado de salud de Carmen Salinas -  No tengo palabras"
 front: false
 section: "Espectáculos"
-news_id: 189922
+redirect_from: /news/189922
 ---
 
 Hace unos días se llevó a cabo la final de La casa de los famosos, un reality en donde Alicia Machado resultó la ganadora. En este programa también participó Pablo Montero, quien quedó en quinto lugar. Ambos famosos desconocían que Carmen Salinas se encuentra hospitalizada por una hemorragia cerebral. En la final del reality, por medio del programa Hoy Día, les mostraron a Pablo Montero y a Alicia Machado un video que Carmen Salinas había grabado para ellos, esto unos días antes de que sufriera la hemorragia cerebral que la mantiene en coma. 

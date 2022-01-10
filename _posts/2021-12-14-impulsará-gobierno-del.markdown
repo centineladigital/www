@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El objetivo del acuerdo es el establecer las bases y lineamientos de colaboración a fin de fortalecer programas, estrategias, acciones, organización y desarrollo de actividades académicas."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Impulsará Gobierno del Estado acciones conjuntas en materia electoral, derechos humanos y cultura de la legalidad en escuelas de la entidad"
 front: false
 section: "Local"
-news_id: 190853
+redirect_from: /news/190853
 ---
 
 Con el propósito de promover acciones conjuntas en materia electoral, derechos humanos y cultura de la legalidad en las escuelas de la entidad, la Secretaría de Educación y Deporte (SEyD) llevó a cabo la firma de un convenio con el Tribunal Superior de Justicia (TSJ), la Comisión Estatal de Derechos Humanos (CEDH), el Instituto Estatal Electoral (IEE) y el Tribunal Estatal Electoral (TEE).

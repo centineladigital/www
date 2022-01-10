@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los casos de covid-19 están aumentando en Tokio y los Juegos, aplazados el año pasado por la pandemia, se celebrarán sin espectadores. "
 image: "/uploads/2021/images-anillos-olimpicos-estadio-nacional-sede_0_48_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Organizadores no descartan cancelar de última hora los Juegos Olímpicos"
 front: false
 section: "Deportes"
-news_id: 185828
+redirect_from: /news/185828
 ---
 
 El jefe del comité organizador de Tokio 2020 no descartó el martes una cancelación de última hora de los Juegos Olímpicos, ya que más atletas dieron positivo por covid-19 y los principales patrocinadores han abandonado sus planes para asistir a la ceremonia de apertura del viernes. 

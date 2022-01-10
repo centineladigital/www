@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Destinados para los cinco distritos dentro del municipio."
 image: "/uploads/2021/images-OLGA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML01.mp3"
 alt: "Destinarán 129 mdp a presupuesto participativo"
 front: false
 section: "Local"
-news_id: 183210
+redirect_from: /news/183210
 ---
 
 Este lunes fue dado a conocer las bases y fechas para que ciudadanos puedan llevar a cabo acciones dentro del programa de Presupuesto Participativo, según lo dio a conocer Olga Verónica García Reyes, titular de la Dirección de Planeación y Evaluación. El periodo de recepción de propuestas, dijo, será del primero al 30 de marzo. 

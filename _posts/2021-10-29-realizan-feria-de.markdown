@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ofrecen consultas de nutrición, activación física, salud bucal, detección de enfermedades, salud sexual y reproductiva, así como pruebas de Papanicolau, mamografías, glucosa, presión arterial, entre otros servicios"
 image: "/uploads/2021/images-IMG_7253.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizan Feria de la Salud en la UTCH Sur"
 front: false
 section: "Local"
-news_id: 189373
+redirect_from: /news/189373
 ---
 
 En el marco de las actividades del Día Internacional de la Lucha Contra el Cáncer de Mama, la Universidad Tecnológica de Chihuahua Sur (UTCH Sur) en coordinación el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) Delegación Chihuahua, organizó para la comunidad universitaria la Feria de la Salud.

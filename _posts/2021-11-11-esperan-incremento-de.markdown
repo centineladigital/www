@@ -10,11 +10,11 @@ author: nil
 description: "Sin especificar aún el monto de la derrama esperada."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MJ02_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Esperan incremento de derrama por el buen fin "
 front: false
 section: "Local"
-news_id: 189786
+redirect_from: /news/189786
 ---
 
 Un incremento en la derrama económica es lo que se espera en el estado por motivo del Buen Fin, señaló el Secretario General de Gobierno César Jáuregui Moreno, luego de ser cuestionado al respecto.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El mandatario afirma que en el tema del combate a la corrupción, su gobierno cerrará con broche de oro, porque constituirá uno de sus principales legados"
 image: "/uploads/2021/images-DSC_8197.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exgobernador enfrentará este año a la justicia en tribunales de Chihuahua -  Javier Corral"
 front: false
 section: "Local"
-news_id: 181858
+redirect_from: /news/181858
 ---
 
 El gobernador Javier Corral afirmó que tiene la absoluta certeza de que este año, su antecesor César Horacio D.J. enfrentará a la justicia en los tribunales de Chihuahua.

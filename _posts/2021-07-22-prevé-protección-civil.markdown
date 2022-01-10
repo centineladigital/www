@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Chihuahua alcanzará 31°C, Juárez 33°C, Janos 34°C, Delicias 33°C, Camargo 32°C y Jiménez 30°C; las probabilidades de lluvia se mantienen en la región serrana  "
 image: "/uploads/2021/images-250px-Chihuahua_Capital.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prevé Protección Civil aumento de temperaturas en el estado"
 front: false
 section: "Local"
-news_id: 185912
+redirect_from: /news/185912
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que se prevé un aumento de las temperaturas para este jueves 22 y viernes 23 de julio, con un ambiente de templado a cálido por las mañanas y de caluroso a muy caluroso por la tarde; en algunas zonas como Janos el termómetro alcanzará los 34 °C.

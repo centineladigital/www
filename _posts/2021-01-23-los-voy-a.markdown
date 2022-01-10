@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Eduardo Santamarina informó que después de varios años de ser conductor del programa Miembros al aire, deja de ser parte de la producción. "
 image: "/uploads/2021/images-eduardo-santamarina-confirmo-su-salida_55_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Los voy a extrañar” -  Eduardo Santamarina anuncia su salida de 'Miembros al aire'"
 front: false
 section: "Espectáculos"
-news_id: 182399
+redirect_from: /news/182399
 ---
 
 Hace unos días Mauricio Mancera informó a través de una publicación en Instagram que dejaba de formar parte de los conductores de Miembros al aire y otro que también anunció que sale del programa es el actor Eduardo Santamarina por medio de una foto que subió a sus redes sociales. Eduardo Santamarina, quien se incorporó a Miembros al aire hace más de dos años, anunció a través de una publicación en Instagram que dejará de ser conductor de este programa. 

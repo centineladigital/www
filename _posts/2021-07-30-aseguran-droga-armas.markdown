@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Derivado del despliegue operativo en el municipio de Guadalupe y Calvo"
 image: "/uploads/2021/images-aseguramiento_gyc_30_(3).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aseguran droga, armas, equipo táctico y vehículo robado en Guadalupe y Calvo"
 front: false
 section: "Local"
-news_id: 186151
+redirect_from: /news/186151
 ---
 
 Elementos de la Agencia Estatal de Investigación y de la Guardia Nacional llevaron a cabo el aseguramiento de droga, armas de fuego, equipo táctico y vehículo robado. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Líderes reunidos en COP26 advierten que crisis climática requiere acciones urgentes, pero los compromisos de países se ven lejanos"
 image: "/uploads/2021/images-medio_ambiente-onu.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Basta de tratar a la naturaleza como letrina y de matarnos! -  ONU"
 front: false
 section: "Internacional"
-news_id: 189462
+redirect_from: /news/189462
 ---
 
 El secretario General de la Organización de las Naciones Unidas (ONU), António Guterres, pidió a la comunidad internacional que se comprometa a recortar las emisiones de dióxido de carbono (CO2) en al menos 45% para 2030, pues de lo contrario, solamente cavaremos “nuestra propia tumba”.

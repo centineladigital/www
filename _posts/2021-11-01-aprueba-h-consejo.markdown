@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Señaló que con esto se fortalece el gobierno corporativo del Instituto y se favorece la implementación de mejores prácticas en materia de gestión de riesgos."
 image: "/uploads/2021/images-Foto_492-1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueba H. Consejo Técnico del IMSS creación de la Comisión de Riesgos Financieros y Actuariales"
 front: false
 section: "Local"
-news_id: 189442
+redirect_from: /news/189442
 ---
 
 El H. Consejo Técnico del Instituto Mexicano del Seguro Social (IMSS) aprobó la creación de la Comisión de Riesgos Financieros y Actuariales, con la finalidad de identificar, medir, monitorear, limitar, controlar y revelar los riesgos a los que se encuentra expuesta la institución en el ejercicio de sus funciones financieras.

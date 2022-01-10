@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal y Estatal de forma manera coordinada buscan ofertar actividades  "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabajan en reactivación de agenda cultura para público infantil   "
 front: false
 section: "Local"
-news_id: 189698
+redirect_from: /news/189698
 ---
 
 El Gobierno Municipal a través del Instituto de Cultura del Municipio (ICM), tuvo un acercamiento con personal del DIF Estatal, a fin de trabajar de manera coordinada en la búsqueda de la reactivación de la actividad cultural dirigida al público infantil en la capital del estado.

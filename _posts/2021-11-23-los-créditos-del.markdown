@@ -18,11 +18,11 @@ author: nil
 description: "Se debería revisar con detenimiento el aprovechamiento de estos bienes"
 image: "/uploads/2021/images-descarga_(10).jpg"
 video: "/uploads/2021/videos-BM04_BENJAMIN_CARRERA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Los créditos del gobierno son un secuestro de impuestos "
 front: false
 section: "Local"
-news_id: 190128
+redirect_from: /news/190128
 ---
 
 El congresista Benjamín Carrera mencionó que el pedir créditos  para el estado y el municipio podría significar el secuestro de los impuestos y no tener la posibilidad de hacer obras para Chihuahua, sin embargo, aseguró que el municipio no tiene tan viciado este recurso por el hecho de haberse traspasado a Marco Bonilla con cero deuda.

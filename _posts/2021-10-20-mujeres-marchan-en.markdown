@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las manifestantes marcharon desde la glorieta de 'La Joven de Amajac', para pedir equidad de género.   "
 image: "/uploads/2021/images-mujeres-marcharon-reforma-exigir-equidad_0_0_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mujeres marchan en Reforma rumbo a Fiscalía General de CdMx"
 front: false
 section: "Nacional"
-news_id: 188948
+redirect_from: /news/188948
 ---
 
 Mujeres, integrantes de la Alianza de Organizaciones Sociales de la Ciudad de México, marchan en la avenida Paseo de la Reforma hacia la Fiscalía General de Justicia capitalina, ubicada en la colonia Doctores, alcaldía Cuauhtémoc, para exigir la equidad de género. 

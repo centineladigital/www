@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Realizarán exámenes gratuitos para la detección del cáncer de mama"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dan a conocer actividades del Gobierno Municipal por el mes rosa"
 front: false
 section: "Local"
-news_id: 188596
+redirect_from: /news/188596
 ---
 
 El presidente municipal Marco Bonilla dio a conocer las actividades que se realizarán en este mes, a fin de concientizar sobre la prevención del cáncer de mama que se conmemora este 19 de octubre y que es la primera causa de muerte por cáncer en las mujeres mayores de 25 años en el país.

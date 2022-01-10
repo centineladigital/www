@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Red Bull iniciará la parrilla del circuito de Yas Marina con sus dos pilotos en las primeras posiciones"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Checo Pérez arrancará cuarto en el GP de Abu Dhabi; Verstappen gana la pole position"
 front: false
 section: "Deportes"
-news_id: 190757
+redirect_from: /news/190757
 ---
 
 El neerlandés Max Verstappen (Red Bull) saldrá primero este domingo, justo por delante del británico Lewis Hamilton (Mercedes), en el Gran Premio de Abu Dhabi, el último de la temporada y que decidirá el Mundial de F1 más emocionante de los últimos años entre ellos -empatados a puntos (369,5) pero con ventaja del primero, al contar un triunfo más (9)- en el circuito de Yas Marina.

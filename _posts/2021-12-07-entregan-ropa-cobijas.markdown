@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal, brindó el apoyo a padre de familia que quedó a cargo de sus tres hijas y dio cobijo a tres mujeres en situación de calle"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan ropa, cobijas y alimentos a familia del Porvenir III"
 front: false
 section: "Local"
-news_id: 190592
+redirect_from: /news/190592
 ---
 
 Dentro de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, entregó apoyo alimentario, ropa y cobijas a una familia de escasos recursos que reside en la colonia El Porvenir III.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal invirtió más de 2 millones del Presupuesto Participativo 2021"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Concluye rehabilitación del parque de la colonia Insurgentes II"
 front: false
 section: "Local"
-news_id: 191158
+redirect_from: /news/191158
 ---
 
 El Gobierno Municipal, a través de la Dirección de Obras Públicas, rehabilitó un parque en la colonia Insurgentes II, el cual fue uno de los proyectos ganadores del Presupuesto Participativo 2021, rescatando este espacio público para mejorar la sana convivencia de la ciudadanía y la práctica de actividad física.

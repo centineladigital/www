@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los mandatarios de México y Estados Unidos mantuvieron una reunión en la Casa Blanca en el marco de la 'Cumbre de los Tres Amigos'. "
 image: "/uploads/2021/images-presidentes-joe-biden-andres-manuel_0_7_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México y EU están en igualdad, dice Biden a AMLO tras reunión en la Casa Blanca"
 front: false
 section: "Internacional"
-news_id: 189988
+redirect_from: /news/189988
 ---
 
 Durante la Cumbre de Líderes de América del Norte (NALS), el presidente de Estados Unidos, Joe Biden, dijo al presidente de México, Andrés Manuel López Obrador, que ambas naciones son pares y que se encuentran "en pie de igualdad". 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Kathryn Hahn volverá a interpretar a la villana Agatha Harkness en la nueva serie de Disney; Jac Schaeffer estará al frente del guión. "
 image: "/uploads/2021/images-disney-plus-prepara-spin-off_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Listo para más? Disney Plus prepara spin-off de 'WandaVision'; contará historia de Agatha"
 front: false
 section: "Espectáculos"
-news_id: 188498
+redirect_from: /news/188498
 ---
 
 WandaVision es una de las series más exitosas de Disney Plus, aclamada por la audiencia y la crítica, la producción consiguió 23 nominaciones en la edición pasada de los Premios Emmy. Ahora, los estudios están preparando un spin-off de la historia protagonizada por Elizabeth Olsen y Paul Bettany que se centrará en Agatha, el personaje que interpretó Kathryn Hahn. La revista Variety informó este jueves que Kathryn Hahn volverá a meterse en la piel de la poderosa villana Agatha Harkness en una serie de la que no se sabe gran cosa más allá de que será "una comedia negra". 

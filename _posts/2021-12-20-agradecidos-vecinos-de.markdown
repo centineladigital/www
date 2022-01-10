@@ -12,11 +12,11 @@ author: nil
 description: "Los colonos lo solicitaron al Alcalde en el primer “Miércoles Ciudadano” y concluyeron la obra en 100 días"
 image: "/uploads/2021/images-unnamed_(11).jpg"
 video: "/uploads/2021/videos-Rehabilitación_de_obra_de_drenaje.mp4"
-audio: "nil"
+audio: nil
 alt: "Agradecidos, vecinos de colonia Melchor Ocampo por reconstrucción de puente"
 front: false
 section: "Local"
-news_id: 191028
+redirect_from: /news/191028
 ---
 
 En los primeros 100 días de trabajo y resultados, el Gobierno Municipal reconstruyó el puente de la calle 59 y Segunda que conecta las colonias 2 de Octubre y Melchor Ocampo, en beneficio de 20 mil habitantes, luego de sufrir daños con la tormenta que azotó la ciudad el pasado mes de agosto.

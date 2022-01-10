@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se han tenido numerosas reuniones vía zoom con el personal docente"
 image: "/uploads/2021/images-EWFEFF.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AJ01_TERESA_ORTUÑO.mp3"
 alt: "Prepara Cobach sus planteles para examen de admisión el próximo 25 de junio "
 front: false
 section: "Local"
-news_id: 185084
+redirect_from: /news/185084
 ---
 
 Antes el anuncio hecho por la secretaría de Educación y Deporte, sobre los exámenes de ingreso a educación media superior, la directora general del Colegio de Bachilleres del Estado de Chihuahua, Teresa Ortuño Gurza, enfatizó que además de estar completamente preparados para recibir de forma segura a los aspirantes a ingresar alguno de los planteles esto servirá para hacer una prueba de cómo sería el regreso a clases luego de más de un año y medio de pandemia.

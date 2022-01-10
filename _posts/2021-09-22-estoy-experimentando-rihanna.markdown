@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La cantante lanzará su nueva colección en el evento 'Savage X Fenty Show Vol. 3', que se transmitirá en Amazon Prime Video."
 image: "/uploads/2021/images-rihanna-revela-detalles-disco-coleccion_0_0_1200_747_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estoy experimentando -  Rihanna habla de su nuevo disco; presenta colección de lencería"
 front: false
 section: "Espectáculos"
-news_id: 187949
+redirect_from: /news/187949
 ---
 
 Rihanna podrá estar extremadamente ocupada con el lanzamiento de su popular línea de lencería, pero terminar su próximo álbum sigue siendo una prioridad. 

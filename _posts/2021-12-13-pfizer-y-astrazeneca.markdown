@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El estudio realizado por la Universidad de Oxford, señala que, aunque no hay pruebas de que la ómicron presente más riesgo de enfermedad grave o muerte, esta menor eficacia de las vacunas hace más probable “un aumento de las infecciones. "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Pfizer y AstraZeneca son menos efectivas ante ómicron -  Universidad de Oxford"
 front: false
 section: "Internacional"
-news_id: 190779
+redirect_from: /news/190779
 ---
 
 Londres.- Las vacunas de Pfizer y AstraZeneca inducen menos anticuerpos neutralizantes contra la ómicron que frente a otras variantes del coronavirus, revela un estudio publicado este lunes en el Reino Unido, que subraya no obstante que una dosis de refuerzo de los preparados ofrece una buena inmunidad.

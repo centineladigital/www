@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En una serie de videos en TikTok, Lisa Fernanda narró su relación con el cantante, la cuál terminaría por una infidelidad"
 image: "/uploads/2021/images-joven-asegura-novia-cristian-nodal_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La canción Te fallé es para mí -  Joven afirma ser ex novia de Christian Nodal y se hace viral"
 front: false
 section: "Espectáculos"
-news_id: 187035
+redirect_from: /news/187035
 ---
 
 Christian Nodal es una de las personalidades más populares en México hoy en día, pues su gran talento musical  lo posicionan entre los favoritos del público, y en los últimos días ha dado de qué hablar luego de que una joven se hiciera viral en TikTok tras afirmar que es la ex novia del cantante y que la canción "Te fallé" es dedicada a ella. 

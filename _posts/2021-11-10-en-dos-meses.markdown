@@ -11,12 +11,12 @@ tags:
 author: nil
 description: ""
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En dos meses, captura FGE a 1 mil 077 prófugos de la justicia"
 front: false
 section: "Local"
-news_id: 189752
+redirect_from: /news/189752
 ---
 
 La Fiscalía General del Estado capturó durante los meses de septiembre y octubre a un total de 1 mil 077 probables responsables de un delito, requeridos por Jueces de Control a solicitud de Agentes del Ministerio Público para iniciarles procesos penales.

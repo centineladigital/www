@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de su cuenta de Instagram en donde el Grupo Marrano anunció la muerte de Kiko Macanudo, uno de los fundadores de la agrupación musical. "
 image: "/uploads/2021/images-muere-lider-agrupacion-musical-grupo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió el músico Kiko Macanudo, integrante de 'Grupo Marrano'"
 front: false
 section: "Espectáculos"
-news_id: 187242
+redirect_from: /news/187242
 ---
 
 Grupo Marrano, polémico grupo musical, anunció el fallecimiento de uno de sus integrantes, Kiko Macanudo, justo el día de su cumpleaños. Así lo informó la agrupación en su cuenta de Instagram, quienes lamentaron la muerte del integrante y fundador de este proyecto. 

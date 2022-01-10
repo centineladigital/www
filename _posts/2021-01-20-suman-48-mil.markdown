@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Secretaría de Salud confirmó 29 defunciones y 67 nuevos casos en las últimas 24 horas"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suman 48 mil 548 contagios y 4 mil 528 decesos por COVID-19 en el estado"
 front: false
 section: "Local"
-news_id: 182291
+redirect_from: /news/182291
 ---
 
 La Secretaría de Salud informó que a las 7:00 horas de este 20 de enero se tienen en el estado de Chihuahua un total general de 48 mil 548 casos confirmados de COVID-19, mientras que el número de personas fallecidas es 4 mil 528.

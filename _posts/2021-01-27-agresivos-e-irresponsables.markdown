@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Nath Campos habló sobre la importancia de no revictimizar tras las polémicas declaraciones en Hoy: Cuando tienes una voz grandota y una plataforma gigantesca la gente te escucha, puedes estar silenciando a un montón de personas. "
 image: "/uploads/2021/images-nath-campos-tacho-irresponsable-sucedio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Agresivos e irresponsables -  Nath Campos reacciona a opiniones violentas del programa 'Hoy'"
 front: false
 section: "Espectáculos"
-news_id: 182482
+redirect_from: /news/182482
 ---
 
 Tras la polémica que se desenvolvió en contra del programa Hoy al lanzar comentarios revictimizantes hacia Nath Campos, luego de que ella compartiera el caso de abuso sexual que vivió por parte de quien creía su amigo, el influencer Rix, y de que la revista matutina se viera orillada a pedir disculpas públicas, la influencer habló por primera vez sobre el tema. ¿Qué piensa de lo que sucedió en el programa Hoy? ¿Cómo tomó este suceso a nivel nacional? La youtuber Nath Campos reapareció en sus redes sociales para agradecer las muestras de apoyo que ha recibido, así como para expresar lo que piensa, luego de que más mujeres rompieran el silencio. 

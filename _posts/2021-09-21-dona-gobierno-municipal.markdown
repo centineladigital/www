@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se busca forestar espacios necesitados en la zona"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dona Gobierno Municipal 180 árboles al comité de vecinos “Cerro Coronel”"
 front: false
 section: "Local"
-news_id: 187918
+redirect_from: /news/187918
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Urbano y Ecología, realizó la donación de árboles frutales y de sombra al comité de vecinos “Cerro Coronel” ubicado en zona sur de la ciudad de Chihuahua, con el fin de reforestar espacios necesitados en esta zona.

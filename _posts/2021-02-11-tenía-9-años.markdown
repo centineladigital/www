@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Taylor Lautner saltó a la fama principalmente por su participación en la saga Crepúsculo, pero el actor comenzó su carrera en Shadow Fury."
 image: "/uploads/2021/images-taylor-lautner-hizo-una-aparicion.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Tenía 9 años! Así lucía Taylor Lautner en 'Shadow Fury', su primera película"
 front: false
 section: "Espectáculos"
-news_id: 182865
+redirect_from: /news/182865
 ---
 
 Las películas de la saga Crepúsculo fueron muy populares, sobre todo entre los adolescentes; aunque muchos recuerdan los papeles de Kristen Stewart y Robert Pattinson como Bella y Edward, respectivamente, en ellas también trabajó Taylor Lautner, que aunque alcanzó fama mundial gracias a estas producciones, sin embargo, él comenzó su carrera con Shadow Fury. 

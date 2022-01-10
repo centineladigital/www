@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Sustituirá al realizador de las primeras películas, Richard Donner, quien falleció el pasado mes de julio. "
 image: "/uploads/2021/images-saga-clave-gibson-convirtiera-estrella.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡La saga continúa! Mel Gibson dirigirá la quinta película de 'Arma Mortal'"
 front: false
 section: "Espectáculos"
-news_id: 189896
+redirect_from: /news/189896
 ---
 
 Mel Gibson tomará el relevo del cineasta Richard Donner, que falleció el pasado mes de julio, para dirigir la quinta película de Arma Mortal, dio a conocer la revista The Hollywood Reporter. Destaca que esta saga de acción y comedia fue clave para que Gibson se convirtiera en una estrella de Hollywood a finales de los años 80 y principios de los 90. 

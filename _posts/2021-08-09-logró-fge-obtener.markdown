@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En el programa “Logros con Valor” se informa que fueron implementados 27 mil 908 operativos, que dieron como resultado 16 mil 637 órdenes de aprehensión cumplimentadas, en contra de quienes se encontraban prófugos de la justicia"
 image: "/uploads/2021/images-Cámaras_en_la_ciudad_1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Logró FGE obtener casi 10 mil sentencias condenatorias y resolver 255 mil carpetas de investigación"
 front: false
 section: "Local"
-news_id: 186476
+redirect_from: /news/186476
 ---
 
 La aplicación del modelo de la tetralogía de la investigación implementado por la Fiscalía General del Estado permitió obtener grandes resultados, como lo muestra la resolución de 255 mil 777 carpetas de investigación y el dictamen de 9 mil 833 sentencias, de las cuales el 95 por ciento fueron condenatorias, se informó en el “Logros con Valor”, de la Fiscalía General del Estado.

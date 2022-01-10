@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Issabela Camil reveló cómo se encuentra tras ser mencionada en el libro ‘Emma y las otras señoras del narco’ de Anabel Hernández."
 image: "/uploads/2021/images-issabela-camil-tranquila-aparecer-libro.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aunque le rasquen -  Issabela Camil dice estar tranquila y feliz tras ser vinculada con el narco 'La Barbie'"
 front: false
 section: "Espectáculos"
-news_id: 190539
+redirect_from: /news/190539
 ---
 
 Issabela Camil, actriz y esposa de Sergio Mayer, por fin rompió el silencio, tras ser vinculada con el narcotráfico al igual que el ex político en el libro ‘Emma y las otras señoras del narco’ de Anabel Hernández. La también hermana de Jaime Camil comunicó que ella está muy tranquila, pues aunque le “rasquen” no encontrarán algo que la vincule con el crimen organizado. Fue en entrevista con varios medios de comunicación, a su llegada al Aeropuerto Internacional de la Ciudad de México, en donde Issabela Camil reveló cómo se encuentra tras ser mencionada en el libro ‘Emma y las otras señoras del narco’ de Anabel Hernández.

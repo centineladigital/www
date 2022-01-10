@@ -10,11 +10,11 @@ author: nil
 description: "Aún no se registra variante omicrón en el estado."
 image: "/uploads/2021/images-GUMARO.jpg"
 video: "/uploads/2021/videos-MV05_GUMARO_BARRIOS.mp4"
-audio: "nil"
+audio: nil
 alt: "Predomina variante DELTA en Chihuahua"
 front: false
 section: "Local"
-news_id: 191207
+redirect_from: /news/191207
 ---
 
 Hasta la tercer semana de diciembre la variante COVID que más se registraba es la delta, aseveró el Subdirector de Epidemiología en la Secretaría de Salud, Gumaro Barrios Gallegos. Esto luego de ser cuestionado sobre la presencia de la variante Ómicron en el estado.

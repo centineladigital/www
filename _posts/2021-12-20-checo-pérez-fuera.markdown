@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El piloto mexicano no fue elegido como uno de los mejores corredores de la temporada 2021. "
 image: "/uploads/2021/images-checo-perez-top-mejores-pilotos_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Checo' Pérez, fuera del top 10 de mejores pilotos de la Fórmula 1"
 front: false
 section: "Deportes"
-news_id: 191018
+redirect_from: /news/191018
 ---
 
 Sergio Pérez ha tenido una de sus mejores temporadas en la Fórmula 1, quedando en el cuarto lugar del campeonato de pilotos, además de convertirse en el corredor mexicano con más podios en la máxima categoría del deporte motor. 

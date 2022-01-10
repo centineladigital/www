@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Cardi B no pudo contener su emoción al conocer a Robert Pattinson, es por eso que lo captó todo en un video. "
 image: "/uploads/2021/images-asi-reacciono-la-cantante-al_50_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡No contuvo la emoción! Carbi B muestra su reacción al conocer a Robert Pattinson"
 front: false
 section: "Espectáculos"
-news_id: 189694
+redirect_from: /news/189694
 ---
 
 Robert Pattinson es uno de los actores más populares y quien causó sensación cuando dio vida al vampiro Edward Cullen en Crepúsculo y todo podría indicar que su papel como Batman será uno de los papales más importantes en su carrera. El actor tiene muchas fans alrededor del mundo, pero una que mostró su emoción al conocerlo fue Cardi B. Cardi B, quien ha conseguido éxito con su carrera como rapera, decidió mostrar en sus redes sociales la emoción que sintió al conocer a Robert Pattinson, lo cual quedó registrado en un video que grabó la cantante. 

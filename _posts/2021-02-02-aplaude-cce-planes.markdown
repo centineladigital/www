@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Asimismo aprovecho, para volver hacer un llamado al gobierno federal, para que apoye verdaderamente al as empresas"
 image: "/uploads/2021/images-WFEFEF.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AM01_FRANCISCO_SANTINI_RAMOS.mp3"
 alt: "Aplaude CCE planes y programas de reactivación económica del ayuntamiento "
 front: false
 section: "Local"
-news_id: 182629
+redirect_from: /news/182629
 ---
 
 El presidente del Consejo Coordinador Empresarial, Francisco Santini  Ramos, vio con buenos ojos que el ayuntamiento este apoyando la reactivación económica con diversos programas como es el anunciado hace unos días titulado “Hecho en Chihuahua con mucho amor”, el cual es intento de aumentar ventas para el 14 de febrero.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Aplican un 50% de descuento en recargos   "
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno Municipal a ponerse al corriente en pago de pavimentación"
 front: false
 section: "Local"
-news_id: 188821
+redirect_from: /news/188821
 ---
 
 El Gobierno Municipal a través del Consejo de Urbanización Municipal (CUM), invitan a todas las familias a ponerse al corriente con sus pagos de pavimentación y aprovechar el 50 por ciento de descuento en recargos.

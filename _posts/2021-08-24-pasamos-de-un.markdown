@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente de la Junta Central de Agua y Saneamiento, Ismael Rodríguez informó en Logros con Valor, cómo se logró sanear, transparentar y dejar en números negros la operación de los 50 organismos municipales, rurales y la JCAS"
 image: "/uploads/2021/images-_DSC1735.JPG"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-2-_COMENTARIOS_GENERALES_PTE_JCAS_ISMAEL_RGUEZ_Y_DIR_EJEC_JCAS_ÓSCAR_IBAÑEZ_PROG_LOGROS_CON_VALOR_JCAS_24-8-21.MP3"
 alt: "Pasamos de un sistema de agua con corrupción endémica a uno con muchos ahorros e inversión"
 front: false
 section: "Local"
-news_id: 187047
+redirect_from: /news/187047
 ---
 
 En el programa Logros con Valor de la Junta Central de Agua y Saneamiento (JCAS), el presidente Ismael Rodríguez Gallegos, informó que de haber encontrado un sistema de organismos con corrupción endémica y falta de transparencia, se deja uno inversor operando con números negros.

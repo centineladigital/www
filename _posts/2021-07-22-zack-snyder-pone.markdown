@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tras el estreno de Ejército de los Muertos el pasado mayo, el director Zack Snyder dejó caer sus planes de rodar una secuela; ha firmado un contrato de preferencia con Netflix. "
 image: "/uploads/2021/images-zack.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Zack Snyder pone en marcha secuela de El ejército de los muertos"
 front: false
 section: "Espectáculos"
-news_id: 185926
+redirect_from: /news/185926
 ---
 
 Zack Snyder pone en marcha secuela de El ejército de los muertos. Foto: netflix

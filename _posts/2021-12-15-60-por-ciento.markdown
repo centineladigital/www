@@ -16,11 +16,11 @@ author: nil
 description: "Seguridad Pública una inversión de mil 100 millones de pesos, Servicios Públicos una cifra cercana a los 700 millones de pesos y para Obra Pública una inversión aproximada de más de 850 millones de pesos"
 image: "/uploads/2021/images-Marco_Bonilla_1.jpg"
 video: "/uploads/2021/videos-BW02_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "60 por ciento del presupuesto para seguridad obras y servicios"
 front: false
 section: "Local"
-news_id: 190901
+redirect_from: /news/190901
 ---
 
 El presidente Marco Bonilla señaló que poco más del 60 por ciento del presupuesto participativo con el que cuenta el gobierno municipal se destinara para tres vertientes importantes, seguridad pública, servicios públicos y en obra pública.

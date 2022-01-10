@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Gimnasio, plaza pública, velatorio, parques y arena de rodeo puestos a disposición de la ciudadanía gracias a la inversión de recursos del Fondo de Reparación Justicia para Chihuahua  "
 image: "/uploads/2021/images-af6698d8-ce0d-454e-a86b-fed02565aa8d.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Estado obras en Galeana por 3.7 mdp "
 front: false
 section: "Local"
-news_id: 187196
+redirect_from: /news/187196
 ---
 
 Gobierno del Estado, a través de la Secretaría de Desarrollo Municipal (Sedemun) y en coordinación con el Ayuntamiento de Galeana, realizó cuatro obras en beneficio de tres comunidades,  con recursos provenientes del Fondo de Reparación Justicia para Chihuahua, del orden de tres millones 771 mil 393.12 pesos.

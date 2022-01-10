@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Derivado de ello, la FDA aplazó la decisión sobre su vacuna en adolescentes. "
 image: "/uploads/2021/images-acero-inoxidable-vacunas-moderna-representa_0_23_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estudian posible riesgo de inflamación cardiaca por vacuna anticovid de Moderna"
 front: false
 section: "Internacional"
-news_id: 189427
+redirect_from: /news/189427
 ---
 
 En Estados Unidos, reguladores estudian un inusual riesgo de inflamación cardiaca que puede provocar la vacuna de Moderna contra el coronavirus, por lo que están demorando su decisión sobre la aplicación de la dosis en niños de 12 a 17 años. 

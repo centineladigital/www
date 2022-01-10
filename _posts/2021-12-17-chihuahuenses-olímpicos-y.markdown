@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se definieron a 27 ganadores de la estatuilla al bronce del Premio Municipal"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chihuahuenses olímpicos y paralímpicos, finalistas al Oro y Plata del Premio Municipal “Teporaca”"
 front: false
 section: "Local"
-news_id: 190993
+redirect_from: /news/190993
 ---
 
 Este viernes, el órgano de análisis se reunió para definir a las y los mejores exponentes del deporte en el Municipio de Chihuahua, que definieron los 27 ganadores de la estatuilla de bronce y finalistas al oro y plata del Premio Municipal a la Excelencia en el Deporte ‘Teporaca’, en la edición número 35.

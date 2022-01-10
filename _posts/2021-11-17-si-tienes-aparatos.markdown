@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Invita Gobierno Municipal a ser parte de esta campaña del 26 al 28 de noviembre"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Si tienes aparatos electrónicos que no usas, intercámbialos por un árbol"
 front: false
 section: "Local"
-news_id: 189924
+redirect_from: /news/189924
 ---
 
 En el marco de los 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, en conjunto con la empresa Ecorecikla, anunció la realización de la feria del reciclaje electrónico, misma que se llevará a cabo los próximos días 26, 27 y 28 de noviembre en la explanada del parque El Palomar, en un horario de 10:00 am a 5:00 pm.

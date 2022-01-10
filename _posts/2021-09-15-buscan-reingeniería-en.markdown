@@ -10,11 +10,11 @@ author: nil
 description: "Esperan mejora del transporte público."
 image: "/uploads/2021/images-SALCIDO.jpg"
 video: "/uploads/2021/videos-MW01_FRANCISCO_SALCIDO.mp4"
-audio: "nil"
+audio: nil
 alt: "Buscan reingeniería en transporte público"
 front: false
 section: "Local"
-news_id: 187764
+redirect_from: /news/187764
 ---
 
 Con el fin de mejorar el transporte público concesionarios buscan una reingeniería dentro del sistema de transporte público, según lo declaró Francisco Salcido Lozoya, Secretario General de la Federación de Sindicatos y Organizaciones Independientes de Chihuahua.

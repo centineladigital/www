@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Renuevan convenio para contribuir en la formación académica de profesionistas, para educar con sentido humanístico y servir como agentes de cambio en la comunidad"
 image: "/uploads/2021/images-_DSC0061.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acuerdan UPNECH e Instituto José David continuar ofreciendo  Maestría en Problemas de Aprendizaje   "
 front: false
 section: "Local"
-news_id: 188924
+redirect_from: /news/188924
 ---
 
 La Universidad Pedagógica Nacional del Estado de Chihuahua (UPNECH) y el Instituto José David (IJD) Educación Superior A.C., renovaron el convenio de colaboración para continuar impartiendo la Maestría en Problemas de Aprendizaje en modalidad virtual.

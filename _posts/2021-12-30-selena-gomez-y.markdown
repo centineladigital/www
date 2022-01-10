@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de Instagram, el artista Bang Bang mostró los tatuajes hechos a Selena Gomez y Cara Delevingne. "
 image: "/uploads/2021/images-cara-delevingne-selena-gomez-comparten.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Selena Gomez y Cara Delevingne se hicieron el mismo tatuaje; así lucen las actrices"
 front: false
 section: "Espectáculos"
-news_id: 191344
+redirect_from: /news/191344
 ---
 
 La cantante Selena Gomez y la modelo Cara Delevingne se tatuaron exactamente el mismo diseño por el mismo artista. Se trata de Keith Scott McCurdy, quien en Nueva York es mejor conocido como 'Bang Bang' y tuvo la gran oportunidad de plasmar su increíble trabajo en la piel de ambas famosas. Por medio de su cuenta de Instagram, el tatuador presumió el diseño hecho a ambas, aunque sin revelar cuál fue la razón por la que ambas eligieron la misma rosa con efecto de chorreado en acuarela. 

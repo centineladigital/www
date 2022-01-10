@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con un mensaje de unidad, fortaleza, ayuda mutua, trabajo en equipo y mejora continua, María Eugenia Galván, señaló que, éste es el primer paso para lograr llegar a cada rincón del estado en apoyo a los que menos tienen."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza presidenta del DIF Estatal “Primer encuentro estatal sistemas municipales DIF”"
 front: false
 section: "Local"
-news_id: 189245
+redirect_from: /news/189245
 ---
 
 La presidenta del DIF Estatal María Eugenia Galván Antillón, encabezó el Primer Encuentro Estatal Sistemas Municipales DIF donde las presidentas, directores y directoras de los DIF municipales de los 67 municipios, compartieron experiencias y expusieron necesidades de sus diferentes lugares de origen, a fin de trabajar en coordinación y unidad para llegar a soluciones a problemáticas sociales.

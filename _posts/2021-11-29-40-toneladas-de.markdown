@@ -18,11 +18,11 @@ author: nil
 description: "A dos años de suspender la feria, el director mencionó que se llego al cometido de limpiar las casas de electrodomésticos innecesarios"
 image: "/uploads/2021/images-51ee06db-a0d0-4add-870c-9a1180b4233a.jpg"
 video: "/uploads/2021/videos-BL03_FEDERICO_MURUATO_.mp4"
-audio: "nil"
+audio: nil
 alt: "40 toneladas de basura electrónica en la feria de reciclaje "
 front: false
 section: "Local"
-news_id: 190320
+redirect_from: /news/190320
 ---
 
 Federico Muruato señaló que la feria fue un éxito y se lograron recaudar casi 40 toneladas de basura electrónica a comparación de otras ferias en las cuales solo se llegaba a recaudar 13 toneladas de residuos.

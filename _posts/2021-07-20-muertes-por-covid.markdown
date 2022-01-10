@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El estudio estima que entre 3.4 y 4.7 millones de personas murieron por el covid-19 entre el inicio de la pandemia y junio de este año."
 image: "/uploads/2021/images-covid_india.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Muertes por covid en India podrían ser hasta 10 veces mayores a cifras oficiales -  expertos"
 front: false
 section: "Internacional"
-news_id: 185836
+redirect_from: /news/185836
 ---
 
 El número real de muertes causadas por el covid-19 en India podría ser hasta diez veces superior a las casi 415 mil registradas en el balance oficial, dijo un grupo de investigación estadunidense hoy ante la detección de la variante Delta en ese territorio. 

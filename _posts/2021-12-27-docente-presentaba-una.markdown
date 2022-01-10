@@ -22,11 +22,11 @@ author: nil
 description: "En ocasiones los menores se niegan a cooperar con la denuncia porque pueden estar manipulados por sus agresores"
 image: "/uploads/2021/images-CARLOS_MARIO.jpg"
 video: "/uploads/2021/videos-_BL03_CARLOS_JIMENEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Docente presentaba una actitud sospechosa -  Fiscal "
 front: false
 section: "Local"
-news_id: 191249
+redirect_from: /news/191249
 ---
 
 A raíz de las 16 denuncias de abuso sexual que enfrenta el docente Dante Daniel Q.B. quien impartía clases de música en una escuela primaria, el Fiscal General Zona Centro Carlos Mario Jiménez manifestó que el acusado fue sorprendido con una actitud sospechosa, dentro de un baño en donde se notaba claramente que estaba un menor dentro del mismo.

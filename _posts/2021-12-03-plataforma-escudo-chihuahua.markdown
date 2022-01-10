@@ -10,13 +10,13 @@ tags:
   
 author: nil
 description: "En su visita, los funcionarios estadounidenses anunciaron la donación de dos bomberas al Municipio"
-image: "nil"
-video: "nil"
-audio: "nil"
+image: nil
+video: nil
+audio: nil
 alt: "Plataforma Escudo Chihuahua, ejemplo para Policía de Albuquerque"
 front: false
 section: "Local"
-news_id: 190464
+redirect_from: /news/190464
 ---
 
 El alcalde de Chihuahua, Marco Bonilla Mendoza, encabezó una reunión con el director administrativo de Albuquerque, Nuevo México, Kevin Sourisseau; el director de tecnología e innovación Brian Osterlo; el comandante de la Policía Scott Thomas Norris y elementos de seguridad de aquella ciudad, para recorrer las instalaciones de la Plataforma Escudo Chihuahua (PECUU) y conocer a fondo su funcionamiento.

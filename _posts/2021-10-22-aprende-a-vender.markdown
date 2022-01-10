@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal invita a inscribirse al curso para empresarios y emprendedores"
 image: "/uploads/2021/images-unnamed_(2).png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprende a vender tus productos en Mercado Libre"
 front: false
 section: "Local"
-news_id: 189100
+redirect_from: /news/189100
 ---
 
 Si eres empresario o emprendedor y quieres aprender a vender tus productos por Mercado Libre, el Gobierno Municipal a través de la Dirección de Desarrollo Económico y Turístico, te invita a inscribirte al curso vía Zoom donde te darán las herramientas necesarias.

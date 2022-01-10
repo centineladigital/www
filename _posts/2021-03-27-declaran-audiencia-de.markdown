@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se reanudó por tercer día consecutivo la audiencia"
 image: "/uploads/2021/images-Ciudad_Judicial.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Declaran audiencia de Campos como privada por exposición de datos"
 front: false
 section: "Local"
-news_id: 183575
+redirect_from: /news/183575
 ---
 
 La audiencia de imputación de cargos contra los tres ex diputados locales, María Eugenia Campos, María Ávila y Rodrigo de la Rosa, fue declarada como privada por exposición de datos sensibles.

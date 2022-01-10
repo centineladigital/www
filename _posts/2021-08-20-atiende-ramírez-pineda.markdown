@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Rehabilitará el Instituto unidades médicas de 18 municipios importantes en el estado"
 image: "/uploads/2021/images-ISSSTE_01.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atiende Ramírez Pineda demanda de la sociedad y docentes oaxaqueños "
 front: false
 section: "Local"
-news_id: 186944
+redirect_from: /news/186944
 ---
 
 Mejorar el servicio y la atención a la derechohabiencia es el objetivo principal en la actual administración. Por ello nos hemos dado a la tarea de recorrer las unidades médicas de primer nivel para detectar las necesidades y avocarnos a rehabilitarlas, así como modernizarlas, en cumplimiento de las demandas de los diversos sectores de afiliados, sobre todo de las y los maestros, afirmó el director general del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), Luis Antonio Ramírez Pineda.

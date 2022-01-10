@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que iniciativa fue presentada en su gestión como Alcaldesa. "
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MV06_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Descarta Gobernadora desaparición del DAP"
 front: false
 section: "Local"
-news_id: 190010
+redirect_from: /news/190010
 ---
 
 “Yo no lo doy por hecho” fueron las palabras de la Gobernadora de Chihuahua al ser cuestionada respecto a la desaparición del cobro del Derecho de Alumbrado Público, o DAP por sus siglas. Recalcando por parte de María Eugenia Campos Galván que esto se registró hace algunos años y no se puede implementar ya que es anticonstitucional.

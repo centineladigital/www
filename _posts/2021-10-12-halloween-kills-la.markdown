@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jamie Lee Curtis está de regreso para enfrentar a Michael Myers en la nueva entrega 'Halloween Kills: La noche aún no termina', secuela de 'Halloween' (2018). "
 image: "/uploads/2021/images-jamie-lee-curtis-halloween-kills.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Halloween Kills -  La noche aún no termina', fecha de estreno y dónde ver estreno de terror"
 front: false
 section: "Espectáculos"
-news_id: 188656
+redirect_from: /news/188656
 ---
 
 La época de terror ya comenzó, es por ello que nadie se querrá perder el estreno de Halloween Kills: la noche aún no termina, la segunda entrega del reboot de la franquicia de Halloween de 1978 que salió en 2018 y que cuentan, en todos los casos, con el protagonismo de Jamie Lee Curtis. 

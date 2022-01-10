@@ -14,11 +14,11 @@ author: nil
 description: "Existieron funcionarios que si invirtieron su tiempo en buenas obras "
 image: "/uploads/2021/images-DIPUTADO_CHAVEZ.jpg"
 video: "/uploads/2021/videos-BW02_ALFREDO_CHAVEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "El gobierno de Javier Corral no fue todo un fracaso "
 front: false
 section: "Local"
-news_id: 187551
+redirect_from: /news/187551
 ---
 
 El diputado Alfredo Chávez externó que el gobierno de Corral no fue del todo un fracaso para el PAN puesto que algunos funcionarios lograron llevar un sexenio en orden pues en palabras del diputado estos entregaron horas.

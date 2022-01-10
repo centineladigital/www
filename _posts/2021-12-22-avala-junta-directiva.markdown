@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Convocó a representantes sindicales, directores normativos y trabajadores a lograr que el instituto sea ejemplo de seguridad social"
 image: "/uploads/2021/images-ISSSTE_01.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avala Junta Directiva del Issste proyecto de transformación de Pedro Zenteno"
 front: false
 section: "Local"
-news_id: 191110
+redirect_from: /news/191110
 ---
 
 Representantes sindicales y miembros de la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Issste) avalaron el proyecto y estrategia de transformación del director general, Pedro Zenteno Santaella, para fortalecer los 21 seguros, servicios y prestaciones que se otorgan a 13.5 millones de derechohabientes.

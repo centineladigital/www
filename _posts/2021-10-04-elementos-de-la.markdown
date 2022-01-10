@@ -10,11 +10,11 @@ author: nil
 description: "Operativo tiene como fin saber con cuántos elementos cuenta la dependencia."
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-ML03_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Elementos de la SSPE aún no van por el cheque"
 front: false
 section: "Local"
-news_id: 188352
+redirect_from: /news/188352
 ---
 
 Debido a que la última quincena de septiembre fue pagada vía cheque el titular de la Secretaría de Seguridad Pública Estatal señaló que aún no cobran en su totalidad los elementos, por lo que será hasta el viernes cuando determinen con qué número de elementos se cuenta dentro de la dependencia.

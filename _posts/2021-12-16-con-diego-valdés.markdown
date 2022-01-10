@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La llegada del volante Diego Valdés pone a las Águilas un paso por delante de otros obligados como Chivas y Cruz Azul, en cuestión de refuerzos "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con Diego Valdés, América da el primer golpe"
 front: false
 section: "Deportes"
-news_id: 190911
+redirect_from: /news/190911
 ---
 
 A 21 días de que inicie el torneo Clausura 2022, el América ya dio el primer golpe en la mesa, al anunciar la contratación del chileno Diego Valdés.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente criticó que haya pronunciamientos públicos pero no se implementen acciones concretas por parte de los países más poderosos. "
 image: "/uploads/2021/images-presidente-critico-pronunciamientos-realizados-cumbre.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acuerdo contra la deforestación en la COP26 fue idea de México, asegura AMLO"
 front: false
 section: "Nacional"
-news_id: 189497
+redirect_from: /news/189497
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que el acuerdo contra la deforestación que se firmó en la Conferencia de las Naciones Unidas sobre el Cambio Climático (COP26) fue una propuesta hecha por México. 

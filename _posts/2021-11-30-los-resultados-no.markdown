@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El presupuesto para el próximo año contempla mejora de hospitales, un programa para la tecnificación de riego y atención a la seguridad de zonas que más lo necesitan"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Los resultados no son números, son personas a quienes hay que cambiarles la vida”; priorizará Maru Campos la salud, reactivación económica y mayor seguridad para todos "
 front: false
 section: "Local"
-news_id: 190327
+redirect_from: /news/190327
 ---
 
 Durante la presentación del Presupuesto del Gobierno del Estado para el ejercicio del año 2022, la gobernadora Maru Campos Galván afirmó atender las necesidades más apremiantes de los chihuahuenses en materia de salud para todos, reactivación económica en el campo y la seguridad de la población.

@@ -18,11 +18,11 @@ author: nil
 description: "El fiscal señaló se espera la judialización del caso y la captura de Armando Gutiérrez, titular de la empresa"
 image: "/uploads/2021/images-descarga.jpg"
 video: "/uploads/2021/videos-MARIA_PEREZ_BL02.mp4"
-audio: "nil"
+audio: nil
 alt: "Confianza plena en el fiscal respecto a ARAS "
 front: false
 section: "Local"
-news_id: 191046
+redirect_from: /news/191046
 ---
 
 Mil 500 expedientes físicos a la fecha para la demanda de ARAS y confianza plena en el apoyo del fiscal Fierro, estas fueron las palabras que expuso la diputada María Antonieta Pérez Reyes con respecto a las palabras del fiscal Gral. del estado Roberto Fierro Duarte quien señaló que hay avances importantes respecto al caso.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Culminaron sus estudios de nivel licenciatura y de técnico superior universitario"
 image: "/uploads/2021/images-boletin_balleza.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Egresan 34 nuevos profesionistas de la Unidad Balleza de la UT de Parral"
 front: false
 section: "Local"
-news_id: 190677
+redirect_from: /news/190677
 ---
 
 La Universidad Tecnológica de Parral (UTP) llevó a cabo la ceremonia de graduación de 34 estudiantes, quienes concluyeron sus estudios profesionales en la Unidad Académica Río Balleza.

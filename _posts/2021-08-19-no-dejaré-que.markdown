@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "“Pueden tener de mí la seguridad que desde donde esté, impediré que se burle de nosotros y no cejaré en que se le haga Justicia a Chihuahua”; califica Javier Corral de verdadero descaro y desfachatez del exmandatario demandar indemnización y pedir disculpas"
 image: "/uploads/2021/images-GOBERNADOR_JCJ_5INFORME.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No dejaré que Duarte se burle de Chihuahua -  Gobernador"
 front: false
 section: "Local"
-news_id: 186885
+redirect_from: /news/186885
 ---
 
 Como “un verdadero descaro y desfachatez”, calificó el gobernador Javier Corral Jurado la disculpa pública e indemnización por 3 mil millones de pesos que exige el exgobernador por “las molestias” que le ha causado la investigación en su contra, por actos de corrupción.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Lady Gaga y Jennifer López se presentarán durante la protesta del presidente electo Joe Biden. "
 image: "/uploads/2021/images-lady-gaga-jennifer-lopez-estaran.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lady Gaga y Jennifer Lopez, invitadas de lujo a la investidura de Joe Biden"
 front: false
 section: "Espectáculos"
-news_id: 182130
+redirect_from: /news/182130
 ---
 
 El próximo 20 de enero, la toma de posesión de la presidencia de los Estados Unidos por parte del ratificado presidente electo, el demócrata Joe Biden, contará con dos invitadas de lujo: nada menos que Jennifer Lopez, con un espectáculo musical y Lady Gaga, quien cantará el himno nacional del país. Ambas artistas se unirán a Demi Lobato, quien también anunció que formará parte del evento llamado Celebrando a América, donde Biden y Harris tomarán en control de las operaciones en la Casa Blanca. El acto se llevará a cabo en Washington D.C., y ambas cantantes pop tendrán la consigna de presentar el el evento de la toma de juramento por parte del ex vicepresidente, quien será el presidente número 46 de los Estados Unidos. 

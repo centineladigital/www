@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La semana entrante se registrarán los casos por festejos de fin de año."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03_WENDY_AVILA.mp3"
 alt: "Esperan que en 4 días se refleje repunte de COVID"
 front: false
 section: "Local"
-news_id: 181924
+redirect_from: /news/181924
 ---
 
 Debido a que este 6 de enero se cumplen 15 días de navidad y se empezarán a registrar los primeros síntomas de contagios será hasta dentro de cuatro días cuando se refleje el repunte ante el área de salud estatal.

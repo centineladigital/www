@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz mexicana Salma Hayek y Angelina Jolie son las protagonistas de Eternals, cinta dirigida por la ganadora del Premio Oscar, Chloé Zhao. "
 image: "/uploads/2021/images-salma-hayek-angelina-jolie-eternals.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Salma Hayek y Angelina Jolie protagonizan el primer adelanto de 'Eternals', de Marvel"
 front: false
 section: "Espectáculos"
-news_id: 184253
+redirect_from: /news/184253
 ---
 
 Esta mañana fue revelado el calendario de películas de la fase 4 del Universo Cinematográfico de Marvel (UCM), con títulos como Black Panther: Wakanda Forever, la secuela de la cinta protagonizada por Chadwick Boseman y Eternals, dirigida por Chloé Zhao. Mediante sus redes sociales, Marvel compartió un video en el que celebra a las películas del UCM y se enfoca en todas las cintas que estarán disponibles desde este año y hasta el 2023. En el clip destaca la participación de la mexicana Salma Hayek y Angelina Jolie, protagonistas de la mencionada Eternals. 

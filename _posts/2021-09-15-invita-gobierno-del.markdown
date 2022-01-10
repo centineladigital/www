@@ -14,11 +14,11 @@ author: nil
 description: "Con motivo de la campaña “Septiembre, Mes del Testamento” este proceso que se realiza ante el Registro Público de la Propiedad y del Notariado tiene un costo de 394 pesos"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-15_at_09.12.49_(1).jpeg"
 video: "/uploads/2021/videos-WhatsApp_Video_2021-09-15_at_09.12.49.mp4"
-audio: "nil"
+audio: nil
 alt: "Invita Gobierno del Estado a tramitar el Testamento Ológrafo con un descuento del 50%"
 front: false
 section: "Local"
-news_id: 187742
+redirect_from: /news/187742
 ---
 
 El Registro Público de la Propiedad y del Notariado invita a las y los habitantes del estado de Chihuahua a tramitar su Testamento Ológrafo con el descuento del 50 por ciento que ofrece la campaña “Septiembre, Mes del Testamento”.

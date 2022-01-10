@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "¿El programa Hoy o VLA? ¿Cuál tuvo mejor audiencia? Paul Stanley y El Capi Pérez se pelean por defender sus empleos matutinos en Televisa y TV Azteca. "
 image: "/uploads/2021/images-inicio-pelea-paul-stanley-responde.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'El Capi' Pérez de ' VLA' lanza polémico comentario contra 'Hoy'; Paul Stanley responde"
 front: false
 section: "Espectáculos"
-news_id: 185555
+redirect_from: /news/185555
 ---
 
 ¿Nueva pelea entre TV Azteca y Televisa? Paul Stanley, conductor del programa Hoy, se peleó con el presentador El Capi Pérez, conductor de Venga la Alegría, luego de que el rating al parecer le favoreciera a uno de los matutinos. ¿El programa Hoy o VLA? ¿Cuál tuvo mejor audiencia? Resulta que el conductor Carlos Alberto Pérez Ibarra, mejor conocido como El Capi Pérez, lanzó una polémica frase contra el programa competencia de la mañana ‘Hoy’, razón por la que Paul Stanley no se midió y también le mandó una contundente respuesta. ¿Qué le dijo? Te contamos lo que sucedió. 

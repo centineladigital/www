@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Paul Bettany y Elizabeth Olsen dieron detalles de WandaVision, la serie de Disney+ que se estrenará este viernes 15 de enero. "
 image: "/uploads/2021/images-wuanda.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'WandaVision' es una gran apuesta de Disney -  Paul Bettany y Elizabeth Olsen sobre la serie"
 front: false
 section: "Espectáculos"
-news_id: 182024
+redirect_from: /news/182024
 ---
 
 WandaVision llega a Disney Plus este viernes 15 de enero. Se trata de la primera de muchas series del Universo Marvel que se estrenarán en el servicio de streaming. Enmarcada en el formato clásico de las sitcom, la pareja de Vengadores interpretados por Elizabeth Olsen y Paul Bettany se enfrenta a una vorágine de realidades alternativas en una producción que promete revolucionar la franquicia. En una entrevista concedida a Europa Press, ambos hablaron acerca del proyecto que seguirá la historia de Visión (Bettany) tras los eventos de Avengers: Infinity War (2018) y Avengers: Endgame (2019), para vivir junto a su amada Wanda Maximoff (Olsen). El actor explicó que esta nueva producción es una gran apuesta ya que el formato serie permite explorar a los personajes de una manera más profunda que en las películas.

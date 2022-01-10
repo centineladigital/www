@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Debido a la gran demanda que tiene este tratamiento es necesario que se acerquen y aparten su cita."
 image: "/uploads/2021/images-WhatsApp-Image-2020-11-13-at-9.10.33-AM-1024x619.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueban 50 pacientes más para ojinaga y delicias de tratamiento cubano del especialista Dr. bustamante arcos"
 front: false
 section: "Ojinaga"
-news_id: 182774
+redirect_from: /news/182774
 ---
 
 Ojinaga inicia la semana con una excelente noticia  pues el tratamiento Cubano de células madres adicionadas con veneno del escorpión azul, que trae el Dr. Bustamante Arcos, regresa con 50 espacios más para Ojinaga.

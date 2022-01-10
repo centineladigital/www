@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Estas especies suelen avistarse en temporada de lluvias"
 image: "/uploads/2021/images-unnamed_(16).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Emiten Bomberos recomendaciones ante presencia de serpientes y animales ponzoñosos"
 front: false
 section: "Local"
-news_id: 186251
+redirect_from: /news/186251
 ---
 
 Debido a las lluvias que se han presentado en los últimos días en la ciudad y zonas aledañas, el Gobierno Municipal a través del Heroico Cuerpo de Bomberos exhorta a los chihuahuenses a extremar precauciones con serpientes y otros animales ponzoñosos que suelen incrementar su presencia cerca de zonas residenciales, principalmente aquellas que se encuentran a las orillas de la zona urbana o cerca de cerros y arroyos. 

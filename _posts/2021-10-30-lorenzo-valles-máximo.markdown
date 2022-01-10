@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El juarense acumuló tres preseas doradas en la competencia efectuada en Cancún"
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lorenzo Valles máximo medallista chihuahuense en Juegos Paranacionales"
 front: false
 section: "Local"
-news_id: 189419
+redirect_from: /news/189419
 ---
 
 Con un total de tres medallas de oro finalizó el juarense Lorenzo Valles su participación como el mejor de la Delegación Chihuahua en los Juegos Paranacionales que se desarrollan en el Centro de Alto Rendimiento de Cancún, Quintana Roo.

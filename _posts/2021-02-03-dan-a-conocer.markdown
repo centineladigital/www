@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Buscan capacitación para contadores y empresarios."
 image: "/uploads/2021/images-CONTADORES.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03_RITA_AVITIA.mp3"
 alt: "Dan a conocer programa de capacitación para contadores "
 front: false
 section: "Local"
-news_id: 182673
+redirect_from: /news/182673
 ---
 
 Este viernes da inicio el Seminario de Nominas 2021, que se da por parte del Colegio de Contadores Públicos de Chihuahua que busca que tanto socios como empresarios puedan contar con herramientas para el desarrollo de las empresas según lo dio a conocer la vicepresidenta Rita Esmeralda Avitia Aguilar. 

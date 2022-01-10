@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Exhorta Protección Civil Municipal a tomar precauciones por las bajas temperaturas"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nublados y temperaturas frías durante este fin de semana"
 front: false
 section: "Local"
-news_id: 189999
+redirect_from: /news/189999
 ---
 
 La Coordinación Municipal de Protección Civil, informa que este fin de semana se espera cielo mayormente nublado y con temperaturas frías durante las noches y mañanas en la ciudad, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional, por lo cual es importante acatar las recomendaciones que emite la autoridad, para prevenir enfermedades respiratorias.

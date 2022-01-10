@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Iniciará la próxima semana en México la última fase de los ensayos clínicos de estas vacunas contra el covid-19"
 image: "/uploads/2021/images-2516510.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México inicia Fase 3 de vacunación de Curevac y Novartis -  Ebrard"
 front: false
 section: "Nacional"
-news_id: 182363
+redirect_from: /news/182363
 ---
 
 El canciller Marcelo Ebrard compartió en redes sociales que las vacunas contra el Covid-19 CUREVAC de Alemania y Novavax de Estados Unidos iniciarán su fase 3 en México.

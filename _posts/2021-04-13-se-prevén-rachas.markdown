@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se mantienen temperaturas altas por la tarde, con Chihuahua 31°C, Juárez 27°C, Delicias y Camargo 33°C, Jiménez 32°C, y Parral 30°C"
 image: "/uploads/2021/images-vientos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se prevén rachas de viento de entre 35 y 65 km/h -  CEPC"
 front: false
 section: "Local"
-news_id: 183856
+redirect_from: /news/183856
 ---
 
 Para este martes 13 de abril el Frente Frío número 50 ocasionará vientos de entre 35 y 65 kilómetros por hora (km/h), informó la Coordinación Estatal de Protección Civil (CEPC).

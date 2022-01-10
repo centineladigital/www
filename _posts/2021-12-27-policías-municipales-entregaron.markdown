@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se entregaron 1,500 juguetes recibidos de colectas en eventos y aportaciones propias, como la donación de una familia chihuahuense de Denver, Colorado."
 image: "/uploads/2021/images-unnamed_(10).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Policías Municipales entregaron juguetes y diversos apoyos por Navidad"
 front: false
 section: "Local"
-news_id: 191226
+redirect_from: /news/191226
 ---
 
 Policías Municipales de los diferentes grupos y turnos de la Dirección de Seguridad Pública hicieron entrega de juguetes, ropa y pastel a niñas y niños de albergues y colonias periféricas, con motivo de las fiestas decembrinas, además repartieron alimentos a familiares de enfermos que se encuentran en hospitales públicos.

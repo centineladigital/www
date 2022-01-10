@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La ocasión más reciente que los Zorros jugaron la fase de los cuatro mejores fue en 2004; hoy deben vencer al Monterrey "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atlas, con todo en casa por el pase a semifinales ante Rayados"
 front: false
 section: "Deportes"
-news_id: 190270
+redirect_from: /news/190270
 ---
 
 Hay que echar la memoria atrás, muy atrás, para recordar la última ocasión en que el Atlas jugó una semifinal.

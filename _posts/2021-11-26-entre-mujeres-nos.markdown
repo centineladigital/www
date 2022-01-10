@@ -14,11 +14,11 @@ author: nil
 description: "Entre las mujeres se da la violencia al juzgar a una mujer por su separación por la violencia a la que es ejercida, "
 image: "/uploads/2021/images-unnamed.jpg"
 video: "/uploads/2021/videos-BV04_AMERICA_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Entre mujeres nos violentamos García "
 front: false
 section: "Local"
-news_id: 190251
+redirect_from: /news/190251
 ---
 
 La diputada América García señaló que en chihuahua se ha formado un estereotipo de familia funcional la cual aunque exista violencia no se dice ni se habla de eso al exterior por miedo y vergüenza de estar sola o solo, por otra parte aseguró que esto se ha estado normalizando y se debe trabajar para erradicar este tipo de violencia.

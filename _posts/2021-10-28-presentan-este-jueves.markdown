@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Hoy a las 13:00 horas será la presentación oficial del nuevo billete de 50 pesos por el gobernador del Banxico, Alejandro Díaz de León, junto con el director de Emisión y Cajero Principal, Alejandro Alegre "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan este jueves nueve billete de 50 pesos; le dicen adiós a Morelos"
 front: false
 section: "Nacional"
-news_id: 189295
+redirect_from: /news/189295
 ---
 
 El Banco de México (Banxico) dará de baja a José María Morelos del billete de 50 pesos que actualmente circula en todo el país, el cual será retirado poco a poco después de que presente mañana la nueva pieza.

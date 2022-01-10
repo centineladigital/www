@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Sube en 8 el número de personas fallecidas por esta enfermedad, para un acumulado de 7,691 en lo que va de la pandemia, informa la Secretaría de Salud"
 image: "/uploads/2021/images-REPORTE_COVID_30_DE_JULIO_2021_(5).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aumentan en 149 los casos confirmados de COVID-19 para un total de 72,797"
 front: false
 section: "Local"
-news_id: 186121
+redirect_from: /news/186121
 ---
 
 El informe epidemiológico de la Secretaría de Salud confirmó 149 nuevos casos de COVID-19 para un acumulado de 72 mil 797, mientras que los fallecimientos aumentaron en 8 para un total de 7 mil 691 en lo que va de la pandemia. De igual manera expone que ya 62 mil 229 (+90) pacientes con coronavirus 2 que se han recuperado, 43 mil 597 (+406) casos descartados y 739 (+54) sospechosos.

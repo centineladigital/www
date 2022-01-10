@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El celebrado cantautor ofreció su opinión en relación a su regreso a los escenarios."
 image: "/uploads/2021/images-joaquin-sabina-regresara-despedirse-seguidores.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Joaquín Sabina. “No pienso volver a los escenarios con mascarilla”"
 front: false
 section: "Espectáculos"
-news_id: 188418
+redirect_from: /news/188418
 ---
 
 El Instituto Cervantes de Madrid rindió un homenaje al cantautor Joaquín Sabina (Úbeda, Jaén, 1949) en el que el músico, poeta y pintor depositó un legado en la Caja de las Letras. Sabina dejó claro que no volverá a los escenarios mientras la gente siga llevando puesta la mascarilla. “Me siento bien, pero no pienso volver a los escenarios mientras la gente esté con mascarilla y no pueda levantarse, fumar y tomarse una copa. (...) Y me temo que eso no será hasta dentro de un año y medio. Volveré a los escenarios a decir hola y adiós”, anticipó el andaluz. 

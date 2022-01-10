@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Atendió el Gobierno Municipal la solicitud de los ganaderos de la región"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Construyen guardaganados en cuatro comunidades rurales del municipio"
 front: false
 section: "Local"
-news_id: 189247
+redirect_from: /news/189247
 ---
 
 Ganaderos de las comunidades rurales de Los Sauces, La Concha, El Sordo y El Jardín, fueron beneficiados por el Gobierno Municipal a través de la Dirección de Desarrollo Rural, con la construcción guardaganados para el control de sus semovientes.

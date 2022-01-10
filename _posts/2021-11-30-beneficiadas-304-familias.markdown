@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "En lo que va de la presente administración municipal"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Beneficiadas, 304 familias con material de construcción"
 front: false
 section: "Local"
-news_id: 190349
+redirect_from: /news/190349
 ---
 
 Como parte de las acciones de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, ha beneficiado a 304 familias chihuahuenses con la entrega de materiales de construcción, sin costo alguno para ellas.

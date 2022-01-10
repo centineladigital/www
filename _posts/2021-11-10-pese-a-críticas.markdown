@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pese a las malas críticas con la que calificaron la cinta de Marvel 'Eternals', ya es el segundo estreno de Hollywood más exitoso en todo el mundo durante 2021. "
 image: "/uploads/2021/images-premiere-de-eternals-en-londres.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pese a críticas, 'Eternals' ya recaudó 161 mdd en el mundo; está sólo detrás de 'RyF 9'"
 front: false
 section: "Espectáculos"
-news_id: 189739
+redirect_from: /news/189739
 ---
 
 Este extraño fenómeno es relativamente sencillo de definir: Eternals fue amada por el público y no tan gustada por la crítica. La nueva película del Universo Cinematográfico de Marvel llegó a los cines con un estimado de 71 millones de dólares de ingresos en taquilla durante el fin de semana sólo en salas de cines de Estados Unidos y Canadá, y de cerca de 161 millones en todo el mundo. 

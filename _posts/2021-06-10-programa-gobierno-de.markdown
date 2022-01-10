@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante tres meses habrá inauguraciones de centros de salud, hospitales, carreteras, puentes, centros de innovación tecnológica, instalaciones deportivas, parques, obras de transporte y movilidad urbana, drenaje pluvial y centros de innovación tecnológica"
 image: "/uploads/2021/images-Javier_golfista_corral_1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Programa Gobierno de Javier Corral Maratón de Obras para entregar en todo el estado"
 front: false
 section: "Local"
-news_id: 184964
+redirect_from: /news/184964
 ---
 
 El Gobierno de Javier Corral cerrará su gestión con un Maratón de Obras por tres meses, que incluye la entrega de puentes, pasos a desnivel, carreteras, centros de innovación tecnológica, ampliación de rutas de transporte BRT, instalaciones deportivas, drenaje pluvial, centros de vigilancia policial, librerías, infraestructura para atender la violencia contra las mujeres, hospitales y centros de salud.

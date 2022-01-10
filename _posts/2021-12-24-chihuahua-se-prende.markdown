@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Con está rehabilitación se espera reducir el consumo energético a más del 50 por ciento"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chihuahua se prende con nuevas lámparas LED en la avenida Zaragoza   "
 front: false
 section: "Local"
-news_id: 191192
+redirect_from: /news/191192
 ---
 
 El alcalde, Marco Bonilla Mendoza, dio arranque a la campaña “Chihuahua se Prende” con la rehabilitación de 55 luminarias de vapor de sodio a tipo LED en la avenida Zaragoza, de la avenida José María Iglesias hasta la avenida De las Industrias.

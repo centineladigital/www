@@ -14,11 +14,11 @@ author: nil
 description: "Los infractores paguen la multa correspondiente, tomen un curso de sensibilización y realicen trabajo comunitario"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-30_at_11.40.15.jpeg"
 video: "/uploads/2021/videos-BJ05_DEYANIRA_OZAETA.mp4"
-audio: "nil"
+audio: nil
 alt: "La discapacidad debe ser sensibilizada"
 front: false
 section: "Local"
-news_id: 188242
+redirect_from: /news/188242
 ---
 
 La diputada Deyanira Ozaeta , planteó la reforma con el objetivo de que los infractores, aparte de pagar la multa correspondiente, tomen un curso de sensibilización y realicen trabajo comunitario.

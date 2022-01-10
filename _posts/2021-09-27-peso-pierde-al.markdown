@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Conoce el precio del dólar hoy lunes en bancos. "
 image: "/uploads/2021/images-tipo-de-cambio-peso-dolar-24.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Peso pierde al igual que otras monedas emergentes ante fortaleza del dólar"
 front: false
 section: "Internacional"
-news_id: 188076
+redirect_from: /news/188076
 ---
 
 Al iniciar operaciones el precio del dólar hoy lunes fue de hasta 20.63 pesos en bancos. En tanto, el tipo de cambio interbancario se ubica en 20.12 pesos por dólar, con una caída de 0.41 por ciento frente a los 20.04 del precio de referencia del viernes.  

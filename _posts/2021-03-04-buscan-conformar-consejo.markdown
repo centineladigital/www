@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Ex priístas se suman al Partido Acción Nacional, afirma dirigente municipal."
 image: "/uploads/2021/images-paco.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ06_FRANCISCO_NAVARRO.mp3"
 alt: "Buscan conformar “Consejo rural por chihuahua”"
 front: false
 section: "Local"
-news_id: 183280
+redirect_from: /news/183280
 ---
 
 La conformación del “Consejo Rural por Chihuahua” y el compromiso pleno para respaldar las candidaturas de Acción Nacional en la capital del estado, es lo que el Comité del PAN a nivel municipal ha logrado, según lo destacó su dirigente Francisco Navarro Pastrana.

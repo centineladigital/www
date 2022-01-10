@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Tricolor femenil enfrentará a España"
 image: "/uploads/2021/images-2552511.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El Tricolor femenil enfrentará a España"
 front: false
 section: "Deportes"
-news_id: 183578
+redirect_from: /news/183578
 ---
 
 La Selección Femenil Mexicana dio a conocer que se enfrentará a su similar de España el próximo 13 de abril a las 12:00 horas, en el Estadio Municipal Antonio Lorenzo Cuevas, en Marbella.

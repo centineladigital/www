@@ -10,11 +10,11 @@ author: nil
 description: "Exhortan a tener responsabilidad en las reuniones."
 image: "/uploads/2021/images-ELOY.jpg"
 video: "/uploads/2021/videos-MV04_ELOY_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Operativos se llevan en anticovid todo el estado -  Gobernacion"
 front: false
 section: "Local"
-news_id: 190724
+redirect_from: /news/190724
 ---
 
 Con el fin de tener un control más adecuado dentro de las reuniones se llevan a cabo operativos anticovid en reuniones navideñas, esto ya que se tiene una serie de acciones en todo el estado afirmó el titular del área de Gobernación Eloy García Tarín.

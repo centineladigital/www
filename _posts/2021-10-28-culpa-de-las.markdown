@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante fue sin duda una de las integrantes más queridas y populares de la agrupación, por lo que decidió emprender como solista. "
 image: "/uploads/2021/images-que-fue-de-saha-sokol_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Culpa de las drogas? Qué fue de Sasha Sokol, la gran promesa de Timbiriche que no alcanzó el éxito"
 front: false
 section: "Espectáculos"
-news_id: 189330
+redirect_from: /news/189330
 ---
 
 Timbiriche fue, sin duda alguna, una de las agrupaciones mexicanas más exitosas de todos los tiempos, a tal grado que de ella salieron personalidades de la talla de Thalía, Paulina Rubio y Edith Márquez, entre otros, una de ellas fue Sasha Sokol, quien era la integrante favorita de muchos y despuntaba para ser una gran estrella fuera de la banda. Sin embargo, la vida de la cantante estuvo envuelta en polémicas muy fuertes en torno a romances y drogadicción que opacaron su carrera. Por esta razón, aquí recordamos qué fue de Saha Sokol.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El piloto inglés sigue en la cabeza de las vueltas de práctica, el mexicano Sergio Pérez se mantiene en cuarto lugar "
 image: "/uploads/2021/images-lewis-hamilton-en-su-mercedes-1_0_8_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lewis Hamilton lideró los dos entrenamientos libres en el Gran Premio de Turquía"
 front: false
 section: "Deportes"
-news_id: 188513
+redirect_from: /news/188513
 ---
 
 El inglés Lewis Hamilton (Mercedes), que el domingo penalizará diez puestos al haber cambiado la unidad de combustión interna de su propulsor y que ya lo había sido en la primera sesión, fue de nuevo el más rápido este viernes en el segundo entrenamiento libre para el Gran Premio de Turquía, el decimosexto del Mundial de F1, que se disputa en el Istanbul Park; donde el mexicano Sergio Pérez (Red Bull) marcó el cuarto tiempo y los españoles Fernando Alonso (Alpine) y Carlos Sainz (Ferrari) el séptimo y el duodécimo, respectivamente. 

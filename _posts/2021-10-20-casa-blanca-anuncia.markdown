@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se prevé que en noviembre los CDC de EU se reúnan y den su aprobación, luego las dosis comenzarán a enviarse a los proveedores de todo el país para aplicar la vacuna contra Covid-19 a niños de 5 y 11 años"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Casa Blanca anuncia plan para vacunar contra el Covid-19 a niños de 5 a 11 años en noviembre"
 front: false
 section: "Internacional"
-news_id: 188946
+redirect_from: /news/188946
 ---
 
 La Casa Blanca anuncia plan para que 28 millones de niños se vacunen contra Covid-19 en farmacias y consultorios.

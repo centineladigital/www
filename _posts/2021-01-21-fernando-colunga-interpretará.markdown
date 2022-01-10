@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fernando Colunga interpretará a Jesús Malverde, un personaje a los que supuestamente se encomiendan los narcotraficantes. Filtran fotos de cómo lucirá. "
 image: "/uploads/2021/images-fernando-colunga-comenzara-grabar-serie.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fernando Colunga interpretará a Jesús Malverde en serie; filtran imágenes de cómo lucirá"
 front: false
 section: "Espectáculos"
-news_id: 182328
+redirect_from: /news/182328
 ---
 
 Han pasado muchos años tras la última participación de Fernando Colunga en una producción, pero se ha confirmado que el actor, quien protagonizó importantes telenovelas en México, por fin regresará a la pantalla chica, esto gracias a una serie en la que dará vida a Jesús Malverde, a quien muchos consideran un santo, sobre todo los narcotraficantes. 

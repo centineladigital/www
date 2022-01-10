@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Alcalde encabezó un arranque de obra del Presupuesto Participativo 2021 en primaria Margarita Maza de Juárez"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chihuahua Capital es más competitivo con mejor infraestructura en centros educativos"
 front: false
 section: "Local"
-news_id: 190002
+redirect_from: /news/190002
 ---
 
 El presidente municipal Marco Bonilla Mendoza, encabezó el arranque de obra de uno de los proyectos ganadores del Presupuesto Participativo 2021 en el distrito 18, que beneficiará a 980 alumnos y docentes de la escuela primaria Margarita Maza de Juárez. 

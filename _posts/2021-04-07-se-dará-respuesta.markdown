@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Acuerdan fuerzas federales y estatales en el Grupo de Coordinación para la Construcción de la Paz, realizar un operativo eficaz para responder a quienes han desafiado a las corporaciones y a la sociedad chihuahuense con ese cobarde atentado, informa el gobernador Javier Corral"
 image: "/uploads/2021/images-IMG_9955.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se dará respuesta coordinada y contundente a grupos delincuenciales por ataque en Madera"
 front: false
 section: "Local"
-news_id: 183741
+redirect_from: /news/183741
 ---
 
 El gobernador Javier Corral Jurado informó que las fuerzas federales y estatales de seguridad acordaron un operativo para responder con toda contundencia al cobarde y artero atentado en el que fueron asesinados varios policías en el municipio de Madera.

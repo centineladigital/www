@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Lizbeth Victoria H., presidenta municipal con licencia de Asunción Nochixtlán, su abogado y un escolta fueron vinculados a proceso anoche"
 image: "/uploads/2021/images-2578509.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vinculan a proceso a edil de Nochixtlán por desaparición de activista"
 front: false
 section: "Nacional"
-news_id: 184453
+redirect_from: /news/184453
 ---
 
 Lizbeth Victoria H., presidenta municipal con licencia de Asunción Nochixtlán, su abogado y un escolta fueron vinculados a proceso la noche del jueves por el Juez de Control, a quienes impuso la medida cautelar de prisión preventiva oficiosa, por el tiempo que lleve el proceso como presuntos responsables del delito de desaparición forzada cometido en agravio de la activista, Claudia Uruchurtu Cruz.

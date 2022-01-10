@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Expertos del organismo sanitario llamaron a los países a mantener las principales medidas de prevención ante los contagios por coronavirus. "
 image: "/uploads/2021/images-paises-mundo-determino-aislamiento-medida_29_0_1142_711.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "OMS mantiene emergencia internacional por covid-19; aún está lejos de su final, alerta"
 front: false
 section: "Internacional"
-news_id: 189193
+redirect_from: /news/189193
 ---
 
 El Comité de Emergencia de la Organización Mundial de la Salud (OMS) para el covid-19 ha concluido en su última reunión que la pandemia por el coronavirus está aún "lejos de su final", por lo que ha optado por mantener la emergencia internacional ante el coronavirus, declarada el 30 de enero de 2020. 

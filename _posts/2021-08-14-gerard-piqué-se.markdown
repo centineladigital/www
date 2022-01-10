@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Gracias al acuerdo logrado con el defensa, Ronald Koeman podrá contar con todos los jugadores disponibles de cara al partido de este domingo con la Real Sociedad "
 image: "/uploads/2021/images-gerard-pique-defensa-del-barcelona-4_0_6_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gerard Piqué se rebaja el sueldo para que el Barcelona pueda inscribir a sus fichajes"
 front: false
 section: "Deportes"
-news_id: 186690
+redirect_from: /news/186690
 ---
 
 El Barcelona inscribió, finalmente, este sábado a Memphis Depay, Eric García y Rey Manaj en La Liga, gracias al acuerdo alcanzado con Gerard Piqué para que el segundo capitán del equipo se rebaje significativamente el sueldo, según anunció el club catalán. 

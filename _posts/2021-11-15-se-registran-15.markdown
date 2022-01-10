@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 permaneció en la cantidad de 8 mil 232 casos (=)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 15 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 189855
+redirect_from: /news/189855
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 15 de noviembre el reporte COVID-19, en el cual se registran 83 mil 441 (+15) personas confirmadas en la entidad por este padecimiento, 71 mil 770 (+6) casos recuperados, 77 mil 988 (+36) descartados y 872 (+12) casos sospechosos.

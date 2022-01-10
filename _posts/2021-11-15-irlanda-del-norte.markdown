@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Conoce cuándo y a qué hora será el partido entre los irlandeses y los italianos, donde la segunda selección se juega su boleto directo al Mundial de Qatar 2022."
 image: "/uploads/2021/images-irlanda-norte-vs-italia-eliminatorias_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Irlanda del Norte vs Italia -  Horario y dónde ver EN VIVO eliminatorias mundialistas"
 front: false
 section: "Deportes"
-news_id: 189839
+redirect_from: /news/189839
 ---
 
 La selección de Italia visita a Irlanda del Norte en partido de las eliminatorias mundialistas rumbo a Qatar 2022, donde los Azzurri se juegan su pase directo a esta justa.

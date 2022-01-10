@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Estos seminarios buscan promover una cultura de igualdad y respeto a la dignidad humana"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-30_at_13.40.56.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Convoca Gobierno del Estado a mujeres adolescentes a participar en talleres de perspectiva de género"
 front: false
 section: "Local"
-news_id: 188231
+redirect_from: /news/188231
 ---
 
 El Gobierno Estado, a través del Instituto Chihuahuense de las Mujeres (ICHMUJERES) invita a participar en el taller “Empoderamiento desde la Perspectiva de Género para Mujeres Adolescentes”, dirigido a jóvenes de entre 13 y 17 años de los municipios de Chihuahua, Nuevo Casas Grandes, Ojinaga y Madera. 

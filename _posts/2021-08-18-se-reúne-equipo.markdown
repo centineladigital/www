@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Durante los últimos días, diversas mesas temáticas han acudido a Ciudad Juárez para la realización integral del proceso de transición"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reúne equipo de transición con la JCAS y JMAS en Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 186841
+redirect_from: /news/186841
 ---
 
 Roberto Lara, titular de la mesa de transición en lo referente al agua sostuvo este martes una reunión con personal de la Junta Central de Agua y Saneamiento así como de la Junta Municipal de Agua y Saneamiento en Ciudad Juárez.

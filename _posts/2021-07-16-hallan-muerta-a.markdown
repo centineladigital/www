@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Peralta Ojeda, conocida como Sol Peralta, era diseñadora de vestidos para bodas, XV años utilizando como base trajes típicos de la región nahua."
 image: "/uploads/2021/images-diseñadora.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hallan muerta a diseñadora de trajes típicos Sol Peralta, en Guerrero"
 front: false
 section: "Nacional"
-news_id: 185741
+redirect_from: /news/185741
 ---
 
 La diseñadora de ropa en Chilapa, Marisol Peralta Ojeda fue hallada muerta sobre la carretera Tixtla-Chilapa, zona Centro de Guerrero.

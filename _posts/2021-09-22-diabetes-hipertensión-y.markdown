@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las alteraciones progresivas de la memoria causadas por demencias no son consecuencia normal de la vejez, afirmó la especialista Isabel Cruz Valdez."
 image: "/uploads/2021/images-ISSSTE_01.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Diabetes, hipertensión y obesidad en descontrol, aumentan riesgo de alzheimer -  El ISSSTE"
 front: false
 section: "Local"
-news_id: 187957
+redirect_from: /news/187957
 ---
 
 Llevar un mal control de enfermedades crónicas no transmisibles como diabetes, hipertensión, sobrepeso u obesidad, aumentan el riesgo de padecer Alzheimer, por lo que es de suma importancia que ante los primeros síntomas que afectan la vida cotidiana se acuda a un profesional médico, informó la psiquiatra del Hospital Regional “Gral. Ignacio Zaragoza” del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), Isabel Cruz Valdez.

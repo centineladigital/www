@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Esta semana se atiende la avenida Teófilo Borunda, desde calle Pedro Zuloaga hasta la vialidad Sacramento"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabaja Gobierno Municipal en limpieza de avenidas principales con volantas y barredoras"
 front: false
 section: "Local"
-news_id: 188696
+redirect_from: /news/188696
 ---
 
 Con el objetivo de mantener las calles de la ciudad limpias, el Gobierno Municipal a través de la Dirección de Servicios Públicos Municipales, trabaja de forma permanente en la atención de las mismas con volantas y barredoras para realizar corte y limpieza en las guarniciones.

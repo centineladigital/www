@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Destacó su inconformidad y catalogó de irregular el que se haya cambiado del 26 al 27 de enero "
 image: "/uploads/2021/images-EGEGE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AW01_GEORGINA_BUJANDA_RIOS.mp3"
 alt: "“Nosotros estamos listos” -  Bujanda, ante acuerdos y registros en el PAN"
 front: false
 section: "Local"
-news_id: 182492
+redirect_from: /news/182492
 ---
 
 La diputada del PAN y representante del Distrito 12, Georgina Bujanda fue contunden al preguntarle sobre los cambios de fechas y posibles acuerdos que se están dando al interior del PAN para elegir candidatos a alcaldes, diputaciones y sindicaturas, en lo anterior manifestó "como no la pongan le entramos".

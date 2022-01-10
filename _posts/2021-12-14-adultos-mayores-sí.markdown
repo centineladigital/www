@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El subsecretario de Salud señaló que al llegar con su papeleta a los módulos de inmunización sólo se agregará el lote y fecha del refuerzo por lo que se agilizará el procedimiento"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Adultos mayores sí deberán de registrarse para tercera dosis de vacuna Covid-19"
 front: false
 section: "Nacional"
-news_id: 190817
+redirect_from: /news/190817
 ---
 
 El subsecretario de Prevención y Promoción de la Salud, Hugo López- Gatell Ramírez, informó que los adultos mayores sí deberán registrarse en la página mivacuna.salud.com.mx para agilizar la aplicación de la dosis de refuerzo.

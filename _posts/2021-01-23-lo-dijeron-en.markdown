@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz recordó que se enteró del engaño del artista mientras estaba viendo una transmisión en vivo de 'Ventaneando'. "
 image: "/uploads/2021/images-maribel-guardia-infidelidades-joan-sebastian_52_0_537_334.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lo dijeron en vivo -  Maribel Guardia revela cómo se enteró que Joan Sebastian le fue infiel"
 front: false
 section: "Espectáculos"
-news_id: 182394
+redirect_from: /news/182394
 ---
 
 Maribel Guardia fue pareja sentimental de Joan Sebastian, pero su relación llegó a su fin en 1995cuando ella se enteró que el cantante le fue infiel con una actriz que participó en la telenovela Tú y yo, la cual protagonizaron. Después de dos décadas, la actriz recordó que se enteró del engaño del artista mientras estaba viendo una transmisión en vivo de Ventaneando.  En su momento fue Juan José Pepillo Origel quien compartió en el programa de TV Azteca que había visto a Joan Sebastian acompañado de la actriz Arleth Terán en un bar. Tras sus declaraciones, Maribel Guardia decidió divorciarse del artista. 

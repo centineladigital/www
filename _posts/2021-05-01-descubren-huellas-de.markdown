@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Según los especialistas, las huellas son los vestigios de un ritual de iniciación en el periodo prehispánico en el que los menores transitaban de la niñez a la pubertad"
 image: "/uploads/2021/images-2571368.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Descubren huellas de manos de niños en Yucatán, tienen mil 200 años"
 front: false
 section: "Nacional"
-news_id: 184226
+redirect_from: /news/184226
 ---
 
 Decenas de impresiones de manos, la mayoría de niños, cuya antigüedad se calcula en más de 1,200 años, fueron descubiertas por un equipo de investigadores dentro de una cueva en el sur de la península mexicana de Yucatán que aparentemente fue escenario de rituales mayas.

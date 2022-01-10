@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Además sanitizaron aulas del CREI Ignacio Zaragoza de Colonia Nuevo Delicias"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inaugura Gobierno Municipal dos calles pavimentadas de seccionales El Sauz y Ocampo"
 front: false
 section: "Local"
-news_id: 188708
+redirect_from: /news/188708
 ---
 
 El alcalde de Chihuahua Marco Antonio Bonilla durante su vista a la zona rural del municipio, encabezó el corte el listón de dos calles recién pavimentadas en los seccionales El Sauz y Ocampo, además, arrancó en la zona con el programa “Medidas de prevención en tu escuela contra el COVID-19”, al sanitizar las aulas del CREI Ignacio Zaragoza.

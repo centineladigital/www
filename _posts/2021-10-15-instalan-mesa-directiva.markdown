@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " Las autoridades municipales y estatales se coordinarán para elaborar proyectos enfocados en acciones de prevención de la salud para beneficio de la ciudadanía"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instalan Mesa Directiva de la Red Chihuahuense de Municipios por la Salud"
 front: false
 section: "Local"
-news_id: 188772
+redirect_from: /news/188772
 ---
 
 La Secretaría de Salud llevó a cabo la instalación de la Mesa Directiva de la Red Chihuahuense de Municipios por la Salud, la cual coordinará las acciones a realizar a nivel estatal en materia de prevención y promoción de la salud.

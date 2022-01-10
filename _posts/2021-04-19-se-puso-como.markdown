@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un suceso que ocurrió durante la grabación de la película 'Cuidado con el amor', que ambas celebridades protagonizaron en 1954. "
 image: "/uploads/2021/images-iconica-actriz-participo-programa-minuto.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se puso como camarón -  Elsa Aguirre recuerda el día que le dio una cachetada a Pedro Infante"
 front: false
 section: "Espectáculos"
-news_id: 183966
+redirect_from: /news/183966
 ---
 
 Cuidado con el amor es una película de 1954 considerada un clásico de de la cinematografía nacional, pues además de formar parte de la llamada Época de Oro, en dicha producción participaron dos de las más grandes estrellas actorales del país: Pedro Infante y Elsa Aguirre. Además, durante la grabación ocurrió una anécdota muy peculiar: la cachetada que la actriz le propinó al también cantante. Así lo recordó ella durante una entrevista para el programa El minuto que cambió mi destino. Aunque primero Elsa contó cómo conoció al ídolo mexicano: "Me dicen: 'Bueno, ahora va a trabajar usted con Pedro Infante'. No lo conocía. Entonces, de repente aparece Pedro Infante y 'Ándale', ahí hubo una atracción" 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mucho se ha hablado sobre Jenni Rivera después de su trágica muerte, ahora, Juan Rivera, su hermano, aseguró que la cantante sacó de su testamento a Chiquis. "
 image: "/uploads/2021/images-juan-rivera-hablo-testamento-hermana.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hermano de Jenni Rivera asegura que cantante sacó de su testamento a Chiquis Rivera"
 front: false
 section: "Espectáculos"
-news_id: 184822
+redirect_from: /news/184822
 ---
 
 Desde que se dio a conocer que Rosie Rivera, hermana menor de Jenni Rivera, dejaría de ser la albacea de los bienes que dejó la Diva de la banda, se reveló que el hijo menor de la cantante pidió una auditoría en contra de su tía, a raíz de esto Rosie mencionó que no es la primera vez que se hace este procedimiento contra ella y ahora es Juan Rivera, hermano de Jenni, quien también habló sobre este tema y la herencia de la intérprete de “Inolvidable”. En una entrevista con Ventaneando, Juan Rivera defendió a su hermana Rosie y aseguró que desde que murió Jenni, tanto Rosie y él han manejado los bienes y sacado productos con la imagen de la Diva de la banda. 

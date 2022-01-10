@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Gabriel Soto e Irina Baeva darán el próximo paso en su relación. El actor contó los detalles de cómo le pidió matrimonio a su ahora prometida. "
 image: "/uploads/2021/images-gabriel-soto-conto-propuso-matrimonio-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“No se lo esperaba” -  Gabriel Soto revela cómo le pidió matrimonio a Irina Baeva"
 front: false
 section: "Espectáculos"
-news_id: 182348
+redirect_from: /news/182348
 ---
 
 Recientemente Gabriel Soto e Irina Baeva revelaron que están comprometidos y que muy pronto llegarán al altar. Algo que llamó la atención es que la pareja se comprometió en octubre, sin embargo, dejaron pasar varios meses para dar a conocer esta noticia. Ahora que ya lo gritaron a los cuatro vientos, el actor contó cómo fue que le entregó el anillo a su ahora prometida. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Destaca secretario de Educación y Deporte acciones tomadas en materia de inclusión y equidad, así como inversión de mil millones de pesos para diversos programas, que permitieron este avance"
 image: "/uploads/2021/images-resultados_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Disminuyó Chihuahua rezago educativo"
 front: false
 section: "Local"
-news_id: 186664
+redirect_from: /news/186664
 ---
 
 De acuerdo al último informe del Consejo Nacional de Evaluación de la Política de Desarrollo Social (Coneval), entre el 2018 y 2020, en materia de combate a la pobreza, Chihuahua logró una disminución de 17.2 a 16.2 por ciento en materia de rezago educativo, lo que representó una reducción de 631 mil personas a 608 mil en esa situación.

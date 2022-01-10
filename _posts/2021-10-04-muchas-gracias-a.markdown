@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor se ha pronunciado a favor del uso del lenguaje inclusivo; en su discurso en los Platino señaló que nadie mejor que nosotres para hablar de nuestro contexto, adueñémonos de nuestra narrativa. "
 image: "/uploads/2021/images-diego-luna-discurso-inclusivo-premios_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Muchas gracias a todes -  Diego Luna da el discurso más inclusivo de los Premios Platino"
 front: false
 section: "Espectáculos"
-news_id: 188336
+redirect_from: /news/188336
 ---
 
 Diego Luna recibió el premio Platino de Honor del Cine y el Audiovisual Iberoamericano en Madrid, España. El actor mexicano agradeció el galardón con el discurso más inclusivo y más esperanzador de la noche: "Muchas gracias a todes", mencionó, antes de alentar a los asistentes: "somos capaces de mucho más y ahí viene una segunda oportunidad, todo va a ir bien". El actor, director y productor recibió su estatuilla de manos del presidente de EGEDA, Enrique Cerezo, que dijo de él que es "un todoterreno del audiovisual" y porque en él se aúnan los factores que definen a la industria audiovisual iberoamericana: talento, creatividad, profesionalidad, trabajo y solidaridad". 

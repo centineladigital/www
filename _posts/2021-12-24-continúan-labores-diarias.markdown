@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Como parte de las acciones para hacer frente de la pandemia por COVID"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúan labores diarias de sanitización en espacios públicos y dependencias municipales"
 front: false
 section: "Local"
-news_id: 191193
+redirect_from: /news/191193
 ---
 
 El Gobierno Municipal, a través de la Dirección de Manteamiento Urbano, realiza de manera diaria y permanente la sanitización de paradas de camión, espacios públicos y oficinas gubernamentales, ubicados en distintos puntos de la ciudad capital.

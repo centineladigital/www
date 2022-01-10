@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El próximo martes 4 de enero, personal técnico trabajará en la reposición de una línea de conducción averiada, a la altura de la colonia Las Malvinas"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Reparará JMAS fuga al poniente de la capital; habrá suspensión vespertina del suministro en la zona"
 front: false
 section: "Local"
-news_id: 191355
+redirect_from: /news/191355
 ---
 
 La Junta Municipal de Agua y Saneamiento (JMAS) Chihuahua, anunció que el próximo martes 4 de enero personal técnico reparará una fuga detectada en la línea de conducción de los Ojos del Chuvíscar, por lo que será suspendido el suministro vespertino de agua potable en el sector poniente de la ciudad.

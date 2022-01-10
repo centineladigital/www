@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El canciller recordó que tras el ataque murieron 23 personas, la mayoría mexicanos"
 image: "/uploads/2021/images-grupo-personas-visita-ocurrio-tiroteo_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ebrard viajará a El Paso para reunirse con familiares de víctimas del tiroteo de 2019 ocurrido en un Walmart"
 front: false
 section: "Internacional"
-news_id: 186230
+redirect_from: /news/186230
 ---
 
 El secretario de Relaciones Exteriores, Marcelo Ebrard, dio a conocer que viajará a El Paso, Texas, para reunirse con las familias de las víctimas del tiroteo ocurrido el 3 de agosto en una tienda Walmart en dicha localidad. 

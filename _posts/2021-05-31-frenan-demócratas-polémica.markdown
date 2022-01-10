@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los legisladores demócratas sabotean en Texas la aprobación una de las leyes electorales más restrictivas de EU, rompiendo el quórum en la Cámara de Representantes"
 image: "/uploads/2021/images-2587305.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Frenan demócratas polémica ley electoral en Texas"
 front: false
 section: "Internacional"
-news_id: 184742
+redirect_from: /news/184742
 ---
 
 Los legisladores demócratas en Texas abandonaron la Cámara de Representantes el domingo por la noche con el objetivo de bloquear la aprobación una de las leyes electorales más restrictivas de Estados Unidos antes de que venciera el plazo límite a medianoche.

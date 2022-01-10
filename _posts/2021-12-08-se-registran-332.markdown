@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 asciende a 8 mil 446 casos (+25) y los nuevos casos corresponden a los municipios de Juárez (+8), Chihuahua (+11), Cuauhtémoc (+1) Delicias (+1), Rosales (+1), Ascensión (+1), Gpe y Calvo (+1) y Casas Grandes (+1)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 332 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 190636
+redirect_from: /news/190636
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 8 de diciembre el reporte COVID-19, en el cual se registran 87 mil 800 (+332) personas confirmadas en la entidad por este padecimiento, 74 mil 250 (+162) casos recuperados, 83 mil 262 (+415) descartados y 1,144 (+76) casos sospechosos.

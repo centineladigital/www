@@ -16,11 +16,11 @@ author: nil
 description: "No han recibido apoyo de la federación  "
 image: "/uploads/2021/images-g5llw4zU_400x400.jpg"
 video: "/uploads/2021/videos-BV01_PEREZ_PAVIA.mp4"
-audio: "nil"
+audio: nil
 alt: "FORTASEG fue suspendido, policías municipales en abandono  "
 front: false
 section: "Local"
-news_id: 188296
+redirect_from: /news/188296
 ---
 
 El diputado Ismael Pérez Pavía aseguró que la policía municipal ha estado abandonada por parte de la federación, ya que el Programa de Fortalecimiento para la Seguridad (FORTASEG) era un recurso que solventaba los gastos de las policías municipales, el cual ha sido suspendido por parte de la federación dejando en abandono a los municipios en este tema. 

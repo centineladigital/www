@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se sientan las bases para los Planes Estatales de Desarrollo y de Seguridad Pública 2022-2027"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-13_at_14.51.22.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ningún Estado alcanzó la prosperidad sin que cada uno de sus miembros dedicara sus jornadas a contribuir al bien común -  Maru Campos"
 front: false
 section: "Local"
-news_id: 188702
+redirect_from: /news/188702
 ---
 
 La gobernadora Maru Campos Galván encabezó la primera Asamblea Plenaria del Comité de Planeación para el Desarrollo del Estado de Chihuahua (COPLADE), tomó protesta a la Comisión Permanente de dicho organismo y de esta manera iniciaron los trabajos para la elaboración del Plan Estatal de Desarrollo  y el Plan Estatal de Seguridad Pública 2022-2027.

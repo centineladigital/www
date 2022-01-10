@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con el libro infantil de poesía “Palabras y Destellos, haikus menonitas”, escrito por niños y niñas de la Escuela Primaria Efraín"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Incentiva Estado lectoescritura bilingüe en comunidad menonita"
 front: false
 section: "Local"
-news_id: 188914
+redirect_from: /news/188914
 ---
 
 Gobierno del Estado, a través de la Secretaría de Cultura, llevó a cabo la presentación del libro infantil ilustrado “Palabras y destellos, haikus menonitas” (Worten und funken, mennoniten haikus), una bella publicación bilingüe en alemán y español.

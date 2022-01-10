@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El 'Cholo' Simeone no pudo contra el cuadro del Alavés, el mexicano Héctor Herrera entro de cambio en la segunda mitad "
 image: "/uploads/2021/images-jugadores-del-alaves-celebrando-ap_0_17_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dolorosa derrota para el Atlético De Madrid contra el Alavés en La Liga"
 front: false
 section: "Deportes"
-news_id: 188054
+redirect_from: /news/188054
 ---
 
 El Atlético de Madrid sufrió un severo batacazo en su visita a Vitoria ante el Deportivo Alavés (1-0) en un duelo en el que fue incapaz de recuperarse del gol que encajó en el minuto 4, firmado por Víctor Laguardia y que dio el primer triunfo liguero al equipo vasco esta temporada. 

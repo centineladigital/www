@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las atenciones se llevan a cabo vía Zoom y a través de las líneas telefónicas que el IMM ha habilitado en un horario de lunes a viernes de 9:00 a 15:00 horas"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realizan asesorías jurídicas a través del programa IMM en tu empresa"
 front: false
 section: "Local"
-news_id: 182128
+redirect_from: /news/182128
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM) llevó asesorías jurídicas de forma gratuita a mujeres que laboran en el sector manufacturero. Esta actividad se realiza en el marco del convenio IMM en tu empresa, una alianza con la iniciativa privada que permite llevar los servicios del municipio a las empresas agremiadas a Grupo Index.

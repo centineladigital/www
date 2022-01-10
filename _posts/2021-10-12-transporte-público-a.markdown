@@ -14,11 +14,11 @@ author: nil
 description: "La creación de paradas seguras para mujeres se abordó en la reunión "
 image: "/uploads/2021/images-principal_oct12-10.jpg"
 video: "/uploads/2021/videos-BM02_MARCO_BONLLA.mp4"
-audio: "nil"
+audio: nil
 alt: "Transporte público a la espera de su dignificación "
 front: false
 section: "Local"
-news_id: 188652
+redirect_from: /news/188652
 ---
 
 El presidente Marco Bonilla  manifestó que en la reunión que tuvo con el líder de transportistas urbanos Francisco Salcido el día 11 de octubre se abordaron temas de sindicatos, en donde se buscara al güero Lozoya para así buscar alternativas y soluciones entre sindicatos y gobierno municipal.

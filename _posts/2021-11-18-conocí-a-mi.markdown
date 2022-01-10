@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se volvieron virales unos videos en los que el cantante le confiesa a Kunno que es su chico ideal, lo que despertó rumores de su noviazgo; aquí te contamos lo que hay detrás. "
 image: "/uploads/2021/images-sebastian-yatra-kunno-despiertan-rumores.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conocí a mi chico ideal -  Sebastián Yatra y Kunno se 'declaran su amor'; redes reaccionan con memes"
 front: false
 section: "Espectáculos"
-news_id: 189960
+redirect_from: /news/189960
 ---
 
 Luego de la conmoción que causó en redes sociales la ruptura de Shawn Mendes y Camila Cabello tras dos años de relación, una nueva noticia que involucra a Sebastián Yatra y Kunno está generando revuelo entre los internautas, pues se hicieron virales una serie de videos de un encuentro de los famosos, en donde el cantante colombiano le confiesa al tiktoker que es "su chico ideal", lo que desató la euforia -y en algunos casos el desconcierto- de los fans. Todo comenzó hace unos días cuando se hicieron virales varios videos en TikTok en los que aparece Kunno en compañía de Sebastián Yatra. En los clips ambos famosos demuestran la excelente relación que llevan, además de referirse el uno al otro como "su chico ideal", esto desató los rumores de su noviazgo.  

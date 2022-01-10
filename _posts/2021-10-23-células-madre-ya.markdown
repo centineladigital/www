@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Pero la promesa es aliviar males como el Alzheimer o la diabetes. "
 image: "/uploads/2021/images-medicina-regenerativa-avanza-investigaciones-reparar_0_25_980_610.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Células madre ya se usan para regenerar piel y médula ósea"
 front: false
 section: "Buenas Noticias"
-news_id: 189132
+redirect_from: /news/189132
 ---
 
 Salvo las del hígado, las células humanas no se regeneran solas. No obstante, las investigaciones con células madre avanzan aceleradamente y cada vez es más cercana la hora en que será posible la regeneración de neuronas, nefronas o células de músculo liso como el corazón, que ayudarán a curar males como el Alzheimer, la insuficiencia renal crónica o las enfermedades cardiacas.  

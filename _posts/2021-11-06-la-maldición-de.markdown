@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de que Eduardo Palomo trabajará con estas actrices, quienes también fallecieron, se creó un mito que menciona que existe una maldición alrededor del actor."
 image: "/uploads/2021/images-eduardo-palomo-participo-telenovelas-edith_36_0_911_566.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La maldición de Eduardo Palomo, el mito que rodea al actor y a estas tres actrices"
 front: false
 section: "Espectáculos"
-news_id: 189610
+redirect_from: /news/189610
 ---
 
 Hoy el actor Eduardo Palomo cumpliría 58 años, desgraciadamente falleció en el 2003 como consecuencia de un infarto mientras se encontraba cenando en un restaurante de Los Ángeles. Sin duda, la carrera de Eduardo Palomo era una de las más exitosas, ya que se le consideraba un galán de las telenovelas mexicanas, además, había conseguido el papel principal en diversas producciones. En algunas de las telenovelas que participó pudo trabajar con actrices como Edith González, Lorena Rojas y Mariana Levy, quienes al igual que Eduardo Palomo, perdieron la vida.

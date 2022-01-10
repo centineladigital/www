@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La distinción les será entregada en una ceremonia virtual debido al covid, el 16 de noviembre a las 7:00 pm."
 image: "/uploads/2021/images-latin-grammy-1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Latin Grammy anuncia las Leading Ladies 2021, las mujeres en la industria de la música"
 front: false
 section: "Espectáculos"
-news_id: 188683
+redirect_from: /news/188683
 ---
 
 La compositora mexicana Mónica Vélez ; Ivy Queen, cantautora; Mayna Nevarez, fundadora y CEO de Nevarez Communications y Mia Nygren, directora general para Latinoamérica de Spotify serán distinguidas por la Academia Latina de la Grabación como Leading Ladies of Entertainment de 2021, un programa creado hace cinco años para otorgar reconocimiento a mujeres profesionales y con consciencia social en el sector de las artes y entretenimiento que han hecho aportes importantes e inspirado a la siguiente generación de mujeres líderes. La distinción les será entregada en una ceremonia virtual debido al covid, el 16 de noviembre a las 7:00 pm. 

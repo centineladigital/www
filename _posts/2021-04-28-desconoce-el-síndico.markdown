@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Síndico desencone la forma en la que trabaja el CUM."
 image: "/uploads/2021/images-CARLOS_RIVAS.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW01_CARLOS_RIVAS.mp3"
 alt: "Desconoce el Síndico trabajo de CUM"
 front: false
 section: "Local"
-news_id: 184173
+redirect_from: /news/184173
 ---
 
 El Síndico desencone la forma en la que trabaja el CUM, fueron las palabras del titular de esta dependencia, Carlos Rivas, tras señalamientos de Amín Anchondo en relación de que esto debe desaparecer, destacando que las obras que realizan esta dependencia son las obras que requiere la ciudadanía.

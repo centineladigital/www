@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Fondo fue desaparecido por la federación."
 image: "/uploads/2021/images-MESTA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ01_FERNANDO_MESTA.mp3"
 alt: "No puede Estado solicitar apoyos porque no existe FONDEN"
 front: false
 section: "Local"
-news_id: 185093
+redirect_from: /news/185093
 ---
 
 Ante la situación de los incendios no se puede solicitar apoyos por desastres señaló el Secretario General de Gobierno, Fernando Mesta Soulé, quien dijo que esto se debe a que el gobierno federal eliminó el Fondo Nacional de Desastres. Destacando por parte del funcionario que la situación es difícil en la zona serrana.

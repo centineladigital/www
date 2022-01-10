@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente informó que lo recaudado será para apoyar a los deportistas que representaron a México en los Juegos Olímpicos y Paralímpicos de Tokio. "
 image: "/uploads/2021/images-amlo-en-la-mananera-hoy-1_146_253_991_617.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO invita a comprar un boleto para la rifa del 15 de septiembre; se van a rayar, dice"
 front: false
 section: "Nacional"
-news_id: 187756
+redirect_from: /news/187756
 ---
 
 El presidente Andrés Manuel López Obrador recordó que los ciudadanos aún están a tiempo de comprar un boleto para la rifa de este 15 de septiembre, "todavía hay tiempo y es un palco en el Azteca, se van a rayar", dijo. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Invito a todos los ciudadanos a seguir cuidándose, dado que los contagios se dan en mayor manera cuando se acude a reuniones"
 image: "/uploads/2021/images-FEF.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AW04_FRANSISCO_SANTINI_RAMOS.mp3"
 alt: "Ve IP con buenos ojos cambio de semaforización a amarillo "
 front: false
 section: "Local"
-news_id: 182114
+redirect_from: /news/182114
 ---
 
 El presidente del Consejo Coordinador Empresarial (CCE), Francisco Santini Ramos, se defino a favor del cambio de semáforo de naranja a amarillo, dado a que esto reactivara más la economía, sin embargo enfatizó la necesidad de mantener la sana distancia y  todos los cuidados para no aumentar los contagios.

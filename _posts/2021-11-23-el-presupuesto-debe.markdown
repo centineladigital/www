@@ -16,11 +16,11 @@ author: nil
 description: "Debe haber un aumento en el presupuesto, el campo lo necesita: Emiliano García "
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-22_at_1.04.25_PM.jpeg"
 video: "/uploads/2021/videos-BM01_EMILIANO_.mp4"
-audio: "nil"
+audio: nil
 alt: "El presupuesto debe incrementarse como dijo Maru Campos "
 front: false
 section: "Local"
-news_id: 190123
+redirect_from: /news/190123
 ---
 
 Productores de la unión campesina democrática han solicitado una reunión con el presidente de la comisión de programación, presupuesto y hacienda el diputado Luis Aguilar, con el fin de que se tomen en cuenta propuestas para incrementar el presupuesto de la secretaría de desarrollo rural debido al monto de 160 millones de pesos que se le asignaron en el ejercicio fiscal 2020- 2021.

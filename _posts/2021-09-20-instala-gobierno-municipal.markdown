@@ -13,12 +13,12 @@ tags:
 author: nil
 description: " Se recibirá ropa, calzado y alimentos no perecederos   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instala Gobierno Municipal centros de acopio para apoyo a migrantes   "
 front: false
 section: "Local"
-news_id: 187864
+redirect_from: /news/187864
 ---
 
 El Gobierno Municipal instaló centros de acopio en distintos puntos de la ciudad para que la ciudadanía que guste brindar apoyo a la comunidad migrante pueda llevar alimentos no perecederos, calzado, ropa, así como artículos de higiene personal.

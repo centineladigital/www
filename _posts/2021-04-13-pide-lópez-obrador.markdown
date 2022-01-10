@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Aprovecho para decirle a los hermanos centroamericanos, guatemaltecos, salvadoreños, hondureños que nos ayuden para que no se utilice a los niños"
 image: "/uploads/2021/images-2561392.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pide López Obrador no usar niños en afán de llegar a EU"
 front: false
 section: "Nacional"
-news_id: 183847
+redirect_from: /news/183847
 ---
 
 El gobierno de México demandó a los pueblos de Centroamérica no usar a los niños y las niñas en su afán de llegar a los Estados Unidos, porque si bien es legítimo luchar para salir de la miseria no es violando los derechos humanos de los menores como lo lograrán.

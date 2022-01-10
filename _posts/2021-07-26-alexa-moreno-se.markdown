@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La mexicana Alexa Moreno clasifica a la final de salto de caballo en Tokio 2020, con lo que confirma ser una de las mejores gimnastas del mundo en ese aparato; la prueba será el domingo  "
 image: "/uploads/2021/images-ALEXA_MONERO.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alexa Moreno se enfila a la gloria en Tokio 2020"
 front: false
 section: "Deportes"
-news_id: 185987
+redirect_from: /news/185987
 ---
 
 Disfruta como niña lo que consigue gracias a un talento y temple de adulto. La más dulce de las sonrisas adorna el rostro de Alexa Moreno cuando han terminado las ejecuciones de las demás participantes y confirma que ha escrito una de las páginas más doradas en la historia de la gimnasia artística mexicana: ha clasificado a la final olímpica en el salto de caballo.

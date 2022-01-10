@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El atacante del Monterrey marcó un doblete en la victoria de Tri sobre los guatemaltecos y Orbelin Pineda cerró la golead."
 image: "/uploads/2021/images-imago-1061763_crop1620754724956.jpg_1902800913.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "De la mano de Funes Mori, México golea con tranquilidad a Guatemala en la Copa Oro"
 front: false
 section: "Deportes"
-news_id: 185691
+redirect_from: /news/185691
 ---
 
 La Selección Mexicana tuvo una noche tranquila. En esta ocasión tuvo la contundencia que extravió el sábado pasado y se impuso 3-0 a Guatemala para así sumar su primera victoria en esta Copa Oro. Sí, fue un triunfo sin sobresaltos que tuvo como gran figura a Rogelio Funes Mori, autor de un doblete. 

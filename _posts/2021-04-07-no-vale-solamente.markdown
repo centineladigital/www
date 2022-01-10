@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Cuando uno se disculpa de corazón no tiene que hacer shows, dijo la conductora sobre el mensaje que el actor compartió en su Instagram. "
 image: "/uploads/2021/images-la-conductora-hablo-sobre-el.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No vale solamente arrepentirse -  Laura Bozzo reacciona a la disculpa pública de Eleazar Gómez"
 front: false
 section: "Espectáculos"
-news_id: 183750
+redirect_from: /news/183750
 ---
 
 La libertad condicional que obtuvo Eleazar Gómez tras el proceso legal que enfrentó en prisión por agredir a Tefi Valenzuela ha provocado muchas reacciones en el mundo del espectáculo, tal es el caso del conductor Gustavo Adolfo Infante, quien señaló que quizá Televisa ayudó al actor, o la modelo Jeanette Karam, que se pronunció en contra de su liberación.     Ahora fue otra conductora, Laura Bozzo, quien reaccionó a esta situación, pues durante una entrevista para el programa De primera mano habló del caso: "Yo creo que no vale solamente arrepentirse, es algo que se debe prevenir. Y que quien comete ese tipo de delitos sepa que va a haber consecuencias", dijo.  

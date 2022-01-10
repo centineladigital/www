@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ofrecieron asesoría gratuita como parte de las actividades del “Cabildo Rural” "
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brinda IMM asesoría integral a mujeres de El Sáuz  "
 front: false
 section: "Local"
-news_id: 188826
+redirect_from: /news/188826
 ---
 
 Como parte del programa “Cabildo Rural” del Gobierno Municipal, el Instituto Municipal de las Mujeres (IMM) estuvo presente en la zona de El Sauz y ofreció asesoría de los programas que se manejan, así como la tarjeta con descuentos “Mi apoyo, Mi bienestar”.

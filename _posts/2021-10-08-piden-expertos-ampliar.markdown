@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Jefe del Ejecutivo debe exponer la postura de México en temas relacionados con la paz y seguridad en foro, como la prohibición del uso de niños en las guerras, y no con la corrupción: expertos"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Piden expertos ampliar agenda en Consejo de Seguridad"
 front: false
 section: "Nacional"
-news_id: 189633
+redirect_from: /news/189633
 ---
 
 De cara a la participación del presidente Andrés Manuel López Obrador mañana en el Consejo de Seguridad de las Naciones Unidas, diplomáticos y expertos consideraron necesario que México amplíe la agenda a impulsar, y que no se dejen de lado temas como la postura de México para prohibir que los niños sean utilizados en los conflictos armados, el desarme, el cambio climático y el reconocimiento de todas las vacunas contra el Covid-19.

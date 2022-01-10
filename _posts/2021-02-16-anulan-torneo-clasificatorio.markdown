@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Debido a las restricciones de desplazamiento por la pandemia de coronavirus. Una opción para conseguir boleto olímpico es el ranking"
 image: "/uploads/2021/images-2530234.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anulan torneo clasificatorio de box para Olímpicos"
 front: false
 section: "Deportes"
-news_id: 182947
+redirect_from: /news/182947
 ---
 
 El torneo mundial de calificación de boxeo para los Juegos Olímpicos fue anulado debido a las restricciones de desplazamiento provocadas por la pandemia de coronavirus, anunció la Federación Japonesa de boxeo, por lo que los billetes serán probablemente atribuidos en función del ranking.

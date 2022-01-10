@@ -14,11 +14,11 @@ author: nil
 description: "698 mil jóvenes han interrumpido sus estudios a causa de la pandemia."
 image: "/uploads/2021/images-DIPUTADO_CHAVEZ.jpg"
 video: "/uploads/2021/videos-BJ05_ALFREDO_CHAVEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Las cifras de la mañanera son sacadas de la cabeza de AMLO "
 front: false
 section: "Local"
-news_id: 187589
+redirect_from: /news/187589
 ---
 
 Alfredo Chávez diputado de distrito 15 afirmó que  los datos que da el presidente AMLO sobre educación pública son erróneos y solamente lo ayudan cuando lo necesita ya que en palabras de Chávez estos datos son inventados por el presidente de la república.

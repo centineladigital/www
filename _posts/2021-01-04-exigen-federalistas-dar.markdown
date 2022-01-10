@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los gobernador que integran el grupo urge identificar y sancionar a quienes pudieron haber provocada la falla del 28 de diciembre; exige a CFE explicación apegada a la verdad"
 image: "/uploads/2021/images-2506058.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exigen Federalistas dar con responsables de apagón masivo"
 front: false
 section: "Nacional"
-news_id: 181836
+redirect_from: /news/181836
 ---
 
 Luego del apagón masivo del pasado 28 de diciembre y de que la Comisión Federal de Electricidad (CFE) presentara un documento apócrifo para justificar la falla eléctrica, la Alianza Federalista urgió dar con responsables y aplicar las sanciones correspondientes.

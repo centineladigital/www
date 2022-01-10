@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Las propuestas se recibirán a través de buzones físicos y electrónicos y foros ciudadanos"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-19_at_11.45.38.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abre Gobierno del Estado plataformas de participación ciudadana para integración del Plan Estatal de Desarrollo"
 front: false
 section: "Local"
-news_id: 188917
+redirect_from: /news/188917
 ---
 
 El Gobierno del Estado anunció a las y los chihuahuenses la apertura de los mecanismos de participación ciudadana para quienes deseen participar con sus propuestas en la integración del Plan Estatal de Desarrollo de esta administración. Son ocho los rubros en los que se podrá participar a través de foros ciudadanos y buzones físicos abiertos a la ciudadanía interesada. 

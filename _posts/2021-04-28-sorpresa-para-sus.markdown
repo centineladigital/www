@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El material incluye los dos sencillos que la cantante publicó el año pasado, Therefore I Am y My Future, pero dejó fuera la colaboración con Rosalía en Lo vas a olvidar.   "
 image: "/uploads/2021/images-billie-eilish-instagram-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Sorpresa para sus fans! Billie Eilish anuncia fecha de estreno de 'Happier Than Ever', su segundo disco"
 front: false
 section: "Espectáculos"
-news_id: 184156
+redirect_from: /news/184156
 ---
 
 Tras ganar el Grammy al Álbum del año por When We All Fall Asleep, Where Do We Go?, Billie Eilish está lista para conseguir más premios con el lanzamiento de su segunda producción de larga duración, Happier Than Ever, que se publicará el 30 de julio. "Estoy muy emocionada, nerviosa y deseando que lo escuchen. No puedo ni expresarlo. Nunca sentí tanto amor por un proyecto", aseguró la artista en sus redes sociales, donde también informó que lanzará una canción nueva el jueves. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "No se tiene una fecha de entrega por parte de la federación, destacando que en las declaraciones de la federación."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02_WENDY_AVILA.mp3"
 alt: "Sin fecha aplicación de la segunda dosis de vacunas -  Salud"
 front: false
 section: "Local"
-news_id: 182608
+redirect_from: /news/182608
 ---
 
 Aún no se tiene una fecha para la aplicación de la segunda dosis de vacunas para el personal de salud que fueron inmunizados hace dos semanas, según lo dio a conocer Wendy Ávila Coronado, Subdirectora de Medicina Preventiva y Promoción de la Salud. 

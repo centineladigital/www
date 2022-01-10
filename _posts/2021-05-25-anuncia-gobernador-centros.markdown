@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Abren centros con semáforo amarillo."
 image: "/uploads/2021/images-GOBER.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM01_JAVIER_CORRAL.mp3"
 alt: "Anuncia Gobernador centros de asesoría"
 front: false
 section: "Local"
-news_id: 184653
+redirect_from: /news/184653
 ---
 
 Un incremento en Centros de Asesoría y Seguimiento Académico o CASA por sus siglas fue anunciado por parte del Gobernador de Chihuahua, Javier Corral Jurado, donde señaló habrá ejercicios propedéuticos y preparatorios para el regreso presencial a clases en Chihuahua, el cual inicia con el semáforo amarillo.

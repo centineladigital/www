@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto desde el inicio de la pandemia."
 image: "/uploads/2021/images-IVNA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV05_IVAN_TORRES.mp4"
 alt: "Realiza 35 mil inspecciones por parte de COESPRIS"
 front: false
 section: "Local"
-news_id: 190978
+redirect_from: /news/190978
 ---
 
 Desde el inicio de la pandemia se han realizado por parte de Comisión Estatal de Prevención de Riesgos Sanitarios, o COESPRIS por sus siglas, más de 35 mil visitas con el fin de darles a conocer las medidas sanitarias que deben de seguir para prevenir contagios.

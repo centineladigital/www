@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El delantero mexicano nuevamente se hizo presente con el Wolverhampton, tras marcar el tanto que les dio la victoria. "
 image: "/uploads/2021/images-raul-jimenez-marca-gol-wolves_0_49_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Raúl Jiménez hace un golazo con los Wolves ante el West Ham"
 front: false
 section: "Deportes"
-news_id: 190045
+redirect_from: /news/190045
 ---
 
 Los Wolves siguen buscando acercarse a los lugares de las competiciones europeas y en esta ocasión enfrentaron al West Ham United en la jornada 12 de la Premier League, partido en el que mexicano Raúl Jiménez les dio la victoria.

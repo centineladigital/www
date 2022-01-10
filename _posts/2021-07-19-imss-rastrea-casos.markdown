@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La doctora Célida Duque Molina, directora de Prestaciones Médicas, dijo que en los MARSS se evalúa clínicamente a personas con síntomas de enfermedad respiratoria."
 image: "/uploads/2021/images-Foto_306-4.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS rastrea casos de COVID-19 a través de los Módulos de Atención Respiratoria"
 front: false
 section: "Local"
-news_id: 185798
+redirect_from: /news/185798
 ---
 
 Los Módulos de Atención Respiratoria del Seguro Social (MARSS) operan a nivel nacional en mil 53 Unidades de Medicina Familiar (UMF) del Instituto Mexicano del Seguro Social (IMSS) para detectar casos de COVID-19 de manera temprana, a fin de romper cadenas de contagio y evitar cuadros graves de la enfermedad que requieran hospitalización.

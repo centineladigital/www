@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El punto de acopio es en las oficinas del Clúster Minero de Chihuahua con dirección en Lateral Ortiz Mena número 4015 interior 4, fraccionamiento La Cañada"
 image: "/uploads/2021/images-incendioschihuahua2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se suma Clúster Minero a colecta de víveres para brigadistas"
 front: false
 section: "Local"
-news_id: 185063
+redirect_from: /news/185063
 ---
 
 El Clúster Minero de Chihuahua AC, (CLUMIN) lanzó una campaña de coleta de apoyos para brigadistas combatientes de incendios en la Sierra Madre Occidental en el Estado de Chihuahua.

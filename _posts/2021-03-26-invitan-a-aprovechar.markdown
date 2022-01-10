@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las oficinas de Recaudación de Rentas de todo el estado abrirán sus puertas este sábado de 9:00 a 14:00 hrs, para que las y los contribuyentes hagan su contribución"
 image: "/uploads/2021/images-Invitan_a_aprovechar_últimos_días_para_pagar_con_descuento.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invitan a aprovechar última semana de descuentos en el pago del derecho vehicular 2021"
 front: false
 section: "Local"
-news_id: 183566
+redirect_from: /news/183566
 ---
 
 La Secretaría de Hacienda del Gobierno del Estado invita a las y los chihuahuenses a aprovechar los últimos días de descuentos en el pago del derecho vehicular 2021.

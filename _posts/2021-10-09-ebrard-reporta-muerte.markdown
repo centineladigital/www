@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El secretario de Relaciones Exteriores, Marcelo Ebrard envió sus condolencias a familiares y amigos por el sensible fallecimiento del funcionario"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ebrard reporta muerte de Rodrigo de la Riva Robles, integrante del gabinete de seguridad de AMLO"
 front: false
 section: "Nacional"
-news_id: 188547
+redirect_from: /news/188547
 ---
 
 El canciller Marcelo Ebrard reportó la muerte del doctor Rodrigo de la Riva Robles, integrante del gabinete de seguridad del gobierno del presidente Andrés Manuel López Obrador.

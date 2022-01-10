@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Ante las bajas temperaturas que se presentan en la entidad, la dependencia estatal emitió una serie de recomendaciones a fin de evitar accidentes "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta Protección Civil del Estado a la población a tomar precauciones en el uso e instalación de calentones"
 front: false
 section: "Local"
-news_id: 190442
+redirect_from: /news/190442
 ---
 
 Gobierno del Estado, a través de la Coordinación Estatal de Protección Civil, exhorta a la población a tomar precauciones en la instalación y uso de calentones, así como a cuidar que las y los pequeños en casa no tengan contacto directo con calefactores, a fin de evitar accidentes.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: ""
 image: "/uploads/2021/images-unnamed_(11).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dona Gobernadora chamarras para la sierra de Chihuahua de la campaña “Juntos sin frio”"
 front: false
 section: "Local"
-news_id: 189272
+redirect_from: /news/189272
 ---
 
 La gobernadora Maru Campos Galván encabezó el evento de donación de Chamarras “Juntos sin frio”, que tuvo verificativo en el exterior del Edificio Héroes de la Revolución, en el centro de la ciudad de Chihuahua y que inicialmente logró reunir más de 5 mil chamarras.

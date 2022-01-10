@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La obra se encuentra en su segunda etapa de rehabilitación gracias al Presupuesto Participativo 2021"
 image: "/uploads/2021/images-unnamed_(17).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avanza rehabilitación de parque de colonia Villas del Real"
 front: false
 section: "Local"
-news_id: 190790
+redirect_from: /news/190790
 ---
 
 Los habitantes de Villas del Real, pronto tendrán un parque totalmente renovado, por el impulso que los vecinos le dieron al proyecto inscrito en el Presupuesto Participativo 2021 del Gobierno Municipal, que actualmente lleva un avance del 70 por ciento de la segunda etapa.

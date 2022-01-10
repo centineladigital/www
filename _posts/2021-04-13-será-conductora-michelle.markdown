@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue durante la transmisión en vivo del programa Hoy en donde se anunció que Michelle Vieth estará en la emisión matutina de Televisa. Te contamos lo que la famosa reveló en su regreso. "
 image: "/uploads/2021/images-michelle-vieth-une-programa-televisa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Será conductora? Michelle Vieth regresa a Televisa; la actriz se integra al 'programa Hoy'"
 front: false
 section: "Espectáculos"
-news_id: 183842
+redirect_from: /news/183842
 ---
 
 Michelle Vieth, famosa actriz, regresa a la empresa que la vio crecer y que le dio foco público: está de vuelta en Televisa. ¿A qué proyecto se integrará? La famosa se integra al programa Hoy, participará en la sección Las Estrellas Bailan en Hoy. Te contamos lo que sabemos y cómo se dio a conocer la noticia. 

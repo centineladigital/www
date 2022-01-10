@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las autoridades aseguraron que se ha mantenido en un descenso progresivo en la expulsión de material volcánico y los flujos de lava. "
 image: "/uploads/2021/images-volcan-fuego-guatemala-entrando-erupcion_0_43_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Volcán de Fuego en Guatemala deja de hacer erupción; mantuvo actividad por 32 horas"
 front: false
 section: "Internacional"
-news_id: 188062
+redirect_from: /news/188062
 ---
 
 El Volcán de Fuego, en el suroeste de Guatemala y cercano a la capital, finalizó este viernes una fuerte fase eruptiva que duró unas 32 horas, informó el estatal Instituto de Vulcanología (Insivumeh), sin que se reporten daños personales. 

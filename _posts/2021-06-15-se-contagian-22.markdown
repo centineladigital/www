@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El reporte de la Secretaría de Salud registra 69 mil 655 contagios y 7 mil 132 decesos"
 image: "/uploads/2021/images-Informe_tecnico_14_junio_page-0003.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se contagian 22 personas de COVID-19 y suma un fallecimiento más"
 front: false
 section: "Local"
-news_id: 185036
+redirect_from: /news/185036
 ---
 
 Un total de 22 casos confirmados de COVID-19 registra el reporte de este día de la Secretaría de Salud y el deceso de una persona debido al virus SARS-CoV-2 en la entidad.

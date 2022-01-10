@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Contará con cinco módulos, se impartirá de forma virtual."
 image: "/uploads/2021/images-JOSE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM01.mp3"
 alt: "Invitan a seminario de Seguridad Social"
 front: false
 section: "Local"
-news_id: 184936
+redirect_from: /news/184936
 ---
 
 Dentro de su programa constante de capacitación el Colegio de Contadores Públicos fue presentado este martes el Seminario de Seguridad Social en su edición 2021, el cual contará con cinco módulos según lo dio a conocer el Presidente Jesús José Barrera.

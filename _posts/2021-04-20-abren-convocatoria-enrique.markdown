@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Buscan fomentar la creatividad de niñas, niños y adolescentes este martes en lenguas indígenas."
 image: "/uploads/2021/images-manriquez.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM05_RAUL_MANRIQUEZ.mp3"
 alt: "Abren convocatoria Enrique Servín "
 front: false
 section: "Local"
-news_id: 184002
+redirect_from: /news/184002
 ---
 
 Buscando fomentar la creatividad de niñas, niños y adolescentes este martes se dio a conocer la convocatoria “Enrique Servín” en su edición 2021, según fue dado a conocer por parte de Raúl Manríquez, titular del área de Capital Cultural. Quien señaló que con este tipo de acciones se busca abrir la puerta para nuevos escritores.

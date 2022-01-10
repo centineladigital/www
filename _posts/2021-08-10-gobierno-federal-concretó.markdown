@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“Realmente el Presidente ha estado analizando los números y como ustedes lo han escuchado, se ha comprometido a apoyarnos y estamos muy agradecidos con él por eso”, destaca Javier Corral en atención a medios de comunicación"
 image: "/uploads/2021/images-ENTREVISTA_GOBERNADOR_JAVIER_CORRAL.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobierno Federal concretó apoyo financiero para Chihuahua por 650 millones de pesos -  Gobernador"
 front: false
 section: "Local"
-news_id: 186519
+redirect_from: /news/186519
 ---
 
 El Gobierno Federal ya concretó un apoyo financiero de 650 millones de pesos, informó el gobernador Javier Corral Jurado, respecto a las gestiones que se han realizado con el presidente Andrés Manuel López Obrador.

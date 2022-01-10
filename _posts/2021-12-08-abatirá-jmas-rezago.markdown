@@ -10,11 +10,11 @@ author: nil
 description: "Esperan reducir un 30 por ciento la falta de este aparato."
 image: "/uploads/2021/images-ALAN.jpg"
 video: "/uploads/2021/videos-MW02_ALAN_FALOMIR.mp4"
-audio: "nil"
+audio: nil
 alt: "Abatirá JMAS rezago en medidores "
 front: false
 section: "Local"
-news_id: 190650
+redirect_from: /news/190650
 ---
 
 El que todos los hogares cuenten con medidores es lo que se proyecta dentro de la Junta Municipal de Agua y Saneamiento, según lo detalló el titular de la dependencia Alan Falomir Sáenz.

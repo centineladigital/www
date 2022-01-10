@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En ese foro de Naciones Unidas se intentan forjar compromisos para evitar que las temperaturas a final de siglo avancen más de 1,5 ºC respecto a los niveles previos a la Revolución Industrial. "
 image: "/uploads/2021/images-mil-millones-personas-sufririan-calor.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Especialistas aseguran que mil millones de personas sufrirían calor extremo con un alza de 2 ºC"
 front: false
 section: "Internacional"
-news_id: 189684
+redirect_from: /news/189684
 ---
 
 Mil millones de personas se verán afectadas por una "combinación fatal de calor y humedad" si las temperaturas a final de siglo suben 2 ºC respecto a los valores preindustriales, según un estudio publicado este martes por la Oficina Meteorológica británica (MET Office). 

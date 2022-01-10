@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El subsecretario de Salud enfatizó que la OMS no ha recomendado la vacunación en niños, por el contrario, ha resaltado la necesidad de aumentar la cobertura en las naciones donde no ha habido acceso a las vacunas"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No se contempla vacunar a niños menores de 15 años -  López-Gatell"
 front: false
 section: "Nacional"
-news_id: 191264
+redirect_from: /news/191264
 ---
 
 En México no se contempla vacunar a niños menores de 15 años sin comorbilidades o menores de 12 años con comorbilidades aseguró Hugo López-Gatell Ramírez, subsecretario de Prevención y Promoción de la Salud, agregó que hay países donde se inmuniza a niños de menor edad porque tienen excedente de vacunas, pero es decisión de cada nación. 

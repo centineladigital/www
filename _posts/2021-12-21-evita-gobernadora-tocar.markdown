@@ -10,11 +10,11 @@ author: nil
 description: "Será Roberto Fierro quien tratará el tema."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MM04_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Evita Gobernadora tocar tema de liberación de Tarín"
 front: false
 section: "Local"
-news_id: 191088
+redirect_from: /news/191088
 ---
 
 Al señalar que es correspondencia de la Fiscalía General de Chihuahua, el emitir postura sobre liberación de Antonio Tarín, la Gobernadora de Chihuahua evitó tocar el tema de la liberación que se dio a Antonio Tarín, quien dejará la prisión para permanecer en arresto domiciliario.

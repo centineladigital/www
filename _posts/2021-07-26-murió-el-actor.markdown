@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor Mike Mitchell, de 'Gladiador 'y 'Corazón valiente', fue encontrado en su barco en Turquía, le atribuyen su muerte a un ataque al corazón. "
 image: "/uploads/2021/images-mike-mitchell-en-escena-especial.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió el actor Mike Mitchell a los 65 años; participó en 'Gladiador' y 'Corazón valiente'"
 front: false
 section: "Espectáculos"
-news_id: 185989
+redirect_from: /news/185989
 ---
 
 El viernes 23 de julio murió, a los 65 años, el actor y culturista británico Mike Mitchell, quien participaría en emblemáticas películas como 'Gladiador' y 'Corazón valiente', además de ganar el certamen Mister Universo. 

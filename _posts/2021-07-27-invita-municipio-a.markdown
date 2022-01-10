@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se pretende lograr un acercamiento con aquellas personas que se encuentren bajo condiciones de vida estresantes, ya sea debido al aspecto laboral, escolar, o bien debido al confinamiento y los cambios que surgieron a raíz de la pandemia"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Municipio a cápsula informativa sobre el manejo del estrés   "
 front: false
 section: "Local"
-news_id: 186042
+redirect_from: /news/186042
 ---
 
 El Gobierno Municipal a través del Centro de Atención y Prevención Psicológicas (CAPPSI) realizará el próximo miércoles 28 de julio, una sesión en vivo como parte del programa “Clic por tus emociones”, el cual busca promover el diálogo y la prevención en torno al cuidado de la salud mental.

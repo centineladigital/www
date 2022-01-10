@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Encanto relata la historia de una familia extraordinaria; los Madrigales, quienes viven escondidos en las montañas de Colombia. "
 image: "/uploads/2021/images-maluma-dara-voz-pelicula-disney.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Hay algo que este hombre no haga bien? Maluma dará vida a personaje en 'Encanto', nueva película de Disney"
 front: false
 section: "Espectáculos"
-news_id: 189044
+redirect_from: /news/189044
 ---
 
 Fiel a su estilo y tal como lo hizo con ‘Coco’ en donde se inspiraron en la cultura mexicana y una de las tradiciones más importantes para darle vida, justo así, Disney está tomando ahora otro país latinoamericano para su próximo éxito taquillero. Colombia es la fuente de inspiración para ‘Encanto’ que llegará a los cines del mundo en el mes de noviembre. Pero no solo eso, sino que contará con la presencia de la estrella de la música colombiana y mundial Juan Luis Londoño Arias, mejor conocido como Maluma. 

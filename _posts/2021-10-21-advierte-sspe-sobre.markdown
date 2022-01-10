@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En Chihuahua la Policía Cibernética ha atendido 24 reportes y detectado afectaciones principalmente en niñas y niños de entre 12 y 14 años de edad, por el uso de aplicaciones interactivas peligrosas como  Free Fire, Fortnite, Minecraf, Roblox, Grand theft auto y Call of Duty"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte SSPE sobre videojuegos online de riesgo para menores de edad"
 front: false
 section: "Local"
-news_id: 189027
+redirect_from: /news/189027
 ---
 
 La Secretaría de Seguridad Pública del Estado (SSPE) a través de la Policía Cibernética, advierte a padres y madres de familia sobre los riesgos a los que están expuestos jóvenes y menores de edad que utilizan videojuegos en línea para interactuar con otros usuarios.

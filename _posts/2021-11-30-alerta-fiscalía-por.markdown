@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Intimidan a comerciantes y ciudadanía en general diciendo ser miembros de un grupo delictivo que viene a hacerse cargo de la seguridad del estado y exigen una cuota"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Fiscalía por llamadas de extorsión a nombre de Gobierno del Estado"
 front: false
 section: "Local"
-news_id: 190369
+redirect_from: /news/190369
 ---
 
 La Fiscalía de Distrito Zona Centro alerta a los comerciantes y a la ciudadanía en general, sobre llamadas telefónicas que se están registrando para extorsionar a nombre del Gobierno del Estado, exigiendo una cuota a cambio de brindar seguridad.

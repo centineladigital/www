@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La policía de Delaware reportó que fanáticos de la serie protagonizada por Kate Winslet, recordada por dar vida a Rose en 'Titanic', han invadido el pueblo donde se grabó y solicitan que no acudan al lugar."
 image: "/uploads/2021/images-kate-winslet-serie-mare-of.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Policía pide que fans de 'Mare of Easttown' que no vayan al pueblo donde se grabó la miniserie"
 front: false
 section: "Espectáculos"
-news_id: 185289
+redirect_from: /news/185289
 ---
 
 Los fanáticos de las series, a veces se ven mucho más inmersos en las historias de lo que pensaron, ése fue el caso de los fans de Mare of Easttown, una miniserie de HBO protagonizada por Kate Winslet,  actriz recordada por su papel como Rose en Titanic; sin embargo, la devoción por la serie fue tanta que invadieron el pueblo donde se filmó, y la policía tuvo que intervenir. 

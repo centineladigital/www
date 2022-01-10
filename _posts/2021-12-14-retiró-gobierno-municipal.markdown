@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se realizó un operativo a fin de mantener limpia esta zona de la ciudad"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Retiró Gobierno Municipal 2.3 toneladas de basura en alrededores del Santuario de Guadalupe"
 front: false
 section: "Local"
-news_id: 190854
+redirect_from: /news/190854
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales, recolectó un total de 2.3 toneladas de basura de los alrededores del Santuario de Guadalupe del 10 al 12 de diciembre.

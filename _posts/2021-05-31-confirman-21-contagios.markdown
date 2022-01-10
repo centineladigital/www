@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Registra Salud estatal 68 mil 282  positivos y 6,968 defunciones en la pandemia; continúa el municipio de Chihuahua a la cabeza en casos activos con 327"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Confirman  21 contagios  y 3 decesos en el último reporte epidemiológico COVID-19"
 front: false
 section: "Local"
-news_id: 184746
+redirect_from: /news/184746
 ---
 
 La pandemia por coronavirus en el estado de Chihuahua lleva un acumulado de  68 mil 282 contagios y 6 mil 968 decesos, de acuerdo al último reporte epidemiológico que emite la Secretaría de Salud.

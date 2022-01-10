@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Omar Chaparro participó en la película Como caído del cielo en la que realizó el papel de un imitador de Pedro Infante; ante esto, Irma Dorantes lo critico."
 image: "/uploads/2021/images-esposa-pedro-infante-reacciono-imitacion.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Qué es eso? -  Irma Dorantes critica a Omar Chaparro por imitar a Pedro Infante en película"
 front: false
 section: "Espectáculos"
-news_id: 187839
+redirect_from: /news/187839
 ---
 
 El legado de Pedro Infante continúa, esto a pesar de que murió hace más de 60 años. A lo largo de los años han surgido varios imitadores del cantante, pero en el 2018 Netflix estrenó la película Como caído del cielo, en la que Omar Chaparro interpretó a una persona que imitaba al también actor, pero tal parece que esto no le gustó nada a Irma Dorantes. En entrevista con De Primera Mano, la esposa de Pedro Infante, Irma Dorantes recordó a protagonista de Dos tipos de cuidado y aseguró que ningún imitador tiene el talento que tenía su esposo. 

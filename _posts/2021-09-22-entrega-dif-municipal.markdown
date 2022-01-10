@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con esta acción se busca proteger y coadyuvar con las asociaciones civiles para dar seguimiento de manera digna a los migrantes."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega DIF Municipal insumos a albergues de migrantes en la ciudad"
 front: false
 section: "Local"
-news_id: 187940
+redirect_from: /news/187940
 ---
 
 El Gobierno Municipal, a través del DIF Municipal, realizó la donación de despensas y 100 kits de higiene personal a los albergues “Uno de 7 Migrando” y “La Casa del Migrante San Agustín”, con el fin de apoyar a los migrantes que se encuentran de paso en nuestra ciudad.

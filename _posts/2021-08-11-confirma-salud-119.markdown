@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El total de casos acumulados es de 73 mil 935 y 7 mil 733 personas fallecidas; los nuevos decesos son en Juárez (+4), Chihuahua (+5), Namiquipa (+1), San Francisco del Oro (+1) y Ocampo (+1)"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Confirma Salud 119 contagios y 12 defunciones por COVID-19 en la entidad"
 front: false
 section: "Local"
-news_id: 186553
+redirect_from: /news/186553
 ---
 
 La Secretaría de Salud estatal informó que se registraron 119 nuevos contagios y 12 decesos por COVID-19, con lo que el acumulado total es de 73 mil 935 casos y 7 mil 733 defunciones. El último reporte epidemiológico muestra que van 63 mil 030 (+78) recuperados, 48 mil 376 (+434) descartados y 741 (+10) sospechosos de contagio.

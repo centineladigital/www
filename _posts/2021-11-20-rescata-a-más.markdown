@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La señora Silvia de 61 años es conocida como “la señora de los perros'' ya que ayuda a los perros que habitan en la calle, aproximadamente más de 400 perros son los que ha rescatado desde hace 35 años."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rescata a más de 400 perros la señora de los perros de 61 años"
 front: false
 section: "Buenas Noticias"
-news_id: 190053
+redirect_from: /news/190053
 ---
 
 A sus 61 años ha dedicado su vida a rescatar animales a pesar de que antes fue asistente de Colosio, Adolfo Lugo, entre otros. Ella afirma que en esa época era soberbia y que ahora lo que más le interesa es ayudar a los animales como apoyo a su reciente viudez.

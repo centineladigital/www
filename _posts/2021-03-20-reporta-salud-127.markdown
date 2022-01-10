@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A la fecha suman 57 mil 266 casos y 5 mil 568 decesos; los últimos fallecimientos se confirmaron en: Juárez (6), Chihuahua capital (14), Delicias (5), Parral (1), Camargo (2), Meoqui (1), Jiménez (1), Saucillo (1) y Guachochi (1)"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reporta Salud 127 nuevos contagios y 32 defunciones por COVID-19 en el estado"
 front: false
 section: "Local"
-news_id: 183494
+redirect_from: /news/183494
 ---
 
 La Secretaría de Salud informó que el último reporte epidemiológico de COVID-19 aumentó en 127 casos y 32 defunciones, por lo que el total general de contagios en el estado de Chihuahua es de 57 mil 266 y 5 mil 568 decesos.

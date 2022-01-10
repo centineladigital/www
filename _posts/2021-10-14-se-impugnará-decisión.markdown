@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Vacunar a los menores de 12 a 17 años, como lo ordenó el Juzgado Séptimo de Distrito del Estado de México, no es cosa juzgada, señaló el presidente López Obrador"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se impugnará decisión judicial para vacunar a menores de edad -  AMLO"
 front: false
 section: "Nacional"
-news_id: 188716
+redirect_from: /news/188716
 ---
 
 Vacunar a los menores de 12 a 17 años, como lo ordenó el Juzgado Séptimo de Distrito del Estado de México, no es cosa juzgada, reviró el presidente Andrés Manuel López Obrador.

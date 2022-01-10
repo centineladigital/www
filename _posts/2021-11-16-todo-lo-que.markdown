@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te decimos todo lo que debes saber sobre la nueva película 'Ghostbusters: el legado'; fecha de estrenom dónde ver nueva película de Sony Pictures y más."
 image: "/uploads/2021/images-ghostbusters-revela-trailer-poster-sony_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Todo lo que debes saber sobre 'Ghostbusters' -  fecha de estreno, dónde ver y sinopsis"
 front: false
 section: "Espectáculos"
-news_id: 189902
+redirect_from: /news/189902
 ---
 
 Los Cazafantasmas están de regreso gracias a la nueva película de Sony Pictures Ghostbusters: el legado, la cual se estrena muy pronto en cines y nadie se la querrá perder. Es por ello que aquí te tenemos todos los detalles de la película: fecha de estreno, dónde ver y sinopsis. 

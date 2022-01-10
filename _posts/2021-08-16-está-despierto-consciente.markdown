@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El médico del cantante señaló que el respirador que tiene actualmente lo tiene únicamente soporte, las respiraciones actualmente son totalmente espontaneas por parte del señor. Su corazón y pulmones están estables. "
 image: "/uploads/2021/images-fan_vic.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Está despierto, consciente y obedece comandos -  reportan mejoría en la salud de Vicente Fernández"
 front: false
 section: "Espectáculos"
-news_id: 186751
+redirect_from: /news/186751
 ---
 
 La salud de Vicente Fernández, quien se encuentra hospitalizado desde hace varios días debido a la caída que sufrió mientras se encontraba en su habitación, evoluciona favorablemente, así lo reportó este lunes el doctor Luis Arturo, responsable del tratamiento del Charro de Huentitán.  Primero, el médico agradeció "a los medios y público sus muestras de cariño y preocupación, apoyo y oraciones. Reconocimiento especial a los medios y prensa por su comprensión en estos momentos tan difíciles de la familia"

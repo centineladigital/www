@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las filas registran un flujo de espera con normalidad"
 image: "/uploads/2021/images-CC2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca segunda jornada de vacunación en el Centro de Convenciones"
 front: false
 section: "Local"
-news_id: 184556
+redirect_from: /news/184556
 ---
 
 Decenas de chihahuenses acudieron la mañana de este jueves para recibir la primera dosis del medicamento Phizer en el centro de convenciones y exposiciones, como parte de esta segunda etapa de la jornada de vacunación.

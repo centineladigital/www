@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La disputa legal entre Livia Brito y al paparazzi que agredió no termina. El fotógrafo aseguró que la actriz piensa contrademandarlo, ésta es la razón. "
 image: "/uploads/2021/images-livia-brito-novio-agredieron-paparazzi.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Para justificar que me golpearon -  Paparazzi agredido por Livia Brito asegura que actriz piensa contrademandarlo"
 front: false
 section: "Espectáculos"
-news_id: 184048
+redirect_from: /news/184048
 ---
 
 Hace casi un año Livia Brito estuvo en vuelta en la polémica después de que ella y su novio agredieron físicamente y le robaran sus pertenencias a Ernesto Zepeda, un paparazzi que fotografió a la actriz en una de las playas de Cancún, algo que no le pareció a la cubana y decidió golpearlo. Tras esto, el fotógrafo decidió interponer una demanda en contra de la actriz y ahora, tal parece que Livia Brito también piensa en comenzar un proceso legal en contra de Ernesto Zepeda. De acuerdo con el paparazzi, la cubana tiene planeado contrademandarlo para evitar pagar los daños. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente López Obrador señaló que en lo que a él corresponde “está muy satisfecho” con el desempeño del fiscal Alejandro Gertz Manero"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No hay indicios de cambio en FGR; es mucha imaginación pensar que se va a cambiar a Gertz -  AMLO"
 front: false
 section: "Nacional"
-news_id: 191099
+redirect_from: /news/191099
 ---
 
 Al asegurar que “es mucha imaginación pensar que va a cambiarse al fiscal Alejandro Gertz Manero”, el presidente Andrés Manuel López Obrador aseguró que no hay indicios y ninguna señal de cambio en la Fiscalía General de la República (FGR) y afirmó que en lo que a él corresponde “está muy satisfecho” con el desempeño del fiscal.

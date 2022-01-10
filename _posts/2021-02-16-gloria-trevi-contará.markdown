@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Además, la cantante anunció que realizará un concierto vía streaming el 27 de febrero. "
 image: "/uploads/2021/images-continuara-consintiendo-publico-presentaciones-via_0_69_854_532.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gloria Trevi contará su vida en bioserie"
 front: false
 section: "Espectáculos"
-news_id: 182958
+redirect_from: /news/182958
 ---
 
 Después de que la productora Carla Estrada diera a conocer que se realizaría la bioserie de Gloria Trevi en septiembre del año pasado, la cantante destacó que se contará toda su historia y la verdad tanto de su trayectoria como de su vida personal, así como su caídas y logros. 

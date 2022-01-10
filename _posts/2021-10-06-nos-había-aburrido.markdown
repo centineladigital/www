@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante dio su postura respecto a la inesperada salida de Omar Chaparro del reality de Televisa; además se confirmó que Consuelo Duval tampoco participará en la tercera temporada. "
 image: "/uploads/2021/images-carlos-rivera-revela-omar-chaparro_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nos había aburrido -  Carlos Rivera habla de la salida de Omar Chaparro de 'Quién es la máscara 3'"
 front: false
 section: "Espectáculos"
-news_id: 188424
+redirect_from: /news/188424
 ---
 
 La tercera temporada de ¿Quién es la máscara? está a unos días de estrenarse en la pantalla chica con un nuevo elenco de lujo y  complejos enigmas que deberán resolver los investigadores para descubrir al famoso detrás del personaje. Hace unos días se anunció que Carlos Rivera, Juanpa Zurita y Yuri volverán al reality; sin embargo, lo que llamó la atención es que Omar Chaparro ya no será el conductor. 

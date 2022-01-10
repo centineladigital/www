@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista, el músico Dave Grohl aseguró que la portada del disco Nevermind de Nirvana deberá cambiar y ya tiene ideas. "
 image: "/uploads/2021/images-dave-grohl-hablo-portada-nevermind.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dave Grohl, ex baterista de Nirvana, advierte que la portada de 'Nevermind' cambiará"
 front: false
 section: "Espectáculos"
-news_id: 188361
+redirect_from: /news/188361
 ---
 
 En los últimos meses, uno de los temas que ha dado de qué hablar es el de la portada de Nevermind, disco de Nirvana. Y es que Spencer Elden es el niño desnudo de la portada, y demanda pornografía infantil y explotación sexual, lo cual involucra a Dave Grohl, uno de los grandes íconos del rock que ha ingresado dos veces al Salón de la Fama del Rock. 

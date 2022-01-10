@@ -10,11 +10,11 @@ author: nil
 description: "Esto por trámites que se tienen que llevar a cabo."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-ML02_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Espera Gobernadora que campesinos sean liberados este mes"
 front: false
 section: "Local"
-news_id: 189168
+redirect_from: /news/189168
 ---
 
 Los productores detenidos por el conflicto del agua deberán esperar unos días para salir libres, señaló la Gobernadora de Chihuahua, María Eugenia Campos Galván. Esto ya que dijo el acuerdo se llevó a cabo el viernes, por lo que el fin de semana no se pudo llevar a cabo ninguna acción.

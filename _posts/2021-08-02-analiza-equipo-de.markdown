@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Asistieron a la reunión con representantes de la Secretaría de Hacienda para solicitar la información pendiente de entregar"
 image: "/uploads/2021/images-unnamed_(10).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Analiza equipo de transición datos del Fideicomiso Carretero en relación a casetas y carreteras del estado"
 front: false
 section: "Local"
-news_id: 186200
+redirect_from: /news/186200
 ---
 
 Como parte de las acciones que se llevan a cabo dentro del proceso de entrega-recepción de datos del Gobierno Estatal saliente para la administración de la Gobernadora Electa de Chihuahua, Maru Campos, el equipo de transición designado para el Fideicomiso Carretero, mantuvo una reunión con representantes de la Secretaria de Hacienda para continuar con las mesas temáticas de transición.

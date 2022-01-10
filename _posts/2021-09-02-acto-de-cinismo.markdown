@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Señala Javier Corral que constituye una nueva afrenta y un intento de engaño a la sociedad chihuahuense, la cual no se chupa el dedo, “aquí no se olvida el saqueo ni el latrocinio que hizo al pueblo de Chihuahua y pronto esperemos, estará enfrentando en nuestro país a los tribunales”"
 image: "/uploads/2021/images-DSC_9963.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acto de cinismo desmedido la carta de Duarte -  Gobernador"
 front: false
 section: "Local"
-news_id: 187378
+redirect_from: /news/187378
 ---
 
 El gobernador Javier Corral Jurado señaló que la carta difundida hoy, es un doble acto de cinismo desmedido, no solo de Duarte sino también del propio Diario, donde se confirma lo que siempre se ha dicho: que ese periódico ha estado al servicio de César Duarte estos cinco años.

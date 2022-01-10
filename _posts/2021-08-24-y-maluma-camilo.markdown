@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los cantantes anunciaron el lanzamiento de su canción '999'; internautas recuerdan la fallida colaboración de Maluma con Selena Gómez "
 image: "/uploads/2021/images-camilo-anuncia-colaboracion-selena-gomez_0_0_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Y Maluma? Camilo anuncia colaboración con Selena Gómez; así reaccionan en redes"
 front: false
 section: "Espectáculos"
-news_id: 187040
+redirect_from: /news/187040
 ---
 
 Selena Gómez no ha quitado el dedo del renglón en su incursión en la música en español y, ahora, alista una nueva colaboración con uno de los cantantes latinos del momento, sí, nos referimos a Camilo, quien viene de estrenar el remix de "Kesi" con Shawn Mendes. Los artistas incendiaron las redes sociales este lunes tras anunciar la fecha de lanzamiento de su canción "999".

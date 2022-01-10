@@ -16,11 +16,11 @@ author: nil
 description: "La gobernadora y el alcalde se darán lugar para presidir la ceremonia."
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-17_at_11.40.49.jpeg"
 video: "/uploads/2021/videos-BW01_RODOLFO_ARMENDARIZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Puente romanza será inaugurado el 22 de noviembre "
 front: false
 section: "Local"
-news_id: 189932
+redirect_from: /news/189932
 ---
 
 El director de obras públicas del municipio de Chihuahua Rodolfo Armendáriz manifestó que el puente romanza será inaugurado este próximo lunes 22 de noviembre, el funcionario señaló que la gobernadora y el alcalde se darán lugar para presidir la ceremonia.

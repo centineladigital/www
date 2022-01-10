@@ -10,11 +10,11 @@ author: nil
 description: "Buscarán mecanismos de pago para la deuda de 82 millones de pesos."
 image: "/uploads/2021/images-EDIBRAY.jpg"
 video: "/uploads/2021/videos-ML06_EDIBRAY_GOMEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Estabilizarán deuda con acreedores en tres años -  CANACO"
 front: false
 section: "Local"
-news_id: 187681
+redirect_from: /news/187681
 ---
 
 En tres años se estabilizará la deuda que se tiene con los acreedores que dejó la pasada administración, señaló el Presidente de la CANACO Edibray Gómez. Esto al cuestionársele sobre un acercamiento que pudieran tener como empresarios y la actual Gobernadora.

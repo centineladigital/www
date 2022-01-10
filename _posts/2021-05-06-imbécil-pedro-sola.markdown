@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de Twitter, Pedrito Sola ofreció una disculpa pública por haber lanzado un insulto en pleno programa en vivo de Ventaneando al comentar la mala actitud que tuvo Camila Sodi con la periodista Linet Puente."
 image: "/uploads/2021/images-pedrito-ofrece-disculpas-insultado-camila.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Imbécil -  Pedro Sola insulta a Camila Sodi en programa en vivo; se arrepiente y pide perdón"
 front: false
 section: "Espectáculos"
-news_id: 184318
+redirect_from: /news/184318
 ---
 
 Pedrito Sola, conductor de Ventaneando, ofreció una disculpa pública por haber insultado en pleno programa en vivo a Camila Sodi, luego de que su compañera Linet Puente revelara que la sobrina de Thalía se portó prepotente y grosera en una entrevista promocional para la película El exorcismo de Carmen Farías. ¿Qué le dijo Pedro Sola a Camila Sodi? Resulta que en medio del calor de la nota en la que criticaban la actitud de Camila Sodi, Pedrito Sola catalogó a la actriz como una “imbécil”. Ante la polémica declaración, ahora el compañero de Pati Chapoy rompió el silencio y pidió perdón. A través de Twitter, Pedrito Sola ofreció una disculpa pública por haber lanzado un insulto en pleno programa en vivo de Ventaneando al comentar la mala actitud que tuvo Camila Sodi con la periodista Linet Puente. 

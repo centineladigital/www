@@ -14,11 +14,11 @@ author: nil
 description: "Agradeció la liberación de los 3 productores de la cruz quienes fueron puestos en libertad"
 image: "/uploads/2021/images-descarga.jpg"
 video: "/uploads/2021/videos-BL02_VICTOR_BALDERRAIN.mp4"
-audio: "nil"
+audio: nil
 alt: "Productores liberados exigen liberación de Andrés Valles "
 front: false
 section: "Local"
-news_id: 190318
+redirect_from: /news/190318
 ---
 
 Productores liberados por el conflicto del agua en la región centro sur del estado, exhortaron  a las autoridades a que sea liberado con inmediatez el productor Andrés Valles quien continua en prisión preventiva en el CERESO de Aquiles Cerdán, así como la reparación de daños a la familia de Jessica Silva quien resultó privada de la vida por miembros de la guardia nacional tras una persecución.

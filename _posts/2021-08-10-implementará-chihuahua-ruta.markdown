@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El estado ocupa el onceavo lugar a nivel nacional en embarazo de niñas y adolescentes de 10 a 14 años; coinciden Inmujeres, Ichmujeres, Secretaría de Desarrollo Social, SIPINNA y GEPEA en la necesidad de dar continuidad a esta estrategia durante el próximo período de gobierno"
 image: "/uploads/2021/images-IMAGEN_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Implementará Chihuahua Ruta NAME para Atención y Protección Integral de Niñas y Adolescentes Madres y/o Embarazadas"
 front: false
 section: "Local"
-news_id: 186539
+redirect_from: /news/186539
 ---
 
 El Estado de Chihuahua aprobó la implementación de la Ruta para la Atención y Protección Integral de Niñas y Adolescentes Madres y/o Embarazadas menores de 15 años (NAME) y sus hijas e hijos.

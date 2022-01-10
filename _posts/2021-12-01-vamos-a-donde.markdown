@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¿El comediante tuvo nexos con el narco? Te contamos lo que respondió el famoso comediante Platanito tras los señalamientos de que tuvo relación con 'La Barbie'."
 image: "/uploads/2021/images-platanito-reacciona-senalamientos-relacionan-barbie.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vamos a donde nos contraten -  Platanito acepta que sí fue a fiesta del narco 'La Barbie'"
 front: false
 section: "Espectáculos"
-news_id: 190386
+redirect_from: /news/190386
 ---
 
 Sergio Verduzco, mejor conocido como Platanito, reaccionó a las recientes acusaciones que se han hecho en su contra por presuntamente haber estado relacionado con el narcotraficante ‘La Barbie’. Esto luego de que así se mencionara en el libro ‘Emma y las otras señoras del narco’ de la periodista Anabel Hernández. ¿El comediante tuvo nexos con el narco? Te contamos lo que respondió el famoso comediante Platanito. Fue durante su visita a la Feria Internacional del Libro en Guadalajara (FIL) en donde el comediante Platanito rompió el silencio sobre lo mencionado en el libro Emma y las otras señoras del narco de la periodista Anabel Hernández. 

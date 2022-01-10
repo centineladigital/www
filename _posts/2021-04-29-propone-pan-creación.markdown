@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Garantizar la salud punto importante para el gobierno panista, afirma Marco Quezada."
 image: "/uploads/2021/images-BONILLA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ07_MARCO_BONILLA.mp3"
 alt: "Propone PAN creación del Instituto de Prevención de la Salud"
 front: false
 section: "Local"
-news_id: 184202
+redirect_from: /news/184202
 ---
 
 La propuesta de crear un Instituto Municipal de Prevención de la Salud fue realizada por el candidato del Partido Acción Nacional, Marco Antonio Bonilla Mendoza, esto en el primer día de la contienda electoral que se llevará a cabo en el mes de julio.

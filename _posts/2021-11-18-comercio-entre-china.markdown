@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la XIV Cumbre Empresarial China-América Latina y el Caribe se encontraron empresarios de China, Uruguay, Argentina y más países de América Latina. "
 image: "/uploads/2021/images-cumbre-empresarial-china-america-latina_0_20_900_560.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Comercio entre China y América Latina registra fuerte crecimiento a pesar del covid"
 front: false
 section: "Internacional"
-news_id: 189949
+redirect_from: /news/189949
 ---
 
 En momentos en que la economía mundial se ha visto gravemente afectada por la pandemia de covid-19, el comercio entre China y América Latina ha superado la tendencia a la baja y registra un buen progreso. Según datos publicados ayer en la XIV Cumbre Empresarial China-América Latina y el Caribe, durante los primeros tres trimestres de 2021, el comercio entre China y América Latina y el Caribe ascendió a 331mil 880 millones de dólares, un notable aumento del 45.5 por ciento interanual.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Te recordamos que si estás interesado en acudir a las diferentes actividades del FICUU 2021, pueden ver la cartelera en www.facebook.com/FICUU2021 ,o bien, en el micrositio de la página oficial del Instituto, www.icm.gob.mx/ficuu."
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia FICUU entrega de boletos para obras del Teatro de la Ciudad"
 front: false
 section: "Local"
-news_id: 188663
+redirect_from: /news/188663
 ---
 
 El Gobierno Municipal a través del Instituto de Cultura del Municipio, te recuerda que las actividades por el Festival Internacional de Chihuahua (FICUU) 2021 han comenzado, teniendo como una de las sedes el Teatro de la Ciudad, en donde habrá tres puestas en escena durante el 14, 17 y 21 de octubre, con producciones como “Desde el desierto”, “Memoria de Gigantes” y “Novecento”.

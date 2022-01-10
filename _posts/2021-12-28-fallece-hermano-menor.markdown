@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Hugo Maradona también fue futbolista profesional"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fallece hermano menor de Diego Maradona a causa de un infarto"
 front: false
 section: "Deportes"
-news_id: 191260
+redirect_from: /news/191260
 ---
 
 El hermano pequeño de Diego Maradona, Hugo, conocido como 'El Turco', falleció este martes en Nápoles a la edad de 52 años, poco más de un año después de la desaparición del genial futbolista argentino, anunció el club de futbol de esta ciudad italiana en su sitio internet.

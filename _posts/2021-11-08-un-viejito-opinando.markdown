@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de su cuenta de Twitter en donde Pedrito Sola, conductor de Ventaneando, lanzó su opinión sobre la película ‘Eternals’ y las actrices Salma Hayek y Angelina Jolie. "
 image: "/uploads/2021/images-usuarios-redes-sociales-destrozan-pedrito.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Un viejito opinando -  Destrozan a Pedro Sola por criticar a Salma Hayek y Angelina Jolie en 'Eternals'; les dijo 'abuelitas'"
 front: false
 section: "Espectáculos"
-news_id: 189637
+redirect_from: /news/189637
 ---
 
 Una de las películas más celebradas en estos momentos es sin duda la de ‘Eternals’, la cual llegó este fin de semana a la pantalla grande. En redes sociales, los fanáticos del Universo Marvel han estallado con reacciones positivas sobre la cinta en la que Salma Hayek y Angelina Jolie engalanan con su presencia. Por ello, tremenda polémica desató Pedrito Sola, quien criticó la actuación de las famosas mencionadas. Pedro Sola –conductor de Ventaneando– aseguró que las actrices -Salma Hayek y Angelina Jolie- parecían ‘abuelitas’, razón por la que los internautas no dudaron en señalarlo y llenarlo de críticas. Fue a través de su cuenta de Twitter en donde Pedrito Sola, conductor de Ventaneando,lanzó su opinión sobre la película ‘Eternals’ y las actrices Salma Hayek y Angelina Jolie. 

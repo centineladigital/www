@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "El director del IMSS, Zoé Robledo, destacó la valiosa aportación de las madres y padres de los menores para identificar temas que requieren atención inmediata"
 image: "/uploads/2021/images-2505234.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prioridad del IMSS, mejorar tratamientos oncológicos de pequeños"
 front: false
 section: "Nacional"
-news_id: 181824
+redirect_from: /news/181824
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) tiene la prioridad de mejorar la sobrevida de los pacientes pediátricos con padecimientos oncológicos que son atendidos en la institución, y para ello, la conformación del equipo de trabajo con padres y madres de familia ha permitido notables avances, subrayó el director general, Maestro Zoé Robledo.

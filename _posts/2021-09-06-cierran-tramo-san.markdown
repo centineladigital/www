@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La SCOP informa que será reabierto por la tarde de este lunes 6; durante el fin de semana tractores y trascabos retiraron escombro para abrir de manera intermitente"
 image: "/uploads/2021/images-DESPEJE_DERRUMBE_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cierran tramo San Pedro-Creel-Guachochi para despejar derrumbe"
 front: false
 section: "Local"
-news_id: 187457
+redirect_from: /news/187457
 ---
 
 Recomienda como alternativa la vía Cuauhtémoc-San Francisco de Borja-Nonoava. La Secretaría de Comunicaciones y Obras Públicas (SCOP) informa que durante el transcurso de este día 6 de septiembre, permanecerá cerrado a la circulación el tramo carretero San Pedro-Creel-Guachochi, en el kilómetro 131+000, y será reabierto por la tarde.

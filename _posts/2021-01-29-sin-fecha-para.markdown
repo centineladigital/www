@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Para la máxima eficacia de la inmunización, la segunda inyección debe ser aplicada 21 días después de la primera, periodo para el que falta menos de una semana"
 image: "/uploads/2021/images-vacuna_covid.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sin fecha para la dosis de refuerzo a médicos"
 front: false
 section: "Local"
-news_id: 182541
+redirect_from: /news/182541
 ---
 
 A cinco días de que se cumpla el periodo de 21 días para la aplicación de la segunda dosis de la vacuna contra el virus SARS CoV2 de la farmacéutica Pfizer-BioNTech al personal de primera línea de atención a pacientes Covid-19, no se cuenta con una fecha exacta para continuar con el proceso de inmunización.

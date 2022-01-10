@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Audiencia se puede llevar a cabo ya que no existe ningún impedimento legal."
 image: "/uploads/2021/images-JORGE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV05_JORGE_ESPINOZA.mp3"
 alt: "No existe impedimento para audiencia; niegan amparo a Alcaldesa"
 front: false
 section: "Local"
-news_id: 183052
+redirect_from: /news/183052
 ---
 
 “No audiencia debe de llevarse a cabo, no existe ningún impedimento legal” fueron las palabras del Consejero Jurídico del Gobierno del Estado, Jorge Espinoza Cortés, al dar a conocer que se le negó el amparo promovido por María Eugenia Campos Galván, Alcaldesa con licencia del municipio de Chihuahua.

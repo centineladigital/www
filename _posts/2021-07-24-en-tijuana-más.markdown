@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El automovilista no se detuvo cuando los policías le marcaron el alto, por lo que se inició la persecución que culminó en la frontera con Estados Unidos"
 image: "/uploads/2021/images-mas-de-patrullas-participaron-en-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Tijuana, más de 40 patrullas persiguen a conductor en estado de ebriedad"
 front: false
 section: "Internacional"
-news_id: 185970
+redirect_from: /news/185970
 ---
 
 En Tijuana, más de 40 patrullas persiguieron a un automovilista en estado de ebriedad hasta la frontera con Estados Unidos, luego de que el conductor se negara a detenerse cuando un par de oficiales le marcaron el alto. 

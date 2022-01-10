@@ -9,12 +9,12 @@ tags:
 author: nil
 description: " Este programa busca apoyar de forma profesional a las y los artistas a la creación, dirección y producción de las artes escénicas en el estado"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan la convocatoria “Red de Teatros” en su edición 2022"
 front: false
 section: "Local"
-news_id: 190838
+redirect_from: /news/190838
 ---
 
 El Gobierno del Estado de Chihuahua a través de la Secretaría de Cultura de Chihuahua, con el fin de impulsar el sector de las artes escénicas en el estado y garantizar una programación artística de calidad, plural y diversa, presentó la convocatoria “Red de Teatros” 2022.

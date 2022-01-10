@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En  el programa “Logros con Valor” dedicado a la SIDE, su titular Antonio Fernández Domínguez señala que Chihuahua está listo para captar hasta 5 mil millones de dólares para el desarrollo de esa infraestructura"
 image: "/uploads/2021/images-ENERGÍAS_LIMPIAS_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Impulsó Gobierno de Javier Corral inversión de más de mil millones de dólares en energías limpias"
 front: false
 section: "Local"
-news_id: 186556
+redirect_from: /news/186556
 ---
 
 El Gobierno del Estado de Chihuahua a cargo del gobernador Javier Corral Jurado impulsó el desarrollo de 11 granjas solares fotovoltaicas con una inversión de 1,063 millones de dólares, informó el titular de la Secretaría de Innovación y Desarrollo Económico (SIDE), Antonio Fernández Domínguez, en el programa “Logros con Valor”.

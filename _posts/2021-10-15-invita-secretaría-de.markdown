@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La convocatoria estará abierta hasta el 12 de noviembre y está dirigida a jóvenes de 13 a 17 años"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Secretaría de Cultura a participar en concurso literario “La Juventud y la Mar”   "
 front: false
 section: "Local"
-news_id: 188781
+redirect_from: /news/188781
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Cultura de Chihuahua y la Secretaría de Marina del Gobierno Federal, invitan a la juventud mexicana de nuestro país a participar en el XXI Concurso Nacional de Expresión Literaria "La Juventud y la Mar" jóvenes de nacionalidad mexicana, de 13 a 17 años de edad.

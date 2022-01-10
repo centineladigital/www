@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Lionel Messi dedicó emotivas palabras al Kun Agüero, quien anunció su retiro del futbol por problemas cardíacos"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lionel Messi manda emotivo mensaje al Kun Agüero por su retiro"
 front: false
 section: "Deportes"
-news_id: 190873
+redirect_from: /news/190873
 ---
 
 El astro argentino del Paris Saint-Germain Lionel Messi aseguró este miércoles, tras la retirada de Sergio 'Kun' Agüero, que va a "extrañar muchísimo" jugar con su compañero de selección.

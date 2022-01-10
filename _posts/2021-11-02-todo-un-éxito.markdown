@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Reciben familias chihuahuenses con alegría a las catrinas durante desfile"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Todo un éxito desfile de “Catrinas” en el corazón de la ciudad"
 front: false
 section: "Local"
-news_id: 189470
+redirect_from: /news/189470
 ---
 
 Con gran ánimo fueron recibidas las 20 catrinas y el contingente que desfiló por las calles del centro histórico de la ciudad, con motivo de las actividades de “Norteños hasta los huesos”, que se desarrolló en el marco del Día de los Muertos por parte del Gobierno Municipal, a través del Instituto de Cultura del Municipio.

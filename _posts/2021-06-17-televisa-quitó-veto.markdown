@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Desde los primeros minutos del programa Hoy de Televisa, Danna Paola se integró al reality matutino.Los conductores le dieron la bienvenida con un breve recorrido sobre su carrera artística. ¿Televisa se arrepintió y le quitó el veto? "
 image: "/uploads/2021/images-danna-paola-reaparece-televisa-quito.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Televisa quitó veto? Danna Paola reaparece en el programa 'Hoy' tras polémica con televisora"
 front: false
 section: "Espectáculos"
-news_id: 185081
+redirect_from: /news/185081
 ---
 
 Danna Paola, famosa cantante y actriz, regresó a Televisa, luego de que se rumorara que tenía un veto por parte de la televisora. La intérprete de Oye, Pablo reapareció en el programa Hoy. Feliz de estar de vuelta, la famosa habló sobre sus nuevos proyectos y algunos detalles de su vida personal. ¿Televisa se arrepintió? ¿Ya no está vetada de la televisora? Te contamos lo que sabemos de este regreso.

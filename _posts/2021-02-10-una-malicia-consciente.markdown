@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante una entrevista en Ventaneando, Rosalba Ortiz señaló que su hija ha sufrido comentarios crueles tras su separación de Gabriel Soto. Aunque también le deseó felicidad a su ex yerno. "
 image: "/uploads/2021/images-rosalba-ortiz-mama-de-la.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Una malicia consciente -  Mamá de Geraldine Bazán revela que su hija ha sufrido violencia emocional"
 front: false
 section: "Espectáculos"
-news_id: 182845
+redirect_from: /news/182845
 ---
 
 Tras aclarar que ella no fue la responsable de filtrar el video intimo de su ex yerno, Gabriel Soto, la mamá de Geraldine Bazán, Rosalba Ortiz, decidió hablar de las dificultades y críticas que ha enfrentado su hija tras su separación del actor debido a una supuesta infidelidad de él con Irina Baeva. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue en el programa Miembros al Aire en donde José Eduardo Derbez compartió cómo fue que su padre paró el bullying que vivía en la escuela; rompió en llanto al recibir un mensaje en programa en vivo. "
 image: "/uploads/2021/images-jose-eduardo-derbez-comparte-eugenio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "A la kermés nunca iba” -  José Eduardo Derbez llora por mensaje de Eugenio Derbez; así paró bullying"
 front: false
 section: "Espectáculos"
-news_id: 185134
+redirect_from: /news/185134
 ---
 
 José Eduardo Derbez, hijo de Victoria Ruffo y Eugenio Derbez, se conmovió hasta las lágrimas en un programa especial de Televisa en el marco del Día del Padre. El joven contó la vez que su papá le ayudó a parar el bullying que vivía en la escuela y rompió en llanto al recibir un mensaje del comediante. ¿Qué le dijo? ¿Cómo paró el bullying? ¿Por qué lloró?  Fue en el programa Miembros al Aire en donde José Eduardo Derbez se unió a la celebración del Día del Padre. Mientras algunos compartieron su experiencia como papás, José Eduardo como hijo. 

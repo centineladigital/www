@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te decimos cuándo se estrena y dónde puedes ver la película de 'Spirit: el indomable', la película donde participa Eiza González en inglés y español. "
 image: "/uploads/2021/images-todo-lo-que-debes-saber-11.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Con participación de Eiza González! Todo lo que debes saber sobre 'Spirit -  el indomable'"
 front: false
 section: "Espectáculos"
-news_id: 184928
+redirect_from: /news/184928
 ---
 
 Muchos recuerdan a Spirit, un carismático caballo que se robó los corazones de las salas de cine en 2002 con la película Spirit: el corcel indomable; ahora llega con una nueva entrega, titulada 'El indomable', en la que estará involucrada la actriz mexicana Eiza González, tanto en la versión en español como en inglés. 

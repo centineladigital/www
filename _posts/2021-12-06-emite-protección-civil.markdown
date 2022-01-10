@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se esperan rachas de hasta 50 km/h en la entidad para este lunes 6 de diciembre"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite Protección Civil Estatal aviso preventivo por vientos fuertes en el estado"
 front: false
 section: "Local"
-news_id: 190538
+redirect_from: /news/190538
 ---
 
 La Coordinación Estatal de Protección Civil emitió un aviso preventivo a la ciudadanía, en virtud de que, para este lunes 6 de diciembre, se esperan fuertes vientos en la entidad impulsados por la entrada de un nuevo sistema frontal.

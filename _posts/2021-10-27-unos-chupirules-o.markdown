@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante recurrió a sus redes sociales para responder si está separada de Matías Aranda y aclarar sus supuestos problemas con el alcohol. "
 image: "/uploads/2021/images-yuridia-reacciona-rumores-separacion-esposo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Unos chupirules o qué? -  Yuridia reacciona a rumores sobre ruptura con su esposo por alcoholismo"
 front: false
 section: "Espectáculos"
-news_id: 189243
+redirect_from: /news/189243
 ---
 
 Hace unos días, Yuridia dio de qué hablar cuando reveló que fingió estar feliz cuando entró a La Academia, donde además la amenazaron con sacarla si no tenía noviazgo con un participante. Tras sus declaraciones, la cantante volvió al 'ojo del huracán' luego de que una revista de circulación nacional asegurara que está a punto de separarse de su esposo, Matías Aranda, debido a los problemas que supuestamente ella tiene con el alcohol, razón por la que él habría dejado su casa. Luego de los rumores sobre su vida privada, Yuridia decidió romper el silencio y aclarar si está separada de Matías Aranda, con quien mantiene una relación sentimental desde de hace unos 12 años, además de ser su  mánager. La cantante también aprovechó para hablar de su supuesto alcoholismo. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jesús Corona considera que es atractivo el reto de conseguir 10 victorias consecutivas, como la racha que consiguieron en los años 70"
 image: "/uploads/2021/images-2545842.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ilusión en Cruz Azul por igualar racha"
 front: false
 section: "Deportes"
-news_id: 183432
+redirect_from: /news/183432
 ---
 
 José de Jesús Corona, portero de Cruz Azul, aceptó que en el campamento celeste les ilusiona el poder igualar la racha de 10 victorias consecutivas que se consiguió en la institución en la temporada 1971-72, por lo que buscarán vencer al Atlas el próximo fin de semana para que esto suceda, aunque dejó en claro que lo más importante para el equipo será el disputar de buena manera la liguilla del Guardianes 2021.

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Con este acercamiento se busca establecer lazos con las entidades que forman parte de la primera etapa de implementación de la Reforma Laboral que permitan a Chihuahua poner en marcha procesos más eficientes y certeros"
 image: "/uploads/2021/images-unnamed_(12).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reúne STPS con autoridades laborales del  Estado de México y Michoacán   "
 front: false
 section: "Local"
-news_id: 190785
+redirect_from: /news/190785
 ---
 
 Con el propósito de intercambiar información y experiencias encaminadas a una exitosa implementación de la Reforma al Sistema de Justicia Laboral en Chihuahua, el Secretario del Trabajo y Previsión Social (STPS), Diódoro Siller Argüello, se reunió con la Secretaria del Trabajo del Estado de México, Martha Hilda González Calderón y el Director de Gestión Laboral de la Subsecretaría de Asuntos Laborales de Michoacán, Irving Arizmendi Martínez.

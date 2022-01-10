@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "'Fe' es un proyecto totalmente familiar, pues además de Montaner, su yerno Camilo, sus hijos Mau, Ricky y Evaluna, y amigos de ellos, participaron en la composición, colaboraciones y producción. "
 image: "/uploads/2021/images-un-material-donde-montaner-explora.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Le debía a Dios un disco así -  Ricardo Montaner revela detalles de 'Fe', su nuevo álbum"
 front: false
 section: "Espectáculos"
-news_id: 184771
+redirect_from: /news/184771
 ---
 
 Debido a que actualmente puede hacer música “sin pensar sólo en las ganancias”, Ricardo Montaner pudo atender su “necesidad” de lanzar un disco dedicado a “la adoración y la alabanza a Jesucristo” al que ha dado el nombre de Fe.  El cantautor de 63 años indicó que "le debía a Dios un disco así y yo necesitaba hacerlo. Sentí que era el momento, porque todos necesitamos un alivio en estos tiempos tan difíciles que estamos viviendo, en especial los que no se han acercado al Padre, o los que creían pero se alejaron por alguna circunstancia de la vida”. 

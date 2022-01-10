@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-MJ01_LILIA_MERODIO.mp4"
 alt: "Desconoce gobierno alerta por cebolla chihuahuense contaminada"
 front: false
 section: "Local"
-news_id: 189039
+redirect_from: /news/189039
 ---
 
 Tanto la titular de la Secretaría de Desarrollo Rural como el Secretario General de Gobierno dijeron desconocer la alerta emitida por la FDA, esto por 37 entidades de Estados Unidos cuentan con casos de salmonela derivados del consumo de cebollas originarias de Chihuahua.

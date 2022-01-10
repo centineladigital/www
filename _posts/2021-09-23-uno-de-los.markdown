@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La estrella será dedicada en la categoría de grabación y estará situada en 1750 Vine Street, frente al edificio de Capitol Records. "
 image: "/uploads/2021/images-alejandro-sanz-convierte-rey-mago_0_18_499_310.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Uno de los grandes! Alejandro Sanz tendrá una estrella en el Paseo de la 'Fama de Hollywood'"
 front: false
 section: "Espectáculos"
-news_id: 187990
+redirect_from: /news/187990
 ---
 
 Alejandro Sanz tendrá una estrella con su nombre en el Paseo de la Fama de Hollywood que el propio cantante descubrirá en una ceremonia el próximo 1 de octubre, según ha anunciado hoy la Cámara de Comercio de este barrio de Los Ángeles. 

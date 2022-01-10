@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Según las primeras versiones, la mujer se reencontró con el presunto abusador unos años después, lo convenció de salir con ella y lo citó en el motel, donde lo mató. "
 image: "/uploads/2021/images-lisby-detenida-encarcelada-hallazgo-cuerpo_0_0_1197_744.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Honduras, mujer de 18 años mata al hombre que presuntamente la violó cuando era niña"
 front: false
 section: "Internacional"
-news_id: 185527
+redirect_from: /news/185527
 ---
 
 Lisby 'N', de 18 años, asesinó a Adonay 'N', de 50, porque el hombre presuntamente violó a la mujer cuando era niña. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En la ciudad de Chihuahua y 20 municipios más se esperan precipitaciones de entre 5.1 y 25 mm de concentración, indica la dependencia estatal; alerta por rachas de 55 km/h en Parral y Coyame, así como de tolvaneras en el tramo a Jiménez  "
 image: "/uploads/2021/images-Lluvias_fuertes_estado_2019_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Posibilidad de lluvias fuertes en la Sierra Tarahumara -  Protección Civil"
 front: false
 section: "Local"
-news_id: 187405
+redirect_from: /news/187405
 ---
 
 Para este viernes 3 de septiembre se pronostican lluvias fuertes en los municipios de la Sierra Tarahumara, mientras que en la ciudad de Chihuahua serán de dispersas a moderadas con intervalos de chubascos, informó la Coordinación Estatal de Protección Civil (CEPC).

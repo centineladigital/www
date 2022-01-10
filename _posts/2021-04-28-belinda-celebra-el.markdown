@@ -12,13 +12,13 @@ tags:
   
 author: nil
 description: "La cantante felicitó con un pastel a Christian Nodal por el éxito de su tema musical Botella tras botella, pero el cantante le jugó una broma pesada; ¿se enojó? "
-image: "nil"
-video: "nil"
-audio: "nil"
+image: nil
+video: nil
+audio: nil
 alt: "Belinda celebra el éxito de Christian Nodal y él le da un pastelazo -  Te mandaste"
 front: false
 section: "Espectáculos"
-news_id: 184170
+redirect_from: /news/184170
 ---
 
 Belinda está celebrando por alto el triunfo, pues su equipo se coronó con el primer lugar de La Voz Kids gracias al carisma y talento musical de Randy. En medio de su éxito, la intérprete de "Amor a primera vista" festejó también los logros de Christian Nodal, quien el pasado martes sumó ya 45 millones de reproducciones de "Botella tras botella", tema musical para el que colaboró con el rapero Gera MX.  A través de sus historias de Instagram, la cantante compartió la romántica velada que tuvo con Christian Nodal en un elegante restaurante, donde Belinda ordenó un pastel  para celebrar que su pareja está batiendo los récords; sin embargo, el intérprete de "Adiós amor" le jugó una pesada broma a la también actriz. 

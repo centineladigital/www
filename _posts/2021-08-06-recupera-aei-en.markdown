@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Como resultado de un trabajo de inteligencia realizado por elementos de la Agencia Estatal de Investigación, se recuperó en el municipio de Satevó una pick up y un vehículo tipo racer robados con violencia en la ciudad de Chihuahua."
 image: "/uploads/2021/images-VEHICULOS_ASEGURADOS.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recupera AEI en Satevó, vehículos robados con violencia en la Ciudad de Chihuahua"
 front: false
 section: "Local"
-news_id: 186379
+redirect_from: /news/186379
 ---
 
 El pasado lunes, policías investigadores recorrían una brecha que conduce de San José del Sitio al Valle del Rosario con el objetivo de localizar los automotores, cuando fueron agredidos con disparos de armas de fuego, por lo que repelieron la agresión y ninguno de los agentes resulto lesionado.

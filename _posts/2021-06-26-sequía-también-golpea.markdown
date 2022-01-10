@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Representa un golpe para las localidades por las que pasa la cuenca que desemboca en el río Bravo al norte de la frontera con  Estados Unidos"
 image: "/uploads/2021/images-CUENCA1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sequía también golpea a la cuenca del río Conchos; captación de agua baja 80%"
 front: false
 section: "Local"
-news_id: 185254
+redirect_from: /news/185254
 ---
 
 La falta de lluvias durante los últimos dos años en el estado de Chihuahua, ha generado que debido a la sequía que presentan los municipios que nutren al Conchos de agua, este presente una disminución en su torrente del 80 por ciento, de acuerdo a información que da la Comisión Nacional del Agua (Conagua). Durante su recorrido hacía al norte para unirse al Bravo y luego desembocar en el Golfo de México, este río serpentea por la mayor parte de los municipios del estado, donde su don benefactor para agricultura y ganadería está desapareciendo.

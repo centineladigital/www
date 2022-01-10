@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El lagunero ha sido creador de numerosos éxitos que lo han colocado como uno de los artistas más completos y talentosos a nivel nacional. "
 image: "/uploads/2021/images-lagunero-bruno-danzza-demostrado-joven.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Consigo que las canciones tengan un sello personal, Bruno Danzza, cantautor lagunero sin límites"
 front: false
 section: "Espectáculos"
-news_id: 189671
+redirect_from: /news/189671
 ---
 
 Creador de numerosos éxitos como "Mi error, mi fantasía" y "Mírame", en la voz de Edith Márquez, “Y qué tal si te vas”, en la de Lupita D’Alessio y “Lo que tenías conmigo”, en la de María José, entre muchos otros más, el lagunero Bruno Danzza ha demostrado desde jovencito su pasión por la música, misma que lo ha llevado por un largo recorrido de enormes experiencias y que lo han colocado como uno de los artistas más completos y talentosos a nivel nacional, dejando en alto a la Comarca Lagunera. 

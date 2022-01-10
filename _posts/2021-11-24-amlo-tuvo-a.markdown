@@ -20,11 +20,11 @@ author: nil
 description: "“Es bueno que se tome en cuenta a las mujeres para ocupar cargos de tal alta trascendencia en el país en materia económica”"
 image: "/uploads/2021/images-victoria_rodriguez-350.jpg_1093282975.jpg"
 video: "/uploads/2021/videos-BW03_OSCAR_CASTREJON.mp4"
-audio: "nil"
+audio: nil
 alt: "AMLO tuvo a bien elegir a Victoria Rodríguez como titular de Banxico "
 front: false
 section: "Local"
-news_id: 190173
+redirect_from: /news/190173
 ---
 
 El diputado Óscar Castrejón, externó su apoyo incondicional a la subsecretaría de egresos de la Secretaria de Hacienda y Crédito Publico Victoria Rodríguez Ceja la cual ha sido propuesta por el Presidente Andrés Manuel López Obrador como nueva titular de BANXICO.

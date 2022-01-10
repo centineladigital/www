@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El quinto juego se disputará este jueves a las 19:30 horas locales (21:30 del centro de México), con Javier Solano, de Charros, y Miguel Peña, de Águilas, como abridores. "
 image: "/uploads/2021/images-charros-jalisco-empatados-mexicali-serie.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Águilas de Mexicali le empata la serie de playoffs a Charros de Jalisco"
 front: false
 section: "Deportes"
-news_id: 191339
+redirect_from: /news/191339
 ---
 
 En un duelo que tuvo 11 innings, Águilas venció 4-3 a Charros de Jalisco en el cuarto juego de la serie del primer playoff, por lo que se iguala a dos triunfos por bando y asegura, al menos, el sexto juego de regreso en Zapopan a disputarse el sábado 1 de enero de 2022. 

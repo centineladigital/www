@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Coepi en conjunto con compañías de payasos teatrales, llevaron su espectáculo a niñas y niños ralámuli, de más de 20 localidades indígenas urbanas y de la Sierra Tarahumara"
 image: "/uploads/2021/images-COEPI_ESPECTÁCULOS_CLOWN_PUEBLOS_ORIGINARIOS_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Llevan presentaciones artísticas a comunidades  de pueblos originarios del estado"
 front: false
 section: "Local"
-news_id: 186352
+redirect_from: /news/186352
 ---
 
 La Comisión Estatal para los Pueblos Indígenas (Coepi) colaboró con las compañías internacionales Clowns Without Borders U.S.A. (Payasos Sin Frontera E.U.A.) y Big Heart Circus (Circo del Gran Corazón), para llevar a cabo una serie de presentaciones en beneficio de más de 500 infantes de pueblos originarios.

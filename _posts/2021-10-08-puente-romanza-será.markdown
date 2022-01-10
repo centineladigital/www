@@ -16,11 +16,11 @@ author: nil
 description: "Se está trabajando en las últimas etapas como alumbrado, desarrollo de las vialidades debajo del puente."
 image: "/uploads/2021/images-big_ulxk9hyq.jpg"
 video: "/uploads/2021/videos-BV03_RODOLFO_ARMENDARIZ_.mp4"
-audio: "nil"
+audio: nil
 alt: " Puente Romanza será inaugurado el 09 de noviembre "
 front: false
 section: "Local"
-news_id: 188537
+redirect_from: /news/188537
 ---
 
 El Director de Obras Públicas del Municipio de Chihuahua Rodolfo Armendáriz, declaró que el tan esperado puente Romanza ya tiene fecha para su inauguración la cual será el día 09 de noviembre, comentó que se está trabajando en las últimas etapas como alumbrado, desarrollo de las vialidades debajo del puente.

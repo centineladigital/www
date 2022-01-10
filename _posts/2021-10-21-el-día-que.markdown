@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Héctor Suárez Gomís recordó a su padre en una entrevista y en ella contó que en una ocasión casi llegó a los golpes con él en una pelea."
 image: "/uploads/2021/images-hector-suarez-gomis-dedico-libro.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El día que Héctor Suárez tuvo una fuerte pelea con su hijo -  Nos dejamos de hablar"
 front: false
 section: "Espectáculos"
-news_id: 189011
+redirect_from: /news/189011
 ---
 
 Hace algunos meses murió el actor Héctor Suárez, quien divirtió a los mexicanos con sus grandes actuaciones y críticas con humor negro, sin duda, dejó un gran legado y es algo que recordó su hijo, Héctor Suárez Gomís. En una entrevista, el primogénito del actor contó algunas anécdotas que vivió con él, entre ellas que en una ocasión casi llegó a los golpes mientras los dos discutían. En una entrevista para el programa La Saga, Héctor Suárez Gomís habló sobre su padre y fue ahí que mencionó que en el 2003 tuvo una discusión muy fuerte con él, al grado de que estuvieron a punto de llegar a los golpes. Suárez Gomís reveló que la pelea se detonó por el problema de alcoholismo que tenía Héctor Suárez. 

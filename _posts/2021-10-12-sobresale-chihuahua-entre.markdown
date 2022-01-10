@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "De acuerdo con la organización México Evalúa, la entidad destaca entre los primeros lugares en cantidad de Ministerios Públicos, Policías Investigadores y Peritos por cada cien mil habitantes"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sobresale Chihuahua entre los estados con mayores capacidades operativas del Sistema de Justicia Penal"
 front: false
 section: "Local"
-news_id: 188660
+redirect_from: /news/188660
 ---
 
 De acuerdo con el estudio elaborado por la organización “México Evalúa”, titulado “Hallazgos 2020”, Chihuahua es una de las entidades federativas que sobresale en cuanto a las capacidades operativas del Sistema de Justicia Penal (SJP).

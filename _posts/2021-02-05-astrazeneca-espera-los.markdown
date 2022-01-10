@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Yo diría que en las próximas cuatro o seis semanas deberíamos tener los resultados de la lectura de ese estudio, dijo el jefe de investigación de la farmacéutica"
 image: "/uploads/2021/images-2524359.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AstraZeneca espera los resultados del ensayo de su vacuna en EU"
 front: false
 section: "Internacional"
-news_id: 182721
+redirect_from: /news/182721
 ---
 
 AstraZeneca espera obtener losresultados del ensayo clínico de su vacuna de COVID-19 en Estados Unidos en las próximas cuatro o seis semanas, según declaró el viernes el jefe de investigación de la farmacéutica, Mene Pangalos.

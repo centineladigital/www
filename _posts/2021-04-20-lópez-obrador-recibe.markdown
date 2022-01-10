@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este martes el mandatario recibió por parte de personal médico-militar la primera dosis contra Covid-19; llama a los adultos mayores a protegerse contra la pandemia"
 image: "/uploads/2021/images-2565331.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "López Obrador recibe vacuna de AstraZeneca; ‘no duele’"
 front: false
 section: "Nacional"
-news_id: 183980
+redirect_from: /news/183980
 ---
 
 El presidente Andrés Manuel López Obrador recibió este martes la vacuna contra el Covid-19 al término de la rueda de prensa matutina.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El caricaturista salvadoreño Edwin Aguilar, quien por décadas ilustró los personajes de la serie Los Simpson, falleció el sábado pasado en Los Ángeles a los 47 años de edad. "
 image: "/uploads/2021/images-murio-edwin-aguilar-artista-salvadoreno.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Edwin Aguilar, el artista salvadoreño que dibujó a 'Los Simpson'"
 front: false
 section: "Espectáculos"
-news_id: 183848
+redirect_from: /news/183848
 ---
 
 Edwin Aguilar, reconocido ilustrador por ser uno de los dibujantes de la serie “Los Simpsons” por más de dos décadas, murió el pasado sábado 10 de abril a causa de una trombosis cerebral, según informaron sus familiares. La noticia sobre el fallecimiento del creador de origen salvadoreño ha conmocionado a sus seguidores. Te contamos lo que sabemos. El caricaturista salvadoreño Edwin Aguilar, quien por décadas ilustró los personajes de la serie "Los Simpson", falleció el sábado pasado en Los Ángeles a los 47 años de edad. Al respecto, la plataforma Amicohoops indicó que Aguilar había estado en la unidad de cuidados intensivos desde el 7 de abril. 

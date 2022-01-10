@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los legisladores de la coalición gobernante de izquierda y otros partidos la apoyaron, mientras que los congresistas conservadores y de extrema derecha votaron en contra y prometieron revocar la legislación en el futuro"
 image: "/uploads/2021/images-2547234.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "España aprueba ley de eutanasia, es el séptimo país en regularla"
 front: false
 section: "Internacional"
-news_id: 183460
+redirect_from: /news/183460
 ---
 
 El Congreso de los Diputados votó el jueves para convertir a España en el séptimo país del mundo y el cuarto de Europa en permitir la eutanasia y el suicidio médicamente asistido para pacientes con enfermedades incurables y personas con padecimientos permanentes e insoportables.

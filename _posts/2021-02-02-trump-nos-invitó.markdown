@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Varios de los acusados en relación al asalto al Capitolio tratan de echar parte de la culpa al expresidente Donald Trump mientras se defienden en la corte"
 image: "/uploads/2021/images-2522192.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Trump nos invitó', aseguran acusados del asalto al Capitolio"
 front: false
 section: "Internacional"
-news_id: 182620
+redirect_from: /news/182620
 ---
 
 Emanuel Jackson, un joven de 20 años del área de Washington, fue captado en video usando un bate de metal para golpear los escudos protectores de los agentes de policía que intentaban impedir el asalto al Capitolio de Estados Unidos el 6 de enero.

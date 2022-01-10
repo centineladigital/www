@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente López Obrador descartó presentar alguna propuesta para reformar a la institución, pues señaló que eso corresponde a los universitarios y afirmó ser respetuoso de la autonomía universitaria"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO señala al exrector José Narro como jefe del grupo dominante en la UNAM"
 front: false
 section: "Nacional"
-news_id: 189292
+redirect_from: /news/189292
 ---
 
 Al acusar al exrector  José Narro como “jefe del grupo dominante” en la UNAM, el presidente Andrés Manuel López Obrador descartó presentar alguna propuesta para reformar a la institución, pues señaló que eso corresponde a los universitarios y afirmó ser respetuoso de la autonomía universitaria.

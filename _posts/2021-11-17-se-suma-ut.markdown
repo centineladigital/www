@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los litros en la presentación tetra pak se reciben en la Unidad Académica Meoqui"
 image: "/uploads/2021/images-L1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se suma UT de Camargo a colecta de leche para niñas y niños de escasos recursos en Meoqui"
 front: false
 section: "Local"
-news_id: 189929
+redirect_from: /news/189929
 ---
 
 Como parte de las actividades de vinculación con la comunidad, la Unidad Académica Meoqui de la Universidad Tecnológica de Camargo (UT de Camargo) se sumó a las actividades de asistencia social realizadas por el Club Activo 20-30 Meoqui, organismo que lleva a cabo el “Lechetón 2021”.

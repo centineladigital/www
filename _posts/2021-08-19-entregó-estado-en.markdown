@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Por primera vez en Chihuahua se entregaron de forma gratuita uniformes y paquetes de útiles escolares a estudiantes de Educación Básica en todos los municipios"
 image: "/uploads/2021/images-Ronda_escolar_2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregó Estado en 5 años   132,933 becas en todos los niveles educativos"
 front: false
 section: "Local"
-news_id: 186881
+redirect_from: /news/186881
 ---
 
 Durante la rendición de cuentas como parte de su Quinto Informe de Gobierno, el gobernador Javier Corral destacó que se entregaron un total de 132 mil 933 becas en todos los niveles educativos, con una inversión de 260 millones de pesos.

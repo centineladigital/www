@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La agrupación chicana aseguró que su objetivo es conectar con sus fans."
 image: "/uploads/2021/images-el-grupo-se-encuentra-actualmente_39_0_707_440.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Música. La nueva era del rock con Mrs. Henry"
 front: false
 section: "Espectáculos"
-news_id: 189693
+redirect_from: /news/189693
 ---
 
 La banda chicana Mrs. Henry, formada en 2015, quiere dejar huella en el rock a través de sus rolas y su nuevo disco Keep on Rising. Cervantes, en la guitarra y voz, Blake Dean, en el bajo, Chad Lee, en la batería, y Jody Bagley, en los teclados no han parado de hacer lo que más aman: entregarse a la música. En este álbum combinan el blues, el folk, el grunge de los 90 y mucho mucho rock, con influencias de The Who, The Rolling Stones y también Pink Floyd. Daniel Cervantes nació en San Diego, California. Su madre, estadunidense, buscaba que se dedicara a algo más teatral; sin embargo, su padre Francisco Cervantes lo apoyó para que formara su banda y le dedicara más tiempo al rock. 

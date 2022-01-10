@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Una joven expuso a Matthew Perry, aseguró que el actor de Friends coqueteó con ella tras conocerse en una app de citas. "
 image: "/uploads/2021/images-una-mujer-expuso-al-actor.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡No sólo Ben Affleck! Matthew Perry coqueteó con mujer 30 años menor que él en app de citas"
 front: false
 section: "Espectáculos"
-news_id: 184353
+redirect_from: /news/184353
 ---
 
 Las apps de citas se han vuelto muy populares, sobre todo durante la cuarentena y los famosos no se han salvado de usarlas como Ben Affleck, quien hace unos días se volvió viral ya que una joven reveló que rechazó al actor en una de estas aplicaciones y ahora una mujer expuso a Matthew Perry, el histrión coqueteó con ella quien es 30 años menor que el protagonista de Friends. Fue a través de TikTok que una joven de 20 años llamada Kate Haralson publicó un video en donde evidenció que mantuvo una videollamada con Matthew Perry, esto después de que ambos se conocieran en la app de citas Raya, que es utilizada por varias celebridades con la finalidad de que se conozcan y al final tengan una cita.

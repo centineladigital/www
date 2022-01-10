@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El rebrote de la pandemia se ha dado principalmente en el área metropolitana de Seúl; la vacunación en el país se acerca al 80 por ciento de la población en el país y hay bajas tasas de mortalidad. "
 image: "/uploads/2021/images-corea-sur-controlando-propagacion-pandemia_0_1_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Corea del Sur registra cifras récord de covid-19; reporta más de 4 mil 100 nuevos casos"
 front: false
 section: "Internacional"
-news_id: 190136
+redirect_from: /news/190136
 ---
 
 Corea del Sur informó el martes (tiempo local) de un nuevo récord diario de 4 mil 116 nuevos casos de covid-19, mientras el país lucha por contener un aumento en los casos graves que requieren hospitalización, dijo el miércoles la Agencia de Prevención y Control de Enfermedades de Corea (KDCA), que incluso superó a la ola registrada el año pasado. 

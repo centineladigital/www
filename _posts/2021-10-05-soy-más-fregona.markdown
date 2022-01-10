@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante mexicana señaló que los artistas del género urbano son hermosos y aseguró que el reguetón es una música bailable. "
 image: "/uploads/2021/images-paquita-barrio-aclara-colaborara-bad_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Soy más fregona -  Paquita la del Barrio aclara si colaborará con Bad Bunny"
 front: false
 section: "Espectáculos"
-news_id: 188379
+redirect_from: /news/188379
 ---
 
 Paquita la del Barrio desató la euforia entre sus fans luego de su encuentro con varios astros del género urbano en los premios Billboard Latin Music, en especial por el momento viral que vivió a lado de Bad Bunny, a quien llamó "inútil" en pleno escenario mientras recibía el galardón de honor a su trayectoria. Ahora, la cantante mexicana aclaró si incursionará en el reguetón y prepara colaboración con el intérprete de "Dákiti".  En un encuentro con los medios de comunicación, Paquita la del Barrio aseguró que los artistas urbanos "son hermosos" y les agradeció por todo el cariño, además de la atención que le brindaron durante la premiación.  

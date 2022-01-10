@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El gobierno del estado de Veracruz ejecutó una orden de aprehensión contra la exlegisladora del PRD; denuncia Jesús Zambrano persecución política"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tras horas de perder el fuero, detienen por homicidio a la exdiputada federal, Azucena Rodríguez"
 front: false
 section: "Nacional"
-news_id: 187393
+redirect_from: /news/187393
 ---
 
 El gobierno de Veracruz ejecutó una orden de aprehensión contra la exdiputada federal Azucena Rodríguez, quien perdió el fuero hace apenas unas horas.

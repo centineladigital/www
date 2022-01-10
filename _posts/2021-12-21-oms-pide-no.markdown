@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La semana pasada, ómicron fue responsable del 73.2% de los nuevos casos detectados en Estados Unidos, según los Centros para el Control y Prevención de Enfermedades"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "OMS pide no festejar Navidad y Año Nuevo ante amenaza de Ómicron, que ya domina EU"
 front: false
 section: "Internacional"
-news_id: 191058
+redirect_from: /news/191058
 ---
 
 La variante ómicron es ahora la cepa de coronavirus dominante en Estados Unidos, mientras la OMS pide más esfuerzos para garantizar el fin de la pandemia el año próximo.

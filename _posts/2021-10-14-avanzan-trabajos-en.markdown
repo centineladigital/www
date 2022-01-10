@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A la fecha se tiene un avance del 15 por ciento"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avanzan trabajos en crucero de prolongación Teófilo Borunda a la altura del Parque El Reliz"
 front: false
 section: "Local"
-news_id: 188731
+redirect_from: /news/188731
 ---
 
 El Gobierno Municipal a través de la Dirección de Obras Públicas sigue trabajando en la modernización del crucero en la prolongación Teófilo Borunda y calle Pedro Zuloaga, el cual registra un avance del 15 por ciento de las labores ejecutadas.

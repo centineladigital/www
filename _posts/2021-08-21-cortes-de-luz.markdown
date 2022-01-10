@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Carreteras interestatales se mantienen abiertas a la circulación"
 image: "/uploads/2021/images-baja-temperatura-lluvia-constante-registra.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cortes de luz por postes y techos caídos, el paso de Grace por Puebla"
 front: false
 section: "Nacional"
-news_id: 186971
+redirect_from: /news/186971
 ---
 
 Lluvias torrenciales desde los primeros minutos de este sábado y algunos postes caídos que han provocado fallas en el servicio de energía eléctrica son los estragos que dejó el huracán Grace en su paso por Puebla. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Salvador Franco, Cinthia Paola y el pequeño Ángel están en la búsqueda de encontrar a sus parientes"
 image: "/uploads/2021/images-Trabajo_fiscalía_2_pesquisa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ayúdanos a localizar a sus familias"
 front: false
 section: "Local"
-news_id: 184566
+redirect_from: /news/184566
 ---
 
 Se solicita la colaboración para localizar a familiares de Salvador Franco Robles, de 75 años de edad, quien es originario de San Martín de Bolaños, en el estado de Jalisco; y quien podría tener una hija de nombre Enedina Franco, que se presume podría residir en el estado de Sinaloa, de acuerdo al reporte generado por la Subprocuraduría Auxiliar de Protección de Niñas, Niños y Adolescentes, que colabora con la investigación interestatal, en apoyo a los sistemas de otras entidades.

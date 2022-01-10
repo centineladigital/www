@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Camila Sodi subió una clip a redes sociales; internautas comenzaron a compararla con Thalía. De forma contundente respondió. "
 image: "/uploads/2021/images-comparan-camila-sodi-thalia-cansada.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ya supérenlo -  Camila Sodi 'estalla' tras comparaciones con Thalía en redes sociales"
 front: false
 section: "Espectáculos"
-news_id: 187674
+redirect_from: /news/187674
 ---
 
 Camila Sodi explotó en contra de las personas que la siguen comparando con su tía Thalía. Y es que enredes sociales es habitual que las personas la comparen con la cantante de ‘Amor a la mexicana’. Por ello, muy a su estilo la famosa actriz de ‘Luis Miguel, la serie’ respondió de forma contundente a quienes insisten en compararla e incluso crear una rivalidad imaginaria con su familiar. Fue a través de su cuenta oficial de Instagram, en donde Camila Sodi compartió un video en el que apareció posando con un top dorado y con un filtro de hada en el que dijo que amaba a sus seguidores que la han apoyado a lo largo de su carrera. “Los amo, los amo, los amo”, escribió Camila Sodi.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente comentó que grandes corporaciones pagan muy poquito por la luz "
 image: "/uploads/2021/images-andres-manuel-lopez-obrador-106.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sin reforma eléctrica, empresas se apoderarán de todo el mercado, dice AMLO"
 front: false
 section: "Nacional"
-news_id: 188566
+redirect_from: /news/188566
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que sin la reforma eléctrica, las empresas en la materia terminarían por apoderarse de todo el mercado y las tarifas de luz subirían “por las nubes”. 

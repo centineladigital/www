@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se recibirán propuestas a partir del 5 de noviembre al 10 de diciembre; edición del 2019 dejó una derrama económica de 170 mil mdp para 25 municipios"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Convoca Estado a participar en el festival FITA 2022 con proyectos de turismo de aventura"
 front: false
 section: "Local"
-news_id: 189589
+redirect_from: /news/189589
 ---
 
 La Dirección de Turismo a través de la Secretaria de Innovación y Desarrollo Económico (SIDE) de Gobierno del Estado de Chihuahua abrió la convocatoria para la edición 2022 del Festival Internacional de Turismo de Aventura (FITA), mismo que se enfoca en dar promoción a los atractivos naturales, culturales y recreativos, realizados en las entidades con la finalidad de beneficiar directamente a las comunidades.

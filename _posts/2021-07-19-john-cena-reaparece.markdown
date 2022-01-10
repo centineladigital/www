@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Tras retener el Título Universal, Roman Reigns recibió el reto de John Cena, quien regresa a la WWE después de estar más de un año sin luchar"
 image: "/uploads/2021/images-Sin_título.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "John Cena reaparece en WWE Money In The Bank; va por el Campeonato Universal de Roman Reigns"
 front: false
 section: "Deportes"
-news_id: 185781
+redirect_from: /news/185781
 ---
 
 El evento de Money In The Bank tuvo de vuelta a la afición, pero nadie contaba con el regreso de John Cena, quien ya mandó un mensaje claro: va por el campeonato Universal de Roman Reigns.

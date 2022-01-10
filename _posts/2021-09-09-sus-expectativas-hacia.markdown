@@ -12,11 +12,11 @@ author: nil
 description: "No se le puede apostar al fracaso de una administración: Edín Estrada "
 image: "/uploads/2021/images-EDIN.jpg.crdownload"
 video: "/uploads/2021/videos-BJ01_EDIN_ESTRADA.mp4"
-audio: "nil"
+audio: nil
 alt: "Sus expectativas hacia la nueva administración son favorables"
 front: false
 section: "Local"
-news_id: 187583
+redirect_from: /news/187583
 ---
 
 Edín Cuauhtémoc Estrada Sotelo diputado de distrito 8 por morena declaró que sus expectativas hacia el gobierno  de Maru Campos tras la toma de protesta ejercida el 8 de septiembre del presente año son favorables.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Agencia Europea de Medicamentos determina que los coágulos sanguíneos presentados en personas vacunadas con AstraZeneca deben ser considerados como un efecto secundario 'muy raro'"
 image: "/uploads/2021/images-2558323.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Coágulos por vacuna AstraZeneca, efecto secundario 'muy raro' -  EMA"
 front: false
 section: "Internacional"
-news_id: 183728
+redirect_from: /news/183728
 ---
 
 La Agencia Europea de Medicamentos (EMA) estimó este miércoles que los coágulos sanguíneos que han sufrido personas vacunadas con el fármaco anticovid de AstraZeneca deben ser considerados como un efecto secundario "muy raro" del fármaco.

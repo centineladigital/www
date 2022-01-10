@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¿Qué fue lo que ocurrió? Desde esta madrugada, medios locales reportaron que el hotel en Tulum de Roberto Palazuelos se había incendiado. ¿Tuvo algo que ver el pasado evento en el que un grupo de personas intentaron quemar su propiedad? "
 image: "/uploads/2021/images-roberto-palazuelos-lanza-amenaza-personas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Qué pasó? Reportan incendio en hotel de Roberto Palazuelos en Tulum; esto sabemos"
 front: false
 section: "Espectáculos"
-news_id: 182851
+redirect_from: /news/182851
 ---
 
 Roberto Palazuelos, famoso actor y empresario mexicano, preocupó a sus seguidores, luego de que se diera a conocer que su hotel ubicado en la zona turística de Tulum, Quintana Roo, se incendió. ¿Qué fue lo que pasó? Y es que en meses previos, El Diamante Negro había informado que un grupo de personas había intentado incendiar su propiedad. ¿El hecho reciente está relacionado? Te contamos lo que sabemos. De acuerdo con medios locales de la zona, el hotel en Tulum de Roberto Palazuelos se incendió tras una explosión de un tanque de gas. Informaron que tras la explosión, el fuego logró incendiar una palapa. Es decir, el hecho no tiene nada que ver con el incidente previo a las personas que intentaron incendiar la propiedad. 

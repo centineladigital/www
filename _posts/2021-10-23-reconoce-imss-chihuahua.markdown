@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El IMSS en Chihuahua les agradece profundamente por estar con quienes en estos momentos difíciles requieren de su atención”.     "
 image: "/uploads/2021/images-Foto_5184-1.jfif"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconoce IMSS Chihuahua compromiso, empeño y trabajo de médicos en su día "
 front: false
 section: "Local"
-news_id: 189124
+redirect_from: /news/189124
 ---
 
 En el marco del Día del Médico, a celebrarse este 23 de octubre, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua reconoce el trabajo y el compromiso de hombres y mujeres dedicados a la atención de la salud en las diferentes unidades de la institución en la entidad.

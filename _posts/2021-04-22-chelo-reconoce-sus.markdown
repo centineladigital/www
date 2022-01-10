@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El compositor colombiano presenta su nueva canción en plataformas digitales."
 image: "/uploads/2021/images-cantautor-colombiano-presenta-sencillo-plataformas_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chelo reconoce sus errores en Me arrepiento"
 front: false
 section: "Espectáculos"
-news_id: 184042
+redirect_from: /news/184042
 ---
 
 Marcelo Ramírez, mejor conocido como Chelo, es un cantautor colombiano que desde muy pequeño mostró su amor por la música y los instrumentos musicales, como el saxofón y la trompeta; mezcla sus raíces con su gusto por el regional mexicano, lo que lo ha llevado a posicionarse en el gusto del público y busca seguir haciéndolo con más audiencias. Sus sencillos pasados, como el tema con el que debutó, “Suerte”, logró llegar al millón y medio de reproducciones en menos de dos meses; después vino “Sírvame otro” en compañía del reconocido cantante colombiano Jhonny Rivera, que entre sus fanáticos fue todo un éxito. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Visitaron las salas de audiencias de la Comandancia Sur y se reunieron con miembros de la DSPM"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Busca municipio de Cuauhtémoc replicar modelo de Justicia Cívica de Chihuahua Capital"
 front: false
 section: "Local"
-news_id: 188524
+redirect_from: /news/188524
 ---
 
 Funcionarios del municipio de Cuauhtémoc realizaron una visita a las salas de audiencias e instalaciones de Justicia Cívica de la Dirección se Seguridad Pública Municipal (DPSM), con el fin de replicar este modelo, por los resultados que se han logrado con este novedoso sistema de impartición de justicia administrativa.

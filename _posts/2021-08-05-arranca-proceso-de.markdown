@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“Me da gusto escuchar que hay finanzas sanas, eso es muy importante para empezar a trabajar desde el día número uno, con toda la intensidad y el compromiso que hemos hecho con las y los juarenses”: Cruz Pérez Cuéllar  "
 image: "/uploads/2021/images-06da82f9-52f6-4979-8096-f08f228f54ea.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca proceso de entrega recepción en el Municipio"
 front: false
 section: "Local"
-news_id: 186361
+redirect_from: /news/186361
 ---
 
 Ciudad Juárez.- Se dio inicio de manera formal al proceso de entrega-recepción, en el que acompañarán  al presidente municipal electo, Cruz Pérez Cuéllar, Alejandro Pérez Cuéllar quien encabeza el equipo, junto con el contador Gabriel Uranga, y la contadora Dayira Fernández.

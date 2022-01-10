@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las primeras imágenes llegan luego de una larga espera, esto debido a que la producción se vió afectada por la pandemia de coronavirus. "
 image: "/uploads/2021/images-asi-luce-emma-stone-como_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Una psicópata -  Disney lanza trailer oficial de 'Cruella' con Emma Stone y redes enloquecen"
 front: false
 section: "Espectáculos"
-news_id: 182987
+redirect_from: /news/182987
 ---
 
 Cruella con Emma Stone es una de las grandes producciones de Disney que se vio afectada por la pandemia de coronavirus; sin embargo, este miércoles Disney ha causado revuelo en redes sociales tras lanzar el tráiler oficial de la película con el anuncio del tan esperado estreno para mayo de este 2021. 

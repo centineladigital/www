@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue en una entrevista con TvNotas, en donde la también influencer defendió su religión de la santería. "
 image: "/uploads/2021/images-romina-marcos-mama-niurka-protege.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Romina Marcos confiesa que su mamá Niurka la protege con santería -  siempre traigo una pulsera"
 front: false
 section: "Espectáculos"
-news_id: 191115
+redirect_from: /news/191115
 ---
 
 Romina Marcos, hija de loa vedette Niurka, ha tomado mayor fuerza en su carrera artística, pues ha demostrado que tiene talento para la música y para el baile con su más reciente participación en ‘Las Estrellas Bailan en Hoy’, en donde salió victoriosa con el primer lugar. Sin embargo, las polémicas también ya se han hecho presente. Por ejemplo con las recientes declaraciones que emitió sobre su madre y la religión que profesan. Indicó que su mamá la protege con santería, haciendo que las personas que la lastiman se alejen de su vida. Fue en una entrevista con TvNotas, en donde la también influencer defendió su religión de la santería. Explicó que muchas personas ven esta práctica como algo negativo, pero que es todo lo contrario, pues se pueden hacer limpias para protección. 

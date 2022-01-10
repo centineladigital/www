@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "​​El recorrido será de aproximadamente 52 kilómetros sobre la carretera costera desde Mapastepec hasta llegar al municipio de Pijijiapan.   "
 image: "/uploads/2021/images-caravana-migrante-sigue-su-camino_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Caravana migrante sale de Mapastepec hacia Pijijiapan, Chiapas"
 front: false
 section: "Nacional"
-news_id: 189425
+redirect_from: /news/189425
 ---
 
 La caravana migrante, que había permanecido en el municipio de Mapastepec alrededor de 30 horas, continúa su trayecto hacia Pijijiapan, Chiapas. 

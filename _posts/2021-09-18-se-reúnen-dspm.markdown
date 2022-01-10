@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Cuya intención es continuar con los programas que se manejan a través de las 5 comisiones que lo integran. "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-18_at_09.49.41_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reúnen DSPM y COPREV para trabajar en la prevención de la violencia"
 front: false
 section: "Local"
-news_id: 187857
+redirect_from: /news/187857
 ---
 
 El director de Seguridad Pública Municipal, comisario Julio César Salas González, sostuvo la primera reunión de acercamiento con representantes del Consejo de Prevención Social de la Violencia y la Delincuencia (COPREV), cuya intención es continuar con los programas que se manejan a través de las 5 comisiones que lo integran.

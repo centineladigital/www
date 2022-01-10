@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El palacio cuenta con más de 4 mil piezas como parte de su acervo patrimonial"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Reconoce INAH a Palacio Alvarado de Parral como uno de los museos más importantes al Norte del país"
 front: false
 section: "Local"
-news_id: 190030
+redirect_from: /news/190030
 ---
 
 El Palacio Alvarado en Parral es considerado uno de los Museos más importantes en el Norte del País, debido a su bella construcción y a las más de 4 mil piezas que forman parte del acervo patrimonial que se encuentra en cada uno de los salones.

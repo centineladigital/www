@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Academia Latina de la Grabación toma medidas sanitarias especiales para el ingreso a sus eventos y así evitar contagios por el covid-19. "
 image: "/uploads/2021/images-cantante-tlaxcalteca-participara-fiesta-academia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Carlos Rivera, Ana Brenda y Roselyn Sánchez conducirán el Grammy Latino"
 front: false
 section: "Espectáculos"
-news_id: 188901
+redirect_from: /news/188901
 ---
 
 Carlos Rivera, Ana Brenda y Roselyn Sánchez serán conductores en la próxima entrega del Grammy Latino, que se celebrará el jueves 18 de noviembre en Las Vegas; y donde además de la premiación se le rendirá tributo a Rubén Blades, quien será Persona del Año por su contribución a la sociedad, a través de la música, a lo largo de su trayectoria. El cantante tlaxcalteca participará en la fiesta de la Academia Latina de la Grabación en su edición 22 luego de que el año pasado, en la edición virtual que se realizó en Miami, apenas unas horas antes canceló su participación debido a que una persona de su equipo dio positivo al covid-19.

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Mide la temperatura y la humedad de las plantas para activar el sistema de riego por goteo"
 image: "/uploads/2021/images-IMG_8044_(1).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan estudiantes de la UTCH Sur invernadero automatizado"
 front: false
 section: "Local"
-news_id: 191352
+redirect_from: /news/191352
 ---
 
 Con sensores que miden la temperatura y la humedad de las plantas de un invernadero, alumnos de la carrera de Ingeniería en Mecatrónica de la Universidad Tecnológica de Chihuahua Sur (UTCh Sur), diseñan y presentan Sistema Automatizado de Riego por Goteo.

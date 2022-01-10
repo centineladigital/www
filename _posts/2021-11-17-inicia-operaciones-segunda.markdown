@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente Municipal hizo corte de listón y reconoció el desarrollo económico que trae a la ciudad"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia operaciones segunda planta de SMTC con inversión de 10 mdd"
 front: false
 section: "Local"
-news_id: 189906
+redirect_from: /news/189906
 ---
 
 El presidente municipal de Chihuahua, Marco Bonilla Mendoza, inauguró la segunda planta de SMTC, empresa dedicada a la fabricación de tablillas electrónicas para su distribución dentro y fuera del país.

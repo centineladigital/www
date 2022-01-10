@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Arrancará la segunda dosis para los de 50 años y más."
 image: "/uploads/2021/images-CORRAL1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV02.mp3"
 alt: "Inicia la próxima semana vacunación de personas de más de 40"
 front: false
 section: "Local"
-news_id: 185116
+redirect_from: /news/185116
 ---
 
 El próximo lunes en los dos municipios más grandes del estado se concluirá con la vacunación de los 50 y más, continuando con la primera dosis de los 40 años, señaló el Gobernador del Estado Javier Corral Jurado, quien también corroboró que se recibirán vacunas para los jóvenes entre 18 y 39 años en los municipios fronterizos.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "España mostró la lista de los convocados para la Liga de Naciones de la semana que viene, el técnico español no tomo en cuenta a ningún jugador del conjunto blanco "
 image: "/uploads/2021/images-seleccion-espanola-instagram-sefutbol_0_0_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Luis Enrique ignora a jugadores del Real Madrid para lista de España; convoca a cuatro blaugranas"
 front: false
 section: "Deportes"
-news_id: 188216
+redirect_from: /news/188216
 ---
 
 Gavi Páez, el chico de 17 años que asoma como gran promesa en el Barcelona, fue convocado para el partido de España contra Italia por las semifinales de la Liga de Naciones de la semana que viene. 

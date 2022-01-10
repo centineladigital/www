@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Ártico es una de las regiones de todo el mundo donde el aumento de las temperaturas es más rápido, dado que la tasa de calentamiento es más del doble que la media mundial. "
 image: "/uploads/2021/images-hielo-artico-disminuye-doble-rapido.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alertan por nuevo récord de temperatura en el Ártico; registran máximo de 38 °C"
 front: false
 section: "Internacional"
-news_id: 190826
+redirect_from: /news/190826
 ---
 
 La Organización Meteorológica Mundial (OMM) ha reconocido como nuevo récord de temperatura en el Ártico el valor de 38 °C registrado en la localidad rusa de Verkhoyansk el 20 de junio de 2020. 

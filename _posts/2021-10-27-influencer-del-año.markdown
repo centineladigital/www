@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El polémico tiktoker compartió que está agradecido con todos sus seguidores tras estar nominado a estos premios. "
 image: "/uploads/2021/images-kunno-nominado-people-choice-awards_0_110_1080_672.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Influencer del año? Kunno es nominado a los People's Choice Awards 2021"
 front: false
 section: "Espectáculos"
-news_id: 189281
+redirect_from: /news/189281
 ---
 
 Hace unos días, Kunno dijo en una entrevista que él no se consideraba un tiktoker ni un influencer, sino una celebridad o artista; sin embargo, el creador de contenido compartió en sus redes sociales que ha sido nominado como Influencer Latino 2021 en los People's Choice Awards y llamó a sus seguidores a votar por él.  En su cuenta de Instagram, el polémico tiktoker compartió que está agradecido con todos sus seguidores tras estar nominado a estos premios, los cuales se entregan cada año a las celebridades más populares del mundo del espectáculo. 

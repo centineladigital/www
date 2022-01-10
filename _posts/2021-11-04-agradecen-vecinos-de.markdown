@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se tapan alrededor de 2 mil 500 baches a la semana   "
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Agradecen vecinos de la colonia Ángel Trías atención a reportes de bacheo"
 front: false
 section: "Local"
-news_id: 189549
+redirect_from: /news/189549
 ---
 
 El Gobierno Municipal por medio de la Dirección de Obras Públicas realiza de manera diaria la reparación de los baches que se encuentran en calles y avenidas principales, de acuerdo a un programa de rutas previamente establecidas, conformadas por las denuncias realizadas por la ciudadanía en los diferentes canales de comunicación que tiene el Ayuntamiento.

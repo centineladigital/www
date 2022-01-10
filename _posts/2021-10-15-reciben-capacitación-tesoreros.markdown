@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En dos días llevan a cabo capacitación a funcionarios municipales."
 image: "/uploads/2021/images-índice.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV06_JORGE_SOTO.mp4"
 alt: "Reciben capacitación tesoreros municipales"
 front: false
 section: "Local"
-news_id: 188791
+redirect_from: /news/188791
 ---
 
 Los 67 tesoreros municipales del estado fueron capacitados en materia financiera, con el fin eficientizar el manejo de recursos públicos diversas dependencias según lo dio a conocer Jorge Carlos Soto Prieto.

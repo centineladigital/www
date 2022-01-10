@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Sigue las recomendaciones para evitar incidentes en el hogar y en la vía pública"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Protección Civil Municipal por probables chubascos para hoy y mañana"
 front: false
 section: "Local"
-news_id: 186101
+redirect_from: /news/186101
 ---
 
 Debido a un canal de baja presión que se extenderá por el noroeste de México, la Coordinación Municipal de Protección Civil alerta a los chihuahuenses sobre posibles lluvias que se estarán presentando este jueves y viernes en la capital del estado, por lo cual es importante seguir las recomendaciones para evitar incidentes tanto en el hogar como en la vía pública.

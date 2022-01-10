@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante estadunidense no pudo evitar gritar de angustia mientras le inyectaban primera dosis de la vacuna contra covid-19. "
 image: "/uploads/2021/images-gritos-mariah-carey-recibe-vacuna_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entre gritos, Mariah Carey recibe vacuna contra covid-19; su reacción se vuelve viral"
 front: false
 section: "Espectáculos"
-news_id: 183725
+redirect_from: /news/183725
 ---
 
 Ya son varias las estrellas de Hollywood que han recibido la vacuna contra el covid-19, entre ellas Dolly Parton, Arnold Schwarzenegger, Elton John, Ian McKellen, Blake Lively y Ryan Reynolds. A la larga lista de famosos se suma la cantante estadunidense Mariah Carey, quien acudió a aplicarse la primera dosis. La intérprete de "Always be my baby" acudió a un centro de vacunación en Estados Unidos para recibir la vacuna contra el virus e invitó a sus seguidores a aplicársela sin ningún temor. Sin embargo, lo que más llamó la atención de sus millones de fans fue su inesperada, pero divertida reacción.

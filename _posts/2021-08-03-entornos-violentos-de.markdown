@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Platas señaló que como mujer es muy importante darte cuenta que ninguna merece vivir en un entorno como ese y no caer en acostumbrarse. "
 image: "/uploads/2021/images-platas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entornos violentos, de infidelidad y de drogas -  Gaby Platas revela cómo fue su matrimonio con Paco de la O"
 front: false
 section: "Espectáculos"
-news_id: 186233
+redirect_from: /news/186233
 ---
 
 La actriz y conductora Gaby Platas fue la más reciente invitada al programa de entrevistas en YouTube que conduce Mara Patricia Castañeda, donde la ex integrante de Otro Rollo reveló cómo fueron los "casi 9 años" del difícil matrimonio que vivió con el actor Paco de la O. “Afuera se ve una cosa y ya dentro de casa es otra. Te podría dar 200 razones por las que nos divorciamos, pero definitivamente para mí fue la mejor decisión", le reveló la conductora a la periodista.  

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La primera película de 'Mini espías' salió en el 2001 y la protagonizaron Antonio Banderas, Carla Gugino, Alexa Vega y Daryl Sabara."
 image: "/uploads/2021/images-alexa-vega-juni-cortez-daryl.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Vuelven los 'Mini espías'! Robert Rodríguez prepara nueva película de la saga infantil"
 front: false
 section: "Espectáculos"
-news_id: 182484
+redirect_from: /news/182484
 ---
 
 Tras el éxito que logró en Netflix con  la película We can be heroes (2020), el cineasta Robert Rodríguez anunció que realizará una nueva película de su saga infantil Mini espías para la compañía productora Skydance Media. 

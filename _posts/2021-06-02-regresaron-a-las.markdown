@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En Veracruz, las clases presenciales ya arrancaron en 889 escuelas de todos los niveles en 184 municipios: 330 inicial, 359 primarias, 90 secundarias, 104 preparatorias y 16 universidades"
 image: "/uploads/2021/images-2588430.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Regresaron a las aulas 889 escuelas en 184 municipios de Veracruz"
 front: false
 section: "Nacional"
-news_id: 184787
+redirect_from: /news/184787
 ---
 
 Luego de que la Secretaría de Educación Pública (SEP) reiteró que el regreso a las aulas en un hecho en todas las escuelas del país, estados como Veracruz, Campeche, Chiapas, Coahuila, Nuevo León y Tamaulipas, ya comenzaron con su proceso de incorporación a las clases presenciales.

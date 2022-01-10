@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Fractura en partidos también determinará la situación de los mismos."
 image: "/uploads/2021/images-GRACIELA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03_GRACIELA.mp3"
 alt: "Triunfos no se determinan por encuestas"
 front: false
 section: "Local"
-news_id: 183486
+redirect_from: /news/183486
 ---
 
 Pese a ir en todas las encuestas en tercer lugar, éstas no definen los triunfos señaló la candidata a la gubernatura por el Partido Revolucionario Institucional, Graciela Ortiz. Esto al ser cuestionada respecto a su posición de tercer lugar.

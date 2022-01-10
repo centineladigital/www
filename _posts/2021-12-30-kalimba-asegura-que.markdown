@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Kalimba recordó cuando estuvo a punto de morir y fue en ese momento cuando asegura que habló con Dios y sintió una presencia. "
 image: "/uploads/2021/images-kalimba-suceso-comenzo-creer-dios.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Kalimba asegura que habló con Dios el día que estuvo a punto de morir"
 front: false
 section: "Espectáculos"
-news_id: 191345
+redirect_from: /news/191345
 ---
 
 Kalimba es uno de los cantantes que desde pequeño saltó a la fama, recientemente lo vimos ganar Quien es la máscara con su personaje Apache y ahora el famoso contó uno de los episodios de su vida que muy pocos conocen. El intérprete de Tocando fondo recordó la ocasión en la que estuvo a punto de morir, momento en el que asegura habló con Dios. En entrevista con Roberto Martínez, Kalimba comentó que a los 16 años fue de viaje a Puerto Escondido, Oaxaca, en donde estuvo a punto de morir ahogado. Este hecho dijo que cambió su vida por completo. 

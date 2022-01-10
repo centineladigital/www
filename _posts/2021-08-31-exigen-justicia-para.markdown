@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cuerpo de la docente fue hallado en su domicilio el fin de semana; la fiscalía del estado indicó que ya inició la investigación del caso"
 image: "/uploads/2021/images-manifestacion-asesinato-maestra-erendira-nayarit_0_121_1080_671.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exigen justicia para Eréndira, maestra asesinada en Nayarit"
 front: false
 section: "Nacional"
-news_id: 187293
+redirect_from: /news/187293
 ---
 
 A través de redes sociales, un grupo de mujeres exigió justicia para Eréndira, quien era maestra y presuntamente fue víctima de feminicidio el fin de semana en el Fraccionamiento Villas del Roble en el estado de Nayarit. 

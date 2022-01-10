@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El gobierno Federal anunció en Ciudad Juárez el Acuerdo para la regularización de vehículos usados de procedencia extranjera, que contempla un total de 2.2 millones de autos extranjeros, que circulan en los 7 estados de la frontera norte del país   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cuentan con la voluntad y compromiso para trabajar de la mano en beneficio de esta ciudad”; regularizarán más de 200 mil vehículos de procedencia extranjera en Chihuahua"
 front: false
 section: "Local"
-news_id: 190740
+redirect_from: /news/190740
 ---
 
 Los gobiernos Estatal y Federal anunciaron en Ciudad Juárez el inicio del proceso de regularización, de más de 200 mil vehículos usados de procedencia extranjera que circulan en los municipios fronterizos del estado de Chihuahua.

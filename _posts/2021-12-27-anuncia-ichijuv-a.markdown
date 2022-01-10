@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Fue por medio de una dinámica en la que participaron 18 jueces y juezas representantes de los sectores público, académico y social como se deliberó para obtener a los postulantes ganadores."
 image: "/uploads/2021/images-unnamed_(12).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia ICHIJUV a las y los ganadores del Premio Estatal de la Juventud 2021 "
 front: false
 section: "Local"
-news_id: 191233
+redirect_from: /news/191233
 ---
 
 El Gobierno del Estado, a través del Instituto Chihuahuense de la Juventud, realizó la selección de los proyectos ganadores de las seis distinciones que forman parte del Premio Estatal de la Juventud en su edición 2021.

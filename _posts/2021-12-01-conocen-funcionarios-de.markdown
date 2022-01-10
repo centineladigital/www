@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Analizan la posibilidad de implementar ambos proyectos en la ciudad fronteriza"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conocen funcionarios de Juárez y del Estado modelo de Justicia Cívica y PECUU"
 front: false
 section: "Local"
-news_id: 190390
+redirect_from: /news/190390
 ---
 
 Funcionarios del Ayuntamiento de Juárez y del Estado acudieron a las instalaciones de la Comandancia Norte para conocer los modelos de Justicia Cívica y la Plataforma Escudo Chihuahua (PECUU), con los cuales cuenta el Gobierno Municipal de Chihuahua y que han convertido a la Dirección de Seguridad Pública (DSPM) en modelo a nivel nacional.

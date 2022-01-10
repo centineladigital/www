@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Fueron donadas por las y los trabajadores de la institución. "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dona Secretaría de Salud 1.7 toneladas de frijol al DIF Estatal"
 front: false
 section: "Local"
-news_id: 190057
+redirect_from: /news/190057
 ---
 
 Como parte de la campaña "Juntos, Sin Frío", la Secretaría de Salud del Estado de Chihuahua hizo entrega al DIF estatal de 1.7 toneladas de frijol que fueron donadas por las y los trabajadores de la institución. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En sesión ordinaria de Cabildo, las y los regidores aprobaron el llevar a cabo el próximo 13 de octubre la primera sesión de Cabildo en zona rural, siendo elegido el seccional El Sauz, en su salón de Usos Múltiples a las 11:00 horas."
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sesionará Cabildo en el seccional El Sauz el próximo 13 de octubre"
 front: false
 section: "Local"
-news_id: 187971
+redirect_from: /news/187971
 ---
 
 Asimismo, en la sesión se aprobó de forma unánime que el presidente Municipal realice un convenio de coordinación con Gobierno del Estado para la prestación del Servicio Público de Tránsito hasta el 9 de septiembre del 2024; de igual manera se autorizó el convenio de coordinación con la Junta Central de Agua y Saneamiento del Estado de Chihuahua y la Junta Municipal de Aguas y Saneamiento de Chihuahua, para la prestación del Servicio Público de agua y saneamiento, drenaje alcantarillado y disposición de aguas residuales.

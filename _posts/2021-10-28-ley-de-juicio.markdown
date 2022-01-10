@@ -18,11 +18,11 @@ author: nil
 description: "la ley incluye a magistrados para juicio político"
 image: "/uploads/2021/images-fsNnKV9YItZ2.jpg"
 video: "/uploads/2021/videos-BJ02_ADRIANA_TERRAZAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "Ley de juicio político será armonizada con la ley federal "
 front: false
 section: "Local"
-news_id: 189320
+redirect_from: /news/189320
 ---
 
 La ley de juicio político y declaración de procedencia   será armonizada con la ley federal la cual ya tuvo aprobación en el la cámara de diputados, así lo afirmó la diputada Adriana terrazas, señaló que la intención de esta nueva ley es ningún funcionario este fuera de la ley.

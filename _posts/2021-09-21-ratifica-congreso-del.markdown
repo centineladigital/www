@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El dictamen fue presentado por la diputada Adriana Terrazas y se llevó a cabo la votación de los legisladores a través de cédula. "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-21_at_13.34.08.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ratifica Congreso del Estado a Roberto Fierro como Fiscal General y María Álvarez Secretaria de la Función Pública"
 front: false
 section: "Local"
-news_id: 187920
+redirect_from: /news/187920
 ---
 
 Este martes el Pleno del Congreso del Estado ratificó a Javier Roberto Fierro Duarte como Fiscal General del Estado de Chihuahua así como a María de los Ángeles Álvarez Hurtado como titular de la Secretaría de la Función Pública, luego de la propuesta hecha por la gobernadora del Estado, Maru Campos Galván. 

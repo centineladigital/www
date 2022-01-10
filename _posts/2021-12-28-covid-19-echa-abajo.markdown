@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Cancelaciones de cientos de vuelos, nuevas restricciones en naciones europeas y el aumento constante de casos han llevado a miles a poner un freno a festejos; sector turístico pide ayuda"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Covid-19 echa abajo planes para Año Nuevo en el mundo"
 front: false
 section: "Internacional"
-news_id: 191268
+redirect_from: /news/191268
 ---
 
 Washington.— La variante ómicron del coronavirus está trastocando los planes de Fin de Año de decenas de miles de viajeros. No sólo se trata de la cancelación y retraso de cientos de vuelos por contagios entre el personal, sino de las restricciones crecientes aplicadas por los países y la suspensión de viajes por parte de los ciudadanos, ante el temor a infectarse.

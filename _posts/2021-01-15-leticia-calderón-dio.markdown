@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz utilizó sus redes sociales para informar a sus seguidores de su estado de salud.   "
 image: "/uploads/2021/images-leticia-calderon-twitter.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Leticia Calderón dio positivo a covid- 19 junto a otros miembros de su familia"
 front: false
 section: "Espectáculos"
-news_id: 182169
+redirect_from: /news/182169
 ---
 
 ¿Recuerdas cómo, a principios de la pandemia, no conocíamos a prácticamente nadie que se hubiera contagiado del virus que tiene sumido al mundo en un estado de emergencia? Ahora, el círculo de contagios se va cerrando más y más y es prácticamente imposible no saber de nadie que haya tenido la enfermedad, que, definitivamente, no ha perdonado a nadie. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "López Obrador aseguró que los fallecimientos por covid-19 no aumentan de la misma forma que los contagios debido a los avances en el proceso de vacunación. "
 image: "/uploads/2021/images-amlo-mananera.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "  Repunte en contagios de covid es en jóvenes -  AMLO; descarta incremento en fallecidos."
 front: false
 section: "Nacional"
-news_id: 185448
+redirect_from: /news/185448
 ---
 
 El presidente Andrés Manuel López Obrador advirtió que en varios estados del país hay un repunte de contagios de coronavirus en los jóvenes; sin embargo, descartó que haya un incremento en los fallecimientos por covid-19.

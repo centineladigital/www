@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El café ha estado presente en las canciones por mucho tiempo, siendo fuente de inspiración para grandes artistas. "
 image: "/uploads/2021/images-canciones-para-celebrar-al-cafe-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Ojalá que llueva café! Te decimos 10 canciones para celebrar con ritmo El Día del Café"
 front: false
 section: "Espectáculos"
-news_id: 188291
+redirect_from: /news/188291
 ---
 
 Históricamente el café ha sido utilizado como un remedio contra el sueño y como antioxidante, algunas personas sienten un placer al beberlo y otros para hacer volar su imaginación. 

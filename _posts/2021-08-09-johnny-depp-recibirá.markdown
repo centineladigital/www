@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor recibirá el Premio Donostia, reconocimiento honorífico a su trayectoria en la pantalla grande. "
 image: "/uploads/2021/images-johnny-depp-shutterstock-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Johnny Depp recibirá premio en Festival de San Sebastián tras ganar demanda a Amber Heard"
 front: false
 section: "Espectáculos"
-news_id: 186452
+redirect_from: /news/186452
 ---
 
 Johnny Depp recibirá el Premio Donostia en el Festival de Cine de San Sebastián, en el norte de España, que celebrará su 69 edición del 17 al 25 de septiembre. Al actor estadunidense se le entregará el reconocimiento honorífico más importante del evento, luego de ganar una demanda contra su ex esposa, Amber Heard, quien deberá comprobar que el dinero que recibió por su divorcio en verdad fue donado a una fundación.  

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Legar a mil 376 y el segundo registrar mil 107 llamadas durante el último fin de semana."
 image: "/uploads/2021/images-MANQUE1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04_MANQUE.mp3"
 alt: "Se incrementan fiestas en supercierres -  Alcaldesa"
 front: false
 section: "Local"
-news_id: 184300
+redirect_from: /news/184300
 ---
 
 Un incremento de un 200 y un 168 por ciento es lo que se registró de fiestas en los súper cierres, según fue dado a conocer por parte de María Angélica Granados Trespalacios. Esto al señalar que según reportes de la Dirección de Seguridad Publica se tuvo más casos de fiestas y registro de movilidad en el municipio de Chihuahua.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz presentará “Michelle Rodríguez es más bonita que ninguna”, un espectáculo en el que mostrará su habilidad para ofrecer diversión y entretenimiento el próximo 27 de marzo "
 image: "/uploads/2021/images-espectaculo-linea-michelle-rodriguez-compartira.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Michelle Rodríguez revelará su talento vía streaming"
 front: false
 section: "Espectáculos"
-news_id: 183318
+redirect_from: /news/183318
 ---
 
 Acompañada por “Michi”, un puppet que representa a su conciencia, Michelle Rodríguez presentará vía streaming el espectáculo “Michelle Rodríguez es más bonita que ninguna”, un show musical en el que la actriz utilizará diversos géneros para presentar su historia y desenvolver sus inquietudes artísticas frente al público. Michelle explicó que el espectáculo “es un sueño hecho realidad, es un regalo, es un reto y es una gran oportunidad para divertirme y para estar arriba del escenario gozando con todos. Este show tiene un gran mensaje; sé que muchos encontrarán ahí respuestas, tal vez se pregunten más cosas, pero es un viaje que me encantará que hagan conmigo y con Michi”. 

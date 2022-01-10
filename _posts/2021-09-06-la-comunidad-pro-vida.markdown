@@ -10,11 +10,11 @@ author: nil
 description: "Están mas firmes que nunca "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-06_at_11.29.35_AM.jpeg"
 video: "/uploads/2021/videos-BL01_CATALINA_BUSTILLOS.mp4"
-audio: "nil"
+audio: nil
 alt: "La comunidad pro-vida estará firme en su ideología "
 front: false
 section: "Local"
-news_id: 187474
+redirect_from: /news/187474
 ---
 
 Catalina Bustillos Cárdenas regidora del Honorable Ayuntamiento del Estado de Chihuahua manifestó que la marcha próvida fue para exigir que no se formulen leyes las cuales atenten contra la vida.

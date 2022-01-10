@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tedros Adhanom Ghebreyesus hizo una visita oficial al territorio gobernado por los talibanes, el cual tiene recortes de fondos internacionales. "
 image: "/uploads/2021/images-la-crisis-sanitaria-en-afganistan_0_22_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Director general de OMS llega a Kabul en medio de crisis asistencial en Afganistán"
 front: false
 section: "Internacional"
-news_id: 187866
+redirect_from: /news/187866
 ---
 
 El director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, llegó hoy a Kabul en un a visita oficial en plena crisis sanitaria en Afganistán, acentuada tras el acceso hace algo más de un mes de los talibanes al poder y el recorte de los fondos internacionales. 

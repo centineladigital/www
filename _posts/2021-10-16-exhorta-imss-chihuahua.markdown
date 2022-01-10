@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Evitar el consumo de productos procesados y ultraprocesados con exceso de grasas saturadas, calorías, azucares y sodio, debido a que se asocian al desarrollo de enfermedades como diabetes tipo 2 e hipertensión   "
 image: "/uploads/2021/images-IMG-20211016-WA0015.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta IMSS Chihuahua a llevar una sana alimentación"
 front: false
 section: "Local"
-news_id: 188822
+redirect_from: /news/188822
 ---
 
 En el marco del Día Mundial de la Alimentación, a conmemorarse este 16 de octubre, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, exhorta a la población a mejorar los hábitos alimenticios.

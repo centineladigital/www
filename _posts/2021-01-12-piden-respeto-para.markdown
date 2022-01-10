@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "No se fotografiará la primera aplicación de dosis."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM03_WENDY_AVILA.mp3"
 alt: "Piden respeto para vacunación de personal de salud"
 front: false
 section: "Local"
-news_id: 182079
+redirect_from: /news/182079
 ---
 
 Pese a que se dio a conocer que la llegada de vacunas pudiera registrarse este 12 de enero, no se permitirá que se dé una cobertura a los medios. Según lo dio a conocer la Subdirectora de Medicina Preventiva Wendy Avila Coronado.

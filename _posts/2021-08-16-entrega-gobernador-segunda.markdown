@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se requiere de la participación ciudadana a través del proyecto de videovigilancia colaborativa, para que quienes tienen una actividad comercial y que tengan la posibilidad de instalar una cámara, la sumen a esta gran red   "
 image: "/uploads/2021/images-7.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Gobernador segunda etapa  del Sistema de Videovigilancia Urbana CERI-911"
 front: false
 section: "Local"
-news_id: 186730
+redirect_from: /news/186730
 ---
 
 Al continuar con el Maratón de Obras, el gobernador Javier Corral entregó a la comunidad fronteriza la segunda etapa del Sistema de Videovigilancia Urbana del Centro de Respuesta Inmediata (CERI-911), a fin de reforzar las estrategias de seguridad en Ciudad Juárez.

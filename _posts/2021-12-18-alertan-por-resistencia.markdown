@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Estudios alertan por resistencia de la variante ante las dosis; J&J, Sinopharm y Sputnik son más débiles frente a mutación, advierten"
 image: "/uploads/2021/images-alertan_por_resistencia_de_omicron_a_vacunas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alertan por resistencia de ómicron a vacunas"
 front: false
 section: "Internacional"
-news_id: 191006
+redirect_from: /news/191006
 ---
 
 Londres.— Ómicron es más resistente a las vacunas que otras variantes como delta, indicaron estudios difundidos ayer.

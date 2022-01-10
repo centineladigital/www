@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Roberto ‘Bobby’ Magallanes se consagró en Grandes Ligas como asistente de coach de bateo"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Quién es el mexicano que ganó la Serie Mundial con los Braves?"
 front: false
 section: "Deportes"
-news_id: 189490
+redirect_from: /news/189490
 ---
 
 En julio de 2020, Roberto ‘Bobby’ Magallanes fue nombrado como asistente de coach de bateo con los Braves. Un año después ha alcanzado el éxito en las Grandes Ligas.

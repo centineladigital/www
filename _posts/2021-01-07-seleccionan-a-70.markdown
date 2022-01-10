@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Por el estado de Chihuahua eligieron a 29 profesionistas, el resto son de otras 15 entidades; recibirán acompañamiento y capacitación en habilidades y el idioma alemán"
 image: "/uploads/2021/images-Misión_México_Alemania_2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Seleccionan a 70 enfermeras y enfermeros para trabajar en Alemania, viajarán en 2022"
 front: false
 section: "Local"
-news_id: 181941
+redirect_from: /news/181941
 ---
 
 Como parte de la convocatoria dirigida a profesionistas en enfermería interesados en trabajar en Alemania, coordinada por la Secretaría del Trabajo y Previsión Social (STPS), fueron reclutados con éxito 70 mujeres y hombres que iniciarían sus labores hasta el 2022.

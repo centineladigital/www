@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El boxeador se tomó innumerables selfies y apretó cuanta mano le fue extendida durante varios minutos"
 image: "/uploads/2021/images-canelo_senado_de_la_republica.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La visita del 'Canelo' Álvarez a la Cámara de Senadores preocupa a su equipo de trabajo"
 front: false
 section: "Deportes"
-news_id: 189990
+redirect_from: /news/189990
 ---
 
 Durante todo el homenaje que se le realizó en la Cámara de Senadores, junto a su manager Eddy Reynoso, Saúl Álvarez se mostró cálido y muy agradecido con el homenaje del que fue objeto.

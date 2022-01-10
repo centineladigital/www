@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exfuncionarios recalcaron que fueron parte de una investigación montada para perjudicar las aspiraciones políticas de la abanderada panista"
 image: "/uploads/2021/images-ORLANDO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ04_ORLANDO_VILLALOBOS.mp3"
 alt: "Señalan exfuncionarios que fueron obligados a declarar contra candidata"
 front: false
 section: "Local"
-news_id: 184572
+redirect_from: /news/184572
 ---
 
 Tres exfuncionarios de la administración de María Eugenia Campos Galván señalaron que fueron obligados a declarar en contra de la Alcaldesa con licencia, esto al señalar que participaron dentro de una persecución política en contra de ésta.

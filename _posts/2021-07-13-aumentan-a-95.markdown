@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La tragedia se ha extendido por casi tres semanas, mientras los equipos continúan los trabajos entre los escombros."
 image: "/uploads/2021/images-autoridades-continuan-trabajando-miami-colapso_0_22_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aumentan a 95 los muertos tras el colapso del edificio en Miami"
 front: false
 section: "Internacional"
-news_id: 185604
+redirect_from: /news/185604
 ---
 
 Los equipos de búsqueda de víctimas bajo los escombros del edificio Champlain Towers derrumbado en Surfside, Miami-Dade, hallaron en las últimas horas el cadáver de una persona y el número de fallecidos se elevó así a 95, anunciaron las autoridades hoy tras casi llevar tres semanas de labores tras el colapso de la infraestructura el 24 de junio.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el programa Logros con Valor, destaca María Teresa Guerrero el alcance de Napawika Nochaba para atender de manera directa a las comunidades de pueblos originarios que residen en las ciudades; se realizó un censo y se escucharon a los distintos grupos"
 image: "/uploads/2021/images-IMG_4760.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Mesa de Gobernanza escuchó y atendió Coepi a las comunidades indígenas urbanas"
 front: false
 section: "Local"
-news_id: 185168
+redirect_from: /news/185168
 ---
 
 Ante la creciente presencia de personas y familias indígenas en el medio urbano, la Comisión Estatal de Pueblos Indígenas (Coepi) ha atendido a lo largo de toda la administración a los Asentamientos Indígenas Urbanos, en los cuales implementó la Mesa de Gobernanza, para dar seguimiento a las políticas públicas en favor de estas comunidades.

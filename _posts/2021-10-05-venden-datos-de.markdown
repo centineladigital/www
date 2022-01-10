@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Alertan que los datos de esas personas podrían caer en manos de ciberdelincuentes o con fines comerciales"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Venden datos de mil 500 millones de usuarios de Facebook en foro de hackers, aseguran"
 front: false
 section: "Internacional"
-news_id: 188366
+redirect_from: /news/188366
 ---
 
 Tras la caída de Instagram, WhatsApp y Facebook, los datos de personales de mil 500 millones usuarios de ésta última red social se encuentran a la venta en un foro de hackers, según Privacy Affairs.

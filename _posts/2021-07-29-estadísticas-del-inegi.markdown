@@ -10,11 +10,11 @@ author: nil
 description: "Toman muertes violentas como homicidios por parte del INEGI."
 image: "/uploads/2021/images-PENICHE1.jpg"
 video: "/uploads/2021/videos-MJ04_CESAR_PENICHE.mp4"
-audio: "nil"
+audio: nil
 alt: "Estadísticas del INEGI en homicidios no son estructuradas -  Fiscal"
 front: false
 section: "Local"
-news_id: 186104
+redirect_from: /news/186104
 ---
 
 La diferencia entre los homicidios que contabiliza el INEGI no es una estadística estructurada, afirmó el Fiscal General de Chihuahua César Augusto Peniche Espejel. Ya que existe una incongruencia entre las cifras del Secretariado Ejecutivo y la dependencia encargada de las estadística.

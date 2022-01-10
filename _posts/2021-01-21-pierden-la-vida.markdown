@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "En su mayoría hombres son los que han perdido la vida."
 image: "/uploads/2021/images-ARTURO_VALENZUELA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW02_ARTURO_VALENZUELA.mp3"
 alt: "Pierden la vida 84 trabajadores de la salud "
 front: false
 section: "Local"
-news_id: 182343
+redirect_from: /news/182343
 ---
 
 Hasta el momento se tiene un registro de 84 trabajadores de la salud han perdido la vida, según lo señaló el Director Médico Zona Norte, Arturo Valenzuela Zorrilla. Siendo el área de médicos donde más defunciones se han registrado.

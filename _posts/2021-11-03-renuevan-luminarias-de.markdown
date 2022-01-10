@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Renuevan luminarias de la zona rural; llega al 95% de cobertura eficiente"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Renuevan luminarias de la zona rural; llega al 95% de cobertura eficiente"
 front: false
 section: "Local"
-news_id: 189505
+redirect_from: /news/189505
 ---
 
 Habitantes de El Sauz, El Charco, Colonia Soto, Ciénega de Ortiz y Guadalupe, fueron beneficiados con las reparaciones al alumbrado público que hizo el Gobierno Municipal de Chihuahua a través de la Dirección de Desarrollo Rural. 

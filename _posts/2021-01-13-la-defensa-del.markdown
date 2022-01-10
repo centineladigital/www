@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La nueva fecha pudiera programarse para finales del presente mes, sin embargo, las autoridades estatales están a la espera de lo que comunique la jueza de Miami"
 image: "/uploads/2021/images-DAH_7290.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La defensa del exgobernador no le quiere entrar a la audiencia final -  Consejería de Chihuahua"
 front: false
 section: "Local"
-news_id: 182096
+redirect_from: /news/182096
 ---
 
 El consejero jurídico del Gobierno del Estado, Jorge Espinoza Cortés, confirmó que fue diferida hasta nuevo aviso la audiencia final del proceso de extradición que se sigue en contra del exgobernador de Chihuahua, sin que se conozcan los motivos.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se agregan carpintería, soldadura entre otras, gracias a la firma de convenio con ICATECH"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Conoce las nuevas capacitaciones que impartirá el Gobierno Municipal a mujeres chihuahuenses"
 front: false
 section: "Local"
-news_id: 190691
+redirect_from: /news/190691
 ---
 
 El Gobierno Municipal, a través el Instituto Municipal de las Mujeres (IMM), firmó un acuerdo de colaboración con el Instituto de Capacitación para el Trabajo del Estado de Chihuahua (ICATECH) con fin de establecer cursos que serán impartidos a las mujeres chihuahuenses de manera gratuita.

@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Durante el evento, se llevó a caobo el corte de listón inaugural y se realizó un recorrido por las nuevas instalaciones de la estación."
 image: "/uploads/2021/images-manque.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nueva comandancia de policía en la Ave. Américas  "
 front: false
 section: "Local"
-news_id: 185323
+redirect_from: /news/185323
 ---
 
 La presidenta municipal María Angélica Granados Trespalacios encabezó la inauguración de la nueva estación para la Policía de Proximidad de la Dirección de Seguridad Pública, con el fin de tener una comandancia más cercana a la comunidad e incentivar la comunicación y la confianza de la ciudadanía en la corporación.

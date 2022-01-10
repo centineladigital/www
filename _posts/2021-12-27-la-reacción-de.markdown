@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista con Adam McKay, el director contó que Leonardo DiCaprio no quería ver desnuda a Meryl Streep en Don't Look Up. "
 image: "/uploads/2021/images-don-t-look-up-netflix-1_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La reacción de Leonardo DiCaprio al saber que tendría que ver desnuda a Meryl Streep en 'Don't Look Up'"
 front: false
 section: "Espectáculos"
-news_id: 191255
+redirect_from: /news/191255
 ---
 
 Netflix sorprendió esta Nochebuena con el estreno de Don't Look Up ('No miren arriba') su nueva y ambiciosa producción que conjunta a actores de la talla de Jennifer Lawrence, Ariana Grande, Timothée Chalamet, además de Meryl Streep y Leonardo DiCaprio, pero estos dos últimos tuvieron una pequeña anécdota que contar sobre la grabación. En entrevista para The Guardian, el director de la película, Adam McKay, contó un pequeño incidente ocurrido con DiCaprio con relación a una escena en la que su personaje, el Dr. Randall Mindy, tendría que ver parcialmente desnuda a la presidenta de los Estados Unidos Orlean, interpretada por Meryl Streep. 

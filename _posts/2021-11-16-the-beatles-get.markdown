@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esta producción de tres capítulos, enfocada en la creación del disco 'Let it be', se estrenará en la plataforma Disney+. "
 image: "/uploads/2021/images-ineditas-metraje-serie-refleja-momentos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'The Beatles -  Get Back', la serie documental de Peter Jackson sobre el último disco de la banda; cuándo se estrena"
 front: false
 section: "Espectáculos"
-news_id: 189868
+redirect_from: /news/189868
 ---
 
 La historia canónica de The Beatles dice que la grabación de Let It Be (1970) fue una experiencia amarga y traumática que marcó el comienzo del fin de la banda, pero Peter Jackson, el director de The Beatles: Get Back, revisa y cuestiona en esta serie documental cómo fue aquella época de los músicos de Liverpool. "No tenían intención de romper la banda", dijo el cineasta vía telefónica. Destaca que la producción de tres capítulos se estrenará Disney+ el 25 de noviembre. 

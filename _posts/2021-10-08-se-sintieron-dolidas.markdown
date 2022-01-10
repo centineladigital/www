@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante ha sorprendido con un nuevo cambio de imagen para la portada de la edición británica de la revista Vogue. "
 image: "/uploads/2021/images-adele-ha-sido-criticada-por.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se sintieron dolidas -  Adele confiesa estar decepcionada por las críticas sobre su pérdida de peso; así luce ahora"
 front: false
 section: "Espectáculos"
-news_id: 188510
+redirect_from: /news/188510
 ---
 
 Luego de casi cinco años alejada del mundo del espectáculo, Adele regresó de forma triunfal a los reflectores posando para la revista Vogue en su edición británica, esto a unos días de que se estrene su nuevo sencillo "Easy On Me", lo cuál tiene sumamente emocionados a sus millones de seguidores, quienes ya esperaban música nueva de la cantante.

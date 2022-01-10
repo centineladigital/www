@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Estado aplica más de siete mil dentro de los municipios de Chihuahua y Juárez."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW02_WENDY_AVILA.mp3"
 alt: "Sin reacciones a vacunas COVID en Chihuahua y Juárez"
 front: false
 section: "Local"
-news_id: 183640
+redirect_from: /news/183640
 ---
 
 Hasta este miércoles no se habían registrado reacciones en los adultos mayores que fueron vacunados por coronavirus, señaló la Subdirectora de Medicina Preventiva y Promoción de la Salud, Wendy Ávila Coronado

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los abogados de Ninel Conde lanzaron un comunicado, aseguran que la famosa podría emprender acciones legales contra quienes la difamen. "
 image: "/uploads/2021/images-ninel-conde-se-encuentra-afectada.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ninel Conde reacciona a fuga de Larry Ramos y asegura no es investigada por autoridades"
 front: false
 section: "Espectáculos"
-news_id: 187403
+redirect_from: /news/187403
 ---
 
 Hace unos días se dio a conocer que Larry Ramos, esposo de Ninel Conde, se dio a la fuga después de que le informaran que su arresto domiciliario había terminado y tenía que entrar a prisión. Ante esto, se rumoró que la cantante se encontraba con él al momento de la huida y que podría ser acusada de cómplice. Abogados de El bombón asesino emitieron un comunicado en torno al tema. 

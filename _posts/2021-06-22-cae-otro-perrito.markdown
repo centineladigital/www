@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Me dieron curiosidad las grietas y al analizar la parte superior… vi al otro perrito no lo podía creer, al parecer esta débil o quizá herido porque no se movió, se indicó"
 image: "/uploads/2021/images-2599071.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cae otro perrito a socavón en Puebla… ‘parece que está herido’"
 front: false
 section: "Local"
-news_id: 185159
+redirect_from: /news/185159
 ---
 
 A través de redes sociales se solicitó el apoyo para rescatar a otro perrito que cayó en el socavón que se formó en el municipio Juan C. Bonilla, en Puebla.

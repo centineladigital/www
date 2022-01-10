@@ -10,11 +10,11 @@ author: nil
 description: "Concluyen administraciones más no año fiscal."
 image: "/uploads/2021/images-LUIS.jpg"
 video: "/uploads/2021/videos-MV06_LUIS_VILLEGAS.mp4"
-audio: "nil"
+audio: nil
 alt: "No hay garantía de recursos para TSJ"
 front: false
 section: "Local"
-news_id: 187199
+redirect_from: /news/187199
 ---
 
 No hay garantía de que se tengan recursos pare el cierre del ejercicio Fiscal, señaló el magistrado Luis Villegas Montes. Esto luego de afirmar que para la implementación de la reforma laboral no se cuentan con recursos suficientes. 

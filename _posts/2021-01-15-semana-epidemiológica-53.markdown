@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aunque siguen funcionando las medidas de control de la pandemia por COVID-19, exhorta la Secretaría de Salud a la población a no bajar la guardia y a seguir respetando las medidas de higiene y sana distancia"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Semana epidemiológica 53 -  48,127 contagios y 4,470 defunciones en el estado"
 front: false
 section: "Local"
-news_id: 182170
+redirect_from: /news/182170
 ---
 
 Los registros de contagios y defunciones por COVID-19 siguen a la baja en la semana 53 desde que inició la pandemia, sin embargo aún representan un riesgo para la población, mencionó el subdirector de Epidemiología de la Secretaría de Salud Chihuahua, Gumaro Barrios, en la conferencia Informativa #326 y Virtual #286 del Reporte COVID-19.

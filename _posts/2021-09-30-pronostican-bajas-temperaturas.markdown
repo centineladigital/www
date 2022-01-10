@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se prevén lluvias aisladas la tarde de este jueves "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-30_at_13.26.14.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronostican bajas temperaturas para el municipio por llegada de Frente Frío número 2"
 front: false
 section: "Local"
-news_id: 188228
+redirect_from: /news/188228
 ---
 
 La entrada del frente frío #2 a la entidad, traerá para el municipio de Chihuahua temperaturas frescas durante la mañana, aunque por la tarde prevalecerá el clima caluroso, ante lo cual se recomienda a la comunidad no descuidarse para evitar enfermedades respiratorias.

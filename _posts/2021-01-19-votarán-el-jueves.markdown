@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Originalmente el crédito se había solicitado por 1,633 millones de pesos, pero se sumaron obras solicitadas por algunos ayuntamientos"
 image: "/uploads/2021/images-DSDFHFD.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AM05_BLANCA_GAMEZ.mp3"
 alt: "Votarán el jueves, en Congreso del Estado, crédito de mil 898 mdp para gobierno "
 front: false
 section: "Local"
-news_id: 182273
+redirect_from: /news/182273
 ---
 
 Durante sesión la diputación permanente convocó al décimo período extraordinario de sesiones, el próximo 21 de enero del año en curso, a las 9:00 de la mañana, el cual será de manera presencial en el Congreso del Estado.

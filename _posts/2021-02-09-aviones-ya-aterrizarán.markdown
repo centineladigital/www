@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "López Obrador inaugurará la Base Aérea Militar del Aeropuerto Felipe Ángeles; aeronaves militares y comerciales podrán descender, indica; es sólo la primera etapa, destaca"
 image: "/uploads/2021/images-2526410.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aviones ya aterrizarán desde mañana en Santa Lucía"
 front: false
 section: "Nacional"
-news_id: 182812
+redirect_from: /news/182812
 ---
 
 Este martes arrancará operaciones la primera fase del Aeropuerto Felipe Ángeles, que comprende la base militar, adelantó el presidente Andrés Manuel López Obrador.

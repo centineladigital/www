@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Walo Silvas, vocalista de la agrupación, señala que “de repente agarró un camino muy escabroso de violencia, misoginia y narcotráfico”. "
 image: "/uploads/2021/images-agrupacion-presento-auditorio-nacional-cierre.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El género regional está estigmatizado -  Banda MS"
 front: false
 section: "Espectáculos"
-news_id: 191157
+redirect_from: /news/191157
 ---
 
 Después de un año de grandes éxitos, que se materializaron con sus presentaciones en escenarios como el Toyota Arena, en Ontario; el Madison Square Garden, en Nueva York; el Auditorio Nacional, en CdMx, y la Arena Monterrey, además de la mancuerna que hicieron en el escenario con Snoop Dogg para interpretar el tema Qué maldición el pasado 11 de julio, así como las colaboraciones en La sinvergüenza con Christian Nodal, Qué bueno es tenerte con Natalia Jiménez y Dos mundos con Santa Fe Klan; Banda MS asegura que la conexión que han tenido con el público no es casual, sino el resultado de mucho trabajo y de que no obstante el prejuicio que se tiene para el género regional mexicano, han podido superar esos estigmas. 

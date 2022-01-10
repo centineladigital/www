@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mediante las redes sociales transcendieron varios videos en donde Carmen Salinas aparece imitando a algunas artistas de talla nacional e internacional. "
 image: "/uploads/2021/images-viralizan-videos-carmen-salinas-imitando.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡La reina de la imitación! Viralizan videos de Carmen Salinas imitando a Lucero y Alejandra Guzmán"
 front: false
 section: "Espectáculos"
-news_id: 190235
+redirect_from: /news/190235
 ---
 
 Carmen Salinas, actriz y ex productora teatral de ‘Aventurera’, sigue hospitalizada tras sufrir una hemorragia cerebral y entrar en estado de coma natural. Por ello, sobre la famosa se han retomado varios episodios de su trayectoria artística. Algunas facetas de la primera actriz son muy conocidas por el público, pero otras no tanto. Por ejemplo, las veces que Carmen Salinas imitaba a varias cantantes famosas. Así lo demostraron con varios videos en los que se vio a Carmen Salinas imitando a Lucero y hasta Alejandra Guzmán. Mediante las redes sociales transcendieron varios videos en donde Carmen Salinas aparece imitando a algunas artistasde talla nacional e internacional. Una faceta muy poco conocida de la ex productora de ‘Aventurera’. 

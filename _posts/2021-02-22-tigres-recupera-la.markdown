@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El conjunto regiomontano se sobrepuso del descalabro sufrido ante Cruz Azul a mitad de semana y se impuso por 3-0 sobre Tijuana"
 image: "/uploads/2021/images-2533568.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tigres recupera la fiereza y fulmina al invicto Xolos"
 front: false
 section: "Deportes"
-news_id: 183078
+redirect_from: /news/183078
 ---
 
 Los Tigres regresaron a la senda de la victoria.  Apenas cuatro días después de haber caído 2-0 contra Cruz Azul en el Estadio Universitario, los Felinos se desquitaron con los Xolos de Tijuana, venciéndolos 3-2 en el mismo escenario, terminando así con el invicto de los fronterizos en el certamen. 

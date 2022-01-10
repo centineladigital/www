@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La halterista mexicana se levantó de una lesión que la dejó fuera del proceso de Río 2016; ahora en Tokio 2020 buscará el mejor resultado posible. "
 image: "/uploads/2021/images-ana-lopez-ferrer.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Voy a dejar mi corazón en Tokio” -  Ana López Ferrer"
 front: false
 section: "Deportes"
-news_id: 185758
+redirect_from: /news/185758
 ---
 
 Ana López Ferrer tiene 26 años y la mitad de su vida la ha dedicado a practicar halterofilia; ahora, finalmente en Tokio 2020 cumplirá con el sueño olímpico después de haber sufrido una lesión que la dejó fuera del camino para Río de Janeiro 2016. 

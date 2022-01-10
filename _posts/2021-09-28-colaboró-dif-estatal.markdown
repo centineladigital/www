@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se entregaron las ayudas  a 12 comunidades indígenas "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_11.42.52.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Colaboró DIF Estatal con transporte a Asociaciones Civiles y Cruz Roja para llevar apoyo alimentario a familias de Bocoyna y Carichí"
 front: false
 section: "Local"
-news_id: 188138
+redirect_from: /news/188138
 ---
 
 El DIF Estatal Chihuahua, en coordinación con la Diócesis de Tarahumara, Cruz Roja Mexicana, Fundación Camichalo A.C., Fundación Sierra Tarahumara A. C., Fundación Merced y Fundación Ford, entregaron ayuda comunitaria a 4 mil personas de escasos recursos que habitan en 12 zonas indígenas ubicadas en los municipios de Bocoyna y Carichí.

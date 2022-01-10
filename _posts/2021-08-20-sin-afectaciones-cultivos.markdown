@@ -10,11 +10,11 @@ author: nil
 description: "Lluvias han sido benéficas para los cultivos."
 image: "/uploads/2021/images-RENE.jpg"
 video: "/uploads/2021/videos-MV04_RENE_ALMEIDA.mp4"
-audio: "nil"
+audio: nil
 alt: "Sin afectaciones cultivos por lluvias"
 front: false
 section: "Local"
-news_id: 186951
+redirect_from: /news/186951
 ---
 
 Tras las lluvias registradas este jueves el Secretario de Desarrollo Rural, Rene Almeida, señaló que no se tienen afectaciones en materia agrícola a los cultivos que se registran en la zona. Ya que todas las afectaciones se generaron en la zona urbanoa.

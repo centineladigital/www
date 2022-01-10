@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La iniciativa conjunta, presentada como inédita por los estadounidenses, busca que con el aumento de la oferta los precios bajen de forma mecánica"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden libera 50 millones de barriles de petróleo, en esfuerzo por reducir precios del combustible"
 front: false
 section: "Internacional"
-news_id: 190105
+redirect_from: /news/190105
 ---
 
 El presidente Joe Biden anunció el martes que ordenó liberar 50 millones de barriles de petróleo de las reservas estratégicas de Estados Unidos, en un intento coordinado con otros países para reducir los crecientes precios del combustible.

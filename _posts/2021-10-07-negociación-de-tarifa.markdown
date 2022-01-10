@@ -10,11 +10,11 @@ author: nil
 description: "Ciudad Juárez condiciona incremento a compra de unidades."
 image: "/uploads/2021/images-GABRIEL.jpg"
 video: "/uploads/2021/videos-MJ01_GABRIEL_VALDEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Negociación de tarifa de transporte aún no esta prevista"
 front: false
 section: "Local"
-news_id: 188492
+redirect_from: /news/188492
 ---
 
 Que se dé la negociación de la tarifa de transporte público no está determinado aún, sin embargo, no está descartado afirmó el titular de la Secretaría de Desarrollo Urbano y Ecología, Gabriel Valdez Juárez.

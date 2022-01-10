@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "El equipo está encabezado por Roberto Fierro y conformado por Clara Torres, Ulises Pacheco, Saúl Mondragón y Javier Sánchez Herrera."
 image: "/uploads/2021/images-equipo.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se entrevista equipo de transición con Fiscalía"
 front: false
 section: "Local"
-news_id: 185332
+redirect_from: /news/185332
 ---
 
 Está mañana, el equipo de la gobernadora electa, Maru Campos Galván, acudió a las instalaciones de la Fiscalía General del Estado para iniciar el proceso de entrega-recepción con el fiscal general, César Peniche Espejel.

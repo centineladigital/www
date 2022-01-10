@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante se presentó ante 6 mil personas en el Coliseo Centenario, donde interpretó por primera vez en la región su más reciente álbum Hecho en México. "
 image: "/uploads/2021/images-alejandro-fernandez-convirtio-novio-amante.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alejandro Fernández 'le baja las estrellas' a La Laguna"
 front: false
 section: "Espectáculos"
-news_id: 189825
+redirect_from: /news/189825
 ---
 
 Una vez más Alejandro Fernández demostró a los laguneros lo que implica estar "Hecho en México" y logró deslumbrar a 6 mil personas que se dieron cita anoche al Coliseo Centenario, al brindar durante dos horas un ameno repertorio musical, dejando en claro las raíces mexicanas que lo han acompañado a lo largo de su fructífera carrera musical. En punto de las 22:14 horas, el escenario fue iluminado para dar inicio a la velada. Ataviado en un impecable traje de charro color negro, con adornos dorados y moño rojo "El Potrillo" dio rienda suelta a la abarrotada noche, por lo que los gritos, silbidos y piropos no cesaron, al mismo tiempo entre los aplausos de los asistentes, el cantante se inclinó para agradecer y saludar a su público, y de esa manera abrir su concierto acompañado de sus músicos, coristas y mariachi con el tema "Tantita pena" y "Es la mujer", en medio de una majestuosa escenografía, compuesta por un elegante candelabro simulado por una serie de sogas que cubría el techo de forma estupenda. 

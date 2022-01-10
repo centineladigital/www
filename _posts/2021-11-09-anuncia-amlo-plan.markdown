@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente López Obrador señaló que el plan garantizará una vida digna para aquellos que sobreviven con menos de 2 dólares diarios"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia AMLO Plan Mundial de Fraternidad y de Bienestar ante la ONU"
 front: false
 section: "Nacional"
-news_id: 189685
+redirect_from: /news/189685
 ---
 
 Al acusar que nunca en la historia de la ONU se ha hecho algo “realmente sustancial en beneficio de los pobres”, el presidente Andrés Manuel López Obrador anunció que en la próxima asamblea general del organismo mundial, México propondrá el Plan Mundial de Fraternidad y de Bienestar para garantizar una vida digna para aquellos que sobreviven con menos de 2 dólares diarios.

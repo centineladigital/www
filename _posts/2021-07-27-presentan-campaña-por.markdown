@@ -10,11 +10,11 @@ author: nil
 description: "Plantean acciones para la reactivación económica."
 image: "/uploads/2021/images-MANQUE.jpg"
 video: "/uploads/2021/videos-MM06_MANQUE.mp4"
-audio: "nil"
+audio: nil
 alt: "Presentan campaña Por Amor a Chihuahua"
 front: false
 section: "Local"
-news_id: 186031
+redirect_from: /news/186031
 ---
 
 Con el fin de buscar que se dé la reactivación económica en el municipio, este martes fue dado a conocer el programa "Por amor a Chihuahua”, el cual busca que se dé un cambio en la forma de trabajar.  Sin embargo, esto sin dejar de lado la el seguir creando conciencia para acatar las medidas contra el Covid-19.

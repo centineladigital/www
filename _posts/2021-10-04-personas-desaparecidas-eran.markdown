@@ -10,11 +10,11 @@ author: nil
 description: "Realizan operativo de búsqueda para las personas desaparecidas."
 image: "/uploads/2021/images-FIERRO.jpg"
 video: "/uploads/2021/videos-ML01_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Personas desaparecidas eran connacionales"
 front: false
 section: "Local"
-news_id: 188348
+redirect_from: /news/188348
 ---
 
 Los migrantes desaparecidos son originarios de Chihuahua y Querétaro, aseveró el Fiscal General de Chihuahua, Roberto Fierro Duarte. Esto tras ser cuestionado sobre la desaparición que las 14 en la carretera hacia Coyame.

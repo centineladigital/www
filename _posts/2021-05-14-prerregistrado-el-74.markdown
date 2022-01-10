@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se informó que la aplicación del biológico para el magisterio de Chihuahua se realizará el martes 18 y miércoles 19 de mayo en 13 sedes ubicadas en 11 regiones de la entidad "
 image: "/uploads/2021/images-Vacunación.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prerregistrado el 74 % del personal educativo para vacunarse"
 front: false
 section: "Local"
-news_id: 184452
+redirect_from: /news/184452
 ---
 
 Este jueves cerró el prerregistro para que los empleados del sector educativo levantaran la mano para recibir la vacuna contra el virus SARS CoV2. Al corte de las 13:00 horas sólo se registraron 66 mil 423 personas, lo que representa un avance del 74.57 por ciento.

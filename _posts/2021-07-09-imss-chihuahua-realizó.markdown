@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se efectuaron consultas de especialidades, cirugías ordinarias, así como ferias de la salud y vacunación de menores de 9 años de edad.    "
 image: "/uploads/2021/images-Foto_3224-4.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS Chihuahua realizó más de 8 mil acciones en la Cuarta Jornada de Recuperación de Servicios"
 front: false
 section: "Local"
-news_id: 185497
+redirect_from: /news/185497
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua realizó más de 8 mil acciones en la Cuarta Jornada Nacional para la Recuperación de los Servicios Ordinarios, que se llevó a cabo el fin de semana pasado en las unidades médicas y hospitalarias de la entidad. 

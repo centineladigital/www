@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente mostró una fotografía de la alta concentración de personas en el Zócalo y dijo sentirse conmovido porque muchas llegaron desde muy temprano. "
 image: "/uploads/2021/images-amlo-celebro-apoyo-simpatizantes-mensaje_0_1_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me conmueve -  AMLO agradece apoyo de simpatizantes por mensaje en el Zócalo"
 front: false
 section: "Nacional"
-news_id: 190412
+redirect_from: /news/190412
 ---
 
 El presidente Andrés Manuel López Obrador agradeció el respaldo y la asistencia de sus simpatizantes al mensaje que ofreció ayer en el Zócalo de la Ciudad de México, con motivo del tercer aniversario del inicio de su gobierno, por lo cual dijo sentirse conmovido y muy contento. 

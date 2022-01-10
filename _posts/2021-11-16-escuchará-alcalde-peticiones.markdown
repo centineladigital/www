@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Mañana estarán los directores de todas las dependencias municipales en la Plaza de Armas"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Escuchará Alcalde peticiones de chihuahuenses durante el “Miércoles Ciudadano”"
 front: false
 section: "Local"
-news_id: 189882
+redirect_from: /news/189882
 ---
 
 Como parte de los primeros 100 días de trabajo y resultados, el Gobierno Municipal a través de la Dirección de Desarrollo Humano y Educación invita a las y los chihuahuenses a acudir al Miércoles Ciudadano para exponer sus necesidades, este 17 de noviembre en la Plaza de Armas de 10:00 a 14:00 horas.

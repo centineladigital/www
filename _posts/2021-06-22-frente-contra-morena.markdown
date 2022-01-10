@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Para la excandidata priista por la gubernatura, justo ahora debe empezar a construirse una cruzada entre partidos y ciudadanía de cara al 2024"
 image: "/uploads/2021/images-GRACIELA_ORTIZ_(34)-pr.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Frente contra Morena recién empezó -  Graciela Ortiz"
 front: false
 section: "Local"
-news_id: 185158
+redirect_from: /news/185158
 ---
 
 Graciela Ortiz González, excandidata del PRI por la Gubernatura de Chihuahua y actual secretaria de Operación Política del Comité Ejecutivo Nacional de su partido, subrayó que el proceso para detener el avance de Morena apenas comienza, por lo que la alianza legislativa Va Por México es una agenda 2021-2024.

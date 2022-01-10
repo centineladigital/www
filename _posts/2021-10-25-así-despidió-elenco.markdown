@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jennifer Aniston y el resto del elenco principal compartió mensajes de despedida en honor al actor que saltó a la fama tras dar vida a Gunther en la serie. "
 image: "/uploads/2021/images-elenco-friends-despiden-actor-james_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así despidió elenco de 'Friends' al actor James Michael Tyler, que interpretó a Gunther"
 front: false
 section: "Espectáculos"
-news_id: 189152
+redirect_from: /news/189152
 ---
 
 La producción y fans de Friends están de luto: James Michael Tyler, quien interpretó al enamoradizo Gunther en la serie,  murió el domingo a los 59 años de edad a causa de cáncer de próstata. Al darse conocer la noticia del fallecimiento, el elenco principal del programa, entre ellos Jennifer Aniston, dedicaron emotivos mensajes de despedida en honor al actor de Hollywood. James Michael Tyler saltó al estrellato por su papel en Friends, donde dio vida a Gunther, barista de la cafetería Central Perk y eterno enamorado de Rachel que nunca fue correspondido pese a sus intentos por conquistarla. Su deceso conmocionó a sus compañeros de la serie que recordaron algunos de sus momentos más icónicos. 

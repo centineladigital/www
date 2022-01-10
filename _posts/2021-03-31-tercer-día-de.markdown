@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aproximadamente un kilómetro es la distancia que ha alcanzado la fila al exterior de las instalaciones"
 image: "/uploads/2021/images-Vacunación_UVM.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tercer día de vacunación en UVM, continua la restricción a peatones"
 front: false
 section: "Local"
-news_id: 183621
+redirect_from: /news/183621
 ---
 
 Aproximadamente un kilómetro es la distancia que ha alcanzado la fila al exterior de las instalaciones de la UVM, luego de que la tercera jornada de vacunación contra la Covid-19 comenzara este miércoles 31 de marzo.

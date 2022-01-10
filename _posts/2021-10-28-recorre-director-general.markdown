@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se busca realizar un diagnóstico integral, conocer de primera mano las necesidades y adaptar estrategias para  el bienestar del alumnado"
 image: "/uploads/2021/images-11.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recorre Director General del COBACH planteles de la Zona Norte"
 front: false
 section: "Local"
-news_id: 189309
+redirect_from: /news/189309
 ---
 
 El director general del Colegio de Bachilleres del Estado de Chihuahua (COBACH), Marco Licón Barraza, recorrió diversos planteles de la Zona Norte con la finalidad de realizar un diagnóstico integral, reforzar el compromiso académico y promover acciones que contribuyan a fortalecer la calidad educativa en beneficio de las y los jóvenes.

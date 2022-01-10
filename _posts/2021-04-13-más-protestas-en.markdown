@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Cientos de personas se manifiestan por segunda noche consecutiva en Minnesota, luego de la muerte del afroamericano Daunte Wright a manos de la policía"
 image: "/uploads/2021/images-2561355.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Más protestas en Minnesota tras muerte de afroamericano"
 front: false
 section: "Internacional"
-news_id: 183852
+redirect_from: /news/183852
 ---
 
 La policía chocó el lunes con manifestantes por segunda noche consecutiva en un suburbio de Minneapolis donde una policía mató de un disparo a un hombre afroamericano durante una parada de tráfico el fin de semana.

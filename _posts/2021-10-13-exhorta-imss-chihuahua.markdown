@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Es común en bebes y niños menores de cinco años"
 image: "/uploads/2021/images-Foto_4986-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta IMSS Chihuahua a prevenir la bronquiolitis en esta temporada"
 front: false
 section: "Local"
-news_id: 188682
+redirect_from: /news/188682
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, exhorta a los padres de familia a extremar cuidados en sus hijos ante los cambios de clima que se presentan en esta temporada.

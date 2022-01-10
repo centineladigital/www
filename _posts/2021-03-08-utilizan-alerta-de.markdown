@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“Nosotros coincidimos en establecer un mecanismo como ese, lo que hemos pedido es que sea en amplio consenso con las asociaciones de la sociedad civil”, dijo."
 image: "/uploads/2021/images-CORRAL_1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML04_JAVIER_CORRAL.mp3"
 alt: "Utilizan alerta de género como mecanismos de golpeteo -  Gobernador"
 front: false
 section: "Local"
-news_id: 183343
+redirect_from: /news/183343
 ---
 
 Al ser cuestionado respecto a la alerta de género el Gobernador de Chihuahua, Javier Corral Jurado, lamentó que las alertas de género se utilizan lamentablemente de golpeteo político. Destacando que se trabaja para llevar a cabo acciones que frenen la violencia de género. 

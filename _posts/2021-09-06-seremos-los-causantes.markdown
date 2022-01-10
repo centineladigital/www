@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que esto se da de forma natural."
 image: "/uploads/2021/images-MESTA1.jpg"
 video: "/uploads/2021/videos-ML02_FERNANDO_MESTA.mp4"
-audio: "nil"
+audio: nil
 alt: "“Seremos los causantes de las deficiencias que tenga el gobierno entrante” -  Mesta"
 front: false
 section: "Local"
-news_id: 187472
+redirect_from: /news/187472
 ---
 
 “Debemos esperar que durante un tiempo seremos los causantes de las deficiencias que tenga el gobierno entrante”, fueron las palabras del titular de la Secretaría de Gobierno Fernando Mesta Soulé al ser cuestionado respecto a las declaraciones de la gobernadora electa en materia de finanzas dentro del estado.

@@ -10,11 +10,11 @@ author: nil
 description: "Esto se debe a que existe una laguna dentro de la ley donde se escudan los administradores"
 image: "/uploads/2021/images-Amanda_Cordova.png"
 video: "/uploads/2021/videos-MJ02_AMANDA_CORDOVA.mp4"
-audio: "nil"
+audio: nil
 alt: "Adeuda Aeropuerto más de 120 mdp en predial"
 front: false
 section: "Local"
-news_id: 186622
+redirect_from: /news/186622
 ---
 
 Una deuda de más de 120 millones de pesos es lo que adeuda las instalaciones del aeropuerto por concepto de deuda de predial al municipio de Chihuahua, señaló la Tesorera de la capital del estado Amanda Córdova. 

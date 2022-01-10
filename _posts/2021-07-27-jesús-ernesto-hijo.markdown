@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "“No le va a gustar mucho a Beatriz que yo haya dicho esto”, dijo el Presidente, quien reveló que ni él ni su esposa tuvieron complicaciones porque se vacunaron"
 image: "/uploads/2021/images-jeuss_1.jpg_1877235451.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Jesús Ernesto, hijo menor de AMLO, se contagió de Covid-19"
 front: false
 section: "Nacional"
-news_id: 186014
+redirect_from: /news/186014
 ---
 
 El Presidente Andrés Manuel López Obrador reveló que su hijo menor, Jesús Ernesto López Gutiérrez, se contagió de coronavirus o Covid-19 "hace poco".

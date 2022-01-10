@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de redes sociales en donde fans y hasta haters de Natanael Cano retomaron un video en el que el famoso intérprete de corridos tumbados cantó una emblemática canción de Don Vicente Fernández. "
 image: "/uploads/2021/images-critican-natanael-cano-cantar-tema.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Critican a Natanael Cano por cantar tema de Vicente Fernández -  qué vergüenza"
 front: false
 section: "Espectáculos"
-news_id: 190858
+redirect_from: /news/190858
 ---
 
 La muerte de Vicente Fernández ha dado mucho de qué hablar, pues para muchos fue un ícono de la música ranchera en México, posicionándose a nivel internacional. Por ello, algunos famosos han sacado a relucir colaboraciones, fotos, canciones y momentos que recuerdan a Don Chente. Sin embargo, algunos de estos recuerdos provocan controversia. Ejemplo de ello fue Natanael Canto, el rey de los corridos tumbados, que aunque no ha dicho nada sobre el padre de Alejandro Fernández, sus seguidores y haters han retomado la vez que el joven interpretó una canción de Don Chente. ¿No gustó su interpretación? ¿Por qué lo criticaron? Fue a través de redes sociales en donde fans y hasta haters de Natanael Cano retomaron un video en el que el famoso intérprete de corridos tumbados cantó una emblemática canción de Don Vicente Fernández. 

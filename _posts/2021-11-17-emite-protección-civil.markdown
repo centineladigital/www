@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se esperan temperaturas menores a los 0°C con heladas en Casas Grandes, Madera, Gómez Farías, Temósachic, Matachí, Guerrero, Bachíniva, Cuauhtémoc, Moris, Ocampo, Bocoyna, Carichí, Maguarichi, Guachochi, Balleza y Guadalupe y Calvo"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Emite Protección Civil Estatal aviso preventivo por descenso de temperaturas a partir de este jueves"
 front: false
 section: "Local"
-news_id: 189930
+redirect_from: /news/189930
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) emitió un aviso preventivo, en virtud de que para este jueves 18,  viernes 19 y sábado 20 de noviembre se espera el descenso de temperaturas en gran parte del estado.

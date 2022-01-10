@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Señaló que se pone en gran riesgo qué sucederá con el T-MEC"
 image: "/uploads/2021/images-Imagen1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AM02_JORGE_CRUZ.mp3"
 alt: "Poca confianza de empresarios atraería controversias laborales por T-MEC -  Coparmex "
 front: false
 section: "Local"
-news_id: 184522
+redirect_from: /news/184522
 ---
 
 Jorge Cruz Camberos, presidente de Coparmex Chihuahua, indicó que es un hecho el riesgo de controversias sindicales-laborales en el marco del T-MEC. Lo anterior dado a que una empresas de Tamaulipas y otra de Guanajuato han hablado de posibles controversias de este tipo. 

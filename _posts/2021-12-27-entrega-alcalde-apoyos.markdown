@@ -8,11 +8,11 @@ author: nil
 description: "Otorgaron despensas, cobijas, y juguetes como parte del programa Alcalde en tu Colonia"
 image: "/uploads/2021/images-unnamed_(1).jpg"
 video: "/uploads/2021/videos-Alcalde_en_tu_Colonia_NUEVO_TRIUNFO.mp4"
-audio: "nil"
+audio: nil
 alt: "Entrega Alcalde apoyos a vecinos de la colonia Nuevo Triunfo"
 front: false
 section: "Local"
-news_id: 191246
+redirect_from: /news/191246
 ---
 
 El Alcalde de Chihuahua, Marco Bonilla, recorrió las calles de la colonia Nuevo Triunfo con el fin de llevar apoyos a familias de escasos recursos que habitan en esta zona para que tuvieran una celebración más agradable en estas fiestas decembrinas.

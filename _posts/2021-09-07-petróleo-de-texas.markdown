@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El precio del petróleo despertaba a la baja tras la jornada de descanso del lunes, por la fiesta del Día del Trabajo, que en Estados Unidos marca el fin oficioso del verano. "
 image: "/uploads/2021/images-petroleo-foto-ruters.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Petróleo de Texas abre con baja y cotiza en 67.96 dólares"
 front: false
 section: "Internacional"
-news_id: 187496
+redirect_from: /news/187496
 ---
 
 El precio del petróleo intermedio de Texas (WTI) abrió con una baja del 1.92 por ciento hasta 67.96 dólares, por los temores a que la demanda vuelva a encogerse, sobre todo en los mercados de Asia; en la Bolsa Mercantil de Nueva York (Nymex), los contratos futuros del WTI para entrega en octubre perdían 1.33 dólares con respecto al cierre anterior del viernes. 

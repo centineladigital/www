@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Selección Mexicana Sub 23 se impuso por 2-0 sobre Canadá en el Estadio Jalisco y acompañará a Honduras como representantes de Concacaf"
 image: "/uploads/2021/images-2553242.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México consigue su pasaporte a los JO de Tokio"
 front: false
 section: "Deportes"
-news_id: 183592
+redirect_from: /news/183592
 ---
 
 La Selección Mexicana Sub 23 consiguió el boleto para los Juegos Olímpicos de Tokio al derrotar 2-0 a Canadá en la semifinal del Preolímpico y con ello conseguir uno de los dos pases a la justa veraniega que otorga la zona de la Concacaf.

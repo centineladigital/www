@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "“La vacuna” es su más reciente sencillo, y el antecedente del disco que lanzarán en marco para celebrar 25 años de trayectoria."
 image: "/uploads/2021/images-rabanes-wendy-sulca-vampiro-unen.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Los Rabanes, Wendy Sulca y Vampiro unen sus voces en Pandemia"
 front: false
 section: "Espectáculos"
-news_id: 181975
+redirect_from: /news/181975
 ---
 
 La banda de ska punk, Los Rabanes, que trabaja en un nuevo proyecto musical con la peruana Wendy Sulca y Vampiro; está estrenando el tema "La vacuna", el cual habla de lo que ocurre en el mundo en relación a la espera de dar solución al covid-19. “Estamos felices de seguir llevando música para todos, este tema es global, es tendencia, es controversial, porque ha habido diversos temas conspirativos por las diferencias sobre el manejo del gobierno (a esta problemática). Al final es un tema de trascendencia, siempre hemos tratado de llevar rolas con mucho ritmo, rolas con mensaje positivo", destacó Emilio Regueira, integrante de Los Rabanes. En el material que está presentando "he estado rodeado de mujeres, así que el 90 por ciento de los nombres que aparecen son todas aquellas que conozco”, añadió. Además en marzo será lanzado "Rabanes 25" , un disco grabado durante la pandemia 2020, con el cual Rabanes celebra sus 25 años de trayectoria invitando a amigos como Beto Cuevas, Los Pericos, Azul Azul y muchos más a compartir créditos en esta obra monumental. 

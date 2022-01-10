@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz Verónica Montes contó que tras varios meses sin saber por qué se sentía mal, le descubrieron un tumor cerebral que fue provocado por una hormona. "
 image: "/uploads/2021/images-actriz-revelo-origino-tumor-cerebral.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es benigno -  Verónica Montes, actriz de 'El señor de los cielos', revela tiene un tumor cerebral"
 front: false
 section: "Espectáculos"
-news_id: 186680
+redirect_from: /news/186680
 ---
 
 Los famosos no se salvan de tener problemas de salud que los pueden llegar a preocupar, es por eso que tras un tiempo sin saber bien qué era lo que padecía, Verónica Montes, quien se dio a conocer principalmente tras participar en El señor de los cielos, reveló que le detectaron un tumor cerebral. En una entrevista con TVNotas, Verónica Montes detalló que desde hace más de un año ha presentado problemas de salud, pero que aunque se había sometido a varios estudios los doctores no habían podido detectar qué era lo que la aquejaba, hasta ahora. 

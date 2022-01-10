@@ -16,11 +16,11 @@ author: nil
 description: "“Punto final borrón y cuenta nueva” fue criticada por el PAN."
 image: "/uploads/2021/images-CASTREJON.jpg"
 video: "/uploads/2021/videos-BJ02_OSCAR_CASTREJON.mp4"
-audio: "nil"
+audio: nil
 alt: "Le criticaron a Andrés Manuel y dijeron lo mismo -  David Castejón "
 front: false
 section: "Local"
-news_id: 187584
+redirect_from: /news/187584
 ---
 
 El diputado plurinominal David Oscar Castejón afirmó que en la toma de protesta de la gobernadora actual Maru Campos se dijo lo mismo que le criticaron al presidente  Andrés Manuel López obrador.

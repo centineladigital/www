@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Keanu Reeves ayudó a personal del equipo de filmación de su nueva película después de un largo día de grabaciones. "
 image: "/uploads/2021/images-keanu-reeves-demostro-humildad-set.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡La humildad antes que la fama! Captan a Keanu Reeves ayudando al equipo de filmación de 'John Wick 4'"
 front: false
 section: "Espectáculos"
-news_id: 189199
+redirect_from: /news/189199
 ---
 
 Aunque es uno de los actores más exitosos de Hollywood, Keanu Reeves se ha caracterizado por ser una persona a la que no se ha “subido” la fama y esto lo acaba de demostrar hace poco cuando se encontraba grabando unas escenas de John Wick 4, ya que tras una larga jornada decidió ayudar a las personas de la producción. En el último año Keanu Reeves ha estado muy ocupado grabando las nuevas películas de Matrix y al mismo tiempo realizando John Wick 4, filmes que sin duda tienen muy emocionados a los fans, ya que han generado una gran expectativa y a pesar de que Keanu puede estar agotado, esto no impidió que ayudara a las personas que realiza la filmación. 

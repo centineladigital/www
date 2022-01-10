@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En medio de llanto, arreglos florales y emotivas palabras, varios famosos acudieron al funeral de Carmen Salinas en la funeraria de Félix Cuevas, ubicada en la colonia Del Valle Sur, en la alcaldía Benito Juárez. "
 image: "/uploads/2021/images-el-funeral-de-carmen-salinas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Funeral de Carmen Salinas -  así le dan el último adiós a la eterna 'Aventurera' |FOTOS"
 front: false
 section: "Espectáculos"
-news_id: 190736
+redirect_from: /news/190736
 ---
 
 Al funeral de Carmen Salinas han llegado varias celebridades del mundo del espectáculo, pues la famosa ha sido una de las figuras más respetadas y queridas del medio debido a su vasta trayectoria en teatro, cine y televisión. Además de que según la descripción de varios amigos y compañeros, la primera actriz siempre fue una mujer que estuvo dispuesta a ayudar e impulsar sus carreras. En medio de llanto, arreglos florales y emotivas palabras, varios famosos acudieron al funeral de Carmen Salinas en la funeraria de Félix Cuevas, ubicada en la colonia Del Valle Sur, en la alcaldía Benito Juárez. 

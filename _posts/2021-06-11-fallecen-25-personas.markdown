@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Confirma Salud que han perdido la vida 7 mil 076 chihuahuenses en 15 meses de pandemia; además se registran 79 nuevos positivos para sumar  69 mil 431  enfermos de coronavirus"
 image: "/uploads/2021/images-Diapositiva3.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fallecen 25 personas más por COVID-19 en la entidad"
 front: false
 section: "Local"
-news_id: 184987
+redirect_from: /news/184987
 ---
 
 El reporte epidemiológico de la pandemia de COVID-19 en el estado de Chihuahua muestra que al 11 de junio  hay 69 mil 431 contagios acumulados tras sumarse 79 nuevos casos, mientras que el número de fallecimientos se incrementó a 7 mil 076 al confirmarse 25 más.

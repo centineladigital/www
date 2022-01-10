@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Inauguran rehabilitación de cancha de futbol rápido y embovedado de arroyo en el ITCH"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia Gobernadora construcción del nuevo gimnasio en el Tecnológico de Chihuahua   "
 front: false
 section: "Local"
-news_id: 190568
+redirect_from: /news/190568
 ---
 
 La gobernadora Maru Campos Galván y el alcalde Marco Bonilla Mendoza, inauguraron la rehabilitación de la cancha de futbol rápido y el embovedado de una sección del arroyo que cruza el predio del Instituto Tecnológico de Chihuahua (ITCH), obras en las cuales se invirtieron más de 3 millones de pesos.

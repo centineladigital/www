@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hoy se dio a conocer que a los acusados se les negó la suspensión definitiva al amparo 360/2021"
 image: "/uploads/2021/images-Registro_Maru_Campos_Gubernatura_de_Chihuahua_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hoy, nueva audiencia vs.  Maru por presuntos “moches” en obras"
 front: false
 section: "Local"
-news_id: 183429
+redirect_from: /news/183429
 ---
 
 A las 9:00 horas, la Fiscalía Especializada en Combate a la Corrupción obtuvo una nueva cita para celebrar la audiencia de formulación de cargos, en contra de María Eugenia Campos por los delitos de uso ilegal de atribuciones y facultades, así como cohecho, por presuntamente haber solicitado recursos a empresarios de algunas obras en la ciudad.

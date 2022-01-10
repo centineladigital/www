@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Invita el Gobierno Municipal a ponerse al corriente en sus cuentas  "
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Últimos días de 80% de descuento en recargos por pavimentación"
 front: false
 section: "Local"
-news_id: 191011
+redirect_from: /news/191011
 ---
 
 Con el fin de apoyar la economía de las familias chihuahuenses, el Gobierno Municipal a través del Consejo de Urbanización, invita a las familias que tienen retraso en su cuenta por pavimentación a ponerse al corriente y aprovechar los últimos días de 80 por ciento de descuento en recargos. 

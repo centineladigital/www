@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La película 'El Conjuro 3: El diablo me obligó a hacerlo', ya tiene su primer tráiler para el disfrute de todos los amantes del cine de terror. "
 image: "/uploads/2021/images-estrenan-avance-conjuro-diablo-obligo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡'El diablo me obligó a hacerlo'! Así es el escalofriante tráiler de 'El Conjuro 3'"
 front: false
 section: "Espectáculos"
-news_id: 184072
+redirect_from: /news/184072
 ---
 
 Los fanáticos de las películas de terror ya pueden estar festejando que conocimos las primeras imágenes de El Conjuro 3: El diablo me obligó a hacerlo, la tercera entrega de las populares películas de terror basadas en las experiencias de la vida real de Lorraine y Ed Warren, dos investigadores de fenómenos sobrenaturales del siglo XX. Tras casi 8 años del estreno de la primera película y 5 de la segunda, tenemos un nuevo tráiler, que ya emocionados a todos los valientes que no se la podrán perder. Aquí te decimos todo lo que sabemos sobre la nueva película de El Conjuro. 

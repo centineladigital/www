@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente defendió la compra de la planta Deer Park y afirmó que hay demora en creación de las energías alternativas. "
 image: "/uploads/2021/images-conferencia-matutina-hoy-de-diciembre_0_0_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO dice que en enero se cierra compra de refinería Deer Park; “ya tenemos el dinero”"
 front: false
 section: "Nacional"
-news_id: 191222
+redirect_from: /news/191222
 ---
 
 El presidente Andrés Manuel López Obrador afirmó que en enero se va a liquidar la deuda para la compra de la refinería Deer Park, en Estados Unidos, pues aseguró que se cuentan con los recursos suficientes para liquidarla; "tenemos el dinero".

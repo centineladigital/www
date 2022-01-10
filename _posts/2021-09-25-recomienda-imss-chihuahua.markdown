@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Acudir a control prenatal usando correctamente el cubrebocas, respetar la sana distancia y lavarse frecuentemente las manos con agua y jabón, o usar alcohol gel. "
 image: "/uploads/2021/images-Foto_4688-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recomienda IMSS Chihuahua a embarazadas beneficios para control prenatal "
 front: false
 section: "Local"
-news_id: 188068
+redirect_from: /news/188068
 ---
 
 Los cuidados necesarios durante el embarazo garantizan mejores condiciones de salud para madre e hijo, por ello, desde el primer nivel de atención el Instituto Mexicano del Seguro Social (IMSS) brinda control prenatal que previene los riesgos durante la gestación.

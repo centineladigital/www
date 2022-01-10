@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A la fecha el número de decesos es de 7 mil 776 con cuatro nuevos casos en Juárez y Cuauhtémoc;  actualmente 86 personas están hospitalizadas"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alcanza estado las 74 mil 886 personas contagiadas por COVID-19 tras confirmarse otras 95"
 front: false
 section: "Local"
-news_id: 186979
+redirect_from: /news/186979
 ---
 
 Un total general de 74 mil 886 casos de COVID-19 registra la Secretaría de Salud luego de que se confirmaran 95 nuevos contagios en el último reporte epidemiológico estatal. El número de fallecimientos es de 7 mil 776 al registrarse cuatro casos en las últimas horas, los cuales tres corresponden al municipio de Juárez y uno a Cuauhtémoc.

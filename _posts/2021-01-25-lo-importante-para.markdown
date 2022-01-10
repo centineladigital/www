@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Estamos en una situación en la que no podemos poner en riesgo nuestro desarrollo económico"
 image: "/uploads/2021/images-DGDFHDF.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AL01_JORGE_CRUZ.mp3"
 alt: "Lo importante para el estado es la unidad -  Coparmex"
 front: false
 section: "Local"
-news_id: 182428
+redirect_from: /news/182428
 ---
 
 El presidente COPARMEX Chihuahua,  Jorge Cruz Camberos, puntualizó que se mantendrán al margen de los procesos internos de cada partido, y consideró que "hoy por hoy lo que se necesita en el estado es la unidad”. 

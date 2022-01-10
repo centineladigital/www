@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En un comunicado, Pfizer dijo que concedería una licencia para la píldora antiviral al Medicines Patent Pool. "
 image: "/uploads/2021/images-pfizer-dejara-fabriquen-pildora-covid.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pfizer dejará que otras empresas fabriquen su píldora contra covid-19"
 front: false
 section: "Internacional"
-news_id: 189867
+redirect_from: /news/189867
 ---
 
 La farmacéutica Pfizer Inc. firmó un acuerdo con un grupo respaldado por Naciones Unidas para permitir que otros fabricantes produzcan su píldora experimental contra el covid-19, una decisión que podría hacer el tratamiento disponible para más de la mitad de la población mundial. 

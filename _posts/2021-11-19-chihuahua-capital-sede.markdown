@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Alcalde, dio la bienvenida a las delegaciones que competirán en las siete suertes del rodeo"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chihuahua capital, sede del Campeonato Nacional de Rodeo; participan 18 estados"
 front: false
 section: "Local"
-news_id: 189992
+redirect_from: /news/189992
 ---
 
 El presidente municipal, Marco Bonilla Mendoza y la presidenta del DIF Municipal, Karina Olivas, recibieron en el salón 12 de Octubre de presidencia a las delegaciones de rodeo de 18 estados de la república, que estarán compitiendo en el XXV Campeonato Nacional de Rodeo a celebrarse los días 20 y 21 de noviembre.

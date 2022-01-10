@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tom Cruise es un actor que da todo en el set de grabación y en esta ocasión lo volvió al demostrar al volar en el ala de una avioneta. "
 image: "/uploads/2021/images-actor-grabando-pelicula-mision-imposible.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Qué valiente! Tom Cruise vuela en el ala de una avioneta para grabar 'Misión Imposible'"
 front: false
 section: "Espectáculos"
-news_id: 190494
+redirect_from: /news/190494
 ---
 
 Los actores que realizan películas de acción por lo regular prefieren que un doble haga las escenas de mayor riesgo, sin embargo, se sabe que Tom Cruise  es de los pocos que graba la mayoría de este tipo de escenas sin un extra, algo que quedó muy claro recientemente cuando captaron al histrión volar sobre el ala de una avioneta. Tom Cruise no tiene miedo de arriesgar el físico al momento de realizar una película, sobre todo si se trata de las que forman parte de la saga Misión Imposible, filmes que protagoniza y en los que está muy involucrado en la producción. 

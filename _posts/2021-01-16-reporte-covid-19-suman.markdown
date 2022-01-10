@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se registraron 13 decesos, 10 de ellos en la capital del estado y 3 en Juárez, así como 160 nuevos contagios"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reporte COVID-19 -  suman 48,287 confirmados y 4,483 decesos en el estado   "
 front: false
 section: "Local"
-news_id: 182203
+redirect_from: /news/182203
 ---
 
 La Secretaría de Salud informó que se reportaron 160 nuevos contagios y 13 personas fallecidas, con lo que se tienen en estado de Chihuahua un total general de 48 mil 287 casos confirmados y 4 mil 483 decesos por COVID-19.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La conductora de TV Azteca reinterpretó junto a Pato Borghetti la canción 'Si no estás conmigo', tema principal de la icónica telenovela. "
 image: "/uploads/2021/images-cynthia-rodriguez-pato-borghetti-cantan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cynthia Rodríguez y Pato Borghetti cantan tema de 'Amor en custodia' en 'VLA'; así reaccionan en redes"
 front: false
 section: "Espectáculos"
-news_id: 188609
+redirect_from: /news/188609
 ---
 
 El regreso de Amor en custodia a la pantalla chica despertó la nostalgia entre los seguidores de la historia de amor de Barbie y Pacheco, pues no sólo los protagonistas se reencontraron tras 16 años del estreno de la telenovela, también Cynthia Rodríguez reinterpretó la canción principal de la icónica telenovela, junto a Patricio Borghetti, durante la transmisión de Venga la Alegría.  Este lunes la conductora de TV Azteca sorprendió al cantar "Si no estás conmigo", el tema del melodrama protagonizado por Paola Núñez, Andrés Palacios, Margarita Gralia y Sergio Basañez. Cynthia Rodríguez unió su voz a la de Pato Borghetti para revivir el dueto que conquistó la televisión en la década de los 2000.  

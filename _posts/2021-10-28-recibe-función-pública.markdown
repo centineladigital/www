@@ -10,11 +10,11 @@ author: nil
 description: "Esto perteneciente a 10 secretarías que ya fueron notificadas."
 image: "/uploads/2021/images-MARIA.jpg"
 video: "/uploads/2021/videos-MJ03_MARIA_ALVAREZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Recibe función pública 903 observaciones"
 front: false
 section: "Local"
-news_id: 189316
+redirect_from: /news/189316
 ---
 
 En lo que va de la administración la Secretaría de la Función Pública ha recibido 903 observaciones, según lo externo la titular de esta dependencia María de los Ángeles Álvarez Hurtado. Esto pertenecientes a  10 secretarías que ya fueron notificadas.

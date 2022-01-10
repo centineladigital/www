@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-WhatsApp_Video_2021-10-05_at_09.37.25.mp4"
 alt: "Sujeto armado sube a camión de maquiladora"
 front: false
 section: "Local"
-news_id: 188368
+redirect_from: /news/188368
 ---
 
 Un sujeto con un arma subió a un camión de maquiladora escapando de la policía, lo que generó un operativo inmovilización en la parada de las fuentes danzarinas.

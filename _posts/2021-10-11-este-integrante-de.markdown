@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Son varias las estrellas de K-pop que han participado en el popular programa de televisión surcoreano; así fue el día que BTS se hizo presente en el reality. "
 image: "/uploads/2021/images-integrante-de-bts-que-aparecio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Este integrante de BTS salió en 'Quién es la máscara'; así fue su participación"
 front: false
 section: "Espectáculos"
-news_id: 188576
+redirect_from: /news/188576
 ---
 
 BTS no deja de sorprender al army con conciertos, apariciones en revistas de moda, colaboraciones con artistas internacionales-como Coldplay- y hasta alianzas con empresas de comida rápida. Incluso, el éxito de su gira Permission to Dance On Stage-LA pasó a un segundo plano ayer cuando se anunció que los boletos se habían agotado en tan sólo unas horas. Pero su popularidad va más allá de la música, pues también hicieron historia al aparecer en Quién es la máscara.  

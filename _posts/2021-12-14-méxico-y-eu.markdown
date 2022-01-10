@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de negociaciones entre Estados Unidos y México, hoy inició operaciones el Entendimiento Bicentenario, el cual deja atrás a la Iniciativa Mérida.   "
 image: "/uploads/2021/images-marcelo-ebrard-ken-salazar-rosa.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México y EU dan inicio al Entendimiento Bicentenario; es una nueva etapa -  Ebrard"
 front: false
 section: "Nacional"
-news_id: 190837
+redirect_from: /news/190837
 ---
 
 El Entendimiento Bicentenario de Seguridad entre México y Estados Unidos inició formalmente operaciones. "El día de hoy nace el Entendimiento Bicentenario, se vuelve operativo, es el acta de nacimiento y el inicio de operaciones de una nueva etapa entre México y Estados Unidos en materia de seguridad", aseguró el secretario de Relaciones Exteriores, Marcelo Ebrard. 

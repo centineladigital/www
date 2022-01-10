@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "María Conchita Alonso destapó que tuvo un amorío fugaz con Erik Rubín, esposo de Andrea Legarreta. Aseguró que ella atrae a muchos hombres jóvenes."
 image: "/uploads/2021/images-maria-conchita-alonso-destapa-romance.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Tan lindo -  María Conchita Alonso tuvo romance con Erik Rubín; habla de Andrea Legarreta"
 front: false
 section: "Espectáculos"
-news_id: 184246
+redirect_from: /news/184246
 ---
 
 María Conchita Alonso, famosa cantante, dio de qué hablar y no precisamente por sus recientes declaraciones sobre las teorías conspirativas en las que cree. Ahora, la figura pública puso en el centro de la conversación a Erik Rubín, actual esposo de Andrea Legarreta, pues destapó que tuvo un romance con el ex Timbiriche. ¿En qué momento? ¿Fueron novios? ¿Tuvieron una relación amorosa larga? Te contamos lo que dijo la famosa. En entrevista con Gustavo Adolfo Infante, María Conchita Alonso compartió que tiene ‘suerte’ con los hombres más jóvenes en el terreno amoroso. Explicó que aunque busca a un hombre maduro con metas claras, centrado y éxito profesional, por lo regular atrae jóvenes. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los contenedores estarán en un horario de 8 de la mañana a 3 de la tarde  "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conoce las colonias que atenderá el Destilichadero esta semana"
 front: false
 section: "Local"
-news_id: 188316
+redirect_from: /news/188316
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos, continúa con el programa de Destilichadero en los diferentes puntos de la ciudad y para la semana del 4 al 8 de octubre el contenedor y la ruta de limpieza, atenderá las colonias: Santa Rita, Mármol 2, División del Norte 3, Campo Bello etapas 1, 2 y 3, Vida Digna, Villa del Norte y Los Arcos.

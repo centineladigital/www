@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El centro de la tormenta cruzará este miércoles por la noche la zona conocida como el Panhandle de Florida, la parte noroccidental del estado que colinda con Alabama y Georgia. "
 image: "/uploads/2021/images-tormenta-tropical-henri-provoca-emergencia_155_28_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tormenta tropical 'Mindy' amenaza el norte de Florida"
 front: false
 section: "Internacional"
-news_id: 187569
+redirect_from: /news/187569
 ---
 
 La tormenta tropical Mindy se formó este miércoles en el golfo de México y amenaza a la costa noroeste de Florida en las próximas horas, informó el Centro Nacional de Huracanes (NHC) de Estados Unidos. 

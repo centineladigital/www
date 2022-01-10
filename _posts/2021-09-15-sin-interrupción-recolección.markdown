@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se pide a los vecinos sacar sus residuos de manera habitual"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-15_at_10.53.27.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sin interrupción recolección de basura este 16 de septiembre "
 front: false
 section: "Local"
-news_id: 187751
+redirect_from: /news/187751
 ---
 
 El Gobierno Municipal informa que este jueves 16 de septiembre el servicio de recolección de basura habitacional se realizará de manera regular, por lo que se invita a los chihuahuenses a loa que les corresponde sacar la basura el día de mañana lo hagan de la forma acostumbrada. 

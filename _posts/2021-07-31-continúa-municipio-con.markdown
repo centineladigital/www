@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el propósito de disminuir el riesgo de contagios por COVID19, el Municipio continúa con las labores de desinfección de parabuses ubicados en distintos puntos de la capital"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúa Municipio con desinfección de parabuses"
 front: false
 section: "Local"
-news_id: 186169
+redirect_from: /news/186169
 ---
 
 Personal de la Subdirección de Espacios Públicos, de la Dirección de Mantenimiento Urbano, lleva a cabo la desinfección diaria a través de cuadrillas de limpieza equipadas con hidrolavadoras y motomochilas, quienes rocían las superficies de las paradas de autobuses, así como sus alrededores, con un químico especial que sanitiza y limpia las superficies.

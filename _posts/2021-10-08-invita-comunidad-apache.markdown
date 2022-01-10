@@ -10,11 +10,11 @@ author: nil
 description: "Esto en el marco de la conmenoración de la muerte del jefe apache Victorio."
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-MV04_TONY_TOVAR.mp4"
-audio: "nil"
+audio: nil
 alt: "Invita comunidad Apache a actividades en Chihuahua"
 front: false
 section: "Local"
-news_id: 188529
+redirect_from: /news/188529
 ---
 
 Dentro del marco de la conmemoración de la Batalla de Tres Castillos descendientes de la comunidad apache invitan a una serie de actividades este 14 de octubre, entre los que se encuentran danzas tradicionales.

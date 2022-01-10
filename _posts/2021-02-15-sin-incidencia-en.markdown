@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "No se tienen incidentes graves dentro de los hospitales."
 image: "/uploads/2021/images-WENDY1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML02.mp3"
 alt: "Sin incidencia en hospitales pese al frío"
 front: false
 section: "Local"
-news_id: 182938
+redirect_from: /news/182938
 ---
 
 Pese a que se registró una onda gélida en Chihuahua no se tienen incidentes graves, según lo declaró Wendy Ávila Coronado, Subdirectora de Medicina Preventiva y Promoción Para la Salud. Quien también dio a conocer la llegada de vacunas para el sector salud.

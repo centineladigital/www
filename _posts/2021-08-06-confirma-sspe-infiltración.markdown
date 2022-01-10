@@ -10,11 +10,11 @@ author: nil
 description: "Limpieza se lleva a cabo de forma constante, afirma Emilio García Ruiz."
 image: "/uploads/2021/images-EMILIO.jpg"
 video: "/uploads/2021/videos-MV06_EMILIO_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Confirma SSPE infiltración en sus filas"
 front: false
 section: "Local"
-news_id: 186404
+redirect_from: /news/186404
 ---
 
 El titular de la Secretaría Seguridad Pública Estatal, Emilio García Ruiz, señaló que existen elementos que se han visto relacionados con el crimen organizado y algunos de éstos se pusieron a disposición de la Fiscalía General.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal realizó la capacitación para darles herramientas que brinden una mejor enseñanza"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacitan a maestros de jardín de niños en atención a alumnos con sordera"
 front: false
 section: "Local"
-news_id: 190833
+redirect_from: /news/190833
 ---
 
 En el marco de los primeros 100 días de trabajo y resultados, el Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, impartió una capacitación sobre atención a estudiantes con sordera, a docentes y personal del jardín de niños “Sor Juana Inés de la Cruz”.

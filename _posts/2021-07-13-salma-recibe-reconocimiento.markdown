@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La veracruzana asistió a la cita francesa para recibir el premio Women in Motion "
 image: "/uploads/2021/images-mexicana-reconocida-premios-significativos-festival_0_40_511_318.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Salma recibe reconocimiento feminista en Cannes"
 front: false
 section: "Espectáculos"
-news_id: 185639
+redirect_from: /news/185639
 ---
 
 Por su compromiso por los derechos y contra la violencia hacia las mujeres, especialmente del mundo del cine y la cultura; la actriz y productora mexicana Salma Hayek recibió el premio "Women in Motion" (mujeres en cine)en el marco del Festival de Cannes. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se invita a los chihuahuenses a sumarse al programa de promoción del CUM"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-09_at_10.37.46.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En colaboración Municipio y ciudadanía, se puede pavimentar tu calle"
 front: false
 section: "Local"
-news_id: 188561
+redirect_from: /news/188561
 ---
 
 Con la finalidad de avanzar en materia urbana, el Gobierno Municipal a través del Consejo de Urbanización Municipal (CUM), invita a los ciudadanos a sumarse al programa de promoción, el cual consiste en la coparticipación entre ciudadanos y este organismo, para pavimentar las calles de la ciudad.

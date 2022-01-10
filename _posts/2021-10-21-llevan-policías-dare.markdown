@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los agentes continúan ofreciendo sus enseñanzas a pequeños de kínder, primaria y secundaria"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llevan policías D.A.R.E clases de prevención de adicciones y violencia a niños de Casa Hogar   "
 front: false
 section: "Local"
-news_id: 189030
+redirect_from: /news/189030
 ---
 
 Niñas y niños del albergue “Palabra de Vida” ubicado al norte de la ciudad, recibieron capacitación sobre prevención de adicciones y violencia por parte del Gobierno Municipal a través del equipo D.A.R.E. (Drugs Abuse Resistence Education) de la Policía Municipal de Chihuahua.

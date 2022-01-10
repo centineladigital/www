@@ -14,11 +14,11 @@ author: nil
 description: "Está firme en trabajar desde la torre legislativa de la mano de los municipios"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-21_at_10.08.11.jpeg"
 video: "/uploads/2021/videos-BJ01_PEREZ_PAVIA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Inauguración de nueva  calle pavimentada en Lázaro Cárdenas "
 front: false
 section: "Local"
-news_id: 189046
+redirect_from: /news/189046
 ---
 
 Ismael Pérez Pavía acompañó a la alcaldesa de Meoqui, Miriam Soto y al presidente seccional, Israel García, en la inauguración de la nueva calle pavimentada Francisco Villa en Lázaro Cárdenas.

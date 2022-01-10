@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de Twitter en donde Ernesto Laguardia decidió informar que su madre había muerto."
 image: "/uploads/2021/images-ernesto-laguardia-luto-muere-mama.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me dejas un vacío en el corazón -  Ernesto Laguardia está de luto; anuncia la muerte de su mamá"
 front: false
 section: "Espectáculos"
-news_id: 189200
+redirect_from: /news/189200
 ---
 
 Ernesto Laguardia, famoso actor y ex conductor del programa Hoy de Televisa, está de luto: su madre murió. Así lo informó el famoso a través de su cuenta de Twitter en donde dedicó un emotivo mensaje para su madre Yolanda Longega Castellanos. Te contamos lo que expresó el ex compañero de Andrea Legarreta. Fue a través de Twitter en donde Ernesto Laguardia decidió informar que su madre había muerto este pasado lunes 25 de octubre. Con dos fotografías, el presentador de televisión acompañó su mensaje. 

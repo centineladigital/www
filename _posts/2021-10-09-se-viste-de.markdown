@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Exhorta a las mujeres chihuahuenses a autoexplorarse para detectar y atender oportunamente este padecimiento  "
 image: "/uploads/2021/images-IMSS_Chih._B4965_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se viste de rosa IMSS Chihuahua pide prevenir el cáncer de mama "
 front: false
 section: "Local"
-news_id: 188565
+redirect_from: /news/188565
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua iluminó sus unidades médicas y hospitalarias de color rosa, con motivo del Mes de Sensibilización del Cáncer de Mama 

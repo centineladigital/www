@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Asegura que hay una recuperación económica; proyecta Santander crecimiento de 5.3% para México; estima alza de 2% de remesas enviadas en marzo respecto al mismo mes de 2020"
 image: "/uploads/2021/images-2570254.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Destaca López Obrador fortaleza del peso, creación de empleos…"
 front: false
 section: "Nacional"
-news_id: 184180
+redirect_from: /news/184180
 ---
 
 Al afirmar que México registra una recuperación económica, el presidente Andrés Manuel López Obrador destacó la apreciación del peso frente al dólar, el aumento de las remesas respecto a 2020 y la recuperación de empleos.

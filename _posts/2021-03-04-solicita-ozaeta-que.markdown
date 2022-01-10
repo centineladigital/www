@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se aplicará en colonias de alto riesgo, con el fin de evitar que se incremente inseguridad."
 image: "/uploads/2021/images-oza1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW07_DEYANIRA_OZAETA.mp3"
 alt: "Solicita Ozaeta que se implemente “Juárez Aquí”"
 front: false
 section: "Local"
-news_id: 183281
+redirect_from: /news/183281
 ---
 
 

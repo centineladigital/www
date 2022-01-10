@@ -16,11 +16,11 @@ author: nil
 description: "Tiene un impacto en las horas de más alto consumo de electricidad por cuestiones industriales"
 image: "/uploads/2021/images-coparmex.jpg"
 video: "/uploads/2021/videos-BW02_JOSE_SANCHEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "El cambio de horario será un beneficio Chihuahua "
 front: false
 section: "Local"
-news_id: 188988
+redirect_from: /news/188988
 ---
 
 El presidente de COMPARMEX de ciudad Juárez,  José Mario Sánchez, aseguró que el cambio de horario da un beneficio en la generación de electricidad puesto que cuando se hacen las cuentas del generador de electricidad si hay un ajuste en el consumo.

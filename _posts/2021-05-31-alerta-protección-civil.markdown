@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Igualmente persiste el pronóstico de lluvias con descargas eléctricas y granizo principalmente en las zonas de López, Jiménez, Camargo, Coyame, Manuel Benavides y Ojinaga"
 image: "/uploads/2021/images-preview_efecda4e96760810d63ffbd4559fb90fc100717e.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Protección Civil sobre posible formación de torbellinos o tornados en zonas norte y noreste"
 front: false
 section: "Local"
-news_id: 184750
+redirect_from: /news/184750
 ---
 
 Un canal de baja presión en interacción con una inestabilidad atmosférica superior sobre el estado de Chihuahua, favorecerá un ambiente templado por la mañana, de caluroso a muy caluroso por la tarde, así como cielo de despejado a parcialmente nublado, informó la Coordinación Estatal de Protección Civil.

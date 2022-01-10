@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El derechohabiente jubilado Leonel Salgado hizo un llamado urgente de construir un nuevo hospital del ISSSTE por el severo deterioro que presenta y las afectaciones que dejó el sismo de 7.1 del 7 de septiembre. "
 image: "/uploads/2021/images-docente-jubilado-califico-inhumano-quiera_55_34_1090_679.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Acapulco, piden construir nuevo hospital del ISSSTE tras daños por sismo"
 front: false
 section: "Nacional"
-news_id: 187669
+redirect_from: /news/187669
 ---
 
 Tras el sismo del 7 de septiembre, con epicentro en Acapulco, Guerrero, los derechohabientes llaman a las autoridades del gobierno federal a la construcción de un nuevo centro hospitalario del ISSSTE. Pacientes, familiares y trabajadores, manifestaron su inconformidad por las pésimas condiciones en que se encuentran las diversas áreas del hospital. 

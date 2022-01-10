@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La organización pide el restablecimiento de los derechos humanos para los migrantes haitianos que circulan en la frontera de ambos países. "
 image: "/uploads/2021/images-migrantes-haitianos-buscan-llegar-unidos_0_27_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Amnistía Internacional exigen a México y EU frenar deportaciones de migrantes haitianos"
 front: false
 section: "Internacional"
-news_id: 189348
+redirect_from: /news/189348
 ---
 
 Los representantes de la organización Amnistía Internacional urgieron a los gobiernos de México y Estados Unidos frenar las deportaciones de haitianos y condenó las violaciones de derechos humanos que sufren en la región en medio del masivo flujo de los ciudadanos centroamericanos en la frontera de ambos países. 

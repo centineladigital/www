@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Hasta el momento se han realizado de manera consecutiva 12 Jornadas de Recuperación de los Servicios Ordinarios los fines de semana."
 image: "/uploads/2021/images-Foto_6221-5.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza IMSS Chihuahua más de 5 millones de acciones de Recuperación Servicios en lo que va del año "
 front: false
 section: "Local"
-news_id: 190812
+redirect_from: /news/190812
 ---
 
 En lo que va del año, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua ha realizado en la entidad 5 millones 962 mil 994 de acciones para la Recuperación de Servicios Ordinarios en las diferentes unidades médicas y hospitalarias. 

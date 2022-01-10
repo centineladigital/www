@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Lo cual representa una erogación de 35 punto tres millones de pesos para las y los sindicalizados de los tres poderes y de los organismos descentralizados. "
 image: "/uploads/2021/images-CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ07_JAVIER.mp3"
 alt: "Incrementan 4 por ciento a sindicalizados de Gobierno Estatal"
 front: false
 section: "Local"
-news_id: 184327
+redirect_from: /news/184327
 ---
 
 Un incremento de un cuatro por ciento en los salarios de personal sindicalizado fue dado a conocer este jueves por el Gobernador Javier Corral. Esto al firmar el convenio con dirigentes del Sindicato de Trabajadores al Servicio del Gobierno del Estado.

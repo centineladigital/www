@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Como parte de la conmemoración de la consumación de la Independencia y el fusilamiento del libertador, autoridades civiles y militares encabezaron además una guardia de honor en el Altar de la Patria"
 image: "/uploads/2021/images-_DSC9677.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reabre Gobierno del Estado el Museo Miguel Hidalgo"
 front: false
 section: "Local"
-news_id: 186137
+redirect_from: /news/186137
 ---
 
 Luego de encabezar una Guardia de Honor ante el Altar de la Patria, autoridades civiles y militares reinauguraron el Museo Miguel Hidalgo, en el Palacio de Gobierno, el cual fue sometido a una remodelación.

@@ -10,11 +10,11 @@ author: nil
 description: "Tienen 30 días para presentar irregularidades."
 image: "/uploads/2021/images-JAVIER.jpg"
 video: "/uploads/2021/videos-MV05_JAVIER_GONZALEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Presentará educación irregularidades de la pasada administración"
 front: false
 section: "Local"
-news_id: 188038
+redirect_from: /news/188038
 ---
 
 El titular de la Secretaría de Educación, Javier González Mocken, dio a conocer que en breve presentarán las irregularidades que se encontraron dentro de la dependencia que él encabeza, las cuales se cometieron dentro de la pasada administración.

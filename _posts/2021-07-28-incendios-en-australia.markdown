@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Un nuevo estudio revela que los incendios forestales australianos enfriaron el hemisferio sur hasta tal punto que bajaron las temperaturas promedio de la superficie de la Tierra"
 image: "/uploads/2021/images-temporada-incendios-australia-varia-zona_0_23_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Incendios en Australia afectaron más al clima que aislamiento por covid-19 en el 2020"
 front: false
 section: "Internacional"
-news_id: 186060
+redirect_from: /news/186060
 ---
 
 La ola de incendios forestales que arrasó Australia desde finales de 2019 hasta 2020 tuvo un impacto más inmediato en el clima global que los confinamientos relacionados con la pandemia del ccovid-19.Estos incendios sin precedentes bombearon columnas de humo que alcanzaron la estratosfera y rodearon gran parte del hemisferio sur. 

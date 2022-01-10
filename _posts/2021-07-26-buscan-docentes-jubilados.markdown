@@ -10,11 +10,11 @@ author: nil
 description: "Buscan ser escuchados en el Congreso de la Unión. "
 image: "/uploads/2021/images-HERMILA.jpg"
 video: "/uploads/2021/videos-ML04_HERMILA_ORTEGA.mp4"
-audio: "nil"
+audio: nil
 alt: "Buscan docentes jubilados crear iniciativa ciudadana"
 front: false
 section: "Local"
-news_id: 185999
+redirect_from: /news/185999
 ---
 
 Un total de 15 mil firmas para que se pueda llevar a cabo una inciativa ciudadana dentro del Congreso de la Unión, esto con el fin de evitar que se aplique una ley que no es retroactiva con lo que se perjudicarán en primer instancia a los jubilados gubernamentales y continuará con los que reciben una pensión del IMSS.

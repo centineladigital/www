@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los distintos ministros de Sanidad y de Economía del foro de las 20 potencias del planeta ya adelantaron ayer la intención de alcanzar este objetivo, propuesto por la Organización Mundial de la Salud (OMS)"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Los líderes del G20 se comprometen a vacunar al 70% del mundo en 2022"
 front: false
 section: "Internacional"
-news_id: 189403
+redirect_from: /news/189403
 ---
 
 Los jefes de Estado o de Gobierno del G20 se comprometieron hoy en Roma a vacunar a al menos 70 % de la población mundial en 2022, mediante el reparto del fármaco contra el coronavirus a países pobres, confirmaron fuentes de la cumbre. 

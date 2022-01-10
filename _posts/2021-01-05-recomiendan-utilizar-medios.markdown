@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Llaman a aprovechar los descuentos por pronto pago; en enero el costo es de 850 a 1,600 pesos de acuerdo al vehículo y modelo"
 image: "/uploads/2021/images-6c526ed2-f174-45fa-ac8d-650cb0fb0291.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recomiendan utilizar medios alternos para pagar la revalidación vehicular 2021"
 front: false
 section: "Local"
-news_id: 181893
+redirect_from: /news/181893
 ---
 
 El secretario de Hacienda, Arturo Fuentes Vélez, informó que el pago de la revalidación vehicular es uno de los rubros más importantes en la recaudación de ingresos propios, lo cual se debe a la responsabilidad de los contribuyentes que oportunamente cumplen con sus obligaciones fiscales.

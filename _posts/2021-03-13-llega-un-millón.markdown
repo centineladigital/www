@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El canciller Marcelo Ebrard informó que se trata del embarque más numeroso de vacunas que llegan a nuestro país hasta ahora"
 image: "/uploads/2021/images-2544380.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llega un millón de dosis de vacunas chinas Sinovac"
 front: false
 section: "Nacional"
-news_id: 183407
+redirect_from: /news/183407
 ---
 
 La mañana de este sábado llegaron al Aeropuerto Internacional de la Ciudad de México (AICM), un millón de dosis de la vacuna china Sinovac.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Su actuación contra Chile convenció a Gerardo Martino y a su cuerpo técnico"
 image: "/uploads/2021/images-imago-1152797.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Selección Mexicana se convence y continuará convocando a joven futbolista"
 front: false
 section: "Deportes"
-news_id: 190702
+redirect_from: /news/190702
 ---
 
 De todos los jóvenes a los que Gerardo Martino les dio la oportunidad de jugar con la Selección Nacional, el miércoles frente a Chile en Austin, el que más le gustó fue Julián Araujo, quien podría aparecer en la convocatoria para la eliminatoria mundialista en enero. El futbolista del Galaxy de Los Ángeles respondió en la lateral derecha.

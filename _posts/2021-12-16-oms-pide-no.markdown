@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las autoridades sanitarias internacionales pusieron especial punto a la extensión de la variante ómicron, que toma ventaja sobre Delta. "
 image: "/uploads/2021/images-casos-variante-omicron-covid-generando_0_23_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "OMS pide no subestimar al covid-19 pese a ligera baja de contagios a nivel global"
 front: false
 section: "Internacional"
-news_id: 190918
+redirect_from: /news/190918
 ---
 
 Los nuevos casos globales de covid-19 bajaron la semana pasada tras casi dos meses de ascensos, aunque la Organización Mundial de la Salud (OMS) pide no bajar la guardia ante el avance de la variante ómicron, que lentamente comienza a sustituir a Delta, la gran dominante en la pandemia este año. 

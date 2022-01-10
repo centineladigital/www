@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de un video, el estudio cinematográfico acaba de confirmar el nombre, logo y fecha de lanzamiento de la segunda entrega de Pantera Negra. "
 image: "/uploads/2021/images-el-actor-fallecio-el-pasado.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Wakanda Forever! Marvel revela título, logo y fecha de estreno de la secuela de 'Black Panther'"
 front: false
 section: "Espectáculos"
-news_id: 184243
+redirect_from: /news/184243
 ---
 
 Black Panther (2018) es una de las películas más exitosas de Marvel, protagonizada por Chadwick Boseman, quien falleció en agosto del año pasado a causa de cáncer colon. Aunque por ahora no se sabe quién podrá tomar el lugar del rey T'Challa, lo que es un hecho es que Marvel ha dado nuevos detalles de la secuela. A priori, se sabía que la segunda entrega volverá a contar con la dirección de Ryan Coogler, por lo que se espera un reparto y producción a la altura de la primera cinta. Ahora, el estudio acaba de confirmar el título oficial, logo y fecha de estreno. 

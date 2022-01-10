@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Chihuahua se encuentra en una situación de riesgo para las instituciones financieras"
 image: "/uploads/2021/images-Imagen1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AL04_MIGUEL_COLUNGA_MARTINEZ.mp3"
 alt: "Instituciones financieras catalogan a Chihuahua como riesgosa dado su nivel de endeudamiento -  Colunga "
 front: false
 section: "Local"
-news_id: 182040
+redirect_from: /news/182040
 ---
 
 El coordinador de los diputados de Morena, Miguel Ángel Colunga Martínez informo que la Secretaria de Hacienda de Gobernó Federal en su sistema de alertas clasifico a Chihuahua e una situación de riesgo, dado al nivel de endeudamiento que existe en la entidad.

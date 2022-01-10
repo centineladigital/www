@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se llevará de forma normal, asegura César Peniche."
 image: "/uploads/2021/images-PENICHE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML04_CESAR_PENICHE.mp3"
 alt: "No hay impacto en reposición de juicios"
 front: false
 section: "Local"
-news_id: 185150
+redirect_from: /news/185150
 ---
 
 No hay impacto en la reposición de juicios, señaló el Fiscal General del Estado César Augusto Peniche Espejel al ser cuestionado respecto al tema, afirmando que una vez que se dé la extradición el exmandatario continuará con el proceso esto ya que nada tiene que ver lo judicial con lo administrativo.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Juan Ricardo Hernández Jr. demandó también al cuñado del actor, Lucas Delfino, quien conducía el auto en el que viajaba el histrión el día del incidente. "
 image: "/uploads/2021/images-pablo-lyle-permanece-arresto-domiciliario-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pablo Lyle enfrenta nueva demanda; hijo de hombre que golpeó pide dinero por daño emocional"
 front: false
 section: "Espectáculos"
-news_id: 184184
+redirect_from: /news/184184
 ---
 
 Desde hace dos años, Pablo Lyle enfrenta un proceso legal por el homicidio de Juan Ricardo Hernández, un hombre cubano al que golpeó en plena vía pública en Miami (Florida) y quien lamentablemente murió días después. Sin embargo, al actor le llueve sobre mojado, pues ahora se enfrenta a una nueva demanda. Y es que, tras darse a conocer que su juicio se llevará a cabo hasta el próximo mes de junio, ahora se enfrenta a una demanda civil por parte del hijo del fallecido, quien le reclama 15 mil dólares (más de 300 mil pesos mexicanos) por daño emocional. 

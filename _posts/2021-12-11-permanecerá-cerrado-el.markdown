@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se invirtieron más de 650 mil pesos en correcciones estructurales, mecánicas y eléctricas"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Permanecerá cerrado el parque “El Colibrí” por contingencia sanitaria por COVID-19"
 front: false
 section: "Local"
-news_id: 190760
+redirect_from: /news/190760
 ---
 
 Luego de tres meses de trabajos intensivos que se realizaron en el Parque “El Colibrí” a fin de garantizar que las instalaciones fueran seguras para el sano esparcimiento de las familias de Chihuahua, el DIF estatal dio fin a los trabajos de mantenimiento.

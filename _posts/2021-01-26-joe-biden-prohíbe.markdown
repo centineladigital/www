@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hoy entra en vigor la petición de pruebas negativas para viajeros que ingresen vía aérea a Estados Unidos"
 image: "/uploads/2021/images-2518360.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Joe Biden prohíbe vuelos de 30 países; restricciones por la pandemia"
 front: false
 section: "Internacional"
-news_id: 182435
+redirect_from: /news/182435
 ---
 
 A partir de hoy, Estados Unidos prohibió los vuelos de un total de 30 países.

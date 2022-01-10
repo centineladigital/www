@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz de 'Friends' recordó su reencuentro con su ex esposo e 2020 y reveló si retomaron su relación amorosa. "
 image: "/uploads/2021/images-jennifer-aniston-revela-relacion-brad_0_0_1200_747.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-jennifer-aniston-revela-relacion-brad_0_0_1200_747.jpg"
 alt: "¿Están juntos de nuevo? Jennifer Aniston revela cómo es su relación con Brad Pitt"
 front: false
 section: "Espectáculos"
-news_id: 185270
+redirect_from: /news/185270
 ---
 
 Jennifer Aniston y Brad Pitt conformaron una de las parejas más populares y seguidas por la prensa en Hollywood. Los actores se casaron en el año 2000, pero cinco años después decidieron ponerle fin a su matrimonio y se divorciaron en medio de la polémica. Tras su viral reencuentro en 2020, los famosos despertaron la nostalgia entre los fans y comenzó a correr el rumor de que estaban de nuevo juntos, que ahora la actriz de Friends decidió aclarar.  

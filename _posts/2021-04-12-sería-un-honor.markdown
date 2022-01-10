@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El ex luchar profesional señaló que no descarta incursionar en la política y convertirse en presidente de Estados Unidos. "
 image: "/uploads/2021/images-dwayne-the-rock-johnson-expresa_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sería un honor -  Dwayne 'The Rock' Johnson expresa su interés por ser presidente de EU"
 front: false
 section: "Espectáculos"
-news_id: 183828
+redirect_from: /news/183828
 ---
 
 Dwayne Johnson, mejor conocido como The Rock (La Roca), se ha ganado la simpatía y cariño del público tras protagonizar numerosas cintas de acción, no es de extrañar que algunos de sus seguidores le pidan que se postule a la presidencia de Estados Unidos, situación que él no descarta e, incluso, asegura que sería todo un "honor".  El actor, quien en 2019 anunció su retiro oficial como luchador profesional de la WWE, señaló de nuevo que consideraría un carrera presidencial en el futuro con el apoyo de los ciudadanos estadunidenses 

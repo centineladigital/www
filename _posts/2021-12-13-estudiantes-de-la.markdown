@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El objetivo de este proyecto fue desarrollar una propuesta enfocada al sector educativo de formación básica con el propósito de fomentar mejores prácticas de enseñanza, implementando herramientas tecnológicas para incrementar el interés de las nuevas generaciones en estas asignaturas.   "
 image: "/uploads/2021/images-1_SED.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estudiantes de la UT Paquimé desarrollan proyecto holográfico para proyección de contenidos multimedia"
 front: false
 section: "Local"
-news_id: 190794
+redirect_from: /news/190794
 ---
 
 Resultante de la asignatura “Integradora”, estudiantes de la Universidad Tecnológica de Paquimé (UT Paquimé) pertenecientes al grupo 101 de la Ingeniería de Tecnologías de la Información desarrollaron, con asesoría de docentes del programa educativo, un proyecto de pirámide holográfica para la proyección de contenidos multimedia.

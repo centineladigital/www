@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se recomienda que se haga dentro de los 12 días de la sospecha de la infección y tiene una sensibilidad del 96 al 98% de efectividad"
 image: "/uploads/2021/images-Uach_Covid.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ofrece UACH prueba de Antígeno para Covid"
 front: false
 section: "Local"
-news_id: 183979
+redirect_from: /news/183979
 ---
 
 El encargado del Laboratorio de la Facultad de Ciencias Químicas en el Campus I de la UACH, Óscar Valdez Domínguez, dio a conocer que continúa el servicio de pruebas de Covid-19 en una nueva gama, la primera se lleva a cabo con una muestra de sangre para detectar anticuerpos y la segunda prueba basada en antígenos, por medio de la toma de hisopado nasofaríngeo.

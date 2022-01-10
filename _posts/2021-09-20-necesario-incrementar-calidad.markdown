@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que se lleva a cabo depuración de forma constante."
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-ML06_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Necesario incrementar calidad de vida de elementos -  SSPE"
 front: false
 section: "Local"
-news_id: 187883
+redirect_from: /news/187883
 ---
 
 El que se incremente la calidad de vida de los elementos de las corporaciones policiacas aporta más que los exámenes de confianza, fueron las palabras del titular de la Secretaría de Seguridad Pública Estatal, Gilberto Loya Chávez. 

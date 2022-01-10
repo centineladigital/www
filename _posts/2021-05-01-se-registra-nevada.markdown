@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La dependencia estatal indica que este sábado 1 de mayo se esperan lluvias en Jiménez, Camargo y Manuel Benavides, y posibilidad de caída de granizo; alerta sobre intensos vientos con rachas de 95 km/h durante este domingo 2 de mayo"
 image: "/uploads/2021/images-NEVADA_EN_EL_VERGEL_1_MAYO_2021_(2)_HORIZONTAL.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Se registra nevada en El Vergel, Balleza y -3.4°C, informa Protección Civil"
 front: false
 section: "Local"
-news_id: 184232
+redirect_from: /news/184232
 ---
 
 Este sábado 1 de mayo se registró una ligera caída de nieve en la localidad de El Vergel, en el municipio de Balleza, ubicado al sur del estado de Chihuahua, informó la Coordinación Estatal de Protección Civil (CEPC).

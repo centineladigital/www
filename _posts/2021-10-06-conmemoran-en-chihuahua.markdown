@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se trabajará para otorgar la calidad y calidez humana que necesita la educación en Chihuahua"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conmemoran en Chihuahua centenario de la creación de la SEP"
 front: false
 section: "Local"
-news_id: 188454
+redirect_from: /news/188454
 ---
 
 En el marco del centenario de la creación de la Secretaría de Educación Pública (SEP), el Gobierno del Estado a través de la Secretaría de Educación y Deporte (SEyD) organizó una ceremonia para reconocer el trabajo de las y los docentes chihuahuenses.

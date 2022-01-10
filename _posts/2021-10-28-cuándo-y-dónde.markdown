@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Rayados busca su quinto título de la Concacaf, mientras que América va por el octavo"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cuándo y dónde ver la final de Concachampions entre Monterrey y América?"
 front: false
 section: "Deportes"
-news_id: 189297
+redirect_from: /news/189297
 ---
 
 Monterrey y América se enfrentan este jueves en la Gran Final de la Concachampions en el estadio BBVA de Monterrey.

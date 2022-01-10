@@ -16,11 +16,11 @@ author: nil
 description: "Son parte acciones coordinadas entre la Fiscalía General del Estado y la Dirección de Seguridad Pública Municipal"
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-22_at_1.04.25_PM.jpeg"
 video: "/uploads/2021/videos-BL05_JULIO_SALAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "DSPM detiene a 2 delincuentes más en la ciudad "
 front: false
 section: "Local"
-news_id: 190093
+redirect_from: /news/190093
 ---
 
 El Gobierno Municipal informó la detención de dos personas que, en hechos distintos, fueron identificadas por víctimas de robo con violencia cometidos en establecimientos comerciales en distintas fechas.

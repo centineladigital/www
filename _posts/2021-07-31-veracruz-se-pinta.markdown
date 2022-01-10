@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La entidad cuenta con solo un municipio en semáforo verde. Además, las autoridades informaron que la vacunación será suspendida por la consulta popular"
 image: "/uploads/2021/images-unico-municipio-verde-veracruz-cerro_28_109_1081_672.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Veracruz se 'pinta' de rojo y naranja en semáforo por covid-19"
 front: false
 section: "Nacional"
-news_id: 186152
+redirect_from: /news/186152
 ---
 
 Por primera vez, desde que inició la semaforización municipal por coronavirus, Veracruz registra solo un municipio de los 212 en color verde. A partir del lunes 2 y hasta el 15 de agosto, 50 municipios estarán en rojo, 148 naranja y 13 en amarillo. Cerro Azul, ubicado en el norte de la entidad, es el único en verde y considerado de riesgo bajo. 

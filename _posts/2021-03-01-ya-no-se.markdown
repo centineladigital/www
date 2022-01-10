@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente informó que se han recibido 1,769,625 dosis de Pfizer; 870 mil de AstraZeneca; un millón de SinoVac 1,000,000 y 200 mil de Sputnik V"
 image: "/uploads/2021/images-2537431.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "‘Ya no se va a detener el Plan Nacional de Vacunación’"
 front: false
 section: "Nacional"
-news_id: 183203
+redirect_from: /news/183203
 ---
 
 Por la mañana de este lunes el titular de Salud, Jorge Alcocer Varela le dio a conocer al presidente Andrés Manuel López Obrador el avance de la entrega de vacunas contra covid. “Ya no se va a detener el Plan Nacional de Vacunación”, señaló el Presidente durante la conferencia mañanera de este lunes.

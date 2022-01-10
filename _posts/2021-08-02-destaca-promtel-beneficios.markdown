@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Este proyecto estatal será referencia nacional, señala el director ejecutivo de Evaluación y Ejecución del Organismo Promotor de Inversiones en Telecomunicaciones"
 image: "/uploads/2021/images-Sanchez_PHC_01.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Destaca Promtel beneficios del Plan Hiperconvergente en el Estado de Chihuahua"
 front: false
 section: "Local"
-news_id: 186213
+redirect_from: /news/186213
 ---
 
 Manuel Sánchez Salinas, director ejecutivo de Evaluación y Ejecución del Organismo Promotor de Inversiones en Telecomunicaciones (Promtel), destacó los beneficios que Gobierno del Estado, a través de la Coordinación de Política Digital (CPD), dejará como legado en materia de telecomunicaciones para la vida en las distintas regiones que conforman esta entidad federativa.

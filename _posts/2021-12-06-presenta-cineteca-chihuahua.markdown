@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Back in 84 se expondrá los días 8, 9 y 10 de diciembre a las 6:00 de la tarde"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Presenta Cineteca Chihuahua el documental de cultura country en México “Back in 84”"
 front: false
 section: "Local"
-news_id: 190547
+redirect_from: /news/190547
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Cultura, invita a las y los ciudadanos a disfrutar del documental “Back in 84” el cual se expondrá en la Cineteca los días 8, 9 y 10 de diciembre en punto de las 6:00 de la tarde, mismo que narra el movimiento de música Country que inició a mediados de los años ochenta y se enraizo en los estados norteños de la república, así como diversas facetas de este importante movimiento cultural que ha perdurado hasta nuestros días.

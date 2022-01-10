@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El monto servirá para que la benemérita institución continúe prestando auxilio a las personas que así lo requieran"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Gobierno Municipal donación de más de 358 mil pesos a la Cruz Roja   "
 front: false
 section: "Local"
-news_id: 187413
+redirect_from: /news/187413
 ---
 
 El Gobierno Municipal hizo entrega simbólica de un cheque por 358,686.71 pesos a la Cruz Roja Mexicana delegación Chihuahua, la cual se hace con motivo de la Colecta Anual 2021 por parte de trabajadores al servicio del Municipio, el monto servirá para que la benemérita institución continúe prestando auxilio a las personas que así lo requieran.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esperan que reducciones pudieran atraer a más contribuyentes."
 image: "/uploads/2021/images-DESCONOCIDO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM02.mp3"
 alt: "Esperan contadores ajustes en reducciones en reforma fiscal"
 front: false
 section: "Local"
-news_id: 185403
+redirect_from: /news/185403
 ---
 
 Un ajuste en las reducciones es lo que espera el Instituto y Colegio de Contadores Públicos de Chihuahua al señalar que se espera una reforma fiscal para el 2022, según lo declaró Jorge Arturo Martínez Armendariz  Presidente de la Comisión Fiscal del el Instituto y Colegio de Contadores Públicos de Chihuahua.

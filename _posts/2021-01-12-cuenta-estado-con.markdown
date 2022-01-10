@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Solamente en la primera fase debe de estar a menos 70 grados."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM04_WENDY_AVILA.mp3"
 alt: "Cuenta estado con medidas para aplicación de vacunas"
 front: false
 section: "Local"
-news_id: 182080
+redirect_from: /news/182080
 ---
 
 El Estado cuenta con las medidas necesarias para la aplicación de las vacunas para el combate al COVID-19, señaló la Subdirectora de Medicina Preventiva y Promoción de la Salud Wendy Avila Coronado.

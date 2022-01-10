@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se llevó a cabo el abanderamiento por parte de la V Zona Militar a este organismo empresarial, acto al que asistió como invitada especial la alcaldesa María Angélica Granados Trespalacios"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acompaña Alcaldesa a acto de abanderamiento de la Cámara Nacional de Comercio"
 front: false
 section: "Local"
-news_id: 186892
+redirect_from: /news/186892
 ---
 
 En una ceremonia cívica realizada en la explanada de la Cámara Nacional de Comercio (CANACO) se llevó a cabo el abanderamiento por parte de la V Zona Militar a este organismo empresarial, acto al que asistió como invitada especial la alcaldesa María Angélica Granados Trespalacios.

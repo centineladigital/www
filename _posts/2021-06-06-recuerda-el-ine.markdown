@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Recuerda el INE: a las 18:00 horas inicia cierre de casillas"
 image: "/uploads/2021/images-2590607.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recuerda el INE -  a las 18 - 00 horas inicia cierre de casillas"
 front: false
 section: "Local"
-news_id: 184882
+redirect_from: /news/184882
 ---
 
 Inició el cierre de casillas de las elecciones más grandes de la historia.  Los mexicanos votaron este domingo en elecciones legislativas y locales.

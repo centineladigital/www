@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Chihuahua es el tercer estado de la República que logró disminuir los índices de deserción durante la pandemia, informó la subsecretaria de Educación Media, Liliana Rojero.    "
 image: "/uploads/2021/images-EMS_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con la Estrategia “Da el Brinco” disminuye abandono escolar a 14% en Educación Media Superior"
 front: false
 section: "Local"
-news_id: 185619
+redirect_from: /news/185619
 ---
 
 A pesar de los retos que representó la modalidad de educación a distancia, en Chihuahua se logró disminuir el abandono escolar en Educación Media Superior a índices menores a los que tenían antes del inicio de la pandemia por el COVID-19, al pasar de un 18 % a un 14%, logrando revertir la tendencia nacional.

@@ -10,11 +10,11 @@ author: nil
 description: "Pide que no denoste las acciones que lleva a cabo el organismo encargado de la seguridad."
 image: "/uploads/2021/images-CORRAL.jpg"
 video: "/uploads/2021/videos-MV02_JAVIER_CORRAL.mp4"
-audio: "nil"
+audio: nil
 alt: "Llama Gobernador “malandro” a Alcalde juarense"
 front: false
 section: "Local"
-news_id: 187203
+redirect_from: /news/187203
 ---
 
 “A los malandros les molesta la policía” fueron las palabras del Gobernador de Chihuahua, Javier Corral Jurado, al ser cuestionado respecto a la postura del Alcalde de Ciudad Juárez que se ha manifestado en contra de los retenes de la Guardia Nacional.

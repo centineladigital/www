@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La revista Empire publicó nuevas fotos de Robert Pattinson como Batman y Zoe Kravitz como Catwoman. "
 image: "/uploads/2021/images-revista-empire-revelo-fotos-actores.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Revelan nuevas imágenes de Robert Pattinson y Zoe Kravitz para 'The Batman'; así lucen"
 front: false
 section: "Espectáculos"
-news_id: 190992
+redirect_from: /news/190992
 ---
 
 Será en 2022 cuando llegue a la pantalla grande The Batman, la nueva película del Caballero de la noche, en donde Robert Pattinson interpretará a Bruce Wayne, además compartirá créditos con Zoe Kravitz quien es la encargada de dar vida a Catwoman y para no hacer tan larga la espera se han publicado nuevas fotos de los actores caracterizados como sus personajes. A través de las redes sociales de The Batman se han revelado dos nuevas imágenes, una de Robert Pattinson usando el traje de Batman y otra de Zoe Kravitz caracterizada como Catwoman. Estas fotos son las portadas de la revista Empire para su próxima edición. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mala Vibra se encuentra planeando un sinfín de cosas y proyectos que lo mantienen ocupado día con día, siempre con la intención de entregar lo mejor de él. "
 image: "/uploads/2021/images-mala-vibra-estrena-su-cancion.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Un canto a la vida! El artista ecuatoriano Mala Vibra presenta su canción 'Lo Que Siempre Quisimos Hacer'"
 front: false
 section: "Espectáculos"
-news_id: 188509
+redirect_from: /news/188509
 ---
 
 Todos tenemos esas cosas que siempre quisimos hacer, esas palabras que siempre quisimos decir y que ya sea por momentos o circunstancias de la vida no podemos. El artista ecuatoriano Mala Vibra provoca todo menos mala vibra y es que conocer su historia no solo musical sino personal te hace querer voltear atrás y replantearte diversas situaciones y en un futuro, hacer las cosas de mejor manera. 

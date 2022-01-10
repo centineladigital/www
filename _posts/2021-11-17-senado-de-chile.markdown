@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La oposición no logró los votos necesarios para destituir al presidente Sebastián Piñera, en que iba a sen destituido por su papel en los Papeles de Pandora. "
 image: "/uploads/2021/images-presidente-chile-sebastian-pinera-destituido_0_22_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Senado de Chile rechaza la destitución de Sebastián Piñera como presidente"
 front: false
 section: "Internacional"
-news_id: 189912
+redirect_from: /news/189912
 ---
 
 La oposición de centroizquierda de Chile fracasó en su intento de lograr los votos oficialistas que necesitaba para aprobar por dos tercios en el Senado un juicio político para destituir al presidente Sebastián Piñera y se rechazó su destitución. 

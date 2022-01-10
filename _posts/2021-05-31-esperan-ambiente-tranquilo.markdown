@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que será una contienda muy participativa."
 image: "/uploads/2021/images-BONILLA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML03_MARCO_BONILLA.mp3"
 alt: "Esperan ambiente tranquilo -  Bonilla"
 front: false
 section: "Local"
-news_id: 184756
+redirect_from: /news/184756
 ---
 
 Un ambiente tranquilo es lo que espera el candidato a la Alcaldía Marco Antonio Bonilla Mendoza, candidato del PAN a la Alcaldía de Chihuahua, quien señaló que el municipio es un ejemplo de dentro de este punto.

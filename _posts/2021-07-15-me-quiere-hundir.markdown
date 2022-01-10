@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Horacio Villalobos, juez del concurso, dijo estar harto de las mamarrachadas del Rey Grupero y su falta de compromiso con Curvy Zelma. "
 image: "/uploads/2021/images-rey-grupero-curvy-zelma-enfrentan_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me quiere hundir -  Curvy Zelma molesta con Rey Grupero en reality de canto de 'VLA', ¿la descalificaron?"
 front: false
 section: "Espectáculos"
-news_id: 185713
+redirect_from: /news/185713
 ---
 
 Laura G y Anette Cuburu se robaron los reflectores del concurso Quiero cantar debido a las duras críticas a sus presentaciones musicales que se desataron en redes sociales. Sin embargo, en esta ocasión fue Rey Grupero quien provocó la molestia no sólo del jurado, sino también del público por su falta de compromiso con Curvy Zelma y su mala actuación durante el reality de Venga la Alegría.  

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aunque no se sabe su paradero, una buena noticia para Laura Bozzo llega, ya que se convertirá por primera vez en abuela. "
 image: "/uploads/2021/images-hija-laura-bozzo-victoria-mostro.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Laura Bozzo se convertirá en abuela; su hija Victoria está embarazada"
 front: false
 section: "Espectáculos"
-news_id: 188771
+redirect_from: /news/188771
 ---
 
 Desde hace algunos meses Laura Bozzo está en el ojo del huracán después de que las autoridades mexicanas revelaran que tiene problemas fiscales, por lo que ahora se interpuso una ficha roja por parte de la Interpol para buscarla. A pesar de que no se sabe nada de la peruana, en su familia hay buenas noticias ya que su hija está embarazada. Victoria de la Fuente, hija de Laura Bozzo, dio a conocer que está embarazada, algo que ocultó por varios meses ya que a través de una tierna foto reveló que pronto se convertirá en madre y mostró su avanzado embarazo. 

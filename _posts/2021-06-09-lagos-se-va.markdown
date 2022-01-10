@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El dueto que integran Agustín Zubillaga y Luis Jiménez hizo mancuerna con el cantante venezolano en el tema que forma parte de su producción “Clásicos” "
 image: "/uploads/2021/images-monaco-tema-duo-lagos-sobrepaso.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lagos se va a “Mónaco” con Danny Ocean"
 front: false
 section: "Espectáculos"
-news_id: 184959
+redirect_from: /news/184959
 ---
 
 El dúo, integrado por Agustín Zubillaga y Luis Jiménez, llamado Lagos presentó su más reciente sencillo “Mónaco”, con el cual hacen mancuerna con el cantante venezolano Danny Ocean, en una canción que tardó en escribirse y después le fueron dando. 

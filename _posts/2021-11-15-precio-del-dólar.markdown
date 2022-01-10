@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Conoce el precio del dólar hoy lunes en bancos. "
 image: "/uploads/2021/images-tipo-de-cambio-peso-dolar-60.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Precio del dólar hoy lunes 15 de noviembre de 2021"
 front: false
 section: "Internacional"
-news_id: 189837
+redirect_from: /news/189837
 ---
 
 Al iniciar operaciones el precio del dólar hoy lunes es de hasta 20.88 pesos en bancos. En tanto, el tipo de cambio interbancario se ubica en 20.63 pesos por dólar, con una pérdida de 0.56 por ciento, de acuerdo con datos de Bloomberg. 

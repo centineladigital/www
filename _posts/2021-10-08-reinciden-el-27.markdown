@@ -10,11 +10,11 @@ author: nil
 description: "Se da seguimiento a jóvenes que han cometido algún tipo de delito."
 image: "/uploads/2021/images-MAGISTRADO.jpg"
 video: "/uploads/2021/videos-MV05_ROGELIO_GUZMAN.mp4"
-audio: "nil"
+audio: nil
 alt: "Reinciden el 27 por ciento de menores infractores"
 front: false
 section: "Local"
-news_id: 188528
+redirect_from: /news/188528
 ---
 
 La reincidencia entre los adolescentes en conflicto con la ley llega hasta el 27 por ciento, según fue dado a conocer por parte del magistrado de la Sala Especializada de Menores Infractores del Poder Judicial del Estado, Rogelio Guzmán Holguín.

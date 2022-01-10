@@ -10,11 +10,11 @@ author: nil
 description: "Entregados 300 butacas a diversas escuelas."
 image: "/uploads/2021/images-RAUL.jpg"
 video: "/uploads/2021/videos-MM03_RAUL_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Inicia ICHIFE armado de butacas de administración de Duarte"
 front: false
 section: "Local"
-news_id: 189886
+redirect_from: /news/189886
 ---
 
 El Director general del Instituto Chihuahuense de Infraestructura Física Educativa, Raúl García Ruiz, señaló que se están armando butacas adquiridas en la pasada administración. Esto ya que al inicio de la presente se localizaron más de siete mil pupitres abandonados, los cuales tienen fundido el logo de Chihuahua Vive.

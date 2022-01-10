@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Miguel Bosé abrió su corazón y recordó algunos de los momentos más difíciles de vivió con sus padres y cómo fue su relación con ellos. "
 image: "/uploads/2021/images-miguel-bose-hablo-muerte-madre.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mi problema fue sobrevivir a los monstruos -  Miguel Bosé recuerda la difícil relación con sus papás"
 front: false
 section: "Espectáculos"
-news_id: 189773
+redirect_from: /news/189773
 ---
 
 En estas semanas Miguel Bosé ha hablado y revelado algunos de los aspectos de su vida, esto con motivo de la publicación de su libro autobiográfico y en esta ocasión, el cantante comentó cómo fue su relación con sus papás.  Miguel Bosé, el hijo del torero Luis Miguel Dominguín ("Dios en la tierra") y la actriz Lucía Bosé ("La mujer más bella del mundo") intenta hacerse entender en un libro de memorias a través del peso de su ADN y las vivencias infantiles en un ambiente extraordinario, para lo bueno y para lo malo.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto representa seis puntos porcentuales."
 image: "/uploads/2021/images-ALEJANDRO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM02_.mp3"
 alt: "Aporta PRI 80 mil votos a gubernatura -  Domínguez "
 front: false
 section: "Local"
-news_id: 184935
+redirect_from: /news/184935
 ---
 
 El PRI tuvo un aporte de alrededor de 80 mil votos a la gubernatura, señaló el dirigente Alejandro Domínguez, al afirmar que este es el porcentaje que se tiene entre los votos en alcaldías y la gubernatura.

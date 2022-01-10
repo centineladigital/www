@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "WandaVision, The Queen's Gambit, Cobra Kai III, Emily In Paris, The Crown, This Is Us y The Mandalorian son algunas series nominadas en los Premios Emmy 2021. "
 image: "/uploads/2021/images-estos-son-los-nominados-a.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "De 'WandaVision' a 'The Crown'... Éstas son las series nominadas a los Premios Emmy 2021"
 front: false
 section: "Espectáculos"
-news_id: 185615
+redirect_from: /news/185615
 ---
 
 Los Premios Emmy 2021 dieron a conocer a sus nominados, entre los que se encuentra lo mejor de la televisión estadunidense, y muchas de las series favoritas a lo largo del mundo, donde destacaron WandaVision, The Queen's Gambit, Cobra Kai III, Emily In Paris, The Crown, This Is Us, The Mandalorian, entre otros aclamados programas. 

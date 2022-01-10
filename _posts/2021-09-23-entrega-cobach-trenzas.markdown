@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante la pasada edición de la campaña de donación de cabello se logró reunir un total de 300 trenzas que servirán para la confección de pelucas oncológicas  "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-23_at_13.40.03.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega COBACH “Trenzas de Esperanza” al CRIT Chihuahua"
 front: false
 section: "Local"
-news_id: 187993
+redirect_from: /news/187993
 ---
 
 El Colegio de Bachilleres del Estado de Chihuahua (COBACH) entregó más de 300 trenzas al Centro de Rehabilitación e Inclusión Infantil Teletón (CRIT), las cuales se reunieron durante la cuarta edición de la campaña “Trenzas de Esperanza”, realizada en las instalaciones del gimnasio de esta institución educativa en Ciudad Juárez.

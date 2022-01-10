@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se realizan a la población en general en los módulos instalados en Aquiles Serdán, Julimes y Nonoava de 9 de la mañana a 2 de la tarde"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continuará Secretaría de Salud hasta el 12 de noviembre pruebas gratuitas de antígeno COVID-19"
 front: false
 section: "Local"
-news_id: 189591
+redirect_from: /news/189591
 ---
 
 La Secretaría de Salud informa que continuará hasta el 12 de noviembre, con la aplicación gratuita de pruebas de antígeno para la detección de COVID-19, en los módulos instalados en Aquiles Serdán, Julimes y Nonoava.

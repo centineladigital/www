@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Originario de Dinamita, Durango, en su adolescencia, justo cuando estaba en la preparatoria inició su necesidad e inquietud de hacer música urbana. "
 image: "/uploads/2021/images-jose-juan-marquez-aka-nackro.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rapero lagunero J Nackro estrena su sencillo 'Salí de abajo'"
 front: false
 section: "Espectáculos"
-news_id: 188799
+redirect_from: /news/188799
 ---
 
 Para recordar que una trayectoria de 17 años se dice fácil, pero que ha costado bastante para llegar a ocupar un lugar en el gusto de la gente, el artista lagunero de hip hop, José Juan Márquez aka J Nackro, dio a conocer en rueda de prensa que lanzará este viernes 15 de octubre su nuevo sencillo titulado “Salí de abajo”, mismo que se podrá disfrutar a través de las plataformas digitales. “Ya lo estrenaremos el 15 de octubre, es un tema muy fuerte, y el objetivo es llegar a mucha más gente”, detalló el cantante, quien dijo es el tercer sencillo del nuevo álbum.  “Estamos trabajando en un sistema nuevo, así la disquera me lo solicitó, sacar un sencillo cada mes, es una nueva forma de trabajo, tiene más continuidad y le da a la audiencia un poquito más de contenido”, explicó J Nackro.  

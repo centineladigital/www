@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A la fecha se han contagiado 69 mil 633 personas; no reporta decesos en últimas horas"
 image: "/uploads/2021/images-Informe_tecnico_13_junio_page-0004.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registra Secretaría de Salud 26 nuevos casos por COVID-19 en el estado"
 front: false
 section: "Local"
-news_id: 185015
+redirect_from: /news/185015
 ---
 
 El reporte diario de la Secretaría de Salud arroja 26 casos confirmados de COVID-19, por lo que la suma total se incrementó a 69 mil 633 contagios durante lo que va de la pandemia en la entidad, ocasionada por el virus SARS-CoV2.

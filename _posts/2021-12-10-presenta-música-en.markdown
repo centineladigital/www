@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Con participación de alumnas y alumnos de Educación Básica del Subsistema Estatal que participan en “Música en mi Escuela”, integrantes de la Orquesta Sinfónica Juvenil Chihuahua"
 image: "/uploads/2021/images-C6.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presenta Música en mi Escuela el festival navideño “Campana sobre campana”"
 front: false
 section: "Local"
-news_id: 190715
+redirect_from: /news/190715
 ---
 
 La Secretaría de Educación y Deporte de Gobierno del Estado, a través del modelo educativo “Música en mi Escuela” del Centro de Estudios Musicales (CEM), presentó el tradicional festival navideño “Campana sobre campana”, que se realiza año con año en el ámbito de los festejos decembrinos.

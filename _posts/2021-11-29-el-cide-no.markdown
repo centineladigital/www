@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente dijo que es necesario hacer una revisión de este caso, porque el conservadurismo se metió a acapararlo todo. "
 image: "/uploads/2021/images-mandatario-critico-corriente-neoliberal-cide_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El CIDE no ha estado a la altura; tiene académicos conservadores -  AMLO"
 front: false
 section: "Nacional"
-news_id: 190295
+redirect_from: /news/190295
 ---
 
 El presidente Andrés Manuel López Obrador consideró que el Centro de Investigación y Docencia Económicas (CIDE) debe renovarse porque se ha derechizado, tal como la Universidad Nacional Autónoma de México (UNAM) y no ha estado a la altura que se requería de los intelectuales frente al saqueo ocurrido en el periodo neoliberal.

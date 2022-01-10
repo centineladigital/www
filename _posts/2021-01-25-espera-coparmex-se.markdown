@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Es bueno que ya se esté inmunizando al sector salud que atiende a pacientes Covid"
 image: "/uploads/2021/images-ASFSFGSFG.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AL02_JORGE_CRUZ.mp3"
 alt: "Espera Coparmex se termine la especulación de información sobre vacunas "
 front: false
 section: "Local"
-news_id: 182429
+redirect_from: /news/182429
 ---
 
 Respecto al proceso de vacunación iniciado en el estado de Chihuahua, la Confederación Patronal Mexicana, en voz de su presidente, Jorge Cruz Camberos, lanzó un llamado a la federación a transparentar lo correspondiente a la vacunación desde el sector público y la apertura al sector privado.

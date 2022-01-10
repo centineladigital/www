@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El papá de Snoop, Vernell Varnado, también dio a conocer la noticia en su cuenta de Instagram. "
 image: "/uploads/2021/images-el-rapero-junto-a-su.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Un ángel -  Snoop Dogg anuncia la muerte de su mamá, Beverly Tate"
 front: false
 section: "Espectáculos"
-news_id: 189151
+redirect_from: /news/189151
 ---
 
 El rapero estadunidense Calvin Cordozar Broadus, mejor conocido como Snoop Dogg, está de luto, pues este domingo anunció a través de sus redes sociales que su mamá, Beverly Tate, falleció. "Gracias Dios por darme un ángel por madre", escribió el rapero junto a las siglas TWMA (Till we meet again, en español: Hasta que nos volvamos a ver).

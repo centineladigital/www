@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Decomisos se llevan a cabo diariamente asegura César Peniche."
 image: "/uploads/2021/images-PENICHE1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03.mp3"
 alt: "Tres grupos controlan tala clandestina"
 front: false
 section: "Local"
-news_id: 185317
+redirect_from: /news/185317
 ---
 
 Tres grupos delincuenciales son los que controlan la tala clandestina según lo dio a conocer el Fiscal General de Chihuahua, César Augusto Peniche Espejel. Estos son los grupos de la Linea, el Cartel Sinaloa y el grupo del Jaguar.

@@ -16,11 +16,11 @@ author: nil
 description: "“Pasamos una mala navidad y un próximo mal año nuevo”"
 image: "/uploads/2021/images-manifestación_aras_(1).jpeg"
 video: "/uploads/2021/videos-BW03_JUAN_MELENDEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Afectado de Aras pide una cita con la gobernadora"
 front: false
 section: "Local"
-news_id: 191323
+redirect_from: /news/191323
 ---
 
 Juan José Meléndez Pérez, un Chihuahuense que confió su dinero a la inversora Aras Bussines Group, exigió a la gobernadora del Estado María Eugenia Campos Galván una cita con los afectados a la brevedad.

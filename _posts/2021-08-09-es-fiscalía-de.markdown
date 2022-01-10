@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Durante la actual administración estatal, se crearon distintos departamentos "
 image: "/uploads/2021/images-Edificio_FGE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-3-_CÁPSULA_FGE_LA_MEJOR_DEL_PAÍS_PROGRAMA_LOGROS_CON_VALOR_FGE_9-8-21.MP3"
 alt: "Es Fiscalía de Chihuahua la mejor institución  de procuración de justicia en el país"
 front: false
 section: "Local"
-news_id: 186470
+redirect_from: /news/186470
 ---
 
 Gracias a la aplicación de un proceso de reingeniería institucional,  la Fiscalía General del Estado (FGE) obtuvo por tres años consecutivo, el nivel más alto dentro del análisis de cuatro categorías: estructura, operación, resultados y política criminal, se informó en el programa “Logros con Valor”

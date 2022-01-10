@@ -10,11 +10,11 @@ author: nil
 description: "Anuncia apertura de nuevos puntos para agilizar paso de productos."
 image: "/uploads/2021/images-MARU1.jpg"
 video: "/uploads/2021/videos-ML02_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Saldo blanco apertura de fronteras en el estado"
 front: false
 section: "Local"
-news_id: 189662
+redirect_from: /news/189662
 ---
 
 Sin incidentes es como se llevó a cabo la apertura de la frontera señaló la Gobernadora de Chihuahua, María Eugenia Campos Galván, esto al cuestionársele sobre si se contaba con reportes de incidentes tras iniciar nuevamente cruces para el vecino país a más de año y medio de cierre.

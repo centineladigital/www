@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Destaca la SRE que países mantienen medidas restrictivas para viajeros debido a la pandemia; atenciones sanitarias locales pueden variar, precisa"
 image: "/uploads/2021/images-2518500.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ante Covid urgen a evitar viajes innecesarios al extranjero"
 front: false
 section: "Nacional"
-news_id: 182440
+redirect_from: /news/182440
 ---
 
 El Gobierno de México reitera el llamado a las personas mexicanas a evitar viajes internacionales no esenciales; además persisten las medidas restrictivas adoptadas por cada país en función de su evaluación de la situación ante el Covid-19.

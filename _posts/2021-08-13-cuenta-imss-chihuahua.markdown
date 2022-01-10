@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se ubican en las entradas de las Unidades de Medicina Familiar (UMF)"
 image: "/uploads/2021/images-Foto_3911-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cuenta IMSS Chihuahua con 154 Módulos de Atención Respiratoria (MARSS) para detección oportuna de COVID-19"
 front: false
 section: "Local"
-news_id: 186654
+redirect_from: /news/186654
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua cuenta con 154 Módulos de Atención Respiratoria del Seguro Social (MARSS) en de las Unidades de Medicina Familiar (UMF), de los cuales 25 operan las 24 horas del día.

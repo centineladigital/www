@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente López Obrador llamó al excandidato presidencial Ricardo Anaya a que se presente físicamente ante un juez y aclare su situación ante las acusaciones de soborno en el caso Odebrecht"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO compara caso Ricardo Anaya con el corrido “Contrabando y traición”"
 front: false
 section: "Nacional"
-news_id: 189638
+redirect_from: /news/189638
 ---
 
 Al comparar la situación con el corrido “Contrabando y traición”, el presidente Andrés Manuel López Obrador llamó al excandidato presidencial Ricardo Anaya a que se presente físicamente ante un juez y aclare su situación ante las acusaciones de soborno en el caso Odebrecht, así como la relación que tuvo con el expresidente Enrique Peña Nieto.

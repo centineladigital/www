@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La iniciativa contempla reformas a Ley Orgánica del Poder Ejecutivo; Ley Orgánica de la Fiscalía General del Estado; Ley del Sistema Estatal de Seguridad Pública; así como al Código Administrativo del Estado de Chihuahua.   "
 image: "/uploads/2021/images-1638631437400.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presenta Maru Campos proyecto de reforma para un mejor funcionamiento del Gobierno del Estado   "
 front: false
 section: "Local"
-news_id: 190501
+redirect_from: /news/190501
 ---
 
 Tras los primeros meses de gobierno, y el análisis continuo del estado de la administración así como la realidad del Estado, este viernes, la gobernadora Maru Campos Galván, presentó al Congreso de Chihuahua la propuesta de reforma para mejorar el funcionamiento del Gobierno del Estado.

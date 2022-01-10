@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tarantino aseguró estar llegando al final de su carrera cinematográfica, ante una sala repleta de periodistas y fanáticos. "
 image: "/uploads/2021/images-el-cineasta-estadunidense-quentin-tarantino.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es una posibilidad -  Quentin Tarantino revela que 'Kill Bill 3' podría ser su próxima película"
 front: false
 section: "Espectáculos"
-news_id: 188943
+redirect_from: /news/188943
 ---
 
 Durante una rueda de prensa en la Fiesta del Cine de Roma, donde esta tarde recibirá un premio por su trayectoria,  Quentin Tarantino reveló que no tiene "ni idea" de cuál será su próxima película, aunque señaló a Kill Bill 3 como "una posibilidad". "No tengo ni idea de cuál será mi décima película. Esa es una posibilidad", respondió el cineasta estadunidense ante la pregunta por la tercera parte de la emblemática saga protagonizada por Uma Thurman.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Autoridades confirmaron la ausencia de variaciones importantes en el nivel del mar. "
 image: "/uploads/2021/images-terremoto-magnitud-sacude-vanuatu-activa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registra sismo de magnitud 5.1 al sur de Puerto Peñasco, Sonora"
 front: false
 section: "Nacional"
-news_id: 191025
+redirect_from: /news/191025
 ---
 
 Un sismo de magnitud 5.1 se registro la madrugada de este domingo a 159 km al sur de Puerto Peñasco, Sonora, por lo que unidades estatales y municipales de Protección Civil e integrantes del Comité Nacional de Emergencias realizaron una evaluación preliminar de la zona. 

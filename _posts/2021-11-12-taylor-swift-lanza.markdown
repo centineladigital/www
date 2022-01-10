@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Por fin Taylor Swift lanzó su versión de su disco Red y los fans no tardaron en reaccionar y criticar a Jake Gyllenhaal, ex novio de la cantante a quien le dedicó All too well. "
 image: "/uploads/2021/images-taylor-swift-lanzo-version-minutos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Taylor Swift lanza su versión de 'Red'; recuerdan que le dedicó 'All too well' a Jake Gyllenhaal"
 front: false
 section: "Espectáculos"
-news_id: 189805
+redirect_from: /news/189805
 ---
 
 Este 12 de noviembre Taylor Swift lanzó su versión de su disco Red. La razón por la que la cantante ha relanzado algunos se discos es porque está en una disputa por recuperar sus producciones, pero optó por regrabar sus canciones. Sin duda, Red es uno de sus álbumes más exitosos y uno de los favoritos de los fans. Desde hace varios meses Taylor Swift anunció que lanzaría su versión de Red y el día ha llegado. Este disco cuenta con 30 canciones, la mayoría de ellas ya estaban incluidas en la versión anterior del álbum, pero en esta nueva edición, también están temas inéditos y una versión de 10 minutos de All Too Well. 

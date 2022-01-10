@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Acumula 7 mil 754 decesos al sumarse un caso más en Juárez; las principales víctimas de la enfermedad han sido las personas en los rangos de edad de 60 a 64 años con 1,030 y  de 65 a 69 con 985   "
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registra estado 74 mil 485 contagios por COVID-19 tras confirmarse otros 39 más"
 front: false
 section: "Local"
-news_id: 186724
+redirect_from: /news/186724
 ---
 
 La Secretaría de Salud informó que al día de hoy se tienen en el estado de Chihuahua un total general de 74 mil 485 casos de COVID-19 con 39 nuevos confirmados, así como 7 mil 754 personas fallecidas al que se suma uno más correspondiente a  Ciudad Juárez.

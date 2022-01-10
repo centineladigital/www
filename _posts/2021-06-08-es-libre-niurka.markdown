@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Visiblemente molesta, la vedette Niurka expresó que Romina no es ninguna vendida. Recalcó que su hija no le debe explicaciones a nadie."
 image: "/uploads/2021/images-niurka-sale-defensa-hija-romina.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es libre -  Niurka 'explota' contra 'haters' que dicen su hija Romina Marcos es vendida por polémica PVEM"
 front: false
 section: "Espectáculos"
-news_id: 184920
+redirect_from: /news/184920
 ---
 
 Niurka Marcos, famosa vedette cubana, salió en defensa de su hija Romina Markos, luego de que participara en las menciones al Partido Verde Ecologista de México (PVEM) en plena veda electoral. La famosa condenó que le digan ‘vendida’ a su hija y arremetió fuerte contra las personas que lo critican. ¿Su hija no cometió ningún delito? ¿Le pagaron?

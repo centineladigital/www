@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de que anunciarán el avanzado embarazo, J Balvin y Valentina Ferrer se convirtieron en padres de un niño."
 image: "/uploads/2021/images-j-balvin-dio-a-conocer.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "J Balvin y Valentina Ferrer ya son papás; comparten la primera foto y nombre de su bebé"
 front: false
 section: "Espectáculos"
-news_id: 185344
+redirect_from: /news/185344
 ---
 
 Hace unos meses sorpresivamente J Balvin y Valentina Ferrer anunciaron por medio de una revista que estaban esperando a su primer hijo. La modelo posó para la revista en donde mostró que ya tenía un avanzado embarazado y ahora los famosos se convirtieron en padres de un niño. 

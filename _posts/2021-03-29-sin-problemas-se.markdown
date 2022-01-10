@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Hoy tocó el turno a las personas mayores de 75 años"
 image: "/uploads/2021/images-DAH_3066.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sin problemas se desarrolla primera parte de la vacunación anti COVID-19 en la capital"
 front: false
 section: "Local"
-news_id: 183597
+redirect_from: /news/183597
 ---
 
 La directora de Prevención y Control de Enfermedades de la Secretaría de Salud estatal, Leticia Ruiz González, informó que durante la primera parte de la jornada de la aplicación de la vacuna anti COVOD-19, los chihuahuenses se mostraron pacientes y solidarios en las filas y los tiempos de espera.

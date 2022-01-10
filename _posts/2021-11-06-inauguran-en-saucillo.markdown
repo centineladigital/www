@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Autoridades deportivas y municipales encabezaron el arranque de la edición XVIII del tradicional certamen, que concentra a 250 pugilistas de todo el estado "
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inauguran en Saucillo el torneo de box “Guantes Dorados”   "
 front: false
 section: "Local"
-news_id: 189624
+redirect_from: /news/189624
 ---
 
 Este viernes en Saucillo fue inaugurada la edición XVIII del tradicional torneo de box “Guantes Dorados”, en el que participan más de 250 jóvenes pugilistas de todo el estado.

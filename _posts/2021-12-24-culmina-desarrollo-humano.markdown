@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Benefició a más de 19 mil 500 personas en un total de 48 municipios"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Culmina Desarrollo Humano y Bien Común la Ruta Alimentaria Decembrina"
 front: false
 section: "Local"
-news_id: 191200
+redirect_from: /news/191200
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Desarrollo Humano y Bien Común, culminó la Ruta Alimentaria Decembrina, mediante la cual benefició a 19 mil 500 personas en 48 municipios en la presente temporada invernal.

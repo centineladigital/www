@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A los fans del equipo rojo no les gustó saber quién es la próxima atleta en salir del reality deportivo."
 image: "/uploads/2021/images-ella-sera-la-eliminada-de_0_155_828_515.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡No! ¿Por qué ella? -  Filtran nombre de la eliminada de 'Exatlón México' de este domingo y fans 'estallan' en redes"
 front: false
 section: "Espectáculos"
-news_id: 188538
+redirect_from: /news/188538
 ---
 
 Exatlón México es una de las competencias deportivas favoritas de los televidentes mexicanos y suma millones de seguidores a lo largo del país, esto gracias a las emocionantes carreras y circuitos a los que los atletas de Guardianes y Conquistadores se enfrentan cada día. Sin embargo, debido a su popularidad, el programa ha sido filtrado casi en su totalidad durante las últimas temporadas, y esta quinta entrega no ha sido la excepción, pues ya se conoce el nombre de la supuesta eliminada de este domingo 10 de octubre y aquí te decimos quién es. 

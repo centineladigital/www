@@ -20,7 +20,7 @@ audio: "/uploads/2021/audio-BM04_PACO_TURATÍ.mp4"
 alt: "Inician los foros de consulta ciudadana "
 front: false
 section: "Local"
-news_id: 189719
+redirect_from: /news/189719
 ---
 
 Se Inició a los foros de consulta ciudadana para la creación del Plan Municipal de Desarrollo para el período 2021-2024 documento que es fundamental para la vida del municipio porque es la base y guía del Chihuahua competitivo que se va a forjar para los próximos 3 años de la administración que encabeza el alcalde Marco Bonilla Mendoza, señaló el Regidor de Hacienda y Planeación Paco Turati.

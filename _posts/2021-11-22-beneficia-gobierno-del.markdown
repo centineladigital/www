@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Las alumnas recibieron los uniformes, mismos que revisaron a detalle, verificaron las medidas y los materiales con los que se elaboraron las piezas de ropa deportiva"
 image: "/uploads/2021/images-Uniformes-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Beneficia Gobierno del Estado a 465 alumnas de la Escuela Normal de Saucillo con la entrega de uniformes deportivos"
 front: false
 section: "Local"
-news_id: 190079
+redirect_from: /news/190079
 ---
 
 Servicios Educativos del Estado de Chihuahua (SEECH) entregó uniformes deportivos a la totalidad de estudiantes de la Escuela Normal Rural de Saucillo “Ricardo Flores Magón”

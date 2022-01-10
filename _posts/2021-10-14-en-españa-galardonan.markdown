@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La ceremonia de entrega, en el monasterio de Yuste, fue presidida por Felipe VI. "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En España, galardonan a Angela Merkel por su compromiso con la Unión Europea"
 front: false
 section: "Internacional"
-news_id: 188724
+redirect_from: /news/188724
 ---
 
 La todavía canciller de Alemania, Angela Merkel, fue galardonada este jueves por el rey de España, Felipe VI, con el XIV Premio Europeo Carlos V, que la distingue por su compromiso con Europa. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Como parte del proceso de entrega –recepción de la dependencia se han visitado los Cavim de Creel, Cuauhtémoc, Chihuahua, Hidalgo del Parral y Casas Grandes"
 image: "/uploads/2021/images-FOTO_(5).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Supervisa directora del Ichmujeres a los Centros de Atención a la Violencia contra las Mujeres"
 front: false
 section: "Local"
-news_id: 184904
+redirect_from: /news/184904
 ---
 
 Desde el pasado 11 de mayo, la directora del Instituto Chihuahuense de las Mujeres, Emma Saldaña Lobera, ha realizado visitas de supervisión a los Centros de Atención a la Violencia contra las Mujeres (Cavim), a fin de revisar la operación e instalaciones, como parte del inicio del proceso de entrega – recepción de la dependencia.

@@ -8,11 +8,11 @@ author: nil
 description: "Los exhortó a seguir cosechando triunfos y poner en alto al municipio de Chihuahua a nivel internacional"
 image: "/uploads/2021/images-unnamed_(1).jpg"
 video: "/uploads/2021/videos-Recibimiento_ganadores_del_primer_maratón.mp4"
-audio: "nil"
+audio: nil
 alt: "Recibe Alcalde a ganadores internacionales de ráquetbol y maratón de finanzas"
 front: false
 section: "Local"
-news_id: 191309
+redirect_from: /news/191309
 ---
 
 El alcalde Marco Bonilla, recibió a las y los jóvenes que representaron a Chihuahua a nivel internacional en el Mundial de Ráquetbol celebrado en Guatemala y el Maratón Internacional de Finanzas, convocado de manera virtual por universidades colombianas y donde lograron en las dos competencias el primer lugar.

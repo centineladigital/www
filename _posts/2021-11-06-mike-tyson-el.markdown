@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El peleador estadounidense incluso mencionó que Saúl puede superar a Julio César Chávez"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mike Tyson -  'El Canelo' Álvarez es el mejor boxeador de su generación"
 front: false
 section: "Deportes"
-news_id: 189618
+redirect_from: /news/189618
 ---
 
 Mike Tyson, histórico boxeador, estuvo presente en la ceremonia de pesaje de Saúl 'Canelo' Álvarez y Caleb Plant, ahí, manifestó su apoyo al mexicano. 

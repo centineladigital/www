@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Durante la toma de posesión de Joe Biden como presidente de Estados Unidos, Jennifer Lopez dio un poderoso mensaje en español. "
 image: "/uploads/2021/images-jennifer-lopez-investidura-joe-biden.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Momento histórico! El mensaje en español de Jennifer Lopez durante investidura de Biden"
 front: false
 section: "Espectáculos"
-news_id: 182290
+redirect_from: /news/182290
 ---
 
 Es oficial: Joe Biden y Kamala Harris se convierten respectivamente en el presidente y la vicepresidenta de Estados Unidos. Las artistas Lady Gaga y Jennifer Lopez fueron las elegidas para actuar durante la toma de posesión de los ahora gobernantes de dicho país. 

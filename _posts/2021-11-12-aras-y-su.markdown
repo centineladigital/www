@@ -16,11 +16,11 @@ author: nil
 description: "En el mercado se paga el seis por ciento anual como es posible que salgan recursos para pagar un 10 por ciento mensual"
 image: "/uploads/2021/images-Francisco_Santini.png"
 video: "/uploads/2021/videos-BV03_SANTINI_.mp4"
-audio: "nil"
+audio: nil
 alt: "Aras y su 10 por ciento de rendimiento es irreal -  Santini "
 front: false
 section: "Local"
-news_id: 189818
+redirect_from: /news/189818
 ---
 
 Francisco santini  presidente del cosejo coordinador empresarial  (CCE ) manifestó  que las personas deben buscar fuentes fidedignas  para poder invertir, esto a consecuencia del cuestionamiento que se le hizo sobre la empresa Aras, la cual ha tenido un gran atraso con la entrega de rendimiento de inversión.

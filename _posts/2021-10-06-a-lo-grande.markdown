@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La influencer, actriz, cantante y empresaria Kenia Os cuenta con más de 10 millones de seguidores en Instagram y más de dos millones de oyentes mensuales en Spotify."
 image: "/uploads/2021/images-kenia-os-y-leon-leiden.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡A lo grande! Kenia Os y León Leiden interpretarán canción de nueva telenovela 'Contigo Sí'; las redes sociales explotan"
 front: false
 section: "Espectáculos"
-news_id: 188445
+redirect_from: /news/188445
 ---
 
 La próxima telenovela ‘Contigo Sí’, que llegará a las pantallas del canal de ‘Las Estrellas’ el próximo 11 de octubre anunció que el tema principal de la producción correrá a cargo de la influencer Kenia Os y el cantante León Leiden. 

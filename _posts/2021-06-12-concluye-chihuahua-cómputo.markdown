@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Una vez que se concluya el conteo oficial en la AME de esa frontera, se citará para entregar la constancia de mayoría a la virtual gobernadora, María Eugenia Campos Galván"
 image: "/uploads/2021/images-Gana_Maru_prep_ine_iee.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Concluye Chihuahua cómputo de elección de gobernador; Juárez al 64%"
 front: false
 section: "Local"
-news_id: 185001
+redirect_from: /news/185001
 ---
 
 El Instituto Estatal Electoral, dio a conocer que la Asamblea Municipal Electoral en la ciudad de Chihuahua, concluyó con el cómputo de las actas de la elección a la gubernatura.

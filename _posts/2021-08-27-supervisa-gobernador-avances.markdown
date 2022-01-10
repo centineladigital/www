@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La obra, cuya inversión es de 141.5 millones de pesos con la mayor aportación por parte de Fechac, tendrá capacidad para brindar 22,500 tratamientos de radioterapia y 12,096 de braquiterapia contra el cáncer y atenderá a más de 1.5 millones de habitantes de 10 municipios de la región"
 image: "/uploads/2021/images-Supervisan_Gobernador_y_Fechac_avances_del_Centro_Oncológico_Juárez_(18).jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AUDIO_CORRAL_GIRA_JUAREZ_ACELERADOR_LINEAL__27-8-21_(1).MP3"
 alt: "Supervisa Gobernador avances del Centro Regional de Radioterapia de Juárez"
 front: false
 section: "Local"
-news_id: 187194
+redirect_from: /news/187194
 ---
 
 El gobernador Javier Corral Jurado supervisó los avances en la construcción y operación del Centro Regional de Radioterapia en Ciudad Juárez, el cual atenderá a una población de 10 municipios estimada en un millón 542 mil 398 personas, gracias a una aportación conjunta con la Fundación del Empresariado Chihuahuense (Fechac).

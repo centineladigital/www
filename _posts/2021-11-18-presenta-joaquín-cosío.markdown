@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El costo de los boletos será de $350 pesos y estarán disponibles en https://teatrobarbaro.com/eventos/los-habladores para Chihuahua."
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presenta Joaquín Cosío obra de teatro y conversatorio gratuito en Chihuahua y Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 189978
+redirect_from: /news/189978
 ---
 
 El Gobierno del Estado a través de la Secretaría de Cultura de Chihuahua en coordinación con la Red de Teatros y en co-producción con Centro Cultural Helénico, Teatro El Milagro y A.C.Teatros ANTI invitan a presencial la puesta en escena “Los Habladores” la cual se exhibirá los días 20 y 21 a las 7 pm y 22 a las 8 pm en el Teatro de Cámara para Chihuahua y del 24 al 27 de noviembre en punto de las 7:30 pm en el Centro Cultural Paso del Norte para Ciudad Juárez.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma María Eugenia Campos Galván que buscará puntos de concordancia en el tema, esto con la federación. "
 image: "/uploads/2021/images-MARU.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV04_MARU_CAMPOS.mp4"
 alt: "Buscará próxima administración tratar tema del agua"
 front: false
 section: "Local"
-news_id: 185956
+redirect_from: /news/185956
 ---
 
 Debido a que el agua es fundamental la Gobernadora electa, María Eugenia Campos Galván, señaló que se buscará trabajar para denfender el agua, esto buscando puntos de acuerdo con la federación.

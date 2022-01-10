@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Circulan 4 unidades equipadas con herramientas básicas de mecánica, con personal calificado y debidamente identificado,  principalmente en las carreteras Juárez-Chihuahua, Chihuahua-Ojinaga y Delicias-Jiménez"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Integra Secretaría de Comunicaciones y Obras Públicas unidades de auxilio carretero en apoyo a paisanos"
 front: false
 section: "Local"
-news_id: 190902
+redirect_from: /news/190902
 ---
 
 La Secretaría de Comunicaciones y Obras Públicas del Estado (SCOP), puso en servicio a partir de este 15 de diciembre y hasta 6 de enero del año próximo, cuatro unidades de auxilio carretero, para  apoyar a las y los mexicanos que radican en los Estados Unidos, que con motivo de las fechas decembrinas, circularán por las carreteras del estado para llegar a sus lugares de origen.

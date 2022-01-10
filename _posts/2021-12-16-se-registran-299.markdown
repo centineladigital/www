@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 ascendió a 8 mil 558 casos (+19) y se concentró en los municipios de Juárez (+12), Parral (+1), Cuauhtémoc (+2), Ojinaga (+1), Ahumada (+1), Janos (+1) y Balleza (+1)."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 299 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 190926
+redirect_from: /news/190926
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 16 de diciembre el reporte COVID-19, en el cual se registran 89 mil 647 (+299) personas confirmadas en la entidad por este padecimiento, 76 mil 220 (+136) casos recuperados, 85 mil 754 (+484) descartados y 1,117 (+6) casos sospechosos.

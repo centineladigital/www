@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El domingo de eliminación arrojó a Paula Flores como la eliminada de 'Exatlón México' tras una semana de haber llegado al reality show. "
 image: "/uploads/2021/images-eliminana-paula-flroes-semana-reality.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Paula Flores es eliminada de 'Exatlón México' tras una semana en la competencia"
 front: false
 section: "Espectáculos"
-news_id: 191235
+redirect_from: /news/191235
 ---
 
 Exatlón México se ha convertido en uno de los reality shows favoritos en la televisión mexicana, y en el pasado domingo de eliminación fue la recién llegada Paula Flores la que tuvo que dejar el popular programa conducido por Antonio Rosique. 

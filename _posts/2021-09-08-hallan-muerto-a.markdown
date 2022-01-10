@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Según reportes, fue hallado en el departamento de un amigo en Nueva York. "
 image: "/uploads/2021/images-hallan-muerto-protagonista-serie-documentar.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hallan muerto a Erik Cowie, cuidador del zoológico de 'Tiger King'"
 front: false
 section: "Espectáculos"
-news_id: 187541
+redirect_from: /news/187541
 ---
 
 Erik Cowie, mejor recordado como uno de los cuidadores del zoológico que aparecen en la miniserie documental de Netflix 'Tiger King' (Rey Tigre') fue encontrado muerto el pasado viernes en Nueva York; el deceso, sin embargo,  reportado recientemente por medios estadunidenses.

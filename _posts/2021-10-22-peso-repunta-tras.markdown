@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La moneda estadunidense empezó la jornada con un declive debido al esquivo de un impago, por parte de la inmobiliaria China Evergrande. "
 image: "/uploads/2021/images-tipo-de-cambio-peso-dolar-107.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Peso repunta tras datos de inflación; dólar se ubica en 20.72 por unidad"
 front: false
 section: "Internacional"
-news_id: 189065
+redirect_from: /news/189065
 ---
 
 Al iniciar operaciones, el precio del dólar hoy viernes es de hasta 20.72 pesos en bancos. En tanto, el tipo de cambio interbancario se ubica en 20.19, registrando una ganancia de 0.5 por ciento. Citibanamex vende el dólar en hasta 20.72 pesos, mientras que BBVA México lo hace en 20.44, Banorte en 20.55 pesos y Banco Azteca en 20.28 unidades. 

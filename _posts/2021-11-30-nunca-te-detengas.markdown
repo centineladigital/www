@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Andrea Legarreta decidió demostrarle su apoyo incondicional a Galilea Montijo, su compañera en el programa ‘Hoy’, pues ayer impactó las redes sociales por no parar de llorar al asegurar que estaba cansada de los ataques en su contra. "
 image: "/uploads/2021/images-andrea-legarreta-envia-mensaje-apoyo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nunca te detengas -  Andrea Legarreta envía mensaje de apoyo a Galilea Montijo tras llorar por 'ataques' en su contra"
 front: false
 section: "Espectáculos"
-news_id: 190336
+redirect_from: /news/190336
 ---
 
 Galilea Montijo, está envuelta en polémica, tras revelaciones periodísticas sobre su relación amorosa con un narcotraficante –que promete desarrollar el libro ‘Emma y las otras señoras del narco’–, así como por su supuesto vínculo en negocios con su amiga Inés Gómez Mont. Con un video, en donde apareció devastada, en medio del llanto, pidió que paren a los ataques en su contra. Por ello, varios famosos han mostrado su apoyo a la tapatía, entre ellos Andrea Legarreta, quien dedicó una palabras a su compañera del programa Hoy de Televisa. ¿Qué le dijo? Fue a través de su cuenta de Instagram en donde Andrea Legarreta decidió demostrarle su apoyo incondicional a Galilea Montijo, su compañera en el programa ‘Hoy’, pues ayer impactó en sus redes sociales por no parar de llorar al asegurar que estaba cansada de los ataques en su contra y que se deslindara de su amiga Gómez Mont. 

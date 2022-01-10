@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El reporte estatal Covid-19 de la Secretaría de Salud refleja que al 09 de septiembre se tiene un total de 76 mil 400 casos "
 image: "/uploads/2021/images-8d597459-eaed-4b00-a764-5b2da29788c6.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Secretaría de Salud reporta 90 nuevos contagios de Covid-19"
 front: false
 section: "Local"
-news_id: 187582
+redirect_from: /news/187582
 ---
 
 El reporte estatal Covid-19 de la Secretaría de Salud refleja que al 09 de septiembre se tiene un total de 76 mil 400 casos (+90) casos confirmados de Covid-19, 61 mil 91 (+479) descartados y 788 (+71) sospechosos en la entidad.  

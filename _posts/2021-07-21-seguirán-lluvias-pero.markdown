@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se esperan precipitaciones de moderadas a fuertes con intervalos de chubascos en Moris, Batopilas, Morelos y Guadalupe y Calvo, Uruachi, Ocampo, Chínipas, Guachochi y Balleza"
 image: "/uploads/2021/images-lluvias_2.jfif"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Seguirán lluvias pero solo en la zona serrana, informa Protección Civil"
 front: false
 section: "Local"
-news_id: 185872
+redirect_from: /news/185872
 ---
 
 La Coordinación Estatal de Protección Civil informó que para este miércoles 21 habrá ambiente de templado a cálido y muy caluroso por la tarde, cielo de despejado a parcialmente nublado y viento de 5 a 20 kilómetros por hora (km/h) con rachas que pueden superar los 35 km/h en las zonas norte, noroeste, occidente, centro, sureste y noreste, principalmente Juárez, Janos, Carichí, Cuauhtémoc, Jiménez y Ojinaga.

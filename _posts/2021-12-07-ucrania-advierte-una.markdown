@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El ministro de Defensa de ese país, Oleksiy Reznikov, lanzó duras declaraciones previo a la cumbre entre Joe Biden y Vladimir Putin. "
 image: "/uploads/2021/images-oleksiy-reznikov-ministro-defensa-ucrania.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ucrania advierte una masacre realmente sangrienta si Rusia invade su territorio"
 front: false
 section: "Internacional"
-news_id: 190575
+redirect_from: /news/190575
 ---
 
 La escalada de amenazas en el conflicto que hay entre Rusia y Ucrania ha llegado a tal punto que el ministro de Defensa del segundo país mencionado, Oleksiy Reznikov, afirmó que habrá una "masacre realmente sangrienta" si el primero trata de invadir su territorio, según sus más recientes declaraciones. 

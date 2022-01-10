@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Entre los logros alcanzados por la suma de voluntades de los 13 subsistemas en los últimos años, están el desarrollo del Centro Virtual de Recursos Académicos y las Rutas de Reforzamiento de los Aprendizajes Claves"
 image: "/uploads/2021/images-CEPPEMS1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con el Ceppems logra Chihuahua crecimiento en cobertura y matrícula de Educación Media Superior"
 front: false
 section: "Local"
-news_id: 187198
+redirect_from: /news/187198
 ---
 
 La Secretaría de Educación y Deporte (SEyD) celebró el 30 aniversario de la creación de la Comisión Estatal para la Planeación y Programación de la Educación Media Superior en Chihuahua (Ceppems), la cual está integrada por los 13 subsistemas de este nivel educativo que operan en la entidad.

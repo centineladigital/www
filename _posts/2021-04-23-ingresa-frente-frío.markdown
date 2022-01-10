@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La CEPC mantiene la advertencia para este viernes 23 por rachas de viento de 75 km/h sobre todo en Nonoava, Balleza, El Tule y Santa Bárbara"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ingresa Frente Frío 53 este sábado a la entidad"
 front: false
 section: "Local"
-news_id: 184069
+redirect_from: /news/184069
 ---
 
 Este sábado ingresará el Frente Frío 53 a la entidad, de manera que este viernes 23 seguirán las rachas de viento de alrededor de 75 kilómetros por hora (km/h), informó la Coordinación Estatal de Protección Civil (CEPC).

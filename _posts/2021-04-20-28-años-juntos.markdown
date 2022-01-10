@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La boyband Backstreet Boys se creó el 20 de abril de 1993 y así es cómo han cambiado sus integrantes a lo largo de los años. "
 image: "/uploads/2021/images-backstreet-boys-boybands-exitosas-anos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡28 años juntos! Así lucen hoy los integrantes de los Backstreet Boys"
 front: false
 section: "Espectáculos"
-news_id: 183998
+redirect_from: /news/183998
 ---
 
 Durante la década de los 90 surgieron varias boybands con integrantes que se robaron el corazón de varias personas, pero sin duda la más popular y exitosa fue los Backstreet Boys, una agrupación conformada por cinco chicos que robaron suspiros desde su integración, un 20 de abril de 1993, fecha en la que hoy cumplen 28 años juntos. Desde hace casi 30 años Nick Carter, Kevin Richardson, Brian Littrell, A.J McLean y Howie Dorough han estado juntos y han lanzado discos muy exitosos de los cuales se han desprendido temas como: “Larger tan lifer”, “Everybody”, “I Want It That Way”, entre muchos otros que seguramente has cantado. 

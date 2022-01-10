@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante y ex pareja de Joan Sebastián reveló que su fan –acosador– le mandaba muchas cartas e incluso llegó a regar el rumor de que supuestamente se había quitado la vida por su culpa. "
 image: "/uploads/2021/images-maribel_fan.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dije 'me va a matar' -  Maribel Guardia revela aterrador episodio con fan que la acosaba"
 front: false
 section: "Espectáculos"
-news_id: 186557
+redirect_from: /news/186557
 ---
 
 Maribel Guardia, conductora y cantante de palenques, reveló que vivió uno de los momentos más complicados de su carrera cuando fue acosada por un fan. El episodio complicado de hostigamiento llegó a tal grado que pensó que el hombre podría atentar contra su vida. ¿Qué fue lo que pasó? ¿Qué ocurrió? ¿Cómo se alejó de ella? Te contamos lo que dijo la famosa.  

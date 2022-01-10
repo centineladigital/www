@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La selección mexicana recuperó al delantero del Wolverhampton en el momento donde más necesitan goles "
 image: "/uploads/2021/images-raul-jimenez-esta-de-regreso_0_22_1024_637_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Raúl Jiménez vuelve al Tri ¿como solución a la falta de gol?"
 front: false
 section: "Deportes"
-news_id: 188466
+redirect_from: /news/188466
 ---
 
 México pasó los últimos meses lamentándose por la ausencia de Raúl Jiménez, pero la espera por su regreso ya terminó. Después de casi un año de ausencia, el goleador del Wolverhampton inglés está listo para reaparecer con el seleccionado mexicano que el jueves enfrentará a Canadá en las eliminatorias mundialistas rumbo a Qatar 2022. 

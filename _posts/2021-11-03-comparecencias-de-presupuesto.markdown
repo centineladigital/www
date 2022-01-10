@@ -14,11 +14,11 @@ author: nil
 description: "El paquete presupuestal se debe presentar antes del 30 de noviembre, para poder iniciar con las comparecencias y que se pueda aprobar el presupuesto antes del 31 de diciembre"
 image: "/uploads/2021/images-big_njpeuqga.jpg"
 video: "/uploads/2021/videos-BW04_LUIS_AGUILAR_.mp4"
-audio: "nil"
+audio: nil
 alt: "Comparecencias de presupuesto se realizarán del 1 al 8 de diciembre "
 front: false
 section: "Local"
-news_id: 189522
+redirect_from: /news/189522
 ---
 
 El diputado Luis Alberto Aguilar Lozoya, informó que las asistencias de funcionarios estatales respecto a la Ley de Ingresos y Presupuesto de Egresos del 2022, se realizarán del primero al ocho de diciembre.

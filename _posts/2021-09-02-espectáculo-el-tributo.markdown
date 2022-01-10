@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El show que nació en Argentina se presentará en Teatro Parque Interlomas."
 image: "/uploads/2021/images-espectaculo-anora-interaccion-directa-publico.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Espectáculo. El tributo a Queen está de regreso"
 front: false
 section: "Espectáculos"
-news_id: 187359
+redirect_from: /news/187359
 ---
 
 Opera Prima Rock, el espectáculo que rinde homenaje a la banda inglesa Queen, regresa a los escenarios de México para recordar las canciones de la agrupación y éxitos como “Bohemian Rhapsody”, “Radio Ga Ga”, “Don't Stop me now”, de los recordados integrantes Freddie Mercury, Brian May, Roger Taylor y John Deacon. El show que nació en Argentina en 1997 con el fin de interpretar las canciones más populares y seguir contando la historia de la banda, llegó a México en 2003, un concepto que mezcla también jazz, teatro musical y rock pop, sin que sea una parodia de ninguno de los integrantes. “Traemos toda la energía acumulada de todo este año y medio de pandemia en el que hicimos algunas representaciones virtuales. Si bien la tecnología nos de la posibilidad de acercarnos en la distancia, presentarlo en la pantalla es muy complicado porque ofrecemos ciertos matices”, destacó Diego Fainguersch, integrante del show de Opera Prima Rock.

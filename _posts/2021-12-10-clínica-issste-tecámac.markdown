@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En el segundo día de gira por el Estado de México, supervisa Unidades Médicas Familiares de Acolman, Texcoco, Zumpango y Tecámac "
 image: "/uploads/2021/images-ISSSTE_03.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Clínica ISSSTE Tecámac contará con nuevas instalaciones, anuncia Zenteno Santaella"
 front: false
 section: "Local"
-news_id: 190720
+redirect_from: /news/190720
 ---
 
 Para agilizar el fortalecimiento de servicios y dar comienzo puntual a la transformación del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Issste), el director general, Pedro Zenteno Santaella, informó que la Unidad de Medicina Familiar (UMF) de Tecámac, Estado de México, se reubicará a instalaciones donadas por el gobierno municipal, derivado de daños estructurales por los sismos de 2017 y 2021.

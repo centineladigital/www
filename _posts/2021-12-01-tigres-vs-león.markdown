@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Tigres recibirá en el estadio Universitario al León para el partido de ida de las semifinales del Apertura 2021"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tigres vs León, horario y dónde ver la semifinal de ida de la Liga MX"
 front: false
 section: "Deportes"
-news_id: 190378
+redirect_from: /news/190378
 ---
 
 Se ponen en marcha las semifinales del Apertura 2021 de la Liga MX. Etapa en la que tres de los cuatro equipos que calificaron de forma directa a la liguilla se mantienen con vida. Dos de ellos se enfrentarán y se trata de Tigres y León.

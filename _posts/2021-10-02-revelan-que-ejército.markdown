@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Siete años después el gobierno federal señala omisión de información de Sedena; tuvieron acceso a mensajes del narco durante la noche de Iguala"
 image: "/uploads/2021/images-comision_libera_monitoreos_militares.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Revelan que Ejército tenía más datos de los 43 de Ayotzinapa"
 front: false
 section: "Nacional"
-news_id: 188310
+redirect_from: /news/188310
 ---
 
 La Comisión para la Verdad y Acceso a la Justicia en el caso Ayotzinapa (Covaj) hizo pública parte de la información relevante que recibió de la Secretaría de la Defensa Nacional (Sedena), y que consta de dos hojas con presuntas intervenciones de comunicaciones realizadas por el Ejército Mexicano, los días 26 de septiembre y 4 de octubre de 2014.

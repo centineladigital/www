@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se limitará a la presencia de aficionados locales en las dos últimas jornadas, sujeto a que el Gobierno británico reduzca las restricciones"
 image: "/uploads/2021/images-2573371.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Regresará el público a la Premier League"
 front: false
 section: "Deportes"
-news_id: 184282
+redirect_from: /news/184282
 ---
 
 La Premier League anunció que las dos últimas jornadas de la temporada 2020/21 se disputarán con público en las gradas de los estadios, aunque únicamente con aficionados del club local y siempre de acuerdo al plan de desescalada impulsado por el Gobierno británico.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz compartió un preocupante mensaje en Instagram, en el que señaló sufre un nuevo padecimiento que le ha provocado días de dolor e impotencia. "
 image: "/uploads/2021/images-fernanda-castillo-revela-sufre-problema_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Días de miedo, de dolor físico -  Fernanda Castillo revela que sufre problema de salud"
 front: false
 section: "Espectáculos"
-news_id: 184619
+redirect_from: /news/184619
 ---
 
 Fernanda Castillo recurrió a sus redes sociales para compartir con sus seguidores que enfrenta un nuevo problema de salud, esto después de que a principios de 2021 fue hospitalizada de emergencia en la Ciudad de México por una "severa complicación" post parto, semanas después del nacimiento de su hijo Liam Hayser Castillo, fruto de su relación con el actor Erik Hayse.  A través de su cuenta de Instagram, Fernanda Castillo señaló que ha vivido complicados días debido a que enfrenta un nuevo padecimiento, una enfermad que le ha "hecho sentir impotente y enojada.

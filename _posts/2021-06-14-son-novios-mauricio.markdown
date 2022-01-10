@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de redes sociales, en donde Mauricio Ochmann compartió una imagen en la que aparece junto a quien aseguran es su nueva pareja.  "
 image: "/uploads/2021/images-mauricio-ochmann-presenta-novio-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Son novios? Mauricio Ochmann comparte video con Paulina Burrola; aseguran es su novia"
 front: false
 section: "Espectáculos"
-news_id: 185016
+redirect_from: /news/185016
 ---
 
 Mauricio Ochmann, actor y ex pareja de Aislinn Derbez, al parecer ya sanó la ruptura amorosa con la madre de su hija Kailani, pues a través de redes sociales mostró a quien aseguran es su nueva relación sentimental. Esto después de que los dimes y diretes sobre si regresarían o no estuvieran en altas y bajas. El actor de famosas series y telenovelas mostró un video junto a la modelo Paulina Burrola. ¿Es su novia? ¿Son amigos? ¿Cómo fue que Mauricio Ochmann compartió que se está dando una nueva oportunidad en el amor? Te contamos todo lo que sabemos. 

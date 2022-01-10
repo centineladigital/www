@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Todos los créditos de corto plazo que fueron contratados por la actual Administración estatal, ya fueron liquidados el pasado 31 de mayo del presente año, cumpliendo así con lo establecido en la Ley de Disciplina Financiera."
 image: "/uploads/2021/images-Diapositiva10.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se disminuyó la deuda de Chihuahua  y se bajaron considerablemente las tasas de interés -  Hacienda"
 front: false
 section: "Local"
-news_id: 185572
+redirect_from: /news/185572
 ---
 
 Como resultado positivo del refinanciamiento logrado por la actual Administración “la deuda de largo plazo vigente del Estado de Chihuahua se ubica a nivel nacional en segundo lugar de sobre tasa de interés promedio ponderada más baja”, informó el subsecretario de Egresos de la Secretaría de Hacienda, César Bolado Rubio.

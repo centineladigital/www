@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La canción es una colaboración entre el rapero independiente más exitoso del hip hop y el actor más importante de Hollywood. "
 image: "/uploads/2021/images-dwayne-johnson-debut-musical-techn.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡De Hollywood a la música! Dwayne Johnson 'La Roca' se adentra al mundo del rap a sus 49 años"
 front: false
 section: "Espectáculos"
-news_id: 188545
+redirect_from: /news/188545
 ---
 
 En un movimiento de carrera que hace historia, Dwayne Johnson mejor conocido como La Roca está haciendo su debut en la música, ya que aparece en el nuevo sencillo de Tech N9ne, 'Face Off'. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El canciller dijo que es necesario que se les reconozca como un bien público global y se apliquen sin exclusiones en todos los países, incluidos aquellos que se encuentran en conflicto"
 image: "/uploads/2021/images-2574723.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Vacunas deben ser bien público' -  Ebrard en Consejo de Seguridad ONU"
 front: false
 section: "Nacional"
-news_id: 184329
+redirect_from: /news/184329
 ---
 
 Durante su participación en la reunión del Consejo de Seguridad de la ONU, el canciller Marcelo Ebrard reiteró su llamado a Estados y organizaciones internacionales para promover el acceso equitativo a las vacunas contra el Covid-19.

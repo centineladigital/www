@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El instituto prioriza las especialidades de consulta externa, cirugía y medicina preventiva; destaca la realización de 3,487 mastografías, 2,409 detecciones de hipertensión arterial…"
 image: "/uploads/2021/images-2573428.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fortalece IMSS recuperación de servicios médicos de calidad"
 front: false
 section: "Nacional"
-news_id: 184280
+redirect_from: /news/184280
 ---
 
 Para el Instituto Mexicano del Seguro Social (IMSS) es importante la calidad médica en beneficio de los derechohabientes, por ello se trabaja en una estrategia para recuperar en los tres niveles de atención los servicios de salud diferidos por la emergencia sanitaria de COVID-19.

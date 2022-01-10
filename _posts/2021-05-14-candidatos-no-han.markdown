@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se han recibido cinco solicitudes de los candidatos."
 image: "/uploads/2021/images-MESTA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV02_FERNANDO_MESTA.mp3"
 alt: "Candidatos no han requerido escolta"
 front: false
 section: "Local"
-news_id: 184469
+redirect_from: /news/184469
 ---
 
 Hasta el momento los candidatos de Chihuahua no han requerido escoltas, señaló el Secretario General de Gobierno, Fernando Mesta Soulé. Esto tras el homicidio de Abel Murrieta, donde se le cuestionó si se tiene alguna especie de operativo para que no ocurra algún ataque en contra de los candidatos como se registró para el candidato de Movimiento Ciudadano por la alcaldía de Cajeme, en el estado de Sonora.

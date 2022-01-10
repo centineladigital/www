@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Según detalló Spotify, Bad Bunny ha logrado, en los primeros ocho meses de este corriente año, 6.659 millones de reproducciones en dicha plataforma. "
 image: "/uploads/2021/images-bad-bunny-ganador-album-pop.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿No te gusta el reguetón? Bad Bunny se corona como el artista más escuchado en Spotify"
 front: false
 section: "Espectáculos"
-news_id: 187363
+redirect_from: /news/187363
 ---
 
 El reguetonero puertorriqueño Bad Bunny es el artista latino más escuchado mensualmente en la plataforma musical de Spotify en el año 2021, informó este jueves la compañía en un tuit. 

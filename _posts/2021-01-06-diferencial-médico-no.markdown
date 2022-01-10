@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma Rector que se tiene situación critica."
 image: "/uploads/2021/images-RECTOR.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_LUIS_FIERRO.mp3"
 alt: "Diferencial médico no está cubierto -  UACH"
 front: false
 section: "Local"
-news_id: 181921
+redirect_from: /news/181921
 ---
 
 El adeudo que se tiene con Pensiones Civiles del Estado es por el diferencial médico que se tiene por parte de la Universidad Autónoma de Chihuahua, quien dijo que la institución prorratea cifras sin importarle donde se generó ese gasto.

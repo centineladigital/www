@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La UIF de la SHCP tiene identificadas 173 operaciones bancarias inusuales relacionadas con 219 sujetos presuntamente vinculados con delitos de tráfico de especies, caza furtiva, pesca ilegal o tala"
 image: "/uploads/2021/images-2518662.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "ONU apoyará a México en combate tráfico ilegal de especies"
 front: false
 section: "Nacional"
-news_id: 182452
+redirect_from: /news/182452
 ---
 
 Hasta el pasado 17 de enero, la Unidad de Inteligencia Financiera (UIF) de la Secretaría de Hacienda y Crédito Público (SHCP), tenía identificadas 173 operaciones bancarias inusuales relacionadas con 219 sujetos presuntamente vinculados con delitos de tráfico de especies, caza furtiva, pesca ilegal o tala.

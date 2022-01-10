@@ -10,11 +10,11 @@ author: nil
 description: "No descartan encontrar más personas que simulaban sus funciones."
 image: "/uploads/2021/images-GONZALEZ.jpg"
 video: "/uploads/2021/videos-MW01_JAVIER_GONZALEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Detectan 60 aviadores en Secretaría de Educación"
 front: false
 section: "Local"
-news_id: 188442
+redirect_from: /news/188442
 ---
 
 Hasta el momento 60 personas han sido detectadas como aviadores dentro de la Secretaría de Educación y Deporte, según lo declaró el titular de la dependencia Javier González Mocken, quien no descartó que se encuentren más personas que tengan un puesto el cual no desempeñan.

@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Al confirmar el Tribunal Estatal Electoral el triunfo de Maru Campos también se valora la declaración de Gobernadora Electa"
 image: "/uploads/2021/images-17E00C87-E472-4285-AC9B-B05F0AD2EBEC.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "TEE desecha impugnaciones y da triunfo a Maru"
 front: false
 section: "Local"
-news_id: 186112
+redirect_from: /news/186112
 ---
 
 *

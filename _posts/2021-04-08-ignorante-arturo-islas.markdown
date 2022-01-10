@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Arturo Islas estalló contra Eugenio Derbez por apoyar las leyes desde la ignorancia; pidió que investiguen antes de dejar al abandono a los animales. Esto tras rescatar un elefante afectado por la ley que prohíbe los animales en circos: les vale mad."
 image: "/uploads/2021/images-arturo-islas-cataloga-ignorante-eugenio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ignorante -  Arturo Islas 'explota' contra Eugenio Derbez por apoyar prohibición de animales en circos"
 front: false
 section: "Espectáculos"
-news_id: 183759
+redirect_from: /news/183759
 ---
 
 Arturo Islas, activista por la protección y respeto a los animales, arremetió en contra de Eugenio Derbez, pues el comediante fue uno de los principales en apoyar que los animales se prohibieran en los circos, provocando con ello que varios se quedaran sin ayuda o en el abandono. Ante este panorama, el también productor catalogó a Eugenio Derbez como un ignorante. Además de que lo invitó a que ayude a los animales que han sufrido por la decisión que inició desde un tema político. En entrevista con De Primera Mano, Arturo Islas expresó su descontento contra Eugenio Derbez, pues desde su punto de vista el comediante sólo se preocupa por las reformas, pero no por las donaciones económicas que necesitan los animales rescatados de dicho espectáculo.

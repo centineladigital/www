@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Desde ayer, las redes sociales se volcaron en contra de la producción de La Rosa de Guadalupe de Televisa, pues representaron un caso muy similar al que le sucedió a Nath Campos. ¿Lucran con el dolor ajeno? ¿Fue una historia distinta? "
 image: "/uploads/2021/images-rosa-guadalupe-critican-programa-capitulo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Critican a 'La Rosa de Guadalupe' de Televisa por retratar el caso de abuso de Nath Campos"
 front: false
 section: "Espectáculos"
-news_id: 183876
+redirect_from: /news/183876
 ---
 
 La Rosa de Guadalupe, producción de Televisa, una vez más generó polémica por la historia que recientemente retrató en su emisión televisiva. De acuerdo con usuarios de las redes sociales, en uno de sus recientes capítulos rescataron la historia de Nath Campos, influencer que denunció al youtuber Rix por abuso sexual. Y es que aunque cambiaron parte de la narrativa tiene muchas similitudes. Este hecho ha incendiado a los internautas, quienes explotaron en contra de la empresa. ¿Fue un buen mensaje? ¿Lucraron con la víctima? Desde ayer, las redes sociales se volcaron en contra de la producción de La Rosa de Guadalupe de Televisa, pues representaron un caso muy similar al que le sucedió a Nath Campos, quien hizo público el caso, denunció ante las autoridades y logró que detuvieran a Rix por el delito de abuso sexual, luego de que éste la agrediera sexualmente mientras intentaba dormir después de haber acudido a una fiesta.

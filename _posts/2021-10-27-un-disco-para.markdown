@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "‘Back to Black’ fue reconocido en el año 2008 por los Grammy como “Grabación del año” y a ‘Rehab’ como “Canción del año”, llevando a Amy a ganar esa misma noche a “Mejor nuevo artista”. "
 image: "/uploads/2021/images-back-to-black-amy-winehouse.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Un disco para la historia! Se cumplen 15 años de ‘Back to Black’ de Amy Winehouse"
 front: false
 section: "Espectáculos"
-news_id: 189285
+redirect_from: /news/189285
 ---
 
 Se cumplen 15 años de unos de los mejores discos de la música contemporanea, un disco que elevó el nombre de Amy Winehouse al de una leyenda, un álbum cargado de miles de sentimientos, emociones y que posiblemente presagiaba lo que pasaría después. Con más de 20 millones de copias vendidas en todo el mundo, se convirtió en el álbum con más éxito de la artista inglesa pero lo que quizá pocos sabían era todo lo que ‘Back to Black’ escondía detrás de aquellas letras. 

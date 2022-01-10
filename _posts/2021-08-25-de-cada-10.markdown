@@ -14,11 +14,11 @@ author: nil
 description: "7 de cada 10 mujeres han recibido violencia alguna vez en su vida "
 image: "/uploads/2021/images-MARGARITA.jpg"
 video: "/uploads/2021/videos-BW01_MARGARITA_BLACKELLER.mp4"
-audio: "nil"
+audio: nil
 alt: "De cada 10 mujeres 7 han sido violentadas "
 front: false
 section: "Local"
-news_id: 187115
+redirect_from: /news/187115
 ---
 
 El relanzamiento de la aplicación Mía se llevó a cabo con éxito, la licenciada Ana Margarita Blackaller Prieto directora del Instituto Municipal de las Mujeres afirmó que nacionalmente 7 de cada 10 mujeres han recibido violencia alguna vez en su vida y que se han recibido más de 850 llamadas por violencia de género al Instituto Municipal de las Mujeres durante temporada de pandemia.

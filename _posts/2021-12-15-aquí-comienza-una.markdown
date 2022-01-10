@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Realiza Gobernadora gira de trabajo por Guachochi, recibe Bastón de Mando"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " “Aquí comienza una nueva etapa en la historia de Chihuahua, una etapa que será caracterizada por el reconocimiento mutuo y el trabajo coordinado” -  Maru Campos"
 front: false
 section: "Local"
-news_id: 190862
+redirect_from: /news/190862
 ---
 
 Con el objetivo de fortalecer la relación entre las autoridades tradicionales y los representantes de los diversos órdenes y poderes del Gobierno, la gobernadora Maru Campos Galván encabezó una reunión con cerca de 300 gobernantes indígenas, que tuvo verificativo en Guachochi.

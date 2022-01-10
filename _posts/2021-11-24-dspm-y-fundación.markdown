@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ratificaron convenio para canalizar a mujeres víctimas a las Unidades de Atención a la Violencia Familiar"
 image: "/uploads/2021/images-unnamed_(9).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "DSPM y Fundación Caudillos, trabajan juntos para erradicar la violencia familiar"
 front: false
 section: "Local"
-news_id: 190155
+redirect_from: /news/190155
 ---
 
 La Dirección de Seguridad Pública Municipal de Chihuahua (DSPM) y la Fundación Caudillos, refrendaron el convenio de colaboración que ya existía entre ambas instituciones, a fin de continuar trabajando juntas, para buscar soluciones al problema de la violencia al interior del hogar, especialmente hacia la mujer y que suele ser atendida por las Unidades de Atención a la Violencia Familiar (UAVI).

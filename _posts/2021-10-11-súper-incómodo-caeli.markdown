@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Caeli se encontró a Belinda y Nodal en un restaurante; les pidió una foto y desató la polémica. ¿Qué pasó? Te contamos la razón por la que criticaron a los internautas a Nodal y Caeli. "
 image: "/uploads/2021/images-critican-a-nodal-y-caeli_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Súper incómodo -  Caeli se encuentra a Nodal y Belinda en restaurante; critican seriedad y 'coqueteo'"
 front: false
 section: "Espectáculos"
-news_id: 188571
+redirect_from: /news/188571
 ---
 
 Caeli, famosa youtuber mexicana, causó revuelo en redes sociales, luego de encontrarse a Belinda y a Christian Nodal. Como era de esperarse, la creadora de contenido pidió una fotografía a ambos cantantes por separado, algo que dividió opiniones entre los internautas. Y es que para muchos la pareja tuvo una mala actitud, mientras que para otros la influencer ‘coqueteó’ con el cantante de regional mexicano. Fue a través de su cuenta de Instagram en donde Caeli mostró que se encontró a una de las parejas mexicana más famosas de estos tiempos.

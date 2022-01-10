@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantautor mexicano agradeció a todos sus fans por darse cita a su gira de despedida. "
 image: "/uploads/2021/images-napoleon-en-tampico.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Napoleón dice adiós a los escenarios; así fue el concierto en Tampico"
 front: false
 section: "Espectáculos"
-news_id: 190749
+redirect_from: /news/190749
 ---
 
 El poeta de la canción, José María Napoleón, se presentó en Tampico para dar un concierto como parte de su gira de despedida; el cantante se despide de los escenarios.  Desde las 19 horas, los seguidores del cantautor mexicano se dieron cita a la ExpoTampico para ser participes de la gira de despedida de Napoleón en el puerto de Tampico. Largas filas se registraron por dentro y fuera del recinto, todas las personas reunidas esperaban con ansias poder ingresar al recinto y cantar todos los éxitos del cantautor nacido en Aguascalientes.  En su último concierto en Tampico, fanáticos como Basilisa Herrera Jaramillo que viajo desde el municipio de Nuevo Morelos hasta Tampico para poder ver a su cantante favorito desde 1974.  

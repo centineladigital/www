@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "enfatizó que se han prestado amenazas a representantes de casilla en Guachocho"
 image: "/uploads/2021/images-Sin_título.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El presidente estatal del PRI Alejandro Domínguez, acudió a emitir su voto"
 front: false
 section: "Local"
-news_id: 184871
+redirect_from: /news/184871
 ---
 
 El presidente estatal del PRI Alejandro Domínguez, acudió a emitir su voto y aprovecho para hacer un llamado al INE para que aceleren el proceso de instalación de casillas dado que en la ciudad apenas a las 12 del día se llevaba el 80 porciento del total de instalación de las casillas, situación similar en ciudad Juárez

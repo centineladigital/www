@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Es considerado como uno de los mejores guitarristas de la historia, ocupando el puesto número 92 de la lista según la revista Rolling Stone."
 image: "/uploads/2021/images-como-murio-dimebag-darrel-de.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Un brutal final! El día en que Dimebag Darrel de Pantera fue asesinado por un fan"
 front: false
 section: "Espectáculos"
-news_id: 190655
+redirect_from: /news/190655
 ---
 
 El 8 de diciembre ha sido un día marcado por la muerte de algunas grandes figuras dentro de la música a lo largo de la historia. Tal es el caso del vocalista de The Doors, Jim Morrison y el Beatle, John Lennon. Además de estos dos artistas, existe otro que fue asesinado por un fan suyo en el año 2004. 

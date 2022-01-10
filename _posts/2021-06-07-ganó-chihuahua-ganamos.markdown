@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“Estoy profundamente agradecido por ese civismo y el gran amor que hoy le han demostrado a México"
 image: "/uploads/2021/images-WhatsApp_Image_2021-06-06_at_7.08.35_PM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Ganó Chihuahua, Ganamos todos!; Marco Bonilla"
 front: false
 section: "Local"
-news_id: 184888
+redirect_from: /news/184888
 ---
 
 El candidato del PAN por la alcaldía de la Ciudad de Chihuahua Marco Bonilla dijo sentirse muy contento con los resultados de esta jornada electoral, porque datos propios y de diversas casas encuestadoras nacionales marcan una ventaja que ya es irreversible.

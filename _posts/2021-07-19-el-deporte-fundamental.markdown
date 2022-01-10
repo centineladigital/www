@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El gobernador de San Luis Potosí destacó las acciones del Instituto para cuidar la salud de las y los mexicanos."
 image: "/uploads/2021/images-ISSSTE_02.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El deporte, fundamental para la salud -  Ramírez Pineda"
 front: false
 section: "Local"
-news_id: 185799
+redirect_from: /news/185799
 ---
 
 Al inaugurar la Copa FutbolISSSTE 2021, el director general del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), Luis Antonio Ramírez Pineda, resaltó que la práctica del deporte es un factor importante para prevenir enfermedades.

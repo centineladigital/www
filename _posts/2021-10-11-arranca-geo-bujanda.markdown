@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En la jornada fueron instaladas dos unidades móviles que ofrecieron servicios gratuitos de mastografía y  exámenes de Papanicolaou en la Plaza de Armas."
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-11_at_13.41.02.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca Geo Bujanda Jornada de Detección de Cáncer de Mama y Cervicouterino"
 front: false
 section: "Local"
-news_id: 188597
+redirect_from: /news/188597
 ---
 
 Con motivo del mes de octubre, mes de la conmemoración de la lucha contra el cáncer de mama, tuvo lugar el arranque de la “Jornada de detección oportuna de cáncer de mama y cervicouterino” organizada por la presidenta del Congreso del Estado, Geo Bujanda, en la que se dieron cita decenas de mujeres para realizarse los estudios. 

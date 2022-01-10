@@ -10,11 +10,11 @@ author: nil
 description: "Afirma titular que ha pugnado por incrementar los sueldos de elementos."
 image: "/uploads/2021/images-EMILIO.jpg"
 video: "/uploads/2021/videos-MM05_EMILIO_GARCIA.mp4"
-audio: "nil"
+audio: nil
 alt: "Salario justo para elementos es de más de 18 mil -  SSPE"
 front: false
 section: "Local"
-news_id: 186032
+redirect_from: /news/186032
 ---
 
 Luego de que se diera a conocer que los salarios que pueden ser justos para elementos de la policía pudiera ser de 13 mil pesos, el titular de la Secretaría de Seguridad Pública Estatal, Emilio García Ruiz, afirmó que debería de ser de 18 mil por lo menos al mes.

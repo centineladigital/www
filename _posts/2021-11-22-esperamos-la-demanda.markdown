@@ -16,11 +16,11 @@ author: nil
 description: "La labor más importante que se tiene como representante del pueblo es la de defender a la ciudadanía de cualquier acto ilícito "
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-22_at_11.47.22_AM_(1).jpeg"
 video: "/uploads/2021/videos-BL02_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Esperamos la demanda de Aras"
 front: false
 section: "Local"
-news_id: 190085
+redirect_from: /news/190085
 ---
 
 “Estamos esperando la demanda de Aras”, así comentó el presidente Marco Bonilla a consecuencia de las especulaciones sobre una supuesta demanda para el municipio, específicamente para el alcalde por parte de la empresa Aras,  la cual había señalado que es muy distinto hacer asesorías jurídicas para asuntos familiares que para cuestiones mercantiles y se había sentido agraviada por las declaraciones de apoyo del Edil hacia los afectados.

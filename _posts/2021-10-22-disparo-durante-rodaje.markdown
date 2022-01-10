@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un miembro principal del elenco manipuló un arma durante un ensayo sin saber que estaba cargada hiriendo a dos personas, un hombre y una mujer."
 image: "/uploads/2021/images-disparo-accidental-provoco-muerte-mujer.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Disparo durante rodaje provoca la muerte de una mujer en película de Alec Baldwin"
 front: false
 section: "Espectáculos"
-news_id: 189066
+redirect_from: /news/189066
 ---
 
 Una mujer murió en Nuevo México durante el rodaje de un tiroteo de la película Rust protagonizada por el actor Alec Baldwin, informaron las autoridades estadunidenses. "El departamento del sheriff del condado de Santa Fe confirma que dos individuos fueron baleados durante el rodaje de una escena en el set de la película del oeste Rust", detalló el despacho en un comunicado. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se espera que Sam alcance categoría 4 el domingo, con vientos de 225 kilómetros por hora. "
 image: "/uploads/2021/images-sam-se-intensifica-a-huracan.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Huracán 'Sam' se fortalece a categoría 3 en el Atlántico"
 front: false
 section: "Internacional"
-news_id: 188053
+redirect_from: /news/188053
 ---
 
 El huracán Sam se ha fortalecido este sábado en el Océano Atlántico a categoría tres, por lo que se espera que en transcurso del fin de semana se siga fortaleciendo. 

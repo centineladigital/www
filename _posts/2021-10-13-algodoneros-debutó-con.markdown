@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Acereros demostró un gran poderío ofensivo de 19 imparables en el Revolución ante unos Algodoneros que pelearon hasta el final. "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Algodoneros debutó con derrota en la Liga Invernal"
 front: false
 section: "Deportes"
-news_id: 188672
+redirect_from: /news/188672
 ---
 
 Ante una gran entrada en el Estadio Revolución, los Algodoneros de Unión Laguna debutaron con una derrota en la Liga Invernal Mexicana por pizarra de 13 carreras por 6 ante los Acereros de Monclova. 

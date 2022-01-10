@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El titular de la SCOP, Carlos Aguilar García, informó que de los 34 convenios actuales, 19 ya han sido terminados y el resto de los trabajos continúan en distintas zonas del estado."
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabaja SCOP en rehabilitación y revestimiento de caminos en 22 municipios   "
 front: false
 section: "Local"
-news_id: 190242
+redirect_from: /news/190242
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Comunicaciones y Obras Públicas, trabaja 34 convenios de obra en 22 municipios de la entidad,  principalmente en la Sierra de Chihuahua en donde desde el mes de septiembre se llevan a cabo acciones conjuntas para rehabilitar y revestir caminos rurales.

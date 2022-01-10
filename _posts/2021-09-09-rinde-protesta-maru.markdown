@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "En presencia de Víctor Manuel Villalobos Arámbula, secretario de Agricultura y Desarrollo Rural del Gobierno Federal y Pablo Héctor González Villalobos, magistrado presidente del Tribunal Superior de Justicia del Estado; Campos Galván fue declarada como Gobernadora Constitucional."
 image: "/uploads/2021/images-1C745CA6-9223-448A-A04E-4448C7217C57.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "*Rinde protesta Maru Campos en Ciudad Juárez*"
 front: false
 section: "Local"
-news_id: 187564
+redirect_from: /news/187564
 ---
 
 Maru Campos Galván, rindió protesta como Gobernadora Constitucional del Estado de Chihuahua en la Plaza de la Mexicanidad de Ciudad Juárez para el periodo 2021-2027.

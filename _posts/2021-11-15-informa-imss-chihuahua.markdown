@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Es el Mes de Salud Integral del Hombre, en donde el Instituto implementó una campaña nacional para fortalecer las acciones de detección oportuna de próstata, testículos y pene."
 image: "/uploads/2021/images-Foto_FN_5560-1.jfif"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Informa IMSS Chihuahua mediante pláticas sobre cáncer de testículos y síntomas en Unidades de Medicina Familiar (UMF)"
 front: false
 section: "Local"
-news_id: 189844
+redirect_from: /news/189844
 ---
 
 Gran interés está mostrando la población masculina derechohabiente de las diferentes Unidades de Medicina Familiar (UMF) mediante pláticas realizadas en  el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua donde se está brindando información para prevenir y atender oportunamente el cáncer de testículos. 

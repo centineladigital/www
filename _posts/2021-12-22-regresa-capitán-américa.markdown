@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La película dirigida por Sam Raimi se centrará en el concepto del 'multiverso' y reunirá a Doctor Strange con Wanda Maximoff. "
 image: "/uploads/2021/images-lanzan-trailer-pelicula-doctor-strange.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Regresa Capitán América? Revelan tráiler de 'Doctor Strange en el multiverso de la locura'"
 front: false
 section: "Espectáculos"
-news_id: 191114
+redirect_from: /news/191114
 ---
 
 Si todavía no acabas de reponerte de la intricada trama de Spiderman No Way Home, prepárate porque Marvel acaba de estrenar el tráiler de Doctor Strange en el multiverso de la locura, una película que trae de regreso a Wanda Maximoff y nuevos superhéroes, pero sobre todo abordará por primera vez el concepto del multiverso y los riesgos que representa para el mundo.  Ya lo anunciaba el final de Spiderman No Way Home: esta nueva fase del Universo de Marvel sólo está por comenzar y prueba de ello es el adelanto de la película que tiene como protagonista al Hechicero Supremo. Tal como se revela en las nuevas imágenes, un nuevo ente amenaza a la Tierra y Doctor Strange deberá reunir las piezas del rompecabezas para vencerlo.  

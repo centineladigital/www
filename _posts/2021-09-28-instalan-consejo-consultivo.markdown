@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Se enfocarán en los programas y trabajos a favor de la dignidad de la persona y la familia en el centro de las políticas, como lo ha expresado en sus ejes transversales en la visión del presidente municipal."
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instalan Consejo Consultivo del Instituto Municipal de Cultura Física y Deporte"
 front: false
 section: "Local"
-news_id: 188166
+redirect_from: /news/188166
 ---
 
 Con la asistencia de miembros de la sociedad civil organizada, deportistas destacados, presidentes de comités deportivos y equipos profesionales, fue instalado el Consejo Consultivo del Instituto Municipal de Cultura Física y Deporte (IMCFD), el cual serán de los principales entes en vigilar los programas encaminados en beneficio de la comunidad deportiva.

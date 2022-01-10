@@ -14,11 +14,11 @@ author: nil
 description: " Fortalecer mecanismos de participación ciudadana en los diferentes comités  es prioridad "
 image: "/uploads/2021/images-POSADA.jpg"
 video: "/uploads/2021/videos-BL03_CARMEN_HIDALGO.mp4"
-audio: "nil"
+audio: nil
 alt: "Se debe fortalecer  la participación ciudadana -  Carmen Hidalgo "
 front: false
 section: "Local"
-news_id: 187894
+redirect_from: /news/187894
 ---
 
 La coordinadora de Transparencia y Gobierno Abierto, Carmen Hidalgo Posada, indicó que dentro de las áreas de oportunidad en las que se tiene que trabajar para llegar a la máxima calificación de transparencia en Chihuahua, se encuentra el fortalecer los mecanismos de participación ciudadana en los diferentes comités de compras y obras del Gobierno Municipal.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Casa Blanca afirmó que el presidente Joe Biden no anunció ningún cambio, luego de que prometió defender a la isla en caso de un ataque por parte de China. "
 image: "/uploads/2021/images-casa-blanca-biden-cambios-politica_0_10_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Política de EU hacia Taiwán se mantiene sin cambios, aclara la Casa Blanca"
 front: false
 section: "Internacional"
-news_id: 189071
+redirect_from: /news/189071
 ---
 
 El gobierno de Estados Unidos aclaró que su política hacia Taiwán no sufrió modificaciones tras la promesa del presidente, Joe Biden, de defender a la isla de un ataque chino, provocando la ira de Pekín. 

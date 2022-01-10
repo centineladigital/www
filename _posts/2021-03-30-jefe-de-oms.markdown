@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El director general de la OMS, Tedros Adhanom Ghebreyesus, pide una nueva investigación sobre la hipótesis de un escape del virus del covid-19 de un laboratorio en China"
 image: "/uploads/2021/images-2554022.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jefe de OMS pide ahondar en hipótesis de fuga del covid de un laboratorio"
 front: false
 section: "Internacional"
-news_id: 183606
+redirect_from: /news/183606
 ---
 
 El director general de la Organización Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, pidió el martes una nueva investigación sobre la hipótesis de un escape del virus del covid-19 de un laboratorio en China y criticó la falta de acceso de los expertos a los datos.

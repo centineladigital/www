@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Esta obra quedará terminada en un mes y medio, y en conjunto con la Planta de Tratamiento Poniente, que está en operación, permitirá sanear el Río San Pedro al 100%"
 image: "/uploads/2021/images-b.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Supervisa Gobernador en Delicias,  avance de Planta de Tratamiento Zona Norte"
 front: false
 section: "Local"
-news_id: 187369
+redirect_from: /news/187369
 ---
 
 En gira de trabajo por Delicias, el gobernador Javier Corral llevó a cabo un recorrido, a fin de supervisar el avance de la Planta Tratadora de Aguas Residuales Norte, cuyo progreso actualmente es del 77% a nivel general y en la que se invierten 154 millones 891 mil 138 pesos.

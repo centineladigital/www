@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cual se otorga a quienes han realizado acciones y obras valiosas en beneficio de la preservación y restauración del equilibrio ecológico y proyección al medio ambiente para la comunidad del municipio"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encabeza Alcaldesa entrega del Premio Ciudadano al Medio Ambiente del Municipio de Chihuahua"
 front: false
 section: "Local"
-news_id: 186563
+redirect_from: /news/186563
 ---
 
 Las y los integrantes del Ayuntamiento, en sesión Solemne hicieron entrega del Premio Ciudadano al Medio Ambiente del Municipio de Chihuahua, en su edición 2018-2021, a las licenciadas Martha Yadria Cruz García y Adriana Edith De los Ángeles Segura, por su proyecto “Conciencia Ambiental en Movimiento”.

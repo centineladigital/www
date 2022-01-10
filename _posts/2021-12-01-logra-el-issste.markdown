@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Antirretrovirales autorizados en México permiten que el VIH sea indetectable en 90 por ciento de casos, es decir intransmisible, informó el infectólogo Leonardo De la Torre Carmona."
 image: "/uploads/2021/images-ISSSTE_VIH_03.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Logra el ISSSTE avances en la lucha contra el VIH/SIDA"
 front: false
 section: "Local"
-news_id: 190394
+redirect_from: /news/190394
 ---
 
 Los esquemas antirretrovirales actuales para el Virus de Inmunodeficiencia Humana (VIH) aprobados a nivel nacional e internacional logran en los pacientes una tasa de supresión del virus por arriba del 90 por ciento en forma persistente y en la mayoría de casos  pueden lograr que sean indetectables en los primero dos meses, informó  Leonardo Darío De la Torre Carmona, responsable de la Clínica del VIH y del Síndrome de Inmunodeficiencia Adquirida (SIDA) del Hospital Regional “Gral. Ignacio Zaragoza” del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE).

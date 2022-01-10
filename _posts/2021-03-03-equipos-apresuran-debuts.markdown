@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pumas y Pachuca son los equipos que más han recurrido a sus fuerzas básicas en la nueva normalidad"
 image: "/uploads/2021/images-2538497.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Equipos apresuran debuts; superan la media centena de elementos"
 front: false
 section: "Deportes"
-news_id: 183240
+redirect_from: /news/183240
 ---
 
 Bajo la nueva normalidad, 51 nuevos elementos han visto acción en el máximo circuito en los dos torneos jugados desde la pandemia.

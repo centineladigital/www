@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Familia Monster está de regreso bajo la dirección de Rob Zombie, quien mostró las primeras imágenes del elenco caracterizado para su película."
 image: "/uploads/2021/images-luce-familia-monster-produccion-rob.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rob Zombie revela cómo lucen los personajes para su 'remake' de 'La Familia Monster'"
 front: false
 section: "Espectáculos"
-news_id: 188879
+redirect_from: /news/188879
 ---
 
 Rob Zombie dio a conocer cómo luce el elenco de la nueva versión y adaptación al cine del clásico sitcom La Familia Monster. El músico y director de cine aprovechó que se aproxima la época de Halloween para compartir imágenes desde el set de grabación del filme. 

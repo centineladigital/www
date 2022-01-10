@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Secretaría de Educación y Deporte, anunció que las clases presenciales para alumnos de preescolar, primaria y secundaria, comienzan el 30 de agosto   "
 image: "/uploads/2021/images-actividades_(8).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inician 32 mil docentes y personal administrativo actividades del nuevo ciclo escolar en Educación Básica"
 front: false
 section: "Local"
-news_id: 186609
+redirect_from: /news/186609
 ---
 
 Este miércoles 11 de agosto, alrededor de 32 mil docentes, además de personal directivo y administrativo de escuelas de nivel Básico de los subsistemas estatal y federal de todo el estado, iniciaron con las actividades correspondientes al ciclo escolar 2021-2022.

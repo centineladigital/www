@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“Esperemos que no solamente se quede en la escucha, que no se quede en el discurso”."
 image: "/uploads/2021/images-norma.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM02_NORMA_LEDEZMA.mp4"
 alt: "Esperan OSC acciones reales contra desaparición forzada"
 front: false
 section: "Local"
-news_id: 190119
+redirect_from: /news/190119
 ---
 
 “Esperemos que no solamente se quede en la escucha, que no se quede en el discurso” fueron las palabras de Norma Ledezma, dirigente de Justicia para Nuestras Hijas, esto a señalar que se espera que gobiernos tengan voluntad en materia de desaparición forzada. Esto tras llevarse a cabo este lunes una reunión con un integrante del Comité de la ONU contra la Desapariciones Forzadas.

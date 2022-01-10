@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Serán un total de 50, los que se sumarán a los 100 ya existentes."
 image: "/uploads/2021/images-AMIN2.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM06_.mp3"
 alt: "Busca Sindicatura capacitar nuevos Guardianes Ciudadanos "
 front: false
 section: "Local"
-news_id: 185049
+redirect_from: /news/185049
 ---
 
 Una capacitación de  cuatro sesiones avalada por el ICATECH es lo que busca la Sindicatura se lleve a cabo con el fin de crear nuevos Guardianes Ciudadanos, según lo dio a conocer el titular de esta área municipal Amín Anchondo.

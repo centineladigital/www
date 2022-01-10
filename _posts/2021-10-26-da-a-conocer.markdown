@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La detección  temprana brinda la posibilidad de curación de las pacientes que padezcan cáncer de mama; de ahí la importancia de realizar la autoexploración mensual a partir de los 20 años."
 image: "/uploads/2021/images-Foto_5227-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Da a conocer IMSS Chihuahua tipos de cáncer de mama que existen para su oportuna detección y atención "
 front: false
 section: "Local"
-news_id: 189228
+redirect_from: /news/189228
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua da a conocer los tipos de cáncer de mama, para su oportuna detección y atención médica. 

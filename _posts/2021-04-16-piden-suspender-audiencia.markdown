@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Defensa acusa de no haber recibido más de 33 mil fojas"
 image: "/uploads/2021/images-MARU-CAMPOS.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Piden suspender audiencia de Maru por nuevo amparo"
 front: false
 section: "Local"
-news_id: 183918
+redirect_from: /news/183918
 ---
 
 El Juez de Control, Ramón Gerardo Holguin Licón, se encuentra analizando la suspensión de la audiencia de formulación de cargos en contra de María Eugenia Campos Galván, luego de que los abogados tramitaran un nuevo amparo ante el Juzgado Décimo de Distrito, en el cual instruye a la Fiscalía Especializada en Combate a la Corrupción a entregar completa la carpeta de investigación.

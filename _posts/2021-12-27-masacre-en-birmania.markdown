@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En tanto, dos personas de la organización benéfica Save The Children están desaparecidas tras ataque; la Junta Militar acusó de que participaron rebeldes en su contra. "
 image: "/uploads/2021/images-la-masacre-en-birmania-dejo_0_3_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Masacre en Birmania deja más de 30 personas calcinadas; ONU condena el ataque"
 front: false
 section: "Internacional"
-news_id: 191218
+redirect_from: /news/191218
 ---
 
 Diversas fotografías de una masacre perpetrada en el este de Myanmar en Nochebuena que presuntamente dejó más de 30 personas muertas y calcinadas en sus vehículos —incluidos mujeres y niños— se han propagado por redes sociales, suscitando indignación contra los militares que tomaron el poder del país en febrero, incluso de la propia Organización de las Naciones Unidas (ONU).  

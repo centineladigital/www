@@ -13,12 +13,12 @@ tags:
 author: nil
 description: " A la brevedad posible se dará a conocer mayor información sobre el proceso"
 image: "/uploads/2021/images-WhatsApp_Image_2021-05-19_at_18.14.16.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "  A la brevedad posible se dará a conocer mayor información sobre el proceso"
 front: false
 section: "Local"
-news_id: 184567
+redirect_from: /news/184567
 ---
 
 El secretario de Educación y Deporte informó que del martes 25 al viernes 28 de mayo, se llevará a cabo la jornada de vacunación contra COVID-19 para el personal del sector educativo que previamente realizó su pre-registro a través de la página del Sistema de Información Educativa (SIE): https://sie.chihuahua.gob.mx/.

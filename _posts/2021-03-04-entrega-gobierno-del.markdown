@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con una inversión de 700 mil pesos aproximadamente se apoya a alumnas y alumnos de Namiquipa y Madera con recursos económicos para inscripción, maestría, materiales y equipo técnico"
 image: "/uploads/2021/images-UTB3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Gobierno del Estado 169 becas a estudiantes y egresados  de la UT Babícora"
 front: false
 section: "Local"
-news_id: 183275
+redirect_from: /news/183275
 ---
 
 El Gobierno del Estado de Chihuahua otorgó becas económicas para 169 estudiantes y egresados de la Universidad Tecnológica de la Babícora (UTB), tanto del Campus Namiquipa como de la Unidad Académica en Madera, mediante una inversión de 700 mil pesos aproximadamente.

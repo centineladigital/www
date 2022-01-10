@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente se reunirá con los secretarios de Estado y Seguridad Nacional, además del fiscal general, de Estados Unidos el viernes por la mañana. "
 image: "/uploads/2021/images-presidente-encabezara-dialogo-seguridad-alto_0_46_1024_636.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO encabezará diálogo de seguridad de alto nivel con funcionarios de EU en México "
 front: false
 section: "Nacional"
-news_id: 188365
+redirect_from: /news/188365
 ---
 
 El presidente Andrés Manuel López Obrador encabezará una reunión con los secretarios de Estado y de Seguridad Nacional, así como con el fiscal general, de Estados Unidos el viernes, informó Marcelo Ebrard, secretario de Relaciones Exteriores.   

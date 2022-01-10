@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En total, 206 expertos de 43 países, desde Albania hasta Uruguay votaron por 460 series diferentes. "
 image: "/uploads/2021/images-las-mejores-series-del-siglo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Está tu favorita? La BBC lanza lista de las 100 mejores series del Siglo XXI"
 front: false
 section: "Espectáculos"
-news_id: 189569
+redirect_from: /news/189569
 ---
 
 Las series se han vuelto una parte fundamental en nuestro día a día, y es que ya sea policiaca, de humor, amor o de lugares fantásticos, siempre hay una buena historia que ver. 

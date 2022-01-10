@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Informó sobre los avances que se tienen en el municipio en los primeros 100 días de gobierno"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Expone director de la DSPM acciones en seguridad pública ante gerentes de INDEX"
 front: false
 section: "Local"
-news_id: 190643
+redirect_from: /news/190643
 ---
 
 El director de Seguridad Pública Municipal, Julio César Salas González, fue invitado por la Asociación de Maquiladoras y Exportadoras de Chihuahua (INDEX), para dar a conocer las acciones y avances en materia de seguridad, logrados en el municipio en la actual administración.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente indicó que a través de estas empresas los traficantes de personas contratan autobuses para llevar a los migrantes. "
 image: "/uploads/2021/images-lopez-obrador-pidio-ayuda-transportistas_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO dice que pidió a transportistas no trasladar a migrantes"
 front: false
 section: "Nacional"
-news_id: 187980
+redirect_from: /news/187980
 ---
 
 El presidente Andrés Manuel López Obrador informó que se reunió con empresarios transportistas para pedirles que no den servicio a los migrantes centroamericanos y haitianos que están en territorio nacional buscando llegar a la frontera con Estados Unidos. 

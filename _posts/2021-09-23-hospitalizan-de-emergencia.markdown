@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "¿Luis de Alba, 'El Pirruirs' está grave de salud? Esto sabemos sobre la hospitalización del comediante tras sufrir una caída en Monterrey. "
 image: "/uploads/2021/images-hospitalizan-emergencia-luis-alba-razon.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hospitalizan de emergencia a Luis de Alba, 'El Pirruris'; esto sabemos"
 front: false
 section: "Espectáculos"
-news_id: 188007
+redirect_from: /news/188007
 ---
 
 Luis de Alba, famoso actor y comediante, mejor conocido como el ‘Pirrurris’, fue hospitalizado de emergencia tras una caída que se suscitó mientras trabajaba en Monterrey. 

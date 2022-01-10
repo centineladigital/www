@@ -10,11 +10,11 @@ author: nil
 description: "Una unidad blindada entre las decomisadas."
 image: "/uploads/2021/images-emilio.jpg"
 video: "/uploads/2021/videos-MW06_EMILIO_GARCÍA.mp4"
-audio: "nil"
+audio: nil
 alt: "Aseguran 8 vehículos de la Línea"
 front: false
 section: "Local"
-news_id: 187108
+redirect_from: /news/187108
 ---
 
 Como resultado de las acciones para detener a los homicidas de Paulino Rodríguez Palacios, coordinador de los Programas del Bienestar en Buenaventura, se logró asegurar ocho unidades vehiculares pertenecientes presuntamente al grupo delincuencial conocido como la Línea.  

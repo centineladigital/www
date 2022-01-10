@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un exempleado de Mercedes en España destruye por despecho hacia la empresa casi 70 camionetas nuevas con una excavadora"
 image: "/uploads/2021/images-2506550.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Furioso, exempleado destroza 69 autos en fábrica de Mercedes"
 front: false
 section: "Internacional"
-news_id: 181874
+redirect_from: /news/181874
 ---
 
 Un exempleado de la fábrica de Mercedes en Vitoria, en el norte de España, destruyó por despecho hacia la empresa casi 70 camionetas nuevas con una excavadora, indicaron este martes fuentes policiales.

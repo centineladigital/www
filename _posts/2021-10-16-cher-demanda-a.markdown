@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La demanda dice que los herederos de Sonny Bono presentaron un aviso en 2016 de que iban a rescindir algunos de sus acuerdos de licencia de canciones. "
 image: "/uploads/2021/images-cher-demanda-a-los-herederos_0_107_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cher demanda a la viuda de su ex esposo Sonny Bonno por las regalías de sus canciones; le pagarían un millón de dólares"
 front: false
 section: "Espectáculos"
-news_id: 188806
+redirect_from: /news/188806
 ---
 
 Cher demandó a la viuda de su excompañero musical y exmarido Sonny Bono por las regalías de canciones de Sonny y Cher como “I Got You Babe” y “The Beat Goes On”. En una demanda federal presentada en Los Ángeles el miércoles, Cher alega que la exdiputada Mary Bono y otros acusados ​​han intentado rescindir las disposiciones de los acuerdos comerciales a los que Cher y Sonny Bono llegaron cuando se divorciaron en 1975, que les daba a cada uno el 50 por ciento de las regalías por la composición y grabación de sus canciones. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Arsenal adelantó que Gerardo Martino llamó a la joven promesa para el siguiente partido de la Selección Mayor ante Chile"
 image: "/uploads/2021/images-imago-1143037.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La Selección Mexicana convoca a Marcelo Flores para partido contra Chile"
 front: false
 section: "Deportes"
-news_id: 190332
+redirect_from: /news/190332
 ---
 
 Marcelo Flores estará en el juego amistoso entre México y Chile del próximo 8 de enero. El club inglés se le adelantó a la FMF en el anuncio y dio a conocer que su joya ha sido llamado por primera vez a la Mayor.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este fin de semana se vacunará a 20 mil maestros de Campeche contra Covid-19; López Obrador dejó entrever que la entidad pasará de semáforo verde al amarillo ante el alza en contagios"
 image: "/uploads/2021/images-2515945.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Campeche volvería a semáforo amarillo; vacunación a maestros sigue en pie"
 front: false
 section: "Nacional"
-news_id: 182323
+redirect_from: /news/182323
 ---
 
 A pesar de que este fin de semana se vacunará a 20 mil trabajadores del sector educativo en Campeche contra Covid-19, el presidente Andrés Manuel López Obrador dejó entrever que la entidad pasará de semáforo verde al amarillo porque han incrementado los contagios del virus.

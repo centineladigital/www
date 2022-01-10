@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Quienes requieran apoyo pueden acudir a las unidades de atención, ubicadas en ambas comandancias"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Reitera Gobierno Municipal servicios de atención en Unidades de Atención a la Violencia Familiar   "
 front: false
 section: "Local"
-news_id: 188137
+redirect_from: /news/188137
 ---
 
 Con el objetivo de continuar brindando atención a víctimas de violencia al interior del hogar y siguiendo todos los protocolos de sanitización necesarios, el Gobierno Municipal pone a disposición de los chihuahuenses las Unidades de Atención a la Violencia Familiar (UAVI), de la Dirección de Seguridad Pública, mismas que se ubican en las Comandancias Norte y Sur.

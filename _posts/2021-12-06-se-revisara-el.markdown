@@ -16,11 +16,11 @@ author: nil
 description: "Se tendrán que analizar los que se pueda hacer para llegar a una solución satisfactoria "
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-06_at_12.37.49_PM.jpeg"
 video: "/uploads/2021/videos-BL02_MARIO_VAZQUEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Se revisara el cobro del DAP con la JUCOPO "
 front: false
 section: "Local"
-news_id: 190558
+redirect_from: /news/190558
 ---
 
 El diputado Mario Vázquez manifestó que la junta de coordinación política del congreso del estado de chihuahua analizara una solución a la problemática que tanto afecta al estado conforme la cuota por derecho de alumbrado público, debido a que la corte maro la inconstitucionalidad al cobrar el servicio en costos variados.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El DIF Municipal cuenta con módulos que aplican 50 tomas diarias"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sigue aplicación gratuita de pruebas de antígenos en centros comunitarios y CEDEFAM"
 front: false
 section: "Local"
-news_id: 190536
+redirect_from: /news/190536
 ---
 
 El Gobierno Municipal, a través del DIF, informa que sigue con la aplicación gratuita de pruebas de antígenos con vigencia el día 16 de diciembre o hasta agotar existencias, con el fin de velar por la salud de los chihuahuenses, previniendo el contagio por COVID-19.

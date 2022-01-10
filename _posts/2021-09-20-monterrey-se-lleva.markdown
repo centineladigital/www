@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los Rayados derrotaron 2-0 a los de la UANL en el Gigante de Acero, llevándose los tres puntos del Clásico Regio. "
 image: "/uploads/2021/images-matias-kranevitter-celebra-anotar-clasico_1_52_1198_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Monterrey se lleva el Clásico Regio tras vencer a Tigres"
 front: false
 section: "Deportes"
-news_id: 187865
+redirect_from: /news/187865
 ---
 
 Los Rayados de Monterrey del entrenador Javier Aguirre vencieron este domingo por 2-0 a los Tigres UANL en el Clásico Regio de la Liga MX, uno de los partidos más esperados del torneo Apertura. 

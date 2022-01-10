@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Paula Arenas contó a MILENIO cómo fue el proceso creativo de su disco ‘Mis amores’, el cual la ha colocado como la mujer más nominada en los Latin Grammy-2021|Entrevista. "
 image: "/uploads/2021/images-conoce-paula-arenas-mujer-nominada.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fiel a sí misma e independiente -  Ella es Paula Arenas, la mujer más nominada en los Latin Grammy 2021"
 front: false
 section: "Espectáculos"
-news_id: 189945
+redirect_from: /news/189945
 ---
 
 La cantante colombiana Paula Arenas tiene cuatro nominaciones a los próximos Latin Grammy 2021. La intérprete y compositora independiente está una vez más está en la mira del reconocimiento, ahora gracias a su disco ‘Mis amores’, álbum que nació durante esta pandemia por covid-19, justo también durante su proceso de embarazo. Sin embargo, su logro no ha sido fortuito. Ha roto estereotipos en la música y sobre todo se ha sido fiel a sí misma, acciones que la convierten en la mujer más nominada de los Latin Grammy 2021. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las atenciones de dieron en lo que va del mes de octubre   "
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Apoya DIF Municipal a más de 175 personas con tratamientos e insumos médicos"
 front: false
 section: "Local"
-news_id: 188971
+redirect_from: /news/188971
 ---
 
 El Gobierno Municipal, a través de DIF, atendió en lo que va del mes de octubre a más de 175 personas que solicitaron apoyo con tratamientos para enfermedades crónico degenerativas y aparatos ortopédicos.

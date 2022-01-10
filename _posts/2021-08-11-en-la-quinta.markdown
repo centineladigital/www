@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "También se avanzó en Cirugía General, Infectología, Medicina Interna, procedimientos quirúrgicos de Angiología, Cirugía Pediátrica, Ginecología, Neurocirugía"
 image: "/uploads/2021/images-Foto_352-2.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En la Quinta Jornada Nacional de recuperación de servicios, el IMSS fortalece salud preventiva, consultas de medicina familiar, de especialidad y cirugías "
 front: false
 section: "Local"
-news_id: 186558
+redirect_from: /news/186558
 ---
 
 En entidades federativas que se encontraban en semáforo epidemiológico verde o amarillo, el Instituto Mexicano del Seguro Social (IMSS) realizó del 6 al 8 de agosto la Quinta Jornada Nacional de recuperación de servicios ordinarios, periodo en el que se atendieron consultas de medicina preventiva, de especialidad y cirugías en segundo y tercer nivel en 18 Oficinas de Representación y 12 Unidades Médicas de Alta Especialidad (UMAE).

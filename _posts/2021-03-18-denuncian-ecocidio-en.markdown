@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El llamado “kilómetro de la impunidad”, es un camino en la parte q virgen de Holbox, donde particulares quieren rellenar ilegalmente humedales para establecer desarrollos turísticos"
 image: "/uploads/2021/images-2547377.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Denuncian Ecocidio en Holbox; Profepa no hace nada, lamentan"
 front: false
 section: "Nacional"
-news_id: 183466
+redirect_from: /news/183466
 ---
 
 El Grupo Ecologista del Mayab (Gema), acusó la falta de respuesta de Profepa a una denuncia presentada hace dos semanas por la tala ilegal de manglar en la Isla Grande de Holbox, para construir un camino violando la legislación ambiental, tratados internacionales y el plan de manejo del Área de Protección de Flora y Fauna Yum Balam.

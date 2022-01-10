@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El equipo de Los Ángeles derrotaron a los Saint Louis Cardinals en el partido de la Wildacard; ahora irán contra los Giants "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jonrón de Chris Taylor califica a los Dodgers a la Serie Divisional"
 front: false
 section: "Deportes"
-news_id: 188463
+redirect_from: /news/188463
 ---
 
 Los Angeles Dodgers se llevaron el juego de comodines al límite y dejaron tendidos en el terreno a los Saint Louis Cardinals 3-1, gracias a un jonrón salvador de Chris Taylor en la novena entrada. 

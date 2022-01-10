@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En un ambiente de apertura y participación igualitaria, realizaron audiencia pública"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abren diálogo Municipio y ciudadanos respecto a los Cerros Mogote y Cañón del Marro"
 front: false
 section: "Local"
-news_id: 189416
+redirect_from: /news/189416
 ---
 
 En las instalaciones de la Dirección de Desarrollo Urbano y Ecología se llevó a cabo una audiencia pública, de acuerdo con los instrumentos de participación ciudadana que dicta la ley, en la que expusieron sus argumentos los integrantes del colectivo “Salvemos los Cerros de Chihuahua" y la ciudadanía, así como diversas autoridades del Gobierno Municipal en torno al tema de los estudios de autorización de obras y protección de las áreas naturales de los Cerros del Mogote y Cañón del Marro.

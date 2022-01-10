@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En alianza con 27 entidades del país y Puerto Rico como país invitado, del 5 al 29 de noviembre se desarrollarán talleres, conferencias y actividades virtuales para que 120 niñas, niños y adolescentes intercambien sus conocimientos y costumbres"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa Chihuahua en  Tercer Encuentro Nacional de Saberes Locales"
 front: false
 section: "Local"
-news_id: 189557
+redirect_from: /news/189557
 ---
 
 La Secretaría de Cultura, a través del Programa de Desarrollo Cultural Infantil Alas y Raíces, invita al Tercer Encuentro Nacional de Saberes Locales, que se realizará los días 5, 6, 12, 13, 19 y 20 de noviembre por medio de talleres, conferencias y actividades virtuales.

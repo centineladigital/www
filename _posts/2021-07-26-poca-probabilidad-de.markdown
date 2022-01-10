@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Para el jueves un 40 por ciento de probabilidad de precipitaciones"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Poca probabilidad de lluvias para esta semana en la ciudad"
 front: false
 section: "Local"
-news_id: 185993
+redirect_from: /news/185993
 ---
 
 La Coordinación Municipal de Protección Civil, dio a conocer que la probabilidad de que se presenten lluvias esta semana en la capital es escasa, sin embargo, pudieran presentarse de forma aislada; con cielos mayormente soleados con nubosidades intermitentes.

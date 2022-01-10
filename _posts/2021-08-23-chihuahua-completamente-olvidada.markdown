@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que son continuos asaltos y agresiones a transporte público."
 image: "/uploads/2021/images-JUAN.jpg"
 video: "/uploads/2021/videos-ML06_JUAN_GOMEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Chihuahua completamente olvidada -  transportistas"
 front: false
 section: "Local"
-news_id: 187011
+redirect_from: /news/187011
 ---
 
 El líder de los transportistas, Juan Gómez, señaló que lamentablemente el sistema de transporte se encuentra olvidado, esto dentro de la manifestación o festejo que se llevó a cabo por parte de más de 500 choferes y concesionarios de camiones y taxis por la salida de Javier Corral.

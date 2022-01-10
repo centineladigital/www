@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "¿Qué pasaría y quién respondería si llamas al número que aparece en la tarjeta para jugar de la serie 'El juego del calamar' ? "
 image: "/uploads/2021/images-pasa-llamas-numero-aparece-tarjeta.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Qué pasa si llamas al número de la tarjeta que aparece en 'El juego del calamar'? Esto debe saber"
 front: false
 section: "Espectáculos"
-news_id: 188088
+redirect_from: /news/188088
 ---
 
 El juego del calamar, famosa serie de Netflix, sigue dando de qué hablar. La  producción surcoreana sigue atrapando a cientos de televidentes alrededor del mundo. Ha causado tanto furor que algunos han buscado ir más allá. Han analizado la trama, las imágenes e incluso han averiguado sobre su existencia. Ejemplo de ello, es buscar qué pasaría si llamaran al número telefónico que aparece en la producción –en una de las tarjetas que entregan para jugar–. ¿Qué pasaría? ¿Quién respondería? Aunque pensaban que sería parte de la producción, en realidad es que el número existe y pertenece a una persona de la vida real que ha denunciado un extremo acoso por culpa de la serie de Netflix.

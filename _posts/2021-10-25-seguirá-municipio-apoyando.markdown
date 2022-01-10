@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se destinó un millón 250 mil pesos para beneficiar a las y los niños que así lo requieran"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Seguirá Municipio apoyando a padres de familia con becas en guarderías"
 front: false
 section: "Local"
-news_id: 189159
+redirect_from: /news/189159
 ---
 
 En beneficio de madres, padres de familia o tutores, el presidente municipal Marco Bonilla Mendoza, anunció la apertura de la convocatoria de becas para niñas y niños usuarios de las guarderías del DIF Municipal.

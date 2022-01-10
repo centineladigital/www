@@ -10,11 +10,11 @@ author: nil
 description: "Afirma María Angelica Granados Trespalacios que no es la autoridad para dar a conocer información al respecto."
 image: "/uploads/2021/images-MANQUE.jpg"
 video: "/uploads/2021/videos-ML03_MANQUE.mp4"
-audio: "nil"
+audio: nil
 alt: "Desconoce SIDE si mina pertenece a grupo Aras"
 front: false
 section: "Local"
-news_id: 190089
+redirect_from: /news/190089
 ---
 
 Existe un desconocimiento por parte de la Secretaría de Innovación y Desarrollo económico si existe alguna mina perteneciente a la empresa Aras, la cual cuenta con una serie de denuncias por fraude en contra de personas que invirtieron en la misma.

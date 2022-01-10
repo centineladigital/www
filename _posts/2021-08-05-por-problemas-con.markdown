@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dwayne Johnson seguirá apareciendo en su spin-off 'Hobbs and Shaw'."
 image: "/uploads/2021/images-dwayne-the-rock-johnson-rapidos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Por problemas con Vin Diesel? Productor de 'Rápidos y furiosos' confirma que 'La Roca' no volverá a la saga"
 front: false
 section: "Espectáculos"
-news_id: 186367
+redirect_from: /news/186367
 ---
 
 Tras el estreno de la novena entrega de Fast and Furious, Vin Diesel anunció que la saga terminaría tras dos películas más, siendo la undécima película la última en la que se verá a toda la familia reunida. Sin embargo, habrá una importante ausencia, ya que Dwayne Johnson ha confirmado que no volverá a interpretar a Hobbs en las dos cintas que quedan de la franquicia. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La ganadora del certamen de belleza Miss Universo 2021 fue cuestionada sobre su vida personal. ¿Actualmente está enamorada? ¿Tiene novio? La joven originaria de Chihuahua explicó si sale con el tiktoker estadunidense Ryan Antonio. "
 image: "/uploads/2021/images-andrea-meza-novio-tiktoker-eu.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Es su novio? Andrea Meza, Miss Universo 2021, aclara si tiene romance con famoso Tiktoker de EU"
 front: false
 section: "Espectáculos"
-news_id: 184583
+redirect_from: /news/184583
 ---
 
 Andrea Meza, ganadora del certamen de belleza Miss Universo 2021, sigue dando de qué hablar, pues sobre ella se han destapado aspectos de su vida personal y profesional. Incluso, se ha especulado sobre su vida amorosa, tanto que hasta se puso sobre la mesa la posibilidad de que perdiera su corona por presuntamente estar casada. Sin embargo, poco tiempo pasó y se desmintió dicha posibilidad. Andrea Meza no está casada y no perderá su título como ganadora del certamen, pero ¿actualmente tiene una relación amorosa? 

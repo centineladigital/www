@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se estiman 23 mil 534 decesos de hombres entre 65 y 69 años de edad. Las mujeres en el mismo rango reportan 15 mil 489 muertes por coronavirus. "
 image: "/uploads/2021/images-mapa-defunciones-covid-mexico-miercoles-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mapa de covid-19 en México -  más del 60 por ciento de defunciones son en hombres"
 front: false
 section: "Nacional"
-news_id: 189067
+redirect_from: /news/189067
 ---
 
 La Secretaría de Salud reportó 4 mil 798 nuevos casos de coronavirus en las últimas 24 horas. Por lo que, en México hay un total de 3 millones 722 mil 556 contagios. En Ciudad de México aumentaron 863 casos; el Estado de México reportó 344 nuevo enfermos; en Nuevo León se sumaron 212; Guanajuato 606 y 210 en Jalisco. 

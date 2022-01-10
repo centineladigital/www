@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El piloto de Aston Martin mencionó que la Fórmula 1 puede ser más ecológica sin perder el espectáculo o la pasión "
 image: "/uploads/2021/images-sebastian-vettel-reuters_0_39_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Si la Fórmula 1 no cambia podría desaparecer -  Sebastian Vettel"
 front: false
 section: "Deportes"
-news_id: 188632
+redirect_from: /news/188632
 ---
 
 El piloto alemán Sebastian Vettel(Aston Martin) ha apuntado que la Fórmula 1 tiene la oportunidad de ser "más ecológica sin perder el espectáculo o la pasión" y ha avisado de que, si no toma medidas en este sentido, "podría desaparecer". 

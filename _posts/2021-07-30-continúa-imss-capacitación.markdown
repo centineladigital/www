@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se reforzará la comunicación institucional para brindar servicios especializados de manera eficaz"
 image: "/uploads/2021/images-Foto_331-4.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continúa IMSS capacitación de personal de salud en plataforma digital para atención de niños con cáncer"
 front: false
 section: "Local"
-news_id: 186138
+redirect_from: /news/186138
 ---
 
 Autoridades del Instituto Mexicano del Seguro Social (IMSS) informaron a las madres y los padres de pacientes pediátricos oncológicos que continúa la capacitación del personal médico y de enfermería para el manejo de la plataforma digital, a fin de contar con un registro puntual de los menores y brindarles atención  de calidad.

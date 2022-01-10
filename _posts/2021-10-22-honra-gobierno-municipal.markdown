@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Habrá mayor acercamiento con familias de policías y bomberos caídos   "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Honra Gobierno Municipal memoria de elementos caídos con protección a sus familias"
 front: false
 section: "Local"
-news_id: 189075
+redirect_from: /news/189075
 ---
 
 Como parte de los compromisos de un gobierno cercano y de dignificación a las familias, el alcalde de Chihuahua Marco Bonilla Mendoza sostuvo un encuentro con familiares de policías y bomberos, quienes, en el cumplimiento de su deber, dieron la vida por la comunidad chihuahuense.

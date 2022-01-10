@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se recomienda tener hábitos alimenticios saludables, hacer ejercicio y evitar el consumo de alcohol y tabaco  "
 image: "/uploads/2021/images-Foto_4985-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta IMSS Chihuahua a mujeres a adoptar estilo de vida saludable para prevenir cáncer "
 front: false
 section: "Local"
-news_id: 188638
+redirect_from: /news/188638
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua exhorta a las mujeres a adoptar estilos de vida saludables y prevenir  problemas en la salud, que a largo plazo desencadenen el desarrollo de cáncer.

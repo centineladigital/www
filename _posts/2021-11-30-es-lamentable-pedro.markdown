@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante también tuvo problemas legales con la misma disquera de Christian Nodal por presunto incumplimiento de contrato. "
 image: "/uploads/2021/images-pedro-fernandez-caso-christian-nodal.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es lamentable -  Pedro Fernández recuerda veto musical tras caso de Christian Nodal"
 front: false
 section: "Espectáculos"
-news_id: 190340
+redirect_from: /news/190340
 ---
 
 Luego de que Christian Nodal confirmó sus problemas legales con su ex disquera y negó haber sufrido un veto en México, el cantante se vio obligado a pedir un alto a las acusaciones utilizando el hashtag #NodalLibre, mismo que apoyó Belinda, su prometida. En medio de la controversia, Pedro Fernández habló del caso, pues él también vivió un pleito similar en la industria tras ser vetado por la misma compañía que el intérprete de "Adiós amor".  Además de Lupita D'Alessio y Nodal, Pedro Fernández también se enfrentó a la prohibición de su música durante tres años, de 2003 a 2006, luego de demandar a la que fue su disquera por supuesto incumplimiento de contrato, un episodio del que habló en una entrevista para el programa Ventaneando. 

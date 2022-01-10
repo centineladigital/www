@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Lo principal es prevenir accidentes, evitar el contacto con fuegos artificiales, bengalas, cohetes; no sobrecargar los tomacorrientes eléctricos; y no dejar desatendida la cocina al preparar alimentos."
 image: "/uploads/2021/images-Foto_5971-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte IMSS Chihuahua acerca de fuegos artificiales y sus riesgos de usarlos en fiestas decembrinas"
 front: false
 section: "Local"
-news_id: 190470
+redirect_from: /news/190470
 ---
 
 Con el fin de prevenir accidentes durante las próximas vacaciones decembrinas y como parte de la permanencia en casa para disminuir los riesgos de contagio del COVID-19, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua exhorta a la población a identificar y saber qué hacer en caso de quemaduras.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente López Obrador aseguró que sí su hermano Pío es culpable de presuntos delitos electorales, que se le castigue; “yo no establezco relaciones de complicidad con nadie”, asegura"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Si mi hermano es responsable que sea castigado”, dice AMLO sobre caso Pío"
 front: false
 section: "Nacional"
-news_id: 188456
+redirect_from: /news/188456
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que sí su hermano Pío López Obrador es culpable, de presuntos delitos electorales por los que es investigado por el INE, que se le castigue, porque él no establece relaciones de complicidad con nadie, menos con los integrantes de su familia.

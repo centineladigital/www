@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Trata temas de salud y salud mental."
 image: "/uploads/2021/images-MARCO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_MARCO_QUEZADA.mp3"
 alt: "Presenta MQ proyecto de “Plan incluyente en salud municipal”"
 front: false
 section: "Local"
-news_id: 184680
+redirect_from: /news/184680
 ---
 
 El candidato a la Alcaldía de Chihuahua, Marco Adán Quezada Martínez, presentó un “Plan incluyente en salud municipal” ante médicos, enfermeras y enfermeros, especialistas de hospitales y consultorios privados, señalando que buscará tener un camino para transitar en este grupo.

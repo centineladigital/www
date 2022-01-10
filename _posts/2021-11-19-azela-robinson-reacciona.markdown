@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Azela Robinson se mostró molesta por tergiversar las declaraciones que dio al programa Hoy sobre la salud de Carmen Salinas: comprendo que cualquier pasquín virtual se dedique a deformar notas, ¿pero ustedes? ¿Mi casa?."
 image: "/uploads/2021/images-azela-robinson-arremete-televisa-nota.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Azela Robinson reacciona molesta por nota del 'programa Hoy' sobre la salud de Carmen Salinas; en 'VLA' la defienden"
 front: false
 section: "Espectáculos"
-news_id: 190033
+redirect_from: /news/190033
 ---
 
 Azela Robinson, famosa actriz mexicana, esta semana se vio envuelta en polémica tras opinar sobre la salud de Carmen Salinas para el programa Hoy de Televisa. La famosa reveló que desde su punto de vista deberían dejar descansar a la ex productora de Aventurera, pues su caso era grave. Ante la revelación, algunas críticas en su contra se desataron, pues tacharon de ‘insensible’ su comentario. Sin embargo, la familia de Carmen Salinas no tomó a mal su opinión, pues resaltaron la hizo desde el amor. No obstante, Azela Robinson marcó su postura y arremetió contra ‘Las Estrellas’ de Televisa y contra quienes tergiversaron su opinión. Incluso, Horacio Villalobos la defendió en Venga la Alegría. ¿Qué dijo la famosa actriz? Molesta, Azela Robinson arremetió en contra de ‘Las Estrellas’ de Televisa y contra quienes tergiversaron su opinión sobre Carmen Salinas, luego de que siera una entrevista para el programa Hoy. 

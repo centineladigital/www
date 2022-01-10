@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mediante estas acciones se busca otorgar refugio a ciudadanos afganos, especialmente a mujeres y niñas que lo hayan solicitado"
 image: "/uploads/2021/images-talibanes-ascienden-mujeres-sumamente-reprimidas_0_23_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México recibe solicitudes de refugio de mujeres y niñas afganas -  SRE"
 front: false
 section: "Nacional"
-news_id: 186819
+redirect_from: /news/186819
 ---
 
 México inició el procesamiento de solicitudes de refugio para ciudadanos de Afganistán, especialmente de mujeres y niñas que lo hayan pedido, informó Marcelo Ebrard, titular de la Secretaría de Relaciones Exteriores (SRE), ante la llegada de los talibanes al poder. 

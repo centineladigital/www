@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente López Obrador reconoció la cooperación y solidaridad del gobierno de Estados Unidos con México en materia de vacunación contra el Covid-19"
 image: "/uploads/2021/images-2575006.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México y EU promoverán cooperación y comercio"
 front: false
 section: "Nacional"
-news_id: 184355
+redirect_from: /news/184355
 ---
 
 Crear opciones para la creación de empleos para migrantes, promover la vacuna con masiva y reactivar el intercambio comercial entre los dos países, fueron los temas que se tocaron durante la reunión virtual entre el presidente de México, Andrés Manuel López Obrador, y la vicepresidenta de Estados Unidos, Kamala Harris.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El festival reactiva la economía del primer cuadro de la ciudad"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Disfrutan chihuahuenses segundo día de actividades del FICUU 2021"
 front: false
 section: "Local"
-news_id: 188825
+redirect_from: /news/188825
 ---
 
 Con gran entusiasmo fueron recibidos los artistas locales por los chihuahuenses que se dieron cita en el centro histórico, durante el segundo día de actividades del Festival Internacional de la Ciudad de Chihuahua (FICUU) 2021.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "hace unos días, Stanley usó sus redes sociales para acusar a 'El Negro' de rayar su auto; el conductor de Hoy respondió y pidió que no le levante falsos. "
 image: "/uploads/2021/images-paul-stanley-acusa-raul-araiza_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se vende -  Paul Stanley se 'vengó' de Raúl Araiza por rayar su coche y filtra su número de celular"
 front: false
 section: "Espectáculos"
-news_id: 187847
+redirect_from: /news/187847
 ---
 
 Luego de que Raúl Araiza le jugara una broma pesada a Paul Stanley rayando la palabra "p*to" en una puerta de su coche hace unos días, se desató una acalorada pelea entre los conductores de Hoy, y Stanley ya consiguió vengarse. A través de sus historias de Instagram, Paul compartió el momento en que colocó un anuncio de "Se vende" en el auto de El Negro, y filtrando además su número de teléfono junto a su nombre. 

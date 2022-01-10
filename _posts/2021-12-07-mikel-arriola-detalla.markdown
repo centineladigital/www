@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente de la liga mexicana confirmó que terminarán la temporada a tiempo para que los jugadores se vayan al Mundial"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mikel Arriola detalla calendario de la Liga MX previo a Qatar 2022"
 front: false
 section: "Deportes"
-news_id: 190571
+redirect_from: /news/190571
 ---
 
 El calendario para el Apertura 2022, de cara al Mundial de Qatar, se jugará con todo y repechaje, así lo dio a conocer este lunes Mikel Arriola, presidente de la Liga MX en la asamblea de clubes. 

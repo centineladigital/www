@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La regulación para las personas que realizan home office o teletrabajo se publicó en el Diario Oficial de Federación (DOF) y entró en vigor este martes 12 de enero"
 image: "/uploads/2021/images-2510374.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "6 derechos que aplican para quienes trabajan home office"
 front: false
 section: "Nacional"
-news_id: 182064
+redirect_from: /news/182064
 ---
 
 La pandemia cambió todos los modelos de vida. 

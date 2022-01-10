@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante recurrió a sus redes sociales para mandar un contundente mensaje a todos aquellos que quieren ponga punto final a su noviazgo con Belinda. "
 image: "/uploads/2021/images-christian-nodal-instagram-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Oren por su bien -  Christian Nodal responde a internautas que le piden terminar con Belinda"
 front: false
 section: "Espectáculos"
-news_id: 184492
+redirect_from: /news/184492
 ---
 
 Christian Nodal respondió con un mensaje contundente a todos aquellos internautas que le piden terminar su relación amorosa con Belinda, esto después de que se desataran los rumores sobre su ruptura, situación que desmintió el cantante a su regreso a España, donde compartió un video en el que aparecía acostado en una cama a lado de la intérprete de "Amor a primera vista". Fue a través de sus redes sociales que el cantante mexicano dedicó un tuit a los fans que le piden poner punto final a su noviazgo con la coach de La Voz Senior, con quien tiene más de ocho meses de relación. Pero, ¿por qué sus seguidores le piden romper con Belinda?  

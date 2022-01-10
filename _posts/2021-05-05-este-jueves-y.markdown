@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En un mensaje informativo transmitido a través de las redes sociodigitales del Gobierno del Estado, la Secretaría de Salud dio a conocer que el jueves se aplicará la vacuna de Pfizer y el viernes la de Sinovac"
 image: "/uploads/2021/images-Diapositiva4.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Este jueves y viernes únicamente se aplicará en Chihuahua segunda dosis de vacuna a mayores de 65 años"
 front: false
 section: "Local"
-news_id: 184287
+redirect_from: /news/184287
 ---
 
 La Secretaría de Salud en coordinación con instituciones de los distintos órdenes de gobierno, informa que este jueves y viernes en la ciudad de Chihuahua, se realizará la aplicación de la segunda dosis de las vacunas Pfizer y Sinovac, únicamente para personas adultas mayores de 65 años de edad.

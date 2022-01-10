@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Encabeza Maru Campos 1ª Reunión Ordinaria del Consejo Estatal de Población"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Trabajará Gobierno con sectores y de agencias internacionales en materia de migración"
 front: false
 section: "Local"
-news_id: 189185
+redirect_from: /news/189185
 ---
 
 La forma de gobernanza de la actual administración es trabajar de la mano con la sociedad civil organizada, con la academia y por supuesto con el sector productivo, porque se tiene claro que se deben multiplicar esfuerzos, puesto que estos sectores tienen herramientas para llegar a donde el gobierno no puede llegar, afirmó la gobernadora Maru Campos Galván al encabezar la 1ª Reunión Ordinaria del Consejo Estatal de Población.

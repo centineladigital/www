@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Colocando una cruz en la obra y con una comida más bien el día sábado a partir de mediodía es como regularmente festejan, el cual ante la pandemia el año anterior no se pudo homenajear"
 image: "/uploads/2021/images-Albeñiles.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Festejan albañiles Día de la Santa Cruz"
 front: false
 section: "Local"
-news_id: 184249
+redirect_from: /news/184249
 ---
 
 Colocando una cruz en la obra y con una comida más bien el día sábado a partir de mediodía es como regularmente festeja Rubén Calderón Portillo el día de la Santa Cruz, también conocido como el Día del Albañil en México, el cual ante la pandemia el año anterior no se pudo homenajear.

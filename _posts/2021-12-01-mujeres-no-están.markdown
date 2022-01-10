@@ -16,11 +16,11 @@ author: nil
 description: "Criticó el abandono que ha tenido la dependencia hacia las mujeres a quienes no se les garantiza su seguridad “ni en su propia casa”"
 image: "/uploads/2021/images-Monitor-Tlaxcala-19-nxlirq6gebfrdxduxf8gwraylxledkh2ri7vugywdu.png"
 video: "/uploads/2021/videos-BW05_ROCIO_REZA_.mp4"
-audio: "nil"
+audio: nil
 alt: "“Mujeres no están seguras ni en su propia casa” Reza "
 front: false
 section: "Local"
-news_id: 190405
+redirect_from: /news/190405
 ---
 
 La Diputada Federal Rocío Reza Gallegos increpó a reprendió severamente Ícela Rodríguez por los nulos resultados que ha presentado en materia de Seguridad Nacional y señaló un grave avance de la delincuencia e impunidad que se han asentado en el país ante la incapacidad de un gobierno federal que ha sido indiferente ante el dolor y temor que se ve y se siente en lo largo y ancho del territorio mexicano.

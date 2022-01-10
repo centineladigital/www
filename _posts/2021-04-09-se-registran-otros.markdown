@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El total de fallecimientos es de 5 mil 770 con 18 nuevos confirmados en el estado: 3 en Juárez, 6 en la capital, 2 en Cuauhtémoc, 1 en Namiquipa, 1 en Camargo, 2 en Nuevo Casas Grandes, 1 en Guerrero, 1 en Ojinaga y 1 en Rosales"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran otros 313 contagios de COVID-19; por llegar estado a los 60 mil casos"
 front: false
 section: "Local"
-news_id: 183781
+redirect_from: /news/183781
 ---
 
 La Secretaría de Salud estatal informó que al día 9 de abril se tienen en el estado de Chihuahua un total general de 59,915 casos de COVID-19, luego de que se confirmaron 313 más en el último reporte epidemiológico.

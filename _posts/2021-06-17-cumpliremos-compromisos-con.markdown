@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma Francisco Navarro que a próxima administración municipal será de trabajo y resultados."
 image: "/uploads/2021/images-FRANCISCO_NAVARRO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ02_FANCISCO_NAVARRO.mp3"
 alt: "Cumpliremos compromisos con el municipio -  PAN"
 front: false
 section: "Local"
-news_id: 185092
+redirect_from: /news/185092
 ---
 
 Tras la entrega de la constancia de mayoría que acredita a Marco Bonilla como alcalde electo de Chihuahua, el presidente del Comité Directivo Municipal del PAN en la capital del estado, Francisco Navarro Pastrana. Quien dijo que espera un buen desempeño de las próximas alcaldías y de la gubernatura.

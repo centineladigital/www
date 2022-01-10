@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El famoso Jorge El Burro Van Rankin es uno de los conductores más queridos del programa Hoy. Sin embargo, durante el nuevo formato de la revista matutina había quedado fuera. En la emisión de hoy reapareció. ¿Está de vuelta? "
 image: "/uploads/2021/images-el-burro-van-rankin-se.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así sea de chalán -  Jorge 'El Burro' Van Rankin reaparece en programa 'Hoy' de Televisa"
 front: false
 section: "Espectáculos"
-news_id: 182624
+redirect_from: /news/182624
 ---
 
 Jorge El Burro Van Rankin regresó al programa Hoy de Televisa, luego de que hubiera dimes y diretes sobre su permanencia en la revista matutina. El conductor reapareció tras varias emisiones lejos de los reflectores. Frente a las cámaras bromeó sobre su permanencia y dio aviso de su regreso, aunque no será como antes. ¿Ahora cómo se desenvolverá en Hoy? ¿Estará diario? ¿Tuvo problemas con Galilea Montijo? Te contamos lo que expresó el conductor. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Entre las medidas que promete el gobierno de Estados Unidos están la prohibición de sometimiento a medidas especiales y el envío a una cárcel de alta seguridad. "
 image: "/uploads/2021/images-julian-assange-fundador-de-wikileaks-1_0_22_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia en Reino Unido audiencia de Julian Assange; EU busca extraditarlo a su territorio"
 front: false
 section: "Internacional"
-news_id: 189242
+redirect_from: /news/189242
 ---
 
 Estados Unidos intentó hoy dar garantías a la justicia británica sobre el tratamiento que recibiría Julian Assange en el caso de que el fundador de WikiLeak fuera entregado a las autoridades de su país, en la primera audiencia de la apelación contra la negativa del Reino Unido de extraditarlo. 

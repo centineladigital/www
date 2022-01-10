@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Los voluntarios repartieron pastel, regalos y dulces a los niños y niñas albergados en los Centros de Asistencia Social (CAS): CAREAC, CENITRAD, Pies Hermosos, Brindemos Alegría, y Getsemaní."
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconoce DIF Estatal labor de voluntarios de la asociación “Manos que ayudan”"
 front: false
 section: "Local"
-news_id: 190580
+redirect_from: /news/190580
 ---
 
 En el marco del Día Internacional de los Voluntarios, alrededor de 200 personas de la asociación “Manos que ayudan” se unieron para generar labor comunitaria como pintura y limpieza de cinco Centros de Asistencia Social, ubicados en la ciudad de Chihuahua.

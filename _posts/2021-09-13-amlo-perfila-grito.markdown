@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente aseguró que se trata del evento cívico en México más importante del año, por lo que todavía se están ajustando los detalles de la celebración. "
 image: "/uploads/2021/images-septiembre-aproximandose-salen-luz-detalles.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO perfila Grito de Independencia sólo con invitados especiales"
 front: false
 section: "Nacional"
-news_id: 187666
+redirect_from: /news/187666
 ---
 
 El presidente Andrés Manuel López Obrador informó que la ceremonia del Grito de Independencia se llevará a cabo sólo con invitados especiales y el Zócalo de la Ciudad de México vacío porque no se puede “hacer una manifestación abierta”. 

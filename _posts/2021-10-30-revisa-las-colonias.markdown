@@ -13,12 +13,12 @@ tags:
 author: nil
 description: " El próximo miércoles y viernes podrás desechar la basura de gran volumen   "
 image: "/uploads/2021/images-unnamed_(1).png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Revisa las colonias y días que el Destilichadero atenderá esta semana"
 front: false
 section: "Local"
-news_id: 189411
+redirect_from: /news/189411
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos, llevará esta semana el programa de Destilichadero a las colonias Unidad, Óscar Flores, Constituyentes, Loma Dorada, Villa del Real, Dumas y Villas del Real etapa III.

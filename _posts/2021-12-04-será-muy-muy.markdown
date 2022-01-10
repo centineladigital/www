@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El nuevo hallazgo de inteligencia calcula que los rusos planean desplegar unos 175 mil elementos, de los cuales casi la mitad ya se encuentran en varios puntos cerca de la frontera con Ucrania. "
 image: "/uploads/2021/images-biden-putin-hablara-proxima-semana.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Será muy, muy difícil para Rusia lanzar operación militar contra Ucrania, advierte EU"
 front: false
 section: "Internacional"
-news_id: 190512
+redirect_from: /news/190512
 ---
 
 Después de que funcionarios de inteligencia estadunidense determinaran que Rusia realiza planes para una posible ofensiva militar contra Ucrania, que podría ser a principios de 2022, el presidente de Estados Unidos, Joe Biden, advirtió que le será "muy, muy difícil" al presidente ruso Vladimir Putin lanzar una operación militar en Ucrania. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Nuestros países han progresado en esta nueva realidad y estamos listos para reanudar el comercio y el viaje de una manera mesurada y responsable, el embajador Salazar.    "
 image: "/uploads/2021/images-merlin_193107153_100f87d8-e890-49b5-8817-be9176e9f723-articleLarge.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia actualizaciones a las restricciones de viajes fronterizos no esenciales  -  Ken Salazar "
 front: false
 section: "Local"
-news_id: 188711
+redirect_from: /news/188711
 ---
 
 El Embajador Ken Salazar se complace en compartir actualizaciones a las restricciones bajo el Título 19 para los cruces terrestres en la frontera México-Estados Unidos.  

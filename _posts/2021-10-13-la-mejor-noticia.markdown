@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El videoclip publicado este miércoles en la tarde titulado ‘Índigo’ ya cuenta con miles y miles de reproducciones en YouTube. "
 image: "/uploads/2021/images-camilo-evaluna-seran-papas.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡La mejor noticia del año! Camilo y Evaluna anuncian que serán padres"
 front: false
 section: "Espectáculos"
-news_id: 188705
+redirect_from: /news/188705
 ---
 
 El internet se rompió este miércoles con el anuncio de que una de las parejas más queridas y exitosas en el mundo del espectáculo latino serán papás. 

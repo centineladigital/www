@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El equipo donado consta de computadoras de escritorio, aparatos de aire acondicionado, calentones a gas, sillas metálicas, mesas rectangulares binarias que permitirán mejorar el proceso de enseñanza-aprendizaje en dichos planteles   "
 image: "/uploads/2021/images-COBACH_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recibe COBACH donación de mobiliario y equipo por el ICHIFE"
 front: false
 section: "Local"
-news_id: 190769
+redirect_from: /news/190769
 ---
 
 El Colegio de Bachilleres del Estado de Chihuahua (COBACH) recibió en donación por el Instituto Chihuahuense de Infraestructura Física Educativa (ICHIFE), mobiliario y equipo que permitirá mejorar espacios y condiciones para atender a la comunidad estudiantil en los diversos planteles.

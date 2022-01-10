@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista con el programa Hoy de Televisa, Ángela Aguilar explicó que le gustaría mucho asistir a la boda de Belinda y Christian Nodal. Incluso, se ofreció a prestarle un vestido de novia a la cantante. "
 image: "/uploads/2021/images-angela-aguilar-invitaron-boda-christian.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Ya la invitaron? Ángela Aguilar 'ofrece' prestarle vestido de novia a Belinda para boda con Nodal"
 front: false
 section: "Espectáculos"
-news_id: 185082
+redirect_from: /news/185082
 ---
 
 Ángela Aguilar, cantante e hija de Pepe Aguilar, rompió el silencio sobre la boda entre Christian Nodal y Belinda. Esto luego de que la relacionaran sentimentalmente con el famoso y aseguraran que entre ambos cantantes había habido una conexión por su famoso dueto Dime Cómo Quieres. La famosa explicó si ya la invitaron a la boda y hasta bromeó con hasta prestarle un vestido a Belinda para el día del compromiso.

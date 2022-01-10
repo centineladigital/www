@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Todo comenzó luego de que se filtraran una serie de fotografías de ambos famosos tomados de las manos en la boda de un amigo. "
 image: "/uploads/2021/images-harry-styles-y-olivia-wilde-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Harry Styles y Olivia Wilde desatan rumores de romance"
 front: false
 section: "Espectáculos"
-news_id: 181857
+redirect_from: /news/181857
 ---
 
 Va comenzando el año y los famosos comienzan a regalarnos ya algunos "chismes" sobre su vida personal. Esta vez, quienes desataron las habladurías fueron Harry Styles y Olivia Wilde, quienes están "rompiendo" las redes sociales luego de que se les viera juntos en una boda tomándose las manos.  Las fotografías que se volvieron virales fueron tomadas por un paparazzi en la boda de un amigo en común el pasado fin de semana en las que se les ve todo el tiempo caminando juntos de la mano mientras Harry sostenía una bebida en su otra mano.  

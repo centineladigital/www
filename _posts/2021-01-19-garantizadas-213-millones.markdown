@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El canciller informa que hay acuerdos por fármaco Sputnik V, así como con las farmacéuticas Pfizer, AstraZeneca, CanSinoBIO; la firma china solicitará uso de emergencia de su dosis"
 image: "/uploads/2021/images-2514332.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Garantizadas, 21.3 millones de vacunas contra Covid -  Ebrard"
 front: false
 section: "Nacional"
-news_id: 182242
+redirect_from: /news/182242
 ---
 
 Para continuar con la vacunación del personal de salud e iniciar con los adultos mayores, México tiene garantizado el acceso a 21 millones 394 mil 650 dosis contra Covid-19 de cuatro farmacéuticas.

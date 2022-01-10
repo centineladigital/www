@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La precuela basada en la novela de Suzanne Collins, Balada de pájaros cantores y serpientes tiene como objetivo comenzar la producción en la primera mitad de 2022. "
 image: "/uploads/2021/images-pelicula-centrara-villano-juegos-hambre_70_73_940_584.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Sin Katniss Everdeen! Precuela de 'Los Juegos del Hambre' comenzará rodaje en 2022"
 front: false
 section: "Espectáculos"
-news_id: 186416
+redirect_from: /news/186416
 ---
 
 ¡Los Juegos del Hambre regresan! Suzanne Collins había anunciado hace un par de años que estaba preparando un libro sobre la saga literaria distópica más exitosa de los últimos años y lo hizo, hace unos meses salió la novela Balada de pájaros cantores y serpientes, la cual cuenta la historia del villano Coriolanus Snow, ahora sabemos que ya se está preparando una película.  

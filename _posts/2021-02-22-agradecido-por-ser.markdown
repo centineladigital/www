@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantante canadiense The Weeknd compartió una imagen y un breve mensaje con el reaccionó a la disolución del dúo francés Daft Punk. "
 image: "/uploads/2021/images-daft-punk-y-the-weeknd.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Agradecido por ser parte del viaje -  The Weeknd tras la separación de Daft Punk"
 front: false
 section: "Espectáculos"
-news_id: 183091
+redirect_from: /news/183091
 ---
 
 Tras el sorpresivo video que compartió Daft Punk hace algunas horas, con el que el dúo de electrónica anunció su separación después de casi 30 años de trayectoria, algunas figuras de la música como el productor Mark Ronson y el cantante The Weeknd ya han reaccionado a la noticia. "Daft Punk dejó un legado impecable. Yo diría que envidiable pero imposiblemente inalcanzable es más apropiado. Recuerdo cómo esos hermosos robots franceses tuvieron suerte y nos dejaron fuera del cielo toda la noche en los Grammy 2013. Ni siquiera pude estar enojado por 3 minutos", escribió en su cuenta de Twitter el famoso productor británico Mark Ronson. 

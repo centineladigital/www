@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 ascendió es de 8 mil 624 (+1), el nuevo registro corresponde al municipio de Parral (+1). "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 70 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 191037
+redirect_from: /news/191037
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 20 de diciembre el reporte COVID-19, en el cual se registran 90 mil 577 (+70) personas confirmadas en la entidad por este padecimiento, 77 mil 268 (+21) casos recuperados, 86 mil 864 (+14) descartados y 1,108 (+10) casos sospechosos.

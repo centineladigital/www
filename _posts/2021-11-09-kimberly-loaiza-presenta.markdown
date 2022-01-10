@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La influencer Kimberly Loaiza presenta su sencillo Mejor Sola en fiesta llena de celebridades de internet. "
 image: "/uploads/2021/images-asi-se-vivio-la-presentacion.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Kimberly Loaiza presenta su sencillo 'Mejor Sola' rodeada de influencers y celebridades"
 front: false
 section: "Espectáculos"
-news_id: 189695
+redirect_from: /news/189695
 ---
 
 La diversión, la música y los colores no faltaron en la fiesta que organizó la famosa tiktoker y cantante Kimberly Loaiza en Acapulco, Guerrero por la presentación oficial de su más reciente sencillo Mejor Sola. 

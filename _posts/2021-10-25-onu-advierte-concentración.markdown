@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La concentración de dióxido de carbono (CO2), el más abundante de los gases de efecto invernadero, alcanzó en 2020 las 413,2 partes por millón (ppm) y se sitúa en el 149 % de los niveles preindustriales.  "
 image: "/uploads/2021/images-se-necesita-voluntad-para-frenar.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "ONU advierte -  concentración de gases de efecto invernadero alcanzó nuevo récord en 2020"
 front: false
 section: "Internacional"
-news_id: 189140
+redirect_from: /news/189140
 ---
 
 Las concentraciones de gases de efecto invernadero en la atmósfera alcanzó un nuevo récord el año pasado, indicó este lunes la Organización Meteorológica Mundial (OMM), a días de la conferencia CP26 sobre el clima. 

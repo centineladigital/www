@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A fin de evitar contagios y un retroceso en el semáforo; exhortan a alcaldes y alcaldesas a no aplicar medidas con fines recaudatorios"
 image: "/uploads/2021/images-Diapositiva03.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Instruye Estado a los ayuntamientos a reforzar medidas preventivas ante la pandemia por COVID-19   "
 front: false
 section: "Local"
-news_id: 190888
+redirect_from: /news/190888
 ---
 
 Ante el incremento de casos y hospitalizaciones por COVID-19, Gobierno del Estado convocó a los alcaldes y alcaldesas de los 67 municipios, a fin de establecer acuerdos y que en todas las localidades se refuercen las medidas preventivas.

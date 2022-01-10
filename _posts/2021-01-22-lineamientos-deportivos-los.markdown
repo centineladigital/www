@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Actividades deportivas se darán según lineamientos."
 image: "/uploads/2021/images-GUMARO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV04_GUMARO_BARRIOS.mp3"
 alt: "Lineamientos deportivos los pondrán las ligas"
 front: false
 section: "Local"
-news_id: 182377
+redirect_from: /news/182377
 ---
 
 Los lineamientos y restricciones que se apliquen al activarse las actividades deportivas serán creados por los mismos sectores, señaló el titular del área de epidemiología en la Secretaría de Salud Gumaro Barrios.

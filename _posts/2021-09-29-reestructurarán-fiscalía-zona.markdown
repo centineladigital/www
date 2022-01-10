@@ -10,11 +10,11 @@ author: nil
 description: "Esto no representa que sean nombramientos."
 image: "/uploads/2021/images-ROBERTO_FIERRO.jpg"
 video: "/uploads/2021/videos-MW02_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Reestructurarán Fiscalía Zona Norte "
 front: false
 section: "Local"
-news_id: 188195
+redirect_from: /news/188195
 ---
 
 Tras la orden de aprehensión en contra del Fiscal Zona Norte, el titular de la Fiscalía General del Estado, Roberto Fierro Duarte, señaló que habrá una reestructura completa al interior de la misma, afirmando que sería durante el miércoles cuando se determine un encargado de despacho.

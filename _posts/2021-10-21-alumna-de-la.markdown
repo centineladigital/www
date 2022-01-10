@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ana Paola Salas Estrada ha participado en diversos torneos nacionales e internacionales; mantiene el título internacional de WCM que obtuvo como subcampeona norteamericana en 2015"
 image: "/uploads/2021/images-anaPaola1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alumna de la UTCH representará a Chihuahua en campeonato nacional de ajedrez"
 front: false
 section: "Local"
-news_id: 189032
+redirect_from: /news/189032
 ---
 
 La alumna Ana Paola Salas Estrada, de la Universidad Tecnológica de Chihuahua (UTCH) participará en el Campeonato Nacional Universitario de Ajedrez 2021, que se celebrará en la ciudad de Mérida, Yucatán del 26 al 31 de octubre.

@@ -10,11 +10,11 @@ author: nil
 description: "Ficha costará 500 pesos, trámite se llevará a cabo de forma virtual."
 image: "/uploads/2021/images-vianey.jpg"
 video: "/uploads/2021/videos-MJ06_VIANEY_TREVIZO.mp4"
-audio: "nil"
+audio: nil
 alt: "Inicia entrega de fichas de la UTCH"
 front: false
 section: "Local"
-news_id: 188486
+redirect_from: /news/188486
 ---
 
 Este jueves fue dado a conocer la convocatoria para admisión a la Universidad Tecnológica de Chihuahua, según lo dio a conocer la Directora de la Unidad Académica, Vianey Trevizo. El proceso de entrega de fichas se llevará a cabo de manera virtual del 20 de septiembre al 26 de octubre.

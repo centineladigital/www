@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el últimas horas se confirman 27 defunciones en Juárez, Chihuahua, Delicias, Parral, 1 Cuauhtémoc, Camargo,  Meoqui, Ojinaga y Gómez Farías, para un total estatal de 5 mil 410  fallecimientos"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registra Salud 192 nuevos contagios de COVID-19 para un total de 55 mil 423 casos"
 front: false
 section: "Local"
-news_id: 183319
+redirect_from: /news/183319
 ---
 
 Un total general de 55 mil 423 de casos confirmados de COVID-19 registró la Secretaría de Salud, luego de que se confirmaran 192 contagios en las últimas 24 horas en la entidad.

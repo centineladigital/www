@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Biden comentó durante la conferencia sobre los planes que tiene con Estados Unidos para combatir el cambio climáticos, además de los avances que han logrado. "
 image: "/uploads/2021/images-joe-biden-cumbre-italia-foto_0_28_1200_745.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Biden afirma progreso de EU contra el cambio climático en conferencia de la ONU"
 front: false
 section: "Internacional"
-news_id: 189491
+redirect_from: /news/189491
 ---
 
 El presidente, Joe Biden, argumentó que se logró un progreso histórico para abordar el calentamiento global en la conferencia climática de la ONU en Glasgow, Escocia, y expresó optimismo por un resultado similar en Washington, donde su agenda legislativa se ha estancado por desacuerdos entre partidos. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La vacuna solamente se da bajo el registro, cada una de ellas tiene nombre y apellido."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV02_WENDY_AVILA.mp3"
 alt: "No hay costo de vacunación"
 front: false
 section: "Local"
-news_id: 183056
+redirect_from: /news/183056
 ---
 
 La vacunación es completamente gratuita y no existe la aplicación a domicilio señaló la Subdirectora de Medicina Preventiva, Wendy Ávila Coronado, esto al ser cuestionada respecto a señalamientos de personas que afirman se les ha ofrecido la vacuna a domicilio por un costo de mil pesos.

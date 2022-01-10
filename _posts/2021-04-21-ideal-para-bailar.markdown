@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Además de Daddy Yankee y las intérpretes, participaron en la composición Justin Quiles, Elena Rose y Raphy Pina, el prometido de Natti. "
 image: "/uploads/2021/images-tema-conto-participacion-daddy-yankee.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Ideal para bailar! Natti Natasha y Becky G lanzan la canción 'Ram Pam Pam'; así la puedes escuchar"
 front: false
 section: "Espectáculos"
-news_id: 184022
+redirect_from: /news/184022
 ---
 
 Luego de que hace tres años hicieron historia en la música urbana con el éxito “Sin Pijama”, las artistas Natti Natasha y Becky G volvieron a colaborar para el tema “Ram Pam Pam”, que salió este martes y contó con la participación de Daddy Yankee en la composición. “Hace tres años Becky G y yo hicimos un tema que se convirtió en un himno para todas las mujeres. Hoy me llena de orgullo colaborar nuevamente con Becky G, a quien aprecio y admiro, y estoy segura que la vamos a volver a romper con este tema de empoderamiento perfecto para disfrutar entre amigas”, expresó Natti al presentar la canción. 

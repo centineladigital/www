@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Agencias norteamericanas de investigación criminal otorgaron las acreditaciones a los 22 laboratorios de la FGE en Parral, Cuauhtémoc, Chihuahua y Juárez"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Celebran Fiscalía General del Estado y Consulado General de EU acreditación de laboratorios forenses"
 front: false
 section: "Local"
-news_id: 188957
+redirect_from: /news/188957
 ---
 
 El Fiscal General del Estado, Roberto Javier Fierro Duarte, el Cónsul General de Estados Unidos en Ciudad Juárez, Erik Cohan y el director de la Oficina Internacional de Asuntos Antinarcóticos y Procuración de Justicia en México (INL), Alberto Rodríguez, encabezaron la ceremonia de acreditación y reacreditación de 22 laboratorios forenses ubicados en los municipios de Parral, Cuauhtémoc, Chihuahua y Juárez.

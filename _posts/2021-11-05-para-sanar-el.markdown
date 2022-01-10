@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este primer EP 'Basado En Hechos Reales' consta de siete canciones de la autoría de Salma Glz."
 image: "/uploads/2021/images-salma-glz-estrena-basado-hechos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Para sanar el corazón! Conoce a Salma Glz, la cantautora mexicana sensación de Tik Tok"
 front: false
 section: "Espectáculos"
-news_id: 189605
+redirect_from: /news/189605
 ---
 
 ¿Alguna vez te han roto el corazon?, ¿Ha salido mal?, ¿No sabes cómo seguir adelante? El confinamiento social al que fuimos sometidos durante el 2020 trajo consecuencias para todos. Algunos sufrieron, otros se encontraron a sí mismos o encontraron a alguien que les rompió o sanó el corazón. 

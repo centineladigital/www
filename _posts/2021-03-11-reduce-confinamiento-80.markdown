@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "De noviembre a febrero es el periodo en que normalmente se incrementan este tipo de enfermedades infecciosas"
 image: "/uploads/2021/images-p7pQUv0V4TKJ.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reduce confinamiento 80 por ciento enfermedades respiratorias"
 front: false
 section: "Local"
-news_id: 183390
+redirect_from: /news/183390
 ---
 
 Una reducción de un 80 por ciento en materia de enfermedades respiratorias es lo que ha dejado el confinamiento, esto ya que al disminuir el contacto humano se registró un descenso de casos como la influenza H1N1, según declaraciones del director de la Facultad de Medicina de la UACH, Luis Carlos Hinojos Gallardo. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Da a conocer que las lluvias estarán presentes en Camargo, Manuel Benavides, Ojinaga, Guadalupe, Madera, Buenaventura, Guachochi, Juárez, Guadalupe y Calvo, Balleza, Sueco, Cuauhtémoc, Chihuahua, Satevó, Parral, Jiménez, Delicias y Coyame"
 image: "/uploads/2021/images-LLUVIA_NUBLADO_CUU_(2).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Informa Protección Civil que se prevén lluvias  para Chihuahua y Juárez este martes"
 front: false
 section: "Local"
-news_id: 184765
+redirect_from: /news/184765
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que para este martes 1 de junio se esperan lluvias en varios municipios del estado, como en Chihuahua, Ciudad Juárez y Cuauhtémoc.

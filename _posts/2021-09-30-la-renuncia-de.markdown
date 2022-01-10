@@ -16,11 +16,11 @@ author: nil
 description: "Se respeta la decisión  del líder del Panista "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-29_at_12.27.12.jpeg"
 video: "/uploads/2021/videos-BJ02_GEO_BUJANDA.mp4"
-audio: "nil"
+audio: nil
 alt: "La renuncia de Madero no representa una fractura para el PAN "
 front: false
 section: "Local"
-news_id: 188238
+redirect_from: /news/188238
 ---
 
 La presidenta del Congreso del Estado Georgina Bujanda manifestó que el hecho de que el senador Gustavo Madero haya renunciado a la bancada de senadores del PAN, no representa una ruptura en el partido político.

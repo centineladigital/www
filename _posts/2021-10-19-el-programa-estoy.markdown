@@ -14,11 +14,11 @@ author: nil
 description: "La intención de la regidora es que mediante los estudios se logre la detección de problemas auditivos para canalizar a las personas que resulten con algún daño"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-19_at_11.45.18.jpeg"
 video: "/uploads/2021/videos-BM04_LUPITA_BORRUEL_.mp4"
-audio: "nil"
+audio: nil
 alt: "El programa “estoy oyendo bien” está vigente "
 front: false
 section: "Local"
-news_id: 188933
+redirect_from: /news/188933
 ---
 
 Lupita Borruel regidora del municipio de chihuahua manifestó que el programa estoy oyendo bien continua vigente, realizando esta vez 15 audiometrías a personas de la tercera edad, la regidora quien preside la comisión de salud manifestó que estarán realizando estas consultas.

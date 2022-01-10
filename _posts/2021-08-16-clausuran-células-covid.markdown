@@ -13,12 +13,12 @@ tags:
 author: nil
 description: ""
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Clausuran Células COVID dos bares por operar fuera de horario"
 front: false
 section: "Local"
-news_id: 186732
+redirect_from: /news/186732
 ---
 
 Durante los recorridos realizados por la Célula COVID la noche del sábado se llevó a cabo la clausura de dos bares por operar fuera del horario establecido. 

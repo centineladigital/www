@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La jefa de Gobierno considera que no solamente se trata de un asunto de género, sino de darle continuidad a la cuarta transformación "
 image: "/uploads/2021/images-mandataria-capitalina-gobernadores-morenistas-veracruz_0_13_600_372.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México, listo para una presidenta -  Sheinbaum"
 front: false
 section: "Nacional"
-news_id: 189457
+redirect_from: /news/189457
 ---
 
 México está preparado “desde hace mucho” tiempo para tener a una mujer al frente de la Presidencia de la República, consideró la jefa de Gobierno capitalina, Claudia Sheinbaum. 

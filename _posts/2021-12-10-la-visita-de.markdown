@@ -20,11 +20,11 @@ author: nil
 description: "Se nota el buen acercamiento con la gobernadora del Estado Maru Campos"
 image: "/uploads/2021/images-presidente_de_méxico_andres_manuel_lopez_obrador.jpg"
 video: "/uploads/2021/videos-BV04_ELIEL_GARCIA_.mp4"
-audio: "nil"
+audio: nil
 alt: "La visita de AMLO traerá beneficios para Chihuahua "
 front: false
 section: "Local"
-news_id: 190732
+redirect_from: /news/190732
 ---
 
 Eliel García Regidor por la 4T, aseguró que la llegada del mandatario Nacional Andrés Manuel López obrador a Chihuahua traerá consigo muchos beneficios para la entidad ya que deja clara una consolidación de la cuarta transformación con el pueblo. 

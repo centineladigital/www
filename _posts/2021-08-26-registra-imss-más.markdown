@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La doctora Cynthia Rosas Magallanes, titular de la División de Capacitación y Adiestramiento Técnico, adelantó que se desarrolló un curso de salud mental "
 image: "/uploads/2021/images-Foto_375-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registra IMSS más de 760 mil capacitados en cursos en línea sobre bioseguridad por COVID-19 en regreso a clases"
 front: false
 section: "Local"
-news_id: 187155
+redirect_from: /news/187155
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) ha puesto a disposición de la población sus cursos en línea dirigidos a los tres niveles educativos para un retorno seguro a las escuelas ante la enfermedad de COVID-19, donde a la fecha se han registrado más de 760 mil personas entre padres, estudiantes y miembros de las instituciones educativas.

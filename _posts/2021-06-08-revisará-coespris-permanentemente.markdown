@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Vigilarán que se cumpla con disposiciones sanitarias para evitar la propagación del COVID-19"
 image: "/uploads/2021/images-4094439d-6677-403d-97f9-c29e4b0057cd.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Revisará Coespris permanentemente 70  centros recreativos en el estado por reapertura"
 front: false
 section: "Local"
-news_id: 184929
+redirect_from: /news/184929
 ---
 
 Con la reapertura de albercas, parques acuáticos y balnearios en la entidad, personal de Comisión Estatal para la Protección Contra Riesgos Sanitarios (Coespris) inició las visitas de verificación para constatar que se cumplan los protocolos sanitarios.

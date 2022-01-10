@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Hamilton logró la pole position en el circuito de Estambul, sin embargo, cumplirá una penalización"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Checo Pérez arrancará sexto en el Gran Premio de Turquía"
 front: false
 section: "Deportes"
-news_id: 188557
+redirect_from: /news/188557
 ---
 
 El siete veces campeón del mundo de Fórmula Uno Lewis Hamilton, piloto de Mercedes, líder del Mundial consiguió la pole position en el Gran Premio de Turquía, el decimosexta ocasión del año, pero tiene una penalización de 10 puestos en la parrilla por cambiar la unidad interna de combustión de su motor, así que en el circuito de Estambul saldrá primero su compañero finlandés Valtteri Bottas y el inglés lo hará desde la undécima plaza. 

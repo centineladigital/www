@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Podrán deshacerse de basura grande de 8 de la mañana a 3 de la tarde"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Tienes basura en grandes dimensiones en tu casa? Ve las colonias que visitará el “Destilichadero”"
 front: false
 section: "Local"
-news_id: 189121
+redirect_from: /news/189121
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos, llevará esta semana el programa de Destilichadero a diversas colonias para que los ciudadanos aprovechen y puedan depositar basura de grandes dimensiones en los contenedores de 8 de la mañana a 3 de la tarde.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Al terminar su conferencia mañanera de este miércoles en Palacio Nacional, López Obrador informó el nombramiento de Márquez en el Inegi porque no se había hecho público"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO informa que Graciela Márquez se queda en la presidencia del Inegi"
 front: false
 section: "Nacional"
-news_id: 190865
+redirect_from: /news/190865
 ---
 
 El presidente Andrés Manuel López hizo público que Graciela Márquez, exsecretaria de Economía, queda al frente del Instituto Nacional de Estadística y Geografía (Inegi). 

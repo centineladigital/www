@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Capacitarán en materia de equidad de género."
 image: "/uploads/2021/images-F3.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ06_NESTOR_ARMENDARIZ.mp3"
 alt: "Firman Convenio CEDH-STPS-ICHMUJERES y CCE"
 front: false
 section: "Local"
-news_id: 183468
+redirect_from: /news/183468
 ---
 
 Buscando beneficios directos para las mujeres este jueves se dio la signa de un convenio entre  organismos del sector privado, el Instituto Estatal de la mujer y la Comisión Estatal de Derechos Humanos, el cual tiene como propósito es capacitar al empresariado y su personal sobre los derechos humanos de las mujeres, prevención y atención de la violencia laboral.

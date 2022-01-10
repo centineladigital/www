@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Bon Jovi apenas era un adolescente sin recorrido en la música cuando conoció y compartió escenario con el ícono Bruce Springsteen. "
 image: "/uploads/2021/images-bon-jovi-y-bruce-springsteen.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La curiosa historia del día que Bon Jovi y Bruce Springsteen se conocieron"
 front: false
 section: "Espectáculos"
-news_id: 183242
+redirect_from: /news/183242
 ---
 
 Hace 59 años nació, en Nueva Jersey, el cantante, compositor, actor y productor musical John Francis Bongiovi Jr., mejor conocido como Jon Bon Jovi, vocalista de la banda de rock Bon Jovi. A lo largo de su vida, Jon se ha convertido en uno de los grandes íconos del rock, por lo que ya se sienta en la mesa de grandes de la talla de Bruce Springsteen. Ambos artistas guardan una relación estrecha, incluso han colaborado en múltiples ocasiones con una gran amistad. Una de las últimas ocasiones fue durante un evento organizado precisamente por Springsteen y Bon Jovi, llamado Jersey 4 Jersey, donde recaudaron fondos para ayudar a New Jersey para recuperarse de los impactos del covid-19.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los fondos obtenidos se otorgarán a becas deportivas y bicicletas para niñas y niños de escasos recursos"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno Municipal a FuckUps N’Wine este 21 de octubre"
 front: false
 section: "Local"
-news_id: 188782
+redirect_from: /news/188782
 ---
 
 El Gobierno Municipal, a través de la Dirección de Desarrollo Económico y Turístico en conjunto con Centauros Del Norte y Red Emprende Chihuahua, invita a participar en el evento FuckUps N’Wine que se llevará a cabo el próximo sábado 23 de octubre en el hotel Sheraton.

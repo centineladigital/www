@@ -10,11 +10,11 @@ author: nil
 description: "Pudieron movilizarlos en unidades de plataforma."
 image: "/uploads/2021/images-FIERRO.jpg"
 video: "/uploads/2021/videos-ML04_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Migrantes tenían promedio de 35 días"
 front: false
 section: "Local"
-news_id: 187885
+redirect_from: /news/187885
 ---
 
 Los migrantes rescatados tenían un promedio de 35 días, señaló el titular de la Fiscalía General del Estado Roberto Fierro Duarte. Esto luego de dar a conocer se iniciará una carpeta de investigación, sin embargo, una de las líneas apunta que que los migrantes fueron trasladados en vehículos de plataformas como Uber y Didis.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Rinde protesta como presidenta honoraria de la Cruz Roja"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_17.28.41.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Marco_Bonilla_Cruz_Roja.m4a"
 alt: "Trabajará Karina Olivas de la mano con la Cruz Roja para ver por la integridad familiar"
 front: false
 section: "Local"
-news_id: 188168
+redirect_from: /news/188168
 ---
 
 La presidenta del DIF Municipal, Karina Olivas Maldonado, rindió protesta como presidenta Honoraria de la Cruz Roja delegación local Chihuahua, sumándose a los trabajos del voluntariado de ésta benemérita institución.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La UTCh Sur brinda al alumnado las herramientas necesarias para emprender sus propios negocios."
 image: "/uploads/2021/images-IMG_8054.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan estudiantes de Gastronomía de la UTCH Sur proyectos emprendedores"
 front: false
 section: "Local"
-news_id: 191159
+redirect_from: /news/191159
 ---
 
 Como parte de su formación integral, las y los estudiantes de la carrera de gastronomía de la Universidad Tecnológica de Chihuahua Sur (UTCH Sur), presentaron durante el presente año varios proyectos integradores, encaminados a crear y emprender sus propios negocios.

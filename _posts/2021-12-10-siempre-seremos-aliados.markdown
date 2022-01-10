@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La gobernadora Maru Campos Galván dio la bienvenida al Presidente y al Gabinete de Seguridad a tierras chihuahuenses durante la conferencia de prensa matutina"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Siempre seremos aliados de quien tenga voluntad de atender las necesidades de los chihuahuenses”; brinda Gobernadora mensaje de unidad "
 front: false
 section: "Local"
-news_id: 190710
+redirect_from: /news/190710
 ---
 
 En el marco de la visita del presidente de México, Andrés Manuel López Obrador al Estado de Chihuahua, la gobernadora Maru Campos Galván dio la bienvenida al Presidente y al Gabinete de Seguridad a tierras chihuahuenses durante la conferencia de prensa matutina donde ofreció la total colaboración del Gobierno del Estado con el Gobierno Federal para atender las necesidades más apremiantes de la población.

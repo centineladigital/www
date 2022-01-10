@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal comparte el calendario para que ubiques tu calle y saques tus tiliches"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Programa Destilichadero estará en otras nueve colonias a partir del lunes"
 front: false
 section: "Local"
-news_id: 189623
+redirect_from: /news/189623
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos, llevará durante la semana del 8 al 12 de noviembre el programa de Destilichadero a Tabalaopa, Girasoles I, II y IV, Camino Real, Quintas Carolinas, El Ojito, Ponce de León y Sergio de la Torre.

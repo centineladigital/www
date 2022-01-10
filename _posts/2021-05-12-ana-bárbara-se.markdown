@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ana Bárbara compartió el emotivo mensaje que recibió de José Emilio, hijo de Mariana Levy, por el Día de las Madres."
 image: "/uploads/2021/images-ana-barbara-cuido-jose-emilio.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ana Bárbara se conmueve por mensaje de hijo de Mariana Levy -  “Gracias por tapar este vacío”"
 front: false
 section: "Espectáculos"
-news_id: 184420
+redirect_from: /news/184420
 ---
 
 Este 10 de mayo en México se celebró el Día de las Madres y varias famosas compartieron en redes sociales cómo festejaron esta fecha tan importante en compañía de sus hijos, una de ellas fue Ana Bárbara, quien decidió subir a sus historias de Instagram un mensaje que recibió por parte de José Emilio, hijo de Mariana Levy y su ex pareja José María Fernández El Pirru. Después de que murió Mariana Levy, El Pirru mantuvo una relación con Ana Bárbara, es por esto que durante el tiempo que estuvo con José María Fernández, la cantante se hizo responsable de Paula y José Emilio, hijos que El Pirru procreó con Levy. José Emilio tenía cerca de un año cuando Ana Bárbara comenzó a cuidarlo.

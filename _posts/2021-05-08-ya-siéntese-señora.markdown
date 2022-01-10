@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Lorena de la Garza se defendió de las críticas que hizo en su contra Horacio Villalobos en Venga la Alegría. "
 image: "/uploads/2021/images-la-actriz-no-dudo-en_28_0_1044_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ya siéntese señora -  Lorena de la Garza arremete contra Horacio Villalobos tras criticarla"
 front: false
 section: "Espectáculos"
-news_id: 184358
+redirect_from: /news/184358
 ---
 
 Después que en Venga la Alegría trasmitieran una entrevista de Lorena de la Garza en donde expresó que aún no recibe la vacuna anticovid, debido a que por su edad todavía no le corresponde, pero está pensando en la posibilidad de ir a Estados Unidos a vacunarse, algo que criticó Horacio Villalobos. El conductor expresó que por su edad, Lorena de la Garza ya puede vacunarse en México y que no era necesario que fuera a Estados Unidos, por esta razón, la actriz salió a defenderse y publicó un video en una historia de Instagram donde le respondió a Horacio Villalobos. 

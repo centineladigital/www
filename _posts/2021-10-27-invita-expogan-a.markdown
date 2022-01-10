@@ -10,11 +10,11 @@ author: nil
 description: "“Quien vaya a Expogan en estos días que se lleve una chamarrita, le damos un boleto”, dijo Presidente de la Unión Regional Ganadera."
 image: "/uploads/2021/images-EXPOGAN.jpg"
 video: "/uploads/2021/videos-MW03_EDUARDO_PRIETO.mp4"
-audio: "nil"
+audio: nil
 alt: "Invita expogan a rifa de mesa a concierto de Carin Leon"
 front: false
 section: "Local"
-news_id: 189266
+redirect_from: /news/189266
 ---
 
 Con el fin de fomentar y apoyar el programa del DIF Estatal “Juntos sin frío” el Presidente de la Unión Regional Ganadera, Eduardo Prieto, invitó a la ciudadanía a donar una chamarra durante su visita a la Expogan para poder disfrutar de una mesa en el concierto del artista Carin León.

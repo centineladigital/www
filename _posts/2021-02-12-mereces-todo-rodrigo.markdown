@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te contamos quién fue Rodrigo Mejía, actor de Televisa que murió a los 45 años y esposo de Gaby Crassus, ex conductora de Al Extremo de TV Azteca. "
 image: "/uploads/2021/images-rodrigo-mejia-gaby-crassus-tuvieron.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mereces todo -  Rodrigo Mejía y su sólido amor con Gaby Crassus, ex conductora de 'Al Extremo'"
 front: false
 section: "Espectáculos"
-news_id: 182887
+redirect_from: /news/182887
 ---
 
 Rodrigo Mejía, actor mexicano de Televisa murió a los 45 años. El impacto de la noticia ha volcado diversas muestras de reconocimiento por su trayectoria, así como con condolencias hacia su familia, específicamente para su esposa Gaby Crassus, quien se posicionó como una destacada conductora de TV Azteca en Al Extremo.  Gaby Crassus y Rodrigo Mejía se casaron el 24 de noviembre del 2012. La ceremonia la llevaron a cabo en Jiutepec, Morelos. Con la presencia de familiares, amigos y personajes del mundo del espectáculo pactaron su amor ante la religión católica.

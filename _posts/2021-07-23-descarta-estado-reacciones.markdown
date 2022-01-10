@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que líder tenía conocimiento de la orden de aprehensión."
 image: "/uploads/2021/images-MESTA.jpg"
 video: "/uploads/2021/videos-MV03_FERNANDO_MESTA.mp4"
-audio: "nil"
+audio: nil
 alt: "Descarta Estado reacciones por detención de Valles"
 front: false
 section: "Local"
-news_id: 185957
+redirect_from: /news/185957
 ---
 
 El Gobierno del Estado descartó que se dé reacciones por parte de diversos sectores sociales tras la detención de Andrés Valles, esto por motivos de motín, robo de vehículos y daños a edificios públicos. Esto dentro de los enfrentamientos entre productores y gobierno federal por el agua.

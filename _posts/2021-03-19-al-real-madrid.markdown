@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Emilio Butragueño espera que Zinedine Zidane pueda contar con toda la plantilla para los duelos ante el Liverpool y el Barcelona"
 image: "/uploads/2021/images-2547900.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Al Real Madrid le urge recuperar a los lesionados"
 front: false
 section: "Deportes"
-news_id: 183477
+redirect_from: /news/183477
 ---
 
 El director de Relaciones Institucionales del Real Madrid, Emilio Butragueño, prevé una eliminatoria de cuartos de Champions League "igualada" y con dos partidos "apasionantes" ante el Liverpool, un rival que, aunque tiene "bajas de gente muy importante" siempre es "competitivo", y destacó la importancia de que el conjunto blanco recupere a los jugadores lesionados para unas semanas de "un esfuerzo enorme físico y psicológico".

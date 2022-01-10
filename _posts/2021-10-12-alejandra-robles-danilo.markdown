@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La telenovela comenzó grabaciones a finales de julio y este lunes por fin llegó al canal de Las Estrellas. "
 image: "/uploads/2021/images-trama-angela-interpretada-alejandra-robles.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alejandra Robles, Danilo Carrera y Brandon Peniche viven un 'triángulo amoroso' en la telenovela 'Contigo sí'"
 front: false
 section: "Espectáculos"
-news_id: 188626
+redirect_from: /news/188626
 ---
 
 Historias cada vez más cercanas a la realidad es lo que hace conectar hoy en día al público de los contenidos televisivos, por eso el productor mexicano Ignacio Sada quiso hacer algo distinto en un melodrama como Contigo sí, donde se muestra un triángulo amoroso con personajes más humanos. La trama es sobre Ángela, interpretada por Alejandra Robles, una enfermera que de pronto se encuentra en una confusión y se enamora de dos hombres, así que ciertas elecciones son las que marcarán su destino. La actriz, que por primera vez está al frente de un melodrama en Televisa, mostró su emoción por compartir créditos con Danilo Carrera, como Álvaro, y Brandon Peniche, como Leonardo. 

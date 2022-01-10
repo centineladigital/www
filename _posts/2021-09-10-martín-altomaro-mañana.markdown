@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor resaltó las bondades que ha brindado la época pandémica a su oficio."
 image: "/uploads/2021/images-martin-altomaro-forma-elenco-novena.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Martín Altomaro mañana estará como invitado en la novena temporada de T.A.P."
 front: false
 section: "Espectáculos"
-news_id: 187634
+redirect_from: /news/187634
 ---
 
 El programa televisivo “T.A.P.: Taller de actores profesionales”, conducido por Óscar Uriel, mañana contará con la participación de Martín Altomaro, a través de Canal Once. “T.A.P. es un programa que me gusta mucho, me entretiene, me da curiosidad”, explica Martín Altomaro en entrevista con M2. “Me gusta mucho como Óscar y el equipo abordan las carreras de actrices y actores y cómo ellos nos narran y nos cuentan sus experiencias y su forma de entender el trabajo, el arte que están desempeñando. Es un programa que cuando puedo, lo veo”. 

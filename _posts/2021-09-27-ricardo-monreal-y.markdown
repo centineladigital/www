@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "“La unidad de propósitos siempre genera buenos resultados, señaló el coordinador morenista. "
 image: "/uploads/2021/images-encuentro-amigable-sincero-unidad-propositos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ricardo Monreal y Sheinbaum se reúnen con el secretario de Gobernación"
 front: false
 section: "Nacional"
-news_id: 188080
+redirect_from: /news/188080
 ---
 
 Ricardo Monreal, coordinador de Morena en el Senado, se reunió con Adán Augusto López Hernández, secretario de Gobernación y Claudia Sheinbaum, jefa de Gobierno de la Ciudad de México, para revisar la agenda legislativa de la capital del país.

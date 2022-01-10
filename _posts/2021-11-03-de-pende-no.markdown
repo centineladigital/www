@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La protagonista de 'La fea más bella' es una de las comediantes más populares en nuestro país, pero no a todos les gustan sus parodias."
 image: "/uploads/2021/images-el-dia-que-thalia-arremetio_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "De pende... no tengo nada -  El día que Thalía aremetió contra Angélica Vale por imitarla como si fuera una tonta"
 front: false
 section: "Espectáculos"
-news_id: 189494
+redirect_from: /news/189494
 ---
 
 Thalía es, sin duda alguna, una de las cantantes mexicanas que más éxito ha alcanzado a nivel internacional, y por tal motivo es normal que sea también una de las más parodiadas, incluso por la talentosa comediante y actriz Angélica Vale; sin embargo la imitación de la protagonista de La fea más bella no fue del agrado de la esposa de Tommy Motola y arremetió contra ella en los años 2000. Y es que la intérprete de "Amor a la mexicana", así como muchas de sus canciones, además de talento y carisma, también irradia sensualidad, y es reconocida desde el incio de su carrera por su increíble estilo. Te compartimos el polémico momento del que todos hablan una vez más. 

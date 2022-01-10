@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "López Obrador advirtió que su gobierno no tolerará ningún acto que vaya contra la austeridad republicana, ni que afecte a la transformación del país."
 image: "/uploads/2021/images-amlo1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Santiago Nieto honorable, “no podemos tolerar extravagancias” -  AMLO"
 front: false
 section: "Nacional"
-news_id: 189780
+redirect_from: /news/189780
 ---
 
 El presidente Andrés Manuel López Obrador comentó que Santiago Nieto, quien renunció como titular de la Unidad de Inteligencia Financiera, es un abogado recto y profesional, pero advirtió que “no podemos tolerar extravagancias”, ello tras su boda con la consejera Carla Humphrey en Guatemala, evento que desató múltiples críticas. 

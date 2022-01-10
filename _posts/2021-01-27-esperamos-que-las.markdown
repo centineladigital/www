@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Es importante perfiles con calidad moral y que tengas la capacidad para desempeñarse de manera correcta "
 image: "/uploads/2021/images-SDGESGRE.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AW05_FRANSISCO_SANITNI.mp3"
 alt: "Esperamos que las campañas se basen en propuestas no en grilla política -  CCE "
 front: false
 section: "Local"
-news_id: 182498
+redirect_from: /news/182498
 ---
 
 Ante todos los procesos de pre elección para las candidaturas  en las próximas elecciones y el inminente inicio de las campañas, el Consejo Coordinador Empresarial, destaco que ellos son respetuosos de todos los procesos electorales y lo que esperan sus campañas se basen en propuestas y no en estar reflejando lo mal que hacen los otros partidos o personas.

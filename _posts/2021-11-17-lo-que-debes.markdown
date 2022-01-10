@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te decimos todo lo que debes saber sobre la nueva serie de Netflix, Cowboy Bebop: fecha de estreno, hora y dónde ver."
 image: "/uploads/2021/images-lo-que-debes-saber-sobre-14.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lo que debes saber sobre el nuevo live-action de 'Cowboy Bebop'; fecha y hora de estreno"
 front: false
 section: "Espectáculos"
-news_id: 189943
+redirect_from: /news/189943
 ---
 
 Netflix está muy cerca de llevar a todos sus suscriptores la versión live-action de Cowboy Bebop, la cual es recordada por ser una serie de animación japones que se volvió un auténtico fenómeno de culto gracias a su narrativa única y complejas temáticas a finales de los 90. 

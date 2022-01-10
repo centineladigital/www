@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Cada experiencia se relata en piezas de unos 15 minutos con las que Gadot pretende aportar contenido valioso al 'ruido' de las redes sociales. "
 image: "/uploads/2021/images-gal-gadot-instagram-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Impact', la serie documental de Gal Gadot para visibilizar a mujeres que superan adversidades"
 front: false
 section: "Espectáculos"
-news_id: 184194
+redirect_from: /news/184194
 ---
 
 Luego del éxito que logró con Wonder Woman, Gal Gadot decidió utilizar "mi nueva fama y el alcance que tenía para hacer algo bueno": Impact, una serie documental producida por la actriz para National Geographic en la que ella evitó ser "el centro de la historia". El programa se estrenó el lunes pasado en el canal de YouTube de National Geographic, donde cada semana se mostrará una historia sobre una mujer que ha superado adversidades en su entorno, ya sea el deporte, el activismo LGTBQ o los retos de la crisis climática. 

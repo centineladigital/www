@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Camila Cabello interpreta a Cenicienta, en el remake de uno de los cásicos de Disney. La cantante pone en alto a los latinos en esta película. "
 image: "/uploads/2021/images-camila-cabello-comparte-creditos-billy.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Te decimos dónde y cuándo ver 'Cenicienta', el remake protagonizado por Camila Cabello"
 front: false
 section: "Espectáculos"
-news_id: 187408
+redirect_from: /news/187408
 ---
 
 Cenicienta es uno de los clásicos de Disney, es por eso que se han hecho varios remakes y este 2021, Camila Cabello, quien saltó a la fama por haber formado parte del grupo Fifth Harmony, hace su debut como actriz en la nueva versión de la princesa, que en esta ocasión destaca por ser protagonizada por una latina. 

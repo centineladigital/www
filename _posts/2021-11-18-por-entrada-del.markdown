@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Servicio Meteorológico Nacional dio a conocer que la masa de aire frío que impulsa al sistema provocará vientos fuertes con tolvaneras y un nuevo descenso de temperatura sobre entidades del norte y centro. "
 image: "/uploads/2021/images-se-esperan-temperaturas-muy-bajas_0_28_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por entrada del frente frío 9 prevén heladas en varios estados"
 front: false
 section: "Nacional"
-news_id: 189950
+redirect_from: /news/189950
 ---
 
 El Servicio Meteorológico Nacional informó que tras la entrada sobre la frontera norte de México del frente frió número 9 se prevén temperaturas mínimas de menos cinco grados Centígrados y heladas en zonas montañosas del país.  

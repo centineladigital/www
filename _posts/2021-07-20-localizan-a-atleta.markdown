@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Dejó un mensaje donde manifestaba su deseo de permanecer en Japón y trabajar en este país para dejar atrás las dificultades en su nación de origen."
 image: "/uploads/2021/images-85C7E64A-FBC5-44BB-A685-D827776F1B34.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Localizan a atleta de Uganda que se fugó de la burbuja de los Juegos Olímpicos"
 front: false
 section: "Deportes"
-news_id: 185819
+redirect_from: /news/185819
 ---
 
 La policía nipona anunció hoy que encontró al atleta ugandés que desapareció el pasado viernes tras escapar del alojamiento donde se preparaba para los Juegos Olímpicos de Tokio, incumpliendo la normativa de aislamiento impuesta por los anfitriones. 

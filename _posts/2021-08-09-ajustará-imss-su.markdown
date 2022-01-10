@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El objetivo es fortalecer la atención médica, invertir en conservación y hacer un esfuerzo mayor en infraestructura de Primer Nivel"
 image: "/uploads/2021/images-Foto_348-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ajustará IMSS su Programa de Inversión en Infraestructura"
 front: false
 section: "Local"
-news_id: 186464
+redirect_from: /news/186464
 ---
 
 Ante el incremento del gasto por COVID-19 dentro del Instituto Mexicano del Seguro Social, los consejeros representantes de los sectores obrero y patronal, y el director general del Seguro Social, Maestro Zoé Robledo, acordaron ajustar el Programa de Inversión para fortalecer el Plan Estratégico de Infraestructura a nivel nacional y orientar el esfuerzo presupuestal en la atención médica a pacientes con ésta y otras enfermedades.

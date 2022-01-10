@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se llevará a cabo este viernes 6 de agosto en el Museo Sebastian a las 7:00 pm   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gobierno Municipal te invita a la inauguración “Exposición Colectiva FOMAC 3”"
 front: false
 section: "Local"
-news_id: 186332
+redirect_from: /news/186332
 ---
 
 El Gobierno Municipal a través del Instituto de Cultura te invita a la inauguración de la “Exposición Colectiva FOMAC 3”, que se llevará a cabo este viernes 6 de agosto en el Museo Sebastian a las 7:00 pm.

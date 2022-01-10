@@ -16,11 +16,11 @@ author: nil
 description: "Incito a todos los jóvenes que buscan llegar a ser participantes de los juegos olímpicos a no abandonar sus sueños "
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BV02_BIANCA_RODRIGUEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Bianca Rodríguez busca estar en parís 2024"
 front: false
 section: "Local"
-news_id: 189596
+redirect_from: /news/189596
 ---
 
 La atleta olímpica Bianca Rodríguez manifestó que se está preparando gradualmente con entrenamiento disciplinario para calificar en los juegos olímpicos de Paris 2024 en los que busca ser participe.

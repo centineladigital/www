@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con 25 años de edad, ha logrado un buen recorrido en diversos puestos, que a la fecha, le han dejado muchas satisfacciones y enseñanzas."
 image: "/uploads/2021/images-luis-angel-ramirez-ingreso-multimedios.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Soy muy estricto en lo laboral, Luis Ángel Ramírez, responsable, talentoso y entregado en su trabajo"
 front: false
 section: "Espectáculos"
-news_id: 189352
+redirect_from: /news/189352
 ---
 
 La responsabilidad y la entrega a su trabajo, le ha permitido a Luis Ángel Ramírez Monreal seguir avanzando profesionalmente dentro de la empresa Multimedios Televisión, ya que con 25 años de edad, ha logrado un buen recorrido en diversos puestos, que a la fecha, le han dejado muchas satisfacciones e infinidad de enseñanzas, así lo dio a conocer en entrevista.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La conductora contó que llegó a pensar que era bisexual, razón por la que intentó tener citas románticas con personas de su mismo sexo. "
 image: "/uploads/2021/images-natalia-tellez-revela-cita-romantica_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me dio unos besos -  Natalia Téllez revela cómo fue su cita romántica con una mujer"
 front: false
 section: "Espectáculos"
-news_id: 185217
+redirect_from: /news/185217
 ---
 
 Natalia Téllez se caracteriza por ser una conductora "sin pelos en la la lengua", pues con frecuencia expone episodios de su vida privada que muy pocos conocen, como su fuerte pelea con El Burro Van Rankin. En esta ocasión, la actriz reveló que intentó tener una relación amorosa con una mujer tras terminar con un novio, pues su ruptura le generó problemas al momento de relacionarse con otros hombres. Durante una emisión de Netas Divinas, Natalia Téllez confesó a sus compañeras del programa que años atrás llegó a pensar que era bisexual, esto debido a que cuando salía con hombres no podía evitar aburrirse o quedarse dormida durante la cita.  

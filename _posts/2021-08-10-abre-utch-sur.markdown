@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las y los interesados tendrán todo el mes de agosto para realizar el respectivo proceso; para más información consultar www.utchsur.edu.mx   "
 image: "/uploads/2021/images-Gastronomia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abre UTCH Sur periodo extraordinario de  entrega de fichas para nuevo ingreso"
 front: false
 section: "Local"
-news_id: 186525
+redirect_from: /news/186525
 ---
 
 Bajo el lema “En la UTCH Sur Sí”, la Universidad Tecnológica de Chihuahua Sur, abrió un periodo extraordinario de entrega de fichas para alumnos de nuevo ingreso interesados en cursar algunas de las cuatro carreras que actualmente ofrece y que son: Gastronomía, Mecatrónica, Nanotecnología y Logística.

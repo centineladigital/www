@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Luego de la muerte de un policía, la institución negó que se le halla negado el servicio por falta de pago, pues señalan que la causa de ello fue el abarrotamiento en las instalaciones "
 image: "/uploads/2021/images-Hospital_Palmore.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atravesamos por saturación, canalizan a otros hospitales -  Palmore"
 front: false
 section: "Local"
-news_id: 183890
+redirect_from: /news/183890
 ---
 
 El Sanatorio Palmore, dio a conocer que ante los hechos donde un agente perdió la vida, nunca han negado la atención alguna persona y que incluso canalizan a otras unidades médicas debido a la saturación hospitalaria que mantienen.

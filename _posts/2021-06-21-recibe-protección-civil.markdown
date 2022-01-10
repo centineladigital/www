@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Kepco Energy Service Company apoya herramientas, paquetes de agua y otros materiales para ser distribuidos a las brigadas que atienden los siniestros en el estado"
 image: "/uploads/2021/images-DONATIVO_CONTRA_INCENCIOS__CEPC_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recibe Protección Civil Estatal donativo de equipo  para combate a incendios forestales"
 front: false
 section: "Local"
-news_id: 185145
+redirect_from: /news/185145
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) dio a conocer que recibió equipo para el combate a incendios forestales, donado por Kepco Energy Service Company, lo cual permitirá brindar una mejor atención en beneficio de la comunidad chihuahuense.

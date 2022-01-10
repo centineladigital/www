@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Tras no presentarse en una audiencia, una juez decidió declarar culpable a Laura Bozzo en la demanda que interpusieron contra ella Gabriel Soto e Irina Baeva. "
 image: "/uploads/2021/images-pronto-se-dara-a-conocer.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Laura Bozzo pierde demanda contra Gabriel Soto e Irina Baeva; pronto dictarán sentencia"
 front: false
 section: "Espectáculos"
-news_id: 187912
+redirect_from: /news/187912
 ---
 
 Desde hace unas semanas Laura Bozzo se encuentra en problemas con la justicia mexicana por evasión fiscal, pero eso no es todo, ya que hace un año fue demanda por Gabriel Soto e Irina Baeva, esto después de que la peruana se expresara despectivamente de los actores. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Carichí es el municipio más afectado por el granizo del jueves 13 con la acumulación de cinco centímetros de espesor y filtración de agua en viviendas"
 image: "/uploads/2021/images-CARICHÍ_GRANIZO_MAYO_13_2021_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se mantiene pronóstico de granizo, lluvias y fuertes vientos  para la mayor parte del estado"
 front: false
 section: "Local"
-news_id: 184462
+redirect_from: /news/184462
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que para este viernes 14 de mayo se pronostican lluvias en la mayor parte del estado, que podrían estar acompañadas de actividad eléctrica y caída de granizo.

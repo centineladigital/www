@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Es un espacio para brindar privacidad y comodidad a las madres"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inauguran lactario en instalaciones del CAPPSI para trabajadoras y usuarias"
 front: false
 section: "Local"
-news_id: 191113
+redirect_from: /news/191113
 ---
 
 El Gobierno Municipal de Chihuahua, a través del Centro de Atención y Prevención Psicológicas (CAPPSI), inauguró un lactario dentro de sus instalaciones con el fin de brindar un espacio cómodo y privado para las trabajadoras y usuarias en periodo de lactancia.

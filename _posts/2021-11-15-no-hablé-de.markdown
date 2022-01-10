@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Revelaron la plática que tuvieron el boxeador mexicano y el estadunidense tras su pelea del pasado 6 de noviembre. "
 image: "/uploads/2021/images-caleb-plant-y-saul-alvarez_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“No hablé de tu madre porque yo no tengo una, mi mamá murió” -  Caleb Plant al 'Canelo' Álvarez"
 front: false
 section: "Deportes"
-news_id: 189832
+redirect_from: /news/189832
 ---
 
 La pelea de Saúl Canelo Álvarez ante Caleb Plant generó mucha expectación previo al 6 de noviembre, donde una de las imágenes es aquella conferencia en la que el boxeador mexicano golpea al estadunidense debido a que habló de su madre. 

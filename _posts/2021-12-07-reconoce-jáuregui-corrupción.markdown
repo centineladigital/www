@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que esto se presenta desde administraciones atrás."
 image: "/uploads/2021/images-jauregui.jpg"
 video: "/uploads/2021/videos-MM03_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Reconoce Jáuregui corrupción en área de transporte"
 front: false
 section: "Local"
-news_id: 190601
+redirect_from: /news/190601
 ---
 
 “Indudablemente el área de transporte es una de las áreas donde se tiene esa complicación de siempre” fueron las palabras del Secretario General de Gobierno, César Gustavo Jáuregui Moreno, al ser cuestionado sobre inconformidades de choferes que señalan corrupción por parte de los inspectores del área.

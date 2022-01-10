@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El mensaje que se está dirigiendo a la derechohabiencia es “haga de las manos limpias su hábito; ¡protejámonos todos! y “Ayúdanos a ayudarte: lávate las manos”."
 image: "/uploads/2021/images-Foto_6382-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacita IMSS Chihuahua a pacientes y sus familiares en técnica del correcto lavado de manos "
 front: false
 section: "Local"
-news_id: 191111
+redirect_from: /news/191111
 ---
 
 Con la finalidad de romper cadenas de trasmisión de infecciones, personal de enfermería de diversas unidades hospitalarias del Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, lleva a cabo la promoción de la Campaña Nacional IMSS Higiene de Manos en pacientes hospitalizados y sus familiares. 

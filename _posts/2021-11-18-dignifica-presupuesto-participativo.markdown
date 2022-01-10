@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con una inversión de más de 1 millón 900 mil pesos que beneficiará más de 2 mil alumnas y alumnos"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dignifica Presupuesto Participativo los espacios educativos; Inauguran domo en el Bachi 4"
 front: false
 section: "Local"
-news_id: 189971
+redirect_from: /news/189971
 ---
 
 En el marco de los 100 días de trabajo y resultados, el alcalde, Marco Bonilla, inauguró una techumbre tipo domo en el Colegio de Bachilleres (COBACH) plantel 4, un proyecto ganador del Presupuesto Participativo 2021 en el distrito 15.

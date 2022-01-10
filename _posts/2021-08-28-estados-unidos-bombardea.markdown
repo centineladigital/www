@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente Biden prometió el jueves que su gobierno tomaría venganza contra el Estado Islámico, por el atentado que dejó al menos 13 militares estadounidenses muertos y 169 personas más"
 image: "/uploads/2021/images-eu_ataca_estado_islamico.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estados Unidos bombardea objetivos del grupo Estado Islámico en Afganistán"
 front: false
 section: "Internacional"
-news_id: 187215
+redirect_from: /news/187215
 ---
 
 Estados Unidos bombardeó objetivos del grupo Estado Islámico en Afganistán en represalia por el atentado en el aeropuerto de Kabul.

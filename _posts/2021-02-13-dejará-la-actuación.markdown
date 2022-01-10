@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Sherlyn reveló que hace poco decidió comenzar a estudiar una nueva carrera: Psicología. La actriz mencionó que no dejará la actuación. "
 image: "/uploads/2021/images-sherlin.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Dejará la actuación? Sherlyn revela que comenzó a estudiar Psicología"
 front: false
 section: "Espectáculos"
-news_id: 182910
+redirect_from: /news/182910
 ---
 
 Sin duda el 2021 es un año que será muy bueno para Sherlyn ya que muy pronto regresará a las telenovelas y dará vida a una villana, además de que su hijo André en unos meses cumplirá su primer año de vida. Por si esto fuera poco, la actriz reveló que decidió regresar a clases, ya que empezó a estudiar Psicología. En una entrevista con varios medios, la cual fue retomada por el programa De Primera Mano, Sherlyn contó que se encuentra muy feliz debido a que hace poco comenzó la carrera en Psicología. 

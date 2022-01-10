@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Durante La Mañanera el presidente López Obrador anunció el arranque de la aplicación de terceras dosis de vacuna contra Covid-19 en adultos mayores de 60 años y más en seis entidades federativas"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Ánimo señor presidente, no duele mucho”, gritan a AMLO al recibir refuerzo de vacuna antiCovid"
 front: false
 section: "Nacional"
-news_id: 190570
+redirect_from: /news/190570
 ---
 
 Entre gritos de “ánimo señor presidente, no duele mucho”, el presidente Andrés Manuel López Obrador recibió la dosis de refuerzo de la vacuna contra Covid-19.

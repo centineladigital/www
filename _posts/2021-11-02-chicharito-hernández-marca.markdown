@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El delantero mexicano anotó su gol 15 de la temporada con el cuadro angelino"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chicharito Hernández marca golazo en empate del Galaxy ante el Seattle"
 front: false
 section: "Deportes"
-news_id: 189458
+redirect_from: /news/189458
 ---
 
 En su pugna por un puesto en los playoffs de la liga de fútbol norteamericana (MLS), el Los Angeles Galaxy arañó el lunes un empate 1-1 en la cancha del Seattle Sounders con un gol de Javier 'Chicharito' Hernández.

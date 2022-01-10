@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que él será el primer exgobernador que no salga corriendo del estado."
 image: "/uploads/2021/images-CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM02.mp3"
 alt: "No me he considerado candidato a Presidente de la República -  Corral"
 front: false
 section: "Local"
-news_id: 185629
+redirect_from: /news/185629
 ---
 
 El Gobernador del Estado, Javier Corral Jurado, señaló que no se consideraba para ser abanderado al cargo de Presidente de la Republica, esto luego de las declaraciones del Senador Gustavo Madero que lo posiciona como candidato a este puesto.

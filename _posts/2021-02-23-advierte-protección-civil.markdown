@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los municipios afectados serán Janos, Namiquipa, Guerrero, Guachochi, Chihuahua, Parral, Ciudad Juárez, Buenaventura, Cuauhtémoc y Balleza"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte Protección Civil Estatal rachas de viento  de hasta 45 km/h en la entidad"
 front: false
 section: "Local"
-news_id: 183105
+redirect_from: /news/183105
 ---
 
 Para este martes 23 de febrero la masa de aire asociada al Frente Frío número 37, en interacción con la corriente en chorro, ocasionará rachas de viento que podrían rebasar hasta los 45 kilómetros por hora (km/h), informó la Coordinación Estatal de Protección Civil (CEPC).

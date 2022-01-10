@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Darán seguimiento al caso afirma Javier Corral."
 image: "/uploads/2021/images-JAVIER_CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV05_JAVIER_CORAL.mp3"
 alt: "No hay duda de las firmas del notario -  Gobernador "
 front: false
 section: "Local"
-news_id: 182749
+redirect_from: /news/182749
 ---
 
 Javier Corral Jurado, Gobernador del Estado, señaló que no existe duda de que la firma en el caso de los recibos dentro de la investigación de la nómina es del notario perteneciente a la Notaría número 4, sin embargo, de continuar desconociendo esto tendrá que comparecer.

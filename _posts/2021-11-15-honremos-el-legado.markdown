@@ -18,11 +18,11 @@ author: nil
 description: "Solo así seremos congruentes con la lucha, recordando que la tierra es de quien la trabaja"
 image: "/uploads/2021/images-WhatsApp_Image_2021-11-15_at_10.25.14.jpeg"
 video: "/uploads/2021/videos-BL01_ISMAEL_PEREZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "Honremos  el legado de Coyame trabajando por Chihuahua -  Ismael Pérez Pavía"
 front: false
 section: "Local"
-news_id: 189850
+redirect_from: /news/189850
 ---
 
 El diputado Ismael Pérez Pavía, por la bancada del PAN,  llamó a iniciar una revolución de ideas para sacar adelante a Chihuahua por el bien de las familias, los hijos y las futuras generaciones, pues Coyame es tierra que vio nacer el levantamiento en armas de 1910 y por ende se debe seguir el legado de valentía y esfuerzo.

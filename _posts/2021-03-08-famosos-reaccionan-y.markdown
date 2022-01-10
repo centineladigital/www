@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Comediantes, actores, conductores, políticos y más famosos reaccionan a la muerte de Cepillín, el payasito de la tele. "
 image: "/uploads/2021/images-hijo-cepillin-revela-padre-grave.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Famosos reaccionan y lamentan la muerte de Cepillín; así le dan el último adiós"
 front: false
 section: "Espectáculos"
-news_id: 183327
+redirect_from: /news/183327
 ---
 
 Cepillín, el payasito de la tele, interpretado por Ricardo González Gutiérrez, murió hoy a los 75 años tras ser intubado por una insuficiencia cardíaca. Por ello, como era de esperarse cientos de famosos, amigos y fans se han unido para mandar condolencias a la familia, así como para recordar el legado musical que dejó el cantante y presentador de televisión. Una de las primeras reacciones se dio en el programa Hoy en donde entre lágrimas los conductores dieron a conocer la noticia. Y es que recién inició su emisión, comunicaron que el estado de salud del payasito había empeorado. 

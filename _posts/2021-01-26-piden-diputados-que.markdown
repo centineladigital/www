@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-AM03_DEYANIRA_OZAETA.mp3"
 alt: "Piden diputados que comparezca titular de la Conagua"
 front: false
 section: "Local"
-news_id: 182455
+redirect_from: /news/182455
 ---
 
 La durante sesión de Congreso del Estado se aprobó solicitar a la Cámara de Diputados federal para que se apruebe comparecencia de la titular de Conagua Blanca Jiménez Cisneros ante el Congreso de Chihuahua. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Busca Estado fomentar el conocimiento de los derechos humanos de las mujeres, así como visibilizar, prevenir y atender la violencia en su contra"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacita Ichmujeres a más de 900 personas en octubre"
 front: false
 section: "Local"
-news_id: 189621
+redirect_from: /news/189621
 ---
 
 Durante el mes de octubre personal del Instituto Chihuahuense de las Mujeres (Ichmujeres) impartió 38 sesiones de capacitación a más de 900 personas, entre talleres y conferencias, como parte de las actividades enfocadas en mejorar la atención y servicios, en beneficio de la ciudadanía.

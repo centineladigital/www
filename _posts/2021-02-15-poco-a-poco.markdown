@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Poco a poco se restablece el servicio de energía eléctrica en Chihuahua"
 image: "/uploads/2021/images-CFE.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Poco a poco se restablece el servicio de energía eléctrica en Chihuahua"
 front: false
 section: "Local"
-news_id: 182924
+redirect_from: /news/182924
 ---
 
 En Ciudad Juárez se ha restablecido el servicio de energía eléctrica en un 40 por ciento del municipio, informó Alejandra de la Vega Arizpe, subcoordinadora ejecutiva de gabinete en la zona norte. En algunas otras zonas empieza a restablecerse el servicio. Se reanudan los servicios de recaudación en Juárez y Chihuahua.

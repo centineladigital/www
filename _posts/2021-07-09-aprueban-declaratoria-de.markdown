@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Autoriza Fonden brindar insumos alimentarios, de abrigo y de salud por la lluvia severa registrada el 28 de junio e inundaciones pluviales del 27 al 30 de ese mes."
 image: "/uploads/2021/images-INUNDACIONES_DECLARATORIA_EMERGENCIA_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueban Declaratoria de Emergencia por lluvias e inundación  para el municipio de Chihuahua"
 front: false
 section: "Local"
-news_id: 185514
+redirect_from: /news/185514
 ---
 
 En respuesta a las gestiones realizadas por el Gobierno del Estado de Chihuahua a través de la Coordinación Estatal de Protección Civil (CEPC), fue aprobada una Declaratoria de Emergencia para el municipio de Chihuahua, informó la titular de la dependencia, Ana Gómez Licón.

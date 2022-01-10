@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "De igual forma se autorizaba a la Secretaría de Hacienda modificar el presupuesto de egresos aprobado para el ejercicio fiscal 2021"
 image: "/uploads/2021/images-RGRREGGR.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AJ03_VOTACION_CREDITO.mp3"
 alt: "No logra Javier Corral los votos a favor de su crédito en Congreso"
 front: false
 section: "Local"
-news_id: 182337
+redirect_from: /news/182337
 ---
 
 El dictamen para autorizar el financiamiento de un crédito de mil 898 millones de pesos fue regresado a la Comisión de Programación, Presupuesto y Hacienda, derivado de que  no obtuvo los votos necesarios para su aprobación, ya que solamente 20 legisladores votaron a favor de este.

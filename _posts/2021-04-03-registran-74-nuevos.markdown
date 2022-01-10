@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Secretaría de Salud Chihuahua dio a conocer que también se sumó un deceso en Parral, lo que significa 5 mil 690 fallecimientos en lo que va de la pandemia"
 image: "/uploads/2021/images-REPORTE_COVID_3_DE_ABRIL_2021_(11).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registran 74 nuevos casos confirmados de COVID-19  y suman un total de 59 mil 079 en la entidad"
 front: false
 section: "Local"
-news_id: 183663
+redirect_from: /news/183663
 ---
 
 El reporte técnico de la Secretaría de Salud Chihuahua dio a conocer que se confirmaron 74 nuevos contagios de COVID-19 y un deceso en Parral, lo que significa un total de 59 mil 079 casos y 5 mil 690 fallecimientos en lo que va de la pandemia.

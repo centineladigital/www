@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Meryl Streep ha sido nominada varias ocasiones a los Premios Oscar y es la actriz con más nominaciones, sin embargo, sólo ha ganado tres estatuillas. "
 image: "/uploads/2021/images-meryl-streep-gano-su-primer.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Increíble! Meryl Streep, la actriz con más nominaciones a los Oscar y una de las más premiadas"
 front: false
 section: "Espectáculos"
-news_id: 185163
+redirect_from: /news/185163
 ---
 
 Muy pocas actrices pueden ser reconocidas por su trabajo en los Premios Oscar, una de las ceremonias más importantes del cine, sin embargo, la historia de Meryl Streep con esta premiación es muy singular, ya que aunque ha ganado algunas estatuilla, es la actriz con más nominaciones en la historia de la gala.

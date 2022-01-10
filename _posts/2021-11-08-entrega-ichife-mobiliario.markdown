@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En el plantel también se llevan a cabo obras de remodelación con una inversión superior a los 4 millones de pesos"
 image: "/uploads/2021/images-IMG_6372.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega ICHIFE mobiliario a Escuela Primaria “18 de Julio” en Juárez"
 front: false
 section: "Local"
-news_id: 189654
+redirect_from: /news/189654
 ---
 
 Como parte de la remodelación de la Escuela Primaria “18 de Julio” No.2331, el Instituto Chihuahuense de Infraestructura Física Educativa (ICHIFE) entregó mobiliario diverso para beneficio de 350 alumnas y alumnos de este plantel educativo.

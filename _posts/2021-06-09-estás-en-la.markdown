@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pese a que la cantante siempre se ha mostrado reservada en cuanto a su vida amorosa, Paty Cantú destapó su nuevo romance con el actor Christian Vázquez, quien aseguran es ex de Aislinn Derbez. "
 image: "/uploads/2021/images-paty-cantu-confirma-noviazgo-christian.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estás en la mira -  Paty Cantú anuncia noviazgo con Christian Vázquez; destapan es ex de Aislinn Derbez"
 front: false
 section: "Espectáculos"
-news_id: 184941
+redirect_from: /news/184941
 ---
 
 Paty Cantú, famosa cantante, está estrenando noviazgo con el actor Christian Vázquez. La intérprete de Afortunadamente no eres tú presumió a su nueva pareja en las redes sociales, quien fue también pareja de Aislinn Derbez. Con varias imágenes la famosa demostró lo emocionada que se encuentra en esta nueva etapa y advirtió que quizá se vengan nuevas composiciones musicales. Pese a que la cantante siempre se ha mostrado reservada en cuanto a su vida amorosa, Paty Cantú destapó su nuevo amorío con el actor Christian Vázquez, con quien lleva saliendo más de tres meses. 

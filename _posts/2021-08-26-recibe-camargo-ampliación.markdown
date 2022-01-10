@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El gobernador Javier Corral encabeza un recorrido por los nuevos espacios equipados con tecnología de punta, para mejorar el servicio a l millón de chihuahuenses que cada año solicitan atención médica"
 image: "/uploads/2021/images-RECORRIDO_ENTREGA_AMPLIACIÓN_HOSPITAL_DE_CAMARGO_(19).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recibe Camargo ampliación y remodelación de Hospital General con inversión de casi 70 mdp"
 front: false
 section: "Local"
-news_id: 187156
+redirect_from: /news/187156
 ---
 
 Con una inversión global de casi 70 millones de pesos de recursos estatales, de los cuales 20.9 provienen del Fondo de Reparación Justicia para Chihuahua, el gobernador Javier Corral inauguró la ampliación y remodelación del Hospital General de Camargo.

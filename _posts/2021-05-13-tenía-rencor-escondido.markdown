@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Eugenio Derbez contó lo difícil que fue para Aislinn grabar la primera temporada de De viaje con los Derbez. "
 image: "/uploads/2021/images-eugenio-derbez-revelo-terapia-hija.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tenía rencor escondido -  Eugenio Derbez revela que tomó terapia con su hija Aislinn"
 front: false
 section: "Espectáculos"
-news_id: 184444
+redirect_from: /news/184444
 ---
 
 En el 2019 se estrenó la primera temporada de De viaje con los Derbez, la cual al parecer influyó en que la relación entre Aislinn Derbez y Mauricio Ochmann llegara a su fin, además que la hija mayor del comediante estaba aprendiendo de la maternidad al lado de su hija Kailani. Ahora, Eugenio Derbez reveló que tuvo que tomar terapia con su primogénita. En una entrevista con El gordo y la flaca, Eugenio Derbez recodó cómo fue grabar la primera temporada de su reality show en Marruecos. El comediante señaló que durante ese tiempo Aislinn le mencionó que ya no quería seguir en las grabaciones y deseaba regresar a su casa. 

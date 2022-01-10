@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Su viuda da vida a un libro en el que describe su atribulada relación con el titán del jazz."
 image: "/uploads/2021/images-mignus-y-sue-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Charles Mingus -  “Un genio alimentado por la belleza”"
 front: false
 section: "Espectáculos"
-news_id: 190509
+redirect_from: /news/190509
 ---
 
 En una entrevista realizada en 1998, Sue Graham Mingus describió certeramente la magnificencia de Charles Mingus, uno de los genios del jazz:  “Fue un hombre de grandes apetitos y enormes expresiones que fue capaz de llevar la expresión de su música al mundo. No fue fácil. Tú sabes, pagas un precio por todo, y debes decidir qué precio vale la pena pagar por lo que quieres. Charles quería vivir y ser lo que quería ser: bueno y malo, perverso y hermoso, demonio y santo”. Para su viuda, “él era todo eso, y lo puedes escuchar en su música. Su música tiene rabia y coraje, la ternura y el lirismo de sus baladas, la complejidad y los cambios constantes. Para mí es una música inagotable. Y aunque he estado relacionada con ella desde hace muchos años la escucho todo el tiempo. Hay cosas de las que me canso muy fácilmente, pero no de la música de Charles”.

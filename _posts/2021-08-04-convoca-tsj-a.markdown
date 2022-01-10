@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto será a través de una página."
 image: "/uploads/2021/images-TSJ1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03_GENARO_MOLINA.mp4"
 alt: "Convoca TSJ a presentar su declaración patrimonial"
 front: false
 section: "Local"
-news_id: 186299
+redirect_from: /news/186299
 ---
 
 Será el 15 de agosto cuando concluya el periodo de entrega exhorta Poder Judicial a empleados y empleadas a presentar su declaración patrimonial, según lo dio a conocer Contralor de este organismo judicial, Genaro Molina Frías.

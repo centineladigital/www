@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Miles de personas participan en protestas anticovid en varias ciudades de Alemania, a pesar del riesgo de una tercera ola señalado por las autoridades sanitarias"
 image: "/uploads/2021/images-2544467.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Grupos anticovid desfilan por Alemania, bajo alarma de tercera ola"
 front: false
 section: "Internacional"
-news_id: 183414
+redirect_from: /news/183414
 ---
 
 Varias manifestaciones contra las restricciones por covid-19 reunieron este sábado a miles de personas en varias ciudades alemanas, a pesar del riesgo de una tercera ola señalado por las autoridades sanitarias.

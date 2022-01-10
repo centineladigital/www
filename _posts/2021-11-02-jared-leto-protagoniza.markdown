@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jared Leto es el Dr. Michael Morbius en el tráiler oficial de la película de Sony Pictures sobre el extraño antihéroe mitad vampiro. "
 image: "/uploads/2021/images-jared-leto-michael-morbius-pelicula.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Jared Leto protagoniza 'Morbius' en escalofriante nuevo tráiler de Marvel y Sony"
 front: false
 section: "Espectáculos"
-news_id: 189467
+redirect_from: /news/189467
 ---
 
 Jared Leto se une al Universo Cinematográfico Marvel en el apartado de Sony (responsable de realizar las última sagas de Spiderman y Venom) para interpretar a Morbius, uno de los villanos en los cómics de Spiderman. La distribuidora del filme Sony Pictures dio a conocer la mañana de este martes el tráiler oficial de la película que no verá la luz hasta principios del próximo año. 

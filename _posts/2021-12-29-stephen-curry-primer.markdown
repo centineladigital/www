@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Pese a que Curry hizo historia, los Warriors cayeron 89-86 ante los Nuggets de Denver. "
 image: "/uploads/2021/images-stephen-curry-jugador-nba-llegar_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Stephen Curry, primer jugador de la NBA en llegar a los 3 mil triples"
 front: false
 section: "Deportes"
-news_id: 191299
+redirect_from: /news/191299
 ---
 
 Stephen Curry se convirtió el martes en el primer jugador en la historia de la NBA en llegar a los 3 mil triples en su carrera, en un partido en que sin embargo los Nuggets de Denver superaron 89-86 a los Warriors de Golden State. 

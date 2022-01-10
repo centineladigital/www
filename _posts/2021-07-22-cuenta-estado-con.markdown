@@ -10,11 +10,11 @@ author: nil
 description: "Alrededor de 100 pacientes están siendo atendidos hasta el momento."
 image: "/uploads/2021/images-LETICIA.jpg"
 video: "/uploads/2021/videos-MJ03_LETICIA_RUIZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Cuenta estado con 600 camas COVID"
 front: false
 section: "Local"
-news_id: 185920
+redirect_from: /news/185920
 ---
 
 Un total de 600 camas es con lo que cuenta el estado con el fin de atender a personas que tengan complicaciones por motivo del COVID, fueron las palabras de la Directora de Medicina Preventiva y Promoción de la Salud, Leticia Ruiz González.

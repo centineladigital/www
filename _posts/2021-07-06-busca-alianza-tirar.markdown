@@ -19,12 +19,12 @@ tags:
 author: nil
 description: "En conferencia de prensa, Marko Cortés, Alejandro Moreno y Jesús Zambrano, líderes nacionales de estos partidos respectivamente, coincidieron en que hubo actos irregulares en el proceso electoral"
 image: "/uploads/2021/images-candidatos-de-va-por-mexico.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Busca Alianza tirar elecciones en 4 estados"
 front: false
 section: "Nacional"
-news_id: 185394
+redirect_from: /news/185394
 ---
 
 Los presidentes del PAN, PRI, y PRD acusaron irregularidades en las elecciones a gobernador en San Luis Potosí, Michoacán, Campeche y Guerrero por lo que exigieron la nulidad de dichos procesos. En conferencia de prensa, Marko Cortés, Alejandro Moreno y Jesús Zambrano, líderes nacionales de estos partidos respectivamente, coincidieron en que hubo actos irregulares en el proceso electoral donde presuntamente el crimen organizado estuvo involucrado.

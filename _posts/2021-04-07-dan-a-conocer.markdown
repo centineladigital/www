@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Serán cinco puntos; cuatro peatonales y uno de automóvil."
 image: "/uploads/2021/images-MIRNA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW07_MIRNA_BELTRAN.mp3"
 alt: "Dan a conocer lineamientos de vacunación en Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 183743
+redirect_from: /news/183743
 ---
 
 Cuatro puntos peatonales y un punto vehicular es como iniciará este lunes 12 la campaña de vacunación dentro de Ciudad Juárez, esto en una jornada de 4 días, según lo dio a conocer Mirna Beltrán Arzaga, titular de la Subsecretaría de Prevención y Promoción de la Salud.

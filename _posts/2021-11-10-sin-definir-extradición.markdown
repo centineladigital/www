@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-MW02_ROBERTO_DUARTE.mp4"
 alt: "Sin definir extradición de Duarte -  Fiscal"
 front: false
 section: "Local"
-news_id: 189756
+redirect_from: /news/189756
 ---
 
 Aún no se determina la fecha en la que el exmandatario de Chihuahua será extraditado, afirmó el Fiscal General de Chihuahua Roberto Fierro Duarte, quien también aseveró que se cuentan con otras 14 órdenes más de aprehensión en contra de César Duarte Jáquez. 

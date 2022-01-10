@@ -10,11 +10,11 @@ author: nil
 description: "Cansino busca precalificación ante la OMS."
 image: "/uploads/2021/images-RICARDO.jpg"
 video: "/uploads/2021/videos-MJ03_RICARDO_CORTES.mp4"
-audio: "nil"
+audio: nil
 alt: "No es recomendable otra aplicación de Cansino"
 front: false
 section: "Local"
-news_id: 188738
+redirect_from: /news/188738
 ---
 
 Aún no es recomendable la aplicación de otra dosis de la vacuna Cansino, señaló Ricardo Cortés Alcalá, director General de Promoción de la Salud a nivel nacional, quien fue cuestionado sobre la situación de esta inmunización la cual busca que se dé una precalificación ante la OMS.

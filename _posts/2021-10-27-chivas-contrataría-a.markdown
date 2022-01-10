@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Guadalajara buscará a uno de los goleadores históricos del club para que se convierta en el entrenador de delanteros de la institución, función que hace años realizaba Salvador Reyes (qepd)"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chivas contrataría a Omar Bravo como entrenador de delanteros"
 front: false
 section: "Deportes"
-news_id: 189235
+redirect_from: /news/189235
 ---
 
 Preocupados por la poca productividad que han tenido los delanteros del equipo, en el Guadalajara piensan revivir una vieja práctica que les dio resultados en otros momentos.

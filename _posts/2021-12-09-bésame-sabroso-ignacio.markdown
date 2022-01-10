@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ignacio López Tarso recordó que para grabar esa escena con María Félix estaba muy nervioso, pero que la actriz le dio confianza. "
 image: "/uploads/2021/images-el-actor-dijo-que-se-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Bésame sabroso -  Ignacio López Tarso recuerda cómo fue grabar escena de sexo con María Félix"
 front: false
 section: "Espectáculos"
-news_id: 190672
+redirect_from: /news/190672
 ---
 
 Con el paso de los años, Ignacio López Tarso ha logrado destacar en la actuación, convirtiéndolo en uno de los primeros actores de México. El histrión tuvo la oportunidad de participar en películas del Cine de Oro Mexicano y trabajar al lado de importantes actrices como María Félix, con quien realizó una escena de cama. Recientemente Ignacio López Tarso acudió al programa Montse & Joe en donde recordó que se enamoró de María Félix, además que también habló sobre la ocasión que para una película tuvo que grabar una escena de sexo con La Doña. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La agrupación mostró un despliegue de talento que emocionó tanto al público presente como a los seguidores por redes sociales, ya que se transmitió en tiempo real"
 image: "/uploads/2021/images-IMG_1820.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ofrece concierto navideño la Orquesta Sinfónica Juvenil del COBACH"
 front: false
 section: "Local"
-news_id: 190716
+redirect_from: /news/190716
 ---
 
 El Colegio de Bachilleres del Estado de Chihuahua (COBACH) llevó a cabo el magno concierto navideño 2021 de la Orquesta Sinfónica Juvenil, bajo la dirección del maestro Gil Rodrigo Ruiz Juárez.

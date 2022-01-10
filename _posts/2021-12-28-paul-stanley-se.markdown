@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El conductor se sometió a un doloroso tratamiento estético, sus compañeros como Arath de la Torre y Raúl Araiza quedaron sorprendidos por el procedimiento. "
 image: "/uploads/2021/images-paul-stanley-mostro-doloroso-tratamiento_1_0_1045_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Paul Stanley se somete a inyecciones de testosterona en 'Hoy'; así reaccionó al doloroso tratamiento"
 front: false
 section: "Espectáculos"
-news_id: 191284
+redirect_from: /news/191284
 ---
 
 Como es costumbre, en el programa Hoy invitan a especialistas que hablan sobre diferentes tratamientos que las personas se pueden realizar para mejorar su apariencia física y en esta ocasión acudió una profesional para explicar los beneficios que tienen las inyecciones de testosterona, algo a lo que Paul Stanley se sometió. En un fragmento del programa Paul Stanley se sometió a un tratamiento que consistía en inyectarse testosterona, de acuerdo con la especialista, esto beneficia a los hombres a tener mayor energía, mejor rendimiento sexual, entre otros beneficios, ya que aseguró que a partir de los 35 años se pierden ciertas hormonas. 

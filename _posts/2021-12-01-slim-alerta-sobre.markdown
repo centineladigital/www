@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Durante la XXVI Reunión Plenaria de la Fundación Círculo de Montevideo, el empresario llamó a mantener la división de poderes en las democracias para un desarrollo cada vez mayor"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Slim alerta sobre reelección indefinida; pide no caer como Venezuela"
 front: false
 section: "Nacional"
-news_id: 190373
+redirect_from: /news/190373
 ---
 
 El empresario mexicano Carlos Slim ha hecho un llamamiento a "mantener la división de poderes" para garantizar que los países "tengan un desarrollo cada vez mayor". De este modo, ha recalcado que la democracia "participativa, electoral, representativa y con libertad" es "el mejor sistema".  

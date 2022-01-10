@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Durante la sesión se llevó a cabo la toma de protesta a las y los regidores que integrarán el Ayuntamiento de la nueva administración municipal"
 image: "/uploads/2021/images-01658600-BBBF-41F9-AA1E-B158296B33A8.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rinde protesta Marco Bonilla como presidente municipal"
 front: false
 section: "Local"
-news_id: 187641
+redirect_from: /news/187641
 ---
 
 En sesión solemne de Cabildo, la cual tuvo lugar en el Centro de Convenciones, el licenciado Marco Antonio Bonilla Mendoza rindió protesta la noche de este 10 de septiembre como Presidente Municipal de Chihuahua por el período 2021-2024. 

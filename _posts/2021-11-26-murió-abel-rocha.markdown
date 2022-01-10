@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fue a través de Twitter en donde Lalo Garza informó que la inigualable voz de Sheng Long en ‘Dragon Ball’ ya no nos acompañaría más. "
 image: "/uploads/2021/images-muere-actor-doblaje-abel-rocha.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Abel Rocha, actor de doblaje, que dio voz a Sheng-long en ‘Dragon Ball’"
 front: false
 section: "Espectáculos"
-news_id: 190260
+redirect_from: /news/190260
 ---
 
 Abel Rocha, figura en el mundo del doblaje, que dio voz a Sheng Long en ‘Dragon Ball’ murió, así lo dio a conocer el también actor de doblaje Eduardo Garza. Te contamos quién fue este grande y por qué marcó la vida de la televisión mexicana. Fue a través de Twitter en donde Lalo Garza informó que la inigualable voz de Sheng Long en ‘Dragon Ball’ ya no nos acompañaría más. Esto sin detallar los motivos de su fallecimiento. “Se nos adelantó mi querido Abelito, la única e inigualable voz de Shenlong en DBZ. Ya descansas en paz, amigo”, escribió el actor de doblaje. 

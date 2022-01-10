@@ -10,11 +10,11 @@ author: nil
 description: "Han perdido la vida siete mil 632 personas."
 image: "/uploads/2021/images-arton21637.jpg"
 video: "/uploads/2021/videos-MW04_GUMARO_BARRIOS.mp4"
-audio: "nil"
+audio: nil
 alt: "Llega estado a 71 mil 269 casos COVID"
 front: false
 section: "Local"
-news_id: 185672
+redirect_from: /news/185672
 ---
 
 Un total de 71 mil 269 personas han sido contagiadas de coronavirus desde el inicio de la pandemia y 7 mil 632 personas han fallecido según lo dio a conocer el titular del área de epidemiología Gumaro Barrios Gallegos.

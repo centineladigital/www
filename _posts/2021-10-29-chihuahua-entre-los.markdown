@@ -10,11 +10,11 @@ author: nil
 description: "Buscan frenar violencia de género."
 image: "/uploads/2021/images-MARGARITA.jpg"
 video: "/uploads/2021/videos-MV02_MARGARITA_BLACKALLER.mp4"
-audio: "nil"
+audio: nil
 alt: "Chihuahua entre los cinco primeros lugares de homicidios a mujeres"
 front: false
 section: "Local"
-news_id: 189378
+redirect_from: /news/189378
 ---
 
 El estado se encuentra entre los cinco primeros lugares con casos de homicidios en contra de las mujeres, señaló Margarita Blackaller Prieto, titula del Instituto Chihuahuense de la Mujer. Ya que según los datos de la Fiscalía del Estado se tiene un registro de 265 casos de homicidios desde el inicio del año hasta el mes de octubre.

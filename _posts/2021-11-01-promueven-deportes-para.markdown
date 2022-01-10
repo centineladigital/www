@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Chihuahua Capital fue anfitrión del encuentro estatal; y fue sede para definir el preselectivo al torneo nacional en Oaxaca"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Promueven deportes para personas con discapacidad visual en Gimnasio de Deporte Adaptado"
 front: false
 section: "Local"
-news_id: 189440
+redirect_from: /news/189440
 ---
 
 El Gimnasio de Deporte Adaptado fue sede del encuentro estatal de Goalball, deporte paralímpico que convocó a hombres y mujeres con discapacidad visual, provenientes de cuatro municipios, siendo la ciudad de Chihuahua el anfitrión del evento, el cual sirvió para definir el preselectivo rumbo al torneo nacional en Oaxaca, el próximo 6 de diciembre.

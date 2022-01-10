@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Gobernador  aseguró que su administración rinde cuentas y finca su eficacia en el consenso social que busca constantemente el bien común"
 image: "/uploads/2021/images-DAH_2912.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Somos un Gobierno transparente y responsable en el manejo financiero -  Javier Corral"
 front: false
 section: "Local"
-news_id: 182657
+redirect_from: /news/182657
 ---
 
 “Hemos cumplido el compromiso de ser Gobierno comprometido con el Estado de Derecho, que combate frontalmente la corrupción hasta donde tope y que establece mecanismos claros para evitarla”, declaró el gobernador Javier Corral Jurado, al abordar el rubro de Transparencia y Gobierno Responsable, durante su 4º Informe de Gobierno.

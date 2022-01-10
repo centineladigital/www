@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "La director regional de la OMS para África, Matshidiso Moeti, indicó el jueves durante una rueda de prensa que se estaban preparando 11 mil dosis en Ginebra, y que se enviarían 8 mil 600 dosis más desde Estados Unidos"
 image: "/uploads/2021/images-2531714.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Guinea recibirá más de 11 mil vacunas contra el ébola"
 front: false
 section: "Internacional"
-news_id: 183005
+redirect_from: /news/183005
 ---
 
 Unas 11 mil vacunas contra el ébola llegarían a Guinea el fin de semana, una cifra que seampliaría más adelante, y las campañas de inoculación podríancomenzar el lunes, dijeron la Organización Mundial de la Salud y un funcionario del Ministerio de Salud de Guinea.

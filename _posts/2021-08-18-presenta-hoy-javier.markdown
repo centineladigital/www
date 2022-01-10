@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El evento se transmitirá a las 19:00 horas por todas las plataformas digitales de Gobierno del Estado; el mandatario hizo una primera presentación de rendición de cuentas el pasado lunes en Ciudad Juárez   "
 image: "/uploads/2021/images-Invitación_V_Informe_Chihuahua.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presenta hoy Javier Corral su Quinto Informe de Gobierno en Chihuahua   "
 front: false
 section: "Local"
-news_id: 186833
+redirect_from: /news/186833
 ---
 
 Hoy a las 19:00 horas, el gobernador Javier Corral rendirá cuentas a las y los chihuahuenses, ante quienes presentará el Quinto Informe de Gobierno, en el cual detallará el legado de los 5 años de su Administración.

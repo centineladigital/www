@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Águilas y universitarios definen este sábado al primer semifinalista del Apertura 2021 "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "América vs Pumas -  ¿Cuándo y dónde ver el juego de vuelta?"
 front: false
 section: "Deportes"
-news_id: 190266
+redirect_from: /news/190266
 ---
 
 El primer semifinalista saldrá el sábado del Estadio Azteca donde el América, que fue líder de la competencia, necesitaría un nuevo empate con los Pumas para avanzar.

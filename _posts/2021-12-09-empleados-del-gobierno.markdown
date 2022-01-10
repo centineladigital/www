@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Panelistas expertos imparten capacitación para aportar acciones que ayuden erradicar esas prácticas   "
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Empleados del Gobierno Municipal, comprometidos en combatir la corrupción"
 front: false
 section: "Local"
-news_id: 190678
+redirect_from: /news/190678
 ---
 
 El Gobierno Municipal, a través del Órgano Interno de Control, impartió un curso de capacitación en el marco del Día Internacional de Combate a la Corrupción, titulado "Los retos de la lucha contra la Corrupción, en un contexto de Pandemia”, enfocado a funcionarios públicos.

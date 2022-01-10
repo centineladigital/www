@@ -10,11 +10,11 @@ author: nil
 description: "Se encuentran de delicadas a graves."
 image: "/uploads/2021/images-VITTORIO.jpg"
 video: "/uploads/2021/videos-MJ01_VITTORIO.mp4"
-audio: "nil"
+audio: nil
 alt: "El 90 por ciento de los hospitalizados no se vacunaron"
 front: false
 section: "Local"
-news_id: 190679
+redirect_from: /news/190679
 ---
 
 El 90 por ciento de las personas que se encuentran internos en el hospital Central no se vacunaron, declaró el director de este nosocomio Vittorio Humberto Vigna Llamas. Esto al dar a conocer que actualmente se tienen en atención a 28 personas en atención.

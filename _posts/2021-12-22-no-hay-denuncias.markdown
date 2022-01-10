@@ -16,11 +16,11 @@ author: nil
 description: "Se especula tiene al menos 4 denuncias "
 image: "/uploads/2021/images-index.jpg"
 video: "/uploads/2021/videos-_BW06_ISHTAR_IBARRA_.mp4"
-audio: "nil"
+audio: nil
 alt: "No hay denuncias de acoso en contra de mi esposo -  Ibarra "
 front: false
 section: "Local"
-news_id: 191127
+redirect_from: /news/191127
 ---
 
 La regidora Ishtar Ibarra aseguró que no existen denuncias por acoso sexual hacia su esposo y subdelegado de bienestar Luis Fernando Duarte González, señaló que son puros chismes y habladurías de la gente.

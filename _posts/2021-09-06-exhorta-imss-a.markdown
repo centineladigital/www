@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se han dispuesto medidas para que pacientes retomen sus chequeos y consultas en las UMF con seguridad y sin riesgo de contagiarse"
 image: "/uploads/2021/images-Foto_391-4.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta IMSS a personas con diabetes a recibir vacuna contra COVID-19 y continuar medidas de prevención"
 front: false
 section: "Local"
-news_id: 187464
+redirect_from: /news/187464
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) exhorta a la población mayor de 18 años de edad, en particular a personas con diabetes y factores de riesgo, a recibir la vacuna contra COVID-19 y asegurarse de contar con el esquema completo, ya que en caso de contraer el virus se reduce el riesgo de complicaciones y fallecimiento. 

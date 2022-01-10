@@ -13,12 +13,12 @@ tags:
 author: nil
 description: " Se confirman en Juárez, Chihuahua, Cuauhtémoc, Guachochi, Bocoyna, Saucillo, Madera y Janos."
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-21_at_13.27.48.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 25 nuevos contagios de COVID-19 en el estado "
 front: false
 section: "Local"
-news_id: 187917
+redirect_from: /news/187917
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 21 de Septiembre se tiene un total general de 77 mil 245 contagios en el estado. Luego de confirmarse otros 25 más en Juárez, Chihuahua, Cuauhtémoc, Guachochi, Bocoyna, Saucillo, Madera y Janos.

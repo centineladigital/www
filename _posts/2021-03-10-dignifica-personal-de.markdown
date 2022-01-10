@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El director del instituto, Zoé Robledo, destaca reconocimiento del Senado a estos profesionales; gobernador de Durango, José Rosas Aispuro, los felicita por su labor"
 image: "/uploads/2021/images-2542945.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dignifica personal de enfermería atención a pacientes Covid -  IMSS"
 front: false
 section: "Nacional"
-news_id: 183370
+redirect_from: /news/183370
 ---
 
 El director general del Instituto Mexicano del Seguro Social (IMSS), Maestro Zoé Robledo reconoció la labor del personal de enfermería del Instituto que está en la primera línea de atención a la pandemia, y que a través de su esfuerzo y liderazgo han hecho de ésta una profesión más humana y digna.

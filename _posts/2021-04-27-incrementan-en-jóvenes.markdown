@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Nuevas cepas cuadruplican tasas de mortalidad en menores de 39 años y en el grupo de 40 a 49 años, muestran estudios comparativos de 2020 y 2021 en Brasil, advierten autoridades de la Secretaría de Salud"
 image: "/uploads/2021/images-IMG_1463.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Incrementan en jóvenes contagios por COVID-19 en la entidad"
 front: false
 section: "Local"
-news_id: 184138
+redirect_from: /news/184138
 ---
 
 La subdirectora de Medicina Preventiva y Promoción de la Salud de la Secretaría de Salud, Wendy Ávila Coronado, dio a conocer que las nuevas cepas del coronavirus se contagian con mayor facilidad porque en la proteína “S” de lo que es el recubrimiento del virus tienen una especie de ancla, lo que facilita que se adquiera la enfermedad y cada vez con mayor frecuencia por personas jóvenes, y ya no solamente los adultos mayores.

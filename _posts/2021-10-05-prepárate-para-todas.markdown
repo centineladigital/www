@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal te invita a disfrutar del 12 al 23 de octubre"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prepárate para todas las sorpresas y novedades del FICUU 2021"
 front: false
 section: "Local"
-news_id: 188387
+redirect_from: /news/188387
 ---
 
 Con el propósito de festejar los 312 años de la fundación de la ciudad de Chihuahua el Gobierno Municipal a través del Instituto de Cultura te invita a disfrutar de las actividades que tendrá el Festival Internacional de Chihuahua “FICUU 2021” del 12 al 23 de octubre.

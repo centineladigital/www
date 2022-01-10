@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal ofrece terapia física y rehabilitación sin costo"
 image: "/uploads/2021/images-unnamed_(9).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Centro Municipal de Equinoterapia mejora calidad de vida de personas con discapacidad"
 front: false
 section: "Local"
-news_id: 189210
+redirect_from: /news/189210
 ---
 
 Con la finalidad de mejorar la calidad de vida de las personas con discapacidad, el Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, ofrece terapia física y rehabilitación sin costo en el Centro Municipal de Equinoterapia.

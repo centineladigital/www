@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El lanzador venezolano recibe la confianza del manager para liquidar la serie contra Boston"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Astros se la jugarán con lanzador novato rumbo a la Serie Mundial"
 front: false
 section: "Deportes"
-news_id: 189061
+redirect_from: /news/189061
 ---
 
 El manager de los Astros, Dusty Baker, le renovó su confianza al novato venezolano Luis García para que abra el sexto juego de la serie contra Boston por el banderín de la Liga Americana. García abrió el segundo juego y cedió un grand slam en el primer inning. Fue relevado en la segunda entrada, con molestias en la rodilla derecha.

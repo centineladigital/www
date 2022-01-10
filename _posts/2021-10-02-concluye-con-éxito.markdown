@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La funcionaria destacó que anteriormente, la carencia de agua de lluvia, provocó que las presas del estado no tuvieran recurso hídrico suficiente para sustentar las tierras agrícolas y ganaderas"
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-02_at_12.23.06.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Concluye con éxito programa de estimulación pluvial para el estado de Chihuahua"
 front: false
 section: "Local"
-news_id: 188328
+redirect_from: /news/188328
 ---
 
 En el marco de la clausura del Programa de Estimulación de Lluvias de la Comisión Nacional de las Zonas Áridas (CONAZA), el Gobierno del Estado, a través de la Secretaría de Desarrollo Rural, presentó los resultados obtenidos con este programa en las zonas en las que se tiene el mayor problema de sequía.

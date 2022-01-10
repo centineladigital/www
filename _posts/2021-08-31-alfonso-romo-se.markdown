@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Minutos después, el presidente López Obrador salió por la Puerta de Honor de Palacio Nacional en su Jetta blanco, portando una gorra y una chamarra de la Selección Mexicana de Beisbol "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alfonso Romo se reúne con AMLO a unas horas del Tercer Informe de Gobierno"
 front: false
 section: "Nacional"
-news_id: 187291
+redirect_from: /news/187291
 ---
 
 Esta mañana, a unas horas de que presente su Tercer Informe de Gobierno, el presidente Andrés Manuel López Obrador se reunió en Palacio Nacional con Alfonso Romo, extitular de la Oficina de Presidencia de la República.

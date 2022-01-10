@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante mexicana sorprendió a sus fans con sensuales fotografías en las que muestra un increíble look. "
 image: "/uploads/2021/images-thalia-sorprende-con-fotos-en_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con guantes de látex y en lencería -  Thalía sorprende en Instagram con increíble look"
 front: false
 section: "Espectáculos"
-news_id: 190143
+redirect_from: /news/190143
 ---
 
 Sin duda, las redes sociales son un gran aliado de los famosos que buscan permanecer en contacto con sus fans. Así ha sido en el caso de Thalía, quien siempre presume su jovial apariencia luciendo atuendos que dejan sin palabras a los internautas. En esta ocasión decidió sorprender a sus seguidores subiendo una serie de sensuales fotografías en las que posó en lencería y mostrando otro increíble look.  La actriz mexicana, quien saltó a la fama tras protagonizar la trilogía de Las Marías, recurrió a su cuenta de Instagram para compartir con los internautas uno de sus outfits favoritos: un conjunto de lencería que delinea a la perfección su torneada figura y dejar entrever su pequeña cintura, la cual ha sido motivo de múltiples teorías en internet. 

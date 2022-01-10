@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Modesto López estrenó hoy en la Cineteca Nacional el documental que cuenta la historia de la intérprete de El barzón."
 image: "/uploads/2021/images-documental-amparo-ochoa-disponible-salas.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Encanta Amparo Ochoa en el cine"
 front: false
 section: "Espectáculos"
-news_id: 188293
+redirect_from: /news/188293
 ---
 
 Que el público recuerde quién fue Amparo Ochoa, este fue el motivo por el cual Modesto López, amigo cercano de la intérprete, se aventuró a reunir testimonios y recopilar información, materiales de archivo e inéditos para filmar “Amparo Ochoa, se me reventó el barzón”, un documental que desde hoy se puede ver en la Cineteca Nacional. “Nos unió una amistad de muchos años con la familia y de viajes que hicimos juntos, ella es una de las cantantes importantes de la canción popular y había que difundir su historia un poco más. El documental arranca con la historia de su infancia, con un contexto social y cultural de su niñez, de su familia en su natal Sinaloa”, dijo a M2 Modesto López. 

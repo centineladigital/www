@@ -14,11 +14,11 @@ author: nil
 description: "Chihuahua aporta el 42% de sus recursos para obras en el municipio"
 image: "/uploads/2021/images-descarga.jpg"
 video: "/uploads/2021/videos-BL03_AMANDA_CÓRDOBA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Chihuahua solo recibe 58% de ingresos federales "
 front: false
 section: "Local"
-news_id: 189172
+redirect_from: /news/189172
 ---
 
 Solo recibimos el 58% de recursos federales, Chihuahua aporta el 42% de sus recursos para obras en el municipio, así lo mencionó la tesorera municipal Amanda Córdoba, quien aseguró que Chihuahua está a la inversa en comparación con otros gobiernos los cuales trabajan en su mayoría con recursos de la federación aportando únicamente el 16% de sus recursos.

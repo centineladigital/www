@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La temática de la ‘familia G’, a la que pertenece este billete, destaca los procesos históricos del país y su riqueza natural."
 image: "/uploads/2021/images-JJKV5PHI4BBIDCEI7CNYY7HSKI.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nuevo billete de 20 pesos -  Banxico ‘celebra’ Consumación de la Independencia"
 front: false
 section: "Nacional"
-news_id: 188050
+redirect_from: /news/188050
 ---
 
 El Banco de México (Banxico) puso en circulación este viernes el nuevo billete de 20 pesos que conmemora el Bicentenario de la Consumación de la Independencia.

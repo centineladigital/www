@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los CDC informaron que al menos 129 personas han sido hospitalizadas por salmonelosis; autoridades rastrearon el brote a cebollas rojas, blancas y amarillas importadas desde Chihuahua"
 image: "/uploads/2021/images-cebollas_ap_archivo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vinculan brote de salmonelosis en EU a cebollas cultivadas en México"
 front: false
 section: "Local"
-news_id: 189015
+redirect_from: /news/189015
 ---
 
 Un brote de salmonelosis en Estados Unidos vinculado con cebollas cultivadas en México ha enfermado a más de 650 personas en 37 estados, informaron las autoridades de salud.

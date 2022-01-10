@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Durante una breve ceremonia, se reconoció al personal que labora en la dependencia y se guardó un minuto de silencio en memoria del comandante Jorge Ricardo Pedrueza, quien perdiera la vida víctima de COVID-19  "
 image: "/uploads/2021/images-2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Entregan uniformes nuevos a personal de la Dirección de Transporte"
 front: false
 section: "Local"
-news_id: 186362
+redirect_from: /news/186362
 ---
 
 Personal de la Dirección de Transporte del Estado de las regiones de Chihuahua y Ciudad Juárez, recibió de forma simbólica la dotación de nuevos uniformes en apoyo a su desempeño.

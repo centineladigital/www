@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El ex vocalista de la Banda El Recodo, El Mimoso, es acusado de no hacerse responsable de una supuesta hija y de agredir a la madre de la niña. "
 image: "/uploads/2021/images-el-cantante-respondio-a-las.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acusan al 'Mimoso' de no hacerse cargo de supuesta hija; el cantante responde"
 front: false
 section: "Espectáculos"
-news_id: 182821
+redirect_from: /news/182821
 ---
 
 El cantante de regional mexicano, El Mimoso, está envuelto en la polémica después de que una mujer de nombre Jessenia Cundapi diera a conocer que tiene una hija de el ex integrante de la Banda El Recodo, de la cual no se ha hecho cargo Luis Antonio López, nombre del exitoso cantante. 

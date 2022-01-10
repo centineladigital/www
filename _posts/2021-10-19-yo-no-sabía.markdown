@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante compartió con Karla Díaz cómo fue que vivió todo el proceso de selección para entrar al reality musical. "
 image: "/uploads/2021/images-yuridia-posa-traje-bano-foto.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Yo no sabía actuar -  Yuridia revela que fingió estar feliz al quedar seleccionada en 'La Academia'"
 front: false
 section: "Espectáculos"
-news_id: 188905
+redirect_from: /news/188905
 ---
 
 Yuridia es una de las mujeres más influyentes en la música mexicana en la actualidad, y es considerada por sus fans como una de las mejores voces de México; sin embargo, la cantante reveló en el programa Pinky Promise, que tras quedar seleccionada en La Academia tuvo que fingir que estaba feliz, pues no sabía si realmente quería participar en el reality musical que la llevó a la fama. Y es quela cuarta generación de La Academia alcanzó gran popularidad, dejando a su paso personalidades como Cynthia Rodríguez, Jolette y Yuridia. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Tras persecución fueron detenidos los dos tripulantes"
 image: "/uploads/2021/images-Edgar_y_David.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detectan con cámaras PECUU auto con reporte de robo en el Centro"
 front: false
 section: "Local"
-news_id: 186217
+redirect_from: /news/186217
 ---
 
 Derivado del constante monitoreo que se realiza a través de las cámaras de la Plataforma Escudo Chihuahua, elementos de la Policía Municipal detectaron un vehículo con reporte de robo que circulaba por calles del Centro de la ciudad, el cual luego de una persecución pudo ser asegurado junto con los 2 tripulantes que viajaban en él.

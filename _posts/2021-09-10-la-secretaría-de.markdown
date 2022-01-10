@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En cuanto a los decesos, el reporte técnico registra un total de 7 mil 853 (+8) decesos, de los cuales 3 son de Parral, 3 de Jiménez y 1 en Bocoyna."
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-10_at_12.09.26.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La Secretaría de Salud del Estado de Chihuahua reporta un total de 76 mil 505"
 front: false
 section: "Local"
-news_id: 187620
+redirect_from: /news/187620
 ---
 
 Con corte a las 7 horas del 10 de septiembre del 2021, la Secretaría de Salud del Estado de Chihuahua reporta un total de 76 mil 505 (+105) casos confirmados de Covid-19 en el estado de Chihuahua, casos recuperados de Covid-19 65 mil 565 (+93), 61,616 (+525) descartados y 835 (+47) sospechosos.

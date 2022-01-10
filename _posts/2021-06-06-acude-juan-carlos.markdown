@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El candidato a la gubernatura por Morena, hizo un llamado a una elección en calma y a que se desarrolle con legalidad"
 image: "/uploads/2021/images-Loera_votando.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Acude Juan Carlos Loera a ejercer su voto en Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 184865
+redirect_from: /news/184865
 ---
 
 Juan Carlos Loera de la Rosa acudió a emitir su voto esta mañana en la casilla 1677, básica, ubicada en la calle San Gerónimo número 1438, del fraccionamiento San Ángel.

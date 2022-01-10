@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El conjunto del Tuca Ferretti sumó su tercera victoria como local en la Liga MX y frenó el buen momento de los Rayados "
 image: "/uploads/2021/images-juarez-vs-monterrey-imago_0_7_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Juárez sorprende y derrota 3-1 a Monterrey"
 front: false
 section: "Deportes"
-news_id: 188311
+redirect_from: /news/188311
 ---
 
 La imagen de Hugo González festejando moviendo el brazo con el puño cerrado representó el acabose de una noche trágica para el Monterrey. Porque, quizá el partido en donde menos se esperaba presentar una imagen negativa, sucedió lo ilógico y se vio una decepcionante edición del escuadrón de Javier Aguirre. 

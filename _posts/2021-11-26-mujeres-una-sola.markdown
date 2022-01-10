@@ -16,11 +16,11 @@ author: nil
 description: "Las ponentes del evento fueron la senadora Kenia López Rabadán, la magistrada Julia María del Carmen García González y la licenciada Aurora Espina Vergara"
 image: "/uploads/2021/images-conve.jpg"
 video: "/uploads/2021/videos-BV03_CONVERSATORIO_ES_MUSICA_.mp4"
-audio: "nil"
+audio: nil
 alt: "“Mujeres una sola voz “"
 front: false
 section: "Local"
-news_id: 190250
+redirect_from: /news/190250
 ---
 
 El Instituto Municipal de las Mujeres (IMM), realizó el conversatorio “Mujeres una sola voz”, como parte de las actividades del mes de noviembre para la conmemoración del Día Internacional para la Eliminación de la Violencia contra las Mujeres.

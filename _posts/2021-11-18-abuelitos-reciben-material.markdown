@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal atendió el llamado de la ciudadanía para apoyar a los adultos mayores"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Abuelitos reciben material de construcción para reparar techo de su vivienda"
 front: false
 section: "Local"
-news_id: 189968
+redirect_from: /news/189968
 ---
 
 Una pareja de abuelitos de la colonia Industrial, recibió un paquete de material de construcción por parte del Gobierno Municipal, para reparar el techo de su vivienda que colapsó en días pasados.

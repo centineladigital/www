@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se reúne Consejo Directivo del proyecto y propone impulsar la economía local en base a la resiliencia, conocimiento, innovación, digitalización, emprendimiento y sostenibilidad"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_15.54.31.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con “Chihuahua Futura” refuerza Secretaría de Educación y Deporte vinculación con el sector empresarial"
 front: false
 section: "Local"
-news_id: 188164
+redirect_from: /news/188164
 ---
 
 En el marco de la reunión trimestral del Consejo Directivo del proyecto “Chihuahua Futura”, la Secretaría de Educación y Deporte (SEyD) en coordinación con universidades públicas y privadas, reiteró el compromiso de fortalecer la vinculación con el sector empresarial para consolidar acciones concretas que contribuyan a la conformación de una mejor ciudad.

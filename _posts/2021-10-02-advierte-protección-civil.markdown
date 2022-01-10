@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Municipios de la región serrana llegarán hasta un grado centígrado como mínima para este fin de semana "
 image: "/uploads/2021/images-WhatsApp_Image_2021-10-02_at_10.47.31.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte Protección Civil sobre lluvias en el estado y caida de nieve en partes altas de la Sierra"
 front: false
 section: "Local"
-news_id: 188326
+redirect_from: /news/188326
 ---
 
 El Gobierno del Estado, a través de la Coordinación Estatal de Protección Civil (CEPC) emitió un aviso preventivo por lluvias en gran parte del estado y bajas temperaturas sobre la zona serrana que se presentarán durante este sábado y domingo.

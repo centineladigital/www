@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con la resolución al recurso promovido por el Ayuntamiento de Cuauhtémoc en 2019, se da plena validez y legalidad al Plan del Ejecutivo, informa la Consejería Jurídica del Estado  "
 image: "/uploads/2021/images-_DSC0636.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Declara SCJN improcedente Controversia Constitucional contra Plan Estatal de Inversión"
 front: false
 section: "Local"
-news_id: 186410
+redirect_from: /news/186410
 ---
 
 La Suprema Corte de Justicia de la Nación (SCJN), sobreseyó la Controversia Constitucional 312/2019 interpuesta por el Ayuntamiento de Cuauhtémoc, en contra de las obras del Plan Estatal de Inversión 2019-2021 del Gobierno del Estado de Chihuahua.

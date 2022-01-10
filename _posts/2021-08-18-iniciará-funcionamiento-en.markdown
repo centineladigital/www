@@ -10,11 +10,11 @@ author: nil
 description: "Por orden judicial no inicia funcionamiento, será hasta que ésta concluya."
 image: "/uploads/2021/images-ANTONIO.jpg"
 video: "/uploads/2021/videos-MW04_ANTONIO_FERNANDEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Iniciará funcionamiento en seis meses aeropuerto de Creel"
 front: false
 section: "Local"
-news_id: 186851
+redirect_from: /news/186851
 ---
 
 El aeropuerto de la ciudad de Creel pudiera iniciar funcionamiento en seis meses, afirmó  Antonio Fernández, titular de la Secretaría de Innovación y Desarrollo Económico, quien señaló que las instalaciones cuentan con un avance de un 98 por ciento  de forma general.

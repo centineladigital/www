@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con fin de que les sean útiles para transportarse y les facilite las actividades que diariamente realizan."
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Regalan policías DARE bicicletas a jóvenes de escasos recursos"
 front: false
 section: "Local"
-news_id: 181959
+redirect_from: /news/181959
 ---
 
 Gracias a las gestiones y actividades altruistas que de manera constante realizan, especialmente durante la temporada decembrina, agentes del grupo DARE de la Policía Municipal, regalaron bicicletas a personas de escasos recursos, a fin de que les sean útiles para transportarse y les facilite las actividades que diariamente realizan.

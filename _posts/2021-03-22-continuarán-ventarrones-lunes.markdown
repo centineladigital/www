@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Para lunes y martes los vientos serán de hasta 74 kilómetros por hora"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Continuarán ventarrones lunes, martes y miércoles -  Protección Civil Municipal"
 front: false
 section: "Local"
-news_id: 183500
+redirect_from: /news/183500
 ---
 
 Fuertes vientos que podrían superar los 70 kilómetros por hora para lunes, martes y miércoles, es lo que se espera para esta semana, informó la Coordinación Municipal de Protección Civil, de  acuerdo con el pronóstico que emite el Servicio Meteorológico Nacional de CONAGUA, razón por la cual es importante seguir las debidas recomendaciones para evitar incidentes.

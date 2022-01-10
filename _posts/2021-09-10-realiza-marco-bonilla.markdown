@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente Municipal señaló que en su gobierno se proyecta convertir a la capital del estado en una ciudad altamente competitiva"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza Marco Bonilla primer pase de revista a elementos de Seguridad Pública"
 front: false
 section: "Local"
-news_id: 187604
+redirect_from: /news/187604
 ---
 
 En su primer acto al frente de la Alcaldía de Chihuahua, Marco Bonilla estuvo presente en las instalaciones de la Comandancia Norte, donde realizó el primer pase de revista a los hombres y mujeres que conforman los diferentes equipos de la Dirección de Seguridad Pública Municipal (DSPM), donde los efectivos reiteraron su compromiso de trabajar por la integridad de las familias chihuahuenses.

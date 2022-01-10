@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Chihuahua obtuvo una calificación de 99.7 por ciento en materia de transparencia, de acuerdo a la evaluación efectuada por el Colectivo Ciudadanos por Municipios Transparentes (CIMTRA)"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-20_at_13.35.47.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MB_CIMTRA.mp3"
 alt: "Es Chihuahua Capital referente en transparencia a nivel nacional -  Marco Bonilla"
 front: false
 section: "Local"
-news_id: 187881
+redirect_from: /news/187881
 ---
 
 El presidente municipal, Marco Bonilla Mendoza, dio a conocer que Chihuahua obtuvo una calificación de 99.7 por ciento en materia de transparencia, de acuerdo a la evaluación efectuada por el Colectivo Ciudadanos por Municipios Transparentes (CIMTRA), la cual se aplicó recientemente a todas las capitales de las 32 entidades federativas, posicionando a la ciudad, como la segunda mejor calificada, tan solo por debajo de Guadalajara, Jalisco, la cual obtuvo el 100 por ciento dentro de esta evaluación. 

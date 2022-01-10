@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se suma al centro que se abrió la semana pasada en Riberas de Sacramento"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inauguran Centro de Medición para vecinos de colonia Jardines de Oriente"
 front: false
 section: "Local"
-news_id: 190626
+redirect_from: /news/190626
 ---
 
 En el marco de los primeros 100 días de trabajo y resultados, el alcalde, Marco Bonilla, inauguró un Centro de Mediación, ubicado en la estación de Policía Municipal y Bomberos en la colonia Jardines de Oriente, con el objetivo de acercar los servicios de atención en materia de seguridad a los vecinos aledaños.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La producción y los competidores rindieron un tributo a la atleta mexicana que murió de covid-19 a principios de junio."
 image: "/uploads/2021/images-exatlon-mexico-rinde-homenaje-steph_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así fue el emotivo homenaje de 'Exatlón México' a Steph Gómez, atleta que murió de covid-19"
 front: false
 section: "Espectáculos"
-news_id: 188989
+redirect_from: /news/188989
 ---
 
 Exatlón México rindió un emotivo homenaje a una de sus ex participantes: Steph Gómez, quien murió a principios de junio a los 29 años edad tras ser hospitalizada por covid-19; la atleta destacó por su desempeño en el Jiu-jitsu brasileño, llegando a obtener el primer lugar del ranking nacional. A cuatro meses de su fallecimiento, los deportistas y Antonio Rosique se unieron para recordar su carrera en el alto rendimiento. Fue durante la emisión del pasado lunes del programa de TV Azteca que los equipos de Guardianes y Conquistadores se reunieron para ser parte del tributo a Steph Gómez. En honor a la atleta se entregó una presea con valor de dos vidas extra. 

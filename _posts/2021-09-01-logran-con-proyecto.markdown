@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Un grupo de docentes de Educación Especial de USAER 191 de Seech,  favoreció con actividades de acuaterapia, el desarrollo de mejores habilidades en infantes de preescolar"
 image: "/uploads/2021/images-Proyecto_Acuaterapia-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Logran con proyecto educativo  mejorar calidad de vida de niñas y niños con discapacidad"
 front: false
 section: "Local"
-news_id: 187345
+redirect_from: /news/187345
 ---
 
 Con el fin de ofrecer a niños y niñas con alguna discapacidad, una mejor calidad de vida y mayor autonomía en distintas actividades, un grupo de docentes de la Unidad de Servicios de Apoyo y Asistencia a la Educación Regular (USAER) 191, de Servicios Educativos del Estado de Chihuahua (Seech), realizó el proyecto denominado “Acuaterapia”.

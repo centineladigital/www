@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La comediante respondió si planea una nueva gira o programa de televisión con su personaje de 'Las lavanderas'; además arremetió contra sus haters asegurando que están medio mensos. "
 image: "/uploads/2021/images-karla-panini-regresa-comadre-guera_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No le tengo miedo ni al diablo -  Karla Panini regresa como 'La comadre güera'; la critican en redes"
 front: false
 section: "Espectáculos"
-news_id: 190281
+redirect_from: /news/190281
 ---
 
 Karla Panini y Américo Garza siguen recibiendo comentarios negativos y ataques en redes por su engaño a Karla Luna, pues ambos comenzaron un romance pese a que él aún estaba casado con la comediante -quien falleció en 2017. Luego de arremeter en contra de la familia de su ex compañera, Panini volvió a dar de qué hablar al anunciar que La comadre güera -su personaje en Las Lavanderas- está de regreso, lo que generó críticas y la molestia entre sus detractores.  A través de su cuenta de Instagram, Karla Panini compartió una fotografía en la que aparece con un peluca rubia, un mandil con la frase "sobres, sobres" y una banda de paliacate en la cabeza, caracterización que corresponde a su personaje de Las Lavanderas. Pero, ¿acaso iniciará una nueva gira o volverá su programa? Esto respondió la comediante.  

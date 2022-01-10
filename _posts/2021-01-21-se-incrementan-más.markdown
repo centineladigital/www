@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "De menos de 70, se registran 154 nuevos casos."
 image: "/uploads/2021/images-ARTURO_VALENZUELA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW01_ARTURO_VALENZUELA.mp3"
 alt: "Se incrementan más de cien por ciento casos de COVID en 24 horas"
 front: false
 section: "Local"
-news_id: 182341
+redirect_from: /news/182341
 ---
 
 Luego de que este miércoles se registrarán menos de 70 nuevos casos, este jueves dentro del reporte de casos se presentó una cifra de 154 casos, así como la acreditación de 22 muertes según fue dado a conocer por parte del Director Médico Zona Norte, Arturo Valenzuela Zorrilla.

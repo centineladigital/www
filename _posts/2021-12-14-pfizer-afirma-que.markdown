@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Revela estudio que la vacuna de la farmacéutica Pfizer globalmente menos eficaz contra ómicron, pero protege al 70% en los casos graves"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pfizer afirma que su píldora contra Covid reduce hospitalizaciones y muertes en casi 90%"
 front: false
 section: "Internacional"
-news_id: 190819
+redirect_from: /news/190819
 ---
 
 La farmacéutica estadounidense Pfizer confirmó este martes que su píldora contra el Covid-19 redujo las hospitalizaciones y muertes entre las personas en riesgo en casi un 90% cuando se toma en los primeros días después de que aparecen los síntomas, según se constató en ensayos clínicos.

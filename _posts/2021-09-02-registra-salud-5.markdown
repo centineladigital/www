@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El total de casos acumulados es de 75 mil 775 y 7 mil 819 personas fallecidas; los nuevos decesos corresponden a Juárez (+3) y Cuauhtémoc (+2)   "
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Registra Salud 5 defunciones y 96 contagios por COVID-19 en la entidad"
 front: false
 section: "Local"
-news_id: 187365
+redirect_from: /news/187365
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al día de hoy se tiene un total general de 7 mil 819 defunciones en el estado, luego de confirmarse otros 5 más en Juárez (+3) y  Cuauhtémoc (+2).

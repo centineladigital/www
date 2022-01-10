@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Tema se  ha quedado pendiente desde hace tres años."
 image: "/uploads/2021/images-JOSE_.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW03_JOSE_BARRERA.mp3"
 alt: "Pudieran pagar impuestos por herencias en reforma fiscal"
 front: false
 section: "Local"
-news_id: 185432
+redirect_from: /news/185432
 ---
 
 El Colegio de Contadores Públicos no descarta que dentro de la reforma que se lleva a cabo en materia fiscal se cobre un impuesto a las herencias, según lo dio a conocer el Presidente de este organismo José Barrera Torres.

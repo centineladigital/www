@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de redes sociales se ha rumorado que muy pronto podríamos ver el segundo tráiler de 'Spider-Man: No Way Home'. Te contamos lo que sabemos. "
 image: "/uploads/2021/images-sony-pictures-tambien-ha-dado.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cuándo se estrenará el nuevo tráiler de 'Spider-Man -  No Way Home'? Ésta es la posible fecha"
 front: false
 section: "Espectáculos"
-news_id: 189086
+redirect_from: /news/189086
 ---
 
 Hace unas semanas se estrenó el primer tráiler de Spider-Man: No Way Home, el cual se convirtió en el más visto a tan sólo pocas horas de su estreno. En el avance, podemos ver que en esta ocasión Peter Parker unirá fuerzas con Doctor Stange, pero sin duda lo que más emocionó a los fans del superhéroe es la aparición de Dr Octopus. En el primer tráiler se mostró que posiblemente Willem Dafoe podría regresar con su famoso personaje de Duende Verde, el cual vimos en la primera película de Spider-Man que fue protagonizada por Tobey Maguire, pero para revelar más si esto pasará, muchos esperan con ansías un segundo tráiler. 

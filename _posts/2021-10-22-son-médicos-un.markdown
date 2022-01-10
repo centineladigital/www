@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Reconoció a las y los doctores del IMPE en el marco de conmemoración del Día del Médico   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Son médicos un ejemplo de competitividad -  Marco Bonilla"
 front: false
 section: "Local"
-news_id: 189108
+redirect_from: /news/189108
 ---
 
 El presidente municipal Marco Bonilla Mendoza reconoció y homenajeó la labor que desempeña el personal médico del Instituto Municipal de Pensiones (IMPE), esto para celebrar el Día del Médico que se conmemora el 23 de octubre.

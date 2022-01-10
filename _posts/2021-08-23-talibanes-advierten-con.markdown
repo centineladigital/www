@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El grupo fundamentalista criticó la posibilidad de extender la fecha límite para la salida de personas, mientras el aeropuerto de Kabul se registró un ataque que provocó la muerte de un policía, según reportan autoridades alemanas"
 image: "/uploads/2021/images-talibanes-ingresaron-kabul-capital-afganistan_0_22_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Talibanes advierten con consecuencias si EU y aliados extienden evacuaciones en Afganistán"
 front: false
 section: "Internacional"
-news_id: 186987
+redirect_from: /news/186987
 ---
 
 Los talibanes advirtieron hoy que Estados Unidos y sus aliados se exponen a "consecuencias" si retrasan su retirada de Afganistán, prevista el 31 de agosto, mientras en el aeropuerto de Kabul se han registrado violentos incidentes, entre ellos el ataque reportado por autoridades alemanas de un sujeto armado contra las fuerzas de seguridad, dejando un muerto y tres heridos, siendo aparentemente el primer ataque de este tipo desde la caída del gobierno hace una semana. 

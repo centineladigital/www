@@ -10,11 +10,11 @@ author: nil
 description: "Se llevará a cabo del 04 al 08 de octubre."
 image: "/uploads/2021/images-IMG_20211004_140025_420.jpg"
 video: "/uploads/2021/videos-ML05_LUIS_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Inicia semana del humanismo en la UACH"
 front: false
 section: "Local"
-news_id: 188354
+redirect_from: /news/188354
 ---
 
 Este lunes dio inicio XLIII Semana del Humanismo 2021, que tiene como tema“Ética y educación como herramienta contra la brecha social”, donde estudiantes de la Facultad de Filosofía y Letras podrán asistir a diversas actividades del 04 al 08 de octubre.

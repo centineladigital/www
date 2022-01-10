@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El piloto de McLaren perdió el control de su monoplaza en la curva del Raidillon por la fuerte lluvia que caía en el circuito de Spa-Francorchamps"
 image: "/uploads/2021/images-lando-norris-sufre-fuerte-accidente_1_27_1198_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El fuerte accidente de Lando Norris en la clasificación del GP de Bélgica"
 front: false
 section: "Deportes"
-news_id: 187216
+redirect_from: /news/187216
 ---
 
 La calificación del Gran Premio de Bélgica de Fórmula 1, que comenzó con retraso este sábado en Spa, quedó interrumpida tras el fuerte accidente del británico Lando Norris (McLaren), que salió ileso de su monoplaza. La primera parte de la calificación (Q1) empezó con 12 minutos de retraso por la fuerte lluvia que caía en el circuito de Spa-Francorchamps. 

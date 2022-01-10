@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Belinda compartió un video disfrutando de la playa desde Acapulco. Bailó al ritmo de Depeche Mode y desató halagos, pero también críticas en su contra. ¿Qué hizo? ¿Por qué se molestaron? "
 image: "/uploads/2021/images-baile_belinda.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Exageran? Belinda conquista las redes al bailar canción de 'Depeche Mode'; haters la critican"
 front: false
 section: "Espectáculos"
-news_id: 183044
+redirect_from: /news/183044
 ---
 
 Belinda, cantante, actriz, modelo y actual pareja de Christian Nodal, conquistó las redes sociales con un sensual baile al ritmo de Depeche Mode. La cantante reapareció en sus redes y compartió el increíble momento desde Acapulco luciendo un bikini azul. La publicación de inmediato recolectó likes, reproducciones y múltiples comentarios en donde la llenaron de halagos, pero también de críticas. ¿Por qué la señalaron? A través de su cuenta de Instagram, Belinda se mostró disfrutando de la brisa de Acapulco, Guerrero. Esto luego de que afrontara la pérdida de su abuelita Juana Moreno y de que la famosa se mostrara afectada.

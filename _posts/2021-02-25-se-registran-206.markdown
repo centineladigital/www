@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Así como 36 muertes fueron acreditadas."
 image: "/uploads/2021/images-diapositiva3-272.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ02_LETICIA_RUIZ.mp3"
 alt: "Se registran 206 nuevos casos COVID en las últimas 24 horas"
 front: false
 section: "Local"
-news_id: 183163
+redirect_from: /news/183163
 ---
 
 Un total 206 nuevos casos de personas que se contagiaron de coronavirus se detectaron en las últimas 24 horas, así como un total de 36 muertes fueron acreditados dentro del estado, según lo dio a conocer la Directora de Promoción para la Salud, Leticia Ruiz González.

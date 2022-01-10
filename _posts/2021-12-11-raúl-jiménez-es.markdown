@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El delantero mexicano vio la tarjeta roja luego de recibir dos amonestaciones en menos de un minuto. "
 image: "/uploads/2021/images-raul-jimenez-expulsado-manchester-city_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Raúl Jiménez es expulsado por primera vez en Europa durante el Manchester City vs Wolves"
 front: false
 section: "Deportes"
-news_id: 190750
+redirect_from: /news/190750
 ---
 
 El delantero mexicano del Wolverhampton, Raúl Jiménez, se fue expulsado en los minutos finales del primer tiempo en el partido ante el Manchester City de la jornada 16 de la Premier League. 

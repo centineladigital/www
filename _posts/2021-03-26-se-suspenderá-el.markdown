@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se solicita a la población evitar sacar residuos esos días para que no permanezcan afuera de las casas"
 image: "/uploads/2021/images-unnamedll.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se suspenderá el servicio de recolección de basura viernes y sábado de la próxima semana"
 front: false
 section: "Local"
-news_id: 183567
+redirect_from: /news/183567
 ---
 
 El Gobierno Municipal informa que el viernes 2 y sábado 3 de abril de la próxima semana, se suspenderá el servicio de recolección de basura en las casas habitación, ya que estos son días de asueto por el periodo vacacional de Semana Santa.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que no se tendrá liquidez para ejercer el próximo gobierno."
 image: "/uploads/2021/images-ERNESTO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ01_ERNESTO_CORDERO.mp4"
 alt: "No hay liquidez para el próximo gobierno estatal -  Cordero"
 front: false
 section: "Local"
-news_id: 185922
+redirect_from: /news/185922
 ---
 
 El que se cuente con 19 mil millones de pesos para el ejercicio de la próxima administración estatal no quiere decir que se cuente con liquidez, señaló el integrante del grupo de trabajo con la Secretaría de Hacienda de la Comisión de Transición del Gobierno del Estado Entrante, Ernesto Cordero Arroyo.

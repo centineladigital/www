@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Estos proyectos, no tienen ningún costo para los alumnos beneficiados, ya que es el mismo Instituto Promotor, el encargado de conseguir los fondos económicos de gran beneficio para nuestros estudiantes, docentes y la comunidad en general."
 image: "/uploads/2021/images-IMG_9665.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fortalece SEyD participación entre sociedad civil y sector educativo en beneficio de la educación básica"
 front: false
 section: "Local"
-news_id: 191156
+redirect_from: /news/191156
 ---
 
 La Subsecretaría de Educación y Deporte Zona Norte y el Instituto Promotor de Educación (IPE), trabajan en alianza, con el objetivo de fortalecer la participación proactiva con la sociedad civil a fin de mejorar la calidad educativa en Chihuahua.

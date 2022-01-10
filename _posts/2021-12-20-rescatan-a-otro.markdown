@@ -10,11 +10,11 @@ author: nil
 description: "Presunto captor se suicidó en el lugar."
 image: "/uploads/2021/images-ROBERTO.jpg"
 video: "/uploads/2021/videos-ML01_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Rescatan a otro migrante "
 front: false
 section: "Local"
-news_id: 191039
+redirect_from: /news/191039
 ---
 
 El rescate de un migrante que era retenido y el suicidio de la persona quien presuntamente era su captor se registró el pasado domingo en Ciudad Juárez. Según fue dado a conocer por parte del Fiscal General del Estado, Roberto Fierro Duarte.

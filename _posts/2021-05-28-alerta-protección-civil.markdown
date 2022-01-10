@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las temperaturas más altas pronosticadas para la tarde de este viernes 28 de mayo, son Chihuahua y Juárez a 35°C, Ojinaga 38°C, Delicias, Camargo y Parral 37°C, Jiménez 36°C, y Janos 34°C; para el sábado se prevén lluvias en Ahumada, Guadalupe, Jiménez, Manuel Benavides y Ojinaga"
 image: "/uploads/2021/images-IMG_7090.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alerta Protección Civil por altas temperaturas en varios municipios del estado"
 front: false
 section: "Local"
-news_id: 184714
+redirect_from: /news/184714
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) pidió a la población tomar precauciones frente a las altas temperaturas que se registraran este viernes 28 y sábado 29 de mayo, en varios municipios como Ciudad Juárez a 36°C, Chihuahua 35° y Ojinaga 38°C.

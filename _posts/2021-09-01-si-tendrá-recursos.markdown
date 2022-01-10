@@ -14,11 +14,11 @@ author: nil
 description: "En rueda de prensa, el funcionario también desmintió que la gobernadora electa ya no vaya a contar con participaciones ni otros recursos para concluir el ejercicio fiscal"
 image: "/uploads/2021/images-Sin_título.png"
 video: "/uploads/2021/videos-JGW02_ARTURO_FUENTES_VELEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Si tendrá recursos el gobierno entrante dice Arturo Fuentes Vélez"
 front: false
 section: "Local"
-news_id: 187335
+redirect_from: /news/187335
 ---
 
 El secretario de Hacienda, Arturo Fuentes Vélez, aclaró que la administración que encabezará Maru Campos Galván, contará con 730 millones de pesos hasta el 15 de septiembre para poder cubrir el pago de nómina que asciende a 650 millones de pesos, por lo que es mentira que recibirán un gobierno sin recursos. 

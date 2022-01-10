@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En la ciudad de Chihuahua se esperan ráfagas de 75 km/r y en Ciudad Juárez de 65 km/h, advierte la Coordinación Estatal de Protección Civil; prevé lluvias en Janos y tolvaneras en tramos carreteros"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tendrán Gómez Farías, Namiquipa, Guerrero y Carichí rachas de viento de 95 km/h por ingreso de Frente Frío 42"
 front: false
 section: "Local"
-news_id: 183397
+redirect_from: /news/183397
 ---
 
 Con el ingreso del Frente Frío número 42 a la entidad y la Onceava Tormenta Invernal sobre el suroeste de Estados Unidos, se prevén intensas rachas de viento que superarán los 95 km/h en Gómez Farías, Namiquipa, Guerrero y Carichí, advirtió la Coordinación Estatal de Protección Civil.

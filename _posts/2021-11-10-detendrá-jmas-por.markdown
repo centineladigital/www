@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los trabajos iniciarán a las 9 de la mañana y tendrán una duración estimada de 8 horas   "
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detendrá JMAS por reparaciones las operaciones de rebombeo Reliz 2 durante este jueves   "
 front: false
 section: "Local"
-news_id: 189761
+redirect_from: /news/189761
 ---
 
 La Junta Municipal de Agua y Saneamiento (JMAS) de Chihuahua informa que detendrá las operaciones del rebombeo Reliz 2 debido a los trabajos de reparación que se realizarán este jueves.

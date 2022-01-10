@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Durante la ceremonia de apertura se rindió tributo a los cineastas Carlos Saura, Julio Medem, Luis Argueta y a la actriz Elsa Aguirre."
 image: "/uploads/2021/images-festival-internacional-cine-guadalajara-abrio_0_51_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡'Dune' inaugura la FICG! Estrenan el festival de cine en modo híbrido"
 front: false
 section: "Espectáculos"
-news_id: 188313
+redirect_from: /news/188313
 ---
 
 Por segundo año consecutivo, el Festival Internacional de Cine en Guadalajara pone en marcha una edición híbrida para ofrecer a su público opciones presenciales y en línea. Esta noche, el encuentro cinematográfico abrió su coctel de historias con la proyección de Dune, la película de Denis Villeneuve protagonizada por Timothée Chalamet y Zendaya. 

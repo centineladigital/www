@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Informa dependencia que este martes 10 aumentarán en Nuevo Casas Grandes y Buenaventura; también se esperan lluvias en varios municipios, con mayor intensidad en Casas Grandes, Chínipas, Guazapares y Morelos"
 image: "/uploads/2021/images-vientos-ciudad-juarez.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte Protección Civil sobre rachas mayores a 55 km/h  este lunes 9 en Ciudad Juárez"
 front: false
 section: "Local"
-news_id: 186465
+redirect_from: /news/186465
 ---
 
 La Coordinación Estatal de Protección Civil (CEPC) informó que se esperan fuertes rachas de viento este lunes 9 y martes 10 de agosto, con velocidades por encima de los 55 kilómetros por hora (km/h).

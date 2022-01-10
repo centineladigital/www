@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ana Bárbara reveló que el Pirru fue una de las personas más importantes en su vida, pues de ese romance nació José María. Sin embargo, vivió crudos momentos por enamorarse de él. ¿Qué fue lo que pasó? "
 image: "/uploads/2021/images-ana-barbara-revela-vivio-infierno.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Un verdadero infierno -  Ana Bárbara revela lo que sufrió al enamorarse de 'El Pirru'"
 front: false
 section: "Espectáculos"
-news_id: 184006
+redirect_from: /news/184006
 ---
 
 Ana Bárbara, cantante mexicana, rompió el silencio sobre su ex esposo José María Fernández 'El Pirru', quien fue también pareja de Mariana Levy. Y es que cuando la cantante comenzó una relación amorosa con él su vida dio un giro, pues sobre ella se depositaron comentarios negativos. ¿Por qué la criticaban? De acuerdo con lo que reveló Ana Bárbara, vivió un infierno al haberse enamorado de una persona viuda. En entrevista con Mezcal TV, Ana Bárbara reveló que el Pirru fue una de las personas más importantes en su vida, pues de ese romance nació José María. Sin embargo, recordó lo terrible que vivió al enfrentarse al escrutinio público al ser juzgada por estar a lado de un hombre viudo. 

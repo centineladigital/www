@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Las inundaciones en Brasil ya han afectado a más de 430 mil personas en el noreste de Brasil; las autoridades temen la ruptura de presas debido a que no ceden las lluvias. "
 image: "/uploads/2021/images-inundaciones-brasil-cedido-semanas-lluvias_1_0_1014_631.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Fuertes lluvias en el noreste de Brasil dejan 18 muertos y más de 35 mil desplazados"
 front: false
 section: "Internacional"
-news_id: 191221
+redirect_from: /news/191221
 ---
 
 El número de muertes por las fuertes lluvias que azotan al estado brasileño de Bahia desde noviembre se elevaron a 18 con un nuevo fallecimiento este domingo, en medio de un temporal que ya deja más de 35 mil desplazados en 58 municipios inundados, informaron autoridades locales. 

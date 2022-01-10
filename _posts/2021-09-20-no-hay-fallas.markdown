@@ -14,11 +14,11 @@ author: nil
 description: "Afirmó que banco bienestar no tiene fallas en la atención a la ciudadanía"
 image: "/uploads/2021/images-loera.jpg"
 video: "/uploads/2021/videos-BL04_JUAN_LOERA.mp4"
-audio: "nil"
+audio: nil
 alt: "No hay fallas en Bienestar"
 front: false
 section: "Local"
-news_id: 187896
+redirect_from: /news/187896
 ---
 
 El coordinador de bienestar Juan Carlos Loera De la rosa destacó,  que las oficinas de bancos  bienestar no están fallando, esto al ser cuestionado sobre las quejas de personas que han ido a pedir apoyo a estas instancias presuntamente sin obtener respuesta.

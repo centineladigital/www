@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Muy probablemente el técnico del conjunto inglés, que vivió una gran época al frente del Barcelona, se reencontrará con el artífice de esos triunfos catalanes: Lionel Messi"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Esperado duelo en la Champions League -  Manchester City de Guardiola vs PSG de Messi"
 front: false
 section: "Deportes"
-news_id: 188128
+redirect_from: /news/188128
 ---
 
 Para Josep Guardiola, lo inconcebible podría ser una realidad hoy: Ver a Lionel Messi con la camiseta de un equipo que no es el Barcelona.

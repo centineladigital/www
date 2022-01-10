@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Contaron con el apoyo del Gobierno Municipal para asistir al certamen internacional   "
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Destacan chihuahuenses en Campeonato Mundial de Aguas Abiertas Subacuáticas"
 front: false
 section: "Local"
-news_id: 188319
+redirect_from: /news/188319
 ---
 
 Con resultados favorables concluyó la participación de los cuatro chihuahuenses en su primer Campeonato Mundial de Aguas Abiertas Subacuática, quienes asistieron a Santa Marta, Colombia.

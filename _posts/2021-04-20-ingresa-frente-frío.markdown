@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Informa Protección Civil que para el miércoles 21 se prevén tolvaneras en los tramos carreteros Juárez-Janos, Sueco-Ahumada, Jiménez-Parral y Jiménez-Saucillo, por lo que se pide tomar precauciones al transitar esas rutas"
 image: "/uploads/2021/images-big_cf3h667i.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Ingresa Frente Frío 52 con fuertes vientos en Jiménez, Manuel Benavides y Ojinaga"
 front: false
 section: "Local"
-news_id: 183995
+redirect_from: /news/183995
 ---
 
 Durante la noche de este martes 20 de abril ingresará el Frente Frío 52 a la entidad, con lo que habrá fuertes ráfagas de viento tanto este día como el miércoles 21, así como tolvaneras en tramos carreteros, informó la Coordinación Estatal de Protección Civil.

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Para el próximo año, continuarán los programas que se ofertan en estos espacios"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Permanecerán cerradas las Bibliotecas Municipales a partir de hoy y hasta el 5 de enero"
 front: false
 section: "Local"
-news_id: 191195
+redirect_from: /news/191195
 ---
 
 El Gobierno Municipal a través del Instituto de Cultura del Municipio (ICM), informa que las diferentes bibliotecas de la ciudad permanecerán cerradas a partir de este día y retomarán actividades hasta el 5 de enero del 2022.

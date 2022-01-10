@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los establos medianos y grandes se vieron afectados por la falta de suministro de energía eléctrica"
 image: "/uploads/2021/images-Comederos_en_rabncho_lechero_.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se disparan precios de producción de leche"
 front: false
 section: "Local"
-news_id: 183060
+redirect_from: /news/183060
 ---
 
 El apagón ocurrido esta semana orilló a los medianos y grandes establos productores de leche a subir sus costos de producción, pues al faltar el suministro de energía de la Comisión Federal de Electricidad (CFE), recurrieron al uso de plantas generadoras que funcionan a base de diésel.

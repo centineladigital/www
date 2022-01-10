@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Por el momento no hay claridad sobre si los nuevos casos están localizados dentro, o cerca, de la ciudad y tampoco si los casos se detectaron en personas que regresaron recientemente de viajes al exterior. "
 image: "/uploads/2021/images-hasta-ahora-son-ocho-los_1_36_1143_711.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nueva York suma cinco casos de variante ómicron -  gobernadora; van 8 en EU"
 front: false
 section: "Internacional"
-news_id: 190461
+redirect_from: /news/190461
 ---
 
 El estado de Nueva York confirmó la presencia de cinco casos de la variante ómicron de coronavirus, anunció este jueves su gobernadora Kathy Hochul, con lo que el número de casos detectados de la nueva cepa en Estados Unidos llega a ocho. 

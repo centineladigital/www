@@ -10,11 +10,11 @@ author: nil
 description: "Señala Secretario General que acuerdos ya se firmaron."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MM01_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Confía Gobierno en acuerdo de presa la Boquilla -  Jáuregui"
 front: false
 section: "Local"
-news_id: 189221
+redirect_from: /news/189221
 ---
 
 “Estamos muy confiados” fueron las declaraciones del Secretario General de Gobierno, César Jáuregui Moreno, al ser cuestionado en relación a las declaraciones del Presidente de la República, Andrés Manuel López Obrador, en torno al acuerdo de La Boquilla. Esto en torno a desconocer los acuerdos entre la Secretaría de Gobernación Federal y la administración que encabeza María Eugenia Campos Galván.

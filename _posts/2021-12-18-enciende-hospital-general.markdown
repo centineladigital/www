@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Con el objetivo de mandar un mensaje de unidad y solidaridad a todas y todos. "
 image: "/uploads/2021/images-IMG-20211218-WA0011.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Enciende Hospital General de Zona No. 6 del IMSS en Juárez “Árbol de la Esperanza”"
 front: false
 section: "Local"
-news_id: 191014
+redirect_from: /news/191014
 ---
 
 Directivos y personal de diversas categorías del Hospital General de Zona (HGZ) No. 06 del Instituto Mexicano del Seguro Social (IMSS) en Ciudad Juárez, encendieron  el tradicional Árbol de Navidad en las inmediaciones de la unidad.

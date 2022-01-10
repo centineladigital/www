@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Es una versión del biológico de la farmacéutica anglo-sueca; participan Laboratorios Liomont y mAbxience; en Europa, casos van en aumento por ómicron"
 image: "/uploads/2021/images-oms_avala_dosis_de_astra_por_mexico_y_argentina.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "OMS avala dosis de Astra, por México y Argentina"
 front: false
 section: "Internacional"
-news_id: 191188
+redirect_from: /news/191188
 ---
 
 Washington.— La Organización Mundial de la Salud (OMS) dio luz verde a la primera vacuna anti-Covid elaborada en Latinoamérica: una versión de la sustancia del laboratorio anglo-sueco AstraZeneca fabricada conjuntamente por México y Argentina, dijo ayer la OPS, oficina de la OMS para las Américas.

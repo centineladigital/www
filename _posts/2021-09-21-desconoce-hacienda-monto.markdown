@@ -10,11 +10,11 @@ author: nil
 description: "Esto pese a que se manejaron cifras de más de 700 millones de pesos."
 image: "/uploads/2021/images-GRANILLO.jpg"
 video: "/uploads/2021/videos-MM03_JOSE_GRANILLO.mp4"
-audio: "nil"
+audio: nil
 alt: "Desconoce Hacienda monto de Operativo Justicia Chihuahua"
 front: false
 section: "Local"
-news_id: 187925
+redirect_from: /news/187925
 ---
 
 Luego de que el Consejero Jurídico de la pasada administración señalara que el monto de lo recabado dentro del Operativo Justica Chihuahua llegaría a la presente administración, el titular de la Secretaría de Hacienda, dijo desconocer el monto.

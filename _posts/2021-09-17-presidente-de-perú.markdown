@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La cancillería explicó que con ésta reuniones, Pedro Castillo reafirmará la apuesta del Perú por el multilateralismo como ámbito idóneo para abordar los problemas trasnacionales. "
 image: "/uploads/2021/images-6101a95d02141.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presidente de Perú viaja a México para sostener reunión de la Celac"
 front: false
 section: "Internacional"
-news_id: 187805
+redirect_from: /news/187805
 ---
 
 El presidente de Perú, Pedro Castillo, comenzará este viernes un viaje a México y Estados Unidos, donde sostendrá reuniones bilaterales y participará en la VI cumbre de la Comunidad de Estados Latinoamericanos y Caribeños (Celac)y en las sesiones de la Organización de Estados Americanos (OEA) y la Organización de las Naciones Unidas (ONU). 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A la fecha el número de decesos es de 7 mil 625, de los cuales 4 mil 526 corresponden al sexo masculino y 3 mil 099 al femenino."
 image: "/uploads/2021/images-Diapositiva5_(1).JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alcanza estado las 71 mil personas contagiadas por COVID-19 tras confirmarse 75 más"
 front: false
 section: "Local"
-news_id: 185537
+redirect_from: /news/185537
 ---
 
 Un total general de 71 mil 044 de casos de COVID-19 registra la Secretaría de Salud luego de que se confirmaran 75 nuevos contagios en el último reporte epidemiológico estatal.

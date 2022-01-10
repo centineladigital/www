@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En Janos, Guachochi, Camargo y Ojinaga se espera que sean mayores a 45 km/h y superiores a 35 km/h en Jiménez y Coyame, informa la Coordinación Estatal de Protección Civil"
 image: "/uploads/2021/images-fuertes-vientos-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Advierte CEPC rachas de viento de 55 km/h en Ciudad Juárez y Ahumada"
 front: false
 section: "Local"
-news_id: 183206
+redirect_from: /news/183206
 ---
 
 Para este lunes 1 de marzo el Frente Frío número 39 traerá rachas de viento de 55 kilómetros por hora (km/h), principalmente en Ciudad Juárez y Ahumada, informó la Coordinación Estatal de Protección Civil (CEPC).

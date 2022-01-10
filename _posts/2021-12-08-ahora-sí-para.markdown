@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El delantero mexicano del Galaxy publicó una serie de imágenes en su cuenta de Instagram donde ironiza sobre las burlas que constantemente recibe. "
 image: "/uploads/2021/images-javier-hernandez-manda-picante-mensaje_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Ahora sí, para que me digan tronco” -  Las fotos de Chicharito con dedicatoria a sus detractores"
 front: false
 section: "Deportes"
-news_id: 190622
+redirect_from: /news/190622
 ---
 
 El delantero mexicano Javier Chicharito Hernández firmó una gran temporada con el LA Galaxy de la MLS, la cual tristemente no pudo coronar ya que el equipo angelino ni siquiera calificó a los playoffs, el ex goleador de las Chivas registró su mejor campaña en Estados Unidos al anotar 17 goles, los cuales tampoco le valieron para ser considerado uno de los mejores jugadores del torneo. 

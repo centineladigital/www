@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor agradeció el homenaje que se hace a su primo, quien fue protagonista del cine de albures y ficheras; el teatro Metropolitán es la sede donde se le recuerda con la transmisión de sus películas."
 image: "/uploads/2021/images-rafael-inclan-recordo-primo-alfonso.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alfonso Zayas era un pícaro nacional, un coqueto -  Rafael Inclán"
 front: false
 section: "Espectáculos"
-news_id: 188801
+redirect_from: /news/188801
 ---
 
 Rafael Inclán agradece que recuerden a su primo Alfonso Zayascon un homenaje, a través de una retrospectiva de sus películas en el teatro Metropolitán. “Estoy muy agradecido con las personas y las compañías que hicieron posible este homenaje maravilloso, que me hubiera gustado que lo hicieran en vida, pero a veces las situaciones funcionan así. De modo que estaremos viendo las películas que eran el mero mole de Alfonso Zayas”. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ausentes físicamente, piden aval mutuo de las diferentes dosis disponibles contra el coronavirus; en la cumbre, líderes acuerdan llevar más biológicos a países en vías de desarrollo"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rusia, China y México presionan para avalar dosis"
 front: false
 section: "Internacional"
-news_id: 189436
+redirect_from: /news/189436
 ---
 
 Roma.— En el primer día de la cumbre de los líderes del G20, Rusia y China abogaron por el reconocimiento mutuo de las diferentes vacunas disponibles contra el coronavirus, en particular entre los países miembros del grupo de los 20 principales países industrializados, entre los que se encuentran ellos.

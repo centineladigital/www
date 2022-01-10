@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La directora del medio ruso RT al igual que el Comité Olímpico Ruso revelaron los nombres de los jueces, mismos que cerraron sus cuentas tras ser amenazados"
 image: "/uploads/2021/images-dina-averina-ganar-medalla-plata_1_66_1198_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Amenazan en Rusia a jueces de gimnasia en Tokio 2020 -  recuerden estos nombres"
 front: false
 section: "Deportes"
-news_id: 186501
+redirect_from: /news/186501
 ---
 
 En los últimos días de los Juegos Olímpicos de Tokio 2020 se dio una gran polémica en la gimnasia rítmica luego de que la israelí Linoy Ashram ganara la medalla de oro en la prueba individual, quitándole este título a la Dina Averina, una situación que no sucedía desde 1996, pues el dominio era de Rusia. Ante la decisión de los jueces, los rusos apelaron las calificaciones de su deportista, las cuales fueron confirmadas dejando a Averina con la medalla de plata y a Ashram con la presea dorada. 

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Presentan proyectos ganadores de participantes externos, egresados y estudiantes y les otorgan reconocimientos y constancias"
 image: "/uploads/2021/images-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Culmina Universidad Tecnológica de Ciudad Juárez  tercera edición del Programa Aprende, Crea, Emprende"
 front: false
 section: "Local"
-news_id: 190971
+redirect_from: /news/190971
 ---
 
 La Incubadora de Empresas de la Universidad Tecnológica de Ciudad Juárez (UTCJ) cerró actividades de la tercera edición del Programa Aprende, Crea, Emprende 2021, con la presentación y evaluación de seis proyectos seleccionados en este esquema, de los cuales uno corresponde a una egresada de esta casa de estudios, tres a estudiantes y dos a participantes externos.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Participan en la adecuación de la norma de generación y manejo de residuos en la zona norte"
 image: "/uploads/2021/images-taller_residuos3.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Realiza Estado talleres para actualizar Ley  en materia de Prevención de Residuos"
 front: false
 section: "Local"
-news_id: 182133
+redirect_from: /news/182133
 ---
 
 Gobierno del Estado, a través de la Secretaría de Desarrollo Urbano y Ecología (Sedue), inició una serie de talleres enfocados a la zona norte del territorio, con el propósito de actualizar la Ley para la Prevención y Gestión Integral de los Residuos del Estado de Chihuahua y su Reglamento, a fin de adecuarla a la problemática y necesidades de la entidad.

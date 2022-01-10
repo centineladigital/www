@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los manifestantes cerraron una carretera que conecta Bagdad con el norte del país como forma de protesta ante su inconformidad ante los resultados preliminares de las elecciones legislativas. "
 image: "/uploads/2021/images-manifestantes-protestaron-inconformes-resultados-elecciones_1_153_1198_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Irak, manifestantes cierran carretera en protesta por resultados de elecciones"
 front: false
 section: "Internacional"
-news_id: 188845
+redirect_from: /news/188845
 ---
 
 Un grupo de manifestantes que no aceptan los resultados preliminares de las elecciones legislativas del pasado 10 de octubre en Irak bloqueó temporalmente este domingo una carretera que conecta Bagdad con el norte del país, informó una fuente policial. 

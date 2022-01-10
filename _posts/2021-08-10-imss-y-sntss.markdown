@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El director general del Seguro Social, Maestro Zoé Robledo, y el secretario del CEN del Sindicato, doctor Arturo Olivares Cerda, coincidieron en que el trabajo coordinado ha permitido enfrentar la pandemia por COVID-19"
 image: "/uploads/2021/images-Foto_350-1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS y SNTSS inician revisión del Contrato Colectivo de Trabajo"
 front: false
 section: "Local"
-news_id: 186505
+redirect_from: /news/186505
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) y el Sindicato Nacional de Trabajadores del Seguro Social (SNTSS) dieron inicio a la revisión contractual del Contrato Colectivo de Trabajo para el periodo 2021-2023, donde se buscará fortalecer el bienestar de la clase trabajadora y la prestación de los servicios institucionales.

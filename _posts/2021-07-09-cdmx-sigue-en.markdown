@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ante la pandemia por Covid-19, la Ciudad de México continúa en semáforo epidemiológico amarillo la próxima semana, con un incremento de hospitalizados por coronavirus."
 image: "/uploads/2021/images-_111083333_060312069-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "CDMX sigue en semáforo amarillo con aumento de hospitalizados de 18 a 39 años"
 front: false
 section: "Nacional"
-news_id: 185504
+redirect_from: /news/185504
 ---
 
 Eduardo Clark García Dobarganes, director general de Gobierno Digital de la Agencia Digital de Innovación Pública, indicó que hay mil 213 hospitalizados en hospitales de la Ciudad de México y mil 627 en la Zona Metropolitana del Valle de México.

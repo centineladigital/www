@@ -10,11 +10,11 @@ author: nil
 description: "Escuelas son las que deben de revisar sus instalaciones de agua."
 image: "/uploads/2021/images-IBAÑEZ.jpg"
 video: "/uploads/2021/videos-MV03_OSCAR_IBAÑEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "Garantizado servicio de agua en escuelas"
 front: false
 section: "Local"
-news_id: 186670
+redirect_from: /news/186670
 ---
 
 El que se tenga abasto dentro de las escuelas está garantizado por parte de la Junta Central de Agua y Saneamiento, según lo dio a conocer el titular de la dependencia Oscar Ibáñez. El funcionario señaló que tras el regreso a clases se tienen las acciones necesarias con el fin de que los alumnos puedan regresar a clases a casi un año y medio de pandemia.

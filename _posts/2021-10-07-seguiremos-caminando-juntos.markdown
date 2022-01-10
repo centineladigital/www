@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Con el objetivo de continuar reforzando los lazos y la colaboración y así poder cumplir con el compromiso del Gobierno del Estado de impulsar el desarrollo económico de Chihuahua."
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Seguiremos caminando juntos, se reúne Maru Campos con directivos de Safran"
 front: false
 section: "Local"
-news_id: 188481
+redirect_from: /news/188481
 ---
 
 La gobernadora del estado de Chihuahua, Maru Campos Galván, sostuvo una importante reunión con miembros directivos de Safran para continuar reforzando los lazos y la colaboración y así poder cumplir con el compromiso del Gobierno del Estado de impulsar el desarrollo económico de Chihuahua.

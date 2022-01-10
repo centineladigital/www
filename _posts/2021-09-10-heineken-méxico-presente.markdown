@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se llevará a cabo en el municipio de Meoqui en la región de Chihuahua, el próximo 11 y 12 de septiembre"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "HEINEKEN México presente en la carrera ciclista  La Vuelta Delicias 2021"
 front: false
 section: "Local"
-news_id: 187640
+redirect_from: /news/187640
 ---
 
 Meoqui, Chihuahua 10 septiembre de 2021 - La Vuelta Delicias 2021, es la carrera de ciclismo que se llevará a cabo en el municipio de Meoqui en la región de Chihuahua, el próximo 11 y 12 de septiembre, organizada por el gobierno del municipio para convocar la participación de ciclistas de la región que disfruten de esta actividad.

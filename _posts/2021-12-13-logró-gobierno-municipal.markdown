@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Aplicarán un 50% de descuento a las tarifas A1 y A2, que representan el 40% de los contribuyentes"
 image: "/uploads/2021/images-unnamed_(22).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Logró Gobierno Municipal de Chihuahua convenio favorable con CFE en materia de DAP"
 front: false
 section: "Local"
-news_id: 190799
+redirect_from: /news/190799
 ---
 
 El alcalde de Chihuahua, Marco Bonilla Mendoza, sostuvo una reunión con el superintendente de la Comisión Federal de Electricidad (CFE), Aldo René Armendáriz Cortéz, en compañía de la Tesorera Municipal y Regidores del Ayuntamiento, donde se acordó un descuento del 50 % a las tarifas A1 y A2 en el cobro del Derecho de Alumbrado Público (DAP) para 2022.

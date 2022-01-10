@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con la realización del taller se busca mejorar los aprendizajes y atención brindada a menores de 4 a 12 años de edad con discapacidad visual. "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-30_at_13.40.55.jpeg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AUDIO-CLARISA_ARRIAGA__ENLACE_ACADEMICO_DE_EDUCACIÓN_ESPECIAL_DE_SEECH_(1).mp3"
 alt: "Con apoyo de Lego capacitan a directivos y docentes para escritura en braille"
 front: false
 section: "Local"
-news_id: 188230
+redirect_from: /news/188230
 ---
 
 Un grupo de 100 trabajadoras y trabajadores de los Servicios de Educación Especial en el estado, participaron en el taller “Aprendiendo a través del juego”, ofrecido por la Fundación Lego.

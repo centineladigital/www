@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En términos anuales, el IGAE registró un avance real de 3.8% en el mes de referencia"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cae economía mexicana 1.6% en agosto, su peor retroceso desde el inicio de su recuperación -  Inegi"
 front: false
 section: "Nacional"
-news_id: 189138
+redirect_from: /news/189138
 ---
 
 Durante agosto pasado la economía mexicana reportó su peor caída desde que inició su recuperación de la crisis generada por el Covid-19 en junio del año pasado, de acuerdo con los datos publicados por el Inegi. 

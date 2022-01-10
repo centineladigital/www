@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La CEPC da a conocer las zonas con más precipitaciones"
 image: "/uploads/2021/images-descarga.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capta Basaseachi 30.2 mm de lluvia en las últimas 24 hrs"
 front: false
 section: "Local"
-news_id: 182320
+redirect_from: /news/182320
 ---
 
 En las últimas 24 horas, la región de Basaseachi en el municipio de Ocampo, fue la que más concentró precipitaciones al registrar 30.2 mm, dio a conocer la Coordinación Estatal de Protección Civil (CEPC).

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Obtuvieron primeros lugares: Daniel Muni Chaparro, Leonel Salas Macinas, Yaikon Chávez Ceballos, y en la rama femenil Flora Itzel Loya Aguirre, Dora Alicia Cruz Bustillo, y Wendy Guadalupe Núñez Agüero"
 image: "/uploads/2021/images-U5.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con “Carrera 5K UT Tarahumara” celebran en Guachochi   aniversario de la Universidad Tecnológica de la Tarahumara"
 front: false
 section: "Local"
-news_id: 188099
+redirect_from: /news/188099
 ---
 
 Como parte de las actividades para fomentar la activación física, la sana convivencia y la integración entre la comunidad del municipio de Guachochi, la Universidad Tecnológica de la Tarahumara (UTT) llevó a cabo la “Carrera 5K UT Tarahumara”.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Lo que no ganaron en las urnas, lo quieren lograr mediante el caos”, advierte"
 image: "/uploads/2021/images-voto_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rechaza PAN ataques al INE por parte de Morena"
 front: false
 section: "Local"
-news_id: 184960
+redirect_from: /news/184960
 ---
 
 El Partido Acción Nacional manifiesta su rechazo a los ataques mediáticos y la presión "injustificada" de la que han sido objeto los organismos electorales por parte del partido Morena y reiteramos la defensa total de la voluntad de los ciudadanos que pretende ser socavada por los enemigos de la democracia.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este material discográfico podría significar el adiós del artista español. "
 image: "/uploads/2021/images-enrique-iglesias-disco-participa-bad.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Está por todos lados! Bad Bunny presente en el nuevo disco de Enrique Iglesias"
 front: false
 section: "Espectáculos"
-news_id: 187836
+redirect_from: /news/187836
 ---
 
 Enrique Iglesias ha publicado este viernes ‘FINAL (Vol.1)’, la primera parte de lo que podría ser su despedida discográfica, con un repertorio que cuenta como colaboradores con los puertorriqueños Bad Bunny, Nicky Jam, Myke Towers, Wisin, Farruko y los cubanos Descemer Bueno y Pitbull. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Andrea Meza, Miss Universo 2021, por fin vendrá a México después de haberse llevado la corona en el certamen de belleza. Éstas son las actividades que realizará. "
 image: "/uploads/2021/images-andrea-meza-vendra-a-mexico.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Volverá a casa! Andrea Meza, Miss Universo 2021, visitará México tras ganar certamen de belleza"
 front: false
 section: "Espectáculos"
-news_id: 185369
+redirect_from: /news/185369
 ---
 
 Fue el 16 de mayo que Andrea Meza se coronó como Miss Universo 2021, desde ese entonces la joven ha radicado en Nueva York, pero a casi dos meses de ganar el certamen de belleza por fin vendrá de visita a México para realizar algunas actividades y pasar tiempo con su familia. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Necesitamos que las economías avanzadas, como Estados Unidos y la Unión Europea, lideren en esto, pero ya conocen los hechos, criticó en expresidente de Estados Unidos durante su ponencia ante el foro sobre el cambio climático en Glasgow"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No hemos hecho suficiente contra el cambio climático -  Barack Obama en la COP26"
 front: false
 section: "Internacional"
-news_id: 189632
+redirect_from: /news/189632
 ---
 
 Glasgow.- El expresidente estadounidense Barack Obama declaró el lunes en la COP26 de Glasgow que "la mayoría de países han incumplido" con las metas del Acuerdo de París contra el cambio climático de 2015.

@@ -20,11 +20,11 @@ author: nil
 description: "SAFRAN dará empleo a 900 personas "
 image: "/uploads/2021/images-ba010e7f-d771-4abb-a5da-9e8be3951ad4.jpg"
 video: "/uploads/2021/videos-BM03_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se harán dos obras más para el municipio en los próximos meses "
 front: false
 section: "Local"
-news_id: 188396
+redirect_from: /news/188396
 ---
 
 El presidente Marco Bonilla aseguró que se está a la expectativa de dos obras para el municipio, señaló que en los próximos meses se estará anunciando una inversión importante en una vitivinícola  que se instalará en el municipio de Chihuahua.

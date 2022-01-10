@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los Pumas fueron la gran sorpresa de esta jornada doble"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así marcha la tabla de la Liga MX tras la jornada 14 del Apertura 2021"
 front: false
 section: "Deportes"
-news_id: 189006
+redirect_from: /news/189006
 ---
 
 Se disputó la Jornada 14 del Apertura 2021 de la Liga MX a media semana, para estar así cada vez más cerca de la Fiesta Grande del futbol mexicano. 

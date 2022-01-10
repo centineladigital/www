@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El director general del Seguro Social, Zoé Robledo, y el titular de Cofepris, Alejandro Svarch, firmaron como testigos de honor el convenio de colaboración. "
 image: "/uploads/2021/images-Foto_589-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instalan ventanillas de atención de Cofepris en oficinas del IMSS para asistencia técnica sobre registros y trámites sanitarios"
 front: false
 section: "Local"
-news_id: 191120
+redirect_from: /news/191120
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) y la Comisión Federal para la Protección contra Riesgos Sanitarios (Cofepris), firmaron un convenio de colaboración para instalar en las oficinas centrales del Instituto dos ventanillas de ingreso de trámites del Centro Integral de Servicios y brindar orientación y asistencia técnica al IMSS sobre registros y trámites sanitarios.

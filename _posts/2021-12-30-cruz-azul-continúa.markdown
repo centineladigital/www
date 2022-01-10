@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los promotores ven en Cruz Azul una opción para hacer su agosto y ofrecer a sus futbolistas"
 image: "/uploads/2021/images-imago-1124324.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cruz Azul continúa recibiendo ofertas de jugadores"
 front: false
 section: "Deportes"
-news_id: 191336
+redirect_from: /news/191336
 ---
 
 Los promotores no saben si hay dinero o no en el Cruz Azul, pero se aprestan a tratar de hacer su agosto con la directiva cementera, a la que antes se le llamaba “El Dorado”, y ahora hay que pulir para ver algún brillo.

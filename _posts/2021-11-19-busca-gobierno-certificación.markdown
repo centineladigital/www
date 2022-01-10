@@ -10,11 +10,11 @@ author: nil
 description: "Esta certificación se llevaría en tres años de forma natural."
 image: "/uploads/2021/images-GIIL.jpg"
 video: "/uploads/2021/videos-MV03_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Busca gobierno certificación CALEA en dos años"
 front: false
 section: "Local"
-news_id: 190015
+redirect_from: /news/190015
 ---
 
 Pese a que la certificación CALEA se otorga en un plazo de tres años, el actual gobierno estatal busca que se dé en dos años. Según aseveró el titular de la Secretaría de Seguridad Pública Estatal Gilberto Loya Chávez.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Buscan apoyar a empresarios y promotores deportivos."
 image: "/uploads/2021/images-JUAN_ABDO_(1).jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV01_JUAN_ABDO.mp3"
 alt: "Busca Abdo becas a empresarios deportivos"
 front: false
 section: "Local"
-news_id: 181983
+redirect_from: /news/181983
 ---
 
 Una reforma a la modalidad de las becas es lo que busca el regidor que preside la comisión del deporte en el municipio de Chihuahua, Juan Abdo. Esto ya que es un tema importante con el fin de fomentar diversas disciplinas.

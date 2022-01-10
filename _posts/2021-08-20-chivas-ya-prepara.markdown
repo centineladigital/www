@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Si no derrota mañana al Monterrey, Víctor Manuel Vucetich dejaría de ser el técnico de las Chivas"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chivas ya prepara al sustituto de Vucetich"
 front: false
 section: "Deportes"
-news_id: 186922
+redirect_from: /news/186922
 ---
 
 Las horas del técnico Víctor Manuel Vucetich están contadas al mando de las Chivas, se viene la crónica de un adiós anunciado. La directiva se toma un respiro ante los pésimos resultados como local (un punto de nueve posibles), ya que la plantilla ha prometido progreso mañana contra el Monterrey. 

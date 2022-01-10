@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Por su parte, el estratega del PSG señaló que tiene muchos jugadores que brillan por sí solos y un gran desafío de hacerlos jugar como equipo"
 image: "/uploads/2021/images-lionel-messi-durante-un-entrenamiento-1_0_36_1100_684.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mauricio Pochettino no da fecha para posible debut de Lionel Messi con el PSG"
 front: false
 section: "Deportes"
-news_id: 186642
+redirect_from: /news/186642
 ---
 
 El argentino Mauricio Pochettino, entrenador del París Saint-Germain (PSG), no dio una fecha para el debut oficial de Leo Messi y aclaró que tienen jugadores que "brillan por sí solos", pero que aún no son "un equipo". 

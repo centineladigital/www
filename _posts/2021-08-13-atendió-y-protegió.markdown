@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se incrementó de 14 a 34 el número de plazas del personal y se creó la procuraduría itinerante; para identificar casos de acoso laboral, está a disposición el micrositio https://www.stpschihuahua.com/cuentalo   "
 image: "/uploads/2021/images-Procuraduría_del_Trabajo-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Atendió y protegió Procuraduría de la Defensa del Trabajo  a 206 mil chihuahuenses"
 front: false
 section: "Local"
-news_id: 186667
+redirect_from: /news/186667
 ---
 
 “La meta se ha cumplido, las y los trabajadores tienen hoy una representación jurídica profesional, gratuita y totalmente ética”, señaló Rubén Acosta Félix, titular de la Procuraduría Estatal de la Defensa del Trabajo e Inspección del Trabajo de la Secretaría del Trabajo y Previsión Social (STPS), en el programa Logros con Valor.

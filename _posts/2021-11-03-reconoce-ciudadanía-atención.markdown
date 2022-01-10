@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Agentes de la Policía Municipal, Gobernación y Servicios Públicos, participaron en operativo"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Reconoce ciudadanía atención y limpieza en panteones municipales; supervisa Alcalde Operativo"
 front: false
 section: "Local"
-news_id: 189488
+redirect_from: /news/189488
 ---
 
 El presidente Municipal, Marco Bonilla Mendoza, supervisó el operativo de seguridad y de salud en los panteones municipales 1, 2, 4, Santa Fe y de Dolores, por ser los de mayor afluencia por el Día de Muertos, además de atender solicitudes que los mismos ciudadanos le hicieron en los recorridos.

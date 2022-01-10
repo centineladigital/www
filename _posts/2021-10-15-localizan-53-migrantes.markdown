@@ -10,11 +10,11 @@ author: nil
 description: "Rancho había sido revisado previamente, por lo que no tenían mucho tiempo ahí migrantes."
 image: "/uploads/2021/images-FIERRO.jpg"
 video: "/uploads/2021/videos-MV02_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Localizan 53 migrantes en Guadalupe Distrito Bravos"
 front: false
 section: "Local"
-news_id: 188788
+redirect_from: /news/188788
 ---
 
 Un total de 53 migrantes fueron localizados en un rancho en el municipio de Guadalupe y Calvo, estos migrantes procedían de Guatemala, Durango y Chihuahua. Destacando por parte del titular de la Fiscalía, Roberto Fierro Duarte, que estas personas fueron localizadas tras la búsqueda que se lleva a cabo de las 12 personas desaparecidas.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "UACH cuenta con con 571 estudiantes voluntarios que participarán en la campaña de vacunación en la capital y otros 73 en Parral."
 image: "/uploads/2021/images-LUIS.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM06_LUIS_FIERRO.mp3"
 alt: "Convertirán en centro de vacunación Poliforo"
 front: false
 section: "Local"
-news_id: 182819
+redirect_from: /news/182819
 ---
 
 La Facultad de Medicina será centro de vacunación en contra del COVID según lo dio a conocer el secretario ejecutivo del Comité de Salud de la UACH, Luis Alonso Fierro Méndez. Por lo que el Poliforo de esta institución realizará estas acciones.

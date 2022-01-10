@@ -14,7 +14,7 @@ audio: "/uploads/2021/audio-MV04_MARU.mp4"
 alt: "No se cancelarán eventos planeados -  Gobernadora"
 front: false
 section: "Local"
-news_id: 188789
+redirect_from: /news/188789
 ---
 
 No habrá cancelación de eventos planeados con antelación, fueron las palabras de la Gobernadora de Chihuahua María Eugenia Campos Galván. Esto tras ser cuestionada por el cambio del semáforo, dándose un retroceso a amarillo.

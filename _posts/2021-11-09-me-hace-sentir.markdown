@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Nunca me habría atrevido a hacer una canción ni a contarlo, pero estaba tan ultrasensible que escribí esa canción, dijo la cantante sobre 'A Crying Diamond', tema donde plasmó este difícil momento. "
 image: "/uploads/2021/images-cantante-chilena-acaba-lanzar-disco.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me hace sentir culpable -  Mon Laferte revela que sufrió abuso sexual a los 13 años"
 front: false
 section: "Espectáculos"
-news_id: 189723
+redirect_from: /news/189723
 ---
 
 Para la cantante chilena Mon Laferte su nuevo disco, 1940 Carmen, ha resultado el más "hormonal" e "improvisado", pues plasmó en él momentos muy personales que no se había atrevido abordar en otros materiales, por ejemplo: el abuso sexual que sufrió a los 13 años. "Yo estaba en hormonas fatal, llevaba ya un montón todo el tiempo. Era un shot diario de hormonas y estaba muy sensible. Todo lo que escribí o hice no tiene mucho plan realmente. Fue explosivo de mi parte querer hacer un disco", relata en una entrevista a través de videollamada. 

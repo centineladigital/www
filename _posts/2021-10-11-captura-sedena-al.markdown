@@ -9,12 +9,12 @@ tags:
 author: nil
 description: " Se le cumplimentó orden de aprehensión por los delitos de homicidio y delincuencia organizada"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Captura SEDENA al Director de Seguridad Pública Municipal de Matamoros"
 front: false
 section: "Local"
-news_id: 188594
+redirect_from: /news/188594
 ---
 
 Elementos de la Secretaría de la Defensa Nacional llevaron a cabo la detención del Director de Seguridad Pública del Municipio de Matamoros, como probable responsable de los delitos de homicidio y delincuencia organizada.

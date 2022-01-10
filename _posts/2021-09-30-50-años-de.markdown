@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Disney anunció este jueves que en 2022 abrirán dos de sus grandes novedades, el hotel ‘Star Wars: Galactic Starcruiser’ y la atracción 'Guardians of the Galaxy: Cosmic Rewind'."
 image: "/uploads/2021/images-walt-disney-world-cambiara-mensaje.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡50 años de Disney World! El parque de atracciones más visitado del mundo se renueva"
 front: false
 section: "Buenas Noticias"
-news_id: 188248
+redirect_from: /news/188248
 ---
 
 Disney World celebra sus 50 años siendo el mayor conjunto de parques de atracciones, y lo hace con anuncios de nuevas atracciones y el estreno de nuevas experiencias. 

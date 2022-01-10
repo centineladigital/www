@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Fue durante la más reciente emisión del programa Ventaneando de TV Azteca en donde se presenció el momento justo en el que en el foro apareció la figura de un fantasma. "
 image: "/uploads/2021/images-aparece-fantasma-ventaneando-tv-azteca.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Viven experiencia 'paranormal' en 'Ventaneando'; aparece 'fantasma' detrás de Pati Chapoy"
 front: false
 section: "Espectáculos"
-news_id: 188630
+redirect_from: /news/188630
 ---
 
 Ventaneando, programa de televisión en TV Azteca, causó tremenda polémica en su más reciente emisión. ¿Qué sucedió? Y es que el producto especializado en espectáculos causó temor entre varios espectadores al captar un ‘fantasma’ detrás de la periodista Pati Chapoy mientras conducía como lo hace normalmente. Aunque los conductores no habían notado éste suceso paranormal, más tarde con los señalamientos del público, reaccionaron y hasta compartieron el momento justo en el que una figura extraña aparece detrás de la titular de Ventaneando. 

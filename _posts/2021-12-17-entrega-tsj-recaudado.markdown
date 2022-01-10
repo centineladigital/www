@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Entregan  100 juguetes y 70 conjuntos de sudaderas y pantaloneras."
 image: "/uploads/2021/images-index.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV02_ISRAEL_HERNANDEZ.mp4"
 alt: "Entrega TSJ recaudado en Navidad Godín"
 front: false
 section: "Local"
-news_id: 190981
+redirect_from: /news/190981
 ---
 
 Un total de tres mil 666 artículos de higiene, 100 juguetes y 70 conjuntos de sudaderas y pantaloneras fue el monto recaudados por parte de jueces, magistrados y empleados del Tribunal Superior de Justicia dentro de la actividad Navidad Godín, según lo dio a conocer el vocero del Poder Judicial Israel Hernández.

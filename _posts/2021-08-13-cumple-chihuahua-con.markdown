@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La entidad se colocó a la vanguardia al expedir la Ley del Centro de Conciliación Laboral para el Estado de Chihuahua; se  armonizó la normativa laboral y se impulsó la modificación de estatutos sindicales, informa la Secretaría del Trabajo y Previsión Social"
 image: "/uploads/2021/images-_DSC9406.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cumple Chihuahua con reforma laboral y deja listo el Centro de Conciliación"
 front: false
 section: "Local"
-news_id: 186681
+redirect_from: /news/186681
 ---
 
 Durante esta administración estatal se lograron sentar las bases para una correcta y oportuna implementación de la reforma laboral en el estado de Chihuahua, dijo el titular de la Secretaría del Trabajo y Previsión Social (STPS), Juan Ramón Herrera Pedroza.

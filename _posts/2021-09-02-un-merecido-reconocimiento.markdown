@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Maná recibirá el Premio Icono en los Latin Billboard, además, durante el evento presentarán su nueva canción. "
 image: "/uploads/2021/images-mana-recibira-premio-septiembre-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Un merecido reconocimiento! Maná recibirá el Premio Icono en los Latin Billboard 2021"
 front: false
 section: "Espectáculos"
-news_id: 187361
+redirect_from: /news/187361
 ---
 
 La banda de rock mexicana Maná, que con más de 25 años de carrera ha logrado destacar en el gusto del público, será honrada durante los Premios Billboard de la Música Latina con el galardón Icono, en una velada que se llevará a cabo el 23 de septiembre en Miami en la que además interpretarán su nuevo sencillo, una nueva versión del clásico "El Reloj Cucú".

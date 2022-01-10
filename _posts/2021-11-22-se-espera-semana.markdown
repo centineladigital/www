@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Debido al Frente Frío #10, podrían presentarse lluvias para el viernes"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se espera semana fría y nublados en la ciudad -  Protección Civil Municipal"
 front: false
 section: "Local"
-news_id: 190071
+redirect_from: /news/190071
 ---
 
 Debido al Frente Frío número 10, esta semana se presentará un descenso en las temperaturas en la ciudad con días mayormente nublados, así lo informó la Coordinación Municipal de Protección Civil, de acuerdo al pronóstico que emite el Servicio Meteorológico Nacional, por lo cual se exhorta a la población a atender las recomendaciones que se emiten por parte de las autoridades para evitar complicaciones de salud.

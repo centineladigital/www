@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En primer día como gobernador Samuel García promete trabajar por nuevo Federalismo y la división de Poderes"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“AMLO y gobiernos cuentan conmigo” -  Samuel García"
 front: false
 section: "Nacional"
-news_id: 188329
+redirect_from: /news/188329
 ---
 
 Monterrey.— Al rendir protesta como gobernador de Nuevo León, Samuel García Sepúlveda afirmó ante sus homólogos de siete entidades de la República que, en las luchas por un nuevo Federalismo y en defensa de la división de Poderes, contarán con él, al tiempo que ofreció trabajar de la mano con el presidente Andrés Manuel López Obrador para resolver juntos los problemas que son concurrentes, ya que Nuevo León necesita del país, pero también México necesita del estado, dijo.

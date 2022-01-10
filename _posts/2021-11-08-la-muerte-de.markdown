@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Juan Ferrara reveló los motivos de la muerte del actor villano Enrique Rocha. Además recordó algunos momentos que vivió con el famoso. "
 image: "/uploads/2021/images-juan-ferrara-revela-causas-muerte-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La muerte de los justos -  Juan Ferrara revela de qué murió el actor Enrique Rocha; así lo recuerda"
 front: false
 section: "Espectáculos"
-news_id: 189641
+redirect_from: /news/189641
 ---
 
 Enrique Rocha, uno de los actores más reconocidos del mundo del espectáculo, enlutó a México, pues su trayectoria marcó a varias generaciones de televidentes que lo vieron desenvolverse con varios papeles de villano en telenovelas. La noticia sobre su muerte a los 81 años ocasionó que varios famosos, amigos y conocidos reaccionaran por su pérdida. Uno de ellos fue Juan Ferrara, quien reveló los motivos de la muerte de Enrique Rocha, uno de sus mejores amigos. En entrevista con el programa Hoy de Televisa, Juan Ferrara habló sobre la sorpresiva muerte de Erique Rocha. Externó que cuando recibió la noticia se llevó un susto horrible. El actor se enteró de la muerte de su amigo por teléfono. 

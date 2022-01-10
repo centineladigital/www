@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un total de 8 mil 233 personas han perdido la vida por COVID-19, este miércoles no se reportan nuevos decesos. "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 19 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 189927
+redirect_from: /news/189927
 ---
 
 El Gobierno del Estado a través de la Secretaría de Salud de Chihuahua, presenta este 17 de noviembre el reporte COVID-19, en el cual se registran 83 mil 518 (+19) personas confirmadas en la entidad por este padecimiento, 71 mil 828 (+37) casos recuperados, 78 mil 057 (+9) descartados y 818 (+2) casos sospechosos.

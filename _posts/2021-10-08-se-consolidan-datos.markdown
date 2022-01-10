@@ -10,11 +10,11 @@ author: nil
 description: "Omite dar a conocer irregularidades dentro de su área Secretario General de Gobierno."
 image: "/uploads/2021/images-JAUREGUI1.jpg"
 video: "/uploads/2021/videos-MV01_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Se consolidan datos para presentar irregularidades"
 front: false
 section: "Local"
-news_id: 188532
+redirect_from: /news/188532
 ---
 
 La Secretaría de la Función Pública será quien dé a conocer las irregularidades detectadas dentro de los 30 días de gobierno de la presente administración, señaló César Gustavo Jáuregui Moreno Secretario General de Gobierno.

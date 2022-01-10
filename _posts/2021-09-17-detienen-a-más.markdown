@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Policías señalaron que se trata de ciudadanos procedentes de Guatemala, Honduras y Nicaragua"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-17_at_16.17.09.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Detienen a más de 200 migrantes"
 front: false
 section: "Local"
-news_id: 187840
+redirect_from: /news/187840
 ---
 
 Este medio día de viernes sobre la calle Octava y Tascares en la colonia Granjas Cerro Grande se registró un operativo de estatales, ministeriales y policía municipal tras el reporte de un refugio donde había por lo menos 200 indocumentados en un domicilio. 

@@ -18,11 +18,11 @@ author: nil
 description: "Depuración se da de forma constante."
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-MM05_GILBERTO_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Reforzamiento de corporación se da de forma constante"
 front: false
 section: "Local"
-news_id: 188645
+redirect_from: /news/188645
 ---
 
 Tras registrarse hechos donde fue detenido un titular de la Policía Municipal, Gilberto Loya Chávez Secretario de Seguridad Pública, señaló que se lleva a cabo un reforzamiento de las fuerzas de seguridad en diversos municipios de forma constante.

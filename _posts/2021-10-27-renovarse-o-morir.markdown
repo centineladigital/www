@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La intérprete presenta su primer álbum de estudio, que llega con 11 canciones."
 image: "/uploads/2021/images-majo-aguilar-estrena-herencia-sangre_0_165_854_531.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Renovarse o Morir”. Majo Aguilar apuesta por su honestidad como artista"
 front: false
 section: "Espectáculos"
-news_id: 189251
+redirect_from: /news/189251
 ---
 
 La constancia, el trabajo y el valor para tomar riesgos son tres factores que caracterizan a los artistas que incendian el cambio y la innovación; para Majo Aguilar, a estos conceptos también se le pueden añadir la perseverancia y el amor propio, pilares indispensables para la forma en que trabaja y que le llevaron hasta la publicación de su primer álbum ranchero, “Mi herencia, mi sangre”. Desde la presentación de algunos de los sencillos que conforman el álbum, “No voy a llorar”, “Así Es La Vida”, “Me Vale” y “Amor Ilegal” siendo algunos de ellos, la intérprete ha sido receptora de innumerables elogios y loas que la han hecho sentirse apoyada durante sus primeros pasos dentro de la industria.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se tienen registradas 8 mil 002 (+8) defunciones, recuperados suman 67 mil 809 (+198) recuperados, descartados son 70 mil 426 (+249) y contabiliza en 802 (+12) los casos sospechosos."
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 163 nuevos contagios de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 188477
+redirect_from: /news/188477
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 7 de octubre se tiene un total general de 78 mil 871 contagios en el estado. Luego de confirmarse otros 163 más en Juárez, Chihuahua, Parral, Cuauhtemoc, Delicias, Nuevo Casas Grandes, Ojinaga, Camargo, Guachochi, Bocoyna, Meoqui, Saucillo, Guerrero, Aldama, Buenaventura, Chinipas, Allende, Guazapares, Asencion, Rosales, Guadalupe y Calvo, Urique, Janos, Nonoava, Morelos, Batopilas y El Tule. 

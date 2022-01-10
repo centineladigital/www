@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El América y Toluca están en lo más alto de la tabla con 20 unidades"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así marcha la tabla de la Liga MX tras la jornada 9 del Apertura 2021"
 front: false
 section: "Deportes"
-news_id: 187861
+redirect_from: /news/187861
 ---
 
 Las Águilas del América, que perdieron este sábado 3-1 con el Toluca, se mantuvieron como líderes del torneo Apertura 2021 del fútbol mexicano, al concluir este domingo la novena jornada. América suma seis victorias, dos empates, una derrota y 20 puntos, los mismos que el Toluca del técnico argentino Hernán Cristante, al cual aventaja por mejor diferencia de goles.

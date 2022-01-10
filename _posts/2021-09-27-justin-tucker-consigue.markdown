@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El pateador de los Baltimore Ravens logró darle la victoria a su equipo sobre la hora y colocó a su equipo como segundo de la AFC Norte "
 image: "/uploads/2021/images-justin-tucker-afp_0_18_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Justin Tucker consigue el gol de campo más largo de la NFL con 66 yardas"
 front: false
 section: "Deportes"
-news_id: 188082
+redirect_from: /news/188082
 ---
 
 El pateador estadunidense de los Baltimore Ravens, Justin Tucker, hizo historia al conseguir realizar el gol de campo más largo de la historia de la NFL al meter el balón desde una distancia de 66 yardas, para la victoria de su equipo. 

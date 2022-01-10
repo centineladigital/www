@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente municipal Marco Bonilla agradeció el respaldo de las y los regidores por elegir a un excelente perfil que permitirá hacer de Chihuahua una ciudad más segura"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-11_at_11.54.15.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Designa Cabildo a Julio César Salas González como Director de Seguridad Pública Municipal"
 front: false
 section: "Local"
-news_id: 187657
+redirect_from: /news/187657
 ---
 
 Las y los integrantes del Cabildo, en reanudación de sesión solemne, llevaron a cabo la elección para designar al nuevo Director de la Dirección de Seguridad Pública Municipal (DPSM), siendo elegido el inspector general Julio César Salas González. 

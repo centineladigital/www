@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "1,5 hectáreas de vegetación en la localidad de Castro; Chile, fueron dañadas después de que se suscitara un incendio forestal que hasta el momento no deja muertos. "
 image: "/uploads/2021/images-incendio-forestal-santiago-chile-bomberos.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Incendio en Chile deja al menos 60 casas dañadas y 100 personas desalojadas"
 front: false
 section: "Internacional"
-news_id: 190699
+redirect_from: /news/190699
 ---
 
 Al menos 60 viviendas resultaron dañadas y unas cien personas tuvieron que ser evacuadas por un incendio forestal que arrasó este jueves, hasta el momento, 1,5 hectáreas de vegetación en la localidad de Castro, en el sureño archipiélago de Chiole, al sur de Chile. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Rescata el folklore chihuahuense   "
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan libro Leyendas de fantasmas en FICUU 2021"
 front: false
 section: "Local"
-news_id: 189000
+redirect_from: /news/189000
 ---
 
 En el marco del Festival Internacional de la Ciudad de Chihuahua (FICUU) 2021, en el Centro Histórico de la ciudad, se realizó la presentación del libro titulado: "Leyendas de fantasmas", del autor chihuahuense César Ibarra.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "esto con el fin de facilitar el proceso de documentación para las personas que aún no han sido vacunadas contra el COVID, y para la documentación que solicitan los centros educativos en el regreso a clases"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reciben familias de asentamiento El Oasis equipo de impresión para el regreso a clases"
 front: false
 section: "Local"
-news_id: 187043
+redirect_from: /news/187043
 ---
 
 El Gobierno Municipal a través del DIF hizo entrega de un equipo de impresión láser y fotocopiado a la comunidad del asentamiento tarahumara “El Oasis”, esto con el fin de facilitar el proceso de documentación para las personas que aún no han sido vacunadas contra el COVID, y para la documentación que solicitan los centros educativos en el regreso a clases.

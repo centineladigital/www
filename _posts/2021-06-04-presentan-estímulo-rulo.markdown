@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Buscan que jóvenes puedan sobresalir en los deportes y áreas académicas."
 image: "/uploads/2021/images-HECTOR.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV01.mp3"
 alt: "Presentan estímulo “Rulo Sandoval”"
 front: false
 section: "Local"
-news_id: 184849
+redirect_from: /news/184849
 ---
 
 Jóvenes que ingresen a la preparatoria del Tecnológico de Monterrey y que jueguen futbol americano serán apoyados por parte de la Fundación Ex Borregos, esto según fue dado a conocer por parte de su presidente al presentar el estímulo “Rulo” Sandoval, que pretende que los jóvenes dejen sus estudios.

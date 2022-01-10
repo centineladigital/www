@@ -14,11 +14,11 @@ author: nil
 description: "Se darán vales para apoyar a los chihuahuenses. "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-20_at_3.02.37_PM.jpeg"
 video: "/uploads/2021/videos-BL01_MONICA_HERRERA.mp4"
-audio: "nil"
+audio: nil
 alt: "3 clínicas municipales ofrecen servicios de cálidad"
 front: false
 section: "Local"
-news_id: 187892
+redirect_from: /news/187892
 ---
 
 El Gobierno Municipal en conjunto con la fundación Adelaida Lafón, brindarán atención medica de bajo costo pero de alta calidad en clínica Riveras, Chanita Y Lupita, esto con el fin de que la comunidad chihuahuense obtenga un diagnostico oportuno y de calidad sin afectar su economía.

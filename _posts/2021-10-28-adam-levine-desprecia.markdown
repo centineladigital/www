@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En uno de los últimos conciertos de Maroon 5, una fan subió al escenario y abrazo a Adam Levine, sin embargo, la reacción del cantante causó polémica. "
 image: "/uploads/2021/images-adam-levine-defendio-conto-paso.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Adam Levine desprecia a fan que subió al escenario para abrazarlo; cantante se defiende"
 front: false
 section: "Espectáculos"
-news_id: 189302
+redirect_from: /news/189302
 ---
 
 De nueva cuenta Adam Levine fue atacado en redes sociales después de que se difundieran varios videos en el que una fan subió al escenario mientras Maroon 5 daba una presentación, la joven intentó abrazar al cantante, pero la reacción que tuvo el vocalista de la banda fue algo que generó críticas. Todo sucedió el pasado fin de semana cuando Maroon 5 se presentó en el anfiteatro de Hollywood Bowl en Los Ángeles mientras la banda interpretaba el tema “Sunday Morning”, una fan burló la seguridad y subió al escenario. 

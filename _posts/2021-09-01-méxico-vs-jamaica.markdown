@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te dejamos todos los detalles del México vs Jamaica en el Octagonal de Concacaf rumbo al Mundial de Qatar"
 image: "/uploads/2021/images-donde-ver-mexico-vs-jamaica_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México vs Jamaica. Horario y dónde ver en vivo el partido rumbo a Qatar 2022"
 front: false
 section: "Deportes"
-news_id: 187314
+redirect_from: /news/187314
 ---
 
 No hay fecha que no se cumpla, para la selección mexicana, a quien le llegó la hora de iniciar su camino rumbo al Mundial de Qatar 2022 con el partido entre México vs Jamaica que se celebrará este jueves en la cancha del Estadio Azteca. 

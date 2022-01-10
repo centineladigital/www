@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se firmó el acuerdo de entendimiento para promover la cultura estadounidense"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Renuevan Gobierno Municipal y Consulado General de EUA  memorándum para la “Esquina Benjamín Franklin”"
 front: false
 section: "Local"
-news_id: 190474
+redirect_from: /news/190474
 ---
 
 Con el fin de fortalecer la relación que tiene el Municipio de Chihuahua con el Consulado General de Estados Unidos de América en Ciudad Juárez, el presidente municipal de Chihuahua, Marco Bonilla, sostuvo una reunión con el cónsul General, Eric Cohan, en donde se firmó la renovación del memorándum de entendimiento que da origen a la “Esquina Benjamín Franklin” en la Mediateca Municipal.

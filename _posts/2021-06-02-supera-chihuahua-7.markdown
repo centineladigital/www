@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Secretaría de Salud reporta 147 nuevos contagios y 39 decesos más, para sumar un acumulado general de 7 mil 008 personas que han perdido la vida y 68 mil 473 que se han enfermado en la entidad"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Supera Chihuahua 7 mil defunciones por COVID-19 durante la pandemia"
 front: false
 section: "Local"
-news_id: 184794
+redirect_from: /news/184794
 ---
 
 La Secretaría de Salud dio a conocer en el último reporte epidemiológico que se registraron en la entidad 147 nuevos contagios por SARS-CoV-2 y 39 fallecimientos más, que suman un total general de 68 mil 473 casos confirmados, mientras que el número de personas fallecidas es 7 mil 008.

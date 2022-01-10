@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El torneo se realizó a través de las categorías femenil, varonil y sub-12."
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participan 50 jóvenes en Festejo al Ajedrez 2021 del Gobierno Municipal"
 front: false
 section: "Local"
-news_id: 186793
+redirect_from: /news/186793
 ---
 
 En el marco de las actividades para celebrar el Mes de la Juventud, el Gobierno Municipal, a través de la Dirección de Desarrollo Humano y Educación, llevó a cabo el Festejo al Ajedrez, el cual contó con la participación de 50 jóvenes ajedrecistas de la ciudad. 

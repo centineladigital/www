@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Piden la instalación de este tipo de multas."
 image: "/uploads/2021/images-F1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV04_FERNANDO_HINOJOS.mp4"
 alt: "Podrían regresar las fotomultas"
 front: false
 section: "Local"
-news_id: 189376
+redirect_from: /news/189376
 ---
 
 Un posible regreso de las fotomultas en Chihuahua se pudiera registrar luego de que analizan el que se vuelva a aplicar esta sanción, según lo dio a conocer el presidente del Consejo Consultivo de Vialidad, Fernando Hinojos.

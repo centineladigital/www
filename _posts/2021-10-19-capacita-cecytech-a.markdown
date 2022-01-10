@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con apoyo de la Secretaría de Salud, capacitó a las comunidades escolares y sus comisiones de salud de los 52 planteles que operan en la entidad."
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Capacita CECyTECH a su personal en materia de salud con acciones preventivas por COVID-19"
 front: false
 section: "Local"
-news_id: 188908
+redirect_from: /news/188908
 ---
 
 Con el objetivo de fortalecer las acciones contra COVID-19, el Colegio de Estudios Científicos y Tecnológicos del Estado de Chihuahua (CECyTECH), con apoyo de la Secretaría de Salud, capacitó a las comunidades escolares y sus comisiones de salud de los 52 planteles que operan en la entidad.

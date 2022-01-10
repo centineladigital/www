@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Pese a su suspensión, los chihuahuenses pueden estar seguros de que todos sus casos en el Poder Judicial fueron juzgados con estricto apego a sus derechos"
 image: "/uploads/2021/images-GEGEGEW.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AW01_JORGE_RAMIREZ.mp3"
 alt: "Descarta Jorge Ramírez denunciar al gobernador y la FGE"
 front: false
 section: "Local"
-news_id: 184799
+redirect_from: /news/184799
 ---
 
 Después de regresar a su cargo, el magistrado Jorge Abraham Ramírez Alvídrez, descartó que vaya a denunciar al gobernador del estado, Javier Corral y al Fiscal general del estado (FGE), César Augusto Peniche Espejel, ya que son consideraciones jurídicas y no le corresponde determinar si se procederá en contra de ambos.

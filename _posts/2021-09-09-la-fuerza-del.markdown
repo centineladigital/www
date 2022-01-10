@@ -20,11 +20,11 @@ author: nil
 description: "La estrategia de Maru será la misma que de Corral "
 image: "/uploads/2021/images-HICKERSON.jpg"
 video: "/uploads/2021/videos-BJ03_GUSTAVO_HICKERSON.mp4"
-audio: "nil"
+audio: nil
 alt: "La fuerza del estado es el obrero "
 front: false
 section: "Local"
-news_id: 187585
+redirect_from: /news/187585
 ---
 
 El diputado de distrito 7 Gustavo De la rosa Hickerson afirmó que la estrategia que  tiene la gobernadora Maru  Campos  es la misma que tuvo Javier Corral,  aseguró que es el mismo problema que tuvo Javier Corral en la administración pasada con la deuda de  Cesar Duarte.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Varios pobladores dijeron a un comité del Ayuntamiento que no les recogían la basura desde días antes de que la tormenta golpeara la ciudad el 29 de agosto. "
 image: "/uploads/2021/images-gobierno-alcaldesa-latoya-cantrell-afirma_0_68_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tras paso de huracán 'Ida', basura inunda calles de Nueva Orleans"
 front: false
 section: "Internacional"
-news_id: 187855
+redirect_from: /news/187855
 ---
 
 Basura y escombros se acumulan en muchas calles de Nueva Orleans  casi tres semanas después de que el huracán Ida azotó el sureste del estado de Luisiana, Estados Unidos, y los residentes reaccionan con creciente enfado y, en algunos casos, con humor negro. Varios pobladores dijeron el viernes a un comité del Ayuntamiento que no les recogían la basura desde días antes de que la tormenta golpeara la ciudad el 29 de agosto. 

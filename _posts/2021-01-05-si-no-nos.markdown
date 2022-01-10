@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Lanzan video para solicitar a la sociedad apoyo para quedarse en casa y evitar más contagios por Covid-19; ‘nosotros hemos dado todo por ti’, dicen a mexicanos"
 image: "/uploads/2021/images-2506575.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "‘Si no nos ayudas, no resistiremos’, te suplican médicos del IMSS"
 front: false
 section: "Nacional"
-news_id: 181872
+redirect_from: /news/181872
 ---
 
 El personal médico del Instituto Mexicano del Seguro Social lleva meses en su lucha contra el Covid-19 y entre sus filas hay quienes se han contagiado y otros más han fallecido; sin embargo continúan su combate y por ello pidieron a la sociedad ayudarlos a acabar con la pandemia al cuidarse y quedarse en casa.

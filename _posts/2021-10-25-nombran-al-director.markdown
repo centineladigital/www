@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Gustavo Abraham Ramonet Ontiveros actualmente se desempeña como titular de la Dirección de Minería, de la Secretaria de Innovación y Desarrollo Económico"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nombran al Director de Minería en Chihuahua como Presidente de la Asociación Nacional de Directores de Minería de los Estados"
 front: false
 section: "Local"
-news_id: 189145
+redirect_from: /news/189145
 ---
 
 Durante el marco de la XXXIV Convención Internacional de Minería, organizada por la Asociación de Ingenieros Mineros Metalurgistas y Geólogos de México, celebrada en días pasados en el puerto de Acapulco, Guerrero, el Ing. Gustavo Abraham Ramonet Ontiveros, fue nombrado nuevo Presidente de la Asociación Nacional de Directores de Minería de los Estados, para el periodo que comprende los próximos dos años.

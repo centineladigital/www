@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "‘Cerca de 12 millones de personas están completamente vacunadas, pero ello representa menos del 1% de la población’ del continente, precisa la OMS"
 image: "/uploads/2021/images-2596626.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Urgen vacunas en África, covid-19 ‘se extiende y acelera’ -  OMS"
 front: false
 section: "Local"
-news_id: 185078
+redirect_from: /news/185078
 ---
 
 La tercera ola de casos de covid-19 "se extiende y acelera" en África con las variantes, advirtió la oficina de la Organización mundial de la salud (OMS) en este continente, y pidió mayor suministro de vacunas.

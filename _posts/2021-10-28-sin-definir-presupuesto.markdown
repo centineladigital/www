@@ -10,11 +10,11 @@ author: nil
 description: "El funcionario dijo que buscarán reducir lo más posible el déficit presupuestario."
 image: "/uploads/2021/images-GRANILLO.jpg"
 video: "/uploads/2021/videos-MJ04_JESUS_GRANILLO.mp4"
-audio: "nil"
+audio: nil
 alt: "Sin definir presupuesto 2022"
 front: false
 section: "Local"
-news_id: 189315
+redirect_from: /news/189315
 ---
 
 Aún no se define el monto que ejercerá el estado para el 2022, el cual busca estar balanceado según lo señaló el Secretario de Hacienda, José de Jesús Granillo Vázquez. Señalando no poder hablar de números ya que esto sería precipitado.

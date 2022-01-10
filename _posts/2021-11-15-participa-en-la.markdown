@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se darán a niñas y niños de zonas vulnerables y rural del municipio el Día de Reyes"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa en la tradicional colecta de juguetes de Bomberos"
 front: false
 section: "Local"
-news_id: 189841
+redirect_from: /news/189841
 ---
 
 Los Bomberos de la ciudad se preparan para iniciar con la tradicional colecta de juguetes, que serán entregados a niñas y niños de escasos recursos que viven en zonas vulnerables y rural del municipio de Chihuahua, en próximos días arrancarán de manera formal la loable y noble acción, la cual se ha venido realizando desde hace casi tres décadas.

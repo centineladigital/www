@@ -14,11 +14,11 @@ author: nil
 description: "El presidente municipal Marco Bonilla señaló que no se abrirá carpeta de investigación para las personas que lleven consigo un arma que solo deba ser usada por elementos de la SEDENA"
 image: "/uploads/2021/images-canje_armas.jpg"
 video: "/uploads/2021/videos-_BW01_ALEJANDRO_Y_MARCO.mp4"
-audio: "nil"
+audio: nil
 alt: "Comienza canje de armas del municipio "
 front: false
 section: "Local"
-news_id: 190400
+redirect_from: /news/190400
 ---
 
 Con motivo de la seguridad en esta época navideña, el  Gobierno Municipal en conjunto con la SEDENA se abrió la convocatoria de canje de armas el cual tendrá lugar en la plaza de armas desde los días 1 de diciembre al 10 del mismo mes.

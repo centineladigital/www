@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto tras quejas por la situación que se registra en una piscina."
 image: "/uploads/2021/images-ALEJANDRO-IVAN-TORRES-SANTIESTEBAN.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ03_IVAN_TORRES.mp4"
 alt: "Niega COESPRIS información de agua en YMCA"
 front: false
 section: "Local"
-news_id: 190935
+redirect_from: /news/190935
 ---
 
 Debido a que el Centro Deportivo de la ciudad de Chihuahua YMCA es privado el el coordinador de la Comisión Estatal para la Prevención Estatal de Riesgos Sanitarios, Iván Alejandro Torres Santiesteban, se negó a señalar en que situación se encuentra el agua de la alberca de este polideportivo.

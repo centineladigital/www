@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La investigación revela que aplicar una primera dosis de Pfizer o AstraZeneca, seguida de una dosis de Moderna, semanas después, brinda una mayor respuesta inmunitaria que la de aquellos que se aplican dos dosis de Pfizer, o dos de AstraZeneca"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Combinar Pfizer o AstraZeneca con Moderna ofrece más protección antiCovid-19 -  estudio"
 front: false
 section: "Internacional"
-news_id: 190620
+redirect_from: /news/190620
 ---
 
 Combinar vacunas contra el Covid-19 puede brindar una protección mayor de la que ofrece aplicar dos dosis con el mismo biológico, señala un estudio publicado en la revista The Lancet que representa una buena noticia en aquellos países que no han podido aplicar aún las segundas dosis.

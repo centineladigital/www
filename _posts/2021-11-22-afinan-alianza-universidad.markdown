@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El objetivo es fomentar el emprendedurismo de las y los estudiantes"
 image: "/uploads/2021/images-IMG_7584.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Afinan alianza Universidad Tecnológica de Chihuahua Sur y la Fundación Wadhwani"
 front: false
 section: "Local"
-news_id: 190078
+redirect_from: /news/190078
 ---
 
 Directivos de la Universidad Tecnológica de Chihuahua Sur (UTCH Sur) y representantes de la Fundación Wadhwani se reunieron con el objetivo de afinar detalles sobre proyectos de capacitación a docentes y fomento al emprendedurismo para el alumnado de la institución.

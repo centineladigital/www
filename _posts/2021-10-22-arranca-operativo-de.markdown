@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se ha dispuesto una línea de atención ciudadana directa 24/7 para la denuncia de este delito a través del 911   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Arranca Operativo de la Secretaría de Seguridad del Estado contra el robo de nuez y cosechas de alto valor"
 front: false
 section: "Local"
-news_id: 189057
+redirect_from: /news/189057
 ---
 
 La gobernadora Maru Campos puso en marcha el Operativo de Protección a la Cosecha de Alto Valor, misma que calificó como un compromiso del gobierno estatal para proteger el trabajo agrícola y abatir el robo de nuez, alfalfa, chile, algodón, cebolla, y otros productos agrícolas.

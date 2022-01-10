@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Gobierno esta con la actitud de trabajar afirma Secretario de Gobierno."
 image: "/uploads/2021/images-MESTA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MM06.mp3"
 alt: "Confío en continuación de transición -  Mesta"
 front: false
 section: "Local"
-news_id: 185625
+redirect_from: /news/185625
 ---
 
 “Yo espero que de aquí en adelanta así continúe” fueron las palabras del Secretario General de Gobierno Fernando Mesta Soulé, al ser cuestionado respecto a la reunión que se dio entre el secretario de Hacienda, Arturo Fuentes Vélez y el equipo de la gobernadora electa Maru Campos Galván.

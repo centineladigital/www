@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se desperdicia la capacidad de seis pipas."
 image: "/uploads/2021/images-T2.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04_TEPORACA_ROMERO.mp4"
 alt: "Fisura en alberca olímpica derrama miles de litros"
 front: false
 section: "Local"
-news_id: 188980
+redirect_from: /news/188980
 ---
 
 Una fisura en la alberca olímpica origina que diariamente se pierda algo similar a la capacidad de 6 pipas de agua, afirmó Teporaca Romero Hierro directora del Instituto Chihuahuense del Deporte, esto al dar a conocer que en próximos días se dará a conocer el monto de inversión y el tiempo en el que se llevaran los trabajos de mantenimiento.

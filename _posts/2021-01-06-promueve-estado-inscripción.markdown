@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Distribuirá a través de SEECH, folletos y dípticos en lenguas indígenas de la entidad. Durante enero se entregarán más de 25 mil volantes, carteles y posters informativos"
 image: "/uploads/2021/images-Dípiticos_en_lenguas_indígenas-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Promueve Estado inscripción de menores de comunidades indígenas   en Educación Básica"
 front: false
 section: "Local"
-news_id: 181906
+redirect_from: /news/181906
 ---
 
 Con la finalidad de alentar a las comunidades originarias a inscribir a menores de edad en Educación Básica, la Secretaría de Educación y Deporte (SEyD) distribuirá folletos y dípticos en lenguas indígenas del estado, con información sobre requisitos y fechas que acudan a efectuar este proceso durante la primera quincena de febrero.

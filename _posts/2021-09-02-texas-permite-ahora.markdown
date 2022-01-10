@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La nueva ley entró en vigor ayer y ha comenzado a generar polémica en un estado marcado por constantes tiroteos, como el ocurrido en El Paso hace dos años."
 image: "/uploads/2021/images-armas-fuego-sujetas-legislacion-unidos_0_32_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Texas permite ahora portar un arma de fuego en público sin capacitación ni licencia"
 front: false
 section: "Internacional"
-news_id: 187358
+redirect_from: /news/187358
 ---
 
 En Texas, el mismo territorio donde ocurrió en 2019 la masacre racista y xenófoba en la zona de un supermercado Walmart de El Paso, se convirtió en la vigésima entidad de Estados Unidos en permitir algún tipo de portación no regulada de armas de fuego, autorizando a la mayoría de los mayores de 21 años que no hayan sido declarados culpables de un delito grave a portar una pistola enfundada en público sin haber recibido algún tipo de entrenamiento o tener una licencia. 

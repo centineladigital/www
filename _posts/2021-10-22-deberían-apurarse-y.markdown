@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente dijo que la OMS ya recibió la carta y se espera una respuesta formal, pues consideró que es un tema que ya deberían resolver. "
 image: "/uploads/2021/images-presidente-vacunas-anticovid-sputnik-cansino_0_12_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Deberían apurarse y resolver -  AMLO tras carta a OMS sobre autorización de vacunas anticovid"
 front: false
 section: "Nacional"
-news_id: 189058
+redirect_from: /news/189058
 ---
 
 El presidente Andrés Manuel López Obrado dijo que la Organización Mundial de la Salud (OMS) ya recibió la carta que envió para solicitar la aprobación de las vacunas anticovid Sputnik V y CanSino, pues aseguró que es un tema que "deberían resolver". 

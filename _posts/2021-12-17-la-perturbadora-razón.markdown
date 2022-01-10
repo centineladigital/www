@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Kirk y Luann Van Houten son personajes poco recurrentes en la serie; sin embargo, su gran parecido físico esconde un incómodo secreto. "
 image: "/uploads/2021/images-por-que-los-papas-de_73_0_965_600.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La perturbadora razón de por qué los padres de Milhouse en 'Los Simpson' son tan parecidos"
 front: false
 section: "Espectáculos"
-news_id: 190963
+redirect_from: /news/190963
 ---
 
 Sin duda alguna Los Simpson es una de las series más queridas y populares de todos los tiempos, pues a lo largo de 32 años, la familia amarilla y sus amigos han logrado conquistar los corazones de millones de fans alrededor del mundo, y ya sea por sus 'predicciones' o por secretos de la caricatura que poco a poco salen a la luz, los Simpson siempre dan de qué hablar. Milhouse, el mejor amigo de Bart y eterno enamorado de Lisa, es uno de los personajes más memorables de la serie gracias a su rareza y su singular personalidad; sin embargo, uno de los misterios más grandes de la serie gira en torno al gran parecido físico entre sus padres Kirk y Luann Van Houten, y la respuesta es un tanto perturbadora. 

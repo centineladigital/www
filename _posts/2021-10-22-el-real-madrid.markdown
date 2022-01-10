@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El conjunto blanco afina detalles antes del clásico que dará en el Camp Nou, el jugador belga, Eden Hazard podría jugar el domingo "
 image: "/uploads/2021/images-karim-benzema-playera-real-madrid_0_13_1200_746_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El Real Madrid inicia la preparación del clásico ante el Barcelona sin Benzema"
 front: false
 section: "Deportes"
-news_id: 189069
+redirect_from: /news/189069
 ---
 
 El Real Madrid regresó a los entrenamientos tras cambiar su dinámica de resultados en la Liga de Campeones y comenzó a preparar el clásico del Camp Nou con un entrenamiento en el que Eden Hazard mostró su mejoría y Dani Carvajal regresó, en una parte, a la dinámica de grupo, mientras que Karim Benzema se ausentó por un golpe. 

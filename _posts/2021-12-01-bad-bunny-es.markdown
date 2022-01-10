@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "De acuerdo a los registros de Spotify, el cantante puertorriqueño de música urbana y el cantautor de regional mexicano se convirtieron en los más solicitados por el público."
 image: "/uploads/2021/images-bad-bunny-christian-nodal-artistas.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Bad Bunny es el artista más escuchado en el mundo y Christian Nodal en México"
 front: false
 section: "Espectáculos"
-news_id: 190388
+redirect_from: /news/190388
 ---
 
 Bad Bunny y Christian Nodal se convirtieron en los artistas más escuchados, mientras que el puertorriqueño se coronó a nivel mundial; el cantautor de regional mexicano lo hizo en México, de acuerdo a los números que reporta Spotify en su registro anual. Con la "nueva normalidad", abrazamos lo desconocido y defendimos todas las cosas que nos hacen únicos a cada uno de nosotros. #Mi2021enSpotify es una celebración de esto: los millones de formas extrañas y maravillosas de escuchar y vivir en un mundo que continúa manteniéndonos alerta. Spotify presenta hoy su campaña anual Lo Más Escuchado en Spotify y su experiencia de usuario personalizada Tu Resumen 2021 en Spotify, con lo que se revela a los mejores artistas, álbumes, canciones, playlists y podcasts de los creadores que ayudaron a crear la banda sonora del año para más de 381 millones de usuarios en todo el mundo. 

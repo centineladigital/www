@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La nueva variante del covid-19 ha puesto en jaque a diversas competencias, incluso atletas que ya estaban vacunados han dado positivo al virus "
 image: "/uploads/2021/images-aumentan-los-casos-de-covid-1_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Variante ómicron afecta al deporte mundial y pone en alerta a la Liga MX"
 front: false
 section: "Deportes"
-news_id: 191302
+redirect_from: /news/191302
 ---
 
 El mundo del deporte cierra el 2021 en estado de alerta, la pandemia de covid-19 vuelve a amenazar a las grandes competencias; la variante ómicron ha venido a recordar que no se pueda bajar la guardia, que las medidas y protocolos sanitarios deben mantenerse y perfeccionarse, porque hoy no hay deporte ni atleta que se mantenga exento de contagiarse, no importa incluso si ya se está vacunado o si ya padeció el virus. 

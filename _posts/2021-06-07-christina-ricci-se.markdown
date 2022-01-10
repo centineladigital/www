@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La película, protagonizada por Keanu Reeves, se estrenaría en cines a finales del 2021 si la pandemia lo permite. "
 image: "/uploads/2021/images-christina-ricci-suma-elenco-matrix_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Christina Ricci se suma al elenco de 'Matrix 4', su segunda película con Lana Wachowski"
 front: false
 section: "Espectáculos"
-news_id: 184914
+redirect_from: /news/184914
 ---
 
 Matrix Resurrections, cuarta entrega de la saga de ciencia ficción, ha sumado un nuevo nombre a su reparto. La actriz Christina Ricci, conocida por sus papeles en películas como La familia Addams, Casper y La leyenda del jinete sin cabeza, participará en la cinta, dirigida por Lana Wachowski y protagonizada por Keanu Reeves en el rol de Neo. En la cuarta entrega también debutarán en la franquicia Yahya Abdul-Mateen II, Jessica Henwick, Neil Patrick Harris, Priyanka Chopra y Jonathan Groff. Matrix 4 supondrá el reencuentro entre Ricci y Wachowski, que ya dirigió a la intérprete en 2008 en la película Speed Racer (Meteoro). 

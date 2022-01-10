@@ -10,11 +10,11 @@ author: nil
 description: "La tarde de este jueves, se llevó a cabo la primera reunión del equipo de la administración estatal entrante designado para el proceso de entrega-recepción."
 image: "/uploads/2021/images-coesvi.jpeg"
 video: "/uploads/2021/videos-video_coesvi.mp4"
-audio: "nil"
+audio: nil
 alt: "Continúa transición del Gobierno Estatal con mesas de trabajo de la COESVI"
 front: false
 section: "Local"
-news_id: 186125
+redirect_from: /news/186125
 ---
 
 Arturo Peréa, coordinador del equipo de transición para esta dependencia, señaló que en la primera mesa de trabajo con el director de la COESVI, Victor Laso, se tendrá a bien recibir información sobre el marco jurídico de actuación, resultados de los programas de la Comisión, así como los logros alcanzados.

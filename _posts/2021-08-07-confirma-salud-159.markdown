@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El informe técnico sobre la situación de la pandemia en el estado señala que otras tres personas fallecieron por esta enfermedad, dos de ellas en Ciudad Juárez y una de Guadalupe y Calvo, lo que suma un total de 7,720   "
 image: "/uploads/2021/images-REPORTE_COVID_7_AGOSTO_(1).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Confirma Salud 159 nuevos contagios de COVID-19   para un acumulado de 73,653"
 front: false
 section: "Local"
-news_id: 186437
+redirect_from: /news/186437
 ---
 
 La Secretaría de Salud Chihuahua informó que se confirmaron 159 nuevos contagios de COVID-19 para un total general de 73 mil 653, además otros tres fallecimientos para un acumulado de 7 mil 720 en lo que va de la pandemia.

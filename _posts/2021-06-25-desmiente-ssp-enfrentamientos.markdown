@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Llevan a cabo patrullaje para detectar si se registraron enfrentamientos."
 image: "/uploads/2021/images-EMILIO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV03_EMILIO_GARCIA.mp3"
 alt: "Desmiente SSP enfrentamientos en Guadalupe y Calvo"
 front: false
 section: "Local"
-news_id: 185248
+redirect_from: /news/185248
 ---
 
 La Secretaría de Seguridad Pública desmintió que se dieran enfrentamientos armados en la en la localidad de Guadalupe y Calvo el fin de semana pasado, esto tras darse a conocer en redes sociales videos de este hecho.

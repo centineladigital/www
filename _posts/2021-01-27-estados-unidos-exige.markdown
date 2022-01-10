@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "Entran en vigor en EU las nuevas restricciones de viaje que exigen una prueba negativa de covid-19 a pasajeros de vuelos internacionales y algunas conexiones domésticas"
 image: "/uploads/2021/images-2519198.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estados Unidos exige ya prueba covid a pasajeros en aeropuertos"
 front: false
 section: "Internacional"
-news_id: 182478
+redirect_from: /news/182478
 ---
 
 Entraron en vigor en Estados Unidos las nuevas restricciones para viajeros impuestas por el gobierno de Joe Biden, que exigen una prueba negativa de covid-19 a pasajeros de vuelos internacionales y algunas conexiones domésticas, con hasta 72 horas de anterioridad, o de lo contrario no se les permitirá abordar en rutas comerciales.

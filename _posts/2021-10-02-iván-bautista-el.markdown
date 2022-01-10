@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Sus pupilos han conseguido cuatro preseas en las últimas tres ediciones olímpicas; ahora busca el oro y ve en los sincronizados la opción para vencer a China "
 image: "/uploads/2021/images-ivan-bautista_67_29_1065_664.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Iván Bautista, el forjador de medallas olímpicas en clavados"
 front: false
 section: "Deportes"
-news_id: 188314
+redirect_from: /news/188314
 ---
 
 Los aplausos y las felicitaciones siempre van para el deportista que logra una medalla en una competencia internacional, pero detrás de ellos hay un entrenador que los forja para que logren el objetivo de subir al podio. 

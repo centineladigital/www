@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En este nuevo ciclo escolar se han visitado 62 escuelas con revisiones optométricas, en beneficio de 2 mil 526 alumnas y alumnos con problemas visuales, a fin de mejorar su rendimiento académico"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan lentes gratuitos a estudiantes de nivel básico"
 front: false
 section: "Local"
-news_id: 188974
+redirect_from: /news/188974
 ---
 
 La Secretaría de Educación y Deporte (SEyD), a través de Servicios Educativos del Estado de Chihuahua (SEECH), ha entregado en estas primeras semanas del ciclo escolar 2021-2022, lentes de manera gratuita a 2 mil 526 estudiantes, quienes ahora tendrán mayores posibilidades de aprovechamiento en sus estudios y de permanencia en el sistema educativo del estado.

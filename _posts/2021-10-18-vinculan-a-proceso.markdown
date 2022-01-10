@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Decían a las víctimas que eran empleados de la Secretaría de Salud, que iban a fumigar, y una vez que les daban acceso cometían los atracos"
 image: "/uploads/2021/images-ACUSADO.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Vinculan a proceso a imputado por un cuantioso robo cometido bajo singular modus operandi"
 front: false
 section: "Local"
-news_id: 188886
+redirect_from: /news/188886
 ---
 
 Como resultado de un minucioso trabajo de inteligencia a cargo de la Fiscalía de Distrito Zona Centro, se logró ubicar y capturar en Tepic, Nayarit, a un hombre acusado de un cuantioso robo cometido el 22 de junio del año 2016, en la ciudad de Chihuahua.

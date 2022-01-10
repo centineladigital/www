@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el último reporte epidemiológico se confirmaron  95 nuevos positivos y 8 defunciones más; van 152 mil 033 celulares registrados a la aplicación “Salud Digital”"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Van 67 mil 531 personas contagiadas  por COVID-19 en el estado"
 front: false
 section: "Local"
-news_id: 184587
+redirect_from: /news/184587
 ---
 
 El Reporte COVID-19 de la Secretaría de Salud muestra que hay un total general de 67 mil 531 contagios, tras registrarse otros 95 nuevos positivos; mientras que el número de personas fallecidas incrementó en 8, con lo que suman 6 mil 916 los confirmados en el estado.

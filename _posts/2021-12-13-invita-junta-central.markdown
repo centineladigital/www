@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Aplica también a personas de grupos vulnerables, así como en el pago de rezagos, recargos, convenios, reconexiones, multas y estudios socioeconómicos "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Junta Central de Agua y Saneamiento a aprovechar descuentos del 20 al 100% "
 front: false
 section: "Local"
-news_id: 190810
+redirect_from: /news/190810
 ---
 
 Durante diciembre del presente año y en los meses de enero y febrero de 2022, la Junta Central de Agua y Saneamiento (JCAS) ofrece descuentos que van desde el 20 hasta un 100% en el pago de rezagos y recargos, convenios, reconexiones, multas, estudios socioeconómicos y también para beneficio de personas de grupos vulnerables, informó en rueda de prensa el  director ejecutivo de la dependencia estatal, Roberto Lara Rocha. 

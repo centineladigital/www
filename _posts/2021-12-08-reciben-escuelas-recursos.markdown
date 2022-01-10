@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El apoyo recibido es de gran ayuda para compra de insumos como gel antibacterial, material de oficina y pizarrones en cada escuela"
 image: "/uploads/2021/images-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reciben escuelas recursos económicos al participar en actividad cultural"
 front: false
 section: "Local"
-news_id: 190633
+redirect_from: /news/190633
 ---
 
 Cinco planteles educativos que participaron en la venta de boletos para la obra de teatro "Don Juan Tercera Dosis Tenorio", promovida por la Subsecretaría de Educación y Deporte conjuntamente al Club Social Activo 20-30 de Ciudad Juárez, se beneficiaron con recursos económicos para amortiguar sus necesidades básicas.

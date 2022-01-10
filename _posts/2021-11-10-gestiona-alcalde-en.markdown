@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Solicitó al presidente de la JUCOPO Rubén Moreira, mayor presupuesto a fin de concretar la obra solicitada por los ciudadanos"
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Gestiona Alcalde en la Cámara de Diputados, recursos para proyecto del relleno sanitario   "
 front: false
 section: "Local"
-news_id: 189762
+redirect_from: /news/189762
 ---
 
 El presidente municipal, Marco Bonilla Mendoza, a través de su cuenta de Twitter @soymarcobonilla, informó de la reunión con los diputados federales, Rubén Moreira, presidente de la Junta de Coordinación Política del Congreso de la Unión y con Jaime Bueno Zertuche, secretario de la Comisión de Presupuesto y Cuenta Pública donde presentó los proyectos de obra federal para realizarse en el municipio.

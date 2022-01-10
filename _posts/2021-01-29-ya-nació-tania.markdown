@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tania Rincón compartió su felicidad con sus seguidores e informó que su hija, Amelia, ya nació. "
 image: "/uploads/2021/images-tania-rincon-mostro-a-su.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Ya nació! Tania Rincón anuncia el nacimiento de su bebé con tierna foto"
 front: false
 section: "Espectáculos"
-news_id: 182573
+redirect_from: /news/182573
 ---
 
 La conductora Tania Rincón decidió compartir con sus seguidores uno de los momentos más felices de su vida, ya que se convirtió en mamá por segunda ocasión y le dio la bienvenida a su hija Amelia. Tania Rincón además de compartir la noticia del nacimiento de su bebé, también publicó una tierna foto. Fue a través de Instagram que la conductora de Guerreros decidió informar a sus seguidores que se convirtió en mamá por segunda ocasión, después de que en el 2017 naciera su primogénito, Patricio. Con una tierna foto, Tania Rincón presentó a Amelia 

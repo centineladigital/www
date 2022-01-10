@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Están siendo capacitados virtualmente por la UNAM."
 image: "/uploads/2021/images-LF.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV06_LUIS_FIERRO.mp3"
 alt: "Alumnos UACH vacunarán contra COVID"
 front: false
 section: "Local"
-news_id: 182379
+redirect_from: /news/182379
 ---
 
 Un total de 135 alumnos se suman como voluntarios para aplicar vacunas contra Covid-19 en el estado, según fue dado a conocer por parte de Luis Alonso Fierro Méndez, secretario ejecutivo del Comité de Salud de la UACH.

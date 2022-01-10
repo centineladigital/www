@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante resalta la grata compañía que representa la música en tiempos como la pandemia.  "
 image: "/uploads/2021/images-se-considera-una-joven-a.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Karol Sevilla prueba suerte con “besos”"
 front: false
 section: "Espectáculos"
-news_id: 182327
+redirect_from: /news/182327
 ---
 
 Karol Sevilla, quien ha generado grandes éxitos con su estilo pop y baladas, se involucra por primera vez con el género urbano a través de su nueva interpretación titulada “Tus besos”. 

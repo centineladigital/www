@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se cumplen 41 años de que el mundo vio partir a uno de los genios de la música a manos de un supuesto fanático; así fueron las últimas horas de vida del cantante. "
 image: "/uploads/2021/images-el-dia-que-asesinaron-a_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Un autógrafo y 5 disparos... Así fue el día que asesinaron a John Lennon"
 front: false
 section: "Espectáculos"
-news_id: 190625
+redirect_from: /news/190625
 ---
 
 Imagina a toda la gente compartiendo todo el mundo. Puedes decir que soy un soñador, pero no soy el único", son algunos de los versos de Imagine, un himno de paz que John Lennon dejó como parte del legado de su lucha por "un mundo mejor". Junto a su esposa Yoko Ono, el cantante -entonces ya ex Beatle- escribió la canción casi diez años antes de su asesinato a manos de Mark Chapman el 8 de diciembre de 1980, fecha que marcaría el fin de un capítulo de la cultura popular. Han pasado 41 años del fallecimiento de John Lennon, pero su pasado, en especial su música, continúan vivos. Considerado un genio -sin olvidar algunas acciones y declaraciones controvertidas-, el cantautor había superado un periodo de ostracismo sólo para enfrentarse a la muerte. ¿Qué sucedió el día de su asesinato? ¿Por qué Chapman acabó con su vida? Hagamos un repaso por esa trágica noche. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Crecieron los reportes de maltrato por golpes y envenenamiento; antes recibían alrededor de 10 al día, ahora están recibiendo 13 de ellos"
 image: "/uploads/2021/images-RECUPERANDO1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aumenta un 30% la atención a mascotas por maltrato"
 front: false
 section: "Local"
-news_id: 184625
+redirect_from: /news/184625
 ---
 
 La activista y líder de la fundación Recuperando Amor que se dedica a rescatar animales en situación de vulnerabilidad, Ana Castillo, informó que las atenciones a las mascotas ha aumentado un 30 por ciento en comparación con otros años derivado de la pandemia del Covid-19.

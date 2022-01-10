@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "José Benavidez aseguró que el tapatío y su equipo tienen miedo de enfrentar al boxeador mexico-americano. "
 image: "/uploads/2021/images-llaman-miedoso-canelo-alvarez-pelear_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Son excusas de mie... -  Explotan contra el 'Canelo' por no querer pelear con Benavidez"
 front: false
 section: "Deportes"
-news_id: 191266
+redirect_from: /news/191266
 ---
 
 Saúl Canelo Álvarez es actualmente el mejor libra por libra tras vencer por nocaut a Caleb Plant en el onceavo round; tras ello, el boxeador tapatío ha recibido algunas propuestas para volver a subir al ring en el 2022. 

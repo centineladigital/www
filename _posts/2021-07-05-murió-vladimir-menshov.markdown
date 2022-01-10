@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor, productor y director fue galardonado en 1989 con el título de Artista Emérito de la República Socialista Federativa Soviética de Rusia. "
 image: "/uploads/2021/images-vladimir-menshov-director-moscu-cree.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Vladimir Menshov, director de 'Moscú no cree en lágrimas', por covid-19"
 front: false
 section: "Espectáculos"
-news_id: 185374
+redirect_from: /news/185374
 ---
 
 El realizador ruso Vladimir Menshov, cuya película Moscú no cree en lágrimas ganó en 1980 el premio Oscar al Mejor filme de habla no inglesa, falleció a los 81 años de edad a causa del covid-19, informaron este lunes los estudios Mosfilm y la Escuela Estatal de Cine de Moscú (VGIK) a través de Twitter. "Lamentamos el fallecimiento del gran actor y director de cine ruso Vladimir Menshov, quien murió a la edad de 81 años. Creó algunas de las películas más queridas de la nación: la ganadora del Oscar 'Moscú no cree en las lágrimas', 'Amor y palomas'" y más. 

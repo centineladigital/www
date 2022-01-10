@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los nuevos alcaldes de las 16 demarcaciones tomaron posesión del cargo, para el periodo 2021-2024, a tres meses de haber ganado las elecciones. "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alcaldes de CdMx rinden protesta ante Congreso capitalino"
 front: false
 section: "Nacional"
-news_id: 188270
+redirect_from: /news/188270
 ---
 
 Los 16 alcaldes electos de la Ciudad de México rinden protesta ante el Congreso capitalino, a tres meses de haber ganado las elecciones del 6 de junio y en medio de una clara división política entre las coaliciones Va por México y Juntos Haremos Historia. 

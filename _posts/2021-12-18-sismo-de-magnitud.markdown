@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El movimiento también fue percibido en la provincia de Bérgamo. Las autoridades no han reportado daños hasta el momento. "
 image: "/uploads/2021/images-autoridades-italia-reportaron-danos-sismo_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sismo de magnitud 4.4 sacude Milán, Italia; es el más fuerte desde 1979"
 front: false
 section: "Internacional"
-news_id: 191000
+redirect_from: /news/191000
 ---
 
 En Italia, un terremoto de magnitud 4.4 hizo temblar la región de Lombardía, especialmente su capital Milán, sin que todavía se registren daños, de acuerdo con autoridades locales. 

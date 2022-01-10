@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se pide a los vecinos estar pendientes de las fechas y horarios   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conoce la programación del Destilichadero para esta semana   "
 front: false
 section: "Local"
-news_id: 188069
+redirect_from: /news/188069
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos sigue implementando cada semana el programa de Destilichadero en distintas zonas de la ciudad, con el fin de que las familias chihuahuenses tengan la posibilidad de deshacerse de objetos voluminosos que no son de utilidad y para evitar riesgos de salud. El calendario de atención para los próximos días es el siguiente:

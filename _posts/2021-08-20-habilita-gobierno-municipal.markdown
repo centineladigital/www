@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se recibirá a las personas que necesite resguardarse o bien a quien se encuentran en situación de calle"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Habilita Gobierno Municipal refugio temporal por fuertes lluvias"
 front: false
 section: "Local"
-news_id: 186918
+redirect_from: /news/186918
 ---
 
 Debido a la fuerte lluvia y atípica registrada en la ciudad, el Gobierno Municipal habilitó el refugio temporal ubicado  al sur de la ciudad, en el centro comunitario Mármol III, el cual permanecerá abierto 24 horas mientras pase la contingencia. 

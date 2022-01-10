@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal exhorta a la población a llamar para recibir atención o acompañamiento en caso de necesitarlo "
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Usa las líneas de atención a la violencia familiar y de género para solicitar ayuda"
 front: false
 section: "Local"
-news_id: 191012
+redirect_from: /news/191012
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM), pone a disposición de la población las líneas telefónicas, a través de las cuales se podrá recibir atención y acompañamiento ante cualquier situación de violencia familiar y de género sin tener que visitar la dependencia para prevenir contagios de COVID.

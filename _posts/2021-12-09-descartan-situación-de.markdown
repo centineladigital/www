@@ -10,11 +10,11 @@ author: nil
 description: "Se está al pendiente de los estados vecinos y probables contagios."
 image: "/uploads/2021/images-VITTORIO.jpg"
 video: "/uploads/2021/videos-MJ02_VITTORIO.mp4"
-audio: "nil"
+audio: nil
 alt: "Descartan situación de riesgo de Omicrón para Chihuahua"
 front: false
 section: "Local"
-news_id: 190680
+redirect_from: /news/190680
 ---
 
 Pese a que se tiene una posibilidad de que se registren contagios de la variable Omicrón en Chihuahua, no existe un riesgo real para el estado en relación a la presencia de la nueva variante, señaló el Doctor Vittorio Humberto Vigna Llamas, director del Hospital Central Universitario.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Selección Mexicana sufrió más previo al duelo ante “La Selecta” que en el encuentro; retoman el liderato del octagonal de la Concacaf"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México se impone a El Salvador y a la hostilidad del Cuscatlán"
 front: false
 section: "Deportes"
-news_id: 188717
+redirect_from: /news/188717
 ---
 
 Gerardo Martino mutó en energúmeno. No era para menos. La Selección Nacional pisó el maltratado césped del estadio Cuscatlán y mostró su lado masoquista, ese que generó varias canas más en su muy nervioso entrenador.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Se une a la “Ola de Luz” por el “Día internacional de la concientización y conmemoración de las pérdidas gestacionales y de la infancia temprana”"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rinde homenaje Gobierno Municipal al amor; sensible a la muerte perinatal   "
 front: false
 section: "Local"
-news_id: 188807
+redirect_from: /news/188807
 ---
 
 Como parte de la política con perspectiva de familia que busca fomentar la inclusión y concientización en diversos temas sensibles en nuestra sociedad, el Gobierno Municipal de Chihuahua se une a la “Ola de Luz” mundial por el “Día internacional de la concientización y conmemoración de las pérdidas gestacionales y de la infancia temprana”, iluminando de azul celeste y rosa el Palacio Municipal, la Plaza de Armas y el puente de la Cantera, como una manera de honrar el amor más allá de la pérdida.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: " Han recibido la vacuna Pfizer-BioNTech contra COVID-19.   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Suman 2 mil 096 adolescentes con comorbilidades vacunados contra COVID-19"
 front: false
 section: "Local"
-news_id: 189109
+redirect_from: /news/189109
 ---
 
 El secretario de Salud del Estado de Chihuahua, Felipe Fernando Sandoval Magallanes, informó que un total de 2 mil 96 adolescentes con comorbilidades, de 12 a 17 años de edad, han recibido la vacuna Pfizer-BioNTech contra COVID-19.

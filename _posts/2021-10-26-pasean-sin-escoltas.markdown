@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los cantantes están de visita en la capital oaxaqueña; la familia de Camila Cabello, de origen cubano, también los acompaña."
 image: "/uploads/2021/images-pareja-vista-puntos-capital-oaxaquena.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Pasean sin escoltas! Captan a Camila Cabello y Shawn Mendes de vacaciones en Oaxaca"
 front: false
 section: "Espectáculos"
-news_id: 189201
+redirect_from: /news/189201
 ---
 
 Los cantantes Camila Cabello y Shawn Mendes están de visita en Oaxaca, donde se les ha visto en restaurantes y sitios turísticos. El domingo, comieron en el restaurante gourmet Pitiona y después caminaron por el andador turístico, donde saludaron a los fans que los reconocieron.

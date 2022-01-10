@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se reunió de manera virtual la mañana de este martes con líderes, diputados y alcaldes electos del Partido Revolucionario Institucional"
 image: "/uploads/2021/images-WhatsApp_Image_2021-08-10_at_14.20.40.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se reúne Maru Campos con liderazgos, diputados y alcaldes electos del PRI"
 front: false
 section: "Local"
-news_id: 186529
+redirect_from: /news/186529
 ---
 
  La gobernadora electa de Chihuahua, Maru Campos, se reunió de manera virtual la mañana de este martes con líderes, diputados y alcaldes electos del Partido Revolucionario Institucional.

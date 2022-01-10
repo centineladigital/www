@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Para celebrar y compartir un poco de su amor con los fans, la pareja hizo una transmisión en vivo. En ésta, muy ‘cariñosos’, cantaron el nuevo éxito musical de Belinda Una Mamacita. ¿No se la sabe? "
 image: "/uploads/2021/images-oficial-belinda-christian-nodal-inician_18_0_578_360.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Lo regañó? Belinda corrige a Nodal por cantar mal su canción; reviven pleito con Ha*Ash"
 front: false
 section: "Espectáculos"
-news_id: 181888
+redirect_from: /news/181888
 ---
 
 Belinda y Christian Nodal siguen siendo una de las más populares del mundo artístico, luego de que el año pasado iniciaran su romance después de participar juntos en La Voz de TV Azteca. Aunque en un inicio se especulaba que “era una estrategia publicitaria” con el paso del tiempo han demostrado que no es así. Incluso, hasta pasaron las fiestas decembrinas juntos. Sin embargo, no todo podría ser perfecto y menos cuando el cantante de regional mexicano no se sabe completa la canción Una mamacita de Belinda. ¿Lo regañó? Este gracioso momento se ha viralizado en redes sociales. Y es que Belinda corrigió a Christian Nodal a la hora de cantar junto a ella Una Mamacita. El clip se tomó durante la celebración del Año Nuevo en Acapulco, Guerrero. 

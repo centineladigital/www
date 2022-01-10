@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El 9 de diciembre se ofrecerá un magno concierto a las 7:00 de la tarde en el teatro Víctor Hugo Rascón Banda"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Celebra el Centro Cultural Paso del Norte el XV aniversario de su fundación"
 front: false
 section: "Local"
-news_id: 190594
+redirect_from: /news/190594
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Cultura de Chihuahua,  y el Consulado General de México en El Paso, Texas, presentará este jueves 9 de diciembre a las 7:00 de tarde el concierto “Alma Judía”, a cargo del reconocido Cuarteto Latinoamericano acompañado por la soprano israelí Sivan Rotem y al piano Sally Pinkas.

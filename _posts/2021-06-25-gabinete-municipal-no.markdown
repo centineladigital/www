@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Espera consenso para poder tomar decisiones."
 image: "/uploads/2021/images-bonilla.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV05_.mp3"
 alt: "Gabinete municipal no lo define Gobernadora electa"
 front: false
 section: "Local"
-news_id: 185246
+redirect_from: /news/185246
 ---
 
 El gabinete del municipio no lo definirá la gobernadora electa, señaló Marco Antonio Bonilla Mendoza. Esto al ser cuestionado sobre la injerencia que tendría María Eugenia Campos Galván en la selección del equipo de trabajo del alcalde electo.

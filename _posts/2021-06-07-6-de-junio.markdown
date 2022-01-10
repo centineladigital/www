@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El candidato a la Presidencia Municipal señaló que será en el conteo de votos donde obtendrá la victoria"
 image: "/uploads/2021/images-marcoquezadaganador.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "6 DE JUNIO DE 2021  Tenemos confianza en el resultado -  Marco Quezada"
 front: false
 section: "Local"
-news_id: 184889
+redirect_from: /news/184889
 ---
 
 El candidato a la Alcaldía por la coalición “Juntos haremos historia en Chihuahua”, Marco Adán Quezada Martínez señaló que, esperará al conteo de votos, pues es allí donde radica su triunfo, además agradeció y reconoció la participación de los ciudadanos en este día de la elección.

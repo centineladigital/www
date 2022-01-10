@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Para mí es uno de los mejores comediantes que ha dado México a la altura de un 'Chespirito' o un 'Cantinflas'”, aseveró Derbez sobre Bustamante. "
 image: "/uploads/2021/images-actor-recordo-participacion-eventos-deportivos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Mi vida dependía de ganarle al Güiri Güiri” -  Eugenio Derbez recuerda rivalidad con Andrés Bustamante"
 front: false
 section: "Espectáculos"
-news_id: 188115
+redirect_from: /news/188115
 ---
 
 Eugenio Derbez está en plena promoción de su nueva película, CODA, por lo que acudió a una entrevista con Alex Montiel, mejor conocido por su personaje de El Escorpión Dorado, donde habló de varios temas relacionados con su carrera. Destaca que el actor abordó un aspecto por el que ganó mucho reconocimiento en México: su participación en varios Juegos Olímpicos y Mundiales con Televisa, lo que le generó una la rivalidad cómica y televisiva con Andrés Bustamante Güiri Güiri, quien trabajaba para TV Azteca.

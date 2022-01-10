@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las manifestantes piden que el gobierno entregue productos gratuitos en las escuelas y quite el IVA a estos artículos de higiene íntima"
 image: "/uploads/2021/images-2585984.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mujeres se manifiestan para exigir Ley de Mentruación Digna"
 front: false
 section: "Local"
-news_id: 184706
+redirect_from: /news/184706
 ---
 
 Mujeres del colectivo Menstruación Digna México se manifestaron esta mañana en el Zócalo capitalino en el marco del “Dia de la Higiene Menstrual”.

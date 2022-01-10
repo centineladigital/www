@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Eleazar Gómez reapareció en el programa Hoy de Televisa tras haber estado preso por violentar a su ex pareja; televidentes e internautas se lanzaron contra la emisión y Andrea Escalona por intentar limpiar su imagen. "
 image: "/uploads/2021/images-critican-programa-limpiar-imagen-eleazar.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Soy hombre de Dios -  Critican al programa 'Hoy' por intentar limpiar la imagen de Eleazar Gómez"
 front: false
 section: "Espectáculos"
-news_id: 185502
+redirect_from: /news/185502
 ---
 
 Eleazar Gómez, actor de Televisa que estuvo encarcelado por golpear e intentar asfixiar a su entonces novia Tefy Valenzuela y quien cuenta con otros señalamientos de mujeres –ex parejas– por violencia, reapareció en el programa Hoy. En entrevista con Andrea Escalona, conductora de la emisión matutina, Eleazar Gómez dijo ser un hombre de luz que ama a las mujeres y las respeta. Sin embargo, pese a los halagos e intentos de ‘justificaciones’, los televidentes y usuarios de las redes sociales criticaron al programa Hoy por intentar lavarle la imagen al actor y minimizar lo cometido contra Tefy Valenzuela. ¿El programa Hoy intenta cuidar a Eleazar Gómez? ¿Están a favor de la violencia contra las mujeres? 

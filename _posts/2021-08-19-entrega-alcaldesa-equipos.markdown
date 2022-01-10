@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se benefició a 25 estudiantes de bachillerato y nivel superior"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Alcaldesa equipos de cómputo a estudiantes destacados de zona rural"
 front: false
 section: "Local"
-news_id: 186914
+redirect_from: /news/186914
 ---
 
 La alcaldesa, María Angélica Granados Trespalacios, encabezó la entrega de equipos de cómputo a alumnos destacados del proyecto “Jóvenes líderes, juntos mejoramos nuestro entorno” de la zona rural del municipio.

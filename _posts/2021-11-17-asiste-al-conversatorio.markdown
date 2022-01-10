@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal invita a conmemorar el Día Internacional de la Eliminación de la Violencia Contra la Mujer"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asiste al conversatorio “Mujeres una sola voz” este 25 de noviembre"
 front: false
 section: "Local"
-news_id: 189919
+redirect_from: /news/189919
 ---
 
 El Gobierno Municipal invita a la ciudadanía al conversatorio en el Teatro de la Ciudad, donde participarán la senadora Kenia López Rabadán, presidenta de la Comisión de Derechos Humanos; la magistrada Julia María del Carmen García González con experiencia en la impartición de justicia con perspectiva de género y Aurora Espina Vergara, panelista y conferencista en la comisión sobre la condición jurídica y social de la mujer, en la sede de la ONU.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Esta será la octava ocasión en que la gran banda argentina pise el escenario del Auditorio Nacional en toda su carrera, cosechando una historia de puro éxito. "
 image: "/uploads/2021/images-babasonicos-regresan-a-mexico.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Un grande de Argentina! Babasónicos regresa al Auditorio Nacional"
 front: false
 section: "Espectáculos"
-news_id: 190738
+redirect_from: /news/190738
 ---
 
 En la enorme lista que se ha ido conformando de los conciertos que habrá el próximo año 2022 en México, se suma una de las bandas más icónicas de Argentina; Babasónicos. 

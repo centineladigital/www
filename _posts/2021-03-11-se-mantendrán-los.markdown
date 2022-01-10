@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Mañana entra el Frente Frío 42 a la entidad con temperaturas de frías a frescas, como en Chihuahua 15°C, Juárez 11°C, Janos 5°C, Madera 3°C, Temósachic 1°C, Cuauhtémoc 7°C, Ojinaga 15°C, Delicias 14°C, Camargo 12°C, Jiménez 10°C, Parral 11°C y El Vergel 4°C"
 image: "/uploads/2021/images-paisaje.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se mantendrán los fuertes vientos en el estado; prevén lluvias aisladas en Casas Grandes y Madera"
 front: false
 section: "Local"
-news_id: 183384
+redirect_from: /news/183384
 ---
 
 Este jueves 12 de marzo el Frente Frío número 41 ocasionará fuertes rachas de viento en la entidad, que podrían rebasar hasta los 95 kilómetros por hora (km/h), por lo que la Coordinación Estatal de Protección Civil (CEPC) pidió a la población tomar precauciones.

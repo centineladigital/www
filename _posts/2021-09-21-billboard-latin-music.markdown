@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La edición 2021 de la premiación contará con las presentaciones en vivo de Rosalía, Karol G, Camila Cabello, Carlos Rivera, Natti Natasha, Marc Anthony y muchos más. "
 image: "/uploads/2021/images-puedes-premiacion-vivo-billboard-latin_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Billboard Latin Music Awards 2021 -  Cuándo y dónde ver la premiación en vivo"
 front: false
 section: "Espectáculos"
-news_id: 187901
+redirect_from: /news/187901
 ---
 
 Los Billboard Latin Music Awards 2021, que reconocen a lo mejor de la música latina, están a la vuelta de la esquina. Siguiendo los pasos de la edición del año pasado, la codiciada ceremonia tendrá una alfombra roja repleta de estrellas, además contará con presentaciones en vivo e invitados de talla internacional como Camila Cabello, Rauw Alejandro, Christian Nodal, Rosalía y muchos más. 

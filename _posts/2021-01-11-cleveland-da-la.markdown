@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los Cafés siguen en estado de gracia tras imponerse 48-37 sobre los Acereros de Pittsburgh, avanzando a la ronda Divisional de la AFC"
 image: "/uploads/2021/images-2509657.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cleveland da la sorpresa y elimina a Pittsburgh"
 front: false
 section: "Deportes"
-news_id: 182017
+redirect_from: /news/182017
 ---
 
 Los Cafés de Cleveland contaron con excelente actuación de su mariscal de campo Baker Mayfield y vencieron este domingo 48-37 a los Acereros de Pittsburgh en partido de playoffs por el comodín de la Conferencia Americana de la NFL.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se capacitó por espacio de tres meses, desde el 3 de mayo hasta el 16 de julio, vía virtual"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan constancias a policías y empleados de hoteles que terminaron curso de atención a turistas extranjeros   "
 front: false
 section: "Local"
-news_id: 187463
+redirect_from: /news/187463
 ---
 
 Personal de la Dirección de Seguridad Pública Municipal recibió constancias por haber terminado un curso de inglés con el fin de brindar un mejor servicio a turistas extranjeros y que se ofreció en conjunto con la Dirección de Desarrollo Económico y Turístico (DDEyT) y el Grupo Certifica.

@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "El viernes 2 de julio, de forma verbal el director de Comercial de Miss México, Luis Jiménez Corzo, confirmó la existencia de un caso positivo sin embargo de acuerdo a las pruebas se presentaron 16 casos."
 image: "/uploads/2021/images-Miss_México_5.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Miss México fue centro de contagio COVID"
 front: false
 section: "Local"
-news_id: 185396
+redirect_from: /news/185396
 ---
 
 La Secretaría de Salud del Estado de Chihuahua informa que un total de 16 personas del certamen de belleza Miss México, celebrado el pasado 1 de julio en la ciudad de Chihuahua, dieron positivo a COVID-19.

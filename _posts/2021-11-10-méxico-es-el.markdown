@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Un estudio de más de 50 mil millones de búsquedas reveló que México es el país que más interés despierta en los ciudadanos de Europa. "
 image: "/uploads/2021/images-el-de-febrero-celebramos-a_0_1_799_497.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "México es el país de América Latina que despierta más interés en los europeos -  estudio"
 front: false
 section: "Internacional"
-news_id: 189736
+redirect_from: /news/189736
 ---
 
 En el marco del V Congreso de Editores de la Unión Europea y de América Latina-Caribe que se llevó a cabo en Madrid, España, se ha presentado en la Delegación de la Unión Europea el Atlas de los intereses birregionales 2021, en el que México aparece como el país que más despierta interés de los europeos. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente enviará esta semana la propuesta para que la subsecretaria de Hacienda sea la primera mujer en ocupar el cargo, tras descartar a Arturo Herrera como candidato. "
 image: "/uploads/2021/images-victoria-rodriguez-propuesta-gobernadora-banxico.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO propondrá a Victoria Rodríguez como gobernadora del Banco de México"
 front: false
 section: "Nacional"
-news_id: 190137
+redirect_from: /news/190137
 ---
 
 El presidente Andrés Manuel López Obrador informó que propondrá a Victoria Rodríguez Ceja, subsecretaria de Hacienda y Crédito Público, como gobernadora del Banco de México (Banxico), luego de que ayer se retiró del Senado la candidatura de Arturo Herrera para el mismo cargo. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La Secretaría de Relaciones Exteriores ni el Instituto Nacional de Migración respondieron a los llamados de la agencia AP por el retorno de la medida de enviar migrantes centroamericanos a México "
 image: "/uploads/2021/images-crisis-migratoria-agravado-frontera-mexico_0_39_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "EU expulsa a migrantes centroamericanos en aviones con dirección a México"
 front: false
 section: "Internacional"
-news_id: 186425
+redirect_from: /news/186425
 ---
 
 El gobierno del presidente Joe Biden ha empezado a enviar en avión a las familias centroamericanas expulsadas de Estados Unidos hacia ciudades del interior de México, en un momento en que las autoridades están encontrando más familias y niños migrantes solos en la frontera entre ambos países, dijeron el viernes dos funcionarios estadounidenses. 

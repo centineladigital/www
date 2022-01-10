@@ -14,11 +14,11 @@ author: nil
 description: "La inauguración se prevé para el próximo 5 de enero aunque la atención será desde el día 1 de enero"
 image: "/uploads/2021/images-index.jpg"
 video: "/uploads/2021/videos-BJ02MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "Llevan a cabo la reingeniería para el IMPAS "
 front: false
 section: "Local"
-news_id: 191175
+redirect_from: /news/191175
 ---
 
 El Instituto Municipal de prevención y atención a la salud abrirá sus puertaslos primeros días del mes de enero del año 2022 con reingeniería para la debida atención a los ciudadanos chihuahuenses.

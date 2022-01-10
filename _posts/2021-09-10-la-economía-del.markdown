@@ -16,11 +16,11 @@ author: nil
 description: "Alfredo Chávez tiene datos específicos "
 image: "/uploads/2021/images-ALFREDO_CHAVEZ.jpeg"
 video: "/uploads/2021/videos-BV02_ALFREDO_CHAVEZ.mp4"
-audio: "nil"
+audio: nil
 alt: "La economía del país ha bajado durante el gobierno de AMLO "
 front: false
 section: "Local"
-news_id: 187622
+redirect_from: /news/187622
 ---
 
 El diputado Alfredo Chávez  aseguró  que  Los recursos de la refinería  2 bocas, tren malla, aeropuerto santa lucia y el tren México Toluca tuvieron un incremento del 93% respecto al 2020.

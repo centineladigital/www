@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Del 24 al 26 de noviembre en Chihuahua capital, podrán inmunizarse contra la influenza, quienes tengan algún factor de riesgo; se aplicarán biológicos DPT, rotavirus, neumococo, hexavalente, doble viral, triple viral y Hepatitis B a niñas y niños"
 image: "/uploads/2021/images-unnamed_(12).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instalan módulos de vacunación para completar esquemas en menores y contra influenza para grupos vulnerables"
 front: false
 section: "Local"
-news_id: 190183
+redirect_from: /news/190183
 ---
 
 La Secretaría de Salud informa que del 24 al 26 de noviembre las personas pertenecientes a grupos de riesgo, podrán vacunarse contra la influenza estacional, en los módulos peatonal y vehicular instalados en la Ciudad de Chihuahua; además, se completarán esquemas de inoculación para niños y niñas hasta los 9 años de edad.

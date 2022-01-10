@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El retorno se llevó a cabo bajo el esquema del modelo CASA y cumpliendo con todas las medidas sanitarias"
 image: "/uploads/2021/images-regresan_a_clases_3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Regresan a clases presenciales estudiantes  de la Universidad Tecnológica Paso del Norte"
 front: false
 section: "Local"
-news_id: 187953
+redirect_from: /news/187953
 ---
 
 Estudiantes de la Universidad Tecnológica Paso del Norte (UTPN) regresaron a clases presenciales bajo el esquema del modelo CASA (Centros de Asesoría y Seguimiento Académico), en el que se atienden las recomendaciones sanitarias dadas por las secretarías de Salud y Educación y Deporte del Gobierno del Estado.

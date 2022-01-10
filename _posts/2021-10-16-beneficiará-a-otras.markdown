@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Verifica aquí los puntos donde colocarán la próxima semana, contenedores y la ruta especial del camión recolector  "
 image: "/uploads/2021/images-unnamed_(9).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Beneficiará a otras 12 colonias de la ciudad programa de Destilichadero"
 front: false
 section: "Local"
-news_id: 188829
+redirect_from: /news/188829
 ---
 
 El Gobierno Municipal, a través de la Dirección de Servicios Públicos Municipales continúa con el programa de Destilichadero en las diferentes colonias de la ciudad, se espera que para la semana del 18 al 22 de octubre el contenedor y la ruta de limpieza, atiendan un total de  12 colonias de la ciudad.

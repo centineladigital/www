@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Tu cárcel, Quiéreme y Yo te necesito fueron algunas de las canciones más populares de este grupo originario de Michoacán que se separó en 1996."
 image: "/uploads/2021/images-los-bukis-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Con Marco Antonio Solís al frente! 'Los Bukis' anuncian su regreso a los escenarios"
 front: false
 section: "Espectáculos"
-news_id: 185034
+redirect_from: /news/185034
 ---
 
 Una historia cantada es el nombre de la gira que reunirá a Los Bukis, la mítica banda originaria de Michoacán que se separó hace 25 años; cabe señalar que estos conciertos, con Marco Antonio Solís encabezando a la agrupación, tendrán lugar en Estados Unidos entre agosto y septiembre de este año. 

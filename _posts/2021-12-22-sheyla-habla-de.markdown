@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante comentó que 11 miembros de su familia se contagiaron del virus al mismo tiempo y señaló que ella tuvo que recibir un tratamiento distinto. "
 image: "/uploads/2021/images-sheyla-secuelas-sufre-superar-covid.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sheyla habla de las secuelas que sufre tras superar el covid-19 -  me la vivía pegada al oxímetro"
 front: false
 section: "Espectáculos"
-news_id: 191135
+redirect_from: /news/191135
 ---
 
 Ante la aparición de la nueva variante de covid-19 sudafricana, llamada ómicron, artistas y celebridades mexicanas han hecho un llamado a su público para que continúen siguiendo las medidas sanitarias para evitar más contagios, una de ellas es la actriz y cantante Sheyla, quien por primera vez habló de las secuelas que sufre a casi un año de haberse contagiado del virus.  En una entrevista para el programa De primera mano, la también comediante habló de los estudios médicos a los que se ha sometido en los últimos meses y las afecciones que padeció en los pulmones a consecuencia del covid-19.  

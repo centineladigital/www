@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El registro inicia el 3 de agosto y concluye el 2 de noviembre de este 2021; para mayores informes sobre los requisitos puedes ingresar a la página electrónica https://www.chevening.org/  "
 image: "/uploads/2021/images-CH1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ofrece Reino Unido becas para cursar maestrías de 1 año"
 front: false
 section: "Local"
-news_id: 186102
+redirect_from: /news/186102
 ---
 
 La Secretaría de Educación y Deporte (SEyD) del Gobierno del Estado de Chihuahua invitó a egresadas y egresados de universidades tanto públicas como privadas a participar en la convocatoria del Programa de Becas Chevening, que ofrece la oportunidad de estudiar una maestría de un año en el Reino Unido.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantautor asturiano ofrecerá conciertos acústicos en tierra mexicana. "
 image: "/uploads/2021/images-nacho-vegas-visita-mexico-ofrecer.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El mundo es como una mesa a la que le falta una o dos patas y tienes que hacer algo para sostenerlo.” -  Nacho Vegas y su búsqueda infinita de la tenura y la poesía"
 front: false
 section: "Espectáculos"
-news_id: 190184
+redirect_from: /news/190184
 ---
 
 Hablar de la música de Nacho Vegas puede ser lo más complicado pero también puede aclararte hasta los pensamientos más enredados, esos en donde ni uno mismo comprende qué pasa. Un refugio, una ayuda, una motivación o una respuesta es lo que da el cantautor asturiano en cada canción. 

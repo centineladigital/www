@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Poncho Vera, ex esposo de Gaby Platas, mostró su apoyo a la actriz quien declaró que cuando estuvo casada con Paco de la O vivió violencia. "
 image: "/uploads/2021/images-poncho-vera-lamento-gaby-platas_28_0_1044_650.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Le creo -  Poncho Vera muestra apoyo a Gaby Platas tras supuesta agresión de Paco de la O"
 front: false
 section: "Espectáculos"
-news_id: 187619
+redirect_from: /news/187619
 ---
 
 Hace unos días Gaby Platas aseguró en entrevista con Mara Patricia Castañeda que había sufrido violencia en su matrimonio con Paco de la O, además que había sido una relación tóxica. Ante estas declaraciones, Poncho Vera, quien también fue esposo de la actriz habló al respecto. En una entrevista para De Primera Mano, Poncho Vera fue cuestionado sobre la polémica que protagonizó hace unos días su ex esposa, Gaby Platas y Paco de la O, quien se defendió de las acusaciones de la actriz.

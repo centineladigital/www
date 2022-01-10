@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se confirman 14 fallecimientos y 189 contagios en el último reporte epidemiológico del sector Salud; la app Salud Digital cuenta con 139 mil 401 registros de atención a usuarias y usuarios con síntomas de coronavirus"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Muestra alza hospitalizaciones de COVID-19 con 220 casos en el estado"
 front: false
 section: "Local"
-news_id: 183398
+redirect_from: /news/183398
 ---
 
 El reporte epidemiológico sobre la situación de la pandemia de COVID-19 en la entidad emitido por la Secretaría de Salud Chihuahua indica que hay un total general de 56 mil 424 contagios tras haberse confirmado otros 189, mientras que el número de personas fallecidas incrementó a 5 mil 481, con 14 decesos en la entidad.

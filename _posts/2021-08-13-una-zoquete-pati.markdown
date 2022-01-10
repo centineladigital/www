@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los que no se vacunan ni vean el programa. Yo ya taché en mi Instagram a los que no se han vacunado, señaló la periodista. "
 image: "/uploads/2021/images-chapoy.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Una zoquete -  Pati Chapoy arremete contra su sobrina por no vacunarse contra el covid-19"
 front: false
 section: "Espectáculos"
-news_id: 186650
+redirect_from: /news/186650
 ---
 
 Los contagios de covid-19 que se han presentado en el reality show MasterChef Celebrity, de TV Azteca, llevaron a una de las personalidades más importantes de la televisora, Pati Chapoy, a incitar fuertemente a los televidentes para que se vacunen contra el virus. 

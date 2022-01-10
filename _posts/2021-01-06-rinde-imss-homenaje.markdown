@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Fabiana Mariana Zepeda, jefa de enfermaría del IMSS, dijo que el personal de enfermería se alista para la siguiente etapa en la que atenderán a las personas sanas para vacunarlas y aminorar la pandemia"
 image: "/uploads/2021/images-2507233.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rinde IMSS homenaje a personal de enfermería en su día"
 front: false
 section: "Nacional"
-news_id: 181909
+redirect_from: /news/181909
 ---
 
 El director del IMSS, Zoé Robledo, rindió un homenaje a las y los más de 142 mil profesionales de la salud que este miércoles celebraron su día.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Dicha veraneada esta dirigida para niñas y niños de 6 a 12 años"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno Municipal a veraneada virtual del 9 al 13 de agosto "
 front: false
 section: "Local"
-news_id: 186472
+redirect_from: /news/186472
 ---
 
 El Gobierno Municipal a través del DIF llevará a cabo una veraneada virtual del 9 al 13 de agosto en horario de 10:00 am a 12:30pm, la cual tiene como fin que se disfrute en compañía de toda la familia sin salir de casa.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El ataque se reportó poco después de las 07:00 horas, en la calle Las Rosas, colonia Reforma, cuando el funcionario judicial salió de su domicilio para abordar su vehículo personal "
 image: "/uploads/2021/images-miembros-tribunal-enviaron-condolencias-familiares_52_8_1091_679.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Asesinan a Enrique Pacheco, magistrado del Tribunal de Justicia Administrativa de Oaxaca"
 front: false
 section: "Nacional"
-news_id: 187700
+redirect_from: /news/187700
 ---
 
 El magistrado del Tribunal de Justicia Administrativa, Enrique Pacheco Martínez, fue asesinado por un grupo de sujetos desconocidos en inmediaciones de la zona norte de la ciudad de Oaxaca, confirmó la Fiscalía General de Justicia del estado (FGJO). 

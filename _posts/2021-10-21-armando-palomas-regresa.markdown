@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El cantautor mexicano dijo estar muy contento de regresar a la Comarca Lagunera después de muchos años. "
 image: "/uploads/2021/images-armando-palomas-especial_114_0_1085_675.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Armando Palomas regresa a Torreón cargado de folclor y poesía"
 front: false
 section: "Espectáculos"
-news_id: 189051
+redirect_from: /news/189051
 ---
 
 Emocionado de regresar a Torreón, Armando Jiménez Veloz, mejor conocido en el ámbito musical como Armando Palomas, es un cantautor mexicano independiente de rock alternativo, cumbiero, folclorista y poeta, nacido en Aguascalientes, quien está más que listo para ofrecer un nutrido concierto de su gira titulada 'El payaso con alas en los pies', el próximo 30 de octubre, así lo dio a conocer en entrevista vía telefónica.

@@ -14,11 +14,11 @@ author: nil
 description: "A consecuencia de las lluvias se presentó la caída de dos bardas y el derribó de un árbol"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-27_at_9.55.34_AM.jpeg"
 video: "/uploads/2021/videos-BL04_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "El Alcalde hace un llamado de prudencia"
 front: false
 section: "Local"
-news_id: 188108
+redirect_from: /news/188108
 ---
 
 Bonilla hizo un llamado la comunidad de responsabilidad y prudencia ya que el riesgo es latente a consecuencia del las lluvias presentadas el día 26 de septiembre puesto que el Presidente  y el Director de Seguridad Publica Julio Salas  pidieron el desalojo de personas que se encontraban en el interior del rio sacramento, Bonilla  comento, que la responsabilidad de esto no es únicamente del municipio, también es responsabilidad de la comunidad.

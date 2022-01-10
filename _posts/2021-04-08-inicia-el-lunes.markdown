@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En el enlace: https://sie.chihuahua.gob.mx/publico/mediasuperior/ las y los interesados podrán obtener su ficha; la evaluación diagnóstica será el 25 de junio y la publicación de resultados el 16 de julio"
 image: "/uploads/2021/images-E2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia el lunes 12 de abril registro para ingreso a nivel medio superior"
 front: false
 section: "Local"
-news_id: 183764
+redirect_from: /news/183764
 ---
 
 La Secretaría de Educación y Deporte (SEyD) informó que el próximo lunes 12 de abril iniciará el registro en línea para la obtención de la ficha de ingreso en los centros escolares de modalidad escolarizada, incorporados a los 13 subsistemas de Educación Media Superior que operan en la entidad.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El presidente Andrés Manuel López Obrador afirma que los responsables del homicidio de Victoria Esperanza serán castigados; asegura que no habrá impunidad en este caso"
 image: "/uploads/2021/images-2553450.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "‘Asesinato de mujer por policías de Tulum, nos llena de vergüenza’"
 front: false
 section: "Nacional"
-news_id: 183591
+redirect_from: /news/183591
 ---
 
 Al inaugurar el Foro Generación Igualdad, el presidente Andrés Manuel López Obrador lamentó el “brutal” asesinato de Victoria Esperanza Salazar por parte de policías de Tulum, en Quintana Roo, “hecho que nos llena de pena, dolor y vergüenza”.

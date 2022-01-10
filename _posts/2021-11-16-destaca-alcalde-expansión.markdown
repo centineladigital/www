@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El nuevo Centro de Distribución servirá para almacenar materiales especiales de construcción"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Destaca Alcalde expansión de Mathasa como ejemplo de competitividad"
 front: false
 section: "Local"
-news_id: 189900
+redirect_from: /news/189900
 ---
 
 El alcalde de Chihuahua, Marco Bonilla encabezó el corte de listón del nuevo Centro de Distribución (CEDIS) del Grupo Mathasa, que ocupa una superficie de 8 mil metros cuadrados para almacenaje de productos y materiales de construcción.

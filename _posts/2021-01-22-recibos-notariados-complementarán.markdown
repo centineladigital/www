@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "No los teníamos en radar, deben ser asegurados, indicó el gobernador"
 image: "/uploads/2021/images-javier_corral_gobernador.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Recibos notariados complementarán investigación -  Corral"
 front: false
 section: "Local"
-news_id: 182353
+redirect_from: /news/182353
 ---
 
 El gobernador del estado Javier Corral Jurado dijo que los recibos certificados que fueron entregados a El Heraldo de Chihuahua no se encontraban contemplados en la investigación, por lo cual recalcó la importancia de estos documentos, los cuales dijo deben ser asegurados por la Fiscalía General del Estado.

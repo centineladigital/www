@@ -10,11 +10,11 @@ author: nil
 description: "Ratifican a Carlos Mario Jimenez Holguín."
 image: "/uploads/2021/images-ROBERTO.jpg"
 video: "/uploads/2021/videos-MM02_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Nombramientos y ratificaciones parte de estrategia de seguridad"
 front: false
 section: "Local"
-news_id: 188392
+redirect_from: /news/188392
 ---
 
 Ratificación de fiscales, así como nombramientos de nuevos se debe a que se está llevando a cabo una estrategia para bajar los índices delincuenciales, fueron las palabras del Fiscal General del Estado Roberto Fierro Duarte.

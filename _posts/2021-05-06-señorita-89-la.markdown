@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ilse Salas, Ximena Romo, Natasha Dupeyrón y Edwarda Gurrola encabezan el elenco de la serie que ya está en grabaciones. "
 image: "/uploads/2021/images-barbara-lopez-edwarda-gurrola-ilse.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Señorita 89', la serie que retratará los certámenes de belleza en la década de los 80"
 front: false
 section: "Espectáculos"
-news_id: 184311
+redirect_from: /news/184311
 ---
 
 A través de la plataforma streaming StarzPlay, llegará la nueva producción de Fábula y Fremantle, que indaga en el oscuro mundo de los certámenes de belleza en México durante la década de los ochenta a partir de una narrativa del thriller. De los creadores de la exitosa serie chilena La Jauría, Señorita 89 comenzó filmaciones y según Lucía Puenzo, guionista y una de los cuatro directores involucrados en el proyecto, llegará a los servicios de streaming en dos o tres meses. 

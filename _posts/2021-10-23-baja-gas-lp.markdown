@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "A partir de este domingo y hasta el 30 de octubre, los precios del gas LP en los principales centros de consumo del país registrarán reducciones"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Baja gas LP en CDMX, Edomex y Veracruz; Gas Bienestar mantiene su precio en Iztapalapa"
 front: false
 section: "Nacional"
-news_id: 189118
+redirect_from: /news/189118
 ---
 
 A partir de este domingo y hasta el 30 de octubre, los precios del gas LP en los principales centros de consumo del país registrarán reducciones.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma que es el mejor partido y que concuerda con su pensar."
 image: "/uploads/2021/images-LUIS_MEDEL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML04_LUIS_MEDEL.mp3"
 alt: "Busca Luis Medel candidatura a la Alcaldía por el PES"
 front: false
 section: "Local"
-news_id: 183095
+redirect_from: /news/183095
 ---
 
 Luis Medel se registró este lunes como candidato del Partido Encuentro Solidario, esto buscando el ser Alcalde por Chihuahua. Dentro de la ruede de prensa el empresario habló del acercamiento que sostuvo con el partido Fuerza por México, organización a la cual lo postuló para representarlo a la candidatura.

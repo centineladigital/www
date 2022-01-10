@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El mexicano permitió el regreso de los Bravos de Atlanta en el segundo juego de la Serie de Campeonato de la Liga Nacional"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Braves de Atlanta derrotan a los Dodgers con mal relevo de Julio Urías"
 front: false
 section: "Deportes"
-news_id: 188834
+redirect_from: /news/188834
 ---
 
 El puertorriqueño Eddie Rosario le dio este domingo una victoria de 5x4 a los Bravos de Atlanta sobre los Dodgers de Los Angeles para poner la Serie de Campeonato en la Liga Nacional 2-0 a su favor. Por segunda noche consecutiva, los Bravos dejaron a los Dodgers al campo con la carrera de la victoria en el noveno inning.

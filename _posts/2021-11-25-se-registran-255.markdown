@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas que han perdido la vida por COVID-19 se incrementó en la cantidad de 8 mil 308 casos (+9) y corresponde a los municipios de Juárez (+1), Chihuahua (+2), Delicias (+1), NCG (+1), Meoqui (+2) y Namiquipa (+2). "
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 255 nuevos casos de COVID-19 para el estado de Chihuahua "
 front: false
 section: "Local"
-news_id: 190205
+redirect_from: /news/190205
 ---
 
 El Gobierno del Estado, a través de la Secretaría de Salud de Chihuahua, presenta este 25 de noviembre el reporte COVID-19, en el cual se registran 85 mil 020 (+255) personas confirmadas en la entidad por este padecimiento, 72 mil 611 (+230) casos recuperados, 79 mil 985 (+366) descartados y 964 (+21) casos sospechosos.

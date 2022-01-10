@@ -16,11 +16,11 @@ author: nil
 description: "Aseguró que en el caso de las grandes obras de México como lo es el aeropuerto Felipe Ángeles tiene una inversión de 160 millones de pesos"
 image: "/uploads/2021/images-descarga_(1).jpg"
 video: "/uploads/2021/videos-BW04_OSCAR_CASTREJON_.mp4"
-audio: "nil"
+audio: nil
 alt: "Castrejón señala no conocer a COPARMEX "
 front: false
 section: "Local"
-news_id: 189771
+redirect_from: /news/189771
 ---
 
 El diputado Óscar Castrejón manifestó su desconocimiento sobre COPARMEX una de Los organismos empresariales más importantes del país, esto al ser cuestionado sobre la poca acción de inversiones extranjeras a consecuencia de la supuesta inseguridad que existe en México.

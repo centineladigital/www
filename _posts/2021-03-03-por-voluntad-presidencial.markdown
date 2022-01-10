@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Este apoyo que por tercer año consecutivo da el gobierno a Pemex es como agua de mayo, dijo Romero Oropeza; el Presidente reitera que no habrá gasolinazo"
 image: "/uploads/2021/images-2538593.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " 'Por voluntad presidencial', disminuyen impuestos a Pemex en 73 mil mdp"
 front: false
 section: "Nacional"
-news_id: 183238
+redirect_from: /news/183238
 ---
 
 l director general de Petróleos Mexicanos, Octavio Romero Oropeza dijo que “por voluntad presidencial se apoya a Pemex con disminución de impuestos”, que será del orden de “73 mil mdp”.

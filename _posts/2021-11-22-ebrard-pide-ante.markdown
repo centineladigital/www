@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "En el debate “Impacto del desvío y tráfico de armas para la paz y la seguridad”, el canciller advirtió que “el tráfico ilícito y desvío de armas pequeñas y ligeras es una amenaza a la paz y seguridad internacionales"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ebrard pide ante la ONU combatir el tráfico de armas junto al sector privado"
 front: false
 section: "Internacional"
-news_id: 190068
+redirect_from: /news/190068
 ---
 
 El canciller Marcelo Ebrard encabezó hoy ante el Consejo de Seguridad de Naciones Unidas, órgano que México preside este mes, un debate sobre el tráfico de armas en el que hizo un llamado a combatir este fenómeno y reforzar compromisos, buscando la cooperación del sector privado.

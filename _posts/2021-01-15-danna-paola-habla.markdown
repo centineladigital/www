@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante admitió que sus canciones fueron un buen medio para hablar de su corazón roto y sanar heridas del pasado. "
 image: "/uploads/2021/images-MADRID_DANNA.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Danna Paola habla sobre las experiencias que inspiraron canciones de su nuevo álbum"
 front: false
 section: "Espectáculos"
-news_id: 182184
+redirect_from: /news/182184
 ---
 
 Hace unos días, nos enteramos de que alguien decidió hacerle una "mala jugada" a Danna Paola y filtrar ilegalmente su nuevo disco K.O., por lo que se vio forzada a adelantar e su estreno. Sin embargo, la cantante tomó la experiencia con la mejor actitud posible, lo que fue posible, en parte, gracias a sus fans, que la apoyaron en todo momento e hicieron que su álbum alcanzara los primeros lugares en las plataformas de streaming. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las autoridades de Teherán se quejan que no pueden comprar vacunas contra el Covid en el extranjero a causa de las sanciones estadounidenses, que provocan un bloqueo de las transacciones en el momento de efectuar el pago"
 image: "/uploads/2021/images-2523620.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Irán recibe las primeras dosis de la vacuna Sputnik V"
 front: false
 section: "Internacional"
-news_id: 182688
+redirect_from: /news/182688
 ---
 
 Las primeras dosis de la vacuna Sputnik V contra el coronavirus llegaron este jueves a Irán, el país de Oriente Medio más castigado por la pandemia, informó la agencia oficial Irna.

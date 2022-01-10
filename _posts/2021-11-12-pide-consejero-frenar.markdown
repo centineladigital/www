@@ -15,12 +15,12 @@ tags:
 author: nil
 description: "El consejero manifestó que no hay una sola institución en el mundo que exista sin recursos y es fundamental un presupuesto acorde debido a que para el próximo año se tienen que organizar seis elecciones y la revocación de mandato. "
 image: "/uploads/2021/images-ciro.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pide consejero frenar recorte al INE"
 front: false
 section: "Nacional"
-news_id: 189810
+redirect_from: /news/189810
 ---
 
 El consejero electoral, Ciro Murayama, lamentó la reducción que se pretende dar desde la Cámara de Diputados al presupuesto anual del Instituto Nacional Electoral (INE) para un año en el que se tiene que organizar la revocación de mandato.

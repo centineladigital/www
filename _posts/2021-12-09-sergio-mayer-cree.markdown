@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor señaló que acudió a la PGR para saber si existía la investigación mencionada; aseguró que respeta a la periodista, pero duda de sus fuentes."
 image: "/uploads/2021/images-sergio-mayer-habrian-confundido-charly.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sergio Mayer cree que testigos de Anabel Hernández en su libro lo confundieron con Charly López"
 front: false
 section: "Espectáculos"
-news_id: 190668
+redirect_from: /news/190668
 ---
 
 Sergio Mayer y su esposa, Issabela Camil, conforman la lista de famosos que aparecen en Emma y las otras señoras del narco por presuntamente mantener una amistad con el narco Édgar Valdez Villarreal, La Barbie. A raíz de ello, el actor ha asegurado que el libro, en el que también son mencionados Andrés García, Ninel Conde, Joan Sebastián, Arleth Terán, y Galilea Montijo, carece de credibilidad, y aunque reconoció el trabajo de Anabel Hernández, recalcó que duda de sus fuentes.  En una entrevista para el programa La Caminera, el político -que en los últimos días fue acusado de agresión por parte del periodista Javier Ceriani- aseguró que Anabel Hernández merece todo su respeto, pero que no existe la investigación que ella menciona en su libro, pues él mismo acudió a la PGR para cerciorarse que no había ninguna indagatoria en su contra.   

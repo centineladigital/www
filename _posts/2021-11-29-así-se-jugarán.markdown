@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Las fechas y horarios se confirmarán este lunes"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así se jugarán las Semifinales del Apertura 2021"
 front: false
 section: "Deportes"
-news_id: 190293
+redirect_from: /news/190293
 ---
 
 Luego de unos cuartos de final bastantes emocionantes, se definieron los cuatro semifinalistas del Apertura 2021: Atlas, León, Tigres y Pumas.

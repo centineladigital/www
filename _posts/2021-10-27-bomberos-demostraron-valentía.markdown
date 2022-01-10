@@ -16,11 +16,11 @@ author: nil
 description: "Las llamadas derretían hasta el fierro mas grueso "
 image: "/uploads/2021/images-incendio_1.jpg"
 video: "/uploads/2021/videos-BW01_JULIO_SALAS_.mp4"
-audio: "nil"
+audio: nil
 alt: "Bomberos demostraron valentía ante incendio en Kalisch "
 front: false
 section: "Local"
-news_id: 189270
+redirect_from: /news/189270
 ---
 
 El director de Seguridad Pública Municipal Julio Cesar Salas, manifestó su reconocimiento a los elementos de la policía municipal y al heroico cuerpo de bomberos por su ardua labor ante el incendio que tuvo lugar en la recicladora Kalisch de la Juan Pablo II.

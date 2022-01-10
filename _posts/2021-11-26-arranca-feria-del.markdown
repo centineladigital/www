@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Si tienes televisores viejos, pantallas que no funcionen u otro tipo de aparatos puedes canjearlo por un árbol"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca feria del reciclaje electrónico en explanada del parque El Palomar"
 front: false
 section: "Local"
-news_id: 190240
+redirect_from: /news/190240
 ---
 
 Este viernes 26 de noviembre se dio inicio formal a la feria del reciclaje electrónico en las instalaciones del parque El Palomar, la cual permanecerá durante los días 27 y 28 de noviembre en un horario de 10:00 am a 5:00 pm.

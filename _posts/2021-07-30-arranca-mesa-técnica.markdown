@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En esta primera reunión participaron Enrique Galindo, Facundo Rosas, Alberto Hidalgo, Jorge Contreras Fornelli y María Eugenia Suárez  de Garay, todos ellos expertos en la materia de talla internacional"
 image: "/uploads/2021/images-mesa.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca Mesa Técnica para asignación de escoltas, expertos opinan"
 front: false
 section: "Local"
-news_id: 186127
+redirect_from: /news/186127
 ---
 
 La Comisión de Seguridad Pública, presidida por la diputada Geo Bujanda, inició los trabajos de la Mesa Técnica para analizar el tema de la Institucionalización de Guardias de Seguridad a Funcionarios Públicos. En esta primera reunión participaron Enrique Galindo, Facundo Rosas, Alberto Hidalgo, Jorge Contreras Fornelli y María Eugenia Suárez  de Garay, todos ellos expertos en la materia de talla internacional. 

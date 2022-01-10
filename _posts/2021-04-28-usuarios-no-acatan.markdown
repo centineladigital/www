@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las personas no respetan la sana distancia ya que viajan hasta dos personas en un mismo asiento"
 image: "/uploads/2021/images-Transporte_público.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Usuarios no acatan medidas sanitarias en el transporte público"
 front: false
 section: "Local"
-news_id: 184152
+redirect_from: /news/184152
 ---
 
 La oficina de Transporte señala que a diario se detectan al menos 10 personas que no acatan las medidas sanitarias en el transporte público urbano, desde hace más de 10 días comenzaron a encontrar personas con el cubrebocas mal puesto o sin usarlo; lo anterior quedó constatado en material fotográfico.

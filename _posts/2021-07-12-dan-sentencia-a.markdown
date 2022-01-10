@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Drake Bell recibió sentencia tras declararse culpable el pasado 23 de junio por un delito menor y uno grave contra una menor de edad. "
 image: "/uploads/2021/images-drake-bell-recibio-sentencia-delitos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dan sentencia a Drake Bell por delitos contra menores; tendrá libertad condicional y servicio comunitario"
 front: false
 section: "Espectáculos"
-news_id: 185567
+redirect_from: /news/185567
 ---
 
 Las autoridades de Estados Unidos sentenciaron dos años de libertad condicional para Drake Bell, quien pagará la condena correspondiente a su estadía en prisión con 200 horas de servicio comunitario en California, después de la audiencia de este lunes 12 de julio. 

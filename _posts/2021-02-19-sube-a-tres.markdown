@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Detectan 113 nuevos casos y 7 defunciones."
 image: "/uploads/2021/images-LETICIA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV01_LETICIA_RUIZ.mp3"
 alt: "Sube a tres dígitos casos COVID"
 front: false
 section: "Local"
-news_id: 183050
+redirect_from: /news/183050
 ---
 
 Con 113 nuevos casos de coronavirus se detectaron en las últimas 24 horas, esto luego de que por más de tres días se había detectado a menos de 100 casos, mientras que en defunciones fueron acreditados 7, según fue a conocer por parte de la Directora del área preventiva Leticia Ruiz González.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En algunos municipios podrían estar acompañadas de granizo"
 image: "/uploads/2021/images-lluvias.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Prevé Protección Civil continúen lluvias para este fin de semana en la entidad"
 front: false
 section: "Local"
-news_id: 188067
+redirect_from: /news/188067
 ---
 
 El Gobierno del Estado, a través de la Coordinación Estatal de Protección Civil (CEPC) informó que se prevé continúen las lluvias en la mayor parte de la entidad para este fin de semana, mismas que podrían estar acompañadas de caída de granizo.

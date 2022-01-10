@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Madonna reveló que se siente arrepentida por no haber aceptado importantes papeles en dos grandes películas de la historia cinematográfica: Gatúbela (Catwoman) en la película ‘Batman Returns’ y un personaje en ‘Matrix’. "
 image: "/uploads/2021/images-madonna-arrepiente-rechazar-papeles-batman.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arrepentida, Madonna revela que rechazó ser 'Gatúbela' en ‘Batman Returns’ y salir en ‘Matrix’"
 front: false
 section: "Espectáculos"
-news_id: 188604
+redirect_from: /news/188604
 ---
 
 Madonna, famosa cantante internacional, dio mucho de qué hablar en una reciente entrevista que dio ‘The Tonight Show’ con Jimmy Fallon. Y es que la intérprete de ‘Hung Up’ reveló por primera vez de lo que se arrepiente de toda su gran trayectoria artística, la cual ha estado repleta de éxito. ¿De qué se arrepiente Madonna? Aunque quizá muchos pensaban que hablaría del rubro musical, en realidad Madonna contó que se siente arrepentida de haber rechazado el papel de Gatúbela (Catwoman) en la película ‘Batman Returns’ y un papel en ‘Matrix’. 

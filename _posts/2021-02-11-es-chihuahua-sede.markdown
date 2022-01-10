@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El estado cuenta con más de 20 casas de vino, 57 etiquetas y 15 casas productoras de sotol, ganadoras de las más altas preseas internacionales"
 image: "/uploads/2021/images-MÉXICO_SELECTION_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Es Chihuahua sede de la cuarta edición del certamen vitivinícola México Selection"
 front: false
 section: "Local"
-news_id: 182872
+redirect_from: /news/182872
 ---
 
 La Secretaría de Innovación y Desarrollo Económico (SIDE) del Gobierno del Estado, a través de la Dirección de Comercio invitó al concurso México Selection organizado por el Concours Mondial de Bruxelles, que este año tendrá como sede la ciudad de Chihuahua y tiene por objetivo reconocer a los mejores vinos de todo el país.

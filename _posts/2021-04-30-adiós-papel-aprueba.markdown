@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El “Gestor de oficios digitales” permite envío, monitoreo, rastreo y notificación de oficios; lo que significará disminución de tiempos, fallas administrativas y mayor transparencia"
 image: "/uploads/2021/images-UACH_Plataforma.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Adiós papel! Aprueba UACH Plataforma Digital de Oficios"
 front: false
 section: "Local"
-news_id: 184215
+redirect_from: /news/184215
 ---
 
 La plataforma digital “Gestor de oficios digitales” fue desarrollada por la Coordinación de Tecnologías de la información de la Universidad Autónoma de Chihuahua, permitirá al funcionariado universitario eficientar y gestionar la comunicación oficial, desde cualquier dispositivo en tiempo real y accesible para todas y todos.

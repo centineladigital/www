@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Exhortan a extremar precuaciones."
 image: "/uploads/2021/images-GUMI.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MJ02_GUMARO.mp3"
 alt: "Pudieran dispararse casos COVID el 10 de mayo"
 front: false
 section: "Local"
-news_id: 184322
+redirect_from: /news/184322
 ---
 
 Debido a que la gráfica de nuevos casos no se encuentra estable el que se lleve a cabo festejos dentro del día de la madre pudiera disparar el número de casos, afirmó el titular de la Subdirección de Epidemiología, Gumaro Barrios Gallegos al dar a conocer las cifras de nuevos casos de contagios de COVID.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Un juez de Massachusetts aceptó una petición para que abogados de las empresas puedan presentar sus pruebas y denuncias en conjunto en la demanda impuesta por el gobierno de México. "
 image: "/uploads/2021/images-armas-fuegos-suelen-exportadas-paises_0_28_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Juez en EU acepta que 11 armerías se defiendan en 'bloque' ante México"
 front: false
 section: "Internacional"
-news_id: 188078
+redirect_from: /news/188078
 ---
 
 Un juez federal en Estados Unidos aceptó que las 11 empresas armamentistas que fueron denunciadas por el gobierno federal vayan en bloque, en un juicio civil con el que México pretende obtener una indemnización por las prácticas negligentes. 

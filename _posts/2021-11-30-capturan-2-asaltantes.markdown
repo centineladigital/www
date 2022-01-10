@@ -20,11 +20,11 @@ author: nil
 description: "“Lo dejamos claro desde el inicio de la administración, en Chihuahua capital el que la hace la paga y la frase no es solo de campaña del gobierno municipal, se ha llevado a la práctica por la DSPM a cargo de Julio Salas” "
 image: "/uploads/2021/images-Asaltantes.jpeg"
 video: "/uploads/2021/videos-BM06_MARCO_BONILLA.mp4"
-audio: "nil"
+audio: nil
 alt: "Capturan 2 asaltantes más "
 front: false
 section: "Local"
-news_id: 190363
+redirect_from: /news/190363
 ---
 
 Marco Bonilla, presidente municipal de Chihuahua dio a conocer la captura de 2 asaltantes uno involucrado en el robo a un restaurante y el otro de 8 atracos a tiendas de cadena comercial, Daniel G.S  y Felipe S.L, el edil manifestó que en menos de 48 horas fueron capturados y que los agentes de la policía municipal lograron ubicar al presunto responsable del robo a mano armada que la semana pasada atraco a un restaurante de comida rápida.

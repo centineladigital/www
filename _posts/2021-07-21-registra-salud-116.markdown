@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El número de personas fallecidas es de 7 mil 649 con 6 más, tres en Juárez y tres en  Chihuahua   "
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registra Salud  116 nuevos contagios  de  COVID-19 para un total de 71 mil  779  en la entidad"
 front: false
 section: "Local"
-news_id: 185870
+redirect_from: /news/185870
 ---
 
 La Secretaría de Salud informó que se registraron 116 nuevos casos y 6 defunciones de COVID-19 en el estado, con lo que el acumulado total es de 71 mil 779 contagios y 7 mil 649 decesos.

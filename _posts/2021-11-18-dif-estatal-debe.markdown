@@ -16,11 +16,11 @@ author: nil
 description: "La gobernadora no les da respuesta ante hacienda "
 image: "/uploads/2021/images-índice.jpg"
 video: "/uploads/2021/videos-BJ04_REPRESENTANTE.mp4"
-audio: "nil"
+audio: nil
 alt: "DIF Estatal debe 100 mil pesos a Organizaciones civiles"
 front: false
 section: "Local"
-news_id: 189979
+redirect_from: /news/189979
 ---
 
 el DIF Estatal Chihuahua en el cual  se les había prometido la suma de 200 mil pesos de los cuales solo recibieron 100mil, desde la pasada administración.

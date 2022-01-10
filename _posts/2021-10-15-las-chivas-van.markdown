@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La eterna irregularidad de Gudiño y Rodríguez provoca que el Rebaño esté en constante búsqueda de un portero que sí le aporte seguridad"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Las Chivas van por Carlos Acevedo"
 front: false
 section: "Deportes"
-news_id: 188764
+redirect_from: /news/188764
 ---
 
 Ha trascendido que Guillermo Almada es uno de los candidatos para llegar a la dirección técnica del Guadalajara, por más que Marcelo Michel Leaño se aferre a seguir en el puesto y quitarse la etiqueta de “interino”, pero no es lo único que las Chivas quieren llevarse de La Comarca Lagunera.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El protagonista de 'Rápidos y furiosos' se reunió con Cody Walker a días del aniversario luctuoso de Paul Walker. "
 image: "/uploads/2021/images-vin-diesel-vive-emotivo-reencuentro_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estoy tan orgulloso -  Vin Diesel vive emotivo reencuentro con el hermano de Paul Walker"
 front: false
 section: "Espectáculos"
-news_id: 190565
+redirect_from: /news/190565
 ---
 
 Mucho se habla del éxito de taquilla de la saga de Rápidos y Furiosos, pero más allá de los millones de dólares en sus bolsillos, los actores se volvieron íntimos amigos e, incluso, una familia, tal como ha mencionado Vin Diesel en varias ocasiones. La muerte de Paul Walker -quien interpretaba a Brian O'Conner en las películas- fue un duro golpe para el elenco, en especial para el actor que da vida a Dominic Toretto, quien con frecuencia recuerda a su amigo en redes sociales. Vin Diesel mantiene una fraternal relación con la hija de Paul Walker, Meadow Walker, a quien escoltó al altar el día de su boda. A tan sólo unos días del aniversario luctuoso de Walker -quien perdió la vida en un accidente automovilístico en 2013-, Diesel se reencontró con el hermano de su colega y "hermano".  

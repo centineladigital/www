@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Busca SEDUE reorientar el crecimiento hacia un desarrollo urbano sostenible en esta frontera; las rutas para bicicleta recorrerán zonas del  Centro Histórico, Chamizal y el Pronaf."
 image: "/uploads/2021/images-CICLOVIAS_EN_JUAREZ__(1).png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invierte Estado 47 mdp en 30 kilómetros de Ciclorutas en Ciudad Juárez."
 front: false
 section: "Local"
-news_id: 185468
+redirect_from: /news/185468
 ---
 
 La Secretaría de Desarrollo Urbano y Ecología del Estado de Chihuahua (SEDUE) dio a conocer en el programa Logros con Valor el desarrollo de ciclorutas en Ciudad Juárez, como parte de los proyectos que Gobierno del Estado realiza en esta frontera para reorientar el crecimiento hacia un desarrollo urbano sostenible.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente consideró que el artículo se ha usado como medida represiva, pues el país ya tiene una nueva realidad. "
 image: "/uploads/2021/images-amlo-djijo-analizar-eliminar-reformar_0_1_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO analiza eliminar o reformar artículo 33 de la Constitución"
 front: false
 section: "Nacional"
-news_id: 187976
+redirect_from: /news/187976
 ---
 
 El presidente Andrés Manuel López Obrador dijo que se analizará la posibilidad de eliminar o modificar el artículo 33 de la Constitución  al considerar que ha sido utilizado como una medida represiva. 

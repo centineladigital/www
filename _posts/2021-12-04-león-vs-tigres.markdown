@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Hoy se conocerá al primer finalista del Apertura 2021; los Tigres de Miguel Herrera llegan con ventaja, pero el León se hace fuerte en casa"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "León vs Tigres, por el primer boleto a la final del Apertura 2021"
 front: false
 section: "Deportes"
-news_id: 190503
+redirect_from: /news/190503
 ---
 
 Miguel Herrera tiene en sus manos el boleto a su séptima final de Liga, pero antes debe sellarlo en la complicada visita a la casa del León. Los Tigres del Piojo llegan con ventaja de 2-1 sobre La Fiera de Ariel Holan, quien vive su primera temporada en México.

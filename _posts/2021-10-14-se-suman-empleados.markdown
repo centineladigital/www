@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La dependencia realizará varias acciones simbólicas y una colecta para apoyar a las víctimas de esta enfermedad   "
 image: "/uploads/2021/images-unnamed_(8).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se suman empleados de DSPM a concientización de la lucha contra el cáncer de mama   "
 front: false
 section: "Local"
-news_id: 188749
+redirect_from: /news/188749
 ---
 
 Con el fin de concientizar e informar a los funcionarios de la Dirección de Seguridad Pública Municipal (DSPM), sobre la lucha contra el cáncer de mama, a partir de la próxima semana la dependencia realizará una serie de actividades simbólicas y una colecta que será entregada a las asociaciones encargadas de atender este problema.

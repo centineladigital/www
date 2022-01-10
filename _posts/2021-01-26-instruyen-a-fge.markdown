@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Agendan nueva fecha para el 2 de febrero para la audiencia inicial"
 image: "/uploads/2021/images-WhatsApp_Image_2021-01-26_at_12.51.12_PM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instruyen a FGE entregar copia certificada de investigación contra Maru"
 front: false
 section: "Local"
-news_id: 182449
+redirect_from: /news/182449
 ---
 
 La Juez local Delia Valentina Jiménez Olivas, resolvió que la Fiscalía General del Estado deberá realizar la entrega de las copias certificada de la carpeta de investigación en contra de María Eugenia Campos Galván, María Ávila Serna y Rodrigo de la Rosa, para que conozcan de los delitos que le buscan fincar.

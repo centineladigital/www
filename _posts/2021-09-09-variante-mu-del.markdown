@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "“Mu”, que fue detectada por primera vez en Colombia en enero y cuya nomenclatura científica es B.1.621, había sido clasificada como variante de interés por la OMS"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Variante mu del Covid-19 es potencialmente preocupante, según la EMA"
 front: false
 section: "Internacional"
-news_id: 187578
+redirect_from: /news/187578
 ---
 
 La Agencia Europea de Medicamentos (EMA) dijo el jueves que la variante del coronavirus llamada "mu" es "potencialmente preocupante", aunque todavía no existen datos que muestren si superará a la delta.

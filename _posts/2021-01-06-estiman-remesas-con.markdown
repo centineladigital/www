@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Presidente dijo que al cierre de diciembre se prevé recaudar 40 mil 574 millones de dólares en 2020, lo que significa una variación del 11.3 por ciento"
 image: "/uploads/2021/images-2507137.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estiman remesas con cifra récord; suben 11.3%"
 front: false
 section: "Nacional"
-news_id: 181899
+redirect_from: /news/181899
 ---
 
 El presidente Andrés Manuel López Obrador informó que de acuerdo a estimados, se alcanzó un récord de envíos de dinero al país, con lo que se superó la cifra de los 40 mil millones de dólares.

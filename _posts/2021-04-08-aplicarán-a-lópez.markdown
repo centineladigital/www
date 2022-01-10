@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Confirma el presidente que recibirá esta dosis en unas dos semanas, aproximadamente; demostrado, que beneficios del inmunizador superan riesgos ante Covid-19"
 image: "/uploads/2021/images-2558937.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aplicarán a López Obrador vacuna de AstraZeneca"
 front: false
 section: "Nacional"
-news_id: 183753
+redirect_from: /news/183753
 ---
 
 El presidente de México, Andrés Manuel López Obrador, dijo el jueves que se aplicará la vacuna contra el Covid-19 de la farmacéutica británica AstraZeneca, argumentando que se ha demostrado que los beneficios del biológico superan los posibles riesgos.

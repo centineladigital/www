@@ -10,11 +10,11 @@ author: nil
 description: "Se enteran de acciones a través de los medios de comunicación."
 image: "/uploads/2021/images-ROBERTOO.jpg"
 video: "/uploads/2021/videos-MM01_ROBERTO_FIERRO.mp4"
-audio: "nil"
+audio: nil
 alt: "Retiran a Fiscal de la Zona Norte; enfrentará proceso legal sin afectar puesto"
 front: false
 section: "Local"
-news_id: 188160
+redirect_from: /news/188160
 ---
 
 Tras anunciarse una orden de aprehensión a nivel nacional en contra de Jorge Arnaldo Nava López, quien es Fiscal de Distrito Zona Norte, el titular de la Fiscalía General del Estado señaló que sería retirado del cargo con el fin de que el funcionario pueda enfrentar un proceso legal que tiene pendiente.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Yordi aseguró que tiene tendencia a subir (de peso); comemos tantito y subimos muy rápido, pero también bajo muy rápido. Es terrible porque dos semanas me porto mal, porque me encanta comer, y una semana le echo ganas y bajo. "
 image: "/uploads/2021/images-yordi-rosado-instagram-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Yordi Rosado recuerda el penoso momento que lo motivó a bajar de peso -  era un cerdo"
 front: false
 section: "Espectáculos"
-news_id: 191050
+redirect_from: /news/191050
 ---
 
 Aunque en su programa de YouTube Yordi Rosado suele ser el que saca las anécdotas de sus entrevistados, durante sus participaciones en Miembros al aire el conductor ha compartido vivencias personales peculiares, como el día que rogó por su vida en un bar de Culiacán o la ocasión que lo vomitaron durante un acto íntimo. Ahora, en la emisión de Unicable el ex integrante de Otro Rollo recordó el penoso momento que lo motivó a bajar de peso, pues a partir de ahí se dio cuenta que "era un cerdo" 

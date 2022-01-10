@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se pide a la población estar atenta a los avisos oficiales y no salir de casa si no es necesario"
 image: "/uploads/2021/images-WhatsApp_Image_2021-07-20_at_3.09.18_PM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aviso preventivo ante posible tormenta en la capital del estado"
 front: false
 section: "Local"
-news_id: 185851
+redirect_from: /news/185851
 ---
 
 Al continuar las condiciones climáticas, el Servicio Meteorológico Nacional prevé que en las próximas horas pudiera presentarse una tormenta de núcleo en la ciudad de Chihuahua, por lo que se pide a la población permanecer atenta a los avisos oficiales y no salir de casa si no es necesario.

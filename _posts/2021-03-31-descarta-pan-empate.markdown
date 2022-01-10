@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Bonilla supera a todos los candidatos a la Alcaldía."
 image: "/uploads/2021/images-FRANCISCO_NAVARRO.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04_FRANCISCO_NAVARRO.mp3"
 alt: "Descarta PAN empate técnico en alcaldía"
 front: false
 section: "Local"
-news_id: 183638
+redirect_from: /news/183638
 ---
 
 Francisco Navarro, dirigente del PAN a nivel municipal, descartó que se diera un empate técnico entre el abanderado albiazul y el contendiente de MORENA Marco Adán Quezada. Esto tras manejarse que el expriísta habría superado el trabajo de Marco Antonio Bonilla Mendoza.

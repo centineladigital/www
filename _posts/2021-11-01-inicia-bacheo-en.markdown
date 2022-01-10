@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Gobierno Municipal atiende las solicitudes de conductores   "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia bacheo en cuatro importantes avenidas de la ciudad"
 front: false
 section: "Local"
-news_id: 189444
+redirect_from: /news/189444
 ---
 
 El Gobierno Municipal a través de la Dirección de Obras Públicas y el departamento de Mantenimiento Vial, continúan con las labores de bacheo por avenidas o calles principales y para esta semana atenderán avenidas del norte y sur de la ciudad.

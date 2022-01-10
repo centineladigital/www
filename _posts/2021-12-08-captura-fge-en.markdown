@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Asumió el mando al interior del grupo criminal “Gente Nueva de El Tigre” tras la captura de “La Changa”; es acusado por atentar contra el fiscal Jesús Manuel Carrasco"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Captura FGE en Cuauhtémoc a Francisco Javier R. V., alias “El Curtas” objetivo prioritario"
 front: false
 section: "Local"
-news_id: 190610
+redirect_from: /news/190610
 ---
 
 Elementos de la Agencia Estatal de Investigación de la Fiscalía General del Estado (FGE), detuvieron mediante orden de aprehensión a Francisco Javier R. V., alias “El Curtas”, considerado uno de los objetivos prioritarios, generadores de violencia en la región de Cuauhtémoc.

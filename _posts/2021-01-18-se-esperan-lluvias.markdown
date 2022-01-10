@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Pide coordinadora de la dependencia acatar las recomendaciones para evitar enfermedades y accidentes"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se esperan lluvias para los siguientes días -  Protección Civil Municipal"
 front: false
 section: "Local"
-news_id: 182211
+redirect_from: /news/182211
 ---
 
 Alta probabilidad de lluvias para los siguientes tres días a partir de este martes y temperaturas que no rebasarán los 25 grados Celsius, es lo que, informó la Coordinación Municipal de Protección Civil de acuerdo al pronóstico del Servicio Meteorológico Nacional, se espera para esta semana en la capital del estado, por ello es importante acatar las recomendaciones que constantemente emite la autoridad al respecto.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Para prevenir contagios de COVID-19, se recomienda seguir los protocolos de higiene y acudir a sucursales bancarias de manera escalonada, en días posteriores al pago."
 image: "/uploads/2021/images-descarga.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "A partir del 1 de octubre, pensionados(as) del IMSS pueden cobrar su prestación"
 front: false
 section: "Local"
-news_id: 188282
+redirect_from: /news/188282
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) informa a los más de 4 millones de pensionadas y pensionados que a partir del 1 de octubre podrán disponer del pago de su prestación mensual.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La visita a los Gallos Blancos puede dar dividendos, ya que como visitante el Guadalajara no ha perdido"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chivas, con oportunidad inmejorable ante Querétaro"
 front: false
 section: "Deportes"
-news_id: 188174
+redirect_from: /news/188174
 ---
 
 Después de salir ilesos del Clásico Nacional, las Chivas buscarán su primera victoria bajo el mando de Marcelo Leaño en su visita a La Corregidora para enfrentar a los Gallos Blancos del Querétaro.

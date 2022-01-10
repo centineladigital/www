@@ -16,11 +16,11 @@ author: nil
 description: "Se espera una recaudación de 600 millones de pesos "
 image: "/uploads/2021/images-808BB1A6-936E-47A2-9F8A-99629D82AC00.jpeg"
 video: "/uploads/2021/videos-BJ03_JOSE_GRANILLO_.mp4"
-audio: "nil"
+audio: nil
 alt: "También habrá replauqueo en el Estado"
 front: false
 section: "Local"
-news_id: 191362
+redirect_from: /news/191362
 ---
 
 José de Jesús Granillo Vázquez, titular de La Secretaría De Hacienda Del Gobierno del Estado señaló que además de la revalidación vehicular se llevará a cabo el replaqueo en el estado de Chihuahua, informó que en la ley de ingresos se autorizaron estímulos durante los meses de febrero, marzo y abril.

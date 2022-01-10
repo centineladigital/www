@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La elección de mesa directiva se llevará a cabo el día jueves 27 de enero de 2022 a las 9 de la mañana."
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Gobierno del Estado a usuarios de acuíferos a conformar el Comité Técnico de Aguas Subterráneas de Chihuahua"
 front: false
 section: "Local"
-news_id: 191078
+redirect_from: /news/191078
 ---
 
 El Gobierno del Estado por medio de la Junta Central de Agua y Saneamiento, convoca a todas las personas físicas y morales que cuenten con un título concesionario de uso de los acuíferos de El Sauz-Encinillas, Chihuahua-Sacramento y Tabaloapa-Aldama, a conformar la Asamblea y Mesa Directiva del Comité Técnico de Aguas Subterráneas Metropolitano de Chihuahua (COTAS Metropolitano Chihuahua).

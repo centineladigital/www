@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Adamari López revela por qué fue vetada por un poco tiempo de Televisa; esto luego de que ya le hubieran dado un papel para una telenovela. "
 image: "/uploads/2021/images-adamari-lopez-revela-vetada-televisa.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Lloré muchísimo -  Adamari López revela por qué fue vetada de Televisa; reviven fuerte episodio"
 front: false
 section: "Espectáculos"
-news_id: 186188
+redirect_from: /news/186188
 ---
 
 Adamari López, conductora de Hoy Día y famosa actriz de varias telenovelas mexicanas, recordó la vez que fue vetada de Televisa. Esto luego de que la famosa se quedara con el papel para la telenovela Pueblo chico, infierno grande. ¿Qué fue lo que ocurrió? ¿Por qué Televisa vetó a Adami López? Te contamos lo que sucedió con la famosa que también salió en Soñadoras de la vida. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Su principal reto al entrar a Telediario fue su timidez, aunque tras cinco años ha logrado vencerla; recuerda que desde chica le llamó la atención estar en los medios de comunicación. "
 image: "/uploads/2021/images-conductora-espera-fusionar-carrera-psicologia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Diana Sánchez. Visionaria, psicóloga y chica del clima"
 front: false
 section: "Espectáculos"
-news_id: 189196
+redirect_from: /news/189196
 ---
 
 La chica del clima Diana Aracely Sánchez Ortiz, de 27 años de edad, graduada en el año 2015 en Psicología, es una apasionada de ambas actividades, ya que en cinco años que tiene laborando para Multimedios Televisión, disfruta al máximo el crecimiento que ha logrado en su recorrido por Telediario.  

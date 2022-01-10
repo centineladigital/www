@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Presidente recordó a la señora Aurora Hernández por llevar despensas y apoyar al movimiento que encabeza en tiempos difíciles. "
 image: "/uploads/2021/images-adan-augusto-lopez-secretario-gobernacion-2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Murió Aurora Hernández Sánchez, madre del secretario de Gobernación"
 front: false
 section: "Nacional"
-news_id: 190066
+redirect_from: /news/190066
 ---
 
 El presidente Andrés Manuel López Obrador lamentó el fallecimiento de Aurora Hernández Sánchez, madre el secretario de Gobernación, Adán Augusto López, a quién le envió un abrazo fraterno.  

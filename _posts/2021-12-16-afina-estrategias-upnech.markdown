@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Con ese objetivo se reúnen titulares de difusión de los 12 centros educativos de la institución"
 image: "/uploads/2021/images-U2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Afina estrategias UPNECH para promover su oferta educativa"
 front: false
 section: "Local"
-news_id: 190928
+redirect_from: /news/190928
 ---
 
 Con el objetivo de fortalecer y promover la oferta académica entre quienes tengan interés de ser un profesional de la educación con un amplio sentido humanista y multicultural, se reunieron los titulares de difusión de los 12 centros educativos de la Universidad Pedagógica Nacional del Estado de Chihuahua (UPNECH).

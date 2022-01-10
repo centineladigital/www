@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Diariamente, dicho puente ubicado en la entrada norte es utilizado por miles de usuarios, locales y viajeros hacia la Ciudad de México y el Puerto de Acapulco "
 image: "/uploads/2021/images-distintas-acciones-vigilancia-rogelio-agustin_0_77_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Chilpancingo, descartan riesgo de colapso en puente elevado tras sismo de 7.1"
 front: false
 section: "Nacional"
-news_id: 187648
+redirect_from: /news/187648
 ---
 
 La delegación de la Secretaría de Comunicaciones y Transportes, la Secretaría de Obras Públicas de Guerrero y Protección Civil desmintieron el riesgo de que un puente elevado en la entrada Norte de Chilpancingo se encuentre en riesgo de colapso, por las afectaciones que provocó el sismo de 7.1 grados el pasado miércoles. Varios automovilistas reportaron que en el costado del sentido norte-sur del puente se observaba el desbordamiento de tierra y la caída de una escama de concreto. 

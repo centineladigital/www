@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Buscan crear conciencia de problemáticas como sexting, entre otras."
 image: "/uploads/2021/images-PC3.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW04_ENRIQUE_RODRIGUEZ.mp4"
 alt: "Estudiantes reciben herramientas para navegar en internet"
 front: false
 section: "Local"
-news_id: 191123
+redirect_from: /news/191123
 ---
 
 Con el fin de que jóvenes tengan herramientas para que naveguen por internet de forma segura, el área de la Policía Cibernética perteneciente a la Fiscalía General del Estado ofreció a alumnos de secundaria una plática virtual.

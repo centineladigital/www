@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz compartió una serie de fotografías en las que posa junto a Andrés Tovar, mismas que acompañó con un mensaje que dio de qué hablar en redes. "
 image: "/uploads/2021/images-maite-perroni-andres-tovar-presumen_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Almas gemelas no son sólo amantes -  Maite Perroni y Andrés Tovar presumen su amor con románticas fotos"
 front: false
 section: "Espectáculos"
-news_id: 190365
+redirect_from: /news/190365
 ---
 
 Maite Perroni y Andrés Tovar presumieron su amor en redes, luego de que la actriz desmintiera estar embarazada. La pareja se ha convertido en una de las más polémicas después de que una publicación asegurara que la integrante de RBD había sido la tercera en discordia en el matrimonio del productor con Claudia Martin, lo cual ambos negaron; sin embargo, las críticas no se hicieron esperar y varios usuarios compararon la situación con la de Karla Panini y Américo Garza.  Ahora, Maite Perroni sorprendió al compartir una serie de fotografías en las que posa junto a Andrés Tovar y en las que se les ve muy enamorados y disfrutando de su noviazgo, imágenes que compartieron con un mensaje que generó revuelo entre los internautas debido a lo controversial de sus declaraciones. 

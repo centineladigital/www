@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El aumento de precio de Gas Bienestar reportado por la permisionaria ante la Comisión Reguladora de Energía es incluso mayor al incremento del precio máximo que se registrará a partir del primer minuto del 17 de octubre"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aumenta 92 centavos precio del Gas Bienestar en CDMX y Edomex"
 front: false
 section: "Nacional"
-news_id: 188815
+redirect_from: /news/188815
 ---
 
 Precios del gas LP distribuido por la empresa estatal Gas Bienestar se dispara hasta 92 centavos por kilogramo en algunos sitios de la alcaldía Iztapalapa y a partir de este sábado 16 octubre se vende hasta en 23.25 pesos, cuando una semana antes se encontraba en 22.33 pesos el mismo kilogramo.

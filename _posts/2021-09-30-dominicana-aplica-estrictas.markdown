@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La Asociación para la Construcción y Promoción de la Vivienda informó que un 29 por ciento de los trabajadores de la construcción en República Dominicana son haitianos, al igual que un 28 por ciento de los empleados en la agricultura. "
 image: "/uploads/2021/images-gran-parte-de-la-agricultura_0_27_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Dominicana aplica estrictas barreras contra haitianos en plena crisis migratoria"
 front: false
 section: "Internacional"
-news_id: 188218
+redirect_from: /news/188218
 ---
 
 El anuncio de la aplicación estricta de una serie de barreras a los trabajadores indocumentados en República Dominicana dejó en vilo desde este miércoles a miles de haitianos, así como a las empresas que emplean a estos inmigrantes. 

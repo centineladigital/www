@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "También se ratificó el incremento en el número de defunciones quedando en 7 mil 924; en recuperados suman 66 mil 463 (+64) recuperados, descartados son 66 mil 199 (+547) y contabiliza en 825 (+7) los casos sospechosos."
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-22_at_10.58.34.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se registran 105 nuevos contagios de COVID-19 para el estado "
 front: false
 section: "Local"
-news_id: 187948
+redirect_from: /news/187948
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al 22 de Septiembre se tiene un total general de 77 mil 350 contagios en el estado. Luego de confirmarse otros 105 más en Juárez, Chihuahua, Parral, Cuauhtémoc, Delicias, Nuevo Casas Grandes, Ojinaga, Guachochi, Jiménez, Bocoyna, Meoqui, Saucillo, Guerrero, Buenaventura, Namiquipa, Madera, Rosales, Ascensión, Casas Grandes, Temosachic, Valle de Zaragoza, San Francisco de Conchos y Morelos.

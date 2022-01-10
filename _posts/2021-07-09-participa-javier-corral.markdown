@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Junto a los catedráticos y escritores Luis Antonio Payán y Víctor Orozco, emitió sus comentarios sobre la obra, que consideró, debe ser leída por el propio presidente Andrés Manuel López Obrador."
 image: "/uploads/2021/images-DSC_7945.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Participa Javier Corral en la presentación del libro “La 4T -  Claves para descifrar el rompecabezas”"
 front: false
 section: "Local"
-news_id: 185487
+redirect_from: /news/185487
 ---
 
 El gobernador Javier Corral participó como presentador del libro “4T: Claves para descifrar el rompecabezas”, que es una compilación de textos de 17 distintos escritores realizada bajo la coordinación del escritor y periodista Hernán Gómez, en acto celebrado en el Aula Magna, de la rectoría de la Universidad Autónoma de Ciudad Juárez (UACJ).

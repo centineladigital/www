@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ana Lilia Arechiga, presunta hija no recomida de Vicente Fernández, externó que desea estar cerca de su padre. Externó que no quiere dinero ni su herencia. "
 image: "/uploads/2021/images-vicente-fernandez-acompanado-esposa-salida.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No busco dinero -  Aparece hija no reconocida de Vicente Fernández; pide estar con su padre"
 front: false
 section: "Espectáculos"
-news_id: 188271
+redirect_from: /news/188271
 ---
 
 Vicente Fernández, famoso cantante mexicano, sigue dando de qué hablar, luego de que siga en recuperación en el hospital. Aunque se ha revelado que El Charro de Huentitán está estable, el estado de su salud sigue generando preocupación entre sus fans y familiares. Por ello, salió a la luz una nueva petición de quien asegura es la hija no reconocida de Don Chente: Ana Lilia Arechiga. 

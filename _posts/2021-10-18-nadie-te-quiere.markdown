@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El tiktoker estaba detrás del personaje de Caperuza, pero su participación en el reality no fue bien recibido por el público que lo criticaron por su comportamiento de diva. "
 image: "/uploads/2021/images-critican-a-kunno-tras-participacion_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nadie te quiere -  Critican a Kunno por actuación en 'Quién es la máscara'; así reveló su identidad"
 front: false
 section: "Espectáculos"
-news_id: 188846
+redirect_from: /news/188846
 ---
 
 Kunno es uno de los influencers más polémicos de México desde aquella ocasión en la que se dio a conocer que cobraba una cantidad exagerada por mandar saludos a sus seguidores, además de su "fallida" caminata en una pasarela del New York Fashion Week. Ahora, el tiktoker volvió a convertirse en tendencia tras su participación en la tercera temporada de Quién es la máscara, pues varios internautas criticaron su actuación durante el reality show.  Este domingo los investigadores Carlos Rivera, Yuri, Juanpa Zurita y Mónica Huarte desenmascararon a dos nuevos personajes de Quién es la máscara. Se trató de Perro Callejero y Caperuza, quienes no pudieron mantener su identidad oculta y tras una serie de pistas salió a la luz el nombre de los famosos que se ocultaban bajo dichos disfraces.  

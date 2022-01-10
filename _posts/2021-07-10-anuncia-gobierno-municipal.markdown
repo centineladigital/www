@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se instalarán contenedores en distintos puntos para que los vecinos lleven sus tiliches."
 image: "/uploads/2021/images-destil.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia Gobierno Municipal Destilichadero en La Cima, Galeras, Vistas del Norte y Granjas"
 front: false
 section: "Local"
-news_id: 185528
+redirect_from: /news/185528
 ---
 
 El Gobierno Municipal a través de la Dirección de Servicios Públicos realizará el programa de Destilichadero los días lunes, martes, jueves y viernes en distintas colonias de la ciudad.

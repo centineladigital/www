@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Esto beneficiará a personas de situación vulnerable."
 image: "/uploads/2021/images-índice.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML03_NACHO_GALICIA.mp4"
 alt: "Apoya empresa a personas con afecciones dermatológicas"
 front: false
 section: "Local"
-news_id: 190802
+redirect_from: /news/190802
 ---
 
 A través de la Secretaría de Desarrollo Social recibió una donación de productos para apoyo a personas que padecen de algún tipo de problemas dermatológicos, según lo dio a conocer el titular de la Secretaría de Desarrollo de Desarrollo Humano y Bien Común, Ignacio Galicia de Luna.

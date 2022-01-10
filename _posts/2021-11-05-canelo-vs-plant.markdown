@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Conoce todos los detalles para que no te pierdas el pesaje previo a la pelea entre el mexicano y el estadunidense "
 image: "/uploads/2021/images-donde-ver-en-vivo-el-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Canelo vs Plant -  Horario y dónde ver EN VIVO el pesaje"
 front: false
 section: "Deportes"
-news_id: 189580
+redirect_from: /news/189580
 ---
 
 Este fin de semana, el pugilista mexicano Saúl Álvarez volverá a subirse al ring para enfrentar al estadunidense Caleb Plant en el MGM Grand Garden Arena de Las Vegas.

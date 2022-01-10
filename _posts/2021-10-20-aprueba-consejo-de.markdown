@@ -11,12 +11,12 @@ tags:
 author: nil
 description: " La JCAS designará al nuevo titular en apego a la Ley de Agua del Estado"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprueba Consejo de Administración de la JMAS Chihuahua terna para elegir al nuevo Director Ejecutivo"
 front: false
 section: "Local"
-news_id: 189002
+redirect_from: /news/189002
 ---
 
 Este miércoles el Consejo de Administración de la Junta Municipal de Agua y Saneamiento (JMAS) de Chihuahua aprobó en sesión ordinaria la terna para elegir al nuevo Director Ejecutivo del organismo.

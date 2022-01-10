@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Por tercera ocasión en París ocurrirá un confinamiento para intentar bajar el número de casos de covid."
 image: "/uploads/2021/images-2547483.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Francia anuncia nuevo confinamiento en París por covid"
 front: false
 section: "Internacional"
-news_id: 183467
+redirect_from: /news/183467
 ---
 
 Autoridades de Francia anunciaron un nuevo confinamiento para París y otras regiones.

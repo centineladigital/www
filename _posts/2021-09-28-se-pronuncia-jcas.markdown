@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Roberto Lara Rocha, destacó que el reto principal que se tiene, es armonizar el uso del líquido en los sectores urbano, agrícola e industrial"
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_15.28.38.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se pronuncia JCAS por una mayor armonización en el uso del agua"
 front: false
 section: "Local"
-news_id: 188162
+redirect_from: /news/188162
 ---
 
 Roberto Lara Rocha, director ejecutivo del organismo operador, asiste al Legislativo para presenciar la integración de la Comisión Especial del Agua, que presidirá el diputado Edgar Piñón

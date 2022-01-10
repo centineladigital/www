@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Además, el veterano cineasta adelantó asimismo que habrá un spin-off similar basado en la película 'Alien'. "
 image: "/uploads/2021/images-el-proyecto-se-encuentra-en.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ridley Scott confirma serie de televisión sobre 'Blade Runner'"
 front: false
 section: "Espectáculos"
-news_id: 190096
+redirect_from: /news/190096
 ---
 
 El universo de Blade Runner se extenderá en un formato televisivo, así lo confirmó el director británico Ridley Scott, pues reveló que tiene escrito el proyecto "piloto" para una "serie derivada" de la mítica saga de películas de ciencia ficción. En declaraciones a una emisora de la BBC, Scott, de 83 años, corroboró que el proyecto se encuentra ya en una fase muy avanzada y sugiere que su traslado a la televisión se hará en una "serie de 10 partes". 

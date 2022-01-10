@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El 27 de octubre el gobierno capitalino informó que al menos 41 trabajadores de limpia se habían contagiado del coronavirus y 24 de ellos habían fallecido"
 image: "/uploads/2021/images-2506699.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cuídate y cuida de los demás, separa residuos contaminados de covid"
 front: false
 section: "Nacional"
-news_id: 181890
+redirect_from: /news/181890
 ---
 
 La jefa de gobierno de la Ciudad de México exhortó a la población a hacer una adecuada disposición de los materiales que se utilicen para protegerse del Covid-19, entre ellos los cubrebocas.

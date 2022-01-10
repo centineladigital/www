@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La SEP detalló que los materiales serán enviados a los almacenes regionales ubicados alrededor del país para posteriormente entregarlos en las diversas instituciones educativas"
 image: "/uploads/2021/images-2546581.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "SEP distribuye Libros de Texto Gratuitos para el Ciclo Escolar 2021-2022"
 front: false
 section: "Nacional"
-news_id: 183447
+redirect_from: /news/183447
 ---
 
 Ya inició la distribución de 164 millones de Libros de Texto Gratuitos que serán utilizados por estudiantes durante el próximo Ciclo Escolar 2021-2022, con el objetivo es que estudiantes de Preescolar, Primaria y Secundaria, cuenten con este material desde el arranque de clases.

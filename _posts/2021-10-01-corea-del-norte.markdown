@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Estados Unidos, Reino Unido y Francia pidieron una reunión de urgencia del Consejo de Seguridad de la ONU para discutir sobre los ensayos de Corea del Norte. "
 image: "/uploads/2021/images-kim-jong-un-busco-reestablecer_0_23_1024_637.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Corea del Norte anuncia prueba de misil antiaéreo"
 front: false
 section: "Internacional"
-news_id: 188256
+redirect_from: /news/188256
 ---
 
 Corea del Norte probó un "nuevo" misil antiaéreo, en otro de los ensayos militares realizados en las últimas semanas por el régimen norcoreano, indicó un medio estatal. El ejército norcoreano "ensayó un misil antiaéreo de nuevo desarrollo el 30 de septiembre", informó la Agencia Central de Noticias Coreana (KCNA). 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Afirma coordial trato con aspirante a la gobernatura."
 image: "/uploads/2021/images-BORRUEL1.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW02_CARLOS_BORRUEL.mp3"
 alt: "No renunciaré a la candidatura -  Borruel"
 front: false
 section: "Local"
-news_id: 183894
+redirect_from: /news/183894
 ---
 
 El candidato del Morena al sexto distrito, Carlos Borruel Baquera, negó la renuncia a la candidatura por el sexto distrito para la diputación federal, afirmando que esto es solamente un rumor de campaña.

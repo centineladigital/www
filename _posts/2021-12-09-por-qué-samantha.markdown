@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "HBO Max estrenó los primeros episodios de la continuación de la serie 'Sex and the city', pero la ausencia del personaje de Kim Cattrall generó nostalgia entre los fans. "
 image: "/uploads/2021/images-samantha-jones-aparece-and-just.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por qué Samantha no aparece en 'And Just Like That'; lamentan en redes salida de la actriz -  Sin la diosa"
 front: false
 section: "Espectáculos"
-news_id: 190693
+redirect_from: /news/190693
 ---
 
 El anuncio del regreso de Sex and the city parecía un sueño hecho realidad para los fans hasta que se reveló que Kim Cattrall -quien interpreta a Samatha Jones- no participaría en la nueva producción, protagonizada por Sarah Jessica Parker, Kristin Davis y Cynthia Nixon. Este jueves se estrenaron los primeros episodios de And Just Like That..., la continuación de la icónica serie, pero la ausencia de Cattrall despertó la nostalgia entre los internautas que lamentaron la salida de la actriz.  Volver a ver en la pantalla chica a Carrie Bradshaw, Miranda Hobbes y Charlotte York generó tremendo revuelo, aunque sin duda nada fue igual sin Samantha Jones o, por lo menos así lo expresaron varios usuarios en redes sociales donde surgió la pregunta: ¿Por qué Samantha Jones no aparece en And Just Like That...? Aquí hacemos un recuento de lo que pasó.  

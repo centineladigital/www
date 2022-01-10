@@ -10,11 +10,11 @@ author: nil
 description: "Presenta acciones de gasto, lo no hecho en por lo menos 12 años."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-ML03_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Presentan presupuesto 2022"
 front: false
 section: "Local"
-news_id: 190313
+redirect_from: /news/190313
 ---
 
 En lo que denominó un presupuesto balanceado, María Eugenia Campos Galván Gobernadora de Chihuahua dio a conocer las acciones que llevará a cabo con los recursos estatales. Destacado que durante cinco años se han presentado presupuestos con déficit.

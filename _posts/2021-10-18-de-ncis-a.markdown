@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El actor comenzó su carrera a los 11 años y desde entonces se convirtió en uno de los galanes de Hollywood; así ha cambiado el famoso a través del tiempo. "
 image: "/uploads/2021/images-asi-ha-sido-el-drastico_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "De 'NCIS' a 'Down to Earth'... Así ha sido el drástico cambio de Zac Efron"
 front: false
 section: "Espectáculos"
-news_id: 188849
+redirect_from: /news/188849
 ---
 
 Zac Efron comenzó su carrera actoral a los 11 años, motivado por su padre, David Efron. Era un excelente estudiante, exigente consigo mismo y en busca siempre de las mejores calificaciones, pero descubrió que su verdadera pasión eran las artes escénicas e incursionó en las producciones teatrales. A lo largo de su trayectoria el actor ha experimentado diferentes facetas, y con ello, drásticos cambios físicos debido a sus personajes.

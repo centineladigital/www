@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ana María Alvarado destapó la rivalidad, envidias y peleas entre Venga la Alegría y Ventaneando de TV Azteca. "
 image: "/uploads/2021/images-vla-ventaneando-llevan-ana-maria.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Nunca ha habido buena relación -  Ana María Alvarado destapa rivalidad entre 'VLA' y 'Ventaneando'"
 front: false
 section: "Espectáculos"
-news_id: 182220
+redirect_from: /news/182220
 ---
 
 Al parecer no todo es color de rosa en TV Azteca, pues hay rivalidades entre los mismos integrantes de la empresa, así lo dejó ver Ana María Alvarado en su canal de YouTube. La famosa externó que Ventaneando –dirigido por Pati Chapoy– no se lleva bien con la producción de Venga la Alegría. La periodista de espectáculos confesó lo que vivió cuando estaba como presentadora en la televisora de Ricardo Salinas Pliego. De acuerdo con Ana María Alvarado no fue fácil trabajar con Atala Sarmiento –antes conductora de Ventaneando–. Confesó que nunca hubo una buena relación entre los dos programas principales de TV Azteca. “Era imposible que trabajara junto a Átala Sarmiento porque ella estaba en Ventaneando y yo en Venga la alegría y nunca ha habido buena relación entre Ventaneando’ y Venga la alegría, nunca. Digan lo que digan yo se los puedo decir porque lo vi por muchos años”, reveló la periodista de Sale el Sol. 

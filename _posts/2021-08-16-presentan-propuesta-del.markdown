@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se contemplan medidas como el rescate y recuperación del alumnado en riesgo de abandono de estudios y quienes tienen bajos niveles de aprovechamiento académico"
 image: "/uploads/2021/images-Presentación_PDI_de_secundarias-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Presentan propuesta del Plan de Desarrollo Institucional de secundarias federales para el ciclo escolar 2021-2022"
 front: false
 section: "Local"
-news_id: 186734
+redirect_from: /news/186734
 ---
 
 Servicios Educativos del Estado de Chihuahua (Seech) presentó ante la estructura de Secundaria, el documento para la elaboración del Plan de Desarrollo Institucional 2021-2022 de este nivel educativo. Esta planeación contempla las acciones y programas principales que se realizarán en el siguiente ciclo escolar en las escuelas secundarias federales del estado, tanto generales como técnicas y telesecundarias.

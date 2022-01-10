@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "México supera los 5 millones de inoculaciones"
 image: "/uploads/2021/images-2548318.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reportan más de 600 decesos por coronavirus en un día"
 front: false
 section: "Nacional"
-news_id: 183491
+redirect_from: /news/183491
 ---
 
 La Secretaría de Salud reportó 613 defunciones por covid-19, con lo que suman 197 mil 219; mientras que se notificaron dos millones 187 mil 910 casos confirmados, es decir, cinco mil 722 más que ayer.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se confirma un pasado con la fuente de la grandeza de lo que hoy, Chihuahua capital representa"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conmemora Gobierno Municipal 312 aniversario de la fundación de Chihuahua"
 front: false
 section: "Local"
-news_id: 188644
+redirect_from: /news/188644
 ---
 
 Este 12 de octubre el Gobierno Municipal conmemoró el 312 aniversario de la fundación de la ciudad de Chihuahua, iniciando con el izamiento de la bandera de México, seguido de un acto protocolario en la Plaza de Armas frente a Catedral.

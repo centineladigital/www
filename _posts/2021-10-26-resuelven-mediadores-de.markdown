@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con el nuevo sistema se han resuelto problemas más rápido y se evita que escalen a delitos"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Resuelven mediadores de Justicia Cívica 270 conflictos entre vecinos"
 front: false
 section: "Local"
-news_id: 189211
+redirect_from: /news/189211
 ---
 
 Gracias al sistema de mediación comunitaria del nuevo modelo de Justicia Cívica del Gobierno Municipal, se han logrado resolver 270 conflictos de manera efectiva en lo que va del año, entre los que se encuentran la recuperación de propiedades que habían sido invadidas, el resarcimiento de daños materiales, entre otros.

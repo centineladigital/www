@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A las 9:30 horas de este lunes se abrió la circulación, pero fue necesario cerrarla minutos después hasta cerca del mediodía, cuando de nueva cuenta se permitió el tráfico en ambos sentidos y al momento permanece así"
 image: "/uploads/2021/images-REAPERTURA_JANOS-AGUAPRIETA_(6).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reabre Protección Civil Estatal carretera Janos-Agua Prieta"
 front: false
 section: "Local"
-news_id: 182425
+redirect_from: /news/182425
 ---
 
 La circulación en la carretera Janos-Agua Prieta fue reabierta en ambos sentidos alrededor del mediodía de hoy lunes 25 de enero, tras haberse cerrado durante las primeras horas debido a la nevada que ocurrió el domingo 24 por la noche, informó la Coordinación Estatal de Protección Civil.

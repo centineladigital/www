@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El conjunto universitario y La Franja igualaron sin anotaciones en el estadio Cuauhtémoc, dejando a los auriazules a merced de Pachuca y Xolos de Tijuana"
 image: "/uploads/2021/images-2567473.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pumas queda al borde de la eliminación en Puebla"
 front: false
 section: "Deportes"
-news_id: 184089
+redirect_from: /news/184089
 ---
 
 El conjunto de Puebla y los Pumas de la UNAM abrieron la actividad de la penúltima jornada del torneo Guard1anes 2021 con un empate sin anotaciones, resultado que deja a los felinos al borde de la eliminación al llegar a 18 puntos y quedar a merced de Pachuca y Xolos, que, en caso de ganar sus encuentros, bajarían a los universitarios hasta el peldaño 15.

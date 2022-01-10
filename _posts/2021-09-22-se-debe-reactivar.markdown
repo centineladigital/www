@@ -18,11 +18,11 @@ author: nil
 description: "Ya se han invertido para su adquisición, 100 Millones de pesos "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-21_at_11.11.33_AM.jpeg"
 video: "/uploads/2021/videos-BW03_EDGAR_PIÑON.mp4"
-audio: "nil"
+audio: nil
 alt: "Se debe reactivar el teleférico de Parral -  Piñón "
 front: false
 section: "Local"
-news_id: 187968
+redirect_from: /news/187968
 ---
 
 El diputado Edgar Piñón expuso, que se  debe retomar el proyecto del teleférico  que desde hace 5 años se tiene detenido en el municipio de Hidalgo del Parral, esto con el fin de ampliar la oferta turística y económica de la ciudad a la par con Guachochi, Valle de Allende, Santa Bárbara, Balleza y toda la región sur del estado.

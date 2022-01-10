@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Jorge Arnaldo Nava López deberá enfrentar un proceso legal que tiene pendiente  "
 image: "/uploads/2021/images-fiscalia-chihuahua_(1).jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-WhatsApp_Audio_2021-09-28_at_11.11.17.mp4"
 alt: "Separa Fiscalía General del Estado al Fiscal de Distrito Zona Norte"
 front: false
 section: "Local"
-news_id: 188136
+redirect_from: /news/188136
 ---
 
 La Fiscalía General del Estado, informa que luego de tener conocimiento de un proceso legal que enfrenta Jorge Arnoldo Nava López, decidió separarlo de su cargo como Fiscal de Distrito Zona Norte para que atienda lo conducente.

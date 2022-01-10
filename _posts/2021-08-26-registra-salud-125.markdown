@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El total de casos acumulados es de  75 mil 275 y 7 mil 801 personas fallecidas; los nuevos decesos corresponden a Juárez  (+4), Cuauhtémoc (+1), Saucillo (+1) y Janos (+1)"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registra Salud 125 contagios y 7 defunciones por COVID-19 en el estado"
 front: false
 section: "Local"
-news_id: 187139
+redirect_from: /news/187139
 ---
 
 El reporte estatal COVID-19 de la Secretaría de Salud muestra que al día de hoy se tiene un total general de 7 mil 801 defunciones en el estado, luego de confirmarse otros 7 más en Juárez (+4), Cuauhtémoc (+1), Saucillo (+1) y Janos (+1).

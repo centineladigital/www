@@ -9,12 +9,12 @@ tags:
 author: nil
 description: " Se realizaron inversiones diversas en deportivos en beneficio de la población, como la construcción de canchas de básquetbol 3x3 en la Ciudad Deportiva en Chihuahua capital y la rehabilitación del Polideportivo “Morocos” en Ciudad Juárez."
 image: "/uploads/2021/images-deporteconvalor_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Llegó programa “Deporte con Valor” a más de 300 mil estudiantes del estado"
 front: false
 section: "Local"
-news_id: 185603
+redirect_from: /news/185603
 ---
 
 La Secretaría de Educación y Deporte (SEyD) a través del Instituto Chihuahuense del Deporte y Cultura Física impulsó durante la presente administración el desarrollo de diversas acciones en busca de lograr la activación física de miles de personas y alumnos, además de impulsar el deporte amateur y de competencia en sus diversas modalidades.

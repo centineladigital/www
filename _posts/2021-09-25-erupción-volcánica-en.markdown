@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente de España, Pedro Sánchez, anunció que la isla será declarada en su totalidad como zona catastrófica. "
 image: "/uploads/2021/images-volcan-entra-fase-vuelve-agresivo_0_10_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Erupción volcánica en La Palma entra en nueva fase más explosiva"
 front: false
 section: "Internacional"
-news_id: 188059
+redirect_from: /news/188059
 ---
 
 Ríos de lava del volcán en La Palma corrieron y explotaron en el aire durante la noche en la isla española y el aeropuerto fue cerrado cuando una erupción se intensificó y entró en su fase más explosiva hasta el momento.

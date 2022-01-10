@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Gel antibacterial y cubrebocas estarán suministrando los funcionarios de casilla al momento de acudir a ejercer tu voto"
 image: "/uploads/2021/images-Casillas_Electorales_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Conoce aquí las medidas sanitarias que se llevarán a cabo el día de las elecciones"
 front: false
 section: "Local"
-news_id: 184728
+redirect_from: /news/184728
 ---
 
 Se suministrará gel antibacterial y cubrebocas en los ingresos a las casillas electorales, donde solo podrán estar dos personas votando adentro; más de tres mil funcionarios ya están capacitados, el siguiente lunes se entregarán los paquetes electorales a los representantes de casilla.

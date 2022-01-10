@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Chihuahua y Juárez serán los municipios que participarán."
 image: "/uploads/2021/images-DALIA.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MV06_DALIA_PINEDA.mp3"
 alt: "Inicia este lunes vacunación a personas de 40 y más"
 front: false
 section: "Local"
-news_id: 185358
+redirect_from: /news/185358
 ---
 
 Este lunes inicia el programa de vacunación de personas de más de 40 años, por lo que la vocera de la Secretaría de Salud, Dalia Pineda, dio a conocer los requisitos para acudir a vacunarse. Esta será la primera dosis para este sector etario.

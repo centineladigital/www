@@ -10,11 +10,11 @@ author: nil
 description: "En breve se dará a conocer avances por parte de la Fiscalía."
 image: "/uploads/2021/images-JAUREGUI.jpg"
 video: "/uploads/2021/videos-MV02_CESAR_JAUREGUI.mp4"
-audio: "nil"
+audio: nil
 alt: "Coordinado tres niveles de gobierno para localizar migrantes"
 front: false
 section: "Local"
-news_id: 188531
+redirect_from: /news/188531
 ---
 
 Los tres niveles de gobierno se encuentran coordinados en la búsqueda de 12 migrantes desaparecidos, señaló el Secretario General de Gobierno César Jáuregui Moreno. El funcionario dijo que se llevan a cabo las indagatorias correspondientes, por lo que espera que se tenga próximamente una versión oficial.

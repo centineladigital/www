@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que López Obrador reconoce convenios firmados."
 image: "/uploads/2021/images-maru.jpg"
 video: "/uploads/2021/videos-MM04_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Solo es falta de comunicación; Gobernador en tema de la Boquilla"
 front: false
 section: "Local"
-news_id: 189217
+redirect_from: /news/189217
 ---
 
 “Son mal entendidos” fueron las palabras de la Gobernadora de Chihuahua, María Eugenia Campos Galván al afirmar que el acuerdo que tiene que ver con la presa La Boquilla está en pie y no existe ningún tipo de conflicto entre el Estado y la Federación.

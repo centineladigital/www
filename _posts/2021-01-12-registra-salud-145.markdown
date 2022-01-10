@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A la fecha han enfermado en el estado de Chihuahua 47 mil 714 personas y 4 mil 409 más han fallecido; actualmente solo tres hospitales con pacientes SARS-CoV-2 están al 100 %, el resto está por debajo del 78 %"
 image: "/uploads/2021/images-REPORTE_COVID_12_ENERO_2021_(2).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Registra Salud 145 contagios y 2 defunciones por COVID-19 en las últimas horas"
 front: false
 section: "Local"
-news_id: 182068
+redirect_from: /news/182068
 ---
 
 La Secretaría de Salud dio a conocer que en las últimas 24 horas se confirmaron en la entidad 145 nuevos contagios por  SARS-CoV-2 y dos fallecimientos más en Delicias y Rosales, de acuerdo al Reporte COVID-19 Conferencia Informativa 323 y Virtual #283.

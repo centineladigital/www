@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El tenor ofrecerá un concierto el 26 de febrero en Playa Maroma Beach Club, donde ya se prepara el escenario que tendrá todos los mecanismos para cuidar el ecosistema. "
 image: "/uploads/2021/images-andrea-bocelli-actuara-riviera-maya_0_48_1200_747.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Andrea Bocelli cantará en la Riviera Maya; éstas son las fechas"
 front: false
 section: "Espectáculos"
-news_id: 188465
+redirect_from: /news/188465
 ---
 
 Playa Maroma Beach Club, en la Riviera Maya, será el escenario de uno de los intérpretes más celebrados de las últimas décadas, el tenor Andrea Bocelli, quien llegará a México para presentar un concierto a la orilla del mar. 

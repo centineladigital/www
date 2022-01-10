@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Reafirman compañías extranjeras su confianza para invertir en la ciudad"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se fortalece competitividad de Chihuahua capital con nueva sucursal The Home Depot"
 front: false
 section: "Local"
-news_id: 188438
+redirect_from: /news/188438
 ---
 
 El presidente municipal Marco Bonilla Mendoza encabezó la inauguración de la segunda tienda del corporativo The Home Depot, con el cual se tendrán 110 empleos directos y más de 350 indirectos en la ciudad.

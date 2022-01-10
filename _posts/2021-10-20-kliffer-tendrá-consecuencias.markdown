@@ -16,11 +16,11 @@ author: nil
 description: "El tiempo en que dure la resolución es dependiendo de las acciones legales que se vayan a dar y de la instancia a la cual se vaya a acudir para solucionar la problemática"
 image: "/uploads/2021/images-recolección_de_basura.jpg"
 video: "/uploads/2021/videos-BW01_SANTAGO_DE_LA_ROCHA_.mp4"
-audio: "nil"
+audio: nil
 alt: "KLIFFER tendrá consecuencias legales "
 front: false
 section: "Local"
-news_id: 188998
+redirect_from: /news/188998
 ---
 
 Santiago De La Peña, secretario del ayuntamiento manifestó que  se está revisando la condición legal de la empresa kliffer, en cuanto a la concesión que se tiene con el municipio, aseguró que a partir de este análisis jurídico el ayuntamiento determinara las acciones legales que se llevarán a cabo para esta empresa.

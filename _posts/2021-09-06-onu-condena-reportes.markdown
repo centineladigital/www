@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El secretario general del organismo, Antonio Guterres, se manifestó tras la serie de hechos que están ocurriendo en el país africano. "
 image: "/uploads/2021/images-militares-han-salido-a-las_0_22_1024_638.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "ONU condena reportes de golpe de Estado en Guinea y pide liberar al presidente"
 front: false
 section: "Internacional"
-news_id: 187450
+redirect_from: /news/187450
 ---
 
 El secretario general de la Organización de las Naciones Unidas (ONU), Antonio Guterres, condenó "firmemente" el reporte de un golpe de Estado en Guinea por parte de un grupo de militares de élite, llamando a los oficiales que afirman haber tomado el poder y disuelto el gobierno a liberar al presidente del país africano, Alpha Condé. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dwayne Johnson, Gal Gadot y Ryan Rynolds protagonizan la nueva comedia de acción del director Rawson Marshall Thurber; platicamos con él."
 image: "/uploads/2021/images-red-notice-es-la-nueva_101_71_998_620.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Ya puedes verla! 'Alerta Roja', la apuesta por la acción y las grandes estrellas en Netflix"
 front: false
 section: "Espectáculos"
-news_id: 189801
+redirect_from: /news/189801
 ---
 
 Encabezar el proyecto más ambicioso de Netflix pudo haber sido una labor compleja por muchas razones, incluida la presión de lograr la audiencia deseada debido a su inversión (200 mdd, aproximadamente); para Rawson Marshall Thurber fue un rodaje “de lo más emocionante”, con todo y que el cineasta se enfrentó al confinamiento por la pandemia. Para filmar Alerta roja, no solo obtuvo un presupuesto considerable por parte del streamer, también al elenco soñado, tres de los actores mejor pagados en Hollywood: Dwayne Johnson, Gal Gadot y Ryan Rynolds. El trío de actores aceptó el reto de sumarse a esta historia prácticamente por el mismo motivo: lo atractivo del guión, escrito por el mismo Thurber. 

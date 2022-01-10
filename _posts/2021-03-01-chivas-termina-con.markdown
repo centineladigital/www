@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Guadalajara vino de atrás en el Estadio Akron y terminó imponiéndose por 2-1 sobre los universitarios, entrando a zona de reclasificación"
 image: "/uploads/2021/images-2537318.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Chivas termina con su mala racha ante Pumas"
 front: false
 section: "Deportes"
-news_id: 183205
+redirect_from: /news/183205
 ---
 
 Los Pumas de la UNAM finalmente dejaron atrás la sequía goleadora de cinco partidos sin anotación, sin embargo, no fue suficiente para evitar su quinta derrota del torneo y terminaron cayendo 2-1 ante Chivas del Guadalajara, en una gran noche de José Juan Macías, que lideró la remontada rojiblanca con un gol y una asistencia.

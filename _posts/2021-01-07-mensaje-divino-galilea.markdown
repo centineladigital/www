@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Galilea Montijo volvió a recordar su error del pasado en el programa Hoy; aseguró que ya ofertó para comprar la casa en donde se filmó la película Roma. "
 image: "/uploads/2021/images-galilea-montijo-comprara-casa-pelicula.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mensaje divino -  Galilea Montijo 'quiere' comprar casa en donde se filmó 'Roma' tras polémica"
 front: false
 section: "Espectáculos"
-news_id: 181940
+redirect_from: /news/181940
 ---
 
 Galilea Montijo, conductora del programa Hoy, volvió a generar aplausos y risas al burlarse de sus errores. ¿Qué hizo la famosa? La tapatía anunció que está dispuesta a comprar la casa en donde se filmó a película de Alfonso Cuarón: Roma. ¿Qué de raro hay en ello? Resulta que fue en 2019 cuando la presentadora de televisión fue fuertemente criticada al desconocer del tema y creer que la película trataba de la ciudad europea. Fue durante la emisión matutina de Televisa, en donde Galilea Montijo retomó el error del pasado y aseguró que está dispuesta a comprar la casa en donde se filmó la película Roma, esto luego de que presentara la nota sobre la venta de esta propiedad. 

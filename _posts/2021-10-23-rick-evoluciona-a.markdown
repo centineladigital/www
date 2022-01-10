@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Servicio Meteorológico Nacional indicó que esperan lluvias puntuales torrenciales en Guerrero y Oaxaca, y muy fuertes en Chiapas, Michoacán, Morelos y Puebla; lluvias fuertes en CDMX y Edomex"
 image: "/uploads/2021/images-huracan_rick.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " “Rick” evoluciona a huracán categoría 1; prevén lluvias en al menos 8 estados"
 front: false
 section: "Nacional"
-news_id: 189110
+redirect_from: /news/189110
 ---
 
 La tormenta “Rick” evolucionó a huracán categoría 1 en las costas de Guerrero, informó el Servicio Meteorológico Nacional.

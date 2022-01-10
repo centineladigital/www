@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La cantante relató que una vez en el hospital, el médico revisó a su hijo y le advirtió que unos milímetros más y no lo hubiese logrado. "
 image: "/uploads/2021/images-raquel-rosario-hijo-ataque-puma_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me invadió el miedo -  Raquel del Rosario salvó a su hijo del ataque de un puma a puñetazos"
 front: false
 section: "Espectáculos"
-news_id: 188851
+redirect_from: /news/188851
 ---
 
 La cantante Raquel del Rosario -vocalista de la banda El sueño de Morfeo- expresó la angustia que vivió cuando su hijo Mael, de 5 años, fue atacado por un puma mientras recogía fruta de un árbol en su casa de California. La española recurrió a sus redes sociales para relatar la terrible experiencia que casi le cuesta la vida a su pequeño y las lesiones que sufrió.  A través de su cuenta de Instagram, la cantante compartió que el suceso tuvo lugar la mañana del 26 de agosto mientras la familia se encontraba en su casa de California. Su hijo le había avisado que iría a cosechar fruta de los árboles, de pronto el niño gritó desesperadamente, y de inmediato Raquel acudió a su auxilio.  

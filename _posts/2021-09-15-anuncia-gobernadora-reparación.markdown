@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La jefa del Ejecutivo dio a conocer que además de las reparaciones al techo, se tienen recursos para destinarlos a mejorar el abastecimiento de medicamentos en la entidad."
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-15_at_15.34.37.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Anuncia Gobernadora reparación del techo del Hospital Central; agradece apoyo de empresarios chihuahuenses"
 front: false
 section: "Local"
-news_id: 187777
+redirect_from: /news/187777
 ---
 
 La gobernadora Maru Campos Galván efectuó un recorrido por el Hospital Central Universitario y anunció que en breve iniciarán los trabajos de reparación del techo del tercer piso del nosocomio, que sufrió afectaciones a causa de la tormenta registrada en la ciudad de Chihuahua el pasado 19 de julio.

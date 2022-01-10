@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El mexicano Sergio Pérez que quedó eliminado en la Q2"
 image: "/uploads/2021/images-parrilla_gp_de_qatar.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Checo Pérez saldrá desde la posición 11 en el GP de Qatar; Hamilton consigue la Pole Position"
 front: false
 section: "Deportes"
-news_id: 190041
+redirect_from: /news/190041
 ---
 
 El siete veces campeón del mundo inglés Lewis Hamilton (Mercedes) arrancará primero este domingo en el debutante Gran Premio de Qatar, el vigésimo y antepenúltimo del Mundial de Fórmula Uno, tras haber dominado este sábado la calificación disputada en el circuito de Losail.

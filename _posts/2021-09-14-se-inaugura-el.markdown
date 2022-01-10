@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "•Con este espacio se ayudará a mujeres derechohabientes y niños con cáncer que requieren prótesis artesanales"
 image: "/uploads/2021/images-Foto_405-3_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se inaugura “El Bazar de Ringo” del Voluntariado IMSS"
 front: false
 section: "Local"
-news_id: 187724
+redirect_from: /news/187724
 ---
 
 En las oficinas del Voluntariado del Instituto Mexicano del Seguro Social (IMSS) se inauguró “El Bazar de Ringo”, iniciativa que busca ayudar a mujeres derechohabientes que requieren apoyo para prótesis de mama artesanales, brasieres oncológicos y mangas para linfedema, y a la cual acudió el director general, Maestro Zoé Robledo.

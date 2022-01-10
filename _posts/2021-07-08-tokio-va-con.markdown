@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Gobierno de Japón decidió declarar un nuevo estado de emergencia sanitaria en Tokio debido al aumento de contagios de coronavirus, lo que complica aún más el panorama para los Juegos Olímpicos previstos en la capital nipona en 15 días."
 image: "/uploads/2021/images-38d6ccb3b7759a0abeb6ab83246de4946b8cfd29w_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Tokio va con gradas vacías; los Juegos Olímpicos se celebrarán sin aficionados."
 front: false
 section: "Deportes"
-news_id: 185449
+redirect_from: /news/185449
 ---
 
 La organización de los Juegos Olímpicos de Tokio 2020 acordó que la cita se lleve adelante sin espectadores en medio del estado de emergencia declarado para la zona, dijo el jueves la ministra olímpica, Tamayo Marukawa. 

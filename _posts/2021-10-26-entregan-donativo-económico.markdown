@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Gracias al trabajo conjunto entre el Gobierno Municipal y empresarias, mujeres recibirán tratamiento integral"
 image: "/uploads/2021/images-unnamed_(7).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entregan donativo económico para tratamientos contra el cáncer de mama a Grupo RETO"
 front: false
 section: "Local"
-news_id: 189207
+redirect_from: /news/189207
 ---
 
 El presidente municipal, Marco Bonilla, entregó un donativo económico de 122 mil pesos al Grupo Recuperación Total (RETO) A.C. para la compra de tratamientos oncológicos contra el cáncer de mama, mamografías, biopsias entre otros apoyos; que fueron recaudados por dependencias municipales y empresarias de la ciudad.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Evaluna y Camilo anunciaron al mundo a mediados de octubre que esperan su primer bebé con una canción (y video) titulada “Índigo”. "
 image: "/uploads/2021/images-montaner-y-su-hija-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Totalmente en shock -  Ricardo Montaner revela cómo se enteró del embarazo de Evaluna"
 front: false
 section: "Espectáculos"
-news_id: 189571
+redirect_from: /news/189571
 ---
 
 La música no es un asunto de familia, sino la familia un asunto musical, señala el cantante Ricardo Montaner, patriarca de una familia en expansión que, colectivamente, recibió este año 16 nominaciones al Latin Grammy, 14 de ellas para su sello discográfico Hecho a Mano. La lista la encabeza su yerno Camilo, el más nominado en esta edición con 10 menciones, mientras que su hija Evaluna y el dúo de sus hijos, Mau & Ricky, recibieron una cada cual. El intérprete de clásicos como “Tan enamorados” y “Sólo con un beso”, galardonado con el Premio a la Excelencia Musical de la Academia Latina de la Grabación en 2016 y quien ya había sido nominado en años recientes, podría alzarse con su primer gramófono dorado — sí, el primero, pues cuando su carrera se disparó a finales de los 80 aún no existían los Latin Grammy — gracias a Fe, un álbum cristiano. 

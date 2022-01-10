@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Gustavo Elizondo Aguilar, titular de la SCOP, destaca en el programa Logros con Valor que Chihuahua es uno de los estados líderes en calidad de autopistas"
 image: "/uploads/2021/images-CONSERVACIÓN_CARRETERA__(6).jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invirtió Secretaría de Obras Públicas más de 3,600 mdp  en conservación de carreteras"
 front: false
 section: "Local"
-news_id: 187296
+redirect_from: /news/187296
 ---
 
 El titular de la Secretaría de Comunicaciones y Obras Públicas (SCOP), Gustavo Elizondo Aguilar, informó que en los 5 años de la actual administración estatal se invirtieron 3 mil 600 millones de pesos (mdp) en mantenimiento y conservación de carreteras en los 4 mil 500 kilómetros (km). 

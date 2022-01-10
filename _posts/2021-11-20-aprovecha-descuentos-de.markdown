@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "En este apoyo participan 130 empresas que ofrecen descuentos desde el 5 al 40 por ciento"
 image: "/uploads/2021/images-unnamed_(6).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Aprovecha descuentos de la tarjeta “Mi apoyo, Mi bienestar”"
 front: false
 section: "Local"
-news_id: 190049
+redirect_from: /news/190049
 ---
 
 El Gobierno Municipal, a través del Instituto Municipal de las Mujeres (IMM), busca apoyar la calidad de vida de las mujeres chihuahuenses y sus familias, por lo que invita a aprovechar los beneficios de la tarjeta de descuento “Mi apoyo, Mi bienestar”.

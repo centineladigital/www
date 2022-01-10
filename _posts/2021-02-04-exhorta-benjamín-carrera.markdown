@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Los jóvenes se han convertido en un grupo vulnerable que enfrenta altas tasas de desempleo"
 image: "/uploads/2021/images-RGRG.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-AJ02_BENJAMIN_CARRERA.mp3"
 alt: "Exhorta Benjamín Carrera Chávez a erradicar deserción escolar ante emergencia sanitaria por Covid-19"
 front: false
 section: "Local"
-news_id: 182710
+redirect_from: /news/182710
 ---
 
 El diputado de Morena Benjamín Carrera Chávez, exhortó al titular del Ejecutivo Estatal a las Secretarias de Desarrollo Social, de Educación y Deporte y al Desarrollo Integral de la Familia del Estado de Chihuahua para que implementen acciones conjuntas a fin de erradicar la deserción escolar ante la emergencia sanitaria por Covid-19 especialmente en jóvenes.

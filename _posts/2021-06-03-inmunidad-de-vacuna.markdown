@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Invitan a continuar con precauciones en materia de sanidad."
 image: "/uploads/2021/images-WENDY.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-MW06_WENDY_AVILA.mp3"
 alt: "Inmunidad de vacuna se genera en tres semanas"
 front: false
 section: "Local"
-news_id: 184828
+redirect_from: /news/184828
 ---
 
 La inmunidad que genera la vacuna contra el la enfermedad que genera el coronavirus se da hasta las tres semanas después de la aplicación, señaló la Subdirectora de Medicina Preventiva y Promoción de la Salud, Wendy Avila Coronado.

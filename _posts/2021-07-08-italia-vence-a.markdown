@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Frente a una multitud de hinchas italianos que se mordían las uñas detrás del arco en el estadio Wembley, el volante nacido en Brasil dio su acostumbrado salto justo antes del disparo, empujando el balón al ángulo inferior."
 image: "/uploads/2021/images-E5pOqApXMAYYka2.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Italia vence a España en penales y jugará por el título de la Eurocopa"
 front: false
 section: "Deportes"
-news_id: 185453
+redirect_from: /news/185453
 ---
 
 Jorginho transformó el penal decisivo para que Italia derrotase el martes 4-2 en la tanda desde los 12 pasos y clasificarse a la final del Campeonato Europeo. 

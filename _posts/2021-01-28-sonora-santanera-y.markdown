@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El grupo y la cantautora compiten por el reconocimiento a Mejor Canción Original, al ponerle ritmo a la cinta “La boda de Rosa” con “Que no que no”. "
 image: "/uploads/2021/images-musicos-agradecen-nominacion-premio-academia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Sonora Santanera y Rozalén, nominados a Premios Goya"
 front: false
 section: "Espectáculos"
-news_id: 182520
+redirect_from: /news/182520
 ---
 
 La Sonora Santanera está a la espera de conquistar el premio Goya a Mejor Canción Original ,de la mano de la cantautora española Rozalén por su tema “Que no, que no”, que forma parte del soundtrack de la película La boda de Rosa de Icíar Bollaín.

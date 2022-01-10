@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Andrea Meza, Miss Universo 2021, sorprendió a todos con su talento para el canto en una entrevista en VLA. "
 image: "/uploads/2021/images-andrea-meza-gustaria-grabar-disco.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡No sólo es ingeniera! Andrea Meza, Miss Universo 2021, sorprende con su talento para el canto"
 front: false
 section: "Espectáculos"
-news_id: 184737
+redirect_from: /news/184737
 ---
 
 Andrea Meza, quien hace unos días se coronó como Miss Universo 2021, no deja de sorprendernos. La mexicana, quien ahora vive en Nueva York, ofreció una entrevista a Anette Cuburu para Venga la Alegría, fue durante la plática que reveló que tiene un gran talento para el canto. Antes de hablar sobre su gusto y talento por el canto, Andrea Meza dijo que previo a participar en Miss Universo era muy tímida y que para superar sus inseguridades y una condición tuvo que tomar medicamento. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En entrevista con De Primera Mano, Susana Zabaleta reveló si es verdad que el secretario general de la ANDA fue expulsado de las grabaciones de una película por acosar a una joven. "
 image: "/uploads/2021/images-jesus-ochoa-integrante-consejo-asesor_219_64_801_498.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Despidieron a Jesús Ochoa de una película por acoso sexual? Susana Zabaleta responde"
 front: false
 section: "Espectáculos"
-news_id: 191116
+redirect_from: /news/191116
 ---
 
 Jesús Ochoa, secretario general de la ANDA (Asociación Nacional de Actores), una vez más está envuelto en polémica, pues presuntamente fue expulsado de la grabación de una película -La Usurpadora: The Musical- tras ser acusado de acoso sexual, así lo informó Susana Zabaleta. En entrevista con De Primera Mano, Susana Zabaleta confirmó que el secretario general de la ANDA sí fue expulsado de la película antes de que terminaran las grabaciones. Esto por órdenes del director Santiago Limón, quien explicó que todo se dio por una acusación de acoso sexual. 

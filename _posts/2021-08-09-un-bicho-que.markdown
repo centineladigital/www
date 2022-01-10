@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz habló del estado de salud de Rebecca de Alba y del contagio de Paty Navidad, quien dio positivo a covid-19 luego de asegurar que no creía en la vacuna contra el virus.  "
 image: "/uploads/2021/images-susana-zabaleta-manda-mensaje-paty.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Un bicho que sí existe -  Susana Zabaleta manda mensaje a Paty Navidad tras su contagio de covid-19"
 front: false
 section: "Espectáculos"
-news_id: 186486
+redirect_from: /news/186486
 ---
 
 Susana Zabaleta regresó de su viaje por el continente africano que realizó en compañía de sus amigas, las cantantes Mayte e Isabel Lascurain -integrantes de Pandora-. Ahora, la famosa se encuentra de vuelta en México, y además de hablar de su aventura en el extranjero, reaccionó al contagio de Paty Navidad, quien dio positivo a covid-19 hace unos días mientras grababa el reality MasterChef Celebrity.  

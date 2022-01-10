@@ -10,11 +10,11 @@ author: nil
 description: "Carecen elementos de seguridad estatal hasta de uniformes."
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-MM04_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Busca SSPE subsanar déficit "
 front: false
 section: "Local"
-news_id: 188390
+redirect_from: /news/188390
 ---
 
 Debido a que el equipamiento de la Secretaría de Seguridad Pública Estatal tiene un déficit, la dependencia busca subsanar las carencias que tienen elementos, las cuales van desde uniformes hasta el equipamiento básico.

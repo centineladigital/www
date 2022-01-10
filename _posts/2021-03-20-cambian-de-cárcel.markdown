@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La expresidenta boliviana Jeanine Áñez, encarcelada por un supuesto golpe de Estado en 2019, es cambiada de cárcel para recibir asistencia médica tras reportarse que sufre problemas de salud"
 image: "/uploads/2021/images-2548410.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cambian de cárcel a expresidenta Áñez por problemas de salud"
 front: false
 section: "Internacional"
-news_id: 183492
+redirect_from: /news/183492
 ---
 
 La expresidenta interina de Bolivia Jeanine Áñez, encarcelada por un supuesto golpe de Estado en 2019 contra el exmandatario Evo Morales, fue trasladada este sábado de madrugada a otra prisión de mujeres en La Paz, según indicó la detenida y confirmaron las autoridades.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se invirtieron 126 mdp en becas y rescate de 158 estancias infantiles, adecuación y equipamiento de 36 Casas de Cuidado Diario, 57 Centros de Bienestar Infantil, tres Centros de Atención y Formación Integral y se pusieron en marcha tres Centros Regionales de Desarrollo Infantil  "
 image: "/uploads/2021/images-Estancias_infantiles.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cumplimos con hacer de Chihuahua el estado  que más y mejor cuida a sus niñas y niños"
 front: false
 section: "Local"
-news_id: 186890
+redirect_from: /news/186890
 ---
 
 El gobernador Javier Corral refirió durante la entrega de su Quinto Informe de Gobierno, cómo su administración se comprometió en ser el estado que más y mejor cuida a sus niños y lo cumplimos, aseguró.

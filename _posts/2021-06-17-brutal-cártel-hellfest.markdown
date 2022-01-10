@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te presentamos el cartel que le está dando la vuelta a internet: Hellfest 2022, un festival masivo en Francia. "
 image: "/uploads/2021/images-metallica-figura-headliner-impresionante-cartel.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Brutal cártel! Hellfest 2022 anuncia 'line up' de 7 días con Metallica, Guns N' Roses y más"
 front: false
 section: "Espectáculos"
-news_id: 185097
+redirect_from: /news/185097
 ---
 
 Las redes sociales están vueltas locas con el cartel del Hell Fest 2022, el popular festival de rock, metal y sus múltiples variantes,  festejará a lo grande una nueva edición con un brutal con más de 350 bandas con headliners de nivel mundial como Metallica, Guns N' Roses, Deftones, Korn, Megadeth, Scorpions y más, concentradas en Clisson, Francia en 7 días diferentes. 

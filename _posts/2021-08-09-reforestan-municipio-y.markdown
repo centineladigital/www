@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Dirección de Desarrollo Urbano y Ecología donó un total de 65 especies"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reforestan Municipio y Rescate Juvenil Deportivo el “Parque Fundadores”"
 front: false
 section: "Local"
-news_id: 186473
+redirect_from: /news/186473
 ---
 
 El Gobierno Municipal a través de la Dirección de Desarrollo Urbano y Ecología, coordinó esfuerzos con la agrupación de Rescate Juvenil Deportivo A.C. para llevar a cabo trabajos de reforestación en las inmediaciones del parque Fundadores, mejor conocido como “Huerta Legarreta”, plantando 65 árboles de la especie de Huisache y Ciprés italiano.

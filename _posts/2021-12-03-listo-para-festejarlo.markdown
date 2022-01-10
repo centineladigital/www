@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Jin, el integrante de BTS, cumplirá años y para festejar esta fecha decidió realizar una transmisión, te contamos cuándo y dónde puedes verla. "
 image: "/uploads/2021/images-jin-cumplira-anos-army-festejara.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Listo para festejarlo? Dónde y cuándo ver la transmisión de Jin, integrante de BTS, por su cumpleaños"
 front: false
 section: "Espectáculos"
-news_id: 190496
+redirect_from: /news/190496
 ---
 
 El Army, nombre con el que se hacen llamar las fans de BTS, estará de fiesta, ya que celebrarán el cumpleaños de Jin, el mayor de los integrantes de la agrupación y para poder felicitarlo, el cantante anunció que hará una transmisión en vivo con la que podrá convivir con sus fanáticos alrededor del mundo. En cada cumpleaños de los integrantes, los fans organizan diferentes campañas, además que algunos de los cantantes han decidido sorprender al Army con una transmisión en vivo, algo que hará Jin para festejar sus 29 años. Si no te quieres perder este especial momento, te contamos los detalles. 

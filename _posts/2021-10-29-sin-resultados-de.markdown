@@ -10,11 +10,11 @@ author: nil
 description: "Insiste Gobernadora que cebolla no procedía del estado."
 image: "/uploads/2021/images-MARU.jpg"
 video: "/uploads/2021/videos-MV05_MARU.mp4"
-audio: "nil"
+audio: nil
 alt: "Sin resultados de análisis cebolla tras intoxicación en EUA"
 front: false
 section: "Local"
-news_id: 189375
+redirect_from: /news/189375
 ---
 
 Aún no se tienen bases dentro del estado de que la cebolla contaminada con salmonela que originó que ciudadanos estadounidenses hospitalizados sean de Chihuahua, fueron las palabras de la Gobernadora de Chihuahua, María Eugenia Campos Galván.

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En varios puntos del país sudamericanos se registraron manifestaciones en recuerdo al 18-O, cuando en 2019 la ciudadanía salió a la calle."
 image: "/uploads/2021/images-protestas-tuvieron-principal-foco-centro.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Protestas en Chile dejan 2 muertos y 450 presos en conmemoración de estallido social"
 front: false
 section: "Internacional"
-news_id: 188899
+redirect_from: /news/188899
 ---
 
 La conmemoración por el segundo año del estallido social en Chile, conocido también como 18-O, dejaron dos muertos, 56 heridos y 450 detenidos tras los violentos disturbios en medio de una jornada, donde también se realizaron manifestaciones pacíficas, que recordó la ola de protestas contra el sistema económico y político en el país sudamericano. 

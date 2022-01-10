@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Los esposos Emily Blunt y John Krasinski son vistos con buenos ojos por la gente de Marvel para protagonizar Los 4 Fantásticos. "
 image: "/uploads/2021/images-emily-blunt-susan-storm-mujer.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emily Blunt y John Krasinski, los objetivos de Marvel para 'reboot' de 'Los 4 Fantásticos'"
 front: false
 section: "Espectáculos"
-news_id: 184335
+redirect_from: /news/184335
 ---
 
 Los esposos Emily Blunt y John Krasinski son buscados por Marvel para interpretar a Susan Storm y Reed Richards en el reboot de Los 4 Fantásticos. La gente de la productora estaría insistiendo en tener los servicios de ambos para la película de acción y superhéroes. Así lo dio a conocer el portal Geekosity, que adelanta que el elenco, que formará parte de la producción inspirada en una de las creaciones más icónicas de Stan Lee y Jack Kirby, será anunciado este mismo año, por lo que buscan a los actores que consideren más serios para interpretar los papeles. 

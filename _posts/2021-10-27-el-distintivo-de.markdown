@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ante presuntos actos de corrupción en el municipio de León, Guanajuato, el Presidente dijo que este tipo de actos reflejan una mentalidad conservadora. "
 image: "/uploads/2021/images-presidente-asesorar-ciudadanos-sientan-afectados_0_53_1200_746.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "El distintivo de los panistas es que son corruptos e hipócritas -  AMLO"
 front: false
 section: "Nacional"
-news_id: 189240
+redirect_from: /news/189240
 ---
 
 El presidente Andrés Manuel López Obrador aseguró que el distintivo de los integrantes del Partido Acción Nacional (PAN) es que son corruptos e hipócritas. 

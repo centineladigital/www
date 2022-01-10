@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "El secretario de Coordinación de Gabinete, Luis Serrato Castell, se reunió con el presidente municipal de Juárez, Cruz Pérez Cuéllar, y demás funcionaros estatales"
 image: "/uploads/2021/images-unnamed_(5).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inician trabajos de coordinación de obras del Fideicomiso de Puentes Fronterizos"
 front: false
 section: "Local"
-news_id: 191007
+redirect_from: /news/191007
 ---
 
 El secretario de Coordinación de Gabinete, Luis Serrato Castell, se reunió con el presidente municipal de Juárez, Cruz Pérez Cuéllar y funcionarios estatales, como parte del inicio de los preparativos para el ejercicio de los recursos provenientes del Fideicomiso de Puentes Fronterizos.

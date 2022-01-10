@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de que Poncho de Nigris mencionara que Niurka ya está grande, la cubana le respondió. "
 image: "/uploads/2021/images-niurka-le-respondio-a-poncho.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Te puedo aplastar como cucaracha -  Niurka le manda mensaje a Poncho de Nigris tras polémica"
 front: false
 section: "Espectáculos"
-news_id: 182329
+redirect_from: /news/182329
 ---
 
 Niurka y Poncho de Nigris no tienen una buena relación, en algunas ocasiones los famosos han protagonizado polémicas, la más reciente fue cuando el influencer mencionó que la cuba ya es una persona “grande”. Ante estas declaraciones, Niurka fue cuestionada y no tardó en reaccionar y mandarle un mensaje al originario de Monterrey. 

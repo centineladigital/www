@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Dolor de pecho, sudoración, falta de aire y ansiedad son los síntomas de alerta más comunes "
 image: "/uploads/2021/images-Foto_5174-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Emite IMSS Chihuahua recomendaciones para disminuir el riesgo de sufrir un infarto al corazón "
 front: false
 section: "Local"
-news_id: 189472
+redirect_from: /news/189472
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua destaca la importancia de llevar una vida saludable que permita, entre otras cosas, disminuir el riesgo de sufrir un infarto al corazón.

@@ -12,11 +12,11 @@ author: nil
 description: "El policía ha arrestado supuestamente al menos a 4 reporteros"
 image: "/uploads/2021/images-CARRERA.jpg"
 video: "/uploads/2021/videos-BM01_BENJAMIN_CARRERA.mp4"
-audio: "nil"
+audio: nil
 alt: "Se debe investigar a fondo abuso de autoridad hacia un reportero de EL DIARIO "
 front: false
 section: "Local"
-news_id: 187728
+redirect_from: /news/187728
 ---
 
 Benjamín Carrera diputado de Morena en el Congreso del Estado  aseguró que se tiene que investigar a fondo los motivos por los cuales el reportero del diario Jorge Ibarra  fue arrestado por autoridades municipales el pasado 11 de septiembre.

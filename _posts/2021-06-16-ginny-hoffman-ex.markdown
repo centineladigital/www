@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Ginny Hoffman, ex pareja de Héctor Parra, habló sobre la detención del actor por presunto abuso sexual en contra de la hija que ambos procrearon."
 image: "/uploads/2021/images-ginny-hoffman-detalles-detencion-pareja.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ginny Hoffman, ex pareja de Héctor Parra, reacciona a detención del actor; agradece apoyo a Sergio Mayer"
 front: false
 section: "Espectáculos"
-news_id: 185056
+redirect_from: /news/185056
 ---
 
 Este 15 de junio se informó la detención de Héctor Parra después de que su hija, Alexa Parra, levantara una denuncia en su contra por presunto abuso sexual. Tras el arresto del actor, Ginny Hoffman, ex pareja de Parra y madre de Alexa, rompió el silencio y publicó un comunicado en donde habló sobre el tema y le agradeció su apoyo a Sergio Mayer.

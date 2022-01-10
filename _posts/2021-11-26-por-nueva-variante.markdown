@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "A través de Twitter, el experto, quien obtuvo el Premio Nacional de Salud 2020, aseveró que se debe poner en alerta a México ante la nueva variante, pues “las decisiones de hoy pueden tener impacto en el mañana”"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Por nueva variante de Covid, experto propone cerrar fronteras a viajeros de Sudáfrica"
 front: false
 section: "Internacional"
-news_id: 190228
+redirect_from: /news/190228
 ---
 
 La tarde de este jueves, el médico e infectólogo, Francisco Moreno, propuso cerrar fronteras a viajeros procedentes de Sudáfrica, debido a la nueva variante B.1.1.529, detectada este día por científicos sudafricanos.

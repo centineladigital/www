@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "La inhalación produce rápidamente la falta de respiración y pérdida del conocimiento"
 image: "/uploads/2021/images-Foto_6422-1.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pide IMSS Chihuahua a dar mantenimiento a calentadores para prevenir intoxicaciones por monóxido de carbono"
 front: false
 section: "Local"
-news_id: 191304
+redirect_from: /news/191304
 ---
 
 Ante el descenso de temperatura de la temporada en la entidad, el Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, exhorta a la población a tener cuidado con el monóxido de carbono. 

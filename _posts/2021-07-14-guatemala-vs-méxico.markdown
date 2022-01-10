@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Te damos los detalles del segundo partido del Tri dentro de la fase de grupos del certamen de la Concacaf."
 image: "/uploads/2021/images-guatemala-vs-mexico-horario-vivo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Guatemala vs México -  Horario y dónde ver EN VIVO el partido de la Copa Oro"
 front: false
 section: "Deportes"
-news_id: 185642
+redirect_from: /news/185642
 ---
 
 La selección mexicana tuvo un amargo debut en la Copa Oro, tras su empate con Trinidad y Tobago del pasado sábado, por lo que, en su segundo compromiso de la fase de grupos ante Guatemala, invitado de última hora del torneo, intentará reivindicarse para sumar sus primeros puntos. 

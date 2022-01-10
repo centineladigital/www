@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con inversión superior a 1 millón 300 mil pesos los paquetes de ropa incluyen uniforme de diario y deportivo, ropa interior, zapatos, tenis escolares, chaleco y chamarra para la temporada invernal"
 image: "/uploads/2021/images-unnamed_(4).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega SEECH uniformes y zapatos a 750 estudiantes de los Albergues Escolares Rurales en el estado   "
 front: false
 section: "Local"
-news_id: 190543
+redirect_from: /news/190543
 ---
 
 Con el objetivo de mejorar la calidad de vida y su estancia en 15 Albergues Escolares Rurales, Servicios Educativos del Estado de Chihuahua (SEECH) inició la entrega de uniformes escolares a niñas y niños de educación primaria en el estado.

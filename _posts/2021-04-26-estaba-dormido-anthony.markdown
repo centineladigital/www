@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Anthony Hopkins reaparece tras ganar premio Oscar a Mejor Actor 2021; homenajea a Chadwick Boseman en su breve discurso de agradecimiento. "
 image: "/uploads/2021/images-anthony-hopkins-reacciona-premio-oscar.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Estaba dormido -  Anthony Hopkins se enteró hasta hoy que ganó el Oscar a 'Mejor Actor'"
 front: false
 section: "Espectáculos"
-news_id: 184107
+redirect_from: /news/184107
 ---
 
 Anthony Hopkins, intérprete que ganó la estatuilla durante los Premios Oscar a la categoría a Mejor Actor por su participación en la película El Padre, reapareció para agradecer el reconocimiento. ¿No vio la transmisión en vivo? Aunque el actor se mostró feliz por el premio a su trabajo actoral, lo que más generó revuelo fue lo que declaró su representante, quien confesó que Hopkins estaba durmiendo durante la ceremonia. En entrevista con People, Jeremy Barber -representante del actor- compartió que Anthony Hopkins estaba durmiendo cuando anunciaron que había ganado la estatuilla a Mejor Actor durante los Premios Oscar 2021. “Tony estaba en Gales, donde creció, y estaba dormido a las cuatro de la mañana cuando le desperté para darle la noticia. Estaba muy feliz y se sentía muy agradecido”, expresó Jeremy Barber. 

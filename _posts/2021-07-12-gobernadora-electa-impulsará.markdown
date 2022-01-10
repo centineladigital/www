@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Firma convenio con asociaciones para la atención de pacientes con este tipo de enfermedad."
 image: "/uploads/2021/images-MARU.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML04.mp3"
 alt: "Gobernadora electa impulsará atención a pacientes con cáncer"
 front: false
 section: "Local"
-news_id: 185578
+redirect_from: /news/185578
 ---
 
 Con el fin de apoyar a menores que padecen cáncer este lunes la Gobernadora Electa, María Eugenia Campos Galván, sostuvo un encuentro con líderes de “Nariz Roja”, así como con los pacientes a los que apoyan para poder mantener su tratamiento contra el cáncer.

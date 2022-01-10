@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "El proyecto fue elegido por la ciudadanía y tiene un avance del 85 por ciento"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Mejora Tec I su infraestructura gracias al Presupuesto Participativo"
 front: false
 section: "Local"
-news_id: 189857
+redirect_from: /news/189857
 ---
 
 Dentro de los proyectos de Presupuesto Participativo 2021, se encuentran diversas propuestas de mejoras o nuevos espacios para los centros de educativos, como el caso del Tecnológico de Chihuahua I, ubicado en la avenida Tecnológico frente a la Ciudad Deportiva, en el cual el Gobierno Municipal trabaja en la rehabilitación de la cancha de futbol rápido y en la construcción de una techumbre sobre la misma, cuyo avance es del 85 por ciento.

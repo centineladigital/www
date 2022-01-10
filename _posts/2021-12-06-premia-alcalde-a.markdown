@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "82 equipos participaron en esta competencia"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Premia Alcalde a campeones de fútbol en primera edición de Copa CUU"
 front: false
 section: "Local"
-news_id: 190537
+redirect_from: /news/190537
 ---
 
 Este domingo concluyó la actividad futbolística de la primera edición del torneo “Copa CUU”, que realizó el Gobierno Municipal de Chihuahua a través del Instituto Municipal de Cultura Física y Deporte, con la participación de 30 escuelas y clubes locales.

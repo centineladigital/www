@@ -10,11 +10,11 @@ author: nil
 description: "Gran porcentaje de elementos heridos es atendiendo problemas de violencia de género."
 image: "/uploads/2021/images-GIL.jpg"
 video: "/uploads/2021/videos-MM02_GIL_LOYA.mp4"
-audio: "nil"
+audio: nil
 alt: "Imparten conferencias a policías sobre “nuevas masculinidades”"
 front: false
 section: "Local"
-news_id: 190355
+redirect_from: /news/190355
 ---
 
 Elementos de la Secretaría de Seguridad Pública acudieron al primer foro que habla sobre “nuevas masculinidades”, la cual es una capacitación de cómo desaprender la forma en la que se desarrollan las nuevas masculinidades, señaló el titular de la dependencia Gilberto Loya Chávez, quien señaló que lamentablemente el nivel de violencia de género va incrementando.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de Twitter, fue en donde se compartió la foto inédita de Don Ramón arriba de un escenario en Bogotá, Colombia. "
 image: "/uploads/2021/images-don-ramon-referente-cultura-popular_0_11_436_271.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Hija de Don Ramón revela foto desconocida del actor de 'El Chavo del 8' en Colombia"
 front: false
 section: "Espectáculos"
-news_id: 182831
+redirect_from: /news/182831
 ---
 
 Sin duda uno de los personajes más queridos de la serie televisiva El Chavo del Ocho es el de Don Ramón, protagonizado por el actor Ramón Valdés. Por ello, todo lo que se habla de él parece arrasar con likes y comentarios en su honor. Tal es el caso de una reciente foto que se volvió viral en redes sociales, pues en la imagen inédita aparece Don Ramón frente a sus seguidores en Bogotá, Colombia. 

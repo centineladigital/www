@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "En Maratón de Obras, informa Javier Corral que durante su gestión, se han invertido en este municipio un total de 683.7  millones de pesos, incluyendo obras de infraestructura hospitalaria por casi 100 millones"
 image: "/uploads/2021/images-DSC_2871.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Entrega Gobernador remodelación del Hospital de Ginecobstetricia de Cuauhtémoc con inversión de 10.7 mdp"
 front: false
 section: "Local"
-news_id: 186414
+redirect_from: /news/186414
 ---
 
 Al continuar con el Maratón de Obras, el gobernador Javier Corral inauguró la remodelación integral del Hospital de Ginecobstetricia de Cuauhtémoc, que se realizó con inversión estatal de 10 millones 746 mil 53 pesos, en beneficio de 46 mil usuarios, incluyendo a la población indígena de la Sierra Tarahumara.

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Del 30 de agosto al 1 de septiembre la Upnech celebra su décimo aniversario con mesas paneles y conferencias dictadas por especialistas de reconocimiento nacional e internacional"
 image: "/uploads/2021/images-PÓSTER_REDEI.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invitan al 1er Encuentro Internacional de Educación de la Primera Infancia en el Contexto de la Pandemia"
 front: false
 section: "Local"
-news_id: 186789
+redirect_from: /news/186789
 ---
 
 En el marco de las actividades por el 10° aniversario, la Universidad Pedagógica Nacional del Estado de Chihuahua (Upnech), en coordinación con la Red Estatal de Educación Infantil (Redei), organizó el 1er Encuentro Internacional de Educación de la Primera Infancia en el Contexto de la Pandemia.

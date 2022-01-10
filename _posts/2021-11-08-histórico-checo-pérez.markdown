@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El piloto tapatío sube al podio en el Gran Premio de México 2021 junto a su compañero de Red Bull, Max Verstappen"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Histórico! Checo Pérez, tercero en el GP de México y primer mexicano en subir al podio en el Hermanos Rodríguez"
 front: false
 section: "Deportes"
-news_id: 189634
+redirect_from: /news/189634
 ---
 
 Sergio ‘Checo’ Pérez logró lo que todo el pueblo mexicano soñaba, verlo en el podio del Gran Premio de México de Fórmula 1 y con esto, se convierte en el primer piloto azteca en lograrlo. 

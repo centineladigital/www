@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Se registran 10 personas fallecidas, para un acumulado de 6 mil 946 casos desde que inició la pandemia; además han perdido la vida por coronavirus 124 integrantes del Sector Salud, 6,074 se han enfermado y 5,815 son los recuperados"
 image: "/uploads/2021/images-Diapositiva2.JPG"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Rebasa estado los 68 mil contagios de COVID-19 tras confirmarse 108 más"
 front: false
 section: "Local"
-news_id: 184688
+redirect_from: /news/184688
 ---
 
 En la Conferencia Informativa #418 y #378 Virtual del Reporte COVID-19, la Secretaría de Salud informó que al día de hoy se tiene un total general de 68 mil 040 contagios en el estado, luego de confirmarse otros 108 con las pruebas de laboratorio.

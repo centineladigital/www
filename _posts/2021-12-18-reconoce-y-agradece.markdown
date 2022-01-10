@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La gobernadora afirmó que se dará viabilidad financiera a Chihuahua, al contar por primera vez con un presupuesto no deficitario"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reconoce y agradece la gobernadora Maru Campos a diputados por aprobación de Presupuesto 2022   "
 front: false
 section: "Local"
-news_id: 190995
+redirect_from: /news/190995
 ---
 
 La gobernadora Maru Campos Galván, agradeció al poder Legislativo por la aprobación del proyecto de Ley de Ingresos y Presupuesto de Egresos, para el Ejercicio Fiscal 2022 del Estado de Chihuahua.

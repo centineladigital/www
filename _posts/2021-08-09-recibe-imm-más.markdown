@@ -10,11 +10,11 @@ author: nil
 description: "Incrementa de forma constante denuncias de violencia."
 image: "/uploads/2021/images-MARGARITA.jpg"
 video: "/uploads/2021/videos-ML06_MARGARITA_BLACKALLER.mp4"
-audio: "nil"
+audio: nil
 alt: "Recibe IMM más de 800 llamadas desde el inicio de pandemia"
 front: false
 section: "Local"
-news_id: 186485
+redirect_from: /news/186485
 ---
 
 Más de 850 llamadas por violencia han sido recibidas desde el inicio de la pandemia en el Instituto Municipal de las Mujeres, señaló la titular de esta dependencia Margarita Blackaller. Quien sin especificar porcentajes afirmó que de forma constante estas cifras crecen.

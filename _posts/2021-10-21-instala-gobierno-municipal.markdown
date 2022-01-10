@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los trabajos se han realizado en colonias de la zona urbana y se realizarán en la zona rural"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Instala Gobierno Municipal más de 1,100 señalamientos de nomenclatura en la ciudad"
 front: false
 section: "Local"
-news_id: 189026
+redirect_from: /news/189026
 ---
 
 El Gobierno Municipal, a través de la dirección de Desarrollo Urbano y Ecología, implementó la estrategia de instalación de nomenclatura en calles y avenidas de la ciudad de Chihuahua, sumando un total de 1,115 señalizaciones en diferentes colonias de la capital en lo que va del 2021.

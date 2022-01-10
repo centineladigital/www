@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Cinthia Aideé Chavira de Corral entregó sillas de ruedas, becas, kits y apoyos diversos, con una inversión de más de 388 mil pesos en beneficio de 306 parralenses, en coordinación con Secretaría de Desarrollo Social   "
 image: "/uploads/2021/images-IMG_3449_copia.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cierra presidenta del DIF Estatal gira de entrega de apoyos en Parral"
 front: false
 section: "Local"
-news_id: 187190
+redirect_from: /news/187190
 ---
 
 En el marco de la última gira de trabajo de la presidenta del DIF Estatal, Cinthia Aideé Chavira de Corral, en coordinación con la Secretaría de Desarrollo Social, encabezó en Parral, la entrega de apoyos con una inversión total de 388 mil 082 pesos en beneficio de 306 personas en situación de vulnerabilidad.

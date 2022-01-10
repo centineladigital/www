@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aunque se sabe que Luján tomó el lugar de Belinda en 'Cómplices al rescate', la primera reemplazada fue Daniela, pues la idea original de la telenovela fue suya. "
 image: "/uploads/2021/images-belinda-y-daniela-lujan-instagram.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Yo no la veo competencia; ella no impone moda -  El día que Belinda habló de su rivalidad con Daniela Luján"
 front: false
 section: "Espectáculos"
-news_id: 185243
+redirect_from: /news/185243
 ---
 
 Para los niños de los 2000, no hay recuerdo de una rivalidad más fuerte que la que se decía, existían entre Belinda y Daniela Lujan, luego de que ésta tomara el papel de la primera en la telenovela Cómplices al rescate, estrenada en 2002 y aquí recordamos el día que Belinda dijo que no veía a Daniela Luján como competencia.  

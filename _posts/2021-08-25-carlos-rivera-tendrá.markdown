@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Carlos Rivera llevará su documental mostrando los preparativos y dificultades que tuvo con su tour, Guerra Tour, el cual culminará con su concierto número 100 en Argentina."
 image: "/uploads/2021/images-carlos-rivera-estrenara-documental-disney_0_141_671_418.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Carlos Rivera tendrá documental en Disney; tratará sobre el 'Guerra Tour'"
 front: false
 section: "Espectáculos"
-news_id: 187094
+redirect_from: /news/187094
 ---
 
 Carlos Rivera, el intérprete de Te esperaba, tendrá su documental en Disney +, el cual tratará de su último tour, Guerra Tour, y en el que se llevará de la mano a lo largo de los preparativos y dificultades detrás de esta gira de conciertos, la cual culmina en su concierto número 100 en el Hipódromo de Palermo, Argentina. 

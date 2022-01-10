@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Ante cualquier malestar respiratorio, se recomienda a los derechohabientes acudir a las Unidades de Medicina Familiar (UMF); o en caso de ser necesario, a los Módulos de Atención Respiratoria (MARS)."
 image: "/uploads/2021/images-Foto_4879-1_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Exhorta IMSS Chihuahua protegerse ante el inicio de cambios de clima "
 front: false
 section: "Local"
-news_id: 188431
+redirect_from: /news/188431
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua alertó que durante la temporada de otoño comienzan los cambios bruscos de clima y, con ello, las primeras recaídas en el estado general de salud, por lo que exhortó a la ciudadanía a reforzar la buena alimentación y protegerse con prendas más protectoras, sobre todo durante las primeras horas del día y por la noche.

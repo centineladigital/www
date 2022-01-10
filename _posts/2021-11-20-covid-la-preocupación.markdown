@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El director regional de la Organización Mundial de la Salud advierte que habrá medio millón de muertes más para este marzo si no se toman acciones preventivas"
 image: "/uploads/2021/images-_121736933_0d44d890-ac7f-47cb-8765-013c845da27a.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Covid -  la preocupación de la OMS por el aumento de casos y muertes en Europa"
 front: false
 section: "Internacional"
-news_id: 190042
+redirect_from: /news/190042
 ---
 
 La Organización Mundial de la Salud (OMS) está "muy preocupada" por la propagación de Covid-19 en Europa, a medida que el continente se enfrenta a una nueva ola de infecciones.

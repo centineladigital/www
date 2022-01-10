@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "En Twitter, el intérprete de Mi gente publicó: Los que tienen poder en el género, ¡ninguno debería ir! Es decir, todos, porque somos un movimiento."
 image: "/uploads/2021/images-j-balvin-instagram-3.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "No nos valoran, pero nos necesitan -  J Balvin arremete contra los Grammy"
 front: false
 section: "Espectáculos"
-news_id: 188180
+redirect_from: /news/188180
 ---
 
 Este martes se dieron a conocer los nominados al Grammy Latino 2021, entre los que destacan Reik, Natalia Lafourcade, Danna Paola, Bad Bunny, Mon Laferte, Camilo, y J Balvin, aunque este último arremetió contra los organizadores de la gala al señalar que no valoran a los cantantes de reguetón.  A través de su cuenta de Twitter, el cantante colombiano criticó la premiación organizada por la Academia Latina de la Grabación, pues señaló que "les damos rating pero no nos dan el respeto". 

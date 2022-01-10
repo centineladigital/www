@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La dosis es analizada para que pueda aplicarse a personas que tengan más de 18 años. "
 image: "/uploads/2021/images-frasco-vacuna-janssen-filial-farmaceutica.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "La UE evalúa uso de vacuna anticovid de refuerzo Johnson & Johnson"
 front: false
 section: "Internacional"
-news_id: 190061
+redirect_from: /news/190061
 ---
 
 La Agencia Europea del Medicamento (EMA, por sus siglas en inglés), el regulador de la Unión Europea (UE), dijo hoy que estaba evaluando la propuesta realizada por la empresa Johnson & Johnson para usar su vacuna de refuerzo contra el covid-19 en mayores de 18 años que están en los territorios del bloque.

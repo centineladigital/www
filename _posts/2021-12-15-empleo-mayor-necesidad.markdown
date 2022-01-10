@@ -10,11 +10,11 @@ author: nil
 description: "Esto resultado de la consulta a los pueblos del estado."
 image: "/uploads/2021/images-ENRIQUE.jpg"
 video: "/uploads/2021/videos-MW01_ENRIQUE_RASCON.mp4"
-audio: "nil"
+audio: nil
 alt: "Empleo mayor necesidad en pueblos indígenas"
 front: false
 section: "Local"
-news_id: 190891
+redirect_from: /news/190891
 ---
 
 Según el titular de la Comisión Estatal para los Pueblos Indígenas la mayor necesidad que tienen las comunidades indígenas es el empleo, afirmando que si bien no existe una sola necesidad, si se tiene claro que es un de las cosas que más solicitan en las diversas zonas del estado.

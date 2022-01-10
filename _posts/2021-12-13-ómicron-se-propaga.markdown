@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "La nueva variante es, según datos preliminares, más rápida en propagación y hasta el 9 de diciembre se encontró presente en 63 países. "
 image: "/uploads/2021/images-la-variante-omicron-llego-a.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Ómicron se propaga más rápidamente y las vacunas son menos efectivas -  OMS"
 front: false
 section: "Internacional"
-news_id: 190783
+redirect_from: /news/190783
 ---
 
 La variante ómicron del covid-19 parece propagarse más que Delta, con síntomas más leves, lastrando la acción de las vacunas, indicó este domingo la OMS, que destacó que estos datos son preliminares. 

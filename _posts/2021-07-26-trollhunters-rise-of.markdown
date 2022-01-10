@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Del Toro contó que una de sus principales metas con las series de 'Trollhunters' era ampliar las posibilidades del medio televisivo y de la animación. "
 image: "/uploads/2021/images-guillermo-del-toro-shutterstock-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Trollhunters -  Rise of the Titans', la nueva película producida por Guillermo del Toro; dónde verla"
 front: false
 section: "Espectáculos"
-news_id: 185995
+redirect_from: /news/185995
 ---
 
 La nueva película animada que produjo Guillermo del Toro, Trollhunters: Rise of the Titans, se presentó este domingo en un evento especial al que acudió el director mexicano, quien aseguró que la saga"siempre fue algo personal". El realizador fue el gran protagonista de una proyección en el cine The Landmark, de Los Ángeles, de la cinta que estrenó Netflix el pasado 21 de julio. 

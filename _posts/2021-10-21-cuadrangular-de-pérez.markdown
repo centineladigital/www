@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Los de Jalisco vencieron 4-3 a los de Monterrey en el segundo juego para amarrar la serie disputada en el estadio Panamericano. "
 image: "/uploads/2021/images-cuadrangular-da-triunfo-y-serie.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cuadrangular de Pérez da triunfo y serie a Charros sobre Sultanes"
 front: false
 section: "Deportes"
-news_id: 189009
+redirect_from: /news/189009
 ---
 
 Un jonrón de Félix Pérez de dos carreras en la sexta entrada le devolvió la ventaja y triunfo a Charros que vencieron 4-3 a Sultanes en el segundo juego para amarrar la serie disputada en el estadio Panamericano. 

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La actriz señaló que fue vetada durante cinco años de Televisa por grabar un disco con otra compañía; indicó que la sacaron de la telenovela 'Lo blanco y lo negro'. "
 image: "/uploads/2021/images-alejandra-avalos-recuerda-vetaron-televisa_0_0_1200_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me quedé helada -  Alejandra Ávalos recuerda el día que la vetaron en Televisa"
 front: false
 section: "Espectáculos"
-news_id: 182642
+redirect_from: /news/182642
 ---
 
 Alejandro Ávalos recordó algunos de los momentos más difíciles que ha vivido a lo largo de su carrera artística. La actriz contó que pese a ser reconocida por su voz, tardó siete años en grabar su primer disco hasta que un empresario de la industria musical le ofreció un contrato; sin embargo, esto le llevó a tener problemas con Televisa, donde fue vetada por cinco años. 

@@ -10,11 +10,11 @@ author: nil
 description: "Desconoce gobierno estatal fecha de extradición de exgobernador."
 image: "/uploads/2021/images-SERRATO.jpg"
 video: "/uploads/2021/videos-MJ04_LUIS_SERRATO.mp4"
-audio: "nil"
+audio: nil
 alt: "Fiscalía atenderá tema Duarte, no politizaremos afirma Serrato"
 front: false
 section: "Local"
-news_id: 189038
+redirect_from: /news/189038
 ---
 
 “Lo que tiene que ver con justicia se atenderá en la Fiscalía, porque ese es el tema. No se puede politizar la justicia” fueron las palabras del Secretario Coordinador de Gabinete, Luis Serrato Castell. Esto al ser cuestionado respecto al tema y a la extradición del exgobernador César Duarte.

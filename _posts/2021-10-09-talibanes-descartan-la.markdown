@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Funcionarios de ambas partes han dicho que los problemas incluyen el control de los grupos extremistas y la evacuación de ciudadanos extranjeros y afganos del país. "
 image: "/uploads/2021/images-taliban-proclama-victoria-kabul-promete-1_0_43_1000_623.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Talibanes descartan la cooperación con EU para contener grupos extremistas"
 front: false
 section: "Internacional"
-news_id: 188555
+redirect_from: /news/188555
 ---
 
 Desde que Estados Unidos se retiro de Afganistán en agosto, y tras las primeras conversaciones entre los dos países, los talibanes descartaron la cooperación con Estados Unidos para contener a grupos extremistas, apostando por una posición intransigente sobre temas clave.  

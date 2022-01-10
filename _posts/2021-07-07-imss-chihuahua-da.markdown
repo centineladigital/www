@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, a través de la Jefatura de Prestaciones Médicas, da a conocer los síntomas más comunes de la diabetes."
 image: "/uploads/2021/images-Foto_2964-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS Chihuahua da a conocer los síntomas más comunes de la diabetes, para su detección y atención oportuna. "
 front: false
 section: "Local"
-news_id: 185440
+redirect_from: /news/185440
 ---
 
 La coordinadora de Salud Pública, doctora Brenda Ramírez Vega, destacó que la importancia de una sana alimentación y una revisión anual. 

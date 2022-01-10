@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "La Policía de Guatemala informó que los migrantes fueron abandonados por traficantes de personas y que llevaban tres días sin agua ni alimento"
 image: "/uploads/2021/images-miles-migrantes-cruzar-mexico-llegar_0_62_1200_746.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "En Guatemala, rescatan a 101 migrantes haitianos que buscaban llegar a EU"
 front: false
 section: "Internacional"
-news_id: 186764
+redirect_from: /news/186764
 ---
 
 La policía de Guatemala rescató este domingo, en una vivienda de la capital, a 101 migrantes haitianos abandonados por traficantes en su intento por llegar a Estados Unidos, informó el vocero de la institución, Jorge Aguilar. 

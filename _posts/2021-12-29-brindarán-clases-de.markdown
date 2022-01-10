@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Con cupo limitado y respetando las medidas del semáforo epidemiológico"
 image: "/uploads/2021/images-unnamed_(3).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Brindarán clases de natación para adultos en alberca del DIF Municipal"
 front: false
 section: "Local"
-news_id: 191312
+redirect_from: /news/191312
 ---
 
 Con el compromiso de ofrecer a la ciudadanía actividades deportivas para la activación física, el próximo lunes 3 de enero, iniciará el nuevo ciclo de clases de natación en la alberca perteneciente al DIF Municipal, ubicada en las instalaciones de avenida Glandorf 4106, colonia San Felipe V Etapa, para mayores de 18 años y con cupo limitado en atención a las medidas sanitarias por COVID.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El famoso comediante dio a conocer la triste noticia en sus redes sociales con una emotiva imagen junto a su perro ‘Hunter’ de raza golden retriever."
 image: "/uploads/2021/images-franco-escamilla-luto-murio-perrito.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Me acompañó en las buenas y en las malas -  Franco Escamilla está de luto; despide a su perrito con emotivo mensaje"
 front: false
 section: "Espectáculos"
-news_id: 189358
+redirect_from: /news/189358
 ---
 
 Franco Escamilla, reconocido comediante mexicano, está de luto por un integrante de su familia, así lo comunicó en sus redes sociales. ¿Qué sucedió? El famoso expresó su tristeza, pues su perrito “Hunter” murió después de que loa compañara por años. El famoso comediante dio a conocer la triste noticia en sus redes sociales con una emotiva imagen junto a su perro ‘Hunter’ de raza golden retriever. 

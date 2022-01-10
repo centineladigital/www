@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Sofía Aragón habló sobre la muerte de Miss Aguascalientes 2019, Ximena Hita. La ex participante de Miss Universo mencionó que hubiera ayudado a la joven. https://www.milenio.com/espectaculos/famosos/ximena-hita-sofia-aragon-muerte-miss-aguascaliente"
 image: "/uploads/2021/images-sofia-aragon-lamento-muerte-miss.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Se hubiera acercado a mí -  Sofía Aragón sobre la muerte de Ximena Hita, Miss Aguascalientes"
 front: false
 section: "Espectáculos"
-news_id: 181946
+redirect_from: /news/181946
 ---
 
 Hace unos días se dio a conocer la muerte de Ximena Hita, quien en 2019 se coronó como Miss Aguascalientes. Aunque aún se desconoce las causas de su muerte, las autoridades señalan que se trata de un posible suicidio. La ex participante de Miss Universo, Sofía Aragón, habló sobre el deceso de Ximena y lamentó este hecho. En una entrevista con varios medios, la cual fue retomada por Suelta la sopa, Sofía Aragón fue cuestionada sobre la muerte de Ximena Hita, quien era paramédico y había comenzado una carrera como conductora en Aguascalientes. 

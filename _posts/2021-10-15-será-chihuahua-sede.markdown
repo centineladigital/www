@@ -10,11 +10,11 @@ author: nil
 description: "Se enfrentarán Cuba y Estados Unidos. Mientras que México estará jugando dos encuentros ante Puerto Rico"
 image: "/uploads/2021/images-balon.jpg"
 video: "/uploads/2021/videos-MV01_CARLOS_LAZO.mp4"
-audio: "nil"
+audio: nil
 alt: "Será Chihuahua sede de clasificación en mundial de basquetbol"
 front: false
 section: "Local"
-news_id: 188787
+redirect_from: /news/188787
 ---
 
 Este 28 y 29 de noviembre Chihuahua será la sede del encuentro de las selecciones de Cuba y Estados Unidos. México estará jugando dos encuentros ante Puerto Rico, teniendo como sede las instalaciones del Gimnasio Manuel Bernardo Aguirre, esto rumbo al campeonato mundial 2023. 

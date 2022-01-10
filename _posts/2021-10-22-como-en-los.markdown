@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "‘Pa mis muchachitas’ busca el empoderamiento ya logrado por las mujeres alrededor del mundo, juntando a tres de las mayores exponentes de la música latina."
 image: "/uploads/2021/images-christina-aguilera-vuelve-cantar-espanol.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Como en los viejos tiempos! Christina Aguilera vuelve a cantar en español; las redes enloquecen"
 front: false
 section: "Espectáculos"
-news_id: 189085
+redirect_from: /news/189085
 ---
 
 Como en sus buenos tiempos, Christina Aguilera volvió a cantar en español como en antiguos temas como ‘Ven Conmigo’ y ‘Pero Me Acuerdo de Ti’ que lograron consolidarse como grandes éxitos de toda una generación. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Gobierno Municipal y Fundación Coca-Cola invitan a capacitación virtual para mejorar manejo de tienditas  "
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Unen esfuerzos para aumentar ganancias de abarrotes y pequeños negocios"
 front: false
 section: "Local"
-news_id: 189372
+redirect_from: /news/189372
 ---
 
 El Gobierno Municipal a través de la Dirección de Desarrollo Económico y Turístico, trabajan en conjunto con la Fundación Coca-Cola, para aumentar los ingresos de las y los comerciantes de tiendas de abarrotes o pequeños negocios con programa de capacitación.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Las medidas entran en vigor a la medianoche del viernes y prohíben todas las actividades, desde los deportes hasta tomar sol y nadar"
 image: "/uploads/2021/images-2547864.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Río de Janeiro cierra playas, intentan controlar expansión del covid"
 front: false
 section: "Internacional"
-news_id: 183476
+redirect_from: /news/183476
 ---
 
 Las playas de Río de Janeiro estarán cerradas el fin de semana, según un decreto municipal promulgado el viernes, mientras el gobierno local trata de frenar la propagación de la pandemia de COVID-19.

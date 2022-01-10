@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Titular del Issste supervisa UMF Teotihuacán y CMF Xalostoc para llevar a cabo diagnóstico y estrategia de mejora"
 image: "/uploads/2021/images-WhatsApp_Image_2021-12-29_at_3.45.36_PM.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Programa de telemedicina proporciona atención de especialidad y subespecialidad a 30% de derechohabientes -  ISSSTE"
 front: false
 section: "Local"
-news_id: 191328
+redirect_from: /news/191328
 ---
 
 Ciudad de México, 29 de diciembre de 2021.- Para agilizar la atención a derechohabientes que viven en zonas apartadas, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Issste), dispone del programa de Telemedicina, con el cual brinda consultas de especialidad y subespecialidad desde las unidades médicas de origen. 

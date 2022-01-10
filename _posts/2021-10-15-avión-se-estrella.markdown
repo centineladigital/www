@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El avión privado cayó en el condado de Sacramento, las investigaciones continúan para descubrir la causa del accidente. "
 image: "/uploads/2021/images-avion-united-airlines-percances-vuelo-1_0_25_1024_638_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Avión se estrella en el norte de California; hay cuatro personas graves en el hospital"
 front: false
 section: "Internacional"
-news_id: 188757
+redirect_from: /news/188757
 ---
 
 Cuatro personas se encuentran en estado crítico con quemaduras después de que las sacaron de un avión que cayó el jueves por la tarde cerca de una pista de aterrizaje privada en el condado de Sacramento, dijeron los bomberos. 

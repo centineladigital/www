@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El América sigue en la cima de la tabla y aseguró su pase a la fase final del torneo Apertura 2021 de la Liga MX"
 image: "/uploads/2021/images-Sin_título.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Así marcha la tabla de la Liga MX tras la jornada 13 del Apertura 2021"
 front: false
 section: "Deportes"
-news_id: 188832
+redirect_from: /news/188832
 ---
 
 Un gol en la agonía del colombiano Roger Martínez ha permitido al América aumentar su renta como líder del torneo Apertura 2021 de la Liga MX a 28 puntos, ahora seis más sobre su primer perseguidor, Atlas, que cayó en la casa del Mazatlán en la decimotercera jornada.

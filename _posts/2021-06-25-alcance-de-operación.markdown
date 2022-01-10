@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El exgobernador de Chihuahua preso en Miami y en proceso de extradición,  acumula 21 órdenes de aprehensión en su contra por delitos de peculado agravado y enriquecimiento ilícito"
 image: "/uploads/2021/images-Red_de_Corrupcion.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Alcance de Operación Justicia para Chihuahua contra la corrupción, sin parangón en todo el país"
 front: false
 section: "Local"
-news_id: 185241
+redirect_from: /news/185241
 ---
 
 La Operación Justicia para Chihuahua ha marcado un hito en la historia de México, pues ni el número de órdenes de aprehensión obtenidas en contra de alguien que ejerció el poder público, ni la cantidad de personas presentadas ante la justicia en torno a una misma red de corrupción, tienen antecedente similar en todo el país.

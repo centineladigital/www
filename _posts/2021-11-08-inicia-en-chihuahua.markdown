@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El presidente municipal, inició de manera formal la academia y actividades del Instituto Superior de Seguridad Chihuahua  "
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia en Chihuahua primer instituto de policía en México en ofrecer licenciaturas en alta dirección"
 front: false
 section: "Local"
-news_id: 189657
+redirect_from: /news/189657
 ---
 
 El presidente municipal, Marco Bonilla Mendoza, precisó que esta nueva generación de policías y el total de la corporación, podrán cursar una carrera universitaria al ofertar el Instituto Superior de Seguridad Chihuahua (ISSCUU), la licenciatura en alta dirección o la licenciatura en tecnología policial y administración de emergencias.

@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Uno de los eventos más esperados cada año, están cerca de celebrarse, aunque en esta ocasión tuvo que pasar un lustro para poder llevarse a cabo, luego de que se postergaran por la pandemia del coronavirus. "
 image: "/uploads/2021/images-los-aros-olimpico-en-tokio_1_1_1198_747.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¿Cuándo empiezan los Juegos Olímpicos de Tokio?"
 front: false
 section: "Deportes"
-news_id: 185585
+redirect_from: /news/185585
 ---
 
 Esta justa veraniega será atípica ante la crisis sanitaria que hay en el mundo y es que en un principio se pensaba en que sí habría aficionados en la gradas, pero tras ver que que los casos no disminuyen sino todo lo contrario, la mayoría de las sedes no contará con público, además de que los aficionados extranjeros no podrán ser parte de esta gran experiencia. 

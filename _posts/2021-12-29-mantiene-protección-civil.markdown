@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Para Chihuahua se prevén lluvias ligeras, especialmente al norte de la capital"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Mantiene Protección Civil Estatal aviso preventivo por presencia de nieve y aguanieve en la sierra Tarahumara"
 front: false
 section: "Local"
-news_id: 191293
+redirect_from: /news/191293
 ---
 
 El Gobierno del Estado mantiene a través de la Coordinación Estatal de Protección Civil, mantiene el aviso preventivo para la tarde-noche de este martes y madrugada de miércoles en las cuales se prevé la presencia de caída de nieve y aguanieve sobre las partes altas de la región serrana de la entidad.

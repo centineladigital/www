@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "“Este día celebramos que somos una nación independiente, con identidad, libre y soberana."
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Con izamiento de la Bandera Nacional conmemora Gobierno Municipal 200 años de historia"
 front: false
 section: "Local"
-news_id: 183139
+redirect_from: /news/183139
 ---
 
 La alcaldesa María Angélica Granados Trespalacios, estuvo presente en el Izamiento de la Bandera Nacional en conmemoración del 200 aniversario del Lábaro Patrio, acto cívico efectuado en la explanada del parque El Palomar.

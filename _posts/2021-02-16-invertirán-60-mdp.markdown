@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Beneficiarán 225 mil personas, esta obra contará con una longitud de 380 metros."
 image: "/uploads/2021/images-CARLOS_AGUILAR.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-mm04.mp3"
 alt: "Invertirán 60 mdp en paso superior romanza"
 front: false
 section: "Local"
-news_id: 182967
+redirect_from: /news/182967
 ---
 
 Con una inversión de 60 millones de pesos este martes fue dado a conocer las acciones que se llevarán a cabo por parte del municipio, según lo dio a conocer Carlos Aguilar García, director de Obras Públicas Municipales. 

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "El Alcalde reconoció el trabajo y participación de las asociaciones y vecinos en el Presupuesto Participativo"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: " Arrancan construcción del centro comunitario “Mundo Interactivo y de Paz”; espacio innovador y didáctico"
 front: false
 section: "Local"
-news_id: 189858
+redirect_from: /news/189858
 ---
 
 El presidente municipal, Marco Bonilla Mendoza, encabezó el arranque de obra del centro comunitario "Mundo Interactivo y de Paz", en la colonia Jardines Universidad, proyecto que forma parte del Presupuesto Participativo 2021 y que fue impulsado por las asociaciones civiles, "Somos Unión" y "Jugar, Museo Interactivo".

@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Conoce cuándo y a qué hora serán los partidos de vuelta de la fiesta grande del Apertura 2021 de la Liga MX. "
 image: "/uploads/2021/images-agenda-fechas-horarios-vuelta-cuartos.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Cuartos de final de vuelta en Liga MX -  Fechas, horarios y dónde ver liguilla del Apertura 2021"
 front: false
 section: "Deportes"
-news_id: 190227
+redirect_from: /news/190227
 ---
 
 La Liga MX anunció las fechas y horarios de los cuartos de final del Apertura 2021, donde son ocho equipos los que seguirán en la pelea por el título del actual certamen, fase que inició este miércoles 24 de noviembre. 

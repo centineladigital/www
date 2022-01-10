@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Tras pasar revista a las tropas que participan en el desfile, López Obrador entregó condecoraciones a militares y deportistas militares que participaron en los juegos Olímpicos de Tokio "
 image: "/uploads/2021/images-condecoraciones_amlo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "AMLO entrega condecoraciones a Luis Cresencio Sandoval y Rafael Ojeda"
 front: false
 section: "Nacional"
-news_id: 190036
+redirect_from: /news/190036
 ---
 
 El presidente Andrés Manuel López Obrador encabeza esta mañana, en el Zócalo capitalino, la ceremonia cívico-militar por el 111 aniversario del inicio de la Revolución Mexicana, donde entregó condecoraciones a Luis Cresencio Sandoval, secretario de Defensa, y a Rafael Ojeda, secretario de Marina.

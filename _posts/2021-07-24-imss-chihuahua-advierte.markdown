@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Ante cualquier síntoma respiratorio, se debe acudir a los módulos respiratorios de las Unidades de Medicina Familiar "
 image: "/uploads/2021/images-Sinusitis.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "IMSS Chihuahua advierte que resfriados en temporada de verano pueden ser sinusitis"
 front: false
 section: "Local"
-news_id: 185968
+redirect_from: /news/185968
 ---
 
 El Instituto Mexicano del Seguro Social (IMSS) en Chihuahua, informó que aún en tiempo de calor, es necesario mantener precaución ante los resfriados, ya que el no atenderse a tiempo un mal respiratorio puede generar consecuencias como un problema de sinusitis.

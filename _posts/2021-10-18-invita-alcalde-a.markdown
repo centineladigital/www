@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Podrán participar ciudadanos, académicos, cámaras empresariales y organizaciones civiles"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Alcalde a sumar propuestas ciudadanas para el Plan Municipal de Desarrollo 2021-2024"
 front: false
 section: "Local"
-news_id: 188868
+redirect_from: /news/188868
 ---
 
 El alcalde de Chihuahua, Marco Bonilla, invitó a la ciudadanía a participar y sumarse a las propuestas que integrarán el Plan Municipal de Desarrollo (PMD) 2021-2024 donde podrán aportar ideas y acciones para la conformación.

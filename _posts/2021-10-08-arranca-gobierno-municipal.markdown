@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Para escuchar y atender las necesidades de las colonias a través de sus comités"
 image: "/uploads/2021/images-unnamed_(2).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Arranca Gobierno Municipal con primer Jueves entre Vecinos"
 front: false
 section: "Local"
-news_id: 188519
+redirect_from: /news/188519
 ---
 
 El alcalde de Chihuahua, Marco Bonilla junto con las y los directores del Gobierno Municipal, así como las y los regidores dieron inicio al primer evento del programa “Jueves entre Vecinos”, con el propósito de escuchar y atender las necesidades de las familias chihuahuenses por medio de los representantes de los Comités Vecinales.

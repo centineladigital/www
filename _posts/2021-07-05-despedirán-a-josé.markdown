@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "El vocalista de Los Yonic's, Juan Manuel Zamacona, será despedido en Acapulco tras morir por complicaciones emanadas de covid-19. "
 image: "/uploads/2021/images-juan-manuel-zamacona-vocalista-yonic.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Despedirán a José Manuel Zamacona, vocalista de Los Yonic's, en Acapulco"
 front: false
 section: "Espectáculos"
-news_id: 185390
+redirect_from: /news/185390
 ---
 
 El domingo 4 de julio murió José Manuel Zamacona, vocalista de Los Yonic's, a causa de las complicaciones que sufrió por las secuelas de covid-19. Las redes oficiales de la agrupación musical dieron a conocer la noticia. Ahora, revelaron el lugar donde lo despedirán formalmente de manera pública. "A todos mis hermanos y hermanas que gusten despedir a mi papito, los esperamos enTerraza Norte del Centro de Convenciones entrando por la puerta 3 (estacionamiento de atrás del Centro)", revelan en una publicación hecha en redes sociales. 

@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Da a conocer acciones positivas para este grupo productivo."
 image: "/uploads/2021/images-maru.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML07_MARU_CAMPOS.mp4"
 alt: "Promete Campos reactivación de actividades primarias"
 front: false
 section: "Local"
-news_id: 184506
+redirect_from: /news/184506
 ---
 
 La reactivación del campo es lo que la candidata del PAN a la gubernatura promete, ya que según lo expresó María Eugenia Campos Galván, es de gran importancia reactivar económicamente a este sector. 

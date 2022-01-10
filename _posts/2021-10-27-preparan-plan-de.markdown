@@ -11,12 +11,12 @@ tags:
 author: nil
 description: ""
 image: "/uploads/2021/images-Reunión_educación_superior-1.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Preparan Plan de Desarrollo Institucional de la Educación Superior de Servicios Educativos del Estado de Chihuahua"
 front: false
 section: "Local"
-news_id: 189256
+redirect_from: /news/189256
 ---
 
 Con la asistencia de directivos de las instituciones de educación superior del subsistema federalizado en el estado, se realizó una reunión de trabajo para dar inicio a la elaboración del Plan de Desarrollo Institucional de este nivel educativo, en el ciclo escolar 2021-2022.

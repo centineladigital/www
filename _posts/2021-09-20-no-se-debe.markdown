@@ -14,11 +14,11 @@ author: nil
 description: "La información debe estar contextualizada "
 image: "/uploads/2021/images-loera.jpg"
 video: "/uploads/2021/videos-BL05_JUAN_LOERA.mp4"
-audio: "nil"
+audio: nil
 alt: "No se debe criminalizar a los inmigrantes -  Loera "
 front: false
 section: "Local"
-news_id: 187897
+redirect_from: /news/187897
 ---
 
 Juan Carlos Loera De la rosa, coordinador de Bienestar comento, que es de suma importancia mencionar que las personas que llegan al país como inmigrantes lo único que tienen es la vida, expresó tener especial cuidado en no criminalizar ni señalar a estas personas, mencionó que la mayoría son menores de edad y personas que no vienen acompañadas de sus familias.

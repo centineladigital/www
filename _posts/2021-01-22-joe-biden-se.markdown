@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Segundo mandatario católico de la historia del país, después de John F. Kennedy, Biden muestra su fe ya desde la muñeca, donde porta el rosario que llevaba su hijo Beau el día de su muerte, a consecuencia de un tumor cerebral, en 2015"
 image: "/uploads/2021/images-2516470.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Joe Biden se apoya en su fe católica para tratar de unir a EU"
 front: false
 section: "Internacional"
-news_id: 182355
+redirect_from: /news/182355
 ---
 
 Católico practicante, Joe Biden no duda en referirse a su fe para justificar su deseo de "curar" a un país profundamente dividido, pero sus convicciones religiosas podrían no ser suficientes para conseguir la unión sagrada en torno al presidente de Estados Unidos.

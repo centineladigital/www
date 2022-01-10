@@ -14,11 +14,11 @@ author: nil
 description: "Avaló la acción de la gobernadora  para lograr el presupuesto histórico de 500 millones de pesos para infraestructura hídrica."
 image: "/uploads/2021/images-alejandrodominguezgera.jpg"
 video: "/uploads/2021/videos-BM02_ALEJANDRO_DOMINGUEZ_.mp4"
-audio: "nil"
+audio: nil
 alt: "PRI respalda el convenio del agua de Maru Campos "
 front: false
 section: "Local"
-news_id: 189223
+redirect_from: /news/189223
 ---
 
 Alejandro Domínguez, presidente del comité directivo estatal del partido revolucionario institucional, respaldó el convenio de liberación de la presa la boquilla, a consecuencia del convenio firmado por la gobernadora de chihuahua Maru campos, el legislador avaló la acción de la gobernadora  para lograr el presupuesto histórico de 500 millones de pesos para infraestructura hídrica.

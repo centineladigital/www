@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Con la distribución de libros para secundaria en Chihuahua, Juárez y Ojinaga, finaliza el proceso en la entidad, con un total de cuatro millones 941 mil 178 ejemplares para los niveles de preescolar, primaria y secundaria"
 image: "/uploads/2021/images-Libros_de_secundaria-4.JPG"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-Félix_Ortiz__Jefe_Depto._de_Libros_de_Texto_de_SEECH.mp3"
 alt: "Concluirá Estado última fase de entrega de libros de texto gratuitos  en escuelas públicas"
 front: false
 section: "Local"
-news_id: 188780
+redirect_from: /news/188780
 ---
 
 La Secretaría de Educación y Deporte (SEyD) informa que se encuentra en proceso la última etapa de distribución de libros de texto gratuitos a escuelas públicas del estado, con la entrega de ejemplares para estudiantes de secundaria de los municipios de Chihuahua, Juárez y Ojinaga.

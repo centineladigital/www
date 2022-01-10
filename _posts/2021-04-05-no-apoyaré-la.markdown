@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "“La justicia no puede ser selectiva”, dijo el Gobernador."
 image: "/uploads/2021/images-CORRAL.jpg"
-video: "nil"
+video: nil
 audio: "/uploads/2021/audio-ML06_JAVIER_CORRAL.mp3"
 alt: "No apoyaré la corrupción -  Corral "
 front: false
 section: "Local"
-news_id: 183691
+redirect_from: /news/183691
 ---
 
 “Mi lealtad al PAN no pasa solapar actos de corrupción y corruptos” fueron las palabras del Gobernador de Chihuahua, Javier Corral Jurado, luego de ser cuestionado respecto a los señalamientos de que el mandatario negoció apoyar a MORENA, así como el que se retiren los derechos políticos dentro de Acción Nacional.

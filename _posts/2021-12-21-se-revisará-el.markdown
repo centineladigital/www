@@ -22,11 +22,11 @@ author: nil
 description: "La Secretaria de Hacienda omitió la entrega de recursos también a la cruz roja mexicana"
 image: "/uploads/2021/images-descarga_(1).jpg"
 video: "/uploads/2021/videos-_BM03_GEO_BUJANDA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Se revisará el desvio de recursos para FICOSEC, FECHAC y universidades"
 front: false
 section: "Local"
-news_id: 191094
+redirect_from: /news/191094
 ---
 
 Dada la revisión a la cuenta pública 2020 y a que La Auditoria Superior del Estado haya encontrado presuntos actos delictivos respecto a la administración de recursos para la fundación del Empresariado Chihuahuense FECHAC, al fideicomiso para la competitividad y seguridad ciudadana FICOSEC, así como a las universidades públicas como UACH y UACJ la diputada Geo Bujanda lamentó el hecho y señaló se debe hacer la revisión necesaria.

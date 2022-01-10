@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Aquí te presentamos a los personajes que concursan en la tercera temporada del reality show de Televisa; ¿podrás descubrir la identidad detrás de la máscara?."
 image: "/uploads/2021/images-conoce-a-los-nuevos-participantes.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Personajes de 'Quién es la máscara 2021' -  conoce a los nuevos participantes del reality"
 front: false
 section: "Espectáculos"
-news_id: 188551
+redirect_from: /news/188551
 ---
 
 Carlos Rivera, Yuri, Juan Pablo Zurita y, por primera vez, Mónica Huarte son los investigadores del programa Quién es la máscara 2021, por lo que su tarea es descubrir a las celebridades que se ocultan detrás de creativos personajes que van de criaturas fantásticas, alimentos, animales y hasta robots. La tercera temporada del reality show de Televisa cuenta con la participación de reconocidos famosos, pero descifrar su identidad no será tan sencillo.  Son 18 participantes los que competirán desde este domingo en la nueva temporada de la producción inspirada en The Masked Singer -lanzado en Corea del Sur en 2015-, y aquí te compartimos toda la información sobre ellos. 

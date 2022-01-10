@@ -10,11 +10,11 @@ author: nil
 description: "Afirma que no teme a auditorías."
 image: "/uploads/2021/images-corral.jpg"
 video: "/uploads/2021/videos-MM03_JAVIER_CORRAL.mp4"
-audio: "nil"
+audio: nil
 alt: "No hay corrupción en la administración según Corral"
 front: false
 section: "Local"
-news_id: 187517
+redirect_from: /news/187517
 ---
 
 A unas horas de que concluya el gobierno de Javier Corral Jurado, señaló que dentro de los cinco años de administración no se dejó corrupción. Añadiendo que como cabeza de la administración no teme que la siguiente administración realice auditorías, ya que se tuvo un sano manejo de las finanzas estatales.

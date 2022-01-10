@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Luis Gerardo Méndez dedicó un emotivo a su padre, quien falleció a los 65 años. Actor revela que su papá murió por covid-19. "
 image: "/uploads/2021/images-luis-gerardo-mendez-dedico-mensaje.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Luis Gerardo Méndez revela que su papá murió por covid-19; le dedica emotivo mensaje"
 front: false
 section: "Espectáculos"
-news_id: 183317
+redirect_from: /news/183317
 ---
 
 Este 5 de marzo se dio a conocer que el padre de Luis Gerardo Méndez había fallecido, sin embargo, el actor no había emitido un comentario al respecto, hasta ahora. El papá de Luis Gerardo fue un reconocido doctor, quien murió después de haberse contagiado de covid-19, así lo confirmó el protagonista de Club de Cuervos. A través de una publicación en Instagram, Luis Gerardo Méndez compartió varias fotos en las que posa al lado de su papá Luis Gerardo Hernández Ayala. El actor también dedicó un extenso y conmovedor mensaje a su padre, además que reveló que el doctor murió a los 65 años tras contagiarse de coronavirus 

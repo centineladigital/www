@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Luis Guzmán será la estrella invitada como Homero Addams, el patriarca de la familia Addams y padre de Merlina. "
 image: "/uploads/2021/images-luis-guzman-interpretara-padre-merlina_0_378_1080_672.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Llega Homero Addams! Luis Guzmán será el padre de Merlina en serie de Netflix"
 front: false
 section: "Espectáculos"
-news_id: 186417
+redirect_from: /news/186417
 ---
 
 Luis Guzmán se ha unido al elenco de la serie de televisión de la familia Addams, la cual saldrá en la plataforma de streaming, Netflix, la cual es dirigida por el cineasta Tim Burton y se centra en el icónico personaje de Merlina Addams, que será interpretada por Jenna Ortega. 

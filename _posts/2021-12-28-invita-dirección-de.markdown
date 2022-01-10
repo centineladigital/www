@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "La tirolesa más larga del mundo en su tipo y el tercer teleférico de mayor longitud del planeta entre los principales atractivos"
 image: "/uploads/2021/images-unnamed.png"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Invita Dirección de Turismo a recibir el 2022 en el Parque Aventura Barrancas"
 front: false
 section: "Local"
-news_id: 191270
+redirect_from: /news/191270
 ---
 
 La Dirección de Turismo de la Secretaría de Innovación y Desarrollo Económico, invita a recibir el año 2022 y disfrutar de las maravillas de la Sierra Tarahumara en el Parque de Aventura Barrancas del Cobre.

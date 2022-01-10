@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de una segunda temporada que le valiera 18 nominaciones y siete premios Emmy®, mañana vuelve la serie a HBO Max y HBO."
 image: "/uploads/2021/images-succession-se-estrenara-el-proximo.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "'Succession', regresa la lucha por el poder y la ambición en HBO"
 front: false
 section: "Espectáculos"
-news_id: 188804
+redirect_from: /news/188804
 ---
 
 Finalmente, y después de retrasar las grabaciones debido a la pandemia, los personajes de la familia Roy, famosa por controlar la compañía estadunidense más poderosa en medios y entretenimiento, vuelven a la pantalla tras dos años de su temporada anterior. “Mi padre es una presencia maligna, un intimidador y un mentiroso”, con estas palabras cerraba Kendall (Jeremy Strong), el primogénito del segundo matrimonio del millonario Logan Roy (Brian Cox), lo que a simple vista parecía una traición pública. La conferencia de prensa en la que Ken supuestamente anunciaría su renuncia a la compañía terminó convirtiéndose en una puñalada a la espalda de su propio padre, ante los ojos atónitos de todos, excepto de una persona: el propio Logan. 

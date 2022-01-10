@@ -11,12 +11,12 @@ tags:
 author: nil
 description: "Se esperan lluvias fuertes en algunas zonas de la región "
 image: "/uploads/2021/images-descarga.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Pronóstico del clima para nuestro estado "
 front: false
 section: "Local"
-news_id: 186597
+redirect_from: /news/186597
 ---
 
 Las temperaturas registradas en la Entidad son (°C máx/min): Chihuahua 32/19, Juárez 31/22.3, Ahumada 31.9/20, Janos 28.4/19.1, Nuevo Casas Grandes 28/17.7, Madera 24.6/13.2, Temósachic 27.3/14.7, Cuauhtémoc 26.7/15.4, Majalca 24/13.9, Ojinaga 33.5/23.7, Delicias 37.7/22, Camargo 36/21, Jiménez 32.5/17, Parral 32/16.9, Balleza 32.1/17.1, Creel 22/10.9, Maguarichi 25.7/16.8, Chínipas 33.3/22.5, Urique 31.5/20.7, Guachochi 24.9/9.9, Chinatú 25.8/13.5, El Vergel 20.9/7.7. 

@@ -7,12 +7,12 @@ tags:
 author: nil
 description: "Descontarán más de la mitad del pago por prestar mal servicio a la ciudadanía"
 image: "/uploads/2021/images-unnamed_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Inicia proceso jurídico contra empresa recolectora de basura por incumplimiento"
 front: false
 section: "Local"
-news_id: 188902
+redirect_from: /news/188902
 ---
 
 El presidente Municipal de Chihuahua, Marco Bonilla Mendoza, informó que el Municipio no llegó a un acuerdo amistoso con la empresa recolectora de basura Klifer, por las constantes fallas y quejas por el servicio e iniciarán recurso jurídico para proceder a la cancelación de la concesión.

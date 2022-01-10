@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "Después de ser declarado culpable por delitos sexuales, ahora YouTube decidió eliminar las cuentas de R. Kelly de la plataforma. "
 image: "/uploads/2021/images-r-kelly-sabra-su-condena_(1).jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "¡Sin rastro de R. Kelly! YouTube elimina los canales oficiales del cantante"
 front: false
 section: "Espectáculos"
-news_id: 188421
+redirect_from: /news/188421
 ---
 
 Después de que R. Kelly fuera declarado culpable por dirigir un “sistema” para explotar mujeres sexualmente, ante esto, la polémica del cantante no termina ya que YouTube decidió eliminar las cuentas oficiales del famoso que aún no sabe cuál será su condena. Quien fue el encargado de dar a conocer esta noticia fue un portavoz de YouTube a AFP este miércoles en donde declaró que en la plataforma ya no se encuentran las cuentas de R. Kelly. 

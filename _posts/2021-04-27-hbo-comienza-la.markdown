@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "'House of the Dragon' está inspirada en el libro 'Fire & Blood' (2018), cuya narración se sitúa unos 300 años antes de los hechos narrados en la serie de 'Game of Thrones'. "
 image: "/uploads/2021/images-serie-esperada-fanaticos-game-of.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "HBO comienza la producción de 'House of the Dragon', precuela de 'Game of Thrones'"
 front: false
 section: "Espectáculos"
-news_id: 184134
+redirect_from: /news/184134
 ---
 
 House of the Dragon, la serie precuela de Game of Thrones cuyo estreno está previsto para 2022 y dará inicio a una saga de ficciones derivadas, inició su fase de producción este lunes, informó HBO a través de Twitter. La serie compartió este lunes una fotografía de la primera lectura de guion en su perfil en la red social, en la que aparece sus futuros protagonistas: Paddy Considine, Olivia Cooke, Emma D'Arcy, Matt Smith y Stebe Toussaint, entre otros. 

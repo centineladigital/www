@@ -13,12 +13,12 @@ tags:
 author: nil
 description: "A través de la Secretaría de Educación se entregaron apoyos a 20 alumnas y alumnos para inscripción, equipo y material, servicio social y titulación"
 image: "/uploads/2021/images-BECAS_MADERA_1.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Reciben estudiantes de la Upnech campus Madera becas estatales"
 front: false
 section: "Local"
-news_id: 183109
+redirect_from: /news/183109
 ---
 
 Un total de 20 estudiantes pertenecientes a la Universidad Pedagógica Nacional del Estado de Chihuahua (Upnech), campus Madera, fueron beneficiados con becas estatales que se otorgan a través de la Secretaría de Educación y Deporte.

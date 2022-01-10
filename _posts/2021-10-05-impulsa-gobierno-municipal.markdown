@@ -13,12 +13,12 @@ tags:
 author: nil
 description: " Se construye aeropuerto alterno posicionado en un lugar estratégico del Municipio"
 image: "/uploads/2021/images-unnamed.jpg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "Impulsa Gobierno Municipal competitividad de Chihuahua con Aeropuerto Sur y recinto fiscalizado del Aeroparque Multimodal en El Charco   "
 front: false
 section: "Local"
-news_id: 188364
+redirect_from: /news/188364
 ---
 
 El alcalde capitalino Marco Bonilla encabezó la inauguración del Aeropuerto sur de Chihuahua en el seccional El Charco como parte de una estrategia área alterna en el municipio, así como también, presidió la colocación de la primera piedra de un recinto fiscalizado estratégico colindante del Aeroparque Multimodal,  a fin de reforzar el traslado de mercancías en el corredor norte.

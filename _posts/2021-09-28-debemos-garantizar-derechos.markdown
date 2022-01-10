@@ -9,12 +9,12 @@ tags:
 author: nil
 description: "Con el propósito de garantizar el reconocimiento y respeto de los derechos humanos de las niñas, niños y adolescentes y de personas vulnerables migrantes. "
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-28_at_13.25.59.jpeg"
-video: "nil"
-audio: "nil"
+video: nil
+audio: nil
 alt: "“Debemos garantizar derechos humanos de niñas, niños y adolescentes migrantes” -  Geo Bujanda  "
 front: false
 section: "Local"
-news_id: 188148
+redirect_from: /news/188148
 ---
 
 La Presidenta del Congreso del Estado, Geo Bujanda, presentó una iniciativa para reformar la Ley de Apoyo y Protección a Migrantes y la Ley de los Derechos de las Niñas, Niños y Adolescentes, ambos ordenamientos del Estado de Chihuahua, con el propósito de garantizar el reconocimiento y respeto de los derechos humanos de las niñas, niños y adolescentes y de personas vulnerables migrantes.

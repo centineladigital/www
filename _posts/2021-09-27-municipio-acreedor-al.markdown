@@ -14,11 +14,11 @@ author: nil
 description: "En 3 categorías diferentes, transparencia, seguridad y del IMM."
 image: "/uploads/2021/images-WhatsApp_Image_2021-09-27_at_12.35.44_PM.jpeg"
 video: "/uploads/2021/videos-BL02_MARCO_BONILLA_.mp4"
-audio: "nil"
+audio: nil
 alt: "Municipio acreedor al premio Manuel Torres Serranía "
 front: false
 section: "Local"
-news_id: 188105
+redirect_from: /news/188105
 ---
 
 El Alcalde Marco Bonilla declaró que chihuahua ha sido acreedor del premio Manuel Torres Serranía en su sexta edición en 3 categorías, una de las categorías es de  transparencia municipal el segundo premio Francisco Villarreal Torres en seguridad pública en su décima edición, gracias a la  segunda etapa de la plataforma Escudo Chihuahua y el tercer premio  la décima edición del premio Villarreal Torres por el proyecto del Instituto Municipal De La Mujer de superación en acción.
