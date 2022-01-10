@@ -55,3 +55,6 @@ plugins:
 
 collections:
   - ads
+
+whitelist:
+- jekyll-redirect-from
